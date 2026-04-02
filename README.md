@@ -8,14 +8,23 @@ should provide their own personal translations, since this is somewhat subjectiv
 ## General info.
 ### Project structure (so far...)
 root/
+
 │
+
 ├── preprocessing/        # Preprocessing scripts
+
 ├── src/                  # Main project code (not yet available)
+
 ├── json/                 # Initial dataset (ignored by Git)
+
 ├── json_01/              # Intermediate dataset (ignored by Git)
+
 ├── verbs/                # Final dataset
+
 ├── README.md             # This file
+
 ├── LICENSE               # GPLv3 license
+
 └── .gitignore            # Ignored files and folders
 
 ### Execution
