@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desdecir"
+  },
+  "Ger": {
+    "": "desdiciendo"
+  },
+  "PresI": {
+    "1s": "desdigo",
+    "2s": "desdices",
+    "3s": "desdice",
+    "1p": "desdecimos",
+    "2p": "desdecís",
+    "3p": "desdicen"
+  },
+  "PImpI": {
+    "1s": "desdecía",
+    "2s": "desdecías",
+    "3s": "desdecía",
+    "1p": "desdecíamos",
+    "2p": "desdecíais",
+    "3p": "desdecían"
+  },
+  "PPSI": {
+    "1s": "desdije",
+    "2s": "desdijiste",
+    "3s": "desdijo",
+    "1p": "desdijimos",
+    "2p": "desdijisteis",
+    "3p": "desdijeron"
+  },
+  "FutSI": {
+    "1s": "desdeciré, desdiré",
+    "2s": "desdecirás, desdirás",
+    "3s": "desdecirá, desdirá",
+    "1p": "desdeciremos, desdiremos",
+    "2p": "desdeciréis, desdiréis",
+    "3p": "desdecirán, desdirán"
+  },
+  "CondS": {
+    "1s": "desdeciría, desdiría",
+    "2s": "desdecirías, desdirías",
+    "3s": "desdeciría, desdiría",
+    "1p": "desdeciríamos, desdiríamos",
+    "2p": "desdeciríais, desdiríais",
+    "3p": "desdecirían, desdirían"
+  },
+  "PresC": {
+    "1s": "desdiga",
+    "2s": "desdigas",
+    "3s": "desdiga",
+    "1p": "desdigamos",
+    "2p": "desdigáis",
+    "3p": "desdigan"
+  },
+  "PMQPSI": {
+    "1s": "desdijera",
+    "2s": "desdijeras",
+    "3s": "desdijera",
+    "1p": "desdijéramos",
+    "2p": "desdijerais",
+    "3p": "desdijeran"
+  },
+  "PImpC": {
+    "1s": "desdijese",
+    "2s": "desdijeses",
+    "3s": "desdijese",
+    "1p": "desdijésemos",
+    "2p": "desdijeseis",
+    "3p": "desdijesen"
+  },
+  "FutSC": {
+    "1s": "desdijere",
+    "2s": "desdijeres",
+    "3s": "desdijere",
+    "1p": "desdijéremos",
+    "2p": "desdijereis",
+    "3p": "desdijeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desdice",
+    "3s": "desdiga",
+    "1p": "desdigamos",
+    "2p": "desdecid",
+    "3p": "desdigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desdigas",
+    "3s": "no desdiga",
+    "1p": "no desdigamos",
+    "2p": "no desdigáis",
+    "3p": "no desdigan"
+  },
+  "Part-ter": {
+    "": "desdicho"
+  },
+  "Part-ser": {
+    "ms": "desdicho",
+    "fs": "desdicha",
+    "mp": "desdichos",
+    "fp": "desdichas"
+  }
+}

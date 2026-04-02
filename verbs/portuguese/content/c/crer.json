@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "crer"
+  },
+  "InfP": {
+    "1s": "crer",
+    "2s": "creres",
+    "3s": "crer",
+    "1p": "crermos",
+    "2p": "crerdes",
+    "3p": "crerem"
+  },
+  "Ger": {
+    "": "crendo"
+  },
+  "PresI": {
+    "1s": "creio",
+    "2s": "crês",
+    "3s": "crê",
+    "1p": "cremos",
+    "2p": "credes",
+    "3p": "creemObsolete:crêem"
+  },
+  "PImpI": {
+    "1s": "cria",
+    "2s": "crias",
+    "3s": "cria",
+    "1p": "críamos",
+    "2p": "críeis",
+    "3p": "criam"
+  },
+  "PPSI": {
+    "1s": "cri",
+    "2s": "creste",
+    "3s": "creu",
+    "1p": "cremos",
+    "2p": "crestes",
+    "3p": "creram"
+  },
+  "PMQPSI": {
+    "1s": "crera",
+    "2s": "creras",
+    "3s": "crera",
+    "1p": "crêramos",
+    "2p": "crêreis",
+    "3p": "creram"
+  },
+  "FutSI": {
+    "1s": "crerei",
+    "2s": "crerás",
+    "3s": "crerá",
+    "1p": "creremos",
+    "2p": "crereis",
+    "3p": "crerão"
+  },
+  "CondS": {
+    "1s": "creria",
+    "2s": "crerias",
+    "3s": "creria",
+    "1p": "creríamos",
+    "2p": "creríeis",
+    "3p": "creriam"
+  },
+  "PresC": {
+    "1s": "creia",
+    "2s": "creias",
+    "3s": "creia",
+    "1p": "creiamos",
+    "2p": "creiais",
+    "3p": "creiam"
+  },
+  "PImpC": {
+    "1s": "cresse",
+    "2s": "cresses",
+    "3s": "cresse",
+    "1p": "crêssemos",
+    "2p": "crêsseis",
+    "3p": "cressem"
+  },
+  "FutSC": {
+    "1s": "crer",
+    "2s": "creres",
+    "3s": "crer",
+    "1p": "crermos",
+    "2p": "crerdes",
+    "3p": "crerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crê",
+    "3s": "creia",
+    "1p": "creiamos",
+    "2p": "crede",
+    "3p": "creiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não creias",
+    "3s": "não creia",
+    "1p": "não creiamos",
+    "2p": "não creiais",
+    "3p": "não creiam"
+  },
+  "Part-ter": {
+    "": "crido"
+  },
+  "Part-ser": {
+    "ms": "crido",
+    "fs": "crida",
+    "mp": "cridos",
+    "fp": "cridas"
+  }
+}

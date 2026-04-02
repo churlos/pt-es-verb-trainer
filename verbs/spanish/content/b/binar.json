@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "binar"
+  },
+  "Ger": {
+    "": "binando"
+  },
+  "PresI": {
+    "1s": "bino",
+    "2s": "binas",
+    "3s": "bina",
+    "1p": "binamos",
+    "2p": "bináis",
+    "3p": "binan"
+  },
+  "PImpI": {
+    "1s": "binaba",
+    "2s": "binabas",
+    "3s": "binaba",
+    "1p": "binábamos",
+    "2p": "binabais",
+    "3p": "binaban"
+  },
+  "PPSI": {
+    "1s": "biné",
+    "2s": "binaste",
+    "3s": "binó",
+    "1p": "binamos",
+    "2p": "binasteis",
+    "3p": "binaron"
+  },
+  "FutSI": {
+    "1s": "binaré",
+    "2s": "binarás",
+    "3s": "binará",
+    "1p": "binaremos",
+    "2p": "binaréis",
+    "3p": "binarán"
+  },
+  "CondS": {
+    "1s": "binaría",
+    "2s": "binarías",
+    "3s": "binaría",
+    "1p": "binaríamos",
+    "2p": "binaríais",
+    "3p": "binarían"
+  },
+  "PresC": {
+    "1s": "bine",
+    "2s": "bines",
+    "3s": "bine",
+    "1p": "binemos",
+    "2p": "binéis",
+    "3p": "binen"
+  },
+  "PMQPSI": {
+    "1s": "binara",
+    "2s": "binaras",
+    "3s": "binara",
+    "1p": "bináramos",
+    "2p": "binarais",
+    "3p": "binaran"
+  },
+  "PImpC": {
+    "1s": "binase",
+    "2s": "binases",
+    "3s": "binase",
+    "1p": "binásemos",
+    "2p": "binaseis",
+    "3p": "binasen"
+  },
+  "FutSC": {
+    "1s": "binare",
+    "2s": "binares",
+    "3s": "binare",
+    "1p": "bináremos",
+    "2p": "binareis",
+    "3p": "binaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bina",
+    "3s": "bine",
+    "1p": "binemos",
+    "2p": "binad",
+    "3p": "binen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bines",
+    "3s": "no bine",
+    "1p": "no binemos",
+    "2p": "no binéis",
+    "3p": "no binen"
+  },
+  "Part-ter": {
+    "": "binado"
+  },
+  "Part-ser": {
+    "ms": "binado",
+    "fs": "binada",
+    "mp": "binados",
+    "fp": "binadas"
+  }
+}

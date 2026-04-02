@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "facturar"
+  },
+  "InfP": {
+    "1s": "facturar",
+    "2s": "facturares",
+    "3s": "facturar",
+    "1p": "facturarmos",
+    "2p": "facturardes",
+    "3p": "facturarem"
+  },
+  "Ger": {
+    "": "facturando"
+  },
+  "PresI": {
+    "1s": "facturo",
+    "2s": "facturas",
+    "3s": "factura",
+    "1p": "facturamos",
+    "2p": "facturais",
+    "3p": "facturam"
+  },
+  "PImpI": {
+    "1s": "facturava",
+    "2s": "facturavas",
+    "3s": "facturava",
+    "1p": "facturávamos",
+    "2p": "facturáveis",
+    "3p": "facturavam"
+  },
+  "PPSI": {
+    "1s": "facturei",
+    "2s": "facturaste",
+    "3s": "facturou",
+    "1p": "facturámos",
+    "2p": "facturastes",
+    "3p": "facturaram"
+  },
+  "PMQPSI": {
+    "1s": "facturara",
+    "2s": "facturaras",
+    "3s": "facturara",
+    "1p": "facturáramos",
+    "2p": "facturáreis",
+    "3p": "facturaram"
+  },
+  "FutSI": {
+    "1s": "facturarei",
+    "2s": "facturarás",
+    "3s": "facturará",
+    "1p": "facturaremos",
+    "2p": "facturareis",
+    "3p": "facturarão"
+  },
+  "CondS": {
+    "1s": "facturaria",
+    "2s": "facturarias",
+    "3s": "facturaria",
+    "1p": "facturaríamos",
+    "2p": "facturaríeis",
+    "3p": "facturariam"
+  },
+  "PresC": {
+    "1s": "facture",
+    "2s": "factures",
+    "3s": "facture",
+    "1p": "facturemos",
+    "2p": "factureis",
+    "3p": "facturem"
+  },
+  "PImpC": {
+    "1s": "facturasse",
+    "2s": "facturasses",
+    "3s": "facturasse",
+    "1p": "facturássemos",
+    "2p": "facturásseis",
+    "3p": "facturassem"
+  },
+  "FutSC": {
+    "1s": "facturar",
+    "2s": "facturares",
+    "3s": "facturar",
+    "1p": "facturarmos",
+    "2p": "facturardes",
+    "3p": "facturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "factura",
+    "3s": "facture",
+    "1p": "facturemos",
+    "2p": "facturai",
+    "3p": "facturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não factures",
+    "3s": "não facture",
+    "1p": "não facturemos",
+    "2p": "não factureis",
+    "3p": "não facturem"
+  },
+  "Part-ter": {
+    "": "facturado"
+  },
+  "Part-ser": {
+    "ms": "facturado",
+    "fs": "facturada",
+    "mp": "facturados",
+    "fp": "facturadas"
+  }
+}

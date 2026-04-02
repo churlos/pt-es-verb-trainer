@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pringar"
+  },
+  "Ger": {
+    "": "pringando"
+  },
+  "PresI": {
+    "1s": "pringo",
+    "2s": "pringas",
+    "3s": "pringa",
+    "1p": "pringamos",
+    "2p": "pringáis",
+    "3p": "pringan"
+  },
+  "PImpI": {
+    "1s": "pringaba",
+    "2s": "pringabas",
+    "3s": "pringaba",
+    "1p": "pringábamos",
+    "2p": "pringabais",
+    "3p": "pringaban"
+  },
+  "PPSI": {
+    "1s": "pringué",
+    "2s": "pringaste",
+    "3s": "pringó",
+    "1p": "pringamos",
+    "2p": "pringasteis",
+    "3p": "pringaron"
+  },
+  "FutSI": {
+    "1s": "pringaré",
+    "2s": "pringarás",
+    "3s": "pringará",
+    "1p": "pringaremos",
+    "2p": "pringaréis",
+    "3p": "pringarán"
+  },
+  "CondS": {
+    "1s": "pringaría",
+    "2s": "pringarías",
+    "3s": "pringaría",
+    "1p": "pringaríamos",
+    "2p": "pringaríais",
+    "3p": "pringarían"
+  },
+  "PresC": {
+    "1s": "pringue",
+    "2s": "pringues",
+    "3s": "pringue",
+    "1p": "pringuemos",
+    "2p": "pringuéis",
+    "3p": "pringuen"
+  },
+  "PMQPSI": {
+    "1s": "pringara",
+    "2s": "pringaras",
+    "3s": "pringara",
+    "1p": "pringáramos",
+    "2p": "pringarais",
+    "3p": "pringaran"
+  },
+  "PImpC": {
+    "1s": "pringase",
+    "2s": "pringases",
+    "3s": "pringase",
+    "1p": "pringásemos",
+    "2p": "pringaseis",
+    "3p": "pringasen"
+  },
+  "FutSC": {
+    "1s": "pringare",
+    "2s": "pringares",
+    "3s": "pringare",
+    "1p": "pringáremos",
+    "2p": "pringareis",
+    "3p": "pringaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pringa",
+    "3s": "pringue",
+    "1p": "pringuemos",
+    "2p": "pringad",
+    "3p": "pringuen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pringues",
+    "3s": "no pringue",
+    "1p": "no pringuemos",
+    "2p": "no pringuéis",
+    "3p": "no pringuen"
+  },
+  "Part-ter": {
+    "": "pringado"
+  },
+  "Part-ser": {
+    "ms": "pringado",
+    "fs": "pringada",
+    "mp": "pringados",
+    "fp": "pringadas"
+  }
+}

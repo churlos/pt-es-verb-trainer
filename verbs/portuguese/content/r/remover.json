@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "remover"
+  },
+  "InfP": {
+    "1s": "remover",
+    "2s": "removeres",
+    "3s": "remover",
+    "1p": "removermos",
+    "2p": "removerdes",
+    "3p": "removerem"
+  },
+  "Ger": {
+    "": "removendo"
+  },
+  "PresI": {
+    "1s": "removo",
+    "2s": "removes",
+    "3s": "remove",
+    "1p": "removemos",
+    "2p": "removeis",
+    "3p": "removem"
+  },
+  "PImpI": {
+    "1s": "removia",
+    "2s": "removias",
+    "3s": "removia",
+    "1p": "removíamos",
+    "2p": "removíeis",
+    "3p": "removiam"
+  },
+  "PPSI": {
+    "1s": "removi",
+    "2s": "removeste",
+    "3s": "removeu",
+    "1p": "removemos",
+    "2p": "removestes",
+    "3p": "removeram"
+  },
+  "PMQPSI": {
+    "1s": "removera",
+    "2s": "removeras",
+    "3s": "removera",
+    "1p": "removêramos",
+    "2p": "removêreis",
+    "3p": "removeram"
+  },
+  "FutSI": {
+    "1s": "removerei",
+    "2s": "removerás",
+    "3s": "removerá",
+    "1p": "removeremos",
+    "2p": "removereis",
+    "3p": "removerão"
+  },
+  "CondS": {
+    "1s": "removeria",
+    "2s": "removerias",
+    "3s": "removeria",
+    "1p": "removeríamos",
+    "2p": "removeríeis",
+    "3p": "removeriam"
+  },
+  "PresC": {
+    "1s": "remova",
+    "2s": "removas",
+    "3s": "remova",
+    "1p": "removamos",
+    "2p": "removais",
+    "3p": "removam"
+  },
+  "PImpC": {
+    "1s": "removesse",
+    "2s": "removesses",
+    "3s": "removesse",
+    "1p": "removêssemos",
+    "2p": "removêsseis",
+    "3p": "removessem"
+  },
+  "FutSC": {
+    "1s": "remover",
+    "2s": "removeres",
+    "3s": "remover",
+    "1p": "removermos",
+    "2p": "removerdes",
+    "3p": "removerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remove",
+    "3s": "remova",
+    "1p": "removamos",
+    "2p": "removei",
+    "3p": "removam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não removas",
+    "3s": "não remova",
+    "1p": "não removamos",
+    "2p": "não removais",
+    "3p": "não removam"
+  },
+  "Part-ter": {
+    "": "removido"
+  },
+  "Part-ser": {
+    "ms": "removido",
+    "fs": "removida",
+    "mp": "removidos",
+    "fp": "removidas"
+  }
+}

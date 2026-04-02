@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enroscar"
+  },
+  "InfP": {
+    "1s": "enroscar",
+    "2s": "enroscares",
+    "3s": "enroscar",
+    "1p": "enroscarmos",
+    "2p": "enroscardes",
+    "3p": "enroscarem"
+  },
+  "Ger": {
+    "": "enroscando"
+  },
+  "PresI": {
+    "1s": "enrosco",
+    "2s": "enroscas",
+    "3s": "enrosca",
+    "1p": "enroscamos",
+    "2p": "enroscais",
+    "3p": "enroscam"
+  },
+  "PImpI": {
+    "1s": "enroscava",
+    "2s": "enroscavas",
+    "3s": "enroscava",
+    "1p": "enroscávamos",
+    "2p": "enroscáveis",
+    "3p": "enroscavam"
+  },
+  "PPSI": {
+    "1s": "enrosquei",
+    "2s": "enroscaste",
+    "3s": "enroscou",
+    "1p": "enroscámos",
+    "2p": "enroscastes",
+    "3p": "enroscaram"
+  },
+  "PMQPSI": {
+    "1s": "enroscara",
+    "2s": "enroscaras",
+    "3s": "enroscara",
+    "1p": "enroscáramos",
+    "2p": "enroscáreis",
+    "3p": "enroscaram"
+  },
+  "FutSI": {
+    "1s": "enroscarei",
+    "2s": "enroscarás",
+    "3s": "enroscará",
+    "1p": "enroscaremos",
+    "2p": "enroscareis",
+    "3p": "enroscarão"
+  },
+  "CondS": {
+    "1s": "enroscaria",
+    "2s": "enroscarias",
+    "3s": "enroscaria",
+    "1p": "enroscaríamos",
+    "2p": "enroscaríeis",
+    "3p": "enroscariam"
+  },
+  "PresC": {
+    "1s": "enrosque",
+    "2s": "enrosques",
+    "3s": "enrosque",
+    "1p": "enrosquemos",
+    "2p": "enrosqueis",
+    "3p": "enrosquem"
+  },
+  "PImpC": {
+    "1s": "enroscasse",
+    "2s": "enroscasses",
+    "3s": "enroscasse",
+    "1p": "enroscássemos",
+    "2p": "enroscásseis",
+    "3p": "enroscassem"
+  },
+  "FutSC": {
+    "1s": "enroscar",
+    "2s": "enroscares",
+    "3s": "enroscar",
+    "1p": "enroscarmos",
+    "2p": "enroscardes",
+    "3p": "enroscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enrosca",
+    "3s": "enrosque",
+    "1p": "enrosquemos",
+    "2p": "enroscai",
+    "3p": "enrosquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enrosques",
+    "3s": "não enrosque",
+    "1p": "não enrosquemos",
+    "2p": "não enrosqueis",
+    "3p": "não enrosquem"
+  },
+  "Part-ter": {
+    "": "enroscado"
+  },
+  "Part-ser": {
+    "ms": "enroscado",
+    "fs": "enroscada",
+    "mp": "enroscados",
+    "fp": "enroscadas"
+  }
+}

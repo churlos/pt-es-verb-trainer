@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tolerar"
+  },
+  "InfP": {
+    "1s": "tolerar",
+    "2s": "tolerares",
+    "3s": "tolerar",
+    "1p": "tolerarmos",
+    "2p": "tolerardes",
+    "3p": "tolerarem"
+  },
+  "Ger": {
+    "": "tolerando"
+  },
+  "PresI": {
+    "1s": "tolero",
+    "2s": "toleras",
+    "3s": "tolera",
+    "1p": "toleramos",
+    "2p": "tolerais",
+    "3p": "toleram"
+  },
+  "PImpI": {
+    "1s": "tolerava",
+    "2s": "toleravas",
+    "3s": "tolerava",
+    "1p": "tolerávamos",
+    "2p": "toleráveis",
+    "3p": "toleravam"
+  },
+  "PPSI": {
+    "1s": "tolerei",
+    "2s": "toleraste",
+    "3s": "tolerou",
+    "1p": "tolerámos",
+    "2p": "tolerastes",
+    "3p": "toleraram"
+  },
+  "PMQPSI": {
+    "1s": "tolerara",
+    "2s": "toleraras",
+    "3s": "tolerara",
+    "1p": "toleráramos",
+    "2p": "toleráreis",
+    "3p": "toleraram"
+  },
+  "FutSI": {
+    "1s": "tolerarei",
+    "2s": "tolerarás",
+    "3s": "tolerará",
+    "1p": "toleraremos",
+    "2p": "tolerareis",
+    "3p": "tolerarão"
+  },
+  "CondS": {
+    "1s": "toleraria",
+    "2s": "tolerarias",
+    "3s": "toleraria",
+    "1p": "toleraríamos",
+    "2p": "toleraríeis",
+    "3p": "tolerariam"
+  },
+  "PresC": {
+    "1s": "tolere",
+    "2s": "toleres",
+    "3s": "tolere",
+    "1p": "toleremos",
+    "2p": "tolereis",
+    "3p": "tolerem"
+  },
+  "PImpC": {
+    "1s": "tolerasse",
+    "2s": "tolerasses",
+    "3s": "tolerasse",
+    "1p": "tolerássemos",
+    "2p": "tolerásseis",
+    "3p": "tolerassem"
+  },
+  "FutSC": {
+    "1s": "tolerar",
+    "2s": "tolerares",
+    "3s": "tolerar",
+    "1p": "tolerarmos",
+    "2p": "tolerardes",
+    "3p": "tolerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tolera",
+    "3s": "tolere",
+    "1p": "toleremos",
+    "2p": "tolerai",
+    "3p": "tolerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não toleres",
+    "3s": "não tolere",
+    "1p": "não toleremos",
+    "2p": "não tolereis",
+    "3p": "não tolerem"
+  },
+  "Part-ter": {
+    "": "tolerado"
+  },
+  "Part-ser": {
+    "ms": "tolerado",
+    "fs": "tolerada",
+    "mp": "tolerados",
+    "fp": "toleradas"
+  }
+}

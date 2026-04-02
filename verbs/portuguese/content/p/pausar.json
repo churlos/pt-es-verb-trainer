@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pausar"
+  },
+  "InfP": {
+    "1s": "pausar",
+    "2s": "pausares",
+    "3s": "pausar",
+    "1p": "pausarmos",
+    "2p": "pausardes",
+    "3p": "pausarem"
+  },
+  "Ger": {
+    "": "pausando"
+  },
+  "PresI": {
+    "1s": "pauso",
+    "2s": "pausas",
+    "3s": "pausa",
+    "1p": "pausamos",
+    "2p": "pausais",
+    "3p": "pausam"
+  },
+  "PImpI": {
+    "1s": "pausava",
+    "2s": "pausavas",
+    "3s": "pausava",
+    "1p": "pausávamos",
+    "2p": "pausáveis",
+    "3p": "pausavam"
+  },
+  "PPSI": {
+    "1s": "pausei",
+    "2s": "pausaste",
+    "3s": "pausou",
+    "1p": "pausámos",
+    "2p": "pausastes",
+    "3p": "pausaram"
+  },
+  "PMQPSI": {
+    "1s": "pausara",
+    "2s": "pausaras",
+    "3s": "pausara",
+    "1p": "pausáramos",
+    "2p": "pausáreis",
+    "3p": "pausaram"
+  },
+  "FutSI": {
+    "1s": "pausarei",
+    "2s": "pausarás",
+    "3s": "pausará",
+    "1p": "pausaremos",
+    "2p": "pausareis",
+    "3p": "pausarão"
+  },
+  "CondS": {
+    "1s": "pausaria",
+    "2s": "pausarias",
+    "3s": "pausaria",
+    "1p": "pausaríamos",
+    "2p": "pausaríeis",
+    "3p": "pausariam"
+  },
+  "PresC": {
+    "1s": "pause",
+    "2s": "pauses",
+    "3s": "pause",
+    "1p": "pausemos",
+    "2p": "pauseis",
+    "3p": "pausem"
+  },
+  "PImpC": {
+    "1s": "pausasse",
+    "2s": "pausasses",
+    "3s": "pausasse",
+    "1p": "pausássemos",
+    "2p": "pausásseis",
+    "3p": "pausassem"
+  },
+  "FutSC": {
+    "1s": "pausar",
+    "2s": "pausares",
+    "3s": "pausar",
+    "1p": "pausarmos",
+    "2p": "pausardes",
+    "3p": "pausarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pausa",
+    "3s": "pause",
+    "1p": "pausemos",
+    "2p": "pausai",
+    "3p": "pausem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pauses",
+    "3s": "não pause",
+    "1p": "não pausemos",
+    "2p": "não pauseis",
+    "3p": "não pausem"
+  },
+  "Part-ter": {
+    "": "pausado"
+  },
+  "Part-ser": {
+    "ms": "pausado",
+    "fs": "pausada",
+    "mp": "pausados",
+    "fp": "pausadas"
+  }
+}

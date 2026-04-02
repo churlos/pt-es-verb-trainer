@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ingerir"
+  },
+  "Ger": {
+    "": "ingiriendo"
+  },
+  "PresI": {
+    "1s": "ingiero",
+    "2s": "ingieres",
+    "3s": "ingiere",
+    "1p": "ingerimos",
+    "2p": "ingerís",
+    "3p": "ingieren"
+  },
+  "PImpI": {
+    "1s": "ingería",
+    "2s": "ingerías",
+    "3s": "ingería",
+    "1p": "ingeríamos",
+    "2p": "ingeríais",
+    "3p": "ingerían"
+  },
+  "PPSI": {
+    "1s": "ingerí",
+    "2s": "ingeriste",
+    "3s": "ingirió",
+    "1p": "ingerimos",
+    "2p": "ingeristeis",
+    "3p": "ingirieron"
+  },
+  "FutSI": {
+    "1s": "ingeriré",
+    "2s": "ingerirás",
+    "3s": "ingerirá",
+    "1p": "ingeriremos",
+    "2p": "ingeriréis",
+    "3p": "ingerirán"
+  },
+  "CondS": {
+    "1s": "ingeriría",
+    "2s": "ingerirías",
+    "3s": "ingeriría",
+    "1p": "ingeriríamos",
+    "2p": "ingeriríais",
+    "3p": "ingerirían"
+  },
+  "PresC": {
+    "1s": "ingiera",
+    "2s": "ingieras",
+    "3s": "ingiera",
+    "1p": "ingiramos",
+    "2p": "ingiráis",
+    "3p": "ingieran"
+  },
+  "PMQPSI": {
+    "1s": "ingiriera",
+    "2s": "ingirieras",
+    "3s": "ingiriera",
+    "1p": "ingiriéramos",
+    "2p": "ingirierais",
+    "3p": "ingirieran"
+  },
+  "PImpC": {
+    "1s": "ingiriese",
+    "2s": "ingirieses",
+    "3s": "ingiriese",
+    "1p": "ingiriésemos",
+    "2p": "ingirieseis",
+    "3p": "ingiriesen"
+  },
+  "FutSC": {
+    "1s": "ingiriere",
+    "2s": "ingirieres",
+    "3s": "ingiriere",
+    "1p": "ingiriéremos",
+    "2p": "ingiriereis",
+    "3p": "ingirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ingiere",
+    "3s": "ingiera",
+    "1p": "ingiramos",
+    "2p": "ingerid",
+    "3p": "ingieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ingieras",
+    "3s": "no ingiera",
+    "1p": "no ingiramos",
+    "2p": "no ingiráis",
+    "3p": "no ingieran"
+  },
+  "Part-ter": {
+    "": "ingerido"
+  },
+  "Part-ser": {
+    "ms": "ingerido",
+    "fs": "ingerida",
+    "mp": "ingeridos",
+    "fp": "ingeridas"
+  }
+}

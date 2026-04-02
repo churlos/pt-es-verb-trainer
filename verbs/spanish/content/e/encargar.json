@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encargar"
+  },
+  "Ger": {
+    "": "encargando"
+  },
+  "PresI": {
+    "1s": "encargo",
+    "2s": "encargas",
+    "3s": "encarga",
+    "1p": "encargamos",
+    "2p": "encargáis",
+    "3p": "encargan"
+  },
+  "PImpI": {
+    "1s": "encargaba",
+    "2s": "encargabas",
+    "3s": "encargaba",
+    "1p": "encargábamos",
+    "2p": "encargabais",
+    "3p": "encargaban"
+  },
+  "PPSI": {
+    "1s": "encargué",
+    "2s": "encargaste",
+    "3s": "encargó",
+    "1p": "encargamos",
+    "2p": "encargasteis",
+    "3p": "encargaron"
+  },
+  "FutSI": {
+    "1s": "encargaré",
+    "2s": "encargarás",
+    "3s": "encargará",
+    "1p": "encargaremos",
+    "2p": "encargaréis",
+    "3p": "encargarán"
+  },
+  "CondS": {
+    "1s": "encargaría",
+    "2s": "encargarías",
+    "3s": "encargaría",
+    "1p": "encargaríamos",
+    "2p": "encargaríais",
+    "3p": "encargarían"
+  },
+  "PresC": {
+    "1s": "encargue",
+    "2s": "encargues",
+    "3s": "encargue",
+    "1p": "encarguemos",
+    "2p": "encarguéis",
+    "3p": "encarguen"
+  },
+  "PMQPSI": {
+    "1s": "encargara",
+    "2s": "encargaras",
+    "3s": "encargara",
+    "1p": "encargáramos",
+    "2p": "encargarais",
+    "3p": "encargaran"
+  },
+  "PImpC": {
+    "1s": "encargase",
+    "2s": "encargases",
+    "3s": "encargase",
+    "1p": "encargásemos",
+    "2p": "encargaseis",
+    "3p": "encargasen"
+  },
+  "FutSC": {
+    "1s": "encargare",
+    "2s": "encargares",
+    "3s": "encargare",
+    "1p": "encargáremos",
+    "2p": "encargareis",
+    "3p": "encargaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encarga",
+    "3s": "encargue",
+    "1p": "encarguemos",
+    "2p": "encargad",
+    "3p": "encarguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encargues",
+    "3s": "no encargue",
+    "1p": "no encarguemos",
+    "2p": "no encarguéis",
+    "3p": "no encarguen"
+  },
+  "Part-ter": {
+    "": "encargado"
+  },
+  "Part-ser": {
+    "ms": "encargado",
+    "fs": "encargada",
+    "mp": "encargados",
+    "fp": "encargadas"
+  }
+}

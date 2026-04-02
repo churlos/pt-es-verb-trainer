@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "hipotecar"
+  },
+  "InfP": {
+    "1s": "hipotecar",
+    "2s": "hipotecares",
+    "3s": "hipotecar",
+    "1p": "hipotecarmos",
+    "2p": "hipotecardes",
+    "3p": "hipotecarem"
+  },
+  "Ger": {
+    "": "hipotecando"
+  },
+  "PresI": {
+    "1s": "hipoteco",
+    "2s": "hipotecas",
+    "3s": "hipoteca",
+    "1p": "hipotecamos",
+    "2p": "hipotecais",
+    "3p": "hipotecam"
+  },
+  "PImpI": {
+    "1s": "hipotecava",
+    "2s": "hipotecavas",
+    "3s": "hipotecava",
+    "1p": "hipotecávamos",
+    "2p": "hipotecáveis",
+    "3p": "hipotecavam"
+  },
+  "PPSI": {
+    "1s": "hipotequei",
+    "2s": "hipotecaste",
+    "3s": "hipotecou",
+    "1p": "hipotecámos",
+    "2p": "hipotecastes",
+    "3p": "hipotecaram"
+  },
+  "PMQPSI": {
+    "1s": "hipotecara",
+    "2s": "hipotecaras",
+    "3s": "hipotecara",
+    "1p": "hipotecáramos",
+    "2p": "hipotecáreis",
+    "3p": "hipotecaram"
+  },
+  "FutSI": {
+    "1s": "hipotecarei",
+    "2s": "hipotecarás",
+    "3s": "hipotecará",
+    "1p": "hipotecaremos",
+    "2p": "hipotecareis",
+    "3p": "hipotecarão"
+  },
+  "CondS": {
+    "1s": "hipotecaria",
+    "2s": "hipotecarias",
+    "3s": "hipotecaria",
+    "1p": "hipotecaríamos",
+    "2p": "hipotecaríeis",
+    "3p": "hipotecariam"
+  },
+  "PresC": {
+    "1s": "hipoteque",
+    "2s": "hipoteques",
+    "3s": "hipoteque",
+    "1p": "hipotequemos",
+    "2p": "hipotequeis",
+    "3p": "hipotequem"
+  },
+  "PImpC": {
+    "1s": "hipotecasse",
+    "2s": "hipotecasses",
+    "3s": "hipotecasse",
+    "1p": "hipotecássemos",
+    "2p": "hipotecásseis",
+    "3p": "hipotecassem"
+  },
+  "FutSC": {
+    "1s": "hipotecar",
+    "2s": "hipotecares",
+    "3s": "hipotecar",
+    "1p": "hipotecarmos",
+    "2p": "hipotecardes",
+    "3p": "hipotecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hipoteca",
+    "3s": "hipoteque",
+    "1p": "hipotequemos",
+    "2p": "hipotecai",
+    "3p": "hipotequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não hipoteques",
+    "3s": "não hipoteque",
+    "1p": "não hipotequemos",
+    "2p": "não hipotequeis",
+    "3p": "não hipotequem"
+  },
+  "Part-ter": {
+    "": "hipotecado"
+  },
+  "Part-ser": {
+    "ms": "hipotecado",
+    "fs": "hipotecada",
+    "mp": "hipotecados",
+    "fp": "hipotecadas"
+  }
+}

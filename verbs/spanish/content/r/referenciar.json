@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "referenciar"
+  },
+  "Ger": {
+    "": "referenciando"
+  },
+  "PresI": {
+    "1s": "referencio",
+    "2s": "referencias",
+    "3s": "referencia",
+    "1p": "referenciamos",
+    "2p": "referenciáis",
+    "3p": "referencian"
+  },
+  "PImpI": {
+    "1s": "referenciaba",
+    "2s": "referenciabas",
+    "3s": "referenciaba",
+    "1p": "referenciábamos",
+    "2p": "referenciabais",
+    "3p": "referenciaban"
+  },
+  "PPSI": {
+    "1s": "referencié",
+    "2s": "referenciaste",
+    "3s": "referenció",
+    "1p": "referenciamos",
+    "2p": "referenciasteis",
+    "3p": "referenciaron"
+  },
+  "FutSI": {
+    "1s": "referenciaré",
+    "2s": "referenciarás",
+    "3s": "referenciará",
+    "1p": "referenciaremos",
+    "2p": "referenciaréis",
+    "3p": "referenciarán"
+  },
+  "CondS": {
+    "1s": "referenciaría",
+    "2s": "referenciarías",
+    "3s": "referenciaría",
+    "1p": "referenciaríamos",
+    "2p": "referenciaríais",
+    "3p": "referenciarían"
+  },
+  "PresC": {
+    "1s": "referencie",
+    "2s": "referencies",
+    "3s": "referencie",
+    "1p": "referenciemos",
+    "2p": "referenciéis",
+    "3p": "referencien"
+  },
+  "PMQPSI": {
+    "1s": "referenciara",
+    "2s": "referenciaras",
+    "3s": "referenciara",
+    "1p": "referenciáramos",
+    "2p": "referenciarais",
+    "3p": "referenciaran"
+  },
+  "PImpC": {
+    "1s": "referenciase",
+    "2s": "referenciases",
+    "3s": "referenciase",
+    "1p": "referenciásemos",
+    "2p": "referenciaseis",
+    "3p": "referenciasen"
+  },
+  "FutSC": {
+    "1s": "referenciare",
+    "2s": "referenciares",
+    "3s": "referenciare",
+    "1p": "referenciáremos",
+    "2p": "referenciareis",
+    "3p": "referenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "referencia",
+    "3s": "referencie",
+    "1p": "referenciemos",
+    "2p": "referenciad",
+    "3p": "referencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no referencies",
+    "3s": "no referencie",
+    "1p": "no referenciemos",
+    "2p": "no referenciéis",
+    "3p": "no referencien"
+  },
+  "Part-ter": {
+    "": "referenciado"
+  },
+  "Part-ser": {
+    "ms": "referenciado",
+    "fs": "referenciada",
+    "mp": "referenciados",
+    "fp": "referenciadas"
+  }
+}

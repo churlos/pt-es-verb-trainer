@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "construir"
+  },
+  "Ger": {
+    "": "construyendo"
+  },
+  "PresI": {
+    "1s": "construyo",
+    "2s": "construyes",
+    "3s": "construye",
+    "1p": "construimos",
+    "2p": "construís",
+    "3p": "construyen"
+  },
+  "PImpI": {
+    "1s": "construía",
+    "2s": "construías",
+    "3s": "construía",
+    "1p": "construíamos",
+    "2p": "construíais",
+    "3p": "construían"
+  },
+  "PPSI": {
+    "1s": "construí",
+    "2s": "construiste",
+    "3s": "construyó",
+    "1p": "construimos",
+    "2p": "construisteis",
+    "3p": "construyeron"
+  },
+  "FutSI": {
+    "1s": "construiré",
+    "2s": "construirás",
+    "3s": "construirá",
+    "1p": "construiremos",
+    "2p": "construiréis",
+    "3p": "construirán"
+  },
+  "CondS": {
+    "1s": "construiría",
+    "2s": "construirías",
+    "3s": "construiría",
+    "1p": "construiríamos",
+    "2p": "construiríais",
+    "3p": "construirían"
+  },
+  "PresC": {
+    "1s": "construya",
+    "2s": "construyas",
+    "3s": "construya",
+    "1p": "construyamos",
+    "2p": "construyáis",
+    "3p": "construyan"
+  },
+  "PMQPSI": {
+    "1s": "construyera",
+    "2s": "construyeras",
+    "3s": "construyera",
+    "1p": "construyéramos",
+    "2p": "construyerais",
+    "3p": "construyeran"
+  },
+  "PImpC": {
+    "1s": "construyese",
+    "2s": "construyeses",
+    "3s": "construyese",
+    "1p": "construyésemos",
+    "2p": "construyeseis",
+    "3p": "construyesen"
+  },
+  "FutSC": {
+    "1s": "construyere",
+    "2s": "construyeres",
+    "3s": "construyere",
+    "1p": "construyéremos",
+    "2p": "construyereis",
+    "3p": "construyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "construye",
+    "3s": "construya",
+    "1p": "construyamos",
+    "2p": "construid",
+    "3p": "construyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no construyas",
+    "3s": "no construya",
+    "1p": "no construyamos",
+    "2p": "no construyáis",
+    "3p": "no construyan"
+  },
+  "Part-ter": {
+    "": "construido"
+  },
+  "Part-ser": {
+    "ms": "construido",
+    "fs": "construida",
+    "mp": "construidos",
+    "fp": "construidas"
+  }
+}

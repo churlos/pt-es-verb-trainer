@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pressurizar"
+  },
+  "InfP": {
+    "1s": "pressurizar",
+    "2s": "pressurizares",
+    "3s": "pressurizar",
+    "1p": "pressurizarmos",
+    "2p": "pressurizardes",
+    "3p": "pressurizarem"
+  },
+  "Ger": {
+    "": "pressurizando"
+  },
+  "PresI": {
+    "1s": "pressurizo",
+    "2s": "pressurizas",
+    "3s": "pressuriza",
+    "1p": "pressurizamos",
+    "2p": "pressurizais",
+    "3p": "pressurizam"
+  },
+  "PImpI": {
+    "1s": "pressurizava",
+    "2s": "pressurizavas",
+    "3s": "pressurizava",
+    "1p": "pressurizávamos",
+    "2p": "pressurizáveis",
+    "3p": "pressurizavam"
+  },
+  "PPSI": {
+    "1s": "pressurizei",
+    "2s": "pressurizaste",
+    "3s": "pressurizou",
+    "1p": "pressurizámos",
+    "2p": "pressurizastes",
+    "3p": "pressurizaram"
+  },
+  "PMQPSI": {
+    "1s": "pressurizara",
+    "2s": "pressurizaras",
+    "3s": "pressurizara",
+    "1p": "pressurizáramos",
+    "2p": "pressurizáreis",
+    "3p": "pressurizaram"
+  },
+  "FutSI": {
+    "1s": "pressurizarei",
+    "2s": "pressurizarás",
+    "3s": "pressurizará",
+    "1p": "pressurizaremos",
+    "2p": "pressurizareis",
+    "3p": "pressurizarão"
+  },
+  "CondS": {
+    "1s": "pressurizaria",
+    "2s": "pressurizarias",
+    "3s": "pressurizaria",
+    "1p": "pressurizaríamos",
+    "2p": "pressurizaríeis",
+    "3p": "pressurizariam"
+  },
+  "PresC": {
+    "1s": "pressurize",
+    "2s": "pressurizes",
+    "3s": "pressurize",
+    "1p": "pressurizemos",
+    "2p": "pressurizeis",
+    "3p": "pressurizem"
+  },
+  "PImpC": {
+    "1s": "pressurizasse",
+    "2s": "pressurizasses",
+    "3s": "pressurizasse",
+    "1p": "pressurizássemos",
+    "2p": "pressurizásseis",
+    "3p": "pressurizassem"
+  },
+  "FutSC": {
+    "1s": "pressurizar",
+    "2s": "pressurizares",
+    "3s": "pressurizar",
+    "1p": "pressurizarmos",
+    "2p": "pressurizardes",
+    "3p": "pressurizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pressuriza",
+    "3s": "pressurize",
+    "1p": "pressurizemos",
+    "2p": "pressurizai",
+    "3p": "pressurizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pressurizes",
+    "3s": "não pressurize",
+    "1p": "não pressurizemos",
+    "2p": "não pressurizeis",
+    "3p": "não pressurizem"
+  },
+  "Part-ter": {
+    "": "pressurizado"
+  },
+  "Part-ser": {
+    "ms": "pressurizado",
+    "fs": "pressurizada",
+    "mp": "pressurizados",
+    "fp": "pressurizadas"
+  }
+}

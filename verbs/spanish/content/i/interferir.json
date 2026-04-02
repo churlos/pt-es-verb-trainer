@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "interferir"
+  },
+  "Ger": {
+    "": "interfiriendo"
+  },
+  "PresI": {
+    "1s": "interfiero",
+    "2s": "interfieres",
+    "3s": "interfiere",
+    "1p": "interferimos",
+    "2p": "interferís",
+    "3p": "interfieren"
+  },
+  "PImpI": {
+    "1s": "interfería",
+    "2s": "interferías",
+    "3s": "interfería",
+    "1p": "interferíamos",
+    "2p": "interferíais",
+    "3p": "interferían"
+  },
+  "PPSI": {
+    "1s": "interferí",
+    "2s": "interferiste",
+    "3s": "interfirió",
+    "1p": "interferimos",
+    "2p": "interferisteis",
+    "3p": "interfirieron"
+  },
+  "FutSI": {
+    "1s": "interferiré",
+    "2s": "interferirás",
+    "3s": "interferirá",
+    "1p": "interferiremos",
+    "2p": "interferiréis",
+    "3p": "interferirán"
+  },
+  "CondS": {
+    "1s": "interferiría",
+    "2s": "interferirías",
+    "3s": "interferiría",
+    "1p": "interferiríamos",
+    "2p": "interferiríais",
+    "3p": "interferirían"
+  },
+  "PresC": {
+    "1s": "interfiera",
+    "2s": "interfieras",
+    "3s": "interfiera",
+    "1p": "interfiramos",
+    "2p": "interfiráis",
+    "3p": "interfieran"
+  },
+  "PMQPSI": {
+    "1s": "interfiriera",
+    "2s": "interfirieras",
+    "3s": "interfiriera",
+    "1p": "interfiriéramos",
+    "2p": "interfirierais",
+    "3p": "interfirieran"
+  },
+  "PImpC": {
+    "1s": "interfiriese",
+    "2s": "interfirieses",
+    "3s": "interfiriese",
+    "1p": "interfiriésemos",
+    "2p": "interfirieseis",
+    "3p": "interfiriesen"
+  },
+  "FutSC": {
+    "1s": "interfiriere",
+    "2s": "interfirieres",
+    "3s": "interfiriere",
+    "1p": "interfiriéremos",
+    "2p": "interfiriereis",
+    "3p": "interfirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interfiere",
+    "3s": "interfiera",
+    "1p": "interfiramos",
+    "2p": "interferid",
+    "3p": "interfieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no interfieras",
+    "3s": "no interfiera",
+    "1p": "no interfiramos",
+    "2p": "no interfiráis",
+    "3p": "no interfieran"
+  },
+  "Part-ter": {
+    "": "interferido"
+  },
+  "Part-ser": {
+    "ms": "interferido",
+    "fs": "interferida",
+    "mp": "interferidos",
+    "fp": "interferidas"
+  }
+}

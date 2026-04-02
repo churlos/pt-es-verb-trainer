@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "missar"
+  },
+  "InfP": {
+    "1s": "missar",
+    "2s": "missares",
+    "3s": "missar",
+    "1p": "missarmos",
+    "2p": "missardes",
+    "3p": "missarem"
+  },
+  "Ger": {
+    "": "missando"
+  },
+  "PresI": {
+    "1s": "misso",
+    "2s": "missas",
+    "3s": "missa",
+    "1p": "missamos",
+    "2p": "missais",
+    "3p": "missam"
+  },
+  "PImpI": {
+    "1s": "missava",
+    "2s": "missavas",
+    "3s": "missava",
+    "1p": "missávamos",
+    "2p": "missáveis",
+    "3p": "missavam"
+  },
+  "PPSI": {
+    "1s": "missei",
+    "2s": "missaste",
+    "3s": "missou",
+    "1p": "missámos",
+    "2p": "missastes",
+    "3p": "missaram"
+  },
+  "PMQPSI": {
+    "1s": "missara",
+    "2s": "missaras",
+    "3s": "missara",
+    "1p": "missáramos",
+    "2p": "missáreis",
+    "3p": "missaram"
+  },
+  "FutSI": {
+    "1s": "missarei",
+    "2s": "missarás",
+    "3s": "missará",
+    "1p": "missaremos",
+    "2p": "missareis",
+    "3p": "missarão"
+  },
+  "CondS": {
+    "1s": "missaria",
+    "2s": "missarias",
+    "3s": "missaria",
+    "1p": "missaríamos",
+    "2p": "missaríeis",
+    "3p": "missariam"
+  },
+  "PresC": {
+    "1s": "misse",
+    "2s": "misses",
+    "3s": "misse",
+    "1p": "missemos",
+    "2p": "misseis",
+    "3p": "missem"
+  },
+  "PImpC": {
+    "1s": "missasse",
+    "2s": "missasses",
+    "3s": "missasse",
+    "1p": "missássemos",
+    "2p": "missásseis",
+    "3p": "missassem"
+  },
+  "FutSC": {
+    "1s": "missar",
+    "2s": "missares",
+    "3s": "missar",
+    "1p": "missarmos",
+    "2p": "missardes",
+    "3p": "missarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "missa",
+    "3s": "misse",
+    "1p": "missemos",
+    "2p": "missai",
+    "3p": "missem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não misses",
+    "3s": "não misse",
+    "1p": "não missemos",
+    "2p": "não misseis",
+    "3p": "não missem"
+  },
+  "Part-ter": {
+    "": "missado"
+  },
+  "Part-ser": {
+    "ms": "missado",
+    "fs": "missada",
+    "mp": "missados",
+    "fp": "missadas"
+  }
+}

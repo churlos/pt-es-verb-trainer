@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aguar"
+  },
+  "InfP": {
+    "1s": "aguar",
+    "2s": "aguares",
+    "3s": "aguar",
+    "1p": "aguarmos",
+    "2p": "aguardes",
+    "3p": "aguarem"
+  },
+  "Ger": {
+    "": "aguando"
+  },
+  "PresI": {
+    "1s": "águo",
+    "2s": "águas",
+    "3s": "água",
+    "1p": "aguamos",
+    "2p": "aguais",
+    "3p": "águam"
+  },
+  "PImpI": {
+    "1s": "aguava",
+    "2s": "aguavas",
+    "3s": "aguava",
+    "1p": "aguávamos",
+    "2p": "aguáveis",
+    "3p": "aguavam"
+  },
+  "PPSI": {
+    "1s": "agueiObsolete:agüei",
+    "2s": "aguaste",
+    "3s": "aguou",
+    "1p": "aguámos",
+    "2p": "aguastes",
+    "3p": "aguaram"
+  },
+  "PMQPSI": {
+    "1s": "aguara",
+    "2s": "aguaras",
+    "3s": "aguara",
+    "1p": "aguáramos",
+    "2p": "aguáreis",
+    "3p": "aguaram"
+  },
+  "FutSI": {
+    "1s": "aguarei",
+    "2s": "aguarás",
+    "3s": "aguará",
+    "1p": "aguaremos",
+    "2p": "aguareis",
+    "3p": "aguarão"
+  },
+  "CondS": {
+    "1s": "aguaria",
+    "2s": "aguarias",
+    "3s": "aguaria",
+    "1p": "aguaríamos",
+    "2p": "aguaríeis",
+    "3p": "aguariam"
+  },
+  "PresC": {
+    "1s": "águeObsolete:ágüe",
+    "2s": "águesObsolete:ágües",
+    "3s": "águeObsolete:ágüe",
+    "1p": "aguemosObsolete:agüemos",
+    "2p": "agueisObsolete:agüeis",
+    "3p": "águemObsolete:ágüem"
+  },
+  "PImpC": {
+    "1s": "aguasse",
+    "2s": "aguasses",
+    "3s": "aguasse",
+    "1p": "aguássemos",
+    "2p": "aguásseis",
+    "3p": "aguassem"
+  },
+  "FutSC": {
+    "1s": "aguar",
+    "2s": "aguares",
+    "3s": "aguar",
+    "1p": "aguarmos",
+    "2p": "aguardes",
+    "3p": "aguarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "água",
+    "3s": "águeObsolete:ágüe",
+    "1p": "aguemosObsolete:agüemos",
+    "2p": "aguai",
+    "3p": "águemObsolete:ágüem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não águesObsolete:ágües",
+    "3s": "não águeObsolete:ágüe",
+    "1p": "não aguemosObsolete:agüemos",
+    "2p": "não agueisObsolete:agüeis",
+    "3p": "não águemObsolete:ágüem"
+  },
+  "Part-ter": {
+    "": "aguado"
+  },
+  "Part-ser": {
+    "ms": "aguado",
+    "fs": "aguada",
+    "mp": "aguados",
+    "fp": "aguadas"
+  }
+}

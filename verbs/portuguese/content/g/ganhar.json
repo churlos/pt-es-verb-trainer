@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ganhar"
+  },
+  "InfP": {
+    "1s": "ganhar",
+    "2s": "ganhares",
+    "3s": "ganhar",
+    "1p": "ganharmos",
+    "2p": "ganhardes",
+    "3p": "ganharem"
+  },
+  "Ger": {
+    "": "ganhando"
+  },
+  "PresI": {
+    "1s": "ganho",
+    "2s": "ganhas",
+    "3s": "ganha",
+    "1p": "ganhamos",
+    "2p": "ganhais",
+    "3p": "ganham"
+  },
+  "PImpI": {
+    "1s": "ganhava",
+    "2s": "ganhavas",
+    "3s": "ganhava",
+    "1p": "ganhávamos",
+    "2p": "ganháveis",
+    "3p": "ganhavam"
+  },
+  "PPSI": {
+    "1s": "ganhei",
+    "2s": "ganhaste",
+    "3s": "ganhou",
+    "1p": "ganhámos",
+    "2p": "ganhastes",
+    "3p": "ganharam"
+  },
+  "PMQPSI": {
+    "1s": "ganhara",
+    "2s": "ganharas",
+    "3s": "ganhara",
+    "1p": "ganháramos",
+    "2p": "ganháreis",
+    "3p": "ganharam"
+  },
+  "FutSI": {
+    "1s": "ganharei",
+    "2s": "ganharás",
+    "3s": "ganhará",
+    "1p": "ganharemos",
+    "2p": "ganhareis",
+    "3p": "ganharão"
+  },
+  "CondS": {
+    "1s": "ganharia",
+    "2s": "ganharias",
+    "3s": "ganharia",
+    "1p": "ganharíamos",
+    "2p": "ganharíeis",
+    "3p": "ganhariam"
+  },
+  "PresC": {
+    "1s": "ganhe",
+    "2s": "ganhes",
+    "3s": "ganhe",
+    "1p": "ganhemos",
+    "2p": "ganheis",
+    "3p": "ganhem"
+  },
+  "PImpC": {
+    "1s": "ganhasse",
+    "2s": "ganhasses",
+    "3s": "ganhasse",
+    "1p": "ganhássemos",
+    "2p": "ganhásseis",
+    "3p": "ganhassem"
+  },
+  "FutSC": {
+    "1s": "ganhar",
+    "2s": "ganhares",
+    "3s": "ganhar",
+    "1p": "ganharmos",
+    "2p": "ganhardes",
+    "3p": "ganharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ganha",
+    "3s": "ganhe",
+    "1p": "ganhemos",
+    "2p": "ganhai",
+    "3p": "ganhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ganhes",
+    "3s": "não ganhe",
+    "1p": "não ganhemos",
+    "2p": "não ganheis",
+    "3p": "não ganhem"
+  },
+  "Part-ter": {
+    "": "ganhado"
+  },
+  "Part-ser": {
+    "ms": "ganho",
+    "fs": "ganha",
+    "mp": "ganhos",
+    "fp": "ganhas"
+  }
+}

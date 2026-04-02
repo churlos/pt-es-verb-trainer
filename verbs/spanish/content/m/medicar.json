@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "medicar"
+  },
+  "Ger": {
+    "": "medicando"
+  },
+  "PresI": {
+    "1s": "medico",
+    "2s": "medicas",
+    "3s": "medica",
+    "1p": "medicamos",
+    "2p": "medicáis",
+    "3p": "medican"
+  },
+  "PImpI": {
+    "1s": "medicaba",
+    "2s": "medicabas",
+    "3s": "medicaba",
+    "1p": "medicábamos",
+    "2p": "medicabais",
+    "3p": "medicaban"
+  },
+  "PPSI": {
+    "1s": "mediqué",
+    "2s": "medicaste",
+    "3s": "medicó",
+    "1p": "medicamos",
+    "2p": "medicasteis",
+    "3p": "medicaron"
+  },
+  "FutSI": {
+    "1s": "medicaré",
+    "2s": "medicarás",
+    "3s": "medicará",
+    "1p": "medicaremos",
+    "2p": "medicaréis",
+    "3p": "medicarán"
+  },
+  "CondS": {
+    "1s": "medicaría",
+    "2s": "medicarías",
+    "3s": "medicaría",
+    "1p": "medicaríamos",
+    "2p": "medicaríais",
+    "3p": "medicarían"
+  },
+  "PresC": {
+    "1s": "medique",
+    "2s": "mediques",
+    "3s": "medique",
+    "1p": "mediquemos",
+    "2p": "mediquéis",
+    "3p": "mediquen"
+  },
+  "PMQPSI": {
+    "1s": "medicara",
+    "2s": "medicaras",
+    "3s": "medicara",
+    "1p": "medicáramos",
+    "2p": "medicarais",
+    "3p": "medicaran"
+  },
+  "PImpC": {
+    "1s": "medicase",
+    "2s": "medicases",
+    "3s": "medicase",
+    "1p": "medicásemos",
+    "2p": "medicaseis",
+    "3p": "medicasen"
+  },
+  "FutSC": {
+    "1s": "medicare",
+    "2s": "medicares",
+    "3s": "medicare",
+    "1p": "medicáremos",
+    "2p": "medicareis",
+    "3p": "medicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medica",
+    "3s": "medique",
+    "1p": "mediquemos",
+    "2p": "medicad",
+    "3p": "mediquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mediques",
+    "3s": "no medique",
+    "1p": "no mediquemos",
+    "2p": "no mediquéis",
+    "3p": "no mediquen"
+  },
+  "Part-ter": {
+    "": "medicado"
+  },
+  "Part-ser": {
+    "ms": "medicado",
+    "fs": "medicada",
+    "mp": "medicados",
+    "fp": "medicadas"
+  }
+}

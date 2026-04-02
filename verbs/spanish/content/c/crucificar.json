@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "crucificar"
+  },
+  "Ger": {
+    "": "crucificando"
+  },
+  "PresI": {
+    "1s": "crucifico",
+    "2s": "crucificas",
+    "3s": "crucifica",
+    "1p": "crucificamos",
+    "2p": "crucificáis",
+    "3p": "crucifican"
+  },
+  "PImpI": {
+    "1s": "crucificaba",
+    "2s": "crucificabas",
+    "3s": "crucificaba",
+    "1p": "crucificábamos",
+    "2p": "crucificabais",
+    "3p": "crucificaban"
+  },
+  "PPSI": {
+    "1s": "crucifiqué",
+    "2s": "crucificaste",
+    "3s": "crucificó",
+    "1p": "crucificamos",
+    "2p": "crucificasteis",
+    "3p": "crucificaron"
+  },
+  "FutSI": {
+    "1s": "crucificaré",
+    "2s": "crucificarás",
+    "3s": "crucificará",
+    "1p": "crucificaremos",
+    "2p": "crucificaréis",
+    "3p": "crucificarán"
+  },
+  "CondS": {
+    "1s": "crucificaría",
+    "2s": "crucificarías",
+    "3s": "crucificaría",
+    "1p": "crucificaríamos",
+    "2p": "crucificaríais",
+    "3p": "crucificarían"
+  },
+  "PresC": {
+    "1s": "crucifique",
+    "2s": "crucifiques",
+    "3s": "crucifique",
+    "1p": "crucifiquemos",
+    "2p": "crucifiquéis",
+    "3p": "crucifiquen"
+  },
+  "PMQPSI": {
+    "1s": "crucificara",
+    "2s": "crucificaras",
+    "3s": "crucificara",
+    "1p": "crucificáramos",
+    "2p": "crucificarais",
+    "3p": "crucificaran"
+  },
+  "PImpC": {
+    "1s": "crucificase",
+    "2s": "crucificases",
+    "3s": "crucificase",
+    "1p": "crucificásemos",
+    "2p": "crucificaseis",
+    "3p": "crucificasen"
+  },
+  "FutSC": {
+    "1s": "crucificare",
+    "2s": "crucificares",
+    "3s": "crucificare",
+    "1p": "crucificáremos",
+    "2p": "crucificareis",
+    "3p": "crucificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crucifica",
+    "3s": "crucifique",
+    "1p": "crucifiquemos",
+    "2p": "crucificad",
+    "3p": "crucifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no crucifiques",
+    "3s": "no crucifique",
+    "1p": "no crucifiquemos",
+    "2p": "no crucifiquéis",
+    "3p": "no crucifiquen"
+  },
+  "Part-ter": {
+    "": "crucificado"
+  },
+  "Part-ser": {
+    "ms": "crucificado",
+    "fs": "crucificada",
+    "mp": "crucificados",
+    "fp": "crucificadas"
+  }
+}

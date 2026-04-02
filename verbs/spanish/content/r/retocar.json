@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retocar"
+  },
+  "Ger": {
+    "": "retocando"
+  },
+  "PresI": {
+    "1s": "retoco",
+    "2s": "retocas",
+    "3s": "retoca",
+    "1p": "retocamos",
+    "2p": "retocáis",
+    "3p": "retocan"
+  },
+  "PImpI": {
+    "1s": "retocaba",
+    "2s": "retocabas",
+    "3s": "retocaba",
+    "1p": "retocábamos",
+    "2p": "retocabais",
+    "3p": "retocaban"
+  },
+  "PPSI": {
+    "1s": "retoqué",
+    "2s": "retocaste",
+    "3s": "retocó",
+    "1p": "retocamos",
+    "2p": "retocasteis",
+    "3p": "retocaron"
+  },
+  "FutSI": {
+    "1s": "retocaré",
+    "2s": "retocarás",
+    "3s": "retocará",
+    "1p": "retocaremos",
+    "2p": "retocaréis",
+    "3p": "retocarán"
+  },
+  "CondS": {
+    "1s": "retocaría",
+    "2s": "retocarías",
+    "3s": "retocaría",
+    "1p": "retocaríamos",
+    "2p": "retocaríais",
+    "3p": "retocarían"
+  },
+  "PresC": {
+    "1s": "retoque",
+    "2s": "retoques",
+    "3s": "retoque",
+    "1p": "retoquemos",
+    "2p": "retoquéis",
+    "3p": "retoquen"
+  },
+  "PMQPSI": {
+    "1s": "retocara",
+    "2s": "retocaras",
+    "3s": "retocara",
+    "1p": "retocáramos",
+    "2p": "retocarais",
+    "3p": "retocaran"
+  },
+  "PImpC": {
+    "1s": "retocase",
+    "2s": "retocases",
+    "3s": "retocase",
+    "1p": "retocásemos",
+    "2p": "retocaseis",
+    "3p": "retocasen"
+  },
+  "FutSC": {
+    "1s": "retocare",
+    "2s": "retocares",
+    "3s": "retocare",
+    "1p": "retocáremos",
+    "2p": "retocareis",
+    "3p": "retocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retoca",
+    "3s": "retoque",
+    "1p": "retoquemos",
+    "2p": "retocad",
+    "3p": "retoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retoques",
+    "3s": "no retoque",
+    "1p": "no retoquemos",
+    "2p": "no retoquéis",
+    "3p": "no retoquen"
+  },
+  "Part-ter": {
+    "": "retocado"
+  },
+  "Part-ser": {
+    "ms": "retocado",
+    "fs": "retocada",
+    "mp": "retocados",
+    "fp": "retocadas"
+  }
+}

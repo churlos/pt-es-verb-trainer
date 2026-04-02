@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mesar"
+  },
+  "Ger": {
+    "": "mesando"
+  },
+  "PresI": {
+    "1s": "meso",
+    "2s": "mesas",
+    "3s": "mesa",
+    "1p": "mesamos",
+    "2p": "mesáis",
+    "3p": "mesan"
+  },
+  "PImpI": {
+    "1s": "mesaba",
+    "2s": "mesabas",
+    "3s": "mesaba",
+    "1p": "mesábamos",
+    "2p": "mesabais",
+    "3p": "mesaban"
+  },
+  "PPSI": {
+    "1s": "mesé",
+    "2s": "mesaste",
+    "3s": "mesó",
+    "1p": "mesamos",
+    "2p": "mesasteis",
+    "3p": "mesaron"
+  },
+  "FutSI": {
+    "1s": "mesaré",
+    "2s": "mesarás",
+    "3s": "mesará",
+    "1p": "mesaremos",
+    "2p": "mesaréis",
+    "3p": "mesarán"
+  },
+  "CondS": {
+    "1s": "mesaría",
+    "2s": "mesarías",
+    "3s": "mesaría",
+    "1p": "mesaríamos",
+    "2p": "mesaríais",
+    "3p": "mesarían"
+  },
+  "PresC": {
+    "1s": "mese",
+    "2s": "meses",
+    "3s": "mese",
+    "1p": "mesemos",
+    "2p": "meséis",
+    "3p": "mesen"
+  },
+  "PMQPSI": {
+    "1s": "mesara",
+    "2s": "mesaras",
+    "3s": "mesara",
+    "1p": "mesáramos",
+    "2p": "mesarais",
+    "3p": "mesaran"
+  },
+  "PImpC": {
+    "1s": "mesase",
+    "2s": "mesases",
+    "3s": "mesase",
+    "1p": "mesásemos",
+    "2p": "mesaseis",
+    "3p": "mesasen"
+  },
+  "FutSC": {
+    "1s": "mesare",
+    "2s": "mesares",
+    "3s": "mesare",
+    "1p": "mesáremos",
+    "2p": "mesareis",
+    "3p": "mesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mesa",
+    "3s": "mese",
+    "1p": "mesemos",
+    "2p": "mesad",
+    "3p": "mesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no meses",
+    "3s": "no mese",
+    "1p": "no mesemos",
+    "2p": "no meséis",
+    "3p": "no mesen"
+  },
+  "Part-ter": {
+    "": "mesado"
+  },
+  "Part-ser": {
+    "ms": "mesado",
+    "fs": "mesada",
+    "mp": "mesados",
+    "fp": "mesadas"
+  }
+}

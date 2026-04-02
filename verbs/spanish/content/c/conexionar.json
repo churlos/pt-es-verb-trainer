@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conexionar"
+  },
+  "Ger": {
+    "": "conexionando"
+  },
+  "PresI": {
+    "1s": "conexiono",
+    "2s": "conexionas",
+    "3s": "conexiona",
+    "1p": "conexionamos",
+    "2p": "conexionáis",
+    "3p": "conexionan"
+  },
+  "PImpI": {
+    "1s": "conexionaba",
+    "2s": "conexionabas",
+    "3s": "conexionaba",
+    "1p": "conexionábamos",
+    "2p": "conexionabais",
+    "3p": "conexionaban"
+  },
+  "PPSI": {
+    "1s": "conexioné",
+    "2s": "conexionaste",
+    "3s": "conexionó",
+    "1p": "conexionamos",
+    "2p": "conexionasteis",
+    "3p": "conexionaron"
+  },
+  "FutSI": {
+    "1s": "conexionaré",
+    "2s": "conexionarás",
+    "3s": "conexionará",
+    "1p": "conexionaremos",
+    "2p": "conexionaréis",
+    "3p": "conexionarán"
+  },
+  "CondS": {
+    "1s": "conexionaría",
+    "2s": "conexionarías",
+    "3s": "conexionaría",
+    "1p": "conexionaríamos",
+    "2p": "conexionaríais",
+    "3p": "conexionarían"
+  },
+  "PresC": {
+    "1s": "conexione",
+    "2s": "conexiones",
+    "3s": "conexione",
+    "1p": "conexionemos",
+    "2p": "conexionéis",
+    "3p": "conexionen"
+  },
+  "PMQPSI": {
+    "1s": "conexionara",
+    "2s": "conexionaras",
+    "3s": "conexionara",
+    "1p": "conexionáramos",
+    "2p": "conexionarais",
+    "3p": "conexionaran"
+  },
+  "PImpC": {
+    "1s": "conexionase",
+    "2s": "conexionases",
+    "3s": "conexionase",
+    "1p": "conexionásemos",
+    "2p": "conexionaseis",
+    "3p": "conexionasen"
+  },
+  "FutSC": {
+    "1s": "conexionare",
+    "2s": "conexionares",
+    "3s": "conexionare",
+    "1p": "conexionáremos",
+    "2p": "conexionareis",
+    "3p": "conexionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conexiona",
+    "3s": "conexione",
+    "1p": "conexionemos",
+    "2p": "conexionad",
+    "3p": "conexionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conexiones",
+    "3s": "no conexione",
+    "1p": "no conexionemos",
+    "2p": "no conexionéis",
+    "3p": "no conexionen"
+  },
+  "Part-ter": {
+    "": "conexionado"
+  },
+  "Part-ser": {
+    "ms": "conexionado",
+    "fs": "conexionada",
+    "mp": "conexionados",
+    "fp": "conexionadas"
+  }
+}

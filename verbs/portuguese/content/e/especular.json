@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "especular"
+  },
+  "InfP": {
+    "1s": "especular",
+    "2s": "especulares",
+    "3s": "especular",
+    "1p": "especularmos",
+    "2p": "especulardes",
+    "3p": "especularem"
+  },
+  "Ger": {
+    "": "especulando"
+  },
+  "PresI": {
+    "1s": "especulo",
+    "2s": "especulas",
+    "3s": "especula",
+    "1p": "especulamos",
+    "2p": "especulais",
+    "3p": "especulam"
+  },
+  "PImpI": {
+    "1s": "especulava",
+    "2s": "especulavas",
+    "3s": "especulava",
+    "1p": "especulávamos",
+    "2p": "especuláveis",
+    "3p": "especulavam"
+  },
+  "PPSI": {
+    "1s": "especulei",
+    "2s": "especulaste",
+    "3s": "especulou",
+    "1p": "especulámos",
+    "2p": "especulastes",
+    "3p": "especularam"
+  },
+  "PMQPSI": {
+    "1s": "especulara",
+    "2s": "especularas",
+    "3s": "especulara",
+    "1p": "especuláramos",
+    "2p": "especuláreis",
+    "3p": "especularam"
+  },
+  "FutSI": {
+    "1s": "especularei",
+    "2s": "especularás",
+    "3s": "especulará",
+    "1p": "especularemos",
+    "2p": "especulareis",
+    "3p": "especularão"
+  },
+  "CondS": {
+    "1s": "especularia",
+    "2s": "especularias",
+    "3s": "especularia",
+    "1p": "especularíamos",
+    "2p": "especularíeis",
+    "3p": "especulariam"
+  },
+  "PresC": {
+    "1s": "especule",
+    "2s": "especules",
+    "3s": "especule",
+    "1p": "especulemos",
+    "2p": "especuleis",
+    "3p": "especulem"
+  },
+  "PImpC": {
+    "1s": "especulasse",
+    "2s": "especulasses",
+    "3s": "especulasse",
+    "1p": "especulássemos",
+    "2p": "especulásseis",
+    "3p": "especulassem"
+  },
+  "FutSC": {
+    "1s": "especular",
+    "2s": "especulares",
+    "3s": "especular",
+    "1p": "especularmos",
+    "2p": "especulardes",
+    "3p": "especularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "especula",
+    "3s": "especule",
+    "1p": "especulemos",
+    "2p": "especulai",
+    "3p": "especulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não especules",
+    "3s": "não especule",
+    "1p": "não especulemos",
+    "2p": "não especuleis",
+    "3p": "não especulem"
+  },
+  "Part-ter": {
+    "": "especulado"
+  },
+  "Part-ser": {
+    "ms": "especulado",
+    "fs": "especulada",
+    "mp": "especulados",
+    "fp": "especuladas"
+  }
+}

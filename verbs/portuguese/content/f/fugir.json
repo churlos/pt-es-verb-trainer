@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fugir"
+  },
+  "InfP": {
+    "1s": "fugir",
+    "2s": "fugires",
+    "3s": "fugir",
+    "1p": "fugirmos",
+    "2p": "fugirdes",
+    "3p": "fugirem"
+  },
+  "Ger": {
+    "": "fugindo"
+  },
+  "PresI": {
+    "1s": "fujo",
+    "2s": "foges",
+    "3s": "foge",
+    "1p": "fugimos",
+    "2p": "fugis",
+    "3p": "fogem"
+  },
+  "PImpI": {
+    "1s": "fugia",
+    "2s": "fugias",
+    "3s": "fugia",
+    "1p": "fugíamos",
+    "2p": "fugíeis",
+    "3p": "fugiam"
+  },
+  "PPSI": {
+    "1s": "fugi",
+    "2s": "fugiste",
+    "3s": "fugiu",
+    "1p": "fugimos",
+    "2p": "fugistes",
+    "3p": "fugiram"
+  },
+  "PMQPSI": {
+    "1s": "fugira",
+    "2s": "fugiras",
+    "3s": "fugira",
+    "1p": "fugíramos",
+    "2p": "fugíreis",
+    "3p": "fugiram"
+  },
+  "FutSI": {
+    "1s": "fugirei",
+    "2s": "fugirás",
+    "3s": "fugirá",
+    "1p": "fugiremos",
+    "2p": "fugireis",
+    "3p": "fugirão"
+  },
+  "CondS": {
+    "1s": "fugiria",
+    "2s": "fugirias",
+    "3s": "fugiria",
+    "1p": "fugiríamos",
+    "2p": "fugiríeis",
+    "3p": "fugiriam"
+  },
+  "PresC": {
+    "1s": "fuja",
+    "2s": "fujas",
+    "3s": "fuja",
+    "1p": "fujamos",
+    "2p": "fujais",
+    "3p": "fujam"
+  },
+  "PImpC": {
+    "1s": "fugisse",
+    "2s": "fugisses",
+    "3s": "fugisse",
+    "1p": "fugíssemos",
+    "2p": "fugísseis",
+    "3p": "fugissem"
+  },
+  "FutSC": {
+    "1s": "fugir",
+    "2s": "fugires",
+    "3s": "fugir",
+    "1p": "fugirmos",
+    "2p": "fugirdes",
+    "3p": "fugirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "foge",
+    "3s": "fuja",
+    "1p": "fujamos",
+    "2p": "fugi",
+    "3p": "fujam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fujas",
+    "3s": "não fuja",
+    "1p": "não fujamos",
+    "2p": "não fujais",
+    "3p": "não fujam"
+  },
+  "Part-ter": {
+    "": "fugido"
+  },
+  "Part-ser": {
+    "ms": "fugido",
+    "fs": "fugida",
+    "mp": "fugidos",
+    "fp": "fugidas"
+  }
+}

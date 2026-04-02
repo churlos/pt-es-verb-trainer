@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deixar"
+  },
+  "InfP": {
+    "1s": "deixar",
+    "2s": "deixares",
+    "3s": "deixar",
+    "1p": "deixarmos",
+    "2p": "deixardes",
+    "3p": "deixarem"
+  },
+  "Ger": {
+    "": "deixando"
+  },
+  "PresI": {
+    "1s": "deixo",
+    "2s": "deixas",
+    "3s": "deixa",
+    "1p": "deixamos",
+    "2p": "deixais",
+    "3p": "deixam"
+  },
+  "PImpI": {
+    "1s": "deixava",
+    "2s": "deixavas",
+    "3s": "deixava",
+    "1p": "deixávamos",
+    "2p": "deixáveis",
+    "3p": "deixavam"
+  },
+  "PPSI": {
+    "1s": "deixei",
+    "2s": "deixaste",
+    "3s": "deixou",
+    "1p": "deixámos",
+    "2p": "deixastes",
+    "3p": "deixaram"
+  },
+  "PMQPSI": {
+    "1s": "deixara",
+    "2s": "deixaras",
+    "3s": "deixara",
+    "1p": "deixáramos",
+    "2p": "deixáreis",
+    "3p": "deixaram"
+  },
+  "FutSI": {
+    "1s": "deixarei",
+    "2s": "deixarás",
+    "3s": "deixará",
+    "1p": "deixaremos",
+    "2p": "deixareis",
+    "3p": "deixarão"
+  },
+  "CondS": {
+    "1s": "deixaria",
+    "2s": "deixarias",
+    "3s": "deixaria",
+    "1p": "deixaríamos",
+    "2p": "deixaríeis",
+    "3p": "deixariam"
+  },
+  "PresC": {
+    "1s": "deixe",
+    "2s": "deixes",
+    "3s": "deixe",
+    "1p": "deixemos",
+    "2p": "deixeis",
+    "3p": "deixem"
+  },
+  "PImpC": {
+    "1s": "deixasse",
+    "2s": "deixasses",
+    "3s": "deixasse",
+    "1p": "deixássemos",
+    "2p": "deixásseis",
+    "3p": "deixassem"
+  },
+  "FutSC": {
+    "1s": "deixar",
+    "2s": "deixares",
+    "3s": "deixar",
+    "1p": "deixarmos",
+    "2p": "deixardes",
+    "3p": "deixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deixa",
+    "3s": "deixe",
+    "1p": "deixemos",
+    "2p": "deixai",
+    "3p": "deixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deixes",
+    "3s": "não deixe",
+    "1p": "não deixemos",
+    "2p": "não deixeis",
+    "3p": "não deixem"
+  },
+  "Part-ter": {
+    "": "deixado"
+  },
+  "Part-ser": {
+    "ms": "deixado",
+    "fs": "deixada",
+    "mp": "deixados",
+    "fp": "deixadas"
+  }
+}

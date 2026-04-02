@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bootear"
+  },
+  "Ger": {
+    "": "booteando"
+  },
+  "PresI": {
+    "1s": "booteo",
+    "2s": "booteas",
+    "3s": "bootea",
+    "1p": "booteamos",
+    "2p": "booteáis",
+    "3p": "bootean"
+  },
+  "PImpI": {
+    "1s": "booteaba",
+    "2s": "booteabas",
+    "3s": "booteaba",
+    "1p": "booteábamos",
+    "2p": "booteabais",
+    "3p": "booteaban"
+  },
+  "PPSI": {
+    "1s": "booteé",
+    "2s": "booteaste",
+    "3s": "booteó",
+    "1p": "booteamos",
+    "2p": "booteasteis",
+    "3p": "bootearon"
+  },
+  "FutSI": {
+    "1s": "bootearé",
+    "2s": "bootearás",
+    "3s": "booteará",
+    "1p": "bootearemos",
+    "2p": "bootearéis",
+    "3p": "bootearán"
+  },
+  "CondS": {
+    "1s": "bootearía",
+    "2s": "bootearías",
+    "3s": "bootearía",
+    "1p": "bootearíamos",
+    "2p": "bootearíais",
+    "3p": "bootearían"
+  },
+  "PresC": {
+    "1s": "bootee",
+    "2s": "bootees",
+    "3s": "bootee",
+    "1p": "booteemos",
+    "2p": "booteéis",
+    "3p": "booteen"
+  },
+  "PMQPSI": {
+    "1s": "booteara",
+    "2s": "bootearas",
+    "3s": "booteara",
+    "1p": "booteáramos",
+    "2p": "bootearais",
+    "3p": "bootearan"
+  },
+  "PImpC": {
+    "1s": "bootease",
+    "2s": "booteases",
+    "3s": "bootease",
+    "1p": "booteásemos",
+    "2p": "booteaseis",
+    "3p": "booteasen"
+  },
+  "FutSC": {
+    "1s": "booteare",
+    "2s": "booteares",
+    "3s": "booteare",
+    "1p": "booteáremos",
+    "2p": "booteareis",
+    "3p": "bootearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bootea",
+    "3s": "bootee",
+    "1p": "booteemos",
+    "2p": "bootead",
+    "3p": "booteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bootees",
+    "3s": "no bootee",
+    "1p": "no booteemos",
+    "2p": "no booteéis",
+    "3p": "no booteen"
+  },
+  "Part-ter": {
+    "": "booteado"
+  },
+  "Part-ser": {
+    "ms": "booteado",
+    "fs": "booteada",
+    "mp": "booteados",
+    "fp": "booteadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fragmentar"
+  },
+  "Ger": {
+    "": "fragmentando"
+  },
+  "PresI": {
+    "1s": "fragmento",
+    "2s": "fragmentas",
+    "3s": "fragmenta",
+    "1p": "fragmentamos",
+    "2p": "fragmentáis",
+    "3p": "fragmentan"
+  },
+  "PImpI": {
+    "1s": "fragmentaba",
+    "2s": "fragmentabas",
+    "3s": "fragmentaba",
+    "1p": "fragmentábamos",
+    "2p": "fragmentabais",
+    "3p": "fragmentaban"
+  },
+  "PPSI": {
+    "1s": "fragmenté",
+    "2s": "fragmentaste",
+    "3s": "fragmentó",
+    "1p": "fragmentamos",
+    "2p": "fragmentasteis",
+    "3p": "fragmentaron"
+  },
+  "FutSI": {
+    "1s": "fragmentaré",
+    "2s": "fragmentarás",
+    "3s": "fragmentará",
+    "1p": "fragmentaremos",
+    "2p": "fragmentaréis",
+    "3p": "fragmentarán"
+  },
+  "CondS": {
+    "1s": "fragmentaría",
+    "2s": "fragmentarías",
+    "3s": "fragmentaría",
+    "1p": "fragmentaríamos",
+    "2p": "fragmentaríais",
+    "3p": "fragmentarían"
+  },
+  "PresC": {
+    "1s": "fragmente",
+    "2s": "fragmentes",
+    "3s": "fragmente",
+    "1p": "fragmentemos",
+    "2p": "fragmentéis",
+    "3p": "fragmenten"
+  },
+  "PMQPSI": {
+    "1s": "fragmentara",
+    "2s": "fragmentaras",
+    "3s": "fragmentara",
+    "1p": "fragmentáramos",
+    "2p": "fragmentarais",
+    "3p": "fragmentaran"
+  },
+  "PImpC": {
+    "1s": "fragmentase",
+    "2s": "fragmentases",
+    "3s": "fragmentase",
+    "1p": "fragmentásemos",
+    "2p": "fragmentaseis",
+    "3p": "fragmentasen"
+  },
+  "FutSC": {
+    "1s": "fragmentare",
+    "2s": "fragmentares",
+    "3s": "fragmentare",
+    "1p": "fragmentáremos",
+    "2p": "fragmentareis",
+    "3p": "fragmentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fragmenta",
+    "3s": "fragmente",
+    "1p": "fragmentemos",
+    "2p": "fragmentad",
+    "3p": "fragmenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fragmentes",
+    "3s": "no fragmente",
+    "1p": "no fragmentemos",
+    "2p": "no fragmentéis",
+    "3p": "no fragmenten"
+  },
+  "Part-ter": {
+    "": "fragmentado"
+  },
+  "Part-ser": {
+    "ms": "fragmentado",
+    "fs": "fragmentada",
+    "mp": "fragmentados",
+    "fp": "fragmentadas"
+  }
+}

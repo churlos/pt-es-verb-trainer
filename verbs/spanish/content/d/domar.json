@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "domar"
+  },
+  "Ger": {
+    "": "domando"
+  },
+  "PresI": {
+    "1s": "domo",
+    "2s": "domas",
+    "3s": "doma",
+    "1p": "domamos",
+    "2p": "domáis",
+    "3p": "doman"
+  },
+  "PImpI": {
+    "1s": "domaba",
+    "2s": "domabas",
+    "3s": "domaba",
+    "1p": "domábamos",
+    "2p": "domabais",
+    "3p": "domaban"
+  },
+  "PPSI": {
+    "1s": "domé",
+    "2s": "domaste",
+    "3s": "domó",
+    "1p": "domamos",
+    "2p": "domasteis",
+    "3p": "domaron"
+  },
+  "FutSI": {
+    "1s": "domaré",
+    "2s": "domarás",
+    "3s": "domará",
+    "1p": "domaremos",
+    "2p": "domaréis",
+    "3p": "domarán"
+  },
+  "CondS": {
+    "1s": "domaría",
+    "2s": "domarías",
+    "3s": "domaría",
+    "1p": "domaríamos",
+    "2p": "domaríais",
+    "3p": "domarían"
+  },
+  "PresC": {
+    "1s": "dome",
+    "2s": "domes",
+    "3s": "dome",
+    "1p": "domemos",
+    "2p": "doméis",
+    "3p": "domen"
+  },
+  "PMQPSI": {
+    "1s": "domara",
+    "2s": "domaras",
+    "3s": "domara",
+    "1p": "domáramos",
+    "2p": "domarais",
+    "3p": "domaran"
+  },
+  "PImpC": {
+    "1s": "domase",
+    "2s": "domases",
+    "3s": "domase",
+    "1p": "domásemos",
+    "2p": "domaseis",
+    "3p": "domasen"
+  },
+  "FutSC": {
+    "1s": "domare",
+    "2s": "domares",
+    "3s": "domare",
+    "1p": "domáremos",
+    "2p": "domareis",
+    "3p": "domaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "doma",
+    "3s": "dome",
+    "1p": "domemos",
+    "2p": "domad",
+    "3p": "domen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no domes",
+    "3s": "no dome",
+    "1p": "no domemos",
+    "2p": "no doméis",
+    "3p": "no domen"
+  },
+  "Part-ter": {
+    "": "domado"
+  },
+  "Part-ser": {
+    "ms": "domado",
+    "fs": "domada",
+    "mp": "domados",
+    "fp": "domadas"
+  }
+}

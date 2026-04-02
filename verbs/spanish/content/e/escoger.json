@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escoger"
+  },
+  "Ger": {
+    "": "escogiendo"
+  },
+  "PresI": {
+    "1s": "escojo",
+    "2s": "escoges",
+    "3s": "escoge",
+    "1p": "escogemos",
+    "2p": "escogéis",
+    "3p": "escogen"
+  },
+  "PImpI": {
+    "1s": "escogía",
+    "2s": "escogías",
+    "3s": "escogía",
+    "1p": "escogíamos",
+    "2p": "escogíais",
+    "3p": "escogían"
+  },
+  "PPSI": {
+    "1s": "escogí",
+    "2s": "escogiste",
+    "3s": "escogió",
+    "1p": "escogimos",
+    "2p": "escogisteis",
+    "3p": "escogieron"
+  },
+  "FutSI": {
+    "1s": "escogeré",
+    "2s": "escogerás",
+    "3s": "escogerá",
+    "1p": "escogeremos",
+    "2p": "escogeréis",
+    "3p": "escogerán"
+  },
+  "CondS": {
+    "1s": "escogería",
+    "2s": "escogerías",
+    "3s": "escogería",
+    "1p": "escogeríamos",
+    "2p": "escogeríais",
+    "3p": "escogerían"
+  },
+  "PresC": {
+    "1s": "escoja",
+    "2s": "escojas",
+    "3s": "escoja",
+    "1p": "escojamos",
+    "2p": "escojáis",
+    "3p": "escojan"
+  },
+  "PMQPSI": {
+    "1s": "escogiera",
+    "2s": "escogieras",
+    "3s": "escogiera",
+    "1p": "escogiéramos",
+    "2p": "escogierais",
+    "3p": "escogieran"
+  },
+  "PImpC": {
+    "1s": "escogiese",
+    "2s": "escogieses",
+    "3s": "escogiese",
+    "1p": "escogiésemos",
+    "2p": "escogieseis",
+    "3p": "escogiesen"
+  },
+  "FutSC": {
+    "1s": "escogiere",
+    "2s": "escogieres",
+    "3s": "escogiere",
+    "1p": "escogiéremos",
+    "2p": "escogiereis",
+    "3p": "escogieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escoge",
+    "3s": "escoja",
+    "1p": "escojamos",
+    "2p": "escoged",
+    "3p": "escojan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escojas",
+    "3s": "no escoja",
+    "1p": "no escojamos",
+    "2p": "no escojáis",
+    "3p": "no escojan"
+  },
+  "Part-ter": {
+    "": "escogido"
+  },
+  "Part-ser": {
+    "ms": "escogido",
+    "fs": "escogida",
+    "mp": "escogidos",
+    "fp": "escogidas"
+  }
+}

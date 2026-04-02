@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "seletar"
+  },
+  "InfP": {
+    "1s": "seletar",
+    "2s": "seletares",
+    "3s": "seletar",
+    "1p": "seletarmos",
+    "2p": "seletardes",
+    "3p": "seletarem"
+  },
+  "Ger": {
+    "": "seletando"
+  },
+  "PresI": {
+    "1s": "seleto",
+    "2s": "seletas",
+    "3s": "seleta",
+    "1p": "seletamos",
+    "2p": "seletais",
+    "3p": "seletam"
+  },
+  "PImpI": {
+    "1s": "seletava",
+    "2s": "seletavas",
+    "3s": "seletava",
+    "1p": "seletávamos",
+    "2p": "seletáveis",
+    "3p": "seletavam"
+  },
+  "PPSI": {
+    "1s": "seletei",
+    "2s": "seletaste",
+    "3s": "seletou",
+    "1p": "seletámos",
+    "2p": "seletastes",
+    "3p": "seletaram"
+  },
+  "PMQPSI": {
+    "1s": "seletara",
+    "2s": "seletaras",
+    "3s": "seletara",
+    "1p": "seletáramos",
+    "2p": "seletáreis",
+    "3p": "seletaram"
+  },
+  "FutSI": {
+    "1s": "seletarei",
+    "2s": "seletarás",
+    "3s": "seletará",
+    "1p": "seletaremos",
+    "2p": "seletareis",
+    "3p": "seletarão"
+  },
+  "CondS": {
+    "1s": "seletaria",
+    "2s": "seletarias",
+    "3s": "seletaria",
+    "1p": "seletaríamos",
+    "2p": "seletaríeis",
+    "3p": "seletariam"
+  },
+  "PresC": {
+    "1s": "selete",
+    "2s": "seletes",
+    "3s": "selete",
+    "1p": "seletemos",
+    "2p": "seleteis",
+    "3p": "seletem"
+  },
+  "PImpC": {
+    "1s": "seletasse",
+    "2s": "seletasses",
+    "3s": "seletasse",
+    "1p": "seletássemos",
+    "2p": "seletásseis",
+    "3p": "seletassem"
+  },
+  "FutSC": {
+    "1s": "seletar",
+    "2s": "seletares",
+    "3s": "seletar",
+    "1p": "seletarmos",
+    "2p": "seletardes",
+    "3p": "seletarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "seleta",
+    "3s": "selete",
+    "1p": "seletemos",
+    "2p": "seletai",
+    "3p": "seletem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não seletes",
+    "3s": "não selete",
+    "1p": "não seletemos",
+    "2p": "não seleteis",
+    "3p": "não seletem"
+  },
+  "Part-ter": {
+    "": "seletado"
+  },
+  "Part-ser": {
+    "ms": "seletado",
+    "fs": "seletada",
+    "mp": "seletados",
+    "fp": "seletadas"
+  }
+}

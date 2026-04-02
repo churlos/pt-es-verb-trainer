@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tacar"
+  },
+  "InfP": {
+    "1s": "tacar",
+    "2s": "tacares",
+    "3s": "tacar",
+    "1p": "tacarmos",
+    "2p": "tacardes",
+    "3p": "tacarem"
+  },
+  "Ger": {
+    "": "tacando"
+  },
+  "PresI": {
+    "1s": "taco",
+    "2s": "tacas",
+    "3s": "taca",
+    "1p": "tacamos",
+    "2p": "tacais",
+    "3p": "tacam"
+  },
+  "PImpI": {
+    "1s": "tacava",
+    "2s": "tacavas",
+    "3s": "tacava",
+    "1p": "tacávamos",
+    "2p": "tacáveis",
+    "3p": "tacavam"
+  },
+  "PPSI": {
+    "1s": "taquei",
+    "2s": "tacaste",
+    "3s": "tacou",
+    "1p": "tacámos",
+    "2p": "tacastes",
+    "3p": "tacaram"
+  },
+  "PMQPSI": {
+    "1s": "tacara",
+    "2s": "tacaras",
+    "3s": "tacara",
+    "1p": "tacáramos",
+    "2p": "tacáreis",
+    "3p": "tacaram"
+  },
+  "FutSI": {
+    "1s": "tacarei",
+    "2s": "tacarás",
+    "3s": "tacará",
+    "1p": "tacaremos",
+    "2p": "tacareis",
+    "3p": "tacarão"
+  },
+  "CondS": {
+    "1s": "tacaria",
+    "2s": "tacarias",
+    "3s": "tacaria",
+    "1p": "tacaríamos",
+    "2p": "tacaríeis",
+    "3p": "tacariam"
+  },
+  "PresC": {
+    "1s": "taque",
+    "2s": "taques",
+    "3s": "taque",
+    "1p": "taquemos",
+    "2p": "taqueis",
+    "3p": "taquem"
+  },
+  "PImpC": {
+    "1s": "tacasse",
+    "2s": "tacasses",
+    "3s": "tacasse",
+    "1p": "tacássemos",
+    "2p": "tacásseis",
+    "3p": "tacassem"
+  },
+  "FutSC": {
+    "1s": "tacar",
+    "2s": "tacares",
+    "3s": "tacar",
+    "1p": "tacarmos",
+    "2p": "tacardes",
+    "3p": "tacarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "taca",
+    "3s": "taque",
+    "1p": "taquemos",
+    "2p": "tacai",
+    "3p": "taquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não taques",
+    "3s": "não taque",
+    "1p": "não taquemos",
+    "2p": "não taqueis",
+    "3p": "não taquem"
+  },
+  "Part-ter": {
+    "": "tacado"
+  },
+  "Part-ser": {
+    "ms": "tacado",
+    "fs": "tacada",
+    "mp": "tacados",
+    "fp": "tacadas"
+  }
+}

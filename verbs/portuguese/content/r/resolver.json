@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "resolver"
+  },
+  "InfP": {
+    "1s": "resolver",
+    "2s": "resolveres",
+    "3s": "resolver",
+    "1p": "resolvermos",
+    "2p": "resolverdes",
+    "3p": "resolverem"
+  },
+  "Ger": {
+    "": "resolvendo"
+  },
+  "PresI": {
+    "1s": "resolvo",
+    "2s": "resolves",
+    "3s": "resolve",
+    "1p": "resolvemos",
+    "2p": "resolveis",
+    "3p": "resolvem"
+  },
+  "PImpI": {
+    "1s": "resolvia",
+    "2s": "resolvias",
+    "3s": "resolvia",
+    "1p": "resolvíamos",
+    "2p": "resolvíeis",
+    "3p": "resolviam"
+  },
+  "PPSI": {
+    "1s": "resolvi",
+    "2s": "resolveste",
+    "3s": "resolveu",
+    "1p": "resolvemos",
+    "2p": "resolvestes",
+    "3p": "resolveram"
+  },
+  "PMQPSI": {
+    "1s": "resolvera",
+    "2s": "resolveras",
+    "3s": "resolvera",
+    "1p": "resolvêramos",
+    "2p": "resolvêreis",
+    "3p": "resolveram"
+  },
+  "FutSI": {
+    "1s": "resolverei",
+    "2s": "resolverás",
+    "3s": "resolverá",
+    "1p": "resolveremos",
+    "2p": "resolvereis",
+    "3p": "resolverão"
+  },
+  "CondS": {
+    "1s": "resolveria",
+    "2s": "resolverias",
+    "3s": "resolveria",
+    "1p": "resolveríamos",
+    "2p": "resolveríeis",
+    "3p": "resolveriam"
+  },
+  "PresC": {
+    "1s": "resolva",
+    "2s": "resolvas",
+    "3s": "resolva",
+    "1p": "resolvamos",
+    "2p": "resolvais",
+    "3p": "resolvam"
+  },
+  "PImpC": {
+    "1s": "resolvesse",
+    "2s": "resolvesses",
+    "3s": "resolvesse",
+    "1p": "resolvêssemos",
+    "2p": "resolvêsseis",
+    "3p": "resolvessem"
+  },
+  "FutSC": {
+    "1s": "resolver",
+    "2s": "resolveres",
+    "3s": "resolver",
+    "1p": "resolvermos",
+    "2p": "resolverdes",
+    "3p": "resolverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resolve",
+    "3s": "resolva",
+    "1p": "resolvamos",
+    "2p": "resolvei",
+    "3p": "resolvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não resolvas",
+    "3s": "não resolva",
+    "1p": "não resolvamos",
+    "2p": "não resolvais",
+    "3p": "não resolvam"
+  },
+  "Part-ter": {
+    "": "resolvido"
+  },
+  "Part-ser": {
+    "ms": "resolvido",
+    "fs": "resolvida",
+    "mp": "resolvidos",
+    "fp": "resolvidas"
+  }
+}

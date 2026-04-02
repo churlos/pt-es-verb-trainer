@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "afagar"
+  },
+  "InfP": {
+    "1s": "afagar",
+    "2s": "afagares",
+    "3s": "afagar",
+    "1p": "afagarmos",
+    "2p": "afagardes",
+    "3p": "afagarem"
+  },
+  "Ger": {
+    "": "afagando"
+  },
+  "PresI": {
+    "1s": "afago",
+    "2s": "afagas",
+    "3s": "afaga",
+    "1p": "afagamos",
+    "2p": "afagais",
+    "3p": "afagam"
+  },
+  "PImpI": {
+    "1s": "afagava",
+    "2s": "afagavas",
+    "3s": "afagava",
+    "1p": "afagávamos",
+    "2p": "afagáveis",
+    "3p": "afagavam"
+  },
+  "PPSI": {
+    "1s": "afaguei",
+    "2s": "afagaste",
+    "3s": "afagou",
+    "1p": "afagámos",
+    "2p": "afagastes",
+    "3p": "afagaram"
+  },
+  "PMQPSI": {
+    "1s": "afagara",
+    "2s": "afagaras",
+    "3s": "afagara",
+    "1p": "afagáramos",
+    "2p": "afagáreis",
+    "3p": "afagaram"
+  },
+  "FutSI": {
+    "1s": "afagarei",
+    "2s": "afagarás",
+    "3s": "afagará",
+    "1p": "afagaremos",
+    "2p": "afagareis",
+    "3p": "afagarão"
+  },
+  "CondS": {
+    "1s": "afagaria",
+    "2s": "afagarias",
+    "3s": "afagaria",
+    "1p": "afagaríamos",
+    "2p": "afagaríeis",
+    "3p": "afagariam"
+  },
+  "PresC": {
+    "1s": "afague",
+    "2s": "afagues",
+    "3s": "afague",
+    "1p": "afaguemos",
+    "2p": "afagueis",
+    "3p": "afaguem"
+  },
+  "PImpC": {
+    "1s": "afagasse",
+    "2s": "afagasses",
+    "3s": "afagasse",
+    "1p": "afagássemos",
+    "2p": "afagásseis",
+    "3p": "afagassem"
+  },
+  "FutSC": {
+    "1s": "afagar",
+    "2s": "afagares",
+    "3s": "afagar",
+    "1p": "afagarmos",
+    "2p": "afagardes",
+    "3p": "afagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afaga",
+    "3s": "afague",
+    "1p": "afaguemos",
+    "2p": "afagai",
+    "3p": "afaguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não afagues",
+    "3s": "não afague",
+    "1p": "não afaguemos",
+    "2p": "não afagueis",
+    "3p": "não afaguem"
+  },
+  "Part-ter": {
+    "": "afagado"
+  },
+  "Part-ser": {
+    "ms": "afagado",
+    "fs": "afagada",
+    "mp": "afagados",
+    "fp": "afagadas"
+  }
+}

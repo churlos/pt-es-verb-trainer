@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pulsar"
+  },
+  "Ger": {
+    "": "pulsando"
+  },
+  "PresI": {
+    "1s": "pulso",
+    "2s": "pulsas",
+    "3s": "pulsa",
+    "1p": "pulsamos",
+    "2p": "pulsáis",
+    "3p": "pulsan"
+  },
+  "PImpI": {
+    "1s": "pulsaba",
+    "2s": "pulsabas",
+    "3s": "pulsaba",
+    "1p": "pulsábamos",
+    "2p": "pulsabais",
+    "3p": "pulsaban"
+  },
+  "PPSI": {
+    "1s": "pulsé",
+    "2s": "pulsaste",
+    "3s": "pulsó",
+    "1p": "pulsamos",
+    "2p": "pulsasteis",
+    "3p": "pulsaron"
+  },
+  "FutSI": {
+    "1s": "pulsaré",
+    "2s": "pulsarás",
+    "3s": "pulsará",
+    "1p": "pulsaremos",
+    "2p": "pulsaréis",
+    "3p": "pulsarán"
+  },
+  "CondS": {
+    "1s": "pulsaría",
+    "2s": "pulsarías",
+    "3s": "pulsaría",
+    "1p": "pulsaríamos",
+    "2p": "pulsaríais",
+    "3p": "pulsarían"
+  },
+  "PresC": {
+    "1s": "pulse",
+    "2s": "pulses",
+    "3s": "pulse",
+    "1p": "pulsemos",
+    "2p": "pulséis",
+    "3p": "pulsen"
+  },
+  "PMQPSI": {
+    "1s": "pulsara",
+    "2s": "pulsaras",
+    "3s": "pulsara",
+    "1p": "pulsáramos",
+    "2p": "pulsarais",
+    "3p": "pulsaran"
+  },
+  "PImpC": {
+    "1s": "pulsase",
+    "2s": "pulsases",
+    "3s": "pulsase",
+    "1p": "pulsásemos",
+    "2p": "pulsaseis",
+    "3p": "pulsasen"
+  },
+  "FutSC": {
+    "1s": "pulsare",
+    "2s": "pulsares",
+    "3s": "pulsare",
+    "1p": "pulsáremos",
+    "2p": "pulsareis",
+    "3p": "pulsaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pulsa",
+    "3s": "pulse",
+    "1p": "pulsemos",
+    "2p": "pulsad",
+    "3p": "pulsen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pulses",
+    "3s": "no pulse",
+    "1p": "no pulsemos",
+    "2p": "no pulséis",
+    "3p": "no pulsen"
+  },
+  "Part-ter": {
+    "": "pulsado"
+  },
+  "Part-ser": {
+    "ms": "pulsado",
+    "fs": "pulsada",
+    "mp": "pulsados",
+    "fp": "pulsadas"
+  }
+}

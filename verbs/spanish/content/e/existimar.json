@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "existimar"
+  },
+  "Ger": {
+    "": "existimando"
+  },
+  "PresI": {
+    "1s": "existimo",
+    "2s": "existimas",
+    "3s": "existima",
+    "1p": "existimamos",
+    "2p": "existimáis",
+    "3p": "existiman"
+  },
+  "PImpI": {
+    "1s": "existimaba",
+    "2s": "existimabas",
+    "3s": "existimaba",
+    "1p": "existimábamos",
+    "2p": "existimabais",
+    "3p": "existimaban"
+  },
+  "PPSI": {
+    "1s": "existimé",
+    "2s": "existimaste",
+    "3s": "existimó",
+    "1p": "existimamos",
+    "2p": "existimasteis",
+    "3p": "existimaron"
+  },
+  "FutSI": {
+    "1s": "existimaré",
+    "2s": "existimarás",
+    "3s": "existimará",
+    "1p": "existimaremos",
+    "2p": "existimaréis",
+    "3p": "existimarán"
+  },
+  "CondS": {
+    "1s": "existimaría",
+    "2s": "existimarías",
+    "3s": "existimaría",
+    "1p": "existimaríamos",
+    "2p": "existimaríais",
+    "3p": "existimarían"
+  },
+  "PresC": {
+    "1s": "existime",
+    "2s": "existimes",
+    "3s": "existime",
+    "1p": "existimemos",
+    "2p": "existiméis",
+    "3p": "existimen"
+  },
+  "PMQPSI": {
+    "1s": "existimara",
+    "2s": "existimaras",
+    "3s": "existimara",
+    "1p": "existimáramos",
+    "2p": "existimarais",
+    "3p": "existimaran"
+  },
+  "PImpC": {
+    "1s": "existimase",
+    "2s": "existimases",
+    "3s": "existimase",
+    "1p": "existimásemos",
+    "2p": "existimaseis",
+    "3p": "existimasen"
+  },
+  "FutSC": {
+    "1s": "existimare",
+    "2s": "existimares",
+    "3s": "existimare",
+    "1p": "existimáremos",
+    "2p": "existimareis",
+    "3p": "existimaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "existima",
+    "3s": "existime",
+    "1p": "existimemos",
+    "2p": "existimad",
+    "3p": "existimen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no existimes",
+    "3s": "no existime",
+    "1p": "no existimemos",
+    "2p": "no existiméis",
+    "3p": "no existimen"
+  },
+  "Part-ter": {
+    "": "existimado"
+  },
+  "Part-ser": {
+    "ms": "existimado",
+    "fs": "existimada",
+    "mp": "existimados",
+    "fp": "existimadas"
+  }
+}

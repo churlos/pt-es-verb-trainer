@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "flamear"
+  },
+  "Ger": {
+    "": "flameando"
+  },
+  "PresI": {
+    "1s": "flameo",
+    "2s": "flameas",
+    "3s": "flamea",
+    "1p": "flameamos",
+    "2p": "flameáis",
+    "3p": "flamean"
+  },
+  "PImpI": {
+    "1s": "flameaba",
+    "2s": "flameabas",
+    "3s": "flameaba",
+    "1p": "flameábamos",
+    "2p": "flameabais",
+    "3p": "flameaban"
+  },
+  "PPSI": {
+    "1s": "flameé",
+    "2s": "flameaste",
+    "3s": "flameó",
+    "1p": "flameamos",
+    "2p": "flameasteis",
+    "3p": "flamearon"
+  },
+  "FutSI": {
+    "1s": "flamearé",
+    "2s": "flamearás",
+    "3s": "flameará",
+    "1p": "flamearemos",
+    "2p": "flamearéis",
+    "3p": "flamearán"
+  },
+  "CondS": {
+    "1s": "flamearía",
+    "2s": "flamearías",
+    "3s": "flamearía",
+    "1p": "flamearíamos",
+    "2p": "flamearíais",
+    "3p": "flamearían"
+  },
+  "PresC": {
+    "1s": "flamee",
+    "2s": "flamees",
+    "3s": "flamee",
+    "1p": "flameemos",
+    "2p": "flameéis",
+    "3p": "flameen"
+  },
+  "PMQPSI": {
+    "1s": "flameara",
+    "2s": "flamearas",
+    "3s": "flameara",
+    "1p": "flameáramos",
+    "2p": "flamearais",
+    "3p": "flamearan"
+  },
+  "PImpC": {
+    "1s": "flamease",
+    "2s": "flameases",
+    "3s": "flamease",
+    "1p": "flameásemos",
+    "2p": "flameaseis",
+    "3p": "flameasen"
+  },
+  "FutSC": {
+    "1s": "flameare",
+    "2s": "flameares",
+    "3s": "flameare",
+    "1p": "flameáremos",
+    "2p": "flameareis",
+    "3p": "flamearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flamea",
+    "3s": "flamee",
+    "1p": "flameemos",
+    "2p": "flamead",
+    "3p": "flameen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no flamees",
+    "3s": "no flamee",
+    "1p": "no flameemos",
+    "2p": "no flameéis",
+    "3p": "no flameen"
+  },
+  "Part-ter": {
+    "": "flameado"
+  },
+  "Part-ser": {
+    "ms": "flameado",
+    "fs": "flameada",
+    "mp": "flameados",
+    "fp": "flameadas"
+  }
+}

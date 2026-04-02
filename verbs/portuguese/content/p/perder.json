@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perder"
+  },
+  "InfP": {
+    "1s": "perder",
+    "2s": "perderes",
+    "3s": "perder",
+    "1p": "perdermos",
+    "2p": "perderdes",
+    "3p": "perderem"
+  },
+  "Ger": {
+    "": "perdendo"
+  },
+  "PresI": {
+    "1s": "perco",
+    "2s": "perdes",
+    "3s": "perde",
+    "1p": "perdemos",
+    "2p": "perdeis",
+    "3p": "perdem"
+  },
+  "PImpI": {
+    "1s": "perdia",
+    "2s": "perdias",
+    "3s": "perdia",
+    "1p": "perdíamos",
+    "2p": "perdíeis",
+    "3p": "perdiam"
+  },
+  "PPSI": {
+    "1s": "perdi",
+    "2s": "perdeste",
+    "3s": "perdeu",
+    "1p": "perdemos",
+    "2p": "perdestes",
+    "3p": "perderam"
+  },
+  "PMQPSI": {
+    "1s": "perdera",
+    "2s": "perderas",
+    "3s": "perdera",
+    "1p": "perdêramos",
+    "2p": "perdêreis",
+    "3p": "perderam"
+  },
+  "FutSI": {
+    "1s": "perderei",
+    "2s": "perderás",
+    "3s": "perderá",
+    "1p": "perderemos",
+    "2p": "perdereis",
+    "3p": "perderão"
+  },
+  "CondS": {
+    "1s": "perderia",
+    "2s": "perderias",
+    "3s": "perderia",
+    "1p": "perderíamos",
+    "2p": "perderíeis",
+    "3p": "perderiam"
+  },
+  "PresC": {
+    "1s": "perca",
+    "2s": "percas",
+    "3s": "perca",
+    "1p": "percamos",
+    "2p": "percais",
+    "3p": "percam"
+  },
+  "PImpC": {
+    "1s": "perdesse",
+    "2s": "perdesses",
+    "3s": "perdesse",
+    "1p": "perdêssemos",
+    "2p": "perdêsseis",
+    "3p": "perdessem"
+  },
+  "FutSC": {
+    "1s": "perder",
+    "2s": "perderes",
+    "3s": "perder",
+    "1p": "perdermos",
+    "2p": "perderdes",
+    "3p": "perderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perde",
+    "3s": "perca",
+    "1p": "percamos",
+    "2p": "perdei",
+    "3p": "percam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não percas",
+    "3s": "não perca",
+    "1p": "não percamos",
+    "2p": "não percais",
+    "3p": "não percam"
+  },
+  "Part-ter": {
+    "": "perdido"
+  },
+  "Part-ser": {
+    "ms": "perdido",
+    "fs": "perdida",
+    "mp": "perdidos",
+    "fp": "perdidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sobreimprimir"
+  },
+  "Ger": {
+    "": "sobreimprimiendo"
+  },
+  "PresI": {
+    "1s": "sobreimprimo",
+    "2s": "sobreimprimes",
+    "3s": "sobreimprime",
+    "1p": "sobreimprimimos",
+    "2p": "sobreimprimís",
+    "3p": "sobreimprimen"
+  },
+  "PImpI": {
+    "1s": "sobreimprimía",
+    "2s": "sobreimprimías",
+    "3s": "sobreimprimía",
+    "1p": "sobreimprimíamos",
+    "2p": "sobreimprimíais",
+    "3p": "sobreimprimían"
+  },
+  "PPSI": {
+    "1s": "sobreimprimí",
+    "2s": "sobreimprimiste",
+    "3s": "sobreimprimió",
+    "1p": "sobreimprimimos",
+    "2p": "sobreimprimisteis",
+    "3p": "sobreimprimieron"
+  },
+  "FutSI": {
+    "1s": "sobreimprimiré",
+    "2s": "sobreimprimirás",
+    "3s": "sobreimprimirá",
+    "1p": "sobreimprimiremos",
+    "2p": "sobreimprimiréis",
+    "3p": "sobreimprimirán"
+  },
+  "CondS": {
+    "1s": "sobreimprimiría",
+    "2s": "sobreimprimirías",
+    "3s": "sobreimprimiría",
+    "1p": "sobreimprimiríamos",
+    "2p": "sobreimprimiríais",
+    "3p": "sobreimprimirían"
+  },
+  "PresC": {
+    "1s": "sobreimprima",
+    "2s": "sobreimprimas",
+    "3s": "sobreimprima",
+    "1p": "sobreimprimamos",
+    "2p": "sobreimprimáis",
+    "3p": "sobreimpriman"
+  },
+  "PMQPSI": {
+    "1s": "sobreimprimiera",
+    "2s": "sobreimprimieras",
+    "3s": "sobreimprimiera",
+    "1p": "sobreimprimiéramos",
+    "2p": "sobreimprimierais",
+    "3p": "sobreimprimieran"
+  },
+  "PImpC": {
+    "1s": "sobreimprimiese",
+    "2s": "sobreimprimieses",
+    "3s": "sobreimprimiese",
+    "1p": "sobreimprimiésemos",
+    "2p": "sobreimprimieseis",
+    "3p": "sobreimprimiesen"
+  },
+  "FutSC": {
+    "1s": "sobreimprimiere",
+    "2s": "sobreimprimieres",
+    "3s": "sobreimprimiere",
+    "1p": "sobreimprimiéremos",
+    "2p": "sobreimprimiereis",
+    "3p": "sobreimprimieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sobreimprime",
+    "3s": "sobreimprima",
+    "1p": "sobreimprimamos",
+    "2p": "sobreimprimid",
+    "3p": "sobreimpriman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sobreimprimas",
+    "3s": "no sobreimprima",
+    "1p": "no sobreimprimamos",
+    "2p": "no sobreimprimáis",
+    "3p": "no sobreimpriman"
+  },
+  "Part-ter": {
+    "": "sobreimpreso, sobreimprimido"
+  },
+  "Part-ser": {
+    "ms": "sobreimpreso, sobreimprimido",
+    "fs": "sobreimpresa, sobreimprimida",
+    "mp": "sobreimpresos, sobreimprimidos",
+    "fp": "sobreimpresas, sobreimprimidas"
+  }
+}

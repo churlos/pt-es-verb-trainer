@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "verificar"
+  },
+  "Ger": {
+    "": "verificando"
+  },
+  "PresI": {
+    "1s": "verifico",
+    "2s": "verificas",
+    "3s": "verifica",
+    "1p": "verificamos",
+    "2p": "verificáis",
+    "3p": "verifican"
+  },
+  "PImpI": {
+    "1s": "verificaba",
+    "2s": "verificabas",
+    "3s": "verificaba",
+    "1p": "verificábamos",
+    "2p": "verificabais",
+    "3p": "verificaban"
+  },
+  "PPSI": {
+    "1s": "verifiqué",
+    "2s": "verificaste",
+    "3s": "verificó",
+    "1p": "verificamos",
+    "2p": "verificasteis",
+    "3p": "verificaron"
+  },
+  "FutSI": {
+    "1s": "verificaré",
+    "2s": "verificarás",
+    "3s": "verificará",
+    "1p": "verificaremos",
+    "2p": "verificaréis",
+    "3p": "verificarán"
+  },
+  "CondS": {
+    "1s": "verificaría",
+    "2s": "verificarías",
+    "3s": "verificaría",
+    "1p": "verificaríamos",
+    "2p": "verificaríais",
+    "3p": "verificarían"
+  },
+  "PresC": {
+    "1s": "verifique",
+    "2s": "verifiques",
+    "3s": "verifique",
+    "1p": "verifiquemos",
+    "2p": "verifiquéis",
+    "3p": "verifiquen"
+  },
+  "PMQPSI": {
+    "1s": "verificara",
+    "2s": "verificaras",
+    "3s": "verificara",
+    "1p": "verificáramos",
+    "2p": "verificarais",
+    "3p": "verificaran"
+  },
+  "PImpC": {
+    "1s": "verificase",
+    "2s": "verificases",
+    "3s": "verificase",
+    "1p": "verificásemos",
+    "2p": "verificaseis",
+    "3p": "verificasen"
+  },
+  "FutSC": {
+    "1s": "verificare",
+    "2s": "verificares",
+    "3s": "verificare",
+    "1p": "verificáremos",
+    "2p": "verificareis",
+    "3p": "verificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "verifica",
+    "3s": "verifique",
+    "1p": "verifiquemos",
+    "2p": "verificad",
+    "3p": "verifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no verifiques",
+    "3s": "no verifique",
+    "1p": "no verifiquemos",
+    "2p": "no verifiquéis",
+    "3p": "no verifiquen"
+  },
+  "Part-ter": {
+    "": "verificado"
+  },
+  "Part-ser": {
+    "ms": "verificado",
+    "fs": "verificada",
+    "mp": "verificados",
+    "fp": "verificadas"
+  }
+}

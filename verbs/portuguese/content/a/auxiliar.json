@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "auxiliar"
+  },
+  "InfP": {
+    "1s": "auxiliar",
+    "2s": "auxiliares",
+    "3s": "auxiliar",
+    "1p": "auxiliarmos",
+    "2p": "auxiliardes",
+    "3p": "auxiliarem"
+  },
+  "Ger": {
+    "": "auxiliando"
+  },
+  "PresI": {
+    "1s": "auxilio",
+    "2s": "auxilias",
+    "3s": "auxilia",
+    "1p": "auxiliamos",
+    "2p": "auxiliais",
+    "3p": "auxiliam"
+  },
+  "PImpI": {
+    "1s": "auxiliava",
+    "2s": "auxiliavas",
+    "3s": "auxiliava",
+    "1p": "auxiliávamos",
+    "2p": "auxiliáveis",
+    "3p": "auxiliavam"
+  },
+  "PPSI": {
+    "1s": "auxiliei",
+    "2s": "auxiliaste",
+    "3s": "auxiliou",
+    "1p": "auxiliámos",
+    "2p": "auxiliastes",
+    "3p": "auxiliaram"
+  },
+  "PMQPSI": {
+    "1s": "auxiliara",
+    "2s": "auxiliaras",
+    "3s": "auxiliara",
+    "1p": "auxiliáramos",
+    "2p": "auxiliáreis",
+    "3p": "auxiliaram"
+  },
+  "FutSI": {
+    "1s": "auxiliarei",
+    "2s": "auxiliarás",
+    "3s": "auxiliará",
+    "1p": "auxiliaremos",
+    "2p": "auxiliareis",
+    "3p": "auxiliarão"
+  },
+  "CondS": {
+    "1s": "auxiliaria",
+    "2s": "auxiliarias",
+    "3s": "auxiliaria",
+    "1p": "auxiliaríamos",
+    "2p": "auxiliaríeis",
+    "3p": "auxiliariam"
+  },
+  "PresC": {
+    "1s": "auxilie",
+    "2s": "auxilies",
+    "3s": "auxilie",
+    "1p": "auxiliemos",
+    "2p": "auxilieis",
+    "3p": "auxiliem"
+  },
+  "PImpC": {
+    "1s": "auxiliasse",
+    "2s": "auxiliasses",
+    "3s": "auxiliasse",
+    "1p": "auxiliássemos",
+    "2p": "auxiliásseis",
+    "3p": "auxiliassem"
+  },
+  "FutSC": {
+    "1s": "auxiliar",
+    "2s": "auxiliares",
+    "3s": "auxiliar",
+    "1p": "auxiliarmos",
+    "2p": "auxiliardes",
+    "3p": "auxiliarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "auxilia",
+    "3s": "auxilie",
+    "1p": "auxiliemos",
+    "2p": "auxiliai",
+    "3p": "auxiliem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não auxilies",
+    "3s": "não auxilie",
+    "1p": "não auxiliemos",
+    "2p": "não auxilieis",
+    "3p": "não auxiliem"
+  },
+  "Part-ter": {
+    "": "auxiliado"
+  },
+  "Part-ser": {
+    "ms": "auxiliado",
+    "fs": "auxiliada",
+    "mp": "auxiliados",
+    "fp": "auxiliadas"
+  }
+}

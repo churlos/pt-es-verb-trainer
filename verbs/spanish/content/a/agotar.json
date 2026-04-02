@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "agotar"
+  },
+  "Ger": {
+    "": "agotando"
+  },
+  "PresI": {
+    "1s": "agoto",
+    "2s": "agotas",
+    "3s": "agota",
+    "1p": "agotamos",
+    "2p": "agotáis",
+    "3p": "agotan"
+  },
+  "PImpI": {
+    "1s": "agotaba",
+    "2s": "agotabas",
+    "3s": "agotaba",
+    "1p": "agotábamos",
+    "2p": "agotabais",
+    "3p": "agotaban"
+  },
+  "PPSI": {
+    "1s": "agoté",
+    "2s": "agotaste",
+    "3s": "agotó",
+    "1p": "agotamos",
+    "2p": "agotasteis",
+    "3p": "agotaron"
+  },
+  "FutSI": {
+    "1s": "agotaré",
+    "2s": "agotarás",
+    "3s": "agotará",
+    "1p": "agotaremos",
+    "2p": "agotaréis",
+    "3p": "agotarán"
+  },
+  "CondS": {
+    "1s": "agotaría",
+    "2s": "agotarías",
+    "3s": "agotaría",
+    "1p": "agotaríamos",
+    "2p": "agotaríais",
+    "3p": "agotarían"
+  },
+  "PresC": {
+    "1s": "agote",
+    "2s": "agotes",
+    "3s": "agote",
+    "1p": "agotemos",
+    "2p": "agotéis",
+    "3p": "agoten"
+  },
+  "PMQPSI": {
+    "1s": "agotara",
+    "2s": "agotaras",
+    "3s": "agotara",
+    "1p": "agotáramos",
+    "2p": "agotarais",
+    "3p": "agotaran"
+  },
+  "PImpC": {
+    "1s": "agotase",
+    "2s": "agotases",
+    "3s": "agotase",
+    "1p": "agotásemos",
+    "2p": "agotaseis",
+    "3p": "agotasen"
+  },
+  "FutSC": {
+    "1s": "agotare",
+    "2s": "agotares",
+    "3s": "agotare",
+    "1p": "agotáremos",
+    "2p": "agotareis",
+    "3p": "agotaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agota",
+    "3s": "agote",
+    "1p": "agotemos",
+    "2p": "agotad",
+    "3p": "agoten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no agotes",
+    "3s": "no agote",
+    "1p": "no agotemos",
+    "2p": "no agotéis",
+    "3p": "no agoten"
+  },
+  "Part-ter": {
+    "": "agotado"
+  },
+  "Part-ser": {
+    "ms": "agotado",
+    "fs": "agotada",
+    "mp": "agotados",
+    "fp": "agotadas"
+  }
+}

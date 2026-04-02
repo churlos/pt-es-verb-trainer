@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reproducirse"
+  },
+  "Ger": {
+    "": "reproduciéndose"
+  },
+  "PresI": {
+    "1s": "me reproduzco",
+    "2s": "te reproduces",
+    "3s": "se reproduce",
+    "1p": "nos reproducimos",
+    "2p": "os reproducís",
+    "3p": "se reproducen"
+  },
+  "PImpI": {
+    "1s": "me reproducía",
+    "2s": "te reproducías",
+    "3s": "se reproducía",
+    "1p": "nos reproducíamos",
+    "2p": "os reproducíais",
+    "3p": "se reproducían"
+  },
+  "PPSI": {
+    "1s": "me reproduje",
+    "2s": "te reprodujiste",
+    "3s": "se reprodujo",
+    "1p": "nos reprodujimos",
+    "2p": "os reprodujisteis",
+    "3p": "se reprodujeron"
+  },
+  "FutSI": {
+    "1s": "me reproduciré",
+    "2s": "te reproducirás",
+    "3s": "se reproducirá",
+    "1p": "nos reproduciremos",
+    "2p": "os reproduciréis",
+    "3p": "se reproducirán"
+  },
+  "CondS": {
+    "1s": "me reproduciría",
+    "2s": "te reproducirías",
+    "3s": "se reproduciría",
+    "1p": "nos reproduciríamos",
+    "2p": "os reproduciríais",
+    "3p": "se reproducirían"
+  },
+  "PresC": {
+    "1s": "me reproduzca",
+    "2s": "te reproduzcas",
+    "3s": "se reproduzca",
+    "1p": "nos reproduzcamos",
+    "2p": "os reproduzcáis",
+    "3p": "se reproduzcan"
+  },
+  "PMQPSI": {
+    "1s": "me reprodujera",
+    "2s": "te reprodujeras",
+    "3s": "se reprodujera",
+    "1p": "nos reprodujéramos",
+    "2p": "os reprodujerais",
+    "3p": "se reprodujeran"
+  },
+  "PImpC": {
+    "1s": "me reprodujese",
+    "2s": "te reprodujeses",
+    "3s": "se reprodujese",
+    "1p": "nos reprodujésemos",
+    "2p": "os reprodujeseis",
+    "3p": "se reprodujesen"
+  },
+  "FutSC": {
+    "1s": "me reprodujere",
+    "2s": "te reprodujeres",
+    "3s": "se reprodujere",
+    "1p": "nos reprodujéremos",
+    "2p": "os reprodujereis",
+    "3p": "se reprodujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reprodúcete",
+    "3s": "reprodúzcase",
+    "1p": "reproduzcámonos",
+    "2p": "reproducíos",
+    "3p": "reprodúzcanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te reproduzcas",
+    "3s": "no se reproduzca",
+    "1p": "no nos reproduzcamos",
+    "2p": "no os reproduzcáis",
+    "3p": "no se reproduzcan"
+  },
+  "Part-ter": {
+    "": "reproducido"
+  },
+  "Part-ser": {
+    "ms": "reproducido",
+    "fs": "reproducida",
+    "mp": "reproducidos",
+    "fp": "reproducidas"
+  }
+}

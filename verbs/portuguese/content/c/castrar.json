@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "castrar"
+  },
+  "InfP": {
+    "1s": "castrar",
+    "2s": "castrares",
+    "3s": "castrar",
+    "1p": "castrarmos",
+    "2p": "castrardes",
+    "3p": "castrarem"
+  },
+  "Ger": {
+    "": "castrando"
+  },
+  "PresI": {
+    "1s": "castro",
+    "2s": "castras",
+    "3s": "castra",
+    "1p": "castramos",
+    "2p": "castrais",
+    "3p": "castram"
+  },
+  "PImpI": {
+    "1s": "castrava",
+    "2s": "castravas",
+    "3s": "castrava",
+    "1p": "castrávamos",
+    "2p": "castráveis",
+    "3p": "castravam"
+  },
+  "PPSI": {
+    "1s": "castrei",
+    "2s": "castraste",
+    "3s": "castrou",
+    "1p": "castrámos",
+    "2p": "castrastes",
+    "3p": "castraram"
+  },
+  "PMQPSI": {
+    "1s": "castrara",
+    "2s": "castraras",
+    "3s": "castrara",
+    "1p": "castráramos",
+    "2p": "castráreis",
+    "3p": "castraram"
+  },
+  "FutSI": {
+    "1s": "castrarei",
+    "2s": "castrarás",
+    "3s": "castrará",
+    "1p": "castraremos",
+    "2p": "castrareis",
+    "3p": "castrarão"
+  },
+  "CondS": {
+    "1s": "castraria",
+    "2s": "castrarias",
+    "3s": "castraria",
+    "1p": "castraríamos",
+    "2p": "castraríeis",
+    "3p": "castrariam"
+  },
+  "PresC": {
+    "1s": "castre",
+    "2s": "castres",
+    "3s": "castre",
+    "1p": "castremos",
+    "2p": "castreis",
+    "3p": "castrem"
+  },
+  "PImpC": {
+    "1s": "castrasse",
+    "2s": "castrasses",
+    "3s": "castrasse",
+    "1p": "castrássemos",
+    "2p": "castrásseis",
+    "3p": "castrassem"
+  },
+  "FutSC": {
+    "1s": "castrar",
+    "2s": "castrares",
+    "3s": "castrar",
+    "1p": "castrarmos",
+    "2p": "castrardes",
+    "3p": "castrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "castra",
+    "3s": "castre",
+    "1p": "castremos",
+    "2p": "castrai",
+    "3p": "castrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não castres",
+    "3s": "não castre",
+    "1p": "não castremos",
+    "2p": "não castreis",
+    "3p": "não castrem"
+  },
+  "Part-ter": {
+    "": "castrado"
+  },
+  "Part-ser": {
+    "ms": "castrado",
+    "fs": "castrada",
+    "mp": "castrados",
+    "fp": "castradas"
+  }
+}

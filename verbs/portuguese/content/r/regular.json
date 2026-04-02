@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "regular"
+  },
+  "InfP": {
+    "1s": "regular",
+    "2s": "regulares",
+    "3s": "regular",
+    "1p": "regularmos",
+    "2p": "regulardes",
+    "3p": "regularem"
+  },
+  "Ger": {
+    "": "regulando"
+  },
+  "PresI": {
+    "1s": "regulo",
+    "2s": "regulas",
+    "3s": "regula",
+    "1p": "regulamos",
+    "2p": "regulais",
+    "3p": "regulam"
+  },
+  "PImpI": {
+    "1s": "regulava",
+    "2s": "regulavas",
+    "3s": "regulava",
+    "1p": "regulávamos",
+    "2p": "reguláveis",
+    "3p": "regulavam"
+  },
+  "PPSI": {
+    "1s": "regulei",
+    "2s": "regulaste",
+    "3s": "regulou",
+    "1p": "regulámos",
+    "2p": "regulastes",
+    "3p": "regularam"
+  },
+  "PMQPSI": {
+    "1s": "regulara",
+    "2s": "regularas",
+    "3s": "regulara",
+    "1p": "reguláramos",
+    "2p": "reguláreis",
+    "3p": "regularam"
+  },
+  "FutSI": {
+    "1s": "regularei",
+    "2s": "regularás",
+    "3s": "regulará",
+    "1p": "regularemos",
+    "2p": "regulareis",
+    "3p": "regularão"
+  },
+  "CondS": {
+    "1s": "regularia",
+    "2s": "regularias",
+    "3s": "regularia",
+    "1p": "regularíamos",
+    "2p": "regularíeis",
+    "3p": "regulariam"
+  },
+  "PresC": {
+    "1s": "regule",
+    "2s": "regules",
+    "3s": "regule",
+    "1p": "regulemos",
+    "2p": "reguleis",
+    "3p": "regulem"
+  },
+  "PImpC": {
+    "1s": "regulasse",
+    "2s": "regulasses",
+    "3s": "regulasse",
+    "1p": "regulássemos",
+    "2p": "regulásseis",
+    "3p": "regulassem"
+  },
+  "FutSC": {
+    "1s": "regular",
+    "2s": "regulares",
+    "3s": "regular",
+    "1p": "regularmos",
+    "2p": "regulardes",
+    "3p": "regularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regula",
+    "3s": "regule",
+    "1p": "regulemos",
+    "2p": "regulai",
+    "3p": "regulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não regules",
+    "3s": "não regule",
+    "1p": "não regulemos",
+    "2p": "não reguleis",
+    "3p": "não regulem"
+  },
+  "Part-ter": {
+    "": "regulado"
+  },
+  "Part-ser": {
+    "ms": "regulado",
+    "fs": "regulada",
+    "mp": "regulados",
+    "fp": "reguladas"
+  }
+}

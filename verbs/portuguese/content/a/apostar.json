@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "apostar"
+  },
+  "InfP": {
+    "1s": "apostar",
+    "2s": "apostares",
+    "3s": "apostar",
+    "1p": "apostarmos",
+    "2p": "apostardes",
+    "3p": "apostarem"
+  },
+  "Ger": {
+    "": "apostando"
+  },
+  "PresI": {
+    "1s": "aposto",
+    "2s": "apostas",
+    "3s": "aposta",
+    "1p": "apostamos",
+    "2p": "apostais",
+    "3p": "apostam"
+  },
+  "PImpI": {
+    "1s": "apostava",
+    "2s": "apostavas",
+    "3s": "apostava",
+    "1p": "apostávamos",
+    "2p": "apostáveis",
+    "3p": "apostavam"
+  },
+  "PPSI": {
+    "1s": "apostei",
+    "2s": "apostaste",
+    "3s": "apostou",
+    "1p": "apostámos",
+    "2p": "apostastes",
+    "3p": "apostaram"
+  },
+  "PMQPSI": {
+    "1s": "apostara",
+    "2s": "apostaras",
+    "3s": "apostara",
+    "1p": "apostáramos",
+    "2p": "apostáreis",
+    "3p": "apostaram"
+  },
+  "FutSI": {
+    "1s": "apostarei",
+    "2s": "apostarás",
+    "3s": "apostará",
+    "1p": "apostaremos",
+    "2p": "apostareis",
+    "3p": "apostarão"
+  },
+  "CondS": {
+    "1s": "apostaria",
+    "2s": "apostarias",
+    "3s": "apostaria",
+    "1p": "apostaríamos",
+    "2p": "apostaríeis",
+    "3p": "apostariam"
+  },
+  "PresC": {
+    "1s": "aposte",
+    "2s": "apostes",
+    "3s": "aposte",
+    "1p": "apostemos",
+    "2p": "aposteis",
+    "3p": "apostem"
+  },
+  "PImpC": {
+    "1s": "apostasse",
+    "2s": "apostasses",
+    "3s": "apostasse",
+    "1p": "apostássemos",
+    "2p": "apostásseis",
+    "3p": "apostassem"
+  },
+  "FutSC": {
+    "1s": "apostar",
+    "2s": "apostares",
+    "3s": "apostar",
+    "1p": "apostarmos",
+    "2p": "apostardes",
+    "3p": "apostarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aposta",
+    "3s": "aposte",
+    "1p": "apostemos",
+    "2p": "apostai",
+    "3p": "apostem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apostes",
+    "3s": "não aposte",
+    "1p": "não apostemos",
+    "2p": "não aposteis",
+    "3p": "não apostem"
+  },
+  "Part-ter": {
+    "": "apostado"
+  },
+  "Part-ser": {
+    "ms": "apostado",
+    "fs": "apostada",
+    "mp": "apostados",
+    "fp": "apostadas"
+  }
+}

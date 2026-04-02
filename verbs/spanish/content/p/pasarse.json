@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pasarse"
+  },
+  "Ger": {
+    "": "pasándose"
+  },
+  "PresI": {
+    "1s": "me paso",
+    "2s": "te pasas",
+    "3s": "se pasa",
+    "1p": "nos pasamos",
+    "2p": "os pasáis",
+    "3p": "se pasan"
+  },
+  "PImpI": {
+    "1s": "me pasaba",
+    "2s": "te pasabas",
+    "3s": "se pasaba",
+    "1p": "nos pasábamos",
+    "2p": "os pasabais",
+    "3p": "se pasaban"
+  },
+  "PPSI": {
+    "1s": "me pasé",
+    "2s": "te pasaste",
+    "3s": "se pasó",
+    "1p": "nos pasamos",
+    "2p": "os pasasteis",
+    "3p": "se pasaron"
+  },
+  "FutSI": {
+    "1s": "me pasaré",
+    "2s": "te pasarás",
+    "3s": "se pasará",
+    "1p": "nos pasaremos",
+    "2p": "os pasaréis",
+    "3p": "se pasarán"
+  },
+  "CondS": {
+    "1s": "me pasaría",
+    "2s": "te pasarías",
+    "3s": "se pasaría",
+    "1p": "nos pasaríamos",
+    "2p": "os pasaríais",
+    "3p": "se pasarían"
+  },
+  "PresC": {
+    "1s": "me pase",
+    "2s": "te pases",
+    "3s": "se pase",
+    "1p": "nos pasemos",
+    "2p": "os paséis",
+    "3p": "se pasen"
+  },
+  "PMQPSI": {
+    "1s": "me pasara",
+    "2s": "te pasaras",
+    "3s": "se pasara",
+    "1p": "nos pasáramos",
+    "2p": "os pasarais",
+    "3p": "se pasaran"
+  },
+  "PImpC": {
+    "1s": "me pasase",
+    "2s": "te pasases",
+    "3s": "se pasase",
+    "1p": "nos pasásemos",
+    "2p": "os pasaseis",
+    "3p": "se pasasen"
+  },
+  "FutSC": {
+    "1s": "me pasare",
+    "2s": "te pasares",
+    "3s": "se pasare",
+    "1p": "nos pasáremos",
+    "2p": "os pasareis",
+    "3p": "se pasaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pásate",
+    "3s": "pásese",
+    "1p": "pasémonos",
+    "2p": "pasaos",
+    "3p": "pásense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te pases",
+    "3s": "no se pase",
+    "1p": "no nos pasemos",
+    "2p": "no os paséis",
+    "3p": "no se pasen"
+  },
+  "Part-ter": {
+    "": "pasado"
+  },
+  "Part-ser": {
+    "ms": "pasado",
+    "fs": "pasada",
+    "mp": "pasados",
+    "fp": "pasadas"
+  }
+}

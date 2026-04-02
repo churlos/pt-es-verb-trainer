@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mercar"
+  },
+  "Ger": {
+    "": "mercando"
+  },
+  "PresI": {
+    "1s": "merco",
+    "2s": "mercas",
+    "3s": "merca",
+    "1p": "mercamos",
+    "2p": "mercáis",
+    "3p": "mercan"
+  },
+  "PImpI": {
+    "1s": "mercaba",
+    "2s": "mercabas",
+    "3s": "mercaba",
+    "1p": "mercábamos",
+    "2p": "mercabais",
+    "3p": "mercaban"
+  },
+  "PPSI": {
+    "1s": "merqué",
+    "2s": "mercaste",
+    "3s": "mercó",
+    "1p": "mercamos",
+    "2p": "mercasteis",
+    "3p": "mercaron"
+  },
+  "FutSI": {
+    "1s": "mercaré",
+    "2s": "mercarás",
+    "3s": "mercará",
+    "1p": "mercaremos",
+    "2p": "mercaréis",
+    "3p": "mercarán"
+  },
+  "CondS": {
+    "1s": "mercaría",
+    "2s": "mercarías",
+    "3s": "mercaría",
+    "1p": "mercaríamos",
+    "2p": "mercaríais",
+    "3p": "mercarían"
+  },
+  "PresC": {
+    "1s": "merque",
+    "2s": "merques",
+    "3s": "merque",
+    "1p": "merquemos",
+    "2p": "merquéis",
+    "3p": "merquen"
+  },
+  "PMQPSI": {
+    "1s": "mercara",
+    "2s": "mercaras",
+    "3s": "mercara",
+    "1p": "mercáramos",
+    "2p": "mercarais",
+    "3p": "mercaran"
+  },
+  "PImpC": {
+    "1s": "mercase",
+    "2s": "mercases",
+    "3s": "mercase",
+    "1p": "mercásemos",
+    "2p": "mercaseis",
+    "3p": "mercasen"
+  },
+  "FutSC": {
+    "1s": "mercare",
+    "2s": "mercares",
+    "3s": "mercare",
+    "1p": "mercáremos",
+    "2p": "mercareis",
+    "3p": "mercaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "merca",
+    "3s": "merque",
+    "1p": "merquemos",
+    "2p": "mercad",
+    "3p": "merquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no merques",
+    "3s": "no merque",
+    "1p": "no merquemos",
+    "2p": "no merquéis",
+    "3p": "no merquen"
+  },
+  "Part-ter": {
+    "": "mercado"
+  },
+  "Part-ser": {
+    "ms": "mercado",
+    "fs": "mercada",
+    "mp": "mercados",
+    "fp": "mercadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "geobloquear"
+  },
+  "Ger": {
+    "": "geobloqueando"
+  },
+  "PresI": {
+    "1s": "geobloqueo",
+    "2s": "geobloqueas",
+    "3s": "geobloquea",
+    "1p": "geobloqueamos",
+    "2p": "geobloqueáis",
+    "3p": "geobloquean"
+  },
+  "PImpI": {
+    "1s": "geobloqueaba",
+    "2s": "geobloqueabas",
+    "3s": "geobloqueaba",
+    "1p": "geobloqueábamos",
+    "2p": "geobloqueabais",
+    "3p": "geobloqueaban"
+  },
+  "PPSI": {
+    "1s": "geobloqueé",
+    "2s": "geobloqueaste",
+    "3s": "geobloqueó",
+    "1p": "geobloqueamos",
+    "2p": "geobloqueasteis",
+    "3p": "geobloquearon"
+  },
+  "FutSI": {
+    "1s": "geobloquearé",
+    "2s": "geobloquearás",
+    "3s": "geobloqueará",
+    "1p": "geobloquearemos",
+    "2p": "geobloquearéis",
+    "3p": "geobloquearán"
+  },
+  "CondS": {
+    "1s": "geobloquearía",
+    "2s": "geobloquearías",
+    "3s": "geobloquearía",
+    "1p": "geobloquearíamos",
+    "2p": "geobloquearíais",
+    "3p": "geobloquearían"
+  },
+  "PresC": {
+    "1s": "geobloquee",
+    "2s": "geobloquees",
+    "3s": "geobloquee",
+    "1p": "geobloqueemos",
+    "2p": "geobloqueéis",
+    "3p": "geobloqueen"
+  },
+  "PMQPSI": {
+    "1s": "geobloqueara",
+    "2s": "geobloquearas",
+    "3s": "geobloqueara",
+    "1p": "geobloqueáramos",
+    "2p": "geobloquearais",
+    "3p": "geobloquearan"
+  },
+  "PImpC": {
+    "1s": "geobloquease",
+    "2s": "geobloqueases",
+    "3s": "geobloquease",
+    "1p": "geobloqueásemos",
+    "2p": "geobloqueaseis",
+    "3p": "geobloqueasen"
+  },
+  "FutSC": {
+    "1s": "geobloqueare",
+    "2s": "geobloqueares",
+    "3s": "geobloqueare",
+    "1p": "geobloqueáremos",
+    "2p": "geobloqueareis",
+    "3p": "geobloquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "geobloquea",
+    "3s": "geobloquee",
+    "1p": "geobloqueemos",
+    "2p": "geobloquead",
+    "3p": "geobloqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no geobloquees",
+    "3s": "no geobloquee",
+    "1p": "no geobloqueemos",
+    "2p": "no geobloqueéis",
+    "3p": "no geobloqueen"
+  },
+  "Part-ter": {
+    "": "geobloqueado"
+  },
+  "Part-ser": {
+    "ms": "geobloqueado",
+    "fs": "geobloqueada",
+    "mp": "geobloqueados",
+    "fp": "geobloqueadas"
+  }
+}

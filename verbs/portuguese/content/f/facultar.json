@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "facultar"
+  },
+  "InfP": {
+    "1s": "facultar",
+    "2s": "facultares",
+    "3s": "facultar",
+    "1p": "facultarmos",
+    "2p": "facultardes",
+    "3p": "facultarem"
+  },
+  "Ger": {
+    "": "facultando"
+  },
+  "PresI": {
+    "1s": "faculto",
+    "2s": "facultas",
+    "3s": "faculta",
+    "1p": "facultamos",
+    "2p": "facultais",
+    "3p": "facultam"
+  },
+  "PImpI": {
+    "1s": "facultava",
+    "2s": "facultavas",
+    "3s": "facultava",
+    "1p": "facultávamos",
+    "2p": "facultáveis",
+    "3p": "facultavam"
+  },
+  "PPSI": {
+    "1s": "facultei",
+    "2s": "facultaste",
+    "3s": "facultou",
+    "1p": "facultámos",
+    "2p": "facultastes",
+    "3p": "facultaram"
+  },
+  "PMQPSI": {
+    "1s": "facultara",
+    "2s": "facultaras",
+    "3s": "facultara",
+    "1p": "facultáramos",
+    "2p": "facultáreis",
+    "3p": "facultaram"
+  },
+  "FutSI": {
+    "1s": "facultarei",
+    "2s": "facultarás",
+    "3s": "facultará",
+    "1p": "facultaremos",
+    "2p": "facultareis",
+    "3p": "facultarão"
+  },
+  "CondS": {
+    "1s": "facultaria",
+    "2s": "facultarias",
+    "3s": "facultaria",
+    "1p": "facultaríamos",
+    "2p": "facultaríeis",
+    "3p": "facultariam"
+  },
+  "PresC": {
+    "1s": "faculte",
+    "2s": "facultes",
+    "3s": "faculte",
+    "1p": "facultemos",
+    "2p": "faculteis",
+    "3p": "facultem"
+  },
+  "PImpC": {
+    "1s": "facultasse",
+    "2s": "facultasses",
+    "3s": "facultasse",
+    "1p": "facultássemos",
+    "2p": "facultásseis",
+    "3p": "facultassem"
+  },
+  "FutSC": {
+    "1s": "facultar",
+    "2s": "facultares",
+    "3s": "facultar",
+    "1p": "facultarmos",
+    "2p": "facultardes",
+    "3p": "facultarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "faculta",
+    "3s": "faculte",
+    "1p": "facultemos",
+    "2p": "facultai",
+    "3p": "facultem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não facultes",
+    "3s": "não faculte",
+    "1p": "não facultemos",
+    "2p": "não faculteis",
+    "3p": "não facultem"
+  },
+  "Part-ter": {
+    "": "facultado"
+  },
+  "Part-ser": {
+    "ms": "facultado",
+    "fs": "facultada",
+    "mp": "facultados",
+    "fp": "facultadas"
+  }
+}

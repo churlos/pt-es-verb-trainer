@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "empregar"
+  },
+  "InfP": {
+    "1s": "empregar",
+    "2s": "empregares",
+    "3s": "empregar",
+    "1p": "empregarmos",
+    "2p": "empregardes",
+    "3p": "empregarem"
+  },
+  "Ger": {
+    "": "empregando"
+  },
+  "PresI": {
+    "1s": "emprego",
+    "2s": "empregas",
+    "3s": "emprega",
+    "1p": "empregamos",
+    "2p": "empregais",
+    "3p": "empregam"
+  },
+  "PImpI": {
+    "1s": "empregava",
+    "2s": "empregavas",
+    "3s": "empregava",
+    "1p": "empregávamos",
+    "2p": "empregáveis",
+    "3p": "empregavam"
+  },
+  "PPSI": {
+    "1s": "empreguei",
+    "2s": "empregaste",
+    "3s": "empregou",
+    "1p": "empregámos",
+    "2p": "empregastes",
+    "3p": "empregaram"
+  },
+  "PMQPSI": {
+    "1s": "empregara",
+    "2s": "empregaras",
+    "3s": "empregara",
+    "1p": "empregáramos",
+    "2p": "empregáreis",
+    "3p": "empregaram"
+  },
+  "FutSI": {
+    "1s": "empregarei",
+    "2s": "empregarás",
+    "3s": "empregará",
+    "1p": "empregaremos",
+    "2p": "empregareis",
+    "3p": "empregarão"
+  },
+  "CondS": {
+    "1s": "empregaria",
+    "2s": "empregarias",
+    "3s": "empregaria",
+    "1p": "empregaríamos",
+    "2p": "empregaríeis",
+    "3p": "empregariam"
+  },
+  "PresC": {
+    "1s": "empregue",
+    "2s": "empregues",
+    "3s": "empregue",
+    "1p": "empreguemos",
+    "2p": "empregueis",
+    "3p": "empreguem"
+  },
+  "PImpC": {
+    "1s": "empregasse",
+    "2s": "empregasses",
+    "3s": "empregasse",
+    "1p": "empregássemos",
+    "2p": "empregásseis",
+    "3p": "empregassem"
+  },
+  "FutSC": {
+    "1s": "empregar",
+    "2s": "empregares",
+    "3s": "empregar",
+    "1p": "empregarmos",
+    "2p": "empregardes",
+    "3p": "empregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emprega",
+    "3s": "empregue",
+    "1p": "empreguemos",
+    "2p": "empregai",
+    "3p": "empreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não empregues",
+    "3s": "não empregue",
+    "1p": "não empreguemos",
+    "2p": "não empregueis",
+    "3p": "não empreguem"
+  },
+  "Part-ter": {
+    "": "empregado"
+  },
+  "Part-ser": {
+    "ms": "empregado",
+    "fs": "empregada",
+    "mp": "empregados",
+    "fp": "empregadas"
+  }
+}

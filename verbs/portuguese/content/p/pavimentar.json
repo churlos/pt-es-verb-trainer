@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pavimentar"
+  },
+  "InfP": {
+    "1s": "pavimentar",
+    "2s": "pavimentares",
+    "3s": "pavimentar",
+    "1p": "pavimentarmos",
+    "2p": "pavimentardes",
+    "3p": "pavimentarem"
+  },
+  "Ger": {
+    "": "pavimentando"
+  },
+  "PresI": {
+    "1s": "pavimento",
+    "2s": "pavimentas",
+    "3s": "pavimenta",
+    "1p": "pavimentamos",
+    "2p": "pavimentais",
+    "3p": "pavimentam"
+  },
+  "PImpI": {
+    "1s": "pavimentava",
+    "2s": "pavimentavas",
+    "3s": "pavimentava",
+    "1p": "pavimentávamos",
+    "2p": "pavimentáveis",
+    "3p": "pavimentavam"
+  },
+  "PPSI": {
+    "1s": "pavimentei",
+    "2s": "pavimentaste",
+    "3s": "pavimentou",
+    "1p": "pavimentámos",
+    "2p": "pavimentastes",
+    "3p": "pavimentaram"
+  },
+  "PMQPSI": {
+    "1s": "pavimentara",
+    "2s": "pavimentaras",
+    "3s": "pavimentara",
+    "1p": "pavimentáramos",
+    "2p": "pavimentáreis",
+    "3p": "pavimentaram"
+  },
+  "FutSI": {
+    "1s": "pavimentarei",
+    "2s": "pavimentarás",
+    "3s": "pavimentará",
+    "1p": "pavimentaremos",
+    "2p": "pavimentareis",
+    "3p": "pavimentarão"
+  },
+  "CondS": {
+    "1s": "pavimentaria",
+    "2s": "pavimentarias",
+    "3s": "pavimentaria",
+    "1p": "pavimentaríamos",
+    "2p": "pavimentaríeis",
+    "3p": "pavimentariam"
+  },
+  "PresC": {
+    "1s": "pavimente",
+    "2s": "pavimentes",
+    "3s": "pavimente",
+    "1p": "pavimentemos",
+    "2p": "pavimenteis",
+    "3p": "pavimentem"
+  },
+  "PImpC": {
+    "1s": "pavimentasse",
+    "2s": "pavimentasses",
+    "3s": "pavimentasse",
+    "1p": "pavimentássemos",
+    "2p": "pavimentásseis",
+    "3p": "pavimentassem"
+  },
+  "FutSC": {
+    "1s": "pavimentar",
+    "2s": "pavimentares",
+    "3s": "pavimentar",
+    "1p": "pavimentarmos",
+    "2p": "pavimentardes",
+    "3p": "pavimentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pavimenta",
+    "3s": "pavimente",
+    "1p": "pavimentemos",
+    "2p": "pavimentai",
+    "3p": "pavimentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pavimentes",
+    "3s": "não pavimente",
+    "1p": "não pavimentemos",
+    "2p": "não pavimenteis",
+    "3p": "não pavimentem"
+  },
+  "Part-ter": {
+    "": "pavimentado"
+  },
+  "Part-ser": {
+    "ms": "pavimentado",
+    "fs": "pavimentada",
+    "mp": "pavimentados",
+    "fp": "pavimentadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "quitar"
+  },
+  "InfP": {
+    "1s": "quitar",
+    "2s": "quitares",
+    "3s": "quitar",
+    "1p": "quitarmos",
+    "2p": "quitardes",
+    "3p": "quitarem"
+  },
+  "Ger": {
+    "": "quitando"
+  },
+  "PresI": {
+    "1s": "quito",
+    "2s": "quitas",
+    "3s": "quita",
+    "1p": "quitamos",
+    "2p": "quitais",
+    "3p": "quitam"
+  },
+  "PImpI": {
+    "1s": "quitava",
+    "2s": "quitavas",
+    "3s": "quitava",
+    "1p": "quitávamos",
+    "2p": "quitáveis",
+    "3p": "quitavam"
+  },
+  "PPSI": {
+    "1s": "quitei",
+    "2s": "quitaste",
+    "3s": "quitou",
+    "1p": "quitámos",
+    "2p": "quitastes",
+    "3p": "quitaram"
+  },
+  "PMQPSI": {
+    "1s": "quitara",
+    "2s": "quitaras",
+    "3s": "quitara",
+    "1p": "quitáramos",
+    "2p": "quitáreis",
+    "3p": "quitaram"
+  },
+  "FutSI": {
+    "1s": "quitarei",
+    "2s": "quitarás",
+    "3s": "quitará",
+    "1p": "quitaremos",
+    "2p": "quitareis",
+    "3p": "quitarão"
+  },
+  "CondS": {
+    "1s": "quitaria",
+    "2s": "quitarias",
+    "3s": "quitaria",
+    "1p": "quitaríamos",
+    "2p": "quitaríeis",
+    "3p": "quitariam"
+  },
+  "PresC": {
+    "1s": "quite",
+    "2s": "quites",
+    "3s": "quite",
+    "1p": "quitemos",
+    "2p": "quiteis",
+    "3p": "quitem"
+  },
+  "PImpC": {
+    "1s": "quitasse",
+    "2s": "quitasses",
+    "3s": "quitasse",
+    "1p": "quitássemos",
+    "2p": "quitásseis",
+    "3p": "quitassem"
+  },
+  "FutSC": {
+    "1s": "quitar",
+    "2s": "quitares",
+    "3s": "quitar",
+    "1p": "quitarmos",
+    "2p": "quitardes",
+    "3p": "quitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quita",
+    "3s": "quite",
+    "1p": "quitemos",
+    "2p": "quitai",
+    "3p": "quitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não quites",
+    "3s": "não quite",
+    "1p": "não quitemos",
+    "2p": "não quiteis",
+    "3p": "não quitem"
+  },
+  "Part-ter": {
+    "": "quitado"
+  },
+  "Part-ser": {
+    "ms": "quitado",
+    "fs": "quitada",
+    "mp": "quitados",
+    "fp": "quitadas"
+  }
+}

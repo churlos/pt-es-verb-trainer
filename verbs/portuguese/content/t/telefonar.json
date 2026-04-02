@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "telefonar"
+  },
+  "InfP": {
+    "1s": "telefonar",
+    "2s": "telefonares",
+    "3s": "telefonar",
+    "1p": "telefonarmos",
+    "2p": "telefonardes",
+    "3p": "telefonarem"
+  },
+  "Ger": {
+    "": "telefonando"
+  },
+  "PresI": {
+    "1s": "telefono",
+    "2s": "telefonas",
+    "3s": "telefona",
+    "1p": "telefonamos",
+    "2p": "telefonais",
+    "3p": "telefonam"
+  },
+  "PImpI": {
+    "1s": "telefonava",
+    "2s": "telefonavas",
+    "3s": "telefonava",
+    "1p": "telefonávamos",
+    "2p": "telefonáveis",
+    "3p": "telefonavam"
+  },
+  "PPSI": {
+    "1s": "telefonei",
+    "2s": "telefonaste",
+    "3s": "telefonou",
+    "1p": "telefonámos",
+    "2p": "telefonastes",
+    "3p": "telefonaram"
+  },
+  "PMQPSI": {
+    "1s": "telefonara",
+    "2s": "telefonaras",
+    "3s": "telefonara",
+    "1p": "telefonáramos",
+    "2p": "telefonáreis",
+    "3p": "telefonaram"
+  },
+  "FutSI": {
+    "1s": "telefonarei",
+    "2s": "telefonarás",
+    "3s": "telefonará",
+    "1p": "telefonaremos",
+    "2p": "telefonareis",
+    "3p": "telefonarão"
+  },
+  "CondS": {
+    "1s": "telefonaria",
+    "2s": "telefonarias",
+    "3s": "telefonaria",
+    "1p": "telefonaríamos",
+    "2p": "telefonaríeis",
+    "3p": "telefonariam"
+  },
+  "PresC": {
+    "1s": "telefone",
+    "2s": "telefones",
+    "3s": "telefone",
+    "1p": "telefonemos",
+    "2p": "telefoneis",
+    "3p": "telefonem"
+  },
+  "PImpC": {
+    "1s": "telefonasse",
+    "2s": "telefonasses",
+    "3s": "telefonasse",
+    "1p": "telefonássemos",
+    "2p": "telefonásseis",
+    "3p": "telefonassem"
+  },
+  "FutSC": {
+    "1s": "telefonar",
+    "2s": "telefonares",
+    "3s": "telefonar",
+    "1p": "telefonarmos",
+    "2p": "telefonardes",
+    "3p": "telefonarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "telefona",
+    "3s": "telefone",
+    "1p": "telefonemos",
+    "2p": "telefonai",
+    "3p": "telefonem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não telefones",
+    "3s": "não telefone",
+    "1p": "não telefonemos",
+    "2p": "não telefoneis",
+    "3p": "não telefonem"
+  },
+  "Part-ter": {
+    "": "telefonado"
+  },
+  "Part-ser": {
+    "ms": "telefonado",
+    "fs": "telefonada",
+    "mp": "telefonados",
+    "fp": "telefonadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arquear"
+  },
+  "InfP": {
+    "1s": "arquear",
+    "2s": "arqueares",
+    "3s": "arquear",
+    "1p": "arquearmos",
+    "2p": "arqueardes",
+    "3p": "arquearem"
+  },
+  "Ger": {
+    "": "arqueando"
+  },
+  "PresI": {
+    "1s": "arqueio",
+    "2s": "arqueias",
+    "3s": "arqueia",
+    "1p": "arqueamos",
+    "2p": "arqueais",
+    "3p": "arqueiam"
+  },
+  "PImpI": {
+    "1s": "arqueava",
+    "2s": "arqueavas",
+    "3s": "arqueava",
+    "1p": "arqueávamos",
+    "2p": "arqueáveis",
+    "3p": "arqueavam"
+  },
+  "PPSI": {
+    "1s": "arqueei",
+    "2s": "arqueaste",
+    "3s": "arqueou",
+    "1p": "arqueámos",
+    "2p": "arqueastes",
+    "3p": "arquearam"
+  },
+  "PMQPSI": {
+    "1s": "arqueara",
+    "2s": "arquearas",
+    "3s": "arqueara",
+    "1p": "arqueáramos",
+    "2p": "arqueáreis",
+    "3p": "arquearam"
+  },
+  "FutSI": {
+    "1s": "arquearei",
+    "2s": "arquearás",
+    "3s": "arqueará",
+    "1p": "arquearemos",
+    "2p": "arqueareis",
+    "3p": "arquearão"
+  },
+  "CondS": {
+    "1s": "arquearia",
+    "2s": "arquearias",
+    "3s": "arquearia",
+    "1p": "arquearíamos",
+    "2p": "arquearíeis",
+    "3p": "arqueariam"
+  },
+  "PresC": {
+    "1s": "arqueie",
+    "2s": "arqueies",
+    "3s": "arqueie",
+    "1p": "arqueemos",
+    "2p": "arqueeis",
+    "3p": "arqueiem"
+  },
+  "PImpC": {
+    "1s": "arqueasse",
+    "2s": "arqueasses",
+    "3s": "arqueasse",
+    "1p": "arqueássemos",
+    "2p": "arqueásseis",
+    "3p": "arqueassem"
+  },
+  "FutSC": {
+    "1s": "arquear",
+    "2s": "arqueares",
+    "3s": "arquear",
+    "1p": "arquearmos",
+    "2p": "arqueardes",
+    "3p": "arquearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arqueia",
+    "3s": "arqueie",
+    "1p": "arqueemos",
+    "2p": "arqueai",
+    "3p": "arqueiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arqueies",
+    "3s": "não arqueie",
+    "1p": "não arqueemos",
+    "2p": "não arqueeis",
+    "3p": "não arqueiem"
+  },
+  "Part-ter": {
+    "": "arqueado"
+  },
+  "Part-ser": {
+    "ms": "arqueado",
+    "fs": "arqueada",
+    "mp": "arqueados",
+    "fp": "arqueadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rebocar"
+  },
+  "InfP": {
+    "1s": "rebocar",
+    "2s": "rebocares",
+    "3s": "rebocar",
+    "1p": "rebocarmos",
+    "2p": "rebocardes",
+    "3p": "rebocarem"
+  },
+  "Ger": {
+    "": "rebocando"
+  },
+  "PresI": {
+    "1s": "reboco",
+    "2s": "rebocas",
+    "3s": "reboca",
+    "1p": "rebocamos",
+    "2p": "rebocais",
+    "3p": "rebocam"
+  },
+  "PImpI": {
+    "1s": "rebocava",
+    "2s": "rebocavas",
+    "3s": "rebocava",
+    "1p": "rebocávamos",
+    "2p": "rebocáveis",
+    "3p": "rebocavam"
+  },
+  "PPSI": {
+    "1s": "reboquei",
+    "2s": "rebocaste",
+    "3s": "rebocou",
+    "1p": "rebocámos",
+    "2p": "rebocastes",
+    "3p": "rebocaram"
+  },
+  "PMQPSI": {
+    "1s": "rebocara",
+    "2s": "rebocaras",
+    "3s": "rebocara",
+    "1p": "rebocáramos",
+    "2p": "rebocáreis",
+    "3p": "rebocaram"
+  },
+  "FutSI": {
+    "1s": "rebocarei",
+    "2s": "rebocarás",
+    "3s": "rebocará",
+    "1p": "rebocaremos",
+    "2p": "rebocareis",
+    "3p": "rebocarão"
+  },
+  "CondS": {
+    "1s": "rebocaria",
+    "2s": "rebocarias",
+    "3s": "rebocaria",
+    "1p": "rebocaríamos",
+    "2p": "rebocaríeis",
+    "3p": "rebocariam"
+  },
+  "PresC": {
+    "1s": "reboque",
+    "2s": "reboques",
+    "3s": "reboque",
+    "1p": "reboquemos",
+    "2p": "reboqueis",
+    "3p": "reboquem"
+  },
+  "PImpC": {
+    "1s": "rebocasse",
+    "2s": "rebocasses",
+    "3s": "rebocasse",
+    "1p": "rebocássemos",
+    "2p": "rebocásseis",
+    "3p": "rebocassem"
+  },
+  "FutSC": {
+    "1s": "rebocar",
+    "2s": "rebocares",
+    "3s": "rebocar",
+    "1p": "rebocarmos",
+    "2p": "rebocardes",
+    "3p": "rebocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reboca",
+    "3s": "reboque",
+    "1p": "reboquemos",
+    "2p": "rebocai",
+    "3p": "reboquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reboques",
+    "3s": "não reboque",
+    "1p": "não reboquemos",
+    "2p": "não reboqueis",
+    "3p": "não reboquem"
+  },
+  "Part-ter": {
+    "": "rebocado"
+  },
+  "Part-ser": {
+    "ms": "rebocado",
+    "fs": "rebocada",
+    "mp": "rebocados",
+    "fp": "rebocadas"
+  }
+}

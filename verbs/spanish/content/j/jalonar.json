@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jalonar"
+  },
+  "Ger": {
+    "": "jalonando"
+  },
+  "PresI": {
+    "1s": "jalono",
+    "2s": "jalonas",
+    "3s": "jalona",
+    "1p": "jalonamos",
+    "2p": "jalonáis",
+    "3p": "jalonan"
+  },
+  "PImpI": {
+    "1s": "jalonaba",
+    "2s": "jalonabas",
+    "3s": "jalonaba",
+    "1p": "jalonábamos",
+    "2p": "jalonabais",
+    "3p": "jalonaban"
+  },
+  "PPSI": {
+    "1s": "jaloné",
+    "2s": "jalonaste",
+    "3s": "jalonó",
+    "1p": "jalonamos",
+    "2p": "jalonasteis",
+    "3p": "jalonaron"
+  },
+  "FutSI": {
+    "1s": "jalonaré",
+    "2s": "jalonarás",
+    "3s": "jalonará",
+    "1p": "jalonaremos",
+    "2p": "jalonaréis",
+    "3p": "jalonarán"
+  },
+  "CondS": {
+    "1s": "jalonaría",
+    "2s": "jalonarías",
+    "3s": "jalonaría",
+    "1p": "jalonaríamos",
+    "2p": "jalonaríais",
+    "3p": "jalonarían"
+  },
+  "PresC": {
+    "1s": "jalone",
+    "2s": "jalones",
+    "3s": "jalone",
+    "1p": "jalonemos",
+    "2p": "jalonéis",
+    "3p": "jalonen"
+  },
+  "PMQPSI": {
+    "1s": "jalonara",
+    "2s": "jalonaras",
+    "3s": "jalonara",
+    "1p": "jalonáramos",
+    "2p": "jalonarais",
+    "3p": "jalonaran"
+  },
+  "PImpC": {
+    "1s": "jalonase",
+    "2s": "jalonases",
+    "3s": "jalonase",
+    "1p": "jalonásemos",
+    "2p": "jalonaseis",
+    "3p": "jalonasen"
+  },
+  "FutSC": {
+    "1s": "jalonare",
+    "2s": "jalonares",
+    "3s": "jalonare",
+    "1p": "jalonáremos",
+    "2p": "jalonareis",
+    "3p": "jalonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jalona",
+    "3s": "jalone",
+    "1p": "jalonemos",
+    "2p": "jalonad",
+    "3p": "jalonen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no jalones",
+    "3s": "no jalone",
+    "1p": "no jalonemos",
+    "2p": "no jalonéis",
+    "3p": "no jalonen"
+  },
+  "Part-ter": {
+    "": "jalonado"
+  },
+  "Part-ser": {
+    "ms": "jalonado",
+    "fs": "jalonada",
+    "mp": "jalonados",
+    "fp": "jalonadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descambiar"
+  },
+  "Ger": {
+    "": "descambiando"
+  },
+  "PresI": {
+    "1s": "descambio",
+    "2s": "descambias",
+    "3s": "descambia",
+    "1p": "descambiamos",
+    "2p": "descambiáis",
+    "3p": "descambian"
+  },
+  "PImpI": {
+    "1s": "descambiaba",
+    "2s": "descambiabas",
+    "3s": "descambiaba",
+    "1p": "descambiábamos",
+    "2p": "descambiabais",
+    "3p": "descambiaban"
+  },
+  "PPSI": {
+    "1s": "descambié",
+    "2s": "descambiaste",
+    "3s": "descambió",
+    "1p": "descambiamos",
+    "2p": "descambiasteis",
+    "3p": "descambiaron"
+  },
+  "FutSI": {
+    "1s": "descambiaré",
+    "2s": "descambiarás",
+    "3s": "descambiará",
+    "1p": "descambiaremos",
+    "2p": "descambiaréis",
+    "3p": "descambiarán"
+  },
+  "CondS": {
+    "1s": "descambiaría",
+    "2s": "descambiarías",
+    "3s": "descambiaría",
+    "1p": "descambiaríamos",
+    "2p": "descambiaríais",
+    "3p": "descambiarían"
+  },
+  "PresC": {
+    "1s": "descambie",
+    "2s": "descambies",
+    "3s": "descambie",
+    "1p": "descambiemos",
+    "2p": "descambiéis",
+    "3p": "descambien"
+  },
+  "PMQPSI": {
+    "1s": "descambiara",
+    "2s": "descambiaras",
+    "3s": "descambiara",
+    "1p": "descambiáramos",
+    "2p": "descambiarais",
+    "3p": "descambiaran"
+  },
+  "PImpC": {
+    "1s": "descambiase",
+    "2s": "descambiases",
+    "3s": "descambiase",
+    "1p": "descambiásemos",
+    "2p": "descambiaseis",
+    "3p": "descambiasen"
+  },
+  "FutSC": {
+    "1s": "descambiare",
+    "2s": "descambiares",
+    "3s": "descambiare",
+    "1p": "descambiáremos",
+    "2p": "descambiareis",
+    "3p": "descambiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descambia",
+    "3s": "descambie",
+    "1p": "descambiemos",
+    "2p": "descambiad",
+    "3p": "descambien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no descambies",
+    "3s": "no descambie",
+    "1p": "no descambiemos",
+    "2p": "no descambiéis",
+    "3p": "no descambien"
+  },
+  "Part-ter": {
+    "": "descambiado"
+  },
+  "Part-ser": {
+    "ms": "descambiado",
+    "fs": "descambiada",
+    "mp": "descambiados",
+    "fp": "descambiadas"
+  }
+}

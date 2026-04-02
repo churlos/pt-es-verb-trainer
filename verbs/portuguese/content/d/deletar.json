@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deletar"
+  },
+  "InfP": {
+    "1s": "deletar",
+    "2s": "deletares",
+    "3s": "deletar",
+    "1p": "deletarmos",
+    "2p": "deletardes",
+    "3p": "deletarem"
+  },
+  "Ger": {
+    "": "deletando"
+  },
+  "PresI": {
+    "1s": "deleto",
+    "2s": "deletas",
+    "3s": "deleta",
+    "1p": "deletamos",
+    "2p": "deletais",
+    "3p": "deletam"
+  },
+  "PImpI": {
+    "1s": "deletava",
+    "2s": "deletavas",
+    "3s": "deletava",
+    "1p": "deletávamos",
+    "2p": "deletáveis",
+    "3p": "deletavam"
+  },
+  "PPSI": {
+    "1s": "deletei",
+    "2s": "deletaste",
+    "3s": "deletou",
+    "1p": "deletámos",
+    "2p": "deletastes",
+    "3p": "deletaram"
+  },
+  "PMQPSI": {
+    "1s": "deletara",
+    "2s": "deletaras",
+    "3s": "deletara",
+    "1p": "deletáramos",
+    "2p": "deletáreis",
+    "3p": "deletaram"
+  },
+  "FutSI": {
+    "1s": "deletarei",
+    "2s": "deletarás",
+    "3s": "deletará",
+    "1p": "deletaremos",
+    "2p": "deletareis",
+    "3p": "deletarão"
+  },
+  "CondS": {
+    "1s": "deletaria",
+    "2s": "deletarias",
+    "3s": "deletaria",
+    "1p": "deletaríamos",
+    "2p": "deletaríeis",
+    "3p": "deletariam"
+  },
+  "PresC": {
+    "1s": "delete",
+    "2s": "deletes",
+    "3s": "delete",
+    "1p": "deletemos",
+    "2p": "deleteis",
+    "3p": "deletem"
+  },
+  "PImpC": {
+    "1s": "deletasse",
+    "2s": "deletasses",
+    "3s": "deletasse",
+    "1p": "deletássemos",
+    "2p": "deletásseis",
+    "3p": "deletassem"
+  },
+  "FutSC": {
+    "1s": "deletar",
+    "2s": "deletares",
+    "3s": "deletar",
+    "1p": "deletarmos",
+    "2p": "deletardes",
+    "3p": "deletarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deleta",
+    "3s": "delete",
+    "1p": "deletemos",
+    "2p": "deletai",
+    "3p": "deletem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deletes",
+    "3s": "não delete",
+    "1p": "não deletemos",
+    "2p": "não deleteis",
+    "3p": "não deletem"
+  },
+  "Part-ter": {
+    "": "deletado"
+  },
+  "Part-ser": {
+    "ms": "deletado",
+    "fs": "deletada",
+    "mp": "deletados",
+    "fp": "deletadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sincronizar"
+  },
+  "InfP": {
+    "1s": "sincronizar",
+    "2s": "sincronizares",
+    "3s": "sincronizar",
+    "1p": "sincronizarmos",
+    "2p": "sincronizardes",
+    "3p": "sincronizarem"
+  },
+  "Ger": {
+    "": "sincronizando"
+  },
+  "PresI": {
+    "1s": "sincronizo",
+    "2s": "sincronizas",
+    "3s": "sincroniza",
+    "1p": "sincronizamos",
+    "2p": "sincronizais",
+    "3p": "sincronizam"
+  },
+  "PImpI": {
+    "1s": "sincronizava",
+    "2s": "sincronizavas",
+    "3s": "sincronizava",
+    "1p": "sincronizávamos",
+    "2p": "sincronizáveis",
+    "3p": "sincronizavam"
+  },
+  "PPSI": {
+    "1s": "sincronizei",
+    "2s": "sincronizaste",
+    "3s": "sincronizou",
+    "1p": "sincronizámos",
+    "2p": "sincronizastes",
+    "3p": "sincronizaram"
+  },
+  "PMQPSI": {
+    "1s": "sincronizara",
+    "2s": "sincronizaras",
+    "3s": "sincronizara",
+    "1p": "sincronizáramos",
+    "2p": "sincronizáreis",
+    "3p": "sincronizaram"
+  },
+  "FutSI": {
+    "1s": "sincronizarei",
+    "2s": "sincronizarás",
+    "3s": "sincronizará",
+    "1p": "sincronizaremos",
+    "2p": "sincronizareis",
+    "3p": "sincronizarão"
+  },
+  "CondS": {
+    "1s": "sincronizaria",
+    "2s": "sincronizarias",
+    "3s": "sincronizaria",
+    "1p": "sincronizaríamos",
+    "2p": "sincronizaríeis",
+    "3p": "sincronizariam"
+  },
+  "PresC": {
+    "1s": "sincronize",
+    "2s": "sincronizes",
+    "3s": "sincronize",
+    "1p": "sincronizemos",
+    "2p": "sincronizeis",
+    "3p": "sincronizem"
+  },
+  "PImpC": {
+    "1s": "sincronizasse",
+    "2s": "sincronizasses",
+    "3s": "sincronizasse",
+    "1p": "sincronizássemos",
+    "2p": "sincronizásseis",
+    "3p": "sincronizassem"
+  },
+  "FutSC": {
+    "1s": "sincronizar",
+    "2s": "sincronizares",
+    "3s": "sincronizar",
+    "1p": "sincronizarmos",
+    "2p": "sincronizardes",
+    "3p": "sincronizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sincroniza",
+    "3s": "sincronize",
+    "1p": "sincronizemos",
+    "2p": "sincronizai",
+    "3p": "sincronizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sincronizes",
+    "3s": "não sincronize",
+    "1p": "não sincronizemos",
+    "2p": "não sincronizeis",
+    "3p": "não sincronizem"
+  },
+  "Part-ter": {
+    "": "sincronizado"
+  },
+  "Part-ser": {
+    "ms": "sincronizado",
+    "fs": "sincronizada",
+    "mp": "sincronizados",
+    "fp": "sincronizadas"
+  }
+}

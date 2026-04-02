@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "testificar"
+  },
+  "Ger": {
+    "": "testificando"
+  },
+  "PresI": {
+    "1s": "testifico",
+    "2s": "testificas",
+    "3s": "testifica",
+    "1p": "testificamos",
+    "2p": "testificáis",
+    "3p": "testifican"
+  },
+  "PImpI": {
+    "1s": "testificaba",
+    "2s": "testificabas",
+    "3s": "testificaba",
+    "1p": "testificábamos",
+    "2p": "testificabais",
+    "3p": "testificaban"
+  },
+  "PPSI": {
+    "1s": "testifiqué",
+    "2s": "testificaste",
+    "3s": "testificó",
+    "1p": "testificamos",
+    "2p": "testificasteis",
+    "3p": "testificaron"
+  },
+  "FutSI": {
+    "1s": "testificaré",
+    "2s": "testificarás",
+    "3s": "testificará",
+    "1p": "testificaremos",
+    "2p": "testificaréis",
+    "3p": "testificarán"
+  },
+  "CondS": {
+    "1s": "testificaría",
+    "2s": "testificarías",
+    "3s": "testificaría",
+    "1p": "testificaríamos",
+    "2p": "testificaríais",
+    "3p": "testificarían"
+  },
+  "PresC": {
+    "1s": "testifique",
+    "2s": "testifiques",
+    "3s": "testifique",
+    "1p": "testifiquemos",
+    "2p": "testifiquéis",
+    "3p": "testifiquen"
+  },
+  "PMQPSI": {
+    "1s": "testificara",
+    "2s": "testificaras",
+    "3s": "testificara",
+    "1p": "testificáramos",
+    "2p": "testificarais",
+    "3p": "testificaran"
+  },
+  "PImpC": {
+    "1s": "testificase",
+    "2s": "testificases",
+    "3s": "testificase",
+    "1p": "testificásemos",
+    "2p": "testificaseis",
+    "3p": "testificasen"
+  },
+  "FutSC": {
+    "1s": "testificare",
+    "2s": "testificares",
+    "3s": "testificare",
+    "1p": "testificáremos",
+    "2p": "testificareis",
+    "3p": "testificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "testifica",
+    "3s": "testifique",
+    "1p": "testifiquemos",
+    "2p": "testificad",
+    "3p": "testifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no testifiques",
+    "3s": "no testifique",
+    "1p": "no testifiquemos",
+    "2p": "no testifiquéis",
+    "3p": "no testifiquen"
+  },
+  "Part-ter": {
+    "": "testificado"
+  },
+  "Part-ser": {
+    "ms": "testificado",
+    "fs": "testificada",
+    "mp": "testificados",
+    "fp": "testificadas"
+  }
+}

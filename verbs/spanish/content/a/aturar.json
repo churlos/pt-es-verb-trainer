@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aturar"
+  },
+  "Ger": {
+    "": "aturando"
+  },
+  "PresI": {
+    "1s": "aturo",
+    "2s": "aturas",
+    "3s": "atura",
+    "1p": "aturamos",
+    "2p": "aturáis",
+    "3p": "aturan"
+  },
+  "PImpI": {
+    "1s": "aturaba",
+    "2s": "aturabas",
+    "3s": "aturaba",
+    "1p": "aturábamos",
+    "2p": "aturabais",
+    "3p": "aturaban"
+  },
+  "PPSI": {
+    "1s": "aturé",
+    "2s": "aturaste",
+    "3s": "aturó",
+    "1p": "aturamos",
+    "2p": "aturasteis",
+    "3p": "aturaron"
+  },
+  "FutSI": {
+    "1s": "aturaré",
+    "2s": "aturarás",
+    "3s": "aturará",
+    "1p": "aturaremos",
+    "2p": "aturaréis",
+    "3p": "aturarán"
+  },
+  "CondS": {
+    "1s": "aturaría",
+    "2s": "aturarías",
+    "3s": "aturaría",
+    "1p": "aturaríamos",
+    "2p": "aturaríais",
+    "3p": "aturarían"
+  },
+  "PresC": {
+    "1s": "ature",
+    "2s": "atures",
+    "3s": "ature",
+    "1p": "aturemos",
+    "2p": "aturéis",
+    "3p": "aturen"
+  },
+  "PMQPSI": {
+    "1s": "aturara",
+    "2s": "aturaras",
+    "3s": "aturara",
+    "1p": "aturáramos",
+    "2p": "aturarais",
+    "3p": "aturaran"
+  },
+  "PImpC": {
+    "1s": "aturase",
+    "2s": "aturases",
+    "3s": "aturase",
+    "1p": "aturásemos",
+    "2p": "aturaseis",
+    "3p": "aturasen"
+  },
+  "FutSC": {
+    "1s": "aturare",
+    "2s": "aturares",
+    "3s": "aturare",
+    "1p": "aturáremos",
+    "2p": "aturareis",
+    "3p": "aturaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atura",
+    "3s": "ature",
+    "1p": "aturemos",
+    "2p": "aturad",
+    "3p": "aturen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atures",
+    "3s": "no ature",
+    "1p": "no aturemos",
+    "2p": "no aturéis",
+    "3p": "no aturen"
+  },
+  "Part-ter": {
+    "": "aturado"
+  },
+  "Part-ser": {
+    "ms": "aturado",
+    "fs": "aturada",
+    "mp": "aturados",
+    "fp": "aturadas"
+  }
+}

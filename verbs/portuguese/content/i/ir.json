@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ir"
+  },
+  "InfP": {
+    "1s": "ir",
+    "2s": "ires",
+    "3s": "ir",
+    "1p": "irmos",
+    "2p": "irdes",
+    "3p": "irem"
+  },
+  "Ger": {
+    "": "indo"
+  },
+  "PresI": {
+    "1s": "vou",
+    "2s": "vais",
+    "3s": "vai",
+    "1p": "vamos",
+    "2p": "ides",
+    "3p": "vão"
+  },
+  "PImpI": {
+    "1s": "ia",
+    "2s": "ias",
+    "3s": "ia",
+    "1p": "íamos",
+    "2p": "íeis",
+    "3p": "iam"
+  },
+  "PPSI": {
+    "1s": "fui",
+    "2s": "foste",
+    "3s": "foi",
+    "1p": "fomos",
+    "2p": "fostes",
+    "3p": "foram"
+  },
+  "PMQPSI": {
+    "1s": "fora",
+    "2s": "foras",
+    "3s": "fora",
+    "1p": "fôramos",
+    "2p": "fôreis",
+    "3p": "foram"
+  },
+  "FutSI": {
+    "1s": "irei",
+    "2s": "irás",
+    "3s": "irá",
+    "1p": "iremos",
+    "2p": "ireis",
+    "3p": "irão"
+  },
+  "CondS": {
+    "1s": "iria",
+    "2s": "irias",
+    "3s": "iria",
+    "1p": "iríamos",
+    "2p": "iríeis",
+    "3p": "iriam"
+  },
+  "PresC": {
+    "1s": "vá",
+    "2s": "vás",
+    "3s": "vá",
+    "1p": "vamos",
+    "2p": "vades",
+    "3p": "vão"
+  },
+  "PImpC": {
+    "1s": "fosse",
+    "2s": "fosses",
+    "3s": "fosse",
+    "1p": "fôssemos",
+    "2p": "fôsseis",
+    "3p": "fossem"
+  },
+  "FutSC": {
+    "1s": "for",
+    "2s": "fores",
+    "3s": "for",
+    "1p": "formos",
+    "2p": "fordes",
+    "3p": "forem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vai",
+    "3s": "vá",
+    "1p": "vamos",
+    "2p": "ide",
+    "3p": "vão"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vás",
+    "3s": "não vá",
+    "1p": "não vamos",
+    "2p": "não vades",
+    "3p": "não vão"
+  },
+  "Part-ter": {
+    "": "ido"
+  },
+  "Part-ser": {
+    "ms": "ido",
+    "fs": "ida",
+    "mp": "idos",
+    "fp": "idas"
+  }
+}

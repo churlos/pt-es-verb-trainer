@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agradecer"
+  },
+  "InfP": {
+    "1s": "agradecer",
+    "2s": "agradeceres",
+    "3s": "agradecer",
+    "1p": "agradecermos",
+    "2p": "agradecerdes",
+    "3p": "agradecerem"
+  },
+  "Ger": {
+    "": "agradecendo"
+  },
+  "PresI": {
+    "1s": "agradeço",
+    "2s": "agradeces",
+    "3s": "agradece",
+    "1p": "agradecemos",
+    "2p": "agradeceis",
+    "3p": "agradecem"
+  },
+  "PImpI": {
+    "1s": "agradecia",
+    "2s": "agradecias",
+    "3s": "agradecia",
+    "1p": "agradecíamos",
+    "2p": "agradecíeis",
+    "3p": "agradeciam"
+  },
+  "PPSI": {
+    "1s": "agradeci",
+    "2s": "agradeceste",
+    "3s": "agradeceu",
+    "1p": "agradecemos",
+    "2p": "agradecestes",
+    "3p": "agradeceram"
+  },
+  "PMQPSI": {
+    "1s": "agradecera",
+    "2s": "agradeceras",
+    "3s": "agradecera",
+    "1p": "agradecêramos",
+    "2p": "agradecêreis",
+    "3p": "agradeceram"
+  },
+  "FutSI": {
+    "1s": "agradecerei",
+    "2s": "agradecerás",
+    "3s": "agradecerá",
+    "1p": "agradeceremos",
+    "2p": "agradecereis",
+    "3p": "agradecerão"
+  },
+  "CondS": {
+    "1s": "agradeceria",
+    "2s": "agradecerias",
+    "3s": "agradeceria",
+    "1p": "agradeceríamos",
+    "2p": "agradeceríeis",
+    "3p": "agradeceriam"
+  },
+  "PresC": {
+    "1s": "agradeça",
+    "2s": "agradeças",
+    "3s": "agradeça",
+    "1p": "agradeçamos",
+    "2p": "agradeçais",
+    "3p": "agradeçam"
+  },
+  "PImpC": {
+    "1s": "agradecesse",
+    "2s": "agradecesses",
+    "3s": "agradecesse",
+    "1p": "agradecêssemos",
+    "2p": "agradecêsseis",
+    "3p": "agradecessem"
+  },
+  "FutSC": {
+    "1s": "agradecer",
+    "2s": "agradeceres",
+    "3s": "agradecer",
+    "1p": "agradecermos",
+    "2p": "agradecerdes",
+    "3p": "agradecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agradece",
+    "3s": "agradeça",
+    "1p": "agradeçamos",
+    "2p": "agradecei",
+    "3p": "agradeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agradeças",
+    "3s": "não agradeça",
+    "1p": "não agradeçamos",
+    "2p": "não agradeçais",
+    "3p": "não agradeçam"
+  },
+  "Part-ter": {
+    "": "agradecido"
+  },
+  "Part-ser": {
+    "ms": "agradecido",
+    "fs": "agradecida",
+    "mp": "agradecidos",
+    "fp": "agradecidas"
+  }
+}

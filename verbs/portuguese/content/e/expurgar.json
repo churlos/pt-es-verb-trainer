@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "expurgar"
+  },
+  "InfP": {
+    "1s": "expurgar",
+    "2s": "expurgares",
+    "3s": "expurgar",
+    "1p": "expurgarmos",
+    "2p": "expurgardes",
+    "3p": "expurgarem"
+  },
+  "Ger": {
+    "": "expurgando"
+  },
+  "PresI": {
+    "1s": "expurgo",
+    "2s": "expurgas",
+    "3s": "expurga",
+    "1p": "expurgamos",
+    "2p": "expurgais",
+    "3p": "expurgam"
+  },
+  "PImpI": {
+    "1s": "expurgava",
+    "2s": "expurgavas",
+    "3s": "expurgava",
+    "1p": "expurgávamos",
+    "2p": "expurgáveis",
+    "3p": "expurgavam"
+  },
+  "PPSI": {
+    "1s": "expurguei",
+    "2s": "expurgaste",
+    "3s": "expurgou",
+    "1p": "expurgámos",
+    "2p": "expurgastes",
+    "3p": "expurgaram"
+  },
+  "PMQPSI": {
+    "1s": "expurgara",
+    "2s": "expurgaras",
+    "3s": "expurgara",
+    "1p": "expurgáramos",
+    "2p": "expurgáreis",
+    "3p": "expurgaram"
+  },
+  "FutSI": {
+    "1s": "expurgarei",
+    "2s": "expurgarás",
+    "3s": "expurgará",
+    "1p": "expurgaremos",
+    "2p": "expurgareis",
+    "3p": "expurgarão"
+  },
+  "CondS": {
+    "1s": "expurgaria",
+    "2s": "expurgarias",
+    "3s": "expurgaria",
+    "1p": "expurgaríamos",
+    "2p": "expurgaríeis",
+    "3p": "expurgariam"
+  },
+  "PresC": {
+    "1s": "expurgue",
+    "2s": "expurgues",
+    "3s": "expurgue",
+    "1p": "expurguemos",
+    "2p": "expurgueis",
+    "3p": "expurguem"
+  },
+  "PImpC": {
+    "1s": "expurgasse",
+    "2s": "expurgasses",
+    "3s": "expurgasse",
+    "1p": "expurgássemos",
+    "2p": "expurgásseis",
+    "3p": "expurgassem"
+  },
+  "FutSC": {
+    "1s": "expurgar",
+    "2s": "expurgares",
+    "3s": "expurgar",
+    "1p": "expurgarmos",
+    "2p": "expurgardes",
+    "3p": "expurgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expurga",
+    "3s": "expurgue",
+    "1p": "expurguemos",
+    "2p": "expurgai",
+    "3p": "expurguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não expurgues",
+    "3s": "não expurgue",
+    "1p": "não expurguemos",
+    "2p": "não expurgueis",
+    "3p": "não expurguem"
+  },
+  "Part-ter": {
+    "": "expurgado"
+  },
+  "Part-ser": {
+    "ms": "expurgado",
+    "fs": "expurgada",
+    "mp": "expurgados",
+    "fp": "expurgadas"
+  }
+}

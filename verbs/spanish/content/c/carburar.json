@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "carburar"
+  },
+  "Ger": {
+    "": "carburando"
+  },
+  "PresI": {
+    "1s": "carburo",
+    "2s": "carburas",
+    "3s": "carbura",
+    "1p": "carburamos",
+    "2p": "carburáis",
+    "3p": "carburan"
+  },
+  "PImpI": {
+    "1s": "carburaba",
+    "2s": "carburabas",
+    "3s": "carburaba",
+    "1p": "carburábamos",
+    "2p": "carburabais",
+    "3p": "carburaban"
+  },
+  "PPSI": {
+    "1s": "carburé",
+    "2s": "carburaste",
+    "3s": "carburó",
+    "1p": "carburamos",
+    "2p": "carburasteis",
+    "3p": "carburaron"
+  },
+  "FutSI": {
+    "1s": "carburaré",
+    "2s": "carburarás",
+    "3s": "carburará",
+    "1p": "carburaremos",
+    "2p": "carburaréis",
+    "3p": "carburarán"
+  },
+  "CondS": {
+    "1s": "carburaría",
+    "2s": "carburarías",
+    "3s": "carburaría",
+    "1p": "carburaríamos",
+    "2p": "carburaríais",
+    "3p": "carburarían"
+  },
+  "PresC": {
+    "1s": "carbure",
+    "2s": "carbures",
+    "3s": "carbure",
+    "1p": "carburemos",
+    "2p": "carburéis",
+    "3p": "carburen"
+  },
+  "PMQPSI": {
+    "1s": "carburara",
+    "2s": "carburaras",
+    "3s": "carburara",
+    "1p": "carburáramos",
+    "2p": "carburarais",
+    "3p": "carburaran"
+  },
+  "PImpC": {
+    "1s": "carburase",
+    "2s": "carburases",
+    "3s": "carburase",
+    "1p": "carburásemos",
+    "2p": "carburaseis",
+    "3p": "carburasen"
+  },
+  "FutSC": {
+    "1s": "carburare",
+    "2s": "carburares",
+    "3s": "carburare",
+    "1p": "carburáremos",
+    "2p": "carburareis",
+    "3p": "carburaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carbura",
+    "3s": "carbure",
+    "1p": "carburemos",
+    "2p": "carburad",
+    "3p": "carburen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no carbures",
+    "3s": "no carbure",
+    "1p": "no carburemos",
+    "2p": "no carburéis",
+    "3p": "no carburen"
+  },
+  "Part-ter": {
+    "": "carburado"
+  },
+  "Part-ser": {
+    "ms": "carburado",
+    "fs": "carburada",
+    "mp": "carburados",
+    "fp": "carburadas"
+  }
+}

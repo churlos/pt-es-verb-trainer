@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reaplicar"
+  },
+  "Ger": {
+    "": "reaplicando"
+  },
+  "PresI": {
+    "1s": "reaplico",
+    "2s": "reaplicas",
+    "3s": "reaplica",
+    "1p": "reaplicamos",
+    "2p": "reaplicáis",
+    "3p": "reaplican"
+  },
+  "PImpI": {
+    "1s": "reaplicaba",
+    "2s": "reaplicabas",
+    "3s": "reaplicaba",
+    "1p": "reaplicábamos",
+    "2p": "reaplicabais",
+    "3p": "reaplicaban"
+  },
+  "PPSI": {
+    "1s": "reapliqué",
+    "2s": "reaplicaste",
+    "3s": "reaplicó",
+    "1p": "reaplicamos",
+    "2p": "reaplicasteis",
+    "3p": "reaplicaron"
+  },
+  "FutSI": {
+    "1s": "reaplicaré",
+    "2s": "reaplicarás",
+    "3s": "reaplicará",
+    "1p": "reaplicaremos",
+    "2p": "reaplicaréis",
+    "3p": "reaplicarán"
+  },
+  "CondS": {
+    "1s": "reaplicaría",
+    "2s": "reaplicarías",
+    "3s": "reaplicaría",
+    "1p": "reaplicaríamos",
+    "2p": "reaplicaríais",
+    "3p": "reaplicarían"
+  },
+  "PresC": {
+    "1s": "reaplique",
+    "2s": "reapliques",
+    "3s": "reaplique",
+    "1p": "reapliquemos",
+    "2p": "reapliquéis",
+    "3p": "reapliquen"
+  },
+  "PMQPSI": {
+    "1s": "reaplicara",
+    "2s": "reaplicaras",
+    "3s": "reaplicara",
+    "1p": "reaplicáramos",
+    "2p": "reaplicarais",
+    "3p": "reaplicaran"
+  },
+  "PImpC": {
+    "1s": "reaplicase",
+    "2s": "reaplicases",
+    "3s": "reaplicase",
+    "1p": "reaplicásemos",
+    "2p": "reaplicaseis",
+    "3p": "reaplicasen"
+  },
+  "FutSC": {
+    "1s": "reaplicare",
+    "2s": "reaplicares",
+    "3s": "reaplicare",
+    "1p": "reaplicáremos",
+    "2p": "reaplicareis",
+    "3p": "reaplicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reaplica",
+    "3s": "reaplique",
+    "1p": "reapliquemos",
+    "2p": "reaplicad",
+    "3p": "reapliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reapliques",
+    "3s": "no reaplique",
+    "1p": "no reapliquemos",
+    "2p": "no reapliquéis",
+    "3p": "no reapliquen"
+  },
+  "Part-ter": {
+    "": "reaplicado"
+  },
+  "Part-ser": {
+    "ms": "reaplicado",
+    "fs": "reaplicada",
+    "mp": "reaplicados",
+    "fp": "reaplicadas"
+  }
+}

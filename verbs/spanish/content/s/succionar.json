@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "succionar"
+  },
+  "Ger": {
+    "": "succionando"
+  },
+  "PresI": {
+    "1s": "succiono",
+    "2s": "succionas",
+    "3s": "succiona",
+    "1p": "succionamos",
+    "2p": "succionáis",
+    "3p": "succionan"
+  },
+  "PImpI": {
+    "1s": "succionaba",
+    "2s": "succionabas",
+    "3s": "succionaba",
+    "1p": "succionábamos",
+    "2p": "succionabais",
+    "3p": "succionaban"
+  },
+  "PPSI": {
+    "1s": "succioné",
+    "2s": "succionaste",
+    "3s": "succionó",
+    "1p": "succionamos",
+    "2p": "succionasteis",
+    "3p": "succionaron"
+  },
+  "FutSI": {
+    "1s": "succionaré",
+    "2s": "succionarás",
+    "3s": "succionará",
+    "1p": "succionaremos",
+    "2p": "succionaréis",
+    "3p": "succionarán"
+  },
+  "CondS": {
+    "1s": "succionaría",
+    "2s": "succionarías",
+    "3s": "succionaría",
+    "1p": "succionaríamos",
+    "2p": "succionaríais",
+    "3p": "succionarían"
+  },
+  "PresC": {
+    "1s": "succione",
+    "2s": "succiones",
+    "3s": "succione",
+    "1p": "succionemos",
+    "2p": "succionéis",
+    "3p": "succionen"
+  },
+  "PMQPSI": {
+    "1s": "succionara",
+    "2s": "succionaras",
+    "3s": "succionara",
+    "1p": "succionáramos",
+    "2p": "succionarais",
+    "3p": "succionaran"
+  },
+  "PImpC": {
+    "1s": "succionase",
+    "2s": "succionases",
+    "3s": "succionase",
+    "1p": "succionásemos",
+    "2p": "succionaseis",
+    "3p": "succionasen"
+  },
+  "FutSC": {
+    "1s": "succionare",
+    "2s": "succionares",
+    "3s": "succionare",
+    "1p": "succionáremos",
+    "2p": "succionareis",
+    "3p": "succionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "succiona",
+    "3s": "succione",
+    "1p": "succionemos",
+    "2p": "succionad",
+    "3p": "succionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no succiones",
+    "3s": "no succione",
+    "1p": "no succionemos",
+    "2p": "no succionéis",
+    "3p": "no succionen"
+  },
+  "Part-ter": {
+    "": "succionado"
+  },
+  "Part-ser": {
+    "ms": "succionado",
+    "fs": "succionada",
+    "mp": "succionados",
+    "fp": "succionadas"
+  }
+}

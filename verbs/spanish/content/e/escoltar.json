@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escoltar"
+  },
+  "Ger": {
+    "": "escoltando"
+  },
+  "PresI": {
+    "1s": "escolto",
+    "2s": "escoltas",
+    "3s": "escolta",
+    "1p": "escoltamos",
+    "2p": "escoltáis",
+    "3p": "escoltan"
+  },
+  "PImpI": {
+    "1s": "escoltaba",
+    "2s": "escoltabas",
+    "3s": "escoltaba",
+    "1p": "escoltábamos",
+    "2p": "escoltabais",
+    "3p": "escoltaban"
+  },
+  "PPSI": {
+    "1s": "escolté",
+    "2s": "escoltaste",
+    "3s": "escoltó",
+    "1p": "escoltamos",
+    "2p": "escoltasteis",
+    "3p": "escoltaron"
+  },
+  "FutSI": {
+    "1s": "escoltaré",
+    "2s": "escoltarás",
+    "3s": "escoltará",
+    "1p": "escoltaremos",
+    "2p": "escoltaréis",
+    "3p": "escoltarán"
+  },
+  "CondS": {
+    "1s": "escoltaría",
+    "2s": "escoltarías",
+    "3s": "escoltaría",
+    "1p": "escoltaríamos",
+    "2p": "escoltaríais",
+    "3p": "escoltarían"
+  },
+  "PresC": {
+    "1s": "escolte",
+    "2s": "escoltes",
+    "3s": "escolte",
+    "1p": "escoltemos",
+    "2p": "escoltéis",
+    "3p": "escolten"
+  },
+  "PMQPSI": {
+    "1s": "escoltara",
+    "2s": "escoltaras",
+    "3s": "escoltara",
+    "1p": "escoltáramos",
+    "2p": "escoltarais",
+    "3p": "escoltaran"
+  },
+  "PImpC": {
+    "1s": "escoltase",
+    "2s": "escoltases",
+    "3s": "escoltase",
+    "1p": "escoltásemos",
+    "2p": "escoltaseis",
+    "3p": "escoltasen"
+  },
+  "FutSC": {
+    "1s": "escoltare",
+    "2s": "escoltares",
+    "3s": "escoltare",
+    "1p": "escoltáremos",
+    "2p": "escoltareis",
+    "3p": "escoltaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escolta",
+    "3s": "escolte",
+    "1p": "escoltemos",
+    "2p": "escoltad",
+    "3p": "escolten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escoltes",
+    "3s": "no escolte",
+    "1p": "no escoltemos",
+    "2p": "no escoltéis",
+    "3p": "no escolten"
+  },
+  "Part-ter": {
+    "": "escoltado"
+  },
+  "Part-ser": {
+    "ms": "escoltado",
+    "fs": "escoltada",
+    "mp": "escoltados",
+    "fp": "escoltadas"
+  }
+}

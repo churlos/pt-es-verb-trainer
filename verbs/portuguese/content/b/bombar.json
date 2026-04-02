@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bombar"
+  },
+  "InfP": {
+    "1s": "bombar",
+    "2s": "bombares",
+    "3s": "bombar",
+    "1p": "bombarmos",
+    "2p": "bombardes",
+    "3p": "bombarem"
+  },
+  "Ger": {
+    "": "bombando"
+  },
+  "PresI": {
+    "1s": "bombo",
+    "2s": "bombas",
+    "3s": "bomba",
+    "1p": "bombamos",
+    "2p": "bombais",
+    "3p": "bombam"
+  },
+  "PImpI": {
+    "1s": "bombava",
+    "2s": "bombavas",
+    "3s": "bombava",
+    "1p": "bombávamos",
+    "2p": "bombáveis",
+    "3p": "bombavam"
+  },
+  "PPSI": {
+    "1s": "bombei",
+    "2s": "bombaste",
+    "3s": "bombou",
+    "1p": "bombámos",
+    "2p": "bombastes",
+    "3p": "bombaram"
+  },
+  "PMQPSI": {
+    "1s": "bombara",
+    "2s": "bombaras",
+    "3s": "bombara",
+    "1p": "bombáramos",
+    "2p": "bombáreis",
+    "3p": "bombaram"
+  },
+  "FutSI": {
+    "1s": "bombarei",
+    "2s": "bombarás",
+    "3s": "bombará",
+    "1p": "bombaremos",
+    "2p": "bombareis",
+    "3p": "bombarão"
+  },
+  "CondS": {
+    "1s": "bombaria",
+    "2s": "bombarias",
+    "3s": "bombaria",
+    "1p": "bombaríamos",
+    "2p": "bombaríeis",
+    "3p": "bombariam"
+  },
+  "PresC": {
+    "1s": "bombe",
+    "2s": "bombes",
+    "3s": "bombe",
+    "1p": "bombemos",
+    "2p": "bombeis",
+    "3p": "bombem"
+  },
+  "PImpC": {
+    "1s": "bombasse",
+    "2s": "bombasses",
+    "3s": "bombasse",
+    "1p": "bombássemos",
+    "2p": "bombásseis",
+    "3p": "bombassem"
+  },
+  "FutSC": {
+    "1s": "bombar",
+    "2s": "bombares",
+    "3s": "bombar",
+    "1p": "bombarmos",
+    "2p": "bombardes",
+    "3p": "bombarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bomba",
+    "3s": "bombe",
+    "1p": "bombemos",
+    "2p": "bombai",
+    "3p": "bombem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bombes",
+    "3s": "não bombe",
+    "1p": "não bombemos",
+    "2p": "não bombeis",
+    "3p": "não bombem"
+  },
+  "Part-ter": {
+    "": "bombado"
+  },
+  "Part-ser": {
+    "ms": "bombado",
+    "fs": "bombada",
+    "mp": "bombados",
+    "fp": "bombadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "racionar"
+  },
+  "Ger": {
+    "": "racionando"
+  },
+  "PresI": {
+    "1s": "raciono",
+    "2s": "racionas",
+    "3s": "raciona",
+    "1p": "racionamos",
+    "2p": "racionáis",
+    "3p": "racionan"
+  },
+  "PImpI": {
+    "1s": "racionaba",
+    "2s": "racionabas",
+    "3s": "racionaba",
+    "1p": "racionábamos",
+    "2p": "racionabais",
+    "3p": "racionaban"
+  },
+  "PPSI": {
+    "1s": "racioné",
+    "2s": "racionaste",
+    "3s": "racionó",
+    "1p": "racionamos",
+    "2p": "racionasteis",
+    "3p": "racionaron"
+  },
+  "FutSI": {
+    "1s": "racionaré",
+    "2s": "racionarás",
+    "3s": "racionará",
+    "1p": "racionaremos",
+    "2p": "racionaréis",
+    "3p": "racionarán"
+  },
+  "CondS": {
+    "1s": "racionaría",
+    "2s": "racionarías",
+    "3s": "racionaría",
+    "1p": "racionaríamos",
+    "2p": "racionaríais",
+    "3p": "racionarían"
+  },
+  "PresC": {
+    "1s": "racione",
+    "2s": "raciones",
+    "3s": "racione",
+    "1p": "racionemos",
+    "2p": "racionéis",
+    "3p": "racionen"
+  },
+  "PMQPSI": {
+    "1s": "racionara",
+    "2s": "racionaras",
+    "3s": "racionara",
+    "1p": "racionáramos",
+    "2p": "racionarais",
+    "3p": "racionaran"
+  },
+  "PImpC": {
+    "1s": "racionase",
+    "2s": "racionases",
+    "3s": "racionase",
+    "1p": "racionásemos",
+    "2p": "racionaseis",
+    "3p": "racionasen"
+  },
+  "FutSC": {
+    "1s": "racionare",
+    "2s": "racionares",
+    "3s": "racionare",
+    "1p": "racionáremos",
+    "2p": "racionareis",
+    "3p": "racionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "raciona",
+    "3s": "racione",
+    "1p": "racionemos",
+    "2p": "racionad",
+    "3p": "racionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no raciones",
+    "3s": "no racione",
+    "1p": "no racionemos",
+    "2p": "no racionéis",
+    "3p": "no racionen"
+  },
+  "Part-ter": {
+    "": "racionado"
+  },
+  "Part-ser": {
+    "ms": "racionado",
+    "fs": "racionada",
+    "mp": "racionados",
+    "fp": "racionadas"
+  }
+}

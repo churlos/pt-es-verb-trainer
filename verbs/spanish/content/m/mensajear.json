@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mensajear"
+  },
+  "Ger": {
+    "": "mensajeando"
+  },
+  "PresI": {
+    "1s": "mensajeo",
+    "2s": "mensajeas",
+    "3s": "mensajea",
+    "1p": "mensajeamos",
+    "2p": "mensajeáis",
+    "3p": "mensajean"
+  },
+  "PImpI": {
+    "1s": "mensajeaba",
+    "2s": "mensajeabas",
+    "3s": "mensajeaba",
+    "1p": "mensajeábamos",
+    "2p": "mensajeabais",
+    "3p": "mensajeaban"
+  },
+  "PPSI": {
+    "1s": "mensajeé",
+    "2s": "mensajeaste",
+    "3s": "mensajeó",
+    "1p": "mensajeamos",
+    "2p": "mensajeasteis",
+    "3p": "mensajearon"
+  },
+  "FutSI": {
+    "1s": "mensajearé",
+    "2s": "mensajearás",
+    "3s": "mensajeará",
+    "1p": "mensajearemos",
+    "2p": "mensajearéis",
+    "3p": "mensajearán"
+  },
+  "CondS": {
+    "1s": "mensajearía",
+    "2s": "mensajearías",
+    "3s": "mensajearía",
+    "1p": "mensajearíamos",
+    "2p": "mensajearíais",
+    "3p": "mensajearían"
+  },
+  "PresC": {
+    "1s": "mensajee",
+    "2s": "mensajees",
+    "3s": "mensajee",
+    "1p": "mensajeemos",
+    "2p": "mensajeéis",
+    "3p": "mensajeen"
+  },
+  "PMQPSI": {
+    "1s": "mensajeara",
+    "2s": "mensajearas",
+    "3s": "mensajeara",
+    "1p": "mensajeáramos",
+    "2p": "mensajearais",
+    "3p": "mensajearan"
+  },
+  "PImpC": {
+    "1s": "mensajease",
+    "2s": "mensajeases",
+    "3s": "mensajease",
+    "1p": "mensajeásemos",
+    "2p": "mensajeaseis",
+    "3p": "mensajeasen"
+  },
+  "FutSC": {
+    "1s": "mensajeare",
+    "2s": "mensajeares",
+    "3s": "mensajeare",
+    "1p": "mensajeáremos",
+    "2p": "mensajeareis",
+    "3p": "mensajearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mensajea",
+    "3s": "mensajee",
+    "1p": "mensajeemos",
+    "2p": "mensajead",
+    "3p": "mensajeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mensajees",
+    "3s": "no mensajee",
+    "1p": "no mensajeemos",
+    "2p": "no mensajeéis",
+    "3p": "no mensajeen"
+  },
+  "Part-ter": {
+    "": "mensajeado"
+  },
+  "Part-ser": {
+    "ms": "mensajeado",
+    "fs": "mensajeada",
+    "mp": "mensajeados",
+    "fp": "mensajeadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arrestar"
+  },
+  "InfP": {
+    "1s": "arrestar",
+    "2s": "arrestares",
+    "3s": "arrestar",
+    "1p": "arrestarmos",
+    "2p": "arrestardes",
+    "3p": "arrestarem"
+  },
+  "Ger": {
+    "": "arrestando"
+  },
+  "PresI": {
+    "1s": "arresto",
+    "2s": "arrestas",
+    "3s": "arresta",
+    "1p": "arrestamos",
+    "2p": "arrestais",
+    "3p": "arrestam"
+  },
+  "PImpI": {
+    "1s": "arrestava",
+    "2s": "arrestavas",
+    "3s": "arrestava",
+    "1p": "arrestávamos",
+    "2p": "arrestáveis",
+    "3p": "arrestavam"
+  },
+  "PPSI": {
+    "1s": "arrestei",
+    "2s": "arrestaste",
+    "3s": "arrestou",
+    "1p": "arrestámos",
+    "2p": "arrestastes",
+    "3p": "arrestaram"
+  },
+  "PMQPSI": {
+    "1s": "arrestara",
+    "2s": "arrestaras",
+    "3s": "arrestara",
+    "1p": "arrestáramos",
+    "2p": "arrestáreis",
+    "3p": "arrestaram"
+  },
+  "FutSI": {
+    "1s": "arrestarei",
+    "2s": "arrestarás",
+    "3s": "arrestará",
+    "1p": "arrestaremos",
+    "2p": "arrestareis",
+    "3p": "arrestarão"
+  },
+  "CondS": {
+    "1s": "arrestaria",
+    "2s": "arrestarias",
+    "3s": "arrestaria",
+    "1p": "arrestaríamos",
+    "2p": "arrestaríeis",
+    "3p": "arrestariam"
+  },
+  "PresC": {
+    "1s": "arreste",
+    "2s": "arrestes",
+    "3s": "arreste",
+    "1p": "arrestemos",
+    "2p": "arresteis",
+    "3p": "arrestem"
+  },
+  "PImpC": {
+    "1s": "arrestasse",
+    "2s": "arrestasses",
+    "3s": "arrestasse",
+    "1p": "arrestássemos",
+    "2p": "arrestásseis",
+    "3p": "arrestassem"
+  },
+  "FutSC": {
+    "1s": "arrestar",
+    "2s": "arrestares",
+    "3s": "arrestar",
+    "1p": "arrestarmos",
+    "2p": "arrestardes",
+    "3p": "arrestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arresta",
+    "3s": "arreste",
+    "1p": "arrestemos",
+    "2p": "arrestai",
+    "3p": "arrestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arrestes",
+    "3s": "não arreste",
+    "1p": "não arrestemos",
+    "2p": "não arresteis",
+    "3p": "não arrestem"
+  },
+  "Part-ter": {
+    "": "arrestado"
+  },
+  "Part-ser": {
+    "ms": "arrestado",
+    "fs": "arrestada",
+    "mp": "arrestados",
+    "fp": "arrestadas"
+  }
+}

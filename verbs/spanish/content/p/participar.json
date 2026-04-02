@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "participar"
+  },
+  "Ger": {
+    "": "participando"
+  },
+  "PresI": {
+    "1s": "participo",
+    "2s": "participas",
+    "3s": "participa",
+    "1p": "participamos",
+    "2p": "participáis",
+    "3p": "participan"
+  },
+  "PImpI": {
+    "1s": "participaba",
+    "2s": "participabas",
+    "3s": "participaba",
+    "1p": "participábamos",
+    "2p": "participabais",
+    "3p": "participaban"
+  },
+  "PPSI": {
+    "1s": "participé",
+    "2s": "participaste",
+    "3s": "participó",
+    "1p": "participamos",
+    "2p": "participasteis",
+    "3p": "participaron"
+  },
+  "FutSI": {
+    "1s": "participaré",
+    "2s": "participarás",
+    "3s": "participará",
+    "1p": "participaremos",
+    "2p": "participaréis",
+    "3p": "participarán"
+  },
+  "CondS": {
+    "1s": "participaría",
+    "2s": "participarías",
+    "3s": "participaría",
+    "1p": "participaríamos",
+    "2p": "participaríais",
+    "3p": "participarían"
+  },
+  "PresC": {
+    "1s": "participe",
+    "2s": "participes",
+    "3s": "participe",
+    "1p": "participemos",
+    "2p": "participéis",
+    "3p": "participen"
+  },
+  "PMQPSI": {
+    "1s": "participara",
+    "2s": "participaras",
+    "3s": "participara",
+    "1p": "participáramos",
+    "2p": "participarais",
+    "3p": "participaran"
+  },
+  "PImpC": {
+    "1s": "participase",
+    "2s": "participases",
+    "3s": "participase",
+    "1p": "participásemos",
+    "2p": "participaseis",
+    "3p": "participasen"
+  },
+  "FutSC": {
+    "1s": "participare",
+    "2s": "participares",
+    "3s": "participare",
+    "1p": "participáremos",
+    "2p": "participareis",
+    "3p": "participaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "participa",
+    "3s": "participe",
+    "1p": "participemos",
+    "2p": "participad",
+    "3p": "participen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no participes",
+    "3s": "no participe",
+    "1p": "no participemos",
+    "2p": "no participéis",
+    "3p": "no participen"
+  },
+  "Part-ter": {
+    "": "participado"
+  },
+  "Part-ser": {
+    "ms": "participado",
+    "fs": "participada",
+    "mp": "participados",
+    "fp": "participadas"
+  }
+}

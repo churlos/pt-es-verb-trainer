@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "continuar"
+  },
+  "InfP": {
+    "1s": "continuar",
+    "2s": "continuares",
+    "3s": "continuar",
+    "1p": "continuarmos",
+    "2p": "continuardes",
+    "3p": "continuarem"
+  },
+  "Ger": {
+    "": "continuando"
+  },
+  "PresI": {
+    "1s": "continuo",
+    "2s": "continuas",
+    "3s": "continua",
+    "1p": "continuamos",
+    "2p": "continuais",
+    "3p": "continuam"
+  },
+  "PImpI": {
+    "1s": "continuava",
+    "2s": "continuavas",
+    "3s": "continuava",
+    "1p": "continuávamos",
+    "2p": "continuáveis",
+    "3p": "continuavam"
+  },
+  "PPSI": {
+    "1s": "continuei",
+    "2s": "continuaste",
+    "3s": "continuou",
+    "1p": "continuámos",
+    "2p": "continuastes",
+    "3p": "continuaram"
+  },
+  "PMQPSI": {
+    "1s": "continuara",
+    "2s": "continuaras",
+    "3s": "continuara",
+    "1p": "continuáramos",
+    "2p": "continuáreis",
+    "3p": "continuaram"
+  },
+  "FutSI": {
+    "1s": "continuarei",
+    "2s": "continuarás",
+    "3s": "continuará",
+    "1p": "continuaremos",
+    "2p": "continuareis",
+    "3p": "continuarão"
+  },
+  "CondS": {
+    "1s": "continuaria",
+    "2s": "continuarias",
+    "3s": "continuaria",
+    "1p": "continuaríamos",
+    "2p": "continuaríeis",
+    "3p": "continuariam"
+  },
+  "PresC": {
+    "1s": "continue",
+    "2s": "continues",
+    "3s": "continue",
+    "1p": "continuemos",
+    "2p": "continueis",
+    "3p": "continuem"
+  },
+  "PImpC": {
+    "1s": "continuasse",
+    "2s": "continuasses",
+    "3s": "continuasse",
+    "1p": "continuássemos",
+    "2p": "continuásseis",
+    "3p": "continuassem"
+  },
+  "FutSC": {
+    "1s": "continuar",
+    "2s": "continuares",
+    "3s": "continuar",
+    "1p": "continuarmos",
+    "2p": "continuardes",
+    "3p": "continuarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "continua",
+    "3s": "continue",
+    "1p": "continuemos",
+    "2p": "continuai",
+    "3p": "continuem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não continues",
+    "3s": "não continue",
+    "1p": "não continuemos",
+    "2p": "não continueis",
+    "3p": "não continuem"
+  },
+  "Part-ter": {
+    "": "continuado"
+  },
+  "Part-ser": {
+    "ms": "continuado",
+    "fs": "continuada",
+    "mp": "continuados",
+    "fp": "continuadas"
+  }
+}

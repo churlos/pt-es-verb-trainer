@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "argentar"
+  },
+  "InfP": {
+    "1s": "argentar",
+    "2s": "argentares",
+    "3s": "argentar",
+    "1p": "argentarmos",
+    "2p": "argentardes",
+    "3p": "argentarem"
+  },
+  "Ger": {
+    "": "argentando"
+  },
+  "PresI": {
+    "1s": "argento",
+    "2s": "argentas",
+    "3s": "argenta",
+    "1p": "argentamos",
+    "2p": "argentais",
+    "3p": "argentam"
+  },
+  "PImpI": {
+    "1s": "argentava",
+    "2s": "argentavas",
+    "3s": "argentava",
+    "1p": "argentávamos",
+    "2p": "argentáveis",
+    "3p": "argentavam"
+  },
+  "PPSI": {
+    "1s": "argentei",
+    "2s": "argentaste",
+    "3s": "argentou",
+    "1p": "argentámos",
+    "2p": "argentastes",
+    "3p": "argentaram"
+  },
+  "PMQPSI": {
+    "1s": "argentara",
+    "2s": "argentaras",
+    "3s": "argentara",
+    "1p": "argentáramos",
+    "2p": "argentáreis",
+    "3p": "argentaram"
+  },
+  "FutSI": {
+    "1s": "argentarei",
+    "2s": "argentarás",
+    "3s": "argentará",
+    "1p": "argentaremos",
+    "2p": "argentareis",
+    "3p": "argentarão"
+  },
+  "CondS": {
+    "1s": "argentaria",
+    "2s": "argentarias",
+    "3s": "argentaria",
+    "1p": "argentaríamos",
+    "2p": "argentaríeis",
+    "3p": "argentariam"
+  },
+  "PresC": {
+    "1s": "argente",
+    "2s": "argentes",
+    "3s": "argente",
+    "1p": "argentemos",
+    "2p": "argenteis",
+    "3p": "argentem"
+  },
+  "PImpC": {
+    "1s": "argentasse",
+    "2s": "argentasses",
+    "3s": "argentasse",
+    "1p": "argentássemos",
+    "2p": "argentásseis",
+    "3p": "argentassem"
+  },
+  "FutSC": {
+    "1s": "argentar",
+    "2s": "argentares",
+    "3s": "argentar",
+    "1p": "argentarmos",
+    "2p": "argentardes",
+    "3p": "argentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "argenta",
+    "3s": "argente",
+    "1p": "argentemos",
+    "2p": "argentai",
+    "3p": "argentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não argentes",
+    "3s": "não argente",
+    "1p": "não argentemos",
+    "2p": "não argenteis",
+    "3p": "não argentem"
+  },
+  "Part-ter": {
+    "": "argentado"
+  },
+  "Part-ser": {
+    "ms": "argentado",
+    "fs": "argentada",
+    "mp": "argentados",
+    "fp": "argentadas"
+  }
+}

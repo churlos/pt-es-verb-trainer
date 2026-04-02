@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "nanar"
+  },
+  "InfP": {
+    "1s": "nanar",
+    "2s": "nanares",
+    "3s": "nanar",
+    "1p": "nanarmos",
+    "2p": "nanardes",
+    "3p": "nanarem"
+  },
+  "Ger": {
+    "": "nanando"
+  },
+  "PresI": {
+    "1s": "nano",
+    "2s": "nanas",
+    "3s": "nana",
+    "1p": "nanamos",
+    "2p": "nanais",
+    "3p": "nanam"
+  },
+  "PImpI": {
+    "1s": "nanava",
+    "2s": "nanavas",
+    "3s": "nanava",
+    "1p": "nanávamos",
+    "2p": "nanáveis",
+    "3p": "nanavam"
+  },
+  "PPSI": {
+    "1s": "nanei",
+    "2s": "nanaste",
+    "3s": "nanou",
+    "1p": "nanámos",
+    "2p": "nanastes",
+    "3p": "nanaram"
+  },
+  "PMQPSI": {
+    "1s": "nanara",
+    "2s": "nanaras",
+    "3s": "nanara",
+    "1p": "nanáramos",
+    "2p": "nanáreis",
+    "3p": "nanaram"
+  },
+  "FutSI": {
+    "1s": "nanarei",
+    "2s": "nanarás",
+    "3s": "nanará",
+    "1p": "nanaremos",
+    "2p": "nanareis",
+    "3p": "nanarão"
+  },
+  "CondS": {
+    "1s": "nanaria",
+    "2s": "nanarias",
+    "3s": "nanaria",
+    "1p": "nanaríamos",
+    "2p": "nanaríeis",
+    "3p": "nanariam"
+  },
+  "PresC": {
+    "1s": "nane",
+    "2s": "nanes",
+    "3s": "nane",
+    "1p": "nanemos",
+    "2p": "naneis",
+    "3p": "nanem"
+  },
+  "PImpC": {
+    "1s": "nanasse",
+    "2s": "nanasses",
+    "3s": "nanasse",
+    "1p": "nanássemos",
+    "2p": "nanásseis",
+    "3p": "nanassem"
+  },
+  "FutSC": {
+    "1s": "nanar",
+    "2s": "nanares",
+    "3s": "nanar",
+    "1p": "nanarmos",
+    "2p": "nanardes",
+    "3p": "nanarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nana",
+    "3s": "nane",
+    "1p": "nanemos",
+    "2p": "nanai",
+    "3p": "nanem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não nanes",
+    "3s": "não nane",
+    "1p": "não nanemos",
+    "2p": "não naneis",
+    "3p": "não nanem"
+  },
+  "Part-ter": {
+    "": "nanado"
+  },
+  "Part-ser": {
+    "ms": "nanado",
+    "fs": "nanada",
+    "mp": "nanados",
+    "fp": "nanadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fritar"
+  },
+  "InfP": {
+    "1s": "fritar",
+    "2s": "fritares",
+    "3s": "fritar",
+    "1p": "fritarmos",
+    "2p": "fritardes",
+    "3p": "fritarem"
+  },
+  "Ger": {
+    "": "fritando"
+  },
+  "PresI": {
+    "1s": "frito",
+    "2s": "fritas",
+    "3s": "frita",
+    "1p": "fritamos",
+    "2p": "fritais",
+    "3p": "fritam"
+  },
+  "PImpI": {
+    "1s": "fritava",
+    "2s": "fritavas",
+    "3s": "fritava",
+    "1p": "fritávamos",
+    "2p": "fritáveis",
+    "3p": "fritavam"
+  },
+  "PPSI": {
+    "1s": "fritei",
+    "2s": "fritaste",
+    "3s": "fritou",
+    "1p": "fritámos",
+    "2p": "fritastes",
+    "3p": "fritaram"
+  },
+  "PMQPSI": {
+    "1s": "fritara",
+    "2s": "fritaras",
+    "3s": "fritara",
+    "1p": "fritáramos",
+    "2p": "fritáreis",
+    "3p": "fritaram"
+  },
+  "FutSI": {
+    "1s": "fritarei",
+    "2s": "fritarás",
+    "3s": "fritará",
+    "1p": "fritaremos",
+    "2p": "fritareis",
+    "3p": "fritarão"
+  },
+  "CondS": {
+    "1s": "fritaria",
+    "2s": "fritarias",
+    "3s": "fritaria",
+    "1p": "fritaríamos",
+    "2p": "fritaríeis",
+    "3p": "fritariam"
+  },
+  "PresC": {
+    "1s": "frite",
+    "2s": "frites",
+    "3s": "frite",
+    "1p": "fritemos",
+    "2p": "friteis",
+    "3p": "fritem"
+  },
+  "PImpC": {
+    "1s": "fritasse",
+    "2s": "fritasses",
+    "3s": "fritasse",
+    "1p": "fritássemos",
+    "2p": "fritásseis",
+    "3p": "fritassem"
+  },
+  "FutSC": {
+    "1s": "fritar",
+    "2s": "fritares",
+    "3s": "fritar",
+    "1p": "fritarmos",
+    "2p": "fritardes",
+    "3p": "fritarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "frita",
+    "3s": "frite",
+    "1p": "fritemos",
+    "2p": "fritai",
+    "3p": "fritem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não frites",
+    "3s": "não frite",
+    "1p": "não fritemos",
+    "2p": "não friteis",
+    "3p": "não fritem"
+  },
+  "Part-ter": {
+    "": "fritado"
+  },
+  "Part-ser": {
+    "ms": "fritado",
+    "fs": "fritada",
+    "mp": "fritados",
+    "fp": "fritadas"
+  }
+}

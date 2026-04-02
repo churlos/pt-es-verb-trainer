@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "regimentar"
+  },
+  "Ger": {
+    "": "regimentando"
+  },
+  "PresI": {
+    "1s": "regimento",
+    "2s": "regimentas",
+    "3s": "regimenta",
+    "1p": "regimentamos",
+    "2p": "regimentáis",
+    "3p": "regimentan"
+  },
+  "PImpI": {
+    "1s": "regimentaba",
+    "2s": "regimentabas",
+    "3s": "regimentaba",
+    "1p": "regimentábamos",
+    "2p": "regimentabais",
+    "3p": "regimentaban"
+  },
+  "PPSI": {
+    "1s": "regimenté",
+    "2s": "regimentaste",
+    "3s": "regimentó",
+    "1p": "regimentamos",
+    "2p": "regimentasteis",
+    "3p": "regimentaron"
+  },
+  "FutSI": {
+    "1s": "regimentaré",
+    "2s": "regimentarás",
+    "3s": "regimentará",
+    "1p": "regimentaremos",
+    "2p": "regimentaréis",
+    "3p": "regimentarán"
+  },
+  "CondS": {
+    "1s": "regimentaría",
+    "2s": "regimentarías",
+    "3s": "regimentaría",
+    "1p": "regimentaríamos",
+    "2p": "regimentaríais",
+    "3p": "regimentarían"
+  },
+  "PresC": {
+    "1s": "regimente",
+    "2s": "regimentes",
+    "3s": "regimente",
+    "1p": "regimentemos",
+    "2p": "regimentéis",
+    "3p": "regimenten"
+  },
+  "PMQPSI": {
+    "1s": "regimentara",
+    "2s": "regimentaras",
+    "3s": "regimentara",
+    "1p": "regimentáramos",
+    "2p": "regimentarais",
+    "3p": "regimentaran"
+  },
+  "PImpC": {
+    "1s": "regimentase",
+    "2s": "regimentases",
+    "3s": "regimentase",
+    "1p": "regimentásemos",
+    "2p": "regimentaseis",
+    "3p": "regimentasen"
+  },
+  "FutSC": {
+    "1s": "regimentare",
+    "2s": "regimentares",
+    "3s": "regimentare",
+    "1p": "regimentáremos",
+    "2p": "regimentareis",
+    "3p": "regimentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regimenta",
+    "3s": "regimente",
+    "1p": "regimentemos",
+    "2p": "regimentad",
+    "3p": "regimenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no regimentes",
+    "3s": "no regimente",
+    "1p": "no regimentemos",
+    "2p": "no regimentéis",
+    "3p": "no regimenten"
+  },
+  "Part-ter": {
+    "": "regimentado"
+  },
+  "Part-ser": {
+    "ms": "regimentado",
+    "fs": "regimentada",
+    "mp": "regimentados",
+    "fp": "regimentadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cifrar"
+  },
+  "InfP": {
+    "1s": "cifrar",
+    "2s": "cifrares",
+    "3s": "cifrar",
+    "1p": "cifrarmos",
+    "2p": "cifrardes",
+    "3p": "cifrarem"
+  },
+  "Ger": {
+    "": "cifrando"
+  },
+  "PresI": {
+    "1s": "cifro",
+    "2s": "cifras",
+    "3s": "cifra",
+    "1p": "ciframos",
+    "2p": "cifrais",
+    "3p": "cifram"
+  },
+  "PImpI": {
+    "1s": "cifrava",
+    "2s": "cifravas",
+    "3s": "cifrava",
+    "1p": "cifrávamos",
+    "2p": "cifráveis",
+    "3p": "cifravam"
+  },
+  "PPSI": {
+    "1s": "cifrei",
+    "2s": "cifraste",
+    "3s": "cifrou",
+    "1p": "cifrámos",
+    "2p": "cifrastes",
+    "3p": "cifraram"
+  },
+  "PMQPSI": {
+    "1s": "cifrara",
+    "2s": "cifraras",
+    "3s": "cifrara",
+    "1p": "cifráramos",
+    "2p": "cifráreis",
+    "3p": "cifraram"
+  },
+  "FutSI": {
+    "1s": "cifrarei",
+    "2s": "cifrarás",
+    "3s": "cifrará",
+    "1p": "cifraremos",
+    "2p": "cifrareis",
+    "3p": "cifrarão"
+  },
+  "CondS": {
+    "1s": "cifraria",
+    "2s": "cifrarias",
+    "3s": "cifraria",
+    "1p": "cifraríamos",
+    "2p": "cifraríeis",
+    "3p": "cifrariam"
+  },
+  "PresC": {
+    "1s": "cifre",
+    "2s": "cifres",
+    "3s": "cifre",
+    "1p": "cifremos",
+    "2p": "cifreis",
+    "3p": "cifrem"
+  },
+  "PImpC": {
+    "1s": "cifrasse",
+    "2s": "cifrasses",
+    "3s": "cifrasse",
+    "1p": "cifrássemos",
+    "2p": "cifrásseis",
+    "3p": "cifrassem"
+  },
+  "FutSC": {
+    "1s": "cifrar",
+    "2s": "cifrares",
+    "3s": "cifrar",
+    "1p": "cifrarmos",
+    "2p": "cifrardes",
+    "3p": "cifrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cifra",
+    "3s": "cifre",
+    "1p": "cifremos",
+    "2p": "cifrai",
+    "3p": "cifrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cifres",
+    "3s": "não cifre",
+    "1p": "não cifremos",
+    "2p": "não cifreis",
+    "3p": "não cifrem"
+  },
+  "Part-ter": {
+    "": "cifrado"
+  },
+  "Part-ser": {
+    "ms": "cifrado",
+    "fs": "cifrada",
+    "mp": "cifrados",
+    "fp": "cifradas"
+  }
+}

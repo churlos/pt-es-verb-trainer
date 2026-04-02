@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoconducirse"
+  },
+  "Ger": {
+    "": "autoconduciéndose"
+  },
+  "PresI": {
+    "1s": "me autoconduzco",
+    "2s": "te autoconduces",
+    "3s": "se autoconduce",
+    "1p": "nos autoconducimos",
+    "2p": "os autoconducís",
+    "3p": "se autoconducen"
+  },
+  "PImpI": {
+    "1s": "me autoconducía",
+    "2s": "te autoconducías",
+    "3s": "se autoconducía",
+    "1p": "nos autoconducíamos",
+    "2p": "os autoconducíais",
+    "3p": "se autoconducían"
+  },
+  "PPSI": {
+    "1s": "me autoconduje",
+    "2s": "te autocondujiste",
+    "3s": "se autocondujo",
+    "1p": "nos autocondujimos",
+    "2p": "os autocondujisteis",
+    "3p": "se autocondujeron"
+  },
+  "FutSI": {
+    "1s": "me autoconduciré",
+    "2s": "te autoconducirás",
+    "3s": "se autoconducirá",
+    "1p": "nos autoconduciremos",
+    "2p": "os autoconduciréis",
+    "3p": "se autoconducirán"
+  },
+  "CondS": {
+    "1s": "me autoconduciría",
+    "2s": "te autoconducirías",
+    "3s": "se autoconduciría",
+    "1p": "nos autoconduciríamos",
+    "2p": "os autoconduciríais",
+    "3p": "se autoconducirían"
+  },
+  "PresC": {
+    "1s": "me autoconduzca",
+    "2s": "te autoconduzcas",
+    "3s": "se autoconduzca",
+    "1p": "nos autoconduzcamos",
+    "2p": "os autoconduzcáis",
+    "3p": "se autoconduzcan"
+  },
+  "PMQPSI": {
+    "1s": "me autocondujera",
+    "2s": "te autocondujeras",
+    "3s": "se autocondujera",
+    "1p": "nos autocondujéramos",
+    "2p": "os autocondujerais",
+    "3p": "se autocondujeran"
+  },
+  "PImpC": {
+    "1s": "me autocondujese",
+    "2s": "te autocondujeses",
+    "3s": "se autocondujese",
+    "1p": "nos autocondujésemos",
+    "2p": "os autocondujeseis",
+    "3p": "se autocondujesen"
+  },
+  "FutSC": {
+    "1s": "me autocondujere",
+    "2s": "te autocondujeres",
+    "3s": "se autocondujere",
+    "1p": "nos autocondujéremos",
+    "2p": "os autocondujereis",
+    "3p": "se autocondujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autocondúcete",
+    "3s": "autocondúzcase",
+    "1p": "autoconduzcámonos",
+    "2p": "autoconducíos",
+    "3p": "autocondúzcanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoconduzcas",
+    "3s": "no se autoconduzca",
+    "1p": "no nos autoconduzcamos",
+    "2p": "no os autoconduzcáis",
+    "3p": "no se autoconduzcan"
+  },
+  "Part-ter": {
+    "": "autoconducido"
+  },
+  "Part-ser": {
+    "ms": "autoconducido",
+    "fs": "autoconducida",
+    "mp": "autoconducidos",
+    "fp": "autoconducidas"
+  }
+}

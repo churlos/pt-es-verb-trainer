@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "flaquear"
+  },
+  "Ger": {
+    "": "flaqueando"
+  },
+  "PresI": {
+    "1s": "flaqueo",
+    "2s": "flaqueas",
+    "3s": "flaquea",
+    "1p": "flaqueamos",
+    "2p": "flaqueáis",
+    "3p": "flaquean"
+  },
+  "PImpI": {
+    "1s": "flaqueaba",
+    "2s": "flaqueabas",
+    "3s": "flaqueaba",
+    "1p": "flaqueábamos",
+    "2p": "flaqueabais",
+    "3p": "flaqueaban"
+  },
+  "PPSI": {
+    "1s": "flaqueé",
+    "2s": "flaqueaste",
+    "3s": "flaqueó",
+    "1p": "flaqueamos",
+    "2p": "flaqueasteis",
+    "3p": "flaquearon"
+  },
+  "FutSI": {
+    "1s": "flaquearé",
+    "2s": "flaquearás",
+    "3s": "flaqueará",
+    "1p": "flaquearemos",
+    "2p": "flaquearéis",
+    "3p": "flaquearán"
+  },
+  "CondS": {
+    "1s": "flaquearía",
+    "2s": "flaquearías",
+    "3s": "flaquearía",
+    "1p": "flaquearíamos",
+    "2p": "flaquearíais",
+    "3p": "flaquearían"
+  },
+  "PresC": {
+    "1s": "flaquee",
+    "2s": "flaquees",
+    "3s": "flaquee",
+    "1p": "flaqueemos",
+    "2p": "flaqueéis",
+    "3p": "flaqueen"
+  },
+  "PMQPSI": {
+    "1s": "flaqueara",
+    "2s": "flaquearas",
+    "3s": "flaqueara",
+    "1p": "flaqueáramos",
+    "2p": "flaquearais",
+    "3p": "flaquearan"
+  },
+  "PImpC": {
+    "1s": "flaquease",
+    "2s": "flaqueases",
+    "3s": "flaquease",
+    "1p": "flaqueásemos",
+    "2p": "flaqueaseis",
+    "3p": "flaqueasen"
+  },
+  "FutSC": {
+    "1s": "flaqueare",
+    "2s": "flaqueares",
+    "3s": "flaqueare",
+    "1p": "flaqueáremos",
+    "2p": "flaqueareis",
+    "3p": "flaquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flaquea",
+    "3s": "flaquee",
+    "1p": "flaqueemos",
+    "2p": "flaquead",
+    "3p": "flaqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no flaquees",
+    "3s": "no flaquee",
+    "1p": "no flaqueemos",
+    "2p": "no flaqueéis",
+    "3p": "no flaqueen"
+  },
+  "Part-ter": {
+    "": "flaqueado"
+  },
+  "Part-ser": {
+    "ms": "flaqueado",
+    "fs": "flaqueada",
+    "mp": "flaqueados",
+    "fp": "flaqueadas"
+  }
+}

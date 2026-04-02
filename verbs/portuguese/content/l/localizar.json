@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "localizar"
+  },
+  "InfP": {
+    "1s": "localizar",
+    "2s": "localizares",
+    "3s": "localizar",
+    "1p": "localizarmos",
+    "2p": "localizardes",
+    "3p": "localizarem"
+  },
+  "Ger": {
+    "": "localizando"
+  },
+  "PresI": {
+    "1s": "localizo",
+    "2s": "localizas",
+    "3s": "localiza",
+    "1p": "localizamos",
+    "2p": "localizais",
+    "3p": "localizam"
+  },
+  "PImpI": {
+    "1s": "localizava",
+    "2s": "localizavas",
+    "3s": "localizava",
+    "1p": "localizávamos",
+    "2p": "localizáveis",
+    "3p": "localizavam"
+  },
+  "PPSI": {
+    "1s": "localizei",
+    "2s": "localizaste",
+    "3s": "localizou",
+    "1p": "localizámos",
+    "2p": "localizastes",
+    "3p": "localizaram"
+  },
+  "PMQPSI": {
+    "1s": "localizara",
+    "2s": "localizaras",
+    "3s": "localizara",
+    "1p": "localizáramos",
+    "2p": "localizáreis",
+    "3p": "localizaram"
+  },
+  "FutSI": {
+    "1s": "localizarei",
+    "2s": "localizarás",
+    "3s": "localizará",
+    "1p": "localizaremos",
+    "2p": "localizareis",
+    "3p": "localizarão"
+  },
+  "CondS": {
+    "1s": "localizaria",
+    "2s": "localizarias",
+    "3s": "localizaria",
+    "1p": "localizaríamos",
+    "2p": "localizaríeis",
+    "3p": "localizariam"
+  },
+  "PresC": {
+    "1s": "localize",
+    "2s": "localizes",
+    "3s": "localize",
+    "1p": "localizemos",
+    "2p": "localizeis",
+    "3p": "localizem"
+  },
+  "PImpC": {
+    "1s": "localizasse",
+    "2s": "localizasses",
+    "3s": "localizasse",
+    "1p": "localizássemos",
+    "2p": "localizásseis",
+    "3p": "localizassem"
+  },
+  "FutSC": {
+    "1s": "localizar",
+    "2s": "localizares",
+    "3s": "localizar",
+    "1p": "localizarmos",
+    "2p": "localizardes",
+    "3p": "localizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "localiza",
+    "3s": "localize",
+    "1p": "localizemos",
+    "2p": "localizai",
+    "3p": "localizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não localizes",
+    "3s": "não localize",
+    "1p": "não localizemos",
+    "2p": "não localizeis",
+    "3p": "não localizem"
+  },
+  "Part-ter": {
+    "": "localizado"
+  },
+  "Part-ser": {
+    "ms": "localizado",
+    "fs": "localizada",
+    "mp": "localizados",
+    "fp": "localizadas"
+  }
+}

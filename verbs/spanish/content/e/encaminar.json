@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encaminar"
+  },
+  "Ger": {
+    "": "encaminando"
+  },
+  "PresI": {
+    "1s": "encamino",
+    "2s": "encaminas",
+    "3s": "encamina",
+    "1p": "encaminamos",
+    "2p": "encamináis",
+    "3p": "encaminan"
+  },
+  "PImpI": {
+    "1s": "encaminaba",
+    "2s": "encaminabas",
+    "3s": "encaminaba",
+    "1p": "encaminábamos",
+    "2p": "encaminabais",
+    "3p": "encaminaban"
+  },
+  "PPSI": {
+    "1s": "encaminé",
+    "2s": "encaminaste",
+    "3s": "encaminó",
+    "1p": "encaminamos",
+    "2p": "encaminasteis",
+    "3p": "encaminaron"
+  },
+  "FutSI": {
+    "1s": "encaminaré",
+    "2s": "encaminarás",
+    "3s": "encaminará",
+    "1p": "encaminaremos",
+    "2p": "encaminaréis",
+    "3p": "encaminarán"
+  },
+  "CondS": {
+    "1s": "encaminaría",
+    "2s": "encaminarías",
+    "3s": "encaminaría",
+    "1p": "encaminaríamos",
+    "2p": "encaminaríais",
+    "3p": "encaminarían"
+  },
+  "PresC": {
+    "1s": "encamine",
+    "2s": "encamines",
+    "3s": "encamine",
+    "1p": "encaminemos",
+    "2p": "encaminéis",
+    "3p": "encaminen"
+  },
+  "PMQPSI": {
+    "1s": "encaminara",
+    "2s": "encaminaras",
+    "3s": "encaminara",
+    "1p": "encamináramos",
+    "2p": "encaminarais",
+    "3p": "encaminaran"
+  },
+  "PImpC": {
+    "1s": "encaminase",
+    "2s": "encaminases",
+    "3s": "encaminase",
+    "1p": "encaminásemos",
+    "2p": "encaminaseis",
+    "3p": "encaminasen"
+  },
+  "FutSC": {
+    "1s": "encaminare",
+    "2s": "encaminares",
+    "3s": "encaminare",
+    "1p": "encamináremos",
+    "2p": "encaminareis",
+    "3p": "encaminaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encamina",
+    "3s": "encamine",
+    "1p": "encaminemos",
+    "2p": "encaminad",
+    "3p": "encaminen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encamines",
+    "3s": "no encamine",
+    "1p": "no encaminemos",
+    "2p": "no encaminéis",
+    "3p": "no encaminen"
+  },
+  "Part-ter": {
+    "": "encaminado"
+  },
+  "Part-ser": {
+    "ms": "encaminado",
+    "fs": "encaminada",
+    "mp": "encaminados",
+    "fp": "encaminadas"
+  }
+}

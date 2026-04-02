@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "resistir"
+  },
+  "InfP": {
+    "1s": "resistir",
+    "2s": "resistires",
+    "3s": "resistir",
+    "1p": "resistirmos",
+    "2p": "resistirdes",
+    "3p": "resistirem"
+  },
+  "Ger": {
+    "": "resistindo"
+  },
+  "PresI": {
+    "1s": "resisto",
+    "2s": "resistes",
+    "3s": "resiste",
+    "1p": "resistimos",
+    "2p": "resistis",
+    "3p": "resistem"
+  },
+  "PImpI": {
+    "1s": "resistia",
+    "2s": "resistias",
+    "3s": "resistia",
+    "1p": "resistíamos",
+    "2p": "resistíeis",
+    "3p": "resistiam"
+  },
+  "PPSI": {
+    "1s": "resisti",
+    "2s": "resististe",
+    "3s": "resistiu",
+    "1p": "resistimos",
+    "2p": "resististes",
+    "3p": "resistiram"
+  },
+  "PMQPSI": {
+    "1s": "resistira",
+    "2s": "resistiras",
+    "3s": "resistira",
+    "1p": "resistíramos",
+    "2p": "resistíreis",
+    "3p": "resistiram"
+  },
+  "FutSI": {
+    "1s": "resistirei",
+    "2s": "resistirás",
+    "3s": "resistirá",
+    "1p": "resistiremos",
+    "2p": "resistireis",
+    "3p": "resistirão"
+  },
+  "CondS": {
+    "1s": "resistiria",
+    "2s": "resistirias",
+    "3s": "resistiria",
+    "1p": "resistiríamos",
+    "2p": "resistiríeis",
+    "3p": "resistiriam"
+  },
+  "PresC": {
+    "1s": "resista",
+    "2s": "resistas",
+    "3s": "resista",
+    "1p": "resistamos",
+    "2p": "resistais",
+    "3p": "resistam"
+  },
+  "PImpC": {
+    "1s": "resistisse",
+    "2s": "resistisses",
+    "3s": "resistisse",
+    "1p": "resistíssemos",
+    "2p": "resistísseis",
+    "3p": "resistissem"
+  },
+  "FutSC": {
+    "1s": "resistir",
+    "2s": "resistires",
+    "3s": "resistir",
+    "1p": "resistirmos",
+    "2p": "resistirdes",
+    "3p": "resistirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resiste",
+    "3s": "resista",
+    "1p": "resistamos",
+    "2p": "resisti",
+    "3p": "resistam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não resistas",
+    "3s": "não resista",
+    "1p": "não resistamos",
+    "2p": "não resistais",
+    "3p": "não resistam"
+  },
+  "Part-ter": {
+    "": "resistido"
+  },
+  "Part-ser": {
+    "ms": "resistido",
+    "fs": "resistida",
+    "mp": "resistidos",
+    "fp": "resistidas"
+  }
+}

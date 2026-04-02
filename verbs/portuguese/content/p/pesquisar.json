@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pesquisar"
+  },
+  "InfP": {
+    "1s": "pesquisar",
+    "2s": "pesquisares",
+    "3s": "pesquisar",
+    "1p": "pesquisarmos",
+    "2p": "pesquisardes",
+    "3p": "pesquisarem"
+  },
+  "Ger": {
+    "": "pesquisando"
+  },
+  "PresI": {
+    "1s": "pesquiso",
+    "2s": "pesquisas",
+    "3s": "pesquisa",
+    "1p": "pesquisamos",
+    "2p": "pesquisais",
+    "3p": "pesquisam"
+  },
+  "PImpI": {
+    "1s": "pesquisava",
+    "2s": "pesquisavas",
+    "3s": "pesquisava",
+    "1p": "pesquisávamos",
+    "2p": "pesquisáveis",
+    "3p": "pesquisavam"
+  },
+  "PPSI": {
+    "1s": "pesquisei",
+    "2s": "pesquisaste",
+    "3s": "pesquisou",
+    "1p": "pesquisámos",
+    "2p": "pesquisastes",
+    "3p": "pesquisaram"
+  },
+  "PMQPSI": {
+    "1s": "pesquisara",
+    "2s": "pesquisaras",
+    "3s": "pesquisara",
+    "1p": "pesquisáramos",
+    "2p": "pesquisáreis",
+    "3p": "pesquisaram"
+  },
+  "FutSI": {
+    "1s": "pesquisarei",
+    "2s": "pesquisarás",
+    "3s": "pesquisará",
+    "1p": "pesquisaremos",
+    "2p": "pesquisareis",
+    "3p": "pesquisarão"
+  },
+  "CondS": {
+    "1s": "pesquisaria",
+    "2s": "pesquisarias",
+    "3s": "pesquisaria",
+    "1p": "pesquisaríamos",
+    "2p": "pesquisaríeis",
+    "3p": "pesquisariam"
+  },
+  "PresC": {
+    "1s": "pesquise",
+    "2s": "pesquises",
+    "3s": "pesquise",
+    "1p": "pesquisemos",
+    "2p": "pesquiseis",
+    "3p": "pesquisem"
+  },
+  "PImpC": {
+    "1s": "pesquisasse",
+    "2s": "pesquisasses",
+    "3s": "pesquisasse",
+    "1p": "pesquisássemos",
+    "2p": "pesquisásseis",
+    "3p": "pesquisassem"
+  },
+  "FutSC": {
+    "1s": "pesquisar",
+    "2s": "pesquisares",
+    "3s": "pesquisar",
+    "1p": "pesquisarmos",
+    "2p": "pesquisardes",
+    "3p": "pesquisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pesquisa",
+    "3s": "pesquise",
+    "1p": "pesquisemos",
+    "2p": "pesquisai",
+    "3p": "pesquisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pesquises",
+    "3s": "não pesquise",
+    "1p": "não pesquisemos",
+    "2p": "não pesquiseis",
+    "3p": "não pesquisem"
+  },
+  "Part-ter": {
+    "": "pesquisado"
+  },
+  "Part-ser": {
+    "ms": "pesquisado",
+    "fs": "pesquisada",
+    "mp": "pesquisados",
+    "fp": "pesquisadas"
+  }
+}

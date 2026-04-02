@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fluir"
+  },
+  "Ger": {
+    "": "fluyendo"
+  },
+  "PresI": {
+    "1s": "fluyo",
+    "2s": "fluyes",
+    "3s": "fluye",
+    "1p": "fluimos",
+    "2p": "fluís",
+    "3p": "fluyen"
+  },
+  "PImpI": {
+    "1s": "fluía",
+    "2s": "fluías",
+    "3s": "fluía",
+    "1p": "fluíamos",
+    "2p": "fluíais",
+    "3p": "fluían"
+  },
+  "PPSI": {
+    "1s": "fluí",
+    "2s": "fluiste",
+    "3s": "fluyó",
+    "1p": "fluimos",
+    "2p": "fluisteis",
+    "3p": "fluyeron"
+  },
+  "FutSI": {
+    "1s": "fluiré",
+    "2s": "fluirás",
+    "3s": "fluirá",
+    "1p": "fluiremos",
+    "2p": "fluiréis",
+    "3p": "fluirán"
+  },
+  "CondS": {
+    "1s": "fluiría",
+    "2s": "fluirías",
+    "3s": "fluiría",
+    "1p": "fluiríamos",
+    "2p": "fluiríais",
+    "3p": "fluirían"
+  },
+  "PresC": {
+    "1s": "fluya",
+    "2s": "fluyas",
+    "3s": "fluya",
+    "1p": "fluyamos",
+    "2p": "fluyáis",
+    "3p": "fluyan"
+  },
+  "PMQPSI": {
+    "1s": "fluyera",
+    "2s": "fluyeras",
+    "3s": "fluyera",
+    "1p": "fluyéramos",
+    "2p": "fluyerais",
+    "3p": "fluyeran"
+  },
+  "PImpC": {
+    "1s": "fluyese",
+    "2s": "fluyeses",
+    "3s": "fluyese",
+    "1p": "fluyésemos",
+    "2p": "fluyeseis",
+    "3p": "fluyesen"
+  },
+  "FutSC": {
+    "1s": "fluyere",
+    "2s": "fluyeres",
+    "3s": "fluyere",
+    "1p": "fluyéremos",
+    "2p": "fluyereis",
+    "3p": "fluyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fluye",
+    "3s": "fluya",
+    "1p": "fluyamos",
+    "2p": "fluid",
+    "3p": "fluyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fluyas",
+    "3s": "no fluya",
+    "1p": "no fluyamos",
+    "2p": "no fluyáis",
+    "3p": "no fluyan"
+  },
+  "Part-ter": {
+    "": "fluido"
+  },
+  "Part-ser": {
+    "ms": "fluido",
+    "fs": "fluida",
+    "mp": "fluidos",
+    "fp": "fluidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "georeferenciar"
+  },
+  "Ger": {
+    "": "georeferenciando"
+  },
+  "PresI": {
+    "1s": "georeferencio",
+    "2s": "georeferencias",
+    "3s": "georeferencia",
+    "1p": "georeferenciamos",
+    "2p": "georeferenciáis",
+    "3p": "georeferencian"
+  },
+  "PImpI": {
+    "1s": "georeferenciaba",
+    "2s": "georeferenciabas",
+    "3s": "georeferenciaba",
+    "1p": "georeferenciábamos",
+    "2p": "georeferenciabais",
+    "3p": "georeferenciaban"
+  },
+  "PPSI": {
+    "1s": "georeferencié",
+    "2s": "georeferenciaste",
+    "3s": "georeferenció",
+    "1p": "georeferenciamos",
+    "2p": "georeferenciasteis",
+    "3p": "georeferenciaron"
+  },
+  "FutSI": {
+    "1s": "georeferenciaré",
+    "2s": "georeferenciarás",
+    "3s": "georeferenciará",
+    "1p": "georeferenciaremos",
+    "2p": "georeferenciaréis",
+    "3p": "georeferenciarán"
+  },
+  "CondS": {
+    "1s": "georeferenciaría",
+    "2s": "georeferenciarías",
+    "3s": "georeferenciaría",
+    "1p": "georeferenciaríamos",
+    "2p": "georeferenciaríais",
+    "3p": "georeferenciarían"
+  },
+  "PresC": {
+    "1s": "georeferencie",
+    "2s": "georeferencies",
+    "3s": "georeferencie",
+    "1p": "georeferenciemos",
+    "2p": "georeferenciéis",
+    "3p": "georeferencien"
+  },
+  "PMQPSI": {
+    "1s": "georeferenciara",
+    "2s": "georeferenciaras",
+    "3s": "georeferenciara",
+    "1p": "georeferenciáramos",
+    "2p": "georeferenciarais",
+    "3p": "georeferenciaran"
+  },
+  "PImpC": {
+    "1s": "georeferenciase",
+    "2s": "georeferenciases",
+    "3s": "georeferenciase",
+    "1p": "georeferenciásemos",
+    "2p": "georeferenciaseis",
+    "3p": "georeferenciasen"
+  },
+  "FutSC": {
+    "1s": "georeferenciare",
+    "2s": "georeferenciares",
+    "3s": "georeferenciare",
+    "1p": "georeferenciáremos",
+    "2p": "georeferenciareis",
+    "3p": "georeferenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "georeferencia",
+    "3s": "georeferencie",
+    "1p": "georeferenciemos",
+    "2p": "georeferenciad",
+    "3p": "georeferencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no georeferencies",
+    "3s": "no georeferencie",
+    "1p": "no georeferenciemos",
+    "2p": "no georeferenciéis",
+    "3p": "no georeferencien"
+  },
+  "Part-ter": {
+    "": "georeferenciado"
+  },
+  "Part-ser": {
+    "ms": "georeferenciado",
+    "fs": "georeferenciada",
+    "mp": "georeferenciados",
+    "fp": "georeferenciadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vandalizar"
+  },
+  "InfP": {
+    "1s": "vandalizar",
+    "2s": "vandalizares",
+    "3s": "vandalizar",
+    "1p": "vandalizarmos",
+    "2p": "vandalizardes",
+    "3p": "vandalizarem"
+  },
+  "Ger": {
+    "": "vandalizando"
+  },
+  "PresI": {
+    "1s": "vandalizo",
+    "2s": "vandalizas",
+    "3s": "vandaliza",
+    "1p": "vandalizamos",
+    "2p": "vandalizais",
+    "3p": "vandalizam"
+  },
+  "PImpI": {
+    "1s": "vandalizava",
+    "2s": "vandalizavas",
+    "3s": "vandalizava",
+    "1p": "vandalizávamos",
+    "2p": "vandalizáveis",
+    "3p": "vandalizavam"
+  },
+  "PPSI": {
+    "1s": "vandalizei",
+    "2s": "vandalizaste",
+    "3s": "vandalizou",
+    "1p": "vandalizámos",
+    "2p": "vandalizastes",
+    "3p": "vandalizaram"
+  },
+  "PMQPSI": {
+    "1s": "vandalizara",
+    "2s": "vandalizaras",
+    "3s": "vandalizara",
+    "1p": "vandalizáramos",
+    "2p": "vandalizáreis",
+    "3p": "vandalizaram"
+  },
+  "FutSI": {
+    "1s": "vandalizarei",
+    "2s": "vandalizarás",
+    "3s": "vandalizará",
+    "1p": "vandalizaremos",
+    "2p": "vandalizareis",
+    "3p": "vandalizarão"
+  },
+  "CondS": {
+    "1s": "vandalizaria",
+    "2s": "vandalizarias",
+    "3s": "vandalizaria",
+    "1p": "vandalizaríamos",
+    "2p": "vandalizaríeis",
+    "3p": "vandalizariam"
+  },
+  "PresC": {
+    "1s": "vandalize",
+    "2s": "vandalizes",
+    "3s": "vandalize",
+    "1p": "vandalizemos",
+    "2p": "vandalizeis",
+    "3p": "vandalizem"
+  },
+  "PImpC": {
+    "1s": "vandalizasse",
+    "2s": "vandalizasses",
+    "3s": "vandalizasse",
+    "1p": "vandalizássemos",
+    "2p": "vandalizásseis",
+    "3p": "vandalizassem"
+  },
+  "FutSC": {
+    "1s": "vandalizar",
+    "2s": "vandalizares",
+    "3s": "vandalizar",
+    "1p": "vandalizarmos",
+    "2p": "vandalizardes",
+    "3p": "vandalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vandaliza",
+    "3s": "vandalize",
+    "1p": "vandalizemos",
+    "2p": "vandalizai",
+    "3p": "vandalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vandalizes",
+    "3s": "não vandalize",
+    "1p": "não vandalizemos",
+    "2p": "não vandalizeis",
+    "3p": "não vandalizem"
+  },
+  "Part-ter": {
+    "": "vandalizado"
+  },
+  "Part-ser": {
+    "ms": "vandalizado",
+    "fs": "vandalizada",
+    "mp": "vandalizados",
+    "fp": "vandalizadas"
+  }
+}

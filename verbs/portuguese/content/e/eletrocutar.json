@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "eletrocutar"
+  },
+  "InfP": {
+    "1s": "eletrocutar",
+    "2s": "eletrocutares",
+    "3s": "eletrocutar",
+    "1p": "eletrocutarmos",
+    "2p": "eletrocutardes",
+    "3p": "eletrocutarem"
+  },
+  "Ger": {
+    "": "eletrocutando"
+  },
+  "PresI": {
+    "1s": "eletrocuto",
+    "2s": "eletrocutas",
+    "3s": "eletrocuta",
+    "1p": "eletrocutamos",
+    "2p": "eletrocutais",
+    "3p": "eletrocutam"
+  },
+  "PImpI": {
+    "1s": "eletrocutava",
+    "2s": "eletrocutavas",
+    "3s": "eletrocutava",
+    "1p": "eletrocutávamos",
+    "2p": "eletrocutáveis",
+    "3p": "eletrocutavam"
+  },
+  "PPSI": {
+    "1s": "eletrocutei",
+    "2s": "eletrocutaste",
+    "3s": "eletrocutou",
+    "1p": "eletrocutámos",
+    "2p": "eletrocutastes",
+    "3p": "eletrocutaram"
+  },
+  "PMQPSI": {
+    "1s": "eletrocutara",
+    "2s": "eletrocutaras",
+    "3s": "eletrocutara",
+    "1p": "eletrocutáramos",
+    "2p": "eletrocutáreis",
+    "3p": "eletrocutaram"
+  },
+  "FutSI": {
+    "1s": "eletrocutarei",
+    "2s": "eletrocutarás",
+    "3s": "eletrocutará",
+    "1p": "eletrocutaremos",
+    "2p": "eletrocutareis",
+    "3p": "eletrocutarão"
+  },
+  "CondS": {
+    "1s": "eletrocutaria",
+    "2s": "eletrocutarias",
+    "3s": "eletrocutaria",
+    "1p": "eletrocutaríamos",
+    "2p": "eletrocutaríeis",
+    "3p": "eletrocutariam"
+  },
+  "PresC": {
+    "1s": "eletrocute",
+    "2s": "eletrocutes",
+    "3s": "eletrocute",
+    "1p": "eletrocutemos",
+    "2p": "eletrocuteis",
+    "3p": "eletrocutem"
+  },
+  "PImpC": {
+    "1s": "eletrocutasse",
+    "2s": "eletrocutasses",
+    "3s": "eletrocutasse",
+    "1p": "eletrocutássemos",
+    "2p": "eletrocutásseis",
+    "3p": "eletrocutassem"
+  },
+  "FutSC": {
+    "1s": "eletrocutar",
+    "2s": "eletrocutares",
+    "3s": "eletrocutar",
+    "1p": "eletrocutarmos",
+    "2p": "eletrocutardes",
+    "3p": "eletrocutarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eletrocuta",
+    "3s": "eletrocute",
+    "1p": "eletrocutemos",
+    "2p": "eletrocutai",
+    "3p": "eletrocutem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não eletrocutes",
+    "3s": "não eletrocute",
+    "1p": "não eletrocutemos",
+    "2p": "não eletrocuteis",
+    "3p": "não eletrocutem"
+  },
+  "Part-ter": {
+    "": "eletrocutado"
+  },
+  "Part-ser": {
+    "ms": "eletrocutado",
+    "fs": "eletrocutada",
+    "mp": "eletrocutados",
+    "fp": "eletrocutadas"
+  }
+}

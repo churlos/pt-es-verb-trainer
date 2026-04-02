@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "eviscerar"
+  },
+  "Ger": {
+    "": "eviscerando"
+  },
+  "PresI": {
+    "1s": "eviscero",
+    "2s": "evisceras",
+    "3s": "eviscera",
+    "1p": "evisceramos",
+    "2p": "evisceráis",
+    "3p": "evisceran"
+  },
+  "PImpI": {
+    "1s": "evisceraba",
+    "2s": "eviscerabas",
+    "3s": "evisceraba",
+    "1p": "eviscerábamos",
+    "2p": "eviscerabais",
+    "3p": "evisceraban"
+  },
+  "PPSI": {
+    "1s": "evisceré",
+    "2s": "evisceraste",
+    "3s": "evisceró",
+    "1p": "evisceramos",
+    "2p": "eviscerasteis",
+    "3p": "evisceraron"
+  },
+  "FutSI": {
+    "1s": "evisceraré",
+    "2s": "eviscerarás",
+    "3s": "eviscerará",
+    "1p": "evisceraremos",
+    "2p": "evisceraréis",
+    "3p": "eviscerarán"
+  },
+  "CondS": {
+    "1s": "evisceraría",
+    "2s": "eviscerarías",
+    "3s": "evisceraría",
+    "1p": "evisceraríamos",
+    "2p": "evisceraríais",
+    "3p": "eviscerarían"
+  },
+  "PresC": {
+    "1s": "eviscere",
+    "2s": "evisceres",
+    "3s": "eviscere",
+    "1p": "evisceremos",
+    "2p": "evisceréis",
+    "3p": "evisceren"
+  },
+  "PMQPSI": {
+    "1s": "eviscerara",
+    "2s": "evisceraras",
+    "3s": "eviscerara",
+    "1p": "evisceráramos",
+    "2p": "eviscerarais",
+    "3p": "evisceraran"
+  },
+  "PImpC": {
+    "1s": "eviscerase",
+    "2s": "eviscerases",
+    "3s": "eviscerase",
+    "1p": "eviscerásemos",
+    "2p": "evisceraseis",
+    "3p": "eviscerasen"
+  },
+  "FutSC": {
+    "1s": "eviscerare",
+    "2s": "eviscerares",
+    "3s": "eviscerare",
+    "1p": "evisceráremos",
+    "2p": "eviscerareis",
+    "3p": "evisceraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eviscera",
+    "3s": "eviscere",
+    "1p": "evisceremos",
+    "2p": "eviscerad",
+    "3p": "evisceren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no evisceres",
+    "3s": "no eviscere",
+    "1p": "no evisceremos",
+    "2p": "no evisceréis",
+    "3p": "no evisceren"
+  },
+  "Part-ter": {
+    "": "eviscerado"
+  },
+  "Part-ser": {
+    "ms": "eviscerado",
+    "fs": "eviscerada",
+    "mp": "eviscerados",
+    "fp": "evisceradas"
+  }
+}

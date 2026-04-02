@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rezar"
+  },
+  "InfP": {
+    "1s": "rezar",
+    "2s": "rezares",
+    "3s": "rezar",
+    "1p": "rezarmos",
+    "2p": "rezardes",
+    "3p": "rezarem"
+  },
+  "Ger": {
+    "": "rezando"
+  },
+  "PresI": {
+    "1s": "rezo",
+    "2s": "rezas",
+    "3s": "reza",
+    "1p": "rezamos",
+    "2p": "rezais",
+    "3p": "rezam"
+  },
+  "PImpI": {
+    "1s": "rezava",
+    "2s": "rezavas",
+    "3s": "rezava",
+    "1p": "rezávamos",
+    "2p": "rezáveis",
+    "3p": "rezavam"
+  },
+  "PPSI": {
+    "1s": "rezei",
+    "2s": "rezaste",
+    "3s": "rezou",
+    "1p": "rezámos",
+    "2p": "rezastes",
+    "3p": "rezaram"
+  },
+  "PMQPSI": {
+    "1s": "rezara",
+    "2s": "rezaras",
+    "3s": "rezara",
+    "1p": "rezáramos",
+    "2p": "rezáreis",
+    "3p": "rezaram"
+  },
+  "FutSI": {
+    "1s": "rezarei",
+    "2s": "rezarás",
+    "3s": "rezará",
+    "1p": "rezaremos",
+    "2p": "rezareis",
+    "3p": "rezarão"
+  },
+  "CondS": {
+    "1s": "rezaria",
+    "2s": "rezarias",
+    "3s": "rezaria",
+    "1p": "rezaríamos",
+    "2p": "rezaríeis",
+    "3p": "rezariam"
+  },
+  "PresC": {
+    "1s": "reze",
+    "2s": "rezes",
+    "3s": "reze",
+    "1p": "rezemos",
+    "2p": "rezeis",
+    "3p": "rezem"
+  },
+  "PImpC": {
+    "1s": "rezasse",
+    "2s": "rezasses",
+    "3s": "rezasse",
+    "1p": "rezássemos",
+    "2p": "rezásseis",
+    "3p": "rezassem"
+  },
+  "FutSC": {
+    "1s": "rezar",
+    "2s": "rezares",
+    "3s": "rezar",
+    "1p": "rezarmos",
+    "2p": "rezardes",
+    "3p": "rezarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reza",
+    "3s": "reze",
+    "1p": "rezemos",
+    "2p": "rezai",
+    "3p": "rezem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rezes",
+    "3s": "não reze",
+    "1p": "não rezemos",
+    "2p": "não rezeis",
+    "3p": "não rezem"
+  },
+  "Part-ter": {
+    "": "rezado"
+  },
+  "Part-ser": {
+    "ms": "rezado",
+    "fs": "rezada",
+    "mp": "rezados",
+    "fp": "rezadas"
+  }
+}

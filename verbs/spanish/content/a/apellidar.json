@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "apellidar"
+  },
+  "Ger": {
+    "": "apellidando"
+  },
+  "PresI": {
+    "1s": "apellido",
+    "2s": "apellidas",
+    "3s": "apellida",
+    "1p": "apellidamos",
+    "2p": "apellidáis",
+    "3p": "apellidan"
+  },
+  "PImpI": {
+    "1s": "apellidaba",
+    "2s": "apellidabas",
+    "3s": "apellidaba",
+    "1p": "apellidábamos",
+    "2p": "apellidabais",
+    "3p": "apellidaban"
+  },
+  "PPSI": {
+    "1s": "apellidé",
+    "2s": "apellidaste",
+    "3s": "apellidó",
+    "1p": "apellidamos",
+    "2p": "apellidasteis",
+    "3p": "apellidaron"
+  },
+  "FutSI": {
+    "1s": "apellidaré",
+    "2s": "apellidarás",
+    "3s": "apellidará",
+    "1p": "apellidaremos",
+    "2p": "apellidaréis",
+    "3p": "apellidarán"
+  },
+  "CondS": {
+    "1s": "apellidaría",
+    "2s": "apellidarías",
+    "3s": "apellidaría",
+    "1p": "apellidaríamos",
+    "2p": "apellidaríais",
+    "3p": "apellidarían"
+  },
+  "PresC": {
+    "1s": "apellide",
+    "2s": "apellides",
+    "3s": "apellide",
+    "1p": "apellidemos",
+    "2p": "apellidéis",
+    "3p": "apelliden"
+  },
+  "PMQPSI": {
+    "1s": "apellidara",
+    "2s": "apellidaras",
+    "3s": "apellidara",
+    "1p": "apellidáramos",
+    "2p": "apellidarais",
+    "3p": "apellidaran"
+  },
+  "PImpC": {
+    "1s": "apellidase",
+    "2s": "apellidases",
+    "3s": "apellidase",
+    "1p": "apellidásemos",
+    "2p": "apellidaseis",
+    "3p": "apellidasen"
+  },
+  "FutSC": {
+    "1s": "apellidare",
+    "2s": "apellidares",
+    "3s": "apellidare",
+    "1p": "apellidáremos",
+    "2p": "apellidareis",
+    "3p": "apellidaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apellida",
+    "3s": "apellide",
+    "1p": "apellidemos",
+    "2p": "apellidad",
+    "3p": "apelliden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apellides",
+    "3s": "no apellide",
+    "1p": "no apellidemos",
+    "2p": "no apellidéis",
+    "3p": "no apelliden"
+  },
+  "Part-ter": {
+    "": "apellidado"
+  },
+  "Part-ser": {
+    "ms": "apellidado",
+    "fs": "apellidada",
+    "mp": "apellidados",
+    "fp": "apellidadas"
+  }
+}

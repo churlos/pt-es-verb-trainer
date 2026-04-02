@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manter"
+  },
+  "InfP": {
+    "1s": "manter",
+    "2s": "manteres",
+    "3s": "manter",
+    "1p": "mantermos",
+    "2p": "manterdes",
+    "3p": "manterem"
+  },
+  "Ger": {
+    "": "mantendo"
+  },
+  "PresI": {
+    "1s": "mantenho",
+    "2s": "manténs",
+    "3s": "mantém",
+    "1p": "mantemos",
+    "2p": "mantendes",
+    "3p": "mantêm"
+  },
+  "PImpI": {
+    "1s": "mantinha",
+    "2s": "mantinhas",
+    "3s": "mantinha",
+    "1p": "mantínhamos",
+    "2p": "mantínheis",
+    "3p": "mantinham"
+  },
+  "PPSI": {
+    "1s": "mantive",
+    "2s": "mantiveste",
+    "3s": "manteve",
+    "1p": "mantivemos",
+    "2p": "mantivestes",
+    "3p": "mantiveram"
+  },
+  "PMQPSI": {
+    "1s": "mantivera",
+    "2s": "mantiveras",
+    "3s": "mantivera",
+    "1p": "mantivéramos",
+    "2p": "mantivéreis",
+    "3p": "mantiveram"
+  },
+  "FutSI": {
+    "1s": "manterei",
+    "2s": "manterás",
+    "3s": "manterá",
+    "1p": "manteremos",
+    "2p": "mantereis",
+    "3p": "manterão"
+  },
+  "CondS": {
+    "1s": "manteria",
+    "2s": "manterias",
+    "3s": "manteria",
+    "1p": "manteríamos",
+    "2p": "manteríeis",
+    "3p": "manteriam"
+  },
+  "PresC": {
+    "1s": "mantenha",
+    "2s": "mantenhas",
+    "3s": "mantenha",
+    "1p": "mantenhamos",
+    "2p": "mantenhais",
+    "3p": "mantenham"
+  },
+  "PImpC": {
+    "1s": "mantivesse",
+    "2s": "mantivesses",
+    "3s": "mantivesse",
+    "1p": "mantivéssemos",
+    "2p": "mantivésseis",
+    "3p": "mantivessem"
+  },
+  "FutSC": {
+    "1s": "mantiver",
+    "2s": "mantiveres",
+    "3s": "mantiver",
+    "1p": "mantivermos",
+    "2p": "mantiverdes",
+    "3p": "mantiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mantém",
+    "3s": "mantenha",
+    "1p": "mantenhamos",
+    "2p": "mantende",
+    "3p": "mantenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mantenhas",
+    "3s": "não mantenha",
+    "1p": "não mantenhamos",
+    "2p": "não mantenhais",
+    "3p": "não mantenham"
+  },
+  "Part-ter": {
+    "": "mantido"
+  },
+  "Part-ser": {
+    "ms": "mantido",
+    "fs": "mantida",
+    "mp": "mantidos",
+    "fp": "mantidas"
+  }
+}

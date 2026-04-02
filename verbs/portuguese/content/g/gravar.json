@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gravar"
+  },
+  "InfP": {
+    "1s": "gravar",
+    "2s": "gravares",
+    "3s": "gravar",
+    "1p": "gravarmos",
+    "2p": "gravardes",
+    "3p": "gravarem"
+  },
+  "Ger": {
+    "": "gravando"
+  },
+  "PresI": {
+    "1s": "gravo",
+    "2s": "gravas",
+    "3s": "grava",
+    "1p": "gravamos",
+    "2p": "gravais",
+    "3p": "gravam"
+  },
+  "PImpI": {
+    "1s": "gravava",
+    "2s": "gravavas",
+    "3s": "gravava",
+    "1p": "gravávamos",
+    "2p": "graváveis",
+    "3p": "gravavam"
+  },
+  "PPSI": {
+    "1s": "gravei",
+    "2s": "gravaste",
+    "3s": "gravou",
+    "1p": "gravámos",
+    "2p": "gravastes",
+    "3p": "gravaram"
+  },
+  "PMQPSI": {
+    "1s": "gravara",
+    "2s": "gravaras",
+    "3s": "gravara",
+    "1p": "graváramos",
+    "2p": "graváreis",
+    "3p": "gravaram"
+  },
+  "FutSI": {
+    "1s": "gravarei",
+    "2s": "gravarás",
+    "3s": "gravará",
+    "1p": "gravaremos",
+    "2p": "gravareis",
+    "3p": "gravarão"
+  },
+  "CondS": {
+    "1s": "gravaria",
+    "2s": "gravarias",
+    "3s": "gravaria",
+    "1p": "gravaríamos",
+    "2p": "gravaríeis",
+    "3p": "gravariam"
+  },
+  "PresC": {
+    "1s": "grave",
+    "2s": "graves",
+    "3s": "grave",
+    "1p": "gravemos",
+    "2p": "graveis",
+    "3p": "gravem"
+  },
+  "PImpC": {
+    "1s": "gravasse",
+    "2s": "gravasses",
+    "3s": "gravasse",
+    "1p": "gravássemos",
+    "2p": "gravásseis",
+    "3p": "gravassem"
+  },
+  "FutSC": {
+    "1s": "gravar",
+    "2s": "gravares",
+    "3s": "gravar",
+    "1p": "gravarmos",
+    "2p": "gravardes",
+    "3p": "gravarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grava",
+    "3s": "grave",
+    "1p": "gravemos",
+    "2p": "gravai",
+    "3p": "gravem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não graves",
+    "3s": "não grave",
+    "1p": "não gravemos",
+    "2p": "não graveis",
+    "3p": "não gravem"
+  },
+  "Part-ter": {
+    "": "gravado"
+  },
+  "Part-ser": {
+    "ms": "gravado",
+    "fs": "gravada",
+    "mp": "gravados",
+    "fp": "gravadas"
+  }
+}

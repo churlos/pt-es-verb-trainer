@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "remolcar"
+  },
+  "Ger": {
+    "": "remolcando"
+  },
+  "PresI": {
+    "1s": "remolco",
+    "2s": "remolcas",
+    "3s": "remolca",
+    "1p": "remolcamos",
+    "2p": "remolcáis",
+    "3p": "remolcan"
+  },
+  "PImpI": {
+    "1s": "remolcaba",
+    "2s": "remolcabas",
+    "3s": "remolcaba",
+    "1p": "remolcábamos",
+    "2p": "remolcabais",
+    "3p": "remolcaban"
+  },
+  "PPSI": {
+    "1s": "remolqué",
+    "2s": "remolcaste",
+    "3s": "remolcó",
+    "1p": "remolcamos",
+    "2p": "remolcasteis",
+    "3p": "remolcaron"
+  },
+  "FutSI": {
+    "1s": "remolcaré",
+    "2s": "remolcarás",
+    "3s": "remolcará",
+    "1p": "remolcaremos",
+    "2p": "remolcaréis",
+    "3p": "remolcarán"
+  },
+  "CondS": {
+    "1s": "remolcaría",
+    "2s": "remolcarías",
+    "3s": "remolcaría",
+    "1p": "remolcaríamos",
+    "2p": "remolcaríais",
+    "3p": "remolcarían"
+  },
+  "PresC": {
+    "1s": "remolque",
+    "2s": "remolques",
+    "3s": "remolque",
+    "1p": "remolquemos",
+    "2p": "remolquéis",
+    "3p": "remolquen"
+  },
+  "PMQPSI": {
+    "1s": "remolcara",
+    "2s": "remolcaras",
+    "3s": "remolcara",
+    "1p": "remolcáramos",
+    "2p": "remolcarais",
+    "3p": "remolcaran"
+  },
+  "PImpC": {
+    "1s": "remolcase",
+    "2s": "remolcases",
+    "3s": "remolcase",
+    "1p": "remolcásemos",
+    "2p": "remolcaseis",
+    "3p": "remolcasen"
+  },
+  "FutSC": {
+    "1s": "remolcare",
+    "2s": "remolcares",
+    "3s": "remolcare",
+    "1p": "remolcáremos",
+    "2p": "remolcareis",
+    "3p": "remolcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remolca",
+    "3s": "remolque",
+    "1p": "remolquemos",
+    "2p": "remolcad",
+    "3p": "remolquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no remolques",
+    "3s": "no remolque",
+    "1p": "no remolquemos",
+    "2p": "no remolquéis",
+    "3p": "no remolquen"
+  },
+  "Part-ter": {
+    "": "remolcado"
+  },
+  "Part-ser": {
+    "ms": "remolcado",
+    "fs": "remolcada",
+    "mp": "remolcados",
+    "fp": "remolcadas"
+  }
+}

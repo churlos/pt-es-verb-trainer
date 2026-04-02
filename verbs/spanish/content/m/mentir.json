@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mentir"
+  },
+  "Ger": {
+    "": "mintiendo"
+  },
+  "PresI": {
+    "1s": "miento",
+    "2s": "mientes",
+    "3s": "miente",
+    "1p": "mentimos",
+    "2p": "mentís",
+    "3p": "mienten"
+  },
+  "PImpI": {
+    "1s": "mentía",
+    "2s": "mentías",
+    "3s": "mentía",
+    "1p": "mentíamos",
+    "2p": "mentíais",
+    "3p": "mentían"
+  },
+  "PPSI": {
+    "1s": "mentí",
+    "2s": "mentiste",
+    "3s": "mintió",
+    "1p": "mentimos",
+    "2p": "mentisteis",
+    "3p": "mintieron"
+  },
+  "FutSI": {
+    "1s": "mentiré",
+    "2s": "mentirás",
+    "3s": "mentirá",
+    "1p": "mentiremos",
+    "2p": "mentiréis",
+    "3p": "mentirán"
+  },
+  "CondS": {
+    "1s": "mentiría",
+    "2s": "mentirías",
+    "3s": "mentiría",
+    "1p": "mentiríamos",
+    "2p": "mentiríais",
+    "3p": "mentirían"
+  },
+  "PresC": {
+    "1s": "mienta",
+    "2s": "mientas",
+    "3s": "mienta",
+    "1p": "mintamos",
+    "2p": "mintáis",
+    "3p": "mientan"
+  },
+  "PMQPSI": {
+    "1s": "mintiera",
+    "2s": "mintieras",
+    "3s": "mintiera",
+    "1p": "mintiéramos",
+    "2p": "mintierais",
+    "3p": "mintieran"
+  },
+  "PImpC": {
+    "1s": "mintiese",
+    "2s": "mintieses",
+    "3s": "mintiese",
+    "1p": "mintiésemos",
+    "2p": "mintieseis",
+    "3p": "mintiesen"
+  },
+  "FutSC": {
+    "1s": "mintiere",
+    "2s": "mintieres",
+    "3s": "mintiere",
+    "1p": "mintiéremos",
+    "2p": "mintiereis",
+    "3p": "mintieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "miente",
+    "3s": "mienta",
+    "1p": "mintamos",
+    "2p": "mentid",
+    "3p": "mientan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mientas",
+    "3s": "no mienta",
+    "1p": "no mintamos",
+    "2p": "no mintáis",
+    "3p": "no mientan"
+  },
+  "Part-ter": {
+    "": "mentido"
+  },
+  "Part-ser": {
+    "ms": "mentido",
+    "fs": "mentida",
+    "mp": "mentidos",
+    "fp": "mentidas"
+  }
+}

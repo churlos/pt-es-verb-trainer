@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amarrar"
+  },
+  "Ger": {
+    "": "amarrando"
+  },
+  "PresI": {
+    "1s": "amarro",
+    "2s": "amarras",
+    "3s": "amarra",
+    "1p": "amarramos",
+    "2p": "amarráis",
+    "3p": "amarran"
+  },
+  "PImpI": {
+    "1s": "amarraba",
+    "2s": "amarrabas",
+    "3s": "amarraba",
+    "1p": "amarrábamos",
+    "2p": "amarrabais",
+    "3p": "amarraban"
+  },
+  "PPSI": {
+    "1s": "amarré",
+    "2s": "amarraste",
+    "3s": "amarró",
+    "1p": "amarramos",
+    "2p": "amarrasteis",
+    "3p": "amarraron"
+  },
+  "FutSI": {
+    "1s": "amarraré",
+    "2s": "amarrarás",
+    "3s": "amarrará",
+    "1p": "amarraremos",
+    "2p": "amarraréis",
+    "3p": "amarrarán"
+  },
+  "CondS": {
+    "1s": "amarraría",
+    "2s": "amarrarías",
+    "3s": "amarraría",
+    "1p": "amarraríamos",
+    "2p": "amarraríais",
+    "3p": "amarrarían"
+  },
+  "PresC": {
+    "1s": "amarre",
+    "2s": "amarres",
+    "3s": "amarre",
+    "1p": "amarremos",
+    "2p": "amarréis",
+    "3p": "amarren"
+  },
+  "PMQPSI": {
+    "1s": "amarrara",
+    "2s": "amarraras",
+    "3s": "amarrara",
+    "1p": "amarráramos",
+    "2p": "amarrarais",
+    "3p": "amarraran"
+  },
+  "PImpC": {
+    "1s": "amarrase",
+    "2s": "amarrases",
+    "3s": "amarrase",
+    "1p": "amarrásemos",
+    "2p": "amarraseis",
+    "3p": "amarrasen"
+  },
+  "FutSC": {
+    "1s": "amarrare",
+    "2s": "amarrares",
+    "3s": "amarrare",
+    "1p": "amarráremos",
+    "2p": "amarrareis",
+    "3p": "amarraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amarra",
+    "3s": "amarre",
+    "1p": "amarremos",
+    "2p": "amarrad",
+    "3p": "amarren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amarres",
+    "3s": "no amarre",
+    "1p": "no amarremos",
+    "2p": "no amarréis",
+    "3p": "no amarren"
+  },
+  "Part-ter": {
+    "": "amarrado"
+  },
+  "Part-ser": {
+    "ms": "amarrado",
+    "fs": "amarrada",
+    "mp": "amarrados",
+    "fp": "amarradas"
+  }
+}

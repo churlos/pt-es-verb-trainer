@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "capacitar"
+  },
+  "InfP": {
+    "1s": "capacitar",
+    "2s": "capacitares",
+    "3s": "capacitar",
+    "1p": "capacitarmos",
+    "2p": "capacitardes",
+    "3p": "capacitarem"
+  },
+  "Ger": {
+    "": "capacitando"
+  },
+  "PresI": {
+    "1s": "capacito",
+    "2s": "capacitas",
+    "3s": "capacita",
+    "1p": "capacitamos",
+    "2p": "capacitais",
+    "3p": "capacitam"
+  },
+  "PImpI": {
+    "1s": "capacitava",
+    "2s": "capacitavas",
+    "3s": "capacitava",
+    "1p": "capacitávamos",
+    "2p": "capacitáveis",
+    "3p": "capacitavam"
+  },
+  "PPSI": {
+    "1s": "capacitei",
+    "2s": "capacitaste",
+    "3s": "capacitou",
+    "1p": "capacitámos",
+    "2p": "capacitastes",
+    "3p": "capacitaram"
+  },
+  "PMQPSI": {
+    "1s": "capacitara",
+    "2s": "capacitaras",
+    "3s": "capacitara",
+    "1p": "capacitáramos",
+    "2p": "capacitáreis",
+    "3p": "capacitaram"
+  },
+  "FutSI": {
+    "1s": "capacitarei",
+    "2s": "capacitarás",
+    "3s": "capacitará",
+    "1p": "capacitaremos",
+    "2p": "capacitareis",
+    "3p": "capacitarão"
+  },
+  "CondS": {
+    "1s": "capacitaria",
+    "2s": "capacitarias",
+    "3s": "capacitaria",
+    "1p": "capacitaríamos",
+    "2p": "capacitaríeis",
+    "3p": "capacitariam"
+  },
+  "PresC": {
+    "1s": "capacite",
+    "2s": "capacites",
+    "3s": "capacite",
+    "1p": "capacitemos",
+    "2p": "capaciteis",
+    "3p": "capacitem"
+  },
+  "PImpC": {
+    "1s": "capacitasse",
+    "2s": "capacitasses",
+    "3s": "capacitasse",
+    "1p": "capacitássemos",
+    "2p": "capacitásseis",
+    "3p": "capacitassem"
+  },
+  "FutSC": {
+    "1s": "capacitar",
+    "2s": "capacitares",
+    "3s": "capacitar",
+    "1p": "capacitarmos",
+    "2p": "capacitardes",
+    "3p": "capacitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "capacita",
+    "3s": "capacite",
+    "1p": "capacitemos",
+    "2p": "capacitai",
+    "3p": "capacitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não capacites",
+    "3s": "não capacite",
+    "1p": "não capacitemos",
+    "2p": "não capaciteis",
+    "3p": "não capacitem"
+  },
+  "Part-ter": {
+    "": "capacitado"
+  },
+  "Part-ser": {
+    "ms": "capacitado",
+    "fs": "capacitada",
+    "mp": "capacitados",
+    "fp": "capacitadas"
+  }
+}

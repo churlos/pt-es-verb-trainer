@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "frangir"
+  },
+  "Ger": {
+    "": "frangiendo"
+  },
+  "PresI": {
+    "1s": "franjo",
+    "2s": "franges",
+    "3s": "frange",
+    "1p": "frangimos",
+    "2p": "frangís",
+    "3p": "frangen"
+  },
+  "PImpI": {
+    "1s": "frangía",
+    "2s": "frangías",
+    "3s": "frangía",
+    "1p": "frangíamos",
+    "2p": "frangíais",
+    "3p": "frangían"
+  },
+  "PPSI": {
+    "1s": "frangí",
+    "2s": "frangiste",
+    "3s": "frangió",
+    "1p": "frangimos",
+    "2p": "frangisteis",
+    "3p": "frangieron"
+  },
+  "FutSI": {
+    "1s": "frangiré",
+    "2s": "frangirás",
+    "3s": "frangirá",
+    "1p": "frangiremos",
+    "2p": "frangiréis",
+    "3p": "frangirán"
+  },
+  "CondS": {
+    "1s": "frangiría",
+    "2s": "frangirías",
+    "3s": "frangiría",
+    "1p": "frangiríamos",
+    "2p": "frangiríais",
+    "3p": "frangirían"
+  },
+  "PresC": {
+    "1s": "franja",
+    "2s": "franjas",
+    "3s": "franja",
+    "1p": "franjamos",
+    "2p": "franjáis",
+    "3p": "franjan"
+  },
+  "PMQPSI": {
+    "1s": "frangiera",
+    "2s": "frangieras",
+    "3s": "frangiera",
+    "1p": "frangiéramos",
+    "2p": "frangierais",
+    "3p": "frangieran"
+  },
+  "PImpC": {
+    "1s": "frangiese",
+    "2s": "frangieses",
+    "3s": "frangiese",
+    "1p": "frangiésemos",
+    "2p": "frangieseis",
+    "3p": "frangiesen"
+  },
+  "FutSC": {
+    "1s": "frangiere",
+    "2s": "frangieres",
+    "3s": "frangiere",
+    "1p": "frangiéremos",
+    "2p": "frangiereis",
+    "3p": "frangieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "frange",
+    "3s": "franja",
+    "1p": "franjamos",
+    "2p": "frangid",
+    "3p": "franjan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no franjas",
+    "3s": "no franja",
+    "1p": "no franjamos",
+    "2p": "no franjáis",
+    "3p": "no franjan"
+  },
+  "Part-ter": {
+    "": "frangido"
+  },
+  "Part-ser": {
+    "ms": "frangido",
+    "fs": "frangida",
+    "mp": "frangidos",
+    "fp": "frangidas"
+  }
+}

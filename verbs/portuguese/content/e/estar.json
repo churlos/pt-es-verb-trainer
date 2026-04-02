@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estar"
+  },
+  "InfP": {
+    "1s": "estar",
+    "2s": "estares",
+    "3s": "estar",
+    "1p": "estarmos",
+    "2p": "estardes",
+    "3p": "estarem"
+  },
+  "Ger": {
+    "": "estando"
+  },
+  "PresI": {
+    "1s": "estou",
+    "2s": "estás",
+    "3s": "está",
+    "1p": "estamos",
+    "2p": "estais",
+    "3p": "estão"
+  },
+  "PImpI": {
+    "1s": "estava",
+    "2s": "estavas",
+    "3s": "estava",
+    "1p": "estávamos",
+    "2p": "estáveis",
+    "3p": "estávam"
+  },
+  "PPSI": {
+    "1s": "estive",
+    "2s": "estiveste",
+    "3s": "esteve",
+    "1p": "estivemos",
+    "2p": "estivestes",
+    "3p": "estiveram"
+  },
+  "PMQPSI": {
+    "1s": "estivera",
+    "2s": "estiveras",
+    "3s": "estivera",
+    "1p": "estivéramos",
+    "2p": "estivéreis",
+    "3p": "estiveram"
+  },
+  "FutSI": {
+    "1s": "estarei",
+    "2s": "estareis",
+    "3s": "estará",
+    "1p": "estaremos",
+    "2p": "estareis",
+    "3p": "estarão"
+  },
+  "CondS": {
+    "1s": "estaria",
+    "2s": "estarias",
+    "3s": "estaria",
+    "1p": "estaríamos",
+    "2p": "estaríeis",
+    "3p": "estariam"
+  },
+  "PresC": {
+    "1s": "esteja",
+    "2s": "estejas",
+    "3s": "esteja",
+    "1p": "estejamos",
+    "2p": "estejais",
+    "3p": "estejam"
+  },
+  "PImpC": {
+    "1s": "estivesse",
+    "2s": "estivesses",
+    "3s": "estivesse",
+    "1p": "estivéssemos",
+    "2p": "estivésseis",
+    "3p": "estivessem"
+  },
+  "FutSC": {
+    "1s": "estiver",
+    "2s": "estiveres",
+    "3s": "estiver",
+    "1p": "estivermos",
+    "2p": "estiverdes",
+    "3p": "estiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "está",
+    "3s": "esteja",
+    "1p": "estejamos",
+    "2p": "estai",
+    "3p": "estejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estejas",
+    "3s": "não esteja",
+    "1p": "não estejamos",
+    "2p": "não estejais",
+    "3p": "não estejam"
+  },
+  "Part-ter": {
+    "": "estado"
+  },
+  "Part-ser": {
+    "ms": "estado",
+    "fs": "estada",
+    "mp": "estados",
+    "fp": "estadas"
+  }
+}

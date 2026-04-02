@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "protocolizar"
+  },
+  "Ger": {
+    "": "protocolizando"
+  },
+  "PresI": {
+    "1s": "protocolizo",
+    "2s": "protocolizas",
+    "3s": "protocoliza",
+    "1p": "protocolizamos",
+    "2p": "protocolizáis",
+    "3p": "protocolizan"
+  },
+  "PImpI": {
+    "1s": "protocolizaba",
+    "2s": "protocolizabas",
+    "3s": "protocolizaba",
+    "1p": "protocolizábamos",
+    "2p": "protocolizabais",
+    "3p": "protocolizaban"
+  },
+  "PPSI": {
+    "1s": "protocolicé",
+    "2s": "protocolizaste",
+    "3s": "protocolizó",
+    "1p": "protocolizamos",
+    "2p": "protocolizasteis",
+    "3p": "protocolizaron"
+  },
+  "FutSI": {
+    "1s": "protocolizaré",
+    "2s": "protocolizarás",
+    "3s": "protocolizará",
+    "1p": "protocolizaremos",
+    "2p": "protocolizaréis",
+    "3p": "protocolizarán"
+  },
+  "CondS": {
+    "1s": "protocolizaría",
+    "2s": "protocolizarías",
+    "3s": "protocolizaría",
+    "1p": "protocolizaríamos",
+    "2p": "protocolizaríais",
+    "3p": "protocolizarían"
+  },
+  "PresC": {
+    "1s": "protocolice",
+    "2s": "protocolices",
+    "3s": "protocolice",
+    "1p": "protocolicemos",
+    "2p": "protocolicéis",
+    "3p": "protocolicen"
+  },
+  "PMQPSI": {
+    "1s": "protocolizara",
+    "2s": "protocolizaras",
+    "3s": "protocolizara",
+    "1p": "protocolizáramos",
+    "2p": "protocolizarais",
+    "3p": "protocolizaran"
+  },
+  "PImpC": {
+    "1s": "protocolizase",
+    "2s": "protocolizases",
+    "3s": "protocolizase",
+    "1p": "protocolizásemos",
+    "2p": "protocolizaseis",
+    "3p": "protocolizasen"
+  },
+  "FutSC": {
+    "1s": "protocolizare",
+    "2s": "protocolizares",
+    "3s": "protocolizare",
+    "1p": "protocolizáremos",
+    "2p": "protocolizareis",
+    "3p": "protocolizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "protocoliza",
+    "3s": "protocolice",
+    "1p": "protocolicemos",
+    "2p": "protocolizad",
+    "3p": "protocolicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no protocolices",
+    "3s": "no protocolice",
+    "1p": "no protocolicemos",
+    "2p": "no protocolicéis",
+    "3p": "no protocolicen"
+  },
+  "Part-ter": {
+    "": "protocolizado"
+  },
+  "Part-ser": {
+    "ms": "protocolizado",
+    "fs": "protocolizada",
+    "mp": "protocolizados",
+    "fp": "protocolizadas"
+  }
+}

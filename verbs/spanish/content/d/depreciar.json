@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "depreciar"
+  },
+  "Ger": {
+    "": "depreciando"
+  },
+  "PresI": {
+    "1s": "deprecio",
+    "2s": "deprecias",
+    "3s": "deprecia",
+    "1p": "depreciamos",
+    "2p": "depreciáis",
+    "3p": "deprecian"
+  },
+  "PImpI": {
+    "1s": "depreciaba",
+    "2s": "depreciabas",
+    "3s": "depreciaba",
+    "1p": "depreciábamos",
+    "2p": "depreciabais",
+    "3p": "depreciaban"
+  },
+  "PPSI": {
+    "1s": "deprecié",
+    "2s": "depreciaste",
+    "3s": "depreció",
+    "1p": "depreciamos",
+    "2p": "depreciasteis",
+    "3p": "depreciaron"
+  },
+  "FutSI": {
+    "1s": "depreciaré",
+    "2s": "depreciarás",
+    "3s": "depreciará",
+    "1p": "depreciaremos",
+    "2p": "depreciaréis",
+    "3p": "depreciarán"
+  },
+  "CondS": {
+    "1s": "depreciaría",
+    "2s": "depreciarías",
+    "3s": "depreciaría",
+    "1p": "depreciaríamos",
+    "2p": "depreciaríais",
+    "3p": "depreciarían"
+  },
+  "PresC": {
+    "1s": "deprecie",
+    "2s": "deprecies",
+    "3s": "deprecie",
+    "1p": "depreciemos",
+    "2p": "depreciéis",
+    "3p": "deprecien"
+  },
+  "PMQPSI": {
+    "1s": "depreciara",
+    "2s": "depreciaras",
+    "3s": "depreciara",
+    "1p": "depreciáramos",
+    "2p": "depreciarais",
+    "3p": "depreciaran"
+  },
+  "PImpC": {
+    "1s": "depreciase",
+    "2s": "depreciases",
+    "3s": "depreciase",
+    "1p": "depreciásemos",
+    "2p": "depreciaseis",
+    "3p": "depreciasen"
+  },
+  "FutSC": {
+    "1s": "depreciare",
+    "2s": "depreciares",
+    "3s": "depreciare",
+    "1p": "depreciáremos",
+    "2p": "depreciareis",
+    "3p": "depreciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deprecia",
+    "3s": "deprecie",
+    "1p": "depreciemos",
+    "2p": "depreciad",
+    "3p": "deprecien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deprecies",
+    "3s": "no deprecie",
+    "1p": "no depreciemos",
+    "2p": "no depreciéis",
+    "3p": "no deprecien"
+  },
+  "Part-ter": {
+    "": "depreciado"
+  },
+  "Part-ser": {
+    "ms": "depreciado",
+    "fs": "depreciada",
+    "mp": "depreciados",
+    "fp": "depreciadas"
+  }
+}

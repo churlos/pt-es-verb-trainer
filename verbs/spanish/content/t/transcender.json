@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transcender"
+  },
+  "Ger": {
+    "": "transcendiendo"
+  },
+  "PresI": {
+    "1s": "transciendo",
+    "2s": "transciendes",
+    "3s": "transciende",
+    "1p": "transcendemos",
+    "2p": "transcendéis",
+    "3p": "transcienden"
+  },
+  "PImpI": {
+    "1s": "transcendía",
+    "2s": "transcendías",
+    "3s": "transcendía",
+    "1p": "transcendíamos",
+    "2p": "transcendíais",
+    "3p": "transcendían"
+  },
+  "PPSI": {
+    "1s": "transcendí",
+    "2s": "transcendiste",
+    "3s": "transcendió",
+    "1p": "transcendimos",
+    "2p": "transcendisteis",
+    "3p": "transcendieron"
+  },
+  "FutSI": {
+    "1s": "transcenderé",
+    "2s": "transcenderás",
+    "3s": "transcenderá",
+    "1p": "transcenderemos",
+    "2p": "transcenderéis",
+    "3p": "transcenderán"
+  },
+  "CondS": {
+    "1s": "transcendería",
+    "2s": "transcenderías",
+    "3s": "transcendería",
+    "1p": "transcenderíamos",
+    "2p": "transcenderíais",
+    "3p": "transcenderían"
+  },
+  "PresC": {
+    "1s": "transcienda",
+    "2s": "transciendas",
+    "3s": "transcienda",
+    "1p": "transcendamos",
+    "2p": "transcendáis",
+    "3p": "transciendan"
+  },
+  "PMQPSI": {
+    "1s": "transcendiera",
+    "2s": "transcendieras",
+    "3s": "transcendiera",
+    "1p": "transcendiéramos",
+    "2p": "transcendierais",
+    "3p": "transcendieran"
+  },
+  "PImpC": {
+    "1s": "transcendiese",
+    "2s": "transcendieses",
+    "3s": "transcendiese",
+    "1p": "transcendiésemos",
+    "2p": "transcendieseis",
+    "3p": "transcendiesen"
+  },
+  "FutSC": {
+    "1s": "transcendiere",
+    "2s": "transcendieres",
+    "3s": "transcendiere",
+    "1p": "transcendiéremos",
+    "2p": "transcendiereis",
+    "3p": "transcendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transciende",
+    "3s": "transcienda",
+    "1p": "transcendamos",
+    "2p": "transcended",
+    "3p": "transciendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transciendas",
+    "3s": "no transcienda",
+    "1p": "no transcendamos",
+    "2p": "no transcendáis",
+    "3p": "no transciendan"
+  },
+  "Part-ter": {
+    "": "transcendido"
+  },
+  "Part-ser": {
+    "ms": "transcendido",
+    "fs": "transcendida",
+    "mp": "transcendidos",
+    "fp": "transcendidas"
+  }
+}

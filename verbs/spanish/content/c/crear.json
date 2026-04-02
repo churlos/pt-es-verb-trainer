@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "crear"
+  },
+  "Ger": {
+    "": "creando"
+  },
+  "PresI": {
+    "1s": "creo",
+    "2s": "creas",
+    "3s": "crea",
+    "1p": "creamos",
+    "2p": "creáis",
+    "3p": "crean"
+  },
+  "PImpI": {
+    "1s": "creaba",
+    "2s": "creabas",
+    "3s": "creaba",
+    "1p": "creábamos",
+    "2p": "creabais",
+    "3p": "creaban"
+  },
+  "PPSI": {
+    "1s": "creé",
+    "2s": "creaste",
+    "3s": "creó",
+    "1p": "creamos",
+    "2p": "creasteis",
+    "3p": "crearon"
+  },
+  "FutSI": {
+    "1s": "crearé",
+    "2s": "crearás",
+    "3s": "creará",
+    "1p": "crearemos",
+    "2p": "crearéis",
+    "3p": "crearán"
+  },
+  "CondS": {
+    "1s": "crearía",
+    "2s": "crearías",
+    "3s": "crearía",
+    "1p": "crearíamos",
+    "2p": "crearíais",
+    "3p": "crearían"
+  },
+  "PresC": {
+    "1s": "cree",
+    "2s": "crees",
+    "3s": "cree",
+    "1p": "creemos",
+    "2p": "creéis",
+    "3p": "creen"
+  },
+  "PMQPSI": {
+    "1s": "creara",
+    "2s": "crearas",
+    "3s": "creara",
+    "1p": "creáramos",
+    "2p": "crearais",
+    "3p": "crearan"
+  },
+  "PImpC": {
+    "1s": "crease",
+    "2s": "creases",
+    "3s": "crease",
+    "1p": "creásemos",
+    "2p": "creaseis",
+    "3p": "creasen"
+  },
+  "FutSC": {
+    "1s": "creare",
+    "2s": "creares",
+    "3s": "creare",
+    "1p": "creáremos",
+    "2p": "creareis",
+    "3p": "crearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crea",
+    "3s": "cree",
+    "1p": "creemos",
+    "2p": "cread",
+    "3p": "creen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no crees",
+    "3s": "no cree",
+    "1p": "no creemos",
+    "2p": "no creéis",
+    "3p": "no creen"
+  },
+  "Part-ter": {
+    "": "creado"
+  },
+  "Part-ser": {
+    "ms": "creado",
+    "fs": "creada",
+    "mp": "creados",
+    "fp": "creadas"
+  }
+}

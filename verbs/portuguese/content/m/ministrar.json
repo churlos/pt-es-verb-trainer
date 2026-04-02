@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ministrar"
+  },
+  "InfP": {
+    "1s": "ministrar",
+    "2s": "ministrares",
+    "3s": "ministrar",
+    "1p": "ministrarmos",
+    "2p": "ministrardes",
+    "3p": "ministrarem"
+  },
+  "Ger": {
+    "": "ministrando"
+  },
+  "PresI": {
+    "1s": "ministro",
+    "2s": "ministras",
+    "3s": "ministra",
+    "1p": "ministramos",
+    "2p": "ministrais",
+    "3p": "ministram"
+  },
+  "PImpI": {
+    "1s": "ministrava",
+    "2s": "ministravas",
+    "3s": "ministrava",
+    "1p": "ministrávamos",
+    "2p": "ministráveis",
+    "3p": "ministravam"
+  },
+  "PPSI": {
+    "1s": "ministrei",
+    "2s": "ministraste",
+    "3s": "ministrou",
+    "1p": "ministrámos",
+    "2p": "ministrastes",
+    "3p": "ministraram"
+  },
+  "PMQPSI": {
+    "1s": "ministrara",
+    "2s": "ministraras",
+    "3s": "ministrara",
+    "1p": "ministráramos",
+    "2p": "ministráreis",
+    "3p": "ministraram"
+  },
+  "FutSI": {
+    "1s": "ministrarei",
+    "2s": "ministrarás",
+    "3s": "ministrará",
+    "1p": "ministraremos",
+    "2p": "ministrareis",
+    "3p": "ministrarão"
+  },
+  "CondS": {
+    "1s": "ministraria",
+    "2s": "ministrarias",
+    "3s": "ministraria",
+    "1p": "ministraríamos",
+    "2p": "ministraríeis",
+    "3p": "ministrariam"
+  },
+  "PresC": {
+    "1s": "ministre",
+    "2s": "ministres",
+    "3s": "ministre",
+    "1p": "ministremos",
+    "2p": "ministreis",
+    "3p": "ministrem"
+  },
+  "PImpC": {
+    "1s": "ministrasse",
+    "2s": "ministrasses",
+    "3s": "ministrasse",
+    "1p": "ministrássemos",
+    "2p": "ministrásseis",
+    "3p": "ministrassem"
+  },
+  "FutSC": {
+    "1s": "ministrar",
+    "2s": "ministrares",
+    "3s": "ministrar",
+    "1p": "ministrarmos",
+    "2p": "ministrardes",
+    "3p": "ministrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ministra",
+    "3s": "ministre",
+    "1p": "ministremos",
+    "2p": "ministrai",
+    "3p": "ministrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ministres",
+    "3s": "não ministre",
+    "1p": "não ministremos",
+    "2p": "não ministreis",
+    "3p": "não ministrem"
+  },
+  "Part-ter": {
+    "": "ministrado"
+  },
+  "Part-ser": {
+    "ms": "ministrado",
+    "fs": "ministrada",
+    "mp": "ministrados",
+    "fp": "ministradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bisecar"
+  },
+  "Ger": {
+    "": "bisecando"
+  },
+  "PresI": {
+    "1s": "biseco",
+    "2s": "bisecas",
+    "3s": "biseca",
+    "1p": "bisecamos",
+    "2p": "bisecáis",
+    "3p": "bisecan"
+  },
+  "PImpI": {
+    "1s": "bisecaba",
+    "2s": "bisecabas",
+    "3s": "bisecaba",
+    "1p": "bisecábamos",
+    "2p": "bisecabais",
+    "3p": "bisecaban"
+  },
+  "PPSI": {
+    "1s": "bisequé",
+    "2s": "bisecaste",
+    "3s": "bisecó",
+    "1p": "bisecamos",
+    "2p": "bisecasteis",
+    "3p": "bisecaron"
+  },
+  "FutSI": {
+    "1s": "bisecaré",
+    "2s": "bisecarás",
+    "3s": "bisecará",
+    "1p": "bisecaremos",
+    "2p": "bisecaréis",
+    "3p": "bisecarán"
+  },
+  "CondS": {
+    "1s": "bisecaría",
+    "2s": "bisecarías",
+    "3s": "bisecaría",
+    "1p": "bisecaríamos",
+    "2p": "bisecaríais",
+    "3p": "bisecarían"
+  },
+  "PresC": {
+    "1s": "biseque",
+    "2s": "biseques",
+    "3s": "biseque",
+    "1p": "bisequemos",
+    "2p": "bisequéis",
+    "3p": "bisequen"
+  },
+  "PMQPSI": {
+    "1s": "bisecara",
+    "2s": "bisecaras",
+    "3s": "bisecara",
+    "1p": "bisecáramos",
+    "2p": "bisecarais",
+    "3p": "bisecaran"
+  },
+  "PImpC": {
+    "1s": "bisecase",
+    "2s": "bisecases",
+    "3s": "bisecase",
+    "1p": "bisecásemos",
+    "2p": "bisecaseis",
+    "3p": "bisecasen"
+  },
+  "FutSC": {
+    "1s": "bisecare",
+    "2s": "bisecares",
+    "3s": "bisecare",
+    "1p": "bisecáremos",
+    "2p": "bisecareis",
+    "3p": "bisecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "biseca",
+    "3s": "biseque",
+    "1p": "bisequemos",
+    "2p": "bisecad",
+    "3p": "bisequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no biseques",
+    "3s": "no biseque",
+    "1p": "no bisequemos",
+    "2p": "no bisequéis",
+    "3p": "no bisequen"
+  },
+  "Part-ter": {
+    "": "bisecado"
+  },
+  "Part-ser": {
+    "ms": "bisecado",
+    "fs": "bisecada",
+    "mp": "bisecados",
+    "fp": "bisecadas"
+  }
+}

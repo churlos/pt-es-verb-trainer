@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "catalizar"
+  },
+  "Ger": {
+    "": "catalizando"
+  },
+  "PresI": {
+    "1s": "catalizo",
+    "2s": "catalizas",
+    "3s": "cataliza",
+    "1p": "catalizamos",
+    "2p": "catalizáis",
+    "3p": "catalizan"
+  },
+  "PImpI": {
+    "1s": "catalizaba",
+    "2s": "catalizabas",
+    "3s": "catalizaba",
+    "1p": "catalizábamos",
+    "2p": "catalizabais",
+    "3p": "catalizaban"
+  },
+  "PPSI": {
+    "1s": "catalicé",
+    "2s": "catalizaste",
+    "3s": "catalizó",
+    "1p": "catalizamos",
+    "2p": "catalizasteis",
+    "3p": "catalizaron"
+  },
+  "FutSI": {
+    "1s": "catalizaré",
+    "2s": "catalizarás",
+    "3s": "catalizará",
+    "1p": "catalizaremos",
+    "2p": "catalizaréis",
+    "3p": "catalizarán"
+  },
+  "CondS": {
+    "1s": "catalizaría",
+    "2s": "catalizarías",
+    "3s": "catalizaría",
+    "1p": "catalizaríamos",
+    "2p": "catalizaríais",
+    "3p": "catalizarían"
+  },
+  "PresC": {
+    "1s": "catalice",
+    "2s": "catalices",
+    "3s": "catalice",
+    "1p": "catalicemos",
+    "2p": "catalicéis",
+    "3p": "catalicen"
+  },
+  "PMQPSI": {
+    "1s": "catalizara",
+    "2s": "catalizaras",
+    "3s": "catalizara",
+    "1p": "catalizáramos",
+    "2p": "catalizarais",
+    "3p": "catalizaran"
+  },
+  "PImpC": {
+    "1s": "catalizase",
+    "2s": "catalizases",
+    "3s": "catalizase",
+    "1p": "catalizásemos",
+    "2p": "catalizaseis",
+    "3p": "catalizasen"
+  },
+  "FutSC": {
+    "1s": "catalizare",
+    "2s": "catalizares",
+    "3s": "catalizare",
+    "1p": "catalizáremos",
+    "2p": "catalizareis",
+    "3p": "catalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cataliza",
+    "3s": "catalice",
+    "1p": "catalicemos",
+    "2p": "catalizad",
+    "3p": "catalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no catalices",
+    "3s": "no catalice",
+    "1p": "no catalicemos",
+    "2p": "no catalicéis",
+    "3p": "no catalicen"
+  },
+  "Part-ter": {
+    "": "catalizado"
+  },
+  "Part-ser": {
+    "ms": "catalizado",
+    "fs": "catalizada",
+    "mp": "catalizados",
+    "fp": "catalizadas"
+  }
+}

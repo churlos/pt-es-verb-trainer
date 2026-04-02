@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inhibir"
+  },
+  "InfP": {
+    "1s": "inhibir",
+    "2s": "inhibires",
+    "3s": "inhibir",
+    "1p": "inhibirmos",
+    "2p": "inhibirdes",
+    "3p": "inhibirem"
+  },
+  "Ger": {
+    "": "inhibindo"
+  },
+  "PresI": {
+    "1s": "inhibo",
+    "2s": "inhibes",
+    "3s": "inhibe",
+    "1p": "inhibimos",
+    "2p": "inhibis",
+    "3p": "inhibem"
+  },
+  "PImpI": {
+    "1s": "inhibia",
+    "2s": "inhibias",
+    "3s": "inhibia",
+    "1p": "inhibíamos",
+    "2p": "inhibíeis",
+    "3p": "inhibiam"
+  },
+  "PPSI": {
+    "1s": "inhibi",
+    "2s": "inhibiste",
+    "3s": "inhibiu",
+    "1p": "inhibimos",
+    "2p": "inhibistes",
+    "3p": "inhibiram"
+  },
+  "PMQPSI": {
+    "1s": "inhibira",
+    "2s": "inhibiras",
+    "3s": "inhibira",
+    "1p": "inhibíramos",
+    "2p": "inhibíreis",
+    "3p": "inhibiram"
+  },
+  "FutSI": {
+    "1s": "inhibirei",
+    "2s": "inhibirás",
+    "3s": "inhibirá",
+    "1p": "inhibiremos",
+    "2p": "inhibireis",
+    "3p": "inhibirão"
+  },
+  "CondS": {
+    "1s": "inhibiria",
+    "2s": "inhibirias",
+    "3s": "inhibiria",
+    "1p": "inhibiríamos",
+    "2p": "inhibiríeis",
+    "3p": "inhibiriam"
+  },
+  "PresC": {
+    "1s": "inhiba",
+    "2s": "inhibas",
+    "3s": "inhiba",
+    "1p": "inhibamos",
+    "2p": "inhibais",
+    "3p": "inhibam"
+  },
+  "PImpC": {
+    "1s": "inhibisse",
+    "2s": "inhibisses",
+    "3s": "inhibisse",
+    "1p": "inhibíssemos",
+    "2p": "inhibísseis",
+    "3p": "inhibissem"
+  },
+  "FutSC": {
+    "1s": "inhibir",
+    "2s": "inhibires",
+    "3s": "inhibir",
+    "1p": "inhibirmos",
+    "2p": "inhibirdes",
+    "3p": "inhibirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inhibe",
+    "3s": "inhiba",
+    "1p": "inhibamos",
+    "2p": "inhibi",
+    "3p": "inhibam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inhibas",
+    "3s": "não inhiba",
+    "1p": "não inhibamos",
+    "2p": "não inhibais",
+    "3p": "não inhibam"
+  },
+  "Part-ter": {
+    "": "inhibido"
+  },
+  "Part-ser": {
+    "ms": "inhibido",
+    "fs": "inhibida",
+    "mp": "inhibidos",
+    "fp": "inhibidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoprotegerse"
+  },
+  "Ger": {
+    "": "autoprotegiéndose"
+  },
+  "PresI": {
+    "1s": "me autoprotejo",
+    "2s": "te autoproteges",
+    "3s": "se autoprotege",
+    "1p": "nos autoprotegemos",
+    "2p": "os autoprotegéis",
+    "3p": "se autoprotegen"
+  },
+  "PImpI": {
+    "1s": "me autoprotegía",
+    "2s": "te autoprotegías",
+    "3s": "se autoprotegía",
+    "1p": "nos autoprotegíamos",
+    "2p": "os autoprotegíais",
+    "3p": "se autoprotegían"
+  },
+  "PPSI": {
+    "1s": "me autoprotegí",
+    "2s": "te autoprotegiste",
+    "3s": "se autoprotegió",
+    "1p": "nos autoprotegimos",
+    "2p": "os autoprotegisteis",
+    "3p": "se autoprotegieron"
+  },
+  "FutSI": {
+    "1s": "me autoprotegeré",
+    "2s": "te autoprotegerás",
+    "3s": "se autoprotegerá",
+    "1p": "nos autoprotegeremos",
+    "2p": "os autoprotegeréis",
+    "3p": "se autoprotegerán"
+  },
+  "CondS": {
+    "1s": "me autoprotegería",
+    "2s": "te autoprotegerías",
+    "3s": "se autoprotegería",
+    "1p": "nos autoprotegeríamos",
+    "2p": "os autoprotegeríais",
+    "3p": "se autoprotegerían"
+  },
+  "PresC": {
+    "1s": "me autoproteja",
+    "2s": "te autoprotejas",
+    "3s": "se autoproteja",
+    "1p": "nos autoprotejamos",
+    "2p": "os autoprotejáis",
+    "3p": "se autoprotejan"
+  },
+  "PMQPSI": {
+    "1s": "me autoprotegiera",
+    "2s": "te autoprotegieras",
+    "3s": "se autoprotegiera",
+    "1p": "nos autoprotegiéramos",
+    "2p": "os autoprotegierais",
+    "3p": "se autoprotegieran"
+  },
+  "PImpC": {
+    "1s": "me autoprotegiese",
+    "2s": "te autoprotegieses",
+    "3s": "se autoprotegiese",
+    "1p": "nos autoprotegiésemos",
+    "2p": "os autoprotegieseis",
+    "3p": "se autoprotegiesen"
+  },
+  "FutSC": {
+    "1s": "me autoprotegiere",
+    "2s": "te autoprotegieres",
+    "3s": "se autoprotegiere",
+    "1p": "nos autoprotegiéremos",
+    "2p": "os autoprotegiereis",
+    "3p": "se autoprotegieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoprotégete",
+    "3s": "autoprotéjase",
+    "1p": "autoprotejámonos",
+    "2p": "autoprotegeos",
+    "3p": "autoprotéjanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoprotejas",
+    "3s": "no se autoproteja",
+    "1p": "no nos autoprotejamos",
+    "2p": "no os autoprotejáis",
+    "3p": "no se autoprotejan"
+  },
+  "Part-ter": {
+    "": "autoprotegido"
+  },
+  "Part-ser": {
+    "ms": "autoprotegido",
+    "fs": "autoprotegida",
+    "mp": "autoprotegidos",
+    "fp": "autoprotegidas"
+  }
+}

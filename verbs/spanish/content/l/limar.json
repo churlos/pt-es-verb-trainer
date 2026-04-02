@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "limar"
+  },
+  "Ger": {
+    "": "limando"
+  },
+  "PresI": {
+    "1s": "limo",
+    "2s": "limas",
+    "3s": "lima",
+    "1p": "limamos",
+    "2p": "limáis",
+    "3p": "liman"
+  },
+  "PImpI": {
+    "1s": "limaba",
+    "2s": "limabas",
+    "3s": "limaba",
+    "1p": "limábamos",
+    "2p": "limabais",
+    "3p": "limaban"
+  },
+  "PPSI": {
+    "1s": "limé",
+    "2s": "limaste",
+    "3s": "limó",
+    "1p": "limamos",
+    "2p": "limasteis",
+    "3p": "limaron"
+  },
+  "FutSI": {
+    "1s": "limaré",
+    "2s": "limarás",
+    "3s": "limará",
+    "1p": "limaremos",
+    "2p": "limaréis",
+    "3p": "limarán"
+  },
+  "CondS": {
+    "1s": "limaría",
+    "2s": "limarías",
+    "3s": "limaría",
+    "1p": "limaríamos",
+    "2p": "limaríais",
+    "3p": "limarían"
+  },
+  "PresC": {
+    "1s": "lime",
+    "2s": "limes",
+    "3s": "lime",
+    "1p": "limemos",
+    "2p": "liméis",
+    "3p": "limen"
+  },
+  "PMQPSI": {
+    "1s": "limara",
+    "2s": "limaras",
+    "3s": "limara",
+    "1p": "limáramos",
+    "2p": "limarais",
+    "3p": "limaran"
+  },
+  "PImpC": {
+    "1s": "limase",
+    "2s": "limases",
+    "3s": "limase",
+    "1p": "limásemos",
+    "2p": "limaseis",
+    "3p": "limasen"
+  },
+  "FutSC": {
+    "1s": "limare",
+    "2s": "limares",
+    "3s": "limare",
+    "1p": "limáremos",
+    "2p": "limareis",
+    "3p": "limaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lima",
+    "3s": "lime",
+    "1p": "limemos",
+    "2p": "limad",
+    "3p": "limen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no limes",
+    "3s": "no lime",
+    "1p": "no limemos",
+    "2p": "no liméis",
+    "3p": "no limen"
+  },
+  "Part-ter": {
+    "": "limado"
+  },
+  "Part-ser": {
+    "ms": "limado",
+    "fs": "limada",
+    "mp": "limados",
+    "fp": "limadas"
+  }
+}

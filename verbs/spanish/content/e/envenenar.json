@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "envenenar"
+  },
+  "Ger": {
+    "": "envenenando"
+  },
+  "PresI": {
+    "1s": "enveneno",
+    "2s": "envenenas",
+    "3s": "envenena",
+    "1p": "envenenamos",
+    "2p": "envenenáis",
+    "3p": "envenenan"
+  },
+  "PImpI": {
+    "1s": "envenenaba",
+    "2s": "envenenabas",
+    "3s": "envenenaba",
+    "1p": "envenenábamos",
+    "2p": "envenenabais",
+    "3p": "envenenaban"
+  },
+  "PPSI": {
+    "1s": "envenené",
+    "2s": "envenenaste",
+    "3s": "envenenó",
+    "1p": "envenenamos",
+    "2p": "envenenasteis",
+    "3p": "envenenaron"
+  },
+  "FutSI": {
+    "1s": "envenenaré",
+    "2s": "envenenarás",
+    "3s": "envenenará",
+    "1p": "envenenaremos",
+    "2p": "envenenaréis",
+    "3p": "envenenarán"
+  },
+  "CondS": {
+    "1s": "envenenaría",
+    "2s": "envenenarías",
+    "3s": "envenenaría",
+    "1p": "envenenaríamos",
+    "2p": "envenenaríais",
+    "3p": "envenenarían"
+  },
+  "PresC": {
+    "1s": "envenene",
+    "2s": "envenenes",
+    "3s": "envenene",
+    "1p": "envenenemos",
+    "2p": "envenenéis",
+    "3p": "envenenen"
+  },
+  "PMQPSI": {
+    "1s": "envenenara",
+    "2s": "envenenaras",
+    "3s": "envenenara",
+    "1p": "envenenáramos",
+    "2p": "envenenarais",
+    "3p": "envenenaran"
+  },
+  "PImpC": {
+    "1s": "envenenase",
+    "2s": "envenenases",
+    "3s": "envenenase",
+    "1p": "envenenásemos",
+    "2p": "envenenaseis",
+    "3p": "envenenasen"
+  },
+  "FutSC": {
+    "1s": "envenenare",
+    "2s": "envenenares",
+    "3s": "envenenare",
+    "1p": "envenenáremos",
+    "2p": "envenenareis",
+    "3p": "envenenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envenena",
+    "3s": "envenene",
+    "1p": "envenenemos",
+    "2p": "envenenad",
+    "3p": "envenenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envenenes",
+    "3s": "no envenene",
+    "1p": "no envenenemos",
+    "2p": "no envenenéis",
+    "3p": "no envenenen"
+  },
+  "Part-ter": {
+    "": "envenenado"
+  },
+  "Part-ser": {
+    "ms": "envenenado",
+    "fs": "envenenada",
+    "mp": "envenenados",
+    "fp": "envenenadas"
+  }
+}

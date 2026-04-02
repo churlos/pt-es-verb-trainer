@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "herdar"
+  },
+  "InfP": {
+    "1s": "herdar",
+    "2s": "herdares",
+    "3s": "herdar",
+    "1p": "herdarmos",
+    "2p": "herdardes",
+    "3p": "herdarem"
+  },
+  "Ger": {
+    "": "herdando"
+  },
+  "PresI": {
+    "1s": "herdo",
+    "2s": "herdas",
+    "3s": "herda",
+    "1p": "herdamos",
+    "2p": "herdais",
+    "3p": "herdam"
+  },
+  "PImpI": {
+    "1s": "herdava",
+    "2s": "herdavas",
+    "3s": "herdava",
+    "1p": "herdávamos",
+    "2p": "herdáveis",
+    "3p": "herdavam"
+  },
+  "PPSI": {
+    "1s": "herdei",
+    "2s": "herdaste",
+    "3s": "herdou",
+    "1p": "herdámos",
+    "2p": "herdastes",
+    "3p": "herdaram"
+  },
+  "PMQPSI": {
+    "1s": "herdara",
+    "2s": "herdaras",
+    "3s": "herdara",
+    "1p": "herdáramos",
+    "2p": "herdáreis",
+    "3p": "herdaram"
+  },
+  "FutSI": {
+    "1s": "herdarei",
+    "2s": "herdarás",
+    "3s": "herdará",
+    "1p": "herdaremos",
+    "2p": "herdareis",
+    "3p": "herdarão"
+  },
+  "CondS": {
+    "1s": "herdaria",
+    "2s": "herdarias",
+    "3s": "herdaria",
+    "1p": "herdaríamos",
+    "2p": "herdaríeis",
+    "3p": "herdariam"
+  },
+  "PresC": {
+    "1s": "herde",
+    "2s": "herdes",
+    "3s": "herde",
+    "1p": "herdemos",
+    "2p": "herdeis",
+    "3p": "herdem"
+  },
+  "PImpC": {
+    "1s": "herdasse",
+    "2s": "herdasses",
+    "3s": "herdasse",
+    "1p": "herdássemos",
+    "2p": "herdásseis",
+    "3p": "herdassem"
+  },
+  "FutSC": {
+    "1s": "herdar",
+    "2s": "herdares",
+    "3s": "herdar",
+    "1p": "herdarmos",
+    "2p": "herdardes",
+    "3p": "herdarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "herda",
+    "3s": "herde",
+    "1p": "herdemos",
+    "2p": "herdai",
+    "3p": "herdem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não herdes",
+    "3s": "não herde",
+    "1p": "não herdemos",
+    "2p": "não herdeis",
+    "3p": "não herdem"
+  },
+  "Part-ter": {
+    "": "herdado"
+  },
+  "Part-ser": {
+    "ms": "herdado",
+    "fs": "herdada",
+    "mp": "herdados",
+    "fp": "herdadas"
+  }
+}

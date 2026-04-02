@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conspirar"
+  },
+  "InfP": {
+    "1s": "conspirar",
+    "2s": "conspirares",
+    "3s": "conspirar",
+    "1p": "conspirarmos",
+    "2p": "conspirardes",
+    "3p": "conspirarem"
+  },
+  "Ger": {
+    "": "conspirando"
+  },
+  "PresI": {
+    "1s": "conspiro",
+    "2s": "conspiras",
+    "3s": "conspira",
+    "1p": "conspiramos",
+    "2p": "conspirais",
+    "3p": "conspiram"
+  },
+  "PImpI": {
+    "1s": "conspirava",
+    "2s": "conspiravas",
+    "3s": "conspirava",
+    "1p": "conspirávamos",
+    "2p": "conspiráveis",
+    "3p": "conspiravam"
+  },
+  "PPSI": {
+    "1s": "conspirei",
+    "2s": "conspiraste",
+    "3s": "conspirou",
+    "1p": "conspirámos",
+    "2p": "conspirastes",
+    "3p": "conspiraram"
+  },
+  "PMQPSI": {
+    "1s": "conspirara",
+    "2s": "conspiraras",
+    "3s": "conspirara",
+    "1p": "conspiráramos",
+    "2p": "conspiráreis",
+    "3p": "conspiraram"
+  },
+  "FutSI": {
+    "1s": "conspirarei",
+    "2s": "conspirarás",
+    "3s": "conspirará",
+    "1p": "conspiraremos",
+    "2p": "conspirareis",
+    "3p": "conspirarão"
+  },
+  "CondS": {
+    "1s": "conspiraria",
+    "2s": "conspirarias",
+    "3s": "conspiraria",
+    "1p": "conspiraríamos",
+    "2p": "conspiraríeis",
+    "3p": "conspirariam"
+  },
+  "PresC": {
+    "1s": "conspire",
+    "2s": "conspires",
+    "3s": "conspire",
+    "1p": "conspiremos",
+    "2p": "conspireis",
+    "3p": "conspirem"
+  },
+  "PImpC": {
+    "1s": "conspirasse",
+    "2s": "conspirasses",
+    "3s": "conspirasse",
+    "1p": "conspirássemos",
+    "2p": "conspirásseis",
+    "3p": "conspirassem"
+  },
+  "FutSC": {
+    "1s": "conspirar",
+    "2s": "conspirares",
+    "3s": "conspirar",
+    "1p": "conspirarmos",
+    "2p": "conspirardes",
+    "3p": "conspirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conspira",
+    "3s": "conspire",
+    "1p": "conspiremos",
+    "2p": "conspirai",
+    "3p": "conspirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não conspires",
+    "3s": "não conspire",
+    "1p": "não conspiremos",
+    "2p": "não conspireis",
+    "3p": "não conspirem"
+  },
+  "Part-ter": {
+    "": "conspirado"
+  },
+  "Part-ser": {
+    "ms": "conspirado",
+    "fs": "conspirada",
+    "mp": "conspirados",
+    "fp": "conspiradas"
+  }
+}

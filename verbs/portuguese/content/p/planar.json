@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "planar"
+  },
+  "InfP": {
+    "1s": "planar",
+    "2s": "planares",
+    "3s": "planar",
+    "1p": "planarmos",
+    "2p": "planardes",
+    "3p": "planarem"
+  },
+  "Ger": {
+    "": "planando"
+  },
+  "PresI": {
+    "1s": "plano",
+    "2s": "planas",
+    "3s": "plana",
+    "1p": "planamos",
+    "2p": "planais",
+    "3p": "planam"
+  },
+  "PImpI": {
+    "1s": "planava",
+    "2s": "planavas",
+    "3s": "planava",
+    "1p": "planávamos",
+    "2p": "planáveis",
+    "3p": "planavam"
+  },
+  "PPSI": {
+    "1s": "planei",
+    "2s": "planaste",
+    "3s": "planou",
+    "1p": "planámos",
+    "2p": "planastes",
+    "3p": "planaram"
+  },
+  "PMQPSI": {
+    "1s": "planara",
+    "2s": "planaras",
+    "3s": "planara",
+    "1p": "planáramos",
+    "2p": "planáreis",
+    "3p": "planaram"
+  },
+  "FutSI": {
+    "1s": "planarei",
+    "2s": "planarás",
+    "3s": "planará",
+    "1p": "planaremos",
+    "2p": "planareis",
+    "3p": "planarão"
+  },
+  "CondS": {
+    "1s": "planaria",
+    "2s": "planarias",
+    "3s": "planaria",
+    "1p": "planaríamos",
+    "2p": "planaríeis",
+    "3p": "planariam"
+  },
+  "PresC": {
+    "1s": "plane",
+    "2s": "planes",
+    "3s": "plane",
+    "1p": "planemos",
+    "2p": "planeis",
+    "3p": "planem"
+  },
+  "PImpC": {
+    "1s": "planasse",
+    "2s": "planasses",
+    "3s": "planasse",
+    "1p": "planássemos",
+    "2p": "planásseis",
+    "3p": "planassem"
+  },
+  "FutSC": {
+    "1s": "planar",
+    "2s": "planares",
+    "3s": "planar",
+    "1p": "planarmos",
+    "2p": "planardes",
+    "3p": "planarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "plana",
+    "3s": "plane",
+    "1p": "planemos",
+    "2p": "planai",
+    "3p": "planem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não planes",
+    "3s": "não plane",
+    "1p": "não planemos",
+    "2p": "não planeis",
+    "3p": "não planem"
+  },
+  "Part-ter": {
+    "": "planado"
+  },
+  "Part-ser": {
+    "ms": "planado",
+    "fs": "planada",
+    "mp": "planados",
+    "fp": "planadas"
+  }
+}

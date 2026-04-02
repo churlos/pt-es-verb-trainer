@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dormitar"
+  },
+  "Ger": {
+    "": "dormitando"
+  },
+  "PresI": {
+    "1s": "dormito",
+    "2s": "dormitas",
+    "3s": "dormita",
+    "1p": "dormitamos",
+    "2p": "dormitáis",
+    "3p": "dormitan"
+  },
+  "PImpI": {
+    "1s": "dormitaba",
+    "2s": "dormitabas",
+    "3s": "dormitaba",
+    "1p": "dormitábamos",
+    "2p": "dormitabais",
+    "3p": "dormitaban"
+  },
+  "PPSI": {
+    "1s": "dormité",
+    "2s": "dormitaste",
+    "3s": "dormitó",
+    "1p": "dormitamos",
+    "2p": "dormitasteis",
+    "3p": "dormitaron"
+  },
+  "FutSI": {
+    "1s": "dormitaré",
+    "2s": "dormitarás",
+    "3s": "dormitará",
+    "1p": "dormitaremos",
+    "2p": "dormitaréis",
+    "3p": "dormitarán"
+  },
+  "CondS": {
+    "1s": "dormitaría",
+    "2s": "dormitarías",
+    "3s": "dormitaría",
+    "1p": "dormitaríamos",
+    "2p": "dormitaríais",
+    "3p": "dormitarían"
+  },
+  "PresC": {
+    "1s": "dormite",
+    "2s": "dormites",
+    "3s": "dormite",
+    "1p": "dormitemos",
+    "2p": "dormitéis",
+    "3p": "dormiten"
+  },
+  "PMQPSI": {
+    "1s": "dormitara",
+    "2s": "dormitaras",
+    "3s": "dormitara",
+    "1p": "dormitáramos",
+    "2p": "dormitarais",
+    "3p": "dormitaran"
+  },
+  "PImpC": {
+    "1s": "dormitase",
+    "2s": "dormitases",
+    "3s": "dormitase",
+    "1p": "dormitásemos",
+    "2p": "dormitaseis",
+    "3p": "dormitasen"
+  },
+  "FutSC": {
+    "1s": "dormitare",
+    "2s": "dormitares",
+    "3s": "dormitare",
+    "1p": "dormitáremos",
+    "2p": "dormitareis",
+    "3p": "dormitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dormita",
+    "3s": "dormite",
+    "1p": "dormitemos",
+    "2p": "dormitad",
+    "3p": "dormiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dormites",
+    "3s": "no dormite",
+    "1p": "no dormitemos",
+    "2p": "no dormitéis",
+    "3p": "no dormiten"
+  },
+  "Part-ter": {
+    "": "dormitado"
+  },
+  "Part-ser": {
+    "ms": "dormitado",
+    "fs": "dormitada",
+    "mp": "dormitados",
+    "fp": "dormitadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amueblar"
+  },
+  "Ger": {
+    "": "amueblando"
+  },
+  "PresI": {
+    "1s": "amueblo",
+    "2s": "amueblas",
+    "3s": "amuebla",
+    "1p": "amueblamos",
+    "2p": "amuebláis",
+    "3p": "amueblan"
+  },
+  "PImpI": {
+    "1s": "amueblaba",
+    "2s": "amueblabas",
+    "3s": "amueblaba",
+    "1p": "amueblábamos",
+    "2p": "amueblabais",
+    "3p": "amueblaban"
+  },
+  "PPSI": {
+    "1s": "amueblé",
+    "2s": "amueblaste",
+    "3s": "amuebló",
+    "1p": "amueblamos",
+    "2p": "amueblasteis",
+    "3p": "amueblaron"
+  },
+  "FutSI": {
+    "1s": "amueblaré",
+    "2s": "amueblarás",
+    "3s": "amueblará",
+    "1p": "amueblaremos",
+    "2p": "amueblaréis",
+    "3p": "amueblarán"
+  },
+  "CondS": {
+    "1s": "amueblaría",
+    "2s": "amueblarías",
+    "3s": "amueblaría",
+    "1p": "amueblaríamos",
+    "2p": "amueblaríais",
+    "3p": "amueblarían"
+  },
+  "PresC": {
+    "1s": "amueble",
+    "2s": "amuebles",
+    "3s": "amueble",
+    "1p": "amueblemos",
+    "2p": "amuebléis",
+    "3p": "amueblen"
+  },
+  "PMQPSI": {
+    "1s": "amueblara",
+    "2s": "amueblaras",
+    "3s": "amueblara",
+    "1p": "amuebláramos",
+    "2p": "amueblarais",
+    "3p": "amueblaran"
+  },
+  "PImpC": {
+    "1s": "amueblase",
+    "2s": "amueblases",
+    "3s": "amueblase",
+    "1p": "amueblásemos",
+    "2p": "amueblaseis",
+    "3p": "amueblasen"
+  },
+  "FutSC": {
+    "1s": "amueblare",
+    "2s": "amueblares",
+    "3s": "amueblare",
+    "1p": "amuebláremos",
+    "2p": "amueblareis",
+    "3p": "amueblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amuebla",
+    "3s": "amueble",
+    "1p": "amueblemos",
+    "2p": "amueblad",
+    "3p": "amueblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amuebles",
+    "3s": "no amueble",
+    "1p": "no amueblemos",
+    "2p": "no amuebléis",
+    "3p": "no amueblen"
+  },
+  "Part-ter": {
+    "": "amueblado"
+  },
+  "Part-ser": {
+    "ms": "amueblado",
+    "fs": "amueblada",
+    "mp": "amueblados",
+    "fp": "amuebladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "incendiar"
+  },
+  "InfP": {
+    "1s": "incendiar",
+    "2s": "incendiares",
+    "3s": "incendiar",
+    "1p": "incendiarmos",
+    "2p": "incendiardes",
+    "3p": "incendiarem"
+  },
+  "Ger": {
+    "": "incendiando"
+  },
+  "PresI": {
+    "1s": "incendeio",
+    "2s": "incendeias",
+    "3s": "incendeia",
+    "1p": "incendiamos",
+    "2p": "incendiais",
+    "3p": "incendeiam"
+  },
+  "PImpI": {
+    "1s": "incendiava",
+    "2s": "incendiavas",
+    "3s": "incendiava",
+    "1p": "incendiávamos",
+    "2p": "incendiáveis",
+    "3p": "incendiavam"
+  },
+  "PPSI": {
+    "1s": "incendiei",
+    "2s": "incendiaste",
+    "3s": "incendiou",
+    "1p": "incendiámos",
+    "2p": "incendiastes",
+    "3p": "incendiaram"
+  },
+  "PMQPSI": {
+    "1s": "incendiara",
+    "2s": "incendiaras",
+    "3s": "incendiara",
+    "1p": "incendiáramos",
+    "2p": "incendiáreis",
+    "3p": "incendiaram"
+  },
+  "FutSI": {
+    "1s": "incendiarei",
+    "2s": "incendiarás",
+    "3s": "incendiará",
+    "1p": "incendiaremos",
+    "2p": "incendiareis",
+    "3p": "incendiarão"
+  },
+  "CondS": {
+    "1s": "incendiaria",
+    "2s": "incendiarias",
+    "3s": "incendiaria",
+    "1p": "incendiaríamos",
+    "2p": "incendiaríeis",
+    "3p": "incendiariam"
+  },
+  "PresC": {
+    "1s": "incendeie",
+    "2s": "incendeies",
+    "3s": "incendeie",
+    "1p": "incendiemos",
+    "2p": "incendieis",
+    "3p": "incendeiem"
+  },
+  "PImpC": {
+    "1s": "incendiasse",
+    "2s": "incendiasses",
+    "3s": "incendiasse",
+    "1p": "incendiássemos",
+    "2p": "incendiásseis",
+    "3p": "incendiassem"
+  },
+  "FutSC": {
+    "1s": "incendiar",
+    "2s": "incendiares",
+    "3s": "incendiar",
+    "1p": "incendiarmos",
+    "2p": "incendiardes",
+    "3p": "incendiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incendeia",
+    "3s": "incendeie",
+    "1p": "incendiemos",
+    "2p": "incendiai",
+    "3p": "incendeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não incendeies",
+    "3s": "não incendeie",
+    "1p": "não incendiemos",
+    "2p": "não incendieis",
+    "3p": "não incendeiem"
+  },
+  "Part-ter": {
+    "": "incendiado"
+  },
+  "Part-ser": {
+    "ms": "incendiado",
+    "fs": "incendiada",
+    "mp": "incendiados",
+    "fp": "incendiadas"
+  }
+}

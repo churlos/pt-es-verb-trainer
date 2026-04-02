@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "despachar"
+  },
+  "Ger": {
+    "": "despachando"
+  },
+  "PresI": {
+    "1s": "despacho",
+    "2s": "despachas",
+    "3s": "despacha",
+    "1p": "despachamos",
+    "2p": "despacháis",
+    "3p": "despachan"
+  },
+  "PImpI": {
+    "1s": "despachaba",
+    "2s": "despachabas",
+    "3s": "despachaba",
+    "1p": "despachábamos",
+    "2p": "despachabais",
+    "3p": "despachaban"
+  },
+  "PPSI": {
+    "1s": "despaché",
+    "2s": "despachaste",
+    "3s": "despachó",
+    "1p": "despachamos",
+    "2p": "despachasteis",
+    "3p": "despacharon"
+  },
+  "FutSI": {
+    "1s": "despacharé",
+    "2s": "despacharás",
+    "3s": "despachará",
+    "1p": "despacharemos",
+    "2p": "despacharéis",
+    "3p": "despacharán"
+  },
+  "CondS": {
+    "1s": "despacharía",
+    "2s": "despacharías",
+    "3s": "despacharía",
+    "1p": "despacharíamos",
+    "2p": "despacharíais",
+    "3p": "despacharían"
+  },
+  "PresC": {
+    "1s": "despache",
+    "2s": "despaches",
+    "3s": "despache",
+    "1p": "despachemos",
+    "2p": "despachéis",
+    "3p": "despachen"
+  },
+  "PMQPSI": {
+    "1s": "despachara",
+    "2s": "despacharas",
+    "3s": "despachara",
+    "1p": "despacháramos",
+    "2p": "despacharais",
+    "3p": "despacharan"
+  },
+  "PImpC": {
+    "1s": "despachase",
+    "2s": "despachases",
+    "3s": "despachase",
+    "1p": "despachásemos",
+    "2p": "despachaseis",
+    "3p": "despachasen"
+  },
+  "FutSC": {
+    "1s": "despachare",
+    "2s": "despachares",
+    "3s": "despachare",
+    "1p": "despacháremos",
+    "2p": "despachareis",
+    "3p": "despacharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "despacha",
+    "3s": "despache",
+    "1p": "despachemos",
+    "2p": "despachad",
+    "3p": "despachen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no despaches",
+    "3s": "no despache",
+    "1p": "no despachemos",
+    "2p": "no despachéis",
+    "3p": "no despachen"
+  },
+  "Part-ter": {
+    "": "despachado"
+  },
+  "Part-ser": {
+    "ms": "despachado",
+    "fs": "despachada",
+    "mp": "despachados",
+    "fp": "despachadas"
+  }
+}

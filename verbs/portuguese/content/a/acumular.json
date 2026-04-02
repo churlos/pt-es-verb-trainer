@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acumular"
+  },
+  "InfP": {
+    "1s": "acumular",
+    "2s": "acumulares",
+    "3s": "acumular",
+    "1p": "acumularmos",
+    "2p": "acumulardes",
+    "3p": "acumularem"
+  },
+  "Ger": {
+    "": "acumulando"
+  },
+  "PresI": {
+    "1s": "acumulo",
+    "2s": "acumulas",
+    "3s": "acumula",
+    "1p": "acumulamos",
+    "2p": "acumulais",
+    "3p": "acumulam"
+  },
+  "PImpI": {
+    "1s": "acumulava",
+    "2s": "acumulavas",
+    "3s": "acumulava",
+    "1p": "acumulávamos",
+    "2p": "acumuláveis",
+    "3p": "acumulavam"
+  },
+  "PPSI": {
+    "1s": "acumulei",
+    "2s": "acumulaste",
+    "3s": "acumulou",
+    "1p": "acumulámos",
+    "2p": "acumulastes",
+    "3p": "acumularam"
+  },
+  "PMQPSI": {
+    "1s": "acumulara",
+    "2s": "acumularas",
+    "3s": "acumulara",
+    "1p": "acumuláramos",
+    "2p": "acumuláreis",
+    "3p": "acumularam"
+  },
+  "FutSI": {
+    "1s": "acumularei",
+    "2s": "acumularás",
+    "3s": "acumulará",
+    "1p": "acumularemos",
+    "2p": "acumulareis",
+    "3p": "acumularão"
+  },
+  "CondS": {
+    "1s": "acumularia",
+    "2s": "acumularias",
+    "3s": "acumularia",
+    "1p": "acumularíamos",
+    "2p": "acumularíeis",
+    "3p": "acumulariam"
+  },
+  "PresC": {
+    "1s": "acumule",
+    "2s": "acumules",
+    "3s": "acumule",
+    "1p": "acumulemos",
+    "2p": "acumuleis",
+    "3p": "acumulem"
+  },
+  "PImpC": {
+    "1s": "acumulasse",
+    "2s": "acumulasses",
+    "3s": "acumulasse",
+    "1p": "acumulássemos",
+    "2p": "acumulásseis",
+    "3p": "acumulassem"
+  },
+  "FutSC": {
+    "1s": "acumular",
+    "2s": "acumulares",
+    "3s": "acumular",
+    "1p": "acumularmos",
+    "2p": "acumulardes",
+    "3p": "acumularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acumula",
+    "3s": "acumule",
+    "1p": "acumulemos",
+    "2p": "acumulai",
+    "3p": "acumulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acumules",
+    "3s": "não acumule",
+    "1p": "não acumulemos",
+    "2p": "não acumuleis",
+    "3p": "não acumulem"
+  },
+  "Part-ter": {
+    "": "acumulado"
+  },
+  "Part-ser": {
+    "ms": "acumulado",
+    "fs": "acumulada",
+    "mp": "acumulados",
+    "fp": "acumuladas"
+  }
+}

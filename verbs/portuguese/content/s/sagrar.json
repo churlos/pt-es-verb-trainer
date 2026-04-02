@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sagrar"
+  },
+  "InfP": {
+    "1s": "sagrar",
+    "2s": "sagrares",
+    "3s": "sagrar",
+    "1p": "sagrarmos",
+    "2p": "sagrardes",
+    "3p": "sagrarem"
+  },
+  "Ger": {
+    "": "sagrando"
+  },
+  "PresI": {
+    "1s": "sagro",
+    "2s": "sagras",
+    "3s": "sagra",
+    "1p": "sagramos",
+    "2p": "sagrais",
+    "3p": "sagram"
+  },
+  "PImpI": {
+    "1s": "sagrava",
+    "2s": "sagravas",
+    "3s": "sagrava",
+    "1p": "sagrávamos",
+    "2p": "sagráveis",
+    "3p": "sagravam"
+  },
+  "PPSI": {
+    "1s": "sagrei",
+    "2s": "sagraste",
+    "3s": "sagrou",
+    "1p": "sagrámos",
+    "2p": "sagrastes",
+    "3p": "sagraram"
+  },
+  "PMQPSI": {
+    "1s": "sagrara",
+    "2s": "sagraras",
+    "3s": "sagrara",
+    "1p": "sagráramos",
+    "2p": "sagráreis",
+    "3p": "sagraram"
+  },
+  "FutSI": {
+    "1s": "sagrarei",
+    "2s": "sagrarás",
+    "3s": "sagrará",
+    "1p": "sagraremos",
+    "2p": "sagrareis",
+    "3p": "sagrarão"
+  },
+  "CondS": {
+    "1s": "sagraria",
+    "2s": "sagrarias",
+    "3s": "sagraria",
+    "1p": "sagraríamos",
+    "2p": "sagraríeis",
+    "3p": "sagrariam"
+  },
+  "PresC": {
+    "1s": "sagre",
+    "2s": "sagres",
+    "3s": "sagre",
+    "1p": "sagremos",
+    "2p": "sagreis",
+    "3p": "sagrem"
+  },
+  "PImpC": {
+    "1s": "sagrasse",
+    "2s": "sagrasses",
+    "3s": "sagrasse",
+    "1p": "sagrássemos",
+    "2p": "sagrásseis",
+    "3p": "sagrassem"
+  },
+  "FutSC": {
+    "1s": "sagrar",
+    "2s": "sagrares",
+    "3s": "sagrar",
+    "1p": "sagrarmos",
+    "2p": "sagrardes",
+    "3p": "sagrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sagra",
+    "3s": "sagre",
+    "1p": "sagremos",
+    "2p": "sagrai",
+    "3p": "sagrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sagres",
+    "3s": "não sagre",
+    "1p": "não sagremos",
+    "2p": "não sagreis",
+    "3p": "não sagrem"
+  },
+  "Part-ter": {
+    "": "sagrado"
+  },
+  "Part-ser": {
+    "ms": "sagrado",
+    "fs": "sagrada",
+    "mp": "sagrados",
+    "fp": "sagradas"
+  }
+}

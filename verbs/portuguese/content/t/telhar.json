@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "telhar"
+  },
+  "InfP": {
+    "1s": "telhar",
+    "2s": "telhares",
+    "3s": "telhar",
+    "1p": "telharmos",
+    "2p": "telhardes",
+    "3p": "telharem"
+  },
+  "Ger": {
+    "": "telhando"
+  },
+  "PresI": {
+    "1s": "telho",
+    "2s": "telhas",
+    "3s": "telha",
+    "1p": "telhamos",
+    "2p": "telhais",
+    "3p": "telham"
+  },
+  "PImpI": {
+    "1s": "telhava",
+    "2s": "telhavas",
+    "3s": "telhava",
+    "1p": "telhávamos",
+    "2p": "telháveis",
+    "3p": "telhavam"
+  },
+  "PPSI": {
+    "1s": "telhei",
+    "2s": "telhaste",
+    "3s": "telhou",
+    "1p": "telhámos",
+    "2p": "telhastes",
+    "3p": "telharam"
+  },
+  "PMQPSI": {
+    "1s": "telhara",
+    "2s": "telharas",
+    "3s": "telhara",
+    "1p": "telháramos",
+    "2p": "telháreis",
+    "3p": "telharam"
+  },
+  "FutSI": {
+    "1s": "telharei",
+    "2s": "telharás",
+    "3s": "telhará",
+    "1p": "telharemos",
+    "2p": "telhareis",
+    "3p": "telharão"
+  },
+  "CondS": {
+    "1s": "telharia",
+    "2s": "telharias",
+    "3s": "telharia",
+    "1p": "telharíamos",
+    "2p": "telharíeis",
+    "3p": "telhariam"
+  },
+  "PresC": {
+    "1s": "telhe",
+    "2s": "telhes",
+    "3s": "telhe",
+    "1p": "telhemos",
+    "2p": "telheis",
+    "3p": "telhem"
+  },
+  "PImpC": {
+    "1s": "telhasse",
+    "2s": "telhasses",
+    "3s": "telhasse",
+    "1p": "telhássemos",
+    "2p": "telhásseis",
+    "3p": "telhassem"
+  },
+  "FutSC": {
+    "1s": "telhar",
+    "2s": "telhares",
+    "3s": "telhar",
+    "1p": "telharmos",
+    "2p": "telhardes",
+    "3p": "telharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "telha",
+    "3s": "telhe",
+    "1p": "telhemos",
+    "2p": "telhai",
+    "3p": "telhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não telhes",
+    "3s": "não telhe",
+    "1p": "não telhemos",
+    "2p": "não telheis",
+    "3p": "não telhem"
+  },
+  "Part-ter": {
+    "": "telhado"
+  },
+  "Part-ser": {
+    "ms": "telhado",
+    "fs": "telhada",
+    "mp": "telhados",
+    "fp": "telhadas"
+  }
+}

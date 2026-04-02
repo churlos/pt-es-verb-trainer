@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "decrementar"
+  },
+  "Ger": {
+    "": "decrementando"
+  },
+  "PresI": {
+    "1s": "decremento",
+    "2s": "decrementas",
+    "3s": "decrementa",
+    "1p": "decrementamos",
+    "2p": "decrementáis",
+    "3p": "decrementan"
+  },
+  "PImpI": {
+    "1s": "decrementaba",
+    "2s": "decrementabas",
+    "3s": "decrementaba",
+    "1p": "decrementábamos",
+    "2p": "decrementabais",
+    "3p": "decrementaban"
+  },
+  "PPSI": {
+    "1s": "decrementé",
+    "2s": "decrementaste",
+    "3s": "decrementó",
+    "1p": "decrementamos",
+    "2p": "decrementasteis",
+    "3p": "decrementaron"
+  },
+  "FutSI": {
+    "1s": "decrementaré",
+    "2s": "decrementarás",
+    "3s": "decrementará",
+    "1p": "decrementaremos",
+    "2p": "decrementaréis",
+    "3p": "decrementarán"
+  },
+  "CondS": {
+    "1s": "decrementaría",
+    "2s": "decrementarías",
+    "3s": "decrementaría",
+    "1p": "decrementaríamos",
+    "2p": "decrementaríais",
+    "3p": "decrementarían"
+  },
+  "PresC": {
+    "1s": "decremente",
+    "2s": "decrementes",
+    "3s": "decremente",
+    "1p": "decrementemos",
+    "2p": "decrementéis",
+    "3p": "decrementen"
+  },
+  "PMQPSI": {
+    "1s": "decrementara",
+    "2s": "decrementaras",
+    "3s": "decrementara",
+    "1p": "decrementáramos",
+    "2p": "decrementarais",
+    "3p": "decrementaran"
+  },
+  "PImpC": {
+    "1s": "decrementase",
+    "2s": "decrementases",
+    "3s": "decrementase",
+    "1p": "decrementásemos",
+    "2p": "decrementaseis",
+    "3p": "decrementasen"
+  },
+  "FutSC": {
+    "1s": "decrementare",
+    "2s": "decrementares",
+    "3s": "decrementare",
+    "1p": "decrementáremos",
+    "2p": "decrementareis",
+    "3p": "decrementaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decrementa",
+    "3s": "decremente",
+    "1p": "decrementemos",
+    "2p": "decrementad",
+    "3p": "decrementen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no decrementes",
+    "3s": "no decremente",
+    "1p": "no decrementemos",
+    "2p": "no decrementéis",
+    "3p": "no decrementen"
+  },
+  "Part-ter": {
+    "": "decrementado"
+  },
+  "Part-ser": {
+    "ms": "decrementado",
+    "fs": "decrementada",
+    "mp": "decrementados",
+    "fp": "decrementadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cerciorar"
+  },
+  "Ger": {
+    "": "cerciorando"
+  },
+  "PresI": {
+    "1s": "cercioro",
+    "2s": "cercioras",
+    "3s": "cerciora",
+    "1p": "cercioramos",
+    "2p": "cercioráis",
+    "3p": "cercioran"
+  },
+  "PImpI": {
+    "1s": "cercioraba",
+    "2s": "cerciorabas",
+    "3s": "cercioraba",
+    "1p": "cerciorábamos",
+    "2p": "cerciorabais",
+    "3p": "cercioraban"
+  },
+  "PPSI": {
+    "1s": "cercioré",
+    "2s": "cercioraste",
+    "3s": "cercioró",
+    "1p": "cercioramos",
+    "2p": "cerciorasteis",
+    "3p": "cercioraron"
+  },
+  "FutSI": {
+    "1s": "cercioraré",
+    "2s": "cerciorarás",
+    "3s": "cerciorará",
+    "1p": "cercioraremos",
+    "2p": "cercioraréis",
+    "3p": "cerciorarán"
+  },
+  "CondS": {
+    "1s": "cercioraría",
+    "2s": "cerciorarías",
+    "3s": "cercioraría",
+    "1p": "cercioraríamos",
+    "2p": "cercioraríais",
+    "3p": "cerciorarían"
+  },
+  "PresC": {
+    "1s": "cerciore",
+    "2s": "cerciores",
+    "3s": "cerciore",
+    "1p": "cercioremos",
+    "2p": "cercioréis",
+    "3p": "cercioren"
+  },
+  "PMQPSI": {
+    "1s": "cerciorara",
+    "2s": "cercioraras",
+    "3s": "cerciorara",
+    "1p": "cercioráramos",
+    "2p": "cerciorarais",
+    "3p": "cercioraran"
+  },
+  "PImpC": {
+    "1s": "cerciorase",
+    "2s": "cerciorases",
+    "3s": "cerciorase",
+    "1p": "cerciorásemos",
+    "2p": "cercioraseis",
+    "3p": "cerciorasen"
+  },
+  "FutSC": {
+    "1s": "cerciorare",
+    "2s": "cerciorares",
+    "3s": "cerciorare",
+    "1p": "cercioráremos",
+    "2p": "cerciorareis",
+    "3p": "cercioraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cerciora",
+    "3s": "cerciore",
+    "1p": "cercioremos",
+    "2p": "cerciorad",
+    "3p": "cercioren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cerciores",
+    "3s": "no cerciore",
+    "1p": "no cercioremos",
+    "2p": "no cercioréis",
+    "3p": "no cercioren"
+  },
+  "Part-ter": {
+    "": "cerciorado"
+  },
+  "Part-ser": {
+    "ms": "cerciorado",
+    "fs": "cerciorada",
+    "mp": "cerciorados",
+    "fp": "cercioradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "herbar"
+  },
+  "Ger": {
+    "": "herbando"
+  },
+  "PresI": {
+    "1s": "hierbo",
+    "2s": "hierbas",
+    "3s": "hierba",
+    "1p": "herbamos",
+    "2p": "herbáis",
+    "3p": "hierban"
+  },
+  "PImpI": {
+    "1s": "herbaba",
+    "2s": "herbabas",
+    "3s": "herbaba",
+    "1p": "herbábamos",
+    "2p": "herbabais",
+    "3p": "herbaban"
+  },
+  "PPSI": {
+    "1s": "herbé",
+    "2s": "herbaste",
+    "3s": "herbó",
+    "1p": "herbamos",
+    "2p": "herbasteis",
+    "3p": "herbaron"
+  },
+  "FutSI": {
+    "1s": "herbaré",
+    "2s": "herbarás",
+    "3s": "herbará",
+    "1p": "herbaremos",
+    "2p": "herbaréis",
+    "3p": "herbarán"
+  },
+  "CondS": {
+    "1s": "herbaría",
+    "2s": "herbarías",
+    "3s": "herbaría",
+    "1p": "herbaríamos",
+    "2p": "herbaríais",
+    "3p": "herbarían"
+  },
+  "PresC": {
+    "1s": "hierbe",
+    "2s": "hierbes",
+    "3s": "hierbe",
+    "1p": "herbemos",
+    "2p": "herbéis",
+    "3p": "hierben"
+  },
+  "PMQPSI": {
+    "1s": "herbara",
+    "2s": "herbaras",
+    "3s": "herbara",
+    "1p": "herbáramos",
+    "2p": "herbarais",
+    "3p": "herbaran"
+  },
+  "PImpC": {
+    "1s": "herbase",
+    "2s": "herbases",
+    "3s": "herbase",
+    "1p": "herbásemos",
+    "2p": "herbaseis",
+    "3p": "herbasen"
+  },
+  "FutSC": {
+    "1s": "herbare",
+    "2s": "herbares",
+    "3s": "herbare",
+    "1p": "herbáremos",
+    "2p": "herbareis",
+    "3p": "herbaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hierba",
+    "3s": "hierbe",
+    "1p": "herbemos",
+    "2p": "herbad",
+    "3p": "hierben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hierbes",
+    "3s": "no hierbe",
+    "1p": "no herbemos",
+    "2p": "no herbéis",
+    "3p": "no hierben"
+  },
+  "Part-ter": {
+    "": "herbado"
+  },
+  "Part-ser": {
+    "ms": "herbado",
+    "fs": "herbada",
+    "mp": "herbados",
+    "fp": "herbadas"
+  }
+}

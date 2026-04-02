@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "entardecer"
+  },
+  "InfP": {
+    "1s": "entardecer",
+    "2s": "entardeceres",
+    "3s": "entardecer",
+    "1p": "entardecermos",
+    "2p": "entardecerdes",
+    "3p": "entardecerem"
+  },
+  "Ger": {
+    "": "entardecendo"
+  },
+  "PresI": {
+    "1s": "entardeço",
+    "2s": "entardeces",
+    "3s": "entardece",
+    "1p": "entardecemos",
+    "2p": "entardeceis",
+    "3p": "entardecem"
+  },
+  "PImpI": {
+    "1s": "entardecia",
+    "2s": "entardecias",
+    "3s": "entardecia",
+    "1p": "entardecíamos",
+    "2p": "entardecíeis",
+    "3p": "entardeciam"
+  },
+  "PPSI": {
+    "1s": "entardeci",
+    "2s": "entardeceste",
+    "3s": "entardeceu",
+    "1p": "entardecemos",
+    "2p": "entardecestes",
+    "3p": "entardeceram"
+  },
+  "PMQPSI": {
+    "1s": "entardecera",
+    "2s": "entardeceras",
+    "3s": "entardecera",
+    "1p": "entardecêramos",
+    "2p": "entardecêreis",
+    "3p": "entardeceram"
+  },
+  "FutSI": {
+    "1s": "entardecerei",
+    "2s": "entardecerás",
+    "3s": "entardecerá",
+    "1p": "entardeceremos",
+    "2p": "entardecereis",
+    "3p": "entardecerão"
+  },
+  "CondS": {
+    "1s": "entardeceria",
+    "2s": "entardecerias",
+    "3s": "entardeceria",
+    "1p": "entardeceríamos",
+    "2p": "entardeceríeis",
+    "3p": "entardeceriam"
+  },
+  "PresC": {
+    "1s": "entardeça",
+    "2s": "entardeças",
+    "3s": "entardeça",
+    "1p": "entardeçamos",
+    "2p": "entardeçais",
+    "3p": "entardeçam"
+  },
+  "PImpC": {
+    "1s": "entardecesse",
+    "2s": "entardecesses",
+    "3s": "entardecesse",
+    "1p": "entardecêssemos",
+    "2p": "entardecêsseis",
+    "3p": "entardecessem"
+  },
+  "FutSC": {
+    "1s": "entardecer",
+    "2s": "entardeceres",
+    "3s": "entardecer",
+    "1p": "entardecermos",
+    "2p": "entardecerdes",
+    "3p": "entardecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entardece",
+    "3s": "entardeça",
+    "1p": "entardeçamos",
+    "2p": "entardecei",
+    "3p": "entardeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não entardeças",
+    "3s": "não entardeça",
+    "1p": "não entardeçamos",
+    "2p": "não entardeçais",
+    "3p": "não entardeçam"
+  },
+  "Part-ter": {
+    "": "entardecido"
+  },
+  "Part-ser": {
+    "ms": "entardecido",
+    "fs": "entardecida",
+    "mp": "entardecidos",
+    "fp": "entardecidas"
+  }
+}

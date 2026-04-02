@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "putrefazer"
+  },
+  "InfP": {
+    "1s": "putrefazer",
+    "2s": "putrefazeres",
+    "3s": "putrefazer",
+    "1p": "putrefazermos",
+    "2p": "putrefazerdes",
+    "3p": "putrefazerem"
+  },
+  "Ger": {
+    "": "putrefazendo"
+  },
+  "PresI": {
+    "1s": "putrefaço",
+    "2s": "putrefazes",
+    "3s": "putrefaz",
+    "1p": "putrefazemos",
+    "2p": "putrefazeis",
+    "3p": "putrefazem"
+  },
+  "PImpI": {
+    "1s": "putrefazia",
+    "2s": "putrefazias",
+    "3s": "putrefazia",
+    "1p": "putrefazíamos",
+    "2p": "putrefazíeis",
+    "3p": "putrefaziam"
+  },
+  "PPSI": {
+    "1s": "putrefiz",
+    "2s": "putrefizeste",
+    "3s": "putrefez",
+    "1p": "putrefizemos",
+    "2p": "putrefizestes",
+    "3p": "putrefizeram"
+  },
+  "PMQPSI": {
+    "1s": "putrefizera",
+    "2s": "putrefizeras",
+    "3s": "putrefizera",
+    "1p": "putrefizéramos",
+    "2p": "putrefizéreis",
+    "3p": "putrefizeram"
+  },
+  "FutSI": {
+    "1s": "putrefarei",
+    "2s": "putrefarás",
+    "3s": "putrefará",
+    "1p": "putrefaremos",
+    "2p": "putrefareis",
+    "3p": "putrefarão"
+  },
+  "CondS": {
+    "1s": "putrefaria",
+    "2s": "putrefarias",
+    "3s": "putrefaria",
+    "1p": "putrefaríamos",
+    "2p": "putrefaríeis",
+    "3p": "putrefariam"
+  },
+  "PresC": {
+    "1s": "putrefaça",
+    "2s": "putrefaças",
+    "3s": "putrefaça",
+    "1p": "putrefaçamos",
+    "2p": "putrefaçais",
+    "3p": "putrefaçam"
+  },
+  "PImpC": {
+    "1s": "putrefizesse",
+    "2s": "putrefizesses",
+    "3s": "putrefizesse",
+    "1p": "putrefizéssemos",
+    "2p": "putrefizésseis",
+    "3p": "putrefizessem"
+  },
+  "FutSC": {
+    "1s": "putrefizer",
+    "2s": "putrefizeres",
+    "3s": "putrefizer",
+    "1p": "putrefizermos",
+    "2p": "putrefizerdes",
+    "3p": "putrefizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "putrefazputrefaze",
+    "3s": "putrefaça",
+    "1p": "putrefaçamos",
+    "2p": "putrefazei",
+    "3p": "putrefaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não putrefaças",
+    "3s": "não putrefaça",
+    "1p": "não putrefaçamos",
+    "2p": "não putrefaçais",
+    "3p": "não putrefaçam"
+  },
+  "Part-ter": {
+    "": "putrefeito"
+  },
+  "Part-ser": {
+    "ms": "putrefeito",
+    "fs": "putrefeita",
+    "mp": "putrefeitos",
+    "fp": "putrefeitas"
+  }
+}

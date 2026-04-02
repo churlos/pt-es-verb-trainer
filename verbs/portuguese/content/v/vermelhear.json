@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vermelhear"
+  },
+  "InfP": {
+    "1s": "vermelhear",
+    "2s": "vermelheares",
+    "3s": "vermelhear",
+    "1p": "vermelhearmos",
+    "2p": "vermelheardes",
+    "3p": "vermelhearem"
+  },
+  "Ger": {
+    "": "vermelheando"
+  },
+  "PresI": {
+    "1s": "vermelheio",
+    "2s": "vermelheias",
+    "3s": "vermelheia",
+    "1p": "vermelheamos",
+    "2p": "vermelheais",
+    "3p": "vermelheiam"
+  },
+  "PImpI": {
+    "1s": "vermelheava",
+    "2s": "vermelheavas",
+    "3s": "vermelheava",
+    "1p": "vermelheávamos",
+    "2p": "vermelheáveis",
+    "3p": "vermelheavam"
+  },
+  "PPSI": {
+    "1s": "vermelheei",
+    "2s": "vermelheaste",
+    "3s": "vermelheou",
+    "1p": "vermelheámos",
+    "2p": "vermelheastes",
+    "3p": "vermelhearam"
+  },
+  "PMQPSI": {
+    "1s": "vermelheara",
+    "2s": "vermelhearas",
+    "3s": "vermelheara",
+    "1p": "vermelheáramos",
+    "2p": "vermelheáreis",
+    "3p": "vermelhearam"
+  },
+  "FutSI": {
+    "1s": "vermelhearei",
+    "2s": "vermelhearás",
+    "3s": "vermelheará",
+    "1p": "vermelhearemos",
+    "2p": "vermelheareis",
+    "3p": "vermelhearão"
+  },
+  "CondS": {
+    "1s": "vermelhearia",
+    "2s": "vermelhearias",
+    "3s": "vermelhearia",
+    "1p": "vermelhearíamos",
+    "2p": "vermelhearíeis",
+    "3p": "vermelheariam"
+  },
+  "PresC": {
+    "1s": "vermelheie",
+    "2s": "vermelheies",
+    "3s": "vermelheie",
+    "1p": "vermelheemos",
+    "2p": "vermelheeis",
+    "3p": "vermelheiem"
+  },
+  "PImpC": {
+    "1s": "vermelheasse",
+    "2s": "vermelheasses",
+    "3s": "vermelheasse",
+    "1p": "vermelheássemos",
+    "2p": "vermelheásseis",
+    "3p": "vermelheassem"
+  },
+  "FutSC": {
+    "1s": "vermelhear",
+    "2s": "vermelheares",
+    "3s": "vermelhear",
+    "1p": "vermelhearmos",
+    "2p": "vermelheardes",
+    "3p": "vermelhearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vermelheia",
+    "3s": "vermelheie",
+    "1p": "vermelheemos",
+    "2p": "vermelheai",
+    "3p": "vermelheiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vermelheies",
+    "3s": "não vermelheie",
+    "1p": "não vermelheemos",
+    "2p": "não vermelheeis",
+    "3p": "não vermelheiem"
+  },
+  "Part-ter": {
+    "": "vermelheado"
+  },
+  "Part-ser": {
+    "ms": "vermelheado",
+    "fs": "vermelheada",
+    "mp": "vermelheados",
+    "fp": "vermelheadas"
+  }
+}

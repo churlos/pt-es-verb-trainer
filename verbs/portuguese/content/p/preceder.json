@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "preceder"
+  },
+  "InfP": {
+    "1s": "preceder",
+    "2s": "precederes",
+    "3s": "preceder",
+    "1p": "precedermos",
+    "2p": "precederdes",
+    "3p": "precederem"
+  },
+  "Ger": {
+    "": "precedendo"
+  },
+  "PresI": {
+    "1s": "precedo",
+    "2s": "precedes",
+    "3s": "precede",
+    "1p": "precedemos",
+    "2p": "precedeis",
+    "3p": "precedem"
+  },
+  "PImpI": {
+    "1s": "precedia",
+    "2s": "precedias",
+    "3s": "precedia",
+    "1p": "precedíamos",
+    "2p": "precedíeis",
+    "3p": "precediam"
+  },
+  "PPSI": {
+    "1s": "precedi",
+    "2s": "precedeste",
+    "3s": "precedeu",
+    "1p": "precedemos",
+    "2p": "precedestes",
+    "3p": "precederam"
+  },
+  "PMQPSI": {
+    "1s": "precedera",
+    "2s": "precederas",
+    "3s": "precedera",
+    "1p": "precedêramos",
+    "2p": "precedêreis",
+    "3p": "precederam"
+  },
+  "FutSI": {
+    "1s": "precederei",
+    "2s": "precederás",
+    "3s": "precederá",
+    "1p": "precederemos",
+    "2p": "precedereis",
+    "3p": "precederão"
+  },
+  "CondS": {
+    "1s": "precederia",
+    "2s": "precederias",
+    "3s": "precederia",
+    "1p": "precederíamos",
+    "2p": "precederíeis",
+    "3p": "precederiam"
+  },
+  "PresC": {
+    "1s": "preceda",
+    "2s": "precedas",
+    "3s": "preceda",
+    "1p": "precedamos",
+    "2p": "precedais",
+    "3p": "precedam"
+  },
+  "PImpC": {
+    "1s": "precedesse",
+    "2s": "precedesses",
+    "3s": "precedesse",
+    "1p": "precedêssemos",
+    "2p": "precedêsseis",
+    "3p": "precedessem"
+  },
+  "FutSC": {
+    "1s": "preceder",
+    "2s": "precederes",
+    "3s": "preceder",
+    "1p": "precedermos",
+    "2p": "precederdes",
+    "3p": "precederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "precede",
+    "3s": "preceda",
+    "1p": "precedamos",
+    "2p": "precedei",
+    "3p": "precedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não precedas",
+    "3s": "não preceda",
+    "1p": "não precedamos",
+    "2p": "não precedais",
+    "3p": "não precedam"
+  },
+  "Part-ter": {
+    "": "precedido"
+  },
+  "Part-ser": {
+    "ms": "precedido",
+    "fs": "precedida",
+    "mp": "precedidos",
+    "fp": "precedidas"
+  }
+}

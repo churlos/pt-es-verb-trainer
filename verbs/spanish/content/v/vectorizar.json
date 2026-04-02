@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vectorizar"
+  },
+  "Ger": {
+    "": "vectorizando"
+  },
+  "PresI": {
+    "1s": "vectorizo",
+    "2s": "vectorizas",
+    "3s": "vectoriza",
+    "1p": "vectorizamos",
+    "2p": "vectorizáis",
+    "3p": "vectorizan"
+  },
+  "PImpI": {
+    "1s": "vectorizaba",
+    "2s": "vectorizabas",
+    "3s": "vectorizaba",
+    "1p": "vectorizábamos",
+    "2p": "vectorizabais",
+    "3p": "vectorizaban"
+  },
+  "PPSI": {
+    "1s": "vectoricé",
+    "2s": "vectorizaste",
+    "3s": "vectorizó",
+    "1p": "vectorizamos",
+    "2p": "vectorizasteis",
+    "3p": "vectorizaron"
+  },
+  "FutSI": {
+    "1s": "vectorizaré",
+    "2s": "vectorizarás",
+    "3s": "vectorizará",
+    "1p": "vectorizaremos",
+    "2p": "vectorizaréis",
+    "3p": "vectorizarán"
+  },
+  "CondS": {
+    "1s": "vectorizaría",
+    "2s": "vectorizarías",
+    "3s": "vectorizaría",
+    "1p": "vectorizaríamos",
+    "2p": "vectorizaríais",
+    "3p": "vectorizarían"
+  },
+  "PresC": {
+    "1s": "vectorice",
+    "2s": "vectorices",
+    "3s": "vectorice",
+    "1p": "vectoricemos",
+    "2p": "vectoricéis",
+    "3p": "vectoricen"
+  },
+  "PMQPSI": {
+    "1s": "vectorizara",
+    "2s": "vectorizaras",
+    "3s": "vectorizara",
+    "1p": "vectorizáramos",
+    "2p": "vectorizarais",
+    "3p": "vectorizaran"
+  },
+  "PImpC": {
+    "1s": "vectorizase",
+    "2s": "vectorizases",
+    "3s": "vectorizase",
+    "1p": "vectorizásemos",
+    "2p": "vectorizaseis",
+    "3p": "vectorizasen"
+  },
+  "FutSC": {
+    "1s": "vectorizare",
+    "2s": "vectorizares",
+    "3s": "vectorizare",
+    "1p": "vectorizáremos",
+    "2p": "vectorizareis",
+    "3p": "vectorizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vectoriza",
+    "3s": "vectorice",
+    "1p": "vectoricemos",
+    "2p": "vectorizad",
+    "3p": "vectoricen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vectorices",
+    "3s": "no vectorice",
+    "1p": "no vectoricemos",
+    "2p": "no vectoricéis",
+    "3p": "no vectoricen"
+  },
+  "Part-ter": {
+    "": "vectorizado"
+  },
+  "Part-ser": {
+    "ms": "vectorizado",
+    "fs": "vectorizada",
+    "mp": "vectorizados",
+    "fp": "vectorizadas"
+  }
+}

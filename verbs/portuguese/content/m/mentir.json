@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mentir"
+  },
+  "InfP": {
+    "1s": "mentir",
+    "2s": "mentires",
+    "3s": "mentir",
+    "1p": "mentirmos",
+    "2p": "mentirdes",
+    "3p": "mentirem"
+  },
+  "Ger": {
+    "": "mentindo"
+  },
+  "PresI": {
+    "1s": "minto",
+    "2s": "mentes",
+    "3s": "mente",
+    "1p": "mentimos",
+    "2p": "mentis",
+    "3p": "mentem"
+  },
+  "PImpI": {
+    "1s": "mentia",
+    "2s": "mentias",
+    "3s": "mentia",
+    "1p": "mentíamos",
+    "2p": "mentíeis",
+    "3p": "mentiam"
+  },
+  "PPSI": {
+    "1s": "menti",
+    "2s": "mentiste",
+    "3s": "mentiu",
+    "1p": "mentimos",
+    "2p": "mentistes",
+    "3p": "mentiram"
+  },
+  "PMQPSI": {
+    "1s": "mentira",
+    "2s": "mentiras",
+    "3s": "mentira",
+    "1p": "mentíramos",
+    "2p": "mentíreis",
+    "3p": "mentiram"
+  },
+  "FutSI": {
+    "1s": "mentirei",
+    "2s": "mentirás",
+    "3s": "mentirá",
+    "1p": "mentiremos",
+    "2p": "mentireis",
+    "3p": "mentirão"
+  },
+  "CondS": {
+    "1s": "mentiria",
+    "2s": "mentirias",
+    "3s": "mentiria",
+    "1p": "mentiríamos",
+    "2p": "mentiríeis",
+    "3p": "mentiriam"
+  },
+  "PresC": {
+    "1s": "minta",
+    "2s": "mintas",
+    "3s": "minta",
+    "1p": "mintamos",
+    "2p": "mintais",
+    "3p": "mintam"
+  },
+  "PImpC": {
+    "1s": "mentisse",
+    "2s": "mentisses",
+    "3s": "mentisse",
+    "1p": "mentíssemos",
+    "2p": "mentísseis",
+    "3p": "mentissem"
+  },
+  "FutSC": {
+    "1s": "mentir",
+    "2s": "mentires",
+    "3s": "mentir",
+    "1p": "mentirmos",
+    "2p": "mentirdes",
+    "3p": "mentirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mente",
+    "3s": "minta",
+    "1p": "mintamos",
+    "2p": "menti",
+    "3p": "mintam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mintas",
+    "3s": "não minta",
+    "1p": "não mintamos",
+    "2p": "não mintais",
+    "3p": "não mintam"
+  },
+  "Part-ter": {
+    "": "mentido"
+  },
+  "Part-ser": {
+    "ms": "mentido",
+    "fs": "mentida",
+    "mp": "mentidos",
+    "fp": "mentidas"
+  }
+}

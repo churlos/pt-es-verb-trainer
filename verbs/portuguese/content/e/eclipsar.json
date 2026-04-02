@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "eclipsar"
+  },
+  "InfP": {
+    "1s": "eclipsar",
+    "2s": "eclipsares",
+    "3s": "eclipsar",
+    "1p": "eclipsarmos",
+    "2p": "eclipsardes",
+    "3p": "eclipsarem"
+  },
+  "Ger": {
+    "": "eclipsando"
+  },
+  "PresI": {
+    "1s": "eclipso",
+    "2s": "eclipsas",
+    "3s": "eclipsa",
+    "1p": "eclipsamos",
+    "2p": "eclipsais",
+    "3p": "eclipsam"
+  },
+  "PImpI": {
+    "1s": "eclipsava",
+    "2s": "eclipsavas",
+    "3s": "eclipsava",
+    "1p": "eclipsávamos",
+    "2p": "eclipsáveis",
+    "3p": "eclipsavam"
+  },
+  "PPSI": {
+    "1s": "eclipsei",
+    "2s": "eclipsaste",
+    "3s": "eclipsou",
+    "1p": "eclipsámos",
+    "2p": "eclipsastes",
+    "3p": "eclipsaram"
+  },
+  "PMQPSI": {
+    "1s": "eclipsara",
+    "2s": "eclipsaras",
+    "3s": "eclipsara",
+    "1p": "eclipsáramos",
+    "2p": "eclipsáreis",
+    "3p": "eclipsaram"
+  },
+  "FutSI": {
+    "1s": "eclipsarei",
+    "2s": "eclipsarás",
+    "3s": "eclipsará",
+    "1p": "eclipsaremos",
+    "2p": "eclipsareis",
+    "3p": "eclipsarão"
+  },
+  "CondS": {
+    "1s": "eclipsaria",
+    "2s": "eclipsarias",
+    "3s": "eclipsaria",
+    "1p": "eclipsaríamos",
+    "2p": "eclipsaríeis",
+    "3p": "eclipsariam"
+  },
+  "PresC": {
+    "1s": "eclipse",
+    "2s": "eclipses",
+    "3s": "eclipse",
+    "1p": "eclipsemos",
+    "2p": "eclipseis",
+    "3p": "eclipsem"
+  },
+  "PImpC": {
+    "1s": "eclipsasse",
+    "2s": "eclipsasses",
+    "3s": "eclipsasse",
+    "1p": "eclipsássemos",
+    "2p": "eclipsásseis",
+    "3p": "eclipsassem"
+  },
+  "FutSC": {
+    "1s": "eclipsar",
+    "2s": "eclipsares",
+    "3s": "eclipsar",
+    "1p": "eclipsarmos",
+    "2p": "eclipsardes",
+    "3p": "eclipsarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eclipsa",
+    "3s": "eclipse",
+    "1p": "eclipsemos",
+    "2p": "eclipsai",
+    "3p": "eclipsem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não eclipses",
+    "3s": "não eclipse",
+    "1p": "não eclipsemos",
+    "2p": "não eclipseis",
+    "3p": "não eclipsem"
+  },
+  "Part-ter": {
+    "": "eclipsado"
+  },
+  "Part-ser": {
+    "ms": "eclipsado",
+    "fs": "eclipsada",
+    "mp": "eclipsados",
+    "fp": "eclipsadas"
+  }
+}

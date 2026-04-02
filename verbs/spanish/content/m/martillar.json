@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "martillar"
+  },
+  "Ger": {
+    "": "martillando"
+  },
+  "PresI": {
+    "1s": "martillo",
+    "2s": "martillas",
+    "3s": "martilla",
+    "1p": "martillamos",
+    "2p": "martilláis",
+    "3p": "martillan"
+  },
+  "PImpI": {
+    "1s": "martillaba",
+    "2s": "martillabas",
+    "3s": "martillaba",
+    "1p": "martillábamos",
+    "2p": "martillabais",
+    "3p": "martillaban"
+  },
+  "PPSI": {
+    "1s": "martillé",
+    "2s": "martillaste",
+    "3s": "martilló",
+    "1p": "martillamos",
+    "2p": "martillasteis",
+    "3p": "martillaron"
+  },
+  "FutSI": {
+    "1s": "martillaré",
+    "2s": "martillarás",
+    "3s": "martillará",
+    "1p": "martillaremos",
+    "2p": "martillaréis",
+    "3p": "martillarán"
+  },
+  "CondS": {
+    "1s": "martillaría",
+    "2s": "martillarías",
+    "3s": "martillaría",
+    "1p": "martillaríamos",
+    "2p": "martillaríais",
+    "3p": "martillarían"
+  },
+  "PresC": {
+    "1s": "martille",
+    "2s": "martilles",
+    "3s": "martille",
+    "1p": "martillemos",
+    "2p": "martilléis",
+    "3p": "martillen"
+  },
+  "PMQPSI": {
+    "1s": "martillara",
+    "2s": "martillaras",
+    "3s": "martillara",
+    "1p": "martilláramos",
+    "2p": "martillarais",
+    "3p": "martillaran"
+  },
+  "PImpC": {
+    "1s": "martillase",
+    "2s": "martillases",
+    "3s": "martillase",
+    "1p": "martillásemos",
+    "2p": "martillaseis",
+    "3p": "martillasen"
+  },
+  "FutSC": {
+    "1s": "martillare",
+    "2s": "martillares",
+    "3s": "martillare",
+    "1p": "martilláremos",
+    "2p": "martillareis",
+    "3p": "martillaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "martilla",
+    "3s": "martille",
+    "1p": "martillemos",
+    "2p": "martillad",
+    "3p": "martillen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no martilles",
+    "3s": "no martille",
+    "1p": "no martillemos",
+    "2p": "no martilléis",
+    "3p": "no martillen"
+  },
+  "Part-ter": {
+    "": "martillado"
+  },
+  "Part-ser": {
+    "ms": "martillado",
+    "fs": "martillada",
+    "mp": "martillados",
+    "fp": "martilladas"
+  }
+}

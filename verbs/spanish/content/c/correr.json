@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "correr"
+  },
+  "Ger": {
+    "": "corriendo"
+  },
+  "PresI": {
+    "1s": "corro",
+    "2s": "corres",
+    "3s": "corre",
+    "1p": "corremos",
+    "2p": "corréis",
+    "3p": "corren"
+  },
+  "PImpI": {
+    "1s": "corría",
+    "2s": "corrías",
+    "3s": "corría",
+    "1p": "corríamos",
+    "2p": "corríais",
+    "3p": "corrían"
+  },
+  "PPSI": {
+    "1s": "corrí",
+    "2s": "corriste",
+    "3s": "corrió",
+    "1p": "corrimos",
+    "2p": "corristeis",
+    "3p": "corrieron"
+  },
+  "FutSI": {
+    "1s": "correré",
+    "2s": "correrás",
+    "3s": "correrá",
+    "1p": "correremos",
+    "2p": "correréis",
+    "3p": "correrán"
+  },
+  "CondS": {
+    "1s": "correría",
+    "2s": "correrías",
+    "3s": "correría",
+    "1p": "correríamos",
+    "2p": "correríais",
+    "3p": "correrían"
+  },
+  "PresC": {
+    "1s": "corra",
+    "2s": "corras",
+    "3s": "corra",
+    "1p": "corramos",
+    "2p": "corráis",
+    "3p": "corran"
+  },
+  "PMQPSI": {
+    "1s": "corriera",
+    "2s": "corrieras",
+    "3s": "corriera",
+    "1p": "corriéramos",
+    "2p": "corrierais",
+    "3p": "corrieran"
+  },
+  "PImpC": {
+    "1s": "corriese",
+    "2s": "corrieses",
+    "3s": "corriese",
+    "1p": "corriésemos",
+    "2p": "corrieseis",
+    "3p": "corriesen"
+  },
+  "FutSC": {
+    "1s": "corriere",
+    "2s": "corrieres",
+    "3s": "corriere",
+    "1p": "corriéremos",
+    "2p": "corriereis",
+    "3p": "corrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corre",
+    "3s": "corra",
+    "1p": "corramos",
+    "2p": "corred",
+    "3p": "corran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no corras",
+    "3s": "no corra",
+    "1p": "no corramos",
+    "2p": "no corráis",
+    "3p": "no corran"
+  },
+  "Part-ter": {
+    "": "corrido"
+  },
+  "Part-ser": {
+    "ms": "corrido",
+    "fs": "corrida",
+    "mp": "corridos",
+    "fp": "corridas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cesar"
+  },
+  "Ger": {
+    "": "cesando"
+  },
+  "PresI": {
+    "1s": "ceso",
+    "2s": "cesas",
+    "3s": "cesa",
+    "1p": "cesamos",
+    "2p": "cesáis",
+    "3p": "cesan"
+  },
+  "PImpI": {
+    "1s": "cesaba",
+    "2s": "cesabas",
+    "3s": "cesaba",
+    "1p": "cesábamos",
+    "2p": "cesabais",
+    "3p": "cesaban"
+  },
+  "PPSI": {
+    "1s": "cesé",
+    "2s": "cesaste",
+    "3s": "cesó",
+    "1p": "cesamos",
+    "2p": "cesasteis",
+    "3p": "cesaron"
+  },
+  "FutSI": {
+    "1s": "cesaré",
+    "2s": "cesarás",
+    "3s": "cesará",
+    "1p": "cesaremos",
+    "2p": "cesaréis",
+    "3p": "cesarán"
+  },
+  "CondS": {
+    "1s": "cesaría",
+    "2s": "cesarías",
+    "3s": "cesaría",
+    "1p": "cesaríamos",
+    "2p": "cesaríais",
+    "3p": "cesarían"
+  },
+  "PresC": {
+    "1s": "cese",
+    "2s": "ceses",
+    "3s": "cese",
+    "1p": "cesemos",
+    "2p": "ceséis",
+    "3p": "cesen"
+  },
+  "PMQPSI": {
+    "1s": "cesara",
+    "2s": "cesaras",
+    "3s": "cesara",
+    "1p": "cesáramos",
+    "2p": "cesarais",
+    "3p": "cesaran"
+  },
+  "PImpC": {
+    "1s": "cesase",
+    "2s": "cesases",
+    "3s": "cesase",
+    "1p": "cesásemos",
+    "2p": "cesaseis",
+    "3p": "cesasen"
+  },
+  "FutSC": {
+    "1s": "cesare",
+    "2s": "cesares",
+    "3s": "cesare",
+    "1p": "cesáremos",
+    "2p": "cesareis",
+    "3p": "cesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cesa",
+    "3s": "cese",
+    "1p": "cesemos",
+    "2p": "cesad",
+    "3p": "cesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ceses",
+    "3s": "no cese",
+    "1p": "no cesemos",
+    "2p": "no ceséis",
+    "3p": "no cesen"
+  },
+  "Part-ter": {
+    "": "cesado"
+  },
+  "Part-ser": {
+    "ms": "cesado",
+    "fs": "cesada",
+    "mp": "cesados",
+    "fp": "cesadas"
+  }
+}

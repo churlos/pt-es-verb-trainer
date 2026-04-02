@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "remodelar"
+  },
+  "InfP": {
+    "1s": "remodelar",
+    "2s": "remodelares",
+    "3s": "remodelar",
+    "1p": "remodelarmos",
+    "2p": "remodelardes",
+    "3p": "remodelarem"
+  },
+  "Ger": {
+    "": "remodelando"
+  },
+  "PresI": {
+    "1s": "remodelo",
+    "2s": "remodelas",
+    "3s": "remodela",
+    "1p": "remodelamos",
+    "2p": "remodelais",
+    "3p": "remodelam"
+  },
+  "PImpI": {
+    "1s": "remodelava",
+    "2s": "remodelavas",
+    "3s": "remodelava",
+    "1p": "remodelávamos",
+    "2p": "remodeláveis",
+    "3p": "remodelavam"
+  },
+  "PPSI": {
+    "1s": "remodelei",
+    "2s": "remodelaste",
+    "3s": "remodelou",
+    "1p": "remodelámos",
+    "2p": "remodelastes",
+    "3p": "remodelaram"
+  },
+  "PMQPSI": {
+    "1s": "remodelara",
+    "2s": "remodelaras",
+    "3s": "remodelara",
+    "1p": "remodeláramos",
+    "2p": "remodeláreis",
+    "3p": "remodelaram"
+  },
+  "FutSI": {
+    "1s": "remodelarei",
+    "2s": "remodelarás",
+    "3s": "remodelará",
+    "1p": "remodelaremos",
+    "2p": "remodelareis",
+    "3p": "remodelarão"
+  },
+  "CondS": {
+    "1s": "remodelaria",
+    "2s": "remodelarias",
+    "3s": "remodelaria",
+    "1p": "remodelaríamos",
+    "2p": "remodelaríeis",
+    "3p": "remodelariam"
+  },
+  "PresC": {
+    "1s": "remodele",
+    "2s": "remodeles",
+    "3s": "remodele",
+    "1p": "remodelemos",
+    "2p": "remodeleis",
+    "3p": "remodelem"
+  },
+  "PImpC": {
+    "1s": "remodelasse",
+    "2s": "remodelasses",
+    "3s": "remodelasse",
+    "1p": "remodelássemos",
+    "2p": "remodelásseis",
+    "3p": "remodelassem"
+  },
+  "FutSC": {
+    "1s": "remodelar",
+    "2s": "remodelares",
+    "3s": "remodelar",
+    "1p": "remodelarmos",
+    "2p": "remodelardes",
+    "3p": "remodelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remodela",
+    "3s": "remodele",
+    "1p": "remodelemos",
+    "2p": "remodelai",
+    "3p": "remodelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não remodeles",
+    "3s": "não remodele",
+    "1p": "não remodelemos",
+    "2p": "não remodeleis",
+    "3p": "não remodelem"
+  },
+  "Part-ter": {
+    "": "remodelado"
+  },
+  "Part-ser": {
+    "ms": "remodelado",
+    "fs": "remodelada",
+    "mp": "remodelados",
+    "fp": "remodeladas"
+  }
+}

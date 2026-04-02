@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espumar"
+  },
+  "InfP": {
+    "1s": "espumar",
+    "2s": "espumares",
+    "3s": "espumar",
+    "1p": "espumarmos",
+    "2p": "espumardes",
+    "3p": "espumarem"
+  },
+  "Ger": {
+    "": "espumando"
+  },
+  "PresI": {
+    "1s": "espumo",
+    "2s": "espumas",
+    "3s": "espuma",
+    "1p": "espumamos",
+    "2p": "espumais",
+    "3p": "espumam"
+  },
+  "PImpI": {
+    "1s": "espumava",
+    "2s": "espumavas",
+    "3s": "espumava",
+    "1p": "espumávamos",
+    "2p": "espumáveis",
+    "3p": "espumavam"
+  },
+  "PPSI": {
+    "1s": "espumei",
+    "2s": "espumaste",
+    "3s": "espumou",
+    "1p": "espumámos",
+    "2p": "espumastes",
+    "3p": "espumaram"
+  },
+  "PMQPSI": {
+    "1s": "espumara",
+    "2s": "espumaras",
+    "3s": "espumara",
+    "1p": "espumáramos",
+    "2p": "espumáreis",
+    "3p": "espumaram"
+  },
+  "FutSI": {
+    "1s": "espumarei",
+    "2s": "espumarás",
+    "3s": "espumará",
+    "1p": "espumaremos",
+    "2p": "espumareis",
+    "3p": "espumarão"
+  },
+  "CondS": {
+    "1s": "espumaria",
+    "2s": "espumarias",
+    "3s": "espumaria",
+    "1p": "espumaríamos",
+    "2p": "espumaríeis",
+    "3p": "espumariam"
+  },
+  "PresC": {
+    "1s": "espume",
+    "2s": "espumes",
+    "3s": "espume",
+    "1p": "espumemos",
+    "2p": "espumeis",
+    "3p": "espumem"
+  },
+  "PImpC": {
+    "1s": "espumasse",
+    "2s": "espumasses",
+    "3s": "espumasse",
+    "1p": "espumássemos",
+    "2p": "espumásseis",
+    "3p": "espumassem"
+  },
+  "FutSC": {
+    "1s": "espumar",
+    "2s": "espumares",
+    "3s": "espumar",
+    "1p": "espumarmos",
+    "2p": "espumardes",
+    "3p": "espumarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espuma",
+    "3s": "espume",
+    "1p": "espumemos",
+    "2p": "espumai",
+    "3p": "espumem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espumes",
+    "3s": "não espume",
+    "1p": "não espumemos",
+    "2p": "não espumeis",
+    "3p": "não espumem"
+  },
+  "Part-ter": {
+    "": "espumado"
+  },
+  "Part-ser": {
+    "ms": "espumado",
+    "fs": "espumada",
+    "mp": "espumados",
+    "fp": "espumadas"
+  }
+}

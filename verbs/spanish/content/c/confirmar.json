@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "confirmar"
+  },
+  "Ger": {
+    "": "confirmando"
+  },
+  "PresI": {
+    "1s": "confirmo",
+    "2s": "confirmas",
+    "3s": "confirma",
+    "1p": "confirmamos",
+    "2p": "confirmáis",
+    "3p": "confirman"
+  },
+  "PImpI": {
+    "1s": "confirmaba",
+    "2s": "confirmabas",
+    "3s": "confirmaba",
+    "1p": "confirmábamos",
+    "2p": "confirmabais",
+    "3p": "confirmaban"
+  },
+  "PPSI": {
+    "1s": "confirmé",
+    "2s": "confirmaste",
+    "3s": "confirmó",
+    "1p": "confirmamos",
+    "2p": "confirmasteis",
+    "3p": "confirmaron"
+  },
+  "FutSI": {
+    "1s": "confirmaré",
+    "2s": "confirmarás",
+    "3s": "confirmará",
+    "1p": "confirmaremos",
+    "2p": "confirmaréis",
+    "3p": "confirmarán"
+  },
+  "CondS": {
+    "1s": "confirmaría",
+    "2s": "confirmarías",
+    "3s": "confirmaría",
+    "1p": "confirmaríamos",
+    "2p": "confirmaríais",
+    "3p": "confirmarían"
+  },
+  "PresC": {
+    "1s": "confirme",
+    "2s": "confirmes",
+    "3s": "confirme",
+    "1p": "confirmemos",
+    "2p": "confirméis",
+    "3p": "confirmen"
+  },
+  "PMQPSI": {
+    "1s": "confirmara",
+    "2s": "confirmaras",
+    "3s": "confirmara",
+    "1p": "confirmáramos",
+    "2p": "confirmarais",
+    "3p": "confirmaran"
+  },
+  "PImpC": {
+    "1s": "confirmase",
+    "2s": "confirmases",
+    "3s": "confirmase",
+    "1p": "confirmásemos",
+    "2p": "confirmaseis",
+    "3p": "confirmasen"
+  },
+  "FutSC": {
+    "1s": "confirmare",
+    "2s": "confirmares",
+    "3s": "confirmare",
+    "1p": "confirmáremos",
+    "2p": "confirmareis",
+    "3p": "confirmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "confirma",
+    "3s": "confirme",
+    "1p": "confirmemos",
+    "2p": "confirmad",
+    "3p": "confirmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no confirmes",
+    "3s": "no confirme",
+    "1p": "no confirmemos",
+    "2p": "no confirméis",
+    "3p": "no confirmen"
+  },
+  "Part-ter": {
+    "": "confirmado"
+  },
+  "Part-ser": {
+    "ms": "confirmado",
+    "fs": "confirmada",
+    "mp": "confirmados",
+    "fp": "confirmadas"
+  }
+}

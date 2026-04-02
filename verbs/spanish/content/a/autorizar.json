@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autorizar"
+  },
+  "Ger": {
+    "": "autorizando"
+  },
+  "PresI": {
+    "1s": "autorizo",
+    "2s": "autorizas",
+    "3s": "autoriza",
+    "1p": "autorizamos",
+    "2p": "autorizáis",
+    "3p": "autorizan"
+  },
+  "PImpI": {
+    "1s": "autorizaba",
+    "2s": "autorizabas",
+    "3s": "autorizaba",
+    "1p": "autorizábamos",
+    "2p": "autorizabais",
+    "3p": "autorizaban"
+  },
+  "PPSI": {
+    "1s": "autoricé",
+    "2s": "autorizaste",
+    "3s": "autorizó",
+    "1p": "autorizamos",
+    "2p": "autorizasteis",
+    "3p": "autorizaron"
+  },
+  "FutSI": {
+    "1s": "autorizaré",
+    "2s": "autorizarás",
+    "3s": "autorizará",
+    "1p": "autorizaremos",
+    "2p": "autorizaréis",
+    "3p": "autorizarán"
+  },
+  "CondS": {
+    "1s": "autorizaría",
+    "2s": "autorizarías",
+    "3s": "autorizaría",
+    "1p": "autorizaríamos",
+    "2p": "autorizaríais",
+    "3p": "autorizarían"
+  },
+  "PresC": {
+    "1s": "autorice",
+    "2s": "autorices",
+    "3s": "autorice",
+    "1p": "autoricemos",
+    "2p": "autoricéis",
+    "3p": "autoricen"
+  },
+  "PMQPSI": {
+    "1s": "autorizara",
+    "2s": "autorizaras",
+    "3s": "autorizara",
+    "1p": "autorizáramos",
+    "2p": "autorizarais",
+    "3p": "autorizaran"
+  },
+  "PImpC": {
+    "1s": "autorizase",
+    "2s": "autorizases",
+    "3s": "autorizase",
+    "1p": "autorizásemos",
+    "2p": "autorizaseis",
+    "3p": "autorizasen"
+  },
+  "FutSC": {
+    "1s": "autorizare",
+    "2s": "autorizares",
+    "3s": "autorizare",
+    "1p": "autorizáremos",
+    "2p": "autorizareis",
+    "3p": "autorizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoriza",
+    "3s": "autorice",
+    "1p": "autoricemos",
+    "2p": "autorizad",
+    "3p": "autoricen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autorices",
+    "3s": "no autorice",
+    "1p": "no autoricemos",
+    "2p": "no autoricéis",
+    "3p": "no autoricen"
+  },
+  "Part-ter": {
+    "": "autorizado"
+  },
+  "Part-ser": {
+    "ms": "autorizado",
+    "fs": "autorizada",
+    "mp": "autorizados",
+    "fp": "autorizadas"
+  }
+}

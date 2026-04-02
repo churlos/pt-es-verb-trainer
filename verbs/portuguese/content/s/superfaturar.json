@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "superfaturar"
+  },
+  "InfP": {
+    "1s": "superfaturar",
+    "2s": "superfaturares",
+    "3s": "superfaturar",
+    "1p": "superfaturarmos",
+    "2p": "superfaturardes",
+    "3p": "superfaturarem"
+  },
+  "Ger": {
+    "": "superfaturando"
+  },
+  "PresI": {
+    "1s": "superfaturo",
+    "2s": "superfaturas",
+    "3s": "superfatura",
+    "1p": "superfaturamos",
+    "2p": "superfaturais",
+    "3p": "superfaturam"
+  },
+  "PImpI": {
+    "1s": "superfaturava",
+    "2s": "superfaturavas",
+    "3s": "superfaturava",
+    "1p": "superfaturávamos",
+    "2p": "superfaturáveis",
+    "3p": "superfaturavam"
+  },
+  "PPSI": {
+    "1s": "superfaturei",
+    "2s": "superfaturaste",
+    "3s": "superfaturou",
+    "1p": "superfaturámos",
+    "2p": "superfaturastes",
+    "3p": "superfaturaram"
+  },
+  "PMQPSI": {
+    "1s": "superfaturara",
+    "2s": "superfaturaras",
+    "3s": "superfaturara",
+    "1p": "superfaturáramos",
+    "2p": "superfaturáreis",
+    "3p": "superfaturaram"
+  },
+  "FutSI": {
+    "1s": "superfaturarei",
+    "2s": "superfaturarás",
+    "3s": "superfaturará",
+    "1p": "superfaturaremos",
+    "2p": "superfaturareis",
+    "3p": "superfaturarão"
+  },
+  "CondS": {
+    "1s": "superfaturaria",
+    "2s": "superfaturarias",
+    "3s": "superfaturaria",
+    "1p": "superfaturaríamos",
+    "2p": "superfaturaríeis",
+    "3p": "superfaturariam"
+  },
+  "PresC": {
+    "1s": "superfature",
+    "2s": "superfatures",
+    "3s": "superfature",
+    "1p": "superfaturemos",
+    "2p": "superfatureis",
+    "3p": "superfaturem"
+  },
+  "PImpC": {
+    "1s": "superfaturasse",
+    "2s": "superfaturasses",
+    "3s": "superfaturasse",
+    "1p": "superfaturássemos",
+    "2p": "superfaturásseis",
+    "3p": "superfaturassem"
+  },
+  "FutSC": {
+    "1s": "superfaturar",
+    "2s": "superfaturares",
+    "3s": "superfaturar",
+    "1p": "superfaturarmos",
+    "2p": "superfaturardes",
+    "3p": "superfaturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "superfatura",
+    "3s": "superfature",
+    "1p": "superfaturemos",
+    "2p": "superfaturai",
+    "3p": "superfaturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não superfatures",
+    "3s": "não superfature",
+    "1p": "não superfaturemos",
+    "2p": "não superfatureis",
+    "3p": "não superfaturem"
+  },
+  "Part-ter": {
+    "": "superfaturado"
+  },
+  "Part-ser": {
+    "ms": "superfaturado",
+    "fs": "superfaturada",
+    "mp": "superfaturados",
+    "fp": "superfaturadas"
+  }
+}

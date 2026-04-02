@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "guardar"
+  },
+  "InfP": {
+    "1s": "guardar",
+    "2s": "guardares",
+    "3s": "guardar",
+    "1p": "guardarmos",
+    "2p": "guardardes",
+    "3p": "guardarem"
+  },
+  "Ger": {
+    "": "guardando"
+  },
+  "PresI": {
+    "1s": "guardo",
+    "2s": "guardas",
+    "3s": "guarda",
+    "1p": "guardamos",
+    "2p": "guardais",
+    "3p": "guardam"
+  },
+  "PImpI": {
+    "1s": "guardava",
+    "2s": "guardavas",
+    "3s": "guardava",
+    "1p": "guardávamos",
+    "2p": "guardáveis",
+    "3p": "guardavam"
+  },
+  "PPSI": {
+    "1s": "guardei",
+    "2s": "guardaste",
+    "3s": "guardou",
+    "1p": "guardámos",
+    "2p": "guardastes",
+    "3p": "guardaram"
+  },
+  "PMQPSI": {
+    "1s": "guardara",
+    "2s": "guardaras",
+    "3s": "guardara",
+    "1p": "guardáramos",
+    "2p": "guardáreis",
+    "3p": "guardaram"
+  },
+  "FutSI": {
+    "1s": "guardarei",
+    "2s": "guardarás",
+    "3s": "guardará",
+    "1p": "guardaremos",
+    "2p": "guardareis",
+    "3p": "guardarão"
+  },
+  "CondS": {
+    "1s": "guardaria",
+    "2s": "guardarias",
+    "3s": "guardaria",
+    "1p": "guardaríamos",
+    "2p": "guardaríeis",
+    "3p": "guardariam"
+  },
+  "PresC": {
+    "1s": "guarde",
+    "2s": "guardes",
+    "3s": "guarde",
+    "1p": "guardemos",
+    "2p": "guardeis",
+    "3p": "guardem"
+  },
+  "PImpC": {
+    "1s": "guardasse",
+    "2s": "guardasses",
+    "3s": "guardasse",
+    "1p": "guardássemos",
+    "2p": "guardásseis",
+    "3p": "guardassem"
+  },
+  "FutSC": {
+    "1s": "guardar",
+    "2s": "guardares",
+    "3s": "guardar",
+    "1p": "guardarmos",
+    "2p": "guardardes",
+    "3p": "guardarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guarda",
+    "3s": "guarde",
+    "1p": "guardemos",
+    "2p": "guardai",
+    "3p": "guardem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não guardes",
+    "3s": "não guarde",
+    "1p": "não guardemos",
+    "2p": "não guardeis",
+    "3p": "não guardem"
+  },
+  "Part-ter": {
+    "": "guardado"
+  },
+  "Part-ser": {
+    "ms": "guardado",
+    "fs": "guardada",
+    "mp": "guardados",
+    "fp": "guardadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "descontar"
+  },
+  "InfP": {
+    "1s": "descontar",
+    "2s": "descontares",
+    "3s": "descontar",
+    "1p": "descontarmos",
+    "2p": "descontardes",
+    "3p": "descontarem"
+  },
+  "Ger": {
+    "": "descontando"
+  },
+  "PresI": {
+    "1s": "desconto",
+    "2s": "descontas",
+    "3s": "desconta",
+    "1p": "descontamos",
+    "2p": "descontais",
+    "3p": "descontam"
+  },
+  "PImpI": {
+    "1s": "descontava",
+    "2s": "descontavas",
+    "3s": "descontava",
+    "1p": "descontávamos",
+    "2p": "descontáveis",
+    "3p": "descontavam"
+  },
+  "PPSI": {
+    "1s": "descontei",
+    "2s": "descontaste",
+    "3s": "descontou",
+    "1p": "descontámos",
+    "2p": "descontastes",
+    "3p": "descontaram"
+  },
+  "PMQPSI": {
+    "1s": "descontara",
+    "2s": "descontaras",
+    "3s": "descontara",
+    "1p": "descontáramos",
+    "2p": "descontáreis",
+    "3p": "descontaram"
+  },
+  "FutSI": {
+    "1s": "descontarei",
+    "2s": "descontarás",
+    "3s": "descontará",
+    "1p": "descontaremos",
+    "2p": "descontareis",
+    "3p": "descontarão"
+  },
+  "CondS": {
+    "1s": "descontaria",
+    "2s": "descontarias",
+    "3s": "descontaria",
+    "1p": "descontaríamos",
+    "2p": "descontaríeis",
+    "3p": "descontariam"
+  },
+  "PresC": {
+    "1s": "desconte",
+    "2s": "descontes",
+    "3s": "desconte",
+    "1p": "descontemos",
+    "2p": "desconteis",
+    "3p": "descontem"
+  },
+  "PImpC": {
+    "1s": "descontasse",
+    "2s": "descontasses",
+    "3s": "descontasse",
+    "1p": "descontássemos",
+    "2p": "descontásseis",
+    "3p": "descontassem"
+  },
+  "FutSC": {
+    "1s": "descontar",
+    "2s": "descontares",
+    "3s": "descontar",
+    "1p": "descontarmos",
+    "2p": "descontardes",
+    "3p": "descontarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desconta",
+    "3s": "desconte",
+    "1p": "descontemos",
+    "2p": "descontai",
+    "3p": "descontem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não descontes",
+    "3s": "não desconte",
+    "1p": "não descontemos",
+    "2p": "não desconteis",
+    "3p": "não descontem"
+  },
+  "Part-ter": {
+    "": "descontado"
+  },
+  "Part-ser": {
+    "ms": "descontado",
+    "fs": "descontada",
+    "mp": "descontados",
+    "fp": "descontadas"
+  }
+}

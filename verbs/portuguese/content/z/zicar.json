@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "zicar"
+  },
+  "InfP": {
+    "1s": "zicar",
+    "2s": "zicares",
+    "3s": "zicar",
+    "1p": "zicarmos",
+    "2p": "zicardes",
+    "3p": "zicarem"
+  },
+  "Ger": {
+    "": "zicando"
+  },
+  "PresI": {
+    "1s": "zico",
+    "2s": "zicas",
+    "3s": "zica",
+    "1p": "zicamos",
+    "2p": "zicais",
+    "3p": "zicam"
+  },
+  "PImpI": {
+    "1s": "zicava",
+    "2s": "zicavas",
+    "3s": "zicava",
+    "1p": "zicávamos",
+    "2p": "zicáveis",
+    "3p": "zicavam"
+  },
+  "PPSI": {
+    "1s": "ziquei",
+    "2s": "zicaste",
+    "3s": "zicou",
+    "1p": "zicámos",
+    "2p": "zicastes",
+    "3p": "zicaram"
+  },
+  "PMQPSI": {
+    "1s": "zicara",
+    "2s": "zicaras",
+    "3s": "zicara",
+    "1p": "zicáramos",
+    "2p": "zicáreis",
+    "3p": "zicaram"
+  },
+  "FutSI": {
+    "1s": "zicarei",
+    "2s": "zicarás",
+    "3s": "zicará",
+    "1p": "zicaremos",
+    "2p": "zicareis",
+    "3p": "zicarão"
+  },
+  "CondS": {
+    "1s": "zicaria",
+    "2s": "zicarias",
+    "3s": "zicaria",
+    "1p": "zicaríamos",
+    "2p": "zicaríeis",
+    "3p": "zicariam"
+  },
+  "PresC": {
+    "1s": "zique",
+    "2s": "ziques",
+    "3s": "zique",
+    "1p": "ziquemos",
+    "2p": "ziqueis",
+    "3p": "ziquem"
+  },
+  "PImpC": {
+    "1s": "zicasse",
+    "2s": "zicasses",
+    "3s": "zicasse",
+    "1p": "zicássemos",
+    "2p": "zicásseis",
+    "3p": "zicassem"
+  },
+  "FutSC": {
+    "1s": "zicar",
+    "2s": "zicares",
+    "3s": "zicar",
+    "1p": "zicarmos",
+    "2p": "zicardes",
+    "3p": "zicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zica",
+    "3s": "zique",
+    "1p": "ziquemos",
+    "2p": "zicai",
+    "3p": "ziquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ziques",
+    "3s": "não zique",
+    "1p": "não ziquemos",
+    "2p": "não ziqueis",
+    "3p": "não ziquem"
+  },
+  "Part-ter": {
+    "": "zicado"
+  },
+  "Part-ser": {
+    "ms": "zicado",
+    "fs": "zicada",
+    "mp": "zicados",
+    "fp": "zicadas"
+  }
+}

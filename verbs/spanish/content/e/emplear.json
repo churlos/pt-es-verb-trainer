@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "emplear"
+  },
+  "Ger": {
+    "": "empleando"
+  },
+  "PresI": {
+    "1s": "empleo",
+    "2s": "empleas",
+    "3s": "emplea",
+    "1p": "empleamos",
+    "2p": "empleáis",
+    "3p": "emplean"
+  },
+  "PImpI": {
+    "1s": "empleaba",
+    "2s": "empleabas",
+    "3s": "empleaba",
+    "1p": "empleábamos",
+    "2p": "empleabais",
+    "3p": "empleaban"
+  },
+  "PPSI": {
+    "1s": "empleé",
+    "2s": "empleaste",
+    "3s": "empleó",
+    "1p": "empleamos",
+    "2p": "empleasteis",
+    "3p": "emplearon"
+  },
+  "FutSI": {
+    "1s": "emplearé",
+    "2s": "emplearás",
+    "3s": "empleará",
+    "1p": "emplearemos",
+    "2p": "emplearéis",
+    "3p": "emplearán"
+  },
+  "CondS": {
+    "1s": "emplearía",
+    "2s": "emplearías",
+    "3s": "emplearía",
+    "1p": "emplearíamos",
+    "2p": "emplearíais",
+    "3p": "emplearían"
+  },
+  "PresC": {
+    "1s": "emplee",
+    "2s": "emplees",
+    "3s": "emplee",
+    "1p": "empleemos",
+    "2p": "empleéis",
+    "3p": "empleen"
+  },
+  "PMQPSI": {
+    "1s": "empleara",
+    "2s": "emplearas",
+    "3s": "empleara",
+    "1p": "empleáramos",
+    "2p": "emplearais",
+    "3p": "emplearan"
+  },
+  "PImpC": {
+    "1s": "emplease",
+    "2s": "empleases",
+    "3s": "emplease",
+    "1p": "empleásemos",
+    "2p": "empleaseis",
+    "3p": "empleasen"
+  },
+  "FutSC": {
+    "1s": "empleare",
+    "2s": "empleares",
+    "3s": "empleare",
+    "1p": "empleáremos",
+    "2p": "empleareis",
+    "3p": "emplearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emplea",
+    "3s": "emplee",
+    "1p": "empleemos",
+    "2p": "emplead",
+    "3p": "empleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no emplees",
+    "3s": "no emplee",
+    "1p": "no empleemos",
+    "2p": "no empleéis",
+    "3p": "no empleen"
+  },
+  "Part-ter": {
+    "": "empleado"
+  },
+  "Part-ser": {
+    "ms": "empleado",
+    "fs": "empleada",
+    "mp": "empleados",
+    "fp": "empleadas"
+  }
+}

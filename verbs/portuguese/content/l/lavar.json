@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lavar"
+  },
+  "InfP": {
+    "1s": "lavar",
+    "2s": "lavares",
+    "3s": "lavar",
+    "1p": "lavarmos",
+    "2p": "lavardes",
+    "3p": "lavarem"
+  },
+  "Ger": {
+    "": "lavando"
+  },
+  "PresI": {
+    "1s": "lavo",
+    "2s": "lavas",
+    "3s": "lava",
+    "1p": "lavamos",
+    "2p": "lavais",
+    "3p": "lavam"
+  },
+  "PImpI": {
+    "1s": "lavava",
+    "2s": "lavavas",
+    "3s": "lavava",
+    "1p": "lavávamos",
+    "2p": "laváveis",
+    "3p": "lavavam"
+  },
+  "PPSI": {
+    "1s": "lavei",
+    "2s": "lavaste",
+    "3s": "lavou",
+    "1p": "lavámos",
+    "2p": "lavastes",
+    "3p": "lavaram"
+  },
+  "PMQPSI": {
+    "1s": "lavara",
+    "2s": "lavaras",
+    "3s": "lavara",
+    "1p": "laváramos",
+    "2p": "laváreis",
+    "3p": "lavaram"
+  },
+  "FutSI": {
+    "1s": "lavarei",
+    "2s": "lavarás",
+    "3s": "lavará",
+    "1p": "lavaremos",
+    "2p": "lavareis",
+    "3p": "lavarão"
+  },
+  "CondS": {
+    "1s": "lavaria",
+    "2s": "lavarias",
+    "3s": "lavaria",
+    "1p": "lavaríamos",
+    "2p": "lavaríeis",
+    "3p": "lavariam"
+  },
+  "PresC": {
+    "1s": "lave",
+    "2s": "laves",
+    "3s": "lave",
+    "1p": "lavemos",
+    "2p": "laveis",
+    "3p": "lavem"
+  },
+  "PImpC": {
+    "1s": "lavasse",
+    "2s": "lavasses",
+    "3s": "lavasse",
+    "1p": "lavássemos",
+    "2p": "lavásseis",
+    "3p": "lavassem"
+  },
+  "FutSC": {
+    "1s": "lavar",
+    "2s": "lavares",
+    "3s": "lavar",
+    "1p": "lavarmos",
+    "2p": "lavardes",
+    "3p": "lavarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lava",
+    "3s": "lave",
+    "1p": "lavemos",
+    "2p": "lavai",
+    "3p": "lavem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não laves",
+    "3s": "não lave",
+    "1p": "não lavemos",
+    "2p": "não laveis",
+    "3p": "não lavem"
+  },
+  "Part-ter": {
+    "": "lavado"
+  },
+  "Part-ser": {
+    "ms": "lavado",
+    "fs": "lavada",
+    "mp": "lavados",
+    "fp": "lavadas"
+  }
+}

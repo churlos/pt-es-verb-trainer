@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amoscar"
+  },
+  "Ger": {
+    "": "amoscando"
+  },
+  "PresI": {
+    "1s": "amosco",
+    "2s": "amoscas",
+    "3s": "amosca",
+    "1p": "amoscamos",
+    "2p": "amoscáis",
+    "3p": "amoscan"
+  },
+  "PImpI": {
+    "1s": "amoscaba",
+    "2s": "amoscabas",
+    "3s": "amoscaba",
+    "1p": "amoscábamos",
+    "2p": "amoscabais",
+    "3p": "amoscaban"
+  },
+  "PPSI": {
+    "1s": "amosqué",
+    "2s": "amoscaste",
+    "3s": "amoscó",
+    "1p": "amoscamos",
+    "2p": "amoscasteis",
+    "3p": "amoscaron"
+  },
+  "FutSI": {
+    "1s": "amoscaré",
+    "2s": "amoscarás",
+    "3s": "amoscará",
+    "1p": "amoscaremos",
+    "2p": "amoscaréis",
+    "3p": "amoscarán"
+  },
+  "CondS": {
+    "1s": "amoscaría",
+    "2s": "amoscarías",
+    "3s": "amoscaría",
+    "1p": "amoscaríamos",
+    "2p": "amoscaríais",
+    "3p": "amoscarían"
+  },
+  "PresC": {
+    "1s": "amosque",
+    "2s": "amosques",
+    "3s": "amosque",
+    "1p": "amosquemos",
+    "2p": "amosquéis",
+    "3p": "amosquen"
+  },
+  "PMQPSI": {
+    "1s": "amoscara",
+    "2s": "amoscaras",
+    "3s": "amoscara",
+    "1p": "amoscáramos",
+    "2p": "amoscarais",
+    "3p": "amoscaran"
+  },
+  "PImpC": {
+    "1s": "amoscase",
+    "2s": "amoscases",
+    "3s": "amoscase",
+    "1p": "amoscásemos",
+    "2p": "amoscaseis",
+    "3p": "amoscasen"
+  },
+  "FutSC": {
+    "1s": "amoscare",
+    "2s": "amoscares",
+    "3s": "amoscare",
+    "1p": "amoscáremos",
+    "2p": "amoscareis",
+    "3p": "amoscaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amosca",
+    "3s": "amosque",
+    "1p": "amosquemos",
+    "2p": "amoscad",
+    "3p": "amosquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amosques",
+    "3s": "no amosque",
+    "1p": "no amosquemos",
+    "2p": "no amosquéis",
+    "3p": "no amosquen"
+  },
+  "Part-ter": {
+    "": "amoscado"
+  },
+  "Part-ser": {
+    "ms": "amoscado",
+    "fs": "amoscada",
+    "mp": "amoscados",
+    "fp": "amoscadas"
+  }
+}

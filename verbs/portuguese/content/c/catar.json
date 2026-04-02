@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "catar"
+  },
+  "InfP": {
+    "1s": "catar",
+    "2s": "catares",
+    "3s": "catar",
+    "1p": "catarmos",
+    "2p": "catardes",
+    "3p": "catarem"
+  },
+  "Ger": {
+    "": "catando"
+  },
+  "PresI": {
+    "1s": "cato",
+    "2s": "catas",
+    "3s": "cata",
+    "1p": "catamos",
+    "2p": "catais",
+    "3p": "catam"
+  },
+  "PImpI": {
+    "1s": "catava",
+    "2s": "catavas",
+    "3s": "catava",
+    "1p": "catávamos",
+    "2p": "catáveis",
+    "3p": "catavam"
+  },
+  "PPSI": {
+    "1s": "catei",
+    "2s": "cataste",
+    "3s": "catou",
+    "1p": "catámos",
+    "2p": "catastes",
+    "3p": "cataram"
+  },
+  "PMQPSI": {
+    "1s": "catara",
+    "2s": "cataras",
+    "3s": "catara",
+    "1p": "catáramos",
+    "2p": "catáreis",
+    "3p": "cataram"
+  },
+  "FutSI": {
+    "1s": "catarei",
+    "2s": "catarás",
+    "3s": "catará",
+    "1p": "cataremos",
+    "2p": "catareis",
+    "3p": "catarão"
+  },
+  "CondS": {
+    "1s": "cataria",
+    "2s": "catarias",
+    "3s": "cataria",
+    "1p": "cataríamos",
+    "2p": "cataríeis",
+    "3p": "catariam"
+  },
+  "PresC": {
+    "1s": "cate",
+    "2s": "cates",
+    "3s": "cate",
+    "1p": "catemos",
+    "2p": "cateis",
+    "3p": "catem"
+  },
+  "PImpC": {
+    "1s": "catasse",
+    "2s": "catasses",
+    "3s": "catasse",
+    "1p": "catássemos",
+    "2p": "catásseis",
+    "3p": "catassem"
+  },
+  "FutSC": {
+    "1s": "catar",
+    "2s": "catares",
+    "3s": "catar",
+    "1p": "catarmos",
+    "2p": "catardes",
+    "3p": "catarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cata",
+    "3s": "cate",
+    "1p": "catemos",
+    "2p": "catai",
+    "3p": "catem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cates",
+    "3s": "não cate",
+    "1p": "não catemos",
+    "2p": "não cateis",
+    "3p": "não catem"
+  },
+  "Part-ter": {
+    "": "catado"
+  },
+  "Part-ser": {
+    "ms": "catado",
+    "fs": "catada",
+    "mp": "catados",
+    "fp": "catadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "emerger"
+  },
+  "Ger": {
+    "": "emergiendo"
+  },
+  "PresI": {
+    "1s": "emerjo",
+    "2s": "emerges",
+    "3s": "emerge",
+    "1p": "emergemos",
+    "2p": "emergéis",
+    "3p": "emergen"
+  },
+  "PImpI": {
+    "1s": "emergía",
+    "2s": "emergías",
+    "3s": "emergía",
+    "1p": "emergíamos",
+    "2p": "emergíais",
+    "3p": "emergían"
+  },
+  "PPSI": {
+    "1s": "emergí",
+    "2s": "emergiste",
+    "3s": "emergió",
+    "1p": "emergimos",
+    "2p": "emergisteis",
+    "3p": "emergieron"
+  },
+  "FutSI": {
+    "1s": "emergeré",
+    "2s": "emergerás",
+    "3s": "emergerá",
+    "1p": "emergeremos",
+    "2p": "emergeréis",
+    "3p": "emergerán"
+  },
+  "CondS": {
+    "1s": "emergería",
+    "2s": "emergerías",
+    "3s": "emergería",
+    "1p": "emergeríamos",
+    "2p": "emergeríais",
+    "3p": "emergerían"
+  },
+  "PresC": {
+    "1s": "emerja",
+    "2s": "emerjas",
+    "3s": "emerja",
+    "1p": "emerjamos",
+    "2p": "emerjáis",
+    "3p": "emerjan"
+  },
+  "PMQPSI": {
+    "1s": "emergiera",
+    "2s": "emergieras",
+    "3s": "emergiera",
+    "1p": "emergiéramos",
+    "2p": "emergierais",
+    "3p": "emergieran"
+  },
+  "PImpC": {
+    "1s": "emergiese",
+    "2s": "emergieses",
+    "3s": "emergiese",
+    "1p": "emergiésemos",
+    "2p": "emergieseis",
+    "3p": "emergiesen"
+  },
+  "FutSC": {
+    "1s": "emergiere",
+    "2s": "emergieres",
+    "3s": "emergiere",
+    "1p": "emergiéremos",
+    "2p": "emergiereis",
+    "3p": "emergieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emerge",
+    "3s": "emerja",
+    "1p": "emerjamos",
+    "2p": "emerged",
+    "3p": "emerjan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no emerjas",
+    "3s": "no emerja",
+    "1p": "no emerjamos",
+    "2p": "no emerjáis",
+    "3p": "no emerjan"
+  },
+  "Part-ter": {
+    "": "emergido"
+  },
+  "Part-ser": {
+    "ms": "emergido",
+    "fs": "emergida",
+    "mp": "emergidos",
+    "fp": "emergidas"
+  }
+}

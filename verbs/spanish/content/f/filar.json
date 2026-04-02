@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "filar"
+  },
+  "Ger": {
+    "": "filando"
+  },
+  "PresI": {
+    "1s": "filo",
+    "2s": "filas",
+    "3s": "fila",
+    "1p": "filamos",
+    "2p": "filáis",
+    "3p": "filan"
+  },
+  "PImpI": {
+    "1s": "filaba",
+    "2s": "filabas",
+    "3s": "filaba",
+    "1p": "filábamos",
+    "2p": "filabais",
+    "3p": "filaban"
+  },
+  "PPSI": {
+    "1s": "filé",
+    "2s": "filaste",
+    "3s": "filó",
+    "1p": "filamos",
+    "2p": "filasteis",
+    "3p": "filaron"
+  },
+  "FutSI": {
+    "1s": "filaré",
+    "2s": "filarás",
+    "3s": "filará",
+    "1p": "filaremos",
+    "2p": "filaréis",
+    "3p": "filarán"
+  },
+  "CondS": {
+    "1s": "filaría",
+    "2s": "filarías",
+    "3s": "filaría",
+    "1p": "filaríamos",
+    "2p": "filaríais",
+    "3p": "filarían"
+  },
+  "PresC": {
+    "1s": "file",
+    "2s": "files",
+    "3s": "file",
+    "1p": "filemos",
+    "2p": "filéis",
+    "3p": "filen"
+  },
+  "PMQPSI": {
+    "1s": "filara",
+    "2s": "filaras",
+    "3s": "filara",
+    "1p": "filáramos",
+    "2p": "filarais",
+    "3p": "filaran"
+  },
+  "PImpC": {
+    "1s": "filase",
+    "2s": "filases",
+    "3s": "filase",
+    "1p": "filásemos",
+    "2p": "filaseis",
+    "3p": "filasen"
+  },
+  "FutSC": {
+    "1s": "filare",
+    "2s": "filares",
+    "3s": "filare",
+    "1p": "filáremos",
+    "2p": "filareis",
+    "3p": "filaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fila",
+    "3s": "file",
+    "1p": "filemos",
+    "2p": "filad",
+    "3p": "filen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no files",
+    "3s": "no file",
+    "1p": "no filemos",
+    "2p": "no filéis",
+    "3p": "no filen"
+  },
+  "Part-ter": {
+    "": "filado"
+  },
+  "Part-ser": {
+    "ms": "filado",
+    "fs": "filada",
+    "mp": "filados",
+    "fp": "filadas"
+  }
+}

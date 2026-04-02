@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gatear"
+  },
+  "Ger": {
+    "": "gateando"
+  },
+  "PresI": {
+    "1s": "gateo",
+    "2s": "gateas",
+    "3s": "gatea",
+    "1p": "gateamos",
+    "2p": "gateáis",
+    "3p": "gatean"
+  },
+  "PImpI": {
+    "1s": "gateaba",
+    "2s": "gateabas",
+    "3s": "gateaba",
+    "1p": "gateábamos",
+    "2p": "gateabais",
+    "3p": "gateaban"
+  },
+  "PPSI": {
+    "1s": "gateé",
+    "2s": "gateaste",
+    "3s": "gateó",
+    "1p": "gateamos",
+    "2p": "gateasteis",
+    "3p": "gatearon"
+  },
+  "FutSI": {
+    "1s": "gatearé",
+    "2s": "gatearás",
+    "3s": "gateará",
+    "1p": "gatearemos",
+    "2p": "gatearéis",
+    "3p": "gatearán"
+  },
+  "CondS": {
+    "1s": "gatearía",
+    "2s": "gatearías",
+    "3s": "gatearía",
+    "1p": "gatearíamos",
+    "2p": "gatearíais",
+    "3p": "gatearían"
+  },
+  "PresC": {
+    "1s": "gatee",
+    "2s": "gatees",
+    "3s": "gatee",
+    "1p": "gateemos",
+    "2p": "gateéis",
+    "3p": "gateen"
+  },
+  "PMQPSI": {
+    "1s": "gateara",
+    "2s": "gatearas",
+    "3s": "gateara",
+    "1p": "gateáramos",
+    "2p": "gatearais",
+    "3p": "gatearan"
+  },
+  "PImpC": {
+    "1s": "gatease",
+    "2s": "gateases",
+    "3s": "gatease",
+    "1p": "gateásemos",
+    "2p": "gateaseis",
+    "3p": "gateasen"
+  },
+  "FutSC": {
+    "1s": "gateare",
+    "2s": "gateares",
+    "3s": "gateare",
+    "1p": "gateáremos",
+    "2p": "gateareis",
+    "3p": "gatearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gatea",
+    "3s": "gatee",
+    "1p": "gateemos",
+    "2p": "gatead",
+    "3p": "gateen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gatees",
+    "3s": "no gatee",
+    "1p": "no gateemos",
+    "2p": "no gateéis",
+    "3p": "no gateen"
+  },
+  "Part-ter": {
+    "": "gateado"
+  },
+  "Part-ser": {
+    "ms": "gateado",
+    "fs": "gateada",
+    "mp": "gateados",
+    "fp": "gateadas"
+  }
+}

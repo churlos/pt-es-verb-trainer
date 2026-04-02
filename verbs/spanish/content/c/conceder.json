@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conceder"
+  },
+  "Ger": {
+    "": "concediendo"
+  },
+  "PresI": {
+    "1s": "concedo",
+    "2s": "concedes",
+    "3s": "concede",
+    "1p": "concedemos",
+    "2p": "concedéis",
+    "3p": "conceden"
+  },
+  "PImpI": {
+    "1s": "concedía",
+    "2s": "concedías",
+    "3s": "concedía",
+    "1p": "concedíamos",
+    "2p": "concedíais",
+    "3p": "concedían"
+  },
+  "PPSI": {
+    "1s": "concedí",
+    "2s": "concediste",
+    "3s": "concedió",
+    "1p": "concedimos",
+    "2p": "concedisteis",
+    "3p": "concedieron"
+  },
+  "FutSI": {
+    "1s": "concederé",
+    "2s": "concederás",
+    "3s": "concederá",
+    "1p": "concederemos",
+    "2p": "concederéis",
+    "3p": "concederán"
+  },
+  "CondS": {
+    "1s": "concedería",
+    "2s": "concederías",
+    "3s": "concedería",
+    "1p": "concederíamos",
+    "2p": "concederíais",
+    "3p": "concederían"
+  },
+  "PresC": {
+    "1s": "conceda",
+    "2s": "concedas",
+    "3s": "conceda",
+    "1p": "concedamos",
+    "2p": "concedáis",
+    "3p": "concedan"
+  },
+  "PMQPSI": {
+    "1s": "concediera",
+    "2s": "concedieras",
+    "3s": "concediera",
+    "1p": "concediéramos",
+    "2p": "concedierais",
+    "3p": "concedieran"
+  },
+  "PImpC": {
+    "1s": "concediese",
+    "2s": "concedieses",
+    "3s": "concediese",
+    "1p": "concediésemos",
+    "2p": "concedieseis",
+    "3p": "concediesen"
+  },
+  "FutSC": {
+    "1s": "concediere",
+    "2s": "concedieres",
+    "3s": "concediere",
+    "1p": "concediéremos",
+    "2p": "concediereis",
+    "3p": "concedieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "concede",
+    "3s": "conceda",
+    "1p": "concedamos",
+    "2p": "conceded",
+    "3p": "concedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no concedas",
+    "3s": "no conceda",
+    "1p": "no concedamos",
+    "2p": "no concedáis",
+    "3p": "no concedan"
+  },
+  "Part-ter": {
+    "": "concedido"
+  },
+  "Part-ser": {
+    "ms": "concedido",
+    "fs": "concedida",
+    "mp": "concedidos",
+    "fp": "concedidas"
+  }
+}

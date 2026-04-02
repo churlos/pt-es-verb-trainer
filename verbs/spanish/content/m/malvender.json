@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "malvender"
+  },
+  "Ger": {
+    "": "malvendiendo"
+  },
+  "PresI": {
+    "1s": "malvendo",
+    "2s": "malvendes",
+    "3s": "malvende",
+    "1p": "malvendemos",
+    "2p": "malvendéis",
+    "3p": "malvenden"
+  },
+  "PImpI": {
+    "1s": "malvendía",
+    "2s": "malvendías",
+    "3s": "malvendía",
+    "1p": "malvendíamos",
+    "2p": "malvendíais",
+    "3p": "malvendían"
+  },
+  "PPSI": {
+    "1s": "malvendí",
+    "2s": "malvendiste",
+    "3s": "malvendió",
+    "1p": "malvendimos",
+    "2p": "malvendisteis",
+    "3p": "malvendieron"
+  },
+  "FutSI": {
+    "1s": "malvenderé",
+    "2s": "malvenderás",
+    "3s": "malvenderá",
+    "1p": "malvenderemos",
+    "2p": "malvenderéis",
+    "3p": "malvenderán"
+  },
+  "CondS": {
+    "1s": "malvendería",
+    "2s": "malvenderías",
+    "3s": "malvendería",
+    "1p": "malvenderíamos",
+    "2p": "malvenderíais",
+    "3p": "malvenderían"
+  },
+  "PresC": {
+    "1s": "malvenda",
+    "2s": "malvendas",
+    "3s": "malvenda",
+    "1p": "malvendamos",
+    "2p": "malvendáis",
+    "3p": "malvendan"
+  },
+  "PMQPSI": {
+    "1s": "malvendiera",
+    "2s": "malvendieras",
+    "3s": "malvendiera",
+    "1p": "malvendiéramos",
+    "2p": "malvendierais",
+    "3p": "malvendieran"
+  },
+  "PImpC": {
+    "1s": "malvendiese",
+    "2s": "malvendieses",
+    "3s": "malvendiese",
+    "1p": "malvendiésemos",
+    "2p": "malvendieseis",
+    "3p": "malvendiesen"
+  },
+  "FutSC": {
+    "1s": "malvendiere",
+    "2s": "malvendieres",
+    "3s": "malvendiere",
+    "1p": "malvendiéremos",
+    "2p": "malvendiereis",
+    "3p": "malvendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "malvende",
+    "3s": "malvenda",
+    "1p": "malvendamos",
+    "2p": "malvended",
+    "3p": "malvendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no malvendas",
+    "3s": "no malvenda",
+    "1p": "no malvendamos",
+    "2p": "no malvendáis",
+    "3p": "no malvendan"
+  },
+  "Part-ter": {
+    "": "malvendido"
+  },
+  "Part-ser": {
+    "ms": "malvendido",
+    "fs": "malvendida",
+    "mp": "malvendidos",
+    "fp": "malvendidas"
+  }
+}

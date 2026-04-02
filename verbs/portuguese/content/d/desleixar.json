@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desleixar"
+  },
+  "InfP": {
+    "1s": "desleixar",
+    "2s": "desleixares",
+    "3s": "desleixar",
+    "1p": "desleixarmos",
+    "2p": "desleixardes",
+    "3p": "desleixarem"
+  },
+  "Ger": {
+    "": "desleixando"
+  },
+  "PresI": {
+    "1s": "desleixo",
+    "2s": "desleixas",
+    "3s": "desleixa",
+    "1p": "desleixamos",
+    "2p": "desleixais",
+    "3p": "desleixam"
+  },
+  "PImpI": {
+    "1s": "desleixava",
+    "2s": "desleixavas",
+    "3s": "desleixava",
+    "1p": "desleixávamos",
+    "2p": "desleixáveis",
+    "3p": "desleixavam"
+  },
+  "PPSI": {
+    "1s": "desleixei",
+    "2s": "desleixaste",
+    "3s": "desleixou",
+    "1p": "desleixámos",
+    "2p": "desleixastes",
+    "3p": "desleixaram"
+  },
+  "PMQPSI": {
+    "1s": "desleixara",
+    "2s": "desleixaras",
+    "3s": "desleixara",
+    "1p": "desleixáramos",
+    "2p": "desleixáreis",
+    "3p": "desleixaram"
+  },
+  "FutSI": {
+    "1s": "desleixarei",
+    "2s": "desleixarás",
+    "3s": "desleixará",
+    "1p": "desleixaremos",
+    "2p": "desleixareis",
+    "3p": "desleixarão"
+  },
+  "CondS": {
+    "1s": "desleixaria",
+    "2s": "desleixarias",
+    "3s": "desleixaria",
+    "1p": "desleixaríamos",
+    "2p": "desleixaríeis",
+    "3p": "desleixariam"
+  },
+  "PresC": {
+    "1s": "desleixe",
+    "2s": "desleixes",
+    "3s": "desleixe",
+    "1p": "desleixemos",
+    "2p": "desleixeis",
+    "3p": "desleixem"
+  },
+  "PImpC": {
+    "1s": "desleixasse",
+    "2s": "desleixasses",
+    "3s": "desleixasse",
+    "1p": "desleixássemos",
+    "2p": "desleixásseis",
+    "3p": "desleixassem"
+  },
+  "FutSC": {
+    "1s": "desleixar",
+    "2s": "desleixares",
+    "3s": "desleixar",
+    "1p": "desleixarmos",
+    "2p": "desleixardes",
+    "3p": "desleixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desleixa",
+    "3s": "desleixe",
+    "1p": "desleixemos",
+    "2p": "desleixai",
+    "3p": "desleixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desleixes",
+    "3s": "não desleixe",
+    "1p": "não desleixemos",
+    "2p": "não desleixeis",
+    "3p": "não desleixem"
+  },
+  "Part-ter": {
+    "": "desleixado"
+  },
+  "Part-ser": {
+    "ms": "desleixado",
+    "fs": "desleixada",
+    "mp": "desleixados",
+    "fp": "desleixadas"
+  }
+}

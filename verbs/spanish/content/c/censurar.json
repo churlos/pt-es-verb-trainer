@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "censurar"
+  },
+  "Ger": {
+    "": "censurando"
+  },
+  "PresI": {
+    "1s": "censuro",
+    "2s": "censuras",
+    "3s": "censura",
+    "1p": "censuramos",
+    "2p": "censuráis",
+    "3p": "censuran"
+  },
+  "PImpI": {
+    "1s": "censuraba",
+    "2s": "censurabas",
+    "3s": "censuraba",
+    "1p": "censurábamos",
+    "2p": "censurabais",
+    "3p": "censuraban"
+  },
+  "PPSI": {
+    "1s": "censuré",
+    "2s": "censuraste",
+    "3s": "censuró",
+    "1p": "censuramos",
+    "2p": "censurasteis",
+    "3p": "censuraron"
+  },
+  "FutSI": {
+    "1s": "censuraré",
+    "2s": "censurarás",
+    "3s": "censurará",
+    "1p": "censuraremos",
+    "2p": "censuraréis",
+    "3p": "censurarán"
+  },
+  "CondS": {
+    "1s": "censuraría",
+    "2s": "censurarías",
+    "3s": "censuraría",
+    "1p": "censuraríamos",
+    "2p": "censuraríais",
+    "3p": "censurarían"
+  },
+  "PresC": {
+    "1s": "censure",
+    "2s": "censures",
+    "3s": "censure",
+    "1p": "censuremos",
+    "2p": "censuréis",
+    "3p": "censuren"
+  },
+  "PMQPSI": {
+    "1s": "censurara",
+    "2s": "censuraras",
+    "3s": "censurara",
+    "1p": "censuráramos",
+    "2p": "censurarais",
+    "3p": "censuraran"
+  },
+  "PImpC": {
+    "1s": "censurase",
+    "2s": "censurases",
+    "3s": "censurase",
+    "1p": "censurásemos",
+    "2p": "censuraseis",
+    "3p": "censurasen"
+  },
+  "FutSC": {
+    "1s": "censurare",
+    "2s": "censurares",
+    "3s": "censurare",
+    "1p": "censuráremos",
+    "2p": "censurareis",
+    "3p": "censuraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "censura",
+    "3s": "censure",
+    "1p": "censuremos",
+    "2p": "censurad",
+    "3p": "censuren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no censures",
+    "3s": "no censure",
+    "1p": "no censuremos",
+    "2p": "no censuréis",
+    "3p": "no censuren"
+  },
+  "Part-ter": {
+    "": "censurado"
+  },
+  "Part-ser": {
+    "ms": "censurado",
+    "fs": "censurada",
+    "mp": "censurados",
+    "fp": "censuradas"
+  }
+}

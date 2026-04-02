@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parcelar"
+  },
+  "Ger": {
+    "": "parcelando"
+  },
+  "PresI": {
+    "1s": "parcelo",
+    "2s": "parcelas",
+    "3s": "parcela",
+    "1p": "parcelamos",
+    "2p": "parceláis",
+    "3p": "parcelan"
+  },
+  "PImpI": {
+    "1s": "parcelaba",
+    "2s": "parcelabas",
+    "3s": "parcelaba",
+    "1p": "parcelábamos",
+    "2p": "parcelabais",
+    "3p": "parcelaban"
+  },
+  "PPSI": {
+    "1s": "parcelé",
+    "2s": "parcelaste",
+    "3s": "parceló",
+    "1p": "parcelamos",
+    "2p": "parcelasteis",
+    "3p": "parcelaron"
+  },
+  "FutSI": {
+    "1s": "parcelaré",
+    "2s": "parcelarás",
+    "3s": "parcelará",
+    "1p": "parcelaremos",
+    "2p": "parcelaréis",
+    "3p": "parcelarán"
+  },
+  "CondS": {
+    "1s": "parcelaría",
+    "2s": "parcelarías",
+    "3s": "parcelaría",
+    "1p": "parcelaríamos",
+    "2p": "parcelaríais",
+    "3p": "parcelarían"
+  },
+  "PresC": {
+    "1s": "parcele",
+    "2s": "parceles",
+    "3s": "parcele",
+    "1p": "parcelemos",
+    "2p": "parceléis",
+    "3p": "parcelen"
+  },
+  "PMQPSI": {
+    "1s": "parcelara",
+    "2s": "parcelaras",
+    "3s": "parcelara",
+    "1p": "parceláramos",
+    "2p": "parcelarais",
+    "3p": "parcelaran"
+  },
+  "PImpC": {
+    "1s": "parcelase",
+    "2s": "parcelases",
+    "3s": "parcelase",
+    "1p": "parcelásemos",
+    "2p": "parcelaseis",
+    "3p": "parcelasen"
+  },
+  "FutSC": {
+    "1s": "parcelare",
+    "2s": "parcelares",
+    "3s": "parcelare",
+    "1p": "parceláremos",
+    "2p": "parcelareis",
+    "3p": "parcelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parcela",
+    "3s": "parcele",
+    "1p": "parcelemos",
+    "2p": "parcelad",
+    "3p": "parcelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no parceles",
+    "3s": "no parcele",
+    "1p": "no parcelemos",
+    "2p": "no parceléis",
+    "3p": "no parcelen"
+  },
+  "Part-ter": {
+    "": "parcelado"
+  },
+  "Part-ser": {
+    "ms": "parcelado",
+    "fs": "parcelada",
+    "mp": "parcelados",
+    "fp": "parceladas"
+  }
+}

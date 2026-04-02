@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "irse"
+  },
+  "Ger": {
+    "": "yéndose"
+  },
+  "PresI": {
+    "1s": "me voy",
+    "2s": "te vas",
+    "3s": "se va",
+    "1p": "nos vamos",
+    "2p": "os vais",
+    "3p": "se van"
+  },
+  "PImpI": {
+    "1s": "me iba",
+    "2s": "te ibas",
+    "3s": "se iba",
+    "1p": "nos íbamos",
+    "2p": "os ibais",
+    "3p": "se iban"
+  },
+  "PPSI": {
+    "1s": "me fui",
+    "2s": "te fuiste",
+    "3s": "se fue",
+    "1p": "nos fuimos",
+    "2p": "os fuisteis",
+    "3p": "se fueron"
+  },
+  "FutSI": {
+    "1s": "me iré",
+    "2s": "te irás",
+    "3s": "se irá",
+    "1p": "nos iremos",
+    "2p": "os iréis",
+    "3p": "se irán"
+  },
+  "CondS": {
+    "1s": "me iría",
+    "2s": "te irías",
+    "3s": "se iría",
+    "1p": "nos iríamos",
+    "2p": "os iríais",
+    "3p": "se irían"
+  },
+  "PresC": {
+    "1s": "me vaya",
+    "2s": "te vayas",
+    "3s": "se vaya",
+    "1p": "nos vayamos",
+    "2p": "os vayáis",
+    "3p": "se vayan"
+  },
+  "PMQPSI": {
+    "1s": "me fuera",
+    "2s": "te fueras",
+    "3s": "se fuera",
+    "1p": "nos fuéramos",
+    "2p": "os fuerais",
+    "3p": "se fueran"
+  },
+  "PImpC": {
+    "1s": "me fuese",
+    "2s": "te fueses",
+    "3s": "se fuese",
+    "1p": "nos fuésemos",
+    "2p": "os fueseis",
+    "3p": "se fuesen"
+  },
+  "FutSC": {
+    "1s": "me fuere",
+    "2s": "te fueres",
+    "3s": "se fuere",
+    "1p": "nos fuéremos",
+    "2p": "os fuereis",
+    "3p": "se fueren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vete",
+    "3s": "váyase",
+    "1p": "vámonos",
+    "2p": "idos",
+    "3p": "váyanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te vayas",
+    "3s": "no se vaya",
+    "1p": "no nos vayamos",
+    "2p": "no os vayáis",
+    "3p": "no se vayan"
+  },
+  "Part-ter": {
+    "": "ido"
+  },
+  "Part-ser": {
+    "ms": "ido",
+    "fs": "ida",
+    "mp": "idos",
+    "fp": "idas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calmar"
+  },
+  "Ger": {
+    "": "calmando"
+  },
+  "PresI": {
+    "1s": "calmo",
+    "2s": "calmas",
+    "3s": "calma",
+    "1p": "calmamos",
+    "2p": "calmáis",
+    "3p": "calman"
+  },
+  "PImpI": {
+    "1s": "calmaba",
+    "2s": "calmabas",
+    "3s": "calmaba",
+    "1p": "calmábamos",
+    "2p": "calmabais",
+    "3p": "calmaban"
+  },
+  "PPSI": {
+    "1s": "calmé",
+    "2s": "calmaste",
+    "3s": "calmó",
+    "1p": "calmamos",
+    "2p": "calmasteis",
+    "3p": "calmaron"
+  },
+  "FutSI": {
+    "1s": "calmaré",
+    "2s": "calmarás",
+    "3s": "calmará",
+    "1p": "calmaremos",
+    "2p": "calmaréis",
+    "3p": "calmarán"
+  },
+  "CondS": {
+    "1s": "calmaría",
+    "2s": "calmarías",
+    "3s": "calmaría",
+    "1p": "calmaríamos",
+    "2p": "calmaríais",
+    "3p": "calmarían"
+  },
+  "PresC": {
+    "1s": "calme",
+    "2s": "calmes",
+    "3s": "calme",
+    "1p": "calmemos",
+    "2p": "calméis",
+    "3p": "calmen"
+  },
+  "PMQPSI": {
+    "1s": "calmara",
+    "2s": "calmaras",
+    "3s": "calmara",
+    "1p": "calmáramos",
+    "2p": "calmarais",
+    "3p": "calmaran"
+  },
+  "PImpC": {
+    "1s": "calmase",
+    "2s": "calmases",
+    "3s": "calmase",
+    "1p": "calmásemos",
+    "2p": "calmaseis",
+    "3p": "calmasen"
+  },
+  "FutSC": {
+    "1s": "calmare",
+    "2s": "calmares",
+    "3s": "calmare",
+    "1p": "calmáremos",
+    "2p": "calmareis",
+    "3p": "calmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calma",
+    "3s": "calme",
+    "1p": "calmemos",
+    "2p": "calmad",
+    "3p": "calmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no calmes",
+    "3s": "no calme",
+    "1p": "no calmemos",
+    "2p": "no calméis",
+    "3p": "no calmen"
+  },
+  "Part-ter": {
+    "": "calmado"
+  },
+  "Part-ser": {
+    "ms": "calmado",
+    "fs": "calmada",
+    "mp": "calmados",
+    "fp": "calmadas"
+  }
+}

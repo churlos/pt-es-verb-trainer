@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "segredar"
+  },
+  "InfP": {
+    "1s": "segredar",
+    "2s": "segredares",
+    "3s": "segredar",
+    "1p": "segredarmos",
+    "2p": "segredardes",
+    "3p": "segredarem"
+  },
+  "Ger": {
+    "": "segredando"
+  },
+  "PresI": {
+    "1s": "segredo",
+    "2s": "segredas",
+    "3s": "segreda",
+    "1p": "segredamos",
+    "2p": "segredais",
+    "3p": "segredam"
+  },
+  "PImpI": {
+    "1s": "segredava",
+    "2s": "segredavas",
+    "3s": "segredava",
+    "1p": "segredávamos",
+    "2p": "segredáveis",
+    "3p": "segredavam"
+  },
+  "PPSI": {
+    "1s": "segredei",
+    "2s": "segredaste",
+    "3s": "segredou",
+    "1p": "segredámos",
+    "2p": "segredastes",
+    "3p": "segredaram"
+  },
+  "PMQPSI": {
+    "1s": "segredara",
+    "2s": "segredaras",
+    "3s": "segredara",
+    "1p": "segredáramos",
+    "2p": "segredáreis",
+    "3p": "segredaram"
+  },
+  "FutSI": {
+    "1s": "segredarei",
+    "2s": "segredarás",
+    "3s": "segredará",
+    "1p": "segredaremos",
+    "2p": "segredareis",
+    "3p": "segredarão"
+  },
+  "CondS": {
+    "1s": "segredaria",
+    "2s": "segredarias",
+    "3s": "segredaria",
+    "1p": "segredaríamos",
+    "2p": "segredaríeis",
+    "3p": "segredariam"
+  },
+  "PresC": {
+    "1s": "segrede",
+    "2s": "segredes",
+    "3s": "segrede",
+    "1p": "segredemos",
+    "2p": "segredeis",
+    "3p": "segredem"
+  },
+  "PImpC": {
+    "1s": "segredasse",
+    "2s": "segredasses",
+    "3s": "segredasse",
+    "1p": "segredássemos",
+    "2p": "segredásseis",
+    "3p": "segredassem"
+  },
+  "FutSC": {
+    "1s": "segredar",
+    "2s": "segredares",
+    "3s": "segredar",
+    "1p": "segredarmos",
+    "2p": "segredardes",
+    "3p": "segredarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segreda",
+    "3s": "segrede",
+    "1p": "segredemos",
+    "2p": "segredai",
+    "3p": "segredem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não segredes",
+    "3s": "não segrede",
+    "1p": "não segredemos",
+    "2p": "não segredeis",
+    "3p": "não segredem"
+  },
+  "Part-ter": {
+    "": "segredado"
+  },
+  "Part-ser": {
+    "ms": "segredado",
+    "fs": "segredada",
+    "mp": "segredados",
+    "fp": "segredadas"
+  }
+}

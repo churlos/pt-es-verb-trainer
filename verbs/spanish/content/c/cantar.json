@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cantar"
+  },
+  "Ger": {
+    "": "cantando"
+  },
+  "PresI": {
+    "1s": "canto",
+    "2s": "cantas",
+    "3s": "canta",
+    "1p": "cantamos",
+    "2p": "cantáis",
+    "3p": "cantan"
+  },
+  "PImpI": {
+    "1s": "cantaba",
+    "2s": "cantabas",
+    "3s": "cantaba",
+    "1p": "cantábamos",
+    "2p": "cantabais",
+    "3p": "cantaban"
+  },
+  "PPSI": {
+    "1s": "canté",
+    "2s": "cantaste",
+    "3s": "cantó",
+    "1p": "cantamos",
+    "2p": "cantasteis",
+    "3p": "cantaron"
+  },
+  "FutSI": {
+    "1s": "cantaré",
+    "2s": "cantarás",
+    "3s": "cantará",
+    "1p": "cantaremos",
+    "2p": "cantaréis",
+    "3p": "cantarán"
+  },
+  "CondS": {
+    "1s": "cantaría",
+    "2s": "cantarías",
+    "3s": "cantaría",
+    "1p": "cantaríamos",
+    "2p": "cantaríais",
+    "3p": "cantarían"
+  },
+  "PresC": {
+    "1s": "cante",
+    "2s": "cantes",
+    "3s": "cante",
+    "1p": "cantemos",
+    "2p": "cantéis",
+    "3p": "canten"
+  },
+  "PMQPSI": {
+    "1s": "cantara",
+    "2s": "cantaras",
+    "3s": "cantara",
+    "1p": "cantáramos",
+    "2p": "cantarais",
+    "3p": "cantaran"
+  },
+  "PImpC": {
+    "1s": "cantase",
+    "2s": "cantases",
+    "3s": "cantase",
+    "1p": "cantásemos",
+    "2p": "cantaseis",
+    "3p": "cantasen"
+  },
+  "FutSC": {
+    "1s": "cantare",
+    "2s": "cantares",
+    "3s": "cantare",
+    "1p": "cantáremos",
+    "2p": "cantareis",
+    "3p": "cantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "canta",
+    "3s": "cante",
+    "1p": "cantemos",
+    "2p": "cantad",
+    "3p": "canten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cantes",
+    "3s": "no cante",
+    "1p": "no cantemos",
+    "2p": "no cantéis",
+    "3p": "no canten"
+  },
+  "Part-ter": {
+    "": "cantado"
+  },
+  "Part-ser": {
+    "ms": "cantado",
+    "fs": "cantada",
+    "mp": "cantados",
+    "fp": "cantadas"
+  }
+}

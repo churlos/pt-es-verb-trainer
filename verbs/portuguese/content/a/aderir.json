@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aderir"
+  },
+  "InfP": {
+    "1s": "aderir",
+    "2s": "aderires",
+    "3s": "aderir",
+    "1p": "aderirmos",
+    "2p": "aderirdes",
+    "3p": "aderirem"
+  },
+  "Ger": {
+    "": "aderindo"
+  },
+  "PresI": {
+    "1s": "adiro",
+    "2s": "aderes",
+    "3s": "adere",
+    "1p": "aderimos",
+    "2p": "aderis",
+    "3p": "aderem"
+  },
+  "PImpI": {
+    "1s": "aderia",
+    "2s": "aderias",
+    "3s": "aderia",
+    "1p": "aderíamos",
+    "2p": "aderíeis",
+    "3p": "aderiam"
+  },
+  "PPSI": {
+    "1s": "aderi",
+    "2s": "aderiste",
+    "3s": "aderiu",
+    "1p": "aderimos",
+    "2p": "aderistes",
+    "3p": "aderiram"
+  },
+  "PMQPSI": {
+    "1s": "aderira",
+    "2s": "aderiras",
+    "3s": "aderira",
+    "1p": "aderíramos",
+    "2p": "aderíreis",
+    "3p": "aderiram"
+  },
+  "FutSI": {
+    "1s": "aderirei",
+    "2s": "aderirás",
+    "3s": "aderirá",
+    "1p": "aderiremos",
+    "2p": "aderireis",
+    "3p": "aderirão"
+  },
+  "CondS": {
+    "1s": "aderiria",
+    "2s": "aderirias",
+    "3s": "aderiria",
+    "1p": "aderiríamos",
+    "2p": "aderiríeis",
+    "3p": "adeririam"
+  },
+  "PresC": {
+    "1s": "adira",
+    "2s": "adiras",
+    "3s": "adira",
+    "1p": "adiramos",
+    "2p": "adirais",
+    "3p": "adiram"
+  },
+  "PImpC": {
+    "1s": "aderisse",
+    "2s": "aderisses",
+    "3s": "aderisse",
+    "1p": "aderíssemos",
+    "2p": "aderísseis",
+    "3p": "aderissem"
+  },
+  "FutSC": {
+    "1s": "aderir",
+    "2s": "aderires",
+    "3s": "aderir",
+    "1p": "aderirmos",
+    "2p": "aderirdes",
+    "3p": "aderirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adere",
+    "3s": "adira",
+    "1p": "adiramos",
+    "2p": "aderi",
+    "3p": "adiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adiras",
+    "3s": "não adira",
+    "1p": "não adiramos",
+    "2p": "não adirais",
+    "3p": "não adiram"
+  },
+  "Part-ter": {
+    "": "aderido"
+  },
+  "Part-ser": {
+    "ms": "aderido",
+    "fs": "aderida",
+    "mp": "aderidos",
+    "fp": "aderidas"
+  }
+}

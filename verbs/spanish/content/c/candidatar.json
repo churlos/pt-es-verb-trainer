@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "candidatar"
+  },
+  "Ger": {
+    "": "candidatando"
+  },
+  "PresI": {
+    "1s": "candidato",
+    "2s": "candidatas",
+    "3s": "candidata",
+    "1p": "candidatamos",
+    "2p": "candidatáis",
+    "3p": "candidatan"
+  },
+  "PImpI": {
+    "1s": "candidataba",
+    "2s": "candidatabas",
+    "3s": "candidataba",
+    "1p": "candidatábamos",
+    "2p": "candidatabais",
+    "3p": "candidataban"
+  },
+  "PPSI": {
+    "1s": "candidaté",
+    "2s": "candidataste",
+    "3s": "candidató",
+    "1p": "candidatamos",
+    "2p": "candidatasteis",
+    "3p": "candidataron"
+  },
+  "FutSI": {
+    "1s": "candidataré",
+    "2s": "candidatarás",
+    "3s": "candidatará",
+    "1p": "candidataremos",
+    "2p": "candidataréis",
+    "3p": "candidatarán"
+  },
+  "CondS": {
+    "1s": "candidataría",
+    "2s": "candidatarías",
+    "3s": "candidataría",
+    "1p": "candidataríamos",
+    "2p": "candidataríais",
+    "3p": "candidatarían"
+  },
+  "PresC": {
+    "1s": "candidate",
+    "2s": "candidates",
+    "3s": "candidate",
+    "1p": "candidatemos",
+    "2p": "candidatéis",
+    "3p": "candidaten"
+  },
+  "PMQPSI": {
+    "1s": "candidatara",
+    "2s": "candidataras",
+    "3s": "candidatara",
+    "1p": "candidatáramos",
+    "2p": "candidatarais",
+    "3p": "candidataran"
+  },
+  "PImpC": {
+    "1s": "candidatase",
+    "2s": "candidatases",
+    "3s": "candidatase",
+    "1p": "candidatásemos",
+    "2p": "candidataseis",
+    "3p": "candidatasen"
+  },
+  "FutSC": {
+    "1s": "candidatare",
+    "2s": "candidatares",
+    "3s": "candidatare",
+    "1p": "candidatáremos",
+    "2p": "candidatareis",
+    "3p": "candidataren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "candidata",
+    "3s": "candidate",
+    "1p": "candidatemos",
+    "2p": "candidatad",
+    "3p": "candidaten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no candidates",
+    "3s": "no candidate",
+    "1p": "no candidatemos",
+    "2p": "no candidatéis",
+    "3p": "no candidaten"
+  },
+  "Part-ter": {
+    "": "candidatado"
+  },
+  "Part-ser": {
+    "ms": "candidatado",
+    "fs": "candidatada",
+    "mp": "candidatados",
+    "fp": "candidatadas"
+  }
+}

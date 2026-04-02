@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "obtener"
+  },
+  "Ger": {
+    "": "obteniendo"
+  },
+  "PresI": {
+    "1s": "obtengo",
+    "2s": "obtienes",
+    "3s": "obtiene",
+    "1p": "obtenemos",
+    "2p": "obtenéis",
+    "3p": "obtienen"
+  },
+  "PImpI": {
+    "1s": "obtenía",
+    "2s": "obtenías",
+    "3s": "obtenía",
+    "1p": "obteníamos",
+    "2p": "obteníais",
+    "3p": "obtenían"
+  },
+  "PPSI": {
+    "1s": "obtuve",
+    "2s": "obtuviste",
+    "3s": "obtuvo",
+    "1p": "obtuvimos",
+    "2p": "obtuvisteis",
+    "3p": "obtuvieron"
+  },
+  "FutSI": {
+    "1s": "obtendré",
+    "2s": "obtendrás",
+    "3s": "obtendrá",
+    "1p": "obtendremos",
+    "2p": "obtendréis",
+    "3p": "obtendrán"
+  },
+  "CondS": {
+    "1s": "obtendría",
+    "2s": "obtendrías",
+    "3s": "obtendría",
+    "1p": "obtendríamos",
+    "2p": "obtendríais",
+    "3p": "obtendrían"
+  },
+  "PresC": {
+    "1s": "obtenga",
+    "2s": "obtengas",
+    "3s": "obtenga",
+    "1p": "obtengamos",
+    "2p": "obtengáis",
+    "3p": "obtengan"
+  },
+  "PMQPSI": {
+    "1s": "obtuviera",
+    "2s": "obtuvieras",
+    "3s": "obtuviera",
+    "1p": "obtuviéramos",
+    "2p": "obtuvierais",
+    "3p": "obtuvieran"
+  },
+  "PImpC": {
+    "1s": "obtuviese",
+    "2s": "obtuvieses",
+    "3s": "obtuviese",
+    "1p": "obtuviésemos",
+    "2p": "obtuvieseis",
+    "3p": "obtuviesen"
+  },
+  "FutSC": {
+    "1s": "obtuviere",
+    "2s": "obtuvieres",
+    "3s": "obtuviere",
+    "1p": "obtuviéremos",
+    "2p": "obtuviereis",
+    "3p": "obtuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "obtén",
+    "3s": "obtenga",
+    "1p": "obtengamos",
+    "2p": "obtened",
+    "3p": "obtengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no obtengas",
+    "3s": "no obtenga",
+    "1p": "no obtengamos",
+    "2p": "no obtengáis",
+    "3p": "no obtengan"
+  },
+  "Part-ter": {
+    "": "obtenido"
+  },
+  "Part-ser": {
+    "ms": "obtenido",
+    "fs": "obtenida",
+    "mp": "obtenidos",
+    "fp": "obtenidas"
+  }
+}

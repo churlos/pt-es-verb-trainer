@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "renegar"
+  },
+  "Ger": {
+    "": "renegando"
+  },
+  "PresI": {
+    "1s": "reniego",
+    "2s": "reniegas",
+    "3s": "reniega",
+    "1p": "renegamos",
+    "2p": "renegáis",
+    "3p": "reniegan"
+  },
+  "PImpI": {
+    "1s": "renegaba",
+    "2s": "renegabas",
+    "3s": "renegaba",
+    "1p": "renegábamos",
+    "2p": "renegabais",
+    "3p": "renegaban"
+  },
+  "PPSI": {
+    "1s": "renegué",
+    "2s": "renegaste",
+    "3s": "renegó",
+    "1p": "renegamos",
+    "2p": "renegasteis",
+    "3p": "renegaron"
+  },
+  "FutSI": {
+    "1s": "renegaré",
+    "2s": "renegarás",
+    "3s": "renegará",
+    "1p": "renegaremos",
+    "2p": "renegaréis",
+    "3p": "renegarán"
+  },
+  "CondS": {
+    "1s": "renegaría",
+    "2s": "renegarías",
+    "3s": "renegaría",
+    "1p": "renegaríamos",
+    "2p": "renegaríais",
+    "3p": "renegarían"
+  },
+  "PresC": {
+    "1s": "reniegue",
+    "2s": "reniegues",
+    "3s": "reniegue",
+    "1p": "reneguemos",
+    "2p": "reneguéis",
+    "3p": "renieguen"
+  },
+  "PMQPSI": {
+    "1s": "renegara",
+    "2s": "renegaras",
+    "3s": "renegara",
+    "1p": "renegáramos",
+    "2p": "renegarais",
+    "3p": "renegaran"
+  },
+  "PImpC": {
+    "1s": "renegase",
+    "2s": "renegases",
+    "3s": "renegase",
+    "1p": "renegásemos",
+    "2p": "renegaseis",
+    "3p": "renegasen"
+  },
+  "FutSC": {
+    "1s": "renegare",
+    "2s": "renegares",
+    "3s": "renegare",
+    "1p": "renegáremos",
+    "2p": "renegareis",
+    "3p": "renegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reniega",
+    "3s": "reniegue",
+    "1p": "reneguemos",
+    "2p": "renegad",
+    "3p": "renieguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reniegues",
+    "3s": "no reniegue",
+    "1p": "no reneguemos",
+    "2p": "no reneguéis",
+    "3p": "no renieguen"
+  },
+  "Part-ter": {
+    "": "renegado"
+  },
+  "Part-ser": {
+    "ms": "renegado",
+    "fs": "renegada",
+    "mp": "renegados",
+    "fp": "renegadas"
+  }
+}

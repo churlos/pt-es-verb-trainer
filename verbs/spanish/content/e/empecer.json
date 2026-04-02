@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "empecer"
+  },
+  "Ger": {
+    "": "empeciendo"
+  },
+  "PresI": {
+    "1s": "empezco",
+    "2s": "empeces",
+    "3s": "empece",
+    "1p": "empecemos",
+    "2p": "empecéis",
+    "3p": "empecen"
+  },
+  "PImpI": {
+    "1s": "empecía",
+    "2s": "empecías",
+    "3s": "empecía",
+    "1p": "empecíamos",
+    "2p": "empecíais",
+    "3p": "empecían"
+  },
+  "PPSI": {
+    "1s": "empecí",
+    "2s": "empeciste",
+    "3s": "empeció",
+    "1p": "empecimos",
+    "2p": "empecisteis",
+    "3p": "empecieron"
+  },
+  "FutSI": {
+    "1s": "empeceré",
+    "2s": "empecerás",
+    "3s": "empecerá",
+    "1p": "empeceremos",
+    "2p": "empeceréis",
+    "3p": "empecerán"
+  },
+  "CondS": {
+    "1s": "empecería",
+    "2s": "empecerías",
+    "3s": "empecería",
+    "1p": "empeceríamos",
+    "2p": "empeceríais",
+    "3p": "empecerían"
+  },
+  "PresC": {
+    "1s": "empezca",
+    "2s": "empezcas",
+    "3s": "empezca",
+    "1p": "empezcamos",
+    "2p": "empezcáis",
+    "3p": "empezcan"
+  },
+  "PMQPSI": {
+    "1s": "empeciera",
+    "2s": "empecieras",
+    "3s": "empeciera",
+    "1p": "empeciéramos",
+    "2p": "empecierais",
+    "3p": "empecieran"
+  },
+  "PImpC": {
+    "1s": "empeciese",
+    "2s": "empecieses",
+    "3s": "empeciese",
+    "1p": "empeciésemos",
+    "2p": "empecieseis",
+    "3p": "empeciesen"
+  },
+  "FutSC": {
+    "1s": "empeciere",
+    "2s": "empecieres",
+    "3s": "empeciere",
+    "1p": "empeciéremos",
+    "2p": "empeciereis",
+    "3p": "empecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empece",
+    "3s": "empezca",
+    "1p": "empezcamos",
+    "2p": "empeced",
+    "3p": "empezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no empezcas",
+    "3s": "no empezca",
+    "1p": "no empezcamos",
+    "2p": "no empezcáis",
+    "3p": "no empezcan"
+  },
+  "Part-ter": {
+    "": "empecido"
+  },
+  "Part-ser": {
+    "ms": "empecido",
+    "fs": "empecida",
+    "mp": "empecidos",
+    "fp": "empecidas"
+  }
+}

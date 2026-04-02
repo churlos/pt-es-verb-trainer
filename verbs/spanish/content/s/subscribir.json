@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subscribir"
+  },
+  "Ger": {
+    "": "subscribiendo"
+  },
+  "PresI": {
+    "1s": "subscribo",
+    "2s": "subscribes",
+    "3s": "subscribe",
+    "1p": "subscribimos",
+    "2p": "subscribís",
+    "3p": "subscriben"
+  },
+  "PImpI": {
+    "1s": "subscribía",
+    "2s": "subscribías",
+    "3s": "subscribía",
+    "1p": "subscribíamos",
+    "2p": "subscribíais",
+    "3p": "subscribían"
+  },
+  "PPSI": {
+    "1s": "subscribí",
+    "2s": "subscribiste",
+    "3s": "subscribió",
+    "1p": "subscribimos",
+    "2p": "subscribisteis",
+    "3p": "subscribieron"
+  },
+  "FutSI": {
+    "1s": "subscribiré",
+    "2s": "subscribirás",
+    "3s": "subscribirá",
+    "1p": "subscribiremos",
+    "2p": "subscribiréis",
+    "3p": "subscribirán"
+  },
+  "CondS": {
+    "1s": "subscribiría",
+    "2s": "subscribirías",
+    "3s": "subscribiría",
+    "1p": "subscribiríamos",
+    "2p": "subscribiríais",
+    "3p": "subscribirían"
+  },
+  "PresC": {
+    "1s": "subscriba",
+    "2s": "subscribas",
+    "3s": "subscriba",
+    "1p": "subscribamos",
+    "2p": "subscribáis",
+    "3p": "subscriban"
+  },
+  "PMQPSI": {
+    "1s": "subscribiera",
+    "2s": "subscribieras",
+    "3s": "subscribiera",
+    "1p": "subscribiéramos",
+    "2p": "subscribierais",
+    "3p": "subscribieran"
+  },
+  "PImpC": {
+    "1s": "subscribiese",
+    "2s": "subscribieses",
+    "3s": "subscribiese",
+    "1p": "subscribiésemos",
+    "2p": "subscribieseis",
+    "3p": "subscribiesen"
+  },
+  "FutSC": {
+    "1s": "subscribiere",
+    "2s": "subscribieres",
+    "3s": "subscribiere",
+    "1p": "subscribiéremos",
+    "2p": "subscribiereis",
+    "3p": "subscribieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "subscribe",
+    "3s": "subscriba",
+    "1p": "subscribamos",
+    "2p": "subscribid",
+    "3p": "subscriban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subscribas",
+    "3s": "no subscriba",
+    "1p": "no subscribamos",
+    "2p": "no subscribáis",
+    "3p": "no subscriban"
+  },
+  "Part-ter": {
+    "": "subscrito, subscripto"
+  },
+  "Part-ser": {
+    "ms": "subscrito, subscripto",
+    "fs": "subscrita, subscripta",
+    "mp": "subscritos, subscriptos",
+    "fp": "subscritas, subscriptas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alquilar"
+  },
+  "InfP": {
+    "1s": "alquilar",
+    "2s": "alquilares",
+    "3s": "alquilar",
+    "1p": "alquilarmos",
+    "2p": "alquilardes",
+    "3p": "alquilarem"
+  },
+  "Ger": {
+    "": "alquilando"
+  },
+  "PresI": {
+    "1s": "alquilo",
+    "2s": "alquilas",
+    "3s": "alquila",
+    "1p": "alquilamos",
+    "2p": "alquilais",
+    "3p": "alquilam"
+  },
+  "PImpI": {
+    "1s": "alquilava",
+    "2s": "alquilavas",
+    "3s": "alquilava",
+    "1p": "alquilávamos",
+    "2p": "alquiláveis",
+    "3p": "alquilavam"
+  },
+  "PPSI": {
+    "1s": "alquilei",
+    "2s": "alquilaste",
+    "3s": "alquilou",
+    "1p": "alquilámos",
+    "2p": "alquilastes",
+    "3p": "alquilaram"
+  },
+  "PMQPSI": {
+    "1s": "alquilara",
+    "2s": "alquilaras",
+    "3s": "alquilara",
+    "1p": "alquiláramos",
+    "2p": "alquiláreis",
+    "3p": "alquilaram"
+  },
+  "FutSI": {
+    "1s": "alquilarei",
+    "2s": "alquilarás",
+    "3s": "alquilará",
+    "1p": "alquilaremos",
+    "2p": "alquilareis",
+    "3p": "alquilarão"
+  },
+  "CondS": {
+    "1s": "alquilaria",
+    "2s": "alquilarias",
+    "3s": "alquilaria",
+    "1p": "alquilaríamos",
+    "2p": "alquilaríeis",
+    "3p": "alquilariam"
+  },
+  "PresC": {
+    "1s": "alquile",
+    "2s": "alquiles",
+    "3s": "alquile",
+    "1p": "alquilemos",
+    "2p": "alquileis",
+    "3p": "alquilem"
+  },
+  "PImpC": {
+    "1s": "alquilasse",
+    "2s": "alquilasses",
+    "3s": "alquilasse",
+    "1p": "alquilássemos",
+    "2p": "alquilásseis",
+    "3p": "alquilassem"
+  },
+  "FutSC": {
+    "1s": "alquilar",
+    "2s": "alquilares",
+    "3s": "alquilar",
+    "1p": "alquilarmos",
+    "2p": "alquilardes",
+    "3p": "alquilarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alquila",
+    "3s": "alquile",
+    "1p": "alquilemos",
+    "2p": "alquilai",
+    "3p": "alquilem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alquiles",
+    "3s": "não alquile",
+    "1p": "não alquilemos",
+    "2p": "não alquileis",
+    "3p": "não alquilem"
+  },
+  "Part-ter": {
+    "": "alquilado"
+  },
+  "Part-ser": {
+    "ms": "alquilado",
+    "fs": "alquilada",
+    "mp": "alquilados",
+    "fp": "alquiladas"
+  }
+}

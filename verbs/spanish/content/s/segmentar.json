@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "segmentar"
+  },
+  "Ger": {
+    "": "segmentando"
+  },
+  "PresI": {
+    "1s": "segmento",
+    "2s": "segmentas",
+    "3s": "segmenta",
+    "1p": "segmentamos",
+    "2p": "segmentáis",
+    "3p": "segmentan"
+  },
+  "PImpI": {
+    "1s": "segmentaba",
+    "2s": "segmentabas",
+    "3s": "segmentaba",
+    "1p": "segmentábamos",
+    "2p": "segmentabais",
+    "3p": "segmentaban"
+  },
+  "PPSI": {
+    "1s": "segmenté",
+    "2s": "segmentaste",
+    "3s": "segmentó",
+    "1p": "segmentamos",
+    "2p": "segmentasteis",
+    "3p": "segmentaron"
+  },
+  "FutSI": {
+    "1s": "segmentaré",
+    "2s": "segmentarás",
+    "3s": "segmentará",
+    "1p": "segmentaremos",
+    "2p": "segmentaréis",
+    "3p": "segmentarán"
+  },
+  "CondS": {
+    "1s": "segmentaría",
+    "2s": "segmentarías",
+    "3s": "segmentaría",
+    "1p": "segmentaríamos",
+    "2p": "segmentaríais",
+    "3p": "segmentarían"
+  },
+  "PresC": {
+    "1s": "segmente",
+    "2s": "segmentes",
+    "3s": "segmente",
+    "1p": "segmentemos",
+    "2p": "segmentéis",
+    "3p": "segmenten"
+  },
+  "PMQPSI": {
+    "1s": "segmentara",
+    "2s": "segmentaras",
+    "3s": "segmentara",
+    "1p": "segmentáramos",
+    "2p": "segmentarais",
+    "3p": "segmentaran"
+  },
+  "PImpC": {
+    "1s": "segmentase",
+    "2s": "segmentases",
+    "3s": "segmentase",
+    "1p": "segmentásemos",
+    "2p": "segmentaseis",
+    "3p": "segmentasen"
+  },
+  "FutSC": {
+    "1s": "segmentare",
+    "2s": "segmentares",
+    "3s": "segmentare",
+    "1p": "segmentáremos",
+    "2p": "segmentareis",
+    "3p": "segmentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segmenta",
+    "3s": "segmente",
+    "1p": "segmentemos",
+    "2p": "segmentad",
+    "3p": "segmenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no segmentes",
+    "3s": "no segmente",
+    "1p": "no segmentemos",
+    "2p": "no segmentéis",
+    "3p": "no segmenten"
+  },
+  "Part-ter": {
+    "": "segmentado"
+  },
+  "Part-ser": {
+    "ms": "segmentado",
+    "fs": "segmentada",
+    "mp": "segmentados",
+    "fp": "segmentadas"
+  }
+}

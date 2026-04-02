@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "postar"
+  },
+  "InfP": {
+    "1s": "postar",
+    "2s": "postares",
+    "3s": "postar",
+    "1p": "postarmos",
+    "2p": "postardes",
+    "3p": "postarem"
+  },
+  "Ger": {
+    "": "postando"
+  },
+  "PresI": {
+    "1s": "posto",
+    "2s": "postas",
+    "3s": "posta",
+    "1p": "postamos",
+    "2p": "postais",
+    "3p": "postam"
+  },
+  "PImpI": {
+    "1s": "postava",
+    "2s": "postavas",
+    "3s": "postava",
+    "1p": "postávamos",
+    "2p": "postáveis",
+    "3p": "postavam"
+  },
+  "PPSI": {
+    "1s": "postei",
+    "2s": "postaste",
+    "3s": "postou",
+    "1p": "postámos",
+    "2p": "postastes",
+    "3p": "postaram"
+  },
+  "PMQPSI": {
+    "1s": "postara",
+    "2s": "postaras",
+    "3s": "postara",
+    "1p": "postáramos",
+    "2p": "postáreis",
+    "3p": "postaram"
+  },
+  "FutSI": {
+    "1s": "postarei",
+    "2s": "postarás",
+    "3s": "postará",
+    "1p": "postaremos",
+    "2p": "postareis",
+    "3p": "postarão"
+  },
+  "CondS": {
+    "1s": "postaria",
+    "2s": "postarias",
+    "3s": "postaria",
+    "1p": "postaríamos",
+    "2p": "postaríeis",
+    "3p": "postariam"
+  },
+  "PresC": {
+    "1s": "poste",
+    "2s": "postes",
+    "3s": "poste",
+    "1p": "postemos",
+    "2p": "posteis",
+    "3p": "postem"
+  },
+  "PImpC": {
+    "1s": "postasse",
+    "2s": "postasses",
+    "3s": "postasse",
+    "1p": "postássemos",
+    "2p": "postásseis",
+    "3p": "postassem"
+  },
+  "FutSC": {
+    "1s": "postar",
+    "2s": "postares",
+    "3s": "postar",
+    "1p": "postarmos",
+    "2p": "postardes",
+    "3p": "postarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "posta",
+    "3s": "poste",
+    "1p": "postemos",
+    "2p": "postai",
+    "3p": "postem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não postes",
+    "3s": "não poste",
+    "1p": "não postemos",
+    "2p": "não posteis",
+    "3p": "não postem"
+  },
+  "Part-ter": {
+    "": "postado"
+  },
+  "Part-ser": {
+    "ms": "postado",
+    "fs": "postada",
+    "mp": "postados",
+    "fp": "postadas"
+  }
+}

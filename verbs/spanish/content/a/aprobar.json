@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aprobar"
+  },
+  "Ger": {
+    "": "aprobando"
+  },
+  "PresI": {
+    "1s": "apruebo",
+    "2s": "apruebas",
+    "3s": "aprueba",
+    "1p": "aprobamos",
+    "2p": "aprobáis",
+    "3p": "aprueban"
+  },
+  "PImpI": {
+    "1s": "aprobaba",
+    "2s": "aprobabas",
+    "3s": "aprobaba",
+    "1p": "aprobábamos",
+    "2p": "aprobabais",
+    "3p": "aprobaban"
+  },
+  "PPSI": {
+    "1s": "aprobé",
+    "2s": "aprobaste",
+    "3s": "aprobó",
+    "1p": "aprobamos",
+    "2p": "aprobasteis",
+    "3p": "aprobaron"
+  },
+  "FutSI": {
+    "1s": "aprobaré",
+    "2s": "aprobarás",
+    "3s": "aprobará",
+    "1p": "aprobaremos",
+    "2p": "aprobaréis",
+    "3p": "aprobarán"
+  },
+  "CondS": {
+    "1s": "aprobaría",
+    "2s": "aprobarías",
+    "3s": "aprobaría",
+    "1p": "aprobaríamos",
+    "2p": "aprobaríais",
+    "3p": "aprobarían"
+  },
+  "PresC": {
+    "1s": "apruebe",
+    "2s": "apruebes",
+    "3s": "apruebe",
+    "1p": "aprobemos",
+    "2p": "aprobéis",
+    "3p": "aprueben"
+  },
+  "PMQPSI": {
+    "1s": "aprobara",
+    "2s": "aprobaras",
+    "3s": "aprobara",
+    "1p": "aprobáramos",
+    "2p": "aprobarais",
+    "3p": "aprobaran"
+  },
+  "PImpC": {
+    "1s": "aprobase",
+    "2s": "aprobases",
+    "3s": "aprobase",
+    "1p": "aprobásemos",
+    "2p": "aprobaseis",
+    "3p": "aprobasen"
+  },
+  "FutSC": {
+    "1s": "aprobare",
+    "2s": "aprobares",
+    "3s": "aprobare",
+    "1p": "aprobáremos",
+    "2p": "aprobareis",
+    "3p": "aprobaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aprueba",
+    "3s": "apruebe",
+    "1p": "aprobemos",
+    "2p": "aprobad",
+    "3p": "aprueben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apruebes",
+    "3s": "no apruebe",
+    "1p": "no aprobemos",
+    "2p": "no aprobéis",
+    "3p": "no aprueben"
+  },
+  "Part-ter": {
+    "": "aprobado"
+  },
+  "Part-ser": {
+    "ms": "aprobado",
+    "fs": "aprobada",
+    "mp": "aprobados",
+    "fp": "aprobadas"
+  }
+}

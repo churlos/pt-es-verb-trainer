@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espancar"
+  },
+  "InfP": {
+    "1s": "espancar",
+    "2s": "espancares",
+    "3s": "espancar",
+    "1p": "espancarmos",
+    "2p": "espancardes",
+    "3p": "espancarem"
+  },
+  "Ger": {
+    "": "espancando"
+  },
+  "PresI": {
+    "1s": "espanco",
+    "2s": "espancas",
+    "3s": "espanca",
+    "1p": "espancamos",
+    "2p": "espancais",
+    "3p": "espancam"
+  },
+  "PImpI": {
+    "1s": "espancava",
+    "2s": "espancavas",
+    "3s": "espancava",
+    "1p": "espancávamos",
+    "2p": "espancáveis",
+    "3p": "espancavam"
+  },
+  "PPSI": {
+    "1s": "espanquei",
+    "2s": "espancaste",
+    "3s": "espancou",
+    "1p": "espancámos",
+    "2p": "espancastes",
+    "3p": "espancaram"
+  },
+  "PMQPSI": {
+    "1s": "espancara",
+    "2s": "espancaras",
+    "3s": "espancara",
+    "1p": "espancáramos",
+    "2p": "espancáreis",
+    "3p": "espancaram"
+  },
+  "FutSI": {
+    "1s": "espancarei",
+    "2s": "espancarás",
+    "3s": "espancará",
+    "1p": "espancaremos",
+    "2p": "espancareis",
+    "3p": "espancarão"
+  },
+  "CondS": {
+    "1s": "espancaria",
+    "2s": "espancarias",
+    "3s": "espancaria",
+    "1p": "espancaríamos",
+    "2p": "espancaríeis",
+    "3p": "espancariam"
+  },
+  "PresC": {
+    "1s": "espanque",
+    "2s": "espanques",
+    "3s": "espanque",
+    "1p": "espanquemos",
+    "2p": "espanqueis",
+    "3p": "espanquem"
+  },
+  "PImpC": {
+    "1s": "espancasse",
+    "2s": "espancasses",
+    "3s": "espancasse",
+    "1p": "espancássemos",
+    "2p": "espancásseis",
+    "3p": "espancassem"
+  },
+  "FutSC": {
+    "1s": "espancar",
+    "2s": "espancares",
+    "3s": "espancar",
+    "1p": "espancarmos",
+    "2p": "espancardes",
+    "3p": "espancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espanca",
+    "3s": "espanque",
+    "1p": "espanquemos",
+    "2p": "espancai",
+    "3p": "espanquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espanques",
+    "3s": "não espanque",
+    "1p": "não espanquemos",
+    "2p": "não espanqueis",
+    "3p": "não espanquem"
+  },
+  "Part-ter": {
+    "": "espancado"
+  },
+  "Part-ser": {
+    "ms": "espancado",
+    "fs": "espancada",
+    "mp": "espancados",
+    "fp": "espancadas"
+  }
+}

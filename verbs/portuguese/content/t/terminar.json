@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "terminar"
+  },
+  "InfP": {
+    "1s": "terminar",
+    "2s": "terminares",
+    "3s": "terminar",
+    "1p": "terminarmos",
+    "2p": "terminardes",
+    "3p": "terminarem"
+  },
+  "Ger": {
+    "": "terminando"
+  },
+  "PresI": {
+    "1s": "termino",
+    "2s": "terminas",
+    "3s": "termina",
+    "1p": "terminamos",
+    "2p": "terminais",
+    "3p": "terminam"
+  },
+  "PImpI": {
+    "1s": "terminava",
+    "2s": "terminavas",
+    "3s": "terminava",
+    "1p": "terminávamos",
+    "2p": "termináveis",
+    "3p": "terminavam"
+  },
+  "PPSI": {
+    "1s": "terminei",
+    "2s": "terminaste",
+    "3s": "terminou",
+    "1p": "terminámos",
+    "2p": "terminastes",
+    "3p": "terminaram"
+  },
+  "PMQPSI": {
+    "1s": "terminara",
+    "2s": "terminaras",
+    "3s": "terminara",
+    "1p": "termináramos",
+    "2p": "termináreis",
+    "3p": "terminaram"
+  },
+  "FutSI": {
+    "1s": "terminarei",
+    "2s": "terminarás",
+    "3s": "terminará",
+    "1p": "terminaremos",
+    "2p": "terminareis",
+    "3p": "terminarão"
+  },
+  "CondS": {
+    "1s": "terminaria",
+    "2s": "terminarias",
+    "3s": "terminaria",
+    "1p": "terminaríamos",
+    "2p": "terminaríeis",
+    "3p": "terminariam"
+  },
+  "PresC": {
+    "1s": "termine",
+    "2s": "termines",
+    "3s": "termine",
+    "1p": "terminemos",
+    "2p": "termineis",
+    "3p": "terminem"
+  },
+  "PImpC": {
+    "1s": "terminasse",
+    "2s": "terminasses",
+    "3s": "terminasse",
+    "1p": "terminássemos",
+    "2p": "terminásseis",
+    "3p": "terminassem"
+  },
+  "FutSC": {
+    "1s": "terminar",
+    "2s": "terminares",
+    "3s": "terminar",
+    "1p": "terminarmos",
+    "2p": "terminardes",
+    "3p": "terminarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "termina",
+    "3s": "termine",
+    "1p": "terminemos",
+    "2p": "terminai",
+    "3p": "terminem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não termines",
+    "3s": "não termine",
+    "1p": "não terminemos",
+    "2p": "não termineis",
+    "3p": "não terminem"
+  },
+  "Part-ter": {
+    "": "terminado"
+  },
+  "Part-ser": {
+    "ms": "terminado",
+    "fs": "terminada",
+    "mp": "terminados",
+    "fp": "terminadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fatigar"
+  },
+  "Ger": {
+    "": "fatigando"
+  },
+  "PresI": {
+    "1s": "fatigo",
+    "2s": "fatigas",
+    "3s": "fatiga",
+    "1p": "fatigamos",
+    "2p": "fatigáis",
+    "3p": "fatigan"
+  },
+  "PImpI": {
+    "1s": "fatigaba",
+    "2s": "fatigabas",
+    "3s": "fatigaba",
+    "1p": "fatigábamos",
+    "2p": "fatigabais",
+    "3p": "fatigaban"
+  },
+  "PPSI": {
+    "1s": "fatigué",
+    "2s": "fatigaste",
+    "3s": "fatigó",
+    "1p": "fatigamos",
+    "2p": "fatigasteis",
+    "3p": "fatigaron"
+  },
+  "FutSI": {
+    "1s": "fatigaré",
+    "2s": "fatigarás",
+    "3s": "fatigará",
+    "1p": "fatigaremos",
+    "2p": "fatigaréis",
+    "3p": "fatigarán"
+  },
+  "CondS": {
+    "1s": "fatigaría",
+    "2s": "fatigarías",
+    "3s": "fatigaría",
+    "1p": "fatigaríamos",
+    "2p": "fatigaríais",
+    "3p": "fatigarían"
+  },
+  "PresC": {
+    "1s": "fatigue",
+    "2s": "fatigues",
+    "3s": "fatigue",
+    "1p": "fatiguemos",
+    "2p": "fatiguéis",
+    "3p": "fatiguen"
+  },
+  "PMQPSI": {
+    "1s": "fatigara",
+    "2s": "fatigaras",
+    "3s": "fatigara",
+    "1p": "fatigáramos",
+    "2p": "fatigarais",
+    "3p": "fatigaran"
+  },
+  "PImpC": {
+    "1s": "fatigase",
+    "2s": "fatigases",
+    "3s": "fatigase",
+    "1p": "fatigásemos",
+    "2p": "fatigaseis",
+    "3p": "fatigasen"
+  },
+  "FutSC": {
+    "1s": "fatigare",
+    "2s": "fatigares",
+    "3s": "fatigare",
+    "1p": "fatigáremos",
+    "2p": "fatigareis",
+    "3p": "fatigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fatiga",
+    "3s": "fatigue",
+    "1p": "fatiguemos",
+    "2p": "fatigad",
+    "3p": "fatiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fatigues",
+    "3s": "no fatigue",
+    "1p": "no fatiguemos",
+    "2p": "no fatiguéis",
+    "3p": "no fatiguen"
+  },
+  "Part-ter": {
+    "": "fatigado"
+  },
+  "Part-ser": {
+    "ms": "fatigado",
+    "fs": "fatigada",
+    "mp": "fatigados",
+    "fp": "fatigadas"
+  }
+}

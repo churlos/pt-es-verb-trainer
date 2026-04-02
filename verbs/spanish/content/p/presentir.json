@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "presentir"
+  },
+  "Ger": {
+    "": "presintiendo"
+  },
+  "PresI": {
+    "1s": "presiento",
+    "2s": "presientes",
+    "3s": "presiente",
+    "1p": "presentimos",
+    "2p": "presentís",
+    "3p": "presienten"
+  },
+  "PImpI": {
+    "1s": "presentía",
+    "2s": "presentías",
+    "3s": "presentía",
+    "1p": "presentíamos",
+    "2p": "presentíais",
+    "3p": "presentían"
+  },
+  "PPSI": {
+    "1s": "presentí",
+    "2s": "presentiste",
+    "3s": "presintió",
+    "1p": "presentimos",
+    "2p": "presentisteis",
+    "3p": "presintieron"
+  },
+  "FutSI": {
+    "1s": "presentiré",
+    "2s": "presentirás",
+    "3s": "presentirá",
+    "1p": "presentiremos",
+    "2p": "presentiréis",
+    "3p": "presentirán"
+  },
+  "CondS": {
+    "1s": "presentiría",
+    "2s": "presentirías",
+    "3s": "presentiría",
+    "1p": "presentiríamos",
+    "2p": "presentiríais",
+    "3p": "presentirían"
+  },
+  "PresC": {
+    "1s": "presienta",
+    "2s": "presientas",
+    "3s": "presienta",
+    "1p": "presintamos",
+    "2p": "presintáis",
+    "3p": "presientan"
+  },
+  "PMQPSI": {
+    "1s": "presintiera",
+    "2s": "presintieras",
+    "3s": "presintiera",
+    "1p": "presintiéramos",
+    "2p": "presintierais",
+    "3p": "presintieran"
+  },
+  "PImpC": {
+    "1s": "presintiese",
+    "2s": "presintieses",
+    "3s": "presintiese",
+    "1p": "presintiésemos",
+    "2p": "presintieseis",
+    "3p": "presintiesen"
+  },
+  "FutSC": {
+    "1s": "presintiere",
+    "2s": "presintieres",
+    "3s": "presintiere",
+    "1p": "presintiéremos",
+    "2p": "presintiereis",
+    "3p": "presintieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "presiente",
+    "3s": "presienta",
+    "1p": "presintamos",
+    "2p": "presentid",
+    "3p": "presientan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no presientas",
+    "3s": "no presienta",
+    "1p": "no presintamos",
+    "2p": "no presintáis",
+    "3p": "no presientan"
+  },
+  "Part-ter": {
+    "": "presentido"
+  },
+  "Part-ser": {
+    "ms": "presentido",
+    "fs": "presentida",
+    "mp": "presentidos",
+    "fp": "presentidas"
+  }
+}

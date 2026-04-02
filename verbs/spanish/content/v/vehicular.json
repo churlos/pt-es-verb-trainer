@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vehicular"
+  },
+  "Ger": {
+    "": "vehiculando"
+  },
+  "PresI": {
+    "1s": "vehiculo",
+    "2s": "vehiculas",
+    "3s": "vehicula",
+    "1p": "vehiculamos",
+    "2p": "vehiculáis",
+    "3p": "vehiculan"
+  },
+  "PImpI": {
+    "1s": "vehiculaba",
+    "2s": "vehiculabas",
+    "3s": "vehiculaba",
+    "1p": "vehiculábamos",
+    "2p": "vehiculabais",
+    "3p": "vehiculaban"
+  },
+  "PPSI": {
+    "1s": "vehiculé",
+    "2s": "vehiculaste",
+    "3s": "vehiculó",
+    "1p": "vehiculamos",
+    "2p": "vehiculasteis",
+    "3p": "vehicularon"
+  },
+  "FutSI": {
+    "1s": "vehicularé",
+    "2s": "vehicularás",
+    "3s": "vehiculará",
+    "1p": "vehicularemos",
+    "2p": "vehicularéis",
+    "3p": "vehicularán"
+  },
+  "CondS": {
+    "1s": "vehicularía",
+    "2s": "vehicularías",
+    "3s": "vehicularía",
+    "1p": "vehicularíamos",
+    "2p": "vehicularíais",
+    "3p": "vehicularían"
+  },
+  "PresC": {
+    "1s": "vehicule",
+    "2s": "vehicules",
+    "3s": "vehicule",
+    "1p": "vehiculemos",
+    "2p": "vehiculéis",
+    "3p": "vehiculen"
+  },
+  "PMQPSI": {
+    "1s": "vehiculara",
+    "2s": "vehicularas",
+    "3s": "vehiculara",
+    "1p": "vehiculáramos",
+    "2p": "vehicularais",
+    "3p": "vehicularan"
+  },
+  "PImpC": {
+    "1s": "vehiculase",
+    "2s": "vehiculases",
+    "3s": "vehiculase",
+    "1p": "vehiculásemos",
+    "2p": "vehiculaseis",
+    "3p": "vehiculasen"
+  },
+  "FutSC": {
+    "1s": "vehiculare",
+    "2s": "vehiculares",
+    "3s": "vehiculare",
+    "1p": "vehiculáremos",
+    "2p": "vehiculareis",
+    "3p": "vehicularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vehicula",
+    "3s": "vehicule",
+    "1p": "vehiculemos",
+    "2p": "vehiculad",
+    "3p": "vehiculen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vehicules",
+    "3s": "no vehicule",
+    "1p": "no vehiculemos",
+    "2p": "no vehiculéis",
+    "3p": "no vehiculen"
+  },
+  "Part-ter": {
+    "": "vehiculado"
+  },
+  "Part-ser": {
+    "ms": "vehiculado",
+    "fs": "vehiculada",
+    "mp": "vehiculados",
+    "fp": "vehiculadas"
+  }
+}

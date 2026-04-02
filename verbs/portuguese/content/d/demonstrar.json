@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "demonstrar"
+  },
+  "InfP": {
+    "1s": "demonstrar",
+    "2s": "demonstrares",
+    "3s": "demonstrar",
+    "1p": "demonstrarmos",
+    "2p": "demonstrardes",
+    "3p": "demonstrarem"
+  },
+  "Ger": {
+    "": "demonstrando"
+  },
+  "PresI": {
+    "1s": "demonstro",
+    "2s": "demonstras",
+    "3s": "demonstra",
+    "1p": "demonstramos",
+    "2p": "demonstrais",
+    "3p": "demonstram"
+  },
+  "PImpI": {
+    "1s": "demonstrava",
+    "2s": "demonstravas",
+    "3s": "demonstrava",
+    "1p": "demonstrávamos",
+    "2p": "demonstráveis",
+    "3p": "demonstravam"
+  },
+  "PPSI": {
+    "1s": "demonstrei",
+    "2s": "demonstraste",
+    "3s": "demonstrou",
+    "1p": "demonstrámos",
+    "2p": "demonstrastes",
+    "3p": "demonstraram"
+  },
+  "PMQPSI": {
+    "1s": "demonstrara",
+    "2s": "demonstraras",
+    "3s": "demonstrara",
+    "1p": "demonstráramos",
+    "2p": "demonstráreis",
+    "3p": "demonstraram"
+  },
+  "FutSI": {
+    "1s": "demonstrarei",
+    "2s": "demonstrarás",
+    "3s": "demonstrará",
+    "1p": "demonstraremos",
+    "2p": "demonstrareis",
+    "3p": "demonstrarão"
+  },
+  "CondS": {
+    "1s": "demonstraria",
+    "2s": "demonstrarias",
+    "3s": "demonstraria",
+    "1p": "demonstraríamos",
+    "2p": "demonstraríeis",
+    "3p": "demonstrariam"
+  },
+  "PresC": {
+    "1s": "demonstre",
+    "2s": "demonstres",
+    "3s": "demonstre",
+    "1p": "demonstremos",
+    "2p": "demonstreis",
+    "3p": "demonstrem"
+  },
+  "PImpC": {
+    "1s": "demonstrasse",
+    "2s": "demonstrasses",
+    "3s": "demonstrasse",
+    "1p": "demonstrássemos",
+    "2p": "demonstrásseis",
+    "3p": "demonstrassem"
+  },
+  "FutSC": {
+    "1s": "demonstrar",
+    "2s": "demonstrares",
+    "3s": "demonstrar",
+    "1p": "demonstrarmos",
+    "2p": "demonstrardes",
+    "3p": "demonstrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demonstra",
+    "3s": "demonstre",
+    "1p": "demonstremos",
+    "2p": "demonstrai",
+    "3p": "demonstrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não demonstres",
+    "3s": "não demonstre",
+    "1p": "não demonstremos",
+    "2p": "não demonstreis",
+    "3p": "não demonstrem"
+  },
+  "Part-ter": {
+    "": "demonstrado"
+  },
+  "Part-ser": {
+    "ms": "demonstrado",
+    "fs": "demonstrada",
+    "mp": "demonstrados",
+    "fp": "demonstradas"
+  }
+}

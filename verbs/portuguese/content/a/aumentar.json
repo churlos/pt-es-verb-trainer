@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aumentar"
+  },
+  "InfP": {
+    "1s": "aumentar",
+    "2s": "aumentares",
+    "3s": "aumentar",
+    "1p": "aumentarmos",
+    "2p": "aumentardes",
+    "3p": "aumentarem"
+  },
+  "Ger": {
+    "": "aumentando"
+  },
+  "PresI": {
+    "1s": "aumento",
+    "2s": "aumentas",
+    "3s": "aumenta",
+    "1p": "aumentamos",
+    "2p": "aumentais",
+    "3p": "aumentam"
+  },
+  "PImpI": {
+    "1s": "aumentava",
+    "2s": "aumentavas",
+    "3s": "aumentava",
+    "1p": "aumentávamos",
+    "2p": "aumentáveis",
+    "3p": "aumentavam"
+  },
+  "PPSI": {
+    "1s": "aumentei",
+    "2s": "aumentaste",
+    "3s": "aumentou",
+    "1p": "aumentámos",
+    "2p": "aumentastes",
+    "3p": "aumentaram"
+  },
+  "PMQPSI": {
+    "1s": "aumentara",
+    "2s": "aumentaras",
+    "3s": "aumentara",
+    "1p": "aumentáramos",
+    "2p": "aumentáreis",
+    "3p": "aumentaram"
+  },
+  "FutSI": {
+    "1s": "aumentarei",
+    "2s": "aumentarás",
+    "3s": "aumentará",
+    "1p": "aumentaremos",
+    "2p": "aumentareis",
+    "3p": "aumentarão"
+  },
+  "CondS": {
+    "1s": "aumentaria",
+    "2s": "aumentarias",
+    "3s": "aumentaria",
+    "1p": "aumentaríamos",
+    "2p": "aumentaríeis",
+    "3p": "aumentariam"
+  },
+  "PresC": {
+    "1s": "aumente",
+    "2s": "aumentes",
+    "3s": "aumente",
+    "1p": "aumentemos",
+    "2p": "aumenteis",
+    "3p": "aumentem"
+  },
+  "PImpC": {
+    "1s": "aumentasse",
+    "2s": "aumentasses",
+    "3s": "aumentasse",
+    "1p": "aumentássemos",
+    "2p": "aumentásseis",
+    "3p": "aumentassem"
+  },
+  "FutSC": {
+    "1s": "aumentar",
+    "2s": "aumentares",
+    "3s": "aumentar",
+    "1p": "aumentarmos",
+    "2p": "aumentardes",
+    "3p": "aumentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aumenta",
+    "3s": "aumente",
+    "1p": "aumentemos",
+    "2p": "aumentai",
+    "3p": "aumentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aumentes",
+    "3s": "não aumente",
+    "1p": "não aumentemos",
+    "2p": "não aumenteis",
+    "3p": "não aumentem"
+  },
+  "Part-ter": {
+    "": "aumentado"
+  },
+  "Part-ser": {
+    "ms": "aumentado",
+    "fs": "aumentada",
+    "mp": "aumentados",
+    "fp": "aumentadas"
+  }
+}

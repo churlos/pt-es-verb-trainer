@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deliberar"
+  },
+  "InfP": {
+    "1s": "deliberar",
+    "2s": "deliberares",
+    "3s": "deliberar",
+    "1p": "deliberarmos",
+    "2p": "deliberardes",
+    "3p": "deliberarem"
+  },
+  "Ger": {
+    "": "deliberando"
+  },
+  "PresI": {
+    "1s": "delibero",
+    "2s": "deliberas",
+    "3s": "delibera",
+    "1p": "deliberamos",
+    "2p": "deliberais",
+    "3p": "deliberam"
+  },
+  "PImpI": {
+    "1s": "deliberava",
+    "2s": "deliberavas",
+    "3s": "deliberava",
+    "1p": "deliberávamos",
+    "2p": "deliberáveis",
+    "3p": "deliberavam"
+  },
+  "PPSI": {
+    "1s": "deliberei",
+    "2s": "deliberaste",
+    "3s": "deliberou",
+    "1p": "deliberámos",
+    "2p": "deliberastes",
+    "3p": "deliberaram"
+  },
+  "PMQPSI": {
+    "1s": "deliberara",
+    "2s": "deliberaras",
+    "3s": "deliberara",
+    "1p": "deliberáramos",
+    "2p": "deliberáreis",
+    "3p": "deliberaram"
+  },
+  "FutSI": {
+    "1s": "deliberarei",
+    "2s": "deliberarás",
+    "3s": "deliberará",
+    "1p": "deliberaremos",
+    "2p": "deliberareis",
+    "3p": "deliberarão"
+  },
+  "CondS": {
+    "1s": "deliberaria",
+    "2s": "deliberarias",
+    "3s": "deliberaria",
+    "1p": "deliberaríamos",
+    "2p": "deliberaríeis",
+    "3p": "deliberariam"
+  },
+  "PresC": {
+    "1s": "delibere",
+    "2s": "deliberes",
+    "3s": "delibere",
+    "1p": "deliberemos",
+    "2p": "delibereis",
+    "3p": "deliberem"
+  },
+  "PImpC": {
+    "1s": "deliberasse",
+    "2s": "deliberasses",
+    "3s": "deliberasse",
+    "1p": "deliberássemos",
+    "2p": "deliberásseis",
+    "3p": "deliberassem"
+  },
+  "FutSC": {
+    "1s": "deliberar",
+    "2s": "deliberares",
+    "3s": "deliberar",
+    "1p": "deliberarmos",
+    "2p": "deliberardes",
+    "3p": "deliberarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "delibera",
+    "3s": "delibere",
+    "1p": "deliberemos",
+    "2p": "deliberai",
+    "3p": "deliberem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deliberes",
+    "3s": "não delibere",
+    "1p": "não deliberemos",
+    "2p": "não delibereis",
+    "3p": "não deliberem"
+  },
+  "Part-ter": {
+    "": "deliberado"
+  },
+  "Part-ser": {
+    "ms": "deliberado",
+    "fs": "deliberada",
+    "mp": "deliberados",
+    "fp": "deliberadas"
+  }
+}

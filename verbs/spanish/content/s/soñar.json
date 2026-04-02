@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "soñar"
+  },
+  "Ger": {
+    "": "soñando"
+  },
+  "PresI": {
+    "1s": "sueño",
+    "2s": "sueñas",
+    "3s": "sueña",
+    "1p": "soñamos",
+    "2p": "soñáis",
+    "3p": "sueñan"
+  },
+  "PImpI": {
+    "1s": "soñaba",
+    "2s": "soñabas",
+    "3s": "soñaba",
+    "1p": "soñábamos",
+    "2p": "soñabais",
+    "3p": "soñaban"
+  },
+  "PPSI": {
+    "1s": "soñé",
+    "2s": "soñaste",
+    "3s": "soñó",
+    "1p": "soñamos",
+    "2p": "soñasteis",
+    "3p": "soñaron"
+  },
+  "FutSI": {
+    "1s": "soñaré",
+    "2s": "soñarás",
+    "3s": "soñará",
+    "1p": "soñaremos",
+    "2p": "soñaréis",
+    "3p": "soñarán"
+  },
+  "CondS": {
+    "1s": "soñaría",
+    "2s": "soñarías",
+    "3s": "soñaría",
+    "1p": "soñaríamos",
+    "2p": "soñaríais",
+    "3p": "soñarían"
+  },
+  "PresC": {
+    "1s": "sueñe",
+    "2s": "sueñes",
+    "3s": "sueñe",
+    "1p": "soñemos",
+    "2p": "soñéis",
+    "3p": "sueñen"
+  },
+  "PMQPSI": {
+    "1s": "soñara",
+    "2s": "soñaras",
+    "3s": "soñara",
+    "1p": "soñáramos",
+    "2p": "soñarais",
+    "3p": "soñaran"
+  },
+  "PImpC": {
+    "1s": "soñase",
+    "2s": "soñases",
+    "3s": "soñase",
+    "1p": "soñásemos",
+    "2p": "soñaseis",
+    "3p": "soñasen"
+  },
+  "FutSC": {
+    "1s": "soñare",
+    "2s": "soñares",
+    "3s": "soñare",
+    "1p": "soñáremos",
+    "2p": "soñareis",
+    "3p": "soñaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sueña",
+    "3s": "sueñe",
+    "1p": "soñemos",
+    "2p": "soñad",
+    "3p": "sueñen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sueñes",
+    "3s": "no sueñe",
+    "1p": "no soñemos",
+    "2p": "no soñéis",
+    "3p": "no sueñen"
+  },
+  "Part-ter": {
+    "": "soñado"
+  },
+  "Part-ser": {
+    "ms": "soñado",
+    "fs": "soñada",
+    "mp": "soñados",
+    "fp": "soñadas"
+  }
+}

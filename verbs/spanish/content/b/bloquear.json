@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bloquear"
+  },
+  "Ger": {
+    "": "bloqueando"
+  },
+  "PresI": {
+    "1s": "bloqueo",
+    "2s": "bloqueas",
+    "3s": "bloquea",
+    "1p": "bloqueamos",
+    "2p": "bloqueáis",
+    "3p": "bloquean"
+  },
+  "PImpI": {
+    "1s": "bloqueaba",
+    "2s": "bloqueabas",
+    "3s": "bloqueaba",
+    "1p": "bloqueábamos",
+    "2p": "bloqueabais",
+    "3p": "bloqueaban"
+  },
+  "PPSI": {
+    "1s": "bloqueé",
+    "2s": "bloqueaste",
+    "3s": "bloqueó",
+    "1p": "bloqueamos",
+    "2p": "bloqueasteis",
+    "3p": "bloquearon"
+  },
+  "FutSI": {
+    "1s": "bloquearé",
+    "2s": "bloquearás",
+    "3s": "bloqueará",
+    "1p": "bloquearemos",
+    "2p": "bloquearéis",
+    "3p": "bloquearán"
+  },
+  "CondS": {
+    "1s": "bloquearía",
+    "2s": "bloquearías",
+    "3s": "bloquearía",
+    "1p": "bloquearíamos",
+    "2p": "bloquearíais",
+    "3p": "bloquearían"
+  },
+  "PresC": {
+    "1s": "bloquee",
+    "2s": "bloquees",
+    "3s": "bloquee",
+    "1p": "bloqueemos",
+    "2p": "bloqueéis",
+    "3p": "bloqueen"
+  },
+  "PMQPSI": {
+    "1s": "bloqueara",
+    "2s": "bloquearas",
+    "3s": "bloqueara",
+    "1p": "bloqueáramos",
+    "2p": "bloquearais",
+    "3p": "bloquearan"
+  },
+  "PImpC": {
+    "1s": "bloquease",
+    "2s": "bloqueases",
+    "3s": "bloquease",
+    "1p": "bloqueásemos",
+    "2p": "bloqueaseis",
+    "3p": "bloqueasen"
+  },
+  "FutSC": {
+    "1s": "bloqueare",
+    "2s": "bloqueares",
+    "3s": "bloqueare",
+    "1p": "bloqueáremos",
+    "2p": "bloqueareis",
+    "3p": "bloquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bloquea",
+    "3s": "bloquee",
+    "1p": "bloqueemos",
+    "2p": "bloquead",
+    "3p": "bloqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bloquees",
+    "3s": "no bloquee",
+    "1p": "no bloqueemos",
+    "2p": "no bloqueéis",
+    "3p": "no bloqueen"
+  },
+  "Part-ter": {
+    "": "bloqueado"
+  },
+  "Part-ser": {
+    "ms": "bloqueado",
+    "fs": "bloqueada",
+    "mp": "bloqueados",
+    "fp": "bloqueadas"
+  }
+}

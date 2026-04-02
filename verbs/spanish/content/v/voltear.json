@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "voltear"
+  },
+  "Ger": {
+    "": "volteando"
+  },
+  "PresI": {
+    "1s": "volteo",
+    "2s": "volteas",
+    "3s": "voltea",
+    "1p": "volteamos",
+    "2p": "volteáis",
+    "3p": "voltean"
+  },
+  "PImpI": {
+    "1s": "volteaba",
+    "2s": "volteabas",
+    "3s": "volteaba",
+    "1p": "volteábamos",
+    "2p": "volteabais",
+    "3p": "volteaban"
+  },
+  "PPSI": {
+    "1s": "volteé",
+    "2s": "volteaste",
+    "3s": "volteó",
+    "1p": "volteamos",
+    "2p": "volteasteis",
+    "3p": "voltearon"
+  },
+  "FutSI": {
+    "1s": "voltearé",
+    "2s": "voltearás",
+    "3s": "volteará",
+    "1p": "voltearemos",
+    "2p": "voltearéis",
+    "3p": "voltearán"
+  },
+  "CondS": {
+    "1s": "voltearía",
+    "2s": "voltearías",
+    "3s": "voltearía",
+    "1p": "voltearíamos",
+    "2p": "voltearíais",
+    "3p": "voltearían"
+  },
+  "PresC": {
+    "1s": "voltee",
+    "2s": "voltees",
+    "3s": "voltee",
+    "1p": "volteemos",
+    "2p": "volteéis",
+    "3p": "volteen"
+  },
+  "PMQPSI": {
+    "1s": "volteara",
+    "2s": "voltearas",
+    "3s": "volteara",
+    "1p": "volteáramos",
+    "2p": "voltearais",
+    "3p": "voltearan"
+  },
+  "PImpC": {
+    "1s": "voltease",
+    "2s": "volteases",
+    "3s": "voltease",
+    "1p": "volteásemos",
+    "2p": "volteaseis",
+    "3p": "volteasen"
+  },
+  "FutSC": {
+    "1s": "volteare",
+    "2s": "volteares",
+    "3s": "volteare",
+    "1p": "volteáremos",
+    "2p": "volteareis",
+    "3p": "voltearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "voltea",
+    "3s": "voltee",
+    "1p": "volteemos",
+    "2p": "voltead",
+    "3p": "volteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no voltees",
+    "3s": "no voltee",
+    "1p": "no volteemos",
+    "2p": "no volteéis",
+    "3p": "no volteen"
+  },
+  "Part-ter": {
+    "": "volteado"
+  },
+  "Part-ser": {
+    "ms": "volteado",
+    "fs": "volteada",
+    "mp": "volteados",
+    "fp": "volteadas"
+  }
+}

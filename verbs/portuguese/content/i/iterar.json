@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "iterar"
+  },
+  "InfP": {
+    "1s": "iterar",
+    "2s": "iterares",
+    "3s": "iterar",
+    "1p": "iterarmos",
+    "2p": "iterardes",
+    "3p": "iterarem"
+  },
+  "Ger": {
+    "": "iterando"
+  },
+  "PresI": {
+    "1s": "itero",
+    "2s": "iteras",
+    "3s": "itera",
+    "1p": "iteramos",
+    "2p": "iterais",
+    "3p": "iteram"
+  },
+  "PImpI": {
+    "1s": "iterava",
+    "2s": "iteravas",
+    "3s": "iterava",
+    "1p": "iterávamos",
+    "2p": "iteráveis",
+    "3p": "iteravam"
+  },
+  "PPSI": {
+    "1s": "iterei",
+    "2s": "iteraste",
+    "3s": "iterou",
+    "1p": "iterámos",
+    "2p": "iterastes",
+    "3p": "iteraram"
+  },
+  "PMQPSI": {
+    "1s": "iterara",
+    "2s": "iteraras",
+    "3s": "iterara",
+    "1p": "iteráramos",
+    "2p": "iteráreis",
+    "3p": "iteraram"
+  },
+  "FutSI": {
+    "1s": "iterarei",
+    "2s": "iterarás",
+    "3s": "iterará",
+    "1p": "iteraremos",
+    "2p": "iterareis",
+    "3p": "iterarão"
+  },
+  "CondS": {
+    "1s": "iteraria",
+    "2s": "iterarias",
+    "3s": "iteraria",
+    "1p": "iteraríamos",
+    "2p": "iteraríeis",
+    "3p": "iterariam"
+  },
+  "PresC": {
+    "1s": "itere",
+    "2s": "iteres",
+    "3s": "itere",
+    "1p": "iteremos",
+    "2p": "itereis",
+    "3p": "iterem"
+  },
+  "PImpC": {
+    "1s": "iterasse",
+    "2s": "iterasses",
+    "3s": "iterasse",
+    "1p": "iterássemos",
+    "2p": "iterásseis",
+    "3p": "iterassem"
+  },
+  "FutSC": {
+    "1s": "iterar",
+    "2s": "iterares",
+    "3s": "iterar",
+    "1p": "iterarmos",
+    "2p": "iterardes",
+    "3p": "iterarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "itera",
+    "3s": "itere",
+    "1p": "iteremos",
+    "2p": "iterai",
+    "3p": "iterem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não iteres",
+    "3s": "não itere",
+    "1p": "não iteremos",
+    "2p": "não itereis",
+    "3p": "não iterem"
+  },
+  "Part-ter": {
+    "": "iterado"
+  },
+  "Part-ser": {
+    "ms": "iterado",
+    "fs": "iterada",
+    "mp": "iterados",
+    "fp": "iteradas"
+  }
+}

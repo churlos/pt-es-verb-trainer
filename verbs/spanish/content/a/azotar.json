@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "azotar"
+  },
+  "Ger": {
+    "": "azotando"
+  },
+  "PresI": {
+    "1s": "azoto",
+    "2s": "azotas",
+    "3s": "azota",
+    "1p": "azotamos",
+    "2p": "azotáis",
+    "3p": "azotan"
+  },
+  "PImpI": {
+    "1s": "azotaba",
+    "2s": "azotabas",
+    "3s": "azotaba",
+    "1p": "azotábamos",
+    "2p": "azotabais",
+    "3p": "azotaban"
+  },
+  "PPSI": {
+    "1s": "azoté",
+    "2s": "azotaste",
+    "3s": "azotó",
+    "1p": "azotamos",
+    "2p": "azotasteis",
+    "3p": "azotaron"
+  },
+  "FutSI": {
+    "1s": "azotaré",
+    "2s": "azotarás",
+    "3s": "azotará",
+    "1p": "azotaremos",
+    "2p": "azotaréis",
+    "3p": "azotarán"
+  },
+  "CondS": {
+    "1s": "azotaría",
+    "2s": "azotarías",
+    "3s": "azotaría",
+    "1p": "azotaríamos",
+    "2p": "azotaríais",
+    "3p": "azotarían"
+  },
+  "PresC": {
+    "1s": "azote",
+    "2s": "azotes",
+    "3s": "azote",
+    "1p": "azotemos",
+    "2p": "azotéis",
+    "3p": "azoten"
+  },
+  "PMQPSI": {
+    "1s": "azotara",
+    "2s": "azotaras",
+    "3s": "azotara",
+    "1p": "azotáramos",
+    "2p": "azotarais",
+    "3p": "azotaran"
+  },
+  "PImpC": {
+    "1s": "azotase",
+    "2s": "azotases",
+    "3s": "azotase",
+    "1p": "azotásemos",
+    "2p": "azotaseis",
+    "3p": "azotasen"
+  },
+  "FutSC": {
+    "1s": "azotare",
+    "2s": "azotares",
+    "3s": "azotare",
+    "1p": "azotáremos",
+    "2p": "azotareis",
+    "3p": "azotaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "azota",
+    "3s": "azote",
+    "1p": "azotemos",
+    "2p": "azotad",
+    "3p": "azoten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no azotes",
+    "3s": "no azote",
+    "1p": "no azotemos",
+    "2p": "no azotéis",
+    "3p": "no azoten"
+  },
+  "Part-ter": {
+    "": "azotado"
+  },
+  "Part-ser": {
+    "ms": "azotado",
+    "fs": "azotada",
+    "mp": "azotados",
+    "fp": "azotadas"
+  }
+}

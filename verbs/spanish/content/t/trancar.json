@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trancar"
+  },
+  "Ger": {
+    "": "trancando"
+  },
+  "PresI": {
+    "1s": "tranco",
+    "2s": "trancas",
+    "3s": "tranca",
+    "1p": "trancamos",
+    "2p": "trancáis",
+    "3p": "trancan"
+  },
+  "PImpI": {
+    "1s": "trancaba",
+    "2s": "trancabas",
+    "3s": "trancaba",
+    "1p": "trancábamos",
+    "2p": "trancabais",
+    "3p": "trancaban"
+  },
+  "PPSI": {
+    "1s": "tranqué",
+    "2s": "trancaste",
+    "3s": "trancó",
+    "1p": "trancamos",
+    "2p": "trancasteis",
+    "3p": "trancaron"
+  },
+  "FutSI": {
+    "1s": "trancaré",
+    "2s": "trancarás",
+    "3s": "trancará",
+    "1p": "trancaremos",
+    "2p": "trancaréis",
+    "3p": "trancarán"
+  },
+  "CondS": {
+    "1s": "trancaría",
+    "2s": "trancarías",
+    "3s": "trancaría",
+    "1p": "trancaríamos",
+    "2p": "trancaríais",
+    "3p": "trancarían"
+  },
+  "PresC": {
+    "1s": "tranque",
+    "2s": "tranques",
+    "3s": "tranque",
+    "1p": "tranquemos",
+    "2p": "tranquéis",
+    "3p": "tranquen"
+  },
+  "PMQPSI": {
+    "1s": "trancara",
+    "2s": "trancaras",
+    "3s": "trancara",
+    "1p": "trancáramos",
+    "2p": "trancarais",
+    "3p": "trancaran"
+  },
+  "PImpC": {
+    "1s": "trancase",
+    "2s": "trancases",
+    "3s": "trancase",
+    "1p": "trancásemos",
+    "2p": "trancaseis",
+    "3p": "trancasen"
+  },
+  "FutSC": {
+    "1s": "trancare",
+    "2s": "trancares",
+    "3s": "trancare",
+    "1p": "trancáremos",
+    "2p": "trancareis",
+    "3p": "trancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tranca",
+    "3s": "tranque",
+    "1p": "tranquemos",
+    "2p": "trancad",
+    "3p": "tranquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tranques",
+    "3s": "no tranque",
+    "1p": "no tranquemos",
+    "2p": "no tranquéis",
+    "3p": "no tranquen"
+  },
+  "Part-ter": {
+    "": "trancado"
+  },
+  "Part-ser": {
+    "ms": "trancado",
+    "fs": "trancada",
+    "mp": "trancados",
+    "fp": "trancadas"
+  }
+}

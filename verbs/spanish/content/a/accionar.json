@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "accionar"
+  },
+  "Ger": {
+    "": "accionando"
+  },
+  "PresI": {
+    "1s": "acciono",
+    "2s": "accionas",
+    "3s": "acciona",
+    "1p": "accionamos",
+    "2p": "accionáis",
+    "3p": "accionan"
+  },
+  "PImpI": {
+    "1s": "accionaba",
+    "2s": "accionabas",
+    "3s": "accionaba",
+    "1p": "accionábamos",
+    "2p": "accionabais",
+    "3p": "accionaban"
+  },
+  "PPSI": {
+    "1s": "accioné",
+    "2s": "accionaste",
+    "3s": "accionó",
+    "1p": "accionamos",
+    "2p": "accionasteis",
+    "3p": "accionaron"
+  },
+  "FutSI": {
+    "1s": "accionaré",
+    "2s": "accionarás",
+    "3s": "accionará",
+    "1p": "accionaremos",
+    "2p": "accionaréis",
+    "3p": "accionarán"
+  },
+  "CondS": {
+    "1s": "accionaría",
+    "2s": "accionarías",
+    "3s": "accionaría",
+    "1p": "accionaríamos",
+    "2p": "accionaríais",
+    "3p": "accionarían"
+  },
+  "PresC": {
+    "1s": "accione",
+    "2s": "acciones",
+    "3s": "accione",
+    "1p": "accionemos",
+    "2p": "accionéis",
+    "3p": "accionen"
+  },
+  "PMQPSI": {
+    "1s": "accionara",
+    "2s": "accionaras",
+    "3s": "accionara",
+    "1p": "accionáramos",
+    "2p": "accionarais",
+    "3p": "accionaran"
+  },
+  "PImpC": {
+    "1s": "accionase",
+    "2s": "accionases",
+    "3s": "accionase",
+    "1p": "accionásemos",
+    "2p": "accionaseis",
+    "3p": "accionasen"
+  },
+  "FutSC": {
+    "1s": "accionare",
+    "2s": "accionares",
+    "3s": "accionare",
+    "1p": "accionáremos",
+    "2p": "accionareis",
+    "3p": "accionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acciona",
+    "3s": "accione",
+    "1p": "accionemos",
+    "2p": "accionad",
+    "3p": "accionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no acciones",
+    "3s": "no accione",
+    "1p": "no accionemos",
+    "2p": "no accionéis",
+    "3p": "no accionen"
+  },
+  "Part-ter": {
+    "": "accionado"
+  },
+  "Part-ser": {
+    "ms": "accionado",
+    "fs": "accionada",
+    "mp": "accionados",
+    "fp": "accionadas"
+  }
+}

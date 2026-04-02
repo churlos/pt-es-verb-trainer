@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "autorizar"
+  },
+  "InfP": {
+    "1s": "autorizar",
+    "2s": "autorizares",
+    "3s": "autorizar",
+    "1p": "autorizarmos",
+    "2p": "autorizardes",
+    "3p": "autorizarem"
+  },
+  "Ger": {
+    "": "autorizando"
+  },
+  "PresI": {
+    "1s": "autorizo",
+    "2s": "autorizas",
+    "3s": "autoriza",
+    "1p": "autorizamos",
+    "2p": "autorizais",
+    "3p": "autorizam"
+  },
+  "PImpI": {
+    "1s": "autorizava",
+    "2s": "autorizavas",
+    "3s": "autorizava",
+    "1p": "autorizávamos",
+    "2p": "autorizáveis",
+    "3p": "autorizavam"
+  },
+  "PPSI": {
+    "1s": "autorizei",
+    "2s": "autorizaste",
+    "3s": "autorizou",
+    "1p": "autorizámos",
+    "2p": "autorizastes",
+    "3p": "autorizaram"
+  },
+  "PMQPSI": {
+    "1s": "autorizara",
+    "2s": "autorizaras",
+    "3s": "autorizara",
+    "1p": "autorizáramos",
+    "2p": "autorizáreis",
+    "3p": "autorizaram"
+  },
+  "FutSI": {
+    "1s": "autorizarei",
+    "2s": "autorizarás",
+    "3s": "autorizará",
+    "1p": "autorizaremos",
+    "2p": "autorizareis",
+    "3p": "autorizarão"
+  },
+  "CondS": {
+    "1s": "autorizaria",
+    "2s": "autorizarias",
+    "3s": "autorizaria",
+    "1p": "autorizaríamos",
+    "2p": "autorizaríeis",
+    "3p": "autorizariam"
+  },
+  "PresC": {
+    "1s": "autorize",
+    "2s": "autorizes",
+    "3s": "autorize",
+    "1p": "autorizemos",
+    "2p": "autorizeis",
+    "3p": "autorizem"
+  },
+  "PImpC": {
+    "1s": "autorizasse",
+    "2s": "autorizasses",
+    "3s": "autorizasse",
+    "1p": "autorizássemos",
+    "2p": "autorizásseis",
+    "3p": "autorizassem"
+  },
+  "FutSC": {
+    "1s": "autorizar",
+    "2s": "autorizares",
+    "3s": "autorizar",
+    "1p": "autorizarmos",
+    "2p": "autorizardes",
+    "3p": "autorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoriza",
+    "3s": "autorize",
+    "1p": "autorizemos",
+    "2p": "autorizai",
+    "3p": "autorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não autorizes",
+    "3s": "não autorize",
+    "1p": "não autorizemos",
+    "2p": "não autorizeis",
+    "3p": "não autorizem"
+  },
+  "Part-ter": {
+    "": "autorizado"
+  },
+  "Part-ser": {
+    "ms": "autorizado",
+    "fs": "autorizada",
+    "mp": "autorizados",
+    "fp": "autorizadas"
+  }
+}

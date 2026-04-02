@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prostrar"
+  },
+  "InfP": {
+    "1s": "prostrar",
+    "2s": "prostrares",
+    "3s": "prostrar",
+    "1p": "prostrarmos",
+    "2p": "prostrardes",
+    "3p": "prostrarem"
+  },
+  "Ger": {
+    "": "prostrando"
+  },
+  "PresI": {
+    "1s": "prostro",
+    "2s": "prostras",
+    "3s": "prostra",
+    "1p": "prostramos",
+    "2p": "prostrais",
+    "3p": "prostram"
+  },
+  "PImpI": {
+    "1s": "prostrava",
+    "2s": "prostravas",
+    "3s": "prostrava",
+    "1p": "prostrávamos",
+    "2p": "prostráveis",
+    "3p": "prostravam"
+  },
+  "PPSI": {
+    "1s": "prostrei",
+    "2s": "prostraste",
+    "3s": "prostrou",
+    "1p": "prostrámos",
+    "2p": "prostrastes",
+    "3p": "prostraram"
+  },
+  "PMQPSI": {
+    "1s": "prostrara",
+    "2s": "prostraras",
+    "3s": "prostrara",
+    "1p": "prostráramos",
+    "2p": "prostráreis",
+    "3p": "prostraram"
+  },
+  "FutSI": {
+    "1s": "prostrarei",
+    "2s": "prostrarás",
+    "3s": "prostrará",
+    "1p": "prostraremos",
+    "2p": "prostrareis",
+    "3p": "prostrarão"
+  },
+  "CondS": {
+    "1s": "prostraria",
+    "2s": "prostrarias",
+    "3s": "prostraria",
+    "1p": "prostraríamos",
+    "2p": "prostraríeis",
+    "3p": "prostrariam"
+  },
+  "PresC": {
+    "1s": "prostre",
+    "2s": "prostres",
+    "3s": "prostre",
+    "1p": "prostremos",
+    "2p": "prostreis",
+    "3p": "prostrem"
+  },
+  "PImpC": {
+    "1s": "prostrasse",
+    "2s": "prostrasses",
+    "3s": "prostrasse",
+    "1p": "prostrássemos",
+    "2p": "prostrásseis",
+    "3p": "prostrassem"
+  },
+  "FutSC": {
+    "1s": "prostrar",
+    "2s": "prostrares",
+    "3s": "prostrar",
+    "1p": "prostrarmos",
+    "2p": "prostrardes",
+    "3p": "prostrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prostra",
+    "3s": "prostre",
+    "1p": "prostremos",
+    "2p": "prostrai",
+    "3p": "prostrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prostres",
+    "3s": "não prostre",
+    "1p": "não prostremos",
+    "2p": "não prostreis",
+    "3p": "não prostrem"
+  },
+  "Part-ter": {
+    "": "prostrado"
+  },
+  "Part-ser": {
+    "ms": "prostrado",
+    "fs": "prostrada",
+    "mp": "prostrados",
+    "fp": "prostradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fatorar"
+  },
+  "InfP": {
+    "1s": "fatorar",
+    "2s": "fatorares",
+    "3s": "fatorar",
+    "1p": "fatorarmos",
+    "2p": "fatorardes",
+    "3p": "fatorarem"
+  },
+  "Ger": {
+    "": "fatorando"
+  },
+  "PresI": {
+    "1s": "fatoro",
+    "2s": "fatoras",
+    "3s": "fatora",
+    "1p": "fatoramos",
+    "2p": "fatorais",
+    "3p": "fatoram"
+  },
+  "PImpI": {
+    "1s": "fatorava",
+    "2s": "fatoravas",
+    "3s": "fatorava",
+    "1p": "fatorávamos",
+    "2p": "fatoráveis",
+    "3p": "fatoravam"
+  },
+  "PPSI": {
+    "1s": "fatorei",
+    "2s": "fatoraste",
+    "3s": "fatorou",
+    "1p": "fatorámos",
+    "2p": "fatorastes",
+    "3p": "fatoraram"
+  },
+  "PMQPSI": {
+    "1s": "fatorara",
+    "2s": "fatoraras",
+    "3s": "fatorara",
+    "1p": "fatoráramos",
+    "2p": "fatoráreis",
+    "3p": "fatoraram"
+  },
+  "FutSI": {
+    "1s": "fatorarei",
+    "2s": "fatorarás",
+    "3s": "fatorará",
+    "1p": "fatoraremos",
+    "2p": "fatorareis",
+    "3p": "fatorarão"
+  },
+  "CondS": {
+    "1s": "fatoraria",
+    "2s": "fatorarias",
+    "3s": "fatoraria",
+    "1p": "fatoraríamos",
+    "2p": "fatoraríeis",
+    "3p": "fatorariam"
+  },
+  "PresC": {
+    "1s": "fatore",
+    "2s": "fatores",
+    "3s": "fatore",
+    "1p": "fatoremos",
+    "2p": "fatoreis",
+    "3p": "fatorem"
+  },
+  "PImpC": {
+    "1s": "fatorasse",
+    "2s": "fatorasses",
+    "3s": "fatorasse",
+    "1p": "fatorássemos",
+    "2p": "fatorásseis",
+    "3p": "fatorassem"
+  },
+  "FutSC": {
+    "1s": "fatorar",
+    "2s": "fatorares",
+    "3s": "fatorar",
+    "1p": "fatorarmos",
+    "2p": "fatorardes",
+    "3p": "fatorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fatora",
+    "3s": "fatore",
+    "1p": "fatoremos",
+    "2p": "fatorai",
+    "3p": "fatorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fatores",
+    "3s": "não fatore",
+    "1p": "não fatoremos",
+    "2p": "não fatoreis",
+    "3p": "não fatorem"
+  },
+  "Part-ter": {
+    "": "fatorado"
+  },
+  "Part-ser": {
+    "ms": "fatorado",
+    "fs": "fatorada",
+    "mp": "fatorados",
+    "fp": "fatoradas"
+  }
+}

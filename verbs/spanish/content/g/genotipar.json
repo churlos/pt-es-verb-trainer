@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "genotipar"
+  },
+  "Ger": {
+    "": "genotipando"
+  },
+  "PresI": {
+    "1s": "genotipo",
+    "2s": "genotipas",
+    "3s": "genotipa",
+    "1p": "genotipamos",
+    "2p": "genotipáis",
+    "3p": "genotipan"
+  },
+  "PImpI": {
+    "1s": "genotipaba",
+    "2s": "genotipabas",
+    "3s": "genotipaba",
+    "1p": "genotipábamos",
+    "2p": "genotipabais",
+    "3p": "genotipaban"
+  },
+  "PPSI": {
+    "1s": "genotipé",
+    "2s": "genotipaste",
+    "3s": "genotipó",
+    "1p": "genotipamos",
+    "2p": "genotipasteis",
+    "3p": "genotiparon"
+  },
+  "FutSI": {
+    "1s": "genotiparé",
+    "2s": "genotiparás",
+    "3s": "genotipará",
+    "1p": "genotiparemos",
+    "2p": "genotiparéis",
+    "3p": "genotiparán"
+  },
+  "CondS": {
+    "1s": "genotiparía",
+    "2s": "genotiparías",
+    "3s": "genotiparía",
+    "1p": "genotiparíamos",
+    "2p": "genotiparíais",
+    "3p": "genotiparían"
+  },
+  "PresC": {
+    "1s": "genotipe",
+    "2s": "genotipes",
+    "3s": "genotipe",
+    "1p": "genotipemos",
+    "2p": "genotipéis",
+    "3p": "genotipen"
+  },
+  "PMQPSI": {
+    "1s": "genotipara",
+    "2s": "genotiparas",
+    "3s": "genotipara",
+    "1p": "genotipáramos",
+    "2p": "genotiparais",
+    "3p": "genotiparan"
+  },
+  "PImpC": {
+    "1s": "genotipase",
+    "2s": "genotipases",
+    "3s": "genotipase",
+    "1p": "genotipásemos",
+    "2p": "genotipaseis",
+    "3p": "genotipasen"
+  },
+  "FutSC": {
+    "1s": "genotipare",
+    "2s": "genotipares",
+    "3s": "genotipare",
+    "1p": "genotipáremos",
+    "2p": "genotipareis",
+    "3p": "genotiparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "genotipa",
+    "3s": "genotipe",
+    "1p": "genotipemos",
+    "2p": "genotipad",
+    "3p": "genotipen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no genotipes",
+    "3s": "no genotipe",
+    "1p": "no genotipemos",
+    "2p": "no genotipéis",
+    "3p": "no genotipen"
+  },
+  "Part-ter": {
+    "": "genotipado"
+  },
+  "Part-ser": {
+    "ms": "genotipado",
+    "fs": "genotipada",
+    "mp": "genotipados",
+    "fp": "genotipadas"
+  }
+}

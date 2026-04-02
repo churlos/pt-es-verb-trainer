@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "soprar"
+  },
+  "InfP": {
+    "1s": "soprar",
+    "2s": "soprares",
+    "3s": "soprar",
+    "1p": "soprarmos",
+    "2p": "soprardes",
+    "3p": "soprarem"
+  },
+  "Ger": {
+    "": "soprando"
+  },
+  "PresI": {
+    "1s": "sopro",
+    "2s": "sopras",
+    "3s": "sopra",
+    "1p": "sopramos",
+    "2p": "soprais",
+    "3p": "sopram"
+  },
+  "PImpI": {
+    "1s": "soprava",
+    "2s": "sopravas",
+    "3s": "soprava",
+    "1p": "soprávamos",
+    "2p": "sopráveis",
+    "3p": "sopravam"
+  },
+  "PPSI": {
+    "1s": "soprei",
+    "2s": "sopraste",
+    "3s": "soprou",
+    "1p": "soprámos",
+    "2p": "soprastes",
+    "3p": "sopraram"
+  },
+  "PMQPSI": {
+    "1s": "soprara",
+    "2s": "sopraras",
+    "3s": "soprara",
+    "1p": "sopráramos",
+    "2p": "sopráreis",
+    "3p": "sopraram"
+  },
+  "FutSI": {
+    "1s": "soprarei",
+    "2s": "soprarás",
+    "3s": "soprará",
+    "1p": "sopraremos",
+    "2p": "soprareis",
+    "3p": "soprarão"
+  },
+  "CondS": {
+    "1s": "sopraria",
+    "2s": "soprarias",
+    "3s": "sopraria",
+    "1p": "sopraríamos",
+    "2p": "sopraríeis",
+    "3p": "soprariam"
+  },
+  "PresC": {
+    "1s": "sopre",
+    "2s": "sopres",
+    "3s": "sopre",
+    "1p": "sopremos",
+    "2p": "sopreis",
+    "3p": "soprem"
+  },
+  "PImpC": {
+    "1s": "soprasse",
+    "2s": "soprasses",
+    "3s": "soprasse",
+    "1p": "soprássemos",
+    "2p": "soprásseis",
+    "3p": "soprassem"
+  },
+  "FutSC": {
+    "1s": "soprar",
+    "2s": "soprares",
+    "3s": "soprar",
+    "1p": "soprarmos",
+    "2p": "soprardes",
+    "3p": "soprarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sopra",
+    "3s": "sopre",
+    "1p": "sopremos",
+    "2p": "soprai",
+    "3p": "soprem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sopres",
+    "3s": "não sopre",
+    "1p": "não sopremos",
+    "2p": "não sopreis",
+    "3p": "não soprem"
+  },
+  "Part-ter": {
+    "": "soprado"
+  },
+  "Part-ser": {
+    "ms": "soprado",
+    "fs": "soprada",
+    "mp": "soprados",
+    "fp": "sopradas"
+  }
+}

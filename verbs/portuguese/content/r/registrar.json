@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "registrar"
+  },
+  "InfP": {
+    "1s": "registrar",
+    "2s": "registrares",
+    "3s": "registrar",
+    "1p": "registrarmos",
+    "2p": "registrardes",
+    "3p": "registrarem"
+  },
+  "Ger": {
+    "": "registrando"
+  },
+  "PresI": {
+    "1s": "registro",
+    "2s": "registras",
+    "3s": "registra",
+    "1p": "registramos",
+    "2p": "registrais",
+    "3p": "registram"
+  },
+  "PImpI": {
+    "1s": "registrava",
+    "2s": "registravas",
+    "3s": "registrava",
+    "1p": "registrávamos",
+    "2p": "registráveis",
+    "3p": "registravam"
+  },
+  "PPSI": {
+    "1s": "registrei",
+    "2s": "registraste",
+    "3s": "registrou",
+    "1p": "registrámos",
+    "2p": "registrastes",
+    "3p": "registraram"
+  },
+  "PMQPSI": {
+    "1s": "registrara",
+    "2s": "registraras",
+    "3s": "registrara",
+    "1p": "registráramos",
+    "2p": "registráreis",
+    "3p": "registraram"
+  },
+  "FutSI": {
+    "1s": "registrarei",
+    "2s": "registrarás",
+    "3s": "registrará",
+    "1p": "registraremos",
+    "2p": "registrareis",
+    "3p": "registrarão"
+  },
+  "CondS": {
+    "1s": "registraria",
+    "2s": "registrarias",
+    "3s": "registraria",
+    "1p": "registraríamos",
+    "2p": "registraríeis",
+    "3p": "registrariam"
+  },
+  "PresC": {
+    "1s": "registre",
+    "2s": "registres",
+    "3s": "registre",
+    "1p": "registremos",
+    "2p": "registreis",
+    "3p": "registrem"
+  },
+  "PImpC": {
+    "1s": "registrasse",
+    "2s": "registrasses",
+    "3s": "registrasse",
+    "1p": "registrássemos",
+    "2p": "registrásseis",
+    "3p": "registrassem"
+  },
+  "FutSC": {
+    "1s": "registrar",
+    "2s": "registrares",
+    "3s": "registrar",
+    "1p": "registrarmos",
+    "2p": "registrardes",
+    "3p": "registrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "registra",
+    "3s": "registre",
+    "1p": "registremos",
+    "2p": "registrai",
+    "3p": "registrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não registres",
+    "3s": "não registre",
+    "1p": "não registremos",
+    "2p": "não registreis",
+    "3p": "não registrem"
+  },
+  "Part-ter": {
+    "": "registrado"
+  },
+  "Part-ser": {
+    "ms": "registrado",
+    "fs": "registrada",
+    "mp": "registrados",
+    "fp": "registradas"
+  }
+}

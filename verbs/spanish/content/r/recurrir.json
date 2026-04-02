@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recurrir"
+  },
+  "Ger": {
+    "": "recurriendo"
+  },
+  "PresI": {
+    "1s": "recurro",
+    "2s": "recurres",
+    "3s": "recurre",
+    "1p": "recurrimos",
+    "2p": "recurrís",
+    "3p": "recurren"
+  },
+  "PImpI": {
+    "1s": "recurría",
+    "2s": "recurrías",
+    "3s": "recurría",
+    "1p": "recurríamos",
+    "2p": "recurríais",
+    "3p": "recurrían"
+  },
+  "PPSI": {
+    "1s": "recurrí",
+    "2s": "recurriste",
+    "3s": "recurrió",
+    "1p": "recurrimos",
+    "2p": "recurristeis",
+    "3p": "recurrieron"
+  },
+  "FutSI": {
+    "1s": "recurriré",
+    "2s": "recurrirás",
+    "3s": "recurrirá",
+    "1p": "recurriremos",
+    "2p": "recurriréis",
+    "3p": "recurrirán"
+  },
+  "CondS": {
+    "1s": "recurriría",
+    "2s": "recurrirías",
+    "3s": "recurriría",
+    "1p": "recurriríamos",
+    "2p": "recurriríais",
+    "3p": "recurrirían"
+  },
+  "PresC": {
+    "1s": "recurra",
+    "2s": "recurras",
+    "3s": "recurra",
+    "1p": "recurramos",
+    "2p": "recurráis",
+    "3p": "recurran"
+  },
+  "PMQPSI": {
+    "1s": "recurriera",
+    "2s": "recurrieras",
+    "3s": "recurriera",
+    "1p": "recurriéramos",
+    "2p": "recurrierais",
+    "3p": "recurrieran"
+  },
+  "PImpC": {
+    "1s": "recurriese",
+    "2s": "recurrieses",
+    "3s": "recurriese",
+    "1p": "recurriésemos",
+    "2p": "recurrieseis",
+    "3p": "recurriesen"
+  },
+  "FutSC": {
+    "1s": "recurriere",
+    "2s": "recurrieres",
+    "3s": "recurriere",
+    "1p": "recurriéremos",
+    "2p": "recurriereis",
+    "3p": "recurrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recurre",
+    "3s": "recurra",
+    "1p": "recurramos",
+    "2p": "recurrid",
+    "3p": "recurran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recurras",
+    "3s": "no recurra",
+    "1p": "no recurramos",
+    "2p": "no recurráis",
+    "3p": "no recurran"
+  },
+  "Part-ter": {
+    "": "recurrido"
+  },
+  "Part-ser": {
+    "ms": "recurrido",
+    "fs": "recurrida",
+    "mp": "recurridos",
+    "fp": "recurridas"
+  }
+}

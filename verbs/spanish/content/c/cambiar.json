@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cambiar"
+  },
+  "Ger": {
+    "": "cambiando"
+  },
+  "PresI": {
+    "1s": "cambio",
+    "2s": "cambias",
+    "3s": "cambia",
+    "1p": "cambiamos",
+    "2p": "cambiáis",
+    "3p": "cambian"
+  },
+  "PImpI": {
+    "1s": "cambiaba",
+    "2s": "cambiabas",
+    "3s": "cambiaba",
+    "1p": "cambiábamos",
+    "2p": "cambiabais",
+    "3p": "cambiaban"
+  },
+  "PPSI": {
+    "1s": "cambié",
+    "2s": "cambiaste",
+    "3s": "cambió",
+    "1p": "cambiamos",
+    "2p": "cambiasteis",
+    "3p": "cambiaron"
+  },
+  "FutSI": {
+    "1s": "cambiaré",
+    "2s": "cambiarás",
+    "3s": "cambiará",
+    "1p": "cambiaremos",
+    "2p": "cambiaréis",
+    "3p": "cambiarán"
+  },
+  "CondS": {
+    "1s": "cambiaría",
+    "2s": "cambiarías",
+    "3s": "cambiaría",
+    "1p": "cambiaríamos",
+    "2p": "cambiaríais",
+    "3p": "cambiarían"
+  },
+  "PresC": {
+    "1s": "cambie",
+    "2s": "cambies",
+    "3s": "cambie",
+    "1p": "cambiemos",
+    "2p": "cambiéis",
+    "3p": "cambien"
+  },
+  "PMQPSI": {
+    "1s": "cambiara",
+    "2s": "cambiaras",
+    "3s": "cambiara",
+    "1p": "cambiáramos",
+    "2p": "cambiarais",
+    "3p": "cambiaran"
+  },
+  "PImpC": {
+    "1s": "cambiase",
+    "2s": "cambiases",
+    "3s": "cambiase",
+    "1p": "cambiásemos",
+    "2p": "cambiaseis",
+    "3p": "cambiasen"
+  },
+  "FutSC": {
+    "1s": "cambiare",
+    "2s": "cambiares",
+    "3s": "cambiare",
+    "1p": "cambiáremos",
+    "2p": "cambiareis",
+    "3p": "cambiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cambia",
+    "3s": "cambie",
+    "1p": "cambiemos",
+    "2p": "cambiad",
+    "3p": "cambien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cambies",
+    "3s": "no cambie",
+    "1p": "no cambiemos",
+    "2p": "no cambiéis",
+    "3p": "no cambien"
+  },
+  "Part-ter": {
+    "": "cambiado"
+  },
+  "Part-ser": {
+    "ms": "cambiado",
+    "fs": "cambiada",
+    "mp": "cambiados",
+    "fp": "cambiadas"
+  }
+}

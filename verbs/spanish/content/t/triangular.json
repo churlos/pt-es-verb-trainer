@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "triangular"
+  },
+  "Ger": {
+    "": "triangulando"
+  },
+  "PresI": {
+    "1s": "triangulo",
+    "2s": "triangulas",
+    "3s": "triangula",
+    "1p": "triangulamos",
+    "2p": "trianguláis",
+    "3p": "triangulan"
+  },
+  "PImpI": {
+    "1s": "triangulaba",
+    "2s": "triangulabas",
+    "3s": "triangulaba",
+    "1p": "triangulábamos",
+    "2p": "triangulabais",
+    "3p": "triangulaban"
+  },
+  "PPSI": {
+    "1s": "triangulé",
+    "2s": "triangulaste",
+    "3s": "trianguló",
+    "1p": "triangulamos",
+    "2p": "triangulasteis",
+    "3p": "triangularon"
+  },
+  "FutSI": {
+    "1s": "triangularé",
+    "2s": "triangularás",
+    "3s": "triangulará",
+    "1p": "triangularemos",
+    "2p": "triangularéis",
+    "3p": "triangularán"
+  },
+  "CondS": {
+    "1s": "triangularía",
+    "2s": "triangularías",
+    "3s": "triangularía",
+    "1p": "triangularíamos",
+    "2p": "triangularíais",
+    "3p": "triangularían"
+  },
+  "PresC": {
+    "1s": "triangule",
+    "2s": "triangules",
+    "3s": "triangule",
+    "1p": "triangulemos",
+    "2p": "trianguléis",
+    "3p": "triangulen"
+  },
+  "PMQPSI": {
+    "1s": "triangulara",
+    "2s": "triangularas",
+    "3s": "triangulara",
+    "1p": "trianguláramos",
+    "2p": "triangularais",
+    "3p": "triangularan"
+  },
+  "PImpC": {
+    "1s": "triangulase",
+    "2s": "triangulases",
+    "3s": "triangulase",
+    "1p": "triangulásemos",
+    "2p": "triangulaseis",
+    "3p": "triangulasen"
+  },
+  "FutSC": {
+    "1s": "triangulare",
+    "2s": "triangulares",
+    "3s": "triangulare",
+    "1p": "trianguláremos",
+    "2p": "triangulareis",
+    "3p": "triangularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "triangula",
+    "3s": "triangule",
+    "1p": "triangulemos",
+    "2p": "triangulad",
+    "3p": "triangulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no triangules",
+    "3s": "no triangule",
+    "1p": "no triangulemos",
+    "2p": "no trianguléis",
+    "3p": "no triangulen"
+  },
+  "Part-ter": {
+    "": "triangulado"
+  },
+  "Part-ser": {
+    "ms": "triangulado",
+    "fs": "triangulada",
+    "mp": "triangulados",
+    "fp": "trianguladas"
+  }
+}

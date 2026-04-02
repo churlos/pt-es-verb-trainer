@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "originar"
+  },
+  "InfP": {
+    "1s": "originar",
+    "2s": "originares",
+    "3s": "originar",
+    "1p": "originarmos",
+    "2p": "originardes",
+    "3p": "originarem"
+  },
+  "Ger": {
+    "": "originando"
+  },
+  "PresI": {
+    "1s": "origino",
+    "2s": "originas",
+    "3s": "origina",
+    "1p": "originamos",
+    "2p": "originais",
+    "3p": "originam"
+  },
+  "PImpI": {
+    "1s": "originava",
+    "2s": "originavas",
+    "3s": "originava",
+    "1p": "originávamos",
+    "2p": "origináveis",
+    "3p": "originavam"
+  },
+  "PPSI": {
+    "1s": "originei",
+    "2s": "originaste",
+    "3s": "originou",
+    "1p": "originámos",
+    "2p": "originastes",
+    "3p": "originaram"
+  },
+  "PMQPSI": {
+    "1s": "originara",
+    "2s": "originaras",
+    "3s": "originara",
+    "1p": "origináramos",
+    "2p": "origináreis",
+    "3p": "originaram"
+  },
+  "FutSI": {
+    "1s": "originarei",
+    "2s": "originarás",
+    "3s": "originará",
+    "1p": "originaremos",
+    "2p": "originareis",
+    "3p": "originarão"
+  },
+  "CondS": {
+    "1s": "originaria",
+    "2s": "originarias",
+    "3s": "originaria",
+    "1p": "originaríamos",
+    "2p": "originaríeis",
+    "3p": "originariam"
+  },
+  "PresC": {
+    "1s": "origine",
+    "2s": "origines",
+    "3s": "origine",
+    "1p": "originemos",
+    "2p": "origineis",
+    "3p": "originem"
+  },
+  "PImpC": {
+    "1s": "originasse",
+    "2s": "originasses",
+    "3s": "originasse",
+    "1p": "originássemos",
+    "2p": "originásseis",
+    "3p": "originassem"
+  },
+  "FutSC": {
+    "1s": "originar",
+    "2s": "originares",
+    "3s": "originar",
+    "1p": "originarmos",
+    "2p": "originardes",
+    "3p": "originarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "origina",
+    "3s": "origine",
+    "1p": "originemos",
+    "2p": "originai",
+    "3p": "originem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não origines",
+    "3s": "não origine",
+    "1p": "não originemos",
+    "2p": "não origineis",
+    "3p": "não originem"
+  },
+  "Part-ter": {
+    "": "originado"
+  },
+  "Part-ser": {
+    "ms": "originado",
+    "fs": "originada",
+    "mp": "originados",
+    "fp": "originadas"
+  }
+}

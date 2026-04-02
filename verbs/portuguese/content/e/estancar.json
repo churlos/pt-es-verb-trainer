@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estancar"
+  },
+  "InfP": {
+    "1s": "estancar",
+    "2s": "estancares",
+    "3s": "estancar",
+    "1p": "estancarmos",
+    "2p": "estancardes",
+    "3p": "estancarem"
+  },
+  "Ger": {
+    "": "estancando"
+  },
+  "PresI": {
+    "1s": "estanco",
+    "2s": "estancas",
+    "3s": "estanca",
+    "1p": "estancamos",
+    "2p": "estancais",
+    "3p": "estancam"
+  },
+  "PImpI": {
+    "1s": "estancava",
+    "2s": "estancavas",
+    "3s": "estancava",
+    "1p": "estancávamos",
+    "2p": "estancáveis",
+    "3p": "estancavam"
+  },
+  "PPSI": {
+    "1s": "estanquei",
+    "2s": "estancaste",
+    "3s": "estancou",
+    "1p": "estancámos",
+    "2p": "estancastes",
+    "3p": "estancaram"
+  },
+  "PMQPSI": {
+    "1s": "estancara",
+    "2s": "estancaras",
+    "3s": "estancara",
+    "1p": "estancáramos",
+    "2p": "estancáreis",
+    "3p": "estancaram"
+  },
+  "FutSI": {
+    "1s": "estancarei",
+    "2s": "estancarás",
+    "3s": "estancará",
+    "1p": "estancaremos",
+    "2p": "estancareis",
+    "3p": "estancarão"
+  },
+  "CondS": {
+    "1s": "estancaria",
+    "2s": "estancarias",
+    "3s": "estancaria",
+    "1p": "estancaríamos",
+    "2p": "estancaríeis",
+    "3p": "estancariam"
+  },
+  "PresC": {
+    "1s": "estanque",
+    "2s": "estanques",
+    "3s": "estanque",
+    "1p": "estanquemos",
+    "2p": "estanqueis",
+    "3p": "estanquem"
+  },
+  "PImpC": {
+    "1s": "estancasse",
+    "2s": "estancasses",
+    "3s": "estancasse",
+    "1p": "estancássemos",
+    "2p": "estancásseis",
+    "3p": "estancassem"
+  },
+  "FutSC": {
+    "1s": "estancar",
+    "2s": "estancares",
+    "3s": "estancar",
+    "1p": "estancarmos",
+    "2p": "estancardes",
+    "3p": "estancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estanca",
+    "3s": "estanque",
+    "1p": "estanquemos",
+    "2p": "estancai",
+    "3p": "estanquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estanques",
+    "3s": "não estanque",
+    "1p": "não estanquemos",
+    "2p": "não estanqueis",
+    "3p": "não estanquem"
+  },
+  "Part-ter": {
+    "": "estancado"
+  },
+  "Part-ser": {
+    "ms": "estancado",
+    "fs": "estancada",
+    "mp": "estancados",
+    "fp": "estancadas"
+  }
+}

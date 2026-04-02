@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "entrar"
+  },
+  "InfP": {
+    "1s": "entrar",
+    "2s": "entrares",
+    "3s": "entrar",
+    "1p": "entrarmos",
+    "2p": "entrardes",
+    "3p": "entrarem"
+  },
+  "Ger": {
+    "": "entrando"
+  },
+  "PresI": {
+    "1s": "entro",
+    "2s": "entras",
+    "3s": "entra",
+    "1p": "entramos",
+    "2p": "entrais",
+    "3p": "entram"
+  },
+  "PImpI": {
+    "1s": "entrava",
+    "2s": "entravas",
+    "3s": "entrava",
+    "1p": "entrávamos",
+    "2p": "entráveis",
+    "3p": "entravam"
+  },
+  "PPSI": {
+    "1s": "entrei",
+    "2s": "entraste",
+    "3s": "entrou",
+    "1p": "entrámos",
+    "2p": "entrastes",
+    "3p": "entraram"
+  },
+  "PMQPSI": {
+    "1s": "entrara",
+    "2s": "entraras",
+    "3s": "entrara",
+    "1p": "entráramos",
+    "2p": "entráreis",
+    "3p": "entraram"
+  },
+  "FutSI": {
+    "1s": "entrarei",
+    "2s": "entrarás",
+    "3s": "entrará",
+    "1p": "entraremos",
+    "2p": "entrareis",
+    "3p": "entrarão"
+  },
+  "CondS": {
+    "1s": "entraria",
+    "2s": "entrarias",
+    "3s": "entraria",
+    "1p": "entraríamos",
+    "2p": "entraríeis",
+    "3p": "entrariam"
+  },
+  "PresC": {
+    "1s": "entre",
+    "2s": "entres",
+    "3s": "entre",
+    "1p": "entremos",
+    "2p": "entreis",
+    "3p": "entrem"
+  },
+  "PImpC": {
+    "1s": "entrasse",
+    "2s": "entrasses",
+    "3s": "entrasse",
+    "1p": "entrássemos",
+    "2p": "entrásseis",
+    "3p": "entrassem"
+  },
+  "FutSC": {
+    "1s": "entrar",
+    "2s": "entrares",
+    "3s": "entrar",
+    "1p": "entrarmos",
+    "2p": "entrardes",
+    "3p": "entrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entra",
+    "3s": "entre",
+    "1p": "entremos",
+    "2p": "entrai",
+    "3p": "entrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não entres",
+    "3s": "não entre",
+    "1p": "não entremos",
+    "2p": "não entreis",
+    "3p": "não entrem"
+  },
+  "Part-ter": {
+    "": "entrado"
+  },
+  "Part-ser": {
+    "ms": "entrado",
+    "fs": "entrada",
+    "mp": "entrados",
+    "fp": "entradas"
+  }
+}

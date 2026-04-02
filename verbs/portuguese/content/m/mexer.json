@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mexer"
+  },
+  "InfP": {
+    "1s": "mexer",
+    "2s": "mexeres",
+    "3s": "mexer",
+    "1p": "mexermos",
+    "2p": "mexerdes",
+    "3p": "mexerem"
+  },
+  "Ger": {
+    "": "mexendo"
+  },
+  "PresI": {
+    "1s": "mexo",
+    "2s": "mexes",
+    "3s": "mexe",
+    "1p": "mexemos",
+    "2p": "mexeis",
+    "3p": "mexem"
+  },
+  "PImpI": {
+    "1s": "mexia",
+    "2s": "mexias",
+    "3s": "mexia",
+    "1p": "mexíamos",
+    "2p": "mexíeis",
+    "3p": "mexiam"
+  },
+  "PPSI": {
+    "1s": "mexi",
+    "2s": "mexeste",
+    "3s": "mexeu",
+    "1p": "mexemos",
+    "2p": "mexestes",
+    "3p": "mexeram"
+  },
+  "PMQPSI": {
+    "1s": "mexera",
+    "2s": "mexeras",
+    "3s": "mexera",
+    "1p": "mexêramos",
+    "2p": "mexêreis",
+    "3p": "mexeram"
+  },
+  "FutSI": {
+    "1s": "mexerei",
+    "2s": "mexerás",
+    "3s": "mexerá",
+    "1p": "mexeremos",
+    "2p": "mexereis",
+    "3p": "mexerão"
+  },
+  "CondS": {
+    "1s": "mexeria",
+    "2s": "mexerias",
+    "3s": "mexeria",
+    "1p": "mexeríamos",
+    "2p": "mexeríeis",
+    "3p": "mexeriam"
+  },
+  "PresC": {
+    "1s": "mexa",
+    "2s": "mexas",
+    "3s": "mexa",
+    "1p": "mexamos",
+    "2p": "mexais",
+    "3p": "mexam"
+  },
+  "PImpC": {
+    "1s": "mexesse",
+    "2s": "mexesses",
+    "3s": "mexesse",
+    "1p": "mexêssemos",
+    "2p": "mexêsseis",
+    "3p": "mexessem"
+  },
+  "FutSC": {
+    "1s": "mexer",
+    "2s": "mexeres",
+    "3s": "mexer",
+    "1p": "mexermos",
+    "2p": "mexerdes",
+    "3p": "mexerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mexe",
+    "3s": "mexa",
+    "1p": "mexamos",
+    "2p": "mexei",
+    "3p": "mexam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mexas",
+    "3s": "não mexa",
+    "1p": "não mexamos",
+    "2p": "não mexais",
+    "3p": "não mexam"
+  },
+  "Part-ter": {
+    "": "mexido"
+  },
+  "Part-ser": {
+    "ms": "mexido",
+    "fs": "mexida",
+    "mp": "mexidos",
+    "fp": "mexidas"
+  }
+}

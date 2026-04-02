@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estufar"
+  },
+  "InfP": {
+    "1s": "estufar",
+    "2s": "estufares",
+    "3s": "estufar",
+    "1p": "estufarmos",
+    "2p": "estufardes",
+    "3p": "estufarem"
+  },
+  "Ger": {
+    "": "estufando"
+  },
+  "PresI": {
+    "1s": "estufo",
+    "2s": "estufas",
+    "3s": "estufa",
+    "1p": "estufamos",
+    "2p": "estufais",
+    "3p": "estufam"
+  },
+  "PImpI": {
+    "1s": "estufava",
+    "2s": "estufavas",
+    "3s": "estufava",
+    "1p": "estufávamos",
+    "2p": "estufáveis",
+    "3p": "estufavam"
+  },
+  "PPSI": {
+    "1s": "estufei",
+    "2s": "estufaste",
+    "3s": "estufou",
+    "1p": "estufámos",
+    "2p": "estufastes",
+    "3p": "estufaram"
+  },
+  "PMQPSI": {
+    "1s": "estufara",
+    "2s": "estufaras",
+    "3s": "estufara",
+    "1p": "estufáramos",
+    "2p": "estufáreis",
+    "3p": "estufaram"
+  },
+  "FutSI": {
+    "1s": "estufarei",
+    "2s": "estufarás",
+    "3s": "estufará",
+    "1p": "estufaremos",
+    "2p": "estufareis",
+    "3p": "estufarão"
+  },
+  "CondS": {
+    "1s": "estufaria",
+    "2s": "estufarias",
+    "3s": "estufaria",
+    "1p": "estufaríamos",
+    "2p": "estufaríeis",
+    "3p": "estufariam"
+  },
+  "PresC": {
+    "1s": "estufe",
+    "2s": "estufes",
+    "3s": "estufe",
+    "1p": "estufemos",
+    "2p": "estufeis",
+    "3p": "estufem"
+  },
+  "PImpC": {
+    "1s": "estufasse",
+    "2s": "estufasses",
+    "3s": "estufasse",
+    "1p": "estufássemos",
+    "2p": "estufásseis",
+    "3p": "estufassem"
+  },
+  "FutSC": {
+    "1s": "estufar",
+    "2s": "estufares",
+    "3s": "estufar",
+    "1p": "estufarmos",
+    "2p": "estufardes",
+    "3p": "estufarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estufa",
+    "3s": "estufe",
+    "1p": "estufemos",
+    "2p": "estufai",
+    "3p": "estufem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estufes",
+    "3s": "não estufe",
+    "1p": "não estufemos",
+    "2p": "não estufeis",
+    "3p": "não estufem"
+  },
+  "Part-ter": {
+    "": "estufado"
+  },
+  "Part-ser": {
+    "ms": "estufado",
+    "fs": "estufada",
+    "mp": "estufados",
+    "fp": "estufadas"
+  }
+}

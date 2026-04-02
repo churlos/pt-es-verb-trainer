@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cooperar"
+  },
+  "InfP": {
+    "1s": "cooperar",
+    "2s": "cooperares",
+    "3s": "cooperar",
+    "1p": "cooperarmos",
+    "2p": "cooperardes",
+    "3p": "cooperarem"
+  },
+  "Ger": {
+    "": "cooperando"
+  },
+  "PresI": {
+    "1s": "coopero",
+    "2s": "cooperas",
+    "3s": "coopera",
+    "1p": "cooperamos",
+    "2p": "cooperais",
+    "3p": "cooperam"
+  },
+  "PImpI": {
+    "1s": "cooperava",
+    "2s": "cooperavas",
+    "3s": "cooperava",
+    "1p": "cooperávamos",
+    "2p": "cooperáveis",
+    "3p": "cooperavam"
+  },
+  "PPSI": {
+    "1s": "cooperei",
+    "2s": "cooperaste",
+    "3s": "cooperou",
+    "1p": "cooperámos",
+    "2p": "cooperastes",
+    "3p": "cooperaram"
+  },
+  "PMQPSI": {
+    "1s": "cooperara",
+    "2s": "cooperaras",
+    "3s": "cooperara",
+    "1p": "cooperáramos",
+    "2p": "cooperáreis",
+    "3p": "cooperaram"
+  },
+  "FutSI": {
+    "1s": "cooperarei",
+    "2s": "cooperarás",
+    "3s": "cooperará",
+    "1p": "cooperaremos",
+    "2p": "cooperareis",
+    "3p": "cooperarão"
+  },
+  "CondS": {
+    "1s": "cooperaria",
+    "2s": "cooperarias",
+    "3s": "cooperaria",
+    "1p": "cooperaríamos",
+    "2p": "cooperaríeis",
+    "3p": "cooperariam"
+  },
+  "PresC": {
+    "1s": "coopere",
+    "2s": "cooperes",
+    "3s": "coopere",
+    "1p": "cooperemos",
+    "2p": "coopereis",
+    "3p": "cooperem"
+  },
+  "PImpC": {
+    "1s": "cooperasse",
+    "2s": "cooperasses",
+    "3s": "cooperasse",
+    "1p": "cooperássemos",
+    "2p": "cooperásseis",
+    "3p": "cooperassem"
+  },
+  "FutSC": {
+    "1s": "cooperar",
+    "2s": "cooperares",
+    "3s": "cooperar",
+    "1p": "cooperarmos",
+    "2p": "cooperardes",
+    "3p": "cooperarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coopera",
+    "3s": "coopere",
+    "1p": "cooperemos",
+    "2p": "cooperai",
+    "3p": "cooperem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cooperes",
+    "3s": "não coopere",
+    "1p": "não cooperemos",
+    "2p": "não coopereis",
+    "3p": "não cooperem"
+  },
+  "Part-ter": {
+    "": "cooperado"
+  },
+  "Part-ser": {
+    "ms": "cooperado",
+    "fs": "cooperada",
+    "mp": "cooperados",
+    "fp": "cooperadas"
+  }
+}

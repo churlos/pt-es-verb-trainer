@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "delir"
+  },
+  "InfP": {
+    "1s": "delir",
+    "2s": "delires",
+    "3s": "delir",
+    "1p": "delirmos",
+    "2p": "delirdes",
+    "3p": "delirem"
+  },
+  "Ger": {
+    "": "delindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "deles",
+    "3s": "dele",
+    "1p": "delimos",
+    "2p": "delis",
+    "3p": "delem"
+  },
+  "PImpI": {
+    "1s": "delia",
+    "2s": "delias",
+    "3s": "delia",
+    "1p": "delíamos",
+    "2p": "delíeis",
+    "3p": "deliam"
+  },
+  "PPSI": {
+    "1s": "deli",
+    "2s": "deliste",
+    "3s": "deliu",
+    "1p": "delimos",
+    "2p": "delistes",
+    "3p": "deliram"
+  },
+  "PMQPSI": {
+    "1s": "delira",
+    "2s": "deliras",
+    "3s": "delira",
+    "1p": "delíramos",
+    "2p": "delíreis",
+    "3p": "deliram"
+  },
+  "FutSI": {
+    "1s": "delirei",
+    "2s": "delirás",
+    "3s": "delirá",
+    "1p": "deliremos",
+    "2p": "delireis",
+    "3p": "delirão"
+  },
+  "CondS": {
+    "1s": "deliria",
+    "2s": "delirias",
+    "3s": "deliria",
+    "1p": "deliríamos",
+    "2p": "deliríeis",
+    "3p": "deliriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "delisse",
+    "2s": "delisses",
+    "3s": "delisse",
+    "1p": "delíssemos",
+    "2p": "delísseis",
+    "3p": "delissem"
+  },
+  "FutSC": {
+    "1s": "delir",
+    "2s": "delires",
+    "3s": "delir",
+    "1p": "delirmos",
+    "2p": "delirdes",
+    "3p": "delirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dele",
+    "3s": "",
+    "1p": "",
+    "2p": "deli",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "delido"
+  },
+  "Part-ser": {
+    "ms": "delido",
+    "fs": "delida",
+    "mp": "delidos",
+    "fp": "delidas"
+  }
+}

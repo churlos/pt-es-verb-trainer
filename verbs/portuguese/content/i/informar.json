@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "informar"
+  },
+  "InfP": {
+    "1s": "informar",
+    "2s": "informares",
+    "3s": "informar",
+    "1p": "informarmos",
+    "2p": "informardes",
+    "3p": "informarem"
+  },
+  "Ger": {
+    "": "informando"
+  },
+  "PresI": {
+    "1s": "informo",
+    "2s": "informas",
+    "3s": "informa",
+    "1p": "informamos",
+    "2p": "informais",
+    "3p": "informam"
+  },
+  "PImpI": {
+    "1s": "informava",
+    "2s": "informavas",
+    "3s": "informava",
+    "1p": "informávamos",
+    "2p": "informáveis",
+    "3p": "informavam"
+  },
+  "PPSI": {
+    "1s": "informei",
+    "2s": "informaste",
+    "3s": "informou",
+    "1p": "informámos",
+    "2p": "informastes",
+    "3p": "informaram"
+  },
+  "PMQPSI": {
+    "1s": "informara",
+    "2s": "informaras",
+    "3s": "informara",
+    "1p": "informáramos",
+    "2p": "informáreis",
+    "3p": "informaram"
+  },
+  "FutSI": {
+    "1s": "informarei",
+    "2s": "informarás",
+    "3s": "informará",
+    "1p": "informaremos",
+    "2p": "informareis",
+    "3p": "informarão"
+  },
+  "CondS": {
+    "1s": "informaria",
+    "2s": "informarias",
+    "3s": "informaria",
+    "1p": "informaríamos",
+    "2p": "informaríeis",
+    "3p": "informariam"
+  },
+  "PresC": {
+    "1s": "informe",
+    "2s": "informes",
+    "3s": "informe",
+    "1p": "informemos",
+    "2p": "informeis",
+    "3p": "informem"
+  },
+  "PImpC": {
+    "1s": "informasse",
+    "2s": "informasses",
+    "3s": "informasse",
+    "1p": "informássemos",
+    "2p": "informásseis",
+    "3p": "informassem"
+  },
+  "FutSC": {
+    "1s": "informar",
+    "2s": "informares",
+    "3s": "informar",
+    "1p": "informarmos",
+    "2p": "informardes",
+    "3p": "informarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "informa",
+    "3s": "informe",
+    "1p": "informemos",
+    "2p": "informai",
+    "3p": "informem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não informes",
+    "3s": "não informe",
+    "1p": "não informemos",
+    "2p": "não informeis",
+    "3p": "não informem"
+  },
+  "Part-ter": {
+    "": "informado"
+  },
+  "Part-ser": {
+    "ms": "informado",
+    "fs": "informada",
+    "mp": "informados",
+    "fp": "informadas"
+  }
+}

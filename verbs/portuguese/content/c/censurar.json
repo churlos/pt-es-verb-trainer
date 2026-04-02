@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "censurar"
+  },
+  "InfP": {
+    "1s": "censurar",
+    "2s": "censurares",
+    "3s": "censurar",
+    "1p": "censurarmos",
+    "2p": "censurardes",
+    "3p": "censurarem"
+  },
+  "Ger": {
+    "": "censurando"
+  },
+  "PresI": {
+    "1s": "censuro",
+    "2s": "censuras",
+    "3s": "censura",
+    "1p": "censuramos",
+    "2p": "censurais",
+    "3p": "censuram"
+  },
+  "PImpI": {
+    "1s": "censurava",
+    "2s": "censuravas",
+    "3s": "censurava",
+    "1p": "censurávamos",
+    "2p": "censuráveis",
+    "3p": "censuravam"
+  },
+  "PPSI": {
+    "1s": "censurei",
+    "2s": "censuraste",
+    "3s": "censurou",
+    "1p": "censurámos",
+    "2p": "censurastes",
+    "3p": "censuraram"
+  },
+  "PMQPSI": {
+    "1s": "censurara",
+    "2s": "censuraras",
+    "3s": "censurara",
+    "1p": "censuráramos",
+    "2p": "censuráreis",
+    "3p": "censuraram"
+  },
+  "FutSI": {
+    "1s": "censurarei",
+    "2s": "censurarás",
+    "3s": "censurará",
+    "1p": "censuraremos",
+    "2p": "censurareis",
+    "3p": "censurarão"
+  },
+  "CondS": {
+    "1s": "censuraria",
+    "2s": "censurarias",
+    "3s": "censuraria",
+    "1p": "censuraríamos",
+    "2p": "censuraríeis",
+    "3p": "censurariam"
+  },
+  "PresC": {
+    "1s": "censure",
+    "2s": "censures",
+    "3s": "censure",
+    "1p": "censuremos",
+    "2p": "censureis",
+    "3p": "censurem"
+  },
+  "PImpC": {
+    "1s": "censurasse",
+    "2s": "censurasses",
+    "3s": "censurasse",
+    "1p": "censurássemos",
+    "2p": "censurásseis",
+    "3p": "censurassem"
+  },
+  "FutSC": {
+    "1s": "censurar",
+    "2s": "censurares",
+    "3s": "censurar",
+    "1p": "censurarmos",
+    "2p": "censurardes",
+    "3p": "censurarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "censura",
+    "3s": "censure",
+    "1p": "censuremos",
+    "2p": "censurai",
+    "3p": "censurem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não censures",
+    "3s": "não censure",
+    "1p": "não censuremos",
+    "2p": "não censureis",
+    "3p": "não censurem"
+  },
+  "Part-ter": {
+    "": "censurado"
+  },
+  "Part-ser": {
+    "ms": "censurado",
+    "fs": "censurada",
+    "mp": "censurados",
+    "fp": "censuradas"
+  }
+}

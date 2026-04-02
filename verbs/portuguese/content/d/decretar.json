@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "decretar"
+  },
+  "InfP": {
+    "1s": "decretar",
+    "2s": "decretares",
+    "3s": "decretar",
+    "1p": "decretarmos",
+    "2p": "decretardes",
+    "3p": "decretarem"
+  },
+  "Ger": {
+    "": "decretando"
+  },
+  "PresI": {
+    "1s": "decreto",
+    "2s": "decretas",
+    "3s": "decreta",
+    "1p": "decretamos",
+    "2p": "decretais",
+    "3p": "decretam"
+  },
+  "PImpI": {
+    "1s": "decretava",
+    "2s": "decretavas",
+    "3s": "decretava",
+    "1p": "decretávamos",
+    "2p": "decretáveis",
+    "3p": "decretavam"
+  },
+  "PPSI": {
+    "1s": "decretei",
+    "2s": "decretaste",
+    "3s": "decretou",
+    "1p": "decretámos",
+    "2p": "decretastes",
+    "3p": "decretaram"
+  },
+  "PMQPSI": {
+    "1s": "decretara",
+    "2s": "decretaras",
+    "3s": "decretara",
+    "1p": "decretáramos",
+    "2p": "decretáreis",
+    "3p": "decretaram"
+  },
+  "FutSI": {
+    "1s": "decretarei",
+    "2s": "decretarás",
+    "3s": "decretará",
+    "1p": "decretaremos",
+    "2p": "decretareis",
+    "3p": "decretarão"
+  },
+  "CondS": {
+    "1s": "decretaria",
+    "2s": "decretarias",
+    "3s": "decretaria",
+    "1p": "decretaríamos",
+    "2p": "decretaríeis",
+    "3p": "decretariam"
+  },
+  "PresC": {
+    "1s": "decrete",
+    "2s": "decretes",
+    "3s": "decrete",
+    "1p": "decretemos",
+    "2p": "decreteis",
+    "3p": "decretem"
+  },
+  "PImpC": {
+    "1s": "decretasse",
+    "2s": "decretasses",
+    "3s": "decretasse",
+    "1p": "decretássemos",
+    "2p": "decretásseis",
+    "3p": "decretassem"
+  },
+  "FutSC": {
+    "1s": "decretar",
+    "2s": "decretares",
+    "3s": "decretar",
+    "1p": "decretarmos",
+    "2p": "decretardes",
+    "3p": "decretarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decreta",
+    "3s": "decrete",
+    "1p": "decretemos",
+    "2p": "decretai",
+    "3p": "decretem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não decretes",
+    "3s": "não decrete",
+    "1p": "não decretemos",
+    "2p": "não decreteis",
+    "3p": "não decretem"
+  },
+  "Part-ter": {
+    "": "decretado"
+  },
+  "Part-ser": {
+    "ms": "decretado",
+    "fs": "decretada",
+    "mp": "decretados",
+    "fp": "decretadas"
+  }
+}

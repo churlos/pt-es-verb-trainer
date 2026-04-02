@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recuperar"
+  },
+  "Ger": {
+    "": "recuperando"
+  },
+  "PresI": {
+    "1s": "recupero",
+    "2s": "recuperas",
+    "3s": "recupera",
+    "1p": "recuperamos",
+    "2p": "recuperáis",
+    "3p": "recuperan"
+  },
+  "PImpI": {
+    "1s": "recuperaba",
+    "2s": "recuperabas",
+    "3s": "recuperaba",
+    "1p": "recuperábamos",
+    "2p": "recuperabais",
+    "3p": "recuperaban"
+  },
+  "PPSI": {
+    "1s": "recuperé",
+    "2s": "recuperaste",
+    "3s": "recuperó",
+    "1p": "recuperamos",
+    "2p": "recuperasteis",
+    "3p": "recuperaron"
+  },
+  "FutSI": {
+    "1s": "recuperaré",
+    "2s": "recuperarás",
+    "3s": "recuperará",
+    "1p": "recuperaremos",
+    "2p": "recuperaréis",
+    "3p": "recuperarán"
+  },
+  "CondS": {
+    "1s": "recuperaría",
+    "2s": "recuperarías",
+    "3s": "recuperaría",
+    "1p": "recuperaríamos",
+    "2p": "recuperaríais",
+    "3p": "recuperarían"
+  },
+  "PresC": {
+    "1s": "recupere",
+    "2s": "recuperes",
+    "3s": "recupere",
+    "1p": "recuperemos",
+    "2p": "recuperéis",
+    "3p": "recuperen"
+  },
+  "PMQPSI": {
+    "1s": "recuperara",
+    "2s": "recuperaras",
+    "3s": "recuperara",
+    "1p": "recuperáramos",
+    "2p": "recuperarais",
+    "3p": "recuperaran"
+  },
+  "PImpC": {
+    "1s": "recuperase",
+    "2s": "recuperases",
+    "3s": "recuperase",
+    "1p": "recuperásemos",
+    "2p": "recuperaseis",
+    "3p": "recuperasen"
+  },
+  "FutSC": {
+    "1s": "recuperare",
+    "2s": "recuperares",
+    "3s": "recuperare",
+    "1p": "recuperáremos",
+    "2p": "recuperareis",
+    "3p": "recuperaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recupera",
+    "3s": "recupere",
+    "1p": "recuperemos",
+    "2p": "recuperad",
+    "3p": "recuperen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recuperes",
+    "3s": "no recupere",
+    "1p": "no recuperemos",
+    "2p": "no recuperéis",
+    "3p": "no recuperen"
+  },
+  "Part-ter": {
+    "": "recuperado"
+  },
+  "Part-ser": {
+    "ms": "recuperado",
+    "fs": "recuperada",
+    "mp": "recuperados",
+    "fp": "recuperadas"
+  }
+}

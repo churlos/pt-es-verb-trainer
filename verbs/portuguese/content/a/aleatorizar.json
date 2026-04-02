@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aleatorizar"
+  },
+  "InfP": {
+    "1s": "aleatorizar",
+    "2s": "aleatorizares",
+    "3s": "aleatorizar",
+    "1p": "aleatorizarmos",
+    "2p": "aleatorizardes",
+    "3p": "aleatorizarem"
+  },
+  "Ger": {
+    "": "aleatorizando"
+  },
+  "PresI": {
+    "1s": "aleatorizo",
+    "2s": "aleatorizas",
+    "3s": "aleatoriza",
+    "1p": "aleatorizamos",
+    "2p": "aleatorizais",
+    "3p": "aleatorizam"
+  },
+  "PImpI": {
+    "1s": "aleatorizava",
+    "2s": "aleatorizavas",
+    "3s": "aleatorizava",
+    "1p": "aleatorizávamos",
+    "2p": "aleatorizáveis",
+    "3p": "aleatorizavam"
+  },
+  "PPSI": {
+    "1s": "aleatorizei",
+    "2s": "aleatorizaste",
+    "3s": "aleatorizou",
+    "1p": "aleatorizámos",
+    "2p": "aleatorizastes",
+    "3p": "aleatorizaram"
+  },
+  "PMQPSI": {
+    "1s": "aleatorizara",
+    "2s": "aleatorizaras",
+    "3s": "aleatorizara",
+    "1p": "aleatorizáramos",
+    "2p": "aleatorizáreis",
+    "3p": "aleatorizaram"
+  },
+  "FutSI": {
+    "1s": "aleatorizarei",
+    "2s": "aleatorizarás",
+    "3s": "aleatorizará",
+    "1p": "aleatorizaremos",
+    "2p": "aleatorizareis",
+    "3p": "aleatorizarão"
+  },
+  "CondS": {
+    "1s": "aleatorizaria",
+    "2s": "aleatorizarias",
+    "3s": "aleatorizaria",
+    "1p": "aleatorizaríamos",
+    "2p": "aleatorizaríeis",
+    "3p": "aleatorizariam"
+  },
+  "PresC": {
+    "1s": "aleatorize",
+    "2s": "aleatorizes",
+    "3s": "aleatorize",
+    "1p": "aleatorizemos",
+    "2p": "aleatorizeis",
+    "3p": "aleatorizem"
+  },
+  "PImpC": {
+    "1s": "aleatorizasse",
+    "2s": "aleatorizasses",
+    "3s": "aleatorizasse",
+    "1p": "aleatorizássemos",
+    "2p": "aleatorizásseis",
+    "3p": "aleatorizassem"
+  },
+  "FutSC": {
+    "1s": "aleatorizar",
+    "2s": "aleatorizares",
+    "3s": "aleatorizar",
+    "1p": "aleatorizarmos",
+    "2p": "aleatorizardes",
+    "3p": "aleatorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aleatoriza",
+    "3s": "aleatorize",
+    "1p": "aleatorizemos",
+    "2p": "aleatorizai",
+    "3p": "aleatorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aleatorizes",
+    "3s": "não aleatorize",
+    "1p": "não aleatorizemos",
+    "2p": "não aleatorizeis",
+    "3p": "não aleatorizem"
+  },
+  "Part-ter": {
+    "": "aleatorizado"
+  },
+  "Part-ser": {
+    "ms": "aleatorizado",
+    "fs": "aleatorizada",
+    "mp": "aleatorizados",
+    "fp": "aleatorizadas"
+  }
+}

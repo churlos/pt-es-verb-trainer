@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aplaudir"
+  },
+  "InfP": {
+    "1s": "aplaudir",
+    "2s": "aplaudires",
+    "3s": "aplaudir",
+    "1p": "aplaudirmos",
+    "2p": "aplaudirdes",
+    "3p": "aplaudirem"
+  },
+  "Ger": {
+    "": "aplaudindo"
+  },
+  "PresI": {
+    "1s": "aplaudo",
+    "2s": "aplaudes",
+    "3s": "aplaude",
+    "1p": "aplaudimos",
+    "2p": "aplaudis",
+    "3p": "aplaudem"
+  },
+  "PImpI": {
+    "1s": "aplaudia",
+    "2s": "aplaudias",
+    "3s": "aplaudia",
+    "1p": "aplaudíamos",
+    "2p": "aplaudíeis",
+    "3p": "aplaudiam"
+  },
+  "PPSI": {
+    "1s": "aplaudi",
+    "2s": "aplaudiste",
+    "3s": "aplaudiu",
+    "1p": "aplaudimos",
+    "2p": "aplaudistes",
+    "3p": "aplaudiram"
+  },
+  "PMQPSI": {
+    "1s": "aplaudira",
+    "2s": "aplaudiras",
+    "3s": "aplaudira",
+    "1p": "aplaudíramos",
+    "2p": "aplaudíreis",
+    "3p": "aplaudiram"
+  },
+  "FutSI": {
+    "1s": "aplaudirei",
+    "2s": "aplaudirás",
+    "3s": "aplaudirá",
+    "1p": "aplaudiremos",
+    "2p": "aplaudireis",
+    "3p": "aplaudirão"
+  },
+  "CondS": {
+    "1s": "aplaudiria",
+    "2s": "aplaudirias",
+    "3s": "aplaudiria",
+    "1p": "aplaudiríamos",
+    "2p": "aplaudiríeis",
+    "3p": "aplaudiriam"
+  },
+  "PresC": {
+    "1s": "aplauda",
+    "2s": "aplaudas",
+    "3s": "aplauda",
+    "1p": "aplaudamos",
+    "2p": "aplaudais",
+    "3p": "aplaudam"
+  },
+  "PImpC": {
+    "1s": "aplaudisse",
+    "2s": "aplaudisses",
+    "3s": "aplaudisse",
+    "1p": "aplaudíssemos",
+    "2p": "aplaudísseis",
+    "3p": "aplaudissem"
+  },
+  "FutSC": {
+    "1s": "aplaudir",
+    "2s": "aplaudires",
+    "3s": "aplaudir",
+    "1p": "aplaudirmos",
+    "2p": "aplaudirdes",
+    "3p": "aplaudirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aplaude",
+    "3s": "aplauda",
+    "1p": "aplaudamos",
+    "2p": "aplaudi",
+    "3p": "aplaudam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aplaudas",
+    "3s": "não aplauda",
+    "1p": "não aplaudamos",
+    "2p": "não aplaudais",
+    "3p": "não aplaudam"
+  },
+  "Part-ter": {
+    "": "aplaudido"
+  },
+  "Part-ser": {
+    "ms": "aplaudido",
+    "fs": "aplaudida",
+    "mp": "aplaudidos",
+    "fp": "aplaudidas"
+  }
+}

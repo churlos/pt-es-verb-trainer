@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "percorrer"
+  },
+  "InfP": {
+    "1s": "percorrer",
+    "2s": "percorreres",
+    "3s": "percorrer",
+    "1p": "percorrermos",
+    "2p": "percorrerdes",
+    "3p": "percorrerem"
+  },
+  "Ger": {
+    "": "percorrendo"
+  },
+  "PresI": {
+    "1s": "percorro",
+    "2s": "percorres",
+    "3s": "percorre",
+    "1p": "percorremos",
+    "2p": "percorreis",
+    "3p": "percorrem"
+  },
+  "PImpI": {
+    "1s": "percorria",
+    "2s": "percorrias",
+    "3s": "percorria",
+    "1p": "percorríamos",
+    "2p": "percorríeis",
+    "3p": "percorriam"
+  },
+  "PPSI": {
+    "1s": "percorri",
+    "2s": "percorreste",
+    "3s": "percorreu",
+    "1p": "percorremos",
+    "2p": "percorrestes",
+    "3p": "percorreram"
+  },
+  "PMQPSI": {
+    "1s": "percorrera",
+    "2s": "percorreras",
+    "3s": "percorrera",
+    "1p": "percorrêramos",
+    "2p": "percorrêreis",
+    "3p": "percorreram"
+  },
+  "FutSI": {
+    "1s": "percorrerei",
+    "2s": "percorrerás",
+    "3s": "percorrerá",
+    "1p": "percorreremos",
+    "2p": "percorrereis",
+    "3p": "percorrerão"
+  },
+  "CondS": {
+    "1s": "percorreria",
+    "2s": "percorrerias",
+    "3s": "percorreria",
+    "1p": "percorreríamos",
+    "2p": "percorreríeis",
+    "3p": "percorreriam"
+  },
+  "PresC": {
+    "1s": "percorra",
+    "2s": "percorras",
+    "3s": "percorra",
+    "1p": "percorramos",
+    "2p": "percorrais",
+    "3p": "percorram"
+  },
+  "PImpC": {
+    "1s": "percorresse",
+    "2s": "percorresses",
+    "3s": "percorresse",
+    "1p": "percorrêssemos",
+    "2p": "percorrêsseis",
+    "3p": "percorressem"
+  },
+  "FutSC": {
+    "1s": "percorrer",
+    "2s": "percorreres",
+    "3s": "percorrer",
+    "1p": "percorrermos",
+    "2p": "percorrerdes",
+    "3p": "percorrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "percorre",
+    "3s": "percorra",
+    "1p": "percorramos",
+    "2p": "percorrei",
+    "3p": "percorram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não percorras",
+    "3s": "não percorra",
+    "1p": "não percorramos",
+    "2p": "não percorrais",
+    "3p": "não percorram"
+  },
+  "Part-ter": {
+    "": "percorrido"
+  },
+  "Part-ser": {
+    "ms": "percorrido",
+    "fs": "percorrida",
+    "mp": "percorridos",
+    "fp": "percorridas"
+  }
+}

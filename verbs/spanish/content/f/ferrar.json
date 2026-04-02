@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ferrar"
+  },
+  "Ger": {
+    "": "ferrando"
+  },
+  "PresI": {
+    "1s": "ferro",
+    "2s": "ferras",
+    "3s": "ferra",
+    "1p": "ferramos",
+    "2p": "ferráis",
+    "3p": "ferran"
+  },
+  "PImpI": {
+    "1s": "ferraba",
+    "2s": "ferrabas",
+    "3s": "ferraba",
+    "1p": "ferrábamos",
+    "2p": "ferrabais",
+    "3p": "ferraban"
+  },
+  "PPSI": {
+    "1s": "ferré",
+    "2s": "ferraste",
+    "3s": "ferró",
+    "1p": "ferramos",
+    "2p": "ferrasteis",
+    "3p": "ferraron"
+  },
+  "FutSI": {
+    "1s": "ferraré",
+    "2s": "ferrarás",
+    "3s": "ferrará",
+    "1p": "ferraremos",
+    "2p": "ferraréis",
+    "3p": "ferrarán"
+  },
+  "CondS": {
+    "1s": "ferraría",
+    "2s": "ferrarías",
+    "3s": "ferraría",
+    "1p": "ferraríamos",
+    "2p": "ferraríais",
+    "3p": "ferrarían"
+  },
+  "PresC": {
+    "1s": "ferre",
+    "2s": "ferres",
+    "3s": "ferre",
+    "1p": "ferremos",
+    "2p": "ferréis",
+    "3p": "ferren"
+  },
+  "PMQPSI": {
+    "1s": "ferrara",
+    "2s": "ferraras",
+    "3s": "ferrara",
+    "1p": "ferráramos",
+    "2p": "ferrarais",
+    "3p": "ferraran"
+  },
+  "PImpC": {
+    "1s": "ferrase",
+    "2s": "ferrases",
+    "3s": "ferrase",
+    "1p": "ferrásemos",
+    "2p": "ferraseis",
+    "3p": "ferrasen"
+  },
+  "FutSC": {
+    "1s": "ferrare",
+    "2s": "ferrares",
+    "3s": "ferrare",
+    "1p": "ferráremos",
+    "2p": "ferrareis",
+    "3p": "ferraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ferra",
+    "3s": "ferre",
+    "1p": "ferremos",
+    "2p": "ferrad",
+    "3p": "ferren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ferres",
+    "3s": "no ferre",
+    "1p": "no ferremos",
+    "2p": "no ferréis",
+    "3p": "no ferren"
+  },
+  "Part-ter": {
+    "": "ferrado"
+  },
+  "Part-ser": {
+    "ms": "ferrado",
+    "fs": "ferrada",
+    "mp": "ferrados",
+    "fp": "ferradas"
+  }
+}

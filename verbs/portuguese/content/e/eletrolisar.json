@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "eletrolisar"
+  },
+  "InfP": {
+    "1s": "eletrolisar",
+    "2s": "eletrolisares",
+    "3s": "eletrolisar",
+    "1p": "eletrolisarmos",
+    "2p": "eletrolisardes",
+    "3p": "eletrolisarem"
+  },
+  "Ger": {
+    "": "eletrolisando"
+  },
+  "PresI": {
+    "1s": "eletroliso",
+    "2s": "eletrolisas",
+    "3s": "eletrolisa",
+    "1p": "eletrolisamos",
+    "2p": "eletrolisais",
+    "3p": "eletrolisam"
+  },
+  "PImpI": {
+    "1s": "eletrolisava",
+    "2s": "eletrolisavas",
+    "3s": "eletrolisava",
+    "1p": "eletrolisávamos",
+    "2p": "eletrolisáveis",
+    "3p": "eletrolisavam"
+  },
+  "PPSI": {
+    "1s": "eletrolisei",
+    "2s": "eletrolisaste",
+    "3s": "eletrolisou",
+    "1p": "eletrolisámos",
+    "2p": "eletrolisastes",
+    "3p": "eletrolisaram"
+  },
+  "PMQPSI": {
+    "1s": "eletrolisara",
+    "2s": "eletrolisaras",
+    "3s": "eletrolisara",
+    "1p": "eletrolisáramos",
+    "2p": "eletrolisáreis",
+    "3p": "eletrolisaram"
+  },
+  "FutSI": {
+    "1s": "eletrolisarei",
+    "2s": "eletrolisarás",
+    "3s": "eletrolisará",
+    "1p": "eletrolisaremos",
+    "2p": "eletrolisareis",
+    "3p": "eletrolisarão"
+  },
+  "CondS": {
+    "1s": "eletrolisaria",
+    "2s": "eletrolisarias",
+    "3s": "eletrolisaria",
+    "1p": "eletrolisaríamos",
+    "2p": "eletrolisaríeis",
+    "3p": "eletrolisariam"
+  },
+  "PresC": {
+    "1s": "eletrolise",
+    "2s": "eletrolises",
+    "3s": "eletrolise",
+    "1p": "eletrolisemos",
+    "2p": "eletroliseis",
+    "3p": "eletrolisem"
+  },
+  "PImpC": {
+    "1s": "eletrolisasse",
+    "2s": "eletrolisasses",
+    "3s": "eletrolisasse",
+    "1p": "eletrolisássemos",
+    "2p": "eletrolisásseis",
+    "3p": "eletrolisassem"
+  },
+  "FutSC": {
+    "1s": "eletrolisar",
+    "2s": "eletrolisares",
+    "3s": "eletrolisar",
+    "1p": "eletrolisarmos",
+    "2p": "eletrolisardes",
+    "3p": "eletrolisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eletrolisa",
+    "3s": "eletrolise",
+    "1p": "eletrolisemos",
+    "2p": "eletrolisai",
+    "3p": "eletrolisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não eletrolises",
+    "3s": "não eletrolise",
+    "1p": "não eletrolisemos",
+    "2p": "não eletroliseis",
+    "3p": "não eletrolisem"
+  },
+  "Part-ter": {
+    "": "eletrolisado"
+  },
+  "Part-ser": {
+    "ms": "eletrolisado",
+    "fs": "eletrolisada",
+    "mp": "eletrolisados",
+    "fp": "eletrolisadas"
+  }
+}

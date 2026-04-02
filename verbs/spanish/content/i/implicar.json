@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "implicar"
+  },
+  "Ger": {
+    "": "implicando"
+  },
+  "PresI": {
+    "1s": "implico",
+    "2s": "implicas",
+    "3s": "implica",
+    "1p": "implicamos",
+    "2p": "implicáis",
+    "3p": "implican"
+  },
+  "PImpI": {
+    "1s": "implicaba",
+    "2s": "implicabas",
+    "3s": "implicaba",
+    "1p": "implicábamos",
+    "2p": "implicabais",
+    "3p": "implicaban"
+  },
+  "PPSI": {
+    "1s": "impliqué",
+    "2s": "implicaste",
+    "3s": "implicó",
+    "1p": "implicamos",
+    "2p": "implicasteis",
+    "3p": "implicaron"
+  },
+  "FutSI": {
+    "1s": "implicaré",
+    "2s": "implicarás",
+    "3s": "implicará",
+    "1p": "implicaremos",
+    "2p": "implicaréis",
+    "3p": "implicarán"
+  },
+  "CondS": {
+    "1s": "implicaría",
+    "2s": "implicarías",
+    "3s": "implicaría",
+    "1p": "implicaríamos",
+    "2p": "implicaríais",
+    "3p": "implicarían"
+  },
+  "PresC": {
+    "1s": "implique",
+    "2s": "impliques",
+    "3s": "implique",
+    "1p": "impliquemos",
+    "2p": "impliquéis",
+    "3p": "impliquen"
+  },
+  "PMQPSI": {
+    "1s": "implicara",
+    "2s": "implicaras",
+    "3s": "implicara",
+    "1p": "implicáramos",
+    "2p": "implicarais",
+    "3p": "implicaran"
+  },
+  "PImpC": {
+    "1s": "implicase",
+    "2s": "implicases",
+    "3s": "implicase",
+    "1p": "implicásemos",
+    "2p": "implicaseis",
+    "3p": "implicasen"
+  },
+  "FutSC": {
+    "1s": "implicare",
+    "2s": "implicares",
+    "3s": "implicare",
+    "1p": "implicáremos",
+    "2p": "implicareis",
+    "3p": "implicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "implica",
+    "3s": "implique",
+    "1p": "impliquemos",
+    "2p": "implicad",
+    "3p": "impliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no impliques",
+    "3s": "no implique",
+    "1p": "no impliquemos",
+    "2p": "no impliquéis",
+    "3p": "no impliquen"
+  },
+  "Part-ter": {
+    "": "implicado"
+  },
+  "Part-ser": {
+    "ms": "implicado",
+    "fs": "implicada",
+    "mp": "implicados",
+    "fp": "implicadas"
+  }
+}

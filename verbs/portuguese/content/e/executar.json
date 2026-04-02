@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "executar"
+  },
+  "InfP": {
+    "1s": "executar",
+    "2s": "executares",
+    "3s": "executar",
+    "1p": "executarmos",
+    "2p": "executardes",
+    "3p": "executarem"
+  },
+  "Ger": {
+    "": "executando"
+  },
+  "PresI": {
+    "1s": "executo",
+    "2s": "executas",
+    "3s": "executa",
+    "1p": "executamos",
+    "2p": "executais",
+    "3p": "executam"
+  },
+  "PImpI": {
+    "1s": "executava",
+    "2s": "executavas",
+    "3s": "executava",
+    "1p": "executávamos",
+    "2p": "executáveis",
+    "3p": "executavam"
+  },
+  "PPSI": {
+    "1s": "executei",
+    "2s": "executaste",
+    "3s": "executou",
+    "1p": "executámos",
+    "2p": "executastes",
+    "3p": "executaram"
+  },
+  "PMQPSI": {
+    "1s": "executara",
+    "2s": "executaras",
+    "3s": "executara",
+    "1p": "executáramos",
+    "2p": "executáreis",
+    "3p": "executaram"
+  },
+  "FutSI": {
+    "1s": "executarei",
+    "2s": "executarás",
+    "3s": "executará",
+    "1p": "executaremos",
+    "2p": "executareis",
+    "3p": "executarão"
+  },
+  "CondS": {
+    "1s": "executaria",
+    "2s": "executarias",
+    "3s": "executaria",
+    "1p": "executaríamos",
+    "2p": "executaríeis",
+    "3p": "executariam"
+  },
+  "PresC": {
+    "1s": "execute",
+    "2s": "executes",
+    "3s": "execute",
+    "1p": "executemos",
+    "2p": "executeis",
+    "3p": "executem"
+  },
+  "PImpC": {
+    "1s": "executasse",
+    "2s": "executasses",
+    "3s": "executasse",
+    "1p": "executássemos",
+    "2p": "executásseis",
+    "3p": "executassem"
+  },
+  "FutSC": {
+    "1s": "executar",
+    "2s": "executares",
+    "3s": "executar",
+    "1p": "executarmos",
+    "2p": "executardes",
+    "3p": "executarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "executa",
+    "3s": "execute",
+    "1p": "executemos",
+    "2p": "executai",
+    "3p": "executem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não executes",
+    "3s": "não execute",
+    "1p": "não executemos",
+    "2p": "não executeis",
+    "3p": "não executem"
+  },
+  "Part-ter": {
+    "": "executado"
+  },
+  "Part-ser": {
+    "ms": "executado",
+    "fs": "executada",
+    "mp": "executados",
+    "fp": "executadas"
+  }
+}

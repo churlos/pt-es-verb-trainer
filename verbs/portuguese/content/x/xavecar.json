@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "xavecar"
+  },
+  "InfP": {
+    "1s": "xavecar",
+    "2s": "xavecares",
+    "3s": "xavecar",
+    "1p": "xavecarmos",
+    "2p": "xavecardes",
+    "3p": "xavecarem"
+  },
+  "Ger": {
+    "": "xavecando"
+  },
+  "PresI": {
+    "1s": "xaveco",
+    "2s": "xavecas",
+    "3s": "xaveca",
+    "1p": "xavecamos",
+    "2p": "xavecais",
+    "3p": "xavecam"
+  },
+  "PImpI": {
+    "1s": "xavecava",
+    "2s": "xavecavas",
+    "3s": "xavecava",
+    "1p": "xavecávamos",
+    "2p": "xavecáveis",
+    "3p": "xavecavam"
+  },
+  "PPSI": {
+    "1s": "xavecei",
+    "2s": "xavecaste",
+    "3s": "xavecou",
+    "1p": "xavecámos",
+    "2p": "xavecastes",
+    "3p": "xavecaram"
+  },
+  "PMQPSI": {
+    "1s": "xavecara",
+    "2s": "xavecaras",
+    "3s": "xavecara",
+    "1p": "xavecáramos",
+    "2p": "xavecáreis",
+    "3p": "xavecaram"
+  },
+  "FutSI": {
+    "1s": "xavecarei",
+    "2s": "xavecarás",
+    "3s": "xavecará",
+    "1p": "xavecaremos",
+    "2p": "xavecareis",
+    "3p": "xavecarão"
+  },
+  "CondS": {
+    "1s": "xavecaria",
+    "2s": "xavecarias",
+    "3s": "xavecaria",
+    "1p": "xavecaríamos",
+    "2p": "xavecaríeis",
+    "3p": "xavecariam"
+  },
+  "PresC": {
+    "1s": "xavece",
+    "2s": "xaveces",
+    "3s": "xavece",
+    "1p": "xavecemos",
+    "2p": "xaveceis",
+    "3p": "xavecem"
+  },
+  "PImpC": {
+    "1s": "xavecasse",
+    "2s": "xavecasses",
+    "3s": "xavecasse",
+    "1p": "xavecássemos",
+    "2p": "xavecásseis",
+    "3p": "xavecassem"
+  },
+  "FutSC": {
+    "1s": "xavecar",
+    "2s": "xavecares",
+    "3s": "xavecar",
+    "1p": "xavecarmos",
+    "2p": "xavecardes",
+    "3p": "xavecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "xaveca",
+    "3s": "xavece",
+    "1p": "xavecemos",
+    "2p": "xavecai",
+    "3p": "xavecem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não xaveces",
+    "3s": "não xavece",
+    "1p": "não xavecemos",
+    "2p": "não xaveceis",
+    "3p": "não xavecem"
+  },
+  "Part-ter": {
+    "": "xavecado"
+  },
+  "Part-ser": {
+    "ms": "xavecado",
+    "fs": "xavecada",
+    "mp": "xavecados",
+    "fp": "xavecadas"
+  }
+}

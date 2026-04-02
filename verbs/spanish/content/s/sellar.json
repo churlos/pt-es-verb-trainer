@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sellar"
+  },
+  "Ger": {
+    "": "sellando"
+  },
+  "PresI": {
+    "1s": "sello",
+    "2s": "sellas",
+    "3s": "sella",
+    "1p": "sellamos",
+    "2p": "selláis",
+    "3p": "sellan"
+  },
+  "PImpI": {
+    "1s": "sellaba",
+    "2s": "sellabas",
+    "3s": "sellaba",
+    "1p": "sellábamos",
+    "2p": "sellabais",
+    "3p": "sellaban"
+  },
+  "PPSI": {
+    "1s": "sellé",
+    "2s": "sellaste",
+    "3s": "selló",
+    "1p": "sellamos",
+    "2p": "sellasteis",
+    "3p": "sellaron"
+  },
+  "FutSI": {
+    "1s": "sellaré",
+    "2s": "sellarás",
+    "3s": "sellará",
+    "1p": "sellaremos",
+    "2p": "sellaréis",
+    "3p": "sellarán"
+  },
+  "CondS": {
+    "1s": "sellaría",
+    "2s": "sellarías",
+    "3s": "sellaría",
+    "1p": "sellaríamos",
+    "2p": "sellaríais",
+    "3p": "sellarían"
+  },
+  "PresC": {
+    "1s": "selle",
+    "2s": "selles",
+    "3s": "selle",
+    "1p": "sellemos",
+    "2p": "selléis",
+    "3p": "sellen"
+  },
+  "PMQPSI": {
+    "1s": "sellara",
+    "2s": "sellaras",
+    "3s": "sellara",
+    "1p": "selláramos",
+    "2p": "sellarais",
+    "3p": "sellaran"
+  },
+  "PImpC": {
+    "1s": "sellase",
+    "2s": "sellases",
+    "3s": "sellase",
+    "1p": "sellásemos",
+    "2p": "sellaseis",
+    "3p": "sellasen"
+  },
+  "FutSC": {
+    "1s": "sellare",
+    "2s": "sellares",
+    "3s": "sellare",
+    "1p": "selláremos",
+    "2p": "sellareis",
+    "3p": "sellaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sella",
+    "3s": "selle",
+    "1p": "sellemos",
+    "2p": "sellad",
+    "3p": "sellen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no selles",
+    "3s": "no selle",
+    "1p": "no sellemos",
+    "2p": "no selléis",
+    "3p": "no sellen"
+  },
+  "Part-ter": {
+    "": "sellado"
+  },
+  "Part-ser": {
+    "ms": "sellado",
+    "fs": "sellada",
+    "mp": "sellados",
+    "fp": "selladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "debitar"
+  },
+  "InfP": {
+    "1s": "debitar",
+    "2s": "debitares",
+    "3s": "debitar",
+    "1p": "debitarmos",
+    "2p": "debitardes",
+    "3p": "debitarem"
+  },
+  "Ger": {
+    "": "debitando"
+  },
+  "PresI": {
+    "1s": "debito",
+    "2s": "debitas",
+    "3s": "debita",
+    "1p": "debitamos",
+    "2p": "debitais",
+    "3p": "debitam"
+  },
+  "PImpI": {
+    "1s": "debitava",
+    "2s": "debitavas",
+    "3s": "debitava",
+    "1p": "debitávamos",
+    "2p": "debitáveis",
+    "3p": "debitavam"
+  },
+  "PPSI": {
+    "1s": "debitei",
+    "2s": "debitaste",
+    "3s": "debitou",
+    "1p": "debitámos",
+    "2p": "debitastes",
+    "3p": "debitaram"
+  },
+  "PMQPSI": {
+    "1s": "debitara",
+    "2s": "debitaras",
+    "3s": "debitara",
+    "1p": "debitáramos",
+    "2p": "debitáreis",
+    "3p": "debitaram"
+  },
+  "FutSI": {
+    "1s": "debitarei",
+    "2s": "debitarás",
+    "3s": "debitará",
+    "1p": "debitaremos",
+    "2p": "debitareis",
+    "3p": "debitarão"
+  },
+  "CondS": {
+    "1s": "debitaria",
+    "2s": "debitarias",
+    "3s": "debitaria",
+    "1p": "debitaríamos",
+    "2p": "debitaríeis",
+    "3p": "debitariam"
+  },
+  "PresC": {
+    "1s": "debite",
+    "2s": "debites",
+    "3s": "debite",
+    "1p": "debitemos",
+    "2p": "debiteis",
+    "3p": "debitem"
+  },
+  "PImpC": {
+    "1s": "debitasse",
+    "2s": "debitasses",
+    "3s": "debitasse",
+    "1p": "debitássemos",
+    "2p": "debitásseis",
+    "3p": "debitassem"
+  },
+  "FutSC": {
+    "1s": "debitar",
+    "2s": "debitares",
+    "3s": "debitar",
+    "1p": "debitarmos",
+    "2p": "debitardes",
+    "3p": "debitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "debita",
+    "3s": "debite",
+    "1p": "debitemos",
+    "2p": "debitai",
+    "3p": "debitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não debites",
+    "3s": "não debite",
+    "1p": "não debitemos",
+    "2p": "não debiteis",
+    "3p": "não debitem"
+  },
+  "Part-ter": {
+    "": "debitado"
+  },
+  "Part-ser": {
+    "ms": "debitado",
+    "fs": "debitada",
+    "mp": "debitados",
+    "fp": "debitadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amortecer"
+  },
+  "InfP": {
+    "1s": "amortecer",
+    "2s": "amorteceres",
+    "3s": "amortecer",
+    "1p": "amortecermos",
+    "2p": "amortecerdes",
+    "3p": "amortecerem"
+  },
+  "Ger": {
+    "": "amortecendo"
+  },
+  "PresI": {
+    "1s": "amorteço",
+    "2s": "amorteces",
+    "3s": "amortece",
+    "1p": "amortecemos",
+    "2p": "amorteceis",
+    "3p": "amortecem"
+  },
+  "PImpI": {
+    "1s": "amortecia",
+    "2s": "amortecias",
+    "3s": "amortecia",
+    "1p": "amortecíamos",
+    "2p": "amortecíeis",
+    "3p": "amorteciam"
+  },
+  "PPSI": {
+    "1s": "amorteci",
+    "2s": "amorteceste",
+    "3s": "amorteceu",
+    "1p": "amortecemos",
+    "2p": "amortecestes",
+    "3p": "amorteceram"
+  },
+  "PMQPSI": {
+    "1s": "amortecera",
+    "2s": "amorteceras",
+    "3s": "amortecera",
+    "1p": "amortecêramos",
+    "2p": "amortecêreis",
+    "3p": "amorteceram"
+  },
+  "FutSI": {
+    "1s": "amortecerei",
+    "2s": "amortecerás",
+    "3s": "amortecerá",
+    "1p": "amorteceremos",
+    "2p": "amortecereis",
+    "3p": "amortecerão"
+  },
+  "CondS": {
+    "1s": "amorteceria",
+    "2s": "amortecerias",
+    "3s": "amorteceria",
+    "1p": "amorteceríamos",
+    "2p": "amorteceríeis",
+    "3p": "amorteceriam"
+  },
+  "PresC": {
+    "1s": "amorteça",
+    "2s": "amorteças",
+    "3s": "amorteça",
+    "1p": "amorteçamos",
+    "2p": "amorteçais",
+    "3p": "amorteçam"
+  },
+  "PImpC": {
+    "1s": "amortecesse",
+    "2s": "amortecesses",
+    "3s": "amortecesse",
+    "1p": "amortecêssemos",
+    "2p": "amortecêsseis",
+    "3p": "amortecessem"
+  },
+  "FutSC": {
+    "1s": "amortecer",
+    "2s": "amorteceres",
+    "3s": "amortecer",
+    "1p": "amortecermos",
+    "2p": "amortecerdes",
+    "3p": "amortecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amortece",
+    "3s": "amorteça",
+    "1p": "amorteçamos",
+    "2p": "amortecei",
+    "3p": "amorteçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amorteças",
+    "3s": "não amorteça",
+    "1p": "não amorteçamos",
+    "2p": "não amorteçais",
+    "3p": "não amorteçam"
+  },
+  "Part-ter": {
+    "": "amortecido"
+  },
+  "Part-ser": {
+    "ms": "amortecido",
+    "fs": "amortecida",
+    "mp": "amortecidos",
+    "fp": "amortecidas"
+  }
+}

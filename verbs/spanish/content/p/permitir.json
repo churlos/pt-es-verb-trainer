@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "permitir"
+  },
+  "Ger": {
+    "": "permitiendo"
+  },
+  "PresI": {
+    "1s": "permito",
+    "2s": "permites",
+    "3s": "permite",
+    "1p": "permitimos",
+    "2p": "permitís",
+    "3p": "permiten"
+  },
+  "PImpI": {
+    "1s": "permitía",
+    "2s": "permitías",
+    "3s": "permitía",
+    "1p": "permitíamos",
+    "2p": "permitíais",
+    "3p": "permitían"
+  },
+  "PPSI": {
+    "1s": "permití",
+    "2s": "permitiste",
+    "3s": "permitió",
+    "1p": "permitimos",
+    "2p": "permitisteis",
+    "3p": "permitieron"
+  },
+  "FutSI": {
+    "1s": "permitiré",
+    "2s": "permitirás",
+    "3s": "permitirá",
+    "1p": "permitiremos",
+    "2p": "permitiréis",
+    "3p": "permitirán"
+  },
+  "CondS": {
+    "1s": "permitiría",
+    "2s": "permitirías",
+    "3s": "permitiría",
+    "1p": "permitiríamos",
+    "2p": "permitiríais",
+    "3p": "permitirían"
+  },
+  "PresC": {
+    "1s": "permita",
+    "2s": "permitas",
+    "3s": "permita",
+    "1p": "permitamos",
+    "2p": "permitáis",
+    "3p": "permitan"
+  },
+  "PMQPSI": {
+    "1s": "permitiera",
+    "2s": "permitieras",
+    "3s": "permitiera",
+    "1p": "permitiéramos",
+    "2p": "permitierais",
+    "3p": "permitieran"
+  },
+  "PImpC": {
+    "1s": "permitiese",
+    "2s": "permitieses",
+    "3s": "permitiese",
+    "1p": "permitiésemos",
+    "2p": "permitieseis",
+    "3p": "permitiesen"
+  },
+  "FutSC": {
+    "1s": "permitiere",
+    "2s": "permitieres",
+    "3s": "permitiere",
+    "1p": "permitiéremos",
+    "2p": "permitiereis",
+    "3p": "permitieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "permite",
+    "3s": "permita",
+    "1p": "permitamos",
+    "2p": "permitid",
+    "3p": "permitan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no permitas",
+    "3s": "no permita",
+    "1p": "no permitamos",
+    "2p": "no permitáis",
+    "3p": "no permitan"
+  },
+  "Part-ter": {
+    "": "permitido"
+  },
+  "Part-ser": {
+    "ms": "permitido",
+    "fs": "permitida",
+    "mp": "permitidos",
+    "fp": "permitidas"
+  }
+}

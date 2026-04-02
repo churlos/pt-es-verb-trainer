@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "entregar"
+  },
+  "Ger": {
+    "": "entregando"
+  },
+  "PresI": {
+    "1s": "entrego",
+    "2s": "entregas",
+    "3s": "entrega",
+    "1p": "entregamos",
+    "2p": "entregáis",
+    "3p": "entregan"
+  },
+  "PImpI": {
+    "1s": "entregaba",
+    "2s": "entregabas",
+    "3s": "entregaba",
+    "1p": "entregábamos",
+    "2p": "entregabais",
+    "3p": "entregaban"
+  },
+  "PPSI": {
+    "1s": "entregué",
+    "2s": "entregaste",
+    "3s": "entregó",
+    "1p": "entregamos",
+    "2p": "entregasteis",
+    "3p": "entregaron"
+  },
+  "FutSI": {
+    "1s": "entregaré",
+    "2s": "entregarás",
+    "3s": "entregará",
+    "1p": "entregaremos",
+    "2p": "entregaréis",
+    "3p": "entregarán"
+  },
+  "CondS": {
+    "1s": "entregaría",
+    "2s": "entregarías",
+    "3s": "entregaría",
+    "1p": "entregaríamos",
+    "2p": "entregaríais",
+    "3p": "entregarían"
+  },
+  "PresC": {
+    "1s": "entregue",
+    "2s": "entregues",
+    "3s": "entregue",
+    "1p": "entreguemos",
+    "2p": "entreguéis",
+    "3p": "entreguen"
+  },
+  "PMQPSI": {
+    "1s": "entregara",
+    "2s": "entregaras",
+    "3s": "entregara",
+    "1p": "entregáramos",
+    "2p": "entregarais",
+    "3p": "entregaran"
+  },
+  "PImpC": {
+    "1s": "entregase",
+    "2s": "entregases",
+    "3s": "entregase",
+    "1p": "entregásemos",
+    "2p": "entregaseis",
+    "3p": "entregasen"
+  },
+  "FutSC": {
+    "1s": "entregare",
+    "2s": "entregares",
+    "3s": "entregare",
+    "1p": "entregáremos",
+    "2p": "entregareis",
+    "3p": "entregaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entrega",
+    "3s": "entregue",
+    "1p": "entreguemos",
+    "2p": "entregad",
+    "3p": "entreguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no entregues",
+    "3s": "no entregue",
+    "1p": "no entreguemos",
+    "2p": "no entreguéis",
+    "3p": "no entreguen"
+  },
+  "Part-ter": {
+    "": "entregado"
+  },
+  "Part-ser": {
+    "ms": "entregado",
+    "fs": "entregada",
+    "mp": "entregados",
+    "fp": "entregadas"
+  }
+}

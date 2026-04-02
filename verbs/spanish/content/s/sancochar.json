@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sancochar"
+  },
+  "Ger": {
+    "": "sancochando"
+  },
+  "PresI": {
+    "1s": "sancocho",
+    "2s": "sancochas",
+    "3s": "sancocha",
+    "1p": "sancochamos",
+    "2p": "sancocháis",
+    "3p": "sancochan"
+  },
+  "PImpI": {
+    "1s": "sancochaba",
+    "2s": "sancochabas",
+    "3s": "sancochaba",
+    "1p": "sancochábamos",
+    "2p": "sancochabais",
+    "3p": "sancochaban"
+  },
+  "PPSI": {
+    "1s": "sancoché",
+    "2s": "sancochaste",
+    "3s": "sancochó",
+    "1p": "sancochamos",
+    "2p": "sancochasteis",
+    "3p": "sancocharon"
+  },
+  "FutSI": {
+    "1s": "sancocharé",
+    "2s": "sancocharás",
+    "3s": "sancochará",
+    "1p": "sancocharemos",
+    "2p": "sancocharéis",
+    "3p": "sancocharán"
+  },
+  "CondS": {
+    "1s": "sancocharía",
+    "2s": "sancocharías",
+    "3s": "sancocharía",
+    "1p": "sancocharíamos",
+    "2p": "sancocharíais",
+    "3p": "sancocharían"
+  },
+  "PresC": {
+    "1s": "sancoche",
+    "2s": "sancoches",
+    "3s": "sancoche",
+    "1p": "sancochemos",
+    "2p": "sancochéis",
+    "3p": "sancochen"
+  },
+  "PMQPSI": {
+    "1s": "sancochara",
+    "2s": "sancocharas",
+    "3s": "sancochara",
+    "1p": "sancocháramos",
+    "2p": "sancocharais",
+    "3p": "sancocharan"
+  },
+  "PImpC": {
+    "1s": "sancochase",
+    "2s": "sancochases",
+    "3s": "sancochase",
+    "1p": "sancochásemos",
+    "2p": "sancochaseis",
+    "3p": "sancochasen"
+  },
+  "FutSC": {
+    "1s": "sancochare",
+    "2s": "sancochares",
+    "3s": "sancochare",
+    "1p": "sancocháremos",
+    "2p": "sancochareis",
+    "3p": "sancocharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sancocha",
+    "3s": "sancoche",
+    "1p": "sancochemos",
+    "2p": "sancochad",
+    "3p": "sancochen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sancoches",
+    "3s": "no sancoche",
+    "1p": "no sancochemos",
+    "2p": "no sancochéis",
+    "3p": "no sancochen"
+  },
+  "Part-ter": {
+    "": "sancochado"
+  },
+  "Part-ser": {
+    "ms": "sancochado",
+    "fs": "sancochada",
+    "mp": "sancochados",
+    "fp": "sancochadas"
+  }
+}

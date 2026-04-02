@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ganir"
+  },
+  "InfP": {
+    "1s": "ganir",
+    "2s": "ganires",
+    "3s": "ganir",
+    "1p": "ganirmos",
+    "2p": "ganirdes",
+    "3p": "ganirem"
+  },
+  "Ger": {
+    "": "ganindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "ganes",
+    "3s": "gane",
+    "1p": "ganimos",
+    "2p": "ganis",
+    "3p": "ganem"
+  },
+  "PImpI": {
+    "1s": "gania",
+    "2s": "ganias",
+    "3s": "gania",
+    "1p": "ganíamos",
+    "2p": "ganíeis",
+    "3p": "ganiam"
+  },
+  "PPSI": {
+    "1s": "gani",
+    "2s": "ganiste",
+    "3s": "ganiu",
+    "1p": "ganimos",
+    "2p": "ganistes",
+    "3p": "ganiram"
+  },
+  "PMQPSI": {
+    "1s": "ganira",
+    "2s": "ganiras",
+    "3s": "ganira",
+    "1p": "ganíramos",
+    "2p": "ganíreis",
+    "3p": "ganiram"
+  },
+  "FutSI": {
+    "1s": "ganirei",
+    "2s": "ganirás",
+    "3s": "ganirá",
+    "1p": "ganiremos",
+    "2p": "ganireis",
+    "3p": "ganirão"
+  },
+  "CondS": {
+    "1s": "ganiria",
+    "2s": "ganirias",
+    "3s": "ganiria",
+    "1p": "ganiríamos",
+    "2p": "ganiríeis",
+    "3p": "ganiriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "ganisse",
+    "2s": "ganisses",
+    "3s": "ganisse",
+    "1p": "ganíssemos",
+    "2p": "ganísseis",
+    "3p": "ganissem"
+  },
+  "FutSC": {
+    "1s": "ganir",
+    "2s": "ganires",
+    "3s": "ganir",
+    "1p": "ganirmos",
+    "2p": "ganirdes",
+    "3p": "ganirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ganeNormally defective:ganas",
+    "3s": "",
+    "1p": "",
+    "2p": "ganiNormally defective:ganais",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "ganido"
+  },
+  "Part-ser": {
+    "ms": "ganido",
+    "fs": "ganida",
+    "mp": "ganidos",
+    "fp": "ganidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "obedecer"
+  },
+  "InfP": {
+    "1s": "obedecer",
+    "2s": "obedeceres",
+    "3s": "obedecer",
+    "1p": "obedecermos",
+    "2p": "obedecerdes",
+    "3p": "obedecerem"
+  },
+  "Ger": {
+    "": "obedecendo"
+  },
+  "PresI": {
+    "1s": "obedeço",
+    "2s": "obedeces",
+    "3s": "obedece",
+    "1p": "obedecemos",
+    "2p": "obedeceis",
+    "3p": "obedecem"
+  },
+  "PImpI": {
+    "1s": "obedecia",
+    "2s": "obedecias",
+    "3s": "obedecia",
+    "1p": "obedecíamos",
+    "2p": "obedecíeis",
+    "3p": "obedeciam"
+  },
+  "PPSI": {
+    "1s": "obedeci",
+    "2s": "obedeceste",
+    "3s": "obedeceu",
+    "1p": "obedecemos",
+    "2p": "obedecestes",
+    "3p": "obedeceram"
+  },
+  "PMQPSI": {
+    "1s": "obedecera",
+    "2s": "obedeceras",
+    "3s": "obedecera",
+    "1p": "obedecêramos",
+    "2p": "obedecêreis",
+    "3p": "obedeceram"
+  },
+  "FutSI": {
+    "1s": "obedecerei",
+    "2s": "obedecerás",
+    "3s": "obedecerá",
+    "1p": "obedeceremos",
+    "2p": "obedecereis",
+    "3p": "obedecerão"
+  },
+  "CondS": {
+    "1s": "obedeceria",
+    "2s": "obedecerias",
+    "3s": "obedeceria",
+    "1p": "obedeceríamos",
+    "2p": "obedeceríeis",
+    "3p": "obedeceriam"
+  },
+  "PresC": {
+    "1s": "obedeça",
+    "2s": "obedeças",
+    "3s": "obedeça",
+    "1p": "obedeçamos",
+    "2p": "obedeçais",
+    "3p": "obedeçam"
+  },
+  "PImpC": {
+    "1s": "obedecesse",
+    "2s": "obedecesses",
+    "3s": "obedecesse",
+    "1p": "obedecêssemos",
+    "2p": "obedecêsseis",
+    "3p": "obedecessem"
+  },
+  "FutSC": {
+    "1s": "obedecer",
+    "2s": "obedeceres",
+    "3s": "obedecer",
+    "1p": "obedecermos",
+    "2p": "obedecerdes",
+    "3p": "obedecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "obedece",
+    "3s": "obedeça",
+    "1p": "obedeçamos",
+    "2p": "obedecei",
+    "3p": "obedeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não obedeças",
+    "3s": "não obedeça",
+    "1p": "não obedeçamos",
+    "2p": "não obedeçais",
+    "3p": "não obedeçam"
+  },
+  "Part-ter": {
+    "": "obedecido"
+  },
+  "Part-ser": {
+    "ms": "obedecido",
+    "fs": "obedecida",
+    "mp": "obedecidos",
+    "fp": "obedecidas"
+  }
+}

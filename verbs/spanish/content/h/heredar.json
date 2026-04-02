@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "heredar"
+  },
+  "Ger": {
+    "": "heredando"
+  },
+  "PresI": {
+    "1s": "heredo",
+    "2s": "heredas",
+    "3s": "hereda",
+    "1p": "heredamos",
+    "2p": "heredáis",
+    "3p": "heredan"
+  },
+  "PImpI": {
+    "1s": "heredaba",
+    "2s": "heredabas",
+    "3s": "heredaba",
+    "1p": "heredábamos",
+    "2p": "heredabais",
+    "3p": "heredaban"
+  },
+  "PPSI": {
+    "1s": "heredé",
+    "2s": "heredaste",
+    "3s": "heredó",
+    "1p": "heredamos",
+    "2p": "heredasteis",
+    "3p": "heredaron"
+  },
+  "FutSI": {
+    "1s": "heredaré",
+    "2s": "heredarás",
+    "3s": "heredará",
+    "1p": "heredaremos",
+    "2p": "heredaréis",
+    "3p": "heredarán"
+  },
+  "CondS": {
+    "1s": "heredaría",
+    "2s": "heredarías",
+    "3s": "heredaría",
+    "1p": "heredaríamos",
+    "2p": "heredaríais",
+    "3p": "heredarían"
+  },
+  "PresC": {
+    "1s": "herede",
+    "2s": "heredes",
+    "3s": "herede",
+    "1p": "heredemos",
+    "2p": "heredéis",
+    "3p": "hereden"
+  },
+  "PMQPSI": {
+    "1s": "heredara",
+    "2s": "heredaras",
+    "3s": "heredara",
+    "1p": "heredáramos",
+    "2p": "heredarais",
+    "3p": "heredaran"
+  },
+  "PImpC": {
+    "1s": "heredase",
+    "2s": "heredases",
+    "3s": "heredase",
+    "1p": "heredásemos",
+    "2p": "heredaseis",
+    "3p": "heredasen"
+  },
+  "FutSC": {
+    "1s": "heredare",
+    "2s": "heredares",
+    "3s": "heredare",
+    "1p": "heredáremos",
+    "2p": "heredareis",
+    "3p": "heredaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hereda",
+    "3s": "herede",
+    "1p": "heredemos",
+    "2p": "heredad",
+    "3p": "hereden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no heredes",
+    "3s": "no herede",
+    "1p": "no heredemos",
+    "2p": "no heredéis",
+    "3p": "no hereden"
+  },
+  "Part-ter": {
+    "": "heredado"
+  },
+  "Part-ser": {
+    "ms": "heredado",
+    "fs": "heredada",
+    "mp": "heredados",
+    "fp": "heredadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lucrar"
+  },
+  "Ger": {
+    "": "lucrando"
+  },
+  "PresI": {
+    "1s": "lucro",
+    "2s": "lucras",
+    "3s": "lucra",
+    "1p": "lucramos",
+    "2p": "lucráis",
+    "3p": "lucran"
+  },
+  "PImpI": {
+    "1s": "lucraba",
+    "2s": "lucrabas",
+    "3s": "lucraba",
+    "1p": "lucrábamos",
+    "2p": "lucrabais",
+    "3p": "lucraban"
+  },
+  "PPSI": {
+    "1s": "lucré",
+    "2s": "lucraste",
+    "3s": "lucró",
+    "1p": "lucramos",
+    "2p": "lucrasteis",
+    "3p": "lucraron"
+  },
+  "FutSI": {
+    "1s": "lucraré",
+    "2s": "lucrarás",
+    "3s": "lucrará",
+    "1p": "lucraremos",
+    "2p": "lucraréis",
+    "3p": "lucrarán"
+  },
+  "CondS": {
+    "1s": "lucraría",
+    "2s": "lucrarías",
+    "3s": "lucraría",
+    "1p": "lucraríamos",
+    "2p": "lucraríais",
+    "3p": "lucrarían"
+  },
+  "PresC": {
+    "1s": "lucre",
+    "2s": "lucres",
+    "3s": "lucre",
+    "1p": "lucremos",
+    "2p": "lucréis",
+    "3p": "lucren"
+  },
+  "PMQPSI": {
+    "1s": "lucrara",
+    "2s": "lucraras",
+    "3s": "lucrara",
+    "1p": "lucráramos",
+    "2p": "lucrarais",
+    "3p": "lucraran"
+  },
+  "PImpC": {
+    "1s": "lucrase",
+    "2s": "lucrases",
+    "3s": "lucrase",
+    "1p": "lucrásemos",
+    "2p": "lucraseis",
+    "3p": "lucrasen"
+  },
+  "FutSC": {
+    "1s": "lucrare",
+    "2s": "lucrares",
+    "3s": "lucrare",
+    "1p": "lucráremos",
+    "2p": "lucrareis",
+    "3p": "lucraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lucra",
+    "3s": "lucre",
+    "1p": "lucremos",
+    "2p": "lucrad",
+    "3p": "lucren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lucres",
+    "3s": "no lucre",
+    "1p": "no lucremos",
+    "2p": "no lucréis",
+    "3p": "no lucren"
+  },
+  "Part-ter": {
+    "": "lucrado"
+  },
+  "Part-ser": {
+    "ms": "lucrado",
+    "fs": "lucrada",
+    "mp": "lucrados",
+    "fp": "lucradas"
+  }
+}

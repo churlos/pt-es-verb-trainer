@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "parabenizar"
+  },
+  "InfP": {
+    "1s": "parabenizar",
+    "2s": "parabenizares",
+    "3s": "parabenizar",
+    "1p": "parabenizarmos",
+    "2p": "parabenizardes",
+    "3p": "parabenizarem"
+  },
+  "Ger": {
+    "": "parabenizando"
+  },
+  "PresI": {
+    "1s": "parabenizo",
+    "2s": "parabenizas",
+    "3s": "parabeniza",
+    "1p": "parabenizamos",
+    "2p": "parabenizais",
+    "3p": "parabenizam"
+  },
+  "PImpI": {
+    "1s": "parabenizava",
+    "2s": "parabenizavas",
+    "3s": "parabenizava",
+    "1p": "parabenizávamos",
+    "2p": "parabenizáveis",
+    "3p": "parabenizavam"
+  },
+  "PPSI": {
+    "1s": "parabenizei",
+    "2s": "parabenizaste",
+    "3s": "parabenizou",
+    "1p": "parabenizámos",
+    "2p": "parabenizastes",
+    "3p": "parabenizaram"
+  },
+  "PMQPSI": {
+    "1s": "parabenizara",
+    "2s": "parabenizaras",
+    "3s": "parabenizara",
+    "1p": "parabenizáramos",
+    "2p": "parabenizáreis",
+    "3p": "parabenizaram"
+  },
+  "FutSI": {
+    "1s": "parabenizarei",
+    "2s": "parabenizarás",
+    "3s": "parabenizará",
+    "1p": "parabenizaremos",
+    "2p": "parabenizareis",
+    "3p": "parabenizarão"
+  },
+  "CondS": {
+    "1s": "parabenizaria",
+    "2s": "parabenizarias",
+    "3s": "parabenizaria",
+    "1p": "parabenizaríamos",
+    "2p": "parabenizaríeis",
+    "3p": "parabenizariam"
+  },
+  "PresC": {
+    "1s": "parabenize",
+    "2s": "parabenizes",
+    "3s": "parabenize",
+    "1p": "parabenizemos",
+    "2p": "parabenizeis",
+    "3p": "parabenizem"
+  },
+  "PImpC": {
+    "1s": "parabenizasse",
+    "2s": "parabenizasses",
+    "3s": "parabenizasse",
+    "1p": "parabenizássemos",
+    "2p": "parabenizásseis",
+    "3p": "parabenizassem"
+  },
+  "FutSC": {
+    "1s": "parabenizar",
+    "2s": "parabenizares",
+    "3s": "parabenizar",
+    "1p": "parabenizarmos",
+    "2p": "parabenizardes",
+    "3p": "parabenizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parabeniza",
+    "3s": "parabenize",
+    "1p": "parabenizemos",
+    "2p": "parabenizai",
+    "3p": "parabenizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não parabenizes",
+    "3s": "não parabenize",
+    "1p": "não parabenizemos",
+    "2p": "não parabenizeis",
+    "3p": "não parabenizem"
+  },
+  "Part-ter": {
+    "": "parabenizado"
+  },
+  "Part-ser": {
+    "ms": "parabenizado",
+    "fs": "parabenizada",
+    "mp": "parabenizados",
+    "fp": "parabenizadas"
+  }
+}

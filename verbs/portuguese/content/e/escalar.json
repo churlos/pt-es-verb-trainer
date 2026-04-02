@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escalar"
+  },
+  "InfP": {
+    "1s": "escalar",
+    "2s": "escalares",
+    "3s": "escalar",
+    "1p": "escalarmos",
+    "2p": "escalardes",
+    "3p": "escalarem"
+  },
+  "Ger": {
+    "": "escalando"
+  },
+  "PresI": {
+    "1s": "escalo",
+    "2s": "escalas",
+    "3s": "escala",
+    "1p": "escalamos",
+    "2p": "escalais",
+    "3p": "escalam"
+  },
+  "PImpI": {
+    "1s": "escalava",
+    "2s": "escalavas",
+    "3s": "escalava",
+    "1p": "escalávamos",
+    "2p": "escaláveis",
+    "3p": "escalavam"
+  },
+  "PPSI": {
+    "1s": "escalei",
+    "2s": "escalaste",
+    "3s": "escalou",
+    "1p": "escalámos",
+    "2p": "escalastes",
+    "3p": "escalaram"
+  },
+  "PMQPSI": {
+    "1s": "escalara",
+    "2s": "escalaras",
+    "3s": "escalara",
+    "1p": "escaláramos",
+    "2p": "escaláreis",
+    "3p": "escalaram"
+  },
+  "FutSI": {
+    "1s": "escalarei",
+    "2s": "escalarás",
+    "3s": "escalará",
+    "1p": "escalaremos",
+    "2p": "escalareis",
+    "3p": "escalarão"
+  },
+  "CondS": {
+    "1s": "escalaria",
+    "2s": "escalarias",
+    "3s": "escalaria",
+    "1p": "escalaríamos",
+    "2p": "escalaríeis",
+    "3p": "escalariam"
+  },
+  "PresC": {
+    "1s": "escale",
+    "2s": "escales",
+    "3s": "escale",
+    "1p": "escalemos",
+    "2p": "escaleis",
+    "3p": "escalem"
+  },
+  "PImpC": {
+    "1s": "escalasse",
+    "2s": "escalasses",
+    "3s": "escalasse",
+    "1p": "escalássemos",
+    "2p": "escalásseis",
+    "3p": "escalassem"
+  },
+  "FutSC": {
+    "1s": "escalar",
+    "2s": "escalares",
+    "3s": "escalar",
+    "1p": "escalarmos",
+    "2p": "escalardes",
+    "3p": "escalarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escala",
+    "3s": "escale",
+    "1p": "escalemos",
+    "2p": "escalai",
+    "3p": "escalem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escales",
+    "3s": "não escale",
+    "1p": "não escalemos",
+    "2p": "não escaleis",
+    "3p": "não escalem"
+  },
+  "Part-ter": {
+    "": "escalado"
+  },
+  "Part-ser": {
+    "ms": "escalado",
+    "fs": "escalada",
+    "mp": "escalados",
+    "fp": "escaladas"
+  }
+}

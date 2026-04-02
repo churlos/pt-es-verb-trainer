@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "donar"
+  },
+  "Ger": {
+    "": "donando"
+  },
+  "PresI": {
+    "1s": "dono",
+    "2s": "donas",
+    "3s": "dona",
+    "1p": "donamos",
+    "2p": "donáis",
+    "3p": "donan"
+  },
+  "PImpI": {
+    "1s": "donaba",
+    "2s": "donabas",
+    "3s": "donaba",
+    "1p": "donábamos",
+    "2p": "donabais",
+    "3p": "donaban"
+  },
+  "PPSI": {
+    "1s": "doné",
+    "2s": "donaste",
+    "3s": "donó",
+    "1p": "donamos",
+    "2p": "donasteis",
+    "3p": "donaron"
+  },
+  "FutSI": {
+    "1s": "donaré",
+    "2s": "donarás",
+    "3s": "donará",
+    "1p": "donaremos",
+    "2p": "donaréis",
+    "3p": "donarán"
+  },
+  "CondS": {
+    "1s": "donaría",
+    "2s": "donarías",
+    "3s": "donaría",
+    "1p": "donaríamos",
+    "2p": "donaríais",
+    "3p": "donarían"
+  },
+  "PresC": {
+    "1s": "done",
+    "2s": "dones",
+    "3s": "done",
+    "1p": "donemos",
+    "2p": "donéis",
+    "3p": "donen"
+  },
+  "PMQPSI": {
+    "1s": "donara",
+    "2s": "donaras",
+    "3s": "donara",
+    "1p": "donáramos",
+    "2p": "donarais",
+    "3p": "donaran"
+  },
+  "PImpC": {
+    "1s": "donase",
+    "2s": "donases",
+    "3s": "donase",
+    "1p": "donásemos",
+    "2p": "donaseis",
+    "3p": "donasen"
+  },
+  "FutSC": {
+    "1s": "donare",
+    "2s": "donares",
+    "3s": "donare",
+    "1p": "donáremos",
+    "2p": "donareis",
+    "3p": "donaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dona",
+    "3s": "done",
+    "1p": "donemos",
+    "2p": "donad",
+    "3p": "donen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dones",
+    "3s": "no done",
+    "1p": "no donemos",
+    "2p": "no donéis",
+    "3p": "no donen"
+  },
+  "Part-ter": {
+    "": "donado"
+  },
+  "Part-ser": {
+    "ms": "donado",
+    "fs": "donada",
+    "mp": "donados",
+    "fp": "donadas"
+  }
+}

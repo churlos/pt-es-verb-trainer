@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "invalidar"
+  },
+  "Ger": {
+    "": "invalidando"
+  },
+  "PresI": {
+    "1s": "invalido",
+    "2s": "invalidas",
+    "3s": "invalida",
+    "1p": "invalidamos",
+    "2p": "invalidáis",
+    "3p": "invalidan"
+  },
+  "PImpI": {
+    "1s": "invalidaba",
+    "2s": "invalidabas",
+    "3s": "invalidaba",
+    "1p": "invalidábamos",
+    "2p": "invalidabais",
+    "3p": "invalidaban"
+  },
+  "PPSI": {
+    "1s": "invalidé",
+    "2s": "invalidaste",
+    "3s": "invalidó",
+    "1p": "invalidamos",
+    "2p": "invalidasteis",
+    "3p": "invalidaron"
+  },
+  "FutSI": {
+    "1s": "invalidaré",
+    "2s": "invalidarás",
+    "3s": "invalidará",
+    "1p": "invalidaremos",
+    "2p": "invalidaréis",
+    "3p": "invalidarán"
+  },
+  "CondS": {
+    "1s": "invalidaría",
+    "2s": "invalidarías",
+    "3s": "invalidaría",
+    "1p": "invalidaríamos",
+    "2p": "invalidaríais",
+    "3p": "invalidarían"
+  },
+  "PresC": {
+    "1s": "invalide",
+    "2s": "invalides",
+    "3s": "invalide",
+    "1p": "invalidemos",
+    "2p": "invalidéis",
+    "3p": "invaliden"
+  },
+  "PMQPSI": {
+    "1s": "invalidara",
+    "2s": "invalidaras",
+    "3s": "invalidara",
+    "1p": "invalidáramos",
+    "2p": "invalidarais",
+    "3p": "invalidaran"
+  },
+  "PImpC": {
+    "1s": "invalidase",
+    "2s": "invalidases",
+    "3s": "invalidase",
+    "1p": "invalidásemos",
+    "2p": "invalidaseis",
+    "3p": "invalidasen"
+  },
+  "FutSC": {
+    "1s": "invalidare",
+    "2s": "invalidares",
+    "3s": "invalidare",
+    "1p": "invalidáremos",
+    "2p": "invalidareis",
+    "3p": "invalidaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invalida",
+    "3s": "invalide",
+    "1p": "invalidemos",
+    "2p": "invalidad",
+    "3p": "invaliden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no invalides",
+    "3s": "no invalide",
+    "1p": "no invalidemos",
+    "2p": "no invalidéis",
+    "3p": "no invaliden"
+  },
+  "Part-ter": {
+    "": "invalidado"
+  },
+  "Part-ser": {
+    "ms": "invalidado",
+    "fs": "invalidada",
+    "mp": "invalidados",
+    "fp": "invalidadas"
+  }
+}

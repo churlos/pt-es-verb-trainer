@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "debitar"
+  },
+  "Ger": {
+    "": "debitando"
+  },
+  "PresI": {
+    "1s": "debito",
+    "2s": "debitas",
+    "3s": "debita",
+    "1p": "debitamos",
+    "2p": "debitáis",
+    "3p": "debitan"
+  },
+  "PImpI": {
+    "1s": "debitaba",
+    "2s": "debitabas",
+    "3s": "debitaba",
+    "1p": "debitábamos",
+    "2p": "debitabais",
+    "3p": "debitaban"
+  },
+  "PPSI": {
+    "1s": "debité",
+    "2s": "debitaste",
+    "3s": "debitó",
+    "1p": "debitamos",
+    "2p": "debitasteis",
+    "3p": "debitaron"
+  },
+  "FutSI": {
+    "1s": "debitaré",
+    "2s": "debitarás",
+    "3s": "debitará",
+    "1p": "debitaremos",
+    "2p": "debitaréis",
+    "3p": "debitarán"
+  },
+  "CondS": {
+    "1s": "debitaría",
+    "2s": "debitarías",
+    "3s": "debitaría",
+    "1p": "debitaríamos",
+    "2p": "debitaríais",
+    "3p": "debitarían"
+  },
+  "PresC": {
+    "1s": "debite",
+    "2s": "debites",
+    "3s": "debite",
+    "1p": "debitemos",
+    "2p": "debitéis",
+    "3p": "debiten"
+  },
+  "PMQPSI": {
+    "1s": "debitara",
+    "2s": "debitaras",
+    "3s": "debitara",
+    "1p": "debitáramos",
+    "2p": "debitarais",
+    "3p": "debitaran"
+  },
+  "PImpC": {
+    "1s": "debitase",
+    "2s": "debitases",
+    "3s": "debitase",
+    "1p": "debitásemos",
+    "2p": "debitaseis",
+    "3p": "debitasen"
+  },
+  "FutSC": {
+    "1s": "debitare",
+    "2s": "debitares",
+    "3s": "debitare",
+    "1p": "debitáremos",
+    "2p": "debitareis",
+    "3p": "debitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "debita",
+    "3s": "debite",
+    "1p": "debitemos",
+    "2p": "debitad",
+    "3p": "debiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no debites",
+    "3s": "no debite",
+    "1p": "no debitemos",
+    "2p": "no debitéis",
+    "3p": "no debiten"
+  },
+  "Part-ter": {
+    "": "debitado"
+  },
+  "Part-ser": {
+    "ms": "debitado",
+    "fs": "debitada",
+    "mp": "debitados",
+    "fp": "debitadas"
+  }
+}

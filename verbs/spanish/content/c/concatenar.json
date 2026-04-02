@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "concatenar"
+  },
+  "Ger": {
+    "": "concatenando"
+  },
+  "PresI": {
+    "1s": "concateno",
+    "2s": "concatenas",
+    "3s": "concatena",
+    "1p": "concatenamos",
+    "2p": "concatenáis",
+    "3p": "concatenan"
+  },
+  "PImpI": {
+    "1s": "concatenaba",
+    "2s": "concatenabas",
+    "3s": "concatenaba",
+    "1p": "concatenábamos",
+    "2p": "concatenabais",
+    "3p": "concatenaban"
+  },
+  "PPSI": {
+    "1s": "concatené",
+    "2s": "concatenaste",
+    "3s": "concatenó",
+    "1p": "concatenamos",
+    "2p": "concatenasteis",
+    "3p": "concatenaron"
+  },
+  "FutSI": {
+    "1s": "concatenaré",
+    "2s": "concatenarás",
+    "3s": "concatenará",
+    "1p": "concatenaremos",
+    "2p": "concatenaréis",
+    "3p": "concatenarán"
+  },
+  "CondS": {
+    "1s": "concatenaría",
+    "2s": "concatenarías",
+    "3s": "concatenaría",
+    "1p": "concatenaríamos",
+    "2p": "concatenaríais",
+    "3p": "concatenarían"
+  },
+  "PresC": {
+    "1s": "concatene",
+    "2s": "concatenes",
+    "3s": "concatene",
+    "1p": "concatenemos",
+    "2p": "concatenéis",
+    "3p": "concatenen"
+  },
+  "PMQPSI": {
+    "1s": "concatenara",
+    "2s": "concatenaras",
+    "3s": "concatenara",
+    "1p": "concatenáramos",
+    "2p": "concatenarais",
+    "3p": "concatenaran"
+  },
+  "PImpC": {
+    "1s": "concatenase",
+    "2s": "concatenases",
+    "3s": "concatenase",
+    "1p": "concatenásemos",
+    "2p": "concatenaseis",
+    "3p": "concatenasen"
+  },
+  "FutSC": {
+    "1s": "concatenare",
+    "2s": "concatenares",
+    "3s": "concatenare",
+    "1p": "concatenáremos",
+    "2p": "concatenareis",
+    "3p": "concatenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "concatena",
+    "3s": "concatene",
+    "1p": "concatenemos",
+    "2p": "concatenad",
+    "3p": "concatenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no concatenes",
+    "3s": "no concatene",
+    "1p": "no concatenemos",
+    "2p": "no concatenéis",
+    "3p": "no concatenen"
+  },
+  "Part-ter": {
+    "": "concatenado"
+  },
+  "Part-ser": {
+    "ms": "concatenado",
+    "fs": "concatenada",
+    "mp": "concatenados",
+    "fp": "concatenadas"
+  }
+}

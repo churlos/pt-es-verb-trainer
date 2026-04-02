@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "montar"
+  },
+  "InfP": {
+    "1s": "montar",
+    "2s": "montares",
+    "3s": "montar",
+    "1p": "montarmos",
+    "2p": "montardes",
+    "3p": "montarem"
+  },
+  "Ger": {
+    "": "montando"
+  },
+  "PresI": {
+    "1s": "monto",
+    "2s": "montas",
+    "3s": "monta",
+    "1p": "montamos",
+    "2p": "montais",
+    "3p": "montam"
+  },
+  "PImpI": {
+    "1s": "montava",
+    "2s": "montavas",
+    "3s": "montava",
+    "1p": "montávamos",
+    "2p": "montáveis",
+    "3p": "montavam"
+  },
+  "PPSI": {
+    "1s": "montei",
+    "2s": "montaste",
+    "3s": "montou",
+    "1p": "montámos",
+    "2p": "montastes",
+    "3p": "montaram"
+  },
+  "PMQPSI": {
+    "1s": "montara",
+    "2s": "montaras",
+    "3s": "montara",
+    "1p": "montáramos",
+    "2p": "montáreis",
+    "3p": "montaram"
+  },
+  "FutSI": {
+    "1s": "montarei",
+    "2s": "montarás",
+    "3s": "montará",
+    "1p": "montaremos",
+    "2p": "montareis",
+    "3p": "montarão"
+  },
+  "CondS": {
+    "1s": "montaria",
+    "2s": "montarias",
+    "3s": "montaria",
+    "1p": "montaríamos",
+    "2p": "montaríeis",
+    "3p": "montariam"
+  },
+  "PresC": {
+    "1s": "monte",
+    "2s": "montes",
+    "3s": "monte",
+    "1p": "montemos",
+    "2p": "monteis",
+    "3p": "montem"
+  },
+  "PImpC": {
+    "1s": "montasse",
+    "2s": "montasses",
+    "3s": "montasse",
+    "1p": "montássemos",
+    "2p": "montásseis",
+    "3p": "montassem"
+  },
+  "FutSC": {
+    "1s": "montar",
+    "2s": "montares",
+    "3s": "montar",
+    "1p": "montarmos",
+    "2p": "montardes",
+    "3p": "montarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "monta",
+    "3s": "monte",
+    "1p": "montemos",
+    "2p": "montai",
+    "3p": "montem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não montes",
+    "3s": "não monte",
+    "1p": "não montemos",
+    "2p": "não monteis",
+    "3p": "não montem"
+  },
+  "Part-ter": {
+    "": "montado"
+  },
+  "Part-ser": {
+    "ms": "montado",
+    "fs": "montada",
+    "mp": "montados",
+    "fp": "montadas"
+  }
+}

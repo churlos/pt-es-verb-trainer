@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arrendar"
+  },
+  "Ger": {
+    "": "arrendando"
+  },
+  "PresI": {
+    "1s": "arriendo",
+    "2s": "arriendas",
+    "3s": "arrienda",
+    "1p": "arrendamos",
+    "2p": "arrendáis",
+    "3p": "arriendan"
+  },
+  "PImpI": {
+    "1s": "arrendaba",
+    "2s": "arrendabas",
+    "3s": "arrendaba",
+    "1p": "arrendábamos",
+    "2p": "arrendabais",
+    "3p": "arrendaban"
+  },
+  "PPSI": {
+    "1s": "arrendé",
+    "2s": "arrendaste",
+    "3s": "arrendó",
+    "1p": "arrendamos",
+    "2p": "arrendasteis",
+    "3p": "arrendaron"
+  },
+  "FutSI": {
+    "1s": "arrendaré",
+    "2s": "arrendarás",
+    "3s": "arrendará",
+    "1p": "arrendaremos",
+    "2p": "arrendaréis",
+    "3p": "arrendarán"
+  },
+  "CondS": {
+    "1s": "arrendaría",
+    "2s": "arrendarías",
+    "3s": "arrendaría",
+    "1p": "arrendaríamos",
+    "2p": "arrendaríais",
+    "3p": "arrendarían"
+  },
+  "PresC": {
+    "1s": "arriende",
+    "2s": "arriendes",
+    "3s": "arriende",
+    "1p": "arrendemos",
+    "2p": "arrendéis",
+    "3p": "arrienden"
+  },
+  "PMQPSI": {
+    "1s": "arrendara",
+    "2s": "arrendaras",
+    "3s": "arrendara",
+    "1p": "arrendáramos",
+    "2p": "arrendarais",
+    "3p": "arrendaran"
+  },
+  "PImpC": {
+    "1s": "arrendase",
+    "2s": "arrendases",
+    "3s": "arrendase",
+    "1p": "arrendásemos",
+    "2p": "arrendaseis",
+    "3p": "arrendasen"
+  },
+  "FutSC": {
+    "1s": "arrendare",
+    "2s": "arrendares",
+    "3s": "arrendare",
+    "1p": "arrendáremos",
+    "2p": "arrendareis",
+    "3p": "arrendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arrienda",
+    "3s": "arriende",
+    "1p": "arrendemos",
+    "2p": "arrendad",
+    "3p": "arrienden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arriendes",
+    "3s": "no arriende",
+    "1p": "no arrendemos",
+    "2p": "no arrendéis",
+    "3p": "no arrienden"
+  },
+  "Part-ter": {
+    "": "arrendado"
+  },
+  "Part-ser": {
+    "ms": "arrendado",
+    "fs": "arrendada",
+    "mp": "arrendados",
+    "fp": "arrendadas"
+  }
+}

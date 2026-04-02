@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "adobar"
+  },
+  "Ger": {
+    "": "adobando"
+  },
+  "PresI": {
+    "1s": "adobo",
+    "2s": "adobas",
+    "3s": "adoba",
+    "1p": "adobamos",
+    "2p": "adobáis",
+    "3p": "adoban"
+  },
+  "PImpI": {
+    "1s": "adobaba",
+    "2s": "adobabas",
+    "3s": "adobaba",
+    "1p": "adobábamos",
+    "2p": "adobabais",
+    "3p": "adobaban"
+  },
+  "PPSI": {
+    "1s": "adobé",
+    "2s": "adobaste",
+    "3s": "adobó",
+    "1p": "adobamos",
+    "2p": "adobasteis",
+    "3p": "adobaron"
+  },
+  "FutSI": {
+    "1s": "adobaré",
+    "2s": "adobarás",
+    "3s": "adobará",
+    "1p": "adobaremos",
+    "2p": "adobaréis",
+    "3p": "adobarán"
+  },
+  "CondS": {
+    "1s": "adobaría",
+    "2s": "adobarías",
+    "3s": "adobaría",
+    "1p": "adobaríamos",
+    "2p": "adobaríais",
+    "3p": "adobarían"
+  },
+  "PresC": {
+    "1s": "adobe",
+    "2s": "adobes",
+    "3s": "adobe",
+    "1p": "adobemos",
+    "2p": "adobéis",
+    "3p": "adoben"
+  },
+  "PMQPSI": {
+    "1s": "adobara",
+    "2s": "adobaras",
+    "3s": "adobara",
+    "1p": "adobáramos",
+    "2p": "adobarais",
+    "3p": "adobaran"
+  },
+  "PImpC": {
+    "1s": "adobase",
+    "2s": "adobases",
+    "3s": "adobase",
+    "1p": "adobásemos",
+    "2p": "adobaseis",
+    "3p": "adobasen"
+  },
+  "FutSC": {
+    "1s": "adobare",
+    "2s": "adobares",
+    "3s": "adobare",
+    "1p": "adobáremos",
+    "2p": "adobareis",
+    "3p": "adobaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adoba",
+    "3s": "adobe",
+    "1p": "adobemos",
+    "2p": "adobad",
+    "3p": "adoben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no adobes",
+    "3s": "no adobe",
+    "1p": "no adobemos",
+    "2p": "no adobéis",
+    "3p": "no adoben"
+  },
+  "Part-ter": {
+    "": "adobado"
+  },
+  "Part-ser": {
+    "ms": "adobado",
+    "fs": "adobada",
+    "mp": "adobados",
+    "fp": "adobadas"
+  }
+}

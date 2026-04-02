@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parasitar"
+  },
+  "Ger": {
+    "": "parasitando"
+  },
+  "PresI": {
+    "1s": "parasito",
+    "2s": "parasitas",
+    "3s": "parasita",
+    "1p": "parasitamos",
+    "2p": "parasitáis",
+    "3p": "parasitan"
+  },
+  "PImpI": {
+    "1s": "parasitaba",
+    "2s": "parasitabas",
+    "3s": "parasitaba",
+    "1p": "parasitábamos",
+    "2p": "parasitabais",
+    "3p": "parasitaban"
+  },
+  "PPSI": {
+    "1s": "parasité",
+    "2s": "parasitaste",
+    "3s": "parasitó",
+    "1p": "parasitamos",
+    "2p": "parasitasteis",
+    "3p": "parasitaron"
+  },
+  "FutSI": {
+    "1s": "parasitaré",
+    "2s": "parasitarás",
+    "3s": "parasitará",
+    "1p": "parasitaremos",
+    "2p": "parasitaréis",
+    "3p": "parasitarán"
+  },
+  "CondS": {
+    "1s": "parasitaría",
+    "2s": "parasitarías",
+    "3s": "parasitaría",
+    "1p": "parasitaríamos",
+    "2p": "parasitaríais",
+    "3p": "parasitarían"
+  },
+  "PresC": {
+    "1s": "parasite",
+    "2s": "parasites",
+    "3s": "parasite",
+    "1p": "parasitemos",
+    "2p": "parasitéis",
+    "3p": "parasiten"
+  },
+  "PMQPSI": {
+    "1s": "parasitara",
+    "2s": "parasitaras",
+    "3s": "parasitara",
+    "1p": "parasitáramos",
+    "2p": "parasitarais",
+    "3p": "parasitaran"
+  },
+  "PImpC": {
+    "1s": "parasitase",
+    "2s": "parasitases",
+    "3s": "parasitase",
+    "1p": "parasitásemos",
+    "2p": "parasitaseis",
+    "3p": "parasitasen"
+  },
+  "FutSC": {
+    "1s": "parasitare",
+    "2s": "parasitares",
+    "3s": "parasitare",
+    "1p": "parasitáremos",
+    "2p": "parasitareis",
+    "3p": "parasitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parasita",
+    "3s": "parasite",
+    "1p": "parasitemos",
+    "2p": "parasitad",
+    "3p": "parasiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no parasites",
+    "3s": "no parasite",
+    "1p": "no parasitemos",
+    "2p": "no parasitéis",
+    "3p": "no parasiten"
+  },
+  "Part-ter": {
+    "": "parasitado"
+  },
+  "Part-ser": {
+    "ms": "parasitado",
+    "fs": "parasitada",
+    "mp": "parasitados",
+    "fp": "parasitadas"
+  }
+}

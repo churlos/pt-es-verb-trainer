@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "saber"
+  },
+  "InfP": {
+    "1s": "saber",
+    "2s": "saberes",
+    "3s": "saber",
+    "1p": "sabermos",
+    "2p": "saberdes",
+    "3p": "saberem"
+  },
+  "Ger": {
+    "": "sabendo"
+  },
+  "PresI": {
+    "1s": "sei",
+    "2s": "sabes",
+    "3s": "sabe",
+    "1p": "sabemos",
+    "2p": "sabeis",
+    "3p": "sabem"
+  },
+  "PImpI": {
+    "1s": "sabia",
+    "2s": "sabias",
+    "3s": "sabia",
+    "1p": "sabíamos",
+    "2p": "sabíeis",
+    "3p": "sabiam"
+  },
+  "PPSI": {
+    "1s": "soube",
+    "2s": "soubeste",
+    "3s": "soube",
+    "1p": "soubemos",
+    "2p": "soubestes",
+    "3p": "souberam"
+  },
+  "PMQPSI": {
+    "1s": "soubera",
+    "2s": "souberas",
+    "3s": "soubera",
+    "1p": "soubéramos",
+    "2p": "soubéreis",
+    "3p": "soubéram"
+  },
+  "FutSI": {
+    "1s": "saberei",
+    "2s": "saberás",
+    "3s": "saberá",
+    "1p": "saberemos",
+    "2p": "sabereis",
+    "3p": "saberão"
+  },
+  "CondS": {
+    "1s": "saberia",
+    "2s": "saberias",
+    "3s": "saberia",
+    "1p": "saberíamos",
+    "2p": "saberíeis",
+    "3p": "saberiam"
+  },
+  "PresC": {
+    "1s": "saiba",
+    "2s": "saibas",
+    "3s": "saiba",
+    "1p": "saibamos",
+    "2p": "saibais",
+    "3p": "saibam"
+  },
+  "PImpC": {
+    "1s": "soubesse",
+    "2s": "soubesses",
+    "3s": "soubesse",
+    "1p": "soubéssemos",
+    "2p": "soubésseis",
+    "3p": "soubessem"
+  },
+  "FutSC": {
+    "1s": "souber",
+    "2s": "souberes",
+    "3s": "souber",
+    "1p": "soubermos",
+    "2p": "souberdes",
+    "3p": "souberem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sabe",
+    "3s": "saiba",
+    "1p": "saibamos",
+    "2p": "sabei",
+    "3p": "saibam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saibas",
+    "3s": "não saiba",
+    "1p": "não saibamos",
+    "2p": "não saibais",
+    "3p": "não saibam"
+  },
+  "Part-ter": {
+    "": "sabido"
+  },
+  "Part-ser": {
+    "ms": "sabido",
+    "fs": "sabida",
+    "mp": "sabidos",
+    "fp": "sabidas"
+  }
+}

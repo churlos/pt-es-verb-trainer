@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abancar"
+  },
+  "InfP": {
+    "1s": "abancar",
+    "2s": "abancares",
+    "3s": "abancar",
+    "1p": "abancarmos",
+    "2p": "abancardes",
+    "3p": "abancarem"
+  },
+  "Ger": {
+    "": "abancando"
+  },
+  "PresI": {
+    "1s": "abanco",
+    "2s": "abancas",
+    "3s": "abanca",
+    "1p": "abancamos",
+    "2p": "abancais",
+    "3p": "abancam"
+  },
+  "PImpI": {
+    "1s": "abancava",
+    "2s": "abancavas",
+    "3s": "abancava",
+    "1p": "abancávamos",
+    "2p": "abancáveis",
+    "3p": "abancavam"
+  },
+  "PPSI": {
+    "1s": "abanquei",
+    "2s": "abancaste",
+    "3s": "abancou",
+    "1p": "abancámos",
+    "2p": "abancastes",
+    "3p": "abancaram"
+  },
+  "PMQPSI": {
+    "1s": "abancara",
+    "2s": "abancaras",
+    "3s": "abancara",
+    "1p": "abancáramos",
+    "2p": "abancáreis",
+    "3p": "abancaram"
+  },
+  "FutSI": {
+    "1s": "abancarei",
+    "2s": "abancarás",
+    "3s": "abancará",
+    "1p": "abancaremos",
+    "2p": "abancareis",
+    "3p": "abancarão"
+  },
+  "CondS": {
+    "1s": "abancaria",
+    "2s": "abancarias",
+    "3s": "abancaria",
+    "1p": "abancaríamos",
+    "2p": "abancaríeis",
+    "3p": "abancariam"
+  },
+  "PresC": {
+    "1s": "abanque",
+    "2s": "abanques",
+    "3s": "abanque",
+    "1p": "abanquemos",
+    "2p": "abanqueis",
+    "3p": "abanquem"
+  },
+  "PImpC": {
+    "1s": "abancasse",
+    "2s": "abancasses",
+    "3s": "abancasse",
+    "1p": "abancássemos",
+    "2p": "abancásseis",
+    "3p": "abancassem"
+  },
+  "FutSC": {
+    "1s": "abancar",
+    "2s": "abancares",
+    "3s": "abancar",
+    "1p": "abancarmos",
+    "2p": "abancardes",
+    "3p": "abancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abanca",
+    "3s": "abanque",
+    "1p": "abanquemos",
+    "2p": "abancai",
+    "3p": "abanquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abanques",
+    "3s": "não abanque",
+    "1p": "não abanquemos",
+    "2p": "não abanqueis",
+    "3p": "não abanquem"
+  },
+  "Part-ter": {
+    "": "abancado"
+  },
+  "Part-ser": {
+    "ms": "abancado",
+    "fs": "abancada",
+    "mp": "abancados",
+    "fp": "abancadas"
+  }
+}

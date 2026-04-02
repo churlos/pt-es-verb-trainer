@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "beber"
+  },
+  "Ger": {
+    "": "bebiendo"
+  },
+  "PresI": {
+    "1s": "bebo",
+    "2s": "bebes",
+    "3s": "bebe",
+    "1p": "bebemos",
+    "2p": "bebéis",
+    "3p": "beben"
+  },
+  "PImpI": {
+    "1s": "bebía",
+    "2s": "bebías",
+    "3s": "bebía",
+    "1p": "bebíamos",
+    "2p": "bebíais",
+    "3p": "bebían"
+  },
+  "PPSI": {
+    "1s": "bebí",
+    "2s": "bebiste",
+    "3s": "bebió",
+    "1p": "bebimos",
+    "2p": "bebisteis",
+    "3p": "bebieron"
+  },
+  "FutSI": {
+    "1s": "beberé",
+    "2s": "beberás",
+    "3s": "beberá",
+    "1p": "beberemos",
+    "2p": "beberéis",
+    "3p": "beberán"
+  },
+  "CondS": {
+    "1s": "bebería",
+    "2s": "beberías",
+    "3s": "bebería",
+    "1p": "beberíamos",
+    "2p": "beberíais",
+    "3p": "beberían"
+  },
+  "PresC": {
+    "1s": "beba",
+    "2s": "bebas",
+    "3s": "beba",
+    "1p": "bebamos",
+    "2p": "bebáis",
+    "3p": "beban"
+  },
+  "PMQPSI": {
+    "1s": "bebiera",
+    "2s": "bebieras",
+    "3s": "bebiera",
+    "1p": "bebiéramos",
+    "2p": "bebierais",
+    "3p": "bebieran"
+  },
+  "PImpC": {
+    "1s": "bebiese",
+    "2s": "bebieses",
+    "3s": "bebiese",
+    "1p": "bebiésemos",
+    "2p": "bebieseis",
+    "3p": "bebiesen"
+  },
+  "FutSC": {
+    "1s": "bebiere",
+    "2s": "bebieres",
+    "3s": "bebiere",
+    "1p": "bebiéremos",
+    "2p": "bebiereis",
+    "3p": "bebieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bebe",
+    "3s": "beba",
+    "1p": "bebamos",
+    "2p": "bebed",
+    "3p": "beban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bebas",
+    "3s": "no beba",
+    "1p": "no bebamos",
+    "2p": "no bebáis",
+    "3p": "no beban"
+  },
+  "Part-ter": {
+    "": "bebido"
+  },
+  "Part-ser": {
+    "ms": "bebido",
+    "fs": "bebida",
+    "mp": "bebidos",
+    "fp": "bebidas"
+  }
+}

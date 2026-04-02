@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "verter"
+  },
+  "InfP": {
+    "1s": "verter",
+    "2s": "verteres",
+    "3s": "verter",
+    "1p": "vertermos",
+    "2p": "verterdes",
+    "3p": "verterem"
+  },
+  "Ger": {
+    "": "vertendo"
+  },
+  "PresI": {
+    "1s": "verto",
+    "2s": "vertes",
+    "3s": "verte",
+    "1p": "vertemos",
+    "2p": "verteis",
+    "3p": "vertem"
+  },
+  "PImpI": {
+    "1s": "vertia",
+    "2s": "vertias",
+    "3s": "vertia",
+    "1p": "vertíamos",
+    "2p": "vertíeis",
+    "3p": "vertiam"
+  },
+  "PPSI": {
+    "1s": "verti",
+    "2s": "verteste",
+    "3s": "verteu",
+    "1p": "vertemos",
+    "2p": "vertestes",
+    "3p": "verteram"
+  },
+  "PMQPSI": {
+    "1s": "vertera",
+    "2s": "verteras",
+    "3s": "vertera",
+    "1p": "vertêramos",
+    "2p": "vertêreis",
+    "3p": "verteram"
+  },
+  "FutSI": {
+    "1s": "verterei",
+    "2s": "verterás",
+    "3s": "verterá",
+    "1p": "verteremos",
+    "2p": "vertereis",
+    "3p": "verterão"
+  },
+  "CondS": {
+    "1s": "verteria",
+    "2s": "verterias",
+    "3s": "verteria",
+    "1p": "verteríamos",
+    "2p": "verteríeis",
+    "3p": "verteriam"
+  },
+  "PresC": {
+    "1s": "verta",
+    "2s": "vertas",
+    "3s": "verta",
+    "1p": "vertamos",
+    "2p": "vertais",
+    "3p": "vertam"
+  },
+  "PImpC": {
+    "1s": "vertesse",
+    "2s": "vertesses",
+    "3s": "vertesse",
+    "1p": "vertêssemos",
+    "2p": "vertêsseis",
+    "3p": "vertessem"
+  },
+  "FutSC": {
+    "1s": "verter",
+    "2s": "verteres",
+    "3s": "verter",
+    "1p": "vertermos",
+    "2p": "verterdes",
+    "3p": "verterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "verte",
+    "3s": "verta",
+    "1p": "vertamos",
+    "2p": "vertei",
+    "3p": "vertam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vertas",
+    "3s": "não verta",
+    "1p": "não vertamos",
+    "2p": "não vertais",
+    "3p": "não vertam"
+  },
+  "Part-ter": {
+    "": "vertido"
+  },
+  "Part-ser": {
+    "ms": "vertido",
+    "fs": "vertida",
+    "mp": "vertidos",
+    "fp": "vertidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cachar"
+  },
+  "InfP": {
+    "1s": "cachar",
+    "2s": "cachares",
+    "3s": "cachar",
+    "1p": "cacharmos",
+    "2p": "cachardes",
+    "3p": "cacharem"
+  },
+  "Ger": {
+    "": "cachando"
+  },
+  "PresI": {
+    "1s": "cacho",
+    "2s": "cachas",
+    "3s": "cacha",
+    "1p": "cachamos",
+    "2p": "cachais",
+    "3p": "cacham"
+  },
+  "PImpI": {
+    "1s": "cachava",
+    "2s": "cachavas",
+    "3s": "cachava",
+    "1p": "cachávamos",
+    "2p": "cacháveis",
+    "3p": "cachavam"
+  },
+  "PPSI": {
+    "1s": "cachei",
+    "2s": "cachaste",
+    "3s": "cachou",
+    "1p": "cachámos",
+    "2p": "cachastes",
+    "3p": "cacharam"
+  },
+  "PMQPSI": {
+    "1s": "cachara",
+    "2s": "cacharas",
+    "3s": "cachara",
+    "1p": "cacháramos",
+    "2p": "cacháreis",
+    "3p": "cacharam"
+  },
+  "FutSI": {
+    "1s": "cacharei",
+    "2s": "cacharás",
+    "3s": "cachará",
+    "1p": "cacharemos",
+    "2p": "cachareis",
+    "3p": "cacharão"
+  },
+  "CondS": {
+    "1s": "cacharia",
+    "2s": "cacharias",
+    "3s": "cacharia",
+    "1p": "cacharíamos",
+    "2p": "cacharíeis",
+    "3p": "cachariam"
+  },
+  "PresC": {
+    "1s": "cache",
+    "2s": "caches",
+    "3s": "cache",
+    "1p": "cachemos",
+    "2p": "cacheis",
+    "3p": "cachem"
+  },
+  "PImpC": {
+    "1s": "cachasse",
+    "2s": "cachasses",
+    "3s": "cachasse",
+    "1p": "cachássemos",
+    "2p": "cachásseis",
+    "3p": "cachassem"
+  },
+  "FutSC": {
+    "1s": "cachar",
+    "2s": "cachares",
+    "3s": "cachar",
+    "1p": "cacharmos",
+    "2p": "cachardes",
+    "3p": "cacharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cacha",
+    "3s": "cache",
+    "1p": "cachemos",
+    "2p": "cachai",
+    "3p": "cachem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não caches",
+    "3s": "não cache",
+    "1p": "não cachemos",
+    "2p": "não cacheis",
+    "3p": "não cachem"
+  },
+  "Part-ter": {
+    "": "cachado"
+  },
+  "Part-ser": {
+    "ms": "cachado",
+    "fs": "cachada",
+    "mp": "cachados",
+    "fp": "cachadas"
+  }
+}

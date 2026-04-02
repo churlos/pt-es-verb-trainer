@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "achar"
+  },
+  "InfP": {
+    "1s": "achar",
+    "2s": "achares",
+    "3s": "achar",
+    "1p": "acharmos",
+    "2p": "achardes",
+    "3p": "acharem"
+  },
+  "Ger": {
+    "": "achando"
+  },
+  "PresI": {
+    "1s": "acho",
+    "2s": "achas",
+    "3s": "acha",
+    "1p": "achamos",
+    "2p": "achais",
+    "3p": "acham"
+  },
+  "PImpI": {
+    "1s": "achava",
+    "2s": "achavas",
+    "3s": "achava",
+    "1p": "achávamos",
+    "2p": "acháveis",
+    "3p": "achavam"
+  },
+  "PPSI": {
+    "1s": "achei",
+    "2s": "achaste",
+    "3s": "achou",
+    "1p": "achámos",
+    "2p": "achastes",
+    "3p": "acharam"
+  },
+  "PMQPSI": {
+    "1s": "achara",
+    "2s": "acharas",
+    "3s": "achara",
+    "1p": "acháramos",
+    "2p": "acháreis",
+    "3p": "acharam"
+  },
+  "FutSI": {
+    "1s": "acharei",
+    "2s": "acharás",
+    "3s": "achará",
+    "1p": "acharemos",
+    "2p": "achareis",
+    "3p": "acharão"
+  },
+  "CondS": {
+    "1s": "acharia",
+    "2s": "acharias",
+    "3s": "acharia",
+    "1p": "acharíamos",
+    "2p": "acharíeis",
+    "3p": "achariam"
+  },
+  "PresC": {
+    "1s": "ache",
+    "2s": "aches",
+    "3s": "ache",
+    "1p": "achemos",
+    "2p": "acheis",
+    "3p": "achem"
+  },
+  "PImpC": {
+    "1s": "achasse",
+    "2s": "achasses",
+    "3s": "achasse",
+    "1p": "achássemos",
+    "2p": "achásseis",
+    "3p": "achassem"
+  },
+  "FutSC": {
+    "1s": "achar",
+    "2s": "achares",
+    "3s": "achar",
+    "1p": "acharmos",
+    "2p": "achardes",
+    "3p": "acharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acha",
+    "3s": "ache",
+    "1p": "achemos",
+    "2p": "achai",
+    "3p": "achem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aches",
+    "3s": "não ache",
+    "1p": "não achemos",
+    "2p": "não acheis",
+    "3p": "não achem"
+  },
+  "Part-ter": {
+    "": "achado"
+  },
+  "Part-ser": {
+    "ms": "achado",
+    "fs": "achada",
+    "mp": "achados",
+    "fp": "achadas"
+  }
+}

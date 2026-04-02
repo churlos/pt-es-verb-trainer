@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tossir"
+  },
+  "InfP": {
+    "1s": "tossir",
+    "2s": "tossires",
+    "3s": "tossir",
+    "1p": "tossirmos",
+    "2p": "tossirdes",
+    "3p": "tossirem"
+  },
+  "Ger": {
+    "": "tossindo"
+  },
+  "PresI": {
+    "1s": "tusso",
+    "2s": "tosses",
+    "3s": "tosse",
+    "1p": "tossimos",
+    "2p": "tossis",
+    "3p": "tossem"
+  },
+  "PImpI": {
+    "1s": "tossia",
+    "2s": "tossias",
+    "3s": "tossia",
+    "1p": "tossíamos",
+    "2p": "tossíeis",
+    "3p": "tossiam"
+  },
+  "PPSI": {
+    "1s": "tossi",
+    "2s": "tossiste",
+    "3s": "tossiu",
+    "1p": "tossimos",
+    "2p": "tossistes",
+    "3p": "tossiram"
+  },
+  "PMQPSI": {
+    "1s": "tossira",
+    "2s": "tossiras",
+    "3s": "tossira",
+    "1p": "tossíramos",
+    "2p": "tossíreis",
+    "3p": "tossiram"
+  },
+  "FutSI": {
+    "1s": "tossirei",
+    "2s": "tossirás",
+    "3s": "tossirá",
+    "1p": "tossiremos",
+    "2p": "tossireis",
+    "3p": "tossirão"
+  },
+  "CondS": {
+    "1s": "tossiria",
+    "2s": "tossirias",
+    "3s": "tossiria",
+    "1p": "tossiríamos",
+    "2p": "tossiríeis",
+    "3p": "tossiriam"
+  },
+  "PresC": {
+    "1s": "tussa",
+    "2s": "tussas",
+    "3s": "tussa",
+    "1p": "tussamos",
+    "2p": "tussais",
+    "3p": "tussam"
+  },
+  "PImpC": {
+    "1s": "tossisse",
+    "2s": "tossisses",
+    "3s": "tossisse",
+    "1p": "tossíssemos",
+    "2p": "tossísseis",
+    "3p": "tossissem"
+  },
+  "FutSC": {
+    "1s": "tossir",
+    "2s": "tossires",
+    "3s": "tossir",
+    "1p": "tossirmos",
+    "2p": "tossirdes",
+    "3p": "tossirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tosse",
+    "3s": "tussa",
+    "1p": "tussamos",
+    "2p": "tossi",
+    "3p": "tussam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tussas",
+    "3s": "não tussa",
+    "1p": "não tussamos",
+    "2p": "não tussais",
+    "3p": "não tussam"
+  },
+  "Part-ter": {
+    "": "tossido"
+  },
+  "Part-ser": {
+    "ms": "tossido",
+    "fs": "tossida",
+    "mp": "tossidos",
+    "fp": "tossidas"
+  }
+}

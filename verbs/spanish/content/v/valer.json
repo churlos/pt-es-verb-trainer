@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "valer"
+  },
+  "Ger": {
+    "": "valiendo"
+  },
+  "PresI": {
+    "1s": "valgo",
+    "2s": "vales",
+    "3s": "vale",
+    "1p": "valemos",
+    "2p": "valéis",
+    "3p": "valen"
+  },
+  "PImpI": {
+    "1s": "valía",
+    "2s": "valías",
+    "3s": "valía",
+    "1p": "valíamos",
+    "2p": "valíais",
+    "3p": "valían"
+  },
+  "PPSI": {
+    "1s": "valí",
+    "2s": "valiste",
+    "3s": "valió",
+    "1p": "valimos",
+    "2p": "valisteis",
+    "3p": "valieron"
+  },
+  "FutSI": {
+    "1s": "valdré",
+    "2s": "valdrás",
+    "3s": "valdrá",
+    "1p": "valdremos",
+    "2p": "valdréis",
+    "3p": "valdrán"
+  },
+  "CondS": {
+    "1s": "valdría",
+    "2s": "valdrías",
+    "3s": "valdría",
+    "1p": "valdríamos",
+    "2p": "valdríais",
+    "3p": "valdrían"
+  },
+  "PresC": {
+    "1s": "valga",
+    "2s": "valgas",
+    "3s": "valga",
+    "1p": "valgamos",
+    "2p": "valgáis",
+    "3p": "valgan"
+  },
+  "PMQPSI": {
+    "1s": "valiera",
+    "2s": "valieras",
+    "3s": "valiera",
+    "1p": "valiéramos",
+    "2p": "valierais",
+    "3p": "valieran"
+  },
+  "PImpC": {
+    "1s": "valiese",
+    "2s": "valieses",
+    "3s": "valiese",
+    "1p": "valiésemos",
+    "2p": "valieseis",
+    "3p": "valiesen"
+  },
+  "FutSC": {
+    "1s": "valiere",
+    "2s": "valieres",
+    "3s": "valiere",
+    "1p": "valiéremos",
+    "2p": "valiereis",
+    "3p": "valieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vale",
+    "3s": "valga",
+    "1p": "valgamos",
+    "2p": "valed",
+    "3p": "valgan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no valgas",
+    "3s": "no valga",
+    "1p": "no valgamos",
+    "2p": "no valgáis",
+    "3p": "no valgan"
+  },
+  "Part-ter": {
+    "": "valido"
+  },
+  "Part-ser": {
+    "ms": "valido",
+    "fs": "valida",
+    "mp": "validos",
+    "fp": "validas"
+  }
+}

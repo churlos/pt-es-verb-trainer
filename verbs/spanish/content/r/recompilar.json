@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recompilar"
+  },
+  "Ger": {
+    "": "recompilando"
+  },
+  "PresI": {
+    "1s": "recompilo",
+    "2s": "recompilas",
+    "3s": "recompila",
+    "1p": "recompilamos",
+    "2p": "recompiláis",
+    "3p": "recompilan"
+  },
+  "PImpI": {
+    "1s": "recompilaba",
+    "2s": "recompilabas",
+    "3s": "recompilaba",
+    "1p": "recompilábamos",
+    "2p": "recompilabais",
+    "3p": "recompilaban"
+  },
+  "PPSI": {
+    "1s": "recompilé",
+    "2s": "recompilaste",
+    "3s": "recompiló",
+    "1p": "recompilamos",
+    "2p": "recompilasteis",
+    "3p": "recompilaron"
+  },
+  "FutSI": {
+    "1s": "recompilaré",
+    "2s": "recompilarás",
+    "3s": "recompilará",
+    "1p": "recompilaremos",
+    "2p": "recompilaréis",
+    "3p": "recompilarán"
+  },
+  "CondS": {
+    "1s": "recompilaría",
+    "2s": "recompilarías",
+    "3s": "recompilaría",
+    "1p": "recompilaríamos",
+    "2p": "recompilaríais",
+    "3p": "recompilarían"
+  },
+  "PresC": {
+    "1s": "recompile",
+    "2s": "recompiles",
+    "3s": "recompile",
+    "1p": "recompilemos",
+    "2p": "recompiléis",
+    "3p": "recompilen"
+  },
+  "PMQPSI": {
+    "1s": "recompilara",
+    "2s": "recompilaras",
+    "3s": "recompilara",
+    "1p": "recompiláramos",
+    "2p": "recompilarais",
+    "3p": "recompilaran"
+  },
+  "PImpC": {
+    "1s": "recompilase",
+    "2s": "recompilases",
+    "3s": "recompilase",
+    "1p": "recompilásemos",
+    "2p": "recompilaseis",
+    "3p": "recompilasen"
+  },
+  "FutSC": {
+    "1s": "recompilare",
+    "2s": "recompilares",
+    "3s": "recompilare",
+    "1p": "recompiláremos",
+    "2p": "recompilareis",
+    "3p": "recompilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recompila",
+    "3s": "recompile",
+    "1p": "recompilemos",
+    "2p": "recompilad",
+    "3p": "recompilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recompiles",
+    "3s": "no recompile",
+    "1p": "no recompilemos",
+    "2p": "no recompiléis",
+    "3p": "no recompilen"
+  },
+  "Part-ter": {
+    "": "recompilado"
+  },
+  "Part-ser": {
+    "ms": "recompilado",
+    "fs": "recompilada",
+    "mp": "recompilados",
+    "fp": "recompiladas"
+  }
+}

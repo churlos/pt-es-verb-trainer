@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escuchar"
+  },
+  "Ger": {
+    "": "escuchando"
+  },
+  "PresI": {
+    "1s": "escucho",
+    "2s": "escuchas",
+    "3s": "escucha",
+    "1p": "escuchamos",
+    "2p": "escucháis",
+    "3p": "escuchan"
+  },
+  "PImpI": {
+    "1s": "escuchaba",
+    "2s": "escuchabas",
+    "3s": "escuchaba",
+    "1p": "escuchábamos",
+    "2p": "escuchabais",
+    "3p": "escuchaban"
+  },
+  "PPSI": {
+    "1s": "escuché",
+    "2s": "escuchaste",
+    "3s": "escuchó",
+    "1p": "escuchamos",
+    "2p": "escuchasteis",
+    "3p": "escucharon"
+  },
+  "FutSI": {
+    "1s": "escucharé",
+    "2s": "escucharás",
+    "3s": "escuchará",
+    "1p": "escucharemos",
+    "2p": "escucharéis",
+    "3p": "escucharán"
+  },
+  "CondS": {
+    "1s": "escucharía",
+    "2s": "escucharías",
+    "3s": "escucharía",
+    "1p": "escucharíamos",
+    "2p": "escucharíais",
+    "3p": "escucharían"
+  },
+  "PresC": {
+    "1s": "escuche",
+    "2s": "escuches",
+    "3s": "escuche",
+    "1p": "escuchemos",
+    "2p": "escuchéis",
+    "3p": "escuchen"
+  },
+  "PMQPSI": {
+    "1s": "escuchara",
+    "2s": "escucharas",
+    "3s": "escuchara",
+    "1p": "escucháramos",
+    "2p": "escucharais",
+    "3p": "escucharan"
+  },
+  "PImpC": {
+    "1s": "escuchase",
+    "2s": "escuchases",
+    "3s": "escuchase",
+    "1p": "escuchásemos",
+    "2p": "escuchaseis",
+    "3p": "escuchasen"
+  },
+  "FutSC": {
+    "1s": "escuchare",
+    "2s": "escuchares",
+    "3s": "escuchare",
+    "1p": "escucháremos",
+    "2p": "escuchareis",
+    "3p": "escucharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escucha",
+    "3s": "escuche",
+    "1p": "escuchemos",
+    "2p": "escuchad",
+    "3p": "escuchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escuches",
+    "3s": "no escuche",
+    "1p": "no escuchemos",
+    "2p": "no escuchéis",
+    "3p": "no escuchen"
+  },
+  "Part-ter": {
+    "": "escuchado"
+  },
+  "Part-ser": {
+    "ms": "escuchado",
+    "fs": "escuchada",
+    "mp": "escuchados",
+    "fp": "escuchadas"
+  }
+}

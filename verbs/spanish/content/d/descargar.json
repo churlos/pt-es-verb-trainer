@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descargar"
+  },
+  "Ger": {
+    "": "descargando"
+  },
+  "PresI": {
+    "1s": "descargo",
+    "2s": "descargas",
+    "3s": "descarga",
+    "1p": "descargamos",
+    "2p": "descargáis",
+    "3p": "descargan"
+  },
+  "PImpI": {
+    "1s": "descargaba",
+    "2s": "descargabas",
+    "3s": "descargaba",
+    "1p": "descargábamos",
+    "2p": "descargabais",
+    "3p": "descargaban"
+  },
+  "PPSI": {
+    "1s": "descargué",
+    "2s": "descargaste",
+    "3s": "descargó",
+    "1p": "descargamos",
+    "2p": "descargasteis",
+    "3p": "descargaron"
+  },
+  "FutSI": {
+    "1s": "descargaré",
+    "2s": "descargarás",
+    "3s": "descargará",
+    "1p": "descargaremos",
+    "2p": "descargaréis",
+    "3p": "descargarán"
+  },
+  "CondS": {
+    "1s": "descargaría",
+    "2s": "descargarías",
+    "3s": "descargaría",
+    "1p": "descargaríamos",
+    "2p": "descargaríais",
+    "3p": "descargarían"
+  },
+  "PresC": {
+    "1s": "descargue",
+    "2s": "descargues",
+    "3s": "descargue",
+    "1p": "descarguemos",
+    "2p": "descarguéis",
+    "3p": "descarguen"
+  },
+  "PMQPSI": {
+    "1s": "descargara",
+    "2s": "descargaras",
+    "3s": "descargara",
+    "1p": "descargáramos",
+    "2p": "descargarais",
+    "3p": "descargaran"
+  },
+  "PImpC": {
+    "1s": "descargase",
+    "2s": "descargases",
+    "3s": "descargase",
+    "1p": "descargásemos",
+    "2p": "descargaseis",
+    "3p": "descargasen"
+  },
+  "FutSC": {
+    "1s": "descargare",
+    "2s": "descargares",
+    "3s": "descargare",
+    "1p": "descargáremos",
+    "2p": "descargareis",
+    "3p": "descargaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descarga",
+    "3s": "descargue",
+    "1p": "descarguemos",
+    "2p": "descargad",
+    "3p": "descarguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no descargues",
+    "3s": "no descargue",
+    "1p": "no descarguemos",
+    "2p": "no descarguéis",
+    "3p": "no descarguen"
+  },
+  "Part-ter": {
+    "": "descargado"
+  },
+  "Part-ser": {
+    "ms": "descargado",
+    "fs": "descargada",
+    "mp": "descargados",
+    "fp": "descargadas"
+  }
+}

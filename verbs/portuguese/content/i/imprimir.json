@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "imprimir"
+  },
+  "InfP": {
+    "1s": "imprimir",
+    "2s": "imprimires",
+    "3s": "imprimir",
+    "1p": "imprimirmos",
+    "2p": "imprimirdes",
+    "3p": "imprimirem"
+  },
+  "Ger": {
+    "": "imprimindo"
+  },
+  "PresI": {
+    "1s": "imprimo",
+    "2s": "imprimes",
+    "3s": "imprime",
+    "1p": "imprimimos",
+    "2p": "imprimis",
+    "3p": "imprimem"
+  },
+  "PImpI": {
+    "1s": "imprimia",
+    "2s": "imprimias",
+    "3s": "imprimia",
+    "1p": "imprimíamos",
+    "2p": "imprimíeis",
+    "3p": "imprimiam"
+  },
+  "PPSI": {
+    "1s": "imprimi",
+    "2s": "imprimiste",
+    "3s": "imprimiu",
+    "1p": "imprimimos",
+    "2p": "imprimistes",
+    "3p": "imprimiram"
+  },
+  "PMQPSI": {
+    "1s": "imprimira",
+    "2s": "imprimiras",
+    "3s": "imprimira",
+    "1p": "imprimíramos",
+    "2p": "imprimíreis",
+    "3p": "imprimiram"
+  },
+  "FutSI": {
+    "1s": "imprimirei",
+    "2s": "imprimirás",
+    "3s": "imprimirá",
+    "1p": "imprimiremos",
+    "2p": "imprimireis",
+    "3p": "imprimirão"
+  },
+  "CondS": {
+    "1s": "imprimiria",
+    "2s": "imprimirias",
+    "3s": "imprimiria",
+    "1p": "imprimiríamos",
+    "2p": "imprimiríeis",
+    "3p": "imprimiriam"
+  },
+  "PresC": {
+    "1s": "imprima",
+    "2s": "imprimas",
+    "3s": "imprima",
+    "1p": "imprimamos",
+    "2p": "imprimais",
+    "3p": "imprimam"
+  },
+  "PImpC": {
+    "1s": "imprimisse",
+    "2s": "imprimisses",
+    "3s": "imprimisse",
+    "1p": "imprimíssemos",
+    "2p": "imprimísseis",
+    "3p": "imprimissem"
+  },
+  "FutSC": {
+    "1s": "imprimir",
+    "2s": "imprimires",
+    "3s": "imprimir",
+    "1p": "imprimirmos",
+    "2p": "imprimirdes",
+    "3p": "imprimirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imprime",
+    "3s": "imprima",
+    "1p": "imprimamos",
+    "2p": "imprimi",
+    "3p": "imprimam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não imprimas",
+    "3s": "não imprima",
+    "1p": "não imprimamos",
+    "2p": "não imprimais",
+    "3p": "não imprimam"
+  },
+  "Part-ter": {
+    "": "imprimido"
+  },
+  "Part-ser": {
+    "ms": "impresso",
+    "fs": "impressa",
+    "mp": "impressos",
+    "fp": "impressas"
+  }
+}

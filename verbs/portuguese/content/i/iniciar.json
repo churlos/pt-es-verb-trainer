@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "iniciar"
+  },
+  "InfP": {
+    "1s": "iniciar",
+    "2s": "iniciares",
+    "3s": "iniciar",
+    "1p": "iniciarmos",
+    "2p": "iniciardes",
+    "3p": "iniciarem"
+  },
+  "Ger": {
+    "": "iniciando"
+  },
+  "PresI": {
+    "1s": "inicio",
+    "2s": "inicias",
+    "3s": "inicia",
+    "1p": "iniciamos",
+    "2p": "iniciais",
+    "3p": "iniciam"
+  },
+  "PImpI": {
+    "1s": "iniciava",
+    "2s": "iniciavas",
+    "3s": "iniciava",
+    "1p": "iniciávamos",
+    "2p": "iniciáveis",
+    "3p": "iniciavam"
+  },
+  "PPSI": {
+    "1s": "iniciei",
+    "2s": "iniciaste",
+    "3s": "iniciou",
+    "1p": "iniciámos",
+    "2p": "iniciastes",
+    "3p": "iniciaram"
+  },
+  "PMQPSI": {
+    "1s": "iniciara",
+    "2s": "iniciaras",
+    "3s": "iniciara",
+    "1p": "iniciáramos",
+    "2p": "iniciáreis",
+    "3p": "iniciaram"
+  },
+  "FutSI": {
+    "1s": "iniciarei",
+    "2s": "iniciarás",
+    "3s": "iniciará",
+    "1p": "iniciaremos",
+    "2p": "iniciareis",
+    "3p": "iniciarão"
+  },
+  "CondS": {
+    "1s": "iniciaria",
+    "2s": "iniciarias",
+    "3s": "iniciaria",
+    "1p": "iniciaríamos",
+    "2p": "iniciaríeis",
+    "3p": "iniciariam"
+  },
+  "PresC": {
+    "1s": "inicie",
+    "2s": "inicies",
+    "3s": "inicie",
+    "1p": "iniciemos",
+    "2p": "inicieis",
+    "3p": "iniciem"
+  },
+  "PImpC": {
+    "1s": "iniciasse",
+    "2s": "iniciasses",
+    "3s": "iniciasse",
+    "1p": "iniciássemos",
+    "2p": "iniciásseis",
+    "3p": "iniciassem"
+  },
+  "FutSC": {
+    "1s": "iniciar",
+    "2s": "iniciares",
+    "3s": "iniciar",
+    "1p": "iniciarmos",
+    "2p": "iniciardes",
+    "3p": "iniciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inicia",
+    "3s": "inicie",
+    "1p": "iniciemos",
+    "2p": "iniciai",
+    "3p": "iniciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inicies",
+    "3s": "não inicie",
+    "1p": "não iniciemos",
+    "2p": "não inicieis",
+    "3p": "não iniciem"
+  },
+  "Part-ter": {
+    "": "iniciado"
+  },
+  "Part-ser": {
+    "ms": "iniciado",
+    "fs": "iniciada",
+    "mp": "iniciados",
+    "fp": "iniciadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "automatizar"
+  },
+  "InfP": {
+    "1s": "automatizar",
+    "2s": "automatizares",
+    "3s": "automatizar",
+    "1p": "automatizarmos",
+    "2p": "automatizardes",
+    "3p": "automatizarem"
+  },
+  "Ger": {
+    "": "automatizando"
+  },
+  "PresI": {
+    "1s": "automatizo",
+    "2s": "automatizas",
+    "3s": "automatiza",
+    "1p": "automatizamos",
+    "2p": "automatizais",
+    "3p": "automatizam"
+  },
+  "PImpI": {
+    "1s": "automatizava",
+    "2s": "automatizavas",
+    "3s": "automatizava",
+    "1p": "automatizávamos",
+    "2p": "automatizáveis",
+    "3p": "automatizavam"
+  },
+  "PPSI": {
+    "1s": "automatizei",
+    "2s": "automatizaste",
+    "3s": "automatizou",
+    "1p": "automatizámos",
+    "2p": "automatizastes",
+    "3p": "automatizaram"
+  },
+  "PMQPSI": {
+    "1s": "automatizara",
+    "2s": "automatizaras",
+    "3s": "automatizara",
+    "1p": "automatizáramos",
+    "2p": "automatizáreis",
+    "3p": "automatizaram"
+  },
+  "FutSI": {
+    "1s": "automatizarei",
+    "2s": "automatizarás",
+    "3s": "automatizará",
+    "1p": "automatizaremos",
+    "2p": "automatizareis",
+    "3p": "automatizarão"
+  },
+  "CondS": {
+    "1s": "automatizaria",
+    "2s": "automatizarias",
+    "3s": "automatizaria",
+    "1p": "automatizaríamos",
+    "2p": "automatizaríeis",
+    "3p": "automatizariam"
+  },
+  "PresC": {
+    "1s": "automatize",
+    "2s": "automatizes",
+    "3s": "automatize",
+    "1p": "automatizemos",
+    "2p": "automatizeis",
+    "3p": "automatizem"
+  },
+  "PImpC": {
+    "1s": "automatizasse",
+    "2s": "automatizasses",
+    "3s": "automatizasse",
+    "1p": "automatizássemos",
+    "2p": "automatizásseis",
+    "3p": "automatizassem"
+  },
+  "FutSC": {
+    "1s": "automatizar",
+    "2s": "automatizares",
+    "3s": "automatizar",
+    "1p": "automatizarmos",
+    "2p": "automatizardes",
+    "3p": "automatizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "automatiza",
+    "3s": "automatize",
+    "1p": "automatizemos",
+    "2p": "automatizai",
+    "3p": "automatizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não automatizes",
+    "3s": "não automatize",
+    "1p": "não automatizemos",
+    "2p": "não automatizeis",
+    "3p": "não automatizem"
+  },
+  "Part-ter": {
+    "": "automatizado"
+  },
+  "Part-ser": {
+    "ms": "automatizado",
+    "fs": "automatizada",
+    "mp": "automatizados",
+    "fp": "automatizadas"
+  }
+}

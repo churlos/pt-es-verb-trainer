@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "humedecer"
+  },
+  "InfP": {
+    "1s": "humedecer",
+    "2s": "humedeceres",
+    "3s": "humedecer",
+    "1p": "humedecermos",
+    "2p": "humedecerdes",
+    "3p": "humedecerem"
+  },
+  "Ger": {
+    "": "humedecendo"
+  },
+  "PresI": {
+    "1s": "humedeço",
+    "2s": "humedeces",
+    "3s": "humedece",
+    "1p": "humedecemos",
+    "2p": "humedeceis",
+    "3p": "humedecem"
+  },
+  "PImpI": {
+    "1s": "humedecia",
+    "2s": "humedecias",
+    "3s": "humedecia",
+    "1p": "humedecíamos",
+    "2p": "humedecíeis",
+    "3p": "humedeciam"
+  },
+  "PPSI": {
+    "1s": "humedeci",
+    "2s": "humedeceste",
+    "3s": "humedeceu",
+    "1p": "humedecemos",
+    "2p": "humedecestes",
+    "3p": "humedeceram"
+  },
+  "PMQPSI": {
+    "1s": "humedecera",
+    "2s": "humedeceras",
+    "3s": "humedecera",
+    "1p": "humedecêramos",
+    "2p": "humedecêreis",
+    "3p": "humedeceram"
+  },
+  "FutSI": {
+    "1s": "humedecerei",
+    "2s": "humedecerás",
+    "3s": "humedecerá",
+    "1p": "humedeceremos",
+    "2p": "humedecereis",
+    "3p": "humedecerão"
+  },
+  "CondS": {
+    "1s": "humedeceria",
+    "2s": "humedecerias",
+    "3s": "humedeceria",
+    "1p": "humedeceríamos",
+    "2p": "humedeceríeis",
+    "3p": "humedeceriam"
+  },
+  "PresC": {
+    "1s": "humedeça",
+    "2s": "humedeças",
+    "3s": "humedeça",
+    "1p": "humedeçamos",
+    "2p": "humedeçais",
+    "3p": "humedeçam"
+  },
+  "PImpC": {
+    "1s": "humedecesse",
+    "2s": "humedecesses",
+    "3s": "humedecesse",
+    "1p": "humedecêssemos",
+    "2p": "humedecêsseis",
+    "3p": "humedecessem"
+  },
+  "FutSC": {
+    "1s": "humedecer",
+    "2s": "humedeceres",
+    "3s": "humedecer",
+    "1p": "humedecermos",
+    "2p": "humedecerdes",
+    "3p": "humedecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "humedece",
+    "3s": "humedeça",
+    "1p": "humedeçamos",
+    "2p": "humedecei",
+    "3p": "humedeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não humedeças",
+    "3s": "não humedeça",
+    "1p": "não humedeçamos",
+    "2p": "não humedeçais",
+    "3p": "não humedeçam"
+  },
+  "Part-ter": {
+    "": "humedecido"
+  },
+  "Part-ser": {
+    "ms": "humedecido",
+    "fs": "humedecida",
+    "mp": "humedecidos",
+    "fp": "humedecidas"
+  }
+}

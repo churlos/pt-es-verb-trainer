@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "comerse"
+  },
+  "Ger": {
+    "": "comiéndose"
+  },
+  "PresI": {
+    "1s": "me como",
+    "2s": "te comes",
+    "3s": "se come",
+    "1p": "nos comemos",
+    "2p": "os coméis",
+    "3p": "se comen"
+  },
+  "PImpI": {
+    "1s": "me comía",
+    "2s": "te comías",
+    "3s": "se comía",
+    "1p": "nos comíamos",
+    "2p": "os comíais",
+    "3p": "se comían"
+  },
+  "PPSI": {
+    "1s": "me comí",
+    "2s": "te comiste",
+    "3s": "se comió",
+    "1p": "nos comimos",
+    "2p": "os comisteis",
+    "3p": "se comieron"
+  },
+  "FutSI": {
+    "1s": "me comeré",
+    "2s": "te comerás",
+    "3s": "se comerá",
+    "1p": "nos comeremos",
+    "2p": "os comeréis",
+    "3p": "se comerán"
+  },
+  "CondS": {
+    "1s": "me comería",
+    "2s": "te comerías",
+    "3s": "se comería",
+    "1p": "nos comeríamos",
+    "2p": "os comeríais",
+    "3p": "se comerían"
+  },
+  "PresC": {
+    "1s": "me coma",
+    "2s": "te comas",
+    "3s": "se coma",
+    "1p": "nos comamos",
+    "2p": "os comáis",
+    "3p": "se coman"
+  },
+  "PMQPSI": {
+    "1s": "me comiera",
+    "2s": "te comieras",
+    "3s": "se comiera",
+    "1p": "nos comiéramos",
+    "2p": "os comierais",
+    "3p": "se comieran"
+  },
+  "PImpC": {
+    "1s": "me comiese",
+    "2s": "te comieses",
+    "3s": "se comiese",
+    "1p": "nos comiésemos",
+    "2p": "os comieseis",
+    "3p": "se comiesen"
+  },
+  "FutSC": {
+    "1s": "me comiere",
+    "2s": "te comieres",
+    "3s": "se comiere",
+    "1p": "nos comiéremos",
+    "2p": "os comiereis",
+    "3p": "se comieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cómete",
+    "3s": "cómase",
+    "1p": "comámonos",
+    "2p": "comeos",
+    "3p": "cómanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te comas",
+    "3s": "no se coma",
+    "1p": "no nos comamos",
+    "2p": "no os comáis",
+    "3p": "no se coman"
+  },
+  "Part-ter": {
+    "": "comido"
+  },
+  "Part-ser": {
+    "ms": "comido",
+    "fs": "comida",
+    "mp": "comidos",
+    "fp": "comidas"
+  }
+}

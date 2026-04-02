@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descaminar"
+  },
+  "Ger": {
+    "": "descaminando"
+  },
+  "PresI": {
+    "1s": "descamino",
+    "2s": "descaminas",
+    "3s": "descamina",
+    "1p": "descaminamos",
+    "2p": "descamináis",
+    "3p": "descaminan"
+  },
+  "PImpI": {
+    "1s": "descaminaba",
+    "2s": "descaminabas",
+    "3s": "descaminaba",
+    "1p": "descaminábamos",
+    "2p": "descaminabais",
+    "3p": "descaminaban"
+  },
+  "PPSI": {
+    "1s": "descaminé",
+    "2s": "descaminaste",
+    "3s": "descaminó",
+    "1p": "descaminamos",
+    "2p": "descaminasteis",
+    "3p": "descaminaron"
+  },
+  "FutSI": {
+    "1s": "descaminaré",
+    "2s": "descaminarás",
+    "3s": "descaminará",
+    "1p": "descaminaremos",
+    "2p": "descaminaréis",
+    "3p": "descaminarán"
+  },
+  "CondS": {
+    "1s": "descaminaría",
+    "2s": "descaminarías",
+    "3s": "descaminaría",
+    "1p": "descaminaríamos",
+    "2p": "descaminaríais",
+    "3p": "descaminarían"
+  },
+  "PresC": {
+    "1s": "descamine",
+    "2s": "descamines",
+    "3s": "descamine",
+    "1p": "descaminemos",
+    "2p": "descaminéis",
+    "3p": "descaminen"
+  },
+  "PMQPSI": {
+    "1s": "descaminara",
+    "2s": "descaminaras",
+    "3s": "descaminara",
+    "1p": "descamináramos",
+    "2p": "descaminarais",
+    "3p": "descaminaran"
+  },
+  "PImpC": {
+    "1s": "descaminase",
+    "2s": "descaminases",
+    "3s": "descaminase",
+    "1p": "descaminásemos",
+    "2p": "descaminaseis",
+    "3p": "descaminasen"
+  },
+  "FutSC": {
+    "1s": "descaminare",
+    "2s": "descaminares",
+    "3s": "descaminare",
+    "1p": "descamináremos",
+    "2p": "descaminareis",
+    "3p": "descaminaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descamina",
+    "3s": "descamine",
+    "1p": "descaminemos",
+    "2p": "descaminad",
+    "3p": "descaminen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no descamines",
+    "3s": "no descamine",
+    "1p": "no descaminemos",
+    "2p": "no descaminéis",
+    "3p": "no descaminen"
+  },
+  "Part-ter": {
+    "": "descaminado"
+  },
+  "Part-ser": {
+    "ms": "descaminado",
+    "fs": "descaminada",
+    "mp": "descaminados",
+    "fp": "descaminadas"
+  }
+}

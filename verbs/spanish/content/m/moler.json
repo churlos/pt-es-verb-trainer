@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "moler"
+  },
+  "Ger": {
+    "": "moliendo"
+  },
+  "PresI": {
+    "1s": "muelo",
+    "2s": "mueles",
+    "3s": "muele",
+    "1p": "molemos",
+    "2p": "moléis",
+    "3p": "muelen"
+  },
+  "PImpI": {
+    "1s": "molía",
+    "2s": "molías",
+    "3s": "molía",
+    "1p": "molíamos",
+    "2p": "molíais",
+    "3p": "molían"
+  },
+  "PPSI": {
+    "1s": "molí",
+    "2s": "moliste",
+    "3s": "molió",
+    "1p": "molimos",
+    "2p": "molisteis",
+    "3p": "molieron"
+  },
+  "FutSI": {
+    "1s": "moleré",
+    "2s": "molerás",
+    "3s": "molerá",
+    "1p": "moleremos",
+    "2p": "moleréis",
+    "3p": "molerán"
+  },
+  "CondS": {
+    "1s": "molería",
+    "2s": "molerías",
+    "3s": "molería",
+    "1p": "moleríamos",
+    "2p": "moleríais",
+    "3p": "molerían"
+  },
+  "PresC": {
+    "1s": "muela",
+    "2s": "muelas",
+    "3s": "muela",
+    "1p": "molamos",
+    "2p": "moláis",
+    "3p": "muelan"
+  },
+  "PMQPSI": {
+    "1s": "moliera",
+    "2s": "molieras",
+    "3s": "moliera",
+    "1p": "moliéramos",
+    "2p": "molierais",
+    "3p": "molieran"
+  },
+  "PImpC": {
+    "1s": "moliese",
+    "2s": "molieses",
+    "3s": "moliese",
+    "1p": "moliésemos",
+    "2p": "molieseis",
+    "3p": "moliesen"
+  },
+  "FutSC": {
+    "1s": "moliere",
+    "2s": "molieres",
+    "3s": "moliere",
+    "1p": "moliéremos",
+    "2p": "moliereis",
+    "3p": "molieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "muele",
+    "3s": "muela",
+    "1p": "molamos",
+    "2p": "moled",
+    "3p": "muelan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no muelas",
+    "3s": "no muela",
+    "1p": "no molamos",
+    "2p": "no moláis",
+    "3p": "no muelan"
+  },
+  "Part-ter": {
+    "": "molido"
+  },
+  "Part-ser": {
+    "ms": "molido",
+    "fs": "molida",
+    "mp": "molidos",
+    "fp": "molidas"
+  }
+}

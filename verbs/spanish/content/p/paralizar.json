@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "paralizar"
+  },
+  "Ger": {
+    "": "paralizando"
+  },
+  "PresI": {
+    "1s": "paralizo",
+    "2s": "paralizas",
+    "3s": "paraliza",
+    "1p": "paralizamos",
+    "2p": "paralizáis",
+    "3p": "paralizan"
+  },
+  "PImpI": {
+    "1s": "paralizaba",
+    "2s": "paralizabas",
+    "3s": "paralizaba",
+    "1p": "paralizábamos",
+    "2p": "paralizabais",
+    "3p": "paralizaban"
+  },
+  "PPSI": {
+    "1s": "paralicé",
+    "2s": "paralizaste",
+    "3s": "paralizó",
+    "1p": "paralizamos",
+    "2p": "paralizasteis",
+    "3p": "paralizaron"
+  },
+  "FutSI": {
+    "1s": "paralizaré",
+    "2s": "paralizarás",
+    "3s": "paralizará",
+    "1p": "paralizaremos",
+    "2p": "paralizaréis",
+    "3p": "paralizarán"
+  },
+  "CondS": {
+    "1s": "paralizaría",
+    "2s": "paralizarías",
+    "3s": "paralizaría",
+    "1p": "paralizaríamos",
+    "2p": "paralizaríais",
+    "3p": "paralizarían"
+  },
+  "PresC": {
+    "1s": "paralice",
+    "2s": "paralices",
+    "3s": "paralice",
+    "1p": "paralicemos",
+    "2p": "paralicéis",
+    "3p": "paralicen"
+  },
+  "PMQPSI": {
+    "1s": "paralizara",
+    "2s": "paralizaras",
+    "3s": "paralizara",
+    "1p": "paralizáramos",
+    "2p": "paralizarais",
+    "3p": "paralizaran"
+  },
+  "PImpC": {
+    "1s": "paralizase",
+    "2s": "paralizases",
+    "3s": "paralizase",
+    "1p": "paralizásemos",
+    "2p": "paralizaseis",
+    "3p": "paralizasen"
+  },
+  "FutSC": {
+    "1s": "paralizare",
+    "2s": "paralizares",
+    "3s": "paralizare",
+    "1p": "paralizáremos",
+    "2p": "paralizareis",
+    "3p": "paralizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "paraliza",
+    "3s": "paralice",
+    "1p": "paralicemos",
+    "2p": "paralizad",
+    "3p": "paralicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no paralices",
+    "3s": "no paralice",
+    "1p": "no paralicemos",
+    "2p": "no paralicéis",
+    "3p": "no paralicen"
+  },
+  "Part-ter": {
+    "": "paralizado"
+  },
+  "Part-ser": {
+    "ms": "paralizado",
+    "fs": "paralizada",
+    "mp": "paralizados",
+    "fp": "paralizadas"
+  }
+}

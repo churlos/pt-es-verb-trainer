@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fissionar"
+  },
+  "InfP": {
+    "1s": "fissionar",
+    "2s": "fissionares",
+    "3s": "fissionar",
+    "1p": "fissionarmos",
+    "2p": "fissionardes",
+    "3p": "fissionarem"
+  },
+  "Ger": {
+    "": "fissionando"
+  },
+  "PresI": {
+    "1s": "fissiono",
+    "2s": "fissionas",
+    "3s": "fissiona",
+    "1p": "fissionamos",
+    "2p": "fissionais",
+    "3p": "fissionam"
+  },
+  "PImpI": {
+    "1s": "fissionava",
+    "2s": "fissionavas",
+    "3s": "fissionava",
+    "1p": "fissionávamos",
+    "2p": "fissionáveis",
+    "3p": "fissionavam"
+  },
+  "PPSI": {
+    "1s": "fissionei",
+    "2s": "fissionaste",
+    "3s": "fissionou",
+    "1p": "fissionámos",
+    "2p": "fissionastes",
+    "3p": "fissionaram"
+  },
+  "PMQPSI": {
+    "1s": "fissionara",
+    "2s": "fissionaras",
+    "3s": "fissionara",
+    "1p": "fissionáramos",
+    "2p": "fissionáreis",
+    "3p": "fissionaram"
+  },
+  "FutSI": {
+    "1s": "fissionarei",
+    "2s": "fissionarás",
+    "3s": "fissionará",
+    "1p": "fissionaremos",
+    "2p": "fissionareis",
+    "3p": "fissionarão"
+  },
+  "CondS": {
+    "1s": "fissionaria",
+    "2s": "fissionarias",
+    "3s": "fissionaria",
+    "1p": "fissionaríamos",
+    "2p": "fissionaríeis",
+    "3p": "fissionariam"
+  },
+  "PresC": {
+    "1s": "fissione",
+    "2s": "fissiones",
+    "3s": "fissione",
+    "1p": "fissionemos",
+    "2p": "fissioneis",
+    "3p": "fissionem"
+  },
+  "PImpC": {
+    "1s": "fissionasse",
+    "2s": "fissionasses",
+    "3s": "fissionasse",
+    "1p": "fissionássemos",
+    "2p": "fissionásseis",
+    "3p": "fissionassem"
+  },
+  "FutSC": {
+    "1s": "fissionar",
+    "2s": "fissionares",
+    "3s": "fissionar",
+    "1p": "fissionarmos",
+    "2p": "fissionardes",
+    "3p": "fissionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fissiona",
+    "3s": "fissione",
+    "1p": "fissionemos",
+    "2p": "fissionai",
+    "3p": "fissionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fissiones",
+    "3s": "não fissione",
+    "1p": "não fissionemos",
+    "2p": "não fissioneis",
+    "3p": "não fissionem"
+  },
+  "Part-ter": {
+    "": "fissionado"
+  },
+  "Part-ser": {
+    "ms": "fissionado",
+    "fs": "fissionada",
+    "mp": "fissionados",
+    "fp": "fissionadas"
+  }
+}

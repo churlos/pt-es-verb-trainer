@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manobrar"
+  },
+  "InfP": {
+    "1s": "manobrar",
+    "2s": "manobrares",
+    "3s": "manobrar",
+    "1p": "manobrarmos",
+    "2p": "manobrardes",
+    "3p": "manobrarem"
+  },
+  "Ger": {
+    "": "manobrando"
+  },
+  "PresI": {
+    "1s": "manobro",
+    "2s": "manobras",
+    "3s": "manobra",
+    "1p": "manobramos",
+    "2p": "manobrais",
+    "3p": "manobram"
+  },
+  "PImpI": {
+    "1s": "manobrava",
+    "2s": "manobravas",
+    "3s": "manobrava",
+    "1p": "manobrávamos",
+    "2p": "manobráveis",
+    "3p": "manobravam"
+  },
+  "PPSI": {
+    "1s": "manobrei",
+    "2s": "manobraste",
+    "3s": "manobrou",
+    "1p": "manobrámos",
+    "2p": "manobrastes",
+    "3p": "manobraram"
+  },
+  "PMQPSI": {
+    "1s": "manobrara",
+    "2s": "manobraras",
+    "3s": "manobrara",
+    "1p": "manobráramos",
+    "2p": "manobráreis",
+    "3p": "manobraram"
+  },
+  "FutSI": {
+    "1s": "manobrarei",
+    "2s": "manobrarás",
+    "3s": "manobrará",
+    "1p": "manobraremos",
+    "2p": "manobrareis",
+    "3p": "manobrarão"
+  },
+  "CondS": {
+    "1s": "manobraria",
+    "2s": "manobrarias",
+    "3s": "manobraria",
+    "1p": "manobraríamos",
+    "2p": "manobraríeis",
+    "3p": "manobrariam"
+  },
+  "PresC": {
+    "1s": "manobre",
+    "2s": "manobres",
+    "3s": "manobre",
+    "1p": "manobremos",
+    "2p": "manobreis",
+    "3p": "manobrem"
+  },
+  "PImpC": {
+    "1s": "manobrasse",
+    "2s": "manobrasses",
+    "3s": "manobrasse",
+    "1p": "manobrássemos",
+    "2p": "manobrásseis",
+    "3p": "manobrassem"
+  },
+  "FutSC": {
+    "1s": "manobrar",
+    "2s": "manobrares",
+    "3s": "manobrar",
+    "1p": "manobrarmos",
+    "2p": "manobrardes",
+    "3p": "manobrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manobra",
+    "3s": "manobre",
+    "1p": "manobremos",
+    "2p": "manobrai",
+    "3p": "manobrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manobres",
+    "3s": "não manobre",
+    "1p": "não manobremos",
+    "2p": "não manobreis",
+    "3p": "não manobrem"
+  },
+  "Part-ter": {
+    "": "manobrado"
+  },
+  "Part-ser": {
+    "ms": "manobrado",
+    "fs": "manobrada",
+    "mp": "manobrados",
+    "fp": "manobradas"
+  }
+}

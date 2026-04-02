@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "camuflar"
+  },
+  "Ger": {
+    "": "camuflando"
+  },
+  "PresI": {
+    "1s": "camuflo",
+    "2s": "camuflas",
+    "3s": "camufla",
+    "1p": "camuflamos",
+    "2p": "camufláis",
+    "3p": "camuflan"
+  },
+  "PImpI": {
+    "1s": "camuflaba",
+    "2s": "camuflabas",
+    "3s": "camuflaba",
+    "1p": "camuflábamos",
+    "2p": "camuflabais",
+    "3p": "camuflaban"
+  },
+  "PPSI": {
+    "1s": "camuflé",
+    "2s": "camuflaste",
+    "3s": "camufló",
+    "1p": "camuflamos",
+    "2p": "camuflasteis",
+    "3p": "camuflaron"
+  },
+  "FutSI": {
+    "1s": "camuflaré",
+    "2s": "camuflarás",
+    "3s": "camuflará",
+    "1p": "camuflaremos",
+    "2p": "camuflaréis",
+    "3p": "camuflarán"
+  },
+  "CondS": {
+    "1s": "camuflaría",
+    "2s": "camuflarías",
+    "3s": "camuflaría",
+    "1p": "camuflaríamos",
+    "2p": "camuflaríais",
+    "3p": "camuflarían"
+  },
+  "PresC": {
+    "1s": "camufle",
+    "2s": "camufles",
+    "3s": "camufle",
+    "1p": "camuflemos",
+    "2p": "camufléis",
+    "3p": "camuflen"
+  },
+  "PMQPSI": {
+    "1s": "camuflara",
+    "2s": "camuflaras",
+    "3s": "camuflara",
+    "1p": "camufláramos",
+    "2p": "camuflarais",
+    "3p": "camuflaran"
+  },
+  "PImpC": {
+    "1s": "camuflase",
+    "2s": "camuflases",
+    "3s": "camuflase",
+    "1p": "camuflásemos",
+    "2p": "camuflaseis",
+    "3p": "camuflasen"
+  },
+  "FutSC": {
+    "1s": "camuflare",
+    "2s": "camuflares",
+    "3s": "camuflare",
+    "1p": "camufláremos",
+    "2p": "camuflareis",
+    "3p": "camuflaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "camufla",
+    "3s": "camufle",
+    "1p": "camuflemos",
+    "2p": "camuflad",
+    "3p": "camuflen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no camufles",
+    "3s": "no camufle",
+    "1p": "no camuflemos",
+    "2p": "no camufléis",
+    "3p": "no camuflen"
+  },
+  "Part-ter": {
+    "": "camuflado"
+  },
+  "Part-ser": {
+    "ms": "camuflado",
+    "fs": "camuflada",
+    "mp": "camuflados",
+    "fp": "camufladas"
+  }
+}

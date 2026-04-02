@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "contactar"
+  },
+  "Ger": {
+    "": "contactando"
+  },
+  "PresI": {
+    "1s": "contacto",
+    "2s": "contactas",
+    "3s": "contacta",
+    "1p": "contactamos",
+    "2p": "contactáis",
+    "3p": "contactan"
+  },
+  "PImpI": {
+    "1s": "contactaba",
+    "2s": "contactabas",
+    "3s": "contactaba",
+    "1p": "contactábamos",
+    "2p": "contactabais",
+    "3p": "contactaban"
+  },
+  "PPSI": {
+    "1s": "contacté",
+    "2s": "contactaste",
+    "3s": "contactó",
+    "1p": "contactamos",
+    "2p": "contactasteis",
+    "3p": "contactaron"
+  },
+  "FutSI": {
+    "1s": "contactaré",
+    "2s": "contactarás",
+    "3s": "contactará",
+    "1p": "contactaremos",
+    "2p": "contactaréis",
+    "3p": "contactarán"
+  },
+  "CondS": {
+    "1s": "contactaría",
+    "2s": "contactarías",
+    "3s": "contactaría",
+    "1p": "contactaríamos",
+    "2p": "contactaríais",
+    "3p": "contactarían"
+  },
+  "PresC": {
+    "1s": "contacte",
+    "2s": "contactes",
+    "3s": "contacte",
+    "1p": "contactemos",
+    "2p": "contactéis",
+    "3p": "contacten"
+  },
+  "PMQPSI": {
+    "1s": "contactara",
+    "2s": "contactaras",
+    "3s": "contactara",
+    "1p": "contactáramos",
+    "2p": "contactarais",
+    "3p": "contactaran"
+  },
+  "PImpC": {
+    "1s": "contactase",
+    "2s": "contactases",
+    "3s": "contactase",
+    "1p": "contactásemos",
+    "2p": "contactaseis",
+    "3p": "contactasen"
+  },
+  "FutSC": {
+    "1s": "contactare",
+    "2s": "contactares",
+    "3s": "contactare",
+    "1p": "contactáremos",
+    "2p": "contactareis",
+    "3p": "contactaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contacta",
+    "3s": "contacte",
+    "1p": "contactemos",
+    "2p": "contactad",
+    "3p": "contacten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no contactes",
+    "3s": "no contacte",
+    "1p": "no contactemos",
+    "2p": "no contactéis",
+    "3p": "no contacten"
+  },
+  "Part-ter": {
+    "": "contactado"
+  },
+  "Part-ser": {
+    "ms": "contactado",
+    "fs": "contactada",
+    "mp": "contactados",
+    "fp": "contactadas"
+  }
+}

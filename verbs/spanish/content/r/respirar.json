@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "respirar"
+  },
+  "Ger": {
+    "": "respirando"
+  },
+  "PresI": {
+    "1s": "respiro",
+    "2s": "respiras",
+    "3s": "respira",
+    "1p": "respiramos",
+    "2p": "respiráis",
+    "3p": "respiran"
+  },
+  "PImpI": {
+    "1s": "respiraba",
+    "2s": "respirabas",
+    "3s": "respiraba",
+    "1p": "respirábamos",
+    "2p": "respirabais",
+    "3p": "respiraban"
+  },
+  "PPSI": {
+    "1s": "respiré",
+    "2s": "respiraste",
+    "3s": "respiró",
+    "1p": "respiramos",
+    "2p": "respirasteis",
+    "3p": "respiraron"
+  },
+  "FutSI": {
+    "1s": "respiraré",
+    "2s": "respirarás",
+    "3s": "respirará",
+    "1p": "respiraremos",
+    "2p": "respiraréis",
+    "3p": "respirarán"
+  },
+  "CondS": {
+    "1s": "respiraría",
+    "2s": "respirarías",
+    "3s": "respiraría",
+    "1p": "respiraríamos",
+    "2p": "respiraríais",
+    "3p": "respirarían"
+  },
+  "PresC": {
+    "1s": "respire",
+    "2s": "respires",
+    "3s": "respire",
+    "1p": "respiremos",
+    "2p": "respiréis",
+    "3p": "respiren"
+  },
+  "PMQPSI": {
+    "1s": "respirara",
+    "2s": "respiraras",
+    "3s": "respirara",
+    "1p": "respiráramos",
+    "2p": "respirarais",
+    "3p": "respiraran"
+  },
+  "PImpC": {
+    "1s": "respirase",
+    "2s": "respirases",
+    "3s": "respirase",
+    "1p": "respirásemos",
+    "2p": "respiraseis",
+    "3p": "respirasen"
+  },
+  "FutSC": {
+    "1s": "respirare",
+    "2s": "respirares",
+    "3s": "respirare",
+    "1p": "respiráremos",
+    "2p": "respirareis",
+    "3p": "respiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "respira",
+    "3s": "respire",
+    "1p": "respiremos",
+    "2p": "respirad",
+    "3p": "respiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no respires",
+    "3s": "no respire",
+    "1p": "no respiremos",
+    "2p": "no respiréis",
+    "3p": "no respiren"
+  },
+  "Part-ter": {
+    "": "respirado"
+  },
+  "Part-ser": {
+    "ms": "respirado",
+    "fs": "respirada",
+    "mp": "respirados",
+    "fp": "respiradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emparedar"
+  },
+  "InfP": {
+    "1s": "emparedar",
+    "2s": "emparedares",
+    "3s": "emparedar",
+    "1p": "emparedarmos",
+    "2p": "emparedardes",
+    "3p": "emparedarem"
+  },
+  "Ger": {
+    "": "emparedando"
+  },
+  "PresI": {
+    "1s": "emparedo",
+    "2s": "emparedas",
+    "3s": "empareda",
+    "1p": "emparedamos",
+    "2p": "emparedais",
+    "3p": "emparedam"
+  },
+  "PImpI": {
+    "1s": "emparedava",
+    "2s": "emparedavas",
+    "3s": "emparedava",
+    "1p": "emparedávamos",
+    "2p": "emparedáveis",
+    "3p": "emparedavam"
+  },
+  "PPSI": {
+    "1s": "emparedei",
+    "2s": "emparedaste",
+    "3s": "emparedou",
+    "1p": "emparedámos",
+    "2p": "emparedastes",
+    "3p": "emparedaram"
+  },
+  "PMQPSI": {
+    "1s": "emparedara",
+    "2s": "emparedaras",
+    "3s": "emparedara",
+    "1p": "emparedáramos",
+    "2p": "emparedáreis",
+    "3p": "emparedaram"
+  },
+  "FutSI": {
+    "1s": "emparedarei",
+    "2s": "emparedarás",
+    "3s": "emparedará",
+    "1p": "emparedaremos",
+    "2p": "emparedareis",
+    "3p": "emparedarão"
+  },
+  "CondS": {
+    "1s": "emparedaria",
+    "2s": "emparedarias",
+    "3s": "emparedaria",
+    "1p": "emparedaríamos",
+    "2p": "emparedaríeis",
+    "3p": "emparedariam"
+  },
+  "PresC": {
+    "1s": "emparede",
+    "2s": "emparedes",
+    "3s": "emparede",
+    "1p": "emparedemos",
+    "2p": "emparedeis",
+    "3p": "emparedem"
+  },
+  "PImpC": {
+    "1s": "emparedasse",
+    "2s": "emparedasses",
+    "3s": "emparedasse",
+    "1p": "emparedássemos",
+    "2p": "emparedásseis",
+    "3p": "emparedassem"
+  },
+  "FutSC": {
+    "1s": "emparedar",
+    "2s": "emparedares",
+    "3s": "emparedar",
+    "1p": "emparedarmos",
+    "2p": "emparedardes",
+    "3p": "emparedarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empareda",
+    "3s": "emparede",
+    "1p": "emparedemos",
+    "2p": "emparedai",
+    "3p": "emparedem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emparedes",
+    "3s": "não emparede",
+    "1p": "não emparedemos",
+    "2p": "não emparedeis",
+    "3p": "não emparedem"
+  },
+  "Part-ter": {
+    "": "emparedado"
+  },
+  "Part-ser": {
+    "ms": "emparedado",
+    "fs": "emparedada",
+    "mp": "emparedados",
+    "fp": "emparedadas"
+  }
+}

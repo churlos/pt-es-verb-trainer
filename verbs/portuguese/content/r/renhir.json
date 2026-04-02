@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "renhir"
+  },
+  "InfP": {
+    "1s": "renhir",
+    "2s": "renhires",
+    "3s": "renhir",
+    "1p": "renhirmos",
+    "2p": "renhirdes",
+    "3p": "renhirem"
+  },
+  "Ger": {
+    "": "renhindo"
+  },
+  "PresI": {
+    "1s": "renho",
+    "2s": "renhes",
+    "3s": "renhe",
+    "1p": "renhimos",
+    "2p": "renhis",
+    "3p": "renhem"
+  },
+  "PImpI": {
+    "1s": "renhia",
+    "2s": "renhias",
+    "3s": "renhia",
+    "1p": "renhíamos",
+    "2p": "renhíeis",
+    "3p": "renhiam"
+  },
+  "PPSI": {
+    "1s": "renhi",
+    "2s": "renhiste",
+    "3s": "renhiu",
+    "1p": "renhimos",
+    "2p": "renhistes",
+    "3p": "renhiram"
+  },
+  "PMQPSI": {
+    "1s": "renhira",
+    "2s": "renhiras",
+    "3s": "renhira",
+    "1p": "renhíramos",
+    "2p": "renhíreis",
+    "3p": "renhiram"
+  },
+  "FutSI": {
+    "1s": "renhirei",
+    "2s": "renhirás",
+    "3s": "renhirá",
+    "1p": "renhiremos",
+    "2p": "renhireis",
+    "3p": "renhirão"
+  },
+  "CondS": {
+    "1s": "renhiria",
+    "2s": "renhirias",
+    "3s": "renhiria",
+    "1p": "renhiríamos",
+    "2p": "renhiríeis",
+    "3p": "renhiriam"
+  },
+  "PresC": {
+    "1s": "renha",
+    "2s": "renhas",
+    "3s": "renha",
+    "1p": "renhamos",
+    "2p": "renhais",
+    "3p": "renham"
+  },
+  "PImpC": {
+    "1s": "renhisse",
+    "2s": "renhisses",
+    "3s": "renhisse",
+    "1p": "renhíssemos",
+    "2p": "renhísseis",
+    "3p": "renhissem"
+  },
+  "FutSC": {
+    "1s": "renhir",
+    "2s": "renhires",
+    "3s": "renhir",
+    "1p": "renhirmos",
+    "2p": "renhirdes",
+    "3p": "renhirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renhe",
+    "3s": "renha",
+    "1p": "renhamos",
+    "2p": "renhi",
+    "3p": "renham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não renhas",
+    "3s": "não renha",
+    "1p": "não renhamos",
+    "2p": "não renhais",
+    "3p": "não renham"
+  },
+  "Part-ter": {
+    "": "renhido"
+  },
+  "Part-ser": {
+    "ms": "renhido",
+    "fs": "renhida",
+    "mp": "renhidos",
+    "fp": "renhidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escalpelar"
+  },
+  "InfP": {
+    "1s": "escalpelar",
+    "2s": "escalpelares",
+    "3s": "escalpelar",
+    "1p": "escalpelarmos",
+    "2p": "escalpelardes",
+    "3p": "escalpelarem"
+  },
+  "Ger": {
+    "": "escalpelando"
+  },
+  "PresI": {
+    "1s": "escalpelo",
+    "2s": "escalpelas",
+    "3s": "escalpela",
+    "1p": "escalpelamos",
+    "2p": "escalpelais",
+    "3p": "escalpelam"
+  },
+  "PImpI": {
+    "1s": "escalpelava",
+    "2s": "escalpelavas",
+    "3s": "escalpelava",
+    "1p": "escalpelávamos",
+    "2p": "escalpeláveis",
+    "3p": "escalpelavam"
+  },
+  "PPSI": {
+    "1s": "escalpelei",
+    "2s": "escalpelaste",
+    "3s": "escalpelou",
+    "1p": "escalpelámos",
+    "2p": "escalpelastes",
+    "3p": "escalpelaram"
+  },
+  "PMQPSI": {
+    "1s": "escalpelara",
+    "2s": "escalpelaras",
+    "3s": "escalpelara",
+    "1p": "escalpeláramos",
+    "2p": "escalpeláreis",
+    "3p": "escalpelaram"
+  },
+  "FutSI": {
+    "1s": "escalpelarei",
+    "2s": "escalpelarás",
+    "3s": "escalpelará",
+    "1p": "escalpelaremos",
+    "2p": "escalpelareis",
+    "3p": "escalpelarão"
+  },
+  "CondS": {
+    "1s": "escalpelaria",
+    "2s": "escalpelarias",
+    "3s": "escalpelaria",
+    "1p": "escalpelaríamos",
+    "2p": "escalpelaríeis",
+    "3p": "escalpelariam"
+  },
+  "PresC": {
+    "1s": "escalpele",
+    "2s": "escalpeles",
+    "3s": "escalpele",
+    "1p": "escalpelemos",
+    "2p": "escalpeleis",
+    "3p": "escalpelem"
+  },
+  "PImpC": {
+    "1s": "escalpelasse",
+    "2s": "escalpelasses",
+    "3s": "escalpelasse",
+    "1p": "escalpelássemos",
+    "2p": "escalpelásseis",
+    "3p": "escalpelassem"
+  },
+  "FutSC": {
+    "1s": "escalpelar",
+    "2s": "escalpelares",
+    "3s": "escalpelar",
+    "1p": "escalpelarmos",
+    "2p": "escalpelardes",
+    "3p": "escalpelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escalpela",
+    "3s": "escalpele",
+    "1p": "escalpelemos",
+    "2p": "escalpelai",
+    "3p": "escalpelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escalpeles",
+    "3s": "não escalpele",
+    "1p": "não escalpelemos",
+    "2p": "não escalpeleis",
+    "3p": "não escalpelem"
+  },
+  "Part-ter": {
+    "": "escalpelado"
+  },
+  "Part-ser": {
+    "ms": "escalpelado",
+    "fs": "escalpelada",
+    "mp": "escalpelados",
+    "fp": "escalpeladas"
+  }
+}

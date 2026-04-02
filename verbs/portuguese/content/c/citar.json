@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "citar"
+  },
+  "InfP": {
+    "1s": "citar",
+    "2s": "citares",
+    "3s": "citar",
+    "1p": "citarmos",
+    "2p": "citardes",
+    "3p": "citarem"
+  },
+  "Ger": {
+    "": "citando"
+  },
+  "PresI": {
+    "1s": "cito",
+    "2s": "citas",
+    "3s": "cita",
+    "1p": "citamos",
+    "2p": "citais",
+    "3p": "citam"
+  },
+  "PImpI": {
+    "1s": "citava",
+    "2s": "citavas",
+    "3s": "citava",
+    "1p": "citávamos",
+    "2p": "citáveis",
+    "3p": "citavam"
+  },
+  "PPSI": {
+    "1s": "citei",
+    "2s": "citaste",
+    "3s": "citou",
+    "1p": "citámos",
+    "2p": "citastes",
+    "3p": "citaram"
+  },
+  "PMQPSI": {
+    "1s": "citara",
+    "2s": "citaras",
+    "3s": "citara",
+    "1p": "citáramos",
+    "2p": "citáreis",
+    "3p": "citaram"
+  },
+  "FutSI": {
+    "1s": "citarei",
+    "2s": "citarás",
+    "3s": "citará",
+    "1p": "citaremos",
+    "2p": "citareis",
+    "3p": "citarão"
+  },
+  "CondS": {
+    "1s": "citaria",
+    "2s": "citarias",
+    "3s": "citaria",
+    "1p": "citaríamos",
+    "2p": "citaríeis",
+    "3p": "citariam"
+  },
+  "PresC": {
+    "1s": "cite",
+    "2s": "cites",
+    "3s": "cite",
+    "1p": "citemos",
+    "2p": "citeis",
+    "3p": "citem"
+  },
+  "PImpC": {
+    "1s": "citasse",
+    "2s": "citasses",
+    "3s": "citasse",
+    "1p": "citássemos",
+    "2p": "citásseis",
+    "3p": "citassem"
+  },
+  "FutSC": {
+    "1s": "citar",
+    "2s": "citares",
+    "3s": "citar",
+    "1p": "citarmos",
+    "2p": "citardes",
+    "3p": "citarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cita",
+    "3s": "cite",
+    "1p": "citemos",
+    "2p": "citai",
+    "3p": "citem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cites",
+    "3s": "não cite",
+    "1p": "não citemos",
+    "2p": "não citeis",
+    "3p": "não citem"
+  },
+  "Part-ter": {
+    "": "citado"
+  },
+  "Part-ser": {
+    "ms": "citado",
+    "fs": "citada",
+    "mp": "citados",
+    "fp": "citadas"
+  }
+}

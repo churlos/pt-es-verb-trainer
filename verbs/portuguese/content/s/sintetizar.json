@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sintetizar"
+  },
+  "InfP": {
+    "1s": "sintetizar",
+    "2s": "sintetizares",
+    "3s": "sintetizar",
+    "1p": "sintetizarmos",
+    "2p": "sintetizardes",
+    "3p": "sintetizarem"
+  },
+  "Ger": {
+    "": "sintetizando"
+  },
+  "PresI": {
+    "1s": "sintetizo",
+    "2s": "sintetizas",
+    "3s": "sintetiza",
+    "1p": "sintetizamos",
+    "2p": "sintetizais",
+    "3p": "sintetizam"
+  },
+  "PImpI": {
+    "1s": "sintetizava",
+    "2s": "sintetizavas",
+    "3s": "sintetizava",
+    "1p": "sintetizávamos",
+    "2p": "sintetizáveis",
+    "3p": "sintetizavam"
+  },
+  "PPSI": {
+    "1s": "sintetizei",
+    "2s": "sintetizaste",
+    "3s": "sintetizou",
+    "1p": "sintetizámos",
+    "2p": "sintetizastes",
+    "3p": "sintetizaram"
+  },
+  "PMQPSI": {
+    "1s": "sintetizara",
+    "2s": "sintetizaras",
+    "3s": "sintetizara",
+    "1p": "sintetizáramos",
+    "2p": "sintetizáreis",
+    "3p": "sintetizaram"
+  },
+  "FutSI": {
+    "1s": "sintetizarei",
+    "2s": "sintetizarás",
+    "3s": "sintetizará",
+    "1p": "sintetizaremos",
+    "2p": "sintetizareis",
+    "3p": "sintetizarão"
+  },
+  "CondS": {
+    "1s": "sintetizaria",
+    "2s": "sintetizarias",
+    "3s": "sintetizaria",
+    "1p": "sintetizaríamos",
+    "2p": "sintetizaríeis",
+    "3p": "sintetizariam"
+  },
+  "PresC": {
+    "1s": "sintetize",
+    "2s": "sintetizes",
+    "3s": "sintetize",
+    "1p": "sintetizemos",
+    "2p": "sintetizeis",
+    "3p": "sintetizem"
+  },
+  "PImpC": {
+    "1s": "sintetizasse",
+    "2s": "sintetizasses",
+    "3s": "sintetizasse",
+    "1p": "sintetizássemos",
+    "2p": "sintetizásseis",
+    "3p": "sintetizassem"
+  },
+  "FutSC": {
+    "1s": "sintetizar",
+    "2s": "sintetizares",
+    "3s": "sintetizar",
+    "1p": "sintetizarmos",
+    "2p": "sintetizardes",
+    "3p": "sintetizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sintetiza",
+    "3s": "sintetize",
+    "1p": "sintetizemos",
+    "2p": "sintetizai",
+    "3p": "sintetizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sintetizes",
+    "3s": "não sintetize",
+    "1p": "não sintetizemos",
+    "2p": "não sintetizeis",
+    "3p": "não sintetizem"
+  },
+  "Part-ter": {
+    "": "sintetizado"
+  },
+  "Part-ser": {
+    "ms": "sintetizado",
+    "fs": "sintetizada",
+    "mp": "sintetizados",
+    "fp": "sintetizadas"
+  }
+}

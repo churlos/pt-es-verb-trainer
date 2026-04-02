@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "salpicar"
+  },
+  "Ger": {
+    "": "salpicando"
+  },
+  "PresI": {
+    "1s": "salpico",
+    "2s": "salpicas",
+    "3s": "salpica",
+    "1p": "salpicamos",
+    "2p": "salpicáis",
+    "3p": "salpican"
+  },
+  "PImpI": {
+    "1s": "salpicaba",
+    "2s": "salpicabas",
+    "3s": "salpicaba",
+    "1p": "salpicábamos",
+    "2p": "salpicabais",
+    "3p": "salpicaban"
+  },
+  "PPSI": {
+    "1s": "salpiqué",
+    "2s": "salpicaste",
+    "3s": "salpicó",
+    "1p": "salpicamos",
+    "2p": "salpicasteis",
+    "3p": "salpicaron"
+  },
+  "FutSI": {
+    "1s": "salpicaré",
+    "2s": "salpicarás",
+    "3s": "salpicará",
+    "1p": "salpicaremos",
+    "2p": "salpicaréis",
+    "3p": "salpicarán"
+  },
+  "CondS": {
+    "1s": "salpicaría",
+    "2s": "salpicarías",
+    "3s": "salpicaría",
+    "1p": "salpicaríamos",
+    "2p": "salpicaríais",
+    "3p": "salpicarían"
+  },
+  "PresC": {
+    "1s": "salpique",
+    "2s": "salpiques",
+    "3s": "salpique",
+    "1p": "salpiquemos",
+    "2p": "salpiquéis",
+    "3p": "salpiquen"
+  },
+  "PMQPSI": {
+    "1s": "salpicara",
+    "2s": "salpicaras",
+    "3s": "salpicara",
+    "1p": "salpicáramos",
+    "2p": "salpicarais",
+    "3p": "salpicaran"
+  },
+  "PImpC": {
+    "1s": "salpicase",
+    "2s": "salpicases",
+    "3s": "salpicase",
+    "1p": "salpicásemos",
+    "2p": "salpicaseis",
+    "3p": "salpicasen"
+  },
+  "FutSC": {
+    "1s": "salpicare",
+    "2s": "salpicares",
+    "3s": "salpicare",
+    "1p": "salpicáremos",
+    "2p": "salpicareis",
+    "3p": "salpicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salpica",
+    "3s": "salpique",
+    "1p": "salpiquemos",
+    "2p": "salpicad",
+    "3p": "salpiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salpiques",
+    "3s": "no salpique",
+    "1p": "no salpiquemos",
+    "2p": "no salpiquéis",
+    "3p": "no salpiquen"
+  },
+  "Part-ter": {
+    "": "salpicado"
+  },
+  "Part-ser": {
+    "ms": "salpicado",
+    "fs": "salpicada",
+    "mp": "salpicados",
+    "fp": "salpicadas"
+  }
+}

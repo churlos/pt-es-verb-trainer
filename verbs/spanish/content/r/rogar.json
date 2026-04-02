@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rogar"
+  },
+  "Ger": {
+    "": "rogando"
+  },
+  "PresI": {
+    "1s": "ruego",
+    "2s": "ruegas",
+    "3s": "ruega",
+    "1p": "rogamos",
+    "2p": "rogáis",
+    "3p": "ruegan"
+  },
+  "PImpI": {
+    "1s": "rogaba",
+    "2s": "rogabas",
+    "3s": "rogaba",
+    "1p": "rogábamos",
+    "2p": "rogabais",
+    "3p": "rogaban"
+  },
+  "PPSI": {
+    "1s": "rogué",
+    "2s": "rogaste",
+    "3s": "rogó",
+    "1p": "rogamos",
+    "2p": "rogasteis",
+    "3p": "rogaron"
+  },
+  "FutSI": {
+    "1s": "rogaré",
+    "2s": "rogarás",
+    "3s": "rogará",
+    "1p": "rogaremos",
+    "2p": "rogaréis",
+    "3p": "rogarán"
+  },
+  "CondS": {
+    "1s": "rogaría",
+    "2s": "rogarías",
+    "3s": "rogaría",
+    "1p": "rogaríamos",
+    "2p": "rogaríais",
+    "3p": "rogarían"
+  },
+  "PresC": {
+    "1s": "ruegue",
+    "2s": "ruegues",
+    "3s": "ruegue",
+    "1p": "roguemos",
+    "2p": "roguéis",
+    "3p": "rueguen"
+  },
+  "PMQPSI": {
+    "1s": "rogara",
+    "2s": "rogaras",
+    "3s": "rogara",
+    "1p": "rogáramos",
+    "2p": "rogarais",
+    "3p": "rogaran"
+  },
+  "PImpC": {
+    "1s": "rogase",
+    "2s": "rogases",
+    "3s": "rogase",
+    "1p": "rogásemos",
+    "2p": "rogaseis",
+    "3p": "rogasen"
+  },
+  "FutSC": {
+    "1s": "rogare",
+    "2s": "rogares",
+    "3s": "rogare",
+    "1p": "rogáremos",
+    "2p": "rogareis",
+    "3p": "rogaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ruega",
+    "3s": "ruegue",
+    "1p": "roguemos",
+    "2p": "rogad",
+    "3p": "rueguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ruegues",
+    "3s": "no ruegue",
+    "1p": "no roguemos",
+    "2p": "no roguéis",
+    "3p": "no rueguen"
+  },
+  "Part-ter": {
+    "": "rogado"
+  },
+  "Part-ser": {
+    "ms": "rogado",
+    "fs": "rogada",
+    "mp": "rogados",
+    "fp": "rogadas"
+  }
+}

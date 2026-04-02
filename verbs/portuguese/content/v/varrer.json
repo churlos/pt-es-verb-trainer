@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "varrer"
+  },
+  "InfP": {
+    "1s": "varrer",
+    "2s": "varreres",
+    "3s": "varrer",
+    "1p": "varrermos",
+    "2p": "varrerdes",
+    "3p": "varrerem"
+  },
+  "Ger": {
+    "": "varrendo"
+  },
+  "PresI": {
+    "1s": "varro",
+    "2s": "varres",
+    "3s": "varre",
+    "1p": "varremos",
+    "2p": "varreis",
+    "3p": "varrem"
+  },
+  "PImpI": {
+    "1s": "varria",
+    "2s": "varrias",
+    "3s": "varria",
+    "1p": "varríamos",
+    "2p": "varríeis",
+    "3p": "varriam"
+  },
+  "PPSI": {
+    "1s": "varri",
+    "2s": "varreste",
+    "3s": "varreu",
+    "1p": "varremos",
+    "2p": "varrestes",
+    "3p": "varreram"
+  },
+  "PMQPSI": {
+    "1s": "varrera",
+    "2s": "varreras",
+    "3s": "varrera",
+    "1p": "varrêramos",
+    "2p": "varrêreis",
+    "3p": "varreram"
+  },
+  "FutSI": {
+    "1s": "varrerei",
+    "2s": "varrerás",
+    "3s": "varrerá",
+    "1p": "varreremos",
+    "2p": "varrereis",
+    "3p": "varrerão"
+  },
+  "CondS": {
+    "1s": "varreria",
+    "2s": "varrerias",
+    "3s": "varreria",
+    "1p": "varreríamos",
+    "2p": "varreríeis",
+    "3p": "varreriam"
+  },
+  "PresC": {
+    "1s": "varra",
+    "2s": "varras",
+    "3s": "varra",
+    "1p": "varramos",
+    "2p": "varrais",
+    "3p": "varram"
+  },
+  "PImpC": {
+    "1s": "varresse",
+    "2s": "varresses",
+    "3s": "varresse",
+    "1p": "varrêssemos",
+    "2p": "varrêsseis",
+    "3p": "varressem"
+  },
+  "FutSC": {
+    "1s": "varrer",
+    "2s": "varreres",
+    "3s": "varrer",
+    "1p": "varrermos",
+    "2p": "varrerdes",
+    "3p": "varrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "varre",
+    "3s": "varra",
+    "1p": "varramos",
+    "2p": "varrei",
+    "3p": "varram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não varras",
+    "3s": "não varra",
+    "1p": "não varramos",
+    "2p": "não varrais",
+    "3p": "não varram"
+  },
+  "Part-ter": {
+    "": "varrido"
+  },
+  "Part-ser": {
+    "ms": "varrido",
+    "fs": "varrida",
+    "mp": "varridos",
+    "fp": "varridas"
+  }
+}

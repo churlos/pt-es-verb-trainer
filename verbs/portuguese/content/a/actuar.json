@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "actuar"
+  },
+  "InfP": {
+    "1s": "actuar",
+    "2s": "actuares",
+    "3s": "actuar",
+    "1p": "actuarmos",
+    "2p": "actuardes",
+    "3p": "actuarem"
+  },
+  "Ger": {
+    "": "actuando"
+  },
+  "PresI": {
+    "1s": "actuo",
+    "2s": "actuas",
+    "3s": "actua",
+    "1p": "actuamos",
+    "2p": "actuais",
+    "3p": "actuam"
+  },
+  "PImpI": {
+    "1s": "actuava",
+    "2s": "actuavas",
+    "3s": "actuava",
+    "1p": "actuávamos",
+    "2p": "actuáveis",
+    "3p": "actuavam"
+  },
+  "PPSI": {
+    "1s": "actuei",
+    "2s": "actuaste",
+    "3s": "actuou",
+    "1p": "actuámos",
+    "2p": "actuastes",
+    "3p": "actuaram"
+  },
+  "PMQPSI": {
+    "1s": "actuara",
+    "2s": "actuaras",
+    "3s": "actuara",
+    "1p": "actuáramos",
+    "2p": "actuáreis",
+    "3p": "actuaram"
+  },
+  "FutSI": {
+    "1s": "actuarei",
+    "2s": "actuarás",
+    "3s": "actuará",
+    "1p": "actuaremos",
+    "2p": "actuareis",
+    "3p": "actuarão"
+  },
+  "CondS": {
+    "1s": "actuaria",
+    "2s": "actuarias",
+    "3s": "actuaria",
+    "1p": "actuaríamos",
+    "2p": "actuaríeis",
+    "3p": "actuariam"
+  },
+  "PresC": {
+    "1s": "actue",
+    "2s": "actues",
+    "3s": "actue",
+    "1p": "actuemos",
+    "2p": "actueis",
+    "3p": "actuem"
+  },
+  "PImpC": {
+    "1s": "actuasse",
+    "2s": "actuasses",
+    "3s": "actuasse",
+    "1p": "actuássemos",
+    "2p": "actuásseis",
+    "3p": "actuassem"
+  },
+  "FutSC": {
+    "1s": "actuar",
+    "2s": "actuares",
+    "3s": "actuar",
+    "1p": "actuarmos",
+    "2p": "actuardes",
+    "3p": "actuarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "actua",
+    "3s": "actue",
+    "1p": "actuemos",
+    "2p": "actuai",
+    "3p": "actuem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não actues",
+    "3s": "não actue",
+    "1p": "não actuemos",
+    "2p": "não actueis",
+    "3p": "não actuem"
+  },
+  "Part-ter": {
+    "": "actuado"
+  },
+  "Part-ser": {
+    "ms": "actuado",
+    "fs": "actuada",
+    "mp": "actuados",
+    "fp": "actuadas"
+  }
+}

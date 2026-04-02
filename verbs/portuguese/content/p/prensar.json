@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prensar"
+  },
+  "InfP": {
+    "1s": "prensar",
+    "2s": "prensares",
+    "3s": "prensar",
+    "1p": "prensarmos",
+    "2p": "prensardes",
+    "3p": "prensarem"
+  },
+  "Ger": {
+    "": "prensando"
+  },
+  "PresI": {
+    "1s": "prenso",
+    "2s": "prensas",
+    "3s": "prensa",
+    "1p": "prensamos",
+    "2p": "prensais",
+    "3p": "prensam"
+  },
+  "PImpI": {
+    "1s": "prensava",
+    "2s": "prensavas",
+    "3s": "prensava",
+    "1p": "prensávamos",
+    "2p": "prensáveis",
+    "3p": "prensavam"
+  },
+  "PPSI": {
+    "1s": "prensei",
+    "2s": "prensaste",
+    "3s": "prensou",
+    "1p": "prensámos",
+    "2p": "prensastes",
+    "3p": "prensaram"
+  },
+  "PMQPSI": {
+    "1s": "prensara",
+    "2s": "prensaras",
+    "3s": "prensara",
+    "1p": "prensáramos",
+    "2p": "prensáreis",
+    "3p": "prensaram"
+  },
+  "FutSI": {
+    "1s": "prensarei",
+    "2s": "prensarás",
+    "3s": "prensará",
+    "1p": "prensaremos",
+    "2p": "prensareis",
+    "3p": "prensarão"
+  },
+  "CondS": {
+    "1s": "prensaria",
+    "2s": "prensarias",
+    "3s": "prensaria",
+    "1p": "prensaríamos",
+    "2p": "prensaríeis",
+    "3p": "prensariam"
+  },
+  "PresC": {
+    "1s": "prense",
+    "2s": "prenses",
+    "3s": "prense",
+    "1p": "prensemos",
+    "2p": "prenseis",
+    "3p": "prensem"
+  },
+  "PImpC": {
+    "1s": "prensasse",
+    "2s": "prensasses",
+    "3s": "prensasse",
+    "1p": "prensássemos",
+    "2p": "prensásseis",
+    "3p": "prensassem"
+  },
+  "FutSC": {
+    "1s": "prensar",
+    "2s": "prensares",
+    "3s": "prensar",
+    "1p": "prensarmos",
+    "2p": "prensardes",
+    "3p": "prensarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prensa",
+    "3s": "prense",
+    "1p": "prensemos",
+    "2p": "prensai",
+    "3p": "prensem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prenses",
+    "3s": "não prense",
+    "1p": "não prensemos",
+    "2p": "não prenseis",
+    "3p": "não prensem"
+  },
+  "Part-ter": {
+    "": "prensado"
+  },
+  "Part-ser": {
+    "ms": "prensado",
+    "fs": "prensada",
+    "mp": "prensados",
+    "fp": "prensadas"
+  }
+}

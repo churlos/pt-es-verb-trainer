@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "outorgar"
+  },
+  "InfP": {
+    "1s": "outorgar",
+    "2s": "outorgares",
+    "3s": "outorgar",
+    "1p": "outorgarmos",
+    "2p": "outorgardes",
+    "3p": "outorgarem"
+  },
+  "Ger": {
+    "": "outorgando"
+  },
+  "PresI": {
+    "1s": "outorgo",
+    "2s": "outorgas",
+    "3s": "outorga",
+    "1p": "outorgamos",
+    "2p": "outorgais",
+    "3p": "outorgam"
+  },
+  "PImpI": {
+    "1s": "outorgava",
+    "2s": "outorgavas",
+    "3s": "outorgava",
+    "1p": "outorgávamos",
+    "2p": "outorgáveis",
+    "3p": "outorgavam"
+  },
+  "PPSI": {
+    "1s": "outorguei",
+    "2s": "outorgaste",
+    "3s": "outorgou",
+    "1p": "outorgámos",
+    "2p": "outorgastes",
+    "3p": "outorgaram"
+  },
+  "PMQPSI": {
+    "1s": "outorgara",
+    "2s": "outorgaras",
+    "3s": "outorgara",
+    "1p": "outorgáramos",
+    "2p": "outorgáreis",
+    "3p": "outorgaram"
+  },
+  "FutSI": {
+    "1s": "outorgarei",
+    "2s": "outorgarás",
+    "3s": "outorgará",
+    "1p": "outorgaremos",
+    "2p": "outorgareis",
+    "3p": "outorgarão"
+  },
+  "CondS": {
+    "1s": "outorgaria",
+    "2s": "outorgarias",
+    "3s": "outorgaria",
+    "1p": "outorgaríamos",
+    "2p": "outorgaríeis",
+    "3p": "outorgariam"
+  },
+  "PresC": {
+    "1s": "outorgue",
+    "2s": "outorgues",
+    "3s": "outorgue",
+    "1p": "outorguemos",
+    "2p": "outorgueis",
+    "3p": "outorguem"
+  },
+  "PImpC": {
+    "1s": "outorgasse",
+    "2s": "outorgasses",
+    "3s": "outorgasse",
+    "1p": "outorgássemos",
+    "2p": "outorgásseis",
+    "3p": "outorgassem"
+  },
+  "FutSC": {
+    "1s": "outorgar",
+    "2s": "outorgares",
+    "3s": "outorgar",
+    "1p": "outorgarmos",
+    "2p": "outorgardes",
+    "3p": "outorgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "outorga",
+    "3s": "outorgue",
+    "1p": "outorguemos",
+    "2p": "outorgai",
+    "3p": "outorguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não outorgues",
+    "3s": "não outorgue",
+    "1p": "não outorguemos",
+    "2p": "não outorgueis",
+    "3p": "não outorguem"
+  },
+  "Part-ter": {
+    "": "outorgado"
+  },
+  "Part-ser": {
+    "ms": "outorgado",
+    "fs": "outorgada",
+    "mp": "outorgados",
+    "fp": "outorgadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "frigir"
+  },
+  "InfP": {
+    "1s": "frigir",
+    "2s": "frigires",
+    "3s": "frigir",
+    "1p": "frigirmos",
+    "2p": "frigirdes",
+    "3p": "frigirem"
+  },
+  "Ger": {
+    "": "frigindo"
+  },
+  "PresI": {
+    "1s": "frijo",
+    "2s": "friges",
+    "3s": "frige",
+    "1p": "frigimos",
+    "2p": "frigis",
+    "3p": "frigem"
+  },
+  "PImpI": {
+    "1s": "frigia",
+    "2s": "frigias",
+    "3s": "frigia",
+    "1p": "frigíamos",
+    "2p": "frigíeis",
+    "3p": "frigiam"
+  },
+  "PPSI": {
+    "1s": "frigi",
+    "2s": "frigiste",
+    "3s": "frigiu",
+    "1p": "frigimos",
+    "2p": "frigistes",
+    "3p": "frigiram"
+  },
+  "PMQPSI": {
+    "1s": "frigira",
+    "2s": "frigiras",
+    "3s": "frigira",
+    "1p": "frigíramos",
+    "2p": "frigíreis",
+    "3p": "frigiram"
+  },
+  "FutSI": {
+    "1s": "frigirei",
+    "2s": "frigirás",
+    "3s": "frigirá",
+    "1p": "frigiremos",
+    "2p": "frigireis",
+    "3p": "frigirão"
+  },
+  "CondS": {
+    "1s": "frigiria",
+    "2s": "frigirias",
+    "3s": "frigiria",
+    "1p": "frigiríamos",
+    "2p": "frigiríeis",
+    "3p": "frigiriam"
+  },
+  "PresC": {
+    "1s": "frija",
+    "2s": "frijas",
+    "3s": "frija",
+    "1p": "frijamos",
+    "2p": "frijais",
+    "3p": "frijam"
+  },
+  "PImpC": {
+    "1s": "frigisse",
+    "2s": "frigisses",
+    "3s": "frigisse",
+    "1p": "frigíssemos",
+    "2p": "frigísseis",
+    "3p": "frigissem"
+  },
+  "FutSC": {
+    "1s": "frigir",
+    "2s": "frigires",
+    "3s": "frigir",
+    "1p": "frigirmos",
+    "2p": "frigirdes",
+    "3p": "frigirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "frige",
+    "3s": "frija",
+    "1p": "frijamos",
+    "2p": "frigi",
+    "3p": "frijam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não frijas",
+    "3s": "não frija",
+    "1p": "não frijamos",
+    "2p": "não frijais",
+    "3p": "não frijam"
+  },
+  "Part-ter": {
+    "": "frigido"
+  },
+  "Part-ser": {
+    "ms": "frigido",
+    "fs": "frigida",
+    "mp": "frigidos",
+    "fp": "frigidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "detenerse"
+  },
+  "Ger": {
+    "": "deteniéndose"
+  },
+  "PresI": {
+    "1s": "me detengo",
+    "2s": "te detienes",
+    "3s": "se detiene",
+    "1p": "nos detenemos",
+    "2p": "os detenéis",
+    "3p": "se detienen"
+  },
+  "PImpI": {
+    "1s": "me detenía",
+    "2s": "te detenías",
+    "3s": "se detenía",
+    "1p": "nos deteníamos",
+    "2p": "os deteníais",
+    "3p": "se detenían"
+  },
+  "PPSI": {
+    "1s": "me detuve",
+    "2s": "te detuviste",
+    "3s": "se detuvo",
+    "1p": "nos detuvimos",
+    "2p": "os detuvisteis",
+    "3p": "se detuvieron"
+  },
+  "FutSI": {
+    "1s": "me detendré",
+    "2s": "te detendrás",
+    "3s": "se detendrá",
+    "1p": "nos detendremos",
+    "2p": "os detendréis",
+    "3p": "se detendrán"
+  },
+  "CondS": {
+    "1s": "me detendría",
+    "2s": "te detendrías",
+    "3s": "se detendría",
+    "1p": "nos detendríamos",
+    "2p": "os detendríais",
+    "3p": "se detendrían"
+  },
+  "PresC": {
+    "1s": "me detenga",
+    "2s": "te detengas",
+    "3s": "se detenga",
+    "1p": "nos detengamos",
+    "2p": "os detengáis",
+    "3p": "se detengan"
+  },
+  "PMQPSI": {
+    "1s": "me detuviera",
+    "2s": "te detuvieras",
+    "3s": "se detuviera",
+    "1p": "nos detuviéramos",
+    "2p": "os detuvierais",
+    "3p": "se detuvieran"
+  },
+  "PImpC": {
+    "1s": "me detuviese",
+    "2s": "te detuvieses",
+    "3s": "se detuviese",
+    "1p": "nos detuviésemos",
+    "2p": "os detuvieseis",
+    "3p": "se detuviesen"
+  },
+  "FutSC": {
+    "1s": "me detuviere",
+    "2s": "te detuvieres",
+    "3s": "se detuviere",
+    "1p": "nos detuviéremos",
+    "2p": "os detuviereis",
+    "3p": "se detuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "detente",
+    "3s": "deténgase",
+    "1p": "detengámonos",
+    "2p": "deteneos",
+    "3p": "deténganse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te detengas",
+    "3s": "no se detenga",
+    "1p": "no nos detengamos",
+    "2p": "no os detengáis",
+    "3p": "no se detengan"
+  },
+  "Part-ter": {
+    "": "detenido"
+  },
+  "Part-ser": {
+    "ms": "detenido",
+    "fs": "detenida",
+    "mp": "detenidos",
+    "fp": "detenidas"
+  }
+}

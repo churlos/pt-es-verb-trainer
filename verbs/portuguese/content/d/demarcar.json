@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "demarcar"
+  },
+  "InfP": {
+    "1s": "demarcar",
+    "2s": "demarcares",
+    "3s": "demarcar",
+    "1p": "demarcarmos",
+    "2p": "demarcardes",
+    "3p": "demarcarem"
+  },
+  "Ger": {
+    "": "demarcando"
+  },
+  "PresI": {
+    "1s": "demarco",
+    "2s": "demarcas",
+    "3s": "demarca",
+    "1p": "demarcamos",
+    "2p": "demarcais",
+    "3p": "demarcam"
+  },
+  "PImpI": {
+    "1s": "demarcava",
+    "2s": "demarcavas",
+    "3s": "demarcava",
+    "1p": "demarcávamos",
+    "2p": "demarcáveis",
+    "3p": "demarcavam"
+  },
+  "PPSI": {
+    "1s": "demarquei",
+    "2s": "demarcaste",
+    "3s": "demarcou",
+    "1p": "demarcámos",
+    "2p": "demarcastes",
+    "3p": "demarcaram"
+  },
+  "PMQPSI": {
+    "1s": "demarcara",
+    "2s": "demarcaras",
+    "3s": "demarcara",
+    "1p": "demarcáramos",
+    "2p": "demarcáreis",
+    "3p": "demarcaram"
+  },
+  "FutSI": {
+    "1s": "demarcarei",
+    "2s": "demarcarás",
+    "3s": "demarcará",
+    "1p": "demarcaremos",
+    "2p": "demarcareis",
+    "3p": "demarcarão"
+  },
+  "CondS": {
+    "1s": "demarcaria",
+    "2s": "demarcarias",
+    "3s": "demarcaria",
+    "1p": "demarcaríamos",
+    "2p": "demarcaríeis",
+    "3p": "demarcariam"
+  },
+  "PresC": {
+    "1s": "demarque",
+    "2s": "demarques",
+    "3s": "demarque",
+    "1p": "demarquemos",
+    "2p": "demarqueis",
+    "3p": "demarquem"
+  },
+  "PImpC": {
+    "1s": "demarcasse",
+    "2s": "demarcasses",
+    "3s": "demarcasse",
+    "1p": "demarcássemos",
+    "2p": "demarcásseis",
+    "3p": "demarcassem"
+  },
+  "FutSC": {
+    "1s": "demarcar",
+    "2s": "demarcares",
+    "3s": "demarcar",
+    "1p": "demarcarmos",
+    "2p": "demarcardes",
+    "3p": "demarcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demarca",
+    "3s": "demarque",
+    "1p": "demarquemos",
+    "2p": "demarcai",
+    "3p": "demarquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não demarques",
+    "3s": "não demarque",
+    "1p": "não demarquemos",
+    "2p": "não demarqueis",
+    "3p": "não demarquem"
+  },
+  "Part-ter": {
+    "": "demarcado"
+  },
+  "Part-ser": {
+    "ms": "demarcado",
+    "fs": "demarcada",
+    "mp": "demarcados",
+    "fp": "demarcadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "telegrafar"
+  },
+  "InfP": {
+    "1s": "telegrafar",
+    "2s": "telegrafares",
+    "3s": "telegrafar",
+    "1p": "telegrafarmos",
+    "2p": "telegrafardes",
+    "3p": "telegrafarem"
+  },
+  "Ger": {
+    "": "telegrafando"
+  },
+  "PresI": {
+    "1s": "telegrafo",
+    "2s": "telegrafas",
+    "3s": "telegrafa",
+    "1p": "telegrafamos",
+    "2p": "telegrafais",
+    "3p": "telegrafam"
+  },
+  "PImpI": {
+    "1s": "telegrafava",
+    "2s": "telegrafavas",
+    "3s": "telegrafava",
+    "1p": "telegrafávamos",
+    "2p": "telegrafáveis",
+    "3p": "telegrafavam"
+  },
+  "PPSI": {
+    "1s": "telegrafei",
+    "2s": "telegrafaste",
+    "3s": "telegrafou",
+    "1p": "telegrafámos",
+    "2p": "telegrafastes",
+    "3p": "telegrafaram"
+  },
+  "PMQPSI": {
+    "1s": "telegrafara",
+    "2s": "telegrafaras",
+    "3s": "telegrafara",
+    "1p": "telegrafáramos",
+    "2p": "telegrafáreis",
+    "3p": "telegrafaram"
+  },
+  "FutSI": {
+    "1s": "telegrafarei",
+    "2s": "telegrafarás",
+    "3s": "telegrafará",
+    "1p": "telegrafaremos",
+    "2p": "telegrafareis",
+    "3p": "telegrafarão"
+  },
+  "CondS": {
+    "1s": "telegrafaria",
+    "2s": "telegrafarias",
+    "3s": "telegrafaria",
+    "1p": "telegrafaríamos",
+    "2p": "telegrafaríeis",
+    "3p": "telegrafariam"
+  },
+  "PresC": {
+    "1s": "telegrafe",
+    "2s": "telegrafes",
+    "3s": "telegrafe",
+    "1p": "telegrafemos",
+    "2p": "telegrafeis",
+    "3p": "telegrafem"
+  },
+  "PImpC": {
+    "1s": "telegrafasse",
+    "2s": "telegrafasses",
+    "3s": "telegrafasse",
+    "1p": "telegrafássemos",
+    "2p": "telegrafásseis",
+    "3p": "telegrafassem"
+  },
+  "FutSC": {
+    "1s": "telegrafar",
+    "2s": "telegrafares",
+    "3s": "telegrafar",
+    "1p": "telegrafarmos",
+    "2p": "telegrafardes",
+    "3p": "telegrafarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "telegrafa",
+    "3s": "telegrafe",
+    "1p": "telegrafemos",
+    "2p": "telegrafai",
+    "3p": "telegrafem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não telegrafes",
+    "3s": "não telegrafe",
+    "1p": "não telegrafemos",
+    "2p": "não telegrafeis",
+    "3p": "não telegrafem"
+  },
+  "Part-ter": {
+    "": "telegrafado"
+  },
+  "Part-ser": {
+    "ms": "telegrafado",
+    "fs": "telegrafada",
+    "mp": "telegrafados",
+    "fp": "telegrafadas"
+  }
+}

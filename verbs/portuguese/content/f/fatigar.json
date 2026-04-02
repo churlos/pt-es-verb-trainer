@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fatigar"
+  },
+  "InfP": {
+    "1s": "fatigar",
+    "2s": "fatigares",
+    "3s": "fatigar",
+    "1p": "fatigarmos",
+    "2p": "fatigardes",
+    "3p": "fatigarem"
+  },
+  "Ger": {
+    "": "fatigando"
+  },
+  "PresI": {
+    "1s": "fatigo",
+    "2s": "fatigas",
+    "3s": "fatiga",
+    "1p": "fatigamos",
+    "2p": "fatigais",
+    "3p": "fatigam"
+  },
+  "PImpI": {
+    "1s": "fatigava",
+    "2s": "fatigavas",
+    "3s": "fatigava",
+    "1p": "fatigávamos",
+    "2p": "fatigáveis",
+    "3p": "fatigavam"
+  },
+  "PPSI": {
+    "1s": "fatiguei",
+    "2s": "fatigaste",
+    "3s": "fatigou",
+    "1p": "fatigámos",
+    "2p": "fatigastes",
+    "3p": "fatigaram"
+  },
+  "PMQPSI": {
+    "1s": "fatigara",
+    "2s": "fatigaras",
+    "3s": "fatigara",
+    "1p": "fatigáramos",
+    "2p": "fatigáreis",
+    "3p": "fatigaram"
+  },
+  "FutSI": {
+    "1s": "fatigarei",
+    "2s": "fatigarás",
+    "3s": "fatigará",
+    "1p": "fatigaremos",
+    "2p": "fatigareis",
+    "3p": "fatigarão"
+  },
+  "CondS": {
+    "1s": "fatigaria",
+    "2s": "fatigarias",
+    "3s": "fatigaria",
+    "1p": "fatigaríamos",
+    "2p": "fatigaríeis",
+    "3p": "fatigariam"
+  },
+  "PresC": {
+    "1s": "fatigue",
+    "2s": "fatigues",
+    "3s": "fatigue",
+    "1p": "fatiguemos",
+    "2p": "fatigueis",
+    "3p": "fatiguem"
+  },
+  "PImpC": {
+    "1s": "fatigasse",
+    "2s": "fatigasses",
+    "3s": "fatigasse",
+    "1p": "fatigássemos",
+    "2p": "fatigásseis",
+    "3p": "fatigassem"
+  },
+  "FutSC": {
+    "1s": "fatigar",
+    "2s": "fatigares",
+    "3s": "fatigar",
+    "1p": "fatigarmos",
+    "2p": "fatigardes",
+    "3p": "fatigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fatiga",
+    "3s": "fatigue",
+    "1p": "fatiguemos",
+    "2p": "fatigai",
+    "3p": "fatiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fatigues",
+    "3s": "não fatigue",
+    "1p": "não fatiguemos",
+    "2p": "não fatigueis",
+    "3p": "não fatiguem"
+  },
+  "Part-ter": {
+    "": "fatigado"
+  },
+  "Part-ser": {
+    "ms": "fatigado",
+    "fs": "fatigada",
+    "mp": "fatigados",
+    "fp": "fatigadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "andar"
+  },
+  "InfP": {
+    "1s": "andar",
+    "2s": "andares",
+    "3s": "andar",
+    "1p": "andarmos",
+    "2p": "andardes",
+    "3p": "andarem"
+  },
+  "Ger": {
+    "": "andando"
+  },
+  "PresI": {
+    "1s": "ando",
+    "2s": "andas",
+    "3s": "anda",
+    "1p": "andamos",
+    "2p": "andais",
+    "3p": "andam"
+  },
+  "PImpI": {
+    "1s": "andava",
+    "2s": "andavas",
+    "3s": "andava",
+    "1p": "andávamos",
+    "2p": "andáveis",
+    "3p": "andavam"
+  },
+  "PPSI": {
+    "1s": "andei",
+    "2s": "andaste",
+    "3s": "andou",
+    "1p": "andámos",
+    "2p": "andastes",
+    "3p": "andaram"
+  },
+  "PMQPSI": {
+    "1s": "andara",
+    "2s": "andaras",
+    "3s": "andara",
+    "1p": "andáramos",
+    "2p": "andáreis",
+    "3p": "andaram"
+  },
+  "FutSI": {
+    "1s": "andarei",
+    "2s": "andarás",
+    "3s": "andará",
+    "1p": "andaremos",
+    "2p": "andareis",
+    "3p": "andarão"
+  },
+  "CondS": {
+    "1s": "andaria",
+    "2s": "andarias",
+    "3s": "andaria",
+    "1p": "andaríamos",
+    "2p": "andaríeis",
+    "3p": "andariam"
+  },
+  "PresC": {
+    "1s": "ande",
+    "2s": "andes",
+    "3s": "ande",
+    "1p": "andemos",
+    "2p": "andeis",
+    "3p": "andem"
+  },
+  "PImpC": {
+    "1s": "andasse",
+    "2s": "andasses",
+    "3s": "andasse",
+    "1p": "andássemos",
+    "2p": "andásseis",
+    "3p": "andassem"
+  },
+  "FutSC": {
+    "1s": "andar",
+    "2s": "andares",
+    "3s": "andar",
+    "1p": "andarmos",
+    "2p": "andardes",
+    "3p": "andarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anda",
+    "3s": "ande",
+    "1p": "andemos",
+    "2p": "andai",
+    "3p": "andem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não andes",
+    "3s": "não ande",
+    "1p": "não andemos",
+    "2p": "não andeis",
+    "3p": "não andem"
+  },
+  "Part-ter": {
+    "": "andado"
+  },
+  "Part-ser": {
+    "ms": "andado",
+    "fs": "andada",
+    "mp": "andados",
+    "fp": "andadas"
+  }
+}

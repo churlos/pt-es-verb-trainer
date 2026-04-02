@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "flanquear"
+  },
+  "InfP": {
+    "1s": "flanquear",
+    "2s": "flanqueares",
+    "3s": "flanquear",
+    "1p": "flanquearmos",
+    "2p": "flanqueardes",
+    "3p": "flanquearem"
+  },
+  "Ger": {
+    "": "flanqueando"
+  },
+  "PresI": {
+    "1s": "flanqueio",
+    "2s": "flanqueias",
+    "3s": "flanqueia",
+    "1p": "flanqueamos",
+    "2p": "flanqueais",
+    "3p": "flanqueiam"
+  },
+  "PImpI": {
+    "1s": "flanqueava",
+    "2s": "flanqueavas",
+    "3s": "flanqueava",
+    "1p": "flanqueávamos",
+    "2p": "flanqueáveis",
+    "3p": "flanqueavam"
+  },
+  "PPSI": {
+    "1s": "flanqueei",
+    "2s": "flanqueaste",
+    "3s": "flanqueou",
+    "1p": "flanqueámos",
+    "2p": "flanqueastes",
+    "3p": "flanquearam"
+  },
+  "PMQPSI": {
+    "1s": "flanqueara",
+    "2s": "flanquearas",
+    "3s": "flanqueara",
+    "1p": "flanqueáramos",
+    "2p": "flanqueáreis",
+    "3p": "flanquearam"
+  },
+  "FutSI": {
+    "1s": "flanquearei",
+    "2s": "flanquearás",
+    "3s": "flanqueará",
+    "1p": "flanquearemos",
+    "2p": "flanqueareis",
+    "3p": "flanquearão"
+  },
+  "CondS": {
+    "1s": "flanquearia",
+    "2s": "flanquearias",
+    "3s": "flanquearia",
+    "1p": "flanquearíamos",
+    "2p": "flanquearíeis",
+    "3p": "flanqueariam"
+  },
+  "PresC": {
+    "1s": "flanqueie",
+    "2s": "flanqueies",
+    "3s": "flanqueie",
+    "1p": "flanqueemos",
+    "2p": "flanqueeis",
+    "3p": "flanqueiem"
+  },
+  "PImpC": {
+    "1s": "flanqueasse",
+    "2s": "flanqueasses",
+    "3s": "flanqueasse",
+    "1p": "flanqueássemos",
+    "2p": "flanqueásseis",
+    "3p": "flanqueassem"
+  },
+  "FutSC": {
+    "1s": "flanquear",
+    "2s": "flanqueares",
+    "3s": "flanquear",
+    "1p": "flanquearmos",
+    "2p": "flanqueardes",
+    "3p": "flanquearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flanqueia",
+    "3s": "flanqueie",
+    "1p": "flanqueemos",
+    "2p": "flanqueai",
+    "3p": "flanqueiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não flanqueies",
+    "3s": "não flanqueie",
+    "1p": "não flanqueemos",
+    "2p": "não flanqueeis",
+    "3p": "não flanqueiem"
+  },
+  "Part-ter": {
+    "": "flanqueado"
+  },
+  "Part-ser": {
+    "ms": "flanqueado",
+    "fs": "flanqueada",
+    "mp": "flanqueados",
+    "fp": "flanqueadas"
+  }
+}

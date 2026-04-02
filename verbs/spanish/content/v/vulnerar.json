@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vulnerar"
+  },
+  "Ger": {
+    "": "vulnerando"
+  },
+  "PresI": {
+    "1s": "vulnero",
+    "2s": "vulneras",
+    "3s": "vulnera",
+    "1p": "vulneramos",
+    "2p": "vulneráis",
+    "3p": "vulneran"
+  },
+  "PImpI": {
+    "1s": "vulneraba",
+    "2s": "vulnerabas",
+    "3s": "vulneraba",
+    "1p": "vulnerábamos",
+    "2p": "vulnerabais",
+    "3p": "vulneraban"
+  },
+  "PPSI": {
+    "1s": "vulneré",
+    "2s": "vulneraste",
+    "3s": "vulneró",
+    "1p": "vulneramos",
+    "2p": "vulnerasteis",
+    "3p": "vulneraron"
+  },
+  "FutSI": {
+    "1s": "vulneraré",
+    "2s": "vulnerarás",
+    "3s": "vulnerará",
+    "1p": "vulneraremos",
+    "2p": "vulneraréis",
+    "3p": "vulnerarán"
+  },
+  "CondS": {
+    "1s": "vulneraría",
+    "2s": "vulnerarías",
+    "3s": "vulneraría",
+    "1p": "vulneraríamos",
+    "2p": "vulneraríais",
+    "3p": "vulnerarían"
+  },
+  "PresC": {
+    "1s": "vulnere",
+    "2s": "vulneres",
+    "3s": "vulnere",
+    "1p": "vulneremos",
+    "2p": "vulneréis",
+    "3p": "vulneren"
+  },
+  "PMQPSI": {
+    "1s": "vulnerara",
+    "2s": "vulneraras",
+    "3s": "vulnerara",
+    "1p": "vulneráramos",
+    "2p": "vulnerarais",
+    "3p": "vulneraran"
+  },
+  "PImpC": {
+    "1s": "vulnerase",
+    "2s": "vulnerases",
+    "3s": "vulnerase",
+    "1p": "vulnerásemos",
+    "2p": "vulneraseis",
+    "3p": "vulnerasen"
+  },
+  "FutSC": {
+    "1s": "vulnerare",
+    "2s": "vulnerares",
+    "3s": "vulnerare",
+    "1p": "vulneráremos",
+    "2p": "vulnerareis",
+    "3p": "vulneraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vulnera",
+    "3s": "vulnere",
+    "1p": "vulneremos",
+    "2p": "vulnerad",
+    "3p": "vulneren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vulneres",
+    "3s": "no vulnere",
+    "1p": "no vulneremos",
+    "2p": "no vulneréis",
+    "3p": "no vulneren"
+  },
+  "Part-ter": {
+    "": "vulnerado"
+  },
+  "Part-ser": {
+    "ms": "vulnerado",
+    "fs": "vulnerada",
+    "mp": "vulnerados",
+    "fp": "vulneradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fiar"
+  },
+  "InfP": {
+    "1s": "fiar",
+    "2s": "fiares",
+    "3s": "fiar",
+    "1p": "fiarmos",
+    "2p": "fiardes",
+    "3p": "fiarem"
+  },
+  "Ger": {
+    "": "fiando"
+  },
+  "PresI": {
+    "1s": "fio",
+    "2s": "fias",
+    "3s": "fia",
+    "1p": "fiamos",
+    "2p": "fiais",
+    "3p": "fiam"
+  },
+  "PImpI": {
+    "1s": "fiava",
+    "2s": "fiavas",
+    "3s": "fiava",
+    "1p": "fiávamos",
+    "2p": "fiáveis",
+    "3p": "fiavam"
+  },
+  "PPSI": {
+    "1s": "fiei",
+    "2s": "fiaste",
+    "3s": "fiou",
+    "1p": "fiámos",
+    "2p": "fiastes",
+    "3p": "fiaram"
+  },
+  "PMQPSI": {
+    "1s": "fiara",
+    "2s": "fiaras",
+    "3s": "fiara",
+    "1p": "fiáramos",
+    "2p": "fiáreis",
+    "3p": "fiaram"
+  },
+  "FutSI": {
+    "1s": "fiarei",
+    "2s": "fiarás",
+    "3s": "fiará",
+    "1p": "fiaremos",
+    "2p": "fiareis",
+    "3p": "fiarão"
+  },
+  "CondS": {
+    "1s": "fiaria",
+    "2s": "fiarias",
+    "3s": "fiaria",
+    "1p": "fiaríamos",
+    "2p": "fiaríeis",
+    "3p": "fiariam"
+  },
+  "PresC": {
+    "1s": "fie",
+    "2s": "fies",
+    "3s": "fie",
+    "1p": "fiemos",
+    "2p": "fieis",
+    "3p": "fiem"
+  },
+  "PImpC": {
+    "1s": "fiasse",
+    "2s": "fiasses",
+    "3s": "fiasse",
+    "1p": "fiássemos",
+    "2p": "fiásseis",
+    "3p": "fiassem"
+  },
+  "FutSC": {
+    "1s": "fiar",
+    "2s": "fiares",
+    "3s": "fiar",
+    "1p": "fiarmos",
+    "2p": "fiardes",
+    "3p": "fiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fia",
+    "3s": "fie",
+    "1p": "fiemos",
+    "2p": "fiai",
+    "3p": "fiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fies",
+    "3s": "não fie",
+    "1p": "não fiemos",
+    "2p": "não fieis",
+    "3p": "não fiem"
+  },
+  "Part-ter": {
+    "": "fiado"
+  },
+  "Part-ser": {
+    "ms": "fiado",
+    "fs": "fiada",
+    "mp": "fiados",
+    "fp": "fiadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "felicitar"
+  },
+  "InfP": {
+    "1s": "felicitar",
+    "2s": "felicitares",
+    "3s": "felicitar",
+    "1p": "felicitarmos",
+    "2p": "felicitardes",
+    "3p": "felicitarem"
+  },
+  "Ger": {
+    "": "felicitando"
+  },
+  "PresI": {
+    "1s": "felicito",
+    "2s": "felicitas",
+    "3s": "felicita",
+    "1p": "felicitamos",
+    "2p": "felicitais",
+    "3p": "felicitam"
+  },
+  "PImpI": {
+    "1s": "felicitava",
+    "2s": "felicitavas",
+    "3s": "felicitava",
+    "1p": "felicitávamos",
+    "2p": "felicitáveis",
+    "3p": "felicitavam"
+  },
+  "PPSI": {
+    "1s": "felicitei",
+    "2s": "felicitaste",
+    "3s": "felicitou",
+    "1p": "felicitámos",
+    "2p": "felicitastes",
+    "3p": "felicitaram"
+  },
+  "PMQPSI": {
+    "1s": "felicitara",
+    "2s": "felicitaras",
+    "3s": "felicitara",
+    "1p": "felicitáramos",
+    "2p": "felicitáreis",
+    "3p": "felicitaram"
+  },
+  "FutSI": {
+    "1s": "felicitarei",
+    "2s": "felicitarás",
+    "3s": "felicitará",
+    "1p": "felicitaremos",
+    "2p": "felicitareis",
+    "3p": "felicitarão"
+  },
+  "CondS": {
+    "1s": "felicitaria",
+    "2s": "felicitarias",
+    "3s": "felicitaria",
+    "1p": "felicitaríamos",
+    "2p": "felicitaríeis",
+    "3p": "felicitariam"
+  },
+  "PresC": {
+    "1s": "felicite",
+    "2s": "felicites",
+    "3s": "felicite",
+    "1p": "felicitemos",
+    "2p": "feliciteis",
+    "3p": "felicitem"
+  },
+  "PImpC": {
+    "1s": "felicitasse",
+    "2s": "felicitasses",
+    "3s": "felicitasse",
+    "1p": "felicitássemos",
+    "2p": "felicitásseis",
+    "3p": "felicitassem"
+  },
+  "FutSC": {
+    "1s": "felicitar",
+    "2s": "felicitares",
+    "3s": "felicitar",
+    "1p": "felicitarmos",
+    "2p": "felicitardes",
+    "3p": "felicitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "felicita",
+    "3s": "felicite",
+    "1p": "felicitemos",
+    "2p": "felicitai",
+    "3p": "felicitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não felicites",
+    "3s": "não felicite",
+    "1p": "não felicitemos",
+    "2p": "não feliciteis",
+    "3p": "não felicitem"
+  },
+  "Part-ter": {
+    "": "felicitado"
+  },
+  "Part-ser": {
+    "ms": "felicitado",
+    "fs": "felicitada",
+    "mp": "felicitados",
+    "fp": "felicitadas"
+  }
+}

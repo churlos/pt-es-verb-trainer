@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "honrar"
+  },
+  "InfP": {
+    "1s": "honrar",
+    "2s": "honrares",
+    "3s": "honrar",
+    "1p": "honrarmos",
+    "2p": "honrardes",
+    "3p": "honrarem"
+  },
+  "Ger": {
+    "": "honrando"
+  },
+  "PresI": {
+    "1s": "honro",
+    "2s": "honras",
+    "3s": "honra",
+    "1p": "honramos",
+    "2p": "honrais",
+    "3p": "honram"
+  },
+  "PImpI": {
+    "1s": "honrava",
+    "2s": "honravas",
+    "3s": "honrava",
+    "1p": "honrávamos",
+    "2p": "honráveis",
+    "3p": "honravam"
+  },
+  "PPSI": {
+    "1s": "honrei",
+    "2s": "honraste",
+    "3s": "honrou",
+    "1p": "honrámos",
+    "2p": "honrastes",
+    "3p": "honraram"
+  },
+  "PMQPSI": {
+    "1s": "honrara",
+    "2s": "honraras",
+    "3s": "honrara",
+    "1p": "honráramos",
+    "2p": "honráreis",
+    "3p": "honraram"
+  },
+  "FutSI": {
+    "1s": "honrarei",
+    "2s": "honrarás",
+    "3s": "honrará",
+    "1p": "honraremos",
+    "2p": "honrareis",
+    "3p": "honrarão"
+  },
+  "CondS": {
+    "1s": "honraria",
+    "2s": "honrarias",
+    "3s": "honraria",
+    "1p": "honraríamos",
+    "2p": "honraríeis",
+    "3p": "honrariam"
+  },
+  "PresC": {
+    "1s": "honre",
+    "2s": "honres",
+    "3s": "honre",
+    "1p": "honremos",
+    "2p": "honreis",
+    "3p": "honrem"
+  },
+  "PImpC": {
+    "1s": "honrasse",
+    "2s": "honrasses",
+    "3s": "honrasse",
+    "1p": "honrássemos",
+    "2p": "honrásseis",
+    "3p": "honrassem"
+  },
+  "FutSC": {
+    "1s": "honrar",
+    "2s": "honrares",
+    "3s": "honrar",
+    "1p": "honrarmos",
+    "2p": "honrardes",
+    "3p": "honrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "honra",
+    "3s": "honre",
+    "1p": "honremos",
+    "2p": "honrai",
+    "3p": "honrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não honres",
+    "3s": "não honre",
+    "1p": "não honremos",
+    "2p": "não honreis",
+    "3p": "não honrem"
+  },
+  "Part-ter": {
+    "": "honrado"
+  },
+  "Part-ser": {
+    "ms": "honrado",
+    "fs": "honrada",
+    "mp": "honrados",
+    "fp": "honradas"
+  }
+}

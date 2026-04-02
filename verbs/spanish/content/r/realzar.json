@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "realzar"
+  },
+  "Ger": {
+    "": "realzando"
+  },
+  "PresI": {
+    "1s": "realzo",
+    "2s": "realzas",
+    "3s": "realza",
+    "1p": "realzamos",
+    "2p": "realzáis",
+    "3p": "realzan"
+  },
+  "PImpI": {
+    "1s": "realzaba",
+    "2s": "realzabas",
+    "3s": "realzaba",
+    "1p": "realzábamos",
+    "2p": "realzabais",
+    "3p": "realzaban"
+  },
+  "PPSI": {
+    "1s": "realcé",
+    "2s": "realzaste",
+    "3s": "realzó",
+    "1p": "realzamos",
+    "2p": "realzasteis",
+    "3p": "realzaron"
+  },
+  "FutSI": {
+    "1s": "realzaré",
+    "2s": "realzarás",
+    "3s": "realzará",
+    "1p": "realzaremos",
+    "2p": "realzaréis",
+    "3p": "realzarán"
+  },
+  "CondS": {
+    "1s": "realzaría",
+    "2s": "realzarías",
+    "3s": "realzaría",
+    "1p": "realzaríamos",
+    "2p": "realzaríais",
+    "3p": "realzarían"
+  },
+  "PresC": {
+    "1s": "realce",
+    "2s": "realces",
+    "3s": "realce",
+    "1p": "realcemos",
+    "2p": "realcéis",
+    "3p": "realcen"
+  },
+  "PMQPSI": {
+    "1s": "realzara",
+    "2s": "realzaras",
+    "3s": "realzara",
+    "1p": "realzáramos",
+    "2p": "realzarais",
+    "3p": "realzaran"
+  },
+  "PImpC": {
+    "1s": "realzase",
+    "2s": "realzases",
+    "3s": "realzase",
+    "1p": "realzásemos",
+    "2p": "realzaseis",
+    "3p": "realzasen"
+  },
+  "FutSC": {
+    "1s": "realzare",
+    "2s": "realzares",
+    "3s": "realzare",
+    "1p": "realzáremos",
+    "2p": "realzareis",
+    "3p": "realzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "realza",
+    "3s": "realce",
+    "1p": "realcemos",
+    "2p": "realzad",
+    "3p": "realcen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no realces",
+    "3s": "no realce",
+    "1p": "no realcemos",
+    "2p": "no realcéis",
+    "3p": "no realcen"
+  },
+  "Part-ter": {
+    "": "realzado"
+  },
+  "Part-ser": {
+    "ms": "realzado",
+    "fs": "realzada",
+    "mp": "realzados",
+    "fp": "realzadas"
+  }
+}

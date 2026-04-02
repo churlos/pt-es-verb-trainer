@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sobreinfectar"
+  },
+  "Ger": {
+    "": "sobreinfectando"
+  },
+  "PresI": {
+    "1s": "sobreinfecto",
+    "2s": "sobreinfectas",
+    "3s": "sobreinfecta",
+    "1p": "sobreinfectamos",
+    "2p": "sobreinfectáis",
+    "3p": "sobreinfectan"
+  },
+  "PImpI": {
+    "1s": "sobreinfectaba",
+    "2s": "sobreinfectabas",
+    "3s": "sobreinfectaba",
+    "1p": "sobreinfectábamos",
+    "2p": "sobreinfectabais",
+    "3p": "sobreinfectaban"
+  },
+  "PPSI": {
+    "1s": "sobreinfecté",
+    "2s": "sobreinfectaste",
+    "3s": "sobreinfectó",
+    "1p": "sobreinfectamos",
+    "2p": "sobreinfectasteis",
+    "3p": "sobreinfectaron"
+  },
+  "FutSI": {
+    "1s": "sobreinfectaré",
+    "2s": "sobreinfectarás",
+    "3s": "sobreinfectará",
+    "1p": "sobreinfectaremos",
+    "2p": "sobreinfectaréis",
+    "3p": "sobreinfectarán"
+  },
+  "CondS": {
+    "1s": "sobreinfectaría",
+    "2s": "sobreinfectarías",
+    "3s": "sobreinfectaría",
+    "1p": "sobreinfectaríamos",
+    "2p": "sobreinfectaríais",
+    "3p": "sobreinfectarían"
+  },
+  "PresC": {
+    "1s": "sobreinfecte",
+    "2s": "sobreinfectes",
+    "3s": "sobreinfecte",
+    "1p": "sobreinfectemos",
+    "2p": "sobreinfectéis",
+    "3p": "sobreinfecten"
+  },
+  "PMQPSI": {
+    "1s": "sobreinfectara",
+    "2s": "sobreinfectaras",
+    "3s": "sobreinfectara",
+    "1p": "sobreinfectáramos",
+    "2p": "sobreinfectarais",
+    "3p": "sobreinfectaran"
+  },
+  "PImpC": {
+    "1s": "sobreinfectase",
+    "2s": "sobreinfectases",
+    "3s": "sobreinfectase",
+    "1p": "sobreinfectásemos",
+    "2p": "sobreinfectaseis",
+    "3p": "sobreinfectasen"
+  },
+  "FutSC": {
+    "1s": "sobreinfectare",
+    "2s": "sobreinfectares",
+    "3s": "sobreinfectare",
+    "1p": "sobreinfectáremos",
+    "2p": "sobreinfectareis",
+    "3p": "sobreinfectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sobreinfecta",
+    "3s": "sobreinfecte",
+    "1p": "sobreinfectemos",
+    "2p": "sobreinfectad",
+    "3p": "sobreinfecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sobreinfectes",
+    "3s": "no sobreinfecte",
+    "1p": "no sobreinfectemos",
+    "2p": "no sobreinfectéis",
+    "3p": "no sobreinfecten"
+  },
+  "Part-ter": {
+    "": "sobreinfectado"
+  },
+  "Part-ser": {
+    "ms": "sobreinfectado",
+    "fs": "sobreinfectada",
+    "mp": "sobreinfectados",
+    "fp": "sobreinfectadas"
+  }
+}

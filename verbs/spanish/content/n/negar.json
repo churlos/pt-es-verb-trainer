@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "negar"
+  },
+  "Ger": {
+    "": "negando"
+  },
+  "PresI": {
+    "1s": "niego",
+    "2s": "niegas",
+    "3s": "niega",
+    "1p": "negamos",
+    "2p": "negáis",
+    "3p": "niegan"
+  },
+  "PImpI": {
+    "1s": "negaba",
+    "2s": "negabas",
+    "3s": "negaba",
+    "1p": "negábamos",
+    "2p": "negabais",
+    "3p": "negaban"
+  },
+  "PPSI": {
+    "1s": "negué",
+    "2s": "negaste",
+    "3s": "negó",
+    "1p": "negamos",
+    "2p": "negasteis",
+    "3p": "negaron"
+  },
+  "FutSI": {
+    "1s": "negaré",
+    "2s": "negarás",
+    "3s": "negará",
+    "1p": "negaremos",
+    "2p": "negaréis",
+    "3p": "negarán"
+  },
+  "CondS": {
+    "1s": "negaría",
+    "2s": "negarías",
+    "3s": "negaría",
+    "1p": "negaríamos",
+    "2p": "negaríais",
+    "3p": "negarían"
+  },
+  "PresC": {
+    "1s": "niegue",
+    "2s": "niegues",
+    "3s": "niegue",
+    "1p": "neguemos",
+    "2p": "neguéis",
+    "3p": "nieguen"
+  },
+  "PMQPSI": {
+    "1s": "negara",
+    "2s": "negaras",
+    "3s": "negara",
+    "1p": "negáramos",
+    "2p": "negarais",
+    "3p": "negaran"
+  },
+  "PImpC": {
+    "1s": "negase",
+    "2s": "negases",
+    "3s": "negase",
+    "1p": "negásemos",
+    "2p": "negaseis",
+    "3p": "negasen"
+  },
+  "FutSC": {
+    "1s": "negare",
+    "2s": "negares",
+    "3s": "negare",
+    "1p": "negáremos",
+    "2p": "negareis",
+    "3p": "negaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "niega",
+    "3s": "niegue",
+    "1p": "neguemos",
+    "2p": "negad",
+    "3p": "nieguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no niegues",
+    "3s": "no niegue",
+    "1p": "no neguemos",
+    "2p": "no neguéis",
+    "3p": "no nieguen"
+  },
+  "Part-ter": {
+    "": "negado"
+  },
+  "Part-ser": {
+    "ms": "negado",
+    "fs": "negada",
+    "mp": "negados",
+    "fp": "negadas"
+  }
+}

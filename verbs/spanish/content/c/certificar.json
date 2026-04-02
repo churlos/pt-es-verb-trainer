@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "certificar"
+  },
+  "Ger": {
+    "": "certificando"
+  },
+  "PresI": {
+    "1s": "certifico",
+    "2s": "certificas",
+    "3s": "certifica",
+    "1p": "certificamos",
+    "2p": "certificáis",
+    "3p": "certifican"
+  },
+  "PImpI": {
+    "1s": "certificaba",
+    "2s": "certificabas",
+    "3s": "certificaba",
+    "1p": "certificábamos",
+    "2p": "certificabais",
+    "3p": "certificaban"
+  },
+  "PPSI": {
+    "1s": "certifiqué",
+    "2s": "certificaste",
+    "3s": "certificó",
+    "1p": "certificamos",
+    "2p": "certificasteis",
+    "3p": "certificaron"
+  },
+  "FutSI": {
+    "1s": "certificaré",
+    "2s": "certificarás",
+    "3s": "certificará",
+    "1p": "certificaremos",
+    "2p": "certificaréis",
+    "3p": "certificarán"
+  },
+  "CondS": {
+    "1s": "certificaría",
+    "2s": "certificarías",
+    "3s": "certificaría",
+    "1p": "certificaríamos",
+    "2p": "certificaríais",
+    "3p": "certificarían"
+  },
+  "PresC": {
+    "1s": "certifique",
+    "2s": "certifiques",
+    "3s": "certifique",
+    "1p": "certifiquemos",
+    "2p": "certifiquéis",
+    "3p": "certifiquen"
+  },
+  "PMQPSI": {
+    "1s": "certificara",
+    "2s": "certificaras",
+    "3s": "certificara",
+    "1p": "certificáramos",
+    "2p": "certificarais",
+    "3p": "certificaran"
+  },
+  "PImpC": {
+    "1s": "certificase",
+    "2s": "certificases",
+    "3s": "certificase",
+    "1p": "certificásemos",
+    "2p": "certificaseis",
+    "3p": "certificasen"
+  },
+  "FutSC": {
+    "1s": "certificare",
+    "2s": "certificares",
+    "3s": "certificare",
+    "1p": "certificáremos",
+    "2p": "certificareis",
+    "3p": "certificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "certifica",
+    "3s": "certifique",
+    "1p": "certifiquemos",
+    "2p": "certificad",
+    "3p": "certifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no certifiques",
+    "3s": "no certifique",
+    "1p": "no certifiquemos",
+    "2p": "no certifiquéis",
+    "3p": "no certifiquen"
+  },
+  "Part-ter": {
+    "": "certificado"
+  },
+  "Part-ser": {
+    "ms": "certificado",
+    "fs": "certificada",
+    "mp": "certificados",
+    "fp": "certificadas"
+  }
+}

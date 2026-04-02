@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "disponibilizar"
+  },
+  "InfP": {
+    "1s": "disponibilizar",
+    "2s": "disponibilizares",
+    "3s": "disponibilizar",
+    "1p": "disponibilizarmos",
+    "2p": "disponibilizardes",
+    "3p": "disponibilizarem"
+  },
+  "Ger": {
+    "": "disponibilizando"
+  },
+  "PresI": {
+    "1s": "disponibilizo",
+    "2s": "disponibilizas",
+    "3s": "disponibiliza",
+    "1p": "disponibilizamos",
+    "2p": "disponibilizais",
+    "3p": "disponibilizam"
+  },
+  "PImpI": {
+    "1s": "disponibilizava",
+    "2s": "disponibilizavas",
+    "3s": "disponibilizava",
+    "1p": "disponibilizávamos",
+    "2p": "disponibilizáveis",
+    "3p": "disponibilizavam"
+  },
+  "PPSI": {
+    "1s": "disponibilizei",
+    "2s": "disponibilizaste",
+    "3s": "disponibilizou",
+    "1p": "disponibilizámos",
+    "2p": "disponibilizastes",
+    "3p": "disponibilizaram"
+  },
+  "PMQPSI": {
+    "1s": "disponibilizara",
+    "2s": "disponibilizaras",
+    "3s": "disponibilizara",
+    "1p": "disponibilizáramos",
+    "2p": "disponibilizáreis",
+    "3p": "disponibilizaram"
+  },
+  "FutSI": {
+    "1s": "disponibilizarei",
+    "2s": "disponibilizarás",
+    "3s": "disponibilizará",
+    "1p": "disponibilizaremos",
+    "2p": "disponibilizareis",
+    "3p": "disponibilizarão"
+  },
+  "CondS": {
+    "1s": "disponibilizaria",
+    "2s": "disponibilizarias",
+    "3s": "disponibilizaria",
+    "1p": "disponibilizaríamos",
+    "2p": "disponibilizaríeis",
+    "3p": "disponibilizariam"
+  },
+  "PresC": {
+    "1s": "disponibilize",
+    "2s": "disponibilizes",
+    "3s": "disponibilize",
+    "1p": "disponibilizemos",
+    "2p": "disponibilizeis",
+    "3p": "disponibilizem"
+  },
+  "PImpC": {
+    "1s": "disponibilizasse",
+    "2s": "disponibilizasses",
+    "3s": "disponibilizasse",
+    "1p": "disponibilizássemos",
+    "2p": "disponibilizásseis",
+    "3p": "disponibilizassem"
+  },
+  "FutSC": {
+    "1s": "disponibilizar",
+    "2s": "disponibilizares",
+    "3s": "disponibilizar",
+    "1p": "disponibilizarmos",
+    "2p": "disponibilizardes",
+    "3p": "disponibilizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "disponibiliza",
+    "3s": "disponibilize",
+    "1p": "disponibilizemos",
+    "2p": "disponibilizai",
+    "3p": "disponibilizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não disponibilizes",
+    "3s": "não disponibilize",
+    "1p": "não disponibilizemos",
+    "2p": "não disponibilizeis",
+    "3p": "não disponibilizem"
+  },
+  "Part-ter": {
+    "": "disponibilizado"
+  },
+  "Part-ser": {
+    "ms": "disponibilizado",
+    "fs": "disponibilizada",
+    "mp": "disponibilizados",
+    "fp": "disponibilizadas"
+  }
+}

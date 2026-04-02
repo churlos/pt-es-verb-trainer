@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "matear"
+  },
+  "InfP": {
+    "1s": "matear",
+    "2s": "mateares",
+    "3s": "matear",
+    "1p": "matearmos",
+    "2p": "mateardes",
+    "3p": "matearem"
+  },
+  "Ger": {
+    "": "mateando"
+  },
+  "PresI": {
+    "1s": "mateio",
+    "2s": "mateias",
+    "3s": "mateia",
+    "1p": "mateamos",
+    "2p": "mateais",
+    "3p": "mateiam"
+  },
+  "PImpI": {
+    "1s": "mateava",
+    "2s": "mateavas",
+    "3s": "mateava",
+    "1p": "mateávamos",
+    "2p": "mateáveis",
+    "3p": "mateavam"
+  },
+  "PPSI": {
+    "1s": "mateei",
+    "2s": "mateaste",
+    "3s": "mateou",
+    "1p": "mateámos",
+    "2p": "mateastes",
+    "3p": "matearam"
+  },
+  "PMQPSI": {
+    "1s": "mateara",
+    "2s": "matearas",
+    "3s": "mateara",
+    "1p": "mateáramos",
+    "2p": "mateáreis",
+    "3p": "matearam"
+  },
+  "FutSI": {
+    "1s": "matearei",
+    "2s": "matearás",
+    "3s": "mateará",
+    "1p": "matearemos",
+    "2p": "mateareis",
+    "3p": "matearão"
+  },
+  "CondS": {
+    "1s": "matearia",
+    "2s": "matearias",
+    "3s": "matearia",
+    "1p": "matearíamos",
+    "2p": "matearíeis",
+    "3p": "mateariam"
+  },
+  "PresC": {
+    "1s": "mateie",
+    "2s": "mateies",
+    "3s": "mateie",
+    "1p": "mateemos",
+    "2p": "mateeis",
+    "3p": "mateiem"
+  },
+  "PImpC": {
+    "1s": "mateasse",
+    "2s": "mateasses",
+    "3s": "mateasse",
+    "1p": "mateássemos",
+    "2p": "mateásseis",
+    "3p": "mateassem"
+  },
+  "FutSC": {
+    "1s": "matear",
+    "2s": "mateares",
+    "3s": "matear",
+    "1p": "matearmos",
+    "2p": "mateardes",
+    "3p": "matearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mateia",
+    "3s": "mateie",
+    "1p": "mateemos",
+    "2p": "mateai",
+    "3p": "mateiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mateies",
+    "3s": "não mateie",
+    "1p": "não mateemos",
+    "2p": "não mateeis",
+    "3p": "não mateiem"
+  },
+  "Part-ter": {
+    "": "mateado"
+  },
+  "Part-ser": {
+    "ms": "mateado",
+    "fs": "mateada",
+    "mp": "mateados",
+    "fp": "mateadas"
+  }
+}

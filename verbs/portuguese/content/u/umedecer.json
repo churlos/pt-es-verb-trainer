@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "umedecer"
+  },
+  "InfP": {
+    "1s": "umedecer",
+    "2s": "umedeceres",
+    "3s": "umedecer",
+    "1p": "umedecermos",
+    "2p": "umedecerdes",
+    "3p": "umedecerem"
+  },
+  "Ger": {
+    "": "umedecendo"
+  },
+  "PresI": {
+    "1s": "umedeço",
+    "2s": "umedeces",
+    "3s": "umedece",
+    "1p": "umedecemos",
+    "2p": "umedeceis",
+    "3p": "umedecem"
+  },
+  "PImpI": {
+    "1s": "umedecia",
+    "2s": "umedecias",
+    "3s": "umedecia",
+    "1p": "umedecíamos",
+    "2p": "umedecíeis",
+    "3p": "umedeciam"
+  },
+  "PPSI": {
+    "1s": "umedeci",
+    "2s": "umedeceste",
+    "3s": "umedeceu",
+    "1p": "umedecemos",
+    "2p": "umedecestes",
+    "3p": "umedeceram"
+  },
+  "PMQPSI": {
+    "1s": "umedecera",
+    "2s": "umedeceras",
+    "3s": "umedecera",
+    "1p": "umedecêramos",
+    "2p": "umedecêreis",
+    "3p": "umedeceram"
+  },
+  "FutSI": {
+    "1s": "umedecerei",
+    "2s": "umedecerás",
+    "3s": "umedecerá",
+    "1p": "umedeceremos",
+    "2p": "umedecereis",
+    "3p": "umedecerão"
+  },
+  "CondS": {
+    "1s": "umedeceria",
+    "2s": "umedecerias",
+    "3s": "umedeceria",
+    "1p": "umedeceríamos",
+    "2p": "umedeceríeis",
+    "3p": "umedeceriam"
+  },
+  "PresC": {
+    "1s": "umedeça",
+    "2s": "umedeças",
+    "3s": "umedeça",
+    "1p": "umedeçamos",
+    "2p": "umedeçais",
+    "3p": "umedeçam"
+  },
+  "PImpC": {
+    "1s": "umedecesse",
+    "2s": "umedecesses",
+    "3s": "umedecesse",
+    "1p": "umedecêssemos",
+    "2p": "umedecêsseis",
+    "3p": "umedecessem"
+  },
+  "FutSC": {
+    "1s": "umedecer",
+    "2s": "umedeceres",
+    "3s": "umedecer",
+    "1p": "umedecermos",
+    "2p": "umedecerdes",
+    "3p": "umedecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "umedece",
+    "3s": "umedeça",
+    "1p": "umedeçamos",
+    "2p": "umedecei",
+    "3p": "umedeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não umedeças",
+    "3s": "não umedeça",
+    "1p": "não umedeçamos",
+    "2p": "não umedeçais",
+    "3p": "não umedeçam"
+  },
+  "Part-ter": {
+    "": "umedecido"
+  },
+  "Part-ser": {
+    "ms": "umedecido",
+    "fs": "umedecida",
+    "mp": "umedecidos",
+    "fp": "umedecidas"
+  }
+}

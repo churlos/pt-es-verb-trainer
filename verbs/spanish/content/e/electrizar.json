@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "electrizar"
+  },
+  "Ger": {
+    "": "electrizando"
+  },
+  "PresI": {
+    "1s": "electrizo",
+    "2s": "electrizas",
+    "3s": "electriza",
+    "1p": "electrizamos",
+    "2p": "electrizáis",
+    "3p": "electrizan"
+  },
+  "PImpI": {
+    "1s": "electrizaba",
+    "2s": "electrizabas",
+    "3s": "electrizaba",
+    "1p": "electrizábamos",
+    "2p": "electrizabais",
+    "3p": "electrizaban"
+  },
+  "PPSI": {
+    "1s": "electricé",
+    "2s": "electrizaste",
+    "3s": "electrizó",
+    "1p": "electrizamos",
+    "2p": "electrizasteis",
+    "3p": "electrizaron"
+  },
+  "FutSI": {
+    "1s": "electrizaré",
+    "2s": "electrizarás",
+    "3s": "electrizará",
+    "1p": "electrizaremos",
+    "2p": "electrizaréis",
+    "3p": "electrizarán"
+  },
+  "CondS": {
+    "1s": "electrizaría",
+    "2s": "electrizarías",
+    "3s": "electrizaría",
+    "1p": "electrizaríamos",
+    "2p": "electrizaríais",
+    "3p": "electrizarían"
+  },
+  "PresC": {
+    "1s": "electrice",
+    "2s": "electrices",
+    "3s": "electrice",
+    "1p": "electricemos",
+    "2p": "electricéis",
+    "3p": "electricen"
+  },
+  "PMQPSI": {
+    "1s": "electrizara",
+    "2s": "electrizaras",
+    "3s": "electrizara",
+    "1p": "electrizáramos",
+    "2p": "electrizarais",
+    "3p": "electrizaran"
+  },
+  "PImpC": {
+    "1s": "electrizase",
+    "2s": "electrizases",
+    "3s": "electrizase",
+    "1p": "electrizásemos",
+    "2p": "electrizaseis",
+    "3p": "electrizasen"
+  },
+  "FutSC": {
+    "1s": "electrizare",
+    "2s": "electrizares",
+    "3s": "electrizare",
+    "1p": "electrizáremos",
+    "2p": "electrizareis",
+    "3p": "electrizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "electriza",
+    "3s": "electrice",
+    "1p": "electricemos",
+    "2p": "electrizad",
+    "3p": "electricen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no electrices",
+    "3s": "no electrice",
+    "1p": "no electricemos",
+    "2p": "no electricéis",
+    "3p": "no electricen"
+  },
+  "Part-ter": {
+    "": "electrizado"
+  },
+  "Part-ser": {
+    "ms": "electrizado",
+    "fs": "electrizada",
+    "mp": "electrizados",
+    "fp": "electrizadas"
+  }
+}

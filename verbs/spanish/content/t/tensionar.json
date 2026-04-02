@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tensionar"
+  },
+  "Ger": {
+    "": "tensionando"
+  },
+  "PresI": {
+    "1s": "tensiono",
+    "2s": "tensionas",
+    "3s": "tensiona",
+    "1p": "tensionamos",
+    "2p": "tensionáis",
+    "3p": "tensionan"
+  },
+  "PImpI": {
+    "1s": "tensionaba",
+    "2s": "tensionabas",
+    "3s": "tensionaba",
+    "1p": "tensionábamos",
+    "2p": "tensionabais",
+    "3p": "tensionaban"
+  },
+  "PPSI": {
+    "1s": "tensioné",
+    "2s": "tensionaste",
+    "3s": "tensionó",
+    "1p": "tensionamos",
+    "2p": "tensionasteis",
+    "3p": "tensionaron"
+  },
+  "FutSI": {
+    "1s": "tensionaré",
+    "2s": "tensionarás",
+    "3s": "tensionará",
+    "1p": "tensionaremos",
+    "2p": "tensionaréis",
+    "3p": "tensionarán"
+  },
+  "CondS": {
+    "1s": "tensionaría",
+    "2s": "tensionarías",
+    "3s": "tensionaría",
+    "1p": "tensionaríamos",
+    "2p": "tensionaríais",
+    "3p": "tensionarían"
+  },
+  "PresC": {
+    "1s": "tensione",
+    "2s": "tensiones",
+    "3s": "tensione",
+    "1p": "tensionemos",
+    "2p": "tensionéis",
+    "3p": "tensionen"
+  },
+  "PMQPSI": {
+    "1s": "tensionara",
+    "2s": "tensionaras",
+    "3s": "tensionara",
+    "1p": "tensionáramos",
+    "2p": "tensionarais",
+    "3p": "tensionaran"
+  },
+  "PImpC": {
+    "1s": "tensionase",
+    "2s": "tensionases",
+    "3s": "tensionase",
+    "1p": "tensionásemos",
+    "2p": "tensionaseis",
+    "3p": "tensionasen"
+  },
+  "FutSC": {
+    "1s": "tensionare",
+    "2s": "tensionares",
+    "3s": "tensionare",
+    "1p": "tensionáremos",
+    "2p": "tensionareis",
+    "3p": "tensionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tensiona",
+    "3s": "tensione",
+    "1p": "tensionemos",
+    "2p": "tensionad",
+    "3p": "tensionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tensiones",
+    "3s": "no tensione",
+    "1p": "no tensionemos",
+    "2p": "no tensionéis",
+    "3p": "no tensionen"
+  },
+  "Part-ter": {
+    "": "tensionado"
+  },
+  "Part-ser": {
+    "ms": "tensionado",
+    "fs": "tensionada",
+    "mp": "tensionados",
+    "fp": "tensionadas"
+  }
+}

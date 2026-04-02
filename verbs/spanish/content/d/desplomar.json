@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desplomar"
+  },
+  "Ger": {
+    "": "desplomando"
+  },
+  "PresI": {
+    "1s": "desplomo",
+    "2s": "desplomas",
+    "3s": "desploma",
+    "1p": "desplomamos",
+    "2p": "desplomáis",
+    "3p": "desploman"
+  },
+  "PImpI": {
+    "1s": "desplomaba",
+    "2s": "desplomabas",
+    "3s": "desplomaba",
+    "1p": "desplomábamos",
+    "2p": "desplomabais",
+    "3p": "desplomaban"
+  },
+  "PPSI": {
+    "1s": "desplomé",
+    "2s": "desplomaste",
+    "3s": "desplomó",
+    "1p": "desplomamos",
+    "2p": "desplomasteis",
+    "3p": "desplomaron"
+  },
+  "FutSI": {
+    "1s": "desplomaré",
+    "2s": "desplomarás",
+    "3s": "desplomará",
+    "1p": "desplomaremos",
+    "2p": "desplomaréis",
+    "3p": "desplomarán"
+  },
+  "CondS": {
+    "1s": "desplomaría",
+    "2s": "desplomarías",
+    "3s": "desplomaría",
+    "1p": "desplomaríamos",
+    "2p": "desplomaríais",
+    "3p": "desplomarían"
+  },
+  "PresC": {
+    "1s": "desplome",
+    "2s": "desplomes",
+    "3s": "desplome",
+    "1p": "desplomemos",
+    "2p": "desploméis",
+    "3p": "desplomen"
+  },
+  "PMQPSI": {
+    "1s": "desplomara",
+    "2s": "desplomaras",
+    "3s": "desplomara",
+    "1p": "desplomáramos",
+    "2p": "desplomarais",
+    "3p": "desplomaran"
+  },
+  "PImpC": {
+    "1s": "desplomase",
+    "2s": "desplomases",
+    "3s": "desplomase",
+    "1p": "desplomásemos",
+    "2p": "desplomaseis",
+    "3p": "desplomasen"
+  },
+  "FutSC": {
+    "1s": "desplomare",
+    "2s": "desplomares",
+    "3s": "desplomare",
+    "1p": "desplomáremos",
+    "2p": "desplomareis",
+    "3p": "desplomaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desploma",
+    "3s": "desplome",
+    "1p": "desplomemos",
+    "2p": "desplomad",
+    "3p": "desplomen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desplomes",
+    "3s": "no desplome",
+    "1p": "no desplomemos",
+    "2p": "no desploméis",
+    "3p": "no desplomen"
+  },
+  "Part-ter": {
+    "": "desplomado"
+  },
+  "Part-ser": {
+    "ms": "desplomado",
+    "fs": "desplomada",
+    "mp": "desplomados",
+    "fp": "desplomadas"
+  }
+}

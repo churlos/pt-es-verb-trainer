@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "revolver"
+  },
+  "InfP": {
+    "1s": "revolver",
+    "2s": "revolveres",
+    "3s": "revolver",
+    "1p": "revolvermos",
+    "2p": "revolverdes",
+    "3p": "revolverem"
+  },
+  "Ger": {
+    "": "revolvendo"
+  },
+  "PresI": {
+    "1s": "revolvo",
+    "2s": "revolves",
+    "3s": "revolve",
+    "1p": "revolvemos",
+    "2p": "revolveis",
+    "3p": "revolvem"
+  },
+  "PImpI": {
+    "1s": "revolvia",
+    "2s": "revolvias",
+    "3s": "revolvia",
+    "1p": "revolvíamos",
+    "2p": "revolvíeis",
+    "3p": "revolviam"
+  },
+  "PPSI": {
+    "1s": "revolvi",
+    "2s": "revolveste",
+    "3s": "revolveu",
+    "1p": "revolvemos",
+    "2p": "revolvestes",
+    "3p": "revolveram"
+  },
+  "PMQPSI": {
+    "1s": "revolvera",
+    "2s": "revolveras",
+    "3s": "revolvera",
+    "1p": "revolvêramos",
+    "2p": "revolvêreis",
+    "3p": "revolveram"
+  },
+  "FutSI": {
+    "1s": "revolverei",
+    "2s": "revolverás",
+    "3s": "revolverá",
+    "1p": "revolveremos",
+    "2p": "revolvereis",
+    "3p": "revolverão"
+  },
+  "CondS": {
+    "1s": "revolveria",
+    "2s": "revolverias",
+    "3s": "revolveria",
+    "1p": "revolveríamos",
+    "2p": "revolveríeis",
+    "3p": "revolveriam"
+  },
+  "PresC": {
+    "1s": "revolva",
+    "2s": "revolvas",
+    "3s": "revolva",
+    "1p": "revolvamos",
+    "2p": "revolvais",
+    "3p": "revolvam"
+  },
+  "PImpC": {
+    "1s": "revolvesse",
+    "2s": "revolvesses",
+    "3s": "revolvesse",
+    "1p": "revolvêssemos",
+    "2p": "revolvêsseis",
+    "3p": "revolvessem"
+  },
+  "FutSC": {
+    "1s": "revolver",
+    "2s": "revolveres",
+    "3s": "revolver",
+    "1p": "revolvermos",
+    "2p": "revolverdes",
+    "3p": "revolverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revolve",
+    "3s": "revolva",
+    "1p": "revolvamos",
+    "2p": "revolvei",
+    "3p": "revolvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não revolvas",
+    "3s": "não revolva",
+    "1p": "não revolvamos",
+    "2p": "não revolvais",
+    "3p": "não revolvam"
+  },
+  "Part-ter": {
+    "": "revolto"
+  },
+  "Part-ser": {
+    "ms": "revolto",
+    "fs": "revolta",
+    "mp": "revoltos",
+    "fp": "revoltas"
+  }
+}

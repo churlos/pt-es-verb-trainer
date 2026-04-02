@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dever"
+  },
+  "InfP": {
+    "1s": "dever",
+    "2s": "deveres",
+    "3s": "dever",
+    "1p": "devermos",
+    "2p": "deverdes",
+    "3p": "deverem"
+  },
+  "Ger": {
+    "": "devendo"
+  },
+  "PresI": {
+    "1s": "devo",
+    "2s": "deves",
+    "3s": "deve",
+    "1p": "devemos",
+    "2p": "deveis",
+    "3p": "devem"
+  },
+  "PImpI": {
+    "1s": "devia",
+    "2s": "devias",
+    "3s": "devia",
+    "1p": "devíamos",
+    "2p": "devíeis",
+    "3p": "deviam"
+  },
+  "PPSI": {
+    "1s": "devi",
+    "2s": "deveste",
+    "3s": "deveu",
+    "1p": "devemos",
+    "2p": "devestes",
+    "3p": "deveram"
+  },
+  "PMQPSI": {
+    "1s": "devera",
+    "2s": "deveras",
+    "3s": "devera",
+    "1p": "devêramos",
+    "2p": "devêreis",
+    "3p": "deveram"
+  },
+  "FutSI": {
+    "1s": "deverei",
+    "2s": "deverás",
+    "3s": "deverá",
+    "1p": "deveremos",
+    "2p": "devereis",
+    "3p": "deverão"
+  },
+  "CondS": {
+    "1s": "deveria",
+    "2s": "deverias",
+    "3s": "deveria",
+    "1p": "deveríamos",
+    "2p": "deveríeis",
+    "3p": "deveriam"
+  },
+  "PresC": {
+    "1s": "deva",
+    "2s": "devas",
+    "3s": "deva",
+    "1p": "devamos",
+    "2p": "devais",
+    "3p": "devam"
+  },
+  "PImpC": {
+    "1s": "devesse",
+    "2s": "devesses",
+    "3s": "devesse",
+    "1p": "devêssemos",
+    "2p": "devêsseis",
+    "3p": "devessem"
+  },
+  "FutSC": {
+    "1s": "dever",
+    "2s": "deveres",
+    "3s": "dever",
+    "1p": "devermos",
+    "2p": "deverdes",
+    "3p": "deverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deve",
+    "3s": "deva",
+    "1p": "devamos",
+    "2p": "devei",
+    "3p": "devam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não devas",
+    "3s": "não deva",
+    "1p": "não devamos",
+    "2p": "não devais",
+    "3p": "não devam"
+  },
+  "Part-ter": {
+    "": "devido"
+  },
+  "Part-ser": {
+    "ms": "devido",
+    "fs": "devida",
+    "mp": "devidos",
+    "fp": "devidas"
+  }
+}

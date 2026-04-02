@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hollar"
+  },
+  "Ger": {
+    "": "hollando"
+  },
+  "PresI": {
+    "1s": "huello",
+    "2s": "huellas",
+    "3s": "huella",
+    "1p": "hollamos",
+    "2p": "holláis",
+    "3p": "huellan"
+  },
+  "PImpI": {
+    "1s": "hollaba",
+    "2s": "hollabas",
+    "3s": "hollaba",
+    "1p": "hollábamos",
+    "2p": "hollabais",
+    "3p": "hollaban"
+  },
+  "PPSI": {
+    "1s": "hollé",
+    "2s": "hollaste",
+    "3s": "holló",
+    "1p": "hollamos",
+    "2p": "hollasteis",
+    "3p": "hollaron"
+  },
+  "FutSI": {
+    "1s": "hollaré",
+    "2s": "hollarás",
+    "3s": "hollará",
+    "1p": "hollaremos",
+    "2p": "hollaréis",
+    "3p": "hollarán"
+  },
+  "CondS": {
+    "1s": "hollaría",
+    "2s": "hollarías",
+    "3s": "hollaría",
+    "1p": "hollaríamos",
+    "2p": "hollaríais",
+    "3p": "hollarían"
+  },
+  "PresC": {
+    "1s": "huelle",
+    "2s": "huelles",
+    "3s": "huelle",
+    "1p": "hollemos",
+    "2p": "holléis",
+    "3p": "huellen"
+  },
+  "PMQPSI": {
+    "1s": "hollara",
+    "2s": "hollaras",
+    "3s": "hollara",
+    "1p": "holláramos",
+    "2p": "hollarais",
+    "3p": "hollaran"
+  },
+  "PImpC": {
+    "1s": "hollase",
+    "2s": "hollases",
+    "3s": "hollase",
+    "1p": "hollásemos",
+    "2p": "hollaseis",
+    "3p": "hollasen"
+  },
+  "FutSC": {
+    "1s": "hollare",
+    "2s": "hollares",
+    "3s": "hollare",
+    "1p": "holláremos",
+    "2p": "hollareis",
+    "3p": "hollaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "huella",
+    "3s": "huelle",
+    "1p": "hollemos",
+    "2p": "hollad",
+    "3p": "huellen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no huelles",
+    "3s": "no huelle",
+    "1p": "no hollemos",
+    "2p": "no holléis",
+    "3p": "no huellen"
+  },
+  "Part-ter": {
+    "": "hollado"
+  },
+  "Part-ser": {
+    "ms": "hollado",
+    "fs": "hollada",
+    "mp": "hollados",
+    "fp": "holladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amestrar"
+  },
+  "InfP": {
+    "1s": "amestrar",
+    "2s": "amestrares",
+    "3s": "amestrar",
+    "1p": "amestrarmos",
+    "2p": "amestrardes",
+    "3p": "amestrarem"
+  },
+  "Ger": {
+    "": "amestrando"
+  },
+  "PresI": {
+    "1s": "amestro",
+    "2s": "amestras",
+    "3s": "amestra",
+    "1p": "amestramos",
+    "2p": "amestrais",
+    "3p": "amestram"
+  },
+  "PImpI": {
+    "1s": "amestrava",
+    "2s": "amestravas",
+    "3s": "amestrava",
+    "1p": "amestrávamos",
+    "2p": "amestráveis",
+    "3p": "amestravam"
+  },
+  "PPSI": {
+    "1s": "amestrei",
+    "2s": "amestraste",
+    "3s": "amestrou",
+    "1p": "amestrámos",
+    "2p": "amestrastes",
+    "3p": "amestraram"
+  },
+  "PMQPSI": {
+    "1s": "amestrara",
+    "2s": "amestraras",
+    "3s": "amestrara",
+    "1p": "amestráramos",
+    "2p": "amestráreis",
+    "3p": "amestraram"
+  },
+  "FutSI": {
+    "1s": "amestrarei",
+    "2s": "amestrarás",
+    "3s": "amestrará",
+    "1p": "amestraremos",
+    "2p": "amestrareis",
+    "3p": "amestrarão"
+  },
+  "CondS": {
+    "1s": "amestraria",
+    "2s": "amestrarias",
+    "3s": "amestraria",
+    "1p": "amestraríamos",
+    "2p": "amestraríeis",
+    "3p": "amestrariam"
+  },
+  "PresC": {
+    "1s": "amestre",
+    "2s": "amestres",
+    "3s": "amestre",
+    "1p": "amestremos",
+    "2p": "amestreis",
+    "3p": "amestrem"
+  },
+  "PImpC": {
+    "1s": "amestrasse",
+    "2s": "amestrasses",
+    "3s": "amestrasse",
+    "1p": "amestrássemos",
+    "2p": "amestrásseis",
+    "3p": "amestrassem"
+  },
+  "FutSC": {
+    "1s": "amestrar",
+    "2s": "amestrares",
+    "3s": "amestrar",
+    "1p": "amestrarmos",
+    "2p": "amestrardes",
+    "3p": "amestrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amestra",
+    "3s": "amestre",
+    "1p": "amestremos",
+    "2p": "amestrai",
+    "3p": "amestrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amestres",
+    "3s": "não amestre",
+    "1p": "não amestremos",
+    "2p": "não amestreis",
+    "3p": "não amestrem"
+  },
+  "Part-ter": {
+    "": "amestrado"
+  },
+  "Part-ser": {
+    "ms": "amestrado",
+    "fs": "amestrada",
+    "mp": "amestrados",
+    "fp": "amestradas"
+  }
+}

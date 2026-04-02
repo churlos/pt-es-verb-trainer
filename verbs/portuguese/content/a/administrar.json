@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "administrar"
+  },
+  "InfP": {
+    "1s": "administrar",
+    "2s": "administrares",
+    "3s": "administrar",
+    "1p": "administrarmos",
+    "2p": "administrardes",
+    "3p": "administrarem"
+  },
+  "Ger": {
+    "": "administrando"
+  },
+  "PresI": {
+    "1s": "administro",
+    "2s": "administras",
+    "3s": "administra",
+    "1p": "administramos",
+    "2p": "administrais",
+    "3p": "administram"
+  },
+  "PImpI": {
+    "1s": "administrava",
+    "2s": "administravas",
+    "3s": "administrava",
+    "1p": "administrávamos",
+    "2p": "administráveis",
+    "3p": "administravam"
+  },
+  "PPSI": {
+    "1s": "administrei",
+    "2s": "administraste",
+    "3s": "administrou",
+    "1p": "administrámos",
+    "2p": "administrastes",
+    "3p": "administraram"
+  },
+  "PMQPSI": {
+    "1s": "administrara",
+    "2s": "administraras",
+    "3s": "administrara",
+    "1p": "administráramos",
+    "2p": "administráreis",
+    "3p": "administraram"
+  },
+  "FutSI": {
+    "1s": "administrarei",
+    "2s": "administrarás",
+    "3s": "administrará",
+    "1p": "administraremos",
+    "2p": "administrareis",
+    "3p": "administrarão"
+  },
+  "CondS": {
+    "1s": "administraria",
+    "2s": "administrarias",
+    "3s": "administraria",
+    "1p": "administraríamos",
+    "2p": "administraríeis",
+    "3p": "administrariam"
+  },
+  "PresC": {
+    "1s": "administre",
+    "2s": "administres",
+    "3s": "administre",
+    "1p": "administremos",
+    "2p": "administreis",
+    "3p": "administrem"
+  },
+  "PImpC": {
+    "1s": "administrasse",
+    "2s": "administrasses",
+    "3s": "administrasse",
+    "1p": "administrássemos",
+    "2p": "administrásseis",
+    "3p": "administrassem"
+  },
+  "FutSC": {
+    "1s": "administrar",
+    "2s": "administrares",
+    "3s": "administrar",
+    "1p": "administrarmos",
+    "2p": "administrardes",
+    "3p": "administrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "administra",
+    "3s": "administre",
+    "1p": "administremos",
+    "2p": "administrai",
+    "3p": "administrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não administres",
+    "3s": "não administre",
+    "1p": "não administremos",
+    "2p": "não administreis",
+    "3p": "não administrem"
+  },
+  "Part-ter": {
+    "": "administrado"
+  },
+  "Part-ser": {
+    "ms": "administrado",
+    "fs": "administrada",
+    "mp": "administrados",
+    "fp": "administradas"
+  }
+}

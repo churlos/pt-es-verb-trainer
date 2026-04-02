@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "torcer"
+  },
+  "Ger": {
+    "": "torciendo"
+  },
+  "PresI": {
+    "1s": "tuerzo",
+    "2s": "tuerces",
+    "3s": "tuerce",
+    "1p": "torcemos",
+    "2p": "torcéis",
+    "3p": "tuercen"
+  },
+  "PImpI": {
+    "1s": "torcía",
+    "2s": "torcías",
+    "3s": "torcía",
+    "1p": "torcíamos",
+    "2p": "torcíais",
+    "3p": "torcían"
+  },
+  "PPSI": {
+    "1s": "torcí",
+    "2s": "torciste",
+    "3s": "torció",
+    "1p": "torcimos",
+    "2p": "torcisteis",
+    "3p": "torcieron"
+  },
+  "FutSI": {
+    "1s": "torceré",
+    "2s": "torcerás",
+    "3s": "torcerá",
+    "1p": "torceremos",
+    "2p": "torceréis",
+    "3p": "torcerán"
+  },
+  "CondS": {
+    "1s": "torcería",
+    "2s": "torcerías",
+    "3s": "torcería",
+    "1p": "torceríamos",
+    "2p": "torceríais",
+    "3p": "torcerían"
+  },
+  "PresC": {
+    "1s": "tuerza",
+    "2s": "tuerzas",
+    "3s": "tuerza",
+    "1p": "torzamos",
+    "2p": "torzáis",
+    "3p": "tuerzan"
+  },
+  "PMQPSI": {
+    "1s": "torciera",
+    "2s": "torcieras",
+    "3s": "torciera",
+    "1p": "torciéramos",
+    "2p": "torcierais",
+    "3p": "torcieran"
+  },
+  "PImpC": {
+    "1s": "torciese",
+    "2s": "torcieses",
+    "3s": "torciese",
+    "1p": "torciésemos",
+    "2p": "torcieseis",
+    "3p": "torciesen"
+  },
+  "FutSC": {
+    "1s": "torciere",
+    "2s": "torcieres",
+    "3s": "torciere",
+    "1p": "torciéremos",
+    "2p": "torciereis",
+    "3p": "torcieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tuerce",
+    "3s": "tuerza",
+    "1p": "torzamos",
+    "2p": "torced",
+    "3p": "tuerzan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tuerzas",
+    "3s": "no tuerza",
+    "1p": "no torzamos",
+    "2p": "no torzáis",
+    "3p": "no tuerzan"
+  },
+  "Part-ter": {
+    "": "torcido"
+  },
+  "Part-ser": {
+    "ms": "torcido",
+    "fs": "torcida",
+    "mp": "torcidos",
+    "fp": "torcidas"
+  }
+}

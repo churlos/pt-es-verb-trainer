@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asalariar"
+  },
+  "Ger": {
+    "": "asalariando"
+  },
+  "PresI": {
+    "1s": "asalario",
+    "2s": "asalarias",
+    "3s": "asalaria",
+    "1p": "asalariamos",
+    "2p": "asalariáis",
+    "3p": "asalarian"
+  },
+  "PImpI": {
+    "1s": "asalariaba",
+    "2s": "asalariabas",
+    "3s": "asalariaba",
+    "1p": "asalariábamos",
+    "2p": "asalariabais",
+    "3p": "asalariaban"
+  },
+  "PPSI": {
+    "1s": "asalarié",
+    "2s": "asalariaste",
+    "3s": "asalarió",
+    "1p": "asalariamos",
+    "2p": "asalariasteis",
+    "3p": "asalariaron"
+  },
+  "FutSI": {
+    "1s": "asalariaré",
+    "2s": "asalariarás",
+    "3s": "asalariará",
+    "1p": "asalariaremos",
+    "2p": "asalariaréis",
+    "3p": "asalariarán"
+  },
+  "CondS": {
+    "1s": "asalariaría",
+    "2s": "asalariarías",
+    "3s": "asalariaría",
+    "1p": "asalariaríamos",
+    "2p": "asalariaríais",
+    "3p": "asalariarían"
+  },
+  "PresC": {
+    "1s": "asalarie",
+    "2s": "asalaries",
+    "3s": "asalarie",
+    "1p": "asalariemos",
+    "2p": "asalariéis",
+    "3p": "asalarien"
+  },
+  "PMQPSI": {
+    "1s": "asalariara",
+    "2s": "asalariaras",
+    "3s": "asalariara",
+    "1p": "asalariáramos",
+    "2p": "asalariarais",
+    "3p": "asalariaran"
+  },
+  "PImpC": {
+    "1s": "asalariase",
+    "2s": "asalariases",
+    "3s": "asalariase",
+    "1p": "asalariásemos",
+    "2p": "asalariaseis",
+    "3p": "asalariasen"
+  },
+  "FutSC": {
+    "1s": "asalariare",
+    "2s": "asalariares",
+    "3s": "asalariare",
+    "1p": "asalariáremos",
+    "2p": "asalariareis",
+    "3p": "asalariaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asalaria",
+    "3s": "asalarie",
+    "1p": "asalariemos",
+    "2p": "asalariad",
+    "3p": "asalarien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asalaries",
+    "3s": "no asalarie",
+    "1p": "no asalariemos",
+    "2p": "no asalariéis",
+    "3p": "no asalarien"
+  },
+  "Part-ter": {
+    "": "asalariado"
+  },
+  "Part-ser": {
+    "ms": "asalariado",
+    "fs": "asalariada",
+    "mp": "asalariados",
+    "fp": "asalariadas"
+  }
+}

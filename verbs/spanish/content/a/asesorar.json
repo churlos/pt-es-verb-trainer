@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asesorar"
+  },
+  "Ger": {
+    "": "asesorando"
+  },
+  "PresI": {
+    "1s": "asesoro",
+    "2s": "asesoras",
+    "3s": "asesora",
+    "1p": "asesoramos",
+    "2p": "asesoráis",
+    "3p": "asesoran"
+  },
+  "PImpI": {
+    "1s": "asesoraba",
+    "2s": "asesorabas",
+    "3s": "asesoraba",
+    "1p": "asesorábamos",
+    "2p": "asesorabais",
+    "3p": "asesoraban"
+  },
+  "PPSI": {
+    "1s": "asesoré",
+    "2s": "asesoraste",
+    "3s": "asesoró",
+    "1p": "asesoramos",
+    "2p": "asesorasteis",
+    "3p": "asesoraron"
+  },
+  "FutSI": {
+    "1s": "asesoraré",
+    "2s": "asesorarás",
+    "3s": "asesorará",
+    "1p": "asesoraremos",
+    "2p": "asesoraréis",
+    "3p": "asesorarán"
+  },
+  "CondS": {
+    "1s": "asesoraría",
+    "2s": "asesorarías",
+    "3s": "asesoraría",
+    "1p": "asesoraríamos",
+    "2p": "asesoraríais",
+    "3p": "asesorarían"
+  },
+  "PresC": {
+    "1s": "asesore",
+    "2s": "asesores",
+    "3s": "asesore",
+    "1p": "asesoremos",
+    "2p": "asesoréis",
+    "3p": "asesoren"
+  },
+  "PMQPSI": {
+    "1s": "asesorara",
+    "2s": "asesoraras",
+    "3s": "asesorara",
+    "1p": "asesoráramos",
+    "2p": "asesorarais",
+    "3p": "asesoraran"
+  },
+  "PImpC": {
+    "1s": "asesorase",
+    "2s": "asesorases",
+    "3s": "asesorase",
+    "1p": "asesorásemos",
+    "2p": "asesoraseis",
+    "3p": "asesorasen"
+  },
+  "FutSC": {
+    "1s": "asesorare",
+    "2s": "asesorares",
+    "3s": "asesorare",
+    "1p": "asesoráremos",
+    "2p": "asesorareis",
+    "3p": "asesoraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asesora",
+    "3s": "asesore",
+    "1p": "asesoremos",
+    "2p": "asesorad",
+    "3p": "asesoren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asesores",
+    "3s": "no asesore",
+    "1p": "no asesoremos",
+    "2p": "no asesoréis",
+    "3p": "no asesoren"
+  },
+  "Part-ter": {
+    "": "asesorado"
+  },
+  "Part-ser": {
+    "ms": "asesorado",
+    "fs": "asesorada",
+    "mp": "asesorados",
+    "fp": "asesoradas"
+  }
+}

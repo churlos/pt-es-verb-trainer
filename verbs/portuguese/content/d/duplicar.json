@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "duplicar"
+  },
+  "InfP": {
+    "1s": "duplicar",
+    "2s": "duplicares",
+    "3s": "duplicar",
+    "1p": "duplicarmos",
+    "2p": "duplicardes",
+    "3p": "duplicarem"
+  },
+  "Ger": {
+    "": "duplicando"
+  },
+  "PresI": {
+    "1s": "duplico",
+    "2s": "duplicas",
+    "3s": "duplica",
+    "1p": "duplicamos",
+    "2p": "duplicais",
+    "3p": "duplicam"
+  },
+  "PImpI": {
+    "1s": "duplicava",
+    "2s": "duplicavas",
+    "3s": "duplicava",
+    "1p": "duplicávamos",
+    "2p": "duplicáveis",
+    "3p": "duplicavam"
+  },
+  "PPSI": {
+    "1s": "dupliquei",
+    "2s": "duplicaste",
+    "3s": "duplicou",
+    "1p": "duplicámos",
+    "2p": "duplicastes",
+    "3p": "duplicaram"
+  },
+  "PMQPSI": {
+    "1s": "duplicara",
+    "2s": "duplicaras",
+    "3s": "duplicara",
+    "1p": "duplicáramos",
+    "2p": "duplicáreis",
+    "3p": "duplicaram"
+  },
+  "FutSI": {
+    "1s": "duplicarei",
+    "2s": "duplicarás",
+    "3s": "duplicará",
+    "1p": "duplicaremos",
+    "2p": "duplicareis",
+    "3p": "duplicarão"
+  },
+  "CondS": {
+    "1s": "duplicaria",
+    "2s": "duplicarias",
+    "3s": "duplicaria",
+    "1p": "duplicaríamos",
+    "2p": "duplicaríeis",
+    "3p": "duplicariam"
+  },
+  "PresC": {
+    "1s": "duplique",
+    "2s": "dupliques",
+    "3s": "duplique",
+    "1p": "dupliquemos",
+    "2p": "dupliqueis",
+    "3p": "dupliquem"
+  },
+  "PImpC": {
+    "1s": "duplicasse",
+    "2s": "duplicasses",
+    "3s": "duplicasse",
+    "1p": "duplicássemos",
+    "2p": "duplicásseis",
+    "3p": "duplicassem"
+  },
+  "FutSC": {
+    "1s": "duplicar",
+    "2s": "duplicares",
+    "3s": "duplicar",
+    "1p": "duplicarmos",
+    "2p": "duplicardes",
+    "3p": "duplicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "duplica",
+    "3s": "duplique",
+    "1p": "dupliquemos",
+    "2p": "duplicai",
+    "3p": "dupliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dupliques",
+    "3s": "não duplique",
+    "1p": "não dupliquemos",
+    "2p": "não dupliqueis",
+    "3p": "não dupliquem"
+  },
+  "Part-ter": {
+    "": "duplicado"
+  },
+  "Part-ser": {
+    "ms": "duplicado",
+    "fs": "duplicada",
+    "mp": "duplicados",
+    "fp": "duplicadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vendar"
+  },
+  "Ger": {
+    "": "vendando"
+  },
+  "PresI": {
+    "1s": "vendo",
+    "2s": "vendas",
+    "3s": "venda",
+    "1p": "vendamos",
+    "2p": "vendáis",
+    "3p": "vendan"
+  },
+  "PImpI": {
+    "1s": "vendaba",
+    "2s": "vendabas",
+    "3s": "vendaba",
+    "1p": "vendábamos",
+    "2p": "vendabais",
+    "3p": "vendaban"
+  },
+  "PPSI": {
+    "1s": "vendé",
+    "2s": "vendaste",
+    "3s": "vendó",
+    "1p": "vendamos",
+    "2p": "vendasteis",
+    "3p": "vendaron"
+  },
+  "FutSI": {
+    "1s": "vendaré",
+    "2s": "vendarás",
+    "3s": "vendará",
+    "1p": "vendaremos",
+    "2p": "vendaréis",
+    "3p": "vendarán"
+  },
+  "CondS": {
+    "1s": "vendaría",
+    "2s": "vendarías",
+    "3s": "vendaría",
+    "1p": "vendaríamos",
+    "2p": "vendaríais",
+    "3p": "vendarían"
+  },
+  "PresC": {
+    "1s": "vende",
+    "2s": "vendes",
+    "3s": "vende",
+    "1p": "vendemos",
+    "2p": "vendéis",
+    "3p": "venden"
+  },
+  "PMQPSI": {
+    "1s": "vendara",
+    "2s": "vendaras",
+    "3s": "vendara",
+    "1p": "vendáramos",
+    "2p": "vendarais",
+    "3p": "vendaran"
+  },
+  "PImpC": {
+    "1s": "vendase",
+    "2s": "vendases",
+    "3s": "vendase",
+    "1p": "vendásemos",
+    "2p": "vendaseis",
+    "3p": "vendasen"
+  },
+  "FutSC": {
+    "1s": "vendare",
+    "2s": "vendares",
+    "3s": "vendare",
+    "1p": "vendáremos",
+    "2p": "vendareis",
+    "3p": "vendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "venda",
+    "3s": "vende",
+    "1p": "vendemos",
+    "2p": "vendad",
+    "3p": "venden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vendes",
+    "3s": "no vende",
+    "1p": "no vendemos",
+    "2p": "no vendéis",
+    "3p": "no venden"
+  },
+  "Part-ter": {
+    "": "vendado"
+  },
+  "Part-ser": {
+    "ms": "vendado",
+    "fs": "vendada",
+    "mp": "vendados",
+    "fp": "vendadas"
+  }
+}

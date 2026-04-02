@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "remendar"
+  },
+  "Ger": {
+    "": "remendando"
+  },
+  "PresI": {
+    "1s": "remiendo",
+    "2s": "remiendas",
+    "3s": "remienda",
+    "1p": "remendamos",
+    "2p": "remendáis",
+    "3p": "remiendan"
+  },
+  "PImpI": {
+    "1s": "remendaba",
+    "2s": "remendabas",
+    "3s": "remendaba",
+    "1p": "remendábamos",
+    "2p": "remendabais",
+    "3p": "remendaban"
+  },
+  "PPSI": {
+    "1s": "remendé",
+    "2s": "remendaste",
+    "3s": "remendó",
+    "1p": "remendamos",
+    "2p": "remendasteis",
+    "3p": "remendaron"
+  },
+  "FutSI": {
+    "1s": "remendaré",
+    "2s": "remendarás",
+    "3s": "remendará",
+    "1p": "remendaremos",
+    "2p": "remendaréis",
+    "3p": "remendarán"
+  },
+  "CondS": {
+    "1s": "remendaría",
+    "2s": "remendarías",
+    "3s": "remendaría",
+    "1p": "remendaríamos",
+    "2p": "remendaríais",
+    "3p": "remendarían"
+  },
+  "PresC": {
+    "1s": "remiende",
+    "2s": "remiendes",
+    "3s": "remiende",
+    "1p": "remendemos",
+    "2p": "remendéis",
+    "3p": "remienden"
+  },
+  "PMQPSI": {
+    "1s": "remendara",
+    "2s": "remendaras",
+    "3s": "remendara",
+    "1p": "remendáramos",
+    "2p": "remendarais",
+    "3p": "remendaran"
+  },
+  "PImpC": {
+    "1s": "remendase",
+    "2s": "remendases",
+    "3s": "remendase",
+    "1p": "remendásemos",
+    "2p": "remendaseis",
+    "3p": "remendasen"
+  },
+  "FutSC": {
+    "1s": "remendare",
+    "2s": "remendares",
+    "3s": "remendare",
+    "1p": "remendáremos",
+    "2p": "remendareis",
+    "3p": "remendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remienda",
+    "3s": "remiende",
+    "1p": "remendemos",
+    "2p": "remendad",
+    "3p": "remienden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no remiendes",
+    "3s": "no remiende",
+    "1p": "no remendemos",
+    "2p": "no remendéis",
+    "3p": "no remienden"
+  },
+  "Part-ter": {
+    "": "remendado"
+  },
+  "Part-ser": {
+    "ms": "remendado",
+    "fs": "remendada",
+    "mp": "remendados",
+    "fp": "remendadas"
+  }
+}

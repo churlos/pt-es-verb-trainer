@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reembolsar"
+  },
+  "InfP": {
+    "1s": "reembolsar",
+    "2s": "reembolsares",
+    "3s": "reembolsar",
+    "1p": "reembolsarmos",
+    "2p": "reembolsardes",
+    "3p": "reembolsarem"
+  },
+  "Ger": {
+    "": "reembolsando"
+  },
+  "PresI": {
+    "1s": "reembolso",
+    "2s": "reembolsas",
+    "3s": "reembolsa",
+    "1p": "reembolsamos",
+    "2p": "reembolsais",
+    "3p": "reembolsam"
+  },
+  "PImpI": {
+    "1s": "reembolsava",
+    "2s": "reembolsavas",
+    "3s": "reembolsava",
+    "1p": "reembolsávamos",
+    "2p": "reembolsáveis",
+    "3p": "reembolsavam"
+  },
+  "PPSI": {
+    "1s": "reembolsei",
+    "2s": "reembolsaste",
+    "3s": "reembolsou",
+    "1p": "reembolsámos",
+    "2p": "reembolsastes",
+    "3p": "reembolsaram"
+  },
+  "PMQPSI": {
+    "1s": "reembolsara",
+    "2s": "reembolsaras",
+    "3s": "reembolsara",
+    "1p": "reembolsáramos",
+    "2p": "reembolsáreis",
+    "3p": "reembolsaram"
+  },
+  "FutSI": {
+    "1s": "reembolsarei",
+    "2s": "reembolsarás",
+    "3s": "reembolsará",
+    "1p": "reembolsaremos",
+    "2p": "reembolsareis",
+    "3p": "reembolsarão"
+  },
+  "CondS": {
+    "1s": "reembolsaria",
+    "2s": "reembolsarias",
+    "3s": "reembolsaria",
+    "1p": "reembolsaríamos",
+    "2p": "reembolsaríeis",
+    "3p": "reembolsariam"
+  },
+  "PresC": {
+    "1s": "reembolse",
+    "2s": "reembolses",
+    "3s": "reembolse",
+    "1p": "reembolsemos",
+    "2p": "reembolseis",
+    "3p": "reembolsem"
+  },
+  "PImpC": {
+    "1s": "reembolsasse",
+    "2s": "reembolsasses",
+    "3s": "reembolsasse",
+    "1p": "reembolsássemos",
+    "2p": "reembolsásseis",
+    "3p": "reembolsassem"
+  },
+  "FutSC": {
+    "1s": "reembolsar",
+    "2s": "reembolsares",
+    "3s": "reembolsar",
+    "1p": "reembolsarmos",
+    "2p": "reembolsardes",
+    "3p": "reembolsarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reembolsa",
+    "3s": "reembolse",
+    "1p": "reembolsemos",
+    "2p": "reembolsai",
+    "3p": "reembolsem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reembolses",
+    "3s": "não reembolse",
+    "1p": "não reembolsemos",
+    "2p": "não reembolseis",
+    "3p": "não reembolsem"
+  },
+  "Part-ter": {
+    "": "reembolsado"
+  },
+  "Part-ser": {
+    "ms": "reembolsado",
+    "fs": "reembolsada",
+    "mp": "reembolsados",
+    "fp": "reembolsadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inventar"
+  },
+  "Ger": {
+    "": "inventando"
+  },
+  "PresI": {
+    "1s": "invento",
+    "2s": "inventas",
+    "3s": "inventa",
+    "1p": "inventamos",
+    "2p": "inventáis",
+    "3p": "inventan"
+  },
+  "PImpI": {
+    "1s": "inventaba",
+    "2s": "inventabas",
+    "3s": "inventaba",
+    "1p": "inventábamos",
+    "2p": "inventabais",
+    "3p": "inventaban"
+  },
+  "PPSI": {
+    "1s": "inventé",
+    "2s": "inventaste",
+    "3s": "inventó",
+    "1p": "inventamos",
+    "2p": "inventasteis",
+    "3p": "inventaron"
+  },
+  "FutSI": {
+    "1s": "inventaré",
+    "2s": "inventarás",
+    "3s": "inventará",
+    "1p": "inventaremos",
+    "2p": "inventaréis",
+    "3p": "inventarán"
+  },
+  "CondS": {
+    "1s": "inventaría",
+    "2s": "inventarías",
+    "3s": "inventaría",
+    "1p": "inventaríamos",
+    "2p": "inventaríais",
+    "3p": "inventarían"
+  },
+  "PresC": {
+    "1s": "invente",
+    "2s": "inventes",
+    "3s": "invente",
+    "1p": "inventemos",
+    "2p": "inventéis",
+    "3p": "inventen"
+  },
+  "PMQPSI": {
+    "1s": "inventara",
+    "2s": "inventaras",
+    "3s": "inventara",
+    "1p": "inventáramos",
+    "2p": "inventarais",
+    "3p": "inventaran"
+  },
+  "PImpC": {
+    "1s": "inventase",
+    "2s": "inventases",
+    "3s": "inventase",
+    "1p": "inventásemos",
+    "2p": "inventaseis",
+    "3p": "inventasen"
+  },
+  "FutSC": {
+    "1s": "inventare",
+    "2s": "inventares",
+    "3s": "inventare",
+    "1p": "inventáremos",
+    "2p": "inventareis",
+    "3p": "inventaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inventa",
+    "3s": "invente",
+    "1p": "inventemos",
+    "2p": "inventad",
+    "3p": "inventen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inventes",
+    "3s": "no invente",
+    "1p": "no inventemos",
+    "2p": "no inventéis",
+    "3p": "no inventen"
+  },
+  "Part-ter": {
+    "": "inventado"
+  },
+  "Part-ser": {
+    "ms": "inventado",
+    "fs": "inventada",
+    "mp": "inventados",
+    "fp": "inventadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "transitar"
+  },
+  "InfP": {
+    "1s": "transitar",
+    "2s": "transitares",
+    "3s": "transitar",
+    "1p": "transitarmos",
+    "2p": "transitardes",
+    "3p": "transitarem"
+  },
+  "Ger": {
+    "": "transitando"
+  },
+  "PresI": {
+    "1s": "transito",
+    "2s": "transitas",
+    "3s": "transita",
+    "1p": "transitamos",
+    "2p": "transitais",
+    "3p": "transitam"
+  },
+  "PImpI": {
+    "1s": "transitava",
+    "2s": "transitavas",
+    "3s": "transitava",
+    "1p": "transitávamos",
+    "2p": "transitáveis",
+    "3p": "transitavam"
+  },
+  "PPSI": {
+    "1s": "transitei",
+    "2s": "transitaste",
+    "3s": "transitou",
+    "1p": "transitámos",
+    "2p": "transitastes",
+    "3p": "transitaram"
+  },
+  "PMQPSI": {
+    "1s": "transitara",
+    "2s": "transitaras",
+    "3s": "transitara",
+    "1p": "transitáramos",
+    "2p": "transitáreis",
+    "3p": "transitaram"
+  },
+  "FutSI": {
+    "1s": "transitarei",
+    "2s": "transitarás",
+    "3s": "transitará",
+    "1p": "transitaremos",
+    "2p": "transitareis",
+    "3p": "transitarão"
+  },
+  "CondS": {
+    "1s": "transitaria",
+    "2s": "transitarias",
+    "3s": "transitaria",
+    "1p": "transitaríamos",
+    "2p": "transitaríeis",
+    "3p": "transitariam"
+  },
+  "PresC": {
+    "1s": "transite",
+    "2s": "transites",
+    "3s": "transite",
+    "1p": "transitemos",
+    "2p": "transiteis",
+    "3p": "transitem"
+  },
+  "PImpC": {
+    "1s": "transitasse",
+    "2s": "transitasses",
+    "3s": "transitasse",
+    "1p": "transitássemos",
+    "2p": "transitásseis",
+    "3p": "transitassem"
+  },
+  "FutSC": {
+    "1s": "transitar",
+    "2s": "transitares",
+    "3s": "transitar",
+    "1p": "transitarmos",
+    "2p": "transitardes",
+    "3p": "transitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transita",
+    "3s": "transite",
+    "1p": "transitemos",
+    "2p": "transitai",
+    "3p": "transitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não transites",
+    "3s": "não transite",
+    "1p": "não transitemos",
+    "2p": "não transiteis",
+    "3p": "não transitem"
+  },
+  "Part-ter": {
+    "": "transitado"
+  },
+  "Part-ser": {
+    "ms": "transitado",
+    "fs": "transitada",
+    "mp": "transitados",
+    "fp": "transitadas"
+  }
+}

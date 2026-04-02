@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "visitar"
+  },
+  "Ger": {
+    "": "visitando"
+  },
+  "PresI": {
+    "1s": "visito",
+    "2s": "visitas",
+    "3s": "visita",
+    "1p": "visitamos",
+    "2p": "visitáis",
+    "3p": "visitan"
+  },
+  "PImpI": {
+    "1s": "visitaba",
+    "2s": "visitabas",
+    "3s": "visitaba",
+    "1p": "visitábamos",
+    "2p": "visitabais",
+    "3p": "visitaban"
+  },
+  "PPSI": {
+    "1s": "visité",
+    "2s": "visitaste",
+    "3s": "visitó",
+    "1p": "visitamos",
+    "2p": "visitasteis",
+    "3p": "visitaron"
+  },
+  "FutSI": {
+    "1s": "visitaré",
+    "2s": "visitarás",
+    "3s": "visitará",
+    "1p": "visitaremos",
+    "2p": "visitaréis",
+    "3p": "visitarán"
+  },
+  "CondS": {
+    "1s": "visitaría",
+    "2s": "visitarías",
+    "3s": "visitaría",
+    "1p": "visitaríamos",
+    "2p": "visitaríais",
+    "3p": "visitarían"
+  },
+  "PresC": {
+    "1s": "visite",
+    "2s": "visites",
+    "3s": "visite",
+    "1p": "visitemos",
+    "2p": "visitéis",
+    "3p": "visiten"
+  },
+  "PMQPSI": {
+    "1s": "visitara",
+    "2s": "visitaras",
+    "3s": "visitara",
+    "1p": "visitáramos",
+    "2p": "visitarais",
+    "3p": "visitaran"
+  },
+  "PImpC": {
+    "1s": "visitase",
+    "2s": "visitases",
+    "3s": "visitase",
+    "1p": "visitásemos",
+    "2p": "visitaseis",
+    "3p": "visitasen"
+  },
+  "FutSC": {
+    "1s": "visitare",
+    "2s": "visitares",
+    "3s": "visitare",
+    "1p": "visitáremos",
+    "2p": "visitareis",
+    "3p": "visitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "visita",
+    "3s": "visite",
+    "1p": "visitemos",
+    "2p": "visitad",
+    "3p": "visiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no visites",
+    "3s": "no visite",
+    "1p": "no visitemos",
+    "2p": "no visitéis",
+    "3p": "no visiten"
+  },
+  "Part-ter": {
+    "": "visitado"
+  },
+  "Part-ser": {
+    "ms": "visitado",
+    "fs": "visitada",
+    "mp": "visitados",
+    "fp": "visitadas"
+  }
+}

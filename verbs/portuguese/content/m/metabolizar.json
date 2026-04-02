@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "metabolizar"
+  },
+  "InfP": {
+    "1s": "metabolizar",
+    "2s": "metabolizares",
+    "3s": "metabolizar",
+    "1p": "metabolizarmos",
+    "2p": "metabolizardes",
+    "3p": "metabolizarem"
+  },
+  "Ger": {
+    "": "metabolizando"
+  },
+  "PresI": {
+    "1s": "metabolizo",
+    "2s": "metabolizas",
+    "3s": "metaboliza",
+    "1p": "metabolizamos",
+    "2p": "metabolizais",
+    "3p": "metabolizam"
+  },
+  "PImpI": {
+    "1s": "metabolizava",
+    "2s": "metabolizavas",
+    "3s": "metabolizava",
+    "1p": "metabolizávamos",
+    "2p": "metabolizáveis",
+    "3p": "metabolizavam"
+  },
+  "PPSI": {
+    "1s": "metabolizei",
+    "2s": "metabolizaste",
+    "3s": "metabolizou",
+    "1p": "metabolizámos",
+    "2p": "metabolizastes",
+    "3p": "metabolizaram"
+  },
+  "PMQPSI": {
+    "1s": "metabolizara",
+    "2s": "metabolizaras",
+    "3s": "metabolizara",
+    "1p": "metabolizáramos",
+    "2p": "metabolizáreis",
+    "3p": "metabolizaram"
+  },
+  "FutSI": {
+    "1s": "metabolizarei",
+    "2s": "metabolizarás",
+    "3s": "metabolizará",
+    "1p": "metabolizaremos",
+    "2p": "metabolizareis",
+    "3p": "metabolizarão"
+  },
+  "CondS": {
+    "1s": "metabolizaria",
+    "2s": "metabolizarias",
+    "3s": "metabolizaria",
+    "1p": "metabolizaríamos",
+    "2p": "metabolizaríeis",
+    "3p": "metabolizariam"
+  },
+  "PresC": {
+    "1s": "metabolize",
+    "2s": "metabolizes",
+    "3s": "metabolize",
+    "1p": "metabolizemos",
+    "2p": "metabolizeis",
+    "3p": "metabolizem"
+  },
+  "PImpC": {
+    "1s": "metabolizasse",
+    "2s": "metabolizasses",
+    "3s": "metabolizasse",
+    "1p": "metabolizássemos",
+    "2p": "metabolizásseis",
+    "3p": "metabolizassem"
+  },
+  "FutSC": {
+    "1s": "metabolizar",
+    "2s": "metabolizares",
+    "3s": "metabolizar",
+    "1p": "metabolizarmos",
+    "2p": "metabolizardes",
+    "3p": "metabolizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "metaboliza",
+    "3s": "metabolize",
+    "1p": "metabolizemos",
+    "2p": "metabolizai",
+    "3p": "metabolizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não metabolizes",
+    "3s": "não metabolize",
+    "1p": "não metabolizemos",
+    "2p": "não metabolizeis",
+    "3p": "não metabolizem"
+  },
+  "Part-ter": {
+    "": "metabolizado"
+  },
+  "Part-ser": {
+    "ms": "metabolizado",
+    "fs": "metabolizada",
+    "mp": "metabolizados",
+    "fp": "metabolizadas"
+  }
+}

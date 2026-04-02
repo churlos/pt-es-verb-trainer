@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "masticar"
+  },
+  "Ger": {
+    "": "masticando"
+  },
+  "PresI": {
+    "1s": "mastico",
+    "2s": "masticas",
+    "3s": "mastica",
+    "1p": "masticamos",
+    "2p": "masticáis",
+    "3p": "mastican"
+  },
+  "PImpI": {
+    "1s": "masticaba",
+    "2s": "masticabas",
+    "3s": "masticaba",
+    "1p": "masticábamos",
+    "2p": "masticabais",
+    "3p": "masticaban"
+  },
+  "PPSI": {
+    "1s": "mastiqué",
+    "2s": "masticaste",
+    "3s": "masticó",
+    "1p": "masticamos",
+    "2p": "masticasteis",
+    "3p": "masticaron"
+  },
+  "FutSI": {
+    "1s": "masticaré",
+    "2s": "masticarás",
+    "3s": "masticará",
+    "1p": "masticaremos",
+    "2p": "masticaréis",
+    "3p": "masticarán"
+  },
+  "CondS": {
+    "1s": "masticaría",
+    "2s": "masticarías",
+    "3s": "masticaría",
+    "1p": "masticaríamos",
+    "2p": "masticaríais",
+    "3p": "masticarían"
+  },
+  "PresC": {
+    "1s": "mastique",
+    "2s": "mastiques",
+    "3s": "mastique",
+    "1p": "mastiquemos",
+    "2p": "mastiquéis",
+    "3p": "mastiquen"
+  },
+  "PMQPSI": {
+    "1s": "masticara",
+    "2s": "masticaras",
+    "3s": "masticara",
+    "1p": "masticáramos",
+    "2p": "masticarais",
+    "3p": "masticaran"
+  },
+  "PImpC": {
+    "1s": "masticase",
+    "2s": "masticases",
+    "3s": "masticase",
+    "1p": "masticásemos",
+    "2p": "masticaseis",
+    "3p": "masticasen"
+  },
+  "FutSC": {
+    "1s": "masticare",
+    "2s": "masticares",
+    "3s": "masticare",
+    "1p": "masticáremos",
+    "2p": "masticareis",
+    "3p": "masticaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mastica",
+    "3s": "mastique",
+    "1p": "mastiquemos",
+    "2p": "masticad",
+    "3p": "mastiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mastiques",
+    "3s": "no mastique",
+    "1p": "no mastiquemos",
+    "2p": "no mastiquéis",
+    "3p": "no mastiquen"
+  },
+  "Part-ter": {
+    "": "masticado"
+  },
+  "Part-ser": {
+    "ms": "masticado",
+    "fs": "masticada",
+    "mp": "masticados",
+    "fp": "masticadas"
+  }
+}

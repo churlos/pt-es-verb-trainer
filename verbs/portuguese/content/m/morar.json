@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "morar"
+  },
+  "InfP": {
+    "1s": "morar",
+    "2s": "morares",
+    "3s": "morar",
+    "1p": "morarmos",
+    "2p": "morardes",
+    "3p": "morarem"
+  },
+  "Ger": {
+    "": "morando"
+  },
+  "PresI": {
+    "1s": "moro",
+    "2s": "moras",
+    "3s": "mora",
+    "1p": "moramos",
+    "2p": "morais",
+    "3p": "moram"
+  },
+  "PImpI": {
+    "1s": "morava",
+    "2s": "moravas",
+    "3s": "morava",
+    "1p": "morávamos",
+    "2p": "moráveis",
+    "3p": "moravam"
+  },
+  "PPSI": {
+    "1s": "morei",
+    "2s": "moraste",
+    "3s": "morou",
+    "1p": "morámos",
+    "2p": "morastes",
+    "3p": "moraram"
+  },
+  "PMQPSI": {
+    "1s": "morara",
+    "2s": "moraras",
+    "3s": "morara",
+    "1p": "moráramos",
+    "2p": "moráreis",
+    "3p": "moraram"
+  },
+  "FutSI": {
+    "1s": "morarei",
+    "2s": "morarás",
+    "3s": "morará",
+    "1p": "moraremos",
+    "2p": "morareis",
+    "3p": "morarão"
+  },
+  "CondS": {
+    "1s": "moraria",
+    "2s": "morarias",
+    "3s": "moraria",
+    "1p": "moraríamos",
+    "2p": "moraríeis",
+    "3p": "morariam"
+  },
+  "PresC": {
+    "1s": "more",
+    "2s": "mores",
+    "3s": "more",
+    "1p": "moremos",
+    "2p": "moreis",
+    "3p": "morem"
+  },
+  "PImpC": {
+    "1s": "morasse",
+    "2s": "morasses",
+    "3s": "morasse",
+    "1p": "morássemos",
+    "2p": "morásseis",
+    "3p": "morassem"
+  },
+  "FutSC": {
+    "1s": "morar",
+    "2s": "morares",
+    "3s": "morar",
+    "1p": "morarmos",
+    "2p": "morardes",
+    "3p": "morarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mora",
+    "3s": "more",
+    "1p": "moremos",
+    "2p": "morai",
+    "3p": "morem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mores",
+    "3s": "não more",
+    "1p": "não moremos",
+    "2p": "não moreis",
+    "3p": "não morem"
+  },
+  "Part-ter": {
+    "": "morado"
+  },
+  "Part-ser": {
+    "ms": "morado",
+    "fs": "morada",
+    "mp": "morados",
+    "fp": "moradas"
+  }
+}

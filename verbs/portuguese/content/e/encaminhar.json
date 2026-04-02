@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encaminhar"
+  },
+  "InfP": {
+    "1s": "encaminhar",
+    "2s": "encaminhares",
+    "3s": "encaminhar",
+    "1p": "encaminharmos",
+    "2p": "encaminhardes",
+    "3p": "encaminharem"
+  },
+  "Ger": {
+    "": "encaminhando"
+  },
+  "PresI": {
+    "1s": "encaminho",
+    "2s": "encaminhas",
+    "3s": "encaminha",
+    "1p": "encaminhamos",
+    "2p": "encaminhais",
+    "3p": "encaminham"
+  },
+  "PImpI": {
+    "1s": "encaminhava",
+    "2s": "encaminhavas",
+    "3s": "encaminhava",
+    "1p": "encaminhávamos",
+    "2p": "encaminháveis",
+    "3p": "encaminhavam"
+  },
+  "PPSI": {
+    "1s": "encaminhei",
+    "2s": "encaminhaste",
+    "3s": "encaminhou",
+    "1p": "encaminhámos",
+    "2p": "encaminhastes",
+    "3p": "encaminharam"
+  },
+  "PMQPSI": {
+    "1s": "encaminhara",
+    "2s": "encaminharas",
+    "3s": "encaminhara",
+    "1p": "encaminháramos",
+    "2p": "encaminháreis",
+    "3p": "encaminharam"
+  },
+  "FutSI": {
+    "1s": "encaminharei",
+    "2s": "encaminharás",
+    "3s": "encaminhará",
+    "1p": "encaminharemos",
+    "2p": "encaminhareis",
+    "3p": "encaminharão"
+  },
+  "CondS": {
+    "1s": "encaminharia",
+    "2s": "encaminharias",
+    "3s": "encaminharia",
+    "1p": "encaminharíamos",
+    "2p": "encaminharíeis",
+    "3p": "encaminhariam"
+  },
+  "PresC": {
+    "1s": "encaminhe",
+    "2s": "encaminhes",
+    "3s": "encaminhe",
+    "1p": "encaminhemos",
+    "2p": "encaminheis",
+    "3p": "encaminhem"
+  },
+  "PImpC": {
+    "1s": "encaminhasse",
+    "2s": "encaminhasses",
+    "3s": "encaminhasse",
+    "1p": "encaminhássemos",
+    "2p": "encaminhásseis",
+    "3p": "encaminhassem"
+  },
+  "FutSC": {
+    "1s": "encaminhar",
+    "2s": "encaminhares",
+    "3s": "encaminhar",
+    "1p": "encaminharmos",
+    "2p": "encaminhardes",
+    "3p": "encaminharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encaminha",
+    "3s": "encaminhe",
+    "1p": "encaminhemos",
+    "2p": "encaminhai",
+    "3p": "encaminhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encaminhes",
+    "3s": "não encaminhe",
+    "1p": "não encaminhemos",
+    "2p": "não encaminheis",
+    "3p": "não encaminhem"
+  },
+  "Part-ter": {
+    "": "encaminhado"
+  },
+  "Part-ser": {
+    "ms": "encaminhado",
+    "fs": "encaminhada",
+    "mp": "encaminhados",
+    "fp": "encaminhadas"
+  }
+}

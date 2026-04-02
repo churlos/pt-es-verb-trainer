@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "especar"
+  },
+  "InfP": {
+    "1s": "especar",
+    "2s": "especares",
+    "3s": "especar",
+    "1p": "especarmos",
+    "2p": "especardes",
+    "3p": "especarem"
+  },
+  "Ger": {
+    "": "especando"
+  },
+  "PresI": {
+    "1s": "especo",
+    "2s": "especas",
+    "3s": "especa",
+    "1p": "especamos",
+    "2p": "especais",
+    "3p": "especam"
+  },
+  "PImpI": {
+    "1s": "especava",
+    "2s": "especavas",
+    "3s": "especava",
+    "1p": "especávamos",
+    "2p": "especáveis",
+    "3p": "especavam"
+  },
+  "PPSI": {
+    "1s": "especei",
+    "2s": "especaste",
+    "3s": "especou",
+    "1p": "especámos",
+    "2p": "especastes",
+    "3p": "especaram"
+  },
+  "PMQPSI": {
+    "1s": "especara",
+    "2s": "especaras",
+    "3s": "especara",
+    "1p": "especáramos",
+    "2p": "especáreis",
+    "3p": "especaram"
+  },
+  "FutSI": {
+    "1s": "especarei",
+    "2s": "especarás",
+    "3s": "especará",
+    "1p": "especaremos",
+    "2p": "especareis",
+    "3p": "especarão"
+  },
+  "CondS": {
+    "1s": "especaria",
+    "2s": "especarias",
+    "3s": "especaria",
+    "1p": "especaríamos",
+    "2p": "especaríeis",
+    "3p": "especariam"
+  },
+  "PresC": {
+    "1s": "espece",
+    "2s": "especes",
+    "3s": "espece",
+    "1p": "especemos",
+    "2p": "especeis",
+    "3p": "especem"
+  },
+  "PImpC": {
+    "1s": "especasse",
+    "2s": "especasses",
+    "3s": "especasse",
+    "1p": "especássemos",
+    "2p": "especásseis",
+    "3p": "especassem"
+  },
+  "FutSC": {
+    "1s": "especar",
+    "2s": "especares",
+    "3s": "especar",
+    "1p": "especarmos",
+    "2p": "especardes",
+    "3p": "especarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "especa",
+    "3s": "espece",
+    "1p": "especemos",
+    "2p": "especai",
+    "3p": "especem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não especes",
+    "3s": "não espece",
+    "1p": "não especemos",
+    "2p": "não especeis",
+    "3p": "não especem"
+  },
+  "Part-ter": {
+    "": "especado"
+  },
+  "Part-ser": {
+    "ms": "especado",
+    "fs": "especada",
+    "mp": "especados",
+    "fp": "especadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "polimerizar"
+  },
+  "InfP": {
+    "1s": "polimerizar",
+    "2s": "polimerizares",
+    "3s": "polimerizar",
+    "1p": "polimerizarmos",
+    "2p": "polimerizardes",
+    "3p": "polimerizarem"
+  },
+  "Ger": {
+    "": "polimerizando"
+  },
+  "PresI": {
+    "1s": "polimerizo",
+    "2s": "polimerizas",
+    "3s": "polimeriza",
+    "1p": "polimerizamos",
+    "2p": "polimerizais",
+    "3p": "polimerizam"
+  },
+  "PImpI": {
+    "1s": "polimerizava",
+    "2s": "polimerizavas",
+    "3s": "polimerizava",
+    "1p": "polimerizávamos",
+    "2p": "polimerizáveis",
+    "3p": "polimerizavam"
+  },
+  "PPSI": {
+    "1s": "polimerizei",
+    "2s": "polimerizaste",
+    "3s": "polimerizou",
+    "1p": "polimerizámos",
+    "2p": "polimerizastes",
+    "3p": "polimerizaram"
+  },
+  "PMQPSI": {
+    "1s": "polimerizara",
+    "2s": "polimerizaras",
+    "3s": "polimerizara",
+    "1p": "polimerizáramos",
+    "2p": "polimerizáreis",
+    "3p": "polimerizaram"
+  },
+  "FutSI": {
+    "1s": "polimerizarei",
+    "2s": "polimerizarás",
+    "3s": "polimerizará",
+    "1p": "polimerizaremos",
+    "2p": "polimerizareis",
+    "3p": "polimerizarão"
+  },
+  "CondS": {
+    "1s": "polimerizaria",
+    "2s": "polimerizarias",
+    "3s": "polimerizaria",
+    "1p": "polimerizaríamos",
+    "2p": "polimerizaríeis",
+    "3p": "polimerizariam"
+  },
+  "PresC": {
+    "1s": "polimerize",
+    "2s": "polimerizes",
+    "3s": "polimerize",
+    "1p": "polimerizemos",
+    "2p": "polimerizeis",
+    "3p": "polimerizem"
+  },
+  "PImpC": {
+    "1s": "polimerizasse",
+    "2s": "polimerizasses",
+    "3s": "polimerizasse",
+    "1p": "polimerizássemos",
+    "2p": "polimerizásseis",
+    "3p": "polimerizassem"
+  },
+  "FutSC": {
+    "1s": "polimerizar",
+    "2s": "polimerizares",
+    "3s": "polimerizar",
+    "1p": "polimerizarmos",
+    "2p": "polimerizardes",
+    "3p": "polimerizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "polimeriza",
+    "3s": "polimerize",
+    "1p": "polimerizemos",
+    "2p": "polimerizai",
+    "3p": "polimerizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não polimerizes",
+    "3s": "não polimerize",
+    "1p": "não polimerizemos",
+    "2p": "não polimerizeis",
+    "3p": "não polimerizem"
+  },
+  "Part-ter": {
+    "": "polimerizado"
+  },
+  "Part-ser": {
+    "ms": "polimerizado",
+    "fs": "polimerizada",
+    "mp": "polimerizados",
+    "fp": "polimerizadas"
+  }
+}

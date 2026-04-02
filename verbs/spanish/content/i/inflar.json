@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inflar"
+  },
+  "Ger": {
+    "": "inflando"
+  },
+  "PresI": {
+    "1s": "inflo",
+    "2s": "inflas",
+    "3s": "infla",
+    "1p": "inflamos",
+    "2p": "infláis",
+    "3p": "inflan"
+  },
+  "PImpI": {
+    "1s": "inflaba",
+    "2s": "inflabas",
+    "3s": "inflaba",
+    "1p": "inflábamos",
+    "2p": "inflabais",
+    "3p": "inflaban"
+  },
+  "PPSI": {
+    "1s": "inflé",
+    "2s": "inflaste",
+    "3s": "infló",
+    "1p": "inflamos",
+    "2p": "inflasteis",
+    "3p": "inflaron"
+  },
+  "FutSI": {
+    "1s": "inflaré",
+    "2s": "inflarás",
+    "3s": "inflará",
+    "1p": "inflaremos",
+    "2p": "inflaréis",
+    "3p": "inflarán"
+  },
+  "CondS": {
+    "1s": "inflaría",
+    "2s": "inflarías",
+    "3s": "inflaría",
+    "1p": "inflaríamos",
+    "2p": "inflaríais",
+    "3p": "inflarían"
+  },
+  "PresC": {
+    "1s": "infle",
+    "2s": "infles",
+    "3s": "infle",
+    "1p": "inflemos",
+    "2p": "infléis",
+    "3p": "inflen"
+  },
+  "PMQPSI": {
+    "1s": "inflara",
+    "2s": "inflaras",
+    "3s": "inflara",
+    "1p": "infláramos",
+    "2p": "inflarais",
+    "3p": "inflaran"
+  },
+  "PImpC": {
+    "1s": "inflase",
+    "2s": "inflases",
+    "3s": "inflase",
+    "1p": "inflásemos",
+    "2p": "inflaseis",
+    "3p": "inflasen"
+  },
+  "FutSC": {
+    "1s": "inflare",
+    "2s": "inflares",
+    "3s": "inflare",
+    "1p": "infláremos",
+    "2p": "inflareis",
+    "3p": "inflaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infla",
+    "3s": "infle",
+    "1p": "inflemos",
+    "2p": "inflad",
+    "3p": "inflen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no infles",
+    "3s": "no infle",
+    "1p": "no inflemos",
+    "2p": "no infléis",
+    "3p": "no inflen"
+  },
+  "Part-ter": {
+    "": "inflado"
+  },
+  "Part-ser": {
+    "ms": "inflado",
+    "fs": "inflada",
+    "mp": "inflados",
+    "fp": "infladas"
+  }
+}

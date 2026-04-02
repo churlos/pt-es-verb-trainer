@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reinar"
+  },
+  "InfP": {
+    "1s": "reinar",
+    "2s": "reinares",
+    "3s": "reinar",
+    "1p": "reinarmos",
+    "2p": "reinardes",
+    "3p": "reinarem"
+  },
+  "Ger": {
+    "": "reinando"
+  },
+  "PresI": {
+    "1s": "reino",
+    "2s": "reinas",
+    "3s": "reina",
+    "1p": "reinamos",
+    "2p": "reinais",
+    "3p": "reinam"
+  },
+  "PImpI": {
+    "1s": "reinava",
+    "2s": "reinavas",
+    "3s": "reinava",
+    "1p": "reinávamos",
+    "2p": "reináveis",
+    "3p": "reinavam"
+  },
+  "PPSI": {
+    "1s": "reinei",
+    "2s": "reinaste",
+    "3s": "reinou",
+    "1p": "reinámos",
+    "2p": "reinastes",
+    "3p": "reinaram"
+  },
+  "PMQPSI": {
+    "1s": "reinara",
+    "2s": "reinaras",
+    "3s": "reinara",
+    "1p": "reináramos",
+    "2p": "reináreis",
+    "3p": "reinaram"
+  },
+  "FutSI": {
+    "1s": "reinarei",
+    "2s": "reinarás",
+    "3s": "reinará",
+    "1p": "reinaremos",
+    "2p": "reinareis",
+    "3p": "reinarão"
+  },
+  "CondS": {
+    "1s": "reinaria",
+    "2s": "reinarias",
+    "3s": "reinaria",
+    "1p": "reinaríamos",
+    "2p": "reinaríeis",
+    "3p": "reinariam"
+  },
+  "PresC": {
+    "1s": "reine",
+    "2s": "reines",
+    "3s": "reine",
+    "1p": "reinemos",
+    "2p": "reineis",
+    "3p": "reinem"
+  },
+  "PImpC": {
+    "1s": "reinasse",
+    "2s": "reinasses",
+    "3s": "reinasse",
+    "1p": "reinássemos",
+    "2p": "reinásseis",
+    "3p": "reinassem"
+  },
+  "FutSC": {
+    "1s": "reinar",
+    "2s": "reinares",
+    "3s": "reinar",
+    "1p": "reinarmos",
+    "2p": "reinardes",
+    "3p": "reinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reina",
+    "3s": "reine",
+    "1p": "reinemos",
+    "2p": "reinai",
+    "3p": "reinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reines",
+    "3s": "não reine",
+    "1p": "não reinemos",
+    "2p": "não reineis",
+    "3p": "não reinem"
+  },
+  "Part-ter": {
+    "": "reinado"
+  },
+  "Part-ser": {
+    "ms": "reinado",
+    "fs": "reinada",
+    "mp": "reinados",
+    "fp": "reinadas"
+  }
+}

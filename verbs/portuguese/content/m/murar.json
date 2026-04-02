@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "murar"
+  },
+  "InfP": {
+    "1s": "murar",
+    "2s": "murares",
+    "3s": "murar",
+    "1p": "murarmos",
+    "2p": "murardes",
+    "3p": "murarem"
+  },
+  "Ger": {
+    "": "murando"
+  },
+  "PresI": {
+    "1s": "muro",
+    "2s": "muras",
+    "3s": "mura",
+    "1p": "muramos",
+    "2p": "murais",
+    "3p": "muram"
+  },
+  "PImpI": {
+    "1s": "murava",
+    "2s": "muravas",
+    "3s": "murava",
+    "1p": "murávamos",
+    "2p": "muráveis",
+    "3p": "muravam"
+  },
+  "PPSI": {
+    "1s": "murei",
+    "2s": "muraste",
+    "3s": "murou",
+    "1p": "murámos",
+    "2p": "murastes",
+    "3p": "muraram"
+  },
+  "PMQPSI": {
+    "1s": "murara",
+    "2s": "muraras",
+    "3s": "murara",
+    "1p": "muráramos",
+    "2p": "muráreis",
+    "3p": "muraram"
+  },
+  "FutSI": {
+    "1s": "murarei",
+    "2s": "murarás",
+    "3s": "murará",
+    "1p": "muraremos",
+    "2p": "murareis",
+    "3p": "murarão"
+  },
+  "CondS": {
+    "1s": "muraria",
+    "2s": "murarias",
+    "3s": "muraria",
+    "1p": "muraríamos",
+    "2p": "muraríeis",
+    "3p": "murariam"
+  },
+  "PresC": {
+    "1s": "mure",
+    "2s": "mures",
+    "3s": "mure",
+    "1p": "muremos",
+    "2p": "mureis",
+    "3p": "murem"
+  },
+  "PImpC": {
+    "1s": "murasse",
+    "2s": "murasses",
+    "3s": "murasse",
+    "1p": "murássemos",
+    "2p": "murásseis",
+    "3p": "murassem"
+  },
+  "FutSC": {
+    "1s": "murar",
+    "2s": "murares",
+    "3s": "murar",
+    "1p": "murarmos",
+    "2p": "murardes",
+    "3p": "murarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mura",
+    "3s": "mure",
+    "1p": "muremos",
+    "2p": "murai",
+    "3p": "murem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mures",
+    "3s": "não mure",
+    "1p": "não muremos",
+    "2p": "não mureis",
+    "3p": "não murem"
+  },
+  "Part-ter": {
+    "": "murado"
+  },
+  "Part-ser": {
+    "ms": "murado",
+    "fs": "murada",
+    "mp": "murados",
+    "fp": "muradas"
+  }
+}

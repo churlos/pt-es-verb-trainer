@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dolerse"
+  },
+  "Ger": {
+    "": "doliéndose"
+  },
+  "PresI": {
+    "1s": "me duelo",
+    "2s": "te dueles",
+    "3s": "se duele",
+    "1p": "nos dolemos",
+    "2p": "os doléis",
+    "3p": "se duelen"
+  },
+  "PImpI": {
+    "1s": "me dolía",
+    "2s": "te dolías",
+    "3s": "se dolía",
+    "1p": "nos dolíamos",
+    "2p": "os dolíais",
+    "3p": "se dolían"
+  },
+  "PPSI": {
+    "1s": "me dolí",
+    "2s": "te doliste",
+    "3s": "se dolió",
+    "1p": "nos dolimos",
+    "2p": "os dolisteis",
+    "3p": "se dolieron"
+  },
+  "FutSI": {
+    "1s": "me doleré",
+    "2s": "te dolerás",
+    "3s": "se dolerá",
+    "1p": "nos doleremos",
+    "2p": "os doleréis",
+    "3p": "se dolerán"
+  },
+  "CondS": {
+    "1s": "me dolería",
+    "2s": "te dolerías",
+    "3s": "se dolería",
+    "1p": "nos doleríamos",
+    "2p": "os doleríais",
+    "3p": "se dolerían"
+  },
+  "PresC": {
+    "1s": "me duela",
+    "2s": "te duelas",
+    "3s": "se duela",
+    "1p": "nos dolamos",
+    "2p": "os doláis",
+    "3p": "se duelan"
+  },
+  "PMQPSI": {
+    "1s": "me doliera",
+    "2s": "te dolieras",
+    "3s": "se doliera",
+    "1p": "nos doliéramos",
+    "2p": "os dolierais",
+    "3p": "se dolieran"
+  },
+  "PImpC": {
+    "1s": "me doliese",
+    "2s": "te dolieses",
+    "3s": "se doliese",
+    "1p": "nos doliésemos",
+    "2p": "os dolieseis",
+    "3p": "se doliesen"
+  },
+  "FutSC": {
+    "1s": "me doliere",
+    "2s": "te dolieres",
+    "3s": "se doliere",
+    "1p": "nos doliéremos",
+    "2p": "os doliereis",
+    "3p": "se dolieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "duélete",
+    "3s": "duélase",
+    "1p": "dolámonos",
+    "2p": "doleos",
+    "3p": "duélanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te duelas",
+    "3s": "no se duela",
+    "1p": "no nos dolamos",
+    "2p": "no os doláis",
+    "3p": "no se duelan"
+  },
+  "Part-ter": {
+    "": "dolido"
+  },
+  "Part-ser": {
+    "ms": "dolido",
+    "fs": "dolida",
+    "mp": "dolidos",
+    "fp": "dolidas"
+  }
+}

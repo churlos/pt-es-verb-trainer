@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "facer"
+  },
+  "Ger": {
+    "": "faciendo"
+  },
+  "PresI": {
+    "1s": "fago",
+    "2s": "faces",
+    "3s": "face",
+    "1p": "facemos",
+    "2p": "facéis",
+    "3p": "facen"
+  },
+  "PImpI": {
+    "1s": "facía",
+    "2s": "facías",
+    "3s": "facía",
+    "1p": "facíamos",
+    "2p": "facíais",
+    "3p": "facían"
+  },
+  "PPSI": {
+    "1s": "fice",
+    "2s": "ficiste",
+    "3s": "fizo",
+    "1p": "ficimos",
+    "2p": "ficisteis",
+    "3p": "ficieron"
+  },
+  "FutSI": {
+    "1s": "faré",
+    "2s": "farás",
+    "3s": "fará",
+    "1p": "faremos",
+    "2p": "faréis",
+    "3p": "farán"
+  },
+  "CondS": {
+    "1s": "faría",
+    "2s": "farías",
+    "3s": "faría",
+    "1p": "faríamos",
+    "2p": "faríais",
+    "3p": "farían"
+  },
+  "PresC": {
+    "1s": "faga",
+    "2s": "fagas",
+    "3s": "faga",
+    "1p": "fagamos",
+    "2p": "fagáis",
+    "3p": "fagan"
+  },
+  "PMQPSI": {
+    "1s": "ficiera",
+    "2s": "ficieras",
+    "3s": "ficiera",
+    "1p": "ficiéramos",
+    "2p": "ficierais",
+    "3p": "ficieran"
+  },
+  "PImpC": {
+    "1s": "ficiese",
+    "2s": "ficieses",
+    "3s": "ficiese",
+    "1p": "ficiésemos",
+    "2p": "ficieseis",
+    "3p": "ficiesen"
+  },
+  "FutSC": {
+    "1s": "ficiere",
+    "2s": "ficieres",
+    "3s": "ficiere",
+    "1p": "ficiéremos",
+    "2p": "ficiereis",
+    "3p": "ficieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "face",
+    "3s": "faga",
+    "1p": "fagamos",
+    "2p": "faced",
+    "3p": "fagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fagas",
+    "3s": "no faga",
+    "1p": "no fagamos",
+    "2p": "no fagáis",
+    "3p": "no fagan"
+  },
+  "Part-ter": {
+    "": "fecho"
+  },
+  "Part-ser": {
+    "ms": "fecho",
+    "fs": "fecha",
+    "mp": "fechos",
+    "fp": "fechas"
+  }
+}

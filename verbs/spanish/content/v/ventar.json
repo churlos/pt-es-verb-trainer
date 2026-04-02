@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ventar"
+  },
+  "Ger": {
+    "": "ventando"
+  },
+  "PresI": {
+    "1s": "viento",
+    "2s": "vientas",
+    "3s": "vienta",
+    "1p": "ventamos",
+    "2p": "ventáis",
+    "3p": "vientan"
+  },
+  "PImpI": {
+    "1s": "ventaba",
+    "2s": "ventabas",
+    "3s": "ventaba",
+    "1p": "ventábamos",
+    "2p": "ventabais",
+    "3p": "ventaban"
+  },
+  "PPSI": {
+    "1s": "venté",
+    "2s": "ventaste",
+    "3s": "ventó",
+    "1p": "ventamos",
+    "2p": "ventasteis",
+    "3p": "ventaron"
+  },
+  "FutSI": {
+    "1s": "ventaré",
+    "2s": "ventarás",
+    "3s": "ventará",
+    "1p": "ventaremos",
+    "2p": "ventaréis",
+    "3p": "ventarán"
+  },
+  "CondS": {
+    "1s": "ventaría",
+    "2s": "ventarías",
+    "3s": "ventaría",
+    "1p": "ventaríamos",
+    "2p": "ventaríais",
+    "3p": "ventarían"
+  },
+  "PresC": {
+    "1s": "viente",
+    "2s": "vientes",
+    "3s": "viente",
+    "1p": "ventemos",
+    "2p": "ventéis",
+    "3p": "vienten"
+  },
+  "PMQPSI": {
+    "1s": "ventara",
+    "2s": "ventaras",
+    "3s": "ventara",
+    "1p": "ventáramos",
+    "2p": "ventarais",
+    "3p": "ventaran"
+  },
+  "PImpC": {
+    "1s": "ventase",
+    "2s": "ventases",
+    "3s": "ventase",
+    "1p": "ventásemos",
+    "2p": "ventaseis",
+    "3p": "ventasen"
+  },
+  "FutSC": {
+    "1s": "ventare",
+    "2s": "ventares",
+    "3s": "ventare",
+    "1p": "ventáremos",
+    "2p": "ventareis",
+    "3p": "ventaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vienta",
+    "3s": "viente",
+    "1p": "ventemos",
+    "2p": "ventad",
+    "3p": "vienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vientes",
+    "3s": "no viente",
+    "1p": "no ventemos",
+    "2p": "no ventéis",
+    "3p": "no vienten"
+  },
+  "Part-ter": {
+    "": "ventado"
+  },
+  "Part-ser": {
+    "ms": "ventado",
+    "fs": "ventada",
+    "mp": "ventados",
+    "fp": "ventadas"
+  }
+}

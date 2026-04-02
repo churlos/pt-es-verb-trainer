@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esmagar"
+  },
+  "InfP": {
+    "1s": "esmagar",
+    "2s": "esmagares",
+    "3s": "esmagar",
+    "1p": "esmagarmos",
+    "2p": "esmagardes",
+    "3p": "esmagarem"
+  },
+  "Ger": {
+    "": "esmagando"
+  },
+  "PresI": {
+    "1s": "esmago",
+    "2s": "esmagas",
+    "3s": "esmaga",
+    "1p": "esmagamos",
+    "2p": "esmagais",
+    "3p": "esmagam"
+  },
+  "PImpI": {
+    "1s": "esmagava",
+    "2s": "esmagavas",
+    "3s": "esmagava",
+    "1p": "esmagávamos",
+    "2p": "esmagáveis",
+    "3p": "esmagavam"
+  },
+  "PPSI": {
+    "1s": "esmaguei",
+    "2s": "esmagaste",
+    "3s": "esmagou",
+    "1p": "esmagámos",
+    "2p": "esmagastes",
+    "3p": "esmagaram"
+  },
+  "PMQPSI": {
+    "1s": "esmagara",
+    "2s": "esmagaras",
+    "3s": "esmagara",
+    "1p": "esmagáramos",
+    "2p": "esmagáreis",
+    "3p": "esmagaram"
+  },
+  "FutSI": {
+    "1s": "esmagarei",
+    "2s": "esmagarás",
+    "3s": "esmagará",
+    "1p": "esmagaremos",
+    "2p": "esmagareis",
+    "3p": "esmagarão"
+  },
+  "CondS": {
+    "1s": "esmagaria",
+    "2s": "esmagarias",
+    "3s": "esmagaria",
+    "1p": "esmagaríamos",
+    "2p": "esmagaríeis",
+    "3p": "esmagariam"
+  },
+  "PresC": {
+    "1s": "esmague",
+    "2s": "esmagues",
+    "3s": "esmague",
+    "1p": "esmaguemos",
+    "2p": "esmagueis",
+    "3p": "esmaguem"
+  },
+  "PImpC": {
+    "1s": "esmagasse",
+    "2s": "esmagasses",
+    "3s": "esmagasse",
+    "1p": "esmagássemos",
+    "2p": "esmagásseis",
+    "3p": "esmagassem"
+  },
+  "FutSC": {
+    "1s": "esmagar",
+    "2s": "esmagares",
+    "3s": "esmagar",
+    "1p": "esmagarmos",
+    "2p": "esmagardes",
+    "3p": "esmagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esmaga",
+    "3s": "esmague",
+    "1p": "esmaguemos",
+    "2p": "esmagai",
+    "3p": "esmaguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esmagues",
+    "3s": "não esmague",
+    "1p": "não esmaguemos",
+    "2p": "não esmagueis",
+    "3p": "não esmaguem"
+  },
+  "Part-ter": {
+    "": "esmagado"
+  },
+  "Part-ser": {
+    "ms": "esmagado",
+    "fs": "esmagada",
+    "mp": "esmagados",
+    "fp": "esmagadas"
+  }
+}

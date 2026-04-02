@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "assar"
+  },
+  "InfP": {
+    "1s": "assar",
+    "2s": "assares",
+    "3s": "assar",
+    "1p": "assarmos",
+    "2p": "assardes",
+    "3p": "assarem"
+  },
+  "Ger": {
+    "": "assando"
+  },
+  "PresI": {
+    "1s": "asso",
+    "2s": "assas",
+    "3s": "assa",
+    "1p": "assamos",
+    "2p": "assais",
+    "3p": "assam"
+  },
+  "PImpI": {
+    "1s": "assava",
+    "2s": "assavas",
+    "3s": "assava",
+    "1p": "assávamos",
+    "2p": "assáveis",
+    "3p": "assavam"
+  },
+  "PPSI": {
+    "1s": "assei",
+    "2s": "assaste",
+    "3s": "assou",
+    "1p": "assámos",
+    "2p": "assastes",
+    "3p": "assaram"
+  },
+  "PMQPSI": {
+    "1s": "assara",
+    "2s": "assaras",
+    "3s": "assara",
+    "1p": "assáramos",
+    "2p": "assáreis",
+    "3p": "assaram"
+  },
+  "FutSI": {
+    "1s": "assarei",
+    "2s": "assarás",
+    "3s": "assará",
+    "1p": "assaremos",
+    "2p": "assareis",
+    "3p": "assarão"
+  },
+  "CondS": {
+    "1s": "assaria",
+    "2s": "assarias",
+    "3s": "assaria",
+    "1p": "assaríamos",
+    "2p": "assaríeis",
+    "3p": "assariam"
+  },
+  "PresC": {
+    "1s": "asse",
+    "2s": "asses",
+    "3s": "asse",
+    "1p": "assemos",
+    "2p": "asseis",
+    "3p": "assem"
+  },
+  "PImpC": {
+    "1s": "assasse",
+    "2s": "assasses",
+    "3s": "assasse",
+    "1p": "assássemos",
+    "2p": "assásseis",
+    "3p": "assassem"
+  },
+  "FutSC": {
+    "1s": "assar",
+    "2s": "assares",
+    "3s": "assar",
+    "1p": "assarmos",
+    "2p": "assardes",
+    "3p": "assarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "assa",
+    "3s": "asse",
+    "1p": "assemos",
+    "2p": "assai",
+    "3p": "assem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não asses",
+    "3s": "não asse",
+    "1p": "não assemos",
+    "2p": "não asseis",
+    "3p": "não assem"
+  },
+  "Part-ter": {
+    "": "assado"
+  },
+  "Part-ser": {
+    "ms": "assado",
+    "fs": "assada",
+    "mp": "assados",
+    "fp": "assadas"
+  }
+}

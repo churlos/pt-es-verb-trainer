@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desactivar"
+  },
+  "InfP": {
+    "1s": "desactivar",
+    "2s": "desactivares",
+    "3s": "desactivar",
+    "1p": "desactivarmos",
+    "2p": "desactivardes",
+    "3p": "desactivarem"
+  },
+  "Ger": {
+    "": "desactivando"
+  },
+  "PresI": {
+    "1s": "desactivo",
+    "2s": "desactivas",
+    "3s": "desactiva",
+    "1p": "desactivamos",
+    "2p": "desactivais",
+    "3p": "desactivam"
+  },
+  "PImpI": {
+    "1s": "desactivava",
+    "2s": "desactivavas",
+    "3s": "desactivava",
+    "1p": "desactivávamos",
+    "2p": "desactiváveis",
+    "3p": "desactivavam"
+  },
+  "PPSI": {
+    "1s": "desactivei",
+    "2s": "desactivaste",
+    "3s": "desactivou",
+    "1p": "desactivámos",
+    "2p": "desactivastes",
+    "3p": "desactivaram"
+  },
+  "PMQPSI": {
+    "1s": "desactivara",
+    "2s": "desactivaras",
+    "3s": "desactivara",
+    "1p": "desactiváramos",
+    "2p": "desactiváreis",
+    "3p": "desactivaram"
+  },
+  "FutSI": {
+    "1s": "desactivarei",
+    "2s": "desactivarás",
+    "3s": "desactivará",
+    "1p": "desactivaremos",
+    "2p": "desactivareis",
+    "3p": "desactivarão"
+  },
+  "CondS": {
+    "1s": "desactivaria",
+    "2s": "desactivarias",
+    "3s": "desactivaria",
+    "1p": "desactivaríamos",
+    "2p": "desactivaríeis",
+    "3p": "desactivariam"
+  },
+  "PresC": {
+    "1s": "desactive",
+    "2s": "desactives",
+    "3s": "desactive",
+    "1p": "desactivemos",
+    "2p": "desactiveis",
+    "3p": "desactivem"
+  },
+  "PImpC": {
+    "1s": "desactivasse",
+    "2s": "desactivasses",
+    "3s": "desactivasse",
+    "1p": "desactivássemos",
+    "2p": "desactivásseis",
+    "3p": "desactivassem"
+  },
+  "FutSC": {
+    "1s": "desactivar",
+    "2s": "desactivares",
+    "3s": "desactivar",
+    "1p": "desactivarmos",
+    "2p": "desactivardes",
+    "3p": "desactivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desactiva",
+    "3s": "desactive",
+    "1p": "desactivemos",
+    "2p": "desactivai",
+    "3p": "desactivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desactives",
+    "3s": "não desactive",
+    "1p": "não desactivemos",
+    "2p": "não desactiveis",
+    "3p": "não desactivem"
+  },
+  "Part-ter": {
+    "": "desactivado"
+  },
+  "Part-ser": {
+    "ms": "desactivado",
+    "fs": "desactivada",
+    "mp": "desactivados",
+    "fp": "desactivadas"
+  }
+}

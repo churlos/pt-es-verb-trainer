@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "depender"
+  },
+  "InfP": {
+    "1s": "depender",
+    "2s": "dependeres",
+    "3s": "depender",
+    "1p": "dependermos",
+    "2p": "dependerdes",
+    "3p": "dependerem"
+  },
+  "Ger": {
+    "": "dependendo"
+  },
+  "PresI": {
+    "1s": "dependo",
+    "2s": "dependes",
+    "3s": "depende",
+    "1p": "dependemos",
+    "2p": "dependeis",
+    "3p": "dependem"
+  },
+  "PImpI": {
+    "1s": "dependia",
+    "2s": "dependias",
+    "3s": "dependia",
+    "1p": "dependíamos",
+    "2p": "dependíeis",
+    "3p": "dependiam"
+  },
+  "PPSI": {
+    "1s": "dependi",
+    "2s": "dependeste",
+    "3s": "dependeu",
+    "1p": "dependemos",
+    "2p": "dependestes",
+    "3p": "dependeram"
+  },
+  "PMQPSI": {
+    "1s": "dependera",
+    "2s": "dependeras",
+    "3s": "dependera",
+    "1p": "dependêramos",
+    "2p": "dependêreis",
+    "3p": "dependeram"
+  },
+  "FutSI": {
+    "1s": "dependerei",
+    "2s": "dependerás",
+    "3s": "dependerá",
+    "1p": "dependeremos",
+    "2p": "dependereis",
+    "3p": "dependerão"
+  },
+  "CondS": {
+    "1s": "dependeria",
+    "2s": "dependerias",
+    "3s": "dependeria",
+    "1p": "dependeríamos",
+    "2p": "dependeríeis",
+    "3p": "dependeriam"
+  },
+  "PresC": {
+    "1s": "dependa",
+    "2s": "dependas",
+    "3s": "dependa",
+    "1p": "dependamos",
+    "2p": "dependais",
+    "3p": "dependam"
+  },
+  "PImpC": {
+    "1s": "dependesse",
+    "2s": "dependesses",
+    "3s": "dependesse",
+    "1p": "dependêssemos",
+    "2p": "dependêsseis",
+    "3p": "dependessem"
+  },
+  "FutSC": {
+    "1s": "depender",
+    "2s": "dependeres",
+    "3s": "depender",
+    "1p": "dependermos",
+    "2p": "dependerdes",
+    "3p": "dependerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "depende",
+    "3s": "dependa",
+    "1p": "dependamos",
+    "2p": "dependei",
+    "3p": "dependam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dependas",
+    "3s": "não dependa",
+    "1p": "não dependamos",
+    "2p": "não dependais",
+    "3p": "não dependam"
+  },
+  "Part-ter": {
+    "": "dependido"
+  },
+  "Part-ser": {
+    "ms": "dependido",
+    "fs": "dependida",
+    "mp": "dependidos",
+    "fp": "dependidas"
+  }
+}

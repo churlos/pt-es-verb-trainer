@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "saldar"
+  },
+  "Ger": {
+    "": "saldando"
+  },
+  "PresI": {
+    "1s": "saldo",
+    "2s": "saldas",
+    "3s": "salda",
+    "1p": "saldamos",
+    "2p": "saldáis",
+    "3p": "saldan"
+  },
+  "PImpI": {
+    "1s": "saldaba",
+    "2s": "saldabas",
+    "3s": "saldaba",
+    "1p": "saldábamos",
+    "2p": "saldabais",
+    "3p": "saldaban"
+  },
+  "PPSI": {
+    "1s": "saldé",
+    "2s": "saldaste",
+    "3s": "saldó",
+    "1p": "saldamos",
+    "2p": "saldasteis",
+    "3p": "saldaron"
+  },
+  "FutSI": {
+    "1s": "saldaré",
+    "2s": "saldarás",
+    "3s": "saldará",
+    "1p": "saldaremos",
+    "2p": "saldaréis",
+    "3p": "saldarán"
+  },
+  "CondS": {
+    "1s": "saldaría",
+    "2s": "saldarías",
+    "3s": "saldaría",
+    "1p": "saldaríamos",
+    "2p": "saldaríais",
+    "3p": "saldarían"
+  },
+  "PresC": {
+    "1s": "salde",
+    "2s": "saldes",
+    "3s": "salde",
+    "1p": "saldemos",
+    "2p": "saldéis",
+    "3p": "salden"
+  },
+  "PMQPSI": {
+    "1s": "saldara",
+    "2s": "saldaras",
+    "3s": "saldara",
+    "1p": "saldáramos",
+    "2p": "saldarais",
+    "3p": "saldaran"
+  },
+  "PImpC": {
+    "1s": "saldase",
+    "2s": "saldases",
+    "3s": "saldase",
+    "1p": "saldásemos",
+    "2p": "saldaseis",
+    "3p": "saldasen"
+  },
+  "FutSC": {
+    "1s": "saldare",
+    "2s": "saldares",
+    "3s": "saldare",
+    "1p": "saldáremos",
+    "2p": "saldareis",
+    "3p": "saldaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salda",
+    "3s": "salde",
+    "1p": "saldemos",
+    "2p": "saldad",
+    "3p": "salden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no saldes",
+    "3s": "no salde",
+    "1p": "no saldemos",
+    "2p": "no saldéis",
+    "3p": "no salden"
+  },
+  "Part-ter": {
+    "": "saldado"
+  },
+  "Part-ser": {
+    "ms": "saldado",
+    "fs": "saldada",
+    "mp": "saldados",
+    "fp": "saldadas"
+  }
+}

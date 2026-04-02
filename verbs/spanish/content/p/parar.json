@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parar"
+  },
+  "Ger": {
+    "": "parando"
+  },
+  "PresI": {
+    "1s": "paro",
+    "2s": "paras",
+    "3s": "para",
+    "1p": "paramos",
+    "2p": "paráis",
+    "3p": "paran"
+  },
+  "PImpI": {
+    "1s": "paraba",
+    "2s": "parabas",
+    "3s": "paraba",
+    "1p": "parábamos",
+    "2p": "parabais",
+    "3p": "paraban"
+  },
+  "PPSI": {
+    "1s": "paré",
+    "2s": "paraste",
+    "3s": "paró",
+    "1p": "paramos",
+    "2p": "parasteis",
+    "3p": "pararon"
+  },
+  "FutSI": {
+    "1s": "pararé",
+    "2s": "pararás",
+    "3s": "parará",
+    "1p": "pararemos",
+    "2p": "pararéis",
+    "3p": "pararán"
+  },
+  "CondS": {
+    "1s": "pararía",
+    "2s": "pararías",
+    "3s": "pararía",
+    "1p": "pararíamos",
+    "2p": "pararíais",
+    "3p": "pararían"
+  },
+  "PresC": {
+    "1s": "pare",
+    "2s": "pares",
+    "3s": "pare",
+    "1p": "paremos",
+    "2p": "paréis",
+    "3p": "paren"
+  },
+  "PMQPSI": {
+    "1s": "parara",
+    "2s": "pararas",
+    "3s": "parara",
+    "1p": "paráramos",
+    "2p": "pararais",
+    "3p": "pararan"
+  },
+  "PImpC": {
+    "1s": "parase",
+    "2s": "parases",
+    "3s": "parase",
+    "1p": "parásemos",
+    "2p": "paraseis",
+    "3p": "parasen"
+  },
+  "FutSC": {
+    "1s": "parare",
+    "2s": "parares",
+    "3s": "parare",
+    "1p": "paráremos",
+    "2p": "parareis",
+    "3p": "pararen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "para",
+    "3s": "pare",
+    "1p": "paremos",
+    "2p": "parad",
+    "3p": "paren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pares",
+    "3s": "no pare",
+    "1p": "no paremos",
+    "2p": "no paréis",
+    "3p": "no paren"
+  },
+  "Part-ter": {
+    "": "parado"
+  },
+  "Part-ser": {
+    "ms": "parado",
+    "fs": "parada",
+    "mp": "parados",
+    "fp": "paradas"
+  }
+}

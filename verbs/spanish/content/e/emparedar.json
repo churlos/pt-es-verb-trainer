@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "emparedar"
+  },
+  "Ger": {
+    "": "emparedando"
+  },
+  "PresI": {
+    "1s": "emparedo",
+    "2s": "emparedas",
+    "3s": "empareda",
+    "1p": "emparedamos",
+    "2p": "emparedáis",
+    "3p": "emparedan"
+  },
+  "PImpI": {
+    "1s": "emparedaba",
+    "2s": "emparedabas",
+    "3s": "emparedaba",
+    "1p": "emparedábamos",
+    "2p": "emparedabais",
+    "3p": "emparedaban"
+  },
+  "PPSI": {
+    "1s": "emparedé",
+    "2s": "emparedaste",
+    "3s": "emparedó",
+    "1p": "emparedamos",
+    "2p": "emparedasteis",
+    "3p": "emparedaron"
+  },
+  "FutSI": {
+    "1s": "emparedaré",
+    "2s": "emparedarás",
+    "3s": "emparedará",
+    "1p": "emparedaremos",
+    "2p": "emparedaréis",
+    "3p": "emparedarán"
+  },
+  "CondS": {
+    "1s": "emparedaría",
+    "2s": "emparedarías",
+    "3s": "emparedaría",
+    "1p": "emparedaríamos",
+    "2p": "emparedaríais",
+    "3p": "emparedarían"
+  },
+  "PresC": {
+    "1s": "emparede",
+    "2s": "emparedes",
+    "3s": "emparede",
+    "1p": "emparedemos",
+    "2p": "emparedéis",
+    "3p": "empareden"
+  },
+  "PMQPSI": {
+    "1s": "emparedara",
+    "2s": "emparedaras",
+    "3s": "emparedara",
+    "1p": "emparedáramos",
+    "2p": "emparedarais",
+    "3p": "emparedaran"
+  },
+  "PImpC": {
+    "1s": "emparedase",
+    "2s": "emparedases",
+    "3s": "emparedase",
+    "1p": "emparedásemos",
+    "2p": "emparedaseis",
+    "3p": "emparedasen"
+  },
+  "FutSC": {
+    "1s": "emparedare",
+    "2s": "emparedares",
+    "3s": "emparedare",
+    "1p": "emparedáremos",
+    "2p": "emparedareis",
+    "3p": "emparedaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empareda",
+    "3s": "emparede",
+    "1p": "emparedemos",
+    "2p": "emparedad",
+    "3p": "empareden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no emparedes",
+    "3s": "no emparede",
+    "1p": "no emparedemos",
+    "2p": "no emparedéis",
+    "3p": "no empareden"
+  },
+  "Part-ter": {
+    "": "emparedado"
+  },
+  "Part-ser": {
+    "ms": "emparedado",
+    "fs": "emparedada",
+    "mp": "emparedados",
+    "fp": "emparedadas"
+  }
+}

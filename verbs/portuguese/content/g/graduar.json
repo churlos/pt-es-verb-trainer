@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "graduar"
+  },
+  "InfP": {
+    "1s": "graduar",
+    "2s": "graduares",
+    "3s": "graduar",
+    "1p": "graduarmos",
+    "2p": "graduardes",
+    "3p": "graduarem"
+  },
+  "Ger": {
+    "": "graduando"
+  },
+  "PresI": {
+    "1s": "graduo",
+    "2s": "graduas",
+    "3s": "gradua",
+    "1p": "graduamos",
+    "2p": "graduais",
+    "3p": "graduam"
+  },
+  "PImpI": {
+    "1s": "graduava",
+    "2s": "graduavas",
+    "3s": "graduava",
+    "1p": "graduávamos",
+    "2p": "graduáveis",
+    "3p": "graduavam"
+  },
+  "PPSI": {
+    "1s": "graduei",
+    "2s": "graduaste",
+    "3s": "graduou",
+    "1p": "graduámos",
+    "2p": "graduastes",
+    "3p": "graduaram"
+  },
+  "PMQPSI": {
+    "1s": "graduara",
+    "2s": "graduaras",
+    "3s": "graduara",
+    "1p": "graduáramos",
+    "2p": "graduáreis",
+    "3p": "graduaram"
+  },
+  "FutSI": {
+    "1s": "graduarei",
+    "2s": "graduarás",
+    "3s": "graduará",
+    "1p": "graduaremos",
+    "2p": "graduareis",
+    "3p": "graduarão"
+  },
+  "CondS": {
+    "1s": "graduaria",
+    "2s": "graduarias",
+    "3s": "graduaria",
+    "1p": "graduaríamos",
+    "2p": "graduaríeis",
+    "3p": "graduariam"
+  },
+  "PresC": {
+    "1s": "gradue",
+    "2s": "gradues",
+    "3s": "gradue",
+    "1p": "graduemos",
+    "2p": "gradueis",
+    "3p": "graduem"
+  },
+  "PImpC": {
+    "1s": "graduasse",
+    "2s": "graduasses",
+    "3s": "graduasse",
+    "1p": "graduássemos",
+    "2p": "graduásseis",
+    "3p": "graduassem"
+  },
+  "FutSC": {
+    "1s": "graduar",
+    "2s": "graduares",
+    "3s": "graduar",
+    "1p": "graduarmos",
+    "2p": "graduardes",
+    "3p": "graduarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gradua",
+    "3s": "gradue",
+    "1p": "graduemos",
+    "2p": "graduai",
+    "3p": "graduem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gradues",
+    "3s": "não gradue",
+    "1p": "não graduemos",
+    "2p": "não gradueis",
+    "3p": "não graduem"
+  },
+  "Part-ter": {
+    "": "graduado"
+  },
+  "Part-ser": {
+    "ms": "graduado",
+    "fs": "graduada",
+    "mp": "graduados",
+    "fp": "graduadas"
+  }
+}

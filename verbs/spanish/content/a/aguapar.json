@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aguapar"
+  },
+  "Ger": {
+    "": "aguapando"
+  },
+  "PresI": {
+    "1s": "aguapo",
+    "2s": "aguapas",
+    "3s": "aguapa",
+    "1p": "aguapamos",
+    "2p": "aguapáis",
+    "3p": "aguapan"
+  },
+  "PImpI": {
+    "1s": "aguapaba",
+    "2s": "aguapabas",
+    "3s": "aguapaba",
+    "1p": "aguapábamos",
+    "2p": "aguapabais",
+    "3p": "aguapaban"
+  },
+  "PPSI": {
+    "1s": "aguapé",
+    "2s": "aguapaste",
+    "3s": "aguapó",
+    "1p": "aguapamos",
+    "2p": "aguapasteis",
+    "3p": "aguaparon"
+  },
+  "FutSI": {
+    "1s": "aguaparé",
+    "2s": "aguaparás",
+    "3s": "aguapará",
+    "1p": "aguaparemos",
+    "2p": "aguaparéis",
+    "3p": "aguaparán"
+  },
+  "CondS": {
+    "1s": "aguaparía",
+    "2s": "aguaparías",
+    "3s": "aguaparía",
+    "1p": "aguaparíamos",
+    "2p": "aguaparíais",
+    "3p": "aguaparían"
+  },
+  "PresC": {
+    "1s": "aguape",
+    "2s": "aguapes",
+    "3s": "aguape",
+    "1p": "aguapemos",
+    "2p": "aguapéis",
+    "3p": "aguapen"
+  },
+  "PMQPSI": {
+    "1s": "aguapara",
+    "2s": "aguaparas",
+    "3s": "aguapara",
+    "1p": "aguapáramos",
+    "2p": "aguaparais",
+    "3p": "aguaparan"
+  },
+  "PImpC": {
+    "1s": "aguapase",
+    "2s": "aguapases",
+    "3s": "aguapase",
+    "1p": "aguapásemos",
+    "2p": "aguapaseis",
+    "3p": "aguapasen"
+  },
+  "FutSC": {
+    "1s": "aguapare",
+    "2s": "aguapares",
+    "3s": "aguapare",
+    "1p": "aguapáremos",
+    "2p": "aguapareis",
+    "3p": "aguaparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aguapa",
+    "3s": "aguape",
+    "1p": "aguapemos",
+    "2p": "aguapad",
+    "3p": "aguapen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aguapes",
+    "3s": "no aguape",
+    "1p": "no aguapemos",
+    "2p": "no aguapéis",
+    "3p": "no aguapen"
+  },
+  "Part-ter": {
+    "": "aguapado"
+  },
+  "Part-ser": {
+    "ms": "aguapado",
+    "fs": "aguapada",
+    "mp": "aguapados",
+    "fp": "aguapadas"
+  }
+}

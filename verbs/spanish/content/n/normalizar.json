@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "normalizar"
+  },
+  "Ger": {
+    "": "normalizando"
+  },
+  "PresI": {
+    "1s": "normalizo",
+    "2s": "normalizas",
+    "3s": "normaliza",
+    "1p": "normalizamos",
+    "2p": "normalizáis",
+    "3p": "normalizan"
+  },
+  "PImpI": {
+    "1s": "normalizaba",
+    "2s": "normalizabas",
+    "3s": "normalizaba",
+    "1p": "normalizábamos",
+    "2p": "normalizabais",
+    "3p": "normalizaban"
+  },
+  "PPSI": {
+    "1s": "normalicé",
+    "2s": "normalizaste",
+    "3s": "normalizó",
+    "1p": "normalizamos",
+    "2p": "normalizasteis",
+    "3p": "normalizaron"
+  },
+  "FutSI": {
+    "1s": "normalizaré",
+    "2s": "normalizarás",
+    "3s": "normalizará",
+    "1p": "normalizaremos",
+    "2p": "normalizaréis",
+    "3p": "normalizarán"
+  },
+  "CondS": {
+    "1s": "normalizaría",
+    "2s": "normalizarías",
+    "3s": "normalizaría",
+    "1p": "normalizaríamos",
+    "2p": "normalizaríais",
+    "3p": "normalizarían"
+  },
+  "PresC": {
+    "1s": "normalice",
+    "2s": "normalices",
+    "3s": "normalice",
+    "1p": "normalicemos",
+    "2p": "normalicéis",
+    "3p": "normalicen"
+  },
+  "PMQPSI": {
+    "1s": "normalizara",
+    "2s": "normalizaras",
+    "3s": "normalizara",
+    "1p": "normalizáramos",
+    "2p": "normalizarais",
+    "3p": "normalizaran"
+  },
+  "PImpC": {
+    "1s": "normalizase",
+    "2s": "normalizases",
+    "3s": "normalizase",
+    "1p": "normalizásemos",
+    "2p": "normalizaseis",
+    "3p": "normalizasen"
+  },
+  "FutSC": {
+    "1s": "normalizare",
+    "2s": "normalizares",
+    "3s": "normalizare",
+    "1p": "normalizáremos",
+    "2p": "normalizareis",
+    "3p": "normalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "normaliza",
+    "3s": "normalice",
+    "1p": "normalicemos",
+    "2p": "normalizad",
+    "3p": "normalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no normalices",
+    "3s": "no normalice",
+    "1p": "no normalicemos",
+    "2p": "no normalicéis",
+    "3p": "no normalicen"
+  },
+  "Part-ter": {
+    "": "normalizado"
+  },
+  "Part-ser": {
+    "ms": "normalizado",
+    "fs": "normalizada",
+    "mp": "normalizados",
+    "fp": "normalizadas"
+  }
+}

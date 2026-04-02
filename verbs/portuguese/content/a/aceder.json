@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aceder"
+  },
+  "InfP": {
+    "1s": "aceder",
+    "2s": "acederes",
+    "3s": "aceder",
+    "1p": "acedermos",
+    "2p": "acederdes",
+    "3p": "acederem"
+  },
+  "Ger": {
+    "": "acedendo"
+  },
+  "PresI": {
+    "1s": "acedo",
+    "2s": "acedes",
+    "3s": "acede",
+    "1p": "acedemos",
+    "2p": "acedeis",
+    "3p": "acedem"
+  },
+  "PImpI": {
+    "1s": "acedia",
+    "2s": "acedias",
+    "3s": "acedia",
+    "1p": "acedíamos",
+    "2p": "acedíeis",
+    "3p": "acediam"
+  },
+  "PPSI": {
+    "1s": "acedi",
+    "2s": "acedeste",
+    "3s": "acedeu",
+    "1p": "acedemos",
+    "2p": "acedestes",
+    "3p": "acederam"
+  },
+  "PMQPSI": {
+    "1s": "acedera",
+    "2s": "acederas",
+    "3s": "acedera",
+    "1p": "acedêramos",
+    "2p": "acedêreis",
+    "3p": "acederam"
+  },
+  "FutSI": {
+    "1s": "acederei",
+    "2s": "acederás",
+    "3s": "acederá",
+    "1p": "acederemos",
+    "2p": "acedereis",
+    "3p": "acederão"
+  },
+  "CondS": {
+    "1s": "acederia",
+    "2s": "acederias",
+    "3s": "acederia",
+    "1p": "acederíamos",
+    "2p": "acederíeis",
+    "3p": "acederiam"
+  },
+  "PresC": {
+    "1s": "aceda",
+    "2s": "acedas",
+    "3s": "aceda",
+    "1p": "acedamos",
+    "2p": "acedais",
+    "3p": "acedam"
+  },
+  "PImpC": {
+    "1s": "acedesse",
+    "2s": "acedesses",
+    "3s": "acedesse",
+    "1p": "acedêssemos",
+    "2p": "acedêsseis",
+    "3p": "acedessem"
+  },
+  "FutSC": {
+    "1s": "aceder",
+    "2s": "acederes",
+    "3s": "aceder",
+    "1p": "acedermos",
+    "2p": "acederdes",
+    "3p": "acederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acede",
+    "3s": "aceda",
+    "1p": "acedamos",
+    "2p": "acedei",
+    "3p": "acedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acedas",
+    "3s": "não aceda",
+    "1p": "não acedamos",
+    "2p": "não acedais",
+    "3p": "não acedam"
+  },
+  "Part-ter": {
+    "": "acedido"
+  },
+  "Part-ser": {
+    "ms": "acedido",
+    "fs": "acedida",
+    "mp": "acedidos",
+    "fp": "acedidas"
+  }
+}

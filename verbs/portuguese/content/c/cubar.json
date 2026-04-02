@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cubar"
+  },
+  "InfP": {
+    "1s": "cubar",
+    "2s": "cubares",
+    "3s": "cubar",
+    "1p": "cubarmos",
+    "2p": "cubardes",
+    "3p": "cubarem"
+  },
+  "Ger": {
+    "": "cubando"
+  },
+  "PresI": {
+    "1s": "cubo",
+    "2s": "cubas",
+    "3s": "cuba",
+    "1p": "cubamos",
+    "2p": "cubais",
+    "3p": "cubam"
+  },
+  "PImpI": {
+    "1s": "cubava",
+    "2s": "cubavas",
+    "3s": "cubava",
+    "1p": "cubávamos",
+    "2p": "cubáveis",
+    "3p": "cubavam"
+  },
+  "PPSI": {
+    "1s": "cubei",
+    "2s": "cubaste",
+    "3s": "cubou",
+    "1p": "cubámos",
+    "2p": "cubastes",
+    "3p": "cubaram"
+  },
+  "PMQPSI": {
+    "1s": "cubara",
+    "2s": "cubaras",
+    "3s": "cubara",
+    "1p": "cubáramos",
+    "2p": "cubáreis",
+    "3p": "cubaram"
+  },
+  "FutSI": {
+    "1s": "cubarei",
+    "2s": "cubarás",
+    "3s": "cubará",
+    "1p": "cubaremos",
+    "2p": "cubareis",
+    "3p": "cubarão"
+  },
+  "CondS": {
+    "1s": "cubaria",
+    "2s": "cubarias",
+    "3s": "cubaria",
+    "1p": "cubaríamos",
+    "2p": "cubaríeis",
+    "3p": "cubariam"
+  },
+  "PresC": {
+    "1s": "cube",
+    "2s": "cubes",
+    "3s": "cube",
+    "1p": "cubemos",
+    "2p": "cubeis",
+    "3p": "cubem"
+  },
+  "PImpC": {
+    "1s": "cubasse",
+    "2s": "cubasses",
+    "3s": "cubasse",
+    "1p": "cubássemos",
+    "2p": "cubásseis",
+    "3p": "cubassem"
+  },
+  "FutSC": {
+    "1s": "cubar",
+    "2s": "cubares",
+    "3s": "cubar",
+    "1p": "cubarmos",
+    "2p": "cubardes",
+    "3p": "cubarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cuba",
+    "3s": "cube",
+    "1p": "cubemos",
+    "2p": "cubai",
+    "3p": "cubem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cubes",
+    "3s": "não cube",
+    "1p": "não cubemos",
+    "2p": "não cubeis",
+    "3p": "não cubem"
+  },
+  "Part-ter": {
+    "": "cubado"
+  },
+  "Part-ser": {
+    "ms": "cubado",
+    "fs": "cubada",
+    "mp": "cubados",
+    "fp": "cubadas"
+  }
+}

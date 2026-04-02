@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "residenciar"
+  },
+  "Ger": {
+    "": "residenciando"
+  },
+  "PresI": {
+    "1s": "residencio",
+    "2s": "residencias",
+    "3s": "residencia",
+    "1p": "residenciamos",
+    "2p": "residenciáis",
+    "3p": "residencian"
+  },
+  "PImpI": {
+    "1s": "residenciaba",
+    "2s": "residenciabas",
+    "3s": "residenciaba",
+    "1p": "residenciábamos",
+    "2p": "residenciabais",
+    "3p": "residenciaban"
+  },
+  "PPSI": {
+    "1s": "residencié",
+    "2s": "residenciaste",
+    "3s": "residenció",
+    "1p": "residenciamos",
+    "2p": "residenciasteis",
+    "3p": "residenciaron"
+  },
+  "FutSI": {
+    "1s": "residenciaré",
+    "2s": "residenciarás",
+    "3s": "residenciará",
+    "1p": "residenciaremos",
+    "2p": "residenciaréis",
+    "3p": "residenciarán"
+  },
+  "CondS": {
+    "1s": "residenciaría",
+    "2s": "residenciarías",
+    "3s": "residenciaría",
+    "1p": "residenciaríamos",
+    "2p": "residenciaríais",
+    "3p": "residenciarían"
+  },
+  "PresC": {
+    "1s": "residencie",
+    "2s": "residencies",
+    "3s": "residencie",
+    "1p": "residenciemos",
+    "2p": "residenciéis",
+    "3p": "residencien"
+  },
+  "PMQPSI": {
+    "1s": "residenciara",
+    "2s": "residenciaras",
+    "3s": "residenciara",
+    "1p": "residenciáramos",
+    "2p": "residenciarais",
+    "3p": "residenciaran"
+  },
+  "PImpC": {
+    "1s": "residenciase",
+    "2s": "residenciases",
+    "3s": "residenciase",
+    "1p": "residenciásemos",
+    "2p": "residenciaseis",
+    "3p": "residenciasen"
+  },
+  "FutSC": {
+    "1s": "residenciare",
+    "2s": "residenciares",
+    "3s": "residenciare",
+    "1p": "residenciáremos",
+    "2p": "residenciareis",
+    "3p": "residenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "residencia",
+    "3s": "residencie",
+    "1p": "residenciemos",
+    "2p": "residenciad",
+    "3p": "residencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no residencies",
+    "3s": "no residencie",
+    "1p": "no residenciemos",
+    "2p": "no residenciéis",
+    "3p": "no residencien"
+  },
+  "Part-ter": {
+    "": "residenciado"
+  },
+  "Part-ser": {
+    "ms": "residenciado",
+    "fs": "residenciada",
+    "mp": "residenciados",
+    "fp": "residenciadas"
+  }
+}

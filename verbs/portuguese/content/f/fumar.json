@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fumar"
+  },
+  "InfP": {
+    "1s": "fumar",
+    "2s": "fumares",
+    "3s": "fumar",
+    "1p": "fumarmos",
+    "2p": "fumardes",
+    "3p": "fumarem"
+  },
+  "Ger": {
+    "": "fumando"
+  },
+  "PresI": {
+    "1s": "fumo",
+    "2s": "fumas",
+    "3s": "fuma",
+    "1p": "fumamos",
+    "2p": "fumais",
+    "3p": "fumam"
+  },
+  "PImpI": {
+    "1s": "fumava",
+    "2s": "fumavas",
+    "3s": "fumava",
+    "1p": "fumávamos",
+    "2p": "fumáveis",
+    "3p": "fumavam"
+  },
+  "PPSI": {
+    "1s": "fumei",
+    "2s": "fumaste",
+    "3s": "fumou",
+    "1p": "fumámos",
+    "2p": "fumastes",
+    "3p": "fumaram"
+  },
+  "PMQPSI": {
+    "1s": "fumara",
+    "2s": "fumaras",
+    "3s": "fumara",
+    "1p": "fumáramos",
+    "2p": "fumáreis",
+    "3p": "fumaram"
+  },
+  "FutSI": {
+    "1s": "fumarei",
+    "2s": "fumarás",
+    "3s": "fumará",
+    "1p": "fumaremos",
+    "2p": "fumareis",
+    "3p": "fumarão"
+  },
+  "CondS": {
+    "1s": "fumaria",
+    "2s": "fumarias",
+    "3s": "fumaria",
+    "1p": "fumaríamos",
+    "2p": "fumaríeis",
+    "3p": "fumariam"
+  },
+  "PresC": {
+    "1s": "fume",
+    "2s": "fumes",
+    "3s": "fume",
+    "1p": "fumemos",
+    "2p": "fumeis",
+    "3p": "fumem"
+  },
+  "PImpC": {
+    "1s": "fumasse",
+    "2s": "fumasses",
+    "3s": "fumasse",
+    "1p": "fumássemos",
+    "2p": "fumásseis",
+    "3p": "fumassem"
+  },
+  "FutSC": {
+    "1s": "fumar",
+    "2s": "fumares",
+    "3s": "fumar",
+    "1p": "fumarmos",
+    "2p": "fumardes",
+    "3p": "fumarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fuma",
+    "3s": "fume",
+    "1p": "fumemos",
+    "2p": "fumai",
+    "3p": "fumem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fumes",
+    "3s": "não fume",
+    "1p": "não fumemos",
+    "2p": "não fumeis",
+    "3p": "não fumem"
+  },
+  "Part-ter": {
+    "": "fumado"
+  },
+  "Part-ser": {
+    "ms": "fumado",
+    "fs": "fumada",
+    "mp": "fumados",
+    "fp": "fumadas"
+  }
+}

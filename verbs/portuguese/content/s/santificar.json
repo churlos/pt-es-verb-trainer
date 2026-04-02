@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "santificar"
+  },
+  "InfP": {
+    "1s": "santificar",
+    "2s": "santificares",
+    "3s": "santificar",
+    "1p": "santificarmos",
+    "2p": "santificardes",
+    "3p": "santificarem"
+  },
+  "Ger": {
+    "": "santificando"
+  },
+  "PresI": {
+    "1s": "santifico",
+    "2s": "santificas",
+    "3s": "santifica",
+    "1p": "santificamos",
+    "2p": "santificais",
+    "3p": "santificam"
+  },
+  "PImpI": {
+    "1s": "santificava",
+    "2s": "santificavas",
+    "3s": "santificava",
+    "1p": "santificávamos",
+    "2p": "santificáveis",
+    "3p": "santificavam"
+  },
+  "PPSI": {
+    "1s": "santifiquei",
+    "2s": "santificaste",
+    "3s": "santificou",
+    "1p": "santificámos",
+    "2p": "santificastes",
+    "3p": "santificaram"
+  },
+  "PMQPSI": {
+    "1s": "santificara",
+    "2s": "santificaras",
+    "3s": "santificara",
+    "1p": "santificáramos",
+    "2p": "santificáreis",
+    "3p": "santificaram"
+  },
+  "FutSI": {
+    "1s": "santificarei",
+    "2s": "santificarás",
+    "3s": "santificará",
+    "1p": "santificaremos",
+    "2p": "santificareis",
+    "3p": "santificarão"
+  },
+  "CondS": {
+    "1s": "santificaria",
+    "2s": "santificarias",
+    "3s": "santificaria",
+    "1p": "santificaríamos",
+    "2p": "santificaríeis",
+    "3p": "santificariam"
+  },
+  "PresC": {
+    "1s": "santifique",
+    "2s": "santifiques",
+    "3s": "santifique",
+    "1p": "santifiquemos",
+    "2p": "santifiqueis",
+    "3p": "santifiquem"
+  },
+  "PImpC": {
+    "1s": "santificasse",
+    "2s": "santificasses",
+    "3s": "santificasse",
+    "1p": "santificássemos",
+    "2p": "santificásseis",
+    "3p": "santificassem"
+  },
+  "FutSC": {
+    "1s": "santificar",
+    "2s": "santificares",
+    "3s": "santificar",
+    "1p": "santificarmos",
+    "2p": "santificardes",
+    "3p": "santificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "santifica",
+    "3s": "santifique",
+    "1p": "santifiquemos",
+    "2p": "santificai",
+    "3p": "santifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não santifiques",
+    "3s": "não santifique",
+    "1p": "não santifiquemos",
+    "2p": "não santifiqueis",
+    "3p": "não santifiquem"
+  },
+  "Part-ter": {
+    "": "santificado"
+  },
+  "Part-ser": {
+    "ms": "santificado",
+    "fs": "santificada",
+    "mp": "santificados",
+    "fp": "santificadas"
+  }
+}

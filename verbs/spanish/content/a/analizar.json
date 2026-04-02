@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "analizar"
+  },
+  "Ger": {
+    "": "analizando"
+  },
+  "PresI": {
+    "1s": "analizo",
+    "2s": "analizas",
+    "3s": "analiza",
+    "1p": "analizamos",
+    "2p": "analizáis",
+    "3p": "analizan"
+  },
+  "PImpI": {
+    "1s": "analizaba",
+    "2s": "analizabas",
+    "3s": "analizaba",
+    "1p": "analizábamos",
+    "2p": "analizabais",
+    "3p": "analizaban"
+  },
+  "PPSI": {
+    "1s": "analicé",
+    "2s": "analizaste",
+    "3s": "analizó",
+    "1p": "analizamos",
+    "2p": "analizasteis",
+    "3p": "analizaron"
+  },
+  "FutSI": {
+    "1s": "analizaré",
+    "2s": "analizarás",
+    "3s": "analizará",
+    "1p": "analizaremos",
+    "2p": "analizaréis",
+    "3p": "analizarán"
+  },
+  "CondS": {
+    "1s": "analizaría",
+    "2s": "analizarías",
+    "3s": "analizaría",
+    "1p": "analizaríamos",
+    "2p": "analizaríais",
+    "3p": "analizarían"
+  },
+  "PresC": {
+    "1s": "analice",
+    "2s": "analices",
+    "3s": "analice",
+    "1p": "analicemos",
+    "2p": "analicéis",
+    "3p": "analicen"
+  },
+  "PMQPSI": {
+    "1s": "analizara",
+    "2s": "analizaras",
+    "3s": "analizara",
+    "1p": "analizáramos",
+    "2p": "analizarais",
+    "3p": "analizaran"
+  },
+  "PImpC": {
+    "1s": "analizase",
+    "2s": "analizases",
+    "3s": "analizase",
+    "1p": "analizásemos",
+    "2p": "analizaseis",
+    "3p": "analizasen"
+  },
+  "FutSC": {
+    "1s": "analizare",
+    "2s": "analizares",
+    "3s": "analizare",
+    "1p": "analizáremos",
+    "2p": "analizareis",
+    "3p": "analizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "analiza",
+    "3s": "analice",
+    "1p": "analicemos",
+    "2p": "analizad",
+    "3p": "analicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no analices",
+    "3s": "no analice",
+    "1p": "no analicemos",
+    "2p": "no analicéis",
+    "3p": "no analicen"
+  },
+  "Part-ter": {
+    "": "analizado"
+  },
+  "Part-ser": {
+    "ms": "analizado",
+    "fs": "analizada",
+    "mp": "analizados",
+    "fp": "analizadas"
+  }
+}

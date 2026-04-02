@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "noticiar"
+  },
+  "InfP": {
+    "1s": "noticiar",
+    "2s": "noticiares",
+    "3s": "noticiar",
+    "1p": "noticiarmos",
+    "2p": "noticiardes",
+    "3p": "noticiarem"
+  },
+  "Ger": {
+    "": "noticiando"
+  },
+  "PresI": {
+    "1s": "noticio",
+    "2s": "noticias",
+    "3s": "noticia",
+    "1p": "noticiamos",
+    "2p": "noticiais",
+    "3p": "noticiam"
+  },
+  "PImpI": {
+    "1s": "noticiava",
+    "2s": "noticiavas",
+    "3s": "noticiava",
+    "1p": "noticiávamos",
+    "2p": "noticiáveis",
+    "3p": "noticiavam"
+  },
+  "PPSI": {
+    "1s": "noticiei",
+    "2s": "noticiaste",
+    "3s": "noticiou",
+    "1p": "noticiámos",
+    "2p": "noticiastes",
+    "3p": "noticiaram"
+  },
+  "PMQPSI": {
+    "1s": "noticiara",
+    "2s": "noticiaras",
+    "3s": "noticiara",
+    "1p": "noticiáramos",
+    "2p": "noticiáreis",
+    "3p": "noticiaram"
+  },
+  "FutSI": {
+    "1s": "noticiarei",
+    "2s": "noticiarás",
+    "3s": "noticiará",
+    "1p": "noticiaremos",
+    "2p": "noticiareis",
+    "3p": "noticiarão"
+  },
+  "CondS": {
+    "1s": "noticiaria",
+    "2s": "noticiarias",
+    "3s": "noticiaria",
+    "1p": "noticiaríamos",
+    "2p": "noticiaríeis",
+    "3p": "noticiariam"
+  },
+  "PresC": {
+    "1s": "noticie",
+    "2s": "noticies",
+    "3s": "noticie",
+    "1p": "noticiemos",
+    "2p": "noticieis",
+    "3p": "noticiem"
+  },
+  "PImpC": {
+    "1s": "noticiasse",
+    "2s": "noticiasses",
+    "3s": "noticiasse",
+    "1p": "noticiássemos",
+    "2p": "noticiásseis",
+    "3p": "noticiassem"
+  },
+  "FutSC": {
+    "1s": "noticiar",
+    "2s": "noticiares",
+    "3s": "noticiar",
+    "1p": "noticiarmos",
+    "2p": "noticiardes",
+    "3p": "noticiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "noticia",
+    "3s": "noticie",
+    "1p": "noticiemos",
+    "2p": "noticiai",
+    "3p": "noticiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não noticies",
+    "3s": "não noticie",
+    "1p": "não noticiemos",
+    "2p": "não noticieis",
+    "3p": "não noticiem"
+  },
+  "Part-ter": {
+    "": "noticiado"
+  },
+  "Part-ser": {
+    "ms": "noticiado",
+    "fs": "noticiada",
+    "mp": "noticiados",
+    "fp": "noticiadas"
+  }
+}

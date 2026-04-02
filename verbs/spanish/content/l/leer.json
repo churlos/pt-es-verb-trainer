@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "leer"
+  },
+  "Ger": {
+    "": "leyendo"
+  },
+  "PresI": {
+    "1s": "leo",
+    "2s": "lees",
+    "3s": "lee",
+    "1p": "leemos",
+    "2p": "leéis",
+    "3p": "leen"
+  },
+  "PImpI": {
+    "1s": "leía",
+    "2s": "leías",
+    "3s": "leía",
+    "1p": "leíamos",
+    "2p": "leíais",
+    "3p": "leían"
+  },
+  "PPSI": {
+    "1s": "leí",
+    "2s": "leíste",
+    "3s": "leyó",
+    "1p": "leímos",
+    "2p": "leísteis",
+    "3p": "leyeron"
+  },
+  "FutSI": {
+    "1s": "leeré",
+    "2s": "leerás",
+    "3s": "leerá",
+    "1p": "leeremos",
+    "2p": "leeréis",
+    "3p": "leerán"
+  },
+  "CondS": {
+    "1s": "leería",
+    "2s": "leerías",
+    "3s": "leería",
+    "1p": "leeríamos",
+    "2p": "leeríais",
+    "3p": "leerían"
+  },
+  "PresC": {
+    "1s": "lea",
+    "2s": "leas",
+    "3s": "lea",
+    "1p": "leamos",
+    "2p": "leáis",
+    "3p": "lean"
+  },
+  "PMQPSI": {
+    "1s": "leyera",
+    "2s": "leyeras",
+    "3s": "leyera",
+    "1p": "leyéramos",
+    "2p": "leyerais",
+    "3p": "leyeran"
+  },
+  "PImpC": {
+    "1s": "leyese",
+    "2s": "leyeses",
+    "3s": "leyese",
+    "1p": "leyésemos",
+    "2p": "leyeseis",
+    "3p": "leyesen"
+  },
+  "FutSC": {
+    "1s": "leyere",
+    "2s": "leyeres",
+    "3s": "leyere",
+    "1p": "leyéremos",
+    "2p": "leyereis",
+    "3p": "leyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lee",
+    "3s": "lea",
+    "1p": "leamos",
+    "2p": "leed",
+    "3p": "lean"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no leas",
+    "3s": "no lea",
+    "1p": "no leamos",
+    "2p": "no leáis",
+    "3p": "no lean"
+  },
+  "Part-ter": {
+    "": "leído"
+  },
+  "Part-ser": {
+    "ms": "leído",
+    "fs": "leída",
+    "mp": "leídos",
+    "fp": "leídas"
+  }
+}

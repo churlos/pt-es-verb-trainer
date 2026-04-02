@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lesmar"
+  },
+  "InfP": {
+    "1s": "lesmar",
+    "2s": "lesmares",
+    "3s": "lesmar",
+    "1p": "lesmarmos",
+    "2p": "lesmardes",
+    "3p": "lesmarem"
+  },
+  "Ger": {
+    "": "lesmando"
+  },
+  "PresI": {
+    "1s": "lesmo",
+    "2s": "lesmas",
+    "3s": "lesma",
+    "1p": "lesmamos",
+    "2p": "lesmais",
+    "3p": "lesmam"
+  },
+  "PImpI": {
+    "1s": "lesmava",
+    "2s": "lesmavas",
+    "3s": "lesmava",
+    "1p": "lesmávamos",
+    "2p": "lesmáveis",
+    "3p": "lesmavam"
+  },
+  "PPSI": {
+    "1s": "lesmei",
+    "2s": "lesmaste",
+    "3s": "lesmou",
+    "1p": "lesmámos",
+    "2p": "lesmastes",
+    "3p": "lesmaram"
+  },
+  "PMQPSI": {
+    "1s": "lesmara",
+    "2s": "lesmaras",
+    "3s": "lesmara",
+    "1p": "lesmáramos",
+    "2p": "lesmáreis",
+    "3p": "lesmaram"
+  },
+  "FutSI": {
+    "1s": "lesmarei",
+    "2s": "lesmarás",
+    "3s": "lesmará",
+    "1p": "lesmaremos",
+    "2p": "lesmareis",
+    "3p": "lesmarão"
+  },
+  "CondS": {
+    "1s": "lesmaria",
+    "2s": "lesmarias",
+    "3s": "lesmaria",
+    "1p": "lesmaríamos",
+    "2p": "lesmaríeis",
+    "3p": "lesmariam"
+  },
+  "PresC": {
+    "1s": "lesme",
+    "2s": "lesmes",
+    "3s": "lesme",
+    "1p": "lesmemos",
+    "2p": "lesmeis",
+    "3p": "lesmem"
+  },
+  "PImpC": {
+    "1s": "lesmasse",
+    "2s": "lesmasses",
+    "3s": "lesmasse",
+    "1p": "lesmássemos",
+    "2p": "lesmásseis",
+    "3p": "lesmassem"
+  },
+  "FutSC": {
+    "1s": "lesmar",
+    "2s": "lesmares",
+    "3s": "lesmar",
+    "1p": "lesmarmos",
+    "2p": "lesmardes",
+    "3p": "lesmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lesma",
+    "3s": "lesme",
+    "1p": "lesmemos",
+    "2p": "lesmai",
+    "3p": "lesmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lesmes",
+    "3s": "não lesme",
+    "1p": "não lesmemos",
+    "2p": "não lesmeis",
+    "3p": "não lesmem"
+  },
+  "Part-ter": {
+    "": "lesmado"
+  },
+  "Part-ser": {
+    "ms": "lesmado",
+    "fs": "lesmada",
+    "mp": "lesmados",
+    "fp": "lesmadas"
+  }
+}

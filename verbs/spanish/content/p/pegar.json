@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pegar"
+  },
+  "Ger": {
+    "": "pegando"
+  },
+  "PresI": {
+    "1s": "pego",
+    "2s": "pegas",
+    "3s": "pega",
+    "1p": "pegamos",
+    "2p": "pegáis",
+    "3p": "pegan"
+  },
+  "PImpI": {
+    "1s": "pegaba",
+    "2s": "pegabas",
+    "3s": "pegaba",
+    "1p": "pegábamos",
+    "2p": "pegabais",
+    "3p": "pegaban"
+  },
+  "PPSI": {
+    "1s": "pegué",
+    "2s": "pegaste",
+    "3s": "pegó",
+    "1p": "pegamos",
+    "2p": "pegasteis",
+    "3p": "pegaron"
+  },
+  "FutSI": {
+    "1s": "pegaré",
+    "2s": "pegarás",
+    "3s": "pegará",
+    "1p": "pegaremos",
+    "2p": "pegaréis",
+    "3p": "pegarán"
+  },
+  "CondS": {
+    "1s": "pegaría",
+    "2s": "pegarías",
+    "3s": "pegaría",
+    "1p": "pegaríamos",
+    "2p": "pegaríais",
+    "3p": "pegarían"
+  },
+  "PresC": {
+    "1s": "pegue",
+    "2s": "pegues",
+    "3s": "pegue",
+    "1p": "peguemos",
+    "2p": "peguéis",
+    "3p": "peguen"
+  },
+  "PMQPSI": {
+    "1s": "pegara",
+    "2s": "pegaras",
+    "3s": "pegara",
+    "1p": "pegáramos",
+    "2p": "pegarais",
+    "3p": "pegaran"
+  },
+  "PImpC": {
+    "1s": "pegase",
+    "2s": "pegases",
+    "3s": "pegase",
+    "1p": "pegásemos",
+    "2p": "pegaseis",
+    "3p": "pegasen"
+  },
+  "FutSC": {
+    "1s": "pegare",
+    "2s": "pegares",
+    "3s": "pegare",
+    "1p": "pegáremos",
+    "2p": "pegareis",
+    "3p": "pegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pega",
+    "3s": "pegue",
+    "1p": "peguemos",
+    "2p": "pegad",
+    "3p": "peguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pegues",
+    "3s": "no pegue",
+    "1p": "no peguemos",
+    "2p": "no peguéis",
+    "3p": "no peguen"
+  },
+  "Part-ter": {
+    "": "pegado"
+  },
+  "Part-ser": {
+    "ms": "pegado",
+    "fs": "pegada",
+    "mp": "pegados",
+    "fp": "pegadas"
+  }
+}

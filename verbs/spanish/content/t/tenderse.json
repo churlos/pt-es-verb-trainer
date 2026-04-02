@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tenderse"
+  },
+  "Ger": {
+    "": "tendiéndose"
+  },
+  "PresI": {
+    "1s": "me tiendo",
+    "2s": "te tiendes",
+    "3s": "se tiende",
+    "1p": "nos tendemos",
+    "2p": "os tendéis",
+    "3p": "se tienden"
+  },
+  "PImpI": {
+    "1s": "me tendía",
+    "2s": "te tendías",
+    "3s": "se tendía",
+    "1p": "nos tendíamos",
+    "2p": "os tendíais",
+    "3p": "se tendían"
+  },
+  "PPSI": {
+    "1s": "me tendí",
+    "2s": "te tendiste",
+    "3s": "se tendió",
+    "1p": "nos tendimos",
+    "2p": "os tendisteis",
+    "3p": "se tendieron"
+  },
+  "FutSI": {
+    "1s": "me tenderé",
+    "2s": "te tenderás",
+    "3s": "se tenderá",
+    "1p": "nos tenderemos",
+    "2p": "os tenderéis",
+    "3p": "se tenderán"
+  },
+  "CondS": {
+    "1s": "me tendería",
+    "2s": "te tenderías",
+    "3s": "se tendería",
+    "1p": "nos tenderíamos",
+    "2p": "os tenderíais",
+    "3p": "se tenderían"
+  },
+  "PresC": {
+    "1s": "me tienda",
+    "2s": "te tiendas",
+    "3s": "se tienda",
+    "1p": "nos tendamos",
+    "2p": "os tendáis",
+    "3p": "se tiendan"
+  },
+  "PMQPSI": {
+    "1s": "me tendiera",
+    "2s": "te tendieras",
+    "3s": "se tendiera",
+    "1p": "nos tendiéramos",
+    "2p": "os tendierais",
+    "3p": "se tendieran"
+  },
+  "PImpC": {
+    "1s": "me tendiese",
+    "2s": "te tendieses",
+    "3s": "se tendiese",
+    "1p": "nos tendiésemos",
+    "2p": "os tendieseis",
+    "3p": "se tendiesen"
+  },
+  "FutSC": {
+    "1s": "me tendiere",
+    "2s": "te tendieres",
+    "3s": "se tendiere",
+    "1p": "nos tendiéremos",
+    "2p": "os tendiereis",
+    "3p": "se tendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tiéndete",
+    "3s": "tiéndase",
+    "1p": "tendámonos",
+    "2p": "tendeos",
+    "3p": "tiéndanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te tiendas",
+    "3s": "no se tienda",
+    "1p": "no nos tendamos",
+    "2p": "no os tendáis",
+    "3p": "no se tiendan"
+  },
+  "Part-ter": {
+    "": "tendido"
+  },
+  "Part-ser": {
+    "ms": "tendido",
+    "fs": "tendida",
+    "mp": "tendidos",
+    "fp": "tendidas"
+  }
+}

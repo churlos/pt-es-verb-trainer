@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "comercializar"
+  },
+  "InfP": {
+    "1s": "comercializar",
+    "2s": "comercializares",
+    "3s": "comercializar",
+    "1p": "comercializarmos",
+    "2p": "comercializardes",
+    "3p": "comercializarem"
+  },
+  "Ger": {
+    "": "comercializando"
+  },
+  "PresI": {
+    "1s": "comercializo",
+    "2s": "comercializas",
+    "3s": "comercializa",
+    "1p": "comercializamos",
+    "2p": "comercializais",
+    "3p": "comercializam"
+  },
+  "PImpI": {
+    "1s": "comercializava",
+    "2s": "comercializavas",
+    "3s": "comercializava",
+    "1p": "comercializávamos",
+    "2p": "comercializáveis",
+    "3p": "comercializavam"
+  },
+  "PPSI": {
+    "1s": "comercializei",
+    "2s": "comercializaste",
+    "3s": "comercializou",
+    "1p": "comercializámos",
+    "2p": "comercializastes",
+    "3p": "comercializaram"
+  },
+  "PMQPSI": {
+    "1s": "comercializara",
+    "2s": "comercializaras",
+    "3s": "comercializara",
+    "1p": "comercializáramos",
+    "2p": "comercializáreis",
+    "3p": "comercializaram"
+  },
+  "FutSI": {
+    "1s": "comercializarei",
+    "2s": "comercializarás",
+    "3s": "comercializará",
+    "1p": "comercializaremos",
+    "2p": "comercializareis",
+    "3p": "comercializarão"
+  },
+  "CondS": {
+    "1s": "comercializaria",
+    "2s": "comercializarias",
+    "3s": "comercializaria",
+    "1p": "comercializaríamos",
+    "2p": "comercializaríeis",
+    "3p": "comercializariam"
+  },
+  "PresC": {
+    "1s": "comercialize",
+    "2s": "comercializes",
+    "3s": "comercialize",
+    "1p": "comercializemos",
+    "2p": "comercializeis",
+    "3p": "comercializem"
+  },
+  "PImpC": {
+    "1s": "comercializasse",
+    "2s": "comercializasses",
+    "3s": "comercializasse",
+    "1p": "comercializássemos",
+    "2p": "comercializásseis",
+    "3p": "comercializassem"
+  },
+  "FutSC": {
+    "1s": "comercializar",
+    "2s": "comercializares",
+    "3s": "comercializar",
+    "1p": "comercializarmos",
+    "2p": "comercializardes",
+    "3p": "comercializarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comercializa",
+    "3s": "comercialize",
+    "1p": "comercializemos",
+    "2p": "comercializai",
+    "3p": "comercializem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não comercializes",
+    "3s": "não comercialize",
+    "1p": "não comercializemos",
+    "2p": "não comercializeis",
+    "3p": "não comercializem"
+  },
+  "Part-ter": {
+    "": "comercializado"
+  },
+  "Part-ser": {
+    "ms": "comercializado",
+    "fs": "comercializada",
+    "mp": "comercializados",
+    "fp": "comercializadas"
+  }
+}

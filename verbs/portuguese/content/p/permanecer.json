@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "permanecer"
+  },
+  "InfP": {
+    "1s": "permanecer",
+    "2s": "permaneceres",
+    "3s": "permanecer",
+    "1p": "permanecermos",
+    "2p": "permanecerdes",
+    "3p": "permanecerem"
+  },
+  "Ger": {
+    "": "permanecendo"
+  },
+  "PresI": {
+    "1s": "permaneço",
+    "2s": "permaneces",
+    "3s": "permanece",
+    "1p": "permanecemos",
+    "2p": "permaneceis",
+    "3p": "permanecem"
+  },
+  "PImpI": {
+    "1s": "permanecia",
+    "2s": "permanecias",
+    "3s": "permanecia",
+    "1p": "permanecíamos",
+    "2p": "permanecíeis",
+    "3p": "permaneciam"
+  },
+  "PPSI": {
+    "1s": "permaneci",
+    "2s": "permaneceste",
+    "3s": "permaneceu",
+    "1p": "permanecemos",
+    "2p": "permanecestes",
+    "3p": "permaneceram"
+  },
+  "PMQPSI": {
+    "1s": "permanecera",
+    "2s": "permaneceras",
+    "3s": "permanecera",
+    "1p": "permanecêramos",
+    "2p": "permanecêreis",
+    "3p": "permaneceram"
+  },
+  "FutSI": {
+    "1s": "permanecerei",
+    "2s": "permanecerás",
+    "3s": "permanecerá",
+    "1p": "permaneceremos",
+    "2p": "permanecereis",
+    "3p": "permanecerão"
+  },
+  "CondS": {
+    "1s": "permaneceria",
+    "2s": "permanecerias",
+    "3s": "permaneceria",
+    "1p": "permaneceríamos",
+    "2p": "permaneceríeis",
+    "3p": "permaneceriam"
+  },
+  "PresC": {
+    "1s": "permaneça",
+    "2s": "permaneças",
+    "3s": "permaneça",
+    "1p": "permaneçamos",
+    "2p": "permaneçais",
+    "3p": "permaneçam"
+  },
+  "PImpC": {
+    "1s": "permanecesse",
+    "2s": "permanecesses",
+    "3s": "permanecesse",
+    "1p": "permanecêssemos",
+    "2p": "permanecêsseis",
+    "3p": "permanecessem"
+  },
+  "FutSC": {
+    "1s": "permanecer",
+    "2s": "permaneceres",
+    "3s": "permanecer",
+    "1p": "permanecermos",
+    "2p": "permanecerdes",
+    "3p": "permanecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "permanece",
+    "3s": "permaneça",
+    "1p": "permaneçamos",
+    "2p": "permanecei",
+    "3p": "permaneçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não permaneças",
+    "3s": "não permaneça",
+    "1p": "não permaneçamos",
+    "2p": "não permaneçais",
+    "3p": "não permaneçam"
+  },
+  "Part-ter": {
+    "": "permanecido"
+  },
+  "Part-ser": {
+    "ms": "permanecido",
+    "fs": "permanecida",
+    "mp": "permanecidos",
+    "fp": "permanecidas"
+  }
+}

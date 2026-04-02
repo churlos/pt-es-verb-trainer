@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "expedir"
+  },
+  "InfP": {
+    "1s": "expedir",
+    "2s": "expedires",
+    "3s": "expedir",
+    "1p": "expedirmos",
+    "2p": "expedirdes",
+    "3p": "expedirem"
+  },
+  "Ger": {
+    "": "expedindo"
+  },
+  "PresI": {
+    "1s": "expeço",
+    "2s": "expedes",
+    "3s": "expede",
+    "1p": "expedimos",
+    "2p": "expedis",
+    "3p": "expedem"
+  },
+  "PImpI": {
+    "1s": "expedia",
+    "2s": "expedias",
+    "3s": "expedia",
+    "1p": "expedíamos",
+    "2p": "expedíeis",
+    "3p": "expediam"
+  },
+  "PPSI": {
+    "1s": "expedi",
+    "2s": "expediste",
+    "3s": "expediu",
+    "1p": "expedimos",
+    "2p": "expedistes",
+    "3p": "expediram"
+  },
+  "PMQPSI": {
+    "1s": "expedira",
+    "2s": "expediras",
+    "3s": "expedira",
+    "1p": "expedíramos",
+    "2p": "expedíreis",
+    "3p": "expediram"
+  },
+  "FutSI": {
+    "1s": "expedirei",
+    "2s": "expedirás",
+    "3s": "expedirá",
+    "1p": "expediremos",
+    "2p": "expedireis",
+    "3p": "expedirão"
+  },
+  "CondS": {
+    "1s": "expediria",
+    "2s": "expedirias",
+    "3s": "expediria",
+    "1p": "expediríamos",
+    "2p": "expediríeis",
+    "3p": "expediriam"
+  },
+  "PresC": {
+    "1s": "expeça",
+    "2s": "expeças",
+    "3s": "expeça",
+    "1p": "expeçamos",
+    "2p": "expeçais",
+    "3p": "expeçam"
+  },
+  "PImpC": {
+    "1s": "expedisse",
+    "2s": "expedisses",
+    "3s": "expedisse",
+    "1p": "expedíssemos",
+    "2p": "expedísseis",
+    "3p": "expedissem"
+  },
+  "FutSC": {
+    "1s": "expedir",
+    "2s": "expedires",
+    "3s": "expedir",
+    "1p": "expedirmos",
+    "2p": "expedirdes",
+    "3p": "expedirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expede",
+    "3s": "expeça",
+    "1p": "expeçamos",
+    "2p": "expedi",
+    "3p": "expeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não expeças",
+    "3s": "não expeça",
+    "1p": "não expeçamos",
+    "2p": "não expeçais",
+    "3p": "não expeçam"
+  },
+  "Part-ter": {
+    "": "expedido"
+  },
+  "Part-ser": {
+    "ms": "expedido",
+    "fs": "expedida",
+    "mp": "expedidos",
+    "fp": "expedidas"
+  }
+}

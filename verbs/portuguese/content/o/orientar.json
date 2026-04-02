@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "orientar"
+  },
+  "InfP": {
+    "1s": "orientar",
+    "2s": "orientares",
+    "3s": "orientar",
+    "1p": "orientarmos",
+    "2p": "orientardes",
+    "3p": "orientarem"
+  },
+  "Ger": {
+    "": "orientando"
+  },
+  "PresI": {
+    "1s": "oriento",
+    "2s": "orientas",
+    "3s": "orienta",
+    "1p": "orientamos",
+    "2p": "orientais",
+    "3p": "orientam"
+  },
+  "PImpI": {
+    "1s": "orientava",
+    "2s": "orientavas",
+    "3s": "orientava",
+    "1p": "orientávamos",
+    "2p": "orientáveis",
+    "3p": "orientavam"
+  },
+  "PPSI": {
+    "1s": "orientei",
+    "2s": "orientaste",
+    "3s": "orientou",
+    "1p": "orientámos",
+    "2p": "orientastes",
+    "3p": "orientaram"
+  },
+  "PMQPSI": {
+    "1s": "orientara",
+    "2s": "orientaras",
+    "3s": "orientara",
+    "1p": "orientáramos",
+    "2p": "orientáreis",
+    "3p": "orientaram"
+  },
+  "FutSI": {
+    "1s": "orientarei",
+    "2s": "orientarás",
+    "3s": "orientará",
+    "1p": "orientaremos",
+    "2p": "orientareis",
+    "3p": "orientarão"
+  },
+  "CondS": {
+    "1s": "orientaria",
+    "2s": "orientarias",
+    "3s": "orientaria",
+    "1p": "orientaríamos",
+    "2p": "orientaríeis",
+    "3p": "orientariam"
+  },
+  "PresC": {
+    "1s": "oriente",
+    "2s": "orientes",
+    "3s": "oriente",
+    "1p": "orientemos",
+    "2p": "orienteis",
+    "3p": "orientem"
+  },
+  "PImpC": {
+    "1s": "orientasse",
+    "2s": "orientasses",
+    "3s": "orientasse",
+    "1p": "orientássemos",
+    "2p": "orientásseis",
+    "3p": "orientassem"
+  },
+  "FutSC": {
+    "1s": "orientar",
+    "2s": "orientares",
+    "3s": "orientar",
+    "1p": "orientarmos",
+    "2p": "orientardes",
+    "3p": "orientarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "orienta",
+    "3s": "oriente",
+    "1p": "orientemos",
+    "2p": "orientai",
+    "3p": "orientem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não orientes",
+    "3s": "não oriente",
+    "1p": "não orientemos",
+    "2p": "não orienteis",
+    "3p": "não orientem"
+  },
+  "Part-ter": {
+    "": "orientado"
+  },
+  "Part-ser": {
+    "ms": "orientado",
+    "fs": "orientada",
+    "mp": "orientados",
+    "fp": "orientadas"
+  }
+}

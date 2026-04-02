@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inmovilizar"
+  },
+  "Ger": {
+    "": "inmovilizando"
+  },
+  "PresI": {
+    "1s": "inmovilizo",
+    "2s": "inmovilizas",
+    "3s": "inmoviliza",
+    "1p": "inmovilizamos",
+    "2p": "inmovilizáis",
+    "3p": "inmovilizan"
+  },
+  "PImpI": {
+    "1s": "inmovilizaba",
+    "2s": "inmovilizabas",
+    "3s": "inmovilizaba",
+    "1p": "inmovilizábamos",
+    "2p": "inmovilizabais",
+    "3p": "inmovilizaban"
+  },
+  "PPSI": {
+    "1s": "inmovilicé",
+    "2s": "inmovilizaste",
+    "3s": "inmovilizó",
+    "1p": "inmovilizamos",
+    "2p": "inmovilizasteis",
+    "3p": "inmovilizaron"
+  },
+  "FutSI": {
+    "1s": "inmovilizaré",
+    "2s": "inmovilizarás",
+    "3s": "inmovilizará",
+    "1p": "inmovilizaremos",
+    "2p": "inmovilizaréis",
+    "3p": "inmovilizarán"
+  },
+  "CondS": {
+    "1s": "inmovilizaría",
+    "2s": "inmovilizarías",
+    "3s": "inmovilizaría",
+    "1p": "inmovilizaríamos",
+    "2p": "inmovilizaríais",
+    "3p": "inmovilizarían"
+  },
+  "PresC": {
+    "1s": "inmovilice",
+    "2s": "inmovilices",
+    "3s": "inmovilice",
+    "1p": "inmovilicemos",
+    "2p": "inmovilicéis",
+    "3p": "inmovilicen"
+  },
+  "PMQPSI": {
+    "1s": "inmovilizara",
+    "2s": "inmovilizaras",
+    "3s": "inmovilizara",
+    "1p": "inmovilizáramos",
+    "2p": "inmovilizarais",
+    "3p": "inmovilizaran"
+  },
+  "PImpC": {
+    "1s": "inmovilizase",
+    "2s": "inmovilizases",
+    "3s": "inmovilizase",
+    "1p": "inmovilizásemos",
+    "2p": "inmovilizaseis",
+    "3p": "inmovilizasen"
+  },
+  "FutSC": {
+    "1s": "inmovilizare",
+    "2s": "inmovilizares",
+    "3s": "inmovilizare",
+    "1p": "inmovilizáremos",
+    "2p": "inmovilizareis",
+    "3p": "inmovilizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inmoviliza",
+    "3s": "inmovilice",
+    "1p": "inmovilicemos",
+    "2p": "inmovilizad",
+    "3p": "inmovilicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inmovilices",
+    "3s": "no inmovilice",
+    "1p": "no inmovilicemos",
+    "2p": "no inmovilicéis",
+    "3p": "no inmovilicen"
+  },
+  "Part-ter": {
+    "": "inmovilizado"
+  },
+  "Part-ser": {
+    "ms": "inmovilizado",
+    "fs": "inmovilizada",
+    "mp": "inmovilizados",
+    "fp": "inmovilizadas"
+  }
+}

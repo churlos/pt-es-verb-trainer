@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "filtrar"
+  },
+  "Ger": {
+    "": "filtrando"
+  },
+  "PresI": {
+    "1s": "filtro",
+    "2s": "filtras",
+    "3s": "filtra",
+    "1p": "filtramos",
+    "2p": "filtráis",
+    "3p": "filtran"
+  },
+  "PImpI": {
+    "1s": "filtraba",
+    "2s": "filtrabas",
+    "3s": "filtraba",
+    "1p": "filtrábamos",
+    "2p": "filtrabais",
+    "3p": "filtraban"
+  },
+  "PPSI": {
+    "1s": "filtré",
+    "2s": "filtraste",
+    "3s": "filtró",
+    "1p": "filtramos",
+    "2p": "filtrasteis",
+    "3p": "filtraron"
+  },
+  "FutSI": {
+    "1s": "filtraré",
+    "2s": "filtrarás",
+    "3s": "filtrará",
+    "1p": "filtraremos",
+    "2p": "filtraréis",
+    "3p": "filtrarán"
+  },
+  "CondS": {
+    "1s": "filtraría",
+    "2s": "filtrarías",
+    "3s": "filtraría",
+    "1p": "filtraríamos",
+    "2p": "filtraríais",
+    "3p": "filtrarían"
+  },
+  "PresC": {
+    "1s": "filtre",
+    "2s": "filtres",
+    "3s": "filtre",
+    "1p": "filtremos",
+    "2p": "filtréis",
+    "3p": "filtren"
+  },
+  "PMQPSI": {
+    "1s": "filtrara",
+    "2s": "filtraras",
+    "3s": "filtrara",
+    "1p": "filtráramos",
+    "2p": "filtrarais",
+    "3p": "filtraran"
+  },
+  "PImpC": {
+    "1s": "filtrase",
+    "2s": "filtrases",
+    "3s": "filtrase",
+    "1p": "filtrásemos",
+    "2p": "filtraseis",
+    "3p": "filtrasen"
+  },
+  "FutSC": {
+    "1s": "filtrare",
+    "2s": "filtrares",
+    "3s": "filtrare",
+    "1p": "filtráremos",
+    "2p": "filtrareis",
+    "3p": "filtraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "filtra",
+    "3s": "filtre",
+    "1p": "filtremos",
+    "2p": "filtrad",
+    "3p": "filtren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no filtres",
+    "3s": "no filtre",
+    "1p": "no filtremos",
+    "2p": "no filtréis",
+    "3p": "no filtren"
+  },
+  "Part-ter": {
+    "": "filtrado"
+  },
+  "Part-ser": {
+    "ms": "filtrado",
+    "fs": "filtrada",
+    "mp": "filtrados",
+    "fp": "filtradas"
+  }
+}

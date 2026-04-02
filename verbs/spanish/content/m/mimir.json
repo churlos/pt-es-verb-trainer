@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mimir"
+  },
+  "Ger": {
+    "": "mimiendo"
+  },
+  "PresI": {
+    "1s": "mimo",
+    "2s": "mimes",
+    "3s": "mime",
+    "1p": "mimimos",
+    "2p": "mimís",
+    "3p": "mimen"
+  },
+  "PImpI": {
+    "1s": "mimía",
+    "2s": "mimías",
+    "3s": "mimía",
+    "1p": "mimíamos",
+    "2p": "mimíais",
+    "3p": "mimían"
+  },
+  "PPSI": {
+    "1s": "mimí",
+    "2s": "mimiste",
+    "3s": "mimió",
+    "1p": "mimimos",
+    "2p": "mimisteis",
+    "3p": "mimieron"
+  },
+  "FutSI": {
+    "1s": "mimiré",
+    "2s": "mimirás",
+    "3s": "mimirá",
+    "1p": "mimiremos",
+    "2p": "mimiréis",
+    "3p": "mimirán"
+  },
+  "CondS": {
+    "1s": "mimiría",
+    "2s": "mimirías",
+    "3s": "mimiría",
+    "1p": "mimiríamos",
+    "2p": "mimiríais",
+    "3p": "mimirían"
+  },
+  "PresC": {
+    "1s": "mima",
+    "2s": "mimas",
+    "3s": "mima",
+    "1p": "mimamos",
+    "2p": "mimáis",
+    "3p": "miman"
+  },
+  "PMQPSI": {
+    "1s": "mimiera",
+    "2s": "mimieras",
+    "3s": "mimiera",
+    "1p": "mimiéramos",
+    "2p": "mimierais",
+    "3p": "mimieran"
+  },
+  "PImpC": {
+    "1s": "mimiese",
+    "2s": "mimieses",
+    "3s": "mimiese",
+    "1p": "mimiésemos",
+    "2p": "mimieseis",
+    "3p": "mimiesen"
+  },
+  "FutSC": {
+    "1s": "mimiere",
+    "2s": "mimieres",
+    "3s": "mimiere",
+    "1p": "mimiéremos",
+    "2p": "mimiereis",
+    "3p": "mimieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mime",
+    "3s": "mima",
+    "1p": "mimamos",
+    "2p": "mimid",
+    "3p": "miman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mimas",
+    "3s": "no mima",
+    "1p": "no mimamos",
+    "2p": "no mimáis",
+    "3p": "no miman"
+  },
+  "Part-ter": {
+    "": "mimido"
+  },
+  "Part-ser": {
+    "ms": "mimido",
+    "fs": "mimida",
+    "mp": "mimidos",
+    "fp": "mimidas"
+  }
+}

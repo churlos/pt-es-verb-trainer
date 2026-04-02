@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "opacar"
+  },
+  "Ger": {
+    "": "opacando"
+  },
+  "PresI": {
+    "1s": "opaco",
+    "2s": "opacas",
+    "3s": "opaca",
+    "1p": "opacamos",
+    "2p": "opacáis",
+    "3p": "opacan"
+  },
+  "PImpI": {
+    "1s": "opacaba",
+    "2s": "opacabas",
+    "3s": "opacaba",
+    "1p": "opacábamos",
+    "2p": "opacabais",
+    "3p": "opacaban"
+  },
+  "PPSI": {
+    "1s": "opaqué",
+    "2s": "opacaste",
+    "3s": "opacó",
+    "1p": "opacamos",
+    "2p": "opacasteis",
+    "3p": "opacaron"
+  },
+  "FutSI": {
+    "1s": "opacaré",
+    "2s": "opacarás",
+    "3s": "opacará",
+    "1p": "opacaremos",
+    "2p": "opacaréis",
+    "3p": "opacarán"
+  },
+  "CondS": {
+    "1s": "opacaría",
+    "2s": "opacarías",
+    "3s": "opacaría",
+    "1p": "opacaríamos",
+    "2p": "opacaríais",
+    "3p": "opacarían"
+  },
+  "PresC": {
+    "1s": "opaque",
+    "2s": "opaques",
+    "3s": "opaque",
+    "1p": "opaquemos",
+    "2p": "opaquéis",
+    "3p": "opaquen"
+  },
+  "PMQPSI": {
+    "1s": "opacara",
+    "2s": "opacaras",
+    "3s": "opacara",
+    "1p": "opacáramos",
+    "2p": "opacarais",
+    "3p": "opacaran"
+  },
+  "PImpC": {
+    "1s": "opacase",
+    "2s": "opacases",
+    "3s": "opacase",
+    "1p": "opacásemos",
+    "2p": "opacaseis",
+    "3p": "opacasen"
+  },
+  "FutSC": {
+    "1s": "opacare",
+    "2s": "opacares",
+    "3s": "opacare",
+    "1p": "opacáremos",
+    "2p": "opacareis",
+    "3p": "opacaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "opaca",
+    "3s": "opaque",
+    "1p": "opaquemos",
+    "2p": "opacad",
+    "3p": "opaquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no opaques",
+    "3s": "no opaque",
+    "1p": "no opaquemos",
+    "2p": "no opaquéis",
+    "3p": "no opaquen"
+  },
+  "Part-ter": {
+    "": "opacado"
+  },
+  "Part-ser": {
+    "ms": "opacado",
+    "fs": "opacada",
+    "mp": "opacados",
+    "fp": "opacadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "humanar"
+  },
+  "Ger": {
+    "": "humanando"
+  },
+  "PresI": {
+    "1s": "humano",
+    "2s": "humanas",
+    "3s": "humana",
+    "1p": "humanamos",
+    "2p": "humanáis",
+    "3p": "humanan"
+  },
+  "PImpI": {
+    "1s": "humanaba",
+    "2s": "humanabas",
+    "3s": "humanaba",
+    "1p": "humanábamos",
+    "2p": "humanabais",
+    "3p": "humanaban"
+  },
+  "PPSI": {
+    "1s": "humané",
+    "2s": "humanaste",
+    "3s": "humanó",
+    "1p": "humanamos",
+    "2p": "humanasteis",
+    "3p": "humanaron"
+  },
+  "FutSI": {
+    "1s": "humanaré",
+    "2s": "humanarás",
+    "3s": "humanará",
+    "1p": "humanaremos",
+    "2p": "humanaréis",
+    "3p": "humanarán"
+  },
+  "CondS": {
+    "1s": "humanaría",
+    "2s": "humanarías",
+    "3s": "humanaría",
+    "1p": "humanaríamos",
+    "2p": "humanaríais",
+    "3p": "humanarían"
+  },
+  "PresC": {
+    "1s": "humane",
+    "2s": "humanes",
+    "3s": "humane",
+    "1p": "humanemos",
+    "2p": "humanéis",
+    "3p": "humanen"
+  },
+  "PMQPSI": {
+    "1s": "humanara",
+    "2s": "humanaras",
+    "3s": "humanara",
+    "1p": "humanáramos",
+    "2p": "humanarais",
+    "3p": "humanaran"
+  },
+  "PImpC": {
+    "1s": "humanase",
+    "2s": "humanases",
+    "3s": "humanase",
+    "1p": "humanásemos",
+    "2p": "humanaseis",
+    "3p": "humanasen"
+  },
+  "FutSC": {
+    "1s": "humanare",
+    "2s": "humanares",
+    "3s": "humanare",
+    "1p": "humanáremos",
+    "2p": "humanareis",
+    "3p": "humanaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "humana",
+    "3s": "humane",
+    "1p": "humanemos",
+    "2p": "humanad",
+    "3p": "humanen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no humanes",
+    "3s": "no humane",
+    "1p": "no humanemos",
+    "2p": "no humanéis",
+    "3p": "no humanen"
+  },
+  "Part-ter": {
+    "": "humanado"
+  },
+  "Part-ser": {
+    "ms": "humanado",
+    "fs": "humanada",
+    "mp": "humanados",
+    "fp": "humanadas"
+  }
+}

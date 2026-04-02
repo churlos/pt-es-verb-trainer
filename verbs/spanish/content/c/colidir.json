@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "colidir"
+  },
+  "Ger": {
+    "": "colidiendo"
+  },
+  "PresI": {
+    "1s": "colido",
+    "2s": "colides",
+    "3s": "colide",
+    "1p": "colidimos",
+    "2p": "colidís",
+    "3p": "coliden"
+  },
+  "PImpI": {
+    "1s": "colidía",
+    "2s": "colidías",
+    "3s": "colidía",
+    "1p": "colidíamos",
+    "2p": "colidíais",
+    "3p": "colidían"
+  },
+  "PPSI": {
+    "1s": "colidí",
+    "2s": "colidiste",
+    "3s": "colidió",
+    "1p": "colidimos",
+    "2p": "colidisteis",
+    "3p": "colidieron"
+  },
+  "FutSI": {
+    "1s": "colidiré",
+    "2s": "colidirás",
+    "3s": "colidirá",
+    "1p": "colidiremos",
+    "2p": "colidiréis",
+    "3p": "colidirán"
+  },
+  "CondS": {
+    "1s": "colidiría",
+    "2s": "colidirías",
+    "3s": "colidiría",
+    "1p": "colidiríamos",
+    "2p": "colidiríais",
+    "3p": "colidirían"
+  },
+  "PresC": {
+    "1s": "colida",
+    "2s": "colidas",
+    "3s": "colida",
+    "1p": "colidamos",
+    "2p": "colidáis",
+    "3p": "colidan"
+  },
+  "PMQPSI": {
+    "1s": "colidiera",
+    "2s": "colidieras",
+    "3s": "colidiera",
+    "1p": "colidiéramos",
+    "2p": "colidierais",
+    "3p": "colidieran"
+  },
+  "PImpC": {
+    "1s": "colidiese",
+    "2s": "colidieses",
+    "3s": "colidiese",
+    "1p": "colidiésemos",
+    "2p": "colidieseis",
+    "3p": "colidiesen"
+  },
+  "FutSC": {
+    "1s": "colidiere",
+    "2s": "colidieres",
+    "3s": "colidiere",
+    "1p": "colidiéremos",
+    "2p": "colidiereis",
+    "3p": "colidieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colide",
+    "3s": "colida",
+    "1p": "colidamos",
+    "2p": "colidid",
+    "3p": "colidan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no colidas",
+    "3s": "no colida",
+    "1p": "no colidamos",
+    "2p": "no colidáis",
+    "3p": "no colidan"
+  },
+  "Part-ter": {
+    "": "colidido"
+  },
+  "Part-ser": {
+    "ms": "colidido",
+    "fs": "colidida",
+    "mp": "colididos",
+    "fp": "colididas"
+  }
+}

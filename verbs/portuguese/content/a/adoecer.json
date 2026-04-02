@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "adoecer"
+  },
+  "InfP": {
+    "1s": "adoecer",
+    "2s": "adoeceres",
+    "3s": "adoecer",
+    "1p": "adoecermos",
+    "2p": "adoecerdes",
+    "3p": "adoecerem"
+  },
+  "Ger": {
+    "": "adoecendo"
+  },
+  "PresI": {
+    "1s": "adoeço",
+    "2s": "adoeces",
+    "3s": "adoece",
+    "1p": "adoecemos",
+    "2p": "adoeceis",
+    "3p": "adoecem"
+  },
+  "PImpI": {
+    "1s": "adoecia",
+    "2s": "adoecias",
+    "3s": "adoecia",
+    "1p": "adoecíamos",
+    "2p": "adoecíeis",
+    "3p": "adoeciam"
+  },
+  "PPSI": {
+    "1s": "adoeci",
+    "2s": "adoeceste",
+    "3s": "adoeceu",
+    "1p": "adoecemos",
+    "2p": "adoecestes",
+    "3p": "adoeceram"
+  },
+  "PMQPSI": {
+    "1s": "adoecera",
+    "2s": "adoeceras",
+    "3s": "adoecera",
+    "1p": "adoecêramos",
+    "2p": "adoecêreis",
+    "3p": "adoeceram"
+  },
+  "FutSI": {
+    "1s": "adoecerei",
+    "2s": "adoecerás",
+    "3s": "adoecerá",
+    "1p": "adoeceremos",
+    "2p": "adoecereis",
+    "3p": "adoecerão"
+  },
+  "CondS": {
+    "1s": "adoeceria",
+    "2s": "adoecerias",
+    "3s": "adoeceria",
+    "1p": "adoeceríamos",
+    "2p": "adoeceríeis",
+    "3p": "adoeceriam"
+  },
+  "PresC": {
+    "1s": "adoeça",
+    "2s": "adoeças",
+    "3s": "adoeça",
+    "1p": "adoeçamos",
+    "2p": "adoeçais",
+    "3p": "adoeçam"
+  },
+  "PImpC": {
+    "1s": "adoecesse",
+    "2s": "adoecesses",
+    "3s": "adoecesse",
+    "1p": "adoecêssemos",
+    "2p": "adoecêsseis",
+    "3p": "adoecessem"
+  },
+  "FutSC": {
+    "1s": "adoecer",
+    "2s": "adoeceres",
+    "3s": "adoecer",
+    "1p": "adoecermos",
+    "2p": "adoecerdes",
+    "3p": "adoecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adoece",
+    "3s": "adoeça",
+    "1p": "adoeçamos",
+    "2p": "adoecei",
+    "3p": "adoeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adoeças",
+    "3s": "não adoeça",
+    "1p": "não adoeçamos",
+    "2p": "não adoeçais",
+    "3p": "não adoeçam"
+  },
+  "Part-ter": {
+    "": "adoecido"
+  },
+  "Part-ser": {
+    "ms": "adoecido",
+    "fs": "adoecida",
+    "mp": "adoecidos",
+    "fp": "adoecidas"
+  }
+}

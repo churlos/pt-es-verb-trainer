@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subyacer"
+  },
+  "Ger": {
+    "": "subyaciendo"
+  },
+  "PresI": {
+    "1s": "subyazco, subyazgo, subyago",
+    "2s": "subyaces",
+    "3s": "subyace",
+    "1p": "subyacemos",
+    "2p": "subyacéis",
+    "3p": "subyacen"
+  },
+  "PImpI": {
+    "1s": "subyacía",
+    "2s": "subyacías",
+    "3s": "subyacía",
+    "1p": "subyacíamos",
+    "2p": "subyacíais",
+    "3p": "subyacían"
+  },
+  "PPSI": {
+    "1s": "subyací",
+    "2s": "subyaciste",
+    "3s": "subyació",
+    "1p": "subyacimos",
+    "2p": "subyacisteis",
+    "3p": "subyacieron"
+  },
+  "FutSI": {
+    "1s": "subyaceré",
+    "2s": "subyacerás",
+    "3s": "subyacerá",
+    "1p": "subyaceremos",
+    "2p": "subyaceréis",
+    "3p": "subyacerán"
+  },
+  "CondS": {
+    "1s": "subyacería",
+    "2s": "subyacerías",
+    "3s": "subyacería",
+    "1p": "subyaceríamos",
+    "2p": "subyaceríais",
+    "3p": "subyacerían"
+  },
+  "PresC": {
+    "1s": "subyazca, subyazga, subyaga",
+    "2s": "subyazcas, subyazgas, subyagas",
+    "3s": "subyazca, subyazga, subyaga",
+    "1p": "subyazcamos, subyazgamos, subyagamos",
+    "2p": "subyazcáis, subyazgáis, subyagáis",
+    "3p": "subyazcan, subyazgan, subyagan"
+  },
+  "PMQPSI": {
+    "1s": "subyaciera",
+    "2s": "subyacieras",
+    "3s": "subyaciera",
+    "1p": "subyaciéramos",
+    "2p": "subyacierais",
+    "3p": "subyacieran"
+  },
+  "PImpC": {
+    "1s": "subyaciese",
+    "2s": "subyacieses",
+    "3s": "subyaciese",
+    "1p": "subyaciésemos",
+    "2p": "subyacieseis",
+    "3p": "subyaciesen"
+  },
+  "FutSC": {
+    "1s": "subyaciere",
+    "2s": "subyacieres",
+    "3s": "subyaciere",
+    "1p": "subyaciéremos",
+    "2p": "subyaciereis",
+    "3p": "subyacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "subyace",
+    "3s": "subyazca, subyazga, subyaga",
+    "1p": "subyazcamos, subyazgamos, subyagamos",
+    "2p": "subyaced",
+    "3p": "subyazcan, subyazgan, subyagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subyazcas, subyazgas, subyagas",
+    "3s": "no subyazca, subyazga, subyaga",
+    "1p": "no subyazcamos, subyazgamos, subyagamos",
+    "2p": "no subyazcáis, subyazgáis, subyagáis",
+    "3p": "no subyazcan, subyazgan, subyagan"
+  },
+  "Part-ter": {
+    "": "subyacido"
+  },
+  "Part-ser": {
+    "ms": "subyacido",
+    "fs": "subyacida",
+    "mp": "subyacidos",
+    "fp": "subyacidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "colorar"
+  },
+  "InfP": {
+    "1s": "colorar",
+    "2s": "colorares",
+    "3s": "colorar",
+    "1p": "colorarmos",
+    "2p": "colorardes",
+    "3p": "colorarem"
+  },
+  "Ger": {
+    "": "colorando"
+  },
+  "PresI": {
+    "1s": "coloro",
+    "2s": "coloras",
+    "3s": "colora",
+    "1p": "coloramos",
+    "2p": "colorais",
+    "3p": "coloram"
+  },
+  "PImpI": {
+    "1s": "colorava",
+    "2s": "coloravas",
+    "3s": "colorava",
+    "1p": "colorávamos",
+    "2p": "coloráveis",
+    "3p": "coloravam"
+  },
+  "PPSI": {
+    "1s": "colorei",
+    "2s": "coloraste",
+    "3s": "colorou",
+    "1p": "colorámos",
+    "2p": "colorastes",
+    "3p": "coloraram"
+  },
+  "PMQPSI": {
+    "1s": "colorara",
+    "2s": "coloraras",
+    "3s": "colorara",
+    "1p": "coloráramos",
+    "2p": "coloráreis",
+    "3p": "coloraram"
+  },
+  "FutSI": {
+    "1s": "colorarei",
+    "2s": "colorarás",
+    "3s": "colorará",
+    "1p": "coloraremos",
+    "2p": "colorareis",
+    "3p": "colorarão"
+  },
+  "CondS": {
+    "1s": "coloraria",
+    "2s": "colorarias",
+    "3s": "coloraria",
+    "1p": "coloraríamos",
+    "2p": "coloraríeis",
+    "3p": "colorariam"
+  },
+  "PresC": {
+    "1s": "colore",
+    "2s": "colores",
+    "3s": "colore",
+    "1p": "coloremos",
+    "2p": "coloreis",
+    "3p": "colorem"
+  },
+  "PImpC": {
+    "1s": "colorasse",
+    "2s": "colorasses",
+    "3s": "colorasse",
+    "1p": "colorássemos",
+    "2p": "colorásseis",
+    "3p": "colorassem"
+  },
+  "FutSC": {
+    "1s": "colorar",
+    "2s": "colorares",
+    "3s": "colorar",
+    "1p": "colorarmos",
+    "2p": "colorardes",
+    "3p": "colorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colora",
+    "3s": "colore",
+    "1p": "coloremos",
+    "2p": "colorai",
+    "3p": "colorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não colores",
+    "3s": "não colore",
+    "1p": "não coloremos",
+    "2p": "não coloreis",
+    "3p": "não colorem"
+  },
+  "Part-ter": {
+    "": "colorado"
+  },
+  "Part-ser": {
+    "ms": "colorado",
+    "fs": "colorada",
+    "mp": "colorados",
+    "fp": "coloradas"
+  }
+}

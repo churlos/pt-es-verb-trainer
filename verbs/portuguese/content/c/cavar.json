@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cavar"
+  },
+  "InfP": {
+    "1s": "cavar",
+    "2s": "cavares",
+    "3s": "cavar",
+    "1p": "cavarmos",
+    "2p": "cavardes",
+    "3p": "cavarem"
+  },
+  "Ger": {
+    "": "cavando"
+  },
+  "PresI": {
+    "1s": "cavo",
+    "2s": "cavas",
+    "3s": "cava",
+    "1p": "cavamos",
+    "2p": "cavais",
+    "3p": "cavam"
+  },
+  "PImpI": {
+    "1s": "cavava",
+    "2s": "cavavas",
+    "3s": "cavava",
+    "1p": "cavávamos",
+    "2p": "caváveis",
+    "3p": "cavavam"
+  },
+  "PPSI": {
+    "1s": "cavei",
+    "2s": "cavaste",
+    "3s": "cavou",
+    "1p": "cavámos",
+    "2p": "cavastes",
+    "3p": "cavaram"
+  },
+  "PMQPSI": {
+    "1s": "cavara",
+    "2s": "cavaras",
+    "3s": "cavara",
+    "1p": "caváramos",
+    "2p": "caváreis",
+    "3p": "cavaram"
+  },
+  "FutSI": {
+    "1s": "cavarei",
+    "2s": "cavarás",
+    "3s": "cavará",
+    "1p": "cavaremos",
+    "2p": "cavareis",
+    "3p": "cavarão"
+  },
+  "CondS": {
+    "1s": "cavaria",
+    "2s": "cavarias",
+    "3s": "cavaria",
+    "1p": "cavaríamos",
+    "2p": "cavaríeis",
+    "3p": "cavariam"
+  },
+  "PresC": {
+    "1s": "cave",
+    "2s": "caves",
+    "3s": "cave",
+    "1p": "cavemos",
+    "2p": "caveis",
+    "3p": "cavem"
+  },
+  "PImpC": {
+    "1s": "cavasse",
+    "2s": "cavasses",
+    "3s": "cavasse",
+    "1p": "cavássemos",
+    "2p": "cavásseis",
+    "3p": "cavassem"
+  },
+  "FutSC": {
+    "1s": "cavar",
+    "2s": "cavares",
+    "3s": "cavar",
+    "1p": "cavarmos",
+    "2p": "cavardes",
+    "3p": "cavarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cava",
+    "3s": "cave",
+    "1p": "cavemos",
+    "2p": "cavai",
+    "3p": "cavem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não caves",
+    "3s": "não cave",
+    "1p": "não cavemos",
+    "2p": "não caveis",
+    "3p": "não cavem"
+  },
+  "Part-ter": {
+    "": "cavado"
+  },
+  "Part-ser": {
+    "ms": "cavado",
+    "fs": "cavada",
+    "mp": "cavados",
+    "fp": "cavadas"
+  }
+}

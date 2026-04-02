@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "temporizar"
+  },
+  "Ger": {
+    "": "temporizando"
+  },
+  "PresI": {
+    "1s": "temporizo",
+    "2s": "temporizas",
+    "3s": "temporiza",
+    "1p": "temporizamos",
+    "2p": "temporizáis",
+    "3p": "temporizan"
+  },
+  "PImpI": {
+    "1s": "temporizaba",
+    "2s": "temporizabas",
+    "3s": "temporizaba",
+    "1p": "temporizábamos",
+    "2p": "temporizabais",
+    "3p": "temporizaban"
+  },
+  "PPSI": {
+    "1s": "temporicé",
+    "2s": "temporizaste",
+    "3s": "temporizó",
+    "1p": "temporizamos",
+    "2p": "temporizasteis",
+    "3p": "temporizaron"
+  },
+  "FutSI": {
+    "1s": "temporizaré",
+    "2s": "temporizarás",
+    "3s": "temporizará",
+    "1p": "temporizaremos",
+    "2p": "temporizaréis",
+    "3p": "temporizarán"
+  },
+  "CondS": {
+    "1s": "temporizaría",
+    "2s": "temporizarías",
+    "3s": "temporizaría",
+    "1p": "temporizaríamos",
+    "2p": "temporizaríais",
+    "3p": "temporizarían"
+  },
+  "PresC": {
+    "1s": "temporice",
+    "2s": "temporices",
+    "3s": "temporice",
+    "1p": "temporicemos",
+    "2p": "temporicéis",
+    "3p": "temporicen"
+  },
+  "PMQPSI": {
+    "1s": "temporizara",
+    "2s": "temporizaras",
+    "3s": "temporizara",
+    "1p": "temporizáramos",
+    "2p": "temporizarais",
+    "3p": "temporizaran"
+  },
+  "PImpC": {
+    "1s": "temporizase",
+    "2s": "temporizases",
+    "3s": "temporizase",
+    "1p": "temporizásemos",
+    "2p": "temporizaseis",
+    "3p": "temporizasen"
+  },
+  "FutSC": {
+    "1s": "temporizare",
+    "2s": "temporizares",
+    "3s": "temporizare",
+    "1p": "temporizáremos",
+    "2p": "temporizareis",
+    "3p": "temporizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "temporiza",
+    "3s": "temporice",
+    "1p": "temporicemos",
+    "2p": "temporizad",
+    "3p": "temporicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no temporices",
+    "3s": "no temporice",
+    "1p": "no temporicemos",
+    "2p": "no temporicéis",
+    "3p": "no temporicen"
+  },
+  "Part-ter": {
+    "": "temporizado"
+  },
+  "Part-ser": {
+    "ms": "temporizado",
+    "fs": "temporizada",
+    "mp": "temporizados",
+    "fp": "temporizadas"
+  }
+}

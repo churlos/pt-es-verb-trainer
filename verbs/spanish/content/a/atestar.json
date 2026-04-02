@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atestar"
+  },
+  "Ger": {
+    "": "atestando"
+  },
+  "PresI": {
+    "1s": "atiesto",
+    "2s": "atiestas",
+    "3s": "atiesta",
+    "1p": "atestamos",
+    "2p": "atestáis",
+    "3p": "atiestan"
+  },
+  "PImpI": {
+    "1s": "atestaba",
+    "2s": "atestabas",
+    "3s": "atestaba",
+    "1p": "atestábamos",
+    "2p": "atestabais",
+    "3p": "atestaban"
+  },
+  "PPSI": {
+    "1s": "atesté",
+    "2s": "atestaste",
+    "3s": "atestó",
+    "1p": "atestamos",
+    "2p": "atestasteis",
+    "3p": "atestaron"
+  },
+  "FutSI": {
+    "1s": "atestaré",
+    "2s": "atestarás",
+    "3s": "atestará",
+    "1p": "atestaremos",
+    "2p": "atestaréis",
+    "3p": "atestarán"
+  },
+  "CondS": {
+    "1s": "atestaría",
+    "2s": "atestarías",
+    "3s": "atestaría",
+    "1p": "atestaríamos",
+    "2p": "atestaríais",
+    "3p": "atestarían"
+  },
+  "PresC": {
+    "1s": "atieste",
+    "2s": "atiestes",
+    "3s": "atieste",
+    "1p": "atestemos",
+    "2p": "atestéis",
+    "3p": "atiesten"
+  },
+  "PMQPSI": {
+    "1s": "atestara",
+    "2s": "atestaras",
+    "3s": "atestara",
+    "1p": "atestáramos",
+    "2p": "atestarais",
+    "3p": "atestaran"
+  },
+  "PImpC": {
+    "1s": "atestase",
+    "2s": "atestases",
+    "3s": "atestase",
+    "1p": "atestásemos",
+    "2p": "atestaseis",
+    "3p": "atestasen"
+  },
+  "FutSC": {
+    "1s": "atestare",
+    "2s": "atestares",
+    "3s": "atestare",
+    "1p": "atestáremos",
+    "2p": "atestareis",
+    "3p": "atestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atiesta",
+    "3s": "atieste",
+    "1p": "atestemos",
+    "2p": "atestad",
+    "3p": "atiesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atiestes",
+    "3s": "no atieste",
+    "1p": "no atestemos",
+    "2p": "no atestéis",
+    "3p": "no atiesten"
+  },
+  "Part-ter": {
+    "": "atestado"
+  },
+  "Part-ser": {
+    "ms": "atestado",
+    "fs": "atestada",
+    "mp": "atestados",
+    "fp": "atestadas"
+  }
+}

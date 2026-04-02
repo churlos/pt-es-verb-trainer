@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "designar"
+  },
+  "InfP": {
+    "1s": "designar",
+    "2s": "designares",
+    "3s": "designar",
+    "1p": "designarmos",
+    "2p": "designardes",
+    "3p": "designarem"
+  },
+  "Ger": {
+    "": "designando"
+  },
+  "PresI": {
+    "1s": "designo",
+    "2s": "designas",
+    "3s": "designa",
+    "1p": "designamos",
+    "2p": "designais",
+    "3p": "designam"
+  },
+  "PImpI": {
+    "1s": "designava",
+    "2s": "designavas",
+    "3s": "designava",
+    "1p": "designávamos",
+    "2p": "designáveis",
+    "3p": "designavam"
+  },
+  "PPSI": {
+    "1s": "designei",
+    "2s": "designaste",
+    "3s": "designou",
+    "1p": "designámos",
+    "2p": "designastes",
+    "3p": "designaram"
+  },
+  "PMQPSI": {
+    "1s": "designara",
+    "2s": "designaras",
+    "3s": "designara",
+    "1p": "designáramos",
+    "2p": "designáreis",
+    "3p": "designaram"
+  },
+  "FutSI": {
+    "1s": "designarei",
+    "2s": "designarás",
+    "3s": "designará",
+    "1p": "designaremos",
+    "2p": "designareis",
+    "3p": "designarão"
+  },
+  "CondS": {
+    "1s": "designaria",
+    "2s": "designarias",
+    "3s": "designaria",
+    "1p": "designaríamos",
+    "2p": "designaríeis",
+    "3p": "designariam"
+  },
+  "PresC": {
+    "1s": "designe",
+    "2s": "designes",
+    "3s": "designe",
+    "1p": "designemos",
+    "2p": "designeis",
+    "3p": "designem"
+  },
+  "PImpC": {
+    "1s": "designasse",
+    "2s": "designasses",
+    "3s": "designasse",
+    "1p": "designássemos",
+    "2p": "designásseis",
+    "3p": "designassem"
+  },
+  "FutSC": {
+    "1s": "designar",
+    "2s": "designares",
+    "3s": "designar",
+    "1p": "designarmos",
+    "2p": "designardes",
+    "3p": "designarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "designa",
+    "3s": "designe",
+    "1p": "designemos",
+    "2p": "designai",
+    "3p": "designem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não designes",
+    "3s": "não designe",
+    "1p": "não designemos",
+    "2p": "não designeis",
+    "3p": "não designem"
+  },
+  "Part-ter": {
+    "": "designado"
+  },
+  "Part-ser": {
+    "ms": "designado",
+    "fs": "designada",
+    "mp": "designados",
+    "fp": "designadas"
+  }
+}

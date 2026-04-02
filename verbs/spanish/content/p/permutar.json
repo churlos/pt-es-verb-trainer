@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "permutar"
+  },
+  "Ger": {
+    "": "permutando"
+  },
+  "PresI": {
+    "1s": "permuto",
+    "2s": "permutas",
+    "3s": "permuta",
+    "1p": "permutamos",
+    "2p": "permutáis",
+    "3p": "permutan"
+  },
+  "PImpI": {
+    "1s": "permutaba",
+    "2s": "permutabas",
+    "3s": "permutaba",
+    "1p": "permutábamos",
+    "2p": "permutabais",
+    "3p": "permutaban"
+  },
+  "PPSI": {
+    "1s": "permuté",
+    "2s": "permutaste",
+    "3s": "permutó",
+    "1p": "permutamos",
+    "2p": "permutasteis",
+    "3p": "permutaron"
+  },
+  "FutSI": {
+    "1s": "permutaré",
+    "2s": "permutarás",
+    "3s": "permutará",
+    "1p": "permutaremos",
+    "2p": "permutaréis",
+    "3p": "permutarán"
+  },
+  "CondS": {
+    "1s": "permutaría",
+    "2s": "permutarías",
+    "3s": "permutaría",
+    "1p": "permutaríamos",
+    "2p": "permutaríais",
+    "3p": "permutarían"
+  },
+  "PresC": {
+    "1s": "permute",
+    "2s": "permutes",
+    "3s": "permute",
+    "1p": "permutemos",
+    "2p": "permutéis",
+    "3p": "permuten"
+  },
+  "PMQPSI": {
+    "1s": "permutara",
+    "2s": "permutaras",
+    "3s": "permutara",
+    "1p": "permutáramos",
+    "2p": "permutarais",
+    "3p": "permutaran"
+  },
+  "PImpC": {
+    "1s": "permutase",
+    "2s": "permutases",
+    "3s": "permutase",
+    "1p": "permutásemos",
+    "2p": "permutaseis",
+    "3p": "permutasen"
+  },
+  "FutSC": {
+    "1s": "permutare",
+    "2s": "permutares",
+    "3s": "permutare",
+    "1p": "permutáremos",
+    "2p": "permutareis",
+    "3p": "permutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "permuta",
+    "3s": "permute",
+    "1p": "permutemos",
+    "2p": "permutad",
+    "3p": "permuten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no permutes",
+    "3s": "no permute",
+    "1p": "no permutemos",
+    "2p": "no permutéis",
+    "3p": "no permuten"
+  },
+  "Part-ter": {
+    "": "permutado"
+  },
+  "Part-ser": {
+    "ms": "permutado",
+    "fs": "permutada",
+    "mp": "permutados",
+    "fp": "permutadas"
+  }
+}

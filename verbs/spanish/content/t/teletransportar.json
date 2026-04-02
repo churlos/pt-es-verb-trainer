@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "teletransportar"
+  },
+  "Ger": {
+    "": "teletransportando"
+  },
+  "PresI": {
+    "1s": "teletransporto",
+    "2s": "teletransportas",
+    "3s": "teletransporta",
+    "1p": "teletransportamos",
+    "2p": "teletransportáis",
+    "3p": "teletransportan"
+  },
+  "PImpI": {
+    "1s": "teletransportaba",
+    "2s": "teletransportabas",
+    "3s": "teletransportaba",
+    "1p": "teletransportábamos",
+    "2p": "teletransportabais",
+    "3p": "teletransportaban"
+  },
+  "PPSI": {
+    "1s": "teletransporté",
+    "2s": "teletransportaste",
+    "3s": "teletransportó",
+    "1p": "teletransportamos",
+    "2p": "teletransportasteis",
+    "3p": "teletransportaron"
+  },
+  "FutSI": {
+    "1s": "teletransportaré",
+    "2s": "teletransportarás",
+    "3s": "teletransportará",
+    "1p": "teletransportaremos",
+    "2p": "teletransportaréis",
+    "3p": "teletransportarán"
+  },
+  "CondS": {
+    "1s": "teletransportaría",
+    "2s": "teletransportarías",
+    "3s": "teletransportaría",
+    "1p": "teletransportaríamos",
+    "2p": "teletransportaríais",
+    "3p": "teletransportarían"
+  },
+  "PresC": {
+    "1s": "teletransporte",
+    "2s": "teletransportes",
+    "3s": "teletransporte",
+    "1p": "teletransportemos",
+    "2p": "teletransportéis",
+    "3p": "teletransporten"
+  },
+  "PMQPSI": {
+    "1s": "teletransportara",
+    "2s": "teletransportaras",
+    "3s": "teletransportara",
+    "1p": "teletransportáramos",
+    "2p": "teletransportarais",
+    "3p": "teletransportaran"
+  },
+  "PImpC": {
+    "1s": "teletransportase",
+    "2s": "teletransportases",
+    "3s": "teletransportase",
+    "1p": "teletransportásemos",
+    "2p": "teletransportaseis",
+    "3p": "teletransportasen"
+  },
+  "FutSC": {
+    "1s": "teletransportare",
+    "2s": "teletransportares",
+    "3s": "teletransportare",
+    "1p": "teletransportáremos",
+    "2p": "teletransportareis",
+    "3p": "teletransportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "teletransporta",
+    "3s": "teletransporte",
+    "1p": "teletransportemos",
+    "2p": "teletransportad",
+    "3p": "teletransporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no teletransportes",
+    "3s": "no teletransporte",
+    "1p": "no teletransportemos",
+    "2p": "no teletransportéis",
+    "3p": "no teletransporten"
+  },
+  "Part-ter": {
+    "": "teletransportado"
+  },
+  "Part-ser": {
+    "ms": "teletransportado",
+    "fs": "teletransportada",
+    "mp": "teletransportados",
+    "fp": "teletransportadas"
+  }
+}

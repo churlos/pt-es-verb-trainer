@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fiscalizar"
+  },
+  "InfP": {
+    "1s": "fiscalizar",
+    "2s": "fiscalizares",
+    "3s": "fiscalizar",
+    "1p": "fiscalizarmos",
+    "2p": "fiscalizardes",
+    "3p": "fiscalizarem"
+  },
+  "Ger": {
+    "": "fiscalizando"
+  },
+  "PresI": {
+    "1s": "fiscalizo",
+    "2s": "fiscalizas",
+    "3s": "fiscaliza",
+    "1p": "fiscalizamos",
+    "2p": "fiscalizais",
+    "3p": "fiscalizam"
+  },
+  "PImpI": {
+    "1s": "fiscalizava",
+    "2s": "fiscalizavas",
+    "3s": "fiscalizava",
+    "1p": "fiscalizávamos",
+    "2p": "fiscalizáveis",
+    "3p": "fiscalizavam"
+  },
+  "PPSI": {
+    "1s": "fiscalizei",
+    "2s": "fiscalizaste",
+    "3s": "fiscalizou",
+    "1p": "fiscalizámos",
+    "2p": "fiscalizastes",
+    "3p": "fiscalizaram"
+  },
+  "PMQPSI": {
+    "1s": "fiscalizara",
+    "2s": "fiscalizaras",
+    "3s": "fiscalizara",
+    "1p": "fiscalizáramos",
+    "2p": "fiscalizáreis",
+    "3p": "fiscalizaram"
+  },
+  "FutSI": {
+    "1s": "fiscalizarei",
+    "2s": "fiscalizarás",
+    "3s": "fiscalizará",
+    "1p": "fiscalizaremos",
+    "2p": "fiscalizareis",
+    "3p": "fiscalizarão"
+  },
+  "CondS": {
+    "1s": "fiscalizaria",
+    "2s": "fiscalizarias",
+    "3s": "fiscalizaria",
+    "1p": "fiscalizaríamos",
+    "2p": "fiscalizaríeis",
+    "3p": "fiscalizariam"
+  },
+  "PresC": {
+    "1s": "fiscalize",
+    "2s": "fiscalizes",
+    "3s": "fiscalize",
+    "1p": "fiscalizemos",
+    "2p": "fiscalizeis",
+    "3p": "fiscalizem"
+  },
+  "PImpC": {
+    "1s": "fiscalizasse",
+    "2s": "fiscalizasses",
+    "3s": "fiscalizasse",
+    "1p": "fiscalizássemos",
+    "2p": "fiscalizásseis",
+    "3p": "fiscalizassem"
+  },
+  "FutSC": {
+    "1s": "fiscalizar",
+    "2s": "fiscalizares",
+    "3s": "fiscalizar",
+    "1p": "fiscalizarmos",
+    "2p": "fiscalizardes",
+    "3p": "fiscalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fiscaliza",
+    "3s": "fiscalize",
+    "1p": "fiscalizemos",
+    "2p": "fiscalizai",
+    "3p": "fiscalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fiscalizes",
+    "3s": "não fiscalize",
+    "1p": "não fiscalizemos",
+    "2p": "não fiscalizeis",
+    "3p": "não fiscalizem"
+  },
+  "Part-ter": {
+    "": "fiscalizado"
+  },
+  "Part-ser": {
+    "ms": "fiscalizado",
+    "fs": "fiscalizada",
+    "mp": "fiscalizados",
+    "fp": "fiscalizadas"
+  }
+}

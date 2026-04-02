@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "armar"
+  },
+  "InfP": {
+    "1s": "armar",
+    "2s": "armares",
+    "3s": "armar",
+    "1p": "armarmos",
+    "2p": "armardes",
+    "3p": "armarem"
+  },
+  "Ger": {
+    "": "armando"
+  },
+  "PresI": {
+    "1s": "armo",
+    "2s": "armas",
+    "3s": "arma",
+    "1p": "armamos",
+    "2p": "armais",
+    "3p": "armam"
+  },
+  "PImpI": {
+    "1s": "armava",
+    "2s": "armavas",
+    "3s": "armava",
+    "1p": "armávamos",
+    "2p": "armáveis",
+    "3p": "armavam"
+  },
+  "PPSI": {
+    "1s": "armei",
+    "2s": "armaste",
+    "3s": "armou",
+    "1p": "armámos",
+    "2p": "armastes",
+    "3p": "armaram"
+  },
+  "PMQPSI": {
+    "1s": "armara",
+    "2s": "armaras",
+    "3s": "armara",
+    "1p": "armáramos",
+    "2p": "armáreis",
+    "3p": "armaram"
+  },
+  "FutSI": {
+    "1s": "armarei",
+    "2s": "armarás",
+    "3s": "armará",
+    "1p": "armaremos",
+    "2p": "armareis",
+    "3p": "armarão"
+  },
+  "CondS": {
+    "1s": "armaria",
+    "2s": "armarias",
+    "3s": "armaria",
+    "1p": "armaríamos",
+    "2p": "armaríeis",
+    "3p": "armariam"
+  },
+  "PresC": {
+    "1s": "arme",
+    "2s": "armes",
+    "3s": "arme",
+    "1p": "armemos",
+    "2p": "armeis",
+    "3p": "armem"
+  },
+  "PImpC": {
+    "1s": "armasse",
+    "2s": "armasses",
+    "3s": "armasse",
+    "1p": "armássemos",
+    "2p": "armásseis",
+    "3p": "armassem"
+  },
+  "FutSC": {
+    "1s": "armar",
+    "2s": "armares",
+    "3s": "armar",
+    "1p": "armarmos",
+    "2p": "armardes",
+    "3p": "armarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arma",
+    "3s": "arme",
+    "1p": "armemos",
+    "2p": "armai",
+    "3p": "armem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não armes",
+    "3s": "não arme",
+    "1p": "não armemos",
+    "2p": "não armeis",
+    "3p": "não armem"
+  },
+  "Part-ter": {
+    "": "armado"
+  },
+  "Part-ser": {
+    "ms": "armado",
+    "fs": "armada",
+    "mp": "armados",
+    "fp": "armadas"
+  }
+}

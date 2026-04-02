@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gravar"
+  },
+  "Ger": {
+    "": "gravando"
+  },
+  "PresI": {
+    "1s": "gravo",
+    "2s": "gravas",
+    "3s": "grava",
+    "1p": "gravamos",
+    "2p": "graváis",
+    "3p": "gravan"
+  },
+  "PImpI": {
+    "1s": "gravaba",
+    "2s": "gravabas",
+    "3s": "gravaba",
+    "1p": "gravábamos",
+    "2p": "gravabais",
+    "3p": "gravaban"
+  },
+  "PPSI": {
+    "1s": "gravé",
+    "2s": "gravaste",
+    "3s": "gravó",
+    "1p": "gravamos",
+    "2p": "gravasteis",
+    "3p": "gravaron"
+  },
+  "FutSI": {
+    "1s": "gravaré",
+    "2s": "gravarás",
+    "3s": "gravará",
+    "1p": "gravaremos",
+    "2p": "gravaréis",
+    "3p": "gravarán"
+  },
+  "CondS": {
+    "1s": "gravaría",
+    "2s": "gravarías",
+    "3s": "gravaría",
+    "1p": "gravaríamos",
+    "2p": "gravaríais",
+    "3p": "gravarían"
+  },
+  "PresC": {
+    "1s": "grave",
+    "2s": "graves",
+    "3s": "grave",
+    "1p": "gravemos",
+    "2p": "gravéis",
+    "3p": "graven"
+  },
+  "PMQPSI": {
+    "1s": "gravara",
+    "2s": "gravaras",
+    "3s": "gravara",
+    "1p": "graváramos",
+    "2p": "gravarais",
+    "3p": "gravaran"
+  },
+  "PImpC": {
+    "1s": "gravase",
+    "2s": "gravases",
+    "3s": "gravase",
+    "1p": "gravásemos",
+    "2p": "gravaseis",
+    "3p": "gravasen"
+  },
+  "FutSC": {
+    "1s": "gravare",
+    "2s": "gravares",
+    "3s": "gravare",
+    "1p": "graváremos",
+    "2p": "gravareis",
+    "3p": "gravaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grava",
+    "3s": "grave",
+    "1p": "gravemos",
+    "2p": "gravad",
+    "3p": "graven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no graves",
+    "3s": "no grave",
+    "1p": "no gravemos",
+    "2p": "no gravéis",
+    "3p": "no graven"
+  },
+  "Part-ter": {
+    "": "gravado"
+  },
+  "Part-ser": {
+    "ms": "gravado",
+    "fs": "gravada",
+    "mp": "gravados",
+    "fp": "gravadas"
+  }
+}

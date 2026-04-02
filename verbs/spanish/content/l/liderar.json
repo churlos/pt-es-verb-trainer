@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "liderar"
+  },
+  "Ger": {
+    "": "liderando"
+  },
+  "PresI": {
+    "1s": "lidero",
+    "2s": "lideras",
+    "3s": "lidera",
+    "1p": "lideramos",
+    "2p": "lideráis",
+    "3p": "lideran"
+  },
+  "PImpI": {
+    "1s": "lideraba",
+    "2s": "liderabas",
+    "3s": "lideraba",
+    "1p": "liderábamos",
+    "2p": "liderabais",
+    "3p": "lideraban"
+  },
+  "PPSI": {
+    "1s": "lideré",
+    "2s": "lideraste",
+    "3s": "lideró",
+    "1p": "lideramos",
+    "2p": "liderasteis",
+    "3p": "lideraron"
+  },
+  "FutSI": {
+    "1s": "lideraré",
+    "2s": "liderarás",
+    "3s": "liderará",
+    "1p": "lideraremos",
+    "2p": "lideraréis",
+    "3p": "liderarán"
+  },
+  "CondS": {
+    "1s": "lideraría",
+    "2s": "liderarías",
+    "3s": "lideraría",
+    "1p": "lideraríamos",
+    "2p": "lideraríais",
+    "3p": "liderarían"
+  },
+  "PresC": {
+    "1s": "lidere",
+    "2s": "lideres",
+    "3s": "lidere",
+    "1p": "lideremos",
+    "2p": "lideréis",
+    "3p": "lideren"
+  },
+  "PMQPSI": {
+    "1s": "liderara",
+    "2s": "lideraras",
+    "3s": "liderara",
+    "1p": "lideráramos",
+    "2p": "liderarais",
+    "3p": "lideraran"
+  },
+  "PImpC": {
+    "1s": "liderase",
+    "2s": "liderases",
+    "3s": "liderase",
+    "1p": "liderásemos",
+    "2p": "lideraseis",
+    "3p": "liderasen"
+  },
+  "FutSC": {
+    "1s": "liderare",
+    "2s": "liderares",
+    "3s": "liderare",
+    "1p": "lideráremos",
+    "2p": "liderareis",
+    "3p": "lideraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lidera",
+    "3s": "lidere",
+    "1p": "lideremos",
+    "2p": "liderad",
+    "3p": "lideren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lideres",
+    "3s": "no lidere",
+    "1p": "no lideremos",
+    "2p": "no lideréis",
+    "3p": "no lideren"
+  },
+  "Part-ter": {
+    "": "liderado"
+  },
+  "Part-ser": {
+    "ms": "liderado",
+    "fs": "liderada",
+    "mp": "liderados",
+    "fp": "lideradas"
+  }
+}

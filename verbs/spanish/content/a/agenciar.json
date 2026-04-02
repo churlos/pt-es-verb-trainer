@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "agenciar"
+  },
+  "Ger": {
+    "": "agenciando"
+  },
+  "PresI": {
+    "1s": "agencio",
+    "2s": "agencias",
+    "3s": "agencia",
+    "1p": "agenciamos",
+    "2p": "agenciáis",
+    "3p": "agencian"
+  },
+  "PImpI": {
+    "1s": "agenciaba",
+    "2s": "agenciabas",
+    "3s": "agenciaba",
+    "1p": "agenciábamos",
+    "2p": "agenciabais",
+    "3p": "agenciaban"
+  },
+  "PPSI": {
+    "1s": "agencié",
+    "2s": "agenciaste",
+    "3s": "agenció",
+    "1p": "agenciamos",
+    "2p": "agenciasteis",
+    "3p": "agenciaron"
+  },
+  "FutSI": {
+    "1s": "agenciaré",
+    "2s": "agenciarás",
+    "3s": "agenciará",
+    "1p": "agenciaremos",
+    "2p": "agenciaréis",
+    "3p": "agenciarán"
+  },
+  "CondS": {
+    "1s": "agenciaría",
+    "2s": "agenciarías",
+    "3s": "agenciaría",
+    "1p": "agenciaríamos",
+    "2p": "agenciaríais",
+    "3p": "agenciarían"
+  },
+  "PresC": {
+    "1s": "agencie",
+    "2s": "agencies",
+    "3s": "agencie",
+    "1p": "agenciemos",
+    "2p": "agenciéis",
+    "3p": "agencien"
+  },
+  "PMQPSI": {
+    "1s": "agenciara",
+    "2s": "agenciaras",
+    "3s": "agenciara",
+    "1p": "agenciáramos",
+    "2p": "agenciarais",
+    "3p": "agenciaran"
+  },
+  "PImpC": {
+    "1s": "agenciase",
+    "2s": "agenciases",
+    "3s": "agenciase",
+    "1p": "agenciásemos",
+    "2p": "agenciaseis",
+    "3p": "agenciasen"
+  },
+  "FutSC": {
+    "1s": "agenciare",
+    "2s": "agenciares",
+    "3s": "agenciare",
+    "1p": "agenciáremos",
+    "2p": "agenciareis",
+    "3p": "agenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agencia",
+    "3s": "agencie",
+    "1p": "agenciemos",
+    "2p": "agenciad",
+    "3p": "agencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no agencies",
+    "3s": "no agencie",
+    "1p": "no agenciemos",
+    "2p": "no agenciéis",
+    "3p": "no agencien"
+  },
+  "Part-ter": {
+    "": "agenciado"
+  },
+  "Part-ser": {
+    "ms": "agenciado",
+    "fs": "agenciada",
+    "mp": "agenciados",
+    "fp": "agenciadas"
+  }
+}

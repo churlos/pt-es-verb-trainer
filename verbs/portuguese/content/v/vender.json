@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vender"
+  },
+  "InfP": {
+    "1s": "vender",
+    "2s": "venderes",
+    "3s": "vender",
+    "1p": "vendermos",
+    "2p": "venderdes",
+    "3p": "venderem"
+  },
+  "Ger": {
+    "": "vendendo"
+  },
+  "PresI": {
+    "1s": "vendo",
+    "2s": "vendes",
+    "3s": "vende",
+    "1p": "vendemos",
+    "2p": "vendeis",
+    "3p": "vendem"
+  },
+  "PImpI": {
+    "1s": "vendia",
+    "2s": "vendias",
+    "3s": "vendia",
+    "1p": "vendíamos",
+    "2p": "vendíeis",
+    "3p": "vendiam"
+  },
+  "PPSI": {
+    "1s": "vendi",
+    "2s": "vendeste",
+    "3s": "vendeu",
+    "1p": "vendemos",
+    "2p": "vendestes",
+    "3p": "venderam"
+  },
+  "PMQPSI": {
+    "1s": "vendera",
+    "2s": "venderas",
+    "3s": "vendera",
+    "1p": "vendêramos",
+    "2p": "vendêreis",
+    "3p": "venderam"
+  },
+  "FutSI": {
+    "1s": "venderei",
+    "2s": "venderás",
+    "3s": "venderá",
+    "1p": "venderemos",
+    "2p": "vendereis",
+    "3p": "venderão"
+  },
+  "CondS": {
+    "1s": "venderia",
+    "2s": "venderias",
+    "3s": "venderia",
+    "1p": "venderíamos",
+    "2p": "venderíeis",
+    "3p": "venderiam"
+  },
+  "PresC": {
+    "1s": "venda",
+    "2s": "vendas",
+    "3s": "venda",
+    "1p": "vendamos",
+    "2p": "vendais",
+    "3p": "vendam"
+  },
+  "PImpC": {
+    "1s": "vendesse",
+    "2s": "vendesses",
+    "3s": "vendesse",
+    "1p": "vendêssemos",
+    "2p": "vendêsseis",
+    "3p": "vendessem"
+  },
+  "FutSC": {
+    "1s": "vender",
+    "2s": "venderes",
+    "3s": "vender",
+    "1p": "vendermos",
+    "2p": "venderdes",
+    "3p": "venderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vende",
+    "3s": "venda",
+    "1p": "vendamos",
+    "2p": "vendei",
+    "3p": "vendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vendas",
+    "3s": "não venda",
+    "1p": "não vendamos",
+    "2p": "não vendais",
+    "3p": "não vendam"
+  },
+  "Part-ter": {
+    "": "vendido"
+  },
+  "Part-ser": {
+    "ms": "vendido",
+    "fs": "vendida",
+    "mp": "vendidos",
+    "fp": "vendidas"
+  }
+}

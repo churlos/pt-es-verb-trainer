@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "casar"
+  },
+  "Ger": {
+    "": "casando"
+  },
+  "PresI": {
+    "1s": "caso",
+    "2s": "casas",
+    "3s": "casa",
+    "1p": "casamos",
+    "2p": "casáis",
+    "3p": "casan"
+  },
+  "PImpI": {
+    "1s": "casaba",
+    "2s": "casabas",
+    "3s": "casaba",
+    "1p": "casábamos",
+    "2p": "casabais",
+    "3p": "casaban"
+  },
+  "PPSI": {
+    "1s": "casé",
+    "2s": "casaste",
+    "3s": "casó",
+    "1p": "casamos",
+    "2p": "casasteis",
+    "3p": "casaron"
+  },
+  "FutSI": {
+    "1s": "casaré",
+    "2s": "casarás",
+    "3s": "casará",
+    "1p": "casaremos",
+    "2p": "casaréis",
+    "3p": "casarán"
+  },
+  "CondS": {
+    "1s": "casaría",
+    "2s": "casarías",
+    "3s": "casaría",
+    "1p": "casaríamos",
+    "2p": "casaríais",
+    "3p": "casarían"
+  },
+  "PresC": {
+    "1s": "case",
+    "2s": "cases",
+    "3s": "case",
+    "1p": "casemos",
+    "2p": "caséis",
+    "3p": "casen"
+  },
+  "PMQPSI": {
+    "1s": "casara",
+    "2s": "casaras",
+    "3s": "casara",
+    "1p": "casáramos",
+    "2p": "casarais",
+    "3p": "casaran"
+  },
+  "PImpC": {
+    "1s": "casase",
+    "2s": "casases",
+    "3s": "casase",
+    "1p": "casásemos",
+    "2p": "casaseis",
+    "3p": "casasen"
+  },
+  "FutSC": {
+    "1s": "casare",
+    "2s": "casares",
+    "3s": "casare",
+    "1p": "casáremos",
+    "2p": "casareis",
+    "3p": "casaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "casa",
+    "3s": "case",
+    "1p": "casemos",
+    "2p": "casad",
+    "3p": "casen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cases",
+    "3s": "no case",
+    "1p": "no casemos",
+    "2p": "no caséis",
+    "3p": "no casen"
+  },
+  "Part-ter": {
+    "": "casado"
+  },
+  "Part-ser": {
+    "ms": "casado",
+    "fs": "casada",
+    "mp": "casados",
+    "fp": "casadas"
+  }
+}

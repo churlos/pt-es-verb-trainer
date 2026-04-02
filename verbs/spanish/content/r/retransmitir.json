@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retransmitir"
+  },
+  "Ger": {
+    "": "retransmitiendo"
+  },
+  "PresI": {
+    "1s": "retransmito",
+    "2s": "retransmites",
+    "3s": "retransmite",
+    "1p": "retransmitimos",
+    "2p": "retransmitís",
+    "3p": "retransmiten"
+  },
+  "PImpI": {
+    "1s": "retransmitía",
+    "2s": "retransmitías",
+    "3s": "retransmitía",
+    "1p": "retransmitíamos",
+    "2p": "retransmitíais",
+    "3p": "retransmitían"
+  },
+  "PPSI": {
+    "1s": "retransmití",
+    "2s": "retransmitiste",
+    "3s": "retransmitió",
+    "1p": "retransmitimos",
+    "2p": "retransmitisteis",
+    "3p": "retransmitieron"
+  },
+  "FutSI": {
+    "1s": "retransmitiré",
+    "2s": "retransmitirás",
+    "3s": "retransmitirá",
+    "1p": "retransmitiremos",
+    "2p": "retransmitiréis",
+    "3p": "retransmitirán"
+  },
+  "CondS": {
+    "1s": "retransmitiría",
+    "2s": "retransmitirías",
+    "3s": "retransmitiría",
+    "1p": "retransmitiríamos",
+    "2p": "retransmitiríais",
+    "3p": "retransmitirían"
+  },
+  "PresC": {
+    "1s": "retransmita",
+    "2s": "retransmitas",
+    "3s": "retransmita",
+    "1p": "retransmitamos",
+    "2p": "retransmitáis",
+    "3p": "retransmitan"
+  },
+  "PMQPSI": {
+    "1s": "retransmitiera",
+    "2s": "retransmitieras",
+    "3s": "retransmitiera",
+    "1p": "retransmitiéramos",
+    "2p": "retransmitierais",
+    "3p": "retransmitieran"
+  },
+  "PImpC": {
+    "1s": "retransmitiese",
+    "2s": "retransmitieses",
+    "3s": "retransmitiese",
+    "1p": "retransmitiésemos",
+    "2p": "retransmitieseis",
+    "3p": "retransmitiesen"
+  },
+  "FutSC": {
+    "1s": "retransmitiere",
+    "2s": "retransmitieres",
+    "3s": "retransmitiere",
+    "1p": "retransmitiéremos",
+    "2p": "retransmitiereis",
+    "3p": "retransmitieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retransmite",
+    "3s": "retransmita",
+    "1p": "retransmitamos",
+    "2p": "retransmitid",
+    "3p": "retransmitan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retransmitas",
+    "3s": "no retransmita",
+    "1p": "no retransmitamos",
+    "2p": "no retransmitáis",
+    "3p": "no retransmitan"
+  },
+  "Part-ter": {
+    "": "retransmitido"
+  },
+  "Part-ser": {
+    "ms": "retransmitido",
+    "fs": "retransmitida",
+    "mp": "retransmitidos",
+    "fp": "retransmitidas"
+  }
+}

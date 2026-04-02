@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "buscar"
+  },
+  "InfP": {
+    "1s": "buscar",
+    "2s": "buscares",
+    "3s": "buscar",
+    "1p": "buscarmos",
+    "2p": "buscardes",
+    "3p": "buscarem"
+  },
+  "Ger": {
+    "": "buscando"
+  },
+  "PresI": {
+    "1s": "busco",
+    "2s": "buscas",
+    "3s": "busca",
+    "1p": "buscamos",
+    "2p": "buscais",
+    "3p": "buscam"
+  },
+  "PImpI": {
+    "1s": "buscava",
+    "2s": "buscavas",
+    "3s": "buscava",
+    "1p": "buscávamos",
+    "2p": "buscáveis",
+    "3p": "buscavam"
+  },
+  "PPSI": {
+    "1s": "busquei",
+    "2s": "buscaste",
+    "3s": "buscou",
+    "1p": "buscámos",
+    "2p": "buscastes",
+    "3p": "buscaram"
+  },
+  "PMQPSI": {
+    "1s": "buscara",
+    "2s": "buscaras",
+    "3s": "buscara",
+    "1p": "buscáramos",
+    "2p": "buscáreis",
+    "3p": "buscaram"
+  },
+  "FutSI": {
+    "1s": "buscarei",
+    "2s": "buscarás",
+    "3s": "buscará",
+    "1p": "buscaremos",
+    "2p": "buscareis",
+    "3p": "buscarão"
+  },
+  "CondS": {
+    "1s": "buscaria",
+    "2s": "buscarias",
+    "3s": "buscaria",
+    "1p": "buscaríamos",
+    "2p": "buscaríeis",
+    "3p": "buscariam"
+  },
+  "PresC": {
+    "1s": "busque",
+    "2s": "busques",
+    "3s": "busque",
+    "1p": "busquemos",
+    "2p": "busqueis",
+    "3p": "busquem"
+  },
+  "PImpC": {
+    "1s": "buscasse",
+    "2s": "buscasses",
+    "3s": "buscasse",
+    "1p": "buscássemos",
+    "2p": "buscásseis",
+    "3p": "buscassem"
+  },
+  "FutSC": {
+    "1s": "buscar",
+    "2s": "buscares",
+    "3s": "buscar",
+    "1p": "buscarmos",
+    "2p": "buscardes",
+    "3p": "buscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "busca",
+    "3s": "busque",
+    "1p": "busquemos",
+    "2p": "buscai",
+    "3p": "busquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não busques",
+    "3s": "não busque",
+    "1p": "não busquemos",
+    "2p": "não busqueis",
+    "3p": "não busquem"
+  },
+  "Part-ter": {
+    "": "buscado"
+  },
+  "Part-ser": {
+    "ms": "buscado",
+    "fs": "buscada",
+    "mp": "buscados",
+    "fp": "buscadas"
+  }
+}

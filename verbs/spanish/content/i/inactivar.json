@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inactivar"
+  },
+  "Ger": {
+    "": "inactivando"
+  },
+  "PresI": {
+    "1s": "inactivo",
+    "2s": "inactivas",
+    "3s": "inactiva",
+    "1p": "inactivamos",
+    "2p": "inactiváis",
+    "3p": "inactivan"
+  },
+  "PImpI": {
+    "1s": "inactivaba",
+    "2s": "inactivabas",
+    "3s": "inactivaba",
+    "1p": "inactivábamos",
+    "2p": "inactivabais",
+    "3p": "inactivaban"
+  },
+  "PPSI": {
+    "1s": "inactivé",
+    "2s": "inactivaste",
+    "3s": "inactivó",
+    "1p": "inactivamos",
+    "2p": "inactivasteis",
+    "3p": "inactivaron"
+  },
+  "FutSI": {
+    "1s": "inactivaré",
+    "2s": "inactivarás",
+    "3s": "inactivará",
+    "1p": "inactivaremos",
+    "2p": "inactivaréis",
+    "3p": "inactivarán"
+  },
+  "CondS": {
+    "1s": "inactivaría",
+    "2s": "inactivarías",
+    "3s": "inactivaría",
+    "1p": "inactivaríamos",
+    "2p": "inactivaríais",
+    "3p": "inactivarían"
+  },
+  "PresC": {
+    "1s": "inactive",
+    "2s": "inactives",
+    "3s": "inactive",
+    "1p": "inactivemos",
+    "2p": "inactivéis",
+    "3p": "inactiven"
+  },
+  "PMQPSI": {
+    "1s": "inactivara",
+    "2s": "inactivaras",
+    "3s": "inactivara",
+    "1p": "inactiváramos",
+    "2p": "inactivarais",
+    "3p": "inactivaran"
+  },
+  "PImpC": {
+    "1s": "inactivase",
+    "2s": "inactivases",
+    "3s": "inactivase",
+    "1p": "inactivásemos",
+    "2p": "inactivaseis",
+    "3p": "inactivasen"
+  },
+  "FutSC": {
+    "1s": "inactivare",
+    "2s": "inactivares",
+    "3s": "inactivare",
+    "1p": "inactiváremos",
+    "2p": "inactivareis",
+    "3p": "inactivaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inactiva",
+    "3s": "inactive",
+    "1p": "inactivemos",
+    "2p": "inactivad",
+    "3p": "inactiven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inactives",
+    "3s": "no inactive",
+    "1p": "no inactivemos",
+    "2p": "no inactivéis",
+    "3p": "no inactiven"
+  },
+  "Part-ter": {
+    "": "inactivado"
+  },
+  "Part-ser": {
+    "ms": "inactivado",
+    "fs": "inactivada",
+    "mp": "inactivados",
+    "fp": "inactivadas"
+  }
+}

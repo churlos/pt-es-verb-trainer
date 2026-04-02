@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lapidar"
+  },
+  "InfP": {
+    "1s": "lapidar",
+    "2s": "lapidares",
+    "3s": "lapidar",
+    "1p": "lapidarmos",
+    "2p": "lapidardes",
+    "3p": "lapidarem"
+  },
+  "Ger": {
+    "": "lapidando"
+  },
+  "PresI": {
+    "1s": "lapido",
+    "2s": "lapidas",
+    "3s": "lapida",
+    "1p": "lapidamos",
+    "2p": "lapidais",
+    "3p": "lapidam"
+  },
+  "PImpI": {
+    "1s": "lapidava",
+    "2s": "lapidavas",
+    "3s": "lapidava",
+    "1p": "lapidávamos",
+    "2p": "lapidáveis",
+    "3p": "lapidavam"
+  },
+  "PPSI": {
+    "1s": "lapidei",
+    "2s": "lapidaste",
+    "3s": "lapidou",
+    "1p": "lapidámos",
+    "2p": "lapidastes",
+    "3p": "lapidaram"
+  },
+  "PMQPSI": {
+    "1s": "lapidara",
+    "2s": "lapidaras",
+    "3s": "lapidara",
+    "1p": "lapidáramos",
+    "2p": "lapidáreis",
+    "3p": "lapidaram"
+  },
+  "FutSI": {
+    "1s": "lapidarei",
+    "2s": "lapidarás",
+    "3s": "lapidará",
+    "1p": "lapidaremos",
+    "2p": "lapidareis",
+    "3p": "lapidarão"
+  },
+  "CondS": {
+    "1s": "lapidaria",
+    "2s": "lapidarias",
+    "3s": "lapidaria",
+    "1p": "lapidaríamos",
+    "2p": "lapidaríeis",
+    "3p": "lapidariam"
+  },
+  "PresC": {
+    "1s": "lapide",
+    "2s": "lapides",
+    "3s": "lapide",
+    "1p": "lapidemos",
+    "2p": "lapideis",
+    "3p": "lapidem"
+  },
+  "PImpC": {
+    "1s": "lapidasse",
+    "2s": "lapidasses",
+    "3s": "lapidasse",
+    "1p": "lapidássemos",
+    "2p": "lapidásseis",
+    "3p": "lapidassem"
+  },
+  "FutSC": {
+    "1s": "lapidar",
+    "2s": "lapidares",
+    "3s": "lapidar",
+    "1p": "lapidarmos",
+    "2p": "lapidardes",
+    "3p": "lapidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lapida",
+    "3s": "lapide",
+    "1p": "lapidemos",
+    "2p": "lapidai",
+    "3p": "lapidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lapides",
+    "3s": "não lapide",
+    "1p": "não lapidemos",
+    "2p": "não lapideis",
+    "3p": "não lapidem"
+  },
+  "Part-ter": {
+    "": "lapidado"
+  },
+  "Part-ser": {
+    "ms": "lapidado",
+    "fs": "lapidada",
+    "mp": "lapidados",
+    "fp": "lapidadas"
+  }
+}

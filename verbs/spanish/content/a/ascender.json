@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ascender"
+  },
+  "Ger": {
+    "": "ascendiendo"
+  },
+  "PresI": {
+    "1s": "asciendo",
+    "2s": "asciendes",
+    "3s": "asciende",
+    "1p": "ascendemos",
+    "2p": "ascendéis",
+    "3p": "ascienden"
+  },
+  "PImpI": {
+    "1s": "ascendía",
+    "2s": "ascendías",
+    "3s": "ascendía",
+    "1p": "ascendíamos",
+    "2p": "ascendíais",
+    "3p": "ascendían"
+  },
+  "PPSI": {
+    "1s": "ascendí",
+    "2s": "ascendiste",
+    "3s": "ascendió",
+    "1p": "ascendimos",
+    "2p": "ascendisteis",
+    "3p": "ascendieron"
+  },
+  "FutSI": {
+    "1s": "ascenderé",
+    "2s": "ascenderás",
+    "3s": "ascenderá",
+    "1p": "ascenderemos",
+    "2p": "ascenderéis",
+    "3p": "ascenderán"
+  },
+  "CondS": {
+    "1s": "ascendería",
+    "2s": "ascenderías",
+    "3s": "ascendería",
+    "1p": "ascenderíamos",
+    "2p": "ascenderíais",
+    "3p": "ascenderían"
+  },
+  "PresC": {
+    "1s": "ascienda",
+    "2s": "asciendas",
+    "3s": "ascienda",
+    "1p": "ascendamos",
+    "2p": "ascendáis",
+    "3p": "asciendan"
+  },
+  "PMQPSI": {
+    "1s": "ascendiera",
+    "2s": "ascendieras",
+    "3s": "ascendiera",
+    "1p": "ascendiéramos",
+    "2p": "ascendierais",
+    "3p": "ascendieran"
+  },
+  "PImpC": {
+    "1s": "ascendiese",
+    "2s": "ascendieses",
+    "3s": "ascendiese",
+    "1p": "ascendiésemos",
+    "2p": "ascendieseis",
+    "3p": "ascendiesen"
+  },
+  "FutSC": {
+    "1s": "ascendiere",
+    "2s": "ascendieres",
+    "3s": "ascendiere",
+    "1p": "ascendiéremos",
+    "2p": "ascendiereis",
+    "3p": "ascendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asciende",
+    "3s": "ascienda",
+    "1p": "ascendamos",
+    "2p": "ascended",
+    "3p": "asciendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asciendas",
+    "3s": "no ascienda",
+    "1p": "no ascendamos",
+    "2p": "no ascendáis",
+    "3p": "no asciendan"
+  },
+  "Part-ter": {
+    "": "ascendido"
+  },
+  "Part-ser": {
+    "ms": "ascendido",
+    "fs": "ascendida",
+    "mp": "ascendidos",
+    "fp": "ascendidas"
+  }
+}

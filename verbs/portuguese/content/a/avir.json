@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "avir"
+  },
+  "InfP": {
+    "1s": "avir",
+    "2s": "avires",
+    "3s": "avir",
+    "1p": "avirmos",
+    "2p": "avirdes",
+    "3p": "avirem"
+  },
+  "Ger": {
+    "": "avindo"
+  },
+  "PresI": {
+    "1s": "avenho",
+    "2s": "avéns",
+    "3s": "avém",
+    "1p": "avimos",
+    "2p": "avindes",
+    "3p": "avêm"
+  },
+  "PImpI": {
+    "1s": "avinha",
+    "2s": "avinhas",
+    "3s": "avinha",
+    "1p": "avínhamos",
+    "2p": "avínheis",
+    "3p": "avinham"
+  },
+  "PPSI": {
+    "1s": "avim",
+    "2s": "avieste",
+    "3s": "aveio",
+    "1p": "aviemos",
+    "2p": "aviestes",
+    "3p": "avieram"
+  },
+  "PMQPSI": {
+    "1s": "aviera",
+    "2s": "avieras",
+    "3s": "aviera",
+    "1p": "aviéramos",
+    "2p": "aviéreis",
+    "3p": "avieram"
+  },
+  "FutSI": {
+    "1s": "avirei",
+    "2s": "avirás",
+    "3s": "avirá",
+    "1p": "aviremos",
+    "2p": "avireis",
+    "3p": "avirão"
+  },
+  "CondS": {
+    "1s": "aviria",
+    "2s": "avirias",
+    "3s": "aviria",
+    "1p": "aviríamos",
+    "2p": "aviríeis",
+    "3p": "aviriam"
+  },
+  "PresC": {
+    "1s": "avenha",
+    "2s": "avenhas",
+    "3s": "avenha",
+    "1p": "avenhamos",
+    "2p": "avenhais",
+    "3p": "avenham"
+  },
+  "PImpC": {
+    "1s": "aviesse",
+    "2s": "aviesses",
+    "3s": "aviesse",
+    "1p": "aviéssemos",
+    "2p": "aviésseis",
+    "3p": "aviessem"
+  },
+  "FutSC": {
+    "1s": "avier",
+    "2s": "avieres",
+    "3s": "avier",
+    "1p": "aviermos",
+    "2p": "avierdes",
+    "3p": "avierem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "avém",
+    "3s": "avenha",
+    "1p": "avenhamos",
+    "2p": "avinde",
+    "3p": "avenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não avenhas",
+    "3s": "não avenha",
+    "1p": "não avenhamos",
+    "2p": "não avenhais",
+    "3p": "não avenham"
+  },
+  "Part-ter": {
+    "": "avindo"
+  },
+  "Part-ser": {
+    "ms": "avindo",
+    "fs": "avinda",
+    "mp": "avindos",
+    "fp": "avindas"
+  }
+}

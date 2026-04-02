@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cotejar"
+  },
+  "InfP": {
+    "1s": "cotejar",
+    "2s": "cotejares",
+    "3s": "cotejar",
+    "1p": "cotejarmos",
+    "2p": "cotejardes",
+    "3p": "cotejarem"
+  },
+  "Ger": {
+    "": "cotejando"
+  },
+  "PresI": {
+    "1s": "cotejo",
+    "2s": "cotejas",
+    "3s": "coteja",
+    "1p": "cotejamos",
+    "2p": "cotejais",
+    "3p": "cotejam"
+  },
+  "PImpI": {
+    "1s": "cotejava",
+    "2s": "cotejavas",
+    "3s": "cotejava",
+    "1p": "cotejávamos",
+    "2p": "cotejáveis",
+    "3p": "cotejavam"
+  },
+  "PPSI": {
+    "1s": "cotejei",
+    "2s": "cotejaste",
+    "3s": "cotejou",
+    "1p": "cotejámos",
+    "2p": "cotejastes",
+    "3p": "cotejaram"
+  },
+  "PMQPSI": {
+    "1s": "cotejara",
+    "2s": "cotejaras",
+    "3s": "cotejara",
+    "1p": "cotejáramos",
+    "2p": "cotejáreis",
+    "3p": "cotejaram"
+  },
+  "FutSI": {
+    "1s": "cotejarei",
+    "2s": "cotejarás",
+    "3s": "cotejará",
+    "1p": "cotejaremos",
+    "2p": "cotejareis",
+    "3p": "cotejarão"
+  },
+  "CondS": {
+    "1s": "cotejaria",
+    "2s": "cotejarias",
+    "3s": "cotejaria",
+    "1p": "cotejaríamos",
+    "2p": "cotejaríeis",
+    "3p": "cotejariam"
+  },
+  "PresC": {
+    "1s": "coteje",
+    "2s": "cotejes",
+    "3s": "coteje",
+    "1p": "cotejemos",
+    "2p": "cotejeis",
+    "3p": "cotejem"
+  },
+  "PImpC": {
+    "1s": "cotejasse",
+    "2s": "cotejasses",
+    "3s": "cotejasse",
+    "1p": "cotejássemos",
+    "2p": "cotejásseis",
+    "3p": "cotejassem"
+  },
+  "FutSC": {
+    "1s": "cotejar",
+    "2s": "cotejares",
+    "3s": "cotejar",
+    "1p": "cotejarmos",
+    "2p": "cotejardes",
+    "3p": "cotejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coteja",
+    "3s": "coteje",
+    "1p": "cotejemos",
+    "2p": "cotejai",
+    "3p": "cotejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cotejes",
+    "3s": "não coteje",
+    "1p": "não cotejemos",
+    "2p": "não cotejeis",
+    "3p": "não cotejem"
+  },
+  "Part-ter": {
+    "": "cotejado"
+  },
+  "Part-ser": {
+    "ms": "cotejado",
+    "fs": "cotejada",
+    "mp": "cotejados",
+    "fp": "cotejadas"
+  }
+}

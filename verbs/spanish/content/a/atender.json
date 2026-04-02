@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atender"
+  },
+  "Ger": {
+    "": "atendiendo"
+  },
+  "PresI": {
+    "1s": "atiendo",
+    "2s": "atiendes",
+    "3s": "atiende",
+    "1p": "atendemos",
+    "2p": "atendéis",
+    "3p": "atienden"
+  },
+  "PImpI": {
+    "1s": "atendía",
+    "2s": "atendías",
+    "3s": "atendía",
+    "1p": "atendíamos",
+    "2p": "atendíais",
+    "3p": "atendían"
+  },
+  "PPSI": {
+    "1s": "atendí",
+    "2s": "atendiste",
+    "3s": "atendió",
+    "1p": "atendimos",
+    "2p": "atendisteis",
+    "3p": "atendieron"
+  },
+  "FutSI": {
+    "1s": "atenderé",
+    "2s": "atenderás",
+    "3s": "atenderá",
+    "1p": "atenderemos",
+    "2p": "atenderéis",
+    "3p": "atenderán"
+  },
+  "CondS": {
+    "1s": "atendería",
+    "2s": "atenderías",
+    "3s": "atendería",
+    "1p": "atenderíamos",
+    "2p": "atenderíais",
+    "3p": "atenderían"
+  },
+  "PresC": {
+    "1s": "atienda",
+    "2s": "atiendas",
+    "3s": "atienda",
+    "1p": "atendamos",
+    "2p": "atendáis",
+    "3p": "atiendan"
+  },
+  "PMQPSI": {
+    "1s": "atendiera",
+    "2s": "atendieras",
+    "3s": "atendiera",
+    "1p": "atendiéramos",
+    "2p": "atendierais",
+    "3p": "atendieran"
+  },
+  "PImpC": {
+    "1s": "atendiese",
+    "2s": "atendieses",
+    "3s": "atendiese",
+    "1p": "atendiésemos",
+    "2p": "atendieseis",
+    "3p": "atendiesen"
+  },
+  "FutSC": {
+    "1s": "atendiere",
+    "2s": "atendieres",
+    "3s": "atendiere",
+    "1p": "atendiéremos",
+    "2p": "atendiereis",
+    "3p": "atendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atiende",
+    "3s": "atienda",
+    "1p": "atendamos",
+    "2p": "atended",
+    "3p": "atiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atiendas",
+    "3s": "no atienda",
+    "1p": "no atendamos",
+    "2p": "no atendáis",
+    "3p": "no atiendan"
+  },
+  "Part-ter": {
+    "": "atendido"
+  },
+  "Part-ser": {
+    "ms": "atendido",
+    "fs": "atendida",
+    "mp": "atendidos",
+    "fp": "atendidas"
+  }
+}

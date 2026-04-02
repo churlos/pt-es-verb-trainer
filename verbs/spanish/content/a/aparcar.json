@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aparcar"
+  },
+  "Ger": {
+    "": "aparcando"
+  },
+  "PresI": {
+    "1s": "aparco",
+    "2s": "aparcas",
+    "3s": "aparca",
+    "1p": "aparcamos",
+    "2p": "aparcáis",
+    "3p": "aparcan"
+  },
+  "PImpI": {
+    "1s": "aparcaba",
+    "2s": "aparcabas",
+    "3s": "aparcaba",
+    "1p": "aparcábamos",
+    "2p": "aparcabais",
+    "3p": "aparcaban"
+  },
+  "PPSI": {
+    "1s": "aparqué",
+    "2s": "aparcaste",
+    "3s": "aparcó",
+    "1p": "aparcamos",
+    "2p": "aparcasteis",
+    "3p": "aparcaron"
+  },
+  "FutSI": {
+    "1s": "aparcaré",
+    "2s": "aparcarás",
+    "3s": "aparcará",
+    "1p": "aparcaremos",
+    "2p": "aparcaréis",
+    "3p": "aparcarán"
+  },
+  "CondS": {
+    "1s": "aparcaría",
+    "2s": "aparcarías",
+    "3s": "aparcaría",
+    "1p": "aparcaríamos",
+    "2p": "aparcaríais",
+    "3p": "aparcarían"
+  },
+  "PresC": {
+    "1s": "aparque",
+    "2s": "aparques",
+    "3s": "aparque",
+    "1p": "aparquemos",
+    "2p": "aparquéis",
+    "3p": "aparquen"
+  },
+  "PMQPSI": {
+    "1s": "aparcara",
+    "2s": "aparcaras",
+    "3s": "aparcara",
+    "1p": "aparcáramos",
+    "2p": "aparcarais",
+    "3p": "aparcaran"
+  },
+  "PImpC": {
+    "1s": "aparcase",
+    "2s": "aparcases",
+    "3s": "aparcase",
+    "1p": "aparcásemos",
+    "2p": "aparcaseis",
+    "3p": "aparcasen"
+  },
+  "FutSC": {
+    "1s": "aparcare",
+    "2s": "aparcares",
+    "3s": "aparcare",
+    "1p": "aparcáremos",
+    "2p": "aparcareis",
+    "3p": "aparcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aparca",
+    "3s": "aparque",
+    "1p": "aparquemos",
+    "2p": "aparcad",
+    "3p": "aparquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aparques",
+    "3s": "no aparque",
+    "1p": "no aparquemos",
+    "2p": "no aparquéis",
+    "3p": "no aparquen"
+  },
+  "Part-ter": {
+    "": "aparcado"
+  },
+  "Part-ser": {
+    "ms": "aparcado",
+    "fs": "aparcada",
+    "mp": "aparcados",
+    "fp": "aparcadas"
+  }
+}

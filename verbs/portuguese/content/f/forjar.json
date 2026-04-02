@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "forjar"
+  },
+  "InfP": {
+    "1s": "forjar",
+    "2s": "forjares",
+    "3s": "forjar",
+    "1p": "forjarmos",
+    "2p": "forjardes",
+    "3p": "forjarem"
+  },
+  "Ger": {
+    "": "forjando"
+  },
+  "PresI": {
+    "1s": "forjo",
+    "2s": "forjas",
+    "3s": "forja",
+    "1p": "forjamos",
+    "2p": "forjais",
+    "3p": "forjam"
+  },
+  "PImpI": {
+    "1s": "forjava",
+    "2s": "forjavas",
+    "3s": "forjava",
+    "1p": "forjávamos",
+    "2p": "forjáveis",
+    "3p": "forjavam"
+  },
+  "PPSI": {
+    "1s": "forjei",
+    "2s": "forjaste",
+    "3s": "forjou",
+    "1p": "forjámos",
+    "2p": "forjastes",
+    "3p": "forjaram"
+  },
+  "PMQPSI": {
+    "1s": "forjara",
+    "2s": "forjaras",
+    "3s": "forjara",
+    "1p": "forjáramos",
+    "2p": "forjáreis",
+    "3p": "forjaram"
+  },
+  "FutSI": {
+    "1s": "forjarei",
+    "2s": "forjarás",
+    "3s": "forjará",
+    "1p": "forjaremos",
+    "2p": "forjareis",
+    "3p": "forjarão"
+  },
+  "CondS": {
+    "1s": "forjaria",
+    "2s": "forjarias",
+    "3s": "forjaria",
+    "1p": "forjaríamos",
+    "2p": "forjaríeis",
+    "3p": "forjariam"
+  },
+  "PresC": {
+    "1s": "forje",
+    "2s": "forjes",
+    "3s": "forje",
+    "1p": "forjemos",
+    "2p": "forjeis",
+    "3p": "forjem"
+  },
+  "PImpC": {
+    "1s": "forjasse",
+    "2s": "forjasses",
+    "3s": "forjasse",
+    "1p": "forjássemos",
+    "2p": "forjásseis",
+    "3p": "forjassem"
+  },
+  "FutSC": {
+    "1s": "forjar",
+    "2s": "forjares",
+    "3s": "forjar",
+    "1p": "forjarmos",
+    "2p": "forjardes",
+    "3p": "forjarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "forja",
+    "3s": "forje",
+    "1p": "forjemos",
+    "2p": "forjai",
+    "3p": "forjem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não forjes",
+    "3s": "não forje",
+    "1p": "não forjemos",
+    "2p": "não forjeis",
+    "3p": "não forjem"
+  },
+  "Part-ter": {
+    "": "forjado"
+  },
+  "Part-ser": {
+    "ms": "forjado",
+    "fs": "forjada",
+    "mp": "forjados",
+    "fp": "forjadas"
+  }
+}

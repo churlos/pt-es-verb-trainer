@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "plegar"
+  },
+  "Ger": {
+    "": "plegando"
+  },
+  "PresI": {
+    "1s": "pliego",
+    "2s": "pliegas",
+    "3s": "pliega",
+    "1p": "plegamos",
+    "2p": "plegáis",
+    "3p": "pliegan"
+  },
+  "PImpI": {
+    "1s": "plegaba",
+    "2s": "plegabas",
+    "3s": "plegaba",
+    "1p": "plegábamos",
+    "2p": "plegabais",
+    "3p": "plegaban"
+  },
+  "PPSI": {
+    "1s": "plegué",
+    "2s": "plegaste",
+    "3s": "plegó",
+    "1p": "plegamos",
+    "2p": "plegasteis",
+    "3p": "plegaron"
+  },
+  "FutSI": {
+    "1s": "plegaré",
+    "2s": "plegarás",
+    "3s": "plegará",
+    "1p": "plegaremos",
+    "2p": "plegaréis",
+    "3p": "plegarán"
+  },
+  "CondS": {
+    "1s": "plegaría",
+    "2s": "plegarías",
+    "3s": "plegaría",
+    "1p": "plegaríamos",
+    "2p": "plegaríais",
+    "3p": "plegarían"
+  },
+  "PresC": {
+    "1s": "pliegue",
+    "2s": "pliegues",
+    "3s": "pliegue",
+    "1p": "pleguemos",
+    "2p": "pleguéis",
+    "3p": "plieguen"
+  },
+  "PMQPSI": {
+    "1s": "plegara",
+    "2s": "plegaras",
+    "3s": "plegara",
+    "1p": "plegáramos",
+    "2p": "plegarais",
+    "3p": "plegaran"
+  },
+  "PImpC": {
+    "1s": "plegase",
+    "2s": "plegases",
+    "3s": "plegase",
+    "1p": "plegásemos",
+    "2p": "plegaseis",
+    "3p": "plegasen"
+  },
+  "FutSC": {
+    "1s": "plegare",
+    "2s": "plegares",
+    "3s": "plegare",
+    "1p": "plegáremos",
+    "2p": "plegareis",
+    "3p": "plegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pliega",
+    "3s": "pliegue",
+    "1p": "pleguemos",
+    "2p": "plegad",
+    "3p": "plieguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pliegues",
+    "3s": "no pliegue",
+    "1p": "no pleguemos",
+    "2p": "no pleguéis",
+    "3p": "no plieguen"
+  },
+  "Part-ter": {
+    "": "plegado"
+  },
+  "Part-ser": {
+    "ms": "plegado",
+    "fs": "plegada",
+    "mp": "plegados",
+    "fp": "plegadas"
+  }
+}

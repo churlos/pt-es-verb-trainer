@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "adquirir"
+  },
+  "InfP": {
+    "1s": "adquirir",
+    "2s": "adquirires",
+    "3s": "adquirir",
+    "1p": "adquirirmos",
+    "2p": "adquirirdes",
+    "3p": "adquirirem"
+  },
+  "Ger": {
+    "": "adquirindo"
+  },
+  "PresI": {
+    "1s": "adquiro",
+    "2s": "adquires",
+    "3s": "adquire",
+    "1p": "adquirimos",
+    "2p": "adquiris",
+    "3p": "adquirem"
+  },
+  "PImpI": {
+    "1s": "adquiria",
+    "2s": "adquirias",
+    "3s": "adquiria",
+    "1p": "adquiríamos",
+    "2p": "adquiríeis",
+    "3p": "adquiriam"
+  },
+  "PPSI": {
+    "1s": "adquiri",
+    "2s": "adquiriste",
+    "3s": "adquiriu",
+    "1p": "adquirimos",
+    "2p": "adquiristes",
+    "3p": "adquiriram"
+  },
+  "PMQPSI": {
+    "1s": "adquirira",
+    "2s": "adquiriras",
+    "3s": "adquirira",
+    "1p": "adquiríramos",
+    "2p": "adquiríreis",
+    "3p": "adquiriram"
+  },
+  "FutSI": {
+    "1s": "adquirirei",
+    "2s": "adquirirás",
+    "3s": "adquirirá",
+    "1p": "adquiriremos",
+    "2p": "adquirireis",
+    "3p": "adquirirão"
+  },
+  "CondS": {
+    "1s": "adquiriria",
+    "2s": "adquiririas",
+    "3s": "adquiriria",
+    "1p": "adquiriríamos",
+    "2p": "adquiriríeis",
+    "3p": "adquiririam"
+  },
+  "PresC": {
+    "1s": "adquira",
+    "2s": "adquiras",
+    "3s": "adquira",
+    "1p": "adquiramos",
+    "2p": "adquirais",
+    "3p": "adquiram"
+  },
+  "PImpC": {
+    "1s": "adquirisse",
+    "2s": "adquirisses",
+    "3s": "adquirisse",
+    "1p": "adquiríssemos",
+    "2p": "adquirísseis",
+    "3p": "adquirissem"
+  },
+  "FutSC": {
+    "1s": "adquirir",
+    "2s": "adquirires",
+    "3s": "adquirir",
+    "1p": "adquirirmos",
+    "2p": "adquirirdes",
+    "3p": "adquirirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adquire",
+    "3s": "adquira",
+    "1p": "adquiramos",
+    "2p": "adquiri",
+    "3p": "adquiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adquiras",
+    "3s": "não adquira",
+    "1p": "não adquiramos",
+    "2p": "não adquirais",
+    "3p": "não adquiram"
+  },
+  "Part-ter": {
+    "": "adquirido"
+  },
+  "Part-ser": {
+    "ms": "adquirido",
+    "fs": "adquirida",
+    "mp": "adquiridos",
+    "fp": "adquiridas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aperrar"
+  },
+  "Ger": {
+    "": "aperrando"
+  },
+  "PresI": {
+    "1s": "aperro",
+    "2s": "aperras",
+    "3s": "aperra",
+    "1p": "aperramos",
+    "2p": "aperráis",
+    "3p": "aperran"
+  },
+  "PImpI": {
+    "1s": "aperraba",
+    "2s": "aperrabas",
+    "3s": "aperraba",
+    "1p": "aperrábamos",
+    "2p": "aperrabais",
+    "3p": "aperraban"
+  },
+  "PPSI": {
+    "1s": "aperré",
+    "2s": "aperraste",
+    "3s": "aperró",
+    "1p": "aperramos",
+    "2p": "aperrasteis",
+    "3p": "aperraron"
+  },
+  "FutSI": {
+    "1s": "aperraré",
+    "2s": "aperrarás",
+    "3s": "aperrará",
+    "1p": "aperraremos",
+    "2p": "aperraréis",
+    "3p": "aperrarán"
+  },
+  "CondS": {
+    "1s": "aperraría",
+    "2s": "aperrarías",
+    "3s": "aperraría",
+    "1p": "aperraríamos",
+    "2p": "aperraríais",
+    "3p": "aperrarían"
+  },
+  "PresC": {
+    "1s": "aperre",
+    "2s": "aperres",
+    "3s": "aperre",
+    "1p": "aperremos",
+    "2p": "aperréis",
+    "3p": "aperren"
+  },
+  "PMQPSI": {
+    "1s": "aperrara",
+    "2s": "aperraras",
+    "3s": "aperrara",
+    "1p": "aperráramos",
+    "2p": "aperrarais",
+    "3p": "aperraran"
+  },
+  "PImpC": {
+    "1s": "aperrase",
+    "2s": "aperrases",
+    "3s": "aperrase",
+    "1p": "aperrásemos",
+    "2p": "aperraseis",
+    "3p": "aperrasen"
+  },
+  "FutSC": {
+    "1s": "aperrare",
+    "2s": "aperrares",
+    "3s": "aperrare",
+    "1p": "aperráremos",
+    "2p": "aperrareis",
+    "3p": "aperraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aperra",
+    "3s": "aperre",
+    "1p": "aperremos",
+    "2p": "aperrad",
+    "3p": "aperren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aperres",
+    "3s": "no aperre",
+    "1p": "no aperremos",
+    "2p": "no aperréis",
+    "3p": "no aperren"
+  },
+  "Part-ter": {
+    "": "aperrado"
+  },
+  "Part-ser": {
+    "ms": "aperrado",
+    "fs": "aperrada",
+    "mp": "aperrados",
+    "fp": "aperradas"
+  }
+}

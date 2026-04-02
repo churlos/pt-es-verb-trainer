@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "insuflar"
+  },
+  "Ger": {
+    "": "insuflando"
+  },
+  "PresI": {
+    "1s": "insuflo",
+    "2s": "insuflas",
+    "3s": "insufla",
+    "1p": "insuflamos",
+    "2p": "insufláis",
+    "3p": "insuflan"
+  },
+  "PImpI": {
+    "1s": "insuflaba",
+    "2s": "insuflabas",
+    "3s": "insuflaba",
+    "1p": "insuflábamos",
+    "2p": "insuflabais",
+    "3p": "insuflaban"
+  },
+  "PPSI": {
+    "1s": "insuflé",
+    "2s": "insuflaste",
+    "3s": "insufló",
+    "1p": "insuflamos",
+    "2p": "insuflasteis",
+    "3p": "insuflaron"
+  },
+  "FutSI": {
+    "1s": "insuflaré",
+    "2s": "insuflarás",
+    "3s": "insuflará",
+    "1p": "insuflaremos",
+    "2p": "insuflaréis",
+    "3p": "insuflarán"
+  },
+  "CondS": {
+    "1s": "insuflaría",
+    "2s": "insuflarías",
+    "3s": "insuflaría",
+    "1p": "insuflaríamos",
+    "2p": "insuflaríais",
+    "3p": "insuflarían"
+  },
+  "PresC": {
+    "1s": "insufle",
+    "2s": "insufles",
+    "3s": "insufle",
+    "1p": "insuflemos",
+    "2p": "insufléis",
+    "3p": "insuflen"
+  },
+  "PMQPSI": {
+    "1s": "insuflara",
+    "2s": "insuflaras",
+    "3s": "insuflara",
+    "1p": "insufláramos",
+    "2p": "insuflarais",
+    "3p": "insuflaran"
+  },
+  "PImpC": {
+    "1s": "insuflase",
+    "2s": "insuflases",
+    "3s": "insuflase",
+    "1p": "insuflásemos",
+    "2p": "insuflaseis",
+    "3p": "insuflasen"
+  },
+  "FutSC": {
+    "1s": "insuflare",
+    "2s": "insuflares",
+    "3s": "insuflare",
+    "1p": "insufláremos",
+    "2p": "insuflareis",
+    "3p": "insuflaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "insufla",
+    "3s": "insufle",
+    "1p": "insuflemos",
+    "2p": "insuflad",
+    "3p": "insuflen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no insufles",
+    "3s": "no insufle",
+    "1p": "no insuflemos",
+    "2p": "no insufléis",
+    "3p": "no insuflen"
+  },
+  "Part-ter": {
+    "": "insuflado"
+  },
+  "Part-ser": {
+    "ms": "insuflado",
+    "fs": "insuflada",
+    "mp": "insuflados",
+    "fp": "insufladas"
+  }
+}

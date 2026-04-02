@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "custar"
+  },
+  "InfP": {
+    "1s": "custar",
+    "2s": "custares",
+    "3s": "custar",
+    "1p": "custarmos",
+    "2p": "custardes",
+    "3p": "custarem"
+  },
+  "Ger": {
+    "": "custando"
+  },
+  "PresI": {
+    "1s": "custo",
+    "2s": "custas",
+    "3s": "custa",
+    "1p": "custamos",
+    "2p": "custais",
+    "3p": "custam"
+  },
+  "PImpI": {
+    "1s": "custava",
+    "2s": "custavas",
+    "3s": "custava",
+    "1p": "custávamos",
+    "2p": "custáveis",
+    "3p": "custavam"
+  },
+  "PPSI": {
+    "1s": "custei",
+    "2s": "custaste",
+    "3s": "custou",
+    "1p": "custámos",
+    "2p": "custastes",
+    "3p": "custaram"
+  },
+  "PMQPSI": {
+    "1s": "custara",
+    "2s": "custaras",
+    "3s": "custara",
+    "1p": "custáramos",
+    "2p": "custáreis",
+    "3p": "custaram"
+  },
+  "FutSI": {
+    "1s": "custarei",
+    "2s": "custarás",
+    "3s": "custará",
+    "1p": "custaremos",
+    "2p": "custareis",
+    "3p": "custarão"
+  },
+  "CondS": {
+    "1s": "custaria",
+    "2s": "custarias",
+    "3s": "custaria",
+    "1p": "custaríamos",
+    "2p": "custaríeis",
+    "3p": "custariam"
+  },
+  "PresC": {
+    "1s": "custe",
+    "2s": "custes",
+    "3s": "custe",
+    "1p": "custemos",
+    "2p": "custeis",
+    "3p": "custem"
+  },
+  "PImpC": {
+    "1s": "custasse",
+    "2s": "custasses",
+    "3s": "custasse",
+    "1p": "custássemos",
+    "2p": "custásseis",
+    "3p": "custassem"
+  },
+  "FutSC": {
+    "1s": "custar",
+    "2s": "custares",
+    "3s": "custar",
+    "1p": "custarmos",
+    "2p": "custardes",
+    "3p": "custarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "custa",
+    "3s": "custe",
+    "1p": "custemos",
+    "2p": "custai",
+    "3p": "custem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não custes",
+    "3s": "não custe",
+    "1p": "não custemos",
+    "2p": "não custeis",
+    "3p": "não custem"
+  },
+  "Part-ter": {
+    "": "custado"
+  },
+  "Part-ser": {
+    "ms": "custado",
+    "fs": "custada",
+    "mp": "custados",
+    "fp": "custadas"
+  }
+}

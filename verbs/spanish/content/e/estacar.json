@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estacar"
+  },
+  "Ger": {
+    "": "estacando"
+  },
+  "PresI": {
+    "1s": "estaco",
+    "2s": "estacas",
+    "3s": "estaca",
+    "1p": "estacamos",
+    "2p": "estacáis",
+    "3p": "estacan"
+  },
+  "PImpI": {
+    "1s": "estacaba",
+    "2s": "estacabas",
+    "3s": "estacaba",
+    "1p": "estacábamos",
+    "2p": "estacabais",
+    "3p": "estacaban"
+  },
+  "PPSI": {
+    "1s": "estaqué",
+    "2s": "estacaste",
+    "3s": "estacó",
+    "1p": "estacamos",
+    "2p": "estacasteis",
+    "3p": "estacaron"
+  },
+  "FutSI": {
+    "1s": "estacaré",
+    "2s": "estacarás",
+    "3s": "estacará",
+    "1p": "estacaremos",
+    "2p": "estacaréis",
+    "3p": "estacarán"
+  },
+  "CondS": {
+    "1s": "estacaría",
+    "2s": "estacarías",
+    "3s": "estacaría",
+    "1p": "estacaríamos",
+    "2p": "estacaríais",
+    "3p": "estacarían"
+  },
+  "PresC": {
+    "1s": "estaque",
+    "2s": "estaques",
+    "3s": "estaque",
+    "1p": "estaquemos",
+    "2p": "estaquéis",
+    "3p": "estaquen"
+  },
+  "PMQPSI": {
+    "1s": "estacara",
+    "2s": "estacaras",
+    "3s": "estacara",
+    "1p": "estacáramos",
+    "2p": "estacarais",
+    "3p": "estacaran"
+  },
+  "PImpC": {
+    "1s": "estacase",
+    "2s": "estacases",
+    "3s": "estacase",
+    "1p": "estacásemos",
+    "2p": "estacaseis",
+    "3p": "estacasen"
+  },
+  "FutSC": {
+    "1s": "estacare",
+    "2s": "estacares",
+    "3s": "estacare",
+    "1p": "estacáremos",
+    "2p": "estacareis",
+    "3p": "estacaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estaca",
+    "3s": "estaque",
+    "1p": "estaquemos",
+    "2p": "estacad",
+    "3p": "estaquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estaques",
+    "3s": "no estaque",
+    "1p": "no estaquemos",
+    "2p": "no estaquéis",
+    "3p": "no estaquen"
+  },
+  "Part-ter": {
+    "": "estacado"
+  },
+  "Part-ser": {
+    "ms": "estacado",
+    "fs": "estacada",
+    "mp": "estacados",
+    "fp": "estacadas"
+  }
+}

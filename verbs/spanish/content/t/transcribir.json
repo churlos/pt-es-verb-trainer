@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transcribir"
+  },
+  "Ger": {
+    "": "transcribiendo"
+  },
+  "PresI": {
+    "1s": "transcribo",
+    "2s": "transcribes",
+    "3s": "transcribe",
+    "1p": "transcribimos",
+    "2p": "transcribís",
+    "3p": "transcriben"
+  },
+  "PImpI": {
+    "1s": "transcribía",
+    "2s": "transcribías",
+    "3s": "transcribía",
+    "1p": "transcribíamos",
+    "2p": "transcribíais",
+    "3p": "transcribían"
+  },
+  "PPSI": {
+    "1s": "transcribí",
+    "2s": "transcribiste",
+    "3s": "transcribió",
+    "1p": "transcribimos",
+    "2p": "transcribisteis",
+    "3p": "transcribieron"
+  },
+  "FutSI": {
+    "1s": "transcribiré",
+    "2s": "transcribirás",
+    "3s": "transcribirá",
+    "1p": "transcribiremos",
+    "2p": "transcribiréis",
+    "3p": "transcribirán"
+  },
+  "CondS": {
+    "1s": "transcribiría",
+    "2s": "transcribirías",
+    "3s": "transcribiría",
+    "1p": "transcribiríamos",
+    "2p": "transcribiríais",
+    "3p": "transcribirían"
+  },
+  "PresC": {
+    "1s": "transcriba",
+    "2s": "transcribas",
+    "3s": "transcriba",
+    "1p": "transcribamos",
+    "2p": "transcribáis",
+    "3p": "transcriban"
+  },
+  "PMQPSI": {
+    "1s": "transcribiera",
+    "2s": "transcribieras",
+    "3s": "transcribiera",
+    "1p": "transcribiéramos",
+    "2p": "transcribierais",
+    "3p": "transcribieran"
+  },
+  "PImpC": {
+    "1s": "transcribiese",
+    "2s": "transcribieses",
+    "3s": "transcribiese",
+    "1p": "transcribiésemos",
+    "2p": "transcribieseis",
+    "3p": "transcribiesen"
+  },
+  "FutSC": {
+    "1s": "transcribiere",
+    "2s": "transcribieres",
+    "3s": "transcribiere",
+    "1p": "transcribiéremos",
+    "2p": "transcribiereis",
+    "3p": "transcribieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transcribe",
+    "3s": "transcriba",
+    "1p": "transcribamos",
+    "2p": "transcribid",
+    "3p": "transcriban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transcribas",
+    "3s": "no transcriba",
+    "1p": "no transcribamos",
+    "2p": "no transcribáis",
+    "3p": "no transcriban"
+  },
+  "Part-ter": {
+    "": "transcrito, transcripto"
+  },
+  "Part-ser": {
+    "ms": "transcrito, transcripto",
+    "fs": "transcrita, transcripta",
+    "mp": "transcritos, transcriptos",
+    "fp": "transcritas, transcriptas"
+  }
+}

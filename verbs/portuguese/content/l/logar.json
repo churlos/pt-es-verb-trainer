@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "logar"
+  },
+  "InfP": {
+    "1s": "logar",
+    "2s": "logares",
+    "3s": "logar",
+    "1p": "logarmos",
+    "2p": "logardes",
+    "3p": "logarem"
+  },
+  "Ger": {
+    "": "logando"
+  },
+  "PresI": {
+    "1s": "logo",
+    "2s": "logas",
+    "3s": "loga",
+    "1p": "logamos",
+    "2p": "logais",
+    "3p": "logam"
+  },
+  "PImpI": {
+    "1s": "logava",
+    "2s": "logavas",
+    "3s": "logava",
+    "1p": "logávamos",
+    "2p": "logáveis",
+    "3p": "logavam"
+  },
+  "PPSI": {
+    "1s": "loguei",
+    "2s": "logaste",
+    "3s": "logou",
+    "1p": "logámos",
+    "2p": "logastes",
+    "3p": "logaram"
+  },
+  "PMQPSI": {
+    "1s": "logara",
+    "2s": "logaras",
+    "3s": "logara",
+    "1p": "logáramos",
+    "2p": "logáreis",
+    "3p": "logaram"
+  },
+  "FutSI": {
+    "1s": "logarei",
+    "2s": "logarás",
+    "3s": "logará",
+    "1p": "logaremos",
+    "2p": "logareis",
+    "3p": "logarão"
+  },
+  "CondS": {
+    "1s": "logaria",
+    "2s": "logarias",
+    "3s": "logaria",
+    "1p": "logaríamos",
+    "2p": "logaríeis",
+    "3p": "logariam"
+  },
+  "PresC": {
+    "1s": "logue",
+    "2s": "logues",
+    "3s": "logue",
+    "1p": "loguemos",
+    "2p": "logueis",
+    "3p": "loguem"
+  },
+  "PImpC": {
+    "1s": "logasse",
+    "2s": "logasses",
+    "3s": "logasse",
+    "1p": "logássemos",
+    "2p": "logásseis",
+    "3p": "logassem"
+  },
+  "FutSC": {
+    "1s": "logar",
+    "2s": "logares",
+    "3s": "logar",
+    "1p": "logarmos",
+    "2p": "logardes",
+    "3p": "logarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "loga",
+    "3s": "logue",
+    "1p": "loguemos",
+    "2p": "logai",
+    "3p": "loguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não logues",
+    "3s": "não logue",
+    "1p": "não loguemos",
+    "2p": "não logueis",
+    "3p": "não loguem"
+  },
+  "Part-ter": {
+    "": "logado"
+  },
+  "Part-ser": {
+    "ms": "logado",
+    "fs": "logada",
+    "mp": "logados",
+    "fp": "logadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "expulsar"
+  },
+  "Ger": {
+    "": "expulsando"
+  },
+  "PresI": {
+    "1s": "expulso",
+    "2s": "expulsas",
+    "3s": "expulsa",
+    "1p": "expulsamos",
+    "2p": "expulsáis",
+    "3p": "expulsan"
+  },
+  "PImpI": {
+    "1s": "expulsaba",
+    "2s": "expulsabas",
+    "3s": "expulsaba",
+    "1p": "expulsábamos",
+    "2p": "expulsabais",
+    "3p": "expulsaban"
+  },
+  "PPSI": {
+    "1s": "expulsé",
+    "2s": "expulsaste",
+    "3s": "expulsó",
+    "1p": "expulsamos",
+    "2p": "expulsasteis",
+    "3p": "expulsaron"
+  },
+  "FutSI": {
+    "1s": "expulsaré",
+    "2s": "expulsarás",
+    "3s": "expulsará",
+    "1p": "expulsaremos",
+    "2p": "expulsaréis",
+    "3p": "expulsarán"
+  },
+  "CondS": {
+    "1s": "expulsaría",
+    "2s": "expulsarías",
+    "3s": "expulsaría",
+    "1p": "expulsaríamos",
+    "2p": "expulsaríais",
+    "3p": "expulsarían"
+  },
+  "PresC": {
+    "1s": "expulse",
+    "2s": "expulses",
+    "3s": "expulse",
+    "1p": "expulsemos",
+    "2p": "expulséis",
+    "3p": "expulsen"
+  },
+  "PMQPSI": {
+    "1s": "expulsara",
+    "2s": "expulsaras",
+    "3s": "expulsara",
+    "1p": "expulsáramos",
+    "2p": "expulsarais",
+    "3p": "expulsaran"
+  },
+  "PImpC": {
+    "1s": "expulsase",
+    "2s": "expulsases",
+    "3s": "expulsase",
+    "1p": "expulsásemos",
+    "2p": "expulsaseis",
+    "3p": "expulsasen"
+  },
+  "FutSC": {
+    "1s": "expulsare",
+    "2s": "expulsares",
+    "3s": "expulsare",
+    "1p": "expulsáremos",
+    "2p": "expulsareis",
+    "3p": "expulsaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expulsa",
+    "3s": "expulse",
+    "1p": "expulsemos",
+    "2p": "expulsad",
+    "3p": "expulsen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no expulses",
+    "3s": "no expulse",
+    "1p": "no expulsemos",
+    "2p": "no expulséis",
+    "3p": "no expulsen"
+  },
+  "Part-ter": {
+    "": "expulsado"
+  },
+  "Part-ser": {
+    "ms": "expulsado",
+    "fs": "expulsada",
+    "mp": "expulsados",
+    "fp": "expulsadas"
+  }
+}

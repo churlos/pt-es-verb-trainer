@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "marchar"
+  },
+  "InfP": {
+    "1s": "marchar",
+    "2s": "marchares",
+    "3s": "marchar",
+    "1p": "marcharmos",
+    "2p": "marchardes",
+    "3p": "marcharem"
+  },
+  "Ger": {
+    "": "marchando"
+  },
+  "PresI": {
+    "1s": "marcho",
+    "2s": "marchas",
+    "3s": "marcha",
+    "1p": "marchamos",
+    "2p": "marchais",
+    "3p": "marcham"
+  },
+  "PImpI": {
+    "1s": "marchava",
+    "2s": "marchavas",
+    "3s": "marchava",
+    "1p": "marchávamos",
+    "2p": "marcháveis",
+    "3p": "marchavam"
+  },
+  "PPSI": {
+    "1s": "marchei",
+    "2s": "marchaste",
+    "3s": "marchou",
+    "1p": "marchámos",
+    "2p": "marchastes",
+    "3p": "marcharam"
+  },
+  "PMQPSI": {
+    "1s": "marchara",
+    "2s": "marcharas",
+    "3s": "marchara",
+    "1p": "marcháramos",
+    "2p": "marcháreis",
+    "3p": "marcharam"
+  },
+  "FutSI": {
+    "1s": "marcharei",
+    "2s": "marcharás",
+    "3s": "marchará",
+    "1p": "marcharemos",
+    "2p": "marchareis",
+    "3p": "marcharão"
+  },
+  "CondS": {
+    "1s": "marcharia",
+    "2s": "marcharias",
+    "3s": "marcharia",
+    "1p": "marcharíamos",
+    "2p": "marcharíeis",
+    "3p": "marchariam"
+  },
+  "PresC": {
+    "1s": "marche",
+    "2s": "marches",
+    "3s": "marche",
+    "1p": "marchemos",
+    "2p": "marcheis",
+    "3p": "marchem"
+  },
+  "PImpC": {
+    "1s": "marchasse",
+    "2s": "marchasses",
+    "3s": "marchasse",
+    "1p": "marchássemos",
+    "2p": "marchásseis",
+    "3p": "marchassem"
+  },
+  "FutSC": {
+    "1s": "marchar",
+    "2s": "marchares",
+    "3s": "marchar",
+    "1p": "marcharmos",
+    "2p": "marchardes",
+    "3p": "marcharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "marcha",
+    "3s": "marche",
+    "1p": "marchemos",
+    "2p": "marchai",
+    "3p": "marchem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não marches",
+    "3s": "não marche",
+    "1p": "não marchemos",
+    "2p": "não marcheis",
+    "3p": "não marchem"
+  },
+  "Part-ter": {
+    "": "marchado"
+  },
+  "Part-ser": {
+    "ms": "marchado",
+    "fs": "marchada",
+    "mp": "marchados",
+    "fp": "marchadas"
+  }
+}

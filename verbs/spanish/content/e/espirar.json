@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "espirar"
+  },
+  "Ger": {
+    "": "espirando"
+  },
+  "PresI": {
+    "1s": "espiro",
+    "2s": "espiras",
+    "3s": "espira",
+    "1p": "espiramos",
+    "2p": "espiráis",
+    "3p": "espiran"
+  },
+  "PImpI": {
+    "1s": "espiraba",
+    "2s": "espirabas",
+    "3s": "espiraba",
+    "1p": "espirábamos",
+    "2p": "espirabais",
+    "3p": "espiraban"
+  },
+  "PPSI": {
+    "1s": "espiré",
+    "2s": "espiraste",
+    "3s": "espiró",
+    "1p": "espiramos",
+    "2p": "espirasteis",
+    "3p": "espiraron"
+  },
+  "FutSI": {
+    "1s": "espiraré",
+    "2s": "espirarás",
+    "3s": "espirará",
+    "1p": "espiraremos",
+    "2p": "espiraréis",
+    "3p": "espirarán"
+  },
+  "CondS": {
+    "1s": "espiraría",
+    "2s": "espirarías",
+    "3s": "espiraría",
+    "1p": "espiraríamos",
+    "2p": "espiraríais",
+    "3p": "espirarían"
+  },
+  "PresC": {
+    "1s": "espire",
+    "2s": "espires",
+    "3s": "espire",
+    "1p": "espiremos",
+    "2p": "espiréis",
+    "3p": "espiren"
+  },
+  "PMQPSI": {
+    "1s": "espirara",
+    "2s": "espiraras",
+    "3s": "espirara",
+    "1p": "espiráramos",
+    "2p": "espirarais",
+    "3p": "espiraran"
+  },
+  "PImpC": {
+    "1s": "espirase",
+    "2s": "espirases",
+    "3s": "espirase",
+    "1p": "espirásemos",
+    "2p": "espiraseis",
+    "3p": "espirasen"
+  },
+  "FutSC": {
+    "1s": "espirare",
+    "2s": "espirares",
+    "3s": "espirare",
+    "1p": "espiráremos",
+    "2p": "espirareis",
+    "3p": "espiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espira",
+    "3s": "espire",
+    "1p": "espiremos",
+    "2p": "espirad",
+    "3p": "espiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no espires",
+    "3s": "no espire",
+    "1p": "no espiremos",
+    "2p": "no espiréis",
+    "3p": "no espiren"
+  },
+  "Part-ter": {
+    "": "espirado"
+  },
+  "Part-ser": {
+    "ms": "espirado",
+    "fs": "espirada",
+    "mp": "espirados",
+    "fp": "espiradas"
+  }
+}

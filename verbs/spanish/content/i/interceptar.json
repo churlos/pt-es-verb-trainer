@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "interceptar"
+  },
+  "Ger": {
+    "": "interceptando"
+  },
+  "PresI": {
+    "1s": "intercepto",
+    "2s": "interceptas",
+    "3s": "intercepta",
+    "1p": "interceptamos",
+    "2p": "interceptáis",
+    "3p": "interceptan"
+  },
+  "PImpI": {
+    "1s": "interceptaba",
+    "2s": "interceptabas",
+    "3s": "interceptaba",
+    "1p": "interceptábamos",
+    "2p": "interceptabais",
+    "3p": "interceptaban"
+  },
+  "PPSI": {
+    "1s": "intercepté",
+    "2s": "interceptaste",
+    "3s": "interceptó",
+    "1p": "interceptamos",
+    "2p": "interceptasteis",
+    "3p": "interceptaron"
+  },
+  "FutSI": {
+    "1s": "interceptaré",
+    "2s": "interceptarás",
+    "3s": "interceptará",
+    "1p": "interceptaremos",
+    "2p": "interceptaréis",
+    "3p": "interceptarán"
+  },
+  "CondS": {
+    "1s": "interceptaría",
+    "2s": "interceptarías",
+    "3s": "interceptaría",
+    "1p": "interceptaríamos",
+    "2p": "interceptaríais",
+    "3p": "interceptarían"
+  },
+  "PresC": {
+    "1s": "intercepte",
+    "2s": "interceptes",
+    "3s": "intercepte",
+    "1p": "interceptemos",
+    "2p": "interceptéis",
+    "3p": "intercepten"
+  },
+  "PMQPSI": {
+    "1s": "interceptara",
+    "2s": "interceptaras",
+    "3s": "interceptara",
+    "1p": "interceptáramos",
+    "2p": "interceptarais",
+    "3p": "interceptaran"
+  },
+  "PImpC": {
+    "1s": "interceptase",
+    "2s": "interceptases",
+    "3s": "interceptase",
+    "1p": "interceptásemos",
+    "2p": "interceptaseis",
+    "3p": "interceptasen"
+  },
+  "FutSC": {
+    "1s": "interceptare",
+    "2s": "interceptares",
+    "3s": "interceptare",
+    "1p": "interceptáremos",
+    "2p": "interceptareis",
+    "3p": "interceptaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intercepta",
+    "3s": "intercepte",
+    "1p": "interceptemos",
+    "2p": "interceptad",
+    "3p": "intercepten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no interceptes",
+    "3s": "no intercepte",
+    "1p": "no interceptemos",
+    "2p": "no interceptéis",
+    "3p": "no intercepten"
+  },
+  "Part-ter": {
+    "": "interceptado"
+  },
+  "Part-ser": {
+    "ms": "interceptado",
+    "fs": "interceptada",
+    "mp": "interceptados",
+    "fp": "interceptadas"
+  }
+}

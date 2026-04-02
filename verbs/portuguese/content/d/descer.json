@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "descer"
+  },
+  "InfP": {
+    "1s": "descer",
+    "2s": "desceres",
+    "3s": "descer",
+    "1p": "descermos",
+    "2p": "descerdes",
+    "3p": "descerem"
+  },
+  "Ger": {
+    "": "descendo"
+  },
+  "PresI": {
+    "1s": "desço",
+    "2s": "desces",
+    "3s": "desce",
+    "1p": "descemos",
+    "2p": "desceis",
+    "3p": "descem"
+  },
+  "PImpI": {
+    "1s": "descia",
+    "2s": "descias",
+    "3s": "descia",
+    "1p": "descíamos",
+    "2p": "descíeis",
+    "3p": "desciam"
+  },
+  "PPSI": {
+    "1s": "desci",
+    "2s": "desceste",
+    "3s": "desceu",
+    "1p": "descemos",
+    "2p": "descestes",
+    "3p": "desceram"
+  },
+  "PMQPSI": {
+    "1s": "descera",
+    "2s": "desceras",
+    "3s": "descera",
+    "1p": "descêramos",
+    "2p": "descêreis",
+    "3p": "desceram"
+  },
+  "FutSI": {
+    "1s": "descerei",
+    "2s": "descerás",
+    "3s": "descerá",
+    "1p": "desceremos",
+    "2p": "descereis",
+    "3p": "descerão"
+  },
+  "CondS": {
+    "1s": "desceria",
+    "2s": "descerias",
+    "3s": "desceria",
+    "1p": "desceríamos",
+    "2p": "desceríeis",
+    "3p": "desceriam"
+  },
+  "PresC": {
+    "1s": "desça",
+    "2s": "desças",
+    "3s": "desça",
+    "1p": "desçamos",
+    "2p": "desçais",
+    "3p": "desçam"
+  },
+  "PImpC": {
+    "1s": "descesse",
+    "2s": "descesses",
+    "3s": "descesse",
+    "1p": "descêssemos",
+    "2p": "descêsseis",
+    "3p": "descessem"
+  },
+  "FutSC": {
+    "1s": "descer",
+    "2s": "desceres",
+    "3s": "descer",
+    "1p": "descermos",
+    "2p": "descerdes",
+    "3p": "descerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desce",
+    "3s": "desça",
+    "1p": "desçamos",
+    "2p": "descei",
+    "3p": "desçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desças",
+    "3s": "não desça",
+    "1p": "não desçamos",
+    "2p": "não desçais",
+    "3p": "não desçam"
+  },
+  "Part-ter": {
+    "": "descido"
+  },
+  "Part-ser": {
+    "ms": "descido",
+    "fs": "descida",
+    "mp": "descidos",
+    "fp": "descidas"
+  }
+}

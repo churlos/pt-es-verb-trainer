@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atribuir"
+  },
+  "InfP": {
+    "1s": "atribuir",
+    "2s": "atribuíres",
+    "3s": "atribuir",
+    "1p": "atribuirmos",
+    "2p": "atribuirdes",
+    "3p": "atribuírem"
+  },
+  "Ger": {
+    "": "atribuindo"
+  },
+  "PresI": {
+    "1s": "atribuo",
+    "2s": "atribuis",
+    "3s": "atribui",
+    "1p": "atribuímos",
+    "2p": "atribuís",
+    "3p": "atribuem"
+  },
+  "PImpI": {
+    "1s": "atribuía",
+    "2s": "atribuías",
+    "3s": "atribuía",
+    "1p": "atribuíamos",
+    "2p": "atribuíeis",
+    "3p": "atribuíam"
+  },
+  "PPSI": {
+    "1s": "atribuí",
+    "2s": "atribuíste",
+    "3s": "atribuiu",
+    "1p": "atribuímos",
+    "2p": "atribuístes",
+    "3p": "atribuíram"
+  },
+  "PMQPSI": {
+    "1s": "atribuíra",
+    "2s": "atribuíras",
+    "3s": "atribuíra",
+    "1p": "atribuíramos",
+    "2p": "atribuíreis",
+    "3p": "atribuíram"
+  },
+  "FutSI": {
+    "1s": "atribuirei",
+    "2s": "atribuirás",
+    "3s": "atribuirá",
+    "1p": "atribuiremos",
+    "2p": "atribuireis",
+    "3p": "atribuirão"
+  },
+  "CondS": {
+    "1s": "atribuiria",
+    "2s": "atribuirias",
+    "3s": "atribuiria",
+    "1p": "atribuiríamos",
+    "2p": "atribuiríeis",
+    "3p": "atribuiriam"
+  },
+  "PresC": {
+    "1s": "atribua",
+    "2s": "atribuas",
+    "3s": "atribua",
+    "1p": "atribuamos",
+    "2p": "atribuais",
+    "3p": "atribuam"
+  },
+  "PImpC": {
+    "1s": "atribuísse",
+    "2s": "atribuísses",
+    "3s": "atribuísse",
+    "1p": "atribuíssemos",
+    "2p": "atribuísseis",
+    "3p": "atribuíssem"
+  },
+  "FutSC": {
+    "1s": "atribuir",
+    "2s": "atribuíres",
+    "3s": "atribuir",
+    "1p": "atribuirmos",
+    "2p": "atribuirdes",
+    "3p": "atribuírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atribui",
+    "3s": "atribua",
+    "1p": "atribuamos",
+    "2p": "atribuí",
+    "3p": "atribuam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atribuas",
+    "3s": "não atribua",
+    "1p": "não atribuamos",
+    "2p": "não atribuais",
+    "3p": "não atribuam"
+  },
+  "Part-ter": {
+    "": "atribuído"
+  },
+  "Part-ser": {
+    "ms": "atribuído",
+    "fs": "atribuída",
+    "mp": "atribuídos",
+    "fp": "atribuídas"
+  }
+}

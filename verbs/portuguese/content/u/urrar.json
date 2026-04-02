@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "urrar"
+  },
+  "InfP": {
+    "1s": "urrar",
+    "2s": "urrares",
+    "3s": "urrar",
+    "1p": "urrarmos",
+    "2p": "urrardes",
+    "3p": "urrarem"
+  },
+  "Ger": {
+    "": "urrando"
+  },
+  "PresI": {
+    "1s": "urro",
+    "2s": "urras",
+    "3s": "urra",
+    "1p": "urramos",
+    "2p": "urrais",
+    "3p": "urram"
+  },
+  "PImpI": {
+    "1s": "urrava",
+    "2s": "urravas",
+    "3s": "urrava",
+    "1p": "urrávamos",
+    "2p": "urráveis",
+    "3p": "urravam"
+  },
+  "PPSI": {
+    "1s": "urrei",
+    "2s": "urraste",
+    "3s": "urrou",
+    "1p": "urrámos",
+    "2p": "urrastes",
+    "3p": "urraram"
+  },
+  "PMQPSI": {
+    "1s": "urrara",
+    "2s": "urraras",
+    "3s": "urrara",
+    "1p": "urráramos",
+    "2p": "urráreis",
+    "3p": "urraram"
+  },
+  "FutSI": {
+    "1s": "urrarei",
+    "2s": "urrarás",
+    "3s": "urrará",
+    "1p": "urraremos",
+    "2p": "urrareis",
+    "3p": "urrarão"
+  },
+  "CondS": {
+    "1s": "urraria",
+    "2s": "urrarias",
+    "3s": "urraria",
+    "1p": "urraríamos",
+    "2p": "urraríeis",
+    "3p": "urrariam"
+  },
+  "PresC": {
+    "1s": "urre",
+    "2s": "urres",
+    "3s": "urre",
+    "1p": "urremos",
+    "2p": "urreis",
+    "3p": "urrem"
+  },
+  "PImpC": {
+    "1s": "urrasse",
+    "2s": "urrasses",
+    "3s": "urrasse",
+    "1p": "urrássemos",
+    "2p": "urrásseis",
+    "3p": "urrassem"
+  },
+  "FutSC": {
+    "1s": "urrar",
+    "2s": "urrares",
+    "3s": "urrar",
+    "1p": "urrarmos",
+    "2p": "urrardes",
+    "3p": "urrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "urra",
+    "3s": "urre",
+    "1p": "urremos",
+    "2p": "urrai",
+    "3p": "urrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não urres",
+    "3s": "não urre",
+    "1p": "não urremos",
+    "2p": "não urreis",
+    "3p": "não urrem"
+  },
+  "Part-ter": {
+    "": "urrado"
+  },
+  "Part-ser": {
+    "ms": "urrado",
+    "fs": "urrada",
+    "mp": "urrados",
+    "fp": "urradas"
+  }
+}

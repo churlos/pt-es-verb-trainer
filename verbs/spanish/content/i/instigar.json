@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "instigar"
+  },
+  "Ger": {
+    "": "instigando"
+  },
+  "PresI": {
+    "1s": "instigo",
+    "2s": "instigas",
+    "3s": "instiga",
+    "1p": "instigamos",
+    "2p": "instigáis",
+    "3p": "instigan"
+  },
+  "PImpI": {
+    "1s": "instigaba",
+    "2s": "instigabas",
+    "3s": "instigaba",
+    "1p": "instigábamos",
+    "2p": "instigabais",
+    "3p": "instigaban"
+  },
+  "PPSI": {
+    "1s": "instigué",
+    "2s": "instigaste",
+    "3s": "instigó",
+    "1p": "instigamos",
+    "2p": "instigasteis",
+    "3p": "instigaron"
+  },
+  "FutSI": {
+    "1s": "instigaré",
+    "2s": "instigarás",
+    "3s": "instigará",
+    "1p": "instigaremos",
+    "2p": "instigaréis",
+    "3p": "instigarán"
+  },
+  "CondS": {
+    "1s": "instigaría",
+    "2s": "instigarías",
+    "3s": "instigaría",
+    "1p": "instigaríamos",
+    "2p": "instigaríais",
+    "3p": "instigarían"
+  },
+  "PresC": {
+    "1s": "instigue",
+    "2s": "instigues",
+    "3s": "instigue",
+    "1p": "instiguemos",
+    "2p": "instiguéis",
+    "3p": "instiguen"
+  },
+  "PMQPSI": {
+    "1s": "instigara",
+    "2s": "instigaras",
+    "3s": "instigara",
+    "1p": "instigáramos",
+    "2p": "instigarais",
+    "3p": "instigaran"
+  },
+  "PImpC": {
+    "1s": "instigase",
+    "2s": "instigases",
+    "3s": "instigase",
+    "1p": "instigásemos",
+    "2p": "instigaseis",
+    "3p": "instigasen"
+  },
+  "FutSC": {
+    "1s": "instigare",
+    "2s": "instigares",
+    "3s": "instigare",
+    "1p": "instigáremos",
+    "2p": "instigareis",
+    "3p": "instigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "instiga",
+    "3s": "instigue",
+    "1p": "instiguemos",
+    "2p": "instigad",
+    "3p": "instiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no instigues",
+    "3s": "no instigue",
+    "1p": "no instiguemos",
+    "2p": "no instiguéis",
+    "3p": "no instiguen"
+  },
+  "Part-ter": {
+    "": "instigado"
+  },
+  "Part-ser": {
+    "ms": "instigado",
+    "fs": "instigada",
+    "mp": "instigados",
+    "fp": "instigadas"
+  }
+}

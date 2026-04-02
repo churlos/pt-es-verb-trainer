@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "instanciar"
+  },
+  "Ger": {
+    "": "instanciando"
+  },
+  "PresI": {
+    "1s": "instancio",
+    "2s": "instancias",
+    "3s": "instancia",
+    "1p": "instanciamos",
+    "2p": "instanciáis",
+    "3p": "instancian"
+  },
+  "PImpI": {
+    "1s": "instanciaba",
+    "2s": "instanciabas",
+    "3s": "instanciaba",
+    "1p": "instanciábamos",
+    "2p": "instanciabais",
+    "3p": "instanciaban"
+  },
+  "PPSI": {
+    "1s": "instancié",
+    "2s": "instanciaste",
+    "3s": "instanció",
+    "1p": "instanciamos",
+    "2p": "instanciasteis",
+    "3p": "instanciaron"
+  },
+  "FutSI": {
+    "1s": "instanciaré",
+    "2s": "instanciarás",
+    "3s": "instanciará",
+    "1p": "instanciaremos",
+    "2p": "instanciaréis",
+    "3p": "instanciarán"
+  },
+  "CondS": {
+    "1s": "instanciaría",
+    "2s": "instanciarías",
+    "3s": "instanciaría",
+    "1p": "instanciaríamos",
+    "2p": "instanciaríais",
+    "3p": "instanciarían"
+  },
+  "PresC": {
+    "1s": "instancie",
+    "2s": "instancies",
+    "3s": "instancie",
+    "1p": "instanciemos",
+    "2p": "instanciéis",
+    "3p": "instancien"
+  },
+  "PMQPSI": {
+    "1s": "instanciara",
+    "2s": "instanciaras",
+    "3s": "instanciara",
+    "1p": "instanciáramos",
+    "2p": "instanciarais",
+    "3p": "instanciaran"
+  },
+  "PImpC": {
+    "1s": "instanciase",
+    "2s": "instanciases",
+    "3s": "instanciase",
+    "1p": "instanciásemos",
+    "2p": "instanciaseis",
+    "3p": "instanciasen"
+  },
+  "FutSC": {
+    "1s": "instanciare",
+    "2s": "instanciares",
+    "3s": "instanciare",
+    "1p": "instanciáremos",
+    "2p": "instanciareis",
+    "3p": "instanciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "instancia",
+    "3s": "instancie",
+    "1p": "instanciemos",
+    "2p": "instanciad",
+    "3p": "instancien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no instancies",
+    "3s": "no instancie",
+    "1p": "no instanciemos",
+    "2p": "no instanciéis",
+    "3p": "no instancien"
+  },
+  "Part-ter": {
+    "": "instanciado"
+  },
+  "Part-ser": {
+    "ms": "instanciado",
+    "fs": "instanciada",
+    "mp": "instanciados",
+    "fp": "instanciadas"
+  }
+}

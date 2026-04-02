@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dexar"
+  },
+  "Ger": {
+    "": "dexando"
+  },
+  "PresI": {
+    "1s": "dexo",
+    "2s": "dexas",
+    "3s": "dexa",
+    "1p": "dexamos",
+    "2p": "dexáis",
+    "3p": "dexan"
+  },
+  "PImpI": {
+    "1s": "dexaba",
+    "2s": "dexabas",
+    "3s": "dexaba",
+    "1p": "dexábamos",
+    "2p": "dexabais",
+    "3p": "dexaban"
+  },
+  "PPSI": {
+    "1s": "dexé",
+    "2s": "dexaste",
+    "3s": "dexó",
+    "1p": "dexamos",
+    "2p": "dexasteis",
+    "3p": "dexaron"
+  },
+  "FutSI": {
+    "1s": "dexaré",
+    "2s": "dexarás",
+    "3s": "dexará",
+    "1p": "dexaremos",
+    "2p": "dexaréis",
+    "3p": "dexarán"
+  },
+  "CondS": {
+    "1s": "dexaría",
+    "2s": "dexarías",
+    "3s": "dexaría",
+    "1p": "dexaríamos",
+    "2p": "dexaríais",
+    "3p": "dexarían"
+  },
+  "PresC": {
+    "1s": "dexe",
+    "2s": "dexes",
+    "3s": "dexe",
+    "1p": "dexemos",
+    "2p": "dexéis",
+    "3p": "dexen"
+  },
+  "PMQPSI": {
+    "1s": "dexara",
+    "2s": "dexaras",
+    "3s": "dexara",
+    "1p": "dexáramos",
+    "2p": "dexarais",
+    "3p": "dexaran"
+  },
+  "PImpC": {
+    "1s": "dexase",
+    "2s": "dexases",
+    "3s": "dexase",
+    "1p": "dexásemos",
+    "2p": "dexaseis",
+    "3p": "dexasen"
+  },
+  "FutSC": {
+    "1s": "dexare",
+    "2s": "dexares",
+    "3s": "dexare",
+    "1p": "dexáremos",
+    "2p": "dexareis",
+    "3p": "dexaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dexa",
+    "3s": "dexe",
+    "1p": "dexemos",
+    "2p": "dexad",
+    "3p": "dexen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dexes",
+    "3s": "no dexe",
+    "1p": "no dexemos",
+    "2p": "no dexéis",
+    "3p": "no dexen"
+  },
+  "Part-ter": {
+    "": "dexado"
+  },
+  "Part-ser": {
+    "ms": "dexado",
+    "fs": "dexada",
+    "mp": "dexados",
+    "fp": "dexadas"
+  }
+}

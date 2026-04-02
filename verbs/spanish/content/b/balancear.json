@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "balancear"
+  },
+  "Ger": {
+    "": "balanceando"
+  },
+  "PresI": {
+    "1s": "balanceo",
+    "2s": "balanceas",
+    "3s": "balancea",
+    "1p": "balanceamos",
+    "2p": "balanceáis",
+    "3p": "balancean"
+  },
+  "PImpI": {
+    "1s": "balanceaba",
+    "2s": "balanceabas",
+    "3s": "balanceaba",
+    "1p": "balanceábamos",
+    "2p": "balanceabais",
+    "3p": "balanceaban"
+  },
+  "PPSI": {
+    "1s": "balanceé",
+    "2s": "balanceaste",
+    "3s": "balanceó",
+    "1p": "balanceamos",
+    "2p": "balanceasteis",
+    "3p": "balancearon"
+  },
+  "FutSI": {
+    "1s": "balancearé",
+    "2s": "balancearás",
+    "3s": "balanceará",
+    "1p": "balancearemos",
+    "2p": "balancearéis",
+    "3p": "balancearán"
+  },
+  "CondS": {
+    "1s": "balancearía",
+    "2s": "balancearías",
+    "3s": "balancearía",
+    "1p": "balancearíamos",
+    "2p": "balancearíais",
+    "3p": "balancearían"
+  },
+  "PresC": {
+    "1s": "balancee",
+    "2s": "balancees",
+    "3s": "balancee",
+    "1p": "balanceemos",
+    "2p": "balanceéis",
+    "3p": "balanceen"
+  },
+  "PMQPSI": {
+    "1s": "balanceara",
+    "2s": "balancearas",
+    "3s": "balanceara",
+    "1p": "balanceáramos",
+    "2p": "balancearais",
+    "3p": "balancearan"
+  },
+  "PImpC": {
+    "1s": "balancease",
+    "2s": "balanceases",
+    "3s": "balancease",
+    "1p": "balanceásemos",
+    "2p": "balanceaseis",
+    "3p": "balanceasen"
+  },
+  "FutSC": {
+    "1s": "balanceare",
+    "2s": "balanceares",
+    "3s": "balanceare",
+    "1p": "balanceáremos",
+    "2p": "balanceareis",
+    "3p": "balancearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "balancea",
+    "3s": "balancee",
+    "1p": "balanceemos",
+    "2p": "balancead",
+    "3p": "balanceen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no balancees",
+    "3s": "no balancee",
+    "1p": "no balanceemos",
+    "2p": "no balanceéis",
+    "3p": "no balanceen"
+  },
+  "Part-ter": {
+    "": "balanceado"
+  },
+  "Part-ser": {
+    "ms": "balanceado",
+    "fs": "balanceada",
+    "mp": "balanceados",
+    "fp": "balanceadas"
+  }
+}

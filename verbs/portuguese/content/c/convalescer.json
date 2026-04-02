@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "convalescer"
+  },
+  "InfP": {
+    "1s": "convalescer",
+    "2s": "convalesceres",
+    "3s": "convalescer",
+    "1p": "convalescermos",
+    "2p": "convalescerdes",
+    "3p": "convalescerem"
+  },
+  "Ger": {
+    "": "convalescendo"
+  },
+  "PresI": {
+    "1s": "convalesço",
+    "2s": "convalesces",
+    "3s": "convalesce",
+    "1p": "convalescemos",
+    "2p": "convalesceis",
+    "3p": "convalescem"
+  },
+  "PImpI": {
+    "1s": "convalescia",
+    "2s": "convalescias",
+    "3s": "convalescia",
+    "1p": "convalescíamos",
+    "2p": "convalescíeis",
+    "3p": "convalesciam"
+  },
+  "PPSI": {
+    "1s": "convalesci",
+    "2s": "convalesceste",
+    "3s": "convalesceu",
+    "1p": "convalescemos",
+    "2p": "convalescestes",
+    "3p": "convalesceram"
+  },
+  "PMQPSI": {
+    "1s": "convalescera",
+    "2s": "convalesceras",
+    "3s": "convalescera",
+    "1p": "convalescêramos",
+    "2p": "convalescêreis",
+    "3p": "convalesceram"
+  },
+  "FutSI": {
+    "1s": "convalescerei",
+    "2s": "convalescerás",
+    "3s": "convalescerá",
+    "1p": "convalesceremos",
+    "2p": "convalescereis",
+    "3p": "convalescerão"
+  },
+  "CondS": {
+    "1s": "convalesceria",
+    "2s": "convalescerias",
+    "3s": "convalesceria",
+    "1p": "convalesceríamos",
+    "2p": "convalesceríeis",
+    "3p": "convalesceriam"
+  },
+  "PresC": {
+    "1s": "convalesça",
+    "2s": "convalesças",
+    "3s": "convalesça",
+    "1p": "convalesçamos",
+    "2p": "convalesçais",
+    "3p": "convalesçam"
+  },
+  "PImpC": {
+    "1s": "convalescesse",
+    "2s": "convalescesses",
+    "3s": "convalescesse",
+    "1p": "convalescêssemos",
+    "2p": "convalescêsseis",
+    "3p": "convalescessem"
+  },
+  "FutSC": {
+    "1s": "convalescer",
+    "2s": "convalesceres",
+    "3s": "convalescer",
+    "1p": "convalescermos",
+    "2p": "convalescerdes",
+    "3p": "convalescerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "convalesce",
+    "3s": "convalesça",
+    "1p": "convalesçamos",
+    "2p": "convalescei",
+    "3p": "convalesçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não convalesças",
+    "3s": "não convalesça",
+    "1p": "não convalesçamos",
+    "2p": "não convalesçais",
+    "3p": "não convalesçam"
+  },
+  "Part-ter": {
+    "": "convalescido"
+  },
+  "Part-ser": {
+    "ms": "convalescido",
+    "fs": "convalescida",
+    "mp": "convalescidos",
+    "fp": "convalescidas"
+  }
+}

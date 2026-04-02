@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cachear"
+  },
+  "InfP": {
+    "1s": "cachear",
+    "2s": "cacheares",
+    "3s": "cachear",
+    "1p": "cachearmos",
+    "2p": "cacheardes",
+    "3p": "cachearem"
+  },
+  "Ger": {
+    "": "cacheando"
+  },
+  "PresI": {
+    "1s": "cacheo",
+    "2s": "cacheas",
+    "3s": "cachea",
+    "1p": "cacheamos",
+    "2p": "cacheais",
+    "3p": "cacheam"
+  },
+  "PImpI": {
+    "1s": "cacheava",
+    "2s": "cacheavas",
+    "3s": "cacheava",
+    "1p": "cacheávamos",
+    "2p": "cacheáveis",
+    "3p": "cacheavam"
+  },
+  "PPSI": {
+    "1s": "cacheei",
+    "2s": "cacheaste",
+    "3s": "cacheou",
+    "1p": "cacheámos",
+    "2p": "cacheastes",
+    "3p": "cachearam"
+  },
+  "PMQPSI": {
+    "1s": "cacheara",
+    "2s": "cachearas",
+    "3s": "cacheara",
+    "1p": "cacheáramos",
+    "2p": "cacheáreis",
+    "3p": "cachearam"
+  },
+  "FutSI": {
+    "1s": "cachearei",
+    "2s": "cachearás",
+    "3s": "cacheará",
+    "1p": "cachearemos",
+    "2p": "cacheareis",
+    "3p": "cachearão"
+  },
+  "CondS": {
+    "1s": "cachearia",
+    "2s": "cachearias",
+    "3s": "cachearia",
+    "1p": "cachearíamos",
+    "2p": "cachearíeis",
+    "3p": "cacheariam"
+  },
+  "PresC": {
+    "1s": "cachee",
+    "2s": "cachees",
+    "3s": "cachee",
+    "1p": "cacheemos",
+    "2p": "cacheeis",
+    "3p": "cacheem"
+  },
+  "PImpC": {
+    "1s": "cacheasse",
+    "2s": "cacheasses",
+    "3s": "cacheasse",
+    "1p": "cacheássemos",
+    "2p": "cacheásseis",
+    "3p": "cacheassem"
+  },
+  "FutSC": {
+    "1s": "cachear",
+    "2s": "cacheares",
+    "3s": "cachear",
+    "1p": "cachearmos",
+    "2p": "cacheardes",
+    "3p": "cachearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cachea",
+    "3s": "cachee",
+    "1p": "cacheemos",
+    "2p": "cacheai",
+    "3p": "cacheem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cachees",
+    "3s": "não cachee",
+    "1p": "não cacheemos",
+    "2p": "não cacheeis",
+    "3p": "não cacheem"
+  },
+  "Part-ter": {
+    "": "cacheado"
+  },
+  "Part-ser": {
+    "ms": "cacheado",
+    "fs": "cacheada",
+    "mp": "cacheados",
+    "fp": "cacheadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ascender"
+  },
+  "InfP": {
+    "1s": "ascender",
+    "2s": "ascenderes",
+    "3s": "ascender",
+    "1p": "ascendermos",
+    "2p": "ascenderdes",
+    "3p": "ascenderem"
+  },
+  "Ger": {
+    "": "ascendendo"
+  },
+  "PresI": {
+    "1s": "ascendo",
+    "2s": "ascendes",
+    "3s": "ascende",
+    "1p": "ascendemos",
+    "2p": "ascendeis",
+    "3p": "ascendem"
+  },
+  "PImpI": {
+    "1s": "ascendia",
+    "2s": "ascendias",
+    "3s": "ascendia",
+    "1p": "ascendíamos",
+    "2p": "ascendíeis",
+    "3p": "ascendiam"
+  },
+  "PPSI": {
+    "1s": "ascendi",
+    "2s": "ascendeste",
+    "3s": "ascendeu",
+    "1p": "ascendemos",
+    "2p": "ascendestes",
+    "3p": "ascenderam"
+  },
+  "PMQPSI": {
+    "1s": "ascendera",
+    "2s": "ascenderas",
+    "3s": "ascendera",
+    "1p": "ascendêramos",
+    "2p": "ascendêreis",
+    "3p": "ascenderam"
+  },
+  "FutSI": {
+    "1s": "ascenderei",
+    "2s": "ascenderás",
+    "3s": "ascenderá",
+    "1p": "ascenderemos",
+    "2p": "ascendereis",
+    "3p": "ascenderão"
+  },
+  "CondS": {
+    "1s": "ascenderia",
+    "2s": "ascenderias",
+    "3s": "ascenderia",
+    "1p": "ascenderíamos",
+    "2p": "ascenderíeis",
+    "3p": "ascenderiam"
+  },
+  "PresC": {
+    "1s": "ascenda",
+    "2s": "ascendas",
+    "3s": "ascenda",
+    "1p": "ascendamos",
+    "2p": "ascendais",
+    "3p": "ascendam"
+  },
+  "PImpC": {
+    "1s": "ascendesse",
+    "2s": "ascendesses",
+    "3s": "ascendesse",
+    "1p": "ascendêssemos",
+    "2p": "ascendêsseis",
+    "3p": "ascendessem"
+  },
+  "FutSC": {
+    "1s": "ascender",
+    "2s": "ascenderes",
+    "3s": "ascender",
+    "1p": "ascendermos",
+    "2p": "ascenderdes",
+    "3p": "ascenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ascende",
+    "3s": "ascenda",
+    "1p": "ascendamos",
+    "2p": "ascendei",
+    "3p": "ascendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ascendas",
+    "3s": "não ascenda",
+    "1p": "não ascendamos",
+    "2p": "não ascendais",
+    "3p": "não ascendam"
+  },
+  "Part-ter": {
+    "": "ascendido"
+  },
+  "Part-ser": {
+    "ms": "ascendido",
+    "fs": "ascendida",
+    "mp": "ascendidos",
+    "fp": "ascendidas"
+  }
+}

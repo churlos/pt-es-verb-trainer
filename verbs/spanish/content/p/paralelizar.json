@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "paralelizar"
+  },
+  "Ger": {
+    "": "paralelizando"
+  },
+  "PresI": {
+    "1s": "paralelizo",
+    "2s": "paralelizas",
+    "3s": "paraleliza",
+    "1p": "paralelizamos",
+    "2p": "paralelizáis",
+    "3p": "paralelizan"
+  },
+  "PImpI": {
+    "1s": "paralelizaba",
+    "2s": "paralelizabas",
+    "3s": "paralelizaba",
+    "1p": "paralelizábamos",
+    "2p": "paralelizabais",
+    "3p": "paralelizaban"
+  },
+  "PPSI": {
+    "1s": "paralelicé",
+    "2s": "paralelizaste",
+    "3s": "paralelizó",
+    "1p": "paralelizamos",
+    "2p": "paralelizasteis",
+    "3p": "paralelizaron"
+  },
+  "FutSI": {
+    "1s": "paralelizaré",
+    "2s": "paralelizarás",
+    "3s": "paralelizará",
+    "1p": "paralelizaremos",
+    "2p": "paralelizaréis",
+    "3p": "paralelizarán"
+  },
+  "CondS": {
+    "1s": "paralelizaría",
+    "2s": "paralelizarías",
+    "3s": "paralelizaría",
+    "1p": "paralelizaríamos",
+    "2p": "paralelizaríais",
+    "3p": "paralelizarían"
+  },
+  "PresC": {
+    "1s": "paralelice",
+    "2s": "paralelices",
+    "3s": "paralelice",
+    "1p": "paralelicemos",
+    "2p": "paralelicéis",
+    "3p": "paralelicen"
+  },
+  "PMQPSI": {
+    "1s": "paralelizara",
+    "2s": "paralelizaras",
+    "3s": "paralelizara",
+    "1p": "paralelizáramos",
+    "2p": "paralelizarais",
+    "3p": "paralelizaran"
+  },
+  "PImpC": {
+    "1s": "paralelizase",
+    "2s": "paralelizases",
+    "3s": "paralelizase",
+    "1p": "paralelizásemos",
+    "2p": "paralelizaseis",
+    "3p": "paralelizasen"
+  },
+  "FutSC": {
+    "1s": "paralelizare",
+    "2s": "paralelizares",
+    "3s": "paralelizare",
+    "1p": "paralelizáremos",
+    "2p": "paralelizareis",
+    "3p": "paralelizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "paraleliza",
+    "3s": "paralelice",
+    "1p": "paralelicemos",
+    "2p": "paralelizad",
+    "3p": "paralelicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no paralelices",
+    "3s": "no paralelice",
+    "1p": "no paralelicemos",
+    "2p": "no paralelicéis",
+    "3p": "no paralelicen"
+  },
+  "Part-ter": {
+    "": "paralelizado"
+  },
+  "Part-ser": {
+    "ms": "paralelizado",
+    "fs": "paralelizada",
+    "mp": "paralelizados",
+    "fp": "paralelizadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "notar"
+  },
+  "InfP": {
+    "1s": "notar",
+    "2s": "notares",
+    "3s": "notar",
+    "1p": "notarmos",
+    "2p": "notardes",
+    "3p": "notarem"
+  },
+  "Ger": {
+    "": "notando"
+  },
+  "PresI": {
+    "1s": "noto",
+    "2s": "notas",
+    "3s": "nota",
+    "1p": "notamos",
+    "2p": "notais",
+    "3p": "notam"
+  },
+  "PImpI": {
+    "1s": "notava",
+    "2s": "notavas",
+    "3s": "notava",
+    "1p": "notávamos",
+    "2p": "notáveis",
+    "3p": "notavam"
+  },
+  "PPSI": {
+    "1s": "notei",
+    "2s": "notaste",
+    "3s": "notou",
+    "1p": "notámos",
+    "2p": "notastes",
+    "3p": "notaram"
+  },
+  "PMQPSI": {
+    "1s": "notara",
+    "2s": "notaras",
+    "3s": "notara",
+    "1p": "notáramos",
+    "2p": "notáreis",
+    "3p": "notaram"
+  },
+  "FutSI": {
+    "1s": "notarei",
+    "2s": "notarás",
+    "3s": "notará",
+    "1p": "notaremos",
+    "2p": "notareis",
+    "3p": "notarão"
+  },
+  "CondS": {
+    "1s": "notaria",
+    "2s": "notarias",
+    "3s": "notaria",
+    "1p": "notaríamos",
+    "2p": "notaríeis",
+    "3p": "notariam"
+  },
+  "PresC": {
+    "1s": "note",
+    "2s": "notes",
+    "3s": "note",
+    "1p": "notemos",
+    "2p": "noteis",
+    "3p": "notem"
+  },
+  "PImpC": {
+    "1s": "notasse",
+    "2s": "notasses",
+    "3s": "notasse",
+    "1p": "notássemos",
+    "2p": "notásseis",
+    "3p": "notassem"
+  },
+  "FutSC": {
+    "1s": "notar",
+    "2s": "notares",
+    "3s": "notar",
+    "1p": "notarmos",
+    "2p": "notardes",
+    "3p": "notarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nota",
+    "3s": "note",
+    "1p": "notemos",
+    "2p": "notai",
+    "3p": "notem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não notes",
+    "3s": "não note",
+    "1p": "não notemos",
+    "2p": "não noteis",
+    "3p": "não notem"
+  },
+  "Part-ter": {
+    "": "notado"
+  },
+  "Part-ser": {
+    "ms": "notado",
+    "fs": "notada",
+    "mp": "notados",
+    "fp": "notadas"
+  }
+}

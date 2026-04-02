@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "titular"
+  },
+  "InfP": {
+    "1s": "titular",
+    "2s": "titulares",
+    "3s": "titular",
+    "1p": "titularmos",
+    "2p": "titulardes",
+    "3p": "titularem"
+  },
+  "Ger": {
+    "": "titulando"
+  },
+  "PresI": {
+    "1s": "titulo",
+    "2s": "titulas",
+    "3s": "titula",
+    "1p": "titulamos",
+    "2p": "titulais",
+    "3p": "titulam"
+  },
+  "PImpI": {
+    "1s": "titulava",
+    "2s": "titulavas",
+    "3s": "titulava",
+    "1p": "titulávamos",
+    "2p": "tituláveis",
+    "3p": "titulavam"
+  },
+  "PPSI": {
+    "1s": "titulei",
+    "2s": "titulaste",
+    "3s": "titulou",
+    "1p": "titulámos",
+    "2p": "titulastes",
+    "3p": "titularam"
+  },
+  "PMQPSI": {
+    "1s": "titulara",
+    "2s": "titularas",
+    "3s": "titulara",
+    "1p": "tituláramos",
+    "2p": "tituláreis",
+    "3p": "titularam"
+  },
+  "FutSI": {
+    "1s": "titularei",
+    "2s": "titularás",
+    "3s": "titulará",
+    "1p": "titularemos",
+    "2p": "titulareis",
+    "3p": "titularão"
+  },
+  "CondS": {
+    "1s": "titularia",
+    "2s": "titularias",
+    "3s": "titularia",
+    "1p": "titularíamos",
+    "2p": "titularíeis",
+    "3p": "titulariam"
+  },
+  "PresC": {
+    "1s": "titule",
+    "2s": "titules",
+    "3s": "titule",
+    "1p": "titulemos",
+    "2p": "tituleis",
+    "3p": "titulem"
+  },
+  "PImpC": {
+    "1s": "titulasse",
+    "2s": "titulasses",
+    "3s": "titulasse",
+    "1p": "titulássemos",
+    "2p": "titulásseis",
+    "3p": "titulassem"
+  },
+  "FutSC": {
+    "1s": "titular",
+    "2s": "titulares",
+    "3s": "titular",
+    "1p": "titularmos",
+    "2p": "titulardes",
+    "3p": "titularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "titula",
+    "3s": "titule",
+    "1p": "titulemos",
+    "2p": "titulai",
+    "3p": "titulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não titules",
+    "3s": "não titule",
+    "1p": "não titulemos",
+    "2p": "não tituleis",
+    "3p": "não titulem"
+  },
+  "Part-ter": {
+    "": "titulado"
+  },
+  "Part-ser": {
+    "ms": "titulado",
+    "fs": "titulada",
+    "mp": "titulados",
+    "fp": "tituladas"
+  }
+}

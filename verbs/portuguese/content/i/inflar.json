@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inflar"
+  },
+  "InfP": {
+    "1s": "inflar",
+    "2s": "inflares",
+    "3s": "inflar",
+    "1p": "inflarmos",
+    "2p": "inflardes",
+    "3p": "inflarem"
+  },
+  "Ger": {
+    "": "inflando"
+  },
+  "PresI": {
+    "1s": "inflo",
+    "2s": "inflas",
+    "3s": "infla",
+    "1p": "inflamos",
+    "2p": "inflais",
+    "3p": "inflam"
+  },
+  "PImpI": {
+    "1s": "inflava",
+    "2s": "inflavas",
+    "3s": "inflava",
+    "1p": "inflávamos",
+    "2p": "infláveis",
+    "3p": "inflavam"
+  },
+  "PPSI": {
+    "1s": "inflei",
+    "2s": "inflaste",
+    "3s": "inflou",
+    "1p": "inflámos",
+    "2p": "inflastes",
+    "3p": "inflaram"
+  },
+  "PMQPSI": {
+    "1s": "inflara",
+    "2s": "inflaras",
+    "3s": "inflara",
+    "1p": "infláramos",
+    "2p": "infláreis",
+    "3p": "inflaram"
+  },
+  "FutSI": {
+    "1s": "inflarei",
+    "2s": "inflarás",
+    "3s": "inflará",
+    "1p": "inflaremos",
+    "2p": "inflareis",
+    "3p": "inflarão"
+  },
+  "CondS": {
+    "1s": "inflaria",
+    "2s": "inflarias",
+    "3s": "inflaria",
+    "1p": "inflaríamos",
+    "2p": "inflaríeis",
+    "3p": "inflariam"
+  },
+  "PresC": {
+    "1s": "infle",
+    "2s": "infles",
+    "3s": "infle",
+    "1p": "inflemos",
+    "2p": "infleis",
+    "3p": "inflem"
+  },
+  "PImpC": {
+    "1s": "inflasse",
+    "2s": "inflasses",
+    "3s": "inflasse",
+    "1p": "inflássemos",
+    "2p": "inflásseis",
+    "3p": "inflassem"
+  },
+  "FutSC": {
+    "1s": "inflar",
+    "2s": "inflares",
+    "3s": "inflar",
+    "1p": "inflarmos",
+    "2p": "inflardes",
+    "3p": "inflarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infla",
+    "3s": "infle",
+    "1p": "inflemos",
+    "2p": "inflai",
+    "3p": "inflem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não infles",
+    "3s": "não infle",
+    "1p": "não inflemos",
+    "2p": "não infleis",
+    "3p": "não inflem"
+  },
+  "Part-ter": {
+    "": "inflado"
+  },
+  "Part-ser": {
+    "ms": "inflado",
+    "fs": "inflada",
+    "mp": "inflados",
+    "fp": "infladas"
+  }
+}

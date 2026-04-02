@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parcializar"
+  },
+  "Ger": {
+    "": "parcializando"
+  },
+  "PresI": {
+    "1s": "parcializo",
+    "2s": "parcializas",
+    "3s": "parcializa",
+    "1p": "parcializamos",
+    "2p": "parcializáis",
+    "3p": "parcializan"
+  },
+  "PImpI": {
+    "1s": "parcializaba",
+    "2s": "parcializabas",
+    "3s": "parcializaba",
+    "1p": "parcializábamos",
+    "2p": "parcializabais",
+    "3p": "parcializaban"
+  },
+  "PPSI": {
+    "1s": "parcialicé",
+    "2s": "parcializaste",
+    "3s": "parcializó",
+    "1p": "parcializamos",
+    "2p": "parcializasteis",
+    "3p": "parcializaron"
+  },
+  "FutSI": {
+    "1s": "parcializaré",
+    "2s": "parcializarás",
+    "3s": "parcializará",
+    "1p": "parcializaremos",
+    "2p": "parcializaréis",
+    "3p": "parcializarán"
+  },
+  "CondS": {
+    "1s": "parcializaría",
+    "2s": "parcializarías",
+    "3s": "parcializaría",
+    "1p": "parcializaríamos",
+    "2p": "parcializaríais",
+    "3p": "parcializarían"
+  },
+  "PresC": {
+    "1s": "parcialice",
+    "2s": "parcialices",
+    "3s": "parcialice",
+    "1p": "parcialicemos",
+    "2p": "parcialicéis",
+    "3p": "parcialicen"
+  },
+  "PMQPSI": {
+    "1s": "parcializara",
+    "2s": "parcializaras",
+    "3s": "parcializara",
+    "1p": "parcializáramos",
+    "2p": "parcializarais",
+    "3p": "parcializaran"
+  },
+  "PImpC": {
+    "1s": "parcializase",
+    "2s": "parcializases",
+    "3s": "parcializase",
+    "1p": "parcializásemos",
+    "2p": "parcializaseis",
+    "3p": "parcializasen"
+  },
+  "FutSC": {
+    "1s": "parcializare",
+    "2s": "parcializares",
+    "3s": "parcializare",
+    "1p": "parcializáremos",
+    "2p": "parcializareis",
+    "3p": "parcializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parcializa",
+    "3s": "parcialice",
+    "1p": "parcialicemos",
+    "2p": "parcializad",
+    "3p": "parcialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no parcialices",
+    "3s": "no parcialice",
+    "1p": "no parcialicemos",
+    "2p": "no parcialicéis",
+    "3p": "no parcialicen"
+  },
+  "Part-ter": {
+    "": "parcializado"
+  },
+  "Part-ser": {
+    "ms": "parcializado",
+    "fs": "parcializada",
+    "mp": "parcializados",
+    "fp": "parcializadas"
+  }
+}

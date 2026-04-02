@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ayudar"
+  },
+  "Ger": {
+    "": "ayudando"
+  },
+  "PresI": {
+    "1s": "ayudo",
+    "2s": "ayudas",
+    "3s": "ayuda",
+    "1p": "ayudamos",
+    "2p": "ayudáis",
+    "3p": "ayudan"
+  },
+  "PImpI": {
+    "1s": "ayudaba",
+    "2s": "ayudabas",
+    "3s": "ayudaba",
+    "1p": "ayudábamos",
+    "2p": "ayudabais",
+    "3p": "ayudaban"
+  },
+  "PPSI": {
+    "1s": "ayudé",
+    "2s": "ayudaste",
+    "3s": "ayudó",
+    "1p": "ayudamos",
+    "2p": "ayudasteis",
+    "3p": "ayudaron"
+  },
+  "FutSI": {
+    "1s": "ayudaré",
+    "2s": "ayudarás",
+    "3s": "ayudará",
+    "1p": "ayudaremos",
+    "2p": "ayudaréis",
+    "3p": "ayudarán"
+  },
+  "CondS": {
+    "1s": "ayudaría",
+    "2s": "ayudarías",
+    "3s": "ayudaría",
+    "1p": "ayudaríamos",
+    "2p": "ayudaríais",
+    "3p": "ayudarían"
+  },
+  "PresC": {
+    "1s": "ayude",
+    "2s": "ayudes",
+    "3s": "ayude",
+    "1p": "ayudemos",
+    "2p": "ayudéis",
+    "3p": "ayuden"
+  },
+  "PMQPSI": {
+    "1s": "ayudara",
+    "2s": "ayudaras",
+    "3s": "ayudara",
+    "1p": "ayudáramos",
+    "2p": "ayudarais",
+    "3p": "ayudaran"
+  },
+  "PImpC": {
+    "1s": "ayudase",
+    "2s": "ayudases",
+    "3s": "ayudase",
+    "1p": "ayudásemos",
+    "2p": "ayudaseis",
+    "3p": "ayudasen"
+  },
+  "FutSC": {
+    "1s": "ayudare",
+    "2s": "ayudares",
+    "3s": "ayudare",
+    "1p": "ayudáremos",
+    "2p": "ayudareis",
+    "3p": "ayudaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ayuda",
+    "3s": "ayude",
+    "1p": "ayudemos",
+    "2p": "ayudad",
+    "3p": "ayuden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ayudes",
+    "3s": "no ayude",
+    "1p": "no ayudemos",
+    "2p": "no ayudéis",
+    "3p": "no ayuden"
+  },
+  "Part-ter": {
+    "": "ayudado"
+  },
+  "Part-ser": {
+    "ms": "ayudado",
+    "fs": "ayudada",
+    "mp": "ayudados",
+    "fp": "ayudadas"
+  }
+}

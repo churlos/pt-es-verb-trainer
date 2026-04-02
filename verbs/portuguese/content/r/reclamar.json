@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reclamar"
+  },
+  "InfP": {
+    "1s": "reclamar",
+    "2s": "reclamares",
+    "3s": "reclamar",
+    "1p": "reclamarmos",
+    "2p": "reclamardes",
+    "3p": "reclamarem"
+  },
+  "Ger": {
+    "": "reclamando"
+  },
+  "PresI": {
+    "1s": "reclamo",
+    "2s": "reclamas",
+    "3s": "reclama",
+    "1p": "reclamamos",
+    "2p": "reclamais",
+    "3p": "reclamam"
+  },
+  "PImpI": {
+    "1s": "reclamava",
+    "2s": "reclamavas",
+    "3s": "reclamava",
+    "1p": "reclamávamos",
+    "2p": "reclamáveis",
+    "3p": "reclamavam"
+  },
+  "PPSI": {
+    "1s": "reclamei",
+    "2s": "reclamaste",
+    "3s": "reclamou",
+    "1p": "reclamámos",
+    "2p": "reclamastes",
+    "3p": "reclamaram"
+  },
+  "PMQPSI": {
+    "1s": "reclamara",
+    "2s": "reclamaras",
+    "3s": "reclamara",
+    "1p": "reclamáramos",
+    "2p": "reclamáreis",
+    "3p": "reclamaram"
+  },
+  "FutSI": {
+    "1s": "reclamarei",
+    "2s": "reclamarás",
+    "3s": "reclamará",
+    "1p": "reclamaremos",
+    "2p": "reclamareis",
+    "3p": "reclamarão"
+  },
+  "CondS": {
+    "1s": "reclamaria",
+    "2s": "reclamarias",
+    "3s": "reclamaria",
+    "1p": "reclamaríamos",
+    "2p": "reclamaríeis",
+    "3p": "reclamariam"
+  },
+  "PresC": {
+    "1s": "reclame",
+    "2s": "reclames",
+    "3s": "reclame",
+    "1p": "reclamemos",
+    "2p": "reclameis",
+    "3p": "reclamem"
+  },
+  "PImpC": {
+    "1s": "reclamasse",
+    "2s": "reclamasses",
+    "3s": "reclamasse",
+    "1p": "reclamássemos",
+    "2p": "reclamásseis",
+    "3p": "reclamassem"
+  },
+  "FutSC": {
+    "1s": "reclamar",
+    "2s": "reclamares",
+    "3s": "reclamar",
+    "1p": "reclamarmos",
+    "2p": "reclamardes",
+    "3p": "reclamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reclama",
+    "3s": "reclame",
+    "1p": "reclamemos",
+    "2p": "reclamai",
+    "3p": "reclamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reclames",
+    "3s": "não reclame",
+    "1p": "não reclamemos",
+    "2p": "não reclameis",
+    "3p": "não reclamem"
+  },
+  "Part-ter": {
+    "": "reclamado"
+  },
+  "Part-ser": {
+    "ms": "reclamado",
+    "fs": "reclamada",
+    "mp": "reclamados",
+    "fp": "reclamadas"
+  }
+}

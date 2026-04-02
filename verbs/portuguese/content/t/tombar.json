@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tombar"
+  },
+  "InfP": {
+    "1s": "tombar",
+    "2s": "tombares",
+    "3s": "tombar",
+    "1p": "tombarmos",
+    "2p": "tombardes",
+    "3p": "tombarem"
+  },
+  "Ger": {
+    "": "tombando"
+  },
+  "PresI": {
+    "1s": "tombo",
+    "2s": "tombas",
+    "3s": "tomba",
+    "1p": "tombamos",
+    "2p": "tombais",
+    "3p": "tombam"
+  },
+  "PImpI": {
+    "1s": "tombava",
+    "2s": "tombavas",
+    "3s": "tombava",
+    "1p": "tombávamos",
+    "2p": "tombáveis",
+    "3p": "tombavam"
+  },
+  "PPSI": {
+    "1s": "tombei",
+    "2s": "tombaste",
+    "3s": "tombou",
+    "1p": "tombámos",
+    "2p": "tombastes",
+    "3p": "tombaram"
+  },
+  "PMQPSI": {
+    "1s": "tombara",
+    "2s": "tombaras",
+    "3s": "tombara",
+    "1p": "tombáramos",
+    "2p": "tombáreis",
+    "3p": "tombaram"
+  },
+  "FutSI": {
+    "1s": "tombarei",
+    "2s": "tombarás",
+    "3s": "tombará",
+    "1p": "tombaremos",
+    "2p": "tombareis",
+    "3p": "tombarão"
+  },
+  "CondS": {
+    "1s": "tombaria",
+    "2s": "tombarias",
+    "3s": "tombaria",
+    "1p": "tombaríamos",
+    "2p": "tombaríeis",
+    "3p": "tombariam"
+  },
+  "PresC": {
+    "1s": "tombe",
+    "2s": "tombes",
+    "3s": "tombe",
+    "1p": "tombemos",
+    "2p": "tombeis",
+    "3p": "tombem"
+  },
+  "PImpC": {
+    "1s": "tombasse",
+    "2s": "tombasses",
+    "3s": "tombasse",
+    "1p": "tombássemos",
+    "2p": "tombásseis",
+    "3p": "tombassem"
+  },
+  "FutSC": {
+    "1s": "tombar",
+    "2s": "tombares",
+    "3s": "tombar",
+    "1p": "tombarmos",
+    "2p": "tombardes",
+    "3p": "tombarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tomba",
+    "3s": "tombe",
+    "1p": "tombemos",
+    "2p": "tombai",
+    "3p": "tombem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tombes",
+    "3s": "não tombe",
+    "1p": "não tombemos",
+    "2p": "não tombeis",
+    "3p": "não tombem"
+  },
+  "Part-ter": {
+    "": "tombado"
+  },
+  "Part-ser": {
+    "ms": "tombado",
+    "fs": "tombada",
+    "mp": "tombados",
+    "fp": "tombadas"
+  }
+}

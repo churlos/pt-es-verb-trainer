@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pasteurizar"
+  },
+  "InfP": {
+    "1s": "pasteurizar",
+    "2s": "pasteurizares",
+    "3s": "pasteurizar",
+    "1p": "pasteurizarmos",
+    "2p": "pasteurizardes",
+    "3p": "pasteurizarem"
+  },
+  "Ger": {
+    "": "pasteurizando"
+  },
+  "PresI": {
+    "1s": "pasteurizo",
+    "2s": "pasteurizas",
+    "3s": "pasteuriza",
+    "1p": "pasteurizamos",
+    "2p": "pasteurizais",
+    "3p": "pasteurizam"
+  },
+  "PImpI": {
+    "1s": "pasteurizava",
+    "2s": "pasteurizavas",
+    "3s": "pasteurizava",
+    "1p": "pasteurizávamos",
+    "2p": "pasteurizáveis",
+    "3p": "pasteurizavam"
+  },
+  "PPSI": {
+    "1s": "pasteurizei",
+    "2s": "pasteurizaste",
+    "3s": "pasteurizou",
+    "1p": "pasteurizámos",
+    "2p": "pasteurizastes",
+    "3p": "pasteurizaram"
+  },
+  "PMQPSI": {
+    "1s": "pasteurizara",
+    "2s": "pasteurizaras",
+    "3s": "pasteurizara",
+    "1p": "pasteurizáramos",
+    "2p": "pasteurizáreis",
+    "3p": "pasteurizaram"
+  },
+  "FutSI": {
+    "1s": "pasteurizarei",
+    "2s": "pasteurizarás",
+    "3s": "pasteurizará",
+    "1p": "pasteurizaremos",
+    "2p": "pasteurizareis",
+    "3p": "pasteurizarão"
+  },
+  "CondS": {
+    "1s": "pasteurizaria",
+    "2s": "pasteurizarias",
+    "3s": "pasteurizaria",
+    "1p": "pasteurizaríamos",
+    "2p": "pasteurizaríeis",
+    "3p": "pasteurizariam"
+  },
+  "PresC": {
+    "1s": "pasteurize",
+    "2s": "pasteurizes",
+    "3s": "pasteurize",
+    "1p": "pasteurizemos",
+    "2p": "pasteurizeis",
+    "3p": "pasteurizem"
+  },
+  "PImpC": {
+    "1s": "pasteurizasse",
+    "2s": "pasteurizasses",
+    "3s": "pasteurizasse",
+    "1p": "pasteurizássemos",
+    "2p": "pasteurizásseis",
+    "3p": "pasteurizassem"
+  },
+  "FutSC": {
+    "1s": "pasteurizar",
+    "2s": "pasteurizares",
+    "3s": "pasteurizar",
+    "1p": "pasteurizarmos",
+    "2p": "pasteurizardes",
+    "3p": "pasteurizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pasteuriza",
+    "3s": "pasteurize",
+    "1p": "pasteurizemos",
+    "2p": "pasteurizai",
+    "3p": "pasteurizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pasteurizes",
+    "3s": "não pasteurize",
+    "1p": "não pasteurizemos",
+    "2p": "não pasteurizeis",
+    "3p": "não pasteurizem"
+  },
+  "Part-ter": {
+    "": "pasteurizado"
+  },
+  "Part-ser": {
+    "ms": "pasteurizado",
+    "fs": "pasteurizada",
+    "mp": "pasteurizados",
+    "fp": "pasteurizadas"
+  }
+}

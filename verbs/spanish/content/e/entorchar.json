@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "entorchar"
+  },
+  "Ger": {
+    "": "entorchando"
+  },
+  "PresI": {
+    "1s": "entorcho",
+    "2s": "entorchas",
+    "3s": "entorcha",
+    "1p": "entorchamos",
+    "2p": "entorcháis",
+    "3p": "entorchan"
+  },
+  "PImpI": {
+    "1s": "entorchaba",
+    "2s": "entorchabas",
+    "3s": "entorchaba",
+    "1p": "entorchábamos",
+    "2p": "entorchabais",
+    "3p": "entorchaban"
+  },
+  "PPSI": {
+    "1s": "entorché",
+    "2s": "entorchaste",
+    "3s": "entorchó",
+    "1p": "entorchamos",
+    "2p": "entorchasteis",
+    "3p": "entorcharon"
+  },
+  "FutSI": {
+    "1s": "entorcharé",
+    "2s": "entorcharás",
+    "3s": "entorchará",
+    "1p": "entorcharemos",
+    "2p": "entorcharéis",
+    "3p": "entorcharán"
+  },
+  "CondS": {
+    "1s": "entorcharía",
+    "2s": "entorcharías",
+    "3s": "entorcharía",
+    "1p": "entorcharíamos",
+    "2p": "entorcharíais",
+    "3p": "entorcharían"
+  },
+  "PresC": {
+    "1s": "entorche",
+    "2s": "entorches",
+    "3s": "entorche",
+    "1p": "entorchemos",
+    "2p": "entorchéis",
+    "3p": "entorchen"
+  },
+  "PMQPSI": {
+    "1s": "entorchara",
+    "2s": "entorcharas",
+    "3s": "entorchara",
+    "1p": "entorcháramos",
+    "2p": "entorcharais",
+    "3p": "entorcharan"
+  },
+  "PImpC": {
+    "1s": "entorchase",
+    "2s": "entorchases",
+    "3s": "entorchase",
+    "1p": "entorchásemos",
+    "2p": "entorchaseis",
+    "3p": "entorchasen"
+  },
+  "FutSC": {
+    "1s": "entorchare",
+    "2s": "entorchares",
+    "3s": "entorchare",
+    "1p": "entorcháremos",
+    "2p": "entorchareis",
+    "3p": "entorcharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entorcha",
+    "3s": "entorche",
+    "1p": "entorchemos",
+    "2p": "entorchad",
+    "3p": "entorchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no entorches",
+    "3s": "no entorche",
+    "1p": "no entorchemos",
+    "2p": "no entorchéis",
+    "3p": "no entorchen"
+  },
+  "Part-ter": {
+    "": "entorchado"
+  },
+  "Part-ser": {
+    "ms": "entorchado",
+    "fs": "entorchada",
+    "mp": "entorchados",
+    "fp": "entorchadas"
+  }
+}

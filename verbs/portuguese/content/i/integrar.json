@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "integrar"
+  },
+  "InfP": {
+    "1s": "integrar",
+    "2s": "integrares",
+    "3s": "integrar",
+    "1p": "integrarmos",
+    "2p": "integrardes",
+    "3p": "integrarem"
+  },
+  "Ger": {
+    "": "integrando"
+  },
+  "PresI": {
+    "1s": "integro",
+    "2s": "integras",
+    "3s": "integra",
+    "1p": "integramos",
+    "2p": "integrais",
+    "3p": "integram"
+  },
+  "PImpI": {
+    "1s": "integrava",
+    "2s": "integravas",
+    "3s": "integrava",
+    "1p": "integrávamos",
+    "2p": "integráveis",
+    "3p": "integravam"
+  },
+  "PPSI": {
+    "1s": "integrei",
+    "2s": "integraste",
+    "3s": "integrou",
+    "1p": "integrámos",
+    "2p": "integrastes",
+    "3p": "integraram"
+  },
+  "PMQPSI": {
+    "1s": "integrara",
+    "2s": "integraras",
+    "3s": "integrara",
+    "1p": "integráramos",
+    "2p": "integráreis",
+    "3p": "integraram"
+  },
+  "FutSI": {
+    "1s": "integrarei",
+    "2s": "integrarás",
+    "3s": "integrará",
+    "1p": "integraremos",
+    "2p": "integrareis",
+    "3p": "integrarão"
+  },
+  "CondS": {
+    "1s": "integraria",
+    "2s": "integrarias",
+    "3s": "integraria",
+    "1p": "integraríamos",
+    "2p": "integraríeis",
+    "3p": "integrariam"
+  },
+  "PresC": {
+    "1s": "integre",
+    "2s": "integres",
+    "3s": "integre",
+    "1p": "integremos",
+    "2p": "integreis",
+    "3p": "integrem"
+  },
+  "PImpC": {
+    "1s": "integrasse",
+    "2s": "integrasses",
+    "3s": "integrasse",
+    "1p": "integrássemos",
+    "2p": "integrásseis",
+    "3p": "integrassem"
+  },
+  "FutSC": {
+    "1s": "integrar",
+    "2s": "integrares",
+    "3s": "integrar",
+    "1p": "integrarmos",
+    "2p": "integrardes",
+    "3p": "integrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "integra",
+    "3s": "integre",
+    "1p": "integremos",
+    "2p": "integrai",
+    "3p": "integrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não integres",
+    "3s": "não integre",
+    "1p": "não integremos",
+    "2p": "não integreis",
+    "3p": "não integrem"
+  },
+  "Part-ter": {
+    "": "integrado"
+  },
+  "Part-ser": {
+    "ms": "integrado",
+    "fs": "integrada",
+    "mp": "integrados",
+    "fp": "integradas"
+  }
+}

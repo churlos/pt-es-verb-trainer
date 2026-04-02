@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hospitalizar"
+  },
+  "Ger": {
+    "": "hospitalizando"
+  },
+  "PresI": {
+    "1s": "hospitalizo",
+    "2s": "hospitalizas",
+    "3s": "hospitaliza",
+    "1p": "hospitalizamos",
+    "2p": "hospitalizáis",
+    "3p": "hospitalizan"
+  },
+  "PImpI": {
+    "1s": "hospitalizaba",
+    "2s": "hospitalizabas",
+    "3s": "hospitalizaba",
+    "1p": "hospitalizábamos",
+    "2p": "hospitalizabais",
+    "3p": "hospitalizaban"
+  },
+  "PPSI": {
+    "1s": "hospitalicé",
+    "2s": "hospitalizaste",
+    "3s": "hospitalizó",
+    "1p": "hospitalizamos",
+    "2p": "hospitalizasteis",
+    "3p": "hospitalizaron"
+  },
+  "FutSI": {
+    "1s": "hospitalizaré",
+    "2s": "hospitalizarás",
+    "3s": "hospitalizará",
+    "1p": "hospitalizaremos",
+    "2p": "hospitalizaréis",
+    "3p": "hospitalizarán"
+  },
+  "CondS": {
+    "1s": "hospitalizaría",
+    "2s": "hospitalizarías",
+    "3s": "hospitalizaría",
+    "1p": "hospitalizaríamos",
+    "2p": "hospitalizaríais",
+    "3p": "hospitalizarían"
+  },
+  "PresC": {
+    "1s": "hospitalice",
+    "2s": "hospitalices",
+    "3s": "hospitalice",
+    "1p": "hospitalicemos",
+    "2p": "hospitalicéis",
+    "3p": "hospitalicen"
+  },
+  "PMQPSI": {
+    "1s": "hospitalizara",
+    "2s": "hospitalizaras",
+    "3s": "hospitalizara",
+    "1p": "hospitalizáramos",
+    "2p": "hospitalizarais",
+    "3p": "hospitalizaran"
+  },
+  "PImpC": {
+    "1s": "hospitalizase",
+    "2s": "hospitalizases",
+    "3s": "hospitalizase",
+    "1p": "hospitalizásemos",
+    "2p": "hospitalizaseis",
+    "3p": "hospitalizasen"
+  },
+  "FutSC": {
+    "1s": "hospitalizare",
+    "2s": "hospitalizares",
+    "3s": "hospitalizare",
+    "1p": "hospitalizáremos",
+    "2p": "hospitalizareis",
+    "3p": "hospitalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hospitaliza",
+    "3s": "hospitalice",
+    "1p": "hospitalicemos",
+    "2p": "hospitalizad",
+    "3p": "hospitalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hospitalices",
+    "3s": "no hospitalice",
+    "1p": "no hospitalicemos",
+    "2p": "no hospitalicéis",
+    "3p": "no hospitalicen"
+  },
+  "Part-ter": {
+    "": "hospitalizado"
+  },
+  "Part-ser": {
+    "ms": "hospitalizado",
+    "fs": "hospitalizada",
+    "mp": "hospitalizados",
+    "fp": "hospitalizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desinflar"
+  },
+  "Ger": {
+    "": "desinflando"
+  },
+  "PresI": {
+    "1s": "desinflo",
+    "2s": "desinflas",
+    "3s": "desinfla",
+    "1p": "desinflamos",
+    "2p": "desinfláis",
+    "3p": "desinflan"
+  },
+  "PImpI": {
+    "1s": "desinflaba",
+    "2s": "desinflabas",
+    "3s": "desinflaba",
+    "1p": "desinflábamos",
+    "2p": "desinflabais",
+    "3p": "desinflaban"
+  },
+  "PPSI": {
+    "1s": "desinflé",
+    "2s": "desinflaste",
+    "3s": "desinfló",
+    "1p": "desinflamos",
+    "2p": "desinflasteis",
+    "3p": "desinflaron"
+  },
+  "FutSI": {
+    "1s": "desinflaré",
+    "2s": "desinflarás",
+    "3s": "desinflará",
+    "1p": "desinflaremos",
+    "2p": "desinflaréis",
+    "3p": "desinflarán"
+  },
+  "CondS": {
+    "1s": "desinflaría",
+    "2s": "desinflarías",
+    "3s": "desinflaría",
+    "1p": "desinflaríamos",
+    "2p": "desinflaríais",
+    "3p": "desinflarían"
+  },
+  "PresC": {
+    "1s": "desinfle",
+    "2s": "desinfles",
+    "3s": "desinfle",
+    "1p": "desinflemos",
+    "2p": "desinfléis",
+    "3p": "desinflen"
+  },
+  "PMQPSI": {
+    "1s": "desinflara",
+    "2s": "desinflaras",
+    "3s": "desinflara",
+    "1p": "desinfláramos",
+    "2p": "desinflarais",
+    "3p": "desinflaran"
+  },
+  "PImpC": {
+    "1s": "desinflase",
+    "2s": "desinflases",
+    "3s": "desinflase",
+    "1p": "desinflásemos",
+    "2p": "desinflaseis",
+    "3p": "desinflasen"
+  },
+  "FutSC": {
+    "1s": "desinflare",
+    "2s": "desinflares",
+    "3s": "desinflare",
+    "1p": "desinfláremos",
+    "2p": "desinflareis",
+    "3p": "desinflaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desinfla",
+    "3s": "desinfle",
+    "1p": "desinflemos",
+    "2p": "desinflad",
+    "3p": "desinflen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desinfles",
+    "3s": "no desinfle",
+    "1p": "no desinflemos",
+    "2p": "no desinfléis",
+    "3p": "no desinflen"
+  },
+  "Part-ter": {
+    "": "desinflado"
+  },
+  "Part-ser": {
+    "ms": "desinflado",
+    "fs": "desinflada",
+    "mp": "desinflados",
+    "fp": "desinfladas"
+  }
+}

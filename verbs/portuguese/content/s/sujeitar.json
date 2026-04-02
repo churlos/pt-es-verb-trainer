@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sujeitar"
+  },
+  "InfP": {
+    "1s": "sujeitar",
+    "2s": "sujeitares",
+    "3s": "sujeitar",
+    "1p": "sujeitarmos",
+    "2p": "sujeitardes",
+    "3p": "sujeitarem"
+  },
+  "Ger": {
+    "": "sujeitando"
+  },
+  "PresI": {
+    "1s": "sujeito",
+    "2s": "sujeitas",
+    "3s": "sujeita",
+    "1p": "sujeitamos",
+    "2p": "sujeitais",
+    "3p": "sujeitam"
+  },
+  "PImpI": {
+    "1s": "sujeitava",
+    "2s": "sujeitavas",
+    "3s": "sujeitava",
+    "1p": "sujeitávamos",
+    "2p": "sujeitáveis",
+    "3p": "sujeitavam"
+  },
+  "PPSI": {
+    "1s": "sujeitei",
+    "2s": "sujeitaste",
+    "3s": "sujeitou",
+    "1p": "sujeitámos",
+    "2p": "sujeitastes",
+    "3p": "sujeitaram"
+  },
+  "PMQPSI": {
+    "1s": "sujeitara",
+    "2s": "sujeitaras",
+    "3s": "sujeitara",
+    "1p": "sujeitáramos",
+    "2p": "sujeitáreis",
+    "3p": "sujeitaram"
+  },
+  "FutSI": {
+    "1s": "sujeitarei",
+    "2s": "sujeitarás",
+    "3s": "sujeitará",
+    "1p": "sujeitaremos",
+    "2p": "sujeitareis",
+    "3p": "sujeitarão"
+  },
+  "CondS": {
+    "1s": "sujeitaria",
+    "2s": "sujeitarias",
+    "3s": "sujeitaria",
+    "1p": "sujeitaríamos",
+    "2p": "sujeitaríeis",
+    "3p": "sujeitariam"
+  },
+  "PresC": {
+    "1s": "sujeite",
+    "2s": "sujeites",
+    "3s": "sujeite",
+    "1p": "sujeitemos",
+    "2p": "sujeiteis",
+    "3p": "sujeitem"
+  },
+  "PImpC": {
+    "1s": "sujeitasse",
+    "2s": "sujeitasses",
+    "3s": "sujeitasse",
+    "1p": "sujeitássemos",
+    "2p": "sujeitásseis",
+    "3p": "sujeitassem"
+  },
+  "FutSC": {
+    "1s": "sujeitar",
+    "2s": "sujeitares",
+    "3s": "sujeitar",
+    "1p": "sujeitarmos",
+    "2p": "sujeitardes",
+    "3p": "sujeitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sujeita",
+    "3s": "sujeite",
+    "1p": "sujeitemos",
+    "2p": "sujeitai",
+    "3p": "sujeitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sujeites",
+    "3s": "não sujeite",
+    "1p": "não sujeitemos",
+    "2p": "não sujeiteis",
+    "3p": "não sujeitem"
+  },
+  "Part-ter": {
+    "": "sujeitado"
+  },
+  "Part-ser": {
+    "ms": "sujeitado",
+    "fs": "sujeitada",
+    "mp": "sujeitados",
+    "fp": "sujeitadas"
+  }
+}

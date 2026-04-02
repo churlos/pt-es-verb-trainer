@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bordar"
+  },
+  "Ger": {
+    "": "bordando"
+  },
+  "PresI": {
+    "1s": "bordo",
+    "2s": "bordas",
+    "3s": "borda",
+    "1p": "bordamos",
+    "2p": "bordáis",
+    "3p": "bordan"
+  },
+  "PImpI": {
+    "1s": "bordaba",
+    "2s": "bordabas",
+    "3s": "bordaba",
+    "1p": "bordábamos",
+    "2p": "bordabais",
+    "3p": "bordaban"
+  },
+  "PPSI": {
+    "1s": "bordé",
+    "2s": "bordaste",
+    "3s": "bordó",
+    "1p": "bordamos",
+    "2p": "bordasteis",
+    "3p": "bordaron"
+  },
+  "FutSI": {
+    "1s": "bordaré",
+    "2s": "bordarás",
+    "3s": "bordará",
+    "1p": "bordaremos",
+    "2p": "bordaréis",
+    "3p": "bordarán"
+  },
+  "CondS": {
+    "1s": "bordaría",
+    "2s": "bordarías",
+    "3s": "bordaría",
+    "1p": "bordaríamos",
+    "2p": "bordaríais",
+    "3p": "bordarían"
+  },
+  "PresC": {
+    "1s": "borde",
+    "2s": "bordes",
+    "3s": "borde",
+    "1p": "bordemos",
+    "2p": "bordéis",
+    "3p": "borden"
+  },
+  "PMQPSI": {
+    "1s": "bordara",
+    "2s": "bordaras",
+    "3s": "bordara",
+    "1p": "bordáramos",
+    "2p": "bordarais",
+    "3p": "bordaran"
+  },
+  "PImpC": {
+    "1s": "bordase",
+    "2s": "bordases",
+    "3s": "bordase",
+    "1p": "bordásemos",
+    "2p": "bordaseis",
+    "3p": "bordasen"
+  },
+  "FutSC": {
+    "1s": "bordare",
+    "2s": "bordares",
+    "3s": "bordare",
+    "1p": "bordáremos",
+    "2p": "bordareis",
+    "3p": "bordaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "borda",
+    "3s": "borde",
+    "1p": "bordemos",
+    "2p": "bordad",
+    "3p": "borden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bordes",
+    "3s": "no borde",
+    "1p": "no bordemos",
+    "2p": "no bordéis",
+    "3p": "no borden"
+  },
+  "Part-ter": {
+    "": "bordado"
+  },
+  "Part-ser": {
+    "ms": "bordado",
+    "fs": "bordada",
+    "mp": "bordados",
+    "fp": "bordadas"
+  }
+}

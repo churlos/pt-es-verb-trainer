@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sopesar"
+  },
+  "Ger": {
+    "": "sopesando"
+  },
+  "PresI": {
+    "1s": "sopeso",
+    "2s": "sopesas",
+    "3s": "sopesa",
+    "1p": "sopesamos",
+    "2p": "sopesáis",
+    "3p": "sopesan"
+  },
+  "PImpI": {
+    "1s": "sopesaba",
+    "2s": "sopesabas",
+    "3s": "sopesaba",
+    "1p": "sopesábamos",
+    "2p": "sopesabais",
+    "3p": "sopesaban"
+  },
+  "PPSI": {
+    "1s": "sopesé",
+    "2s": "sopesaste",
+    "3s": "sopesó",
+    "1p": "sopesamos",
+    "2p": "sopesasteis",
+    "3p": "sopesaron"
+  },
+  "FutSI": {
+    "1s": "sopesaré",
+    "2s": "sopesarás",
+    "3s": "sopesará",
+    "1p": "sopesaremos",
+    "2p": "sopesaréis",
+    "3p": "sopesarán"
+  },
+  "CondS": {
+    "1s": "sopesaría",
+    "2s": "sopesarías",
+    "3s": "sopesaría",
+    "1p": "sopesaríamos",
+    "2p": "sopesaríais",
+    "3p": "sopesarían"
+  },
+  "PresC": {
+    "1s": "sopese",
+    "2s": "sopeses",
+    "3s": "sopese",
+    "1p": "sopesemos",
+    "2p": "sopeséis",
+    "3p": "sopesen"
+  },
+  "PMQPSI": {
+    "1s": "sopesara",
+    "2s": "sopesaras",
+    "3s": "sopesara",
+    "1p": "sopesáramos",
+    "2p": "sopesarais",
+    "3p": "sopesaran"
+  },
+  "PImpC": {
+    "1s": "sopesase",
+    "2s": "sopesases",
+    "3s": "sopesase",
+    "1p": "sopesásemos",
+    "2p": "sopesaseis",
+    "3p": "sopesasen"
+  },
+  "FutSC": {
+    "1s": "sopesare",
+    "2s": "sopesares",
+    "3s": "sopesare",
+    "1p": "sopesáremos",
+    "2p": "sopesareis",
+    "3p": "sopesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sopesa",
+    "3s": "sopese",
+    "1p": "sopesemos",
+    "2p": "sopesad",
+    "3p": "sopesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sopeses",
+    "3s": "no sopese",
+    "1p": "no sopesemos",
+    "2p": "no sopeséis",
+    "3p": "no sopesen"
+  },
+  "Part-ter": {
+    "": "sopesado"
+  },
+  "Part-ser": {
+    "ms": "sopesado",
+    "fs": "sopesada",
+    "mp": "sopesados",
+    "fp": "sopesadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "clicar"
+  },
+  "InfP": {
+    "1s": "clicar",
+    "2s": "clicares",
+    "3s": "clicar",
+    "1p": "clicarmos",
+    "2p": "clicardes",
+    "3p": "clicarem"
+  },
+  "Ger": {
+    "": "clicando"
+  },
+  "PresI": {
+    "1s": "clico",
+    "2s": "clicas",
+    "3s": "clica",
+    "1p": "clicamos",
+    "2p": "clicais",
+    "3p": "clicam"
+  },
+  "PImpI": {
+    "1s": "clicava",
+    "2s": "clicavas",
+    "3s": "clicava",
+    "1p": "clicávamos",
+    "2p": "clicáveis",
+    "3p": "clicavam"
+  },
+  "PPSI": {
+    "1s": "cliquei",
+    "2s": "clicaste",
+    "3s": "clicou",
+    "1p": "clicámos",
+    "2p": "clicastes",
+    "3p": "clicaram"
+  },
+  "PMQPSI": {
+    "1s": "clicara",
+    "2s": "clicaras",
+    "3s": "clicara",
+    "1p": "clicáramos",
+    "2p": "clicáreis",
+    "3p": "clicaram"
+  },
+  "FutSI": {
+    "1s": "clicarei",
+    "2s": "clicarás",
+    "3s": "clicará",
+    "1p": "clicaremos",
+    "2p": "clicareis",
+    "3p": "clicarão"
+  },
+  "CondS": {
+    "1s": "clicaria",
+    "2s": "clicarias",
+    "3s": "clicaria",
+    "1p": "clicaríamos",
+    "2p": "clicaríeis",
+    "3p": "clicariam"
+  },
+  "PresC": {
+    "1s": "clique",
+    "2s": "cliques",
+    "3s": "clique",
+    "1p": "cliquemos",
+    "2p": "cliqueis",
+    "3p": "cliquem"
+  },
+  "PImpC": {
+    "1s": "clicasse",
+    "2s": "clicasses",
+    "3s": "clicasse",
+    "1p": "clicássemos",
+    "2p": "clicásseis",
+    "3p": "clicassem"
+  },
+  "FutSC": {
+    "1s": "clicar",
+    "2s": "clicares",
+    "3s": "clicar",
+    "1p": "clicarmos",
+    "2p": "clicardes",
+    "3p": "clicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clica",
+    "3s": "clique",
+    "1p": "cliquemos",
+    "2p": "clicai",
+    "3p": "cliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cliques",
+    "3s": "não clique",
+    "1p": "não cliquemos",
+    "2p": "não cliqueis",
+    "3p": "não cliquem"
+  },
+  "Part-ter": {
+    "": "clicado"
+  },
+  "Part-ser": {
+    "ms": "clicado",
+    "fs": "clicada",
+    "mp": "clicados",
+    "fp": "clicadas"
+  }
+}

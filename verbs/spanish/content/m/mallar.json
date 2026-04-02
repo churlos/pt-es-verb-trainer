@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mallar"
+  },
+  "Ger": {
+    "": "mallando"
+  },
+  "PresI": {
+    "1s": "mallo",
+    "2s": "mallas",
+    "3s": "malla",
+    "1p": "mallamos",
+    "2p": "malláis",
+    "3p": "mallan"
+  },
+  "PImpI": {
+    "1s": "mallaba",
+    "2s": "mallabas",
+    "3s": "mallaba",
+    "1p": "mallábamos",
+    "2p": "mallabais",
+    "3p": "mallaban"
+  },
+  "PPSI": {
+    "1s": "mallé",
+    "2s": "mallaste",
+    "3s": "malló",
+    "1p": "mallamos",
+    "2p": "mallasteis",
+    "3p": "mallaron"
+  },
+  "FutSI": {
+    "1s": "mallaré",
+    "2s": "mallarás",
+    "3s": "mallará",
+    "1p": "mallaremos",
+    "2p": "mallaréis",
+    "3p": "mallarán"
+  },
+  "CondS": {
+    "1s": "mallaría",
+    "2s": "mallarías",
+    "3s": "mallaría",
+    "1p": "mallaríamos",
+    "2p": "mallaríais",
+    "3p": "mallarían"
+  },
+  "PresC": {
+    "1s": "malle",
+    "2s": "malles",
+    "3s": "malle",
+    "1p": "mallemos",
+    "2p": "malléis",
+    "3p": "mallen"
+  },
+  "PMQPSI": {
+    "1s": "mallara",
+    "2s": "mallaras",
+    "3s": "mallara",
+    "1p": "malláramos",
+    "2p": "mallarais",
+    "3p": "mallaran"
+  },
+  "PImpC": {
+    "1s": "mallase",
+    "2s": "mallases",
+    "3s": "mallase",
+    "1p": "mallásemos",
+    "2p": "mallaseis",
+    "3p": "mallasen"
+  },
+  "FutSC": {
+    "1s": "mallare",
+    "2s": "mallares",
+    "3s": "mallare",
+    "1p": "malláremos",
+    "2p": "mallareis",
+    "3p": "mallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "malla",
+    "3s": "malle",
+    "1p": "mallemos",
+    "2p": "mallad",
+    "3p": "mallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no malles",
+    "3s": "no malle",
+    "1p": "no mallemos",
+    "2p": "no malléis",
+    "3p": "no mallen"
+  },
+  "Part-ter": {
+    "": "mallado"
+  },
+  "Part-ser": {
+    "ms": "mallado",
+    "fs": "mallada",
+    "mp": "mallados",
+    "fp": "malladas"
+  }
+}

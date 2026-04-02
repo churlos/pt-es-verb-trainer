@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "elencar"
+  },
+  "InfP": {
+    "1s": "elencar",
+    "2s": "elencares",
+    "3s": "elencar",
+    "1p": "elencarmos",
+    "2p": "elencardes",
+    "3p": "elencarem"
+  },
+  "Ger": {
+    "": "elencando"
+  },
+  "PresI": {
+    "1s": "elenco",
+    "2s": "elencas",
+    "3s": "elenca",
+    "1p": "elencamos",
+    "2p": "elencais",
+    "3p": "elencam"
+  },
+  "PImpI": {
+    "1s": "elencava",
+    "2s": "elencavas",
+    "3s": "elencava",
+    "1p": "elencávamos",
+    "2p": "elencáveis",
+    "3p": "elencavam"
+  },
+  "PPSI": {
+    "1s": "elenquei",
+    "2s": "elencaste",
+    "3s": "elencou",
+    "1p": "elencámos",
+    "2p": "elencastes",
+    "3p": "elencaram"
+  },
+  "PMQPSI": {
+    "1s": "elencara",
+    "2s": "elencaras",
+    "3s": "elencara",
+    "1p": "elencáramos",
+    "2p": "elencáreis",
+    "3p": "elencaram"
+  },
+  "FutSI": {
+    "1s": "elencarei",
+    "2s": "elencarás",
+    "3s": "elencará",
+    "1p": "elencaremos",
+    "2p": "elencareis",
+    "3p": "elencarão"
+  },
+  "CondS": {
+    "1s": "elencaria",
+    "2s": "elencarias",
+    "3s": "elencaria",
+    "1p": "elencaríamos",
+    "2p": "elencaríeis",
+    "3p": "elencariam"
+  },
+  "PresC": {
+    "1s": "elenque",
+    "2s": "elenques",
+    "3s": "elenque",
+    "1p": "elenquemos",
+    "2p": "elenqueis",
+    "3p": "elenquem"
+  },
+  "PImpC": {
+    "1s": "elencasse",
+    "2s": "elencasses",
+    "3s": "elencasse",
+    "1p": "elencássemos",
+    "2p": "elencásseis",
+    "3p": "elencassem"
+  },
+  "FutSC": {
+    "1s": "elencar",
+    "2s": "elencares",
+    "3s": "elencar",
+    "1p": "elencarmos",
+    "2p": "elencardes",
+    "3p": "elencarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elenca",
+    "3s": "elenque",
+    "1p": "elenquemos",
+    "2p": "elencai",
+    "3p": "elenquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não elenques",
+    "3s": "não elenque",
+    "1p": "não elenquemos",
+    "2p": "não elenqueis",
+    "3p": "não elenquem"
+  },
+  "Part-ter": {
+    "": "elencado"
+  },
+  "Part-ser": {
+    "ms": "elencado",
+    "fs": "elencada",
+    "mp": "elencados",
+    "fp": "elencadas"
+  }
+}

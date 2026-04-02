@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "analisar"
+  },
+  "InfP": {
+    "1s": "analisar",
+    "2s": "analisares",
+    "3s": "analisar",
+    "1p": "analisarmos",
+    "2p": "analisardes",
+    "3p": "analisarem"
+  },
+  "Ger": {
+    "": "analisando"
+  },
+  "PresI": {
+    "1s": "analiso",
+    "2s": "analisas",
+    "3s": "analisa",
+    "1p": "analisamos",
+    "2p": "analisais",
+    "3p": "analisam"
+  },
+  "PImpI": {
+    "1s": "analisava",
+    "2s": "analisavas",
+    "3s": "analisava",
+    "1p": "analisávamos",
+    "2p": "analisáveis",
+    "3p": "analisavam"
+  },
+  "PPSI": {
+    "1s": "analisei",
+    "2s": "analisaste",
+    "3s": "analisou",
+    "1p": "analisámos",
+    "2p": "analisastes",
+    "3p": "analisaram"
+  },
+  "PMQPSI": {
+    "1s": "analisara",
+    "2s": "analisaras",
+    "3s": "analisara",
+    "1p": "analisáramos",
+    "2p": "analisáreis",
+    "3p": "analisaram"
+  },
+  "FutSI": {
+    "1s": "analisarei",
+    "2s": "analisarás",
+    "3s": "analisará",
+    "1p": "analisaremos",
+    "2p": "analisareis",
+    "3p": "analisarão"
+  },
+  "CondS": {
+    "1s": "analisaria",
+    "2s": "analisarias",
+    "3s": "analisaria",
+    "1p": "analisaríamos",
+    "2p": "analisaríeis",
+    "3p": "analisariam"
+  },
+  "PresC": {
+    "1s": "analise",
+    "2s": "analises",
+    "3s": "analise",
+    "1p": "analisemos",
+    "2p": "analiseis",
+    "3p": "analisem"
+  },
+  "PImpC": {
+    "1s": "analisasse",
+    "2s": "analisasses",
+    "3s": "analisasse",
+    "1p": "analisássemos",
+    "2p": "analisásseis",
+    "3p": "analisassem"
+  },
+  "FutSC": {
+    "1s": "analisar",
+    "2s": "analisares",
+    "3s": "analisar",
+    "1p": "analisarmos",
+    "2p": "analisardes",
+    "3p": "analisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "analisa",
+    "3s": "analise",
+    "1p": "analisemos",
+    "2p": "analisai",
+    "3p": "analisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não analises",
+    "3s": "não analise",
+    "1p": "não analisemos",
+    "2p": "não analiseis",
+    "3p": "não analisem"
+  },
+  "Part-ter": {
+    "": "analisado"
+  },
+  "Part-ser": {
+    "ms": "analisado",
+    "fs": "analisada",
+    "mp": "analisados",
+    "fp": "analisadas"
+  }
+}

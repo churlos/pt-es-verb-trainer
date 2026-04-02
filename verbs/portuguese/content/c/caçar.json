@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "caçar"
+  },
+  "InfP": {
+    "1s": "caçar",
+    "2s": "caçares",
+    "3s": "caçar",
+    "1p": "caçarmos",
+    "2p": "caçardes",
+    "3p": "caçarem"
+  },
+  "Ger": {
+    "": "caçando"
+  },
+  "PresI": {
+    "1s": "caço",
+    "2s": "caças",
+    "3s": "caça",
+    "1p": "caçamos",
+    "2p": "caçais",
+    "3p": "caçam"
+  },
+  "PImpI": {
+    "1s": "caçava",
+    "2s": "caçavas",
+    "3s": "caçava",
+    "1p": "caçávamos",
+    "2p": "caçáveis",
+    "3p": "caçavam"
+  },
+  "PPSI": {
+    "1s": "cacei",
+    "2s": "caçaste",
+    "3s": "caçou",
+    "1p": "caçámos",
+    "2p": "caçastes",
+    "3p": "caçaram"
+  },
+  "PMQPSI": {
+    "1s": "caçara",
+    "2s": "caçaras",
+    "3s": "caçara",
+    "1p": "caçáramos",
+    "2p": "caçáreis",
+    "3p": "caçaram"
+  },
+  "FutSI": {
+    "1s": "caçarei",
+    "2s": "caçarás",
+    "3s": "caçará",
+    "1p": "caçaremos",
+    "2p": "caçareis",
+    "3p": "caçarão"
+  },
+  "CondS": {
+    "1s": "caçaria",
+    "2s": "caçarias",
+    "3s": "caçaria",
+    "1p": "caçaríamos",
+    "2p": "caçaríeis",
+    "3p": "caçariam"
+  },
+  "PresC": {
+    "1s": "cace",
+    "2s": "caces",
+    "3s": "cace",
+    "1p": "cacemos",
+    "2p": "caceis",
+    "3p": "cacem"
+  },
+  "PImpC": {
+    "1s": "caçasse",
+    "2s": "caçasses",
+    "3s": "caçasse",
+    "1p": "caçássemos",
+    "2p": "caçásseis",
+    "3p": "caçassem"
+  },
+  "FutSC": {
+    "1s": "caçar",
+    "2s": "caçares",
+    "3s": "caçar",
+    "1p": "caçarmos",
+    "2p": "caçardes",
+    "3p": "caçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "caça",
+    "3s": "cace",
+    "1p": "cacemos",
+    "2p": "caçai",
+    "3p": "cacem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não caces",
+    "3s": "não cace",
+    "1p": "não cacemos",
+    "2p": "não caceis",
+    "3p": "não cacem"
+  },
+  "Part-ter": {
+    "": "caçado"
+  },
+  "Part-ser": {
+    "ms": "caçado",
+    "fs": "caçada",
+    "mp": "caçados",
+    "fp": "caçadas"
+  }
+}

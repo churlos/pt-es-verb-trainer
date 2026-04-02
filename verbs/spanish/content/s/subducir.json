@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subducir"
+  },
+  "Ger": {
+    "": "subduciendo"
+  },
+  "PresI": {
+    "1s": "subduzco",
+    "2s": "subduces",
+    "3s": "subduce",
+    "1p": "subducimos",
+    "2p": "subducís",
+    "3p": "subducen"
+  },
+  "PImpI": {
+    "1s": "subducía",
+    "2s": "subducías",
+    "3s": "subducía",
+    "1p": "subducíamos",
+    "2p": "subducíais",
+    "3p": "subducían"
+  },
+  "PPSI": {
+    "1s": "subduje",
+    "2s": "subdujiste",
+    "3s": "subdujo",
+    "1p": "subdujimos",
+    "2p": "subdujisteis",
+    "3p": "subdujeron"
+  },
+  "FutSI": {
+    "1s": "subduciré",
+    "2s": "subducirás",
+    "3s": "subducirá",
+    "1p": "subduciremos",
+    "2p": "subduciréis",
+    "3p": "subducirán"
+  },
+  "CondS": {
+    "1s": "subduciría",
+    "2s": "subducirías",
+    "3s": "subduciría",
+    "1p": "subduciríamos",
+    "2p": "subduciríais",
+    "3p": "subducirían"
+  },
+  "PresC": {
+    "1s": "subduzca",
+    "2s": "subduzcas",
+    "3s": "subduzca",
+    "1p": "subduzcamos",
+    "2p": "subduzcáis",
+    "3p": "subduzcan"
+  },
+  "PMQPSI": {
+    "1s": "subdujera",
+    "2s": "subdujeras",
+    "3s": "subdujera",
+    "1p": "subdujéramos",
+    "2p": "subdujerais",
+    "3p": "subdujeran"
+  },
+  "PImpC": {
+    "1s": "subdujese",
+    "2s": "subdujeses",
+    "3s": "subdujese",
+    "1p": "subdujésemos",
+    "2p": "subdujeseis",
+    "3p": "subdujesen"
+  },
+  "FutSC": {
+    "1s": "subdujere",
+    "2s": "subdujeres",
+    "3s": "subdujere",
+    "1p": "subdujéremos",
+    "2p": "subdujereis",
+    "3p": "subdujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "subduce",
+    "3s": "subduzca",
+    "1p": "subduzcamos",
+    "2p": "subducid",
+    "3p": "subduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subduzcas",
+    "3s": "no subduzca",
+    "1p": "no subduzcamos",
+    "2p": "no subduzcáis",
+    "3p": "no subduzcan"
+  },
+  "Part-ter": {
+    "": "subducido"
+  },
+  "Part-ser": {
+    "ms": "subducido",
+    "fs": "subducida",
+    "mp": "subducidos",
+    "fp": "subducidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "monitorizar"
+  },
+  "InfP": {
+    "1s": "monitorizar",
+    "2s": "monitorizares",
+    "3s": "monitorizar",
+    "1p": "monitorizarmos",
+    "2p": "monitorizardes",
+    "3p": "monitorizarem"
+  },
+  "Ger": {
+    "": "monitorizando"
+  },
+  "PresI": {
+    "1s": "monitorizo",
+    "2s": "monitorizas",
+    "3s": "monitoriza",
+    "1p": "monitorizamos",
+    "2p": "monitorizais",
+    "3p": "monitorizam"
+  },
+  "PImpI": {
+    "1s": "monitorizava",
+    "2s": "monitorizavas",
+    "3s": "monitorizava",
+    "1p": "monitorizávamos",
+    "2p": "monitorizáveis",
+    "3p": "monitorizavam"
+  },
+  "PPSI": {
+    "1s": "monitorizei",
+    "2s": "monitorizaste",
+    "3s": "monitorizou",
+    "1p": "monitorizámos",
+    "2p": "monitorizastes",
+    "3p": "monitorizaram"
+  },
+  "PMQPSI": {
+    "1s": "monitorizara",
+    "2s": "monitorizaras",
+    "3s": "monitorizara",
+    "1p": "monitorizáramos",
+    "2p": "monitorizáreis",
+    "3p": "monitorizaram"
+  },
+  "FutSI": {
+    "1s": "monitorizarei",
+    "2s": "monitorizarás",
+    "3s": "monitorizará",
+    "1p": "monitorizaremos",
+    "2p": "monitorizareis",
+    "3p": "monitorizarão"
+  },
+  "CondS": {
+    "1s": "monitorizaria",
+    "2s": "monitorizarias",
+    "3s": "monitorizaria",
+    "1p": "monitorizaríamos",
+    "2p": "monitorizaríeis",
+    "3p": "monitorizariam"
+  },
+  "PresC": {
+    "1s": "monitorize",
+    "2s": "monitorizes",
+    "3s": "monitorize",
+    "1p": "monitorizemos",
+    "2p": "monitorizeis",
+    "3p": "monitorizem"
+  },
+  "PImpC": {
+    "1s": "monitorizasse",
+    "2s": "monitorizasses",
+    "3s": "monitorizasse",
+    "1p": "monitorizássemos",
+    "2p": "monitorizásseis",
+    "3p": "monitorizassem"
+  },
+  "FutSC": {
+    "1s": "monitorizar",
+    "2s": "monitorizares",
+    "3s": "monitorizar",
+    "1p": "monitorizarmos",
+    "2p": "monitorizardes",
+    "3p": "monitorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "monitoriza",
+    "3s": "monitorize",
+    "1p": "monitorizemos",
+    "2p": "monitorizai",
+    "3p": "monitorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não monitorizes",
+    "3s": "não monitorize",
+    "1p": "não monitorizemos",
+    "2p": "não monitorizeis",
+    "3p": "não monitorizem"
+  },
+  "Part-ter": {
+    "": "monitorizado"
+  },
+  "Part-ser": {
+    "ms": "monitorizado",
+    "fs": "monitorizada",
+    "mp": "monitorizados",
+    "fp": "monitorizadas"
+  }
+}

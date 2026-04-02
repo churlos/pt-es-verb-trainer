@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "printear"
+  },
+  "Ger": {
+    "": "printeando"
+  },
+  "PresI": {
+    "1s": "printeo",
+    "2s": "printeas",
+    "3s": "printea",
+    "1p": "printeamos",
+    "2p": "printeáis",
+    "3p": "printean"
+  },
+  "PImpI": {
+    "1s": "printeaba",
+    "2s": "printeabas",
+    "3s": "printeaba",
+    "1p": "printeábamos",
+    "2p": "printeabais",
+    "3p": "printeaban"
+  },
+  "PPSI": {
+    "1s": "printeé",
+    "2s": "printeaste",
+    "3s": "printeó",
+    "1p": "printeamos",
+    "2p": "printeasteis",
+    "3p": "printearon"
+  },
+  "FutSI": {
+    "1s": "printearé",
+    "2s": "printearás",
+    "3s": "printeará",
+    "1p": "printearemos",
+    "2p": "printearéis",
+    "3p": "printearán"
+  },
+  "CondS": {
+    "1s": "printearía",
+    "2s": "printearías",
+    "3s": "printearía",
+    "1p": "printearíamos",
+    "2p": "printearíais",
+    "3p": "printearían"
+  },
+  "PresC": {
+    "1s": "printee",
+    "2s": "printees",
+    "3s": "printee",
+    "1p": "printeemos",
+    "2p": "printeéis",
+    "3p": "printeen"
+  },
+  "PMQPSI": {
+    "1s": "printeara",
+    "2s": "printearas",
+    "3s": "printeara",
+    "1p": "printeáramos",
+    "2p": "printearais",
+    "3p": "printearan"
+  },
+  "PImpC": {
+    "1s": "printease",
+    "2s": "printeases",
+    "3s": "printease",
+    "1p": "printeásemos",
+    "2p": "printeaseis",
+    "3p": "printeasen"
+  },
+  "FutSC": {
+    "1s": "printeare",
+    "2s": "printeares",
+    "3s": "printeare",
+    "1p": "printeáremos",
+    "2p": "printeareis",
+    "3p": "printearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "printea",
+    "3s": "printee",
+    "1p": "printeemos",
+    "2p": "printead",
+    "3p": "printeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no printees",
+    "3s": "no printee",
+    "1p": "no printeemos",
+    "2p": "no printeéis",
+    "3p": "no printeen"
+  },
+  "Part-ter": {
+    "": "printeado"
+  },
+  "Part-ser": {
+    "ms": "printeado",
+    "fs": "printeada",
+    "mp": "printeados",
+    "fp": "printeadas"
+  }
+}

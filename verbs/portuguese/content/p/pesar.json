@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pesar"
+  },
+  "InfP": {
+    "1s": "pesar",
+    "2s": "pesares",
+    "3s": "pesar",
+    "1p": "pesarmos",
+    "2p": "pesardes",
+    "3p": "pesarem"
+  },
+  "Ger": {
+    "": "pesando"
+  },
+  "PresI": {
+    "1s": "peso",
+    "2s": "pesas",
+    "3s": "pesa",
+    "1p": "pesamos",
+    "2p": "pesais",
+    "3p": "pesam"
+  },
+  "PImpI": {
+    "1s": "pesava",
+    "2s": "pesavas",
+    "3s": "pesava",
+    "1p": "pesávamos",
+    "2p": "pesáveis",
+    "3p": "pesavam"
+  },
+  "PPSI": {
+    "1s": "pesei",
+    "2s": "pesaste",
+    "3s": "pesou",
+    "1p": "pesámos",
+    "2p": "pesastes",
+    "3p": "pesaram"
+  },
+  "PMQPSI": {
+    "1s": "pesara",
+    "2s": "pesaras",
+    "3s": "pesara",
+    "1p": "pesáramos",
+    "2p": "pesáreis",
+    "3p": "pesaram"
+  },
+  "FutSI": {
+    "1s": "pesarei",
+    "2s": "pesarás",
+    "3s": "pesará",
+    "1p": "pesaremos",
+    "2p": "pesareis",
+    "3p": "pesarão"
+  },
+  "CondS": {
+    "1s": "pesaria",
+    "2s": "pesarias",
+    "3s": "pesaria",
+    "1p": "pesaríamos",
+    "2p": "pesaríeis",
+    "3p": "pesariam"
+  },
+  "PresC": {
+    "1s": "pese",
+    "2s": "peses",
+    "3s": "pese",
+    "1p": "pesemos",
+    "2p": "peseis",
+    "3p": "pesem"
+  },
+  "PImpC": {
+    "1s": "pesasse",
+    "2s": "pesasses",
+    "3s": "pesasse",
+    "1p": "pesássemos",
+    "2p": "pesásseis",
+    "3p": "pesassem"
+  },
+  "FutSC": {
+    "1s": "pesar",
+    "2s": "pesares",
+    "3s": "pesar",
+    "1p": "pesarmos",
+    "2p": "pesardes",
+    "3p": "pesarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pesa",
+    "3s": "pese",
+    "1p": "pesemos",
+    "2p": "pesai",
+    "3p": "pesem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não peses",
+    "3s": "não pese",
+    "1p": "não pesemos",
+    "2p": "não peseis",
+    "3p": "não pesem"
+  },
+  "Part-ter": {
+    "": "pesado"
+  },
+  "Part-ser": {
+    "ms": "pesado",
+    "fs": "pesada",
+    "mp": "pesados",
+    "fp": "pesadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "remodelar"
+  },
+  "Ger": {
+    "": "remodelando"
+  },
+  "PresI": {
+    "1s": "remodelo",
+    "2s": "remodelas",
+    "3s": "remodela",
+    "1p": "remodelamos",
+    "2p": "remodeláis",
+    "3p": "remodelan"
+  },
+  "PImpI": {
+    "1s": "remodelaba",
+    "2s": "remodelabas",
+    "3s": "remodelaba",
+    "1p": "remodelábamos",
+    "2p": "remodelabais",
+    "3p": "remodelaban"
+  },
+  "PPSI": {
+    "1s": "remodelé",
+    "2s": "remodelaste",
+    "3s": "remodeló",
+    "1p": "remodelamos",
+    "2p": "remodelasteis",
+    "3p": "remodelaron"
+  },
+  "FutSI": {
+    "1s": "remodelaré",
+    "2s": "remodelarás",
+    "3s": "remodelará",
+    "1p": "remodelaremos",
+    "2p": "remodelaréis",
+    "3p": "remodelarán"
+  },
+  "CondS": {
+    "1s": "remodelaría",
+    "2s": "remodelarías",
+    "3s": "remodelaría",
+    "1p": "remodelaríamos",
+    "2p": "remodelaríais",
+    "3p": "remodelarían"
+  },
+  "PresC": {
+    "1s": "remodele",
+    "2s": "remodeles",
+    "3s": "remodele",
+    "1p": "remodelemos",
+    "2p": "remodeléis",
+    "3p": "remodelen"
+  },
+  "PMQPSI": {
+    "1s": "remodelara",
+    "2s": "remodelaras",
+    "3s": "remodelara",
+    "1p": "remodeláramos",
+    "2p": "remodelarais",
+    "3p": "remodelaran"
+  },
+  "PImpC": {
+    "1s": "remodelase",
+    "2s": "remodelases",
+    "3s": "remodelase",
+    "1p": "remodelásemos",
+    "2p": "remodelaseis",
+    "3p": "remodelasen"
+  },
+  "FutSC": {
+    "1s": "remodelare",
+    "2s": "remodelares",
+    "3s": "remodelare",
+    "1p": "remodeláremos",
+    "2p": "remodelareis",
+    "3p": "remodelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remodela",
+    "3s": "remodele",
+    "1p": "remodelemos",
+    "2p": "remodelad",
+    "3p": "remodelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no remodeles",
+    "3s": "no remodele",
+    "1p": "no remodelemos",
+    "2p": "no remodeléis",
+    "3p": "no remodelen"
+  },
+  "Part-ter": {
+    "": "remodelado"
+  },
+  "Part-ser": {
+    "ms": "remodelado",
+    "fs": "remodelada",
+    "mp": "remodelados",
+    "fp": "remodeladas"
+  }
+}

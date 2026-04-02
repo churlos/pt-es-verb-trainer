@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "congestionar"
+  },
+  "InfP": {
+    "1s": "congestionar",
+    "2s": "congestionares",
+    "3s": "congestionar",
+    "1p": "congestionarmos",
+    "2p": "congestionardes",
+    "3p": "congestionarem"
+  },
+  "Ger": {
+    "": "congestionando"
+  },
+  "PresI": {
+    "1s": "congestiono",
+    "2s": "congestionas",
+    "3s": "congestiona",
+    "1p": "congestionamos",
+    "2p": "congestionais",
+    "3p": "congestionam"
+  },
+  "PImpI": {
+    "1s": "congestionava",
+    "2s": "congestionavas",
+    "3s": "congestionava",
+    "1p": "congestionávamos",
+    "2p": "congestionáveis",
+    "3p": "congestionavam"
+  },
+  "PPSI": {
+    "1s": "congestionei",
+    "2s": "congestionaste",
+    "3s": "congestionou",
+    "1p": "congestionámos",
+    "2p": "congestionastes",
+    "3p": "congestionaram"
+  },
+  "PMQPSI": {
+    "1s": "congestionara",
+    "2s": "congestionaras",
+    "3s": "congestionara",
+    "1p": "congestionáramos",
+    "2p": "congestionáreis",
+    "3p": "congestionaram"
+  },
+  "FutSI": {
+    "1s": "congestionarei",
+    "2s": "congestionarás",
+    "3s": "congestionará",
+    "1p": "congestionaremos",
+    "2p": "congestionareis",
+    "3p": "congestionarão"
+  },
+  "CondS": {
+    "1s": "congestionaria",
+    "2s": "congestionarias",
+    "3s": "congestionaria",
+    "1p": "congestionaríamos",
+    "2p": "congestionaríeis",
+    "3p": "congestionariam"
+  },
+  "PresC": {
+    "1s": "congestione",
+    "2s": "congestiones",
+    "3s": "congestione",
+    "1p": "congestionemos",
+    "2p": "congestioneis",
+    "3p": "congestionem"
+  },
+  "PImpC": {
+    "1s": "congestionasse",
+    "2s": "congestionasses",
+    "3s": "congestionasse",
+    "1p": "congestionássemos",
+    "2p": "congestionásseis",
+    "3p": "congestionassem"
+  },
+  "FutSC": {
+    "1s": "congestionar",
+    "2s": "congestionares",
+    "3s": "congestionar",
+    "1p": "congestionarmos",
+    "2p": "congestionardes",
+    "3p": "congestionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "congestiona",
+    "3s": "congestione",
+    "1p": "congestionemos",
+    "2p": "congestionai",
+    "3p": "congestionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não congestiones",
+    "3s": "não congestione",
+    "1p": "não congestionemos",
+    "2p": "não congestioneis",
+    "3p": "não congestionem"
+  },
+  "Part-ter": {
+    "": "congestionado"
+  },
+  "Part-ser": {
+    "ms": "congestionado",
+    "fs": "congestionada",
+    "mp": "congestionados",
+    "fp": "congestionadas"
+  }
+}

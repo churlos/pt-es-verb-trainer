@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aserrar"
+  },
+  "Ger": {
+    "": "aserrando"
+  },
+  "PresI": {
+    "1s": "aserro",
+    "2s": "aserras",
+    "3s": "aserra",
+    "1p": "aserramos",
+    "2p": "aserráis",
+    "3p": "aserran"
+  },
+  "PImpI": {
+    "1s": "aserraba",
+    "2s": "aserrabas",
+    "3s": "aserraba",
+    "1p": "aserrábamos",
+    "2p": "aserrabais",
+    "3p": "aserraban"
+  },
+  "PPSI": {
+    "1s": "aserré",
+    "2s": "aserraste",
+    "3s": "aserró",
+    "1p": "aserramos",
+    "2p": "aserrasteis",
+    "3p": "aserraron"
+  },
+  "FutSI": {
+    "1s": "aserraré",
+    "2s": "aserrarás",
+    "3s": "aserrará",
+    "1p": "aserraremos",
+    "2p": "aserraréis",
+    "3p": "aserrarán"
+  },
+  "CondS": {
+    "1s": "aserraría",
+    "2s": "aserrarías",
+    "3s": "aserraría",
+    "1p": "aserraríamos",
+    "2p": "aserraríais",
+    "3p": "aserrarían"
+  },
+  "PresC": {
+    "1s": "aserre",
+    "2s": "aserres",
+    "3s": "aserre",
+    "1p": "aserremos",
+    "2p": "aserréis",
+    "3p": "aserren"
+  },
+  "PMQPSI": {
+    "1s": "aserrara",
+    "2s": "aserraras",
+    "3s": "aserrara",
+    "1p": "aserráramos",
+    "2p": "aserrarais",
+    "3p": "aserraran"
+  },
+  "PImpC": {
+    "1s": "aserrase",
+    "2s": "aserrases",
+    "3s": "aserrase",
+    "1p": "aserrásemos",
+    "2p": "aserraseis",
+    "3p": "aserrasen"
+  },
+  "FutSC": {
+    "1s": "aserrare",
+    "2s": "aserrares",
+    "3s": "aserrare",
+    "1p": "aserráremos",
+    "2p": "aserrareis",
+    "3p": "aserraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aserra",
+    "3s": "aserre",
+    "1p": "aserremos",
+    "2p": "aserrad",
+    "3p": "aserren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aserres",
+    "3s": "no aserre",
+    "1p": "no aserremos",
+    "2p": "no aserréis",
+    "3p": "no aserren"
+  },
+  "Part-ter": {
+    "": "aserrado"
+  },
+  "Part-ser": {
+    "ms": "aserrado",
+    "fs": "aserrada",
+    "mp": "aserrados",
+    "fp": "aserradas"
+  }
+}

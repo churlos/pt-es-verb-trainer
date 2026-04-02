@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "demandar"
+  },
+  "Ger": {
+    "": "demandando"
+  },
+  "PresI": {
+    "1s": "demando",
+    "2s": "demandas",
+    "3s": "demanda",
+    "1p": "demandamos",
+    "2p": "demandáis",
+    "3p": "demandan"
+  },
+  "PImpI": {
+    "1s": "demandaba",
+    "2s": "demandabas",
+    "3s": "demandaba",
+    "1p": "demandábamos",
+    "2p": "demandabais",
+    "3p": "demandaban"
+  },
+  "PPSI": {
+    "1s": "demandé",
+    "2s": "demandaste",
+    "3s": "demandó",
+    "1p": "demandamos",
+    "2p": "demandasteis",
+    "3p": "demandaron"
+  },
+  "FutSI": {
+    "1s": "demandaré",
+    "2s": "demandarás",
+    "3s": "demandará",
+    "1p": "demandaremos",
+    "2p": "demandaréis",
+    "3p": "demandarán"
+  },
+  "CondS": {
+    "1s": "demandaría",
+    "2s": "demandarías",
+    "3s": "demandaría",
+    "1p": "demandaríamos",
+    "2p": "demandaríais",
+    "3p": "demandarían"
+  },
+  "PresC": {
+    "1s": "demande",
+    "2s": "demandes",
+    "3s": "demande",
+    "1p": "demandemos",
+    "2p": "demandéis",
+    "3p": "demanden"
+  },
+  "PMQPSI": {
+    "1s": "demandara",
+    "2s": "demandaras",
+    "3s": "demandara",
+    "1p": "demandáramos",
+    "2p": "demandarais",
+    "3p": "demandaran"
+  },
+  "PImpC": {
+    "1s": "demandase",
+    "2s": "demandases",
+    "3s": "demandase",
+    "1p": "demandásemos",
+    "2p": "demandaseis",
+    "3p": "demandasen"
+  },
+  "FutSC": {
+    "1s": "demandare",
+    "2s": "demandares",
+    "3s": "demandare",
+    "1p": "demandáremos",
+    "2p": "demandareis",
+    "3p": "demandaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demanda",
+    "3s": "demande",
+    "1p": "demandemos",
+    "2p": "demandad",
+    "3p": "demanden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no demandes",
+    "3s": "no demande",
+    "1p": "no demandemos",
+    "2p": "no demandéis",
+    "3p": "no demanden"
+  },
+  "Part-ter": {
+    "": "demandado"
+  },
+  "Part-ser": {
+    "ms": "demandado",
+    "fs": "demandada",
+    "mp": "demandados",
+    "fp": "demandadas"
+  }
+}

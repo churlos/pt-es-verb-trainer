@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "invenir"
+  },
+  "Ger": {
+    "": "inviniendo"
+  },
+  "PresI": {
+    "1s": "invengo",
+    "2s": "invienes",
+    "3s": "inviene",
+    "1p": "invenimos",
+    "2p": "invenís",
+    "3p": "invienen"
+  },
+  "PImpI": {
+    "1s": "invenía",
+    "2s": "invenías",
+    "3s": "invenía",
+    "1p": "inveníamos",
+    "2p": "inveníais",
+    "3p": "invenían"
+  },
+  "PPSI": {
+    "1s": "invine",
+    "2s": "inviniste",
+    "3s": "invino",
+    "1p": "invinimos",
+    "2p": "invinisteis",
+    "3p": "invinieron"
+  },
+  "FutSI": {
+    "1s": "invendré",
+    "2s": "invendrás",
+    "3s": "invendrá",
+    "1p": "invendremos",
+    "2p": "invendréis",
+    "3p": "invendrán"
+  },
+  "CondS": {
+    "1s": "invendría",
+    "2s": "invendrías",
+    "3s": "invendría",
+    "1p": "invendríamos",
+    "2p": "invendríais",
+    "3p": "invendrían"
+  },
+  "PresC": {
+    "1s": "invenga",
+    "2s": "invengas",
+    "3s": "invenga",
+    "1p": "invengamos",
+    "2p": "invengáis",
+    "3p": "invengan"
+  },
+  "PMQPSI": {
+    "1s": "inviniera",
+    "2s": "invinieras",
+    "3s": "inviniera",
+    "1p": "inviniéramos",
+    "2p": "invinierais",
+    "3p": "invinieran"
+  },
+  "PImpC": {
+    "1s": "inviniese",
+    "2s": "invinieses",
+    "3s": "inviniese",
+    "1p": "inviniésemos",
+    "2p": "invinieseis",
+    "3p": "inviniesen"
+  },
+  "FutSC": {
+    "1s": "inviniere",
+    "2s": "invinieres",
+    "3s": "inviniere",
+    "1p": "inviniéremos",
+    "2p": "inviniereis",
+    "3p": "invinieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invén",
+    "3s": "invenga",
+    "1p": "invengamos",
+    "2p": "invenid",
+    "3p": "invengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no invengas",
+    "3s": "no invenga",
+    "1p": "no invengamos",
+    "2p": "no invengáis",
+    "3p": "no invengan"
+  },
+  "Part-ter": {
+    "": "invenido"
+  },
+  "Part-ser": {
+    "ms": "invenido",
+    "fs": "invenida",
+    "mp": "invenidos",
+    "fp": "invenidas"
+  }
+}

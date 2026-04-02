@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mineralizar"
+  },
+  "InfP": {
+    "1s": "mineralizar",
+    "2s": "mineralizares",
+    "3s": "mineralizar",
+    "1p": "mineralizarmos",
+    "2p": "mineralizardes",
+    "3p": "mineralizarem"
+  },
+  "Ger": {
+    "": "mineralizando"
+  },
+  "PresI": {
+    "1s": "mineralizo",
+    "2s": "mineralizas",
+    "3s": "mineraliza",
+    "1p": "mineralizamos",
+    "2p": "mineralizais",
+    "3p": "mineralizam"
+  },
+  "PImpI": {
+    "1s": "mineralizava",
+    "2s": "mineralizavas",
+    "3s": "mineralizava",
+    "1p": "mineralizávamos",
+    "2p": "mineralizáveis",
+    "3p": "mineralizavam"
+  },
+  "PPSI": {
+    "1s": "mineralizei",
+    "2s": "mineralizaste",
+    "3s": "mineralizou",
+    "1p": "mineralizámos",
+    "2p": "mineralizastes",
+    "3p": "mineralizaram"
+  },
+  "PMQPSI": {
+    "1s": "mineralizara",
+    "2s": "mineralizaras",
+    "3s": "mineralizara",
+    "1p": "mineralizáramos",
+    "2p": "mineralizáreis",
+    "3p": "mineralizaram"
+  },
+  "FutSI": {
+    "1s": "mineralizarei",
+    "2s": "mineralizarás",
+    "3s": "mineralizará",
+    "1p": "mineralizaremos",
+    "2p": "mineralizareis",
+    "3p": "mineralizarão"
+  },
+  "CondS": {
+    "1s": "mineralizaria",
+    "2s": "mineralizarias",
+    "3s": "mineralizaria",
+    "1p": "mineralizaríamos",
+    "2p": "mineralizaríeis",
+    "3p": "mineralizariam"
+  },
+  "PresC": {
+    "1s": "mineralize",
+    "2s": "mineralizes",
+    "3s": "mineralize",
+    "1p": "mineralizemos",
+    "2p": "mineralizeis",
+    "3p": "mineralizem"
+  },
+  "PImpC": {
+    "1s": "mineralizasse",
+    "2s": "mineralizasses",
+    "3s": "mineralizasse",
+    "1p": "mineralizássemos",
+    "2p": "mineralizásseis",
+    "3p": "mineralizassem"
+  },
+  "FutSC": {
+    "1s": "mineralizar",
+    "2s": "mineralizares",
+    "3s": "mineralizar",
+    "1p": "mineralizarmos",
+    "2p": "mineralizardes",
+    "3p": "mineralizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mineraliza",
+    "3s": "mineralize",
+    "1p": "mineralizemos",
+    "2p": "mineralizai",
+    "3p": "mineralizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mineralizes",
+    "3s": "não mineralize",
+    "1p": "não mineralizemos",
+    "2p": "não mineralizeis",
+    "3p": "não mineralizem"
+  },
+  "Part-ter": {
+    "": "mineralizado"
+  },
+  "Part-ser": {
+    "ms": "mineralizado",
+    "fs": "mineralizada",
+    "mp": "mineralizados",
+    "fp": "mineralizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sallar"
+  },
+  "Ger": {
+    "": "sallando"
+  },
+  "PresI": {
+    "1s": "sallo",
+    "2s": "sallas",
+    "3s": "salla",
+    "1p": "sallamos",
+    "2p": "salláis",
+    "3p": "sallan"
+  },
+  "PImpI": {
+    "1s": "sallaba",
+    "2s": "sallabas",
+    "3s": "sallaba",
+    "1p": "sallábamos",
+    "2p": "sallabais",
+    "3p": "sallaban"
+  },
+  "PPSI": {
+    "1s": "sallé",
+    "2s": "sallaste",
+    "3s": "salló",
+    "1p": "sallamos",
+    "2p": "sallasteis",
+    "3p": "sallaron"
+  },
+  "FutSI": {
+    "1s": "sallaré",
+    "2s": "sallarás",
+    "3s": "sallará",
+    "1p": "sallaremos",
+    "2p": "sallaréis",
+    "3p": "sallarán"
+  },
+  "CondS": {
+    "1s": "sallaría",
+    "2s": "sallarías",
+    "3s": "sallaría",
+    "1p": "sallaríamos",
+    "2p": "sallaríais",
+    "3p": "sallarían"
+  },
+  "PresC": {
+    "1s": "salle",
+    "2s": "salles",
+    "3s": "salle",
+    "1p": "sallemos",
+    "2p": "salléis",
+    "3p": "sallen"
+  },
+  "PMQPSI": {
+    "1s": "sallara",
+    "2s": "sallaras",
+    "3s": "sallara",
+    "1p": "salláramos",
+    "2p": "sallarais",
+    "3p": "sallaran"
+  },
+  "PImpC": {
+    "1s": "sallase",
+    "2s": "sallases",
+    "3s": "sallase",
+    "1p": "sallásemos",
+    "2p": "sallaseis",
+    "3p": "sallasen"
+  },
+  "FutSC": {
+    "1s": "sallare",
+    "2s": "sallares",
+    "3s": "sallare",
+    "1p": "salláremos",
+    "2p": "sallareis",
+    "3p": "sallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salla",
+    "3s": "salle",
+    "1p": "sallemos",
+    "2p": "sallad",
+    "3p": "sallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salles",
+    "3s": "no salle",
+    "1p": "no sallemos",
+    "2p": "no salléis",
+    "3p": "no sallen"
+  },
+  "Part-ter": {
+    "": "sallado"
+  },
+  "Part-ser": {
+    "ms": "sallado",
+    "fs": "sallada",
+    "mp": "sallados",
+    "fp": "salladas"
+  }
+}

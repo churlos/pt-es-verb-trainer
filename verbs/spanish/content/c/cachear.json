@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cachear"
+  },
+  "Ger": {
+    "": "cacheando"
+  },
+  "PresI": {
+    "1s": "cacheo",
+    "2s": "cacheas",
+    "3s": "cachea",
+    "1p": "cacheamos",
+    "2p": "cacheáis",
+    "3p": "cachean"
+  },
+  "PImpI": {
+    "1s": "cacheaba",
+    "2s": "cacheabas",
+    "3s": "cacheaba",
+    "1p": "cacheábamos",
+    "2p": "cacheabais",
+    "3p": "cacheaban"
+  },
+  "PPSI": {
+    "1s": "cacheé",
+    "2s": "cacheaste",
+    "3s": "cacheó",
+    "1p": "cacheamos",
+    "2p": "cacheasteis",
+    "3p": "cachearon"
+  },
+  "FutSI": {
+    "1s": "cachearé",
+    "2s": "cachearás",
+    "3s": "cacheará",
+    "1p": "cachearemos",
+    "2p": "cachearéis",
+    "3p": "cachearán"
+  },
+  "CondS": {
+    "1s": "cachearía",
+    "2s": "cachearías",
+    "3s": "cachearía",
+    "1p": "cachearíamos",
+    "2p": "cachearíais",
+    "3p": "cachearían"
+  },
+  "PresC": {
+    "1s": "cachee",
+    "2s": "cachees",
+    "3s": "cachee",
+    "1p": "cacheemos",
+    "2p": "cacheéis",
+    "3p": "cacheen"
+  },
+  "PMQPSI": {
+    "1s": "cacheara",
+    "2s": "cachearas",
+    "3s": "cacheara",
+    "1p": "cacheáramos",
+    "2p": "cachearais",
+    "3p": "cachearan"
+  },
+  "PImpC": {
+    "1s": "cachease",
+    "2s": "cacheases",
+    "3s": "cachease",
+    "1p": "cacheásemos",
+    "2p": "cacheaseis",
+    "3p": "cacheasen"
+  },
+  "FutSC": {
+    "1s": "cacheare",
+    "2s": "cacheares",
+    "3s": "cacheare",
+    "1p": "cacheáremos",
+    "2p": "cacheareis",
+    "3p": "cachearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cachea",
+    "3s": "cachee",
+    "1p": "cacheemos",
+    "2p": "cachead",
+    "3p": "cacheen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cachees",
+    "3s": "no cachee",
+    "1p": "no cacheemos",
+    "2p": "no cacheéis",
+    "3p": "no cacheen"
+  },
+  "Part-ter": {
+    "": "cacheado"
+  },
+  "Part-ser": {
+    "ms": "cacheado",
+    "fs": "cacheada",
+    "mp": "cacheados",
+    "fp": "cacheadas"
+  }
+}

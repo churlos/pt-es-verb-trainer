@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "idear"
+  },
+  "InfP": {
+    "1s": "idear",
+    "2s": "ideares",
+    "3s": "idear",
+    "1p": "idearmos",
+    "2p": "ideardes",
+    "3p": "idearem"
+  },
+  "Ger": {
+    "": "ideando"
+  },
+  "PresI": {
+    "1s": "ideio",
+    "2s": "ideias",
+    "3s": "ideia",
+    "1p": "ideamos",
+    "2p": "ideais",
+    "3p": "ideiam"
+  },
+  "PImpI": {
+    "1s": "ideava",
+    "2s": "ideavas",
+    "3s": "ideava",
+    "1p": "ideávamos",
+    "2p": "ideáveis",
+    "3p": "ideavam"
+  },
+  "PPSI": {
+    "1s": "ideei",
+    "2s": "ideaste",
+    "3s": "ideou",
+    "1p": "ideámos",
+    "2p": "ideastes",
+    "3p": "idearam"
+  },
+  "PMQPSI": {
+    "1s": "ideara",
+    "2s": "idearas",
+    "3s": "ideara",
+    "1p": "ideáramos",
+    "2p": "ideáreis",
+    "3p": "idearam"
+  },
+  "FutSI": {
+    "1s": "idearei",
+    "2s": "idearás",
+    "3s": "ideará",
+    "1p": "idearemos",
+    "2p": "ideareis",
+    "3p": "idearão"
+  },
+  "CondS": {
+    "1s": "idearia",
+    "2s": "idearias",
+    "3s": "idearia",
+    "1p": "idearíamos",
+    "2p": "idearíeis",
+    "3p": "ideariam"
+  },
+  "PresC": {
+    "1s": "ideie",
+    "2s": "ideies",
+    "3s": "ideie",
+    "1p": "ideemos",
+    "2p": "ideeis",
+    "3p": "ideiem"
+  },
+  "PImpC": {
+    "1s": "ideasse",
+    "2s": "ideasses",
+    "3s": "ideasse",
+    "1p": "ideássemos",
+    "2p": "ideásseis",
+    "3p": "ideassem"
+  },
+  "FutSC": {
+    "1s": "idear",
+    "2s": "ideares",
+    "3s": "idear",
+    "1p": "idearmos",
+    "2p": "ideardes",
+    "3p": "idearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ideia",
+    "3s": "ideie",
+    "1p": "ideemos",
+    "2p": "ideai",
+    "3p": "ideiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ideies",
+    "3s": "não ideie",
+    "1p": "não ideemos",
+    "2p": "não ideeis",
+    "3p": "não ideiem"
+  },
+  "Part-ter": {
+    "": "ideado"
+  },
+  "Part-ser": {
+    "ms": "ideado",
+    "fs": "ideada",
+    "mp": "ideados",
+    "fp": "ideadas"
+  }
+}

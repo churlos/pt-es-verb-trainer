@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "recurvar"
+  },
+  "InfP": {
+    "1s": "recurvar",
+    "2s": "recurvares",
+    "3s": "recurvar",
+    "1p": "recurvarmos",
+    "2p": "recurvardes",
+    "3p": "recurvarem"
+  },
+  "Ger": {
+    "": "recurvando"
+  },
+  "PresI": {
+    "1s": "recurvo",
+    "2s": "recurvas",
+    "3s": "recurva",
+    "1p": "recurvamos",
+    "2p": "recurvais",
+    "3p": "recurvam"
+  },
+  "PImpI": {
+    "1s": "recurvava",
+    "2s": "recurvavas",
+    "3s": "recurvava",
+    "1p": "recurvávamos",
+    "2p": "recurváveis",
+    "3p": "recurvavam"
+  },
+  "PPSI": {
+    "1s": "recurvei",
+    "2s": "recurvaste",
+    "3s": "recurvou",
+    "1p": "recurvámos",
+    "2p": "recurvastes",
+    "3p": "recurvaram"
+  },
+  "PMQPSI": {
+    "1s": "recurvara",
+    "2s": "recurvaras",
+    "3s": "recurvara",
+    "1p": "recurváramos",
+    "2p": "recurváreis",
+    "3p": "recurvaram"
+  },
+  "FutSI": {
+    "1s": "recurvarei",
+    "2s": "recurvarás",
+    "3s": "recurvará",
+    "1p": "recurvaremos",
+    "2p": "recurvareis",
+    "3p": "recurvarão"
+  },
+  "CondS": {
+    "1s": "recurvaria",
+    "2s": "recurvarias",
+    "3s": "recurvaria",
+    "1p": "recurvaríamos",
+    "2p": "recurvaríeis",
+    "3p": "recurvariam"
+  },
+  "PresC": {
+    "1s": "recurve",
+    "2s": "recurves",
+    "3s": "recurve",
+    "1p": "recurvemos",
+    "2p": "recurveis",
+    "3p": "recurvem"
+  },
+  "PImpC": {
+    "1s": "recurvasse",
+    "2s": "recurvasses",
+    "3s": "recurvasse",
+    "1p": "recurvássemos",
+    "2p": "recurvásseis",
+    "3p": "recurvassem"
+  },
+  "FutSC": {
+    "1s": "recurvar",
+    "2s": "recurvares",
+    "3s": "recurvar",
+    "1p": "recurvarmos",
+    "2p": "recurvardes",
+    "3p": "recurvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recurva",
+    "3s": "recurve",
+    "1p": "recurvemos",
+    "2p": "recurvai",
+    "3p": "recurvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não recurves",
+    "3s": "não recurve",
+    "1p": "não recurvemos",
+    "2p": "não recurveis",
+    "3p": "não recurvem"
+  },
+  "Part-ter": {
+    "": "recurvado"
+  },
+  "Part-ser": {
+    "ms": "recurvado",
+    "fs": "recurvada",
+    "mp": "recurvados",
+    "fp": "recurvadas"
+  }
+}

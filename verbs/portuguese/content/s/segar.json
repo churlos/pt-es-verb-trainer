@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "segar"
+  },
+  "InfP": {
+    "1s": "segar",
+    "2s": "segares",
+    "3s": "segar",
+    "1p": "segarmos",
+    "2p": "segardes",
+    "3p": "segarem"
+  },
+  "Ger": {
+    "": "segando"
+  },
+  "PresI": {
+    "1s": "sego",
+    "2s": "segas",
+    "3s": "sega",
+    "1p": "segamos",
+    "2p": "segais",
+    "3p": "segam"
+  },
+  "PImpI": {
+    "1s": "segava",
+    "2s": "segavas",
+    "3s": "segava",
+    "1p": "segávamos",
+    "2p": "segáveis",
+    "3p": "segavam"
+  },
+  "PPSI": {
+    "1s": "seguei",
+    "2s": "segaste",
+    "3s": "segou",
+    "1p": "segámos",
+    "2p": "segastes",
+    "3p": "segaram"
+  },
+  "PMQPSI": {
+    "1s": "segara",
+    "2s": "segaras",
+    "3s": "segara",
+    "1p": "segáramos",
+    "2p": "segáreis",
+    "3p": "segaram"
+  },
+  "FutSI": {
+    "1s": "segarei",
+    "2s": "segarás",
+    "3s": "segará",
+    "1p": "segaremos",
+    "2p": "segareis",
+    "3p": "segarão"
+  },
+  "CondS": {
+    "1s": "segaria",
+    "2s": "segarias",
+    "3s": "segaria",
+    "1p": "segaríamos",
+    "2p": "segaríeis",
+    "3p": "segariam"
+  },
+  "PresC": {
+    "1s": "segue",
+    "2s": "segues",
+    "3s": "segue",
+    "1p": "seguemos",
+    "2p": "segueis",
+    "3p": "seguem"
+  },
+  "PImpC": {
+    "1s": "segasse",
+    "2s": "segasses",
+    "3s": "segasse",
+    "1p": "segássemos",
+    "2p": "segásseis",
+    "3p": "segassem"
+  },
+  "FutSC": {
+    "1s": "segar",
+    "2s": "segares",
+    "3s": "segar",
+    "1p": "segarmos",
+    "2p": "segardes",
+    "3p": "segarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sega",
+    "3s": "segue",
+    "1p": "seguemos",
+    "2p": "segai",
+    "3p": "seguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não segues",
+    "3s": "não segue",
+    "1p": "não seguemos",
+    "2p": "não segueis",
+    "3p": "não seguem"
+  },
+  "Part-ter": {
+    "": "segado"
+  },
+  "Part-ser": {
+    "ms": "segado",
+    "fs": "segada",
+    "mp": "segados",
+    "fp": "segadas"
+  }
+}

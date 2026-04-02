@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "interceder"
+  },
+  "InfP": {
+    "1s": "interceder",
+    "2s": "intercederes",
+    "3s": "interceder",
+    "1p": "intercedermos",
+    "2p": "intercederdes",
+    "3p": "intercederem"
+  },
+  "Ger": {
+    "": "intercedendo"
+  },
+  "PresI": {
+    "1s": "intercedo",
+    "2s": "intercedes",
+    "3s": "intercede",
+    "1p": "intercedemos",
+    "2p": "intercedeis",
+    "3p": "intercedem"
+  },
+  "PImpI": {
+    "1s": "intercedia",
+    "2s": "intercedias",
+    "3s": "intercedia",
+    "1p": "intercedíamos",
+    "2p": "intercedíeis",
+    "3p": "intercediam"
+  },
+  "PPSI": {
+    "1s": "intercedi",
+    "2s": "intercedeste",
+    "3s": "intercedeu",
+    "1p": "intercedemos",
+    "2p": "intercedestes",
+    "3p": "intercederam"
+  },
+  "PMQPSI": {
+    "1s": "intercedera",
+    "2s": "intercederas",
+    "3s": "intercedera",
+    "1p": "intercedêramos",
+    "2p": "intercedêreis",
+    "3p": "intercederam"
+  },
+  "FutSI": {
+    "1s": "intercederei",
+    "2s": "intercederás",
+    "3s": "intercederá",
+    "1p": "intercederemos",
+    "2p": "intercedereis",
+    "3p": "intercederão"
+  },
+  "CondS": {
+    "1s": "intercederia",
+    "2s": "intercederias",
+    "3s": "intercederia",
+    "1p": "intercederíamos",
+    "2p": "intercederíeis",
+    "3p": "intercederiam"
+  },
+  "PresC": {
+    "1s": "interceda",
+    "2s": "intercedas",
+    "3s": "interceda",
+    "1p": "intercedamos",
+    "2p": "intercedais",
+    "3p": "intercedam"
+  },
+  "PImpC": {
+    "1s": "intercedesse",
+    "2s": "intercedesses",
+    "3s": "intercedesse",
+    "1p": "intercedêssemos",
+    "2p": "intercedêsseis",
+    "3p": "intercedessem"
+  },
+  "FutSC": {
+    "1s": "interceder",
+    "2s": "intercederes",
+    "3s": "interceder",
+    "1p": "intercedermos",
+    "2p": "intercederdes",
+    "3p": "intercederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intercede",
+    "3s": "interceda",
+    "1p": "intercedamos",
+    "2p": "intercedei",
+    "3p": "intercedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não intercedas",
+    "3s": "não interceda",
+    "1p": "não intercedamos",
+    "2p": "não intercedais",
+    "3p": "não intercedam"
+  },
+  "Part-ter": {
+    "": "intercedido"
+  },
+  "Part-ser": {
+    "ms": "intercedido",
+    "fs": "intercedida",
+    "mp": "intercedidos",
+    "fp": "intercedidas"
+  }
+}

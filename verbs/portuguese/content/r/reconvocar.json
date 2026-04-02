@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reconvocar"
+  },
+  "InfP": {
+    "1s": "reconvocar",
+    "2s": "reconvocares",
+    "3s": "reconvocar",
+    "1p": "reconvocarmos",
+    "2p": "reconvocardes",
+    "3p": "reconvocarem"
+  },
+  "Ger": {
+    "": "reconvocando"
+  },
+  "PresI": {
+    "1s": "reconvoco",
+    "2s": "reconvocas",
+    "3s": "reconvoca",
+    "1p": "reconvocamos",
+    "2p": "reconvocais",
+    "3p": "reconvocam"
+  },
+  "PImpI": {
+    "1s": "reconvocava",
+    "2s": "reconvocavas",
+    "3s": "reconvocava",
+    "1p": "reconvocávamos",
+    "2p": "reconvocáveis",
+    "3p": "reconvocavam"
+  },
+  "PPSI": {
+    "1s": "reconvoquei",
+    "2s": "reconvocaste",
+    "3s": "reconvocou",
+    "1p": "reconvocámos",
+    "2p": "reconvocastes",
+    "3p": "reconvocaram"
+  },
+  "PMQPSI": {
+    "1s": "reconvocara",
+    "2s": "reconvocaras",
+    "3s": "reconvocara",
+    "1p": "reconvocáramos",
+    "2p": "reconvocáreis",
+    "3p": "reconvocaram"
+  },
+  "FutSI": {
+    "1s": "reconvocarei",
+    "2s": "reconvocarás",
+    "3s": "reconvocará",
+    "1p": "reconvocaremos",
+    "2p": "reconvocareis",
+    "3p": "reconvocarão"
+  },
+  "CondS": {
+    "1s": "reconvocaria",
+    "2s": "reconvocarias",
+    "3s": "reconvocaria",
+    "1p": "reconvocaríamos",
+    "2p": "reconvocaríeis",
+    "3p": "reconvocariam"
+  },
+  "PresC": {
+    "1s": "reconvoque",
+    "2s": "reconvoques",
+    "3s": "reconvoque",
+    "1p": "reconvoquemos",
+    "2p": "reconvoqueis",
+    "3p": "reconvoquem"
+  },
+  "PImpC": {
+    "1s": "reconvocasse",
+    "2s": "reconvocasses",
+    "3s": "reconvocasse",
+    "1p": "reconvocássemos",
+    "2p": "reconvocásseis",
+    "3p": "reconvocassem"
+  },
+  "FutSC": {
+    "1s": "reconvocar",
+    "2s": "reconvocares",
+    "3s": "reconvocar",
+    "1p": "reconvocarmos",
+    "2p": "reconvocardes",
+    "3p": "reconvocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reconvoca",
+    "3s": "reconvoque",
+    "1p": "reconvoquemos",
+    "2p": "reconvocai",
+    "3p": "reconvoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reconvoques",
+    "3s": "não reconvoque",
+    "1p": "não reconvoquemos",
+    "2p": "não reconvoqueis",
+    "3p": "não reconvoquem"
+  },
+  "Part-ter": {
+    "": "reconvocado"
+  },
+  "Part-ser": {
+    "ms": "reconvocado",
+    "fs": "reconvocada",
+    "mp": "reconvocados",
+    "fp": "reconvocadas"
+  }
+}

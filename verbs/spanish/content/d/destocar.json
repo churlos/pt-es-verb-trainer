@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "destocar"
+  },
+  "Ger": {
+    "": "destocando"
+  },
+  "PresI": {
+    "1s": "destoco",
+    "2s": "destocas",
+    "3s": "destoca",
+    "1p": "destocamos",
+    "2p": "destocáis",
+    "3p": "destocan"
+  },
+  "PImpI": {
+    "1s": "destocaba",
+    "2s": "destocabas",
+    "3s": "destocaba",
+    "1p": "destocábamos",
+    "2p": "destocabais",
+    "3p": "destocaban"
+  },
+  "PPSI": {
+    "1s": "destoqué",
+    "2s": "destocaste",
+    "3s": "destocó",
+    "1p": "destocamos",
+    "2p": "destocasteis",
+    "3p": "destocaron"
+  },
+  "FutSI": {
+    "1s": "destocaré",
+    "2s": "destocarás",
+    "3s": "destocará",
+    "1p": "destocaremos",
+    "2p": "destocaréis",
+    "3p": "destocarán"
+  },
+  "CondS": {
+    "1s": "destocaría",
+    "2s": "destocarías",
+    "3s": "destocaría",
+    "1p": "destocaríamos",
+    "2p": "destocaríais",
+    "3p": "destocarían"
+  },
+  "PresC": {
+    "1s": "destoque",
+    "2s": "destoques",
+    "3s": "destoque",
+    "1p": "destoquemos",
+    "2p": "destoquéis",
+    "3p": "destoquen"
+  },
+  "PMQPSI": {
+    "1s": "destocara",
+    "2s": "destocaras",
+    "3s": "destocara",
+    "1p": "destocáramos",
+    "2p": "destocarais",
+    "3p": "destocaran"
+  },
+  "PImpC": {
+    "1s": "destocase",
+    "2s": "destocases",
+    "3s": "destocase",
+    "1p": "destocásemos",
+    "2p": "destocaseis",
+    "3p": "destocasen"
+  },
+  "FutSC": {
+    "1s": "destocare",
+    "2s": "destocares",
+    "3s": "destocare",
+    "1p": "destocáremos",
+    "2p": "destocareis",
+    "3p": "destocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destoca",
+    "3s": "destoque",
+    "1p": "destoquemos",
+    "2p": "destocad",
+    "3p": "destoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no destoques",
+    "3s": "no destoque",
+    "1p": "no destoquemos",
+    "2p": "no destoquéis",
+    "3p": "no destoquen"
+  },
+  "Part-ter": {
+    "": "destocado"
+  },
+  "Part-ser": {
+    "ms": "destocado",
+    "fs": "destocada",
+    "mp": "destocados",
+    "fp": "destocadas"
+  }
+}

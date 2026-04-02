@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "topar"
+  },
+  "InfP": {
+    "1s": "topar",
+    "2s": "topares",
+    "3s": "topar",
+    "1p": "toparmos",
+    "2p": "topardes",
+    "3p": "toparem"
+  },
+  "Ger": {
+    "": "topando"
+  },
+  "PresI": {
+    "1s": "topo",
+    "2s": "topas",
+    "3s": "topa",
+    "1p": "topamos",
+    "2p": "topais",
+    "3p": "topam"
+  },
+  "PImpI": {
+    "1s": "topava",
+    "2s": "topavas",
+    "3s": "topava",
+    "1p": "topávamos",
+    "2p": "topáveis",
+    "3p": "topavam"
+  },
+  "PPSI": {
+    "1s": "topei",
+    "2s": "topaste",
+    "3s": "topou",
+    "1p": "topámos",
+    "2p": "topastes",
+    "3p": "toparam"
+  },
+  "PMQPSI": {
+    "1s": "topara",
+    "2s": "toparas",
+    "3s": "topara",
+    "1p": "topáramos",
+    "2p": "topáreis",
+    "3p": "toparam"
+  },
+  "FutSI": {
+    "1s": "toparei",
+    "2s": "toparás",
+    "3s": "topará",
+    "1p": "toparemos",
+    "2p": "topareis",
+    "3p": "toparão"
+  },
+  "CondS": {
+    "1s": "toparia",
+    "2s": "toparias",
+    "3s": "toparia",
+    "1p": "toparíamos",
+    "2p": "toparíeis",
+    "3p": "topariam"
+  },
+  "PresC": {
+    "1s": "tope",
+    "2s": "topes",
+    "3s": "tope",
+    "1p": "topemos",
+    "2p": "topeis",
+    "3p": "topem"
+  },
+  "PImpC": {
+    "1s": "topasse",
+    "2s": "topasses",
+    "3s": "topasse",
+    "1p": "topássemos",
+    "2p": "topásseis",
+    "3p": "topassem"
+  },
+  "FutSC": {
+    "1s": "topar",
+    "2s": "topares",
+    "3s": "topar",
+    "1p": "toparmos",
+    "2p": "topardes",
+    "3p": "toparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "topa",
+    "3s": "tope",
+    "1p": "topemos",
+    "2p": "topai",
+    "3p": "topem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não topes",
+    "3s": "não tope",
+    "1p": "não topemos",
+    "2p": "não topeis",
+    "3p": "não topem"
+  },
+  "Part-ter": {
+    "": "topado"
+  },
+  "Part-ser": {
+    "ms": "topado",
+    "fs": "topada",
+    "mp": "topados",
+    "fp": "topadas"
+  }
+}

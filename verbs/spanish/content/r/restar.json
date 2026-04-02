@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "restar"
+  },
+  "Ger": {
+    "": "restando"
+  },
+  "PresI": {
+    "1s": "resto",
+    "2s": "restas",
+    "3s": "resta",
+    "1p": "restamos",
+    "2p": "restáis",
+    "3p": "restan"
+  },
+  "PImpI": {
+    "1s": "restaba",
+    "2s": "restabas",
+    "3s": "restaba",
+    "1p": "restábamos",
+    "2p": "restabais",
+    "3p": "restaban"
+  },
+  "PPSI": {
+    "1s": "resté",
+    "2s": "restaste",
+    "3s": "restó",
+    "1p": "restamos",
+    "2p": "restasteis",
+    "3p": "restaron"
+  },
+  "FutSI": {
+    "1s": "restaré",
+    "2s": "restarás",
+    "3s": "restará",
+    "1p": "restaremos",
+    "2p": "restaréis",
+    "3p": "restarán"
+  },
+  "CondS": {
+    "1s": "restaría",
+    "2s": "restarías",
+    "3s": "restaría",
+    "1p": "restaríamos",
+    "2p": "restaríais",
+    "3p": "restarían"
+  },
+  "PresC": {
+    "1s": "reste",
+    "2s": "restes",
+    "3s": "reste",
+    "1p": "restemos",
+    "2p": "restéis",
+    "3p": "resten"
+  },
+  "PMQPSI": {
+    "1s": "restara",
+    "2s": "restaras",
+    "3s": "restara",
+    "1p": "restáramos",
+    "2p": "restarais",
+    "3p": "restaran"
+  },
+  "PImpC": {
+    "1s": "restase",
+    "2s": "restases",
+    "3s": "restase",
+    "1p": "restásemos",
+    "2p": "restaseis",
+    "3p": "restasen"
+  },
+  "FutSC": {
+    "1s": "restare",
+    "2s": "restares",
+    "3s": "restare",
+    "1p": "restáremos",
+    "2p": "restareis",
+    "3p": "restaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resta",
+    "3s": "reste",
+    "1p": "restemos",
+    "2p": "restad",
+    "3p": "resten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no restes",
+    "3s": "no reste",
+    "1p": "no restemos",
+    "2p": "no restéis",
+    "3p": "no resten"
+  },
+  "Part-ter": {
+    "": "restado"
+  },
+  "Part-ser": {
+    "ms": "restado",
+    "fs": "restada",
+    "mp": "restados",
+    "fp": "restadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amover"
+  },
+  "Ger": {
+    "": "amoviendo"
+  },
+  "PresI": {
+    "1s": "amuevo",
+    "2s": "amueves",
+    "3s": "amueve",
+    "1p": "amovemos",
+    "2p": "amovéis",
+    "3p": "amueven"
+  },
+  "PImpI": {
+    "1s": "amovía",
+    "2s": "amovías",
+    "3s": "amovía",
+    "1p": "amovíamos",
+    "2p": "amovíais",
+    "3p": "amovían"
+  },
+  "PPSI": {
+    "1s": "amoví",
+    "2s": "amoviste",
+    "3s": "amovió",
+    "1p": "amovimos",
+    "2p": "amovisteis",
+    "3p": "amovieron"
+  },
+  "FutSI": {
+    "1s": "amoveré",
+    "2s": "amoverás",
+    "3s": "amoverá",
+    "1p": "amoveremos",
+    "2p": "amoveréis",
+    "3p": "amoverán"
+  },
+  "CondS": {
+    "1s": "amovería",
+    "2s": "amoverías",
+    "3s": "amovería",
+    "1p": "amoveríamos",
+    "2p": "amoveríais",
+    "3p": "amoverían"
+  },
+  "PresC": {
+    "1s": "amueva",
+    "2s": "amuevas",
+    "3s": "amueva",
+    "1p": "amovamos",
+    "2p": "amováis",
+    "3p": "amuevan"
+  },
+  "PMQPSI": {
+    "1s": "amoviera",
+    "2s": "amovieras",
+    "3s": "amoviera",
+    "1p": "amoviéramos",
+    "2p": "amovierais",
+    "3p": "amovieran"
+  },
+  "PImpC": {
+    "1s": "amoviese",
+    "2s": "amovieses",
+    "3s": "amoviese",
+    "1p": "amoviésemos",
+    "2p": "amovieseis",
+    "3p": "amoviesen"
+  },
+  "FutSC": {
+    "1s": "amoviere",
+    "2s": "amovieres",
+    "3s": "amoviere",
+    "1p": "amoviéremos",
+    "2p": "amoviereis",
+    "3p": "amovieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amueve",
+    "3s": "amueva",
+    "1p": "amovamos",
+    "2p": "amoved",
+    "3p": "amuevan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amuevas",
+    "3s": "no amueva",
+    "1p": "no amovamos",
+    "2p": "no amováis",
+    "3p": "no amuevan"
+  },
+  "Part-ter": {
+    "": "amovido"
+  },
+  "Part-ser": {
+    "ms": "amovido",
+    "fs": "amovida",
+    "mp": "amovidos",
+    "fp": "amovidas"
+  }
+}

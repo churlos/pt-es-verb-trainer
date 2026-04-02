@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "componer"
+  },
+  "Ger": {
+    "": "componiendo"
+  },
+  "PresI": {
+    "1s": "compongo",
+    "2s": "compones",
+    "3s": "compone",
+    "1p": "componemos",
+    "2p": "componéis",
+    "3p": "componen"
+  },
+  "PImpI": {
+    "1s": "componía",
+    "2s": "componías",
+    "3s": "componía",
+    "1p": "componíamos",
+    "2p": "componíais",
+    "3p": "componían"
+  },
+  "PPSI": {
+    "1s": "compuse",
+    "2s": "compusiste",
+    "3s": "compuso",
+    "1p": "compusimos",
+    "2p": "compusisteis",
+    "3p": "compusieron"
+  },
+  "FutSI": {
+    "1s": "compondré",
+    "2s": "compondrás",
+    "3s": "compondrá",
+    "1p": "compondremos",
+    "2p": "compondréis",
+    "3p": "compondrán"
+  },
+  "CondS": {
+    "1s": "compondría",
+    "2s": "compondrías",
+    "3s": "compondría",
+    "1p": "compondríamos",
+    "2p": "compondríais",
+    "3p": "compondrían"
+  },
+  "PresC": {
+    "1s": "componga",
+    "2s": "compongas",
+    "3s": "componga",
+    "1p": "compongamos",
+    "2p": "compongáis",
+    "3p": "compongan"
+  },
+  "PMQPSI": {
+    "1s": "compusiera",
+    "2s": "compusieras",
+    "3s": "compusiera",
+    "1p": "compusiéramos",
+    "2p": "compusierais",
+    "3p": "compusieran"
+  },
+  "PImpC": {
+    "1s": "compusiese",
+    "2s": "compusieses",
+    "3s": "compusiese",
+    "1p": "compusiésemos",
+    "2p": "compusieseis",
+    "3p": "compusiesen"
+  },
+  "FutSC": {
+    "1s": "compusiere",
+    "2s": "compusieres",
+    "3s": "compusiere",
+    "1p": "compusiéremos",
+    "2p": "compusiereis",
+    "3p": "compusieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compón",
+    "3s": "componga",
+    "1p": "compongamos",
+    "2p": "componed",
+    "3p": "compongan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no compongas",
+    "3s": "no componga",
+    "1p": "no compongamos",
+    "2p": "no compongáis",
+    "3p": "no compongan"
+  },
+  "Part-ter": {
+    "": "compuesto"
+  },
+  "Part-ser": {
+    "ms": "compuesto",
+    "fs": "compuesta",
+    "mp": "compuestos",
+    "fp": "compuestas"
+  }
+}

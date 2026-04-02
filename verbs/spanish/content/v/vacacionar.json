@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vacacionar"
+  },
+  "Ger": {
+    "": "vacacionando"
+  },
+  "PresI": {
+    "1s": "vacaciono",
+    "2s": "vacacionas",
+    "3s": "vacaciona",
+    "1p": "vacacionamos",
+    "2p": "vacacionáis",
+    "3p": "vacacionan"
+  },
+  "PImpI": {
+    "1s": "vacacionaba",
+    "2s": "vacacionabas",
+    "3s": "vacacionaba",
+    "1p": "vacacionábamos",
+    "2p": "vacacionabais",
+    "3p": "vacacionaban"
+  },
+  "PPSI": {
+    "1s": "vacacioné",
+    "2s": "vacacionaste",
+    "3s": "vacacionó",
+    "1p": "vacacionamos",
+    "2p": "vacacionasteis",
+    "3p": "vacacionaron"
+  },
+  "FutSI": {
+    "1s": "vacacionaré",
+    "2s": "vacacionarás",
+    "3s": "vacacionará",
+    "1p": "vacacionaremos",
+    "2p": "vacacionaréis",
+    "3p": "vacacionarán"
+  },
+  "CondS": {
+    "1s": "vacacionaría",
+    "2s": "vacacionarías",
+    "3s": "vacacionaría",
+    "1p": "vacacionaríamos",
+    "2p": "vacacionaríais",
+    "3p": "vacacionarían"
+  },
+  "PresC": {
+    "1s": "vacacione",
+    "2s": "vacaciones",
+    "3s": "vacacione",
+    "1p": "vacacionemos",
+    "2p": "vacacionéis",
+    "3p": "vacacionen"
+  },
+  "PMQPSI": {
+    "1s": "vacacionara",
+    "2s": "vacacionaras",
+    "3s": "vacacionara",
+    "1p": "vacacionáramos",
+    "2p": "vacacionarais",
+    "3p": "vacacionaran"
+  },
+  "PImpC": {
+    "1s": "vacacionase",
+    "2s": "vacacionases",
+    "3s": "vacacionase",
+    "1p": "vacacionásemos",
+    "2p": "vacacionaseis",
+    "3p": "vacacionasen"
+  },
+  "FutSC": {
+    "1s": "vacacionare",
+    "2s": "vacacionares",
+    "3s": "vacacionare",
+    "1p": "vacacionáremos",
+    "2p": "vacacionareis",
+    "3p": "vacacionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vacaciona",
+    "3s": "vacacione",
+    "1p": "vacacionemos",
+    "2p": "vacacionad",
+    "3p": "vacacionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vacaciones",
+    "3s": "no vacacione",
+    "1p": "no vacacionemos",
+    "2p": "no vacacionéis",
+    "3p": "no vacacionen"
+  },
+  "Part-ter": {
+    "": "vacacionado"
+  },
+  "Part-ser": {
+    "ms": "vacacionado",
+    "fs": "vacacionada",
+    "mp": "vacacionados",
+    "fp": "vacacionadas"
+  }
+}

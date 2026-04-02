@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perlavar"
+  },
+  "InfP": {
+    "1s": "perlavar",
+    "2s": "perlavares",
+    "3s": "perlavar",
+    "1p": "perlavarmos",
+    "2p": "perlavardes",
+    "3p": "perlavarem"
+  },
+  "Ger": {
+    "": "perlavando"
+  },
+  "PresI": {
+    "1s": "perlavo",
+    "2s": "perlavas",
+    "3s": "perlava",
+    "1p": "perlavamos",
+    "2p": "perlavais",
+    "3p": "perlavam"
+  },
+  "PImpI": {
+    "1s": "perlavava",
+    "2s": "perlavavas",
+    "3s": "perlavava",
+    "1p": "perlavávamos",
+    "2p": "perlaváveis",
+    "3p": "perlavavam"
+  },
+  "PPSI": {
+    "1s": "perlavei",
+    "2s": "perlavaste",
+    "3s": "perlavou",
+    "1p": "perlavámos",
+    "2p": "perlavastes",
+    "3p": "perlavaram"
+  },
+  "PMQPSI": {
+    "1s": "perlavara",
+    "2s": "perlavaras",
+    "3s": "perlavara",
+    "1p": "perlaváramos",
+    "2p": "perlaváreis",
+    "3p": "perlavaram"
+  },
+  "FutSI": {
+    "1s": "perlavarei",
+    "2s": "perlavarás",
+    "3s": "perlavará",
+    "1p": "perlavaremos",
+    "2p": "perlavareis",
+    "3p": "perlavarão"
+  },
+  "CondS": {
+    "1s": "perlavaria",
+    "2s": "perlavarias",
+    "3s": "perlavaria",
+    "1p": "perlavaríamos",
+    "2p": "perlavaríeis",
+    "3p": "perlavariam"
+  },
+  "PresC": {
+    "1s": "perlave",
+    "2s": "perlaves",
+    "3s": "perlave",
+    "1p": "perlavemos",
+    "2p": "perlaveis",
+    "3p": "perlavem"
+  },
+  "PImpC": {
+    "1s": "perlavasse",
+    "2s": "perlavasses",
+    "3s": "perlavasse",
+    "1p": "perlavássemos",
+    "2p": "perlavásseis",
+    "3p": "perlavassem"
+  },
+  "FutSC": {
+    "1s": "perlavar",
+    "2s": "perlavares",
+    "3s": "perlavar",
+    "1p": "perlavarmos",
+    "2p": "perlavardes",
+    "3p": "perlavarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perlava",
+    "3s": "perlave",
+    "1p": "perlavemos",
+    "2p": "perlavai",
+    "3p": "perlavem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não perlaves",
+    "3s": "não perlave",
+    "1p": "não perlavemos",
+    "2p": "não perlaveis",
+    "3p": "não perlavem"
+  },
+  "Part-ter": {
+    "": "perlavado"
+  },
+  "Part-ser": {
+    "ms": "perlavado",
+    "fs": "perlavada",
+    "mp": "perlavados",
+    "fp": "perlavadas"
+  }
+}

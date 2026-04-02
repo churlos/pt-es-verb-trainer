@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hostigar"
+  },
+  "Ger": {
+    "": "hostigando"
+  },
+  "PresI": {
+    "1s": "hostigo",
+    "2s": "hostigas",
+    "3s": "hostiga",
+    "1p": "hostigamos",
+    "2p": "hostigáis",
+    "3p": "hostigan"
+  },
+  "PImpI": {
+    "1s": "hostigaba",
+    "2s": "hostigabas",
+    "3s": "hostigaba",
+    "1p": "hostigábamos",
+    "2p": "hostigabais",
+    "3p": "hostigaban"
+  },
+  "PPSI": {
+    "1s": "hostigué",
+    "2s": "hostigaste",
+    "3s": "hostigó",
+    "1p": "hostigamos",
+    "2p": "hostigasteis",
+    "3p": "hostigaron"
+  },
+  "FutSI": {
+    "1s": "hostigaré",
+    "2s": "hostigarás",
+    "3s": "hostigará",
+    "1p": "hostigaremos",
+    "2p": "hostigaréis",
+    "3p": "hostigarán"
+  },
+  "CondS": {
+    "1s": "hostigaría",
+    "2s": "hostigarías",
+    "3s": "hostigaría",
+    "1p": "hostigaríamos",
+    "2p": "hostigaríais",
+    "3p": "hostigarían"
+  },
+  "PresC": {
+    "1s": "hostigue",
+    "2s": "hostigues",
+    "3s": "hostigue",
+    "1p": "hostiguemos",
+    "2p": "hostiguéis",
+    "3p": "hostiguen"
+  },
+  "PMQPSI": {
+    "1s": "hostigara",
+    "2s": "hostigaras",
+    "3s": "hostigara",
+    "1p": "hostigáramos",
+    "2p": "hostigarais",
+    "3p": "hostigaran"
+  },
+  "PImpC": {
+    "1s": "hostigase",
+    "2s": "hostigases",
+    "3s": "hostigase",
+    "1p": "hostigásemos",
+    "2p": "hostigaseis",
+    "3p": "hostigasen"
+  },
+  "FutSC": {
+    "1s": "hostigare",
+    "2s": "hostigares",
+    "3s": "hostigare",
+    "1p": "hostigáremos",
+    "2p": "hostigareis",
+    "3p": "hostigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hostiga",
+    "3s": "hostigue",
+    "1p": "hostiguemos",
+    "2p": "hostigad",
+    "3p": "hostiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hostigues",
+    "3s": "no hostigue",
+    "1p": "no hostiguemos",
+    "2p": "no hostiguéis",
+    "3p": "no hostiguen"
+  },
+  "Part-ter": {
+    "": "hostigado"
+  },
+  "Part-ser": {
+    "ms": "hostigado",
+    "fs": "hostigada",
+    "mp": "hostigados",
+    "fp": "hostigadas"
+  }
+}

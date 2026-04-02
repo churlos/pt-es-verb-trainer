@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "irradiar"
+  },
+  "Ger": {
+    "": "irradiando"
+  },
+  "PresI": {
+    "1s": "irradio",
+    "2s": "irradias",
+    "3s": "irradia",
+    "1p": "irradiamos",
+    "2p": "irradiáis",
+    "3p": "irradian"
+  },
+  "PImpI": {
+    "1s": "irradiaba",
+    "2s": "irradiabas",
+    "3s": "irradiaba",
+    "1p": "irradiábamos",
+    "2p": "irradiabais",
+    "3p": "irradiaban"
+  },
+  "PPSI": {
+    "1s": "irradié",
+    "2s": "irradiaste",
+    "3s": "irradió",
+    "1p": "irradiamos",
+    "2p": "irradiasteis",
+    "3p": "irradiaron"
+  },
+  "FutSI": {
+    "1s": "irradiaré",
+    "2s": "irradiarás",
+    "3s": "irradiará",
+    "1p": "irradiaremos",
+    "2p": "irradiaréis",
+    "3p": "irradiarán"
+  },
+  "CondS": {
+    "1s": "irradiaría",
+    "2s": "irradiarías",
+    "3s": "irradiaría",
+    "1p": "irradiaríamos",
+    "2p": "irradiaríais",
+    "3p": "irradiarían"
+  },
+  "PresC": {
+    "1s": "irradie",
+    "2s": "irradies",
+    "3s": "irradie",
+    "1p": "irradiemos",
+    "2p": "irradiéis",
+    "3p": "irradien"
+  },
+  "PMQPSI": {
+    "1s": "irradiara",
+    "2s": "irradiaras",
+    "3s": "irradiara",
+    "1p": "irradiáramos",
+    "2p": "irradiarais",
+    "3p": "irradiaran"
+  },
+  "PImpC": {
+    "1s": "irradiase",
+    "2s": "irradiases",
+    "3s": "irradiase",
+    "1p": "irradiásemos",
+    "2p": "irradiaseis",
+    "3p": "irradiasen"
+  },
+  "FutSC": {
+    "1s": "irradiare",
+    "2s": "irradiares",
+    "3s": "irradiare",
+    "1p": "irradiáremos",
+    "2p": "irradiareis",
+    "3p": "irradiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "irradia",
+    "3s": "irradie",
+    "1p": "irradiemos",
+    "2p": "irradiad",
+    "3p": "irradien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no irradies",
+    "3s": "no irradie",
+    "1p": "no irradiemos",
+    "2p": "no irradiéis",
+    "3p": "no irradien"
+  },
+  "Part-ter": {
+    "": "irradiado"
+  },
+  "Part-ser": {
+    "ms": "irradiado",
+    "fs": "irradiada",
+    "mp": "irradiados",
+    "fp": "irradiadas"
+  }
+}

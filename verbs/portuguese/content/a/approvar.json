@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "approvar"
+  },
+  "InfP": {
+    "1s": "approvar",
+    "2s": "approvares",
+    "3s": "approvar",
+    "1p": "approvarmos",
+    "2p": "approvardes",
+    "3p": "approvarem"
+  },
+  "Ger": {
+    "": "approvando"
+  },
+  "PresI": {
+    "1s": "approvo",
+    "2s": "approvas",
+    "3s": "approva",
+    "1p": "approvamos",
+    "2p": "approvais",
+    "3p": "approvam"
+  },
+  "PImpI": {
+    "1s": "approvava",
+    "2s": "approvavas",
+    "3s": "approvava",
+    "1p": "approvávamos",
+    "2p": "approváveis",
+    "3p": "approvavam"
+  },
+  "PPSI": {
+    "1s": "approvei",
+    "2s": "approvaste",
+    "3s": "approvou",
+    "1p": "approvámos",
+    "2p": "approvastes",
+    "3p": "approvaram"
+  },
+  "PMQPSI": {
+    "1s": "approvara",
+    "2s": "approvaras",
+    "3s": "approvara",
+    "1p": "approváramos",
+    "2p": "approváreis",
+    "3p": "approvaram"
+  },
+  "FutSI": {
+    "1s": "approvarei",
+    "2s": "approvarás",
+    "3s": "approvará",
+    "1p": "approvaremos",
+    "2p": "approvareis",
+    "3p": "approvarão"
+  },
+  "CondS": {
+    "1s": "approvaria",
+    "2s": "approvarias",
+    "3s": "approvaria",
+    "1p": "approvaríamos",
+    "2p": "approvaríeis",
+    "3p": "approvariam"
+  },
+  "PresC": {
+    "1s": "approve",
+    "2s": "approves",
+    "3s": "approve",
+    "1p": "approvemos",
+    "2p": "approveis",
+    "3p": "approvem"
+  },
+  "PImpC": {
+    "1s": "approvasse",
+    "2s": "approvasses",
+    "3s": "approvasse",
+    "1p": "approvássemos",
+    "2p": "approvásseis",
+    "3p": "approvassem"
+  },
+  "FutSC": {
+    "1s": "approvar",
+    "2s": "approvares",
+    "3s": "approvar",
+    "1p": "approvarmos",
+    "2p": "approvardes",
+    "3p": "approvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "approva",
+    "3s": "approve",
+    "1p": "approvemos",
+    "2p": "approvai",
+    "3p": "approvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não approves",
+    "3s": "não approve",
+    "1p": "não approvemos",
+    "2p": "não approveis",
+    "3p": "não approvem"
+  },
+  "Part-ter": {
+    "": "approvado"
+  },
+  "Part-ser": {
+    "ms": "approvado",
+    "fs": "approvada",
+    "mp": "approvados",
+    "fp": "approvadas"
+  }
+}

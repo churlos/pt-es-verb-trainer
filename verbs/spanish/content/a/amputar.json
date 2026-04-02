@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amputar"
+  },
+  "Ger": {
+    "": "amputando"
+  },
+  "PresI": {
+    "1s": "amputo",
+    "2s": "amputas",
+    "3s": "amputa",
+    "1p": "amputamos",
+    "2p": "amputáis",
+    "3p": "amputan"
+  },
+  "PImpI": {
+    "1s": "amputaba",
+    "2s": "amputabas",
+    "3s": "amputaba",
+    "1p": "amputábamos",
+    "2p": "amputabais",
+    "3p": "amputaban"
+  },
+  "PPSI": {
+    "1s": "amputé",
+    "2s": "amputaste",
+    "3s": "amputó",
+    "1p": "amputamos",
+    "2p": "amputasteis",
+    "3p": "amputaron"
+  },
+  "FutSI": {
+    "1s": "amputaré",
+    "2s": "amputarás",
+    "3s": "amputará",
+    "1p": "amputaremos",
+    "2p": "amputaréis",
+    "3p": "amputarán"
+  },
+  "CondS": {
+    "1s": "amputaría",
+    "2s": "amputarías",
+    "3s": "amputaría",
+    "1p": "amputaríamos",
+    "2p": "amputaríais",
+    "3p": "amputarían"
+  },
+  "PresC": {
+    "1s": "ampute",
+    "2s": "amputes",
+    "3s": "ampute",
+    "1p": "amputemos",
+    "2p": "amputéis",
+    "3p": "amputen"
+  },
+  "PMQPSI": {
+    "1s": "amputara",
+    "2s": "amputaras",
+    "3s": "amputara",
+    "1p": "amputáramos",
+    "2p": "amputarais",
+    "3p": "amputaran"
+  },
+  "PImpC": {
+    "1s": "amputase",
+    "2s": "amputases",
+    "3s": "amputase",
+    "1p": "amputásemos",
+    "2p": "amputaseis",
+    "3p": "amputasen"
+  },
+  "FutSC": {
+    "1s": "amputare",
+    "2s": "amputares",
+    "3s": "amputare",
+    "1p": "amputáremos",
+    "2p": "amputareis",
+    "3p": "amputaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amputa",
+    "3s": "ampute",
+    "1p": "amputemos",
+    "2p": "amputad",
+    "3p": "amputen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amputes",
+    "3s": "no ampute",
+    "1p": "no amputemos",
+    "2p": "no amputéis",
+    "3p": "no amputen"
+  },
+  "Part-ter": {
+    "": "amputado"
+  },
+  "Part-ser": {
+    "ms": "amputado",
+    "fs": "amputada",
+    "mp": "amputados",
+    "fp": "amputadas"
+  }
+}

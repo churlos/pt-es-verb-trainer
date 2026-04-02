@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "litigar"
+  },
+  "InfP": {
+    "1s": "litigar",
+    "2s": "litigares",
+    "3s": "litigar",
+    "1p": "litigarmos",
+    "2p": "litigardes",
+    "3p": "litigarem"
+  },
+  "Ger": {
+    "": "litigando"
+  },
+  "PresI": {
+    "1s": "litigo",
+    "2s": "litigas",
+    "3s": "litiga",
+    "1p": "litigamos",
+    "2p": "litigais",
+    "3p": "litigam"
+  },
+  "PImpI": {
+    "1s": "litigava",
+    "2s": "litigavas",
+    "3s": "litigava",
+    "1p": "litigávamos",
+    "2p": "litigáveis",
+    "3p": "litigavam"
+  },
+  "PPSI": {
+    "1s": "litiguei",
+    "2s": "litigaste",
+    "3s": "litigou",
+    "1p": "litigámos",
+    "2p": "litigastes",
+    "3p": "litigaram"
+  },
+  "PMQPSI": {
+    "1s": "litigara",
+    "2s": "litigaras",
+    "3s": "litigara",
+    "1p": "litigáramos",
+    "2p": "litigáreis",
+    "3p": "litigaram"
+  },
+  "FutSI": {
+    "1s": "litigarei",
+    "2s": "litigarás",
+    "3s": "litigará",
+    "1p": "litigaremos",
+    "2p": "litigareis",
+    "3p": "litigarão"
+  },
+  "CondS": {
+    "1s": "litigaria",
+    "2s": "litigarias",
+    "3s": "litigaria",
+    "1p": "litigaríamos",
+    "2p": "litigaríeis",
+    "3p": "litigariam"
+  },
+  "PresC": {
+    "1s": "litigue",
+    "2s": "litigues",
+    "3s": "litigue",
+    "1p": "litiguemos",
+    "2p": "litigueis",
+    "3p": "litiguem"
+  },
+  "PImpC": {
+    "1s": "litigasse",
+    "2s": "litigasses",
+    "3s": "litigasse",
+    "1p": "litigássemos",
+    "2p": "litigásseis",
+    "3p": "litigassem"
+  },
+  "FutSC": {
+    "1s": "litigar",
+    "2s": "litigares",
+    "3s": "litigar",
+    "1p": "litigarmos",
+    "2p": "litigardes",
+    "3p": "litigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "litiga",
+    "3s": "litigue",
+    "1p": "litiguemos",
+    "2p": "litigai",
+    "3p": "litiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não litigues",
+    "3s": "não litigue",
+    "1p": "não litiguemos",
+    "2p": "não litigueis",
+    "3p": "não litiguem"
+  },
+  "Part-ter": {
+    "": "litigado"
+  },
+  "Part-ser": {
+    "ms": "litigado",
+    "fs": "litigada",
+    "mp": "litigados",
+    "fp": "litigadas"
+  }
+}

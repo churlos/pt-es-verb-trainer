@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "travar"
+  },
+  "InfP": {
+    "1s": "travar",
+    "2s": "travares",
+    "3s": "travar",
+    "1p": "travarmos",
+    "2p": "travardes",
+    "3p": "travarem"
+  },
+  "Ger": {
+    "": "travando"
+  },
+  "PresI": {
+    "1s": "travo",
+    "2s": "travas",
+    "3s": "trava",
+    "1p": "travamos",
+    "2p": "travais",
+    "3p": "travam"
+  },
+  "PImpI": {
+    "1s": "travava",
+    "2s": "travavas",
+    "3s": "travava",
+    "1p": "travávamos",
+    "2p": "traváveis",
+    "3p": "travavam"
+  },
+  "PPSI": {
+    "1s": "travei",
+    "2s": "travaste",
+    "3s": "travou",
+    "1p": "travámos",
+    "2p": "travastes",
+    "3p": "travaram"
+  },
+  "PMQPSI": {
+    "1s": "travara",
+    "2s": "travaras",
+    "3s": "travara",
+    "1p": "traváramos",
+    "2p": "traváreis",
+    "3p": "travaram"
+  },
+  "FutSI": {
+    "1s": "travarei",
+    "2s": "travarás",
+    "3s": "travará",
+    "1p": "travaremos",
+    "2p": "travareis",
+    "3p": "travarão"
+  },
+  "CondS": {
+    "1s": "travaria",
+    "2s": "travarias",
+    "3s": "travaria",
+    "1p": "travaríamos",
+    "2p": "travaríeis",
+    "3p": "travariam"
+  },
+  "PresC": {
+    "1s": "trave",
+    "2s": "traves",
+    "3s": "trave",
+    "1p": "travemos",
+    "2p": "traveis",
+    "3p": "travem"
+  },
+  "PImpC": {
+    "1s": "travasse",
+    "2s": "travasses",
+    "3s": "travasse",
+    "1p": "travássemos",
+    "2p": "travásseis",
+    "3p": "travassem"
+  },
+  "FutSC": {
+    "1s": "travar",
+    "2s": "travares",
+    "3s": "travar",
+    "1p": "travarmos",
+    "2p": "travardes",
+    "3p": "travarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trava",
+    "3s": "trave",
+    "1p": "travemos",
+    "2p": "travai",
+    "3p": "travem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não traves",
+    "3s": "não trave",
+    "1p": "não travemos",
+    "2p": "não traveis",
+    "3p": "não travem"
+  },
+  "Part-ter": {
+    "": "travado"
+  },
+  "Part-ser": {
+    "ms": "travado",
+    "fs": "travada",
+    "mp": "travados",
+    "fp": "travadas"
+  }
+}

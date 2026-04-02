@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "balancear"
+  },
+  "InfP": {
+    "1s": "balancear",
+    "2s": "balanceares",
+    "3s": "balancear",
+    "1p": "balancearmos",
+    "2p": "balanceardes",
+    "3p": "balancearem"
+  },
+  "Ger": {
+    "": "balanceando"
+  },
+  "PresI": {
+    "1s": "balanceio",
+    "2s": "balanceias",
+    "3s": "balanceia",
+    "1p": "balanceamos",
+    "2p": "balanceais",
+    "3p": "balanceiam"
+  },
+  "PImpI": {
+    "1s": "balanceava",
+    "2s": "balanceavas",
+    "3s": "balanceava",
+    "1p": "balanceávamos",
+    "2p": "balanceáveis",
+    "3p": "balanceavam"
+  },
+  "PPSI": {
+    "1s": "balanceei",
+    "2s": "balanceaste",
+    "3s": "balanceou",
+    "1p": "balanceámos",
+    "2p": "balanceastes",
+    "3p": "balancearam"
+  },
+  "PMQPSI": {
+    "1s": "balanceara",
+    "2s": "balancearas",
+    "3s": "balanceara",
+    "1p": "balanceáramos",
+    "2p": "balanceáreis",
+    "3p": "balancearam"
+  },
+  "FutSI": {
+    "1s": "balancearei",
+    "2s": "balancearás",
+    "3s": "balanceará",
+    "1p": "balancearemos",
+    "2p": "balanceareis",
+    "3p": "balancearão"
+  },
+  "CondS": {
+    "1s": "balancearia",
+    "2s": "balancearias",
+    "3s": "balancearia",
+    "1p": "balancearíamos",
+    "2p": "balancearíeis",
+    "3p": "balanceariam"
+  },
+  "PresC": {
+    "1s": "balanceie",
+    "2s": "balanceies",
+    "3s": "balanceie",
+    "1p": "balanceemos",
+    "2p": "balanceeis",
+    "3p": "balanceiem"
+  },
+  "PImpC": {
+    "1s": "balanceasse",
+    "2s": "balanceasses",
+    "3s": "balanceasse",
+    "1p": "balanceássemos",
+    "2p": "balanceásseis",
+    "3p": "balanceassem"
+  },
+  "FutSC": {
+    "1s": "balancear",
+    "2s": "balanceares",
+    "3s": "balancear",
+    "1p": "balancearmos",
+    "2p": "balanceardes",
+    "3p": "balancearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "balanceia",
+    "3s": "balanceie",
+    "1p": "balanceemos",
+    "2p": "balanceai",
+    "3p": "balanceiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não balanceies",
+    "3s": "não balanceie",
+    "1p": "não balanceemos",
+    "2p": "não balanceeis",
+    "3p": "não balanceiem"
+  },
+  "Part-ter": {
+    "": "balanceado"
+  },
+  "Part-ser": {
+    "ms": "balanceado",
+    "fs": "balanceada",
+    "mp": "balanceados",
+    "fp": "balanceadas"
+  }
+}

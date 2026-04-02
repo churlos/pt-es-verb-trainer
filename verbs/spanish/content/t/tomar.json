@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tomar"
+  },
+  "Ger": {
+    "": "tomando"
+  },
+  "PresI": {
+    "1s": "tomo",
+    "2s": "tomas",
+    "3s": "toma",
+    "1p": "tomamos",
+    "2p": "tomáis",
+    "3p": "toman"
+  },
+  "PImpI": {
+    "1s": "tomaba",
+    "2s": "tomabas",
+    "3s": "tomaba",
+    "1p": "tomábamos",
+    "2p": "tomabais",
+    "3p": "tomaban"
+  },
+  "PPSI": {
+    "1s": "tomé",
+    "2s": "tomaste",
+    "3s": "tomó",
+    "1p": "tomamos",
+    "2p": "tomasteis",
+    "3p": "tomaron"
+  },
+  "FutSI": {
+    "1s": "tomaré",
+    "2s": "tomarás",
+    "3s": "tomará",
+    "1p": "tomaremos",
+    "2p": "tomaréis",
+    "3p": "tomarán"
+  },
+  "CondS": {
+    "1s": "tomaría",
+    "2s": "tomarías",
+    "3s": "tomaría",
+    "1p": "tomaríamos",
+    "2p": "tomaríais",
+    "3p": "tomarían"
+  },
+  "PresC": {
+    "1s": "tome",
+    "2s": "tomes",
+    "3s": "tome",
+    "1p": "tomemos",
+    "2p": "toméis",
+    "3p": "tomen"
+  },
+  "PMQPSI": {
+    "1s": "tomara",
+    "2s": "tomaras",
+    "3s": "tomara",
+    "1p": "tomáramos",
+    "2p": "tomarais",
+    "3p": "tomaran"
+  },
+  "PImpC": {
+    "1s": "tomase",
+    "2s": "tomases",
+    "3s": "tomase",
+    "1p": "tomásemos",
+    "2p": "tomaseis",
+    "3p": "tomasen"
+  },
+  "FutSC": {
+    "1s": "tomare",
+    "2s": "tomares",
+    "3s": "tomare",
+    "1p": "tomáremos",
+    "2p": "tomareis",
+    "3p": "tomaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "toma",
+    "3s": "tome",
+    "1p": "tomemos",
+    "2p": "tomad",
+    "3p": "tomen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tomes",
+    "3s": "no tome",
+    "1p": "no tomemos",
+    "2p": "no toméis",
+    "3p": "no tomen"
+  },
+  "Part-ter": {
+    "": "tomado"
+  },
+  "Part-ser": {
+    "ms": "tomado",
+    "fs": "tomada",
+    "mp": "tomados",
+    "fp": "tomadas"
+  }
+}

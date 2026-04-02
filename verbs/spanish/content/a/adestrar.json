@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "adestrar"
+  },
+  "Ger": {
+    "": "adestrando"
+  },
+  "PresI": {
+    "1s": "adiestro",
+    "2s": "adiestras",
+    "3s": "adiestra",
+    "1p": "adestramos",
+    "2p": "adestráis",
+    "3p": "adiestran"
+  },
+  "PImpI": {
+    "1s": "adestraba",
+    "2s": "adestrabas",
+    "3s": "adestraba",
+    "1p": "adestrábamos",
+    "2p": "adestrabais",
+    "3p": "adestraban"
+  },
+  "PPSI": {
+    "1s": "adestré",
+    "2s": "adestraste",
+    "3s": "adestró",
+    "1p": "adestramos",
+    "2p": "adestrasteis",
+    "3p": "adestraron"
+  },
+  "FutSI": {
+    "1s": "adestraré",
+    "2s": "adestrarás",
+    "3s": "adestrará",
+    "1p": "adestraremos",
+    "2p": "adestraréis",
+    "3p": "adestrarán"
+  },
+  "CondS": {
+    "1s": "adestraría",
+    "2s": "adestrarías",
+    "3s": "adestraría",
+    "1p": "adestraríamos",
+    "2p": "adestraríais",
+    "3p": "adestrarían"
+  },
+  "PresC": {
+    "1s": "adiestre",
+    "2s": "adiestres",
+    "3s": "adiestre",
+    "1p": "adestremos",
+    "2p": "adestréis",
+    "3p": "adiestren"
+  },
+  "PMQPSI": {
+    "1s": "adestrara",
+    "2s": "adestraras",
+    "3s": "adestrara",
+    "1p": "adestráramos",
+    "2p": "adestrarais",
+    "3p": "adestraran"
+  },
+  "PImpC": {
+    "1s": "adestrase",
+    "2s": "adestrases",
+    "3s": "adestrase",
+    "1p": "adestrásemos",
+    "2p": "adestraseis",
+    "3p": "adestrasen"
+  },
+  "FutSC": {
+    "1s": "adestrare",
+    "2s": "adestrares",
+    "3s": "adestrare",
+    "1p": "adestráremos",
+    "2p": "adestrareis",
+    "3p": "adestraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adiestra",
+    "3s": "adiestre",
+    "1p": "adestremos",
+    "2p": "adestrad",
+    "3p": "adiestren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no adiestres",
+    "3s": "no adiestre",
+    "1p": "no adestremos",
+    "2p": "no adestréis",
+    "3p": "no adiestren"
+  },
+  "Part-ter": {
+    "": "adestrado"
+  },
+  "Part-ser": {
+    "ms": "adestrado",
+    "fs": "adestrada",
+    "mp": "adestrados",
+    "fp": "adestradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resolver"
+  },
+  "Ger": {
+    "": "resolviendo"
+  },
+  "PresI": {
+    "1s": "resuelvo",
+    "2s": "resuelves",
+    "3s": "resuelve",
+    "1p": "resolvemos",
+    "2p": "resolvéis",
+    "3p": "resuelven"
+  },
+  "PImpI": {
+    "1s": "resolvía",
+    "2s": "resolvías",
+    "3s": "resolvía",
+    "1p": "resolvíamos",
+    "2p": "resolvíais",
+    "3p": "resolvían"
+  },
+  "PPSI": {
+    "1s": "resolví",
+    "2s": "resolviste",
+    "3s": "resolvió",
+    "1p": "resolvimos",
+    "2p": "resolvisteis",
+    "3p": "resolvieron"
+  },
+  "FutSI": {
+    "1s": "resolveré",
+    "2s": "resolverás",
+    "3s": "resolverá",
+    "1p": "resolveremos",
+    "2p": "resolveréis",
+    "3p": "resolverán"
+  },
+  "CondS": {
+    "1s": "resolvería",
+    "2s": "resolverías",
+    "3s": "resolvería",
+    "1p": "resolveríamos",
+    "2p": "resolveríais",
+    "3p": "resolverían"
+  },
+  "PresC": {
+    "1s": "resuelva",
+    "2s": "resuelvas",
+    "3s": "resuelva",
+    "1p": "resolvamos",
+    "2p": "resolváis",
+    "3p": "resuelvan"
+  },
+  "PMQPSI": {
+    "1s": "resolviera",
+    "2s": "resolvieras",
+    "3s": "resolviera",
+    "1p": "resolviéramos",
+    "2p": "resolvierais",
+    "3p": "resolvieran"
+  },
+  "PImpC": {
+    "1s": "resolviese",
+    "2s": "resolvieses",
+    "3s": "resolviese",
+    "1p": "resolviésemos",
+    "2p": "resolvieseis",
+    "3p": "resolviesen"
+  },
+  "FutSC": {
+    "1s": "resolviere",
+    "2s": "resolvieres",
+    "3s": "resolviere",
+    "1p": "resolviéremos",
+    "2p": "resolviereis",
+    "3p": "resolvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resuelve",
+    "3s": "resuelva",
+    "1p": "resolvamos",
+    "2p": "resolved",
+    "3p": "resuelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no resuelvas",
+    "3s": "no resuelva",
+    "1p": "no resolvamos",
+    "2p": "no resolváis",
+    "3p": "no resuelvan"
+  },
+  "Part-ter": {
+    "": "resuelto"
+  },
+  "Part-ser": {
+    "ms": "resuelto",
+    "fs": "resuelta",
+    "mp": "resueltos",
+    "fp": "resueltas"
+  }
+}

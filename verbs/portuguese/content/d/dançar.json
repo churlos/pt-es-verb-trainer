@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dançar"
+  },
+  "InfP": {
+    "1s": "dançar",
+    "2s": "dançares",
+    "3s": "dançar",
+    "1p": "dançarmos",
+    "2p": "dançardes",
+    "3p": "dançarem"
+  },
+  "Ger": {
+    "": "dançando"
+  },
+  "PresI": {
+    "1s": "danço",
+    "2s": "danças",
+    "3s": "dança",
+    "1p": "dançamos",
+    "2p": "dançais",
+    "3p": "dançam"
+  },
+  "PImpI": {
+    "1s": "dançava",
+    "2s": "dançavas",
+    "3s": "dançava",
+    "1p": "dançávamos",
+    "2p": "dançáveis",
+    "3p": "dançavam"
+  },
+  "PPSI": {
+    "1s": "dancei",
+    "2s": "dançaste",
+    "3s": "dançou",
+    "1p": "dançámos",
+    "2p": "dançastes",
+    "3p": "dançaram"
+  },
+  "PMQPSI": {
+    "1s": "dançara",
+    "2s": "dançaras",
+    "3s": "dançara",
+    "1p": "dançáramos",
+    "2p": "dançáreis",
+    "3p": "dançaram"
+  },
+  "FutSI": {
+    "1s": "dançarei",
+    "2s": "dançarás",
+    "3s": "dançará",
+    "1p": "dançaremos",
+    "2p": "dançareis",
+    "3p": "dançarão"
+  },
+  "CondS": {
+    "1s": "dançaria",
+    "2s": "dançarias",
+    "3s": "dançaria",
+    "1p": "dançaríamos",
+    "2p": "dançaríeis",
+    "3p": "dançariam"
+  },
+  "PresC": {
+    "1s": "dance",
+    "2s": "dances",
+    "3s": "dance",
+    "1p": "dancemos",
+    "2p": "danceis",
+    "3p": "dancem"
+  },
+  "PImpC": {
+    "1s": "dançasse",
+    "2s": "dançasses",
+    "3s": "dançasse",
+    "1p": "dançássemos",
+    "2p": "dançásseis",
+    "3p": "dançassem"
+  },
+  "FutSC": {
+    "1s": "dançar",
+    "2s": "dançares",
+    "3s": "dançar",
+    "1p": "dançarmos",
+    "2p": "dançardes",
+    "3p": "dançarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dança",
+    "3s": "dance",
+    "1p": "dancemos",
+    "2p": "dançai",
+    "3p": "dancem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dances",
+    "3s": "não dance",
+    "1p": "não dancemos",
+    "2p": "não danceis",
+    "3p": "não dancem"
+  },
+  "Part-ter": {
+    "": "dançado"
+  },
+  "Part-ser": {
+    "ms": "dançado",
+    "fs": "dançada",
+    "mp": "dançados",
+    "fp": "dançadas"
+  }
+}

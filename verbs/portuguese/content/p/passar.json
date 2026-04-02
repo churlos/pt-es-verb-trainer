@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "passar"
+  },
+  "InfP": {
+    "1s": "passar",
+    "2s": "passares",
+    "3s": "passar",
+    "1p": "passarmos",
+    "2p": "passardes",
+    "3p": "passarem"
+  },
+  "Ger": {
+    "": "passando"
+  },
+  "PresI": {
+    "1s": "passo",
+    "2s": "passas",
+    "3s": "passa",
+    "1p": "passamos",
+    "2p": "passais",
+    "3p": "passam"
+  },
+  "PImpI": {
+    "1s": "passava",
+    "2s": "passavas",
+    "3s": "passava",
+    "1p": "passávamos",
+    "2p": "passáveis",
+    "3p": "passavam"
+  },
+  "PPSI": {
+    "1s": "passei",
+    "2s": "passaste",
+    "3s": "passou",
+    "1p": "passámos",
+    "2p": "passastes",
+    "3p": "passaram"
+  },
+  "PMQPSI": {
+    "1s": "passara",
+    "2s": "passaras",
+    "3s": "passara",
+    "1p": "passáramos",
+    "2p": "passáreis",
+    "3p": "passaram"
+  },
+  "FutSI": {
+    "1s": "passarei",
+    "2s": "passarás",
+    "3s": "passará",
+    "1p": "passaremos",
+    "2p": "passareis",
+    "3p": "passarão"
+  },
+  "CondS": {
+    "1s": "passaria",
+    "2s": "passarias",
+    "3s": "passaria",
+    "1p": "passaríamos",
+    "2p": "passaríeis",
+    "3p": "passariam"
+  },
+  "PresC": {
+    "1s": "passe",
+    "2s": "passes",
+    "3s": "passe",
+    "1p": "passemos",
+    "2p": "passeis",
+    "3p": "passem"
+  },
+  "PImpC": {
+    "1s": "passasse",
+    "2s": "passasses",
+    "3s": "passasse",
+    "1p": "passássemos",
+    "2p": "passásseis",
+    "3p": "passassem"
+  },
+  "FutSC": {
+    "1s": "passar",
+    "2s": "passares",
+    "3s": "passar",
+    "1p": "passarmos",
+    "2p": "passardes",
+    "3p": "passarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "passa",
+    "3s": "passe",
+    "1p": "passemos",
+    "2p": "passai",
+    "3p": "passem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não passes",
+    "3s": "não passe",
+    "1p": "não passemos",
+    "2p": "não passeis",
+    "3p": "não passem"
+  },
+  "Part-ter": {
+    "": "passado"
+  },
+  "Part-ser": {
+    "ms": "passado",
+    "fs": "passada",
+    "mp": "passados",
+    "fp": "passadas"
+  }
+}

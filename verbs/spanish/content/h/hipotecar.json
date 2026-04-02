@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hipotecar"
+  },
+  "Ger": {
+    "": "hipotecando"
+  },
+  "PresI": {
+    "1s": "hipoteco",
+    "2s": "hipotecas",
+    "3s": "hipoteca",
+    "1p": "hipotecamos",
+    "2p": "hipotecáis",
+    "3p": "hipotecan"
+  },
+  "PImpI": {
+    "1s": "hipotecaba",
+    "2s": "hipotecabas",
+    "3s": "hipotecaba",
+    "1p": "hipotecábamos",
+    "2p": "hipotecabais",
+    "3p": "hipotecaban"
+  },
+  "PPSI": {
+    "1s": "hipotequé",
+    "2s": "hipotecaste",
+    "3s": "hipotecó",
+    "1p": "hipotecamos",
+    "2p": "hipotecasteis",
+    "3p": "hipotecaron"
+  },
+  "FutSI": {
+    "1s": "hipotecaré",
+    "2s": "hipotecarás",
+    "3s": "hipotecará",
+    "1p": "hipotecaremos",
+    "2p": "hipotecaréis",
+    "3p": "hipotecarán"
+  },
+  "CondS": {
+    "1s": "hipotecaría",
+    "2s": "hipotecarías",
+    "3s": "hipotecaría",
+    "1p": "hipotecaríamos",
+    "2p": "hipotecaríais",
+    "3p": "hipotecarían"
+  },
+  "PresC": {
+    "1s": "hipoteque",
+    "2s": "hipoteques",
+    "3s": "hipoteque",
+    "1p": "hipotequemos",
+    "2p": "hipotequéis",
+    "3p": "hipotequen"
+  },
+  "PMQPSI": {
+    "1s": "hipotecara",
+    "2s": "hipotecaras",
+    "3s": "hipotecara",
+    "1p": "hipotecáramos",
+    "2p": "hipotecarais",
+    "3p": "hipotecaran"
+  },
+  "PImpC": {
+    "1s": "hipotecase",
+    "2s": "hipotecases",
+    "3s": "hipotecase",
+    "1p": "hipotecásemos",
+    "2p": "hipotecaseis",
+    "3p": "hipotecasen"
+  },
+  "FutSC": {
+    "1s": "hipotecare",
+    "2s": "hipotecares",
+    "3s": "hipotecare",
+    "1p": "hipotecáremos",
+    "2p": "hipotecareis",
+    "3p": "hipotecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hipoteca",
+    "3s": "hipoteque",
+    "1p": "hipotequemos",
+    "2p": "hipotecad",
+    "3p": "hipotequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hipoteques",
+    "3s": "no hipoteque",
+    "1p": "no hipotequemos",
+    "2p": "no hipotequéis",
+    "3p": "no hipotequen"
+  },
+  "Part-ter": {
+    "": "hipotecado"
+  },
+  "Part-ser": {
+    "ms": "hipotecado",
+    "fs": "hipotecada",
+    "mp": "hipotecados",
+    "fp": "hipotecadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bonificar"
+  },
+  "Ger": {
+    "": "bonificando"
+  },
+  "PresI": {
+    "1s": "bonifico",
+    "2s": "bonificas",
+    "3s": "bonifica",
+    "1p": "bonificamos",
+    "2p": "bonificáis",
+    "3p": "bonifican"
+  },
+  "PImpI": {
+    "1s": "bonificaba",
+    "2s": "bonificabas",
+    "3s": "bonificaba",
+    "1p": "bonificábamos",
+    "2p": "bonificabais",
+    "3p": "bonificaban"
+  },
+  "PPSI": {
+    "1s": "bonifiqué",
+    "2s": "bonificaste",
+    "3s": "bonificó",
+    "1p": "bonificamos",
+    "2p": "bonificasteis",
+    "3p": "bonificaron"
+  },
+  "FutSI": {
+    "1s": "bonificaré",
+    "2s": "bonificarás",
+    "3s": "bonificará",
+    "1p": "bonificaremos",
+    "2p": "bonificaréis",
+    "3p": "bonificarán"
+  },
+  "CondS": {
+    "1s": "bonificaría",
+    "2s": "bonificarías",
+    "3s": "bonificaría",
+    "1p": "bonificaríamos",
+    "2p": "bonificaríais",
+    "3p": "bonificarían"
+  },
+  "PresC": {
+    "1s": "bonifique",
+    "2s": "bonifiques",
+    "3s": "bonifique",
+    "1p": "bonifiquemos",
+    "2p": "bonifiquéis",
+    "3p": "bonifiquen"
+  },
+  "PMQPSI": {
+    "1s": "bonificara",
+    "2s": "bonificaras",
+    "3s": "bonificara",
+    "1p": "bonificáramos",
+    "2p": "bonificarais",
+    "3p": "bonificaran"
+  },
+  "PImpC": {
+    "1s": "bonificase",
+    "2s": "bonificases",
+    "3s": "bonificase",
+    "1p": "bonificásemos",
+    "2p": "bonificaseis",
+    "3p": "bonificasen"
+  },
+  "FutSC": {
+    "1s": "bonificare",
+    "2s": "bonificares",
+    "3s": "bonificare",
+    "1p": "bonificáremos",
+    "2p": "bonificareis",
+    "3p": "bonificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bonifica",
+    "3s": "bonifique",
+    "1p": "bonifiquemos",
+    "2p": "bonificad",
+    "3p": "bonifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bonifiques",
+    "3s": "no bonifique",
+    "1p": "no bonifiquemos",
+    "2p": "no bonifiquéis",
+    "3p": "no bonifiquen"
+  },
+  "Part-ter": {
+    "": "bonificado"
+  },
+  "Part-ser": {
+    "ms": "bonificado",
+    "fs": "bonificada",
+    "mp": "bonificados",
+    "fp": "bonificadas"
+  }
+}

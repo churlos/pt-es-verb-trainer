@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "equipar"
+  },
+  "Ger": {
+    "": "equipando"
+  },
+  "PresI": {
+    "1s": "equipo",
+    "2s": "equipas",
+    "3s": "equipa",
+    "1p": "equipamos",
+    "2p": "equipáis",
+    "3p": "equipan"
+  },
+  "PImpI": {
+    "1s": "equipaba",
+    "2s": "equipabas",
+    "3s": "equipaba",
+    "1p": "equipábamos",
+    "2p": "equipabais",
+    "3p": "equipaban"
+  },
+  "PPSI": {
+    "1s": "equipé",
+    "2s": "equipaste",
+    "3s": "equipó",
+    "1p": "equipamos",
+    "2p": "equipasteis",
+    "3p": "equiparon"
+  },
+  "FutSI": {
+    "1s": "equiparé",
+    "2s": "equiparás",
+    "3s": "equipará",
+    "1p": "equiparemos",
+    "2p": "equiparéis",
+    "3p": "equiparán"
+  },
+  "CondS": {
+    "1s": "equiparía",
+    "2s": "equiparías",
+    "3s": "equiparía",
+    "1p": "equiparíamos",
+    "2p": "equiparíais",
+    "3p": "equiparían"
+  },
+  "PresC": {
+    "1s": "equipe",
+    "2s": "equipes",
+    "3s": "equipe",
+    "1p": "equipemos",
+    "2p": "equipéis",
+    "3p": "equipen"
+  },
+  "PMQPSI": {
+    "1s": "equipara",
+    "2s": "equiparas",
+    "3s": "equipara",
+    "1p": "equipáramos",
+    "2p": "equiparais",
+    "3p": "equiparan"
+  },
+  "PImpC": {
+    "1s": "equipase",
+    "2s": "equipases",
+    "3s": "equipase",
+    "1p": "equipásemos",
+    "2p": "equipaseis",
+    "3p": "equipasen"
+  },
+  "FutSC": {
+    "1s": "equipare",
+    "2s": "equipares",
+    "3s": "equipare",
+    "1p": "equipáremos",
+    "2p": "equipareis",
+    "3p": "equiparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "equipa",
+    "3s": "equipe",
+    "1p": "equipemos",
+    "2p": "equipad",
+    "3p": "equipen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no equipes",
+    "3s": "no equipe",
+    "1p": "no equipemos",
+    "2p": "no equipéis",
+    "3p": "no equipen"
+  },
+  "Part-ter": {
+    "": "equipado"
+  },
+  "Part-ser": {
+    "ms": "equipado",
+    "fs": "equipada",
+    "mp": "equipados",
+    "fp": "equipadas"
+  }
+}

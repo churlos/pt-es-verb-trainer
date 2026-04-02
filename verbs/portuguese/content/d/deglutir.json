@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deglutir"
+  },
+  "InfP": {
+    "1s": "deglutir",
+    "2s": "deglutires",
+    "3s": "deglutir",
+    "1p": "deglutirmos",
+    "2p": "deglutirdes",
+    "3p": "deglutirem"
+  },
+  "Ger": {
+    "": "deglutindo"
+  },
+  "PresI": {
+    "1s": "degluto",
+    "2s": "deglutes",
+    "3s": "deglute",
+    "1p": "deglutimos",
+    "2p": "deglutis",
+    "3p": "deglutem"
+  },
+  "PImpI": {
+    "1s": "deglutia",
+    "2s": "deglutias",
+    "3s": "deglutia",
+    "1p": "deglutíamos",
+    "2p": "deglutíeis",
+    "3p": "deglutiam"
+  },
+  "PPSI": {
+    "1s": "degluti",
+    "2s": "deglutiste",
+    "3s": "deglutiu",
+    "1p": "deglutimos",
+    "2p": "deglutistes",
+    "3p": "deglutiram"
+  },
+  "PMQPSI": {
+    "1s": "deglutira",
+    "2s": "deglutiras",
+    "3s": "deglutira",
+    "1p": "deglutíramos",
+    "2p": "deglutíreis",
+    "3p": "deglutiram"
+  },
+  "FutSI": {
+    "1s": "deglutirei",
+    "2s": "deglutirás",
+    "3s": "deglutirá",
+    "1p": "deglutiremos",
+    "2p": "deglutireis",
+    "3p": "deglutirão"
+  },
+  "CondS": {
+    "1s": "deglutiria",
+    "2s": "deglutirias",
+    "3s": "deglutiria",
+    "1p": "deglutiríamos",
+    "2p": "deglutiríeis",
+    "3p": "deglutiriam"
+  },
+  "PresC": {
+    "1s": "degluta",
+    "2s": "deglutas",
+    "3s": "degluta",
+    "1p": "deglutamos",
+    "2p": "deglutais",
+    "3p": "deglutam"
+  },
+  "PImpC": {
+    "1s": "deglutisse",
+    "2s": "deglutisses",
+    "3s": "deglutisse",
+    "1p": "deglutíssemos",
+    "2p": "deglutísseis",
+    "3p": "deglutissem"
+  },
+  "FutSC": {
+    "1s": "deglutir",
+    "2s": "deglutires",
+    "3s": "deglutir",
+    "1p": "deglutirmos",
+    "2p": "deglutirdes",
+    "3p": "deglutirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deglute",
+    "3s": "degluta",
+    "1p": "deglutamos",
+    "2p": "degluti",
+    "3p": "deglutam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deglutas",
+    "3s": "não degluta",
+    "1p": "não deglutamos",
+    "2p": "não deglutais",
+    "3p": "não deglutam"
+  },
+  "Part-ter": {
+    "": "deglutido"
+  },
+  "Part-ser": {
+    "ms": "deglutido",
+    "fs": "deglutida",
+    "mp": "deglutidos",
+    "fp": "deglutidas"
+  }
+}

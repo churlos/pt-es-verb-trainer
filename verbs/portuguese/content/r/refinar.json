@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "refinar"
+  },
+  "InfP": {
+    "1s": "refinar",
+    "2s": "refinares",
+    "3s": "refinar",
+    "1p": "refinarmos",
+    "2p": "refinardes",
+    "3p": "refinarem"
+  },
+  "Ger": {
+    "": "refinando"
+  },
+  "PresI": {
+    "1s": "refino",
+    "2s": "refinas",
+    "3s": "refina",
+    "1p": "refinamos",
+    "2p": "refinais",
+    "3p": "refinam"
+  },
+  "PImpI": {
+    "1s": "refinava",
+    "2s": "refinavas",
+    "3s": "refinava",
+    "1p": "refinávamos",
+    "2p": "refináveis",
+    "3p": "refinavam"
+  },
+  "PPSI": {
+    "1s": "refinei",
+    "2s": "refinaste",
+    "3s": "refinou",
+    "1p": "refinámos",
+    "2p": "refinastes",
+    "3p": "refinaram"
+  },
+  "PMQPSI": {
+    "1s": "refinara",
+    "2s": "refinaras",
+    "3s": "refinara",
+    "1p": "refináramos",
+    "2p": "refináreis",
+    "3p": "refinaram"
+  },
+  "FutSI": {
+    "1s": "refinarei",
+    "2s": "refinarás",
+    "3s": "refinará",
+    "1p": "refinaremos",
+    "2p": "refinareis",
+    "3p": "refinarão"
+  },
+  "CondS": {
+    "1s": "refinaria",
+    "2s": "refinarias",
+    "3s": "refinaria",
+    "1p": "refinaríamos",
+    "2p": "refinaríeis",
+    "3p": "refinariam"
+  },
+  "PresC": {
+    "1s": "refine",
+    "2s": "refines",
+    "3s": "refine",
+    "1p": "refinemos",
+    "2p": "refineis",
+    "3p": "refinem"
+  },
+  "PImpC": {
+    "1s": "refinasse",
+    "2s": "refinasses",
+    "3s": "refinasse",
+    "1p": "refinássemos",
+    "2p": "refinásseis",
+    "3p": "refinassem"
+  },
+  "FutSC": {
+    "1s": "refinar",
+    "2s": "refinares",
+    "3s": "refinar",
+    "1p": "refinarmos",
+    "2p": "refinardes",
+    "3p": "refinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "refina",
+    "3s": "refine",
+    "1p": "refinemos",
+    "2p": "refinai",
+    "3p": "refinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não refines",
+    "3s": "não refine",
+    "1p": "não refinemos",
+    "2p": "não refineis",
+    "3p": "não refinem"
+  },
+  "Part-ter": {
+    "": "refinado"
+  },
+  "Part-ser": {
+    "ms": "refinado",
+    "fs": "refinada",
+    "mp": "refinados",
+    "fp": "refinadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "applicar"
+  },
+  "InfP": {
+    "1s": "applicar",
+    "2s": "applicares",
+    "3s": "applicar",
+    "1p": "applicarmos",
+    "2p": "applicardes",
+    "3p": "applicarem"
+  },
+  "Ger": {
+    "": "applicando"
+  },
+  "PresI": {
+    "1s": "applico",
+    "2s": "applicas",
+    "3s": "applica",
+    "1p": "applicamos",
+    "2p": "applicais",
+    "3p": "applicam"
+  },
+  "PImpI": {
+    "1s": "applicava",
+    "2s": "applicavas",
+    "3s": "applicava",
+    "1p": "applicávamos",
+    "2p": "applicáveis",
+    "3p": "applicavam"
+  },
+  "PPSI": {
+    "1s": "appliquei",
+    "2s": "applicaste",
+    "3s": "applicou",
+    "1p": "applicámos",
+    "2p": "applicastes",
+    "3p": "applicaram"
+  },
+  "PMQPSI": {
+    "1s": "applicara",
+    "2s": "applicaras",
+    "3s": "applicara",
+    "1p": "applicáramos",
+    "2p": "applicáreis",
+    "3p": "applicaram"
+  },
+  "FutSI": {
+    "1s": "applicarei",
+    "2s": "applicarás",
+    "3s": "applicará",
+    "1p": "applicaremos",
+    "2p": "applicareis",
+    "3p": "applicarão"
+  },
+  "CondS": {
+    "1s": "applicaria",
+    "2s": "applicarias",
+    "3s": "applicaria",
+    "1p": "applicaríamos",
+    "2p": "applicaríeis",
+    "3p": "applicariam"
+  },
+  "PresC": {
+    "1s": "applique",
+    "2s": "appliques",
+    "3s": "applique",
+    "1p": "appliquemos",
+    "2p": "appliqueis",
+    "3p": "appliquem"
+  },
+  "PImpC": {
+    "1s": "applicasse",
+    "2s": "applicasses",
+    "3s": "applicasse",
+    "1p": "applicássemos",
+    "2p": "applicásseis",
+    "3p": "applicassem"
+  },
+  "FutSC": {
+    "1s": "applicar",
+    "2s": "applicares",
+    "3s": "applicar",
+    "1p": "applicarmos",
+    "2p": "applicardes",
+    "3p": "applicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "applica",
+    "3s": "applique",
+    "1p": "appliquemos",
+    "2p": "applicai",
+    "3p": "appliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não appliques",
+    "3s": "não applique",
+    "1p": "não appliquemos",
+    "2p": "não appliqueis",
+    "3p": "não appliquem"
+  },
+  "Part-ter": {
+    "": "applicado"
+  },
+  "Part-ser": {
+    "ms": "applicado",
+    "fs": "applicada",
+    "mp": "applicados",
+    "fp": "applicadas"
+  }
+}

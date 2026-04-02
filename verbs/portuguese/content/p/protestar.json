@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "protestar"
+  },
+  "InfP": {
+    "1s": "protestar",
+    "2s": "protestares",
+    "3s": "protestar",
+    "1p": "protestarmos",
+    "2p": "protestardes",
+    "3p": "protestarem"
+  },
+  "Ger": {
+    "": "protestando"
+  },
+  "PresI": {
+    "1s": "protesto",
+    "2s": "protestas",
+    "3s": "protesta",
+    "1p": "protestamos",
+    "2p": "protestais",
+    "3p": "protestam"
+  },
+  "PImpI": {
+    "1s": "protestava",
+    "2s": "protestavas",
+    "3s": "protestava",
+    "1p": "protestávamos",
+    "2p": "protestáveis",
+    "3p": "protestavam"
+  },
+  "PPSI": {
+    "1s": "protestei",
+    "2s": "protestaste",
+    "3s": "protestou",
+    "1p": "protestámos",
+    "2p": "protestastes",
+    "3p": "protestaram"
+  },
+  "PMQPSI": {
+    "1s": "protestara",
+    "2s": "protestaras",
+    "3s": "protestara",
+    "1p": "protestáramos",
+    "2p": "protestáreis",
+    "3p": "protestaram"
+  },
+  "FutSI": {
+    "1s": "protestarei",
+    "2s": "protestarás",
+    "3s": "protestará",
+    "1p": "protestaremos",
+    "2p": "protestareis",
+    "3p": "protestarão"
+  },
+  "CondS": {
+    "1s": "protestaria",
+    "2s": "protestarias",
+    "3s": "protestaria",
+    "1p": "protestaríamos",
+    "2p": "protestaríeis",
+    "3p": "protestariam"
+  },
+  "PresC": {
+    "1s": "proteste",
+    "2s": "protestes",
+    "3s": "proteste",
+    "1p": "protestemos",
+    "2p": "protesteis",
+    "3p": "protestem"
+  },
+  "PImpC": {
+    "1s": "protestasse",
+    "2s": "protestasses",
+    "3s": "protestasse",
+    "1p": "protestássemos",
+    "2p": "protestásseis",
+    "3p": "protestassem"
+  },
+  "FutSC": {
+    "1s": "protestar",
+    "2s": "protestares",
+    "3s": "protestar",
+    "1p": "protestarmos",
+    "2p": "protestardes",
+    "3p": "protestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "protesta",
+    "3s": "proteste",
+    "1p": "protestemos",
+    "2p": "protestai",
+    "3p": "protestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não protestes",
+    "3s": "não proteste",
+    "1p": "não protestemos",
+    "2p": "não protesteis",
+    "3p": "não protestem"
+  },
+  "Part-ter": {
+    "": "protestado"
+  },
+  "Part-ser": {
+    "ms": "protestado",
+    "fs": "protestada",
+    "mp": "protestados",
+    "fp": "protestadas"
+  }
+}

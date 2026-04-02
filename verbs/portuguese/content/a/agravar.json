@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agravar"
+  },
+  "InfP": {
+    "1s": "agravar",
+    "2s": "agravares",
+    "3s": "agravar",
+    "1p": "agravarmos",
+    "2p": "agravardes",
+    "3p": "agravarem"
+  },
+  "Ger": {
+    "": "agravando"
+  },
+  "PresI": {
+    "1s": "agravo",
+    "2s": "agravas",
+    "3s": "agrava",
+    "1p": "agravamos",
+    "2p": "agravais",
+    "3p": "agravam"
+  },
+  "PImpI": {
+    "1s": "agravava",
+    "2s": "agravavas",
+    "3s": "agravava",
+    "1p": "agravávamos",
+    "2p": "agraváveis",
+    "3p": "agravavam"
+  },
+  "PPSI": {
+    "1s": "agravei",
+    "2s": "agravaste",
+    "3s": "agravou",
+    "1p": "agravámos",
+    "2p": "agravastes",
+    "3p": "agravaram"
+  },
+  "PMQPSI": {
+    "1s": "agravara",
+    "2s": "agravaras",
+    "3s": "agravara",
+    "1p": "agraváramos",
+    "2p": "agraváreis",
+    "3p": "agravaram"
+  },
+  "FutSI": {
+    "1s": "agravarei",
+    "2s": "agravarás",
+    "3s": "agravará",
+    "1p": "agravaremos",
+    "2p": "agravareis",
+    "3p": "agravarão"
+  },
+  "CondS": {
+    "1s": "agravaria",
+    "2s": "agravarias",
+    "3s": "agravaria",
+    "1p": "agravaríamos",
+    "2p": "agravaríeis",
+    "3p": "agravariam"
+  },
+  "PresC": {
+    "1s": "agrave",
+    "2s": "agraves",
+    "3s": "agrave",
+    "1p": "agravemos",
+    "2p": "agraveis",
+    "3p": "agravem"
+  },
+  "PImpC": {
+    "1s": "agravasse",
+    "2s": "agravasses",
+    "3s": "agravasse",
+    "1p": "agravássemos",
+    "2p": "agravásseis",
+    "3p": "agravassem"
+  },
+  "FutSC": {
+    "1s": "agravar",
+    "2s": "agravares",
+    "3s": "agravar",
+    "1p": "agravarmos",
+    "2p": "agravardes",
+    "3p": "agravarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agrava",
+    "3s": "agrave",
+    "1p": "agravemos",
+    "2p": "agravai",
+    "3p": "agravem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agraves",
+    "3s": "não agrave",
+    "1p": "não agravemos",
+    "2p": "não agraveis",
+    "3p": "não agravem"
+  },
+  "Part-ter": {
+    "": "agravado"
+  },
+  "Part-ser": {
+    "ms": "agravado",
+    "fs": "agravada",
+    "mp": "agravados",
+    "fp": "agravadas"
+  }
+}

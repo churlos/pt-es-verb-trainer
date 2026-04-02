@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vincar"
+  },
+  "InfP": {
+    "1s": "vincar",
+    "2s": "vincares",
+    "3s": "vincar",
+    "1p": "vincarmos",
+    "2p": "vincardes",
+    "3p": "vincarem"
+  },
+  "Ger": {
+    "": "vincando"
+  },
+  "PresI": {
+    "1s": "vinco",
+    "2s": "vincas",
+    "3s": "vinca",
+    "1p": "vincamos",
+    "2p": "vincais",
+    "3p": "vincam"
+  },
+  "PImpI": {
+    "1s": "vincava",
+    "2s": "vincavas",
+    "3s": "vincava",
+    "1p": "vincávamos",
+    "2p": "vincáveis",
+    "3p": "vincavam"
+  },
+  "PPSI": {
+    "1s": "vinquei",
+    "2s": "vincaste",
+    "3s": "vincou",
+    "1p": "vincámos",
+    "2p": "vincastes",
+    "3p": "vincaram"
+  },
+  "PMQPSI": {
+    "1s": "vincara",
+    "2s": "vincaras",
+    "3s": "vincara",
+    "1p": "vincáramos",
+    "2p": "vincáreis",
+    "3p": "vincaram"
+  },
+  "FutSI": {
+    "1s": "vincarei",
+    "2s": "vincarás",
+    "3s": "vincará",
+    "1p": "vincaremos",
+    "2p": "vincareis",
+    "3p": "vincarão"
+  },
+  "CondS": {
+    "1s": "vincaria",
+    "2s": "vincarias",
+    "3s": "vincaria",
+    "1p": "vincaríamos",
+    "2p": "vincaríeis",
+    "3p": "vincariam"
+  },
+  "PresC": {
+    "1s": "vinque",
+    "2s": "vinques",
+    "3s": "vinque",
+    "1p": "vinquemos",
+    "2p": "vinqueis",
+    "3p": "vinquem"
+  },
+  "PImpC": {
+    "1s": "vincasse",
+    "2s": "vincasses",
+    "3s": "vincasse",
+    "1p": "vincássemos",
+    "2p": "vincásseis",
+    "3p": "vincassem"
+  },
+  "FutSC": {
+    "1s": "vincar",
+    "2s": "vincares",
+    "3s": "vincar",
+    "1p": "vincarmos",
+    "2p": "vincardes",
+    "3p": "vincarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vinca",
+    "3s": "vinque",
+    "1p": "vinquemos",
+    "2p": "vincai",
+    "3p": "vinquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vinques",
+    "3s": "não vinque",
+    "1p": "não vinquemos",
+    "2p": "não vinqueis",
+    "3p": "não vinquem"
+  },
+  "Part-ter": {
+    "": "vincado"
+  },
+  "Part-ser": {
+    "ms": "vincado",
+    "fs": "vincada",
+    "mp": "vincados",
+    "fp": "vincadas"
+  }
+}

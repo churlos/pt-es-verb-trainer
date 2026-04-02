@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "adyacer"
+  },
+  "Ger": {
+    "": "adyaciendo"
+  },
+  "PresI": {
+    "1s": "adyazco, adyazgo, adyago",
+    "2s": "adyaces",
+    "3s": "adyace",
+    "1p": "adyacemos",
+    "2p": "adyacéis",
+    "3p": "adyacen"
+  },
+  "PImpI": {
+    "1s": "adyacía",
+    "2s": "adyacías",
+    "3s": "adyacía",
+    "1p": "adyacíamos",
+    "2p": "adyacíais",
+    "3p": "adyacían"
+  },
+  "PPSI": {
+    "1s": "adyací",
+    "2s": "adyaciste",
+    "3s": "adyació",
+    "1p": "adyacimos",
+    "2p": "adyacisteis",
+    "3p": "adyacieron"
+  },
+  "FutSI": {
+    "1s": "adyaceré",
+    "2s": "adyacerás",
+    "3s": "adyacerá",
+    "1p": "adyaceremos",
+    "2p": "adyaceréis",
+    "3p": "adyacerán"
+  },
+  "CondS": {
+    "1s": "adyacería",
+    "2s": "adyacerías",
+    "3s": "adyacería",
+    "1p": "adyaceríamos",
+    "2p": "adyaceríais",
+    "3p": "adyacerían"
+  },
+  "PresC": {
+    "1s": "adyazca, adyazga, adyaga",
+    "2s": "adyazcas, adyazgas, adyagas",
+    "3s": "adyazca, adyazga, adyaga",
+    "1p": "adyazcamos, adyazgamos, adyagamos",
+    "2p": "adyazcáis, adyazgáis, adyagáis",
+    "3p": "adyazcan, adyazgan, adyagan"
+  },
+  "PMQPSI": {
+    "1s": "adyaciera",
+    "2s": "adyacieras",
+    "3s": "adyaciera",
+    "1p": "adyaciéramos",
+    "2p": "adyacierais",
+    "3p": "adyacieran"
+  },
+  "PImpC": {
+    "1s": "adyaciese",
+    "2s": "adyacieses",
+    "3s": "adyaciese",
+    "1p": "adyaciésemos",
+    "2p": "adyacieseis",
+    "3p": "adyaciesen"
+  },
+  "FutSC": {
+    "1s": "adyaciere",
+    "2s": "adyacieres",
+    "3s": "adyaciere",
+    "1p": "adyaciéremos",
+    "2p": "adyaciereis",
+    "3p": "adyacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adyace",
+    "3s": "adyazca, adyazga, adyaga",
+    "1p": "adyazcamos, adyazgamos, adyagamos",
+    "2p": "adyaced",
+    "3p": "adyazcan, adyazgan, adyagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no adyazcas, adyazgas, adyagas",
+    "3s": "no adyazca, adyazga, adyaga",
+    "1p": "no adyazcamos, adyazgamos, adyagamos",
+    "2p": "no adyazcáis, adyazgáis, adyagáis",
+    "3p": "no adyazcan, adyazgan, adyagan"
+  },
+  "Part-ter": {
+    "": "adyacido"
+  },
+  "Part-ser": {
+    "ms": "adyacido",
+    "fs": "adyacida",
+    "mp": "adyacidos",
+    "fp": "adyacidas"
+  }
+}

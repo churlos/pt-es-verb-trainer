@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "verse"
+  },
+  "Ger": {
+    "": "viéndose"
+  },
+  "PresI": {
+    "1s": "me veo",
+    "2s": "te ves",
+    "3s": "se ve",
+    "1p": "nos vemos",
+    "2p": "os veis",
+    "3p": "se ven"
+  },
+  "PImpI": {
+    "1s": "me veía",
+    "2s": "te veías",
+    "3s": "se veía",
+    "1p": "nos veíamos",
+    "2p": "os veíais",
+    "3p": "se veían"
+  },
+  "PPSI": {
+    "1s": "me vi",
+    "2s": "te viste",
+    "3s": "se vio",
+    "1p": "nos vimos",
+    "2p": "os visteis",
+    "3p": "se vieron"
+  },
+  "FutSI": {
+    "1s": "me veré",
+    "2s": "te verás",
+    "3s": "se verá",
+    "1p": "nos veremos",
+    "2p": "os veréis",
+    "3p": "se verán"
+  },
+  "CondS": {
+    "1s": "me vería",
+    "2s": "te verías",
+    "3s": "se vería",
+    "1p": "nos veríamos",
+    "2p": "os veríais",
+    "3p": "se verían"
+  },
+  "PresC": {
+    "1s": "me vea",
+    "2s": "te veas",
+    "3s": "se vea",
+    "1p": "nos veamos",
+    "2p": "os veáis",
+    "3p": "se vean"
+  },
+  "PMQPSI": {
+    "1s": "me viera",
+    "2s": "te vieras",
+    "3s": "se viera",
+    "1p": "nos viéramos",
+    "2p": "os vierais",
+    "3p": "se vieran"
+  },
+  "PImpC": {
+    "1s": "me viese",
+    "2s": "te vieses",
+    "3s": "se viese",
+    "1p": "nos viésemos",
+    "2p": "os vieseis",
+    "3p": "se viesen"
+  },
+  "FutSC": {
+    "1s": "me viere",
+    "2s": "te vieres",
+    "3s": "se viere",
+    "1p": "nos viéremos",
+    "2p": "os viereis",
+    "3p": "se vieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vete",
+    "3s": "véase",
+    "1p": "veámonos",
+    "2p": "veos",
+    "3p": "véanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te veas",
+    "3s": "no se vea",
+    "1p": "no nos veamos",
+    "2p": "no os veáis",
+    "3p": "no se vean"
+  },
+  "Part-ter": {
+    "": "visto"
+  },
+  "Part-ser": {
+    "ms": "visto",
+    "fs": "vista",
+    "mp": "vistos",
+    "fp": "vistas"
+  }
+}

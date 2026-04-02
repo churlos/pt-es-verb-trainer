@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mantener"
+  },
+  "Ger": {
+    "": "manteniendo"
+  },
+  "PresI": {
+    "1s": "mantengo",
+    "2s": "mantienes",
+    "3s": "mantiene",
+    "1p": "mantenemos",
+    "2p": "mantenéis",
+    "3p": "mantienen"
+  },
+  "PImpI": {
+    "1s": "mantenía",
+    "2s": "mantenías",
+    "3s": "mantenía",
+    "1p": "manteníamos",
+    "2p": "manteníais",
+    "3p": "mantenían"
+  },
+  "PPSI": {
+    "1s": "mantuve",
+    "2s": "mantuviste",
+    "3s": "mantuvo",
+    "1p": "mantuvimos",
+    "2p": "mantuvisteis",
+    "3p": "mantuvieron"
+  },
+  "FutSI": {
+    "1s": "mantendré",
+    "2s": "mantendrás",
+    "3s": "mantendrá",
+    "1p": "mantendremos",
+    "2p": "mantendréis",
+    "3p": "mantendrán"
+  },
+  "CondS": {
+    "1s": "mantendría",
+    "2s": "mantendrías",
+    "3s": "mantendría",
+    "1p": "mantendríamos",
+    "2p": "mantendríais",
+    "3p": "mantendrían"
+  },
+  "PresC": {
+    "1s": "mantenga",
+    "2s": "mantengas",
+    "3s": "mantenga",
+    "1p": "mantengamos",
+    "2p": "mantengáis",
+    "3p": "mantengan"
+  },
+  "PMQPSI": {
+    "1s": "mantuviera",
+    "2s": "mantuvieras",
+    "3s": "mantuviera",
+    "1p": "mantuviéramos",
+    "2p": "mantuvierais",
+    "3p": "mantuvieran"
+  },
+  "PImpC": {
+    "1s": "mantuviese",
+    "2s": "mantuvieses",
+    "3s": "mantuviese",
+    "1p": "mantuviésemos",
+    "2p": "mantuvieseis",
+    "3p": "mantuviesen"
+  },
+  "FutSC": {
+    "1s": "mantuviere",
+    "2s": "mantuvieres",
+    "3s": "mantuviere",
+    "1p": "mantuviéremos",
+    "2p": "mantuviereis",
+    "3p": "mantuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mantén",
+    "3s": "mantenga",
+    "1p": "mantengamos",
+    "2p": "mantened",
+    "3p": "mantengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mantengas",
+    "3s": "no mantenga",
+    "1p": "no mantengamos",
+    "2p": "no mantengáis",
+    "3p": "no mantengan"
+  },
+  "Part-ter": {
+    "": "mantenido"
+  },
+  "Part-ser": {
+    "ms": "mantenido",
+    "fs": "mantenida",
+    "mp": "mantenidos",
+    "fp": "mantenidas"
+  }
+}

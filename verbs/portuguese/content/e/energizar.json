@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "energizar"
+  },
+  "InfP": {
+    "1s": "energizar",
+    "2s": "energizares",
+    "3s": "energizar",
+    "1p": "energizarmos",
+    "2p": "energizardes",
+    "3p": "energizarem"
+  },
+  "Ger": {
+    "": "energizando"
+  },
+  "PresI": {
+    "1s": "energizo",
+    "2s": "energizas",
+    "3s": "energiza",
+    "1p": "energizamos",
+    "2p": "energizais",
+    "3p": "energizam"
+  },
+  "PImpI": {
+    "1s": "energizava",
+    "2s": "energizavas",
+    "3s": "energizava",
+    "1p": "energizávamos",
+    "2p": "energizáveis",
+    "3p": "energizavam"
+  },
+  "PPSI": {
+    "1s": "energizei",
+    "2s": "energizaste",
+    "3s": "energizou",
+    "1p": "energizámos",
+    "2p": "energizastes",
+    "3p": "energizaram"
+  },
+  "PMQPSI": {
+    "1s": "energizara",
+    "2s": "energizaras",
+    "3s": "energizara",
+    "1p": "energizáramos",
+    "2p": "energizáreis",
+    "3p": "energizaram"
+  },
+  "FutSI": {
+    "1s": "energizarei",
+    "2s": "energizarás",
+    "3s": "energizará",
+    "1p": "energizaremos",
+    "2p": "energizareis",
+    "3p": "energizarão"
+  },
+  "CondS": {
+    "1s": "energizaria",
+    "2s": "energizarias",
+    "3s": "energizaria",
+    "1p": "energizaríamos",
+    "2p": "energizaríeis",
+    "3p": "energizariam"
+  },
+  "PresC": {
+    "1s": "energize",
+    "2s": "energizes",
+    "3s": "energize",
+    "1p": "energizemos",
+    "2p": "energizeis",
+    "3p": "energizem"
+  },
+  "PImpC": {
+    "1s": "energizasse",
+    "2s": "energizasses",
+    "3s": "energizasse",
+    "1p": "energizássemos",
+    "2p": "energizásseis",
+    "3p": "energizassem"
+  },
+  "FutSC": {
+    "1s": "energizar",
+    "2s": "energizares",
+    "3s": "energizar",
+    "1p": "energizarmos",
+    "2p": "energizardes",
+    "3p": "energizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "energiza",
+    "3s": "energize",
+    "1p": "energizemos",
+    "2p": "energizai",
+    "3p": "energizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não energizes",
+    "3s": "não energize",
+    "1p": "não energizemos",
+    "2p": "não energizeis",
+    "3p": "não energizem"
+  },
+  "Part-ter": {
+    "": "energizado"
+  },
+  "Part-ser": {
+    "ms": "energizado",
+    "fs": "energizada",
+    "mp": "energizados",
+    "fp": "energizadas"
+  }
+}

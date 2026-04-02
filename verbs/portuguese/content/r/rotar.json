@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rotar"
+  },
+  "InfP": {
+    "1s": "rotar",
+    "2s": "rotares",
+    "3s": "rotar",
+    "1p": "rotarmos",
+    "2p": "rotardes",
+    "3p": "rotarem"
+  },
+  "Ger": {
+    "": "rotando"
+  },
+  "PresI": {
+    "1s": "roto",
+    "2s": "rotas",
+    "3s": "rota",
+    "1p": "rotamos",
+    "2p": "rotais",
+    "3p": "rotam"
+  },
+  "PImpI": {
+    "1s": "rotava",
+    "2s": "rotavas",
+    "3s": "rotava",
+    "1p": "rotávamos",
+    "2p": "rotáveis",
+    "3p": "rotavam"
+  },
+  "PPSI": {
+    "1s": "rotei",
+    "2s": "rotaste",
+    "3s": "rotou",
+    "1p": "rotámos",
+    "2p": "rotastes",
+    "3p": "rotaram"
+  },
+  "PMQPSI": {
+    "1s": "rotara",
+    "2s": "rotaras",
+    "3s": "rotara",
+    "1p": "rotáramos",
+    "2p": "rotáreis",
+    "3p": "rotaram"
+  },
+  "FutSI": {
+    "1s": "rotarei",
+    "2s": "rotarás",
+    "3s": "rotará",
+    "1p": "rotaremos",
+    "2p": "rotareis",
+    "3p": "rotarão"
+  },
+  "CondS": {
+    "1s": "rotaria",
+    "2s": "rotarias",
+    "3s": "rotaria",
+    "1p": "rotaríamos",
+    "2p": "rotaríeis",
+    "3p": "rotariam"
+  },
+  "PresC": {
+    "1s": "rote",
+    "2s": "rotes",
+    "3s": "rote",
+    "1p": "rotemos",
+    "2p": "roteis",
+    "3p": "rotem"
+  },
+  "PImpC": {
+    "1s": "rotasse",
+    "2s": "rotasses",
+    "3s": "rotasse",
+    "1p": "rotássemos",
+    "2p": "rotásseis",
+    "3p": "rotassem"
+  },
+  "FutSC": {
+    "1s": "rotar",
+    "2s": "rotares",
+    "3s": "rotar",
+    "1p": "rotarmos",
+    "2p": "rotardes",
+    "3p": "rotarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rota",
+    "3s": "rote",
+    "1p": "rotemos",
+    "2p": "rotai",
+    "3p": "rotem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rotes",
+    "3s": "não rote",
+    "1p": "não rotemos",
+    "2p": "não roteis",
+    "3p": "não rotem"
+  },
+  "Part-ter": {
+    "": "rotado"
+  },
+  "Part-ser": {
+    "ms": "rotado",
+    "fs": "rotada",
+    "mp": "rotados",
+    "fp": "rotadas"
+  }
+}

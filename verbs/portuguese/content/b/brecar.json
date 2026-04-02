@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "brecar"
+  },
+  "InfP": {
+    "1s": "brecar",
+    "2s": "brecares",
+    "3s": "brecar",
+    "1p": "brecarmos",
+    "2p": "brecardes",
+    "3p": "brecarem"
+  },
+  "Ger": {
+    "": "brecando"
+  },
+  "PresI": {
+    "1s": "breco",
+    "2s": "brecas",
+    "3s": "breca",
+    "1p": "brecamos",
+    "2p": "brecais",
+    "3p": "brecam"
+  },
+  "PImpI": {
+    "1s": "brecava",
+    "2s": "brecavas",
+    "3s": "brecava",
+    "1p": "brecávamos",
+    "2p": "brecáveis",
+    "3p": "brecavam"
+  },
+  "PPSI": {
+    "1s": "brequei",
+    "2s": "brecaste",
+    "3s": "brecou",
+    "1p": "brecámos",
+    "2p": "brecastes",
+    "3p": "brecaram"
+  },
+  "PMQPSI": {
+    "1s": "brecara",
+    "2s": "brecaras",
+    "3s": "brecara",
+    "1p": "brecáramos",
+    "2p": "brecáreis",
+    "3p": "brecaram"
+  },
+  "FutSI": {
+    "1s": "brecarei",
+    "2s": "brecarás",
+    "3s": "brecará",
+    "1p": "brecaremos",
+    "2p": "brecareis",
+    "3p": "brecarão"
+  },
+  "CondS": {
+    "1s": "brecaria",
+    "2s": "brecarias",
+    "3s": "brecaria",
+    "1p": "brecaríamos",
+    "2p": "brecaríeis",
+    "3p": "brecariam"
+  },
+  "PresC": {
+    "1s": "breque",
+    "2s": "breques",
+    "3s": "breque",
+    "1p": "brequemos",
+    "2p": "brequeis",
+    "3p": "brequem"
+  },
+  "PImpC": {
+    "1s": "brecasse",
+    "2s": "brecasses",
+    "3s": "brecasse",
+    "1p": "brecássemos",
+    "2p": "brecásseis",
+    "3p": "brecassem"
+  },
+  "FutSC": {
+    "1s": "brecar",
+    "2s": "brecares",
+    "3s": "brecar",
+    "1p": "brecarmos",
+    "2p": "brecardes",
+    "3p": "brecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "breca",
+    "3s": "breque",
+    "1p": "brequemos",
+    "2p": "brecai",
+    "3p": "brequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não breques",
+    "3s": "não breque",
+    "1p": "não brequemos",
+    "2p": "não brequeis",
+    "3p": "não brequem"
+  },
+  "Part-ter": {
+    "": "brecado"
+  },
+  "Part-ser": {
+    "ms": "brecado",
+    "fs": "brecada",
+    "mp": "brecados",
+    "fp": "brecadas"
+  }
+}

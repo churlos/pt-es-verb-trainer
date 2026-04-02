@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ensamblar"
+  },
+  "Ger": {
+    "": "ensamblando"
+  },
+  "PresI": {
+    "1s": "ensamblo",
+    "2s": "ensamblas",
+    "3s": "ensambla",
+    "1p": "ensamblamos",
+    "2p": "ensambláis",
+    "3p": "ensamblan"
+  },
+  "PImpI": {
+    "1s": "ensamblaba",
+    "2s": "ensamblabas",
+    "3s": "ensamblaba",
+    "1p": "ensamblábamos",
+    "2p": "ensamblabais",
+    "3p": "ensamblaban"
+  },
+  "PPSI": {
+    "1s": "ensamblé",
+    "2s": "ensamblaste",
+    "3s": "ensambló",
+    "1p": "ensamblamos",
+    "2p": "ensamblasteis",
+    "3p": "ensamblaron"
+  },
+  "FutSI": {
+    "1s": "ensamblaré",
+    "2s": "ensamblarás",
+    "3s": "ensamblará",
+    "1p": "ensamblaremos",
+    "2p": "ensamblaréis",
+    "3p": "ensamblarán"
+  },
+  "CondS": {
+    "1s": "ensamblaría",
+    "2s": "ensamblarías",
+    "3s": "ensamblaría",
+    "1p": "ensamblaríamos",
+    "2p": "ensamblaríais",
+    "3p": "ensamblarían"
+  },
+  "PresC": {
+    "1s": "ensamble",
+    "2s": "ensambles",
+    "3s": "ensamble",
+    "1p": "ensamblemos",
+    "2p": "ensambléis",
+    "3p": "ensamblen"
+  },
+  "PMQPSI": {
+    "1s": "ensamblara",
+    "2s": "ensamblaras",
+    "3s": "ensamblara",
+    "1p": "ensambláramos",
+    "2p": "ensamblarais",
+    "3p": "ensamblaran"
+  },
+  "PImpC": {
+    "1s": "ensamblase",
+    "2s": "ensamblases",
+    "3s": "ensamblase",
+    "1p": "ensamblásemos",
+    "2p": "ensamblaseis",
+    "3p": "ensamblasen"
+  },
+  "FutSC": {
+    "1s": "ensamblare",
+    "2s": "ensamblares",
+    "3s": "ensamblare",
+    "1p": "ensambláremos",
+    "2p": "ensamblareis",
+    "3p": "ensamblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ensambla",
+    "3s": "ensamble",
+    "1p": "ensamblemos",
+    "2p": "ensamblad",
+    "3p": "ensamblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ensambles",
+    "3s": "no ensamble",
+    "1p": "no ensamblemos",
+    "2p": "no ensambléis",
+    "3p": "no ensamblen"
+  },
+  "Part-ter": {
+    "": "ensamblado"
+  },
+  "Part-ser": {
+    "ms": "ensamblado",
+    "fs": "ensamblada",
+    "mp": "ensamblados",
+    "fp": "ensambladas"
+  }
+}

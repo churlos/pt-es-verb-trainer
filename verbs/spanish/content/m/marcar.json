@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "marcar"
+  },
+  "Ger": {
+    "": "marcando"
+  },
+  "PresI": {
+    "1s": "marco",
+    "2s": "marcas",
+    "3s": "marca",
+    "1p": "marcamos",
+    "2p": "marcáis",
+    "3p": "marcan"
+  },
+  "PImpI": {
+    "1s": "marcaba",
+    "2s": "marcabas",
+    "3s": "marcaba",
+    "1p": "marcábamos",
+    "2p": "marcabais",
+    "3p": "marcaban"
+  },
+  "PPSI": {
+    "1s": "marqué",
+    "2s": "marcaste",
+    "3s": "marcó",
+    "1p": "marcamos",
+    "2p": "marcasteis",
+    "3p": "marcaron"
+  },
+  "FutSI": {
+    "1s": "marcaré",
+    "2s": "marcarás",
+    "3s": "marcará",
+    "1p": "marcaremos",
+    "2p": "marcaréis",
+    "3p": "marcarán"
+  },
+  "CondS": {
+    "1s": "marcaría",
+    "2s": "marcarías",
+    "3s": "marcaría",
+    "1p": "marcaríamos",
+    "2p": "marcaríais",
+    "3p": "marcarían"
+  },
+  "PresC": {
+    "1s": "marque",
+    "2s": "marques",
+    "3s": "marque",
+    "1p": "marquemos",
+    "2p": "marquéis",
+    "3p": "marquen"
+  },
+  "PMQPSI": {
+    "1s": "marcara",
+    "2s": "marcaras",
+    "3s": "marcara",
+    "1p": "marcáramos",
+    "2p": "marcarais",
+    "3p": "marcaran"
+  },
+  "PImpC": {
+    "1s": "marcase",
+    "2s": "marcases",
+    "3s": "marcase",
+    "1p": "marcásemos",
+    "2p": "marcaseis",
+    "3p": "marcasen"
+  },
+  "FutSC": {
+    "1s": "marcare",
+    "2s": "marcares",
+    "3s": "marcare",
+    "1p": "marcáremos",
+    "2p": "marcareis",
+    "3p": "marcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "marca",
+    "3s": "marque",
+    "1p": "marquemos",
+    "2p": "marcad",
+    "3p": "marquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no marques",
+    "3s": "no marque",
+    "1p": "no marquemos",
+    "2p": "no marquéis",
+    "3p": "no marquen"
+  },
+  "Part-ter": {
+    "": "marcado"
+  },
+  "Part-ser": {
+    "ms": "marcado",
+    "fs": "marcada",
+    "mp": "marcados",
+    "fp": "marcadas"
+  }
+}

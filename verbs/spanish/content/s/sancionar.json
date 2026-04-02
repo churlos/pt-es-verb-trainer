@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sancionar"
+  },
+  "Ger": {
+    "": "sancionando"
+  },
+  "PresI": {
+    "1s": "sanciono",
+    "2s": "sancionas",
+    "3s": "sanciona",
+    "1p": "sancionamos",
+    "2p": "sancionáis",
+    "3p": "sancionan"
+  },
+  "PImpI": {
+    "1s": "sancionaba",
+    "2s": "sancionabas",
+    "3s": "sancionaba",
+    "1p": "sancionábamos",
+    "2p": "sancionabais",
+    "3p": "sancionaban"
+  },
+  "PPSI": {
+    "1s": "sancioné",
+    "2s": "sancionaste",
+    "3s": "sancionó",
+    "1p": "sancionamos",
+    "2p": "sancionasteis",
+    "3p": "sancionaron"
+  },
+  "FutSI": {
+    "1s": "sancionaré",
+    "2s": "sancionarás",
+    "3s": "sancionará",
+    "1p": "sancionaremos",
+    "2p": "sancionaréis",
+    "3p": "sancionarán"
+  },
+  "CondS": {
+    "1s": "sancionaría",
+    "2s": "sancionarías",
+    "3s": "sancionaría",
+    "1p": "sancionaríamos",
+    "2p": "sancionaríais",
+    "3p": "sancionarían"
+  },
+  "PresC": {
+    "1s": "sancione",
+    "2s": "sanciones",
+    "3s": "sancione",
+    "1p": "sancionemos",
+    "2p": "sancionéis",
+    "3p": "sancionen"
+  },
+  "PMQPSI": {
+    "1s": "sancionara",
+    "2s": "sancionaras",
+    "3s": "sancionara",
+    "1p": "sancionáramos",
+    "2p": "sancionarais",
+    "3p": "sancionaran"
+  },
+  "PImpC": {
+    "1s": "sancionase",
+    "2s": "sancionases",
+    "3s": "sancionase",
+    "1p": "sancionásemos",
+    "2p": "sancionaseis",
+    "3p": "sancionasen"
+  },
+  "FutSC": {
+    "1s": "sancionare",
+    "2s": "sancionares",
+    "3s": "sancionare",
+    "1p": "sancionáremos",
+    "2p": "sancionareis",
+    "3p": "sancionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sanciona",
+    "3s": "sancione",
+    "1p": "sancionemos",
+    "2p": "sancionad",
+    "3p": "sancionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sanciones",
+    "3s": "no sancione",
+    "1p": "no sancionemos",
+    "2p": "no sancionéis",
+    "3p": "no sancionen"
+  },
+  "Part-ter": {
+    "": "sancionado"
+  },
+  "Part-ser": {
+    "ms": "sancionado",
+    "fs": "sancionada",
+    "mp": "sancionados",
+    "fp": "sancionadas"
+  }
+}

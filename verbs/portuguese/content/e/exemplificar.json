@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exemplificar"
+  },
+  "InfP": {
+    "1s": "exemplificar",
+    "2s": "exemplificares",
+    "3s": "exemplificar",
+    "1p": "exemplificarmos",
+    "2p": "exemplificardes",
+    "3p": "exemplificarem"
+  },
+  "Ger": {
+    "": "exemplificando"
+  },
+  "PresI": {
+    "1s": "exemplifico",
+    "2s": "exemplificas",
+    "3s": "exemplifica",
+    "1p": "exemplificamos",
+    "2p": "exemplificais",
+    "3p": "exemplificam"
+  },
+  "PImpI": {
+    "1s": "exemplificava",
+    "2s": "exemplificavas",
+    "3s": "exemplificava",
+    "1p": "exemplificávamos",
+    "2p": "exemplificáveis",
+    "3p": "exemplificavam"
+  },
+  "PPSI": {
+    "1s": "exemplifiquei",
+    "2s": "exemplificaste",
+    "3s": "exemplificou",
+    "1p": "exemplificámos",
+    "2p": "exemplificastes",
+    "3p": "exemplificaram"
+  },
+  "PMQPSI": {
+    "1s": "exemplificara",
+    "2s": "exemplificaras",
+    "3s": "exemplificara",
+    "1p": "exemplificáramos",
+    "2p": "exemplificáreis",
+    "3p": "exemplificaram"
+  },
+  "FutSI": {
+    "1s": "exemplificarei",
+    "2s": "exemplificarás",
+    "3s": "exemplificará",
+    "1p": "exemplificaremos",
+    "2p": "exemplificareis",
+    "3p": "exemplificarão"
+  },
+  "CondS": {
+    "1s": "exemplificaria",
+    "2s": "exemplificarias",
+    "3s": "exemplificaria",
+    "1p": "exemplificaríamos",
+    "2p": "exemplificaríeis",
+    "3p": "exemplificariam"
+  },
+  "PresC": {
+    "1s": "exemplifique",
+    "2s": "exemplifiques",
+    "3s": "exemplifique",
+    "1p": "exemplifiquemos",
+    "2p": "exemplifiqueis",
+    "3p": "exemplifiquem"
+  },
+  "PImpC": {
+    "1s": "exemplificasse",
+    "2s": "exemplificasses",
+    "3s": "exemplificasse",
+    "1p": "exemplificássemos",
+    "2p": "exemplificásseis",
+    "3p": "exemplificassem"
+  },
+  "FutSC": {
+    "1s": "exemplificar",
+    "2s": "exemplificares",
+    "3s": "exemplificar",
+    "1p": "exemplificarmos",
+    "2p": "exemplificardes",
+    "3p": "exemplificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exemplifica",
+    "3s": "exemplifique",
+    "1p": "exemplifiquemos",
+    "2p": "exemplificai",
+    "3p": "exemplifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exemplifiques",
+    "3s": "não exemplifique",
+    "1p": "não exemplifiquemos",
+    "2p": "não exemplifiqueis",
+    "3p": "não exemplifiquem"
+  },
+  "Part-ter": {
+    "": "exemplificado"
+  },
+  "Part-ser": {
+    "ms": "exemplificado",
+    "fs": "exemplificada",
+    "mp": "exemplificados",
+    "fp": "exemplificadas"
+  }
+}

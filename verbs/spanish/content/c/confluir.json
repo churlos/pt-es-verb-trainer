@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "confluir"
+  },
+  "Ger": {
+    "": "confluyendo"
+  },
+  "PresI": {
+    "1s": "confluyo",
+    "2s": "confluyes",
+    "3s": "confluye",
+    "1p": "confluimos",
+    "2p": "confluís",
+    "3p": "confluyen"
+  },
+  "PImpI": {
+    "1s": "confluía",
+    "2s": "confluías",
+    "3s": "confluía",
+    "1p": "confluíamos",
+    "2p": "confluíais",
+    "3p": "confluían"
+  },
+  "PPSI": {
+    "1s": "confluí",
+    "2s": "confluiste",
+    "3s": "confluyó",
+    "1p": "confluimos",
+    "2p": "confluisteis",
+    "3p": "confluyeron"
+  },
+  "FutSI": {
+    "1s": "confluiré",
+    "2s": "confluirás",
+    "3s": "confluirá",
+    "1p": "confluiremos",
+    "2p": "confluiréis",
+    "3p": "confluirán"
+  },
+  "CondS": {
+    "1s": "confluiría",
+    "2s": "confluirías",
+    "3s": "confluiría",
+    "1p": "confluiríamos",
+    "2p": "confluiríais",
+    "3p": "confluirían"
+  },
+  "PresC": {
+    "1s": "confluya",
+    "2s": "confluyas",
+    "3s": "confluya",
+    "1p": "confluyamos",
+    "2p": "confluyáis",
+    "3p": "confluyan"
+  },
+  "PMQPSI": {
+    "1s": "confluyera",
+    "2s": "confluyeras",
+    "3s": "confluyera",
+    "1p": "confluyéramos",
+    "2p": "confluyerais",
+    "3p": "confluyeran"
+  },
+  "PImpC": {
+    "1s": "confluyese",
+    "2s": "confluyeses",
+    "3s": "confluyese",
+    "1p": "confluyésemos",
+    "2p": "confluyeseis",
+    "3p": "confluyesen"
+  },
+  "FutSC": {
+    "1s": "confluyere",
+    "2s": "confluyeres",
+    "3s": "confluyere",
+    "1p": "confluyéremos",
+    "2p": "confluyereis",
+    "3p": "confluyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "confluye",
+    "3s": "confluya",
+    "1p": "confluyamos",
+    "2p": "confluid",
+    "3p": "confluyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no confluyas",
+    "3s": "no confluya",
+    "1p": "no confluyamos",
+    "2p": "no confluyáis",
+    "3p": "no confluyan"
+  },
+  "Part-ter": {
+    "": "confluido"
+  },
+  "Part-ser": {
+    "ms": "confluido",
+    "fs": "confluida",
+    "mp": "confluidos",
+    "fp": "confluidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "guerrear"
+  },
+  "InfP": {
+    "1s": "guerrear",
+    "2s": "guerreares",
+    "3s": "guerrear",
+    "1p": "guerrearmos",
+    "2p": "guerreardes",
+    "3p": "guerrearem"
+  },
+  "Ger": {
+    "": "guerreando"
+  },
+  "PresI": {
+    "1s": "guerreio",
+    "2s": "guerreias",
+    "3s": "guerreia",
+    "1p": "guerreamos",
+    "2p": "guerreais",
+    "3p": "guerreiam"
+  },
+  "PImpI": {
+    "1s": "guerreava",
+    "2s": "guerreavas",
+    "3s": "guerreava",
+    "1p": "guerreávamos",
+    "2p": "guerreáveis",
+    "3p": "guerreavam"
+  },
+  "PPSI": {
+    "1s": "guerreei",
+    "2s": "guerreaste",
+    "3s": "guerreou",
+    "1p": "guerreámos",
+    "2p": "guerreastes",
+    "3p": "guerrearam"
+  },
+  "PMQPSI": {
+    "1s": "guerreara",
+    "2s": "guerrearas",
+    "3s": "guerreara",
+    "1p": "guerreáramos",
+    "2p": "guerreáreis",
+    "3p": "guerrearam"
+  },
+  "FutSI": {
+    "1s": "guerrearei",
+    "2s": "guerrearás",
+    "3s": "guerreará",
+    "1p": "guerrearemos",
+    "2p": "guerreareis",
+    "3p": "guerrearão"
+  },
+  "CondS": {
+    "1s": "guerrearia",
+    "2s": "guerrearias",
+    "3s": "guerrearia",
+    "1p": "guerrearíamos",
+    "2p": "guerrearíeis",
+    "3p": "guerreariam"
+  },
+  "PresC": {
+    "1s": "guerreie",
+    "2s": "guerreies",
+    "3s": "guerreie",
+    "1p": "guerreemos",
+    "2p": "guerreeis",
+    "3p": "guerreiem"
+  },
+  "PImpC": {
+    "1s": "guerreasse",
+    "2s": "guerreasses",
+    "3s": "guerreasse",
+    "1p": "guerreássemos",
+    "2p": "guerreásseis",
+    "3p": "guerreassem"
+  },
+  "FutSC": {
+    "1s": "guerrear",
+    "2s": "guerreares",
+    "3s": "guerrear",
+    "1p": "guerrearmos",
+    "2p": "guerreardes",
+    "3p": "guerrearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guerreia",
+    "3s": "guerreie",
+    "1p": "guerreemos",
+    "2p": "guerreai",
+    "3p": "guerreiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não guerreies",
+    "3s": "não guerreie",
+    "1p": "não guerreemos",
+    "2p": "não guerreeis",
+    "3p": "não guerreiem"
+  },
+  "Part-ter": {
+    "": "guerreado"
+  },
+  "Part-ser": {
+    "ms": "guerreado",
+    "fs": "guerreada",
+    "mp": "guerreados",
+    "fp": "guerreadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "terminar"
+  },
+  "Ger": {
+    "": "terminando"
+  },
+  "PresI": {
+    "1s": "termino",
+    "2s": "terminas",
+    "3s": "termina",
+    "1p": "terminamos",
+    "2p": "termináis",
+    "3p": "terminan"
+  },
+  "PImpI": {
+    "1s": "terminaba",
+    "2s": "terminabas",
+    "3s": "terminaba",
+    "1p": "terminábamos",
+    "2p": "terminabais",
+    "3p": "terminaban"
+  },
+  "PPSI": {
+    "1s": "terminé",
+    "2s": "terminaste",
+    "3s": "terminó",
+    "1p": "terminamos",
+    "2p": "terminasteis",
+    "3p": "terminaron"
+  },
+  "FutSI": {
+    "1s": "terminaré",
+    "2s": "terminarás",
+    "3s": "terminará",
+    "1p": "terminaremos",
+    "2p": "terminaréis",
+    "3p": "terminarán"
+  },
+  "CondS": {
+    "1s": "terminaría",
+    "2s": "terminarías",
+    "3s": "terminaría",
+    "1p": "terminaríamos",
+    "2p": "terminaríais",
+    "3p": "terminarían"
+  },
+  "PresC": {
+    "1s": "termine",
+    "2s": "termines",
+    "3s": "termine",
+    "1p": "terminemos",
+    "2p": "terminéis",
+    "3p": "terminen"
+  },
+  "PMQPSI": {
+    "1s": "terminara",
+    "2s": "terminaras",
+    "3s": "terminara",
+    "1p": "termináramos",
+    "2p": "terminarais",
+    "3p": "terminaran"
+  },
+  "PImpC": {
+    "1s": "terminase",
+    "2s": "terminases",
+    "3s": "terminase",
+    "1p": "terminásemos",
+    "2p": "terminaseis",
+    "3p": "terminasen"
+  },
+  "FutSC": {
+    "1s": "terminare",
+    "2s": "terminares",
+    "3s": "terminare",
+    "1p": "termináremos",
+    "2p": "terminareis",
+    "3p": "terminaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "termina",
+    "3s": "termine",
+    "1p": "terminemos",
+    "2p": "terminad",
+    "3p": "terminen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no termines",
+    "3s": "no termine",
+    "1p": "no terminemos",
+    "2p": "no terminéis",
+    "3p": "no terminen"
+  },
+  "Part-ter": {
+    "": "terminado"
+  },
+  "Part-ser": {
+    "ms": "terminado",
+    "fs": "terminada",
+    "mp": "terminados",
+    "fp": "terminadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "brocar"
+  },
+  "InfP": {
+    "1s": "brocar",
+    "2s": "brocares",
+    "3s": "brocar",
+    "1p": "brocarmos",
+    "2p": "brocardes",
+    "3p": "brocarem"
+  },
+  "Ger": {
+    "": "brocando"
+  },
+  "PresI": {
+    "1s": "broco",
+    "2s": "brocas",
+    "3s": "broca",
+    "1p": "brocamos",
+    "2p": "brocais",
+    "3p": "brocam"
+  },
+  "PImpI": {
+    "1s": "brocava",
+    "2s": "brocavas",
+    "3s": "brocava",
+    "1p": "brocávamos",
+    "2p": "brocáveis",
+    "3p": "brocavam"
+  },
+  "PPSI": {
+    "1s": "broquei",
+    "2s": "brocaste",
+    "3s": "brocou",
+    "1p": "brocámos",
+    "2p": "brocastes",
+    "3p": "brocaram"
+  },
+  "PMQPSI": {
+    "1s": "brocara",
+    "2s": "brocaras",
+    "3s": "brocara",
+    "1p": "brocáramos",
+    "2p": "brocáreis",
+    "3p": "brocaram"
+  },
+  "FutSI": {
+    "1s": "brocarei",
+    "2s": "brocarás",
+    "3s": "brocará",
+    "1p": "brocaremos",
+    "2p": "brocareis",
+    "3p": "brocarão"
+  },
+  "CondS": {
+    "1s": "brocaria",
+    "2s": "brocarias",
+    "3s": "brocaria",
+    "1p": "brocaríamos",
+    "2p": "brocaríeis",
+    "3p": "brocariam"
+  },
+  "PresC": {
+    "1s": "broque",
+    "2s": "broques",
+    "3s": "broque",
+    "1p": "broquemos",
+    "2p": "broqueis",
+    "3p": "broquem"
+  },
+  "PImpC": {
+    "1s": "brocasse",
+    "2s": "brocasses",
+    "3s": "brocasse",
+    "1p": "brocássemos",
+    "2p": "brocásseis",
+    "3p": "brocassem"
+  },
+  "FutSC": {
+    "1s": "brocar",
+    "2s": "brocares",
+    "3s": "brocar",
+    "1p": "brocarmos",
+    "2p": "brocardes",
+    "3p": "brocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "broca",
+    "3s": "broque",
+    "1p": "broquemos",
+    "2p": "brocai",
+    "3p": "broquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não broques",
+    "3s": "não broque",
+    "1p": "não broquemos",
+    "2p": "não broqueis",
+    "3p": "não broquem"
+  },
+  "Part-ter": {
+    "": "brocado"
+  },
+  "Part-ser": {
+    "ms": "brocado",
+    "fs": "brocada",
+    "mp": "brocados",
+    "fp": "brocadas"
+  }
+}

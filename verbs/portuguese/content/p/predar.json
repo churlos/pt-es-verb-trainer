@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "predar"
+  },
+  "InfP": {
+    "1s": "predar",
+    "2s": "predares",
+    "3s": "predar",
+    "1p": "predarmos",
+    "2p": "predardes",
+    "3p": "predarem"
+  },
+  "Ger": {
+    "": "predando"
+  },
+  "PresI": {
+    "1s": "predo",
+    "2s": "predas",
+    "3s": "preda",
+    "1p": "predamos",
+    "2p": "predais",
+    "3p": "predam"
+  },
+  "PImpI": {
+    "1s": "predava",
+    "2s": "predavas",
+    "3s": "predava",
+    "1p": "predávamos",
+    "2p": "predáveis",
+    "3p": "predavam"
+  },
+  "PPSI": {
+    "1s": "predei",
+    "2s": "predaste",
+    "3s": "predou",
+    "1p": "predámos",
+    "2p": "predastes",
+    "3p": "predaram"
+  },
+  "PMQPSI": {
+    "1s": "predara",
+    "2s": "predaras",
+    "3s": "predara",
+    "1p": "predáramos",
+    "2p": "predáreis",
+    "3p": "predaram"
+  },
+  "FutSI": {
+    "1s": "predarei",
+    "2s": "predarás",
+    "3s": "predará",
+    "1p": "predaremos",
+    "2p": "predareis",
+    "3p": "predarão"
+  },
+  "CondS": {
+    "1s": "predaria",
+    "2s": "predarias",
+    "3s": "predaria",
+    "1p": "predaríamos",
+    "2p": "predaríeis",
+    "3p": "predariam"
+  },
+  "PresC": {
+    "1s": "prede",
+    "2s": "predes",
+    "3s": "prede",
+    "1p": "predemos",
+    "2p": "predeis",
+    "3p": "predem"
+  },
+  "PImpC": {
+    "1s": "predasse",
+    "2s": "predasses",
+    "3s": "predasse",
+    "1p": "predássemos",
+    "2p": "predásseis",
+    "3p": "predassem"
+  },
+  "FutSC": {
+    "1s": "predar",
+    "2s": "predares",
+    "3s": "predar",
+    "1p": "predarmos",
+    "2p": "predardes",
+    "3p": "predarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "preda",
+    "3s": "prede",
+    "1p": "predemos",
+    "2p": "predai",
+    "3p": "predem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não predes",
+    "3s": "não prede",
+    "1p": "não predemos",
+    "2p": "não predeis",
+    "3p": "não predem"
+  },
+  "Part-ter": {
+    "": "predado"
+  },
+  "Part-ser": {
+    "ms": "predado",
+    "fs": "predada",
+    "mp": "predados",
+    "fp": "predadas"
+  }
+}

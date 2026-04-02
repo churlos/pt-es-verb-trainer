@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "infiltrar"
+  },
+  "InfP": {
+    "1s": "infiltrar",
+    "2s": "infiltrares",
+    "3s": "infiltrar",
+    "1p": "infiltrarmos",
+    "2p": "infiltrardes",
+    "3p": "infiltrarem"
+  },
+  "Ger": {
+    "": "infiltrando"
+  },
+  "PresI": {
+    "1s": "infiltro",
+    "2s": "infiltras",
+    "3s": "infiltra",
+    "1p": "infiltramos",
+    "2p": "infiltrais",
+    "3p": "infiltram"
+  },
+  "PImpI": {
+    "1s": "infiltrava",
+    "2s": "infiltravas",
+    "3s": "infiltrava",
+    "1p": "infiltrávamos",
+    "2p": "infiltráveis",
+    "3p": "infiltravam"
+  },
+  "PPSI": {
+    "1s": "infiltrei",
+    "2s": "infiltraste",
+    "3s": "infiltrou",
+    "1p": "infiltrámos",
+    "2p": "infiltrastes",
+    "3p": "infiltraram"
+  },
+  "PMQPSI": {
+    "1s": "infiltrara",
+    "2s": "infiltraras",
+    "3s": "infiltrara",
+    "1p": "infiltráramos",
+    "2p": "infiltráreis",
+    "3p": "infiltraram"
+  },
+  "FutSI": {
+    "1s": "infiltrarei",
+    "2s": "infiltrarás",
+    "3s": "infiltrará",
+    "1p": "infiltraremos",
+    "2p": "infiltrareis",
+    "3p": "infiltrarão"
+  },
+  "CondS": {
+    "1s": "infiltraria",
+    "2s": "infiltrarias",
+    "3s": "infiltraria",
+    "1p": "infiltraríamos",
+    "2p": "infiltraríeis",
+    "3p": "infiltrariam"
+  },
+  "PresC": {
+    "1s": "infiltre",
+    "2s": "infiltres",
+    "3s": "infiltre",
+    "1p": "infiltremos",
+    "2p": "infiltreis",
+    "3p": "infiltrem"
+  },
+  "PImpC": {
+    "1s": "infiltrasse",
+    "2s": "infiltrasses",
+    "3s": "infiltrasse",
+    "1p": "infiltrássemos",
+    "2p": "infiltrásseis",
+    "3p": "infiltrassem"
+  },
+  "FutSC": {
+    "1s": "infiltrar",
+    "2s": "infiltrares",
+    "3s": "infiltrar",
+    "1p": "infiltrarmos",
+    "2p": "infiltrardes",
+    "3p": "infiltrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infiltra",
+    "3s": "infiltre",
+    "1p": "infiltremos",
+    "2p": "infiltrai",
+    "3p": "infiltrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não infiltres",
+    "3s": "não infiltre",
+    "1p": "não infiltremos",
+    "2p": "não infiltreis",
+    "3p": "não infiltrem"
+  },
+  "Part-ter": {
+    "": "infiltrado"
+  },
+  "Part-ser": {
+    "ms": "infiltrado",
+    "fs": "infiltrada",
+    "mp": "infiltrados",
+    "fp": "infiltradas"
+  }
+}

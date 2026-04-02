@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "salientar"
+  },
+  "InfP": {
+    "1s": "salientar",
+    "2s": "salientares",
+    "3s": "salientar",
+    "1p": "salientarmos",
+    "2p": "salientardes",
+    "3p": "salientarem"
+  },
+  "Ger": {
+    "": "salientando"
+  },
+  "PresI": {
+    "1s": "saliento",
+    "2s": "salientas",
+    "3s": "salienta",
+    "1p": "salientamos",
+    "2p": "salientais",
+    "3p": "salientam"
+  },
+  "PImpI": {
+    "1s": "salientava",
+    "2s": "salientavas",
+    "3s": "salientava",
+    "1p": "salientávamos",
+    "2p": "salientáveis",
+    "3p": "salientavam"
+  },
+  "PPSI": {
+    "1s": "salientei",
+    "2s": "salientaste",
+    "3s": "salientou",
+    "1p": "salientámos",
+    "2p": "salientastes",
+    "3p": "salientaram"
+  },
+  "PMQPSI": {
+    "1s": "salientara",
+    "2s": "salientaras",
+    "3s": "salientara",
+    "1p": "salientáramos",
+    "2p": "salientáreis",
+    "3p": "salientaram"
+  },
+  "FutSI": {
+    "1s": "salientarei",
+    "2s": "salientarás",
+    "3s": "salientará",
+    "1p": "salientaremos",
+    "2p": "salientareis",
+    "3p": "salientarão"
+  },
+  "CondS": {
+    "1s": "salientaria",
+    "2s": "salientarias",
+    "3s": "salientaria",
+    "1p": "salientaríamos",
+    "2p": "salientaríeis",
+    "3p": "salientariam"
+  },
+  "PresC": {
+    "1s": "saliente",
+    "2s": "salientes",
+    "3s": "saliente",
+    "1p": "salientemos",
+    "2p": "salienteis",
+    "3p": "salientem"
+  },
+  "PImpC": {
+    "1s": "salientasse",
+    "2s": "salientasses",
+    "3s": "salientasse",
+    "1p": "salientássemos",
+    "2p": "salientásseis",
+    "3p": "salientassem"
+  },
+  "FutSC": {
+    "1s": "salientar",
+    "2s": "salientares",
+    "3s": "salientar",
+    "1p": "salientarmos",
+    "2p": "salientardes",
+    "3p": "salientarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salienta",
+    "3s": "saliente",
+    "1p": "salientemos",
+    "2p": "salientai",
+    "3p": "salientem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não salientes",
+    "3s": "não saliente",
+    "1p": "não salientemos",
+    "2p": "não salienteis",
+    "3p": "não salientem"
+  },
+  "Part-ter": {
+    "": "salientado"
+  },
+  "Part-ser": {
+    "ms": "salientado",
+    "fs": "salientada",
+    "mp": "salientados",
+    "fp": "salientadas"
+  }
+}

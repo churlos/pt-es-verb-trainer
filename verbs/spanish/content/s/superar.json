@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "superar"
+  },
+  "Ger": {
+    "": "superando"
+  },
+  "PresI": {
+    "1s": "supero",
+    "2s": "superas",
+    "3s": "supera",
+    "1p": "superamos",
+    "2p": "superáis",
+    "3p": "superan"
+  },
+  "PImpI": {
+    "1s": "superaba",
+    "2s": "superabas",
+    "3s": "superaba",
+    "1p": "superábamos",
+    "2p": "superabais",
+    "3p": "superaban"
+  },
+  "PPSI": {
+    "1s": "superé",
+    "2s": "superaste",
+    "3s": "superó",
+    "1p": "superamos",
+    "2p": "superasteis",
+    "3p": "superaron"
+  },
+  "FutSI": {
+    "1s": "superaré",
+    "2s": "superarás",
+    "3s": "superará",
+    "1p": "superaremos",
+    "2p": "superaréis",
+    "3p": "superarán"
+  },
+  "CondS": {
+    "1s": "superaría",
+    "2s": "superarías",
+    "3s": "superaría",
+    "1p": "superaríamos",
+    "2p": "superaríais",
+    "3p": "superarían"
+  },
+  "PresC": {
+    "1s": "supere",
+    "2s": "superes",
+    "3s": "supere",
+    "1p": "superemos",
+    "2p": "superéis",
+    "3p": "superen"
+  },
+  "PMQPSI": {
+    "1s": "superara",
+    "2s": "superaras",
+    "3s": "superara",
+    "1p": "superáramos",
+    "2p": "superarais",
+    "3p": "superaran"
+  },
+  "PImpC": {
+    "1s": "superase",
+    "2s": "superases",
+    "3s": "superase",
+    "1p": "superásemos",
+    "2p": "superaseis",
+    "3p": "superasen"
+  },
+  "FutSC": {
+    "1s": "superare",
+    "2s": "superares",
+    "3s": "superare",
+    "1p": "superáremos",
+    "2p": "superareis",
+    "3p": "superaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "supera",
+    "3s": "supere",
+    "1p": "superemos",
+    "2p": "superad",
+    "3p": "superen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no superes",
+    "3s": "no supere",
+    "1p": "no superemos",
+    "2p": "no superéis",
+    "3p": "no superen"
+  },
+  "Part-ter": {
+    "": "superado"
+  },
+  "Part-ser": {
+    "ms": "superado",
+    "fs": "superada",
+    "mp": "superados",
+    "fp": "superadas"
+  }
+}

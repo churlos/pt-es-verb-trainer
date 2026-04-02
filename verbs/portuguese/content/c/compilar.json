@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "compilar"
+  },
+  "InfP": {
+    "1s": "compilar",
+    "2s": "compilares",
+    "3s": "compilar",
+    "1p": "compilarmos",
+    "2p": "compilardes",
+    "3p": "compilarem"
+  },
+  "Ger": {
+    "": "compilando"
+  },
+  "PresI": {
+    "1s": "compilo",
+    "2s": "compilas",
+    "3s": "compila",
+    "1p": "compilamos",
+    "2p": "compilais",
+    "3p": "compilam"
+  },
+  "PImpI": {
+    "1s": "compilava",
+    "2s": "compilavas",
+    "3s": "compilava",
+    "1p": "compilávamos",
+    "2p": "compiláveis",
+    "3p": "compilavam"
+  },
+  "PPSI": {
+    "1s": "compilei",
+    "2s": "compilaste",
+    "3s": "compilou",
+    "1p": "compilámos",
+    "2p": "compilastes",
+    "3p": "compilaram"
+  },
+  "PMQPSI": {
+    "1s": "compilara",
+    "2s": "compilaras",
+    "3s": "compilara",
+    "1p": "compiláramos",
+    "2p": "compiláreis",
+    "3p": "compilaram"
+  },
+  "FutSI": {
+    "1s": "compilarei",
+    "2s": "compilarás",
+    "3s": "compilará",
+    "1p": "compilaremos",
+    "2p": "compilareis",
+    "3p": "compilarão"
+  },
+  "CondS": {
+    "1s": "compilaria",
+    "2s": "compilarias",
+    "3s": "compilaria",
+    "1p": "compilaríamos",
+    "2p": "compilaríeis",
+    "3p": "compilariam"
+  },
+  "PresC": {
+    "1s": "compile",
+    "2s": "compiles",
+    "3s": "compile",
+    "1p": "compilemos",
+    "2p": "compileis",
+    "3p": "compilem"
+  },
+  "PImpC": {
+    "1s": "compilasse",
+    "2s": "compilasses",
+    "3s": "compilasse",
+    "1p": "compilássemos",
+    "2p": "compilásseis",
+    "3p": "compilassem"
+  },
+  "FutSC": {
+    "1s": "compilar",
+    "2s": "compilares",
+    "3s": "compilar",
+    "1p": "compilarmos",
+    "2p": "compilardes",
+    "3p": "compilarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compila",
+    "3s": "compile",
+    "1p": "compilemos",
+    "2p": "compilai",
+    "3p": "compilem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não compiles",
+    "3s": "não compile",
+    "1p": "não compilemos",
+    "2p": "não compileis",
+    "3p": "não compilem"
+  },
+  "Part-ter": {
+    "": "compilado"
+  },
+  "Part-ser": {
+    "ms": "compilado",
+    "fs": "compilada",
+    "mp": "compilados",
+    "fp": "compiladas"
+  }
+}

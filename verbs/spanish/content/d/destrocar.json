@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "destrocar"
+  },
+  "Ger": {
+    "": "destrocando"
+  },
+  "PresI": {
+    "1s": "destrueco",
+    "2s": "destruecas",
+    "3s": "destrueca",
+    "1p": "destrocamos",
+    "2p": "destrocáis",
+    "3p": "destruecan"
+  },
+  "PImpI": {
+    "1s": "destrocaba",
+    "2s": "destrocabas",
+    "3s": "destrocaba",
+    "1p": "destrocábamos",
+    "2p": "destrocabais",
+    "3p": "destrocaban"
+  },
+  "PPSI": {
+    "1s": "destroqué",
+    "2s": "destrocaste",
+    "3s": "destrocó",
+    "1p": "destrocamos",
+    "2p": "destrocasteis",
+    "3p": "destrocaron"
+  },
+  "FutSI": {
+    "1s": "destrocaré",
+    "2s": "destrocarás",
+    "3s": "destrocará",
+    "1p": "destrocaremos",
+    "2p": "destrocaréis",
+    "3p": "destrocarán"
+  },
+  "CondS": {
+    "1s": "destrocaría",
+    "2s": "destrocarías",
+    "3s": "destrocaría",
+    "1p": "destrocaríamos",
+    "2p": "destrocaríais",
+    "3p": "destrocarían"
+  },
+  "PresC": {
+    "1s": "destrueque",
+    "2s": "destrueques",
+    "3s": "destrueque",
+    "1p": "destroquemos",
+    "2p": "destroquéis",
+    "3p": "destruequen"
+  },
+  "PMQPSI": {
+    "1s": "destrocara",
+    "2s": "destrocaras",
+    "3s": "destrocara",
+    "1p": "destrocáramos",
+    "2p": "destrocarais",
+    "3p": "destrocaran"
+  },
+  "PImpC": {
+    "1s": "destrocase",
+    "2s": "destrocases",
+    "3s": "destrocase",
+    "1p": "destrocásemos",
+    "2p": "destrocaseis",
+    "3p": "destrocasen"
+  },
+  "FutSC": {
+    "1s": "destrocare",
+    "2s": "destrocares",
+    "3s": "destrocare",
+    "1p": "destrocáremos",
+    "2p": "destrocareis",
+    "3p": "destrocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destrueca",
+    "3s": "destrueque",
+    "1p": "destroquemos",
+    "2p": "destrocad",
+    "3p": "destruequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no destrueques",
+    "3s": "no destrueque",
+    "1p": "no destroquemos",
+    "2p": "no destroquéis",
+    "3p": "no destruequen"
+  },
+  "Part-ter": {
+    "": "destrocado"
+  },
+  "Part-ser": {
+    "ms": "destrocado",
+    "fs": "destrocada",
+    "mp": "destrocados",
+    "fp": "destrocadas"
+  }
+}

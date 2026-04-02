@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "consumir"
+  },
+  "InfP": {
+    "1s": "consumir",
+    "2s": "consumires",
+    "3s": "consumir",
+    "1p": "consumirmos",
+    "2p": "consumirdes",
+    "3p": "consumirem"
+  },
+  "Ger": {
+    "": "consumindo"
+  },
+  "PresI": {
+    "1s": "consumo",
+    "2s": "consomes",
+    "3s": "consome",
+    "1p": "consumimos",
+    "2p": "consumis",
+    "3p": "consomem"
+  },
+  "PImpI": {
+    "1s": "consumia",
+    "2s": "consumias",
+    "3s": "consumia",
+    "1p": "consumíamos",
+    "2p": "consumíeis",
+    "3p": "consumiam"
+  },
+  "PPSI": {
+    "1s": "consumi",
+    "2s": "consumiste",
+    "3s": "consumiu",
+    "1p": "consumimos",
+    "2p": "consumistes",
+    "3p": "consumiram"
+  },
+  "PMQPSI": {
+    "1s": "consumira",
+    "2s": "consumiras",
+    "3s": "consumira",
+    "1p": "consumíramos",
+    "2p": "consumíreis",
+    "3p": "consumiram"
+  },
+  "FutSI": {
+    "1s": "consumirei",
+    "2s": "consumirás",
+    "3s": "consumirá",
+    "1p": "consumiremos",
+    "2p": "consumireis",
+    "3p": "consumirão"
+  },
+  "CondS": {
+    "1s": "consumiria",
+    "2s": "consumirias",
+    "3s": "consumiria",
+    "1p": "consumiríamos",
+    "2p": "consumiríeis",
+    "3p": "consumiriam"
+  },
+  "PresC": {
+    "1s": "consuma",
+    "2s": "consumas",
+    "3s": "consuma",
+    "1p": "consumamos",
+    "2p": "consumais",
+    "3p": "consumam"
+  },
+  "PImpC": {
+    "1s": "consumisse",
+    "2s": "consumisses",
+    "3s": "consumisse",
+    "1p": "consumíssemos",
+    "2p": "consumísseis",
+    "3p": "consumissem"
+  },
+  "FutSC": {
+    "1s": "consumir",
+    "2s": "consumires",
+    "3s": "consumir",
+    "1p": "consumirmos",
+    "2p": "consumirdes",
+    "3p": "consumirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consome",
+    "3s": "consuma",
+    "1p": "consumamos",
+    "2p": "consumi",
+    "3p": "consumam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não consumas",
+    "3s": "não consuma",
+    "1p": "não consumamos",
+    "2p": "não consumais",
+    "3p": "não consumam"
+  },
+  "Part-ter": {
+    "": "consumido"
+  },
+  "Part-ser": {
+    "ms": "consumido",
+    "fs": "consumida",
+    "mp": "consumidos",
+    "fp": "consumidas"
+  }
+}

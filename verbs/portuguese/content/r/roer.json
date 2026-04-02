@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "roer"
+  },
+  "InfP": {
+    "1s": "roer",
+    "2s": "roeres",
+    "3s": "roer",
+    "1p": "roermos",
+    "2p": "roerdes",
+    "3p": "roerem"
+  },
+  "Ger": {
+    "": "roendo"
+  },
+  "PresI": {
+    "1s": "rooObsolete:rôo",
+    "2s": "róis",
+    "3s": "rói",
+    "1p": "roemos",
+    "2p": "roeis",
+    "3p": "roem"
+  },
+  "PImpI": {
+    "1s": "roía",
+    "2s": "roías",
+    "3s": "roía",
+    "1p": "roíamos",
+    "2p": "roíeis",
+    "3p": "roíam"
+  },
+  "PPSI": {
+    "1s": "roí",
+    "2s": "roeste",
+    "3s": "roeu",
+    "1p": "roemos",
+    "2p": "roestes",
+    "3p": "roeram"
+  },
+  "PMQPSI": {
+    "1s": "roera",
+    "2s": "roeras",
+    "3s": "roera",
+    "1p": "roêramos",
+    "2p": "roêreis",
+    "3p": "roeram"
+  },
+  "FutSI": {
+    "1s": "roerei",
+    "2s": "roerás",
+    "3s": "roerá",
+    "1p": "roeremos",
+    "2p": "roereis",
+    "3p": "roerão"
+  },
+  "CondS": {
+    "1s": "roeria",
+    "2s": "roerias",
+    "3s": "roeria",
+    "1p": "roeríamos",
+    "2p": "roeríeis",
+    "3p": "roeriam"
+  },
+  "PresC": {
+    "1s": "roa",
+    "2s": "roas",
+    "3s": "roa",
+    "1p": "roamos",
+    "2p": "roais",
+    "3p": "roam"
+  },
+  "PImpC": {
+    "1s": "roesse",
+    "2s": "roesses",
+    "3s": "roesse",
+    "1p": "roêssemos",
+    "2p": "roêsseis",
+    "3p": "roessem"
+  },
+  "FutSC": {
+    "1s": "roer",
+    "2s": "roeres",
+    "3s": "roer",
+    "1p": "roermos",
+    "2p": "roerdes",
+    "3p": "roerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rói",
+    "3s": "roa",
+    "1p": "roamos",
+    "2p": "roei",
+    "3p": "roam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não roas",
+    "3s": "não roa",
+    "1p": "não roamos",
+    "2p": "não roais",
+    "3p": "não roam"
+  },
+  "Part-ter": {
+    "": "roído"
+  },
+  "Part-ser": {
+    "ms": "roído",
+    "fs": "roída",
+    "mp": "roídos",
+    "fp": "roídas"
+  }
+}

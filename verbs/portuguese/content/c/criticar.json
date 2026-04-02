@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "criticar"
+  },
+  "InfP": {
+    "1s": "criticar",
+    "2s": "criticares",
+    "3s": "criticar",
+    "1p": "criticarmos",
+    "2p": "criticardes",
+    "3p": "criticarem"
+  },
+  "Ger": {
+    "": "criticando"
+  },
+  "PresI": {
+    "1s": "critico",
+    "2s": "criticas",
+    "3s": "critica",
+    "1p": "criticamos",
+    "2p": "criticais",
+    "3p": "criticam"
+  },
+  "PImpI": {
+    "1s": "criticava",
+    "2s": "criticavas",
+    "3s": "criticava",
+    "1p": "criticávamos",
+    "2p": "criticáveis",
+    "3p": "criticavam"
+  },
+  "PPSI": {
+    "1s": "critiquei",
+    "2s": "criticaste",
+    "3s": "criticou",
+    "1p": "criticámos",
+    "2p": "criticastes",
+    "3p": "criticaram"
+  },
+  "PMQPSI": {
+    "1s": "criticara",
+    "2s": "criticaras",
+    "3s": "criticara",
+    "1p": "criticáramos",
+    "2p": "criticáreis",
+    "3p": "criticaram"
+  },
+  "FutSI": {
+    "1s": "criticarei",
+    "2s": "criticarás",
+    "3s": "criticará",
+    "1p": "criticaremos",
+    "2p": "criticareis",
+    "3p": "criticarão"
+  },
+  "CondS": {
+    "1s": "criticaria",
+    "2s": "criticarias",
+    "3s": "criticaria",
+    "1p": "criticaríamos",
+    "2p": "criticaríeis",
+    "3p": "criticariam"
+  },
+  "PresC": {
+    "1s": "critique",
+    "2s": "critiques",
+    "3s": "critique",
+    "1p": "critiquemos",
+    "2p": "critiqueis",
+    "3p": "critiquem"
+  },
+  "PImpC": {
+    "1s": "criticasse",
+    "2s": "criticasses",
+    "3s": "criticasse",
+    "1p": "criticássemos",
+    "2p": "criticásseis",
+    "3p": "criticassem"
+  },
+  "FutSC": {
+    "1s": "criticar",
+    "2s": "criticares",
+    "3s": "criticar",
+    "1p": "criticarmos",
+    "2p": "criticardes",
+    "3p": "criticarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "critica",
+    "3s": "critique",
+    "1p": "critiquemos",
+    "2p": "criticai",
+    "3p": "critiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não critiques",
+    "3s": "não critique",
+    "1p": "não critiquemos",
+    "2p": "não critiqueis",
+    "3p": "não critiquem"
+  },
+  "Part-ter": {
+    "": "criticado"
+  },
+  "Part-ser": {
+    "ms": "criticado",
+    "fs": "criticada",
+    "mp": "criticados",
+    "fp": "criticadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ordenar"
+  },
+  "Ger": {
+    "": "ordenando"
+  },
+  "PresI": {
+    "1s": "ordeno",
+    "2s": "ordenas",
+    "3s": "ordena",
+    "1p": "ordenamos",
+    "2p": "ordenáis",
+    "3p": "ordenan"
+  },
+  "PImpI": {
+    "1s": "ordenaba",
+    "2s": "ordenabas",
+    "3s": "ordenaba",
+    "1p": "ordenábamos",
+    "2p": "ordenabais",
+    "3p": "ordenaban"
+  },
+  "PPSI": {
+    "1s": "ordené",
+    "2s": "ordenaste",
+    "3s": "ordenó",
+    "1p": "ordenamos",
+    "2p": "ordenasteis",
+    "3p": "ordenaron"
+  },
+  "FutSI": {
+    "1s": "ordenaré",
+    "2s": "ordenarás",
+    "3s": "ordenará",
+    "1p": "ordenaremos",
+    "2p": "ordenaréis",
+    "3p": "ordenarán"
+  },
+  "CondS": {
+    "1s": "ordenaría",
+    "2s": "ordenarías",
+    "3s": "ordenaría",
+    "1p": "ordenaríamos",
+    "2p": "ordenaríais",
+    "3p": "ordenarían"
+  },
+  "PresC": {
+    "1s": "ordene",
+    "2s": "ordenes",
+    "3s": "ordene",
+    "1p": "ordenemos",
+    "2p": "ordenéis",
+    "3p": "ordenen"
+  },
+  "PMQPSI": {
+    "1s": "ordenara",
+    "2s": "ordenaras",
+    "3s": "ordenara",
+    "1p": "ordenáramos",
+    "2p": "ordenarais",
+    "3p": "ordenaran"
+  },
+  "PImpC": {
+    "1s": "ordenase",
+    "2s": "ordenases",
+    "3s": "ordenase",
+    "1p": "ordenásemos",
+    "2p": "ordenaseis",
+    "3p": "ordenasen"
+  },
+  "FutSC": {
+    "1s": "ordenare",
+    "2s": "ordenares",
+    "3s": "ordenare",
+    "1p": "ordenáremos",
+    "2p": "ordenareis",
+    "3p": "ordenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ordena",
+    "3s": "ordene",
+    "1p": "ordenemos",
+    "2p": "ordenad",
+    "3p": "ordenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ordenes",
+    "3s": "no ordene",
+    "1p": "no ordenemos",
+    "2p": "no ordenéis",
+    "3p": "no ordenen"
+  },
+  "Part-ter": {
+    "": "ordenado"
+  },
+  "Part-ser": {
+    "ms": "ordenado",
+    "fs": "ordenada",
+    "mp": "ordenados",
+    "fp": "ordenadas"
+  }
+}

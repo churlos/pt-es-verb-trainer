@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manejar"
+  },
+  "InfP": {
+    "1s": "manejar",
+    "2s": "manejares",
+    "3s": "manejar",
+    "1p": "manejarmos",
+    "2p": "manejardes",
+    "3p": "manejarem"
+  },
+  "Ger": {
+    "": "manejando"
+  },
+  "PresI": {
+    "1s": "manejo",
+    "2s": "manejas",
+    "3s": "maneja",
+    "1p": "manejamos",
+    "2p": "manejais",
+    "3p": "manejam"
+  },
+  "PImpI": {
+    "1s": "manejava",
+    "2s": "manejavas",
+    "3s": "manejava",
+    "1p": "manejávamos",
+    "2p": "manejáveis",
+    "3p": "manejavam"
+  },
+  "PPSI": {
+    "1s": "manejei",
+    "2s": "manejaste",
+    "3s": "manejou",
+    "1p": "manejámos",
+    "2p": "manejastes",
+    "3p": "manejaram"
+  },
+  "PMQPSI": {
+    "1s": "manejara",
+    "2s": "manejaras",
+    "3s": "manejara",
+    "1p": "manejáramos",
+    "2p": "manejáreis",
+    "3p": "manejaram"
+  },
+  "FutSI": {
+    "1s": "manejarei",
+    "2s": "manejarás",
+    "3s": "manejará",
+    "1p": "manejaremos",
+    "2p": "manejareis",
+    "3p": "manejarão"
+  },
+  "CondS": {
+    "1s": "manejaria",
+    "2s": "manejarias",
+    "3s": "manejaria",
+    "1p": "manejaríamos",
+    "2p": "manejaríeis",
+    "3p": "manejariam"
+  },
+  "PresC": {
+    "1s": "maneje",
+    "2s": "manejes",
+    "3s": "maneje",
+    "1p": "manejemos",
+    "2p": "manejeis",
+    "3p": "manejem"
+  },
+  "PImpC": {
+    "1s": "manejasse",
+    "2s": "manejasses",
+    "3s": "manejasse",
+    "1p": "manejássemos",
+    "2p": "manejásseis",
+    "3p": "manejassem"
+  },
+  "FutSC": {
+    "1s": "manejar",
+    "2s": "manejares",
+    "3s": "manejar",
+    "1p": "manejarmos",
+    "2p": "manejardes",
+    "3p": "manejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maneja",
+    "3s": "maneje",
+    "1p": "manejemos",
+    "2p": "manejai",
+    "3p": "manejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manejes",
+    "3s": "não maneje",
+    "1p": "não manejemos",
+    "2p": "não manejeis",
+    "3p": "não manejem"
+  },
+  "Part-ter": {
+    "": "manejado"
+  },
+  "Part-ser": {
+    "ms": "manejado",
+    "fs": "manejada",
+    "mp": "manejados",
+    "fp": "manejadas"
+  }
+}

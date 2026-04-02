@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "extractar"
+  },
+  "Ger": {
+    "": "extractando"
+  },
+  "PresI": {
+    "1s": "extracto",
+    "2s": "extractas",
+    "3s": "extracta",
+    "1p": "extractamos",
+    "2p": "extractáis",
+    "3p": "extractan"
+  },
+  "PImpI": {
+    "1s": "extractaba",
+    "2s": "extractabas",
+    "3s": "extractaba",
+    "1p": "extractábamos",
+    "2p": "extractabais",
+    "3p": "extractaban"
+  },
+  "PPSI": {
+    "1s": "extracté",
+    "2s": "extractaste",
+    "3s": "extractó",
+    "1p": "extractamos",
+    "2p": "extractasteis",
+    "3p": "extractaron"
+  },
+  "FutSI": {
+    "1s": "extractaré",
+    "2s": "extractarás",
+    "3s": "extractará",
+    "1p": "extractaremos",
+    "2p": "extractaréis",
+    "3p": "extractarán"
+  },
+  "CondS": {
+    "1s": "extractaría",
+    "2s": "extractarías",
+    "3s": "extractaría",
+    "1p": "extractaríamos",
+    "2p": "extractaríais",
+    "3p": "extractarían"
+  },
+  "PresC": {
+    "1s": "extracte",
+    "2s": "extractes",
+    "3s": "extracte",
+    "1p": "extractemos",
+    "2p": "extractéis",
+    "3p": "extracten"
+  },
+  "PMQPSI": {
+    "1s": "extractara",
+    "2s": "extractaras",
+    "3s": "extractara",
+    "1p": "extractáramos",
+    "2p": "extractarais",
+    "3p": "extractaran"
+  },
+  "PImpC": {
+    "1s": "extractase",
+    "2s": "extractases",
+    "3s": "extractase",
+    "1p": "extractásemos",
+    "2p": "extractaseis",
+    "3p": "extractasen"
+  },
+  "FutSC": {
+    "1s": "extractare",
+    "2s": "extractares",
+    "3s": "extractare",
+    "1p": "extractáremos",
+    "2p": "extractareis",
+    "3p": "extractaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extracta",
+    "3s": "extracte",
+    "1p": "extractemos",
+    "2p": "extractad",
+    "3p": "extracten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no extractes",
+    "3s": "no extracte",
+    "1p": "no extractemos",
+    "2p": "no extractéis",
+    "3p": "no extracten"
+  },
+  "Part-ter": {
+    "": "extractado"
+  },
+  "Part-ser": {
+    "ms": "extractado",
+    "fs": "extractada",
+    "mp": "extractados",
+    "fp": "extractadas"
+  }
+}

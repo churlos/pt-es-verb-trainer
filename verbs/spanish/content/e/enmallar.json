@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enmallar"
+  },
+  "Ger": {
+    "": "enmallando"
+  },
+  "PresI": {
+    "1s": "enmallo",
+    "2s": "enmallas",
+    "3s": "enmalla",
+    "1p": "enmallamos",
+    "2p": "enmalláis",
+    "3p": "enmallan"
+  },
+  "PImpI": {
+    "1s": "enmallaba",
+    "2s": "enmallabas",
+    "3s": "enmallaba",
+    "1p": "enmallábamos",
+    "2p": "enmallabais",
+    "3p": "enmallaban"
+  },
+  "PPSI": {
+    "1s": "enmallé",
+    "2s": "enmallaste",
+    "3s": "enmalló",
+    "1p": "enmallamos",
+    "2p": "enmallasteis",
+    "3p": "enmallaron"
+  },
+  "FutSI": {
+    "1s": "enmallaré",
+    "2s": "enmallarás",
+    "3s": "enmallará",
+    "1p": "enmallaremos",
+    "2p": "enmallaréis",
+    "3p": "enmallarán"
+  },
+  "CondS": {
+    "1s": "enmallaría",
+    "2s": "enmallarías",
+    "3s": "enmallaría",
+    "1p": "enmallaríamos",
+    "2p": "enmallaríais",
+    "3p": "enmallarían"
+  },
+  "PresC": {
+    "1s": "enmalle",
+    "2s": "enmalles",
+    "3s": "enmalle",
+    "1p": "enmallemos",
+    "2p": "enmalléis",
+    "3p": "enmallen"
+  },
+  "PMQPSI": {
+    "1s": "enmallara",
+    "2s": "enmallaras",
+    "3s": "enmallara",
+    "1p": "enmalláramos",
+    "2p": "enmallarais",
+    "3p": "enmallaran"
+  },
+  "PImpC": {
+    "1s": "enmallase",
+    "2s": "enmallases",
+    "3s": "enmallase",
+    "1p": "enmallásemos",
+    "2p": "enmallaseis",
+    "3p": "enmallasen"
+  },
+  "FutSC": {
+    "1s": "enmallare",
+    "2s": "enmallares",
+    "3s": "enmallare",
+    "1p": "enmalláremos",
+    "2p": "enmallareis",
+    "3p": "enmallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enmalla",
+    "3s": "enmalle",
+    "1p": "enmallemos",
+    "2p": "enmallad",
+    "3p": "enmallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enmalles",
+    "3s": "no enmalle",
+    "1p": "no enmallemos",
+    "2p": "no enmalléis",
+    "3p": "no enmallen"
+  },
+  "Part-ter": {
+    "": "enmallado"
+  },
+  "Part-ser": {
+    "ms": "enmallado",
+    "fs": "enmallada",
+    "mp": "enmallados",
+    "fp": "enmalladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desmontar"
+  },
+  "InfP": {
+    "1s": "desmontar",
+    "2s": "desmontares",
+    "3s": "desmontar",
+    "1p": "desmontarmos",
+    "2p": "desmontardes",
+    "3p": "desmontarem"
+  },
+  "Ger": {
+    "": "desmontando"
+  },
+  "PresI": {
+    "1s": "desmonto",
+    "2s": "desmontas",
+    "3s": "desmonta",
+    "1p": "desmontamos",
+    "2p": "desmontais",
+    "3p": "desmontam"
+  },
+  "PImpI": {
+    "1s": "desmontava",
+    "2s": "desmontavas",
+    "3s": "desmontava",
+    "1p": "desmontávamos",
+    "2p": "desmontáveis",
+    "3p": "desmontavam"
+  },
+  "PPSI": {
+    "1s": "desmontei",
+    "2s": "desmontaste",
+    "3s": "desmontou",
+    "1p": "desmontámos",
+    "2p": "desmontastes",
+    "3p": "desmontaram"
+  },
+  "PMQPSI": {
+    "1s": "desmontara",
+    "2s": "desmontaras",
+    "3s": "desmontara",
+    "1p": "desmontáramos",
+    "2p": "desmontáreis",
+    "3p": "desmontaram"
+  },
+  "FutSI": {
+    "1s": "desmontarei",
+    "2s": "desmontarás",
+    "3s": "desmontará",
+    "1p": "desmontaremos",
+    "2p": "desmontareis",
+    "3p": "desmontarão"
+  },
+  "CondS": {
+    "1s": "desmontaria",
+    "2s": "desmontarias",
+    "3s": "desmontaria",
+    "1p": "desmontaríamos",
+    "2p": "desmontaríeis",
+    "3p": "desmontariam"
+  },
+  "PresC": {
+    "1s": "desmonte",
+    "2s": "desmontes",
+    "3s": "desmonte",
+    "1p": "desmontemos",
+    "2p": "desmonteis",
+    "3p": "desmontem"
+  },
+  "PImpC": {
+    "1s": "desmontasse",
+    "2s": "desmontasses",
+    "3s": "desmontasse",
+    "1p": "desmontássemos",
+    "2p": "desmontásseis",
+    "3p": "desmontassem"
+  },
+  "FutSC": {
+    "1s": "desmontar",
+    "2s": "desmontares",
+    "3s": "desmontar",
+    "1p": "desmontarmos",
+    "2p": "desmontardes",
+    "3p": "desmontarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desmonta",
+    "3s": "desmonte",
+    "1p": "desmontemos",
+    "2p": "desmontai",
+    "3p": "desmontem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desmontes",
+    "3s": "não desmonte",
+    "1p": "não desmontemos",
+    "2p": "não desmonteis",
+    "3p": "não desmontem"
+  },
+  "Part-ter": {
+    "": "desmontado"
+  },
+  "Part-ser": {
+    "ms": "desmontado",
+    "fs": "desmontada",
+    "mp": "desmontados",
+    "fp": "desmontadas"
+  }
+}

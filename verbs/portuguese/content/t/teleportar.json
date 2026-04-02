@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "teleportar"
+  },
+  "InfP": {
+    "1s": "teleportar",
+    "2s": "teleportares",
+    "3s": "teleportar",
+    "1p": "teleportarmos",
+    "2p": "teleportardes",
+    "3p": "teleportarem"
+  },
+  "Ger": {
+    "": "teleportando"
+  },
+  "PresI": {
+    "1s": "teleporto",
+    "2s": "teleportas",
+    "3s": "teleporta",
+    "1p": "teleportamos",
+    "2p": "teleportais",
+    "3p": "teleportam"
+  },
+  "PImpI": {
+    "1s": "teleportava",
+    "2s": "teleportavas",
+    "3s": "teleportava",
+    "1p": "teleportávamos",
+    "2p": "teleportáveis",
+    "3p": "teleportavam"
+  },
+  "PPSI": {
+    "1s": "teleportei",
+    "2s": "teleportaste",
+    "3s": "teleportou",
+    "1p": "teleportámos",
+    "2p": "teleportastes",
+    "3p": "teleportaram"
+  },
+  "PMQPSI": {
+    "1s": "teleportara",
+    "2s": "teleportaras",
+    "3s": "teleportara",
+    "1p": "teleportáramos",
+    "2p": "teleportáreis",
+    "3p": "teleportaram"
+  },
+  "FutSI": {
+    "1s": "teleportarei",
+    "2s": "teleportarás",
+    "3s": "teleportará",
+    "1p": "teleportaremos",
+    "2p": "teleportareis",
+    "3p": "teleportarão"
+  },
+  "CondS": {
+    "1s": "teleportaria",
+    "2s": "teleportarias",
+    "3s": "teleportaria",
+    "1p": "teleportaríamos",
+    "2p": "teleportaríeis",
+    "3p": "teleportariam"
+  },
+  "PresC": {
+    "1s": "teleporte",
+    "2s": "teleportes",
+    "3s": "teleporte",
+    "1p": "teleportemos",
+    "2p": "teleporteis",
+    "3p": "teleportem"
+  },
+  "PImpC": {
+    "1s": "teleportasse",
+    "2s": "teleportasses",
+    "3s": "teleportasse",
+    "1p": "teleportássemos",
+    "2p": "teleportásseis",
+    "3p": "teleportassem"
+  },
+  "FutSC": {
+    "1s": "teleportar",
+    "2s": "teleportares",
+    "3s": "teleportar",
+    "1p": "teleportarmos",
+    "2p": "teleportardes",
+    "3p": "teleportarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "teleporta",
+    "3s": "teleporte",
+    "1p": "teleportemos",
+    "2p": "teleportai",
+    "3p": "teleportem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não teleportes",
+    "3s": "não teleporte",
+    "1p": "não teleportemos",
+    "2p": "não teleporteis",
+    "3p": "não teleportem"
+  },
+  "Part-ter": {
+    "": "teleportado"
+  },
+  "Part-ser": {
+    "ms": "teleportado",
+    "fs": "teleportada",
+    "mp": "teleportados",
+    "fp": "teleportadas"
+  }
+}

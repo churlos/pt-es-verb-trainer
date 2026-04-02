@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trincar"
+  },
+  "InfP": {
+    "1s": "trincar",
+    "2s": "trincares",
+    "3s": "trincar",
+    "1p": "trincarmos",
+    "2p": "trincardes",
+    "3p": "trincarem"
+  },
+  "Ger": {
+    "": "trincando"
+  },
+  "PresI": {
+    "1s": "trinco",
+    "2s": "trincas",
+    "3s": "trinca",
+    "1p": "trincamos",
+    "2p": "trincais",
+    "3p": "trincam"
+  },
+  "PImpI": {
+    "1s": "trincava",
+    "2s": "trincavas",
+    "3s": "trincava",
+    "1p": "trincávamos",
+    "2p": "trincáveis",
+    "3p": "trincavam"
+  },
+  "PPSI": {
+    "1s": "trinquei",
+    "2s": "trincaste",
+    "3s": "trincou",
+    "1p": "trincámos",
+    "2p": "trincastes",
+    "3p": "trincaram"
+  },
+  "PMQPSI": {
+    "1s": "trincara",
+    "2s": "trincaras",
+    "3s": "trincara",
+    "1p": "trincáramos",
+    "2p": "trincáreis",
+    "3p": "trincaram"
+  },
+  "FutSI": {
+    "1s": "trincarei",
+    "2s": "trincarás",
+    "3s": "trincará",
+    "1p": "trincaremos",
+    "2p": "trincareis",
+    "3p": "trincarão"
+  },
+  "CondS": {
+    "1s": "trincaria",
+    "2s": "trincarias",
+    "3s": "trincaria",
+    "1p": "trincaríamos",
+    "2p": "trincaríeis",
+    "3p": "trincariam"
+  },
+  "PresC": {
+    "1s": "trinque",
+    "2s": "trinques",
+    "3s": "trinque",
+    "1p": "trinquemos",
+    "2p": "trinqueis",
+    "3p": "trinquem"
+  },
+  "PImpC": {
+    "1s": "trincasse",
+    "2s": "trincasses",
+    "3s": "trincasse",
+    "1p": "trincássemos",
+    "2p": "trincásseis",
+    "3p": "trincassem"
+  },
+  "FutSC": {
+    "1s": "trincar",
+    "2s": "trincares",
+    "3s": "trincar",
+    "1p": "trincarmos",
+    "2p": "trincardes",
+    "3p": "trincarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trinca",
+    "3s": "trinque",
+    "1p": "trinquemos",
+    "2p": "trincai",
+    "3p": "trinquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não trinques",
+    "3s": "não trinque",
+    "1p": "não trinquemos",
+    "2p": "não trinqueis",
+    "3p": "não trinquem"
+  },
+  "Part-ter": {
+    "": "trincado"
+  },
+  "Part-ser": {
+    "ms": "trincado",
+    "fs": "trincada",
+    "mp": "trincados",
+    "fp": "trincadas"
+  }
+}

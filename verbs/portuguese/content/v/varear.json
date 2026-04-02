@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "varear"
+  },
+  "InfP": {
+    "1s": "varear",
+    "2s": "vareares",
+    "3s": "varear",
+    "1p": "varearmos",
+    "2p": "vareardes",
+    "3p": "varearem"
+  },
+  "Ger": {
+    "": "vareando"
+  },
+  "PresI": {
+    "1s": "vareio",
+    "2s": "vareias",
+    "3s": "vareia",
+    "1p": "vareamos",
+    "2p": "vareais",
+    "3p": "vareiam"
+  },
+  "PImpI": {
+    "1s": "vareava",
+    "2s": "vareavas",
+    "3s": "vareava",
+    "1p": "vareávamos",
+    "2p": "vareáveis",
+    "3p": "vareavam"
+  },
+  "PPSI": {
+    "1s": "vareei",
+    "2s": "vareaste",
+    "3s": "vareou",
+    "1p": "vareámos",
+    "2p": "vareastes",
+    "3p": "varearam"
+  },
+  "PMQPSI": {
+    "1s": "vareara",
+    "2s": "varearas",
+    "3s": "vareara",
+    "1p": "vareáramos",
+    "2p": "vareáreis",
+    "3p": "varearam"
+  },
+  "FutSI": {
+    "1s": "varearei",
+    "2s": "varearás",
+    "3s": "vareará",
+    "1p": "varearemos",
+    "2p": "vareareis",
+    "3p": "varearão"
+  },
+  "CondS": {
+    "1s": "varearia",
+    "2s": "varearias",
+    "3s": "varearia",
+    "1p": "varearíamos",
+    "2p": "varearíeis",
+    "3p": "vareariam"
+  },
+  "PresC": {
+    "1s": "vareie",
+    "2s": "vareies",
+    "3s": "vareie",
+    "1p": "vareemos",
+    "2p": "vareeis",
+    "3p": "vareiem"
+  },
+  "PImpC": {
+    "1s": "vareasse",
+    "2s": "vareasses",
+    "3s": "vareasse",
+    "1p": "vareássemos",
+    "2p": "vareásseis",
+    "3p": "vareassem"
+  },
+  "FutSC": {
+    "1s": "varear",
+    "2s": "vareares",
+    "3s": "varear",
+    "1p": "varearmos",
+    "2p": "vareardes",
+    "3p": "varearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vareia",
+    "3s": "vareie",
+    "1p": "vareemos",
+    "2p": "vareai",
+    "3p": "vareiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vareies",
+    "3s": "não vareie",
+    "1p": "não vareemos",
+    "2p": "não vareeis",
+    "3p": "não vareiem"
+  },
+  "Part-ter": {
+    "": "vareado"
+  },
+  "Part-ser": {
+    "ms": "vareado",
+    "fs": "vareada",
+    "mp": "vareados",
+    "fp": "vareadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reiniciar"
+  },
+  "Ger": {
+    "": "reiniciando"
+  },
+  "PresI": {
+    "1s": "reinicio",
+    "2s": "reinicias",
+    "3s": "reinicia",
+    "1p": "reiniciamos",
+    "2p": "reiniciáis",
+    "3p": "reinician"
+  },
+  "PImpI": {
+    "1s": "reiniciaba",
+    "2s": "reiniciabas",
+    "3s": "reiniciaba",
+    "1p": "reiniciábamos",
+    "2p": "reiniciabais",
+    "3p": "reiniciaban"
+  },
+  "PPSI": {
+    "1s": "reinicié",
+    "2s": "reiniciaste",
+    "3s": "reinició",
+    "1p": "reiniciamos",
+    "2p": "reiniciasteis",
+    "3p": "reiniciaron"
+  },
+  "FutSI": {
+    "1s": "reiniciaré",
+    "2s": "reiniciarás",
+    "3s": "reiniciará",
+    "1p": "reiniciaremos",
+    "2p": "reiniciaréis",
+    "3p": "reiniciarán"
+  },
+  "CondS": {
+    "1s": "reiniciaría",
+    "2s": "reiniciarías",
+    "3s": "reiniciaría",
+    "1p": "reiniciaríamos",
+    "2p": "reiniciaríais",
+    "3p": "reiniciarían"
+  },
+  "PresC": {
+    "1s": "reinicie",
+    "2s": "reinicies",
+    "3s": "reinicie",
+    "1p": "reiniciemos",
+    "2p": "reiniciéis",
+    "3p": "reinicien"
+  },
+  "PMQPSI": {
+    "1s": "reiniciara",
+    "2s": "reiniciaras",
+    "3s": "reiniciara",
+    "1p": "reiniciáramos",
+    "2p": "reiniciarais",
+    "3p": "reiniciaran"
+  },
+  "PImpC": {
+    "1s": "reiniciase",
+    "2s": "reiniciases",
+    "3s": "reiniciase",
+    "1p": "reiniciásemos",
+    "2p": "reiniciaseis",
+    "3p": "reiniciasen"
+  },
+  "FutSC": {
+    "1s": "reiniciare",
+    "2s": "reiniciares",
+    "3s": "reiniciare",
+    "1p": "reiniciáremos",
+    "2p": "reiniciareis",
+    "3p": "reiniciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reinicia",
+    "3s": "reinicie",
+    "1p": "reiniciemos",
+    "2p": "reiniciad",
+    "3p": "reinicien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reinicies",
+    "3s": "no reinicie",
+    "1p": "no reiniciemos",
+    "2p": "no reiniciéis",
+    "3p": "no reinicien"
+  },
+  "Part-ter": {
+    "": "reiniciado"
+  },
+  "Part-ser": {
+    "ms": "reiniciado",
+    "fs": "reiniciada",
+    "mp": "reiniciados",
+    "fp": "reiniciadas"
+  }
+}

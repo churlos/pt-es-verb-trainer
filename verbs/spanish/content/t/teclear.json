@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "teclear"
+  },
+  "Ger": {
+    "": "tecleando"
+  },
+  "PresI": {
+    "1s": "tecleo",
+    "2s": "tecleas",
+    "3s": "teclea",
+    "1p": "tecleamos",
+    "2p": "tecleáis",
+    "3p": "teclean"
+  },
+  "PImpI": {
+    "1s": "tecleaba",
+    "2s": "tecleabas",
+    "3s": "tecleaba",
+    "1p": "tecleábamos",
+    "2p": "tecleabais",
+    "3p": "tecleaban"
+  },
+  "PPSI": {
+    "1s": "tecleé",
+    "2s": "tecleaste",
+    "3s": "tecleó",
+    "1p": "tecleamos",
+    "2p": "tecleasteis",
+    "3p": "teclearon"
+  },
+  "FutSI": {
+    "1s": "teclearé",
+    "2s": "teclearás",
+    "3s": "tecleará",
+    "1p": "teclearemos",
+    "2p": "teclearéis",
+    "3p": "teclearán"
+  },
+  "CondS": {
+    "1s": "teclearía",
+    "2s": "teclearías",
+    "3s": "teclearía",
+    "1p": "teclearíamos",
+    "2p": "teclearíais",
+    "3p": "teclearían"
+  },
+  "PresC": {
+    "1s": "teclee",
+    "2s": "teclees",
+    "3s": "teclee",
+    "1p": "tecleemos",
+    "2p": "tecleéis",
+    "3p": "tecleen"
+  },
+  "PMQPSI": {
+    "1s": "tecleara",
+    "2s": "teclearas",
+    "3s": "tecleara",
+    "1p": "tecleáramos",
+    "2p": "teclearais",
+    "3p": "teclearan"
+  },
+  "PImpC": {
+    "1s": "teclease",
+    "2s": "tecleases",
+    "3s": "teclease",
+    "1p": "tecleásemos",
+    "2p": "tecleaseis",
+    "3p": "tecleasen"
+  },
+  "FutSC": {
+    "1s": "tecleare",
+    "2s": "tecleares",
+    "3s": "tecleare",
+    "1p": "tecleáremos",
+    "2p": "tecleareis",
+    "3p": "teclearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "teclea",
+    "3s": "teclee",
+    "1p": "tecleemos",
+    "2p": "teclead",
+    "3p": "tecleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no teclees",
+    "3s": "no teclee",
+    "1p": "no tecleemos",
+    "2p": "no tecleéis",
+    "3p": "no tecleen"
+  },
+  "Part-ter": {
+    "": "tecleado"
+  },
+  "Part-ser": {
+    "ms": "tecleado",
+    "fs": "tecleada",
+    "mp": "tecleados",
+    "fp": "tecleadas"
+  }
+}

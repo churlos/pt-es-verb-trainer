@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cambar"
+  },
+  "InfP": {
+    "1s": "cambar",
+    "2s": "cambares",
+    "3s": "cambar",
+    "1p": "cambarmos",
+    "2p": "cambardes",
+    "3p": "cambarem"
+  },
+  "Ger": {
+    "": "cambando"
+  },
+  "PresI": {
+    "1s": "cambo",
+    "2s": "cambas",
+    "3s": "camba",
+    "1p": "cambamos",
+    "2p": "cambais",
+    "3p": "cambam"
+  },
+  "PImpI": {
+    "1s": "cambava",
+    "2s": "cambavas",
+    "3s": "cambava",
+    "1p": "cambávamos",
+    "2p": "cambáveis",
+    "3p": "cambavam"
+  },
+  "PPSI": {
+    "1s": "cambei",
+    "2s": "cambaste",
+    "3s": "cambou",
+    "1p": "cambámos",
+    "2p": "cambastes",
+    "3p": "cambaram"
+  },
+  "PMQPSI": {
+    "1s": "cambara",
+    "2s": "cambaras",
+    "3s": "cambara",
+    "1p": "cambáramos",
+    "2p": "cambáreis",
+    "3p": "cambaram"
+  },
+  "FutSI": {
+    "1s": "cambarei",
+    "2s": "cambarás",
+    "3s": "cambará",
+    "1p": "cambaremos",
+    "2p": "cambareis",
+    "3p": "cambarão"
+  },
+  "CondS": {
+    "1s": "cambaria",
+    "2s": "cambarias",
+    "3s": "cambaria",
+    "1p": "cambaríamos",
+    "2p": "cambaríeis",
+    "3p": "cambariam"
+  },
+  "PresC": {
+    "1s": "cambe",
+    "2s": "cambes",
+    "3s": "cambe",
+    "1p": "cambemos",
+    "2p": "cambeis",
+    "3p": "cambem"
+  },
+  "PImpC": {
+    "1s": "cambasse",
+    "2s": "cambasses",
+    "3s": "cambasse",
+    "1p": "cambássemos",
+    "2p": "cambásseis",
+    "3p": "cambassem"
+  },
+  "FutSC": {
+    "1s": "cambar",
+    "2s": "cambares",
+    "3s": "cambar",
+    "1p": "cambarmos",
+    "2p": "cambardes",
+    "3p": "cambarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "camba",
+    "3s": "cambe",
+    "1p": "cambemos",
+    "2p": "cambai",
+    "3p": "cambem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cambes",
+    "3s": "não cambe",
+    "1p": "não cambemos",
+    "2p": "não cambeis",
+    "3p": "não cambem"
+  },
+  "Part-ter": {
+    "": "cambado"
+  },
+  "Part-ser": {
+    "ms": "cambado",
+    "fs": "cambada",
+    "mp": "cambados",
+    "fp": "cambadas"
+  }
+}

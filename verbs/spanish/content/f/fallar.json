@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fallar"
+  },
+  "Ger": {
+    "": "fallando"
+  },
+  "PresI": {
+    "1s": "fallo",
+    "2s": "fallas",
+    "3s": "falla",
+    "1p": "fallamos",
+    "2p": "falláis",
+    "3p": "fallan"
+  },
+  "PImpI": {
+    "1s": "fallaba",
+    "2s": "fallabas",
+    "3s": "fallaba",
+    "1p": "fallábamos",
+    "2p": "fallabais",
+    "3p": "fallaban"
+  },
+  "PPSI": {
+    "1s": "fallé",
+    "2s": "fallaste",
+    "3s": "falló",
+    "1p": "fallamos",
+    "2p": "fallasteis",
+    "3p": "fallaron"
+  },
+  "FutSI": {
+    "1s": "fallaré",
+    "2s": "fallarás",
+    "3s": "fallará",
+    "1p": "fallaremos",
+    "2p": "fallaréis",
+    "3p": "fallarán"
+  },
+  "CondS": {
+    "1s": "fallaría",
+    "2s": "fallarías",
+    "3s": "fallaría",
+    "1p": "fallaríamos",
+    "2p": "fallaríais",
+    "3p": "fallarían"
+  },
+  "PresC": {
+    "1s": "falle",
+    "2s": "falles",
+    "3s": "falle",
+    "1p": "fallemos",
+    "2p": "falléis",
+    "3p": "fallen"
+  },
+  "PMQPSI": {
+    "1s": "fallara",
+    "2s": "fallaras",
+    "3s": "fallara",
+    "1p": "falláramos",
+    "2p": "fallarais",
+    "3p": "fallaran"
+  },
+  "PImpC": {
+    "1s": "fallase",
+    "2s": "fallases",
+    "3s": "fallase",
+    "1p": "fallásemos",
+    "2p": "fallaseis",
+    "3p": "fallasen"
+  },
+  "FutSC": {
+    "1s": "fallare",
+    "2s": "fallares",
+    "3s": "fallare",
+    "1p": "falláremos",
+    "2p": "fallareis",
+    "3p": "fallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "falla",
+    "3s": "falle",
+    "1p": "fallemos",
+    "2p": "fallad",
+    "3p": "fallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no falles",
+    "3s": "no falle",
+    "1p": "no fallemos",
+    "2p": "no falléis",
+    "3p": "no fallen"
+  },
+  "Part-ter": {
+    "": "fallado"
+  },
+  "Part-ser": {
+    "ms": "fallado",
+    "fs": "fallada",
+    "mp": "fallados",
+    "fp": "falladas"
+  }
+}

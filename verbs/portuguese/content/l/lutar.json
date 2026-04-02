@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lutar"
+  },
+  "InfP": {
+    "1s": "lutar",
+    "2s": "lutares",
+    "3s": "lutar",
+    "1p": "lutarmos",
+    "2p": "lutardes",
+    "3p": "lutarem"
+  },
+  "Ger": {
+    "": "lutando"
+  },
+  "PresI": {
+    "1s": "luto",
+    "2s": "lutas",
+    "3s": "luta",
+    "1p": "lutamos",
+    "2p": "lutais",
+    "3p": "lutam"
+  },
+  "PImpI": {
+    "1s": "lutava",
+    "2s": "lutavas",
+    "3s": "lutava",
+    "1p": "lutávamos",
+    "2p": "lutáveis",
+    "3p": "lutavam"
+  },
+  "PPSI": {
+    "1s": "lutei",
+    "2s": "lutaste",
+    "3s": "lutou",
+    "1p": "lutámos",
+    "2p": "lutastes",
+    "3p": "lutaram"
+  },
+  "PMQPSI": {
+    "1s": "lutara",
+    "2s": "lutaras",
+    "3s": "lutara",
+    "1p": "lutáramos",
+    "2p": "lutáreis",
+    "3p": "lutaram"
+  },
+  "FutSI": {
+    "1s": "lutarei",
+    "2s": "lutarás",
+    "3s": "lutará",
+    "1p": "lutaremos",
+    "2p": "lutareis",
+    "3p": "lutarão"
+  },
+  "CondS": {
+    "1s": "lutaria",
+    "2s": "lutarias",
+    "3s": "lutaria",
+    "1p": "lutaríamos",
+    "2p": "lutaríeis",
+    "3p": "lutariam"
+  },
+  "PresC": {
+    "1s": "lute",
+    "2s": "lutes",
+    "3s": "lute",
+    "1p": "lutemos",
+    "2p": "luteis",
+    "3p": "lutem"
+  },
+  "PImpC": {
+    "1s": "lutasse",
+    "2s": "lutasses",
+    "3s": "lutasse",
+    "1p": "lutássemos",
+    "2p": "lutásseis",
+    "3p": "lutassem"
+  },
+  "FutSC": {
+    "1s": "lutar",
+    "2s": "lutares",
+    "3s": "lutar",
+    "1p": "lutarmos",
+    "2p": "lutardes",
+    "3p": "lutarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "luta",
+    "3s": "lute",
+    "1p": "lutemos",
+    "2p": "lutai",
+    "3p": "lutem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lutes",
+    "3s": "não lute",
+    "1p": "não lutemos",
+    "2p": "não luteis",
+    "3p": "não lutem"
+  },
+  "Part-ter": {
+    "": "lutado"
+  },
+  "Part-ser": {
+    "ms": "lutado",
+    "fs": "lutada",
+    "mp": "lutados",
+    "fp": "lutadas"
+  }
+}

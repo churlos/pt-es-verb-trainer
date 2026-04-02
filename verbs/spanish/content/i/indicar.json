@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "indicar"
+  },
+  "Ger": {
+    "": "indicando"
+  },
+  "PresI": {
+    "1s": "indico",
+    "2s": "indicas",
+    "3s": "indica",
+    "1p": "indicamos",
+    "2p": "indicáis",
+    "3p": "indican"
+  },
+  "PImpI": {
+    "1s": "indicaba",
+    "2s": "indicabas",
+    "3s": "indicaba",
+    "1p": "indicábamos",
+    "2p": "indicabais",
+    "3p": "indicaban"
+  },
+  "PPSI": {
+    "1s": "indiqué",
+    "2s": "indicaste",
+    "3s": "indicó",
+    "1p": "indicamos",
+    "2p": "indicasteis",
+    "3p": "indicaron"
+  },
+  "FutSI": {
+    "1s": "indicaré",
+    "2s": "indicarás",
+    "3s": "indicará",
+    "1p": "indicaremos",
+    "2p": "indicaréis",
+    "3p": "indicarán"
+  },
+  "CondS": {
+    "1s": "indicaría",
+    "2s": "indicarías",
+    "3s": "indicaría",
+    "1p": "indicaríamos",
+    "2p": "indicaríais",
+    "3p": "indicarían"
+  },
+  "PresC": {
+    "1s": "indique",
+    "2s": "indiques",
+    "3s": "indique",
+    "1p": "indiquemos",
+    "2p": "indiquéis",
+    "3p": "indiquen"
+  },
+  "PMQPSI": {
+    "1s": "indicara",
+    "2s": "indicaras",
+    "3s": "indicara",
+    "1p": "indicáramos",
+    "2p": "indicarais",
+    "3p": "indicaran"
+  },
+  "PImpC": {
+    "1s": "indicase",
+    "2s": "indicases",
+    "3s": "indicase",
+    "1p": "indicásemos",
+    "2p": "indicaseis",
+    "3p": "indicasen"
+  },
+  "FutSC": {
+    "1s": "indicare",
+    "2s": "indicares",
+    "3s": "indicare",
+    "1p": "indicáremos",
+    "2p": "indicareis",
+    "3p": "indicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indica",
+    "3s": "indique",
+    "1p": "indiquemos",
+    "2p": "indicad",
+    "3p": "indiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no indiques",
+    "3s": "no indique",
+    "1p": "no indiquemos",
+    "2p": "no indiquéis",
+    "3p": "no indiquen"
+  },
+  "Part-ter": {
+    "": "indicado"
+  },
+  "Part-ser": {
+    "ms": "indicado",
+    "fs": "indicada",
+    "mp": "indicados",
+    "fp": "indicadas"
+  }
+}

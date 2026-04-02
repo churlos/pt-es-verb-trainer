@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escanciar"
+  },
+  "Ger": {
+    "": "escanciando"
+  },
+  "PresI": {
+    "1s": "escancio",
+    "2s": "escancias",
+    "3s": "escancia",
+    "1p": "escanciamos",
+    "2p": "escanciáis",
+    "3p": "escancian"
+  },
+  "PImpI": {
+    "1s": "escanciaba",
+    "2s": "escanciabas",
+    "3s": "escanciaba",
+    "1p": "escanciábamos",
+    "2p": "escanciabais",
+    "3p": "escanciaban"
+  },
+  "PPSI": {
+    "1s": "escancié",
+    "2s": "escanciaste",
+    "3s": "escanció",
+    "1p": "escanciamos",
+    "2p": "escanciasteis",
+    "3p": "escanciaron"
+  },
+  "FutSI": {
+    "1s": "escanciaré",
+    "2s": "escanciarás",
+    "3s": "escanciará",
+    "1p": "escanciaremos",
+    "2p": "escanciaréis",
+    "3p": "escanciarán"
+  },
+  "CondS": {
+    "1s": "escanciaría",
+    "2s": "escanciarías",
+    "3s": "escanciaría",
+    "1p": "escanciaríamos",
+    "2p": "escanciaríais",
+    "3p": "escanciarían"
+  },
+  "PresC": {
+    "1s": "escancie",
+    "2s": "escancies",
+    "3s": "escancie",
+    "1p": "escanciemos",
+    "2p": "escanciéis",
+    "3p": "escancien"
+  },
+  "PMQPSI": {
+    "1s": "escanciara",
+    "2s": "escanciaras",
+    "3s": "escanciara",
+    "1p": "escanciáramos",
+    "2p": "escanciarais",
+    "3p": "escanciaran"
+  },
+  "PImpC": {
+    "1s": "escanciase",
+    "2s": "escanciases",
+    "3s": "escanciase",
+    "1p": "escanciásemos",
+    "2p": "escanciaseis",
+    "3p": "escanciasen"
+  },
+  "FutSC": {
+    "1s": "escanciare",
+    "2s": "escanciares",
+    "3s": "escanciare",
+    "1p": "escanciáremos",
+    "2p": "escanciareis",
+    "3p": "escanciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escancia",
+    "3s": "escancie",
+    "1p": "escanciemos",
+    "2p": "escanciad",
+    "3p": "escancien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escancies",
+    "3s": "no escancie",
+    "1p": "no escanciemos",
+    "2p": "no escanciéis",
+    "3p": "no escancien"
+  },
+  "Part-ter": {
+    "": "escanciado"
+  },
+  "Part-ser": {
+    "ms": "escanciado",
+    "fs": "escanciada",
+    "mp": "escanciados",
+    "fp": "escanciadas"
+  }
+}

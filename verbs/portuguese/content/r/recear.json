@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "recear"
+  },
+  "InfP": {
+    "1s": "recear",
+    "2s": "receares",
+    "3s": "recear",
+    "1p": "recearmos",
+    "2p": "receardes",
+    "3p": "recearem"
+  },
+  "Ger": {
+    "": "receando"
+  },
+  "PresI": {
+    "1s": "receio",
+    "2s": "receias",
+    "3s": "receia",
+    "1p": "receamos",
+    "2p": "receais",
+    "3p": "receiam"
+  },
+  "PImpI": {
+    "1s": "receava",
+    "2s": "receavas",
+    "3s": "receava",
+    "1p": "receávamos",
+    "2p": "receáveis",
+    "3p": "receavam"
+  },
+  "PPSI": {
+    "1s": "receei",
+    "2s": "receaste",
+    "3s": "receou",
+    "1p": "receámos",
+    "2p": "receastes",
+    "3p": "recearam"
+  },
+  "PMQPSI": {
+    "1s": "receara",
+    "2s": "recearas",
+    "3s": "receara",
+    "1p": "receáramos",
+    "2p": "receáreis",
+    "3p": "recearam"
+  },
+  "FutSI": {
+    "1s": "recearei",
+    "2s": "recearás",
+    "3s": "receará",
+    "1p": "recearemos",
+    "2p": "receareis",
+    "3p": "recearão"
+  },
+  "CondS": {
+    "1s": "recearia",
+    "2s": "recearias",
+    "3s": "recearia",
+    "1p": "recearíamos",
+    "2p": "recearíeis",
+    "3p": "receariam"
+  },
+  "PresC": {
+    "1s": "receie",
+    "2s": "receies",
+    "3s": "receie",
+    "1p": "receemos",
+    "2p": "receeis",
+    "3p": "receiem"
+  },
+  "PImpC": {
+    "1s": "receasse",
+    "2s": "receasses",
+    "3s": "receasse",
+    "1p": "receássemos",
+    "2p": "receásseis",
+    "3p": "receassem"
+  },
+  "FutSC": {
+    "1s": "recear",
+    "2s": "receares",
+    "3s": "recear",
+    "1p": "recearmos",
+    "2p": "receardes",
+    "3p": "recearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "receia",
+    "3s": "receie",
+    "1p": "receemos",
+    "2p": "receai",
+    "3p": "receiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não receies",
+    "3s": "não receie",
+    "1p": "não receemos",
+    "2p": "não receeis",
+    "3p": "não receiem"
+  },
+  "Part-ter": {
+    "": "receado"
+  },
+  "Part-ser": {
+    "ms": "receado",
+    "fs": "receada",
+    "mp": "receados",
+    "fp": "receadas"
+  }
+}

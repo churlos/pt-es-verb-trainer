@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "printar"
+  },
+  "InfP": {
+    "1s": "printar",
+    "2s": "printares",
+    "3s": "printar",
+    "1p": "printarmos",
+    "2p": "printardes",
+    "3p": "printarem"
+  },
+  "Ger": {
+    "": "printando"
+  },
+  "PresI": {
+    "1s": "printo",
+    "2s": "printas",
+    "3s": "printa",
+    "1p": "printamos",
+    "2p": "printais",
+    "3p": "printam"
+  },
+  "PImpI": {
+    "1s": "printava",
+    "2s": "printavas",
+    "3s": "printava",
+    "1p": "printávamos",
+    "2p": "printáveis",
+    "3p": "printavam"
+  },
+  "PPSI": {
+    "1s": "printei",
+    "2s": "printaste",
+    "3s": "printou",
+    "1p": "printámos",
+    "2p": "printastes",
+    "3p": "printaram"
+  },
+  "PMQPSI": {
+    "1s": "printara",
+    "2s": "printaras",
+    "3s": "printara",
+    "1p": "printáramos",
+    "2p": "printáreis",
+    "3p": "printaram"
+  },
+  "FutSI": {
+    "1s": "printarei",
+    "2s": "printarás",
+    "3s": "printará",
+    "1p": "printaremos",
+    "2p": "printareis",
+    "3p": "printarão"
+  },
+  "CondS": {
+    "1s": "printaria",
+    "2s": "printarias",
+    "3s": "printaria",
+    "1p": "printaríamos",
+    "2p": "printaríeis",
+    "3p": "printariam"
+  },
+  "PresC": {
+    "1s": "printe",
+    "2s": "printes",
+    "3s": "printe",
+    "1p": "printemos",
+    "2p": "printeis",
+    "3p": "printem"
+  },
+  "PImpC": {
+    "1s": "printasse",
+    "2s": "printasses",
+    "3s": "printasse",
+    "1p": "printássemos",
+    "2p": "printásseis",
+    "3p": "printassem"
+  },
+  "FutSC": {
+    "1s": "printar",
+    "2s": "printares",
+    "3s": "printar",
+    "1p": "printarmos",
+    "2p": "printardes",
+    "3p": "printarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "printa",
+    "3s": "printe",
+    "1p": "printemos",
+    "2p": "printai",
+    "3p": "printem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não printes",
+    "3s": "não printe",
+    "1p": "não printemos",
+    "2p": "não printeis",
+    "3p": "não printem"
+  },
+  "Part-ter": {
+    "": "printado"
+  },
+  "Part-ser": {
+    "ms": "printado",
+    "fs": "printada",
+    "mp": "printados",
+    "fp": "printadas"
+  }
+}

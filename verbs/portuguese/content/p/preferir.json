@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "preferir"
+  },
+  "InfP": {
+    "1s": "preferir",
+    "2s": "preferires",
+    "3s": "preferir",
+    "1p": "preferirmos",
+    "2p": "preferirdes",
+    "3p": "preferirem"
+  },
+  "Ger": {
+    "": "preferindo"
+  },
+  "PresI": {
+    "1s": "prefiro",
+    "2s": "preferes",
+    "3s": "prefere",
+    "1p": "preferimos",
+    "2p": "preferis",
+    "3p": "preferem"
+  },
+  "PImpI": {
+    "1s": "preferia",
+    "2s": "preferias",
+    "3s": "preferia",
+    "1p": "preferíamos",
+    "2p": "preferíeis",
+    "3p": "preferiam"
+  },
+  "PPSI": {
+    "1s": "preferi",
+    "2s": "preferiste",
+    "3s": "preferiu",
+    "1p": "preferimos",
+    "2p": "preferistes",
+    "3p": "preferiram"
+  },
+  "PMQPSI": {
+    "1s": "preferira",
+    "2s": "preferiras",
+    "3s": "preferira",
+    "1p": "preferíramos",
+    "2p": "preferíreis",
+    "3p": "preferiram"
+  },
+  "FutSI": {
+    "1s": "preferirei",
+    "2s": "preferirás",
+    "3s": "preferirá",
+    "1p": "preferiremos",
+    "2p": "preferireis",
+    "3p": "preferirão"
+  },
+  "CondS": {
+    "1s": "preferiria",
+    "2s": "preferirias",
+    "3s": "preferiria",
+    "1p": "preferiríamos",
+    "2p": "preferiríeis",
+    "3p": "prefeririam"
+  },
+  "PresC": {
+    "1s": "prefira",
+    "2s": "prefiras",
+    "3s": "prefira",
+    "1p": "prefiramos",
+    "2p": "prefirais",
+    "3p": "prefiram"
+  },
+  "PImpC": {
+    "1s": "preferisse",
+    "2s": "preferisses",
+    "3s": "preferisse",
+    "1p": "preferíssemos",
+    "2p": "preferísseis",
+    "3p": "preferissem"
+  },
+  "FutSC": {
+    "1s": "preferir",
+    "2s": "preferires",
+    "3s": "preferir",
+    "1p": "preferirmos",
+    "2p": "preferirdes",
+    "3p": "preferirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prefere",
+    "3s": "prefira",
+    "1p": "prefiramos",
+    "2p": "preferi",
+    "3p": "prefiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prefiras",
+    "3s": "não prefira",
+    "1p": "não prefiramos",
+    "2p": "não prefirais",
+    "3p": "não prefiram"
+  },
+  "Part-ter": {
+    "": "preferido"
+  },
+  "Part-ser": {
+    "ms": "preferido",
+    "fs": "preferida",
+    "mp": "preferidos",
+    "fp": "preferidas"
+  }
+}

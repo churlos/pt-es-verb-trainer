@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bombardear"
+  },
+  "Ger": {
+    "": "bombardeando"
+  },
+  "PresI": {
+    "1s": "bombardeo",
+    "2s": "bombardeas",
+    "3s": "bombardea",
+    "1p": "bombardeamos",
+    "2p": "bombardeáis",
+    "3p": "bombardean"
+  },
+  "PImpI": {
+    "1s": "bombardeaba",
+    "2s": "bombardeabas",
+    "3s": "bombardeaba",
+    "1p": "bombardeábamos",
+    "2p": "bombardeabais",
+    "3p": "bombardeaban"
+  },
+  "PPSI": {
+    "1s": "bombardeé",
+    "2s": "bombardeaste",
+    "3s": "bombardeó",
+    "1p": "bombardeamos",
+    "2p": "bombardeasteis",
+    "3p": "bombardearon"
+  },
+  "FutSI": {
+    "1s": "bombardearé",
+    "2s": "bombardearás",
+    "3s": "bombardeará",
+    "1p": "bombardearemos",
+    "2p": "bombardearéis",
+    "3p": "bombardearán"
+  },
+  "CondS": {
+    "1s": "bombardearía",
+    "2s": "bombardearías",
+    "3s": "bombardearía",
+    "1p": "bombardearíamos",
+    "2p": "bombardearíais",
+    "3p": "bombardearían"
+  },
+  "PresC": {
+    "1s": "bombardee",
+    "2s": "bombardees",
+    "3s": "bombardee",
+    "1p": "bombardeemos",
+    "2p": "bombardeéis",
+    "3p": "bombardeen"
+  },
+  "PMQPSI": {
+    "1s": "bombardeara",
+    "2s": "bombardearas",
+    "3s": "bombardeara",
+    "1p": "bombardeáramos",
+    "2p": "bombardearais",
+    "3p": "bombardearan"
+  },
+  "PImpC": {
+    "1s": "bombardease",
+    "2s": "bombardeases",
+    "3s": "bombardease",
+    "1p": "bombardeásemos",
+    "2p": "bombardeaseis",
+    "3p": "bombardeasen"
+  },
+  "FutSC": {
+    "1s": "bombardeare",
+    "2s": "bombardeares",
+    "3s": "bombardeare",
+    "1p": "bombardeáremos",
+    "2p": "bombardeareis",
+    "3p": "bombardearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bombardea",
+    "3s": "bombardee",
+    "1p": "bombardeemos",
+    "2p": "bombardead",
+    "3p": "bombardeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bombardees",
+    "3s": "no bombardee",
+    "1p": "no bombardeemos",
+    "2p": "no bombardeéis",
+    "3p": "no bombardeen"
+  },
+  "Part-ter": {
+    "": "bombardeado"
+  },
+  "Part-ser": {
+    "ms": "bombardeado",
+    "fs": "bombardeada",
+    "mp": "bombardeados",
+    "fp": "bombardeadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aparar"
+  },
+  "InfP": {
+    "1s": "aparar",
+    "2s": "aparares",
+    "3s": "aparar",
+    "1p": "apararmos",
+    "2p": "aparardes",
+    "3p": "apararem"
+  },
+  "Ger": {
+    "": "aparando"
+  },
+  "PresI": {
+    "1s": "aparo",
+    "2s": "aparas",
+    "3s": "apara",
+    "1p": "aparamos",
+    "2p": "aparais",
+    "3p": "aparam"
+  },
+  "PImpI": {
+    "1s": "aparava",
+    "2s": "aparavas",
+    "3s": "aparava",
+    "1p": "aparávamos",
+    "2p": "aparáveis",
+    "3p": "aparavam"
+  },
+  "PPSI": {
+    "1s": "aparei",
+    "2s": "aparaste",
+    "3s": "aparou",
+    "1p": "aparámos",
+    "2p": "aparastes",
+    "3p": "apararam"
+  },
+  "PMQPSI": {
+    "1s": "aparara",
+    "2s": "apararas",
+    "3s": "aparara",
+    "1p": "aparáramos",
+    "2p": "aparáreis",
+    "3p": "apararam"
+  },
+  "FutSI": {
+    "1s": "apararei",
+    "2s": "apararás",
+    "3s": "aparará",
+    "1p": "apararemos",
+    "2p": "aparareis",
+    "3p": "apararão"
+  },
+  "CondS": {
+    "1s": "apararia",
+    "2s": "apararias",
+    "3s": "apararia",
+    "1p": "apararíamos",
+    "2p": "apararíeis",
+    "3p": "aparariam"
+  },
+  "PresC": {
+    "1s": "apare",
+    "2s": "apares",
+    "3s": "apare",
+    "1p": "aparemos",
+    "2p": "apareis",
+    "3p": "aparem"
+  },
+  "PImpC": {
+    "1s": "aparasse",
+    "2s": "aparasses",
+    "3s": "aparasse",
+    "1p": "aparássemos",
+    "2p": "aparásseis",
+    "3p": "aparassem"
+  },
+  "FutSC": {
+    "1s": "aparar",
+    "2s": "aparares",
+    "3s": "aparar",
+    "1p": "apararmos",
+    "2p": "aparardes",
+    "3p": "apararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apara",
+    "3s": "apare",
+    "1p": "aparemos",
+    "2p": "aparai",
+    "3p": "aparem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apares",
+    "3s": "não apare",
+    "1p": "não aparemos",
+    "2p": "não apareis",
+    "3p": "não aparem"
+  },
+  "Part-ter": {
+    "": "aparado"
+  },
+  "Part-ser": {
+    "ms": "aparado",
+    "fs": "aparada",
+    "mp": "aparados",
+    "fp": "aparadas"
+  }
+}

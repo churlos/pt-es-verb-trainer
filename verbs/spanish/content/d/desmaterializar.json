@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desmaterializar"
+  },
+  "Ger": {
+    "": "desmaterializando"
+  },
+  "PresI": {
+    "1s": "desmaterializo",
+    "2s": "desmaterializas",
+    "3s": "desmaterializa",
+    "1p": "desmaterializamos",
+    "2p": "desmaterializáis",
+    "3p": "desmaterializan"
+  },
+  "PImpI": {
+    "1s": "desmaterializaba",
+    "2s": "desmaterializabas",
+    "3s": "desmaterializaba",
+    "1p": "desmaterializábamos",
+    "2p": "desmaterializabais",
+    "3p": "desmaterializaban"
+  },
+  "PPSI": {
+    "1s": "desmaterialicé",
+    "2s": "desmaterializaste",
+    "3s": "desmaterializó",
+    "1p": "desmaterializamos",
+    "2p": "desmaterializasteis",
+    "3p": "desmaterializaron"
+  },
+  "FutSI": {
+    "1s": "desmaterializaré",
+    "2s": "desmaterializarás",
+    "3s": "desmaterializará",
+    "1p": "desmaterializaremos",
+    "2p": "desmaterializaréis",
+    "3p": "desmaterializarán"
+  },
+  "CondS": {
+    "1s": "desmaterializaría",
+    "2s": "desmaterializarías",
+    "3s": "desmaterializaría",
+    "1p": "desmaterializaríamos",
+    "2p": "desmaterializaríais",
+    "3p": "desmaterializarían"
+  },
+  "PresC": {
+    "1s": "desmaterialice",
+    "2s": "desmaterialices",
+    "3s": "desmaterialice",
+    "1p": "desmaterialicemos",
+    "2p": "desmaterialicéis",
+    "3p": "desmaterialicen"
+  },
+  "PMQPSI": {
+    "1s": "desmaterializara",
+    "2s": "desmaterializaras",
+    "3s": "desmaterializara",
+    "1p": "desmaterializáramos",
+    "2p": "desmaterializarais",
+    "3p": "desmaterializaran"
+  },
+  "PImpC": {
+    "1s": "desmaterializase",
+    "2s": "desmaterializases",
+    "3s": "desmaterializase",
+    "1p": "desmaterializásemos",
+    "2p": "desmaterializaseis",
+    "3p": "desmaterializasen"
+  },
+  "FutSC": {
+    "1s": "desmaterializare",
+    "2s": "desmaterializares",
+    "3s": "desmaterializare",
+    "1p": "desmaterializáremos",
+    "2p": "desmaterializareis",
+    "3p": "desmaterializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desmaterializa",
+    "3s": "desmaterialice",
+    "1p": "desmaterialicemos",
+    "2p": "desmaterializad",
+    "3p": "desmaterialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desmaterialices",
+    "3s": "no desmaterialice",
+    "1p": "no desmaterialicemos",
+    "2p": "no desmaterialicéis",
+    "3p": "no desmaterialicen"
+  },
+  "Part-ter": {
+    "": "desmaterializado"
+  },
+  "Part-ser": {
+    "ms": "desmaterializado",
+    "fs": "desmaterializada",
+    "mp": "desmaterializados",
+    "fp": "desmaterializadas"
+  }
+}

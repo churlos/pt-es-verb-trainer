@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acalmar"
+  },
+  "InfP": {
+    "1s": "acalmar",
+    "2s": "acalmares",
+    "3s": "acalmar",
+    "1p": "acalmarmos",
+    "2p": "acalmardes",
+    "3p": "acalmarem"
+  },
+  "Ger": {
+    "": "acalmando"
+  },
+  "PresI": {
+    "1s": "acalmo",
+    "2s": "acalmas",
+    "3s": "acalma",
+    "1p": "acalmamos",
+    "2p": "acalmais",
+    "3p": "acalmam"
+  },
+  "PImpI": {
+    "1s": "acalmava",
+    "2s": "acalmavas",
+    "3s": "acalmava",
+    "1p": "acalmávamos",
+    "2p": "acalmáveis",
+    "3p": "acalmavam"
+  },
+  "PPSI": {
+    "1s": "acalmei",
+    "2s": "acalmaste",
+    "3s": "acalmou",
+    "1p": "acalmámos",
+    "2p": "acalmastes",
+    "3p": "acalmaram"
+  },
+  "PMQPSI": {
+    "1s": "acalmara",
+    "2s": "acalmaras",
+    "3s": "acalmara",
+    "1p": "acalmáramos",
+    "2p": "acalmáreis",
+    "3p": "acalmaram"
+  },
+  "FutSI": {
+    "1s": "acalmarei",
+    "2s": "acalmarás",
+    "3s": "acalmará",
+    "1p": "acalmaremos",
+    "2p": "acalmareis",
+    "3p": "acalmarão"
+  },
+  "CondS": {
+    "1s": "acalmaria",
+    "2s": "acalmarias",
+    "3s": "acalmaria",
+    "1p": "acalmaríamos",
+    "2p": "acalmaríeis",
+    "3p": "acalmariam"
+  },
+  "PresC": {
+    "1s": "acalme",
+    "2s": "acalmes",
+    "3s": "acalme",
+    "1p": "acalmemos",
+    "2p": "acalmeis",
+    "3p": "acalmem"
+  },
+  "PImpC": {
+    "1s": "acalmasse",
+    "2s": "acalmasses",
+    "3s": "acalmasse",
+    "1p": "acalmássemos",
+    "2p": "acalmásseis",
+    "3p": "acalmassem"
+  },
+  "FutSC": {
+    "1s": "acalmar",
+    "2s": "acalmares",
+    "3s": "acalmar",
+    "1p": "acalmarmos",
+    "2p": "acalmardes",
+    "3p": "acalmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acalma",
+    "3s": "acalme",
+    "1p": "acalmemos",
+    "2p": "acalmai",
+    "3p": "acalmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acalmes",
+    "3s": "não acalme",
+    "1p": "não acalmemos",
+    "2p": "não acalmeis",
+    "3p": "não acalmem"
+  },
+  "Part-ter": {
+    "": "acalmado"
+  },
+  "Part-ser": {
+    "ms": "acalmado",
+    "fs": "acalmada",
+    "mp": "acalmados",
+    "fp": "acalmadas"
+  }
+}

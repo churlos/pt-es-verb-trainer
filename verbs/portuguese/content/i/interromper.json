@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "interromper"
+  },
+  "InfP": {
+    "1s": "interromper",
+    "2s": "interromperes",
+    "3s": "interromper",
+    "1p": "interrompermos",
+    "2p": "interromperdes",
+    "3p": "interromperem"
+  },
+  "Ger": {
+    "": "interrompendo"
+  },
+  "PresI": {
+    "1s": "interrompo",
+    "2s": "interrompes",
+    "3s": "interrompe",
+    "1p": "interrompemos",
+    "2p": "interrompeis",
+    "3p": "interrompem"
+  },
+  "PImpI": {
+    "1s": "interrompia",
+    "2s": "interrompias",
+    "3s": "interrompia",
+    "1p": "interrompíamos",
+    "2p": "interrompíeis",
+    "3p": "interrompiam"
+  },
+  "PPSI": {
+    "1s": "interrompi",
+    "2s": "interrompeste",
+    "3s": "interrompeu",
+    "1p": "interrompemos",
+    "2p": "interrompestes",
+    "3p": "interromperam"
+  },
+  "PMQPSI": {
+    "1s": "interrompera",
+    "2s": "interromperas",
+    "3s": "interrompera",
+    "1p": "interrompêramos",
+    "2p": "interrompêreis",
+    "3p": "interromperam"
+  },
+  "FutSI": {
+    "1s": "interromperei",
+    "2s": "interromperás",
+    "3s": "interromperá",
+    "1p": "interromperemos",
+    "2p": "interrompereis",
+    "3p": "interromperão"
+  },
+  "CondS": {
+    "1s": "interromperia",
+    "2s": "interromperias",
+    "3s": "interromperia",
+    "1p": "interromperíamos",
+    "2p": "interromperíeis",
+    "3p": "interromperiam"
+  },
+  "PresC": {
+    "1s": "interrompa",
+    "2s": "interrompas",
+    "3s": "interrompa",
+    "1p": "interrompamos",
+    "2p": "interrompais",
+    "3p": "interrompam"
+  },
+  "PImpC": {
+    "1s": "interrompesse",
+    "2s": "interrompesses",
+    "3s": "interrompesse",
+    "1p": "interrompêssemos",
+    "2p": "interrompêsseis",
+    "3p": "interrompessem"
+  },
+  "FutSC": {
+    "1s": "interromper",
+    "2s": "interromperes",
+    "3s": "interromper",
+    "1p": "interrompermos",
+    "2p": "interromperdes",
+    "3p": "interromperem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interrompe",
+    "3s": "interrompa",
+    "1p": "interrompamos",
+    "2p": "interrompei",
+    "3p": "interrompam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não interrompas",
+    "3s": "não interrompa",
+    "1p": "não interrompamos",
+    "2p": "não interrompais",
+    "3p": "não interrompam"
+  },
+  "Part-ter": {
+    "": "interrompido"
+  },
+  "Part-ser": {
+    "ms": "interrompido",
+    "fs": "interrompida",
+    "mp": "interrompidos",
+    "fp": "interrompidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoproducirse"
+  },
+  "Ger": {
+    "": "autoproduciéndose"
+  },
+  "PresI": {
+    "1s": "me autoproduzco",
+    "2s": "te autoproduces",
+    "3s": "se autoproduce",
+    "1p": "nos autoproducimos",
+    "2p": "os autoproducís",
+    "3p": "se autoproducen"
+  },
+  "PImpI": {
+    "1s": "me autoproducía",
+    "2s": "te autoproducías",
+    "3s": "se autoproducía",
+    "1p": "nos autoproducíamos",
+    "2p": "os autoproducíais",
+    "3p": "se autoproducían"
+  },
+  "PPSI": {
+    "1s": "me autoproduje",
+    "2s": "te autoprodujiste",
+    "3s": "se autoprodujo",
+    "1p": "nos autoprodujimos",
+    "2p": "os autoprodujisteis",
+    "3p": "se autoprodujeron"
+  },
+  "FutSI": {
+    "1s": "me autoproduciré",
+    "2s": "te autoproducirás",
+    "3s": "se autoproducirá",
+    "1p": "nos autoproduciremos",
+    "2p": "os autoproduciréis",
+    "3p": "se autoproducirán"
+  },
+  "CondS": {
+    "1s": "me autoproduciría",
+    "2s": "te autoproducirías",
+    "3s": "se autoproduciría",
+    "1p": "nos autoproduciríamos",
+    "2p": "os autoproduciríais",
+    "3p": "se autoproducirían"
+  },
+  "PresC": {
+    "1s": "me autoproduzca",
+    "2s": "te autoproduzcas",
+    "3s": "se autoproduzca",
+    "1p": "nos autoproduzcamos",
+    "2p": "os autoproduzcáis",
+    "3p": "se autoproduzcan"
+  },
+  "PMQPSI": {
+    "1s": "me autoprodujera",
+    "2s": "te autoprodujeras",
+    "3s": "se autoprodujera",
+    "1p": "nos autoprodujéramos",
+    "2p": "os autoprodujerais",
+    "3p": "se autoprodujeran"
+  },
+  "PImpC": {
+    "1s": "me autoprodujese",
+    "2s": "te autoprodujeses",
+    "3s": "se autoprodujese",
+    "1p": "nos autoprodujésemos",
+    "2p": "os autoprodujeseis",
+    "3p": "se autoprodujesen"
+  },
+  "FutSC": {
+    "1s": "me autoprodujere",
+    "2s": "te autoprodujeres",
+    "3s": "se autoprodujere",
+    "1p": "nos autoprodujéremos",
+    "2p": "os autoprodujereis",
+    "3p": "se autoprodujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoprodúcete",
+    "3s": "autoprodúzcase",
+    "1p": "autoproduzcámonos",
+    "2p": "autoproducíos",
+    "3p": "autoprodúzcanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoproduzcas",
+    "3s": "no se autoproduzca",
+    "1p": "no nos autoproduzcamos",
+    "2p": "no os autoproduzcáis",
+    "3p": "no se autoproduzcan"
+  },
+  "Part-ter": {
+    "": "autoproducido"
+  },
+  "Part-ser": {
+    "ms": "autoproducido",
+    "fs": "autoproducida",
+    "mp": "autoproducidos",
+    "fp": "autoproducidas"
+  }
+}

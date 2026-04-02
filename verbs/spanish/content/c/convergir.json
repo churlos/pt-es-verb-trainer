@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "convergir"
+  },
+  "Ger": {
+    "": "convergiendo"
+  },
+  "PresI": {
+    "1s": "converjo",
+    "2s": "converges",
+    "3s": "converge",
+    "1p": "convergimos",
+    "2p": "convergís",
+    "3p": "convergen"
+  },
+  "PImpI": {
+    "1s": "convergía",
+    "2s": "convergías",
+    "3s": "convergía",
+    "1p": "convergíamos",
+    "2p": "convergíais",
+    "3p": "convergían"
+  },
+  "PPSI": {
+    "1s": "convergí",
+    "2s": "convergiste",
+    "3s": "convergió",
+    "1p": "convergimos",
+    "2p": "convergisteis",
+    "3p": "convergieron"
+  },
+  "FutSI": {
+    "1s": "convergiré",
+    "2s": "convergirás",
+    "3s": "convergirá",
+    "1p": "convergiremos",
+    "2p": "convergiréis",
+    "3p": "convergirán"
+  },
+  "CondS": {
+    "1s": "convergiría",
+    "2s": "convergirías",
+    "3s": "convergiría",
+    "1p": "convergiríamos",
+    "2p": "convergiríais",
+    "3p": "convergirían"
+  },
+  "PresC": {
+    "1s": "converja",
+    "2s": "converjas",
+    "3s": "converja",
+    "1p": "converjamos",
+    "2p": "converjáis",
+    "3p": "converjan"
+  },
+  "PMQPSI": {
+    "1s": "convergiera",
+    "2s": "convergieras",
+    "3s": "convergiera",
+    "1p": "convergiéramos",
+    "2p": "convergierais",
+    "3p": "convergieran"
+  },
+  "PImpC": {
+    "1s": "convergiese",
+    "2s": "convergieses",
+    "3s": "convergiese",
+    "1p": "convergiésemos",
+    "2p": "convergieseis",
+    "3p": "convergiesen"
+  },
+  "FutSC": {
+    "1s": "convergiere",
+    "2s": "convergieres",
+    "3s": "convergiere",
+    "1p": "convergiéremos",
+    "2p": "convergiereis",
+    "3p": "convergieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "converge",
+    "3s": "converja",
+    "1p": "converjamos",
+    "2p": "convergid",
+    "3p": "converjan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no converjas",
+    "3s": "no converja",
+    "1p": "no converjamos",
+    "2p": "no converjáis",
+    "3p": "no converjan"
+  },
+  "Part-ter": {
+    "": "convergido"
+  },
+  "Part-ser": {
+    "ms": "convergido",
+    "fs": "convergida",
+    "mp": "convergidos",
+    "fp": "convergidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alfombrar"
+  },
+  "Ger": {
+    "": "alfombrando"
+  },
+  "PresI": {
+    "1s": "alfombro",
+    "2s": "alfombras",
+    "3s": "alfombra",
+    "1p": "alfombramos",
+    "2p": "alfombráis",
+    "3p": "alfombran"
+  },
+  "PImpI": {
+    "1s": "alfombraba",
+    "2s": "alfombrabas",
+    "3s": "alfombraba",
+    "1p": "alfombrábamos",
+    "2p": "alfombrabais",
+    "3p": "alfombraban"
+  },
+  "PPSI": {
+    "1s": "alfombré",
+    "2s": "alfombraste",
+    "3s": "alfombró",
+    "1p": "alfombramos",
+    "2p": "alfombrasteis",
+    "3p": "alfombraron"
+  },
+  "FutSI": {
+    "1s": "alfombraré",
+    "2s": "alfombrarás",
+    "3s": "alfombrará",
+    "1p": "alfombraremos",
+    "2p": "alfombraréis",
+    "3p": "alfombrarán"
+  },
+  "CondS": {
+    "1s": "alfombraría",
+    "2s": "alfombrarías",
+    "3s": "alfombraría",
+    "1p": "alfombraríamos",
+    "2p": "alfombraríais",
+    "3p": "alfombrarían"
+  },
+  "PresC": {
+    "1s": "alfombre",
+    "2s": "alfombres",
+    "3s": "alfombre",
+    "1p": "alfombremos",
+    "2p": "alfombréis",
+    "3p": "alfombren"
+  },
+  "PMQPSI": {
+    "1s": "alfombrara",
+    "2s": "alfombraras",
+    "3s": "alfombrara",
+    "1p": "alfombráramos",
+    "2p": "alfombrarais",
+    "3p": "alfombraran"
+  },
+  "PImpC": {
+    "1s": "alfombrase",
+    "2s": "alfombrases",
+    "3s": "alfombrase",
+    "1p": "alfombrásemos",
+    "2p": "alfombraseis",
+    "3p": "alfombrasen"
+  },
+  "FutSC": {
+    "1s": "alfombrare",
+    "2s": "alfombrares",
+    "3s": "alfombrare",
+    "1p": "alfombráremos",
+    "2p": "alfombrareis",
+    "3p": "alfombraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alfombra",
+    "3s": "alfombre",
+    "1p": "alfombremos",
+    "2p": "alfombrad",
+    "3p": "alfombren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alfombres",
+    "3s": "no alfombre",
+    "1p": "no alfombremos",
+    "2p": "no alfombréis",
+    "3p": "no alfombren"
+  },
+  "Part-ter": {
+    "": "alfombrado"
+  },
+  "Part-ser": {
+    "ms": "alfombrado",
+    "fs": "alfombrada",
+    "mp": "alfombrados",
+    "fp": "alfombradas"
+  }
+}

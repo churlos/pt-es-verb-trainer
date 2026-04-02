@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "investir"
+  },
+  "InfP": {
+    "1s": "investir",
+    "2s": "investires",
+    "3s": "investir",
+    "1p": "investirmos",
+    "2p": "investirdes",
+    "3p": "investirem"
+  },
+  "Ger": {
+    "": "investindo"
+  },
+  "PresI": {
+    "1s": "invisto",
+    "2s": "investes",
+    "3s": "investe",
+    "1p": "investimos",
+    "2p": "investis",
+    "3p": "investem"
+  },
+  "PImpI": {
+    "1s": "investia",
+    "2s": "investias",
+    "3s": "investia",
+    "1p": "investíamos",
+    "2p": "investíeis",
+    "3p": "investiam"
+  },
+  "PPSI": {
+    "1s": "investi",
+    "2s": "investiste",
+    "3s": "investiu",
+    "1p": "investimos",
+    "2p": "investistes",
+    "3p": "investiram"
+  },
+  "PMQPSI": {
+    "1s": "investira",
+    "2s": "investiras",
+    "3s": "investira",
+    "1p": "investíramos",
+    "2p": "investíreis",
+    "3p": "investiram"
+  },
+  "FutSI": {
+    "1s": "investirei",
+    "2s": "investirás",
+    "3s": "investirá",
+    "1p": "investiremos",
+    "2p": "investireis",
+    "3p": "investirão"
+  },
+  "CondS": {
+    "1s": "investiria",
+    "2s": "investirias",
+    "3s": "investiria",
+    "1p": "investiríamos",
+    "2p": "investiríeis",
+    "3p": "investiriam"
+  },
+  "PresC": {
+    "1s": "invista",
+    "2s": "invistas",
+    "3s": "invista",
+    "1p": "invistamos",
+    "2p": "invistais",
+    "3p": "invistam"
+  },
+  "PImpC": {
+    "1s": "investisse",
+    "2s": "investisses",
+    "3s": "investisse",
+    "1p": "investíssemos",
+    "2p": "investísseis",
+    "3p": "investissem"
+  },
+  "FutSC": {
+    "1s": "investir",
+    "2s": "investires",
+    "3s": "investir",
+    "1p": "investirmos",
+    "2p": "investirdes",
+    "3p": "investirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "investe",
+    "3s": "invista",
+    "1p": "invistamos",
+    "2p": "investi",
+    "3p": "invistam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não invistas",
+    "3s": "não invista",
+    "1p": "não invistamos",
+    "2p": "não invistais",
+    "3p": "não invistam"
+  },
+  "Part-ter": {
+    "": "investido"
+  },
+  "Part-ser": {
+    "ms": "investido",
+    "fs": "investida",
+    "mp": "investidos",
+    "fp": "investidas"
+  }
+}

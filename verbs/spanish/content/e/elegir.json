@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "elegir"
+  },
+  "Ger": {
+    "": "eligiendo"
+  },
+  "PresI": {
+    "1s": "elijo",
+    "2s": "eliges",
+    "3s": "elige",
+    "1p": "elegimos",
+    "2p": "elegís",
+    "3p": "eligen"
+  },
+  "PImpI": {
+    "1s": "elegía",
+    "2s": "elegías",
+    "3s": "elegía",
+    "1p": "elegíamos",
+    "2p": "elegíais",
+    "3p": "elegían"
+  },
+  "PPSI": {
+    "1s": "elegí",
+    "2s": "elegiste",
+    "3s": "eligió",
+    "1p": "elegimos",
+    "2p": "elegisteis",
+    "3p": "eligieron"
+  },
+  "FutSI": {
+    "1s": "elegiré",
+    "2s": "elegirás",
+    "3s": "elegirá",
+    "1p": "elegiremos",
+    "2p": "elegiréis",
+    "3p": "elegirán"
+  },
+  "CondS": {
+    "1s": "elegiría",
+    "2s": "elegirías",
+    "3s": "elegiría",
+    "1p": "elegiríamos",
+    "2p": "elegiríais",
+    "3p": "elegirían"
+  },
+  "PresC": {
+    "1s": "elija",
+    "2s": "elijas",
+    "3s": "elija",
+    "1p": "elijamos",
+    "2p": "elijáis",
+    "3p": "elijan"
+  },
+  "PMQPSI": {
+    "1s": "eligiera",
+    "2s": "eligieras",
+    "3s": "eligiera",
+    "1p": "eligiéramos",
+    "2p": "eligierais",
+    "3p": "eligieran"
+  },
+  "PImpC": {
+    "1s": "eligiese",
+    "2s": "eligieses",
+    "3s": "eligiese",
+    "1p": "eligiésemos",
+    "2p": "eligieseis",
+    "3p": "eligiesen"
+  },
+  "FutSC": {
+    "1s": "eligiere",
+    "2s": "eligieres",
+    "3s": "eligiere",
+    "1p": "eligiéremos",
+    "2p": "eligiereis",
+    "3p": "eligieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elige",
+    "3s": "elija",
+    "1p": "elijamos",
+    "2p": "elegid",
+    "3p": "elijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no elijas",
+    "3s": "no elija",
+    "1p": "no elijamos",
+    "2p": "no elijáis",
+    "3p": "no elijan"
+  },
+  "Part-ter": {
+    "": "elegido, electo"
+  },
+  "Part-ser": {
+    "ms": "elegido, electo",
+    "fs": "elegida, electa",
+    "mp": "elegidos, electos",
+    "fp": "elegidas, electas"
+  }
+}

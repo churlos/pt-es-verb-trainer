@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "restaurar"
+  },
+  "Ger": {
+    "": "restaurando"
+  },
+  "PresI": {
+    "1s": "restauro",
+    "2s": "restauras",
+    "3s": "restaura",
+    "1p": "restauramos",
+    "2p": "restauráis",
+    "3p": "restauran"
+  },
+  "PImpI": {
+    "1s": "restauraba",
+    "2s": "restaurabas",
+    "3s": "restauraba",
+    "1p": "restaurábamos",
+    "2p": "restaurabais",
+    "3p": "restauraban"
+  },
+  "PPSI": {
+    "1s": "restauré",
+    "2s": "restauraste",
+    "3s": "restauró",
+    "1p": "restauramos",
+    "2p": "restaurasteis",
+    "3p": "restauraron"
+  },
+  "FutSI": {
+    "1s": "restauraré",
+    "2s": "restaurarás",
+    "3s": "restaurará",
+    "1p": "restauraremos",
+    "2p": "restauraréis",
+    "3p": "restaurarán"
+  },
+  "CondS": {
+    "1s": "restauraría",
+    "2s": "restaurarías",
+    "3s": "restauraría",
+    "1p": "restauraríamos",
+    "2p": "restauraríais",
+    "3p": "restaurarían"
+  },
+  "PresC": {
+    "1s": "restaure",
+    "2s": "restaures",
+    "3s": "restaure",
+    "1p": "restauremos",
+    "2p": "restauréis",
+    "3p": "restauren"
+  },
+  "PMQPSI": {
+    "1s": "restaurara",
+    "2s": "restauraras",
+    "3s": "restaurara",
+    "1p": "restauráramos",
+    "2p": "restaurarais",
+    "3p": "restauraran"
+  },
+  "PImpC": {
+    "1s": "restaurase",
+    "2s": "restaurases",
+    "3s": "restaurase",
+    "1p": "restaurásemos",
+    "2p": "restauraseis",
+    "3p": "restaurasen"
+  },
+  "FutSC": {
+    "1s": "restaurare",
+    "2s": "restaurares",
+    "3s": "restaurare",
+    "1p": "restauráremos",
+    "2p": "restaurareis",
+    "3p": "restauraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "restaura",
+    "3s": "restaure",
+    "1p": "restauremos",
+    "2p": "restaurad",
+    "3p": "restauren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no restaures",
+    "3s": "no restaure",
+    "1p": "no restauremos",
+    "2p": "no restauréis",
+    "3p": "no restauren"
+  },
+  "Part-ter": {
+    "": "restaurado"
+  },
+  "Part-ser": {
+    "ms": "restaurado",
+    "fs": "restaurada",
+    "mp": "restaurados",
+    "fp": "restauradas"
+  }
+}

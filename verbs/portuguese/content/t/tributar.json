@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tributar"
+  },
+  "InfP": {
+    "1s": "tributar",
+    "2s": "tributares",
+    "3s": "tributar",
+    "1p": "tributarmos",
+    "2p": "tributardes",
+    "3p": "tributarem"
+  },
+  "Ger": {
+    "": "tributando"
+  },
+  "PresI": {
+    "1s": "tributo",
+    "2s": "tributas",
+    "3s": "tributa",
+    "1p": "tributamos",
+    "2p": "tributais",
+    "3p": "tributam"
+  },
+  "PImpI": {
+    "1s": "tributava",
+    "2s": "tributavas",
+    "3s": "tributava",
+    "1p": "tributávamos",
+    "2p": "tributáveis",
+    "3p": "tributavam"
+  },
+  "PPSI": {
+    "1s": "tributei",
+    "2s": "tributaste",
+    "3s": "tributou",
+    "1p": "tributámos",
+    "2p": "tributastes",
+    "3p": "tributaram"
+  },
+  "PMQPSI": {
+    "1s": "tributara",
+    "2s": "tributaras",
+    "3s": "tributara",
+    "1p": "tributáramos",
+    "2p": "tributáreis",
+    "3p": "tributaram"
+  },
+  "FutSI": {
+    "1s": "tributarei",
+    "2s": "tributarás",
+    "3s": "tributará",
+    "1p": "tributaremos",
+    "2p": "tributareis",
+    "3p": "tributarão"
+  },
+  "CondS": {
+    "1s": "tributaria",
+    "2s": "tributarias",
+    "3s": "tributaria",
+    "1p": "tributaríamos",
+    "2p": "tributaríeis",
+    "3p": "tributariam"
+  },
+  "PresC": {
+    "1s": "tribute",
+    "2s": "tributes",
+    "3s": "tribute",
+    "1p": "tributemos",
+    "2p": "tributeis",
+    "3p": "tributem"
+  },
+  "PImpC": {
+    "1s": "tributasse",
+    "2s": "tributasses",
+    "3s": "tributasse",
+    "1p": "tributássemos",
+    "2p": "tributásseis",
+    "3p": "tributassem"
+  },
+  "FutSC": {
+    "1s": "tributar",
+    "2s": "tributares",
+    "3s": "tributar",
+    "1p": "tributarmos",
+    "2p": "tributardes",
+    "3p": "tributarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tributa",
+    "3s": "tribute",
+    "1p": "tributemos",
+    "2p": "tributai",
+    "3p": "tributem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tributes",
+    "3s": "não tribute",
+    "1p": "não tributemos",
+    "2p": "não tributeis",
+    "3p": "não tributem"
+  },
+  "Part-ter": {
+    "": "tributado"
+  },
+  "Part-ser": {
+    "ms": "tributado",
+    "fs": "tributada",
+    "mp": "tributados",
+    "fp": "tributadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "requisar"
+  },
+  "Ger": {
+    "": "requisando"
+  },
+  "PresI": {
+    "1s": "requiso",
+    "2s": "requisas",
+    "3s": "requisa",
+    "1p": "requisamos",
+    "2p": "requisáis",
+    "3p": "requisan"
+  },
+  "PImpI": {
+    "1s": "requisaba",
+    "2s": "requisabas",
+    "3s": "requisaba",
+    "1p": "requisábamos",
+    "2p": "requisabais",
+    "3p": "requisaban"
+  },
+  "PPSI": {
+    "1s": "requisé",
+    "2s": "requisaste",
+    "3s": "requisó",
+    "1p": "requisamos",
+    "2p": "requisasteis",
+    "3p": "requisaron"
+  },
+  "FutSI": {
+    "1s": "requisaré",
+    "2s": "requisarás",
+    "3s": "requisará",
+    "1p": "requisaremos",
+    "2p": "requisaréis",
+    "3p": "requisarán"
+  },
+  "CondS": {
+    "1s": "requisaría",
+    "2s": "requisarías",
+    "3s": "requisaría",
+    "1p": "requisaríamos",
+    "2p": "requisaríais",
+    "3p": "requisarían"
+  },
+  "PresC": {
+    "1s": "requise",
+    "2s": "requises",
+    "3s": "requise",
+    "1p": "requisemos",
+    "2p": "requiséis",
+    "3p": "requisen"
+  },
+  "PMQPSI": {
+    "1s": "requisara",
+    "2s": "requisaras",
+    "3s": "requisara",
+    "1p": "requisáramos",
+    "2p": "requisarais",
+    "3p": "requisaran"
+  },
+  "PImpC": {
+    "1s": "requisase",
+    "2s": "requisases",
+    "3s": "requisase",
+    "1p": "requisásemos",
+    "2p": "requisaseis",
+    "3p": "requisasen"
+  },
+  "FutSC": {
+    "1s": "requisare",
+    "2s": "requisares",
+    "3s": "requisare",
+    "1p": "requisáremos",
+    "2p": "requisareis",
+    "3p": "requisaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "requisa",
+    "3s": "requise",
+    "1p": "requisemos",
+    "2p": "requisad",
+    "3p": "requisen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no requises",
+    "3s": "no requise",
+    "1p": "no requisemos",
+    "2p": "no requiséis",
+    "3p": "no requisen"
+  },
+  "Part-ter": {
+    "": "requisado"
+  },
+  "Part-ser": {
+    "ms": "requisado",
+    "fs": "requisada",
+    "mp": "requisados",
+    "fp": "requisadas"
+  }
+}

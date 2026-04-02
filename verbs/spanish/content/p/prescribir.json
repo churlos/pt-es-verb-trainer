@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "prescribir"
+  },
+  "Ger": {
+    "": "prescribiendo"
+  },
+  "PresI": {
+    "1s": "prescribo",
+    "2s": "prescribes",
+    "3s": "prescribe",
+    "1p": "prescribimos",
+    "2p": "prescribís",
+    "3p": "prescriben"
+  },
+  "PImpI": {
+    "1s": "prescribía",
+    "2s": "prescribías",
+    "3s": "prescribía",
+    "1p": "prescribíamos",
+    "2p": "prescribíais",
+    "3p": "prescribían"
+  },
+  "PPSI": {
+    "1s": "prescribí",
+    "2s": "prescribiste",
+    "3s": "prescribió",
+    "1p": "prescribimos",
+    "2p": "prescribisteis",
+    "3p": "prescribieron"
+  },
+  "FutSI": {
+    "1s": "prescribiré",
+    "2s": "prescribirás",
+    "3s": "prescribirá",
+    "1p": "prescribiremos",
+    "2p": "prescribiréis",
+    "3p": "prescribirán"
+  },
+  "CondS": {
+    "1s": "prescribiría",
+    "2s": "prescribirías",
+    "3s": "prescribiría",
+    "1p": "prescribiríamos",
+    "2p": "prescribiríais",
+    "3p": "prescribirían"
+  },
+  "PresC": {
+    "1s": "prescriba",
+    "2s": "prescribas",
+    "3s": "prescriba",
+    "1p": "prescribamos",
+    "2p": "prescribáis",
+    "3p": "prescriban"
+  },
+  "PMQPSI": {
+    "1s": "prescribiera",
+    "2s": "prescribieras",
+    "3s": "prescribiera",
+    "1p": "prescribiéramos",
+    "2p": "prescribierais",
+    "3p": "prescribieran"
+  },
+  "PImpC": {
+    "1s": "prescribiese",
+    "2s": "prescribieses",
+    "3s": "prescribiese",
+    "1p": "prescribiésemos",
+    "2p": "prescribieseis",
+    "3p": "prescribiesen"
+  },
+  "FutSC": {
+    "1s": "prescribiere",
+    "2s": "prescribieres",
+    "3s": "prescribiere",
+    "1p": "prescribiéremos",
+    "2p": "prescribiereis",
+    "3p": "prescribieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prescribe",
+    "3s": "prescriba",
+    "1p": "prescribamos",
+    "2p": "prescribid",
+    "3p": "prescriban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prescribas",
+    "3s": "no prescriba",
+    "1p": "no prescribamos",
+    "2p": "no prescribáis",
+    "3p": "no prescriban"
+  },
+  "Part-ter": {
+    "": "prescrito, prescripto"
+  },
+  "Part-ser": {
+    "ms": "prescrito, prescripto",
+    "fs": "prescrita, prescripta",
+    "mp": "prescritos, prescriptos",
+    "fp": "prescritas, prescriptas"
+  }
+}

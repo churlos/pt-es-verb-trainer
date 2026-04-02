@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rugir"
+  },
+  "InfP": {
+    "1s": "rugir",
+    "2s": "rugires",
+    "3s": "rugir",
+    "1p": "rugirmos",
+    "2p": "rugirdes",
+    "3p": "rugirem"
+  },
+  "Ger": {
+    "": "rugindo"
+  },
+  "PresI": {
+    "1s": "rujo",
+    "2s": "ruges",
+    "3s": "ruge",
+    "1p": "rugimos",
+    "2p": "rugis",
+    "3p": "rugem"
+  },
+  "PImpI": {
+    "1s": "rugia",
+    "2s": "rugias",
+    "3s": "rugia",
+    "1p": "rugíamos",
+    "2p": "rugíeis",
+    "3p": "rugiam"
+  },
+  "PPSI": {
+    "1s": "rugi",
+    "2s": "rugiste",
+    "3s": "rugiu",
+    "1p": "rugimos",
+    "2p": "rugistes",
+    "3p": "rugiram"
+  },
+  "PMQPSI": {
+    "1s": "rugira",
+    "2s": "rugiras",
+    "3s": "rugira",
+    "1p": "rugíramos",
+    "2p": "rugíreis",
+    "3p": "rugiram"
+  },
+  "FutSI": {
+    "1s": "rugirei",
+    "2s": "rugirás",
+    "3s": "rugirá",
+    "1p": "rugiremos",
+    "2p": "rugireis",
+    "3p": "rugirão"
+  },
+  "CondS": {
+    "1s": "rugiria",
+    "2s": "rugirias",
+    "3s": "rugiria",
+    "1p": "rugiríamos",
+    "2p": "rugiríeis",
+    "3p": "rugiriam"
+  },
+  "PresC": {
+    "1s": "ruja",
+    "2s": "rujas",
+    "3s": "ruja",
+    "1p": "rujamos",
+    "2p": "rujais",
+    "3p": "rujam"
+  },
+  "PImpC": {
+    "1s": "rugisse",
+    "2s": "rugisses",
+    "3s": "rugisse",
+    "1p": "rugíssemos",
+    "2p": "rugísseis",
+    "3p": "rugissem"
+  },
+  "FutSC": {
+    "1s": "rugir",
+    "2s": "rugires",
+    "3s": "rugir",
+    "1p": "rugirmos",
+    "2p": "rugirdes",
+    "3p": "rugirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ruge",
+    "3s": "ruja",
+    "1p": "rujamos",
+    "2p": "rugi",
+    "3p": "rujam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rujas",
+    "3s": "não ruja",
+    "1p": "não rujamos",
+    "2p": "não rujais",
+    "3p": "não rujam"
+  },
+  "Part-ter": {
+    "": "rugido"
+  },
+  "Part-ser": {
+    "ms": "rugido",
+    "fs": "rugida",
+    "mp": "rugidos",
+    "fp": "rugidas"
+  }
+}

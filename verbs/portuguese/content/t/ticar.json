@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ticar"
+  },
+  "InfP": {
+    "1s": "ticar",
+    "2s": "ticares",
+    "3s": "ticar",
+    "1p": "ticarmos",
+    "2p": "ticardes",
+    "3p": "ticarem"
+  },
+  "Ger": {
+    "": "ticando"
+  },
+  "PresI": {
+    "1s": "tico",
+    "2s": "ticas",
+    "3s": "tica",
+    "1p": "ticamos",
+    "2p": "ticais",
+    "3p": "ticam"
+  },
+  "PImpI": {
+    "1s": "ticava",
+    "2s": "ticavas",
+    "3s": "ticava",
+    "1p": "ticávamos",
+    "2p": "ticáveis",
+    "3p": "ticavam"
+  },
+  "PPSI": {
+    "1s": "tiquei",
+    "2s": "ticaste",
+    "3s": "ticou",
+    "1p": "ticámos",
+    "2p": "ticastes",
+    "3p": "ticaram"
+  },
+  "PMQPSI": {
+    "1s": "ticara",
+    "2s": "ticaras",
+    "3s": "ticara",
+    "1p": "ticáramos",
+    "2p": "ticáreis",
+    "3p": "ticaram"
+  },
+  "FutSI": {
+    "1s": "ticarei",
+    "2s": "ticarás",
+    "3s": "ticará",
+    "1p": "ticaremos",
+    "2p": "ticareis",
+    "3p": "ticarão"
+  },
+  "CondS": {
+    "1s": "ticaria",
+    "2s": "ticarias",
+    "3s": "ticaria",
+    "1p": "ticaríamos",
+    "2p": "ticaríeis",
+    "3p": "ticariam"
+  },
+  "PresC": {
+    "1s": "tique",
+    "2s": "tiques",
+    "3s": "tique",
+    "1p": "tiquemos",
+    "2p": "tiqueis",
+    "3p": "tiquem"
+  },
+  "PImpC": {
+    "1s": "ticasse",
+    "2s": "ticasses",
+    "3s": "ticasse",
+    "1p": "ticássemos",
+    "2p": "ticásseis",
+    "3p": "ticassem"
+  },
+  "FutSC": {
+    "1s": "ticar",
+    "2s": "ticares",
+    "3s": "ticar",
+    "1p": "ticarmos",
+    "2p": "ticardes",
+    "3p": "ticarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tica",
+    "3s": "tique",
+    "1p": "tiquemos",
+    "2p": "ticai",
+    "3p": "tiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tiques",
+    "3s": "não tique",
+    "1p": "não tiquemos",
+    "2p": "não tiqueis",
+    "3p": "não tiquem"
+  },
+  "Part-ter": {
+    "": "ticado"
+  },
+  "Part-ser": {
+    "ms": "ticado",
+    "fs": "ticada",
+    "mp": "ticados",
+    "fp": "ticadas"
+  }
+}

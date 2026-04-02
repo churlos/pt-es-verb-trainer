@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conhecer"
+  },
+  "InfP": {
+    "1s": "conhecer",
+    "2s": "conheceres",
+    "3s": "conhecer",
+    "1p": "conhecermos",
+    "2p": "conhecerdes",
+    "3p": "conhecerem"
+  },
+  "Ger": {
+    "": "conhecendo"
+  },
+  "PresI": {
+    "1s": "conheço",
+    "2s": "conheces",
+    "3s": "conhece",
+    "1p": "conhecemos",
+    "2p": "conheceis",
+    "3p": "conhecem"
+  },
+  "PImpI": {
+    "1s": "conhecia",
+    "2s": "conhecias",
+    "3s": "conhecia",
+    "1p": "conhecíamos",
+    "2p": "conhecíeis",
+    "3p": "conheciam"
+  },
+  "PPSI": {
+    "1s": "conheci",
+    "2s": "conheceste",
+    "3s": "conheceu",
+    "1p": "conhecemos",
+    "2p": "conhecestes",
+    "3p": "conheceram"
+  },
+  "PMQPSI": {
+    "1s": "conhecera",
+    "2s": "conheceras",
+    "3s": "conhecera",
+    "1p": "conhecêramos",
+    "2p": "conhecêreis",
+    "3p": "conheceram"
+  },
+  "FutSI": {
+    "1s": "conhecerei",
+    "2s": "conhecerás",
+    "3s": "conhecerá",
+    "1p": "conheceremos",
+    "2p": "conhecereis",
+    "3p": "conhecerão"
+  },
+  "CondS": {
+    "1s": "conheceria",
+    "2s": "conhecerias",
+    "3s": "conheceria",
+    "1p": "conheceríamos",
+    "2p": "conheceríeis",
+    "3p": "conheceriam"
+  },
+  "PresC": {
+    "1s": "conheça",
+    "2s": "conheças",
+    "3s": "conheça",
+    "1p": "conheçamos",
+    "2p": "conheçais",
+    "3p": "conheçam"
+  },
+  "PImpC": {
+    "1s": "conhecesse",
+    "2s": "conhecesses",
+    "3s": "conhecesse",
+    "1p": "conhecêssemos",
+    "2p": "conhecêsseis",
+    "3p": "conhecessem"
+  },
+  "FutSC": {
+    "1s": "conhecer",
+    "2s": "conheceres",
+    "3s": "conhecer",
+    "1p": "conhecermos",
+    "2p": "conhecerdes",
+    "3p": "conhecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conhece",
+    "3s": "conheça",
+    "1p": "conheçamos",
+    "2p": "conhecei",
+    "3p": "conheçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não conheças",
+    "3s": "não conheça",
+    "1p": "não conheçamos",
+    "2p": "não conheçais",
+    "3p": "não conheçam"
+  },
+  "Part-ter": {
+    "": "conhecido"
+  },
+  "Part-ser": {
+    "ms": "conhecido",
+    "fs": "conhecida",
+    "mp": "conhecidos",
+    "fp": "conhecidas"
+  }
+}

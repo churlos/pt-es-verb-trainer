@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cotejar"
+  },
+  "Ger": {
+    "": "cotejando"
+  },
+  "PresI": {
+    "1s": "cotejo",
+    "2s": "cotejas",
+    "3s": "coteja",
+    "1p": "cotejamos",
+    "2p": "cotejáis",
+    "3p": "cotejan"
+  },
+  "PImpI": {
+    "1s": "cotejaba",
+    "2s": "cotejabas",
+    "3s": "cotejaba",
+    "1p": "cotejábamos",
+    "2p": "cotejabais",
+    "3p": "cotejaban"
+  },
+  "PPSI": {
+    "1s": "cotejé",
+    "2s": "cotejaste",
+    "3s": "cotejó",
+    "1p": "cotejamos",
+    "2p": "cotejasteis",
+    "3p": "cotejaron"
+  },
+  "FutSI": {
+    "1s": "cotejaré",
+    "2s": "cotejarás",
+    "3s": "cotejará",
+    "1p": "cotejaremos",
+    "2p": "cotejaréis",
+    "3p": "cotejarán"
+  },
+  "CondS": {
+    "1s": "cotejaría",
+    "2s": "cotejarías",
+    "3s": "cotejaría",
+    "1p": "cotejaríamos",
+    "2p": "cotejaríais",
+    "3p": "cotejarían"
+  },
+  "PresC": {
+    "1s": "coteje",
+    "2s": "cotejes",
+    "3s": "coteje",
+    "1p": "cotejemos",
+    "2p": "cotejéis",
+    "3p": "cotejen"
+  },
+  "PMQPSI": {
+    "1s": "cotejara",
+    "2s": "cotejaras",
+    "3s": "cotejara",
+    "1p": "cotejáramos",
+    "2p": "cotejarais",
+    "3p": "cotejaran"
+  },
+  "PImpC": {
+    "1s": "cotejase",
+    "2s": "cotejases",
+    "3s": "cotejase",
+    "1p": "cotejásemos",
+    "2p": "cotejaseis",
+    "3p": "cotejasen"
+  },
+  "FutSC": {
+    "1s": "cotejare",
+    "2s": "cotejares",
+    "3s": "cotejare",
+    "1p": "cotejáremos",
+    "2p": "cotejareis",
+    "3p": "cotejaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coteja",
+    "3s": "coteje",
+    "1p": "cotejemos",
+    "2p": "cotejad",
+    "3p": "cotejen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cotejes",
+    "3s": "no coteje",
+    "1p": "no cotejemos",
+    "2p": "no cotejéis",
+    "3p": "no cotejen"
+  },
+  "Part-ter": {
+    "": "cotejado"
+  },
+  "Part-ser": {
+    "ms": "cotejado",
+    "fs": "cotejada",
+    "mp": "cotejados",
+    "fp": "cotejadas"
+  }
+}

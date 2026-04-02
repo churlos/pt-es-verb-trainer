@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prezar"
+  },
+  "InfP": {
+    "1s": "prezar",
+    "2s": "prezares",
+    "3s": "prezar",
+    "1p": "prezarmos",
+    "2p": "prezardes",
+    "3p": "prezarem"
+  },
+  "Ger": {
+    "": "prezando"
+  },
+  "PresI": {
+    "1s": "prezo",
+    "2s": "prezas",
+    "3s": "preza",
+    "1p": "prezamos",
+    "2p": "prezais",
+    "3p": "prezam"
+  },
+  "PImpI": {
+    "1s": "prezava",
+    "2s": "prezavas",
+    "3s": "prezava",
+    "1p": "prezávamos",
+    "2p": "prezáveis",
+    "3p": "prezavam"
+  },
+  "PPSI": {
+    "1s": "prezei",
+    "2s": "prezaste",
+    "3s": "prezou",
+    "1p": "prezámos",
+    "2p": "prezastes",
+    "3p": "prezaram"
+  },
+  "PMQPSI": {
+    "1s": "prezara",
+    "2s": "prezaras",
+    "3s": "prezara",
+    "1p": "prezáramos",
+    "2p": "prezáreis",
+    "3p": "prezaram"
+  },
+  "FutSI": {
+    "1s": "prezarei",
+    "2s": "prezarás",
+    "3s": "prezará",
+    "1p": "prezaremos",
+    "2p": "prezareis",
+    "3p": "prezarão"
+  },
+  "CondS": {
+    "1s": "prezaria",
+    "2s": "prezarias",
+    "3s": "prezaria",
+    "1p": "prezaríamos",
+    "2p": "prezaríeis",
+    "3p": "prezariam"
+  },
+  "PresC": {
+    "1s": "preze",
+    "2s": "prezes",
+    "3s": "preze",
+    "1p": "prezemos",
+    "2p": "prezeis",
+    "3p": "prezem"
+  },
+  "PImpC": {
+    "1s": "prezasse",
+    "2s": "prezasses",
+    "3s": "prezasse",
+    "1p": "prezássemos",
+    "2p": "prezásseis",
+    "3p": "prezassem"
+  },
+  "FutSC": {
+    "1s": "prezar",
+    "2s": "prezares",
+    "3s": "prezar",
+    "1p": "prezarmos",
+    "2p": "prezardes",
+    "3p": "prezarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "preza",
+    "3s": "preze",
+    "1p": "prezemos",
+    "2p": "prezai",
+    "3p": "prezem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prezes",
+    "3s": "não preze",
+    "1p": "não prezemos",
+    "2p": "não prezeis",
+    "3p": "não prezem"
+  },
+  "Part-ter": {
+    "": "prezado"
+  },
+  "Part-ser": {
+    "ms": "prezado",
+    "fs": "prezada",
+    "mp": "prezados",
+    "fp": "prezadas"
+  }
+}

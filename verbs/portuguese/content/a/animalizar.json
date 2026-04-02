@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "animalizar"
+  },
+  "InfP": {
+    "1s": "animalizar",
+    "2s": "animalizares",
+    "3s": "animalizar",
+    "1p": "animalizarmos",
+    "2p": "animalizardes",
+    "3p": "animalizarem"
+  },
+  "Ger": {
+    "": "animalizando"
+  },
+  "PresI": {
+    "1s": "animalizo",
+    "2s": "animalizas",
+    "3s": "animaliza",
+    "1p": "animalizamos",
+    "2p": "animalizais",
+    "3p": "animalizam"
+  },
+  "PImpI": {
+    "1s": "animalizava",
+    "2s": "animalizavas",
+    "3s": "animalizava",
+    "1p": "animalizávamos",
+    "2p": "animalizáveis",
+    "3p": "animalizavam"
+  },
+  "PPSI": {
+    "1s": "animalizei",
+    "2s": "animalizaste",
+    "3s": "animalizou",
+    "1p": "animalizámos",
+    "2p": "animalizastes",
+    "3p": "animalizaram"
+  },
+  "PMQPSI": {
+    "1s": "animalizara",
+    "2s": "animalizaras",
+    "3s": "animalizara",
+    "1p": "animalizáramos",
+    "2p": "animalizáreis",
+    "3p": "animalizaram"
+  },
+  "FutSI": {
+    "1s": "animalizarei",
+    "2s": "animalizarás",
+    "3s": "animalizará",
+    "1p": "animalizaremos",
+    "2p": "animalizareis",
+    "3p": "animalizarão"
+  },
+  "CondS": {
+    "1s": "animalizaria",
+    "2s": "animalizarias",
+    "3s": "animalizaria",
+    "1p": "animalizaríamos",
+    "2p": "animalizaríeis",
+    "3p": "animalizariam"
+  },
+  "PresC": {
+    "1s": "animalize",
+    "2s": "animalizes",
+    "3s": "animalize",
+    "1p": "animalizemos",
+    "2p": "animalizeis",
+    "3p": "animalizem"
+  },
+  "PImpC": {
+    "1s": "animalizasse",
+    "2s": "animalizasses",
+    "3s": "animalizasse",
+    "1p": "animalizássemos",
+    "2p": "animalizásseis",
+    "3p": "animalizassem"
+  },
+  "FutSC": {
+    "1s": "animalizar",
+    "2s": "animalizares",
+    "3s": "animalizar",
+    "1p": "animalizarmos",
+    "2p": "animalizardes",
+    "3p": "animalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "animaliza",
+    "3s": "animalize",
+    "1p": "animalizemos",
+    "2p": "animalizai",
+    "3p": "animalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não animalizes",
+    "3s": "não animalize",
+    "1p": "não animalizemos",
+    "2p": "não animalizeis",
+    "3p": "não animalizem"
+  },
+  "Part-ter": {
+    "": "animalizado"
+  },
+  "Part-ser": {
+    "ms": "animalizado",
+    "fs": "animalizada",
+    "mp": "animalizados",
+    "fp": "animalizadas"
+  }
+}

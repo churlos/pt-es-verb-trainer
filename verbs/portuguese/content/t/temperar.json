@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "temperar"
+  },
+  "InfP": {
+    "1s": "temperar",
+    "2s": "temperares",
+    "3s": "temperar",
+    "1p": "temperarmos",
+    "2p": "temperardes",
+    "3p": "temperarem"
+  },
+  "Ger": {
+    "": "temperando"
+  },
+  "PresI": {
+    "1s": "tempero",
+    "2s": "temperas",
+    "3s": "tempera",
+    "1p": "temperamos",
+    "2p": "temperais",
+    "3p": "temperam"
+  },
+  "PImpI": {
+    "1s": "temperava",
+    "2s": "temperavas",
+    "3s": "temperava",
+    "1p": "temperávamos",
+    "2p": "temperáveis",
+    "3p": "temperavam"
+  },
+  "PPSI": {
+    "1s": "temperei",
+    "2s": "temperaste",
+    "3s": "temperou",
+    "1p": "temperámos",
+    "2p": "temperastes",
+    "3p": "temperaram"
+  },
+  "PMQPSI": {
+    "1s": "temperara",
+    "2s": "temperaras",
+    "3s": "temperara",
+    "1p": "temperáramos",
+    "2p": "temperáreis",
+    "3p": "temperaram"
+  },
+  "FutSI": {
+    "1s": "temperarei",
+    "2s": "temperarás",
+    "3s": "temperará",
+    "1p": "temperaremos",
+    "2p": "temperareis",
+    "3p": "temperarão"
+  },
+  "CondS": {
+    "1s": "temperaria",
+    "2s": "temperarias",
+    "3s": "temperaria",
+    "1p": "temperaríamos",
+    "2p": "temperaríeis",
+    "3p": "temperariam"
+  },
+  "PresC": {
+    "1s": "tempere",
+    "2s": "temperes",
+    "3s": "tempere",
+    "1p": "temperemos",
+    "2p": "tempereis",
+    "3p": "temperem"
+  },
+  "PImpC": {
+    "1s": "temperasse",
+    "2s": "temperasses",
+    "3s": "temperasse",
+    "1p": "temperássemos",
+    "2p": "temperásseis",
+    "3p": "temperassem"
+  },
+  "FutSC": {
+    "1s": "temperar",
+    "2s": "temperares",
+    "3s": "temperar",
+    "1p": "temperarmos",
+    "2p": "temperardes",
+    "3p": "temperarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tempera",
+    "3s": "tempere",
+    "1p": "temperemos",
+    "2p": "temperai",
+    "3p": "temperem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não temperes",
+    "3s": "não tempere",
+    "1p": "não temperemos",
+    "2p": "não tempereis",
+    "3p": "não temperem"
+  },
+  "Part-ter": {
+    "": "temperado"
+  },
+  "Part-ser": {
+    "ms": "temperado",
+    "fs": "temperada",
+    "mp": "temperados",
+    "fp": "temperadas"
+  }
+}

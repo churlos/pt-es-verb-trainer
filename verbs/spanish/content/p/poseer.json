@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "poseer"
+  },
+  "Ger": {
+    "": "poseyendo"
+  },
+  "PresI": {
+    "1s": "poseo",
+    "2s": "posees",
+    "3s": "posee",
+    "1p": "poseemos",
+    "2p": "poseéis",
+    "3p": "poseen"
+  },
+  "PImpI": {
+    "1s": "poseía",
+    "2s": "poseías",
+    "3s": "poseía",
+    "1p": "poseíamos",
+    "2p": "poseíais",
+    "3p": "poseían"
+  },
+  "PPSI": {
+    "1s": "poseí",
+    "2s": "poseíste",
+    "3s": "poseyó",
+    "1p": "poseímos",
+    "2p": "poseísteis",
+    "3p": "poseyeron"
+  },
+  "FutSI": {
+    "1s": "poseeré",
+    "2s": "poseerás",
+    "3s": "poseerá",
+    "1p": "poseeremos",
+    "2p": "poseeréis",
+    "3p": "poseerán"
+  },
+  "CondS": {
+    "1s": "poseería",
+    "2s": "poseerías",
+    "3s": "poseería",
+    "1p": "poseeríamos",
+    "2p": "poseeríais",
+    "3p": "poseerían"
+  },
+  "PresC": {
+    "1s": "posea",
+    "2s": "poseas",
+    "3s": "posea",
+    "1p": "poseamos",
+    "2p": "poseáis",
+    "3p": "posean"
+  },
+  "PMQPSI": {
+    "1s": "poseyera",
+    "2s": "poseyeras",
+    "3s": "poseyera",
+    "1p": "poseyéramos",
+    "2p": "poseyerais",
+    "3p": "poseyeran"
+  },
+  "PImpC": {
+    "1s": "poseyese",
+    "2s": "poseyeses",
+    "3s": "poseyese",
+    "1p": "poseyésemos",
+    "2p": "poseyeseis",
+    "3p": "poseyesen"
+  },
+  "FutSC": {
+    "1s": "poseyere",
+    "2s": "poseyeres",
+    "3s": "poseyere",
+    "1p": "poseyéremos",
+    "2p": "poseyereis",
+    "3p": "poseyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "posee",
+    "3s": "posea",
+    "1p": "poseamos",
+    "2p": "poseed",
+    "3p": "posean"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no poseas",
+    "3s": "no posea",
+    "1p": "no poseamos",
+    "2p": "no poseáis",
+    "3p": "no posean"
+  },
+  "Part-ter": {
+    "": "poseído"
+  },
+  "Part-ser": {
+    "ms": "poseído",
+    "fs": "poseída",
+    "mp": "poseídos",
+    "fp": "poseídas"
+  }
+}

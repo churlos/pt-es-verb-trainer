@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alimentar"
+  },
+  "InfP": {
+    "1s": "alimentar",
+    "2s": "alimentares",
+    "3s": "alimentar",
+    "1p": "alimentarmos",
+    "2p": "alimentardes",
+    "3p": "alimentarem"
+  },
+  "Ger": {
+    "": "alimentando"
+  },
+  "PresI": {
+    "1s": "alimento",
+    "2s": "alimentas",
+    "3s": "alimenta",
+    "1p": "alimentamos",
+    "2p": "alimentais",
+    "3p": "alimentam"
+  },
+  "PImpI": {
+    "1s": "alimentava",
+    "2s": "alimentavas",
+    "3s": "alimentava",
+    "1p": "alimentávamos",
+    "2p": "alimentáveis",
+    "3p": "alimentavam"
+  },
+  "PPSI": {
+    "1s": "alimentei",
+    "2s": "alimentaste",
+    "3s": "alimentou",
+    "1p": "alimentámos",
+    "2p": "alimentastes",
+    "3p": "alimentaram"
+  },
+  "PMQPSI": {
+    "1s": "alimentara",
+    "2s": "alimentaras",
+    "3s": "alimentara",
+    "1p": "alimentáramos",
+    "2p": "alimentáreis",
+    "3p": "alimentaram"
+  },
+  "FutSI": {
+    "1s": "alimentarei",
+    "2s": "alimentarás",
+    "3s": "alimentará",
+    "1p": "alimentaremos",
+    "2p": "alimentareis",
+    "3p": "alimentarão"
+  },
+  "CondS": {
+    "1s": "alimentaria",
+    "2s": "alimentarias",
+    "3s": "alimentaria",
+    "1p": "alimentaríamos",
+    "2p": "alimentaríeis",
+    "3p": "alimentariam"
+  },
+  "PresC": {
+    "1s": "alimente",
+    "2s": "alimentes",
+    "3s": "alimente",
+    "1p": "alimentemos",
+    "2p": "alimenteis",
+    "3p": "alimentem"
+  },
+  "PImpC": {
+    "1s": "alimentasse",
+    "2s": "alimentasses",
+    "3s": "alimentasse",
+    "1p": "alimentássemos",
+    "2p": "alimentásseis",
+    "3p": "alimentassem"
+  },
+  "FutSC": {
+    "1s": "alimentar",
+    "2s": "alimentares",
+    "3s": "alimentar",
+    "1p": "alimentarmos",
+    "2p": "alimentardes",
+    "3p": "alimentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alimenta",
+    "3s": "alimente",
+    "1p": "alimentemos",
+    "2p": "alimentai",
+    "3p": "alimentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alimentes",
+    "3s": "não alimente",
+    "1p": "não alimentemos",
+    "2p": "não alimenteis",
+    "3p": "não alimentem"
+  },
+  "Part-ter": {
+    "": "alimentado"
+  },
+  "Part-ser": {
+    "ms": "alimentado",
+    "fs": "alimentada",
+    "mp": "alimentados",
+    "fp": "alimentadas"
+  }
+}

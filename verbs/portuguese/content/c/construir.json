@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "construir"
+  },
+  "InfP": {
+    "1s": "construir",
+    "2s": "construíres",
+    "3s": "construir",
+    "1p": "construirmos",
+    "2p": "construirdes",
+    "3p": "construírem"
+  },
+  "Ger": {
+    "": "construindo"
+  },
+  "PresI": {
+    "1s": "construo",
+    "2s": "constróis",
+    "3s": "constrói",
+    "1p": "construímos",
+    "2p": "construís",
+    "3p": "constroem"
+  },
+  "PImpI": {
+    "1s": "construía",
+    "2s": "construias",
+    "3s": "construía",
+    "1p": "construíamos",
+    "2p": "construíeis",
+    "3p": "construíam"
+  },
+  "PPSI": {
+    "1s": "construí",
+    "2s": "construíste",
+    "3s": "construiu",
+    "1p": "construímos",
+    "2p": "construístes",
+    "3p": "construíram"
+  },
+  "PMQPSI": {
+    "1s": "construíra",
+    "2s": "construíras",
+    "3s": "construíra",
+    "1p": "construíramos",
+    "2p": "construíreis",
+    "3p": "construíram"
+  },
+  "FutSI": {
+    "1s": "construirei",
+    "2s": "construirás",
+    "3s": "construirá",
+    "1p": "construiremos",
+    "2p": "construireis",
+    "3p": "construirão"
+  },
+  "CondS": {
+    "1s": "construiria",
+    "2s": "construirias",
+    "3s": "construiria",
+    "1p": "construiríamos",
+    "2p": "construiríeis",
+    "3p": "construiriam"
+  },
+  "PresC": {
+    "1s": "construa",
+    "2s": "construas",
+    "3s": "construa",
+    "1p": "construamos",
+    "2p": "construais",
+    "3p": "construam"
+  },
+  "PImpC": {
+    "1s": "construísse",
+    "2s": "construísses",
+    "3s": "construísse",
+    "1p": "construíssemos",
+    "2p": "construísseis",
+    "3p": "construíssem"
+  },
+  "FutSC": {
+    "1s": "construir",
+    "2s": "construires",
+    "3s": "construir",
+    "1p": "construirmos",
+    "2p": "construirdes",
+    "3p": "construirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "constrói",
+    "3s": "construa",
+    "1p": "construamos",
+    "2p": "construí",
+    "3p": "construam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não construas",
+    "3s": "não construa",
+    "1p": "não construamos",
+    "2p": "não construais",
+    "3p": "não construam"
+  },
+  "Part-ter": {
+    "": "construído"
+  },
+  "Part-ser": {
+    "ms": "construído",
+    "fs": "construída",
+    "mp": "construídos",
+    "fp": "construídas"
+  }
+}

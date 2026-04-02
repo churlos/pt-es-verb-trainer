@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "servir"
+  },
+  "Ger": {
+    "": "sirviendo"
+  },
+  "PresI": {
+    "1s": "sirvo",
+    "2s": "sirves",
+    "3s": "sirve",
+    "1p": "servimos",
+    "2p": "servís",
+    "3p": "sirven"
+  },
+  "PImpI": {
+    "1s": "servía",
+    "2s": "servías",
+    "3s": "servía",
+    "1p": "servíamos",
+    "2p": "servíais",
+    "3p": "servían"
+  },
+  "PPSI": {
+    "1s": "serví",
+    "2s": "serviste",
+    "3s": "sirvió",
+    "1p": "servimos",
+    "2p": "servisteis",
+    "3p": "sirvieron"
+  },
+  "FutSI": {
+    "1s": "serviré",
+    "2s": "servirás",
+    "3s": "servirá",
+    "1p": "serviremos",
+    "2p": "serviréis",
+    "3p": "servirán"
+  },
+  "CondS": {
+    "1s": "serviría",
+    "2s": "servirías",
+    "3s": "serviría",
+    "1p": "serviríamos",
+    "2p": "serviríais",
+    "3p": "servirían"
+  },
+  "PresC": {
+    "1s": "sirva",
+    "2s": "sirvas",
+    "3s": "sirva",
+    "1p": "sirvamos",
+    "2p": "sirváis",
+    "3p": "sirvan"
+  },
+  "PMQPSI": {
+    "1s": "sirviera",
+    "2s": "sirvieras",
+    "3s": "sirviera",
+    "1p": "sirviéramos",
+    "2p": "sirvierais",
+    "3p": "sirvieran"
+  },
+  "PImpC": {
+    "1s": "sirviese",
+    "2s": "sirvieses",
+    "3s": "sirviese",
+    "1p": "sirviésemos",
+    "2p": "sirvieseis",
+    "3p": "sirviesen"
+  },
+  "FutSC": {
+    "1s": "sirviere",
+    "2s": "sirvieres",
+    "3s": "sirviere",
+    "1p": "sirviéremos",
+    "2p": "sirviereis",
+    "3p": "sirvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sirve",
+    "3s": "sirva",
+    "1p": "sirvamos",
+    "2p": "servid",
+    "3p": "sirvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sirvas",
+    "3s": "no sirva",
+    "1p": "no sirvamos",
+    "2p": "no sirváis",
+    "3p": "no sirvan"
+  },
+  "Part-ter": {
+    "": "servido"
+  },
+  "Part-ser": {
+    "ms": "servido",
+    "fs": "servida",
+    "mp": "servidos",
+    "fp": "servidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "salgar"
+  },
+  "InfP": {
+    "1s": "salgar",
+    "2s": "salgares",
+    "3s": "salgar",
+    "1p": "salgarmos",
+    "2p": "salgardes",
+    "3p": "salgarem"
+  },
+  "Ger": {
+    "": "salgando"
+  },
+  "PresI": {
+    "1s": "salgo",
+    "2s": "salgas",
+    "3s": "salga",
+    "1p": "salgamos",
+    "2p": "salgais",
+    "3p": "salgam"
+  },
+  "PImpI": {
+    "1s": "salgava",
+    "2s": "salgavas",
+    "3s": "salgava",
+    "1p": "salgávamos",
+    "2p": "salgáveis",
+    "3p": "salgavam"
+  },
+  "PPSI": {
+    "1s": "salguei",
+    "2s": "salgaste",
+    "3s": "salgou",
+    "1p": "salgámos",
+    "2p": "salgastes",
+    "3p": "salgaram"
+  },
+  "PMQPSI": {
+    "1s": "salgara",
+    "2s": "salgaras",
+    "3s": "salgara",
+    "1p": "salgáramos",
+    "2p": "salgáreis",
+    "3p": "salgaram"
+  },
+  "FutSI": {
+    "1s": "salgarei",
+    "2s": "salgarás",
+    "3s": "salgará",
+    "1p": "salgaremos",
+    "2p": "salgareis",
+    "3p": "salgarão"
+  },
+  "CondS": {
+    "1s": "salgaria",
+    "2s": "salgarias",
+    "3s": "salgaria",
+    "1p": "salgaríamos",
+    "2p": "salgaríeis",
+    "3p": "salgariam"
+  },
+  "PresC": {
+    "1s": "salgue",
+    "2s": "salgues",
+    "3s": "salgue",
+    "1p": "salguemos",
+    "2p": "salgueis",
+    "3p": "salguem"
+  },
+  "PImpC": {
+    "1s": "salgasse",
+    "2s": "salgasses",
+    "3s": "salgasse",
+    "1p": "salgássemos",
+    "2p": "salgásseis",
+    "3p": "salgassem"
+  },
+  "FutSC": {
+    "1s": "salgar",
+    "2s": "salgares",
+    "3s": "salgar",
+    "1p": "salgarmos",
+    "2p": "salgardes",
+    "3p": "salgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salga",
+    "3s": "salgue",
+    "1p": "salguemos",
+    "2p": "salgai",
+    "3p": "salguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não salgues",
+    "3s": "não salgue",
+    "1p": "não salguemos",
+    "2p": "não salgueis",
+    "3p": "não salguem"
+  },
+  "Part-ter": {
+    "": "salgado"
+  },
+  "Part-ser": {
+    "ms": "salgado",
+    "fs": "salgada",
+    "mp": "salgados",
+    "fp": "salgadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "entrar"
+  },
+  "Ger": {
+    "": "entrando"
+  },
+  "PresI": {
+    "1s": "entro",
+    "2s": "entras",
+    "3s": "entra",
+    "1p": "entramos",
+    "2p": "entráis",
+    "3p": "entran"
+  },
+  "PImpI": {
+    "1s": "entraba",
+    "2s": "entrabas",
+    "3s": "entraba",
+    "1p": "entrábamos",
+    "2p": "entrabais",
+    "3p": "entraban"
+  },
+  "PPSI": {
+    "1s": "entré",
+    "2s": "entraste",
+    "3s": "entró",
+    "1p": "entramos",
+    "2p": "entrasteis",
+    "3p": "entraron"
+  },
+  "FutSI": {
+    "1s": "entraré",
+    "2s": "entrarás",
+    "3s": "entrará",
+    "1p": "entraremos",
+    "2p": "entraréis",
+    "3p": "entrarán"
+  },
+  "CondS": {
+    "1s": "entraría",
+    "2s": "entrarías",
+    "3s": "entraría",
+    "1p": "entraríamos",
+    "2p": "entraríais",
+    "3p": "entrarían"
+  },
+  "PresC": {
+    "1s": "entre",
+    "2s": "entres",
+    "3s": "entre",
+    "1p": "entremos",
+    "2p": "entréis",
+    "3p": "entren"
+  },
+  "PMQPSI": {
+    "1s": "entrara",
+    "2s": "entraras",
+    "3s": "entrara",
+    "1p": "entráramos",
+    "2p": "entrarais",
+    "3p": "entraran"
+  },
+  "PImpC": {
+    "1s": "entrase",
+    "2s": "entrases",
+    "3s": "entrase",
+    "1p": "entrásemos",
+    "2p": "entraseis",
+    "3p": "entrasen"
+  },
+  "FutSC": {
+    "1s": "entrare",
+    "2s": "entrares",
+    "3s": "entrare",
+    "1p": "entráremos",
+    "2p": "entrareis",
+    "3p": "entraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entra",
+    "3s": "entre",
+    "1p": "entremos",
+    "2p": "entrad",
+    "3p": "entren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no entres",
+    "3s": "no entre",
+    "1p": "no entremos",
+    "2p": "no entréis",
+    "3p": "no entren"
+  },
+  "Part-ter": {
+    "": "entrado"
+  },
+  "Part-ser": {
+    "ms": "entrado",
+    "fs": "entrada",
+    "mp": "entrados",
+    "fp": "entradas"
+  }
+}

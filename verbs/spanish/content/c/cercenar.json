@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cercenar"
+  },
+  "Ger": {
+    "": "cercenando"
+  },
+  "PresI": {
+    "1s": "cerceno",
+    "2s": "cercenas",
+    "3s": "cercena",
+    "1p": "cercenamos",
+    "2p": "cercenáis",
+    "3p": "cercenan"
+  },
+  "PImpI": {
+    "1s": "cercenaba",
+    "2s": "cercenabas",
+    "3s": "cercenaba",
+    "1p": "cercenábamos",
+    "2p": "cercenabais",
+    "3p": "cercenaban"
+  },
+  "PPSI": {
+    "1s": "cercené",
+    "2s": "cercenaste",
+    "3s": "cercenó",
+    "1p": "cercenamos",
+    "2p": "cercenasteis",
+    "3p": "cercenaron"
+  },
+  "FutSI": {
+    "1s": "cercenaré",
+    "2s": "cercenarás",
+    "3s": "cercenará",
+    "1p": "cercenaremos",
+    "2p": "cercenaréis",
+    "3p": "cercenarán"
+  },
+  "CondS": {
+    "1s": "cercenaría",
+    "2s": "cercenarías",
+    "3s": "cercenaría",
+    "1p": "cercenaríamos",
+    "2p": "cercenaríais",
+    "3p": "cercenarían"
+  },
+  "PresC": {
+    "1s": "cercene",
+    "2s": "cercenes",
+    "3s": "cercene",
+    "1p": "cercenemos",
+    "2p": "cercenéis",
+    "3p": "cercenen"
+  },
+  "PMQPSI": {
+    "1s": "cercenara",
+    "2s": "cercenaras",
+    "3s": "cercenara",
+    "1p": "cercenáramos",
+    "2p": "cercenarais",
+    "3p": "cercenaran"
+  },
+  "PImpC": {
+    "1s": "cercenase",
+    "2s": "cercenases",
+    "3s": "cercenase",
+    "1p": "cercenásemos",
+    "2p": "cercenaseis",
+    "3p": "cercenasen"
+  },
+  "FutSC": {
+    "1s": "cercenare",
+    "2s": "cercenares",
+    "3s": "cercenare",
+    "1p": "cercenáremos",
+    "2p": "cercenareis",
+    "3p": "cercenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cercena",
+    "3s": "cercene",
+    "1p": "cercenemos",
+    "2p": "cercenad",
+    "3p": "cercenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cercenes",
+    "3s": "no cercene",
+    "1p": "no cercenemos",
+    "2p": "no cercenéis",
+    "3p": "no cercenen"
+  },
+  "Part-ter": {
+    "": "cercenado"
+  },
+  "Part-ser": {
+    "ms": "cercenado",
+    "fs": "cercenada",
+    "mp": "cercenados",
+    "fp": "cercenadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "comunicar"
+  },
+  "InfP": {
+    "1s": "comunicar",
+    "2s": "comunicares",
+    "3s": "comunicar",
+    "1p": "comunicarmos",
+    "2p": "comunicardes",
+    "3p": "comunicarem"
+  },
+  "Ger": {
+    "": "comunicando"
+  },
+  "PresI": {
+    "1s": "comunico",
+    "2s": "comunicas",
+    "3s": "comunica",
+    "1p": "comunicamos",
+    "2p": "comunicais",
+    "3p": "comunicam"
+  },
+  "PImpI": {
+    "1s": "comunicava",
+    "2s": "comunicavas",
+    "3s": "comunicava",
+    "1p": "comunicávamos",
+    "2p": "comunicáveis",
+    "3p": "comunicavam"
+  },
+  "PPSI": {
+    "1s": "comuniquei",
+    "2s": "comunicaste",
+    "3s": "comunicou",
+    "1p": "comunicámos",
+    "2p": "comunicastes",
+    "3p": "comunicaram"
+  },
+  "PMQPSI": {
+    "1s": "comunicara",
+    "2s": "comunicaras",
+    "3s": "comunicara",
+    "1p": "comunicáramos",
+    "2p": "comunicáreis",
+    "3p": "comunicaram"
+  },
+  "FutSI": {
+    "1s": "comunicarei",
+    "2s": "comunicarás",
+    "3s": "comunicará",
+    "1p": "comunicaremos",
+    "2p": "comunicareis",
+    "3p": "comunicarão"
+  },
+  "CondS": {
+    "1s": "comunicaria",
+    "2s": "comunicarias",
+    "3s": "comunicaria",
+    "1p": "comunicaríamos",
+    "2p": "comunicaríeis",
+    "3p": "comunicariam"
+  },
+  "PresC": {
+    "1s": "comunique",
+    "2s": "comuniques",
+    "3s": "comunique",
+    "1p": "comuniquemos",
+    "2p": "comuniqueis",
+    "3p": "comuniquem"
+  },
+  "PImpC": {
+    "1s": "comunicasse",
+    "2s": "comunicasses",
+    "3s": "comunicasse",
+    "1p": "comunicássemos",
+    "2p": "comunicásseis",
+    "3p": "comunicassem"
+  },
+  "FutSC": {
+    "1s": "comunicar",
+    "2s": "comunicares",
+    "3s": "comunicar",
+    "1p": "comunicarmos",
+    "2p": "comunicardes",
+    "3p": "comunicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comunica",
+    "3s": "comunique",
+    "1p": "comuniquemos",
+    "2p": "comunicai",
+    "3p": "comuniquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não comuniques",
+    "3s": "não comunique",
+    "1p": "não comuniquemos",
+    "2p": "não comuniqueis",
+    "3p": "não comuniquem"
+  },
+  "Part-ter": {
+    "": "comunicado"
+  },
+  "Part-ser": {
+    "ms": "comunicado",
+    "fs": "comunicada",
+    "mp": "comunicados",
+    "fp": "comunicadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "murar"
+  },
+  "Ger": {
+    "": "murando"
+  },
+  "PresI": {
+    "1s": "muro",
+    "2s": "muras",
+    "3s": "mura",
+    "1p": "muramos",
+    "2p": "muráis",
+    "3p": "muran"
+  },
+  "PImpI": {
+    "1s": "muraba",
+    "2s": "murabas",
+    "3s": "muraba",
+    "1p": "murábamos",
+    "2p": "murabais",
+    "3p": "muraban"
+  },
+  "PPSI": {
+    "1s": "muré",
+    "2s": "muraste",
+    "3s": "muró",
+    "1p": "muramos",
+    "2p": "murasteis",
+    "3p": "muraron"
+  },
+  "FutSI": {
+    "1s": "muraré",
+    "2s": "murarás",
+    "3s": "murará",
+    "1p": "muraremos",
+    "2p": "muraréis",
+    "3p": "murarán"
+  },
+  "CondS": {
+    "1s": "muraría",
+    "2s": "murarías",
+    "3s": "muraría",
+    "1p": "muraríamos",
+    "2p": "muraríais",
+    "3p": "murarían"
+  },
+  "PresC": {
+    "1s": "mure",
+    "2s": "mures",
+    "3s": "mure",
+    "1p": "muremos",
+    "2p": "muréis",
+    "3p": "muren"
+  },
+  "PMQPSI": {
+    "1s": "murara",
+    "2s": "muraras",
+    "3s": "murara",
+    "1p": "muráramos",
+    "2p": "murarais",
+    "3p": "muraran"
+  },
+  "PImpC": {
+    "1s": "murase",
+    "2s": "murases",
+    "3s": "murase",
+    "1p": "murásemos",
+    "2p": "muraseis",
+    "3p": "murasen"
+  },
+  "FutSC": {
+    "1s": "murare",
+    "2s": "murares",
+    "3s": "murare",
+    "1p": "muráremos",
+    "2p": "murareis",
+    "3p": "muraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mura",
+    "3s": "mure",
+    "1p": "muremos",
+    "2p": "murad",
+    "3p": "muren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mures",
+    "3s": "no mure",
+    "1p": "no muremos",
+    "2p": "no muréis",
+    "3p": "no muren"
+  },
+  "Part-ter": {
+    "": "murado"
+  },
+  "Part-ser": {
+    "ms": "murado",
+    "fs": "murada",
+    "mp": "murados",
+    "fp": "muradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perfazer"
+  },
+  "InfP": {
+    "1s": "perfazer",
+    "2s": "perfazeres",
+    "3s": "perfazer",
+    "1p": "perfazermos",
+    "2p": "perfazerdes",
+    "3p": "perfazerem"
+  },
+  "Ger": {
+    "": "perfazendo"
+  },
+  "PresI": {
+    "1s": "perfaço",
+    "2s": "perfazes",
+    "3s": "perfaz",
+    "1p": "perfazemos",
+    "2p": "perfazeis",
+    "3p": "perfazem"
+  },
+  "PImpI": {
+    "1s": "perfazia",
+    "2s": "perfazias",
+    "3s": "perfazia",
+    "1p": "perfazíamos",
+    "2p": "perfazíeis",
+    "3p": "perfaziam"
+  },
+  "PPSI": {
+    "1s": "perfiz",
+    "2s": "perfizeste",
+    "3s": "perfez",
+    "1p": "perfizemos",
+    "2p": "perfizestes",
+    "3p": "perfizeram"
+  },
+  "PMQPSI": {
+    "1s": "perfizera",
+    "2s": "perfizeras",
+    "3s": "perfizera",
+    "1p": "perfizéramos",
+    "2p": "perfizéreis",
+    "3p": "perfizeram"
+  },
+  "FutSI": {
+    "1s": "perfarei",
+    "2s": "perfarás",
+    "3s": "perfará",
+    "1p": "perfaremos",
+    "2p": "perfareis",
+    "3p": "perfarão"
+  },
+  "CondS": {
+    "1s": "perfaria",
+    "2s": "perfarias",
+    "3s": "perfaria",
+    "1p": "perfaríamos",
+    "2p": "perfaríeis",
+    "3p": "perfariam"
+  },
+  "PresC": {
+    "1s": "perfaça",
+    "2s": "perfaças",
+    "3s": "perfaça",
+    "1p": "perfaçamos",
+    "2p": "perfaçais",
+    "3p": "perfaçam"
+  },
+  "PImpC": {
+    "1s": "perfizesse",
+    "2s": "perfizesses",
+    "3s": "perfizesse",
+    "1p": "perfizéssemos",
+    "2p": "perfizésseis",
+    "3p": "perfizessem"
+  },
+  "FutSC": {
+    "1s": "perfizer",
+    "2s": "perfizeres",
+    "3s": "perfizer",
+    "1p": "perfizermos",
+    "2p": "perfizerdes",
+    "3p": "perfizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perfazperfaze",
+    "3s": "perfaça",
+    "1p": "perfaçamos",
+    "2p": "perfazei",
+    "3p": "perfaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não perfaças",
+    "3s": "não perfaça",
+    "1p": "não perfaçamos",
+    "2p": "não perfaçais",
+    "3p": "não perfaçam"
+  },
+  "Part-ter": {
+    "": "perfeito"
+  },
+  "Part-ser": {
+    "ms": "perfeito",
+    "fs": "perfeita",
+    "mp": "perfeitos",
+    "fp": "perfeitas"
+  }
+}

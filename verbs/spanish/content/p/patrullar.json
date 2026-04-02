@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "patrullar"
+  },
+  "Ger": {
+    "": "patrullando"
+  },
+  "PresI": {
+    "1s": "patrullo",
+    "2s": "patrullas",
+    "3s": "patrulla",
+    "1p": "patrullamos",
+    "2p": "patrulláis",
+    "3p": "patrullan"
+  },
+  "PImpI": {
+    "1s": "patrullaba",
+    "2s": "patrullabas",
+    "3s": "patrullaba",
+    "1p": "patrullábamos",
+    "2p": "patrullabais",
+    "3p": "patrullaban"
+  },
+  "PPSI": {
+    "1s": "patrullé",
+    "2s": "patrullaste",
+    "3s": "patrulló",
+    "1p": "patrullamos",
+    "2p": "patrullasteis",
+    "3p": "patrullaron"
+  },
+  "FutSI": {
+    "1s": "patrullaré",
+    "2s": "patrullarás",
+    "3s": "patrullará",
+    "1p": "patrullaremos",
+    "2p": "patrullaréis",
+    "3p": "patrullarán"
+  },
+  "CondS": {
+    "1s": "patrullaría",
+    "2s": "patrullarías",
+    "3s": "patrullaría",
+    "1p": "patrullaríamos",
+    "2p": "patrullaríais",
+    "3p": "patrullarían"
+  },
+  "PresC": {
+    "1s": "patrulle",
+    "2s": "patrulles",
+    "3s": "patrulle",
+    "1p": "patrullemos",
+    "2p": "patrulléis",
+    "3p": "patrullen"
+  },
+  "PMQPSI": {
+    "1s": "patrullara",
+    "2s": "patrullaras",
+    "3s": "patrullara",
+    "1p": "patrulláramos",
+    "2p": "patrullarais",
+    "3p": "patrullaran"
+  },
+  "PImpC": {
+    "1s": "patrullase",
+    "2s": "patrullases",
+    "3s": "patrullase",
+    "1p": "patrullásemos",
+    "2p": "patrullaseis",
+    "3p": "patrullasen"
+  },
+  "FutSC": {
+    "1s": "patrullare",
+    "2s": "patrullares",
+    "3s": "patrullare",
+    "1p": "patrulláremos",
+    "2p": "patrullareis",
+    "3p": "patrullaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "patrulla",
+    "3s": "patrulle",
+    "1p": "patrullemos",
+    "2p": "patrullad",
+    "3p": "patrullen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no patrulles",
+    "3s": "no patrulle",
+    "1p": "no patrullemos",
+    "2p": "no patrulléis",
+    "3p": "no patrullen"
+  },
+  "Part-ter": {
+    "": "patrullado"
+  },
+  "Part-ser": {
+    "ms": "patrullado",
+    "fs": "patrullada",
+    "mp": "patrullados",
+    "fp": "patrulladas"
+  }
+}

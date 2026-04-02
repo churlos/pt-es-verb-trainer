@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sangrar"
+  },
+  "InfP": {
+    "1s": "sangrar",
+    "2s": "sangrares",
+    "3s": "sangrar",
+    "1p": "sangrarmos",
+    "2p": "sangrardes",
+    "3p": "sangrarem"
+  },
+  "Ger": {
+    "": "sangrando"
+  },
+  "PresI": {
+    "1s": "sangro",
+    "2s": "sangras",
+    "3s": "sangra",
+    "1p": "sangramos",
+    "2p": "sangrais",
+    "3p": "sangram"
+  },
+  "PImpI": {
+    "1s": "sangrava",
+    "2s": "sangravas",
+    "3s": "sangrava",
+    "1p": "sangrávamos",
+    "2p": "sangráveis",
+    "3p": "sangravam"
+  },
+  "PPSI": {
+    "1s": "sangrei",
+    "2s": "sangraste",
+    "3s": "sangrou",
+    "1p": "sangrámos",
+    "2p": "sangrastes",
+    "3p": "sangraram"
+  },
+  "PMQPSI": {
+    "1s": "sangrara",
+    "2s": "sangraras",
+    "3s": "sangrara",
+    "1p": "sangráramos",
+    "2p": "sangráreis",
+    "3p": "sangraram"
+  },
+  "FutSI": {
+    "1s": "sangrarei",
+    "2s": "sangrarás",
+    "3s": "sangrará",
+    "1p": "sangraremos",
+    "2p": "sangrareis",
+    "3p": "sangrarão"
+  },
+  "CondS": {
+    "1s": "sangraria",
+    "2s": "sangrarias",
+    "3s": "sangraria",
+    "1p": "sangraríamos",
+    "2p": "sangraríeis",
+    "3p": "sangrariam"
+  },
+  "PresC": {
+    "1s": "sangre",
+    "2s": "sangres",
+    "3s": "sangre",
+    "1p": "sangremos",
+    "2p": "sangreis",
+    "3p": "sangrem"
+  },
+  "PImpC": {
+    "1s": "sangrasse",
+    "2s": "sangrasses",
+    "3s": "sangrasse",
+    "1p": "sangrássemos",
+    "2p": "sangrásseis",
+    "3p": "sangrassem"
+  },
+  "FutSC": {
+    "1s": "sangrar",
+    "2s": "sangrares",
+    "3s": "sangrar",
+    "1p": "sangrarmos",
+    "2p": "sangrardes",
+    "3p": "sangrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sangra",
+    "3s": "sangre",
+    "1p": "sangremos",
+    "2p": "sangrai",
+    "3p": "sangrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sangres",
+    "3s": "não sangre",
+    "1p": "não sangremos",
+    "2p": "não sangreis",
+    "3p": "não sangrem"
+  },
+  "Part-ter": {
+    "": "sangrado"
+  },
+  "Part-ser": {
+    "ms": "sangrado",
+    "fs": "sangrada",
+    "mp": "sangrados",
+    "fp": "sangradas"
+  }
+}

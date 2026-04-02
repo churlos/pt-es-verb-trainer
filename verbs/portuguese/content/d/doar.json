@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "doar"
+  },
+  "InfP": {
+    "1s": "doar",
+    "2s": "doares",
+    "3s": "doar",
+    "1p": "doarmos",
+    "2p": "doardes",
+    "3p": "doarem"
+  },
+  "Ger": {
+    "": "doando"
+  },
+  "PresI": {
+    "1s": "dooObsolete:dôo",
+    "2s": "doas",
+    "3s": "doa",
+    "1p": "doamos",
+    "2p": "doais",
+    "3p": "doam"
+  },
+  "PImpI": {
+    "1s": "doava",
+    "2s": "doavas",
+    "3s": "doava",
+    "1p": "doávamos",
+    "2p": "doáveis",
+    "3p": "doavam"
+  },
+  "PPSI": {
+    "1s": "doei",
+    "2s": "doaste",
+    "3s": "doou",
+    "1p": "doámos",
+    "2p": "doastes",
+    "3p": "doaram"
+  },
+  "PMQPSI": {
+    "1s": "doara",
+    "2s": "doaras",
+    "3s": "doara",
+    "1p": "doáramos",
+    "2p": "doáreis",
+    "3p": "doaram"
+  },
+  "FutSI": {
+    "1s": "doarei",
+    "2s": "doarás",
+    "3s": "doará",
+    "1p": "doaremos",
+    "2p": "doareis",
+    "3p": "doarão"
+  },
+  "CondS": {
+    "1s": "doaria",
+    "2s": "doarias",
+    "3s": "doaria",
+    "1p": "doaríamos",
+    "2p": "doaríeis",
+    "3p": "doariam"
+  },
+  "PresC": {
+    "1s": "doe",
+    "2s": "does",
+    "3s": "doe",
+    "1p": "doemos",
+    "2p": "doeis",
+    "3p": "doem"
+  },
+  "PImpC": {
+    "1s": "doasse",
+    "2s": "doasses",
+    "3s": "doasse",
+    "1p": "doássemos",
+    "2p": "doásseis",
+    "3p": "doassem"
+  },
+  "FutSC": {
+    "1s": "doar",
+    "2s": "doares",
+    "3s": "doar",
+    "1p": "doarmos",
+    "2p": "doardes",
+    "3p": "doarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "doa",
+    "3s": "doe",
+    "1p": "doemos",
+    "2p": "doai",
+    "3p": "doem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não does",
+    "3s": "não doe",
+    "1p": "não doemos",
+    "2p": "não doeis",
+    "3p": "não doem"
+  },
+  "Part-ter": {
+    "": "doado"
+  },
+  "Part-ser": {
+    "ms": "doado",
+    "fs": "doada",
+    "mp": "doados",
+    "fp": "doadas"
+  }
+}

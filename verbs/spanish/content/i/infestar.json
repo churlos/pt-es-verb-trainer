@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "infestar"
+  },
+  "Ger": {
+    "": "infestando"
+  },
+  "PresI": {
+    "1s": "infesto",
+    "2s": "infestas",
+    "3s": "infesta",
+    "1p": "infestamos",
+    "2p": "infestáis",
+    "3p": "infestan"
+  },
+  "PImpI": {
+    "1s": "infestaba",
+    "2s": "infestabas",
+    "3s": "infestaba",
+    "1p": "infestábamos",
+    "2p": "infestabais",
+    "3p": "infestaban"
+  },
+  "PPSI": {
+    "1s": "infesté",
+    "2s": "infestaste",
+    "3s": "infestó",
+    "1p": "infestamos",
+    "2p": "infestasteis",
+    "3p": "infestaron"
+  },
+  "FutSI": {
+    "1s": "infestaré",
+    "2s": "infestarás",
+    "3s": "infestará",
+    "1p": "infestaremos",
+    "2p": "infestaréis",
+    "3p": "infestarán"
+  },
+  "CondS": {
+    "1s": "infestaría",
+    "2s": "infestarías",
+    "3s": "infestaría",
+    "1p": "infestaríamos",
+    "2p": "infestaríais",
+    "3p": "infestarían"
+  },
+  "PresC": {
+    "1s": "infeste",
+    "2s": "infestes",
+    "3s": "infeste",
+    "1p": "infestemos",
+    "2p": "infestéis",
+    "3p": "infesten"
+  },
+  "PMQPSI": {
+    "1s": "infestara",
+    "2s": "infestaras",
+    "3s": "infestara",
+    "1p": "infestáramos",
+    "2p": "infestarais",
+    "3p": "infestaran"
+  },
+  "PImpC": {
+    "1s": "infestase",
+    "2s": "infestases",
+    "3s": "infestase",
+    "1p": "infestásemos",
+    "2p": "infestaseis",
+    "3p": "infestasen"
+  },
+  "FutSC": {
+    "1s": "infestare",
+    "2s": "infestares",
+    "3s": "infestare",
+    "1p": "infestáremos",
+    "2p": "infestareis",
+    "3p": "infestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infesta",
+    "3s": "infeste",
+    "1p": "infestemos",
+    "2p": "infestad",
+    "3p": "infesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no infestes",
+    "3s": "no infeste",
+    "1p": "no infestemos",
+    "2p": "no infestéis",
+    "3p": "no infesten"
+  },
+  "Part-ter": {
+    "": "infestado"
+  },
+  "Part-ser": {
+    "ms": "infestado",
+    "fs": "infestada",
+    "mp": "infestados",
+    "fp": "infestadas"
+  }
+}

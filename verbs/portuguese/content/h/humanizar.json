@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "humanizar"
+  },
+  "InfP": {
+    "1s": "humanizar",
+    "2s": "humanizares",
+    "3s": "humanizar",
+    "1p": "humanizarmos",
+    "2p": "humanizardes",
+    "3p": "humanizarem"
+  },
+  "Ger": {
+    "": "humanizando"
+  },
+  "PresI": {
+    "1s": "humanizo",
+    "2s": "humanizas",
+    "3s": "humaniza",
+    "1p": "humanizamos",
+    "2p": "humanizais",
+    "3p": "humanizam"
+  },
+  "PImpI": {
+    "1s": "humanizava",
+    "2s": "humanizavas",
+    "3s": "humanizava",
+    "1p": "humanizávamos",
+    "2p": "humanizáveis",
+    "3p": "humanizavam"
+  },
+  "PPSI": {
+    "1s": "humanizei",
+    "2s": "humanizaste",
+    "3s": "humanizou",
+    "1p": "humanizámos",
+    "2p": "humanizastes",
+    "3p": "humanizaram"
+  },
+  "PMQPSI": {
+    "1s": "humanizara",
+    "2s": "humanizaras",
+    "3s": "humanizara",
+    "1p": "humanizáramos",
+    "2p": "humanizáreis",
+    "3p": "humanizaram"
+  },
+  "FutSI": {
+    "1s": "humanizarei",
+    "2s": "humanizarás",
+    "3s": "humanizará",
+    "1p": "humanizaremos",
+    "2p": "humanizareis",
+    "3p": "humanizarão"
+  },
+  "CondS": {
+    "1s": "humanizaria",
+    "2s": "humanizarias",
+    "3s": "humanizaria",
+    "1p": "humanizaríamos",
+    "2p": "humanizaríeis",
+    "3p": "humanizariam"
+  },
+  "PresC": {
+    "1s": "humanize",
+    "2s": "humanizes",
+    "3s": "humanize",
+    "1p": "humanizemos",
+    "2p": "humanizeis",
+    "3p": "humanizem"
+  },
+  "PImpC": {
+    "1s": "humanizasse",
+    "2s": "humanizasses",
+    "3s": "humanizasse",
+    "1p": "humanizássemos",
+    "2p": "humanizásseis",
+    "3p": "humanizassem"
+  },
+  "FutSC": {
+    "1s": "humanizar",
+    "2s": "humanizares",
+    "3s": "humanizar",
+    "1p": "humanizarmos",
+    "2p": "humanizardes",
+    "3p": "humanizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "humaniza",
+    "3s": "humanize",
+    "1p": "humanizemos",
+    "2p": "humanizai",
+    "3p": "humanizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não humanizes",
+    "3s": "não humanize",
+    "1p": "não humanizemos",
+    "2p": "não humanizeis",
+    "3p": "não humanizem"
+  },
+  "Part-ter": {
+    "": "humanizado"
+  },
+  "Part-ser": {
+    "ms": "humanizado",
+    "fs": "humanizada",
+    "mp": "humanizados",
+    "fp": "humanizadas"
+  }
+}

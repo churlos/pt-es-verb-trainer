@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "povoar"
+  },
+  "InfP": {
+    "1s": "povoar",
+    "2s": "povoares",
+    "3s": "povoar",
+    "1p": "povoarmos",
+    "2p": "povoardes",
+    "3p": "povoarem"
+  },
+  "Ger": {
+    "": "povoando"
+  },
+  "PresI": {
+    "1s": "povooObsolete:povôo",
+    "2s": "povoas",
+    "3s": "povoa",
+    "1p": "povoamos",
+    "2p": "povoais",
+    "3p": "povoam"
+  },
+  "PImpI": {
+    "1s": "povoava",
+    "2s": "povoavas",
+    "3s": "povoava",
+    "1p": "povoávamos",
+    "2p": "povoáveis",
+    "3p": "povoavam"
+  },
+  "PPSI": {
+    "1s": "povoei",
+    "2s": "povoaste",
+    "3s": "povoou",
+    "1p": "povoámos",
+    "2p": "povoastes",
+    "3p": "povoaram"
+  },
+  "PMQPSI": {
+    "1s": "povoara",
+    "2s": "povoaras",
+    "3s": "povoara",
+    "1p": "povoáramos",
+    "2p": "povoáreis",
+    "3p": "povoaram"
+  },
+  "FutSI": {
+    "1s": "povoarei",
+    "2s": "povoarás",
+    "3s": "povoará",
+    "1p": "povoaremos",
+    "2p": "povoareis",
+    "3p": "povoarão"
+  },
+  "CondS": {
+    "1s": "povoaria",
+    "2s": "povoarias",
+    "3s": "povoaria",
+    "1p": "povoaríamos",
+    "2p": "povoaríeis",
+    "3p": "povoariam"
+  },
+  "PresC": {
+    "1s": "povoe",
+    "2s": "povoes",
+    "3s": "povoe",
+    "1p": "povoemos",
+    "2p": "povoeis",
+    "3p": "povoem"
+  },
+  "PImpC": {
+    "1s": "povoasse",
+    "2s": "povoasses",
+    "3s": "povoasse",
+    "1p": "povoássemos",
+    "2p": "povoásseis",
+    "3p": "povoassem"
+  },
+  "FutSC": {
+    "1s": "povoar",
+    "2s": "povoares",
+    "3s": "povoar",
+    "1p": "povoarmos",
+    "2p": "povoardes",
+    "3p": "povoarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "povoa",
+    "3s": "povoe",
+    "1p": "povoemos",
+    "2p": "povoai",
+    "3p": "povoem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não povoes",
+    "3s": "não povoe",
+    "1p": "não povoemos",
+    "2p": "não povoeis",
+    "3p": "não povoem"
+  },
+  "Part-ter": {
+    "": "povoado"
+  },
+  "Part-ser": {
+    "ms": "povoado",
+    "fs": "povoada",
+    "mp": "povoados",
+    "fp": "povoadas"
+  }
+}

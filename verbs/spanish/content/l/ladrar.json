@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ladrar"
+  },
+  "Ger": {
+    "": "ladrando"
+  },
+  "PresI": {
+    "1s": "ladro",
+    "2s": "ladras",
+    "3s": "ladra",
+    "1p": "ladramos",
+    "2p": "ladráis",
+    "3p": "ladran"
+  },
+  "PImpI": {
+    "1s": "ladraba",
+    "2s": "ladrabas",
+    "3s": "ladraba",
+    "1p": "ladrábamos",
+    "2p": "ladrabais",
+    "3p": "ladraban"
+  },
+  "PPSI": {
+    "1s": "ladré",
+    "2s": "ladraste",
+    "3s": "ladró",
+    "1p": "ladramos",
+    "2p": "ladrasteis",
+    "3p": "ladraron"
+  },
+  "FutSI": {
+    "1s": "ladraré",
+    "2s": "ladrarás",
+    "3s": "ladrará",
+    "1p": "ladraremos",
+    "2p": "ladraréis",
+    "3p": "ladrarán"
+  },
+  "CondS": {
+    "1s": "ladraría",
+    "2s": "ladrarías",
+    "3s": "ladraría",
+    "1p": "ladraríamos",
+    "2p": "ladraríais",
+    "3p": "ladrarían"
+  },
+  "PresC": {
+    "1s": "ladre",
+    "2s": "ladres",
+    "3s": "ladre",
+    "1p": "ladremos",
+    "2p": "ladréis",
+    "3p": "ladren"
+  },
+  "PMQPSI": {
+    "1s": "ladrara",
+    "2s": "ladraras",
+    "3s": "ladrara",
+    "1p": "ladráramos",
+    "2p": "ladrarais",
+    "3p": "ladraran"
+  },
+  "PImpC": {
+    "1s": "ladrase",
+    "2s": "ladrases",
+    "3s": "ladrase",
+    "1p": "ladrásemos",
+    "2p": "ladraseis",
+    "3p": "ladrasen"
+  },
+  "FutSC": {
+    "1s": "ladrare",
+    "2s": "ladrares",
+    "3s": "ladrare",
+    "1p": "ladráremos",
+    "2p": "ladrareis",
+    "3p": "ladraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ladra",
+    "3s": "ladre",
+    "1p": "ladremos",
+    "2p": "ladrad",
+    "3p": "ladren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ladres",
+    "3s": "no ladre",
+    "1p": "no ladremos",
+    "2p": "no ladréis",
+    "3p": "no ladren"
+  },
+  "Part-ter": {
+    "": "ladrado"
+  },
+  "Part-ser": {
+    "ms": "ladrado",
+    "fs": "ladrada",
+    "mp": "ladrados",
+    "fp": "ladradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "eleger"
+  },
+  "InfP": {
+    "1s": "eleger",
+    "2s": "elegeres",
+    "3s": "eleger",
+    "1p": "elegermos",
+    "2p": "elegerdes",
+    "3p": "elegerem"
+  },
+  "Ger": {
+    "": "elegendo"
+  },
+  "PresI": {
+    "1s": "elejo",
+    "2s": "eleges",
+    "3s": "elege",
+    "1p": "elegemos",
+    "2p": "elegeis",
+    "3p": "elegem"
+  },
+  "PImpI": {
+    "1s": "elegia",
+    "2s": "elegias",
+    "3s": "elegia",
+    "1p": "elegíamos",
+    "2p": "elegíeis",
+    "3p": "elegiam"
+  },
+  "PPSI": {
+    "1s": "elegi",
+    "2s": "elegeste",
+    "3s": "elegeu",
+    "1p": "elegemos",
+    "2p": "elegestes",
+    "3p": "elegeram"
+  },
+  "PMQPSI": {
+    "1s": "elegera",
+    "2s": "elegeras",
+    "3s": "elegera",
+    "1p": "elegêramos",
+    "2p": "elegêreis",
+    "3p": "elegeram"
+  },
+  "FutSI": {
+    "1s": "elegerei",
+    "2s": "elegerás",
+    "3s": "elegerá",
+    "1p": "elegeremos",
+    "2p": "elegereis",
+    "3p": "elegerão"
+  },
+  "CondS": {
+    "1s": "elegeria",
+    "2s": "elegerias",
+    "3s": "elegeria",
+    "1p": "elegeríamos",
+    "2p": "elegeríeis",
+    "3p": "elegeriam"
+  },
+  "PresC": {
+    "1s": "eleja",
+    "2s": "elejas",
+    "3s": "eleja",
+    "1p": "elejamos",
+    "2p": "elejais",
+    "3p": "elejam"
+  },
+  "PImpC": {
+    "1s": "elegesse",
+    "2s": "elegesses",
+    "3s": "elegesse",
+    "1p": "elegêssemos",
+    "2p": "elegêsseis",
+    "3p": "elegessem"
+  },
+  "FutSC": {
+    "1s": "eleger",
+    "2s": "elegeres",
+    "3s": "eleger",
+    "1p": "elegermos",
+    "2p": "elegerdes",
+    "3p": "elegerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elege",
+    "3s": "eleja",
+    "1p": "elejamos",
+    "2p": "elegei",
+    "3p": "elejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não elejas",
+    "3s": "não eleja",
+    "1p": "não elejamos",
+    "2p": "não elejais",
+    "3p": "não elejam"
+  },
+  "Part-ter": {
+    "": "elegido"
+  },
+  "Part-ser": {
+    "ms": "eleito",
+    "fs": "eleita",
+    "mp": "eleitos",
+    "fp": "eleitas"
+  }
+}

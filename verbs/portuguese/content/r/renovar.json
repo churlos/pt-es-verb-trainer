@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "renovar"
+  },
+  "InfP": {
+    "1s": "renovar",
+    "2s": "renovares",
+    "3s": "renovar",
+    "1p": "renovarmos",
+    "2p": "renovardes",
+    "3p": "renovarem"
+  },
+  "Ger": {
+    "": "renovando"
+  },
+  "PresI": {
+    "1s": "renovo",
+    "2s": "renovas",
+    "3s": "renova",
+    "1p": "renovamos",
+    "2p": "renovais",
+    "3p": "renovam"
+  },
+  "PImpI": {
+    "1s": "renovava",
+    "2s": "renovavas",
+    "3s": "renovava",
+    "1p": "renovávamos",
+    "2p": "renováveis",
+    "3p": "renovavam"
+  },
+  "PPSI": {
+    "1s": "renovei",
+    "2s": "renovaste",
+    "3s": "renovou",
+    "1p": "renovámos",
+    "2p": "renovastes",
+    "3p": "renovaram"
+  },
+  "PMQPSI": {
+    "1s": "renovara",
+    "2s": "renovaras",
+    "3s": "renovara",
+    "1p": "renováramos",
+    "2p": "renováreis",
+    "3p": "renovaram"
+  },
+  "FutSI": {
+    "1s": "renovarei",
+    "2s": "renovarás",
+    "3s": "renovará",
+    "1p": "renovaremos",
+    "2p": "renovareis",
+    "3p": "renovarão"
+  },
+  "CondS": {
+    "1s": "renovaria",
+    "2s": "renovarias",
+    "3s": "renovaria",
+    "1p": "renovaríamos",
+    "2p": "renovaríeis",
+    "3p": "renovariam"
+  },
+  "PresC": {
+    "1s": "renove",
+    "2s": "renoves",
+    "3s": "renove",
+    "1p": "renovemos",
+    "2p": "renoveis",
+    "3p": "renovem"
+  },
+  "PImpC": {
+    "1s": "renovasse",
+    "2s": "renovasses",
+    "3s": "renovasse",
+    "1p": "renovássemos",
+    "2p": "renovásseis",
+    "3p": "renovassem"
+  },
+  "FutSC": {
+    "1s": "renovar",
+    "2s": "renovares",
+    "3s": "renovar",
+    "1p": "renovarmos",
+    "2p": "renovardes",
+    "3p": "renovarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renova",
+    "3s": "renove",
+    "1p": "renovemos",
+    "2p": "renovai",
+    "3p": "renovem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não renoves",
+    "3s": "não renove",
+    "1p": "não renovemos",
+    "2p": "não renoveis",
+    "3p": "não renovem"
+  },
+  "Part-ter": {
+    "": "renovado"
+  },
+  "Part-ser": {
+    "ms": "renovado",
+    "fs": "renovada",
+    "mp": "renovados",
+    "fp": "renovadas"
+  }
+}

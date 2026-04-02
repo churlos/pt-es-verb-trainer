@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "associar"
+  },
+  "InfP": {
+    "1s": "associar",
+    "2s": "associares",
+    "3s": "associar",
+    "1p": "associarmos",
+    "2p": "associardes",
+    "3p": "associarem"
+  },
+  "Ger": {
+    "": "associando"
+  },
+  "PresI": {
+    "1s": "associo",
+    "2s": "associas",
+    "3s": "associa",
+    "1p": "associamos",
+    "2p": "associais",
+    "3p": "associam"
+  },
+  "PImpI": {
+    "1s": "associava",
+    "2s": "associavas",
+    "3s": "associava",
+    "1p": "associávamos",
+    "2p": "associáveis",
+    "3p": "associavam"
+  },
+  "PPSI": {
+    "1s": "associei",
+    "2s": "associaste",
+    "3s": "associou",
+    "1p": "associámos",
+    "2p": "associastes",
+    "3p": "associaram"
+  },
+  "PMQPSI": {
+    "1s": "associara",
+    "2s": "associaras",
+    "3s": "associara",
+    "1p": "associáramos",
+    "2p": "associáreis",
+    "3p": "associaram"
+  },
+  "FutSI": {
+    "1s": "associarei",
+    "2s": "associarás",
+    "3s": "associará",
+    "1p": "associaremos",
+    "2p": "associareis",
+    "3p": "associarão"
+  },
+  "CondS": {
+    "1s": "associaria",
+    "2s": "associarias",
+    "3s": "associaria",
+    "1p": "associaríamos",
+    "2p": "associaríeis",
+    "3p": "associariam"
+  },
+  "PresC": {
+    "1s": "associe",
+    "2s": "associes",
+    "3s": "associe",
+    "1p": "associemos",
+    "2p": "associeis",
+    "3p": "associem"
+  },
+  "PImpC": {
+    "1s": "associasse",
+    "2s": "associasses",
+    "3s": "associasse",
+    "1p": "associássemos",
+    "2p": "associásseis",
+    "3p": "associassem"
+  },
+  "FutSC": {
+    "1s": "associar",
+    "2s": "associares",
+    "3s": "associar",
+    "1p": "associarmos",
+    "2p": "associardes",
+    "3p": "associarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "associa",
+    "3s": "associe",
+    "1p": "associemos",
+    "2p": "associai",
+    "3p": "associem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não associes",
+    "3s": "não associe",
+    "1p": "não associemos",
+    "2p": "não associeis",
+    "3p": "não associem"
+  },
+  "Part-ter": {
+    "": "associado"
+  },
+  "Part-ser": {
+    "ms": "associado",
+    "fs": "associada",
+    "mp": "associados",
+    "fp": "associadas"
+  }
+}

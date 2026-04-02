@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escudar"
+  },
+  "Ger": {
+    "": "escudando"
+  },
+  "PresI": {
+    "1s": "escudo",
+    "2s": "escudas",
+    "3s": "escuda",
+    "1p": "escudamos",
+    "2p": "escudáis",
+    "3p": "escudan"
+  },
+  "PImpI": {
+    "1s": "escudaba",
+    "2s": "escudabas",
+    "3s": "escudaba",
+    "1p": "escudábamos",
+    "2p": "escudabais",
+    "3p": "escudaban"
+  },
+  "PPSI": {
+    "1s": "escudé",
+    "2s": "escudaste",
+    "3s": "escudó",
+    "1p": "escudamos",
+    "2p": "escudasteis",
+    "3p": "escudaron"
+  },
+  "FutSI": {
+    "1s": "escudaré",
+    "2s": "escudarás",
+    "3s": "escudará",
+    "1p": "escudaremos",
+    "2p": "escudaréis",
+    "3p": "escudarán"
+  },
+  "CondS": {
+    "1s": "escudaría",
+    "2s": "escudarías",
+    "3s": "escudaría",
+    "1p": "escudaríamos",
+    "2p": "escudaríais",
+    "3p": "escudarían"
+  },
+  "PresC": {
+    "1s": "escude",
+    "2s": "escudes",
+    "3s": "escude",
+    "1p": "escudemos",
+    "2p": "escudéis",
+    "3p": "escuden"
+  },
+  "PMQPSI": {
+    "1s": "escudara",
+    "2s": "escudaras",
+    "3s": "escudara",
+    "1p": "escudáramos",
+    "2p": "escudarais",
+    "3p": "escudaran"
+  },
+  "PImpC": {
+    "1s": "escudase",
+    "2s": "escudases",
+    "3s": "escudase",
+    "1p": "escudásemos",
+    "2p": "escudaseis",
+    "3p": "escudasen"
+  },
+  "FutSC": {
+    "1s": "escudare",
+    "2s": "escudares",
+    "3s": "escudare",
+    "1p": "escudáremos",
+    "2p": "escudareis",
+    "3p": "escudaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escuda",
+    "3s": "escude",
+    "1p": "escudemos",
+    "2p": "escudad",
+    "3p": "escuden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escudes",
+    "3s": "no escude",
+    "1p": "no escudemos",
+    "2p": "no escudéis",
+    "3p": "no escuden"
+  },
+  "Part-ter": {
+    "": "escudado"
+  },
+  "Part-ser": {
+    "ms": "escudado",
+    "fs": "escudada",
+    "mp": "escudados",
+    "fp": "escudadas"
+  }
+}

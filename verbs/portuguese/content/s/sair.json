@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sair"
+  },
+  "InfP": {
+    "1s": "sair",
+    "2s": "saíres",
+    "3s": "sair",
+    "1p": "sairmos",
+    "2p": "sairdes",
+    "3p": "saírem"
+  },
+  "Ger": {
+    "": "saindo"
+  },
+  "PresI": {
+    "1s": "saio",
+    "2s": "sais",
+    "3s": "sai",
+    "1p": "saímos",
+    "2p": "saís",
+    "3p": "saem"
+  },
+  "PImpI": {
+    "1s": "saía",
+    "2s": "saías",
+    "3s": "saía",
+    "1p": "saíamos",
+    "2p": "saíeis",
+    "3p": "saíam"
+  },
+  "PPSI": {
+    "1s": "saí",
+    "2s": "saíste",
+    "3s": "saiu",
+    "1p": "saímos",
+    "2p": "saístes",
+    "3p": "saíram"
+  },
+  "PMQPSI": {
+    "1s": "saíra",
+    "2s": "saíras",
+    "3s": "saíra",
+    "1p": "saíramos",
+    "2p": "saíreis",
+    "3p": "saíram"
+  },
+  "FutSI": {
+    "1s": "sairei",
+    "2s": "sairás",
+    "3s": "sairá",
+    "1p": "sairemos",
+    "2p": "saireis",
+    "3p": "sairão"
+  },
+  "CondS": {
+    "1s": "sairia",
+    "2s": "sairias",
+    "3s": "sairia",
+    "1p": "sairíamos",
+    "2p": "sairíeis",
+    "3p": "sairiam"
+  },
+  "PresC": {
+    "1s": "saia",
+    "2s": "saias",
+    "3s": "saia",
+    "1p": "saiamos",
+    "2p": "saiais",
+    "3p": "saiam"
+  },
+  "PImpC": {
+    "1s": "saísse",
+    "2s": "saísses",
+    "3s": "saísse",
+    "1p": "saíssemos",
+    "2p": "saísseis",
+    "3p": "saíssem"
+  },
+  "FutSC": {
+    "1s": "sair",
+    "2s": "saíres",
+    "3s": "sair",
+    "1p": "sairmos",
+    "2p": "sairdes",
+    "3p": "saírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sai",
+    "3s": "saia",
+    "1p": "saiamos",
+    "2p": "saí",
+    "3p": "saiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saias",
+    "3s": "não saia",
+    "1p": "não saiamos",
+    "2p": "não saiais",
+    "3p": "não saiam"
+  },
+  "Part-ter": {
+    "": "saído"
+  },
+  "Part-ser": {
+    "ms": "saído",
+    "fs": "saída",
+    "mp": "saídos",
+    "fp": "saídas"
+  }
+}

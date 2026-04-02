@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fundar"
+  },
+  "InfP": {
+    "1s": "fundar",
+    "2s": "fundares",
+    "3s": "fundar",
+    "1p": "fundarmos",
+    "2p": "fundardes",
+    "3p": "fundarem"
+  },
+  "Ger": {
+    "": "fundando"
+  },
+  "PresI": {
+    "1s": "fundo",
+    "2s": "fundas",
+    "3s": "funda",
+    "1p": "fundamos",
+    "2p": "fundais",
+    "3p": "fundam"
+  },
+  "PImpI": {
+    "1s": "fundava",
+    "2s": "fundavas",
+    "3s": "fundava",
+    "1p": "fundávamos",
+    "2p": "fundáveis",
+    "3p": "fundavam"
+  },
+  "PPSI": {
+    "1s": "fundei",
+    "2s": "fundaste",
+    "3s": "fundou",
+    "1p": "fundámos",
+    "2p": "fundastes",
+    "3p": "fundaram"
+  },
+  "PMQPSI": {
+    "1s": "fundara",
+    "2s": "fundaras",
+    "3s": "fundara",
+    "1p": "fundáramos",
+    "2p": "fundáreis",
+    "3p": "fundaram"
+  },
+  "FutSI": {
+    "1s": "fundarei",
+    "2s": "fundarás",
+    "3s": "fundará",
+    "1p": "fundaremos",
+    "2p": "fundareis",
+    "3p": "fundarão"
+  },
+  "CondS": {
+    "1s": "fundaria",
+    "2s": "fundarias",
+    "3s": "fundaria",
+    "1p": "fundaríamos",
+    "2p": "fundaríeis",
+    "3p": "fundariam"
+  },
+  "PresC": {
+    "1s": "funde",
+    "2s": "fundes",
+    "3s": "funde",
+    "1p": "fundemos",
+    "2p": "fundeis",
+    "3p": "fundem"
+  },
+  "PImpC": {
+    "1s": "fundasse",
+    "2s": "fundasses",
+    "3s": "fundasse",
+    "1p": "fundássemos",
+    "2p": "fundásseis",
+    "3p": "fundassem"
+  },
+  "FutSC": {
+    "1s": "fundar",
+    "2s": "fundares",
+    "3s": "fundar",
+    "1p": "fundarmos",
+    "2p": "fundardes",
+    "3p": "fundarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "funda",
+    "3s": "funde",
+    "1p": "fundemos",
+    "2p": "fundai",
+    "3p": "fundem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fundes",
+    "3s": "não funde",
+    "1p": "não fundemos",
+    "2p": "não fundeis",
+    "3p": "não fundem"
+  },
+  "Part-ter": {
+    "": "fundado"
+  },
+  "Part-ser": {
+    "ms": "fundado",
+    "fs": "fundada",
+    "mp": "fundados",
+    "fp": "fundadas"
+  }
+}

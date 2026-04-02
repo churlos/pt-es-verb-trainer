@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inundar"
+  },
+  "Ger": {
+    "": "inundando"
+  },
+  "PresI": {
+    "1s": "inundo",
+    "2s": "inundas",
+    "3s": "inunda",
+    "1p": "inundamos",
+    "2p": "inundáis",
+    "3p": "inundan"
+  },
+  "PImpI": {
+    "1s": "inundaba",
+    "2s": "inundabas",
+    "3s": "inundaba",
+    "1p": "inundábamos",
+    "2p": "inundabais",
+    "3p": "inundaban"
+  },
+  "PPSI": {
+    "1s": "inundé",
+    "2s": "inundaste",
+    "3s": "inundó",
+    "1p": "inundamos",
+    "2p": "inundasteis",
+    "3p": "inundaron"
+  },
+  "FutSI": {
+    "1s": "inundaré",
+    "2s": "inundarás",
+    "3s": "inundará",
+    "1p": "inundaremos",
+    "2p": "inundaréis",
+    "3p": "inundarán"
+  },
+  "CondS": {
+    "1s": "inundaría",
+    "2s": "inundarías",
+    "3s": "inundaría",
+    "1p": "inundaríamos",
+    "2p": "inundaríais",
+    "3p": "inundarían"
+  },
+  "PresC": {
+    "1s": "inunde",
+    "2s": "inundes",
+    "3s": "inunde",
+    "1p": "inundemos",
+    "2p": "inundéis",
+    "3p": "inunden"
+  },
+  "PMQPSI": {
+    "1s": "inundara",
+    "2s": "inundaras",
+    "3s": "inundara",
+    "1p": "inundáramos",
+    "2p": "inundarais",
+    "3p": "inundaran"
+  },
+  "PImpC": {
+    "1s": "inundase",
+    "2s": "inundases",
+    "3s": "inundase",
+    "1p": "inundásemos",
+    "2p": "inundaseis",
+    "3p": "inundasen"
+  },
+  "FutSC": {
+    "1s": "inundare",
+    "2s": "inundares",
+    "3s": "inundare",
+    "1p": "inundáremos",
+    "2p": "inundareis",
+    "3p": "inundaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inunda",
+    "3s": "inunde",
+    "1p": "inundemos",
+    "2p": "inundad",
+    "3p": "inunden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inundes",
+    "3s": "no inunde",
+    "1p": "no inundemos",
+    "2p": "no inundéis",
+    "3p": "no inunden"
+  },
+  "Part-ter": {
+    "": "inundado"
+  },
+  "Part-ser": {
+    "ms": "inundado",
+    "fs": "inundada",
+    "mp": "inundados",
+    "fp": "inundadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sinterizar"
+  },
+  "InfP": {
+    "1s": "sinterizar",
+    "2s": "sinterizares",
+    "3s": "sinterizar",
+    "1p": "sinterizarmos",
+    "2p": "sinterizardes",
+    "3p": "sinterizarem"
+  },
+  "Ger": {
+    "": "sinterizando"
+  },
+  "PresI": {
+    "1s": "sinterizo",
+    "2s": "sinterizas",
+    "3s": "sinteriza",
+    "1p": "sinterizamos",
+    "2p": "sinterizais",
+    "3p": "sinterizam"
+  },
+  "PImpI": {
+    "1s": "sinterizava",
+    "2s": "sinterizavas",
+    "3s": "sinterizava",
+    "1p": "sinterizávamos",
+    "2p": "sinterizáveis",
+    "3p": "sinterizavam"
+  },
+  "PPSI": {
+    "1s": "sinterizei",
+    "2s": "sinterizaste",
+    "3s": "sinterizou",
+    "1p": "sinterizámos",
+    "2p": "sinterizastes",
+    "3p": "sinterizaram"
+  },
+  "PMQPSI": {
+    "1s": "sinterizara",
+    "2s": "sinterizaras",
+    "3s": "sinterizara",
+    "1p": "sinterizáramos",
+    "2p": "sinterizáreis",
+    "3p": "sinterizaram"
+  },
+  "FutSI": {
+    "1s": "sinterizarei",
+    "2s": "sinterizarás",
+    "3s": "sinterizará",
+    "1p": "sinterizaremos",
+    "2p": "sinterizareis",
+    "3p": "sinterizarão"
+  },
+  "CondS": {
+    "1s": "sinterizaria",
+    "2s": "sinterizarias",
+    "3s": "sinterizaria",
+    "1p": "sinterizaríamos",
+    "2p": "sinterizaríeis",
+    "3p": "sinterizariam"
+  },
+  "PresC": {
+    "1s": "sinterize",
+    "2s": "sinterizes",
+    "3s": "sinterize",
+    "1p": "sinterizemos",
+    "2p": "sinterizeis",
+    "3p": "sinterizem"
+  },
+  "PImpC": {
+    "1s": "sinterizasse",
+    "2s": "sinterizasses",
+    "3s": "sinterizasse",
+    "1p": "sinterizássemos",
+    "2p": "sinterizásseis",
+    "3p": "sinterizassem"
+  },
+  "FutSC": {
+    "1s": "sinterizar",
+    "2s": "sinterizares",
+    "3s": "sinterizar",
+    "1p": "sinterizarmos",
+    "2p": "sinterizardes",
+    "3p": "sinterizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sinteriza",
+    "3s": "sinterize",
+    "1p": "sinterizemos",
+    "2p": "sinterizai",
+    "3p": "sinterizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sinterizes",
+    "3s": "não sinterize",
+    "1p": "não sinterizemos",
+    "2p": "não sinterizeis",
+    "3p": "não sinterizem"
+  },
+  "Part-ter": {
+    "": "sinterizado"
+  },
+  "Part-ser": {
+    "ms": "sinterizado",
+    "fs": "sinterizada",
+    "mp": "sinterizados",
+    "fp": "sinterizadas"
+  }
+}

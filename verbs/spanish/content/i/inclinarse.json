@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inclinarse"
+  },
+  "Ger": {
+    "": "inclinándose"
+  },
+  "PresI": {
+    "1s": "me inclino",
+    "2s": "te inclinas",
+    "3s": "se inclina",
+    "1p": "nos inclinamos",
+    "2p": "os inclináis",
+    "3p": "se inclinan"
+  },
+  "PImpI": {
+    "1s": "me inclinaba",
+    "2s": "te inclinabas",
+    "3s": "se inclinaba",
+    "1p": "nos inclinábamos",
+    "2p": "os inclinabais",
+    "3p": "se inclinaban"
+  },
+  "PPSI": {
+    "1s": "me incliné",
+    "2s": "te inclinaste",
+    "3s": "se inclinó",
+    "1p": "nos inclinamos",
+    "2p": "os inclinasteis",
+    "3p": "se inclinaron"
+  },
+  "FutSI": {
+    "1s": "me inclinaré",
+    "2s": "te inclinarás",
+    "3s": "se inclinará",
+    "1p": "nos inclinaremos",
+    "2p": "os inclinaréis",
+    "3p": "se inclinarán"
+  },
+  "CondS": {
+    "1s": "me inclinaría",
+    "2s": "te inclinarías",
+    "3s": "se inclinaría",
+    "1p": "nos inclinaríamos",
+    "2p": "os inclinaríais",
+    "3p": "se inclinarían"
+  },
+  "PresC": {
+    "1s": "me incline",
+    "2s": "te inclines",
+    "3s": "se incline",
+    "1p": "nos inclinemos",
+    "2p": "os inclinéis",
+    "3p": "se inclinen"
+  },
+  "PMQPSI": {
+    "1s": "me inclinara",
+    "2s": "te inclinaras",
+    "3s": "se inclinara",
+    "1p": "nos inclináramos",
+    "2p": "os inclinarais",
+    "3p": "se inclinaran"
+  },
+  "PImpC": {
+    "1s": "me inclinase",
+    "2s": "te inclinases",
+    "3s": "se inclinase",
+    "1p": "nos inclinásemos",
+    "2p": "os inclinaseis",
+    "3p": "se inclinasen"
+  },
+  "FutSC": {
+    "1s": "me inclinare",
+    "2s": "te inclinares",
+    "3s": "se inclinare",
+    "1p": "nos inclináremos",
+    "2p": "os inclinareis",
+    "3p": "se inclinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inclínate",
+    "3s": "inclínese",
+    "1p": "inclinémonos",
+    "2p": "inclinaos",
+    "3p": "inclínense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te inclines",
+    "3s": "no se incline",
+    "1p": "no nos inclinemos",
+    "2p": "no os inclinéis",
+    "3p": "no se inclinen"
+  },
+  "Part-ter": {
+    "": "inclinado"
+  },
+  "Part-ser": {
+    "ms": "inclinado",
+    "fs": "inclinada",
+    "mp": "inclinados",
+    "fp": "inclinadas"
+  }
+}

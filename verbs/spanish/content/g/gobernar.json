@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gobernar"
+  },
+  "Ger": {
+    "": "gobernando"
+  },
+  "PresI": {
+    "1s": "gobierno",
+    "2s": "gobiernas",
+    "3s": "gobierna",
+    "1p": "gobernamos",
+    "2p": "gobernáis",
+    "3p": "gobiernan"
+  },
+  "PImpI": {
+    "1s": "gobernaba",
+    "2s": "gobernabas",
+    "3s": "gobernaba",
+    "1p": "gobernábamos",
+    "2p": "gobernabais",
+    "3p": "gobernaban"
+  },
+  "PPSI": {
+    "1s": "goberné",
+    "2s": "gobernaste",
+    "3s": "gobernó",
+    "1p": "gobernamos",
+    "2p": "gobernasteis",
+    "3p": "gobernaron"
+  },
+  "FutSI": {
+    "1s": "gobernaré",
+    "2s": "gobernarás",
+    "3s": "gobernará",
+    "1p": "gobernaremos",
+    "2p": "gobernaréis",
+    "3p": "gobernarán"
+  },
+  "CondS": {
+    "1s": "gobernaría",
+    "2s": "gobernarías",
+    "3s": "gobernaría",
+    "1p": "gobernaríamos",
+    "2p": "gobernaríais",
+    "3p": "gobernarían"
+  },
+  "PresC": {
+    "1s": "gobierne",
+    "2s": "gobiernes",
+    "3s": "gobierne",
+    "1p": "gobernemos",
+    "2p": "gobernéis",
+    "3p": "gobiernen"
+  },
+  "PMQPSI": {
+    "1s": "gobernara",
+    "2s": "gobernaras",
+    "3s": "gobernara",
+    "1p": "gobernáramos",
+    "2p": "gobernarais",
+    "3p": "gobernaran"
+  },
+  "PImpC": {
+    "1s": "gobernase",
+    "2s": "gobernases",
+    "3s": "gobernase",
+    "1p": "gobernásemos",
+    "2p": "gobernaseis",
+    "3p": "gobernasen"
+  },
+  "FutSC": {
+    "1s": "gobernare",
+    "2s": "gobernares",
+    "3s": "gobernare",
+    "1p": "gobernáremos",
+    "2p": "gobernareis",
+    "3p": "gobernaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gobierna",
+    "3s": "gobierne",
+    "1p": "gobernemos",
+    "2p": "gobernad",
+    "3p": "gobiernen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gobiernes",
+    "3s": "no gobierne",
+    "1p": "no gobernemos",
+    "2p": "no gobernéis",
+    "3p": "no gobiernen"
+  },
+  "Part-ter": {
+    "": "gobernado"
+  },
+  "Part-ser": {
+    "ms": "gobernado",
+    "fs": "gobernada",
+    "mp": "gobernados",
+    "fp": "gobernadas"
+  }
+}

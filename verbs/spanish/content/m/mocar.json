@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mocar"
+  },
+  "Ger": {
+    "": "mocando"
+  },
+  "PresI": {
+    "1s": "moco",
+    "2s": "mocas",
+    "3s": "moca",
+    "1p": "mocamos",
+    "2p": "mocáis",
+    "3p": "mocan"
+  },
+  "PImpI": {
+    "1s": "mocaba",
+    "2s": "mocabas",
+    "3s": "mocaba",
+    "1p": "mocábamos",
+    "2p": "mocabais",
+    "3p": "mocaban"
+  },
+  "PPSI": {
+    "1s": "moqué",
+    "2s": "mocaste",
+    "3s": "mocó",
+    "1p": "mocamos",
+    "2p": "mocasteis",
+    "3p": "mocaron"
+  },
+  "FutSI": {
+    "1s": "mocaré",
+    "2s": "mocarás",
+    "3s": "mocará",
+    "1p": "mocaremos",
+    "2p": "mocaréis",
+    "3p": "mocarán"
+  },
+  "CondS": {
+    "1s": "mocaría",
+    "2s": "mocarías",
+    "3s": "mocaría",
+    "1p": "mocaríamos",
+    "2p": "mocaríais",
+    "3p": "mocarían"
+  },
+  "PresC": {
+    "1s": "moque",
+    "2s": "moques",
+    "3s": "moque",
+    "1p": "moquemos",
+    "2p": "moquéis",
+    "3p": "moquen"
+  },
+  "PMQPSI": {
+    "1s": "mocara",
+    "2s": "mocaras",
+    "3s": "mocara",
+    "1p": "mocáramos",
+    "2p": "mocarais",
+    "3p": "mocaran"
+  },
+  "PImpC": {
+    "1s": "mocase",
+    "2s": "mocases",
+    "3s": "mocase",
+    "1p": "mocásemos",
+    "2p": "mocaseis",
+    "3p": "mocasen"
+  },
+  "FutSC": {
+    "1s": "mocare",
+    "2s": "mocares",
+    "3s": "mocare",
+    "1p": "mocáremos",
+    "2p": "mocareis",
+    "3p": "mocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "moca",
+    "3s": "moque",
+    "1p": "moquemos",
+    "2p": "mocad",
+    "3p": "moquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no moques",
+    "3s": "no moque",
+    "1p": "no moquemos",
+    "2p": "no moquéis",
+    "3p": "no moquen"
+  },
+  "Part-ter": {
+    "": "mocado"
+  },
+  "Part-ser": {
+    "ms": "mocado",
+    "fs": "mocada",
+    "mp": "mocados",
+    "fp": "mocadas"
+  }
+}

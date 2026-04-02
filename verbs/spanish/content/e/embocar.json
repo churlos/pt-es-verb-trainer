@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "embocar"
+  },
+  "Ger": {
+    "": "embocando"
+  },
+  "PresI": {
+    "1s": "emboco",
+    "2s": "embocas",
+    "3s": "emboca",
+    "1p": "embocamos",
+    "2p": "embocáis",
+    "3p": "embocan"
+  },
+  "PImpI": {
+    "1s": "embocaba",
+    "2s": "embocabas",
+    "3s": "embocaba",
+    "1p": "embocábamos",
+    "2p": "embocabais",
+    "3p": "embocaban"
+  },
+  "PPSI": {
+    "1s": "emboqué",
+    "2s": "embocaste",
+    "3s": "embocó",
+    "1p": "embocamos",
+    "2p": "embocasteis",
+    "3p": "embocaron"
+  },
+  "FutSI": {
+    "1s": "embocaré",
+    "2s": "embocarás",
+    "3s": "embocará",
+    "1p": "embocaremos",
+    "2p": "embocaréis",
+    "3p": "embocarán"
+  },
+  "CondS": {
+    "1s": "embocaría",
+    "2s": "embocarías",
+    "3s": "embocaría",
+    "1p": "embocaríamos",
+    "2p": "embocaríais",
+    "3p": "embocarían"
+  },
+  "PresC": {
+    "1s": "emboque",
+    "2s": "emboques",
+    "3s": "emboque",
+    "1p": "emboquemos",
+    "2p": "emboquéis",
+    "3p": "emboquen"
+  },
+  "PMQPSI": {
+    "1s": "embocara",
+    "2s": "embocaras",
+    "3s": "embocara",
+    "1p": "embocáramos",
+    "2p": "embocarais",
+    "3p": "embocaran"
+  },
+  "PImpC": {
+    "1s": "embocase",
+    "2s": "embocases",
+    "3s": "embocase",
+    "1p": "embocásemos",
+    "2p": "embocaseis",
+    "3p": "embocasen"
+  },
+  "FutSC": {
+    "1s": "embocare",
+    "2s": "embocares",
+    "3s": "embocare",
+    "1p": "embocáremos",
+    "2p": "embocareis",
+    "3p": "embocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emboca",
+    "3s": "emboque",
+    "1p": "emboquemos",
+    "2p": "embocad",
+    "3p": "emboquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no emboques",
+    "3s": "no emboque",
+    "1p": "no emboquemos",
+    "2p": "no emboquéis",
+    "3p": "no emboquen"
+  },
+  "Part-ter": {
+    "": "embocado"
+  },
+  "Part-ser": {
+    "ms": "embocado",
+    "fs": "embocada",
+    "mp": "embocados",
+    "fp": "embocadas"
+  }
+}

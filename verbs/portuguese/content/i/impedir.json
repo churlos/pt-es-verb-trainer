@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "impedir"
+  },
+  "InfP": {
+    "1s": "impedir",
+    "2s": "impedires",
+    "3s": "impedir",
+    "1p": "impedirmos",
+    "2p": "impedirdes",
+    "3p": "impedirem"
+  },
+  "Ger": {
+    "": "impedindo"
+  },
+  "PresI": {
+    "1s": "impeço",
+    "2s": "impedes",
+    "3s": "impede",
+    "1p": "impedimos",
+    "2p": "impedis",
+    "3p": "impedem"
+  },
+  "PImpI": {
+    "1s": "impedia",
+    "2s": "impedias",
+    "3s": "impedia",
+    "1p": "impedíamos",
+    "2p": "impedíeis",
+    "3p": "impediam"
+  },
+  "PPSI": {
+    "1s": "impedi",
+    "2s": "impediste",
+    "3s": "impediu",
+    "1p": "impedimos",
+    "2p": "impedistes",
+    "3p": "impediram"
+  },
+  "PMQPSI": {
+    "1s": "impedira",
+    "2s": "impediras",
+    "3s": "impedira",
+    "1p": "impedíramos",
+    "2p": "impedíreis",
+    "3p": "impediram"
+  },
+  "FutSI": {
+    "1s": "impedirei",
+    "2s": "impedirás",
+    "3s": "impedirá",
+    "1p": "impediremos",
+    "2p": "impedireis",
+    "3p": "impedirão"
+  },
+  "CondS": {
+    "1s": "impediria",
+    "2s": "impedirias",
+    "3s": "impediria",
+    "1p": "impediríamos",
+    "2p": "impediríeis",
+    "3p": "impediriam"
+  },
+  "PresC": {
+    "1s": "impeça",
+    "2s": "impeças",
+    "3s": "impeça",
+    "1p": "impeçamos",
+    "2p": "impeçais",
+    "3p": "impeçam"
+  },
+  "PImpC": {
+    "1s": "impedisse",
+    "2s": "impedisses",
+    "3s": "impedisse",
+    "1p": "impedíssemos",
+    "2p": "impedísseis",
+    "3p": "impedissem"
+  },
+  "FutSC": {
+    "1s": "impedir",
+    "2s": "impedires",
+    "3s": "impedir",
+    "1p": "impedirmos",
+    "2p": "impedirdes",
+    "3p": "impedirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "impede",
+    "3s": "impeça",
+    "1p": "impeçamos",
+    "2p": "impedi",
+    "3p": "impeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não impeças",
+    "3s": "não impeça",
+    "1p": "não impeçamos",
+    "2p": "não impeçais",
+    "3p": "não impeçam"
+  },
+  "Part-ter": {
+    "": "impedido"
+  },
+  "Part-ser": {
+    "ms": "impedido",
+    "fs": "impedida",
+    "mp": "impedidos",
+    "fp": "impedidas"
+  }
+}

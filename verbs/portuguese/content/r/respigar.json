@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "respigar"
+  },
+  "InfP": {
+    "1s": "respigar",
+    "2s": "respigares",
+    "3s": "respigar",
+    "1p": "respigarmos",
+    "2p": "respigardes",
+    "3p": "respigarem"
+  },
+  "Ger": {
+    "": "respigando"
+  },
+  "PresI": {
+    "1s": "respigo",
+    "2s": "respigas",
+    "3s": "respiga",
+    "1p": "respigamos",
+    "2p": "respigais",
+    "3p": "respigam"
+  },
+  "PImpI": {
+    "1s": "respigava",
+    "2s": "respigavas",
+    "3s": "respigava",
+    "1p": "respigávamos",
+    "2p": "respigáveis",
+    "3p": "respigavam"
+  },
+  "PPSI": {
+    "1s": "respiguei",
+    "2s": "respigaste",
+    "3s": "respigou",
+    "1p": "respigámos",
+    "2p": "respigastes",
+    "3p": "respigaram"
+  },
+  "PMQPSI": {
+    "1s": "respigara",
+    "2s": "respigaras",
+    "3s": "respigara",
+    "1p": "respigáramos",
+    "2p": "respigáreis",
+    "3p": "respigaram"
+  },
+  "FutSI": {
+    "1s": "respigarei",
+    "2s": "respigarás",
+    "3s": "respigará",
+    "1p": "respigaremos",
+    "2p": "respigareis",
+    "3p": "respigarão"
+  },
+  "CondS": {
+    "1s": "respigaria",
+    "2s": "respigarias",
+    "3s": "respigaria",
+    "1p": "respigaríamos",
+    "2p": "respigaríeis",
+    "3p": "respigariam"
+  },
+  "PresC": {
+    "1s": "respigue",
+    "2s": "respigues",
+    "3s": "respigue",
+    "1p": "respiguemos",
+    "2p": "respigueis",
+    "3p": "respiguem"
+  },
+  "PImpC": {
+    "1s": "respigasse",
+    "2s": "respigasses",
+    "3s": "respigasse",
+    "1p": "respigássemos",
+    "2p": "respigásseis",
+    "3p": "respigassem"
+  },
+  "FutSC": {
+    "1s": "respigar",
+    "2s": "respigares",
+    "3s": "respigar",
+    "1p": "respigarmos",
+    "2p": "respigardes",
+    "3p": "respigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "respiga",
+    "3s": "respigue",
+    "1p": "respiguemos",
+    "2p": "respigai",
+    "3p": "respiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não respigues",
+    "3s": "não respigue",
+    "1p": "não respiguemos",
+    "2p": "não respigueis",
+    "3p": "não respiguem"
+  },
+  "Part-ter": {
+    "": "respigado"
+  },
+  "Part-ser": {
+    "ms": "respigado",
+    "fs": "respigada",
+    "mp": "respigados",
+    "fp": "respigadas"
+  }
+}

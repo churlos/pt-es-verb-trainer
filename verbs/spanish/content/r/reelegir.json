@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reelegir"
+  },
+  "Ger": {
+    "": "reeligiendo"
+  },
+  "PresI": {
+    "1s": "reelijo",
+    "2s": "reeliges",
+    "3s": "reelige",
+    "1p": "reelegimos",
+    "2p": "reelegís",
+    "3p": "reeligen"
+  },
+  "PImpI": {
+    "1s": "reelegía",
+    "2s": "reelegías",
+    "3s": "reelegía",
+    "1p": "reelegíamos",
+    "2p": "reelegíais",
+    "3p": "reelegían"
+  },
+  "PPSI": {
+    "1s": "reelegí",
+    "2s": "reelegiste",
+    "3s": "reeligió",
+    "1p": "reelegimos",
+    "2p": "reelegisteis",
+    "3p": "reeligieron"
+  },
+  "FutSI": {
+    "1s": "reelegiré",
+    "2s": "reelegirás",
+    "3s": "reelegirá",
+    "1p": "reelegiremos",
+    "2p": "reelegiréis",
+    "3p": "reelegirán"
+  },
+  "CondS": {
+    "1s": "reelegiría",
+    "2s": "reelegirías",
+    "3s": "reelegiría",
+    "1p": "reelegiríamos",
+    "2p": "reelegiríais",
+    "3p": "reelegirían"
+  },
+  "PresC": {
+    "1s": "reelija",
+    "2s": "reelijas",
+    "3s": "reelija",
+    "1p": "reelijamos",
+    "2p": "reelijáis",
+    "3p": "reelijan"
+  },
+  "PMQPSI": {
+    "1s": "reeligiera",
+    "2s": "reeligieras",
+    "3s": "reeligiera",
+    "1p": "reeligiéramos",
+    "2p": "reeligierais",
+    "3p": "reeligieran"
+  },
+  "PImpC": {
+    "1s": "reeligiese",
+    "2s": "reeligieses",
+    "3s": "reeligiese",
+    "1p": "reeligiésemos",
+    "2p": "reeligieseis",
+    "3p": "reeligiesen"
+  },
+  "FutSC": {
+    "1s": "reeligiere",
+    "2s": "reeligieres",
+    "3s": "reeligiere",
+    "1p": "reeligiéremos",
+    "2p": "reeligiereis",
+    "3p": "reeligieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reelige",
+    "3s": "reelija",
+    "1p": "reelijamos",
+    "2p": "reelegid",
+    "3p": "reelijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reelijas",
+    "3s": "no reelija",
+    "1p": "no reelijamos",
+    "2p": "no reelijáis",
+    "3p": "no reelijan"
+  },
+  "Part-ter": {
+    "": "reelegido, reelecto"
+  },
+  "Part-ser": {
+    "ms": "reelegido, reelecto",
+    "fs": "reelegida, reelecta",
+    "mp": "reelegidos, reelectos",
+    "fp": "reelegidas, reelectas"
+  }
+}

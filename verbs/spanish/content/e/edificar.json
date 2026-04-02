@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "edificar"
+  },
+  "Ger": {
+    "": "edificando"
+  },
+  "PresI": {
+    "1s": "edifico",
+    "2s": "edificas",
+    "3s": "edifica",
+    "1p": "edificamos",
+    "2p": "edificáis",
+    "3p": "edifican"
+  },
+  "PImpI": {
+    "1s": "edificaba",
+    "2s": "edificabas",
+    "3s": "edificaba",
+    "1p": "edificábamos",
+    "2p": "edificabais",
+    "3p": "edificaban"
+  },
+  "PPSI": {
+    "1s": "edifiqué",
+    "2s": "edificaste",
+    "3s": "edificó",
+    "1p": "edificamos",
+    "2p": "edificasteis",
+    "3p": "edificaron"
+  },
+  "FutSI": {
+    "1s": "edificaré",
+    "2s": "edificarás",
+    "3s": "edificará",
+    "1p": "edificaremos",
+    "2p": "edificaréis",
+    "3p": "edificarán"
+  },
+  "CondS": {
+    "1s": "edificaría",
+    "2s": "edificarías",
+    "3s": "edificaría",
+    "1p": "edificaríamos",
+    "2p": "edificaríais",
+    "3p": "edificarían"
+  },
+  "PresC": {
+    "1s": "edifique",
+    "2s": "edifiques",
+    "3s": "edifique",
+    "1p": "edifiquemos",
+    "2p": "edifiquéis",
+    "3p": "edifiquen"
+  },
+  "PMQPSI": {
+    "1s": "edificara",
+    "2s": "edificaras",
+    "3s": "edificara",
+    "1p": "edificáramos",
+    "2p": "edificarais",
+    "3p": "edificaran"
+  },
+  "PImpC": {
+    "1s": "edificase",
+    "2s": "edificases",
+    "3s": "edificase",
+    "1p": "edificásemos",
+    "2p": "edificaseis",
+    "3p": "edificasen"
+  },
+  "FutSC": {
+    "1s": "edificare",
+    "2s": "edificares",
+    "3s": "edificare",
+    "1p": "edificáremos",
+    "2p": "edificareis",
+    "3p": "edificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "edifica",
+    "3s": "edifique",
+    "1p": "edifiquemos",
+    "2p": "edificad",
+    "3p": "edifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no edifiques",
+    "3s": "no edifique",
+    "1p": "no edifiquemos",
+    "2p": "no edifiquéis",
+    "3p": "no edifiquen"
+  },
+  "Part-ter": {
+    "": "edificado"
+  },
+  "Part-ser": {
+    "ms": "edificado",
+    "fs": "edificada",
+    "mp": "edificados",
+    "fp": "edificadas"
+  }
+}

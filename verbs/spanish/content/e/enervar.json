@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enervar"
+  },
+  "Ger": {
+    "": "enervando"
+  },
+  "PresI": {
+    "1s": "enervo",
+    "2s": "enervas",
+    "3s": "enerva",
+    "1p": "enervamos",
+    "2p": "enerváis",
+    "3p": "enervan"
+  },
+  "PImpI": {
+    "1s": "enervaba",
+    "2s": "enervabas",
+    "3s": "enervaba",
+    "1p": "enervábamos",
+    "2p": "enervabais",
+    "3p": "enervaban"
+  },
+  "PPSI": {
+    "1s": "enervé",
+    "2s": "enervaste",
+    "3s": "enervó",
+    "1p": "enervamos",
+    "2p": "enervasteis",
+    "3p": "enervaron"
+  },
+  "FutSI": {
+    "1s": "enervaré",
+    "2s": "enervarás",
+    "3s": "enervará",
+    "1p": "enervaremos",
+    "2p": "enervaréis",
+    "3p": "enervarán"
+  },
+  "CondS": {
+    "1s": "enervaría",
+    "2s": "enervarías",
+    "3s": "enervaría",
+    "1p": "enervaríamos",
+    "2p": "enervaríais",
+    "3p": "enervarían"
+  },
+  "PresC": {
+    "1s": "enerve",
+    "2s": "enerves",
+    "3s": "enerve",
+    "1p": "enervemos",
+    "2p": "enervéis",
+    "3p": "enerven"
+  },
+  "PMQPSI": {
+    "1s": "enervara",
+    "2s": "enervaras",
+    "3s": "enervara",
+    "1p": "enerváramos",
+    "2p": "enervarais",
+    "3p": "enervaran"
+  },
+  "PImpC": {
+    "1s": "enervase",
+    "2s": "enervases",
+    "3s": "enervase",
+    "1p": "enervásemos",
+    "2p": "enervaseis",
+    "3p": "enervasen"
+  },
+  "FutSC": {
+    "1s": "enervare",
+    "2s": "enervares",
+    "3s": "enervare",
+    "1p": "enerváremos",
+    "2p": "enervareis",
+    "3p": "enervaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enerva",
+    "3s": "enerve",
+    "1p": "enervemos",
+    "2p": "enervad",
+    "3p": "enerven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enerves",
+    "3s": "no enerve",
+    "1p": "no enervemos",
+    "2p": "no enervéis",
+    "3p": "no enerven"
+  },
+  "Part-ter": {
+    "": "enervado"
+  },
+  "Part-ser": {
+    "ms": "enervado",
+    "fs": "enervada",
+    "mp": "enervados",
+    "fp": "enervadas"
+  }
+}

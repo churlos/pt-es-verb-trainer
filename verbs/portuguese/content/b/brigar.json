@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "brigar"
+  },
+  "InfP": {
+    "1s": "brigar",
+    "2s": "brigares",
+    "3s": "brigar",
+    "1p": "brigarmos",
+    "2p": "brigardes",
+    "3p": "brigarem"
+  },
+  "Ger": {
+    "": "brigando"
+  },
+  "PresI": {
+    "1s": "brigo",
+    "2s": "brigas",
+    "3s": "briga",
+    "1p": "brigamos",
+    "2p": "brigais",
+    "3p": "brigam"
+  },
+  "PImpI": {
+    "1s": "brigava",
+    "2s": "brigavas",
+    "3s": "brigava",
+    "1p": "brigávamos",
+    "2p": "brigáveis",
+    "3p": "brigavam"
+  },
+  "PPSI": {
+    "1s": "briguei",
+    "2s": "brigaste",
+    "3s": "brigou",
+    "1p": "brigámos",
+    "2p": "brigastes",
+    "3p": "brigaram"
+  },
+  "PMQPSI": {
+    "1s": "brigara",
+    "2s": "brigaras",
+    "3s": "brigara",
+    "1p": "brigáramos",
+    "2p": "brigáreis",
+    "3p": "brigaram"
+  },
+  "FutSI": {
+    "1s": "brigarei",
+    "2s": "brigarás",
+    "3s": "brigará",
+    "1p": "brigaremos",
+    "2p": "brigareis",
+    "3p": "brigarão"
+  },
+  "CondS": {
+    "1s": "brigaria",
+    "2s": "brigarias",
+    "3s": "brigaria",
+    "1p": "brigaríamos",
+    "2p": "brigaríeis",
+    "3p": "brigariam"
+  },
+  "PresC": {
+    "1s": "brigue",
+    "2s": "brigues",
+    "3s": "brigue",
+    "1p": "briguemos",
+    "2p": "brigueis",
+    "3p": "briguem"
+  },
+  "PImpC": {
+    "1s": "brigasse",
+    "2s": "brigasses",
+    "3s": "brigasse",
+    "1p": "brigássemos",
+    "2p": "brigásseis",
+    "3p": "brigassem"
+  },
+  "FutSC": {
+    "1s": "brigar",
+    "2s": "brigares",
+    "3s": "brigar",
+    "1p": "brigarmos",
+    "2p": "brigardes",
+    "3p": "brigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "briga",
+    "3s": "brigue",
+    "1p": "briguemos",
+    "2p": "brigai",
+    "3p": "briguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não brigues",
+    "3s": "não brigue",
+    "1p": "não briguemos",
+    "2p": "não brigueis",
+    "3p": "não briguem"
+  },
+  "Part-ter": {
+    "": "brigado"
+  },
+  "Part-ser": {
+    "ms": "brigado",
+    "fs": "brigada",
+    "mp": "brigados",
+    "fp": "brigadas"
+  }
+}

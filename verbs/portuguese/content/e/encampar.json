@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encampar"
+  },
+  "InfP": {
+    "1s": "encampar",
+    "2s": "encampares",
+    "3s": "encampar",
+    "1p": "encamparmos",
+    "2p": "encampardes",
+    "3p": "encamparem"
+  },
+  "Ger": {
+    "": "encampando"
+  },
+  "PresI": {
+    "1s": "encampo",
+    "2s": "encampas",
+    "3s": "encampa",
+    "1p": "encampamos",
+    "2p": "encampais",
+    "3p": "encampam"
+  },
+  "PImpI": {
+    "1s": "encampava",
+    "2s": "encampavas",
+    "3s": "encampava",
+    "1p": "encampávamos",
+    "2p": "encampáveis",
+    "3p": "encampavam"
+  },
+  "PPSI": {
+    "1s": "encampei",
+    "2s": "encampaste",
+    "3s": "encampou",
+    "1p": "encampámos",
+    "2p": "encampastes",
+    "3p": "encamparam"
+  },
+  "PMQPSI": {
+    "1s": "encampara",
+    "2s": "encamparas",
+    "3s": "encampara",
+    "1p": "encampáramos",
+    "2p": "encampáreis",
+    "3p": "encamparam"
+  },
+  "FutSI": {
+    "1s": "encamparei",
+    "2s": "encamparás",
+    "3s": "encampará",
+    "1p": "encamparemos",
+    "2p": "encampareis",
+    "3p": "encamparão"
+  },
+  "CondS": {
+    "1s": "encamparia",
+    "2s": "encamparias",
+    "3s": "encamparia",
+    "1p": "encamparíamos",
+    "2p": "encamparíeis",
+    "3p": "encampariam"
+  },
+  "PresC": {
+    "1s": "encampe",
+    "2s": "encampes",
+    "3s": "encampe",
+    "1p": "encampemos",
+    "2p": "encampeis",
+    "3p": "encampem"
+  },
+  "PImpC": {
+    "1s": "encampasse",
+    "2s": "encampasses",
+    "3s": "encampasse",
+    "1p": "encampássemos",
+    "2p": "encampásseis",
+    "3p": "encampassem"
+  },
+  "FutSC": {
+    "1s": "encampar",
+    "2s": "encampares",
+    "3s": "encampar",
+    "1p": "encamparmos",
+    "2p": "encampardes",
+    "3p": "encamparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encampa",
+    "3s": "encampe",
+    "1p": "encampemos",
+    "2p": "encampai",
+    "3p": "encampem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encampes",
+    "3s": "não encampe",
+    "1p": "não encampemos",
+    "2p": "não encampeis",
+    "3p": "não encampem"
+  },
+  "Part-ter": {
+    "": "encampado"
+  },
+  "Part-ser": {
+    "ms": "encampado",
+    "fs": "encampada",
+    "mp": "encampados",
+    "fp": "encampadas"
+  }
+}

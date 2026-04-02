@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "envejecerse"
+  },
+  "Ger": {
+    "": "envejeciéndose"
+  },
+  "PresI": {
+    "1s": "me envejezco",
+    "2s": "te envejeces",
+    "3s": "se envejece",
+    "1p": "nos envejecemos",
+    "2p": "os envejecéis",
+    "3p": "se envejecen"
+  },
+  "PImpI": {
+    "1s": "me envejecía",
+    "2s": "te envejecías",
+    "3s": "se envejecía",
+    "1p": "nos envejecíamos",
+    "2p": "os envejecíais",
+    "3p": "se envejecían"
+  },
+  "PPSI": {
+    "1s": "me envejecí",
+    "2s": "te envejeciste",
+    "3s": "se envejeció",
+    "1p": "nos envejecimos",
+    "2p": "os envejecisteis",
+    "3p": "se envejecieron"
+  },
+  "FutSI": {
+    "1s": "me envejeceré",
+    "2s": "te envejecerás",
+    "3s": "se envejecerá",
+    "1p": "nos envejeceremos",
+    "2p": "os envejeceréis",
+    "3p": "se envejecerán"
+  },
+  "CondS": {
+    "1s": "me envejecería",
+    "2s": "te envejecerías",
+    "3s": "se envejecería",
+    "1p": "nos envejeceríamos",
+    "2p": "os envejeceríais",
+    "3p": "se envejecerían"
+  },
+  "PresC": {
+    "1s": "me envejezca",
+    "2s": "te envejezcas",
+    "3s": "se envejezca",
+    "1p": "nos envejezcamos",
+    "2p": "os envejezcáis",
+    "3p": "se envejezcan"
+  },
+  "PMQPSI": {
+    "1s": "me envejeciera",
+    "2s": "te envejecieras",
+    "3s": "se envejeciera",
+    "1p": "nos envejeciéramos",
+    "2p": "os envejecierais",
+    "3p": "se envejecieran"
+  },
+  "PImpC": {
+    "1s": "me envejeciese",
+    "2s": "te envejecieses",
+    "3s": "se envejeciese",
+    "1p": "nos envejeciésemos",
+    "2p": "os envejecieseis",
+    "3p": "se envejeciesen"
+  },
+  "FutSC": {
+    "1s": "me envejeciere",
+    "2s": "te envejecieres",
+    "3s": "se envejeciere",
+    "1p": "nos envejeciéremos",
+    "2p": "os envejeciereis",
+    "3p": "se envejecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envejécete",
+    "3s": "envejézcase",
+    "1p": "envejezcámonos",
+    "2p": "envejeceos",
+    "3p": "envejézcanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te envejezcas",
+    "3s": "no se envejezca",
+    "1p": "no nos envejezcamos",
+    "2p": "no os envejezcáis",
+    "3p": "no se envejezcan"
+  },
+  "Part-ter": {
+    "": "envejecido"
+  },
+  "Part-ser": {
+    "ms": "envejecido",
+    "fs": "envejecida",
+    "mp": "envejecidos",
+    "fp": "envejecidas"
+  }
+}

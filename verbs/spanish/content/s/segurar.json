@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "segurar"
+  },
+  "Ger": {
+    "": "segurando"
+  },
+  "PresI": {
+    "1s": "seguro",
+    "2s": "seguras",
+    "3s": "segura",
+    "1p": "seguramos",
+    "2p": "seguráis",
+    "3p": "seguran"
+  },
+  "PImpI": {
+    "1s": "seguraba",
+    "2s": "segurabas",
+    "3s": "seguraba",
+    "1p": "segurábamos",
+    "2p": "segurabais",
+    "3p": "seguraban"
+  },
+  "PPSI": {
+    "1s": "seguré",
+    "2s": "seguraste",
+    "3s": "seguró",
+    "1p": "seguramos",
+    "2p": "segurasteis",
+    "3p": "seguraron"
+  },
+  "FutSI": {
+    "1s": "seguraré",
+    "2s": "segurarás",
+    "3s": "segurará",
+    "1p": "seguraremos",
+    "2p": "seguraréis",
+    "3p": "segurarán"
+  },
+  "CondS": {
+    "1s": "seguraría",
+    "2s": "segurarías",
+    "3s": "seguraría",
+    "1p": "seguraríamos",
+    "2p": "seguraríais",
+    "3p": "segurarían"
+  },
+  "PresC": {
+    "1s": "segure",
+    "2s": "segures",
+    "3s": "segure",
+    "1p": "seguremos",
+    "2p": "seguréis",
+    "3p": "seguren"
+  },
+  "PMQPSI": {
+    "1s": "segurara",
+    "2s": "seguraras",
+    "3s": "segurara",
+    "1p": "seguráramos",
+    "2p": "segurarais",
+    "3p": "seguraran"
+  },
+  "PImpC": {
+    "1s": "segurase",
+    "2s": "segurases",
+    "3s": "segurase",
+    "1p": "segurásemos",
+    "2p": "seguraseis",
+    "3p": "segurasen"
+  },
+  "FutSC": {
+    "1s": "segurare",
+    "2s": "segurares",
+    "3s": "segurare",
+    "1p": "seguráremos",
+    "2p": "segurareis",
+    "3p": "seguraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segura",
+    "3s": "segure",
+    "1p": "seguremos",
+    "2p": "segurad",
+    "3p": "seguren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no segures",
+    "3s": "no segure",
+    "1p": "no seguremos",
+    "2p": "no seguréis",
+    "3p": "no seguren"
+  },
+  "Part-ter": {
+    "": "segurado"
+  },
+  "Part-ser": {
+    "ms": "segurado",
+    "fs": "segurada",
+    "mp": "segurados",
+    "fp": "seguradas"
+  }
+}

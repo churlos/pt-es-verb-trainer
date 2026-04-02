@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tacer"
+  },
+  "Ger": {
+    "": "taciendo"
+  },
+  "PresI": {
+    "1s": "tazco",
+    "2s": "taces",
+    "3s": "tace",
+    "1p": "tacemos",
+    "2p": "tacéis",
+    "3p": "tacen"
+  },
+  "PImpI": {
+    "1s": "tacía",
+    "2s": "tacías",
+    "3s": "tacía",
+    "1p": "tacíamos",
+    "2p": "tacíais",
+    "3p": "tacían"
+  },
+  "PPSI": {
+    "1s": "tací",
+    "2s": "taciste",
+    "3s": "tació",
+    "1p": "tacimos",
+    "2p": "tacisteis",
+    "3p": "tacieron"
+  },
+  "FutSI": {
+    "1s": "taceré",
+    "2s": "tacerás",
+    "3s": "tacerá",
+    "1p": "taceremos",
+    "2p": "taceréis",
+    "3p": "tacerán"
+  },
+  "CondS": {
+    "1s": "tacería",
+    "2s": "tacerías",
+    "3s": "tacería",
+    "1p": "taceríamos",
+    "2p": "taceríais",
+    "3p": "tacerían"
+  },
+  "PresC": {
+    "1s": "tazca",
+    "2s": "tazcas",
+    "3s": "tazca",
+    "1p": "tazcamos",
+    "2p": "tazcáis",
+    "3p": "tazcan"
+  },
+  "PMQPSI": {
+    "1s": "taciera",
+    "2s": "tacieras",
+    "3s": "taciera",
+    "1p": "taciéramos",
+    "2p": "tacierais",
+    "3p": "tacieran"
+  },
+  "PImpC": {
+    "1s": "taciese",
+    "2s": "tacieses",
+    "3s": "taciese",
+    "1p": "taciésemos",
+    "2p": "tacieseis",
+    "3p": "taciesen"
+  },
+  "FutSC": {
+    "1s": "taciere",
+    "2s": "tacieres",
+    "3s": "taciere",
+    "1p": "taciéremos",
+    "2p": "taciereis",
+    "3p": "tacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tace",
+    "3s": "tazca",
+    "1p": "tazcamos",
+    "2p": "taced",
+    "3p": "tazcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tazcas",
+    "3s": "no tazca",
+    "1p": "no tazcamos",
+    "2p": "no tazcáis",
+    "3p": "no tazcan"
+  },
+  "Part-ter": {
+    "": "tacido"
+  },
+  "Part-ser": {
+    "ms": "tacido",
+    "fs": "tacida",
+    "mp": "tacidos",
+    "fp": "tacidas"
+  }
+}

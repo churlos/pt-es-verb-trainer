@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estresar"
+  },
+  "Ger": {
+    "": "estresando"
+  },
+  "PresI": {
+    "1s": "estreso",
+    "2s": "estresas",
+    "3s": "estresa",
+    "1p": "estresamos",
+    "2p": "estresáis",
+    "3p": "estresan"
+  },
+  "PImpI": {
+    "1s": "estresaba",
+    "2s": "estresabas",
+    "3s": "estresaba",
+    "1p": "estresábamos",
+    "2p": "estresabais",
+    "3p": "estresaban"
+  },
+  "PPSI": {
+    "1s": "estresé",
+    "2s": "estresaste",
+    "3s": "estresó",
+    "1p": "estresamos",
+    "2p": "estresasteis",
+    "3p": "estresaron"
+  },
+  "FutSI": {
+    "1s": "estresaré",
+    "2s": "estresarás",
+    "3s": "estresará",
+    "1p": "estresaremos",
+    "2p": "estresaréis",
+    "3p": "estresarán"
+  },
+  "CondS": {
+    "1s": "estresaría",
+    "2s": "estresarías",
+    "3s": "estresaría",
+    "1p": "estresaríamos",
+    "2p": "estresaríais",
+    "3p": "estresarían"
+  },
+  "PresC": {
+    "1s": "estrese",
+    "2s": "estreses",
+    "3s": "estrese",
+    "1p": "estresemos",
+    "2p": "estreséis",
+    "3p": "estresen"
+  },
+  "PMQPSI": {
+    "1s": "estresara",
+    "2s": "estresaras",
+    "3s": "estresara",
+    "1p": "estresáramos",
+    "2p": "estresarais",
+    "3p": "estresaran"
+  },
+  "PImpC": {
+    "1s": "estresase",
+    "2s": "estresases",
+    "3s": "estresase",
+    "1p": "estresásemos",
+    "2p": "estresaseis",
+    "3p": "estresasen"
+  },
+  "FutSC": {
+    "1s": "estresare",
+    "2s": "estresares",
+    "3s": "estresare",
+    "1p": "estresáremos",
+    "2p": "estresareis",
+    "3p": "estresaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estresa",
+    "3s": "estrese",
+    "1p": "estresemos",
+    "2p": "estresad",
+    "3p": "estresen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estreses",
+    "3s": "no estrese",
+    "1p": "no estresemos",
+    "2p": "no estreséis",
+    "3p": "no estresen"
+  },
+  "Part-ter": {
+    "": "estresado"
+  },
+  "Part-ser": {
+    "ms": "estresado",
+    "fs": "estresada",
+    "mp": "estresados",
+    "fp": "estresadas"
+  }
+}

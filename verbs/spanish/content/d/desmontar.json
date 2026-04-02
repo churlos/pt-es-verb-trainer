@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desmontar"
+  },
+  "Ger": {
+    "": "desmontando"
+  },
+  "PresI": {
+    "1s": "desmonto",
+    "2s": "desmontas",
+    "3s": "desmonta",
+    "1p": "desmontamos",
+    "2p": "desmontáis",
+    "3p": "desmontan"
+  },
+  "PImpI": {
+    "1s": "desmontaba",
+    "2s": "desmontabas",
+    "3s": "desmontaba",
+    "1p": "desmontábamos",
+    "2p": "desmontabais",
+    "3p": "desmontaban"
+  },
+  "PPSI": {
+    "1s": "desmonté",
+    "2s": "desmontaste",
+    "3s": "desmontó",
+    "1p": "desmontamos",
+    "2p": "desmontasteis",
+    "3p": "desmontaron"
+  },
+  "FutSI": {
+    "1s": "desmontaré",
+    "2s": "desmontarás",
+    "3s": "desmontará",
+    "1p": "desmontaremos",
+    "2p": "desmontaréis",
+    "3p": "desmontarán"
+  },
+  "CondS": {
+    "1s": "desmontaría",
+    "2s": "desmontarías",
+    "3s": "desmontaría",
+    "1p": "desmontaríamos",
+    "2p": "desmontaríais",
+    "3p": "desmontarían"
+  },
+  "PresC": {
+    "1s": "desmonte",
+    "2s": "desmontes",
+    "3s": "desmonte",
+    "1p": "desmontemos",
+    "2p": "desmontéis",
+    "3p": "desmonten"
+  },
+  "PMQPSI": {
+    "1s": "desmontara",
+    "2s": "desmontaras",
+    "3s": "desmontara",
+    "1p": "desmontáramos",
+    "2p": "desmontarais",
+    "3p": "desmontaran"
+  },
+  "PImpC": {
+    "1s": "desmontase",
+    "2s": "desmontases",
+    "3s": "desmontase",
+    "1p": "desmontásemos",
+    "2p": "desmontaseis",
+    "3p": "desmontasen"
+  },
+  "FutSC": {
+    "1s": "desmontare",
+    "2s": "desmontares",
+    "3s": "desmontare",
+    "1p": "desmontáremos",
+    "2p": "desmontareis",
+    "3p": "desmontaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desmonta",
+    "3s": "desmonte",
+    "1p": "desmontemos",
+    "2p": "desmontad",
+    "3p": "desmonten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desmontes",
+    "3s": "no desmonte",
+    "1p": "no desmontemos",
+    "2p": "no desmontéis",
+    "3p": "no desmonten"
+  },
+  "Part-ter": {
+    "": "desmontado"
+  },
+  "Part-ser": {
+    "ms": "desmontado",
+    "fs": "desmontada",
+    "mp": "desmontados",
+    "fp": "desmontadas"
+  }
+}

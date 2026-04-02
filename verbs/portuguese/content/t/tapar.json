@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tapar"
+  },
+  "InfP": {
+    "1s": "tapar",
+    "2s": "tapares",
+    "3s": "tapar",
+    "1p": "taparmos",
+    "2p": "tapardes",
+    "3p": "taparem"
+  },
+  "Ger": {
+    "": "tapando"
+  },
+  "PresI": {
+    "1s": "tapo",
+    "2s": "tapas",
+    "3s": "tapa",
+    "1p": "tapamos",
+    "2p": "tapais",
+    "3p": "tapam"
+  },
+  "PImpI": {
+    "1s": "tapava",
+    "2s": "tapavas",
+    "3s": "tapava",
+    "1p": "tapávamos",
+    "2p": "tapáveis",
+    "3p": "tapavam"
+  },
+  "PPSI": {
+    "1s": "tapei",
+    "2s": "tapaste",
+    "3s": "tapou",
+    "1p": "tapámos",
+    "2p": "tapastes",
+    "3p": "taparam"
+  },
+  "PMQPSI": {
+    "1s": "tapara",
+    "2s": "taparas",
+    "3s": "tapara",
+    "1p": "tapáramos",
+    "2p": "tapáreis",
+    "3p": "taparam"
+  },
+  "FutSI": {
+    "1s": "taparei",
+    "2s": "taparás",
+    "3s": "tapará",
+    "1p": "taparemos",
+    "2p": "tapareis",
+    "3p": "taparão"
+  },
+  "CondS": {
+    "1s": "taparia",
+    "2s": "taparias",
+    "3s": "taparia",
+    "1p": "taparíamos",
+    "2p": "taparíeis",
+    "3p": "tapariam"
+  },
+  "PresC": {
+    "1s": "tape",
+    "2s": "tapes",
+    "3s": "tape",
+    "1p": "tapemos",
+    "2p": "tapeis",
+    "3p": "tapem"
+  },
+  "PImpC": {
+    "1s": "tapasse",
+    "2s": "tapasses",
+    "3s": "tapasse",
+    "1p": "tapássemos",
+    "2p": "tapásseis",
+    "3p": "tapassem"
+  },
+  "FutSC": {
+    "1s": "tapar",
+    "2s": "tapares",
+    "3s": "tapar",
+    "1p": "taparmos",
+    "2p": "tapardes",
+    "3p": "taparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tapa",
+    "3s": "tape",
+    "1p": "tapemos",
+    "2p": "tapai",
+    "3p": "tapem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tapes",
+    "3s": "não tape",
+    "1p": "não tapemos",
+    "2p": "não tapeis",
+    "3p": "não tapem"
+  },
+  "Part-ter": {
+    "": "tapado"
+  },
+  "Part-ser": {
+    "ms": "tapado",
+    "fs": "tapada",
+    "mp": "tapados",
+    "fp": "tapadas"
+  }
+}

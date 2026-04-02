@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "empacar"
+  },
+  "Ger": {
+    "": "empacando"
+  },
+  "PresI": {
+    "1s": "empaco",
+    "2s": "empacas",
+    "3s": "empaca",
+    "1p": "empacamos",
+    "2p": "empacáis",
+    "3p": "empacan"
+  },
+  "PImpI": {
+    "1s": "empacaba",
+    "2s": "empacabas",
+    "3s": "empacaba",
+    "1p": "empacábamos",
+    "2p": "empacabais",
+    "3p": "empacaban"
+  },
+  "PPSI": {
+    "1s": "empaqué",
+    "2s": "empacaste",
+    "3s": "empacó",
+    "1p": "empacamos",
+    "2p": "empacasteis",
+    "3p": "empacaron"
+  },
+  "FutSI": {
+    "1s": "empacaré",
+    "2s": "empacarás",
+    "3s": "empacará",
+    "1p": "empacaremos",
+    "2p": "empacaréis",
+    "3p": "empacarán"
+  },
+  "CondS": {
+    "1s": "empacaría",
+    "2s": "empacarías",
+    "3s": "empacaría",
+    "1p": "empacaríamos",
+    "2p": "empacaríais",
+    "3p": "empacarían"
+  },
+  "PresC": {
+    "1s": "empaque",
+    "2s": "empaques",
+    "3s": "empaque",
+    "1p": "empaquemos",
+    "2p": "empaquéis",
+    "3p": "empaquen"
+  },
+  "PMQPSI": {
+    "1s": "empacara",
+    "2s": "empacaras",
+    "3s": "empacara",
+    "1p": "empacáramos",
+    "2p": "empacarais",
+    "3p": "empacaran"
+  },
+  "PImpC": {
+    "1s": "empacase",
+    "2s": "empacases",
+    "3s": "empacase",
+    "1p": "empacásemos",
+    "2p": "empacaseis",
+    "3p": "empacasen"
+  },
+  "FutSC": {
+    "1s": "empacare",
+    "2s": "empacares",
+    "3s": "empacare",
+    "1p": "empacáremos",
+    "2p": "empacareis",
+    "3p": "empacaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empaca",
+    "3s": "empaque",
+    "1p": "empaquemos",
+    "2p": "empacad",
+    "3p": "empaquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no empaques",
+    "3s": "no empaque",
+    "1p": "no empaquemos",
+    "2p": "no empaquéis",
+    "3p": "no empaquen"
+  },
+  "Part-ter": {
+    "": "empacado"
+  },
+  "Part-ser": {
+    "ms": "empacado",
+    "fs": "empacada",
+    "mp": "empacados",
+    "fp": "empacadas"
+  }
+}

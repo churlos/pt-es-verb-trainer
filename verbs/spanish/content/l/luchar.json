@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "luchar"
+  },
+  "Ger": {
+    "": "luchando"
+  },
+  "PresI": {
+    "1s": "lucho",
+    "2s": "luchas",
+    "3s": "lucha",
+    "1p": "luchamos",
+    "2p": "lucháis",
+    "3p": "luchan"
+  },
+  "PImpI": {
+    "1s": "luchaba",
+    "2s": "luchabas",
+    "3s": "luchaba",
+    "1p": "luchábamos",
+    "2p": "luchabais",
+    "3p": "luchaban"
+  },
+  "PPSI": {
+    "1s": "luché",
+    "2s": "luchaste",
+    "3s": "luchó",
+    "1p": "luchamos",
+    "2p": "luchasteis",
+    "3p": "lucharon"
+  },
+  "FutSI": {
+    "1s": "lucharé",
+    "2s": "lucharás",
+    "3s": "luchará",
+    "1p": "lucharemos",
+    "2p": "lucharéis",
+    "3p": "lucharán"
+  },
+  "CondS": {
+    "1s": "lucharía",
+    "2s": "lucharías",
+    "3s": "lucharía",
+    "1p": "lucharíamos",
+    "2p": "lucharíais",
+    "3p": "lucharían"
+  },
+  "PresC": {
+    "1s": "luche",
+    "2s": "luches",
+    "3s": "luche",
+    "1p": "luchemos",
+    "2p": "luchéis",
+    "3p": "luchen"
+  },
+  "PMQPSI": {
+    "1s": "luchara",
+    "2s": "lucharas",
+    "3s": "luchara",
+    "1p": "lucháramos",
+    "2p": "lucharais",
+    "3p": "lucharan"
+  },
+  "PImpC": {
+    "1s": "luchase",
+    "2s": "luchases",
+    "3s": "luchase",
+    "1p": "luchásemos",
+    "2p": "luchaseis",
+    "3p": "luchasen"
+  },
+  "FutSC": {
+    "1s": "luchare",
+    "2s": "luchares",
+    "3s": "luchare",
+    "1p": "lucháremos",
+    "2p": "luchareis",
+    "3p": "lucharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lucha",
+    "3s": "luche",
+    "1p": "luchemos",
+    "2p": "luchad",
+    "3p": "luchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no luches",
+    "3s": "no luche",
+    "1p": "no luchemos",
+    "2p": "no luchéis",
+    "3p": "no luchen"
+  },
+  "Part-ter": {
+    "": "luchado"
+  },
+  "Part-ser": {
+    "ms": "luchado",
+    "fs": "luchada",
+    "mp": "luchados",
+    "fp": "luchadas"
+  }
+}

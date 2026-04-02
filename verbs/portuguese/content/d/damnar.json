@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "damnar"
+  },
+  "InfP": {
+    "1s": "damnar",
+    "2s": "damnares",
+    "3s": "damnar",
+    "1p": "damnarmos",
+    "2p": "damnardes",
+    "3p": "damnarem"
+  },
+  "Ger": {
+    "": "damnando"
+  },
+  "PresI": {
+    "1s": "damno",
+    "2s": "damnas",
+    "3s": "damna",
+    "1p": "damnamos",
+    "2p": "damnais",
+    "3p": "damnam"
+  },
+  "PImpI": {
+    "1s": "damnava",
+    "2s": "damnavas",
+    "3s": "damnava",
+    "1p": "damnávamos",
+    "2p": "damnáveis",
+    "3p": "damnavam"
+  },
+  "PPSI": {
+    "1s": "damnei",
+    "2s": "damnaste",
+    "3s": "damnou",
+    "1p": "damnámos",
+    "2p": "damnastes",
+    "3p": "damnaram"
+  },
+  "PMQPSI": {
+    "1s": "damnara",
+    "2s": "damnaras",
+    "3s": "damnara",
+    "1p": "damnáramos",
+    "2p": "damnáreis",
+    "3p": "damnaram"
+  },
+  "FutSI": {
+    "1s": "damnarei",
+    "2s": "damnarás",
+    "3s": "damnará",
+    "1p": "damnaremos",
+    "2p": "damnareis",
+    "3p": "damnarão"
+  },
+  "CondS": {
+    "1s": "damnaria",
+    "2s": "damnarias",
+    "3s": "damnaria",
+    "1p": "damnaríamos",
+    "2p": "damnaríeis",
+    "3p": "damnariam"
+  },
+  "PresC": {
+    "1s": "damne",
+    "2s": "damnes",
+    "3s": "damne",
+    "1p": "damnemos",
+    "2p": "damneis",
+    "3p": "damnem"
+  },
+  "PImpC": {
+    "1s": "damnasse",
+    "2s": "damnasses",
+    "3s": "damnasse",
+    "1p": "damnássemos",
+    "2p": "damnásseis",
+    "3p": "damnassem"
+  },
+  "FutSC": {
+    "1s": "damnar",
+    "2s": "damnares",
+    "3s": "damnar",
+    "1p": "damnarmos",
+    "2p": "damnardes",
+    "3p": "damnarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "damna",
+    "3s": "damne",
+    "1p": "damnemos",
+    "2p": "damnai",
+    "3p": "damnem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não damnes",
+    "3s": "não damne",
+    "1p": "não damnemos",
+    "2p": "não damneis",
+    "3p": "não damnem"
+  },
+  "Part-ter": {
+    "": "damnado"
+  },
+  "Part-ser": {
+    "ms": "damnado",
+    "fs": "damnada",
+    "mp": "damnados",
+    "fp": "damnadas"
+  }
+}

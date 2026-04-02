@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cagar"
+  },
+  "InfP": {
+    "1s": "cagar",
+    "2s": "cagares",
+    "3s": "cagar",
+    "1p": "cagarmos",
+    "2p": "cagardes",
+    "3p": "cagarem"
+  },
+  "Ger": {
+    "": "cagando"
+  },
+  "PresI": {
+    "1s": "cago",
+    "2s": "cagas",
+    "3s": "caga",
+    "1p": "cagamos",
+    "2p": "cagais",
+    "3p": "cagam"
+  },
+  "PImpI": {
+    "1s": "cagava",
+    "2s": "cagavas",
+    "3s": "cagava",
+    "1p": "cagávamos",
+    "2p": "cagáveis",
+    "3p": "cagavam"
+  },
+  "PPSI": {
+    "1s": "caguei",
+    "2s": "cagaste",
+    "3s": "cagou",
+    "1p": "cagámos",
+    "2p": "cagastes",
+    "3p": "cagaram"
+  },
+  "PMQPSI": {
+    "1s": "cagara",
+    "2s": "cagaras",
+    "3s": "cagara",
+    "1p": "cagáramos",
+    "2p": "cagáreis",
+    "3p": "cagaram"
+  },
+  "FutSI": {
+    "1s": "cagarei",
+    "2s": "cagarás",
+    "3s": "cagará",
+    "1p": "cagaremos",
+    "2p": "cagareis",
+    "3p": "cagarão"
+  },
+  "CondS": {
+    "1s": "cagaria",
+    "2s": "cagarias",
+    "3s": "cagaria",
+    "1p": "cagaríamos",
+    "2p": "cagaríeis",
+    "3p": "cagariam"
+  },
+  "PresC": {
+    "1s": "cague",
+    "2s": "cagues",
+    "3s": "cague",
+    "1p": "caguemos",
+    "2p": "cagueis",
+    "3p": "caguem"
+  },
+  "PImpC": {
+    "1s": "cagasse",
+    "2s": "cagasses",
+    "3s": "cagasse",
+    "1p": "cagássemos",
+    "2p": "cagásseis",
+    "3p": "cagassem"
+  },
+  "FutSC": {
+    "1s": "cagar",
+    "2s": "cagares",
+    "3s": "cagar",
+    "1p": "cagarmos",
+    "2p": "cagardes",
+    "3p": "cagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "caga",
+    "3s": "cague",
+    "1p": "caguemos",
+    "2p": "cagai",
+    "3p": "caguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cagues",
+    "3s": "não cague",
+    "1p": "não caguemos",
+    "2p": "não cagueis",
+    "3p": "não caguem"
+  },
+  "Part-ter": {
+    "": "cagado"
+  },
+  "Part-ser": {
+    "ms": "cagado",
+    "fs": "cagada",
+    "mp": "cagados",
+    "fp": "cagadas"
+  }
+}

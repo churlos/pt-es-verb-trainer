@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "adjetivar"
+  },
+  "InfP": {
+    "1s": "adjetivar",
+    "2s": "adjetivares",
+    "3s": "adjetivar",
+    "1p": "adjetivarmos",
+    "2p": "adjetivardes",
+    "3p": "adjetivarem"
+  },
+  "Ger": {
+    "": "adjetivando"
+  },
+  "PresI": {
+    "1s": "adjetivo",
+    "2s": "adjetivas",
+    "3s": "adjetiva",
+    "1p": "adjetivamos",
+    "2p": "adjetivais",
+    "3p": "adjetivam"
+  },
+  "PImpI": {
+    "1s": "adjetivava",
+    "2s": "adjetivavas",
+    "3s": "adjetivava",
+    "1p": "adjetivávamos",
+    "2p": "adjetiváveis",
+    "3p": "adjetivavam"
+  },
+  "PPSI": {
+    "1s": "adjetivei",
+    "2s": "adjetivaste",
+    "3s": "adjetivou",
+    "1p": "adjetivámos",
+    "2p": "adjetivastes",
+    "3p": "adjetivaram"
+  },
+  "PMQPSI": {
+    "1s": "adjetivara",
+    "2s": "adjetivaras",
+    "3s": "adjetivara",
+    "1p": "adjetiváramos",
+    "2p": "adjetiváreis",
+    "3p": "adjetivaram"
+  },
+  "FutSI": {
+    "1s": "adjetivarei",
+    "2s": "adjetivarás",
+    "3s": "adjetivará",
+    "1p": "adjetivaremos",
+    "2p": "adjetivareis",
+    "3p": "adjetivarão"
+  },
+  "CondS": {
+    "1s": "adjetivaria",
+    "2s": "adjetivarias",
+    "3s": "adjetivaria",
+    "1p": "adjetivaríamos",
+    "2p": "adjetivaríeis",
+    "3p": "adjetivariam"
+  },
+  "PresC": {
+    "1s": "adjetive",
+    "2s": "adjetives",
+    "3s": "adjetive",
+    "1p": "adjetivemos",
+    "2p": "adjetiveis",
+    "3p": "adjetivem"
+  },
+  "PImpC": {
+    "1s": "adjetivasse",
+    "2s": "adjetivasses",
+    "3s": "adjetivasse",
+    "1p": "adjetivássemos",
+    "2p": "adjetivásseis",
+    "3p": "adjetivassem"
+  },
+  "FutSC": {
+    "1s": "adjetivar",
+    "2s": "adjetivares",
+    "3s": "adjetivar",
+    "1p": "adjetivarmos",
+    "2p": "adjetivardes",
+    "3p": "adjetivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adjetiva",
+    "3s": "adjetive",
+    "1p": "adjetivemos",
+    "2p": "adjetivai",
+    "3p": "adjetivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adjetives",
+    "3s": "não adjetive",
+    "1p": "não adjetivemos",
+    "2p": "não adjetiveis",
+    "3p": "não adjetivem"
+  },
+  "Part-ter": {
+    "": "adjetivado"
+  },
+  "Part-ser": {
+    "ms": "adjetivado",
+    "fs": "adjetivada",
+    "mp": "adjetivados",
+    "fp": "adjetivadas"
+  }
+}

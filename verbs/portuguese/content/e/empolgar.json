@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "empolgar"
+  },
+  "InfP": {
+    "1s": "empolgar",
+    "2s": "empolgares",
+    "3s": "empolgar",
+    "1p": "empolgarmos",
+    "2p": "empolgardes",
+    "3p": "empolgarem"
+  },
+  "Ger": {
+    "": "empolgando"
+  },
+  "PresI": {
+    "1s": "empolgo",
+    "2s": "empolgas",
+    "3s": "empolga",
+    "1p": "empolgamos",
+    "2p": "empolgais",
+    "3p": "empolgam"
+  },
+  "PImpI": {
+    "1s": "empolgava",
+    "2s": "empolgavas",
+    "3s": "empolgava",
+    "1p": "empolgávamos",
+    "2p": "empolgáveis",
+    "3p": "empolgavam"
+  },
+  "PPSI": {
+    "1s": "empolguei",
+    "2s": "empolgaste",
+    "3s": "empolgou",
+    "1p": "empolgámos",
+    "2p": "empolgastes",
+    "3p": "empolgaram"
+  },
+  "PMQPSI": {
+    "1s": "empolgara",
+    "2s": "empolgaras",
+    "3s": "empolgara",
+    "1p": "empolgáramos",
+    "2p": "empolgáreis",
+    "3p": "empolgaram"
+  },
+  "FutSI": {
+    "1s": "empolgarei",
+    "2s": "empolgarás",
+    "3s": "empolgará",
+    "1p": "empolgaremos",
+    "2p": "empolgareis",
+    "3p": "empolgarão"
+  },
+  "CondS": {
+    "1s": "empolgaria",
+    "2s": "empolgarias",
+    "3s": "empolgaria",
+    "1p": "empolgaríamos",
+    "2p": "empolgaríeis",
+    "3p": "empolgariam"
+  },
+  "PresC": {
+    "1s": "empolgue",
+    "2s": "empolgues",
+    "3s": "empolgue",
+    "1p": "empolguemos",
+    "2p": "empolgueis",
+    "3p": "empolguem"
+  },
+  "PImpC": {
+    "1s": "empolgasse",
+    "2s": "empolgasses",
+    "3s": "empolgasse",
+    "1p": "empolgássemos",
+    "2p": "empolgásseis",
+    "3p": "empolgassem"
+  },
+  "FutSC": {
+    "1s": "empolgar",
+    "2s": "empolgares",
+    "3s": "empolgar",
+    "1p": "empolgarmos",
+    "2p": "empolgardes",
+    "3p": "empolgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empolga",
+    "3s": "empolgue",
+    "1p": "empolguemos",
+    "2p": "empolgai",
+    "3p": "empolguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não empolgues",
+    "3s": "não empolgue",
+    "1p": "não empolguemos",
+    "2p": "não empolgueis",
+    "3p": "não empolguem"
+  },
+  "Part-ter": {
+    "": "empolgado"
+  },
+  "Part-ser": {
+    "ms": "empolgado",
+    "fs": "empolgada",
+    "mp": "empolgados",
+    "fp": "empolgadas"
+  }
+}

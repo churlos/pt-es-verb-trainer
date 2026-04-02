@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pipetar"
+  },
+  "InfP": {
+    "1s": "pipetar",
+    "2s": "pipetares",
+    "3s": "pipetar",
+    "1p": "pipetarmos",
+    "2p": "pipetardes",
+    "3p": "pipetarem"
+  },
+  "Ger": {
+    "": "pipetando"
+  },
+  "PresI": {
+    "1s": "pipeto",
+    "2s": "pipetas",
+    "3s": "pipeta",
+    "1p": "pipetamos",
+    "2p": "pipetais",
+    "3p": "pipetam"
+  },
+  "PImpI": {
+    "1s": "pipetava",
+    "2s": "pipetavas",
+    "3s": "pipetava",
+    "1p": "pipetávamos",
+    "2p": "pipetáveis",
+    "3p": "pipetavam"
+  },
+  "PPSI": {
+    "1s": "pipetei",
+    "2s": "pipetaste",
+    "3s": "pipetou",
+    "1p": "pipetámos",
+    "2p": "pipetastes",
+    "3p": "pipetaram"
+  },
+  "PMQPSI": {
+    "1s": "pipetara",
+    "2s": "pipetaras",
+    "3s": "pipetara",
+    "1p": "pipetáramos",
+    "2p": "pipetáreis",
+    "3p": "pipetaram"
+  },
+  "FutSI": {
+    "1s": "pipetarei",
+    "2s": "pipetarás",
+    "3s": "pipetará",
+    "1p": "pipetaremos",
+    "2p": "pipetareis",
+    "3p": "pipetarão"
+  },
+  "CondS": {
+    "1s": "pipetaria",
+    "2s": "pipetarias",
+    "3s": "pipetaria",
+    "1p": "pipetaríamos",
+    "2p": "pipetaríeis",
+    "3p": "pipetariam"
+  },
+  "PresC": {
+    "1s": "pipete",
+    "2s": "pipetes",
+    "3s": "pipete",
+    "1p": "pipetemos",
+    "2p": "pipeteis",
+    "3p": "pipetem"
+  },
+  "PImpC": {
+    "1s": "pipetasse",
+    "2s": "pipetasses",
+    "3s": "pipetasse",
+    "1p": "pipetássemos",
+    "2p": "pipetásseis",
+    "3p": "pipetassem"
+  },
+  "FutSC": {
+    "1s": "pipetar",
+    "2s": "pipetares",
+    "3s": "pipetar",
+    "1p": "pipetarmos",
+    "2p": "pipetardes",
+    "3p": "pipetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pipeta",
+    "3s": "pipete",
+    "1p": "pipetemos",
+    "2p": "pipetai",
+    "3p": "pipetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pipetes",
+    "3s": "não pipete",
+    "1p": "não pipetemos",
+    "2p": "não pipeteis",
+    "3p": "não pipetem"
+  },
+  "Part-ter": {
+    "": "pipetado"
+  },
+  "Part-ser": {
+    "ms": "pipetado",
+    "fs": "pipetada",
+    "mp": "pipetados",
+    "fp": "pipetadas"
+  }
+}

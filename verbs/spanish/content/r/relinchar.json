@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "relinchar"
+  },
+  "Ger": {
+    "": "relinchando"
+  },
+  "PresI": {
+    "1s": "relincho",
+    "2s": "relinchas",
+    "3s": "relincha",
+    "1p": "relinchamos",
+    "2p": "relincháis",
+    "3p": "relinchan"
+  },
+  "PImpI": {
+    "1s": "relinchaba",
+    "2s": "relinchabas",
+    "3s": "relinchaba",
+    "1p": "relinchábamos",
+    "2p": "relinchabais",
+    "3p": "relinchaban"
+  },
+  "PPSI": {
+    "1s": "relinché",
+    "2s": "relinchaste",
+    "3s": "relinchó",
+    "1p": "relinchamos",
+    "2p": "relinchasteis",
+    "3p": "relincharon"
+  },
+  "FutSI": {
+    "1s": "relincharé",
+    "2s": "relincharás",
+    "3s": "relinchará",
+    "1p": "relincharemos",
+    "2p": "relincharéis",
+    "3p": "relincharán"
+  },
+  "CondS": {
+    "1s": "relincharía",
+    "2s": "relincharías",
+    "3s": "relincharía",
+    "1p": "relincharíamos",
+    "2p": "relincharíais",
+    "3p": "relincharían"
+  },
+  "PresC": {
+    "1s": "relinche",
+    "2s": "relinches",
+    "3s": "relinche",
+    "1p": "relinchemos",
+    "2p": "relinchéis",
+    "3p": "relinchen"
+  },
+  "PMQPSI": {
+    "1s": "relinchara",
+    "2s": "relincharas",
+    "3s": "relinchara",
+    "1p": "relincháramos",
+    "2p": "relincharais",
+    "3p": "relincharan"
+  },
+  "PImpC": {
+    "1s": "relinchase",
+    "2s": "relinchases",
+    "3s": "relinchase",
+    "1p": "relinchásemos",
+    "2p": "relinchaseis",
+    "3p": "relinchasen"
+  },
+  "FutSC": {
+    "1s": "relinchare",
+    "2s": "relinchares",
+    "3s": "relinchare",
+    "1p": "relincháremos",
+    "2p": "relinchareis",
+    "3p": "relincharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "relincha",
+    "3s": "relinche",
+    "1p": "relinchemos",
+    "2p": "relinchad",
+    "3p": "relinchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no relinches",
+    "3s": "no relinche",
+    "1p": "no relinchemos",
+    "2p": "no relinchéis",
+    "3p": "no relinchen"
+  },
+  "Part-ter": {
+    "": "relinchado"
+  },
+  "Part-ser": {
+    "ms": "relinchado",
+    "fs": "relinchada",
+    "mp": "relinchados",
+    "fp": "relinchadas"
+  }
+}

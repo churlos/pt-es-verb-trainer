@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perceber"
+  },
+  "InfP": {
+    "1s": "perceber",
+    "2s": "perceberes",
+    "3s": "perceber",
+    "1p": "percebermos",
+    "2p": "perceberdes",
+    "3p": "perceberem"
+  },
+  "Ger": {
+    "": "percebendo"
+  },
+  "PresI": {
+    "1s": "percebo",
+    "2s": "percebes",
+    "3s": "percebe",
+    "1p": "percebemos",
+    "2p": "percebeis",
+    "3p": "percebem"
+  },
+  "PImpI": {
+    "1s": "percebia",
+    "2s": "percebias",
+    "3s": "percebia",
+    "1p": "percebíamos",
+    "2p": "percebíeis",
+    "3p": "percebiam"
+  },
+  "PPSI": {
+    "1s": "percebi",
+    "2s": "percebeste",
+    "3s": "percebeu",
+    "1p": "percebemos",
+    "2p": "percebestes",
+    "3p": "perceberam"
+  },
+  "PMQPSI": {
+    "1s": "percebera",
+    "2s": "perceberas",
+    "3s": "percebera",
+    "1p": "percebêramos",
+    "2p": "percebêreis",
+    "3p": "perceberam"
+  },
+  "FutSI": {
+    "1s": "perceberei",
+    "2s": "perceberás",
+    "3s": "perceberá",
+    "1p": "perceberemos",
+    "2p": "percebereis",
+    "3p": "perceberão"
+  },
+  "CondS": {
+    "1s": "perceberia",
+    "2s": "perceberias",
+    "3s": "perceberia",
+    "1p": "perceberíamos",
+    "2p": "perceberíeis",
+    "3p": "perceberiam"
+  },
+  "PresC": {
+    "1s": "perceba",
+    "2s": "percebas",
+    "3s": "perceba",
+    "1p": "percebamos",
+    "2p": "percebais",
+    "3p": "percebam"
+  },
+  "PImpC": {
+    "1s": "percebesse",
+    "2s": "percebesses",
+    "3s": "percebesse",
+    "1p": "percebêssemos",
+    "2p": "percebêsseis",
+    "3p": "percebessem"
+  },
+  "FutSC": {
+    "1s": "perceber",
+    "2s": "perceberes",
+    "3s": "perceber",
+    "1p": "percebermos",
+    "2p": "perceberdes",
+    "3p": "perceberem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "percebe",
+    "3s": "perceba",
+    "1p": "percebamos",
+    "2p": "percebei",
+    "3p": "percebam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não percebas",
+    "3s": "não perceba",
+    "1p": "não percebamos",
+    "2p": "não percebais",
+    "3p": "não percebam"
+  },
+  "Part-ter": {
+    "": "percebido"
+  },
+  "Part-ser": {
+    "ms": "percebido",
+    "fs": "percebida",
+    "mp": "percebidos",
+    "fp": "percebidas"
+  }
+}

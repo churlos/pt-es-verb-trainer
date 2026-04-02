@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "louvar"
+  },
+  "InfP": {
+    "1s": "louvar",
+    "2s": "louvares",
+    "3s": "louvar",
+    "1p": "louvarmos",
+    "2p": "louvardes",
+    "3p": "louvarem"
+  },
+  "Ger": {
+    "": "louvando"
+  },
+  "PresI": {
+    "1s": "louvo",
+    "2s": "louvas",
+    "3s": "louva",
+    "1p": "louvamos",
+    "2p": "louvais",
+    "3p": "louvam"
+  },
+  "PImpI": {
+    "1s": "louvava",
+    "2s": "louvavas",
+    "3s": "louvava",
+    "1p": "louvávamos",
+    "2p": "louváveis",
+    "3p": "louvavam"
+  },
+  "PPSI": {
+    "1s": "louvei",
+    "2s": "louvaste",
+    "3s": "louvou",
+    "1p": "louvámos",
+    "2p": "louvastes",
+    "3p": "louvaram"
+  },
+  "PMQPSI": {
+    "1s": "louvara",
+    "2s": "louvaras",
+    "3s": "louvara",
+    "1p": "louváramos",
+    "2p": "louváreis",
+    "3p": "louvaram"
+  },
+  "FutSI": {
+    "1s": "louvarei",
+    "2s": "louvarás",
+    "3s": "louvará",
+    "1p": "louvaremos",
+    "2p": "louvareis",
+    "3p": "louvarão"
+  },
+  "CondS": {
+    "1s": "louvaria",
+    "2s": "louvarias",
+    "3s": "louvaria",
+    "1p": "louvaríamos",
+    "2p": "louvaríeis",
+    "3p": "louvariam"
+  },
+  "PresC": {
+    "1s": "louve",
+    "2s": "louves",
+    "3s": "louve",
+    "1p": "louvemos",
+    "2p": "louveis",
+    "3p": "louvem"
+  },
+  "PImpC": {
+    "1s": "louvasse",
+    "2s": "louvasses",
+    "3s": "louvasse",
+    "1p": "louvássemos",
+    "2p": "louvásseis",
+    "3p": "louvassem"
+  },
+  "FutSC": {
+    "1s": "louvar",
+    "2s": "louvares",
+    "3s": "louvar",
+    "1p": "louvarmos",
+    "2p": "louvardes",
+    "3p": "louvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "louva",
+    "3s": "louve",
+    "1p": "louvemos",
+    "2p": "louvai",
+    "3p": "louvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não louves",
+    "3s": "não louve",
+    "1p": "não louvemos",
+    "2p": "não louveis",
+    "3p": "não louvem"
+  },
+  "Part-ter": {
+    "": "louvado"
+  },
+  "Part-ser": {
+    "ms": "louvado",
+    "fs": "louvada",
+    "mp": "louvados",
+    "fp": "louvadas"
+  }
+}

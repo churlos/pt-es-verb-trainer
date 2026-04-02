@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "simbolizar"
+  },
+  "Ger": {
+    "": "simbolizando"
+  },
+  "PresI": {
+    "1s": "simbolizo",
+    "2s": "simbolizas",
+    "3s": "simboliza",
+    "1p": "simbolizamos",
+    "2p": "simbolizáis",
+    "3p": "simbolizan"
+  },
+  "PImpI": {
+    "1s": "simbolizaba",
+    "2s": "simbolizabas",
+    "3s": "simbolizaba",
+    "1p": "simbolizábamos",
+    "2p": "simbolizabais",
+    "3p": "simbolizaban"
+  },
+  "PPSI": {
+    "1s": "simbolicé",
+    "2s": "simbolizaste",
+    "3s": "simbolizó",
+    "1p": "simbolizamos",
+    "2p": "simbolizasteis",
+    "3p": "simbolizaron"
+  },
+  "FutSI": {
+    "1s": "simbolizaré",
+    "2s": "simbolizarás",
+    "3s": "simbolizará",
+    "1p": "simbolizaremos",
+    "2p": "simbolizaréis",
+    "3p": "simbolizarán"
+  },
+  "CondS": {
+    "1s": "simbolizaría",
+    "2s": "simbolizarías",
+    "3s": "simbolizaría",
+    "1p": "simbolizaríamos",
+    "2p": "simbolizaríais",
+    "3p": "simbolizarían"
+  },
+  "PresC": {
+    "1s": "simbolice",
+    "2s": "simbolices",
+    "3s": "simbolice",
+    "1p": "simbolicemos",
+    "2p": "simbolicéis",
+    "3p": "simbolicen"
+  },
+  "PMQPSI": {
+    "1s": "simbolizara",
+    "2s": "simbolizaras",
+    "3s": "simbolizara",
+    "1p": "simbolizáramos",
+    "2p": "simbolizarais",
+    "3p": "simbolizaran"
+  },
+  "PImpC": {
+    "1s": "simbolizase",
+    "2s": "simbolizases",
+    "3s": "simbolizase",
+    "1p": "simbolizásemos",
+    "2p": "simbolizaseis",
+    "3p": "simbolizasen"
+  },
+  "FutSC": {
+    "1s": "simbolizare",
+    "2s": "simbolizares",
+    "3s": "simbolizare",
+    "1p": "simbolizáremos",
+    "2p": "simbolizareis",
+    "3p": "simbolizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "simboliza",
+    "3s": "simbolice",
+    "1p": "simbolicemos",
+    "2p": "simbolizad",
+    "3p": "simbolicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no simbolices",
+    "3s": "no simbolice",
+    "1p": "no simbolicemos",
+    "2p": "no simbolicéis",
+    "3p": "no simbolicen"
+  },
+  "Part-ter": {
+    "": "simbolizado"
+  },
+  "Part-ser": {
+    "ms": "simbolizado",
+    "fs": "simbolizada",
+    "mp": "simbolizados",
+    "fp": "simbolizadas"
+  }
+}

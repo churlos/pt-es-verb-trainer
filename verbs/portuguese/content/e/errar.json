@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "errar"
+  },
+  "InfP": {
+    "1s": "errar",
+    "2s": "errares",
+    "3s": "errar",
+    "1p": "errarmos",
+    "2p": "errardes",
+    "3p": "errarem"
+  },
+  "Ger": {
+    "": "errando"
+  },
+  "PresI": {
+    "1s": "erro",
+    "2s": "erras",
+    "3s": "erra",
+    "1p": "erramos",
+    "2p": "errais",
+    "3p": "erram"
+  },
+  "PImpI": {
+    "1s": "errava",
+    "2s": "erravas",
+    "3s": "errava",
+    "1p": "errávamos",
+    "2p": "erráveis",
+    "3p": "erravam"
+  },
+  "PPSI": {
+    "1s": "errei",
+    "2s": "erraste",
+    "3s": "errou",
+    "1p": "errámos",
+    "2p": "errastes",
+    "3p": "erraram"
+  },
+  "PMQPSI": {
+    "1s": "errara",
+    "2s": "erraras",
+    "3s": "errara",
+    "1p": "erráramos",
+    "2p": "erráreis",
+    "3p": "erraram"
+  },
+  "FutSI": {
+    "1s": "errarei",
+    "2s": "errarás",
+    "3s": "errará",
+    "1p": "erraremos",
+    "2p": "errareis",
+    "3p": "errarão"
+  },
+  "CondS": {
+    "1s": "erraria",
+    "2s": "errarias",
+    "3s": "erraria",
+    "1p": "erraríamos",
+    "2p": "erraríeis",
+    "3p": "errariam"
+  },
+  "PresC": {
+    "1s": "erre",
+    "2s": "erres",
+    "3s": "erre",
+    "1p": "erremos",
+    "2p": "erreis",
+    "3p": "errem"
+  },
+  "PImpC": {
+    "1s": "errasse",
+    "2s": "errasses",
+    "3s": "errasse",
+    "1p": "errássemos",
+    "2p": "errásseis",
+    "3p": "errassem"
+  },
+  "FutSC": {
+    "1s": "errar",
+    "2s": "errares",
+    "3s": "errar",
+    "1p": "errarmos",
+    "2p": "errardes",
+    "3p": "errarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "erra",
+    "3s": "erre",
+    "1p": "erremos",
+    "2p": "errai",
+    "3p": "errem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não erres",
+    "3s": "não erre",
+    "1p": "não erremos",
+    "2p": "não erreis",
+    "3p": "não errem"
+  },
+  "Part-ter": {
+    "": "errado"
+  },
+  "Part-ser": {
+    "ms": "errado",
+    "fs": "errada",
+    "mp": "errados",
+    "fp": "erradas"
+  }
+}

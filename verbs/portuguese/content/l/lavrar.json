@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lavrar"
+  },
+  "InfP": {
+    "1s": "lavrar",
+    "2s": "lavrares",
+    "3s": "lavrar",
+    "1p": "lavrarmos",
+    "2p": "lavrardes",
+    "3p": "lavrarem"
+  },
+  "Ger": {
+    "": "lavrando"
+  },
+  "PresI": {
+    "1s": "lavro",
+    "2s": "lavras",
+    "3s": "lavra",
+    "1p": "lavramos",
+    "2p": "lavrais",
+    "3p": "lavram"
+  },
+  "PImpI": {
+    "1s": "lavrava",
+    "2s": "lavravas",
+    "3s": "lavrava",
+    "1p": "lavrávamos",
+    "2p": "lavráveis",
+    "3p": "lavravam"
+  },
+  "PPSI": {
+    "1s": "lavrei",
+    "2s": "lavraste",
+    "3s": "lavrou",
+    "1p": "lavrámos",
+    "2p": "lavrastes",
+    "3p": "lavraram"
+  },
+  "PMQPSI": {
+    "1s": "lavrara",
+    "2s": "lavraras",
+    "3s": "lavrara",
+    "1p": "lavráramos",
+    "2p": "lavráreis",
+    "3p": "lavraram"
+  },
+  "FutSI": {
+    "1s": "lavrarei",
+    "2s": "lavrarás",
+    "3s": "lavrará",
+    "1p": "lavraremos",
+    "2p": "lavrareis",
+    "3p": "lavrarão"
+  },
+  "CondS": {
+    "1s": "lavraria",
+    "2s": "lavrarias",
+    "3s": "lavraria",
+    "1p": "lavraríamos",
+    "2p": "lavraríeis",
+    "3p": "lavrariam"
+  },
+  "PresC": {
+    "1s": "lavre",
+    "2s": "lavres",
+    "3s": "lavre",
+    "1p": "lavremos",
+    "2p": "lavreis",
+    "3p": "lavrem"
+  },
+  "PImpC": {
+    "1s": "lavrasse",
+    "2s": "lavrasses",
+    "3s": "lavrasse",
+    "1p": "lavrássemos",
+    "2p": "lavrásseis",
+    "3p": "lavrassem"
+  },
+  "FutSC": {
+    "1s": "lavrar",
+    "2s": "lavrares",
+    "3s": "lavrar",
+    "1p": "lavrarmos",
+    "2p": "lavrardes",
+    "3p": "lavrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lavra",
+    "3s": "lavre",
+    "1p": "lavremos",
+    "2p": "lavrai",
+    "3p": "lavrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lavres",
+    "3s": "não lavre",
+    "1p": "não lavremos",
+    "2p": "não lavreis",
+    "3p": "não lavrem"
+  },
+  "Part-ter": {
+    "": "lavrado"
+  },
+  "Part-ser": {
+    "ms": "lavrado",
+    "fs": "lavrada",
+    "mp": "lavrados",
+    "fp": "lavradas"
+  }
+}

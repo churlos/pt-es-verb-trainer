@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acampar"
+  },
+  "InfP": {
+    "1s": "acampar",
+    "2s": "acampares",
+    "3s": "acampar",
+    "1p": "acamparmos",
+    "2p": "acampardes",
+    "3p": "acamparem"
+  },
+  "Ger": {
+    "": "acampando"
+  },
+  "PresI": {
+    "1s": "acampo",
+    "2s": "acampas",
+    "3s": "acampa",
+    "1p": "acampamos",
+    "2p": "acampais",
+    "3p": "acampam"
+  },
+  "PImpI": {
+    "1s": "acampava",
+    "2s": "acampavas",
+    "3s": "acampava",
+    "1p": "acampávamos",
+    "2p": "acampáveis",
+    "3p": "acampavam"
+  },
+  "PPSI": {
+    "1s": "acampei",
+    "2s": "acampaste",
+    "3s": "acampou",
+    "1p": "acampámos",
+    "2p": "acampastes",
+    "3p": "acamparam"
+  },
+  "PMQPSI": {
+    "1s": "acampara",
+    "2s": "acamparas",
+    "3s": "acampara",
+    "1p": "acampáramos",
+    "2p": "acampáreis",
+    "3p": "acamparam"
+  },
+  "FutSI": {
+    "1s": "acamparei",
+    "2s": "acamparás",
+    "3s": "acampará",
+    "1p": "acamparemos",
+    "2p": "acampareis",
+    "3p": "acamparão"
+  },
+  "CondS": {
+    "1s": "acamparia",
+    "2s": "acamparias",
+    "3s": "acamparia",
+    "1p": "acamparíamos",
+    "2p": "acamparíeis",
+    "3p": "acampariam"
+  },
+  "PresC": {
+    "1s": "acampe",
+    "2s": "acampes",
+    "3s": "acampe",
+    "1p": "acampemos",
+    "2p": "acampeis",
+    "3p": "acampem"
+  },
+  "PImpC": {
+    "1s": "acampasse",
+    "2s": "acampasses",
+    "3s": "acampasse",
+    "1p": "acampássemos",
+    "2p": "acampásseis",
+    "3p": "acampassem"
+  },
+  "FutSC": {
+    "1s": "acampar",
+    "2s": "acampares",
+    "3s": "acampar",
+    "1p": "acamparmos",
+    "2p": "acampardes",
+    "3p": "acamparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acampa",
+    "3s": "acampe",
+    "1p": "acampemos",
+    "2p": "acampai",
+    "3p": "acampem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acampes",
+    "3s": "não acampe",
+    "1p": "não acampemos",
+    "2p": "não acampeis",
+    "3p": "não acampem"
+  },
+  "Part-ter": {
+    "": "acampado"
+  },
+  "Part-ser": {
+    "ms": "acampado",
+    "fs": "acampada",
+    "mp": "acampados",
+    "fp": "acampadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "retocar"
+  },
+  "InfP": {
+    "1s": "retocar",
+    "2s": "retocares",
+    "3s": "retocar",
+    "1p": "retocarmos",
+    "2p": "retocardes",
+    "3p": "retocarem"
+  },
+  "Ger": {
+    "": "retocando"
+  },
+  "PresI": {
+    "1s": "retoco",
+    "2s": "retocas",
+    "3s": "retoca",
+    "1p": "retocamos",
+    "2p": "retocais",
+    "3p": "retocam"
+  },
+  "PImpI": {
+    "1s": "retocava",
+    "2s": "retocavas",
+    "3s": "retocava",
+    "1p": "retocávamos",
+    "2p": "retocáveis",
+    "3p": "retocavam"
+  },
+  "PPSI": {
+    "1s": "retoquei",
+    "2s": "retocaste",
+    "3s": "retocou",
+    "1p": "retocámos",
+    "2p": "retocastes",
+    "3p": "retocaram"
+  },
+  "PMQPSI": {
+    "1s": "retocara",
+    "2s": "retocaras",
+    "3s": "retocara",
+    "1p": "retocáramos",
+    "2p": "retocáreis",
+    "3p": "retocaram"
+  },
+  "FutSI": {
+    "1s": "retocarei",
+    "2s": "retocarás",
+    "3s": "retocará",
+    "1p": "retocaremos",
+    "2p": "retocareis",
+    "3p": "retocarão"
+  },
+  "CondS": {
+    "1s": "retocaria",
+    "2s": "retocarias",
+    "3s": "retocaria",
+    "1p": "retocaríamos",
+    "2p": "retocaríeis",
+    "3p": "retocariam"
+  },
+  "PresC": {
+    "1s": "retoque",
+    "2s": "retoques",
+    "3s": "retoque",
+    "1p": "retoquemos",
+    "2p": "retoqueis",
+    "3p": "retoquem"
+  },
+  "PImpC": {
+    "1s": "retocasse",
+    "2s": "retocasses",
+    "3s": "retocasse",
+    "1p": "retocássemos",
+    "2p": "retocásseis",
+    "3p": "retocassem"
+  },
+  "FutSC": {
+    "1s": "retocar",
+    "2s": "retocares",
+    "3s": "retocar",
+    "1p": "retocarmos",
+    "2p": "retocardes",
+    "3p": "retocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retoca",
+    "3s": "retoque",
+    "1p": "retoquemos",
+    "2p": "retocai",
+    "3p": "retoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não retoques",
+    "3s": "não retoque",
+    "1p": "não retoquemos",
+    "2p": "não retoqueis",
+    "3p": "não retoquem"
+  },
+  "Part-ter": {
+    "": "retocado"
+  },
+  "Part-ser": {
+    "ms": "retocado",
+    "fs": "retocada",
+    "mp": "retocados",
+    "fp": "retocadas"
+  }
+}

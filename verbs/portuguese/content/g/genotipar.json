@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "genotipar"
+  },
+  "InfP": {
+    "1s": "genotipar",
+    "2s": "genotipares",
+    "3s": "genotipar",
+    "1p": "genotiparmos",
+    "2p": "genotipardes",
+    "3p": "genotiparem"
+  },
+  "Ger": {
+    "": "genotipando"
+  },
+  "PresI": {
+    "1s": "genotipo",
+    "2s": "genotipas",
+    "3s": "genotipa",
+    "1p": "genotipamos",
+    "2p": "genotipais",
+    "3p": "genotipam"
+  },
+  "PImpI": {
+    "1s": "genotipava",
+    "2s": "genotipavas",
+    "3s": "genotipava",
+    "1p": "genotipávamos",
+    "2p": "genotipáveis",
+    "3p": "genotipavam"
+  },
+  "PPSI": {
+    "1s": "genotipei",
+    "2s": "genotipaste",
+    "3s": "genotipou",
+    "1p": "genotipámos",
+    "2p": "genotipastes",
+    "3p": "genotiparam"
+  },
+  "PMQPSI": {
+    "1s": "genotipara",
+    "2s": "genotiparas",
+    "3s": "genotipara",
+    "1p": "genotipáramos",
+    "2p": "genotipáreis",
+    "3p": "genotiparam"
+  },
+  "FutSI": {
+    "1s": "genotiparei",
+    "2s": "genotiparás",
+    "3s": "genotipará",
+    "1p": "genotiparemos",
+    "2p": "genotipareis",
+    "3p": "genotiparão"
+  },
+  "CondS": {
+    "1s": "genotiparia",
+    "2s": "genotiparias",
+    "3s": "genotiparia",
+    "1p": "genotiparíamos",
+    "2p": "genotiparíeis",
+    "3p": "genotipariam"
+  },
+  "PresC": {
+    "1s": "genotipe",
+    "2s": "genotipes",
+    "3s": "genotipe",
+    "1p": "genotipemos",
+    "2p": "genotipeis",
+    "3p": "genotipem"
+  },
+  "PImpC": {
+    "1s": "genotipasse",
+    "2s": "genotipasses",
+    "3s": "genotipasse",
+    "1p": "genotipássemos",
+    "2p": "genotipásseis",
+    "3p": "genotipassem"
+  },
+  "FutSC": {
+    "1s": "genotipar",
+    "2s": "genotipares",
+    "3s": "genotipar",
+    "1p": "genotiparmos",
+    "2p": "genotipardes",
+    "3p": "genotiparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "genotipa",
+    "3s": "genotipe",
+    "1p": "genotipemos",
+    "2p": "genotipai",
+    "3p": "genotipem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não genotipes",
+    "3s": "não genotipe",
+    "1p": "não genotipemos",
+    "2p": "não genotipeis",
+    "3p": "não genotipem"
+  },
+  "Part-ter": {
+    "": "genotipado"
+  },
+  "Part-ser": {
+    "ms": "genotipado",
+    "fs": "genotipada",
+    "mp": "genotipados",
+    "fp": "genotipadas"
+  }
+}

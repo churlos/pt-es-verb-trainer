@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mesmerizar"
+  },
+  "InfP": {
+    "1s": "mesmerizar",
+    "2s": "mesmerizares",
+    "3s": "mesmerizar",
+    "1p": "mesmerizarmos",
+    "2p": "mesmerizardes",
+    "3p": "mesmerizarem"
+  },
+  "Ger": {
+    "": "mesmerizando"
+  },
+  "PresI": {
+    "1s": "mesmerizo",
+    "2s": "mesmerizas",
+    "3s": "mesmeriza",
+    "1p": "mesmerizamos",
+    "2p": "mesmerizais",
+    "3p": "mesmerizam"
+  },
+  "PImpI": {
+    "1s": "mesmerizava",
+    "2s": "mesmerizavas",
+    "3s": "mesmerizava",
+    "1p": "mesmerizávamos",
+    "2p": "mesmerizáveis",
+    "3p": "mesmerizavam"
+  },
+  "PPSI": {
+    "1s": "mesmerizei",
+    "2s": "mesmerizaste",
+    "3s": "mesmerizou",
+    "1p": "mesmerizámos",
+    "2p": "mesmerizastes",
+    "3p": "mesmerizaram"
+  },
+  "PMQPSI": {
+    "1s": "mesmerizara",
+    "2s": "mesmerizaras",
+    "3s": "mesmerizara",
+    "1p": "mesmerizáramos",
+    "2p": "mesmerizáreis",
+    "3p": "mesmerizaram"
+  },
+  "FutSI": {
+    "1s": "mesmerizarei",
+    "2s": "mesmerizarás",
+    "3s": "mesmerizará",
+    "1p": "mesmerizaremos",
+    "2p": "mesmerizareis",
+    "3p": "mesmerizarão"
+  },
+  "CondS": {
+    "1s": "mesmerizaria",
+    "2s": "mesmerizarias",
+    "3s": "mesmerizaria",
+    "1p": "mesmerizaríamos",
+    "2p": "mesmerizaríeis",
+    "3p": "mesmerizariam"
+  },
+  "PresC": {
+    "1s": "mesmerize",
+    "2s": "mesmerizes",
+    "3s": "mesmerize",
+    "1p": "mesmerizemos",
+    "2p": "mesmerizeis",
+    "3p": "mesmerizem"
+  },
+  "PImpC": {
+    "1s": "mesmerizasse",
+    "2s": "mesmerizasses",
+    "3s": "mesmerizasse",
+    "1p": "mesmerizássemos",
+    "2p": "mesmerizásseis",
+    "3p": "mesmerizassem"
+  },
+  "FutSC": {
+    "1s": "mesmerizar",
+    "2s": "mesmerizares",
+    "3s": "mesmerizar",
+    "1p": "mesmerizarmos",
+    "2p": "mesmerizardes",
+    "3p": "mesmerizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mesmeriza",
+    "3s": "mesmerize",
+    "1p": "mesmerizemos",
+    "2p": "mesmerizai",
+    "3p": "mesmerizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mesmerizes",
+    "3s": "não mesmerize",
+    "1p": "não mesmerizemos",
+    "2p": "não mesmerizeis",
+    "3p": "não mesmerizem"
+  },
+  "Part-ter": {
+    "": "mesmerizado"
+  },
+  "Part-ser": {
+    "ms": "mesmerizado",
+    "fs": "mesmerizada",
+    "mp": "mesmerizados",
+    "fp": "mesmerizadas"
+  }
+}

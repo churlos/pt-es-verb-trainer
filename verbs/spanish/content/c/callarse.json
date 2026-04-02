@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "callarse"
+  },
+  "Ger": {
+    "": "callándose"
+  },
+  "PresI": {
+    "1s": "me callo",
+    "2s": "te callas",
+    "3s": "se calla",
+    "1p": "nos callamos",
+    "2p": "os calláis",
+    "3p": "se callan"
+  },
+  "PImpI": {
+    "1s": "me callaba",
+    "2s": "te callabas",
+    "3s": "se callaba",
+    "1p": "nos callábamos",
+    "2p": "os callabais",
+    "3p": "se callaban"
+  },
+  "PPSI": {
+    "1s": "me callé",
+    "2s": "te callaste",
+    "3s": "se calló",
+    "1p": "nos callamos",
+    "2p": "os callasteis",
+    "3p": "se callaron"
+  },
+  "FutSI": {
+    "1s": "me callaré",
+    "2s": "te callarás",
+    "3s": "se callará",
+    "1p": "nos callaremos",
+    "2p": "os callaréis",
+    "3p": "se callarán"
+  },
+  "CondS": {
+    "1s": "me callaría",
+    "2s": "te callarías",
+    "3s": "se callaría",
+    "1p": "nos callaríamos",
+    "2p": "os callaríais",
+    "3p": "se callarían"
+  },
+  "PresC": {
+    "1s": "me calle",
+    "2s": "te calles",
+    "3s": "se calle",
+    "1p": "nos callemos",
+    "2p": "os calléis",
+    "3p": "se callen"
+  },
+  "PMQPSI": {
+    "1s": "me callara",
+    "2s": "te callaras",
+    "3s": "se callara",
+    "1p": "nos calláramos",
+    "2p": "os callarais",
+    "3p": "se callaran"
+  },
+  "PImpC": {
+    "1s": "me callase",
+    "2s": "te callases",
+    "3s": "se callase",
+    "1p": "nos callásemos",
+    "2p": "os callaseis",
+    "3p": "se callasen"
+  },
+  "FutSC": {
+    "1s": "me callare",
+    "2s": "te callares",
+    "3s": "se callare",
+    "1p": "nos calláremos",
+    "2p": "os callareis",
+    "3p": "se callaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cállate",
+    "3s": "cállese",
+    "1p": "callémonos",
+    "2p": "callaos",
+    "3p": "cállense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te calles",
+    "3s": "no se calle",
+    "1p": "no nos callemos",
+    "2p": "no os calléis",
+    "3p": "no se callen"
+  },
+  "Part-ter": {
+    "": "callado"
+  },
+  "Part-ser": {
+    "ms": "callado",
+    "fs": "callada",
+    "mp": "callados",
+    "fp": "calladas"
+  }
+}

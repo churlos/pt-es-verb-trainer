@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cobrar"
+  },
+  "Ger": {
+    "": "cobrando"
+  },
+  "PresI": {
+    "1s": "cobro",
+    "2s": "cobras",
+    "3s": "cobra",
+    "1p": "cobramos",
+    "2p": "cobráis",
+    "3p": "cobran"
+  },
+  "PImpI": {
+    "1s": "cobraba",
+    "2s": "cobrabas",
+    "3s": "cobraba",
+    "1p": "cobrábamos",
+    "2p": "cobrabais",
+    "3p": "cobraban"
+  },
+  "PPSI": {
+    "1s": "cobré",
+    "2s": "cobraste",
+    "3s": "cobró",
+    "1p": "cobramos",
+    "2p": "cobrasteis",
+    "3p": "cobraron"
+  },
+  "FutSI": {
+    "1s": "cobraré",
+    "2s": "cobrarás",
+    "3s": "cobrará",
+    "1p": "cobraremos",
+    "2p": "cobraréis",
+    "3p": "cobrarán"
+  },
+  "CondS": {
+    "1s": "cobraría",
+    "2s": "cobrarías",
+    "3s": "cobraría",
+    "1p": "cobraríamos",
+    "2p": "cobraríais",
+    "3p": "cobrarían"
+  },
+  "PresC": {
+    "1s": "cobre",
+    "2s": "cobres",
+    "3s": "cobre",
+    "1p": "cobremos",
+    "2p": "cobréis",
+    "3p": "cobren"
+  },
+  "PMQPSI": {
+    "1s": "cobrara",
+    "2s": "cobraras",
+    "3s": "cobrara",
+    "1p": "cobráramos",
+    "2p": "cobrarais",
+    "3p": "cobraran"
+  },
+  "PImpC": {
+    "1s": "cobrase",
+    "2s": "cobrases",
+    "3s": "cobrase",
+    "1p": "cobrásemos",
+    "2p": "cobraseis",
+    "3p": "cobrasen"
+  },
+  "FutSC": {
+    "1s": "cobrare",
+    "2s": "cobrares",
+    "3s": "cobrare",
+    "1p": "cobráremos",
+    "2p": "cobrareis",
+    "3p": "cobraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cobra",
+    "3s": "cobre",
+    "1p": "cobremos",
+    "2p": "cobrad",
+    "3p": "cobren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cobres",
+    "3s": "no cobre",
+    "1p": "no cobremos",
+    "2p": "no cobréis",
+    "3p": "no cobren"
+  },
+  "Part-ter": {
+    "": "cobrado"
+  },
+  "Part-ser": {
+    "ms": "cobrado",
+    "fs": "cobrada",
+    "mp": "cobrados",
+    "fp": "cobradas"
+  }
+}

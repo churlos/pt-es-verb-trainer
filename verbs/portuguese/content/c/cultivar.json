@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cultivar"
+  },
+  "InfP": {
+    "1s": "cultivar",
+    "2s": "cultivares",
+    "3s": "cultivar",
+    "1p": "cultivarmos",
+    "2p": "cultivardes",
+    "3p": "cultivarem"
+  },
+  "Ger": {
+    "": "cultivando"
+  },
+  "PresI": {
+    "1s": "cultivo",
+    "2s": "cultivas",
+    "3s": "cultiva",
+    "1p": "cultivamos",
+    "2p": "cultivais",
+    "3p": "cultivam"
+  },
+  "PImpI": {
+    "1s": "cultivava",
+    "2s": "cultivavas",
+    "3s": "cultivava",
+    "1p": "cultivávamos",
+    "2p": "cultiváveis",
+    "3p": "cultivavam"
+  },
+  "PPSI": {
+    "1s": "cultivei",
+    "2s": "cultivaste",
+    "3s": "cultivou",
+    "1p": "cultivámos",
+    "2p": "cultivastes",
+    "3p": "cultivaram"
+  },
+  "PMQPSI": {
+    "1s": "cultivara",
+    "2s": "cultivaras",
+    "3s": "cultivara",
+    "1p": "cultiváramos",
+    "2p": "cultiváreis",
+    "3p": "cultivaram"
+  },
+  "FutSI": {
+    "1s": "cultivarei",
+    "2s": "cultivarás",
+    "3s": "cultivará",
+    "1p": "cultivaremos",
+    "2p": "cultivareis",
+    "3p": "cultivarão"
+  },
+  "CondS": {
+    "1s": "cultivaria",
+    "2s": "cultivarias",
+    "3s": "cultivaria",
+    "1p": "cultivaríamos",
+    "2p": "cultivaríeis",
+    "3p": "cultivariam"
+  },
+  "PresC": {
+    "1s": "cultive",
+    "2s": "cultives",
+    "3s": "cultive",
+    "1p": "cultivemos",
+    "2p": "cultiveis",
+    "3p": "cultivem"
+  },
+  "PImpC": {
+    "1s": "cultivasse",
+    "2s": "cultivasses",
+    "3s": "cultivasse",
+    "1p": "cultivássemos",
+    "2p": "cultivásseis",
+    "3p": "cultivassem"
+  },
+  "FutSC": {
+    "1s": "cultivar",
+    "2s": "cultivares",
+    "3s": "cultivar",
+    "1p": "cultivarmos",
+    "2p": "cultivardes",
+    "3p": "cultivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cultiva",
+    "3s": "cultive",
+    "1p": "cultivemos",
+    "2p": "cultivai",
+    "3p": "cultivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cultives",
+    "3s": "não cultive",
+    "1p": "não cultivemos",
+    "2p": "não cultiveis",
+    "3p": "não cultivem"
+  },
+  "Part-ter": {
+    "": "cultivado"
+  },
+  "Part-ser": {
+    "ms": "cultivado",
+    "fs": "cultivada",
+    "mp": "cultivados",
+    "fp": "cultivadas"
+  }
+}

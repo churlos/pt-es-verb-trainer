@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "regularizar"
+  },
+  "Ger": {
+    "": "regularizando"
+  },
+  "PresI": {
+    "1s": "regularizo",
+    "2s": "regularizas",
+    "3s": "regulariza",
+    "1p": "regularizamos",
+    "2p": "regularizáis",
+    "3p": "regularizan"
+  },
+  "PImpI": {
+    "1s": "regularizaba",
+    "2s": "regularizabas",
+    "3s": "regularizaba",
+    "1p": "regularizábamos",
+    "2p": "regularizabais",
+    "3p": "regularizaban"
+  },
+  "PPSI": {
+    "1s": "regularicé",
+    "2s": "regularizaste",
+    "3s": "regularizó",
+    "1p": "regularizamos",
+    "2p": "regularizasteis",
+    "3p": "regularizaron"
+  },
+  "FutSI": {
+    "1s": "regularizaré",
+    "2s": "regularizarás",
+    "3s": "regularizará",
+    "1p": "regularizaremos",
+    "2p": "regularizaréis",
+    "3p": "regularizarán"
+  },
+  "CondS": {
+    "1s": "regularizaría",
+    "2s": "regularizarías",
+    "3s": "regularizaría",
+    "1p": "regularizaríamos",
+    "2p": "regularizaríais",
+    "3p": "regularizarían"
+  },
+  "PresC": {
+    "1s": "regularice",
+    "2s": "regularices",
+    "3s": "regularice",
+    "1p": "regularicemos",
+    "2p": "regularicéis",
+    "3p": "regularicen"
+  },
+  "PMQPSI": {
+    "1s": "regularizara",
+    "2s": "regularizaras",
+    "3s": "regularizara",
+    "1p": "regularizáramos",
+    "2p": "regularizarais",
+    "3p": "regularizaran"
+  },
+  "PImpC": {
+    "1s": "regularizase",
+    "2s": "regularizases",
+    "3s": "regularizase",
+    "1p": "regularizásemos",
+    "2p": "regularizaseis",
+    "3p": "regularizasen"
+  },
+  "FutSC": {
+    "1s": "regularizare",
+    "2s": "regularizares",
+    "3s": "regularizare",
+    "1p": "regularizáremos",
+    "2p": "regularizareis",
+    "3p": "regularizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regulariza",
+    "3s": "regularice",
+    "1p": "regularicemos",
+    "2p": "regularizad",
+    "3p": "regularicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no regularices",
+    "3s": "no regularice",
+    "1p": "no regularicemos",
+    "2p": "no regularicéis",
+    "3p": "no regularicen"
+  },
+  "Part-ter": {
+    "": "regularizado"
+  },
+  "Part-ser": {
+    "ms": "regularizado",
+    "fs": "regularizada",
+    "mp": "regularizados",
+    "fp": "regularizadas"
+  }
+}

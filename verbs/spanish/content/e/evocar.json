@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "evocar"
+  },
+  "Ger": {
+    "": "evocando"
+  },
+  "PresI": {
+    "1s": "evoco",
+    "2s": "evocas",
+    "3s": "evoca",
+    "1p": "evocamos",
+    "2p": "evocáis",
+    "3p": "evocan"
+  },
+  "PImpI": {
+    "1s": "evocaba",
+    "2s": "evocabas",
+    "3s": "evocaba",
+    "1p": "evocábamos",
+    "2p": "evocabais",
+    "3p": "evocaban"
+  },
+  "PPSI": {
+    "1s": "evoqué",
+    "2s": "evocaste",
+    "3s": "evocó",
+    "1p": "evocamos",
+    "2p": "evocasteis",
+    "3p": "evocaron"
+  },
+  "FutSI": {
+    "1s": "evocaré",
+    "2s": "evocarás",
+    "3s": "evocará",
+    "1p": "evocaremos",
+    "2p": "evocaréis",
+    "3p": "evocarán"
+  },
+  "CondS": {
+    "1s": "evocaría",
+    "2s": "evocarías",
+    "3s": "evocaría",
+    "1p": "evocaríamos",
+    "2p": "evocaríais",
+    "3p": "evocarían"
+  },
+  "PresC": {
+    "1s": "evoque",
+    "2s": "evoques",
+    "3s": "evoque",
+    "1p": "evoquemos",
+    "2p": "evoquéis",
+    "3p": "evoquen"
+  },
+  "PMQPSI": {
+    "1s": "evocara",
+    "2s": "evocaras",
+    "3s": "evocara",
+    "1p": "evocáramos",
+    "2p": "evocarais",
+    "3p": "evocaran"
+  },
+  "PImpC": {
+    "1s": "evocase",
+    "2s": "evocases",
+    "3s": "evocase",
+    "1p": "evocásemos",
+    "2p": "evocaseis",
+    "3p": "evocasen"
+  },
+  "FutSC": {
+    "1s": "evocare",
+    "2s": "evocares",
+    "3s": "evocare",
+    "1p": "evocáremos",
+    "2p": "evocareis",
+    "3p": "evocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evoca",
+    "3s": "evoque",
+    "1p": "evoquemos",
+    "2p": "evocad",
+    "3p": "evoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no evoques",
+    "3s": "no evoque",
+    "1p": "no evoquemos",
+    "2p": "no evoquéis",
+    "3p": "no evoquen"
+  },
+  "Part-ter": {
+    "": "evocado"
+  },
+  "Part-ser": {
+    "ms": "evocado",
+    "fs": "evocada",
+    "mp": "evocados",
+    "fp": "evocadas"
+  }
+}

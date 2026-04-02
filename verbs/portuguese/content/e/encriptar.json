@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encriptar"
+  },
+  "InfP": {
+    "1s": "encriptar",
+    "2s": "encriptares",
+    "3s": "encriptar",
+    "1p": "encriptarmos",
+    "2p": "encriptardes",
+    "3p": "encriptarem"
+  },
+  "Ger": {
+    "": "encriptando"
+  },
+  "PresI": {
+    "1s": "encripto",
+    "2s": "encriptas",
+    "3s": "encripta",
+    "1p": "encriptamos",
+    "2p": "encriptais",
+    "3p": "encriptam"
+  },
+  "PImpI": {
+    "1s": "encriptava",
+    "2s": "encriptavas",
+    "3s": "encriptava",
+    "1p": "encriptávamos",
+    "2p": "encriptáveis",
+    "3p": "encriptavam"
+  },
+  "PPSI": {
+    "1s": "encriptei",
+    "2s": "encriptaste",
+    "3s": "encriptou",
+    "1p": "encriptámos",
+    "2p": "encriptastes",
+    "3p": "encriptaram"
+  },
+  "PMQPSI": {
+    "1s": "encriptara",
+    "2s": "encriptaras",
+    "3s": "encriptara",
+    "1p": "encriptáramos",
+    "2p": "encriptáreis",
+    "3p": "encriptaram"
+  },
+  "FutSI": {
+    "1s": "encriptarei",
+    "2s": "encriptarás",
+    "3s": "encriptará",
+    "1p": "encriptaremos",
+    "2p": "encriptareis",
+    "3p": "encriptarão"
+  },
+  "CondS": {
+    "1s": "encriptaria",
+    "2s": "encriptarias",
+    "3s": "encriptaria",
+    "1p": "encriptaríamos",
+    "2p": "encriptaríeis",
+    "3p": "encriptariam"
+  },
+  "PresC": {
+    "1s": "encripte",
+    "2s": "encriptes",
+    "3s": "encripte",
+    "1p": "encriptemos",
+    "2p": "encripteis",
+    "3p": "encriptem"
+  },
+  "PImpC": {
+    "1s": "encriptasse",
+    "2s": "encriptasses",
+    "3s": "encriptasse",
+    "1p": "encriptássemos",
+    "2p": "encriptásseis",
+    "3p": "encriptassem"
+  },
+  "FutSC": {
+    "1s": "encriptar",
+    "2s": "encriptares",
+    "3s": "encriptar",
+    "1p": "encriptarmos",
+    "2p": "encriptardes",
+    "3p": "encriptarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encripta",
+    "3s": "encripte",
+    "1p": "encriptemos",
+    "2p": "encriptai",
+    "3p": "encriptem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encriptes",
+    "3s": "não encripte",
+    "1p": "não encriptemos",
+    "2p": "não encripteis",
+    "3p": "não encriptem"
+  },
+  "Part-ter": {
+    "": "encriptado"
+  },
+  "Part-ser": {
+    "ms": "encriptado",
+    "fs": "encriptada",
+    "mp": "encriptados",
+    "fp": "encriptadas"
+  }
+}

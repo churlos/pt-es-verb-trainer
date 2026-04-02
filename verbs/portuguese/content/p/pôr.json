@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pôr"
+  },
+  "InfP": {
+    "1s": "pôr",
+    "2s": "pores",
+    "3s": "pôr",
+    "1p": "pormos",
+    "2p": "pordes",
+    "3p": "porem"
+  },
+  "Ger": {
+    "": "pondo"
+  },
+  "PresI": {
+    "1s": "ponho",
+    "2s": "pões",
+    "3s": "põe",
+    "1p": "pomos",
+    "2p": "pondes",
+    "3p": "põem"
+  },
+  "PImpI": {
+    "1s": "punha",
+    "2s": "punhas",
+    "3s": "punha",
+    "1p": "púnhamos",
+    "2p": "púnheis",
+    "3p": "punham"
+  },
+  "PPSI": {
+    "1s": "pus",
+    "2s": "puseste",
+    "3s": "pôs",
+    "1p": "pusemos",
+    "2p": "pusestes",
+    "3p": "puseram"
+  },
+  "PMQPSI": {
+    "1s": "pusera",
+    "2s": "puseras",
+    "3s": "pusera",
+    "1p": "puséramos",
+    "2p": "puséreis",
+    "3p": "puseram"
+  },
+  "FutSI": {
+    "1s": "porei",
+    "2s": "porás",
+    "3s": "porá",
+    "1p": "poremos",
+    "2p": "poreis",
+    "3p": "porão"
+  },
+  "CondS": {
+    "1s": "poria",
+    "2s": "porias",
+    "3s": "poria",
+    "1p": "poríamos",
+    "2p": "poríeis",
+    "3p": "poriam"
+  },
+  "PresC": {
+    "1s": "ponha",
+    "2s": "ponhas",
+    "3s": "ponha",
+    "1p": "ponhamos",
+    "2p": "ponhais",
+    "3p": "ponham"
+  },
+  "PImpC": {
+    "1s": "pusesse",
+    "2s": "pusesses",
+    "3s": "pusesse",
+    "1p": "puséssemos",
+    "2p": "pusésseis",
+    "3p": "pusessem"
+  },
+  "FutSC": {
+    "1s": "puser",
+    "2s": "puseres",
+    "3s": "puser",
+    "1p": "pusermos",
+    "2p": "puserdes",
+    "3p": "puserem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "põe",
+    "3s": "ponha",
+    "1p": "ponhamos",
+    "2p": "ponde",
+    "3p": "ponham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ponhas",
+    "3s": "não ponha",
+    "1p": "não ponhamos",
+    "2p": "não ponhais",
+    "3p": "não ponham"
+  },
+  "Part-ter": {
+    "": "posto"
+  },
+  "Part-ser": {
+    "ms": "posto",
+    "fs": "posta",
+    "mp": "postos",
+    "fp": "postas"
+  }
+}

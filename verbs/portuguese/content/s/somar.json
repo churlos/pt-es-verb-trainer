@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "somar"
+  },
+  "InfP": {
+    "1s": "somar",
+    "2s": "somares",
+    "3s": "somar",
+    "1p": "somarmos",
+    "2p": "somardes",
+    "3p": "somarem"
+  },
+  "Ger": {
+    "": "somando"
+  },
+  "PresI": {
+    "1s": "somo",
+    "2s": "somas",
+    "3s": "soma",
+    "1p": "somamos",
+    "2p": "somais",
+    "3p": "somam"
+  },
+  "PImpI": {
+    "1s": "somava",
+    "2s": "somavas",
+    "3s": "somava",
+    "1p": "somávamos",
+    "2p": "somáveis",
+    "3p": "somavam"
+  },
+  "PPSI": {
+    "1s": "somei",
+    "2s": "somaste",
+    "3s": "somou",
+    "1p": "somámos",
+    "2p": "somastes",
+    "3p": "somaram"
+  },
+  "PMQPSI": {
+    "1s": "somara",
+    "2s": "somaras",
+    "3s": "somara",
+    "1p": "somáramos",
+    "2p": "somáreis",
+    "3p": "somaram"
+  },
+  "FutSI": {
+    "1s": "somarei",
+    "2s": "somarás",
+    "3s": "somará",
+    "1p": "somaremos",
+    "2p": "somareis",
+    "3p": "somarão"
+  },
+  "CondS": {
+    "1s": "somaria",
+    "2s": "somarias",
+    "3s": "somaria",
+    "1p": "somaríamos",
+    "2p": "somaríeis",
+    "3p": "somariam"
+  },
+  "PresC": {
+    "1s": "some",
+    "2s": "somes",
+    "3s": "some",
+    "1p": "somemos",
+    "2p": "someis",
+    "3p": "somem"
+  },
+  "PImpC": {
+    "1s": "somasse",
+    "2s": "somasses",
+    "3s": "somasse",
+    "1p": "somássemos",
+    "2p": "somásseis",
+    "3p": "somassem"
+  },
+  "FutSC": {
+    "1s": "somar",
+    "2s": "somares",
+    "3s": "somar",
+    "1p": "somarmos",
+    "2p": "somardes",
+    "3p": "somarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "soma",
+    "3s": "some",
+    "1p": "somemos",
+    "2p": "somai",
+    "3p": "somem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não somes",
+    "3s": "não some",
+    "1p": "não somemos",
+    "2p": "não someis",
+    "3p": "não somem"
+  },
+  "Part-ter": {
+    "": "somado"
+  },
+  "Part-ser": {
+    "ms": "somado",
+    "fs": "somada",
+    "mp": "somados",
+    "fp": "somadas"
+  }
+}

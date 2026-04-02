@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abater"
+  },
+  "InfP": {
+    "1s": "abater",
+    "2s": "abateres",
+    "3s": "abater",
+    "1p": "abatermos",
+    "2p": "abaterdes",
+    "3p": "abaterem"
+  },
+  "Ger": {
+    "": "abatendo"
+  },
+  "PresI": {
+    "1s": "abato",
+    "2s": "abates",
+    "3s": "abate",
+    "1p": "abatemos",
+    "2p": "abateis",
+    "3p": "abatem"
+  },
+  "PImpI": {
+    "1s": "abatia",
+    "2s": "abatias",
+    "3s": "abatia",
+    "1p": "abatíamos",
+    "2p": "abatíeis",
+    "3p": "abatiam"
+  },
+  "PPSI": {
+    "1s": "abati",
+    "2s": "abateste",
+    "3s": "abateu",
+    "1p": "abatemos",
+    "2p": "abatestes",
+    "3p": "abateram"
+  },
+  "PMQPSI": {
+    "1s": "abatera",
+    "2s": "abateras",
+    "3s": "abatera",
+    "1p": "abatêramos",
+    "2p": "abatêreis",
+    "3p": "abateram"
+  },
+  "FutSI": {
+    "1s": "abaterei",
+    "2s": "abaterás",
+    "3s": "abaterá",
+    "1p": "abateremos",
+    "2p": "abatereis",
+    "3p": "abaterão"
+  },
+  "CondS": {
+    "1s": "abateria",
+    "2s": "abaterias",
+    "3s": "abateria",
+    "1p": "abateríamos",
+    "2p": "abateríeis",
+    "3p": "abateriam"
+  },
+  "PresC": {
+    "1s": "abata",
+    "2s": "abatas",
+    "3s": "abata",
+    "1p": "abatamos",
+    "2p": "abatais",
+    "3p": "abatam"
+  },
+  "PImpC": {
+    "1s": "abatesse",
+    "2s": "abatesses",
+    "3s": "abatesse",
+    "1p": "abatêssemos",
+    "2p": "abatêsseis",
+    "3p": "abatessem"
+  },
+  "FutSC": {
+    "1s": "abater",
+    "2s": "abateres",
+    "3s": "abater",
+    "1p": "abatermos",
+    "2p": "abaterdes",
+    "3p": "abaterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abate",
+    "3s": "abata",
+    "1p": "abatamos",
+    "2p": "abatei",
+    "3p": "abatam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abatas",
+    "3s": "não abata",
+    "1p": "não abatamos",
+    "2p": "não abatais",
+    "3p": "não abatam"
+  },
+  "Part-ter": {
+    "": "abatido"
+  },
+  "Part-ser": {
+    "ms": "abatido",
+    "fs": "abatida",
+    "mp": "abatidos",
+    "fp": "abatidas"
+  }
+}

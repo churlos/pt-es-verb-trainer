@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "renacer"
+  },
+  "Ger": {
+    "": "renaciendo"
+  },
+  "PresI": {
+    "1s": "renazco",
+    "2s": "renaces",
+    "3s": "renace",
+    "1p": "renacemos",
+    "2p": "renacéis",
+    "3p": "renacen"
+  },
+  "PImpI": {
+    "1s": "renacía",
+    "2s": "renacías",
+    "3s": "renacía",
+    "1p": "renacíamos",
+    "2p": "renacíais",
+    "3p": "renacían"
+  },
+  "PPSI": {
+    "1s": "renací",
+    "2s": "renaciste",
+    "3s": "renació",
+    "1p": "renacimos",
+    "2p": "renacisteis",
+    "3p": "renacieron"
+  },
+  "FutSI": {
+    "1s": "renaceré",
+    "2s": "renacerás",
+    "3s": "renacerá",
+    "1p": "renaceremos",
+    "2p": "renaceréis",
+    "3p": "renacerán"
+  },
+  "CondS": {
+    "1s": "renacería",
+    "2s": "renacerías",
+    "3s": "renacería",
+    "1p": "renaceríamos",
+    "2p": "renaceríais",
+    "3p": "renacerían"
+  },
+  "PresC": {
+    "1s": "renazca",
+    "2s": "renazcas",
+    "3s": "renazca",
+    "1p": "renazcamos",
+    "2p": "renazcáis",
+    "3p": "renazcan"
+  },
+  "PMQPSI": {
+    "1s": "renaciera",
+    "2s": "renacieras",
+    "3s": "renaciera",
+    "1p": "renaciéramos",
+    "2p": "renacierais",
+    "3p": "renacieran"
+  },
+  "PImpC": {
+    "1s": "renaciese",
+    "2s": "renacieses",
+    "3s": "renaciese",
+    "1p": "renaciésemos",
+    "2p": "renacieseis",
+    "3p": "renaciesen"
+  },
+  "FutSC": {
+    "1s": "renaciere",
+    "2s": "renacieres",
+    "3s": "renaciere",
+    "1p": "renaciéremos",
+    "2p": "renaciereis",
+    "3p": "renacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renace",
+    "3s": "renazca",
+    "1p": "renazcamos",
+    "2p": "renaced",
+    "3p": "renazcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no renazcas",
+    "3s": "no renazca",
+    "1p": "no renazcamos",
+    "2p": "no renazcáis",
+    "3p": "no renazcan"
+  },
+  "Part-ter": {
+    "": "renacido"
+  },
+  "Part-ser": {
+    "ms": "renacido",
+    "fs": "renacida",
+    "mp": "renacidos",
+    "fp": "renacidas"
+  }
+}

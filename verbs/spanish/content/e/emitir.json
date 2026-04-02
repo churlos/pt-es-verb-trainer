@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "emitir"
+  },
+  "Ger": {
+    "": "emitiendo"
+  },
+  "PresI": {
+    "1s": "emito",
+    "2s": "emites",
+    "3s": "emite",
+    "1p": "emitimos",
+    "2p": "emitís",
+    "3p": "emiten"
+  },
+  "PImpI": {
+    "1s": "emitía",
+    "2s": "emitías",
+    "3s": "emitía",
+    "1p": "emitíamos",
+    "2p": "emitíais",
+    "3p": "emitían"
+  },
+  "PPSI": {
+    "1s": "emití",
+    "2s": "emitiste",
+    "3s": "emitió",
+    "1p": "emitimos",
+    "2p": "emitisteis",
+    "3p": "emitieron"
+  },
+  "FutSI": {
+    "1s": "emitiré",
+    "2s": "emitirás",
+    "3s": "emitirá",
+    "1p": "emitiremos",
+    "2p": "emitiréis",
+    "3p": "emitirán"
+  },
+  "CondS": {
+    "1s": "emitiría",
+    "2s": "emitirías",
+    "3s": "emitiría",
+    "1p": "emitiríamos",
+    "2p": "emitiríais",
+    "3p": "emitirían"
+  },
+  "PresC": {
+    "1s": "emita",
+    "2s": "emitas",
+    "3s": "emita",
+    "1p": "emitamos",
+    "2p": "emitáis",
+    "3p": "emitan"
+  },
+  "PMQPSI": {
+    "1s": "emitiera",
+    "2s": "emitieras",
+    "3s": "emitiera",
+    "1p": "emitiéramos",
+    "2p": "emitierais",
+    "3p": "emitieran"
+  },
+  "PImpC": {
+    "1s": "emitiese",
+    "2s": "emitieses",
+    "3s": "emitiese",
+    "1p": "emitiésemos",
+    "2p": "emitieseis",
+    "3p": "emitiesen"
+  },
+  "FutSC": {
+    "1s": "emitiere",
+    "2s": "emitieres",
+    "3s": "emitiere",
+    "1p": "emitiéremos",
+    "2p": "emitiereis",
+    "3p": "emitieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emite",
+    "3s": "emita",
+    "1p": "emitamos",
+    "2p": "emitid",
+    "3p": "emitan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no emitas",
+    "3s": "no emita",
+    "1p": "no emitamos",
+    "2p": "no emitáis",
+    "3p": "no emitan"
+  },
+  "Part-ter": {
+    "": "emitido"
+  },
+  "Part-ser": {
+    "ms": "emitido",
+    "fs": "emitida",
+    "mp": "emitidos",
+    "fp": "emitidas"
+  }
+}

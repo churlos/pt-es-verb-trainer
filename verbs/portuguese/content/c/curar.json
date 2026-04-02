@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "curar"
+  },
+  "InfP": {
+    "1s": "curar",
+    "2s": "curares",
+    "3s": "curar",
+    "1p": "curarmos",
+    "2p": "curardes",
+    "3p": "curarem"
+  },
+  "Ger": {
+    "": "curando"
+  },
+  "PresI": {
+    "1s": "curo",
+    "2s": "curas",
+    "3s": "cura",
+    "1p": "curamos",
+    "2p": "curais",
+    "3p": "curam"
+  },
+  "PImpI": {
+    "1s": "curava",
+    "2s": "curavas",
+    "3s": "curava",
+    "1p": "curávamos",
+    "2p": "curáveis",
+    "3p": "curavam"
+  },
+  "PPSI": {
+    "1s": "curei",
+    "2s": "curaste",
+    "3s": "curou",
+    "1p": "curámos",
+    "2p": "curastes",
+    "3p": "curaram"
+  },
+  "PMQPSI": {
+    "1s": "curara",
+    "2s": "curaras",
+    "3s": "curara",
+    "1p": "curáramos",
+    "2p": "curáreis",
+    "3p": "curaram"
+  },
+  "FutSI": {
+    "1s": "curarei",
+    "2s": "curarás",
+    "3s": "curará",
+    "1p": "curaremos",
+    "2p": "curareis",
+    "3p": "curarão"
+  },
+  "CondS": {
+    "1s": "curaria",
+    "2s": "curarias",
+    "3s": "curaria",
+    "1p": "curaríamos",
+    "2p": "curaríeis",
+    "3p": "curariam"
+  },
+  "PresC": {
+    "1s": "cure",
+    "2s": "cures",
+    "3s": "cure",
+    "1p": "curemos",
+    "2p": "cureis",
+    "3p": "curem"
+  },
+  "PImpC": {
+    "1s": "curasse",
+    "2s": "curasses",
+    "3s": "curasse",
+    "1p": "curássemos",
+    "2p": "curásseis",
+    "3p": "curassem"
+  },
+  "FutSC": {
+    "1s": "curar",
+    "2s": "curares",
+    "3s": "curar",
+    "1p": "curarmos",
+    "2p": "curardes",
+    "3p": "curarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cura",
+    "3s": "cure",
+    "1p": "curemos",
+    "2p": "curai",
+    "3p": "curem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cures",
+    "3s": "não cure",
+    "1p": "não curemos",
+    "2p": "não cureis",
+    "3p": "não curem"
+  },
+  "Part-ter": {
+    "": "curado"
+  },
+  "Part-ser": {
+    "ms": "curado",
+    "fs": "curada",
+    "mp": "curados",
+    "fp": "curadas"
+  }
+}

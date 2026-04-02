@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mancar"
+  },
+  "Ger": {
+    "": "mancando"
+  },
+  "PresI": {
+    "1s": "manco",
+    "2s": "mancas",
+    "3s": "manca",
+    "1p": "mancamos",
+    "2p": "mancáis",
+    "3p": "mancan"
+  },
+  "PImpI": {
+    "1s": "mancaba",
+    "2s": "mancabas",
+    "3s": "mancaba",
+    "1p": "mancábamos",
+    "2p": "mancabais",
+    "3p": "mancaban"
+  },
+  "PPSI": {
+    "1s": "manqué",
+    "2s": "mancaste",
+    "3s": "mancó",
+    "1p": "mancamos",
+    "2p": "mancasteis",
+    "3p": "mancaron"
+  },
+  "FutSI": {
+    "1s": "mancaré",
+    "2s": "mancarás",
+    "3s": "mancará",
+    "1p": "mancaremos",
+    "2p": "mancaréis",
+    "3p": "mancarán"
+  },
+  "CondS": {
+    "1s": "mancaría",
+    "2s": "mancarías",
+    "3s": "mancaría",
+    "1p": "mancaríamos",
+    "2p": "mancaríais",
+    "3p": "mancarían"
+  },
+  "PresC": {
+    "1s": "manque",
+    "2s": "manques",
+    "3s": "manque",
+    "1p": "manquemos",
+    "2p": "manquéis",
+    "3p": "manquen"
+  },
+  "PMQPSI": {
+    "1s": "mancara",
+    "2s": "mancaras",
+    "3s": "mancara",
+    "1p": "mancáramos",
+    "2p": "mancarais",
+    "3p": "mancaran"
+  },
+  "PImpC": {
+    "1s": "mancase",
+    "2s": "mancases",
+    "3s": "mancase",
+    "1p": "mancásemos",
+    "2p": "mancaseis",
+    "3p": "mancasen"
+  },
+  "FutSC": {
+    "1s": "mancare",
+    "2s": "mancares",
+    "3s": "mancare",
+    "1p": "mancáremos",
+    "2p": "mancareis",
+    "3p": "mancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manca",
+    "3s": "manque",
+    "1p": "manquemos",
+    "2p": "mancad",
+    "3p": "manquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no manques",
+    "3s": "no manque",
+    "1p": "no manquemos",
+    "2p": "no manquéis",
+    "3p": "no manquen"
+  },
+  "Part-ter": {
+    "": "mancado"
+  },
+  "Part-ser": {
+    "ms": "mancado",
+    "fs": "mancada",
+    "mp": "mancados",
+    "fp": "mancadas"
+  }
+}

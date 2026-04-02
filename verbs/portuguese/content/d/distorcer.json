@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "distorcer"
+  },
+  "InfP": {
+    "1s": "distorcer",
+    "2s": "distorceres",
+    "3s": "distorcer",
+    "1p": "distorcermos",
+    "2p": "distorcerdes",
+    "3p": "distorcerem"
+  },
+  "Ger": {
+    "": "distorcendo"
+  },
+  "PresI": {
+    "1s": "distorço",
+    "2s": "distorces",
+    "3s": "distorce",
+    "1p": "distorcemos",
+    "2p": "distorceis",
+    "3p": "distorcem"
+  },
+  "PImpI": {
+    "1s": "distorcia",
+    "2s": "distorcias",
+    "3s": "distorcia",
+    "1p": "distorcíamos",
+    "2p": "distorcíeis",
+    "3p": "distorciam"
+  },
+  "PPSI": {
+    "1s": "distorci",
+    "2s": "distorceste",
+    "3s": "distorceu",
+    "1p": "distorcemos",
+    "2p": "distorcestes",
+    "3p": "distorceram"
+  },
+  "PMQPSI": {
+    "1s": "distorcera",
+    "2s": "distorceras",
+    "3s": "distorcera",
+    "1p": "distorcêramos",
+    "2p": "distorcêreis",
+    "3p": "distorceram"
+  },
+  "FutSI": {
+    "1s": "distorcerei",
+    "2s": "distorcerás",
+    "3s": "distorcerá",
+    "1p": "distorceremos",
+    "2p": "distorcereis",
+    "3p": "distorcerão"
+  },
+  "CondS": {
+    "1s": "distorceria",
+    "2s": "distorcerias",
+    "3s": "distorceria",
+    "1p": "distorceríamos",
+    "2p": "distorceríeis",
+    "3p": "distorceriam"
+  },
+  "PresC": {
+    "1s": "distorça",
+    "2s": "distorças",
+    "3s": "distorça",
+    "1p": "distorçamos",
+    "2p": "distorçais",
+    "3p": "distorçam"
+  },
+  "PImpC": {
+    "1s": "distorcesse",
+    "2s": "distorcesses",
+    "3s": "distorcesse",
+    "1p": "distorcêssemos",
+    "2p": "distorcêsseis",
+    "3p": "distorcessem"
+  },
+  "FutSC": {
+    "1s": "distorcer",
+    "2s": "distorceres",
+    "3s": "distorcer",
+    "1p": "distorcermos",
+    "2p": "distorcerdes",
+    "3p": "distorcerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "distorce",
+    "3s": "distorça",
+    "1p": "distorçamos",
+    "2p": "distorcei",
+    "3p": "distorçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não distorças",
+    "3s": "não distorça",
+    "1p": "não distorçamos",
+    "2p": "não distorçais",
+    "3p": "não distorçam"
+  },
+  "Part-ter": {
+    "": "distorcido"
+  },
+  "Part-ser": {
+    "ms": "distorcido",
+    "fs": "distorcida",
+    "mp": "distorcidos",
+    "fp": "distorcidas"
+  }
+}

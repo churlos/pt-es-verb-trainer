@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "iluminar"
+  },
+  "Ger": {
+    "": "iluminando"
+  },
+  "PresI": {
+    "1s": "ilumino",
+    "2s": "iluminas",
+    "3s": "ilumina",
+    "1p": "iluminamos",
+    "2p": "ilumináis",
+    "3p": "iluminan"
+  },
+  "PImpI": {
+    "1s": "iluminaba",
+    "2s": "iluminabas",
+    "3s": "iluminaba",
+    "1p": "iluminábamos",
+    "2p": "iluminabais",
+    "3p": "iluminaban"
+  },
+  "PPSI": {
+    "1s": "iluminé",
+    "2s": "iluminaste",
+    "3s": "iluminó",
+    "1p": "iluminamos",
+    "2p": "iluminasteis",
+    "3p": "iluminaron"
+  },
+  "FutSI": {
+    "1s": "iluminaré",
+    "2s": "iluminarás",
+    "3s": "iluminará",
+    "1p": "iluminaremos",
+    "2p": "iluminaréis",
+    "3p": "iluminarán"
+  },
+  "CondS": {
+    "1s": "iluminaría",
+    "2s": "iluminarías",
+    "3s": "iluminaría",
+    "1p": "iluminaríamos",
+    "2p": "iluminaríais",
+    "3p": "iluminarían"
+  },
+  "PresC": {
+    "1s": "ilumine",
+    "2s": "ilumines",
+    "3s": "ilumine",
+    "1p": "iluminemos",
+    "2p": "iluminéis",
+    "3p": "iluminen"
+  },
+  "PMQPSI": {
+    "1s": "iluminara",
+    "2s": "iluminaras",
+    "3s": "iluminara",
+    "1p": "ilumináramos",
+    "2p": "iluminarais",
+    "3p": "iluminaran"
+  },
+  "PImpC": {
+    "1s": "iluminase",
+    "2s": "iluminases",
+    "3s": "iluminase",
+    "1p": "iluminásemos",
+    "2p": "iluminaseis",
+    "3p": "iluminasen"
+  },
+  "FutSC": {
+    "1s": "iluminare",
+    "2s": "iluminares",
+    "3s": "iluminare",
+    "1p": "ilumináremos",
+    "2p": "iluminareis",
+    "3p": "iluminaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ilumina",
+    "3s": "ilumine",
+    "1p": "iluminemos",
+    "2p": "iluminad",
+    "3p": "iluminen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ilumines",
+    "3s": "no ilumine",
+    "1p": "no iluminemos",
+    "2p": "no iluminéis",
+    "3p": "no iluminen"
+  },
+  "Part-ter": {
+    "": "iluminado"
+  },
+  "Part-ser": {
+    "ms": "iluminado",
+    "fs": "iluminada",
+    "mp": "iluminados",
+    "fp": "iluminadas"
+  }
+}

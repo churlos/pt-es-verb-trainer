@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encarregar"
+  },
+  "InfP": {
+    "1s": "encarregar",
+    "2s": "encarregares",
+    "3s": "encarregar",
+    "1p": "encarregarmos",
+    "2p": "encarregardes",
+    "3p": "encarregarem"
+  },
+  "Ger": {
+    "": "encarregando"
+  },
+  "PresI": {
+    "1s": "encarrego",
+    "2s": "encarregas",
+    "3s": "encarrega",
+    "1p": "encarregamos",
+    "2p": "encarregais",
+    "3p": "encarregam"
+  },
+  "PImpI": {
+    "1s": "encarregava",
+    "2s": "encarregavas",
+    "3s": "encarregava",
+    "1p": "encarregávamos",
+    "2p": "encarregáveis",
+    "3p": "encarregavam"
+  },
+  "PPSI": {
+    "1s": "encarreguei",
+    "2s": "encarregaste",
+    "3s": "encarregou",
+    "1p": "encarregámos",
+    "2p": "encarregastes",
+    "3p": "encarregaram"
+  },
+  "PMQPSI": {
+    "1s": "encarregara",
+    "2s": "encarregaras",
+    "3s": "encarregara",
+    "1p": "encarregáramos",
+    "2p": "encarregáreis",
+    "3p": "encarregaram"
+  },
+  "FutSI": {
+    "1s": "encarregarei",
+    "2s": "encarregarás",
+    "3s": "encarregará",
+    "1p": "encarregaremos",
+    "2p": "encarregareis",
+    "3p": "encarregarão"
+  },
+  "CondS": {
+    "1s": "encarregaria",
+    "2s": "encarregarias",
+    "3s": "encarregaria",
+    "1p": "encarregaríamos",
+    "2p": "encarregaríeis",
+    "3p": "encarregariam"
+  },
+  "PresC": {
+    "1s": "encarregue",
+    "2s": "encarregues",
+    "3s": "encarregue",
+    "1p": "encarreguemos",
+    "2p": "encarregueis",
+    "3p": "encarreguem"
+  },
+  "PImpC": {
+    "1s": "encarregasse",
+    "2s": "encarregasses",
+    "3s": "encarregasse",
+    "1p": "encarregássemos",
+    "2p": "encarregásseis",
+    "3p": "encarregassem"
+  },
+  "FutSC": {
+    "1s": "encarregar",
+    "2s": "encarregares",
+    "3s": "encarregar",
+    "1p": "encarregarmos",
+    "2p": "encarregardes",
+    "3p": "encarregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encarrega",
+    "3s": "encarregue",
+    "1p": "encarreguemos",
+    "2p": "encarregai",
+    "3p": "encarreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encarregues",
+    "3s": "não encarregue",
+    "1p": "não encarreguemos",
+    "2p": "não encarregueis",
+    "3p": "não encarreguem"
+  },
+  "Part-ter": {
+    "": "encarregado"
+  },
+  "Part-ser": {
+    "ms": "encarregado",
+    "fs": "encarregada",
+    "mp": "encarregados",
+    "fp": "encarregadas"
+  }
+}

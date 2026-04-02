@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pastar"
+  },
+  "InfP": {
+    "1s": "pastar",
+    "2s": "pastares",
+    "3s": "pastar",
+    "1p": "pastarmos",
+    "2p": "pastardes",
+    "3p": "pastarem"
+  },
+  "Ger": {
+    "": "pastando"
+  },
+  "PresI": {
+    "1s": "pasto",
+    "2s": "pastas",
+    "3s": "pasta",
+    "1p": "pastamos",
+    "2p": "pastais",
+    "3p": "pastam"
+  },
+  "PImpI": {
+    "1s": "pastava",
+    "2s": "pastavas",
+    "3s": "pastava",
+    "1p": "pastávamos",
+    "2p": "pastáveis",
+    "3p": "pastavam"
+  },
+  "PPSI": {
+    "1s": "pastei",
+    "2s": "pastaste",
+    "3s": "pastou",
+    "1p": "pastámos",
+    "2p": "pastastes",
+    "3p": "pastaram"
+  },
+  "PMQPSI": {
+    "1s": "pastara",
+    "2s": "pastaras",
+    "3s": "pastara",
+    "1p": "pastáramos",
+    "2p": "pastáreis",
+    "3p": "pastaram"
+  },
+  "FutSI": {
+    "1s": "pastarei",
+    "2s": "pastarás",
+    "3s": "pastará",
+    "1p": "pastaremos",
+    "2p": "pastareis",
+    "3p": "pastarão"
+  },
+  "CondS": {
+    "1s": "pastaria",
+    "2s": "pastarias",
+    "3s": "pastaria",
+    "1p": "pastaríamos",
+    "2p": "pastaríeis",
+    "3p": "pastariam"
+  },
+  "PresC": {
+    "1s": "paste",
+    "2s": "pastes",
+    "3s": "paste",
+    "1p": "pastemos",
+    "2p": "pasteis",
+    "3p": "pastem"
+  },
+  "PImpC": {
+    "1s": "pastasse",
+    "2s": "pastasses",
+    "3s": "pastasse",
+    "1p": "pastássemos",
+    "2p": "pastásseis",
+    "3p": "pastassem"
+  },
+  "FutSC": {
+    "1s": "pastar",
+    "2s": "pastares",
+    "3s": "pastar",
+    "1p": "pastarmos",
+    "2p": "pastardes",
+    "3p": "pastarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pasta",
+    "3s": "paste",
+    "1p": "pastemos",
+    "2p": "pastai",
+    "3p": "pastem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pastes",
+    "3s": "não paste",
+    "1p": "não pastemos",
+    "2p": "não pasteis",
+    "3p": "não pastem"
+  },
+  "Part-ter": {
+    "": "pastado"
+  },
+  "Part-ser": {
+    "ms": "pastado",
+    "fs": "pastada",
+    "mp": "pastados",
+    "fp": "pastadas"
+  }
+}

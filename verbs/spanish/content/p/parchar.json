@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parchar"
+  },
+  "Ger": {
+    "": "parchando"
+  },
+  "PresI": {
+    "1s": "parcho",
+    "2s": "parchas",
+    "3s": "parcha",
+    "1p": "parchamos",
+    "2p": "parcháis",
+    "3p": "parchan"
+  },
+  "PImpI": {
+    "1s": "parchaba",
+    "2s": "parchabas",
+    "3s": "parchaba",
+    "1p": "parchábamos",
+    "2p": "parchabais",
+    "3p": "parchaban"
+  },
+  "PPSI": {
+    "1s": "parché",
+    "2s": "parchaste",
+    "3s": "parchó",
+    "1p": "parchamos",
+    "2p": "parchasteis",
+    "3p": "parcharon"
+  },
+  "FutSI": {
+    "1s": "parcharé",
+    "2s": "parcharás",
+    "3s": "parchará",
+    "1p": "parcharemos",
+    "2p": "parcharéis",
+    "3p": "parcharán"
+  },
+  "CondS": {
+    "1s": "parcharía",
+    "2s": "parcharías",
+    "3s": "parcharía",
+    "1p": "parcharíamos",
+    "2p": "parcharíais",
+    "3p": "parcharían"
+  },
+  "PresC": {
+    "1s": "parche",
+    "2s": "parches",
+    "3s": "parche",
+    "1p": "parchemos",
+    "2p": "parchéis",
+    "3p": "parchen"
+  },
+  "PMQPSI": {
+    "1s": "parchara",
+    "2s": "parcharas",
+    "3s": "parchara",
+    "1p": "parcháramos",
+    "2p": "parcharais",
+    "3p": "parcharan"
+  },
+  "PImpC": {
+    "1s": "parchase",
+    "2s": "parchases",
+    "3s": "parchase",
+    "1p": "parchásemos",
+    "2p": "parchaseis",
+    "3p": "parchasen"
+  },
+  "FutSC": {
+    "1s": "parchare",
+    "2s": "parchares",
+    "3s": "parchare",
+    "1p": "parcháremos",
+    "2p": "parchareis",
+    "3p": "parcharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parcha",
+    "3s": "parche",
+    "1p": "parchemos",
+    "2p": "parchad",
+    "3p": "parchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no parches",
+    "3s": "no parche",
+    "1p": "no parchemos",
+    "2p": "no parchéis",
+    "3p": "no parchen"
+  },
+  "Part-ter": {
+    "": "parchado"
+  },
+  "Part-ser": {
+    "ms": "parchado",
+    "fs": "parchada",
+    "mp": "parchados",
+    "fp": "parchadas"
+  }
+}

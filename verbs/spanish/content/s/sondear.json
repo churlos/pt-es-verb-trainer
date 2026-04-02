@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sondear"
+  },
+  "Ger": {
+    "": "sondeando"
+  },
+  "PresI": {
+    "1s": "sondeo",
+    "2s": "sondeas",
+    "3s": "sondea",
+    "1p": "sondeamos",
+    "2p": "sondeáis",
+    "3p": "sondean"
+  },
+  "PImpI": {
+    "1s": "sondeaba",
+    "2s": "sondeabas",
+    "3s": "sondeaba",
+    "1p": "sondeábamos",
+    "2p": "sondeabais",
+    "3p": "sondeaban"
+  },
+  "PPSI": {
+    "1s": "sondeé",
+    "2s": "sondeaste",
+    "3s": "sondeó",
+    "1p": "sondeamos",
+    "2p": "sondeasteis",
+    "3p": "sondearon"
+  },
+  "FutSI": {
+    "1s": "sondearé",
+    "2s": "sondearás",
+    "3s": "sondeará",
+    "1p": "sondearemos",
+    "2p": "sondearéis",
+    "3p": "sondearán"
+  },
+  "CondS": {
+    "1s": "sondearía",
+    "2s": "sondearías",
+    "3s": "sondearía",
+    "1p": "sondearíamos",
+    "2p": "sondearíais",
+    "3p": "sondearían"
+  },
+  "PresC": {
+    "1s": "sondee",
+    "2s": "sondees",
+    "3s": "sondee",
+    "1p": "sondeemos",
+    "2p": "sondeéis",
+    "3p": "sondeen"
+  },
+  "PMQPSI": {
+    "1s": "sondeara",
+    "2s": "sondearas",
+    "3s": "sondeara",
+    "1p": "sondeáramos",
+    "2p": "sondearais",
+    "3p": "sondearan"
+  },
+  "PImpC": {
+    "1s": "sondease",
+    "2s": "sondeases",
+    "3s": "sondease",
+    "1p": "sondeásemos",
+    "2p": "sondeaseis",
+    "3p": "sondeasen"
+  },
+  "FutSC": {
+    "1s": "sondeare",
+    "2s": "sondeares",
+    "3s": "sondeare",
+    "1p": "sondeáremos",
+    "2p": "sondeareis",
+    "3p": "sondearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sondea",
+    "3s": "sondee",
+    "1p": "sondeemos",
+    "2p": "sondead",
+    "3p": "sondeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sondees",
+    "3s": "no sondee",
+    "1p": "no sondeemos",
+    "2p": "no sondeéis",
+    "3p": "no sondeen"
+  },
+  "Part-ter": {
+    "": "sondeado"
+  },
+  "Part-ser": {
+    "ms": "sondeado",
+    "fs": "sondeada",
+    "mp": "sondeados",
+    "fp": "sondeadas"
+  }
+}

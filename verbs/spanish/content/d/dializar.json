@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dializar"
+  },
+  "Ger": {
+    "": "dializando"
+  },
+  "PresI": {
+    "1s": "dializo",
+    "2s": "dializas",
+    "3s": "dializa",
+    "1p": "dializamos",
+    "2p": "dializáis",
+    "3p": "dializan"
+  },
+  "PImpI": {
+    "1s": "dializaba",
+    "2s": "dializabas",
+    "3s": "dializaba",
+    "1p": "dializábamos",
+    "2p": "dializabais",
+    "3p": "dializaban"
+  },
+  "PPSI": {
+    "1s": "dialicé",
+    "2s": "dializaste",
+    "3s": "dializó",
+    "1p": "dializamos",
+    "2p": "dializasteis",
+    "3p": "dializaron"
+  },
+  "FutSI": {
+    "1s": "dializaré",
+    "2s": "dializarás",
+    "3s": "dializará",
+    "1p": "dializaremos",
+    "2p": "dializaréis",
+    "3p": "dializarán"
+  },
+  "CondS": {
+    "1s": "dializaría",
+    "2s": "dializarías",
+    "3s": "dializaría",
+    "1p": "dializaríamos",
+    "2p": "dializaríais",
+    "3p": "dializarían"
+  },
+  "PresC": {
+    "1s": "dialice",
+    "2s": "dialices",
+    "3s": "dialice",
+    "1p": "dialicemos",
+    "2p": "dialicéis",
+    "3p": "dialicen"
+  },
+  "PMQPSI": {
+    "1s": "dializara",
+    "2s": "dializaras",
+    "3s": "dializara",
+    "1p": "dializáramos",
+    "2p": "dializarais",
+    "3p": "dializaran"
+  },
+  "PImpC": {
+    "1s": "dializase",
+    "2s": "dializases",
+    "3s": "dializase",
+    "1p": "dializásemos",
+    "2p": "dializaseis",
+    "3p": "dializasen"
+  },
+  "FutSC": {
+    "1s": "dializare",
+    "2s": "dializares",
+    "3s": "dializare",
+    "1p": "dializáremos",
+    "2p": "dializareis",
+    "3p": "dializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dializa",
+    "3s": "dialice",
+    "1p": "dialicemos",
+    "2p": "dializad",
+    "3p": "dialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dialices",
+    "3s": "no dialice",
+    "1p": "no dialicemos",
+    "2p": "no dialicéis",
+    "3p": "no dialicen"
+  },
+  "Part-ter": {
+    "": "dializado"
+  },
+  "Part-ser": {
+    "ms": "dializado",
+    "fs": "dializada",
+    "mp": "dializados",
+    "fp": "dializadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "holgar"
+  },
+  "Ger": {
+    "": "holgando"
+  },
+  "PresI": {
+    "1s": "huelgo",
+    "2s": "huelgas",
+    "3s": "huelga",
+    "1p": "holgamos",
+    "2p": "holgáis",
+    "3p": "huelgan"
+  },
+  "PImpI": {
+    "1s": "holgaba",
+    "2s": "holgabas",
+    "3s": "holgaba",
+    "1p": "holgábamos",
+    "2p": "holgabais",
+    "3p": "holgaban"
+  },
+  "PPSI": {
+    "1s": "holgué",
+    "2s": "holgaste",
+    "3s": "holgó",
+    "1p": "holgamos",
+    "2p": "holgasteis",
+    "3p": "holgaron"
+  },
+  "FutSI": {
+    "1s": "holgaré",
+    "2s": "holgarás",
+    "3s": "holgará",
+    "1p": "holgaremos",
+    "2p": "holgaréis",
+    "3p": "holgarán"
+  },
+  "CondS": {
+    "1s": "holgaría",
+    "2s": "holgarías",
+    "3s": "holgaría",
+    "1p": "holgaríamos",
+    "2p": "holgaríais",
+    "3p": "holgarían"
+  },
+  "PresC": {
+    "1s": "huelgue",
+    "2s": "huelgues",
+    "3s": "huelgue",
+    "1p": "holguemos",
+    "2p": "holguéis",
+    "3p": "huelguen"
+  },
+  "PMQPSI": {
+    "1s": "holgara",
+    "2s": "holgaras",
+    "3s": "holgara",
+    "1p": "holgáramos",
+    "2p": "holgarais",
+    "3p": "holgaran"
+  },
+  "PImpC": {
+    "1s": "holgase",
+    "2s": "holgases",
+    "3s": "holgase",
+    "1p": "holgásemos",
+    "2p": "holgaseis",
+    "3p": "holgasen"
+  },
+  "FutSC": {
+    "1s": "holgare",
+    "2s": "holgares",
+    "3s": "holgare",
+    "1p": "holgáremos",
+    "2p": "holgareis",
+    "3p": "holgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "huelga",
+    "3s": "huelgue",
+    "1p": "holguemos",
+    "2p": "holgad",
+    "3p": "huelguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no huelgues",
+    "3s": "no huelgue",
+    "1p": "no holguemos",
+    "2p": "no holguéis",
+    "3p": "no huelguen"
+  },
+  "Part-ter": {
+    "": "holgado"
+  },
+  "Part-ser": {
+    "ms": "holgado",
+    "fs": "holgada",
+    "mp": "holgados",
+    "fp": "holgadas"
+  }
+}

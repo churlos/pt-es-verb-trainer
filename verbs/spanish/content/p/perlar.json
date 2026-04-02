@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perlar"
+  },
+  "Ger": {
+    "": "perlando"
+  },
+  "PresI": {
+    "1s": "perlo",
+    "2s": "perlas",
+    "3s": "perla",
+    "1p": "perlamos",
+    "2p": "perláis",
+    "3p": "perlan"
+  },
+  "PImpI": {
+    "1s": "perlaba",
+    "2s": "perlabas",
+    "3s": "perlaba",
+    "1p": "perlábamos",
+    "2p": "perlabais",
+    "3p": "perlaban"
+  },
+  "PPSI": {
+    "1s": "perlé",
+    "2s": "perlaste",
+    "3s": "perló",
+    "1p": "perlamos",
+    "2p": "perlasteis",
+    "3p": "perlaron"
+  },
+  "FutSI": {
+    "1s": "perlaré",
+    "2s": "perlarás",
+    "3s": "perlará",
+    "1p": "perlaremos",
+    "2p": "perlaréis",
+    "3p": "perlarán"
+  },
+  "CondS": {
+    "1s": "perlaría",
+    "2s": "perlarías",
+    "3s": "perlaría",
+    "1p": "perlaríamos",
+    "2p": "perlaríais",
+    "3p": "perlarían"
+  },
+  "PresC": {
+    "1s": "perle",
+    "2s": "perles",
+    "3s": "perle",
+    "1p": "perlemos",
+    "2p": "perléis",
+    "3p": "perlen"
+  },
+  "PMQPSI": {
+    "1s": "perlara",
+    "2s": "perlaras",
+    "3s": "perlara",
+    "1p": "perláramos",
+    "2p": "perlarais",
+    "3p": "perlaran"
+  },
+  "PImpC": {
+    "1s": "perlase",
+    "2s": "perlases",
+    "3s": "perlase",
+    "1p": "perlásemos",
+    "2p": "perlaseis",
+    "3p": "perlasen"
+  },
+  "FutSC": {
+    "1s": "perlare",
+    "2s": "perlares",
+    "3s": "perlare",
+    "1p": "perláremos",
+    "2p": "perlareis",
+    "3p": "perlaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perla",
+    "3s": "perle",
+    "1p": "perlemos",
+    "2p": "perlad",
+    "3p": "perlen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no perles",
+    "3s": "no perle",
+    "1p": "no perlemos",
+    "2p": "no perléis",
+    "3p": "no perlen"
+  },
+  "Part-ter": {
+    "": "perlado"
+  },
+  "Part-ser": {
+    "ms": "perlado",
+    "fs": "perlada",
+    "mp": "perlados",
+    "fp": "perladas"
+  }
+}

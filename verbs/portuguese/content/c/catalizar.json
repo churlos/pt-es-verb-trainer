@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "catalizar"
+  },
+  "InfP": {
+    "1s": "catalizar",
+    "2s": "catalizares",
+    "3s": "catalizar",
+    "1p": "catalizarmos",
+    "2p": "catalizardes",
+    "3p": "catalizarem"
+  },
+  "Ger": {
+    "": "catalizando"
+  },
+  "PresI": {
+    "1s": "catalizo",
+    "2s": "catalizas",
+    "3s": "cataliza",
+    "1p": "catalizamos",
+    "2p": "catalizais",
+    "3p": "catalizam"
+  },
+  "PImpI": {
+    "1s": "catalizava",
+    "2s": "catalizavas",
+    "3s": "catalizava",
+    "1p": "catalizávamos",
+    "2p": "catalizáveis",
+    "3p": "catalizavam"
+  },
+  "PPSI": {
+    "1s": "catalizei",
+    "2s": "catalizaste",
+    "3s": "catalizou",
+    "1p": "catalizámos",
+    "2p": "catalizastes",
+    "3p": "catalizaram"
+  },
+  "PMQPSI": {
+    "1s": "catalizara",
+    "2s": "catalizaras",
+    "3s": "catalizara",
+    "1p": "catalizáramos",
+    "2p": "catalizáreis",
+    "3p": "catalizaram"
+  },
+  "FutSI": {
+    "1s": "catalizarei",
+    "2s": "catalizarás",
+    "3s": "catalizará",
+    "1p": "catalizaremos",
+    "2p": "catalizareis",
+    "3p": "catalizarão"
+  },
+  "CondS": {
+    "1s": "catalizaria",
+    "2s": "catalizarias",
+    "3s": "catalizaria",
+    "1p": "catalizaríamos",
+    "2p": "catalizaríeis",
+    "3p": "catalizariam"
+  },
+  "PresC": {
+    "1s": "catalize",
+    "2s": "catalizes",
+    "3s": "catalize",
+    "1p": "catalizemos",
+    "2p": "catalizeis",
+    "3p": "catalizem"
+  },
+  "PImpC": {
+    "1s": "catalizasse",
+    "2s": "catalizasses",
+    "3s": "catalizasse",
+    "1p": "catalizássemos",
+    "2p": "catalizásseis",
+    "3p": "catalizassem"
+  },
+  "FutSC": {
+    "1s": "catalizar",
+    "2s": "catalizares",
+    "3s": "catalizar",
+    "1p": "catalizarmos",
+    "2p": "catalizardes",
+    "3p": "catalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cataliza",
+    "3s": "catalize",
+    "1p": "catalizemos",
+    "2p": "catalizai",
+    "3p": "catalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não catalizes",
+    "3s": "não catalize",
+    "1p": "não catalizemos",
+    "2p": "não catalizeis",
+    "3p": "não catalizem"
+  },
+  "Part-ter": {
+    "": "catalizado"
+  },
+  "Part-ser": {
+    "ms": "catalizado",
+    "fs": "catalizada",
+    "mp": "catalizados",
+    "fp": "catalizadas"
+  }
+}

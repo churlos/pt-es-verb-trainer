@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pagar"
+  },
+  "Ger": {
+    "": "pagando"
+  },
+  "PresI": {
+    "1s": "pago",
+    "2s": "pagas",
+    "3s": "paga",
+    "1p": "pagamos",
+    "2p": "pagáis",
+    "3p": "pagan"
+  },
+  "PImpI": {
+    "1s": "pagaba",
+    "2s": "pagabas",
+    "3s": "pagaba",
+    "1p": "pagábamos",
+    "2p": "pagabais",
+    "3p": "pagaban"
+  },
+  "PPSI": {
+    "1s": "pagué",
+    "2s": "pagaste",
+    "3s": "pagó",
+    "1p": "pagamos",
+    "2p": "pagasteis",
+    "3p": "pagaron"
+  },
+  "FutSI": {
+    "1s": "pagaré",
+    "2s": "pagarás",
+    "3s": "pagará",
+    "1p": "pagaremos",
+    "2p": "pagaréis",
+    "3p": "pagarán"
+  },
+  "CondS": {
+    "1s": "pagaría",
+    "2s": "pagarías",
+    "3s": "pagaría",
+    "1p": "pagaríamos",
+    "2p": "pagaríais",
+    "3p": "pagarían"
+  },
+  "PresC": {
+    "1s": "pague",
+    "2s": "pagues",
+    "3s": "pague",
+    "1p": "paguemos",
+    "2p": "paguéis",
+    "3p": "paguen"
+  },
+  "PMQPSI": {
+    "1s": "pagara",
+    "2s": "pagaras",
+    "3s": "pagara",
+    "1p": "pagáramos",
+    "2p": "pagarais",
+    "3p": "pagaran"
+  },
+  "PImpC": {
+    "1s": "pagase",
+    "2s": "pagases",
+    "3s": "pagase",
+    "1p": "pagásemos",
+    "2p": "pagaseis",
+    "3p": "pagasen"
+  },
+  "FutSC": {
+    "1s": "pagare",
+    "2s": "pagares",
+    "3s": "pagare",
+    "1p": "pagáremos",
+    "2p": "pagareis",
+    "3p": "pagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "paga",
+    "3s": "pague",
+    "1p": "paguemos",
+    "2p": "pagad",
+    "3p": "paguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pagues",
+    "3s": "no pague",
+    "1p": "no paguemos",
+    "2p": "no paguéis",
+    "3p": "no paguen"
+  },
+  "Part-ter": {
+    "": "pagado"
+  },
+  "Part-ser": {
+    "ms": "pagado",
+    "fs": "pagada",
+    "mp": "pagados",
+    "fp": "pagadas"
+  }
+}

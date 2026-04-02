@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encadear"
+  },
+  "InfP": {
+    "1s": "encadear",
+    "2s": "encadeares",
+    "3s": "encadear",
+    "1p": "encadearmos",
+    "2p": "encadeardes",
+    "3p": "encadearem"
+  },
+  "Ger": {
+    "": "encadeando"
+  },
+  "PresI": {
+    "1s": "encadeo",
+    "2s": "encadeas",
+    "3s": "encadea",
+    "1p": "encadeamos",
+    "2p": "encadeais",
+    "3p": "encadeam"
+  },
+  "PImpI": {
+    "1s": "encadeava",
+    "2s": "encadeavas",
+    "3s": "encadeava",
+    "1p": "encadeávamos",
+    "2p": "encadeáveis",
+    "3p": "encadeavam"
+  },
+  "PPSI": {
+    "1s": "encadeei",
+    "2s": "encadeaste",
+    "3s": "encadeou",
+    "1p": "encadeámos",
+    "2p": "encadeastes",
+    "3p": "encadearam"
+  },
+  "PMQPSI": {
+    "1s": "encadeara",
+    "2s": "encadearas",
+    "3s": "encadeara",
+    "1p": "encadeáramos",
+    "2p": "encadeáreis",
+    "3p": "encadearam"
+  },
+  "FutSI": {
+    "1s": "encadearei",
+    "2s": "encadearás",
+    "3s": "encadeará",
+    "1p": "encadearemos",
+    "2p": "encadeareis",
+    "3p": "encadearão"
+  },
+  "CondS": {
+    "1s": "encadearia",
+    "2s": "encadearias",
+    "3s": "encadearia",
+    "1p": "encadearíamos",
+    "2p": "encadearíeis",
+    "3p": "encadeariam"
+  },
+  "PresC": {
+    "1s": "encadee",
+    "2s": "encadees",
+    "3s": "encadee",
+    "1p": "encadeemos",
+    "2p": "encadeeis",
+    "3p": "encadeem"
+  },
+  "PImpC": {
+    "1s": "encadeasse",
+    "2s": "encadeasses",
+    "3s": "encadeasse",
+    "1p": "encadeássemos",
+    "2p": "encadeásseis",
+    "3p": "encadeassem"
+  },
+  "FutSC": {
+    "1s": "encadear",
+    "2s": "encadeares",
+    "3s": "encadear",
+    "1p": "encadearmos",
+    "2p": "encadeardes",
+    "3p": "encadearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encadea",
+    "3s": "encadee",
+    "1p": "encadeemos",
+    "2p": "encadeai",
+    "3p": "encadeem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encadees",
+    "3s": "não encadee",
+    "1p": "não encadeemos",
+    "2p": "não encadeeis",
+    "3p": "não encadeem"
+  },
+  "Part-ter": {
+    "": "encadeado"
+  },
+  "Part-ser": {
+    "ms": "encadeado",
+    "fs": "encadeada",
+    "mp": "encadeados",
+    "fp": "encadeadas"
+  }
+}

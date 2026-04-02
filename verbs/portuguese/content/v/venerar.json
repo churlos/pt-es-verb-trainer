@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "venerar"
+  },
+  "InfP": {
+    "1s": "venerar",
+    "2s": "venerares",
+    "3s": "venerar",
+    "1p": "venerarmos",
+    "2p": "venerardes",
+    "3p": "venerarem"
+  },
+  "Ger": {
+    "": "venerando"
+  },
+  "PresI": {
+    "1s": "venero",
+    "2s": "veneras",
+    "3s": "venera",
+    "1p": "veneramos",
+    "2p": "venerais",
+    "3p": "veneram"
+  },
+  "PImpI": {
+    "1s": "venerava",
+    "2s": "veneravas",
+    "3s": "venerava",
+    "1p": "venerávamos",
+    "2p": "veneráveis",
+    "3p": "veneravam"
+  },
+  "PPSI": {
+    "1s": "venerei",
+    "2s": "veneraste",
+    "3s": "venerou",
+    "1p": "venerámos",
+    "2p": "venerastes",
+    "3p": "veneraram"
+  },
+  "PMQPSI": {
+    "1s": "venerara",
+    "2s": "veneraras",
+    "3s": "venerara",
+    "1p": "veneráramos",
+    "2p": "veneráreis",
+    "3p": "veneraram"
+  },
+  "FutSI": {
+    "1s": "venerarei",
+    "2s": "venerarás",
+    "3s": "venerará",
+    "1p": "veneraremos",
+    "2p": "venerareis",
+    "3p": "venerarão"
+  },
+  "CondS": {
+    "1s": "veneraria",
+    "2s": "venerarias",
+    "3s": "veneraria",
+    "1p": "veneraríamos",
+    "2p": "veneraríeis",
+    "3p": "venerariam"
+  },
+  "PresC": {
+    "1s": "venere",
+    "2s": "veneres",
+    "3s": "venere",
+    "1p": "veneremos",
+    "2p": "venereis",
+    "3p": "venerem"
+  },
+  "PImpC": {
+    "1s": "venerasse",
+    "2s": "venerasses",
+    "3s": "venerasse",
+    "1p": "venerássemos",
+    "2p": "venerásseis",
+    "3p": "venerassem"
+  },
+  "FutSC": {
+    "1s": "venerar",
+    "2s": "venerares",
+    "3s": "venerar",
+    "1p": "venerarmos",
+    "2p": "venerardes",
+    "3p": "venerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "venera",
+    "3s": "venere",
+    "1p": "veneremos",
+    "2p": "venerai",
+    "3p": "venerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não veneres",
+    "3s": "não venere",
+    "1p": "não veneremos",
+    "2p": "não venereis",
+    "3p": "não venerem"
+  },
+  "Part-ter": {
+    "": "venerado"
+  },
+  "Part-ser": {
+    "ms": "venerado",
+    "fs": "venerada",
+    "mp": "venerados",
+    "fp": "veneradas"
+  }
+}

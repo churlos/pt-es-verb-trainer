@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sugar"
+  },
+  "InfP": {
+    "1s": "sugar",
+    "2s": "sugares",
+    "3s": "sugar",
+    "1p": "sugarmos",
+    "2p": "sugardes",
+    "3p": "sugarem"
+  },
+  "Ger": {
+    "": "sugando"
+  },
+  "PresI": {
+    "1s": "sugo",
+    "2s": "sugas",
+    "3s": "suga",
+    "1p": "sugamos",
+    "2p": "sugais",
+    "3p": "sugam"
+  },
+  "PImpI": {
+    "1s": "sugava",
+    "2s": "sugavas",
+    "3s": "sugava",
+    "1p": "sugávamos",
+    "2p": "sugáveis",
+    "3p": "sugavam"
+  },
+  "PPSI": {
+    "1s": "suguei",
+    "2s": "sugaste",
+    "3s": "sugou",
+    "1p": "sugámos",
+    "2p": "sugastes",
+    "3p": "sugaram"
+  },
+  "PMQPSI": {
+    "1s": "sugara",
+    "2s": "sugaras",
+    "3s": "sugara",
+    "1p": "sugáramos",
+    "2p": "sugáreis",
+    "3p": "sugaram"
+  },
+  "FutSI": {
+    "1s": "sugarei",
+    "2s": "sugarás",
+    "3s": "sugará",
+    "1p": "sugaremos",
+    "2p": "sugareis",
+    "3p": "sugarão"
+  },
+  "CondS": {
+    "1s": "sugaria",
+    "2s": "sugarias",
+    "3s": "sugaria",
+    "1p": "sugaríamos",
+    "2p": "sugaríeis",
+    "3p": "sugariam"
+  },
+  "PresC": {
+    "1s": "sugue",
+    "2s": "sugues",
+    "3s": "sugue",
+    "1p": "suguemos",
+    "2p": "sugueis",
+    "3p": "suguem"
+  },
+  "PImpC": {
+    "1s": "sugasse",
+    "2s": "sugasses",
+    "3s": "sugasse",
+    "1p": "sugássemos",
+    "2p": "sugásseis",
+    "3p": "sugassem"
+  },
+  "FutSC": {
+    "1s": "sugar",
+    "2s": "sugares",
+    "3s": "sugar",
+    "1p": "sugarmos",
+    "2p": "sugardes",
+    "3p": "sugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suga",
+    "3s": "sugue",
+    "1p": "suguemos",
+    "2p": "sugai",
+    "3p": "suguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sugues",
+    "3s": "não sugue",
+    "1p": "não suguemos",
+    "2p": "não sugueis",
+    "3p": "não suguem"
+  },
+  "Part-ter": {
+    "": "sugado"
+  },
+  "Part-ser": {
+    "ms": "sugado",
+    "fs": "sugada",
+    "mp": "sugados",
+    "fp": "sugadas"
+  }
+}

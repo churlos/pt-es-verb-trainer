@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "delegar"
+  },
+  "Ger": {
+    "": "delegando"
+  },
+  "PresI": {
+    "1s": "delego",
+    "2s": "delegas",
+    "3s": "delega",
+    "1p": "delegamos",
+    "2p": "delegáis",
+    "3p": "delegan"
+  },
+  "PImpI": {
+    "1s": "delegaba",
+    "2s": "delegabas",
+    "3s": "delegaba",
+    "1p": "delegábamos",
+    "2p": "delegabais",
+    "3p": "delegaban"
+  },
+  "PPSI": {
+    "1s": "delegué",
+    "2s": "delegaste",
+    "3s": "delegó",
+    "1p": "delegamos",
+    "2p": "delegasteis",
+    "3p": "delegaron"
+  },
+  "FutSI": {
+    "1s": "delegaré",
+    "2s": "delegarás",
+    "3s": "delegará",
+    "1p": "delegaremos",
+    "2p": "delegaréis",
+    "3p": "delegarán"
+  },
+  "CondS": {
+    "1s": "delegaría",
+    "2s": "delegarías",
+    "3s": "delegaría",
+    "1p": "delegaríamos",
+    "2p": "delegaríais",
+    "3p": "delegarían"
+  },
+  "PresC": {
+    "1s": "delegue",
+    "2s": "delegues",
+    "3s": "delegue",
+    "1p": "deleguemos",
+    "2p": "deleguéis",
+    "3p": "deleguen"
+  },
+  "PMQPSI": {
+    "1s": "delegara",
+    "2s": "delegaras",
+    "3s": "delegara",
+    "1p": "delegáramos",
+    "2p": "delegarais",
+    "3p": "delegaran"
+  },
+  "PImpC": {
+    "1s": "delegase",
+    "2s": "delegases",
+    "3s": "delegase",
+    "1p": "delegásemos",
+    "2p": "delegaseis",
+    "3p": "delegasen"
+  },
+  "FutSC": {
+    "1s": "delegare",
+    "2s": "delegares",
+    "3s": "delegare",
+    "1p": "delegáremos",
+    "2p": "delegareis",
+    "3p": "delegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "delega",
+    "3s": "delegue",
+    "1p": "deleguemos",
+    "2p": "delegad",
+    "3p": "deleguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no delegues",
+    "3s": "no delegue",
+    "1p": "no deleguemos",
+    "2p": "no deleguéis",
+    "3p": "no deleguen"
+  },
+  "Part-ter": {
+    "": "delegado"
+  },
+  "Part-ser": {
+    "ms": "delegado",
+    "fs": "delegada",
+    "mp": "delegados",
+    "fp": "delegadas"
+  }
+}

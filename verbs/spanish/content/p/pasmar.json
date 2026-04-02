@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pasmar"
+  },
+  "Ger": {
+    "": "pasmando"
+  },
+  "PresI": {
+    "1s": "pasmo",
+    "2s": "pasmas",
+    "3s": "pasma",
+    "1p": "pasmamos",
+    "2p": "pasmáis",
+    "3p": "pasman"
+  },
+  "PImpI": {
+    "1s": "pasmaba",
+    "2s": "pasmabas",
+    "3s": "pasmaba",
+    "1p": "pasmábamos",
+    "2p": "pasmabais",
+    "3p": "pasmaban"
+  },
+  "PPSI": {
+    "1s": "pasmé",
+    "2s": "pasmaste",
+    "3s": "pasmó",
+    "1p": "pasmamos",
+    "2p": "pasmasteis",
+    "3p": "pasmaron"
+  },
+  "FutSI": {
+    "1s": "pasmaré",
+    "2s": "pasmarás",
+    "3s": "pasmará",
+    "1p": "pasmaremos",
+    "2p": "pasmaréis",
+    "3p": "pasmarán"
+  },
+  "CondS": {
+    "1s": "pasmaría",
+    "2s": "pasmarías",
+    "3s": "pasmaría",
+    "1p": "pasmaríamos",
+    "2p": "pasmaríais",
+    "3p": "pasmarían"
+  },
+  "PresC": {
+    "1s": "pasme",
+    "2s": "pasmes",
+    "3s": "pasme",
+    "1p": "pasmemos",
+    "2p": "pasméis",
+    "3p": "pasmen"
+  },
+  "PMQPSI": {
+    "1s": "pasmara",
+    "2s": "pasmaras",
+    "3s": "pasmara",
+    "1p": "pasmáramos",
+    "2p": "pasmarais",
+    "3p": "pasmaran"
+  },
+  "PImpC": {
+    "1s": "pasmase",
+    "2s": "pasmases",
+    "3s": "pasmase",
+    "1p": "pasmásemos",
+    "2p": "pasmaseis",
+    "3p": "pasmasen"
+  },
+  "FutSC": {
+    "1s": "pasmare",
+    "2s": "pasmares",
+    "3s": "pasmare",
+    "1p": "pasmáremos",
+    "2p": "pasmareis",
+    "3p": "pasmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pasma",
+    "3s": "pasme",
+    "1p": "pasmemos",
+    "2p": "pasmad",
+    "3p": "pasmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pasmes",
+    "3s": "no pasme",
+    "1p": "no pasmemos",
+    "2p": "no pasméis",
+    "3p": "no pasmen"
+  },
+  "Part-ter": {
+    "": "pasmado"
+  },
+  "Part-ser": {
+    "ms": "pasmado",
+    "fs": "pasmada",
+    "mp": "pasmados",
+    "fp": "pasmadas"
+  }
+}

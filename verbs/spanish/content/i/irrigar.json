@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "irrigar"
+  },
+  "Ger": {
+    "": "irrigando"
+  },
+  "PresI": {
+    "1s": "irrigo",
+    "2s": "irrigas",
+    "3s": "irriga",
+    "1p": "irrigamos",
+    "2p": "irrigáis",
+    "3p": "irrigan"
+  },
+  "PImpI": {
+    "1s": "irrigaba",
+    "2s": "irrigabas",
+    "3s": "irrigaba",
+    "1p": "irrigábamos",
+    "2p": "irrigabais",
+    "3p": "irrigaban"
+  },
+  "PPSI": {
+    "1s": "irrigué",
+    "2s": "irrigaste",
+    "3s": "irrigó",
+    "1p": "irrigamos",
+    "2p": "irrigasteis",
+    "3p": "irrigaron"
+  },
+  "FutSI": {
+    "1s": "irrigaré",
+    "2s": "irrigarás",
+    "3s": "irrigará",
+    "1p": "irrigaremos",
+    "2p": "irrigaréis",
+    "3p": "irrigarán"
+  },
+  "CondS": {
+    "1s": "irrigaría",
+    "2s": "irrigarías",
+    "3s": "irrigaría",
+    "1p": "irrigaríamos",
+    "2p": "irrigaríais",
+    "3p": "irrigarían"
+  },
+  "PresC": {
+    "1s": "irrigue",
+    "2s": "irrigues",
+    "3s": "irrigue",
+    "1p": "irriguemos",
+    "2p": "irriguéis",
+    "3p": "irriguen"
+  },
+  "PMQPSI": {
+    "1s": "irrigara",
+    "2s": "irrigaras",
+    "3s": "irrigara",
+    "1p": "irrigáramos",
+    "2p": "irrigarais",
+    "3p": "irrigaran"
+  },
+  "PImpC": {
+    "1s": "irrigase",
+    "2s": "irrigases",
+    "3s": "irrigase",
+    "1p": "irrigásemos",
+    "2p": "irrigaseis",
+    "3p": "irrigasen"
+  },
+  "FutSC": {
+    "1s": "irrigare",
+    "2s": "irrigares",
+    "3s": "irrigare",
+    "1p": "irrigáremos",
+    "2p": "irrigareis",
+    "3p": "irrigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "irriga",
+    "3s": "irrigue",
+    "1p": "irriguemos",
+    "2p": "irrigad",
+    "3p": "irriguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no irrigues",
+    "3s": "no irrigue",
+    "1p": "no irriguemos",
+    "2p": "no irriguéis",
+    "3p": "no irriguen"
+  },
+  "Part-ter": {
+    "": "irrigado"
+  },
+  "Part-ser": {
+    "ms": "irrigado",
+    "fs": "irrigada",
+    "mp": "irrigados",
+    "fp": "irrigadas"
+  }
+}

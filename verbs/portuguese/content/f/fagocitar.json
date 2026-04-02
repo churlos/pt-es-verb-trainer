@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fagocitar"
+  },
+  "InfP": {
+    "1s": "fagocitar",
+    "2s": "fagocitares",
+    "3s": "fagocitar",
+    "1p": "fagocitarmos",
+    "2p": "fagocitardes",
+    "3p": "fagocitarem"
+  },
+  "Ger": {
+    "": "fagocitando"
+  },
+  "PresI": {
+    "1s": "fagocito",
+    "2s": "fagocitas",
+    "3s": "fagocita",
+    "1p": "fagocitamos",
+    "2p": "fagocitais",
+    "3p": "fagocitam"
+  },
+  "PImpI": {
+    "1s": "fagocitava",
+    "2s": "fagocitavas",
+    "3s": "fagocitava",
+    "1p": "fagocitávamos",
+    "2p": "fagocitáveis",
+    "3p": "fagocitavam"
+  },
+  "PPSI": {
+    "1s": "fagocitei",
+    "2s": "fagocitaste",
+    "3s": "fagocitou",
+    "1p": "fagocitámos",
+    "2p": "fagocitastes",
+    "3p": "fagocitaram"
+  },
+  "PMQPSI": {
+    "1s": "fagocitara",
+    "2s": "fagocitaras",
+    "3s": "fagocitara",
+    "1p": "fagocitáramos",
+    "2p": "fagocitáreis",
+    "3p": "fagocitaram"
+  },
+  "FutSI": {
+    "1s": "fagocitarei",
+    "2s": "fagocitarás",
+    "3s": "fagocitará",
+    "1p": "fagocitaremos",
+    "2p": "fagocitareis",
+    "3p": "fagocitarão"
+  },
+  "CondS": {
+    "1s": "fagocitaria",
+    "2s": "fagocitarias",
+    "3s": "fagocitaria",
+    "1p": "fagocitaríamos",
+    "2p": "fagocitaríeis",
+    "3p": "fagocitariam"
+  },
+  "PresC": {
+    "1s": "fagocite",
+    "2s": "fagocites",
+    "3s": "fagocite",
+    "1p": "fagocitemos",
+    "2p": "fagociteis",
+    "3p": "fagocitem"
+  },
+  "PImpC": {
+    "1s": "fagocitasse",
+    "2s": "fagocitasses",
+    "3s": "fagocitasse",
+    "1p": "fagocitássemos",
+    "2p": "fagocitásseis",
+    "3p": "fagocitassem"
+  },
+  "FutSC": {
+    "1s": "fagocitar",
+    "2s": "fagocitares",
+    "3s": "fagocitar",
+    "1p": "fagocitarmos",
+    "2p": "fagocitardes",
+    "3p": "fagocitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fagocita",
+    "3s": "fagocite",
+    "1p": "fagocitemos",
+    "2p": "fagocitai",
+    "3p": "fagocitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fagocites",
+    "3s": "não fagocite",
+    "1p": "não fagocitemos",
+    "2p": "não fagociteis",
+    "3p": "não fagocitem"
+  },
+  "Part-ter": {
+    "": "fagocitado"
+  },
+  "Part-ser": {
+    "ms": "fagocitado",
+    "fs": "fagocitada",
+    "mp": "fagocitados",
+    "fp": "fagocitadas"
+  }
+}

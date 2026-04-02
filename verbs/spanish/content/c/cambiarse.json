@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cambiarse"
+  },
+  "Ger": {
+    "": "cambiándose"
+  },
+  "PresI": {
+    "1s": "me cambio",
+    "2s": "te cambias",
+    "3s": "se cambia",
+    "1p": "nos cambiamos",
+    "2p": "os cambiáis",
+    "3p": "se cambian"
+  },
+  "PImpI": {
+    "1s": "me cambiaba",
+    "2s": "te cambiabas",
+    "3s": "se cambiaba",
+    "1p": "nos cambiábamos",
+    "2p": "os cambiabais",
+    "3p": "se cambiaban"
+  },
+  "PPSI": {
+    "1s": "me cambié",
+    "2s": "te cambiaste",
+    "3s": "se cambió",
+    "1p": "nos cambiamos",
+    "2p": "os cambiasteis",
+    "3p": "se cambiaron"
+  },
+  "FutSI": {
+    "1s": "me cambiaré",
+    "2s": "te cambiarás",
+    "3s": "se cambiará",
+    "1p": "nos cambiaremos",
+    "2p": "os cambiaréis",
+    "3p": "se cambiarán"
+  },
+  "CondS": {
+    "1s": "me cambiaría",
+    "2s": "te cambiarías",
+    "3s": "se cambiaría",
+    "1p": "nos cambiaríamos",
+    "2p": "os cambiaríais",
+    "3p": "se cambiarían"
+  },
+  "PresC": {
+    "1s": "me cambie",
+    "2s": "te cambies",
+    "3s": "se cambie",
+    "1p": "nos cambiemos",
+    "2p": "os cambiéis",
+    "3p": "se cambien"
+  },
+  "PMQPSI": {
+    "1s": "me cambiara",
+    "2s": "te cambiaras",
+    "3s": "se cambiara",
+    "1p": "nos cambiáramos",
+    "2p": "os cambiarais",
+    "3p": "se cambiaran"
+  },
+  "PImpC": {
+    "1s": "me cambiase",
+    "2s": "te cambiases",
+    "3s": "se cambiase",
+    "1p": "nos cambiásemos",
+    "2p": "os cambiaseis",
+    "3p": "se cambiasen"
+  },
+  "FutSC": {
+    "1s": "me cambiare",
+    "2s": "te cambiares",
+    "3s": "se cambiare",
+    "1p": "nos cambiáremos",
+    "2p": "os cambiareis",
+    "3p": "se cambiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cambíate",
+    "3s": "cambíese",
+    "1p": "cambiémonos",
+    "2p": "cambiaos",
+    "3p": "cambíense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te cambies",
+    "3s": "no se cambie",
+    "1p": "no nos cambiemos",
+    "2p": "no os cambiéis",
+    "3p": "no se cambien"
+  },
+  "Part-ter": {
+    "": "cambiado"
+  },
+  "Part-ser": {
+    "ms": "cambiado",
+    "fs": "cambiada",
+    "mp": "cambiados",
+    "fp": "cambiadas"
+  }
+}

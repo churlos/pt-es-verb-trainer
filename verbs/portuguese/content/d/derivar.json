@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "derivar"
+  },
+  "InfP": {
+    "1s": "derivar",
+    "2s": "derivares",
+    "3s": "derivar",
+    "1p": "derivarmos",
+    "2p": "derivardes",
+    "3p": "derivarem"
+  },
+  "Ger": {
+    "": "derivando"
+  },
+  "PresI": {
+    "1s": "derivo",
+    "2s": "derivas",
+    "3s": "deriva",
+    "1p": "derivamos",
+    "2p": "derivais",
+    "3p": "derivam"
+  },
+  "PImpI": {
+    "1s": "derivava",
+    "2s": "derivavas",
+    "3s": "derivava",
+    "1p": "derivávamos",
+    "2p": "deriváveis",
+    "3p": "derivavam"
+  },
+  "PPSI": {
+    "1s": "derivei",
+    "2s": "derivaste",
+    "3s": "derivou",
+    "1p": "derivámos",
+    "2p": "derivastes",
+    "3p": "derivaram"
+  },
+  "PMQPSI": {
+    "1s": "derivara",
+    "2s": "derivaras",
+    "3s": "derivara",
+    "1p": "deriváramos",
+    "2p": "deriváreis",
+    "3p": "derivaram"
+  },
+  "FutSI": {
+    "1s": "derivarei",
+    "2s": "derivarás",
+    "3s": "derivará",
+    "1p": "derivaremos",
+    "2p": "derivareis",
+    "3p": "derivarão"
+  },
+  "CondS": {
+    "1s": "derivaria",
+    "2s": "derivarias",
+    "3s": "derivaria",
+    "1p": "derivaríamos",
+    "2p": "derivaríeis",
+    "3p": "derivariam"
+  },
+  "PresC": {
+    "1s": "derive",
+    "2s": "derives",
+    "3s": "derive",
+    "1p": "derivemos",
+    "2p": "deriveis",
+    "3p": "derivem"
+  },
+  "PImpC": {
+    "1s": "derivasse",
+    "2s": "derivasses",
+    "3s": "derivasse",
+    "1p": "derivássemos",
+    "2p": "derivásseis",
+    "3p": "derivassem"
+  },
+  "FutSC": {
+    "1s": "derivar",
+    "2s": "derivares",
+    "3s": "derivar",
+    "1p": "derivarmos",
+    "2p": "derivardes",
+    "3p": "derivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deriva",
+    "3s": "derive",
+    "1p": "derivemos",
+    "2p": "derivai",
+    "3p": "derivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não derives",
+    "3s": "não derive",
+    "1p": "não derivemos",
+    "2p": "não deriveis",
+    "3p": "não derivem"
+  },
+  "Part-ter": {
+    "": "derivado"
+  },
+  "Part-ser": {
+    "ms": "derivado",
+    "fs": "derivada",
+    "mp": "derivados",
+    "fp": "derivadas"
+  }
+}

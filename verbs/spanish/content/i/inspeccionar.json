@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inspeccionar"
+  },
+  "Ger": {
+    "": "inspeccionando"
+  },
+  "PresI": {
+    "1s": "inspecciono",
+    "2s": "inspeccionas",
+    "3s": "inspecciona",
+    "1p": "inspeccionamos",
+    "2p": "inspeccionáis",
+    "3p": "inspeccionan"
+  },
+  "PImpI": {
+    "1s": "inspeccionaba",
+    "2s": "inspeccionabas",
+    "3s": "inspeccionaba",
+    "1p": "inspeccionábamos",
+    "2p": "inspeccionabais",
+    "3p": "inspeccionaban"
+  },
+  "PPSI": {
+    "1s": "inspeccioné",
+    "2s": "inspeccionaste",
+    "3s": "inspeccionó",
+    "1p": "inspeccionamos",
+    "2p": "inspeccionasteis",
+    "3p": "inspeccionaron"
+  },
+  "FutSI": {
+    "1s": "inspeccionaré",
+    "2s": "inspeccionarás",
+    "3s": "inspeccionará",
+    "1p": "inspeccionaremos",
+    "2p": "inspeccionaréis",
+    "3p": "inspeccionarán"
+  },
+  "CondS": {
+    "1s": "inspeccionaría",
+    "2s": "inspeccionarías",
+    "3s": "inspeccionaría",
+    "1p": "inspeccionaríamos",
+    "2p": "inspeccionaríais",
+    "3p": "inspeccionarían"
+  },
+  "PresC": {
+    "1s": "inspeccione",
+    "2s": "inspecciones",
+    "3s": "inspeccione",
+    "1p": "inspeccionemos",
+    "2p": "inspeccionéis",
+    "3p": "inspeccionen"
+  },
+  "PMQPSI": {
+    "1s": "inspeccionara",
+    "2s": "inspeccionaras",
+    "3s": "inspeccionara",
+    "1p": "inspeccionáramos",
+    "2p": "inspeccionarais",
+    "3p": "inspeccionaran"
+  },
+  "PImpC": {
+    "1s": "inspeccionase",
+    "2s": "inspeccionases",
+    "3s": "inspeccionase",
+    "1p": "inspeccionásemos",
+    "2p": "inspeccionaseis",
+    "3p": "inspeccionasen"
+  },
+  "FutSC": {
+    "1s": "inspeccionare",
+    "2s": "inspeccionares",
+    "3s": "inspeccionare",
+    "1p": "inspeccionáremos",
+    "2p": "inspeccionareis",
+    "3p": "inspeccionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inspecciona",
+    "3s": "inspeccione",
+    "1p": "inspeccionemos",
+    "2p": "inspeccionad",
+    "3p": "inspeccionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inspecciones",
+    "3s": "no inspeccione",
+    "1p": "no inspeccionemos",
+    "2p": "no inspeccionéis",
+    "3p": "no inspeccionen"
+  },
+  "Part-ter": {
+    "": "inspeccionado"
+  },
+  "Part-ser": {
+    "ms": "inspeccionado",
+    "fs": "inspeccionada",
+    "mp": "inspeccionados",
+    "fp": "inspeccionadas"
+  }
+}

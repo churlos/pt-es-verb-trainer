@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pegarse"
+  },
+  "Ger": {
+    "": "pegándose"
+  },
+  "PresI": {
+    "1s": "me pego",
+    "2s": "te pegas",
+    "3s": "se pega",
+    "1p": "nos pegamos",
+    "2p": "os pegáis",
+    "3p": "se pegan"
+  },
+  "PImpI": {
+    "1s": "me pegaba",
+    "2s": "te pegabas",
+    "3s": "se pegaba",
+    "1p": "nos pegábamos",
+    "2p": "os pegabais",
+    "3p": "se pegaban"
+  },
+  "PPSI": {
+    "1s": "me pegué",
+    "2s": "te pegaste",
+    "3s": "se pegó",
+    "1p": "nos pegamos",
+    "2p": "os pegasteis",
+    "3p": "se pegaron"
+  },
+  "FutSI": {
+    "1s": "me pegaré",
+    "2s": "te pegarás",
+    "3s": "se pegará",
+    "1p": "nos pegaremos",
+    "2p": "os pegaréis",
+    "3p": "se pegarán"
+  },
+  "CondS": {
+    "1s": "me pegaría",
+    "2s": "te pegarías",
+    "3s": "se pegaría",
+    "1p": "nos pegaríamos",
+    "2p": "os pegaríais",
+    "3p": "se pegarían"
+  },
+  "PresC": {
+    "1s": "me pegue",
+    "2s": "te pegues",
+    "3s": "se pegue",
+    "1p": "nos peguemos",
+    "2p": "os peguéis",
+    "3p": "se peguen"
+  },
+  "PMQPSI": {
+    "1s": "me pegara",
+    "2s": "te pegaras",
+    "3s": "se pegara",
+    "1p": "nos pegáramos",
+    "2p": "os pegarais",
+    "3p": "se pegaran"
+  },
+  "PImpC": {
+    "1s": "me pegase",
+    "2s": "te pegases",
+    "3s": "se pegase",
+    "1p": "nos pegásemos",
+    "2p": "os pegaseis",
+    "3p": "se pegasen"
+  },
+  "FutSC": {
+    "1s": "me pegare",
+    "2s": "te pegares",
+    "3s": "se pegare",
+    "1p": "nos pegáremos",
+    "2p": "os pegareis",
+    "3p": "se pegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pégate",
+    "3s": "péguese",
+    "1p": "peguémonos",
+    "2p": "pegaos",
+    "3p": "péguense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te pegues",
+    "3s": "no se pegue",
+    "1p": "no nos peguemos",
+    "2p": "no os peguéis",
+    "3p": "no se peguen"
+  },
+  "Part-ter": {
+    "": "pegado"
+  },
+  "Part-ser": {
+    "ms": "pegado",
+    "fs": "pegada",
+    "mp": "pegados",
+    "fp": "pegadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arborizar"
+  },
+  "InfP": {
+    "1s": "arborizar",
+    "2s": "arborizares",
+    "3s": "arborizar",
+    "1p": "arborizarmos",
+    "2p": "arborizardes",
+    "3p": "arborizarem"
+  },
+  "Ger": {
+    "": "arborizando"
+  },
+  "PresI": {
+    "1s": "arborizo",
+    "2s": "arborizas",
+    "3s": "arboriza",
+    "1p": "arborizamos",
+    "2p": "arborizais",
+    "3p": "arborizam"
+  },
+  "PImpI": {
+    "1s": "arborizava",
+    "2s": "arborizavas",
+    "3s": "arborizava",
+    "1p": "arborizávamos",
+    "2p": "arborizáveis",
+    "3p": "arborizavam"
+  },
+  "PPSI": {
+    "1s": "arborizei",
+    "2s": "arborizaste",
+    "3s": "arborizou",
+    "1p": "arborizámos",
+    "2p": "arborizastes",
+    "3p": "arborizaram"
+  },
+  "PMQPSI": {
+    "1s": "arborizara",
+    "2s": "arborizaras",
+    "3s": "arborizara",
+    "1p": "arborizáramos",
+    "2p": "arborizáreis",
+    "3p": "arborizaram"
+  },
+  "FutSI": {
+    "1s": "arborizarei",
+    "2s": "arborizarás",
+    "3s": "arborizará",
+    "1p": "arborizaremos",
+    "2p": "arborizareis",
+    "3p": "arborizarão"
+  },
+  "CondS": {
+    "1s": "arborizaria",
+    "2s": "arborizarias",
+    "3s": "arborizaria",
+    "1p": "arborizaríamos",
+    "2p": "arborizaríeis",
+    "3p": "arborizariam"
+  },
+  "PresC": {
+    "1s": "arborize",
+    "2s": "arborizes",
+    "3s": "arborize",
+    "1p": "arborizemos",
+    "2p": "arborizeis",
+    "3p": "arborizem"
+  },
+  "PImpC": {
+    "1s": "arborizasse",
+    "2s": "arborizasses",
+    "3s": "arborizasse",
+    "1p": "arborizássemos",
+    "2p": "arborizásseis",
+    "3p": "arborizassem"
+  },
+  "FutSC": {
+    "1s": "arborizar",
+    "2s": "arborizares",
+    "3s": "arborizar",
+    "1p": "arborizarmos",
+    "2p": "arborizardes",
+    "3p": "arborizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arboriza",
+    "3s": "arborize",
+    "1p": "arborizemos",
+    "2p": "arborizai",
+    "3p": "arborizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arborizes",
+    "3s": "não arborize",
+    "1p": "não arborizemos",
+    "2p": "não arborizeis",
+    "3p": "não arborizem"
+  },
+  "Part-ter": {
+    "": "arborizado"
+  },
+  "Part-ser": {
+    "ms": "arborizado",
+    "fs": "arborizada",
+    "mp": "arborizados",
+    "fp": "arborizadas"
+  }
+}

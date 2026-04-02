@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "convalecer"
+  },
+  "Ger": {
+    "": "convaleciendo"
+  },
+  "PresI": {
+    "1s": "convalezco",
+    "2s": "convaleces",
+    "3s": "convalece",
+    "1p": "convalecemos",
+    "2p": "convalecéis",
+    "3p": "convalecen"
+  },
+  "PImpI": {
+    "1s": "convalecía",
+    "2s": "convalecías",
+    "3s": "convalecía",
+    "1p": "convalecíamos",
+    "2p": "convalecíais",
+    "3p": "convalecían"
+  },
+  "PPSI": {
+    "1s": "convalecí",
+    "2s": "convaleciste",
+    "3s": "convaleció",
+    "1p": "convalecimos",
+    "2p": "convalecisteis",
+    "3p": "convalecieron"
+  },
+  "FutSI": {
+    "1s": "convaleceré",
+    "2s": "convalecerás",
+    "3s": "convalecerá",
+    "1p": "convaleceremos",
+    "2p": "convaleceréis",
+    "3p": "convalecerán"
+  },
+  "CondS": {
+    "1s": "convalecería",
+    "2s": "convalecerías",
+    "3s": "convalecería",
+    "1p": "convaleceríamos",
+    "2p": "convaleceríais",
+    "3p": "convalecerían"
+  },
+  "PresC": {
+    "1s": "convalezca",
+    "2s": "convalezcas",
+    "3s": "convalezca",
+    "1p": "convalezcamos",
+    "2p": "convalezcáis",
+    "3p": "convalezcan"
+  },
+  "PMQPSI": {
+    "1s": "convaleciera",
+    "2s": "convalecieras",
+    "3s": "convaleciera",
+    "1p": "convaleciéramos",
+    "2p": "convalecierais",
+    "3p": "convalecieran"
+  },
+  "PImpC": {
+    "1s": "convaleciese",
+    "2s": "convalecieses",
+    "3s": "convaleciese",
+    "1p": "convaleciésemos",
+    "2p": "convalecieseis",
+    "3p": "convaleciesen"
+  },
+  "FutSC": {
+    "1s": "convaleciere",
+    "2s": "convalecieres",
+    "3s": "convaleciere",
+    "1p": "convaleciéremos",
+    "2p": "convaleciereis",
+    "3p": "convalecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "convalece",
+    "3s": "convalezca",
+    "1p": "convalezcamos",
+    "2p": "convaleced",
+    "3p": "convalezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no convalezcas",
+    "3s": "no convalezca",
+    "1p": "no convalezcamos",
+    "2p": "no convalezcáis",
+    "3p": "no convalezcan"
+  },
+  "Part-ter": {
+    "": "convalecido"
+  },
+  "Part-ser": {
+    "ms": "convalecido",
+    "fs": "convalecida",
+    "mp": "convalecidos",
+    "fp": "convalecidas"
+  }
+}

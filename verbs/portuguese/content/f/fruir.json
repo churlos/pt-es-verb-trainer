@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fruir"
+  },
+  "InfP": {
+    "1s": "fruir",
+    "2s": "fruíres",
+    "3s": "fruir",
+    "1p": "fruirmos",
+    "2p": "fruirdes",
+    "3p": "fruírem"
+  },
+  "Ger": {
+    "": "fruindo"
+  },
+  "PresI": {
+    "1s": "fruo",
+    "2s": "fruis",
+    "3s": "frui",
+    "1p": "fruímos",
+    "2p": "fruís",
+    "3p": "fruem"
+  },
+  "PImpI": {
+    "1s": "fruía",
+    "2s": "fruías",
+    "3s": "fruía",
+    "1p": "fruíamos",
+    "2p": "fruíeis",
+    "3p": "fruíam"
+  },
+  "PPSI": {
+    "1s": "fruí",
+    "2s": "fruíste",
+    "3s": "fruiu",
+    "1p": "fruímos",
+    "2p": "fruístes",
+    "3p": "fruíram"
+  },
+  "PMQPSI": {
+    "1s": "fruíra",
+    "2s": "fruíras",
+    "3s": "fruíra",
+    "1p": "fruíramos",
+    "2p": "fruíreis",
+    "3p": "fruíram"
+  },
+  "FutSI": {
+    "1s": "fruirei",
+    "2s": "fruirás",
+    "3s": "fruirá",
+    "1p": "fruiremos",
+    "2p": "fruireis",
+    "3p": "fruirão"
+  },
+  "CondS": {
+    "1s": "fruiria",
+    "2s": "fruirias",
+    "3s": "fruiria",
+    "1p": "fruiríamos",
+    "2p": "fruiríeis",
+    "3p": "fruiriam"
+  },
+  "PresC": {
+    "1s": "frua",
+    "2s": "fruas",
+    "3s": "frua",
+    "1p": "fruamos",
+    "2p": "fruais",
+    "3p": "fruam"
+  },
+  "PImpC": {
+    "1s": "fruísse",
+    "2s": "fruísses",
+    "3s": "fruísse",
+    "1p": "fruíssemos",
+    "2p": "fruísseis",
+    "3p": "fruíssem"
+  },
+  "FutSC": {
+    "1s": "fruir",
+    "2s": "fruíres",
+    "3s": "fruir",
+    "1p": "fruirmos",
+    "2p": "fruirdes",
+    "3p": "fruírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "frui",
+    "3s": "frua",
+    "1p": "fruamos",
+    "2p": "fruí",
+    "3p": "fruam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fruas",
+    "3s": "não frua",
+    "1p": "não fruamos",
+    "2p": "não fruais",
+    "3p": "não fruam"
+  },
+  "Part-ter": {
+    "": "fruído"
+  },
+  "Part-ser": {
+    "ms": "fruído",
+    "fs": "fruída",
+    "mp": "fruídos",
+    "fp": "fruídas"
+  }
+}

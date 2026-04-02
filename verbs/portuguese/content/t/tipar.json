@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tipar"
+  },
+  "InfP": {
+    "1s": "tipar",
+    "2s": "tipares",
+    "3s": "tipar",
+    "1p": "tiparmos",
+    "2p": "tipardes",
+    "3p": "tiparem"
+  },
+  "Ger": {
+    "": "tipando"
+  },
+  "PresI": {
+    "1s": "tipo",
+    "2s": "tipas",
+    "3s": "tipa",
+    "1p": "tipamos",
+    "2p": "tipais",
+    "3p": "tipam"
+  },
+  "PImpI": {
+    "1s": "tipava",
+    "2s": "tipavas",
+    "3s": "tipava",
+    "1p": "tipávamos",
+    "2p": "tipáveis",
+    "3p": "tipavam"
+  },
+  "PPSI": {
+    "1s": "tipei",
+    "2s": "tipaste",
+    "3s": "tipou",
+    "1p": "tipámos",
+    "2p": "tipastes",
+    "3p": "tiparam"
+  },
+  "PMQPSI": {
+    "1s": "tipara",
+    "2s": "tiparas",
+    "3s": "tipara",
+    "1p": "tipáramos",
+    "2p": "tipáreis",
+    "3p": "tiparam"
+  },
+  "FutSI": {
+    "1s": "tiparei",
+    "2s": "tiparás",
+    "3s": "tipará",
+    "1p": "tiparemos",
+    "2p": "tipareis",
+    "3p": "tiparão"
+  },
+  "CondS": {
+    "1s": "tiparia",
+    "2s": "tiparias",
+    "3s": "tiparia",
+    "1p": "tiparíamos",
+    "2p": "tiparíeis",
+    "3p": "tipariam"
+  },
+  "PresC": {
+    "1s": "tipe",
+    "2s": "tipes",
+    "3s": "tipe",
+    "1p": "tipemos",
+    "2p": "tipeis",
+    "3p": "tipem"
+  },
+  "PImpC": {
+    "1s": "tipasse",
+    "2s": "tipasses",
+    "3s": "tipasse",
+    "1p": "tipássemos",
+    "2p": "tipásseis",
+    "3p": "tipassem"
+  },
+  "FutSC": {
+    "1s": "tipar",
+    "2s": "tipares",
+    "3s": "tipar",
+    "1p": "tiparmos",
+    "2p": "tipardes",
+    "3p": "tiparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tipa",
+    "3s": "tipe",
+    "1p": "tipemos",
+    "2p": "tipai",
+    "3p": "tipem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tipes",
+    "3s": "não tipe",
+    "1p": "não tipemos",
+    "2p": "não tipeis",
+    "3p": "não tipem"
+  },
+  "Part-ter": {
+    "": "tipado"
+  },
+  "Part-ser": {
+    "ms": "tipado",
+    "fs": "tipada",
+    "mp": "tipados",
+    "fp": "tipadas"
+  }
+}

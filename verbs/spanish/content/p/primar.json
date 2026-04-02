@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "primar"
+  },
+  "Ger": {
+    "": "primando"
+  },
+  "PresI": {
+    "1s": "primo",
+    "2s": "primas",
+    "3s": "prima",
+    "1p": "primamos",
+    "2p": "primáis",
+    "3p": "priman"
+  },
+  "PImpI": {
+    "1s": "primaba",
+    "2s": "primabas",
+    "3s": "primaba",
+    "1p": "primábamos",
+    "2p": "primabais",
+    "3p": "primaban"
+  },
+  "PPSI": {
+    "1s": "primé",
+    "2s": "primaste",
+    "3s": "primó",
+    "1p": "primamos",
+    "2p": "primasteis",
+    "3p": "primaron"
+  },
+  "FutSI": {
+    "1s": "primaré",
+    "2s": "primarás",
+    "3s": "primará",
+    "1p": "primaremos",
+    "2p": "primaréis",
+    "3p": "primarán"
+  },
+  "CondS": {
+    "1s": "primaría",
+    "2s": "primarías",
+    "3s": "primaría",
+    "1p": "primaríamos",
+    "2p": "primaríais",
+    "3p": "primarían"
+  },
+  "PresC": {
+    "1s": "prime",
+    "2s": "primes",
+    "3s": "prime",
+    "1p": "primemos",
+    "2p": "priméis",
+    "3p": "primen"
+  },
+  "PMQPSI": {
+    "1s": "primara",
+    "2s": "primaras",
+    "3s": "primara",
+    "1p": "primáramos",
+    "2p": "primarais",
+    "3p": "primaran"
+  },
+  "PImpC": {
+    "1s": "primase",
+    "2s": "primases",
+    "3s": "primase",
+    "1p": "primásemos",
+    "2p": "primaseis",
+    "3p": "primasen"
+  },
+  "FutSC": {
+    "1s": "primare",
+    "2s": "primares",
+    "3s": "primare",
+    "1p": "primáremos",
+    "2p": "primareis",
+    "3p": "primaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prima",
+    "3s": "prime",
+    "1p": "primemos",
+    "2p": "primad",
+    "3p": "primen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no primes",
+    "3s": "no prime",
+    "1p": "no primemos",
+    "2p": "no priméis",
+    "3p": "no primen"
+  },
+  "Part-ter": {
+    "": "primado"
+  },
+  "Part-ser": {
+    "ms": "primado",
+    "fs": "primada",
+    "mp": "primados",
+    "fp": "primadas"
+  }
+}

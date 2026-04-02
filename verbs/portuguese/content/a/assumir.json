@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "assumir"
+  },
+  "InfP": {
+    "1s": "assumir",
+    "2s": "assumires",
+    "3s": "assumir",
+    "1p": "assumirmos",
+    "2p": "assumirdes",
+    "3p": "assumirem"
+  },
+  "Ger": {
+    "": "assumindo"
+  },
+  "PresI": {
+    "1s": "assumo",
+    "2s": "assumes",
+    "3s": "assume",
+    "1p": "assumimos",
+    "2p": "assumis",
+    "3p": "assumem"
+  },
+  "PImpI": {
+    "1s": "assumia",
+    "2s": "assumias",
+    "3s": "assumia",
+    "1p": "assumíamos",
+    "2p": "assumíeis",
+    "3p": "assumiam"
+  },
+  "PPSI": {
+    "1s": "assumi",
+    "2s": "assumiste",
+    "3s": "assumiu",
+    "1p": "assumimos",
+    "2p": "assumistes",
+    "3p": "assumiram"
+  },
+  "PMQPSI": {
+    "1s": "assumira",
+    "2s": "assumiras",
+    "3s": "assumira",
+    "1p": "assumíramos",
+    "2p": "assumíreis",
+    "3p": "assumiram"
+  },
+  "FutSI": {
+    "1s": "assumirei",
+    "2s": "assumirás",
+    "3s": "assumirá",
+    "1p": "assumiremos",
+    "2p": "assumireis",
+    "3p": "assumirão"
+  },
+  "CondS": {
+    "1s": "assumiria",
+    "2s": "assumirias",
+    "3s": "assumiria",
+    "1p": "assumiríamos",
+    "2p": "assumiríeis",
+    "3p": "assumiriam"
+  },
+  "PresC": {
+    "1s": "assuma",
+    "2s": "assumas",
+    "3s": "assuma",
+    "1p": "assumamos",
+    "2p": "assumais",
+    "3p": "assumam"
+  },
+  "PImpC": {
+    "1s": "assumisse",
+    "2s": "assumisses",
+    "3s": "assumisse",
+    "1p": "assumíssemos",
+    "2p": "assumísseis",
+    "3p": "assumissem"
+  },
+  "FutSC": {
+    "1s": "assumir",
+    "2s": "assumires",
+    "3s": "assumir",
+    "1p": "assumirmos",
+    "2p": "assumirdes",
+    "3p": "assumirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "assume",
+    "3s": "assuma",
+    "1p": "assumamos",
+    "2p": "assumi",
+    "3p": "assumam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não assumas",
+    "3s": "não assuma",
+    "1p": "não assumamos",
+    "2p": "não assumais",
+    "3p": "não assumam"
+  },
+  "Part-ter": {
+    "": "assumido"
+  },
+  "Part-ser": {
+    "ms": "assumido",
+    "fs": "assumida",
+    "mp": "assumidos",
+    "fp": "assumidas"
+  }
+}

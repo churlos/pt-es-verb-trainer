@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "granar"
+  },
+  "Ger": {
+    "": "granando"
+  },
+  "PresI": {
+    "1s": "grano",
+    "2s": "granas",
+    "3s": "grana",
+    "1p": "granamos",
+    "2p": "granáis",
+    "3p": "granan"
+  },
+  "PImpI": {
+    "1s": "granaba",
+    "2s": "granabas",
+    "3s": "granaba",
+    "1p": "granábamos",
+    "2p": "granabais",
+    "3p": "granaban"
+  },
+  "PPSI": {
+    "1s": "grané",
+    "2s": "granaste",
+    "3s": "granó",
+    "1p": "granamos",
+    "2p": "granasteis",
+    "3p": "granaron"
+  },
+  "FutSI": {
+    "1s": "granaré",
+    "2s": "granarás",
+    "3s": "granará",
+    "1p": "granaremos",
+    "2p": "granaréis",
+    "3p": "granarán"
+  },
+  "CondS": {
+    "1s": "granaría",
+    "2s": "granarías",
+    "3s": "granaría",
+    "1p": "granaríamos",
+    "2p": "granaríais",
+    "3p": "granarían"
+  },
+  "PresC": {
+    "1s": "grane",
+    "2s": "granes",
+    "3s": "grane",
+    "1p": "granemos",
+    "2p": "granéis",
+    "3p": "granen"
+  },
+  "PMQPSI": {
+    "1s": "granara",
+    "2s": "granaras",
+    "3s": "granara",
+    "1p": "granáramos",
+    "2p": "granarais",
+    "3p": "granaran"
+  },
+  "PImpC": {
+    "1s": "granase",
+    "2s": "granases",
+    "3s": "granase",
+    "1p": "granásemos",
+    "2p": "granaseis",
+    "3p": "granasen"
+  },
+  "FutSC": {
+    "1s": "granare",
+    "2s": "granares",
+    "3s": "granare",
+    "1p": "granáremos",
+    "2p": "granareis",
+    "3p": "granaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grana",
+    "3s": "grane",
+    "1p": "granemos",
+    "2p": "granad",
+    "3p": "granen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no granes",
+    "3s": "no grane",
+    "1p": "no granemos",
+    "2p": "no granéis",
+    "3p": "no granen"
+  },
+  "Part-ter": {
+    "": "granado"
+  },
+  "Part-ser": {
+    "ms": "granado",
+    "fs": "granada",
+    "mp": "granados",
+    "fp": "granadas"
+  }
+}

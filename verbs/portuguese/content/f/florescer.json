@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "florescer"
+  },
+  "InfP": {
+    "1s": "florescer",
+    "2s": "floresceres",
+    "3s": "florescer",
+    "1p": "florescermos",
+    "2p": "florescerdes",
+    "3p": "florescerem"
+  },
+  "Ger": {
+    "": "florescendo"
+  },
+  "PresI": {
+    "1s": "floresço",
+    "2s": "floresces",
+    "3s": "floresce",
+    "1p": "florescemos",
+    "2p": "floresceis",
+    "3p": "florescem"
+  },
+  "PImpI": {
+    "1s": "florescia",
+    "2s": "florescias",
+    "3s": "florescia",
+    "1p": "florescíamos",
+    "2p": "florescíeis",
+    "3p": "floresciam"
+  },
+  "PPSI": {
+    "1s": "floresci",
+    "2s": "floresceste",
+    "3s": "floresceu",
+    "1p": "florescemos",
+    "2p": "florescestes",
+    "3p": "floresceram"
+  },
+  "PMQPSI": {
+    "1s": "florescera",
+    "2s": "floresceras",
+    "3s": "florescera",
+    "1p": "florescêramos",
+    "2p": "florescêreis",
+    "3p": "floresceram"
+  },
+  "FutSI": {
+    "1s": "florescerei",
+    "2s": "florescerás",
+    "3s": "florescerá",
+    "1p": "floresceremos",
+    "2p": "florescereis",
+    "3p": "florescerão"
+  },
+  "CondS": {
+    "1s": "floresceria",
+    "2s": "florescerias",
+    "3s": "floresceria",
+    "1p": "floresceríamos",
+    "2p": "floresceríeis",
+    "3p": "floresceriam"
+  },
+  "PresC": {
+    "1s": "floresça",
+    "2s": "floresças",
+    "3s": "floresça",
+    "1p": "floresçamos",
+    "2p": "floresçais",
+    "3p": "floresçam"
+  },
+  "PImpC": {
+    "1s": "florescesse",
+    "2s": "florescesses",
+    "3s": "florescesse",
+    "1p": "florescêssemos",
+    "2p": "florescêsseis",
+    "3p": "florescessem"
+  },
+  "FutSC": {
+    "1s": "florescer",
+    "2s": "floresceres",
+    "3s": "florescer",
+    "1p": "florescermos",
+    "2p": "florescerdes",
+    "3p": "florescerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "floresce",
+    "3s": "floresça",
+    "1p": "floresçamos",
+    "2p": "florescei",
+    "3p": "floresçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não floresças",
+    "3s": "não floresça",
+    "1p": "não floresçamos",
+    "2p": "não floresçais",
+    "3p": "não floresçam"
+  },
+  "Part-ter": {
+    "": "florescido"
+  },
+  "Part-ser": {
+    "ms": "florescido",
+    "fs": "florescida",
+    "mp": "florescidos",
+    "fp": "florescidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fallecer"
+  },
+  "Ger": {
+    "": "falleciendo"
+  },
+  "PresI": {
+    "1s": "fallezco",
+    "2s": "falleces",
+    "3s": "fallece",
+    "1p": "fallecemos",
+    "2p": "fallecéis",
+    "3p": "fallecen"
+  },
+  "PImpI": {
+    "1s": "fallecía",
+    "2s": "fallecías",
+    "3s": "fallecía",
+    "1p": "fallecíamos",
+    "2p": "fallecíais",
+    "3p": "fallecían"
+  },
+  "PPSI": {
+    "1s": "fallecí",
+    "2s": "falleciste",
+    "3s": "falleció",
+    "1p": "fallecimos",
+    "2p": "fallecisteis",
+    "3p": "fallecieron"
+  },
+  "FutSI": {
+    "1s": "falleceré",
+    "2s": "fallecerás",
+    "3s": "fallecerá",
+    "1p": "falleceremos",
+    "2p": "falleceréis",
+    "3p": "fallecerán"
+  },
+  "CondS": {
+    "1s": "fallecería",
+    "2s": "fallecerías",
+    "3s": "fallecería",
+    "1p": "falleceríamos",
+    "2p": "falleceríais",
+    "3p": "fallecerían"
+  },
+  "PresC": {
+    "1s": "fallezca",
+    "2s": "fallezcas",
+    "3s": "fallezca",
+    "1p": "fallezcamos",
+    "2p": "fallezcáis",
+    "3p": "fallezcan"
+  },
+  "PMQPSI": {
+    "1s": "falleciera",
+    "2s": "fallecieras",
+    "3s": "falleciera",
+    "1p": "falleciéramos",
+    "2p": "fallecierais",
+    "3p": "fallecieran"
+  },
+  "PImpC": {
+    "1s": "falleciese",
+    "2s": "fallecieses",
+    "3s": "falleciese",
+    "1p": "falleciésemos",
+    "2p": "fallecieseis",
+    "3p": "falleciesen"
+  },
+  "FutSC": {
+    "1s": "falleciere",
+    "2s": "fallecieres",
+    "3s": "falleciere",
+    "1p": "falleciéremos",
+    "2p": "falleciereis",
+    "3p": "fallecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fallece",
+    "3s": "fallezca",
+    "1p": "fallezcamos",
+    "2p": "falleced",
+    "3p": "fallezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fallezcas",
+    "3s": "no fallezca",
+    "1p": "no fallezcamos",
+    "2p": "no fallezcáis",
+    "3p": "no fallezcan"
+  },
+  "Part-ter": {
+    "": "fallecido"
+  },
+  "Part-ser": {
+    "ms": "fallecido",
+    "fs": "fallecida",
+    "mp": "fallecidos",
+    "fp": "fallecidas"
+  }
+}

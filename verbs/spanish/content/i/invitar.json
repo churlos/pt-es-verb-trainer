@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "invitar"
+  },
+  "Ger": {
+    "": "invitando"
+  },
+  "PresI": {
+    "1s": "invito",
+    "2s": "invitas",
+    "3s": "invita",
+    "1p": "invitamos",
+    "2p": "invitáis",
+    "3p": "invitan"
+  },
+  "PImpI": {
+    "1s": "invitaba",
+    "2s": "invitabas",
+    "3s": "invitaba",
+    "1p": "invitábamos",
+    "2p": "invitabais",
+    "3p": "invitaban"
+  },
+  "PPSI": {
+    "1s": "invité",
+    "2s": "invitaste",
+    "3s": "invitó",
+    "1p": "invitamos",
+    "2p": "invitasteis",
+    "3p": "invitaron"
+  },
+  "FutSI": {
+    "1s": "invitaré",
+    "2s": "invitarás",
+    "3s": "invitará",
+    "1p": "invitaremos",
+    "2p": "invitaréis",
+    "3p": "invitarán"
+  },
+  "CondS": {
+    "1s": "invitaría",
+    "2s": "invitarías",
+    "3s": "invitaría",
+    "1p": "invitaríamos",
+    "2p": "invitaríais",
+    "3p": "invitarían"
+  },
+  "PresC": {
+    "1s": "invite",
+    "2s": "invites",
+    "3s": "invite",
+    "1p": "invitemos",
+    "2p": "invitéis",
+    "3p": "inviten"
+  },
+  "PMQPSI": {
+    "1s": "invitara",
+    "2s": "invitaras",
+    "3s": "invitara",
+    "1p": "invitáramos",
+    "2p": "invitarais",
+    "3p": "invitaran"
+  },
+  "PImpC": {
+    "1s": "invitase",
+    "2s": "invitases",
+    "3s": "invitase",
+    "1p": "invitásemos",
+    "2p": "invitaseis",
+    "3p": "invitasen"
+  },
+  "FutSC": {
+    "1s": "invitare",
+    "2s": "invitares",
+    "3s": "invitare",
+    "1p": "invitáremos",
+    "2p": "invitareis",
+    "3p": "invitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invita",
+    "3s": "invite",
+    "1p": "invitemos",
+    "2p": "invitad",
+    "3p": "inviten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no invites",
+    "3s": "no invite",
+    "1p": "no invitemos",
+    "2p": "no invitéis",
+    "3p": "no inviten"
+  },
+  "Part-ter": {
+    "": "invitado"
+  },
+  "Part-ser": {
+    "ms": "invitado",
+    "fs": "invitada",
+    "mp": "invitados",
+    "fp": "invitadas"
+  }
+}

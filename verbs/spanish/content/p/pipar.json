@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pipar"
+  },
+  "Ger": {
+    "": "pipando"
+  },
+  "PresI": {
+    "1s": "pipo",
+    "2s": "pipas",
+    "3s": "pipa",
+    "1p": "pipamos",
+    "2p": "pipáis",
+    "3p": "pipan"
+  },
+  "PImpI": {
+    "1s": "pipaba",
+    "2s": "pipabas",
+    "3s": "pipaba",
+    "1p": "pipábamos",
+    "2p": "pipabais",
+    "3p": "pipaban"
+  },
+  "PPSI": {
+    "1s": "pipé",
+    "2s": "pipaste",
+    "3s": "pipó",
+    "1p": "pipamos",
+    "2p": "pipasteis",
+    "3p": "piparon"
+  },
+  "FutSI": {
+    "1s": "piparé",
+    "2s": "piparás",
+    "3s": "pipará",
+    "1p": "piparemos",
+    "2p": "piparéis",
+    "3p": "piparán"
+  },
+  "CondS": {
+    "1s": "piparía",
+    "2s": "piparías",
+    "3s": "piparía",
+    "1p": "piparíamos",
+    "2p": "piparíais",
+    "3p": "piparían"
+  },
+  "PresC": {
+    "1s": "pipe",
+    "2s": "pipes",
+    "3s": "pipe",
+    "1p": "pipemos",
+    "2p": "pipéis",
+    "3p": "pipen"
+  },
+  "PMQPSI": {
+    "1s": "pipara",
+    "2s": "piparas",
+    "3s": "pipara",
+    "1p": "pipáramos",
+    "2p": "piparais",
+    "3p": "piparan"
+  },
+  "PImpC": {
+    "1s": "pipase",
+    "2s": "pipases",
+    "3s": "pipase",
+    "1p": "pipásemos",
+    "2p": "pipaseis",
+    "3p": "pipasen"
+  },
+  "FutSC": {
+    "1s": "pipare",
+    "2s": "pipares",
+    "3s": "pipare",
+    "1p": "pipáremos",
+    "2p": "pipareis",
+    "3p": "piparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pipa",
+    "3s": "pipe",
+    "1p": "pipemos",
+    "2p": "pipad",
+    "3p": "pipen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pipes",
+    "3s": "no pipe",
+    "1p": "no pipemos",
+    "2p": "no pipéis",
+    "3p": "no pipen"
+  },
+  "Part-ter": {
+    "": "pipado"
+  },
+  "Part-ser": {
+    "ms": "pipado",
+    "fs": "pipada",
+    "mp": "pipados",
+    "fp": "pipadas"
+  }
+}

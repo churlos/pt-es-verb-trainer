@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pegar"
+  },
+  "InfP": {
+    "1s": "pegar",
+    "2s": "pegares",
+    "3s": "pegar",
+    "1p": "pegarmos",
+    "2p": "pegardes",
+    "3p": "pegarem"
+  },
+  "Ger": {
+    "": "pegando"
+  },
+  "PresI": {
+    "1s": "pego",
+    "2s": "pegas",
+    "3s": "pega",
+    "1p": "pegamos",
+    "2p": "pegais",
+    "3p": "pegam"
+  },
+  "PImpI": {
+    "1s": "pegava",
+    "2s": "pegavas",
+    "3s": "pegava",
+    "1p": "pegávamos",
+    "2p": "pegáveis",
+    "3p": "pegavam"
+  },
+  "PPSI": {
+    "1s": "peguei",
+    "2s": "pegaste",
+    "3s": "pegou",
+    "1p": "pegámos",
+    "2p": "pegastes",
+    "3p": "pegaram"
+  },
+  "PMQPSI": {
+    "1s": "pegara",
+    "2s": "pegaras",
+    "3s": "pegara",
+    "1p": "pegáramos",
+    "2p": "pegáreis",
+    "3p": "pegaram"
+  },
+  "FutSI": {
+    "1s": "pegarei",
+    "2s": "pegarás",
+    "3s": "pegará",
+    "1p": "pegaremos",
+    "2p": "pegareis",
+    "3p": "pegarão"
+  },
+  "CondS": {
+    "1s": "pegaria",
+    "2s": "pegarias",
+    "3s": "pegaria",
+    "1p": "pegaríamos",
+    "2p": "pegaríeis",
+    "3p": "pegariam"
+  },
+  "PresC": {
+    "1s": "pegue",
+    "2s": "pegues",
+    "3s": "pegue",
+    "1p": "peguemos",
+    "2p": "pegueis",
+    "3p": "peguem"
+  },
+  "PImpC": {
+    "1s": "pegasse",
+    "2s": "pegasses",
+    "3s": "pegasse",
+    "1p": "pegássemos",
+    "2p": "pegásseis",
+    "3p": "pegassem"
+  },
+  "FutSC": {
+    "1s": "pegar",
+    "2s": "pegares",
+    "3s": "pegar",
+    "1p": "pegarmos",
+    "2p": "pegardes",
+    "3p": "pegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pega",
+    "3s": "pegue",
+    "1p": "peguemos",
+    "2p": "pegai",
+    "3p": "peguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pegues",
+    "3s": "não pegue",
+    "1p": "não peguemos",
+    "2p": "não pegueis",
+    "3p": "não peguem"
+  },
+  "Part-ter": {
+    "": "pegado"
+  },
+  "Part-ser": {
+    "ms": "pegado",
+    "fs": "pegada",
+    "mp": "pegados",
+    "fp": "pegadas"
+  }
+}

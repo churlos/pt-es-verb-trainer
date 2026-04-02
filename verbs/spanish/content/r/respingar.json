@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "respingar"
+  },
+  "Ger": {
+    "": "respingando"
+  },
+  "PresI": {
+    "1s": "respingo",
+    "2s": "respingas",
+    "3s": "respinga",
+    "1p": "respingamos",
+    "2p": "respingáis",
+    "3p": "respingan"
+  },
+  "PImpI": {
+    "1s": "respingaba",
+    "2s": "respingabas",
+    "3s": "respingaba",
+    "1p": "respingábamos",
+    "2p": "respingabais",
+    "3p": "respingaban"
+  },
+  "PPSI": {
+    "1s": "respingué",
+    "2s": "respingaste",
+    "3s": "respingó",
+    "1p": "respingamos",
+    "2p": "respingasteis",
+    "3p": "respingaron"
+  },
+  "FutSI": {
+    "1s": "respingaré",
+    "2s": "respingarás",
+    "3s": "respingará",
+    "1p": "respingaremos",
+    "2p": "respingaréis",
+    "3p": "respingarán"
+  },
+  "CondS": {
+    "1s": "respingaría",
+    "2s": "respingarías",
+    "3s": "respingaría",
+    "1p": "respingaríamos",
+    "2p": "respingaríais",
+    "3p": "respingarían"
+  },
+  "PresC": {
+    "1s": "respingue",
+    "2s": "respingues",
+    "3s": "respingue",
+    "1p": "respinguemos",
+    "2p": "respinguéis",
+    "3p": "respinguen"
+  },
+  "PMQPSI": {
+    "1s": "respingara",
+    "2s": "respingaras",
+    "3s": "respingara",
+    "1p": "respingáramos",
+    "2p": "respingarais",
+    "3p": "respingaran"
+  },
+  "PImpC": {
+    "1s": "respingase",
+    "2s": "respingases",
+    "3s": "respingase",
+    "1p": "respingásemos",
+    "2p": "respingaseis",
+    "3p": "respingasen"
+  },
+  "FutSC": {
+    "1s": "respingare",
+    "2s": "respingares",
+    "3s": "respingare",
+    "1p": "respingáremos",
+    "2p": "respingareis",
+    "3p": "respingaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "respinga",
+    "3s": "respingue",
+    "1p": "respinguemos",
+    "2p": "respingad",
+    "3p": "respinguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no respingues",
+    "3s": "no respingue",
+    "1p": "no respinguemos",
+    "2p": "no respinguéis",
+    "3p": "no respinguen"
+  },
+  "Part-ter": {
+    "": "respingado"
+  },
+  "Part-ser": {
+    "ms": "respingado",
+    "fs": "respingada",
+    "mp": "respingados",
+    "fp": "respingadas"
+  }
+}

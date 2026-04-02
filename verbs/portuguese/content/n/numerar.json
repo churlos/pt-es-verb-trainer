@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "numerar"
+  },
+  "InfP": {
+    "1s": "numerar",
+    "2s": "numerares",
+    "3s": "numerar",
+    "1p": "numerarmos",
+    "2p": "numerardes",
+    "3p": "numerarem"
+  },
+  "Ger": {
+    "": "numerando"
+  },
+  "PresI": {
+    "1s": "numero",
+    "2s": "numeras",
+    "3s": "numera",
+    "1p": "numeramos",
+    "2p": "numerais",
+    "3p": "numeram"
+  },
+  "PImpI": {
+    "1s": "numerava",
+    "2s": "numeravas",
+    "3s": "numerava",
+    "1p": "numerávamos",
+    "2p": "numeráveis",
+    "3p": "numeravam"
+  },
+  "PPSI": {
+    "1s": "numerei",
+    "2s": "numeraste",
+    "3s": "numerou",
+    "1p": "numerámos",
+    "2p": "numerastes",
+    "3p": "numeraram"
+  },
+  "PMQPSI": {
+    "1s": "numerara",
+    "2s": "numeraras",
+    "3s": "numerara",
+    "1p": "numeráramos",
+    "2p": "numeráreis",
+    "3p": "numeraram"
+  },
+  "FutSI": {
+    "1s": "numerarei",
+    "2s": "numerarás",
+    "3s": "numerará",
+    "1p": "numeraremos",
+    "2p": "numerareis",
+    "3p": "numerarão"
+  },
+  "CondS": {
+    "1s": "numeraria",
+    "2s": "numerarias",
+    "3s": "numeraria",
+    "1p": "numeraríamos",
+    "2p": "numeraríeis",
+    "3p": "numerariam"
+  },
+  "PresC": {
+    "1s": "numere",
+    "2s": "numeres",
+    "3s": "numere",
+    "1p": "numeremos",
+    "2p": "numereis",
+    "3p": "numerem"
+  },
+  "PImpC": {
+    "1s": "numerasse",
+    "2s": "numerasses",
+    "3s": "numerasse",
+    "1p": "numerássemos",
+    "2p": "numerásseis",
+    "3p": "numerassem"
+  },
+  "FutSC": {
+    "1s": "numerar",
+    "2s": "numerares",
+    "3s": "numerar",
+    "1p": "numerarmos",
+    "2p": "numerardes",
+    "3p": "numerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "numera",
+    "3s": "numere",
+    "1p": "numeremos",
+    "2p": "numerai",
+    "3p": "numerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não numeres",
+    "3s": "não numere",
+    "1p": "não numeremos",
+    "2p": "não numereis",
+    "3p": "não numerem"
+  },
+  "Part-ter": {
+    "": "numerado"
+  },
+  "Part-ser": {
+    "ms": "numerado",
+    "fs": "numerada",
+    "mp": "numerados",
+    "fp": "numeradas"
+  }
+}

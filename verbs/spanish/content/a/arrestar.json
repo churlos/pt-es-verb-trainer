@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arrestar"
+  },
+  "Ger": {
+    "": "arrestando"
+  },
+  "PresI": {
+    "1s": "arresto",
+    "2s": "arrestas",
+    "3s": "arresta",
+    "1p": "arrestamos",
+    "2p": "arrestáis",
+    "3p": "arrestan"
+  },
+  "PImpI": {
+    "1s": "arrestaba",
+    "2s": "arrestabas",
+    "3s": "arrestaba",
+    "1p": "arrestábamos",
+    "2p": "arrestabais",
+    "3p": "arrestaban"
+  },
+  "PPSI": {
+    "1s": "arresté",
+    "2s": "arrestaste",
+    "3s": "arrestó",
+    "1p": "arrestamos",
+    "2p": "arrestasteis",
+    "3p": "arrestaron"
+  },
+  "FutSI": {
+    "1s": "arrestaré",
+    "2s": "arrestarás",
+    "3s": "arrestará",
+    "1p": "arrestaremos",
+    "2p": "arrestaréis",
+    "3p": "arrestarán"
+  },
+  "CondS": {
+    "1s": "arrestaría",
+    "2s": "arrestarías",
+    "3s": "arrestaría",
+    "1p": "arrestaríamos",
+    "2p": "arrestaríais",
+    "3p": "arrestarían"
+  },
+  "PresC": {
+    "1s": "arreste",
+    "2s": "arrestes",
+    "3s": "arreste",
+    "1p": "arrestemos",
+    "2p": "arrestéis",
+    "3p": "arresten"
+  },
+  "PMQPSI": {
+    "1s": "arrestara",
+    "2s": "arrestaras",
+    "3s": "arrestara",
+    "1p": "arrestáramos",
+    "2p": "arrestarais",
+    "3p": "arrestaran"
+  },
+  "PImpC": {
+    "1s": "arrestase",
+    "2s": "arrestases",
+    "3s": "arrestase",
+    "1p": "arrestásemos",
+    "2p": "arrestaseis",
+    "3p": "arrestasen"
+  },
+  "FutSC": {
+    "1s": "arrestare",
+    "2s": "arrestares",
+    "3s": "arrestare",
+    "1p": "arrestáremos",
+    "2p": "arrestareis",
+    "3p": "arrestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arresta",
+    "3s": "arreste",
+    "1p": "arrestemos",
+    "2p": "arrestad",
+    "3p": "arresten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arrestes",
+    "3s": "no arreste",
+    "1p": "no arrestemos",
+    "2p": "no arrestéis",
+    "3p": "no arresten"
+  },
+  "Part-ter": {
+    "": "arrestado"
+  },
+  "Part-ser": {
+    "ms": "arrestado",
+    "fs": "arrestada",
+    "mp": "arrestados",
+    "fp": "arrestadas"
+  }
+}

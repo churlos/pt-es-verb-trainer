@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "operar"
+  },
+  "Ger": {
+    "": "operando"
+  },
+  "PresI": {
+    "1s": "opero",
+    "2s": "operas",
+    "3s": "opera",
+    "1p": "operamos",
+    "2p": "operáis",
+    "3p": "operan"
+  },
+  "PImpI": {
+    "1s": "operaba",
+    "2s": "operabas",
+    "3s": "operaba",
+    "1p": "operábamos",
+    "2p": "operabais",
+    "3p": "operaban"
+  },
+  "PPSI": {
+    "1s": "operé",
+    "2s": "operaste",
+    "3s": "operó",
+    "1p": "operamos",
+    "2p": "operasteis",
+    "3p": "operaron"
+  },
+  "FutSI": {
+    "1s": "operaré",
+    "2s": "operarás",
+    "3s": "operará",
+    "1p": "operaremos",
+    "2p": "operaréis",
+    "3p": "operarán"
+  },
+  "CondS": {
+    "1s": "operaría",
+    "2s": "operarías",
+    "3s": "operaría",
+    "1p": "operaríamos",
+    "2p": "operaríais",
+    "3p": "operarían"
+  },
+  "PresC": {
+    "1s": "opere",
+    "2s": "operes",
+    "3s": "opere",
+    "1p": "operemos",
+    "2p": "operéis",
+    "3p": "operen"
+  },
+  "PMQPSI": {
+    "1s": "operara",
+    "2s": "operaras",
+    "3s": "operara",
+    "1p": "operáramos",
+    "2p": "operarais",
+    "3p": "operaran"
+  },
+  "PImpC": {
+    "1s": "operase",
+    "2s": "operases",
+    "3s": "operase",
+    "1p": "operásemos",
+    "2p": "operaseis",
+    "3p": "operasen"
+  },
+  "FutSC": {
+    "1s": "operare",
+    "2s": "operares",
+    "3s": "operare",
+    "1p": "operáremos",
+    "2p": "operareis",
+    "3p": "operaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "opera",
+    "3s": "opere",
+    "1p": "operemos",
+    "2p": "operad",
+    "3p": "operen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no operes",
+    "3s": "no opere",
+    "1p": "no operemos",
+    "2p": "no operéis",
+    "3p": "no operen"
+  },
+  "Part-ter": {
+    "": "operado"
+  },
+  "Part-ser": {
+    "ms": "operado",
+    "fs": "operada",
+    "mp": "operados",
+    "fp": "operadas"
+  }
+}

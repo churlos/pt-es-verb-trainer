@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "recuperar"
+  },
+  "InfP": {
+    "1s": "recuperar",
+    "2s": "recuperares",
+    "3s": "recuperar",
+    "1p": "recuperarmos",
+    "2p": "recuperardes",
+    "3p": "recuperarem"
+  },
+  "Ger": {
+    "": "recuperando"
+  },
+  "PresI": {
+    "1s": "recupero",
+    "2s": "recuperas",
+    "3s": "recupera",
+    "1p": "recuperamos",
+    "2p": "recuperais",
+    "3p": "recuperam"
+  },
+  "PImpI": {
+    "1s": "recuperava",
+    "2s": "recuperavas",
+    "3s": "recuperava",
+    "1p": "recuperávamos",
+    "2p": "recuperáveis",
+    "3p": "recuperavam"
+  },
+  "PPSI": {
+    "1s": "recuperei",
+    "2s": "recuperaste",
+    "3s": "recuperou",
+    "1p": "recuperámos",
+    "2p": "recuperastes",
+    "3p": "recuperaram"
+  },
+  "PMQPSI": {
+    "1s": "recuperara",
+    "2s": "recuperaras",
+    "3s": "recuperara",
+    "1p": "recuperáramos",
+    "2p": "recuperáreis",
+    "3p": "recuperaram"
+  },
+  "FutSI": {
+    "1s": "recuperarei",
+    "2s": "recuperarás",
+    "3s": "recuperará",
+    "1p": "recuperaremos",
+    "2p": "recuperareis",
+    "3p": "recuperarão"
+  },
+  "CondS": {
+    "1s": "recuperaria",
+    "2s": "recuperarias",
+    "3s": "recuperaria",
+    "1p": "recuperaríamos",
+    "2p": "recuperaríeis",
+    "3p": "recuperariam"
+  },
+  "PresC": {
+    "1s": "recupere",
+    "2s": "recuperes",
+    "3s": "recupere",
+    "1p": "recuperemos",
+    "2p": "recupereis",
+    "3p": "recuperem"
+  },
+  "PImpC": {
+    "1s": "recuperasse",
+    "2s": "recuperasses",
+    "3s": "recuperasse",
+    "1p": "recuperássemos",
+    "2p": "recuperásseis",
+    "3p": "recuperassem"
+  },
+  "FutSC": {
+    "1s": "recuperar",
+    "2s": "recuperares",
+    "3s": "recuperar",
+    "1p": "recuperarmos",
+    "2p": "recuperardes",
+    "3p": "recuperarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recupera",
+    "3s": "recupere",
+    "1p": "recuperemos",
+    "2p": "recuperai",
+    "3p": "recuperem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não recuperes",
+    "3s": "não recupere",
+    "1p": "não recuperemos",
+    "2p": "não recupereis",
+    "3p": "não recuperem"
+  },
+  "Part-ter": {
+    "": "recuperado"
+  },
+  "Part-ser": {
+    "ms": "recuperado",
+    "fs": "recuperada",
+    "mp": "recuperados",
+    "fp": "recuperadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escravizar"
+  },
+  "InfP": {
+    "1s": "escravizar",
+    "2s": "escravizares",
+    "3s": "escravizar",
+    "1p": "escravizarmos",
+    "2p": "escravizardes",
+    "3p": "escravizarem"
+  },
+  "Ger": {
+    "": "escravizando"
+  },
+  "PresI": {
+    "1s": "escravizo",
+    "2s": "escravizas",
+    "3s": "escraviza",
+    "1p": "escravizamos",
+    "2p": "escravizais",
+    "3p": "escravizam"
+  },
+  "PImpI": {
+    "1s": "escravizava",
+    "2s": "escravizavas",
+    "3s": "escravizava",
+    "1p": "escravizávamos",
+    "2p": "escravizáveis",
+    "3p": "escravizavam"
+  },
+  "PPSI": {
+    "1s": "escravizei",
+    "2s": "escravizaste",
+    "3s": "escravizou",
+    "1p": "escravizámos",
+    "2p": "escravizastes",
+    "3p": "escravizaram"
+  },
+  "PMQPSI": {
+    "1s": "escravizara",
+    "2s": "escravizaras",
+    "3s": "escravizara",
+    "1p": "escravizáramos",
+    "2p": "escravizáreis",
+    "3p": "escravizaram"
+  },
+  "FutSI": {
+    "1s": "escravizarei",
+    "2s": "escravizarás",
+    "3s": "escravizará",
+    "1p": "escravizaremos",
+    "2p": "escravizareis",
+    "3p": "escravizarão"
+  },
+  "CondS": {
+    "1s": "escravizaria",
+    "2s": "escravizarias",
+    "3s": "escravizaria",
+    "1p": "escravizaríamos",
+    "2p": "escravizaríeis",
+    "3p": "escravizariam"
+  },
+  "PresC": {
+    "1s": "escravize",
+    "2s": "escravizes",
+    "3s": "escravize",
+    "1p": "escravizemos",
+    "2p": "escravizeis",
+    "3p": "escravizem"
+  },
+  "PImpC": {
+    "1s": "escravizasse",
+    "2s": "escravizasses",
+    "3s": "escravizasse",
+    "1p": "escravizássemos",
+    "2p": "escravizásseis",
+    "3p": "escravizassem"
+  },
+  "FutSC": {
+    "1s": "escravizar",
+    "2s": "escravizares",
+    "3s": "escravizar",
+    "1p": "escravizarmos",
+    "2p": "escravizardes",
+    "3p": "escravizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escraviza",
+    "3s": "escravize",
+    "1p": "escravizemos",
+    "2p": "escravizai",
+    "3p": "escravizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escravizes",
+    "3s": "não escravize",
+    "1p": "não escravizemos",
+    "2p": "não escravizeis",
+    "3p": "não escravizem"
+  },
+  "Part-ter": {
+    "": "escravizado"
+  },
+  "Part-ser": {
+    "ms": "escravizado",
+    "fs": "escravizada",
+    "mp": "escravizados",
+    "fp": "escravizadas"
+  }
+}

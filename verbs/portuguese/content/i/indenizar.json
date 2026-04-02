@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indenizar"
+  },
+  "InfP": {
+    "1s": "indenizar",
+    "2s": "indenizares",
+    "3s": "indenizar",
+    "1p": "indenizarmos",
+    "2p": "indenizardes",
+    "3p": "indenizarem"
+  },
+  "Ger": {
+    "": "indenizando"
+  },
+  "PresI": {
+    "1s": "indenizo",
+    "2s": "indenizas",
+    "3s": "indeniza",
+    "1p": "indenizamos",
+    "2p": "indenizais",
+    "3p": "indenizam"
+  },
+  "PImpI": {
+    "1s": "indenizava",
+    "2s": "indenizavas",
+    "3s": "indenizava",
+    "1p": "indenizávamos",
+    "2p": "indenizáveis",
+    "3p": "indenizavam"
+  },
+  "PPSI": {
+    "1s": "indenizei",
+    "2s": "indenizaste",
+    "3s": "indenizou",
+    "1p": "indenizámos",
+    "2p": "indenizastes",
+    "3p": "indenizaram"
+  },
+  "PMQPSI": {
+    "1s": "indenizara",
+    "2s": "indenizaras",
+    "3s": "indenizara",
+    "1p": "indenizáramos",
+    "2p": "indenizáreis",
+    "3p": "indenizaram"
+  },
+  "FutSI": {
+    "1s": "indenizarei",
+    "2s": "indenizarás",
+    "3s": "indenizará",
+    "1p": "indenizaremos",
+    "2p": "indenizareis",
+    "3p": "indenizarão"
+  },
+  "CondS": {
+    "1s": "indenizaria",
+    "2s": "indenizarias",
+    "3s": "indenizaria",
+    "1p": "indenizaríamos",
+    "2p": "indenizaríeis",
+    "3p": "indenizariam"
+  },
+  "PresC": {
+    "1s": "indenize",
+    "2s": "indenizes",
+    "3s": "indenize",
+    "1p": "indenizemos",
+    "2p": "indenizeis",
+    "3p": "indenizem"
+  },
+  "PImpC": {
+    "1s": "indenizasse",
+    "2s": "indenizasses",
+    "3s": "indenizasse",
+    "1p": "indenizássemos",
+    "2p": "indenizásseis",
+    "3p": "indenizassem"
+  },
+  "FutSC": {
+    "1s": "indenizar",
+    "2s": "indenizares",
+    "3s": "indenizar",
+    "1p": "indenizarmos",
+    "2p": "indenizardes",
+    "3p": "indenizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indeniza",
+    "3s": "indenize",
+    "1p": "indenizemos",
+    "2p": "indenizai",
+    "3p": "indenizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indenizes",
+    "3s": "não indenize",
+    "1p": "não indenizemos",
+    "2p": "não indenizeis",
+    "3p": "não indenizem"
+  },
+  "Part-ter": {
+    "": "indenizado"
+  },
+  "Part-ser": {
+    "ms": "indenizado",
+    "fs": "indenizada",
+    "mp": "indenizados",
+    "fp": "indenizadas"
+  }
+}

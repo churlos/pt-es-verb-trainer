@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "secundar"
+  },
+  "InfP": {
+    "1s": "secundar",
+    "2s": "secundares",
+    "3s": "secundar",
+    "1p": "secundarmos",
+    "2p": "secundardes",
+    "3p": "secundarem"
+  },
+  "Ger": {
+    "": "secundando"
+  },
+  "PresI": {
+    "1s": "secundo",
+    "2s": "secundas",
+    "3s": "secunda",
+    "1p": "secundamos",
+    "2p": "secundais",
+    "3p": "secundam"
+  },
+  "PImpI": {
+    "1s": "secundava",
+    "2s": "secundavas",
+    "3s": "secundava",
+    "1p": "secundávamos",
+    "2p": "secundáveis",
+    "3p": "secundavam"
+  },
+  "PPSI": {
+    "1s": "secundei",
+    "2s": "secundaste",
+    "3s": "secundou",
+    "1p": "secundámos",
+    "2p": "secundastes",
+    "3p": "secundaram"
+  },
+  "PMQPSI": {
+    "1s": "secundara",
+    "2s": "secundaras",
+    "3s": "secundara",
+    "1p": "secundáramos",
+    "2p": "secundáreis",
+    "3p": "secundaram"
+  },
+  "FutSI": {
+    "1s": "secundarei",
+    "2s": "secundarás",
+    "3s": "secundará",
+    "1p": "secundaremos",
+    "2p": "secundareis",
+    "3p": "secundarão"
+  },
+  "CondS": {
+    "1s": "secundaria",
+    "2s": "secundarias",
+    "3s": "secundaria",
+    "1p": "secundaríamos",
+    "2p": "secundaríeis",
+    "3p": "secundariam"
+  },
+  "PresC": {
+    "1s": "secunde",
+    "2s": "secundes",
+    "3s": "secunde",
+    "1p": "secundemos",
+    "2p": "secundeis",
+    "3p": "secundem"
+  },
+  "PImpC": {
+    "1s": "secundasse",
+    "2s": "secundasses",
+    "3s": "secundasse",
+    "1p": "secundássemos",
+    "2p": "secundásseis",
+    "3p": "secundassem"
+  },
+  "FutSC": {
+    "1s": "secundar",
+    "2s": "secundares",
+    "3s": "secundar",
+    "1p": "secundarmos",
+    "2p": "secundardes",
+    "3p": "secundarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "secunda",
+    "3s": "secunde",
+    "1p": "secundemos",
+    "2p": "secundai",
+    "3p": "secundem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não secundes",
+    "3s": "não secunde",
+    "1p": "não secundemos",
+    "2p": "não secundeis",
+    "3p": "não secundem"
+  },
+  "Part-ter": {
+    "": "secundado"
+  },
+  "Part-ser": {
+    "ms": "secundado",
+    "fs": "secundada",
+    "mp": "secundados",
+    "fp": "secundadas"
+  }
+}

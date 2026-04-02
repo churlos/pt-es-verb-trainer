@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "chiflar"
+  },
+  "Ger": {
+    "": "chiflando"
+  },
+  "PresI": {
+    "1s": "chiflo",
+    "2s": "chiflas",
+    "3s": "chifla",
+    "1p": "chiflamos",
+    "2p": "chifláis",
+    "3p": "chiflan"
+  },
+  "PImpI": {
+    "1s": "chiflaba",
+    "2s": "chiflabas",
+    "3s": "chiflaba",
+    "1p": "chiflábamos",
+    "2p": "chiflabais",
+    "3p": "chiflaban"
+  },
+  "PPSI": {
+    "1s": "chiflé",
+    "2s": "chiflaste",
+    "3s": "chifló",
+    "1p": "chiflamos",
+    "2p": "chiflasteis",
+    "3p": "chiflaron"
+  },
+  "FutSI": {
+    "1s": "chiflaré",
+    "2s": "chiflarás",
+    "3s": "chiflará",
+    "1p": "chiflaremos",
+    "2p": "chiflaréis",
+    "3p": "chiflarán"
+  },
+  "CondS": {
+    "1s": "chiflaría",
+    "2s": "chiflarías",
+    "3s": "chiflaría",
+    "1p": "chiflaríamos",
+    "2p": "chiflaríais",
+    "3p": "chiflarían"
+  },
+  "PresC": {
+    "1s": "chifle",
+    "2s": "chifles",
+    "3s": "chifle",
+    "1p": "chiflemos",
+    "2p": "chifléis",
+    "3p": "chiflen"
+  },
+  "PMQPSI": {
+    "1s": "chiflara",
+    "2s": "chiflaras",
+    "3s": "chiflara",
+    "1p": "chifláramos",
+    "2p": "chiflarais",
+    "3p": "chiflaran"
+  },
+  "PImpC": {
+    "1s": "chiflase",
+    "2s": "chiflases",
+    "3s": "chiflase",
+    "1p": "chiflásemos",
+    "2p": "chiflaseis",
+    "3p": "chiflasen"
+  },
+  "FutSC": {
+    "1s": "chiflare",
+    "2s": "chiflares",
+    "3s": "chiflare",
+    "1p": "chifláremos",
+    "2p": "chiflareis",
+    "3p": "chiflaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "chifla",
+    "3s": "chifle",
+    "1p": "chiflemos",
+    "2p": "chiflad",
+    "3p": "chiflen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no chifles",
+    "3s": "no chifle",
+    "1p": "no chiflemos",
+    "2p": "no chifléis",
+    "3p": "no chiflen"
+  },
+  "Part-ter": {
+    "": "chiflado"
+  },
+  "Part-ser": {
+    "ms": "chiflado",
+    "fs": "chiflada",
+    "mp": "chiflados",
+    "fp": "chifladas"
+  }
+}

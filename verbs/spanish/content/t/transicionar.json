@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transicionar"
+  },
+  "Ger": {
+    "": "transicionando"
+  },
+  "PresI": {
+    "1s": "transiciono",
+    "2s": "transicionas",
+    "3s": "transiciona",
+    "1p": "transicionamos",
+    "2p": "transicionáis",
+    "3p": "transicionan"
+  },
+  "PImpI": {
+    "1s": "transicionaba",
+    "2s": "transicionabas",
+    "3s": "transicionaba",
+    "1p": "transicionábamos",
+    "2p": "transicionabais",
+    "3p": "transicionaban"
+  },
+  "PPSI": {
+    "1s": "transicioné",
+    "2s": "transicionaste",
+    "3s": "transicionó",
+    "1p": "transicionamos",
+    "2p": "transicionasteis",
+    "3p": "transicionaron"
+  },
+  "FutSI": {
+    "1s": "transicionaré",
+    "2s": "transicionarás",
+    "3s": "transicionará",
+    "1p": "transicionaremos",
+    "2p": "transicionaréis",
+    "3p": "transicionarán"
+  },
+  "CondS": {
+    "1s": "transicionaría",
+    "2s": "transicionarías",
+    "3s": "transicionaría",
+    "1p": "transicionaríamos",
+    "2p": "transicionaríais",
+    "3p": "transicionarían"
+  },
+  "PresC": {
+    "1s": "transicione",
+    "2s": "transiciones",
+    "3s": "transicione",
+    "1p": "transicionemos",
+    "2p": "transicionéis",
+    "3p": "transicionen"
+  },
+  "PMQPSI": {
+    "1s": "transicionara",
+    "2s": "transicionaras",
+    "3s": "transicionara",
+    "1p": "transicionáramos",
+    "2p": "transicionarais",
+    "3p": "transicionaran"
+  },
+  "PImpC": {
+    "1s": "transicionase",
+    "2s": "transicionases",
+    "3s": "transicionase",
+    "1p": "transicionásemos",
+    "2p": "transicionaseis",
+    "3p": "transicionasen"
+  },
+  "FutSC": {
+    "1s": "transicionare",
+    "2s": "transicionares",
+    "3s": "transicionare",
+    "1p": "transicionáremos",
+    "2p": "transicionareis",
+    "3p": "transicionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transiciona",
+    "3s": "transicione",
+    "1p": "transicionemos",
+    "2p": "transicionad",
+    "3p": "transicionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transiciones",
+    "3s": "no transicione",
+    "1p": "no transicionemos",
+    "2p": "no transicionéis",
+    "3p": "no transicionen"
+  },
+  "Part-ter": {
+    "": "transicionado"
+  },
+  "Part-ser": {
+    "ms": "transicionado",
+    "fs": "transicionada",
+    "mp": "transicionados",
+    "fp": "transicionadas"
+  }
+}

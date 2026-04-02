@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aguardar"
+  },
+  "Ger": {
+    "": "aguardando"
+  },
+  "PresI": {
+    "1s": "aguardo",
+    "2s": "aguardas",
+    "3s": "aguarda",
+    "1p": "aguardamos",
+    "2p": "aguardáis",
+    "3p": "aguardan"
+  },
+  "PImpI": {
+    "1s": "aguardaba",
+    "2s": "aguardabas",
+    "3s": "aguardaba",
+    "1p": "aguardábamos",
+    "2p": "aguardabais",
+    "3p": "aguardaban"
+  },
+  "PPSI": {
+    "1s": "aguardé",
+    "2s": "aguardaste",
+    "3s": "aguardó",
+    "1p": "aguardamos",
+    "2p": "aguardasteis",
+    "3p": "aguardaron"
+  },
+  "FutSI": {
+    "1s": "aguardaré",
+    "2s": "aguardarás",
+    "3s": "aguardará",
+    "1p": "aguardaremos",
+    "2p": "aguardaréis",
+    "3p": "aguardarán"
+  },
+  "CondS": {
+    "1s": "aguardaría",
+    "2s": "aguardarías",
+    "3s": "aguardaría",
+    "1p": "aguardaríamos",
+    "2p": "aguardaríais",
+    "3p": "aguardarían"
+  },
+  "PresC": {
+    "1s": "aguarde",
+    "2s": "aguardes",
+    "3s": "aguarde",
+    "1p": "aguardemos",
+    "2p": "aguardéis",
+    "3p": "aguarden"
+  },
+  "PMQPSI": {
+    "1s": "aguardara",
+    "2s": "aguardaras",
+    "3s": "aguardara",
+    "1p": "aguardáramos",
+    "2p": "aguardarais",
+    "3p": "aguardaran"
+  },
+  "PImpC": {
+    "1s": "aguardase",
+    "2s": "aguardases",
+    "3s": "aguardase",
+    "1p": "aguardásemos",
+    "2p": "aguardaseis",
+    "3p": "aguardasen"
+  },
+  "FutSC": {
+    "1s": "aguardare",
+    "2s": "aguardares",
+    "3s": "aguardare",
+    "1p": "aguardáremos",
+    "2p": "aguardareis",
+    "3p": "aguardaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aguarda",
+    "3s": "aguarde",
+    "1p": "aguardemos",
+    "2p": "aguardad",
+    "3p": "aguarden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aguardes",
+    "3s": "no aguarde",
+    "1p": "no aguardemos",
+    "2p": "no aguardéis",
+    "3p": "no aguarden"
+  },
+  "Part-ter": {
+    "": "aguardado"
+  },
+  "Part-ser": {
+    "ms": "aguardado",
+    "fs": "aguardada",
+    "mp": "aguardados",
+    "fp": "aguardadas"
+  }
+}

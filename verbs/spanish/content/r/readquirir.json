@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "readquirir"
+  },
+  "Ger": {
+    "": "readquiriendo"
+  },
+  "PresI": {
+    "1s": "readquiero",
+    "2s": "readquieres",
+    "3s": "readquiere",
+    "1p": "readquirimos",
+    "2p": "readquirís",
+    "3p": "readquieren"
+  },
+  "PImpI": {
+    "1s": "readquiría",
+    "2s": "readquirías",
+    "3s": "readquiría",
+    "1p": "readquiríamos",
+    "2p": "readquiríais",
+    "3p": "readquirían"
+  },
+  "PPSI": {
+    "1s": "readquirí",
+    "2s": "readquiriste",
+    "3s": "readquirió",
+    "1p": "readquirimos",
+    "2p": "readquiristeis",
+    "3p": "readquirieron"
+  },
+  "FutSI": {
+    "1s": "readquiriré",
+    "2s": "readquirirás",
+    "3s": "readquirirá",
+    "1p": "readquiriremos",
+    "2p": "readquiriréis",
+    "3p": "readquirirán"
+  },
+  "CondS": {
+    "1s": "readquiriría",
+    "2s": "readquirirías",
+    "3s": "readquiriría",
+    "1p": "readquiriríamos",
+    "2p": "readquiriríais",
+    "3p": "readquirirían"
+  },
+  "PresC": {
+    "1s": "readquiera",
+    "2s": "readquieras",
+    "3s": "readquiera",
+    "1p": "readquiramos",
+    "2p": "readquiráis",
+    "3p": "readquieran"
+  },
+  "PMQPSI": {
+    "1s": "readquiriera",
+    "2s": "readquirieras",
+    "3s": "readquiriera",
+    "1p": "readquiriéramos",
+    "2p": "readquirierais",
+    "3p": "readquirieran"
+  },
+  "PImpC": {
+    "1s": "readquiriese",
+    "2s": "readquirieses",
+    "3s": "readquiriese",
+    "1p": "readquiriésemos",
+    "2p": "readquirieseis",
+    "3p": "readquiriesen"
+  },
+  "FutSC": {
+    "1s": "readquiriere",
+    "2s": "readquirieres",
+    "3s": "readquiriere",
+    "1p": "readquiriéremos",
+    "2p": "readquiriereis",
+    "3p": "readquirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "readquiere",
+    "3s": "readquiera",
+    "1p": "readquiramos",
+    "2p": "readquirid",
+    "3p": "readquieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no readquieras",
+    "3s": "no readquiera",
+    "1p": "no readquiramos",
+    "2p": "no readquiráis",
+    "3p": "no readquieran"
+  },
+  "Part-ter": {
+    "": "readquirido"
+  },
+  "Part-ser": {
+    "ms": "readquirido",
+    "fs": "readquirida",
+    "mp": "readquiridos",
+    "fp": "readquiridas"
+  }
+}

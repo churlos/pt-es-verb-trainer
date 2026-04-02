@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inverter"
+  },
+  "InfP": {
+    "1s": "inverter",
+    "2s": "inverteres",
+    "3s": "inverter",
+    "1p": "invertermos",
+    "2p": "inverterdes",
+    "3p": "inverterem"
+  },
+  "Ger": {
+    "": "invertendo"
+  },
+  "PresI": {
+    "1s": "inverto",
+    "2s": "invertes",
+    "3s": "inverte",
+    "1p": "invertemos",
+    "2p": "inverteis",
+    "3p": "invertem"
+  },
+  "PImpI": {
+    "1s": "invertia",
+    "2s": "invertias",
+    "3s": "invertia",
+    "1p": "invertíamos",
+    "2p": "invertíeis",
+    "3p": "invertiam"
+  },
+  "PPSI": {
+    "1s": "inverti",
+    "2s": "inverteste",
+    "3s": "inverteu",
+    "1p": "invertemos",
+    "2p": "invertestes",
+    "3p": "inverteram"
+  },
+  "PMQPSI": {
+    "1s": "invertera",
+    "2s": "inverteras",
+    "3s": "invertera",
+    "1p": "invertêramos",
+    "2p": "invertêreis",
+    "3p": "inverteram"
+  },
+  "FutSI": {
+    "1s": "inverterei",
+    "2s": "inverterás",
+    "3s": "inverterá",
+    "1p": "inverteremos",
+    "2p": "invertereis",
+    "3p": "inverterão"
+  },
+  "CondS": {
+    "1s": "inverteria",
+    "2s": "inverterias",
+    "3s": "inverteria",
+    "1p": "inverteríamos",
+    "2p": "inverteríeis",
+    "3p": "inverteriam"
+  },
+  "PresC": {
+    "1s": "inverta",
+    "2s": "invertas",
+    "3s": "inverta",
+    "1p": "invertamos",
+    "2p": "invertais",
+    "3p": "invertam"
+  },
+  "PImpC": {
+    "1s": "invertesse",
+    "2s": "invertesses",
+    "3s": "invertesse",
+    "1p": "invertêssemos",
+    "2p": "invertêsseis",
+    "3p": "invertessem"
+  },
+  "FutSC": {
+    "1s": "inverter",
+    "2s": "inverteres",
+    "3s": "inverter",
+    "1p": "invertermos",
+    "2p": "inverterdes",
+    "3p": "inverterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inverte",
+    "3s": "inverta",
+    "1p": "invertamos",
+    "2p": "invertei",
+    "3p": "invertam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não invertas",
+    "3s": "não inverta",
+    "1p": "não invertamos",
+    "2p": "não invertais",
+    "3p": "não invertam"
+  },
+  "Part-ter": {
+    "": "invertido"
+  },
+  "Part-ser": {
+    "ms": "invertido",
+    "fs": "invertida",
+    "mp": "invertidos",
+    "fp": "invertidas"
+  }
+}

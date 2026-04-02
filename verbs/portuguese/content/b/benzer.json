@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "benzer"
+  },
+  "InfP": {
+    "1s": "benzer",
+    "2s": "benzeres",
+    "3s": "benzer",
+    "1p": "benzermos",
+    "2p": "benzerdes",
+    "3p": "benzerem"
+  },
+  "Ger": {
+    "": "benzendo"
+  },
+  "PresI": {
+    "1s": "benzo",
+    "2s": "benzes",
+    "3s": "benze",
+    "1p": "benzemos",
+    "2p": "benzeis",
+    "3p": "benzem"
+  },
+  "PImpI": {
+    "1s": "benzia",
+    "2s": "benzias",
+    "3s": "benzia",
+    "1p": "benzíamos",
+    "2p": "benzíeis",
+    "3p": "benziam"
+  },
+  "PPSI": {
+    "1s": "benzi",
+    "2s": "benzeste",
+    "3s": "benzeu",
+    "1p": "benzemos",
+    "2p": "benzestes",
+    "3p": "benzeram"
+  },
+  "PMQPSI": {
+    "1s": "benzera",
+    "2s": "benzeras",
+    "3s": "benzera",
+    "1p": "benzêramos",
+    "2p": "benzêreis",
+    "3p": "benzeram"
+  },
+  "FutSI": {
+    "1s": "benzerei",
+    "2s": "benzerás",
+    "3s": "benzerá",
+    "1p": "benzeremos",
+    "2p": "benzereis",
+    "3p": "benzerão"
+  },
+  "CondS": {
+    "1s": "benzeria",
+    "2s": "benzerias",
+    "3s": "benzeria",
+    "1p": "benzeríamos",
+    "2p": "benzeríeis",
+    "3p": "benzeriam"
+  },
+  "PresC": {
+    "1s": "benza",
+    "2s": "benzas",
+    "3s": "benza",
+    "1p": "benzamos",
+    "2p": "benzais",
+    "3p": "benzam"
+  },
+  "PImpC": {
+    "1s": "benzesse",
+    "2s": "benzesses",
+    "3s": "benzesse",
+    "1p": "benzêssemos",
+    "2p": "benzêsseis",
+    "3p": "benzessem"
+  },
+  "FutSC": {
+    "1s": "benzer",
+    "2s": "benzeres",
+    "3s": "benzer",
+    "1p": "benzermos",
+    "2p": "benzerdes",
+    "3p": "benzerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "benze",
+    "3s": "benza",
+    "1p": "benzamos",
+    "2p": "benzei",
+    "3p": "benzam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não benzas",
+    "3s": "não benza",
+    "1p": "não benzamos",
+    "2p": "não benzais",
+    "3p": "não benzam"
+  },
+  "Part-ter": {
+    "": "benzido"
+  },
+  "Part-ser": {
+    "ms": "benzido",
+    "fs": "benzida",
+    "mp": "benzidos",
+    "fp": "benzidas"
+  }
+}

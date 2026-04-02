@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "oxidar"
+  },
+  "InfP": {
+    "1s": "oxidar",
+    "2s": "oxidares",
+    "3s": "oxidar",
+    "1p": "oxidarmos",
+    "2p": "oxidardes",
+    "3p": "oxidarem"
+  },
+  "Ger": {
+    "": "oxidando"
+  },
+  "PresI": {
+    "1s": "oxido",
+    "2s": "oxidas",
+    "3s": "oxida",
+    "1p": "oxidamos",
+    "2p": "oxidais",
+    "3p": "oxidam"
+  },
+  "PImpI": {
+    "1s": "oxidava",
+    "2s": "oxidavas",
+    "3s": "oxidava",
+    "1p": "oxidávamos",
+    "2p": "oxidáveis",
+    "3p": "oxidavam"
+  },
+  "PPSI": {
+    "1s": "oxidei",
+    "2s": "oxidaste",
+    "3s": "oxidou",
+    "1p": "oxidámos",
+    "2p": "oxidastes",
+    "3p": "oxidaram"
+  },
+  "PMQPSI": {
+    "1s": "oxidara",
+    "2s": "oxidaras",
+    "3s": "oxidara",
+    "1p": "oxidáramos",
+    "2p": "oxidáreis",
+    "3p": "oxidaram"
+  },
+  "FutSI": {
+    "1s": "oxidarei",
+    "2s": "oxidarás",
+    "3s": "oxidará",
+    "1p": "oxidaremos",
+    "2p": "oxidareis",
+    "3p": "oxidarão"
+  },
+  "CondS": {
+    "1s": "oxidaria",
+    "2s": "oxidarias",
+    "3s": "oxidaria",
+    "1p": "oxidaríamos",
+    "2p": "oxidaríeis",
+    "3p": "oxidariam"
+  },
+  "PresC": {
+    "1s": "oxide",
+    "2s": "oxides",
+    "3s": "oxide",
+    "1p": "oxidemos",
+    "2p": "oxideis",
+    "3p": "oxidem"
+  },
+  "PImpC": {
+    "1s": "oxidasse",
+    "2s": "oxidasses",
+    "3s": "oxidasse",
+    "1p": "oxidássemos",
+    "2p": "oxidásseis",
+    "3p": "oxidassem"
+  },
+  "FutSC": {
+    "1s": "oxidar",
+    "2s": "oxidares",
+    "3s": "oxidar",
+    "1p": "oxidarmos",
+    "2p": "oxidardes",
+    "3p": "oxidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "oxida",
+    "3s": "oxide",
+    "1p": "oxidemos",
+    "2p": "oxidai",
+    "3p": "oxidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não oxides",
+    "3s": "não oxide",
+    "1p": "não oxidemos",
+    "2p": "não oxideis",
+    "3p": "não oxidem"
+  },
+  "Part-ter": {
+    "": "oxidado"
+  },
+  "Part-ser": {
+    "ms": "oxidado",
+    "fs": "oxidada",
+    "mp": "oxidados",
+    "fp": "oxidadas"
+  }
+}

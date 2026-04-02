@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "classificar"
+  },
+  "InfP": {
+    "1s": "classificar",
+    "2s": "classificares",
+    "3s": "classificar",
+    "1p": "classificarmos",
+    "2p": "classificardes",
+    "3p": "classificarem"
+  },
+  "Ger": {
+    "": "classificando"
+  },
+  "PresI": {
+    "1s": "classifico",
+    "2s": "classificas",
+    "3s": "classifica",
+    "1p": "classificamos",
+    "2p": "classificais",
+    "3p": "classificam"
+  },
+  "PImpI": {
+    "1s": "classificava",
+    "2s": "classificavas",
+    "3s": "classificava",
+    "1p": "classificávamos",
+    "2p": "classificáveis",
+    "3p": "classificavam"
+  },
+  "PPSI": {
+    "1s": "classifiquei",
+    "2s": "classificaste",
+    "3s": "classificou",
+    "1p": "classificámos",
+    "2p": "classificastes",
+    "3p": "classificaram"
+  },
+  "PMQPSI": {
+    "1s": "classificara",
+    "2s": "classificaras",
+    "3s": "classificara",
+    "1p": "classificáramos",
+    "2p": "classificáreis",
+    "3p": "classificaram"
+  },
+  "FutSI": {
+    "1s": "classificarei",
+    "2s": "classificarás",
+    "3s": "classificará",
+    "1p": "classificaremos",
+    "2p": "classificareis",
+    "3p": "classificarão"
+  },
+  "CondS": {
+    "1s": "classificaria",
+    "2s": "classificarias",
+    "3s": "classificaria",
+    "1p": "classificaríamos",
+    "2p": "classificaríeis",
+    "3p": "classificariam"
+  },
+  "PresC": {
+    "1s": "classifique",
+    "2s": "classifiques",
+    "3s": "classifique",
+    "1p": "classifiquemos",
+    "2p": "classifiqueis",
+    "3p": "classifiquem"
+  },
+  "PImpC": {
+    "1s": "classificasse",
+    "2s": "classificasses",
+    "3s": "classificasse",
+    "1p": "classificássemos",
+    "2p": "classificásseis",
+    "3p": "classificassem"
+  },
+  "FutSC": {
+    "1s": "classificar",
+    "2s": "classificares",
+    "3s": "classificar",
+    "1p": "classificarmos",
+    "2p": "classificardes",
+    "3p": "classificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "classifica",
+    "3s": "classifique",
+    "1p": "classifiquemos",
+    "2p": "classificai",
+    "3p": "classifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não classifiques",
+    "3s": "não classifique",
+    "1p": "não classifiquemos",
+    "2p": "não classifiqueis",
+    "3p": "não classifiquem"
+  },
+  "Part-ter": {
+    "": "classificado"
+  },
+  "Part-ser": {
+    "ms": "classificado",
+    "fs": "classificada",
+    "mp": "classificados",
+    "fp": "classificadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "convocar"
+  },
+  "InfP": {
+    "1s": "convocar",
+    "2s": "convocares",
+    "3s": "convocar",
+    "1p": "convocarmos",
+    "2p": "convocardes",
+    "3p": "convocarem"
+  },
+  "Ger": {
+    "": "convocando"
+  },
+  "PresI": {
+    "1s": "convoco",
+    "2s": "convocas",
+    "3s": "convoca",
+    "1p": "convocamos",
+    "2p": "convocais",
+    "3p": "convocam"
+  },
+  "PImpI": {
+    "1s": "convocava",
+    "2s": "convocavas",
+    "3s": "convocava",
+    "1p": "convocávamos",
+    "2p": "convocáveis",
+    "3p": "convocavam"
+  },
+  "PPSI": {
+    "1s": "convoquei",
+    "2s": "convocaste",
+    "3s": "convocou",
+    "1p": "convocámos",
+    "2p": "convocastes",
+    "3p": "convocaram"
+  },
+  "PMQPSI": {
+    "1s": "convocara",
+    "2s": "convocaras",
+    "3s": "convocara",
+    "1p": "convocáramos",
+    "2p": "convocáreis",
+    "3p": "convocaram"
+  },
+  "FutSI": {
+    "1s": "convocarei",
+    "2s": "convocarás",
+    "3s": "convocará",
+    "1p": "convocaremos",
+    "2p": "convocareis",
+    "3p": "convocarão"
+  },
+  "CondS": {
+    "1s": "convocaria",
+    "2s": "convocarias",
+    "3s": "convocaria",
+    "1p": "convocaríamos",
+    "2p": "convocaríeis",
+    "3p": "convocariam"
+  },
+  "PresC": {
+    "1s": "convoque",
+    "2s": "convoques",
+    "3s": "convoque",
+    "1p": "convoquemos",
+    "2p": "convoqueis",
+    "3p": "convoquem"
+  },
+  "PImpC": {
+    "1s": "convocasse",
+    "2s": "convocasses",
+    "3s": "convocasse",
+    "1p": "convocássemos",
+    "2p": "convocásseis",
+    "3p": "convocassem"
+  },
+  "FutSC": {
+    "1s": "convocar",
+    "2s": "convocares",
+    "3s": "convocar",
+    "1p": "convocarmos",
+    "2p": "convocardes",
+    "3p": "convocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "convoca",
+    "3s": "convoque",
+    "1p": "convoquemos",
+    "2p": "convocai",
+    "3p": "convoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não convoques",
+    "3s": "não convoque",
+    "1p": "não convoquemos",
+    "2p": "não convoqueis",
+    "3p": "não convoquem"
+  },
+  "Part-ter": {
+    "": "convocado"
+  },
+  "Part-ser": {
+    "ms": "convocado",
+    "fs": "convocada",
+    "mp": "convocados",
+    "fp": "convocadas"
+  }
+}

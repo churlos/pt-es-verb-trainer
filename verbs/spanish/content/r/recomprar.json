@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recomprar"
+  },
+  "Ger": {
+    "": "recomprando"
+  },
+  "PresI": {
+    "1s": "recompro",
+    "2s": "recompras",
+    "3s": "recompra",
+    "1p": "recompramos",
+    "2p": "recompráis",
+    "3p": "recompran"
+  },
+  "PImpI": {
+    "1s": "recompraba",
+    "2s": "recomprabas",
+    "3s": "recompraba",
+    "1p": "recomprábamos",
+    "2p": "recomprabais",
+    "3p": "recompraban"
+  },
+  "PPSI": {
+    "1s": "recompré",
+    "2s": "recompraste",
+    "3s": "recompró",
+    "1p": "recompramos",
+    "2p": "recomprasteis",
+    "3p": "recompraron"
+  },
+  "FutSI": {
+    "1s": "recompraré",
+    "2s": "recomprarás",
+    "3s": "recomprará",
+    "1p": "recompraremos",
+    "2p": "recompraréis",
+    "3p": "recomprarán"
+  },
+  "CondS": {
+    "1s": "recompraría",
+    "2s": "recomprarías",
+    "3s": "recompraría",
+    "1p": "recompraríamos",
+    "2p": "recompraríais",
+    "3p": "recomprarían"
+  },
+  "PresC": {
+    "1s": "recompre",
+    "2s": "recompres",
+    "3s": "recompre",
+    "1p": "recompremos",
+    "2p": "recompréis",
+    "3p": "recompren"
+  },
+  "PMQPSI": {
+    "1s": "recomprara",
+    "2s": "recompraras",
+    "3s": "recomprara",
+    "1p": "recompráramos",
+    "2p": "recomprarais",
+    "3p": "recompraran"
+  },
+  "PImpC": {
+    "1s": "recomprase",
+    "2s": "recomprases",
+    "3s": "recomprase",
+    "1p": "recomprásemos",
+    "2p": "recompraseis",
+    "3p": "recomprasen"
+  },
+  "FutSC": {
+    "1s": "recomprare",
+    "2s": "recomprares",
+    "3s": "recomprare",
+    "1p": "recompráremos",
+    "2p": "recomprareis",
+    "3p": "recompraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recompra",
+    "3s": "recompre",
+    "1p": "recompremos",
+    "2p": "recomprad",
+    "3p": "recompren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recompres",
+    "3s": "no recompre",
+    "1p": "no recompremos",
+    "2p": "no recompréis",
+    "3p": "no recompren"
+  },
+  "Part-ter": {
+    "": "recomprado"
+  },
+  "Part-ser": {
+    "ms": "recomprado",
+    "fs": "recomprada",
+    "mp": "recomprados",
+    "fp": "recompradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "duplicar"
+  },
+  "Ger": {
+    "": "duplicando"
+  },
+  "PresI": {
+    "1s": "duplico",
+    "2s": "duplicas",
+    "3s": "duplica",
+    "1p": "duplicamos",
+    "2p": "duplicáis",
+    "3p": "duplican"
+  },
+  "PImpI": {
+    "1s": "duplicaba",
+    "2s": "duplicabas",
+    "3s": "duplicaba",
+    "1p": "duplicábamos",
+    "2p": "duplicabais",
+    "3p": "duplicaban"
+  },
+  "PPSI": {
+    "1s": "dupliqué",
+    "2s": "duplicaste",
+    "3s": "duplicó",
+    "1p": "duplicamos",
+    "2p": "duplicasteis",
+    "3p": "duplicaron"
+  },
+  "FutSI": {
+    "1s": "duplicaré",
+    "2s": "duplicarás",
+    "3s": "duplicará",
+    "1p": "duplicaremos",
+    "2p": "duplicaréis",
+    "3p": "duplicarán"
+  },
+  "CondS": {
+    "1s": "duplicaría",
+    "2s": "duplicarías",
+    "3s": "duplicaría",
+    "1p": "duplicaríamos",
+    "2p": "duplicaríais",
+    "3p": "duplicarían"
+  },
+  "PresC": {
+    "1s": "duplique",
+    "2s": "dupliques",
+    "3s": "duplique",
+    "1p": "dupliquemos",
+    "2p": "dupliquéis",
+    "3p": "dupliquen"
+  },
+  "PMQPSI": {
+    "1s": "duplicara",
+    "2s": "duplicaras",
+    "3s": "duplicara",
+    "1p": "duplicáramos",
+    "2p": "duplicarais",
+    "3p": "duplicaran"
+  },
+  "PImpC": {
+    "1s": "duplicase",
+    "2s": "duplicases",
+    "3s": "duplicase",
+    "1p": "duplicásemos",
+    "2p": "duplicaseis",
+    "3p": "duplicasen"
+  },
+  "FutSC": {
+    "1s": "duplicare",
+    "2s": "duplicares",
+    "3s": "duplicare",
+    "1p": "duplicáremos",
+    "2p": "duplicareis",
+    "3p": "duplicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "duplica",
+    "3s": "duplique",
+    "1p": "dupliquemos",
+    "2p": "duplicad",
+    "3p": "dupliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dupliques",
+    "3s": "no duplique",
+    "1p": "no dupliquemos",
+    "2p": "no dupliquéis",
+    "3p": "no dupliquen"
+  },
+  "Part-ter": {
+    "": "duplicado"
+  },
+  "Part-ser": {
+    "ms": "duplicado",
+    "fs": "duplicada",
+    "mp": "duplicados",
+    "fp": "duplicadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "templar"
+  },
+  "Ger": {
+    "": "templando"
+  },
+  "PresI": {
+    "1s": "templo",
+    "2s": "templas",
+    "3s": "templa",
+    "1p": "templamos",
+    "2p": "templáis",
+    "3p": "templan"
+  },
+  "PImpI": {
+    "1s": "templaba",
+    "2s": "templabas",
+    "3s": "templaba",
+    "1p": "templábamos",
+    "2p": "templabais",
+    "3p": "templaban"
+  },
+  "PPSI": {
+    "1s": "templé",
+    "2s": "templaste",
+    "3s": "templó",
+    "1p": "templamos",
+    "2p": "templasteis",
+    "3p": "templaron"
+  },
+  "FutSI": {
+    "1s": "templaré",
+    "2s": "templarás",
+    "3s": "templará",
+    "1p": "templaremos",
+    "2p": "templaréis",
+    "3p": "templarán"
+  },
+  "CondS": {
+    "1s": "templaría",
+    "2s": "templarías",
+    "3s": "templaría",
+    "1p": "templaríamos",
+    "2p": "templaríais",
+    "3p": "templarían"
+  },
+  "PresC": {
+    "1s": "temple",
+    "2s": "temples",
+    "3s": "temple",
+    "1p": "templemos",
+    "2p": "templéis",
+    "3p": "templen"
+  },
+  "PMQPSI": {
+    "1s": "templara",
+    "2s": "templaras",
+    "3s": "templara",
+    "1p": "templáramos",
+    "2p": "templarais",
+    "3p": "templaran"
+  },
+  "PImpC": {
+    "1s": "templase",
+    "2s": "templases",
+    "3s": "templase",
+    "1p": "templásemos",
+    "2p": "templaseis",
+    "3p": "templasen"
+  },
+  "FutSC": {
+    "1s": "templare",
+    "2s": "templares",
+    "3s": "templare",
+    "1p": "templáremos",
+    "2p": "templareis",
+    "3p": "templaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "templa",
+    "3s": "temple",
+    "1p": "templemos",
+    "2p": "templad",
+    "3p": "templen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no temples",
+    "3s": "no temple",
+    "1p": "no templemos",
+    "2p": "no templéis",
+    "3p": "no templen"
+  },
+  "Part-ter": {
+    "": "templado"
+  },
+  "Part-ser": {
+    "ms": "templado",
+    "fs": "templada",
+    "mp": "templados",
+    "fp": "templadas"
+  }
+}

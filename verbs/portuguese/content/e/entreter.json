@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "entreter"
+  },
+  "InfP": {
+    "1s": "entreter",
+    "2s": "entreteres",
+    "3s": "entreter",
+    "1p": "entretermos",
+    "2p": "entreterdes",
+    "3p": "entreterem"
+  },
+  "Ger": {
+    "": "entretendo"
+  },
+  "PresI": {
+    "1s": "entretenho",
+    "2s": "entreténs",
+    "3s": "entretém",
+    "1p": "entretemos",
+    "2p": "entretendes",
+    "3p": "entretêm"
+  },
+  "PImpI": {
+    "1s": "entretinha",
+    "2s": "entretinhas",
+    "3s": "entretinha",
+    "1p": "entretínhamos",
+    "2p": "entretínheis",
+    "3p": "entretinham"
+  },
+  "PPSI": {
+    "1s": "entretive",
+    "2s": "entretiveste",
+    "3s": "entreteve",
+    "1p": "entretivemos",
+    "2p": "entretivestes",
+    "3p": "entretiveram"
+  },
+  "PMQPSI": {
+    "1s": "entretivera",
+    "2s": "entretiveras",
+    "3s": "entretivera",
+    "1p": "entretivéramos",
+    "2p": "entretivéreis",
+    "3p": "entretiveram"
+  },
+  "FutSI": {
+    "1s": "entreterei",
+    "2s": "entreterás",
+    "3s": "entreterá",
+    "1p": "entreteremos",
+    "2p": "entretereis",
+    "3p": "entreterão"
+  },
+  "CondS": {
+    "1s": "entreteria",
+    "2s": "entreterias",
+    "3s": "entreteria",
+    "1p": "entreteríamos",
+    "2p": "entreteríeis",
+    "3p": "entreteriam"
+  },
+  "PresC": {
+    "1s": "entretenha",
+    "2s": "entretenhas",
+    "3s": "entretenha",
+    "1p": "entretenhamos",
+    "2p": "entretenhais",
+    "3p": "entretenham"
+  },
+  "PImpC": {
+    "1s": "entretivesse",
+    "2s": "entretivesses",
+    "3s": "entretivesse",
+    "1p": "entretivéssemos",
+    "2p": "entretivésseis",
+    "3p": "entretivessem"
+  },
+  "FutSC": {
+    "1s": "entretiver",
+    "2s": "entretiveres",
+    "3s": "entretiver",
+    "1p": "entretivermos",
+    "2p": "entretiverdes",
+    "3p": "entretiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entretém",
+    "3s": "entretenha",
+    "1p": "entretenhamos",
+    "2p": "entretende",
+    "3p": "entretenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não entretenhas",
+    "3s": "não entretenha",
+    "1p": "não entretenhamos",
+    "2p": "não entretenhais",
+    "3p": "não entretenham"
+  },
+  "Part-ter": {
+    "": "entretido"
+  },
+  "Part-ser": {
+    "ms": "entretido",
+    "fs": "entretida",
+    "mp": "entretidos",
+    "fp": "entretidas"
+  }
+}

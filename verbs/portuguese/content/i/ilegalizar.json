@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ilegalizar"
+  },
+  "InfP": {
+    "1s": "ilegalizar",
+    "2s": "ilegalizares",
+    "3s": "ilegalizar",
+    "1p": "ilegalizarmos",
+    "2p": "ilegalizardes",
+    "3p": "ilegalizarem"
+  },
+  "Ger": {
+    "": "ilegalizando"
+  },
+  "PresI": {
+    "1s": "ilegalizo",
+    "2s": "ilegalizas",
+    "3s": "ilegaliza",
+    "1p": "ilegalizamos",
+    "2p": "ilegalizais",
+    "3p": "ilegalizam"
+  },
+  "PImpI": {
+    "1s": "ilegalizava",
+    "2s": "ilegalizavas",
+    "3s": "ilegalizava",
+    "1p": "ilegalizávamos",
+    "2p": "ilegalizáveis",
+    "3p": "ilegalizavam"
+  },
+  "PPSI": {
+    "1s": "ilegalizei",
+    "2s": "ilegalizaste",
+    "3s": "ilegalizou",
+    "1p": "ilegalizámos",
+    "2p": "ilegalizastes",
+    "3p": "ilegalizaram"
+  },
+  "PMQPSI": {
+    "1s": "ilegalizara",
+    "2s": "ilegalizaras",
+    "3s": "ilegalizara",
+    "1p": "ilegalizáramos",
+    "2p": "ilegalizáreis",
+    "3p": "ilegalizaram"
+  },
+  "FutSI": {
+    "1s": "ilegalizarei",
+    "2s": "ilegalizarás",
+    "3s": "ilegalizará",
+    "1p": "ilegalizaremos",
+    "2p": "ilegalizareis",
+    "3p": "ilegalizarão"
+  },
+  "CondS": {
+    "1s": "ilegalizaria",
+    "2s": "ilegalizarias",
+    "3s": "ilegalizaria",
+    "1p": "ilegalizaríamos",
+    "2p": "ilegalizaríeis",
+    "3p": "ilegalizariam"
+  },
+  "PresC": {
+    "1s": "ilegalize",
+    "2s": "ilegalizes",
+    "3s": "ilegalize",
+    "1p": "ilegalizemos",
+    "2p": "ilegalizeis",
+    "3p": "ilegalizem"
+  },
+  "PImpC": {
+    "1s": "ilegalizasse",
+    "2s": "ilegalizasses",
+    "3s": "ilegalizasse",
+    "1p": "ilegalizássemos",
+    "2p": "ilegalizásseis",
+    "3p": "ilegalizassem"
+  },
+  "FutSC": {
+    "1s": "ilegalizar",
+    "2s": "ilegalizares",
+    "3s": "ilegalizar",
+    "1p": "ilegalizarmos",
+    "2p": "ilegalizardes",
+    "3p": "ilegalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ilegaliza",
+    "3s": "ilegalize",
+    "1p": "ilegalizemos",
+    "2p": "ilegalizai",
+    "3p": "ilegalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ilegalizes",
+    "3s": "não ilegalize",
+    "1p": "não ilegalizemos",
+    "2p": "não ilegalizeis",
+    "3p": "não ilegalizem"
+  },
+  "Part-ter": {
+    "": "ilegalizado"
+  },
+  "Part-ser": {
+    "ms": "ilegalizado",
+    "fs": "ilegalizada",
+    "mp": "ilegalizados",
+    "fp": "ilegalizadas"
+  }
+}

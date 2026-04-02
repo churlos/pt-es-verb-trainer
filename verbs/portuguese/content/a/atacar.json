@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atacar"
+  },
+  "InfP": {
+    "1s": "atacar",
+    "2s": "atacares",
+    "3s": "atacar",
+    "1p": "atacarmos",
+    "2p": "atacardes",
+    "3p": "atacarem"
+  },
+  "Ger": {
+    "": "atacando"
+  },
+  "PresI": {
+    "1s": "ataco",
+    "2s": "atacas",
+    "3s": "ataca",
+    "1p": "atacamos",
+    "2p": "atacais",
+    "3p": "atacam"
+  },
+  "PImpI": {
+    "1s": "atacava",
+    "2s": "atacavas",
+    "3s": "atacava",
+    "1p": "atacávamos",
+    "2p": "atacáveis",
+    "3p": "atacavam"
+  },
+  "PPSI": {
+    "1s": "ataquei",
+    "2s": "atacaste",
+    "3s": "atacou",
+    "1p": "atacámos",
+    "2p": "atacastes",
+    "3p": "atacaram"
+  },
+  "PMQPSI": {
+    "1s": "atacara",
+    "2s": "atacaras",
+    "3s": "atacara",
+    "1p": "atacáramos",
+    "2p": "atacáreis",
+    "3p": "atacaram"
+  },
+  "FutSI": {
+    "1s": "atacarei",
+    "2s": "atacarás",
+    "3s": "atacará",
+    "1p": "atacaremos",
+    "2p": "atacareis",
+    "3p": "atacarão"
+  },
+  "CondS": {
+    "1s": "atacaria",
+    "2s": "atacarias",
+    "3s": "atacaria",
+    "1p": "atacaríamos",
+    "2p": "atacaríeis",
+    "3p": "atacariam"
+  },
+  "PresC": {
+    "1s": "ataque",
+    "2s": "ataques",
+    "3s": "ataque",
+    "1p": "ataquemos",
+    "2p": "ataqueis",
+    "3p": "ataquem"
+  },
+  "PImpC": {
+    "1s": "atacasse",
+    "2s": "atacasses",
+    "3s": "atacasse",
+    "1p": "atacássemos",
+    "2p": "atacásseis",
+    "3p": "atacassem"
+  },
+  "FutSC": {
+    "1s": "atacar",
+    "2s": "atacares",
+    "3s": "atacar",
+    "1p": "atacarmos",
+    "2p": "atacardes",
+    "3p": "atacarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ataca",
+    "3s": "ataque",
+    "1p": "ataquemos",
+    "2p": "atacai",
+    "3p": "ataquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ataques",
+    "3s": "não ataque",
+    "1p": "não ataquemos",
+    "2p": "não ataqueis",
+    "3p": "não ataquem"
+  },
+  "Part-ter": {
+    "": "atacado"
+  },
+  "Part-ser": {
+    "ms": "atacado",
+    "fs": "atacada",
+    "mp": "atacados",
+    "fp": "atacadas"
+  }
+}

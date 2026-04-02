@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "transir"
+  },
+  "InfP": {
+    "1s": "transir",
+    "2s": "transires",
+    "3s": "transir",
+    "1p": "transirmos",
+    "2p": "transirdes",
+    "3p": "transirem"
+  },
+  "Ger": {
+    "": "transindo"
+  },
+  "PresI": {
+    "1s": "transo",
+    "2s": "transes",
+    "3s": "transe",
+    "1p": "transimos",
+    "2p": "transis",
+    "3p": "transem"
+  },
+  "PImpI": {
+    "1s": "transia",
+    "2s": "transias",
+    "3s": "transia",
+    "1p": "transíamos",
+    "2p": "transíeis",
+    "3p": "transiam"
+  },
+  "PPSI": {
+    "1s": "transi",
+    "2s": "transiste",
+    "3s": "transiu",
+    "1p": "transimos",
+    "2p": "transistes",
+    "3p": "transiram"
+  },
+  "PMQPSI": {
+    "1s": "transira",
+    "2s": "transiras",
+    "3s": "transira",
+    "1p": "transíramos",
+    "2p": "transíreis",
+    "3p": "transiram"
+  },
+  "FutSI": {
+    "1s": "transirei",
+    "2s": "transirás",
+    "3s": "transirá",
+    "1p": "transiremos",
+    "2p": "transireis",
+    "3p": "transirão"
+  },
+  "CondS": {
+    "1s": "transiria",
+    "2s": "transirias",
+    "3s": "transiria",
+    "1p": "transiríamos",
+    "2p": "transiríeis",
+    "3p": "transiriam"
+  },
+  "PresC": {
+    "1s": "transa",
+    "2s": "transas",
+    "3s": "transa",
+    "1p": "transamos",
+    "2p": "transais",
+    "3p": "transam"
+  },
+  "PImpC": {
+    "1s": "transisse",
+    "2s": "transisses",
+    "3s": "transisse",
+    "1p": "transíssemos",
+    "2p": "transísseis",
+    "3p": "transissem"
+  },
+  "FutSC": {
+    "1s": "transir",
+    "2s": "transires",
+    "3s": "transir",
+    "1p": "transirmos",
+    "2p": "transirdes",
+    "3p": "transirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transe",
+    "3s": "transa",
+    "1p": "transamos",
+    "2p": "transi",
+    "3p": "transam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não transas",
+    "3s": "não transa",
+    "1p": "não transamos",
+    "2p": "não transais",
+    "3p": "não transam"
+  },
+  "Part-ter": {
+    "": "transido"
+  },
+  "Part-ser": {
+    "ms": "transido",
+    "fs": "transida",
+    "mp": "transidos",
+    "fp": "transidas"
+  }
+}

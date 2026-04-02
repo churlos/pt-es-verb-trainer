@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cementar"
+  },
+  "Ger": {
+    "": "cementando"
+  },
+  "PresI": {
+    "1s": "cemento",
+    "2s": "cementas",
+    "3s": "cementa",
+    "1p": "cementamos",
+    "2p": "cementáis",
+    "3p": "cementan"
+  },
+  "PImpI": {
+    "1s": "cementaba",
+    "2s": "cementabas",
+    "3s": "cementaba",
+    "1p": "cementábamos",
+    "2p": "cementabais",
+    "3p": "cementaban"
+  },
+  "PPSI": {
+    "1s": "cementé",
+    "2s": "cementaste",
+    "3s": "cementó",
+    "1p": "cementamos",
+    "2p": "cementasteis",
+    "3p": "cementaron"
+  },
+  "FutSI": {
+    "1s": "cementaré",
+    "2s": "cementarás",
+    "3s": "cementará",
+    "1p": "cementaremos",
+    "2p": "cementaréis",
+    "3p": "cementarán"
+  },
+  "CondS": {
+    "1s": "cementaría",
+    "2s": "cementarías",
+    "3s": "cementaría",
+    "1p": "cementaríamos",
+    "2p": "cementaríais",
+    "3p": "cementarían"
+  },
+  "PresC": {
+    "1s": "cemente",
+    "2s": "cementes",
+    "3s": "cemente",
+    "1p": "cementemos",
+    "2p": "cementéis",
+    "3p": "cementen"
+  },
+  "PMQPSI": {
+    "1s": "cementara",
+    "2s": "cementaras",
+    "3s": "cementara",
+    "1p": "cementáramos",
+    "2p": "cementarais",
+    "3p": "cementaran"
+  },
+  "PImpC": {
+    "1s": "cementase",
+    "2s": "cementases",
+    "3s": "cementase",
+    "1p": "cementásemos",
+    "2p": "cementaseis",
+    "3p": "cementasen"
+  },
+  "FutSC": {
+    "1s": "cementare",
+    "2s": "cementares",
+    "3s": "cementare",
+    "1p": "cementáremos",
+    "2p": "cementareis",
+    "3p": "cementaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cementa",
+    "3s": "cemente",
+    "1p": "cementemos",
+    "2p": "cementad",
+    "3p": "cementen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cementes",
+    "3s": "no cemente",
+    "1p": "no cementemos",
+    "2p": "no cementéis",
+    "3p": "no cementen"
+  },
+  "Part-ter": {
+    "": "cementado"
+  },
+  "Part-ser": {
+    "ms": "cementado",
+    "fs": "cementada",
+    "mp": "cementados",
+    "fp": "cementadas"
+  }
+}

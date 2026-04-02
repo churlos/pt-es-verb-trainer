@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "renovar"
+  },
+  "Ger": {
+    "": "renovando"
+  },
+  "PresI": {
+    "1s": "renuevo",
+    "2s": "renuevas",
+    "3s": "renueva",
+    "1p": "renovamos",
+    "2p": "renováis",
+    "3p": "renuevan"
+  },
+  "PImpI": {
+    "1s": "renovaba",
+    "2s": "renovabas",
+    "3s": "renovaba",
+    "1p": "renovábamos",
+    "2p": "renovabais",
+    "3p": "renovaban"
+  },
+  "PPSI": {
+    "1s": "renové",
+    "2s": "renovaste",
+    "3s": "renovó",
+    "1p": "renovamos",
+    "2p": "renovasteis",
+    "3p": "renovaron"
+  },
+  "FutSI": {
+    "1s": "renovaré",
+    "2s": "renovarás",
+    "3s": "renovará",
+    "1p": "renovaremos",
+    "2p": "renovaréis",
+    "3p": "renovarán"
+  },
+  "CondS": {
+    "1s": "renovaría",
+    "2s": "renovarías",
+    "3s": "renovaría",
+    "1p": "renovaríamos",
+    "2p": "renovaríais",
+    "3p": "renovarían"
+  },
+  "PresC": {
+    "1s": "renueve",
+    "2s": "renueves",
+    "3s": "renueve",
+    "1p": "renovemos",
+    "2p": "renovéis",
+    "3p": "renueven"
+  },
+  "PMQPSI": {
+    "1s": "renovara",
+    "2s": "renovaras",
+    "3s": "renovara",
+    "1p": "renováramos",
+    "2p": "renovarais",
+    "3p": "renovaran"
+  },
+  "PImpC": {
+    "1s": "renovase",
+    "2s": "renovases",
+    "3s": "renovase",
+    "1p": "renovásemos",
+    "2p": "renovaseis",
+    "3p": "renovasen"
+  },
+  "FutSC": {
+    "1s": "renovare",
+    "2s": "renovares",
+    "3s": "renovare",
+    "1p": "renováremos",
+    "2p": "renovareis",
+    "3p": "renovaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renueva",
+    "3s": "renueve",
+    "1p": "renovemos",
+    "2p": "renovad",
+    "3p": "renueven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no renueves",
+    "3s": "no renueve",
+    "1p": "no renovemos",
+    "2p": "no renovéis",
+    "3p": "no renueven"
+  },
+  "Part-ter": {
+    "": "renovado"
+  },
+  "Part-ser": {
+    "ms": "renovado",
+    "fs": "renovada",
+    "mp": "renovados",
+    "fp": "renovadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reducir"
+  },
+  "Ger": {
+    "": "reduciendo"
+  },
+  "PresI": {
+    "1s": "reduzco",
+    "2s": "reduces",
+    "3s": "reduce",
+    "1p": "reducimos",
+    "2p": "reducís",
+    "3p": "reducen"
+  },
+  "PImpI": {
+    "1s": "reducía",
+    "2s": "reducías",
+    "3s": "reducía",
+    "1p": "reducíamos",
+    "2p": "reducíais",
+    "3p": "reducían"
+  },
+  "PPSI": {
+    "1s": "reduje",
+    "2s": "redujiste",
+    "3s": "redujo",
+    "1p": "redujimos",
+    "2p": "redujisteis",
+    "3p": "redujeron"
+  },
+  "FutSI": {
+    "1s": "reduciré",
+    "2s": "reducirás",
+    "3s": "reducirá",
+    "1p": "reduciremos",
+    "2p": "reduciréis",
+    "3p": "reducirán"
+  },
+  "CondS": {
+    "1s": "reduciría",
+    "2s": "reducirías",
+    "3s": "reduciría",
+    "1p": "reduciríamos",
+    "2p": "reduciríais",
+    "3p": "reducirían"
+  },
+  "PresC": {
+    "1s": "reduzca",
+    "2s": "reduzcas",
+    "3s": "reduzca",
+    "1p": "reduzcamos",
+    "2p": "reduzcáis",
+    "3p": "reduzcan"
+  },
+  "PMQPSI": {
+    "1s": "redujera",
+    "2s": "redujeras",
+    "3s": "redujera",
+    "1p": "redujéramos",
+    "2p": "redujerais",
+    "3p": "redujeran"
+  },
+  "PImpC": {
+    "1s": "redujese",
+    "2s": "redujeses",
+    "3s": "redujese",
+    "1p": "redujésemos",
+    "2p": "redujeseis",
+    "3p": "redujesen"
+  },
+  "FutSC": {
+    "1s": "redujere",
+    "2s": "redujeres",
+    "3s": "redujere",
+    "1p": "redujéremos",
+    "2p": "redujereis",
+    "3p": "redujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reduce",
+    "3s": "reduzca",
+    "1p": "reduzcamos",
+    "2p": "reducid",
+    "3p": "reduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reduzcas",
+    "3s": "no reduzca",
+    "1p": "no reduzcamos",
+    "2p": "no reduzcáis",
+    "3p": "no reduzcan"
+  },
+  "Part-ter": {
+    "": "reducido"
+  },
+  "Part-ser": {
+    "ms": "reducido",
+    "fs": "reducida",
+    "mp": "reducidos",
+    "fp": "reducidas"
+  }
+}

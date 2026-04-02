@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alojar"
+  },
+  "InfP": {
+    "1s": "alojar",
+    "2s": "alojares",
+    "3s": "alojar",
+    "1p": "alojarmos",
+    "2p": "alojardes",
+    "3p": "alojarem"
+  },
+  "Ger": {
+    "": "alojando"
+  },
+  "PresI": {
+    "1s": "alojo",
+    "2s": "alojas",
+    "3s": "aloja",
+    "1p": "alojamos",
+    "2p": "alojais",
+    "3p": "alojam"
+  },
+  "PImpI": {
+    "1s": "alojava",
+    "2s": "alojavas",
+    "3s": "alojava",
+    "1p": "alojávamos",
+    "2p": "alojáveis",
+    "3p": "alojavam"
+  },
+  "PPSI": {
+    "1s": "alojei",
+    "2s": "alojaste",
+    "3s": "alojou",
+    "1p": "alojámos",
+    "2p": "alojastes",
+    "3p": "alojaram"
+  },
+  "PMQPSI": {
+    "1s": "alojara",
+    "2s": "alojaras",
+    "3s": "alojara",
+    "1p": "alojáramos",
+    "2p": "alojáreis",
+    "3p": "alojaram"
+  },
+  "FutSI": {
+    "1s": "alojarei",
+    "2s": "alojarás",
+    "3s": "alojará",
+    "1p": "alojaremos",
+    "2p": "alojareis",
+    "3p": "alojarão"
+  },
+  "CondS": {
+    "1s": "alojaria",
+    "2s": "alojarias",
+    "3s": "alojaria",
+    "1p": "alojaríamos",
+    "2p": "alojaríeis",
+    "3p": "alojariam"
+  },
+  "PresC": {
+    "1s": "aloje",
+    "2s": "alojes",
+    "3s": "aloje",
+    "1p": "alojemos",
+    "2p": "alojeis",
+    "3p": "alojem"
+  },
+  "PImpC": {
+    "1s": "alojasse",
+    "2s": "alojasses",
+    "3s": "alojasse",
+    "1p": "alojássemos",
+    "2p": "alojásseis",
+    "3p": "alojassem"
+  },
+  "FutSC": {
+    "1s": "alojar",
+    "2s": "alojares",
+    "3s": "alojar",
+    "1p": "alojarmos",
+    "2p": "alojardes",
+    "3p": "alojarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aloja",
+    "3s": "aloje",
+    "1p": "alojemos",
+    "2p": "alojai",
+    "3p": "alojem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alojes",
+    "3s": "não aloje",
+    "1p": "não alojemos",
+    "2p": "não alojeis",
+    "3p": "não alojem"
+  },
+  "Part-ter": {
+    "": "alojado"
+  },
+  "Part-ser": {
+    "ms": "alojado",
+    "fs": "alojada",
+    "mp": "alojados",
+    "fp": "alojadas"
+  }
+}

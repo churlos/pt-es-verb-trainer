@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "garchar"
+  },
+  "Ger": {
+    "": "garchando"
+  },
+  "PresI": {
+    "1s": "garcho",
+    "2s": "garchas",
+    "3s": "garcha",
+    "1p": "garchamos",
+    "2p": "garcháis",
+    "3p": "garchan"
+  },
+  "PImpI": {
+    "1s": "garchaba",
+    "2s": "garchabas",
+    "3s": "garchaba",
+    "1p": "garchábamos",
+    "2p": "garchabais",
+    "3p": "garchaban"
+  },
+  "PPSI": {
+    "1s": "garché",
+    "2s": "garchaste",
+    "3s": "garchó",
+    "1p": "garchamos",
+    "2p": "garchasteis",
+    "3p": "garcharon"
+  },
+  "FutSI": {
+    "1s": "garcharé",
+    "2s": "garcharás",
+    "3s": "garchará",
+    "1p": "garcharemos",
+    "2p": "garcharéis",
+    "3p": "garcharán"
+  },
+  "CondS": {
+    "1s": "garcharía",
+    "2s": "garcharías",
+    "3s": "garcharía",
+    "1p": "garcharíamos",
+    "2p": "garcharíais",
+    "3p": "garcharían"
+  },
+  "PresC": {
+    "1s": "garche",
+    "2s": "garches",
+    "3s": "garche",
+    "1p": "garchemos",
+    "2p": "garchéis",
+    "3p": "garchen"
+  },
+  "PMQPSI": {
+    "1s": "garchara",
+    "2s": "garcharas",
+    "3s": "garchara",
+    "1p": "garcháramos",
+    "2p": "garcharais",
+    "3p": "garcharan"
+  },
+  "PImpC": {
+    "1s": "garchase",
+    "2s": "garchases",
+    "3s": "garchase",
+    "1p": "garchásemos",
+    "2p": "garchaseis",
+    "3p": "garchasen"
+  },
+  "FutSC": {
+    "1s": "garchare",
+    "2s": "garchares",
+    "3s": "garchare",
+    "1p": "garcháremos",
+    "2p": "garchareis",
+    "3p": "garcharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "garcha",
+    "3s": "garche",
+    "1p": "garchemos",
+    "2p": "garchad",
+    "3p": "garchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no garches",
+    "3s": "no garche",
+    "1p": "no garchemos",
+    "2p": "no garchéis",
+    "3p": "no garchen"
+  },
+  "Part-ter": {
+    "": "garchado"
+  },
+  "Part-ser": {
+    "ms": "garchado",
+    "fs": "garchada",
+    "mp": "garchados",
+    "fp": "garchadas"
+  }
+}

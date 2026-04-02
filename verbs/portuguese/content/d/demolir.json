@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "demolir"
+  },
+  "InfP": {
+    "1s": "demolir",
+    "2s": "demolires",
+    "3s": "demolir",
+    "1p": "demolirmos",
+    "2p": "demolirdes",
+    "3p": "demolirem"
+  },
+  "Ger": {
+    "": "demolindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "demolimos",
+    "2p": "demolis",
+    "3p": ""
+  },
+  "PImpI": {
+    "1s": "demolia",
+    "2s": "demolias",
+    "3s": "demolia",
+    "1p": "demolíamos",
+    "2p": "demolíeis",
+    "3p": "demoliam"
+  },
+  "PPSI": {
+    "1s": "demoli",
+    "2s": "demoliste",
+    "3s": "demoliu",
+    "1p": "demolimos",
+    "2p": "demolistes",
+    "3p": "demoliram"
+  },
+  "PMQPSI": {
+    "1s": "demolira",
+    "2s": "demoliras",
+    "3s": "demolira",
+    "1p": "demolíramos",
+    "2p": "demolíreis",
+    "3p": "demoliram"
+  },
+  "FutSI": {
+    "1s": "demolirei",
+    "2s": "demolirás",
+    "3s": "demolirá",
+    "1p": "demoliremos",
+    "2p": "demolireis",
+    "3p": "demolirão"
+  },
+  "CondS": {
+    "1s": "demoliria",
+    "2s": "demolirias",
+    "3s": "demoliria",
+    "1p": "demoliríamos",
+    "2p": "demoliríeis",
+    "3p": "demoliriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "demolisse",
+    "2s": "demolisses",
+    "3s": "demolisse",
+    "1p": "demolíssemos",
+    "2p": "demolísseis",
+    "3p": "demolissem"
+  },
+  "FutSC": {
+    "1s": "demolir",
+    "2s": "demolires",
+    "3s": "demolir",
+    "1p": "demolirmos",
+    "2p": "demolirdes",
+    "3p": "demolirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "demoliNormally defective:demulais",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "demolido"
+  },
+  "Part-ser": {
+    "ms": "demolido",
+    "fs": "demolida",
+    "mp": "demolidos",
+    "fp": "demolidas"
+  }
+}

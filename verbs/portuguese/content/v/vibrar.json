@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vibrar"
+  },
+  "InfP": {
+    "1s": "vibrar",
+    "2s": "vibrares",
+    "3s": "vibrar",
+    "1p": "vibrarmos",
+    "2p": "vibrardes",
+    "3p": "vibrarem"
+  },
+  "Ger": {
+    "": "vibrando"
+  },
+  "PresI": {
+    "1s": "vibro",
+    "2s": "vibras",
+    "3s": "vibra",
+    "1p": "vibramos",
+    "2p": "vibrais",
+    "3p": "vibram"
+  },
+  "PImpI": {
+    "1s": "vibrava",
+    "2s": "vibravas",
+    "3s": "vibrava",
+    "1p": "vibrávamos",
+    "2p": "vibráveis",
+    "3p": "vibravam"
+  },
+  "PPSI": {
+    "1s": "vibrei",
+    "2s": "vibraste",
+    "3s": "vibrou",
+    "1p": "vibrámos",
+    "2p": "vibrastes",
+    "3p": "vibraram"
+  },
+  "PMQPSI": {
+    "1s": "vibrara",
+    "2s": "vibraras",
+    "3s": "vibrara",
+    "1p": "vibráramos",
+    "2p": "vibráreis",
+    "3p": "vibraram"
+  },
+  "FutSI": {
+    "1s": "vibrarei",
+    "2s": "vibrarás",
+    "3s": "vibrará",
+    "1p": "vibraremos",
+    "2p": "vibrareis",
+    "3p": "vibrarão"
+  },
+  "CondS": {
+    "1s": "vibraria",
+    "2s": "vibrarias",
+    "3s": "vibraria",
+    "1p": "vibraríamos",
+    "2p": "vibraríeis",
+    "3p": "vibrariam"
+  },
+  "PresC": {
+    "1s": "vibre",
+    "2s": "vibres",
+    "3s": "vibre",
+    "1p": "vibremos",
+    "2p": "vibreis",
+    "3p": "vibrem"
+  },
+  "PImpC": {
+    "1s": "vibrasse",
+    "2s": "vibrasses",
+    "3s": "vibrasse",
+    "1p": "vibrássemos",
+    "2p": "vibrásseis",
+    "3p": "vibrassem"
+  },
+  "FutSC": {
+    "1s": "vibrar",
+    "2s": "vibrares",
+    "3s": "vibrar",
+    "1p": "vibrarmos",
+    "2p": "vibrardes",
+    "3p": "vibrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vibra",
+    "3s": "vibre",
+    "1p": "vibremos",
+    "2p": "vibrai",
+    "3p": "vibrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vibres",
+    "3s": "não vibre",
+    "1p": "não vibremos",
+    "2p": "não vibreis",
+    "3p": "não vibrem"
+  },
+  "Part-ter": {
+    "": "vibrado"
+  },
+  "Part-ser": {
+    "ms": "vibrado",
+    "fs": "vibrada",
+    "mp": "vibrados",
+    "fp": "vibradas"
+  }
+}

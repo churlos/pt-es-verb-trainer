@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "assinar"
+  },
+  "InfP": {
+    "1s": "assinar",
+    "2s": "assinares",
+    "3s": "assinar",
+    "1p": "assinarmos",
+    "2p": "assinardes",
+    "3p": "assinarem"
+  },
+  "Ger": {
+    "": "assinando"
+  },
+  "PresI": {
+    "1s": "assino",
+    "2s": "assinas",
+    "3s": "assina",
+    "1p": "assinamos",
+    "2p": "assinais",
+    "3p": "assinam"
+  },
+  "PImpI": {
+    "1s": "assinava",
+    "2s": "assinavas",
+    "3s": "assinava",
+    "1p": "assinávamos",
+    "2p": "assináveis",
+    "3p": "assinavam"
+  },
+  "PPSI": {
+    "1s": "assinei",
+    "2s": "assinaste",
+    "3s": "assinou",
+    "1p": "assinámos",
+    "2p": "assinastes",
+    "3p": "assinaram"
+  },
+  "PMQPSI": {
+    "1s": "assinara",
+    "2s": "assinaras",
+    "3s": "assinara",
+    "1p": "assináramos",
+    "2p": "assináreis",
+    "3p": "assinaram"
+  },
+  "FutSI": {
+    "1s": "assinarei",
+    "2s": "assinarás",
+    "3s": "assinará",
+    "1p": "assinaremos",
+    "2p": "assinareis",
+    "3p": "assinarão"
+  },
+  "CondS": {
+    "1s": "assinaria",
+    "2s": "assinarias",
+    "3s": "assinaria",
+    "1p": "assinaríamos",
+    "2p": "assinaríeis",
+    "3p": "assinariam"
+  },
+  "PresC": {
+    "1s": "assine",
+    "2s": "assines",
+    "3s": "assine",
+    "1p": "assinemos",
+    "2p": "assineis",
+    "3p": "assinem"
+  },
+  "PImpC": {
+    "1s": "assinasse",
+    "2s": "assinasses",
+    "3s": "assinasse",
+    "1p": "assinássemos",
+    "2p": "assinásseis",
+    "3p": "assinassem"
+  },
+  "FutSC": {
+    "1s": "assinar",
+    "2s": "assinares",
+    "3s": "assinar",
+    "1p": "assinarmos",
+    "2p": "assinardes",
+    "3p": "assinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "assina",
+    "3s": "assine",
+    "1p": "assinemos",
+    "2p": "assinai",
+    "3p": "assinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não assines",
+    "3s": "não assine",
+    "1p": "não assinemos",
+    "2p": "não assineis",
+    "3p": "não assinem"
+  },
+  "Part-ter": {
+    "": "assinado"
+  },
+  "Part-ser": {
+    "ms": "assinado",
+    "fs": "assinada",
+    "mp": "assinados",
+    "fp": "assinadas"
+  }
+}

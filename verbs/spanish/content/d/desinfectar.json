@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desinfectar"
+  },
+  "Ger": {
+    "": "desinfectando"
+  },
+  "PresI": {
+    "1s": "desinfecto",
+    "2s": "desinfectas",
+    "3s": "desinfecta",
+    "1p": "desinfectamos",
+    "2p": "desinfectáis",
+    "3p": "desinfectan"
+  },
+  "PImpI": {
+    "1s": "desinfectaba",
+    "2s": "desinfectabas",
+    "3s": "desinfectaba",
+    "1p": "desinfectábamos",
+    "2p": "desinfectabais",
+    "3p": "desinfectaban"
+  },
+  "PPSI": {
+    "1s": "desinfecté",
+    "2s": "desinfectaste",
+    "3s": "desinfectó",
+    "1p": "desinfectamos",
+    "2p": "desinfectasteis",
+    "3p": "desinfectaron"
+  },
+  "FutSI": {
+    "1s": "desinfectaré",
+    "2s": "desinfectarás",
+    "3s": "desinfectará",
+    "1p": "desinfectaremos",
+    "2p": "desinfectaréis",
+    "3p": "desinfectarán"
+  },
+  "CondS": {
+    "1s": "desinfectaría",
+    "2s": "desinfectarías",
+    "3s": "desinfectaría",
+    "1p": "desinfectaríamos",
+    "2p": "desinfectaríais",
+    "3p": "desinfectarían"
+  },
+  "PresC": {
+    "1s": "desinfecte",
+    "2s": "desinfectes",
+    "3s": "desinfecte",
+    "1p": "desinfectemos",
+    "2p": "desinfectéis",
+    "3p": "desinfecten"
+  },
+  "PMQPSI": {
+    "1s": "desinfectara",
+    "2s": "desinfectaras",
+    "3s": "desinfectara",
+    "1p": "desinfectáramos",
+    "2p": "desinfectarais",
+    "3p": "desinfectaran"
+  },
+  "PImpC": {
+    "1s": "desinfectase",
+    "2s": "desinfectases",
+    "3s": "desinfectase",
+    "1p": "desinfectásemos",
+    "2p": "desinfectaseis",
+    "3p": "desinfectasen"
+  },
+  "FutSC": {
+    "1s": "desinfectare",
+    "2s": "desinfectares",
+    "3s": "desinfectare",
+    "1p": "desinfectáremos",
+    "2p": "desinfectareis",
+    "3p": "desinfectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desinfecta",
+    "3s": "desinfecte",
+    "1p": "desinfectemos",
+    "2p": "desinfectad",
+    "3p": "desinfecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desinfectes",
+    "3s": "no desinfecte",
+    "1p": "no desinfectemos",
+    "2p": "no desinfectéis",
+    "3p": "no desinfecten"
+  },
+  "Part-ter": {
+    "": "desinfectado"
+  },
+  "Part-ser": {
+    "ms": "desinfectado",
+    "fs": "desinfectada",
+    "mp": "desinfectados",
+    "fp": "desinfectadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tempestear"
+  },
+  "Ger": {
+    "": "tempesteando"
+  },
+  "PresI": {
+    "1s": "tempesteo",
+    "2s": "tempesteas",
+    "3s": "tempestea",
+    "1p": "tempesteamos",
+    "2p": "tempesteáis",
+    "3p": "tempestean"
+  },
+  "PImpI": {
+    "1s": "tempesteaba",
+    "2s": "tempesteabas",
+    "3s": "tempesteaba",
+    "1p": "tempesteábamos",
+    "2p": "tempesteabais",
+    "3p": "tempesteaban"
+  },
+  "PPSI": {
+    "1s": "tempesteé",
+    "2s": "tempesteaste",
+    "3s": "tempesteó",
+    "1p": "tempesteamos",
+    "2p": "tempesteasteis",
+    "3p": "tempestearon"
+  },
+  "FutSI": {
+    "1s": "tempestearé",
+    "2s": "tempestearás",
+    "3s": "tempesteará",
+    "1p": "tempestearemos",
+    "2p": "tempestearéis",
+    "3p": "tempestearán"
+  },
+  "CondS": {
+    "1s": "tempestearía",
+    "2s": "tempestearías",
+    "3s": "tempestearía",
+    "1p": "tempestearíamos",
+    "2p": "tempestearíais",
+    "3p": "tempestearían"
+  },
+  "PresC": {
+    "1s": "tempestee",
+    "2s": "tempestees",
+    "3s": "tempestee",
+    "1p": "tempesteemos",
+    "2p": "tempesteéis",
+    "3p": "tempesteen"
+  },
+  "PMQPSI": {
+    "1s": "tempesteara",
+    "2s": "tempestearas",
+    "3s": "tempesteara",
+    "1p": "tempesteáramos",
+    "2p": "tempestearais",
+    "3p": "tempestearan"
+  },
+  "PImpC": {
+    "1s": "tempestease",
+    "2s": "tempesteases",
+    "3s": "tempestease",
+    "1p": "tempesteásemos",
+    "2p": "tempesteaseis",
+    "3p": "tempesteasen"
+  },
+  "FutSC": {
+    "1s": "tempesteare",
+    "2s": "tempesteares",
+    "3s": "tempesteare",
+    "1p": "tempesteáremos",
+    "2p": "tempesteareis",
+    "3p": "tempestearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tempestea",
+    "3s": "tempestee",
+    "1p": "tempesteemos",
+    "2p": "tempestead",
+    "3p": "tempesteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tempestees",
+    "3s": "no tempestee",
+    "1p": "no tempesteemos",
+    "2p": "no tempesteéis",
+    "3p": "no tempesteen"
+  },
+  "Part-ter": {
+    "": "tempesteado"
+  },
+  "Part-ser": {
+    "ms": "tempesteado",
+    "fs": "tempesteada",
+    "mp": "tempesteados",
+    "fp": "tempesteadas"
+  }
+}

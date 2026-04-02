@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fenar"
+  },
+  "InfP": {
+    "1s": "fenar",
+    "2s": "fenares",
+    "3s": "fenar",
+    "1p": "fenarmos",
+    "2p": "fenardes",
+    "3p": "fenarem"
+  },
+  "Ger": {
+    "": "fenando"
+  },
+  "PresI": {
+    "1s": "feno",
+    "2s": "fenas",
+    "3s": "fena",
+    "1p": "fenamos",
+    "2p": "fenais",
+    "3p": "fenam"
+  },
+  "PImpI": {
+    "1s": "fenava",
+    "2s": "fenavas",
+    "3s": "fenava",
+    "1p": "fenávamos",
+    "2p": "fenáveis",
+    "3p": "fenavam"
+  },
+  "PPSI": {
+    "1s": "fenei",
+    "2s": "fenaste",
+    "3s": "fenou",
+    "1p": "fenámos",
+    "2p": "fenastes",
+    "3p": "fenaram"
+  },
+  "PMQPSI": {
+    "1s": "fenara",
+    "2s": "fenaras",
+    "3s": "fenara",
+    "1p": "fenáramos",
+    "2p": "fenáreis",
+    "3p": "fenaram"
+  },
+  "FutSI": {
+    "1s": "fenarei",
+    "2s": "fenarás",
+    "3s": "fenará",
+    "1p": "fenaremos",
+    "2p": "fenareis",
+    "3p": "fenarão"
+  },
+  "CondS": {
+    "1s": "fenaria",
+    "2s": "fenarias",
+    "3s": "fenaria",
+    "1p": "fenaríamos",
+    "2p": "fenaríeis",
+    "3p": "fenariam"
+  },
+  "PresC": {
+    "1s": "fene",
+    "2s": "fenes",
+    "3s": "fene",
+    "1p": "fenemos",
+    "2p": "feneis",
+    "3p": "fenem"
+  },
+  "PImpC": {
+    "1s": "fenasse",
+    "2s": "fenasses",
+    "3s": "fenasse",
+    "1p": "fenássemos",
+    "2p": "fenásseis",
+    "3p": "fenassem"
+  },
+  "FutSC": {
+    "1s": "fenar",
+    "2s": "fenares",
+    "3s": "fenar",
+    "1p": "fenarmos",
+    "2p": "fenardes",
+    "3p": "fenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fena",
+    "3s": "fene",
+    "1p": "fenemos",
+    "2p": "fenai",
+    "3p": "fenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fenes",
+    "3s": "não fene",
+    "1p": "não fenemos",
+    "2p": "não feneis",
+    "3p": "não fenem"
+  },
+  "Part-ter": {
+    "": "fenado"
+  },
+  "Part-ser": {
+    "ms": "fenado",
+    "fs": "fenada",
+    "mp": "fenados",
+    "fp": "fenadas"
+  }
+}

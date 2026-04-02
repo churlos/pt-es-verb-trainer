@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "interrumpir"
+  },
+  "Ger": {
+    "": "interrumpiendo"
+  },
+  "PresI": {
+    "1s": "interrumpo",
+    "2s": "interrumpes",
+    "3s": "interrumpe",
+    "1p": "interrumpimos",
+    "2p": "interrumpís",
+    "3p": "interrumpen"
+  },
+  "PImpI": {
+    "1s": "interrumpía",
+    "2s": "interrumpías",
+    "3s": "interrumpía",
+    "1p": "interrumpíamos",
+    "2p": "interrumpíais",
+    "3p": "interrumpían"
+  },
+  "PPSI": {
+    "1s": "interrumpí",
+    "2s": "interrumpiste",
+    "3s": "interrumpió",
+    "1p": "interrumpimos",
+    "2p": "interrumpisteis",
+    "3p": "interrumpieron"
+  },
+  "FutSI": {
+    "1s": "interrumpiré",
+    "2s": "interrumpirás",
+    "3s": "interrumpirá",
+    "1p": "interrumpiremos",
+    "2p": "interrumpiréis",
+    "3p": "interrumpirán"
+  },
+  "CondS": {
+    "1s": "interrumpiría",
+    "2s": "interrumpirías",
+    "3s": "interrumpiría",
+    "1p": "interrumpiríamos",
+    "2p": "interrumpiríais",
+    "3p": "interrumpirían"
+  },
+  "PresC": {
+    "1s": "interrumpa",
+    "2s": "interrumpas",
+    "3s": "interrumpa",
+    "1p": "interrumpamos",
+    "2p": "interrumpáis",
+    "3p": "interrumpan"
+  },
+  "PMQPSI": {
+    "1s": "interrumpiera",
+    "2s": "interrumpieras",
+    "3s": "interrumpiera",
+    "1p": "interrumpiéramos",
+    "2p": "interrumpierais",
+    "3p": "interrumpieran"
+  },
+  "PImpC": {
+    "1s": "interrumpiese",
+    "2s": "interrumpieses",
+    "3s": "interrumpiese",
+    "1p": "interrumpiésemos",
+    "2p": "interrumpieseis",
+    "3p": "interrumpiesen"
+  },
+  "FutSC": {
+    "1s": "interrumpiere",
+    "2s": "interrumpieres",
+    "3s": "interrumpiere",
+    "1p": "interrumpiéremos",
+    "2p": "interrumpiereis",
+    "3p": "interrumpieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interrumpe",
+    "3s": "interrumpa",
+    "1p": "interrumpamos",
+    "2p": "interrumpid",
+    "3p": "interrumpan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no interrumpas",
+    "3s": "no interrumpa",
+    "1p": "no interrumpamos",
+    "2p": "no interrumpáis",
+    "3p": "no interrumpan"
+  },
+  "Part-ter": {
+    "": "interrumpido"
+  },
+  "Part-ser": {
+    "ms": "interrumpido",
+    "fs": "interrumpida",
+    "mp": "interrumpidos",
+    "fp": "interrumpidas"
+  }
+}

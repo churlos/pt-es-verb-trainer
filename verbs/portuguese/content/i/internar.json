@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "internar"
+  },
+  "InfP": {
+    "1s": "internar",
+    "2s": "internares",
+    "3s": "internar",
+    "1p": "internarmos",
+    "2p": "internardes",
+    "3p": "internarem"
+  },
+  "Ger": {
+    "": "internando"
+  },
+  "PresI": {
+    "1s": "interno",
+    "2s": "internas",
+    "3s": "interna",
+    "1p": "internamos",
+    "2p": "internais",
+    "3p": "internam"
+  },
+  "PImpI": {
+    "1s": "internava",
+    "2s": "internavas",
+    "3s": "internava",
+    "1p": "internávamos",
+    "2p": "internáveis",
+    "3p": "internavam"
+  },
+  "PPSI": {
+    "1s": "internei",
+    "2s": "internaste",
+    "3s": "internou",
+    "1p": "internámos",
+    "2p": "internastes",
+    "3p": "internaram"
+  },
+  "PMQPSI": {
+    "1s": "internara",
+    "2s": "internaras",
+    "3s": "internara",
+    "1p": "internáramos",
+    "2p": "internáreis",
+    "3p": "internaram"
+  },
+  "FutSI": {
+    "1s": "internarei",
+    "2s": "internarás",
+    "3s": "internará",
+    "1p": "internaremos",
+    "2p": "internareis",
+    "3p": "internarão"
+  },
+  "CondS": {
+    "1s": "internaria",
+    "2s": "internarias",
+    "3s": "internaria",
+    "1p": "internaríamos",
+    "2p": "internaríeis",
+    "3p": "internariam"
+  },
+  "PresC": {
+    "1s": "interne",
+    "2s": "internes",
+    "3s": "interne",
+    "1p": "internemos",
+    "2p": "interneis",
+    "3p": "internem"
+  },
+  "PImpC": {
+    "1s": "internasse",
+    "2s": "internasses",
+    "3s": "internasse",
+    "1p": "internássemos",
+    "2p": "internásseis",
+    "3p": "internassem"
+  },
+  "FutSC": {
+    "1s": "internar",
+    "2s": "internares",
+    "3s": "internar",
+    "1p": "internarmos",
+    "2p": "internardes",
+    "3p": "internarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interna",
+    "3s": "interne",
+    "1p": "internemos",
+    "2p": "internai",
+    "3p": "internem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não internes",
+    "3s": "não interne",
+    "1p": "não internemos",
+    "2p": "não interneis",
+    "3p": "não internem"
+  },
+  "Part-ter": {
+    "": "internado"
+  },
+  "Part-ser": {
+    "ms": "internado",
+    "fs": "internada",
+    "mp": "internados",
+    "fp": "internadas"
+  }
+}

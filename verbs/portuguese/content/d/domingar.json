@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "domingar"
+  },
+  "InfP": {
+    "1s": "domingar",
+    "2s": "domingares",
+    "3s": "domingar",
+    "1p": "domingarmos",
+    "2p": "domingardes",
+    "3p": "domingarem"
+  },
+  "Ger": {
+    "": "domingando"
+  },
+  "PresI": {
+    "1s": "domingo",
+    "2s": "domingas",
+    "3s": "dominga",
+    "1p": "domingamos",
+    "2p": "domingais",
+    "3p": "domingam"
+  },
+  "PImpI": {
+    "1s": "domingava",
+    "2s": "domingavas",
+    "3s": "domingava",
+    "1p": "domingávamos",
+    "2p": "domingáveis",
+    "3p": "domingavam"
+  },
+  "PPSI": {
+    "1s": "domingei",
+    "2s": "domingaste",
+    "3s": "domingou",
+    "1p": "domingámos",
+    "2p": "domingastes",
+    "3p": "domingaram"
+  },
+  "PMQPSI": {
+    "1s": "domingara",
+    "2s": "domingaras",
+    "3s": "domingara",
+    "1p": "domingáramos",
+    "2p": "domingáreis",
+    "3p": "domingaram"
+  },
+  "FutSI": {
+    "1s": "domingarei",
+    "2s": "domingarás",
+    "3s": "domingará",
+    "1p": "domingaremos",
+    "2p": "domingareis",
+    "3p": "domingarão"
+  },
+  "CondS": {
+    "1s": "domingaria",
+    "2s": "domingarias",
+    "3s": "domingaria",
+    "1p": "domingaríamos",
+    "2p": "domingaríeis",
+    "3p": "domingariam"
+  },
+  "PresC": {
+    "1s": "dominge",
+    "2s": "dominges",
+    "3s": "dominge",
+    "1p": "domingemos",
+    "2p": "domingeis",
+    "3p": "domingem"
+  },
+  "PImpC": {
+    "1s": "domingasse",
+    "2s": "domingasses",
+    "3s": "domingasse",
+    "1p": "domingássemos",
+    "2p": "domingásseis",
+    "3p": "domingassem"
+  },
+  "FutSC": {
+    "1s": "domingar",
+    "2s": "domingares",
+    "3s": "domingar",
+    "1p": "domingarmos",
+    "2p": "domingardes",
+    "3p": "domingarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dominga",
+    "3s": "dominge",
+    "1p": "domingemos",
+    "2p": "domingai",
+    "3p": "domingem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dominges",
+    "3s": "não dominge",
+    "1p": "não domingemos",
+    "2p": "não domingeis",
+    "3p": "não domingem"
+  },
+  "Part-ter": {
+    "": "domingado"
+  },
+  "Part-ser": {
+    "ms": "domingado",
+    "fs": "domingada",
+    "mp": "domingados",
+    "fp": "domingadas"
+  }
+}

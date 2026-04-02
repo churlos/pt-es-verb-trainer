@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hibernar"
+  },
+  "Ger": {
+    "": "hibernando"
+  },
+  "PresI": {
+    "1s": "hiberno",
+    "2s": "hibernas",
+    "3s": "hiberna",
+    "1p": "hibernamos",
+    "2p": "hibernáis",
+    "3p": "hibernan"
+  },
+  "PImpI": {
+    "1s": "hibernaba",
+    "2s": "hibernabas",
+    "3s": "hibernaba",
+    "1p": "hibernábamos",
+    "2p": "hibernabais",
+    "3p": "hibernaban"
+  },
+  "PPSI": {
+    "1s": "hiberné",
+    "2s": "hibernaste",
+    "3s": "hibernó",
+    "1p": "hibernamos",
+    "2p": "hibernasteis",
+    "3p": "hibernaron"
+  },
+  "FutSI": {
+    "1s": "hibernaré",
+    "2s": "hibernarás",
+    "3s": "hibernará",
+    "1p": "hibernaremos",
+    "2p": "hibernaréis",
+    "3p": "hibernarán"
+  },
+  "CondS": {
+    "1s": "hibernaría",
+    "2s": "hibernarías",
+    "3s": "hibernaría",
+    "1p": "hibernaríamos",
+    "2p": "hibernaríais",
+    "3p": "hibernarían"
+  },
+  "PresC": {
+    "1s": "hiberne",
+    "2s": "hibernes",
+    "3s": "hiberne",
+    "1p": "hibernemos",
+    "2p": "hibernéis",
+    "3p": "hibernen"
+  },
+  "PMQPSI": {
+    "1s": "hibernara",
+    "2s": "hibernaras",
+    "3s": "hibernara",
+    "1p": "hibernáramos",
+    "2p": "hibernarais",
+    "3p": "hibernaran"
+  },
+  "PImpC": {
+    "1s": "hibernase",
+    "2s": "hibernases",
+    "3s": "hibernase",
+    "1p": "hibernásemos",
+    "2p": "hibernaseis",
+    "3p": "hibernasen"
+  },
+  "FutSC": {
+    "1s": "hibernare",
+    "2s": "hibernares",
+    "3s": "hibernare",
+    "1p": "hibernáremos",
+    "2p": "hibernareis",
+    "3p": "hibernaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hiberna",
+    "3s": "hiberne",
+    "1p": "hibernemos",
+    "2p": "hibernad",
+    "3p": "hibernen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hibernes",
+    "3s": "no hiberne",
+    "1p": "no hibernemos",
+    "2p": "no hibernéis",
+    "3p": "no hibernen"
+  },
+  "Part-ter": {
+    "": "hibernado"
+  },
+  "Part-ser": {
+    "ms": "hibernado",
+    "fs": "hibernada",
+    "mp": "hibernados",
+    "fp": "hibernadas"
+  }
+}

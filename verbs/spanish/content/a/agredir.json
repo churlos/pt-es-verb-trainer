@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "agredir"
+  },
+  "Ger": {
+    "": "agrediendo"
+  },
+  "PresI": {
+    "1s": "agredo",
+    "2s": "agredes",
+    "3s": "agrede",
+    "1p": "agredimos",
+    "2p": "agredís",
+    "3p": "agreden"
+  },
+  "PImpI": {
+    "1s": "agredía",
+    "2s": "agredías",
+    "3s": "agredía",
+    "1p": "agredíamos",
+    "2p": "agredíais",
+    "3p": "agredían"
+  },
+  "PPSI": {
+    "1s": "agredí",
+    "2s": "agrediste",
+    "3s": "agredió",
+    "1p": "agredimos",
+    "2p": "agredisteis",
+    "3p": "agredieron"
+  },
+  "FutSI": {
+    "1s": "agrediré",
+    "2s": "agredirás",
+    "3s": "agredirá",
+    "1p": "agrediremos",
+    "2p": "agrediréis",
+    "3p": "agredirán"
+  },
+  "CondS": {
+    "1s": "agrediría",
+    "2s": "agredirías",
+    "3s": "agrediría",
+    "1p": "agrediríamos",
+    "2p": "agrediríais",
+    "3p": "agredirían"
+  },
+  "PresC": {
+    "1s": "agreda",
+    "2s": "agredas",
+    "3s": "agreda",
+    "1p": "agredamos",
+    "2p": "agredáis",
+    "3p": "agredan"
+  },
+  "PMQPSI": {
+    "1s": "agrediera",
+    "2s": "agredieras",
+    "3s": "agrediera",
+    "1p": "agrediéramos",
+    "2p": "agredierais",
+    "3p": "agredieran"
+  },
+  "PImpC": {
+    "1s": "agrediese",
+    "2s": "agredieses",
+    "3s": "agrediese",
+    "1p": "agrediésemos",
+    "2p": "agredieseis",
+    "3p": "agrediesen"
+  },
+  "FutSC": {
+    "1s": "agrediere",
+    "2s": "agredieres",
+    "3s": "agrediere",
+    "1p": "agrediéremos",
+    "2p": "agrediereis",
+    "3p": "agredieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agrede",
+    "3s": "agreda",
+    "1p": "agredamos",
+    "2p": "agredid",
+    "3p": "agredan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no agredas",
+    "3s": "no agreda",
+    "1p": "no agredamos",
+    "2p": "no agredáis",
+    "3p": "no agredan"
+  },
+  "Part-ter": {
+    "": "agredido"
+  },
+  "Part-ser": {
+    "ms": "agredido",
+    "fs": "agredida",
+    "mp": "agredidos",
+    "fp": "agredidas"
+  }
+}

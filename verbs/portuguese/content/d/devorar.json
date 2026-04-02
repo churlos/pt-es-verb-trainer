@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "devorar"
+  },
+  "InfP": {
+    "1s": "devorar",
+    "2s": "devorares",
+    "3s": "devorar",
+    "1p": "devorarmos",
+    "2p": "devorardes",
+    "3p": "devorarem"
+  },
+  "Ger": {
+    "": "devorando"
+  },
+  "PresI": {
+    "1s": "devoro",
+    "2s": "devoras",
+    "3s": "devora",
+    "1p": "devoramos",
+    "2p": "devorais",
+    "3p": "devoram"
+  },
+  "PImpI": {
+    "1s": "devorava",
+    "2s": "devoravas",
+    "3s": "devorava",
+    "1p": "devorávamos",
+    "2p": "devoráveis",
+    "3p": "devoravam"
+  },
+  "PPSI": {
+    "1s": "devorei",
+    "2s": "devoraste",
+    "3s": "devorou",
+    "1p": "devorámos",
+    "2p": "devorastes",
+    "3p": "devoraram"
+  },
+  "PMQPSI": {
+    "1s": "devorara",
+    "2s": "devoraras",
+    "3s": "devorara",
+    "1p": "devoráramos",
+    "2p": "devoráreis",
+    "3p": "devoraram"
+  },
+  "FutSI": {
+    "1s": "devorarei",
+    "2s": "devorarás",
+    "3s": "devorará",
+    "1p": "devoraremos",
+    "2p": "devorareis",
+    "3p": "devorarão"
+  },
+  "CondS": {
+    "1s": "devoraria",
+    "2s": "devorarias",
+    "3s": "devoraria",
+    "1p": "devoraríamos",
+    "2p": "devoraríeis",
+    "3p": "devorariam"
+  },
+  "PresC": {
+    "1s": "devore",
+    "2s": "devores",
+    "3s": "devore",
+    "1p": "devoremos",
+    "2p": "devoreis",
+    "3p": "devorem"
+  },
+  "PImpC": {
+    "1s": "devorasse",
+    "2s": "devorasses",
+    "3s": "devorasse",
+    "1p": "devorássemos",
+    "2p": "devorásseis",
+    "3p": "devorassem"
+  },
+  "FutSC": {
+    "1s": "devorar",
+    "2s": "devorares",
+    "3s": "devorar",
+    "1p": "devorarmos",
+    "2p": "devorardes",
+    "3p": "devorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devora",
+    "3s": "devore",
+    "1p": "devoremos",
+    "2p": "devorai",
+    "3p": "devorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não devores",
+    "3s": "não devore",
+    "1p": "não devoremos",
+    "2p": "não devoreis",
+    "3p": "não devorem"
+  },
+  "Part-ter": {
+    "": "devorado"
+  },
+  "Part-ser": {
+    "ms": "devorado",
+    "fs": "devorada",
+    "mp": "devorados",
+    "fp": "devoradas"
+  }
+}

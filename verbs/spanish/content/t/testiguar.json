@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "testiguar"
+  },
+  "Ger": {
+    "": "testiguando"
+  },
+  "PresI": {
+    "1s": "testiguo",
+    "2s": "testiguas",
+    "3s": "testigua",
+    "1p": "testiguamos",
+    "2p": "testiguáis",
+    "3p": "testiguan"
+  },
+  "PImpI": {
+    "1s": "testiguaba",
+    "2s": "testiguabas",
+    "3s": "testiguaba",
+    "1p": "testiguábamos",
+    "2p": "testiguabais",
+    "3p": "testiguaban"
+  },
+  "PPSI": {
+    "1s": "testigüé",
+    "2s": "testiguaste",
+    "3s": "testiguó",
+    "1p": "testiguamos",
+    "2p": "testiguasteis",
+    "3p": "testiguaron"
+  },
+  "FutSI": {
+    "1s": "testiguaré",
+    "2s": "testiguarás",
+    "3s": "testiguará",
+    "1p": "testiguaremos",
+    "2p": "testiguaréis",
+    "3p": "testiguarán"
+  },
+  "CondS": {
+    "1s": "testiguaría",
+    "2s": "testiguarías",
+    "3s": "testiguaría",
+    "1p": "testiguaríamos",
+    "2p": "testiguaríais",
+    "3p": "testiguarían"
+  },
+  "PresC": {
+    "1s": "testigüe",
+    "2s": "testigües",
+    "3s": "testigüe",
+    "1p": "testigüemos",
+    "2p": "testigüéis",
+    "3p": "testigüen"
+  },
+  "PMQPSI": {
+    "1s": "testiguara",
+    "2s": "testiguaras",
+    "3s": "testiguara",
+    "1p": "testiguáramos",
+    "2p": "testiguarais",
+    "3p": "testiguaran"
+  },
+  "PImpC": {
+    "1s": "testiguase",
+    "2s": "testiguases",
+    "3s": "testiguase",
+    "1p": "testiguásemos",
+    "2p": "testiguaseis",
+    "3p": "testiguasen"
+  },
+  "FutSC": {
+    "1s": "testiguare",
+    "2s": "testiguares",
+    "3s": "testiguare",
+    "1p": "testiguáremos",
+    "2p": "testiguareis",
+    "3p": "testiguaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "testigua",
+    "3s": "testigüe",
+    "1p": "testigüemos",
+    "2p": "testiguad",
+    "3p": "testigüen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no testigües",
+    "3s": "no testigüe",
+    "1p": "no testigüemos",
+    "2p": "no testigüéis",
+    "3p": "no testigüen"
+  },
+  "Part-ter": {
+    "": "testiguado"
+  },
+  "Part-ser": {
+    "ms": "testiguado",
+    "fs": "testiguada",
+    "mp": "testiguados",
+    "fp": "testiguadas"
+  }
+}

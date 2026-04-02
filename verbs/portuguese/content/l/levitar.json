@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "levitar"
+  },
+  "InfP": {
+    "1s": "levitar",
+    "2s": "levitares",
+    "3s": "levitar",
+    "1p": "levitarmos",
+    "2p": "levitardes",
+    "3p": "levitarem"
+  },
+  "Ger": {
+    "": "levitando"
+  },
+  "PresI": {
+    "1s": "levito",
+    "2s": "levitas",
+    "3s": "levita",
+    "1p": "levitamos",
+    "2p": "levitais",
+    "3p": "levitam"
+  },
+  "PImpI": {
+    "1s": "levitava",
+    "2s": "levitavas",
+    "3s": "levitava",
+    "1p": "levitávamos",
+    "2p": "levitáveis",
+    "3p": "levitavam"
+  },
+  "PPSI": {
+    "1s": "levitei",
+    "2s": "levitaste",
+    "3s": "levitou",
+    "1p": "levitámos",
+    "2p": "levitastes",
+    "3p": "levitaram"
+  },
+  "PMQPSI": {
+    "1s": "levitara",
+    "2s": "levitaras",
+    "3s": "levitara",
+    "1p": "levitáramos",
+    "2p": "levitáreis",
+    "3p": "levitaram"
+  },
+  "FutSI": {
+    "1s": "levitarei",
+    "2s": "levitarás",
+    "3s": "levitará",
+    "1p": "levitaremos",
+    "2p": "levitareis",
+    "3p": "levitarão"
+  },
+  "CondS": {
+    "1s": "levitaria",
+    "2s": "levitarias",
+    "3s": "levitaria",
+    "1p": "levitaríamos",
+    "2p": "levitaríeis",
+    "3p": "levitariam"
+  },
+  "PresC": {
+    "1s": "levite",
+    "2s": "levites",
+    "3s": "levite",
+    "1p": "levitemos",
+    "2p": "leviteis",
+    "3p": "levitem"
+  },
+  "PImpC": {
+    "1s": "levitasse",
+    "2s": "levitasses",
+    "3s": "levitasse",
+    "1p": "levitássemos",
+    "2p": "levitásseis",
+    "3p": "levitassem"
+  },
+  "FutSC": {
+    "1s": "levitar",
+    "2s": "levitares",
+    "3s": "levitar",
+    "1p": "levitarmos",
+    "2p": "levitardes",
+    "3p": "levitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "levita",
+    "3s": "levite",
+    "1p": "levitemos",
+    "2p": "levitai",
+    "3p": "levitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não levites",
+    "3s": "não levite",
+    "1p": "não levitemos",
+    "2p": "não leviteis",
+    "3p": "não levitem"
+  },
+  "Part-ter": {
+    "": "levitado"
+  },
+  "Part-ser": {
+    "ms": "levitado",
+    "fs": "levitada",
+    "mp": "levitados",
+    "fp": "levitadas"
+  }
+}

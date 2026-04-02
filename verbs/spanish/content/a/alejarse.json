@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alejarse"
+  },
+  "Ger": {
+    "": "alejándose"
+  },
+  "PresI": {
+    "1s": "me alejo",
+    "2s": "te alejas",
+    "3s": "se aleja",
+    "1p": "nos alejamos",
+    "2p": "os alejáis",
+    "3p": "se alejan"
+  },
+  "PImpI": {
+    "1s": "me alejaba",
+    "2s": "te alejabas",
+    "3s": "se alejaba",
+    "1p": "nos alejábamos",
+    "2p": "os alejabais",
+    "3p": "se alejaban"
+  },
+  "PPSI": {
+    "1s": "me alejé",
+    "2s": "te alejaste",
+    "3s": "se alejó",
+    "1p": "nos alejamos",
+    "2p": "os alejasteis",
+    "3p": "se alejaron"
+  },
+  "FutSI": {
+    "1s": "me alejaré",
+    "2s": "te alejarás",
+    "3s": "se alejará",
+    "1p": "nos alejaremos",
+    "2p": "os alejaréis",
+    "3p": "se alejarán"
+  },
+  "CondS": {
+    "1s": "me alejaría",
+    "2s": "te alejarías",
+    "3s": "se alejaría",
+    "1p": "nos alejaríamos",
+    "2p": "os alejaríais",
+    "3p": "se alejarían"
+  },
+  "PresC": {
+    "1s": "me aleje",
+    "2s": "te alejes",
+    "3s": "se aleje",
+    "1p": "nos alejemos",
+    "2p": "os alejéis",
+    "3p": "se alejen"
+  },
+  "PMQPSI": {
+    "1s": "me alejara",
+    "2s": "te alejaras",
+    "3s": "se alejara",
+    "1p": "nos alejáramos",
+    "2p": "os alejarais",
+    "3p": "se alejaran"
+  },
+  "PImpC": {
+    "1s": "me alejase",
+    "2s": "te alejases",
+    "3s": "se alejase",
+    "1p": "nos alejásemos",
+    "2p": "os alejaseis",
+    "3p": "se alejasen"
+  },
+  "FutSC": {
+    "1s": "me alejare",
+    "2s": "te alejares",
+    "3s": "se alejare",
+    "1p": "nos alejáremos",
+    "2p": "os alejareis",
+    "3p": "se alejaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aléjate",
+    "3s": "aléjese",
+    "1p": "alejémonos",
+    "2p": "alejaos",
+    "3p": "aléjense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te alejes",
+    "3s": "no se aleje",
+    "1p": "no nos alejemos",
+    "2p": "no os alejéis",
+    "3p": "no se alejen"
+  },
+  "Part-ter": {
+    "": "alejado"
+  },
+  "Part-ser": {
+    "ms": "alejado",
+    "fs": "alejada",
+    "mp": "alejados",
+    "fp": "alejadas"
+  }
+}

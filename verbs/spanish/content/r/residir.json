@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "residir"
+  },
+  "Ger": {
+    "": "residiendo"
+  },
+  "PresI": {
+    "1s": "resido",
+    "2s": "resides",
+    "3s": "reside",
+    "1p": "residimos",
+    "2p": "residís",
+    "3p": "residen"
+  },
+  "PImpI": {
+    "1s": "residía",
+    "2s": "residías",
+    "3s": "residía",
+    "1p": "residíamos",
+    "2p": "residíais",
+    "3p": "residían"
+  },
+  "PPSI": {
+    "1s": "residí",
+    "2s": "residiste",
+    "3s": "residió",
+    "1p": "residimos",
+    "2p": "residisteis",
+    "3p": "residieron"
+  },
+  "FutSI": {
+    "1s": "residiré",
+    "2s": "residirás",
+    "3s": "residirá",
+    "1p": "residiremos",
+    "2p": "residiréis",
+    "3p": "residirán"
+  },
+  "CondS": {
+    "1s": "residiría",
+    "2s": "residirías",
+    "3s": "residiría",
+    "1p": "residiríamos",
+    "2p": "residiríais",
+    "3p": "residirían"
+  },
+  "PresC": {
+    "1s": "resida",
+    "2s": "residas",
+    "3s": "resida",
+    "1p": "residamos",
+    "2p": "residáis",
+    "3p": "residan"
+  },
+  "PMQPSI": {
+    "1s": "residiera",
+    "2s": "residieras",
+    "3s": "residiera",
+    "1p": "residiéramos",
+    "2p": "residierais",
+    "3p": "residieran"
+  },
+  "PImpC": {
+    "1s": "residiese",
+    "2s": "residieses",
+    "3s": "residiese",
+    "1p": "residiésemos",
+    "2p": "residieseis",
+    "3p": "residiesen"
+  },
+  "FutSC": {
+    "1s": "residiere",
+    "2s": "residieres",
+    "3s": "residiere",
+    "1p": "residiéremos",
+    "2p": "residiereis",
+    "3p": "residieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reside",
+    "3s": "resida",
+    "1p": "residamos",
+    "2p": "residid",
+    "3p": "residan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no residas",
+    "3s": "no resida",
+    "1p": "no residamos",
+    "2p": "no residáis",
+    "3p": "no residan"
+  },
+  "Part-ter": {
+    "": "residido"
+  },
+  "Part-ser": {
+    "ms": "residido",
+    "fs": "residida",
+    "mp": "resididos",
+    "fp": "resididas"
+  }
+}

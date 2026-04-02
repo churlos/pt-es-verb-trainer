@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "precargar"
+  },
+  "Ger": {
+    "": "precargando"
+  },
+  "PresI": {
+    "1s": "precargo",
+    "2s": "precargas",
+    "3s": "precarga",
+    "1p": "precargamos",
+    "2p": "precargáis",
+    "3p": "precargan"
+  },
+  "PImpI": {
+    "1s": "precargaba",
+    "2s": "precargabas",
+    "3s": "precargaba",
+    "1p": "precargábamos",
+    "2p": "precargabais",
+    "3p": "precargaban"
+  },
+  "PPSI": {
+    "1s": "precargué",
+    "2s": "precargaste",
+    "3s": "precargó",
+    "1p": "precargamos",
+    "2p": "precargasteis",
+    "3p": "precargaron"
+  },
+  "FutSI": {
+    "1s": "precargaré",
+    "2s": "precargarás",
+    "3s": "precargará",
+    "1p": "precargaremos",
+    "2p": "precargaréis",
+    "3p": "precargarán"
+  },
+  "CondS": {
+    "1s": "precargaría",
+    "2s": "precargarías",
+    "3s": "precargaría",
+    "1p": "precargaríamos",
+    "2p": "precargaríais",
+    "3p": "precargarían"
+  },
+  "PresC": {
+    "1s": "precargue",
+    "2s": "precargues",
+    "3s": "precargue",
+    "1p": "precarguemos",
+    "2p": "precarguéis",
+    "3p": "precarguen"
+  },
+  "PMQPSI": {
+    "1s": "precargara",
+    "2s": "precargaras",
+    "3s": "precargara",
+    "1p": "precargáramos",
+    "2p": "precargarais",
+    "3p": "precargaran"
+  },
+  "PImpC": {
+    "1s": "precargase",
+    "2s": "precargases",
+    "3s": "precargase",
+    "1p": "precargásemos",
+    "2p": "precargaseis",
+    "3p": "precargasen"
+  },
+  "FutSC": {
+    "1s": "precargare",
+    "2s": "precargares",
+    "3s": "precargare",
+    "1p": "precargáremos",
+    "2p": "precargareis",
+    "3p": "precargaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "precarga",
+    "3s": "precargue",
+    "1p": "precarguemos",
+    "2p": "precargad",
+    "3p": "precarguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no precargues",
+    "3s": "no precargue",
+    "1p": "no precarguemos",
+    "2p": "no precarguéis",
+    "3p": "no precarguen"
+  },
+  "Part-ter": {
+    "": "precargado"
+  },
+  "Part-ser": {
+    "ms": "precargado",
+    "fs": "precargada",
+    "mp": "precargados",
+    "fp": "precargadas"
+  }
+}

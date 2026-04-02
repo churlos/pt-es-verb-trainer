@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "chifrar"
+  },
+  "InfP": {
+    "1s": "chifrar",
+    "2s": "chifrares",
+    "3s": "chifrar",
+    "1p": "chifrarmos",
+    "2p": "chifrardes",
+    "3p": "chifrarem"
+  },
+  "Ger": {
+    "": "chifrando"
+  },
+  "PresI": {
+    "1s": "chifro",
+    "2s": "chifras",
+    "3s": "chifra",
+    "1p": "chiframos",
+    "2p": "chifrais",
+    "3p": "chifram"
+  },
+  "PImpI": {
+    "1s": "chifrava",
+    "2s": "chifravas",
+    "3s": "chifrava",
+    "1p": "chifrávamos",
+    "2p": "chifráveis",
+    "3p": "chifravam"
+  },
+  "PPSI": {
+    "1s": "chifrei",
+    "2s": "chifraste",
+    "3s": "chifrou",
+    "1p": "chifrámos",
+    "2p": "chifrastes",
+    "3p": "chifraram"
+  },
+  "PMQPSI": {
+    "1s": "chifrara",
+    "2s": "chifraras",
+    "3s": "chifrara",
+    "1p": "chifráramos",
+    "2p": "chifráreis",
+    "3p": "chifraram"
+  },
+  "FutSI": {
+    "1s": "chifrarei",
+    "2s": "chifrarás",
+    "3s": "chifrará",
+    "1p": "chifraremos",
+    "2p": "chifrareis",
+    "3p": "chifrarão"
+  },
+  "CondS": {
+    "1s": "chifraria",
+    "2s": "chifrarias",
+    "3s": "chifraria",
+    "1p": "chifraríamos",
+    "2p": "chifraríeis",
+    "3p": "chifrariam"
+  },
+  "PresC": {
+    "1s": "chifre",
+    "2s": "chifres",
+    "3s": "chifre",
+    "1p": "chifremos",
+    "2p": "chifreis",
+    "3p": "chifrem"
+  },
+  "PImpC": {
+    "1s": "chifrasse",
+    "2s": "chifrasses",
+    "3s": "chifrasse",
+    "1p": "chifrássemos",
+    "2p": "chifrásseis",
+    "3p": "chifrassem"
+  },
+  "FutSC": {
+    "1s": "chifrar",
+    "2s": "chifrares",
+    "3s": "chifrar",
+    "1p": "chifrarmos",
+    "2p": "chifrardes",
+    "3p": "chifrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "chifra",
+    "3s": "chifre",
+    "1p": "chifremos",
+    "2p": "chifrai",
+    "3p": "chifrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não chifres",
+    "3s": "não chifre",
+    "1p": "não chifremos",
+    "2p": "não chifreis",
+    "3p": "não chifrem"
+  },
+  "Part-ter": {
+    "": "chifrado"
+  },
+  "Part-ser": {
+    "ms": "chifrado",
+    "fs": "chifrada",
+    "mp": "chifrados",
+    "fp": "chifradas"
+  }
+}

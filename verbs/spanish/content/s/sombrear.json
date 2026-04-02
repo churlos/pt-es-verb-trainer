@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sombrear"
+  },
+  "Ger": {
+    "": "sombreando"
+  },
+  "PresI": {
+    "1s": "sombreo",
+    "2s": "sombreas",
+    "3s": "sombrea",
+    "1p": "sombreamos",
+    "2p": "sombreáis",
+    "3p": "sombrean"
+  },
+  "PImpI": {
+    "1s": "sombreaba",
+    "2s": "sombreabas",
+    "3s": "sombreaba",
+    "1p": "sombreábamos",
+    "2p": "sombreabais",
+    "3p": "sombreaban"
+  },
+  "PPSI": {
+    "1s": "sombreé",
+    "2s": "sombreaste",
+    "3s": "sombreó",
+    "1p": "sombreamos",
+    "2p": "sombreasteis",
+    "3p": "sombrearon"
+  },
+  "FutSI": {
+    "1s": "sombrearé",
+    "2s": "sombrearás",
+    "3s": "sombreará",
+    "1p": "sombrearemos",
+    "2p": "sombrearéis",
+    "3p": "sombrearán"
+  },
+  "CondS": {
+    "1s": "sombrearía",
+    "2s": "sombrearías",
+    "3s": "sombrearía",
+    "1p": "sombrearíamos",
+    "2p": "sombrearíais",
+    "3p": "sombrearían"
+  },
+  "PresC": {
+    "1s": "sombree",
+    "2s": "sombrees",
+    "3s": "sombree",
+    "1p": "sombreemos",
+    "2p": "sombreéis",
+    "3p": "sombreen"
+  },
+  "PMQPSI": {
+    "1s": "sombreara",
+    "2s": "sombrearas",
+    "3s": "sombreara",
+    "1p": "sombreáramos",
+    "2p": "sombrearais",
+    "3p": "sombrearan"
+  },
+  "PImpC": {
+    "1s": "sombrease",
+    "2s": "sombreases",
+    "3s": "sombrease",
+    "1p": "sombreásemos",
+    "2p": "sombreaseis",
+    "3p": "sombreasen"
+  },
+  "FutSC": {
+    "1s": "sombreare",
+    "2s": "sombreares",
+    "3s": "sombreare",
+    "1p": "sombreáremos",
+    "2p": "sombreareis",
+    "3p": "sombrearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sombrea",
+    "3s": "sombree",
+    "1p": "sombreemos",
+    "2p": "sombread",
+    "3p": "sombreen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sombrees",
+    "3s": "no sombree",
+    "1p": "no sombreemos",
+    "2p": "no sombreéis",
+    "3p": "no sombreen"
+  },
+  "Part-ter": {
+    "": "sombreado"
+  },
+  "Part-ser": {
+    "ms": "sombreado",
+    "fs": "sombreada",
+    "mp": "sombreados",
+    "fp": "sombreadas"
+  }
+}

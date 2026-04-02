@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pautar"
+  },
+  "InfP": {
+    "1s": "pautar",
+    "2s": "pautares",
+    "3s": "pautar",
+    "1p": "pautarmos",
+    "2p": "pautardes",
+    "3p": "pautarem"
+  },
+  "Ger": {
+    "": "pautando"
+  },
+  "PresI": {
+    "1s": "pauto",
+    "2s": "pautas",
+    "3s": "pauta",
+    "1p": "pautamos",
+    "2p": "pautais",
+    "3p": "pautam"
+  },
+  "PImpI": {
+    "1s": "pautava",
+    "2s": "pautavas",
+    "3s": "pautava",
+    "1p": "pautávamos",
+    "2p": "pautáveis",
+    "3p": "pautavam"
+  },
+  "PPSI": {
+    "1s": "pautei",
+    "2s": "pautaste",
+    "3s": "pautou",
+    "1p": "pautámos",
+    "2p": "pautastes",
+    "3p": "pautaram"
+  },
+  "PMQPSI": {
+    "1s": "pautara",
+    "2s": "pautaras",
+    "3s": "pautara",
+    "1p": "pautáramos",
+    "2p": "pautáreis",
+    "3p": "pautaram"
+  },
+  "FutSI": {
+    "1s": "pautarei",
+    "2s": "pautarás",
+    "3s": "pautará",
+    "1p": "pautaremos",
+    "2p": "pautareis",
+    "3p": "pautarão"
+  },
+  "CondS": {
+    "1s": "pautaria",
+    "2s": "pautarias",
+    "3s": "pautaria",
+    "1p": "pautaríamos",
+    "2p": "pautaríeis",
+    "3p": "pautariam"
+  },
+  "PresC": {
+    "1s": "paute",
+    "2s": "pautes",
+    "3s": "paute",
+    "1p": "pautemos",
+    "2p": "pauteis",
+    "3p": "pautem"
+  },
+  "PImpC": {
+    "1s": "pautasse",
+    "2s": "pautasses",
+    "3s": "pautasse",
+    "1p": "pautássemos",
+    "2p": "pautásseis",
+    "3p": "pautassem"
+  },
+  "FutSC": {
+    "1s": "pautar",
+    "2s": "pautares",
+    "3s": "pautar",
+    "1p": "pautarmos",
+    "2p": "pautardes",
+    "3p": "pautarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pauta",
+    "3s": "paute",
+    "1p": "pautemos",
+    "2p": "pautai",
+    "3p": "pautem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pautes",
+    "3s": "não paute",
+    "1p": "não pautemos",
+    "2p": "não pauteis",
+    "3p": "não pautem"
+  },
+  "Part-ter": {
+    "": "pautado"
+  },
+  "Part-ser": {
+    "ms": "pautado",
+    "fs": "pautada",
+    "mp": "pautados",
+    "fp": "pautadas"
+  }
+}

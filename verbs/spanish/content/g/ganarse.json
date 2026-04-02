@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ganarse"
+  },
+  "Ger": {
+    "": "ganándose"
+  },
+  "PresI": {
+    "1s": "me gano",
+    "2s": "te ganas",
+    "3s": "se gana",
+    "1p": "nos ganamos",
+    "2p": "os ganáis",
+    "3p": "se ganan"
+  },
+  "PImpI": {
+    "1s": "me ganaba",
+    "2s": "te ganabas",
+    "3s": "se ganaba",
+    "1p": "nos ganábamos",
+    "2p": "os ganabais",
+    "3p": "se ganaban"
+  },
+  "PPSI": {
+    "1s": "me gané",
+    "2s": "te ganaste",
+    "3s": "se ganó",
+    "1p": "nos ganamos",
+    "2p": "os ganasteis",
+    "3p": "se ganaron"
+  },
+  "FutSI": {
+    "1s": "me ganaré",
+    "2s": "te ganarás",
+    "3s": "se ganará",
+    "1p": "nos ganaremos",
+    "2p": "os ganaréis",
+    "3p": "se ganarán"
+  },
+  "CondS": {
+    "1s": "me ganaría",
+    "2s": "te ganarías",
+    "3s": "se ganaría",
+    "1p": "nos ganaríamos",
+    "2p": "os ganaríais",
+    "3p": "se ganarían"
+  },
+  "PresC": {
+    "1s": "me gane",
+    "2s": "te ganes",
+    "3s": "se gane",
+    "1p": "nos ganemos",
+    "2p": "os ganéis",
+    "3p": "se ganen"
+  },
+  "PMQPSI": {
+    "1s": "me ganara",
+    "2s": "te ganaras",
+    "3s": "se ganara",
+    "1p": "nos ganáramos",
+    "2p": "os ganarais",
+    "3p": "se ganaran"
+  },
+  "PImpC": {
+    "1s": "me ganase",
+    "2s": "te ganases",
+    "3s": "se ganase",
+    "1p": "nos ganásemos",
+    "2p": "os ganaseis",
+    "3p": "se ganasen"
+  },
+  "FutSC": {
+    "1s": "me ganare",
+    "2s": "te ganares",
+    "3s": "se ganare",
+    "1p": "nos ganáremos",
+    "2p": "os ganareis",
+    "3p": "se ganaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gánate",
+    "3s": "gánese",
+    "1p": "ganémonos",
+    "2p": "ganaos",
+    "3p": "gánense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te ganes",
+    "3s": "no se gane",
+    "1p": "no nos ganemos",
+    "2p": "no os ganéis",
+    "3p": "no se ganen"
+  },
+  "Part-ter": {
+    "": "ganado"
+  },
+  "Part-ser": {
+    "ms": "ganado",
+    "fs": "ganada",
+    "mp": "ganados",
+    "fp": "ganadas"
+  }
+}

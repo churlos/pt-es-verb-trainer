@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "obsequiar"
+  },
+  "Ger": {
+    "": "obsequiando"
+  },
+  "PresI": {
+    "1s": "obsequio",
+    "2s": "obsequias",
+    "3s": "obsequia",
+    "1p": "obsequiamos",
+    "2p": "obsequiáis",
+    "3p": "obsequian"
+  },
+  "PImpI": {
+    "1s": "obsequiaba",
+    "2s": "obsequiabas",
+    "3s": "obsequiaba",
+    "1p": "obsequiábamos",
+    "2p": "obsequiabais",
+    "3p": "obsequiaban"
+  },
+  "PPSI": {
+    "1s": "obsequié",
+    "2s": "obsequiaste",
+    "3s": "obsequió",
+    "1p": "obsequiamos",
+    "2p": "obsequiasteis",
+    "3p": "obsequiaron"
+  },
+  "FutSI": {
+    "1s": "obsequiaré",
+    "2s": "obsequiarás",
+    "3s": "obsequiará",
+    "1p": "obsequiaremos",
+    "2p": "obsequiaréis",
+    "3p": "obsequiarán"
+  },
+  "CondS": {
+    "1s": "obsequiaría",
+    "2s": "obsequiarías",
+    "3s": "obsequiaría",
+    "1p": "obsequiaríamos",
+    "2p": "obsequiaríais",
+    "3p": "obsequiarían"
+  },
+  "PresC": {
+    "1s": "obsequie",
+    "2s": "obsequies",
+    "3s": "obsequie",
+    "1p": "obsequiemos",
+    "2p": "obsequiéis",
+    "3p": "obsequien"
+  },
+  "PMQPSI": {
+    "1s": "obsequiara",
+    "2s": "obsequiaras",
+    "3s": "obsequiara",
+    "1p": "obsequiáramos",
+    "2p": "obsequiarais",
+    "3p": "obsequiaran"
+  },
+  "PImpC": {
+    "1s": "obsequiase",
+    "2s": "obsequiases",
+    "3s": "obsequiase",
+    "1p": "obsequiásemos",
+    "2p": "obsequiaseis",
+    "3p": "obsequiasen"
+  },
+  "FutSC": {
+    "1s": "obsequiare",
+    "2s": "obsequiares",
+    "3s": "obsequiare",
+    "1p": "obsequiáremos",
+    "2p": "obsequiareis",
+    "3p": "obsequiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "obsequia",
+    "3s": "obsequie",
+    "1p": "obsequiemos",
+    "2p": "obsequiad",
+    "3p": "obsequien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no obsequies",
+    "3s": "no obsequie",
+    "1p": "no obsequiemos",
+    "2p": "no obsequiéis",
+    "3p": "no obsequien"
+  },
+  "Part-ter": {
+    "": "obsequiado"
+  },
+  "Part-ser": {
+    "ms": "obsequiado",
+    "fs": "obsequiada",
+    "mp": "obsequiados",
+    "fp": "obsequiadas"
+  }
+}

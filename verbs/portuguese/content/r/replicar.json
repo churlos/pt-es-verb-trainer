@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "replicar"
+  },
+  "InfP": {
+    "1s": "replicar",
+    "2s": "replicares",
+    "3s": "replicar",
+    "1p": "replicarmos",
+    "2p": "replicardes",
+    "3p": "replicarem"
+  },
+  "Ger": {
+    "": "replicando"
+  },
+  "PresI": {
+    "1s": "replico",
+    "2s": "replicas",
+    "3s": "replica",
+    "1p": "replicamos",
+    "2p": "replicais",
+    "3p": "replicam"
+  },
+  "PImpI": {
+    "1s": "replicava",
+    "2s": "replicavas",
+    "3s": "replicava",
+    "1p": "replicávamos",
+    "2p": "replicáveis",
+    "3p": "replicavam"
+  },
+  "PPSI": {
+    "1s": "repliquei",
+    "2s": "replicaste",
+    "3s": "replicou",
+    "1p": "replicámos",
+    "2p": "replicastes",
+    "3p": "replicaram"
+  },
+  "PMQPSI": {
+    "1s": "replicara",
+    "2s": "replicaras",
+    "3s": "replicara",
+    "1p": "replicáramos",
+    "2p": "replicáreis",
+    "3p": "replicaram"
+  },
+  "FutSI": {
+    "1s": "replicarei",
+    "2s": "replicarás",
+    "3s": "replicará",
+    "1p": "replicaremos",
+    "2p": "replicareis",
+    "3p": "replicarão"
+  },
+  "CondS": {
+    "1s": "replicaria",
+    "2s": "replicarias",
+    "3s": "replicaria",
+    "1p": "replicaríamos",
+    "2p": "replicaríeis",
+    "3p": "replicariam"
+  },
+  "PresC": {
+    "1s": "replique",
+    "2s": "repliques",
+    "3s": "replique",
+    "1p": "repliquemos",
+    "2p": "repliqueis",
+    "3p": "repliquem"
+  },
+  "PImpC": {
+    "1s": "replicasse",
+    "2s": "replicasses",
+    "3s": "replicasse",
+    "1p": "replicássemos",
+    "2p": "replicásseis",
+    "3p": "replicassem"
+  },
+  "FutSC": {
+    "1s": "replicar",
+    "2s": "replicares",
+    "3s": "replicar",
+    "1p": "replicarmos",
+    "2p": "replicardes",
+    "3p": "replicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "replica",
+    "3s": "replique",
+    "1p": "repliquemos",
+    "2p": "replicai",
+    "3p": "repliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não repliques",
+    "3s": "não replique",
+    "1p": "não repliquemos",
+    "2p": "não repliqueis",
+    "3p": "não repliquem"
+  },
+  "Part-ter": {
+    "": "replicado"
+  },
+  "Part-ser": {
+    "ms": "replicado",
+    "fs": "replicada",
+    "mp": "replicados",
+    "fp": "replicadas"
+  }
+}

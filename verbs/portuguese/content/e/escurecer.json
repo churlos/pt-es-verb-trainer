@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escurecer"
+  },
+  "InfP": {
+    "1s": "escurecer",
+    "2s": "escureceres",
+    "3s": "escurecer",
+    "1p": "escurecermos",
+    "2p": "escurecerdes",
+    "3p": "escurecerem"
+  },
+  "Ger": {
+    "": "escurecendo"
+  },
+  "PresI": {
+    "1s": "escureço",
+    "2s": "escureces",
+    "3s": "escurece",
+    "1p": "escurecemos",
+    "2p": "escureceis",
+    "3p": "escurecem"
+  },
+  "PImpI": {
+    "1s": "escurecia",
+    "2s": "escurecias",
+    "3s": "escurecia",
+    "1p": "escurecíamos",
+    "2p": "escurecíeis",
+    "3p": "escureciam"
+  },
+  "PPSI": {
+    "1s": "escureci",
+    "2s": "escureceste",
+    "3s": "escureceu",
+    "1p": "escurecemos",
+    "2p": "escurecestes",
+    "3p": "escureceram"
+  },
+  "PMQPSI": {
+    "1s": "escurecera",
+    "2s": "escureceras",
+    "3s": "escurecera",
+    "1p": "escurecêramos",
+    "2p": "escurecêreis",
+    "3p": "escureceram"
+  },
+  "FutSI": {
+    "1s": "escurecerei",
+    "2s": "escurecerás",
+    "3s": "escurecerá",
+    "1p": "escureceremos",
+    "2p": "escurecereis",
+    "3p": "escurecerão"
+  },
+  "CondS": {
+    "1s": "escureceria",
+    "2s": "escurecerias",
+    "3s": "escureceria",
+    "1p": "escureceríamos",
+    "2p": "escureceríeis",
+    "3p": "escureceriam"
+  },
+  "PresC": {
+    "1s": "escureça",
+    "2s": "escureças",
+    "3s": "escureça",
+    "1p": "escureçamos",
+    "2p": "escureçais",
+    "3p": "escureçam"
+  },
+  "PImpC": {
+    "1s": "escurecesse",
+    "2s": "escurecesses",
+    "3s": "escurecesse",
+    "1p": "escurecêssemos",
+    "2p": "escurecêsseis",
+    "3p": "escurecessem"
+  },
+  "FutSC": {
+    "1s": "escurecer",
+    "2s": "escureceres",
+    "3s": "escurecer",
+    "1p": "escurecermos",
+    "2p": "escurecerdes",
+    "3p": "escurecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escurece",
+    "3s": "escureça",
+    "1p": "escureçamos",
+    "2p": "escurecei",
+    "3p": "escureçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escureças",
+    "3s": "não escureça",
+    "1p": "não escureçamos",
+    "2p": "não escureçais",
+    "3p": "não escureçam"
+  },
+  "Part-ter": {
+    "": "escurecido"
+  },
+  "Part-ser": {
+    "ms": "escurecido",
+    "fs": "escurecida",
+    "mp": "escurecidos",
+    "fp": "escurecidas"
+  }
+}

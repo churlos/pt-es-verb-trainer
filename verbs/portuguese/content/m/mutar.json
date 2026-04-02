@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mutar"
+  },
+  "InfP": {
+    "1s": "mutar",
+    "2s": "mutares",
+    "3s": "mutar",
+    "1p": "mutarmos",
+    "2p": "mutardes",
+    "3p": "mutarem"
+  },
+  "Ger": {
+    "": "mutando"
+  },
+  "PresI": {
+    "1s": "muto",
+    "2s": "mutas",
+    "3s": "muta",
+    "1p": "mutamos",
+    "2p": "mutais",
+    "3p": "mutam"
+  },
+  "PImpI": {
+    "1s": "mutava",
+    "2s": "mutavas",
+    "3s": "mutava",
+    "1p": "mutávamos",
+    "2p": "mutáveis",
+    "3p": "mutavam"
+  },
+  "PPSI": {
+    "1s": "mutei",
+    "2s": "mutaste",
+    "3s": "mutou",
+    "1p": "mutámos",
+    "2p": "mutastes",
+    "3p": "mutaram"
+  },
+  "PMQPSI": {
+    "1s": "mutara",
+    "2s": "mutaras",
+    "3s": "mutara",
+    "1p": "mutáramos",
+    "2p": "mutáreis",
+    "3p": "mutaram"
+  },
+  "FutSI": {
+    "1s": "mutarei",
+    "2s": "mutarás",
+    "3s": "mutará",
+    "1p": "mutaremos",
+    "2p": "mutareis",
+    "3p": "mutarão"
+  },
+  "CondS": {
+    "1s": "mutaria",
+    "2s": "mutarias",
+    "3s": "mutaria",
+    "1p": "mutaríamos",
+    "2p": "mutaríeis",
+    "3p": "mutariam"
+  },
+  "PresC": {
+    "1s": "mute",
+    "2s": "mutes",
+    "3s": "mute",
+    "1p": "mutemos",
+    "2p": "muteis",
+    "3p": "mutem"
+  },
+  "PImpC": {
+    "1s": "mutasse",
+    "2s": "mutasses",
+    "3s": "mutasse",
+    "1p": "mutássemos",
+    "2p": "mutásseis",
+    "3p": "mutassem"
+  },
+  "FutSC": {
+    "1s": "mutar",
+    "2s": "mutares",
+    "3s": "mutar",
+    "1p": "mutarmos",
+    "2p": "mutardes",
+    "3p": "mutarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "muta",
+    "3s": "mute",
+    "1p": "mutemos",
+    "2p": "mutai",
+    "3p": "mutem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mutes",
+    "3s": "não mute",
+    "1p": "não mutemos",
+    "2p": "não muteis",
+    "3p": "não mutem"
+  },
+  "Part-ter": {
+    "": "mutado"
+  },
+  "Part-ser": {
+    "ms": "mutado",
+    "fs": "mutada",
+    "mp": "mutados",
+    "fp": "mutadas"
+  }
+}

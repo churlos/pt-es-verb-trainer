@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "forzar"
+  },
+  "Ger": {
+    "": "forzando"
+  },
+  "PresI": {
+    "1s": "fuerzo",
+    "2s": "fuerzas",
+    "3s": "fuerza",
+    "1p": "forzamos",
+    "2p": "forzáis",
+    "3p": "fuerzan"
+  },
+  "PImpI": {
+    "1s": "forzaba",
+    "2s": "forzabas",
+    "3s": "forzaba",
+    "1p": "forzábamos",
+    "2p": "forzabais",
+    "3p": "forzaban"
+  },
+  "PPSI": {
+    "1s": "forcé",
+    "2s": "forzaste",
+    "3s": "forzó",
+    "1p": "forzamos",
+    "2p": "forzasteis",
+    "3p": "forzaron"
+  },
+  "FutSI": {
+    "1s": "forzaré",
+    "2s": "forzarás",
+    "3s": "forzará",
+    "1p": "forzaremos",
+    "2p": "forzaréis",
+    "3p": "forzarán"
+  },
+  "CondS": {
+    "1s": "forzaría",
+    "2s": "forzarías",
+    "3s": "forzaría",
+    "1p": "forzaríamos",
+    "2p": "forzaríais",
+    "3p": "forzarían"
+  },
+  "PresC": {
+    "1s": "fuerce",
+    "2s": "fuerces",
+    "3s": "fuerce",
+    "1p": "forcemos",
+    "2p": "forcéis",
+    "3p": "fuercen"
+  },
+  "PMQPSI": {
+    "1s": "forzara",
+    "2s": "forzaras",
+    "3s": "forzara",
+    "1p": "forzáramos",
+    "2p": "forzarais",
+    "3p": "forzaran"
+  },
+  "PImpC": {
+    "1s": "forzase",
+    "2s": "forzases",
+    "3s": "forzase",
+    "1p": "forzásemos",
+    "2p": "forzaseis",
+    "3p": "forzasen"
+  },
+  "FutSC": {
+    "1s": "forzare",
+    "2s": "forzares",
+    "3s": "forzare",
+    "1p": "forzáremos",
+    "2p": "forzareis",
+    "3p": "forzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fuerza",
+    "3s": "fuerce",
+    "1p": "forcemos",
+    "2p": "forzad",
+    "3p": "fuercen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fuerces",
+    "3s": "no fuerce",
+    "1p": "no forcemos",
+    "2p": "no forcéis",
+    "3p": "no fuercen"
+  },
+  "Part-ter": {
+    "": "forzado"
+  },
+  "Part-ser": {
+    "ms": "forzado",
+    "fs": "forzada",
+    "mp": "forzados",
+    "fp": "forzadas"
+  }
+}

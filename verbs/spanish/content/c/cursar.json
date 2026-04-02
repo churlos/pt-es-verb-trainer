@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cursar"
+  },
+  "Ger": {
+    "": "cursando"
+  },
+  "PresI": {
+    "1s": "curso",
+    "2s": "cursas",
+    "3s": "cursa",
+    "1p": "cursamos",
+    "2p": "cursáis",
+    "3p": "cursan"
+  },
+  "PImpI": {
+    "1s": "cursaba",
+    "2s": "cursabas",
+    "3s": "cursaba",
+    "1p": "cursábamos",
+    "2p": "cursabais",
+    "3p": "cursaban"
+  },
+  "PPSI": {
+    "1s": "cursé",
+    "2s": "cursaste",
+    "3s": "cursó",
+    "1p": "cursamos",
+    "2p": "cursasteis",
+    "3p": "cursaron"
+  },
+  "FutSI": {
+    "1s": "cursaré",
+    "2s": "cursarás",
+    "3s": "cursará",
+    "1p": "cursaremos",
+    "2p": "cursaréis",
+    "3p": "cursarán"
+  },
+  "CondS": {
+    "1s": "cursaría",
+    "2s": "cursarías",
+    "3s": "cursaría",
+    "1p": "cursaríamos",
+    "2p": "cursaríais",
+    "3p": "cursarían"
+  },
+  "PresC": {
+    "1s": "curse",
+    "2s": "curses",
+    "3s": "curse",
+    "1p": "cursemos",
+    "2p": "curséis",
+    "3p": "cursen"
+  },
+  "PMQPSI": {
+    "1s": "cursara",
+    "2s": "cursaras",
+    "3s": "cursara",
+    "1p": "cursáramos",
+    "2p": "cursarais",
+    "3p": "cursaran"
+  },
+  "PImpC": {
+    "1s": "cursase",
+    "2s": "cursases",
+    "3s": "cursase",
+    "1p": "cursásemos",
+    "2p": "cursaseis",
+    "3p": "cursasen"
+  },
+  "FutSC": {
+    "1s": "cursare",
+    "2s": "cursares",
+    "3s": "cursare",
+    "1p": "cursáremos",
+    "2p": "cursareis",
+    "3p": "cursaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cursa",
+    "3s": "curse",
+    "1p": "cursemos",
+    "2p": "cursad",
+    "3p": "cursen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no curses",
+    "3s": "no curse",
+    "1p": "no cursemos",
+    "2p": "no curséis",
+    "3p": "no cursen"
+  },
+  "Part-ter": {
+    "": "cursado"
+  },
+  "Part-ser": {
+    "ms": "cursado",
+    "fs": "cursada",
+    "mp": "cursados",
+    "fp": "cursadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "permitir"
+  },
+  "InfP": {
+    "1s": "permitir",
+    "2s": "permitires",
+    "3s": "permitir",
+    "1p": "permitirmos",
+    "2p": "permitirdes",
+    "3p": "permitirem"
+  },
+  "Ger": {
+    "": "permitindo"
+  },
+  "PresI": {
+    "1s": "permito",
+    "2s": "permites",
+    "3s": "permite",
+    "1p": "permitimos",
+    "2p": "permitis",
+    "3p": "permitem"
+  },
+  "PImpI": {
+    "1s": "permitia",
+    "2s": "permitias",
+    "3s": "permitia",
+    "1p": "permitíamos",
+    "2p": "permitíeis",
+    "3p": "permitiam"
+  },
+  "PPSI": {
+    "1s": "permiti",
+    "2s": "permitiste",
+    "3s": "permitiu",
+    "1p": "permitimos",
+    "2p": "permitistes",
+    "3p": "permitiram"
+  },
+  "PMQPSI": {
+    "1s": "permitira",
+    "2s": "permitiras",
+    "3s": "permitira",
+    "1p": "permitíramos",
+    "2p": "permitíreis",
+    "3p": "permitiram"
+  },
+  "FutSI": {
+    "1s": "permitirei",
+    "2s": "permitirás",
+    "3s": "permitirá",
+    "1p": "permitiremos",
+    "2p": "permitireis",
+    "3p": "permitirão"
+  },
+  "CondS": {
+    "1s": "permitiria",
+    "2s": "permitirias",
+    "3s": "permitiria",
+    "1p": "permitiríamos",
+    "2p": "permitiríeis",
+    "3p": "permitiriam"
+  },
+  "PresC": {
+    "1s": "permita",
+    "2s": "permitas",
+    "3s": "permita",
+    "1p": "permitamos",
+    "2p": "permitais",
+    "3p": "permitam"
+  },
+  "PImpC": {
+    "1s": "permitisse",
+    "2s": "permitisses",
+    "3s": "permitisse",
+    "1p": "permitíssemos",
+    "2p": "permitísseis",
+    "3p": "permitissem"
+  },
+  "FutSC": {
+    "1s": "permitir",
+    "2s": "permitires",
+    "3s": "permitir",
+    "1p": "permitirmos",
+    "2p": "permitirdes",
+    "3p": "permitirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "permite",
+    "3s": "permita",
+    "1p": "permitamos",
+    "2p": "permiti",
+    "3p": "permitam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não permitas",
+    "3s": "não permita",
+    "1p": "não permitamos",
+    "2p": "não permitais",
+    "3p": "não permitam"
+  },
+  "Part-ter": {
+    "": "permitido"
+  },
+  "Part-ser": {
+    "ms": "permitido",
+    "fs": "permitida",
+    "mp": "permitidos",
+    "fp": "permitidas"
+  }
+}

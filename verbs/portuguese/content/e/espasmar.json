@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espasmar"
+  },
+  "InfP": {
+    "1s": "espasmar",
+    "2s": "espasmares",
+    "3s": "espasmar",
+    "1p": "espasmarmos",
+    "2p": "espasmardes",
+    "3p": "espasmarem"
+  },
+  "Ger": {
+    "": "espasmando"
+  },
+  "PresI": {
+    "1s": "espasmo",
+    "2s": "espasmas",
+    "3s": "espasma",
+    "1p": "espasmamos",
+    "2p": "espasmais",
+    "3p": "espasmam"
+  },
+  "PImpI": {
+    "1s": "espasmava",
+    "2s": "espasmavas",
+    "3s": "espasmava",
+    "1p": "espasmávamos",
+    "2p": "espasmáveis",
+    "3p": "espasmavam"
+  },
+  "PPSI": {
+    "1s": "espasmei",
+    "2s": "espasmaste",
+    "3s": "espasmou",
+    "1p": "espasmámos",
+    "2p": "espasmastes",
+    "3p": "espasmaram"
+  },
+  "PMQPSI": {
+    "1s": "espasmara",
+    "2s": "espasmaras",
+    "3s": "espasmara",
+    "1p": "espasmáramos",
+    "2p": "espasmáreis",
+    "3p": "espasmaram"
+  },
+  "FutSI": {
+    "1s": "espasmarei",
+    "2s": "espasmarás",
+    "3s": "espasmará",
+    "1p": "espasmaremos",
+    "2p": "espasmareis",
+    "3p": "espasmarão"
+  },
+  "CondS": {
+    "1s": "espasmaria",
+    "2s": "espasmarias",
+    "3s": "espasmaria",
+    "1p": "espasmaríamos",
+    "2p": "espasmaríeis",
+    "3p": "espasmariam"
+  },
+  "PresC": {
+    "1s": "espasme",
+    "2s": "espasmes",
+    "3s": "espasme",
+    "1p": "espasmemos",
+    "2p": "espasmeis",
+    "3p": "espasmem"
+  },
+  "PImpC": {
+    "1s": "espasmasse",
+    "2s": "espasmasses",
+    "3s": "espasmasse",
+    "1p": "espasmássemos",
+    "2p": "espasmásseis",
+    "3p": "espasmassem"
+  },
+  "FutSC": {
+    "1s": "espasmar",
+    "2s": "espasmares",
+    "3s": "espasmar",
+    "1p": "espasmarmos",
+    "2p": "espasmardes",
+    "3p": "espasmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espasma",
+    "3s": "espasme",
+    "1p": "espasmemos",
+    "2p": "espasmai",
+    "3p": "espasmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espasmes",
+    "3s": "não espasme",
+    "1p": "não espasmemos",
+    "2p": "não espasmeis",
+    "3p": "não espasmem"
+  },
+  "Part-ter": {
+    "": "espasmado"
+  },
+  "Part-ser": {
+    "ms": "espasmado",
+    "fs": "espasmada",
+    "mp": "espasmados",
+    "fp": "espasmadas"
+  }
+}

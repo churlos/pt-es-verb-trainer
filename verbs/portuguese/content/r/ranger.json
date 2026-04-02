@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ranger"
+  },
+  "InfP": {
+    "1s": "ranger",
+    "2s": "rangeres",
+    "3s": "ranger",
+    "1p": "rangermos",
+    "2p": "rangerdes",
+    "3p": "rangerem"
+  },
+  "Ger": {
+    "": "rangendo"
+  },
+  "PresI": {
+    "1s": "ranjo",
+    "2s": "ranges",
+    "3s": "range",
+    "1p": "rangemos",
+    "2p": "rangeis",
+    "3p": "rangem"
+  },
+  "PImpI": {
+    "1s": "rangia",
+    "2s": "rangias",
+    "3s": "rangia",
+    "1p": "rangíamos",
+    "2p": "rangíeis",
+    "3p": "rangiam"
+  },
+  "PPSI": {
+    "1s": "rangi",
+    "2s": "rangeste",
+    "3s": "rangeu",
+    "1p": "rangemos",
+    "2p": "rangestes",
+    "3p": "rangeram"
+  },
+  "PMQPSI": {
+    "1s": "rangera",
+    "2s": "rangeras",
+    "3s": "rangera",
+    "1p": "rangêramos",
+    "2p": "rangêreis",
+    "3p": "rangeram"
+  },
+  "FutSI": {
+    "1s": "rangerei",
+    "2s": "rangerás",
+    "3s": "rangerá",
+    "1p": "rangeremos",
+    "2p": "rangereis",
+    "3p": "rangerão"
+  },
+  "CondS": {
+    "1s": "rangeria",
+    "2s": "rangerias",
+    "3s": "rangeria",
+    "1p": "rangeríamos",
+    "2p": "rangeríeis",
+    "3p": "rangeriam"
+  },
+  "PresC": {
+    "1s": "ranja",
+    "2s": "ranjas",
+    "3s": "ranja",
+    "1p": "ranjamos",
+    "2p": "ranjais",
+    "3p": "ranjam"
+  },
+  "PImpC": {
+    "1s": "rangesse",
+    "2s": "rangesses",
+    "3s": "rangesse",
+    "1p": "rangêssemos",
+    "2p": "rangêsseis",
+    "3p": "rangessem"
+  },
+  "FutSC": {
+    "1s": "ranger",
+    "2s": "rangeres",
+    "3s": "ranger",
+    "1p": "rangermos",
+    "2p": "rangerdes",
+    "3p": "rangerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "range",
+    "3s": "ranja",
+    "1p": "ranjamos",
+    "2p": "rangei",
+    "3p": "ranjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ranjas",
+    "3s": "não ranja",
+    "1p": "não ranjamos",
+    "2p": "não ranjais",
+    "3p": "não ranjam"
+  },
+  "Part-ter": {
+    "": "rangido"
+  },
+  "Part-ser": {
+    "ms": "rangido",
+    "fs": "rangida",
+    "mp": "rangidos",
+    "fp": "rangidas"
+  }
+}

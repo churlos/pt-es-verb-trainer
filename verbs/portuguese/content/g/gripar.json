@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gripar"
+  },
+  "InfP": {
+    "1s": "gripar",
+    "2s": "gripares",
+    "3s": "gripar",
+    "1p": "griparmos",
+    "2p": "gripardes",
+    "3p": "griparem"
+  },
+  "Ger": {
+    "": "gripando"
+  },
+  "PresI": {
+    "1s": "gripo",
+    "2s": "gripas",
+    "3s": "gripa",
+    "1p": "gripamos",
+    "2p": "gripais",
+    "3p": "gripam"
+  },
+  "PImpI": {
+    "1s": "gripava",
+    "2s": "gripavas",
+    "3s": "gripava",
+    "1p": "gripávamos",
+    "2p": "gripáveis",
+    "3p": "gripavam"
+  },
+  "PPSI": {
+    "1s": "gripei",
+    "2s": "gripaste",
+    "3s": "gripou",
+    "1p": "gripámos",
+    "2p": "gripastes",
+    "3p": "griparam"
+  },
+  "PMQPSI": {
+    "1s": "gripara",
+    "2s": "griparas",
+    "3s": "gripara",
+    "1p": "gripáramos",
+    "2p": "gripáreis",
+    "3p": "griparam"
+  },
+  "FutSI": {
+    "1s": "griparei",
+    "2s": "griparás",
+    "3s": "gripará",
+    "1p": "griparemos",
+    "2p": "gripareis",
+    "3p": "griparão"
+  },
+  "CondS": {
+    "1s": "griparia",
+    "2s": "griparias",
+    "3s": "griparia",
+    "1p": "griparíamos",
+    "2p": "griparíeis",
+    "3p": "gripariam"
+  },
+  "PresC": {
+    "1s": "gripe",
+    "2s": "gripes",
+    "3s": "gripe",
+    "1p": "gripemos",
+    "2p": "gripeis",
+    "3p": "gripem"
+  },
+  "PImpC": {
+    "1s": "gripasse",
+    "2s": "gripasses",
+    "3s": "gripasse",
+    "1p": "gripássemos",
+    "2p": "gripásseis",
+    "3p": "gripassem"
+  },
+  "FutSC": {
+    "1s": "gripar",
+    "2s": "gripares",
+    "3s": "gripar",
+    "1p": "griparmos",
+    "2p": "gripardes",
+    "3p": "griparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gripa",
+    "3s": "gripe",
+    "1p": "gripemos",
+    "2p": "gripai",
+    "3p": "gripem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gripes",
+    "3s": "não gripe",
+    "1p": "não gripemos",
+    "2p": "não gripeis",
+    "3p": "não gripem"
+  },
+  "Part-ter": {
+    "": "gripado"
+  },
+  "Part-ser": {
+    "ms": "gripado",
+    "fs": "gripada",
+    "mp": "gripados",
+    "fp": "gripadas"
+  }
+}

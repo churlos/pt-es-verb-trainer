@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "publicar"
+  },
+  "Ger": {
+    "": "publicando"
+  },
+  "PresI": {
+    "1s": "publico",
+    "2s": "publicas",
+    "3s": "publica",
+    "1p": "publicamos",
+    "2p": "publicáis",
+    "3p": "publican"
+  },
+  "PImpI": {
+    "1s": "publicaba",
+    "2s": "publicabas",
+    "3s": "publicaba",
+    "1p": "publicábamos",
+    "2p": "publicabais",
+    "3p": "publicaban"
+  },
+  "PPSI": {
+    "1s": "publiqué",
+    "2s": "publicaste",
+    "3s": "publicó",
+    "1p": "publicamos",
+    "2p": "publicasteis",
+    "3p": "publicaron"
+  },
+  "FutSI": {
+    "1s": "publicaré",
+    "2s": "publicarás",
+    "3s": "publicará",
+    "1p": "publicaremos",
+    "2p": "publicaréis",
+    "3p": "publicarán"
+  },
+  "CondS": {
+    "1s": "publicaría",
+    "2s": "publicarías",
+    "3s": "publicaría",
+    "1p": "publicaríamos",
+    "2p": "publicaríais",
+    "3p": "publicarían"
+  },
+  "PresC": {
+    "1s": "publique",
+    "2s": "publiques",
+    "3s": "publique",
+    "1p": "publiquemos",
+    "2p": "publiquéis",
+    "3p": "publiquen"
+  },
+  "PMQPSI": {
+    "1s": "publicara",
+    "2s": "publicaras",
+    "3s": "publicara",
+    "1p": "publicáramos",
+    "2p": "publicarais",
+    "3p": "publicaran"
+  },
+  "PImpC": {
+    "1s": "publicase",
+    "2s": "publicases",
+    "3s": "publicase",
+    "1p": "publicásemos",
+    "2p": "publicaseis",
+    "3p": "publicasen"
+  },
+  "FutSC": {
+    "1s": "publicare",
+    "2s": "publicares",
+    "3s": "publicare",
+    "1p": "publicáremos",
+    "2p": "publicareis",
+    "3p": "publicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "publica",
+    "3s": "publique",
+    "1p": "publiquemos",
+    "2p": "publicad",
+    "3p": "publiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no publiques",
+    "3s": "no publique",
+    "1p": "no publiquemos",
+    "2p": "no publiquéis",
+    "3p": "no publiquen"
+  },
+  "Part-ter": {
+    "": "publicado"
+  },
+  "Part-ser": {
+    "ms": "publicado",
+    "fs": "publicada",
+    "mp": "publicados",
+    "fp": "publicadas"
+  }
+}

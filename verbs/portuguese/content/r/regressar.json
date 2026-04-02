@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "regressar"
+  },
+  "InfP": {
+    "1s": "regressar",
+    "2s": "regressares",
+    "3s": "regressar",
+    "1p": "regressarmos",
+    "2p": "regressardes",
+    "3p": "regressarem"
+  },
+  "Ger": {
+    "": "regressando"
+  },
+  "PresI": {
+    "1s": "regresso",
+    "2s": "regressas",
+    "3s": "regressa",
+    "1p": "regressamos",
+    "2p": "regressais",
+    "3p": "regressam"
+  },
+  "PImpI": {
+    "1s": "regressava",
+    "2s": "regressavas",
+    "3s": "regressava",
+    "1p": "regressávamos",
+    "2p": "regressáveis",
+    "3p": "regressavam"
+  },
+  "PPSI": {
+    "1s": "regressei",
+    "2s": "regressaste",
+    "3s": "regressou",
+    "1p": "regressámos",
+    "2p": "regressastes",
+    "3p": "regressaram"
+  },
+  "PMQPSI": {
+    "1s": "regressara",
+    "2s": "regressaras",
+    "3s": "regressara",
+    "1p": "regressáramos",
+    "2p": "regressáreis",
+    "3p": "regressaram"
+  },
+  "FutSI": {
+    "1s": "regressarei",
+    "2s": "regressarás",
+    "3s": "regressará",
+    "1p": "regressaremos",
+    "2p": "regressareis",
+    "3p": "regressarão"
+  },
+  "CondS": {
+    "1s": "regressaria",
+    "2s": "regressarias",
+    "3s": "regressaria",
+    "1p": "regressaríamos",
+    "2p": "regressaríeis",
+    "3p": "regressariam"
+  },
+  "PresC": {
+    "1s": "regresse",
+    "2s": "regresses",
+    "3s": "regresse",
+    "1p": "regressemos",
+    "2p": "regresseis",
+    "3p": "regressem"
+  },
+  "PImpC": {
+    "1s": "regressasse",
+    "2s": "regressasses",
+    "3s": "regressasse",
+    "1p": "regressássemos",
+    "2p": "regressásseis",
+    "3p": "regressassem"
+  },
+  "FutSC": {
+    "1s": "regressar",
+    "2s": "regressares",
+    "3s": "regressar",
+    "1p": "regressarmos",
+    "2p": "regressardes",
+    "3p": "regressarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regressa",
+    "3s": "regresse",
+    "1p": "regressemos",
+    "2p": "regressai",
+    "3p": "regressem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não regresses",
+    "3s": "não regresse",
+    "1p": "não regressemos",
+    "2p": "não regresseis",
+    "3p": "não regressem"
+  },
+  "Part-ter": {
+    "": "regressado"
+  },
+  "Part-ser": {
+    "ms": "regressado",
+    "fs": "regressada",
+    "mp": "regressados",
+    "fp": "regressadas"
+  }
+}

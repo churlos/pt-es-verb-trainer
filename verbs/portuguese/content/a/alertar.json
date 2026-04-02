@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alertar"
+  },
+  "InfP": {
+    "1s": "alertar",
+    "2s": "alertares",
+    "3s": "alertar",
+    "1p": "alertarmos",
+    "2p": "alertardes",
+    "3p": "alertarem"
+  },
+  "Ger": {
+    "": "alertando"
+  },
+  "PresI": {
+    "1s": "alerto",
+    "2s": "alertas",
+    "3s": "alerta",
+    "1p": "alertamos",
+    "2p": "alertais",
+    "3p": "alertam"
+  },
+  "PImpI": {
+    "1s": "alertava",
+    "2s": "alertavas",
+    "3s": "alertava",
+    "1p": "alertávamos",
+    "2p": "alertáveis",
+    "3p": "alertavam"
+  },
+  "PPSI": {
+    "1s": "alertei",
+    "2s": "alertaste",
+    "3s": "alertou",
+    "1p": "alertámos",
+    "2p": "alertastes",
+    "3p": "alertaram"
+  },
+  "PMQPSI": {
+    "1s": "alertara",
+    "2s": "alertaras",
+    "3s": "alertara",
+    "1p": "alertáramos",
+    "2p": "alertáreis",
+    "3p": "alertaram"
+  },
+  "FutSI": {
+    "1s": "alertarei",
+    "2s": "alertarás",
+    "3s": "alertará",
+    "1p": "alertaremos",
+    "2p": "alertareis",
+    "3p": "alertarão"
+  },
+  "CondS": {
+    "1s": "alertaria",
+    "2s": "alertarias",
+    "3s": "alertaria",
+    "1p": "alertaríamos",
+    "2p": "alertaríeis",
+    "3p": "alertariam"
+  },
+  "PresC": {
+    "1s": "alerte",
+    "2s": "alertes",
+    "3s": "alerte",
+    "1p": "alertemos",
+    "2p": "alerteis",
+    "3p": "alertem"
+  },
+  "PImpC": {
+    "1s": "alertasse",
+    "2s": "alertasses",
+    "3s": "alertasse",
+    "1p": "alertássemos",
+    "2p": "alertásseis",
+    "3p": "alertassem"
+  },
+  "FutSC": {
+    "1s": "alertar",
+    "2s": "alertares",
+    "3s": "alertar",
+    "1p": "alertarmos",
+    "2p": "alertardes",
+    "3p": "alertarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alerta",
+    "3s": "alerte",
+    "1p": "alertemos",
+    "2p": "alertai",
+    "3p": "alertem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alertes",
+    "3s": "não alerte",
+    "1p": "não alertemos",
+    "2p": "não alerteis",
+    "3p": "não alertem"
+  },
+  "Part-ter": {
+    "": "alertado"
+  },
+  "Part-ser": {
+    "ms": "alertado",
+    "fs": "alertada",
+    "mp": "alertados",
+    "fp": "alertadas"
+  }
+}

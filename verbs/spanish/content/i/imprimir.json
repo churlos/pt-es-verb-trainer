@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "imprimir"
+  },
+  "Ger": {
+    "": "imprimiendo"
+  },
+  "PresI": {
+    "1s": "imprimo",
+    "2s": "imprimes",
+    "3s": "imprime",
+    "1p": "imprimimos",
+    "2p": "imprimís",
+    "3p": "imprimen"
+  },
+  "PImpI": {
+    "1s": "imprimía",
+    "2s": "imprimías",
+    "3s": "imprimía",
+    "1p": "imprimíamos",
+    "2p": "imprimíais",
+    "3p": "imprimían"
+  },
+  "PPSI": {
+    "1s": "imprimí",
+    "2s": "imprimiste",
+    "3s": "imprimió",
+    "1p": "imprimimos",
+    "2p": "imprimisteis",
+    "3p": "imprimieron"
+  },
+  "FutSI": {
+    "1s": "imprimiré",
+    "2s": "imprimirás",
+    "3s": "imprimirá",
+    "1p": "imprimiremos",
+    "2p": "imprimiréis",
+    "3p": "imprimirán"
+  },
+  "CondS": {
+    "1s": "imprimiría",
+    "2s": "imprimirías",
+    "3s": "imprimiría",
+    "1p": "imprimiríamos",
+    "2p": "imprimiríais",
+    "3p": "imprimirían"
+  },
+  "PresC": {
+    "1s": "imprima",
+    "2s": "imprimas",
+    "3s": "imprima",
+    "1p": "imprimamos",
+    "2p": "imprimáis",
+    "3p": "impriman"
+  },
+  "PMQPSI": {
+    "1s": "imprimiera",
+    "2s": "imprimieras",
+    "3s": "imprimiera",
+    "1p": "imprimiéramos",
+    "2p": "imprimierais",
+    "3p": "imprimieran"
+  },
+  "PImpC": {
+    "1s": "imprimiese",
+    "2s": "imprimieses",
+    "3s": "imprimiese",
+    "1p": "imprimiésemos",
+    "2p": "imprimieseis",
+    "3p": "imprimiesen"
+  },
+  "FutSC": {
+    "1s": "imprimiere",
+    "2s": "imprimieres",
+    "3s": "imprimiere",
+    "1p": "imprimiéremos",
+    "2p": "imprimiereis",
+    "3p": "imprimieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imprime",
+    "3s": "imprima",
+    "1p": "imprimamos",
+    "2p": "imprimid",
+    "3p": "impriman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no imprimas",
+    "3s": "no imprima",
+    "1p": "no imprimamos",
+    "2p": "no imprimáis",
+    "3p": "no impriman"
+  },
+  "Part-ter": {
+    "": "impreso, imprimido"
+  },
+  "Part-ser": {
+    "ms": "impreso, imprimido",
+    "fs": "impresa, imprimida",
+    "mp": "impresos, imprimidos",
+    "fp": "impresas, imprimidas"
+  }
+}

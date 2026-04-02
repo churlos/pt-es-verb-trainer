@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "destrancar"
+  },
+  "InfP": {
+    "1s": "destrancar",
+    "2s": "destrancares",
+    "3s": "destrancar",
+    "1p": "destrancarmos",
+    "2p": "destrancardes",
+    "3p": "destrancarem"
+  },
+  "Ger": {
+    "": "destrancando"
+  },
+  "PresI": {
+    "1s": "destranco",
+    "2s": "destrancas",
+    "3s": "destranca",
+    "1p": "destrancamos",
+    "2p": "destrancais",
+    "3p": "destrancam"
+  },
+  "PImpI": {
+    "1s": "destrancava",
+    "2s": "destrancavas",
+    "3s": "destrancava",
+    "1p": "destrancávamos",
+    "2p": "destrancáveis",
+    "3p": "destrancavam"
+  },
+  "PPSI": {
+    "1s": "destranquei",
+    "2s": "destrancaste",
+    "3s": "destrancou",
+    "1p": "destrancámos",
+    "2p": "destrancastes",
+    "3p": "destrancaram"
+  },
+  "PMQPSI": {
+    "1s": "destrancara",
+    "2s": "destrancaras",
+    "3s": "destrancara",
+    "1p": "destrancáramos",
+    "2p": "destrancáreis",
+    "3p": "destrancaram"
+  },
+  "FutSI": {
+    "1s": "destrancarei",
+    "2s": "destrancarás",
+    "3s": "destrancará",
+    "1p": "destrancaremos",
+    "2p": "destrancareis",
+    "3p": "destrancarão"
+  },
+  "CondS": {
+    "1s": "destrancaria",
+    "2s": "destrancarias",
+    "3s": "destrancaria",
+    "1p": "destrancaríamos",
+    "2p": "destrancaríeis",
+    "3p": "destrancariam"
+  },
+  "PresC": {
+    "1s": "destranque",
+    "2s": "destranques",
+    "3s": "destranque",
+    "1p": "destranquemos",
+    "2p": "destranqueis",
+    "3p": "destranquem"
+  },
+  "PImpC": {
+    "1s": "destrancasse",
+    "2s": "destrancasses",
+    "3s": "destrancasse",
+    "1p": "destrancássemos",
+    "2p": "destrancásseis",
+    "3p": "destrancassem"
+  },
+  "FutSC": {
+    "1s": "destrancar",
+    "2s": "destrancares",
+    "3s": "destrancar",
+    "1p": "destrancarmos",
+    "2p": "destrancardes",
+    "3p": "destrancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destranca",
+    "3s": "destranque",
+    "1p": "destranquemos",
+    "2p": "destrancai",
+    "3p": "destranquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não destranques",
+    "3s": "não destranque",
+    "1p": "não destranquemos",
+    "2p": "não destranqueis",
+    "3p": "não destranquem"
+  },
+  "Part-ter": {
+    "": "destrancado"
+  },
+  "Part-ser": {
+    "ms": "destrancado",
+    "fs": "destrancada",
+    "mp": "destrancados",
+    "fp": "destrancadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "priorizar"
+  },
+  "InfP": {
+    "1s": "priorizar",
+    "2s": "priorizares",
+    "3s": "priorizar",
+    "1p": "priorizarmos",
+    "2p": "priorizardes",
+    "3p": "priorizarem"
+  },
+  "Ger": {
+    "": "priorizando"
+  },
+  "PresI": {
+    "1s": "priorizo",
+    "2s": "priorizas",
+    "3s": "prioriza",
+    "1p": "priorizamos",
+    "2p": "priorizais",
+    "3p": "priorizam"
+  },
+  "PImpI": {
+    "1s": "priorizava",
+    "2s": "priorizavas",
+    "3s": "priorizava",
+    "1p": "priorizávamos",
+    "2p": "priorizáveis",
+    "3p": "priorizavam"
+  },
+  "PPSI": {
+    "1s": "priorizei",
+    "2s": "priorizaste",
+    "3s": "priorizou",
+    "1p": "priorizámos",
+    "2p": "priorizastes",
+    "3p": "priorizaram"
+  },
+  "PMQPSI": {
+    "1s": "priorizara",
+    "2s": "priorizaras",
+    "3s": "priorizara",
+    "1p": "priorizáramos",
+    "2p": "priorizáreis",
+    "3p": "priorizaram"
+  },
+  "FutSI": {
+    "1s": "priorizarei",
+    "2s": "priorizarás",
+    "3s": "priorizará",
+    "1p": "priorizaremos",
+    "2p": "priorizareis",
+    "3p": "priorizarão"
+  },
+  "CondS": {
+    "1s": "priorizaria",
+    "2s": "priorizarias",
+    "3s": "priorizaria",
+    "1p": "priorizaríamos",
+    "2p": "priorizaríeis",
+    "3p": "priorizariam"
+  },
+  "PresC": {
+    "1s": "priorize",
+    "2s": "priorizes",
+    "3s": "priorize",
+    "1p": "priorizemos",
+    "2p": "priorizeis",
+    "3p": "priorizem"
+  },
+  "PImpC": {
+    "1s": "priorizasse",
+    "2s": "priorizasses",
+    "3s": "priorizasse",
+    "1p": "priorizássemos",
+    "2p": "priorizásseis",
+    "3p": "priorizassem"
+  },
+  "FutSC": {
+    "1s": "priorizar",
+    "2s": "priorizares",
+    "3s": "priorizar",
+    "1p": "priorizarmos",
+    "2p": "priorizardes",
+    "3p": "priorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prioriza",
+    "3s": "priorize",
+    "1p": "priorizemos",
+    "2p": "priorizai",
+    "3p": "priorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não priorizes",
+    "3s": "não priorize",
+    "1p": "não priorizemos",
+    "2p": "não priorizeis",
+    "3p": "não priorizem"
+  },
+  "Part-ter": {
+    "": "priorizado"
+  },
+  "Part-ser": {
+    "ms": "priorizado",
+    "fs": "priorizada",
+    "mp": "priorizados",
+    "fp": "priorizadas"
+  }
+}

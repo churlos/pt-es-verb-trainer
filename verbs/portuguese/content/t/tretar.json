@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tretar"
+  },
+  "InfP": {
+    "1s": "tretar",
+    "2s": "tretares",
+    "3s": "tretar",
+    "1p": "tretarmos",
+    "2p": "tretardes",
+    "3p": "tretarem"
+  },
+  "Ger": {
+    "": "tretando"
+  },
+  "PresI": {
+    "1s": "treto",
+    "2s": "tretas",
+    "3s": "treta",
+    "1p": "tretamos",
+    "2p": "tretais",
+    "3p": "tretam"
+  },
+  "PImpI": {
+    "1s": "tretava",
+    "2s": "tretavas",
+    "3s": "tretava",
+    "1p": "tretávamos",
+    "2p": "tretáveis",
+    "3p": "tretavam"
+  },
+  "PPSI": {
+    "1s": "tretei",
+    "2s": "tretaste",
+    "3s": "tretou",
+    "1p": "tretámos",
+    "2p": "tretastes",
+    "3p": "tretaram"
+  },
+  "PMQPSI": {
+    "1s": "tretara",
+    "2s": "tretaras",
+    "3s": "tretara",
+    "1p": "tretáramos",
+    "2p": "tretáreis",
+    "3p": "tretaram"
+  },
+  "FutSI": {
+    "1s": "tretarei",
+    "2s": "tretarás",
+    "3s": "tretará",
+    "1p": "tretaremos",
+    "2p": "tretareis",
+    "3p": "tretarão"
+  },
+  "CondS": {
+    "1s": "tretaria",
+    "2s": "tretarias",
+    "3s": "tretaria",
+    "1p": "tretaríamos",
+    "2p": "tretaríeis",
+    "3p": "tretariam"
+  },
+  "PresC": {
+    "1s": "trete",
+    "2s": "tretes",
+    "3s": "trete",
+    "1p": "tretemos",
+    "2p": "treteis",
+    "3p": "tretem"
+  },
+  "PImpC": {
+    "1s": "tretasse",
+    "2s": "tretasses",
+    "3s": "tretasse",
+    "1p": "tretássemos",
+    "2p": "tretásseis",
+    "3p": "tretassem"
+  },
+  "FutSC": {
+    "1s": "tretar",
+    "2s": "tretares",
+    "3s": "tretar",
+    "1p": "tretarmos",
+    "2p": "tretardes",
+    "3p": "tretarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "treta",
+    "3s": "trete",
+    "1p": "tretemos",
+    "2p": "tretai",
+    "3p": "tretem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tretes",
+    "3s": "não trete",
+    "1p": "não tretemos",
+    "2p": "não treteis",
+    "3p": "não tretem"
+  },
+  "Part-ter": {
+    "": "tretado"
+  },
+  "Part-ser": {
+    "ms": "tretado",
+    "fs": "tretada",
+    "mp": "tretados",
+    "fp": "tretadas"
+  }
+}

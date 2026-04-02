@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agarrar"
+  },
+  "InfP": {
+    "1s": "agarrar",
+    "2s": "agarrares",
+    "3s": "agarrar",
+    "1p": "agarrarmos",
+    "2p": "agarrardes",
+    "3p": "agarrarem"
+  },
+  "Ger": {
+    "": "agarrando"
+  },
+  "PresI": {
+    "1s": "agarro",
+    "2s": "agarras",
+    "3s": "agarra",
+    "1p": "agarramos",
+    "2p": "agarrais",
+    "3p": "agarram"
+  },
+  "PImpI": {
+    "1s": "agarrava",
+    "2s": "agarravas",
+    "3s": "agarrava",
+    "1p": "agarrávamos",
+    "2p": "agarráveis",
+    "3p": "agarravam"
+  },
+  "PPSI": {
+    "1s": "agarrei",
+    "2s": "agarraste",
+    "3s": "agarrou",
+    "1p": "agarrámos",
+    "2p": "agarrastes",
+    "3p": "agarraram"
+  },
+  "PMQPSI": {
+    "1s": "agarrara",
+    "2s": "agarraras",
+    "3s": "agarrara",
+    "1p": "agarráramos",
+    "2p": "agarráreis",
+    "3p": "agarraram"
+  },
+  "FutSI": {
+    "1s": "agarrarei",
+    "2s": "agarrarás",
+    "3s": "agarrará",
+    "1p": "agarraremos",
+    "2p": "agarrareis",
+    "3p": "agarrarão"
+  },
+  "CondS": {
+    "1s": "agarraria",
+    "2s": "agarrarias",
+    "3s": "agarraria",
+    "1p": "agarraríamos",
+    "2p": "agarraríeis",
+    "3p": "agarrariam"
+  },
+  "PresC": {
+    "1s": "agarre",
+    "2s": "agarres",
+    "3s": "agarre",
+    "1p": "agarremos",
+    "2p": "agarreis",
+    "3p": "agarrem"
+  },
+  "PImpC": {
+    "1s": "agarrasse",
+    "2s": "agarrasses",
+    "3s": "agarrasse",
+    "1p": "agarrássemos",
+    "2p": "agarrásseis",
+    "3p": "agarrassem"
+  },
+  "FutSC": {
+    "1s": "agarrar",
+    "2s": "agarrares",
+    "3s": "agarrar",
+    "1p": "agarrarmos",
+    "2p": "agarrardes",
+    "3p": "agarrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agarra",
+    "3s": "agarre",
+    "1p": "agarremos",
+    "2p": "agarrai",
+    "3p": "agarrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agarres",
+    "3s": "não agarre",
+    "1p": "não agarremos",
+    "2p": "não agarreis",
+    "3p": "não agarrem"
+  },
+  "Part-ter": {
+    "": "agarrado"
+  },
+  "Part-ser": {
+    "ms": "agarrado",
+    "fs": "agarrada",
+    "mp": "agarrados",
+    "fp": "agarradas"
+  }
+}

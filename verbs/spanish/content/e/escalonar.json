@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escalonar"
+  },
+  "Ger": {
+    "": "escalonando"
+  },
+  "PresI": {
+    "1s": "escalono",
+    "2s": "escalonas",
+    "3s": "escalona",
+    "1p": "escalonamos",
+    "2p": "escalonáis",
+    "3p": "escalonan"
+  },
+  "PImpI": {
+    "1s": "escalonaba",
+    "2s": "escalonabas",
+    "3s": "escalonaba",
+    "1p": "escalonábamos",
+    "2p": "escalonabais",
+    "3p": "escalonaban"
+  },
+  "PPSI": {
+    "1s": "escaloné",
+    "2s": "escalonaste",
+    "3s": "escalonó",
+    "1p": "escalonamos",
+    "2p": "escalonasteis",
+    "3p": "escalonaron"
+  },
+  "FutSI": {
+    "1s": "escalonaré",
+    "2s": "escalonarás",
+    "3s": "escalonará",
+    "1p": "escalonaremos",
+    "2p": "escalonaréis",
+    "3p": "escalonarán"
+  },
+  "CondS": {
+    "1s": "escalonaría",
+    "2s": "escalonarías",
+    "3s": "escalonaría",
+    "1p": "escalonaríamos",
+    "2p": "escalonaríais",
+    "3p": "escalonarían"
+  },
+  "PresC": {
+    "1s": "escalone",
+    "2s": "escalones",
+    "3s": "escalone",
+    "1p": "escalonemos",
+    "2p": "escalonéis",
+    "3p": "escalonen"
+  },
+  "PMQPSI": {
+    "1s": "escalonara",
+    "2s": "escalonaras",
+    "3s": "escalonara",
+    "1p": "escalonáramos",
+    "2p": "escalonarais",
+    "3p": "escalonaran"
+  },
+  "PImpC": {
+    "1s": "escalonase",
+    "2s": "escalonases",
+    "3s": "escalonase",
+    "1p": "escalonásemos",
+    "2p": "escalonaseis",
+    "3p": "escalonasen"
+  },
+  "FutSC": {
+    "1s": "escalonare",
+    "2s": "escalonares",
+    "3s": "escalonare",
+    "1p": "escalonáremos",
+    "2p": "escalonareis",
+    "3p": "escalonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escalona",
+    "3s": "escalone",
+    "1p": "escalonemos",
+    "2p": "escalonad",
+    "3p": "escalonen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escalones",
+    "3s": "no escalone",
+    "1p": "no escalonemos",
+    "2p": "no escalonéis",
+    "3p": "no escalonen"
+  },
+  "Part-ter": {
+    "": "escalonado"
+  },
+  "Part-ser": {
+    "ms": "escalonado",
+    "fs": "escalonada",
+    "mp": "escalonados",
+    "fp": "escalonadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "versionar"
+  },
+  "Ger": {
+    "": "versionando"
+  },
+  "PresI": {
+    "1s": "versiono",
+    "2s": "versionas",
+    "3s": "versiona",
+    "1p": "versionamos",
+    "2p": "versionáis",
+    "3p": "versionan"
+  },
+  "PImpI": {
+    "1s": "versionaba",
+    "2s": "versionabas",
+    "3s": "versionaba",
+    "1p": "versionábamos",
+    "2p": "versionabais",
+    "3p": "versionaban"
+  },
+  "PPSI": {
+    "1s": "versioné",
+    "2s": "versionaste",
+    "3s": "versionó",
+    "1p": "versionamos",
+    "2p": "versionasteis",
+    "3p": "versionaron"
+  },
+  "FutSI": {
+    "1s": "versionaré",
+    "2s": "versionarás",
+    "3s": "versionará",
+    "1p": "versionaremos",
+    "2p": "versionaréis",
+    "3p": "versionarán"
+  },
+  "CondS": {
+    "1s": "versionaría",
+    "2s": "versionarías",
+    "3s": "versionaría",
+    "1p": "versionaríamos",
+    "2p": "versionaríais",
+    "3p": "versionarían"
+  },
+  "PresC": {
+    "1s": "versione",
+    "2s": "versiones",
+    "3s": "versione",
+    "1p": "versionemos",
+    "2p": "versionéis",
+    "3p": "versionen"
+  },
+  "PMQPSI": {
+    "1s": "versionara",
+    "2s": "versionaras",
+    "3s": "versionara",
+    "1p": "versionáramos",
+    "2p": "versionarais",
+    "3p": "versionaran"
+  },
+  "PImpC": {
+    "1s": "versionase",
+    "2s": "versionases",
+    "3s": "versionase",
+    "1p": "versionásemos",
+    "2p": "versionaseis",
+    "3p": "versionasen"
+  },
+  "FutSC": {
+    "1s": "versionare",
+    "2s": "versionares",
+    "3s": "versionare",
+    "1p": "versionáremos",
+    "2p": "versionareis",
+    "3p": "versionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "versiona",
+    "3s": "versione",
+    "1p": "versionemos",
+    "2p": "versionad",
+    "3p": "versionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no versiones",
+    "3s": "no versione",
+    "1p": "no versionemos",
+    "2p": "no versionéis",
+    "3p": "no versionen"
+  },
+  "Part-ter": {
+    "": "versionado"
+  },
+  "Part-ser": {
+    "ms": "versionado",
+    "fs": "versionada",
+    "mp": "versionados",
+    "fp": "versionadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "apagar"
+  },
+  "InfP": {
+    "1s": "apagar",
+    "2s": "apagares",
+    "3s": "apagar",
+    "1p": "apagarmos",
+    "2p": "apagardes",
+    "3p": "apagarem"
+  },
+  "Ger": {
+    "": "apagando"
+  },
+  "PresI": {
+    "1s": "apago",
+    "2s": "apagas",
+    "3s": "apaga",
+    "1p": "apagamos",
+    "2p": "apagais",
+    "3p": "apagam"
+  },
+  "PImpI": {
+    "1s": "apagava",
+    "2s": "apagavas",
+    "3s": "apagava",
+    "1p": "apagávamos",
+    "2p": "apagáveis",
+    "3p": "apagavam"
+  },
+  "PPSI": {
+    "1s": "apaguei",
+    "2s": "apagaste",
+    "3s": "apagou",
+    "1p": "apagámos",
+    "2p": "apagastes",
+    "3p": "apagaram"
+  },
+  "PMQPSI": {
+    "1s": "apagara",
+    "2s": "apagaras",
+    "3s": "apagara",
+    "1p": "apagáramos",
+    "2p": "apagáreis",
+    "3p": "apagaram"
+  },
+  "FutSI": {
+    "1s": "apagarei",
+    "2s": "apagarás",
+    "3s": "apagará",
+    "1p": "apagaremos",
+    "2p": "apagareis",
+    "3p": "apagarão"
+  },
+  "CondS": {
+    "1s": "apagaria",
+    "2s": "apagarias",
+    "3s": "apagaria",
+    "1p": "apagaríamos",
+    "2p": "apagaríeis",
+    "3p": "apagariam"
+  },
+  "PresC": {
+    "1s": "apague",
+    "2s": "apagues",
+    "3s": "apague",
+    "1p": "apaguemos",
+    "2p": "apagueis",
+    "3p": "apaguem"
+  },
+  "PImpC": {
+    "1s": "apagasse",
+    "2s": "apagasses",
+    "3s": "apagasse",
+    "1p": "apagássemos",
+    "2p": "apagásseis",
+    "3p": "apagassem"
+  },
+  "FutSC": {
+    "1s": "apagar",
+    "2s": "apagares",
+    "3s": "apagar",
+    "1p": "apagarmos",
+    "2p": "apagardes",
+    "3p": "apagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apaga",
+    "3s": "apague",
+    "1p": "apaguemos",
+    "2p": "apagai",
+    "3p": "apaguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apagues",
+    "3s": "não apague",
+    "1p": "não apaguemos",
+    "2p": "não apagueis",
+    "3p": "não apaguem"
+  },
+  "Part-ter": {
+    "": "apagado"
+  },
+  "Part-ser": {
+    "ms": "apagado",
+    "fs": "apagada",
+    "mp": "apagados",
+    "fp": "apagadas"
+  }
+}

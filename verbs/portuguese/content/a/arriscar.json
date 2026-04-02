@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arriscar"
+  },
+  "InfP": {
+    "1s": "arriscar",
+    "2s": "arriscares",
+    "3s": "arriscar",
+    "1p": "arriscarmos",
+    "2p": "arriscardes",
+    "3p": "arriscarem"
+  },
+  "Ger": {
+    "": "arriscando"
+  },
+  "PresI": {
+    "1s": "arrisco",
+    "2s": "arriscas",
+    "3s": "arrisca",
+    "1p": "arriscamos",
+    "2p": "arriscais",
+    "3p": "arriscam"
+  },
+  "PImpI": {
+    "1s": "arriscava",
+    "2s": "arriscavas",
+    "3s": "arriscava",
+    "1p": "arriscávamos",
+    "2p": "arriscáveis",
+    "3p": "arriscavam"
+  },
+  "PPSI": {
+    "1s": "arrisquei",
+    "2s": "arriscaste",
+    "3s": "arriscou",
+    "1p": "arriscámos",
+    "2p": "arriscastes",
+    "3p": "arriscaram"
+  },
+  "PMQPSI": {
+    "1s": "arriscara",
+    "2s": "arriscaras",
+    "3s": "arriscara",
+    "1p": "arriscáramos",
+    "2p": "arriscáreis",
+    "3p": "arriscaram"
+  },
+  "FutSI": {
+    "1s": "arriscarei",
+    "2s": "arriscarás",
+    "3s": "arriscará",
+    "1p": "arriscaremos",
+    "2p": "arriscareis",
+    "3p": "arriscarão"
+  },
+  "CondS": {
+    "1s": "arriscaria",
+    "2s": "arriscarias",
+    "3s": "arriscaria",
+    "1p": "arriscaríamos",
+    "2p": "arriscaríeis",
+    "3p": "arriscariam"
+  },
+  "PresC": {
+    "1s": "arrisque",
+    "2s": "arrisques",
+    "3s": "arrisque",
+    "1p": "arrisquemos",
+    "2p": "arrisqueis",
+    "3p": "arrisquem"
+  },
+  "PImpC": {
+    "1s": "arriscasse",
+    "2s": "arriscasses",
+    "3s": "arriscasse",
+    "1p": "arriscássemos",
+    "2p": "arriscásseis",
+    "3p": "arriscassem"
+  },
+  "FutSC": {
+    "1s": "arriscar",
+    "2s": "arriscares",
+    "3s": "arriscar",
+    "1p": "arriscarmos",
+    "2p": "arriscardes",
+    "3p": "arriscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arrisca",
+    "3s": "arrisque",
+    "1p": "arrisquemos",
+    "2p": "arriscai",
+    "3p": "arrisquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arrisques",
+    "3s": "não arrisque",
+    "1p": "não arrisquemos",
+    "2p": "não arrisqueis",
+    "3p": "não arrisquem"
+  },
+  "Part-ter": {
+    "": "arriscado"
+  },
+  "Part-ser": {
+    "ms": "arriscado",
+    "fs": "arriscada",
+    "mp": "arriscados",
+    "fp": "arriscadas"
+  }
+}

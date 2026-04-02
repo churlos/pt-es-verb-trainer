@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prefabricar"
+  },
+  "InfP": {
+    "1s": "prefabricar",
+    "2s": "prefabricares",
+    "3s": "prefabricar",
+    "1p": "prefabricarmos",
+    "2p": "prefabricardes",
+    "3p": "prefabricarem"
+  },
+  "Ger": {
+    "": "prefabricando"
+  },
+  "PresI": {
+    "1s": "prefabrico",
+    "2s": "prefabricas",
+    "3s": "prefabrica",
+    "1p": "prefabricamos",
+    "2p": "prefabricais",
+    "3p": "prefabricam"
+  },
+  "PImpI": {
+    "1s": "prefabricava",
+    "2s": "prefabricavas",
+    "3s": "prefabricava",
+    "1p": "prefabricávamos",
+    "2p": "prefabricáveis",
+    "3p": "prefabricavam"
+  },
+  "PPSI": {
+    "1s": "prefabriquei",
+    "2s": "prefabricaste",
+    "3s": "prefabricou",
+    "1p": "prefabricámos",
+    "2p": "prefabricastes",
+    "3p": "prefabricaram"
+  },
+  "PMQPSI": {
+    "1s": "prefabricara",
+    "2s": "prefabricaras",
+    "3s": "prefabricara",
+    "1p": "prefabricáramos",
+    "2p": "prefabricáreis",
+    "3p": "prefabricaram"
+  },
+  "FutSI": {
+    "1s": "prefabricarei",
+    "2s": "prefabricarás",
+    "3s": "prefabricará",
+    "1p": "prefabricaremos",
+    "2p": "prefabricareis",
+    "3p": "prefabricarão"
+  },
+  "CondS": {
+    "1s": "prefabricaria",
+    "2s": "prefabricarias",
+    "3s": "prefabricaria",
+    "1p": "prefabricaríamos",
+    "2p": "prefabricaríeis",
+    "3p": "prefabricariam"
+  },
+  "PresC": {
+    "1s": "prefabrique",
+    "2s": "prefabriques",
+    "3s": "prefabrique",
+    "1p": "prefabriquemos",
+    "2p": "prefabriqueis",
+    "3p": "prefabriquem"
+  },
+  "PImpC": {
+    "1s": "prefabricasse",
+    "2s": "prefabricasses",
+    "3s": "prefabricasse",
+    "1p": "prefabricássemos",
+    "2p": "prefabricásseis",
+    "3p": "prefabricassem"
+  },
+  "FutSC": {
+    "1s": "prefabricar",
+    "2s": "prefabricares",
+    "3s": "prefabricar",
+    "1p": "prefabricarmos",
+    "2p": "prefabricardes",
+    "3p": "prefabricarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prefabrica",
+    "3s": "prefabrique",
+    "1p": "prefabriquemos",
+    "2p": "prefabricai",
+    "3p": "prefabriquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prefabriques",
+    "3s": "não prefabrique",
+    "1p": "não prefabriquemos",
+    "2p": "não prefabriqueis",
+    "3p": "não prefabriquem"
+  },
+  "Part-ter": {
+    "": "prefabricado"
+  },
+  "Part-ser": {
+    "ms": "prefabricado",
+    "fs": "prefabricada",
+    "mp": "prefabricados",
+    "fp": "prefabricadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "deprecar"
+  },
+  "Ger": {
+    "": "deprecando"
+  },
+  "PresI": {
+    "1s": "depreco",
+    "2s": "deprecas",
+    "3s": "depreca",
+    "1p": "deprecamos",
+    "2p": "deprecáis",
+    "3p": "deprecan"
+  },
+  "PImpI": {
+    "1s": "deprecaba",
+    "2s": "deprecabas",
+    "3s": "deprecaba",
+    "1p": "deprecábamos",
+    "2p": "deprecabais",
+    "3p": "deprecaban"
+  },
+  "PPSI": {
+    "1s": "deprequé",
+    "2s": "deprecaste",
+    "3s": "deprecó",
+    "1p": "deprecamos",
+    "2p": "deprecasteis",
+    "3p": "deprecaron"
+  },
+  "FutSI": {
+    "1s": "deprecaré",
+    "2s": "deprecarás",
+    "3s": "deprecará",
+    "1p": "deprecaremos",
+    "2p": "deprecaréis",
+    "3p": "deprecarán"
+  },
+  "CondS": {
+    "1s": "deprecaría",
+    "2s": "deprecarías",
+    "3s": "deprecaría",
+    "1p": "deprecaríamos",
+    "2p": "deprecaríais",
+    "3p": "deprecarían"
+  },
+  "PresC": {
+    "1s": "depreque",
+    "2s": "depreques",
+    "3s": "depreque",
+    "1p": "deprequemos",
+    "2p": "deprequéis",
+    "3p": "deprequen"
+  },
+  "PMQPSI": {
+    "1s": "deprecara",
+    "2s": "deprecaras",
+    "3s": "deprecara",
+    "1p": "deprecáramos",
+    "2p": "deprecarais",
+    "3p": "deprecaran"
+  },
+  "PImpC": {
+    "1s": "deprecase",
+    "2s": "deprecases",
+    "3s": "deprecase",
+    "1p": "deprecásemos",
+    "2p": "deprecaseis",
+    "3p": "deprecasen"
+  },
+  "FutSC": {
+    "1s": "deprecare",
+    "2s": "deprecares",
+    "3s": "deprecare",
+    "1p": "deprecáremos",
+    "2p": "deprecareis",
+    "3p": "deprecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "depreca",
+    "3s": "depreque",
+    "1p": "deprequemos",
+    "2p": "deprecad",
+    "3p": "deprequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no depreques",
+    "3s": "no depreque",
+    "1p": "no deprequemos",
+    "2p": "no deprequéis",
+    "3p": "no deprequen"
+  },
+  "Part-ter": {
+    "": "deprecado"
+  },
+  "Part-ser": {
+    "ms": "deprecado",
+    "fs": "deprecada",
+    "mp": "deprecados",
+    "fp": "deprecadas"
+  }
+}

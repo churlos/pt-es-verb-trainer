@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "remoldear"
+  },
+  "Ger": {
+    "": "remoldeando"
+  },
+  "PresI": {
+    "1s": "remoldeo",
+    "2s": "remoldeas",
+    "3s": "remoldea",
+    "1p": "remoldeamos",
+    "2p": "remoldeáis",
+    "3p": "remoldean"
+  },
+  "PImpI": {
+    "1s": "remoldeaba",
+    "2s": "remoldeabas",
+    "3s": "remoldeaba",
+    "1p": "remoldeábamos",
+    "2p": "remoldeabais",
+    "3p": "remoldeaban"
+  },
+  "PPSI": {
+    "1s": "remoldeé",
+    "2s": "remoldeaste",
+    "3s": "remoldeó",
+    "1p": "remoldeamos",
+    "2p": "remoldeasteis",
+    "3p": "remoldearon"
+  },
+  "FutSI": {
+    "1s": "remoldearé",
+    "2s": "remoldearás",
+    "3s": "remoldeará",
+    "1p": "remoldearemos",
+    "2p": "remoldearéis",
+    "3p": "remoldearán"
+  },
+  "CondS": {
+    "1s": "remoldearía",
+    "2s": "remoldearías",
+    "3s": "remoldearía",
+    "1p": "remoldearíamos",
+    "2p": "remoldearíais",
+    "3p": "remoldearían"
+  },
+  "PresC": {
+    "1s": "remoldee",
+    "2s": "remoldees",
+    "3s": "remoldee",
+    "1p": "remoldeemos",
+    "2p": "remoldeéis",
+    "3p": "remoldeen"
+  },
+  "PMQPSI": {
+    "1s": "remoldeara",
+    "2s": "remoldearas",
+    "3s": "remoldeara",
+    "1p": "remoldeáramos",
+    "2p": "remoldearais",
+    "3p": "remoldearan"
+  },
+  "PImpC": {
+    "1s": "remoldease",
+    "2s": "remoldeases",
+    "3s": "remoldease",
+    "1p": "remoldeásemos",
+    "2p": "remoldeaseis",
+    "3p": "remoldeasen"
+  },
+  "FutSC": {
+    "1s": "remoldeare",
+    "2s": "remoldeares",
+    "3s": "remoldeare",
+    "1p": "remoldeáremos",
+    "2p": "remoldeareis",
+    "3p": "remoldearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remoldea",
+    "3s": "remoldee",
+    "1p": "remoldeemos",
+    "2p": "remoldead",
+    "3p": "remoldeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no remoldees",
+    "3s": "no remoldee",
+    "1p": "no remoldeemos",
+    "2p": "no remoldeéis",
+    "3p": "no remoldeen"
+  },
+  "Part-ter": {
+    "": "remoldeado"
+  },
+  "Part-ser": {
+    "ms": "remoldeado",
+    "fs": "remoldeada",
+    "mp": "remoldeados",
+    "fp": "remoldeadas"
+  }
+}

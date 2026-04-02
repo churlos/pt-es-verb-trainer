@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "forçar"
+  },
+  "InfP": {
+    "1s": "forçar",
+    "2s": "forçares",
+    "3s": "forçar",
+    "1p": "forçarmos",
+    "2p": "forçardes",
+    "3p": "forçarem"
+  },
+  "Ger": {
+    "": "forçando"
+  },
+  "PresI": {
+    "1s": "forço",
+    "2s": "forças",
+    "3s": "força",
+    "1p": "forçamos",
+    "2p": "forçais",
+    "3p": "forçam"
+  },
+  "PImpI": {
+    "1s": "forçava",
+    "2s": "forçavas",
+    "3s": "forçava",
+    "1p": "forçávamos",
+    "2p": "forçáveis",
+    "3p": "forçavam"
+  },
+  "PPSI": {
+    "1s": "forcei",
+    "2s": "forçaste",
+    "3s": "forçou",
+    "1p": "forçámos",
+    "2p": "forçastes",
+    "3p": "forçaram"
+  },
+  "PMQPSI": {
+    "1s": "forçara",
+    "2s": "forçaras",
+    "3s": "forçara",
+    "1p": "forçáramos",
+    "2p": "forçáreis",
+    "3p": "forçaram"
+  },
+  "FutSI": {
+    "1s": "forçarei",
+    "2s": "forçarás",
+    "3s": "forçará",
+    "1p": "forçaremos",
+    "2p": "forçareis",
+    "3p": "forçarão"
+  },
+  "CondS": {
+    "1s": "forçaria",
+    "2s": "forçarias",
+    "3s": "forçaria",
+    "1p": "forçaríamos",
+    "2p": "forçaríeis",
+    "3p": "forçariam"
+  },
+  "PresC": {
+    "1s": "force",
+    "2s": "forces",
+    "3s": "force",
+    "1p": "forcemos",
+    "2p": "forceis",
+    "3p": "forcem"
+  },
+  "PImpC": {
+    "1s": "forçasse",
+    "2s": "forçasses",
+    "3s": "forçasse",
+    "1p": "forçássemos",
+    "2p": "forçásseis",
+    "3p": "forçassem"
+  },
+  "FutSC": {
+    "1s": "forçar",
+    "2s": "forçares",
+    "3s": "forçar",
+    "1p": "forçarmos",
+    "2p": "forçardes",
+    "3p": "forçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "força",
+    "3s": "force",
+    "1p": "forcemos",
+    "2p": "forçai",
+    "3p": "forcem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não forces",
+    "3s": "não force",
+    "1p": "não forcemos",
+    "2p": "não forceis",
+    "3p": "não forcem"
+  },
+  "Part-ter": {
+    "": "forçado"
+  },
+  "Part-ser": {
+    "ms": "forçado",
+    "fs": "forçada",
+    "mp": "forçados",
+    "fp": "forçadas"
+  }
+}

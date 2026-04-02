@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "secarse"
+  },
+  "Ger": {
+    "": "secándose"
+  },
+  "PresI": {
+    "1s": "me seco",
+    "2s": "te secas",
+    "3s": "se seca",
+    "1p": "nos secamos",
+    "2p": "os secáis",
+    "3p": "se secan"
+  },
+  "PImpI": {
+    "1s": "me secaba",
+    "2s": "te secabas",
+    "3s": "se secaba",
+    "1p": "nos secábamos",
+    "2p": "os secabais",
+    "3p": "se secaban"
+  },
+  "PPSI": {
+    "1s": "me sequé",
+    "2s": "te secaste",
+    "3s": "se secó",
+    "1p": "nos secamos",
+    "2p": "os secasteis",
+    "3p": "se secaron"
+  },
+  "FutSI": {
+    "1s": "me secaré",
+    "2s": "te secarás",
+    "3s": "se secará",
+    "1p": "nos secaremos",
+    "2p": "os secaréis",
+    "3p": "se secarán"
+  },
+  "CondS": {
+    "1s": "me secaría",
+    "2s": "te secarías",
+    "3s": "se secaría",
+    "1p": "nos secaríamos",
+    "2p": "os secaríais",
+    "3p": "se secarían"
+  },
+  "PresC": {
+    "1s": "me seque",
+    "2s": "te seques",
+    "3s": "se seque",
+    "1p": "nos sequemos",
+    "2p": "os sequéis",
+    "3p": "se sequen"
+  },
+  "PMQPSI": {
+    "1s": "me secara",
+    "2s": "te secaras",
+    "3s": "se secara",
+    "1p": "nos secáramos",
+    "2p": "os secarais",
+    "3p": "se secaran"
+  },
+  "PImpC": {
+    "1s": "me secase",
+    "2s": "te secases",
+    "3s": "se secase",
+    "1p": "nos secásemos",
+    "2p": "os secaseis",
+    "3p": "se secasen"
+  },
+  "FutSC": {
+    "1s": "me secare",
+    "2s": "te secares",
+    "3s": "se secare",
+    "1p": "nos secáremos",
+    "2p": "os secareis",
+    "3p": "se secaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sécate",
+    "3s": "séquese",
+    "1p": "sequémonos",
+    "2p": "secaos",
+    "3p": "séquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te seques",
+    "3s": "no se seque",
+    "1p": "no nos sequemos",
+    "2p": "no os sequéis",
+    "3p": "no se sequen"
+  },
+  "Part-ter": {
+    "": "secado"
+  },
+  "Part-ser": {
+    "ms": "secado",
+    "fs": "secada",
+    "mp": "secados",
+    "fp": "secadas"
+  }
+}

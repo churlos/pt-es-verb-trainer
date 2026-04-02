@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perguntar"
+  },
+  "InfP": {
+    "1s": "perguntar",
+    "2s": "perguntares",
+    "3s": "perguntar",
+    "1p": "perguntarmos",
+    "2p": "perguntardes",
+    "3p": "perguntarem"
+  },
+  "Ger": {
+    "": "perguntando"
+  },
+  "PresI": {
+    "1s": "pergunto",
+    "2s": "perguntas",
+    "3s": "pergunta",
+    "1p": "perguntamos",
+    "2p": "perguntais",
+    "3p": "perguntam"
+  },
+  "PImpI": {
+    "1s": "perguntava",
+    "2s": "perguntavas",
+    "3s": "perguntava",
+    "1p": "perguntávamos",
+    "2p": "perguntáveis",
+    "3p": "perguntavam"
+  },
+  "PPSI": {
+    "1s": "perguntei",
+    "2s": "perguntaste",
+    "3s": "perguntou",
+    "1p": "perguntámos",
+    "2p": "perguntastes",
+    "3p": "perguntaram"
+  },
+  "PMQPSI": {
+    "1s": "perguntara",
+    "2s": "perguntaras",
+    "3s": "perguntara",
+    "1p": "perguntáramos",
+    "2p": "perguntáreis",
+    "3p": "perguntaram"
+  },
+  "FutSI": {
+    "1s": "perguntarei",
+    "2s": "perguntarás",
+    "3s": "perguntará",
+    "1p": "perguntaremos",
+    "2p": "perguntareis",
+    "3p": "perguntarão"
+  },
+  "CondS": {
+    "1s": "perguntaria",
+    "2s": "perguntarias",
+    "3s": "perguntaria",
+    "1p": "perguntaríamos",
+    "2p": "perguntaríeis",
+    "3p": "perguntariam"
+  },
+  "PresC": {
+    "1s": "pergunte",
+    "2s": "perguntes",
+    "3s": "pergunte",
+    "1p": "perguntemos",
+    "2p": "pergunteis",
+    "3p": "perguntem"
+  },
+  "PImpC": {
+    "1s": "perguntasse",
+    "2s": "perguntasses",
+    "3s": "perguntasse",
+    "1p": "perguntássemos",
+    "2p": "perguntásseis",
+    "3p": "perguntassem"
+  },
+  "FutSC": {
+    "1s": "perguntar",
+    "2s": "perguntares",
+    "3s": "perguntar",
+    "1p": "perguntarmos",
+    "2p": "perguntardes",
+    "3p": "perguntarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pergunta",
+    "3s": "pergunte",
+    "1p": "perguntemos",
+    "2p": "perguntai",
+    "3p": "perguntem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não perguntes",
+    "3s": "não pergunte",
+    "1p": "não perguntemos",
+    "2p": "não pergunteis",
+    "3p": "não perguntem"
+  },
+  "Part-ter": {
+    "": "perguntado"
+  },
+  "Part-ser": {
+    "ms": "perguntado",
+    "fs": "perguntada",
+    "mp": "perguntados",
+    "fp": "perguntadas"
+  }
+}

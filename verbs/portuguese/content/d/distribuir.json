@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "distribuir"
+  },
+  "InfP": {
+    "1s": "distribuir",
+    "2s": "distribuíres",
+    "3s": "distribuir",
+    "1p": "distribuirmos",
+    "2p": "distribuirdes",
+    "3p": "distribuírem"
+  },
+  "Ger": {
+    "": "distribuindo"
+  },
+  "PresI": {
+    "1s": "distribuo",
+    "2s": "distribuis",
+    "3s": "distribui",
+    "1p": "distribuímos",
+    "2p": "distribuís",
+    "3p": "distribuem"
+  },
+  "PImpI": {
+    "1s": "distribuía",
+    "2s": "distribuías",
+    "3s": "distribuía",
+    "1p": "distribuíamos",
+    "2p": "distribuíeis",
+    "3p": "distribuíam"
+  },
+  "PPSI": {
+    "1s": "distribuí",
+    "2s": "distribuíste",
+    "3s": "distribuiu",
+    "1p": "distribuímos",
+    "2p": "distribuístes",
+    "3p": "distribuíram"
+  },
+  "PMQPSI": {
+    "1s": "distribuíra",
+    "2s": "distribuíras",
+    "3s": "distribuíra",
+    "1p": "distribuíramos",
+    "2p": "distribuíreis",
+    "3p": "distribuíram"
+  },
+  "FutSI": {
+    "1s": "distribuirei",
+    "2s": "distribuirás",
+    "3s": "distribuirá",
+    "1p": "distribuiremos",
+    "2p": "distribuireis",
+    "3p": "distribuirão"
+  },
+  "CondS": {
+    "1s": "distribuiria",
+    "2s": "distribuirias",
+    "3s": "distribuiria",
+    "1p": "distribuiríamos",
+    "2p": "distribuiríeis",
+    "3p": "distribuiriam"
+  },
+  "PresC": {
+    "1s": "distribua",
+    "2s": "distribuas",
+    "3s": "distribua",
+    "1p": "distribuamos",
+    "2p": "distribuais",
+    "3p": "distribuam"
+  },
+  "PImpC": {
+    "1s": "distribuísse",
+    "2s": "distribuísses",
+    "3s": "distribuísse",
+    "1p": "distribuíssemos",
+    "2p": "distribuísseis",
+    "3p": "distribuíssem"
+  },
+  "FutSC": {
+    "1s": "distribuir",
+    "2s": "distribuíres",
+    "3s": "distribuir",
+    "1p": "distribuirmos",
+    "2p": "distribuirdes",
+    "3p": "distribuírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "distribui",
+    "3s": "distribua",
+    "1p": "distribuamos",
+    "2p": "distribuí",
+    "3p": "distribuam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não distribuas",
+    "3s": "não distribua",
+    "1p": "não distribuamos",
+    "2p": "não distribuais",
+    "3p": "não distribuam"
+  },
+  "Part-ter": {
+    "": "distribuído"
+  },
+  "Part-ser": {
+    "ms": "distribuído",
+    "fs": "distribuída",
+    "mp": "distribuídos",
+    "fp": "distribuídas"
+  }
+}

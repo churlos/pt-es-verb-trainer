@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enfermar"
+  },
+  "Ger": {
+    "": "enfermando"
+  },
+  "PresI": {
+    "1s": "enfermo",
+    "2s": "enfermas",
+    "3s": "enferma",
+    "1p": "enfermamos",
+    "2p": "enfermáis",
+    "3p": "enferman"
+  },
+  "PImpI": {
+    "1s": "enfermaba",
+    "2s": "enfermabas",
+    "3s": "enfermaba",
+    "1p": "enfermábamos",
+    "2p": "enfermabais",
+    "3p": "enfermaban"
+  },
+  "PPSI": {
+    "1s": "enfermé",
+    "2s": "enfermaste",
+    "3s": "enfermó",
+    "1p": "enfermamos",
+    "2p": "enfermasteis",
+    "3p": "enfermaron"
+  },
+  "FutSI": {
+    "1s": "enfermaré",
+    "2s": "enfermarás",
+    "3s": "enfermará",
+    "1p": "enfermaremos",
+    "2p": "enfermaréis",
+    "3p": "enfermarán"
+  },
+  "CondS": {
+    "1s": "enfermaría",
+    "2s": "enfermarías",
+    "3s": "enfermaría",
+    "1p": "enfermaríamos",
+    "2p": "enfermaríais",
+    "3p": "enfermarían"
+  },
+  "PresC": {
+    "1s": "enferme",
+    "2s": "enfermes",
+    "3s": "enferme",
+    "1p": "enfermemos",
+    "2p": "enferméis",
+    "3p": "enfermen"
+  },
+  "PMQPSI": {
+    "1s": "enfermara",
+    "2s": "enfermaras",
+    "3s": "enfermara",
+    "1p": "enfermáramos",
+    "2p": "enfermarais",
+    "3p": "enfermaran"
+  },
+  "PImpC": {
+    "1s": "enfermase",
+    "2s": "enfermases",
+    "3s": "enfermase",
+    "1p": "enfermásemos",
+    "2p": "enfermaseis",
+    "3p": "enfermasen"
+  },
+  "FutSC": {
+    "1s": "enfermare",
+    "2s": "enfermares",
+    "3s": "enfermare",
+    "1p": "enfermáremos",
+    "2p": "enfermareis",
+    "3p": "enfermaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enferma",
+    "3s": "enferme",
+    "1p": "enfermemos",
+    "2p": "enfermad",
+    "3p": "enfermen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enfermes",
+    "3s": "no enferme",
+    "1p": "no enfermemos",
+    "2p": "no enferméis",
+    "3p": "no enfermen"
+  },
+  "Part-ter": {
+    "": "enfermado"
+  },
+  "Part-ser": {
+    "ms": "enfermado",
+    "fs": "enfermada",
+    "mp": "enfermados",
+    "fp": "enfermadas"
+  }
+}

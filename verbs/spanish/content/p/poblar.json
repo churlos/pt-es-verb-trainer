@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "poblar"
+  },
+  "Ger": {
+    "": "poblando"
+  },
+  "PresI": {
+    "1s": "pueblo",
+    "2s": "pueblas",
+    "3s": "puebla",
+    "1p": "poblamos",
+    "2p": "pobláis",
+    "3p": "pueblan"
+  },
+  "PImpI": {
+    "1s": "poblaba",
+    "2s": "poblabas",
+    "3s": "poblaba",
+    "1p": "poblábamos",
+    "2p": "poblabais",
+    "3p": "poblaban"
+  },
+  "PPSI": {
+    "1s": "poblé",
+    "2s": "poblaste",
+    "3s": "pobló",
+    "1p": "poblamos",
+    "2p": "poblasteis",
+    "3p": "poblaron"
+  },
+  "FutSI": {
+    "1s": "poblaré",
+    "2s": "poblarás",
+    "3s": "poblará",
+    "1p": "poblaremos",
+    "2p": "poblaréis",
+    "3p": "poblarán"
+  },
+  "CondS": {
+    "1s": "poblaría",
+    "2s": "poblarías",
+    "3s": "poblaría",
+    "1p": "poblaríamos",
+    "2p": "poblaríais",
+    "3p": "poblarían"
+  },
+  "PresC": {
+    "1s": "pueble",
+    "2s": "puebles",
+    "3s": "pueble",
+    "1p": "poblemos",
+    "2p": "pobléis",
+    "3p": "pueblen"
+  },
+  "PMQPSI": {
+    "1s": "poblara",
+    "2s": "poblaras",
+    "3s": "poblara",
+    "1p": "pobláramos",
+    "2p": "poblarais",
+    "3p": "poblaran"
+  },
+  "PImpC": {
+    "1s": "poblase",
+    "2s": "poblases",
+    "3s": "poblase",
+    "1p": "poblásemos",
+    "2p": "poblaseis",
+    "3p": "poblasen"
+  },
+  "FutSC": {
+    "1s": "poblare",
+    "2s": "poblares",
+    "3s": "poblare",
+    "1p": "pobláremos",
+    "2p": "poblareis",
+    "3p": "poblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "puebla",
+    "3s": "pueble",
+    "1p": "poblemos",
+    "2p": "poblad",
+    "3p": "pueblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no puebles",
+    "3s": "no pueble",
+    "1p": "no poblemos",
+    "2p": "no pobléis",
+    "3p": "no pueblen"
+  },
+  "Part-ter": {
+    "": "poblado"
+  },
+  "Part-ser": {
+    "ms": "poblado",
+    "fs": "poblada",
+    "mp": "poblados",
+    "fp": "pobladas"
+  }
+}

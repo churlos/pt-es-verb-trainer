@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bufar"
+  },
+  "InfP": {
+    "1s": "bufar",
+    "2s": "bufares",
+    "3s": "bufar",
+    "1p": "bufarmos",
+    "2p": "bufardes",
+    "3p": "bufarem"
+  },
+  "Ger": {
+    "": "bufando"
+  },
+  "PresI": {
+    "1s": "bufo",
+    "2s": "bufas",
+    "3s": "bufa",
+    "1p": "bufamos",
+    "2p": "bufais",
+    "3p": "bufam"
+  },
+  "PImpI": {
+    "1s": "bufava",
+    "2s": "bufavas",
+    "3s": "bufava",
+    "1p": "bufávamos",
+    "2p": "bufáveis",
+    "3p": "bufavam"
+  },
+  "PPSI": {
+    "1s": "bufei",
+    "2s": "bufaste",
+    "3s": "bufou",
+    "1p": "bufámos",
+    "2p": "bufastes",
+    "3p": "bufaram"
+  },
+  "PMQPSI": {
+    "1s": "bufara",
+    "2s": "bufaras",
+    "3s": "bufara",
+    "1p": "bufáramos",
+    "2p": "bufáreis",
+    "3p": "bufaram"
+  },
+  "FutSI": {
+    "1s": "bufarei",
+    "2s": "bufarás",
+    "3s": "bufará",
+    "1p": "bufaremos",
+    "2p": "bufareis",
+    "3p": "bufarão"
+  },
+  "CondS": {
+    "1s": "bufaria",
+    "2s": "bufarias",
+    "3s": "bufaria",
+    "1p": "bufaríamos",
+    "2p": "bufaríeis",
+    "3p": "bufariam"
+  },
+  "PresC": {
+    "1s": "bufe",
+    "2s": "bufes",
+    "3s": "bufe",
+    "1p": "bufemos",
+    "2p": "bufeis",
+    "3p": "bufem"
+  },
+  "PImpC": {
+    "1s": "bufasse",
+    "2s": "bufasses",
+    "3s": "bufasse",
+    "1p": "bufássemos",
+    "2p": "bufásseis",
+    "3p": "bufassem"
+  },
+  "FutSC": {
+    "1s": "bufar",
+    "2s": "bufares",
+    "3s": "bufar",
+    "1p": "bufarmos",
+    "2p": "bufardes",
+    "3p": "bufarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bufa",
+    "3s": "bufe",
+    "1p": "bufemos",
+    "2p": "bufai",
+    "3p": "bufem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bufes",
+    "3s": "não bufe",
+    "1p": "não bufemos",
+    "2p": "não bufeis",
+    "3p": "não bufem"
+  },
+  "Part-ter": {
+    "": "bufado"
+  },
+  "Part-ser": {
+    "ms": "bufado",
+    "fs": "bufada",
+    "mp": "bufados",
+    "fp": "bufadas"
+  }
+}

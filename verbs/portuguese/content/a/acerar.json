@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acerar"
+  },
+  "InfP": {
+    "1s": "acerar",
+    "2s": "acerares",
+    "3s": "acerar",
+    "1p": "acerarmos",
+    "2p": "acerardes",
+    "3p": "acerarem"
+  },
+  "Ger": {
+    "": "acerando"
+  },
+  "PresI": {
+    "1s": "acero",
+    "2s": "aceras",
+    "3s": "acera",
+    "1p": "aceramos",
+    "2p": "acerais",
+    "3p": "aceram"
+  },
+  "PImpI": {
+    "1s": "acerava",
+    "2s": "aceravas",
+    "3s": "acerava",
+    "1p": "acerávamos",
+    "2p": "aceráveis",
+    "3p": "aceravam"
+  },
+  "PPSI": {
+    "1s": "acerei",
+    "2s": "aceraste",
+    "3s": "acerou",
+    "1p": "acerámos",
+    "2p": "acerastes",
+    "3p": "aceraram"
+  },
+  "PMQPSI": {
+    "1s": "acerara",
+    "2s": "aceraras",
+    "3s": "acerara",
+    "1p": "aceráramos",
+    "2p": "aceráreis",
+    "3p": "aceraram"
+  },
+  "FutSI": {
+    "1s": "acerarei",
+    "2s": "acerarás",
+    "3s": "acerará",
+    "1p": "aceraremos",
+    "2p": "acerareis",
+    "3p": "acerarão"
+  },
+  "CondS": {
+    "1s": "aceraria",
+    "2s": "acerarias",
+    "3s": "aceraria",
+    "1p": "aceraríamos",
+    "2p": "aceraríeis",
+    "3p": "acerariam"
+  },
+  "PresC": {
+    "1s": "acere",
+    "2s": "aceres",
+    "3s": "acere",
+    "1p": "aceremos",
+    "2p": "acereis",
+    "3p": "acerem"
+  },
+  "PImpC": {
+    "1s": "acerasse",
+    "2s": "acerasses",
+    "3s": "acerasse",
+    "1p": "acerássemos",
+    "2p": "acerásseis",
+    "3p": "acerassem"
+  },
+  "FutSC": {
+    "1s": "acerar",
+    "2s": "acerares",
+    "3s": "acerar",
+    "1p": "acerarmos",
+    "2p": "acerardes",
+    "3p": "acerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acera",
+    "3s": "acere",
+    "1p": "aceremos",
+    "2p": "acerai",
+    "3p": "acerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aceres",
+    "3s": "não acere",
+    "1p": "não aceremos",
+    "2p": "não acereis",
+    "3p": "não acerem"
+  },
+  "Part-ter": {
+    "": "acerado"
+  },
+  "Part-ser": {
+    "ms": "acerado",
+    "fs": "acerada",
+    "mp": "acerados",
+    "fp": "aceradas"
+  }
+}

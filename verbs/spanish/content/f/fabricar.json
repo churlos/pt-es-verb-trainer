@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fabricar"
+  },
+  "Ger": {
+    "": "fabricando"
+  },
+  "PresI": {
+    "1s": "fabrico",
+    "2s": "fabricas",
+    "3s": "fabrica",
+    "1p": "fabricamos",
+    "2p": "fabricáis",
+    "3p": "fabrican"
+  },
+  "PImpI": {
+    "1s": "fabricaba",
+    "2s": "fabricabas",
+    "3s": "fabricaba",
+    "1p": "fabricábamos",
+    "2p": "fabricabais",
+    "3p": "fabricaban"
+  },
+  "PPSI": {
+    "1s": "fabriqué",
+    "2s": "fabricaste",
+    "3s": "fabricó",
+    "1p": "fabricamos",
+    "2p": "fabricasteis",
+    "3p": "fabricaron"
+  },
+  "FutSI": {
+    "1s": "fabricaré",
+    "2s": "fabricarás",
+    "3s": "fabricará",
+    "1p": "fabricaremos",
+    "2p": "fabricaréis",
+    "3p": "fabricarán"
+  },
+  "CondS": {
+    "1s": "fabricaría",
+    "2s": "fabricarías",
+    "3s": "fabricaría",
+    "1p": "fabricaríamos",
+    "2p": "fabricaríais",
+    "3p": "fabricarían"
+  },
+  "PresC": {
+    "1s": "fabrique",
+    "2s": "fabriques",
+    "3s": "fabrique",
+    "1p": "fabriquemos",
+    "2p": "fabriquéis",
+    "3p": "fabriquen"
+  },
+  "PMQPSI": {
+    "1s": "fabricara",
+    "2s": "fabricaras",
+    "3s": "fabricara",
+    "1p": "fabricáramos",
+    "2p": "fabricarais",
+    "3p": "fabricaran"
+  },
+  "PImpC": {
+    "1s": "fabricase",
+    "2s": "fabricases",
+    "3s": "fabricase",
+    "1p": "fabricásemos",
+    "2p": "fabricaseis",
+    "3p": "fabricasen"
+  },
+  "FutSC": {
+    "1s": "fabricare",
+    "2s": "fabricares",
+    "3s": "fabricare",
+    "1p": "fabricáremos",
+    "2p": "fabricareis",
+    "3p": "fabricaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fabrica",
+    "3s": "fabrique",
+    "1p": "fabriquemos",
+    "2p": "fabricad",
+    "3p": "fabriquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fabriques",
+    "3s": "no fabrique",
+    "1p": "no fabriquemos",
+    "2p": "no fabriquéis",
+    "3p": "no fabriquen"
+  },
+  "Part-ter": {
+    "": "fabricado"
+  },
+  "Part-ser": {
+    "ms": "fabricado",
+    "fs": "fabricada",
+    "mp": "fabricados",
+    "fp": "fabricadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "connectar"
+  },
+  "InfP": {
+    "1s": "connectar",
+    "2s": "connectares",
+    "3s": "connectar",
+    "1p": "connectarmos",
+    "2p": "connectardes",
+    "3p": "connectarem"
+  },
+  "Ger": {
+    "": "connectando"
+  },
+  "PresI": {
+    "1s": "connecto",
+    "2s": "connectas",
+    "3s": "connecta",
+    "1p": "connectamos",
+    "2p": "connectais",
+    "3p": "connectam"
+  },
+  "PImpI": {
+    "1s": "connectava",
+    "2s": "connectavas",
+    "3s": "connectava",
+    "1p": "connectávamos",
+    "2p": "connectáveis",
+    "3p": "connectavam"
+  },
+  "PPSI": {
+    "1s": "connectei",
+    "2s": "connectaste",
+    "3s": "connectou",
+    "1p": "connectámos",
+    "2p": "connectastes",
+    "3p": "connectaram"
+  },
+  "PMQPSI": {
+    "1s": "connectara",
+    "2s": "connectaras",
+    "3s": "connectara",
+    "1p": "connectáramos",
+    "2p": "connectáreis",
+    "3p": "connectaram"
+  },
+  "FutSI": {
+    "1s": "connectarei",
+    "2s": "connectarás",
+    "3s": "connectará",
+    "1p": "connectaremos",
+    "2p": "connectareis",
+    "3p": "connectarão"
+  },
+  "CondS": {
+    "1s": "connectaria",
+    "2s": "connectarias",
+    "3s": "connectaria",
+    "1p": "connectaríamos",
+    "2p": "connectaríeis",
+    "3p": "connectariam"
+  },
+  "PresC": {
+    "1s": "connecte",
+    "2s": "connectes",
+    "3s": "connecte",
+    "1p": "connectemos",
+    "2p": "connecteis",
+    "3p": "connectem"
+  },
+  "PImpC": {
+    "1s": "connectasse",
+    "2s": "connectasses",
+    "3s": "connectasse",
+    "1p": "connectássemos",
+    "2p": "connectásseis",
+    "3p": "connectassem"
+  },
+  "FutSC": {
+    "1s": "connectar",
+    "2s": "connectares",
+    "3s": "connectar",
+    "1p": "connectarmos",
+    "2p": "connectardes",
+    "3p": "connectarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "connecta",
+    "3s": "connecte",
+    "1p": "connectemos",
+    "2p": "connectai",
+    "3p": "connectem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não connectes",
+    "3s": "não connecte",
+    "1p": "não connectemos",
+    "2p": "não connecteis",
+    "3p": "não connectem"
+  },
+  "Part-ter": {
+    "": "connectado"
+  },
+  "Part-ser": {
+    "ms": "connectado",
+    "fs": "connectada",
+    "mp": "connectados",
+    "fp": "connectadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "barrir"
+  },
+  "InfP": {
+    "1s": "barrir",
+    "2s": "barrires",
+    "3s": "barrir",
+    "1p": "barrirmos",
+    "2p": "barrirdes",
+    "3p": "barrirem"
+  },
+  "Ger": {
+    "": "barrindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "barres",
+    "3s": "barre",
+    "1p": "barrimos",
+    "2p": "barris",
+    "3p": "barrem"
+  },
+  "PImpI": {
+    "1s": "barria",
+    "2s": "barrias",
+    "3s": "barria",
+    "1p": "barríamos",
+    "2p": "barríeis",
+    "3p": "barriam"
+  },
+  "PPSI": {
+    "1s": "barri",
+    "2s": "barriste",
+    "3s": "barriu",
+    "1p": "barrimos",
+    "2p": "barristes",
+    "3p": "barriram"
+  },
+  "PMQPSI": {
+    "1s": "barrira",
+    "2s": "barriras",
+    "3s": "barrira",
+    "1p": "barríramos",
+    "2p": "barríreis",
+    "3p": "barriram"
+  },
+  "FutSI": {
+    "1s": "barrirei",
+    "2s": "barrirás",
+    "3s": "barrirá",
+    "1p": "barriremos",
+    "2p": "barrireis",
+    "3p": "barrirão"
+  },
+  "CondS": {
+    "1s": "barriria",
+    "2s": "barririas",
+    "3s": "barriria",
+    "1p": "barriríamos",
+    "2p": "barriríeis",
+    "3p": "barririam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "barrisse",
+    "2s": "barrisses",
+    "3s": "barrisse",
+    "1p": "barríssemos",
+    "2p": "barrísseis",
+    "3p": "barrissem"
+  },
+  "FutSC": {
+    "1s": "barrir",
+    "2s": "barrires",
+    "3s": "barrir",
+    "1p": "barrirmos",
+    "2p": "barrirdes",
+    "3p": "barrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barreNormally defective:barras",
+    "3s": "",
+    "1p": "",
+    "2p": "barriNormally defective:barrais",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "barrido"
+  },
+  "Part-ser": {
+    "ms": "barrido",
+    "fs": "barrida",
+    "mp": "barridos",
+    "fp": "barridas"
+  }
+}

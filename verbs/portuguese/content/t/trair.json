@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trair"
+  },
+  "InfP": {
+    "1s": "trair",
+    "2s": "traíres",
+    "3s": "trair",
+    "1p": "trairmos",
+    "2p": "trairdes",
+    "3p": "traírem"
+  },
+  "Ger": {
+    "": "traindo"
+  },
+  "PresI": {
+    "1s": "traio",
+    "2s": "trais",
+    "3s": "trai",
+    "1p": "traímos",
+    "2p": "traís",
+    "3p": "traem"
+  },
+  "PImpI": {
+    "1s": "traía",
+    "2s": "traías",
+    "3s": "traía",
+    "1p": "traíamos",
+    "2p": "traíeis",
+    "3p": "traíam"
+  },
+  "PPSI": {
+    "1s": "traí",
+    "2s": "traíste",
+    "3s": "traiu",
+    "1p": "traímos",
+    "2p": "traístes",
+    "3p": "traíram"
+  },
+  "PMQPSI": {
+    "1s": "traíra",
+    "2s": "traíras",
+    "3s": "traíra",
+    "1p": "traíramos",
+    "2p": "traíreis",
+    "3p": "traíram"
+  },
+  "FutSI": {
+    "1s": "trairei",
+    "2s": "trairás",
+    "3s": "trairá",
+    "1p": "trairemos",
+    "2p": "traireis",
+    "3p": "trairão"
+  },
+  "CondS": {
+    "1s": "trairia",
+    "2s": "trairias",
+    "3s": "trairia",
+    "1p": "trairíamos",
+    "2p": "trairíeis",
+    "3p": "trairiam"
+  },
+  "PresC": {
+    "1s": "traia",
+    "2s": "traias",
+    "3s": "traia",
+    "1p": "traiamos",
+    "2p": "traiais",
+    "3p": "traiam"
+  },
+  "PImpC": {
+    "1s": "traísse",
+    "2s": "traísses",
+    "3s": "traísse",
+    "1p": "traíssemos",
+    "2p": "traísseis",
+    "3p": "traíssem"
+  },
+  "FutSC": {
+    "1s": "trair",
+    "2s": "traíres",
+    "3s": "trair",
+    "1p": "trairmos",
+    "2p": "trairdes",
+    "3p": "traírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trai",
+    "3s": "traia",
+    "1p": "traiamos",
+    "2p": "traí",
+    "3p": "traiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não traias",
+    "3s": "não traia",
+    "1p": "não traiamos",
+    "2p": "não traiais",
+    "3p": "não traiam"
+  },
+  "Part-ter": {
+    "": "traído"
+  },
+  "Part-ser": {
+    "ms": "traído",
+    "fs": "traída",
+    "mp": "traídos",
+    "fp": "traídas"
+  }
+}

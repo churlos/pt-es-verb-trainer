@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sofrer"
+  },
+  "InfP": {
+    "1s": "sofrer",
+    "2s": "sofreres",
+    "3s": "sofrer",
+    "1p": "sofrermos",
+    "2p": "sofrerdes",
+    "3p": "sofrerem"
+  },
+  "Ger": {
+    "": "sofrendo"
+  },
+  "PresI": {
+    "1s": "sofro",
+    "2s": "sofres",
+    "3s": "sofre",
+    "1p": "sofremos",
+    "2p": "sofreis",
+    "3p": "sofrem"
+  },
+  "PImpI": {
+    "1s": "sofria",
+    "2s": "sofrias",
+    "3s": "sofria",
+    "1p": "sofríamos",
+    "2p": "sofríeis",
+    "3p": "sofriam"
+  },
+  "PPSI": {
+    "1s": "sofri",
+    "2s": "sofreste",
+    "3s": "sofreu",
+    "1p": "sofremos",
+    "2p": "sofrestes",
+    "3p": "sofreram"
+  },
+  "PMQPSI": {
+    "1s": "sofrera",
+    "2s": "sofreras",
+    "3s": "sofrera",
+    "1p": "sofrêramos",
+    "2p": "sofrêreis",
+    "3p": "sofreram"
+  },
+  "FutSI": {
+    "1s": "sofrerei",
+    "2s": "sofrerás",
+    "3s": "sofrerá",
+    "1p": "sofreremos",
+    "2p": "sofrereis",
+    "3p": "sofrerão"
+  },
+  "CondS": {
+    "1s": "sofreria",
+    "2s": "sofrerias",
+    "3s": "sofreria",
+    "1p": "sofreríamos",
+    "2p": "sofreríeis",
+    "3p": "sofreriam"
+  },
+  "PresC": {
+    "1s": "sofra",
+    "2s": "sofras",
+    "3s": "sofra",
+    "1p": "soframos",
+    "2p": "sofrais",
+    "3p": "sofram"
+  },
+  "PImpC": {
+    "1s": "sofresse",
+    "2s": "sofresses",
+    "3s": "sofresse",
+    "1p": "sofrêssemos",
+    "2p": "sofrêsseis",
+    "3p": "sofressem"
+  },
+  "FutSC": {
+    "1s": "sofrer",
+    "2s": "sofreres",
+    "3s": "sofrer",
+    "1p": "sofrermos",
+    "2p": "sofrerdes",
+    "3p": "sofrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sofre",
+    "3s": "sofra",
+    "1p": "soframos",
+    "2p": "sofrei",
+    "3p": "sofram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sofras",
+    "3s": "não sofra",
+    "1p": "não soframos",
+    "2p": "não sofrais",
+    "3p": "não sofram"
+  },
+  "Part-ter": {
+    "": "sofrido"
+  },
+  "Part-ser": {
+    "ms": "sofrido",
+    "fs": "sofrida",
+    "mp": "sofridos",
+    "fp": "sofridas"
+  }
+}

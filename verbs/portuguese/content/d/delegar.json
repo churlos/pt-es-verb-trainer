@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "delegar"
+  },
+  "InfP": {
+    "1s": "delegar",
+    "2s": "delegares",
+    "3s": "delegar",
+    "1p": "delegarmos",
+    "2p": "delegardes",
+    "3p": "delegarem"
+  },
+  "Ger": {
+    "": "delegando"
+  },
+  "PresI": {
+    "1s": "delego",
+    "2s": "delegas",
+    "3s": "delega",
+    "1p": "delegamos",
+    "2p": "delegais",
+    "3p": "delegam"
+  },
+  "PImpI": {
+    "1s": "delegava",
+    "2s": "delegavas",
+    "3s": "delegava",
+    "1p": "delegávamos",
+    "2p": "delegáveis",
+    "3p": "delegavam"
+  },
+  "PPSI": {
+    "1s": "deleguei",
+    "2s": "delegaste",
+    "3s": "delegou",
+    "1p": "delegámos",
+    "2p": "delegastes",
+    "3p": "delegaram"
+  },
+  "PMQPSI": {
+    "1s": "delegara",
+    "2s": "delegaras",
+    "3s": "delegara",
+    "1p": "delegáramos",
+    "2p": "delegáreis",
+    "3p": "delegaram"
+  },
+  "FutSI": {
+    "1s": "delegarei",
+    "2s": "delegarás",
+    "3s": "delegará",
+    "1p": "delegaremos",
+    "2p": "delegareis",
+    "3p": "delegarão"
+  },
+  "CondS": {
+    "1s": "delegaria",
+    "2s": "delegarias",
+    "3s": "delegaria",
+    "1p": "delegaríamos",
+    "2p": "delegaríeis",
+    "3p": "delegariam"
+  },
+  "PresC": {
+    "1s": "delegue",
+    "2s": "delegues",
+    "3s": "delegue",
+    "1p": "deleguemos",
+    "2p": "delegueis",
+    "3p": "deleguem"
+  },
+  "PImpC": {
+    "1s": "delegasse",
+    "2s": "delegasses",
+    "3s": "delegasse",
+    "1p": "delegássemos",
+    "2p": "delegásseis",
+    "3p": "delegassem"
+  },
+  "FutSC": {
+    "1s": "delegar",
+    "2s": "delegares",
+    "3s": "delegar",
+    "1p": "delegarmos",
+    "2p": "delegardes",
+    "3p": "delegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "delega",
+    "3s": "delegue",
+    "1p": "deleguemos",
+    "2p": "delegai",
+    "3p": "deleguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não delegues",
+    "3s": "não delegue",
+    "1p": "não deleguemos",
+    "2p": "não delegueis",
+    "3p": "não deleguem"
+  },
+  "Part-ter": {
+    "": "delegado"
+  },
+  "Part-ser": {
+    "ms": "delegado",
+    "fs": "delegada",
+    "mp": "delegados",
+    "fp": "delegadas"
+  }
+}

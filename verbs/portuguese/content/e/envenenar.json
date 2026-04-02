@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "envenenar"
+  },
+  "InfP": {
+    "1s": "envenenar",
+    "2s": "envenenares",
+    "3s": "envenenar",
+    "1p": "envenenarmos",
+    "2p": "envenenardes",
+    "3p": "envenenarem"
+  },
+  "Ger": {
+    "": "envenenando"
+  },
+  "PresI": {
+    "1s": "enveneno",
+    "2s": "envenenas",
+    "3s": "envenena",
+    "1p": "envenenamos",
+    "2p": "envenenais",
+    "3p": "envenenam"
+  },
+  "PImpI": {
+    "1s": "envenenava",
+    "2s": "envenenavas",
+    "3s": "envenenava",
+    "1p": "envenenávamos",
+    "2p": "envenenáveis",
+    "3p": "envenenavam"
+  },
+  "PPSI": {
+    "1s": "envenenei",
+    "2s": "envenenaste",
+    "3s": "envenenou",
+    "1p": "envenenámos",
+    "2p": "envenenastes",
+    "3p": "envenenaram"
+  },
+  "PMQPSI": {
+    "1s": "envenenara",
+    "2s": "envenenaras",
+    "3s": "envenenara",
+    "1p": "envenenáramos",
+    "2p": "envenenáreis",
+    "3p": "envenenaram"
+  },
+  "FutSI": {
+    "1s": "envenenarei",
+    "2s": "envenenarás",
+    "3s": "envenenará",
+    "1p": "envenenaremos",
+    "2p": "envenenareis",
+    "3p": "envenenarão"
+  },
+  "CondS": {
+    "1s": "envenenaria",
+    "2s": "envenenarias",
+    "3s": "envenenaria",
+    "1p": "envenenaríamos",
+    "2p": "envenenaríeis",
+    "3p": "envenenariam"
+  },
+  "PresC": {
+    "1s": "envenene",
+    "2s": "envenenes",
+    "3s": "envenene",
+    "1p": "envenenemos",
+    "2p": "enveneneis",
+    "3p": "envenenem"
+  },
+  "PImpC": {
+    "1s": "envenenasse",
+    "2s": "envenenasses",
+    "3s": "envenenasse",
+    "1p": "envenenássemos",
+    "2p": "envenenásseis",
+    "3p": "envenenassem"
+  },
+  "FutSC": {
+    "1s": "envenenar",
+    "2s": "envenenares",
+    "3s": "envenenar",
+    "1p": "envenenarmos",
+    "2p": "envenenardes",
+    "3p": "envenenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envenena",
+    "3s": "envenene",
+    "1p": "envenenemos",
+    "2p": "envenenai",
+    "3p": "envenenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não envenenes",
+    "3s": "não envenene",
+    "1p": "não envenenemos",
+    "2p": "não enveneneis",
+    "3p": "não envenenem"
+  },
+  "Part-ter": {
+    "": "envenenado"
+  },
+  "Part-ser": {
+    "ms": "envenenado",
+    "fs": "envenenada",
+    "mp": "envenenados",
+    "fp": "envenenadas"
+  }
+}

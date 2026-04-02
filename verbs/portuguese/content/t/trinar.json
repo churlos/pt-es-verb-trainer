@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trinar"
+  },
+  "InfP": {
+    "1s": "trinar",
+    "2s": "trinares",
+    "3s": "trinar",
+    "1p": "trinarmos",
+    "2p": "trinardes",
+    "3p": "trinarem"
+  },
+  "Ger": {
+    "": "trinando"
+  },
+  "PresI": {
+    "1s": "trino",
+    "2s": "trinas",
+    "3s": "trina",
+    "1p": "trinamos",
+    "2p": "trinais",
+    "3p": "trinam"
+  },
+  "PImpI": {
+    "1s": "trinava",
+    "2s": "trinavas",
+    "3s": "trinava",
+    "1p": "trinávamos",
+    "2p": "trináveis",
+    "3p": "trinavam"
+  },
+  "PPSI": {
+    "1s": "trinei",
+    "2s": "trinaste",
+    "3s": "trinou",
+    "1p": "trinámos",
+    "2p": "trinastes",
+    "3p": "trinaram"
+  },
+  "PMQPSI": {
+    "1s": "trinara",
+    "2s": "trinaras",
+    "3s": "trinara",
+    "1p": "trináramos",
+    "2p": "trináreis",
+    "3p": "trinaram"
+  },
+  "FutSI": {
+    "1s": "trinarei",
+    "2s": "trinarás",
+    "3s": "trinará",
+    "1p": "trinaremos",
+    "2p": "trinareis",
+    "3p": "trinarão"
+  },
+  "CondS": {
+    "1s": "trinaria",
+    "2s": "trinarias",
+    "3s": "trinaria",
+    "1p": "trinaríamos",
+    "2p": "trinaríeis",
+    "3p": "trinariam"
+  },
+  "PresC": {
+    "1s": "trine",
+    "2s": "trines",
+    "3s": "trine",
+    "1p": "trinemos",
+    "2p": "trineis",
+    "3p": "trinem"
+  },
+  "PImpC": {
+    "1s": "trinasse",
+    "2s": "trinasses",
+    "3s": "trinasse",
+    "1p": "trinássemos",
+    "2p": "trinásseis",
+    "3p": "trinassem"
+  },
+  "FutSC": {
+    "1s": "trinar",
+    "2s": "trinares",
+    "3s": "trinar",
+    "1p": "trinarmos",
+    "2p": "trinardes",
+    "3p": "trinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trina",
+    "3s": "trine",
+    "1p": "trinemos",
+    "2p": "trinai",
+    "3p": "trinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não trines",
+    "3s": "não trine",
+    "1p": "não trinemos",
+    "2p": "não trineis",
+    "3p": "não trinem"
+  },
+  "Part-ter": {
+    "": "trinado"
+  },
+  "Part-ser": {
+    "ms": "trinado",
+    "fs": "trinada",
+    "mp": "trinados",
+    "fp": "trinadas"
+  }
+}

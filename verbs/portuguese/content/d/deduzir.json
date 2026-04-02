@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deduzir"
+  },
+  "InfP": {
+    "1s": "deduzir",
+    "2s": "deduzires",
+    "3s": "deduzir",
+    "1p": "deduzirmos",
+    "2p": "deduzirdes",
+    "3p": "deduzirem"
+  },
+  "Ger": {
+    "": "deduzindo"
+  },
+  "PresI": {
+    "1s": "deduzo",
+    "2s": "deduzes",
+    "3s": "deduz",
+    "1p": "deduzimos",
+    "2p": "deduzis",
+    "3p": "deduzem"
+  },
+  "PImpI": {
+    "1s": "deduzia",
+    "2s": "deduzias",
+    "3s": "deduzia",
+    "1p": "deduzíamos",
+    "2p": "deduzíeis",
+    "3p": "deduziam"
+  },
+  "PPSI": {
+    "1s": "deduzi",
+    "2s": "deduziste",
+    "3s": "deduziu",
+    "1p": "deduzimos",
+    "2p": "deduzistes",
+    "3p": "deduziram"
+  },
+  "PMQPSI": {
+    "1s": "deduzira",
+    "2s": "deduziras",
+    "3s": "deduzira",
+    "1p": "deduzíramos",
+    "2p": "deduzíreis",
+    "3p": "deduziram"
+  },
+  "FutSI": {
+    "1s": "deduzirei",
+    "2s": "deduzirás",
+    "3s": "deduzirá",
+    "1p": "deduziremos",
+    "2p": "deduzireis",
+    "3p": "deduzirão"
+  },
+  "CondS": {
+    "1s": "deduziria",
+    "2s": "deduzirias",
+    "3s": "deduziria",
+    "1p": "deduziríamos",
+    "2p": "deduziríeis",
+    "3p": "deduziriam"
+  },
+  "PresC": {
+    "1s": "deduza",
+    "2s": "deduzas",
+    "3s": "deduza",
+    "1p": "deduzamos",
+    "2p": "deduzais",
+    "3p": "deduzam"
+  },
+  "PImpC": {
+    "1s": "deduzisse",
+    "2s": "deduzisses",
+    "3s": "deduzisse",
+    "1p": "deduzíssemos",
+    "2p": "deduzísseis",
+    "3p": "deduzissem"
+  },
+  "FutSC": {
+    "1s": "deduzir",
+    "2s": "deduzires",
+    "3s": "deduzir",
+    "1p": "deduzirmos",
+    "2p": "deduzirdes",
+    "3p": "deduzirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deduzdeduze",
+    "3s": "deduza",
+    "1p": "deduzamos",
+    "2p": "deduzi",
+    "3p": "deduzam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deduzas",
+    "3s": "não deduza",
+    "1p": "não deduzamos",
+    "2p": "não deduzais",
+    "3p": "não deduzam"
+  },
+  "Part-ter": {
+    "": "deduzido"
+  },
+  "Part-ser": {
+    "ms": "deduzido",
+    "fs": "deduzida",
+    "mp": "deduzidos",
+    "fp": "deduzidas"
+  }
+}

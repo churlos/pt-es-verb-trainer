@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "elaborar"
+  },
+  "Ger": {
+    "": "elaborando"
+  },
+  "PresI": {
+    "1s": "elaboro",
+    "2s": "elaboras",
+    "3s": "elabora",
+    "1p": "elaboramos",
+    "2p": "elaboráis",
+    "3p": "elaboran"
+  },
+  "PImpI": {
+    "1s": "elaboraba",
+    "2s": "elaborabas",
+    "3s": "elaboraba",
+    "1p": "elaborábamos",
+    "2p": "elaborabais",
+    "3p": "elaboraban"
+  },
+  "PPSI": {
+    "1s": "elaboré",
+    "2s": "elaboraste",
+    "3s": "elaboró",
+    "1p": "elaboramos",
+    "2p": "elaborasteis",
+    "3p": "elaboraron"
+  },
+  "FutSI": {
+    "1s": "elaboraré",
+    "2s": "elaborarás",
+    "3s": "elaborará",
+    "1p": "elaboraremos",
+    "2p": "elaboraréis",
+    "3p": "elaborarán"
+  },
+  "CondS": {
+    "1s": "elaboraría",
+    "2s": "elaborarías",
+    "3s": "elaboraría",
+    "1p": "elaboraríamos",
+    "2p": "elaboraríais",
+    "3p": "elaborarían"
+  },
+  "PresC": {
+    "1s": "elabore",
+    "2s": "elabores",
+    "3s": "elabore",
+    "1p": "elaboremos",
+    "2p": "elaboréis",
+    "3p": "elaboren"
+  },
+  "PMQPSI": {
+    "1s": "elaborara",
+    "2s": "elaboraras",
+    "3s": "elaborara",
+    "1p": "elaboráramos",
+    "2p": "elaborarais",
+    "3p": "elaboraran"
+  },
+  "PImpC": {
+    "1s": "elaborase",
+    "2s": "elaborases",
+    "3s": "elaborase",
+    "1p": "elaborásemos",
+    "2p": "elaboraseis",
+    "3p": "elaborasen"
+  },
+  "FutSC": {
+    "1s": "elaborare",
+    "2s": "elaborares",
+    "3s": "elaborare",
+    "1p": "elaboráremos",
+    "2p": "elaborareis",
+    "3p": "elaboraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elabora",
+    "3s": "elabore",
+    "1p": "elaboremos",
+    "2p": "elaborad",
+    "3p": "elaboren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no elabores",
+    "3s": "no elabore",
+    "1p": "no elaboremos",
+    "2p": "no elaboréis",
+    "3p": "no elaboren"
+  },
+  "Part-ter": {
+    "": "elaborado"
+  },
+  "Part-ser": {
+    "ms": "elaborado",
+    "fs": "elaborada",
+    "mp": "elaborados",
+    "fp": "elaboradas"
+  }
+}

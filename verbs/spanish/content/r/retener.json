@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retener"
+  },
+  "Ger": {
+    "": "reteniendo"
+  },
+  "PresI": {
+    "1s": "retengo",
+    "2s": "retienes",
+    "3s": "retiene",
+    "1p": "retenemos",
+    "2p": "retenéis",
+    "3p": "retienen"
+  },
+  "PImpI": {
+    "1s": "retenía",
+    "2s": "retenías",
+    "3s": "retenía",
+    "1p": "reteníamos",
+    "2p": "reteníais",
+    "3p": "retenían"
+  },
+  "PPSI": {
+    "1s": "retuve",
+    "2s": "retuviste",
+    "3s": "retuvo",
+    "1p": "retuvimos",
+    "2p": "retuvisteis",
+    "3p": "retuvieron"
+  },
+  "FutSI": {
+    "1s": "retendré",
+    "2s": "retendrás",
+    "3s": "retendrá",
+    "1p": "retendremos",
+    "2p": "retendréis",
+    "3p": "retendrán"
+  },
+  "CondS": {
+    "1s": "retendría",
+    "2s": "retendrías",
+    "3s": "retendría",
+    "1p": "retendríamos",
+    "2p": "retendríais",
+    "3p": "retendrían"
+  },
+  "PresC": {
+    "1s": "retenga",
+    "2s": "retengas",
+    "3s": "retenga",
+    "1p": "retengamos",
+    "2p": "retengáis",
+    "3p": "retengan"
+  },
+  "PMQPSI": {
+    "1s": "retuviera",
+    "2s": "retuvieras",
+    "3s": "retuviera",
+    "1p": "retuviéramos",
+    "2p": "retuvierais",
+    "3p": "retuvieran"
+  },
+  "PImpC": {
+    "1s": "retuviese",
+    "2s": "retuvieses",
+    "3s": "retuviese",
+    "1p": "retuviésemos",
+    "2p": "retuvieseis",
+    "3p": "retuviesen"
+  },
+  "FutSC": {
+    "1s": "retuviere",
+    "2s": "retuvieres",
+    "3s": "retuviere",
+    "1p": "retuviéremos",
+    "2p": "retuviereis",
+    "3p": "retuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retén",
+    "3s": "retenga",
+    "1p": "retengamos",
+    "2p": "retened",
+    "3p": "retengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retengas",
+    "3s": "no retenga",
+    "1p": "no retengamos",
+    "2p": "no retengáis",
+    "3p": "no retengan"
+  },
+  "Part-ter": {
+    "": "retenido"
+  },
+  "Part-ser": {
+    "ms": "retenido",
+    "fs": "retenida",
+    "mp": "retenidos",
+    "fp": "retenidas"
+  }
+}

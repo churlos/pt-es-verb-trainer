@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cardar"
+  },
+  "InfP": {
+    "1s": "cardar",
+    "2s": "cardares",
+    "3s": "cardar",
+    "1p": "cardarmos",
+    "2p": "cardardes",
+    "3p": "cardarem"
+  },
+  "Ger": {
+    "": "cardando"
+  },
+  "PresI": {
+    "1s": "cardo",
+    "2s": "cardas",
+    "3s": "carda",
+    "1p": "cardamos",
+    "2p": "cardais",
+    "3p": "cardam"
+  },
+  "PImpI": {
+    "1s": "cardava",
+    "2s": "cardavas",
+    "3s": "cardava",
+    "1p": "cardávamos",
+    "2p": "cardáveis",
+    "3p": "cardavam"
+  },
+  "PPSI": {
+    "1s": "cardei",
+    "2s": "cardaste",
+    "3s": "cardou",
+    "1p": "cardámos",
+    "2p": "cardastes",
+    "3p": "cardaram"
+  },
+  "PMQPSI": {
+    "1s": "cardara",
+    "2s": "cardaras",
+    "3s": "cardara",
+    "1p": "cardáramos",
+    "2p": "cardáreis",
+    "3p": "cardaram"
+  },
+  "FutSI": {
+    "1s": "cardarei",
+    "2s": "cardarás",
+    "3s": "cardará",
+    "1p": "cardaremos",
+    "2p": "cardareis",
+    "3p": "cardarão"
+  },
+  "CondS": {
+    "1s": "cardaria",
+    "2s": "cardarias",
+    "3s": "cardaria",
+    "1p": "cardaríamos",
+    "2p": "cardaríeis",
+    "3p": "cardariam"
+  },
+  "PresC": {
+    "1s": "carde",
+    "2s": "cardes",
+    "3s": "carde",
+    "1p": "cardemos",
+    "2p": "cardeis",
+    "3p": "cardem"
+  },
+  "PImpC": {
+    "1s": "cardasse",
+    "2s": "cardasses",
+    "3s": "cardasse",
+    "1p": "cardássemos",
+    "2p": "cardásseis",
+    "3p": "cardassem"
+  },
+  "FutSC": {
+    "1s": "cardar",
+    "2s": "cardares",
+    "3s": "cardar",
+    "1p": "cardarmos",
+    "2p": "cardardes",
+    "3p": "cardarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carda",
+    "3s": "carde",
+    "1p": "cardemos",
+    "2p": "cardai",
+    "3p": "cardem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cardes",
+    "3s": "não carde",
+    "1p": "não cardemos",
+    "2p": "não cardeis",
+    "3p": "não cardem"
+  },
+  "Part-ter": {
+    "": "cardado"
+  },
+  "Part-ser": {
+    "ms": "cardado",
+    "fs": "cardada",
+    "mp": "cardados",
+    "fp": "cardadas"
+  }
+}

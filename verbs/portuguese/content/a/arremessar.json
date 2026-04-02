@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arremessar"
+  },
+  "InfP": {
+    "1s": "arremessar",
+    "2s": "arremessares",
+    "3s": "arremessar",
+    "1p": "arremessarmos",
+    "2p": "arremessardes",
+    "3p": "arremessarem"
+  },
+  "Ger": {
+    "": "arremessando"
+  },
+  "PresI": {
+    "1s": "arremesso",
+    "2s": "arremessas",
+    "3s": "arremessa",
+    "1p": "arremessamos",
+    "2p": "arremessais",
+    "3p": "arremessam"
+  },
+  "PImpI": {
+    "1s": "arremessava",
+    "2s": "arremessavas",
+    "3s": "arremessava",
+    "1p": "arremessávamos",
+    "2p": "arremessáveis",
+    "3p": "arremessavam"
+  },
+  "PPSI": {
+    "1s": "arremessei",
+    "2s": "arremessaste",
+    "3s": "arremessou",
+    "1p": "arremessámos",
+    "2p": "arremessastes",
+    "3p": "arremessaram"
+  },
+  "PMQPSI": {
+    "1s": "arremessara",
+    "2s": "arremessaras",
+    "3s": "arremessara",
+    "1p": "arremessáramos",
+    "2p": "arremessáreis",
+    "3p": "arremessaram"
+  },
+  "FutSI": {
+    "1s": "arremessarei",
+    "2s": "arremessarás",
+    "3s": "arremessará",
+    "1p": "arremessaremos",
+    "2p": "arremessareis",
+    "3p": "arremessarão"
+  },
+  "CondS": {
+    "1s": "arremessaria",
+    "2s": "arremessarias",
+    "3s": "arremessaria",
+    "1p": "arremessaríamos",
+    "2p": "arremessaríeis",
+    "3p": "arremessariam"
+  },
+  "PresC": {
+    "1s": "arremesse",
+    "2s": "arremesses",
+    "3s": "arremesse",
+    "1p": "arremessemos",
+    "2p": "arremesseis",
+    "3p": "arremessem"
+  },
+  "PImpC": {
+    "1s": "arremessasse",
+    "2s": "arremessasses",
+    "3s": "arremessasse",
+    "1p": "arremessássemos",
+    "2p": "arremessásseis",
+    "3p": "arremessassem"
+  },
+  "FutSC": {
+    "1s": "arremessar",
+    "2s": "arremessares",
+    "3s": "arremessar",
+    "1p": "arremessarmos",
+    "2p": "arremessardes",
+    "3p": "arremessarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arremessa",
+    "3s": "arremesse",
+    "1p": "arremessemos",
+    "2p": "arremessai",
+    "3p": "arremessem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arremesses",
+    "3s": "não arremesse",
+    "1p": "não arremessemos",
+    "2p": "não arremesseis",
+    "3p": "não arremessem"
+  },
+  "Part-ter": {
+    "": "arremessado"
+  },
+  "Part-ser": {
+    "ms": "arremessado",
+    "fs": "arremessada",
+    "mp": "arremessados",
+    "fp": "arremessadas"
+  }
+}

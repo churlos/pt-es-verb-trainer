@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inmunizar"
+  },
+  "Ger": {
+    "": "inmunizando"
+  },
+  "PresI": {
+    "1s": "inmunizo",
+    "2s": "inmunizas",
+    "3s": "inmuniza",
+    "1p": "inmunizamos",
+    "2p": "inmunizáis",
+    "3p": "inmunizan"
+  },
+  "PImpI": {
+    "1s": "inmunizaba",
+    "2s": "inmunizabas",
+    "3s": "inmunizaba",
+    "1p": "inmunizábamos",
+    "2p": "inmunizabais",
+    "3p": "inmunizaban"
+  },
+  "PPSI": {
+    "1s": "inmunicé",
+    "2s": "inmunizaste",
+    "3s": "inmunizó",
+    "1p": "inmunizamos",
+    "2p": "inmunizasteis",
+    "3p": "inmunizaron"
+  },
+  "FutSI": {
+    "1s": "inmunizaré",
+    "2s": "inmunizarás",
+    "3s": "inmunizará",
+    "1p": "inmunizaremos",
+    "2p": "inmunizaréis",
+    "3p": "inmunizarán"
+  },
+  "CondS": {
+    "1s": "inmunizaría",
+    "2s": "inmunizarías",
+    "3s": "inmunizaría",
+    "1p": "inmunizaríamos",
+    "2p": "inmunizaríais",
+    "3p": "inmunizarían"
+  },
+  "PresC": {
+    "1s": "inmunice",
+    "2s": "inmunices",
+    "3s": "inmunice",
+    "1p": "inmunicemos",
+    "2p": "inmunicéis",
+    "3p": "inmunicen"
+  },
+  "PMQPSI": {
+    "1s": "inmunizara",
+    "2s": "inmunizaras",
+    "3s": "inmunizara",
+    "1p": "inmunizáramos",
+    "2p": "inmunizarais",
+    "3p": "inmunizaran"
+  },
+  "PImpC": {
+    "1s": "inmunizase",
+    "2s": "inmunizases",
+    "3s": "inmunizase",
+    "1p": "inmunizásemos",
+    "2p": "inmunizaseis",
+    "3p": "inmunizasen"
+  },
+  "FutSC": {
+    "1s": "inmunizare",
+    "2s": "inmunizares",
+    "3s": "inmunizare",
+    "1p": "inmunizáremos",
+    "2p": "inmunizareis",
+    "3p": "inmunizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inmuniza",
+    "3s": "inmunice",
+    "1p": "inmunicemos",
+    "2p": "inmunizad",
+    "3p": "inmunicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inmunices",
+    "3s": "no inmunice",
+    "1p": "no inmunicemos",
+    "2p": "no inmunicéis",
+    "3p": "no inmunicen"
+  },
+  "Part-ter": {
+    "": "inmunizado"
+  },
+  "Part-ser": {
+    "ms": "inmunizado",
+    "fs": "inmunizada",
+    "mp": "inmunizados",
+    "fp": "inmunizadas"
+  }
+}

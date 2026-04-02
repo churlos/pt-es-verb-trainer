@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exteriorizar"
+  },
+  "InfP": {
+    "1s": "exteriorizar",
+    "2s": "exteriorizares",
+    "3s": "exteriorizar",
+    "1p": "exteriorizarmos",
+    "2p": "exteriorizardes",
+    "3p": "exteriorizarem"
+  },
+  "Ger": {
+    "": "exteriorizando"
+  },
+  "PresI": {
+    "1s": "exteriorizo",
+    "2s": "exteriorizas",
+    "3s": "exterioriza",
+    "1p": "exteriorizamos",
+    "2p": "exteriorizais",
+    "3p": "exteriorizam"
+  },
+  "PImpI": {
+    "1s": "exteriorizava",
+    "2s": "exteriorizavas",
+    "3s": "exteriorizava",
+    "1p": "exteriorizávamos",
+    "2p": "exteriorizáveis",
+    "3p": "exteriorizavam"
+  },
+  "PPSI": {
+    "1s": "exteriorizei",
+    "2s": "exteriorizaste",
+    "3s": "exteriorizou",
+    "1p": "exteriorizámos",
+    "2p": "exteriorizastes",
+    "3p": "exteriorizaram"
+  },
+  "PMQPSI": {
+    "1s": "exteriorizara",
+    "2s": "exteriorizaras",
+    "3s": "exteriorizara",
+    "1p": "exteriorizáramos",
+    "2p": "exteriorizáreis",
+    "3p": "exteriorizaram"
+  },
+  "FutSI": {
+    "1s": "exteriorizarei",
+    "2s": "exteriorizarás",
+    "3s": "exteriorizará",
+    "1p": "exteriorizaremos",
+    "2p": "exteriorizareis",
+    "3p": "exteriorizarão"
+  },
+  "CondS": {
+    "1s": "exteriorizaria",
+    "2s": "exteriorizarias",
+    "3s": "exteriorizaria",
+    "1p": "exteriorizaríamos",
+    "2p": "exteriorizaríeis",
+    "3p": "exteriorizariam"
+  },
+  "PresC": {
+    "1s": "exteriorize",
+    "2s": "exteriorizes",
+    "3s": "exteriorize",
+    "1p": "exteriorizemos",
+    "2p": "exteriorizeis",
+    "3p": "exteriorizem"
+  },
+  "PImpC": {
+    "1s": "exteriorizasse",
+    "2s": "exteriorizasses",
+    "3s": "exteriorizasse",
+    "1p": "exteriorizássemos",
+    "2p": "exteriorizásseis",
+    "3p": "exteriorizassem"
+  },
+  "FutSC": {
+    "1s": "exteriorizar",
+    "2s": "exteriorizares",
+    "3s": "exteriorizar",
+    "1p": "exteriorizarmos",
+    "2p": "exteriorizardes",
+    "3p": "exteriorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exterioriza",
+    "3s": "exteriorize",
+    "1p": "exteriorizemos",
+    "2p": "exteriorizai",
+    "3p": "exteriorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exteriorizes",
+    "3s": "não exteriorize",
+    "1p": "não exteriorizemos",
+    "2p": "não exteriorizeis",
+    "3p": "não exteriorizem"
+  },
+  "Part-ter": {
+    "": "exteriorizado"
+  },
+  "Part-ser": {
+    "ms": "exteriorizado",
+    "fs": "exteriorizada",
+    "mp": "exteriorizados",
+    "fp": "exteriorizadas"
+  }
+}

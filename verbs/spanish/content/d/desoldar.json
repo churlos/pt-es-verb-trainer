@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desoldar"
+  },
+  "Ger": {
+    "": "desoldando"
+  },
+  "PresI": {
+    "1s": "desueldo",
+    "2s": "desueldas",
+    "3s": "desuelda",
+    "1p": "desoldamos",
+    "2p": "desoldáis",
+    "3p": "desueldan"
+  },
+  "PImpI": {
+    "1s": "desoldaba",
+    "2s": "desoldabas",
+    "3s": "desoldaba",
+    "1p": "desoldábamos",
+    "2p": "desoldabais",
+    "3p": "desoldaban"
+  },
+  "PPSI": {
+    "1s": "desoldé",
+    "2s": "desoldaste",
+    "3s": "desoldó",
+    "1p": "desoldamos",
+    "2p": "desoldasteis",
+    "3p": "desoldaron"
+  },
+  "FutSI": {
+    "1s": "desoldaré",
+    "2s": "desoldarás",
+    "3s": "desoldará",
+    "1p": "desoldaremos",
+    "2p": "desoldaréis",
+    "3p": "desoldarán"
+  },
+  "CondS": {
+    "1s": "desoldaría",
+    "2s": "desoldarías",
+    "3s": "desoldaría",
+    "1p": "desoldaríamos",
+    "2p": "desoldaríais",
+    "3p": "desoldarían"
+  },
+  "PresC": {
+    "1s": "desuelde",
+    "2s": "desueldes",
+    "3s": "desuelde",
+    "1p": "desoldemos",
+    "2p": "desoldéis",
+    "3p": "desuelden"
+  },
+  "PMQPSI": {
+    "1s": "desoldara",
+    "2s": "desoldaras",
+    "3s": "desoldara",
+    "1p": "desoldáramos",
+    "2p": "desoldarais",
+    "3p": "desoldaran"
+  },
+  "PImpC": {
+    "1s": "desoldase",
+    "2s": "desoldases",
+    "3s": "desoldase",
+    "1p": "desoldásemos",
+    "2p": "desoldaseis",
+    "3p": "desoldasen"
+  },
+  "FutSC": {
+    "1s": "desoldare",
+    "2s": "desoldares",
+    "3s": "desoldare",
+    "1p": "desoldáremos",
+    "2p": "desoldareis",
+    "3p": "desoldaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desuelda",
+    "3s": "desuelde",
+    "1p": "desoldemos",
+    "2p": "desoldad",
+    "3p": "desuelden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desueldes",
+    "3s": "no desuelde",
+    "1p": "no desoldemos",
+    "2p": "no desoldéis",
+    "3p": "no desuelden"
+  },
+  "Part-ter": {
+    "": "desoldado"
+  },
+  "Part-ser": {
+    "ms": "desoldado",
+    "fs": "desoldada",
+    "mp": "desoldados",
+    "fp": "desoldadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transpirar"
+  },
+  "Ger": {
+    "": "transpirando"
+  },
+  "PresI": {
+    "1s": "transpiro",
+    "2s": "transpiras",
+    "3s": "transpira",
+    "1p": "transpiramos",
+    "2p": "transpiráis",
+    "3p": "transpiran"
+  },
+  "PImpI": {
+    "1s": "transpiraba",
+    "2s": "transpirabas",
+    "3s": "transpiraba",
+    "1p": "transpirábamos",
+    "2p": "transpirabais",
+    "3p": "transpiraban"
+  },
+  "PPSI": {
+    "1s": "transpiré",
+    "2s": "transpiraste",
+    "3s": "transpiró",
+    "1p": "transpiramos",
+    "2p": "transpirasteis",
+    "3p": "transpiraron"
+  },
+  "FutSI": {
+    "1s": "transpiraré",
+    "2s": "transpirarás",
+    "3s": "transpirará",
+    "1p": "transpiraremos",
+    "2p": "transpiraréis",
+    "3p": "transpirarán"
+  },
+  "CondS": {
+    "1s": "transpiraría",
+    "2s": "transpirarías",
+    "3s": "transpiraría",
+    "1p": "transpiraríamos",
+    "2p": "transpiraríais",
+    "3p": "transpirarían"
+  },
+  "PresC": {
+    "1s": "transpire",
+    "2s": "transpires",
+    "3s": "transpire",
+    "1p": "transpiremos",
+    "2p": "transpiréis",
+    "3p": "transpiren"
+  },
+  "PMQPSI": {
+    "1s": "transpirara",
+    "2s": "transpiraras",
+    "3s": "transpirara",
+    "1p": "transpiráramos",
+    "2p": "transpirarais",
+    "3p": "transpiraran"
+  },
+  "PImpC": {
+    "1s": "transpirase",
+    "2s": "transpirases",
+    "3s": "transpirase",
+    "1p": "transpirásemos",
+    "2p": "transpiraseis",
+    "3p": "transpirasen"
+  },
+  "FutSC": {
+    "1s": "transpirare",
+    "2s": "transpirares",
+    "3s": "transpirare",
+    "1p": "transpiráremos",
+    "2p": "transpirareis",
+    "3p": "transpiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transpira",
+    "3s": "transpire",
+    "1p": "transpiremos",
+    "2p": "transpirad",
+    "3p": "transpiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transpires",
+    "3s": "no transpire",
+    "1p": "no transpiremos",
+    "2p": "no transpiréis",
+    "3p": "no transpiren"
+  },
+  "Part-ter": {
+    "": "transpirado"
+  },
+  "Part-ser": {
+    "ms": "transpirado",
+    "fs": "transpirada",
+    "mp": "transpirados",
+    "fp": "transpiradas"
+  }
+}

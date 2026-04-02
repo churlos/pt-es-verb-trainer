@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "afiançar"
+  },
+  "InfP": {
+    "1s": "afiançar",
+    "2s": "afiançares",
+    "3s": "afiançar",
+    "1p": "afiançarmos",
+    "2p": "afiançardes",
+    "3p": "afiançarem"
+  },
+  "Ger": {
+    "": "afiançando"
+  },
+  "PresI": {
+    "1s": "afianço",
+    "2s": "afianças",
+    "3s": "afiança",
+    "1p": "afiançamos",
+    "2p": "afiançais",
+    "3p": "afiançam"
+  },
+  "PImpI": {
+    "1s": "afiançava",
+    "2s": "afiançavas",
+    "3s": "afiançava",
+    "1p": "afiançávamos",
+    "2p": "afiançáveis",
+    "3p": "afiançavam"
+  },
+  "PPSI": {
+    "1s": "afiancei",
+    "2s": "afiançaste",
+    "3s": "afiançou",
+    "1p": "afiançámos",
+    "2p": "afiançastes",
+    "3p": "afiançaram"
+  },
+  "PMQPSI": {
+    "1s": "afiançara",
+    "2s": "afiançaras",
+    "3s": "afiançara",
+    "1p": "afiançáramos",
+    "2p": "afiançáreis",
+    "3p": "afiançaram"
+  },
+  "FutSI": {
+    "1s": "afiançarei",
+    "2s": "afiançarás",
+    "3s": "afiançará",
+    "1p": "afiançaremos",
+    "2p": "afiançareis",
+    "3p": "afiançarão"
+  },
+  "CondS": {
+    "1s": "afiançaria",
+    "2s": "afiançarias",
+    "3s": "afiançaria",
+    "1p": "afiançaríamos",
+    "2p": "afiançaríeis",
+    "3p": "afiançariam"
+  },
+  "PresC": {
+    "1s": "afiance",
+    "2s": "afiances",
+    "3s": "afiance",
+    "1p": "afiancemos",
+    "2p": "afianceis",
+    "3p": "afiancem"
+  },
+  "PImpC": {
+    "1s": "afiançasse",
+    "2s": "afiançasses",
+    "3s": "afiançasse",
+    "1p": "afiançássemos",
+    "2p": "afiançásseis",
+    "3p": "afiançassem"
+  },
+  "FutSC": {
+    "1s": "afiançar",
+    "2s": "afiançares",
+    "3s": "afiançar",
+    "1p": "afiançarmos",
+    "2p": "afiançardes",
+    "3p": "afiançarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afiança",
+    "3s": "afiance",
+    "1p": "afiancemos",
+    "2p": "afiançai",
+    "3p": "afiancem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não afiances",
+    "3s": "não afiance",
+    "1p": "não afiancemos",
+    "2p": "não afianceis",
+    "3p": "não afiancem"
+  },
+  "Part-ter": {
+    "": "afiançado"
+  },
+  "Part-ser": {
+    "ms": "afiançado",
+    "fs": "afiançada",
+    "mp": "afiançados",
+    "fp": "afiançadas"
+  }
+}

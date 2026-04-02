@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "simbolizar"
+  },
+  "InfP": {
+    "1s": "simbolizar",
+    "2s": "simbolizares",
+    "3s": "simbolizar",
+    "1p": "simbolizarmos",
+    "2p": "simbolizardes",
+    "3p": "simbolizarem"
+  },
+  "Ger": {
+    "": "simbolizando"
+  },
+  "PresI": {
+    "1s": "simbolizo",
+    "2s": "simbolizas",
+    "3s": "simboliza",
+    "1p": "simbolizamos",
+    "2p": "simbolizais",
+    "3p": "simbolizam"
+  },
+  "PImpI": {
+    "1s": "simbolizava",
+    "2s": "simbolizavas",
+    "3s": "simbolizava",
+    "1p": "simbolizávamos",
+    "2p": "simbolizáveis",
+    "3p": "simbolizavam"
+  },
+  "PPSI": {
+    "1s": "simbolizei",
+    "2s": "simbolizaste",
+    "3s": "simbolizou",
+    "1p": "simbolizámos",
+    "2p": "simbolizastes",
+    "3p": "simbolizaram"
+  },
+  "PMQPSI": {
+    "1s": "simbolizara",
+    "2s": "simbolizaras",
+    "3s": "simbolizara",
+    "1p": "simbolizáramos",
+    "2p": "simbolizáreis",
+    "3p": "simbolizaram"
+  },
+  "FutSI": {
+    "1s": "simbolizarei",
+    "2s": "simbolizarás",
+    "3s": "simbolizará",
+    "1p": "simbolizaremos",
+    "2p": "simbolizareis",
+    "3p": "simbolizarão"
+  },
+  "CondS": {
+    "1s": "simbolizaria",
+    "2s": "simbolizarias",
+    "3s": "simbolizaria",
+    "1p": "simbolizaríamos",
+    "2p": "simbolizaríeis",
+    "3p": "simbolizariam"
+  },
+  "PresC": {
+    "1s": "simbolize",
+    "2s": "simbolizes",
+    "3s": "simbolize",
+    "1p": "simbolizemos",
+    "2p": "simbolizeis",
+    "3p": "simbolizem"
+  },
+  "PImpC": {
+    "1s": "simbolizasse",
+    "2s": "simbolizasses",
+    "3s": "simbolizasse",
+    "1p": "simbolizássemos",
+    "2p": "simbolizásseis",
+    "3p": "simbolizassem"
+  },
+  "FutSC": {
+    "1s": "simbolizar",
+    "2s": "simbolizares",
+    "3s": "simbolizar",
+    "1p": "simbolizarmos",
+    "2p": "simbolizardes",
+    "3p": "simbolizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "simboliza",
+    "3s": "simbolize",
+    "1p": "simbolizemos",
+    "2p": "simbolizai",
+    "3p": "simbolizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não simbolizes",
+    "3s": "não simbolize",
+    "1p": "não simbolizemos",
+    "2p": "não simbolizeis",
+    "3p": "não simbolizem"
+  },
+  "Part-ter": {
+    "": "simbolizado"
+  },
+  "Part-ser": {
+    "ms": "simbolizado",
+    "fs": "simbolizada",
+    "mp": "simbolizados",
+    "fp": "simbolizadas"
+  }
+}

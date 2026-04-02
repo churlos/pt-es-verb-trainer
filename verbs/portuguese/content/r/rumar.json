@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rumar"
+  },
+  "InfP": {
+    "1s": "rumar",
+    "2s": "rumares",
+    "3s": "rumar",
+    "1p": "rumarmos",
+    "2p": "rumardes",
+    "3p": "rumarem"
+  },
+  "Ger": {
+    "": "rumando"
+  },
+  "PresI": {
+    "1s": "rumo",
+    "2s": "rumas",
+    "3s": "ruma",
+    "1p": "rumamos",
+    "2p": "rumais",
+    "3p": "rumam"
+  },
+  "PImpI": {
+    "1s": "rumava",
+    "2s": "rumavas",
+    "3s": "rumava",
+    "1p": "rumávamos",
+    "2p": "rumáveis",
+    "3p": "rumavam"
+  },
+  "PPSI": {
+    "1s": "rumei",
+    "2s": "rumaste",
+    "3s": "rumou",
+    "1p": "rumámos",
+    "2p": "rumastes",
+    "3p": "rumaram"
+  },
+  "PMQPSI": {
+    "1s": "rumara",
+    "2s": "rumaras",
+    "3s": "rumara",
+    "1p": "rumáramos",
+    "2p": "rumáreis",
+    "3p": "rumaram"
+  },
+  "FutSI": {
+    "1s": "rumarei",
+    "2s": "rumarás",
+    "3s": "rumará",
+    "1p": "rumaremos",
+    "2p": "rumareis",
+    "3p": "rumarão"
+  },
+  "CondS": {
+    "1s": "rumaria",
+    "2s": "rumarias",
+    "3s": "rumaria",
+    "1p": "rumaríamos",
+    "2p": "rumaríeis",
+    "3p": "rumariam"
+  },
+  "PresC": {
+    "1s": "rume",
+    "2s": "rumes",
+    "3s": "rume",
+    "1p": "rumemos",
+    "2p": "rumeis",
+    "3p": "rumem"
+  },
+  "PImpC": {
+    "1s": "rumasse",
+    "2s": "rumasses",
+    "3s": "rumasse",
+    "1p": "rumássemos",
+    "2p": "rumásseis",
+    "3p": "rumassem"
+  },
+  "FutSC": {
+    "1s": "rumar",
+    "2s": "rumares",
+    "3s": "rumar",
+    "1p": "rumarmos",
+    "2p": "rumardes",
+    "3p": "rumarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ruma",
+    "3s": "rume",
+    "1p": "rumemos",
+    "2p": "rumai",
+    "3p": "rumem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rumes",
+    "3s": "não rume",
+    "1p": "não rumemos",
+    "2p": "não rumeis",
+    "3p": "não rumem"
+  },
+  "Part-ter": {
+    "": "rumado"
+  },
+  "Part-ser": {
+    "ms": "rumado",
+    "fs": "rumada",
+    "mp": "rumados",
+    "fp": "rumadas"
+  }
+}

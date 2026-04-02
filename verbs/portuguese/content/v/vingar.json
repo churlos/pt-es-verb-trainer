@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vingar"
+  },
+  "InfP": {
+    "1s": "vingar",
+    "2s": "vingares",
+    "3s": "vingar",
+    "1p": "vingarmos",
+    "2p": "vingardes",
+    "3p": "vingarem"
+  },
+  "Ger": {
+    "": "vingando"
+  },
+  "PresI": {
+    "1s": "vingo",
+    "2s": "vingas",
+    "3s": "vinga",
+    "1p": "vingamos",
+    "2p": "vingais",
+    "3p": "vingam"
+  },
+  "PImpI": {
+    "1s": "vingava",
+    "2s": "vingavas",
+    "3s": "vingava",
+    "1p": "vingávamos",
+    "2p": "vingáveis",
+    "3p": "vingavam"
+  },
+  "PPSI": {
+    "1s": "vinguei",
+    "2s": "vingaste",
+    "3s": "vingou",
+    "1p": "vingámos",
+    "2p": "vingastes",
+    "3p": "vingaram"
+  },
+  "PMQPSI": {
+    "1s": "vingara",
+    "2s": "vingaras",
+    "3s": "vingara",
+    "1p": "vingáramos",
+    "2p": "vingáreis",
+    "3p": "vingaram"
+  },
+  "FutSI": {
+    "1s": "vingarei",
+    "2s": "vingarás",
+    "3s": "vingará",
+    "1p": "vingaremos",
+    "2p": "vingareis",
+    "3p": "vingarão"
+  },
+  "CondS": {
+    "1s": "vingaria",
+    "2s": "vingarias",
+    "3s": "vingaria",
+    "1p": "vingaríamos",
+    "2p": "vingaríeis",
+    "3p": "vingariam"
+  },
+  "PresC": {
+    "1s": "vingue",
+    "2s": "vingues",
+    "3s": "vingue",
+    "1p": "vinguemos",
+    "2p": "vingueis",
+    "3p": "vinguem"
+  },
+  "PImpC": {
+    "1s": "vingasse",
+    "2s": "vingasses",
+    "3s": "vingasse",
+    "1p": "vingássemos",
+    "2p": "vingásseis",
+    "3p": "vingassem"
+  },
+  "FutSC": {
+    "1s": "vingar",
+    "2s": "vingares",
+    "3s": "vingar",
+    "1p": "vingarmos",
+    "2p": "vingardes",
+    "3p": "vingarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vinga",
+    "3s": "vingue",
+    "1p": "vinguemos",
+    "2p": "vingai",
+    "3p": "vinguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vingues",
+    "3s": "não vingue",
+    "1p": "não vinguemos",
+    "2p": "não vingueis",
+    "3p": "não vinguem"
+  },
+  "Part-ter": {
+    "": "vingado"
+  },
+  "Part-ser": {
+    "ms": "vingado",
+    "fs": "vingada",
+    "mp": "vingados",
+    "fp": "vingadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "serrar"
+  },
+  "InfP": {
+    "1s": "serrar",
+    "2s": "serrares",
+    "3s": "serrar",
+    "1p": "serrarmos",
+    "2p": "serrardes",
+    "3p": "serrarem"
+  },
+  "Ger": {
+    "": "serrando"
+  },
+  "PresI": {
+    "1s": "serro",
+    "2s": "serras",
+    "3s": "serra",
+    "1p": "serramos",
+    "2p": "serrais",
+    "3p": "serram"
+  },
+  "PImpI": {
+    "1s": "serrava",
+    "2s": "serravas",
+    "3s": "serrava",
+    "1p": "serrávamos",
+    "2p": "serráveis",
+    "3p": "serravam"
+  },
+  "PPSI": {
+    "1s": "serrei",
+    "2s": "serraste",
+    "3s": "serrou",
+    "1p": "serrámos",
+    "2p": "serrastes",
+    "3p": "serraram"
+  },
+  "PMQPSI": {
+    "1s": "serrara",
+    "2s": "serraras",
+    "3s": "serrara",
+    "1p": "serráramos",
+    "2p": "serráreis",
+    "3p": "serraram"
+  },
+  "FutSI": {
+    "1s": "serrarei",
+    "2s": "serrarás",
+    "3s": "serrará",
+    "1p": "serraremos",
+    "2p": "serrareis",
+    "3p": "serrarão"
+  },
+  "CondS": {
+    "1s": "serraria",
+    "2s": "serrarias",
+    "3s": "serraria",
+    "1p": "serraríamos",
+    "2p": "serraríeis",
+    "3p": "serrariam"
+  },
+  "PresC": {
+    "1s": "serre",
+    "2s": "serres",
+    "3s": "serre",
+    "1p": "serremos",
+    "2p": "serreis",
+    "3p": "serrem"
+  },
+  "PImpC": {
+    "1s": "serrasse",
+    "2s": "serrasses",
+    "3s": "serrasse",
+    "1p": "serrássemos",
+    "2p": "serrásseis",
+    "3p": "serrassem"
+  },
+  "FutSC": {
+    "1s": "serrar",
+    "2s": "serrares",
+    "3s": "serrar",
+    "1p": "serrarmos",
+    "2p": "serrardes",
+    "3p": "serrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "serra",
+    "3s": "serre",
+    "1p": "serremos",
+    "2p": "serrai",
+    "3p": "serrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não serres",
+    "3s": "não serre",
+    "1p": "não serremos",
+    "2p": "não serreis",
+    "3p": "não serrem"
+  },
+  "Part-ter": {
+    "": "serrado"
+  },
+  "Part-ser": {
+    "ms": "serrado",
+    "fs": "serrada",
+    "mp": "serrados",
+    "fp": "serradas"
+  }
+}

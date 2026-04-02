@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "llover"
+  },
+  "Ger": {
+    "": "lloviendo"
+  },
+  "PresI": {
+    "1s": "lluevo",
+    "2s": "llueves",
+    "3s": "llueve",
+    "1p": "llovemos",
+    "2p": "llovéis",
+    "3p": "llueven"
+  },
+  "PImpI": {
+    "1s": "llovía",
+    "2s": "llovías",
+    "3s": "llovía",
+    "1p": "llovíamos",
+    "2p": "llovíais",
+    "3p": "llovían"
+  },
+  "PPSI": {
+    "1s": "lloví",
+    "2s": "lloviste",
+    "3s": "llovió",
+    "1p": "llovimos",
+    "2p": "llovisteis",
+    "3p": "llovieron"
+  },
+  "FutSI": {
+    "1s": "lloveré",
+    "2s": "lloverás",
+    "3s": "lloverá",
+    "1p": "lloveremos",
+    "2p": "lloveréis",
+    "3p": "lloverán"
+  },
+  "CondS": {
+    "1s": "llovería",
+    "2s": "lloverías",
+    "3s": "llovería",
+    "1p": "lloveríamos",
+    "2p": "lloveríais",
+    "3p": "lloverían"
+  },
+  "PresC": {
+    "1s": "llueva",
+    "2s": "lluevas",
+    "3s": "llueva",
+    "1p": "llovamos",
+    "2p": "llováis",
+    "3p": "lluevan"
+  },
+  "PMQPSI": {
+    "1s": "lloviera",
+    "2s": "llovieras",
+    "3s": "lloviera",
+    "1p": "lloviéramos",
+    "2p": "llovierais",
+    "3p": "llovieran"
+  },
+  "PImpC": {
+    "1s": "lloviese",
+    "2s": "llovieses",
+    "3s": "lloviese",
+    "1p": "lloviésemos",
+    "2p": "llovieseis",
+    "3p": "lloviesen"
+  },
+  "FutSC": {
+    "1s": "lloviere",
+    "2s": "llovieres",
+    "3s": "lloviere",
+    "1p": "lloviéremos",
+    "2p": "lloviereis",
+    "3p": "llovieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "llueve",
+    "3s": "llueva",
+    "1p": "llovamos",
+    "2p": "lloved",
+    "3p": "lluevan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lluevas",
+    "3s": "no llueva",
+    "1p": "no llovamos",
+    "2p": "no llováis",
+    "3p": "no lluevan"
+  },
+  "Part-ter": {
+    "": "llovido"
+  },
+  "Part-ser": {
+    "ms": "llovido",
+    "fs": "llovida",
+    "mp": "llovidos",
+    "fp": "llovidas"
+  }
+}

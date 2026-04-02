@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "selecionar"
+  },
+  "InfP": {
+    "1s": "selecionar",
+    "2s": "selecionares",
+    "3s": "selecionar",
+    "1p": "selecionarmos",
+    "2p": "selecionardes",
+    "3p": "selecionarem"
+  },
+  "Ger": {
+    "": "selecionando"
+  },
+  "PresI": {
+    "1s": "seleciono",
+    "2s": "selecionas",
+    "3s": "seleciona",
+    "1p": "selecionamos",
+    "2p": "selecionais",
+    "3p": "selecionam"
+  },
+  "PImpI": {
+    "1s": "selecionava",
+    "2s": "selecionavas",
+    "3s": "selecionava",
+    "1p": "selecionávamos",
+    "2p": "selecionáveis",
+    "3p": "selecionavam"
+  },
+  "PPSI": {
+    "1s": "selecionei",
+    "2s": "selecionaste",
+    "3s": "selecionou",
+    "1p": "selecionámos",
+    "2p": "selecionastes",
+    "3p": "selecionaram"
+  },
+  "PMQPSI": {
+    "1s": "selecionara",
+    "2s": "selecionaras",
+    "3s": "selecionara",
+    "1p": "selecionáramos",
+    "2p": "selecionáreis",
+    "3p": "selecionaram"
+  },
+  "FutSI": {
+    "1s": "selecionarei",
+    "2s": "selecionarás",
+    "3s": "selecionará",
+    "1p": "selecionaremos",
+    "2p": "selecionareis",
+    "3p": "selecionarão"
+  },
+  "CondS": {
+    "1s": "selecionaria",
+    "2s": "selecionarias",
+    "3s": "selecionaria",
+    "1p": "selecionaríamos",
+    "2p": "selecionaríeis",
+    "3p": "selecionariam"
+  },
+  "PresC": {
+    "1s": "selecione",
+    "2s": "seleciones",
+    "3s": "selecione",
+    "1p": "selecionemos",
+    "2p": "selecioneis",
+    "3p": "selecionem"
+  },
+  "PImpC": {
+    "1s": "selecionasse",
+    "2s": "selecionasses",
+    "3s": "selecionasse",
+    "1p": "selecionássemos",
+    "2p": "selecionásseis",
+    "3p": "selecionassem"
+  },
+  "FutSC": {
+    "1s": "selecionar",
+    "2s": "selecionares",
+    "3s": "selecionar",
+    "1p": "selecionarmos",
+    "2p": "selecionardes",
+    "3p": "selecionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "seleciona",
+    "3s": "selecione",
+    "1p": "selecionemos",
+    "2p": "selecionai",
+    "3p": "selecionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não seleciones",
+    "3s": "não selecione",
+    "1p": "não selecionemos",
+    "2p": "não selecioneis",
+    "3p": "não selecionem"
+  },
+  "Part-ter": {
+    "": "selecionado"
+  },
+  "Part-ser": {
+    "ms": "selecionado",
+    "fs": "selecionada",
+    "mp": "selecionados",
+    "fp": "selecionadas"
+  }
+}

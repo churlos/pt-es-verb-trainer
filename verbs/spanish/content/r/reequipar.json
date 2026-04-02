@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reequipar"
+  },
+  "Ger": {
+    "": "reequipando"
+  },
+  "PresI": {
+    "1s": "reequipo",
+    "2s": "reequipas",
+    "3s": "reequipa",
+    "1p": "reequipamos",
+    "2p": "reequipáis",
+    "3p": "reequipan"
+  },
+  "PImpI": {
+    "1s": "reequipaba",
+    "2s": "reequipabas",
+    "3s": "reequipaba",
+    "1p": "reequipábamos",
+    "2p": "reequipabais",
+    "3p": "reequipaban"
+  },
+  "PPSI": {
+    "1s": "reequipé",
+    "2s": "reequipaste",
+    "3s": "reequipó",
+    "1p": "reequipamos",
+    "2p": "reequipasteis",
+    "3p": "reequiparon"
+  },
+  "FutSI": {
+    "1s": "reequiparé",
+    "2s": "reequiparás",
+    "3s": "reequipará",
+    "1p": "reequiparemos",
+    "2p": "reequiparéis",
+    "3p": "reequiparán"
+  },
+  "CondS": {
+    "1s": "reequiparía",
+    "2s": "reequiparías",
+    "3s": "reequiparía",
+    "1p": "reequiparíamos",
+    "2p": "reequiparíais",
+    "3p": "reequiparían"
+  },
+  "PresC": {
+    "1s": "reequipe",
+    "2s": "reequipes",
+    "3s": "reequipe",
+    "1p": "reequipemos",
+    "2p": "reequipéis",
+    "3p": "reequipen"
+  },
+  "PMQPSI": {
+    "1s": "reequipara",
+    "2s": "reequiparas",
+    "3s": "reequipara",
+    "1p": "reequipáramos",
+    "2p": "reequiparais",
+    "3p": "reequiparan"
+  },
+  "PImpC": {
+    "1s": "reequipase",
+    "2s": "reequipases",
+    "3s": "reequipase",
+    "1p": "reequipásemos",
+    "2p": "reequipaseis",
+    "3p": "reequipasen"
+  },
+  "FutSC": {
+    "1s": "reequipare",
+    "2s": "reequipares",
+    "3s": "reequipare",
+    "1p": "reequipáremos",
+    "2p": "reequipareis",
+    "3p": "reequiparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reequipa",
+    "3s": "reequipe",
+    "1p": "reequipemos",
+    "2p": "reequipad",
+    "3p": "reequipen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reequipes",
+    "3s": "no reequipe",
+    "1p": "no reequipemos",
+    "2p": "no reequipéis",
+    "3p": "no reequipen"
+  },
+  "Part-ter": {
+    "": "reequipado"
+  },
+  "Part-ser": {
+    "ms": "reequipado",
+    "fs": "reequipada",
+    "mp": "reequipados",
+    "fp": "reequipadas"
+  }
+}

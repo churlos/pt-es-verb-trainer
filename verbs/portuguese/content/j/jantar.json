@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "jantar"
+  },
+  "InfP": {
+    "1s": "jantar",
+    "2s": "jantares",
+    "3s": "jantar",
+    "1p": "jantarmos",
+    "2p": "jantardes",
+    "3p": "jantarem"
+  },
+  "Ger": {
+    "": "jantando"
+  },
+  "PresI": {
+    "1s": "janto",
+    "2s": "jantas",
+    "3s": "janta",
+    "1p": "jantamos",
+    "2p": "jantais",
+    "3p": "jantam"
+  },
+  "PImpI": {
+    "1s": "jantava",
+    "2s": "jantavas",
+    "3s": "jantava",
+    "1p": "jantávamos",
+    "2p": "jantáveis",
+    "3p": "jantavam"
+  },
+  "PPSI": {
+    "1s": "jantei",
+    "2s": "jantaste",
+    "3s": "jantou",
+    "1p": "jantámos",
+    "2p": "jantastes",
+    "3p": "jantaram"
+  },
+  "PMQPSI": {
+    "1s": "jantara",
+    "2s": "jantaras",
+    "3s": "jantara",
+    "1p": "jantáramos",
+    "2p": "jantáreis",
+    "3p": "jantaram"
+  },
+  "FutSI": {
+    "1s": "jantarei",
+    "2s": "jantarás",
+    "3s": "jantará",
+    "1p": "jantaremos",
+    "2p": "jantareis",
+    "3p": "jantarão"
+  },
+  "CondS": {
+    "1s": "jantaria",
+    "2s": "jantarias",
+    "3s": "jantaria",
+    "1p": "jantaríamos",
+    "2p": "jantaríeis",
+    "3p": "jantariam"
+  },
+  "PresC": {
+    "1s": "jante",
+    "2s": "jantes",
+    "3s": "jante",
+    "1p": "jantemos",
+    "2p": "janteis",
+    "3p": "jantem"
+  },
+  "PImpC": {
+    "1s": "jantasse",
+    "2s": "jantasses",
+    "3s": "jantasse",
+    "1p": "jantássemos",
+    "2p": "jantásseis",
+    "3p": "jantassem"
+  },
+  "FutSC": {
+    "1s": "jantar",
+    "2s": "jantares",
+    "3s": "jantar",
+    "1p": "jantarmos",
+    "2p": "jantardes",
+    "3p": "jantarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "janta",
+    "3s": "jante",
+    "1p": "jantemos",
+    "2p": "jantai",
+    "3p": "jantem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não jantes",
+    "3s": "não jante",
+    "1p": "não jantemos",
+    "2p": "não janteis",
+    "3p": "não jantem"
+  },
+  "Part-ter": {
+    "": "jantado"
+  },
+  "Part-ser": {
+    "ms": "jantado",
+    "fs": "jantada",
+    "mp": "jantados",
+    "fp": "jantadas"
+  }
+}

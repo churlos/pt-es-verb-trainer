@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gorar"
+  },
+  "InfP": {
+    "1s": "gorar",
+    "2s": "gorares",
+    "3s": "gorar",
+    "1p": "gorarmos",
+    "2p": "gorardes",
+    "3p": "gorarem"
+  },
+  "Ger": {
+    "": "gorando"
+  },
+  "PresI": {
+    "1s": "goro",
+    "2s": "goras",
+    "3s": "gora",
+    "1p": "goramos",
+    "2p": "gorais",
+    "3p": "goram"
+  },
+  "PImpI": {
+    "1s": "gorava",
+    "2s": "goravas",
+    "3s": "gorava",
+    "1p": "gorávamos",
+    "2p": "goráveis",
+    "3p": "goravam"
+  },
+  "PPSI": {
+    "1s": "gorei",
+    "2s": "goraste",
+    "3s": "gorou",
+    "1p": "gorámos",
+    "2p": "gorastes",
+    "3p": "goraram"
+  },
+  "PMQPSI": {
+    "1s": "gorara",
+    "2s": "goraras",
+    "3s": "gorara",
+    "1p": "goráramos",
+    "2p": "goráreis",
+    "3p": "goraram"
+  },
+  "FutSI": {
+    "1s": "gorarei",
+    "2s": "gorarás",
+    "3s": "gorará",
+    "1p": "goraremos",
+    "2p": "gorareis",
+    "3p": "gorarão"
+  },
+  "CondS": {
+    "1s": "goraria",
+    "2s": "gorarias",
+    "3s": "goraria",
+    "1p": "goraríamos",
+    "2p": "goraríeis",
+    "3p": "gorariam"
+  },
+  "PresC": {
+    "1s": "gore",
+    "2s": "gores",
+    "3s": "gore",
+    "1p": "goremos",
+    "2p": "goreis",
+    "3p": "gorem"
+  },
+  "PImpC": {
+    "1s": "gorasse",
+    "2s": "gorasses",
+    "3s": "gorasse",
+    "1p": "gorássemos",
+    "2p": "gorásseis",
+    "3p": "gorassem"
+  },
+  "FutSC": {
+    "1s": "gorar",
+    "2s": "gorares",
+    "3s": "gorar",
+    "1p": "gorarmos",
+    "2p": "gorardes",
+    "3p": "gorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gora",
+    "3s": "gore",
+    "1p": "goremos",
+    "2p": "gorai",
+    "3p": "gorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gores",
+    "3s": "não gore",
+    "1p": "não goremos",
+    "2p": "não goreis",
+    "3p": "não gorem"
+  },
+  "Part-ter": {
+    "": "gorado"
+  },
+  "Part-ser": {
+    "ms": "gorado",
+    "fs": "gorada",
+    "mp": "gorados",
+    "fp": "goradas"
+  }
+}

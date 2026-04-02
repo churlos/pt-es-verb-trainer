@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "moer"
+  },
+  "InfP": {
+    "1s": "moer",
+    "2s": "moeres",
+    "3s": "moer",
+    "1p": "moermos",
+    "2p": "moerdes",
+    "3p": "moerem"
+  },
+  "Ger": {
+    "": "moendo"
+  },
+  "PresI": {
+    "1s": "mooObsolete:môo",
+    "2s": "móis",
+    "3s": "mói",
+    "1p": "moemos",
+    "2p": "moeis",
+    "3p": "moem"
+  },
+  "PImpI": {
+    "1s": "moía",
+    "2s": "moías",
+    "3s": "moía",
+    "1p": "moíamos",
+    "2p": "moíeis",
+    "3p": "moíam"
+  },
+  "PPSI": {
+    "1s": "moí",
+    "2s": "moeste",
+    "3s": "moeu",
+    "1p": "moemos",
+    "2p": "moestes",
+    "3p": "moeram"
+  },
+  "PMQPSI": {
+    "1s": "moera",
+    "2s": "moeras",
+    "3s": "moera",
+    "1p": "moêramos",
+    "2p": "moêreis",
+    "3p": "moeram"
+  },
+  "FutSI": {
+    "1s": "moerei",
+    "2s": "moerás",
+    "3s": "moerá",
+    "1p": "moeremos",
+    "2p": "moereis",
+    "3p": "moerão"
+  },
+  "CondS": {
+    "1s": "moeria",
+    "2s": "moerias",
+    "3s": "moeria",
+    "1p": "moeríamos",
+    "2p": "moeríeis",
+    "3p": "moeriam"
+  },
+  "PresC": {
+    "1s": "moa",
+    "2s": "moas",
+    "3s": "moa",
+    "1p": "moamos",
+    "2p": "moais",
+    "3p": "moam"
+  },
+  "PImpC": {
+    "1s": "moesse",
+    "2s": "moesses",
+    "3s": "moesse",
+    "1p": "moêssemos",
+    "2p": "moêsseis",
+    "3p": "moessem"
+  },
+  "FutSC": {
+    "1s": "moer",
+    "2s": "moeres",
+    "3s": "moer",
+    "1p": "moermos",
+    "2p": "moerdes",
+    "3p": "moerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mói",
+    "3s": "moa",
+    "1p": "moamos",
+    "2p": "moei",
+    "3p": "moam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não moas",
+    "3s": "não moa",
+    "1p": "não moamos",
+    "2p": "não moais",
+    "3p": "não moam"
+  },
+  "Part-ter": {
+    "": "moído"
+  },
+  "Part-ser": {
+    "ms": "moído",
+    "fs": "moída",
+    "mp": "moídos",
+    "fp": "moídas"
+  }
+}

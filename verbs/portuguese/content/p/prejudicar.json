@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prejudicar"
+  },
+  "InfP": {
+    "1s": "prejudicar",
+    "2s": "prejudicares",
+    "3s": "prejudicar",
+    "1p": "prejudicarmos",
+    "2p": "prejudicardes",
+    "3p": "prejudicarem"
+  },
+  "Ger": {
+    "": "prejudicando"
+  },
+  "PresI": {
+    "1s": "prejudico",
+    "2s": "prejudicas",
+    "3s": "prejudica",
+    "1p": "prejudicamos",
+    "2p": "prejudicais",
+    "3p": "prejudicam"
+  },
+  "PImpI": {
+    "1s": "prejudicava",
+    "2s": "prejudicavas",
+    "3s": "prejudicava",
+    "1p": "prejudicávamos",
+    "2p": "prejudicáveis",
+    "3p": "prejudicavam"
+  },
+  "PPSI": {
+    "1s": "prejudiquei",
+    "2s": "prejudicaste",
+    "3s": "prejudicou",
+    "1p": "prejudicámos",
+    "2p": "prejudicastes",
+    "3p": "prejudicaram"
+  },
+  "PMQPSI": {
+    "1s": "prejudicara",
+    "2s": "prejudicaras",
+    "3s": "prejudicara",
+    "1p": "prejudicáramos",
+    "2p": "prejudicáreis",
+    "3p": "prejudicaram"
+  },
+  "FutSI": {
+    "1s": "prejudicarei",
+    "2s": "prejudicarás",
+    "3s": "prejudicará",
+    "1p": "prejudicaremos",
+    "2p": "prejudicareis",
+    "3p": "prejudicarão"
+  },
+  "CondS": {
+    "1s": "prejudicaria",
+    "2s": "prejudicarias",
+    "3s": "prejudicaria",
+    "1p": "prejudicaríamos",
+    "2p": "prejudicaríeis",
+    "3p": "prejudicariam"
+  },
+  "PresC": {
+    "1s": "prejudique",
+    "2s": "prejudiques",
+    "3s": "prejudique",
+    "1p": "prejudiquemos",
+    "2p": "prejudiqueis",
+    "3p": "prejudiquem"
+  },
+  "PImpC": {
+    "1s": "prejudicasse",
+    "2s": "prejudicasses",
+    "3s": "prejudicasse",
+    "1p": "prejudicássemos",
+    "2p": "prejudicásseis",
+    "3p": "prejudicassem"
+  },
+  "FutSC": {
+    "1s": "prejudicar",
+    "2s": "prejudicares",
+    "3s": "prejudicar",
+    "1p": "prejudicarmos",
+    "2p": "prejudicardes",
+    "3p": "prejudicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prejudica",
+    "3s": "prejudique",
+    "1p": "prejudiquemos",
+    "2p": "prejudicai",
+    "3p": "prejudiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prejudiques",
+    "3s": "não prejudique",
+    "1p": "não prejudiquemos",
+    "2p": "não prejudiqueis",
+    "3p": "não prejudiquem"
+  },
+  "Part-ter": {
+    "": "prejudicado"
+  },
+  "Part-ser": {
+    "ms": "prejudicado",
+    "fs": "prejudicada",
+    "mp": "prejudicados",
+    "fp": "prejudicadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "socar"
+  },
+  "InfP": {
+    "1s": "socar",
+    "2s": "socares",
+    "3s": "socar",
+    "1p": "socarmos",
+    "2p": "socardes",
+    "3p": "socarem"
+  },
+  "Ger": {
+    "": "socando"
+  },
+  "PresI": {
+    "1s": "soco",
+    "2s": "socas",
+    "3s": "soca",
+    "1p": "socamos",
+    "2p": "socais",
+    "3p": "socam"
+  },
+  "PImpI": {
+    "1s": "socava",
+    "2s": "socavas",
+    "3s": "socava",
+    "1p": "socávamos",
+    "2p": "socáveis",
+    "3p": "socavam"
+  },
+  "PPSI": {
+    "1s": "soquei",
+    "2s": "socaste",
+    "3s": "socou",
+    "1p": "socámos",
+    "2p": "socastes",
+    "3p": "socaram"
+  },
+  "PMQPSI": {
+    "1s": "socara",
+    "2s": "socaras",
+    "3s": "socara",
+    "1p": "socáramos",
+    "2p": "socáreis",
+    "3p": "socaram"
+  },
+  "FutSI": {
+    "1s": "socarei",
+    "2s": "socarás",
+    "3s": "socará",
+    "1p": "socaremos",
+    "2p": "socareis",
+    "3p": "socarão"
+  },
+  "CondS": {
+    "1s": "socaria",
+    "2s": "socarias",
+    "3s": "socaria",
+    "1p": "socaríamos",
+    "2p": "socaríeis",
+    "3p": "socariam"
+  },
+  "PresC": {
+    "1s": "soque",
+    "2s": "soques",
+    "3s": "soque",
+    "1p": "soquemos",
+    "2p": "soqueis",
+    "3p": "soquem"
+  },
+  "PImpC": {
+    "1s": "socasse",
+    "2s": "socasses",
+    "3s": "socasse",
+    "1p": "socássemos",
+    "2p": "socásseis",
+    "3p": "socassem"
+  },
+  "FutSC": {
+    "1s": "socar",
+    "2s": "socares",
+    "3s": "socar",
+    "1p": "socarmos",
+    "2p": "socardes",
+    "3p": "socarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "soca",
+    "3s": "soque",
+    "1p": "soquemos",
+    "2p": "socai",
+    "3p": "soquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não soques",
+    "3s": "não soque",
+    "1p": "não soquemos",
+    "2p": "não soqueis",
+    "3p": "não soquem"
+  },
+  "Part-ter": {
+    "": "socado"
+  },
+  "Part-ser": {
+    "ms": "socado",
+    "fs": "socada",
+    "mp": "socados",
+    "fp": "socadas"
+  }
+}

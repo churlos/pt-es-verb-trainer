@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "direccionar"
+  },
+  "InfP": {
+    "1s": "direccionar",
+    "2s": "direccionares",
+    "3s": "direccionar",
+    "1p": "direccionarmos",
+    "2p": "direccionardes",
+    "3p": "direccionarem"
+  },
+  "Ger": {
+    "": "direccionando"
+  },
+  "PresI": {
+    "1s": "direcciono",
+    "2s": "direccionas",
+    "3s": "direcciona",
+    "1p": "direccionamos",
+    "2p": "direccionais",
+    "3p": "direccionam"
+  },
+  "PImpI": {
+    "1s": "direccionava",
+    "2s": "direccionavas",
+    "3s": "direccionava",
+    "1p": "direccionávamos",
+    "2p": "direccionáveis",
+    "3p": "direccionavam"
+  },
+  "PPSI": {
+    "1s": "direccionei",
+    "2s": "direccionaste",
+    "3s": "direccionou",
+    "1p": "direccionámos",
+    "2p": "direccionastes",
+    "3p": "direccionaram"
+  },
+  "PMQPSI": {
+    "1s": "direccionara",
+    "2s": "direccionaras",
+    "3s": "direccionara",
+    "1p": "direccionáramos",
+    "2p": "direccionáreis",
+    "3p": "direccionaram"
+  },
+  "FutSI": {
+    "1s": "direccionarei",
+    "2s": "direccionarás",
+    "3s": "direccionará",
+    "1p": "direccionaremos",
+    "2p": "direccionareis",
+    "3p": "direccionarão"
+  },
+  "CondS": {
+    "1s": "direccionaria",
+    "2s": "direccionarias",
+    "3s": "direccionaria",
+    "1p": "direccionaríamos",
+    "2p": "direccionaríeis",
+    "3p": "direccionariam"
+  },
+  "PresC": {
+    "1s": "direccione",
+    "2s": "direcciones",
+    "3s": "direccione",
+    "1p": "direccionemos",
+    "2p": "direccioneis",
+    "3p": "direccionem"
+  },
+  "PImpC": {
+    "1s": "direccionasse",
+    "2s": "direccionasses",
+    "3s": "direccionasse",
+    "1p": "direccionássemos",
+    "2p": "direccionásseis",
+    "3p": "direccionassem"
+  },
+  "FutSC": {
+    "1s": "direccionar",
+    "2s": "direccionares",
+    "3s": "direccionar",
+    "1p": "direccionarmos",
+    "2p": "direccionardes",
+    "3p": "direccionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "direcciona",
+    "3s": "direccione",
+    "1p": "direccionemos",
+    "2p": "direccionai",
+    "3p": "direccionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não direcciones",
+    "3s": "não direccione",
+    "1p": "não direccionemos",
+    "2p": "não direccioneis",
+    "3p": "não direccionem"
+  },
+  "Part-ter": {
+    "": "direccionado"
+  },
+  "Part-ser": {
+    "ms": "direccionado",
+    "fs": "direccionada",
+    "mp": "direccionados",
+    "fp": "direccionadas"
+  }
+}

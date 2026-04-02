@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indexar"
+  },
+  "InfP": {
+    "1s": "indexar",
+    "2s": "indexares",
+    "3s": "indexar",
+    "1p": "indexarmos",
+    "2p": "indexardes",
+    "3p": "indexarem"
+  },
+  "Ger": {
+    "": "indexando"
+  },
+  "PresI": {
+    "1s": "indexo",
+    "2s": "indexas",
+    "3s": "indexa",
+    "1p": "indexamos",
+    "2p": "indexais",
+    "3p": "indexam"
+  },
+  "PImpI": {
+    "1s": "indexava",
+    "2s": "indexavas",
+    "3s": "indexava",
+    "1p": "indexávamos",
+    "2p": "indexáveis",
+    "3p": "indexavam"
+  },
+  "PPSI": {
+    "1s": "indexei",
+    "2s": "indexaste",
+    "3s": "indexou",
+    "1p": "indexámos",
+    "2p": "indexastes",
+    "3p": "indexaram"
+  },
+  "PMQPSI": {
+    "1s": "indexara",
+    "2s": "indexaras",
+    "3s": "indexara",
+    "1p": "indexáramos",
+    "2p": "indexáreis",
+    "3p": "indexaram"
+  },
+  "FutSI": {
+    "1s": "indexarei",
+    "2s": "indexarás",
+    "3s": "indexará",
+    "1p": "indexaremos",
+    "2p": "indexareis",
+    "3p": "indexarão"
+  },
+  "CondS": {
+    "1s": "indexaria",
+    "2s": "indexarias",
+    "3s": "indexaria",
+    "1p": "indexaríamos",
+    "2p": "indexaríeis",
+    "3p": "indexariam"
+  },
+  "PresC": {
+    "1s": "indexe",
+    "2s": "indexes",
+    "3s": "indexe",
+    "1p": "indexemos",
+    "2p": "indexeis",
+    "3p": "indexem"
+  },
+  "PImpC": {
+    "1s": "indexasse",
+    "2s": "indexasses",
+    "3s": "indexasse",
+    "1p": "indexássemos",
+    "2p": "indexásseis",
+    "3p": "indexassem"
+  },
+  "FutSC": {
+    "1s": "indexar",
+    "2s": "indexares",
+    "3s": "indexar",
+    "1p": "indexarmos",
+    "2p": "indexardes",
+    "3p": "indexarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indexa",
+    "3s": "indexe",
+    "1p": "indexemos",
+    "2p": "indexai",
+    "3p": "indexem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indexes",
+    "3s": "não indexe",
+    "1p": "não indexemos",
+    "2p": "não indexeis",
+    "3p": "não indexem"
+  },
+  "Part-ter": {
+    "": "indexado"
+  },
+  "Part-ser": {
+    "ms": "indexado",
+    "fs": "indexada",
+    "mp": "indexados",
+    "fp": "indexadas"
+  }
+}

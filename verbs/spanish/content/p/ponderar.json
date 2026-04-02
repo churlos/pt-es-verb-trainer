@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ponderar"
+  },
+  "Ger": {
+    "": "ponderando"
+  },
+  "PresI": {
+    "1s": "pondero",
+    "2s": "ponderas",
+    "3s": "pondera",
+    "1p": "ponderamos",
+    "2p": "ponderáis",
+    "3p": "ponderan"
+  },
+  "PImpI": {
+    "1s": "ponderaba",
+    "2s": "ponderabas",
+    "3s": "ponderaba",
+    "1p": "ponderábamos",
+    "2p": "ponderabais",
+    "3p": "ponderaban"
+  },
+  "PPSI": {
+    "1s": "ponderé",
+    "2s": "ponderaste",
+    "3s": "ponderó",
+    "1p": "ponderamos",
+    "2p": "ponderasteis",
+    "3p": "ponderaron"
+  },
+  "FutSI": {
+    "1s": "ponderaré",
+    "2s": "ponderarás",
+    "3s": "ponderará",
+    "1p": "ponderaremos",
+    "2p": "ponderaréis",
+    "3p": "ponderarán"
+  },
+  "CondS": {
+    "1s": "ponderaría",
+    "2s": "ponderarías",
+    "3s": "ponderaría",
+    "1p": "ponderaríamos",
+    "2p": "ponderaríais",
+    "3p": "ponderarían"
+  },
+  "PresC": {
+    "1s": "pondere",
+    "2s": "ponderes",
+    "3s": "pondere",
+    "1p": "ponderemos",
+    "2p": "ponderéis",
+    "3p": "ponderen"
+  },
+  "PMQPSI": {
+    "1s": "ponderara",
+    "2s": "ponderaras",
+    "3s": "ponderara",
+    "1p": "ponderáramos",
+    "2p": "ponderarais",
+    "3p": "ponderaran"
+  },
+  "PImpC": {
+    "1s": "ponderase",
+    "2s": "ponderases",
+    "3s": "ponderase",
+    "1p": "ponderásemos",
+    "2p": "ponderaseis",
+    "3p": "ponderasen"
+  },
+  "FutSC": {
+    "1s": "ponderare",
+    "2s": "ponderares",
+    "3s": "ponderare",
+    "1p": "ponderáremos",
+    "2p": "ponderareis",
+    "3p": "ponderaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pondera",
+    "3s": "pondere",
+    "1p": "ponderemos",
+    "2p": "ponderad",
+    "3p": "ponderen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ponderes",
+    "3s": "no pondere",
+    "1p": "no ponderemos",
+    "2p": "no ponderéis",
+    "3p": "no ponderen"
+  },
+  "Part-ter": {
+    "": "ponderado"
+  },
+  "Part-ser": {
+    "ms": "ponderado",
+    "fs": "ponderada",
+    "mp": "ponderados",
+    "fp": "ponderadas"
+  }
+}

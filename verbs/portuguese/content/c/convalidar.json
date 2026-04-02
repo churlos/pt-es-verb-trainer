@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "convalidar"
+  },
+  "InfP": {
+    "1s": "convalidar",
+    "2s": "convalidares",
+    "3s": "convalidar",
+    "1p": "convalidarmos",
+    "2p": "convalidardes",
+    "3p": "convalidarem"
+  },
+  "Ger": {
+    "": "convalidando"
+  },
+  "PresI": {
+    "1s": "convalido",
+    "2s": "convalidas",
+    "3s": "convalida",
+    "1p": "convalidamos",
+    "2p": "convalidais",
+    "3p": "convalidam"
+  },
+  "PImpI": {
+    "1s": "convalidava",
+    "2s": "convalidavas",
+    "3s": "convalidava",
+    "1p": "convalidávamos",
+    "2p": "convalidáveis",
+    "3p": "convalidavam"
+  },
+  "PPSI": {
+    "1s": "convalidei",
+    "2s": "convalidaste",
+    "3s": "convalidou",
+    "1p": "convalidámos",
+    "2p": "convalidastes",
+    "3p": "convalidaram"
+  },
+  "PMQPSI": {
+    "1s": "convalidara",
+    "2s": "convalidaras",
+    "3s": "convalidara",
+    "1p": "convalidáramos",
+    "2p": "convalidáreis",
+    "3p": "convalidaram"
+  },
+  "FutSI": {
+    "1s": "convalidarei",
+    "2s": "convalidarás",
+    "3s": "convalidará",
+    "1p": "convalidaremos",
+    "2p": "convalidareis",
+    "3p": "convalidarão"
+  },
+  "CondS": {
+    "1s": "convalidaria",
+    "2s": "convalidarias",
+    "3s": "convalidaria",
+    "1p": "convalidaríamos",
+    "2p": "convalidaríeis",
+    "3p": "convalidariam"
+  },
+  "PresC": {
+    "1s": "convalide",
+    "2s": "convalides",
+    "3s": "convalide",
+    "1p": "convalidemos",
+    "2p": "convalideis",
+    "3p": "convalidem"
+  },
+  "PImpC": {
+    "1s": "convalidasse",
+    "2s": "convalidasses",
+    "3s": "convalidasse",
+    "1p": "convalidássemos",
+    "2p": "convalidásseis",
+    "3p": "convalidassem"
+  },
+  "FutSC": {
+    "1s": "convalidar",
+    "2s": "convalidares",
+    "3s": "convalidar",
+    "1p": "convalidarmos",
+    "2p": "convalidardes",
+    "3p": "convalidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "convalida",
+    "3s": "convalide",
+    "1p": "convalidemos",
+    "2p": "convalidai",
+    "3p": "convalidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não convalides",
+    "3s": "não convalide",
+    "1p": "não convalidemos",
+    "2p": "não convalideis",
+    "3p": "não convalidem"
+  },
+  "Part-ter": {
+    "": "convalidado"
+  },
+  "Part-ser": {
+    "ms": "convalidado",
+    "fs": "convalidada",
+    "mp": "convalidados",
+    "fp": "convalidadas"
+  }
+}

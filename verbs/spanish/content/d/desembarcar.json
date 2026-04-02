@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desembarcar"
+  },
+  "Ger": {
+    "": "desembarcando"
+  },
+  "PresI": {
+    "1s": "desembarco",
+    "2s": "desembarcas",
+    "3s": "desembarca",
+    "1p": "desembarcamos",
+    "2p": "desembarcáis",
+    "3p": "desembarcan"
+  },
+  "PImpI": {
+    "1s": "desembarcaba",
+    "2s": "desembarcabas",
+    "3s": "desembarcaba",
+    "1p": "desembarcábamos",
+    "2p": "desembarcabais",
+    "3p": "desembarcaban"
+  },
+  "PPSI": {
+    "1s": "desembarqué",
+    "2s": "desembarcaste",
+    "3s": "desembarcó",
+    "1p": "desembarcamos",
+    "2p": "desembarcasteis",
+    "3p": "desembarcaron"
+  },
+  "FutSI": {
+    "1s": "desembarcaré",
+    "2s": "desembarcarás",
+    "3s": "desembarcará",
+    "1p": "desembarcaremos",
+    "2p": "desembarcaréis",
+    "3p": "desembarcarán"
+  },
+  "CondS": {
+    "1s": "desembarcaría",
+    "2s": "desembarcarías",
+    "3s": "desembarcaría",
+    "1p": "desembarcaríamos",
+    "2p": "desembarcaríais",
+    "3p": "desembarcarían"
+  },
+  "PresC": {
+    "1s": "desembarque",
+    "2s": "desembarques",
+    "3s": "desembarque",
+    "1p": "desembarquemos",
+    "2p": "desembarquéis",
+    "3p": "desembarquen"
+  },
+  "PMQPSI": {
+    "1s": "desembarcara",
+    "2s": "desembarcaras",
+    "3s": "desembarcara",
+    "1p": "desembarcáramos",
+    "2p": "desembarcarais",
+    "3p": "desembarcaran"
+  },
+  "PImpC": {
+    "1s": "desembarcase",
+    "2s": "desembarcases",
+    "3s": "desembarcase",
+    "1p": "desembarcásemos",
+    "2p": "desembarcaseis",
+    "3p": "desembarcasen"
+  },
+  "FutSC": {
+    "1s": "desembarcare",
+    "2s": "desembarcares",
+    "3s": "desembarcare",
+    "1p": "desembarcáremos",
+    "2p": "desembarcareis",
+    "3p": "desembarcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desembarca",
+    "3s": "desembarque",
+    "1p": "desembarquemos",
+    "2p": "desembarcad",
+    "3p": "desembarquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desembarques",
+    "3s": "no desembarque",
+    "1p": "no desembarquemos",
+    "2p": "no desembarquéis",
+    "3p": "no desembarquen"
+  },
+  "Part-ter": {
+    "": "desembarcado"
+  },
+  "Part-ser": {
+    "ms": "desembarcado",
+    "fs": "desembarcada",
+    "mp": "desembarcados",
+    "fp": "desembarcadas"
+  }
+}

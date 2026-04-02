@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "precocinar"
+  },
+  "Ger": {
+    "": "precocinando"
+  },
+  "PresI": {
+    "1s": "precocino",
+    "2s": "precocinas",
+    "3s": "precocina",
+    "1p": "precocinamos",
+    "2p": "precocináis",
+    "3p": "precocinan"
+  },
+  "PImpI": {
+    "1s": "precocinaba",
+    "2s": "precocinabas",
+    "3s": "precocinaba",
+    "1p": "precocinábamos",
+    "2p": "precocinabais",
+    "3p": "precocinaban"
+  },
+  "PPSI": {
+    "1s": "precociné",
+    "2s": "precocinaste",
+    "3s": "precocinó",
+    "1p": "precocinamos",
+    "2p": "precocinasteis",
+    "3p": "precocinaron"
+  },
+  "FutSI": {
+    "1s": "precocinaré",
+    "2s": "precocinarás",
+    "3s": "precocinará",
+    "1p": "precocinaremos",
+    "2p": "precocinaréis",
+    "3p": "precocinarán"
+  },
+  "CondS": {
+    "1s": "precocinaría",
+    "2s": "precocinarías",
+    "3s": "precocinaría",
+    "1p": "precocinaríamos",
+    "2p": "precocinaríais",
+    "3p": "precocinarían"
+  },
+  "PresC": {
+    "1s": "precocine",
+    "2s": "precocines",
+    "3s": "precocine",
+    "1p": "precocinemos",
+    "2p": "precocinéis",
+    "3p": "precocinen"
+  },
+  "PMQPSI": {
+    "1s": "precocinara",
+    "2s": "precocinaras",
+    "3s": "precocinara",
+    "1p": "precocináramos",
+    "2p": "precocinarais",
+    "3p": "precocinaran"
+  },
+  "PImpC": {
+    "1s": "precocinase",
+    "2s": "precocinases",
+    "3s": "precocinase",
+    "1p": "precocinásemos",
+    "2p": "precocinaseis",
+    "3p": "precocinasen"
+  },
+  "FutSC": {
+    "1s": "precocinare",
+    "2s": "precocinares",
+    "3s": "precocinare",
+    "1p": "precocináremos",
+    "2p": "precocinareis",
+    "3p": "precocinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "precocina",
+    "3s": "precocine",
+    "1p": "precocinemos",
+    "2p": "precocinad",
+    "3p": "precocinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no precocines",
+    "3s": "no precocine",
+    "1p": "no precocinemos",
+    "2p": "no precocinéis",
+    "3p": "no precocinen"
+  },
+  "Part-ter": {
+    "": "precocinado"
+  },
+  "Part-ser": {
+    "ms": "precocinado",
+    "fs": "precocinada",
+    "mp": "precocinados",
+    "fp": "precocinadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "restar"
+  },
+  "InfP": {
+    "1s": "restar",
+    "2s": "restares",
+    "3s": "restar",
+    "1p": "restarmos",
+    "2p": "restardes",
+    "3p": "restarem"
+  },
+  "Ger": {
+    "": "restando"
+  },
+  "PresI": {
+    "1s": "resto",
+    "2s": "restas",
+    "3s": "resta",
+    "1p": "restamos",
+    "2p": "restais",
+    "3p": "restam"
+  },
+  "PImpI": {
+    "1s": "restava",
+    "2s": "restavas",
+    "3s": "restava",
+    "1p": "restávamos",
+    "2p": "restáveis",
+    "3p": "restavam"
+  },
+  "PPSI": {
+    "1s": "restei",
+    "2s": "restaste",
+    "3s": "restou",
+    "1p": "restámos",
+    "2p": "restastes",
+    "3p": "restaram"
+  },
+  "PMQPSI": {
+    "1s": "restara",
+    "2s": "restaras",
+    "3s": "restara",
+    "1p": "restáramos",
+    "2p": "restáreis",
+    "3p": "restaram"
+  },
+  "FutSI": {
+    "1s": "restarei",
+    "2s": "restarás",
+    "3s": "restará",
+    "1p": "restaremos",
+    "2p": "restareis",
+    "3p": "restarão"
+  },
+  "CondS": {
+    "1s": "restaria",
+    "2s": "restarias",
+    "3s": "restaria",
+    "1p": "restaríamos",
+    "2p": "restaríeis",
+    "3p": "restariam"
+  },
+  "PresC": {
+    "1s": "reste",
+    "2s": "restes",
+    "3s": "reste",
+    "1p": "restemos",
+    "2p": "resteis",
+    "3p": "restem"
+  },
+  "PImpC": {
+    "1s": "restasse",
+    "2s": "restasses",
+    "3s": "restasse",
+    "1p": "restássemos",
+    "2p": "restásseis",
+    "3p": "restassem"
+  },
+  "FutSC": {
+    "1s": "restar",
+    "2s": "restares",
+    "3s": "restar",
+    "1p": "restarmos",
+    "2p": "restardes",
+    "3p": "restarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resta",
+    "3s": "reste",
+    "1p": "restemos",
+    "2p": "restai",
+    "3p": "restem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não restes",
+    "3s": "não reste",
+    "1p": "não restemos",
+    "2p": "não resteis",
+    "3p": "não restem"
+  },
+  "Part-ter": {
+    "": "restado"
+  },
+  "Part-ser": {
+    "ms": "restado",
+    "fs": "restada",
+    "mp": "restados",
+    "fp": "restadas"
+  }
+}

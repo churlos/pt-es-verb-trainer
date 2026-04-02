@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perdigar"
+  },
+  "Ger": {
+    "": "perdigando"
+  },
+  "PresI": {
+    "1s": "perdigo",
+    "2s": "perdigas",
+    "3s": "perdiga",
+    "1p": "perdigamos",
+    "2p": "perdigáis",
+    "3p": "perdigan"
+  },
+  "PImpI": {
+    "1s": "perdigaba",
+    "2s": "perdigabas",
+    "3s": "perdigaba",
+    "1p": "perdigábamos",
+    "2p": "perdigabais",
+    "3p": "perdigaban"
+  },
+  "PPSI": {
+    "1s": "perdigué",
+    "2s": "perdigaste",
+    "3s": "perdigó",
+    "1p": "perdigamos",
+    "2p": "perdigasteis",
+    "3p": "perdigaron"
+  },
+  "FutSI": {
+    "1s": "perdigaré",
+    "2s": "perdigarás",
+    "3s": "perdigará",
+    "1p": "perdigaremos",
+    "2p": "perdigaréis",
+    "3p": "perdigarán"
+  },
+  "CondS": {
+    "1s": "perdigaría",
+    "2s": "perdigarías",
+    "3s": "perdigaría",
+    "1p": "perdigaríamos",
+    "2p": "perdigaríais",
+    "3p": "perdigarían"
+  },
+  "PresC": {
+    "1s": "perdigue",
+    "2s": "perdigues",
+    "3s": "perdigue",
+    "1p": "perdiguemos",
+    "2p": "perdiguéis",
+    "3p": "perdiguen"
+  },
+  "PMQPSI": {
+    "1s": "perdigara",
+    "2s": "perdigaras",
+    "3s": "perdigara",
+    "1p": "perdigáramos",
+    "2p": "perdigarais",
+    "3p": "perdigaran"
+  },
+  "PImpC": {
+    "1s": "perdigase",
+    "2s": "perdigases",
+    "3s": "perdigase",
+    "1p": "perdigásemos",
+    "2p": "perdigaseis",
+    "3p": "perdigasen"
+  },
+  "FutSC": {
+    "1s": "perdigare",
+    "2s": "perdigares",
+    "3s": "perdigare",
+    "1p": "perdigáremos",
+    "2p": "perdigareis",
+    "3p": "perdigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perdiga",
+    "3s": "perdigue",
+    "1p": "perdiguemos",
+    "2p": "perdigad",
+    "3p": "perdiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no perdigues",
+    "3s": "no perdigue",
+    "1p": "no perdiguemos",
+    "2p": "no perdiguéis",
+    "3p": "no perdiguen"
+  },
+  "Part-ter": {
+    "": "perdigado"
+  },
+  "Part-ser": {
+    "ms": "perdigado",
+    "fs": "perdigada",
+    "mp": "perdigados",
+    "fp": "perdigadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ponerse"
+  },
+  "Ger": {
+    "": "poniéndose"
+  },
+  "PresI": {
+    "1s": "me pongo",
+    "2s": "te pones",
+    "3s": "se pone",
+    "1p": "nos ponemos",
+    "2p": "os ponéis",
+    "3p": "se ponen"
+  },
+  "PImpI": {
+    "1s": "me ponía",
+    "2s": "te ponías",
+    "3s": "se ponía",
+    "1p": "nos poníamos",
+    "2p": "os poníais",
+    "3p": "se ponían"
+  },
+  "PPSI": {
+    "1s": "me puse",
+    "2s": "te pusiste",
+    "3s": "se puso",
+    "1p": "nos pusimos",
+    "2p": "os pusisteis",
+    "3p": "se pusieron"
+  },
+  "FutSI": {
+    "1s": "me pondré",
+    "2s": "te pondrás",
+    "3s": "se pondrá",
+    "1p": "nos pondremos",
+    "2p": "os pondréis",
+    "3p": "se pondrán"
+  },
+  "CondS": {
+    "1s": "me pondría",
+    "2s": "te pondrías",
+    "3s": "se pondría",
+    "1p": "nos pondríamos",
+    "2p": "os pondríais",
+    "3p": "se pondrían"
+  },
+  "PresC": {
+    "1s": "me ponga",
+    "2s": "te pongas",
+    "3s": "se ponga",
+    "1p": "nos pongamos",
+    "2p": "os pongáis",
+    "3p": "se pongan"
+  },
+  "PMQPSI": {
+    "1s": "me pusiera",
+    "2s": "te pusieras",
+    "3s": "se pusiera",
+    "1p": "nos pusiéramos",
+    "2p": "os pusierais",
+    "3p": "se pusieran"
+  },
+  "PImpC": {
+    "1s": "me pusiese",
+    "2s": "te pusieses",
+    "3s": "se pusiese",
+    "1p": "nos pusiésemos",
+    "2p": "os pusieseis",
+    "3p": "se pusiesen"
+  },
+  "FutSC": {
+    "1s": "me pusiere",
+    "2s": "te pusieres",
+    "3s": "se pusiere",
+    "1p": "nos pusiéremos",
+    "2p": "os pusiereis",
+    "3p": "se pusieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ponte",
+    "3s": "póngase",
+    "1p": "pongámonos",
+    "2p": "poneos",
+    "3p": "pónganse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te pongas",
+    "3s": "no se ponga",
+    "1p": "no nos pongamos",
+    "2p": "no os pongáis",
+    "3p": "no se pongan"
+  },
+  "Part-ter": {
+    "": "puesto"
+  },
+  "Part-ser": {
+    "ms": "puesto",
+    "fs": "puesta",
+    "mp": "puestos",
+    "fp": "puestas"
+  }
+}

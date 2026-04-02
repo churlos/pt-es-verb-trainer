@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dividir"
+  },
+  "InfP": {
+    "1s": "dividir",
+    "2s": "dividires",
+    "3s": "dividir",
+    "1p": "dividirmos",
+    "2p": "dividirdes",
+    "3p": "dividirem"
+  },
+  "Ger": {
+    "": "dividindo"
+  },
+  "PresI": {
+    "1s": "divido",
+    "2s": "divides",
+    "3s": "divide",
+    "1p": "dividimos",
+    "2p": "dividis",
+    "3p": "dividem"
+  },
+  "PImpI": {
+    "1s": "dividia",
+    "2s": "dividias",
+    "3s": "dividia",
+    "1p": "dividíamos",
+    "2p": "dividíeis",
+    "3p": "dividiam"
+  },
+  "PPSI": {
+    "1s": "dividi",
+    "2s": "dividiste",
+    "3s": "dividiu",
+    "1p": "dividimos",
+    "2p": "dividistes",
+    "3p": "dividiram"
+  },
+  "PMQPSI": {
+    "1s": "dividira",
+    "2s": "dividiras",
+    "3s": "dividira",
+    "1p": "dividíramos",
+    "2p": "dividíreis",
+    "3p": "dividiram"
+  },
+  "FutSI": {
+    "1s": "dividirei",
+    "2s": "dividirás",
+    "3s": "dividirá",
+    "1p": "dividiremos",
+    "2p": "dividireis",
+    "3p": "dividirão"
+  },
+  "CondS": {
+    "1s": "dividiria",
+    "2s": "dividirias",
+    "3s": "dividiria",
+    "1p": "dividiríamos",
+    "2p": "dividiríeis",
+    "3p": "dividiriam"
+  },
+  "PresC": {
+    "1s": "divida",
+    "2s": "dividas",
+    "3s": "divida",
+    "1p": "dividamos",
+    "2p": "dividais",
+    "3p": "dividam"
+  },
+  "PImpC": {
+    "1s": "dividisse",
+    "2s": "dividisses",
+    "3s": "dividisse",
+    "1p": "dividíssemos",
+    "2p": "dividísseis",
+    "3p": "dividissem"
+  },
+  "FutSC": {
+    "1s": "dividir",
+    "2s": "dividires",
+    "3s": "dividir",
+    "1p": "dividirmos",
+    "2p": "dividirdes",
+    "3p": "dividirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "divide",
+    "3s": "divida",
+    "1p": "dividamos",
+    "2p": "dividi",
+    "3p": "dividam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dividas",
+    "3s": "não divida",
+    "1p": "não dividamos",
+    "2p": "não dividais",
+    "3p": "não dividam"
+  },
+  "Part-ter": {
+    "": "dividido"
+  },
+  "Part-ser": {
+    "ms": "dividido",
+    "fs": "dividida",
+    "mp": "divididos",
+    "fp": "divididas"
+  }
+}

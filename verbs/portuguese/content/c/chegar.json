@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "chegar"
+  },
+  "InfP": {
+    "1s": "chegar",
+    "2s": "chegares",
+    "3s": "chegar",
+    "1p": "chegarmos",
+    "2p": "chegardes",
+    "3p": "chegarem"
+  },
+  "Ger": {
+    "": "chegando"
+  },
+  "PresI": {
+    "1s": "chego",
+    "2s": "chegas",
+    "3s": "chega",
+    "1p": "chegamos",
+    "2p": "chegais",
+    "3p": "chegam"
+  },
+  "PImpI": {
+    "1s": "chegava",
+    "2s": "chegavas",
+    "3s": "chegava",
+    "1p": "chegávamos",
+    "2p": "chegáveis",
+    "3p": "chegavam"
+  },
+  "PPSI": {
+    "1s": "cheguei",
+    "2s": "chegaste",
+    "3s": "chegou",
+    "1p": "chegámos",
+    "2p": "chegastes",
+    "3p": "chegaram"
+  },
+  "PMQPSI": {
+    "1s": "chegara",
+    "2s": "chegaras",
+    "3s": "chegara",
+    "1p": "chegáramos",
+    "2p": "chegáreis",
+    "3p": "chegaram"
+  },
+  "FutSI": {
+    "1s": "chegarei",
+    "2s": "chegarás",
+    "3s": "chegará",
+    "1p": "chegaremos",
+    "2p": "chegareis",
+    "3p": "chegarão"
+  },
+  "CondS": {
+    "1s": "chegaria",
+    "2s": "chegarias",
+    "3s": "chegaria",
+    "1p": "chegaríamos",
+    "2p": "chegaríeis",
+    "3p": "chegariam"
+  },
+  "PresC": {
+    "1s": "chegue",
+    "2s": "chegues",
+    "3s": "chegue",
+    "1p": "cheguemos",
+    "2p": "chegueis",
+    "3p": "cheguem"
+  },
+  "PImpC": {
+    "1s": "chegasse",
+    "2s": "chegasses",
+    "3s": "chegasse",
+    "1p": "chegássemos",
+    "2p": "chegásseis",
+    "3p": "chegassem"
+  },
+  "FutSC": {
+    "1s": "chegar",
+    "2s": "chegares",
+    "3s": "chegar",
+    "1p": "chegarmos",
+    "2p": "chegardes",
+    "3p": "chegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "chega",
+    "3s": "chegue",
+    "1p": "cheguemos",
+    "2p": "chegai",
+    "3p": "cheguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não chegues",
+    "3s": "não chegue",
+    "1p": "não cheguemos",
+    "2p": "não chegueis",
+    "3p": "não cheguem"
+  },
+  "Part-ter": {
+    "": "chegado"
+  },
+  "Part-ser": {
+    "ms": "chegado",
+    "fs": "chegada",
+    "mp": "chegados",
+    "fp": "chegadas"
+  }
+}

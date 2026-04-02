@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amigar"
+  },
+  "Ger": {
+    "": "amigando"
+  },
+  "PresI": {
+    "1s": "amigo",
+    "2s": "amigas",
+    "3s": "amiga",
+    "1p": "amigamos",
+    "2p": "amigáis",
+    "3p": "amigan"
+  },
+  "PImpI": {
+    "1s": "amigaba",
+    "2s": "amigabas",
+    "3s": "amigaba",
+    "1p": "amigábamos",
+    "2p": "amigabais",
+    "3p": "amigaban"
+  },
+  "PPSI": {
+    "1s": "amigué",
+    "2s": "amigaste",
+    "3s": "amigó",
+    "1p": "amigamos",
+    "2p": "amigasteis",
+    "3p": "amigaron"
+  },
+  "FutSI": {
+    "1s": "amigaré",
+    "2s": "amigarás",
+    "3s": "amigará",
+    "1p": "amigaremos",
+    "2p": "amigaréis",
+    "3p": "amigarán"
+  },
+  "CondS": {
+    "1s": "amigaría",
+    "2s": "amigarías",
+    "3s": "amigaría",
+    "1p": "amigaríamos",
+    "2p": "amigaríais",
+    "3p": "amigarían"
+  },
+  "PresC": {
+    "1s": "amigue",
+    "2s": "amigues",
+    "3s": "amigue",
+    "1p": "amiguemos",
+    "2p": "amiguéis",
+    "3p": "amiguen"
+  },
+  "PMQPSI": {
+    "1s": "amigara",
+    "2s": "amigaras",
+    "3s": "amigara",
+    "1p": "amigáramos",
+    "2p": "amigarais",
+    "3p": "amigaran"
+  },
+  "PImpC": {
+    "1s": "amigase",
+    "2s": "amigases",
+    "3s": "amigase",
+    "1p": "amigásemos",
+    "2p": "amigaseis",
+    "3p": "amigasen"
+  },
+  "FutSC": {
+    "1s": "amigare",
+    "2s": "amigares",
+    "3s": "amigare",
+    "1p": "amigáremos",
+    "2p": "amigareis",
+    "3p": "amigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amiga",
+    "3s": "amigue",
+    "1p": "amiguemos",
+    "2p": "amigad",
+    "3p": "amiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amigues",
+    "3s": "no amigue",
+    "1p": "no amiguemos",
+    "2p": "no amiguéis",
+    "3p": "no amiguen"
+  },
+  "Part-ter": {
+    "": "amigado"
+  },
+  "Part-ser": {
+    "ms": "amigado",
+    "fs": "amigada",
+    "mp": "amigados",
+    "fp": "amigadas"
+  }
+}

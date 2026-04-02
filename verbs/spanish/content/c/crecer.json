@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "crecer"
+  },
+  "Ger": {
+    "": "creciendo"
+  },
+  "PresI": {
+    "1s": "crezco",
+    "2s": "creces",
+    "3s": "crece",
+    "1p": "crecemos",
+    "2p": "crecéis",
+    "3p": "crecen"
+  },
+  "PImpI": {
+    "1s": "crecía",
+    "2s": "crecías",
+    "3s": "crecía",
+    "1p": "crecíamos",
+    "2p": "crecíais",
+    "3p": "crecían"
+  },
+  "PPSI": {
+    "1s": "crecí",
+    "2s": "creciste",
+    "3s": "creció",
+    "1p": "crecimos",
+    "2p": "crecisteis",
+    "3p": "crecieron"
+  },
+  "FutSI": {
+    "1s": "creceré",
+    "2s": "crecerás",
+    "3s": "crecerá",
+    "1p": "creceremos",
+    "2p": "creceréis",
+    "3p": "crecerán"
+  },
+  "CondS": {
+    "1s": "crecería",
+    "2s": "crecerías",
+    "3s": "crecería",
+    "1p": "creceríamos",
+    "2p": "creceríais",
+    "3p": "crecerían"
+  },
+  "PresC": {
+    "1s": "crezca",
+    "2s": "crezcas",
+    "3s": "crezca",
+    "1p": "crezcamos",
+    "2p": "crezcáis",
+    "3p": "crezcan"
+  },
+  "PMQPSI": {
+    "1s": "creciera",
+    "2s": "crecieras",
+    "3s": "creciera",
+    "1p": "creciéramos",
+    "2p": "crecierais",
+    "3p": "crecieran"
+  },
+  "PImpC": {
+    "1s": "creciese",
+    "2s": "crecieses",
+    "3s": "creciese",
+    "1p": "creciésemos",
+    "2p": "crecieseis",
+    "3p": "creciesen"
+  },
+  "FutSC": {
+    "1s": "creciere",
+    "2s": "crecieres",
+    "3s": "creciere",
+    "1p": "creciéremos",
+    "2p": "creciereis",
+    "3p": "crecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crece",
+    "3s": "crezca",
+    "1p": "crezcamos",
+    "2p": "creced",
+    "3p": "crezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no crezcas",
+    "3s": "no crezca",
+    "1p": "no crezcamos",
+    "2p": "no crezcáis",
+    "3p": "no crezcan"
+  },
+  "Part-ter": {
+    "": "crecido"
+  },
+  "Part-ser": {
+    "ms": "crecido",
+    "fs": "crecida",
+    "mp": "crecidos",
+    "fp": "crecidas"
+  }
+}

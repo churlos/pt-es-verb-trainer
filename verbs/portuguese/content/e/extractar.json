@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "extractar"
+  },
+  "InfP": {
+    "1s": "extractar",
+    "2s": "extractares",
+    "3s": "extractar",
+    "1p": "extractarmos",
+    "2p": "extractardes",
+    "3p": "extractarem"
+  },
+  "Ger": {
+    "": "extractando"
+  },
+  "PresI": {
+    "1s": "extracto",
+    "2s": "extractas",
+    "3s": "extracta",
+    "1p": "extractamos",
+    "2p": "extractais",
+    "3p": "extractam"
+  },
+  "PImpI": {
+    "1s": "extractava",
+    "2s": "extractavas",
+    "3s": "extractava",
+    "1p": "extractávamos",
+    "2p": "extractáveis",
+    "3p": "extractavam"
+  },
+  "PPSI": {
+    "1s": "extractei",
+    "2s": "extractaste",
+    "3s": "extractou",
+    "1p": "extractámos",
+    "2p": "extractastes",
+    "3p": "extractaram"
+  },
+  "PMQPSI": {
+    "1s": "extractara",
+    "2s": "extractaras",
+    "3s": "extractara",
+    "1p": "extractáramos",
+    "2p": "extractáreis",
+    "3p": "extractaram"
+  },
+  "FutSI": {
+    "1s": "extractarei",
+    "2s": "extractarás",
+    "3s": "extractará",
+    "1p": "extractaremos",
+    "2p": "extractareis",
+    "3p": "extractarão"
+  },
+  "CondS": {
+    "1s": "extractaria",
+    "2s": "extractarias",
+    "3s": "extractaria",
+    "1p": "extractaríamos",
+    "2p": "extractaríeis",
+    "3p": "extractariam"
+  },
+  "PresC": {
+    "1s": "extracte",
+    "2s": "extractes",
+    "3s": "extracte",
+    "1p": "extractemos",
+    "2p": "extracteis",
+    "3p": "extractem"
+  },
+  "PImpC": {
+    "1s": "extractasse",
+    "2s": "extractasses",
+    "3s": "extractasse",
+    "1p": "extractássemos",
+    "2p": "extractásseis",
+    "3p": "extractassem"
+  },
+  "FutSC": {
+    "1s": "extractar",
+    "2s": "extractares",
+    "3s": "extractar",
+    "1p": "extractarmos",
+    "2p": "extractardes",
+    "3p": "extractarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extracta",
+    "3s": "extracte",
+    "1p": "extractemos",
+    "2p": "extractai",
+    "3p": "extractem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não extractes",
+    "3s": "não extracte",
+    "1p": "não extractemos",
+    "2p": "não extracteis",
+    "3p": "não extractem"
+  },
+  "Part-ter": {
+    "": "extractado"
+  },
+  "Part-ser": {
+    "ms": "extractado",
+    "fs": "extractada",
+    "mp": "extractados",
+    "fp": "extractadas"
+  }
+}

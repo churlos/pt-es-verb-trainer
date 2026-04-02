@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "usar"
+  },
+  "InfP": {
+    "1s": "usar",
+    "2s": "usares",
+    "3s": "usar",
+    "1p": "usarmos",
+    "2p": "usardes",
+    "3p": "usarem"
+  },
+  "Ger": {
+    "": "usando"
+  },
+  "PresI": {
+    "1s": "uso",
+    "2s": "usas",
+    "3s": "usa",
+    "1p": "usamos",
+    "2p": "usais",
+    "3p": "usam"
+  },
+  "PImpI": {
+    "1s": "usava",
+    "2s": "usavas",
+    "3s": "usava",
+    "1p": "usávamos",
+    "2p": "usáveis",
+    "3p": "usavam"
+  },
+  "PPSI": {
+    "1s": "usei",
+    "2s": "usaste",
+    "3s": "usou",
+    "1p": "usámos",
+    "2p": "usastes",
+    "3p": "usaram"
+  },
+  "PMQPSI": {
+    "1s": "usara",
+    "2s": "usaras",
+    "3s": "usara",
+    "1p": "usáramos",
+    "2p": "usáreis",
+    "3p": "usaram"
+  },
+  "FutSI": {
+    "1s": "usarei",
+    "2s": "usarás",
+    "3s": "usará",
+    "1p": "usaremos",
+    "2p": "usareis",
+    "3p": "usarão"
+  },
+  "CondS": {
+    "1s": "usaria",
+    "2s": "usarias",
+    "3s": "usaria",
+    "1p": "usaríamos",
+    "2p": "usaríeis",
+    "3p": "usariam"
+  },
+  "PresC": {
+    "1s": "use",
+    "2s": "uses",
+    "3s": "use",
+    "1p": "usemos",
+    "2p": "useis",
+    "3p": "usem"
+  },
+  "PImpC": {
+    "1s": "usasse",
+    "2s": "usasses",
+    "3s": "usasse",
+    "1p": "usássemos",
+    "2p": "usásseis",
+    "3p": "usassem"
+  },
+  "FutSC": {
+    "1s": "usar",
+    "2s": "usares",
+    "3s": "usar",
+    "1p": "usarmos",
+    "2p": "usardes",
+    "3p": "usarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "usa",
+    "3s": "use",
+    "1p": "usemos",
+    "2p": "usai",
+    "3p": "usem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não uses",
+    "3s": "não use",
+    "1p": "não usemos",
+    "2p": "não useis",
+    "3p": "não usem"
+  },
+  "Part-ter": {
+    "": "usado"
+  },
+  "Part-ser": {
+    "ms": "usado",
+    "fs": "usada",
+    "mp": "usados",
+    "fp": "usadas"
+  }
+}

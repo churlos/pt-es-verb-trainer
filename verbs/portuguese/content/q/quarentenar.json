@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "quarentenar"
+  },
+  "InfP": {
+    "1s": "quarentenar",
+    "2s": "quarentenares",
+    "3s": "quarentenar",
+    "1p": "quarentenarmos",
+    "2p": "quarentenardes",
+    "3p": "quarentenarem"
+  },
+  "Ger": {
+    "": "quarentenando"
+  },
+  "PresI": {
+    "1s": "quarenteno",
+    "2s": "quarentenas",
+    "3s": "quarentena",
+    "1p": "quarentenamos",
+    "2p": "quarentenais",
+    "3p": "quarentenam"
+  },
+  "PImpI": {
+    "1s": "quarentenava",
+    "2s": "quarentenavas",
+    "3s": "quarentenava",
+    "1p": "quarentenávamos",
+    "2p": "quarentenáveis",
+    "3p": "quarentenavam"
+  },
+  "PPSI": {
+    "1s": "quarentenei",
+    "2s": "quarentenaste",
+    "3s": "quarentenou",
+    "1p": "quarentenámos",
+    "2p": "quarentenastes",
+    "3p": "quarentenaram"
+  },
+  "PMQPSI": {
+    "1s": "quarentenara",
+    "2s": "quarentenaras",
+    "3s": "quarentenara",
+    "1p": "quarentenáramos",
+    "2p": "quarentenáreis",
+    "3p": "quarentenaram"
+  },
+  "FutSI": {
+    "1s": "quarentenarei",
+    "2s": "quarentenarás",
+    "3s": "quarentenará",
+    "1p": "quarentenaremos",
+    "2p": "quarentenareis",
+    "3p": "quarentenarão"
+  },
+  "CondS": {
+    "1s": "quarentenaria",
+    "2s": "quarentenarias",
+    "3s": "quarentenaria",
+    "1p": "quarentenaríamos",
+    "2p": "quarentenaríeis",
+    "3p": "quarentenariam"
+  },
+  "PresC": {
+    "1s": "quarentene",
+    "2s": "quarentenes",
+    "3s": "quarentene",
+    "1p": "quarentenemos",
+    "2p": "quarenteneis",
+    "3p": "quarentenem"
+  },
+  "PImpC": {
+    "1s": "quarentenasse",
+    "2s": "quarentenasses",
+    "3s": "quarentenasse",
+    "1p": "quarentenássemos",
+    "2p": "quarentenásseis",
+    "3p": "quarentenassem"
+  },
+  "FutSC": {
+    "1s": "quarentenar",
+    "2s": "quarentenares",
+    "3s": "quarentenar",
+    "1p": "quarentenarmos",
+    "2p": "quarentenardes",
+    "3p": "quarentenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quarentena",
+    "3s": "quarentene",
+    "1p": "quarentenemos",
+    "2p": "quarentenai",
+    "3p": "quarentenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não quarentenes",
+    "3s": "não quarentene",
+    "1p": "não quarentenemos",
+    "2p": "não quarenteneis",
+    "3p": "não quarentenem"
+  },
+  "Part-ter": {
+    "": "quarentenado"
+  },
+  "Part-ser": {
+    "ms": "quarentenado",
+    "fs": "quarentenada",
+    "mp": "quarentenados",
+    "fp": "quarentenadas"
+  }
+}

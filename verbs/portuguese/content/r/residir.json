@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "residir"
+  },
+  "InfP": {
+    "1s": "residir",
+    "2s": "residires",
+    "3s": "residir",
+    "1p": "residirmos",
+    "2p": "residirdes",
+    "3p": "residirem"
+  },
+  "Ger": {
+    "": "residindo"
+  },
+  "PresI": {
+    "1s": "resido",
+    "2s": "resides",
+    "3s": "reside",
+    "1p": "residimos",
+    "2p": "residis",
+    "3p": "residem"
+  },
+  "PImpI": {
+    "1s": "residia",
+    "2s": "residias",
+    "3s": "residia",
+    "1p": "residíamos",
+    "2p": "residíeis",
+    "3p": "residiam"
+  },
+  "PPSI": {
+    "1s": "residi",
+    "2s": "residiste",
+    "3s": "residiu",
+    "1p": "residimos",
+    "2p": "residistes",
+    "3p": "residiram"
+  },
+  "PMQPSI": {
+    "1s": "residira",
+    "2s": "residiras",
+    "3s": "residira",
+    "1p": "residíramos",
+    "2p": "residíreis",
+    "3p": "residiram"
+  },
+  "FutSI": {
+    "1s": "residirei",
+    "2s": "residirás",
+    "3s": "residirá",
+    "1p": "residiremos",
+    "2p": "residireis",
+    "3p": "residirão"
+  },
+  "CondS": {
+    "1s": "residiria",
+    "2s": "residirias",
+    "3s": "residiria",
+    "1p": "residiríamos",
+    "2p": "residiríeis",
+    "3p": "residiriam"
+  },
+  "PresC": {
+    "1s": "resida",
+    "2s": "residas",
+    "3s": "resida",
+    "1p": "residamos",
+    "2p": "residais",
+    "3p": "residam"
+  },
+  "PImpC": {
+    "1s": "residisse",
+    "2s": "residisses",
+    "3s": "residisse",
+    "1p": "residíssemos",
+    "2p": "residísseis",
+    "3p": "residissem"
+  },
+  "FutSC": {
+    "1s": "residir",
+    "2s": "residires",
+    "3s": "residir",
+    "1p": "residirmos",
+    "2p": "residirdes",
+    "3p": "residirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reside",
+    "3s": "resida",
+    "1p": "residamos",
+    "2p": "residi",
+    "3p": "residam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não residas",
+    "3s": "não resida",
+    "1p": "não residamos",
+    "2p": "não residais",
+    "3p": "não residam"
+  },
+  "Part-ter": {
+    "": "residido"
+  },
+  "Part-ser": {
+    "ms": "residido",
+    "fs": "residida",
+    "mp": "resididos",
+    "fp": "resididas"
+  }
+}

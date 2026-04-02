@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "noivar"
+  },
+  "InfP": {
+    "1s": "noivar",
+    "2s": "noivares",
+    "3s": "noivar",
+    "1p": "noivarmos",
+    "2p": "noivardes",
+    "3p": "noivarem"
+  },
+  "Ger": {
+    "": "noivando"
+  },
+  "PresI": {
+    "1s": "noivo",
+    "2s": "noivas",
+    "3s": "noiva",
+    "1p": "noivamos",
+    "2p": "noivais",
+    "3p": "noivam"
+  },
+  "PImpI": {
+    "1s": "noivava",
+    "2s": "noivavas",
+    "3s": "noivava",
+    "1p": "noivávamos",
+    "2p": "noiváveis",
+    "3p": "noivavam"
+  },
+  "PPSI": {
+    "1s": "noivei",
+    "2s": "noivaste",
+    "3s": "noivou",
+    "1p": "noivámos",
+    "2p": "noivastes",
+    "3p": "noivaram"
+  },
+  "PMQPSI": {
+    "1s": "noivara",
+    "2s": "noivaras",
+    "3s": "noivara",
+    "1p": "noiváramos",
+    "2p": "noiváreis",
+    "3p": "noivaram"
+  },
+  "FutSI": {
+    "1s": "noivarei",
+    "2s": "noivarás",
+    "3s": "noivará",
+    "1p": "noivaremos",
+    "2p": "noivareis",
+    "3p": "noivarão"
+  },
+  "CondS": {
+    "1s": "noivaria",
+    "2s": "noivarias",
+    "3s": "noivaria",
+    "1p": "noivaríamos",
+    "2p": "noivaríeis",
+    "3p": "noivariam"
+  },
+  "PresC": {
+    "1s": "noive",
+    "2s": "noives",
+    "3s": "noive",
+    "1p": "noivemos",
+    "2p": "noiveis",
+    "3p": "noivem"
+  },
+  "PImpC": {
+    "1s": "noivasse",
+    "2s": "noivasses",
+    "3s": "noivasse",
+    "1p": "noivássemos",
+    "2p": "noivásseis",
+    "3p": "noivassem"
+  },
+  "FutSC": {
+    "1s": "noivar",
+    "2s": "noivares",
+    "3s": "noivar",
+    "1p": "noivarmos",
+    "2p": "noivardes",
+    "3p": "noivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "noiva",
+    "3s": "noive",
+    "1p": "noivemos",
+    "2p": "noivai",
+    "3p": "noivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não noives",
+    "3s": "não noive",
+    "1p": "não noivemos",
+    "2p": "não noiveis",
+    "3p": "não noivem"
+  },
+  "Part-ter": {
+    "": "noivado"
+  },
+  "Part-ser": {
+    "ms": "noivado",
+    "fs": "noivada",
+    "mp": "noivados",
+    "fp": "noivadas"
+  }
+}

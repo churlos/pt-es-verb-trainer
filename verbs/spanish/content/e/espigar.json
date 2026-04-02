@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "espigar"
+  },
+  "Ger": {
+    "": "espigando"
+  },
+  "PresI": {
+    "1s": "espigo",
+    "2s": "espigas",
+    "3s": "espiga",
+    "1p": "espigamos",
+    "2p": "espigáis",
+    "3p": "espigan"
+  },
+  "PImpI": {
+    "1s": "espigaba",
+    "2s": "espigabas",
+    "3s": "espigaba",
+    "1p": "espigábamos",
+    "2p": "espigabais",
+    "3p": "espigaban"
+  },
+  "PPSI": {
+    "1s": "espigué",
+    "2s": "espigaste",
+    "3s": "espigó",
+    "1p": "espigamos",
+    "2p": "espigasteis",
+    "3p": "espigaron"
+  },
+  "FutSI": {
+    "1s": "espigaré",
+    "2s": "espigarás",
+    "3s": "espigará",
+    "1p": "espigaremos",
+    "2p": "espigaréis",
+    "3p": "espigarán"
+  },
+  "CondS": {
+    "1s": "espigaría",
+    "2s": "espigarías",
+    "3s": "espigaría",
+    "1p": "espigaríamos",
+    "2p": "espigaríais",
+    "3p": "espigarían"
+  },
+  "PresC": {
+    "1s": "espigue",
+    "2s": "espigues",
+    "3s": "espigue",
+    "1p": "espiguemos",
+    "2p": "espiguéis",
+    "3p": "espiguen"
+  },
+  "PMQPSI": {
+    "1s": "espigara",
+    "2s": "espigaras",
+    "3s": "espigara",
+    "1p": "espigáramos",
+    "2p": "espigarais",
+    "3p": "espigaran"
+  },
+  "PImpC": {
+    "1s": "espigase",
+    "2s": "espigases",
+    "3s": "espigase",
+    "1p": "espigásemos",
+    "2p": "espigaseis",
+    "3p": "espigasen"
+  },
+  "FutSC": {
+    "1s": "espigare",
+    "2s": "espigares",
+    "3s": "espigare",
+    "1p": "espigáremos",
+    "2p": "espigareis",
+    "3p": "espigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espiga",
+    "3s": "espigue",
+    "1p": "espiguemos",
+    "2p": "espigad",
+    "3p": "espiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no espigues",
+    "3s": "no espigue",
+    "1p": "no espiguemos",
+    "2p": "no espiguéis",
+    "3p": "no espiguen"
+  },
+  "Part-ter": {
+    "": "espigado"
+  },
+  "Part-ser": {
+    "ms": "espigado",
+    "fs": "espigada",
+    "mp": "espigados",
+    "fp": "espigadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "deplorar"
+  },
+  "Ger": {
+    "": "deplorando"
+  },
+  "PresI": {
+    "1s": "deploro",
+    "2s": "deploras",
+    "3s": "deplora",
+    "1p": "deploramos",
+    "2p": "deploráis",
+    "3p": "deploran"
+  },
+  "PImpI": {
+    "1s": "deploraba",
+    "2s": "deplorabas",
+    "3s": "deploraba",
+    "1p": "deplorábamos",
+    "2p": "deplorabais",
+    "3p": "deploraban"
+  },
+  "PPSI": {
+    "1s": "deploré",
+    "2s": "deploraste",
+    "3s": "deploró",
+    "1p": "deploramos",
+    "2p": "deplorasteis",
+    "3p": "deploraron"
+  },
+  "FutSI": {
+    "1s": "deploraré",
+    "2s": "deplorarás",
+    "3s": "deplorará",
+    "1p": "deploraremos",
+    "2p": "deploraréis",
+    "3p": "deplorarán"
+  },
+  "CondS": {
+    "1s": "deploraría",
+    "2s": "deplorarías",
+    "3s": "deploraría",
+    "1p": "deploraríamos",
+    "2p": "deploraríais",
+    "3p": "deplorarían"
+  },
+  "PresC": {
+    "1s": "deplore",
+    "2s": "deplores",
+    "3s": "deplore",
+    "1p": "deploremos",
+    "2p": "deploréis",
+    "3p": "deploren"
+  },
+  "PMQPSI": {
+    "1s": "deplorara",
+    "2s": "deploraras",
+    "3s": "deplorara",
+    "1p": "deploráramos",
+    "2p": "deplorarais",
+    "3p": "deploraran"
+  },
+  "PImpC": {
+    "1s": "deplorase",
+    "2s": "deplorases",
+    "3s": "deplorase",
+    "1p": "deplorásemos",
+    "2p": "deploraseis",
+    "3p": "deplorasen"
+  },
+  "FutSC": {
+    "1s": "deplorare",
+    "2s": "deplorares",
+    "3s": "deplorare",
+    "1p": "deploráremos",
+    "2p": "deplorareis",
+    "3p": "deploraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deplora",
+    "3s": "deplore",
+    "1p": "deploremos",
+    "2p": "deplorad",
+    "3p": "deploren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deplores",
+    "3s": "no deplore",
+    "1p": "no deploremos",
+    "2p": "no deploréis",
+    "3p": "no deploren"
+  },
+  "Part-ter": {
+    "": "deplorado"
+  },
+  "Part-ser": {
+    "ms": "deplorado",
+    "fs": "deplorada",
+    "mp": "deplorados",
+    "fp": "deploradas"
+  }
+}

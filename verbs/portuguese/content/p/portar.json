@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "portar"
+  },
+  "InfP": {
+    "1s": "portar",
+    "2s": "portares",
+    "3s": "portar",
+    "1p": "portarmos",
+    "2p": "portardes",
+    "3p": "portarem"
+  },
+  "Ger": {
+    "": "portando"
+  },
+  "PresI": {
+    "1s": "porto",
+    "2s": "portas",
+    "3s": "porta",
+    "1p": "portamos",
+    "2p": "portais",
+    "3p": "portam"
+  },
+  "PImpI": {
+    "1s": "portava",
+    "2s": "portavas",
+    "3s": "portava",
+    "1p": "portávamos",
+    "2p": "portáveis",
+    "3p": "portavam"
+  },
+  "PPSI": {
+    "1s": "portei",
+    "2s": "portaste",
+    "3s": "portou",
+    "1p": "portámos",
+    "2p": "portastes",
+    "3p": "portaram"
+  },
+  "PMQPSI": {
+    "1s": "portara",
+    "2s": "portaras",
+    "3s": "portara",
+    "1p": "portáramos",
+    "2p": "portáreis",
+    "3p": "portaram"
+  },
+  "FutSI": {
+    "1s": "portarei",
+    "2s": "portarás",
+    "3s": "portará",
+    "1p": "portaremos",
+    "2p": "portareis",
+    "3p": "portarão"
+  },
+  "CondS": {
+    "1s": "portaria",
+    "2s": "portarias",
+    "3s": "portaria",
+    "1p": "portaríamos",
+    "2p": "portaríeis",
+    "3p": "portariam"
+  },
+  "PresC": {
+    "1s": "porte",
+    "2s": "portes",
+    "3s": "porte",
+    "1p": "portemos",
+    "2p": "porteis",
+    "3p": "portem"
+  },
+  "PImpC": {
+    "1s": "portasse",
+    "2s": "portasses",
+    "3s": "portasse",
+    "1p": "portássemos",
+    "2p": "portásseis",
+    "3p": "portassem"
+  },
+  "FutSC": {
+    "1s": "portar",
+    "2s": "portares",
+    "3s": "portar",
+    "1p": "portarmos",
+    "2p": "portardes",
+    "3p": "portarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "porta",
+    "3s": "porte",
+    "1p": "portemos",
+    "2p": "portai",
+    "3p": "portem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não portes",
+    "3s": "não porte",
+    "1p": "não portemos",
+    "2p": "não porteis",
+    "3p": "não portem"
+  },
+  "Part-ter": {
+    "": "portado"
+  },
+  "Part-ser": {
+    "ms": "portado",
+    "fs": "portada",
+    "mp": "portados",
+    "fp": "portadas"
+  }
+}

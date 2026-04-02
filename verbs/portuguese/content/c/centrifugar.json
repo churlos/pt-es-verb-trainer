@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "centrifugar"
+  },
+  "InfP": {
+    "1s": "centrifugar",
+    "2s": "centrifugares",
+    "3s": "centrifugar",
+    "1p": "centrifugarmos",
+    "2p": "centrifugardes",
+    "3p": "centrifugarem"
+  },
+  "Ger": {
+    "": "centrifugando"
+  },
+  "PresI": {
+    "1s": "centrifugo",
+    "2s": "centrifugas",
+    "3s": "centrifuga",
+    "1p": "centrifugamos",
+    "2p": "centrifugais",
+    "3p": "centrifugam"
+  },
+  "PImpI": {
+    "1s": "centrifugava",
+    "2s": "centrifugavas",
+    "3s": "centrifugava",
+    "1p": "centrifugávamos",
+    "2p": "centrifugáveis",
+    "3p": "centrifugavam"
+  },
+  "PPSI": {
+    "1s": "centrifuguei",
+    "2s": "centrifugaste",
+    "3s": "centrifugou",
+    "1p": "centrifugámos",
+    "2p": "centrifugastes",
+    "3p": "centrifugaram"
+  },
+  "PMQPSI": {
+    "1s": "centrifugara",
+    "2s": "centrifugaras",
+    "3s": "centrifugara",
+    "1p": "centrifugáramos",
+    "2p": "centrifugáreis",
+    "3p": "centrifugaram"
+  },
+  "FutSI": {
+    "1s": "centrifugarei",
+    "2s": "centrifugarás",
+    "3s": "centrifugará",
+    "1p": "centrifugaremos",
+    "2p": "centrifugareis",
+    "3p": "centrifugarão"
+  },
+  "CondS": {
+    "1s": "centrifugaria",
+    "2s": "centrifugarias",
+    "3s": "centrifugaria",
+    "1p": "centrifugaríamos",
+    "2p": "centrifugaríeis",
+    "3p": "centrifugariam"
+  },
+  "PresC": {
+    "1s": "centrifugue",
+    "2s": "centrifugues",
+    "3s": "centrifugue",
+    "1p": "centrifuguemos",
+    "2p": "centrifugueis",
+    "3p": "centrifuguem"
+  },
+  "PImpC": {
+    "1s": "centrifugasse",
+    "2s": "centrifugasses",
+    "3s": "centrifugasse",
+    "1p": "centrifugássemos",
+    "2p": "centrifugásseis",
+    "3p": "centrifugassem"
+  },
+  "FutSC": {
+    "1s": "centrifugar",
+    "2s": "centrifugares",
+    "3s": "centrifugar",
+    "1p": "centrifugarmos",
+    "2p": "centrifugardes",
+    "3p": "centrifugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "centrifuga",
+    "3s": "centrifugue",
+    "1p": "centrifuguemos",
+    "2p": "centrifugai",
+    "3p": "centrifuguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não centrifugues",
+    "3s": "não centrifugue",
+    "1p": "não centrifuguemos",
+    "2p": "não centrifugueis",
+    "3p": "não centrifuguem"
+  },
+  "Part-ter": {
+    "": "centrifugado"
+  },
+  "Part-ser": {
+    "ms": "centrifugado",
+    "fs": "centrifugada",
+    "mp": "centrifugados",
+    "fp": "centrifugadas"
+  }
+}

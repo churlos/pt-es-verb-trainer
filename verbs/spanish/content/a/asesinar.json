@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asesinar"
+  },
+  "Ger": {
+    "": "asesinando"
+  },
+  "PresI": {
+    "1s": "asesino",
+    "2s": "asesinas",
+    "3s": "asesina",
+    "1p": "asesinamos",
+    "2p": "asesináis",
+    "3p": "asesinan"
+  },
+  "PImpI": {
+    "1s": "asesinaba",
+    "2s": "asesinabas",
+    "3s": "asesinaba",
+    "1p": "asesinábamos",
+    "2p": "asesinabais",
+    "3p": "asesinaban"
+  },
+  "PPSI": {
+    "1s": "asesiné",
+    "2s": "asesinaste",
+    "3s": "asesinó",
+    "1p": "asesinamos",
+    "2p": "asesinasteis",
+    "3p": "asesinaron"
+  },
+  "FutSI": {
+    "1s": "asesinaré",
+    "2s": "asesinarás",
+    "3s": "asesinará",
+    "1p": "asesinaremos",
+    "2p": "asesinaréis",
+    "3p": "asesinarán"
+  },
+  "CondS": {
+    "1s": "asesinaría",
+    "2s": "asesinarías",
+    "3s": "asesinaría",
+    "1p": "asesinaríamos",
+    "2p": "asesinaríais",
+    "3p": "asesinarían"
+  },
+  "PresC": {
+    "1s": "asesine",
+    "2s": "asesines",
+    "3s": "asesine",
+    "1p": "asesinemos",
+    "2p": "asesinéis",
+    "3p": "asesinen"
+  },
+  "PMQPSI": {
+    "1s": "asesinara",
+    "2s": "asesinaras",
+    "3s": "asesinara",
+    "1p": "asesináramos",
+    "2p": "asesinarais",
+    "3p": "asesinaran"
+  },
+  "PImpC": {
+    "1s": "asesinase",
+    "2s": "asesinases",
+    "3s": "asesinase",
+    "1p": "asesinásemos",
+    "2p": "asesinaseis",
+    "3p": "asesinasen"
+  },
+  "FutSC": {
+    "1s": "asesinare",
+    "2s": "asesinares",
+    "3s": "asesinare",
+    "1p": "asesináremos",
+    "2p": "asesinareis",
+    "3p": "asesinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asesina",
+    "3s": "asesine",
+    "1p": "asesinemos",
+    "2p": "asesinad",
+    "3p": "asesinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asesines",
+    "3s": "no asesine",
+    "1p": "no asesinemos",
+    "2p": "no asesinéis",
+    "3p": "no asesinen"
+  },
+  "Part-ter": {
+    "": "asesinado"
+  },
+  "Part-ser": {
+    "ms": "asesinado",
+    "fs": "asesinada",
+    "mp": "asesinados",
+    "fp": "asesinadas"
+  }
+}

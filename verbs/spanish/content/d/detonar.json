@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "detonar"
+  },
+  "Ger": {
+    "": "detonando"
+  },
+  "PresI": {
+    "1s": "detono",
+    "2s": "detonas",
+    "3s": "detona",
+    "1p": "detonamos",
+    "2p": "detonáis",
+    "3p": "detonan"
+  },
+  "PImpI": {
+    "1s": "detonaba",
+    "2s": "detonabas",
+    "3s": "detonaba",
+    "1p": "detonábamos",
+    "2p": "detonabais",
+    "3p": "detonaban"
+  },
+  "PPSI": {
+    "1s": "detoné",
+    "2s": "detonaste",
+    "3s": "detonó",
+    "1p": "detonamos",
+    "2p": "detonasteis",
+    "3p": "detonaron"
+  },
+  "FutSI": {
+    "1s": "detonaré",
+    "2s": "detonarás",
+    "3s": "detonará",
+    "1p": "detonaremos",
+    "2p": "detonaréis",
+    "3p": "detonarán"
+  },
+  "CondS": {
+    "1s": "detonaría",
+    "2s": "detonarías",
+    "3s": "detonaría",
+    "1p": "detonaríamos",
+    "2p": "detonaríais",
+    "3p": "detonarían"
+  },
+  "PresC": {
+    "1s": "detone",
+    "2s": "detones",
+    "3s": "detone",
+    "1p": "detonemos",
+    "2p": "detonéis",
+    "3p": "detonen"
+  },
+  "PMQPSI": {
+    "1s": "detonara",
+    "2s": "detonaras",
+    "3s": "detonara",
+    "1p": "detonáramos",
+    "2p": "detonarais",
+    "3p": "detonaran"
+  },
+  "PImpC": {
+    "1s": "detonase",
+    "2s": "detonases",
+    "3s": "detonase",
+    "1p": "detonásemos",
+    "2p": "detonaseis",
+    "3p": "detonasen"
+  },
+  "FutSC": {
+    "1s": "detonare",
+    "2s": "detonares",
+    "3s": "detonare",
+    "1p": "detonáremos",
+    "2p": "detonareis",
+    "3p": "detonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "detona",
+    "3s": "detone",
+    "1p": "detonemos",
+    "2p": "detonad",
+    "3p": "detonen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no detones",
+    "3s": "no detone",
+    "1p": "no detonemos",
+    "2p": "no detonéis",
+    "3p": "no detonen"
+  },
+  "Part-ter": {
+    "": "detonado"
+  },
+  "Part-ser": {
+    "ms": "detonado",
+    "fs": "detonada",
+    "mp": "detonados",
+    "fp": "detonadas"
+  }
+}

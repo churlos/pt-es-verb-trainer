@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tardar"
+  },
+  "InfP": {
+    "1s": "tardar",
+    "2s": "tardares",
+    "3s": "tardar",
+    "1p": "tardarmos",
+    "2p": "tardardes",
+    "3p": "tardarem"
+  },
+  "Ger": {
+    "": "tardando"
+  },
+  "PresI": {
+    "1s": "tardo",
+    "2s": "tardas",
+    "3s": "tarda",
+    "1p": "tardamos",
+    "2p": "tardais",
+    "3p": "tardam"
+  },
+  "PImpI": {
+    "1s": "tardava",
+    "2s": "tardavas",
+    "3s": "tardava",
+    "1p": "tardávamos",
+    "2p": "tardáveis",
+    "3p": "tardavam"
+  },
+  "PPSI": {
+    "1s": "tardei",
+    "2s": "tardaste",
+    "3s": "tardou",
+    "1p": "tardámos",
+    "2p": "tardastes",
+    "3p": "tardaram"
+  },
+  "PMQPSI": {
+    "1s": "tardara",
+    "2s": "tardaras",
+    "3s": "tardara",
+    "1p": "tardáramos",
+    "2p": "tardáreis",
+    "3p": "tardaram"
+  },
+  "FutSI": {
+    "1s": "tardarei",
+    "2s": "tardarás",
+    "3s": "tardará",
+    "1p": "tardaremos",
+    "2p": "tardareis",
+    "3p": "tardarão"
+  },
+  "CondS": {
+    "1s": "tardaria",
+    "2s": "tardarias",
+    "3s": "tardaria",
+    "1p": "tardaríamos",
+    "2p": "tardaríeis",
+    "3p": "tardariam"
+  },
+  "PresC": {
+    "1s": "tarde",
+    "2s": "tardes",
+    "3s": "tarde",
+    "1p": "tardemos",
+    "2p": "tardeis",
+    "3p": "tardem"
+  },
+  "PImpC": {
+    "1s": "tardasse",
+    "2s": "tardasses",
+    "3s": "tardasse",
+    "1p": "tardássemos",
+    "2p": "tardásseis",
+    "3p": "tardassem"
+  },
+  "FutSC": {
+    "1s": "tardar",
+    "2s": "tardares",
+    "3s": "tardar",
+    "1p": "tardarmos",
+    "2p": "tardardes",
+    "3p": "tardarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tarda",
+    "3s": "tarde",
+    "1p": "tardemos",
+    "2p": "tardai",
+    "3p": "tardem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tardes",
+    "3s": "não tarde",
+    "1p": "não tardemos",
+    "2p": "não tardeis",
+    "3p": "não tardem"
+  },
+  "Part-ter": {
+    "": "tardado"
+  },
+  "Part-ser": {
+    "ms": "tardado",
+    "fs": "tardada",
+    "mp": "tardados",
+    "fp": "tardadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "triplicar"
+  },
+  "Ger": {
+    "": "triplicando"
+  },
+  "PresI": {
+    "1s": "triplico",
+    "2s": "triplicas",
+    "3s": "triplica",
+    "1p": "triplicamos",
+    "2p": "triplicáis",
+    "3p": "triplican"
+  },
+  "PImpI": {
+    "1s": "triplicaba",
+    "2s": "triplicabas",
+    "3s": "triplicaba",
+    "1p": "triplicábamos",
+    "2p": "triplicabais",
+    "3p": "triplicaban"
+  },
+  "PPSI": {
+    "1s": "tripliqué",
+    "2s": "triplicaste",
+    "3s": "triplicó",
+    "1p": "triplicamos",
+    "2p": "triplicasteis",
+    "3p": "triplicaron"
+  },
+  "FutSI": {
+    "1s": "triplicaré",
+    "2s": "triplicarás",
+    "3s": "triplicará",
+    "1p": "triplicaremos",
+    "2p": "triplicaréis",
+    "3p": "triplicarán"
+  },
+  "CondS": {
+    "1s": "triplicaría",
+    "2s": "triplicarías",
+    "3s": "triplicaría",
+    "1p": "triplicaríamos",
+    "2p": "triplicaríais",
+    "3p": "triplicarían"
+  },
+  "PresC": {
+    "1s": "triplique",
+    "2s": "tripliques",
+    "3s": "triplique",
+    "1p": "tripliquemos",
+    "2p": "tripliquéis",
+    "3p": "tripliquen"
+  },
+  "PMQPSI": {
+    "1s": "triplicara",
+    "2s": "triplicaras",
+    "3s": "triplicara",
+    "1p": "triplicáramos",
+    "2p": "triplicarais",
+    "3p": "triplicaran"
+  },
+  "PImpC": {
+    "1s": "triplicase",
+    "2s": "triplicases",
+    "3s": "triplicase",
+    "1p": "triplicásemos",
+    "2p": "triplicaseis",
+    "3p": "triplicasen"
+  },
+  "FutSC": {
+    "1s": "triplicare",
+    "2s": "triplicares",
+    "3s": "triplicare",
+    "1p": "triplicáremos",
+    "2p": "triplicareis",
+    "3p": "triplicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "triplica",
+    "3s": "triplique",
+    "1p": "tripliquemos",
+    "2p": "triplicad",
+    "3p": "tripliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tripliques",
+    "3s": "no triplique",
+    "1p": "no tripliquemos",
+    "2p": "no tripliquéis",
+    "3p": "no tripliquen"
+  },
+  "Part-ter": {
+    "": "triplicado"
+  },
+  "Part-ser": {
+    "ms": "triplicado",
+    "fs": "triplicada",
+    "mp": "triplicados",
+    "fp": "triplicadas"
+  }
+}

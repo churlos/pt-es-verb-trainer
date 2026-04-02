@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fichar"
+  },
+  "Ger": {
+    "": "fichando"
+  },
+  "PresI": {
+    "1s": "ficho",
+    "2s": "fichas",
+    "3s": "ficha",
+    "1p": "fichamos",
+    "2p": "ficháis",
+    "3p": "fichan"
+  },
+  "PImpI": {
+    "1s": "fichaba",
+    "2s": "fichabas",
+    "3s": "fichaba",
+    "1p": "fichábamos",
+    "2p": "fichabais",
+    "3p": "fichaban"
+  },
+  "PPSI": {
+    "1s": "fiché",
+    "2s": "fichaste",
+    "3s": "fichó",
+    "1p": "fichamos",
+    "2p": "fichasteis",
+    "3p": "ficharon"
+  },
+  "FutSI": {
+    "1s": "ficharé",
+    "2s": "ficharás",
+    "3s": "fichará",
+    "1p": "ficharemos",
+    "2p": "ficharéis",
+    "3p": "ficharán"
+  },
+  "CondS": {
+    "1s": "ficharía",
+    "2s": "ficharías",
+    "3s": "ficharía",
+    "1p": "ficharíamos",
+    "2p": "ficharíais",
+    "3p": "ficharían"
+  },
+  "PresC": {
+    "1s": "fiche",
+    "2s": "fiches",
+    "3s": "fiche",
+    "1p": "fichemos",
+    "2p": "fichéis",
+    "3p": "fichen"
+  },
+  "PMQPSI": {
+    "1s": "fichara",
+    "2s": "ficharas",
+    "3s": "fichara",
+    "1p": "ficháramos",
+    "2p": "ficharais",
+    "3p": "ficharan"
+  },
+  "PImpC": {
+    "1s": "fichase",
+    "2s": "fichases",
+    "3s": "fichase",
+    "1p": "fichásemos",
+    "2p": "fichaseis",
+    "3p": "fichasen"
+  },
+  "FutSC": {
+    "1s": "fichare",
+    "2s": "fichares",
+    "3s": "fichare",
+    "1p": "ficháremos",
+    "2p": "fichareis",
+    "3p": "ficharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ficha",
+    "3s": "fiche",
+    "1p": "fichemos",
+    "2p": "fichad",
+    "3p": "fichen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fiches",
+    "3s": "no fiche",
+    "1p": "no fichemos",
+    "2p": "no fichéis",
+    "3p": "no fichen"
+  },
+  "Part-ter": {
+    "": "fichado"
+  },
+  "Part-ser": {
+    "ms": "fichado",
+    "fs": "fichada",
+    "mp": "fichados",
+    "fp": "fichadas"
+  }
+}

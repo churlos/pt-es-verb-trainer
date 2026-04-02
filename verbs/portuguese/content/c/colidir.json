@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "colidir"
+  },
+  "InfP": {
+    "1s": "colidir",
+    "2s": "colidires",
+    "3s": "colidir",
+    "1p": "colidirmos",
+    "2p": "colidirdes",
+    "3p": "colidirem"
+  },
+  "Ger": {
+    "": "colidindo"
+  },
+  "PresI": {
+    "1s": "colido",
+    "2s": "colides",
+    "3s": "colide",
+    "1p": "colidimos",
+    "2p": "colidis",
+    "3p": "colidem"
+  },
+  "PImpI": {
+    "1s": "colidia",
+    "2s": "colidias",
+    "3s": "colidia",
+    "1p": "colidíamos",
+    "2p": "colidíeis",
+    "3p": "colidiam"
+  },
+  "PPSI": {
+    "1s": "colidi",
+    "2s": "colidiste",
+    "3s": "colidiu",
+    "1p": "colidimos",
+    "2p": "colidistes",
+    "3p": "colidiram"
+  },
+  "PMQPSI": {
+    "1s": "colidira",
+    "2s": "colidiras",
+    "3s": "colidira",
+    "1p": "colidíramos",
+    "2p": "colidíreis",
+    "3p": "colidiram"
+  },
+  "FutSI": {
+    "1s": "colidirei",
+    "2s": "colidirás",
+    "3s": "colidirá",
+    "1p": "colidiremos",
+    "2p": "colidireis",
+    "3p": "colidirão"
+  },
+  "CondS": {
+    "1s": "colidiria",
+    "2s": "colidirias",
+    "3s": "colidiria",
+    "1p": "colidiríamos",
+    "2p": "colidiríeis",
+    "3p": "colidiriam"
+  },
+  "PresC": {
+    "1s": "colida",
+    "2s": "colidas",
+    "3s": "colida",
+    "1p": "colidamos",
+    "2p": "colidais",
+    "3p": "colidam"
+  },
+  "PImpC": {
+    "1s": "colidisse",
+    "2s": "colidisses",
+    "3s": "colidisse",
+    "1p": "colidíssemos",
+    "2p": "colidísseis",
+    "3p": "colidissem"
+  },
+  "FutSC": {
+    "1s": "colidir",
+    "2s": "colidires",
+    "3s": "colidir",
+    "1p": "colidirmos",
+    "2p": "colidirdes",
+    "3p": "colidirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colide",
+    "3s": "colida",
+    "1p": "colidamos",
+    "2p": "colidi",
+    "3p": "colidam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não colidas",
+    "3s": "não colida",
+    "1p": "não colidamos",
+    "2p": "não colidais",
+    "3p": "não colidam"
+  },
+  "Part-ter": {
+    "": "colidido"
+  },
+  "Part-ser": {
+    "ms": "colidido",
+    "fs": "colidida",
+    "mp": "colididos",
+    "fp": "colididas"
+  }
+}

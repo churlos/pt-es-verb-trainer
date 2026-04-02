@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bulir"
+  },
+  "InfP": {
+    "1s": "bulir",
+    "2s": "bulires",
+    "3s": "bulir",
+    "1p": "bulirmos",
+    "2p": "bulirdes",
+    "3p": "bulirem"
+  },
+  "Ger": {
+    "": "bulindo"
+  },
+  "PresI": {
+    "1s": "bulo",
+    "2s": "bules",
+    "3s": "bule",
+    "1p": "bulimos",
+    "2p": "bulis",
+    "3p": "bulem"
+  },
+  "PImpI": {
+    "1s": "bulia",
+    "2s": "bulias",
+    "3s": "bulia",
+    "1p": "bulíamos",
+    "2p": "bulíeis",
+    "3p": "buliam"
+  },
+  "PPSI": {
+    "1s": "buli",
+    "2s": "buliste",
+    "3s": "buliu",
+    "1p": "bulimos",
+    "2p": "bulistes",
+    "3p": "buliram"
+  },
+  "PMQPSI": {
+    "1s": "bulira",
+    "2s": "buliras",
+    "3s": "bulira",
+    "1p": "bulíramos",
+    "2p": "bulíreis",
+    "3p": "buliram"
+  },
+  "FutSI": {
+    "1s": "bulirei",
+    "2s": "bulirás",
+    "3s": "bulirá",
+    "1p": "buliremos",
+    "2p": "bulireis",
+    "3p": "bulirão"
+  },
+  "CondS": {
+    "1s": "buliria",
+    "2s": "bulirias",
+    "3s": "buliria",
+    "1p": "buliríamos",
+    "2p": "buliríeis",
+    "3p": "buliriam"
+  },
+  "PresC": {
+    "1s": "bula",
+    "2s": "bulas",
+    "3s": "bula",
+    "1p": "bulamos",
+    "2p": "bulais",
+    "3p": "bulam"
+  },
+  "PImpC": {
+    "1s": "bulisse",
+    "2s": "bulisses",
+    "3s": "bulisse",
+    "1p": "bulíssemos",
+    "2p": "bulísseis",
+    "3p": "bulissem"
+  },
+  "FutSC": {
+    "1s": "bulir",
+    "2s": "bulires",
+    "3s": "bulir",
+    "1p": "bulirmos",
+    "2p": "bulirdes",
+    "3p": "bulirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bule",
+    "3s": "bula",
+    "1p": "bulamos",
+    "2p": "buli",
+    "3p": "bulam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bulas",
+    "3s": "não bula",
+    "1p": "não bulamos",
+    "2p": "não bulais",
+    "3p": "não bulam"
+  },
+  "Part-ter": {
+    "": "bulido"
+  },
+  "Part-ser": {
+    "ms": "bulido",
+    "fs": "bulida",
+    "mp": "bulidos",
+    "fp": "bulidas"
+  }
+}

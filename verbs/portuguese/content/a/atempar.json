@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atempar"
+  },
+  "InfP": {
+    "1s": "atempar",
+    "2s": "atempares",
+    "3s": "atempar",
+    "1p": "atemparmos",
+    "2p": "atempardes",
+    "3p": "atemparem"
+  },
+  "Ger": {
+    "": "atempando"
+  },
+  "PresI": {
+    "1s": "atempo",
+    "2s": "atempas",
+    "3s": "atempa",
+    "1p": "atempamos",
+    "2p": "atempais",
+    "3p": "atempam"
+  },
+  "PImpI": {
+    "1s": "atempava",
+    "2s": "atempavas",
+    "3s": "atempava",
+    "1p": "atempávamos",
+    "2p": "atempáveis",
+    "3p": "atempavam"
+  },
+  "PPSI": {
+    "1s": "atempei",
+    "2s": "atempaste",
+    "3s": "atempou",
+    "1p": "atempámos",
+    "2p": "atempastes",
+    "3p": "atemparam"
+  },
+  "PMQPSI": {
+    "1s": "atempara",
+    "2s": "atemparas",
+    "3s": "atempara",
+    "1p": "atempáramos",
+    "2p": "atempáreis",
+    "3p": "atemparam"
+  },
+  "FutSI": {
+    "1s": "atemparei",
+    "2s": "atemparás",
+    "3s": "atempará",
+    "1p": "atemparemos",
+    "2p": "atempareis",
+    "3p": "atemparão"
+  },
+  "CondS": {
+    "1s": "atemparia",
+    "2s": "atemparias",
+    "3s": "atemparia",
+    "1p": "atemparíamos",
+    "2p": "atemparíeis",
+    "3p": "atempariam"
+  },
+  "PresC": {
+    "1s": "atempe",
+    "2s": "atempes",
+    "3s": "atempe",
+    "1p": "atempemos",
+    "2p": "atempeis",
+    "3p": "atempem"
+  },
+  "PImpC": {
+    "1s": "atempasse",
+    "2s": "atempasses",
+    "3s": "atempasse",
+    "1p": "atempássemos",
+    "2p": "atempásseis",
+    "3p": "atempassem"
+  },
+  "FutSC": {
+    "1s": "atempar",
+    "2s": "atempares",
+    "3s": "atempar",
+    "1p": "atemparmos",
+    "2p": "atempardes",
+    "3p": "atemparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atempa",
+    "3s": "atempe",
+    "1p": "atempemos",
+    "2p": "atempai",
+    "3p": "atempem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atempes",
+    "3s": "não atempe",
+    "1p": "não atempemos",
+    "2p": "não atempeis",
+    "3p": "não atempem"
+  },
+  "Part-ter": {
+    "": "atempado"
+  },
+  "Part-ser": {
+    "ms": "atempado",
+    "fs": "atempada",
+    "mp": "atempados",
+    "fp": "atempadas"
+  }
+}

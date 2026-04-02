@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sanar"
+  },
+  "Ger": {
+    "": "sanando"
+  },
+  "PresI": {
+    "1s": "sano",
+    "2s": "sanas",
+    "3s": "sana",
+    "1p": "sanamos",
+    "2p": "sanáis",
+    "3p": "sanan"
+  },
+  "PImpI": {
+    "1s": "sanaba",
+    "2s": "sanabas",
+    "3s": "sanaba",
+    "1p": "sanábamos",
+    "2p": "sanabais",
+    "3p": "sanaban"
+  },
+  "PPSI": {
+    "1s": "sané",
+    "2s": "sanaste",
+    "3s": "sanó",
+    "1p": "sanamos",
+    "2p": "sanasteis",
+    "3p": "sanaron"
+  },
+  "FutSI": {
+    "1s": "sanaré",
+    "2s": "sanarás",
+    "3s": "sanará",
+    "1p": "sanaremos",
+    "2p": "sanaréis",
+    "3p": "sanarán"
+  },
+  "CondS": {
+    "1s": "sanaría",
+    "2s": "sanarías",
+    "3s": "sanaría",
+    "1p": "sanaríamos",
+    "2p": "sanaríais",
+    "3p": "sanarían"
+  },
+  "PresC": {
+    "1s": "sane",
+    "2s": "sanes",
+    "3s": "sane",
+    "1p": "sanemos",
+    "2p": "sanéis",
+    "3p": "sanen"
+  },
+  "PMQPSI": {
+    "1s": "sanara",
+    "2s": "sanaras",
+    "3s": "sanara",
+    "1p": "sanáramos",
+    "2p": "sanarais",
+    "3p": "sanaran"
+  },
+  "PImpC": {
+    "1s": "sanase",
+    "2s": "sanases",
+    "3s": "sanase",
+    "1p": "sanásemos",
+    "2p": "sanaseis",
+    "3p": "sanasen"
+  },
+  "FutSC": {
+    "1s": "sanare",
+    "2s": "sanares",
+    "3s": "sanare",
+    "1p": "sanáremos",
+    "2p": "sanareis",
+    "3p": "sanaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sana",
+    "3s": "sane",
+    "1p": "sanemos",
+    "2p": "sanad",
+    "3p": "sanen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sanes",
+    "3s": "no sane",
+    "1p": "no sanemos",
+    "2p": "no sanéis",
+    "3p": "no sanen"
+  },
+  "Part-ter": {
+    "": "sanado"
+  },
+  "Part-ser": {
+    "ms": "sanado",
+    "fs": "sanada",
+    "mp": "sanados",
+    "fp": "sanadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abrazar"
+  },
+  "Ger": {
+    "": "abrazando"
+  },
+  "PresI": {
+    "1s": "abrazo",
+    "2s": "abrazas",
+    "3s": "abraza",
+    "1p": "abrazamos",
+    "2p": "abrazáis",
+    "3p": "abrazan"
+  },
+  "PImpI": {
+    "1s": "abrazaba",
+    "2s": "abrazabas",
+    "3s": "abrazaba",
+    "1p": "abrazábamos",
+    "2p": "abrazabais",
+    "3p": "abrazaban"
+  },
+  "PPSI": {
+    "1s": "abracé",
+    "2s": "abrazaste",
+    "3s": "abrazó",
+    "1p": "abrazamos",
+    "2p": "abrazasteis",
+    "3p": "abrazaron"
+  },
+  "FutSI": {
+    "1s": "abrazaré",
+    "2s": "abrazarás",
+    "3s": "abrazará",
+    "1p": "abrazaremos",
+    "2p": "abrazaréis",
+    "3p": "abrazarán"
+  },
+  "CondS": {
+    "1s": "abrazaría",
+    "2s": "abrazarías",
+    "3s": "abrazaría",
+    "1p": "abrazaríamos",
+    "2p": "abrazaríais",
+    "3p": "abrazarían"
+  },
+  "PresC": {
+    "1s": "abrace",
+    "2s": "abraces",
+    "3s": "abrace",
+    "1p": "abracemos",
+    "2p": "abracéis",
+    "3p": "abracen"
+  },
+  "PMQPSI": {
+    "1s": "abrazara",
+    "2s": "abrazaras",
+    "3s": "abrazara",
+    "1p": "abrazáramos",
+    "2p": "abrazarais",
+    "3p": "abrazaran"
+  },
+  "PImpC": {
+    "1s": "abrazase",
+    "2s": "abrazases",
+    "3s": "abrazase",
+    "1p": "abrazásemos",
+    "2p": "abrazaseis",
+    "3p": "abrazasen"
+  },
+  "FutSC": {
+    "1s": "abrazare",
+    "2s": "abrazares",
+    "3s": "abrazare",
+    "1p": "abrazáremos",
+    "2p": "abrazareis",
+    "3p": "abrazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abraza",
+    "3s": "abrace",
+    "1p": "abracemos",
+    "2p": "abrazad",
+    "3p": "abracen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abraces",
+    "3s": "no abrace",
+    "1p": "no abracemos",
+    "2p": "no abracéis",
+    "3p": "no abracen"
+  },
+  "Part-ter": {
+    "": "abrazado"
+  },
+  "Part-ser": {
+    "ms": "abrazado",
+    "fs": "abrazada",
+    "mp": "abrazados",
+    "fp": "abrazadas"
+  }
+}

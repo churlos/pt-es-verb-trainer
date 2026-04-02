@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "adormir"
+  },
+  "Ger": {
+    "": "adurmiendo"
+  },
+  "PresI": {
+    "1s": "aduermo",
+    "2s": "aduermes",
+    "3s": "aduerme",
+    "1p": "adormimos",
+    "2p": "adormís",
+    "3p": "aduermen"
+  },
+  "PImpI": {
+    "1s": "adormía",
+    "2s": "adormías",
+    "3s": "adormía",
+    "1p": "adormíamos",
+    "2p": "adormíais",
+    "3p": "adormían"
+  },
+  "PPSI": {
+    "1s": "adormí",
+    "2s": "adormiste",
+    "3s": "adurmió",
+    "1p": "adormimos",
+    "2p": "adormisteis",
+    "3p": "adurmieron"
+  },
+  "FutSI": {
+    "1s": "adormiré",
+    "2s": "adormirás",
+    "3s": "adormirá",
+    "1p": "adormiremos",
+    "2p": "adormiréis",
+    "3p": "adormirán"
+  },
+  "CondS": {
+    "1s": "adormiría",
+    "2s": "adormirías",
+    "3s": "adormiría",
+    "1p": "adormiríamos",
+    "2p": "adormiríais",
+    "3p": "adormirían"
+  },
+  "PresC": {
+    "1s": "aduerma",
+    "2s": "aduermas",
+    "3s": "aduerma",
+    "1p": "adurmamos",
+    "2p": "adurmáis",
+    "3p": "aduerman"
+  },
+  "PMQPSI": {
+    "1s": "adurmiera",
+    "2s": "adurmieras",
+    "3s": "adurmiera",
+    "1p": "adurmiéramos",
+    "2p": "adurmierais",
+    "3p": "adurmieran"
+  },
+  "PImpC": {
+    "1s": "adurmiese",
+    "2s": "adurmieses",
+    "3s": "adurmiese",
+    "1p": "adurmiésemos",
+    "2p": "adurmieseis",
+    "3p": "adurmiesen"
+  },
+  "FutSC": {
+    "1s": "adurmiere",
+    "2s": "adurmieres",
+    "3s": "adurmiere",
+    "1p": "adurmiéremos",
+    "2p": "adurmiereis",
+    "3p": "adurmieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aduerme",
+    "3s": "aduerma",
+    "1p": "adurmamos",
+    "2p": "adormid",
+    "3p": "aduerman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aduermas",
+    "3s": "no aduerma",
+    "1p": "no adurmamos",
+    "2p": "no adurmáis",
+    "3p": "no aduerman"
+  },
+  "Part-ter": {
+    "": "adormido"
+  },
+  "Part-ser": {
+    "ms": "adormido",
+    "fs": "adormida",
+    "mp": "adormidos",
+    "fp": "adormidas"
+  }
+}

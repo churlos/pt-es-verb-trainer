@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pertener"
+  },
+  "Ger": {
+    "": "perteniendo"
+  },
+  "PresI": {
+    "1s": "pertengo",
+    "2s": "pertienes",
+    "3s": "pertiene",
+    "1p": "pertenemos",
+    "2p": "pertenéis",
+    "3p": "pertienen"
+  },
+  "PImpI": {
+    "1s": "pertenía",
+    "2s": "pertenías",
+    "3s": "pertenía",
+    "1p": "perteníamos",
+    "2p": "perteníais",
+    "3p": "pertenían"
+  },
+  "PPSI": {
+    "1s": "pertuve",
+    "2s": "pertuviste",
+    "3s": "pertuvo",
+    "1p": "pertuvimos",
+    "2p": "pertuvisteis",
+    "3p": "pertuvieron"
+  },
+  "FutSI": {
+    "1s": "pertendré",
+    "2s": "pertendrás",
+    "3s": "pertendrá",
+    "1p": "pertendremos",
+    "2p": "pertendréis",
+    "3p": "pertendrán"
+  },
+  "CondS": {
+    "1s": "pertendría",
+    "2s": "pertendrías",
+    "3s": "pertendría",
+    "1p": "pertendríamos",
+    "2p": "pertendríais",
+    "3p": "pertendrían"
+  },
+  "PresC": {
+    "1s": "pertenga",
+    "2s": "pertengas",
+    "3s": "pertenga",
+    "1p": "pertengamos",
+    "2p": "pertengáis",
+    "3p": "pertengan"
+  },
+  "PMQPSI": {
+    "1s": "pertuviera",
+    "2s": "pertuvieras",
+    "3s": "pertuviera",
+    "1p": "pertuviéramos",
+    "2p": "pertuvierais",
+    "3p": "pertuvieran"
+  },
+  "PImpC": {
+    "1s": "pertuviese",
+    "2s": "pertuvieses",
+    "3s": "pertuviese",
+    "1p": "pertuviésemos",
+    "2p": "pertuvieseis",
+    "3p": "pertuviesen"
+  },
+  "FutSC": {
+    "1s": "pertuviere",
+    "2s": "pertuvieres",
+    "3s": "pertuviere",
+    "1p": "pertuviéremos",
+    "2p": "pertuviereis",
+    "3p": "pertuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perten",
+    "3s": "pertenga",
+    "1p": "pertengamos",
+    "2p": "pertened",
+    "3p": "pertengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pertengas",
+    "3s": "no pertenga",
+    "1p": "no pertengamos",
+    "2p": "no pertengáis",
+    "3p": "no pertengan"
+  },
+  "Part-ter": {
+    "": "pertenido"
+  },
+  "Part-ser": {
+    "ms": "pertenido",
+    "fs": "pertenida",
+    "mp": "pertenidos",
+    "fp": "pertenidas"
+  }
+}

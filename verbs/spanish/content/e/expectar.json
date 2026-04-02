@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "expectar"
+  },
+  "Ger": {
+    "": "expectando"
+  },
+  "PresI": {
+    "1s": "expecto",
+    "2s": "expectas",
+    "3s": "expecta",
+    "1p": "expectamos",
+    "2p": "expectáis",
+    "3p": "expectan"
+  },
+  "PImpI": {
+    "1s": "expectaba",
+    "2s": "expectabas",
+    "3s": "expectaba",
+    "1p": "expectábamos",
+    "2p": "expectabais",
+    "3p": "expectaban"
+  },
+  "PPSI": {
+    "1s": "expecté",
+    "2s": "expectaste",
+    "3s": "expectó",
+    "1p": "expectamos",
+    "2p": "expectasteis",
+    "3p": "expectaron"
+  },
+  "FutSI": {
+    "1s": "expectaré",
+    "2s": "expectarás",
+    "3s": "expectará",
+    "1p": "expectaremos",
+    "2p": "expectaréis",
+    "3p": "expectarán"
+  },
+  "CondS": {
+    "1s": "expectaría",
+    "2s": "expectarías",
+    "3s": "expectaría",
+    "1p": "expectaríamos",
+    "2p": "expectaríais",
+    "3p": "expectarían"
+  },
+  "PresC": {
+    "1s": "expecte",
+    "2s": "expectes",
+    "3s": "expecte",
+    "1p": "expectemos",
+    "2p": "expectéis",
+    "3p": "expecten"
+  },
+  "PMQPSI": {
+    "1s": "expectara",
+    "2s": "expectaras",
+    "3s": "expectara",
+    "1p": "expectáramos",
+    "2p": "expectarais",
+    "3p": "expectaran"
+  },
+  "PImpC": {
+    "1s": "expectase",
+    "2s": "expectases",
+    "3s": "expectase",
+    "1p": "expectásemos",
+    "2p": "expectaseis",
+    "3p": "expectasen"
+  },
+  "FutSC": {
+    "1s": "expectare",
+    "2s": "expectares",
+    "3s": "expectare",
+    "1p": "expectáremos",
+    "2p": "expectareis",
+    "3p": "expectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expecta",
+    "3s": "expecte",
+    "1p": "expectemos",
+    "2p": "expectad",
+    "3p": "expecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no expectes",
+    "3s": "no expecte",
+    "1p": "no expectemos",
+    "2p": "no expectéis",
+    "3p": "no expecten"
+  },
+  "Part-ter": {
+    "": "expectado"
+  },
+  "Part-ser": {
+    "ms": "expectado",
+    "fs": "expectada",
+    "mp": "expectados",
+    "fp": "expectadas"
+  }
+}

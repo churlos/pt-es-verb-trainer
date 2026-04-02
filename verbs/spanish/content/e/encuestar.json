@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encuestar"
+  },
+  "Ger": {
+    "": "encuestando"
+  },
+  "PresI": {
+    "1s": "encuesto",
+    "2s": "encuestas",
+    "3s": "encuesta",
+    "1p": "encuestamos",
+    "2p": "encuestáis",
+    "3p": "encuestan"
+  },
+  "PImpI": {
+    "1s": "encuestaba",
+    "2s": "encuestabas",
+    "3s": "encuestaba",
+    "1p": "encuestábamos",
+    "2p": "encuestabais",
+    "3p": "encuestaban"
+  },
+  "PPSI": {
+    "1s": "encuesté",
+    "2s": "encuestaste",
+    "3s": "encuestó",
+    "1p": "encuestamos",
+    "2p": "encuestasteis",
+    "3p": "encuestaron"
+  },
+  "FutSI": {
+    "1s": "encuestaré",
+    "2s": "encuestarás",
+    "3s": "encuestará",
+    "1p": "encuestaremos",
+    "2p": "encuestaréis",
+    "3p": "encuestarán"
+  },
+  "CondS": {
+    "1s": "encuestaría",
+    "2s": "encuestarías",
+    "3s": "encuestaría",
+    "1p": "encuestaríamos",
+    "2p": "encuestaríais",
+    "3p": "encuestarían"
+  },
+  "PresC": {
+    "1s": "encueste",
+    "2s": "encuestes",
+    "3s": "encueste",
+    "1p": "encuestemos",
+    "2p": "encuestéis",
+    "3p": "encuesten"
+  },
+  "PMQPSI": {
+    "1s": "encuestara",
+    "2s": "encuestaras",
+    "3s": "encuestara",
+    "1p": "encuestáramos",
+    "2p": "encuestarais",
+    "3p": "encuestaran"
+  },
+  "PImpC": {
+    "1s": "encuestase",
+    "2s": "encuestases",
+    "3s": "encuestase",
+    "1p": "encuestásemos",
+    "2p": "encuestaseis",
+    "3p": "encuestasen"
+  },
+  "FutSC": {
+    "1s": "encuestare",
+    "2s": "encuestares",
+    "3s": "encuestare",
+    "1p": "encuestáremos",
+    "2p": "encuestareis",
+    "3p": "encuestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encuesta",
+    "3s": "encueste",
+    "1p": "encuestemos",
+    "2p": "encuestad",
+    "3p": "encuesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encuestes",
+    "3s": "no encueste",
+    "1p": "no encuestemos",
+    "2p": "no encuestéis",
+    "3p": "no encuesten"
+  },
+  "Part-ter": {
+    "": "encuestado"
+  },
+  "Part-ser": {
+    "ms": "encuestado",
+    "fs": "encuestada",
+    "mp": "encuestados",
+    "fp": "encuestadas"
+  }
+}

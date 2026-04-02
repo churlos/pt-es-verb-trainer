@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "complementar"
+  },
+  "InfP": {
+    "1s": "complementar",
+    "2s": "complementares",
+    "3s": "complementar",
+    "1p": "complementarmos",
+    "2p": "complementardes",
+    "3p": "complementarem"
+  },
+  "Ger": {
+    "": "complementando"
+  },
+  "PresI": {
+    "1s": "complemento",
+    "2s": "complementas",
+    "3s": "complementa",
+    "1p": "complementamos",
+    "2p": "complementais",
+    "3p": "complementam"
+  },
+  "PImpI": {
+    "1s": "complementava",
+    "2s": "complementavas",
+    "3s": "complementava",
+    "1p": "complementávamos",
+    "2p": "complementáveis",
+    "3p": "complementavam"
+  },
+  "PPSI": {
+    "1s": "complementei",
+    "2s": "complementaste",
+    "3s": "complementou",
+    "1p": "complementámos",
+    "2p": "complementastes",
+    "3p": "complementaram"
+  },
+  "PMQPSI": {
+    "1s": "complementara",
+    "2s": "complementaras",
+    "3s": "complementara",
+    "1p": "complementáramos",
+    "2p": "complementáreis",
+    "3p": "complementaram"
+  },
+  "FutSI": {
+    "1s": "complementarei",
+    "2s": "complementarás",
+    "3s": "complementará",
+    "1p": "complementaremos",
+    "2p": "complementareis",
+    "3p": "complementarão"
+  },
+  "CondS": {
+    "1s": "complementaria",
+    "2s": "complementarias",
+    "3s": "complementaria",
+    "1p": "complementaríamos",
+    "2p": "complementaríeis",
+    "3p": "complementariam"
+  },
+  "PresC": {
+    "1s": "complemente",
+    "2s": "complementes",
+    "3s": "complemente",
+    "1p": "complementemos",
+    "2p": "complementeis",
+    "3p": "complementem"
+  },
+  "PImpC": {
+    "1s": "complementasse",
+    "2s": "complementasses",
+    "3s": "complementasse",
+    "1p": "complementássemos",
+    "2p": "complementásseis",
+    "3p": "complementassem"
+  },
+  "FutSC": {
+    "1s": "complementar",
+    "2s": "complementares",
+    "3s": "complementar",
+    "1p": "complementarmos",
+    "2p": "complementardes",
+    "3p": "complementarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "complementa",
+    "3s": "complemente",
+    "1p": "complementemos",
+    "2p": "complementai",
+    "3p": "complementem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não complementes",
+    "3s": "não complemente",
+    "1p": "não complementemos",
+    "2p": "não complementeis",
+    "3p": "não complementem"
+  },
+  "Part-ter": {
+    "": "complementado"
+  },
+  "Part-ser": {
+    "ms": "complementado",
+    "fs": "complementada",
+    "mp": "complementados",
+    "fp": "complementadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "exhalar"
+  },
+  "Ger": {
+    "": "exhalando"
+  },
+  "PresI": {
+    "1s": "exhalo",
+    "2s": "exhalas",
+    "3s": "exhala",
+    "1p": "exhalamos",
+    "2p": "exhaláis",
+    "3p": "exhalan"
+  },
+  "PImpI": {
+    "1s": "exhalaba",
+    "2s": "exhalabas",
+    "3s": "exhalaba",
+    "1p": "exhalábamos",
+    "2p": "exhalabais",
+    "3p": "exhalaban"
+  },
+  "PPSI": {
+    "1s": "exhalé",
+    "2s": "exhalaste",
+    "3s": "exhaló",
+    "1p": "exhalamos",
+    "2p": "exhalasteis",
+    "3p": "exhalaron"
+  },
+  "FutSI": {
+    "1s": "exhalaré",
+    "2s": "exhalarás",
+    "3s": "exhalará",
+    "1p": "exhalaremos",
+    "2p": "exhalaréis",
+    "3p": "exhalarán"
+  },
+  "CondS": {
+    "1s": "exhalaría",
+    "2s": "exhalarías",
+    "3s": "exhalaría",
+    "1p": "exhalaríamos",
+    "2p": "exhalaríais",
+    "3p": "exhalarían"
+  },
+  "PresC": {
+    "1s": "exhale",
+    "2s": "exhales",
+    "3s": "exhale",
+    "1p": "exhalemos",
+    "2p": "exhaléis",
+    "3p": "exhalen"
+  },
+  "PMQPSI": {
+    "1s": "exhalara",
+    "2s": "exhalaras",
+    "3s": "exhalara",
+    "1p": "exhaláramos",
+    "2p": "exhalarais",
+    "3p": "exhalaran"
+  },
+  "PImpC": {
+    "1s": "exhalase",
+    "2s": "exhalases",
+    "3s": "exhalase",
+    "1p": "exhalásemos",
+    "2p": "exhalaseis",
+    "3p": "exhalasen"
+  },
+  "FutSC": {
+    "1s": "exhalare",
+    "2s": "exhalares",
+    "3s": "exhalare",
+    "1p": "exhaláremos",
+    "2p": "exhalareis",
+    "3p": "exhalaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exhala",
+    "3s": "exhale",
+    "1p": "exhalemos",
+    "2p": "exhalad",
+    "3p": "exhalen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no exhales",
+    "3s": "no exhale",
+    "1p": "no exhalemos",
+    "2p": "no exhaléis",
+    "3p": "no exhalen"
+  },
+  "Part-ter": {
+    "": "exhalado"
+  },
+  "Part-ser": {
+    "ms": "exhalado",
+    "fs": "exhalada",
+    "mp": "exhalados",
+    "fp": "exhaladas"
+  }
+}

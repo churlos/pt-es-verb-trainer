@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "deducir"
+  },
+  "Ger": {
+    "": "deduciendo"
+  },
+  "PresI": {
+    "1s": "deduzco",
+    "2s": "deduces",
+    "3s": "deduce",
+    "1p": "deducimos",
+    "2p": "deducís",
+    "3p": "deducen"
+  },
+  "PImpI": {
+    "1s": "deducía",
+    "2s": "deducías",
+    "3s": "deducía",
+    "1p": "deducíamos",
+    "2p": "deducíais",
+    "3p": "deducían"
+  },
+  "PPSI": {
+    "1s": "deduje",
+    "2s": "dedujiste",
+    "3s": "dedujo",
+    "1p": "dedujimos",
+    "2p": "dedujisteis",
+    "3p": "dedujeron"
+  },
+  "FutSI": {
+    "1s": "deduciré",
+    "2s": "deducirás",
+    "3s": "deducirá",
+    "1p": "deduciremos",
+    "2p": "deduciréis",
+    "3p": "deducirán"
+  },
+  "CondS": {
+    "1s": "deduciría",
+    "2s": "deducirías",
+    "3s": "deduciría",
+    "1p": "deduciríamos",
+    "2p": "deduciríais",
+    "3p": "deducirían"
+  },
+  "PresC": {
+    "1s": "deduzca",
+    "2s": "deduzcas",
+    "3s": "deduzca",
+    "1p": "deduzcamos",
+    "2p": "deduzcáis",
+    "3p": "deduzcan"
+  },
+  "PMQPSI": {
+    "1s": "dedujera",
+    "2s": "dedujeras",
+    "3s": "dedujera",
+    "1p": "dedujéramos",
+    "2p": "dedujerais",
+    "3p": "dedujeran"
+  },
+  "PImpC": {
+    "1s": "dedujese",
+    "2s": "dedujeses",
+    "3s": "dedujese",
+    "1p": "dedujésemos",
+    "2p": "dedujeseis",
+    "3p": "dedujesen"
+  },
+  "FutSC": {
+    "1s": "dedujere",
+    "2s": "dedujeres",
+    "3s": "dedujere",
+    "1p": "dedujéremos",
+    "2p": "dedujereis",
+    "3p": "dedujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deduce",
+    "3s": "deduzca",
+    "1p": "deduzcamos",
+    "2p": "deducid",
+    "3p": "deduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deduzcas",
+    "3s": "no deduzca",
+    "1p": "no deduzcamos",
+    "2p": "no deduzcáis",
+    "3p": "no deduzcan"
+  },
+  "Part-ter": {
+    "": "deducido"
+  },
+  "Part-ser": {
+    "ms": "deducido",
+    "fs": "deducida",
+    "mp": "deducidos",
+    "fp": "deducidas"
+  }
+}

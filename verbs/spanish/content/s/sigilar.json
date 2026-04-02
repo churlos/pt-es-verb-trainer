@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sigilar"
+  },
+  "Ger": {
+    "": "sigilando"
+  },
+  "PresI": {
+    "1s": "sigilo",
+    "2s": "sigilas",
+    "3s": "sigila",
+    "1p": "sigilamos",
+    "2p": "sigiláis",
+    "3p": "sigilan"
+  },
+  "PImpI": {
+    "1s": "sigilaba",
+    "2s": "sigilabas",
+    "3s": "sigilaba",
+    "1p": "sigilábamos",
+    "2p": "sigilabais",
+    "3p": "sigilaban"
+  },
+  "PPSI": {
+    "1s": "sigilé",
+    "2s": "sigilaste",
+    "3s": "sigiló",
+    "1p": "sigilamos",
+    "2p": "sigilasteis",
+    "3p": "sigilaron"
+  },
+  "FutSI": {
+    "1s": "sigilaré",
+    "2s": "sigilarás",
+    "3s": "sigilará",
+    "1p": "sigilaremos",
+    "2p": "sigilaréis",
+    "3p": "sigilarán"
+  },
+  "CondS": {
+    "1s": "sigilaría",
+    "2s": "sigilarías",
+    "3s": "sigilaría",
+    "1p": "sigilaríamos",
+    "2p": "sigilaríais",
+    "3p": "sigilarían"
+  },
+  "PresC": {
+    "1s": "sigile",
+    "2s": "sigiles",
+    "3s": "sigile",
+    "1p": "sigilemos",
+    "2p": "sigiléis",
+    "3p": "sigilen"
+  },
+  "PMQPSI": {
+    "1s": "sigilara",
+    "2s": "sigilaras",
+    "3s": "sigilara",
+    "1p": "sigiláramos",
+    "2p": "sigilarais",
+    "3p": "sigilaran"
+  },
+  "PImpC": {
+    "1s": "sigilase",
+    "2s": "sigilases",
+    "3s": "sigilase",
+    "1p": "sigilásemos",
+    "2p": "sigilaseis",
+    "3p": "sigilasen"
+  },
+  "FutSC": {
+    "1s": "sigilare",
+    "2s": "sigilares",
+    "3s": "sigilare",
+    "1p": "sigiláremos",
+    "2p": "sigilareis",
+    "3p": "sigilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sigila",
+    "3s": "sigile",
+    "1p": "sigilemos",
+    "2p": "sigilad",
+    "3p": "sigilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sigiles",
+    "3s": "no sigile",
+    "1p": "no sigilemos",
+    "2p": "no sigiléis",
+    "3p": "no sigilen"
+  },
+  "Part-ter": {
+    "": "sigilado"
+  },
+  "Part-ser": {
+    "ms": "sigilado",
+    "fs": "sigilada",
+    "mp": "sigilados",
+    "fp": "sigiladas"
+  }
+}

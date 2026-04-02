@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "edificar"
+  },
+  "InfP": {
+    "1s": "edificar",
+    "2s": "edificares",
+    "3s": "edificar",
+    "1p": "edificarmos",
+    "2p": "edificardes",
+    "3p": "edificarem"
+  },
+  "Ger": {
+    "": "edificando"
+  },
+  "PresI": {
+    "1s": "edifico",
+    "2s": "edificas",
+    "3s": "edifica",
+    "1p": "edificamos",
+    "2p": "edificais",
+    "3p": "edificam"
+  },
+  "PImpI": {
+    "1s": "edificava",
+    "2s": "edificavas",
+    "3s": "edificava",
+    "1p": "edificávamos",
+    "2p": "edificáveis",
+    "3p": "edificavam"
+  },
+  "PPSI": {
+    "1s": "edifiquei",
+    "2s": "edificaste",
+    "3s": "edificou",
+    "1p": "edificámos",
+    "2p": "edificastes",
+    "3p": "edificaram"
+  },
+  "PMQPSI": {
+    "1s": "edificara",
+    "2s": "edificaras",
+    "3s": "edificara",
+    "1p": "edificáramos",
+    "2p": "edificáreis",
+    "3p": "edificaram"
+  },
+  "FutSI": {
+    "1s": "edificarei",
+    "2s": "edificarás",
+    "3s": "edificará",
+    "1p": "edificaremos",
+    "2p": "edificareis",
+    "3p": "edificarão"
+  },
+  "CondS": {
+    "1s": "edificaria",
+    "2s": "edificarias",
+    "3s": "edificaria",
+    "1p": "edificaríamos",
+    "2p": "edificaríeis",
+    "3p": "edificariam"
+  },
+  "PresC": {
+    "1s": "edifique",
+    "2s": "edifiques",
+    "3s": "edifique",
+    "1p": "edifiquemos",
+    "2p": "edifiqueis",
+    "3p": "edifiquem"
+  },
+  "PImpC": {
+    "1s": "edificasse",
+    "2s": "edificasses",
+    "3s": "edificasse",
+    "1p": "edificássemos",
+    "2p": "edificásseis",
+    "3p": "edificassem"
+  },
+  "FutSC": {
+    "1s": "edificar",
+    "2s": "edificares",
+    "3s": "edificar",
+    "1p": "edificarmos",
+    "2p": "edificardes",
+    "3p": "edificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "edifica",
+    "3s": "edifique",
+    "1p": "edifiquemos",
+    "2p": "edificai",
+    "3p": "edifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não edifiques",
+    "3s": "não edifique",
+    "1p": "não edifiquemos",
+    "2p": "não edifiqueis",
+    "3p": "não edifiquem"
+  },
+  "Part-ter": {
+    "": "edificado"
+  },
+  "Part-ser": {
+    "ms": "edificado",
+    "fs": "edificada",
+    "mp": "edificados",
+    "fp": "edificadas"
+  }
+}

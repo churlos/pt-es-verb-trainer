@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "validar"
+  },
+  "Ger": {
+    "": "validando"
+  },
+  "PresI": {
+    "1s": "valido",
+    "2s": "validas",
+    "3s": "valida",
+    "1p": "validamos",
+    "2p": "validáis",
+    "3p": "validan"
+  },
+  "PImpI": {
+    "1s": "validaba",
+    "2s": "validabas",
+    "3s": "validaba",
+    "1p": "validábamos",
+    "2p": "validabais",
+    "3p": "validaban"
+  },
+  "PPSI": {
+    "1s": "validé",
+    "2s": "validaste",
+    "3s": "validó",
+    "1p": "validamos",
+    "2p": "validasteis",
+    "3p": "validaron"
+  },
+  "FutSI": {
+    "1s": "validaré",
+    "2s": "validarás",
+    "3s": "validará",
+    "1p": "validaremos",
+    "2p": "validaréis",
+    "3p": "validarán"
+  },
+  "CondS": {
+    "1s": "validaría",
+    "2s": "validarías",
+    "3s": "validaría",
+    "1p": "validaríamos",
+    "2p": "validaríais",
+    "3p": "validarían"
+  },
+  "PresC": {
+    "1s": "valide",
+    "2s": "valides",
+    "3s": "valide",
+    "1p": "validemos",
+    "2p": "validéis",
+    "3p": "validen"
+  },
+  "PMQPSI": {
+    "1s": "validara",
+    "2s": "validaras",
+    "3s": "validara",
+    "1p": "validáramos",
+    "2p": "validarais",
+    "3p": "validaran"
+  },
+  "PImpC": {
+    "1s": "validase",
+    "2s": "validases",
+    "3s": "validase",
+    "1p": "validásemos",
+    "2p": "validaseis",
+    "3p": "validasen"
+  },
+  "FutSC": {
+    "1s": "validare",
+    "2s": "validares",
+    "3s": "validare",
+    "1p": "validáremos",
+    "2p": "validareis",
+    "3p": "validaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "valida",
+    "3s": "valide",
+    "1p": "validemos",
+    "2p": "validad",
+    "3p": "validen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no valides",
+    "3s": "no valide",
+    "1p": "no validemos",
+    "2p": "no validéis",
+    "3p": "no validen"
+  },
+  "Part-ter": {
+    "": "validado"
+  },
+  "Part-ser": {
+    "ms": "validado",
+    "fs": "validada",
+    "mp": "validados",
+    "fp": "validadas"
+  }
+}

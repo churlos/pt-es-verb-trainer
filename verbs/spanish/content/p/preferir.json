@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "preferir"
+  },
+  "Ger": {
+    "": "prefiriendo"
+  },
+  "PresI": {
+    "1s": "prefiero",
+    "2s": "prefieres",
+    "3s": "prefiere",
+    "1p": "preferimos",
+    "2p": "preferís",
+    "3p": "prefieren"
+  },
+  "PImpI": {
+    "1s": "prefería",
+    "2s": "preferías",
+    "3s": "prefería",
+    "1p": "preferíamos",
+    "2p": "preferíais",
+    "3p": "preferían"
+  },
+  "PPSI": {
+    "1s": "preferí",
+    "2s": "preferiste",
+    "3s": "prefirió",
+    "1p": "preferimos",
+    "2p": "preferisteis",
+    "3p": "prefirieron"
+  },
+  "FutSI": {
+    "1s": "preferiré",
+    "2s": "preferirás",
+    "3s": "preferirá",
+    "1p": "preferiremos",
+    "2p": "preferiréis",
+    "3p": "preferirán"
+  },
+  "CondS": {
+    "1s": "preferiría",
+    "2s": "preferirías",
+    "3s": "preferiría",
+    "1p": "preferiríamos",
+    "2p": "preferiríais",
+    "3p": "preferirían"
+  },
+  "PresC": {
+    "1s": "prefiera",
+    "2s": "prefieras",
+    "3s": "prefiera",
+    "1p": "prefiramos",
+    "2p": "prefiráis",
+    "3p": "prefieran"
+  },
+  "PMQPSI": {
+    "1s": "prefiriera",
+    "2s": "prefirieras",
+    "3s": "prefiriera",
+    "1p": "prefiriéramos",
+    "2p": "prefirierais",
+    "3p": "prefirieran"
+  },
+  "PImpC": {
+    "1s": "prefiriese",
+    "2s": "prefirieses",
+    "3s": "prefiriese",
+    "1p": "prefiriésemos",
+    "2p": "prefirieseis",
+    "3p": "prefiriesen"
+  },
+  "FutSC": {
+    "1s": "prefiriere",
+    "2s": "prefirieres",
+    "3s": "prefiriere",
+    "1p": "prefiriéremos",
+    "2p": "prefiriereis",
+    "3p": "prefirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prefiere",
+    "3s": "prefiera",
+    "1p": "prefiramos",
+    "2p": "preferid",
+    "3p": "prefieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prefieras",
+    "3s": "no prefiera",
+    "1p": "no prefiramos",
+    "2p": "no prefiráis",
+    "3p": "no prefieran"
+  },
+  "Part-ter": {
+    "": "preferido"
+  },
+  "Part-ser": {
+    "ms": "preferido",
+    "fs": "preferida",
+    "mp": "preferidos",
+    "fp": "preferidas"
+  }
+}

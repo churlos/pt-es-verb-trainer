@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vomitar"
+  },
+  "Ger": {
+    "": "vomitando"
+  },
+  "PresI": {
+    "1s": "vomito",
+    "2s": "vomitas",
+    "3s": "vomita",
+    "1p": "vomitamos",
+    "2p": "vomitáis",
+    "3p": "vomitan"
+  },
+  "PImpI": {
+    "1s": "vomitaba",
+    "2s": "vomitabas",
+    "3s": "vomitaba",
+    "1p": "vomitábamos",
+    "2p": "vomitabais",
+    "3p": "vomitaban"
+  },
+  "PPSI": {
+    "1s": "vomité",
+    "2s": "vomitaste",
+    "3s": "vomitó",
+    "1p": "vomitamos",
+    "2p": "vomitasteis",
+    "3p": "vomitaron"
+  },
+  "FutSI": {
+    "1s": "vomitaré",
+    "2s": "vomitarás",
+    "3s": "vomitará",
+    "1p": "vomitaremos",
+    "2p": "vomitaréis",
+    "3p": "vomitarán"
+  },
+  "CondS": {
+    "1s": "vomitaría",
+    "2s": "vomitarías",
+    "3s": "vomitaría",
+    "1p": "vomitaríamos",
+    "2p": "vomitaríais",
+    "3p": "vomitarían"
+  },
+  "PresC": {
+    "1s": "vomite",
+    "2s": "vomites",
+    "3s": "vomite",
+    "1p": "vomitemos",
+    "2p": "vomitéis",
+    "3p": "vomiten"
+  },
+  "PMQPSI": {
+    "1s": "vomitara",
+    "2s": "vomitaras",
+    "3s": "vomitara",
+    "1p": "vomitáramos",
+    "2p": "vomitarais",
+    "3p": "vomitaran"
+  },
+  "PImpC": {
+    "1s": "vomitase",
+    "2s": "vomitases",
+    "3s": "vomitase",
+    "1p": "vomitásemos",
+    "2p": "vomitaseis",
+    "3p": "vomitasen"
+  },
+  "FutSC": {
+    "1s": "vomitare",
+    "2s": "vomitares",
+    "3s": "vomitare",
+    "1p": "vomitáremos",
+    "2p": "vomitareis",
+    "3p": "vomitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vomita",
+    "3s": "vomite",
+    "1p": "vomitemos",
+    "2p": "vomitad",
+    "3p": "vomiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vomites",
+    "3s": "no vomite",
+    "1p": "no vomitemos",
+    "2p": "no vomitéis",
+    "3p": "no vomiten"
+  },
+  "Part-ter": {
+    "": "vomitado"
+  },
+  "Part-ser": {
+    "ms": "vomitado",
+    "fs": "vomitada",
+    "mp": "vomitados",
+    "fp": "vomitadas"
+  }
+}

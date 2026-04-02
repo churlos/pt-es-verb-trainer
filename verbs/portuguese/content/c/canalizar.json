@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "canalizar"
+  },
+  "InfP": {
+    "1s": "canalizar",
+    "2s": "canalizares",
+    "3s": "canalizar",
+    "1p": "canalizarmos",
+    "2p": "canalizardes",
+    "3p": "canalizarem"
+  },
+  "Ger": {
+    "": "canalizando"
+  },
+  "PresI": {
+    "1s": "canalizo",
+    "2s": "canalizas",
+    "3s": "canaliza",
+    "1p": "canalizamos",
+    "2p": "canalizais",
+    "3p": "canalizam"
+  },
+  "PImpI": {
+    "1s": "canalizava",
+    "2s": "canalizavas",
+    "3s": "canalizava",
+    "1p": "canalizávamos",
+    "2p": "canalizáveis",
+    "3p": "canalizavam"
+  },
+  "PPSI": {
+    "1s": "canalizei",
+    "2s": "canalizaste",
+    "3s": "canalizou",
+    "1p": "canalizámos",
+    "2p": "canalizastes",
+    "3p": "canalizaram"
+  },
+  "PMQPSI": {
+    "1s": "canalizara",
+    "2s": "canalizaras",
+    "3s": "canalizara",
+    "1p": "canalizáramos",
+    "2p": "canalizáreis",
+    "3p": "canalizaram"
+  },
+  "FutSI": {
+    "1s": "canalizarei",
+    "2s": "canalizarás",
+    "3s": "canalizará",
+    "1p": "canalizaremos",
+    "2p": "canalizareis",
+    "3p": "canalizarão"
+  },
+  "CondS": {
+    "1s": "canalizaria",
+    "2s": "canalizarias",
+    "3s": "canalizaria",
+    "1p": "canalizaríamos",
+    "2p": "canalizaríeis",
+    "3p": "canalizariam"
+  },
+  "PresC": {
+    "1s": "canalize",
+    "2s": "canalizes",
+    "3s": "canalize",
+    "1p": "canalizemos",
+    "2p": "canalizeis",
+    "3p": "canalizem"
+  },
+  "PImpC": {
+    "1s": "canalizasse",
+    "2s": "canalizasses",
+    "3s": "canalizasse",
+    "1p": "canalizássemos",
+    "2p": "canalizásseis",
+    "3p": "canalizassem"
+  },
+  "FutSC": {
+    "1s": "canalizar",
+    "2s": "canalizares",
+    "3s": "canalizar",
+    "1p": "canalizarmos",
+    "2p": "canalizardes",
+    "3p": "canalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "canaliza",
+    "3s": "canalize",
+    "1p": "canalizemos",
+    "2p": "canalizai",
+    "3p": "canalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não canalizes",
+    "3s": "não canalize",
+    "1p": "não canalizemos",
+    "2p": "não canalizeis",
+    "3p": "não canalizem"
+  },
+  "Part-ter": {
+    "": "canalizado"
+  },
+  "Part-ser": {
+    "ms": "canalizado",
+    "fs": "canalizada",
+    "mp": "canalizados",
+    "fp": "canalizadas"
+  }
+}

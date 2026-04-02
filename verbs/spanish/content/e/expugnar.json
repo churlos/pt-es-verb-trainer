@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "expugnar"
+  },
+  "Ger": {
+    "": "expugnando"
+  },
+  "PresI": {
+    "1s": "expugno",
+    "2s": "expugnas",
+    "3s": "expugna",
+    "1p": "expugnamos",
+    "2p": "expugnáis",
+    "3p": "expugnan"
+  },
+  "PImpI": {
+    "1s": "expugnaba",
+    "2s": "expugnabas",
+    "3s": "expugnaba",
+    "1p": "expugnábamos",
+    "2p": "expugnabais",
+    "3p": "expugnaban"
+  },
+  "PPSI": {
+    "1s": "expugné",
+    "2s": "expugnaste",
+    "3s": "expugnó",
+    "1p": "expugnamos",
+    "2p": "expugnasteis",
+    "3p": "expugnaron"
+  },
+  "FutSI": {
+    "1s": "expugnaré",
+    "2s": "expugnarás",
+    "3s": "expugnará",
+    "1p": "expugnaremos",
+    "2p": "expugnaréis",
+    "3p": "expugnarán"
+  },
+  "CondS": {
+    "1s": "expugnaría",
+    "2s": "expugnarías",
+    "3s": "expugnaría",
+    "1p": "expugnaríamos",
+    "2p": "expugnaríais",
+    "3p": "expugnarían"
+  },
+  "PresC": {
+    "1s": "expugne",
+    "2s": "expugnes",
+    "3s": "expugne",
+    "1p": "expugnemos",
+    "2p": "expugnéis",
+    "3p": "expugnen"
+  },
+  "PMQPSI": {
+    "1s": "expugnara",
+    "2s": "expugnaras",
+    "3s": "expugnara",
+    "1p": "expugnáramos",
+    "2p": "expugnarais",
+    "3p": "expugnaran"
+  },
+  "PImpC": {
+    "1s": "expugnase",
+    "2s": "expugnases",
+    "3s": "expugnase",
+    "1p": "expugnásemos",
+    "2p": "expugnaseis",
+    "3p": "expugnasen"
+  },
+  "FutSC": {
+    "1s": "expugnare",
+    "2s": "expugnares",
+    "3s": "expugnare",
+    "1p": "expugnáremos",
+    "2p": "expugnareis",
+    "3p": "expugnaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expugna",
+    "3s": "expugne",
+    "1p": "expugnemos",
+    "2p": "expugnad",
+    "3p": "expugnen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no expugnes",
+    "3s": "no expugne",
+    "1p": "no expugnemos",
+    "2p": "no expugnéis",
+    "3p": "no expugnen"
+  },
+  "Part-ter": {
+    "": "expugnado"
+  },
+  "Part-ser": {
+    "ms": "expugnado",
+    "fs": "expugnada",
+    "mp": "expugnados",
+    "fp": "expugnadas"
+  }
+}

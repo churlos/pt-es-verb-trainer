@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "importar"
+  },
+  "InfP": {
+    "1s": "importar",
+    "2s": "importares",
+    "3s": "importar",
+    "1p": "importarmos",
+    "2p": "importardes",
+    "3p": "importarem"
+  },
+  "Ger": {
+    "": "importando"
+  },
+  "PresI": {
+    "1s": "importo",
+    "2s": "importas",
+    "3s": "importa",
+    "1p": "importamos",
+    "2p": "importais",
+    "3p": "importam"
+  },
+  "PImpI": {
+    "1s": "importava",
+    "2s": "importavas",
+    "3s": "importava",
+    "1p": "importávamos",
+    "2p": "importáveis",
+    "3p": "importavam"
+  },
+  "PPSI": {
+    "1s": "importei",
+    "2s": "importaste",
+    "3s": "importou",
+    "1p": "importámos",
+    "2p": "importastes",
+    "3p": "importaram"
+  },
+  "PMQPSI": {
+    "1s": "importara",
+    "2s": "importaras",
+    "3s": "importara",
+    "1p": "importáramos",
+    "2p": "importáreis",
+    "3p": "importaram"
+  },
+  "FutSI": {
+    "1s": "importarei",
+    "2s": "importarás",
+    "3s": "importará",
+    "1p": "importaremos",
+    "2p": "importareis",
+    "3p": "importarão"
+  },
+  "CondS": {
+    "1s": "importaria",
+    "2s": "importarias",
+    "3s": "importaria",
+    "1p": "importaríamos",
+    "2p": "importaríeis",
+    "3p": "importariam"
+  },
+  "PresC": {
+    "1s": "importe",
+    "2s": "importes",
+    "3s": "importe",
+    "1p": "importemos",
+    "2p": "importeis",
+    "3p": "importem"
+  },
+  "PImpC": {
+    "1s": "importasse",
+    "2s": "importasses",
+    "3s": "importasse",
+    "1p": "importássemos",
+    "2p": "importásseis",
+    "3p": "importassem"
+  },
+  "FutSC": {
+    "1s": "importar",
+    "2s": "importares",
+    "3s": "importar",
+    "1p": "importarmos",
+    "2p": "importardes",
+    "3p": "importarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "importa",
+    "3s": "importe",
+    "1p": "importemos",
+    "2p": "importai",
+    "3p": "importem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não importes",
+    "3s": "não importe",
+    "1p": "não importemos",
+    "2p": "não importeis",
+    "3p": "não importem"
+  },
+  "Part-ter": {
+    "": "importado"
+  },
+  "Part-ser": {
+    "ms": "importado",
+    "fs": "importada",
+    "mp": "importados",
+    "fp": "importadas"
+  }
+}

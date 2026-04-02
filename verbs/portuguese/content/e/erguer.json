@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "erguer"
+  },
+  "InfP": {
+    "1s": "erguer",
+    "2s": "ergueres",
+    "3s": "erguer",
+    "1p": "erguermos",
+    "2p": "erguerdes",
+    "3p": "erguerem"
+  },
+  "Ger": {
+    "": "erguendo"
+  },
+  "PresI": {
+    "1s": "ergo",
+    "2s": "ergues",
+    "3s": "ergue",
+    "1p": "erguemos",
+    "2p": "ergueis",
+    "3p": "erguem"
+  },
+  "PImpI": {
+    "1s": "erguia",
+    "2s": "erguias",
+    "3s": "erguia",
+    "1p": "erguíamos",
+    "2p": "erguíeis",
+    "3p": "erguiam"
+  },
+  "PPSI": {
+    "1s": "ergui",
+    "2s": "ergueste",
+    "3s": "ergueu",
+    "1p": "erguemos",
+    "2p": "erguestes",
+    "3p": "ergueram"
+  },
+  "PMQPSI": {
+    "1s": "erguera",
+    "2s": "ergueras",
+    "3s": "erguera",
+    "1p": "erguêramos",
+    "2p": "erguêreis",
+    "3p": "ergueram"
+  },
+  "FutSI": {
+    "1s": "erguerei",
+    "2s": "erguerás",
+    "3s": "erguerá",
+    "1p": "ergueremos",
+    "2p": "erguereis",
+    "3p": "erguerão"
+  },
+  "CondS": {
+    "1s": "ergueria",
+    "2s": "erguerias",
+    "3s": "ergueria",
+    "1p": "ergueríamos",
+    "2p": "ergueríeis",
+    "3p": "ergueriam"
+  },
+  "PresC": {
+    "1s": "erga",
+    "2s": "ergas",
+    "3s": "erga",
+    "1p": "ergamos",
+    "2p": "ergais",
+    "3p": "ergam"
+  },
+  "PImpC": {
+    "1s": "erguesse",
+    "2s": "erguesses",
+    "3s": "erguesse",
+    "1p": "erguêssemos",
+    "2p": "erguêsseis",
+    "3p": "erguessem"
+  },
+  "FutSC": {
+    "1s": "erguer",
+    "2s": "ergueres",
+    "3s": "erguer",
+    "1p": "erguermos",
+    "2p": "erguerdes",
+    "3p": "erguerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ergue",
+    "3s": "erga",
+    "1p": "ergamos",
+    "2p": "erguei",
+    "3p": "ergam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ergas",
+    "3s": "não erga",
+    "1p": "não ergamos",
+    "2p": "não ergais",
+    "3p": "não ergam"
+  },
+  "Part-ter": {
+    "": "erguido"
+  },
+  "Part-ser": {
+    "ms": "erguido",
+    "fs": "erguida",
+    "mp": "erguidos",
+    "fp": "erguidas"
+  }
+}

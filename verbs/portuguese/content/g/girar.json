@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "girar"
+  },
+  "InfP": {
+    "1s": "girar",
+    "2s": "girares",
+    "3s": "girar",
+    "1p": "girarmos",
+    "2p": "girardes",
+    "3p": "girarem"
+  },
+  "Ger": {
+    "": "girando"
+  },
+  "PresI": {
+    "1s": "giro",
+    "2s": "giras",
+    "3s": "gira",
+    "1p": "giramos",
+    "2p": "girais",
+    "3p": "giram"
+  },
+  "PImpI": {
+    "1s": "girava",
+    "2s": "giravas",
+    "3s": "girava",
+    "1p": "girávamos",
+    "2p": "giráveis",
+    "3p": "giravam"
+  },
+  "PPSI": {
+    "1s": "girei",
+    "2s": "giraste",
+    "3s": "girou",
+    "1p": "girámos",
+    "2p": "girastes",
+    "3p": "giraram"
+  },
+  "PMQPSI": {
+    "1s": "girara",
+    "2s": "giraras",
+    "3s": "girara",
+    "1p": "giráramos",
+    "2p": "giráreis",
+    "3p": "giraram"
+  },
+  "FutSI": {
+    "1s": "girarei",
+    "2s": "girarás",
+    "3s": "girará",
+    "1p": "giraremos",
+    "2p": "girareis",
+    "3p": "girarão"
+  },
+  "CondS": {
+    "1s": "giraria",
+    "2s": "girarias",
+    "3s": "giraria",
+    "1p": "giraríamos",
+    "2p": "giraríeis",
+    "3p": "girariam"
+  },
+  "PresC": {
+    "1s": "gire",
+    "2s": "gires",
+    "3s": "gire",
+    "1p": "giremos",
+    "2p": "gireis",
+    "3p": "girem"
+  },
+  "PImpC": {
+    "1s": "girasse",
+    "2s": "girasses",
+    "3s": "girasse",
+    "1p": "girássemos",
+    "2p": "girásseis",
+    "3p": "girassem"
+  },
+  "FutSC": {
+    "1s": "girar",
+    "2s": "girares",
+    "3s": "girar",
+    "1p": "girarmos",
+    "2p": "girardes",
+    "3p": "girarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gira",
+    "3s": "gire",
+    "1p": "giremos",
+    "2p": "girai",
+    "3p": "girem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gires",
+    "3s": "não gire",
+    "1p": "não giremos",
+    "2p": "não gireis",
+    "3p": "não girem"
+  },
+  "Part-ter": {
+    "": "girado"
+  },
+  "Part-ser": {
+    "ms": "girado",
+    "fs": "girada",
+    "mp": "girados",
+    "fp": "giradas"
+  }
+}

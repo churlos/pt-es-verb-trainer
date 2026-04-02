@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agüentar"
+  },
+  "InfP": {
+    "1s": "aguentarObsolete:agüentar",
+    "2s": "aguentaresObsolete:agüentares",
+    "3s": "aguentarObsolete:agüentar",
+    "1p": "aguentarmosObsolete:agüentarmos",
+    "2p": "aguentardesObsolete:agüentardes",
+    "3p": "aguentaremObsolete:agüentarem"
+  },
+  "Ger": {
+    "": "agüentando"
+  },
+  "PresI": {
+    "1s": "aguentoObsolete:agüento",
+    "2s": "aguentasObsolete:agüentas",
+    "3s": "aguentaObsolete:agüenta",
+    "1p": "aguentamosObsolete:agüentamos",
+    "2p": "aguentaisObsolete:agüentais",
+    "3p": "aguentamObsolete:agüentam"
+  },
+  "PImpI": {
+    "1s": "aguentavaObsolete:agüentava",
+    "2s": "aguentavasObsolete:agüentavas",
+    "3s": "aguentavaObsolete:agüentava",
+    "1p": "aguentávamosObsolete:agüentávamos",
+    "2p": "aguentáveisObsolete:agüentáveis",
+    "3p": "aguentavamObsolete:agüentavam"
+  },
+  "PPSI": {
+    "1s": "aguenteiObsolete:agüentei",
+    "2s": "aguentasteObsolete:agüentaste",
+    "3s": "aguentouObsolete:agüentou",
+    "1p": "aguentámos",
+    "2p": "aguentastesObsolete:agüentastes",
+    "3p": "aguentaramObsolete:agüentaram"
+  },
+  "PMQPSI": {
+    "1s": "aguentaraObsolete:agüentara",
+    "2s": "aguentarasObsolete:agüentaras",
+    "3s": "aguentaraObsolete:agüentara",
+    "1p": "aguentáramosObsolete:agüentáramos",
+    "2p": "aguentáreisObsolete:agüentáreis",
+    "3p": "aguentaramObsolete:agüentaram"
+  },
+  "FutSI": {
+    "1s": "aguentareiObsolete:agüentarei",
+    "2s": "aguentarásObsolete:agüentarás",
+    "3s": "aguentaráObsolete:agüentará",
+    "1p": "aguentaremosObsolete:agüentaremos",
+    "2p": "aguentareisObsolete:agüentareis",
+    "3p": "aguentarãoObsolete:agüentarão"
+  },
+  "CondS": {
+    "1s": "aguentariaObsolete:agüentaria",
+    "2s": "aguentariasObsolete:agüentarias",
+    "3s": "aguentariaObsolete:agüentaria",
+    "1p": "aguentaríamosObsolete:agüentaríamos",
+    "2p": "aguentaríeisObsolete:agüentaríeis",
+    "3p": "aguentariamObsolete:agüentariam"
+  },
+  "PresC": {
+    "1s": "aguenteObsolete:agüente",
+    "2s": "aguentesObsolete:agüentes",
+    "3s": "aguenteObsolete:agüente",
+    "1p": "aguentemosObsolete:agüentemos",
+    "2p": "aguenteisObsolete:agüenteis",
+    "3p": "aguentemObsolete:agüentem"
+  },
+  "PImpC": {
+    "1s": "aguentasseObsolete:agüentasse",
+    "2s": "aguentassesObsolete:agüentasses",
+    "3s": "aguentasseObsolete:agüentasse",
+    "1p": "aguentássemosObsolete:agüentássemos",
+    "2p": "aguentásseisObsolete:agüentásseis",
+    "3p": "aguentassemObsolete:agüentassem"
+  },
+  "FutSC": {
+    "1s": "aguentarObsolete:agüentar",
+    "2s": "aguentaresObsolete:agüentares",
+    "3s": "aguentarObsolete:agüentar",
+    "1p": "aguentarmosObsolete:agüentarmos",
+    "2p": "aguentardesObsolete:agüentardes",
+    "3p": "aguentaremObsolete:agüentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aguentaObsolete:agüenta",
+    "3s": "aguenteObsolete:agüente",
+    "1p": "aguentemosObsolete:agüentemos",
+    "2p": "aguentaiObsolete:agüentai",
+    "3p": "aguentemObsolete:agüentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aguentesObsolete:agüentes",
+    "3s": "não aguenteObsolete:agüente",
+    "1p": "não aguentemosObsolete:agüentemos",
+    "2p": "não aguenteisObsolete:agüenteis",
+    "3p": "não aguentemObsolete:agüentem"
+  },
+  "Part-ter": {
+    "": "agüentado"
+  },
+  "Part-ser": {
+    "ms": "agüentado",
+    "fs": "agüentada",
+    "mp": "agüentados",
+    "fp": "agüentadas"
+  }
+}

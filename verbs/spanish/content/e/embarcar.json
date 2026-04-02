@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "embarcar"
+  },
+  "Ger": {
+    "": "embarcando"
+  },
+  "PresI": {
+    "1s": "embarco",
+    "2s": "embarcas",
+    "3s": "embarca",
+    "1p": "embarcamos",
+    "2p": "embarcáis",
+    "3p": "embarcan"
+  },
+  "PImpI": {
+    "1s": "embarcaba",
+    "2s": "embarcabas",
+    "3s": "embarcaba",
+    "1p": "embarcábamos",
+    "2p": "embarcabais",
+    "3p": "embarcaban"
+  },
+  "PPSI": {
+    "1s": "embarqué",
+    "2s": "embarcaste",
+    "3s": "embarcó",
+    "1p": "embarcamos",
+    "2p": "embarcasteis",
+    "3p": "embarcaron"
+  },
+  "FutSI": {
+    "1s": "embarcaré",
+    "2s": "embarcarás",
+    "3s": "embarcará",
+    "1p": "embarcaremos",
+    "2p": "embarcaréis",
+    "3p": "embarcarán"
+  },
+  "CondS": {
+    "1s": "embarcaría",
+    "2s": "embarcarías",
+    "3s": "embarcaría",
+    "1p": "embarcaríamos",
+    "2p": "embarcaríais",
+    "3p": "embarcarían"
+  },
+  "PresC": {
+    "1s": "embarque",
+    "2s": "embarques",
+    "3s": "embarque",
+    "1p": "embarquemos",
+    "2p": "embarquéis",
+    "3p": "embarquen"
+  },
+  "PMQPSI": {
+    "1s": "embarcara",
+    "2s": "embarcaras",
+    "3s": "embarcara",
+    "1p": "embarcáramos",
+    "2p": "embarcarais",
+    "3p": "embarcaran"
+  },
+  "PImpC": {
+    "1s": "embarcase",
+    "2s": "embarcases",
+    "3s": "embarcase",
+    "1p": "embarcásemos",
+    "2p": "embarcaseis",
+    "3p": "embarcasen"
+  },
+  "FutSC": {
+    "1s": "embarcare",
+    "2s": "embarcares",
+    "3s": "embarcare",
+    "1p": "embarcáremos",
+    "2p": "embarcareis",
+    "3p": "embarcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "embarca",
+    "3s": "embarque",
+    "1p": "embarquemos",
+    "2p": "embarcad",
+    "3p": "embarquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no embarques",
+    "3s": "no embarque",
+    "1p": "no embarquemos",
+    "2p": "no embarquéis",
+    "3p": "no embarquen"
+  },
+  "Part-ter": {
+    "": "embarcado"
+  },
+  "Part-ser": {
+    "ms": "embarcado",
+    "fs": "embarcada",
+    "mp": "embarcados",
+    "fp": "embarcadas"
+  }
+}

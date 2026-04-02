@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tentar"
+  },
+  "InfP": {
+    "1s": "tentar",
+    "2s": "tentares",
+    "3s": "tentar",
+    "1p": "tentarmos",
+    "2p": "tentardes",
+    "3p": "tentarem"
+  },
+  "Ger": {
+    "": "tentando"
+  },
+  "PresI": {
+    "1s": "tento",
+    "2s": "tentas",
+    "3s": "tenta",
+    "1p": "tentamos",
+    "2p": "tentais",
+    "3p": "tentam"
+  },
+  "PImpI": {
+    "1s": "tentava",
+    "2s": "tentavas",
+    "3s": "tentava",
+    "1p": "tentávamos",
+    "2p": "tentáveis",
+    "3p": "tentavam"
+  },
+  "PPSI": {
+    "1s": "tentei",
+    "2s": "tentaste",
+    "3s": "tentou",
+    "1p": "tentámos",
+    "2p": "tentastes",
+    "3p": "tentaram"
+  },
+  "PMQPSI": {
+    "1s": "tentara",
+    "2s": "tentaras",
+    "3s": "tentara",
+    "1p": "tentáramos",
+    "2p": "tentáreis",
+    "3p": "tentaram"
+  },
+  "FutSI": {
+    "1s": "tentarei",
+    "2s": "tentarás",
+    "3s": "tentará",
+    "1p": "tentaremos",
+    "2p": "tentareis",
+    "3p": "tentarão"
+  },
+  "CondS": {
+    "1s": "tentaria",
+    "2s": "tentarias",
+    "3s": "tentaria",
+    "1p": "tentaríamos",
+    "2p": "tentaríeis",
+    "3p": "tentariam"
+  },
+  "PresC": {
+    "1s": "tente",
+    "2s": "tentes",
+    "3s": "tente",
+    "1p": "tentemos",
+    "2p": "tenteis",
+    "3p": "tentem"
+  },
+  "PImpC": {
+    "1s": "tentasse",
+    "2s": "tentasses",
+    "3s": "tentasse",
+    "1p": "tentássemos",
+    "2p": "tentásseis",
+    "3p": "tentassem"
+  },
+  "FutSC": {
+    "1s": "tentar",
+    "2s": "tentares",
+    "3s": "tentar",
+    "1p": "tentarmos",
+    "2p": "tentardes",
+    "3p": "tentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tenta",
+    "3s": "tente",
+    "1p": "tentemos",
+    "2p": "tentai",
+    "3p": "tentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tentes",
+    "3s": "não tente",
+    "1p": "não tentemos",
+    "2p": "não tenteis",
+    "3p": "não tentem"
+  },
+  "Part-ter": {
+    "": "tentado"
+  },
+  "Part-ser": {
+    "ms": "tentado",
+    "fs": "tentada",
+    "mp": "tentados",
+    "fp": "tentadas"
+  }
+}

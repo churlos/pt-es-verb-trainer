@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escaldar"
+  },
+  "InfP": {
+    "1s": "escaldar",
+    "2s": "escaldares",
+    "3s": "escaldar",
+    "1p": "escaldarmos",
+    "2p": "escaldardes",
+    "3p": "escaldarem"
+  },
+  "Ger": {
+    "": "escaldando"
+  },
+  "PresI": {
+    "1s": "escaldo",
+    "2s": "escaldas",
+    "3s": "escalda",
+    "1p": "escaldamos",
+    "2p": "escaldais",
+    "3p": "escaldam"
+  },
+  "PImpI": {
+    "1s": "escaldava",
+    "2s": "escaldavas",
+    "3s": "escaldava",
+    "1p": "escaldávamos",
+    "2p": "escaldáveis",
+    "3p": "escaldavam"
+  },
+  "PPSI": {
+    "1s": "escaldei",
+    "2s": "escaldaste",
+    "3s": "escaldou",
+    "1p": "escaldámos",
+    "2p": "escaldastes",
+    "3p": "escaldaram"
+  },
+  "PMQPSI": {
+    "1s": "escaldara",
+    "2s": "escaldaras",
+    "3s": "escaldara",
+    "1p": "escaldáramos",
+    "2p": "escaldáreis",
+    "3p": "escaldaram"
+  },
+  "FutSI": {
+    "1s": "escaldarei",
+    "2s": "escaldarás",
+    "3s": "escaldará",
+    "1p": "escaldaremos",
+    "2p": "escaldareis",
+    "3p": "escaldarão"
+  },
+  "CondS": {
+    "1s": "escaldaria",
+    "2s": "escaldarias",
+    "3s": "escaldaria",
+    "1p": "escaldaríamos",
+    "2p": "escaldaríeis",
+    "3p": "escaldariam"
+  },
+  "PresC": {
+    "1s": "escalde",
+    "2s": "escaldes",
+    "3s": "escalde",
+    "1p": "escaldemos",
+    "2p": "escaldeis",
+    "3p": "escaldem"
+  },
+  "PImpC": {
+    "1s": "escaldasse",
+    "2s": "escaldasses",
+    "3s": "escaldasse",
+    "1p": "escaldássemos",
+    "2p": "escaldásseis",
+    "3p": "escaldassem"
+  },
+  "FutSC": {
+    "1s": "escaldar",
+    "2s": "escaldares",
+    "3s": "escaldar",
+    "1p": "escaldarmos",
+    "2p": "escaldardes",
+    "3p": "escaldarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escalda",
+    "3s": "escalde",
+    "1p": "escaldemos",
+    "2p": "escaldai",
+    "3p": "escaldem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escaldes",
+    "3s": "não escalde",
+    "1p": "não escaldemos",
+    "2p": "não escaldeis",
+    "3p": "não escaldem"
+  },
+  "Part-ter": {
+    "": "escaldado"
+  },
+  "Part-ser": {
+    "ms": "escaldado",
+    "fs": "escaldada",
+    "mp": "escaldados",
+    "fp": "escaldadas"
+  }
+}

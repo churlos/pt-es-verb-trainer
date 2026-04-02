@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desconvocar"
+  },
+  "Ger": {
+    "": "desconvocando"
+  },
+  "PresI": {
+    "1s": "desconvoco",
+    "2s": "desconvocas",
+    "3s": "desconvoca",
+    "1p": "desconvocamos",
+    "2p": "desconvocáis",
+    "3p": "desconvocan"
+  },
+  "PImpI": {
+    "1s": "desconvocaba",
+    "2s": "desconvocabas",
+    "3s": "desconvocaba",
+    "1p": "desconvocábamos",
+    "2p": "desconvocabais",
+    "3p": "desconvocaban"
+  },
+  "PPSI": {
+    "1s": "desconvoqué",
+    "2s": "desconvocaste",
+    "3s": "desconvocó",
+    "1p": "desconvocamos",
+    "2p": "desconvocasteis",
+    "3p": "desconvocaron"
+  },
+  "FutSI": {
+    "1s": "desconvocaré",
+    "2s": "desconvocarás",
+    "3s": "desconvocará",
+    "1p": "desconvocaremos",
+    "2p": "desconvocaréis",
+    "3p": "desconvocarán"
+  },
+  "CondS": {
+    "1s": "desconvocaría",
+    "2s": "desconvocarías",
+    "3s": "desconvocaría",
+    "1p": "desconvocaríamos",
+    "2p": "desconvocaríais",
+    "3p": "desconvocarían"
+  },
+  "PresC": {
+    "1s": "desconvoque",
+    "2s": "desconvoques",
+    "3s": "desconvoque",
+    "1p": "desconvoquemos",
+    "2p": "desconvoquéis",
+    "3p": "desconvoquen"
+  },
+  "PMQPSI": {
+    "1s": "desconvocara",
+    "2s": "desconvocaras",
+    "3s": "desconvocara",
+    "1p": "desconvocáramos",
+    "2p": "desconvocarais",
+    "3p": "desconvocaran"
+  },
+  "PImpC": {
+    "1s": "desconvocase",
+    "2s": "desconvocases",
+    "3s": "desconvocase",
+    "1p": "desconvocásemos",
+    "2p": "desconvocaseis",
+    "3p": "desconvocasen"
+  },
+  "FutSC": {
+    "1s": "desconvocare",
+    "2s": "desconvocares",
+    "3s": "desconvocare",
+    "1p": "desconvocáremos",
+    "2p": "desconvocareis",
+    "3p": "desconvocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desconvoca",
+    "3s": "desconvoque",
+    "1p": "desconvoquemos",
+    "2p": "desconvocad",
+    "3p": "desconvoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desconvoques",
+    "3s": "no desconvoque",
+    "1p": "no desconvoquemos",
+    "2p": "no desconvoquéis",
+    "3p": "no desconvoquen"
+  },
+  "Part-ter": {
+    "": "desconvocado"
+  },
+  "Part-ser": {
+    "ms": "desconvocado",
+    "fs": "desconvocada",
+    "mp": "desconvocados",
+    "fp": "desconvocadas"
+  }
+}

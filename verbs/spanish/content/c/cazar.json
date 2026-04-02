@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cazar"
+  },
+  "Ger": {
+    "": "cazando"
+  },
+  "PresI": {
+    "1s": "cazo",
+    "2s": "cazas",
+    "3s": "caza",
+    "1p": "cazamos",
+    "2p": "cazáis",
+    "3p": "cazan"
+  },
+  "PImpI": {
+    "1s": "cazaba",
+    "2s": "cazabas",
+    "3s": "cazaba",
+    "1p": "cazábamos",
+    "2p": "cazabais",
+    "3p": "cazaban"
+  },
+  "PPSI": {
+    "1s": "cacé",
+    "2s": "cazaste",
+    "3s": "cazó",
+    "1p": "cazamos",
+    "2p": "cazasteis",
+    "3p": "cazaron"
+  },
+  "FutSI": {
+    "1s": "cazaré",
+    "2s": "cazarás",
+    "3s": "cazará",
+    "1p": "cazaremos",
+    "2p": "cazaréis",
+    "3p": "cazarán"
+  },
+  "CondS": {
+    "1s": "cazaría",
+    "2s": "cazarías",
+    "3s": "cazaría",
+    "1p": "cazaríamos",
+    "2p": "cazaríais",
+    "3p": "cazarían"
+  },
+  "PresC": {
+    "1s": "cace",
+    "2s": "caces",
+    "3s": "cace",
+    "1p": "cacemos",
+    "2p": "cacéis",
+    "3p": "cacen"
+  },
+  "PMQPSI": {
+    "1s": "cazara",
+    "2s": "cazaras",
+    "3s": "cazara",
+    "1p": "cazáramos",
+    "2p": "cazarais",
+    "3p": "cazaran"
+  },
+  "PImpC": {
+    "1s": "cazase",
+    "2s": "cazases",
+    "3s": "cazase",
+    "1p": "cazásemos",
+    "2p": "cazaseis",
+    "3p": "cazasen"
+  },
+  "FutSC": {
+    "1s": "cazare",
+    "2s": "cazares",
+    "3s": "cazare",
+    "1p": "cazáremos",
+    "2p": "cazareis",
+    "3p": "cazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "caza",
+    "3s": "cace",
+    "1p": "cacemos",
+    "2p": "cazad",
+    "3p": "cacen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no caces",
+    "3s": "no cace",
+    "1p": "no cacemos",
+    "2p": "no cacéis",
+    "3p": "no cacen"
+  },
+  "Part-ter": {
+    "": "cazado"
+  },
+  "Part-ser": {
+    "ms": "cazado",
+    "fs": "cazada",
+    "mp": "cazados",
+    "fp": "cazadas"
+  }
+}

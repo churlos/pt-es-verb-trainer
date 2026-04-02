@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ocupar"
+  },
+  "Ger": {
+    "": "ocupando"
+  },
+  "PresI": {
+    "1s": "ocupo",
+    "2s": "ocupas",
+    "3s": "ocupa",
+    "1p": "ocupamos",
+    "2p": "ocupáis",
+    "3p": "ocupan"
+  },
+  "PImpI": {
+    "1s": "ocupaba",
+    "2s": "ocupabas",
+    "3s": "ocupaba",
+    "1p": "ocupábamos",
+    "2p": "ocupabais",
+    "3p": "ocupaban"
+  },
+  "PPSI": {
+    "1s": "ocupé",
+    "2s": "ocupaste",
+    "3s": "ocupó",
+    "1p": "ocupamos",
+    "2p": "ocupasteis",
+    "3p": "ocuparon"
+  },
+  "FutSI": {
+    "1s": "ocuparé",
+    "2s": "ocuparás",
+    "3s": "ocupará",
+    "1p": "ocuparemos",
+    "2p": "ocuparéis",
+    "3p": "ocuparán"
+  },
+  "CondS": {
+    "1s": "ocuparía",
+    "2s": "ocuparías",
+    "3s": "ocuparía",
+    "1p": "ocuparíamos",
+    "2p": "ocuparíais",
+    "3p": "ocuparían"
+  },
+  "PresC": {
+    "1s": "ocupe",
+    "2s": "ocupes",
+    "3s": "ocupe",
+    "1p": "ocupemos",
+    "2p": "ocupéis",
+    "3p": "ocupen"
+  },
+  "PMQPSI": {
+    "1s": "ocupara",
+    "2s": "ocuparas",
+    "3s": "ocupara",
+    "1p": "ocupáramos",
+    "2p": "ocuparais",
+    "3p": "ocuparan"
+  },
+  "PImpC": {
+    "1s": "ocupase",
+    "2s": "ocupases",
+    "3s": "ocupase",
+    "1p": "ocupásemos",
+    "2p": "ocupaseis",
+    "3p": "ocupasen"
+  },
+  "FutSC": {
+    "1s": "ocupare",
+    "2s": "ocupares",
+    "3s": "ocupare",
+    "1p": "ocupáremos",
+    "2p": "ocupareis",
+    "3p": "ocuparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ocupa",
+    "3s": "ocupe",
+    "1p": "ocupemos",
+    "2p": "ocupad",
+    "3p": "ocupen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ocupes",
+    "3s": "no ocupe",
+    "1p": "no ocupemos",
+    "2p": "no ocupéis",
+    "3p": "no ocupen"
+  },
+  "Part-ter": {
+    "": "ocupado"
+  },
+  "Part-ser": {
+    "ms": "ocupado",
+    "fs": "ocupada",
+    "mp": "ocupados",
+    "fp": "ocupadas"
+  }
+}

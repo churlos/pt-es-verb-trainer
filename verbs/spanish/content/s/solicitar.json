@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "solicitar"
+  },
+  "Ger": {
+    "": "solicitando"
+  },
+  "PresI": {
+    "1s": "solicito",
+    "2s": "solicitas",
+    "3s": "solicita",
+    "1p": "solicitamos",
+    "2p": "solicitáis",
+    "3p": "solicitan"
+  },
+  "PImpI": {
+    "1s": "solicitaba",
+    "2s": "solicitabas",
+    "3s": "solicitaba",
+    "1p": "solicitábamos",
+    "2p": "solicitabais",
+    "3p": "solicitaban"
+  },
+  "PPSI": {
+    "1s": "solicité",
+    "2s": "solicitaste",
+    "3s": "solicitó",
+    "1p": "solicitamos",
+    "2p": "solicitasteis",
+    "3p": "solicitaron"
+  },
+  "FutSI": {
+    "1s": "solicitaré",
+    "2s": "solicitarás",
+    "3s": "solicitará",
+    "1p": "solicitaremos",
+    "2p": "solicitaréis",
+    "3p": "solicitarán"
+  },
+  "CondS": {
+    "1s": "solicitaría",
+    "2s": "solicitarías",
+    "3s": "solicitaría",
+    "1p": "solicitaríamos",
+    "2p": "solicitaríais",
+    "3p": "solicitarían"
+  },
+  "PresC": {
+    "1s": "solicite",
+    "2s": "solicites",
+    "3s": "solicite",
+    "1p": "solicitemos",
+    "2p": "solicitéis",
+    "3p": "soliciten"
+  },
+  "PMQPSI": {
+    "1s": "solicitara",
+    "2s": "solicitaras",
+    "3s": "solicitara",
+    "1p": "solicitáramos",
+    "2p": "solicitarais",
+    "3p": "solicitaran"
+  },
+  "PImpC": {
+    "1s": "solicitase",
+    "2s": "solicitases",
+    "3s": "solicitase",
+    "1p": "solicitásemos",
+    "2p": "solicitaseis",
+    "3p": "solicitasen"
+  },
+  "FutSC": {
+    "1s": "solicitare",
+    "2s": "solicitares",
+    "3s": "solicitare",
+    "1p": "solicitáremos",
+    "2p": "solicitareis",
+    "3p": "solicitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "solicita",
+    "3s": "solicite",
+    "1p": "solicitemos",
+    "2p": "solicitad",
+    "3p": "soliciten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no solicites",
+    "3s": "no solicite",
+    "1p": "no solicitemos",
+    "2p": "no solicitéis",
+    "3p": "no soliciten"
+  },
+  "Part-ter": {
+    "": "solicitado"
+  },
+  "Part-ser": {
+    "ms": "solicitado",
+    "fs": "solicitada",
+    "mp": "solicitados",
+    "fp": "solicitadas"
+  }
+}

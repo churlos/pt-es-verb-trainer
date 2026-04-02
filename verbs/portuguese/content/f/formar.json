@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "formar"
+  },
+  "InfP": {
+    "1s": "formar",
+    "2s": "formares",
+    "3s": "formar",
+    "1p": "formarmos",
+    "2p": "formardes",
+    "3p": "formarem"
+  },
+  "Ger": {
+    "": "formando"
+  },
+  "PresI": {
+    "1s": "formo",
+    "2s": "formas",
+    "3s": "forma",
+    "1p": "formamos",
+    "2p": "formais",
+    "3p": "formam"
+  },
+  "PImpI": {
+    "1s": "formava",
+    "2s": "formavas",
+    "3s": "formava",
+    "1p": "formávamos",
+    "2p": "formáveis",
+    "3p": "formavam"
+  },
+  "PPSI": {
+    "1s": "formei",
+    "2s": "formaste",
+    "3s": "formou",
+    "1p": "formámos",
+    "2p": "formastes",
+    "3p": "formaram"
+  },
+  "PMQPSI": {
+    "1s": "formara",
+    "2s": "formaras",
+    "3s": "formara",
+    "1p": "formáramos",
+    "2p": "formáreis",
+    "3p": "formaram"
+  },
+  "FutSI": {
+    "1s": "formarei",
+    "2s": "formarás",
+    "3s": "formará",
+    "1p": "formaremos",
+    "2p": "formareis",
+    "3p": "formarão"
+  },
+  "CondS": {
+    "1s": "formaria",
+    "2s": "formarias",
+    "3s": "formaria",
+    "1p": "formaríamos",
+    "2p": "formaríeis",
+    "3p": "formariam"
+  },
+  "PresC": {
+    "1s": "forme",
+    "2s": "formes",
+    "3s": "forme",
+    "1p": "formemos",
+    "2p": "formeis",
+    "3p": "formem"
+  },
+  "PImpC": {
+    "1s": "formasse",
+    "2s": "formasses",
+    "3s": "formasse",
+    "1p": "formássemos",
+    "2p": "formásseis",
+    "3p": "formassem"
+  },
+  "FutSC": {
+    "1s": "formar",
+    "2s": "formares",
+    "3s": "formar",
+    "1p": "formarmos",
+    "2p": "formardes",
+    "3p": "formarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "forma",
+    "3s": "forme",
+    "1p": "formemos",
+    "2p": "formai",
+    "3p": "formem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não formes",
+    "3s": "não forme",
+    "1p": "não formemos",
+    "2p": "não formeis",
+    "3p": "não formem"
+  },
+  "Part-ter": {
+    "": "formado"
+  },
+  "Part-ser": {
+    "ms": "formado",
+    "fs": "formada",
+    "mp": "formados",
+    "fp": "formadas"
+  }
+}

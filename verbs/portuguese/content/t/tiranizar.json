@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tiranizar"
+  },
+  "InfP": {
+    "1s": "tiranizar",
+    "2s": "tiranizares",
+    "3s": "tiranizar",
+    "1p": "tiranizarmos",
+    "2p": "tiranizardes",
+    "3p": "tiranizarem"
+  },
+  "Ger": {
+    "": "tiranizando"
+  },
+  "PresI": {
+    "1s": "tiranizo",
+    "2s": "tiranizas",
+    "3s": "tiraniza",
+    "1p": "tiranizamos",
+    "2p": "tiranizais",
+    "3p": "tiranizam"
+  },
+  "PImpI": {
+    "1s": "tiranizava",
+    "2s": "tiranizavas",
+    "3s": "tiranizava",
+    "1p": "tiranizávamos",
+    "2p": "tiranizáveis",
+    "3p": "tiranizavam"
+  },
+  "PPSI": {
+    "1s": "tiranizei",
+    "2s": "tiranizaste",
+    "3s": "tiranizou",
+    "1p": "tiranizámos",
+    "2p": "tiranizastes",
+    "3p": "tiranizaram"
+  },
+  "PMQPSI": {
+    "1s": "tiranizara",
+    "2s": "tiranizaras",
+    "3s": "tiranizara",
+    "1p": "tiranizáramos",
+    "2p": "tiranizáreis",
+    "3p": "tiranizaram"
+  },
+  "FutSI": {
+    "1s": "tiranizarei",
+    "2s": "tiranizarás",
+    "3s": "tiranizará",
+    "1p": "tiranizaremos",
+    "2p": "tiranizareis",
+    "3p": "tiranizarão"
+  },
+  "CondS": {
+    "1s": "tiranizaria",
+    "2s": "tiranizarias",
+    "3s": "tiranizaria",
+    "1p": "tiranizaríamos",
+    "2p": "tiranizaríeis",
+    "3p": "tiranizariam"
+  },
+  "PresC": {
+    "1s": "tiranize",
+    "2s": "tiranizes",
+    "3s": "tiranize",
+    "1p": "tiranizemos",
+    "2p": "tiranizeis",
+    "3p": "tiranizem"
+  },
+  "PImpC": {
+    "1s": "tiranizasse",
+    "2s": "tiranizasses",
+    "3s": "tiranizasse",
+    "1p": "tiranizássemos",
+    "2p": "tiranizásseis",
+    "3p": "tiranizassem"
+  },
+  "FutSC": {
+    "1s": "tiranizar",
+    "2s": "tiranizares",
+    "3s": "tiranizar",
+    "1p": "tiranizarmos",
+    "2p": "tiranizardes",
+    "3p": "tiranizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tiraniza",
+    "3s": "tiranize",
+    "1p": "tiranizemos",
+    "2p": "tiranizai",
+    "3p": "tiranizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tiranizes",
+    "3s": "não tiranize",
+    "1p": "não tiranizemos",
+    "2p": "não tiranizeis",
+    "3p": "não tiranizem"
+  },
+  "Part-ter": {
+    "": "tiranizado"
+  },
+  "Part-ser": {
+    "ms": "tiranizado",
+    "fs": "tiranizada",
+    "mp": "tiranizados",
+    "fp": "tiranizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "manutener"
+  },
+  "Ger": {
+    "": "manuteniendo"
+  },
+  "PresI": {
+    "1s": "manutengo",
+    "2s": "manutienes",
+    "3s": "manutiene",
+    "1p": "manutenemos",
+    "2p": "manutenéis",
+    "3p": "manutienen"
+  },
+  "PImpI": {
+    "1s": "manutenía",
+    "2s": "manutenías",
+    "3s": "manutenía",
+    "1p": "manuteníamos",
+    "2p": "manuteníais",
+    "3p": "manutenían"
+  },
+  "PPSI": {
+    "1s": "manutuve",
+    "2s": "manutuviste",
+    "3s": "manutuvo",
+    "1p": "manutuvimos",
+    "2p": "manutuvisteis",
+    "3p": "manutuvieron"
+  },
+  "FutSI": {
+    "1s": "manutendré",
+    "2s": "manutendrás",
+    "3s": "manutendrá",
+    "1p": "manutendremos",
+    "2p": "manutendréis",
+    "3p": "manutendrán"
+  },
+  "CondS": {
+    "1s": "manutendría",
+    "2s": "manutendrías",
+    "3s": "manutendría",
+    "1p": "manutendríamos",
+    "2p": "manutendríais",
+    "3p": "manutendrían"
+  },
+  "PresC": {
+    "1s": "manutenga",
+    "2s": "manutengas",
+    "3s": "manutenga",
+    "1p": "manutengamos",
+    "2p": "manutengáis",
+    "3p": "manutengan"
+  },
+  "PMQPSI": {
+    "1s": "manutuviera",
+    "2s": "manutuvieras",
+    "3s": "manutuviera",
+    "1p": "manutuviéramos",
+    "2p": "manutuvierais",
+    "3p": "manutuvieran"
+  },
+  "PImpC": {
+    "1s": "manutuviese",
+    "2s": "manutuvieses",
+    "3s": "manutuviese",
+    "1p": "manutuviésemos",
+    "2p": "manutuvieseis",
+    "3p": "manutuviesen"
+  },
+  "FutSC": {
+    "1s": "manutuviere",
+    "2s": "manutuvieres",
+    "3s": "manutuviere",
+    "1p": "manutuviéremos",
+    "2p": "manutuviereis",
+    "3p": "manutuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manutén",
+    "3s": "manutenga",
+    "1p": "manutengamos",
+    "2p": "manutened",
+    "3p": "manutengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no manutengas",
+    "3s": "no manutenga",
+    "1p": "no manutengamos",
+    "2p": "no manutengáis",
+    "3p": "no manutengan"
+  },
+  "Part-ter": {
+    "": "manutenido"
+  },
+  "Part-ser": {
+    "ms": "manutenido",
+    "fs": "manutenida",
+    "mp": "manutenidos",
+    "fp": "manutenidas"
+  }
+}

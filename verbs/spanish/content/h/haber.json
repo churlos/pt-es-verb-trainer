@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "haber"
+  },
+  "Ger": {
+    "": "habiendo"
+  },
+  "PresI": {
+    "1s": "he",
+    "2s": "has",
+    "3s": "ha, hay",
+    "1p": "hemos",
+    "2p": "habéis",
+    "3p": "han"
+  },
+  "PImpI": {
+    "1s": "había",
+    "2s": "habías",
+    "3s": "había",
+    "1p": "habíamos",
+    "2p": "habíais",
+    "3p": "habían"
+  },
+  "PPSI": {
+    "1s": "hube",
+    "2s": "hubiste",
+    "3s": "hubo",
+    "1p": "hubimos",
+    "2p": "hubisteis",
+    "3p": "hubieron"
+  },
+  "FutSI": {
+    "1s": "habré",
+    "2s": "habrás",
+    "3s": "habrá",
+    "1p": "habremos",
+    "2p": "habréis",
+    "3p": "habrán"
+  },
+  "CondS": {
+    "1s": "habría",
+    "2s": "habrías",
+    "3s": "habría",
+    "1p": "habríamos",
+    "2p": "habríais",
+    "3p": "habrían"
+  },
+  "PresC": {
+    "1s": "haya",
+    "2s": "hayas",
+    "3s": "haya",
+    "1p": "hayamos",
+    "2p": "hayáis",
+    "3p": "hayan"
+  },
+  "PMQPSI": {
+    "1s": "hubiera",
+    "2s": "hubieras",
+    "3s": "hubiera",
+    "1p": "hubiéramos",
+    "2p": "hubierais",
+    "3p": "hubieran"
+  },
+  "PImpC": {
+    "1s": "hubiese",
+    "2s": "hubieses",
+    "3s": "hubiese",
+    "1p": "hubiésemos",
+    "2p": "hubieseis",
+    "3p": "hubiesen"
+  },
+  "FutSC": {
+    "1s": "hubiere",
+    "2s": "hubieres",
+    "3s": "hubiere",
+    "1p": "hubiéremos",
+    "2p": "hubiereis",
+    "3p": "hubieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "habe, he",
+    "3s": "haya",
+    "1p": "hayamos",
+    "2p": "habed",
+    "3p": "hayan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hayas",
+    "3s": "no haya",
+    "1p": "no hayamos",
+    "2p": "no hayáis",
+    "3p": "no hayan"
+  },
+  "Part-ter": {
+    "": "habido"
+  },
+  "Part-ser": {
+    "ms": "habido",
+    "fs": "habida",
+    "mp": "habidos",
+    "fp": "habidas"
+  }
+}

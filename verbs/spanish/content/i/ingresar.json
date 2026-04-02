@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ingresar"
+  },
+  "Ger": {
+    "": "ingresando"
+  },
+  "PresI": {
+    "1s": "ingreso",
+    "2s": "ingresas",
+    "3s": "ingresa",
+    "1p": "ingresamos",
+    "2p": "ingresáis",
+    "3p": "ingresan"
+  },
+  "PImpI": {
+    "1s": "ingresaba",
+    "2s": "ingresabas",
+    "3s": "ingresaba",
+    "1p": "ingresábamos",
+    "2p": "ingresabais",
+    "3p": "ingresaban"
+  },
+  "PPSI": {
+    "1s": "ingresé",
+    "2s": "ingresaste",
+    "3s": "ingresó",
+    "1p": "ingresamos",
+    "2p": "ingresasteis",
+    "3p": "ingresaron"
+  },
+  "FutSI": {
+    "1s": "ingresaré",
+    "2s": "ingresarás",
+    "3s": "ingresará",
+    "1p": "ingresaremos",
+    "2p": "ingresaréis",
+    "3p": "ingresarán"
+  },
+  "CondS": {
+    "1s": "ingresaría",
+    "2s": "ingresarías",
+    "3s": "ingresaría",
+    "1p": "ingresaríamos",
+    "2p": "ingresaríais",
+    "3p": "ingresarían"
+  },
+  "PresC": {
+    "1s": "ingrese",
+    "2s": "ingreses",
+    "3s": "ingrese",
+    "1p": "ingresemos",
+    "2p": "ingreséis",
+    "3p": "ingresen"
+  },
+  "PMQPSI": {
+    "1s": "ingresara",
+    "2s": "ingresaras",
+    "3s": "ingresara",
+    "1p": "ingresáramos",
+    "2p": "ingresarais",
+    "3p": "ingresaran"
+  },
+  "PImpC": {
+    "1s": "ingresase",
+    "2s": "ingresases",
+    "3s": "ingresase",
+    "1p": "ingresásemos",
+    "2p": "ingresaseis",
+    "3p": "ingresasen"
+  },
+  "FutSC": {
+    "1s": "ingresare",
+    "2s": "ingresares",
+    "3s": "ingresare",
+    "1p": "ingresáremos",
+    "2p": "ingresareis",
+    "3p": "ingresaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ingresa",
+    "3s": "ingrese",
+    "1p": "ingresemos",
+    "2p": "ingresad",
+    "3p": "ingresen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ingreses",
+    "3s": "no ingrese",
+    "1p": "no ingresemos",
+    "2p": "no ingreséis",
+    "3p": "no ingresen"
+  },
+  "Part-ter": {
+    "": "ingresado"
+  },
+  "Part-ser": {
+    "ms": "ingresado",
+    "fs": "ingresada",
+    "mp": "ingresados",
+    "fp": "ingresadas"
+  }
+}

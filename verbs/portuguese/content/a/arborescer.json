@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arborescer"
+  },
+  "InfP": {
+    "1s": "arborescer",
+    "2s": "arboresceres",
+    "3s": "arborescer",
+    "1p": "arborescermos",
+    "2p": "arborescerdes",
+    "3p": "arborescerem"
+  },
+  "Ger": {
+    "": "arborescendo"
+  },
+  "PresI": {
+    "1s": "arboresço",
+    "2s": "arboresces",
+    "3s": "arboresce",
+    "1p": "arborescemos",
+    "2p": "arboresceis",
+    "3p": "arborescem"
+  },
+  "PImpI": {
+    "1s": "arborescia",
+    "2s": "arborescias",
+    "3s": "arborescia",
+    "1p": "arborescíamos",
+    "2p": "arborescíeis",
+    "3p": "arboresciam"
+  },
+  "PPSI": {
+    "1s": "arboresci",
+    "2s": "arboresceste",
+    "3s": "arboresceu",
+    "1p": "arborescemos",
+    "2p": "arborescestes",
+    "3p": "arboresceram"
+  },
+  "PMQPSI": {
+    "1s": "arborescera",
+    "2s": "arboresceras",
+    "3s": "arborescera",
+    "1p": "arborescêramos",
+    "2p": "arborescêreis",
+    "3p": "arboresceram"
+  },
+  "FutSI": {
+    "1s": "arborescerei",
+    "2s": "arborescerás",
+    "3s": "arborescerá",
+    "1p": "arboresceremos",
+    "2p": "arborescereis",
+    "3p": "arborescerão"
+  },
+  "CondS": {
+    "1s": "arboresceria",
+    "2s": "arborescerias",
+    "3s": "arboresceria",
+    "1p": "arboresceríamos",
+    "2p": "arboresceríeis",
+    "3p": "arboresceriam"
+  },
+  "PresC": {
+    "1s": "arboresça",
+    "2s": "arboresças",
+    "3s": "arboresça",
+    "1p": "arboresçamos",
+    "2p": "arboresçais",
+    "3p": "arboresçam"
+  },
+  "PImpC": {
+    "1s": "arborescesse",
+    "2s": "arborescesses",
+    "3s": "arborescesse",
+    "1p": "arborescêssemos",
+    "2p": "arborescêsseis",
+    "3p": "arborescessem"
+  },
+  "FutSC": {
+    "1s": "arborescer",
+    "2s": "arboresceres",
+    "3s": "arborescer",
+    "1p": "arborescermos",
+    "2p": "arborescerdes",
+    "3p": "arborescerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arboresce",
+    "3s": "arboresça",
+    "1p": "arboresçamos",
+    "2p": "arborescei",
+    "3p": "arboresçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arboresças",
+    "3s": "não arboresça",
+    "1p": "não arboresçamos",
+    "2p": "não arboresçais",
+    "3p": "não arboresçam"
+  },
+  "Part-ter": {
+    "": "arborescido"
+  },
+  "Part-ser": {
+    "ms": "arborescido",
+    "fs": "arborescida",
+    "mp": "arborescidos",
+    "fp": "arborescidas"
+  }
+}

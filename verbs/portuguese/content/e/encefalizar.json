@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encefalizar"
+  },
+  "InfP": {
+    "1s": "encefalizar",
+    "2s": "encefalizares",
+    "3s": "encefalizar",
+    "1p": "encefalizarmos",
+    "2p": "encefalizardes",
+    "3p": "encefalizarem"
+  },
+  "Ger": {
+    "": "encefalizando"
+  },
+  "PresI": {
+    "1s": "encefalizo",
+    "2s": "encefalizas",
+    "3s": "encefaliza",
+    "1p": "encefalizamos",
+    "2p": "encefalizais",
+    "3p": "encefalizam"
+  },
+  "PImpI": {
+    "1s": "encefalizava",
+    "2s": "encefalizavas",
+    "3s": "encefalizava",
+    "1p": "encefalizávamos",
+    "2p": "encefalizáveis",
+    "3p": "encefalizavam"
+  },
+  "PPSI": {
+    "1s": "encefalizei",
+    "2s": "encefalizaste",
+    "3s": "encefalizou",
+    "1p": "encefalizámos",
+    "2p": "encefalizastes",
+    "3p": "encefalizaram"
+  },
+  "PMQPSI": {
+    "1s": "encefalizara",
+    "2s": "encefalizaras",
+    "3s": "encefalizara",
+    "1p": "encefalizáramos",
+    "2p": "encefalizáreis",
+    "3p": "encefalizaram"
+  },
+  "FutSI": {
+    "1s": "encefalizarei",
+    "2s": "encefalizarás",
+    "3s": "encefalizará",
+    "1p": "encefalizaremos",
+    "2p": "encefalizareis",
+    "3p": "encefalizarão"
+  },
+  "CondS": {
+    "1s": "encefalizaria",
+    "2s": "encefalizarias",
+    "3s": "encefalizaria",
+    "1p": "encefalizaríamos",
+    "2p": "encefalizaríeis",
+    "3p": "encefalizariam"
+  },
+  "PresC": {
+    "1s": "encefalize",
+    "2s": "encefalizes",
+    "3s": "encefalize",
+    "1p": "encefalizemos",
+    "2p": "encefalizeis",
+    "3p": "encefalizem"
+  },
+  "PImpC": {
+    "1s": "encefalizasse",
+    "2s": "encefalizasses",
+    "3s": "encefalizasse",
+    "1p": "encefalizássemos",
+    "2p": "encefalizásseis",
+    "3p": "encefalizassem"
+  },
+  "FutSC": {
+    "1s": "encefalizar",
+    "2s": "encefalizares",
+    "3s": "encefalizar",
+    "1p": "encefalizarmos",
+    "2p": "encefalizardes",
+    "3p": "encefalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encefaliza",
+    "3s": "encefalize",
+    "1p": "encefalizemos",
+    "2p": "encefalizai",
+    "3p": "encefalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encefalizes",
+    "3s": "não encefalize",
+    "1p": "não encefalizemos",
+    "2p": "não encefalizeis",
+    "3p": "não encefalizem"
+  },
+  "Part-ter": {
+    "": "encefalizado"
+  },
+  "Part-ser": {
+    "ms": "encefalizado",
+    "fs": "encefalizada",
+    "mp": "encefalizados",
+    "fp": "encefalizadas"
+  }
+}

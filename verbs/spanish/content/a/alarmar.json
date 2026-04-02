@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alarmar"
+  },
+  "Ger": {
+    "": "alarmando"
+  },
+  "PresI": {
+    "1s": "alarmo",
+    "2s": "alarmas",
+    "3s": "alarma",
+    "1p": "alarmamos",
+    "2p": "alarmáis",
+    "3p": "alarman"
+  },
+  "PImpI": {
+    "1s": "alarmaba",
+    "2s": "alarmabas",
+    "3s": "alarmaba",
+    "1p": "alarmábamos",
+    "2p": "alarmabais",
+    "3p": "alarmaban"
+  },
+  "PPSI": {
+    "1s": "alarmé",
+    "2s": "alarmaste",
+    "3s": "alarmó",
+    "1p": "alarmamos",
+    "2p": "alarmasteis",
+    "3p": "alarmaron"
+  },
+  "FutSI": {
+    "1s": "alarmaré",
+    "2s": "alarmarás",
+    "3s": "alarmará",
+    "1p": "alarmaremos",
+    "2p": "alarmaréis",
+    "3p": "alarmarán"
+  },
+  "CondS": {
+    "1s": "alarmaría",
+    "2s": "alarmarías",
+    "3s": "alarmaría",
+    "1p": "alarmaríamos",
+    "2p": "alarmaríais",
+    "3p": "alarmarían"
+  },
+  "PresC": {
+    "1s": "alarme",
+    "2s": "alarmes",
+    "3s": "alarme",
+    "1p": "alarmemos",
+    "2p": "alarméis",
+    "3p": "alarmen"
+  },
+  "PMQPSI": {
+    "1s": "alarmara",
+    "2s": "alarmaras",
+    "3s": "alarmara",
+    "1p": "alarmáramos",
+    "2p": "alarmarais",
+    "3p": "alarmaran"
+  },
+  "PImpC": {
+    "1s": "alarmase",
+    "2s": "alarmases",
+    "3s": "alarmase",
+    "1p": "alarmásemos",
+    "2p": "alarmaseis",
+    "3p": "alarmasen"
+  },
+  "FutSC": {
+    "1s": "alarmare",
+    "2s": "alarmares",
+    "3s": "alarmare",
+    "1p": "alarmáremos",
+    "2p": "alarmareis",
+    "3p": "alarmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alarma",
+    "3s": "alarme",
+    "1p": "alarmemos",
+    "2p": "alarmad",
+    "3p": "alarmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alarmes",
+    "3s": "no alarme",
+    "1p": "no alarmemos",
+    "2p": "no alarméis",
+    "3p": "no alarmen"
+  },
+  "Part-ter": {
+    "": "alarmado"
+  },
+  "Part-ser": {
+    "ms": "alarmado",
+    "fs": "alarmada",
+    "mp": "alarmados",
+    "fp": "alarmadas"
+  }
+}

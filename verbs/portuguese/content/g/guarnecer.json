@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "guarnecer"
+  },
+  "InfP": {
+    "1s": "guarnecer",
+    "2s": "guarneceres",
+    "3s": "guarnecer",
+    "1p": "guarnecermos",
+    "2p": "guarnecerdes",
+    "3p": "guarnecerem"
+  },
+  "Ger": {
+    "": "guarnecendo"
+  },
+  "PresI": {
+    "1s": "guarneço",
+    "2s": "guarneces",
+    "3s": "guarnece",
+    "1p": "guarnecemos",
+    "2p": "guarneceis",
+    "3p": "guarnecem"
+  },
+  "PImpI": {
+    "1s": "guarnecia",
+    "2s": "guarnecias",
+    "3s": "guarnecia",
+    "1p": "guarnecíamos",
+    "2p": "guarnecíeis",
+    "3p": "guarneciam"
+  },
+  "PPSI": {
+    "1s": "guarneci",
+    "2s": "guarneceste",
+    "3s": "guarneceu",
+    "1p": "guarnecemos",
+    "2p": "guarnecestes",
+    "3p": "guarneceram"
+  },
+  "PMQPSI": {
+    "1s": "guarnecera",
+    "2s": "guarneceras",
+    "3s": "guarnecera",
+    "1p": "guarnecêramos",
+    "2p": "guarnecêreis",
+    "3p": "guarneceram"
+  },
+  "FutSI": {
+    "1s": "guarnecerei",
+    "2s": "guarnecerás",
+    "3s": "guarnecerá",
+    "1p": "guarneceremos",
+    "2p": "guarnecereis",
+    "3p": "guarnecerão"
+  },
+  "CondS": {
+    "1s": "guarneceria",
+    "2s": "guarnecerias",
+    "3s": "guarneceria",
+    "1p": "guarneceríamos",
+    "2p": "guarneceríeis",
+    "3p": "guarneceriam"
+  },
+  "PresC": {
+    "1s": "guarneça",
+    "2s": "guarneças",
+    "3s": "guarneça",
+    "1p": "guarneçamos",
+    "2p": "guarneçais",
+    "3p": "guarneçam"
+  },
+  "PImpC": {
+    "1s": "guarnecesse",
+    "2s": "guarnecesses",
+    "3s": "guarnecesse",
+    "1p": "guarnecêssemos",
+    "2p": "guarnecêsseis",
+    "3p": "guarnecessem"
+  },
+  "FutSC": {
+    "1s": "guarnecer",
+    "2s": "guarneceres",
+    "3s": "guarnecer",
+    "1p": "guarnecermos",
+    "2p": "guarnecerdes",
+    "3p": "guarnecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guarnece",
+    "3s": "guarneça",
+    "1p": "guarneçamos",
+    "2p": "guarnecei",
+    "3p": "guarneçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não guarneças",
+    "3s": "não guarneça",
+    "1p": "não guarneçamos",
+    "2p": "não guarneçais",
+    "3p": "não guarneçam"
+  },
+  "Part-ter": {
+    "": "guarnecido"
+  },
+  "Part-ser": {
+    "ms": "guarnecido",
+    "fs": "guarnecida",
+    "mp": "guarnecidos",
+    "fp": "guarnecidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vetar"
+  },
+  "InfP": {
+    "1s": "vetar",
+    "2s": "vetares",
+    "3s": "vetar",
+    "1p": "vetarmos",
+    "2p": "vetardes",
+    "3p": "vetarem"
+  },
+  "Ger": {
+    "": "vetando"
+  },
+  "PresI": {
+    "1s": "veto",
+    "2s": "vetas",
+    "3s": "veta",
+    "1p": "vetamos",
+    "2p": "vetais",
+    "3p": "vetam"
+  },
+  "PImpI": {
+    "1s": "vetava",
+    "2s": "vetavas",
+    "3s": "vetava",
+    "1p": "vetávamos",
+    "2p": "vetáveis",
+    "3p": "vetavam"
+  },
+  "PPSI": {
+    "1s": "vetei",
+    "2s": "vetaste",
+    "3s": "vetou",
+    "1p": "vetámos",
+    "2p": "vetastes",
+    "3p": "vetaram"
+  },
+  "PMQPSI": {
+    "1s": "vetara",
+    "2s": "vetaras",
+    "3s": "vetara",
+    "1p": "vetáramos",
+    "2p": "vetáreis",
+    "3p": "vetaram"
+  },
+  "FutSI": {
+    "1s": "vetarei",
+    "2s": "vetarás",
+    "3s": "vetará",
+    "1p": "vetaremos",
+    "2p": "vetareis",
+    "3p": "vetarão"
+  },
+  "CondS": {
+    "1s": "vetaria",
+    "2s": "vetarias",
+    "3s": "vetaria",
+    "1p": "vetaríamos",
+    "2p": "vetaríeis",
+    "3p": "vetariam"
+  },
+  "PresC": {
+    "1s": "vete",
+    "2s": "vetes",
+    "3s": "vete",
+    "1p": "vetemos",
+    "2p": "veteis",
+    "3p": "vetem"
+  },
+  "PImpC": {
+    "1s": "vetasse",
+    "2s": "vetasses",
+    "3s": "vetasse",
+    "1p": "vetássemos",
+    "2p": "vetásseis",
+    "3p": "vetassem"
+  },
+  "FutSC": {
+    "1s": "vetar",
+    "2s": "vetares",
+    "3s": "vetar",
+    "1p": "vetarmos",
+    "2p": "vetardes",
+    "3p": "vetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "veta",
+    "3s": "vete",
+    "1p": "vetemos",
+    "2p": "vetai",
+    "3p": "vetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vetes",
+    "3s": "não vete",
+    "1p": "não vetemos",
+    "2p": "não veteis",
+    "3p": "não vetem"
+  },
+  "Part-ter": {
+    "": "vetado"
+  },
+  "Part-ser": {
+    "ms": "vetado",
+    "fs": "vetada",
+    "mp": "vetados",
+    "fp": "vetadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "prodigar"
+  },
+  "Ger": {
+    "": "prodigando"
+  },
+  "PresI": {
+    "1s": "prodigo",
+    "2s": "prodigas",
+    "3s": "prodiga",
+    "1p": "prodigamos",
+    "2p": "prodigáis",
+    "3p": "prodigan"
+  },
+  "PImpI": {
+    "1s": "prodigaba",
+    "2s": "prodigabas",
+    "3s": "prodigaba",
+    "1p": "prodigábamos",
+    "2p": "prodigabais",
+    "3p": "prodigaban"
+  },
+  "PPSI": {
+    "1s": "prodigué",
+    "2s": "prodigaste",
+    "3s": "prodigó",
+    "1p": "prodigamos",
+    "2p": "prodigasteis",
+    "3p": "prodigaron"
+  },
+  "FutSI": {
+    "1s": "prodigaré",
+    "2s": "prodigarás",
+    "3s": "prodigará",
+    "1p": "prodigaremos",
+    "2p": "prodigaréis",
+    "3p": "prodigarán"
+  },
+  "CondS": {
+    "1s": "prodigaría",
+    "2s": "prodigarías",
+    "3s": "prodigaría",
+    "1p": "prodigaríamos",
+    "2p": "prodigaríais",
+    "3p": "prodigarían"
+  },
+  "PresC": {
+    "1s": "prodigue",
+    "2s": "prodigues",
+    "3s": "prodigue",
+    "1p": "prodiguemos",
+    "2p": "prodiguéis",
+    "3p": "prodiguen"
+  },
+  "PMQPSI": {
+    "1s": "prodigara",
+    "2s": "prodigaras",
+    "3s": "prodigara",
+    "1p": "prodigáramos",
+    "2p": "prodigarais",
+    "3p": "prodigaran"
+  },
+  "PImpC": {
+    "1s": "prodigase",
+    "2s": "prodigases",
+    "3s": "prodigase",
+    "1p": "prodigásemos",
+    "2p": "prodigaseis",
+    "3p": "prodigasen"
+  },
+  "FutSC": {
+    "1s": "prodigare",
+    "2s": "prodigares",
+    "3s": "prodigare",
+    "1p": "prodigáremos",
+    "2p": "prodigareis",
+    "3p": "prodigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prodiga",
+    "3s": "prodigue",
+    "1p": "prodiguemos",
+    "2p": "prodigad",
+    "3p": "prodiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prodigues",
+    "3s": "no prodigue",
+    "1p": "no prodiguemos",
+    "2p": "no prodiguéis",
+    "3p": "no prodiguen"
+  },
+  "Part-ter": {
+    "": "prodigado"
+  },
+  "Part-ser": {
+    "ms": "prodigado",
+    "fs": "prodigada",
+    "mp": "prodigados",
+    "fp": "prodigadas"
+  }
+}

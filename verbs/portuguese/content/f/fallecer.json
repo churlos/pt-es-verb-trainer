@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fallecer"
+  },
+  "InfP": {
+    "1s": "fallecer",
+    "2s": "falleceres",
+    "3s": "fallecer",
+    "1p": "fallecermos",
+    "2p": "fallecerdes",
+    "3p": "fallecerem"
+  },
+  "Ger": {
+    "": "fallecendo"
+  },
+  "PresI": {
+    "1s": "falleço",
+    "2s": "falleces",
+    "3s": "fallece",
+    "1p": "fallecemos",
+    "2p": "falleceis",
+    "3p": "fallecem"
+  },
+  "PImpI": {
+    "1s": "fallecia",
+    "2s": "fallecias",
+    "3s": "fallecia",
+    "1p": "fallecíamos",
+    "2p": "fallecíeis",
+    "3p": "falleciam"
+  },
+  "PPSI": {
+    "1s": "falleci",
+    "2s": "falleceste",
+    "3s": "falleceu",
+    "1p": "fallecemos",
+    "2p": "fallecestes",
+    "3p": "falleceram"
+  },
+  "PMQPSI": {
+    "1s": "fallecera",
+    "2s": "falleceras",
+    "3s": "fallecera",
+    "1p": "fallecêramos",
+    "2p": "fallecêreis",
+    "3p": "falleceram"
+  },
+  "FutSI": {
+    "1s": "fallecerei",
+    "2s": "fallecerás",
+    "3s": "fallecerá",
+    "1p": "falleceremos",
+    "2p": "fallecereis",
+    "3p": "fallecerão"
+  },
+  "CondS": {
+    "1s": "falleceria",
+    "2s": "fallecerias",
+    "3s": "falleceria",
+    "1p": "falleceríamos",
+    "2p": "falleceríeis",
+    "3p": "falleceriam"
+  },
+  "PresC": {
+    "1s": "falleça",
+    "2s": "falleças",
+    "3s": "falleça",
+    "1p": "falleçamos",
+    "2p": "falleçais",
+    "3p": "falleçam"
+  },
+  "PImpC": {
+    "1s": "fallecesse",
+    "2s": "fallecesses",
+    "3s": "fallecesse",
+    "1p": "fallecêssemos",
+    "2p": "fallecêsseis",
+    "3p": "fallecessem"
+  },
+  "FutSC": {
+    "1s": "fallecer",
+    "2s": "falleceres",
+    "3s": "fallecer",
+    "1p": "fallecermos",
+    "2p": "fallecerdes",
+    "3p": "fallecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fallece",
+    "3s": "falleça",
+    "1p": "falleçamos",
+    "2p": "fallecei",
+    "3p": "falleçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não falleças",
+    "3s": "não falleça",
+    "1p": "não falleçamos",
+    "2p": "não falleçais",
+    "3p": "não falleçam"
+  },
+  "Part-ter": {
+    "": "fallecido"
+  },
+  "Part-ser": {
+    "ms": "fallecido",
+    "fs": "fallecida",
+    "mp": "fallecidos",
+    "fp": "fallecidas"
+  }
+}

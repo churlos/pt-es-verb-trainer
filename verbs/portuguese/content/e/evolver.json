@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "evolver"
+  },
+  "InfP": {
+    "1s": "evolver",
+    "2s": "evolveres",
+    "3s": "evolver",
+    "1p": "evolvermos",
+    "2p": "evolverdes",
+    "3p": "evolverem"
+  },
+  "Ger": {
+    "": "evolvendo"
+  },
+  "PresI": {
+    "1s": "evolvo",
+    "2s": "evolves",
+    "3s": "evolve",
+    "1p": "evolvemos",
+    "2p": "evolveis",
+    "3p": "evolvem"
+  },
+  "PImpI": {
+    "1s": "evolvia",
+    "2s": "evolvias",
+    "3s": "evolvia",
+    "1p": "evolvíamos",
+    "2p": "evolvíeis",
+    "3p": "evolviam"
+  },
+  "PPSI": {
+    "1s": "evolvi",
+    "2s": "evolveste",
+    "3s": "evolveu",
+    "1p": "evolvemos",
+    "2p": "evolvestes",
+    "3p": "evolveram"
+  },
+  "PMQPSI": {
+    "1s": "evolvera",
+    "2s": "evolveras",
+    "3s": "evolvera",
+    "1p": "evolvêramos",
+    "2p": "evolvêreis",
+    "3p": "evolveram"
+  },
+  "FutSI": {
+    "1s": "evolverei",
+    "2s": "evolverás",
+    "3s": "evolverá",
+    "1p": "evolveremos",
+    "2p": "evolvereis",
+    "3p": "evolverão"
+  },
+  "CondS": {
+    "1s": "evolveria",
+    "2s": "evolverias",
+    "3s": "evolveria",
+    "1p": "evolveríamos",
+    "2p": "evolveríeis",
+    "3p": "evolveriam"
+  },
+  "PresC": {
+    "1s": "evolva",
+    "2s": "evolvas",
+    "3s": "evolva",
+    "1p": "evolvamos",
+    "2p": "evolvais",
+    "3p": "evolvam"
+  },
+  "PImpC": {
+    "1s": "evolvesse",
+    "2s": "evolvesses",
+    "3s": "evolvesse",
+    "1p": "evolvêssemos",
+    "2p": "evolvêsseis",
+    "3p": "evolvessem"
+  },
+  "FutSC": {
+    "1s": "evolver",
+    "2s": "evolveres",
+    "3s": "evolver",
+    "1p": "evolvermos",
+    "2p": "evolverdes",
+    "3p": "evolverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evolve",
+    "3s": "evolva",
+    "1p": "evolvamos",
+    "2p": "evolvei",
+    "3p": "evolvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não evolvas",
+    "3s": "não evolva",
+    "1p": "não evolvamos",
+    "2p": "não evolvais",
+    "3p": "não evolvam"
+  },
+  "Part-ter": {
+    "": "evolvido"
+  },
+  "Part-ser": {
+    "ms": "evolvido",
+    "fs": "evolvida",
+    "mp": "evolvidos",
+    "fp": "evolvidas"
+  }
+}

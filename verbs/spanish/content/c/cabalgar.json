@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cabalgar"
+  },
+  "Ger": {
+    "": "cabalgando"
+  },
+  "PresI": {
+    "1s": "cabalgo",
+    "2s": "cabalgas",
+    "3s": "cabalga",
+    "1p": "cabalgamos",
+    "2p": "cabalgáis",
+    "3p": "cabalgan"
+  },
+  "PImpI": {
+    "1s": "cabalgaba",
+    "2s": "cabalgabas",
+    "3s": "cabalgaba",
+    "1p": "cabalgábamos",
+    "2p": "cabalgabais",
+    "3p": "cabalgaban"
+  },
+  "PPSI": {
+    "1s": "cabalgué",
+    "2s": "cabalgaste",
+    "3s": "cabalgó",
+    "1p": "cabalgamos",
+    "2p": "cabalgasteis",
+    "3p": "cabalgaron"
+  },
+  "FutSI": {
+    "1s": "cabalgaré",
+    "2s": "cabalgarás",
+    "3s": "cabalgará",
+    "1p": "cabalgaremos",
+    "2p": "cabalgaréis",
+    "3p": "cabalgarán"
+  },
+  "CondS": {
+    "1s": "cabalgaría",
+    "2s": "cabalgarías",
+    "3s": "cabalgaría",
+    "1p": "cabalgaríamos",
+    "2p": "cabalgaríais",
+    "3p": "cabalgarían"
+  },
+  "PresC": {
+    "1s": "cabalgue",
+    "2s": "cabalgues",
+    "3s": "cabalgue",
+    "1p": "cabalguemos",
+    "2p": "cabalguéis",
+    "3p": "cabalguen"
+  },
+  "PMQPSI": {
+    "1s": "cabalgara",
+    "2s": "cabalgaras",
+    "3s": "cabalgara",
+    "1p": "cabalgáramos",
+    "2p": "cabalgarais",
+    "3p": "cabalgaran"
+  },
+  "PImpC": {
+    "1s": "cabalgase",
+    "2s": "cabalgases",
+    "3s": "cabalgase",
+    "1p": "cabalgásemos",
+    "2p": "cabalgaseis",
+    "3p": "cabalgasen"
+  },
+  "FutSC": {
+    "1s": "cabalgare",
+    "2s": "cabalgares",
+    "3s": "cabalgare",
+    "1p": "cabalgáremos",
+    "2p": "cabalgareis",
+    "3p": "cabalgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cabalga",
+    "3s": "cabalgue",
+    "1p": "cabalguemos",
+    "2p": "cabalgad",
+    "3p": "cabalguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cabalgues",
+    "3s": "no cabalgue",
+    "1p": "no cabalguemos",
+    "2p": "no cabalguéis",
+    "3p": "no cabalguen"
+  },
+  "Part-ter": {
+    "": "cabalgado"
+  },
+  "Part-ser": {
+    "ms": "cabalgado",
+    "fs": "cabalgada",
+    "mp": "cabalgados",
+    "fp": "cabalgadas"
+  }
+}

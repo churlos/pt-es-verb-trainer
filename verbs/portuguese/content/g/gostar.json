@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gostar"
+  },
+  "InfP": {
+    "1s": "gostar",
+    "2s": "gostares",
+    "3s": "gostar",
+    "1p": "gostarmos",
+    "2p": "gostardes",
+    "3p": "gostarem"
+  },
+  "Ger": {
+    "": "gostando"
+  },
+  "PresI": {
+    "1s": "gosto",
+    "2s": "gostas",
+    "3s": "gosta",
+    "1p": "gostamos",
+    "2p": "gostais",
+    "3p": "gostam"
+  },
+  "PImpI": {
+    "1s": "gostava",
+    "2s": "gostavas",
+    "3s": "gostava",
+    "1p": "gostávamos",
+    "2p": "gostáveis",
+    "3p": "gostavam"
+  },
+  "PPSI": {
+    "1s": "gostei",
+    "2s": "gostaste",
+    "3s": "gostou",
+    "1p": "gostámos",
+    "2p": "gostastes",
+    "3p": "gostaram"
+  },
+  "PMQPSI": {
+    "1s": "gostara",
+    "2s": "gostaras",
+    "3s": "gostara",
+    "1p": "gostáramos",
+    "2p": "gostáreis",
+    "3p": "gostaram"
+  },
+  "FutSI": {
+    "1s": "gostarei",
+    "2s": "gostarás",
+    "3s": "gostará",
+    "1p": "gostaremos",
+    "2p": "gostareis",
+    "3p": "gostarão"
+  },
+  "CondS": {
+    "1s": "gostaria",
+    "2s": "gostarias",
+    "3s": "gostaria",
+    "1p": "gostaríamos",
+    "2p": "gostaríeis",
+    "3p": "gostariam"
+  },
+  "PresC": {
+    "1s": "goste",
+    "2s": "gostes",
+    "3s": "goste",
+    "1p": "gostemos",
+    "2p": "gosteis",
+    "3p": "gostem"
+  },
+  "PImpC": {
+    "1s": "gostasse",
+    "2s": "gostasses",
+    "3s": "gostasse",
+    "1p": "gostássemos",
+    "2p": "gostásseis",
+    "3p": "gostassem"
+  },
+  "FutSC": {
+    "1s": "gostar",
+    "2s": "gostares",
+    "3s": "gostar",
+    "1p": "gostarmos",
+    "2p": "gostardes",
+    "3p": "gostarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gosta",
+    "3s": "goste",
+    "1p": "gostemos",
+    "2p": "gostai",
+    "3p": "gostem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gostes",
+    "3s": "não goste",
+    "1p": "não gostemos",
+    "2p": "não gosteis",
+    "3p": "não gostem"
+  },
+  "Part-ter": {
+    "": "gostado"
+  },
+  "Part-ser": {
+    "ms": "gostado",
+    "fs": "gostada",
+    "mp": "gostados",
+    "fp": "gostadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "obrigar"
+  },
+  "InfP": {
+    "1s": "obrigar",
+    "2s": "obrigares",
+    "3s": "obrigar",
+    "1p": "obrigarmos",
+    "2p": "obrigardes",
+    "3p": "obrigarem"
+  },
+  "Ger": {
+    "": "obrigando"
+  },
+  "PresI": {
+    "1s": "obrigo",
+    "2s": "obrigas",
+    "3s": "obriga",
+    "1p": "obrigamos",
+    "2p": "obrigais",
+    "3p": "obrigam"
+  },
+  "PImpI": {
+    "1s": "obrigava",
+    "2s": "obrigavas",
+    "3s": "obrigava",
+    "1p": "obrigávamos",
+    "2p": "obrigáveis",
+    "3p": "obrigavam"
+  },
+  "PPSI": {
+    "1s": "obriguei",
+    "2s": "obrigaste",
+    "3s": "obrigou",
+    "1p": "obrigámos",
+    "2p": "obrigastes",
+    "3p": "obrigaram"
+  },
+  "PMQPSI": {
+    "1s": "obrigara",
+    "2s": "obrigaras",
+    "3s": "obrigara",
+    "1p": "obrigáramos",
+    "2p": "obrigáreis",
+    "3p": "obrigaram"
+  },
+  "FutSI": {
+    "1s": "obrigarei",
+    "2s": "obrigarás",
+    "3s": "obrigará",
+    "1p": "obrigaremos",
+    "2p": "obrigareis",
+    "3p": "obrigarão"
+  },
+  "CondS": {
+    "1s": "obrigaria",
+    "2s": "obrigarias",
+    "3s": "obrigaria",
+    "1p": "obrigaríamos",
+    "2p": "obrigaríeis",
+    "3p": "obrigariam"
+  },
+  "PresC": {
+    "1s": "obrigue",
+    "2s": "obrigues",
+    "3s": "obrigue",
+    "1p": "obriguemos",
+    "2p": "obrigueis",
+    "3p": "obriguem"
+  },
+  "PImpC": {
+    "1s": "obrigasse",
+    "2s": "obrigasses",
+    "3s": "obrigasse",
+    "1p": "obrigássemos",
+    "2p": "obrigásseis",
+    "3p": "obrigassem"
+  },
+  "FutSC": {
+    "1s": "obrigar",
+    "2s": "obrigares",
+    "3s": "obrigar",
+    "1p": "obrigarmos",
+    "2p": "obrigardes",
+    "3p": "obrigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "obriga",
+    "3s": "obrigue",
+    "1p": "obriguemos",
+    "2p": "obrigai",
+    "3p": "obriguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não obrigues",
+    "3s": "não obrigue",
+    "1p": "não obriguemos",
+    "2p": "não obrigueis",
+    "3p": "não obriguem"
+  },
+  "Part-ter": {
+    "": "obrigado"
+  },
+  "Part-ser": {
+    "ms": "obrigado",
+    "fs": "obrigada",
+    "mp": "obrigados",
+    "fp": "obrigadas"
+  }
+}

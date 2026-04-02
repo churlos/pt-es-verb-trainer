@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gerenciar"
+  },
+  "InfP": {
+    "1s": "gerenciar",
+    "2s": "gerenciares",
+    "3s": "gerenciar",
+    "1p": "gerenciarmos",
+    "2p": "gerenciardes",
+    "3p": "gerenciarem"
+  },
+  "Ger": {
+    "": "gerenciando"
+  },
+  "PresI": {
+    "1s": "gerencio",
+    "2s": "gerencias",
+    "3s": "gerencia",
+    "1p": "gerenciamos",
+    "2p": "gerenciais",
+    "3p": "gerenciam"
+  },
+  "PImpI": {
+    "1s": "gerenciava",
+    "2s": "gerenciavas",
+    "3s": "gerenciava",
+    "1p": "gerenciávamos",
+    "2p": "gerenciáveis",
+    "3p": "gerenciavam"
+  },
+  "PPSI": {
+    "1s": "gerenciei",
+    "2s": "gerenciaste",
+    "3s": "gerenciou",
+    "1p": "gerenciámos",
+    "2p": "gerenciastes",
+    "3p": "gerenciaram"
+  },
+  "PMQPSI": {
+    "1s": "gerenciara",
+    "2s": "gerenciaras",
+    "3s": "gerenciara",
+    "1p": "gerenciáramos",
+    "2p": "gerenciáreis",
+    "3p": "gerenciaram"
+  },
+  "FutSI": {
+    "1s": "gerenciarei",
+    "2s": "gerenciarás",
+    "3s": "gerenciará",
+    "1p": "gerenciaremos",
+    "2p": "gerenciareis",
+    "3p": "gerenciarão"
+  },
+  "CondS": {
+    "1s": "gerenciaria",
+    "2s": "gerenciarias",
+    "3s": "gerenciaria",
+    "1p": "gerenciaríamos",
+    "2p": "gerenciaríeis",
+    "3p": "gerenciariam"
+  },
+  "PresC": {
+    "1s": "gerencie",
+    "2s": "gerencies",
+    "3s": "gerencie",
+    "1p": "gerenciemos",
+    "2p": "gerencieis",
+    "3p": "gerenciem"
+  },
+  "PImpC": {
+    "1s": "gerenciasse",
+    "2s": "gerenciasses",
+    "3s": "gerenciasse",
+    "1p": "gerenciássemos",
+    "2p": "gerenciásseis",
+    "3p": "gerenciassem"
+  },
+  "FutSC": {
+    "1s": "gerenciar",
+    "2s": "gerenciares",
+    "3s": "gerenciar",
+    "1p": "gerenciarmos",
+    "2p": "gerenciardes",
+    "3p": "gerenciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gerencia",
+    "3s": "gerencie",
+    "1p": "gerenciemos",
+    "2p": "gerenciai",
+    "3p": "gerenciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gerencies",
+    "3s": "não gerencie",
+    "1p": "não gerenciemos",
+    "2p": "não gerencieis",
+    "3p": "não gerenciem"
+  },
+  "Part-ter": {
+    "": "gerenciado"
+  },
+  "Part-ser": {
+    "ms": "gerenciado",
+    "fs": "gerenciada",
+    "mp": "gerenciados",
+    "fp": "gerenciadas"
+  }
+}

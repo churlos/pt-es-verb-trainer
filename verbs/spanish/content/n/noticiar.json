@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "noticiar"
+  },
+  "Ger": {
+    "": "noticiando"
+  },
+  "PresI": {
+    "1s": "noticio",
+    "2s": "noticias",
+    "3s": "noticia",
+    "1p": "noticiamos",
+    "2p": "noticiáis",
+    "3p": "notician"
+  },
+  "PImpI": {
+    "1s": "noticiaba",
+    "2s": "noticiabas",
+    "3s": "noticiaba",
+    "1p": "noticiábamos",
+    "2p": "noticiabais",
+    "3p": "noticiaban"
+  },
+  "PPSI": {
+    "1s": "noticié",
+    "2s": "noticiaste",
+    "3s": "notició",
+    "1p": "noticiamos",
+    "2p": "noticiasteis",
+    "3p": "noticiaron"
+  },
+  "FutSI": {
+    "1s": "noticiaré",
+    "2s": "noticiarás",
+    "3s": "noticiará",
+    "1p": "noticiaremos",
+    "2p": "noticiaréis",
+    "3p": "noticiarán"
+  },
+  "CondS": {
+    "1s": "noticiaría",
+    "2s": "noticiarías",
+    "3s": "noticiaría",
+    "1p": "noticiaríamos",
+    "2p": "noticiaríais",
+    "3p": "noticiarían"
+  },
+  "PresC": {
+    "1s": "noticie",
+    "2s": "noticies",
+    "3s": "noticie",
+    "1p": "noticiemos",
+    "2p": "noticiéis",
+    "3p": "noticien"
+  },
+  "PMQPSI": {
+    "1s": "noticiara",
+    "2s": "noticiaras",
+    "3s": "noticiara",
+    "1p": "noticiáramos",
+    "2p": "noticiarais",
+    "3p": "noticiaran"
+  },
+  "PImpC": {
+    "1s": "noticiase",
+    "2s": "noticiases",
+    "3s": "noticiase",
+    "1p": "noticiásemos",
+    "2p": "noticiaseis",
+    "3p": "noticiasen"
+  },
+  "FutSC": {
+    "1s": "noticiare",
+    "2s": "noticiares",
+    "3s": "noticiare",
+    "1p": "noticiáremos",
+    "2p": "noticiareis",
+    "3p": "noticiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "noticia",
+    "3s": "noticie",
+    "1p": "noticiemos",
+    "2p": "noticiad",
+    "3p": "noticien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no noticies",
+    "3s": "no noticie",
+    "1p": "no noticiemos",
+    "2p": "no noticiéis",
+    "3p": "no noticien"
+  },
+  "Part-ter": {
+    "": "noticiado"
+  },
+  "Part-ser": {
+    "ms": "noticiado",
+    "fs": "noticiada",
+    "mp": "noticiados",
+    "fp": "noticiadas"
+  }
+}

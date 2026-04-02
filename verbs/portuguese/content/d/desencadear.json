@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desencadear"
+  },
+  "InfP": {
+    "1s": "desencadear",
+    "2s": "desencadeares",
+    "3s": "desencadear",
+    "1p": "desencadearmos",
+    "2p": "desencadeardes",
+    "3p": "desencadearem"
+  },
+  "Ger": {
+    "": "desencadeando"
+  },
+  "PresI": {
+    "1s": "desencadeio",
+    "2s": "desencadeias",
+    "3s": "desencadeia",
+    "1p": "desencadeamos",
+    "2p": "desencadeais",
+    "3p": "desencadeiam"
+  },
+  "PImpI": {
+    "1s": "desencadeava",
+    "2s": "desencadeavas",
+    "3s": "desencadeava",
+    "1p": "desencadeávamos",
+    "2p": "desencadeáveis",
+    "3p": "desencadeavam"
+  },
+  "PPSI": {
+    "1s": "desencadeei",
+    "2s": "desencadeaste",
+    "3s": "desencadeou",
+    "1p": "desencadeámos",
+    "2p": "desencadeastes",
+    "3p": "desencadearam"
+  },
+  "PMQPSI": {
+    "1s": "desencadeara",
+    "2s": "desencadearas",
+    "3s": "desencadeara",
+    "1p": "desencadeáramos",
+    "2p": "desencadeáreis",
+    "3p": "desencadearam"
+  },
+  "FutSI": {
+    "1s": "desencadearei",
+    "2s": "desencadearás",
+    "3s": "desencadeará",
+    "1p": "desencadearemos",
+    "2p": "desencadeareis",
+    "3p": "desencadearão"
+  },
+  "CondS": {
+    "1s": "desencadearia",
+    "2s": "desencadearias",
+    "3s": "desencadearia",
+    "1p": "desencadearíamos",
+    "2p": "desencadearíeis",
+    "3p": "desencadeariam"
+  },
+  "PresC": {
+    "1s": "desencadeie",
+    "2s": "desencadeies",
+    "3s": "desencadeie",
+    "1p": "desencadeemos",
+    "2p": "desencadeeis",
+    "3p": "desencadeiem"
+  },
+  "PImpC": {
+    "1s": "desencadeasse",
+    "2s": "desencadeasses",
+    "3s": "desencadeasse",
+    "1p": "desencadeássemos",
+    "2p": "desencadeásseis",
+    "3p": "desencadeassem"
+  },
+  "FutSC": {
+    "1s": "desencadear",
+    "2s": "desencadeares",
+    "3s": "desencadear",
+    "1p": "desencadearmos",
+    "2p": "desencadeardes",
+    "3p": "desencadearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desencadeia",
+    "3s": "desencadeie",
+    "1p": "desencadeemos",
+    "2p": "desencadeai",
+    "3p": "desencadeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desencadeies",
+    "3s": "não desencadeie",
+    "1p": "não desencadeemos",
+    "2p": "não desencadeeis",
+    "3p": "não desencadeiem"
+  },
+  "Part-ter": {
+    "": "desencadeado"
+  },
+  "Part-ser": {
+    "ms": "desencadeado",
+    "fs": "desencadeada",
+    "mp": "desencadeados",
+    "fp": "desencadeadas"
+  }
+}

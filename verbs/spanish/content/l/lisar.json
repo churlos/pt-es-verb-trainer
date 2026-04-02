@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lisar"
+  },
+  "Ger": {
+    "": "lisando"
+  },
+  "PresI": {
+    "1s": "liso",
+    "2s": "lisas",
+    "3s": "lisa",
+    "1p": "lisamos",
+    "2p": "lisáis",
+    "3p": "lisan"
+  },
+  "PImpI": {
+    "1s": "lisaba",
+    "2s": "lisabas",
+    "3s": "lisaba",
+    "1p": "lisábamos",
+    "2p": "lisabais",
+    "3p": "lisaban"
+  },
+  "PPSI": {
+    "1s": "lisé",
+    "2s": "lisaste",
+    "3s": "lisó",
+    "1p": "lisamos",
+    "2p": "lisasteis",
+    "3p": "lisaron"
+  },
+  "FutSI": {
+    "1s": "lisaré",
+    "2s": "lisarás",
+    "3s": "lisará",
+    "1p": "lisaremos",
+    "2p": "lisaréis",
+    "3p": "lisarán"
+  },
+  "CondS": {
+    "1s": "lisaría",
+    "2s": "lisarías",
+    "3s": "lisaría",
+    "1p": "lisaríamos",
+    "2p": "lisaríais",
+    "3p": "lisarían"
+  },
+  "PresC": {
+    "1s": "lise",
+    "2s": "lises",
+    "3s": "lise",
+    "1p": "lisemos",
+    "2p": "liséis",
+    "3p": "lisen"
+  },
+  "PMQPSI": {
+    "1s": "lisara",
+    "2s": "lisaras",
+    "3s": "lisara",
+    "1p": "lisáramos",
+    "2p": "lisarais",
+    "3p": "lisaran"
+  },
+  "PImpC": {
+    "1s": "lisase",
+    "2s": "lisases",
+    "3s": "lisase",
+    "1p": "lisásemos",
+    "2p": "lisaseis",
+    "3p": "lisasen"
+  },
+  "FutSC": {
+    "1s": "lisare",
+    "2s": "lisares",
+    "3s": "lisare",
+    "1p": "lisáremos",
+    "2p": "lisareis",
+    "3p": "lisaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lisa",
+    "3s": "lise",
+    "1p": "lisemos",
+    "2p": "lisad",
+    "3p": "lisen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lises",
+    "3s": "no lise",
+    "1p": "no lisemos",
+    "2p": "no liséis",
+    "3p": "no lisen"
+  },
+  "Part-ter": {
+    "": "lisado"
+  },
+  "Part-ser": {
+    "ms": "lisado",
+    "fs": "lisada",
+    "mp": "lisados",
+    "fp": "lisadas"
+  }
+}

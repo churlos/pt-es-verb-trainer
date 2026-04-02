@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estallar"
+  },
+  "Ger": {
+    "": "estallando"
+  },
+  "PresI": {
+    "1s": "estallo",
+    "2s": "estallas",
+    "3s": "estalla",
+    "1p": "estallamos",
+    "2p": "estalláis",
+    "3p": "estallan"
+  },
+  "PImpI": {
+    "1s": "estallaba",
+    "2s": "estallabas",
+    "3s": "estallaba",
+    "1p": "estallábamos",
+    "2p": "estallabais",
+    "3p": "estallaban"
+  },
+  "PPSI": {
+    "1s": "estallé",
+    "2s": "estallaste",
+    "3s": "estalló",
+    "1p": "estallamos",
+    "2p": "estallasteis",
+    "3p": "estallaron"
+  },
+  "FutSI": {
+    "1s": "estallaré",
+    "2s": "estallarás",
+    "3s": "estallará",
+    "1p": "estallaremos",
+    "2p": "estallaréis",
+    "3p": "estallarán"
+  },
+  "CondS": {
+    "1s": "estallaría",
+    "2s": "estallarías",
+    "3s": "estallaría",
+    "1p": "estallaríamos",
+    "2p": "estallaríais",
+    "3p": "estallarían"
+  },
+  "PresC": {
+    "1s": "estalle",
+    "2s": "estalles",
+    "3s": "estalle",
+    "1p": "estallemos",
+    "2p": "estalléis",
+    "3p": "estallen"
+  },
+  "PMQPSI": {
+    "1s": "estallara",
+    "2s": "estallaras",
+    "3s": "estallara",
+    "1p": "estalláramos",
+    "2p": "estallarais",
+    "3p": "estallaran"
+  },
+  "PImpC": {
+    "1s": "estallase",
+    "2s": "estallases",
+    "3s": "estallase",
+    "1p": "estallásemos",
+    "2p": "estallaseis",
+    "3p": "estallasen"
+  },
+  "FutSC": {
+    "1s": "estallare",
+    "2s": "estallares",
+    "3s": "estallare",
+    "1p": "estalláremos",
+    "2p": "estallareis",
+    "3p": "estallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estalla",
+    "3s": "estalle",
+    "1p": "estallemos",
+    "2p": "estallad",
+    "3p": "estallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estalles",
+    "3s": "no estalle",
+    "1p": "no estallemos",
+    "2p": "no estalléis",
+    "3p": "no estallen"
+  },
+  "Part-ter": {
+    "": "estallado"
+  },
+  "Part-ser": {
+    "ms": "estallado",
+    "fs": "estallada",
+    "mp": "estallados",
+    "fp": "estalladas"
+  }
+}

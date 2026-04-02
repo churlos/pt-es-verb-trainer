@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "decorrer"
+  },
+  "InfP": {
+    "1s": "decorrer",
+    "2s": "decorreres",
+    "3s": "decorrer",
+    "1p": "decorrermos",
+    "2p": "decorrerdes",
+    "3p": "decorrerem"
+  },
+  "Ger": {
+    "": "decorrendo"
+  },
+  "PresI": {
+    "1s": "decorro",
+    "2s": "decorres",
+    "3s": "decorre",
+    "1p": "decorremos",
+    "2p": "decorreis",
+    "3p": "decorrem"
+  },
+  "PImpI": {
+    "1s": "decorria",
+    "2s": "decorrias",
+    "3s": "decorria",
+    "1p": "decorríamos",
+    "2p": "decorríeis",
+    "3p": "decorriam"
+  },
+  "PPSI": {
+    "1s": "decorri",
+    "2s": "decorreste",
+    "3s": "decorreu",
+    "1p": "decorremos",
+    "2p": "decorrestes",
+    "3p": "decorreram"
+  },
+  "PMQPSI": {
+    "1s": "decorrera",
+    "2s": "decorreras",
+    "3s": "decorrera",
+    "1p": "decorrêramos",
+    "2p": "decorrêreis",
+    "3p": "decorreram"
+  },
+  "FutSI": {
+    "1s": "decorrerei",
+    "2s": "decorrerás",
+    "3s": "decorrerá",
+    "1p": "decorreremos",
+    "2p": "decorrereis",
+    "3p": "decorrerão"
+  },
+  "CondS": {
+    "1s": "decorreria",
+    "2s": "decorrerias",
+    "3s": "decorreria",
+    "1p": "decorreríamos",
+    "2p": "decorreríeis",
+    "3p": "decorreriam"
+  },
+  "PresC": {
+    "1s": "decorra",
+    "2s": "decorras",
+    "3s": "decorra",
+    "1p": "decorramos",
+    "2p": "decorrais",
+    "3p": "decorram"
+  },
+  "PImpC": {
+    "1s": "decorresse",
+    "2s": "decorresses",
+    "3s": "decorresse",
+    "1p": "decorrêssemos",
+    "2p": "decorrêsseis",
+    "3p": "decorressem"
+  },
+  "FutSC": {
+    "1s": "decorrer",
+    "2s": "decorreres",
+    "3s": "decorrer",
+    "1p": "decorrermos",
+    "2p": "decorrerdes",
+    "3p": "decorrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decorre",
+    "3s": "decorra",
+    "1p": "decorramos",
+    "2p": "decorrei",
+    "3p": "decorram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não decorras",
+    "3s": "não decorra",
+    "1p": "não decorramos",
+    "2p": "não decorrais",
+    "3p": "não decorram"
+  },
+  "Part-ter": {
+    "": "decorrido"
+  },
+  "Part-ser": {
+    "ms": "decorrido",
+    "fs": "decorrida",
+    "mp": "decorridos",
+    "fp": "decorridas"
+  }
+}

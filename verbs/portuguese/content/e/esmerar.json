@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esmerar"
+  },
+  "InfP": {
+    "1s": "esmerar",
+    "2s": "esmerares",
+    "3s": "esmerar",
+    "1p": "esmerarmos",
+    "2p": "esmerardes",
+    "3p": "esmerarem"
+  },
+  "Ger": {
+    "": "esmerando"
+  },
+  "PresI": {
+    "1s": "esmero",
+    "2s": "esmeras",
+    "3s": "esmera",
+    "1p": "esmeramos",
+    "2p": "esmerais",
+    "3p": "esmeram"
+  },
+  "PImpI": {
+    "1s": "esmerava",
+    "2s": "esmeravas",
+    "3s": "esmerava",
+    "1p": "esmerávamos",
+    "2p": "esmeráveis",
+    "3p": "esmeravam"
+  },
+  "PPSI": {
+    "1s": "esmerei",
+    "2s": "esmeraste",
+    "3s": "esmerou",
+    "1p": "esmerámos",
+    "2p": "esmerastes",
+    "3p": "esmeraram"
+  },
+  "PMQPSI": {
+    "1s": "esmerara",
+    "2s": "esmeraras",
+    "3s": "esmerara",
+    "1p": "esmeráramos",
+    "2p": "esmeráreis",
+    "3p": "esmeraram"
+  },
+  "FutSI": {
+    "1s": "esmerarei",
+    "2s": "esmerarás",
+    "3s": "esmerará",
+    "1p": "esmeraremos",
+    "2p": "esmerareis",
+    "3p": "esmerarão"
+  },
+  "CondS": {
+    "1s": "esmeraria",
+    "2s": "esmerarias",
+    "3s": "esmeraria",
+    "1p": "esmeraríamos",
+    "2p": "esmeraríeis",
+    "3p": "esmerariam"
+  },
+  "PresC": {
+    "1s": "esmere",
+    "2s": "esmeres",
+    "3s": "esmere",
+    "1p": "esmeremos",
+    "2p": "esmereis",
+    "3p": "esmerem"
+  },
+  "PImpC": {
+    "1s": "esmerasse",
+    "2s": "esmerasses",
+    "3s": "esmerasse",
+    "1p": "esmerássemos",
+    "2p": "esmerásseis",
+    "3p": "esmerassem"
+  },
+  "FutSC": {
+    "1s": "esmerar",
+    "2s": "esmerares",
+    "3s": "esmerar",
+    "1p": "esmerarmos",
+    "2p": "esmerardes",
+    "3p": "esmerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esmera",
+    "3s": "esmere",
+    "1p": "esmeremos",
+    "2p": "esmerai",
+    "3p": "esmerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esmeres",
+    "3s": "não esmere",
+    "1p": "não esmeremos",
+    "2p": "não esmereis",
+    "3p": "não esmerem"
+  },
+  "Part-ter": {
+    "": "esmerado"
+  },
+  "Part-ser": {
+    "ms": "esmerado",
+    "fs": "esmerada",
+    "mp": "esmerados",
+    "fp": "esmeradas"
+  }
+}

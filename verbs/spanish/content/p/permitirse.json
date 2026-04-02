@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "permitirse"
+  },
+  "Ger": {
+    "": "permitiéndose"
+  },
+  "PresI": {
+    "1s": "me permito",
+    "2s": "te permites",
+    "3s": "se permite",
+    "1p": "nos permitimos",
+    "2p": "os permitís",
+    "3p": "se permiten"
+  },
+  "PImpI": {
+    "1s": "me permitía",
+    "2s": "te permitías",
+    "3s": "se permitía",
+    "1p": "nos permitíamos",
+    "2p": "os permitíais",
+    "3p": "se permitían"
+  },
+  "PPSI": {
+    "1s": "me permití",
+    "2s": "te permitiste",
+    "3s": "se permitió",
+    "1p": "nos permitimos",
+    "2p": "os permitisteis",
+    "3p": "se permitieron"
+  },
+  "FutSI": {
+    "1s": "me permitiré",
+    "2s": "te permitirás",
+    "3s": "se permitirá",
+    "1p": "nos permitiremos",
+    "2p": "os permitiréis",
+    "3p": "se permitirán"
+  },
+  "CondS": {
+    "1s": "me permitiría",
+    "2s": "te permitirías",
+    "3s": "se permitiría",
+    "1p": "nos permitiríamos",
+    "2p": "os permitiríais",
+    "3p": "se permitirían"
+  },
+  "PresC": {
+    "1s": "me permita",
+    "2s": "te permitas",
+    "3s": "se permita",
+    "1p": "nos permitamos",
+    "2p": "os permitáis",
+    "3p": "se permitan"
+  },
+  "PMQPSI": {
+    "1s": "me permitiera",
+    "2s": "te permitieras",
+    "3s": "se permitiera",
+    "1p": "nos permitiéramos",
+    "2p": "os permitierais",
+    "3p": "se permitieran"
+  },
+  "PImpC": {
+    "1s": "me permitiese",
+    "2s": "te permitieses",
+    "3s": "se permitiese",
+    "1p": "nos permitiésemos",
+    "2p": "os permitieseis",
+    "3p": "se permitiesen"
+  },
+  "FutSC": {
+    "1s": "me permitiere",
+    "2s": "te permitieres",
+    "3s": "se permitiere",
+    "1p": "nos permitiéremos",
+    "2p": "os permitiereis",
+    "3p": "se permitieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "permítete",
+    "3s": "permítase",
+    "1p": "permitámonos",
+    "2p": "permitíos",
+    "3p": "permítanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te permitas",
+    "3s": "no se permita",
+    "1p": "no nos permitamos",
+    "2p": "no os permitáis",
+    "3p": "no se permitan"
+  },
+  "Part-ter": {
+    "": "permitido"
+  },
+  "Part-ser": {
+    "ms": "permitido",
+    "fs": "permitida",
+    "mp": "permitidos",
+    "fp": "permitidas"
+  }
+}

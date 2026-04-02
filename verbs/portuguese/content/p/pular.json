@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pular"
+  },
+  "InfP": {
+    "1s": "pular",
+    "2s": "pulares",
+    "3s": "pular",
+    "1p": "pularmos",
+    "2p": "pulardes",
+    "3p": "pularem"
+  },
+  "Ger": {
+    "": "pulando"
+  },
+  "PresI": {
+    "1s": "pulo",
+    "2s": "pulas",
+    "3s": "pula",
+    "1p": "pulamos",
+    "2p": "pulais",
+    "3p": "pulam"
+  },
+  "PImpI": {
+    "1s": "pulava",
+    "2s": "pulavas",
+    "3s": "pulava",
+    "1p": "pulávamos",
+    "2p": "puláveis",
+    "3p": "pulavam"
+  },
+  "PPSI": {
+    "1s": "pulei",
+    "2s": "pulaste",
+    "3s": "pulou",
+    "1p": "pulámos",
+    "2p": "pulastes",
+    "3p": "pularam"
+  },
+  "PMQPSI": {
+    "1s": "pulara",
+    "2s": "pularas",
+    "3s": "pulara",
+    "1p": "puláramos",
+    "2p": "puláreis",
+    "3p": "pularam"
+  },
+  "FutSI": {
+    "1s": "pularei",
+    "2s": "pularás",
+    "3s": "pulará",
+    "1p": "pularemos",
+    "2p": "pulareis",
+    "3p": "pularão"
+  },
+  "CondS": {
+    "1s": "pularia",
+    "2s": "pularias",
+    "3s": "pularia",
+    "1p": "pularíamos",
+    "2p": "pularíeis",
+    "3p": "pulariam"
+  },
+  "PresC": {
+    "1s": "pule",
+    "2s": "pules",
+    "3s": "pule",
+    "1p": "pulemos",
+    "2p": "puleis",
+    "3p": "pulem"
+  },
+  "PImpC": {
+    "1s": "pulasse",
+    "2s": "pulasses",
+    "3s": "pulasse",
+    "1p": "pulássemos",
+    "2p": "pulásseis",
+    "3p": "pulassem"
+  },
+  "FutSC": {
+    "1s": "pular",
+    "2s": "pulares",
+    "3s": "pular",
+    "1p": "pularmos",
+    "2p": "pulardes",
+    "3p": "pularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pula",
+    "3s": "pule",
+    "1p": "pulemos",
+    "2p": "pulai",
+    "3p": "pulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pules",
+    "3s": "não pule",
+    "1p": "não pulemos",
+    "2p": "não puleis",
+    "3p": "não pulem"
+  },
+  "Part-ter": {
+    "": "pulado"
+  },
+  "Part-ser": {
+    "ms": "pulado",
+    "fs": "pulada",
+    "mp": "pulados",
+    "fp": "puladas"
+  }
+}

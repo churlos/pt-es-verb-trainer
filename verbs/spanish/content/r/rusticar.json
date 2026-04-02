@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rusticar"
+  },
+  "Ger": {
+    "": "rusticando"
+  },
+  "PresI": {
+    "1s": "rustico",
+    "2s": "rusticas",
+    "3s": "rustica",
+    "1p": "rusticamos",
+    "2p": "rusticáis",
+    "3p": "rustican"
+  },
+  "PImpI": {
+    "1s": "rusticaba",
+    "2s": "rusticabas",
+    "3s": "rusticaba",
+    "1p": "rusticábamos",
+    "2p": "rusticabais",
+    "3p": "rusticaban"
+  },
+  "PPSI": {
+    "1s": "rustiqué",
+    "2s": "rusticaste",
+    "3s": "rusticó",
+    "1p": "rusticamos",
+    "2p": "rusticasteis",
+    "3p": "rusticaron"
+  },
+  "FutSI": {
+    "1s": "rusticaré",
+    "2s": "rusticarás",
+    "3s": "rusticará",
+    "1p": "rusticaremos",
+    "2p": "rusticaréis",
+    "3p": "rusticarán"
+  },
+  "CondS": {
+    "1s": "rusticaría",
+    "2s": "rusticarías",
+    "3s": "rusticaría",
+    "1p": "rusticaríamos",
+    "2p": "rusticaríais",
+    "3p": "rusticarían"
+  },
+  "PresC": {
+    "1s": "rustique",
+    "2s": "rustiques",
+    "3s": "rustique",
+    "1p": "rustiquemos",
+    "2p": "rustiquéis",
+    "3p": "rustiquen"
+  },
+  "PMQPSI": {
+    "1s": "rusticara",
+    "2s": "rusticaras",
+    "3s": "rusticara",
+    "1p": "rusticáramos",
+    "2p": "rusticarais",
+    "3p": "rusticaran"
+  },
+  "PImpC": {
+    "1s": "rusticase",
+    "2s": "rusticases",
+    "3s": "rusticase",
+    "1p": "rusticásemos",
+    "2p": "rusticaseis",
+    "3p": "rusticasen"
+  },
+  "FutSC": {
+    "1s": "rusticare",
+    "2s": "rusticares",
+    "3s": "rusticare",
+    "1p": "rusticáremos",
+    "2p": "rusticareis",
+    "3p": "rusticaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rustica",
+    "3s": "rustique",
+    "1p": "rustiquemos",
+    "2p": "rusticad",
+    "3p": "rustiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rustiques",
+    "3s": "no rustique",
+    "1p": "no rustiquemos",
+    "2p": "no rustiquéis",
+    "3p": "no rustiquen"
+  },
+  "Part-ter": {
+    "": "rusticado"
+  },
+  "Part-ser": {
+    "ms": "rusticado",
+    "fs": "rusticada",
+    "mp": "rusticados",
+    "fp": "rusticadas"
+  }
+}

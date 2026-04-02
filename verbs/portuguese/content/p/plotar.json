@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "plotar"
+  },
+  "InfP": {
+    "1s": "plotar",
+    "2s": "plotares",
+    "3s": "plotar",
+    "1p": "plotarmos",
+    "2p": "plotardes",
+    "3p": "plotarem"
+  },
+  "Ger": {
+    "": "plotando"
+  },
+  "PresI": {
+    "1s": "ploto",
+    "2s": "plotas",
+    "3s": "plota",
+    "1p": "plotamos",
+    "2p": "plotais",
+    "3p": "plotam"
+  },
+  "PImpI": {
+    "1s": "plotava",
+    "2s": "plotavas",
+    "3s": "plotava",
+    "1p": "plotávamos",
+    "2p": "plotáveis",
+    "3p": "plotavam"
+  },
+  "PPSI": {
+    "1s": "plotei",
+    "2s": "plotaste",
+    "3s": "plotou",
+    "1p": "plotámos",
+    "2p": "plotastes",
+    "3p": "plotaram"
+  },
+  "PMQPSI": {
+    "1s": "plotara",
+    "2s": "plotaras",
+    "3s": "plotara",
+    "1p": "plotáramos",
+    "2p": "plotáreis",
+    "3p": "plotaram"
+  },
+  "FutSI": {
+    "1s": "plotarei",
+    "2s": "plotarás",
+    "3s": "plotará",
+    "1p": "plotaremos",
+    "2p": "plotareis",
+    "3p": "plotarão"
+  },
+  "CondS": {
+    "1s": "plotaria",
+    "2s": "plotarias",
+    "3s": "plotaria",
+    "1p": "plotaríamos",
+    "2p": "plotaríeis",
+    "3p": "plotariam"
+  },
+  "PresC": {
+    "1s": "plote",
+    "2s": "plotes",
+    "3s": "plote",
+    "1p": "plotemos",
+    "2p": "ploteis",
+    "3p": "plotem"
+  },
+  "PImpC": {
+    "1s": "plotasse",
+    "2s": "plotasses",
+    "3s": "plotasse",
+    "1p": "plotássemos",
+    "2p": "plotásseis",
+    "3p": "plotassem"
+  },
+  "FutSC": {
+    "1s": "plotar",
+    "2s": "plotares",
+    "3s": "plotar",
+    "1p": "plotarmos",
+    "2p": "plotardes",
+    "3p": "plotarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "plota",
+    "3s": "plote",
+    "1p": "plotemos",
+    "2p": "plotai",
+    "3p": "plotem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não plotes",
+    "3s": "não plote",
+    "1p": "não plotemos",
+    "2p": "não ploteis",
+    "3p": "não plotem"
+  },
+  "Part-ter": {
+    "": "plotado"
+  },
+  "Part-ser": {
+    "ms": "plotado",
+    "fs": "plotada",
+    "mp": "plotados",
+    "fp": "plotadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "migrar"
+  },
+  "Ger": {
+    "": "migrando"
+  },
+  "PresI": {
+    "1s": "migro",
+    "2s": "migras",
+    "3s": "migra",
+    "1p": "migramos",
+    "2p": "migráis",
+    "3p": "migran"
+  },
+  "PImpI": {
+    "1s": "migraba",
+    "2s": "migrabas",
+    "3s": "migraba",
+    "1p": "migrábamos",
+    "2p": "migrabais",
+    "3p": "migraban"
+  },
+  "PPSI": {
+    "1s": "migré",
+    "2s": "migraste",
+    "3s": "migró",
+    "1p": "migramos",
+    "2p": "migrasteis",
+    "3p": "migraron"
+  },
+  "FutSI": {
+    "1s": "migraré",
+    "2s": "migrarás",
+    "3s": "migrará",
+    "1p": "migraremos",
+    "2p": "migraréis",
+    "3p": "migrarán"
+  },
+  "CondS": {
+    "1s": "migraría",
+    "2s": "migrarías",
+    "3s": "migraría",
+    "1p": "migraríamos",
+    "2p": "migraríais",
+    "3p": "migrarían"
+  },
+  "PresC": {
+    "1s": "migre",
+    "2s": "migres",
+    "3s": "migre",
+    "1p": "migremos",
+    "2p": "migréis",
+    "3p": "migren"
+  },
+  "PMQPSI": {
+    "1s": "migrara",
+    "2s": "migraras",
+    "3s": "migrara",
+    "1p": "migráramos",
+    "2p": "migrarais",
+    "3p": "migraran"
+  },
+  "PImpC": {
+    "1s": "migrase",
+    "2s": "migrases",
+    "3s": "migrase",
+    "1p": "migrásemos",
+    "2p": "migraseis",
+    "3p": "migrasen"
+  },
+  "FutSC": {
+    "1s": "migrare",
+    "2s": "migrares",
+    "3s": "migrare",
+    "1p": "migráremos",
+    "2p": "migrareis",
+    "3p": "migraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "migra",
+    "3s": "migre",
+    "1p": "migremos",
+    "2p": "migrad",
+    "3p": "migren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no migres",
+    "3s": "no migre",
+    "1p": "no migremos",
+    "2p": "no migréis",
+    "3p": "no migren"
+  },
+  "Part-ter": {
+    "": "migrado"
+  },
+  "Part-ser": {
+    "ms": "migrado",
+    "fs": "migrada",
+    "mp": "migrados",
+    "fp": "migradas"
+  }
+}

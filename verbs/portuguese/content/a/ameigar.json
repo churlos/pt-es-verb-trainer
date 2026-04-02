@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ameigar"
+  },
+  "InfP": {
+    "1s": "ameigar",
+    "2s": "ameigares",
+    "3s": "ameigar",
+    "1p": "ameigarmos",
+    "2p": "ameigardes",
+    "3p": "ameigarem"
+  },
+  "Ger": {
+    "": "ameigando"
+  },
+  "PresI": {
+    "1s": "ameigo",
+    "2s": "ameigas",
+    "3s": "ameiga",
+    "1p": "ameigamos",
+    "2p": "ameigais",
+    "3p": "ameigam"
+  },
+  "PImpI": {
+    "1s": "ameigava",
+    "2s": "ameigavas",
+    "3s": "ameigava",
+    "1p": "ameigávamos",
+    "2p": "ameigáveis",
+    "3p": "ameigavam"
+  },
+  "PPSI": {
+    "1s": "ameiguei",
+    "2s": "ameigaste",
+    "3s": "ameigou",
+    "1p": "ameigámos",
+    "2p": "ameigastes",
+    "3p": "ameigaram"
+  },
+  "PMQPSI": {
+    "1s": "ameigara",
+    "2s": "ameigaras",
+    "3s": "ameigara",
+    "1p": "ameigáramos",
+    "2p": "ameigáreis",
+    "3p": "ameigaram"
+  },
+  "FutSI": {
+    "1s": "ameigarei",
+    "2s": "ameigarás",
+    "3s": "ameigará",
+    "1p": "ameigaremos",
+    "2p": "ameigareis",
+    "3p": "ameigarão"
+  },
+  "CondS": {
+    "1s": "ameigaria",
+    "2s": "ameigarias",
+    "3s": "ameigaria",
+    "1p": "ameigaríamos",
+    "2p": "ameigaríeis",
+    "3p": "ameigariam"
+  },
+  "PresC": {
+    "1s": "ameigue",
+    "2s": "ameigues",
+    "3s": "ameigue",
+    "1p": "ameiguemos",
+    "2p": "ameigueis",
+    "3p": "ameiguem"
+  },
+  "PImpC": {
+    "1s": "ameigasse",
+    "2s": "ameigasses",
+    "3s": "ameigasse",
+    "1p": "ameigássemos",
+    "2p": "ameigásseis",
+    "3p": "ameigassem"
+  },
+  "FutSC": {
+    "1s": "ameigar",
+    "2s": "ameigares",
+    "3s": "ameigar",
+    "1p": "ameigarmos",
+    "2p": "ameigardes",
+    "3p": "ameigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ameiga",
+    "3s": "ameigue",
+    "1p": "ameiguemos",
+    "2p": "ameigai",
+    "3p": "ameiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ameigues",
+    "3s": "não ameigue",
+    "1p": "não ameiguemos",
+    "2p": "não ameigueis",
+    "3p": "não ameiguem"
+  },
+  "Part-ter": {
+    "": "ameigado"
+  },
+  "Part-ser": {
+    "ms": "ameigado",
+    "fs": "ameigada",
+    "mp": "ameigados",
+    "fp": "ameigadas"
+  }
+}

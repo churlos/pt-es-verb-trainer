@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "maximizar"
+  },
+  "Ger": {
+    "": "maximizando"
+  },
+  "PresI": {
+    "1s": "maximizo",
+    "2s": "maximizas",
+    "3s": "maximiza",
+    "1p": "maximizamos",
+    "2p": "maximizáis",
+    "3p": "maximizan"
+  },
+  "PImpI": {
+    "1s": "maximizaba",
+    "2s": "maximizabas",
+    "3s": "maximizaba",
+    "1p": "maximizábamos",
+    "2p": "maximizabais",
+    "3p": "maximizaban"
+  },
+  "PPSI": {
+    "1s": "maximicé",
+    "2s": "maximizaste",
+    "3s": "maximizó",
+    "1p": "maximizamos",
+    "2p": "maximizasteis",
+    "3p": "maximizaron"
+  },
+  "FutSI": {
+    "1s": "maximizaré",
+    "2s": "maximizarás",
+    "3s": "maximizará",
+    "1p": "maximizaremos",
+    "2p": "maximizaréis",
+    "3p": "maximizarán"
+  },
+  "CondS": {
+    "1s": "maximizaría",
+    "2s": "maximizarías",
+    "3s": "maximizaría",
+    "1p": "maximizaríamos",
+    "2p": "maximizaríais",
+    "3p": "maximizarían"
+  },
+  "PresC": {
+    "1s": "maximice",
+    "2s": "maximices",
+    "3s": "maximice",
+    "1p": "maximicemos",
+    "2p": "maximicéis",
+    "3p": "maximicen"
+  },
+  "PMQPSI": {
+    "1s": "maximizara",
+    "2s": "maximizaras",
+    "3s": "maximizara",
+    "1p": "maximizáramos",
+    "2p": "maximizarais",
+    "3p": "maximizaran"
+  },
+  "PImpC": {
+    "1s": "maximizase",
+    "2s": "maximizases",
+    "3s": "maximizase",
+    "1p": "maximizásemos",
+    "2p": "maximizaseis",
+    "3p": "maximizasen"
+  },
+  "FutSC": {
+    "1s": "maximizare",
+    "2s": "maximizares",
+    "3s": "maximizare",
+    "1p": "maximizáremos",
+    "2p": "maximizareis",
+    "3p": "maximizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maximiza",
+    "3s": "maximice",
+    "1p": "maximicemos",
+    "2p": "maximizad",
+    "3p": "maximicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no maximices",
+    "3s": "no maximice",
+    "1p": "no maximicemos",
+    "2p": "no maximicéis",
+    "3p": "no maximicen"
+  },
+  "Part-ter": {
+    "": "maximizado"
+  },
+  "Part-ser": {
+    "ms": "maximizado",
+    "fs": "maximizada",
+    "mp": "maximizados",
+    "fp": "maximizadas"
+  }
+}

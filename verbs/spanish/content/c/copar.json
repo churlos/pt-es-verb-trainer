@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "copar"
+  },
+  "Ger": {
+    "": "copando"
+  },
+  "PresI": {
+    "1s": "copo",
+    "2s": "copas",
+    "3s": "copa",
+    "1p": "copamos",
+    "2p": "copáis",
+    "3p": "copan"
+  },
+  "PImpI": {
+    "1s": "copaba",
+    "2s": "copabas",
+    "3s": "copaba",
+    "1p": "copábamos",
+    "2p": "copabais",
+    "3p": "copaban"
+  },
+  "PPSI": {
+    "1s": "copé",
+    "2s": "copaste",
+    "3s": "copó",
+    "1p": "copamos",
+    "2p": "copasteis",
+    "3p": "coparon"
+  },
+  "FutSI": {
+    "1s": "coparé",
+    "2s": "coparás",
+    "3s": "copará",
+    "1p": "coparemos",
+    "2p": "coparéis",
+    "3p": "coparán"
+  },
+  "CondS": {
+    "1s": "coparía",
+    "2s": "coparías",
+    "3s": "coparía",
+    "1p": "coparíamos",
+    "2p": "coparíais",
+    "3p": "coparían"
+  },
+  "PresC": {
+    "1s": "cope",
+    "2s": "copes",
+    "3s": "cope",
+    "1p": "copemos",
+    "2p": "copéis",
+    "3p": "copen"
+  },
+  "PMQPSI": {
+    "1s": "copara",
+    "2s": "coparas",
+    "3s": "copara",
+    "1p": "copáramos",
+    "2p": "coparais",
+    "3p": "coparan"
+  },
+  "PImpC": {
+    "1s": "copase",
+    "2s": "copases",
+    "3s": "copase",
+    "1p": "copásemos",
+    "2p": "copaseis",
+    "3p": "copasen"
+  },
+  "FutSC": {
+    "1s": "copare",
+    "2s": "copares",
+    "3s": "copare",
+    "1p": "copáremos",
+    "2p": "copareis",
+    "3p": "coparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "copa",
+    "3s": "cope",
+    "1p": "copemos",
+    "2p": "copad",
+    "3p": "copen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no copes",
+    "3s": "no cope",
+    "1p": "no copemos",
+    "2p": "no copéis",
+    "3p": "no copen"
+  },
+  "Part-ter": {
+    "": "copado"
+  },
+  "Part-ser": {
+    "ms": "copado",
+    "fs": "copada",
+    "mp": "copados",
+    "fp": "copadas"
+  }
+}

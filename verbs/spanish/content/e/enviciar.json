@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enviciar"
+  },
+  "Ger": {
+    "": "enviciando"
+  },
+  "PresI": {
+    "1s": "envicio",
+    "2s": "envicias",
+    "3s": "envicia",
+    "1p": "enviciamos",
+    "2p": "enviciáis",
+    "3p": "envician"
+  },
+  "PImpI": {
+    "1s": "enviciaba",
+    "2s": "enviciabas",
+    "3s": "enviciaba",
+    "1p": "enviciábamos",
+    "2p": "enviciabais",
+    "3p": "enviciaban"
+  },
+  "PPSI": {
+    "1s": "envicié",
+    "2s": "enviciaste",
+    "3s": "envició",
+    "1p": "enviciamos",
+    "2p": "enviciasteis",
+    "3p": "enviciaron"
+  },
+  "FutSI": {
+    "1s": "enviciaré",
+    "2s": "enviciarás",
+    "3s": "enviciará",
+    "1p": "enviciaremos",
+    "2p": "enviciaréis",
+    "3p": "enviciarán"
+  },
+  "CondS": {
+    "1s": "enviciaría",
+    "2s": "enviciarías",
+    "3s": "enviciaría",
+    "1p": "enviciaríamos",
+    "2p": "enviciaríais",
+    "3p": "enviciarían"
+  },
+  "PresC": {
+    "1s": "envicie",
+    "2s": "envicies",
+    "3s": "envicie",
+    "1p": "enviciemos",
+    "2p": "enviciéis",
+    "3p": "envicien"
+  },
+  "PMQPSI": {
+    "1s": "enviciara",
+    "2s": "enviciaras",
+    "3s": "enviciara",
+    "1p": "enviciáramos",
+    "2p": "enviciarais",
+    "3p": "enviciaran"
+  },
+  "PImpC": {
+    "1s": "enviciase",
+    "2s": "enviciases",
+    "3s": "enviciase",
+    "1p": "enviciásemos",
+    "2p": "enviciaseis",
+    "3p": "enviciasen"
+  },
+  "FutSC": {
+    "1s": "enviciare",
+    "2s": "enviciares",
+    "3s": "enviciare",
+    "1p": "enviciáremos",
+    "2p": "enviciareis",
+    "3p": "enviciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envicia",
+    "3s": "envicie",
+    "1p": "enviciemos",
+    "2p": "enviciad",
+    "3p": "envicien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envicies",
+    "3s": "no envicie",
+    "1p": "no enviciemos",
+    "2p": "no enviciéis",
+    "3p": "no envicien"
+  },
+  "Part-ter": {
+    "": "enviciado"
+  },
+  "Part-ser": {
+    "ms": "enviciado",
+    "fs": "enviciada",
+    "mp": "enviciados",
+    "fp": "enviciadas"
+  }
+}

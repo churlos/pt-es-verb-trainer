@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "divergir"
+  },
+  "InfP": {
+    "1s": "divergir",
+    "2s": "divergires",
+    "3s": "divergir",
+    "1p": "divergirmos",
+    "2p": "divergirdes",
+    "3p": "divergirem"
+  },
+  "Ger": {
+    "": "divergindo"
+  },
+  "PresI": {
+    "1s": "diverjo",
+    "2s": "diverges",
+    "3s": "diverge",
+    "1p": "divergimos",
+    "2p": "divergis",
+    "3p": "divergem"
+  },
+  "PImpI": {
+    "1s": "divergia",
+    "2s": "divergias",
+    "3s": "divergia",
+    "1p": "divergíamos",
+    "2p": "divergíeis",
+    "3p": "divergiam"
+  },
+  "PPSI": {
+    "1s": "divergi",
+    "2s": "divergiste",
+    "3s": "divergiu",
+    "1p": "divergimos",
+    "2p": "divergistes",
+    "3p": "divergiram"
+  },
+  "PMQPSI": {
+    "1s": "divergira",
+    "2s": "divergiras",
+    "3s": "divergira",
+    "1p": "divergíramos",
+    "2p": "divergíreis",
+    "3p": "divergiram"
+  },
+  "FutSI": {
+    "1s": "divergirei",
+    "2s": "divergirás",
+    "3s": "divergirá",
+    "1p": "divergiremos",
+    "2p": "divergireis",
+    "3p": "divergirão"
+  },
+  "CondS": {
+    "1s": "divergiria",
+    "2s": "divergirias",
+    "3s": "divergiria",
+    "1p": "divergiríamos",
+    "2p": "divergiríeis",
+    "3p": "divergiriam"
+  },
+  "PresC": {
+    "1s": "diverja",
+    "2s": "diverjas",
+    "3s": "diverja",
+    "1p": "diverjamos",
+    "2p": "diverjais",
+    "3p": "diverjam"
+  },
+  "PImpC": {
+    "1s": "divergisse",
+    "2s": "divergisses",
+    "3s": "divergisse",
+    "1p": "divergíssemos",
+    "2p": "divergísseis",
+    "3p": "divergissem"
+  },
+  "FutSC": {
+    "1s": "divergir",
+    "2s": "divergires",
+    "3s": "divergir",
+    "1p": "divergirmos",
+    "2p": "divergirdes",
+    "3p": "divergirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "diverge",
+    "3s": "diverja",
+    "1p": "diverjamos",
+    "2p": "divergi",
+    "3p": "diverjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não diverjas",
+    "3s": "não diverja",
+    "1p": "não diverjamos",
+    "2p": "não diverjais",
+    "3p": "não diverjam"
+  },
+  "Part-ter": {
+    "": "divergido"
+  },
+  "Part-ser": {
+    "ms": "divergido",
+    "fs": "divergida",
+    "mp": "divergidos",
+    "fp": "divergidas"
+  }
+}

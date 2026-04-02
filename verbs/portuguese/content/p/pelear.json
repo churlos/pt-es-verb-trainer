@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pelear"
+  },
+  "InfP": {
+    "1s": "pelear",
+    "2s": "peleares",
+    "3s": "pelear",
+    "1p": "pelearmos",
+    "2p": "peleardes",
+    "3p": "pelearem"
+  },
+  "Ger": {
+    "": "peleando"
+  },
+  "PresI": {
+    "1s": "peleio",
+    "2s": "peleias",
+    "3s": "peleia",
+    "1p": "peleamos",
+    "2p": "peleais",
+    "3p": "peleiam"
+  },
+  "PImpI": {
+    "1s": "peleava",
+    "2s": "peleavas",
+    "3s": "peleava",
+    "1p": "peleávamos",
+    "2p": "peleáveis",
+    "3p": "peleavam"
+  },
+  "PPSI": {
+    "1s": "peleei",
+    "2s": "peleaste",
+    "3s": "peleou",
+    "1p": "peleámos",
+    "2p": "peleastes",
+    "3p": "pelearam"
+  },
+  "PMQPSI": {
+    "1s": "peleara",
+    "2s": "pelearas",
+    "3s": "peleara",
+    "1p": "peleáramos",
+    "2p": "peleáreis",
+    "3p": "pelearam"
+  },
+  "FutSI": {
+    "1s": "pelearei",
+    "2s": "pelearás",
+    "3s": "peleará",
+    "1p": "pelearemos",
+    "2p": "peleareis",
+    "3p": "pelearão"
+  },
+  "CondS": {
+    "1s": "pelearia",
+    "2s": "pelearias",
+    "3s": "pelearia",
+    "1p": "pelearíamos",
+    "2p": "pelearíeis",
+    "3p": "peleariam"
+  },
+  "PresC": {
+    "1s": "peleie",
+    "2s": "peleies",
+    "3s": "peleie",
+    "1p": "peleemos",
+    "2p": "peleeis",
+    "3p": "peleiem"
+  },
+  "PImpC": {
+    "1s": "peleasse",
+    "2s": "peleasses",
+    "3s": "peleasse",
+    "1p": "peleássemos",
+    "2p": "peleásseis",
+    "3p": "peleassem"
+  },
+  "FutSC": {
+    "1s": "pelear",
+    "2s": "peleares",
+    "3s": "pelear",
+    "1p": "pelearmos",
+    "2p": "peleardes",
+    "3p": "pelearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "peleia",
+    "3s": "peleie",
+    "1p": "peleemos",
+    "2p": "peleai",
+    "3p": "peleiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não peleies",
+    "3s": "não peleie",
+    "1p": "não peleemos",
+    "2p": "não peleeis",
+    "3p": "não peleiem"
+  },
+  "Part-ter": {
+    "": "peleado"
+  },
+  "Part-ser": {
+    "ms": "peleado",
+    "fs": "peleada",
+    "mp": "peleados",
+    "fp": "peleadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "avezar"
+  },
+  "Ger": {
+    "": "avezando"
+  },
+  "PresI": {
+    "1s": "avezo",
+    "2s": "avezas",
+    "3s": "aveza",
+    "1p": "avezamos",
+    "2p": "avezáis",
+    "3p": "avezan"
+  },
+  "PImpI": {
+    "1s": "avezaba",
+    "2s": "avezabas",
+    "3s": "avezaba",
+    "1p": "avezábamos",
+    "2p": "avezabais",
+    "3p": "avezaban"
+  },
+  "PPSI": {
+    "1s": "avecé",
+    "2s": "avezaste",
+    "3s": "avezó",
+    "1p": "avezamos",
+    "2p": "avezasteis",
+    "3p": "avezaron"
+  },
+  "FutSI": {
+    "1s": "avezaré",
+    "2s": "avezarás",
+    "3s": "avezará",
+    "1p": "avezaremos",
+    "2p": "avezaréis",
+    "3p": "avezarán"
+  },
+  "CondS": {
+    "1s": "avezaría",
+    "2s": "avezarías",
+    "3s": "avezaría",
+    "1p": "avezaríamos",
+    "2p": "avezaríais",
+    "3p": "avezarían"
+  },
+  "PresC": {
+    "1s": "avece",
+    "2s": "aveces",
+    "3s": "avece",
+    "1p": "avecemos",
+    "2p": "avecéis",
+    "3p": "avecen"
+  },
+  "PMQPSI": {
+    "1s": "avezara",
+    "2s": "avezaras",
+    "3s": "avezara",
+    "1p": "avezáramos",
+    "2p": "avezarais",
+    "3p": "avezaran"
+  },
+  "PImpC": {
+    "1s": "avezase",
+    "2s": "avezases",
+    "3s": "avezase",
+    "1p": "avezásemos",
+    "2p": "avezaseis",
+    "3p": "avezasen"
+  },
+  "FutSC": {
+    "1s": "avezare",
+    "2s": "avezares",
+    "3s": "avezare",
+    "1p": "avezáremos",
+    "2p": "avezareis",
+    "3p": "avezaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aveza",
+    "3s": "avece",
+    "1p": "avecemos",
+    "2p": "avezad",
+    "3p": "avecen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aveces",
+    "3s": "no avece",
+    "1p": "no avecemos",
+    "2p": "no avecéis",
+    "3p": "no avecen"
+  },
+  "Part-ter": {
+    "": "avezado"
+  },
+  "Part-ser": {
+    "ms": "avezado",
+    "fs": "avezada",
+    "mp": "avezados",
+    "fp": "avezadas"
+  }
+}

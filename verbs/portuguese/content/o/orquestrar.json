@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "orquestrar"
+  },
+  "InfP": {
+    "1s": "orquestrar",
+    "2s": "orquestrares",
+    "3s": "orquestrar",
+    "1p": "orquestrarmos",
+    "2p": "orquestrardes",
+    "3p": "orquestrarem"
+  },
+  "Ger": {
+    "": "orquestrando"
+  },
+  "PresI": {
+    "1s": "orquestro",
+    "2s": "orquestras",
+    "3s": "orquestra",
+    "1p": "orquestramos",
+    "2p": "orquestrais",
+    "3p": "orquestram"
+  },
+  "PImpI": {
+    "1s": "orquestrava",
+    "2s": "orquestravas",
+    "3s": "orquestrava",
+    "1p": "orquestrávamos",
+    "2p": "orquestráveis",
+    "3p": "orquestravam"
+  },
+  "PPSI": {
+    "1s": "orquestrei",
+    "2s": "orquestraste",
+    "3s": "orquestrou",
+    "1p": "orquestrámos",
+    "2p": "orquestrastes",
+    "3p": "orquestraram"
+  },
+  "PMQPSI": {
+    "1s": "orquestrara",
+    "2s": "orquestraras",
+    "3s": "orquestrara",
+    "1p": "orquestráramos",
+    "2p": "orquestráreis",
+    "3p": "orquestraram"
+  },
+  "FutSI": {
+    "1s": "orquestrarei",
+    "2s": "orquestrarás",
+    "3s": "orquestrará",
+    "1p": "orquestraremos",
+    "2p": "orquestrareis",
+    "3p": "orquestrarão"
+  },
+  "CondS": {
+    "1s": "orquestraria",
+    "2s": "orquestrarias",
+    "3s": "orquestraria",
+    "1p": "orquestraríamos",
+    "2p": "orquestraríeis",
+    "3p": "orquestrariam"
+  },
+  "PresC": {
+    "1s": "orquestre",
+    "2s": "orquestres",
+    "3s": "orquestre",
+    "1p": "orquestremos",
+    "2p": "orquestreis",
+    "3p": "orquestrem"
+  },
+  "PImpC": {
+    "1s": "orquestrasse",
+    "2s": "orquestrasses",
+    "3s": "orquestrasse",
+    "1p": "orquestrássemos",
+    "2p": "orquestrásseis",
+    "3p": "orquestrassem"
+  },
+  "FutSC": {
+    "1s": "orquestrar",
+    "2s": "orquestrares",
+    "3s": "orquestrar",
+    "1p": "orquestrarmos",
+    "2p": "orquestrardes",
+    "3p": "orquestrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "orquestra",
+    "3s": "orquestre",
+    "1p": "orquestremos",
+    "2p": "orquestrai",
+    "3p": "orquestrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não orquestres",
+    "3s": "não orquestre",
+    "1p": "não orquestremos",
+    "2p": "não orquestreis",
+    "3p": "não orquestrem"
+  },
+  "Part-ter": {
+    "": "orquestrado"
+  },
+  "Part-ser": {
+    "ms": "orquestrado",
+    "fs": "orquestrada",
+    "mp": "orquestrados",
+    "fp": "orquestradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "interpolar"
+  },
+  "InfP": {
+    "1s": "interpolar",
+    "2s": "interpolares",
+    "3s": "interpolar",
+    "1p": "interpolarmos",
+    "2p": "interpolardes",
+    "3p": "interpolarem"
+  },
+  "Ger": {
+    "": "interpolando"
+  },
+  "PresI": {
+    "1s": "interpolo",
+    "2s": "interpolas",
+    "3s": "interpola",
+    "1p": "interpolamos",
+    "2p": "interpolais",
+    "3p": "interpolam"
+  },
+  "PImpI": {
+    "1s": "interpolava",
+    "2s": "interpolavas",
+    "3s": "interpolava",
+    "1p": "interpolávamos",
+    "2p": "interpoláveis",
+    "3p": "interpolavam"
+  },
+  "PPSI": {
+    "1s": "interpolei",
+    "2s": "interpolaste",
+    "3s": "interpolou",
+    "1p": "interpolámos",
+    "2p": "interpolastes",
+    "3p": "interpolaram"
+  },
+  "PMQPSI": {
+    "1s": "interpolara",
+    "2s": "interpolaras",
+    "3s": "interpolara",
+    "1p": "interpoláramos",
+    "2p": "interpoláreis",
+    "3p": "interpolaram"
+  },
+  "FutSI": {
+    "1s": "interpolarei",
+    "2s": "interpolarás",
+    "3s": "interpolará",
+    "1p": "interpolaremos",
+    "2p": "interpolareis",
+    "3p": "interpolarão"
+  },
+  "CondS": {
+    "1s": "interpolaria",
+    "2s": "interpolarias",
+    "3s": "interpolaria",
+    "1p": "interpolaríamos",
+    "2p": "interpolaríeis",
+    "3p": "interpolariam"
+  },
+  "PresC": {
+    "1s": "interpole",
+    "2s": "interpoles",
+    "3s": "interpole",
+    "1p": "interpolemos",
+    "2p": "interpoleis",
+    "3p": "interpolem"
+  },
+  "PImpC": {
+    "1s": "interpolasse",
+    "2s": "interpolasses",
+    "3s": "interpolasse",
+    "1p": "interpolássemos",
+    "2p": "interpolásseis",
+    "3p": "interpolassem"
+  },
+  "FutSC": {
+    "1s": "interpolar",
+    "2s": "interpolares",
+    "3s": "interpolar",
+    "1p": "interpolarmos",
+    "2p": "interpolardes",
+    "3p": "interpolarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interpola",
+    "3s": "interpole",
+    "1p": "interpolemos",
+    "2p": "interpolai",
+    "3p": "interpolem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não interpoles",
+    "3s": "não interpole",
+    "1p": "não interpolemos",
+    "2p": "não interpoleis",
+    "3p": "não interpolem"
+  },
+  "Part-ter": {
+    "": "interpolado"
+  },
+  "Part-ser": {
+    "ms": "interpolado",
+    "fs": "interpolada",
+    "mp": "interpolados",
+    "fp": "interpoladas"
+  }
+}

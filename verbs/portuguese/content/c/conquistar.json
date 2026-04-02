@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conquistar"
+  },
+  "InfP": {
+    "1s": "conquistar",
+    "2s": "conquistares",
+    "3s": "conquistar",
+    "1p": "conquistarmos",
+    "2p": "conquistardes",
+    "3p": "conquistarem"
+  },
+  "Ger": {
+    "": "conquistando"
+  },
+  "PresI": {
+    "1s": "conquisto",
+    "2s": "conquistas",
+    "3s": "conquista",
+    "1p": "conquistamos",
+    "2p": "conquistais",
+    "3p": "conquistam"
+  },
+  "PImpI": {
+    "1s": "conquistava",
+    "2s": "conquistavas",
+    "3s": "conquistava",
+    "1p": "conquistávamos",
+    "2p": "conquistáveis",
+    "3p": "conquistavam"
+  },
+  "PPSI": {
+    "1s": "conquistei",
+    "2s": "conquistaste",
+    "3s": "conquistou",
+    "1p": "conquistámos",
+    "2p": "conquistastes",
+    "3p": "conquistaram"
+  },
+  "PMQPSI": {
+    "1s": "conquistara",
+    "2s": "conquistaras",
+    "3s": "conquistara",
+    "1p": "conquistáramos",
+    "2p": "conquistáreis",
+    "3p": "conquistaram"
+  },
+  "FutSI": {
+    "1s": "conquistarei",
+    "2s": "conquistarás",
+    "3s": "conquistará",
+    "1p": "conquistaremos",
+    "2p": "conquistareis",
+    "3p": "conquistarão"
+  },
+  "CondS": {
+    "1s": "conquistaria",
+    "2s": "conquistarias",
+    "3s": "conquistaria",
+    "1p": "conquistaríamos",
+    "2p": "conquistaríeis",
+    "3p": "conquistariam"
+  },
+  "PresC": {
+    "1s": "conquiste",
+    "2s": "conquistes",
+    "3s": "conquiste",
+    "1p": "conquistemos",
+    "2p": "conquisteis",
+    "3p": "conquistem"
+  },
+  "PImpC": {
+    "1s": "conquistasse",
+    "2s": "conquistasses",
+    "3s": "conquistasse",
+    "1p": "conquistássemos",
+    "2p": "conquistásseis",
+    "3p": "conquistassem"
+  },
+  "FutSC": {
+    "1s": "conquistar",
+    "2s": "conquistares",
+    "3s": "conquistar",
+    "1p": "conquistarmos",
+    "2p": "conquistardes",
+    "3p": "conquistarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conquista",
+    "3s": "conquiste",
+    "1p": "conquistemos",
+    "2p": "conquistai",
+    "3p": "conquistem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não conquistes",
+    "3s": "não conquiste",
+    "1p": "não conquistemos",
+    "2p": "não conquisteis",
+    "3p": "não conquistem"
+  },
+  "Part-ter": {
+    "": "conquistado"
+  },
+  "Part-ser": {
+    "ms": "conquistado",
+    "fs": "conquistada",
+    "mp": "conquistados",
+    "fp": "conquistadas"
+  }
+}

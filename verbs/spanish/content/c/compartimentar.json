@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "compartimentar"
+  },
+  "Ger": {
+    "": "compartimentando"
+  },
+  "PresI": {
+    "1s": "compartimento",
+    "2s": "compartimentas",
+    "3s": "compartimenta",
+    "1p": "compartimentamos",
+    "2p": "compartimentáis",
+    "3p": "compartimentan"
+  },
+  "PImpI": {
+    "1s": "compartimentaba",
+    "2s": "compartimentabas",
+    "3s": "compartimentaba",
+    "1p": "compartimentábamos",
+    "2p": "compartimentabais",
+    "3p": "compartimentaban"
+  },
+  "PPSI": {
+    "1s": "compartimenté",
+    "2s": "compartimentaste",
+    "3s": "compartimentó",
+    "1p": "compartimentamos",
+    "2p": "compartimentasteis",
+    "3p": "compartimentaron"
+  },
+  "FutSI": {
+    "1s": "compartimentaré",
+    "2s": "compartimentarás",
+    "3s": "compartimentará",
+    "1p": "compartimentaremos",
+    "2p": "compartimentaréis",
+    "3p": "compartimentarán"
+  },
+  "CondS": {
+    "1s": "compartimentaría",
+    "2s": "compartimentarías",
+    "3s": "compartimentaría",
+    "1p": "compartimentaríamos",
+    "2p": "compartimentaríais",
+    "3p": "compartimentarían"
+  },
+  "PresC": {
+    "1s": "compartimente",
+    "2s": "compartimentes",
+    "3s": "compartimente",
+    "1p": "compartimentemos",
+    "2p": "compartimentéis",
+    "3p": "compartimenten"
+  },
+  "PMQPSI": {
+    "1s": "compartimentara",
+    "2s": "compartimentaras",
+    "3s": "compartimentara",
+    "1p": "compartimentáramos",
+    "2p": "compartimentarais",
+    "3p": "compartimentaran"
+  },
+  "PImpC": {
+    "1s": "compartimentase",
+    "2s": "compartimentases",
+    "3s": "compartimentase",
+    "1p": "compartimentásemos",
+    "2p": "compartimentaseis",
+    "3p": "compartimentasen"
+  },
+  "FutSC": {
+    "1s": "compartimentare",
+    "2s": "compartimentares",
+    "3s": "compartimentare",
+    "1p": "compartimentáremos",
+    "2p": "compartimentareis",
+    "3p": "compartimentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compartimenta",
+    "3s": "compartimente",
+    "1p": "compartimentemos",
+    "2p": "compartimentad",
+    "3p": "compartimenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no compartimentes",
+    "3s": "no compartimente",
+    "1p": "no compartimentemos",
+    "2p": "no compartimentéis",
+    "3p": "no compartimenten"
+  },
+  "Part-ter": {
+    "": "compartimentado"
+  },
+  "Part-ser": {
+    "ms": "compartimentado",
+    "fs": "compartimentada",
+    "mp": "compartimentados",
+    "fp": "compartimentadas"
+  }
+}

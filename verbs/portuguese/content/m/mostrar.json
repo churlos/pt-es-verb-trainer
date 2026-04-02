@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mostrar"
+  },
+  "InfP": {
+    "1s": "mostrar",
+    "2s": "mostrares",
+    "3s": "mostrar",
+    "1p": "mostrarmos",
+    "2p": "mostrardes",
+    "3p": "mostrarem"
+  },
+  "Ger": {
+    "": "mostrando"
+  },
+  "PresI": {
+    "1s": "mostro",
+    "2s": "mostras",
+    "3s": "mostra",
+    "1p": "mostramos",
+    "2p": "mostrais",
+    "3p": "mostram"
+  },
+  "PImpI": {
+    "1s": "mostrava",
+    "2s": "mostravas",
+    "3s": "mostrava",
+    "1p": "mostrávamos",
+    "2p": "mostráveis",
+    "3p": "mostravam"
+  },
+  "PPSI": {
+    "1s": "mostrei",
+    "2s": "mostraste",
+    "3s": "mostrou",
+    "1p": "mostrámos",
+    "2p": "mostrastes",
+    "3p": "mostraram"
+  },
+  "PMQPSI": {
+    "1s": "mostrara",
+    "2s": "mostraras",
+    "3s": "mostrara",
+    "1p": "mostráramos",
+    "2p": "mostráreis",
+    "3p": "mostraram"
+  },
+  "FutSI": {
+    "1s": "mostrarei",
+    "2s": "mostrarás",
+    "3s": "mostrará",
+    "1p": "mostraremos",
+    "2p": "mostrareis",
+    "3p": "mostrarão"
+  },
+  "CondS": {
+    "1s": "mostraria",
+    "2s": "mostrarias",
+    "3s": "mostraria",
+    "1p": "mostraríamos",
+    "2p": "mostraríeis",
+    "3p": "mostrariam"
+  },
+  "PresC": {
+    "1s": "mostre",
+    "2s": "mostres",
+    "3s": "mostre",
+    "1p": "mostremos",
+    "2p": "mostreis",
+    "3p": "mostrem"
+  },
+  "PImpC": {
+    "1s": "mostrasse",
+    "2s": "mostrasses",
+    "3s": "mostrasse",
+    "1p": "mostrássemos",
+    "2p": "mostrásseis",
+    "3p": "mostrassem"
+  },
+  "FutSC": {
+    "1s": "mostrar",
+    "2s": "mostrares",
+    "3s": "mostrar",
+    "1p": "mostrarmos",
+    "2p": "mostrardes",
+    "3p": "mostrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mostra",
+    "3s": "mostre",
+    "1p": "mostremos",
+    "2p": "mostrai",
+    "3p": "mostrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mostres",
+    "3s": "não mostre",
+    "1p": "não mostremos",
+    "2p": "não mostreis",
+    "3p": "não mostrem"
+  },
+  "Part-ter": {
+    "": "mostrado"
+  },
+  "Part-ser": {
+    "ms": "mostrado",
+    "fs": "mostrada",
+    "mp": "mostrados",
+    "fp": "mostradas"
+  }
+}

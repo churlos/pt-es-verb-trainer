@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "samplear"
+  },
+  "Ger": {
+    "": "sampleando"
+  },
+  "PresI": {
+    "1s": "sampleo",
+    "2s": "sampleas",
+    "3s": "samplea",
+    "1p": "sampleamos",
+    "2p": "sampleáis",
+    "3p": "samplean"
+  },
+  "PImpI": {
+    "1s": "sampleaba",
+    "2s": "sampleabas",
+    "3s": "sampleaba",
+    "1p": "sampleábamos",
+    "2p": "sampleabais",
+    "3p": "sampleaban"
+  },
+  "PPSI": {
+    "1s": "sampleé",
+    "2s": "sampleaste",
+    "3s": "sampleó",
+    "1p": "sampleamos",
+    "2p": "sampleasteis",
+    "3p": "samplearon"
+  },
+  "FutSI": {
+    "1s": "samplearé",
+    "2s": "samplearás",
+    "3s": "sampleará",
+    "1p": "samplearemos",
+    "2p": "samplearéis",
+    "3p": "samplearán"
+  },
+  "CondS": {
+    "1s": "samplearía",
+    "2s": "samplearías",
+    "3s": "samplearía",
+    "1p": "samplearíamos",
+    "2p": "samplearíais",
+    "3p": "samplearían"
+  },
+  "PresC": {
+    "1s": "samplee",
+    "2s": "samplees",
+    "3s": "samplee",
+    "1p": "sampleemos",
+    "2p": "sampleéis",
+    "3p": "sampleen"
+  },
+  "PMQPSI": {
+    "1s": "sampleara",
+    "2s": "samplearas",
+    "3s": "sampleara",
+    "1p": "sampleáramos",
+    "2p": "samplearais",
+    "3p": "samplearan"
+  },
+  "PImpC": {
+    "1s": "samplease",
+    "2s": "sampleases",
+    "3s": "samplease",
+    "1p": "sampleásemos",
+    "2p": "sampleaseis",
+    "3p": "sampleasen"
+  },
+  "FutSC": {
+    "1s": "sampleare",
+    "2s": "sampleares",
+    "3s": "sampleare",
+    "1p": "sampleáremos",
+    "2p": "sampleareis",
+    "3p": "samplearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "samplea",
+    "3s": "samplee",
+    "1p": "sampleemos",
+    "2p": "samplead",
+    "3p": "sampleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no samplees",
+    "3s": "no samplee",
+    "1p": "no sampleemos",
+    "2p": "no sampleéis",
+    "3p": "no sampleen"
+  },
+  "Part-ter": {
+    "": "sampleado"
+  },
+  "Part-ser": {
+    "ms": "sampleado",
+    "fs": "sampleada",
+    "mp": "sampleados",
+    "fp": "sampleadas"
+  }
+}

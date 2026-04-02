@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "secuenciar"
+  },
+  "Ger": {
+    "": "secuenciando"
+  },
+  "PresI": {
+    "1s": "secuencio",
+    "2s": "secuencias",
+    "3s": "secuencia",
+    "1p": "secuenciamos",
+    "2p": "secuenciáis",
+    "3p": "secuencian"
+  },
+  "PImpI": {
+    "1s": "secuenciaba",
+    "2s": "secuenciabas",
+    "3s": "secuenciaba",
+    "1p": "secuenciábamos",
+    "2p": "secuenciabais",
+    "3p": "secuenciaban"
+  },
+  "PPSI": {
+    "1s": "secuencié",
+    "2s": "secuenciaste",
+    "3s": "secuenció",
+    "1p": "secuenciamos",
+    "2p": "secuenciasteis",
+    "3p": "secuenciaron"
+  },
+  "FutSI": {
+    "1s": "secuenciaré",
+    "2s": "secuenciarás",
+    "3s": "secuenciará",
+    "1p": "secuenciaremos",
+    "2p": "secuenciaréis",
+    "3p": "secuenciarán"
+  },
+  "CondS": {
+    "1s": "secuenciaría",
+    "2s": "secuenciarías",
+    "3s": "secuenciaría",
+    "1p": "secuenciaríamos",
+    "2p": "secuenciaríais",
+    "3p": "secuenciarían"
+  },
+  "PresC": {
+    "1s": "secuencie",
+    "2s": "secuencies",
+    "3s": "secuencie",
+    "1p": "secuenciemos",
+    "2p": "secuenciéis",
+    "3p": "secuencien"
+  },
+  "PMQPSI": {
+    "1s": "secuenciara",
+    "2s": "secuenciaras",
+    "3s": "secuenciara",
+    "1p": "secuenciáramos",
+    "2p": "secuenciarais",
+    "3p": "secuenciaran"
+  },
+  "PImpC": {
+    "1s": "secuenciase",
+    "2s": "secuenciases",
+    "3s": "secuenciase",
+    "1p": "secuenciásemos",
+    "2p": "secuenciaseis",
+    "3p": "secuenciasen"
+  },
+  "FutSC": {
+    "1s": "secuenciare",
+    "2s": "secuenciares",
+    "3s": "secuenciare",
+    "1p": "secuenciáremos",
+    "2p": "secuenciareis",
+    "3p": "secuenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "secuencia",
+    "3s": "secuencie",
+    "1p": "secuenciemos",
+    "2p": "secuenciad",
+    "3p": "secuencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no secuencies",
+    "3s": "no secuencie",
+    "1p": "no secuenciemos",
+    "2p": "no secuenciéis",
+    "3p": "no secuencien"
+  },
+  "Part-ter": {
+    "": "secuenciado"
+  },
+  "Part-ser": {
+    "ms": "secuenciado",
+    "fs": "secuenciada",
+    "mp": "secuenciados",
+    "fp": "secuenciadas"
+  }
+}

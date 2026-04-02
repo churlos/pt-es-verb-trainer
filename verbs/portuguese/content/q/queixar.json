@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "queixar"
+  },
+  "InfP": {
+    "1s": "queixar",
+    "2s": "queixares",
+    "3s": "queixar",
+    "1p": "queixarmos",
+    "2p": "queixardes",
+    "3p": "queixarem"
+  },
+  "Ger": {
+    "": "queixando"
+  },
+  "PresI": {
+    "1s": "queixo",
+    "2s": "queixas",
+    "3s": "queixa",
+    "1p": "queixamos",
+    "2p": "queixais",
+    "3p": "queixam"
+  },
+  "PImpI": {
+    "1s": "queixava",
+    "2s": "queixavas",
+    "3s": "queixava",
+    "1p": "queixávamos",
+    "2p": "queixáveis",
+    "3p": "queixavam"
+  },
+  "PPSI": {
+    "1s": "queixei",
+    "2s": "queixaste",
+    "3s": "queixou",
+    "1p": "queixámos",
+    "2p": "queixastes",
+    "3p": "queixaram"
+  },
+  "PMQPSI": {
+    "1s": "queixara",
+    "2s": "queixaras",
+    "3s": "queixara",
+    "1p": "queixáramos",
+    "2p": "queixáreis",
+    "3p": "queixaram"
+  },
+  "FutSI": {
+    "1s": "queixarei",
+    "2s": "queixarás",
+    "3s": "queixará",
+    "1p": "queixaremos",
+    "2p": "queixareis",
+    "3p": "queixarão"
+  },
+  "CondS": {
+    "1s": "queixaria",
+    "2s": "queixarias",
+    "3s": "queixaria",
+    "1p": "queixaríamos",
+    "2p": "queixaríeis",
+    "3p": "queixariam"
+  },
+  "PresC": {
+    "1s": "queixe",
+    "2s": "queixes",
+    "3s": "queixe",
+    "1p": "queixemos",
+    "2p": "queixeis",
+    "3p": "queixem"
+  },
+  "PImpC": {
+    "1s": "queixasse",
+    "2s": "queixasses",
+    "3s": "queixasse",
+    "1p": "queixássemos",
+    "2p": "queixásseis",
+    "3p": "queixassem"
+  },
+  "FutSC": {
+    "1s": "queixar",
+    "2s": "queixares",
+    "3s": "queixar",
+    "1p": "queixarmos",
+    "2p": "queixardes",
+    "3p": "queixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "queixa",
+    "3s": "queixe",
+    "1p": "queixemos",
+    "2p": "queixai",
+    "3p": "queixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não queixes",
+    "3s": "não queixe",
+    "1p": "não queixemos",
+    "2p": "não queixeis",
+    "3p": "não queixem"
+  },
+  "Part-ter": {
+    "": "queixado"
+  },
+  "Part-ser": {
+    "ms": "queixado",
+    "fs": "queixada",
+    "mp": "queixados",
+    "fp": "queixadas"
+  }
+}

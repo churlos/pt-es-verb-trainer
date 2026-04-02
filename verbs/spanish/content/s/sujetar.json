@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sujetar"
+  },
+  "Ger": {
+    "": "sujetando"
+  },
+  "PresI": {
+    "1s": "sujeto",
+    "2s": "sujetas",
+    "3s": "sujeta",
+    "1p": "sujetamos",
+    "2p": "sujetáis",
+    "3p": "sujetan"
+  },
+  "PImpI": {
+    "1s": "sujetaba",
+    "2s": "sujetabas",
+    "3s": "sujetaba",
+    "1p": "sujetábamos",
+    "2p": "sujetabais",
+    "3p": "sujetaban"
+  },
+  "PPSI": {
+    "1s": "sujeté",
+    "2s": "sujetaste",
+    "3s": "sujetó",
+    "1p": "sujetamos",
+    "2p": "sujetasteis",
+    "3p": "sujetaron"
+  },
+  "FutSI": {
+    "1s": "sujetaré",
+    "2s": "sujetarás",
+    "3s": "sujetará",
+    "1p": "sujetaremos",
+    "2p": "sujetaréis",
+    "3p": "sujetarán"
+  },
+  "CondS": {
+    "1s": "sujetaría",
+    "2s": "sujetarías",
+    "3s": "sujetaría",
+    "1p": "sujetaríamos",
+    "2p": "sujetaríais",
+    "3p": "sujetarían"
+  },
+  "PresC": {
+    "1s": "sujete",
+    "2s": "sujetes",
+    "3s": "sujete",
+    "1p": "sujetemos",
+    "2p": "sujetéis",
+    "3p": "sujeten"
+  },
+  "PMQPSI": {
+    "1s": "sujetara",
+    "2s": "sujetaras",
+    "3s": "sujetara",
+    "1p": "sujetáramos",
+    "2p": "sujetarais",
+    "3p": "sujetaran"
+  },
+  "PImpC": {
+    "1s": "sujetase",
+    "2s": "sujetases",
+    "3s": "sujetase",
+    "1p": "sujetásemos",
+    "2p": "sujetaseis",
+    "3p": "sujetasen"
+  },
+  "FutSC": {
+    "1s": "sujetare",
+    "2s": "sujetares",
+    "3s": "sujetare",
+    "1p": "sujetáremos",
+    "2p": "sujetareis",
+    "3p": "sujetaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sujeta",
+    "3s": "sujete",
+    "1p": "sujetemos",
+    "2p": "sujetad",
+    "3p": "sujeten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sujetes",
+    "3s": "no sujete",
+    "1p": "no sujetemos",
+    "2p": "no sujetéis",
+    "3p": "no sujeten"
+  },
+  "Part-ter": {
+    "": "sujetado"
+  },
+  "Part-ser": {
+    "ms": "sujetado",
+    "fs": "sujetada",
+    "mp": "sujetados",
+    "fp": "sujetadas"
+  }
+}

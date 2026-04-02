@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hechizar"
+  },
+  "Ger": {
+    "": "hechizando"
+  },
+  "PresI": {
+    "1s": "hechizo",
+    "2s": "hechizas",
+    "3s": "hechiza",
+    "1p": "hechizamos",
+    "2p": "hechizáis",
+    "3p": "hechizan"
+  },
+  "PImpI": {
+    "1s": "hechizaba",
+    "2s": "hechizabas",
+    "3s": "hechizaba",
+    "1p": "hechizábamos",
+    "2p": "hechizabais",
+    "3p": "hechizaban"
+  },
+  "PPSI": {
+    "1s": "hechicé",
+    "2s": "hechizaste",
+    "3s": "hechizó",
+    "1p": "hechizamos",
+    "2p": "hechizasteis",
+    "3p": "hechizaron"
+  },
+  "FutSI": {
+    "1s": "hechizaré",
+    "2s": "hechizarás",
+    "3s": "hechizará",
+    "1p": "hechizaremos",
+    "2p": "hechizaréis",
+    "3p": "hechizarán"
+  },
+  "CondS": {
+    "1s": "hechizaría",
+    "2s": "hechizarías",
+    "3s": "hechizaría",
+    "1p": "hechizaríamos",
+    "2p": "hechizaríais",
+    "3p": "hechizarían"
+  },
+  "PresC": {
+    "1s": "hechice",
+    "2s": "hechices",
+    "3s": "hechice",
+    "1p": "hechicemos",
+    "2p": "hechicéis",
+    "3p": "hechicen"
+  },
+  "PMQPSI": {
+    "1s": "hechizara",
+    "2s": "hechizaras",
+    "3s": "hechizara",
+    "1p": "hechizáramos",
+    "2p": "hechizarais",
+    "3p": "hechizaran"
+  },
+  "PImpC": {
+    "1s": "hechizase",
+    "2s": "hechizases",
+    "3s": "hechizase",
+    "1p": "hechizásemos",
+    "2p": "hechizaseis",
+    "3p": "hechizasen"
+  },
+  "FutSC": {
+    "1s": "hechizare",
+    "2s": "hechizares",
+    "3s": "hechizare",
+    "1p": "hechizáremos",
+    "2p": "hechizareis",
+    "3p": "hechizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hechiza",
+    "3s": "hechice",
+    "1p": "hechicemos",
+    "2p": "hechizad",
+    "3p": "hechicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hechices",
+    "3s": "no hechice",
+    "1p": "no hechicemos",
+    "2p": "no hechicéis",
+    "3p": "no hechicen"
+  },
+  "Part-ter": {
+    "": "hechizado"
+  },
+  "Part-ser": {
+    "ms": "hechizado",
+    "fs": "hechizada",
+    "mp": "hechizados",
+    "fp": "hechizadas"
+  }
+}

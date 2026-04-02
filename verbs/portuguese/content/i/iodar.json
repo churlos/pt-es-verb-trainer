@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "iodar"
+  },
+  "InfP": {
+    "1s": "iodar",
+    "2s": "iodares",
+    "3s": "iodar",
+    "1p": "iodarmos",
+    "2p": "iodardes",
+    "3p": "iodarem"
+  },
+  "Ger": {
+    "": "iodando"
+  },
+  "PresI": {
+    "1s": "iodo",
+    "2s": "iodas",
+    "3s": "ioda",
+    "1p": "iodamos",
+    "2p": "iodais",
+    "3p": "iodam"
+  },
+  "PImpI": {
+    "1s": "iodava",
+    "2s": "iodavas",
+    "3s": "iodava",
+    "1p": "iodávamos",
+    "2p": "iodáveis",
+    "3p": "iodavam"
+  },
+  "PPSI": {
+    "1s": "iodei",
+    "2s": "iodaste",
+    "3s": "iodou",
+    "1p": "iodámos",
+    "2p": "iodastes",
+    "3p": "iodaram"
+  },
+  "PMQPSI": {
+    "1s": "iodara",
+    "2s": "iodaras",
+    "3s": "iodara",
+    "1p": "iodáramos",
+    "2p": "iodáreis",
+    "3p": "iodaram"
+  },
+  "FutSI": {
+    "1s": "iodarei",
+    "2s": "iodarás",
+    "3s": "iodará",
+    "1p": "iodaremos",
+    "2p": "iodareis",
+    "3p": "iodarão"
+  },
+  "CondS": {
+    "1s": "iodaria",
+    "2s": "iodarias",
+    "3s": "iodaria",
+    "1p": "iodaríamos",
+    "2p": "iodaríeis",
+    "3p": "iodariam"
+  },
+  "PresC": {
+    "1s": "iode",
+    "2s": "iodes",
+    "3s": "iode",
+    "1p": "iodemos",
+    "2p": "iodeis",
+    "3p": "iodem"
+  },
+  "PImpC": {
+    "1s": "iodasse",
+    "2s": "iodasses",
+    "3s": "iodasse",
+    "1p": "iodássemos",
+    "2p": "iodásseis",
+    "3p": "iodassem"
+  },
+  "FutSC": {
+    "1s": "iodar",
+    "2s": "iodares",
+    "3s": "iodar",
+    "1p": "iodarmos",
+    "2p": "iodardes",
+    "3p": "iodarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ioda",
+    "3s": "iode",
+    "1p": "iodemos",
+    "2p": "iodai",
+    "3p": "iodem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não iodes",
+    "3s": "não iode",
+    "1p": "não iodemos",
+    "2p": "não iodeis",
+    "3p": "não iodem"
+  },
+  "Part-ter": {
+    "": "iodado"
+  },
+  "Part-ser": {
+    "ms": "iodado",
+    "fs": "iodada",
+    "mp": "iodados",
+    "fp": "iodadas"
+  }
+}

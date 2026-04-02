@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enervar"
+  },
+  "InfP": {
+    "1s": "enervar",
+    "2s": "enervares",
+    "3s": "enervar",
+    "1p": "enervarmos",
+    "2p": "enervardes",
+    "3p": "enervarem"
+  },
+  "Ger": {
+    "": "enervando"
+  },
+  "PresI": {
+    "1s": "enervo",
+    "2s": "enervas",
+    "3s": "enerva",
+    "1p": "enervamos",
+    "2p": "enervais",
+    "3p": "enervam"
+  },
+  "PImpI": {
+    "1s": "enervava",
+    "2s": "enervavas",
+    "3s": "enervava",
+    "1p": "enervávamos",
+    "2p": "enerváveis",
+    "3p": "enervavam"
+  },
+  "PPSI": {
+    "1s": "enervei",
+    "2s": "enervaste",
+    "3s": "enervou",
+    "1p": "enervámos",
+    "2p": "enervastes",
+    "3p": "enervaram"
+  },
+  "PMQPSI": {
+    "1s": "enervara",
+    "2s": "enervaras",
+    "3s": "enervara",
+    "1p": "enerváramos",
+    "2p": "enerváreis",
+    "3p": "enervaram"
+  },
+  "FutSI": {
+    "1s": "enervarei",
+    "2s": "enervarás",
+    "3s": "enervará",
+    "1p": "enervaremos",
+    "2p": "enervareis",
+    "3p": "enervarão"
+  },
+  "CondS": {
+    "1s": "enervaria",
+    "2s": "enervarias",
+    "3s": "enervaria",
+    "1p": "enervaríamos",
+    "2p": "enervaríeis",
+    "3p": "enervariam"
+  },
+  "PresC": {
+    "1s": "enerve",
+    "2s": "enerves",
+    "3s": "enerve",
+    "1p": "enervemos",
+    "2p": "enerveis",
+    "3p": "enervem"
+  },
+  "PImpC": {
+    "1s": "enervasse",
+    "2s": "enervasses",
+    "3s": "enervasse",
+    "1p": "enervássemos",
+    "2p": "enervásseis",
+    "3p": "enervassem"
+  },
+  "FutSC": {
+    "1s": "enervar",
+    "2s": "enervares",
+    "3s": "enervar",
+    "1p": "enervarmos",
+    "2p": "enervardes",
+    "3p": "enervarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enerva",
+    "3s": "enerve",
+    "1p": "enervemos",
+    "2p": "enervai",
+    "3p": "enervem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enerves",
+    "3s": "não enerve",
+    "1p": "não enervemos",
+    "2p": "não enerveis",
+    "3p": "não enervem"
+  },
+  "Part-ter": {
+    "": "enervado"
+  },
+  "Part-ser": {
+    "ms": "enervado",
+    "fs": "enervada",
+    "mp": "enervados",
+    "fp": "enervadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reactivar"
+  },
+  "Ger": {
+    "": "reactivando"
+  },
+  "PresI": {
+    "1s": "reactivo",
+    "2s": "reactivas",
+    "3s": "reactiva",
+    "1p": "reactivamos",
+    "2p": "reactiváis",
+    "3p": "reactivan"
+  },
+  "PImpI": {
+    "1s": "reactivaba",
+    "2s": "reactivabas",
+    "3s": "reactivaba",
+    "1p": "reactivábamos",
+    "2p": "reactivabais",
+    "3p": "reactivaban"
+  },
+  "PPSI": {
+    "1s": "reactivé",
+    "2s": "reactivaste",
+    "3s": "reactivó",
+    "1p": "reactivamos",
+    "2p": "reactivasteis",
+    "3p": "reactivaron"
+  },
+  "FutSI": {
+    "1s": "reactivaré",
+    "2s": "reactivarás",
+    "3s": "reactivará",
+    "1p": "reactivaremos",
+    "2p": "reactivaréis",
+    "3p": "reactivarán"
+  },
+  "CondS": {
+    "1s": "reactivaría",
+    "2s": "reactivarías",
+    "3s": "reactivaría",
+    "1p": "reactivaríamos",
+    "2p": "reactivaríais",
+    "3p": "reactivarían"
+  },
+  "PresC": {
+    "1s": "reactive",
+    "2s": "reactives",
+    "3s": "reactive",
+    "1p": "reactivemos",
+    "2p": "reactivéis",
+    "3p": "reactiven"
+  },
+  "PMQPSI": {
+    "1s": "reactivara",
+    "2s": "reactivaras",
+    "3s": "reactivara",
+    "1p": "reactiváramos",
+    "2p": "reactivarais",
+    "3p": "reactivaran"
+  },
+  "PImpC": {
+    "1s": "reactivase",
+    "2s": "reactivases",
+    "3s": "reactivase",
+    "1p": "reactivásemos",
+    "2p": "reactivaseis",
+    "3p": "reactivasen"
+  },
+  "FutSC": {
+    "1s": "reactivare",
+    "2s": "reactivares",
+    "3s": "reactivare",
+    "1p": "reactiváremos",
+    "2p": "reactivareis",
+    "3p": "reactivaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reactiva",
+    "3s": "reactive",
+    "1p": "reactivemos",
+    "2p": "reactivad",
+    "3p": "reactiven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reactives",
+    "3s": "no reactive",
+    "1p": "no reactivemos",
+    "2p": "no reactivéis",
+    "3p": "no reactiven"
+  },
+  "Part-ter": {
+    "": "reactivado"
+  },
+  "Part-ser": {
+    "ms": "reactivado",
+    "fs": "reactivada",
+    "mp": "reactivados",
+    "fp": "reactivadas"
+  }
+}

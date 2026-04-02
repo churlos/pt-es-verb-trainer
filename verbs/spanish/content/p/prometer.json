@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "prometer"
+  },
+  "Ger": {
+    "": "prometiendo"
+  },
+  "PresI": {
+    "1s": "prometo",
+    "2s": "prometes",
+    "3s": "promete",
+    "1p": "prometemos",
+    "2p": "prometéis",
+    "3p": "prometen"
+  },
+  "PImpI": {
+    "1s": "prometía",
+    "2s": "prometías",
+    "3s": "prometía",
+    "1p": "prometíamos",
+    "2p": "prometíais",
+    "3p": "prometían"
+  },
+  "PPSI": {
+    "1s": "prometí",
+    "2s": "prometiste",
+    "3s": "prometió",
+    "1p": "prometimos",
+    "2p": "prometisteis",
+    "3p": "prometieron"
+  },
+  "FutSI": {
+    "1s": "prometeré",
+    "2s": "prometerás",
+    "3s": "prometerá",
+    "1p": "prometeremos",
+    "2p": "prometeréis",
+    "3p": "prometerán"
+  },
+  "CondS": {
+    "1s": "prometería",
+    "2s": "prometerías",
+    "3s": "prometería",
+    "1p": "prometeríamos",
+    "2p": "prometeríais",
+    "3p": "prometerían"
+  },
+  "PresC": {
+    "1s": "prometa",
+    "2s": "prometas",
+    "3s": "prometa",
+    "1p": "prometamos",
+    "2p": "prometáis",
+    "3p": "prometan"
+  },
+  "PMQPSI": {
+    "1s": "prometiera",
+    "2s": "prometieras",
+    "3s": "prometiera",
+    "1p": "prometiéramos",
+    "2p": "prometierais",
+    "3p": "prometieran"
+  },
+  "PImpC": {
+    "1s": "prometiese",
+    "2s": "prometieses",
+    "3s": "prometiese",
+    "1p": "prometiésemos",
+    "2p": "prometieseis",
+    "3p": "prometiesen"
+  },
+  "FutSC": {
+    "1s": "prometiere",
+    "2s": "prometieres",
+    "3s": "prometiere",
+    "1p": "prometiéremos",
+    "2p": "prometiereis",
+    "3p": "prometieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "promete",
+    "3s": "prometa",
+    "1p": "prometamos",
+    "2p": "prometed",
+    "3p": "prometan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prometas",
+    "3s": "no prometa",
+    "1p": "no prometamos",
+    "2p": "no prometáis",
+    "3p": "no prometan"
+  },
+  "Part-ter": {
+    "": "prometido"
+  },
+  "Part-ser": {
+    "ms": "prometido",
+    "fs": "prometida",
+    "mp": "prometidos",
+    "fp": "prometidas"
+  }
+}

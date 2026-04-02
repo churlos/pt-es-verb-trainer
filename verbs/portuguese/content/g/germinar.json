@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "germinar"
+  },
+  "InfP": {
+    "1s": "germinar",
+    "2s": "germinares",
+    "3s": "germinar",
+    "1p": "germinarmos",
+    "2p": "germinardes",
+    "3p": "germinarem"
+  },
+  "Ger": {
+    "": "germinando"
+  },
+  "PresI": {
+    "1s": "germino",
+    "2s": "germinas",
+    "3s": "germina",
+    "1p": "germinamos",
+    "2p": "germinais",
+    "3p": "germinam"
+  },
+  "PImpI": {
+    "1s": "germinava",
+    "2s": "germinavas",
+    "3s": "germinava",
+    "1p": "germinávamos",
+    "2p": "germináveis",
+    "3p": "germinavam"
+  },
+  "PPSI": {
+    "1s": "germinei",
+    "2s": "germinaste",
+    "3s": "germinou",
+    "1p": "germinámos",
+    "2p": "germinastes",
+    "3p": "germinaram"
+  },
+  "PMQPSI": {
+    "1s": "germinara",
+    "2s": "germinaras",
+    "3s": "germinara",
+    "1p": "germináramos",
+    "2p": "germináreis",
+    "3p": "germinaram"
+  },
+  "FutSI": {
+    "1s": "germinarei",
+    "2s": "germinarás",
+    "3s": "germinará",
+    "1p": "germinaremos",
+    "2p": "germinareis",
+    "3p": "germinarão"
+  },
+  "CondS": {
+    "1s": "germinaria",
+    "2s": "germinarias",
+    "3s": "germinaria",
+    "1p": "germinaríamos",
+    "2p": "germinaríeis",
+    "3p": "germinariam"
+  },
+  "PresC": {
+    "1s": "germine",
+    "2s": "germines",
+    "3s": "germine",
+    "1p": "germinemos",
+    "2p": "germineis",
+    "3p": "germinem"
+  },
+  "PImpC": {
+    "1s": "germinasse",
+    "2s": "germinasses",
+    "3s": "germinasse",
+    "1p": "germinássemos",
+    "2p": "germinásseis",
+    "3p": "germinassem"
+  },
+  "FutSC": {
+    "1s": "germinar",
+    "2s": "germinares",
+    "3s": "germinar",
+    "1p": "germinarmos",
+    "2p": "germinardes",
+    "3p": "germinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "germina",
+    "3s": "germine",
+    "1p": "germinemos",
+    "2p": "germinai",
+    "3p": "germinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não germines",
+    "3s": "não germine",
+    "1p": "não germinemos",
+    "2p": "não germineis",
+    "3p": "não germinem"
+  },
+  "Part-ter": {
+    "": "germinado"
+  },
+  "Part-ser": {
+    "ms": "germinado",
+    "fs": "germinada",
+    "mp": "germinados",
+    "fp": "germinadas"
+  }
+}

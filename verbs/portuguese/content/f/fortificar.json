@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fortificar"
+  },
+  "InfP": {
+    "1s": "fortificar",
+    "2s": "fortificares",
+    "3s": "fortificar",
+    "1p": "fortificarmos",
+    "2p": "fortificardes",
+    "3p": "fortificarem"
+  },
+  "Ger": {
+    "": "fortificando"
+  },
+  "PresI": {
+    "1s": "fortifico",
+    "2s": "fortificas",
+    "3s": "fortifica",
+    "1p": "fortificamos",
+    "2p": "fortificais",
+    "3p": "fortificam"
+  },
+  "PImpI": {
+    "1s": "fortificava",
+    "2s": "fortificavas",
+    "3s": "fortificava",
+    "1p": "fortificávamos",
+    "2p": "fortificáveis",
+    "3p": "fortificavam"
+  },
+  "PPSI": {
+    "1s": "fortifiquei",
+    "2s": "fortificaste",
+    "3s": "fortificou",
+    "1p": "fortificámos",
+    "2p": "fortificastes",
+    "3p": "fortificaram"
+  },
+  "PMQPSI": {
+    "1s": "fortificara",
+    "2s": "fortificaras",
+    "3s": "fortificara",
+    "1p": "fortificáramos",
+    "2p": "fortificáreis",
+    "3p": "fortificaram"
+  },
+  "FutSI": {
+    "1s": "fortificarei",
+    "2s": "fortificarás",
+    "3s": "fortificará",
+    "1p": "fortificaremos",
+    "2p": "fortificareis",
+    "3p": "fortificarão"
+  },
+  "CondS": {
+    "1s": "fortificaria",
+    "2s": "fortificarias",
+    "3s": "fortificaria",
+    "1p": "fortificaríamos",
+    "2p": "fortificaríeis",
+    "3p": "fortificariam"
+  },
+  "PresC": {
+    "1s": "fortifique",
+    "2s": "fortifiques",
+    "3s": "fortifique",
+    "1p": "fortifiquemos",
+    "2p": "fortifiqueis",
+    "3p": "fortifiquem"
+  },
+  "PImpC": {
+    "1s": "fortificasse",
+    "2s": "fortificasses",
+    "3s": "fortificasse",
+    "1p": "fortificássemos",
+    "2p": "fortificásseis",
+    "3p": "fortificassem"
+  },
+  "FutSC": {
+    "1s": "fortificar",
+    "2s": "fortificares",
+    "3s": "fortificar",
+    "1p": "fortificarmos",
+    "2p": "fortificardes",
+    "3p": "fortificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fortifica",
+    "3s": "fortifique",
+    "1p": "fortifiquemos",
+    "2p": "fortificai",
+    "3p": "fortifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fortifiques",
+    "3s": "não fortifique",
+    "1p": "não fortifiquemos",
+    "2p": "não fortifiqueis",
+    "3p": "não fortifiquem"
+  },
+  "Part-ter": {
+    "": "fortificado"
+  },
+  "Part-ser": {
+    "ms": "fortificado",
+    "fs": "fortificada",
+    "mp": "fortificados",
+    "fp": "fortificadas"
+  }
+}

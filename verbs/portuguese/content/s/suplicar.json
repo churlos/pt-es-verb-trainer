@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suplicar"
+  },
+  "InfP": {
+    "1s": "suplicar",
+    "2s": "suplicares",
+    "3s": "suplicar",
+    "1p": "suplicarmos",
+    "2p": "suplicardes",
+    "3p": "suplicarem"
+  },
+  "Ger": {
+    "": "suplicando"
+  },
+  "PresI": {
+    "1s": "suplico",
+    "2s": "suplicas",
+    "3s": "suplica",
+    "1p": "suplicamos",
+    "2p": "suplicais",
+    "3p": "suplicam"
+  },
+  "PImpI": {
+    "1s": "suplicava",
+    "2s": "suplicavas",
+    "3s": "suplicava",
+    "1p": "suplicávamos",
+    "2p": "suplicáveis",
+    "3p": "suplicavam"
+  },
+  "PPSI": {
+    "1s": "supliquei",
+    "2s": "suplicaste",
+    "3s": "suplicou",
+    "1p": "suplicámos",
+    "2p": "suplicastes",
+    "3p": "suplicaram"
+  },
+  "PMQPSI": {
+    "1s": "suplicara",
+    "2s": "suplicaras",
+    "3s": "suplicara",
+    "1p": "suplicáramos",
+    "2p": "suplicáreis",
+    "3p": "suplicaram"
+  },
+  "FutSI": {
+    "1s": "suplicarei",
+    "2s": "suplicarás",
+    "3s": "suplicará",
+    "1p": "suplicaremos",
+    "2p": "suplicareis",
+    "3p": "suplicarão"
+  },
+  "CondS": {
+    "1s": "suplicaria",
+    "2s": "suplicarias",
+    "3s": "suplicaria",
+    "1p": "suplicaríamos",
+    "2p": "suplicaríeis",
+    "3p": "suplicariam"
+  },
+  "PresC": {
+    "1s": "suplique",
+    "2s": "supliques",
+    "3s": "suplique",
+    "1p": "supliquemos",
+    "2p": "supliqueis",
+    "3p": "supliquem"
+  },
+  "PImpC": {
+    "1s": "suplicasse",
+    "2s": "suplicasses",
+    "3s": "suplicasse",
+    "1p": "suplicássemos",
+    "2p": "suplicásseis",
+    "3p": "suplicassem"
+  },
+  "FutSC": {
+    "1s": "suplicar",
+    "2s": "suplicares",
+    "3s": "suplicar",
+    "1p": "suplicarmos",
+    "2p": "suplicardes",
+    "3p": "suplicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suplica",
+    "3s": "suplique",
+    "1p": "supliquemos",
+    "2p": "suplicai",
+    "3p": "supliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não supliques",
+    "3s": "não suplique",
+    "1p": "não supliquemos",
+    "2p": "não supliqueis",
+    "3p": "não supliquem"
+  },
+  "Part-ter": {
+    "": "suplicado"
+  },
+  "Part-ser": {
+    "ms": "suplicado",
+    "fs": "suplicada",
+    "mp": "suplicados",
+    "fp": "suplicadas"
+  }
+}

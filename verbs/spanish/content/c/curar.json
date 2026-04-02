@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "curar"
+  },
+  "Ger": {
+    "": "curando"
+  },
+  "PresI": {
+    "1s": "curo",
+    "2s": "curas",
+    "3s": "cura",
+    "1p": "curamos",
+    "2p": "curáis",
+    "3p": "curan"
+  },
+  "PImpI": {
+    "1s": "curaba",
+    "2s": "curabas",
+    "3s": "curaba",
+    "1p": "curábamos",
+    "2p": "curabais",
+    "3p": "curaban"
+  },
+  "PPSI": {
+    "1s": "curé",
+    "2s": "curaste",
+    "3s": "curó",
+    "1p": "curamos",
+    "2p": "curasteis",
+    "3p": "curaron"
+  },
+  "FutSI": {
+    "1s": "curaré",
+    "2s": "curarás",
+    "3s": "curará",
+    "1p": "curaremos",
+    "2p": "curaréis",
+    "3p": "curarán"
+  },
+  "CondS": {
+    "1s": "curaría",
+    "2s": "curarías",
+    "3s": "curaría",
+    "1p": "curaríamos",
+    "2p": "curaríais",
+    "3p": "curarían"
+  },
+  "PresC": {
+    "1s": "cure",
+    "2s": "cures",
+    "3s": "cure",
+    "1p": "curemos",
+    "2p": "curéis",
+    "3p": "curen"
+  },
+  "PMQPSI": {
+    "1s": "curara",
+    "2s": "curaras",
+    "3s": "curara",
+    "1p": "curáramos",
+    "2p": "curarais",
+    "3p": "curaran"
+  },
+  "PImpC": {
+    "1s": "curase",
+    "2s": "curases",
+    "3s": "curase",
+    "1p": "curásemos",
+    "2p": "curaseis",
+    "3p": "curasen"
+  },
+  "FutSC": {
+    "1s": "curare",
+    "2s": "curares",
+    "3s": "curare",
+    "1p": "curáremos",
+    "2p": "curareis",
+    "3p": "curaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cura",
+    "3s": "cure",
+    "1p": "curemos",
+    "2p": "curad",
+    "3p": "curen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cures",
+    "3s": "no cure",
+    "1p": "no curemos",
+    "2p": "no curéis",
+    "3p": "no curen"
+  },
+  "Part-ter": {
+    "": "curado"
+  },
+  "Part-ser": {
+    "ms": "curado",
+    "fs": "curada",
+    "mp": "curados",
+    "fp": "curadas"
+  }
+}

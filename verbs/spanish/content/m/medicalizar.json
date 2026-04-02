@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "medicalizar"
+  },
+  "Ger": {
+    "": "medicalizando"
+  },
+  "PresI": {
+    "1s": "medicalizo",
+    "2s": "medicalizas",
+    "3s": "medicaliza",
+    "1p": "medicalizamos",
+    "2p": "medicalizáis",
+    "3p": "medicalizan"
+  },
+  "PImpI": {
+    "1s": "medicalizaba",
+    "2s": "medicalizabas",
+    "3s": "medicalizaba",
+    "1p": "medicalizábamos",
+    "2p": "medicalizabais",
+    "3p": "medicalizaban"
+  },
+  "PPSI": {
+    "1s": "medicalicé",
+    "2s": "medicalizaste",
+    "3s": "medicalizó",
+    "1p": "medicalizamos",
+    "2p": "medicalizasteis",
+    "3p": "medicalizaron"
+  },
+  "FutSI": {
+    "1s": "medicalizaré",
+    "2s": "medicalizarás",
+    "3s": "medicalizará",
+    "1p": "medicalizaremos",
+    "2p": "medicalizaréis",
+    "3p": "medicalizarán"
+  },
+  "CondS": {
+    "1s": "medicalizaría",
+    "2s": "medicalizarías",
+    "3s": "medicalizaría",
+    "1p": "medicalizaríamos",
+    "2p": "medicalizaríais",
+    "3p": "medicalizarían"
+  },
+  "PresC": {
+    "1s": "medicalice",
+    "2s": "medicalices",
+    "3s": "medicalice",
+    "1p": "medicalicemos",
+    "2p": "medicalicéis",
+    "3p": "medicalicen"
+  },
+  "PMQPSI": {
+    "1s": "medicalizara",
+    "2s": "medicalizaras",
+    "3s": "medicalizara",
+    "1p": "medicalizáramos",
+    "2p": "medicalizarais",
+    "3p": "medicalizaran"
+  },
+  "PImpC": {
+    "1s": "medicalizase",
+    "2s": "medicalizases",
+    "3s": "medicalizase",
+    "1p": "medicalizásemos",
+    "2p": "medicalizaseis",
+    "3p": "medicalizasen"
+  },
+  "FutSC": {
+    "1s": "medicalizare",
+    "2s": "medicalizares",
+    "3s": "medicalizare",
+    "1p": "medicalizáremos",
+    "2p": "medicalizareis",
+    "3p": "medicalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medicaliza",
+    "3s": "medicalice",
+    "1p": "medicalicemos",
+    "2p": "medicalizad",
+    "3p": "medicalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no medicalices",
+    "3s": "no medicalice",
+    "1p": "no medicalicemos",
+    "2p": "no medicalicéis",
+    "3p": "no medicalicen"
+  },
+  "Part-ter": {
+    "": "medicalizado"
+  },
+  "Part-ser": {
+    "ms": "medicalizado",
+    "fs": "medicalizada",
+    "mp": "medicalizados",
+    "fp": "medicalizadas"
+  }
+}

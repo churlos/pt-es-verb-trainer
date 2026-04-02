@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "totalizar"
+  },
+  "Ger": {
+    "": "totalizando"
+  },
+  "PresI": {
+    "1s": "totalizo",
+    "2s": "totalizas",
+    "3s": "totaliza",
+    "1p": "totalizamos",
+    "2p": "totalizáis",
+    "3p": "totalizan"
+  },
+  "PImpI": {
+    "1s": "totalizaba",
+    "2s": "totalizabas",
+    "3s": "totalizaba",
+    "1p": "totalizábamos",
+    "2p": "totalizabais",
+    "3p": "totalizaban"
+  },
+  "PPSI": {
+    "1s": "totalicé",
+    "2s": "totalizaste",
+    "3s": "totalizó",
+    "1p": "totalizamos",
+    "2p": "totalizasteis",
+    "3p": "totalizaron"
+  },
+  "FutSI": {
+    "1s": "totalizaré",
+    "2s": "totalizarás",
+    "3s": "totalizará",
+    "1p": "totalizaremos",
+    "2p": "totalizaréis",
+    "3p": "totalizarán"
+  },
+  "CondS": {
+    "1s": "totalizaría",
+    "2s": "totalizarías",
+    "3s": "totalizaría",
+    "1p": "totalizaríamos",
+    "2p": "totalizaríais",
+    "3p": "totalizarían"
+  },
+  "PresC": {
+    "1s": "totalice",
+    "2s": "totalices",
+    "3s": "totalice",
+    "1p": "totalicemos",
+    "2p": "totalicéis",
+    "3p": "totalicen"
+  },
+  "PMQPSI": {
+    "1s": "totalizara",
+    "2s": "totalizaras",
+    "3s": "totalizara",
+    "1p": "totalizáramos",
+    "2p": "totalizarais",
+    "3p": "totalizaran"
+  },
+  "PImpC": {
+    "1s": "totalizase",
+    "2s": "totalizases",
+    "3s": "totalizase",
+    "1p": "totalizásemos",
+    "2p": "totalizaseis",
+    "3p": "totalizasen"
+  },
+  "FutSC": {
+    "1s": "totalizare",
+    "2s": "totalizares",
+    "3s": "totalizare",
+    "1p": "totalizáremos",
+    "2p": "totalizareis",
+    "3p": "totalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "totaliza",
+    "3s": "totalice",
+    "1p": "totalicemos",
+    "2p": "totalizad",
+    "3p": "totalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no totalices",
+    "3s": "no totalice",
+    "1p": "no totalicemos",
+    "2p": "no totalicéis",
+    "3p": "no totalicen"
+  },
+  "Part-ter": {
+    "": "totalizado"
+  },
+  "Part-ser": {
+    "ms": "totalizado",
+    "fs": "totalizada",
+    "mp": "totalizados",
+    "fp": "totalizadas"
+  }
+}

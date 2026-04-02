@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aluminizar"
+  },
+  "InfP": {
+    "1s": "aluminizar",
+    "2s": "aluminizares",
+    "3s": "aluminizar",
+    "1p": "aluminizarmos",
+    "2p": "aluminizardes",
+    "3p": "aluminizarem"
+  },
+  "Ger": {
+    "": "aluminizando"
+  },
+  "PresI": {
+    "1s": "aluminizo",
+    "2s": "aluminizas",
+    "3s": "aluminiza",
+    "1p": "aluminizamos",
+    "2p": "aluminizais",
+    "3p": "aluminizam"
+  },
+  "PImpI": {
+    "1s": "aluminizava",
+    "2s": "aluminizavas",
+    "3s": "aluminizava",
+    "1p": "aluminizávamos",
+    "2p": "aluminizáveis",
+    "3p": "aluminizavam"
+  },
+  "PPSI": {
+    "1s": "aluminizei",
+    "2s": "aluminizaste",
+    "3s": "aluminizou",
+    "1p": "aluminizámos",
+    "2p": "aluminizastes",
+    "3p": "aluminizaram"
+  },
+  "PMQPSI": {
+    "1s": "aluminizara",
+    "2s": "aluminizaras",
+    "3s": "aluminizara",
+    "1p": "aluminizáramos",
+    "2p": "aluminizáreis",
+    "3p": "aluminizaram"
+  },
+  "FutSI": {
+    "1s": "aluminizarei",
+    "2s": "aluminizarás",
+    "3s": "aluminizará",
+    "1p": "aluminizaremos",
+    "2p": "aluminizareis",
+    "3p": "aluminizarão"
+  },
+  "CondS": {
+    "1s": "aluminizaria",
+    "2s": "aluminizarias",
+    "3s": "aluminizaria",
+    "1p": "aluminizaríamos",
+    "2p": "aluminizaríeis",
+    "3p": "aluminizariam"
+  },
+  "PresC": {
+    "1s": "aluminize",
+    "2s": "aluminizes",
+    "3s": "aluminize",
+    "1p": "aluminizemos",
+    "2p": "aluminizeis",
+    "3p": "aluminizem"
+  },
+  "PImpC": {
+    "1s": "aluminizasse",
+    "2s": "aluminizasses",
+    "3s": "aluminizasse",
+    "1p": "aluminizássemos",
+    "2p": "aluminizásseis",
+    "3p": "aluminizassem"
+  },
+  "FutSC": {
+    "1s": "aluminizar",
+    "2s": "aluminizares",
+    "3s": "aluminizar",
+    "1p": "aluminizarmos",
+    "2p": "aluminizardes",
+    "3p": "aluminizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aluminiza",
+    "3s": "aluminize",
+    "1p": "aluminizemos",
+    "2p": "aluminizai",
+    "3p": "aluminizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aluminizes",
+    "3s": "não aluminize",
+    "1p": "não aluminizemos",
+    "2p": "não aluminizeis",
+    "3p": "não aluminizem"
+  },
+  "Part-ter": {
+    "": "aluminizado"
+  },
+  "Part-ser": {
+    "ms": "aluminizado",
+    "fs": "aluminizada",
+    "mp": "aluminizados",
+    "fp": "aluminizadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desarmar"
+  },
+  "InfP": {
+    "1s": "desarmar",
+    "2s": "desarmares",
+    "3s": "desarmar",
+    "1p": "desarmarmos",
+    "2p": "desarmardes",
+    "3p": "desarmarem"
+  },
+  "Ger": {
+    "": "desarmando"
+  },
+  "PresI": {
+    "1s": "desarmo",
+    "2s": "desarmas",
+    "3s": "desarma",
+    "1p": "desarmamos",
+    "2p": "desarmais",
+    "3p": "desarmam"
+  },
+  "PImpI": {
+    "1s": "desarmava",
+    "2s": "desarmavas",
+    "3s": "desarmava",
+    "1p": "desarmávamos",
+    "2p": "desarmáveis",
+    "3p": "desarmavam"
+  },
+  "PPSI": {
+    "1s": "desarmei",
+    "2s": "desarmaste",
+    "3s": "desarmou",
+    "1p": "desarmámos",
+    "2p": "desarmastes",
+    "3p": "desarmaram"
+  },
+  "PMQPSI": {
+    "1s": "desarmara",
+    "2s": "desarmaras",
+    "3s": "desarmara",
+    "1p": "desarmáramos",
+    "2p": "desarmáreis",
+    "3p": "desarmaram"
+  },
+  "FutSI": {
+    "1s": "desarmarei",
+    "2s": "desarmarás",
+    "3s": "desarmará",
+    "1p": "desarmaremos",
+    "2p": "desarmareis",
+    "3p": "desarmarão"
+  },
+  "CondS": {
+    "1s": "desarmaria",
+    "2s": "desarmarias",
+    "3s": "desarmaria",
+    "1p": "desarmaríamos",
+    "2p": "desarmaríeis",
+    "3p": "desarmariam"
+  },
+  "PresC": {
+    "1s": "desarme",
+    "2s": "desarmes",
+    "3s": "desarme",
+    "1p": "desarmemos",
+    "2p": "desarmeis",
+    "3p": "desarmem"
+  },
+  "PImpC": {
+    "1s": "desarmasse",
+    "2s": "desarmasses",
+    "3s": "desarmasse",
+    "1p": "desarmássemos",
+    "2p": "desarmásseis",
+    "3p": "desarmassem"
+  },
+  "FutSC": {
+    "1s": "desarmar",
+    "2s": "desarmares",
+    "3s": "desarmar",
+    "1p": "desarmarmos",
+    "2p": "desarmardes",
+    "3p": "desarmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desarma",
+    "3s": "desarme",
+    "1p": "desarmemos",
+    "2p": "desarmai",
+    "3p": "desarmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desarmes",
+    "3s": "não desarme",
+    "1p": "não desarmemos",
+    "2p": "não desarmeis",
+    "3p": "não desarmem"
+  },
+  "Part-ter": {
+    "": "desarmado"
+  },
+  "Part-ser": {
+    "ms": "desarmado",
+    "fs": "desarmada",
+    "mp": "desarmados",
+    "fp": "desarmadas"
+  }
+}

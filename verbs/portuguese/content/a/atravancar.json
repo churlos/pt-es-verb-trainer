@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atravancar"
+  },
+  "InfP": {
+    "1s": "atravancar",
+    "2s": "atravancares",
+    "3s": "atravancar",
+    "1p": "atravancarmos",
+    "2p": "atravancardes",
+    "3p": "atravancarem"
+  },
+  "Ger": {
+    "": "atravancando"
+  },
+  "PresI": {
+    "1s": "atravanco",
+    "2s": "atravancas",
+    "3s": "atravanca",
+    "1p": "atravancamos",
+    "2p": "atravancais",
+    "3p": "atravancam"
+  },
+  "PImpI": {
+    "1s": "atravancava",
+    "2s": "atravancavas",
+    "3s": "atravancava",
+    "1p": "atravancávamos",
+    "2p": "atravancáveis",
+    "3p": "atravancavam"
+  },
+  "PPSI": {
+    "1s": "atravanquei",
+    "2s": "atravancaste",
+    "3s": "atravancou",
+    "1p": "atravancámos",
+    "2p": "atravancastes",
+    "3p": "atravancaram"
+  },
+  "PMQPSI": {
+    "1s": "atravancara",
+    "2s": "atravancaras",
+    "3s": "atravancara",
+    "1p": "atravancáramos",
+    "2p": "atravancáreis",
+    "3p": "atravancaram"
+  },
+  "FutSI": {
+    "1s": "atravancarei",
+    "2s": "atravancarás",
+    "3s": "atravancará",
+    "1p": "atravancaremos",
+    "2p": "atravancareis",
+    "3p": "atravancarão"
+  },
+  "CondS": {
+    "1s": "atravancaria",
+    "2s": "atravancarias",
+    "3s": "atravancaria",
+    "1p": "atravancaríamos",
+    "2p": "atravancaríeis",
+    "3p": "atravancariam"
+  },
+  "PresC": {
+    "1s": "atravanque",
+    "2s": "atravanques",
+    "3s": "atravanque",
+    "1p": "atravanquemos",
+    "2p": "atravanqueis",
+    "3p": "atravanquem"
+  },
+  "PImpC": {
+    "1s": "atravancasse",
+    "2s": "atravancasses",
+    "3s": "atravancasse",
+    "1p": "atravancássemos",
+    "2p": "atravancásseis",
+    "3p": "atravancassem"
+  },
+  "FutSC": {
+    "1s": "atravancar",
+    "2s": "atravancares",
+    "3s": "atravancar",
+    "1p": "atravancarmos",
+    "2p": "atravancardes",
+    "3p": "atravancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atravanca",
+    "3s": "atravanque",
+    "1p": "atravanquemos",
+    "2p": "atravancai",
+    "3p": "atravanquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atravanques",
+    "3s": "não atravanque",
+    "1p": "não atravanquemos",
+    "2p": "não atravanqueis",
+    "3p": "não atravanquem"
+  },
+  "Part-ter": {
+    "": "atravancado"
+  },
+  "Part-ser": {
+    "ms": "atravancado",
+    "fs": "atravancada",
+    "mp": "atravancados",
+    "fp": "atravancadas"
+  }
+}

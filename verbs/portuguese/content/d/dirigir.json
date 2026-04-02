@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dirigir"
+  },
+  "InfP": {
+    "1s": "dirigir",
+    "2s": "dirigires",
+    "3s": "dirigir",
+    "1p": "dirigirmos",
+    "2p": "dirigirdes",
+    "3p": "dirigirem"
+  },
+  "Ger": {
+    "": "dirigindo"
+  },
+  "PresI": {
+    "1s": "dirijo",
+    "2s": "diriges",
+    "3s": "dirige",
+    "1p": "dirigimos",
+    "2p": "dirigis",
+    "3p": "dirigem"
+  },
+  "PImpI": {
+    "1s": "dirigia",
+    "2s": "dirigias",
+    "3s": "dirigia",
+    "1p": "dirigíamos",
+    "2p": "dirigíeis",
+    "3p": "dirigiam"
+  },
+  "PPSI": {
+    "1s": "dirigi",
+    "2s": "dirigiste",
+    "3s": "dirigiu",
+    "1p": "dirigimos",
+    "2p": "dirigistes",
+    "3p": "dirigiram"
+  },
+  "PMQPSI": {
+    "1s": "dirigira",
+    "2s": "dirigiras",
+    "3s": "dirigira",
+    "1p": "dirigíramos",
+    "2p": "dirigíreis",
+    "3p": "dirigiram"
+  },
+  "FutSI": {
+    "1s": "dirigirei",
+    "2s": "dirigirás",
+    "3s": "dirigirá",
+    "1p": "dirigiremos",
+    "2p": "dirigireis",
+    "3p": "dirigirão"
+  },
+  "CondS": {
+    "1s": "dirigiria",
+    "2s": "dirigirias",
+    "3s": "dirigiria",
+    "1p": "dirigiríamos",
+    "2p": "dirigiríeis",
+    "3p": "dirigiriam"
+  },
+  "PresC": {
+    "1s": "dirija",
+    "2s": "dirijas",
+    "3s": "dirija",
+    "1p": "dirijamos",
+    "2p": "dirijais",
+    "3p": "dirijam"
+  },
+  "PImpC": {
+    "1s": "dirigisse",
+    "2s": "dirigisses",
+    "3s": "dirigisse",
+    "1p": "dirigíssemos",
+    "2p": "dirigísseis",
+    "3p": "dirigissem"
+  },
+  "FutSC": {
+    "1s": "dirigir",
+    "2s": "dirigires",
+    "3s": "dirigir",
+    "1p": "dirigirmos",
+    "2p": "dirigirdes",
+    "3p": "dirigirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dirige",
+    "3s": "dirija",
+    "1p": "dirijamos",
+    "2p": "dirigi",
+    "3p": "dirijam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dirijas",
+    "3s": "não dirija",
+    "1p": "não dirijamos",
+    "2p": "não dirijais",
+    "3p": "não dirijam"
+  },
+  "Part-ter": {
+    "": "dirigido"
+  },
+  "Part-ser": {
+    "ms": "dirigido",
+    "fs": "dirigida",
+    "mp": "dirigidos",
+    "fp": "dirigidas"
+  }
+}

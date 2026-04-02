@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ancorar"
+  },
+  "Ger": {
+    "": "ancorando"
+  },
+  "PresI": {
+    "1s": "ancoro",
+    "2s": "ancoras",
+    "3s": "ancora",
+    "1p": "ancoramos",
+    "2p": "ancoráis",
+    "3p": "ancoran"
+  },
+  "PImpI": {
+    "1s": "ancoraba",
+    "2s": "ancorabas",
+    "3s": "ancoraba",
+    "1p": "ancorábamos",
+    "2p": "ancorabais",
+    "3p": "ancoraban"
+  },
+  "PPSI": {
+    "1s": "ancoré",
+    "2s": "ancoraste",
+    "3s": "ancoró",
+    "1p": "ancoramos",
+    "2p": "ancorasteis",
+    "3p": "ancoraron"
+  },
+  "FutSI": {
+    "1s": "ancoraré",
+    "2s": "ancorarás",
+    "3s": "ancorará",
+    "1p": "ancoraremos",
+    "2p": "ancoraréis",
+    "3p": "ancorarán"
+  },
+  "CondS": {
+    "1s": "ancoraría",
+    "2s": "ancorarías",
+    "3s": "ancoraría",
+    "1p": "ancoraríamos",
+    "2p": "ancoraríais",
+    "3p": "ancorarían"
+  },
+  "PresC": {
+    "1s": "ancore",
+    "2s": "ancores",
+    "3s": "ancore",
+    "1p": "ancoremos",
+    "2p": "ancoréis",
+    "3p": "ancoren"
+  },
+  "PMQPSI": {
+    "1s": "ancorara",
+    "2s": "ancoraras",
+    "3s": "ancorara",
+    "1p": "ancoráramos",
+    "2p": "ancorarais",
+    "3p": "ancoraran"
+  },
+  "PImpC": {
+    "1s": "ancorase",
+    "2s": "ancorases",
+    "3s": "ancorase",
+    "1p": "ancorásemos",
+    "2p": "ancoraseis",
+    "3p": "ancorasen"
+  },
+  "FutSC": {
+    "1s": "ancorare",
+    "2s": "ancorares",
+    "3s": "ancorare",
+    "1p": "ancoráremos",
+    "2p": "ancorareis",
+    "3p": "ancoraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ancora",
+    "3s": "ancore",
+    "1p": "ancoremos",
+    "2p": "ancorad",
+    "3p": "ancoren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ancores",
+    "3s": "no ancore",
+    "1p": "no ancoremos",
+    "2p": "no ancoréis",
+    "3p": "no ancoren"
+  },
+  "Part-ter": {
+    "": "ancorado"
+  },
+  "Part-ser": {
+    "ms": "ancorado",
+    "fs": "ancorada",
+    "mp": "ancorados",
+    "fp": "ancoradas"
+  }
+}

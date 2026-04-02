@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cilindrar"
+  },
+  "InfP": {
+    "1s": "cilindrar",
+    "2s": "cilindrares",
+    "3s": "cilindrar",
+    "1p": "cilindrarmos",
+    "2p": "cilindrardes",
+    "3p": "cilindrarem"
+  },
+  "Ger": {
+    "": "cilindrando"
+  },
+  "PresI": {
+    "1s": "cilindro",
+    "2s": "cilindras",
+    "3s": "cilindra",
+    "1p": "cilindramos",
+    "2p": "cilindrais",
+    "3p": "cilindram"
+  },
+  "PImpI": {
+    "1s": "cilindrava",
+    "2s": "cilindravas",
+    "3s": "cilindrava",
+    "1p": "cilindrávamos",
+    "2p": "cilindráveis",
+    "3p": "cilindravam"
+  },
+  "PPSI": {
+    "1s": "cilindrei",
+    "2s": "cilindraste",
+    "3s": "cilindrou",
+    "1p": "cilindrámos",
+    "2p": "cilindrastes",
+    "3p": "cilindraram"
+  },
+  "PMQPSI": {
+    "1s": "cilindrara",
+    "2s": "cilindraras",
+    "3s": "cilindrara",
+    "1p": "cilindráramos",
+    "2p": "cilindráreis",
+    "3p": "cilindraram"
+  },
+  "FutSI": {
+    "1s": "cilindrarei",
+    "2s": "cilindrarás",
+    "3s": "cilindrará",
+    "1p": "cilindraremos",
+    "2p": "cilindrareis",
+    "3p": "cilindrarão"
+  },
+  "CondS": {
+    "1s": "cilindraria",
+    "2s": "cilindrarias",
+    "3s": "cilindraria",
+    "1p": "cilindraríamos",
+    "2p": "cilindraríeis",
+    "3p": "cilindrariam"
+  },
+  "PresC": {
+    "1s": "cilindre",
+    "2s": "cilindres",
+    "3s": "cilindre",
+    "1p": "cilindremos",
+    "2p": "cilindreis",
+    "3p": "cilindrem"
+  },
+  "PImpC": {
+    "1s": "cilindrasse",
+    "2s": "cilindrasses",
+    "3s": "cilindrasse",
+    "1p": "cilindrássemos",
+    "2p": "cilindrásseis",
+    "3p": "cilindrassem"
+  },
+  "FutSC": {
+    "1s": "cilindrar",
+    "2s": "cilindrares",
+    "3s": "cilindrar",
+    "1p": "cilindrarmos",
+    "2p": "cilindrardes",
+    "3p": "cilindrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cilindra",
+    "3s": "cilindre",
+    "1p": "cilindremos",
+    "2p": "cilindrai",
+    "3p": "cilindrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cilindres",
+    "3s": "não cilindre",
+    "1p": "não cilindremos",
+    "2p": "não cilindreis",
+    "3p": "não cilindrem"
+  },
+  "Part-ter": {
+    "": "cilindrado"
+  },
+  "Part-ser": {
+    "ms": "cilindrado",
+    "fs": "cilindrada",
+    "mp": "cilindrados",
+    "fp": "cilindradas"
+  }
+}

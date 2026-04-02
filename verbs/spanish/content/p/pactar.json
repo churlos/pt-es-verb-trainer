@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pactar"
+  },
+  "Ger": {
+    "": "pactando"
+  },
+  "PresI": {
+    "1s": "pacto",
+    "2s": "pactas",
+    "3s": "pacta",
+    "1p": "pactamos",
+    "2p": "pactáis",
+    "3p": "pactan"
+  },
+  "PImpI": {
+    "1s": "pactaba",
+    "2s": "pactabas",
+    "3s": "pactaba",
+    "1p": "pactábamos",
+    "2p": "pactabais",
+    "3p": "pactaban"
+  },
+  "PPSI": {
+    "1s": "pacté",
+    "2s": "pactaste",
+    "3s": "pactó",
+    "1p": "pactamos",
+    "2p": "pactasteis",
+    "3p": "pactaron"
+  },
+  "FutSI": {
+    "1s": "pactaré",
+    "2s": "pactarás",
+    "3s": "pactará",
+    "1p": "pactaremos",
+    "2p": "pactaréis",
+    "3p": "pactarán"
+  },
+  "CondS": {
+    "1s": "pactaría",
+    "2s": "pactarías",
+    "3s": "pactaría",
+    "1p": "pactaríamos",
+    "2p": "pactaríais",
+    "3p": "pactarían"
+  },
+  "PresC": {
+    "1s": "pacte",
+    "2s": "pactes",
+    "3s": "pacte",
+    "1p": "pactemos",
+    "2p": "pactéis",
+    "3p": "pacten"
+  },
+  "PMQPSI": {
+    "1s": "pactara",
+    "2s": "pactaras",
+    "3s": "pactara",
+    "1p": "pactáramos",
+    "2p": "pactarais",
+    "3p": "pactaran"
+  },
+  "PImpC": {
+    "1s": "pactase",
+    "2s": "pactases",
+    "3s": "pactase",
+    "1p": "pactásemos",
+    "2p": "pactaseis",
+    "3p": "pactasen"
+  },
+  "FutSC": {
+    "1s": "pactare",
+    "2s": "pactares",
+    "3s": "pactare",
+    "1p": "pactáremos",
+    "2p": "pactareis",
+    "3p": "pactaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pacta",
+    "3s": "pacte",
+    "1p": "pactemos",
+    "2p": "pactad",
+    "3p": "pacten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pactes",
+    "3s": "no pacte",
+    "1p": "no pactemos",
+    "2p": "no pactéis",
+    "3p": "no pacten"
+  },
+  "Part-ter": {
+    "": "pactado"
+  },
+  "Part-ser": {
+    "ms": "pactado",
+    "fs": "pactada",
+    "mp": "pactados",
+    "fp": "pactadas"
+  }
+}

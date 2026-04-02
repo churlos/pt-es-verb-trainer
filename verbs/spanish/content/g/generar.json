@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "generar"
+  },
+  "Ger": {
+    "": "generando"
+  },
+  "PresI": {
+    "1s": "genero",
+    "2s": "generas",
+    "3s": "genera",
+    "1p": "generamos",
+    "2p": "generáis",
+    "3p": "generan"
+  },
+  "PImpI": {
+    "1s": "generaba",
+    "2s": "generabas",
+    "3s": "generaba",
+    "1p": "generábamos",
+    "2p": "generabais",
+    "3p": "generaban"
+  },
+  "PPSI": {
+    "1s": "generé",
+    "2s": "generaste",
+    "3s": "generó",
+    "1p": "generamos",
+    "2p": "generasteis",
+    "3p": "generaron"
+  },
+  "FutSI": {
+    "1s": "generaré",
+    "2s": "generarás",
+    "3s": "generará",
+    "1p": "generaremos",
+    "2p": "generaréis",
+    "3p": "generarán"
+  },
+  "CondS": {
+    "1s": "generaría",
+    "2s": "generarías",
+    "3s": "generaría",
+    "1p": "generaríamos",
+    "2p": "generaríais",
+    "3p": "generarían"
+  },
+  "PresC": {
+    "1s": "genere",
+    "2s": "generes",
+    "3s": "genere",
+    "1p": "generemos",
+    "2p": "generéis",
+    "3p": "generen"
+  },
+  "PMQPSI": {
+    "1s": "generara",
+    "2s": "generaras",
+    "3s": "generara",
+    "1p": "generáramos",
+    "2p": "generarais",
+    "3p": "generaran"
+  },
+  "PImpC": {
+    "1s": "generase",
+    "2s": "generases",
+    "3s": "generase",
+    "1p": "generásemos",
+    "2p": "generaseis",
+    "3p": "generasen"
+  },
+  "FutSC": {
+    "1s": "generare",
+    "2s": "generares",
+    "3s": "generare",
+    "1p": "generáremos",
+    "2p": "generareis",
+    "3p": "generaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "genera",
+    "3s": "genere",
+    "1p": "generemos",
+    "2p": "generad",
+    "3p": "generen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no generes",
+    "3s": "no genere",
+    "1p": "no generemos",
+    "2p": "no generéis",
+    "3p": "no generen"
+  },
+  "Part-ter": {
+    "": "generado"
+  },
+  "Part-ser": {
+    "ms": "generado",
+    "fs": "generada",
+    "mp": "generados",
+    "fp": "generadas"
+  }
+}

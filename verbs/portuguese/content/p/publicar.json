@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "publicar"
+  },
+  "InfP": {
+    "1s": "publicar",
+    "2s": "publicares",
+    "3s": "publicar",
+    "1p": "publicarmos",
+    "2p": "publicardes",
+    "3p": "publicarem"
+  },
+  "Ger": {
+    "": "publicando"
+  },
+  "PresI": {
+    "1s": "publico",
+    "2s": "publicas",
+    "3s": "publica",
+    "1p": "publicamos",
+    "2p": "publicais",
+    "3p": "publicam"
+  },
+  "PImpI": {
+    "1s": "publicava",
+    "2s": "publicavas",
+    "3s": "publicava",
+    "1p": "publicávamos",
+    "2p": "publicáveis",
+    "3p": "publicavam"
+  },
+  "PPSI": {
+    "1s": "publiquei",
+    "2s": "publicaste",
+    "3s": "publicou",
+    "1p": "publicámos",
+    "2p": "publicastes",
+    "3p": "publicaram"
+  },
+  "PMQPSI": {
+    "1s": "publicara",
+    "2s": "publicaras",
+    "3s": "publicara",
+    "1p": "publicáramos",
+    "2p": "publicáreis",
+    "3p": "publicaram"
+  },
+  "FutSI": {
+    "1s": "publicarei",
+    "2s": "publicarás",
+    "3s": "publicará",
+    "1p": "publicaremos",
+    "2p": "publicareis",
+    "3p": "publicarão"
+  },
+  "CondS": {
+    "1s": "publicaria",
+    "2s": "publicarias",
+    "3s": "publicaria",
+    "1p": "publicaríamos",
+    "2p": "publicaríeis",
+    "3p": "publicariam"
+  },
+  "PresC": {
+    "1s": "publique",
+    "2s": "publiques",
+    "3s": "publique",
+    "1p": "publiquemos",
+    "2p": "publiqueis",
+    "3p": "publiquem"
+  },
+  "PImpC": {
+    "1s": "publicasse",
+    "2s": "publicasses",
+    "3s": "publicasse",
+    "1p": "publicássemos",
+    "2p": "publicásseis",
+    "3p": "publicassem"
+  },
+  "FutSC": {
+    "1s": "publicar",
+    "2s": "publicares",
+    "3s": "publicar",
+    "1p": "publicarmos",
+    "2p": "publicardes",
+    "3p": "publicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "publica",
+    "3s": "publique",
+    "1p": "publiquemos",
+    "2p": "publicai",
+    "3p": "publiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não publiques",
+    "3s": "não publique",
+    "1p": "não publiquemos",
+    "2p": "não publiqueis",
+    "3p": "não publiquem"
+  },
+  "Part-ter": {
+    "": "publicado"
+  },
+  "Part-ser": {
+    "ms": "publicado",
+    "fs": "publicada",
+    "mp": "publicados",
+    "fp": "publicadas"
+  }
+}

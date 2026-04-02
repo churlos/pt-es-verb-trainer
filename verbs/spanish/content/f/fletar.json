@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fletar"
+  },
+  "Ger": {
+    "": "fletando"
+  },
+  "PresI": {
+    "1s": "fleto",
+    "2s": "fletas",
+    "3s": "fleta",
+    "1p": "fletamos",
+    "2p": "fletáis",
+    "3p": "fletan"
+  },
+  "PImpI": {
+    "1s": "fletaba",
+    "2s": "fletabas",
+    "3s": "fletaba",
+    "1p": "fletábamos",
+    "2p": "fletabais",
+    "3p": "fletaban"
+  },
+  "PPSI": {
+    "1s": "fleté",
+    "2s": "fletaste",
+    "3s": "fletó",
+    "1p": "fletamos",
+    "2p": "fletasteis",
+    "3p": "fletaron"
+  },
+  "FutSI": {
+    "1s": "fletaré",
+    "2s": "fletarás",
+    "3s": "fletará",
+    "1p": "fletaremos",
+    "2p": "fletaréis",
+    "3p": "fletarán"
+  },
+  "CondS": {
+    "1s": "fletaría",
+    "2s": "fletarías",
+    "3s": "fletaría",
+    "1p": "fletaríamos",
+    "2p": "fletaríais",
+    "3p": "fletarían"
+  },
+  "PresC": {
+    "1s": "flete",
+    "2s": "fletes",
+    "3s": "flete",
+    "1p": "fletemos",
+    "2p": "fletéis",
+    "3p": "fleten"
+  },
+  "PMQPSI": {
+    "1s": "fletara",
+    "2s": "fletaras",
+    "3s": "fletara",
+    "1p": "fletáramos",
+    "2p": "fletarais",
+    "3p": "fletaran"
+  },
+  "PImpC": {
+    "1s": "fletase",
+    "2s": "fletases",
+    "3s": "fletase",
+    "1p": "fletásemos",
+    "2p": "fletaseis",
+    "3p": "fletasen"
+  },
+  "FutSC": {
+    "1s": "fletare",
+    "2s": "fletares",
+    "3s": "fletare",
+    "1p": "fletáremos",
+    "2p": "fletareis",
+    "3p": "fletaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fleta",
+    "3s": "flete",
+    "1p": "fletemos",
+    "2p": "fletad",
+    "3p": "fleten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fletes",
+    "3s": "no flete",
+    "1p": "no fletemos",
+    "2p": "no fletéis",
+    "3p": "no fleten"
+  },
+  "Part-ter": {
+    "": "fletado"
+  },
+  "Part-ser": {
+    "ms": "fletado",
+    "fs": "fletada",
+    "mp": "fletados",
+    "fp": "fletadas"
+  }
+}

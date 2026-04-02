@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "incinerar"
+  },
+  "InfP": {
+    "1s": "incinerar",
+    "2s": "incinerares",
+    "3s": "incinerar",
+    "1p": "incinerarmos",
+    "2p": "incinerardes",
+    "3p": "incinerarem"
+  },
+  "Ger": {
+    "": "incinerando"
+  },
+  "PresI": {
+    "1s": "incinero",
+    "2s": "incineras",
+    "3s": "incinera",
+    "1p": "incineramos",
+    "2p": "incinerais",
+    "3p": "incineram"
+  },
+  "PImpI": {
+    "1s": "incinerava",
+    "2s": "incineravas",
+    "3s": "incinerava",
+    "1p": "incinerávamos",
+    "2p": "incineráveis",
+    "3p": "incineravam"
+  },
+  "PPSI": {
+    "1s": "incinerei",
+    "2s": "incineraste",
+    "3s": "incinerou",
+    "1p": "incinerámos",
+    "2p": "incinerastes",
+    "3p": "incineraram"
+  },
+  "PMQPSI": {
+    "1s": "incinerara",
+    "2s": "incineraras",
+    "3s": "incinerara",
+    "1p": "incineráramos",
+    "2p": "incineráreis",
+    "3p": "incineraram"
+  },
+  "FutSI": {
+    "1s": "incinerarei",
+    "2s": "incinerarás",
+    "3s": "incinerará",
+    "1p": "incineraremos",
+    "2p": "incinerareis",
+    "3p": "incinerarão"
+  },
+  "CondS": {
+    "1s": "incineraria",
+    "2s": "incinerarias",
+    "3s": "incineraria",
+    "1p": "incineraríamos",
+    "2p": "incineraríeis",
+    "3p": "incinerariam"
+  },
+  "PresC": {
+    "1s": "incinere",
+    "2s": "incineres",
+    "3s": "incinere",
+    "1p": "incineremos",
+    "2p": "incinereis",
+    "3p": "incinerem"
+  },
+  "PImpC": {
+    "1s": "incinerasse",
+    "2s": "incinerasses",
+    "3s": "incinerasse",
+    "1p": "incinerássemos",
+    "2p": "incinerásseis",
+    "3p": "incinerassem"
+  },
+  "FutSC": {
+    "1s": "incinerar",
+    "2s": "incinerares",
+    "3s": "incinerar",
+    "1p": "incinerarmos",
+    "2p": "incinerardes",
+    "3p": "incinerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incinera",
+    "3s": "incinere",
+    "1p": "incineremos",
+    "2p": "incinerai",
+    "3p": "incinerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não incineres",
+    "3s": "não incinere",
+    "1p": "não incineremos",
+    "2p": "não incinereis",
+    "3p": "não incinerem"
+  },
+  "Part-ter": {
+    "": "incinerado"
+  },
+  "Part-ser": {
+    "ms": "incinerado",
+    "fs": "incinerada",
+    "mp": "incinerados",
+    "fp": "incineradas"
+  }
+}

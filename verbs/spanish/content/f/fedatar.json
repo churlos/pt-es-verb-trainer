@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fedatar"
+  },
+  "Ger": {
+    "": "fedatando"
+  },
+  "PresI": {
+    "1s": "fedato",
+    "2s": "fedatas",
+    "3s": "fedata",
+    "1p": "fedatamos",
+    "2p": "fedatáis",
+    "3p": "fedatan"
+  },
+  "PImpI": {
+    "1s": "fedataba",
+    "2s": "fedatabas",
+    "3s": "fedataba",
+    "1p": "fedatábamos",
+    "2p": "fedatabais",
+    "3p": "fedataban"
+  },
+  "PPSI": {
+    "1s": "fedaté",
+    "2s": "fedataste",
+    "3s": "fedató",
+    "1p": "fedatamos",
+    "2p": "fedatasteis",
+    "3p": "fedataron"
+  },
+  "FutSI": {
+    "1s": "fedataré",
+    "2s": "fedatarás",
+    "3s": "fedatará",
+    "1p": "fedataremos",
+    "2p": "fedataréis",
+    "3p": "fedatarán"
+  },
+  "CondS": {
+    "1s": "fedataría",
+    "2s": "fedatarías",
+    "3s": "fedataría",
+    "1p": "fedataríamos",
+    "2p": "fedataríais",
+    "3p": "fedatarían"
+  },
+  "PresC": {
+    "1s": "fedate",
+    "2s": "fedates",
+    "3s": "fedate",
+    "1p": "fedatemos",
+    "2p": "fedatéis",
+    "3p": "fedaten"
+  },
+  "PMQPSI": {
+    "1s": "fedatara",
+    "2s": "fedataras",
+    "3s": "fedatara",
+    "1p": "fedatáramos",
+    "2p": "fedatarais",
+    "3p": "fedataran"
+  },
+  "PImpC": {
+    "1s": "fedatase",
+    "2s": "fedatases",
+    "3s": "fedatase",
+    "1p": "fedatásemos",
+    "2p": "fedataseis",
+    "3p": "fedatasen"
+  },
+  "FutSC": {
+    "1s": "fedatare",
+    "2s": "fedatares",
+    "3s": "fedatare",
+    "1p": "fedatáremos",
+    "2p": "fedatareis",
+    "3p": "fedataren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fedata",
+    "3s": "fedate",
+    "1p": "fedatemos",
+    "2p": "fedatad",
+    "3p": "fedaten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fedates",
+    "3s": "no fedate",
+    "1p": "no fedatemos",
+    "2p": "no fedatéis",
+    "3p": "no fedaten"
+  },
+  "Part-ter": {
+    "": "fedatado"
+  },
+  "Part-ser": {
+    "ms": "fedatado",
+    "fs": "fedatada",
+    "mp": "fedatados",
+    "fp": "fedatadas"
+  }
+}

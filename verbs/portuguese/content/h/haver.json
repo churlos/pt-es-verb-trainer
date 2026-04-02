@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "haver"
+  },
+  "InfP": {
+    "1s": "haver",
+    "2s": "haveres",
+    "3s": "haver",
+    "1p": "havermos",
+    "2p": "haverdes",
+    "3p": "haverem"
+  },
+  "Ger": {
+    "": "havendo"
+  },
+  "PresI": {
+    "1s": "hei",
+    "2s": "hás",
+    "3s": "há",
+    "1p": "havemos",
+    "2p": "haveisheis",
+    "3p": "hão"
+  },
+  "PImpI": {
+    "1s": "havia",
+    "2s": "havias",
+    "3s": "havia",
+    "1p": "havíamos",
+    "2p": "havíeis",
+    "3p": "haviam"
+  },
+  "PPSI": {
+    "1s": "houve",
+    "2s": "houveste",
+    "3s": "houve",
+    "1p": "houvemos",
+    "2p": "houvestes",
+    "3p": "houveram"
+  },
+  "PMQPSI": {
+    "1s": "houvera",
+    "2s": "houveras",
+    "3s": "houvera",
+    "1p": "houvéramos",
+    "2p": "houvéreis",
+    "3p": "houveram"
+  },
+  "FutSI": {
+    "1s": "haverei",
+    "2s": "haverás",
+    "3s": "haverá",
+    "1p": "haveremos",
+    "2p": "havereis",
+    "3p": "haverão"
+  },
+  "CondS": {
+    "1s": "haveria",
+    "2s": "haverias",
+    "3s": "haveria",
+    "1p": "haveríamos",
+    "2p": "haveríeis",
+    "3p": "haveriam"
+  },
+  "PresC": {
+    "1s": "haja",
+    "2s": "hajas",
+    "3s": "haja",
+    "1p": "hajamos",
+    "2p": "hajais",
+    "3p": "hajam"
+  },
+  "PImpC": {
+    "1s": "houvesse",
+    "2s": "houvesses",
+    "3s": "houvesse",
+    "1p": "houvéssemos",
+    "2p": "houvésseis",
+    "3p": "houvessem"
+  },
+  "FutSC": {
+    "1s": "houver",
+    "2s": "houveres",
+    "3s": "houver",
+    "1p": "houvermos",
+    "2p": "houverdes",
+    "3p": "houverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "há",
+    "3s": "haja",
+    "1p": "hajamos",
+    "2p": "havei",
+    "3p": "hajam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não hajas",
+    "3s": "não haja",
+    "1p": "não hajamos",
+    "2p": "não hajais",
+    "3p": "não hajam"
+  },
+  "Part-ter": {
+    "": "havido"
+  },
+  "Part-ser": {
+    "ms": "havido",
+    "fs": "havida",
+    "mp": "havidos",
+    "fp": "havidas"
+  }
+}

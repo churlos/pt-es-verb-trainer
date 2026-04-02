@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "progresar"
+  },
+  "Ger": {
+    "": "progresando"
+  },
+  "PresI": {
+    "1s": "progreso",
+    "2s": "progresas",
+    "3s": "progresa",
+    "1p": "progresamos",
+    "2p": "progresáis",
+    "3p": "progresan"
+  },
+  "PImpI": {
+    "1s": "progresaba",
+    "2s": "progresabas",
+    "3s": "progresaba",
+    "1p": "progresábamos",
+    "2p": "progresabais",
+    "3p": "progresaban"
+  },
+  "PPSI": {
+    "1s": "progresé",
+    "2s": "progresaste",
+    "3s": "progresó",
+    "1p": "progresamos",
+    "2p": "progresasteis",
+    "3p": "progresaron"
+  },
+  "FutSI": {
+    "1s": "progresaré",
+    "2s": "progresarás",
+    "3s": "progresará",
+    "1p": "progresaremos",
+    "2p": "progresaréis",
+    "3p": "progresarán"
+  },
+  "CondS": {
+    "1s": "progresaría",
+    "2s": "progresarías",
+    "3s": "progresaría",
+    "1p": "progresaríamos",
+    "2p": "progresaríais",
+    "3p": "progresarían"
+  },
+  "PresC": {
+    "1s": "progrese",
+    "2s": "progreses",
+    "3s": "progrese",
+    "1p": "progresemos",
+    "2p": "progreséis",
+    "3p": "progresen"
+  },
+  "PMQPSI": {
+    "1s": "progresara",
+    "2s": "progresaras",
+    "3s": "progresara",
+    "1p": "progresáramos",
+    "2p": "progresarais",
+    "3p": "progresaran"
+  },
+  "PImpC": {
+    "1s": "progresase",
+    "2s": "progresases",
+    "3s": "progresase",
+    "1p": "progresásemos",
+    "2p": "progresaseis",
+    "3p": "progresasen"
+  },
+  "FutSC": {
+    "1s": "progresare",
+    "2s": "progresares",
+    "3s": "progresare",
+    "1p": "progresáremos",
+    "2p": "progresareis",
+    "3p": "progresaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "progresa",
+    "3s": "progrese",
+    "1p": "progresemos",
+    "2p": "progresad",
+    "3p": "progresen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no progreses",
+    "3s": "no progrese",
+    "1p": "no progresemos",
+    "2p": "no progreséis",
+    "3p": "no progresen"
+  },
+  "Part-ter": {
+    "": "progresado"
+  },
+  "Part-ser": {
+    "ms": "progresado",
+    "fs": "progresada",
+    "mp": "progresados",
+    "fp": "progresadas"
+  }
+}

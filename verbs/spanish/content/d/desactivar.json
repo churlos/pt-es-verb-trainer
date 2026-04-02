@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desactivar"
+  },
+  "Ger": {
+    "": "desactivando"
+  },
+  "PresI": {
+    "1s": "desactivo",
+    "2s": "desactivas",
+    "3s": "desactiva",
+    "1p": "desactivamos",
+    "2p": "desactiváis",
+    "3p": "desactivan"
+  },
+  "PImpI": {
+    "1s": "desactivaba",
+    "2s": "desactivabas",
+    "3s": "desactivaba",
+    "1p": "desactivábamos",
+    "2p": "desactivabais",
+    "3p": "desactivaban"
+  },
+  "PPSI": {
+    "1s": "desactivé",
+    "2s": "desactivaste",
+    "3s": "desactivó",
+    "1p": "desactivamos",
+    "2p": "desactivasteis",
+    "3p": "desactivaron"
+  },
+  "FutSI": {
+    "1s": "desactivaré",
+    "2s": "desactivarás",
+    "3s": "desactivará",
+    "1p": "desactivaremos",
+    "2p": "desactivaréis",
+    "3p": "desactivarán"
+  },
+  "CondS": {
+    "1s": "desactivaría",
+    "2s": "desactivarías",
+    "3s": "desactivaría",
+    "1p": "desactivaríamos",
+    "2p": "desactivaríais",
+    "3p": "desactivarían"
+  },
+  "PresC": {
+    "1s": "desactive",
+    "2s": "desactives",
+    "3s": "desactive",
+    "1p": "desactivemos",
+    "2p": "desactivéis",
+    "3p": "desactiven"
+  },
+  "PMQPSI": {
+    "1s": "desactivara",
+    "2s": "desactivaras",
+    "3s": "desactivara",
+    "1p": "desactiváramos",
+    "2p": "desactivarais",
+    "3p": "desactivaran"
+  },
+  "PImpC": {
+    "1s": "desactivase",
+    "2s": "desactivases",
+    "3s": "desactivase",
+    "1p": "desactivásemos",
+    "2p": "desactivaseis",
+    "3p": "desactivasen"
+  },
+  "FutSC": {
+    "1s": "desactivare",
+    "2s": "desactivares",
+    "3s": "desactivare",
+    "1p": "desactiváremos",
+    "2p": "desactivareis",
+    "3p": "desactivaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desactiva",
+    "3s": "desactive",
+    "1p": "desactivemos",
+    "2p": "desactivad",
+    "3p": "desactiven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desactives",
+    "3s": "no desactive",
+    "1p": "no desactivemos",
+    "2p": "no desactivéis",
+    "3p": "no desactiven"
+  },
+  "Part-ter": {
+    "": "desactivado"
+  },
+  "Part-ser": {
+    "ms": "desactivado",
+    "fs": "desactivada",
+    "mp": "desactivados",
+    "fp": "desactivadas"
+  }
+}

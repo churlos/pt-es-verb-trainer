@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "carregar"
+  },
+  "InfP": {
+    "1s": "carregar",
+    "2s": "carregares",
+    "3s": "carregar",
+    "1p": "carregarmos",
+    "2p": "carregardes",
+    "3p": "carregarem"
+  },
+  "Ger": {
+    "": "carregando"
+  },
+  "PresI": {
+    "1s": "carrego",
+    "2s": "carregas",
+    "3s": "carrega",
+    "1p": "carregamos",
+    "2p": "carregais",
+    "3p": "carregam"
+  },
+  "PImpI": {
+    "1s": "carregava",
+    "2s": "carregavas",
+    "3s": "carregava",
+    "1p": "carregávamos",
+    "2p": "carregáveis",
+    "3p": "carregavam"
+  },
+  "PPSI": {
+    "1s": "carreguei",
+    "2s": "carregaste",
+    "3s": "carregou",
+    "1p": "carregámos",
+    "2p": "carregastes",
+    "3p": "carregaram"
+  },
+  "PMQPSI": {
+    "1s": "carregara",
+    "2s": "carregaras",
+    "3s": "carregara",
+    "1p": "carregáramos",
+    "2p": "carregáreis",
+    "3p": "carregaram"
+  },
+  "FutSI": {
+    "1s": "carregarei",
+    "2s": "carregarás",
+    "3s": "carregará",
+    "1p": "carregaremos",
+    "2p": "carregareis",
+    "3p": "carregarão"
+  },
+  "CondS": {
+    "1s": "carregaria",
+    "2s": "carregarias",
+    "3s": "carregaria",
+    "1p": "carregaríamos",
+    "2p": "carregaríeis",
+    "3p": "carregariam"
+  },
+  "PresC": {
+    "1s": "carregue",
+    "2s": "carregues",
+    "3s": "carregue",
+    "1p": "carreguemos",
+    "2p": "carregueis",
+    "3p": "carreguem"
+  },
+  "PImpC": {
+    "1s": "carregasse",
+    "2s": "carregasses",
+    "3s": "carregasse",
+    "1p": "carregássemos",
+    "2p": "carregásseis",
+    "3p": "carregassem"
+  },
+  "FutSC": {
+    "1s": "carregar",
+    "2s": "carregares",
+    "3s": "carregar",
+    "1p": "carregarmos",
+    "2p": "carregardes",
+    "3p": "carregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carrega",
+    "3s": "carregue",
+    "1p": "carreguemos",
+    "2p": "carregai",
+    "3p": "carreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não carregues",
+    "3s": "não carregue",
+    "1p": "não carreguemos",
+    "2p": "não carregueis",
+    "3p": "não carreguem"
+  },
+  "Part-ter": {
+    "": "carregado"
+  },
+  "Part-ser": {
+    "ms": "carregado",
+    "fs": "carregada",
+    "mp": "carregados",
+    "fp": "carregadas"
+  }
+}

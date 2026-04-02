@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vir"
+  },
+  "InfP": {
+    "1s": "vir",
+    "2s": "vires",
+    "3s": "vir",
+    "1p": "virmos",
+    "2p": "virdes",
+    "3p": "virem"
+  },
+  "Ger": {
+    "": "vindo"
+  },
+  "PresI": {
+    "1s": "venho",
+    "2s": "vens",
+    "3s": "vem",
+    "1p": "vimos",
+    "2p": "vindes",
+    "3p": "vêm"
+  },
+  "PImpI": {
+    "1s": "vinha",
+    "2s": "vinhas",
+    "3s": "vinha",
+    "1p": "vínhamos",
+    "2p": "vínheis",
+    "3p": "vinham"
+  },
+  "PPSI": {
+    "1s": "vim",
+    "2s": "vieste",
+    "3s": "veio",
+    "1p": "viemos",
+    "2p": "viestes",
+    "3p": "vieram"
+  },
+  "PMQPSI": {
+    "1s": "viera",
+    "2s": "vieras",
+    "3s": "viera",
+    "1p": "viéramos",
+    "2p": "viéreis",
+    "3p": "vieram"
+  },
+  "FutSI": {
+    "1s": "virei",
+    "2s": "virás",
+    "3s": "virá",
+    "1p": "viremos",
+    "2p": "vireis",
+    "3p": "virão"
+  },
+  "CondS": {
+    "1s": "viria",
+    "2s": "virias",
+    "3s": "viria",
+    "1p": "viríamos",
+    "2p": "viríeis",
+    "3p": "viriam"
+  },
+  "PresC": {
+    "1s": "venha",
+    "2s": "venhas",
+    "3s": "venha",
+    "1p": "venhamos",
+    "2p": "venhais",
+    "3p": "venham"
+  },
+  "PImpC": {
+    "1s": "viesse",
+    "2s": "viesses",
+    "3s": "viesse",
+    "1p": "viéssemos",
+    "2p": "viésseis",
+    "3p": "viessem"
+  },
+  "FutSC": {
+    "1s": "vier",
+    "2s": "vieres",
+    "3s": "vier",
+    "1p": "viermos",
+    "2p": "vierdes",
+    "3p": "vierem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vem",
+    "3s": "venha",
+    "1p": "venhamos",
+    "2p": "vinde",
+    "3p": "venham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não venhas",
+    "3s": "não venha",
+    "1p": "não venhamos",
+    "2p": "não venhais",
+    "3p": "não venham"
+  },
+  "Part-ter": {
+    "": "vindo"
+  },
+  "Part-ser": {
+    "ms": "vindo",
+    "fs": "vinda",
+    "mp": "vindos",
+    "fp": "vindas"
+  }
+}

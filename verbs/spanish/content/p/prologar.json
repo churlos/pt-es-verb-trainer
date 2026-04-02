@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "prologar"
+  },
+  "Ger": {
+    "": "prologando"
+  },
+  "PresI": {
+    "1s": "prologo",
+    "2s": "prologas",
+    "3s": "prologa",
+    "1p": "prologamos",
+    "2p": "prologáis",
+    "3p": "prologan"
+  },
+  "PImpI": {
+    "1s": "prologaba",
+    "2s": "prologabas",
+    "3s": "prologaba",
+    "1p": "prologábamos",
+    "2p": "prologabais",
+    "3p": "prologaban"
+  },
+  "PPSI": {
+    "1s": "prologué",
+    "2s": "prologaste",
+    "3s": "prologó",
+    "1p": "prologamos",
+    "2p": "prologasteis",
+    "3p": "prologaron"
+  },
+  "FutSI": {
+    "1s": "prologaré",
+    "2s": "prologarás",
+    "3s": "prologará",
+    "1p": "prologaremos",
+    "2p": "prologaréis",
+    "3p": "prologarán"
+  },
+  "CondS": {
+    "1s": "prologaría",
+    "2s": "prologarías",
+    "3s": "prologaría",
+    "1p": "prologaríamos",
+    "2p": "prologaríais",
+    "3p": "prologarían"
+  },
+  "PresC": {
+    "1s": "prologue",
+    "2s": "prologues",
+    "3s": "prologue",
+    "1p": "prologuemos",
+    "2p": "prologuéis",
+    "3p": "prologuen"
+  },
+  "PMQPSI": {
+    "1s": "prologara",
+    "2s": "prologaras",
+    "3s": "prologara",
+    "1p": "prologáramos",
+    "2p": "prologarais",
+    "3p": "prologaran"
+  },
+  "PImpC": {
+    "1s": "prologase",
+    "2s": "prologases",
+    "3s": "prologase",
+    "1p": "prologásemos",
+    "2p": "prologaseis",
+    "3p": "prologasen"
+  },
+  "FutSC": {
+    "1s": "prologare",
+    "2s": "prologares",
+    "3s": "prologare",
+    "1p": "prologáremos",
+    "2p": "prologareis",
+    "3p": "prologaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prologa",
+    "3s": "prologue",
+    "1p": "prologuemos",
+    "2p": "prologad",
+    "3p": "prologuen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prologues",
+    "3s": "no prologue",
+    "1p": "no prologuemos",
+    "2p": "no prologuéis",
+    "3p": "no prologuen"
+  },
+  "Part-ter": {
+    "": "prologado"
+  },
+  "Part-ser": {
+    "ms": "prologado",
+    "fs": "prologada",
+    "mp": "prologados",
+    "fp": "prologadas"
+  }
+}

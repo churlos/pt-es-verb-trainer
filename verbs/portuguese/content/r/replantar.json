@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "replantar"
+  },
+  "InfP": {
+    "1s": "replantar",
+    "2s": "replantares",
+    "3s": "replantar",
+    "1p": "replantarmos",
+    "2p": "replantardes",
+    "3p": "replantarem"
+  },
+  "Ger": {
+    "": "replantando"
+  },
+  "PresI": {
+    "1s": "replanto",
+    "2s": "replantas",
+    "3s": "replanta",
+    "1p": "replantamos",
+    "2p": "replantais",
+    "3p": "replantam"
+  },
+  "PImpI": {
+    "1s": "replantava",
+    "2s": "replantavas",
+    "3s": "replantava",
+    "1p": "replantávamos",
+    "2p": "replantáveis",
+    "3p": "replantavam"
+  },
+  "PPSI": {
+    "1s": "replantei",
+    "2s": "replantaste",
+    "3s": "replantou",
+    "1p": "replantámos",
+    "2p": "replantastes",
+    "3p": "replantaram"
+  },
+  "PMQPSI": {
+    "1s": "replantara",
+    "2s": "replantaras",
+    "3s": "replantara",
+    "1p": "replantáramos",
+    "2p": "replantáreis",
+    "3p": "replantaram"
+  },
+  "FutSI": {
+    "1s": "replantarei",
+    "2s": "replantarás",
+    "3s": "replantará",
+    "1p": "replantaremos",
+    "2p": "replantareis",
+    "3p": "replantarão"
+  },
+  "CondS": {
+    "1s": "replantaria",
+    "2s": "replantarias",
+    "3s": "replantaria",
+    "1p": "replantaríamos",
+    "2p": "replantaríeis",
+    "3p": "replantariam"
+  },
+  "PresC": {
+    "1s": "replante",
+    "2s": "replantes",
+    "3s": "replante",
+    "1p": "replantemos",
+    "2p": "replanteis",
+    "3p": "replantem"
+  },
+  "PImpC": {
+    "1s": "replantasse",
+    "2s": "replantasses",
+    "3s": "replantasse",
+    "1p": "replantássemos",
+    "2p": "replantásseis",
+    "3p": "replantassem"
+  },
+  "FutSC": {
+    "1s": "replantar",
+    "2s": "replantares",
+    "3s": "replantar",
+    "1p": "replantarmos",
+    "2p": "replantardes",
+    "3p": "replantarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "replanta",
+    "3s": "replante",
+    "1p": "replantemos",
+    "2p": "replantai",
+    "3p": "replantem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não replantes",
+    "3s": "não replante",
+    "1p": "não replantemos",
+    "2p": "não replanteis",
+    "3p": "não replantem"
+  },
+  "Part-ter": {
+    "": "replantado"
+  },
+  "Part-ser": {
+    "ms": "replantado",
+    "fs": "replantada",
+    "mp": "replantados",
+    "fp": "replantadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mancar"
+  },
+  "InfP": {
+    "1s": "mancar",
+    "2s": "mancares",
+    "3s": "mancar",
+    "1p": "mancarmos",
+    "2p": "mancardes",
+    "3p": "mancarem"
+  },
+  "Ger": {
+    "": "mancando"
+  },
+  "PresI": {
+    "1s": "manco",
+    "2s": "mancas",
+    "3s": "manca",
+    "1p": "mancamos",
+    "2p": "mancais",
+    "3p": "mancam"
+  },
+  "PImpI": {
+    "1s": "mancava",
+    "2s": "mancavas",
+    "3s": "mancava",
+    "1p": "mancávamos",
+    "2p": "mancáveis",
+    "3p": "mancavam"
+  },
+  "PPSI": {
+    "1s": "manquei",
+    "2s": "mancaste",
+    "3s": "mancou",
+    "1p": "mancámos",
+    "2p": "mancastes",
+    "3p": "mancaram"
+  },
+  "PMQPSI": {
+    "1s": "mancara",
+    "2s": "mancaras",
+    "3s": "mancara",
+    "1p": "mancáramos",
+    "2p": "mancáreis",
+    "3p": "mancaram"
+  },
+  "FutSI": {
+    "1s": "mancarei",
+    "2s": "mancarás",
+    "3s": "mancará",
+    "1p": "mancaremos",
+    "2p": "mancareis",
+    "3p": "mancarão"
+  },
+  "CondS": {
+    "1s": "mancaria",
+    "2s": "mancarias",
+    "3s": "mancaria",
+    "1p": "mancaríamos",
+    "2p": "mancaríeis",
+    "3p": "mancariam"
+  },
+  "PresC": {
+    "1s": "manque",
+    "2s": "manques",
+    "3s": "manque",
+    "1p": "manquemos",
+    "2p": "manqueis",
+    "3p": "manquem"
+  },
+  "PImpC": {
+    "1s": "mancasse",
+    "2s": "mancasses",
+    "3s": "mancasse",
+    "1p": "mancássemos",
+    "2p": "mancásseis",
+    "3p": "mancassem"
+  },
+  "FutSC": {
+    "1s": "mancar",
+    "2s": "mancares",
+    "3s": "mancar",
+    "1p": "mancarmos",
+    "2p": "mancardes",
+    "3p": "mancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manca",
+    "3s": "manque",
+    "1p": "manquemos",
+    "2p": "mancai",
+    "3p": "manquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manques",
+    "3s": "não manque",
+    "1p": "não manquemos",
+    "2p": "não manqueis",
+    "3p": "não manquem"
+  },
+  "Part-ter": {
+    "": "mancado"
+  },
+  "Part-ser": {
+    "ms": "mancado",
+    "fs": "mancada",
+    "mp": "mancados",
+    "fp": "mancadas"
+  }
+}

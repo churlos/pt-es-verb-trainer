@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ovar"
+  },
+  "InfP": {
+    "1s": "ovar",
+    "2s": "ovares",
+    "3s": "ovar",
+    "1p": "ovarmos",
+    "2p": "ovardes",
+    "3p": "ovarem"
+  },
+  "Ger": {
+    "": "ovando"
+  },
+  "PresI": {
+    "1s": "ovo",
+    "2s": "ovas",
+    "3s": "ova",
+    "1p": "ovamos",
+    "2p": "ovais",
+    "3p": "ovam"
+  },
+  "PImpI": {
+    "1s": "ovava",
+    "2s": "ovavas",
+    "3s": "ovava",
+    "1p": "ovávamos",
+    "2p": "ováveis",
+    "3p": "ovavam"
+  },
+  "PPSI": {
+    "1s": "ovei",
+    "2s": "ovaste",
+    "3s": "ovou",
+    "1p": "ovámos",
+    "2p": "ovastes",
+    "3p": "ovaram"
+  },
+  "PMQPSI": {
+    "1s": "ovara",
+    "2s": "ovaras",
+    "3s": "ovara",
+    "1p": "ováramos",
+    "2p": "ováreis",
+    "3p": "ovaram"
+  },
+  "FutSI": {
+    "1s": "ovarei",
+    "2s": "ovarás",
+    "3s": "ovará",
+    "1p": "ovaremos",
+    "2p": "ovareis",
+    "3p": "ovarão"
+  },
+  "CondS": {
+    "1s": "ovaria",
+    "2s": "ovarias",
+    "3s": "ovaria",
+    "1p": "ovaríamos",
+    "2p": "ovaríeis",
+    "3p": "ovariam"
+  },
+  "PresC": {
+    "1s": "ove",
+    "2s": "oves",
+    "3s": "ove",
+    "1p": "ovemos",
+    "2p": "oveis",
+    "3p": "ovem"
+  },
+  "PImpC": {
+    "1s": "ovasse",
+    "2s": "ovasses",
+    "3s": "ovasse",
+    "1p": "ovássemos",
+    "2p": "ovásseis",
+    "3p": "ovassem"
+  },
+  "FutSC": {
+    "1s": "ovar",
+    "2s": "ovares",
+    "3s": "ovar",
+    "1p": "ovarmos",
+    "2p": "ovardes",
+    "3p": "ovarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ova",
+    "3s": "ove",
+    "1p": "ovemos",
+    "2p": "ovai",
+    "3p": "ovem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não oves",
+    "3s": "não ove",
+    "1p": "não ovemos",
+    "2p": "não oveis",
+    "3p": "não ovem"
+  },
+  "Part-ter": {
+    "": "ovado"
+  },
+  "Part-ser": {
+    "ms": "ovado",
+    "fs": "ovada",
+    "mp": "ovados",
+    "fp": "ovadas"
+  }
+}

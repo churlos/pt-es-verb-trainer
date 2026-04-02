@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "verificar"
+  },
+  "InfP": {
+    "1s": "verificar",
+    "2s": "verificares",
+    "3s": "verificar",
+    "1p": "verificarmos",
+    "2p": "verificardes",
+    "3p": "verificarem"
+  },
+  "Ger": {
+    "": "verificando"
+  },
+  "PresI": {
+    "1s": "verifico",
+    "2s": "verificas",
+    "3s": "verifica",
+    "1p": "verificamos",
+    "2p": "verificais",
+    "3p": "verificam"
+  },
+  "PImpI": {
+    "1s": "verificava",
+    "2s": "verificavas",
+    "3s": "verificava",
+    "1p": "verificávamos",
+    "2p": "verificáveis",
+    "3p": "verificavam"
+  },
+  "PPSI": {
+    "1s": "verifiquei",
+    "2s": "verificaste",
+    "3s": "verificou",
+    "1p": "verificámos",
+    "2p": "verificastes",
+    "3p": "verificaram"
+  },
+  "PMQPSI": {
+    "1s": "verificara",
+    "2s": "verificaras",
+    "3s": "verificara",
+    "1p": "verificáramos",
+    "2p": "verificáreis",
+    "3p": "verificaram"
+  },
+  "FutSI": {
+    "1s": "verificarei",
+    "2s": "verificarás",
+    "3s": "verificará",
+    "1p": "verificaremos",
+    "2p": "verificareis",
+    "3p": "verificarão"
+  },
+  "CondS": {
+    "1s": "verificaria",
+    "2s": "verificarias",
+    "3s": "verificaria",
+    "1p": "verificaríamos",
+    "2p": "verificaríeis",
+    "3p": "verificariam"
+  },
+  "PresC": {
+    "1s": "verifique",
+    "2s": "verifiques",
+    "3s": "verifique",
+    "1p": "verifiquemos",
+    "2p": "verifiqueis",
+    "3p": "verifiquem"
+  },
+  "PImpC": {
+    "1s": "verificasse",
+    "2s": "verificasses",
+    "3s": "verificasse",
+    "1p": "verificássemos",
+    "2p": "verificásseis",
+    "3p": "verificassem"
+  },
+  "FutSC": {
+    "1s": "verificar",
+    "2s": "verificares",
+    "3s": "verificar",
+    "1p": "verificarmos",
+    "2p": "verificardes",
+    "3p": "verificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "verifica",
+    "3s": "verifique",
+    "1p": "verifiquemos",
+    "2p": "verificai",
+    "3p": "verifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não verifiques",
+    "3s": "não verifique",
+    "1p": "não verifiquemos",
+    "2p": "não verifiqueis",
+    "3p": "não verifiquem"
+  },
+  "Part-ter": {
+    "": "verificado"
+  },
+  "Part-ser": {
+    "ms": "verificado",
+    "fs": "verificada",
+    "mp": "verificados",
+    "fp": "verificadas"
+  }
+}

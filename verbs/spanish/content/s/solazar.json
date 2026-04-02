@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "solazar"
+  },
+  "Ger": {
+    "": "solazando"
+  },
+  "PresI": {
+    "1s": "solazo",
+    "2s": "solazas",
+    "3s": "solaza",
+    "1p": "solazamos",
+    "2p": "solazáis",
+    "3p": "solazan"
+  },
+  "PImpI": {
+    "1s": "solazaba",
+    "2s": "solazabas",
+    "3s": "solazaba",
+    "1p": "solazábamos",
+    "2p": "solazabais",
+    "3p": "solazaban"
+  },
+  "PPSI": {
+    "1s": "solacé",
+    "2s": "solazaste",
+    "3s": "solazó",
+    "1p": "solazamos",
+    "2p": "solazasteis",
+    "3p": "solazaron"
+  },
+  "FutSI": {
+    "1s": "solazaré",
+    "2s": "solazarás",
+    "3s": "solazará",
+    "1p": "solazaremos",
+    "2p": "solazaréis",
+    "3p": "solazarán"
+  },
+  "CondS": {
+    "1s": "solazaría",
+    "2s": "solazarías",
+    "3s": "solazaría",
+    "1p": "solazaríamos",
+    "2p": "solazaríais",
+    "3p": "solazarían"
+  },
+  "PresC": {
+    "1s": "solace",
+    "2s": "solaces",
+    "3s": "solace",
+    "1p": "solacemos",
+    "2p": "solacéis",
+    "3p": "solacen"
+  },
+  "PMQPSI": {
+    "1s": "solazara",
+    "2s": "solazaras",
+    "3s": "solazara",
+    "1p": "solazáramos",
+    "2p": "solazarais",
+    "3p": "solazaran"
+  },
+  "PImpC": {
+    "1s": "solazase",
+    "2s": "solazases",
+    "3s": "solazase",
+    "1p": "solazásemos",
+    "2p": "solazaseis",
+    "3p": "solazasen"
+  },
+  "FutSC": {
+    "1s": "solazare",
+    "2s": "solazares",
+    "3s": "solazare",
+    "1p": "solazáremos",
+    "2p": "solazareis",
+    "3p": "solazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "solaza",
+    "3s": "solace",
+    "1p": "solacemos",
+    "2p": "solazad",
+    "3p": "solacen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no solaces",
+    "3s": "no solace",
+    "1p": "no solacemos",
+    "2p": "no solacéis",
+    "3p": "no solacen"
+  },
+  "Part-ter": {
+    "": "solazado"
+  },
+  "Part-ser": {
+    "ms": "solazado",
+    "fs": "solazada",
+    "mp": "solazados",
+    "fp": "solazadas"
+  }
+}

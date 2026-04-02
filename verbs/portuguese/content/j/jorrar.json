@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "jorrar"
+  },
+  "InfP": {
+    "1s": "jorrar",
+    "2s": "jorrares",
+    "3s": "jorrar",
+    "1p": "jorrarmos",
+    "2p": "jorrardes",
+    "3p": "jorrarem"
+  },
+  "Ger": {
+    "": "jorrando"
+  },
+  "PresI": {
+    "1s": "jorro",
+    "2s": "jorras",
+    "3s": "jorra",
+    "1p": "jorramos",
+    "2p": "jorrais",
+    "3p": "jorram"
+  },
+  "PImpI": {
+    "1s": "jorrava",
+    "2s": "jorravas",
+    "3s": "jorrava",
+    "1p": "jorrávamos",
+    "2p": "jorráveis",
+    "3p": "jorravam"
+  },
+  "PPSI": {
+    "1s": "jorrei",
+    "2s": "jorraste",
+    "3s": "jorrou",
+    "1p": "jorrámos",
+    "2p": "jorrastes",
+    "3p": "jorraram"
+  },
+  "PMQPSI": {
+    "1s": "jorrara",
+    "2s": "jorraras",
+    "3s": "jorrara",
+    "1p": "jorráramos",
+    "2p": "jorráreis",
+    "3p": "jorraram"
+  },
+  "FutSI": {
+    "1s": "jorrarei",
+    "2s": "jorrarás",
+    "3s": "jorrará",
+    "1p": "jorraremos",
+    "2p": "jorrareis",
+    "3p": "jorrarão"
+  },
+  "CondS": {
+    "1s": "jorraria",
+    "2s": "jorrarias",
+    "3s": "jorraria",
+    "1p": "jorraríamos",
+    "2p": "jorraríeis",
+    "3p": "jorrariam"
+  },
+  "PresC": {
+    "1s": "jorre",
+    "2s": "jorres",
+    "3s": "jorre",
+    "1p": "jorremos",
+    "2p": "jorreis",
+    "3p": "jorrem"
+  },
+  "PImpC": {
+    "1s": "jorrasse",
+    "2s": "jorrasses",
+    "3s": "jorrasse",
+    "1p": "jorrássemos",
+    "2p": "jorrásseis",
+    "3p": "jorrassem"
+  },
+  "FutSC": {
+    "1s": "jorrar",
+    "2s": "jorrares",
+    "3s": "jorrar",
+    "1p": "jorrarmos",
+    "2p": "jorrardes",
+    "3p": "jorrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jorra",
+    "3s": "jorre",
+    "1p": "jorremos",
+    "2p": "jorrai",
+    "3p": "jorrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não jorres",
+    "3s": "não jorre",
+    "1p": "não jorremos",
+    "2p": "não jorreis",
+    "3p": "não jorrem"
+  },
+  "Part-ter": {
+    "": "jorrado"
+  },
+  "Part-ser": {
+    "ms": "jorrado",
+    "fs": "jorrada",
+    "mp": "jorrados",
+    "fp": "jorradas"
+  }
+}

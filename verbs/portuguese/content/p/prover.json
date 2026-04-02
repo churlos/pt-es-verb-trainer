@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prover"
+  },
+  "InfP": {
+    "1s": "prover",
+    "2s": "proveres",
+    "3s": "prover",
+    "1p": "provermos",
+    "2p": "proverdes",
+    "3p": "proverem"
+  },
+  "Ger": {
+    "": "provendo"
+  },
+  "PresI": {
+    "1s": "provejo",
+    "2s": "provês",
+    "3s": "provê",
+    "1p": "provemos",
+    "2p": "provedes",
+    "3p": "proveemObsolete:provêem"
+  },
+  "PImpI": {
+    "1s": "provia",
+    "2s": "provias",
+    "3s": "provia",
+    "1p": "províamos",
+    "2p": "províeis",
+    "3p": "proviam"
+  },
+  "PPSI": {
+    "1s": "provi",
+    "2s": "proviste",
+    "3s": "proveu",
+    "1p": "provemos",
+    "2p": "provestes",
+    "3p": "proveram"
+  },
+  "PMQPSI": {
+    "1s": "provera",
+    "2s": "proveras",
+    "3s": "provera",
+    "1p": "provêramos",
+    "2p": "provêreis",
+    "3p": "proveram"
+  },
+  "FutSI": {
+    "1s": "proverei",
+    "2s": "proverás",
+    "3s": "proverá",
+    "1p": "proveremos",
+    "2p": "provereis",
+    "3p": "proverão"
+  },
+  "CondS": {
+    "1s": "proveria",
+    "2s": "proverias",
+    "3s": "proveria",
+    "1p": "proveríamos",
+    "2p": "proveríeis",
+    "3p": "proveriam"
+  },
+  "PresC": {
+    "1s": "proveja",
+    "2s": "provejas",
+    "3s": "proveja",
+    "1p": "provejamos",
+    "2p": "provejais",
+    "3p": "provejam"
+  },
+  "PImpC": {
+    "1s": "provesse",
+    "2s": "provesses",
+    "3s": "provesse",
+    "1p": "provêssemos",
+    "2p": "provêsseis",
+    "3p": "provessem"
+  },
+  "FutSC": {
+    "1s": "prover",
+    "2s": "proveres",
+    "3s": "prover",
+    "1p": "provermos",
+    "2p": "proverdes",
+    "3p": "proverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "provê",
+    "3s": "proveja",
+    "1p": "provejamos",
+    "2p": "provede",
+    "3p": "provejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não provejas",
+    "3s": "não proveja",
+    "1p": "não provejamos",
+    "2p": "não provejais",
+    "3p": "não provejam"
+  },
+  "Part-ter": {
+    "": "provido"
+  },
+  "Part-ser": {
+    "ms": "provido",
+    "fs": "provida",
+    "mp": "providos",
+    "fp": "providas"
+  }
+}

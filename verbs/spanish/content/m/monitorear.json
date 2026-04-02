@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "monitorear"
+  },
+  "Ger": {
+    "": "monitoreando"
+  },
+  "PresI": {
+    "1s": "monitoreo",
+    "2s": "monitoreas",
+    "3s": "monitorea",
+    "1p": "monitoreamos",
+    "2p": "monitoreáis",
+    "3p": "monitorean"
+  },
+  "PImpI": {
+    "1s": "monitoreaba",
+    "2s": "monitoreabas",
+    "3s": "monitoreaba",
+    "1p": "monitoreábamos",
+    "2p": "monitoreabais",
+    "3p": "monitoreaban"
+  },
+  "PPSI": {
+    "1s": "monitoreé",
+    "2s": "monitoreaste",
+    "3s": "monitoreó",
+    "1p": "monitoreamos",
+    "2p": "monitoreasteis",
+    "3p": "monitorearon"
+  },
+  "FutSI": {
+    "1s": "monitorearé",
+    "2s": "monitorearás",
+    "3s": "monitoreará",
+    "1p": "monitorearemos",
+    "2p": "monitorearéis",
+    "3p": "monitorearán"
+  },
+  "CondS": {
+    "1s": "monitorearía",
+    "2s": "monitorearías",
+    "3s": "monitorearía",
+    "1p": "monitorearíamos",
+    "2p": "monitorearíais",
+    "3p": "monitorearían"
+  },
+  "PresC": {
+    "1s": "monitoree",
+    "2s": "monitorees",
+    "3s": "monitoree",
+    "1p": "monitoreemos",
+    "2p": "monitoreéis",
+    "3p": "monitoreen"
+  },
+  "PMQPSI": {
+    "1s": "monitoreara",
+    "2s": "monitorearas",
+    "3s": "monitoreara",
+    "1p": "monitoreáramos",
+    "2p": "monitorearais",
+    "3p": "monitorearan"
+  },
+  "PImpC": {
+    "1s": "monitorease",
+    "2s": "monitoreases",
+    "3s": "monitorease",
+    "1p": "monitoreásemos",
+    "2p": "monitoreaseis",
+    "3p": "monitoreasen"
+  },
+  "FutSC": {
+    "1s": "monitoreare",
+    "2s": "monitoreares",
+    "3s": "monitoreare",
+    "1p": "monitoreáremos",
+    "2p": "monitoreareis",
+    "3p": "monitorearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "monitorea",
+    "3s": "monitoree",
+    "1p": "monitoreemos",
+    "2p": "monitoread",
+    "3p": "monitoreen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no monitorees",
+    "3s": "no monitoree",
+    "1p": "no monitoreemos",
+    "2p": "no monitoreéis",
+    "3p": "no monitoreen"
+  },
+  "Part-ter": {
+    "": "monitoreado"
+  },
+  "Part-ser": {
+    "ms": "monitoreado",
+    "fs": "monitoreada",
+    "mp": "monitoreados",
+    "fp": "monitoreadas"
+  }
+}

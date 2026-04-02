@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "picar"
+  },
+  "InfP": {
+    "1s": "picar",
+    "2s": "picares",
+    "3s": "picar",
+    "1p": "picarmos",
+    "2p": "picardes",
+    "3p": "picarem"
+  },
+  "Ger": {
+    "": "picando"
+  },
+  "PresI": {
+    "1s": "pico",
+    "2s": "picas",
+    "3s": "pica",
+    "1p": "picamos",
+    "2p": "picais",
+    "3p": "picam"
+  },
+  "PImpI": {
+    "1s": "picava",
+    "2s": "picavas",
+    "3s": "picava",
+    "1p": "picávamos",
+    "2p": "picáveis",
+    "3p": "picavam"
+  },
+  "PPSI": {
+    "1s": "piquei",
+    "2s": "picaste",
+    "3s": "picou",
+    "1p": "picámos",
+    "2p": "picastes",
+    "3p": "picaram"
+  },
+  "PMQPSI": {
+    "1s": "picara",
+    "2s": "picaras",
+    "3s": "picara",
+    "1p": "picáramos",
+    "2p": "picáreis",
+    "3p": "picaram"
+  },
+  "FutSI": {
+    "1s": "picarei",
+    "2s": "picarás",
+    "3s": "picará",
+    "1p": "picaremos",
+    "2p": "picareis",
+    "3p": "picarão"
+  },
+  "CondS": {
+    "1s": "picaria",
+    "2s": "picarias",
+    "3s": "picaria",
+    "1p": "picaríamos",
+    "2p": "picaríeis",
+    "3p": "picariam"
+  },
+  "PresC": {
+    "1s": "pique",
+    "2s": "piques",
+    "3s": "pique",
+    "1p": "piquemos",
+    "2p": "piqueis",
+    "3p": "piquem"
+  },
+  "PImpC": {
+    "1s": "picasse",
+    "2s": "picasses",
+    "3s": "picasse",
+    "1p": "picássemos",
+    "2p": "picásseis",
+    "3p": "picassem"
+  },
+  "FutSC": {
+    "1s": "picar",
+    "2s": "picares",
+    "3s": "picar",
+    "1p": "picarmos",
+    "2p": "picardes",
+    "3p": "picarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pica",
+    "3s": "pique",
+    "1p": "piquemos",
+    "2p": "picai",
+    "3p": "piquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não piques",
+    "3s": "não pique",
+    "1p": "não piquemos",
+    "2p": "não piqueis",
+    "3p": "não piquem"
+  },
+  "Part-ter": {
+    "": "picado"
+  },
+  "Part-ser": {
+    "ms": "picado",
+    "fs": "picada",
+    "mp": "picados",
+    "fp": "picadas"
+  }
+}

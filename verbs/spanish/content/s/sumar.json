@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sumar"
+  },
+  "Ger": {
+    "": "sumando"
+  },
+  "PresI": {
+    "1s": "sumo",
+    "2s": "sumas",
+    "3s": "suma",
+    "1p": "sumamos",
+    "2p": "sumáis",
+    "3p": "suman"
+  },
+  "PImpI": {
+    "1s": "sumaba",
+    "2s": "sumabas",
+    "3s": "sumaba",
+    "1p": "sumábamos",
+    "2p": "sumabais",
+    "3p": "sumaban"
+  },
+  "PPSI": {
+    "1s": "sumé",
+    "2s": "sumaste",
+    "3s": "sumó",
+    "1p": "sumamos",
+    "2p": "sumasteis",
+    "3p": "sumaron"
+  },
+  "FutSI": {
+    "1s": "sumaré",
+    "2s": "sumarás",
+    "3s": "sumará",
+    "1p": "sumaremos",
+    "2p": "sumaréis",
+    "3p": "sumarán"
+  },
+  "CondS": {
+    "1s": "sumaría",
+    "2s": "sumarías",
+    "3s": "sumaría",
+    "1p": "sumaríamos",
+    "2p": "sumaríais",
+    "3p": "sumarían"
+  },
+  "PresC": {
+    "1s": "sume",
+    "2s": "sumes",
+    "3s": "sume",
+    "1p": "sumemos",
+    "2p": "suméis",
+    "3p": "sumen"
+  },
+  "PMQPSI": {
+    "1s": "sumara",
+    "2s": "sumaras",
+    "3s": "sumara",
+    "1p": "sumáramos",
+    "2p": "sumarais",
+    "3p": "sumaran"
+  },
+  "PImpC": {
+    "1s": "sumase",
+    "2s": "sumases",
+    "3s": "sumase",
+    "1p": "sumásemos",
+    "2p": "sumaseis",
+    "3p": "sumasen"
+  },
+  "FutSC": {
+    "1s": "sumare",
+    "2s": "sumares",
+    "3s": "sumare",
+    "1p": "sumáremos",
+    "2p": "sumareis",
+    "3p": "sumaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suma",
+    "3s": "sume",
+    "1p": "sumemos",
+    "2p": "sumad",
+    "3p": "sumen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sumes",
+    "3s": "no sume",
+    "1p": "no sumemos",
+    "2p": "no suméis",
+    "3p": "no sumen"
+  },
+  "Part-ter": {
+    "": "sumado"
+  },
+  "Part-ser": {
+    "ms": "sumado",
+    "fs": "sumada",
+    "mp": "sumados",
+    "fp": "sumadas"
+  }
+}

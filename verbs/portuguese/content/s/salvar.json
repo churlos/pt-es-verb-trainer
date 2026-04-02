@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "salvar"
+  },
+  "InfP": {
+    "1s": "salvar",
+    "2s": "salvares",
+    "3s": "salvar",
+    "1p": "salvarmos",
+    "2p": "salvardes",
+    "3p": "salvarem"
+  },
+  "Ger": {
+    "": "salvando"
+  },
+  "PresI": {
+    "1s": "salvo",
+    "2s": "salvas",
+    "3s": "salva",
+    "1p": "salvamos",
+    "2p": "salvais",
+    "3p": "salvam"
+  },
+  "PImpI": {
+    "1s": "salvava",
+    "2s": "salvavas",
+    "3s": "salvava",
+    "1p": "salvávamos",
+    "2p": "salváveis",
+    "3p": "salvavam"
+  },
+  "PPSI": {
+    "1s": "salvei",
+    "2s": "salvaste",
+    "3s": "salvou",
+    "1p": "salvámos",
+    "2p": "salvastes",
+    "3p": "salvaram"
+  },
+  "PMQPSI": {
+    "1s": "salvara",
+    "2s": "salvaras",
+    "3s": "salvara",
+    "1p": "salváramos",
+    "2p": "salváreis",
+    "3p": "salvaram"
+  },
+  "FutSI": {
+    "1s": "salvarei",
+    "2s": "salvarás",
+    "3s": "salvará",
+    "1p": "salvaremos",
+    "2p": "salvareis",
+    "3p": "salvarão"
+  },
+  "CondS": {
+    "1s": "salvaria",
+    "2s": "salvarias",
+    "3s": "salvaria",
+    "1p": "salvaríamos",
+    "2p": "salvaríeis",
+    "3p": "salvariam"
+  },
+  "PresC": {
+    "1s": "salve",
+    "2s": "salves",
+    "3s": "salve",
+    "1p": "salvemos",
+    "2p": "salveis",
+    "3p": "salvem"
+  },
+  "PImpC": {
+    "1s": "salvasse",
+    "2s": "salvasses",
+    "3s": "salvasse",
+    "1p": "salvássemos",
+    "2p": "salvásseis",
+    "3p": "salvassem"
+  },
+  "FutSC": {
+    "1s": "salvar",
+    "2s": "salvares",
+    "3s": "salvar",
+    "1p": "salvarmos",
+    "2p": "salvardes",
+    "3p": "salvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salva",
+    "3s": "salve",
+    "1p": "salvemos",
+    "2p": "salvai",
+    "3p": "salvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não salves",
+    "3s": "não salve",
+    "1p": "não salvemos",
+    "2p": "não salveis",
+    "3p": "não salvem"
+  },
+  "Part-ter": {
+    "": "salvado"
+  },
+  "Part-ser": {
+    "ms": "salvado",
+    "fs": "salvada",
+    "mp": "salvados",
+    "fp": "salvadas"
+  }
+}

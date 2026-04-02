@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "destruir"
+  },
+  "InfP": {
+    "1s": "destruir",
+    "2s": "destruíres",
+    "3s": "destruir",
+    "1p": "destruirmos",
+    "2p": "destruirdes",
+    "3p": "destruírem"
+  },
+  "Ger": {
+    "": "destruindo"
+  },
+  "PresI": {
+    "1s": "destruo",
+    "2s": "destróis",
+    "3s": "destrói",
+    "1p": "destruímos",
+    "2p": "destruís",
+    "3p": "destroem"
+  },
+  "PImpI": {
+    "1s": "destruía",
+    "2s": "destruias",
+    "3s": "destruía",
+    "1p": "destruíamos",
+    "2p": "destruíeis",
+    "3p": "destruíam"
+  },
+  "PPSI": {
+    "1s": "destruí",
+    "2s": "destruíste",
+    "3s": "destruiu",
+    "1p": "destruímos",
+    "2p": "destruístes",
+    "3p": "destruíram"
+  },
+  "PMQPSI": {
+    "1s": "destruíra",
+    "2s": "destruíras",
+    "3s": "destruíra",
+    "1p": "destruíramos",
+    "2p": "destruíreis",
+    "3p": "destruíram"
+  },
+  "FutSI": {
+    "1s": "destruirei",
+    "2s": "destruirás",
+    "3s": "destruirá",
+    "1p": "destruiremos",
+    "2p": "destruireis",
+    "3p": "destruirão"
+  },
+  "CondS": {
+    "1s": "destruiria",
+    "2s": "destruirias",
+    "3s": "destruiria",
+    "1p": "destruiríamos",
+    "2p": "destruiríeis",
+    "3p": "destruiriam"
+  },
+  "PresC": {
+    "1s": "destrua",
+    "2s": "destruas",
+    "3s": "destrua",
+    "1p": "destruamos",
+    "2p": "destruais",
+    "3p": "destruam"
+  },
+  "PImpC": {
+    "1s": "destruísse",
+    "2s": "destruísses",
+    "3s": "destruísse",
+    "1p": "destruíssemos",
+    "2p": "destruísseis",
+    "3p": "destruíssem"
+  },
+  "FutSC": {
+    "1s": "destruir",
+    "2s": "destruires",
+    "3s": "destruir",
+    "1p": "destruirmos",
+    "2p": "destruirdes",
+    "3p": "destruirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destrói",
+    "3s": "destrua",
+    "1p": "destruamos",
+    "2p": "destruí",
+    "3p": "destruam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não destruas",
+    "3s": "não destrua",
+    "1p": "não destruamos",
+    "2p": "não destruais",
+    "3p": "não destruam"
+  },
+  "Part-ter": {
+    "": "destruído"
+  },
+  "Part-ser": {
+    "ms": "destruído",
+    "fs": "destruída",
+    "mp": "destruídos",
+    "fp": "destruídas"
+  }
+}

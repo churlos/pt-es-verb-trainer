@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "infectar"
+  },
+  "InfP": {
+    "1s": "infectar",
+    "2s": "infectares",
+    "3s": "infectar",
+    "1p": "infectarmos",
+    "2p": "infectardes",
+    "3p": "infectarem"
+  },
+  "Ger": {
+    "": "infectando"
+  },
+  "PresI": {
+    "1s": "infecto",
+    "2s": "infectas",
+    "3s": "infecta",
+    "1p": "infectamos",
+    "2p": "infectais",
+    "3p": "infectam"
+  },
+  "PImpI": {
+    "1s": "infectava",
+    "2s": "infectavas",
+    "3s": "infectava",
+    "1p": "infectávamos",
+    "2p": "infectáveis",
+    "3p": "infectavam"
+  },
+  "PPSI": {
+    "1s": "infectei",
+    "2s": "infectaste",
+    "3s": "infectou",
+    "1p": "infectámos",
+    "2p": "infectastes",
+    "3p": "infectaram"
+  },
+  "PMQPSI": {
+    "1s": "infectara",
+    "2s": "infectaras",
+    "3s": "infectara",
+    "1p": "infectáramos",
+    "2p": "infectáreis",
+    "3p": "infectaram"
+  },
+  "FutSI": {
+    "1s": "infectarei",
+    "2s": "infectarás",
+    "3s": "infectará",
+    "1p": "infectaremos",
+    "2p": "infectareis",
+    "3p": "infectarão"
+  },
+  "CondS": {
+    "1s": "infectaria",
+    "2s": "infectarias",
+    "3s": "infectaria",
+    "1p": "infectaríamos",
+    "2p": "infectaríeis",
+    "3p": "infectariam"
+  },
+  "PresC": {
+    "1s": "infecte",
+    "2s": "infectes",
+    "3s": "infecte",
+    "1p": "infectemos",
+    "2p": "infecteis",
+    "3p": "infectem"
+  },
+  "PImpC": {
+    "1s": "infectasse",
+    "2s": "infectasses",
+    "3s": "infectasse",
+    "1p": "infectássemos",
+    "2p": "infectásseis",
+    "3p": "infectassem"
+  },
+  "FutSC": {
+    "1s": "infectar",
+    "2s": "infectares",
+    "3s": "infectar",
+    "1p": "infectarmos",
+    "2p": "infectardes",
+    "3p": "infectarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infecta",
+    "3s": "infecte",
+    "1p": "infectemos",
+    "2p": "infectai",
+    "3p": "infectem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não infectes",
+    "3s": "não infecte",
+    "1p": "não infectemos",
+    "2p": "não infecteis",
+    "3p": "não infectem"
+  },
+  "Part-ter": {
+    "": "infectado"
+  },
+  "Part-ser": {
+    "ms": "infectado",
+    "fs": "infectada",
+    "mp": "infectados",
+    "fp": "infectadas"
+  }
+}

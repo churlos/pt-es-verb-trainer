@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abrumar"
+  },
+  "Ger": {
+    "": "abrumando"
+  },
+  "PresI": {
+    "1s": "abrumo",
+    "2s": "abrumas",
+    "3s": "abruma",
+    "1p": "abrumamos",
+    "2p": "abrumáis",
+    "3p": "abruman"
+  },
+  "PImpI": {
+    "1s": "abrumaba",
+    "2s": "abrumabas",
+    "3s": "abrumaba",
+    "1p": "abrumábamos",
+    "2p": "abrumabais",
+    "3p": "abrumaban"
+  },
+  "PPSI": {
+    "1s": "abrumé",
+    "2s": "abrumaste",
+    "3s": "abrumó",
+    "1p": "abrumamos",
+    "2p": "abrumasteis",
+    "3p": "abrumaron"
+  },
+  "FutSI": {
+    "1s": "abrumaré",
+    "2s": "abrumarás",
+    "3s": "abrumará",
+    "1p": "abrumaremos",
+    "2p": "abrumaréis",
+    "3p": "abrumarán"
+  },
+  "CondS": {
+    "1s": "abrumaría",
+    "2s": "abrumarías",
+    "3s": "abrumaría",
+    "1p": "abrumaríamos",
+    "2p": "abrumaríais",
+    "3p": "abrumarían"
+  },
+  "PresC": {
+    "1s": "abrume",
+    "2s": "abrumes",
+    "3s": "abrume",
+    "1p": "abrumemos",
+    "2p": "abruméis",
+    "3p": "abrumen"
+  },
+  "PMQPSI": {
+    "1s": "abrumara",
+    "2s": "abrumaras",
+    "3s": "abrumara",
+    "1p": "abrumáramos",
+    "2p": "abrumarais",
+    "3p": "abrumaran"
+  },
+  "PImpC": {
+    "1s": "abrumase",
+    "2s": "abrumases",
+    "3s": "abrumase",
+    "1p": "abrumásemos",
+    "2p": "abrumaseis",
+    "3p": "abrumasen"
+  },
+  "FutSC": {
+    "1s": "abrumare",
+    "2s": "abrumares",
+    "3s": "abrumare",
+    "1p": "abrumáremos",
+    "2p": "abrumareis",
+    "3p": "abrumaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abruma",
+    "3s": "abrume",
+    "1p": "abrumemos",
+    "2p": "abrumad",
+    "3p": "abrumen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abrumes",
+    "3s": "no abrume",
+    "1p": "no abrumemos",
+    "2p": "no abruméis",
+    "3p": "no abrumen"
+  },
+  "Part-ter": {
+    "": "abrumado"
+  },
+  "Part-ser": {
+    "ms": "abrumado",
+    "fs": "abrumada",
+    "mp": "abrumados",
+    "fp": "abrumadas"
+  }
+}

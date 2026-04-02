@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "implicar"
+  },
+  "InfP": {
+    "1s": "implicar",
+    "2s": "implicares",
+    "3s": "implicar",
+    "1p": "implicarmos",
+    "2p": "implicardes",
+    "3p": "implicarem"
+  },
+  "Ger": {
+    "": "implicando"
+  },
+  "PresI": {
+    "1s": "implico",
+    "2s": "implicas",
+    "3s": "implica",
+    "1p": "implicamos",
+    "2p": "implicais",
+    "3p": "implicam"
+  },
+  "PImpI": {
+    "1s": "implicava",
+    "2s": "implicavas",
+    "3s": "implicava",
+    "1p": "implicávamos",
+    "2p": "implicáveis",
+    "3p": "implicavam"
+  },
+  "PPSI": {
+    "1s": "impliquei",
+    "2s": "implicaste",
+    "3s": "implicou",
+    "1p": "implicámos",
+    "2p": "implicastes",
+    "3p": "implicaram"
+  },
+  "PMQPSI": {
+    "1s": "implicara",
+    "2s": "implicaras",
+    "3s": "implicara",
+    "1p": "implicáramos",
+    "2p": "implicáreis",
+    "3p": "implicaram"
+  },
+  "FutSI": {
+    "1s": "implicarei",
+    "2s": "implicarás",
+    "3s": "implicará",
+    "1p": "implicaremos",
+    "2p": "implicareis",
+    "3p": "implicarão"
+  },
+  "CondS": {
+    "1s": "implicaria",
+    "2s": "implicarias",
+    "3s": "implicaria",
+    "1p": "implicaríamos",
+    "2p": "implicaríeis",
+    "3p": "implicariam"
+  },
+  "PresC": {
+    "1s": "implique",
+    "2s": "impliques",
+    "3s": "implique",
+    "1p": "impliquemos",
+    "2p": "impliqueis",
+    "3p": "impliquem"
+  },
+  "PImpC": {
+    "1s": "implicasse",
+    "2s": "implicasses",
+    "3s": "implicasse",
+    "1p": "implicássemos",
+    "2p": "implicásseis",
+    "3p": "implicassem"
+  },
+  "FutSC": {
+    "1s": "implicar",
+    "2s": "implicares",
+    "3s": "implicar",
+    "1p": "implicarmos",
+    "2p": "implicardes",
+    "3p": "implicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "implica",
+    "3s": "implique",
+    "1p": "impliquemos",
+    "2p": "implicai",
+    "3p": "impliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não impliques",
+    "3s": "não implique",
+    "1p": "não impliquemos",
+    "2p": "não impliqueis",
+    "3p": "não impliquem"
+  },
+  "Part-ter": {
+    "": "implicado"
+  },
+  "Part-ser": {
+    "ms": "implicado",
+    "fs": "implicada",
+    "mp": "implicados",
+    "fp": "implicadas"
+  }
+}

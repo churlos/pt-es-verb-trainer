@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trancar"
+  },
+  "InfP": {
+    "1s": "trancar",
+    "2s": "trancares",
+    "3s": "trancar",
+    "1p": "trancarmos",
+    "2p": "trancardes",
+    "3p": "trancarem"
+  },
+  "Ger": {
+    "": "trancando"
+  },
+  "PresI": {
+    "1s": "tranco",
+    "2s": "trancas",
+    "3s": "tranca",
+    "1p": "trancamos",
+    "2p": "trancais",
+    "3p": "trancam"
+  },
+  "PImpI": {
+    "1s": "trancava",
+    "2s": "trancavas",
+    "3s": "trancava",
+    "1p": "trancávamos",
+    "2p": "trancáveis",
+    "3p": "trancavam"
+  },
+  "PPSI": {
+    "1s": "tranquei",
+    "2s": "trancaste",
+    "3s": "trancou",
+    "1p": "trancámos",
+    "2p": "trancastes",
+    "3p": "trancaram"
+  },
+  "PMQPSI": {
+    "1s": "trancara",
+    "2s": "trancaras",
+    "3s": "trancara",
+    "1p": "trancáramos",
+    "2p": "trancáreis",
+    "3p": "trancaram"
+  },
+  "FutSI": {
+    "1s": "trancarei",
+    "2s": "trancarás",
+    "3s": "trancará",
+    "1p": "trancaremos",
+    "2p": "trancareis",
+    "3p": "trancarão"
+  },
+  "CondS": {
+    "1s": "trancaria",
+    "2s": "trancarias",
+    "3s": "trancaria",
+    "1p": "trancaríamos",
+    "2p": "trancaríeis",
+    "3p": "trancariam"
+  },
+  "PresC": {
+    "1s": "tranque",
+    "2s": "tranques",
+    "3s": "tranque",
+    "1p": "tranquemos",
+    "2p": "tranqueis",
+    "3p": "tranquem"
+  },
+  "PImpC": {
+    "1s": "trancasse",
+    "2s": "trancasses",
+    "3s": "trancasse",
+    "1p": "trancássemos",
+    "2p": "trancásseis",
+    "3p": "trancassem"
+  },
+  "FutSC": {
+    "1s": "trancar",
+    "2s": "trancares",
+    "3s": "trancar",
+    "1p": "trancarmos",
+    "2p": "trancardes",
+    "3p": "trancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tranca",
+    "3s": "tranque",
+    "1p": "tranquemos",
+    "2p": "trancai",
+    "3p": "tranquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tranques",
+    "3s": "não tranque",
+    "1p": "não tranquemos",
+    "2p": "não tranqueis",
+    "3p": "não tranquem"
+  },
+  "Part-ter": {
+    "": "trancado"
+  },
+  "Part-ser": {
+    "ms": "trancado",
+    "fs": "trancada",
+    "mp": "trancados",
+    "fp": "trancadas"
+  }
+}

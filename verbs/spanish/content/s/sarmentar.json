@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sarmentar"
+  },
+  "Ger": {
+    "": "sarmentando"
+  },
+  "PresI": {
+    "1s": "sarmiento",
+    "2s": "sarmientas",
+    "3s": "sarmienta",
+    "1p": "sarmentamos",
+    "2p": "sarmentáis",
+    "3p": "sarmientan"
+  },
+  "PImpI": {
+    "1s": "sarmentaba",
+    "2s": "sarmentabas",
+    "3s": "sarmentaba",
+    "1p": "sarmentábamos",
+    "2p": "sarmentabais",
+    "3p": "sarmentaban"
+  },
+  "PPSI": {
+    "1s": "sarmenté",
+    "2s": "sarmentaste",
+    "3s": "sarmentó",
+    "1p": "sarmentamos",
+    "2p": "sarmentasteis",
+    "3p": "sarmentaron"
+  },
+  "FutSI": {
+    "1s": "sarmentaré",
+    "2s": "sarmentarás",
+    "3s": "sarmentará",
+    "1p": "sarmentaremos",
+    "2p": "sarmentaréis",
+    "3p": "sarmentarán"
+  },
+  "CondS": {
+    "1s": "sarmentaría",
+    "2s": "sarmentarías",
+    "3s": "sarmentaría",
+    "1p": "sarmentaríamos",
+    "2p": "sarmentaríais",
+    "3p": "sarmentarían"
+  },
+  "PresC": {
+    "1s": "sarmiente",
+    "2s": "sarmientes",
+    "3s": "sarmiente",
+    "1p": "sarmentemos",
+    "2p": "sarmentéis",
+    "3p": "sarmienten"
+  },
+  "PMQPSI": {
+    "1s": "sarmentara",
+    "2s": "sarmentaras",
+    "3s": "sarmentara",
+    "1p": "sarmentáramos",
+    "2p": "sarmentarais",
+    "3p": "sarmentaran"
+  },
+  "PImpC": {
+    "1s": "sarmentase",
+    "2s": "sarmentases",
+    "3s": "sarmentase",
+    "1p": "sarmentásemos",
+    "2p": "sarmentaseis",
+    "3p": "sarmentasen"
+  },
+  "FutSC": {
+    "1s": "sarmentare",
+    "2s": "sarmentares",
+    "3s": "sarmentare",
+    "1p": "sarmentáremos",
+    "2p": "sarmentareis",
+    "3p": "sarmentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sarmienta",
+    "3s": "sarmiente",
+    "1p": "sarmentemos",
+    "2p": "sarmentad",
+    "3p": "sarmienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sarmientes",
+    "3s": "no sarmiente",
+    "1p": "no sarmentemos",
+    "2p": "no sarmentéis",
+    "3p": "no sarmienten"
+  },
+  "Part-ter": {
+    "": "sarmentado"
+  },
+  "Part-ser": {
+    "ms": "sarmentado",
+    "fs": "sarmentada",
+    "mp": "sarmentados",
+    "fp": "sarmentadas"
+  }
+}

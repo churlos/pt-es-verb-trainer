@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "virtualizar"
+  },
+  "Ger": {
+    "": "virtualizando"
+  },
+  "PresI": {
+    "1s": "virtualizo",
+    "2s": "virtualizas",
+    "3s": "virtualiza",
+    "1p": "virtualizamos",
+    "2p": "virtualizáis",
+    "3p": "virtualizan"
+  },
+  "PImpI": {
+    "1s": "virtualizaba",
+    "2s": "virtualizabas",
+    "3s": "virtualizaba",
+    "1p": "virtualizábamos",
+    "2p": "virtualizabais",
+    "3p": "virtualizaban"
+  },
+  "PPSI": {
+    "1s": "virtualicé",
+    "2s": "virtualizaste",
+    "3s": "virtualizó",
+    "1p": "virtualizamos",
+    "2p": "virtualizasteis",
+    "3p": "virtualizaron"
+  },
+  "FutSI": {
+    "1s": "virtualizaré",
+    "2s": "virtualizarás",
+    "3s": "virtualizará",
+    "1p": "virtualizaremos",
+    "2p": "virtualizaréis",
+    "3p": "virtualizarán"
+  },
+  "CondS": {
+    "1s": "virtualizaría",
+    "2s": "virtualizarías",
+    "3s": "virtualizaría",
+    "1p": "virtualizaríamos",
+    "2p": "virtualizaríais",
+    "3p": "virtualizarían"
+  },
+  "PresC": {
+    "1s": "virtualice",
+    "2s": "virtualices",
+    "3s": "virtualice",
+    "1p": "virtualicemos",
+    "2p": "virtualicéis",
+    "3p": "virtualicen"
+  },
+  "PMQPSI": {
+    "1s": "virtualizara",
+    "2s": "virtualizaras",
+    "3s": "virtualizara",
+    "1p": "virtualizáramos",
+    "2p": "virtualizarais",
+    "3p": "virtualizaran"
+  },
+  "PImpC": {
+    "1s": "virtualizase",
+    "2s": "virtualizases",
+    "3s": "virtualizase",
+    "1p": "virtualizásemos",
+    "2p": "virtualizaseis",
+    "3p": "virtualizasen"
+  },
+  "FutSC": {
+    "1s": "virtualizare",
+    "2s": "virtualizares",
+    "3s": "virtualizare",
+    "1p": "virtualizáremos",
+    "2p": "virtualizareis",
+    "3p": "virtualizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "virtualiza",
+    "3s": "virtualice",
+    "1p": "virtualicemos",
+    "2p": "virtualizad",
+    "3p": "virtualicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no virtualices",
+    "3s": "no virtualice",
+    "1p": "no virtualicemos",
+    "2p": "no virtualicéis",
+    "3p": "no virtualicen"
+  },
+  "Part-ter": {
+    "": "virtualizado"
+  },
+  "Part-ser": {
+    "ms": "virtualizado",
+    "fs": "virtualizada",
+    "mp": "virtualizados",
+    "fp": "virtualizadas"
+  }
+}

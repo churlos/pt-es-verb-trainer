@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "zapar"
+  },
+  "InfP": {
+    "1s": "zapar",
+    "2s": "zapares",
+    "3s": "zapar",
+    "1p": "zaparmos",
+    "2p": "zapardes",
+    "3p": "zaparem"
+  },
+  "Ger": {
+    "": "zapando"
+  },
+  "PresI": {
+    "1s": "zapo",
+    "2s": "zapas",
+    "3s": "zapa",
+    "1p": "zapamos",
+    "2p": "zapais",
+    "3p": "zapam"
+  },
+  "PImpI": {
+    "1s": "zapava",
+    "2s": "zapavas",
+    "3s": "zapava",
+    "1p": "zapávamos",
+    "2p": "zapáveis",
+    "3p": "zapavam"
+  },
+  "PPSI": {
+    "1s": "zapei",
+    "2s": "zapaste",
+    "3s": "zapou",
+    "1p": "zapámos",
+    "2p": "zapastes",
+    "3p": "zaparam"
+  },
+  "PMQPSI": {
+    "1s": "zapara",
+    "2s": "zaparas",
+    "3s": "zapara",
+    "1p": "zapáramos",
+    "2p": "zapáreis",
+    "3p": "zaparam"
+  },
+  "FutSI": {
+    "1s": "zaparei",
+    "2s": "zaparás",
+    "3s": "zapará",
+    "1p": "zaparemos",
+    "2p": "zapareis",
+    "3p": "zaparão"
+  },
+  "CondS": {
+    "1s": "zaparia",
+    "2s": "zaparias",
+    "3s": "zaparia",
+    "1p": "zaparíamos",
+    "2p": "zaparíeis",
+    "3p": "zapariam"
+  },
+  "PresC": {
+    "1s": "zape",
+    "2s": "zapes",
+    "3s": "zape",
+    "1p": "zapemos",
+    "2p": "zapeis",
+    "3p": "zapem"
+  },
+  "PImpC": {
+    "1s": "zapasse",
+    "2s": "zapasses",
+    "3s": "zapasse",
+    "1p": "zapássemos",
+    "2p": "zapásseis",
+    "3p": "zapassem"
+  },
+  "FutSC": {
+    "1s": "zapar",
+    "2s": "zapares",
+    "3s": "zapar",
+    "1p": "zaparmos",
+    "2p": "zapardes",
+    "3p": "zaparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zapa",
+    "3s": "zape",
+    "1p": "zapemos",
+    "2p": "zapai",
+    "3p": "zapem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não zapes",
+    "3s": "não zape",
+    "1p": "não zapemos",
+    "2p": "não zapeis",
+    "3p": "não zapem"
+  },
+  "Part-ter": {
+    "": "zapado"
+  },
+  "Part-ser": {
+    "ms": "zapado",
+    "fs": "zapada",
+    "mp": "zapados",
+    "fp": "zapadas"
+  }
+}

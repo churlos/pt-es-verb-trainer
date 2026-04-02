@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abrir"
+  },
+  "InfP": {
+    "1s": "abrir",
+    "2s": "abrires",
+    "3s": "abrir",
+    "1p": "abrirmos",
+    "2p": "abrirdes",
+    "3p": "abrirem"
+  },
+  "Ger": {
+    "": "abrindo"
+  },
+  "PresI": {
+    "1s": "abro",
+    "2s": "abres",
+    "3s": "abre",
+    "1p": "abrimos",
+    "2p": "abris",
+    "3p": "abrem"
+  },
+  "PImpI": {
+    "1s": "abria",
+    "2s": "abrias",
+    "3s": "abria",
+    "1p": "abríamos",
+    "2p": "abríeis",
+    "3p": "abriam"
+  },
+  "PPSI": {
+    "1s": "abri",
+    "2s": "abriste",
+    "3s": "abriu",
+    "1p": "abrimos",
+    "2p": "abristes",
+    "3p": "abriram"
+  },
+  "PMQPSI": {
+    "1s": "abrira",
+    "2s": "abriras",
+    "3s": "abrira",
+    "1p": "abríramos",
+    "2p": "abríreis",
+    "3p": "abriram"
+  },
+  "FutSI": {
+    "1s": "abrirei",
+    "2s": "abrirás",
+    "3s": "abrirá",
+    "1p": "abriremos",
+    "2p": "abrireis",
+    "3p": "abrirão"
+  },
+  "CondS": {
+    "1s": "abriria",
+    "2s": "abririas",
+    "3s": "abriria",
+    "1p": "abriríamos",
+    "2p": "abriríeis",
+    "3p": "abririam"
+  },
+  "PresC": {
+    "1s": "abra",
+    "2s": "abras",
+    "3s": "abra",
+    "1p": "abramos",
+    "2p": "abrais",
+    "3p": "abram"
+  },
+  "PImpC": {
+    "1s": "abrisse",
+    "2s": "abrisses",
+    "3s": "abrisse",
+    "1p": "abríssemos",
+    "2p": "abrísseis",
+    "3p": "abrissem"
+  },
+  "FutSC": {
+    "1s": "abrir",
+    "2s": "abrires",
+    "3s": "abrir",
+    "1p": "abrirmos",
+    "2p": "abrirdes",
+    "3p": "abrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abre",
+    "3s": "abra",
+    "1p": "abramos",
+    "2p": "abri",
+    "3p": "abram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abras",
+    "3s": "não abra",
+    "1p": "não abramos",
+    "2p": "não abrais",
+    "3p": "não abram"
+  },
+  "Part-ter": {
+    "": "aberto"
+  },
+  "Part-ser": {
+    "ms": "aberto",
+    "fs": "aberta",
+    "mp": "abertos",
+    "fp": "abertas"
+  }
+}

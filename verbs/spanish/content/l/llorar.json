@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "llorar"
+  },
+  "Ger": {
+    "": "llorando"
+  },
+  "PresI": {
+    "1s": "lloro",
+    "2s": "lloras",
+    "3s": "llora",
+    "1p": "lloramos",
+    "2p": "lloráis",
+    "3p": "lloran"
+  },
+  "PImpI": {
+    "1s": "lloraba",
+    "2s": "llorabas",
+    "3s": "lloraba",
+    "1p": "llorábamos",
+    "2p": "llorabais",
+    "3p": "lloraban"
+  },
+  "PPSI": {
+    "1s": "lloré",
+    "2s": "lloraste",
+    "3s": "lloró",
+    "1p": "lloramos",
+    "2p": "llorasteis",
+    "3p": "lloraron"
+  },
+  "FutSI": {
+    "1s": "lloraré",
+    "2s": "llorarás",
+    "3s": "llorará",
+    "1p": "lloraremos",
+    "2p": "lloraréis",
+    "3p": "llorarán"
+  },
+  "CondS": {
+    "1s": "lloraría",
+    "2s": "llorarías",
+    "3s": "lloraría",
+    "1p": "lloraríamos",
+    "2p": "lloraríais",
+    "3p": "llorarían"
+  },
+  "PresC": {
+    "1s": "llore",
+    "2s": "llores",
+    "3s": "llore",
+    "1p": "lloremos",
+    "2p": "lloréis",
+    "3p": "lloren"
+  },
+  "PMQPSI": {
+    "1s": "llorara",
+    "2s": "lloraras",
+    "3s": "llorara",
+    "1p": "lloráramos",
+    "2p": "llorarais",
+    "3p": "lloraran"
+  },
+  "PImpC": {
+    "1s": "llorase",
+    "2s": "llorases",
+    "3s": "llorase",
+    "1p": "llorásemos",
+    "2p": "lloraseis",
+    "3p": "llorasen"
+  },
+  "FutSC": {
+    "1s": "llorare",
+    "2s": "llorares",
+    "3s": "llorare",
+    "1p": "lloráremos",
+    "2p": "llorareis",
+    "3p": "lloraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "llora",
+    "3s": "llore",
+    "1p": "lloremos",
+    "2p": "llorad",
+    "3p": "lloren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no llores",
+    "3s": "no llore",
+    "1p": "no lloremos",
+    "2p": "no lloréis",
+    "3p": "no lloren"
+  },
+  "Part-ter": {
+    "": "llorado"
+  },
+  "Part-ser": {
+    "ms": "llorado",
+    "fs": "llorada",
+    "mp": "llorados",
+    "fp": "lloradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "morder"
+  },
+  "Ger": {
+    "": "mordiendo"
+  },
+  "PresI": {
+    "1s": "muerdo",
+    "2s": "muerdes",
+    "3s": "muerde",
+    "1p": "mordemos",
+    "2p": "mordéis",
+    "3p": "muerden"
+  },
+  "PImpI": {
+    "1s": "mordía",
+    "2s": "mordías",
+    "3s": "mordía",
+    "1p": "mordíamos",
+    "2p": "mordíais",
+    "3p": "mordían"
+  },
+  "PPSI": {
+    "1s": "mordí",
+    "2s": "mordiste",
+    "3s": "mordió",
+    "1p": "mordimos",
+    "2p": "mordisteis",
+    "3p": "mordieron"
+  },
+  "FutSI": {
+    "1s": "morderé",
+    "2s": "morderás",
+    "3s": "morderá",
+    "1p": "morderemos",
+    "2p": "morderéis",
+    "3p": "morderán"
+  },
+  "CondS": {
+    "1s": "mordería",
+    "2s": "morderías",
+    "3s": "mordería",
+    "1p": "morderíamos",
+    "2p": "morderíais",
+    "3p": "morderían"
+  },
+  "PresC": {
+    "1s": "muerda",
+    "2s": "muerdas",
+    "3s": "muerda",
+    "1p": "mordamos",
+    "2p": "mordáis",
+    "3p": "muerdan"
+  },
+  "PMQPSI": {
+    "1s": "mordiera",
+    "2s": "mordieras",
+    "3s": "mordiera",
+    "1p": "mordiéramos",
+    "2p": "mordierais",
+    "3p": "mordieran"
+  },
+  "PImpC": {
+    "1s": "mordiese",
+    "2s": "mordieses",
+    "3s": "mordiese",
+    "1p": "mordiésemos",
+    "2p": "mordieseis",
+    "3p": "mordiesen"
+  },
+  "FutSC": {
+    "1s": "mordiere",
+    "2s": "mordieres",
+    "3s": "mordiere",
+    "1p": "mordiéremos",
+    "2p": "mordiereis",
+    "3p": "mordieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "muerde",
+    "3s": "muerda",
+    "1p": "mordamos",
+    "2p": "morded",
+    "3p": "muerdan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no muerdas",
+    "3s": "no muerda",
+    "1p": "no mordamos",
+    "2p": "no mordáis",
+    "3p": "no muerdan"
+  },
+  "Part-ter": {
+    "": "mordido"
+  },
+  "Part-ser": {
+    "ms": "mordido",
+    "fs": "mordida",
+    "mp": "mordidos",
+    "fp": "mordidas"
+  }
+}

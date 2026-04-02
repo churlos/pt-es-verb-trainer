@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rebalancear"
+  },
+  "Ger": {
+    "": "rebalanceando"
+  },
+  "PresI": {
+    "1s": "rebalanceo",
+    "2s": "rebalanceas",
+    "3s": "rebalancea",
+    "1p": "rebalanceamos",
+    "2p": "rebalanceáis",
+    "3p": "rebalancean"
+  },
+  "PImpI": {
+    "1s": "rebalanceaba",
+    "2s": "rebalanceabas",
+    "3s": "rebalanceaba",
+    "1p": "rebalanceábamos",
+    "2p": "rebalanceabais",
+    "3p": "rebalanceaban"
+  },
+  "PPSI": {
+    "1s": "rebalanceé",
+    "2s": "rebalanceaste",
+    "3s": "rebalanceó",
+    "1p": "rebalanceamos",
+    "2p": "rebalanceasteis",
+    "3p": "rebalancearon"
+  },
+  "FutSI": {
+    "1s": "rebalancearé",
+    "2s": "rebalancearás",
+    "3s": "rebalanceará",
+    "1p": "rebalancearemos",
+    "2p": "rebalancearéis",
+    "3p": "rebalancearán"
+  },
+  "CondS": {
+    "1s": "rebalancearía",
+    "2s": "rebalancearías",
+    "3s": "rebalancearía",
+    "1p": "rebalancearíamos",
+    "2p": "rebalancearíais",
+    "3p": "rebalancearían"
+  },
+  "PresC": {
+    "1s": "rebalancee",
+    "2s": "rebalancees",
+    "3s": "rebalancee",
+    "1p": "rebalanceemos",
+    "2p": "rebalanceéis",
+    "3p": "rebalanceen"
+  },
+  "PMQPSI": {
+    "1s": "rebalanceara",
+    "2s": "rebalancearas",
+    "3s": "rebalanceara",
+    "1p": "rebalanceáramos",
+    "2p": "rebalancearais",
+    "3p": "rebalancearan"
+  },
+  "PImpC": {
+    "1s": "rebalancease",
+    "2s": "rebalanceases",
+    "3s": "rebalancease",
+    "1p": "rebalanceásemos",
+    "2p": "rebalanceaseis",
+    "3p": "rebalanceasen"
+  },
+  "FutSC": {
+    "1s": "rebalanceare",
+    "2s": "rebalanceares",
+    "3s": "rebalanceare",
+    "1p": "rebalanceáremos",
+    "2p": "rebalanceareis",
+    "3p": "rebalancearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rebalancea",
+    "3s": "rebalancee",
+    "1p": "rebalanceemos",
+    "2p": "rebalancead",
+    "3p": "rebalanceen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rebalancees",
+    "3s": "no rebalancee",
+    "1p": "no rebalanceemos",
+    "2p": "no rebalanceéis",
+    "3p": "no rebalanceen"
+  },
+  "Part-ter": {
+    "": "rebalanceado"
+  },
+  "Part-ser": {
+    "ms": "rebalanceado",
+    "fs": "rebalanceada",
+    "mp": "rebalanceados",
+    "fp": "rebalanceadas"
+  }
+}

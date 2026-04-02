@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "contestar"
+  },
+  "InfP": {
+    "1s": "contestar",
+    "2s": "contestares",
+    "3s": "contestar",
+    "1p": "contestarmos",
+    "2p": "contestardes",
+    "3p": "contestarem"
+  },
+  "Ger": {
+    "": "contestando"
+  },
+  "PresI": {
+    "1s": "contesto",
+    "2s": "contestas",
+    "3s": "contesta",
+    "1p": "contestamos",
+    "2p": "contestais",
+    "3p": "contestam"
+  },
+  "PImpI": {
+    "1s": "contestava",
+    "2s": "contestavas",
+    "3s": "contestava",
+    "1p": "contestávamos",
+    "2p": "contestáveis",
+    "3p": "contestavam"
+  },
+  "PPSI": {
+    "1s": "contestei",
+    "2s": "contestaste",
+    "3s": "contestou",
+    "1p": "contestámos",
+    "2p": "contestastes",
+    "3p": "contestaram"
+  },
+  "PMQPSI": {
+    "1s": "contestara",
+    "2s": "contestaras",
+    "3s": "contestara",
+    "1p": "contestáramos",
+    "2p": "contestáreis",
+    "3p": "contestaram"
+  },
+  "FutSI": {
+    "1s": "contestarei",
+    "2s": "contestarás",
+    "3s": "contestará",
+    "1p": "contestaremos",
+    "2p": "contestareis",
+    "3p": "contestarão"
+  },
+  "CondS": {
+    "1s": "contestaria",
+    "2s": "contestarias",
+    "3s": "contestaria",
+    "1p": "contestaríamos",
+    "2p": "contestaríeis",
+    "3p": "contestariam"
+  },
+  "PresC": {
+    "1s": "conteste",
+    "2s": "contestes",
+    "3s": "conteste",
+    "1p": "contestemos",
+    "2p": "contesteis",
+    "3p": "contestem"
+  },
+  "PImpC": {
+    "1s": "contestasse",
+    "2s": "contestasses",
+    "3s": "contestasse",
+    "1p": "contestássemos",
+    "2p": "contestásseis",
+    "3p": "contestassem"
+  },
+  "FutSC": {
+    "1s": "contestar",
+    "2s": "contestares",
+    "3s": "contestar",
+    "1p": "contestarmos",
+    "2p": "contestardes",
+    "3p": "contestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contesta",
+    "3s": "conteste",
+    "1p": "contestemos",
+    "2p": "contestai",
+    "3p": "contestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contestes",
+    "3s": "não conteste",
+    "1p": "não contestemos",
+    "2p": "não contesteis",
+    "3p": "não contestem"
+  },
+  "Part-ter": {
+    "": "contestado"
+  },
+  "Part-ser": {
+    "ms": "contestado",
+    "fs": "contestada",
+    "mp": "contestados",
+    "fp": "contestadas"
+  }
+}

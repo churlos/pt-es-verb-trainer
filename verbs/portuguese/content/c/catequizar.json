@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "catequizar"
+  },
+  "InfP": {
+    "1s": "catequizar",
+    "2s": "catequizares",
+    "3s": "catequizar",
+    "1p": "catequizarmos",
+    "2p": "catequizardes",
+    "3p": "catequizarem"
+  },
+  "Ger": {
+    "": "catequizando"
+  },
+  "PresI": {
+    "1s": "catequizo",
+    "2s": "catequizas",
+    "3s": "catequiza",
+    "1p": "catequizamos",
+    "2p": "catequizais",
+    "3p": "catequizam"
+  },
+  "PImpI": {
+    "1s": "catequizava",
+    "2s": "catequizavas",
+    "3s": "catequizava",
+    "1p": "catequizávamos",
+    "2p": "catequizáveis",
+    "3p": "catequizavam"
+  },
+  "PPSI": {
+    "1s": "catequizei",
+    "2s": "catequizaste",
+    "3s": "catequizou",
+    "1p": "catequizámos",
+    "2p": "catequizastes",
+    "3p": "catequizaram"
+  },
+  "PMQPSI": {
+    "1s": "catequizara",
+    "2s": "catequizaras",
+    "3s": "catequizara",
+    "1p": "catequizáramos",
+    "2p": "catequizáreis",
+    "3p": "catequizaram"
+  },
+  "FutSI": {
+    "1s": "catequizarei",
+    "2s": "catequizarás",
+    "3s": "catequizará",
+    "1p": "catequizaremos",
+    "2p": "catequizareis",
+    "3p": "catequizarão"
+  },
+  "CondS": {
+    "1s": "catequizaria",
+    "2s": "catequizarias",
+    "3s": "catequizaria",
+    "1p": "catequizaríamos",
+    "2p": "catequizaríeis",
+    "3p": "catequizariam"
+  },
+  "PresC": {
+    "1s": "catequize",
+    "2s": "catequizes",
+    "3s": "catequize",
+    "1p": "catequizemos",
+    "2p": "catequizeis",
+    "3p": "catequizem"
+  },
+  "PImpC": {
+    "1s": "catequizasse",
+    "2s": "catequizasses",
+    "3s": "catequizasse",
+    "1p": "catequizássemos",
+    "2p": "catequizásseis",
+    "3p": "catequizassem"
+  },
+  "FutSC": {
+    "1s": "catequizar",
+    "2s": "catequizares",
+    "3s": "catequizar",
+    "1p": "catequizarmos",
+    "2p": "catequizardes",
+    "3p": "catequizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "catequiza",
+    "3s": "catequize",
+    "1p": "catequizemos",
+    "2p": "catequizai",
+    "3p": "catequizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não catequizes",
+    "3s": "não catequize",
+    "1p": "não catequizemos",
+    "2p": "não catequizeis",
+    "3p": "não catequizem"
+  },
+  "Part-ter": {
+    "": "catequizado"
+  },
+  "Part-ser": {
+    "ms": "catequizado",
+    "fs": "catequizada",
+    "mp": "catequizados",
+    "fp": "catequizadas"
+  }
+}

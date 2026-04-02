@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abogar"
+  },
+  "Ger": {
+    "": "abogando"
+  },
+  "PresI": {
+    "1s": "abogo",
+    "2s": "abogas",
+    "3s": "aboga",
+    "1p": "abogamos",
+    "2p": "abogáis",
+    "3p": "abogan"
+  },
+  "PImpI": {
+    "1s": "abogaba",
+    "2s": "abogabas",
+    "3s": "abogaba",
+    "1p": "abogábamos",
+    "2p": "abogabais",
+    "3p": "abogaban"
+  },
+  "PPSI": {
+    "1s": "abogué",
+    "2s": "abogaste",
+    "3s": "abogó",
+    "1p": "abogamos",
+    "2p": "abogasteis",
+    "3p": "abogaron"
+  },
+  "FutSI": {
+    "1s": "abogaré",
+    "2s": "abogarás",
+    "3s": "abogará",
+    "1p": "abogaremos",
+    "2p": "abogaréis",
+    "3p": "abogarán"
+  },
+  "CondS": {
+    "1s": "abogaría",
+    "2s": "abogarías",
+    "3s": "abogaría",
+    "1p": "abogaríamos",
+    "2p": "abogaríais",
+    "3p": "abogarían"
+  },
+  "PresC": {
+    "1s": "abogue",
+    "2s": "abogues",
+    "3s": "abogue",
+    "1p": "aboguemos",
+    "2p": "aboguéis",
+    "3p": "aboguen"
+  },
+  "PMQPSI": {
+    "1s": "abogara",
+    "2s": "abogaras",
+    "3s": "abogara",
+    "1p": "abogáramos",
+    "2p": "abogarais",
+    "3p": "abogaran"
+  },
+  "PImpC": {
+    "1s": "abogase",
+    "2s": "abogases",
+    "3s": "abogase",
+    "1p": "abogásemos",
+    "2p": "abogaseis",
+    "3p": "abogasen"
+  },
+  "FutSC": {
+    "1s": "abogare",
+    "2s": "abogares",
+    "3s": "abogare",
+    "1p": "abogáremos",
+    "2p": "abogareis",
+    "3p": "abogaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aboga",
+    "3s": "abogue",
+    "1p": "aboguemos",
+    "2p": "abogad",
+    "3p": "aboguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abogues",
+    "3s": "no abogue",
+    "1p": "no aboguemos",
+    "2p": "no aboguéis",
+    "3p": "no aboguen"
+  },
+  "Part-ter": {
+    "": "abogado"
+  },
+  "Part-ser": {
+    "ms": "abogado",
+    "fs": "abogada",
+    "mp": "abogados",
+    "fp": "abogadas"
+  }
+}

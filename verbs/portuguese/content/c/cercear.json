@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cercear"
+  },
+  "InfP": {
+    "1s": "cercear",
+    "2s": "cerceares",
+    "3s": "cercear",
+    "1p": "cercearmos",
+    "2p": "cerceardes",
+    "3p": "cercearem"
+  },
+  "Ger": {
+    "": "cerceando"
+  },
+  "PresI": {
+    "1s": "cerceio",
+    "2s": "cerceias",
+    "3s": "cerceia",
+    "1p": "cerceamos",
+    "2p": "cerceais",
+    "3p": "cerceiam"
+  },
+  "PImpI": {
+    "1s": "cerceava",
+    "2s": "cerceavas",
+    "3s": "cerceava",
+    "1p": "cerceávamos",
+    "2p": "cerceáveis",
+    "3p": "cerceavam"
+  },
+  "PPSI": {
+    "1s": "cerceei",
+    "2s": "cerceaste",
+    "3s": "cerceou",
+    "1p": "cerceámos",
+    "2p": "cerceastes",
+    "3p": "cercearam"
+  },
+  "PMQPSI": {
+    "1s": "cerceara",
+    "2s": "cercearas",
+    "3s": "cerceara",
+    "1p": "cerceáramos",
+    "2p": "cerceáreis",
+    "3p": "cercearam"
+  },
+  "FutSI": {
+    "1s": "cercearei",
+    "2s": "cercearás",
+    "3s": "cerceará",
+    "1p": "cercearemos",
+    "2p": "cerceareis",
+    "3p": "cercearão"
+  },
+  "CondS": {
+    "1s": "cercearia",
+    "2s": "cercearias",
+    "3s": "cercearia",
+    "1p": "cercearíamos",
+    "2p": "cercearíeis",
+    "3p": "cerceariam"
+  },
+  "PresC": {
+    "1s": "cerceie",
+    "2s": "cerceies",
+    "3s": "cerceie",
+    "1p": "cerceemos",
+    "2p": "cerceeis",
+    "3p": "cerceiem"
+  },
+  "PImpC": {
+    "1s": "cerceasse",
+    "2s": "cerceasses",
+    "3s": "cerceasse",
+    "1p": "cerceássemos",
+    "2p": "cerceásseis",
+    "3p": "cerceassem"
+  },
+  "FutSC": {
+    "1s": "cercear",
+    "2s": "cerceares",
+    "3s": "cercear",
+    "1p": "cercearmos",
+    "2p": "cerceardes",
+    "3p": "cercearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cerceia",
+    "3s": "cerceie",
+    "1p": "cerceemos",
+    "2p": "cerceai",
+    "3p": "cerceiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cerceies",
+    "3s": "não cerceie",
+    "1p": "não cerceemos",
+    "2p": "não cerceeis",
+    "3p": "não cerceiem"
+  },
+  "Part-ter": {
+    "": "cerceado"
+  },
+  "Part-ser": {
+    "ms": "cerceado",
+    "fs": "cerceada",
+    "mp": "cerceados",
+    "fp": "cerceadas"
+  }
+}

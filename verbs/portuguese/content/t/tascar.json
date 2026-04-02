@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tascar"
+  },
+  "InfP": {
+    "1s": "tascar",
+    "2s": "tascares",
+    "3s": "tascar",
+    "1p": "tascarmos",
+    "2p": "tascardes",
+    "3p": "tascarem"
+  },
+  "Ger": {
+    "": "tascando"
+  },
+  "PresI": {
+    "1s": "tasco",
+    "2s": "tascas",
+    "3s": "tasca",
+    "1p": "tascamos",
+    "2p": "tascais",
+    "3p": "tascam"
+  },
+  "PImpI": {
+    "1s": "tascava",
+    "2s": "tascavas",
+    "3s": "tascava",
+    "1p": "tascávamos",
+    "2p": "tascáveis",
+    "3p": "tascavam"
+  },
+  "PPSI": {
+    "1s": "tasquei",
+    "2s": "tascaste",
+    "3s": "tascou",
+    "1p": "tascámos",
+    "2p": "tascastes",
+    "3p": "tascaram"
+  },
+  "PMQPSI": {
+    "1s": "tascara",
+    "2s": "tascaras",
+    "3s": "tascara",
+    "1p": "tascáramos",
+    "2p": "tascáreis",
+    "3p": "tascaram"
+  },
+  "FutSI": {
+    "1s": "tascarei",
+    "2s": "tascarás",
+    "3s": "tascará",
+    "1p": "tascaremos",
+    "2p": "tascareis",
+    "3p": "tascarão"
+  },
+  "CondS": {
+    "1s": "tascaria",
+    "2s": "tascarias",
+    "3s": "tascaria",
+    "1p": "tascaríamos",
+    "2p": "tascaríeis",
+    "3p": "tascariam"
+  },
+  "PresC": {
+    "1s": "tasque",
+    "2s": "tasques",
+    "3s": "tasque",
+    "1p": "tasquemos",
+    "2p": "tasqueis",
+    "3p": "tasquem"
+  },
+  "PImpC": {
+    "1s": "tascasse",
+    "2s": "tascasses",
+    "3s": "tascasse",
+    "1p": "tascássemos",
+    "2p": "tascásseis",
+    "3p": "tascassem"
+  },
+  "FutSC": {
+    "1s": "tascar",
+    "2s": "tascares",
+    "3s": "tascar",
+    "1p": "tascarmos",
+    "2p": "tascardes",
+    "3p": "tascarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tasca",
+    "3s": "tasque",
+    "1p": "tasquemos",
+    "2p": "tascai",
+    "3p": "tasquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tasques",
+    "3s": "não tasque",
+    "1p": "não tasquemos",
+    "2p": "não tasqueis",
+    "3p": "não tasquem"
+  },
+  "Part-ter": {
+    "": "tascado"
+  },
+  "Part-ser": {
+    "ms": "tascado",
+    "fs": "tascada",
+    "mp": "tascados",
+    "fp": "tascadas"
+  }
+}

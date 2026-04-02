@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "embarcar"
+  },
+  "InfP": {
+    "1s": "embarcar",
+    "2s": "embarcares",
+    "3s": "embarcar",
+    "1p": "embarcarmos",
+    "2p": "embarcardes",
+    "3p": "embarcarem"
+  },
+  "Ger": {
+    "": "embarcando"
+  },
+  "PresI": {
+    "1s": "embarco",
+    "2s": "embarcas",
+    "3s": "embarca",
+    "1p": "embarcamos",
+    "2p": "embarcais",
+    "3p": "embarcam"
+  },
+  "PImpI": {
+    "1s": "embarcava",
+    "2s": "embarcavas",
+    "3s": "embarcava",
+    "1p": "embarcávamos",
+    "2p": "embarcáveis",
+    "3p": "embarcavam"
+  },
+  "PPSI": {
+    "1s": "embarquei",
+    "2s": "embarcaste",
+    "3s": "embarcou",
+    "1p": "embarcámos",
+    "2p": "embarcastes",
+    "3p": "embarcaram"
+  },
+  "PMQPSI": {
+    "1s": "embarcara",
+    "2s": "embarcaras",
+    "3s": "embarcara",
+    "1p": "embarcáramos",
+    "2p": "embarcáreis",
+    "3p": "embarcaram"
+  },
+  "FutSI": {
+    "1s": "embarcarei",
+    "2s": "embarcarás",
+    "3s": "embarcará",
+    "1p": "embarcaremos",
+    "2p": "embarcareis",
+    "3p": "embarcarão"
+  },
+  "CondS": {
+    "1s": "embarcaria",
+    "2s": "embarcarias",
+    "3s": "embarcaria",
+    "1p": "embarcaríamos",
+    "2p": "embarcaríeis",
+    "3p": "embarcariam"
+  },
+  "PresC": {
+    "1s": "embarque",
+    "2s": "embarques",
+    "3s": "embarque",
+    "1p": "embarquemos",
+    "2p": "embarqueis",
+    "3p": "embarquem"
+  },
+  "PImpC": {
+    "1s": "embarcasse",
+    "2s": "embarcasses",
+    "3s": "embarcasse",
+    "1p": "embarcássemos",
+    "2p": "embarcásseis",
+    "3p": "embarcassem"
+  },
+  "FutSC": {
+    "1s": "embarcar",
+    "2s": "embarcares",
+    "3s": "embarcar",
+    "1p": "embarcarmos",
+    "2p": "embarcardes",
+    "3p": "embarcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "embarca",
+    "3s": "embarque",
+    "1p": "embarquemos",
+    "2p": "embarcai",
+    "3p": "embarquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não embarques",
+    "3s": "não embarque",
+    "1p": "não embarquemos",
+    "2p": "não embarqueis",
+    "3p": "não embarquem"
+  },
+  "Part-ter": {
+    "": "embarcado"
+  },
+  "Part-ser": {
+    "ms": "embarcado",
+    "fs": "embarcada",
+    "mp": "embarcados",
+    "fp": "embarcadas"
+  }
+}

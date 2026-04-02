@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "extrudir"
+  },
+  "Ger": {
+    "": "extrudiendo"
+  },
+  "PresI": {
+    "1s": "extrudo",
+    "2s": "extrudes",
+    "3s": "extrude",
+    "1p": "extrudimos",
+    "2p": "extrudís",
+    "3p": "extruden"
+  },
+  "PImpI": {
+    "1s": "extrudía",
+    "2s": "extrudías",
+    "3s": "extrudía",
+    "1p": "extrudíamos",
+    "2p": "extrudíais",
+    "3p": "extrudían"
+  },
+  "PPSI": {
+    "1s": "extrudí",
+    "2s": "extrudiste",
+    "3s": "extrudió",
+    "1p": "extrudimos",
+    "2p": "extrudisteis",
+    "3p": "extrudieron"
+  },
+  "FutSI": {
+    "1s": "extrudiré",
+    "2s": "extrudirás",
+    "3s": "extrudirá",
+    "1p": "extrudiremos",
+    "2p": "extrudiréis",
+    "3p": "extrudirán"
+  },
+  "CondS": {
+    "1s": "extrudiría",
+    "2s": "extrudirías",
+    "3s": "extrudiría",
+    "1p": "extrudiríamos",
+    "2p": "extrudiríais",
+    "3p": "extrudirían"
+  },
+  "PresC": {
+    "1s": "extruda",
+    "2s": "extrudas",
+    "3s": "extruda",
+    "1p": "extrudamos",
+    "2p": "extrudáis",
+    "3p": "extrudan"
+  },
+  "PMQPSI": {
+    "1s": "extrudiera",
+    "2s": "extrudieras",
+    "3s": "extrudiera",
+    "1p": "extrudiéramos",
+    "2p": "extrudierais",
+    "3p": "extrudieran"
+  },
+  "PImpC": {
+    "1s": "extrudiese",
+    "2s": "extrudieses",
+    "3s": "extrudiese",
+    "1p": "extrudiésemos",
+    "2p": "extrudieseis",
+    "3p": "extrudiesen"
+  },
+  "FutSC": {
+    "1s": "extrudiere",
+    "2s": "extrudieres",
+    "3s": "extrudiere",
+    "1p": "extrudiéremos",
+    "2p": "extrudiereis",
+    "3p": "extrudieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extrude",
+    "3s": "extruda",
+    "1p": "extrudamos",
+    "2p": "extrudid",
+    "3p": "extrudan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no extrudas",
+    "3s": "no extruda",
+    "1p": "no extrudamos",
+    "2p": "no extrudáis",
+    "3p": "no extrudan"
+  },
+  "Part-ter": {
+    "": "extrudido"
+  },
+  "Part-ser": {
+    "ms": "extrudido",
+    "fs": "extrudida",
+    "mp": "extrudidos",
+    "fp": "extrudidas"
+  }
+}

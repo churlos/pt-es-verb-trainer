@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "urgir"
+  },
+  "InfP": {
+    "1s": "urgir",
+    "2s": "urgires",
+    "3s": "urgir",
+    "1p": "urgirmos",
+    "2p": "urgirdes",
+    "3p": "urgirem"
+  },
+  "Ger": {
+    "": "urgindo"
+  },
+  "PresI": {
+    "1s": "urjo",
+    "2s": "urges",
+    "3s": "urge",
+    "1p": "urgimos",
+    "2p": "urgis",
+    "3p": "urgem"
+  },
+  "PImpI": {
+    "1s": "urgia",
+    "2s": "urgias",
+    "3s": "urgia",
+    "1p": "urgíamos",
+    "2p": "urgíeis",
+    "3p": "urgiam"
+  },
+  "PPSI": {
+    "1s": "urgi",
+    "2s": "urgiste",
+    "3s": "urgiu",
+    "1p": "urgimos",
+    "2p": "urgistes",
+    "3p": "urgiram"
+  },
+  "PMQPSI": {
+    "1s": "urgira",
+    "2s": "urgiras",
+    "3s": "urgira",
+    "1p": "urgíramos",
+    "2p": "urgíreis",
+    "3p": "urgiram"
+  },
+  "FutSI": {
+    "1s": "urgirei",
+    "2s": "urgirás",
+    "3s": "urgirá",
+    "1p": "urgiremos",
+    "2p": "urgireis",
+    "3p": "urgirão"
+  },
+  "CondS": {
+    "1s": "urgiria",
+    "2s": "urgirias",
+    "3s": "urgiria",
+    "1p": "urgiríamos",
+    "2p": "urgiríeis",
+    "3p": "urgiriam"
+  },
+  "PresC": {
+    "1s": "urja",
+    "2s": "urjas",
+    "3s": "urja",
+    "1p": "urjamos",
+    "2p": "urjais",
+    "3p": "urjam"
+  },
+  "PImpC": {
+    "1s": "urgisse",
+    "2s": "urgisses",
+    "3s": "urgisse",
+    "1p": "urgíssemos",
+    "2p": "urgísseis",
+    "3p": "urgissem"
+  },
+  "FutSC": {
+    "1s": "urgir",
+    "2s": "urgires",
+    "3s": "urgir",
+    "1p": "urgirmos",
+    "2p": "urgirdes",
+    "3p": "urgirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "urge",
+    "3s": "urja",
+    "1p": "urjamos",
+    "2p": "urgi",
+    "3p": "urjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não urjas",
+    "3s": "não urja",
+    "1p": "não urjamos",
+    "2p": "não urjais",
+    "3p": "não urjam"
+  },
+  "Part-ter": {
+    "": "urgido"
+  },
+  "Part-ser": {
+    "ms": "urgido",
+    "fs": "urgida",
+    "mp": "urgidos",
+    "fp": "urgidas"
+  }
+}

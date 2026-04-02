@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "repetir"
+  },
+  "InfP": {
+    "1s": "repetir",
+    "2s": "repetires",
+    "3s": "repetir",
+    "1p": "repetirmos",
+    "2p": "repetirdes",
+    "3p": "repetirem"
+  },
+  "Ger": {
+    "": "repetindo"
+  },
+  "PresI": {
+    "1s": "repito",
+    "2s": "repetes",
+    "3s": "repete",
+    "1p": "repetimos",
+    "2p": "repetis",
+    "3p": "repetem"
+  },
+  "PImpI": {
+    "1s": "repetia",
+    "2s": "repetias",
+    "3s": "repetia",
+    "1p": "repetíamos",
+    "2p": "repetíeis",
+    "3p": "repetiam"
+  },
+  "PPSI": {
+    "1s": "repeti",
+    "2s": "repetiste",
+    "3s": "repetiu",
+    "1p": "repetimos",
+    "2p": "repetistes",
+    "3p": "repetiram"
+  },
+  "PMQPSI": {
+    "1s": "repetira",
+    "2s": "repetiras",
+    "3s": "repetira",
+    "1p": "repetíramos",
+    "2p": "repetíreis",
+    "3p": "repetiram"
+  },
+  "FutSI": {
+    "1s": "repetirei",
+    "2s": "repetirás",
+    "3s": "repetirá",
+    "1p": "repetiremos",
+    "2p": "repetireis",
+    "3p": "repetirão"
+  },
+  "CondS": {
+    "1s": "repetiria",
+    "2s": "repetirias",
+    "3s": "repetiria",
+    "1p": "repetiríamos",
+    "2p": "repetiríeis",
+    "3p": "repetiriam"
+  },
+  "PresC": {
+    "1s": "repita",
+    "2s": "repitas",
+    "3s": "repita",
+    "1p": "repitamos",
+    "2p": "repitais",
+    "3p": "repitam"
+  },
+  "PImpC": {
+    "1s": "repetisse",
+    "2s": "repetisses",
+    "3s": "repetisse",
+    "1p": "repetíssemos",
+    "2p": "repetísseis",
+    "3p": "repetissem"
+  },
+  "FutSC": {
+    "1s": "repetir",
+    "2s": "repetires",
+    "3s": "repetir",
+    "1p": "repetirmos",
+    "2p": "repetirdes",
+    "3p": "repetirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "repete",
+    "3s": "repita",
+    "1p": "repitamos",
+    "2p": "repeti",
+    "3p": "repitam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não repitas",
+    "3s": "não repita",
+    "1p": "não repitamos",
+    "2p": "não repitais",
+    "3p": "não repitam"
+  },
+  "Part-ter": {
+    "": "repetido"
+  },
+  "Part-ser": {
+    "ms": "repetido",
+    "fs": "repetida",
+    "mp": "repetidos",
+    "fp": "repetidas"
+  }
+}

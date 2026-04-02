@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "teclar"
+  },
+  "InfP": {
+    "1s": "teclar",
+    "2s": "teclares",
+    "3s": "teclar",
+    "1p": "teclarmos",
+    "2p": "teclardes",
+    "3p": "teclarem"
+  },
+  "Ger": {
+    "": "teclando"
+  },
+  "PresI": {
+    "1s": "teclo",
+    "2s": "teclas",
+    "3s": "tecla",
+    "1p": "teclamos",
+    "2p": "teclais",
+    "3p": "teclam"
+  },
+  "PImpI": {
+    "1s": "teclava",
+    "2s": "teclavas",
+    "3s": "teclava",
+    "1p": "teclávamos",
+    "2p": "tecláveis",
+    "3p": "teclavam"
+  },
+  "PPSI": {
+    "1s": "teclei",
+    "2s": "teclaste",
+    "3s": "teclou",
+    "1p": "teclámos",
+    "2p": "teclastes",
+    "3p": "teclaram"
+  },
+  "PMQPSI": {
+    "1s": "teclara",
+    "2s": "teclaras",
+    "3s": "teclara",
+    "1p": "tecláramos",
+    "2p": "tecláreis",
+    "3p": "teclaram"
+  },
+  "FutSI": {
+    "1s": "teclarei",
+    "2s": "teclarás",
+    "3s": "teclará",
+    "1p": "teclaremos",
+    "2p": "teclareis",
+    "3p": "teclarão"
+  },
+  "CondS": {
+    "1s": "teclaria",
+    "2s": "teclarias",
+    "3s": "teclaria",
+    "1p": "teclaríamos",
+    "2p": "teclaríeis",
+    "3p": "teclariam"
+  },
+  "PresC": {
+    "1s": "tecle",
+    "2s": "tecles",
+    "3s": "tecle",
+    "1p": "teclemos",
+    "2p": "tecleis",
+    "3p": "teclem"
+  },
+  "PImpC": {
+    "1s": "teclasse",
+    "2s": "teclasses",
+    "3s": "teclasse",
+    "1p": "teclássemos",
+    "2p": "teclásseis",
+    "3p": "teclassem"
+  },
+  "FutSC": {
+    "1s": "teclar",
+    "2s": "teclares",
+    "3s": "teclar",
+    "1p": "teclarmos",
+    "2p": "teclardes",
+    "3p": "teclarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tecla",
+    "3s": "tecle",
+    "1p": "teclemos",
+    "2p": "teclai",
+    "3p": "teclem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tecles",
+    "3s": "não tecle",
+    "1p": "não teclemos",
+    "2p": "não tecleis",
+    "3p": "não teclem"
+  },
+  "Part-ter": {
+    "": "teclado"
+  },
+  "Part-ser": {
+    "ms": "teclado",
+    "fs": "teclada",
+    "mp": "teclados",
+    "fp": "tecladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reprocessar"
+  },
+  "InfP": {
+    "1s": "reprocessar",
+    "2s": "reprocessares",
+    "3s": "reprocessar",
+    "1p": "reprocessarmos",
+    "2p": "reprocessardes",
+    "3p": "reprocessarem"
+  },
+  "Ger": {
+    "": "reprocessando"
+  },
+  "PresI": {
+    "1s": "reprocesso",
+    "2s": "reprocessas",
+    "3s": "reprocessa",
+    "1p": "reprocessamos",
+    "2p": "reprocessais",
+    "3p": "reprocessam"
+  },
+  "PImpI": {
+    "1s": "reprocessava",
+    "2s": "reprocessavas",
+    "3s": "reprocessava",
+    "1p": "reprocessávamos",
+    "2p": "reprocessáveis",
+    "3p": "reprocessavam"
+  },
+  "PPSI": {
+    "1s": "reprocessei",
+    "2s": "reprocessaste",
+    "3s": "reprocessou",
+    "1p": "reprocessámos",
+    "2p": "reprocessastes",
+    "3p": "reprocessaram"
+  },
+  "PMQPSI": {
+    "1s": "reprocessara",
+    "2s": "reprocessaras",
+    "3s": "reprocessara",
+    "1p": "reprocessáramos",
+    "2p": "reprocessáreis",
+    "3p": "reprocessaram"
+  },
+  "FutSI": {
+    "1s": "reprocessarei",
+    "2s": "reprocessarás",
+    "3s": "reprocessará",
+    "1p": "reprocessaremos",
+    "2p": "reprocessareis",
+    "3p": "reprocessarão"
+  },
+  "CondS": {
+    "1s": "reprocessaria",
+    "2s": "reprocessarias",
+    "3s": "reprocessaria",
+    "1p": "reprocessaríamos",
+    "2p": "reprocessaríeis",
+    "3p": "reprocessariam"
+  },
+  "PresC": {
+    "1s": "reprocesse",
+    "2s": "reprocesses",
+    "3s": "reprocesse",
+    "1p": "reprocessemos",
+    "2p": "reprocesseis",
+    "3p": "reprocessem"
+  },
+  "PImpC": {
+    "1s": "reprocessasse",
+    "2s": "reprocessasses",
+    "3s": "reprocessasse",
+    "1p": "reprocessássemos",
+    "2p": "reprocessásseis",
+    "3p": "reprocessassem"
+  },
+  "FutSC": {
+    "1s": "reprocessar",
+    "2s": "reprocessares",
+    "3s": "reprocessar",
+    "1p": "reprocessarmos",
+    "2p": "reprocessardes",
+    "3p": "reprocessarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reprocessa",
+    "3s": "reprocesse",
+    "1p": "reprocessemos",
+    "2p": "reprocessai",
+    "3p": "reprocessem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reprocesses",
+    "3s": "não reprocesse",
+    "1p": "não reprocessemos",
+    "2p": "não reprocesseis",
+    "3p": "não reprocessem"
+  },
+  "Part-ter": {
+    "": "reprocessado"
+  },
+  "Part-ser": {
+    "ms": "reprocessado",
+    "fs": "reprocessada",
+    "mp": "reprocessados",
+    "fp": "reprocessadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cantar"
+  },
+  "InfP": {
+    "1s": "cantar",
+    "2s": "cantares",
+    "3s": "cantar",
+    "1p": "cantarmos",
+    "2p": "cantardes",
+    "3p": "cantarem"
+  },
+  "Ger": {
+    "": "cantando"
+  },
+  "PresI": {
+    "1s": "canto",
+    "2s": "cantas",
+    "3s": "canta",
+    "1p": "cantamos",
+    "2p": "cantais",
+    "3p": "cantam"
+  },
+  "PImpI": {
+    "1s": "cantava",
+    "2s": "cantavas",
+    "3s": "cantava",
+    "1p": "cantávamos",
+    "2p": "cantáveis",
+    "3p": "cantavam"
+  },
+  "PPSI": {
+    "1s": "cantei",
+    "2s": "cantaste",
+    "3s": "cantou",
+    "1p": "cantámos",
+    "2p": "cantastes",
+    "3p": "cantaram"
+  },
+  "PMQPSI": {
+    "1s": "cantara",
+    "2s": "cantaras",
+    "3s": "cantara",
+    "1p": "cantáramos",
+    "2p": "cantáreis",
+    "3p": "cantaram"
+  },
+  "FutSI": {
+    "1s": "cantarei",
+    "2s": "cantarás",
+    "3s": "cantará",
+    "1p": "cantaremos",
+    "2p": "cantareis",
+    "3p": "cantarão"
+  },
+  "CondS": {
+    "1s": "cantaria",
+    "2s": "cantarias",
+    "3s": "cantaria",
+    "1p": "cantaríamos",
+    "2p": "cantaríeis",
+    "3p": "cantariam"
+  },
+  "PresC": {
+    "1s": "cante",
+    "2s": "cantes",
+    "3s": "cante",
+    "1p": "cantemos",
+    "2p": "canteis",
+    "3p": "cantem"
+  },
+  "PImpC": {
+    "1s": "cantasse",
+    "2s": "cantasses",
+    "3s": "cantasse",
+    "1p": "cantássemos",
+    "2p": "cantásseis",
+    "3p": "cantassem"
+  },
+  "FutSC": {
+    "1s": "cantar",
+    "2s": "cantares",
+    "3s": "cantar",
+    "1p": "cantarmos",
+    "2p": "cantardes",
+    "3p": "cantarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "canta",
+    "3s": "cante",
+    "1p": "cantemos",
+    "2p": "cantai",
+    "3p": "cantem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cantes",
+    "3s": "não cante",
+    "1p": "não cantemos",
+    "2p": "não canteis",
+    "3p": "não cantem"
+  },
+  "Part-ter": {
+    "": "cantado"
+  },
+  "Part-ser": {
+    "ms": "cantado",
+    "fs": "cantada",
+    "mp": "cantados",
+    "fp": "cantadas"
+  }
+}

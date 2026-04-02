@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encerrar"
+  },
+  "InfP": {
+    "1s": "encerrar",
+    "2s": "encerrares",
+    "3s": "encerrar",
+    "1p": "encerrarmos",
+    "2p": "encerrardes",
+    "3p": "encerrarem"
+  },
+  "Ger": {
+    "": "encerrando"
+  },
+  "PresI": {
+    "1s": "encerro",
+    "2s": "encerras",
+    "3s": "encerra",
+    "1p": "encerramos",
+    "2p": "encerrais",
+    "3p": "encerram"
+  },
+  "PImpI": {
+    "1s": "encerrava",
+    "2s": "encerravas",
+    "3s": "encerrava",
+    "1p": "encerrávamos",
+    "2p": "encerráveis",
+    "3p": "encerravam"
+  },
+  "PPSI": {
+    "1s": "encerrei",
+    "2s": "encerraste",
+    "3s": "encerrou",
+    "1p": "encerrámos",
+    "2p": "encerrastes",
+    "3p": "encerraram"
+  },
+  "PMQPSI": {
+    "1s": "encerrara",
+    "2s": "encerraras",
+    "3s": "encerrara",
+    "1p": "encerráramos",
+    "2p": "encerráreis",
+    "3p": "encerraram"
+  },
+  "FutSI": {
+    "1s": "encerrarei",
+    "2s": "encerrarás",
+    "3s": "encerrará",
+    "1p": "encerraremos",
+    "2p": "encerrareis",
+    "3p": "encerrarão"
+  },
+  "CondS": {
+    "1s": "encerraria",
+    "2s": "encerrarias",
+    "3s": "encerraria",
+    "1p": "encerraríamos",
+    "2p": "encerraríeis",
+    "3p": "encerrariam"
+  },
+  "PresC": {
+    "1s": "encerre",
+    "2s": "encerres",
+    "3s": "encerre",
+    "1p": "encerremos",
+    "2p": "encerreis",
+    "3p": "encerrem"
+  },
+  "PImpC": {
+    "1s": "encerrasse",
+    "2s": "encerrasses",
+    "3s": "encerrasse",
+    "1p": "encerrássemos",
+    "2p": "encerrásseis",
+    "3p": "encerrassem"
+  },
+  "FutSC": {
+    "1s": "encerrar",
+    "2s": "encerrares",
+    "3s": "encerrar",
+    "1p": "encerrarmos",
+    "2p": "encerrardes",
+    "3p": "encerrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encerra",
+    "3s": "encerre",
+    "1p": "encerremos",
+    "2p": "encerrai",
+    "3p": "encerrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encerres",
+    "3s": "não encerre",
+    "1p": "não encerremos",
+    "2p": "não encerreis",
+    "3p": "não encerrem"
+  },
+  "Part-ter": {
+    "": "encerrado"
+  },
+  "Part-ser": {
+    "ms": "encerrado",
+    "fs": "encerrada",
+    "mp": "encerrados",
+    "fp": "encerradas"
+  }
+}

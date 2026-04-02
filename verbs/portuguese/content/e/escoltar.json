@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escoltar"
+  },
+  "InfP": {
+    "1s": "escoltar",
+    "2s": "escoltares",
+    "3s": "escoltar",
+    "1p": "escoltarmos",
+    "2p": "escoltardes",
+    "3p": "escoltarem"
+  },
+  "Ger": {
+    "": "escoltando"
+  },
+  "PresI": {
+    "1s": "escolto",
+    "2s": "escoltas",
+    "3s": "escolta",
+    "1p": "escoltamos",
+    "2p": "escoltais",
+    "3p": "escoltam"
+  },
+  "PImpI": {
+    "1s": "escoltava",
+    "2s": "escoltavas",
+    "3s": "escoltava",
+    "1p": "escoltávamos",
+    "2p": "escoltáveis",
+    "3p": "escoltavam"
+  },
+  "PPSI": {
+    "1s": "escoltei",
+    "2s": "escoltaste",
+    "3s": "escoltou",
+    "1p": "escoltámos",
+    "2p": "escoltastes",
+    "3p": "escoltaram"
+  },
+  "PMQPSI": {
+    "1s": "escoltara",
+    "2s": "escoltaras",
+    "3s": "escoltara",
+    "1p": "escoltáramos",
+    "2p": "escoltáreis",
+    "3p": "escoltaram"
+  },
+  "FutSI": {
+    "1s": "escoltarei",
+    "2s": "escoltarás",
+    "3s": "escoltará",
+    "1p": "escoltaremos",
+    "2p": "escoltareis",
+    "3p": "escoltarão"
+  },
+  "CondS": {
+    "1s": "escoltaria",
+    "2s": "escoltarias",
+    "3s": "escoltaria",
+    "1p": "escoltaríamos",
+    "2p": "escoltaríeis",
+    "3p": "escoltariam"
+  },
+  "PresC": {
+    "1s": "escolte",
+    "2s": "escoltes",
+    "3s": "escolte",
+    "1p": "escoltemos",
+    "2p": "escolteis",
+    "3p": "escoltem"
+  },
+  "PImpC": {
+    "1s": "escoltasse",
+    "2s": "escoltasses",
+    "3s": "escoltasse",
+    "1p": "escoltássemos",
+    "2p": "escoltásseis",
+    "3p": "escoltassem"
+  },
+  "FutSC": {
+    "1s": "escoltar",
+    "2s": "escoltares",
+    "3s": "escoltar",
+    "1p": "escoltarmos",
+    "2p": "escoltardes",
+    "3p": "escoltarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escolta",
+    "3s": "escolte",
+    "1p": "escoltemos",
+    "2p": "escoltai",
+    "3p": "escoltem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escoltes",
+    "3s": "não escolte",
+    "1p": "não escoltemos",
+    "2p": "não escolteis",
+    "3p": "não escoltem"
+  },
+  "Part-ter": {
+    "": "escoltado"
+  },
+  "Part-ser": {
+    "ms": "escoltado",
+    "fs": "escoltada",
+    "mp": "escoltados",
+    "fp": "escoltadas"
+  }
+}

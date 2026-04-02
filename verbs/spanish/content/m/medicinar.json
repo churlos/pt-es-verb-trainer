@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "medicinar"
+  },
+  "Ger": {
+    "": "medicinando"
+  },
+  "PresI": {
+    "1s": "medicino",
+    "2s": "medicinas",
+    "3s": "medicina",
+    "1p": "medicinamos",
+    "2p": "medicináis",
+    "3p": "medicinan"
+  },
+  "PImpI": {
+    "1s": "medicinaba",
+    "2s": "medicinabas",
+    "3s": "medicinaba",
+    "1p": "medicinábamos",
+    "2p": "medicinabais",
+    "3p": "medicinaban"
+  },
+  "PPSI": {
+    "1s": "mediciné",
+    "2s": "medicinaste",
+    "3s": "medicinó",
+    "1p": "medicinamos",
+    "2p": "medicinasteis",
+    "3p": "medicinaron"
+  },
+  "FutSI": {
+    "1s": "medicinaré",
+    "2s": "medicinarás",
+    "3s": "medicinará",
+    "1p": "medicinaremos",
+    "2p": "medicinaréis",
+    "3p": "medicinarán"
+  },
+  "CondS": {
+    "1s": "medicinaría",
+    "2s": "medicinarías",
+    "3s": "medicinaría",
+    "1p": "medicinaríamos",
+    "2p": "medicinaríais",
+    "3p": "medicinarían"
+  },
+  "PresC": {
+    "1s": "medicine",
+    "2s": "medicines",
+    "3s": "medicine",
+    "1p": "medicinemos",
+    "2p": "medicinéis",
+    "3p": "medicinen"
+  },
+  "PMQPSI": {
+    "1s": "medicinara",
+    "2s": "medicinaras",
+    "3s": "medicinara",
+    "1p": "medicináramos",
+    "2p": "medicinarais",
+    "3p": "medicinaran"
+  },
+  "PImpC": {
+    "1s": "medicinase",
+    "2s": "medicinases",
+    "3s": "medicinase",
+    "1p": "medicinásemos",
+    "2p": "medicinaseis",
+    "3p": "medicinasen"
+  },
+  "FutSC": {
+    "1s": "medicinare",
+    "2s": "medicinares",
+    "3s": "medicinare",
+    "1p": "medicináremos",
+    "2p": "medicinareis",
+    "3p": "medicinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medicina",
+    "3s": "medicine",
+    "1p": "medicinemos",
+    "2p": "medicinad",
+    "3p": "medicinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no medicines",
+    "3s": "no medicine",
+    "1p": "no medicinemos",
+    "2p": "no medicinéis",
+    "3p": "no medicinen"
+  },
+  "Part-ter": {
+    "": "medicinado"
+  },
+  "Part-ser": {
+    "ms": "medicinado",
+    "fs": "medicinada",
+    "mp": "medicinados",
+    "fp": "medicinadas"
+  }
+}

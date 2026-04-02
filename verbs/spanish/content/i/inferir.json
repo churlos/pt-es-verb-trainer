@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inferir"
+  },
+  "Ger": {
+    "": "infiriendo"
+  },
+  "PresI": {
+    "1s": "infiero",
+    "2s": "infieres",
+    "3s": "infiere",
+    "1p": "inferimos",
+    "2p": "inferís",
+    "3p": "infieren"
+  },
+  "PImpI": {
+    "1s": "infería",
+    "2s": "inferías",
+    "3s": "infería",
+    "1p": "inferíamos",
+    "2p": "inferíais",
+    "3p": "inferían"
+  },
+  "PPSI": {
+    "1s": "inferí",
+    "2s": "inferiste",
+    "3s": "infirió",
+    "1p": "inferimos",
+    "2p": "inferisteis",
+    "3p": "infirieron"
+  },
+  "FutSI": {
+    "1s": "inferiré",
+    "2s": "inferirás",
+    "3s": "inferirá",
+    "1p": "inferiremos",
+    "2p": "inferiréis",
+    "3p": "inferirán"
+  },
+  "CondS": {
+    "1s": "inferiría",
+    "2s": "inferirías",
+    "3s": "inferiría",
+    "1p": "inferiríamos",
+    "2p": "inferiríais",
+    "3p": "inferirían"
+  },
+  "PresC": {
+    "1s": "infiera",
+    "2s": "infieras",
+    "3s": "infiera",
+    "1p": "infiramos",
+    "2p": "infiráis",
+    "3p": "infieran"
+  },
+  "PMQPSI": {
+    "1s": "infiriera",
+    "2s": "infirieras",
+    "3s": "infiriera",
+    "1p": "infiriéramos",
+    "2p": "infirierais",
+    "3p": "infirieran"
+  },
+  "PImpC": {
+    "1s": "infiriese",
+    "2s": "infirieses",
+    "3s": "infiriese",
+    "1p": "infiriésemos",
+    "2p": "infirieseis",
+    "3p": "infiriesen"
+  },
+  "FutSC": {
+    "1s": "infiriere",
+    "2s": "infirieres",
+    "3s": "infiriere",
+    "1p": "infiriéremos",
+    "2p": "infiriereis",
+    "3p": "infirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infiere",
+    "3s": "infiera",
+    "1p": "infiramos",
+    "2p": "inferid",
+    "3p": "infieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no infieras",
+    "3s": "no infiera",
+    "1p": "no infiramos",
+    "2p": "no infiráis",
+    "3p": "no infieran"
+  },
+  "Part-ter": {
+    "": "inferido"
+  },
+  "Part-ser": {
+    "ms": "inferido",
+    "fs": "inferida",
+    "mp": "inferidos",
+    "fp": "inferidas"
+  }
+}

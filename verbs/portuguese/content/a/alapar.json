@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alapar"
+  },
+  "InfP": {
+    "1s": "alapar",
+    "2s": "alapares",
+    "3s": "alapar",
+    "1p": "alaparmos",
+    "2p": "alapardes",
+    "3p": "alaparem"
+  },
+  "Ger": {
+    "": "alapando"
+  },
+  "PresI": {
+    "1s": "alapo",
+    "2s": "alapas",
+    "3s": "alapa",
+    "1p": "alapamos",
+    "2p": "alapais",
+    "3p": "alapam"
+  },
+  "PImpI": {
+    "1s": "alapava",
+    "2s": "alapavas",
+    "3s": "alapava",
+    "1p": "alapávamos",
+    "2p": "alapáveis",
+    "3p": "alapavam"
+  },
+  "PPSI": {
+    "1s": "alapei",
+    "2s": "alapaste",
+    "3s": "alapou",
+    "1p": "alapámos",
+    "2p": "alapastes",
+    "3p": "alaparam"
+  },
+  "PMQPSI": {
+    "1s": "alapara",
+    "2s": "alaparas",
+    "3s": "alapara",
+    "1p": "alapáramos",
+    "2p": "alapáreis",
+    "3p": "alaparam"
+  },
+  "FutSI": {
+    "1s": "alaparei",
+    "2s": "alaparás",
+    "3s": "alapará",
+    "1p": "alaparemos",
+    "2p": "alapareis",
+    "3p": "alaparão"
+  },
+  "CondS": {
+    "1s": "alaparia",
+    "2s": "alaparias",
+    "3s": "alaparia",
+    "1p": "alaparíamos",
+    "2p": "alaparíeis",
+    "3p": "alapariam"
+  },
+  "PresC": {
+    "1s": "alape",
+    "2s": "alapes",
+    "3s": "alape",
+    "1p": "alapemos",
+    "2p": "alapeis",
+    "3p": "alapem"
+  },
+  "PImpC": {
+    "1s": "alapasse",
+    "2s": "alapasses",
+    "3s": "alapasse",
+    "1p": "alapássemos",
+    "2p": "alapásseis",
+    "3p": "alapassem"
+  },
+  "FutSC": {
+    "1s": "alapar",
+    "2s": "alapares",
+    "3s": "alapar",
+    "1p": "alaparmos",
+    "2p": "alapardes",
+    "3p": "alaparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alapa",
+    "3s": "alape",
+    "1p": "alapemos",
+    "2p": "alapai",
+    "3p": "alapem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alapes",
+    "3s": "não alape",
+    "1p": "não alapemos",
+    "2p": "não alapeis",
+    "3p": "não alapem"
+  },
+  "Part-ter": {
+    "": "alapado"
+  },
+  "Part-ser": {
+    "ms": "alapado",
+    "fs": "alapada",
+    "mp": "alapados",
+    "fp": "alapadas"
+  }
+}

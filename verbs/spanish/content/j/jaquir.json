@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jaquir"
+  },
+  "Ger": {
+    "": "jaquiendo"
+  },
+  "PresI": {
+    "1s": "jaco",
+    "2s": "jaques",
+    "3s": "jaque",
+    "1p": "jaquimos",
+    "2p": "jaquís",
+    "3p": "jaquen"
+  },
+  "PImpI": {
+    "1s": "jaquía",
+    "2s": "jaquías",
+    "3s": "jaquía",
+    "1p": "jaquíamos",
+    "2p": "jaquíais",
+    "3p": "jaquían"
+  },
+  "PPSI": {
+    "1s": "jaquí",
+    "2s": "jaquiste",
+    "3s": "jaquió",
+    "1p": "jaquimos",
+    "2p": "jaquisteis",
+    "3p": "jaquieron"
+  },
+  "FutSI": {
+    "1s": "jaquiré",
+    "2s": "jaquirás",
+    "3s": "jaquirá",
+    "1p": "jaquiremos",
+    "2p": "jaquiréis",
+    "3p": "jaquirán"
+  },
+  "CondS": {
+    "1s": "jaquiría",
+    "2s": "jaquirías",
+    "3s": "jaquiría",
+    "1p": "jaquiríamos",
+    "2p": "jaquiríais",
+    "3p": "jaquirían"
+  },
+  "PresC": {
+    "1s": "jaca",
+    "2s": "jacas",
+    "3s": "jaca",
+    "1p": "jacamos",
+    "2p": "jacáis",
+    "3p": "jacan"
+  },
+  "PMQPSI": {
+    "1s": "jaquiera",
+    "2s": "jaquieras",
+    "3s": "jaquiera",
+    "1p": "jaquiéramos",
+    "2p": "jaquierais",
+    "3p": "jaquieran"
+  },
+  "PImpC": {
+    "1s": "jaquiese",
+    "2s": "jaquieses",
+    "3s": "jaquiese",
+    "1p": "jaquiésemos",
+    "2p": "jaquieseis",
+    "3p": "jaquiesen"
+  },
+  "FutSC": {
+    "1s": "jaquiere",
+    "2s": "jaquieres",
+    "3s": "jaquiere",
+    "1p": "jaquiéremos",
+    "2p": "jaquiereis",
+    "3p": "jaquieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jaque",
+    "3s": "jaca",
+    "1p": "jacamos",
+    "2p": "jaquid",
+    "3p": "jacan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no jacas",
+    "3s": "no jaca",
+    "1p": "no jacamos",
+    "2p": "no jacáis",
+    "3p": "no jacan"
+  },
+  "Part-ter": {
+    "": "jaquido"
+  },
+  "Part-ser": {
+    "ms": "jaquido",
+    "fs": "jaquida",
+    "mp": "jaquidos",
+    "fp": "jaquidas"
+  }
+}

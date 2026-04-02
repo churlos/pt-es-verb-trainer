@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estagiar"
+  },
+  "InfP": {
+    "1s": "estagiar",
+    "2s": "estagiares",
+    "3s": "estagiar",
+    "1p": "estagiarmos",
+    "2p": "estagiardes",
+    "3p": "estagiarem"
+  },
+  "Ger": {
+    "": "estagiando"
+  },
+  "PresI": {
+    "1s": "estagio",
+    "2s": "estagias",
+    "3s": "estagia",
+    "1p": "estagiamos",
+    "2p": "estagiais",
+    "3p": "estagiam"
+  },
+  "PImpI": {
+    "1s": "estagiava",
+    "2s": "estagiavas",
+    "3s": "estagiava",
+    "1p": "estagiávamos",
+    "2p": "estagiáveis",
+    "3p": "estagiavam"
+  },
+  "PPSI": {
+    "1s": "estagiei",
+    "2s": "estagiaste",
+    "3s": "estagiou",
+    "1p": "estagiámos",
+    "2p": "estagiastes",
+    "3p": "estagiaram"
+  },
+  "PMQPSI": {
+    "1s": "estagiara",
+    "2s": "estagiaras",
+    "3s": "estagiara",
+    "1p": "estagiáramos",
+    "2p": "estagiáreis",
+    "3p": "estagiaram"
+  },
+  "FutSI": {
+    "1s": "estagiarei",
+    "2s": "estagiarás",
+    "3s": "estagiará",
+    "1p": "estagiaremos",
+    "2p": "estagiareis",
+    "3p": "estagiarão"
+  },
+  "CondS": {
+    "1s": "estagiaria",
+    "2s": "estagiarias",
+    "3s": "estagiaria",
+    "1p": "estagiaríamos",
+    "2p": "estagiaríeis",
+    "3p": "estagiariam"
+  },
+  "PresC": {
+    "1s": "estagie",
+    "2s": "estagies",
+    "3s": "estagie",
+    "1p": "estagiemos",
+    "2p": "estagieis",
+    "3p": "estagiem"
+  },
+  "PImpC": {
+    "1s": "estagiasse",
+    "2s": "estagiasses",
+    "3s": "estagiasse",
+    "1p": "estagiássemos",
+    "2p": "estagiásseis",
+    "3p": "estagiassem"
+  },
+  "FutSC": {
+    "1s": "estagiar",
+    "2s": "estagiares",
+    "3s": "estagiar",
+    "1p": "estagiarmos",
+    "2p": "estagiardes",
+    "3p": "estagiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estagia",
+    "3s": "estagie",
+    "1p": "estagiemos",
+    "2p": "estagiai",
+    "3p": "estagiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estagies",
+    "3s": "não estagie",
+    "1p": "não estagiemos",
+    "2p": "não estagieis",
+    "3p": "não estagiem"
+  },
+  "Part-ter": {
+    "": "estagiado"
+  },
+  "Part-ser": {
+    "ms": "estagiado",
+    "fs": "estagiada",
+    "mp": "estagiados",
+    "fp": "estagiadas"
+  }
+}

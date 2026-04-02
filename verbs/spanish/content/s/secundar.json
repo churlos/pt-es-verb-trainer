@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "secundar"
+  },
+  "Ger": {
+    "": "secundando"
+  },
+  "PresI": {
+    "1s": "secundo",
+    "2s": "secundas",
+    "3s": "secunda",
+    "1p": "secundamos",
+    "2p": "secundáis",
+    "3p": "secundan"
+  },
+  "PImpI": {
+    "1s": "secundaba",
+    "2s": "secundabas",
+    "3s": "secundaba",
+    "1p": "secundábamos",
+    "2p": "secundabais",
+    "3p": "secundaban"
+  },
+  "PPSI": {
+    "1s": "secundé",
+    "2s": "secundaste",
+    "3s": "secundó",
+    "1p": "secundamos",
+    "2p": "secundasteis",
+    "3p": "secundaron"
+  },
+  "FutSI": {
+    "1s": "secundaré",
+    "2s": "secundarás",
+    "3s": "secundará",
+    "1p": "secundaremos",
+    "2p": "secundaréis",
+    "3p": "secundarán"
+  },
+  "CondS": {
+    "1s": "secundaría",
+    "2s": "secundarías",
+    "3s": "secundaría",
+    "1p": "secundaríamos",
+    "2p": "secundaríais",
+    "3p": "secundarían"
+  },
+  "PresC": {
+    "1s": "secunde",
+    "2s": "secundes",
+    "3s": "secunde",
+    "1p": "secundemos",
+    "2p": "secundéis",
+    "3p": "secunden"
+  },
+  "PMQPSI": {
+    "1s": "secundara",
+    "2s": "secundaras",
+    "3s": "secundara",
+    "1p": "secundáramos",
+    "2p": "secundarais",
+    "3p": "secundaran"
+  },
+  "PImpC": {
+    "1s": "secundase",
+    "2s": "secundases",
+    "3s": "secundase",
+    "1p": "secundásemos",
+    "2p": "secundaseis",
+    "3p": "secundasen"
+  },
+  "FutSC": {
+    "1s": "secundare",
+    "2s": "secundares",
+    "3s": "secundare",
+    "1p": "secundáremos",
+    "2p": "secundareis",
+    "3p": "secundaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "secunda",
+    "3s": "secunde",
+    "1p": "secundemos",
+    "2p": "secundad",
+    "3p": "secunden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no secundes",
+    "3s": "no secunde",
+    "1p": "no secundemos",
+    "2p": "no secundéis",
+    "3p": "no secunden"
+  },
+  "Part-ter": {
+    "": "secundado"
+  },
+  "Part-ser": {
+    "ms": "secundado",
+    "fs": "secundada",
+    "mp": "secundados",
+    "fp": "secundadas"
+  }
+}

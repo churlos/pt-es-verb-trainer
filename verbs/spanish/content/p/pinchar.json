@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pinchar"
+  },
+  "Ger": {
+    "": "pinchando"
+  },
+  "PresI": {
+    "1s": "pincho",
+    "2s": "pinchas",
+    "3s": "pincha",
+    "1p": "pinchamos",
+    "2p": "pincháis",
+    "3p": "pinchan"
+  },
+  "PImpI": {
+    "1s": "pinchaba",
+    "2s": "pinchabas",
+    "3s": "pinchaba",
+    "1p": "pinchábamos",
+    "2p": "pinchabais",
+    "3p": "pinchaban"
+  },
+  "PPSI": {
+    "1s": "pinché",
+    "2s": "pinchaste",
+    "3s": "pinchó",
+    "1p": "pinchamos",
+    "2p": "pinchasteis",
+    "3p": "pincharon"
+  },
+  "FutSI": {
+    "1s": "pincharé",
+    "2s": "pincharás",
+    "3s": "pinchará",
+    "1p": "pincharemos",
+    "2p": "pincharéis",
+    "3p": "pincharán"
+  },
+  "CondS": {
+    "1s": "pincharía",
+    "2s": "pincharías",
+    "3s": "pincharía",
+    "1p": "pincharíamos",
+    "2p": "pincharíais",
+    "3p": "pincharían"
+  },
+  "PresC": {
+    "1s": "pinche",
+    "2s": "pinches",
+    "3s": "pinche",
+    "1p": "pinchemos",
+    "2p": "pinchéis",
+    "3p": "pinchen"
+  },
+  "PMQPSI": {
+    "1s": "pinchara",
+    "2s": "pincharas",
+    "3s": "pinchara",
+    "1p": "pincháramos",
+    "2p": "pincharais",
+    "3p": "pincharan"
+  },
+  "PImpC": {
+    "1s": "pinchase",
+    "2s": "pinchases",
+    "3s": "pinchase",
+    "1p": "pinchásemos",
+    "2p": "pinchaseis",
+    "3p": "pinchasen"
+  },
+  "FutSC": {
+    "1s": "pinchare",
+    "2s": "pinchares",
+    "3s": "pinchare",
+    "1p": "pincháremos",
+    "2p": "pinchareis",
+    "3p": "pincharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pincha",
+    "3s": "pinche",
+    "1p": "pinchemos",
+    "2p": "pinchad",
+    "3p": "pinchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pinches",
+    "3s": "no pinche",
+    "1p": "no pinchemos",
+    "2p": "no pinchéis",
+    "3p": "no pinchen"
+  },
+  "Part-ter": {
+    "": "pinchado"
+  },
+  "Part-ser": {
+    "ms": "pinchado",
+    "fs": "pinchada",
+    "mp": "pinchados",
+    "fp": "pinchadas"
+  }
+}

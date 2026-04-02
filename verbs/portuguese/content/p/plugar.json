@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "plugar"
+  },
+  "InfP": {
+    "1s": "plugar",
+    "2s": "plugares",
+    "3s": "plugar",
+    "1p": "plugarmos",
+    "2p": "plugardes",
+    "3p": "plugarem"
+  },
+  "Ger": {
+    "": "plugando"
+  },
+  "PresI": {
+    "1s": "plugo",
+    "2s": "plugas",
+    "3s": "pluga",
+    "1p": "plugamos",
+    "2p": "plugais",
+    "3p": "plugam"
+  },
+  "PImpI": {
+    "1s": "plugava",
+    "2s": "plugavas",
+    "3s": "plugava",
+    "1p": "plugávamos",
+    "2p": "plugáveis",
+    "3p": "plugavam"
+  },
+  "PPSI": {
+    "1s": "pluguei",
+    "2s": "plugaste",
+    "3s": "plugou",
+    "1p": "plugámos",
+    "2p": "plugastes",
+    "3p": "plugaram"
+  },
+  "PMQPSI": {
+    "1s": "plugara",
+    "2s": "plugaras",
+    "3s": "plugara",
+    "1p": "plugáramos",
+    "2p": "plugáreis",
+    "3p": "plugaram"
+  },
+  "FutSI": {
+    "1s": "plugarei",
+    "2s": "plugarás",
+    "3s": "plugará",
+    "1p": "plugaremos",
+    "2p": "plugareis",
+    "3p": "plugarão"
+  },
+  "CondS": {
+    "1s": "plugaria",
+    "2s": "plugarias",
+    "3s": "plugaria",
+    "1p": "plugaríamos",
+    "2p": "plugaríeis",
+    "3p": "plugariam"
+  },
+  "PresC": {
+    "1s": "plugue",
+    "2s": "plugues",
+    "3s": "plugue",
+    "1p": "pluguemos",
+    "2p": "plugueis",
+    "3p": "pluguem"
+  },
+  "PImpC": {
+    "1s": "plugasse",
+    "2s": "plugasses",
+    "3s": "plugasse",
+    "1p": "plugássemos",
+    "2p": "plugásseis",
+    "3p": "plugassem"
+  },
+  "FutSC": {
+    "1s": "plugar",
+    "2s": "plugares",
+    "3s": "plugar",
+    "1p": "plugarmos",
+    "2p": "plugardes",
+    "3p": "plugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pluga",
+    "3s": "plugue",
+    "1p": "pluguemos",
+    "2p": "plugai",
+    "3p": "pluguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não plugues",
+    "3s": "não plugue",
+    "1p": "não pluguemos",
+    "2p": "não plugueis",
+    "3p": "não pluguem"
+  },
+  "Part-ter": {
+    "": "plugado"
+  },
+  "Part-ser": {
+    "ms": "plugado",
+    "fs": "plugada",
+    "mp": "plugados",
+    "fp": "plugadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "palear"
+  },
+  "InfP": {
+    "1s": "palear",
+    "2s": "paleares",
+    "3s": "palear",
+    "1p": "palearmos",
+    "2p": "paleardes",
+    "3p": "palearem"
+  },
+  "Ger": {
+    "": "paleando"
+  },
+  "PresI": {
+    "1s": "paleio",
+    "2s": "paleias",
+    "3s": "paleia",
+    "1p": "paleamos",
+    "2p": "paleais",
+    "3p": "paleiam"
+  },
+  "PImpI": {
+    "1s": "paleava",
+    "2s": "paleavas",
+    "3s": "paleava",
+    "1p": "paleávamos",
+    "2p": "paleáveis",
+    "3p": "paleavam"
+  },
+  "PPSI": {
+    "1s": "paleei",
+    "2s": "paleaste",
+    "3s": "paleou",
+    "1p": "paleámos",
+    "2p": "paleastes",
+    "3p": "palearam"
+  },
+  "PMQPSI": {
+    "1s": "paleara",
+    "2s": "palearas",
+    "3s": "paleara",
+    "1p": "paleáramos",
+    "2p": "paleáreis",
+    "3p": "palearam"
+  },
+  "FutSI": {
+    "1s": "palearei",
+    "2s": "palearás",
+    "3s": "paleará",
+    "1p": "palearemos",
+    "2p": "paleareis",
+    "3p": "palearão"
+  },
+  "CondS": {
+    "1s": "palearia",
+    "2s": "palearias",
+    "3s": "palearia",
+    "1p": "palearíamos",
+    "2p": "palearíeis",
+    "3p": "paleariam"
+  },
+  "PresC": {
+    "1s": "paleie",
+    "2s": "paleies",
+    "3s": "paleie",
+    "1p": "paleemos",
+    "2p": "paleeis",
+    "3p": "paleiem"
+  },
+  "PImpC": {
+    "1s": "paleasse",
+    "2s": "paleasses",
+    "3s": "paleasse",
+    "1p": "paleássemos",
+    "2p": "paleásseis",
+    "3p": "paleassem"
+  },
+  "FutSC": {
+    "1s": "palear",
+    "2s": "paleares",
+    "3s": "palear",
+    "1p": "palearmos",
+    "2p": "paleardes",
+    "3p": "palearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "paleia",
+    "3s": "paleie",
+    "1p": "paleemos",
+    "2p": "paleai",
+    "3p": "paleiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não paleies",
+    "3s": "não paleie",
+    "1p": "não paleemos",
+    "2p": "não paleeis",
+    "3p": "não paleiem"
+  },
+  "Part-ter": {
+    "": "paleado"
+  },
+  "Part-ser": {
+    "ms": "paleado",
+    "fs": "paleada",
+    "mp": "paleados",
+    "fp": "paleadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atascar"
+  },
+  "Ger": {
+    "": "atascando"
+  },
+  "PresI": {
+    "1s": "atasco",
+    "2s": "atascas",
+    "3s": "atasca",
+    "1p": "atascamos",
+    "2p": "atascáis",
+    "3p": "atascan"
+  },
+  "PImpI": {
+    "1s": "atascaba",
+    "2s": "atascabas",
+    "3s": "atascaba",
+    "1p": "atascábamos",
+    "2p": "atascabais",
+    "3p": "atascaban"
+  },
+  "PPSI": {
+    "1s": "atasqué",
+    "2s": "atascaste",
+    "3s": "atascó",
+    "1p": "atascamos",
+    "2p": "atascasteis",
+    "3p": "atascaron"
+  },
+  "FutSI": {
+    "1s": "atascaré",
+    "2s": "atascarás",
+    "3s": "atascará",
+    "1p": "atascaremos",
+    "2p": "atascaréis",
+    "3p": "atascarán"
+  },
+  "CondS": {
+    "1s": "atascaría",
+    "2s": "atascarías",
+    "3s": "atascaría",
+    "1p": "atascaríamos",
+    "2p": "atascaríais",
+    "3p": "atascarían"
+  },
+  "PresC": {
+    "1s": "atasque",
+    "2s": "atasques",
+    "3s": "atasque",
+    "1p": "atasquemos",
+    "2p": "atasquéis",
+    "3p": "atasquen"
+  },
+  "PMQPSI": {
+    "1s": "atascara",
+    "2s": "atascaras",
+    "3s": "atascara",
+    "1p": "atascáramos",
+    "2p": "atascarais",
+    "3p": "atascaran"
+  },
+  "PImpC": {
+    "1s": "atascase",
+    "2s": "atascases",
+    "3s": "atascase",
+    "1p": "atascásemos",
+    "2p": "atascaseis",
+    "3p": "atascasen"
+  },
+  "FutSC": {
+    "1s": "atascare",
+    "2s": "atascares",
+    "3s": "atascare",
+    "1p": "atascáremos",
+    "2p": "atascareis",
+    "3p": "atascaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atasca",
+    "3s": "atasque",
+    "1p": "atasquemos",
+    "2p": "atascad",
+    "3p": "atasquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atasques",
+    "3s": "no atasque",
+    "1p": "no atasquemos",
+    "2p": "no atasquéis",
+    "3p": "no atasquen"
+  },
+  "Part-ter": {
+    "": "atascado"
+  },
+  "Part-ser": {
+    "ms": "atascado",
+    "fs": "atascada",
+    "mp": "atascados",
+    "fp": "atascadas"
+  }
+}

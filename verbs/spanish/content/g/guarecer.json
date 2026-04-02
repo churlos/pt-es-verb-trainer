@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "guarecer"
+  },
+  "Ger": {
+    "": "guareciendo"
+  },
+  "PresI": {
+    "1s": "guarezco",
+    "2s": "guareces",
+    "3s": "guarece",
+    "1p": "guarecemos",
+    "2p": "guarecéis",
+    "3p": "guarecen"
+  },
+  "PImpI": {
+    "1s": "guarecía",
+    "2s": "guarecías",
+    "3s": "guarecía",
+    "1p": "guarecíamos",
+    "2p": "guarecíais",
+    "3p": "guarecían"
+  },
+  "PPSI": {
+    "1s": "guarecí",
+    "2s": "guareciste",
+    "3s": "guareció",
+    "1p": "guarecimos",
+    "2p": "guarecisteis",
+    "3p": "guarecieron"
+  },
+  "FutSI": {
+    "1s": "guareceré",
+    "2s": "guarecerás",
+    "3s": "guarecerá",
+    "1p": "guareceremos",
+    "2p": "guareceréis",
+    "3p": "guarecerán"
+  },
+  "CondS": {
+    "1s": "guarecería",
+    "2s": "guarecerías",
+    "3s": "guarecería",
+    "1p": "guareceríamos",
+    "2p": "guareceríais",
+    "3p": "guarecerían"
+  },
+  "PresC": {
+    "1s": "guarezca",
+    "2s": "guarezcas",
+    "3s": "guarezca",
+    "1p": "guarezcamos",
+    "2p": "guarezcáis",
+    "3p": "guarezcan"
+  },
+  "PMQPSI": {
+    "1s": "guareciera",
+    "2s": "guarecieras",
+    "3s": "guareciera",
+    "1p": "guareciéramos",
+    "2p": "guarecierais",
+    "3p": "guarecieran"
+  },
+  "PImpC": {
+    "1s": "guareciese",
+    "2s": "guarecieses",
+    "3s": "guareciese",
+    "1p": "guareciésemos",
+    "2p": "guarecieseis",
+    "3p": "guareciesen"
+  },
+  "FutSC": {
+    "1s": "guareciere",
+    "2s": "guarecieres",
+    "3s": "guareciere",
+    "1p": "guareciéremos",
+    "2p": "guareciereis",
+    "3p": "guarecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guarece",
+    "3s": "guarezca",
+    "1p": "guarezcamos",
+    "2p": "guareced",
+    "3p": "guarezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no guarezcas",
+    "3s": "no guarezca",
+    "1p": "no guarezcamos",
+    "2p": "no guarezcáis",
+    "3p": "no guarezcan"
+  },
+  "Part-ter": {
+    "": "guarecido"
+  },
+  "Part-ser": {
+    "ms": "guarecido",
+    "fs": "guarecida",
+    "mp": "guarecidos",
+    "fp": "guarecidas"
+  }
+}

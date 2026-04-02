@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "revalidar"
+  },
+  "Ger": {
+    "": "revalidando"
+  },
+  "PresI": {
+    "1s": "revalido",
+    "2s": "revalidas",
+    "3s": "revalida",
+    "1p": "revalidamos",
+    "2p": "revalidáis",
+    "3p": "revalidan"
+  },
+  "PImpI": {
+    "1s": "revalidaba",
+    "2s": "revalidabas",
+    "3s": "revalidaba",
+    "1p": "revalidábamos",
+    "2p": "revalidabais",
+    "3p": "revalidaban"
+  },
+  "PPSI": {
+    "1s": "revalidé",
+    "2s": "revalidaste",
+    "3s": "revalidó",
+    "1p": "revalidamos",
+    "2p": "revalidasteis",
+    "3p": "revalidaron"
+  },
+  "FutSI": {
+    "1s": "revalidaré",
+    "2s": "revalidarás",
+    "3s": "revalidará",
+    "1p": "revalidaremos",
+    "2p": "revalidaréis",
+    "3p": "revalidarán"
+  },
+  "CondS": {
+    "1s": "revalidaría",
+    "2s": "revalidarías",
+    "3s": "revalidaría",
+    "1p": "revalidaríamos",
+    "2p": "revalidaríais",
+    "3p": "revalidarían"
+  },
+  "PresC": {
+    "1s": "revalide",
+    "2s": "revalides",
+    "3s": "revalide",
+    "1p": "revalidemos",
+    "2p": "revalidéis",
+    "3p": "revaliden"
+  },
+  "PMQPSI": {
+    "1s": "revalidara",
+    "2s": "revalidaras",
+    "3s": "revalidara",
+    "1p": "revalidáramos",
+    "2p": "revalidarais",
+    "3p": "revalidaran"
+  },
+  "PImpC": {
+    "1s": "revalidase",
+    "2s": "revalidases",
+    "3s": "revalidase",
+    "1p": "revalidásemos",
+    "2p": "revalidaseis",
+    "3p": "revalidasen"
+  },
+  "FutSC": {
+    "1s": "revalidare",
+    "2s": "revalidares",
+    "3s": "revalidare",
+    "1p": "revalidáremos",
+    "2p": "revalidareis",
+    "3p": "revalidaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revalida",
+    "3s": "revalide",
+    "1p": "revalidemos",
+    "2p": "revalidad",
+    "3p": "revaliden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no revalides",
+    "3s": "no revalide",
+    "1p": "no revalidemos",
+    "2p": "no revalidéis",
+    "3p": "no revaliden"
+  },
+  "Part-ter": {
+    "": "revalidado"
+  },
+  "Part-ser": {
+    "ms": "revalidado",
+    "fs": "revalidada",
+    "mp": "revalidados",
+    "fp": "revalidadas"
+  }
+}

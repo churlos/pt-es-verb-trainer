@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "magnetizar"
+  },
+  "Ger": {
+    "": "magnetizando"
+  },
+  "PresI": {
+    "1s": "magnetizo",
+    "2s": "magnetizas",
+    "3s": "magnetiza",
+    "1p": "magnetizamos",
+    "2p": "magnetizáis",
+    "3p": "magnetizan"
+  },
+  "PImpI": {
+    "1s": "magnetizaba",
+    "2s": "magnetizabas",
+    "3s": "magnetizaba",
+    "1p": "magnetizábamos",
+    "2p": "magnetizabais",
+    "3p": "magnetizaban"
+  },
+  "PPSI": {
+    "1s": "magneticé",
+    "2s": "magnetizaste",
+    "3s": "magnetizó",
+    "1p": "magnetizamos",
+    "2p": "magnetizasteis",
+    "3p": "magnetizaron"
+  },
+  "FutSI": {
+    "1s": "magnetizaré",
+    "2s": "magnetizarás",
+    "3s": "magnetizará",
+    "1p": "magnetizaremos",
+    "2p": "magnetizaréis",
+    "3p": "magnetizarán"
+  },
+  "CondS": {
+    "1s": "magnetizaría",
+    "2s": "magnetizarías",
+    "3s": "magnetizaría",
+    "1p": "magnetizaríamos",
+    "2p": "magnetizaríais",
+    "3p": "magnetizarían"
+  },
+  "PresC": {
+    "1s": "magnetice",
+    "2s": "magnetices",
+    "3s": "magnetice",
+    "1p": "magneticemos",
+    "2p": "magneticéis",
+    "3p": "magneticen"
+  },
+  "PMQPSI": {
+    "1s": "magnetizara",
+    "2s": "magnetizaras",
+    "3s": "magnetizara",
+    "1p": "magnetizáramos",
+    "2p": "magnetizarais",
+    "3p": "magnetizaran"
+  },
+  "PImpC": {
+    "1s": "magnetizase",
+    "2s": "magnetizases",
+    "3s": "magnetizase",
+    "1p": "magnetizásemos",
+    "2p": "magnetizaseis",
+    "3p": "magnetizasen"
+  },
+  "FutSC": {
+    "1s": "magnetizare",
+    "2s": "magnetizares",
+    "3s": "magnetizare",
+    "1p": "magnetizáremos",
+    "2p": "magnetizareis",
+    "3p": "magnetizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "magnetiza",
+    "3s": "magnetice",
+    "1p": "magneticemos",
+    "2p": "magnetizad",
+    "3p": "magneticen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no magnetices",
+    "3s": "no magnetice",
+    "1p": "no magneticemos",
+    "2p": "no magneticéis",
+    "3p": "no magneticen"
+  },
+  "Part-ter": {
+    "": "magnetizado"
+  },
+  "Part-ser": {
+    "ms": "magnetizado",
+    "fs": "magnetizada",
+    "mp": "magnetizados",
+    "fp": "magnetizadas"
+  }
+}

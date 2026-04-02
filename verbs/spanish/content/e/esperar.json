@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "esperar"
+  },
+  "Ger": {
+    "": "esperando"
+  },
+  "PresI": {
+    "1s": "espero",
+    "2s": "esperas",
+    "3s": "espera",
+    "1p": "esperamos",
+    "2p": "esperáis",
+    "3p": "esperan"
+  },
+  "PImpI": {
+    "1s": "esperaba",
+    "2s": "esperabas",
+    "3s": "esperaba",
+    "1p": "esperábamos",
+    "2p": "esperabais",
+    "3p": "esperaban"
+  },
+  "PPSI": {
+    "1s": "esperé",
+    "2s": "esperaste",
+    "3s": "esperó",
+    "1p": "esperamos",
+    "2p": "esperasteis",
+    "3p": "esperaron"
+  },
+  "FutSI": {
+    "1s": "esperaré",
+    "2s": "esperarás",
+    "3s": "esperará",
+    "1p": "esperaremos",
+    "2p": "esperaréis",
+    "3p": "esperarán"
+  },
+  "CondS": {
+    "1s": "esperaría",
+    "2s": "esperarías",
+    "3s": "esperaría",
+    "1p": "esperaríamos",
+    "2p": "esperaríais",
+    "3p": "esperarían"
+  },
+  "PresC": {
+    "1s": "espere",
+    "2s": "esperes",
+    "3s": "espere",
+    "1p": "esperemos",
+    "2p": "esperéis",
+    "3p": "esperen"
+  },
+  "PMQPSI": {
+    "1s": "esperara",
+    "2s": "esperaras",
+    "3s": "esperara",
+    "1p": "esperáramos",
+    "2p": "esperarais",
+    "3p": "esperaran"
+  },
+  "PImpC": {
+    "1s": "esperase",
+    "2s": "esperases",
+    "3s": "esperase",
+    "1p": "esperásemos",
+    "2p": "esperaseis",
+    "3p": "esperasen"
+  },
+  "FutSC": {
+    "1s": "esperare",
+    "2s": "esperares",
+    "3s": "esperare",
+    "1p": "esperáremos",
+    "2p": "esperareis",
+    "3p": "esperaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espera",
+    "3s": "espere",
+    "1p": "esperemos",
+    "2p": "esperad",
+    "3p": "esperen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no esperes",
+    "3s": "no espere",
+    "1p": "no esperemos",
+    "2p": "no esperéis",
+    "3p": "no esperen"
+  },
+  "Part-ter": {
+    "": "esperado"
+  },
+  "Part-ser": {
+    "ms": "esperado",
+    "fs": "esperada",
+    "mp": "esperados",
+    "fp": "esperadas"
+  }
+}

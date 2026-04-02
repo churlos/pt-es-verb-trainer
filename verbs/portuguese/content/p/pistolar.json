@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pistolar"
+  },
+  "InfP": {
+    "1s": "pistolar",
+    "2s": "pistolares",
+    "3s": "pistolar",
+    "1p": "pistolarmos",
+    "2p": "pistolardes",
+    "3p": "pistolarem"
+  },
+  "Ger": {
+    "": "pistolando"
+  },
+  "PresI": {
+    "1s": "pistolo",
+    "2s": "pistolas",
+    "3s": "pistola",
+    "1p": "pistolamos",
+    "2p": "pistolais",
+    "3p": "pistolam"
+  },
+  "PImpI": {
+    "1s": "pistolava",
+    "2s": "pistolavas",
+    "3s": "pistolava",
+    "1p": "pistolávamos",
+    "2p": "pistoláveis",
+    "3p": "pistolavam"
+  },
+  "PPSI": {
+    "1s": "pistolei",
+    "2s": "pistolaste",
+    "3s": "pistolou",
+    "1p": "pistolámos",
+    "2p": "pistolastes",
+    "3p": "pistolaram"
+  },
+  "PMQPSI": {
+    "1s": "pistolara",
+    "2s": "pistolaras",
+    "3s": "pistolara",
+    "1p": "pistoláramos",
+    "2p": "pistoláreis",
+    "3p": "pistolaram"
+  },
+  "FutSI": {
+    "1s": "pistolarei",
+    "2s": "pistolarás",
+    "3s": "pistolará",
+    "1p": "pistolaremos",
+    "2p": "pistolareis",
+    "3p": "pistolarão"
+  },
+  "CondS": {
+    "1s": "pistolaria",
+    "2s": "pistolarias",
+    "3s": "pistolaria",
+    "1p": "pistolaríamos",
+    "2p": "pistolaríeis",
+    "3p": "pistolariam"
+  },
+  "PresC": {
+    "1s": "pistole",
+    "2s": "pistoles",
+    "3s": "pistole",
+    "1p": "pistolemos",
+    "2p": "pistoleis",
+    "3p": "pistolem"
+  },
+  "PImpC": {
+    "1s": "pistolasse",
+    "2s": "pistolasses",
+    "3s": "pistolasse",
+    "1p": "pistolássemos",
+    "2p": "pistolásseis",
+    "3p": "pistolassem"
+  },
+  "FutSC": {
+    "1s": "pistolar",
+    "2s": "pistolares",
+    "3s": "pistolar",
+    "1p": "pistolarmos",
+    "2p": "pistolardes",
+    "3p": "pistolarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pistola",
+    "3s": "pistole",
+    "1p": "pistolemos",
+    "2p": "pistolai",
+    "3p": "pistolem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pistoles",
+    "3s": "não pistole",
+    "1p": "não pistolemos",
+    "2p": "não pistoleis",
+    "3p": "não pistolem"
+  },
+  "Part-ter": {
+    "": "pistolado"
+  },
+  "Part-ser": {
+    "ms": "pistolado",
+    "fs": "pistolada",
+    "mp": "pistolados",
+    "fp": "pistoladas"
+  }
+}

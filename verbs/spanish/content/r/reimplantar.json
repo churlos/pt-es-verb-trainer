@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reimplantar"
+  },
+  "Ger": {
+    "": "reimplantando"
+  },
+  "PresI": {
+    "1s": "reimplanto",
+    "2s": "reimplantas",
+    "3s": "reimplanta",
+    "1p": "reimplantamos",
+    "2p": "reimplantáis",
+    "3p": "reimplantan"
+  },
+  "PImpI": {
+    "1s": "reimplantaba",
+    "2s": "reimplantabas",
+    "3s": "reimplantaba",
+    "1p": "reimplantábamos",
+    "2p": "reimplantabais",
+    "3p": "reimplantaban"
+  },
+  "PPSI": {
+    "1s": "reimplanté",
+    "2s": "reimplantaste",
+    "3s": "reimplantó",
+    "1p": "reimplantamos",
+    "2p": "reimplantasteis",
+    "3p": "reimplantaron"
+  },
+  "FutSI": {
+    "1s": "reimplantaré",
+    "2s": "reimplantarás",
+    "3s": "reimplantará",
+    "1p": "reimplantaremos",
+    "2p": "reimplantaréis",
+    "3p": "reimplantarán"
+  },
+  "CondS": {
+    "1s": "reimplantaría",
+    "2s": "reimplantarías",
+    "3s": "reimplantaría",
+    "1p": "reimplantaríamos",
+    "2p": "reimplantaríais",
+    "3p": "reimplantarían"
+  },
+  "PresC": {
+    "1s": "reimplante",
+    "2s": "reimplantes",
+    "3s": "reimplante",
+    "1p": "reimplantemos",
+    "2p": "reimplantéis",
+    "3p": "reimplanten"
+  },
+  "PMQPSI": {
+    "1s": "reimplantara",
+    "2s": "reimplantaras",
+    "3s": "reimplantara",
+    "1p": "reimplantáramos",
+    "2p": "reimplantarais",
+    "3p": "reimplantaran"
+  },
+  "PImpC": {
+    "1s": "reimplantase",
+    "2s": "reimplantases",
+    "3s": "reimplantase",
+    "1p": "reimplantásemos",
+    "2p": "reimplantaseis",
+    "3p": "reimplantasen"
+  },
+  "FutSC": {
+    "1s": "reimplantare",
+    "2s": "reimplantares",
+    "3s": "reimplantare",
+    "1p": "reimplantáremos",
+    "2p": "reimplantareis",
+    "3p": "reimplantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reimplanta",
+    "3s": "reimplante",
+    "1p": "reimplantemos",
+    "2p": "reimplantad",
+    "3p": "reimplanten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reimplantes",
+    "3s": "no reimplante",
+    "1p": "no reimplantemos",
+    "2p": "no reimplantéis",
+    "3p": "no reimplanten"
+  },
+  "Part-ter": {
+    "": "reimplantado"
+  },
+  "Part-ser": {
+    "ms": "reimplantado",
+    "fs": "reimplantada",
+    "mp": "reimplantados",
+    "fp": "reimplantadas"
+  }
+}

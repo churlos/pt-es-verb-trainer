@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "comandar"
+  },
+  "InfP": {
+    "1s": "comandar",
+    "2s": "comandares",
+    "3s": "comandar",
+    "1p": "comandarmos",
+    "2p": "comandardes",
+    "3p": "comandarem"
+  },
+  "Ger": {
+    "": "comandando"
+  },
+  "PresI": {
+    "1s": "comando",
+    "2s": "comandas",
+    "3s": "comanda",
+    "1p": "comandamos",
+    "2p": "comandais",
+    "3p": "comandam"
+  },
+  "PImpI": {
+    "1s": "comandava",
+    "2s": "comandavas",
+    "3s": "comandava",
+    "1p": "comandávamos",
+    "2p": "comandáveis",
+    "3p": "comandavam"
+  },
+  "PPSI": {
+    "1s": "comandei",
+    "2s": "comandaste",
+    "3s": "comandou",
+    "1p": "comandámos",
+    "2p": "comandastes",
+    "3p": "comandaram"
+  },
+  "PMQPSI": {
+    "1s": "comandara",
+    "2s": "comandaras",
+    "3s": "comandara",
+    "1p": "comandáramos",
+    "2p": "comandáreis",
+    "3p": "comandaram"
+  },
+  "FutSI": {
+    "1s": "comandarei",
+    "2s": "comandarás",
+    "3s": "comandará",
+    "1p": "comandaremos",
+    "2p": "comandareis",
+    "3p": "comandarão"
+  },
+  "CondS": {
+    "1s": "comandaria",
+    "2s": "comandarias",
+    "3s": "comandaria",
+    "1p": "comandaríamos",
+    "2p": "comandaríeis",
+    "3p": "comandariam"
+  },
+  "PresC": {
+    "1s": "comande",
+    "2s": "comandes",
+    "3s": "comande",
+    "1p": "comandemos",
+    "2p": "comandeis",
+    "3p": "comandem"
+  },
+  "PImpC": {
+    "1s": "comandasse",
+    "2s": "comandasses",
+    "3s": "comandasse",
+    "1p": "comandássemos",
+    "2p": "comandásseis",
+    "3p": "comandassem"
+  },
+  "FutSC": {
+    "1s": "comandar",
+    "2s": "comandares",
+    "3s": "comandar",
+    "1p": "comandarmos",
+    "2p": "comandardes",
+    "3p": "comandarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comanda",
+    "3s": "comande",
+    "1p": "comandemos",
+    "2p": "comandai",
+    "3p": "comandem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não comandes",
+    "3s": "não comande",
+    "1p": "não comandemos",
+    "2p": "não comandeis",
+    "3p": "não comandem"
+  },
+  "Part-ter": {
+    "": "comandado"
+  },
+  "Part-ser": {
+    "ms": "comandado",
+    "fs": "comandada",
+    "mp": "comandados",
+    "fp": "comandadas"
+  }
+}

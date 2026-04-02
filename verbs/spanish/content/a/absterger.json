@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "absterger"
+  },
+  "Ger": {
+    "": "abstergiendo"
+  },
+  "PresI": {
+    "1s": "absterjo",
+    "2s": "absterges",
+    "3s": "absterge",
+    "1p": "abstergemos",
+    "2p": "abstergéis",
+    "3p": "abstergen"
+  },
+  "PImpI": {
+    "1s": "abstergía",
+    "2s": "abstergías",
+    "3s": "abstergía",
+    "1p": "abstergíamos",
+    "2p": "abstergíais",
+    "3p": "abstergían"
+  },
+  "PPSI": {
+    "1s": "abstergí",
+    "2s": "abstergiste",
+    "3s": "abstergió",
+    "1p": "abstergimos",
+    "2p": "abstergisteis",
+    "3p": "abstergieron"
+  },
+  "FutSI": {
+    "1s": "abstergeré",
+    "2s": "abstergerás",
+    "3s": "abstergerá",
+    "1p": "abstergeremos",
+    "2p": "abstergeréis",
+    "3p": "abstergerán"
+  },
+  "CondS": {
+    "1s": "abstergería",
+    "2s": "abstergerías",
+    "3s": "abstergería",
+    "1p": "abstergeríamos",
+    "2p": "abstergeríais",
+    "3p": "abstergerían"
+  },
+  "PresC": {
+    "1s": "absterja",
+    "2s": "absterjas",
+    "3s": "absterja",
+    "1p": "absterjamos",
+    "2p": "absterjáis",
+    "3p": "absterjan"
+  },
+  "PMQPSI": {
+    "1s": "abstergiera",
+    "2s": "abstergieras",
+    "3s": "abstergiera",
+    "1p": "abstergiéramos",
+    "2p": "abstergierais",
+    "3p": "abstergieran"
+  },
+  "PImpC": {
+    "1s": "abstergiese",
+    "2s": "abstergieses",
+    "3s": "abstergiese",
+    "1p": "abstergiésemos",
+    "2p": "abstergieseis",
+    "3p": "abstergiesen"
+  },
+  "FutSC": {
+    "1s": "abstergiere",
+    "2s": "abstergieres",
+    "3s": "abstergiere",
+    "1p": "abstergiéremos",
+    "2p": "abstergiereis",
+    "3p": "abstergieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "absterge",
+    "3s": "absterja",
+    "1p": "absterjamos",
+    "2p": "absterged",
+    "3p": "absterjan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no absterjas",
+    "3s": "no absterja",
+    "1p": "no absterjamos",
+    "2p": "no absterjáis",
+    "3p": "no absterjan"
+  },
+  "Part-ter": {
+    "": "abstergido"
+  },
+  "Part-ser": {
+    "ms": "abstergido",
+    "fs": "abstergida",
+    "mp": "abstergidos",
+    "fp": "abstergidas"
+  }
+}

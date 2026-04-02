@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arrancar"
+  },
+  "Ger": {
+    "": "arrancando"
+  },
+  "PresI": {
+    "1s": "arranco",
+    "2s": "arrancas",
+    "3s": "arranca",
+    "1p": "arrancamos",
+    "2p": "arrancáis",
+    "3p": "arrancan"
+  },
+  "PImpI": {
+    "1s": "arrancaba",
+    "2s": "arrancabas",
+    "3s": "arrancaba",
+    "1p": "arrancábamos",
+    "2p": "arrancabais",
+    "3p": "arrancaban"
+  },
+  "PPSI": {
+    "1s": "arranqué",
+    "2s": "arrancaste",
+    "3s": "arrancó",
+    "1p": "arrancamos",
+    "2p": "arrancasteis",
+    "3p": "arrancaron"
+  },
+  "FutSI": {
+    "1s": "arrancaré",
+    "2s": "arrancarás",
+    "3s": "arrancará",
+    "1p": "arrancaremos",
+    "2p": "arrancaréis",
+    "3p": "arrancarán"
+  },
+  "CondS": {
+    "1s": "arrancaría",
+    "2s": "arrancarías",
+    "3s": "arrancaría",
+    "1p": "arrancaríamos",
+    "2p": "arrancaríais",
+    "3p": "arrancarían"
+  },
+  "PresC": {
+    "1s": "arranque",
+    "2s": "arranques",
+    "3s": "arranque",
+    "1p": "arranquemos",
+    "2p": "arranquéis",
+    "3p": "arranquen"
+  },
+  "PMQPSI": {
+    "1s": "arrancara",
+    "2s": "arrancaras",
+    "3s": "arrancara",
+    "1p": "arrancáramos",
+    "2p": "arrancarais",
+    "3p": "arrancaran"
+  },
+  "PImpC": {
+    "1s": "arrancase",
+    "2s": "arrancases",
+    "3s": "arrancase",
+    "1p": "arrancásemos",
+    "2p": "arrancaseis",
+    "3p": "arrancasen"
+  },
+  "FutSC": {
+    "1s": "arrancare",
+    "2s": "arrancares",
+    "3s": "arrancare",
+    "1p": "arrancáremos",
+    "2p": "arrancareis",
+    "3p": "arrancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arranca",
+    "3s": "arranque",
+    "1p": "arranquemos",
+    "2p": "arrancad",
+    "3p": "arranquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arranques",
+    "3s": "no arranque",
+    "1p": "no arranquemos",
+    "2p": "no arranquéis",
+    "3p": "no arranquen"
+  },
+  "Part-ter": {
+    "": "arrancado"
+  },
+  "Part-ser": {
+    "ms": "arrancado",
+    "fs": "arrancada",
+    "mp": "arrancados",
+    "fp": "arrancadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "folgar"
+  },
+  "Ger": {
+    "": "folgando"
+  },
+  "PresI": {
+    "1s": "fuelgo",
+    "2s": "fuelgas",
+    "3s": "fuelga",
+    "1p": "folgamos",
+    "2p": "folgáis",
+    "3p": "fuelgan"
+  },
+  "PImpI": {
+    "1s": "folgaba",
+    "2s": "folgabas",
+    "3s": "folgaba",
+    "1p": "folgábamos",
+    "2p": "folgabais",
+    "3p": "folgaban"
+  },
+  "PPSI": {
+    "1s": "folgué",
+    "2s": "folgaste",
+    "3s": "folgó",
+    "1p": "folgamos",
+    "2p": "folgasteis",
+    "3p": "folgaron"
+  },
+  "FutSI": {
+    "1s": "folgaré",
+    "2s": "folgarás",
+    "3s": "folgará",
+    "1p": "folgaremos",
+    "2p": "folgaréis",
+    "3p": "folgarán"
+  },
+  "CondS": {
+    "1s": "folgaría",
+    "2s": "folgarías",
+    "3s": "folgaría",
+    "1p": "folgaríamos",
+    "2p": "folgaríais",
+    "3p": "folgarían"
+  },
+  "PresC": {
+    "1s": "fuelgue",
+    "2s": "fuelgues",
+    "3s": "fuelgue",
+    "1p": "folguemos",
+    "2p": "folguéis",
+    "3p": "fuelguen"
+  },
+  "PMQPSI": {
+    "1s": "folgara",
+    "2s": "folgaras",
+    "3s": "folgara",
+    "1p": "folgáramos",
+    "2p": "folgarais",
+    "3p": "folgaran"
+  },
+  "PImpC": {
+    "1s": "folgase",
+    "2s": "folgases",
+    "3s": "folgase",
+    "1p": "folgásemos",
+    "2p": "folgaseis",
+    "3p": "folgasen"
+  },
+  "FutSC": {
+    "1s": "folgare",
+    "2s": "folgares",
+    "3s": "folgare",
+    "1p": "folgáremos",
+    "2p": "folgareis",
+    "3p": "folgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fuelga",
+    "3s": "fuelgue",
+    "1p": "folguemos",
+    "2p": "folgad",
+    "3p": "fuelguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fuelgues",
+    "3s": "no fuelgue",
+    "1p": "no folguemos",
+    "2p": "no folguéis",
+    "3p": "no fuelguen"
+  },
+  "Part-ter": {
+    "": "folgado"
+  },
+  "Part-ser": {
+    "ms": "folgado",
+    "fs": "folgada",
+    "mp": "folgados",
+    "fp": "folgadas"
+  }
+}

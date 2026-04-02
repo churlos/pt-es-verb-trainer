@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "modelizar"
+  },
+  "Ger": {
+    "": "modelizando"
+  },
+  "PresI": {
+    "1s": "modelizo",
+    "2s": "modelizas",
+    "3s": "modeliza",
+    "1p": "modelizamos",
+    "2p": "modelizáis",
+    "3p": "modelizan"
+  },
+  "PImpI": {
+    "1s": "modelizaba",
+    "2s": "modelizabas",
+    "3s": "modelizaba",
+    "1p": "modelizábamos",
+    "2p": "modelizabais",
+    "3p": "modelizaban"
+  },
+  "PPSI": {
+    "1s": "modelicé",
+    "2s": "modelizaste",
+    "3s": "modelizó",
+    "1p": "modelizamos",
+    "2p": "modelizasteis",
+    "3p": "modelizaron"
+  },
+  "FutSI": {
+    "1s": "modelizaré",
+    "2s": "modelizarás",
+    "3s": "modelizará",
+    "1p": "modelizaremos",
+    "2p": "modelizaréis",
+    "3p": "modelizarán"
+  },
+  "CondS": {
+    "1s": "modelizaría",
+    "2s": "modelizarías",
+    "3s": "modelizaría",
+    "1p": "modelizaríamos",
+    "2p": "modelizaríais",
+    "3p": "modelizarían"
+  },
+  "PresC": {
+    "1s": "modelice",
+    "2s": "modelices",
+    "3s": "modelice",
+    "1p": "modelicemos",
+    "2p": "modelicéis",
+    "3p": "modelicen"
+  },
+  "PMQPSI": {
+    "1s": "modelizara",
+    "2s": "modelizaras",
+    "3s": "modelizara",
+    "1p": "modelizáramos",
+    "2p": "modelizarais",
+    "3p": "modelizaran"
+  },
+  "PImpC": {
+    "1s": "modelizase",
+    "2s": "modelizases",
+    "3s": "modelizase",
+    "1p": "modelizásemos",
+    "2p": "modelizaseis",
+    "3p": "modelizasen"
+  },
+  "FutSC": {
+    "1s": "modelizare",
+    "2s": "modelizares",
+    "3s": "modelizare",
+    "1p": "modelizáremos",
+    "2p": "modelizareis",
+    "3p": "modelizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modeliza",
+    "3s": "modelice",
+    "1p": "modelicemos",
+    "2p": "modelizad",
+    "3p": "modelicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no modelices",
+    "3s": "no modelice",
+    "1p": "no modelicemos",
+    "2p": "no modelicéis",
+    "3p": "no modelicen"
+  },
+  "Part-ter": {
+    "": "modelizado"
+  },
+  "Part-ser": {
+    "ms": "modelizado",
+    "fs": "modelizada",
+    "mp": "modelizados",
+    "fp": "modelizadas"
+  }
+}

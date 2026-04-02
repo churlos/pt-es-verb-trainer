@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "exfiltrar"
+  },
+  "Ger": {
+    "": "exfiltrando"
+  },
+  "PresI": {
+    "1s": "exfiltro",
+    "2s": "exfiltras",
+    "3s": "exfiltra",
+    "1p": "exfiltramos",
+    "2p": "exfiltráis",
+    "3p": "exfiltran"
+  },
+  "PImpI": {
+    "1s": "exfiltraba",
+    "2s": "exfiltrabas",
+    "3s": "exfiltraba",
+    "1p": "exfiltrábamos",
+    "2p": "exfiltrabais",
+    "3p": "exfiltraban"
+  },
+  "PPSI": {
+    "1s": "exfiltré",
+    "2s": "exfiltraste",
+    "3s": "exfiltró",
+    "1p": "exfiltramos",
+    "2p": "exfiltrasteis",
+    "3p": "exfiltraron"
+  },
+  "FutSI": {
+    "1s": "exfiltraré",
+    "2s": "exfiltrarás",
+    "3s": "exfiltrará",
+    "1p": "exfiltraremos",
+    "2p": "exfiltraréis",
+    "3p": "exfiltrarán"
+  },
+  "CondS": {
+    "1s": "exfiltraría",
+    "2s": "exfiltrarías",
+    "3s": "exfiltraría",
+    "1p": "exfiltraríamos",
+    "2p": "exfiltraríais",
+    "3p": "exfiltrarían"
+  },
+  "PresC": {
+    "1s": "exfiltre",
+    "2s": "exfiltres",
+    "3s": "exfiltre",
+    "1p": "exfiltremos",
+    "2p": "exfiltréis",
+    "3p": "exfiltren"
+  },
+  "PMQPSI": {
+    "1s": "exfiltrara",
+    "2s": "exfiltraras",
+    "3s": "exfiltrara",
+    "1p": "exfiltráramos",
+    "2p": "exfiltrarais",
+    "3p": "exfiltraran"
+  },
+  "PImpC": {
+    "1s": "exfiltrase",
+    "2s": "exfiltrases",
+    "3s": "exfiltrase",
+    "1p": "exfiltrásemos",
+    "2p": "exfiltraseis",
+    "3p": "exfiltrasen"
+  },
+  "FutSC": {
+    "1s": "exfiltrare",
+    "2s": "exfiltrares",
+    "3s": "exfiltrare",
+    "1p": "exfiltráremos",
+    "2p": "exfiltrareis",
+    "3p": "exfiltraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exfiltra",
+    "3s": "exfiltre",
+    "1p": "exfiltremos",
+    "2p": "exfiltrad",
+    "3p": "exfiltren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no exfiltres",
+    "3s": "no exfiltre",
+    "1p": "no exfiltremos",
+    "2p": "no exfiltréis",
+    "3p": "no exfiltren"
+  },
+  "Part-ter": {
+    "": "exfiltrado"
+  },
+  "Part-ser": {
+    "ms": "exfiltrado",
+    "fs": "exfiltrada",
+    "mp": "exfiltrados",
+    "fp": "exfiltradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vulcanizar"
+  },
+  "InfP": {
+    "1s": "vulcanizar",
+    "2s": "vulcanizares",
+    "3s": "vulcanizar",
+    "1p": "vulcanizarmos",
+    "2p": "vulcanizardes",
+    "3p": "vulcanizarem"
+  },
+  "Ger": {
+    "": "vulcanizando"
+  },
+  "PresI": {
+    "1s": "vulcanizo",
+    "2s": "vulcanizas",
+    "3s": "vulcaniza",
+    "1p": "vulcanizamos",
+    "2p": "vulcanizais",
+    "3p": "vulcanizam"
+  },
+  "PImpI": {
+    "1s": "vulcanizava",
+    "2s": "vulcanizavas",
+    "3s": "vulcanizava",
+    "1p": "vulcanizávamos",
+    "2p": "vulcanizáveis",
+    "3p": "vulcanizavam"
+  },
+  "PPSI": {
+    "1s": "vulcanizei",
+    "2s": "vulcanizaste",
+    "3s": "vulcanizou",
+    "1p": "vulcanizámos",
+    "2p": "vulcanizastes",
+    "3p": "vulcanizaram"
+  },
+  "PMQPSI": {
+    "1s": "vulcanizara",
+    "2s": "vulcanizaras",
+    "3s": "vulcanizara",
+    "1p": "vulcanizáramos",
+    "2p": "vulcanizáreis",
+    "3p": "vulcanizaram"
+  },
+  "FutSI": {
+    "1s": "vulcanizarei",
+    "2s": "vulcanizarás",
+    "3s": "vulcanizará",
+    "1p": "vulcanizaremos",
+    "2p": "vulcanizareis",
+    "3p": "vulcanizarão"
+  },
+  "CondS": {
+    "1s": "vulcanizaria",
+    "2s": "vulcanizarias",
+    "3s": "vulcanizaria",
+    "1p": "vulcanizaríamos",
+    "2p": "vulcanizaríeis",
+    "3p": "vulcanizariam"
+  },
+  "PresC": {
+    "1s": "vulcanize",
+    "2s": "vulcanizes",
+    "3s": "vulcanize",
+    "1p": "vulcanizemos",
+    "2p": "vulcanizeis",
+    "3p": "vulcanizem"
+  },
+  "PImpC": {
+    "1s": "vulcanizasse",
+    "2s": "vulcanizasses",
+    "3s": "vulcanizasse",
+    "1p": "vulcanizássemos",
+    "2p": "vulcanizásseis",
+    "3p": "vulcanizassem"
+  },
+  "FutSC": {
+    "1s": "vulcanizar",
+    "2s": "vulcanizares",
+    "3s": "vulcanizar",
+    "1p": "vulcanizarmos",
+    "2p": "vulcanizardes",
+    "3p": "vulcanizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vulcaniza",
+    "3s": "vulcanize",
+    "1p": "vulcanizemos",
+    "2p": "vulcanizai",
+    "3p": "vulcanizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vulcanizes",
+    "3s": "não vulcanize",
+    "1p": "não vulcanizemos",
+    "2p": "não vulcanizeis",
+    "3p": "não vulcanizem"
+  },
+  "Part-ter": {
+    "": "vulcanizado"
+  },
+  "Part-ser": {
+    "ms": "vulcanizado",
+    "fs": "vulcanizada",
+    "mp": "vulcanizados",
+    "fp": "vulcanizadas"
+  }
+}

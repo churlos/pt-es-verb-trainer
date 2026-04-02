@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "regar"
+  },
+  "Ger": {
+    "": "regando"
+  },
+  "PresI": {
+    "1s": "riego",
+    "2s": "riegas",
+    "3s": "riega",
+    "1p": "regamos",
+    "2p": "regáis",
+    "3p": "riegan"
+  },
+  "PImpI": {
+    "1s": "regaba",
+    "2s": "regabas",
+    "3s": "regaba",
+    "1p": "regábamos",
+    "2p": "regabais",
+    "3p": "regaban"
+  },
+  "PPSI": {
+    "1s": "regué",
+    "2s": "regaste",
+    "3s": "regó",
+    "1p": "regamos",
+    "2p": "regasteis",
+    "3p": "regaron"
+  },
+  "FutSI": {
+    "1s": "regaré",
+    "2s": "regarás",
+    "3s": "regará",
+    "1p": "regaremos",
+    "2p": "regaréis",
+    "3p": "regarán"
+  },
+  "CondS": {
+    "1s": "regaría",
+    "2s": "regarías",
+    "3s": "regaría",
+    "1p": "regaríamos",
+    "2p": "regaríais",
+    "3p": "regarían"
+  },
+  "PresC": {
+    "1s": "riegue",
+    "2s": "riegues",
+    "3s": "riegue",
+    "1p": "reguemos",
+    "2p": "reguéis",
+    "3p": "rieguen"
+  },
+  "PMQPSI": {
+    "1s": "regara",
+    "2s": "regaras",
+    "3s": "regara",
+    "1p": "regáramos",
+    "2p": "regarais",
+    "3p": "regaran"
+  },
+  "PImpC": {
+    "1s": "regase",
+    "2s": "regases",
+    "3s": "regase",
+    "1p": "regásemos",
+    "2p": "regaseis",
+    "3p": "regasen"
+  },
+  "FutSC": {
+    "1s": "regare",
+    "2s": "regares",
+    "3s": "regare",
+    "1p": "regáremos",
+    "2p": "regareis",
+    "3p": "regaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "riega",
+    "3s": "riegue",
+    "1p": "reguemos",
+    "2p": "regad",
+    "3p": "rieguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no riegues",
+    "3s": "no riegue",
+    "1p": "no reguemos",
+    "2p": "no reguéis",
+    "3p": "no rieguen"
+  },
+  "Part-ter": {
+    "": "regado"
+  },
+  "Part-ser": {
+    "ms": "regado",
+    "fs": "regada",
+    "mp": "regados",
+    "fp": "regadas"
+  }
+}

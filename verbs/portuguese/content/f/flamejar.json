@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "flamejar"
+  },
+  "InfP": {
+    "1s": "flamejar",
+    "2s": "flamejares",
+    "3s": "flamejar",
+    "1p": "flamejarmos",
+    "2p": "flamejardes",
+    "3p": "flamejarem"
+  },
+  "Ger": {
+    "": "flamejando"
+  },
+  "PresI": {
+    "1s": "flamejo",
+    "2s": "flamejas",
+    "3s": "flameja",
+    "1p": "flamejamos",
+    "2p": "flamejais",
+    "3p": "flamejam"
+  },
+  "PImpI": {
+    "1s": "flamejava",
+    "2s": "flamejavas",
+    "3s": "flamejava",
+    "1p": "flamejávamos",
+    "2p": "flamejáveis",
+    "3p": "flamejavam"
+  },
+  "PPSI": {
+    "1s": "flamejei",
+    "2s": "flamejaste",
+    "3s": "flamejou",
+    "1p": "flamejámos",
+    "2p": "flamejastes",
+    "3p": "flamejaram"
+  },
+  "PMQPSI": {
+    "1s": "flamejara",
+    "2s": "flamejaras",
+    "3s": "flamejara",
+    "1p": "flamejáramos",
+    "2p": "flamejáreis",
+    "3p": "flamejaram"
+  },
+  "FutSI": {
+    "1s": "flamejarei",
+    "2s": "flamejarás",
+    "3s": "flamejará",
+    "1p": "flamejaremos",
+    "2p": "flamejareis",
+    "3p": "flamejarão"
+  },
+  "CondS": {
+    "1s": "flamejaria",
+    "2s": "flamejarias",
+    "3s": "flamejaria",
+    "1p": "flamejaríamos",
+    "2p": "flamejaríeis",
+    "3p": "flamejariam"
+  },
+  "PresC": {
+    "1s": "flameje",
+    "2s": "flamejes",
+    "3s": "flameje",
+    "1p": "flamejemos",
+    "2p": "flamejeis",
+    "3p": "flamejem"
+  },
+  "PImpC": {
+    "1s": "flamejasse",
+    "2s": "flamejasses",
+    "3s": "flamejasse",
+    "1p": "flamejássemos",
+    "2p": "flamejásseis",
+    "3p": "flamejassem"
+  },
+  "FutSC": {
+    "1s": "flamejar",
+    "2s": "flamejares",
+    "3s": "flamejar",
+    "1p": "flamejarmos",
+    "2p": "flamejardes",
+    "3p": "flamejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flameja",
+    "3s": "flameje",
+    "1p": "flamejemos",
+    "2p": "flamejai",
+    "3p": "flamejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não flamejes",
+    "3s": "não flameje",
+    "1p": "não flamejemos",
+    "2p": "não flamejeis",
+    "3p": "não flamejem"
+  },
+  "Part-ter": {
+    "": "flamejado"
+  },
+  "Part-ser": {
+    "ms": "flamejado",
+    "fs": "flamejada",
+    "mp": "flamejados",
+    "fp": "flamejadas"
+  }
+}

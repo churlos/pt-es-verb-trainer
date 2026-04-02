@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perseguir"
+  },
+  "InfP": {
+    "1s": "perseguir",
+    "2s": "perseguires",
+    "3s": "perseguir",
+    "1p": "perseguirmos",
+    "2p": "perseguirdes",
+    "3p": "perseguirem"
+  },
+  "Ger": {
+    "": "perseguindo"
+  },
+  "PresI": {
+    "1s": "persigo",
+    "2s": "persegues",
+    "3s": "persegue",
+    "1p": "perseguimos",
+    "2p": "perseguis",
+    "3p": "perseguem"
+  },
+  "PImpI": {
+    "1s": "perseguia",
+    "2s": "perseguias",
+    "3s": "perseguia",
+    "1p": "perseguíamos",
+    "2p": "perseguíeis",
+    "3p": "perseguiam"
+  },
+  "PPSI": {
+    "1s": "persegui",
+    "2s": "perseguiste",
+    "3s": "perseguiu",
+    "1p": "perseguimos",
+    "2p": "perseguistes",
+    "3p": "perseguiram"
+  },
+  "PMQPSI": {
+    "1s": "perseguira",
+    "2s": "perseguiras",
+    "3s": "perseguira",
+    "1p": "perseguíramos",
+    "2p": "perseguíreis",
+    "3p": "perseguiram"
+  },
+  "FutSI": {
+    "1s": "perseguirei",
+    "2s": "perseguirás",
+    "3s": "perseguirá",
+    "1p": "perseguiremos",
+    "2p": "perseguireis",
+    "3p": "perseguirão"
+  },
+  "CondS": {
+    "1s": "perseguiria",
+    "2s": "perseguirias",
+    "3s": "perseguiria",
+    "1p": "perseguiríamos",
+    "2p": "perseguiríeis",
+    "3p": "perseguiriam"
+  },
+  "PresC": {
+    "1s": "persiga",
+    "2s": "persigas",
+    "3s": "persiga",
+    "1p": "persigamos",
+    "2p": "persigais",
+    "3p": "persigam"
+  },
+  "PImpC": {
+    "1s": "perseguisse",
+    "2s": "perseguisses",
+    "3s": "perseguisse",
+    "1p": "perseguíssemos",
+    "2p": "perseguísseis",
+    "3p": "perseguissem"
+  },
+  "FutSC": {
+    "1s": "perseguir",
+    "2s": "perseguires",
+    "3s": "perseguir",
+    "1p": "perseguirmos",
+    "2p": "perseguirdes",
+    "3p": "perseguirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "persegue",
+    "3s": "persiga",
+    "1p": "persigamos",
+    "2p": "persegui",
+    "3p": "persigam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não persigas",
+    "3s": "não persiga",
+    "1p": "não persigamos",
+    "2p": "não persigais",
+    "3p": "não persigam"
+  },
+  "Part-ter": {
+    "": "perseguido"
+  },
+  "Part-ser": {
+    "ms": "perseguido",
+    "fs": "perseguida",
+    "mp": "perseguidos",
+    "fp": "perseguidas"
+  }
+}

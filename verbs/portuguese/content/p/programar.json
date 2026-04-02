@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "programar"
+  },
+  "InfP": {
+    "1s": "programar",
+    "2s": "programares",
+    "3s": "programar",
+    "1p": "programarmos",
+    "2p": "programardes",
+    "3p": "programarem"
+  },
+  "Ger": {
+    "": "programando"
+  },
+  "PresI": {
+    "1s": "programo",
+    "2s": "programas",
+    "3s": "programa",
+    "1p": "programamos",
+    "2p": "programais",
+    "3p": "programam"
+  },
+  "PImpI": {
+    "1s": "programava",
+    "2s": "programavas",
+    "3s": "programava",
+    "1p": "programávamos",
+    "2p": "programáveis",
+    "3p": "programavam"
+  },
+  "PPSI": {
+    "1s": "programei",
+    "2s": "programaste",
+    "3s": "programou",
+    "1p": "programámos",
+    "2p": "programastes",
+    "3p": "programaram"
+  },
+  "PMQPSI": {
+    "1s": "programara",
+    "2s": "programaras",
+    "3s": "programara",
+    "1p": "programáramos",
+    "2p": "programáreis",
+    "3p": "programaram"
+  },
+  "FutSI": {
+    "1s": "programarei",
+    "2s": "programarás",
+    "3s": "programará",
+    "1p": "programaremos",
+    "2p": "programareis",
+    "3p": "programarão"
+  },
+  "CondS": {
+    "1s": "programaria",
+    "2s": "programarias",
+    "3s": "programaria",
+    "1p": "programaríamos",
+    "2p": "programaríeis",
+    "3p": "programariam"
+  },
+  "PresC": {
+    "1s": "programe",
+    "2s": "programes",
+    "3s": "programe",
+    "1p": "programemos",
+    "2p": "programeis",
+    "3p": "programem"
+  },
+  "PImpC": {
+    "1s": "programasse",
+    "2s": "programasses",
+    "3s": "programasse",
+    "1p": "programássemos",
+    "2p": "programásseis",
+    "3p": "programassem"
+  },
+  "FutSC": {
+    "1s": "programar",
+    "2s": "programares",
+    "3s": "programar",
+    "1p": "programarmos",
+    "2p": "programardes",
+    "3p": "programarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "programa",
+    "3s": "programe",
+    "1p": "programemos",
+    "2p": "programai",
+    "3p": "programem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não programes",
+    "3s": "não programe",
+    "1p": "não programemos",
+    "2p": "não programeis",
+    "3p": "não programem"
+  },
+  "Part-ter": {
+    "": "programado"
+  },
+  "Part-ser": {
+    "ms": "programado",
+    "fs": "programada",
+    "mp": "programados",
+    "fp": "programadas"
+  }
+}

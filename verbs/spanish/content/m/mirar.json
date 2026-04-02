@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mirar"
+  },
+  "Ger": {
+    "": "mirando"
+  },
+  "PresI": {
+    "1s": "miro",
+    "2s": "miras",
+    "3s": "mira",
+    "1p": "miramos",
+    "2p": "miráis",
+    "3p": "miran"
+  },
+  "PImpI": {
+    "1s": "miraba",
+    "2s": "mirabas",
+    "3s": "miraba",
+    "1p": "mirábamos",
+    "2p": "mirabais",
+    "3p": "miraban"
+  },
+  "PPSI": {
+    "1s": "miré",
+    "2s": "miraste",
+    "3s": "miró",
+    "1p": "miramos",
+    "2p": "mirasteis",
+    "3p": "miraron"
+  },
+  "FutSI": {
+    "1s": "miraré",
+    "2s": "mirarás",
+    "3s": "mirará",
+    "1p": "miraremos",
+    "2p": "miraréis",
+    "3p": "mirarán"
+  },
+  "CondS": {
+    "1s": "miraría",
+    "2s": "mirarías",
+    "3s": "miraría",
+    "1p": "miraríamos",
+    "2p": "miraríais",
+    "3p": "mirarían"
+  },
+  "PresC": {
+    "1s": "mire",
+    "2s": "mires",
+    "3s": "mire",
+    "1p": "miremos",
+    "2p": "miréis",
+    "3p": "miren"
+  },
+  "PMQPSI": {
+    "1s": "mirara",
+    "2s": "miraras",
+    "3s": "mirara",
+    "1p": "miráramos",
+    "2p": "mirarais",
+    "3p": "miraran"
+  },
+  "PImpC": {
+    "1s": "mirase",
+    "2s": "mirases",
+    "3s": "mirase",
+    "1p": "mirásemos",
+    "2p": "miraseis",
+    "3p": "mirasen"
+  },
+  "FutSC": {
+    "1s": "mirare",
+    "2s": "mirares",
+    "3s": "mirare",
+    "1p": "miráremos",
+    "2p": "mirareis",
+    "3p": "miraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mira",
+    "3s": "mire",
+    "1p": "miremos",
+    "2p": "mirad",
+    "3p": "miren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mires",
+    "3s": "no mire",
+    "1p": "no miremos",
+    "2p": "no miréis",
+    "3p": "no miren"
+  },
+  "Part-ter": {
+    "": "mirado"
+  },
+  "Part-ser": {
+    "ms": "mirado",
+    "fs": "mirada",
+    "mp": "mirados",
+    "fp": "miradas"
+  }
+}

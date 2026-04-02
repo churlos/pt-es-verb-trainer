@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "torcer"
+  },
+  "InfP": {
+    "1s": "torcer",
+    "2s": "torceres",
+    "3s": "torcer",
+    "1p": "torcermos",
+    "2p": "torcerdes",
+    "3p": "torcerem"
+  },
+  "Ger": {
+    "": "torcendo"
+  },
+  "PresI": {
+    "1s": "torço",
+    "2s": "torces",
+    "3s": "torce",
+    "1p": "torcemos",
+    "2p": "torceis",
+    "3p": "torcem"
+  },
+  "PImpI": {
+    "1s": "torcia",
+    "2s": "torcias",
+    "3s": "torcia",
+    "1p": "torcíamos",
+    "2p": "torcíeis",
+    "3p": "torciam"
+  },
+  "PPSI": {
+    "1s": "torci",
+    "2s": "torceste",
+    "3s": "torceu",
+    "1p": "torcemos",
+    "2p": "torcestes",
+    "3p": "torceram"
+  },
+  "PMQPSI": {
+    "1s": "torcera",
+    "2s": "torceras",
+    "3s": "torcera",
+    "1p": "torcêramos",
+    "2p": "torcêreis",
+    "3p": "torceram"
+  },
+  "FutSI": {
+    "1s": "torcerei",
+    "2s": "torcerás",
+    "3s": "torcerá",
+    "1p": "torceremos",
+    "2p": "torcereis",
+    "3p": "torcerão"
+  },
+  "CondS": {
+    "1s": "torceria",
+    "2s": "torcerias",
+    "3s": "torceria",
+    "1p": "torceríamos",
+    "2p": "torceríeis",
+    "3p": "torceriam"
+  },
+  "PresC": {
+    "1s": "torça",
+    "2s": "torças",
+    "3s": "torça",
+    "1p": "torçamos",
+    "2p": "torçais",
+    "3p": "torçam"
+  },
+  "PImpC": {
+    "1s": "torcesse",
+    "2s": "torcesses",
+    "3s": "torcesse",
+    "1p": "torcêssemos",
+    "2p": "torcêsseis",
+    "3p": "torcessem"
+  },
+  "FutSC": {
+    "1s": "torcer",
+    "2s": "torceres",
+    "3s": "torcer",
+    "1p": "torcermos",
+    "2p": "torcerdes",
+    "3p": "torcerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "torce",
+    "3s": "torça",
+    "1p": "torçamos",
+    "2p": "torcei",
+    "3p": "torçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não torças",
+    "3s": "não torça",
+    "1p": "não torçamos",
+    "2p": "não torçais",
+    "3p": "não torçam"
+  },
+  "Part-ter": {
+    "": "torcido"
+  },
+  "Part-ser": {
+    "ms": "torcido",
+    "fs": "torcida",
+    "mp": "torcidos",
+    "fp": "torcidas"
+  }
+}

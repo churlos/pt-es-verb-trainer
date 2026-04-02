@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perseguir"
+  },
+  "Ger": {
+    "": "persiguiendo"
+  },
+  "PresI": {
+    "1s": "persigo",
+    "2s": "persigues",
+    "3s": "persigue",
+    "1p": "perseguimos",
+    "2p": "perseguís",
+    "3p": "persiguen"
+  },
+  "PImpI": {
+    "1s": "perseguía",
+    "2s": "perseguías",
+    "3s": "perseguía",
+    "1p": "perseguíamos",
+    "2p": "perseguíais",
+    "3p": "perseguían"
+  },
+  "PPSI": {
+    "1s": "perseguí",
+    "2s": "perseguiste",
+    "3s": "persiguió",
+    "1p": "perseguimos",
+    "2p": "perseguisteis",
+    "3p": "persiguieron"
+  },
+  "FutSI": {
+    "1s": "perseguiré",
+    "2s": "perseguirás",
+    "3s": "perseguirá",
+    "1p": "perseguiremos",
+    "2p": "perseguiréis",
+    "3p": "perseguirán"
+  },
+  "CondS": {
+    "1s": "perseguiría",
+    "2s": "perseguirías",
+    "3s": "perseguiría",
+    "1p": "perseguiríamos",
+    "2p": "perseguiríais",
+    "3p": "perseguirían"
+  },
+  "PresC": {
+    "1s": "persiga",
+    "2s": "persigas",
+    "3s": "persiga",
+    "1p": "persigamos",
+    "2p": "persigáis",
+    "3p": "persigan"
+  },
+  "PMQPSI": {
+    "1s": "persiguiera",
+    "2s": "persiguieras",
+    "3s": "persiguiera",
+    "1p": "persiguiéramos",
+    "2p": "persiguierais",
+    "3p": "persiguieran"
+  },
+  "PImpC": {
+    "1s": "persiguiese",
+    "2s": "persiguieses",
+    "3s": "persiguiese",
+    "1p": "persiguiésemos",
+    "2p": "persiguieseis",
+    "3p": "persiguiesen"
+  },
+  "FutSC": {
+    "1s": "persiguiere",
+    "2s": "persiguieres",
+    "3s": "persiguiere",
+    "1p": "persiguiéremos",
+    "2p": "persiguiereis",
+    "3p": "persiguieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "persigue",
+    "3s": "persiga",
+    "1p": "persigamos",
+    "2p": "perseguid",
+    "3p": "persigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no persigas",
+    "3s": "no persiga",
+    "1p": "no persigamos",
+    "2p": "no persigáis",
+    "3p": "no persigan"
+  },
+  "Part-ter": {
+    "": "perseguido"
+  },
+  "Part-ser": {
+    "ms": "perseguido",
+    "fs": "perseguida",
+    "mp": "perseguidos",
+    "fp": "perseguidas"
+  }
+}

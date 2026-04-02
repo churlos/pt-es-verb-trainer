@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alambicar"
+  },
+  "Ger": {
+    "": "alambicando"
+  },
+  "PresI": {
+    "1s": "alambico",
+    "2s": "alambicas",
+    "3s": "alambica",
+    "1p": "alambicamos",
+    "2p": "alambicáis",
+    "3p": "alambican"
+  },
+  "PImpI": {
+    "1s": "alambicaba",
+    "2s": "alambicabas",
+    "3s": "alambicaba",
+    "1p": "alambicábamos",
+    "2p": "alambicabais",
+    "3p": "alambicaban"
+  },
+  "PPSI": {
+    "1s": "alambiqué",
+    "2s": "alambicaste",
+    "3s": "alambicó",
+    "1p": "alambicamos",
+    "2p": "alambicasteis",
+    "3p": "alambicaron"
+  },
+  "FutSI": {
+    "1s": "alambicaré",
+    "2s": "alambicarás",
+    "3s": "alambicará",
+    "1p": "alambicaremos",
+    "2p": "alambicaréis",
+    "3p": "alambicarán"
+  },
+  "CondS": {
+    "1s": "alambicaría",
+    "2s": "alambicarías",
+    "3s": "alambicaría",
+    "1p": "alambicaríamos",
+    "2p": "alambicaríais",
+    "3p": "alambicarían"
+  },
+  "PresC": {
+    "1s": "alambique",
+    "2s": "alambiques",
+    "3s": "alambique",
+    "1p": "alambiquemos",
+    "2p": "alambiquéis",
+    "3p": "alambiquen"
+  },
+  "PMQPSI": {
+    "1s": "alambicara",
+    "2s": "alambicaras",
+    "3s": "alambicara",
+    "1p": "alambicáramos",
+    "2p": "alambicarais",
+    "3p": "alambicaran"
+  },
+  "PImpC": {
+    "1s": "alambicase",
+    "2s": "alambicases",
+    "3s": "alambicase",
+    "1p": "alambicásemos",
+    "2p": "alambicaseis",
+    "3p": "alambicasen"
+  },
+  "FutSC": {
+    "1s": "alambicare",
+    "2s": "alambicares",
+    "3s": "alambicare",
+    "1p": "alambicáremos",
+    "2p": "alambicareis",
+    "3p": "alambicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alambica",
+    "3s": "alambique",
+    "1p": "alambiquemos",
+    "2p": "alambicad",
+    "3p": "alambiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alambiques",
+    "3s": "no alambique",
+    "1p": "no alambiquemos",
+    "2p": "no alambiquéis",
+    "3p": "no alambiquen"
+  },
+  "Part-ter": {
+    "": "alambicado"
+  },
+  "Part-ser": {
+    "ms": "alambicado",
+    "fs": "alambicada",
+    "mp": "alambicados",
+    "fp": "alambicadas"
+  }
+}

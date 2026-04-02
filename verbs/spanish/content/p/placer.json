@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "placer"
+  },
+  "Ger": {
+    "": "placiendo"
+  },
+  "PresI": {
+    "1s": "plazco",
+    "2s": "places",
+    "3s": "place",
+    "1p": "placemos",
+    "2p": "placéis",
+    "3p": "placen"
+  },
+  "PImpI": {
+    "1s": "placía",
+    "2s": "placías",
+    "3s": "placía",
+    "1p": "placíamos",
+    "2p": "placíais",
+    "3p": "placían"
+  },
+  "PPSI": {
+    "1s": "plací",
+    "2s": "placiste",
+    "3s": "plació, plugo",
+    "1p": "placimos",
+    "2p": "placisteis",
+    "3p": "placieron, pluguieron"
+  },
+  "FutSI": {
+    "1s": "placeré",
+    "2s": "placerás",
+    "3s": "placerá",
+    "1p": "placeremos",
+    "2p": "placeréis",
+    "3p": "placerán"
+  },
+  "CondS": {
+    "1s": "placería",
+    "2s": "placerías",
+    "3s": "placería",
+    "1p": "placeríamos",
+    "2p": "placeríais",
+    "3p": "placerían"
+  },
+  "PresC": {
+    "1s": "plazca",
+    "2s": "plazcas",
+    "3s": "plazca, plega, plegue",
+    "1p": "plazcamos",
+    "2p": "plazcáis",
+    "3p": "plazcan"
+  },
+  "PMQPSI": {
+    "1s": "placiera",
+    "2s": "placieras",
+    "3s": "placiera, pluguiera",
+    "1p": "placiéramos",
+    "2p": "placierais",
+    "3p": "placieran, pluguieran"
+  },
+  "PImpC": {
+    "1s": "placiese",
+    "2s": "placieses",
+    "3s": "placiese, pluguiese",
+    "1p": "placiésemos",
+    "2p": "placieseis",
+    "3p": "placiesen, pluguiesen"
+  },
+  "FutSC": {
+    "1s": "placiere",
+    "2s": "placieres",
+    "3s": "placiere, pluguiere",
+    "1p": "placiéremos",
+    "2p": "placiereis",
+    "3p": "placieren, pluguieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "place",
+    "3s": "plazca, plegue",
+    "1p": "plazcamos",
+    "2p": "placed",
+    "3p": "plazcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no plazcas",
+    "3s": "no plazca, plega, plegue",
+    "1p": "no plazcamos",
+    "2p": "no plazcáis",
+    "3p": "no plazcan"
+  },
+  "Part-ter": {
+    "": "placido"
+  },
+  "Part-ser": {
+    "ms": "placido",
+    "fs": "placida",
+    "mp": "placidos",
+    "fp": "placidas"
+  }
+}

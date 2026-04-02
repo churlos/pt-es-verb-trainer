@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "digitar"
+  },
+  "InfP": {
+    "1s": "digitar",
+    "2s": "digitares",
+    "3s": "digitar",
+    "1p": "digitarmos",
+    "2p": "digitardes",
+    "3p": "digitarem"
+  },
+  "Ger": {
+    "": "digitando"
+  },
+  "PresI": {
+    "1s": "digito",
+    "2s": "digitas",
+    "3s": "digita",
+    "1p": "digitamos",
+    "2p": "digitais",
+    "3p": "digitam"
+  },
+  "PImpI": {
+    "1s": "digitava",
+    "2s": "digitavas",
+    "3s": "digitava",
+    "1p": "digitávamos",
+    "2p": "digitáveis",
+    "3p": "digitavam"
+  },
+  "PPSI": {
+    "1s": "digitei",
+    "2s": "digitaste",
+    "3s": "digitou",
+    "1p": "digitámos",
+    "2p": "digitastes",
+    "3p": "digitaram"
+  },
+  "PMQPSI": {
+    "1s": "digitara",
+    "2s": "digitaras",
+    "3s": "digitara",
+    "1p": "digitáramos",
+    "2p": "digitáreis",
+    "3p": "digitaram"
+  },
+  "FutSI": {
+    "1s": "digitarei",
+    "2s": "digitarás",
+    "3s": "digitará",
+    "1p": "digitaremos",
+    "2p": "digitareis",
+    "3p": "digitarão"
+  },
+  "CondS": {
+    "1s": "digitaria",
+    "2s": "digitarias",
+    "3s": "digitaria",
+    "1p": "digitaríamos",
+    "2p": "digitaríeis",
+    "3p": "digitariam"
+  },
+  "PresC": {
+    "1s": "digite",
+    "2s": "digites",
+    "3s": "digite",
+    "1p": "digitemos",
+    "2p": "digiteis",
+    "3p": "digitem"
+  },
+  "PImpC": {
+    "1s": "digitasse",
+    "2s": "digitasses",
+    "3s": "digitasse",
+    "1p": "digitássemos",
+    "2p": "digitásseis",
+    "3p": "digitassem"
+  },
+  "FutSC": {
+    "1s": "digitar",
+    "2s": "digitares",
+    "3s": "digitar",
+    "1p": "digitarmos",
+    "2p": "digitardes",
+    "3p": "digitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "digita",
+    "3s": "digite",
+    "1p": "digitemos",
+    "2p": "digitai",
+    "3p": "digitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não digites",
+    "3s": "não digite",
+    "1p": "não digitemos",
+    "2p": "não digiteis",
+    "3p": "não digitem"
+  },
+  "Part-ter": {
+    "": "digitado"
+  },
+  "Part-ser": {
+    "ms": "digitado",
+    "fs": "digitada",
+    "mp": "digitados",
+    "fp": "digitadas"
+  }
+}

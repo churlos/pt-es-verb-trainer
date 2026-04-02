@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "jurar"
+  },
+  "InfP": {
+    "1s": "jurar",
+    "2s": "jurares",
+    "3s": "jurar",
+    "1p": "jurarmos",
+    "2p": "jurardes",
+    "3p": "jurarem"
+  },
+  "Ger": {
+    "": "jurando"
+  },
+  "PresI": {
+    "1s": "juro",
+    "2s": "juras",
+    "3s": "jura",
+    "1p": "juramos",
+    "2p": "jurais",
+    "3p": "juram"
+  },
+  "PImpI": {
+    "1s": "jurava",
+    "2s": "juravas",
+    "3s": "jurava",
+    "1p": "jurávamos",
+    "2p": "juráveis",
+    "3p": "juravam"
+  },
+  "PPSI": {
+    "1s": "jurei",
+    "2s": "juraste",
+    "3s": "jurou",
+    "1p": "jurámos",
+    "2p": "jurastes",
+    "3p": "juraram"
+  },
+  "PMQPSI": {
+    "1s": "jurara",
+    "2s": "juraras",
+    "3s": "jurara",
+    "1p": "juráramos",
+    "2p": "juráreis",
+    "3p": "juraram"
+  },
+  "FutSI": {
+    "1s": "jurarei",
+    "2s": "jurarás",
+    "3s": "jurará",
+    "1p": "juraremos",
+    "2p": "jurareis",
+    "3p": "jurarão"
+  },
+  "CondS": {
+    "1s": "juraria",
+    "2s": "jurarias",
+    "3s": "juraria",
+    "1p": "juraríamos",
+    "2p": "juraríeis",
+    "3p": "jurariam"
+  },
+  "PresC": {
+    "1s": "jure",
+    "2s": "jures",
+    "3s": "jure",
+    "1p": "juremos",
+    "2p": "jureis",
+    "3p": "jurem"
+  },
+  "PImpC": {
+    "1s": "jurasse",
+    "2s": "jurasses",
+    "3s": "jurasse",
+    "1p": "jurássemos",
+    "2p": "jurásseis",
+    "3p": "jurassem"
+  },
+  "FutSC": {
+    "1s": "jurar",
+    "2s": "jurares",
+    "3s": "jurar",
+    "1p": "jurarmos",
+    "2p": "jurardes",
+    "3p": "jurarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jura",
+    "3s": "jure",
+    "1p": "juremos",
+    "2p": "jurai",
+    "3p": "jurem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não jures",
+    "3s": "não jure",
+    "1p": "não juremos",
+    "2p": "não jureis",
+    "3p": "não jurem"
+  },
+  "Part-ter": {
+    "": "jurado"
+  },
+  "Part-ser": {
+    "ms": "jurado",
+    "fs": "jurada",
+    "mp": "jurados",
+    "fp": "juradas"
+  }
+}

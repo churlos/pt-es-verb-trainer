@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sangrar"
+  },
+  "Ger": {
+    "": "sangrando"
+  },
+  "PresI": {
+    "1s": "sangro",
+    "2s": "sangras",
+    "3s": "sangra",
+    "1p": "sangramos",
+    "2p": "sangráis",
+    "3p": "sangran"
+  },
+  "PImpI": {
+    "1s": "sangraba",
+    "2s": "sangrabas",
+    "3s": "sangraba",
+    "1p": "sangrábamos",
+    "2p": "sangrabais",
+    "3p": "sangraban"
+  },
+  "PPSI": {
+    "1s": "sangré",
+    "2s": "sangraste",
+    "3s": "sangró",
+    "1p": "sangramos",
+    "2p": "sangrasteis",
+    "3p": "sangraron"
+  },
+  "FutSI": {
+    "1s": "sangraré",
+    "2s": "sangrarás",
+    "3s": "sangrará",
+    "1p": "sangraremos",
+    "2p": "sangraréis",
+    "3p": "sangrarán"
+  },
+  "CondS": {
+    "1s": "sangraría",
+    "2s": "sangrarías",
+    "3s": "sangraría",
+    "1p": "sangraríamos",
+    "2p": "sangraríais",
+    "3p": "sangrarían"
+  },
+  "PresC": {
+    "1s": "sangre",
+    "2s": "sangres",
+    "3s": "sangre",
+    "1p": "sangremos",
+    "2p": "sangréis",
+    "3p": "sangren"
+  },
+  "PMQPSI": {
+    "1s": "sangrara",
+    "2s": "sangraras",
+    "3s": "sangrara",
+    "1p": "sangráramos",
+    "2p": "sangrarais",
+    "3p": "sangraran"
+  },
+  "PImpC": {
+    "1s": "sangrase",
+    "2s": "sangrases",
+    "3s": "sangrase",
+    "1p": "sangrásemos",
+    "2p": "sangraseis",
+    "3p": "sangrasen"
+  },
+  "FutSC": {
+    "1s": "sangrare",
+    "2s": "sangrares",
+    "3s": "sangrare",
+    "1p": "sangráremos",
+    "2p": "sangrareis",
+    "3p": "sangraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sangra",
+    "3s": "sangre",
+    "1p": "sangremos",
+    "2p": "sangrad",
+    "3p": "sangren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sangres",
+    "3s": "no sangre",
+    "1p": "no sangremos",
+    "2p": "no sangréis",
+    "3p": "no sangren"
+  },
+  "Part-ter": {
+    "": "sangrado"
+  },
+  "Part-ser": {
+    "ms": "sangrado",
+    "fs": "sangrada",
+    "mp": "sangrados",
+    "fp": "sangradas"
+  }
+}

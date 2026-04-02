@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "matricular"
+  },
+  "InfP": {
+    "1s": "matricular",
+    "2s": "matriculares",
+    "3s": "matricular",
+    "1p": "matricularmos",
+    "2p": "matriculardes",
+    "3p": "matricularem"
+  },
+  "Ger": {
+    "": "matriculando"
+  },
+  "PresI": {
+    "1s": "matriculo",
+    "2s": "matriculas",
+    "3s": "matricula",
+    "1p": "matriculamos",
+    "2p": "matriculais",
+    "3p": "matriculam"
+  },
+  "PImpI": {
+    "1s": "matriculava",
+    "2s": "matriculavas",
+    "3s": "matriculava",
+    "1p": "matriculávamos",
+    "2p": "matriculáveis",
+    "3p": "matriculavam"
+  },
+  "PPSI": {
+    "1s": "matriculei",
+    "2s": "matriculaste",
+    "3s": "matriculou",
+    "1p": "matriculámos",
+    "2p": "matriculastes",
+    "3p": "matricularam"
+  },
+  "PMQPSI": {
+    "1s": "matriculara",
+    "2s": "matricularas",
+    "3s": "matriculara",
+    "1p": "matriculáramos",
+    "2p": "matriculáreis",
+    "3p": "matricularam"
+  },
+  "FutSI": {
+    "1s": "matricularei",
+    "2s": "matricularás",
+    "3s": "matriculará",
+    "1p": "matricularemos",
+    "2p": "matriculareis",
+    "3p": "matricularão"
+  },
+  "CondS": {
+    "1s": "matricularia",
+    "2s": "matricularias",
+    "3s": "matricularia",
+    "1p": "matricularíamos",
+    "2p": "matricularíeis",
+    "3p": "matriculariam"
+  },
+  "PresC": {
+    "1s": "matricule",
+    "2s": "matricules",
+    "3s": "matricule",
+    "1p": "matriculemos",
+    "2p": "matriculeis",
+    "3p": "matriculem"
+  },
+  "PImpC": {
+    "1s": "matriculasse",
+    "2s": "matriculasses",
+    "3s": "matriculasse",
+    "1p": "matriculássemos",
+    "2p": "matriculásseis",
+    "3p": "matriculassem"
+  },
+  "FutSC": {
+    "1s": "matricular",
+    "2s": "matriculares",
+    "3s": "matricular",
+    "1p": "matricularmos",
+    "2p": "matriculardes",
+    "3p": "matricularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "matricula",
+    "3s": "matricule",
+    "1p": "matriculemos",
+    "2p": "matriculai",
+    "3p": "matriculem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não matricules",
+    "3s": "não matricule",
+    "1p": "não matriculemos",
+    "2p": "não matriculeis",
+    "3p": "não matriculem"
+  },
+  "Part-ter": {
+    "": "matriculado"
+  },
+  "Part-ser": {
+    "ms": "matriculado",
+    "fs": "matriculada",
+    "mp": "matriculados",
+    "fp": "matriculadas"
+  }
+}

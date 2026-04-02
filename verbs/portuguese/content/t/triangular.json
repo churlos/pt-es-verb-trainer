@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "triangular"
+  },
+  "InfP": {
+    "1s": "triangular",
+    "2s": "triangulares",
+    "3s": "triangular",
+    "1p": "triangularmos",
+    "2p": "triangulardes",
+    "3p": "triangularem"
+  },
+  "Ger": {
+    "": "triangulando"
+  },
+  "PresI": {
+    "1s": "triangulo",
+    "2s": "triangulas",
+    "3s": "triangula",
+    "1p": "triangulamos",
+    "2p": "triangulais",
+    "3p": "triangulam"
+  },
+  "PImpI": {
+    "1s": "triangulava",
+    "2s": "triangulavas",
+    "3s": "triangulava",
+    "1p": "triangulávamos",
+    "2p": "trianguláveis",
+    "3p": "triangulavam"
+  },
+  "PPSI": {
+    "1s": "triangulei",
+    "2s": "triangulaste",
+    "3s": "triangulou",
+    "1p": "triangulámos",
+    "2p": "triangulastes",
+    "3p": "triangularam"
+  },
+  "PMQPSI": {
+    "1s": "triangulara",
+    "2s": "triangularas",
+    "3s": "triangulara",
+    "1p": "trianguláramos",
+    "2p": "trianguláreis",
+    "3p": "triangularam"
+  },
+  "FutSI": {
+    "1s": "triangularei",
+    "2s": "triangularás",
+    "3s": "triangulará",
+    "1p": "triangularemos",
+    "2p": "triangulareis",
+    "3p": "triangularão"
+  },
+  "CondS": {
+    "1s": "triangularia",
+    "2s": "triangularias",
+    "3s": "triangularia",
+    "1p": "triangularíamos",
+    "2p": "triangularíeis",
+    "3p": "triangulariam"
+  },
+  "PresC": {
+    "1s": "triangule",
+    "2s": "triangules",
+    "3s": "triangule",
+    "1p": "triangulemos",
+    "2p": "trianguleis",
+    "3p": "triangulem"
+  },
+  "PImpC": {
+    "1s": "triangulasse",
+    "2s": "triangulasses",
+    "3s": "triangulasse",
+    "1p": "triangulássemos",
+    "2p": "triangulásseis",
+    "3p": "triangulassem"
+  },
+  "FutSC": {
+    "1s": "triangular",
+    "2s": "triangulares",
+    "3s": "triangular",
+    "1p": "triangularmos",
+    "2p": "triangulardes",
+    "3p": "triangularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "triangula",
+    "3s": "triangule",
+    "1p": "triangulemos",
+    "2p": "triangulai",
+    "3p": "triangulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não triangules",
+    "3s": "não triangule",
+    "1p": "não triangulemos",
+    "2p": "não trianguleis",
+    "3p": "não triangulem"
+  },
+  "Part-ter": {
+    "": "triangulado"
+  },
+  "Part-ser": {
+    "ms": "triangulado",
+    "fs": "triangulada",
+    "mp": "triangulados",
+    "fp": "trianguladas"
+  }
+}

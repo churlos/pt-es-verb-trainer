@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "clocar"
+  },
+  "Ger": {
+    "": "clocando"
+  },
+  "PresI": {
+    "1s": "clueco",
+    "2s": "cluecas",
+    "3s": "clueca",
+    "1p": "clocamos",
+    "2p": "clocáis",
+    "3p": "cluecan"
+  },
+  "PImpI": {
+    "1s": "clocaba",
+    "2s": "clocabas",
+    "3s": "clocaba",
+    "1p": "clocábamos",
+    "2p": "clocabais",
+    "3p": "clocaban"
+  },
+  "PPSI": {
+    "1s": "cloqué",
+    "2s": "clocaste",
+    "3s": "clocó",
+    "1p": "clocamos",
+    "2p": "clocasteis",
+    "3p": "clocaron"
+  },
+  "FutSI": {
+    "1s": "clocaré",
+    "2s": "clocarás",
+    "3s": "clocará",
+    "1p": "clocaremos",
+    "2p": "clocaréis",
+    "3p": "clocarán"
+  },
+  "CondS": {
+    "1s": "clocaría",
+    "2s": "clocarías",
+    "3s": "clocaría",
+    "1p": "clocaríamos",
+    "2p": "clocaríais",
+    "3p": "clocarían"
+  },
+  "PresC": {
+    "1s": "clueque",
+    "2s": "clueques",
+    "3s": "clueque",
+    "1p": "cloquemos",
+    "2p": "cloquéis",
+    "3p": "cluequen"
+  },
+  "PMQPSI": {
+    "1s": "clocara",
+    "2s": "clocaras",
+    "3s": "clocara",
+    "1p": "clocáramos",
+    "2p": "clocarais",
+    "3p": "clocaran"
+  },
+  "PImpC": {
+    "1s": "clocase",
+    "2s": "clocases",
+    "3s": "clocase",
+    "1p": "clocásemos",
+    "2p": "clocaseis",
+    "3p": "clocasen"
+  },
+  "FutSC": {
+    "1s": "clocare",
+    "2s": "clocares",
+    "3s": "clocare",
+    "1p": "clocáremos",
+    "2p": "clocareis",
+    "3p": "clocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clueca",
+    "3s": "clueque",
+    "1p": "cloquemos",
+    "2p": "clocad",
+    "3p": "cluequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no clueques",
+    "3s": "no clueque",
+    "1p": "no cloquemos",
+    "2p": "no cloquéis",
+    "3p": "no cluequen"
+  },
+  "Part-ter": {
+    "": "clocado"
+  },
+  "Part-ser": {
+    "ms": "clocado",
+    "fs": "clocada",
+    "mp": "clocados",
+    "fp": "clocadas"
+  }
+}

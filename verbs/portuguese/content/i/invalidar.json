@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "invalidar"
+  },
+  "InfP": {
+    "1s": "invalidar",
+    "2s": "invalidares",
+    "3s": "invalidar",
+    "1p": "invalidarmos",
+    "2p": "invalidardes",
+    "3p": "invalidarem"
+  },
+  "Ger": {
+    "": "invalidando"
+  },
+  "PresI": {
+    "1s": "invalido",
+    "2s": "invalidas",
+    "3s": "invalida",
+    "1p": "invalidamos",
+    "2p": "invalidais",
+    "3p": "invalidam"
+  },
+  "PImpI": {
+    "1s": "invalidava",
+    "2s": "invalidavas",
+    "3s": "invalidava",
+    "1p": "invalidávamos",
+    "2p": "invalidáveis",
+    "3p": "invalidavam"
+  },
+  "PPSI": {
+    "1s": "invalidei",
+    "2s": "invalidaste",
+    "3s": "invalidou",
+    "1p": "invalidámos",
+    "2p": "invalidastes",
+    "3p": "invalidaram"
+  },
+  "PMQPSI": {
+    "1s": "invalidara",
+    "2s": "invalidaras",
+    "3s": "invalidara",
+    "1p": "invalidáramos",
+    "2p": "invalidáreis",
+    "3p": "invalidaram"
+  },
+  "FutSI": {
+    "1s": "invalidarei",
+    "2s": "invalidarás",
+    "3s": "invalidará",
+    "1p": "invalidaremos",
+    "2p": "invalidareis",
+    "3p": "invalidarão"
+  },
+  "CondS": {
+    "1s": "invalidaria",
+    "2s": "invalidarias",
+    "3s": "invalidaria",
+    "1p": "invalidaríamos",
+    "2p": "invalidaríeis",
+    "3p": "invalidariam"
+  },
+  "PresC": {
+    "1s": "invalide",
+    "2s": "invalides",
+    "3s": "invalide",
+    "1p": "invalidemos",
+    "2p": "invalideis",
+    "3p": "invalidem"
+  },
+  "PImpC": {
+    "1s": "invalidasse",
+    "2s": "invalidasses",
+    "3s": "invalidasse",
+    "1p": "invalidássemos",
+    "2p": "invalidásseis",
+    "3p": "invalidassem"
+  },
+  "FutSC": {
+    "1s": "invalidar",
+    "2s": "invalidares",
+    "3s": "invalidar",
+    "1p": "invalidarmos",
+    "2p": "invalidardes",
+    "3p": "invalidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invalida",
+    "3s": "invalide",
+    "1p": "invalidemos",
+    "2p": "invalidai",
+    "3p": "invalidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não invalides",
+    "3s": "não invalide",
+    "1p": "não invalidemos",
+    "2p": "não invalideis",
+    "3p": "não invalidem"
+  },
+  "Part-ter": {
+    "": "invalidado"
+  },
+  "Part-ser": {
+    "ms": "invalidado",
+    "fs": "invalidada",
+    "mp": "invalidados",
+    "fp": "invalidadas"
+  }
+}

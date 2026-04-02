@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "materializar"
+  },
+  "Ger": {
+    "": "materializando"
+  },
+  "PresI": {
+    "1s": "materializo",
+    "2s": "materializas",
+    "3s": "materializa",
+    "1p": "materializamos",
+    "2p": "materializáis",
+    "3p": "materializan"
+  },
+  "PImpI": {
+    "1s": "materializaba",
+    "2s": "materializabas",
+    "3s": "materializaba",
+    "1p": "materializábamos",
+    "2p": "materializabais",
+    "3p": "materializaban"
+  },
+  "PPSI": {
+    "1s": "materialicé",
+    "2s": "materializaste",
+    "3s": "materializó",
+    "1p": "materializamos",
+    "2p": "materializasteis",
+    "3p": "materializaron"
+  },
+  "FutSI": {
+    "1s": "materializaré",
+    "2s": "materializarás",
+    "3s": "materializará",
+    "1p": "materializaremos",
+    "2p": "materializaréis",
+    "3p": "materializarán"
+  },
+  "CondS": {
+    "1s": "materializaría",
+    "2s": "materializarías",
+    "3s": "materializaría",
+    "1p": "materializaríamos",
+    "2p": "materializaríais",
+    "3p": "materializarían"
+  },
+  "PresC": {
+    "1s": "materialice",
+    "2s": "materialices",
+    "3s": "materialice",
+    "1p": "materialicemos",
+    "2p": "materialicéis",
+    "3p": "materialicen"
+  },
+  "PMQPSI": {
+    "1s": "materializara",
+    "2s": "materializaras",
+    "3s": "materializara",
+    "1p": "materializáramos",
+    "2p": "materializarais",
+    "3p": "materializaran"
+  },
+  "PImpC": {
+    "1s": "materializase",
+    "2s": "materializases",
+    "3s": "materializase",
+    "1p": "materializásemos",
+    "2p": "materializaseis",
+    "3p": "materializasen"
+  },
+  "FutSC": {
+    "1s": "materializare",
+    "2s": "materializares",
+    "3s": "materializare",
+    "1p": "materializáremos",
+    "2p": "materializareis",
+    "3p": "materializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "materializa",
+    "3s": "materialice",
+    "1p": "materialicemos",
+    "2p": "materializad",
+    "3p": "materialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no materialices",
+    "3s": "no materialice",
+    "1p": "no materialicemos",
+    "2p": "no materialicéis",
+    "3p": "no materialicen"
+  },
+  "Part-ter": {
+    "": "materializado"
+  },
+  "Part-ser": {
+    "ms": "materializado",
+    "fs": "materializada",
+    "mp": "materializados",
+    "fp": "materializadas"
+  }
+}

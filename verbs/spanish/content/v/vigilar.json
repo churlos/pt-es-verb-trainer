@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vigilar"
+  },
+  "Ger": {
+    "": "vigilando"
+  },
+  "PresI": {
+    "1s": "vigilo",
+    "2s": "vigilas",
+    "3s": "vigila",
+    "1p": "vigilamos",
+    "2p": "vigiláis",
+    "3p": "vigilan"
+  },
+  "PImpI": {
+    "1s": "vigilaba",
+    "2s": "vigilabas",
+    "3s": "vigilaba",
+    "1p": "vigilábamos",
+    "2p": "vigilabais",
+    "3p": "vigilaban"
+  },
+  "PPSI": {
+    "1s": "vigilé",
+    "2s": "vigilaste",
+    "3s": "vigiló",
+    "1p": "vigilamos",
+    "2p": "vigilasteis",
+    "3p": "vigilaron"
+  },
+  "FutSI": {
+    "1s": "vigilaré",
+    "2s": "vigilarás",
+    "3s": "vigilará",
+    "1p": "vigilaremos",
+    "2p": "vigilaréis",
+    "3p": "vigilarán"
+  },
+  "CondS": {
+    "1s": "vigilaría",
+    "2s": "vigilarías",
+    "3s": "vigilaría",
+    "1p": "vigilaríamos",
+    "2p": "vigilaríais",
+    "3p": "vigilarían"
+  },
+  "PresC": {
+    "1s": "vigile",
+    "2s": "vigiles",
+    "3s": "vigile",
+    "1p": "vigilemos",
+    "2p": "vigiléis",
+    "3p": "vigilen"
+  },
+  "PMQPSI": {
+    "1s": "vigilara",
+    "2s": "vigilaras",
+    "3s": "vigilara",
+    "1p": "vigiláramos",
+    "2p": "vigilarais",
+    "3p": "vigilaran"
+  },
+  "PImpC": {
+    "1s": "vigilase",
+    "2s": "vigilases",
+    "3s": "vigilase",
+    "1p": "vigilásemos",
+    "2p": "vigilaseis",
+    "3p": "vigilasen"
+  },
+  "FutSC": {
+    "1s": "vigilare",
+    "2s": "vigilares",
+    "3s": "vigilare",
+    "1p": "vigiláremos",
+    "2p": "vigilareis",
+    "3p": "vigilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vigila",
+    "3s": "vigile",
+    "1p": "vigilemos",
+    "2p": "vigilad",
+    "3p": "vigilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vigiles",
+    "3s": "no vigile",
+    "1p": "no vigilemos",
+    "2p": "no vigiléis",
+    "3p": "no vigilen"
+  },
+  "Part-ter": {
+    "": "vigilado"
+  },
+  "Part-ser": {
+    "ms": "vigilado",
+    "fs": "vigilada",
+    "mp": "vigilados",
+    "fp": "vigiladas"
+  }
+}

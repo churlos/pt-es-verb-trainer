@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "exhumar"
+  },
+  "Ger": {
+    "": "exhumando"
+  },
+  "PresI": {
+    "1s": "exhumo",
+    "2s": "exhumas",
+    "3s": "exhuma",
+    "1p": "exhumamos",
+    "2p": "exhumáis",
+    "3p": "exhuman"
+  },
+  "PImpI": {
+    "1s": "exhumaba",
+    "2s": "exhumabas",
+    "3s": "exhumaba",
+    "1p": "exhumábamos",
+    "2p": "exhumabais",
+    "3p": "exhumaban"
+  },
+  "PPSI": {
+    "1s": "exhumé",
+    "2s": "exhumaste",
+    "3s": "exhumó",
+    "1p": "exhumamos",
+    "2p": "exhumasteis",
+    "3p": "exhumaron"
+  },
+  "FutSI": {
+    "1s": "exhumaré",
+    "2s": "exhumarás",
+    "3s": "exhumará",
+    "1p": "exhumaremos",
+    "2p": "exhumaréis",
+    "3p": "exhumarán"
+  },
+  "CondS": {
+    "1s": "exhumaría",
+    "2s": "exhumarías",
+    "3s": "exhumaría",
+    "1p": "exhumaríamos",
+    "2p": "exhumaríais",
+    "3p": "exhumarían"
+  },
+  "PresC": {
+    "1s": "exhume",
+    "2s": "exhumes",
+    "3s": "exhume",
+    "1p": "exhumemos",
+    "2p": "exhuméis",
+    "3p": "exhumen"
+  },
+  "PMQPSI": {
+    "1s": "exhumara",
+    "2s": "exhumaras",
+    "3s": "exhumara",
+    "1p": "exhumáramos",
+    "2p": "exhumarais",
+    "3p": "exhumaran"
+  },
+  "PImpC": {
+    "1s": "exhumase",
+    "2s": "exhumases",
+    "3s": "exhumase",
+    "1p": "exhumásemos",
+    "2p": "exhumaseis",
+    "3p": "exhumasen"
+  },
+  "FutSC": {
+    "1s": "exhumare",
+    "2s": "exhumares",
+    "3s": "exhumare",
+    "1p": "exhumáremos",
+    "2p": "exhumareis",
+    "3p": "exhumaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exhuma",
+    "3s": "exhume",
+    "1p": "exhumemos",
+    "2p": "exhumad",
+    "3p": "exhumen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no exhumes",
+    "3s": "no exhume",
+    "1p": "no exhumemos",
+    "2p": "no exhuméis",
+    "3p": "no exhumen"
+  },
+  "Part-ter": {
+    "": "exhumado"
+  },
+  "Part-ser": {
+    "ms": "exhumado",
+    "fs": "exhumada",
+    "mp": "exhumados",
+    "fp": "exhumadas"
+  }
+}

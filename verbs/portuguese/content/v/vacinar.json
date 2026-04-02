@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vacinar"
+  },
+  "InfP": {
+    "1s": "vacinar",
+    "2s": "vacinares",
+    "3s": "vacinar",
+    "1p": "vacinarmos",
+    "2p": "vacinardes",
+    "3p": "vacinarem"
+  },
+  "Ger": {
+    "": "vacinando"
+  },
+  "PresI": {
+    "1s": "vacino",
+    "2s": "vacinas",
+    "3s": "vacina",
+    "1p": "vacinamos",
+    "2p": "vacinais",
+    "3p": "vacinam"
+  },
+  "PImpI": {
+    "1s": "vacinava",
+    "2s": "vacinavas",
+    "3s": "vacinava",
+    "1p": "vacinávamos",
+    "2p": "vacináveis",
+    "3p": "vacinavam"
+  },
+  "PPSI": {
+    "1s": "vacinei",
+    "2s": "vacinaste",
+    "3s": "vacinou",
+    "1p": "vacinámos",
+    "2p": "vacinastes",
+    "3p": "vacinaram"
+  },
+  "PMQPSI": {
+    "1s": "vacinara",
+    "2s": "vacinaras",
+    "3s": "vacinara",
+    "1p": "vacináramos",
+    "2p": "vacináreis",
+    "3p": "vacinaram"
+  },
+  "FutSI": {
+    "1s": "vacinarei",
+    "2s": "vacinarás",
+    "3s": "vacinará",
+    "1p": "vacinaremos",
+    "2p": "vacinareis",
+    "3p": "vacinarão"
+  },
+  "CondS": {
+    "1s": "vacinaria",
+    "2s": "vacinarias",
+    "3s": "vacinaria",
+    "1p": "vacinaríamos",
+    "2p": "vacinaríeis",
+    "3p": "vacinariam"
+  },
+  "PresC": {
+    "1s": "vacine",
+    "2s": "vacines",
+    "3s": "vacine",
+    "1p": "vacinemos",
+    "2p": "vacineis",
+    "3p": "vacinem"
+  },
+  "PImpC": {
+    "1s": "vacinasse",
+    "2s": "vacinasses",
+    "3s": "vacinasse",
+    "1p": "vacinássemos",
+    "2p": "vacinásseis",
+    "3p": "vacinassem"
+  },
+  "FutSC": {
+    "1s": "vacinar",
+    "2s": "vacinares",
+    "3s": "vacinar",
+    "1p": "vacinarmos",
+    "2p": "vacinardes",
+    "3p": "vacinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vacina",
+    "3s": "vacine",
+    "1p": "vacinemos",
+    "2p": "vacinai",
+    "3p": "vacinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vacines",
+    "3s": "não vacine",
+    "1p": "não vacinemos",
+    "2p": "não vacineis",
+    "3p": "não vacinem"
+  },
+  "Part-ter": {
+    "": "vacinado"
+  },
+  "Part-ser": {
+    "ms": "vacinado",
+    "fs": "vacinada",
+    "mp": "vacinados",
+    "fp": "vacinadas"
+  }
+}

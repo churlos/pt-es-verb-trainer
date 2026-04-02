@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "liquefazer"
+  },
+  "InfP": {
+    "1s": "liquefazer",
+    "2s": "liquefazeres",
+    "3s": "liquefazer",
+    "1p": "liquefazermos",
+    "2p": "liquefazerdes",
+    "3p": "liquefazerem"
+  },
+  "Ger": {
+    "": "liquefazendo"
+  },
+  "PresI": {
+    "1s": "liquefaço",
+    "2s": "liquefazes",
+    "3s": "liquefaz",
+    "1p": "liquefazemos",
+    "2p": "liquefazeis",
+    "3p": "liquefazem"
+  },
+  "PImpI": {
+    "1s": "liquefazia",
+    "2s": "liquefazias",
+    "3s": "liquefazia",
+    "1p": "liquefazíamos",
+    "2p": "liquefazíeis",
+    "3p": "liquefaziam"
+  },
+  "PPSI": {
+    "1s": "liquefiz",
+    "2s": "liquefizeste",
+    "3s": "liquefez",
+    "1p": "liquefizemos",
+    "2p": "liquefizestes",
+    "3p": "liquefizeram"
+  },
+  "PMQPSI": {
+    "1s": "liquefizera",
+    "2s": "liquefizeras",
+    "3s": "liquefizera",
+    "1p": "liquefizéramos",
+    "2p": "liquefizéreis",
+    "3p": "liquefizeram"
+  },
+  "FutSI": {
+    "1s": "liquefarei",
+    "2s": "liquefarás",
+    "3s": "liquefará",
+    "1p": "liquefaremos",
+    "2p": "liquefareis",
+    "3p": "liquefarão"
+  },
+  "CondS": {
+    "1s": "liquefaria",
+    "2s": "liquefarias",
+    "3s": "liquefaria",
+    "1p": "liquefaríamos",
+    "2p": "liquefaríeis",
+    "3p": "liquefariam"
+  },
+  "PresC": {
+    "1s": "liquefaça",
+    "2s": "liquefaças",
+    "3s": "liquefaça",
+    "1p": "liquefaçamos",
+    "2p": "liquefaçais",
+    "3p": "liquefaçam"
+  },
+  "PImpC": {
+    "1s": "liquefizesse",
+    "2s": "liquefizesses",
+    "3s": "liquefizesse",
+    "1p": "liquefizéssemos",
+    "2p": "liquefizésseis",
+    "3p": "liquefizessem"
+  },
+  "FutSC": {
+    "1s": "liquefizer",
+    "2s": "liquefizeres",
+    "3s": "liquefizer",
+    "1p": "liquefizermos",
+    "2p": "liquefizerdes",
+    "3p": "liquefizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "liquefazliquefaze",
+    "3s": "liquefaça",
+    "1p": "liquefaçamos",
+    "2p": "liquefazei",
+    "3p": "liquefaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não liquefaças",
+    "3s": "não liquefaça",
+    "1p": "não liquefaçamos",
+    "2p": "não liquefaçais",
+    "3p": "não liquefaçam"
+  },
+  "Part-ter": {
+    "": "liquefeito"
+  },
+  "Part-ser": {
+    "ms": "liquefeito",
+    "fs": "liquefeita",
+    "mp": "liquefeitos",
+    "fp": "liquefeitas"
+  }
+}

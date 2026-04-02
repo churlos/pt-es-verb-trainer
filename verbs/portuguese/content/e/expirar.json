@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "expirar"
+  },
+  "InfP": {
+    "1s": "expirar",
+    "2s": "expirares",
+    "3s": "expirar",
+    "1p": "expirarmos",
+    "2p": "expirardes",
+    "3p": "expirarem"
+  },
+  "Ger": {
+    "": "expirando"
+  },
+  "PresI": {
+    "1s": "expiro",
+    "2s": "expiras",
+    "3s": "expira",
+    "1p": "expiramos",
+    "2p": "expirais",
+    "3p": "expiram"
+  },
+  "PImpI": {
+    "1s": "expirava",
+    "2s": "expiravas",
+    "3s": "expirava",
+    "1p": "expirávamos",
+    "2p": "expiráveis",
+    "3p": "expiravam"
+  },
+  "PPSI": {
+    "1s": "expirei",
+    "2s": "expiraste",
+    "3s": "expirou",
+    "1p": "expirámos",
+    "2p": "expirastes",
+    "3p": "expiraram"
+  },
+  "PMQPSI": {
+    "1s": "expirara",
+    "2s": "expiraras",
+    "3s": "expirara",
+    "1p": "expiráramos",
+    "2p": "expiráreis",
+    "3p": "expiraram"
+  },
+  "FutSI": {
+    "1s": "expirarei",
+    "2s": "expirarás",
+    "3s": "expirará",
+    "1p": "expiraremos",
+    "2p": "expirareis",
+    "3p": "expirarão"
+  },
+  "CondS": {
+    "1s": "expiraria",
+    "2s": "expirarias",
+    "3s": "expiraria",
+    "1p": "expiraríamos",
+    "2p": "expiraríeis",
+    "3p": "expirariam"
+  },
+  "PresC": {
+    "1s": "expire",
+    "2s": "expires",
+    "3s": "expire",
+    "1p": "expiremos",
+    "2p": "expireis",
+    "3p": "expirem"
+  },
+  "PImpC": {
+    "1s": "expirasse",
+    "2s": "expirasses",
+    "3s": "expirasse",
+    "1p": "expirássemos",
+    "2p": "expirásseis",
+    "3p": "expirassem"
+  },
+  "FutSC": {
+    "1s": "expirar",
+    "2s": "expirares",
+    "3s": "expirar",
+    "1p": "expirarmos",
+    "2p": "expirardes",
+    "3p": "expirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expira",
+    "3s": "expire",
+    "1p": "expiremos",
+    "2p": "expirai",
+    "3p": "expirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não expires",
+    "3s": "não expire",
+    "1p": "não expiremos",
+    "2p": "não expireis",
+    "3p": "não expirem"
+  },
+  "Part-ter": {
+    "": "expirado"
+  },
+  "Part-ser": {
+    "ms": "expirado",
+    "fs": "expirada",
+    "mp": "expirados",
+    "fp": "expiradas"
+  }
+}

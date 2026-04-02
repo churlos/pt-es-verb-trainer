@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mover"
+  },
+  "Ger": {
+    "": "moviendo"
+  },
+  "PresI": {
+    "1s": "muevo",
+    "2s": "mueves",
+    "3s": "mueve",
+    "1p": "movemos",
+    "2p": "movéis",
+    "3p": "mueven"
+  },
+  "PImpI": {
+    "1s": "movía",
+    "2s": "movías",
+    "3s": "movía",
+    "1p": "movíamos",
+    "2p": "movíais",
+    "3p": "movían"
+  },
+  "PPSI": {
+    "1s": "moví",
+    "2s": "moviste",
+    "3s": "movió",
+    "1p": "movimos",
+    "2p": "movisteis",
+    "3p": "movieron"
+  },
+  "FutSI": {
+    "1s": "moveré",
+    "2s": "moverás",
+    "3s": "moverá",
+    "1p": "moveremos",
+    "2p": "moveréis",
+    "3p": "moverán"
+  },
+  "CondS": {
+    "1s": "movería",
+    "2s": "moverías",
+    "3s": "movería",
+    "1p": "moveríamos",
+    "2p": "moveríais",
+    "3p": "moverían"
+  },
+  "PresC": {
+    "1s": "mueva",
+    "2s": "muevas",
+    "3s": "mueva",
+    "1p": "movamos",
+    "2p": "mováis",
+    "3p": "muevan"
+  },
+  "PMQPSI": {
+    "1s": "moviera",
+    "2s": "movieras",
+    "3s": "moviera",
+    "1p": "moviéramos",
+    "2p": "movierais",
+    "3p": "movieran"
+  },
+  "PImpC": {
+    "1s": "moviese",
+    "2s": "movieses",
+    "3s": "moviese",
+    "1p": "moviésemos",
+    "2p": "movieseis",
+    "3p": "moviesen"
+  },
+  "FutSC": {
+    "1s": "moviere",
+    "2s": "movieres",
+    "3s": "moviere",
+    "1p": "moviéremos",
+    "2p": "moviereis",
+    "3p": "movieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mueve",
+    "3s": "mueva",
+    "1p": "movamos",
+    "2p": "moved",
+    "3p": "muevan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no muevas",
+    "3s": "no mueva",
+    "1p": "no movamos",
+    "2p": "no mováis",
+    "3p": "no muevan"
+  },
+  "Part-ter": {
+    "": "movido"
+  },
+  "Part-ser": {
+    "ms": "movido",
+    "fs": "movida",
+    "mp": "movidos",
+    "fp": "movidas"
+  }
+}

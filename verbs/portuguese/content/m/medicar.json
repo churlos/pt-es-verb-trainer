@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "medicar"
+  },
+  "InfP": {
+    "1s": "medicar",
+    "2s": "medicares",
+    "3s": "medicar",
+    "1p": "medicarmos",
+    "2p": "medicardes",
+    "3p": "medicarem"
+  },
+  "Ger": {
+    "": "medicando"
+  },
+  "PresI": {
+    "1s": "medico",
+    "2s": "medicas",
+    "3s": "medica",
+    "1p": "medicamos",
+    "2p": "medicais",
+    "3p": "medicam"
+  },
+  "PImpI": {
+    "1s": "medicava",
+    "2s": "medicavas",
+    "3s": "medicava",
+    "1p": "medicávamos",
+    "2p": "medicáveis",
+    "3p": "medicavam"
+  },
+  "PPSI": {
+    "1s": "mediquei",
+    "2s": "medicaste",
+    "3s": "medicou",
+    "1p": "medicámos",
+    "2p": "medicastes",
+    "3p": "medicaram"
+  },
+  "PMQPSI": {
+    "1s": "medicara",
+    "2s": "medicaras",
+    "3s": "medicara",
+    "1p": "medicáramos",
+    "2p": "medicáreis",
+    "3p": "medicaram"
+  },
+  "FutSI": {
+    "1s": "medicarei",
+    "2s": "medicarás",
+    "3s": "medicará",
+    "1p": "medicaremos",
+    "2p": "medicareis",
+    "3p": "medicarão"
+  },
+  "CondS": {
+    "1s": "medicaria",
+    "2s": "medicarias",
+    "3s": "medicaria",
+    "1p": "medicaríamos",
+    "2p": "medicaríeis",
+    "3p": "medicariam"
+  },
+  "PresC": {
+    "1s": "medique",
+    "2s": "mediques",
+    "3s": "medique",
+    "1p": "mediquemos",
+    "2p": "mediqueis",
+    "3p": "mediquem"
+  },
+  "PImpC": {
+    "1s": "medicasse",
+    "2s": "medicasses",
+    "3s": "medicasse",
+    "1p": "medicássemos",
+    "2p": "medicásseis",
+    "3p": "medicassem"
+  },
+  "FutSC": {
+    "1s": "medicar",
+    "2s": "medicares",
+    "3s": "medicar",
+    "1p": "medicarmos",
+    "2p": "medicardes",
+    "3p": "medicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medica",
+    "3s": "medique",
+    "1p": "mediquemos",
+    "2p": "medicai",
+    "3p": "mediquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mediques",
+    "3s": "não medique",
+    "1p": "não mediquemos",
+    "2p": "não mediqueis",
+    "3p": "não mediquem"
+  },
+  "Part-ter": {
+    "": "medicado"
+  },
+  "Part-ser": {
+    "ms": "medicado",
+    "fs": "medicada",
+    "mp": "medicados",
+    "fp": "medicadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dar"
+  },
+  "InfP": {
+    "1s": "dar",
+    "2s": "dares",
+    "3s": "dar",
+    "1p": "darmos",
+    "2p": "dardes",
+    "3p": "darem"
+  },
+  "Ger": {
+    "": "dando"
+  },
+  "PresI": {
+    "1s": "dou",
+    "2s": "dás",
+    "3s": "dá",
+    "1p": "damos",
+    "2p": "dais",
+    "3p": "dão"
+  },
+  "PImpI": {
+    "1s": "dava",
+    "2s": "davas",
+    "3s": "dava",
+    "1p": "dávamos",
+    "2p": "dáveis",
+    "3p": "davam"
+  },
+  "PPSI": {
+    "1s": "dei",
+    "2s": "deste",
+    "3s": "deu",
+    "1p": "demos",
+    "2p": "destes",
+    "3p": "deram"
+  },
+  "PMQPSI": {
+    "1s": "dera",
+    "2s": "deras",
+    "3s": "dera",
+    "1p": "déramos",
+    "2p": "déreis",
+    "3p": "deram"
+  },
+  "FutSI": {
+    "1s": "darei",
+    "2s": "darás",
+    "3s": "dará",
+    "1p": "daremos",
+    "2p": "dareis",
+    "3p": "darão"
+  },
+  "CondS": {
+    "1s": "daria",
+    "2s": "darias",
+    "3s": "daria",
+    "1p": "daríamos",
+    "2p": "daríeis",
+    "3p": "dariam"
+  },
+  "PresC": {
+    "1s": "dê",
+    "2s": "dês",
+    "3s": "dê",
+    "1p": "demos",
+    "2p": "deis",
+    "3p": "deemObsolete:dêem"
+  },
+  "PImpC": {
+    "1s": "desse",
+    "2s": "desses",
+    "3s": "desse",
+    "1p": "déssemos",
+    "2p": "désseis",
+    "3p": "dessem"
+  },
+  "FutSC": {
+    "1s": "der",
+    "2s": "deres",
+    "3s": "der",
+    "1p": "dermos",
+    "2p": "derdes",
+    "3p": "derem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dá",
+    "3s": "dê",
+    "1p": "demos",
+    "2p": "dai",
+    "3p": "deemObsolete:dêem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dês",
+    "3s": "não dê",
+    "1p": "não demos",
+    "2p": "não deis",
+    "3p": "não deemObsolete:dêem"
+  },
+  "Part-ter": {
+    "": "dado"
+  },
+  "Part-ser": {
+    "ms": "dado",
+    "fs": "dada",
+    "mp": "dados",
+    "fp": "dadas"
+  }
+}

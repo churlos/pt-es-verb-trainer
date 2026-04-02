@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fungir"
+  },
+  "Ger": {
+    "": "fungiendo"
+  },
+  "PresI": {
+    "1s": "funjo",
+    "2s": "funges",
+    "3s": "funge",
+    "1p": "fungimos",
+    "2p": "fungís",
+    "3p": "fungen"
+  },
+  "PImpI": {
+    "1s": "fungía",
+    "2s": "fungías",
+    "3s": "fungía",
+    "1p": "fungíamos",
+    "2p": "fungíais",
+    "3p": "fungían"
+  },
+  "PPSI": {
+    "1s": "fungí",
+    "2s": "fungiste",
+    "3s": "fungió",
+    "1p": "fungimos",
+    "2p": "fungisteis",
+    "3p": "fungieron"
+  },
+  "FutSI": {
+    "1s": "fungiré",
+    "2s": "fungirás",
+    "3s": "fungirá",
+    "1p": "fungiremos",
+    "2p": "fungiréis",
+    "3p": "fungirán"
+  },
+  "CondS": {
+    "1s": "fungiría",
+    "2s": "fungirías",
+    "3s": "fungiría",
+    "1p": "fungiríamos",
+    "2p": "fungiríais",
+    "3p": "fungirían"
+  },
+  "PresC": {
+    "1s": "funja",
+    "2s": "funjas",
+    "3s": "funja",
+    "1p": "funjamos",
+    "2p": "funjáis",
+    "3p": "funjan"
+  },
+  "PMQPSI": {
+    "1s": "fungiera",
+    "2s": "fungieras",
+    "3s": "fungiera",
+    "1p": "fungiéramos",
+    "2p": "fungierais",
+    "3p": "fungieran"
+  },
+  "PImpC": {
+    "1s": "fungiese",
+    "2s": "fungieses",
+    "3s": "fungiese",
+    "1p": "fungiésemos",
+    "2p": "fungieseis",
+    "3p": "fungiesen"
+  },
+  "FutSC": {
+    "1s": "fungiere",
+    "2s": "fungieres",
+    "3s": "fungiere",
+    "1p": "fungiéremos",
+    "2p": "fungiereis",
+    "3p": "fungieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "funge",
+    "3s": "funja",
+    "1p": "funjamos",
+    "2p": "fungid",
+    "3p": "funjan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no funjas",
+    "3s": "no funja",
+    "1p": "no funjamos",
+    "2p": "no funjáis",
+    "3p": "no funjan"
+  },
+  "Part-ter": {
+    "": "fungido"
+  },
+  "Part-ser": {
+    "ms": "fungido",
+    "fs": "fungida",
+    "mp": "fungidos",
+    "fp": "fungidas"
+  }
+}

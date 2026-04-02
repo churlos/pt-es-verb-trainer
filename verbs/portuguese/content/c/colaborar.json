@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "colaborar"
+  },
+  "InfP": {
+    "1s": "colaborar",
+    "2s": "colaborares",
+    "3s": "colaborar",
+    "1p": "colaborarmos",
+    "2p": "colaborardes",
+    "3p": "colaborarem"
+  },
+  "Ger": {
+    "": "colaborando"
+  },
+  "PresI": {
+    "1s": "colaboro",
+    "2s": "colaboras",
+    "3s": "colabora",
+    "1p": "colaboramos",
+    "2p": "colaborais",
+    "3p": "colaboram"
+  },
+  "PImpI": {
+    "1s": "colaborava",
+    "2s": "colaboravas",
+    "3s": "colaborava",
+    "1p": "colaborávamos",
+    "2p": "colaboráveis",
+    "3p": "colaboravam"
+  },
+  "PPSI": {
+    "1s": "colaborei",
+    "2s": "colaboraste",
+    "3s": "colaborou",
+    "1p": "colaborámos",
+    "2p": "colaborastes",
+    "3p": "colaboraram"
+  },
+  "PMQPSI": {
+    "1s": "colaborara",
+    "2s": "colaboraras",
+    "3s": "colaborara",
+    "1p": "colaboráramos",
+    "2p": "colaboráreis",
+    "3p": "colaboraram"
+  },
+  "FutSI": {
+    "1s": "colaborarei",
+    "2s": "colaborarás",
+    "3s": "colaborará",
+    "1p": "colaboraremos",
+    "2p": "colaborareis",
+    "3p": "colaborarão"
+  },
+  "CondS": {
+    "1s": "colaboraria",
+    "2s": "colaborarias",
+    "3s": "colaboraria",
+    "1p": "colaboraríamos",
+    "2p": "colaboraríeis",
+    "3p": "colaborariam"
+  },
+  "PresC": {
+    "1s": "colabore",
+    "2s": "colabores",
+    "3s": "colabore",
+    "1p": "colaboremos",
+    "2p": "colaboreis",
+    "3p": "colaborem"
+  },
+  "PImpC": {
+    "1s": "colaborasse",
+    "2s": "colaborasses",
+    "3s": "colaborasse",
+    "1p": "colaborássemos",
+    "2p": "colaborásseis",
+    "3p": "colaborassem"
+  },
+  "FutSC": {
+    "1s": "colaborar",
+    "2s": "colaborares",
+    "3s": "colaborar",
+    "1p": "colaborarmos",
+    "2p": "colaborardes",
+    "3p": "colaborarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colabora",
+    "3s": "colabore",
+    "1p": "colaboremos",
+    "2p": "colaborai",
+    "3p": "colaborem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não colabores",
+    "3s": "não colabore",
+    "1p": "não colaboremos",
+    "2p": "não colaboreis",
+    "3p": "não colaborem"
+  },
+  "Part-ter": {
+    "": "colaborado"
+  },
+  "Part-ser": {
+    "ms": "colaborado",
+    "fs": "colaborada",
+    "mp": "colaborados",
+    "fp": "colaboradas"
+  }
+}

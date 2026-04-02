@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vendar"
+  },
+  "InfP": {
+    "1s": "vendar",
+    "2s": "vendares",
+    "3s": "vendar",
+    "1p": "vendarmos",
+    "2p": "vendardes",
+    "3p": "vendarem"
+  },
+  "Ger": {
+    "": "vendando"
+  },
+  "PresI": {
+    "1s": "vendo",
+    "2s": "vendas",
+    "3s": "venda",
+    "1p": "vendamos",
+    "2p": "vendais",
+    "3p": "vendam"
+  },
+  "PImpI": {
+    "1s": "vendava",
+    "2s": "vendavas",
+    "3s": "vendava",
+    "1p": "vendávamos",
+    "2p": "vendáveis",
+    "3p": "vendavam"
+  },
+  "PPSI": {
+    "1s": "vendei",
+    "2s": "vendaste",
+    "3s": "vendou",
+    "1p": "vendámos",
+    "2p": "vendastes",
+    "3p": "vendaram"
+  },
+  "PMQPSI": {
+    "1s": "vendara",
+    "2s": "vendaras",
+    "3s": "vendara",
+    "1p": "vendáramos",
+    "2p": "vendáreis",
+    "3p": "vendaram"
+  },
+  "FutSI": {
+    "1s": "vendarei",
+    "2s": "vendarás",
+    "3s": "vendará",
+    "1p": "vendaremos",
+    "2p": "vendareis",
+    "3p": "vendarão"
+  },
+  "CondS": {
+    "1s": "vendaria",
+    "2s": "vendarias",
+    "3s": "vendaria",
+    "1p": "vendaríamos",
+    "2p": "vendaríeis",
+    "3p": "vendariam"
+  },
+  "PresC": {
+    "1s": "vende",
+    "2s": "vendes",
+    "3s": "vende",
+    "1p": "vendemos",
+    "2p": "vendeis",
+    "3p": "vendem"
+  },
+  "PImpC": {
+    "1s": "vendasse",
+    "2s": "vendasses",
+    "3s": "vendasse",
+    "1p": "vendássemos",
+    "2p": "vendásseis",
+    "3p": "vendassem"
+  },
+  "FutSC": {
+    "1s": "vendar",
+    "2s": "vendares",
+    "3s": "vendar",
+    "1p": "vendarmos",
+    "2p": "vendardes",
+    "3p": "vendarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "venda",
+    "3s": "vende",
+    "1p": "vendemos",
+    "2p": "vendai",
+    "3p": "vendem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vendes",
+    "3s": "não vende",
+    "1p": "não vendemos",
+    "2p": "não vendeis",
+    "3p": "não vendem"
+  },
+  "Part-ter": {
+    "": "vendado"
+  },
+  "Part-ser": {
+    "ms": "vendado",
+    "fs": "vendada",
+    "mp": "vendados",
+    "fp": "vendadas"
+  }
+}

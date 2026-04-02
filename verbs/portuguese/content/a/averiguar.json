@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "averiguar"
+  },
+  "InfP": {
+    "1s": "averiguar",
+    "2s": "averiguares",
+    "3s": "averiguar",
+    "1p": "averiguarmos",
+    "2p": "averiguardes",
+    "3p": "averiguarem"
+  },
+  "Ger": {
+    "": "averiguando"
+  },
+  "PresI": {
+    "1s": "averiguoaveríguo",
+    "2s": "averiguasaveríguas",
+    "3s": "averiguaaverígua",
+    "1p": "averiguamos",
+    "2p": "averiguais",
+    "3p": "averiguamaveríguam"
+  },
+  "PImpI": {
+    "1s": "averiguava",
+    "2s": "averiguavas",
+    "3s": "averiguava",
+    "1p": "averiguávamos",
+    "2p": "averiguáveis",
+    "3p": "averiguavam"
+  },
+  "PPSI": {
+    "1s": "averiguei",
+    "2s": "averiguaste",
+    "3s": "averiguou",
+    "1p": "averiguámos",
+    "2p": "averiguastes",
+    "3p": "averiguaram"
+  },
+  "PMQPSI": {
+    "1s": "averiguara",
+    "2s": "averiguaras",
+    "3s": "averiguara",
+    "1p": "averiguáramos",
+    "2p": "averiguáreis",
+    "3p": "averiguaram"
+  },
+  "FutSI": {
+    "1s": "averiguarei",
+    "2s": "averiguarás",
+    "3s": "averiguará",
+    "1p": "averiguaremos",
+    "2p": "averiguareis",
+    "3p": "averiguarão"
+  },
+  "CondS": {
+    "1s": "averiguaria",
+    "2s": "averiguarias",
+    "3s": "averiguaria",
+    "1p": "averiguaríamos",
+    "2p": "averiguaríeis",
+    "3p": "averiguariam"
+  },
+  "PresC": {
+    "1s": "averigueaverígue",
+    "2s": "averiguesaverígues",
+    "3s": "averigueaverígue",
+    "1p": "averiguemos",
+    "2p": "averigueis",
+    "3p": "averiguemaveríguem"
+  },
+  "PImpC": {
+    "1s": "averiguasse",
+    "2s": "averiguasses",
+    "3s": "averiguasse",
+    "1p": "averiguássemos",
+    "2p": "averiguásseis",
+    "3p": "averiguassem"
+  },
+  "FutSC": {
+    "1s": "averiguar",
+    "2s": "averiguares",
+    "3s": "averiguar",
+    "1p": "averiguarmos",
+    "2p": "averiguardes",
+    "3p": "averiguarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "averiguaaverígua",
+    "3s": "averigueaverígue",
+    "1p": "averiguemos",
+    "2p": "averiguai",
+    "3p": "averiguemaveríguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não averiguesaverígues",
+    "3s": "não averigueaverígue",
+    "1p": "não averiguemos",
+    "2p": "não averigueis",
+    "3p": "não averiguemaveríguem"
+  },
+  "Part-ter": {
+    "": "averiguado"
+  },
+  "Part-ser": {
+    "ms": "averiguado",
+    "fs": "averiguada",
+    "mp": "averiguados",
+    "fp": "averiguadas"
+  }
+}

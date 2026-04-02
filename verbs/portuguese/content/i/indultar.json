@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indultar"
+  },
+  "InfP": {
+    "1s": "indultar",
+    "2s": "indultares",
+    "3s": "indultar",
+    "1p": "indultarmos",
+    "2p": "indultardes",
+    "3p": "indultarem"
+  },
+  "Ger": {
+    "": "indultando"
+  },
+  "PresI": {
+    "1s": "indulto",
+    "2s": "indultas",
+    "3s": "indulta",
+    "1p": "indultamos",
+    "2p": "indultais",
+    "3p": "indultam"
+  },
+  "PImpI": {
+    "1s": "indultava",
+    "2s": "indultavas",
+    "3s": "indultava",
+    "1p": "indultávamos",
+    "2p": "indultáveis",
+    "3p": "indultavam"
+  },
+  "PPSI": {
+    "1s": "indultei",
+    "2s": "indultaste",
+    "3s": "indultou",
+    "1p": "indultámos",
+    "2p": "indultastes",
+    "3p": "indultaram"
+  },
+  "PMQPSI": {
+    "1s": "indultara",
+    "2s": "indultaras",
+    "3s": "indultara",
+    "1p": "indultáramos",
+    "2p": "indultáreis",
+    "3p": "indultaram"
+  },
+  "FutSI": {
+    "1s": "indultarei",
+    "2s": "indultarás",
+    "3s": "indultará",
+    "1p": "indultaremos",
+    "2p": "indultareis",
+    "3p": "indultarão"
+  },
+  "CondS": {
+    "1s": "indultaria",
+    "2s": "indultarias",
+    "3s": "indultaria",
+    "1p": "indultaríamos",
+    "2p": "indultaríeis",
+    "3p": "indultariam"
+  },
+  "PresC": {
+    "1s": "indulte",
+    "2s": "indultes",
+    "3s": "indulte",
+    "1p": "indultemos",
+    "2p": "indulteis",
+    "3p": "indultem"
+  },
+  "PImpC": {
+    "1s": "indultasse",
+    "2s": "indultasses",
+    "3s": "indultasse",
+    "1p": "indultássemos",
+    "2p": "indultásseis",
+    "3p": "indultassem"
+  },
+  "FutSC": {
+    "1s": "indultar",
+    "2s": "indultares",
+    "3s": "indultar",
+    "1p": "indultarmos",
+    "2p": "indultardes",
+    "3p": "indultarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indulta",
+    "3s": "indulte",
+    "1p": "indultemos",
+    "2p": "indultai",
+    "3p": "indultem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indultes",
+    "3s": "não indulte",
+    "1p": "não indultemos",
+    "2p": "não indulteis",
+    "3p": "não indultem"
+  },
+  "Part-ter": {
+    "": "indultado"
+  },
+  "Part-ser": {
+    "ms": "indultado",
+    "fs": "indultada",
+    "mp": "indultados",
+    "fp": "indultadas"
+  }
+}

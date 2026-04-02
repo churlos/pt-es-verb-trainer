@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ignorar"
+  },
+  "InfP": {
+    "1s": "ignorar",
+    "2s": "ignorares",
+    "3s": "ignorar",
+    "1p": "ignorarmos",
+    "2p": "ignorardes",
+    "3p": "ignorarem"
+  },
+  "Ger": {
+    "": "ignorando"
+  },
+  "PresI": {
+    "1s": "ignoro",
+    "2s": "ignoras",
+    "3s": "ignora",
+    "1p": "ignoramos",
+    "2p": "ignorais",
+    "3p": "ignoram"
+  },
+  "PImpI": {
+    "1s": "ignorava",
+    "2s": "ignoravas",
+    "3s": "ignorava",
+    "1p": "ignorávamos",
+    "2p": "ignoráveis",
+    "3p": "ignoravam"
+  },
+  "PPSI": {
+    "1s": "ignorei",
+    "2s": "ignoraste",
+    "3s": "ignorou",
+    "1p": "ignorámos",
+    "2p": "ignorastes",
+    "3p": "ignoraram"
+  },
+  "PMQPSI": {
+    "1s": "ignorara",
+    "2s": "ignoraras",
+    "3s": "ignorara",
+    "1p": "ignoráramos",
+    "2p": "ignoráreis",
+    "3p": "ignoraram"
+  },
+  "FutSI": {
+    "1s": "ignorarei",
+    "2s": "ignorarás",
+    "3s": "ignorará",
+    "1p": "ignoraremos",
+    "2p": "ignorareis",
+    "3p": "ignorarão"
+  },
+  "CondS": {
+    "1s": "ignoraria",
+    "2s": "ignorarias",
+    "3s": "ignoraria",
+    "1p": "ignoraríamos",
+    "2p": "ignoraríeis",
+    "3p": "ignorariam"
+  },
+  "PresC": {
+    "1s": "ignore",
+    "2s": "ignores",
+    "3s": "ignore",
+    "1p": "ignoremos",
+    "2p": "ignoreis",
+    "3p": "ignorem"
+  },
+  "PImpC": {
+    "1s": "ignorasse",
+    "2s": "ignorasses",
+    "3s": "ignorasse",
+    "1p": "ignorássemos",
+    "2p": "ignorásseis",
+    "3p": "ignorassem"
+  },
+  "FutSC": {
+    "1s": "ignorar",
+    "2s": "ignorares",
+    "3s": "ignorar",
+    "1p": "ignorarmos",
+    "2p": "ignorardes",
+    "3p": "ignorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ignora",
+    "3s": "ignore",
+    "1p": "ignoremos",
+    "2p": "ignorai",
+    "3p": "ignorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ignores",
+    "3s": "não ignore",
+    "1p": "não ignoremos",
+    "2p": "não ignoreis",
+    "3p": "não ignorem"
+  },
+  "Part-ter": {
+    "": "ignorado"
+  },
+  "Part-ser": {
+    "ms": "ignorado",
+    "fs": "ignorada",
+    "mp": "ignorados",
+    "fp": "ignoradas"
+  }
+}

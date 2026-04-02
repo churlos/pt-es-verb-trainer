@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cercar"
+  },
+  "Ger": {
+    "": "cercando"
+  },
+  "PresI": {
+    "1s": "cerco",
+    "2s": "cercas",
+    "3s": "cerca",
+    "1p": "cercamos",
+    "2p": "cercáis",
+    "3p": "cercan"
+  },
+  "PImpI": {
+    "1s": "cercaba",
+    "2s": "cercabas",
+    "3s": "cercaba",
+    "1p": "cercábamos",
+    "2p": "cercabais",
+    "3p": "cercaban"
+  },
+  "PPSI": {
+    "1s": "cerqué",
+    "2s": "cercaste",
+    "3s": "cercó",
+    "1p": "cercamos",
+    "2p": "cercasteis",
+    "3p": "cercaron"
+  },
+  "FutSI": {
+    "1s": "cercaré",
+    "2s": "cercarás",
+    "3s": "cercará",
+    "1p": "cercaremos",
+    "2p": "cercaréis",
+    "3p": "cercarán"
+  },
+  "CondS": {
+    "1s": "cercaría",
+    "2s": "cercarías",
+    "3s": "cercaría",
+    "1p": "cercaríamos",
+    "2p": "cercaríais",
+    "3p": "cercarían"
+  },
+  "PresC": {
+    "1s": "cerque",
+    "2s": "cerques",
+    "3s": "cerque",
+    "1p": "cerquemos",
+    "2p": "cerquéis",
+    "3p": "cerquen"
+  },
+  "PMQPSI": {
+    "1s": "cercara",
+    "2s": "cercaras",
+    "3s": "cercara",
+    "1p": "cercáramos",
+    "2p": "cercarais",
+    "3p": "cercaran"
+  },
+  "PImpC": {
+    "1s": "cercase",
+    "2s": "cercases",
+    "3s": "cercase",
+    "1p": "cercásemos",
+    "2p": "cercaseis",
+    "3p": "cercasen"
+  },
+  "FutSC": {
+    "1s": "cercare",
+    "2s": "cercares",
+    "3s": "cercare",
+    "1p": "cercáremos",
+    "2p": "cercareis",
+    "3p": "cercaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cerca",
+    "3s": "cerque",
+    "1p": "cerquemos",
+    "2p": "cercad",
+    "3p": "cerquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cerques",
+    "3s": "no cerque",
+    "1p": "no cerquemos",
+    "2p": "no cerquéis",
+    "3p": "no cerquen"
+  },
+  "Part-ter": {
+    "": "cercado"
+  },
+  "Part-ser": {
+    "ms": "cercado",
+    "fs": "cercada",
+    "mp": "cercados",
+    "fp": "cercadas"
+  }
+}

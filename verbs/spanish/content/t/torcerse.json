@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "torcerse"
+  },
+  "Ger": {
+    "": "torciéndose"
+  },
+  "PresI": {
+    "1s": "me tuerzo",
+    "2s": "te tuerces",
+    "3s": "se tuerce",
+    "1p": "nos torcemos",
+    "2p": "os torcéis",
+    "3p": "se tuercen"
+  },
+  "PImpI": {
+    "1s": "me torcía",
+    "2s": "te torcías",
+    "3s": "se torcía",
+    "1p": "nos torcíamos",
+    "2p": "os torcíais",
+    "3p": "se torcían"
+  },
+  "PPSI": {
+    "1s": "me torcí",
+    "2s": "te torciste",
+    "3s": "se torció",
+    "1p": "nos torcimos",
+    "2p": "os torcisteis",
+    "3p": "se torcieron"
+  },
+  "FutSI": {
+    "1s": "me torceré",
+    "2s": "te torcerás",
+    "3s": "se torcerá",
+    "1p": "nos torceremos",
+    "2p": "os torceréis",
+    "3p": "se torcerán"
+  },
+  "CondS": {
+    "1s": "me torcería",
+    "2s": "te torcerías",
+    "3s": "se torcería",
+    "1p": "nos torceríamos",
+    "2p": "os torceríais",
+    "3p": "se torcerían"
+  },
+  "PresC": {
+    "1s": "me tuerza",
+    "2s": "te tuerzas",
+    "3s": "se tuerza",
+    "1p": "nos torzamos",
+    "2p": "os torzáis",
+    "3p": "se tuerzan"
+  },
+  "PMQPSI": {
+    "1s": "me torciera",
+    "2s": "te torcieras",
+    "3s": "se torciera",
+    "1p": "nos torciéramos",
+    "2p": "os torcierais",
+    "3p": "se torcieran"
+  },
+  "PImpC": {
+    "1s": "me torciese",
+    "2s": "te torcieses",
+    "3s": "se torciese",
+    "1p": "nos torciésemos",
+    "2p": "os torcieseis",
+    "3p": "se torciesen"
+  },
+  "FutSC": {
+    "1s": "me torciere",
+    "2s": "te torcieres",
+    "3s": "se torciere",
+    "1p": "nos torciéremos",
+    "2p": "os torciereis",
+    "3p": "se torcieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tuércete",
+    "3s": "tuérzase",
+    "1p": "torzámonos",
+    "2p": "torceos",
+    "3p": "tuérzanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te tuerzas",
+    "3s": "no se tuerza",
+    "1p": "no nos torzamos",
+    "2p": "no os torzáis",
+    "3p": "no se tuerzan"
+  },
+  "Part-ter": {
+    "": "torcido"
+  },
+  "Part-ser": {
+    "ms": "torcido",
+    "fs": "torcida",
+    "mp": "torcidos",
+    "fp": "torcidas"
+  }
+}

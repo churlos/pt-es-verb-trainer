@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "eclipsar"
+  },
+  "Ger": {
+    "": "eclipsando"
+  },
+  "PresI": {
+    "1s": "eclipso",
+    "2s": "eclipsas",
+    "3s": "eclipsa",
+    "1p": "eclipsamos",
+    "2p": "eclipsáis",
+    "3p": "eclipsan"
+  },
+  "PImpI": {
+    "1s": "eclipsaba",
+    "2s": "eclipsabas",
+    "3s": "eclipsaba",
+    "1p": "eclipsábamos",
+    "2p": "eclipsabais",
+    "3p": "eclipsaban"
+  },
+  "PPSI": {
+    "1s": "eclipsé",
+    "2s": "eclipsaste",
+    "3s": "eclipsó",
+    "1p": "eclipsamos",
+    "2p": "eclipsasteis",
+    "3p": "eclipsaron"
+  },
+  "FutSI": {
+    "1s": "eclipsaré",
+    "2s": "eclipsarás",
+    "3s": "eclipsará",
+    "1p": "eclipsaremos",
+    "2p": "eclipsaréis",
+    "3p": "eclipsarán"
+  },
+  "CondS": {
+    "1s": "eclipsaría",
+    "2s": "eclipsarías",
+    "3s": "eclipsaría",
+    "1p": "eclipsaríamos",
+    "2p": "eclipsaríais",
+    "3p": "eclipsarían"
+  },
+  "PresC": {
+    "1s": "eclipse",
+    "2s": "eclipses",
+    "3s": "eclipse",
+    "1p": "eclipsemos",
+    "2p": "eclipséis",
+    "3p": "eclipsen"
+  },
+  "PMQPSI": {
+    "1s": "eclipsara",
+    "2s": "eclipsaras",
+    "3s": "eclipsara",
+    "1p": "eclipsáramos",
+    "2p": "eclipsarais",
+    "3p": "eclipsaran"
+  },
+  "PImpC": {
+    "1s": "eclipsase",
+    "2s": "eclipsases",
+    "3s": "eclipsase",
+    "1p": "eclipsásemos",
+    "2p": "eclipsaseis",
+    "3p": "eclipsasen"
+  },
+  "FutSC": {
+    "1s": "eclipsare",
+    "2s": "eclipsares",
+    "3s": "eclipsare",
+    "1p": "eclipsáremos",
+    "2p": "eclipsareis",
+    "3p": "eclipsaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eclipsa",
+    "3s": "eclipse",
+    "1p": "eclipsemos",
+    "2p": "eclipsad",
+    "3p": "eclipsen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no eclipses",
+    "3s": "no eclipse",
+    "1p": "no eclipsemos",
+    "2p": "no eclipséis",
+    "3p": "no eclipsen"
+  },
+  "Part-ter": {
+    "": "eclipsado"
+  },
+  "Part-ser": {
+    "ms": "eclipsado",
+    "fs": "eclipsada",
+    "mp": "eclipsados",
+    "fp": "eclipsadas"
+  }
+}

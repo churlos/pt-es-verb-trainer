@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hospedar"
+  },
+  "Ger": {
+    "": "hospedando"
+  },
+  "PresI": {
+    "1s": "hospedo",
+    "2s": "hospedas",
+    "3s": "hospeda",
+    "1p": "hospedamos",
+    "2p": "hospedáis",
+    "3p": "hospedan"
+  },
+  "PImpI": {
+    "1s": "hospedaba",
+    "2s": "hospedabas",
+    "3s": "hospedaba",
+    "1p": "hospedábamos",
+    "2p": "hospedabais",
+    "3p": "hospedaban"
+  },
+  "PPSI": {
+    "1s": "hospedé",
+    "2s": "hospedaste",
+    "3s": "hospedó",
+    "1p": "hospedamos",
+    "2p": "hospedasteis",
+    "3p": "hospedaron"
+  },
+  "FutSI": {
+    "1s": "hospedaré",
+    "2s": "hospedarás",
+    "3s": "hospedará",
+    "1p": "hospedaremos",
+    "2p": "hospedaréis",
+    "3p": "hospedarán"
+  },
+  "CondS": {
+    "1s": "hospedaría",
+    "2s": "hospedarías",
+    "3s": "hospedaría",
+    "1p": "hospedaríamos",
+    "2p": "hospedaríais",
+    "3p": "hospedarían"
+  },
+  "PresC": {
+    "1s": "hospede",
+    "2s": "hospedes",
+    "3s": "hospede",
+    "1p": "hospedemos",
+    "2p": "hospedéis",
+    "3p": "hospeden"
+  },
+  "PMQPSI": {
+    "1s": "hospedara",
+    "2s": "hospedaras",
+    "3s": "hospedara",
+    "1p": "hospedáramos",
+    "2p": "hospedarais",
+    "3p": "hospedaran"
+  },
+  "PImpC": {
+    "1s": "hospedase",
+    "2s": "hospedases",
+    "3s": "hospedase",
+    "1p": "hospedásemos",
+    "2p": "hospedaseis",
+    "3p": "hospedasen"
+  },
+  "FutSC": {
+    "1s": "hospedare",
+    "2s": "hospedares",
+    "3s": "hospedare",
+    "1p": "hospedáremos",
+    "2p": "hospedareis",
+    "3p": "hospedaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hospeda",
+    "3s": "hospede",
+    "1p": "hospedemos",
+    "2p": "hospedad",
+    "3p": "hospeden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hospedes",
+    "3s": "no hospede",
+    "1p": "no hospedemos",
+    "2p": "no hospedéis",
+    "3p": "no hospeden"
+  },
+  "Part-ter": {
+    "": "hospedado"
+  },
+  "Part-ser": {
+    "ms": "hospedado",
+    "fs": "hospedada",
+    "mp": "hospedados",
+    "fp": "hospedadas"
+  }
+}

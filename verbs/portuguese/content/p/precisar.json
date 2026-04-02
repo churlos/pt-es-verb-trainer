@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "precisar"
+  },
+  "InfP": {
+    "1s": "precisar",
+    "2s": "precisares",
+    "3s": "precisar",
+    "1p": "precisarmos",
+    "2p": "precisardes",
+    "3p": "precisarem"
+  },
+  "Ger": {
+    "": "precisando"
+  },
+  "PresI": {
+    "1s": "preciso",
+    "2s": "precisas",
+    "3s": "precisa",
+    "1p": "precisamos",
+    "2p": "precisais",
+    "3p": "precisam"
+  },
+  "PImpI": {
+    "1s": "precisava",
+    "2s": "precisavas",
+    "3s": "precisava",
+    "1p": "precisávamos",
+    "2p": "precisáveis",
+    "3p": "precisavam"
+  },
+  "PPSI": {
+    "1s": "precisei",
+    "2s": "precisaste",
+    "3s": "precisou",
+    "1p": "precisámos",
+    "2p": "precisastes",
+    "3p": "precisaram"
+  },
+  "PMQPSI": {
+    "1s": "precisara",
+    "2s": "precisaras",
+    "3s": "precisara",
+    "1p": "precisáramos",
+    "2p": "precisáreis",
+    "3p": "precisaram"
+  },
+  "FutSI": {
+    "1s": "precisarei",
+    "2s": "precisarás",
+    "3s": "precisará",
+    "1p": "precisaremos",
+    "2p": "precisareis",
+    "3p": "precisarão"
+  },
+  "CondS": {
+    "1s": "precisaria",
+    "2s": "precisarias",
+    "3s": "precisaria",
+    "1p": "precisaríamos",
+    "2p": "precisaríeis",
+    "3p": "precisariam"
+  },
+  "PresC": {
+    "1s": "precise",
+    "2s": "precises",
+    "3s": "precise",
+    "1p": "precisemos",
+    "2p": "preciseis",
+    "3p": "precisem"
+  },
+  "PImpC": {
+    "1s": "precisasse",
+    "2s": "precisasses",
+    "3s": "precisasse",
+    "1p": "precisássemos",
+    "2p": "precisásseis",
+    "3p": "precisassem"
+  },
+  "FutSC": {
+    "1s": "precisar",
+    "2s": "precisares",
+    "3s": "precisar",
+    "1p": "precisarmos",
+    "2p": "precisardes",
+    "3p": "precisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "precisa",
+    "3s": "precise",
+    "1p": "precisemos",
+    "2p": "precisai",
+    "3p": "precisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não precises",
+    "3s": "não precise",
+    "1p": "não precisemos",
+    "2p": "não preciseis",
+    "3p": "não precisem"
+  },
+  "Part-ter": {
+    "": "precisado"
+  },
+  "Part-ser": {
+    "ms": "precisado",
+    "fs": "precisada",
+    "mp": "precisados",
+    "fp": "precisadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "explicar"
+  },
+  "InfP": {
+    "1s": "explicar",
+    "2s": "explicares",
+    "3s": "explicar",
+    "1p": "explicarmos",
+    "2p": "explicardes",
+    "3p": "explicarem"
+  },
+  "Ger": {
+    "": "explicando"
+  },
+  "PresI": {
+    "1s": "explico",
+    "2s": "explicas",
+    "3s": "explica",
+    "1p": "explicamos",
+    "2p": "explicais",
+    "3p": "explicam"
+  },
+  "PImpI": {
+    "1s": "explicava",
+    "2s": "explicavas",
+    "3s": "explicava",
+    "1p": "explicávamos",
+    "2p": "explicáveis",
+    "3p": "explicavam"
+  },
+  "PPSI": {
+    "1s": "expliquei",
+    "2s": "explicaste",
+    "3s": "explicou",
+    "1p": "explicámos",
+    "2p": "explicastes",
+    "3p": "explicaram"
+  },
+  "PMQPSI": {
+    "1s": "explicara",
+    "2s": "explicaras",
+    "3s": "explicara",
+    "1p": "explicáramos",
+    "2p": "explicáreis",
+    "3p": "explicaram"
+  },
+  "FutSI": {
+    "1s": "explicarei",
+    "2s": "explicarás",
+    "3s": "explicará",
+    "1p": "explicaremos",
+    "2p": "explicareis",
+    "3p": "explicarão"
+  },
+  "CondS": {
+    "1s": "explicaria",
+    "2s": "explicarias",
+    "3s": "explicaria",
+    "1p": "explicaríamos",
+    "2p": "explicaríeis",
+    "3p": "explicariam"
+  },
+  "PresC": {
+    "1s": "explique",
+    "2s": "expliques",
+    "3s": "explique",
+    "1p": "expliquemos",
+    "2p": "expliqueis",
+    "3p": "expliquem"
+  },
+  "PImpC": {
+    "1s": "explicasse",
+    "2s": "explicasses",
+    "3s": "explicasse",
+    "1p": "explicássemos",
+    "2p": "explicásseis",
+    "3p": "explicassem"
+  },
+  "FutSC": {
+    "1s": "explicar",
+    "2s": "explicares",
+    "3s": "explicar",
+    "1p": "explicarmos",
+    "2p": "explicardes",
+    "3p": "explicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "explica",
+    "3s": "explique",
+    "1p": "expliquemos",
+    "2p": "explicai",
+    "3p": "expliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não expliques",
+    "3s": "não explique",
+    "1p": "não expliquemos",
+    "2p": "não expliqueis",
+    "3p": "não expliquem"
+  },
+  "Part-ter": {
+    "": "explicado"
+  },
+  "Part-ser": {
+    "ms": "explicado",
+    "fs": "explicada",
+    "mp": "explicados",
+    "fp": "explicadas"
+  }
+}

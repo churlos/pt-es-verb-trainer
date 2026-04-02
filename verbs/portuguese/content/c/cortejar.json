@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cortejar"
+  },
+  "InfP": {
+    "1s": "cortejar",
+    "2s": "cortejares",
+    "3s": "cortejar",
+    "1p": "cortejarmos",
+    "2p": "cortejardes",
+    "3p": "cortejarem"
+  },
+  "Ger": {
+    "": "cortejando"
+  },
+  "PresI": {
+    "1s": "cortejo",
+    "2s": "cortejas",
+    "3s": "corteja",
+    "1p": "cortejamos",
+    "2p": "cortejais",
+    "3p": "cortejam"
+  },
+  "PImpI": {
+    "1s": "cortejava",
+    "2s": "cortejavas",
+    "3s": "cortejava",
+    "1p": "cortejávamos",
+    "2p": "cortejáveis",
+    "3p": "cortejavam"
+  },
+  "PPSI": {
+    "1s": "cortejei",
+    "2s": "cortejaste",
+    "3s": "cortejou",
+    "1p": "cortejámos",
+    "2p": "cortejastes",
+    "3p": "cortejaram"
+  },
+  "PMQPSI": {
+    "1s": "cortejara",
+    "2s": "cortejaras",
+    "3s": "cortejara",
+    "1p": "cortejáramos",
+    "2p": "cortejáreis",
+    "3p": "cortejaram"
+  },
+  "FutSI": {
+    "1s": "cortejarei",
+    "2s": "cortejarás",
+    "3s": "cortejará",
+    "1p": "cortejaremos",
+    "2p": "cortejareis",
+    "3p": "cortejarão"
+  },
+  "CondS": {
+    "1s": "cortejaria",
+    "2s": "cortejarias",
+    "3s": "cortejaria",
+    "1p": "cortejaríamos",
+    "2p": "cortejaríeis",
+    "3p": "cortejariam"
+  },
+  "PresC": {
+    "1s": "corteje",
+    "2s": "cortejes",
+    "3s": "corteje",
+    "1p": "cortejemos",
+    "2p": "cortejeis",
+    "3p": "cortejem"
+  },
+  "PImpC": {
+    "1s": "cortejasse",
+    "2s": "cortejasses",
+    "3s": "cortejasse",
+    "1p": "cortejássemos",
+    "2p": "cortejásseis",
+    "3p": "cortejassem"
+  },
+  "FutSC": {
+    "1s": "cortejar",
+    "2s": "cortejares",
+    "3s": "cortejar",
+    "1p": "cortejarmos",
+    "2p": "cortejardes",
+    "3p": "cortejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corteja",
+    "3s": "corteje",
+    "1p": "cortejemos",
+    "2p": "cortejai",
+    "3p": "cortejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cortejes",
+    "3s": "não corteje",
+    "1p": "não cortejemos",
+    "2p": "não cortejeis",
+    "3p": "não cortejem"
+  },
+  "Part-ter": {
+    "": "cortejado"
+  },
+  "Part-ser": {
+    "ms": "cortejado",
+    "fs": "cortejada",
+    "mp": "cortejados",
+    "fp": "cortejadas"
+  }
+}

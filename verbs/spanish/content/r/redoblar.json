@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "redoblar"
+  },
+  "Ger": {
+    "": "redoblando"
+  },
+  "PresI": {
+    "1s": "redoblo",
+    "2s": "redoblas",
+    "3s": "redobla",
+    "1p": "redoblamos",
+    "2p": "redobláis",
+    "3p": "redoblan"
+  },
+  "PImpI": {
+    "1s": "redoblaba",
+    "2s": "redoblabas",
+    "3s": "redoblaba",
+    "1p": "redoblábamos",
+    "2p": "redoblabais",
+    "3p": "redoblaban"
+  },
+  "PPSI": {
+    "1s": "redoblé",
+    "2s": "redoblaste",
+    "3s": "redobló",
+    "1p": "redoblamos",
+    "2p": "redoblasteis",
+    "3p": "redoblaron"
+  },
+  "FutSI": {
+    "1s": "redoblaré",
+    "2s": "redoblarás",
+    "3s": "redoblará",
+    "1p": "redoblaremos",
+    "2p": "redoblaréis",
+    "3p": "redoblarán"
+  },
+  "CondS": {
+    "1s": "redoblaría",
+    "2s": "redoblarías",
+    "3s": "redoblaría",
+    "1p": "redoblaríamos",
+    "2p": "redoblaríais",
+    "3p": "redoblarían"
+  },
+  "PresC": {
+    "1s": "redoble",
+    "2s": "redobles",
+    "3s": "redoble",
+    "1p": "redoblemos",
+    "2p": "redobléis",
+    "3p": "redoblen"
+  },
+  "PMQPSI": {
+    "1s": "redoblara",
+    "2s": "redoblaras",
+    "3s": "redoblara",
+    "1p": "redobláramos",
+    "2p": "redoblarais",
+    "3p": "redoblaran"
+  },
+  "PImpC": {
+    "1s": "redoblase",
+    "2s": "redoblases",
+    "3s": "redoblase",
+    "1p": "redoblásemos",
+    "2p": "redoblaseis",
+    "3p": "redoblasen"
+  },
+  "FutSC": {
+    "1s": "redoblare",
+    "2s": "redoblares",
+    "3s": "redoblare",
+    "1p": "redobláremos",
+    "2p": "redoblareis",
+    "3p": "redoblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "redobla",
+    "3s": "redoble",
+    "1p": "redoblemos",
+    "2p": "redoblad",
+    "3p": "redoblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no redobles",
+    "3s": "no redoble",
+    "1p": "no redoblemos",
+    "2p": "no redobléis",
+    "3p": "no redoblen"
+  },
+  "Part-ter": {
+    "": "redoblado"
+  },
+  "Part-ser": {
+    "ms": "redoblado",
+    "fs": "redoblada",
+    "mp": "redoblados",
+    "fp": "redobladas"
+  }
+}

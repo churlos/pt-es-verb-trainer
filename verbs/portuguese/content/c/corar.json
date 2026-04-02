@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "corar"
+  },
+  "InfP": {
+    "1s": "corar",
+    "2s": "corares",
+    "3s": "corar",
+    "1p": "corarmos",
+    "2p": "corardes",
+    "3p": "corarem"
+  },
+  "Ger": {
+    "": "corando"
+  },
+  "PresI": {
+    "1s": "coro",
+    "2s": "coras",
+    "3s": "cora",
+    "1p": "coramos",
+    "2p": "corais",
+    "3p": "coram"
+  },
+  "PImpI": {
+    "1s": "corava",
+    "2s": "coravas",
+    "3s": "corava",
+    "1p": "corávamos",
+    "2p": "coráveis",
+    "3p": "coravam"
+  },
+  "PPSI": {
+    "1s": "corei",
+    "2s": "coraste",
+    "3s": "corou",
+    "1p": "corámos",
+    "2p": "corastes",
+    "3p": "coraram"
+  },
+  "PMQPSI": {
+    "1s": "corara",
+    "2s": "coraras",
+    "3s": "corara",
+    "1p": "coráramos",
+    "2p": "coráreis",
+    "3p": "coraram"
+  },
+  "FutSI": {
+    "1s": "corarei",
+    "2s": "corarás",
+    "3s": "corará",
+    "1p": "coraremos",
+    "2p": "corareis",
+    "3p": "corarão"
+  },
+  "CondS": {
+    "1s": "coraria",
+    "2s": "corarias",
+    "3s": "coraria",
+    "1p": "coraríamos",
+    "2p": "coraríeis",
+    "3p": "corariam"
+  },
+  "PresC": {
+    "1s": "core",
+    "2s": "cores",
+    "3s": "core",
+    "1p": "coremos",
+    "2p": "coreis",
+    "3p": "corem"
+  },
+  "PImpC": {
+    "1s": "corasse",
+    "2s": "corasses",
+    "3s": "corasse",
+    "1p": "corássemos",
+    "2p": "corásseis",
+    "3p": "corassem"
+  },
+  "FutSC": {
+    "1s": "corar",
+    "2s": "corares",
+    "3s": "corar",
+    "1p": "corarmos",
+    "2p": "corardes",
+    "3p": "corarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cora",
+    "3s": "core",
+    "1p": "coremos",
+    "2p": "corai",
+    "3p": "corem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cores",
+    "3s": "não core",
+    "1p": "não coremos",
+    "2p": "não coreis",
+    "3p": "não corem"
+  },
+  "Part-ter": {
+    "": "corado"
+  },
+  "Part-ser": {
+    "ms": "corado",
+    "fs": "corada",
+    "mp": "corados",
+    "fp": "coradas"
+  }
+}

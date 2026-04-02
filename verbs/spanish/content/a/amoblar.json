@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amoblar"
+  },
+  "Ger": {
+    "": "amoblando"
+  },
+  "PresI": {
+    "1s": "amueblo",
+    "2s": "amueblas",
+    "3s": "amuebla",
+    "1p": "amoblamos",
+    "2p": "amobláis",
+    "3p": "amueblan"
+  },
+  "PImpI": {
+    "1s": "amoblaba",
+    "2s": "amoblabas",
+    "3s": "amoblaba",
+    "1p": "amoblábamos",
+    "2p": "amoblabais",
+    "3p": "amoblaban"
+  },
+  "PPSI": {
+    "1s": "amoblé",
+    "2s": "amoblaste",
+    "3s": "amobló",
+    "1p": "amoblamos",
+    "2p": "amoblasteis",
+    "3p": "amoblaron"
+  },
+  "FutSI": {
+    "1s": "amoblaré",
+    "2s": "amoblarás",
+    "3s": "amoblará",
+    "1p": "amoblaremos",
+    "2p": "amoblaréis",
+    "3p": "amoblarán"
+  },
+  "CondS": {
+    "1s": "amoblaría",
+    "2s": "amoblarías",
+    "3s": "amoblaría",
+    "1p": "amoblaríamos",
+    "2p": "amoblaríais",
+    "3p": "amoblarían"
+  },
+  "PresC": {
+    "1s": "amueble",
+    "2s": "amuebles",
+    "3s": "amueble",
+    "1p": "amoblemos",
+    "2p": "amobléis",
+    "3p": "amueblen"
+  },
+  "PMQPSI": {
+    "1s": "amoblara",
+    "2s": "amoblaras",
+    "3s": "amoblara",
+    "1p": "amobláramos",
+    "2p": "amoblarais",
+    "3p": "amoblaran"
+  },
+  "PImpC": {
+    "1s": "amoblase",
+    "2s": "amoblases",
+    "3s": "amoblase",
+    "1p": "amoblásemos",
+    "2p": "amoblaseis",
+    "3p": "amoblasen"
+  },
+  "FutSC": {
+    "1s": "amoblare",
+    "2s": "amoblares",
+    "3s": "amoblare",
+    "1p": "amobláremos",
+    "2p": "amoblareis",
+    "3p": "amoblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amuebla",
+    "3s": "amueble",
+    "1p": "amoblemos",
+    "2p": "amoblad",
+    "3p": "amueblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amuebles",
+    "3s": "no amueble",
+    "1p": "no amoblemos",
+    "2p": "no amobléis",
+    "3p": "no amueblen"
+  },
+  "Part-ter": {
+    "": "amoblado"
+  },
+  "Part-ser": {
+    "ms": "amoblado",
+    "fs": "amoblada",
+    "mp": "amoblados",
+    "fp": "amobladas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "morirse"
+  },
+  "Ger": {
+    "": "muriéndose"
+  },
+  "PresI": {
+    "1s": "me muero",
+    "2s": "te mueres",
+    "3s": "se muere",
+    "1p": "nos morimos",
+    "2p": "os morís",
+    "3p": "se mueren"
+  },
+  "PImpI": {
+    "1s": "me moría",
+    "2s": "te morías",
+    "3s": "se moría",
+    "1p": "nos moríamos",
+    "2p": "os moríais",
+    "3p": "se morían"
+  },
+  "PPSI": {
+    "1s": "me morí",
+    "2s": "te moriste",
+    "3s": "se murió",
+    "1p": "nos morimos",
+    "2p": "os moristeis",
+    "3p": "se murieron"
+  },
+  "FutSI": {
+    "1s": "me moriré",
+    "2s": "te morirás",
+    "3s": "se morirá",
+    "1p": "nos moriremos",
+    "2p": "os moriréis",
+    "3p": "se morirán"
+  },
+  "CondS": {
+    "1s": "me moriría",
+    "2s": "te morirías",
+    "3s": "se moriría",
+    "1p": "nos moriríamos",
+    "2p": "os moriríais",
+    "3p": "se morirían"
+  },
+  "PresC": {
+    "1s": "me muera",
+    "2s": "te mueras",
+    "3s": "se muera",
+    "1p": "nos muramos",
+    "2p": "os muráis",
+    "3p": "se mueran"
+  },
+  "PMQPSI": {
+    "1s": "me muriera",
+    "2s": "te murieras",
+    "3s": "se muriera",
+    "1p": "nos muriéramos",
+    "2p": "os murierais",
+    "3p": "se murieran"
+  },
+  "PImpC": {
+    "1s": "me muriese",
+    "2s": "te murieses",
+    "3s": "se muriese",
+    "1p": "nos muriésemos",
+    "2p": "os murieseis",
+    "3p": "se muriesen"
+  },
+  "FutSC": {
+    "1s": "me muriere",
+    "2s": "te murieres",
+    "3s": "se muriere",
+    "1p": "nos muriéremos",
+    "2p": "os muriereis",
+    "3p": "se murieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "muérete",
+    "3s": "muérase",
+    "1p": "murámonos",
+    "2p": "moríos",
+    "3p": "muéranse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te mueras",
+    "3s": "no se muera",
+    "1p": "no nos muramos",
+    "2p": "no os muráis",
+    "3p": "no se mueran"
+  },
+  "Part-ter": {
+    "": "muerto"
+  },
+  "Part-ser": {
+    "ms": "muerto",
+    "fs": "muerta",
+    "mp": "muertos",
+    "fp": "muertas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anormalizar"
+  },
+  "InfP": {
+    "1s": "anormalizar",
+    "2s": "anormalizares",
+    "3s": "anormalizar",
+    "1p": "anormalizarmos",
+    "2p": "anormalizardes",
+    "3p": "anormalizarem"
+  },
+  "Ger": {
+    "": "anormalizando"
+  },
+  "PresI": {
+    "1s": "anormalizo",
+    "2s": "anormalizas",
+    "3s": "anormaliza",
+    "1p": "anormalizamos",
+    "2p": "anormalizais",
+    "3p": "anormalizam"
+  },
+  "PImpI": {
+    "1s": "anormalizava",
+    "2s": "anormalizavas",
+    "3s": "anormalizava",
+    "1p": "anormalizávamos",
+    "2p": "anormalizáveis",
+    "3p": "anormalizavam"
+  },
+  "PPSI": {
+    "1s": "anormalizei",
+    "2s": "anormalizaste",
+    "3s": "anormalizou",
+    "1p": "anormalizámos",
+    "2p": "anormalizastes",
+    "3p": "anormalizaram"
+  },
+  "PMQPSI": {
+    "1s": "anormalizara",
+    "2s": "anormalizaras",
+    "3s": "anormalizara",
+    "1p": "anormalizáramos",
+    "2p": "anormalizáreis",
+    "3p": "anormalizaram"
+  },
+  "FutSI": {
+    "1s": "anormalizarei",
+    "2s": "anormalizarás",
+    "3s": "anormalizará",
+    "1p": "anormalizaremos",
+    "2p": "anormalizareis",
+    "3p": "anormalizarão"
+  },
+  "CondS": {
+    "1s": "anormalizaria",
+    "2s": "anormalizarias",
+    "3s": "anormalizaria",
+    "1p": "anormalizaríamos",
+    "2p": "anormalizaríeis",
+    "3p": "anormalizariam"
+  },
+  "PresC": {
+    "1s": "anormalize",
+    "2s": "anormalizes",
+    "3s": "anormalize",
+    "1p": "anormalizemos",
+    "2p": "anormalizeis",
+    "3p": "anormalizem"
+  },
+  "PImpC": {
+    "1s": "anormalizasse",
+    "2s": "anormalizasses",
+    "3s": "anormalizasse",
+    "1p": "anormalizássemos",
+    "2p": "anormalizásseis",
+    "3p": "anormalizassem"
+  },
+  "FutSC": {
+    "1s": "anormalizar",
+    "2s": "anormalizares",
+    "3s": "anormalizar",
+    "1p": "anormalizarmos",
+    "2p": "anormalizardes",
+    "3p": "anormalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anormaliza",
+    "3s": "anormalize",
+    "1p": "anormalizemos",
+    "2p": "anormalizai",
+    "3p": "anormalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anormalizes",
+    "3s": "não anormalize",
+    "1p": "não anormalizemos",
+    "2p": "não anormalizeis",
+    "3p": "não anormalizem"
+  },
+  "Part-ter": {
+    "": "anormalizado"
+  },
+  "Part-ser": {
+    "ms": "anormalizado",
+    "fs": "anormalizada",
+    "mp": "anormalizados",
+    "fp": "anormalizadas"
+  }
+}

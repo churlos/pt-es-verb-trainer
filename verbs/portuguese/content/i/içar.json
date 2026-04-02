@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "içar"
+  },
+  "InfP": {
+    "1s": "içar",
+    "2s": "içares",
+    "3s": "içar",
+    "1p": "içarmos",
+    "2p": "içardes",
+    "3p": "içarem"
+  },
+  "Ger": {
+    "": "içando"
+  },
+  "PresI": {
+    "1s": "iço",
+    "2s": "iças",
+    "3s": "iça",
+    "1p": "içamos",
+    "2p": "içais",
+    "3p": "içam"
+  },
+  "PImpI": {
+    "1s": "içava",
+    "2s": "içavas",
+    "3s": "içava",
+    "1p": "içávamos",
+    "2p": "içáveis",
+    "3p": "içavam"
+  },
+  "PPSI": {
+    "1s": "icei",
+    "2s": "içaste",
+    "3s": "içou",
+    "1p": "içámos",
+    "2p": "içastes",
+    "3p": "içaram"
+  },
+  "PMQPSI": {
+    "1s": "içara",
+    "2s": "içaras",
+    "3s": "içara",
+    "1p": "içáramos",
+    "2p": "içáreis",
+    "3p": "içaram"
+  },
+  "FutSI": {
+    "1s": "içarei",
+    "2s": "içarás",
+    "3s": "içará",
+    "1p": "içaremos",
+    "2p": "içareis",
+    "3p": "içarão"
+  },
+  "CondS": {
+    "1s": "içaria",
+    "2s": "içarias",
+    "3s": "içaria",
+    "1p": "içaríamos",
+    "2p": "içaríeis",
+    "3p": "içariam"
+  },
+  "PresC": {
+    "1s": "ice",
+    "2s": "ices",
+    "3s": "ice",
+    "1p": "icemos",
+    "2p": "iceis",
+    "3p": "icem"
+  },
+  "PImpC": {
+    "1s": "içasse",
+    "2s": "içasses",
+    "3s": "içasse",
+    "1p": "içássemos",
+    "2p": "içásseis",
+    "3p": "içassem"
+  },
+  "FutSC": {
+    "1s": "içar",
+    "2s": "içares",
+    "3s": "içar",
+    "1p": "içarmos",
+    "2p": "içardes",
+    "3p": "içarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "iça",
+    "3s": "ice",
+    "1p": "icemos",
+    "2p": "içai",
+    "3p": "icem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ices",
+    "3s": "não ice",
+    "1p": "não icemos",
+    "2p": "não iceis",
+    "3p": "não icem"
+  },
+  "Part-ter": {
+    "": "içado"
+  },
+  "Part-ser": {
+    "ms": "içado",
+    "fs": "içada",
+    "mp": "içados",
+    "fp": "içadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sombrear"
+  },
+  "InfP": {
+    "1s": "sombrear",
+    "2s": "sombreares",
+    "3s": "sombrear",
+    "1p": "sombrearmos",
+    "2p": "sombreardes",
+    "3p": "sombrearem"
+  },
+  "Ger": {
+    "": "sombreando"
+  },
+  "PresI": {
+    "1s": "sombreio",
+    "2s": "sombreias",
+    "3s": "sombreia",
+    "1p": "sombreamos",
+    "2p": "sombreais",
+    "3p": "sombreiam"
+  },
+  "PImpI": {
+    "1s": "sombreava",
+    "2s": "sombreavas",
+    "3s": "sombreava",
+    "1p": "sombreávamos",
+    "2p": "sombreáveis",
+    "3p": "sombreavam"
+  },
+  "PPSI": {
+    "1s": "sombreei",
+    "2s": "sombreaste",
+    "3s": "sombreou",
+    "1p": "sombreámos",
+    "2p": "sombreastes",
+    "3p": "sombrearam"
+  },
+  "PMQPSI": {
+    "1s": "sombreara",
+    "2s": "sombrearas",
+    "3s": "sombreara",
+    "1p": "sombreáramos",
+    "2p": "sombreáreis",
+    "3p": "sombrearam"
+  },
+  "FutSI": {
+    "1s": "sombrearei",
+    "2s": "sombrearás",
+    "3s": "sombreará",
+    "1p": "sombrearemos",
+    "2p": "sombreareis",
+    "3p": "sombrearão"
+  },
+  "CondS": {
+    "1s": "sombrearia",
+    "2s": "sombrearias",
+    "3s": "sombrearia",
+    "1p": "sombrearíamos",
+    "2p": "sombrearíeis",
+    "3p": "sombreariam"
+  },
+  "PresC": {
+    "1s": "sombreie",
+    "2s": "sombreies",
+    "3s": "sombreie",
+    "1p": "sombreemos",
+    "2p": "sombreeis",
+    "3p": "sombreiem"
+  },
+  "PImpC": {
+    "1s": "sombreasse",
+    "2s": "sombreasses",
+    "3s": "sombreasse",
+    "1p": "sombreássemos",
+    "2p": "sombreásseis",
+    "3p": "sombreassem"
+  },
+  "FutSC": {
+    "1s": "sombrear",
+    "2s": "sombreares",
+    "3s": "sombrear",
+    "1p": "sombrearmos",
+    "2p": "sombreardes",
+    "3p": "sombrearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sombreia",
+    "3s": "sombreie",
+    "1p": "sombreemos",
+    "2p": "sombreai",
+    "3p": "sombreiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sombreies",
+    "3s": "não sombreie",
+    "1p": "não sombreemos",
+    "2p": "não sombreeis",
+    "3p": "não sombreiem"
+  },
+  "Part-ter": {
+    "": "sombreado"
+  },
+  "Part-ser": {
+    "ms": "sombreado",
+    "fs": "sombreada",
+    "mp": "sombreados",
+    "fp": "sombreadas"
+  }
+}

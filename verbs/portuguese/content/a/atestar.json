@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atestar"
+  },
+  "InfP": {
+    "1s": "atestar",
+    "2s": "atestares",
+    "3s": "atestar",
+    "1p": "atestarmos",
+    "2p": "atestardes",
+    "3p": "atestarem"
+  },
+  "Ger": {
+    "": "atestando"
+  },
+  "PresI": {
+    "1s": "atesto",
+    "2s": "atestas",
+    "3s": "atesta",
+    "1p": "atestamos",
+    "2p": "atestais",
+    "3p": "atestam"
+  },
+  "PImpI": {
+    "1s": "atestava",
+    "2s": "atestavas",
+    "3s": "atestava",
+    "1p": "atestávamos",
+    "2p": "atestáveis",
+    "3p": "atestavam"
+  },
+  "PPSI": {
+    "1s": "atestei",
+    "2s": "atestaste",
+    "3s": "atestou",
+    "1p": "atestámos",
+    "2p": "atestastes",
+    "3p": "atestaram"
+  },
+  "PMQPSI": {
+    "1s": "atestara",
+    "2s": "atestaras",
+    "3s": "atestara",
+    "1p": "atestáramos",
+    "2p": "atestáreis",
+    "3p": "atestaram"
+  },
+  "FutSI": {
+    "1s": "atestarei",
+    "2s": "atestarás",
+    "3s": "atestará",
+    "1p": "atestaremos",
+    "2p": "atestareis",
+    "3p": "atestarão"
+  },
+  "CondS": {
+    "1s": "atestaria",
+    "2s": "atestarias",
+    "3s": "atestaria",
+    "1p": "atestaríamos",
+    "2p": "atestaríeis",
+    "3p": "atestariam"
+  },
+  "PresC": {
+    "1s": "ateste",
+    "2s": "atestes",
+    "3s": "ateste",
+    "1p": "atestemos",
+    "2p": "atesteis",
+    "3p": "atestem"
+  },
+  "PImpC": {
+    "1s": "atestasse",
+    "2s": "atestasses",
+    "3s": "atestasse",
+    "1p": "atestássemos",
+    "2p": "atestásseis",
+    "3p": "atestassem"
+  },
+  "FutSC": {
+    "1s": "atestar",
+    "2s": "atestares",
+    "3s": "atestar",
+    "1p": "atestarmos",
+    "2p": "atestardes",
+    "3p": "atestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atesta",
+    "3s": "ateste",
+    "1p": "atestemos",
+    "2p": "atestai",
+    "3p": "atestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atestes",
+    "3s": "não ateste",
+    "1p": "não atestemos",
+    "2p": "não atesteis",
+    "3p": "não atestem"
+  },
+  "Part-ter": {
+    "": "atestado"
+  },
+  "Part-ser": {
+    "ms": "atestado",
+    "fs": "atestada",
+    "mp": "atestados",
+    "fp": "atestadas"
+  }
+}

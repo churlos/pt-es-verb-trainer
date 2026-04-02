@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "custodiar"
+  },
+  "Ger": {
+    "": "custodiando"
+  },
+  "PresI": {
+    "1s": "custodio",
+    "2s": "custodias",
+    "3s": "custodia",
+    "1p": "custodiamos",
+    "2p": "custodiáis",
+    "3p": "custodian"
+  },
+  "PImpI": {
+    "1s": "custodiaba",
+    "2s": "custodiabas",
+    "3s": "custodiaba",
+    "1p": "custodiábamos",
+    "2p": "custodiabais",
+    "3p": "custodiaban"
+  },
+  "PPSI": {
+    "1s": "custodié",
+    "2s": "custodiaste",
+    "3s": "custodió",
+    "1p": "custodiamos",
+    "2p": "custodiasteis",
+    "3p": "custodiaron"
+  },
+  "FutSI": {
+    "1s": "custodiaré",
+    "2s": "custodiarás",
+    "3s": "custodiará",
+    "1p": "custodiaremos",
+    "2p": "custodiaréis",
+    "3p": "custodiarán"
+  },
+  "CondS": {
+    "1s": "custodiaría",
+    "2s": "custodiarías",
+    "3s": "custodiaría",
+    "1p": "custodiaríamos",
+    "2p": "custodiaríais",
+    "3p": "custodiarían"
+  },
+  "PresC": {
+    "1s": "custodie",
+    "2s": "custodies",
+    "3s": "custodie",
+    "1p": "custodiemos",
+    "2p": "custodiéis",
+    "3p": "custodien"
+  },
+  "PMQPSI": {
+    "1s": "custodiara",
+    "2s": "custodiaras",
+    "3s": "custodiara",
+    "1p": "custodiáramos",
+    "2p": "custodiarais",
+    "3p": "custodiaran"
+  },
+  "PImpC": {
+    "1s": "custodiase",
+    "2s": "custodiases",
+    "3s": "custodiase",
+    "1p": "custodiásemos",
+    "2p": "custodiaseis",
+    "3p": "custodiasen"
+  },
+  "FutSC": {
+    "1s": "custodiare",
+    "2s": "custodiares",
+    "3s": "custodiare",
+    "1p": "custodiáremos",
+    "2p": "custodiareis",
+    "3p": "custodiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "custodia",
+    "3s": "custodie",
+    "1p": "custodiemos",
+    "2p": "custodiad",
+    "3p": "custodien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no custodies",
+    "3s": "no custodie",
+    "1p": "no custodiemos",
+    "2p": "no custodiéis",
+    "3p": "no custodien"
+  },
+  "Part-ter": {
+    "": "custodiado"
+  },
+  "Part-ser": {
+    "ms": "custodiado",
+    "fs": "custodiada",
+    "mp": "custodiados",
+    "fp": "custodiadas"
+  }
+}

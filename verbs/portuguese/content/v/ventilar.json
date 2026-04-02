@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ventilar"
+  },
+  "InfP": {
+    "1s": "ventilar",
+    "2s": "ventilares",
+    "3s": "ventilar",
+    "1p": "ventilarmos",
+    "2p": "ventilardes",
+    "3p": "ventilarem"
+  },
+  "Ger": {
+    "": "ventilando"
+  },
+  "PresI": {
+    "1s": "ventilo",
+    "2s": "ventilas",
+    "3s": "ventila",
+    "1p": "ventilamos",
+    "2p": "ventilais",
+    "3p": "ventilam"
+  },
+  "PImpI": {
+    "1s": "ventilava",
+    "2s": "ventilavas",
+    "3s": "ventilava",
+    "1p": "ventilávamos",
+    "2p": "ventiláveis",
+    "3p": "ventilavam"
+  },
+  "PPSI": {
+    "1s": "ventilei",
+    "2s": "ventilaste",
+    "3s": "ventilou",
+    "1p": "ventilámos",
+    "2p": "ventilastes",
+    "3p": "ventilaram"
+  },
+  "PMQPSI": {
+    "1s": "ventilara",
+    "2s": "ventilaras",
+    "3s": "ventilara",
+    "1p": "ventiláramos",
+    "2p": "ventiláreis",
+    "3p": "ventilaram"
+  },
+  "FutSI": {
+    "1s": "ventilarei",
+    "2s": "ventilarás",
+    "3s": "ventilará",
+    "1p": "ventilaremos",
+    "2p": "ventilareis",
+    "3p": "ventilarão"
+  },
+  "CondS": {
+    "1s": "ventilaria",
+    "2s": "ventilarias",
+    "3s": "ventilaria",
+    "1p": "ventilaríamos",
+    "2p": "ventilaríeis",
+    "3p": "ventilariam"
+  },
+  "PresC": {
+    "1s": "ventile",
+    "2s": "ventiles",
+    "3s": "ventile",
+    "1p": "ventilemos",
+    "2p": "ventileis",
+    "3p": "ventilem"
+  },
+  "PImpC": {
+    "1s": "ventilasse",
+    "2s": "ventilasses",
+    "3s": "ventilasse",
+    "1p": "ventilássemos",
+    "2p": "ventilásseis",
+    "3p": "ventilassem"
+  },
+  "FutSC": {
+    "1s": "ventilar",
+    "2s": "ventilares",
+    "3s": "ventilar",
+    "1p": "ventilarmos",
+    "2p": "ventilardes",
+    "3p": "ventilarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ventila",
+    "3s": "ventile",
+    "1p": "ventilemos",
+    "2p": "ventilai",
+    "3p": "ventilem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ventiles",
+    "3s": "não ventile",
+    "1p": "não ventilemos",
+    "2p": "não ventileis",
+    "3p": "não ventilem"
+  },
+  "Part-ter": {
+    "": "ventilado"
+  },
+  "Part-ser": {
+    "ms": "ventilado",
+    "fs": "ventilada",
+    "mp": "ventilados",
+    "fp": "ventiladas"
+  }
+}

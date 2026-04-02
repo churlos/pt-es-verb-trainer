@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recibirse"
+  },
+  "Ger": {
+    "": "recibiéndose"
+  },
+  "PresI": {
+    "1s": "me recibo",
+    "2s": "te recibes",
+    "3s": "se recibe",
+    "1p": "nos recibimos",
+    "2p": "os recibís",
+    "3p": "se reciben"
+  },
+  "PImpI": {
+    "1s": "me recibía",
+    "2s": "te recibías",
+    "3s": "se recibía",
+    "1p": "nos recibíamos",
+    "2p": "os recibíais",
+    "3p": "se recibían"
+  },
+  "PPSI": {
+    "1s": "me recibí",
+    "2s": "te recibiste",
+    "3s": "se recibió",
+    "1p": "nos recibimos",
+    "2p": "os recibisteis",
+    "3p": "se recibieron"
+  },
+  "FutSI": {
+    "1s": "me recibiré",
+    "2s": "te recibirás",
+    "3s": "se recibirá",
+    "1p": "nos recibiremos",
+    "2p": "os recibiréis",
+    "3p": "se recibirán"
+  },
+  "CondS": {
+    "1s": "me recibiría",
+    "2s": "te recibirías",
+    "3s": "se recibiría",
+    "1p": "nos recibiríamos",
+    "2p": "os recibiríais",
+    "3p": "se recibirían"
+  },
+  "PresC": {
+    "1s": "me reciba",
+    "2s": "te recibas",
+    "3s": "se reciba",
+    "1p": "nos recibamos",
+    "2p": "os recibáis",
+    "3p": "se reciban"
+  },
+  "PMQPSI": {
+    "1s": "me recibiera",
+    "2s": "te recibieras",
+    "3s": "se recibiera",
+    "1p": "nos recibiéramos",
+    "2p": "os recibierais",
+    "3p": "se recibieran"
+  },
+  "PImpC": {
+    "1s": "me recibiese",
+    "2s": "te recibieses",
+    "3s": "se recibiese",
+    "1p": "nos recibiésemos",
+    "2p": "os recibieseis",
+    "3p": "se recibiesen"
+  },
+  "FutSC": {
+    "1s": "me recibiere",
+    "2s": "te recibieres",
+    "3s": "se recibiere",
+    "1p": "nos recibiéremos",
+    "2p": "os recibiereis",
+    "3p": "se recibieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recíbete",
+    "3s": "recíbase",
+    "1p": "recibámonos",
+    "2p": "recibíos",
+    "3p": "recíbanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te recibas",
+    "3s": "no se reciba",
+    "1p": "no nos recibamos",
+    "2p": "no os recibáis",
+    "3p": "no se reciban"
+  },
+  "Part-ter": {
+    "": "recibido"
+  },
+  "Part-ser": {
+    "ms": "recibido",
+    "fs": "recibida",
+    "mp": "recibidos",
+    "fp": "recibidas"
+  }
+}

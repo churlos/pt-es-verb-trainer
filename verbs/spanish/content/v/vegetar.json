@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vegetar"
+  },
+  "Ger": {
+    "": "vegetando"
+  },
+  "PresI": {
+    "1s": "vegeto",
+    "2s": "vegetas",
+    "3s": "vegeta",
+    "1p": "vegetamos",
+    "2p": "vegetáis",
+    "3p": "vegetan"
+  },
+  "PImpI": {
+    "1s": "vegetaba",
+    "2s": "vegetabas",
+    "3s": "vegetaba",
+    "1p": "vegetábamos",
+    "2p": "vegetabais",
+    "3p": "vegetaban"
+  },
+  "PPSI": {
+    "1s": "vegeté",
+    "2s": "vegetaste",
+    "3s": "vegetó",
+    "1p": "vegetamos",
+    "2p": "vegetasteis",
+    "3p": "vegetaron"
+  },
+  "FutSI": {
+    "1s": "vegetaré",
+    "2s": "vegetarás",
+    "3s": "vegetará",
+    "1p": "vegetaremos",
+    "2p": "vegetaréis",
+    "3p": "vegetarán"
+  },
+  "CondS": {
+    "1s": "vegetaría",
+    "2s": "vegetarías",
+    "3s": "vegetaría",
+    "1p": "vegetaríamos",
+    "2p": "vegetaríais",
+    "3p": "vegetarían"
+  },
+  "PresC": {
+    "1s": "vegete",
+    "2s": "vegetes",
+    "3s": "vegete",
+    "1p": "vegetemos",
+    "2p": "vegetéis",
+    "3p": "vegeten"
+  },
+  "PMQPSI": {
+    "1s": "vegetara",
+    "2s": "vegetaras",
+    "3s": "vegetara",
+    "1p": "vegetáramos",
+    "2p": "vegetarais",
+    "3p": "vegetaran"
+  },
+  "PImpC": {
+    "1s": "vegetase",
+    "2s": "vegetases",
+    "3s": "vegetase",
+    "1p": "vegetásemos",
+    "2p": "vegetaseis",
+    "3p": "vegetasen"
+  },
+  "FutSC": {
+    "1s": "vegetare",
+    "2s": "vegetares",
+    "3s": "vegetare",
+    "1p": "vegetáremos",
+    "2p": "vegetareis",
+    "3p": "vegetaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vegeta",
+    "3s": "vegete",
+    "1p": "vegetemos",
+    "2p": "vegetad",
+    "3p": "vegeten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vegetes",
+    "3s": "no vegete",
+    "1p": "no vegetemos",
+    "2p": "no vegetéis",
+    "3p": "no vegeten"
+  },
+  "Part-ter": {
+    "": "vegetado"
+  },
+  "Part-ser": {
+    "ms": "vegetado",
+    "fs": "vegetada",
+    "mp": "vegetados",
+    "fp": "vegetadas"
+  }
+}

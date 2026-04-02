@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "morsegar"
+  },
+  "InfP": {
+    "1s": "morsegar",
+    "2s": "morsegares",
+    "3s": "morsegar",
+    "1p": "morsegarmos",
+    "2p": "morsegardes",
+    "3p": "morsegarem"
+  },
+  "Ger": {
+    "": "morsegando"
+  },
+  "PresI": {
+    "1s": "morsego",
+    "2s": "morsegas",
+    "3s": "morsega",
+    "1p": "morsegamos",
+    "2p": "morsegais",
+    "3p": "morsegam"
+  },
+  "PImpI": {
+    "1s": "morsegava",
+    "2s": "morsegavas",
+    "3s": "morsegava",
+    "1p": "morsegávamos",
+    "2p": "morsegáveis",
+    "3p": "morsegavam"
+  },
+  "PPSI": {
+    "1s": "morseguei",
+    "2s": "morsegaste",
+    "3s": "morsegou",
+    "1p": "morsegámos",
+    "2p": "morsegastes",
+    "3p": "morsegaram"
+  },
+  "PMQPSI": {
+    "1s": "morsegara",
+    "2s": "morsegaras",
+    "3s": "morsegara",
+    "1p": "morsegáramos",
+    "2p": "morsegáreis",
+    "3p": "morsegaram"
+  },
+  "FutSI": {
+    "1s": "morsegarei",
+    "2s": "morsegarás",
+    "3s": "morsegará",
+    "1p": "morsegaremos",
+    "2p": "morsegareis",
+    "3p": "morsegarão"
+  },
+  "CondS": {
+    "1s": "morsegaria",
+    "2s": "morsegarias",
+    "3s": "morsegaria",
+    "1p": "morsegaríamos",
+    "2p": "morsegaríeis",
+    "3p": "morsegariam"
+  },
+  "PresC": {
+    "1s": "morsegue",
+    "2s": "morsegues",
+    "3s": "morsegue",
+    "1p": "morseguemos",
+    "2p": "morsegueis",
+    "3p": "morseguem"
+  },
+  "PImpC": {
+    "1s": "morsegasse",
+    "2s": "morsegasses",
+    "3s": "morsegasse",
+    "1p": "morsegássemos",
+    "2p": "morsegásseis",
+    "3p": "morsegassem"
+  },
+  "FutSC": {
+    "1s": "morsegar",
+    "2s": "morsegares",
+    "3s": "morsegar",
+    "1p": "morsegarmos",
+    "2p": "morsegardes",
+    "3p": "morsegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "morsega",
+    "3s": "morsegue",
+    "1p": "morseguemos",
+    "2p": "morsegai",
+    "3p": "morseguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não morsegues",
+    "3s": "não morsegue",
+    "1p": "não morseguemos",
+    "2p": "não morsegueis",
+    "3p": "não morseguem"
+  },
+  "Part-ter": {
+    "": "morsegado"
+  },
+  "Part-ser": {
+    "ms": "morsegado",
+    "fs": "morsegada",
+    "mp": "morsegados",
+    "fp": "morsegadas"
+  }
+}

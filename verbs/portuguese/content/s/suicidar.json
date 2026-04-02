@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suicidar"
+  },
+  "InfP": {
+    "1s": "suicidar",
+    "2s": "suicidares",
+    "3s": "suicidar",
+    "1p": "suicidarmos",
+    "2p": "suicidardes",
+    "3p": "suicidarem"
+  },
+  "Ger": {
+    "": "suicidando"
+  },
+  "PresI": {
+    "1s": "suicido",
+    "2s": "suicidas",
+    "3s": "suicida",
+    "1p": "suicidamos",
+    "2p": "suicidais",
+    "3p": "suicidam"
+  },
+  "PImpI": {
+    "1s": "suicidava",
+    "2s": "suicidavas",
+    "3s": "suicidava",
+    "1p": "suicidávamos",
+    "2p": "suicidáveis",
+    "3p": "suicidavam"
+  },
+  "PPSI": {
+    "1s": "suicidei",
+    "2s": "suicidaste",
+    "3s": "suicidou",
+    "1p": "suicidámos",
+    "2p": "suicidastes",
+    "3p": "suicidaram"
+  },
+  "PMQPSI": {
+    "1s": "suicidara",
+    "2s": "suicidaras",
+    "3s": "suicidara",
+    "1p": "suicidáramos",
+    "2p": "suicidáreis",
+    "3p": "suicidaram"
+  },
+  "FutSI": {
+    "1s": "suicidarei",
+    "2s": "suicidarás",
+    "3s": "suicidará",
+    "1p": "suicidaremos",
+    "2p": "suicidareis",
+    "3p": "suicidarão"
+  },
+  "CondS": {
+    "1s": "suicidaria",
+    "2s": "suicidarias",
+    "3s": "suicidaria",
+    "1p": "suicidaríamos",
+    "2p": "suicidaríeis",
+    "3p": "suicidariam"
+  },
+  "PresC": {
+    "1s": "suicide",
+    "2s": "suicides",
+    "3s": "suicide",
+    "1p": "suicidemos",
+    "2p": "suicideis",
+    "3p": "suicidem"
+  },
+  "PImpC": {
+    "1s": "suicidasse",
+    "2s": "suicidasses",
+    "3s": "suicidasse",
+    "1p": "suicidássemos",
+    "2p": "suicidásseis",
+    "3p": "suicidassem"
+  },
+  "FutSC": {
+    "1s": "suicidar",
+    "2s": "suicidares",
+    "3s": "suicidar",
+    "1p": "suicidarmos",
+    "2p": "suicidardes",
+    "3p": "suicidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suicida",
+    "3s": "suicide",
+    "1p": "suicidemos",
+    "2p": "suicidai",
+    "3p": "suicidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não suicides",
+    "3s": "não suicide",
+    "1p": "não suicidemos",
+    "2p": "não suicideis",
+    "3p": "não suicidem"
+  },
+  "Part-ter": {
+    "": "suicidado"
+  },
+  "Part-ser": {
+    "ms": "suicidado",
+    "fs": "suicidada",
+    "mp": "suicidados",
+    "fp": "suicidadas"
+  }
+}

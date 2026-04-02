@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pender"
+  },
+  "InfP": {
+    "1s": "pender",
+    "2s": "penderes",
+    "3s": "pender",
+    "1p": "pendermos",
+    "2p": "penderdes",
+    "3p": "penderem"
+  },
+  "Ger": {
+    "": "pendendo"
+  },
+  "PresI": {
+    "1s": "pendo",
+    "2s": "pendes",
+    "3s": "pende",
+    "1p": "pendemos",
+    "2p": "pendeis",
+    "3p": "pendem"
+  },
+  "PImpI": {
+    "1s": "pendia",
+    "2s": "pendias",
+    "3s": "pendia",
+    "1p": "pendíamos",
+    "2p": "pendíeis",
+    "3p": "pendiam"
+  },
+  "PPSI": {
+    "1s": "pendi",
+    "2s": "pendeste",
+    "3s": "pendeu",
+    "1p": "pendemos",
+    "2p": "pendestes",
+    "3p": "penderam"
+  },
+  "PMQPSI": {
+    "1s": "pendera",
+    "2s": "penderas",
+    "3s": "pendera",
+    "1p": "pendêramos",
+    "2p": "pendêreis",
+    "3p": "penderam"
+  },
+  "FutSI": {
+    "1s": "penderei",
+    "2s": "penderás",
+    "3s": "penderá",
+    "1p": "penderemos",
+    "2p": "pendereis",
+    "3p": "penderão"
+  },
+  "CondS": {
+    "1s": "penderia",
+    "2s": "penderias",
+    "3s": "penderia",
+    "1p": "penderíamos",
+    "2p": "penderíeis",
+    "3p": "penderiam"
+  },
+  "PresC": {
+    "1s": "penda",
+    "2s": "pendas",
+    "3s": "penda",
+    "1p": "pendamos",
+    "2p": "pendais",
+    "3p": "pendam"
+  },
+  "PImpC": {
+    "1s": "pendesse",
+    "2s": "pendesses",
+    "3s": "pendesse",
+    "1p": "pendêssemos",
+    "2p": "pendêsseis",
+    "3p": "pendessem"
+  },
+  "FutSC": {
+    "1s": "pender",
+    "2s": "penderes",
+    "3s": "pender",
+    "1p": "pendermos",
+    "2p": "penderdes",
+    "3p": "penderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pende",
+    "3s": "penda",
+    "1p": "pendamos",
+    "2p": "pendei",
+    "3p": "pendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pendas",
+    "3s": "não penda",
+    "1p": "não pendamos",
+    "2p": "não pendais",
+    "3p": "não pendam"
+  },
+  "Part-ter": {
+    "": "pendido"
+  },
+  "Part-ser": {
+    "ms": "pendido",
+    "fs": "pendida",
+    "mp": "pendidos",
+    "fp": "pendidas"
+  }
+}

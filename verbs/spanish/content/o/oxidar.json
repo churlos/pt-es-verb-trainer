@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "oxidar"
+  },
+  "Ger": {
+    "": "oxidando"
+  },
+  "PresI": {
+    "1s": "oxido",
+    "2s": "oxidas",
+    "3s": "oxida",
+    "1p": "oxidamos",
+    "2p": "oxidáis",
+    "3p": "oxidan"
+  },
+  "PImpI": {
+    "1s": "oxidaba",
+    "2s": "oxidabas",
+    "3s": "oxidaba",
+    "1p": "oxidábamos",
+    "2p": "oxidabais",
+    "3p": "oxidaban"
+  },
+  "PPSI": {
+    "1s": "oxidé",
+    "2s": "oxidaste",
+    "3s": "oxidó",
+    "1p": "oxidamos",
+    "2p": "oxidasteis",
+    "3p": "oxidaron"
+  },
+  "FutSI": {
+    "1s": "oxidaré",
+    "2s": "oxidarás",
+    "3s": "oxidará",
+    "1p": "oxidaremos",
+    "2p": "oxidaréis",
+    "3p": "oxidarán"
+  },
+  "CondS": {
+    "1s": "oxidaría",
+    "2s": "oxidarías",
+    "3s": "oxidaría",
+    "1p": "oxidaríamos",
+    "2p": "oxidaríais",
+    "3p": "oxidarían"
+  },
+  "PresC": {
+    "1s": "oxide",
+    "2s": "oxides",
+    "3s": "oxide",
+    "1p": "oxidemos",
+    "2p": "oxidéis",
+    "3p": "oxiden"
+  },
+  "PMQPSI": {
+    "1s": "oxidara",
+    "2s": "oxidaras",
+    "3s": "oxidara",
+    "1p": "oxidáramos",
+    "2p": "oxidarais",
+    "3p": "oxidaran"
+  },
+  "PImpC": {
+    "1s": "oxidase",
+    "2s": "oxidases",
+    "3s": "oxidase",
+    "1p": "oxidásemos",
+    "2p": "oxidaseis",
+    "3p": "oxidasen"
+  },
+  "FutSC": {
+    "1s": "oxidare",
+    "2s": "oxidares",
+    "3s": "oxidare",
+    "1p": "oxidáremos",
+    "2p": "oxidareis",
+    "3p": "oxidaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "oxida",
+    "3s": "oxide",
+    "1p": "oxidemos",
+    "2p": "oxidad",
+    "3p": "oxiden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no oxides",
+    "3s": "no oxide",
+    "1p": "no oxidemos",
+    "2p": "no oxidéis",
+    "3p": "no oxiden"
+  },
+  "Part-ter": {
+    "": "oxidado"
+  },
+  "Part-ser": {
+    "ms": "oxidado",
+    "fs": "oxidada",
+    "mp": "oxidados",
+    "fp": "oxidadas"
+  }
+}

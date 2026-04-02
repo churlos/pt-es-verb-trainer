@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "moderar"
+  },
+  "Ger": {
+    "": "moderando"
+  },
+  "PresI": {
+    "1s": "modero",
+    "2s": "moderas",
+    "3s": "modera",
+    "1p": "moderamos",
+    "2p": "moderáis",
+    "3p": "moderan"
+  },
+  "PImpI": {
+    "1s": "moderaba",
+    "2s": "moderabas",
+    "3s": "moderaba",
+    "1p": "moderábamos",
+    "2p": "moderabais",
+    "3p": "moderaban"
+  },
+  "PPSI": {
+    "1s": "moderé",
+    "2s": "moderaste",
+    "3s": "moderó",
+    "1p": "moderamos",
+    "2p": "moderasteis",
+    "3p": "moderaron"
+  },
+  "FutSI": {
+    "1s": "moderaré",
+    "2s": "moderarás",
+    "3s": "moderará",
+    "1p": "moderaremos",
+    "2p": "moderaréis",
+    "3p": "moderarán"
+  },
+  "CondS": {
+    "1s": "moderaría",
+    "2s": "moderarías",
+    "3s": "moderaría",
+    "1p": "moderaríamos",
+    "2p": "moderaríais",
+    "3p": "moderarían"
+  },
+  "PresC": {
+    "1s": "modere",
+    "2s": "moderes",
+    "3s": "modere",
+    "1p": "moderemos",
+    "2p": "moderéis",
+    "3p": "moderen"
+  },
+  "PMQPSI": {
+    "1s": "moderara",
+    "2s": "moderaras",
+    "3s": "moderara",
+    "1p": "moderáramos",
+    "2p": "moderarais",
+    "3p": "moderaran"
+  },
+  "PImpC": {
+    "1s": "moderase",
+    "2s": "moderases",
+    "3s": "moderase",
+    "1p": "moderásemos",
+    "2p": "moderaseis",
+    "3p": "moderasen"
+  },
+  "FutSC": {
+    "1s": "moderare",
+    "2s": "moderares",
+    "3s": "moderare",
+    "1p": "moderáremos",
+    "2p": "moderareis",
+    "3p": "moderaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modera",
+    "3s": "modere",
+    "1p": "moderemos",
+    "2p": "moderad",
+    "3p": "moderen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no moderes",
+    "3s": "no modere",
+    "1p": "no moderemos",
+    "2p": "no moderéis",
+    "3p": "no moderen"
+  },
+  "Part-ter": {
+    "": "moderado"
+  },
+  "Part-ser": {
+    "ms": "moderado",
+    "fs": "moderada",
+    "mp": "moderados",
+    "fp": "moderadas"
+  }
+}

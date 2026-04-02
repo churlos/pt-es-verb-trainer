@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "silvar"
+  },
+  "InfP": {
+    "1s": "silvar",
+    "2s": "silvares",
+    "3s": "silvar",
+    "1p": "silvarmos",
+    "2p": "silvardes",
+    "3p": "silvarem"
+  },
+  "Ger": {
+    "": "silvando"
+  },
+  "PresI": {
+    "1s": "silvo",
+    "2s": "silvas",
+    "3s": "silva",
+    "1p": "silvamos",
+    "2p": "silvais",
+    "3p": "silvam"
+  },
+  "PImpI": {
+    "1s": "silvava",
+    "2s": "silvavas",
+    "3s": "silvava",
+    "1p": "silvávamos",
+    "2p": "silváveis",
+    "3p": "silvavam"
+  },
+  "PPSI": {
+    "1s": "silvei",
+    "2s": "silvaste",
+    "3s": "silvou",
+    "1p": "silvámos",
+    "2p": "silvastes",
+    "3p": "silvaram"
+  },
+  "PMQPSI": {
+    "1s": "silvara",
+    "2s": "silvaras",
+    "3s": "silvara",
+    "1p": "silváramos",
+    "2p": "silváreis",
+    "3p": "silvaram"
+  },
+  "FutSI": {
+    "1s": "silvarei",
+    "2s": "silvarás",
+    "3s": "silvará",
+    "1p": "silvaremos",
+    "2p": "silvareis",
+    "3p": "silvarão"
+  },
+  "CondS": {
+    "1s": "silvaria",
+    "2s": "silvarias",
+    "3s": "silvaria",
+    "1p": "silvaríamos",
+    "2p": "silvaríeis",
+    "3p": "silvariam"
+  },
+  "PresC": {
+    "1s": "silve",
+    "2s": "silves",
+    "3s": "silve",
+    "1p": "silvemos",
+    "2p": "silveis",
+    "3p": "silvem"
+  },
+  "PImpC": {
+    "1s": "silvasse",
+    "2s": "silvasses",
+    "3s": "silvasse",
+    "1p": "silvássemos",
+    "2p": "silvásseis",
+    "3p": "silvassem"
+  },
+  "FutSC": {
+    "1s": "silvar",
+    "2s": "silvares",
+    "3s": "silvar",
+    "1p": "silvarmos",
+    "2p": "silvardes",
+    "3p": "silvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "silva",
+    "3s": "silve",
+    "1p": "silvemos",
+    "2p": "silvai",
+    "3p": "silvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não silves",
+    "3s": "não silve",
+    "1p": "não silvemos",
+    "2p": "não silveis",
+    "3p": "não silvem"
+  },
+  "Part-ter": {
+    "": "silvado"
+  },
+  "Part-ser": {
+    "ms": "silvado",
+    "fs": "silvada",
+    "mp": "silvados",
+    "fp": "silvadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "modelar"
+  },
+  "Ger": {
+    "": "modelando"
+  },
+  "PresI": {
+    "1s": "modelo",
+    "2s": "modelas",
+    "3s": "modela",
+    "1p": "modelamos",
+    "2p": "modeláis",
+    "3p": "modelan"
+  },
+  "PImpI": {
+    "1s": "modelaba",
+    "2s": "modelabas",
+    "3s": "modelaba",
+    "1p": "modelábamos",
+    "2p": "modelabais",
+    "3p": "modelaban"
+  },
+  "PPSI": {
+    "1s": "modelé",
+    "2s": "modelaste",
+    "3s": "modeló",
+    "1p": "modelamos",
+    "2p": "modelasteis",
+    "3p": "modelaron"
+  },
+  "FutSI": {
+    "1s": "modelaré",
+    "2s": "modelarás",
+    "3s": "modelará",
+    "1p": "modelaremos",
+    "2p": "modelaréis",
+    "3p": "modelarán"
+  },
+  "CondS": {
+    "1s": "modelaría",
+    "2s": "modelarías",
+    "3s": "modelaría",
+    "1p": "modelaríamos",
+    "2p": "modelaríais",
+    "3p": "modelarían"
+  },
+  "PresC": {
+    "1s": "modele",
+    "2s": "modeles",
+    "3s": "modele",
+    "1p": "modelemos",
+    "2p": "modeléis",
+    "3p": "modelen"
+  },
+  "PMQPSI": {
+    "1s": "modelara",
+    "2s": "modelaras",
+    "3s": "modelara",
+    "1p": "modeláramos",
+    "2p": "modelarais",
+    "3p": "modelaran"
+  },
+  "PImpC": {
+    "1s": "modelase",
+    "2s": "modelases",
+    "3s": "modelase",
+    "1p": "modelásemos",
+    "2p": "modelaseis",
+    "3p": "modelasen"
+  },
+  "FutSC": {
+    "1s": "modelare",
+    "2s": "modelares",
+    "3s": "modelare",
+    "1p": "modeláremos",
+    "2p": "modelareis",
+    "3p": "modelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modela",
+    "3s": "modele",
+    "1p": "modelemos",
+    "2p": "modelad",
+    "3p": "modelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no modeles",
+    "3s": "no modele",
+    "1p": "no modelemos",
+    "2p": "no modeléis",
+    "3p": "no modelen"
+  },
+  "Part-ter": {
+    "": "modelado"
+  },
+  "Part-ser": {
+    "ms": "modelado",
+    "fs": "modelada",
+    "mp": "modelados",
+    "fp": "modeladas"
+  }
+}

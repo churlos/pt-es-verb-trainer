@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "matarse"
+  },
+  "Ger": {
+    "": "matándose"
+  },
+  "PresI": {
+    "1s": "me mato",
+    "2s": "te matas",
+    "3s": "se mata",
+    "1p": "nos matamos",
+    "2p": "os matáis",
+    "3p": "se matan"
+  },
+  "PImpI": {
+    "1s": "me mataba",
+    "2s": "te matabas",
+    "3s": "se mataba",
+    "1p": "nos matábamos",
+    "2p": "os matabais",
+    "3p": "se mataban"
+  },
+  "PPSI": {
+    "1s": "me maté",
+    "2s": "te mataste",
+    "3s": "se mató",
+    "1p": "nos matamos",
+    "2p": "os matasteis",
+    "3p": "se mataron"
+  },
+  "FutSI": {
+    "1s": "me mataré",
+    "2s": "te matarás",
+    "3s": "se matará",
+    "1p": "nos mataremos",
+    "2p": "os mataréis",
+    "3p": "se matarán"
+  },
+  "CondS": {
+    "1s": "me mataría",
+    "2s": "te matarías",
+    "3s": "se mataría",
+    "1p": "nos mataríamos",
+    "2p": "os mataríais",
+    "3p": "se matarían"
+  },
+  "PresC": {
+    "1s": "me mate",
+    "2s": "te mates",
+    "3s": "se mate",
+    "1p": "nos matemos",
+    "2p": "os matéis",
+    "3p": "se maten"
+  },
+  "PMQPSI": {
+    "1s": "me matara",
+    "2s": "te mataras",
+    "3s": "se matara",
+    "1p": "nos matáramos",
+    "2p": "os matarais",
+    "3p": "se mataran"
+  },
+  "PImpC": {
+    "1s": "me matase",
+    "2s": "te matases",
+    "3s": "se matase",
+    "1p": "nos matásemos",
+    "2p": "os mataseis",
+    "3p": "se matasen"
+  },
+  "FutSC": {
+    "1s": "me matare",
+    "2s": "te matares",
+    "3s": "se matare",
+    "1p": "nos matáremos",
+    "2p": "os matareis",
+    "3p": "se mataren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mátate",
+    "3s": "mátese",
+    "1p": "matémonos",
+    "2p": "mataos",
+    "3p": "mátense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te mates",
+    "3s": "no se mate",
+    "1p": "no nos matemos",
+    "2p": "no os matéis",
+    "3p": "no se maten"
+  },
+  "Part-ter": {
+    "": "matado"
+  },
+  "Part-ser": {
+    "ms": "matado",
+    "fs": "matada",
+    "mp": "matados",
+    "fp": "matadas"
+  }
+}

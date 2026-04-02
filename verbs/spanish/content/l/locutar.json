@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "locutar"
+  },
+  "Ger": {
+    "": "locutando"
+  },
+  "PresI": {
+    "1s": "locuto",
+    "2s": "locutas",
+    "3s": "locuta",
+    "1p": "locutamos",
+    "2p": "locutáis",
+    "3p": "locutan"
+  },
+  "PImpI": {
+    "1s": "locutaba",
+    "2s": "locutabas",
+    "3s": "locutaba",
+    "1p": "locutábamos",
+    "2p": "locutabais",
+    "3p": "locutaban"
+  },
+  "PPSI": {
+    "1s": "locuté",
+    "2s": "locutaste",
+    "3s": "locutó",
+    "1p": "locutamos",
+    "2p": "locutasteis",
+    "3p": "locutaron"
+  },
+  "FutSI": {
+    "1s": "locutaré",
+    "2s": "locutarás",
+    "3s": "locutará",
+    "1p": "locutaremos",
+    "2p": "locutaréis",
+    "3p": "locutarán"
+  },
+  "CondS": {
+    "1s": "locutaría",
+    "2s": "locutarías",
+    "3s": "locutaría",
+    "1p": "locutaríamos",
+    "2p": "locutaríais",
+    "3p": "locutarían"
+  },
+  "PresC": {
+    "1s": "locute",
+    "2s": "locutes",
+    "3s": "locute",
+    "1p": "locutemos",
+    "2p": "locutéis",
+    "3p": "locuten"
+  },
+  "PMQPSI": {
+    "1s": "locutara",
+    "2s": "locutaras",
+    "3s": "locutara",
+    "1p": "locutáramos",
+    "2p": "locutarais",
+    "3p": "locutaran"
+  },
+  "PImpC": {
+    "1s": "locutase",
+    "2s": "locutases",
+    "3s": "locutase",
+    "1p": "locutásemos",
+    "2p": "locutaseis",
+    "3p": "locutasen"
+  },
+  "FutSC": {
+    "1s": "locutare",
+    "2s": "locutares",
+    "3s": "locutare",
+    "1p": "locutáremos",
+    "2p": "locutareis",
+    "3p": "locutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "locuta",
+    "3s": "locute",
+    "1p": "locutemos",
+    "2p": "locutad",
+    "3p": "locuten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no locutes",
+    "3s": "no locute",
+    "1p": "no locutemos",
+    "2p": "no locutéis",
+    "3p": "no locuten"
+  },
+  "Part-ter": {
+    "": "locutado"
+  },
+  "Part-ser": {
+    "ms": "locutado",
+    "fs": "locutada",
+    "mp": "locutados",
+    "fp": "locutadas"
+  }
+}

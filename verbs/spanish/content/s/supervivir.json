@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "supervivir"
+  },
+  "Ger": {
+    "": "superviviendo"
+  },
+  "PresI": {
+    "1s": "supervivo",
+    "2s": "supervives",
+    "3s": "supervive",
+    "1p": "supervivimos",
+    "2p": "supervivís",
+    "3p": "superviven"
+  },
+  "PImpI": {
+    "1s": "supervivía",
+    "2s": "supervivías",
+    "3s": "supervivía",
+    "1p": "supervivíamos",
+    "2p": "supervivíais",
+    "3p": "supervivían"
+  },
+  "PPSI": {
+    "1s": "superviví",
+    "2s": "superviviste",
+    "3s": "supervivió",
+    "1p": "supervivimos",
+    "2p": "supervivisteis",
+    "3p": "supervivieron"
+  },
+  "FutSI": {
+    "1s": "superviviré",
+    "2s": "supervivirás",
+    "3s": "supervivirá",
+    "1p": "superviviremos",
+    "2p": "superviviréis",
+    "3p": "supervivirán"
+  },
+  "CondS": {
+    "1s": "superviviría",
+    "2s": "supervivirías",
+    "3s": "superviviría",
+    "1p": "superviviríamos",
+    "2p": "superviviríais",
+    "3p": "supervivirían"
+  },
+  "PresC": {
+    "1s": "superviva",
+    "2s": "supervivas",
+    "3s": "superviva",
+    "1p": "supervivamos",
+    "2p": "superviváis",
+    "3p": "supervivan"
+  },
+  "PMQPSI": {
+    "1s": "superviviera",
+    "2s": "supervivieras",
+    "3s": "superviviera",
+    "1p": "superviviéramos",
+    "2p": "supervivierais",
+    "3p": "supervivieran"
+  },
+  "PImpC": {
+    "1s": "superviviese",
+    "2s": "supervivieses",
+    "3s": "superviviese",
+    "1p": "superviviésemos",
+    "2p": "supervivieseis",
+    "3p": "superviviesen"
+  },
+  "FutSC": {
+    "1s": "superviviere",
+    "2s": "supervivieres",
+    "3s": "superviviere",
+    "1p": "superviviéremos",
+    "2p": "superviviereis",
+    "3p": "supervivieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "supervive",
+    "3s": "superviva",
+    "1p": "supervivamos",
+    "2p": "supervivid",
+    "3p": "supervivan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no supervivas",
+    "3s": "no superviva",
+    "1p": "no supervivamos",
+    "2p": "no superviváis",
+    "3p": "no supervivan"
+  },
+  "Part-ter": {
+    "": "supervivido"
+  },
+  "Part-ser": {
+    "ms": "supervivido",
+    "fs": "supervivida",
+    "mp": "supervividos",
+    "fp": "supervividas"
+  }
+}

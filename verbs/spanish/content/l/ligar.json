@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ligar"
+  },
+  "Ger": {
+    "": "ligando"
+  },
+  "PresI": {
+    "1s": "ligo",
+    "2s": "ligas",
+    "3s": "liga",
+    "1p": "ligamos",
+    "2p": "ligáis",
+    "3p": "ligan"
+  },
+  "PImpI": {
+    "1s": "ligaba",
+    "2s": "ligabas",
+    "3s": "ligaba",
+    "1p": "ligábamos",
+    "2p": "ligabais",
+    "3p": "ligaban"
+  },
+  "PPSI": {
+    "1s": "ligué",
+    "2s": "ligaste",
+    "3s": "ligó",
+    "1p": "ligamos",
+    "2p": "ligasteis",
+    "3p": "ligaron"
+  },
+  "FutSI": {
+    "1s": "ligaré",
+    "2s": "ligarás",
+    "3s": "ligará",
+    "1p": "ligaremos",
+    "2p": "ligaréis",
+    "3p": "ligarán"
+  },
+  "CondS": {
+    "1s": "ligaría",
+    "2s": "ligarías",
+    "3s": "ligaría",
+    "1p": "ligaríamos",
+    "2p": "ligaríais",
+    "3p": "ligarían"
+  },
+  "PresC": {
+    "1s": "ligue",
+    "2s": "ligues",
+    "3s": "ligue",
+    "1p": "liguemos",
+    "2p": "liguéis",
+    "3p": "liguen"
+  },
+  "PMQPSI": {
+    "1s": "ligara",
+    "2s": "ligaras",
+    "3s": "ligara",
+    "1p": "ligáramos",
+    "2p": "ligarais",
+    "3p": "ligaran"
+  },
+  "PImpC": {
+    "1s": "ligase",
+    "2s": "ligases",
+    "3s": "ligase",
+    "1p": "ligásemos",
+    "2p": "ligaseis",
+    "3p": "ligasen"
+  },
+  "FutSC": {
+    "1s": "ligare",
+    "2s": "ligares",
+    "3s": "ligare",
+    "1p": "ligáremos",
+    "2p": "ligareis",
+    "3p": "ligaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "liga",
+    "3s": "ligue",
+    "1p": "liguemos",
+    "2p": "ligad",
+    "3p": "liguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ligues",
+    "3s": "no ligue",
+    "1p": "no liguemos",
+    "2p": "no liguéis",
+    "3p": "no liguen"
+  },
+  "Part-ter": {
+    "": "ligado"
+  },
+  "Part-ser": {
+    "ms": "ligado",
+    "fs": "ligada",
+    "mp": "ligados",
+    "fp": "ligadas"
+  }
+}

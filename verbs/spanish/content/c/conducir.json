@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conducir"
+  },
+  "Ger": {
+    "": "conduciendo"
+  },
+  "PresI": {
+    "1s": "conduzco",
+    "2s": "conduces",
+    "3s": "conduce",
+    "1p": "conducimos",
+    "2p": "conducís",
+    "3p": "conducen"
+  },
+  "PImpI": {
+    "1s": "conducía",
+    "2s": "conducías",
+    "3s": "conducía",
+    "1p": "conducíamos",
+    "2p": "conducíais",
+    "3p": "conducían"
+  },
+  "PPSI": {
+    "1s": "conduje",
+    "2s": "condujiste",
+    "3s": "condujo",
+    "1p": "condujimos",
+    "2p": "condujisteis",
+    "3p": "condujeron"
+  },
+  "FutSI": {
+    "1s": "conduciré",
+    "2s": "conducirás",
+    "3s": "conducirá",
+    "1p": "conduciremos",
+    "2p": "conduciréis",
+    "3p": "conducirán"
+  },
+  "CondS": {
+    "1s": "conduciría",
+    "2s": "conducirías",
+    "3s": "conduciría",
+    "1p": "conduciríamos",
+    "2p": "conduciríais",
+    "3p": "conducirían"
+  },
+  "PresC": {
+    "1s": "conduzca",
+    "2s": "conduzcas",
+    "3s": "conduzca",
+    "1p": "conduzcamos",
+    "2p": "conduzcáis",
+    "3p": "conduzcan"
+  },
+  "PMQPSI": {
+    "1s": "condujera",
+    "2s": "condujeras",
+    "3s": "condujera",
+    "1p": "condujéramos",
+    "2p": "condujerais",
+    "3p": "condujeran"
+  },
+  "PImpC": {
+    "1s": "condujese",
+    "2s": "condujeses",
+    "3s": "condujese",
+    "1p": "condujésemos",
+    "2p": "condujeseis",
+    "3p": "condujesen"
+  },
+  "FutSC": {
+    "1s": "condujere",
+    "2s": "condujeres",
+    "3s": "condujere",
+    "1p": "condujéremos",
+    "2p": "condujereis",
+    "3p": "condujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conduce",
+    "3s": "conduzca",
+    "1p": "conduzcamos",
+    "2p": "conducid",
+    "3p": "conduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conduzcas",
+    "3s": "no conduzca",
+    "1p": "no conduzcamos",
+    "2p": "no conduzcáis",
+    "3p": "no conduzcan"
+  },
+  "Part-ter": {
+    "": "conducido"
+  },
+  "Part-ser": {
+    "ms": "conducido",
+    "fs": "conducida",
+    "mp": "conducidos",
+    "fp": "conducidas"
+  }
+}

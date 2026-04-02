@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "medir"
+  },
+  "Ger": {
+    "": "midiendo"
+  },
+  "PresI": {
+    "1s": "mido",
+    "2s": "mides",
+    "3s": "mide",
+    "1p": "medimos",
+    "2p": "medís",
+    "3p": "miden"
+  },
+  "PImpI": {
+    "1s": "medía",
+    "2s": "medías",
+    "3s": "medía",
+    "1p": "medíamos",
+    "2p": "medíais",
+    "3p": "medían"
+  },
+  "PPSI": {
+    "1s": "medí",
+    "2s": "mediste",
+    "3s": "midió",
+    "1p": "medimos",
+    "2p": "medisteis",
+    "3p": "midieron"
+  },
+  "FutSI": {
+    "1s": "mediré",
+    "2s": "medirás",
+    "3s": "medirá",
+    "1p": "mediremos",
+    "2p": "mediréis",
+    "3p": "medirán"
+  },
+  "CondS": {
+    "1s": "mediría",
+    "2s": "medirías",
+    "3s": "mediría",
+    "1p": "mediríamos",
+    "2p": "mediríais",
+    "3p": "medirían"
+  },
+  "PresC": {
+    "1s": "mida",
+    "2s": "midas",
+    "3s": "mida",
+    "1p": "midamos",
+    "2p": "midáis",
+    "3p": "midan"
+  },
+  "PMQPSI": {
+    "1s": "midiera",
+    "2s": "midieras",
+    "3s": "midiera",
+    "1p": "midiéramos",
+    "2p": "midierais",
+    "3p": "midieran"
+  },
+  "PImpC": {
+    "1s": "midiese",
+    "2s": "midieses",
+    "3s": "midiese",
+    "1p": "midiésemos",
+    "2p": "midieseis",
+    "3p": "midiesen"
+  },
+  "FutSC": {
+    "1s": "midiere",
+    "2s": "midieres",
+    "3s": "midiere",
+    "1p": "midiéremos",
+    "2p": "midiereis",
+    "3p": "midieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mide",
+    "3s": "mida",
+    "1p": "midamos",
+    "2p": "medid",
+    "3p": "midan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no midas",
+    "3s": "no mida",
+    "1p": "no midamos",
+    "2p": "no midáis",
+    "3p": "no midan"
+  },
+  "Part-ter": {
+    "": "medido"
+  },
+  "Part-ser": {
+    "ms": "medido",
+    "fs": "medida",
+    "mp": "medidos",
+    "fp": "medidas"
+  }
+}

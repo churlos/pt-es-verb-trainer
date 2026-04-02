@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enxaguar"
+  },
+  "InfP": {
+    "1s": "enxaguar",
+    "2s": "enxaguares",
+    "3s": "enxaguar",
+    "1p": "enxaguarmos",
+    "2p": "enxaguardes",
+    "3p": "enxaguarem"
+  },
+  "Ger": {
+    "": "enxaguando"
+  },
+  "PresI": {
+    "1s": "enxáguo",
+    "2s": "enxáguas",
+    "3s": "enxágua",
+    "1p": "enxaguamos",
+    "2p": "enxaguais",
+    "3p": "enxáguam"
+  },
+  "PImpI": {
+    "1s": "enxaguava",
+    "2s": "enxaguavas",
+    "3s": "enxaguava",
+    "1p": "enxaguávamos",
+    "2p": "enxaguáveis",
+    "3p": "enxaguavam"
+  },
+  "PPSI": {
+    "1s": "enxagueiObsolete:enxagüei",
+    "2s": "enxaguaste",
+    "3s": "enxaguou",
+    "1p": "enxaguámos",
+    "2p": "enxaguastes",
+    "3p": "enxaguaram"
+  },
+  "PMQPSI": {
+    "1s": "enxaguara",
+    "2s": "enxaguaras",
+    "3s": "enxaguara",
+    "1p": "enxaguáramos",
+    "2p": "enxaguáreis",
+    "3p": "enxaguaram"
+  },
+  "FutSI": {
+    "1s": "enxaguarei",
+    "2s": "enxaguarás",
+    "3s": "enxaguará",
+    "1p": "enxaguaremos",
+    "2p": "enxaguareis",
+    "3p": "enxaguarão"
+  },
+  "CondS": {
+    "1s": "enxaguaria",
+    "2s": "enxaguarias",
+    "3s": "enxaguaria",
+    "1p": "enxaguaríamos",
+    "2p": "enxaguaríeis",
+    "3p": "enxaguariam"
+  },
+  "PresC": {
+    "1s": "enxágueObsolete:enxágüe",
+    "2s": "enxáguesObsolete:enxágües",
+    "3s": "enxágueObsolete:enxágüe",
+    "1p": "enxaguemosObsolete:enxagüemos",
+    "2p": "enxagueisObsolete:enxagüeis",
+    "3p": "enxáguemObsolete:enxágüem"
+  },
+  "PImpC": {
+    "1s": "enxaguasse",
+    "2s": "enxaguasses",
+    "3s": "enxaguasse",
+    "1p": "enxaguássemos",
+    "2p": "enxaguásseis",
+    "3p": "enxaguassem"
+  },
+  "FutSC": {
+    "1s": "enxaguar",
+    "2s": "enxaguares",
+    "3s": "enxaguar",
+    "1p": "enxaguarmos",
+    "2p": "enxaguardes",
+    "3p": "enxaguarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enxágua",
+    "3s": "enxágueObsolete:enxágüe",
+    "1p": "enxaguemosObsolete:enxagüemos",
+    "2p": "enxaguai",
+    "3p": "enxáguemObsolete:enxágüem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enxáguesObsolete:enxágües",
+    "3s": "não enxágueObsolete:enxágüe",
+    "1p": "não enxaguemosObsolete:enxagüemos",
+    "2p": "não enxagueisObsolete:enxagüeis",
+    "3p": "não enxáguemObsolete:enxágüem"
+  },
+  "Part-ter": {
+    "": "enxaguado"
+  },
+  "Part-ser": {
+    "ms": "enxaguado",
+    "fs": "enxaguada",
+    "mp": "enxaguados",
+    "fp": "enxaguadas"
+  }
+}

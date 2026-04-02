@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoimponerse"
+  },
+  "Ger": {
+    "": "autoimponiéndose"
+  },
+  "PresI": {
+    "1s": "me autoimpongo",
+    "2s": "te autoimpones",
+    "3s": "se autoimpone",
+    "1p": "nos autoimponemos",
+    "2p": "os autoimponéis",
+    "3p": "se autoimponen"
+  },
+  "PImpI": {
+    "1s": "me autoimponía",
+    "2s": "te autoimponías",
+    "3s": "se autoimponía",
+    "1p": "nos autoimponíamos",
+    "2p": "os autoimponíais",
+    "3p": "se autoimponían"
+  },
+  "PPSI": {
+    "1s": "me autoimpuse",
+    "2s": "te autoimpusiste",
+    "3s": "se autoimpuso",
+    "1p": "nos autoimpusimos",
+    "2p": "os autoimpusisteis",
+    "3p": "se autoimpusieron"
+  },
+  "FutSI": {
+    "1s": "me autoimpondré",
+    "2s": "te autoimpondrás",
+    "3s": "se autoimpondrá",
+    "1p": "nos autoimpondremos",
+    "2p": "os autoimpondréis",
+    "3p": "se autoimpondrán"
+  },
+  "CondS": {
+    "1s": "me autoimpondría",
+    "2s": "te autoimpondrías",
+    "3s": "se autoimpondría",
+    "1p": "nos autoimpondríamos",
+    "2p": "os autoimpondríais",
+    "3p": "se autoimpondrían"
+  },
+  "PresC": {
+    "1s": "me autoimponga",
+    "2s": "te autoimpongas",
+    "3s": "se autoimponga",
+    "1p": "nos autoimpongamos",
+    "2p": "os autoimpongáis",
+    "3p": "se autoimpongan"
+  },
+  "PMQPSI": {
+    "1s": "me autoimpusiera",
+    "2s": "te autoimpusieras",
+    "3s": "se autoimpusiera",
+    "1p": "nos autoimpusiéramos",
+    "2p": "os autoimpusierais",
+    "3p": "se autoimpusieran"
+  },
+  "PImpC": {
+    "1s": "me autoimpusiese",
+    "2s": "te autoimpusieses",
+    "3s": "se autoimpusiese",
+    "1p": "nos autoimpusiésemos",
+    "2p": "os autoimpusieseis",
+    "3p": "se autoimpusiesen"
+  },
+  "FutSC": {
+    "1s": "me autoimpusiere",
+    "2s": "te autoimpusieres",
+    "3s": "se autoimpusiere",
+    "1p": "nos autoimpusiéremos",
+    "2p": "os autoimpusiereis",
+    "3p": "se autoimpusieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoimponte",
+    "3s": "autoimpóngase",
+    "1p": "autoimpongámonos",
+    "2p": "autoimponeos",
+    "3p": "autoimpónganse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoimpongas",
+    "3s": "no se autoimponga",
+    "1p": "no nos autoimpongamos",
+    "2p": "no os autoimpongáis",
+    "3p": "no se autoimpongan"
+  },
+  "Part-ter": {
+    "": "autoimpuesto"
+  },
+  "Part-ser": {
+    "ms": "autoimpuesto",
+    "fs": "autoimpuesta",
+    "mp": "autoimpuestos",
+    "fp": "autoimpuestas"
+  }
+}

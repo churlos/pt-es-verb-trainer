@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "terceirizar"
+  },
+  "InfP": {
+    "1s": "terceirizar",
+    "2s": "terceirizares",
+    "3s": "terceirizar",
+    "1p": "terceirizarmos",
+    "2p": "terceirizardes",
+    "3p": "terceirizarem"
+  },
+  "Ger": {
+    "": "terceirizando"
+  },
+  "PresI": {
+    "1s": "terceirizo",
+    "2s": "terceirizas",
+    "3s": "terceiriza",
+    "1p": "terceirizamos",
+    "2p": "terceirizais",
+    "3p": "terceirizam"
+  },
+  "PImpI": {
+    "1s": "terceirizava",
+    "2s": "terceirizavas",
+    "3s": "terceirizava",
+    "1p": "terceirizávamos",
+    "2p": "terceirizáveis",
+    "3p": "terceirizavam"
+  },
+  "PPSI": {
+    "1s": "terceirizei",
+    "2s": "terceirizaste",
+    "3s": "terceirizou",
+    "1p": "terceirizámos",
+    "2p": "terceirizastes",
+    "3p": "terceirizaram"
+  },
+  "PMQPSI": {
+    "1s": "terceirizara",
+    "2s": "terceirizaras",
+    "3s": "terceirizara",
+    "1p": "terceirizáramos",
+    "2p": "terceirizáreis",
+    "3p": "terceirizaram"
+  },
+  "FutSI": {
+    "1s": "terceirizarei",
+    "2s": "terceirizarás",
+    "3s": "terceirizará",
+    "1p": "terceirizaremos",
+    "2p": "terceirizareis",
+    "3p": "terceirizarão"
+  },
+  "CondS": {
+    "1s": "terceirizaria",
+    "2s": "terceirizarias",
+    "3s": "terceirizaria",
+    "1p": "terceirizaríamos",
+    "2p": "terceirizaríeis",
+    "3p": "terceirizariam"
+  },
+  "PresC": {
+    "1s": "terceirize",
+    "2s": "terceirizes",
+    "3s": "terceirize",
+    "1p": "terceirizemos",
+    "2p": "terceirizeis",
+    "3p": "terceirizem"
+  },
+  "PImpC": {
+    "1s": "terceirizasse",
+    "2s": "terceirizasses",
+    "3s": "terceirizasse",
+    "1p": "terceirizássemos",
+    "2p": "terceirizásseis",
+    "3p": "terceirizassem"
+  },
+  "FutSC": {
+    "1s": "terceirizar",
+    "2s": "terceirizares",
+    "3s": "terceirizar",
+    "1p": "terceirizarmos",
+    "2p": "terceirizardes",
+    "3p": "terceirizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "terceiriza",
+    "3s": "terceirize",
+    "1p": "terceirizemos",
+    "2p": "terceirizai",
+    "3p": "terceirizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não terceirizes",
+    "3s": "não terceirize",
+    "1p": "não terceirizemos",
+    "2p": "não terceirizeis",
+    "3p": "não terceirizem"
+  },
+  "Part-ter": {
+    "": "terceirizado"
+  },
+  "Part-ser": {
+    "ms": "terceirizado",
+    "fs": "terceirizada",
+    "mp": "terceirizados",
+    "fp": "terceirizadas"
+  }
+}

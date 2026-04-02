@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inventariar"
+  },
+  "InfP": {
+    "1s": "inventariar",
+    "2s": "inventariares",
+    "3s": "inventariar",
+    "1p": "inventariarmos",
+    "2p": "inventariardes",
+    "3p": "inventariarem"
+  },
+  "Ger": {
+    "": "inventariando"
+  },
+  "PresI": {
+    "1s": "inventario",
+    "2s": "inventarias",
+    "3s": "inventaria",
+    "1p": "inventariamos",
+    "2p": "inventariais",
+    "3p": "inventariam"
+  },
+  "PImpI": {
+    "1s": "inventariava",
+    "2s": "inventariavas",
+    "3s": "inventariava",
+    "1p": "inventariávamos",
+    "2p": "inventariáveis",
+    "3p": "inventariavam"
+  },
+  "PPSI": {
+    "1s": "inventariei",
+    "2s": "inventariaste",
+    "3s": "inventariou",
+    "1p": "inventariámos",
+    "2p": "inventariastes",
+    "3p": "inventariaram"
+  },
+  "PMQPSI": {
+    "1s": "inventariara",
+    "2s": "inventariaras",
+    "3s": "inventariara",
+    "1p": "inventariáramos",
+    "2p": "inventariáreis",
+    "3p": "inventariaram"
+  },
+  "FutSI": {
+    "1s": "inventariarei",
+    "2s": "inventariarás",
+    "3s": "inventariará",
+    "1p": "inventariaremos",
+    "2p": "inventariareis",
+    "3p": "inventariarão"
+  },
+  "CondS": {
+    "1s": "inventariaria",
+    "2s": "inventariarias",
+    "3s": "inventariaria",
+    "1p": "inventariaríamos",
+    "2p": "inventariaríeis",
+    "3p": "inventariariam"
+  },
+  "PresC": {
+    "1s": "inventarie",
+    "2s": "inventaries",
+    "3s": "inventarie",
+    "1p": "inventariemos",
+    "2p": "inventarieis",
+    "3p": "inventariem"
+  },
+  "PImpC": {
+    "1s": "inventariasse",
+    "2s": "inventariasses",
+    "3s": "inventariasse",
+    "1p": "inventariássemos",
+    "2p": "inventariásseis",
+    "3p": "inventariassem"
+  },
+  "FutSC": {
+    "1s": "inventariar",
+    "2s": "inventariares",
+    "3s": "inventariar",
+    "1p": "inventariarmos",
+    "2p": "inventariardes",
+    "3p": "inventariarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inventaria",
+    "3s": "inventarie",
+    "1p": "inventariemos",
+    "2p": "inventariai",
+    "3p": "inventariem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inventaries",
+    "3s": "não inventarie",
+    "1p": "não inventariemos",
+    "2p": "não inventarieis",
+    "3p": "não inventariem"
+  },
+  "Part-ter": {
+    "": "inventariado"
+  },
+  "Part-ser": {
+    "ms": "inventariado",
+    "fs": "inventariada",
+    "mp": "inventariados",
+    "fp": "inventariadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "restabelecer"
+  },
+  "InfP": {
+    "1s": "restabelecer",
+    "2s": "restabeleceres",
+    "3s": "restabelecer",
+    "1p": "restabelecermos",
+    "2p": "restabelecerdes",
+    "3p": "restabelecerem"
+  },
+  "Ger": {
+    "": "restabelecendo"
+  },
+  "PresI": {
+    "1s": "restabeleço",
+    "2s": "restabeleces",
+    "3s": "restabelece",
+    "1p": "restabelecemos",
+    "2p": "restabeleceis",
+    "3p": "restabelecem"
+  },
+  "PImpI": {
+    "1s": "restabelecia",
+    "2s": "restabelecias",
+    "3s": "restabelecia",
+    "1p": "restabelecíamos",
+    "2p": "restabelecíeis",
+    "3p": "restabeleciam"
+  },
+  "PPSI": {
+    "1s": "restabeleci",
+    "2s": "restabeleceste",
+    "3s": "restabeleceu",
+    "1p": "restabelecemos",
+    "2p": "restabelecestes",
+    "3p": "restabeleceram"
+  },
+  "PMQPSI": {
+    "1s": "restabelecera",
+    "2s": "restabeleceras",
+    "3s": "restabelecera",
+    "1p": "restabelecêramos",
+    "2p": "restabelecêreis",
+    "3p": "restabeleceram"
+  },
+  "FutSI": {
+    "1s": "restabelecerei",
+    "2s": "restabelecerás",
+    "3s": "restabelecerá",
+    "1p": "restabeleceremos",
+    "2p": "restabelecereis",
+    "3p": "restabelecerão"
+  },
+  "CondS": {
+    "1s": "restabeleceria",
+    "2s": "restabelecerias",
+    "3s": "restabeleceria",
+    "1p": "restabeleceríamos",
+    "2p": "restabeleceríeis",
+    "3p": "restabeleceriam"
+  },
+  "PresC": {
+    "1s": "restabeleça",
+    "2s": "restabeleças",
+    "3s": "restabeleça",
+    "1p": "restabeleçamos",
+    "2p": "restabeleçais",
+    "3p": "restabeleçam"
+  },
+  "PImpC": {
+    "1s": "restabelecesse",
+    "2s": "restabelecesses",
+    "3s": "restabelecesse",
+    "1p": "restabelecêssemos",
+    "2p": "restabelecêsseis",
+    "3p": "restabelecessem"
+  },
+  "FutSC": {
+    "1s": "restabelecer",
+    "2s": "restabeleceres",
+    "3s": "restabelecer",
+    "1p": "restabelecermos",
+    "2p": "restabelecerdes",
+    "3p": "restabelecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "restabelece",
+    "3s": "restabeleça",
+    "1p": "restabeleçamos",
+    "2p": "restabelecei",
+    "3p": "restabeleçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não restabeleças",
+    "3s": "não restabeleça",
+    "1p": "não restabeleçamos",
+    "2p": "não restabeleçais",
+    "3p": "não restabeleçam"
+  },
+  "Part-ter": {
+    "": "restabelecido"
+  },
+  "Part-ser": {
+    "ms": "restabelecido",
+    "fs": "restabelecida",
+    "mp": "restabelecidos",
+    "fp": "restabelecidas"
+  }
+}

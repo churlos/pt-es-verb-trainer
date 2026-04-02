@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vendimiar"
+  },
+  "Ger": {
+    "": "vendimiando"
+  },
+  "PresI": {
+    "1s": "vendimio",
+    "2s": "vendimias",
+    "3s": "vendimia",
+    "1p": "vendimiamos",
+    "2p": "vendimiáis",
+    "3p": "vendimian"
+  },
+  "PImpI": {
+    "1s": "vendimiaba",
+    "2s": "vendimiabas",
+    "3s": "vendimiaba",
+    "1p": "vendimiábamos",
+    "2p": "vendimiabais",
+    "3p": "vendimiaban"
+  },
+  "PPSI": {
+    "1s": "vendimié",
+    "2s": "vendimiaste",
+    "3s": "vendimió",
+    "1p": "vendimiamos",
+    "2p": "vendimiasteis",
+    "3p": "vendimiaron"
+  },
+  "FutSI": {
+    "1s": "vendimiaré",
+    "2s": "vendimiarás",
+    "3s": "vendimiará",
+    "1p": "vendimiaremos",
+    "2p": "vendimiaréis",
+    "3p": "vendimiarán"
+  },
+  "CondS": {
+    "1s": "vendimiaría",
+    "2s": "vendimiarías",
+    "3s": "vendimiaría",
+    "1p": "vendimiaríamos",
+    "2p": "vendimiaríais",
+    "3p": "vendimiarían"
+  },
+  "PresC": {
+    "1s": "vendimie",
+    "2s": "vendimies",
+    "3s": "vendimie",
+    "1p": "vendimiemos",
+    "2p": "vendimiéis",
+    "3p": "vendimien"
+  },
+  "PMQPSI": {
+    "1s": "vendimiara",
+    "2s": "vendimiaras",
+    "3s": "vendimiara",
+    "1p": "vendimiáramos",
+    "2p": "vendimiarais",
+    "3p": "vendimiaran"
+  },
+  "PImpC": {
+    "1s": "vendimiase",
+    "2s": "vendimiases",
+    "3s": "vendimiase",
+    "1p": "vendimiásemos",
+    "2p": "vendimiaseis",
+    "3p": "vendimiasen"
+  },
+  "FutSC": {
+    "1s": "vendimiare",
+    "2s": "vendimiares",
+    "3s": "vendimiare",
+    "1p": "vendimiáremos",
+    "2p": "vendimiareis",
+    "3p": "vendimiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vendimia",
+    "3s": "vendimie",
+    "1p": "vendimiemos",
+    "2p": "vendimiad",
+    "3p": "vendimien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vendimies",
+    "3s": "no vendimie",
+    "1p": "no vendimiemos",
+    "2p": "no vendimiéis",
+    "3p": "no vendimien"
+  },
+  "Part-ter": {
+    "": "vendimiado"
+  },
+  "Part-ser": {
+    "ms": "vendimiado",
+    "fs": "vendimiada",
+    "mp": "vendimiados",
+    "fp": "vendimiadas"
+  }
+}

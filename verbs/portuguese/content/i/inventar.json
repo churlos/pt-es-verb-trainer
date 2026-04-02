@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inventar"
+  },
+  "InfP": {
+    "1s": "inventar",
+    "2s": "inventares",
+    "3s": "inventar",
+    "1p": "inventarmos",
+    "2p": "inventardes",
+    "3p": "inventarem"
+  },
+  "Ger": {
+    "": "inventando"
+  },
+  "PresI": {
+    "1s": "invento",
+    "2s": "inventas",
+    "3s": "inventa",
+    "1p": "inventamos",
+    "2p": "inventais",
+    "3p": "inventam"
+  },
+  "PImpI": {
+    "1s": "inventava",
+    "2s": "inventavas",
+    "3s": "inventava",
+    "1p": "inventávamos",
+    "2p": "inventáveis",
+    "3p": "inventavam"
+  },
+  "PPSI": {
+    "1s": "inventei",
+    "2s": "inventaste",
+    "3s": "inventou",
+    "1p": "inventámos",
+    "2p": "inventastes",
+    "3p": "inventaram"
+  },
+  "PMQPSI": {
+    "1s": "inventara",
+    "2s": "inventaras",
+    "3s": "inventara",
+    "1p": "inventáramos",
+    "2p": "inventáreis",
+    "3p": "inventaram"
+  },
+  "FutSI": {
+    "1s": "inventarei",
+    "2s": "inventarás",
+    "3s": "inventará",
+    "1p": "inventaremos",
+    "2p": "inventareis",
+    "3p": "inventarão"
+  },
+  "CondS": {
+    "1s": "inventaria",
+    "2s": "inventarias",
+    "3s": "inventaria",
+    "1p": "inventaríamos",
+    "2p": "inventaríeis",
+    "3p": "inventariam"
+  },
+  "PresC": {
+    "1s": "invente",
+    "2s": "inventes",
+    "3s": "invente",
+    "1p": "inventemos",
+    "2p": "inventeis",
+    "3p": "inventem"
+  },
+  "PImpC": {
+    "1s": "inventasse",
+    "2s": "inventasses",
+    "3s": "inventasse",
+    "1p": "inventássemos",
+    "2p": "inventásseis",
+    "3p": "inventassem"
+  },
+  "FutSC": {
+    "1s": "inventar",
+    "2s": "inventares",
+    "3s": "inventar",
+    "1p": "inventarmos",
+    "2p": "inventardes",
+    "3p": "inventarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inventa",
+    "3s": "invente",
+    "1p": "inventemos",
+    "2p": "inventai",
+    "3p": "inventem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inventes",
+    "3s": "não invente",
+    "1p": "não inventemos",
+    "2p": "não inventeis",
+    "3p": "não inventem"
+  },
+  "Part-ter": {
+    "": "inventado"
+  },
+  "Part-ser": {
+    "ms": "inventado",
+    "fs": "inventada",
+    "mp": "inventados",
+    "fp": "inventadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "coger"
+  },
+  "Ger": {
+    "": "cogiendo"
+  },
+  "PresI": {
+    "1s": "cojo",
+    "2s": "coges",
+    "3s": "coge",
+    "1p": "cogemos",
+    "2p": "cogéis",
+    "3p": "cogen"
+  },
+  "PImpI": {
+    "1s": "cogía",
+    "2s": "cogías",
+    "3s": "cogía",
+    "1p": "cogíamos",
+    "2p": "cogíais",
+    "3p": "cogían"
+  },
+  "PPSI": {
+    "1s": "cogí",
+    "2s": "cogiste",
+    "3s": "cogió",
+    "1p": "cogimos",
+    "2p": "cogisteis",
+    "3p": "cogieron"
+  },
+  "FutSI": {
+    "1s": "cogeré",
+    "2s": "cogerás",
+    "3s": "cogerá",
+    "1p": "cogeremos",
+    "2p": "cogeréis",
+    "3p": "cogerán"
+  },
+  "CondS": {
+    "1s": "cogería",
+    "2s": "cogerías",
+    "3s": "cogería",
+    "1p": "cogeríamos",
+    "2p": "cogeríais",
+    "3p": "cogerían"
+  },
+  "PresC": {
+    "1s": "coja",
+    "2s": "cojas",
+    "3s": "coja",
+    "1p": "cojamos",
+    "2p": "cojáis",
+    "3p": "cojan"
+  },
+  "PMQPSI": {
+    "1s": "cogiera",
+    "2s": "cogieras",
+    "3s": "cogiera",
+    "1p": "cogiéramos",
+    "2p": "cogierais",
+    "3p": "cogieran"
+  },
+  "PImpC": {
+    "1s": "cogiese",
+    "2s": "cogieses",
+    "3s": "cogiese",
+    "1p": "cogiésemos",
+    "2p": "cogieseis",
+    "3p": "cogiesen"
+  },
+  "FutSC": {
+    "1s": "cogiere",
+    "2s": "cogieres",
+    "3s": "cogiere",
+    "1p": "cogiéremos",
+    "2p": "cogiereis",
+    "3p": "cogieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coge",
+    "3s": "coja",
+    "1p": "cojamos",
+    "2p": "coged",
+    "3p": "cojan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cojas",
+    "3s": "no coja",
+    "1p": "no cojamos",
+    "2p": "no cojáis",
+    "3p": "no cojan"
+  },
+  "Part-ter": {
+    "": "cogido"
+  },
+  "Part-ser": {
+    "ms": "cogido",
+    "fs": "cogida",
+    "mp": "cogidos",
+    "fp": "cogidas"
+  }
+}

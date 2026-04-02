@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "acumular"
+  },
+  "Ger": {
+    "": "acumulando"
+  },
+  "PresI": {
+    "1s": "acumulo",
+    "2s": "acumulas",
+    "3s": "acumula",
+    "1p": "acumulamos",
+    "2p": "acumuláis",
+    "3p": "acumulan"
+  },
+  "PImpI": {
+    "1s": "acumulaba",
+    "2s": "acumulabas",
+    "3s": "acumulaba",
+    "1p": "acumulábamos",
+    "2p": "acumulabais",
+    "3p": "acumulaban"
+  },
+  "PPSI": {
+    "1s": "acumulé",
+    "2s": "acumulaste",
+    "3s": "acumuló",
+    "1p": "acumulamos",
+    "2p": "acumulasteis",
+    "3p": "acumularon"
+  },
+  "FutSI": {
+    "1s": "acumularé",
+    "2s": "acumularás",
+    "3s": "acumulará",
+    "1p": "acumularemos",
+    "2p": "acumularéis",
+    "3p": "acumularán"
+  },
+  "CondS": {
+    "1s": "acumularía",
+    "2s": "acumularías",
+    "3s": "acumularía",
+    "1p": "acumularíamos",
+    "2p": "acumularíais",
+    "3p": "acumularían"
+  },
+  "PresC": {
+    "1s": "acumule",
+    "2s": "acumules",
+    "3s": "acumule",
+    "1p": "acumulemos",
+    "2p": "acumuléis",
+    "3p": "acumulen"
+  },
+  "PMQPSI": {
+    "1s": "acumulara",
+    "2s": "acumularas",
+    "3s": "acumulara",
+    "1p": "acumuláramos",
+    "2p": "acumularais",
+    "3p": "acumularan"
+  },
+  "PImpC": {
+    "1s": "acumulase",
+    "2s": "acumulases",
+    "3s": "acumulase",
+    "1p": "acumulásemos",
+    "2p": "acumulaseis",
+    "3p": "acumulasen"
+  },
+  "FutSC": {
+    "1s": "acumulare",
+    "2s": "acumulares",
+    "3s": "acumulare",
+    "1p": "acumuláremos",
+    "2p": "acumulareis",
+    "3p": "acumularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acumula",
+    "3s": "acumule",
+    "1p": "acumulemos",
+    "2p": "acumulad",
+    "3p": "acumulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no acumules",
+    "3s": "no acumule",
+    "1p": "no acumulemos",
+    "2p": "no acumuléis",
+    "3p": "no acumulen"
+  },
+  "Part-ter": {
+    "": "acumulado"
+  },
+  "Part-ser": {
+    "ms": "acumulado",
+    "fs": "acumulada",
+    "mp": "acumulados",
+    "fp": "acumuladas"
+  }
+}

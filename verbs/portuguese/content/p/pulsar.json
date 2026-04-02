@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pulsar"
+  },
+  "InfP": {
+    "1s": "pulsar",
+    "2s": "pulsares",
+    "3s": "pulsar",
+    "1p": "pulsarmos",
+    "2p": "pulsardes",
+    "3p": "pulsarem"
+  },
+  "Ger": {
+    "": "pulsando"
+  },
+  "PresI": {
+    "1s": "pulso",
+    "2s": "pulsas",
+    "3s": "pulsa",
+    "1p": "pulsamos",
+    "2p": "pulsais",
+    "3p": "pulsam"
+  },
+  "PImpI": {
+    "1s": "pulsava",
+    "2s": "pulsavas",
+    "3s": "pulsava",
+    "1p": "pulsávamos",
+    "2p": "pulsáveis",
+    "3p": "pulsavam"
+  },
+  "PPSI": {
+    "1s": "pulsei",
+    "2s": "pulsaste",
+    "3s": "pulsou",
+    "1p": "pulsámos",
+    "2p": "pulsastes",
+    "3p": "pulsaram"
+  },
+  "PMQPSI": {
+    "1s": "pulsara",
+    "2s": "pulsaras",
+    "3s": "pulsara",
+    "1p": "pulsáramos",
+    "2p": "pulsáreis",
+    "3p": "pulsaram"
+  },
+  "FutSI": {
+    "1s": "pulsarei",
+    "2s": "pulsarás",
+    "3s": "pulsará",
+    "1p": "pulsaremos",
+    "2p": "pulsareis",
+    "3p": "pulsarão"
+  },
+  "CondS": {
+    "1s": "pulsaria",
+    "2s": "pulsarias",
+    "3s": "pulsaria",
+    "1p": "pulsaríamos",
+    "2p": "pulsaríeis",
+    "3p": "pulsariam"
+  },
+  "PresC": {
+    "1s": "pulse",
+    "2s": "pulses",
+    "3s": "pulse",
+    "1p": "pulsemos",
+    "2p": "pulseis",
+    "3p": "pulsem"
+  },
+  "PImpC": {
+    "1s": "pulsasse",
+    "2s": "pulsasses",
+    "3s": "pulsasse",
+    "1p": "pulsássemos",
+    "2p": "pulsásseis",
+    "3p": "pulsassem"
+  },
+  "FutSC": {
+    "1s": "pulsar",
+    "2s": "pulsares",
+    "3s": "pulsar",
+    "1p": "pulsarmos",
+    "2p": "pulsardes",
+    "3p": "pulsarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pulsa",
+    "3s": "pulse",
+    "1p": "pulsemos",
+    "2p": "pulsai",
+    "3p": "pulsem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pulses",
+    "3s": "não pulse",
+    "1p": "não pulsemos",
+    "2p": "não pulseis",
+    "3p": "não pulsem"
+  },
+  "Part-ter": {
+    "": "pulsado"
+  },
+  "Part-ser": {
+    "ms": "pulsado",
+    "fs": "pulsada",
+    "mp": "pulsados",
+    "fp": "pulsadas"
+  }
+}

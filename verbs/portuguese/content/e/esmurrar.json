@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esmurrar"
+  },
+  "InfP": {
+    "1s": "esmurrar",
+    "2s": "esmurrares",
+    "3s": "esmurrar",
+    "1p": "esmurrarmos",
+    "2p": "esmurrardes",
+    "3p": "esmurrarem"
+  },
+  "Ger": {
+    "": "esmurrando"
+  },
+  "PresI": {
+    "1s": "esmurro",
+    "2s": "esmurras",
+    "3s": "esmurra",
+    "1p": "esmurramos",
+    "2p": "esmurrais",
+    "3p": "esmurram"
+  },
+  "PImpI": {
+    "1s": "esmurrava",
+    "2s": "esmurravas",
+    "3s": "esmurrava",
+    "1p": "esmurrávamos",
+    "2p": "esmurráveis",
+    "3p": "esmurravam"
+  },
+  "PPSI": {
+    "1s": "esmurrei",
+    "2s": "esmurraste",
+    "3s": "esmurrou",
+    "1p": "esmurrámos",
+    "2p": "esmurrastes",
+    "3p": "esmurraram"
+  },
+  "PMQPSI": {
+    "1s": "esmurrara",
+    "2s": "esmurraras",
+    "3s": "esmurrara",
+    "1p": "esmurráramos",
+    "2p": "esmurráreis",
+    "3p": "esmurraram"
+  },
+  "FutSI": {
+    "1s": "esmurrarei",
+    "2s": "esmurrarás",
+    "3s": "esmurrará",
+    "1p": "esmurraremos",
+    "2p": "esmurrareis",
+    "3p": "esmurrarão"
+  },
+  "CondS": {
+    "1s": "esmurraria",
+    "2s": "esmurrarias",
+    "3s": "esmurraria",
+    "1p": "esmurraríamos",
+    "2p": "esmurraríeis",
+    "3p": "esmurrariam"
+  },
+  "PresC": {
+    "1s": "esmurre",
+    "2s": "esmurres",
+    "3s": "esmurre",
+    "1p": "esmurremos",
+    "2p": "esmurreis",
+    "3p": "esmurrem"
+  },
+  "PImpC": {
+    "1s": "esmurrasse",
+    "2s": "esmurrasses",
+    "3s": "esmurrasse",
+    "1p": "esmurrássemos",
+    "2p": "esmurrásseis",
+    "3p": "esmurrassem"
+  },
+  "FutSC": {
+    "1s": "esmurrar",
+    "2s": "esmurrares",
+    "3s": "esmurrar",
+    "1p": "esmurrarmos",
+    "2p": "esmurrardes",
+    "3p": "esmurrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esmurra",
+    "3s": "esmurre",
+    "1p": "esmurremos",
+    "2p": "esmurrai",
+    "3p": "esmurrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esmurres",
+    "3s": "não esmurre",
+    "1p": "não esmurremos",
+    "2p": "não esmurreis",
+    "3p": "não esmurrem"
+  },
+  "Part-ter": {
+    "": "esmurrado"
+  },
+  "Part-ser": {
+    "ms": "esmurrado",
+    "fs": "esmurrada",
+    "mp": "esmurrados",
+    "fp": "esmurradas"
+  }
+}

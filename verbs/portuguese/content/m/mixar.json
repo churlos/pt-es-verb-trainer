@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mixar"
+  },
+  "InfP": {
+    "1s": "mixar",
+    "2s": "mixares",
+    "3s": "mixar",
+    "1p": "mixarmos",
+    "2p": "mixardes",
+    "3p": "mixarem"
+  },
+  "Ger": {
+    "": "mixando"
+  },
+  "PresI": {
+    "1s": "mixo",
+    "2s": "mixas",
+    "3s": "mixa",
+    "1p": "mixamos",
+    "2p": "mixais",
+    "3p": "mixam"
+  },
+  "PImpI": {
+    "1s": "mixava",
+    "2s": "mixavas",
+    "3s": "mixava",
+    "1p": "mixávamos",
+    "2p": "mixáveis",
+    "3p": "mixavam"
+  },
+  "PPSI": {
+    "1s": "mixei",
+    "2s": "mixaste",
+    "3s": "mixou",
+    "1p": "mixámos",
+    "2p": "mixastes",
+    "3p": "mixaram"
+  },
+  "PMQPSI": {
+    "1s": "mixara",
+    "2s": "mixaras",
+    "3s": "mixara",
+    "1p": "mixáramos",
+    "2p": "mixáreis",
+    "3p": "mixaram"
+  },
+  "FutSI": {
+    "1s": "mixarei",
+    "2s": "mixarás",
+    "3s": "mixará",
+    "1p": "mixaremos",
+    "2p": "mixareis",
+    "3p": "mixarão"
+  },
+  "CondS": {
+    "1s": "mixaria",
+    "2s": "mixarias",
+    "3s": "mixaria",
+    "1p": "mixaríamos",
+    "2p": "mixaríeis",
+    "3p": "mixariam"
+  },
+  "PresC": {
+    "1s": "mixe",
+    "2s": "mixes",
+    "3s": "mixe",
+    "1p": "mixemos",
+    "2p": "mixeis",
+    "3p": "mixem"
+  },
+  "PImpC": {
+    "1s": "mixasse",
+    "2s": "mixasses",
+    "3s": "mixasse",
+    "1p": "mixássemos",
+    "2p": "mixásseis",
+    "3p": "mixassem"
+  },
+  "FutSC": {
+    "1s": "mixar",
+    "2s": "mixares",
+    "3s": "mixar",
+    "1p": "mixarmos",
+    "2p": "mixardes",
+    "3p": "mixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mixa",
+    "3s": "mixe",
+    "1p": "mixemos",
+    "2p": "mixai",
+    "3p": "mixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mixes",
+    "3s": "não mixe",
+    "1p": "não mixemos",
+    "2p": "não mixeis",
+    "3p": "não mixem"
+  },
+  "Part-ter": {
+    "": "mixado"
+  },
+  "Part-ser": {
+    "ms": "mixado",
+    "fs": "mixada",
+    "mp": "mixados",
+    "fp": "mixadas"
+  }
+}

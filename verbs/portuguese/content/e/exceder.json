@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exceder"
+  },
+  "InfP": {
+    "1s": "exceder",
+    "2s": "excederes",
+    "3s": "exceder",
+    "1p": "excedermos",
+    "2p": "excederdes",
+    "3p": "excederem"
+  },
+  "Ger": {
+    "": "excedendo"
+  },
+  "PresI": {
+    "1s": "excedo",
+    "2s": "excedes",
+    "3s": "excede",
+    "1p": "excedemos",
+    "2p": "excedeis",
+    "3p": "excedem"
+  },
+  "PImpI": {
+    "1s": "excedia",
+    "2s": "excedias",
+    "3s": "excedia",
+    "1p": "excedíamos",
+    "2p": "excedíeis",
+    "3p": "excediam"
+  },
+  "PPSI": {
+    "1s": "excedi",
+    "2s": "excedeste",
+    "3s": "excedeu",
+    "1p": "excedemos",
+    "2p": "excedestes",
+    "3p": "excederam"
+  },
+  "PMQPSI": {
+    "1s": "excedera",
+    "2s": "excederas",
+    "3s": "excedera",
+    "1p": "excedêramos",
+    "2p": "excedêreis",
+    "3p": "excederam"
+  },
+  "FutSI": {
+    "1s": "excederei",
+    "2s": "excederás",
+    "3s": "excederá",
+    "1p": "excederemos",
+    "2p": "excedereis",
+    "3p": "excederão"
+  },
+  "CondS": {
+    "1s": "excederia",
+    "2s": "excederias",
+    "3s": "excederia",
+    "1p": "excederíamos",
+    "2p": "excederíeis",
+    "3p": "excederiam"
+  },
+  "PresC": {
+    "1s": "exceda",
+    "2s": "excedas",
+    "3s": "exceda",
+    "1p": "excedamos",
+    "2p": "excedais",
+    "3p": "excedam"
+  },
+  "PImpC": {
+    "1s": "excedesse",
+    "2s": "excedesses",
+    "3s": "excedesse",
+    "1p": "excedêssemos",
+    "2p": "excedêsseis",
+    "3p": "excedessem"
+  },
+  "FutSC": {
+    "1s": "exceder",
+    "2s": "excederes",
+    "3s": "exceder",
+    "1p": "excedermos",
+    "2p": "excederdes",
+    "3p": "excederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "excede",
+    "3s": "exceda",
+    "1p": "excedamos",
+    "2p": "excedei",
+    "3p": "excedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não excedas",
+    "3s": "não exceda",
+    "1p": "não excedamos",
+    "2p": "não excedais",
+    "3p": "não excedam"
+  },
+  "Part-ter": {
+    "": "excedido"
+  },
+  "Part-ser": {
+    "ms": "excedido",
+    "fs": "excedida",
+    "mp": "excedidos",
+    "fp": "excedidas"
+  }
+}

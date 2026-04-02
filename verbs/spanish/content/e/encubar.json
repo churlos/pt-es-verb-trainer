@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encubar"
+  },
+  "Ger": {
+    "": "encubando"
+  },
+  "PresI": {
+    "1s": "encubo",
+    "2s": "encubas",
+    "3s": "encuba",
+    "1p": "encubamos",
+    "2p": "encubáis",
+    "3p": "encuban"
+  },
+  "PImpI": {
+    "1s": "encubaba",
+    "2s": "encubabas",
+    "3s": "encubaba",
+    "1p": "encubábamos",
+    "2p": "encubabais",
+    "3p": "encubaban"
+  },
+  "PPSI": {
+    "1s": "encubé",
+    "2s": "encubaste",
+    "3s": "encubó",
+    "1p": "encubamos",
+    "2p": "encubasteis",
+    "3p": "encubaron"
+  },
+  "FutSI": {
+    "1s": "encubaré",
+    "2s": "encubarás",
+    "3s": "encubará",
+    "1p": "encubaremos",
+    "2p": "encubaréis",
+    "3p": "encubarán"
+  },
+  "CondS": {
+    "1s": "encubaría",
+    "2s": "encubarías",
+    "3s": "encubaría",
+    "1p": "encubaríamos",
+    "2p": "encubaríais",
+    "3p": "encubarían"
+  },
+  "PresC": {
+    "1s": "encube",
+    "2s": "encubes",
+    "3s": "encube",
+    "1p": "encubemos",
+    "2p": "encubéis",
+    "3p": "encuben"
+  },
+  "PMQPSI": {
+    "1s": "encubara",
+    "2s": "encubaras",
+    "3s": "encubara",
+    "1p": "encubáramos",
+    "2p": "encubarais",
+    "3p": "encubaran"
+  },
+  "PImpC": {
+    "1s": "encubase",
+    "2s": "encubases",
+    "3s": "encubase",
+    "1p": "encubásemos",
+    "2p": "encubaseis",
+    "3p": "encubasen"
+  },
+  "FutSC": {
+    "1s": "encubare",
+    "2s": "encubares",
+    "3s": "encubare",
+    "1p": "encubáremos",
+    "2p": "encubareis",
+    "3p": "encubaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encuba",
+    "3s": "encube",
+    "1p": "encubemos",
+    "2p": "encubad",
+    "3p": "encuben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encubes",
+    "3s": "no encube",
+    "1p": "no encubemos",
+    "2p": "no encubéis",
+    "3p": "no encuben"
+  },
+  "Part-ter": {
+    "": "encubado"
+  },
+  "Part-ser": {
+    "ms": "encubado",
+    "fs": "encubada",
+    "mp": "encubados",
+    "fp": "encubadas"
+  }
+}

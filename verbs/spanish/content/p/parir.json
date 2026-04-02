@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parir"
+  },
+  "Ger": {
+    "": "pariendo"
+  },
+  "PresI": {
+    "1s": "paro",
+    "2s": "pares",
+    "3s": "pare",
+    "1p": "parimos",
+    "2p": "parís",
+    "3p": "paren"
+  },
+  "PImpI": {
+    "1s": "paría",
+    "2s": "parías",
+    "3s": "paría",
+    "1p": "paríamos",
+    "2p": "paríais",
+    "3p": "parían"
+  },
+  "PPSI": {
+    "1s": "parí",
+    "2s": "pariste",
+    "3s": "parió",
+    "1p": "parimos",
+    "2p": "paristeis",
+    "3p": "parieron"
+  },
+  "FutSI": {
+    "1s": "pariré",
+    "2s": "parirás",
+    "3s": "parirá",
+    "1p": "pariremos",
+    "2p": "pariréis",
+    "3p": "parirán"
+  },
+  "CondS": {
+    "1s": "pariría",
+    "2s": "parirías",
+    "3s": "pariría",
+    "1p": "pariríamos",
+    "2p": "pariríais",
+    "3p": "parirían"
+  },
+  "PresC": {
+    "1s": "para",
+    "2s": "paras",
+    "3s": "para",
+    "1p": "paramos",
+    "2p": "paráis",
+    "3p": "paran"
+  },
+  "PMQPSI": {
+    "1s": "pariera",
+    "2s": "parieras",
+    "3s": "pariera",
+    "1p": "pariéramos",
+    "2p": "parierais",
+    "3p": "parieran"
+  },
+  "PImpC": {
+    "1s": "pariese",
+    "2s": "parieses",
+    "3s": "pariese",
+    "1p": "pariésemos",
+    "2p": "parieseis",
+    "3p": "pariesen"
+  },
+  "FutSC": {
+    "1s": "pariere",
+    "2s": "parieres",
+    "3s": "pariere",
+    "1p": "pariéremos",
+    "2p": "pariereis",
+    "3p": "parieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pare",
+    "3s": "para",
+    "1p": "paramos",
+    "2p": "parid",
+    "3p": "paran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no paras",
+    "3s": "no para",
+    "1p": "no paramos",
+    "2p": "no paráis",
+    "3p": "no paran"
+  },
+  "Part-ter": {
+    "": "parido"
+  },
+  "Part-ser": {
+    "ms": "parido",
+    "fs": "parida",
+    "mp": "paridos",
+    "fp": "paridas"
+  }
+}

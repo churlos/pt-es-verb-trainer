@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "injetar"
+  },
+  "InfP": {
+    "1s": "injetar",
+    "2s": "injetares",
+    "3s": "injetar",
+    "1p": "injetarmos",
+    "2p": "injetardes",
+    "3p": "injetarem"
+  },
+  "Ger": {
+    "": "injetando"
+  },
+  "PresI": {
+    "1s": "injeto",
+    "2s": "injetas",
+    "3s": "injeta",
+    "1p": "injetamos",
+    "2p": "injetais",
+    "3p": "injetam"
+  },
+  "PImpI": {
+    "1s": "injetava",
+    "2s": "injetavas",
+    "3s": "injetava",
+    "1p": "injetávamos",
+    "2p": "injetáveis",
+    "3p": "injetavam"
+  },
+  "PPSI": {
+    "1s": "injetei",
+    "2s": "injetaste",
+    "3s": "injetou",
+    "1p": "injetámos",
+    "2p": "injetastes",
+    "3p": "injetaram"
+  },
+  "PMQPSI": {
+    "1s": "injetara",
+    "2s": "injetaras",
+    "3s": "injetara",
+    "1p": "injetáramos",
+    "2p": "injetáreis",
+    "3p": "injetaram"
+  },
+  "FutSI": {
+    "1s": "injetarei",
+    "2s": "injetarás",
+    "3s": "injetará",
+    "1p": "injetaremos",
+    "2p": "injetareis",
+    "3p": "injetarão"
+  },
+  "CondS": {
+    "1s": "injetaria",
+    "2s": "injetarias",
+    "3s": "injetaria",
+    "1p": "injetaríamos",
+    "2p": "injetaríeis",
+    "3p": "injetariam"
+  },
+  "PresC": {
+    "1s": "injete",
+    "2s": "injetes",
+    "3s": "injete",
+    "1p": "injetemos",
+    "2p": "injeteis",
+    "3p": "injetem"
+  },
+  "PImpC": {
+    "1s": "injetasse",
+    "2s": "injetasses",
+    "3s": "injetasse",
+    "1p": "injetássemos",
+    "2p": "injetásseis",
+    "3p": "injetassem"
+  },
+  "FutSC": {
+    "1s": "injetar",
+    "2s": "injetares",
+    "3s": "injetar",
+    "1p": "injetarmos",
+    "2p": "injetardes",
+    "3p": "injetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "injeta",
+    "3s": "injete",
+    "1p": "injetemos",
+    "2p": "injetai",
+    "3p": "injetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não injetes",
+    "3s": "não injete",
+    "1p": "não injetemos",
+    "2p": "não injeteis",
+    "3p": "não injetem"
+  },
+  "Part-ter": {
+    "": "injetado"
+  },
+  "Part-ser": {
+    "ms": "injetado",
+    "fs": "injetada",
+    "mp": "injetados",
+    "fp": "injetadas"
+  }
+}

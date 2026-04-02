@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calzar"
+  },
+  "Ger": {
+    "": "calzando"
+  },
+  "PresI": {
+    "1s": "calzo",
+    "2s": "calzas",
+    "3s": "calza",
+    "1p": "calzamos",
+    "2p": "calzáis",
+    "3p": "calzan"
+  },
+  "PImpI": {
+    "1s": "calzaba",
+    "2s": "calzabas",
+    "3s": "calzaba",
+    "1p": "calzábamos",
+    "2p": "calzabais",
+    "3p": "calzaban"
+  },
+  "PPSI": {
+    "1s": "calcé",
+    "2s": "calzaste",
+    "3s": "calzó",
+    "1p": "calzamos",
+    "2p": "calzasteis",
+    "3p": "calzaron"
+  },
+  "FutSI": {
+    "1s": "calzaré",
+    "2s": "calzarás",
+    "3s": "calzará",
+    "1p": "calzaremos",
+    "2p": "calzaréis",
+    "3p": "calzarán"
+  },
+  "CondS": {
+    "1s": "calzaría",
+    "2s": "calzarías",
+    "3s": "calzaría",
+    "1p": "calzaríamos",
+    "2p": "calzaríais",
+    "3p": "calzarían"
+  },
+  "PresC": {
+    "1s": "calce",
+    "2s": "calces",
+    "3s": "calce",
+    "1p": "calcemos",
+    "2p": "calcéis",
+    "3p": "calcen"
+  },
+  "PMQPSI": {
+    "1s": "calzara",
+    "2s": "calzaras",
+    "3s": "calzara",
+    "1p": "calzáramos",
+    "2p": "calzarais",
+    "3p": "calzaran"
+  },
+  "PImpC": {
+    "1s": "calzase",
+    "2s": "calzases",
+    "3s": "calzase",
+    "1p": "calzásemos",
+    "2p": "calzaseis",
+    "3p": "calzasen"
+  },
+  "FutSC": {
+    "1s": "calzare",
+    "2s": "calzares",
+    "3s": "calzare",
+    "1p": "calzáremos",
+    "2p": "calzareis",
+    "3p": "calzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calza",
+    "3s": "calce",
+    "1p": "calcemos",
+    "2p": "calzad",
+    "3p": "calcen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no calces",
+    "3s": "no calce",
+    "1p": "no calcemos",
+    "2p": "no calcéis",
+    "3p": "no calcen"
+  },
+  "Part-ter": {
+    "": "calzado"
+  },
+  "Part-ser": {
+    "ms": "calzado",
+    "fs": "calzada",
+    "mp": "calzados",
+    "fp": "calzadas"
+  }
+}

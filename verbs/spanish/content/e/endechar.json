@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "endechar"
+  },
+  "Ger": {
+    "": "endechando"
+  },
+  "PresI": {
+    "1s": "endecho",
+    "2s": "endechas",
+    "3s": "endecha",
+    "1p": "endechamos",
+    "2p": "endecháis",
+    "3p": "endechan"
+  },
+  "PImpI": {
+    "1s": "endechaba",
+    "2s": "endechabas",
+    "3s": "endechaba",
+    "1p": "endechábamos",
+    "2p": "endechabais",
+    "3p": "endechaban"
+  },
+  "PPSI": {
+    "1s": "endeché",
+    "2s": "endechaste",
+    "3s": "endechó",
+    "1p": "endechamos",
+    "2p": "endechasteis",
+    "3p": "endecharon"
+  },
+  "FutSI": {
+    "1s": "endecharé",
+    "2s": "endecharás",
+    "3s": "endechará",
+    "1p": "endecharemos",
+    "2p": "endecharéis",
+    "3p": "endecharán"
+  },
+  "CondS": {
+    "1s": "endecharía",
+    "2s": "endecharías",
+    "3s": "endecharía",
+    "1p": "endecharíamos",
+    "2p": "endecharíais",
+    "3p": "endecharían"
+  },
+  "PresC": {
+    "1s": "endeche",
+    "2s": "endeches",
+    "3s": "endeche",
+    "1p": "endechemos",
+    "2p": "endechéis",
+    "3p": "endechen"
+  },
+  "PMQPSI": {
+    "1s": "endechara",
+    "2s": "endecharas",
+    "3s": "endechara",
+    "1p": "endecháramos",
+    "2p": "endecharais",
+    "3p": "endecharan"
+  },
+  "PImpC": {
+    "1s": "endechase",
+    "2s": "endechases",
+    "3s": "endechase",
+    "1p": "endechásemos",
+    "2p": "endechaseis",
+    "3p": "endechasen"
+  },
+  "FutSC": {
+    "1s": "endechare",
+    "2s": "endechares",
+    "3s": "endechare",
+    "1p": "endecháremos",
+    "2p": "endechareis",
+    "3p": "endecharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "endecha",
+    "3s": "endeche",
+    "1p": "endechemos",
+    "2p": "endechad",
+    "3p": "endechen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no endeches",
+    "3s": "no endeche",
+    "1p": "no endechemos",
+    "2p": "no endechéis",
+    "3p": "no endechen"
+  },
+  "Part-ter": {
+    "": "endechado"
+  },
+  "Part-ser": {
+    "ms": "endechado",
+    "fs": "endechada",
+    "mp": "endechados",
+    "fp": "endechadas"
+  }
+}

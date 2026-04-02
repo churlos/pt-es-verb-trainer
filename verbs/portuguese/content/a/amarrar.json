@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amarrar"
+  },
+  "InfP": {
+    "1s": "amarrar",
+    "2s": "amarrares",
+    "3s": "amarrar",
+    "1p": "amarrarmos",
+    "2p": "amarrardes",
+    "3p": "amarrarem"
+  },
+  "Ger": {
+    "": "amarrando"
+  },
+  "PresI": {
+    "1s": "amarro",
+    "2s": "amarras",
+    "3s": "amarra",
+    "1p": "amarramos",
+    "2p": "amarrais",
+    "3p": "amarram"
+  },
+  "PImpI": {
+    "1s": "amarrava",
+    "2s": "amarravas",
+    "3s": "amarrava",
+    "1p": "amarrávamos",
+    "2p": "amarráveis",
+    "3p": "amarravam"
+  },
+  "PPSI": {
+    "1s": "amarrei",
+    "2s": "amarraste",
+    "3s": "amarrou",
+    "1p": "amarrámos",
+    "2p": "amarrastes",
+    "3p": "amarraram"
+  },
+  "PMQPSI": {
+    "1s": "amarrara",
+    "2s": "amarraras",
+    "3s": "amarrara",
+    "1p": "amarráramos",
+    "2p": "amarráreis",
+    "3p": "amarraram"
+  },
+  "FutSI": {
+    "1s": "amarrarei",
+    "2s": "amarrarás",
+    "3s": "amarrará",
+    "1p": "amarraremos",
+    "2p": "amarrareis",
+    "3p": "amarrarão"
+  },
+  "CondS": {
+    "1s": "amarraria",
+    "2s": "amarrarias",
+    "3s": "amarraria",
+    "1p": "amarraríamos",
+    "2p": "amarraríeis",
+    "3p": "amarrariam"
+  },
+  "PresC": {
+    "1s": "amarre",
+    "2s": "amarres",
+    "3s": "amarre",
+    "1p": "amarremos",
+    "2p": "amarreis",
+    "3p": "amarrem"
+  },
+  "PImpC": {
+    "1s": "amarrasse",
+    "2s": "amarrasses",
+    "3s": "amarrasse",
+    "1p": "amarrássemos",
+    "2p": "amarrásseis",
+    "3p": "amarrassem"
+  },
+  "FutSC": {
+    "1s": "amarrar",
+    "2s": "amarrares",
+    "3s": "amarrar",
+    "1p": "amarrarmos",
+    "2p": "amarrardes",
+    "3p": "amarrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amarra",
+    "3s": "amarre",
+    "1p": "amarremos",
+    "2p": "amarrai",
+    "3p": "amarrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amarres",
+    "3s": "não amarre",
+    "1p": "não amarremos",
+    "2p": "não amarreis",
+    "3p": "não amarrem"
+  },
+  "Part-ter": {
+    "": "amarrado"
+  },
+  "Part-ser": {
+    "ms": "amarrado",
+    "fs": "amarrada",
+    "mp": "amarrados",
+    "fp": "amarradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "romper"
+  },
+  "InfP": {
+    "1s": "romper",
+    "2s": "romperes",
+    "3s": "romper",
+    "1p": "rompermos",
+    "2p": "romperdes",
+    "3p": "romperem"
+  },
+  "Ger": {
+    "": "rompendo"
+  },
+  "PresI": {
+    "1s": "rompo",
+    "2s": "rompes",
+    "3s": "rompe",
+    "1p": "rompemos",
+    "2p": "rompeis",
+    "3p": "rompem"
+  },
+  "PImpI": {
+    "1s": "rompia",
+    "2s": "rompias",
+    "3s": "rompia",
+    "1p": "rompíamos",
+    "2p": "rompíeis",
+    "3p": "rompiam"
+  },
+  "PPSI": {
+    "1s": "rompi",
+    "2s": "rompeste",
+    "3s": "rompeu",
+    "1p": "rompemos",
+    "2p": "rompestes",
+    "3p": "romperam"
+  },
+  "PMQPSI": {
+    "1s": "rompera",
+    "2s": "romperas",
+    "3s": "rompera",
+    "1p": "rompêramos",
+    "2p": "rompêreis",
+    "3p": "romperam"
+  },
+  "FutSI": {
+    "1s": "romperei",
+    "2s": "romperás",
+    "3s": "romperá",
+    "1p": "romperemos",
+    "2p": "rompereis",
+    "3p": "romperão"
+  },
+  "CondS": {
+    "1s": "romperia",
+    "2s": "romperias",
+    "3s": "romperia",
+    "1p": "romperíamos",
+    "2p": "romperíeis",
+    "3p": "romperiam"
+  },
+  "PresC": {
+    "1s": "rompa",
+    "2s": "rompas",
+    "3s": "rompa",
+    "1p": "rompamos",
+    "2p": "rompais",
+    "3p": "rompam"
+  },
+  "PImpC": {
+    "1s": "rompesse",
+    "2s": "rompesses",
+    "3s": "rompesse",
+    "1p": "rompêssemos",
+    "2p": "rompêsseis",
+    "3p": "rompessem"
+  },
+  "FutSC": {
+    "1s": "romper",
+    "2s": "romperes",
+    "3s": "romper",
+    "1p": "rompermos",
+    "2p": "romperdes",
+    "3p": "romperem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rompe",
+    "3s": "rompa",
+    "1p": "rompamos",
+    "2p": "rompei",
+    "3p": "rompam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rompas",
+    "3s": "não rompa",
+    "1p": "não rompamos",
+    "2p": "não rompais",
+    "3p": "não rompam"
+  },
+  "Part-ter": {
+    "": "rompido"
+  },
+  "Part-ser": {
+    "ms": "rompido",
+    "fs": "rompida",
+    "mp": "rompidos",
+    "fp": "rompidas"
+  }
+}

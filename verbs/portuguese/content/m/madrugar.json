@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "madrugar"
+  },
+  "InfP": {
+    "1s": "madrugar",
+    "2s": "madrugares",
+    "3s": "madrugar",
+    "1p": "madrugarmos",
+    "2p": "madrugardes",
+    "3p": "madrugarem"
+  },
+  "Ger": {
+    "": "madrugando"
+  },
+  "PresI": {
+    "1s": "madrugo",
+    "2s": "madrugas",
+    "3s": "madruga",
+    "1p": "madrugamos",
+    "2p": "madrugais",
+    "3p": "madrugam"
+  },
+  "PImpI": {
+    "1s": "madrugava",
+    "2s": "madrugavas",
+    "3s": "madrugava",
+    "1p": "madrugávamos",
+    "2p": "madrugáveis",
+    "3p": "madrugavam"
+  },
+  "PPSI": {
+    "1s": "madruguei",
+    "2s": "madrugaste",
+    "3s": "madrugou",
+    "1p": "madrugámos",
+    "2p": "madrugastes",
+    "3p": "madrugaram"
+  },
+  "PMQPSI": {
+    "1s": "madrugara",
+    "2s": "madrugaras",
+    "3s": "madrugara",
+    "1p": "madrugáramos",
+    "2p": "madrugáreis",
+    "3p": "madrugaram"
+  },
+  "FutSI": {
+    "1s": "madrugarei",
+    "2s": "madrugarás",
+    "3s": "madrugará",
+    "1p": "madrugaremos",
+    "2p": "madrugareis",
+    "3p": "madrugarão"
+  },
+  "CondS": {
+    "1s": "madrugaria",
+    "2s": "madrugarias",
+    "3s": "madrugaria",
+    "1p": "madrugaríamos",
+    "2p": "madrugaríeis",
+    "3p": "madrugariam"
+  },
+  "PresC": {
+    "1s": "madrugue",
+    "2s": "madrugues",
+    "3s": "madrugue",
+    "1p": "madruguemos",
+    "2p": "madrugueis",
+    "3p": "madruguem"
+  },
+  "PImpC": {
+    "1s": "madrugasse",
+    "2s": "madrugasses",
+    "3s": "madrugasse",
+    "1p": "madrugássemos",
+    "2p": "madrugásseis",
+    "3p": "madrugassem"
+  },
+  "FutSC": {
+    "1s": "madrugar",
+    "2s": "madrugares",
+    "3s": "madrugar",
+    "1p": "madrugarmos",
+    "2p": "madrugardes",
+    "3p": "madrugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "madruga",
+    "3s": "madrugue",
+    "1p": "madruguemos",
+    "2p": "madrugai",
+    "3p": "madruguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não madrugues",
+    "3s": "não madrugue",
+    "1p": "não madruguemos",
+    "2p": "não madrugueis",
+    "3p": "não madruguem"
+  },
+  "Part-ter": {
+    "": "madrugado"
+  },
+  "Part-ser": {
+    "ms": "madrugado",
+    "fs": "madrugada",
+    "mp": "madrugados",
+    "fp": "madrugadas"
+  }
+}

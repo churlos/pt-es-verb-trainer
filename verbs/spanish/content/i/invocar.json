@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "invocar"
+  },
+  "Ger": {
+    "": "invocando"
+  },
+  "PresI": {
+    "1s": "invoco",
+    "2s": "invocas",
+    "3s": "invoca",
+    "1p": "invocamos",
+    "2p": "invocáis",
+    "3p": "invocan"
+  },
+  "PImpI": {
+    "1s": "invocaba",
+    "2s": "invocabas",
+    "3s": "invocaba",
+    "1p": "invocábamos",
+    "2p": "invocabais",
+    "3p": "invocaban"
+  },
+  "PPSI": {
+    "1s": "invoqué",
+    "2s": "invocaste",
+    "3s": "invocó",
+    "1p": "invocamos",
+    "2p": "invocasteis",
+    "3p": "invocaron"
+  },
+  "FutSI": {
+    "1s": "invocaré",
+    "2s": "invocarás",
+    "3s": "invocará",
+    "1p": "invocaremos",
+    "2p": "invocaréis",
+    "3p": "invocarán"
+  },
+  "CondS": {
+    "1s": "invocaría",
+    "2s": "invocarías",
+    "3s": "invocaría",
+    "1p": "invocaríamos",
+    "2p": "invocaríais",
+    "3p": "invocarían"
+  },
+  "PresC": {
+    "1s": "invoque",
+    "2s": "invoques",
+    "3s": "invoque",
+    "1p": "invoquemos",
+    "2p": "invoquéis",
+    "3p": "invoquen"
+  },
+  "PMQPSI": {
+    "1s": "invocara",
+    "2s": "invocaras",
+    "3s": "invocara",
+    "1p": "invocáramos",
+    "2p": "invocarais",
+    "3p": "invocaran"
+  },
+  "PImpC": {
+    "1s": "invocase",
+    "2s": "invocases",
+    "3s": "invocase",
+    "1p": "invocásemos",
+    "2p": "invocaseis",
+    "3p": "invocasen"
+  },
+  "FutSC": {
+    "1s": "invocare",
+    "2s": "invocares",
+    "3s": "invocare",
+    "1p": "invocáremos",
+    "2p": "invocareis",
+    "3p": "invocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invoca",
+    "3s": "invoque",
+    "1p": "invoquemos",
+    "2p": "invocad",
+    "3p": "invoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no invoques",
+    "3s": "no invoque",
+    "1p": "no invoquemos",
+    "2p": "no invoquéis",
+    "3p": "no invoquen"
+  },
+  "Part-ter": {
+    "": "invocado"
+  },
+  "Part-ser": {
+    "ms": "invocado",
+    "fs": "invocada",
+    "mp": "invocados",
+    "fp": "invocadas"
+  }
+}

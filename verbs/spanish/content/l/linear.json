@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "linear"
+  },
+  "Ger": {
+    "": "lineando"
+  },
+  "PresI": {
+    "1s": "lineo",
+    "2s": "lineas",
+    "3s": "linea",
+    "1p": "lineamos",
+    "2p": "lineáis",
+    "3p": "linean"
+  },
+  "PImpI": {
+    "1s": "lineaba",
+    "2s": "lineabas",
+    "3s": "lineaba",
+    "1p": "lineábamos",
+    "2p": "lineabais",
+    "3p": "lineaban"
+  },
+  "PPSI": {
+    "1s": "lineé",
+    "2s": "lineaste",
+    "3s": "lineó",
+    "1p": "lineamos",
+    "2p": "lineasteis",
+    "3p": "linearon"
+  },
+  "FutSI": {
+    "1s": "linearé",
+    "2s": "linearás",
+    "3s": "lineará",
+    "1p": "linearemos",
+    "2p": "linearéis",
+    "3p": "linearán"
+  },
+  "CondS": {
+    "1s": "linearía",
+    "2s": "linearías",
+    "3s": "linearía",
+    "1p": "linearíamos",
+    "2p": "linearíais",
+    "3p": "linearían"
+  },
+  "PresC": {
+    "1s": "linee",
+    "2s": "linees",
+    "3s": "linee",
+    "1p": "lineemos",
+    "2p": "lineéis",
+    "3p": "lineen"
+  },
+  "PMQPSI": {
+    "1s": "lineara",
+    "2s": "linearas",
+    "3s": "lineara",
+    "1p": "lineáramos",
+    "2p": "linearais",
+    "3p": "linearan"
+  },
+  "PImpC": {
+    "1s": "linease",
+    "2s": "lineases",
+    "3s": "linease",
+    "1p": "lineásemos",
+    "2p": "lineaseis",
+    "3p": "lineasen"
+  },
+  "FutSC": {
+    "1s": "lineare",
+    "2s": "lineares",
+    "3s": "lineare",
+    "1p": "lineáremos",
+    "2p": "lineareis",
+    "3p": "linearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "linea",
+    "3s": "linee",
+    "1p": "lineemos",
+    "2p": "linead",
+    "3p": "lineen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no linees",
+    "3s": "no linee",
+    "1p": "no lineemos",
+    "2p": "no lineéis",
+    "3p": "no lineen"
+  },
+  "Part-ter": {
+    "": "lineado"
+  },
+  "Part-ser": {
+    "ms": "lineado",
+    "fs": "lineada",
+    "mp": "lineados",
+    "fp": "lineadas"
+  }
+}

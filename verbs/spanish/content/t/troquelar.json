@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "troquelar"
+  },
+  "Ger": {
+    "": "troquelando"
+  },
+  "PresI": {
+    "1s": "troquelo",
+    "2s": "troquelas",
+    "3s": "troquela",
+    "1p": "troquelamos",
+    "2p": "troqueláis",
+    "3p": "troquelan"
+  },
+  "PImpI": {
+    "1s": "troquelaba",
+    "2s": "troquelabas",
+    "3s": "troquelaba",
+    "1p": "troquelábamos",
+    "2p": "troquelabais",
+    "3p": "troquelaban"
+  },
+  "PPSI": {
+    "1s": "troquelé",
+    "2s": "troquelaste",
+    "3s": "troqueló",
+    "1p": "troquelamos",
+    "2p": "troquelasteis",
+    "3p": "troquelaron"
+  },
+  "FutSI": {
+    "1s": "troquelaré",
+    "2s": "troquelarás",
+    "3s": "troquelará",
+    "1p": "troquelaremos",
+    "2p": "troquelaréis",
+    "3p": "troquelarán"
+  },
+  "CondS": {
+    "1s": "troquelaría",
+    "2s": "troquelarías",
+    "3s": "troquelaría",
+    "1p": "troquelaríamos",
+    "2p": "troquelaríais",
+    "3p": "troquelarían"
+  },
+  "PresC": {
+    "1s": "troquele",
+    "2s": "troqueles",
+    "3s": "troquele",
+    "1p": "troquelemos",
+    "2p": "troqueléis",
+    "3p": "troquelen"
+  },
+  "PMQPSI": {
+    "1s": "troquelara",
+    "2s": "troquelaras",
+    "3s": "troquelara",
+    "1p": "troqueláramos",
+    "2p": "troquelarais",
+    "3p": "troquelaran"
+  },
+  "PImpC": {
+    "1s": "troquelase",
+    "2s": "troquelases",
+    "3s": "troquelase",
+    "1p": "troquelásemos",
+    "2p": "troquelaseis",
+    "3p": "troquelasen"
+  },
+  "FutSC": {
+    "1s": "troquelare",
+    "2s": "troquelares",
+    "3s": "troquelare",
+    "1p": "troqueláremos",
+    "2p": "troquelareis",
+    "3p": "troquelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "troquela",
+    "3s": "troquele",
+    "1p": "troquelemos",
+    "2p": "troquelad",
+    "3p": "troquelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no troqueles",
+    "3s": "no troquele",
+    "1p": "no troquelemos",
+    "2p": "no troqueléis",
+    "3p": "no troquelen"
+  },
+  "Part-ter": {
+    "": "troquelado"
+  },
+  "Part-ser": {
+    "ms": "troquelado",
+    "fs": "troquelada",
+    "mp": "troquelados",
+    "fp": "troqueladas"
+  }
+}

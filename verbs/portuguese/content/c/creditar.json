@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "creditar"
+  },
+  "InfP": {
+    "1s": "creditar",
+    "2s": "creditares",
+    "3s": "creditar",
+    "1p": "creditarmos",
+    "2p": "creditardes",
+    "3p": "creditarem"
+  },
+  "Ger": {
+    "": "creditando"
+  },
+  "PresI": {
+    "1s": "credito",
+    "2s": "creditas",
+    "3s": "credita",
+    "1p": "creditamos",
+    "2p": "creditais",
+    "3p": "creditam"
+  },
+  "PImpI": {
+    "1s": "creditava",
+    "2s": "creditavas",
+    "3s": "creditava",
+    "1p": "creditávamos",
+    "2p": "creditáveis",
+    "3p": "creditavam"
+  },
+  "PPSI": {
+    "1s": "creditei",
+    "2s": "creditaste",
+    "3s": "creditou",
+    "1p": "creditámos",
+    "2p": "creditastes",
+    "3p": "creditaram"
+  },
+  "PMQPSI": {
+    "1s": "creditara",
+    "2s": "creditaras",
+    "3s": "creditara",
+    "1p": "creditáramos",
+    "2p": "creditáreis",
+    "3p": "creditaram"
+  },
+  "FutSI": {
+    "1s": "creditarei",
+    "2s": "creditarás",
+    "3s": "creditará",
+    "1p": "creditaremos",
+    "2p": "creditareis",
+    "3p": "creditarão"
+  },
+  "CondS": {
+    "1s": "creditaria",
+    "2s": "creditarias",
+    "3s": "creditaria",
+    "1p": "creditaríamos",
+    "2p": "creditaríeis",
+    "3p": "creditariam"
+  },
+  "PresC": {
+    "1s": "credite",
+    "2s": "credites",
+    "3s": "credite",
+    "1p": "creditemos",
+    "2p": "crediteis",
+    "3p": "creditem"
+  },
+  "PImpC": {
+    "1s": "creditasse",
+    "2s": "creditasses",
+    "3s": "creditasse",
+    "1p": "creditássemos",
+    "2p": "creditásseis",
+    "3p": "creditassem"
+  },
+  "FutSC": {
+    "1s": "creditar",
+    "2s": "creditares",
+    "3s": "creditar",
+    "1p": "creditarmos",
+    "2p": "creditardes",
+    "3p": "creditarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "credita",
+    "3s": "credite",
+    "1p": "creditemos",
+    "2p": "creditai",
+    "3p": "creditem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não credites",
+    "3s": "não credite",
+    "1p": "não creditemos",
+    "2p": "não crediteis",
+    "3p": "não creditem"
+  },
+  "Part-ter": {
+    "": "creditado"
+  },
+  "Part-ser": {
+    "ms": "creditado",
+    "fs": "creditada",
+    "mp": "creditados",
+    "fp": "creditadas"
+  }
+}

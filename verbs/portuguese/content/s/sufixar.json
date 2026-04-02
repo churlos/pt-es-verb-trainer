@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sufixar"
+  },
+  "InfP": {
+    "1s": "sufixar",
+    "2s": "sufixares",
+    "3s": "sufixar",
+    "1p": "sufixarmos",
+    "2p": "sufixardes",
+    "3p": "sufixarem"
+  },
+  "Ger": {
+    "": "sufixando"
+  },
+  "PresI": {
+    "1s": "sufixo",
+    "2s": "sufixas",
+    "3s": "sufixa",
+    "1p": "sufixamos",
+    "2p": "sufixais",
+    "3p": "sufixam"
+  },
+  "PImpI": {
+    "1s": "sufixava",
+    "2s": "sufixavas",
+    "3s": "sufixava",
+    "1p": "sufixávamos",
+    "2p": "sufixáveis",
+    "3p": "sufixavam"
+  },
+  "PPSI": {
+    "1s": "sufixei",
+    "2s": "sufixaste",
+    "3s": "sufixou",
+    "1p": "sufixámos",
+    "2p": "sufixastes",
+    "3p": "sufixaram"
+  },
+  "PMQPSI": {
+    "1s": "sufixara",
+    "2s": "sufixaras",
+    "3s": "sufixara",
+    "1p": "sufixáramos",
+    "2p": "sufixáreis",
+    "3p": "sufixaram"
+  },
+  "FutSI": {
+    "1s": "sufixarei",
+    "2s": "sufixarás",
+    "3s": "sufixará",
+    "1p": "sufixaremos",
+    "2p": "sufixareis",
+    "3p": "sufixarão"
+  },
+  "CondS": {
+    "1s": "sufixaria",
+    "2s": "sufixarias",
+    "3s": "sufixaria",
+    "1p": "sufixaríamos",
+    "2p": "sufixaríeis",
+    "3p": "sufixariam"
+  },
+  "PresC": {
+    "1s": "sufixe",
+    "2s": "sufixes",
+    "3s": "sufixe",
+    "1p": "sufixemos",
+    "2p": "sufixeis",
+    "3p": "sufixem"
+  },
+  "PImpC": {
+    "1s": "sufixasse",
+    "2s": "sufixasses",
+    "3s": "sufixasse",
+    "1p": "sufixássemos",
+    "2p": "sufixásseis",
+    "3p": "sufixassem"
+  },
+  "FutSC": {
+    "1s": "sufixar",
+    "2s": "sufixares",
+    "3s": "sufixar",
+    "1p": "sufixarmos",
+    "2p": "sufixardes",
+    "3p": "sufixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sufixa",
+    "3s": "sufixe",
+    "1p": "sufixemos",
+    "2p": "sufixai",
+    "3p": "sufixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sufixes",
+    "3s": "não sufixe",
+    "1p": "não sufixemos",
+    "2p": "não sufixeis",
+    "3p": "não sufixem"
+  },
+  "Part-ter": {
+    "": "sufixado"
+  },
+  "Part-ser": {
+    "ms": "sufixado",
+    "fs": "sufixada",
+    "mp": "sufixados",
+    "fp": "sufixadas"
+  }
+}

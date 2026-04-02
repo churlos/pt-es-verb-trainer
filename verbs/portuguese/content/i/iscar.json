@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "iscar"
+  },
+  "InfP": {
+    "1s": "iscar",
+    "2s": "iscares",
+    "3s": "iscar",
+    "1p": "iscarmos",
+    "2p": "iscardes",
+    "3p": "iscarem"
+  },
+  "Ger": {
+    "": "iscando"
+  },
+  "PresI": {
+    "1s": "isco",
+    "2s": "iscas",
+    "3s": "isca",
+    "1p": "iscamos",
+    "2p": "iscais",
+    "3p": "iscam"
+  },
+  "PImpI": {
+    "1s": "iscava",
+    "2s": "iscavas",
+    "3s": "iscava",
+    "1p": "iscávamos",
+    "2p": "iscáveis",
+    "3p": "iscavam"
+  },
+  "PPSI": {
+    "1s": "isquei",
+    "2s": "iscaste",
+    "3s": "iscou",
+    "1p": "iscámos",
+    "2p": "iscastes",
+    "3p": "iscaram"
+  },
+  "PMQPSI": {
+    "1s": "iscara",
+    "2s": "iscaras",
+    "3s": "iscara",
+    "1p": "iscáramos",
+    "2p": "iscáreis",
+    "3p": "iscaram"
+  },
+  "FutSI": {
+    "1s": "iscarei",
+    "2s": "iscarás",
+    "3s": "iscará",
+    "1p": "iscaremos",
+    "2p": "iscareis",
+    "3p": "iscarão"
+  },
+  "CondS": {
+    "1s": "iscaria",
+    "2s": "iscarias",
+    "3s": "iscaria",
+    "1p": "iscaríamos",
+    "2p": "iscaríeis",
+    "3p": "iscariam"
+  },
+  "PresC": {
+    "1s": "isque",
+    "2s": "isques",
+    "3s": "isque",
+    "1p": "isquemos",
+    "2p": "isqueis",
+    "3p": "isquem"
+  },
+  "PImpC": {
+    "1s": "iscasse",
+    "2s": "iscasses",
+    "3s": "iscasse",
+    "1p": "iscássemos",
+    "2p": "iscásseis",
+    "3p": "iscassem"
+  },
+  "FutSC": {
+    "1s": "iscar",
+    "2s": "iscares",
+    "3s": "iscar",
+    "1p": "iscarmos",
+    "2p": "iscardes",
+    "3p": "iscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "isca",
+    "3s": "isque",
+    "1p": "isquemos",
+    "2p": "iscai",
+    "3p": "isquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não isques",
+    "3s": "não isque",
+    "1p": "não isquemos",
+    "2p": "não isqueis",
+    "3p": "não isquem"
+  },
+  "Part-ter": {
+    "": "iscado"
+  },
+  "Part-ser": {
+    "ms": "iscado",
+    "fs": "iscada",
+    "mp": "iscados",
+    "fp": "iscadas"
+  }
+}

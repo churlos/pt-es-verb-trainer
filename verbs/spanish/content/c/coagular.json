@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "coagular"
+  },
+  "Ger": {
+    "": "coagulando"
+  },
+  "PresI": {
+    "1s": "coagulo",
+    "2s": "coagulas",
+    "3s": "coagula",
+    "1p": "coagulamos",
+    "2p": "coaguláis",
+    "3p": "coagulan"
+  },
+  "PImpI": {
+    "1s": "coagulaba",
+    "2s": "coagulabas",
+    "3s": "coagulaba",
+    "1p": "coagulábamos",
+    "2p": "coagulabais",
+    "3p": "coagulaban"
+  },
+  "PPSI": {
+    "1s": "coagulé",
+    "2s": "coagulaste",
+    "3s": "coaguló",
+    "1p": "coagulamos",
+    "2p": "coagulasteis",
+    "3p": "coagularon"
+  },
+  "FutSI": {
+    "1s": "coagularé",
+    "2s": "coagularás",
+    "3s": "coagulará",
+    "1p": "coagularemos",
+    "2p": "coagularéis",
+    "3p": "coagularán"
+  },
+  "CondS": {
+    "1s": "coagularía",
+    "2s": "coagularías",
+    "3s": "coagularía",
+    "1p": "coagularíamos",
+    "2p": "coagularíais",
+    "3p": "coagularían"
+  },
+  "PresC": {
+    "1s": "coagule",
+    "2s": "coagules",
+    "3s": "coagule",
+    "1p": "coagulemos",
+    "2p": "coaguléis",
+    "3p": "coagulen"
+  },
+  "PMQPSI": {
+    "1s": "coagulara",
+    "2s": "coagularas",
+    "3s": "coagulara",
+    "1p": "coaguláramos",
+    "2p": "coagularais",
+    "3p": "coagularan"
+  },
+  "PImpC": {
+    "1s": "coagulase",
+    "2s": "coagulases",
+    "3s": "coagulase",
+    "1p": "coagulásemos",
+    "2p": "coagulaseis",
+    "3p": "coagulasen"
+  },
+  "FutSC": {
+    "1s": "coagulare",
+    "2s": "coagulares",
+    "3s": "coagulare",
+    "1p": "coaguláremos",
+    "2p": "coagulareis",
+    "3p": "coagularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coagula",
+    "3s": "coagule",
+    "1p": "coagulemos",
+    "2p": "coagulad",
+    "3p": "coagulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no coagules",
+    "3s": "no coagule",
+    "1p": "no coagulemos",
+    "2p": "no coaguléis",
+    "3p": "no coagulen"
+  },
+  "Part-ter": {
+    "": "coagulado"
+  },
+  "Part-ser": {
+    "ms": "coagulado",
+    "fs": "coagulada",
+    "mp": "coagulados",
+    "fp": "coaguladas"
+  }
+}

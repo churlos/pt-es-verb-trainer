@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "auscultar"
+  },
+  "InfP": {
+    "1s": "auscultar",
+    "2s": "auscultares",
+    "3s": "auscultar",
+    "1p": "auscultarmos",
+    "2p": "auscultardes",
+    "3p": "auscultarem"
+  },
+  "Ger": {
+    "": "auscultando"
+  },
+  "PresI": {
+    "1s": "ausculto",
+    "2s": "auscultas",
+    "3s": "ausculta",
+    "1p": "auscultamos",
+    "2p": "auscultais",
+    "3p": "auscultam"
+  },
+  "PImpI": {
+    "1s": "auscultava",
+    "2s": "auscultavas",
+    "3s": "auscultava",
+    "1p": "auscultávamos",
+    "2p": "auscultáveis",
+    "3p": "auscultavam"
+  },
+  "PPSI": {
+    "1s": "auscultei",
+    "2s": "auscultaste",
+    "3s": "auscultou",
+    "1p": "auscultámos",
+    "2p": "auscultastes",
+    "3p": "auscultaram"
+  },
+  "PMQPSI": {
+    "1s": "auscultara",
+    "2s": "auscultaras",
+    "3s": "auscultara",
+    "1p": "auscultáramos",
+    "2p": "auscultáreis",
+    "3p": "auscultaram"
+  },
+  "FutSI": {
+    "1s": "auscultarei",
+    "2s": "auscultarás",
+    "3s": "auscultará",
+    "1p": "auscultaremos",
+    "2p": "auscultareis",
+    "3p": "auscultarão"
+  },
+  "CondS": {
+    "1s": "auscultaria",
+    "2s": "auscultarias",
+    "3s": "auscultaria",
+    "1p": "auscultaríamos",
+    "2p": "auscultaríeis",
+    "3p": "auscultariam"
+  },
+  "PresC": {
+    "1s": "ausculte",
+    "2s": "auscultes",
+    "3s": "ausculte",
+    "1p": "auscultemos",
+    "2p": "ausculteis",
+    "3p": "auscultem"
+  },
+  "PImpC": {
+    "1s": "auscultasse",
+    "2s": "auscultasses",
+    "3s": "auscultasse",
+    "1p": "auscultássemos",
+    "2p": "auscultásseis",
+    "3p": "auscultassem"
+  },
+  "FutSC": {
+    "1s": "auscultar",
+    "2s": "auscultares",
+    "3s": "auscultar",
+    "1p": "auscultarmos",
+    "2p": "auscultardes",
+    "3p": "auscultarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ausculta",
+    "3s": "ausculte",
+    "1p": "auscultemos",
+    "2p": "auscultai",
+    "3p": "auscultem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não auscultes",
+    "3s": "não ausculte",
+    "1p": "não auscultemos",
+    "2p": "não ausculteis",
+    "3p": "não auscultem"
+  },
+  "Part-ter": {
+    "": "auscultado"
+  },
+  "Part-ser": {
+    "ms": "auscultado",
+    "fs": "auscultada",
+    "mp": "auscultados",
+    "fp": "auscultadas"
+  }
+}

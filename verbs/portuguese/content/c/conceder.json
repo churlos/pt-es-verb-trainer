@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conceder"
+  },
+  "InfP": {
+    "1s": "conceder",
+    "2s": "concederes",
+    "3s": "conceder",
+    "1p": "concedermos",
+    "2p": "concederdes",
+    "3p": "concederem"
+  },
+  "Ger": {
+    "": "concedendo"
+  },
+  "PresI": {
+    "1s": "concedo",
+    "2s": "concedes",
+    "3s": "concede",
+    "1p": "concedemos",
+    "2p": "concedeis",
+    "3p": "concedem"
+  },
+  "PImpI": {
+    "1s": "concedia",
+    "2s": "concedias",
+    "3s": "concedia",
+    "1p": "concedíamos",
+    "2p": "concedíeis",
+    "3p": "concediam"
+  },
+  "PPSI": {
+    "1s": "concedi",
+    "2s": "concedeste",
+    "3s": "concedeu",
+    "1p": "concedemos",
+    "2p": "concedestes",
+    "3p": "concederam"
+  },
+  "PMQPSI": {
+    "1s": "concedera",
+    "2s": "concederas",
+    "3s": "concedera",
+    "1p": "concedêramos",
+    "2p": "concedêreis",
+    "3p": "concederam"
+  },
+  "FutSI": {
+    "1s": "concederei",
+    "2s": "concederás",
+    "3s": "concederá",
+    "1p": "concederemos",
+    "2p": "concedereis",
+    "3p": "concederão"
+  },
+  "CondS": {
+    "1s": "concederia",
+    "2s": "concederias",
+    "3s": "concederia",
+    "1p": "concederíamos",
+    "2p": "concederíeis",
+    "3p": "concederiam"
+  },
+  "PresC": {
+    "1s": "conceda",
+    "2s": "concedas",
+    "3s": "conceda",
+    "1p": "concedamos",
+    "2p": "concedais",
+    "3p": "concedam"
+  },
+  "PImpC": {
+    "1s": "concedesse",
+    "2s": "concedesses",
+    "3s": "concedesse",
+    "1p": "concedêssemos",
+    "2p": "concedêsseis",
+    "3p": "concedessem"
+  },
+  "FutSC": {
+    "1s": "conceder",
+    "2s": "concederes",
+    "3s": "conceder",
+    "1p": "concedermos",
+    "2p": "concederdes",
+    "3p": "concederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "concede",
+    "3s": "conceda",
+    "1p": "concedamos",
+    "2p": "concedei",
+    "3p": "concedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não concedas",
+    "3s": "não conceda",
+    "1p": "não concedamos",
+    "2p": "não concedais",
+    "3p": "não concedam"
+  },
+  "Part-ter": {
+    "": "concedido"
+  },
+  "Part-ser": {
+    "ms": "concedido",
+    "fs": "concedida",
+    "mp": "concedidos",
+    "fp": "concedidas"
+  }
+}

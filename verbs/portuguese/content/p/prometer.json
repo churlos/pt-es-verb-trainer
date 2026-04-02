@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prometer"
+  },
+  "InfP": {
+    "1s": "prometer",
+    "2s": "prometeres",
+    "3s": "prometer",
+    "1p": "prometermos",
+    "2p": "prometerdes",
+    "3p": "prometerem"
+  },
+  "Ger": {
+    "": "prometendo"
+  },
+  "PresI": {
+    "1s": "prometo",
+    "2s": "prometes",
+    "3s": "promete",
+    "1p": "prometemos",
+    "2p": "prometeis",
+    "3p": "prometem"
+  },
+  "PImpI": {
+    "1s": "prometia",
+    "2s": "prometias",
+    "3s": "prometia",
+    "1p": "prometíamos",
+    "2p": "prometíeis",
+    "3p": "prometiam"
+  },
+  "PPSI": {
+    "1s": "prometi",
+    "2s": "prometeste",
+    "3s": "prometeu",
+    "1p": "prometemos",
+    "2p": "prometestes",
+    "3p": "prometeram"
+  },
+  "PMQPSI": {
+    "1s": "prometera",
+    "2s": "prometeras",
+    "3s": "prometera",
+    "1p": "prometêramos",
+    "2p": "prometêreis",
+    "3p": "prometeram"
+  },
+  "FutSI": {
+    "1s": "prometerei",
+    "2s": "prometerás",
+    "3s": "prometerá",
+    "1p": "prometeremos",
+    "2p": "prometereis",
+    "3p": "prometerão"
+  },
+  "CondS": {
+    "1s": "prometeria",
+    "2s": "prometerias",
+    "3s": "prometeria",
+    "1p": "prometeríamos",
+    "2p": "prometeríeis",
+    "3p": "prometeriam"
+  },
+  "PresC": {
+    "1s": "prometa",
+    "2s": "prometas",
+    "3s": "prometa",
+    "1p": "prometamos",
+    "2p": "prometais",
+    "3p": "prometam"
+  },
+  "PImpC": {
+    "1s": "prometesse",
+    "2s": "prometesses",
+    "3s": "prometesse",
+    "1p": "prometêssemos",
+    "2p": "prometêsseis",
+    "3p": "prometessem"
+  },
+  "FutSC": {
+    "1s": "prometer",
+    "2s": "prometeres",
+    "3s": "prometer",
+    "1p": "prometermos",
+    "2p": "prometerdes",
+    "3p": "prometerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "promete",
+    "3s": "prometa",
+    "1p": "prometamos",
+    "2p": "prometei",
+    "3p": "prometam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prometas",
+    "3s": "não prometa",
+    "1p": "não prometamos",
+    "2p": "não prometais",
+    "3p": "não prometam"
+  },
+  "Part-ter": {
+    "": "prometido"
+  },
+  "Part-ser": {
+    "ms": "prometido",
+    "fs": "prometida",
+    "mp": "prometidos",
+    "fp": "prometidas"
+  }
+}

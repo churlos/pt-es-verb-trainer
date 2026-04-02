@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alambicar"
+  },
+  "InfP": {
+    "1s": "alambicar",
+    "2s": "alambicares",
+    "3s": "alambicar",
+    "1p": "alambicarmos",
+    "2p": "alambicardes",
+    "3p": "alambicarem"
+  },
+  "Ger": {
+    "": "alambicando"
+  },
+  "PresI": {
+    "1s": "alambico",
+    "2s": "alambicas",
+    "3s": "alambica",
+    "1p": "alambicamos",
+    "2p": "alambicais",
+    "3p": "alambicam"
+  },
+  "PImpI": {
+    "1s": "alambicava",
+    "2s": "alambicavas",
+    "3s": "alambicava",
+    "1p": "alambicávamos",
+    "2p": "alambicáveis",
+    "3p": "alambicavam"
+  },
+  "PPSI": {
+    "1s": "alambiquei",
+    "2s": "alambicaste",
+    "3s": "alambicou",
+    "1p": "alambicámos",
+    "2p": "alambicastes",
+    "3p": "alambicaram"
+  },
+  "PMQPSI": {
+    "1s": "alambicara",
+    "2s": "alambicaras",
+    "3s": "alambicara",
+    "1p": "alambicáramos",
+    "2p": "alambicáreis",
+    "3p": "alambicaram"
+  },
+  "FutSI": {
+    "1s": "alambicarei",
+    "2s": "alambicarás",
+    "3s": "alambicará",
+    "1p": "alambicaremos",
+    "2p": "alambicareis",
+    "3p": "alambicarão"
+  },
+  "CondS": {
+    "1s": "alambicaria",
+    "2s": "alambicarias",
+    "3s": "alambicaria",
+    "1p": "alambicaríamos",
+    "2p": "alambicaríeis",
+    "3p": "alambicariam"
+  },
+  "PresC": {
+    "1s": "alambique",
+    "2s": "alambiques",
+    "3s": "alambique",
+    "1p": "alambiquemos",
+    "2p": "alambiqueis",
+    "3p": "alambiquem"
+  },
+  "PImpC": {
+    "1s": "alambicasse",
+    "2s": "alambicasses",
+    "3s": "alambicasse",
+    "1p": "alambicássemos",
+    "2p": "alambicásseis",
+    "3p": "alambicassem"
+  },
+  "FutSC": {
+    "1s": "alambicar",
+    "2s": "alambicares",
+    "3s": "alambicar",
+    "1p": "alambicarmos",
+    "2p": "alambicardes",
+    "3p": "alambicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alambica",
+    "3s": "alambique",
+    "1p": "alambiquemos",
+    "2p": "alambicai",
+    "3p": "alambiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alambiques",
+    "3s": "não alambique",
+    "1p": "não alambiquemos",
+    "2p": "não alambiqueis",
+    "3p": "não alambiquem"
+  },
+  "Part-ter": {
+    "": "alambicado"
+  },
+  "Part-ser": {
+    "ms": "alambicado",
+    "fs": "alambicada",
+    "mp": "alambicados",
+    "fp": "alambicadas"
+  }
+}

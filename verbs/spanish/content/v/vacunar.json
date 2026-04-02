@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vacunar"
+  },
+  "Ger": {
+    "": "vacunando"
+  },
+  "PresI": {
+    "1s": "vacuno",
+    "2s": "vacunas",
+    "3s": "vacuna",
+    "1p": "vacunamos",
+    "2p": "vacunáis",
+    "3p": "vacunan"
+  },
+  "PImpI": {
+    "1s": "vacunaba",
+    "2s": "vacunabas",
+    "3s": "vacunaba",
+    "1p": "vacunábamos",
+    "2p": "vacunabais",
+    "3p": "vacunaban"
+  },
+  "PPSI": {
+    "1s": "vacuné",
+    "2s": "vacunaste",
+    "3s": "vacunó",
+    "1p": "vacunamos",
+    "2p": "vacunasteis",
+    "3p": "vacunaron"
+  },
+  "FutSI": {
+    "1s": "vacunaré",
+    "2s": "vacunarás",
+    "3s": "vacunará",
+    "1p": "vacunaremos",
+    "2p": "vacunaréis",
+    "3p": "vacunarán"
+  },
+  "CondS": {
+    "1s": "vacunaría",
+    "2s": "vacunarías",
+    "3s": "vacunaría",
+    "1p": "vacunaríamos",
+    "2p": "vacunaríais",
+    "3p": "vacunarían"
+  },
+  "PresC": {
+    "1s": "vacune",
+    "2s": "vacunes",
+    "3s": "vacune",
+    "1p": "vacunemos",
+    "2p": "vacunéis",
+    "3p": "vacunen"
+  },
+  "PMQPSI": {
+    "1s": "vacunara",
+    "2s": "vacunaras",
+    "3s": "vacunara",
+    "1p": "vacunáramos",
+    "2p": "vacunarais",
+    "3p": "vacunaran"
+  },
+  "PImpC": {
+    "1s": "vacunase",
+    "2s": "vacunases",
+    "3s": "vacunase",
+    "1p": "vacunásemos",
+    "2p": "vacunaseis",
+    "3p": "vacunasen"
+  },
+  "FutSC": {
+    "1s": "vacunare",
+    "2s": "vacunares",
+    "3s": "vacunare",
+    "1p": "vacunáremos",
+    "2p": "vacunareis",
+    "3p": "vacunaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vacuna",
+    "3s": "vacune",
+    "1p": "vacunemos",
+    "2p": "vacunad",
+    "3p": "vacunen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vacunes",
+    "3s": "no vacune",
+    "1p": "no vacunemos",
+    "2p": "no vacunéis",
+    "3p": "no vacunen"
+  },
+  "Part-ter": {
+    "": "vacunado"
+  },
+  "Part-ser": {
+    "ms": "vacunado",
+    "fs": "vacunada",
+    "mp": "vacunados",
+    "fp": "vacunadas"
+  }
+}

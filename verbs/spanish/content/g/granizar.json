@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "granizar"
+  },
+  "Ger": {
+    "": "granizando"
+  },
+  "PresI": {
+    "1s": "granizo",
+    "2s": "granizas",
+    "3s": "graniza",
+    "1p": "granizamos",
+    "2p": "granizáis",
+    "3p": "granizan"
+  },
+  "PImpI": {
+    "1s": "granizaba",
+    "2s": "granizabas",
+    "3s": "granizaba",
+    "1p": "granizábamos",
+    "2p": "granizabais",
+    "3p": "granizaban"
+  },
+  "PPSI": {
+    "1s": "granicé",
+    "2s": "granizaste",
+    "3s": "granizó",
+    "1p": "granizamos",
+    "2p": "granizasteis",
+    "3p": "granizaron"
+  },
+  "FutSI": {
+    "1s": "granizaré",
+    "2s": "granizarás",
+    "3s": "granizará",
+    "1p": "granizaremos",
+    "2p": "granizaréis",
+    "3p": "granizarán"
+  },
+  "CondS": {
+    "1s": "granizaría",
+    "2s": "granizarías",
+    "3s": "granizaría",
+    "1p": "granizaríamos",
+    "2p": "granizaríais",
+    "3p": "granizarían"
+  },
+  "PresC": {
+    "1s": "granice",
+    "2s": "granices",
+    "3s": "granice",
+    "1p": "granicemos",
+    "2p": "granicéis",
+    "3p": "granicen"
+  },
+  "PMQPSI": {
+    "1s": "granizara",
+    "2s": "granizaras",
+    "3s": "granizara",
+    "1p": "granizáramos",
+    "2p": "granizarais",
+    "3p": "granizaran"
+  },
+  "PImpC": {
+    "1s": "granizase",
+    "2s": "granizases",
+    "3s": "granizase",
+    "1p": "granizásemos",
+    "2p": "granizaseis",
+    "3p": "granizasen"
+  },
+  "FutSC": {
+    "1s": "granizare",
+    "2s": "granizares",
+    "3s": "granizare",
+    "1p": "granizáremos",
+    "2p": "granizareis",
+    "3p": "granizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "graniza",
+    "3s": "granice",
+    "1p": "granicemos",
+    "2p": "granizad",
+    "3p": "granicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no granices",
+    "3s": "no granice",
+    "1p": "no granicemos",
+    "2p": "no granicéis",
+    "3p": "no granicen"
+  },
+  "Part-ter": {
+    "": "granizado"
+  },
+  "Part-ser": {
+    "ms": "granizado",
+    "fs": "granizada",
+    "mp": "granizados",
+    "fp": "granizadas"
+  }
+}

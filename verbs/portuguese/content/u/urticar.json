@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "urticar"
+  },
+  "InfP": {
+    "1s": "urticar",
+    "2s": "urticares",
+    "3s": "urticar",
+    "1p": "urticarmos",
+    "2p": "urticardes",
+    "3p": "urticarem"
+  },
+  "Ger": {
+    "": "urticando"
+  },
+  "PresI": {
+    "1s": "urtico",
+    "2s": "urticas",
+    "3s": "urtica",
+    "1p": "urticamos",
+    "2p": "urticais",
+    "3p": "urticam"
+  },
+  "PImpI": {
+    "1s": "urticava",
+    "2s": "urticavas",
+    "3s": "urticava",
+    "1p": "urticávamos",
+    "2p": "urticáveis",
+    "3p": "urticavam"
+  },
+  "PPSI": {
+    "1s": "urtiquei",
+    "2s": "urticaste",
+    "3s": "urticou",
+    "1p": "urticámos",
+    "2p": "urticastes",
+    "3p": "urticaram"
+  },
+  "PMQPSI": {
+    "1s": "urticara",
+    "2s": "urticaras",
+    "3s": "urticara",
+    "1p": "urticáramos",
+    "2p": "urticáreis",
+    "3p": "urticaram"
+  },
+  "FutSI": {
+    "1s": "urticarei",
+    "2s": "urticarás",
+    "3s": "urticará",
+    "1p": "urticaremos",
+    "2p": "urticareis",
+    "3p": "urticarão"
+  },
+  "CondS": {
+    "1s": "urticaria",
+    "2s": "urticarias",
+    "3s": "urticaria",
+    "1p": "urticaríamos",
+    "2p": "urticaríeis",
+    "3p": "urticariam"
+  },
+  "PresC": {
+    "1s": "urtique",
+    "2s": "urtiques",
+    "3s": "urtique",
+    "1p": "urtiquemos",
+    "2p": "urtiqueis",
+    "3p": "urtiquem"
+  },
+  "PImpC": {
+    "1s": "urticasse",
+    "2s": "urticasses",
+    "3s": "urticasse",
+    "1p": "urticássemos",
+    "2p": "urticásseis",
+    "3p": "urticassem"
+  },
+  "FutSC": {
+    "1s": "urticar",
+    "2s": "urticares",
+    "3s": "urticar",
+    "1p": "urticarmos",
+    "2p": "urticardes",
+    "3p": "urticarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "urtica",
+    "3s": "urtique",
+    "1p": "urtiquemos",
+    "2p": "urticai",
+    "3p": "urtiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não urtiques",
+    "3s": "não urtique",
+    "1p": "não urtiquemos",
+    "2p": "não urtiqueis",
+    "3p": "não urtiquem"
+  },
+  "Part-ter": {
+    "": "urticado"
+  },
+  "Part-ser": {
+    "ms": "urticado",
+    "fs": "urticada",
+    "mp": "urticados",
+    "fp": "urticadas"
+  }
+}

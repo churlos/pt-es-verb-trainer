@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enjambrar"
+  },
+  "Ger": {
+    "": "enjambrando"
+  },
+  "PresI": {
+    "1s": "enjambro",
+    "2s": "enjambras",
+    "3s": "enjambra",
+    "1p": "enjambramos",
+    "2p": "enjambráis",
+    "3p": "enjambran"
+  },
+  "PImpI": {
+    "1s": "enjambraba",
+    "2s": "enjambrabas",
+    "3s": "enjambraba",
+    "1p": "enjambrábamos",
+    "2p": "enjambrabais",
+    "3p": "enjambraban"
+  },
+  "PPSI": {
+    "1s": "enjambré",
+    "2s": "enjambraste",
+    "3s": "enjambró",
+    "1p": "enjambramos",
+    "2p": "enjambrasteis",
+    "3p": "enjambraron"
+  },
+  "FutSI": {
+    "1s": "enjambraré",
+    "2s": "enjambrarás",
+    "3s": "enjambrará",
+    "1p": "enjambraremos",
+    "2p": "enjambraréis",
+    "3p": "enjambrarán"
+  },
+  "CondS": {
+    "1s": "enjambraría",
+    "2s": "enjambrarías",
+    "3s": "enjambraría",
+    "1p": "enjambraríamos",
+    "2p": "enjambraríais",
+    "3p": "enjambrarían"
+  },
+  "PresC": {
+    "1s": "enjambre",
+    "2s": "enjambres",
+    "3s": "enjambre",
+    "1p": "enjambremos",
+    "2p": "enjambréis",
+    "3p": "enjambren"
+  },
+  "PMQPSI": {
+    "1s": "enjambrara",
+    "2s": "enjambraras",
+    "3s": "enjambrara",
+    "1p": "enjambráramos",
+    "2p": "enjambrarais",
+    "3p": "enjambraran"
+  },
+  "PImpC": {
+    "1s": "enjambrase",
+    "2s": "enjambrases",
+    "3s": "enjambrase",
+    "1p": "enjambrásemos",
+    "2p": "enjambraseis",
+    "3p": "enjambrasen"
+  },
+  "FutSC": {
+    "1s": "enjambrare",
+    "2s": "enjambrares",
+    "3s": "enjambrare",
+    "1p": "enjambráremos",
+    "2p": "enjambrareis",
+    "3p": "enjambraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enjambra",
+    "3s": "enjambre",
+    "1p": "enjambremos",
+    "2p": "enjambrad",
+    "3p": "enjambren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enjambres",
+    "3s": "no enjambre",
+    "1p": "no enjambremos",
+    "2p": "no enjambréis",
+    "3p": "no enjambren"
+  },
+  "Part-ter": {
+    "": "enjambrado"
+  },
+  "Part-ser": {
+    "ms": "enjambrado",
+    "fs": "enjambrada",
+    "mp": "enjambrados",
+    "fp": "enjambradas"
+  }
+}

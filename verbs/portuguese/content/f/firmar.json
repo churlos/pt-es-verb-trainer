@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "firmar"
+  },
+  "InfP": {
+    "1s": "firmar",
+    "2s": "firmares",
+    "3s": "firmar",
+    "1p": "firmarmos",
+    "2p": "firmardes",
+    "3p": "firmarem"
+  },
+  "Ger": {
+    "": "firmando"
+  },
+  "PresI": {
+    "1s": "firmo",
+    "2s": "firmas",
+    "3s": "firma",
+    "1p": "firmamos",
+    "2p": "firmais",
+    "3p": "firmam"
+  },
+  "PImpI": {
+    "1s": "firmava",
+    "2s": "firmavas",
+    "3s": "firmava",
+    "1p": "firmávamos",
+    "2p": "firmáveis",
+    "3p": "firmavam"
+  },
+  "PPSI": {
+    "1s": "firmei",
+    "2s": "firmaste",
+    "3s": "firmou",
+    "1p": "firmámos",
+    "2p": "firmastes",
+    "3p": "firmaram"
+  },
+  "PMQPSI": {
+    "1s": "firmara",
+    "2s": "firmaras",
+    "3s": "firmara",
+    "1p": "firmáramos",
+    "2p": "firmáreis",
+    "3p": "firmaram"
+  },
+  "FutSI": {
+    "1s": "firmarei",
+    "2s": "firmarás",
+    "3s": "firmará",
+    "1p": "firmaremos",
+    "2p": "firmareis",
+    "3p": "firmarão"
+  },
+  "CondS": {
+    "1s": "firmaria",
+    "2s": "firmarias",
+    "3s": "firmaria",
+    "1p": "firmaríamos",
+    "2p": "firmaríeis",
+    "3p": "firmariam"
+  },
+  "PresC": {
+    "1s": "firme",
+    "2s": "firmes",
+    "3s": "firme",
+    "1p": "firmemos",
+    "2p": "firmeis",
+    "3p": "firmem"
+  },
+  "PImpC": {
+    "1s": "firmasse",
+    "2s": "firmasses",
+    "3s": "firmasse",
+    "1p": "firmássemos",
+    "2p": "firmásseis",
+    "3p": "firmassem"
+  },
+  "FutSC": {
+    "1s": "firmar",
+    "2s": "firmares",
+    "3s": "firmar",
+    "1p": "firmarmos",
+    "2p": "firmardes",
+    "3p": "firmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "firma",
+    "3s": "firme",
+    "1p": "firmemos",
+    "2p": "firmai",
+    "3p": "firmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não firmes",
+    "3s": "não firme",
+    "1p": "não firmemos",
+    "2p": "não firmeis",
+    "3p": "não firmem"
+  },
+  "Part-ter": {
+    "": "firmado"
+  },
+  "Part-ser": {
+    "ms": "firmado",
+    "fs": "firmada",
+    "mp": "firmados",
+    "fp": "firmadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arcar"
+  },
+  "InfP": {
+    "1s": "arcar",
+    "2s": "arcares",
+    "3s": "arcar",
+    "1p": "arcarmos",
+    "2p": "arcardes",
+    "3p": "arcarem"
+  },
+  "Ger": {
+    "": "arcando"
+  },
+  "PresI": {
+    "1s": "arco",
+    "2s": "arcas",
+    "3s": "arca",
+    "1p": "arcamos",
+    "2p": "arcais",
+    "3p": "arcam"
+  },
+  "PImpI": {
+    "1s": "arcava",
+    "2s": "arcavas",
+    "3s": "arcava",
+    "1p": "arcávamos",
+    "2p": "arcáveis",
+    "3p": "arcavam"
+  },
+  "PPSI": {
+    "1s": "arquei",
+    "2s": "arcaste",
+    "3s": "arcou",
+    "1p": "arcámos",
+    "2p": "arcastes",
+    "3p": "arcaram"
+  },
+  "PMQPSI": {
+    "1s": "arcara",
+    "2s": "arcaras",
+    "3s": "arcara",
+    "1p": "arcáramos",
+    "2p": "arcáreis",
+    "3p": "arcaram"
+  },
+  "FutSI": {
+    "1s": "arcarei",
+    "2s": "arcarás",
+    "3s": "arcará",
+    "1p": "arcaremos",
+    "2p": "arcareis",
+    "3p": "arcarão"
+  },
+  "CondS": {
+    "1s": "arcaria",
+    "2s": "arcarias",
+    "3s": "arcaria",
+    "1p": "arcaríamos",
+    "2p": "arcaríeis",
+    "3p": "arcariam"
+  },
+  "PresC": {
+    "1s": "arque",
+    "2s": "arques",
+    "3s": "arque",
+    "1p": "arquemos",
+    "2p": "arqueis",
+    "3p": "arquem"
+  },
+  "PImpC": {
+    "1s": "arcasse",
+    "2s": "arcasses",
+    "3s": "arcasse",
+    "1p": "arcássemos",
+    "2p": "arcásseis",
+    "3p": "arcassem"
+  },
+  "FutSC": {
+    "1s": "arcar",
+    "2s": "arcares",
+    "3s": "arcar",
+    "1p": "arcarmos",
+    "2p": "arcardes",
+    "3p": "arcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arca",
+    "3s": "arque",
+    "1p": "arquemos",
+    "2p": "arcai",
+    "3p": "arquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arques",
+    "3s": "não arque",
+    "1p": "não arquemos",
+    "2p": "não arqueis",
+    "3p": "não arquem"
+  },
+  "Part-ter": {
+    "": "arcado"
+  },
+  "Part-ser": {
+    "ms": "arcado",
+    "fs": "arcada",
+    "mp": "arcados",
+    "fp": "arcadas"
+  }
+}

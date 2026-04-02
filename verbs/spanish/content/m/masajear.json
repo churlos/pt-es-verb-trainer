@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "masajear"
+  },
+  "Ger": {
+    "": "masajeando"
+  },
+  "PresI": {
+    "1s": "masajeo",
+    "2s": "masajeas",
+    "3s": "masajea",
+    "1p": "masajeamos",
+    "2p": "masajeáis",
+    "3p": "masajean"
+  },
+  "PImpI": {
+    "1s": "masajeaba",
+    "2s": "masajeabas",
+    "3s": "masajeaba",
+    "1p": "masajeábamos",
+    "2p": "masajeabais",
+    "3p": "masajeaban"
+  },
+  "PPSI": {
+    "1s": "masajeé",
+    "2s": "masajeaste",
+    "3s": "masajeó",
+    "1p": "masajeamos",
+    "2p": "masajeasteis",
+    "3p": "masajearon"
+  },
+  "FutSI": {
+    "1s": "masajearé",
+    "2s": "masajearás",
+    "3s": "masajeará",
+    "1p": "masajearemos",
+    "2p": "masajearéis",
+    "3p": "masajearán"
+  },
+  "CondS": {
+    "1s": "masajearía",
+    "2s": "masajearías",
+    "3s": "masajearía",
+    "1p": "masajearíamos",
+    "2p": "masajearíais",
+    "3p": "masajearían"
+  },
+  "PresC": {
+    "1s": "masajee",
+    "2s": "masajees",
+    "3s": "masajee",
+    "1p": "masajeemos",
+    "2p": "masajeéis",
+    "3p": "masajeen"
+  },
+  "PMQPSI": {
+    "1s": "masajeara",
+    "2s": "masajearas",
+    "3s": "masajeara",
+    "1p": "masajeáramos",
+    "2p": "masajearais",
+    "3p": "masajearan"
+  },
+  "PImpC": {
+    "1s": "masajease",
+    "2s": "masajeases",
+    "3s": "masajease",
+    "1p": "masajeásemos",
+    "2p": "masajeaseis",
+    "3p": "masajeasen"
+  },
+  "FutSC": {
+    "1s": "masajeare",
+    "2s": "masajeares",
+    "3s": "masajeare",
+    "1p": "masajeáremos",
+    "2p": "masajeareis",
+    "3p": "masajearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "masajea",
+    "3s": "masajee",
+    "1p": "masajeemos",
+    "2p": "masajead",
+    "3p": "masajeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no masajees",
+    "3s": "no masajee",
+    "1p": "no masajeemos",
+    "2p": "no masajeéis",
+    "3p": "no masajeen"
+  },
+  "Part-ter": {
+    "": "masajeado"
+  },
+  "Part-ser": {
+    "ms": "masajeado",
+    "fs": "masajeada",
+    "mp": "masajeados",
+    "fp": "masajeadas"
+  }
+}

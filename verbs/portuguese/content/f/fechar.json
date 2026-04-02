@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fechar"
+  },
+  "InfP": {
+    "1s": "fechar",
+    "2s": "fechares",
+    "3s": "fechar",
+    "1p": "fecharmos",
+    "2p": "fechardes",
+    "3p": "fecharem"
+  },
+  "Ger": {
+    "": "fechando"
+  },
+  "PresI": {
+    "1s": "fecho",
+    "2s": "fechas",
+    "3s": "fecha",
+    "1p": "fechamos",
+    "2p": "fechais",
+    "3p": "fecham"
+  },
+  "PImpI": {
+    "1s": "fechava",
+    "2s": "fechavas",
+    "3s": "fechava",
+    "1p": "fechávamos",
+    "2p": "fecháveis",
+    "3p": "fechavam"
+  },
+  "PPSI": {
+    "1s": "fechei",
+    "2s": "fechaste",
+    "3s": "fechou",
+    "1p": "fechámos",
+    "2p": "fechastes",
+    "3p": "fecharam"
+  },
+  "PMQPSI": {
+    "1s": "fechara",
+    "2s": "fecharas",
+    "3s": "fechara",
+    "1p": "fecháramos",
+    "2p": "fecháreis",
+    "3p": "fecharam"
+  },
+  "FutSI": {
+    "1s": "fecharei",
+    "2s": "fecharás",
+    "3s": "fechará",
+    "1p": "fecharemos",
+    "2p": "fechareis",
+    "3p": "fecharão"
+  },
+  "CondS": {
+    "1s": "fecharia",
+    "2s": "fecharias",
+    "3s": "fecharia",
+    "1p": "fecharíamos",
+    "2p": "fecharíeis",
+    "3p": "fechariam"
+  },
+  "PresC": {
+    "1s": "feche",
+    "2s": "feches",
+    "3s": "feche",
+    "1p": "fechemos",
+    "2p": "fecheis",
+    "3p": "fechem"
+  },
+  "PImpC": {
+    "1s": "fechasse",
+    "2s": "fechasses",
+    "3s": "fechasse",
+    "1p": "fechássemos",
+    "2p": "fechásseis",
+    "3p": "fechassem"
+  },
+  "FutSC": {
+    "1s": "fechar",
+    "2s": "fechares",
+    "3s": "fechar",
+    "1p": "fecharmos",
+    "2p": "fechardes",
+    "3p": "fecharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fecha",
+    "3s": "feche",
+    "1p": "fechemos",
+    "2p": "fechai",
+    "3p": "fechem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não feches",
+    "3s": "não feche",
+    "1p": "não fechemos",
+    "2p": "não fecheis",
+    "3p": "não fechem"
+  },
+  "Part-ter": {
+    "": "fechado"
+  },
+  "Part-ser": {
+    "ms": "fechado",
+    "fs": "fechada",
+    "mp": "fechados",
+    "fp": "fechadas"
+  }
+}

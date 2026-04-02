@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rearmar"
+  },
+  "Ger": {
+    "": "rearmando"
+  },
+  "PresI": {
+    "1s": "rearmo",
+    "2s": "rearmas",
+    "3s": "rearma",
+    "1p": "rearmamos",
+    "2p": "rearmáis",
+    "3p": "rearman"
+  },
+  "PImpI": {
+    "1s": "rearmaba",
+    "2s": "rearmabas",
+    "3s": "rearmaba",
+    "1p": "rearmábamos",
+    "2p": "rearmabais",
+    "3p": "rearmaban"
+  },
+  "PPSI": {
+    "1s": "rearmé",
+    "2s": "rearmaste",
+    "3s": "rearmó",
+    "1p": "rearmamos",
+    "2p": "rearmasteis",
+    "3p": "rearmaron"
+  },
+  "FutSI": {
+    "1s": "rearmaré",
+    "2s": "rearmarás",
+    "3s": "rearmará",
+    "1p": "rearmaremos",
+    "2p": "rearmaréis",
+    "3p": "rearmarán"
+  },
+  "CondS": {
+    "1s": "rearmaría",
+    "2s": "rearmarías",
+    "3s": "rearmaría",
+    "1p": "rearmaríamos",
+    "2p": "rearmaríais",
+    "3p": "rearmarían"
+  },
+  "PresC": {
+    "1s": "rearme",
+    "2s": "rearmes",
+    "3s": "rearme",
+    "1p": "rearmemos",
+    "2p": "rearméis",
+    "3p": "rearmen"
+  },
+  "PMQPSI": {
+    "1s": "rearmara",
+    "2s": "rearmaras",
+    "3s": "rearmara",
+    "1p": "rearmáramos",
+    "2p": "rearmarais",
+    "3p": "rearmaran"
+  },
+  "PImpC": {
+    "1s": "rearmase",
+    "2s": "rearmases",
+    "3s": "rearmase",
+    "1p": "rearmásemos",
+    "2p": "rearmaseis",
+    "3p": "rearmasen"
+  },
+  "FutSC": {
+    "1s": "rearmare",
+    "2s": "rearmares",
+    "3s": "rearmare",
+    "1p": "rearmáremos",
+    "2p": "rearmareis",
+    "3p": "rearmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rearma",
+    "3s": "rearme",
+    "1p": "rearmemos",
+    "2p": "rearmad",
+    "3p": "rearmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rearmes",
+    "3s": "no rearme",
+    "1p": "no rearmemos",
+    "2p": "no rearméis",
+    "3p": "no rearmen"
+  },
+  "Part-ter": {
+    "": "rearmado"
+  },
+  "Part-ser": {
+    "ms": "rearmado",
+    "fs": "rearmada",
+    "mp": "rearmados",
+    "fp": "rearmadas"
+  }
+}

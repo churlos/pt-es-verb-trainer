@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "maltar"
+  },
+  "InfP": {
+    "1s": "maltar",
+    "2s": "maltares",
+    "3s": "maltar",
+    "1p": "maltarmos",
+    "2p": "maltardes",
+    "3p": "maltarem"
+  },
+  "Ger": {
+    "": "maltando"
+  },
+  "PresI": {
+    "1s": "malto",
+    "2s": "maltas",
+    "3s": "malta",
+    "1p": "maltamos",
+    "2p": "maltais",
+    "3p": "maltam"
+  },
+  "PImpI": {
+    "1s": "maltava",
+    "2s": "maltavas",
+    "3s": "maltava",
+    "1p": "maltávamos",
+    "2p": "maltáveis",
+    "3p": "maltavam"
+  },
+  "PPSI": {
+    "1s": "maltei",
+    "2s": "maltaste",
+    "3s": "maltou",
+    "1p": "maltámos",
+    "2p": "maltastes",
+    "3p": "maltaram"
+  },
+  "PMQPSI": {
+    "1s": "maltara",
+    "2s": "maltaras",
+    "3s": "maltara",
+    "1p": "maltáramos",
+    "2p": "maltáreis",
+    "3p": "maltaram"
+  },
+  "FutSI": {
+    "1s": "maltarei",
+    "2s": "maltarás",
+    "3s": "maltará",
+    "1p": "maltaremos",
+    "2p": "maltareis",
+    "3p": "maltarão"
+  },
+  "CondS": {
+    "1s": "maltaria",
+    "2s": "maltarias",
+    "3s": "maltaria",
+    "1p": "maltaríamos",
+    "2p": "maltaríeis",
+    "3p": "maltariam"
+  },
+  "PresC": {
+    "1s": "malte",
+    "2s": "maltes",
+    "3s": "malte",
+    "1p": "maltemos",
+    "2p": "malteis",
+    "3p": "maltem"
+  },
+  "PImpC": {
+    "1s": "maltasse",
+    "2s": "maltasses",
+    "3s": "maltasse",
+    "1p": "maltássemos",
+    "2p": "maltásseis",
+    "3p": "maltassem"
+  },
+  "FutSC": {
+    "1s": "maltar",
+    "2s": "maltares",
+    "3s": "maltar",
+    "1p": "maltarmos",
+    "2p": "maltardes",
+    "3p": "maltarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "malta",
+    "3s": "malte",
+    "1p": "maltemos",
+    "2p": "maltai",
+    "3p": "maltem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não maltes",
+    "3s": "não malte",
+    "1p": "não maltemos",
+    "2p": "não malteis",
+    "3p": "não maltem"
+  },
+  "Part-ter": {
+    "": "maltado"
+  },
+  "Part-ser": {
+    "ms": "maltado",
+    "fs": "maltada",
+    "mp": "maltados",
+    "fp": "maltadas"
+  }
+}

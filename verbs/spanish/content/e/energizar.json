@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "energizar"
+  },
+  "Ger": {
+    "": "energizando"
+  },
+  "PresI": {
+    "1s": "energizo",
+    "2s": "energizas",
+    "3s": "energiza",
+    "1p": "energizamos",
+    "2p": "energizáis",
+    "3p": "energizan"
+  },
+  "PImpI": {
+    "1s": "energizaba",
+    "2s": "energizabas",
+    "3s": "energizaba",
+    "1p": "energizábamos",
+    "2p": "energizabais",
+    "3p": "energizaban"
+  },
+  "PPSI": {
+    "1s": "energicé",
+    "2s": "energizaste",
+    "3s": "energizó",
+    "1p": "energizamos",
+    "2p": "energizasteis",
+    "3p": "energizaron"
+  },
+  "FutSI": {
+    "1s": "energizaré",
+    "2s": "energizarás",
+    "3s": "energizará",
+    "1p": "energizaremos",
+    "2p": "energizaréis",
+    "3p": "energizarán"
+  },
+  "CondS": {
+    "1s": "energizaría",
+    "2s": "energizarías",
+    "3s": "energizaría",
+    "1p": "energizaríamos",
+    "2p": "energizaríais",
+    "3p": "energizarían"
+  },
+  "PresC": {
+    "1s": "energice",
+    "2s": "energices",
+    "3s": "energice",
+    "1p": "energicemos",
+    "2p": "energicéis",
+    "3p": "energicen"
+  },
+  "PMQPSI": {
+    "1s": "energizara",
+    "2s": "energizaras",
+    "3s": "energizara",
+    "1p": "energizáramos",
+    "2p": "energizarais",
+    "3p": "energizaran"
+  },
+  "PImpC": {
+    "1s": "energizase",
+    "2s": "energizases",
+    "3s": "energizase",
+    "1p": "energizásemos",
+    "2p": "energizaseis",
+    "3p": "energizasen"
+  },
+  "FutSC": {
+    "1s": "energizare",
+    "2s": "energizares",
+    "3s": "energizare",
+    "1p": "energizáremos",
+    "2p": "energizareis",
+    "3p": "energizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "energiza",
+    "3s": "energice",
+    "1p": "energicemos",
+    "2p": "energizad",
+    "3p": "energicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no energices",
+    "3s": "no energice",
+    "1p": "no energicemos",
+    "2p": "no energicéis",
+    "3p": "no energicen"
+  },
+  "Part-ter": {
+    "": "energizado"
+  },
+  "Part-ser": {
+    "ms": "energizado",
+    "fs": "energizada",
+    "mp": "energizados",
+    "fp": "energizadas"
+  }
+}

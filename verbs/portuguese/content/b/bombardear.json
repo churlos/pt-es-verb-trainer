@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bombardear"
+  },
+  "InfP": {
+    "1s": "bombardear",
+    "2s": "bombardeares",
+    "3s": "bombardear",
+    "1p": "bombardearmos",
+    "2p": "bombardeardes",
+    "3p": "bombardearem"
+  },
+  "Ger": {
+    "": "bombardeando"
+  },
+  "PresI": {
+    "1s": "bombardeio",
+    "2s": "bombardeias",
+    "3s": "bombardeia",
+    "1p": "bombardeamos",
+    "2p": "bombardeais",
+    "3p": "bombardeiam"
+  },
+  "PImpI": {
+    "1s": "bombardeava",
+    "2s": "bombardeavas",
+    "3s": "bombardeava",
+    "1p": "bombardeávamos",
+    "2p": "bombardeáveis",
+    "3p": "bombardeavam"
+  },
+  "PPSI": {
+    "1s": "bombardeei",
+    "2s": "bombardeaste",
+    "3s": "bombardeou",
+    "1p": "bombardeámos",
+    "2p": "bombardeastes",
+    "3p": "bombardearam"
+  },
+  "PMQPSI": {
+    "1s": "bombardeara",
+    "2s": "bombardearas",
+    "3s": "bombardeara",
+    "1p": "bombardeáramos",
+    "2p": "bombardeáreis",
+    "3p": "bombardearam"
+  },
+  "FutSI": {
+    "1s": "bombardearei",
+    "2s": "bombardearás",
+    "3s": "bombardeará",
+    "1p": "bombardearemos",
+    "2p": "bombardeareis",
+    "3p": "bombardearão"
+  },
+  "CondS": {
+    "1s": "bombardearia",
+    "2s": "bombardearias",
+    "3s": "bombardearia",
+    "1p": "bombardearíamos",
+    "2p": "bombardearíeis",
+    "3p": "bombardeariam"
+  },
+  "PresC": {
+    "1s": "bombardeie",
+    "2s": "bombardeies",
+    "3s": "bombardeie",
+    "1p": "bombardeemos",
+    "2p": "bombardeeis",
+    "3p": "bombardeiem"
+  },
+  "PImpC": {
+    "1s": "bombardeasse",
+    "2s": "bombardeasses",
+    "3s": "bombardeasse",
+    "1p": "bombardeássemos",
+    "2p": "bombardeásseis",
+    "3p": "bombardeassem"
+  },
+  "FutSC": {
+    "1s": "bombardear",
+    "2s": "bombardeares",
+    "3s": "bombardear",
+    "1p": "bombardearmos",
+    "2p": "bombardeardes",
+    "3p": "bombardearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bombardeia",
+    "3s": "bombardeie",
+    "1p": "bombardeemos",
+    "2p": "bombardeai",
+    "3p": "bombardeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bombardeies",
+    "3s": "não bombardeie",
+    "1p": "não bombardeemos",
+    "2p": "não bombardeeis",
+    "3p": "não bombardeiem"
+  },
+  "Part-ter": {
+    "": "bombardeado"
+  },
+  "Part-ser": {
+    "ms": "bombardeado",
+    "fs": "bombardeada",
+    "mp": "bombardeados",
+    "fp": "bombardeadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jeringar"
+  },
+  "Ger": {
+    "": "jeringando"
+  },
+  "PresI": {
+    "1s": "jeringo",
+    "2s": "jeringas",
+    "3s": "jeringa",
+    "1p": "jeringamos",
+    "2p": "jeringáis",
+    "3p": "jeringan"
+  },
+  "PImpI": {
+    "1s": "jeringaba",
+    "2s": "jeringabas",
+    "3s": "jeringaba",
+    "1p": "jeringábamos",
+    "2p": "jeringabais",
+    "3p": "jeringaban"
+  },
+  "PPSI": {
+    "1s": "jeringué",
+    "2s": "jeringaste",
+    "3s": "jeringó",
+    "1p": "jeringamos",
+    "2p": "jeringasteis",
+    "3p": "jeringaron"
+  },
+  "FutSI": {
+    "1s": "jeringaré",
+    "2s": "jeringarás",
+    "3s": "jeringará",
+    "1p": "jeringaremos",
+    "2p": "jeringaréis",
+    "3p": "jeringarán"
+  },
+  "CondS": {
+    "1s": "jeringaría",
+    "2s": "jeringarías",
+    "3s": "jeringaría",
+    "1p": "jeringaríamos",
+    "2p": "jeringaríais",
+    "3p": "jeringarían"
+  },
+  "PresC": {
+    "1s": "jeringue",
+    "2s": "jeringues",
+    "3s": "jeringue",
+    "1p": "jeringuemos",
+    "2p": "jeringuéis",
+    "3p": "jeringuen"
+  },
+  "PMQPSI": {
+    "1s": "jeringara",
+    "2s": "jeringaras",
+    "3s": "jeringara",
+    "1p": "jeringáramos",
+    "2p": "jeringarais",
+    "3p": "jeringaran"
+  },
+  "PImpC": {
+    "1s": "jeringase",
+    "2s": "jeringases",
+    "3s": "jeringase",
+    "1p": "jeringásemos",
+    "2p": "jeringaseis",
+    "3p": "jeringasen"
+  },
+  "FutSC": {
+    "1s": "jeringare",
+    "2s": "jeringares",
+    "3s": "jeringare",
+    "1p": "jeringáremos",
+    "2p": "jeringareis",
+    "3p": "jeringaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jeringa",
+    "3s": "jeringue",
+    "1p": "jeringuemos",
+    "2p": "jeringad",
+    "3p": "jeringuen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no jeringues",
+    "3s": "no jeringue",
+    "1p": "no jeringuemos",
+    "2p": "no jeringuéis",
+    "3p": "no jeringuen"
+  },
+  "Part-ter": {
+    "": "jeringado"
+  },
+  "Part-ser": {
+    "ms": "jeringado",
+    "fs": "jeringada",
+    "mp": "jeringados",
+    "fp": "jeringadas"
+  }
+}

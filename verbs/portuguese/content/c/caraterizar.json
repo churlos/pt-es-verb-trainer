@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "caraterizar"
+  },
+  "InfP": {
+    "1s": "caraterizar",
+    "2s": "caraterizares",
+    "3s": "caraterizar",
+    "1p": "caraterizarmos",
+    "2p": "caraterizardes",
+    "3p": "caraterizarem"
+  },
+  "Ger": {
+    "": "caraterizando"
+  },
+  "PresI": {
+    "1s": "caraterizo",
+    "2s": "caraterizas",
+    "3s": "carateriza",
+    "1p": "caraterizamos",
+    "2p": "caraterizais",
+    "3p": "caraterizam"
+  },
+  "PImpI": {
+    "1s": "caraterizava",
+    "2s": "caraterizavas",
+    "3s": "caraterizava",
+    "1p": "caraterizávamos",
+    "2p": "caraterizáveis",
+    "3p": "caraterizavam"
+  },
+  "PPSI": {
+    "1s": "caraterizei",
+    "2s": "caraterizaste",
+    "3s": "caraterizou",
+    "1p": "caraterizámos",
+    "2p": "caraterizastes",
+    "3p": "caraterizaram"
+  },
+  "PMQPSI": {
+    "1s": "caraterizara",
+    "2s": "caraterizaras",
+    "3s": "caraterizara",
+    "1p": "caraterizáramos",
+    "2p": "caraterizáreis",
+    "3p": "caraterizaram"
+  },
+  "FutSI": {
+    "1s": "caraterizarei",
+    "2s": "caraterizarás",
+    "3s": "caraterizará",
+    "1p": "caraterizaremos",
+    "2p": "caraterizareis",
+    "3p": "caraterizarão"
+  },
+  "CondS": {
+    "1s": "caraterizaria",
+    "2s": "caraterizarias",
+    "3s": "caraterizaria",
+    "1p": "caraterizaríamos",
+    "2p": "caraterizaríeis",
+    "3p": "caraterizariam"
+  },
+  "PresC": {
+    "1s": "caraterize",
+    "2s": "caraterizes",
+    "3s": "caraterize",
+    "1p": "caraterizemos",
+    "2p": "caraterizeis",
+    "3p": "caraterizem"
+  },
+  "PImpC": {
+    "1s": "caraterizasse",
+    "2s": "caraterizasses",
+    "3s": "caraterizasse",
+    "1p": "caraterizássemos",
+    "2p": "caraterizásseis",
+    "3p": "caraterizassem"
+  },
+  "FutSC": {
+    "1s": "caraterizar",
+    "2s": "caraterizares",
+    "3s": "caraterizar",
+    "1p": "caraterizarmos",
+    "2p": "caraterizardes",
+    "3p": "caraterizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carateriza",
+    "3s": "caraterize",
+    "1p": "caraterizemos",
+    "2p": "caraterizai",
+    "3p": "caraterizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não caraterizes",
+    "3s": "não caraterize",
+    "1p": "não caraterizemos",
+    "2p": "não caraterizeis",
+    "3p": "não caraterizem"
+  },
+  "Part-ter": {
+    "": "caraterizado"
+  },
+  "Part-ser": {
+    "ms": "caraterizado",
+    "fs": "caraterizada",
+    "mp": "caraterizados",
+    "fp": "caraterizadas"
+  }
+}

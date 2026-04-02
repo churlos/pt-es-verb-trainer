@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "moldar"
+  },
+  "InfP": {
+    "1s": "moldar",
+    "2s": "moldares",
+    "3s": "moldar",
+    "1p": "moldarmos",
+    "2p": "moldardes",
+    "3p": "moldarem"
+  },
+  "Ger": {
+    "": "moldando"
+  },
+  "PresI": {
+    "1s": "moldo",
+    "2s": "moldas",
+    "3s": "molda",
+    "1p": "moldamos",
+    "2p": "moldais",
+    "3p": "moldam"
+  },
+  "PImpI": {
+    "1s": "moldava",
+    "2s": "moldavas",
+    "3s": "moldava",
+    "1p": "moldávamos",
+    "2p": "moldáveis",
+    "3p": "moldavam"
+  },
+  "PPSI": {
+    "1s": "moldei",
+    "2s": "moldaste",
+    "3s": "moldou",
+    "1p": "moldámos",
+    "2p": "moldastes",
+    "3p": "moldaram"
+  },
+  "PMQPSI": {
+    "1s": "moldara",
+    "2s": "moldaras",
+    "3s": "moldara",
+    "1p": "moldáramos",
+    "2p": "moldáreis",
+    "3p": "moldaram"
+  },
+  "FutSI": {
+    "1s": "moldarei",
+    "2s": "moldarás",
+    "3s": "moldará",
+    "1p": "moldaremos",
+    "2p": "moldareis",
+    "3p": "moldarão"
+  },
+  "CondS": {
+    "1s": "moldaria",
+    "2s": "moldarias",
+    "3s": "moldaria",
+    "1p": "moldaríamos",
+    "2p": "moldaríeis",
+    "3p": "moldariam"
+  },
+  "PresC": {
+    "1s": "molde",
+    "2s": "moldes",
+    "3s": "molde",
+    "1p": "moldemos",
+    "2p": "moldeis",
+    "3p": "moldem"
+  },
+  "PImpC": {
+    "1s": "moldasse",
+    "2s": "moldasses",
+    "3s": "moldasse",
+    "1p": "moldássemos",
+    "2p": "moldásseis",
+    "3p": "moldassem"
+  },
+  "FutSC": {
+    "1s": "moldar",
+    "2s": "moldares",
+    "3s": "moldar",
+    "1p": "moldarmos",
+    "2p": "moldardes",
+    "3p": "moldarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "molda",
+    "3s": "molde",
+    "1p": "moldemos",
+    "2p": "moldai",
+    "3p": "moldem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não moldes",
+    "3s": "não molde",
+    "1p": "não moldemos",
+    "2p": "não moldeis",
+    "3p": "não moldem"
+  },
+  "Part-ter": {
+    "": "moldado"
+  },
+  "Part-ser": {
+    "ms": "moldado",
+    "fs": "moldada",
+    "mp": "moldados",
+    "fp": "moldadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reagir"
+  },
+  "InfP": {
+    "1s": "reagir",
+    "2s": "reagires",
+    "3s": "reagir",
+    "1p": "reagirmos",
+    "2p": "reagirdes",
+    "3p": "reagirem"
+  },
+  "Ger": {
+    "": "reagindo"
+  },
+  "PresI": {
+    "1s": "reajo",
+    "2s": "reages",
+    "3s": "reage",
+    "1p": "reagimos",
+    "2p": "reagis",
+    "3p": "reagem"
+  },
+  "PImpI": {
+    "1s": "reagia",
+    "2s": "reagias",
+    "3s": "reagia",
+    "1p": "reagíamos",
+    "2p": "reagíeis",
+    "3p": "reagiam"
+  },
+  "PPSI": {
+    "1s": "reagi",
+    "2s": "reagiste",
+    "3s": "reagiu",
+    "1p": "reagimos",
+    "2p": "reagistes",
+    "3p": "reagiram"
+  },
+  "PMQPSI": {
+    "1s": "reagira",
+    "2s": "reagiras",
+    "3s": "reagira",
+    "1p": "reagíramos",
+    "2p": "reagíreis",
+    "3p": "reagiram"
+  },
+  "FutSI": {
+    "1s": "reagirei",
+    "2s": "reagirás",
+    "3s": "reagirá",
+    "1p": "reagiremos",
+    "2p": "reagireis",
+    "3p": "reagirão"
+  },
+  "CondS": {
+    "1s": "reagiria",
+    "2s": "reagirias",
+    "3s": "reagiria",
+    "1p": "reagiríamos",
+    "2p": "reagiríeis",
+    "3p": "reagiriam"
+  },
+  "PresC": {
+    "1s": "reaja",
+    "2s": "reajas",
+    "3s": "reaja",
+    "1p": "reajamos",
+    "2p": "reajais",
+    "3p": "reajam"
+  },
+  "PImpC": {
+    "1s": "reagisse",
+    "2s": "reagisses",
+    "3s": "reagisse",
+    "1p": "reagíssemos",
+    "2p": "reagísseis",
+    "3p": "reagissem"
+  },
+  "FutSC": {
+    "1s": "reagir",
+    "2s": "reagires",
+    "3s": "reagir",
+    "1p": "reagirmos",
+    "2p": "reagirdes",
+    "3p": "reagirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reage",
+    "3s": "reaja",
+    "1p": "reajamos",
+    "2p": "reagi",
+    "3p": "reajam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reajas",
+    "3s": "não reaja",
+    "1p": "não reajamos",
+    "2p": "não reajais",
+    "3p": "não reajam"
+  },
+  "Part-ter": {
+    "": "reagido"
+  },
+  "Part-ser": {
+    "ms": "reagido",
+    "fs": "reagida",
+    "mp": "reagidos",
+    "fp": "reagidas"
+  }
+}

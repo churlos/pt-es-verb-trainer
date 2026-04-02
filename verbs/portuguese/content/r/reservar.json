@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reservar"
+  },
+  "InfP": {
+    "1s": "reservar",
+    "2s": "reservares",
+    "3s": "reservar",
+    "1p": "reservarmos",
+    "2p": "reservardes",
+    "3p": "reservarem"
+  },
+  "Ger": {
+    "": "reservando"
+  },
+  "PresI": {
+    "1s": "reservo",
+    "2s": "reservas",
+    "3s": "reserva",
+    "1p": "reservamos",
+    "2p": "reservais",
+    "3p": "reservam"
+  },
+  "PImpI": {
+    "1s": "reservava",
+    "2s": "reservavas",
+    "3s": "reservava",
+    "1p": "reservávamos",
+    "2p": "reserváveis",
+    "3p": "reservavam"
+  },
+  "PPSI": {
+    "1s": "reservei",
+    "2s": "reservaste",
+    "3s": "reservou",
+    "1p": "reservámos",
+    "2p": "reservastes",
+    "3p": "reservaram"
+  },
+  "PMQPSI": {
+    "1s": "reservara",
+    "2s": "reservaras",
+    "3s": "reservara",
+    "1p": "reserváramos",
+    "2p": "reserváreis",
+    "3p": "reservaram"
+  },
+  "FutSI": {
+    "1s": "reservarei",
+    "2s": "reservarás",
+    "3s": "reservará",
+    "1p": "reservaremos",
+    "2p": "reservareis",
+    "3p": "reservarão"
+  },
+  "CondS": {
+    "1s": "reservaria",
+    "2s": "reservarias",
+    "3s": "reservaria",
+    "1p": "reservaríamos",
+    "2p": "reservaríeis",
+    "3p": "reservariam"
+  },
+  "PresC": {
+    "1s": "reserve",
+    "2s": "reserves",
+    "3s": "reserve",
+    "1p": "reservemos",
+    "2p": "reserveis",
+    "3p": "reservem"
+  },
+  "PImpC": {
+    "1s": "reservasse",
+    "2s": "reservasses",
+    "3s": "reservasse",
+    "1p": "reservássemos",
+    "2p": "reservásseis",
+    "3p": "reservassem"
+  },
+  "FutSC": {
+    "1s": "reservar",
+    "2s": "reservares",
+    "3s": "reservar",
+    "1p": "reservarmos",
+    "2p": "reservardes",
+    "3p": "reservarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reserva",
+    "3s": "reserve",
+    "1p": "reservemos",
+    "2p": "reservai",
+    "3p": "reservem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reserves",
+    "3s": "não reserve",
+    "1p": "não reservemos",
+    "2p": "não reserveis",
+    "3p": "não reservem"
+  },
+  "Part-ter": {
+    "": "reservado"
+  },
+  "Part-ser": {
+    "ms": "reservado",
+    "fs": "reservada",
+    "mp": "reservados",
+    "fp": "reservadas"
+  }
+}

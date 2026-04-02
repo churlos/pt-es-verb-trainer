@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "guindar"
+  },
+  "InfP": {
+    "1s": "guindar",
+    "2s": "guindares",
+    "3s": "guindar",
+    "1p": "guindarmos",
+    "2p": "guindardes",
+    "3p": "guindarem"
+  },
+  "Ger": {
+    "": "guindando"
+  },
+  "PresI": {
+    "1s": "guindo",
+    "2s": "guindas",
+    "3s": "guinda",
+    "1p": "guindamos",
+    "2p": "guindais",
+    "3p": "guindam"
+  },
+  "PImpI": {
+    "1s": "guindava",
+    "2s": "guindavas",
+    "3s": "guindava",
+    "1p": "guindávamos",
+    "2p": "guindáveis",
+    "3p": "guindavam"
+  },
+  "PPSI": {
+    "1s": "guindei",
+    "2s": "guindaste",
+    "3s": "guindou",
+    "1p": "guindámos",
+    "2p": "guindastes",
+    "3p": "guindaram"
+  },
+  "PMQPSI": {
+    "1s": "guindara",
+    "2s": "guindaras",
+    "3s": "guindara",
+    "1p": "guindáramos",
+    "2p": "guindáreis",
+    "3p": "guindaram"
+  },
+  "FutSI": {
+    "1s": "guindarei",
+    "2s": "guindarás",
+    "3s": "guindará",
+    "1p": "guindaremos",
+    "2p": "guindareis",
+    "3p": "guindarão"
+  },
+  "CondS": {
+    "1s": "guindaria",
+    "2s": "guindarias",
+    "3s": "guindaria",
+    "1p": "guindaríamos",
+    "2p": "guindaríeis",
+    "3p": "guindariam"
+  },
+  "PresC": {
+    "1s": "guinde",
+    "2s": "guindes",
+    "3s": "guinde",
+    "1p": "guindemos",
+    "2p": "guindeis",
+    "3p": "guindem"
+  },
+  "PImpC": {
+    "1s": "guindasse",
+    "2s": "guindasses",
+    "3s": "guindasse",
+    "1p": "guindássemos",
+    "2p": "guindásseis",
+    "3p": "guindassem"
+  },
+  "FutSC": {
+    "1s": "guindar",
+    "2s": "guindares",
+    "3s": "guindar",
+    "1p": "guindarmos",
+    "2p": "guindardes",
+    "3p": "guindarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guinda",
+    "3s": "guinde",
+    "1p": "guindemos",
+    "2p": "guindai",
+    "3p": "guindem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não guindes",
+    "3s": "não guinde",
+    "1p": "não guindemos",
+    "2p": "não guindeis",
+    "3p": "não guindem"
+  },
+  "Part-ter": {
+    "": "guindado"
+  },
+  "Part-ser": {
+    "ms": "guindado",
+    "fs": "guindada",
+    "mp": "guindados",
+    "fp": "guindadas"
+  }
+}

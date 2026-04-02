@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "novar"
+  },
+  "Ger": {
+    "": "novando"
+  },
+  "PresI": {
+    "1s": "novo",
+    "2s": "novas",
+    "3s": "nova",
+    "1p": "novamos",
+    "2p": "nováis",
+    "3p": "novan"
+  },
+  "PImpI": {
+    "1s": "novaba",
+    "2s": "novabas",
+    "3s": "novaba",
+    "1p": "novábamos",
+    "2p": "novabais",
+    "3p": "novaban"
+  },
+  "PPSI": {
+    "1s": "nové",
+    "2s": "novaste",
+    "3s": "novó",
+    "1p": "novamos",
+    "2p": "novasteis",
+    "3p": "novaron"
+  },
+  "FutSI": {
+    "1s": "novaré",
+    "2s": "novarás",
+    "3s": "novará",
+    "1p": "novaremos",
+    "2p": "novaréis",
+    "3p": "novarán"
+  },
+  "CondS": {
+    "1s": "novaría",
+    "2s": "novarías",
+    "3s": "novaría",
+    "1p": "novaríamos",
+    "2p": "novaríais",
+    "3p": "novarían"
+  },
+  "PresC": {
+    "1s": "nove",
+    "2s": "noves",
+    "3s": "nove",
+    "1p": "novemos",
+    "2p": "novéis",
+    "3p": "noven"
+  },
+  "PMQPSI": {
+    "1s": "novara",
+    "2s": "novaras",
+    "3s": "novara",
+    "1p": "nováramos",
+    "2p": "novarais",
+    "3p": "novaran"
+  },
+  "PImpC": {
+    "1s": "novase",
+    "2s": "novases",
+    "3s": "novase",
+    "1p": "novásemos",
+    "2p": "novaseis",
+    "3p": "novasen"
+  },
+  "FutSC": {
+    "1s": "novare",
+    "2s": "novares",
+    "3s": "novare",
+    "1p": "nováremos",
+    "2p": "novareis",
+    "3p": "novaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nova",
+    "3s": "nove",
+    "1p": "novemos",
+    "2p": "novad",
+    "3p": "noven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no noves",
+    "3s": "no nove",
+    "1p": "no novemos",
+    "2p": "no novéis",
+    "3p": "no noven"
+  },
+  "Part-ter": {
+    "": "novado"
+  },
+  "Part-ser": {
+    "ms": "novado",
+    "fs": "novada",
+    "mp": "novados",
+    "fp": "novadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "proselitar"
+  },
+  "InfP": {
+    "1s": "proselitar",
+    "2s": "proselitares",
+    "3s": "proselitar",
+    "1p": "proselitarmos",
+    "2p": "proselitardes",
+    "3p": "proselitarem"
+  },
+  "Ger": {
+    "": "proselitando"
+  },
+  "PresI": {
+    "1s": "proselito",
+    "2s": "proselitas",
+    "3s": "proselita",
+    "1p": "proselitamos",
+    "2p": "proselitais",
+    "3p": "proselitam"
+  },
+  "PImpI": {
+    "1s": "proselitava",
+    "2s": "proselitavas",
+    "3s": "proselitava",
+    "1p": "proselitávamos",
+    "2p": "proselitáveis",
+    "3p": "proselitavam"
+  },
+  "PPSI": {
+    "1s": "proselitei",
+    "2s": "proselitaste",
+    "3s": "proselitou",
+    "1p": "proselitámos",
+    "2p": "proselitastes",
+    "3p": "proselitaram"
+  },
+  "PMQPSI": {
+    "1s": "proselitara",
+    "2s": "proselitaras",
+    "3s": "proselitara",
+    "1p": "proselitáramos",
+    "2p": "proselitáreis",
+    "3p": "proselitaram"
+  },
+  "FutSI": {
+    "1s": "proselitarei",
+    "2s": "proselitarás",
+    "3s": "proselitará",
+    "1p": "proselitaremos",
+    "2p": "proselitareis",
+    "3p": "proselitarão"
+  },
+  "CondS": {
+    "1s": "proselitaria",
+    "2s": "proselitarias",
+    "3s": "proselitaria",
+    "1p": "proselitaríamos",
+    "2p": "proselitaríeis",
+    "3p": "proselitariam"
+  },
+  "PresC": {
+    "1s": "proselite",
+    "2s": "proselites",
+    "3s": "proselite",
+    "1p": "proselitemos",
+    "2p": "proseliteis",
+    "3p": "proselitem"
+  },
+  "PImpC": {
+    "1s": "proselitasse",
+    "2s": "proselitasses",
+    "3s": "proselitasse",
+    "1p": "proselitássemos",
+    "2p": "proselitásseis",
+    "3p": "proselitassem"
+  },
+  "FutSC": {
+    "1s": "proselitar",
+    "2s": "proselitares",
+    "3s": "proselitar",
+    "1p": "proselitarmos",
+    "2p": "proselitardes",
+    "3p": "proselitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "proselita",
+    "3s": "proselite",
+    "1p": "proselitemos",
+    "2p": "proselitai",
+    "3p": "proselitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não proselites",
+    "3s": "não proselite",
+    "1p": "não proselitemos",
+    "2p": "não proseliteis",
+    "3p": "não proselitem"
+  },
+  "Part-ter": {
+    "": "proselitado"
+  },
+  "Part-ser": {
+    "ms": "proselitado",
+    "fs": "proselitada",
+    "mp": "proselitados",
+    "fp": "proselitadas"
+  }
+}

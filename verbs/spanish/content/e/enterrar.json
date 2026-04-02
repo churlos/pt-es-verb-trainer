@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enterrar"
+  },
+  "Ger": {
+    "": "enterrando"
+  },
+  "PresI": {
+    "1s": "entierro",
+    "2s": "entierras",
+    "3s": "entierra",
+    "1p": "enterramos",
+    "2p": "enterráis",
+    "3p": "entierran"
+  },
+  "PImpI": {
+    "1s": "enterraba",
+    "2s": "enterrabas",
+    "3s": "enterraba",
+    "1p": "enterrábamos",
+    "2p": "enterrabais",
+    "3p": "enterraban"
+  },
+  "PPSI": {
+    "1s": "enterré",
+    "2s": "enterraste",
+    "3s": "enterró",
+    "1p": "enterramos",
+    "2p": "enterrasteis",
+    "3p": "enterraron"
+  },
+  "FutSI": {
+    "1s": "enterraré",
+    "2s": "enterrarás",
+    "3s": "enterrará",
+    "1p": "enterraremos",
+    "2p": "enterraréis",
+    "3p": "enterrarán"
+  },
+  "CondS": {
+    "1s": "enterraría",
+    "2s": "enterrarías",
+    "3s": "enterraría",
+    "1p": "enterraríamos",
+    "2p": "enterraríais",
+    "3p": "enterrarían"
+  },
+  "PresC": {
+    "1s": "entierre",
+    "2s": "entierres",
+    "3s": "entierre",
+    "1p": "enterremos",
+    "2p": "enterréis",
+    "3p": "entierren"
+  },
+  "PMQPSI": {
+    "1s": "enterrara",
+    "2s": "enterraras",
+    "3s": "enterrara",
+    "1p": "enterráramos",
+    "2p": "enterrarais",
+    "3p": "enterraran"
+  },
+  "PImpC": {
+    "1s": "enterrase",
+    "2s": "enterrases",
+    "3s": "enterrase",
+    "1p": "enterrásemos",
+    "2p": "enterraseis",
+    "3p": "enterrasen"
+  },
+  "FutSC": {
+    "1s": "enterrare",
+    "2s": "enterrares",
+    "3s": "enterrare",
+    "1p": "enterráremos",
+    "2p": "enterrareis",
+    "3p": "enterraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entierra",
+    "3s": "entierre",
+    "1p": "enterremos",
+    "2p": "enterrad",
+    "3p": "entierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no entierres",
+    "3s": "no entierre",
+    "1p": "no enterremos",
+    "2p": "no enterréis",
+    "3p": "no entierren"
+  },
+  "Part-ter": {
+    "": "enterrado"
+  },
+  "Part-ser": {
+    "ms": "enterrado",
+    "fs": "enterrada",
+    "mp": "enterrados",
+    "fp": "enterradas"
+  }
+}

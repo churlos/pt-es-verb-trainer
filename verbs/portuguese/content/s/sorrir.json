@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sorrir"
+  },
+  "InfP": {
+    "1s": "sorrir",
+    "2s": "sorrires",
+    "3s": "sorrir",
+    "1p": "sorrirmos",
+    "2p": "sorrirdes",
+    "3p": "sorrirem"
+  },
+  "Ger": {
+    "": "sorrindo"
+  },
+  "PresI": {
+    "1s": "sorrio",
+    "2s": "sorris",
+    "3s": "sorri",
+    "1p": "sorrimos",
+    "2p": "sorrides",
+    "3p": "sorriem"
+  },
+  "PImpI": {
+    "1s": "sorria",
+    "2s": "sorrias",
+    "3s": "sorria",
+    "1p": "sorríamos",
+    "2p": "sorríeis",
+    "3p": "sorriam"
+  },
+  "PPSI": {
+    "1s": "sorri",
+    "2s": "sorriste",
+    "3s": "sorriu",
+    "1p": "sorrimos",
+    "2p": "sorristes",
+    "3p": "sorriram"
+  },
+  "PMQPSI": {
+    "1s": "sorrira",
+    "2s": "sorriras",
+    "3s": "sorrira",
+    "1p": "sorríramos",
+    "2p": "sorríreis",
+    "3p": "sorriram"
+  },
+  "FutSI": {
+    "1s": "sorrirei",
+    "2s": "sorrirás",
+    "3s": "sorrirá",
+    "1p": "sorriremos",
+    "2p": "sorrireis",
+    "3p": "sorrirão"
+  },
+  "CondS": {
+    "1s": "sorriria",
+    "2s": "sorririas",
+    "3s": "sorriria",
+    "1p": "sorriríamos",
+    "2p": "sorriríeis",
+    "3p": "sorririam"
+  },
+  "PresC": {
+    "1s": "sorria",
+    "2s": "sorrias",
+    "3s": "sorria",
+    "1p": "sorriamos",
+    "2p": "sorriais",
+    "3p": "sorriam"
+  },
+  "PImpC": {
+    "1s": "sorrisse",
+    "2s": "sorrisses",
+    "3s": "sorrisse",
+    "1p": "sorríssemos",
+    "2p": "sorrísseis",
+    "3p": "sorrissem"
+  },
+  "FutSC": {
+    "1s": "sorrir",
+    "2s": "sorrires",
+    "3s": "sorrir",
+    "1p": "sorrirmos",
+    "2p": "sorrirdes",
+    "3p": "sorrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sorri",
+    "3s": "sorria",
+    "1p": "sorriamos",
+    "2p": "sorride",
+    "3p": "sorriam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sorrias",
+    "3s": "não sorria",
+    "1p": "não sorriamos",
+    "2p": "não sorriais",
+    "3p": "não sorriam"
+  },
+  "Part-ter": {
+    "": "sorrido"
+  },
+  "Part-ser": {
+    "ms": "sorrido",
+    "fs": "sorrida",
+    "mp": "sorridos",
+    "fp": "sorridas"
+  }
+}

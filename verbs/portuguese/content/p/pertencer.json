@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pertencer"
+  },
+  "InfP": {
+    "1s": "pertencer",
+    "2s": "pertenceres",
+    "3s": "pertencer",
+    "1p": "pertencermos",
+    "2p": "pertencerdes",
+    "3p": "pertencerem"
+  },
+  "Ger": {
+    "": "pertencendo"
+  },
+  "PresI": {
+    "1s": "pertenço",
+    "2s": "pertences",
+    "3s": "pertence",
+    "1p": "pertencemos",
+    "2p": "pertenceis",
+    "3p": "pertencem"
+  },
+  "PImpI": {
+    "1s": "pertencia",
+    "2s": "pertencias",
+    "3s": "pertencia",
+    "1p": "pertencíamos",
+    "2p": "pertencíeis",
+    "3p": "pertenciam"
+  },
+  "PPSI": {
+    "1s": "pertenci",
+    "2s": "pertenceste",
+    "3s": "pertenceu",
+    "1p": "pertencemos",
+    "2p": "pertencestes",
+    "3p": "pertenceram"
+  },
+  "PMQPSI": {
+    "1s": "pertencera",
+    "2s": "pertenceras",
+    "3s": "pertencera",
+    "1p": "pertencêramos",
+    "2p": "pertencêreis",
+    "3p": "pertenceram"
+  },
+  "FutSI": {
+    "1s": "pertencerei",
+    "2s": "pertencerás",
+    "3s": "pertencerá",
+    "1p": "pertenceremos",
+    "2p": "pertencereis",
+    "3p": "pertencerão"
+  },
+  "CondS": {
+    "1s": "pertenceria",
+    "2s": "pertencerias",
+    "3s": "pertenceria",
+    "1p": "pertenceríamos",
+    "2p": "pertenceríeis",
+    "3p": "pertenceriam"
+  },
+  "PresC": {
+    "1s": "pertença",
+    "2s": "pertenças",
+    "3s": "pertença",
+    "1p": "pertençamos",
+    "2p": "pertençais",
+    "3p": "pertençam"
+  },
+  "PImpC": {
+    "1s": "pertencesse",
+    "2s": "pertencesses",
+    "3s": "pertencesse",
+    "1p": "pertencêssemos",
+    "2p": "pertencêsseis",
+    "3p": "pertencessem"
+  },
+  "FutSC": {
+    "1s": "pertencer",
+    "2s": "pertenceres",
+    "3s": "pertencer",
+    "1p": "pertencermos",
+    "2p": "pertencerdes",
+    "3p": "pertencerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pertence",
+    "3s": "pertença",
+    "1p": "pertençamos",
+    "2p": "pertencei",
+    "3p": "pertençam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pertenças",
+    "3s": "não pertença",
+    "1p": "não pertençamos",
+    "2p": "não pertençais",
+    "3p": "não pertençam"
+  },
+  "Part-ter": {
+    "": "pertencido"
+  },
+  "Part-ser": {
+    "ms": "pertencido",
+    "fs": "pertencida",
+    "mp": "pertencidos",
+    "fp": "pertencidas"
+  }
+}

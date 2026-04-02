@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "revocar"
+  },
+  "Ger": {
+    "": "revocando"
+  },
+  "PresI": {
+    "1s": "revoco",
+    "2s": "revocas",
+    "3s": "revoca",
+    "1p": "revocamos",
+    "2p": "revocáis",
+    "3p": "revocan"
+  },
+  "PImpI": {
+    "1s": "revocaba",
+    "2s": "revocabas",
+    "3s": "revocaba",
+    "1p": "revocábamos",
+    "2p": "revocabais",
+    "3p": "revocaban"
+  },
+  "PPSI": {
+    "1s": "revoqué",
+    "2s": "revocaste",
+    "3s": "revocó",
+    "1p": "revocamos",
+    "2p": "revocasteis",
+    "3p": "revocaron"
+  },
+  "FutSI": {
+    "1s": "revocaré",
+    "2s": "revocarás",
+    "3s": "revocará",
+    "1p": "revocaremos",
+    "2p": "revocaréis",
+    "3p": "revocarán"
+  },
+  "CondS": {
+    "1s": "revocaría",
+    "2s": "revocarías",
+    "3s": "revocaría",
+    "1p": "revocaríamos",
+    "2p": "revocaríais",
+    "3p": "revocarían"
+  },
+  "PresC": {
+    "1s": "revoque",
+    "2s": "revoques",
+    "3s": "revoque",
+    "1p": "revoquemos",
+    "2p": "revoquéis",
+    "3p": "revoquen"
+  },
+  "PMQPSI": {
+    "1s": "revocara",
+    "2s": "revocaras",
+    "3s": "revocara",
+    "1p": "revocáramos",
+    "2p": "revocarais",
+    "3p": "revocaran"
+  },
+  "PImpC": {
+    "1s": "revocase",
+    "2s": "revocases",
+    "3s": "revocase",
+    "1p": "revocásemos",
+    "2p": "revocaseis",
+    "3p": "revocasen"
+  },
+  "FutSC": {
+    "1s": "revocare",
+    "2s": "revocares",
+    "3s": "revocare",
+    "1p": "revocáremos",
+    "2p": "revocareis",
+    "3p": "revocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revoca",
+    "3s": "revoque",
+    "1p": "revoquemos",
+    "2p": "revocad",
+    "3p": "revoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no revoques",
+    "3s": "no revoque",
+    "1p": "no revoquemos",
+    "2p": "no revoquéis",
+    "3p": "no revoquen"
+  },
+  "Part-ter": {
+    "": "revocado"
+  },
+  "Part-ser": {
+    "ms": "revocado",
+    "fs": "revocada",
+    "mp": "revocados",
+    "fp": "revocadas"
+  }
+}

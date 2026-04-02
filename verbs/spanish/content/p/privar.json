@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "privar"
+  },
+  "Ger": {
+    "": "privando"
+  },
+  "PresI": {
+    "1s": "privo",
+    "2s": "privas",
+    "3s": "priva",
+    "1p": "privamos",
+    "2p": "priváis",
+    "3p": "privan"
+  },
+  "PImpI": {
+    "1s": "privaba",
+    "2s": "privabas",
+    "3s": "privaba",
+    "1p": "privábamos",
+    "2p": "privabais",
+    "3p": "privaban"
+  },
+  "PPSI": {
+    "1s": "privé",
+    "2s": "privaste",
+    "3s": "privó",
+    "1p": "privamos",
+    "2p": "privasteis",
+    "3p": "privaron"
+  },
+  "FutSI": {
+    "1s": "privaré",
+    "2s": "privarás",
+    "3s": "privará",
+    "1p": "privaremos",
+    "2p": "privaréis",
+    "3p": "privarán"
+  },
+  "CondS": {
+    "1s": "privaría",
+    "2s": "privarías",
+    "3s": "privaría",
+    "1p": "privaríamos",
+    "2p": "privaríais",
+    "3p": "privarían"
+  },
+  "PresC": {
+    "1s": "prive",
+    "2s": "prives",
+    "3s": "prive",
+    "1p": "privemos",
+    "2p": "privéis",
+    "3p": "priven"
+  },
+  "PMQPSI": {
+    "1s": "privara",
+    "2s": "privaras",
+    "3s": "privara",
+    "1p": "priváramos",
+    "2p": "privarais",
+    "3p": "privaran"
+  },
+  "PImpC": {
+    "1s": "privase",
+    "2s": "privases",
+    "3s": "privase",
+    "1p": "privásemos",
+    "2p": "privaseis",
+    "3p": "privasen"
+  },
+  "FutSC": {
+    "1s": "privare",
+    "2s": "privares",
+    "3s": "privare",
+    "1p": "priváremos",
+    "2p": "privareis",
+    "3p": "privaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "priva",
+    "3s": "prive",
+    "1p": "privemos",
+    "2p": "privad",
+    "3p": "priven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prives",
+    "3s": "no prive",
+    "1p": "no privemos",
+    "2p": "no privéis",
+    "3p": "no priven"
+  },
+  "Part-ter": {
+    "": "privado"
+  },
+  "Part-ser": {
+    "ms": "privado",
+    "fs": "privada",
+    "mp": "privados",
+    "fp": "privadas"
+  }
+}

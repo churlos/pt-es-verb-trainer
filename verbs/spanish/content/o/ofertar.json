@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ofertar"
+  },
+  "Ger": {
+    "": "ofertando"
+  },
+  "PresI": {
+    "1s": "oferto",
+    "2s": "ofertas",
+    "3s": "oferta",
+    "1p": "ofertamos",
+    "2p": "ofertáis",
+    "3p": "ofertan"
+  },
+  "PImpI": {
+    "1s": "ofertaba",
+    "2s": "ofertabas",
+    "3s": "ofertaba",
+    "1p": "ofertábamos",
+    "2p": "ofertabais",
+    "3p": "ofertaban"
+  },
+  "PPSI": {
+    "1s": "oferté",
+    "2s": "ofertaste",
+    "3s": "ofertó",
+    "1p": "ofertamos",
+    "2p": "ofertasteis",
+    "3p": "ofertaron"
+  },
+  "FutSI": {
+    "1s": "ofertaré",
+    "2s": "ofertarás",
+    "3s": "ofertará",
+    "1p": "ofertaremos",
+    "2p": "ofertaréis",
+    "3p": "ofertarán"
+  },
+  "CondS": {
+    "1s": "ofertaría",
+    "2s": "ofertarías",
+    "3s": "ofertaría",
+    "1p": "ofertaríamos",
+    "2p": "ofertaríais",
+    "3p": "ofertarían"
+  },
+  "PresC": {
+    "1s": "oferte",
+    "2s": "ofertes",
+    "3s": "oferte",
+    "1p": "ofertemos",
+    "2p": "ofertéis",
+    "3p": "oferten"
+  },
+  "PMQPSI": {
+    "1s": "ofertara",
+    "2s": "ofertaras",
+    "3s": "ofertara",
+    "1p": "ofertáramos",
+    "2p": "ofertarais",
+    "3p": "ofertaran"
+  },
+  "PImpC": {
+    "1s": "ofertase",
+    "2s": "ofertases",
+    "3s": "ofertase",
+    "1p": "ofertásemos",
+    "2p": "ofertaseis",
+    "3p": "ofertasen"
+  },
+  "FutSC": {
+    "1s": "ofertare",
+    "2s": "ofertares",
+    "3s": "ofertare",
+    "1p": "ofertáremos",
+    "2p": "ofertareis",
+    "3p": "ofertaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "oferta",
+    "3s": "oferte",
+    "1p": "ofertemos",
+    "2p": "ofertad",
+    "3p": "oferten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ofertes",
+    "3s": "no oferte",
+    "1p": "no ofertemos",
+    "2p": "no ofertéis",
+    "3p": "no oferten"
+  },
+  "Part-ter": {
+    "": "ofertado"
+  },
+  "Part-ser": {
+    "ms": "ofertado",
+    "fs": "ofertada",
+    "mp": "ofertados",
+    "fp": "ofertadas"
+  }
+}

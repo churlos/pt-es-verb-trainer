@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anunciar"
+  },
+  "InfP": {
+    "1s": "anunciar",
+    "2s": "anunciares",
+    "3s": "anunciar",
+    "1p": "anunciarmos",
+    "2p": "anunciardes",
+    "3p": "anunciarem"
+  },
+  "Ger": {
+    "": "anunciando"
+  },
+  "PresI": {
+    "1s": "anuncio",
+    "2s": "anuncias",
+    "3s": "anuncia",
+    "1p": "anunciamos",
+    "2p": "anunciais",
+    "3p": "anunciam"
+  },
+  "PImpI": {
+    "1s": "anunciava",
+    "2s": "anunciavas",
+    "3s": "anunciava",
+    "1p": "anunciávamos",
+    "2p": "anunciáveis",
+    "3p": "anunciavam"
+  },
+  "PPSI": {
+    "1s": "anunciei",
+    "2s": "anunciaste",
+    "3s": "anunciou",
+    "1p": "anunciámos",
+    "2p": "anunciastes",
+    "3p": "anunciaram"
+  },
+  "PMQPSI": {
+    "1s": "anunciara",
+    "2s": "anunciaras",
+    "3s": "anunciara",
+    "1p": "anunciáramos",
+    "2p": "anunciáreis",
+    "3p": "anunciaram"
+  },
+  "FutSI": {
+    "1s": "anunciarei",
+    "2s": "anunciarás",
+    "3s": "anunciará",
+    "1p": "anunciaremos",
+    "2p": "anunciareis",
+    "3p": "anunciarão"
+  },
+  "CondS": {
+    "1s": "anunciaria",
+    "2s": "anunciarias",
+    "3s": "anunciaria",
+    "1p": "anunciaríamos",
+    "2p": "anunciaríeis",
+    "3p": "anunciariam"
+  },
+  "PresC": {
+    "1s": "anuncie",
+    "2s": "anuncies",
+    "3s": "anuncie",
+    "1p": "anunciemos",
+    "2p": "anuncieis",
+    "3p": "anunciem"
+  },
+  "PImpC": {
+    "1s": "anunciasse",
+    "2s": "anunciasses",
+    "3s": "anunciasse",
+    "1p": "anunciássemos",
+    "2p": "anunciásseis",
+    "3p": "anunciassem"
+  },
+  "FutSC": {
+    "1s": "anunciar",
+    "2s": "anunciares",
+    "3s": "anunciar",
+    "1p": "anunciarmos",
+    "2p": "anunciardes",
+    "3p": "anunciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anuncia",
+    "3s": "anuncie",
+    "1p": "anunciemos",
+    "2p": "anunciai",
+    "3p": "anunciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anuncies",
+    "3s": "não anuncie",
+    "1p": "não anunciemos",
+    "2p": "não anuncieis",
+    "3p": "não anunciem"
+  },
+  "Part-ter": {
+    "": "anunciado"
+  },
+  "Part-ser": {
+    "ms": "anunciado",
+    "fs": "anunciada",
+    "mp": "anunciados",
+    "fp": "anunciadas"
+  }
+}

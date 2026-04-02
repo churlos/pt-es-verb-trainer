@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "performar"
+  },
+  "Ger": {
+    "": "performando"
+  },
+  "PresI": {
+    "1s": "performo",
+    "2s": "performas",
+    "3s": "performa",
+    "1p": "performamos",
+    "2p": "performáis",
+    "3p": "performan"
+  },
+  "PImpI": {
+    "1s": "performaba",
+    "2s": "performabas",
+    "3s": "performaba",
+    "1p": "performábamos",
+    "2p": "performabais",
+    "3p": "performaban"
+  },
+  "PPSI": {
+    "1s": "performé",
+    "2s": "performaste",
+    "3s": "performó",
+    "1p": "performamos",
+    "2p": "performasteis",
+    "3p": "performaron"
+  },
+  "FutSI": {
+    "1s": "performaré",
+    "2s": "performarás",
+    "3s": "performará",
+    "1p": "performaremos",
+    "2p": "performaréis",
+    "3p": "performarán"
+  },
+  "CondS": {
+    "1s": "performaría",
+    "2s": "performarías",
+    "3s": "performaría",
+    "1p": "performaríamos",
+    "2p": "performaríais",
+    "3p": "performarían"
+  },
+  "PresC": {
+    "1s": "performe",
+    "2s": "performes",
+    "3s": "performe",
+    "1p": "performemos",
+    "2p": "performéis",
+    "3p": "performen"
+  },
+  "PMQPSI": {
+    "1s": "performara",
+    "2s": "performaras",
+    "3s": "performara",
+    "1p": "performáramos",
+    "2p": "performarais",
+    "3p": "performaran"
+  },
+  "PImpC": {
+    "1s": "performase",
+    "2s": "performases",
+    "3s": "performase",
+    "1p": "performásemos",
+    "2p": "performaseis",
+    "3p": "performasen"
+  },
+  "FutSC": {
+    "1s": "performare",
+    "2s": "performares",
+    "3s": "performare",
+    "1p": "performáremos",
+    "2p": "performareis",
+    "3p": "performaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "performa",
+    "3s": "performe",
+    "1p": "performemos",
+    "2p": "performad",
+    "3p": "performen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no performes",
+    "3s": "no performe",
+    "1p": "no performemos",
+    "2p": "no performéis",
+    "3p": "no performen"
+  },
+  "Part-ter": {
+    "": "performado"
+  },
+  "Part-ser": {
+    "ms": "performado",
+    "fs": "performada",
+    "mp": "performados",
+    "fp": "performadas"
+  }
+}

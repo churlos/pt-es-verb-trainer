@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estrelar"
+  },
+  "InfP": {
+    "1s": "estrelar",
+    "2s": "estrelares",
+    "3s": "estrelar",
+    "1p": "estrelarmos",
+    "2p": "estrelardes",
+    "3p": "estrelarem"
+  },
+  "Ger": {
+    "": "estrelando"
+  },
+  "PresI": {
+    "1s": "estrelo",
+    "2s": "estrelas",
+    "3s": "estrela",
+    "1p": "estrelamos",
+    "2p": "estrelais",
+    "3p": "estrelam"
+  },
+  "PImpI": {
+    "1s": "estrelava",
+    "2s": "estrelavas",
+    "3s": "estrelava",
+    "1p": "estrelávamos",
+    "2p": "estreláveis",
+    "3p": "estrelavam"
+  },
+  "PPSI": {
+    "1s": "estrelei",
+    "2s": "estrelaste",
+    "3s": "estrelou",
+    "1p": "estrelámos",
+    "2p": "estrelastes",
+    "3p": "estrelaram"
+  },
+  "PMQPSI": {
+    "1s": "estrelara",
+    "2s": "estrelaras",
+    "3s": "estrelara",
+    "1p": "estreláramos",
+    "2p": "estreláreis",
+    "3p": "estrelaram"
+  },
+  "FutSI": {
+    "1s": "estrelarei",
+    "2s": "estrelarás",
+    "3s": "estrelará",
+    "1p": "estrelaremos",
+    "2p": "estrelareis",
+    "3p": "estrelarão"
+  },
+  "CondS": {
+    "1s": "estrelaria",
+    "2s": "estrelarias",
+    "3s": "estrelaria",
+    "1p": "estrelaríamos",
+    "2p": "estrelaríeis",
+    "3p": "estrelariam"
+  },
+  "PresC": {
+    "1s": "estrele",
+    "2s": "estreles",
+    "3s": "estrele",
+    "1p": "estrelemos",
+    "2p": "estreleis",
+    "3p": "estrelem"
+  },
+  "PImpC": {
+    "1s": "estrelasse",
+    "2s": "estrelasses",
+    "3s": "estrelasse",
+    "1p": "estrelássemos",
+    "2p": "estrelásseis",
+    "3p": "estrelassem"
+  },
+  "FutSC": {
+    "1s": "estrelar",
+    "2s": "estrelares",
+    "3s": "estrelar",
+    "1p": "estrelarmos",
+    "2p": "estrelardes",
+    "3p": "estrelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estrela",
+    "3s": "estrele",
+    "1p": "estrelemos",
+    "2p": "estrelai",
+    "3p": "estrelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estreles",
+    "3s": "não estrele",
+    "1p": "não estrelemos",
+    "2p": "não estreleis",
+    "3p": "não estrelem"
+  },
+  "Part-ter": {
+    "": "estrelado"
+  },
+  "Part-ser": {
+    "ms": "estrelado",
+    "fs": "estrelada",
+    "mp": "estrelados",
+    "fp": "estreladas"
+  }
+}

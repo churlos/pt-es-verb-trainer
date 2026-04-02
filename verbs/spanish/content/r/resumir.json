@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resumir"
+  },
+  "Ger": {
+    "": "resumiendo"
+  },
+  "PresI": {
+    "1s": "resumo",
+    "2s": "resumes",
+    "3s": "resume",
+    "1p": "resumimos",
+    "2p": "resumís",
+    "3p": "resumen"
+  },
+  "PImpI": {
+    "1s": "resumía",
+    "2s": "resumías",
+    "3s": "resumía",
+    "1p": "resumíamos",
+    "2p": "resumíais",
+    "3p": "resumían"
+  },
+  "PPSI": {
+    "1s": "resumí",
+    "2s": "resumiste",
+    "3s": "resumió",
+    "1p": "resumimos",
+    "2p": "resumisteis",
+    "3p": "resumieron"
+  },
+  "FutSI": {
+    "1s": "resumiré",
+    "2s": "resumirás",
+    "3s": "resumirá",
+    "1p": "resumiremos",
+    "2p": "resumiréis",
+    "3p": "resumirán"
+  },
+  "CondS": {
+    "1s": "resumiría",
+    "2s": "resumirías",
+    "3s": "resumiría",
+    "1p": "resumiríamos",
+    "2p": "resumiríais",
+    "3p": "resumirían"
+  },
+  "PresC": {
+    "1s": "resuma",
+    "2s": "resumas",
+    "3s": "resuma",
+    "1p": "resumamos",
+    "2p": "resumáis",
+    "3p": "resuman"
+  },
+  "PMQPSI": {
+    "1s": "resumiera",
+    "2s": "resumieras",
+    "3s": "resumiera",
+    "1p": "resumiéramos",
+    "2p": "resumierais",
+    "3p": "resumieran"
+  },
+  "PImpC": {
+    "1s": "resumiese",
+    "2s": "resumieses",
+    "3s": "resumiese",
+    "1p": "resumiésemos",
+    "2p": "resumieseis",
+    "3p": "resumiesen"
+  },
+  "FutSC": {
+    "1s": "resumiere",
+    "2s": "resumieres",
+    "3s": "resumiere",
+    "1p": "resumiéremos",
+    "2p": "resumiereis",
+    "3p": "resumieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resume",
+    "3s": "resuma",
+    "1p": "resumamos",
+    "2p": "resumid",
+    "3p": "resuman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no resumas",
+    "3s": "no resuma",
+    "1p": "no resumamos",
+    "2p": "no resumáis",
+    "3p": "no resuman"
+  },
+  "Part-ter": {
+    "": "resumido"
+  },
+  "Part-ser": {
+    "ms": "resumido",
+    "fs": "resumida",
+    "mp": "resumidos",
+    "fp": "resumidas"
+  }
+}

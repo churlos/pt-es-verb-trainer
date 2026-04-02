@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calibrar"
+  },
+  "Ger": {
+    "": "calibrando"
+  },
+  "PresI": {
+    "1s": "calibro",
+    "2s": "calibras",
+    "3s": "calibra",
+    "1p": "calibramos",
+    "2p": "calibráis",
+    "3p": "calibran"
+  },
+  "PImpI": {
+    "1s": "calibraba",
+    "2s": "calibrabas",
+    "3s": "calibraba",
+    "1p": "calibrábamos",
+    "2p": "calibrabais",
+    "3p": "calibraban"
+  },
+  "PPSI": {
+    "1s": "calibré",
+    "2s": "calibraste",
+    "3s": "calibró",
+    "1p": "calibramos",
+    "2p": "calibrasteis",
+    "3p": "calibraron"
+  },
+  "FutSI": {
+    "1s": "calibraré",
+    "2s": "calibrarás",
+    "3s": "calibrará",
+    "1p": "calibraremos",
+    "2p": "calibraréis",
+    "3p": "calibrarán"
+  },
+  "CondS": {
+    "1s": "calibraría",
+    "2s": "calibrarías",
+    "3s": "calibraría",
+    "1p": "calibraríamos",
+    "2p": "calibraríais",
+    "3p": "calibrarían"
+  },
+  "PresC": {
+    "1s": "calibre",
+    "2s": "calibres",
+    "3s": "calibre",
+    "1p": "calibremos",
+    "2p": "calibréis",
+    "3p": "calibren"
+  },
+  "PMQPSI": {
+    "1s": "calibrara",
+    "2s": "calibraras",
+    "3s": "calibrara",
+    "1p": "calibráramos",
+    "2p": "calibrarais",
+    "3p": "calibraran"
+  },
+  "PImpC": {
+    "1s": "calibrase",
+    "2s": "calibrases",
+    "3s": "calibrase",
+    "1p": "calibrásemos",
+    "2p": "calibraseis",
+    "3p": "calibrasen"
+  },
+  "FutSC": {
+    "1s": "calibrare",
+    "2s": "calibrares",
+    "3s": "calibrare",
+    "1p": "calibráremos",
+    "2p": "calibrareis",
+    "3p": "calibraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calibra",
+    "3s": "calibre",
+    "1p": "calibremos",
+    "2p": "calibrad",
+    "3p": "calibren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no calibres",
+    "3s": "no calibre",
+    "1p": "no calibremos",
+    "2p": "no calibréis",
+    "3p": "no calibren"
+  },
+  "Part-ter": {
+    "": "calibrado"
+  },
+  "Part-ser": {
+    "ms": "calibrado",
+    "fs": "calibrada",
+    "mp": "calibrados",
+    "fp": "calibradas"
+  }
+}

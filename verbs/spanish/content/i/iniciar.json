@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "iniciar"
+  },
+  "Ger": {
+    "": "iniciando"
+  },
+  "PresI": {
+    "1s": "inicio",
+    "2s": "inicias",
+    "3s": "inicia",
+    "1p": "iniciamos",
+    "2p": "iniciáis",
+    "3p": "inician"
+  },
+  "PImpI": {
+    "1s": "iniciaba",
+    "2s": "iniciabas",
+    "3s": "iniciaba",
+    "1p": "iniciábamos",
+    "2p": "iniciabais",
+    "3p": "iniciaban"
+  },
+  "PPSI": {
+    "1s": "inicié",
+    "2s": "iniciaste",
+    "3s": "inició",
+    "1p": "iniciamos",
+    "2p": "iniciasteis",
+    "3p": "iniciaron"
+  },
+  "FutSI": {
+    "1s": "iniciaré",
+    "2s": "iniciarás",
+    "3s": "iniciará",
+    "1p": "iniciaremos",
+    "2p": "iniciaréis",
+    "3p": "iniciarán"
+  },
+  "CondS": {
+    "1s": "iniciaría",
+    "2s": "iniciarías",
+    "3s": "iniciaría",
+    "1p": "iniciaríamos",
+    "2p": "iniciaríais",
+    "3p": "iniciarían"
+  },
+  "PresC": {
+    "1s": "inicie",
+    "2s": "inicies",
+    "3s": "inicie",
+    "1p": "iniciemos",
+    "2p": "iniciéis",
+    "3p": "inicien"
+  },
+  "PMQPSI": {
+    "1s": "iniciara",
+    "2s": "iniciaras",
+    "3s": "iniciara",
+    "1p": "iniciáramos",
+    "2p": "iniciarais",
+    "3p": "iniciaran"
+  },
+  "PImpC": {
+    "1s": "iniciase",
+    "2s": "iniciases",
+    "3s": "iniciase",
+    "1p": "iniciásemos",
+    "2p": "iniciaseis",
+    "3p": "iniciasen"
+  },
+  "FutSC": {
+    "1s": "iniciare",
+    "2s": "iniciares",
+    "3s": "iniciare",
+    "1p": "iniciáremos",
+    "2p": "iniciareis",
+    "3p": "iniciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inicia",
+    "3s": "inicie",
+    "1p": "iniciemos",
+    "2p": "iniciad",
+    "3p": "inicien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inicies",
+    "3s": "no inicie",
+    "1p": "no iniciemos",
+    "2p": "no iniciéis",
+    "3p": "no inicien"
+  },
+  "Part-ter": {
+    "": "iniciado"
+  },
+  "Part-ser": {
+    "ms": "iniciado",
+    "fs": "iniciada",
+    "mp": "iniciados",
+    "fp": "iniciadas"
+  }
+}

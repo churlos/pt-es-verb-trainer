@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hachar"
+  },
+  "Ger": {
+    "": "hachando"
+  },
+  "PresI": {
+    "1s": "hacho",
+    "2s": "hachas",
+    "3s": "hacha",
+    "1p": "hachamos",
+    "2p": "hacháis",
+    "3p": "hachan"
+  },
+  "PImpI": {
+    "1s": "hachaba",
+    "2s": "hachabas",
+    "3s": "hachaba",
+    "1p": "hachábamos",
+    "2p": "hachabais",
+    "3p": "hachaban"
+  },
+  "PPSI": {
+    "1s": "haché",
+    "2s": "hachaste",
+    "3s": "hachó",
+    "1p": "hachamos",
+    "2p": "hachasteis",
+    "3p": "hacharon"
+  },
+  "FutSI": {
+    "1s": "hacharé",
+    "2s": "hacharás",
+    "3s": "hachará",
+    "1p": "hacharemos",
+    "2p": "hacharéis",
+    "3p": "hacharán"
+  },
+  "CondS": {
+    "1s": "hacharía",
+    "2s": "hacharías",
+    "3s": "hacharía",
+    "1p": "hacharíamos",
+    "2p": "hacharíais",
+    "3p": "hacharían"
+  },
+  "PresC": {
+    "1s": "hache",
+    "2s": "haches",
+    "3s": "hache",
+    "1p": "hachemos",
+    "2p": "hachéis",
+    "3p": "hachen"
+  },
+  "PMQPSI": {
+    "1s": "hachara",
+    "2s": "hacharas",
+    "3s": "hachara",
+    "1p": "hacháramos",
+    "2p": "hacharais",
+    "3p": "hacharan"
+  },
+  "PImpC": {
+    "1s": "hachase",
+    "2s": "hachases",
+    "3s": "hachase",
+    "1p": "hachásemos",
+    "2p": "hachaseis",
+    "3p": "hachasen"
+  },
+  "FutSC": {
+    "1s": "hachare",
+    "2s": "hachares",
+    "3s": "hachare",
+    "1p": "hacháremos",
+    "2p": "hachareis",
+    "3p": "hacharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hacha",
+    "3s": "hache",
+    "1p": "hachemos",
+    "2p": "hachad",
+    "3p": "hachen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no haches",
+    "3s": "no hache",
+    "1p": "no hachemos",
+    "2p": "no hachéis",
+    "3p": "no hachen"
+  },
+  "Part-ter": {
+    "": "hachado"
+  },
+  "Part-ser": {
+    "ms": "hachado",
+    "fs": "hachada",
+    "mp": "hachados",
+    "fp": "hachadas"
+  }
+}

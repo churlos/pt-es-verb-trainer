@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "demoler"
+  },
+  "Ger": {
+    "": "demoliendo"
+  },
+  "PresI": {
+    "1s": "demuelo",
+    "2s": "demueles",
+    "3s": "demuele",
+    "1p": "demolemos",
+    "2p": "demoléis",
+    "3p": "demuelen"
+  },
+  "PImpI": {
+    "1s": "demolía",
+    "2s": "demolías",
+    "3s": "demolía",
+    "1p": "demolíamos",
+    "2p": "demolíais",
+    "3p": "demolían"
+  },
+  "PPSI": {
+    "1s": "demolí",
+    "2s": "demoliste",
+    "3s": "demolió",
+    "1p": "demolimos",
+    "2p": "demolisteis",
+    "3p": "demolieron"
+  },
+  "FutSI": {
+    "1s": "demoleré",
+    "2s": "demolerás",
+    "3s": "demolerá",
+    "1p": "demoleremos",
+    "2p": "demoleréis",
+    "3p": "demolerán"
+  },
+  "CondS": {
+    "1s": "demolería",
+    "2s": "demolerías",
+    "3s": "demolería",
+    "1p": "demoleríamos",
+    "2p": "demoleríais",
+    "3p": "demolerían"
+  },
+  "PresC": {
+    "1s": "demuela",
+    "2s": "demuelas",
+    "3s": "demuela",
+    "1p": "demolamos",
+    "2p": "demoláis",
+    "3p": "demuelan"
+  },
+  "PMQPSI": {
+    "1s": "demoliera",
+    "2s": "demolieras",
+    "3s": "demoliera",
+    "1p": "demoliéramos",
+    "2p": "demolierais",
+    "3p": "demolieran"
+  },
+  "PImpC": {
+    "1s": "demoliese",
+    "2s": "demolieses",
+    "3s": "demoliese",
+    "1p": "demoliésemos",
+    "2p": "demolieseis",
+    "3p": "demoliesen"
+  },
+  "FutSC": {
+    "1s": "demoliere",
+    "2s": "demolieres",
+    "3s": "demoliere",
+    "1p": "demoliéremos",
+    "2p": "demoliereis",
+    "3p": "demolieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demuele",
+    "3s": "demuela",
+    "1p": "demolamos",
+    "2p": "demoled",
+    "3p": "demuelan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no demuelas",
+    "3s": "no demuela",
+    "1p": "no demolamos",
+    "2p": "no demoláis",
+    "3p": "no demuelan"
+  },
+  "Part-ter": {
+    "": "demolido"
+  },
+  "Part-ser": {
+    "ms": "demolido",
+    "fs": "demolida",
+    "mp": "demolidos",
+    "fp": "demolidas"
+  }
+}

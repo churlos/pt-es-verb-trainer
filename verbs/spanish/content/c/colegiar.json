@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "colegiar"
+  },
+  "Ger": {
+    "": "colegiando"
+  },
+  "PresI": {
+    "1s": "colegio",
+    "2s": "colegias",
+    "3s": "colegia",
+    "1p": "colegiamos",
+    "2p": "colegiáis",
+    "3p": "colegian"
+  },
+  "PImpI": {
+    "1s": "colegiaba",
+    "2s": "colegiabas",
+    "3s": "colegiaba",
+    "1p": "colegiábamos",
+    "2p": "colegiabais",
+    "3p": "colegiaban"
+  },
+  "PPSI": {
+    "1s": "colegié",
+    "2s": "colegiaste",
+    "3s": "colegió",
+    "1p": "colegiamos",
+    "2p": "colegiasteis",
+    "3p": "colegiaron"
+  },
+  "FutSI": {
+    "1s": "colegiaré",
+    "2s": "colegiarás",
+    "3s": "colegiará",
+    "1p": "colegiaremos",
+    "2p": "colegiaréis",
+    "3p": "colegiarán"
+  },
+  "CondS": {
+    "1s": "colegiaría",
+    "2s": "colegiarías",
+    "3s": "colegiaría",
+    "1p": "colegiaríamos",
+    "2p": "colegiaríais",
+    "3p": "colegiarían"
+  },
+  "PresC": {
+    "1s": "colegie",
+    "2s": "colegies",
+    "3s": "colegie",
+    "1p": "colegiemos",
+    "2p": "colegiéis",
+    "3p": "colegien"
+  },
+  "PMQPSI": {
+    "1s": "colegiara",
+    "2s": "colegiaras",
+    "3s": "colegiara",
+    "1p": "colegiáramos",
+    "2p": "colegiarais",
+    "3p": "colegiaran"
+  },
+  "PImpC": {
+    "1s": "colegiase",
+    "2s": "colegiases",
+    "3s": "colegiase",
+    "1p": "colegiásemos",
+    "2p": "colegiaseis",
+    "3p": "colegiasen"
+  },
+  "FutSC": {
+    "1s": "colegiare",
+    "2s": "colegiares",
+    "3s": "colegiare",
+    "1p": "colegiáremos",
+    "2p": "colegiareis",
+    "3p": "colegiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colegia",
+    "3s": "colegie",
+    "1p": "colegiemos",
+    "2p": "colegiad",
+    "3p": "colegien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no colegies",
+    "3s": "no colegie",
+    "1p": "no colegiemos",
+    "2p": "no colegiéis",
+    "3p": "no colegien"
+  },
+  "Part-ter": {
+    "": "colegiado"
+  },
+  "Part-ser": {
+    "ms": "colegiado",
+    "fs": "colegiada",
+    "mp": "colegiados",
+    "fp": "colegiadas"
+  }
+}

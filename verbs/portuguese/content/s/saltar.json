@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "saltar"
+  },
+  "InfP": {
+    "1s": "saltar",
+    "2s": "saltares",
+    "3s": "saltar",
+    "1p": "saltarmos",
+    "2p": "saltardes",
+    "3p": "saltarem"
+  },
+  "Ger": {
+    "": "saltando"
+  },
+  "PresI": {
+    "1s": "salto",
+    "2s": "saltas",
+    "3s": "salta",
+    "1p": "saltamos",
+    "2p": "saltais",
+    "3p": "saltam"
+  },
+  "PImpI": {
+    "1s": "saltava",
+    "2s": "saltavas",
+    "3s": "saltava",
+    "1p": "saltávamos",
+    "2p": "saltáveis",
+    "3p": "saltavam"
+  },
+  "PPSI": {
+    "1s": "saltei",
+    "2s": "saltaste",
+    "3s": "saltou",
+    "1p": "saltámos",
+    "2p": "saltastes",
+    "3p": "saltaram"
+  },
+  "PMQPSI": {
+    "1s": "saltara",
+    "2s": "saltaras",
+    "3s": "saltara",
+    "1p": "saltáramos",
+    "2p": "saltáreis",
+    "3p": "saltaram"
+  },
+  "FutSI": {
+    "1s": "saltarei",
+    "2s": "saltarás",
+    "3s": "saltará",
+    "1p": "saltaremos",
+    "2p": "saltareis",
+    "3p": "saltarão"
+  },
+  "CondS": {
+    "1s": "saltaria",
+    "2s": "saltarias",
+    "3s": "saltaria",
+    "1p": "saltaríamos",
+    "2p": "saltaríeis",
+    "3p": "saltariam"
+  },
+  "PresC": {
+    "1s": "salte",
+    "2s": "saltes",
+    "3s": "salte",
+    "1p": "saltemos",
+    "2p": "salteis",
+    "3p": "saltem"
+  },
+  "PImpC": {
+    "1s": "saltasse",
+    "2s": "saltasses",
+    "3s": "saltasse",
+    "1p": "saltássemos",
+    "2p": "saltásseis",
+    "3p": "saltassem"
+  },
+  "FutSC": {
+    "1s": "saltar",
+    "2s": "saltares",
+    "3s": "saltar",
+    "1p": "saltarmos",
+    "2p": "saltardes",
+    "3p": "saltarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salta",
+    "3s": "salte",
+    "1p": "saltemos",
+    "2p": "saltai",
+    "3p": "saltem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saltes",
+    "3s": "não salte",
+    "1p": "não saltemos",
+    "2p": "não salteis",
+    "3p": "não saltem"
+  },
+  "Part-ter": {
+    "": "saltado"
+  },
+  "Part-ser": {
+    "ms": "saltado",
+    "fs": "saltada",
+    "mp": "saltados",
+    "fp": "saltadas"
+  }
+}

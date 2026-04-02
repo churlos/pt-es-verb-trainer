@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "esquivar"
+  },
+  "Ger": {
+    "": "esquivando"
+  },
+  "PresI": {
+    "1s": "esquivo",
+    "2s": "esquivas",
+    "3s": "esquiva",
+    "1p": "esquivamos",
+    "2p": "esquiváis",
+    "3p": "esquivan"
+  },
+  "PImpI": {
+    "1s": "esquivaba",
+    "2s": "esquivabas",
+    "3s": "esquivaba",
+    "1p": "esquivábamos",
+    "2p": "esquivabais",
+    "3p": "esquivaban"
+  },
+  "PPSI": {
+    "1s": "esquivé",
+    "2s": "esquivaste",
+    "3s": "esquivó",
+    "1p": "esquivamos",
+    "2p": "esquivasteis",
+    "3p": "esquivaron"
+  },
+  "FutSI": {
+    "1s": "esquivaré",
+    "2s": "esquivarás",
+    "3s": "esquivará",
+    "1p": "esquivaremos",
+    "2p": "esquivaréis",
+    "3p": "esquivarán"
+  },
+  "CondS": {
+    "1s": "esquivaría",
+    "2s": "esquivarías",
+    "3s": "esquivaría",
+    "1p": "esquivaríamos",
+    "2p": "esquivaríais",
+    "3p": "esquivarían"
+  },
+  "PresC": {
+    "1s": "esquive",
+    "2s": "esquives",
+    "3s": "esquive",
+    "1p": "esquivemos",
+    "2p": "esquivéis",
+    "3p": "esquiven"
+  },
+  "PMQPSI": {
+    "1s": "esquivara",
+    "2s": "esquivaras",
+    "3s": "esquivara",
+    "1p": "esquiváramos",
+    "2p": "esquivarais",
+    "3p": "esquivaran"
+  },
+  "PImpC": {
+    "1s": "esquivase",
+    "2s": "esquivases",
+    "3s": "esquivase",
+    "1p": "esquivásemos",
+    "2p": "esquivaseis",
+    "3p": "esquivasen"
+  },
+  "FutSC": {
+    "1s": "esquivare",
+    "2s": "esquivares",
+    "3s": "esquivare",
+    "1p": "esquiváremos",
+    "2p": "esquivareis",
+    "3p": "esquivaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esquiva",
+    "3s": "esquive",
+    "1p": "esquivemos",
+    "2p": "esquivad",
+    "3p": "esquiven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no esquives",
+    "3s": "no esquive",
+    "1p": "no esquivemos",
+    "2p": "no esquivéis",
+    "3p": "no esquiven"
+  },
+  "Part-ter": {
+    "": "esquivado"
+  },
+  "Part-ser": {
+    "ms": "esquivado",
+    "fs": "esquivada",
+    "mp": "esquivados",
+    "fp": "esquivadas"
+  }
+}

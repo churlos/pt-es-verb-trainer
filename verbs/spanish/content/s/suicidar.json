@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suicidar"
+  },
+  "Ger": {
+    "": "suicidando"
+  },
+  "PresI": {
+    "1s": "suicido",
+    "2s": "suicidas",
+    "3s": "suicida",
+    "1p": "suicidamos",
+    "2p": "suicidáis",
+    "3p": "suicidan"
+  },
+  "PImpI": {
+    "1s": "suicidaba",
+    "2s": "suicidabas",
+    "3s": "suicidaba",
+    "1p": "suicidábamos",
+    "2p": "suicidabais",
+    "3p": "suicidaban"
+  },
+  "PPSI": {
+    "1s": "suicidé",
+    "2s": "suicidaste",
+    "3s": "suicidó",
+    "1p": "suicidamos",
+    "2p": "suicidasteis",
+    "3p": "suicidaron"
+  },
+  "FutSI": {
+    "1s": "suicidaré",
+    "2s": "suicidarás",
+    "3s": "suicidará",
+    "1p": "suicidaremos",
+    "2p": "suicidaréis",
+    "3p": "suicidarán"
+  },
+  "CondS": {
+    "1s": "suicidaría",
+    "2s": "suicidarías",
+    "3s": "suicidaría",
+    "1p": "suicidaríamos",
+    "2p": "suicidaríais",
+    "3p": "suicidarían"
+  },
+  "PresC": {
+    "1s": "suicide",
+    "2s": "suicides",
+    "3s": "suicide",
+    "1p": "suicidemos",
+    "2p": "suicidéis",
+    "3p": "suiciden"
+  },
+  "PMQPSI": {
+    "1s": "suicidara",
+    "2s": "suicidaras",
+    "3s": "suicidara",
+    "1p": "suicidáramos",
+    "2p": "suicidarais",
+    "3p": "suicidaran"
+  },
+  "PImpC": {
+    "1s": "suicidase",
+    "2s": "suicidases",
+    "3s": "suicidase",
+    "1p": "suicidásemos",
+    "2p": "suicidaseis",
+    "3p": "suicidasen"
+  },
+  "FutSC": {
+    "1s": "suicidare",
+    "2s": "suicidares",
+    "3s": "suicidare",
+    "1p": "suicidáremos",
+    "2p": "suicidareis",
+    "3p": "suicidaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suicida",
+    "3s": "suicide",
+    "1p": "suicidemos",
+    "2p": "suicidad",
+    "3p": "suiciden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no suicides",
+    "3s": "no suicide",
+    "1p": "no suicidemos",
+    "2p": "no suicidéis",
+    "3p": "no suiciden"
+  },
+  "Part-ter": {
+    "": "suicidado"
+  },
+  "Part-ser": {
+    "ms": "suicidado",
+    "fs": "suicidada",
+    "mp": "suicidados",
+    "fp": "suicidadas"
+  }
+}

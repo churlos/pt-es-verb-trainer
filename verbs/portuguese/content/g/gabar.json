@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gabar"
+  },
+  "InfP": {
+    "1s": "gabar",
+    "2s": "gabares",
+    "3s": "gabar",
+    "1p": "gabarmos",
+    "2p": "gabardes",
+    "3p": "gabarem"
+  },
+  "Ger": {
+    "": "gabando"
+  },
+  "PresI": {
+    "1s": "gabo",
+    "2s": "gabas",
+    "3s": "gaba",
+    "1p": "gabamos",
+    "2p": "gabais",
+    "3p": "gabam"
+  },
+  "PImpI": {
+    "1s": "gabava",
+    "2s": "gabavas",
+    "3s": "gabava",
+    "1p": "gabávamos",
+    "2p": "gabáveis",
+    "3p": "gabavam"
+  },
+  "PPSI": {
+    "1s": "gabei",
+    "2s": "gabaste",
+    "3s": "gabou",
+    "1p": "gabámos",
+    "2p": "gabastes",
+    "3p": "gabaram"
+  },
+  "PMQPSI": {
+    "1s": "gabara",
+    "2s": "gabaras",
+    "3s": "gabara",
+    "1p": "gabáramos",
+    "2p": "gabáreis",
+    "3p": "gabaram"
+  },
+  "FutSI": {
+    "1s": "gabarei",
+    "2s": "gabarás",
+    "3s": "gabará",
+    "1p": "gabaremos",
+    "2p": "gabareis",
+    "3p": "gabarão"
+  },
+  "CondS": {
+    "1s": "gabaria",
+    "2s": "gabarias",
+    "3s": "gabaria",
+    "1p": "gabaríamos",
+    "2p": "gabaríeis",
+    "3p": "gabariam"
+  },
+  "PresC": {
+    "1s": "gabe",
+    "2s": "gabes",
+    "3s": "gabe",
+    "1p": "gabemos",
+    "2p": "gabeis",
+    "3p": "gabem"
+  },
+  "PImpC": {
+    "1s": "gabasse",
+    "2s": "gabasses",
+    "3s": "gabasse",
+    "1p": "gabássemos",
+    "2p": "gabásseis",
+    "3p": "gabassem"
+  },
+  "FutSC": {
+    "1s": "gabar",
+    "2s": "gabares",
+    "3s": "gabar",
+    "1p": "gabarmos",
+    "2p": "gabardes",
+    "3p": "gabarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gaba",
+    "3s": "gabe",
+    "1p": "gabemos",
+    "2p": "gabai",
+    "3p": "gabem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gabes",
+    "3s": "não gabe",
+    "1p": "não gabemos",
+    "2p": "não gabeis",
+    "3p": "não gabem"
+  },
+  "Part-ter": {
+    "": "gabado"
+  },
+  "Part-ser": {
+    "ms": "gabado",
+    "fs": "gabada",
+    "mp": "gabados",
+    "fp": "gabadas"
+  }
+}

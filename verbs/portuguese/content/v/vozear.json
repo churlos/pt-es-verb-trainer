@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vozear"
+  },
+  "InfP": {
+    "1s": "vozear",
+    "2s": "vozeares",
+    "3s": "vozear",
+    "1p": "vozearmos",
+    "2p": "vozeardes",
+    "3p": "vozearem"
+  },
+  "Ger": {
+    "": "vozeando"
+  },
+  "PresI": {
+    "1s": "vozeio",
+    "2s": "vozeias",
+    "3s": "vozeia",
+    "1p": "vozeamos",
+    "2p": "vozeais",
+    "3p": "vozeiam"
+  },
+  "PImpI": {
+    "1s": "vozeava",
+    "2s": "vozeavas",
+    "3s": "vozeava",
+    "1p": "vozeávamos",
+    "2p": "vozeáveis",
+    "3p": "vozeavam"
+  },
+  "PPSI": {
+    "1s": "vozeei",
+    "2s": "vozeaste",
+    "3s": "vozeou",
+    "1p": "vozeámos",
+    "2p": "vozeastes",
+    "3p": "vozearam"
+  },
+  "PMQPSI": {
+    "1s": "vozeara",
+    "2s": "vozearas",
+    "3s": "vozeara",
+    "1p": "vozeáramos",
+    "2p": "vozeáreis",
+    "3p": "vozearam"
+  },
+  "FutSI": {
+    "1s": "vozearei",
+    "2s": "vozearás",
+    "3s": "vozeará",
+    "1p": "vozearemos",
+    "2p": "vozeareis",
+    "3p": "vozearão"
+  },
+  "CondS": {
+    "1s": "vozearia",
+    "2s": "vozearias",
+    "3s": "vozearia",
+    "1p": "vozearíamos",
+    "2p": "vozearíeis",
+    "3p": "vozeariam"
+  },
+  "PresC": {
+    "1s": "vozeie",
+    "2s": "vozeies",
+    "3s": "vozeie",
+    "1p": "vozeemos",
+    "2p": "vozeeis",
+    "3p": "vozeiem"
+  },
+  "PImpC": {
+    "1s": "vozeasse",
+    "2s": "vozeasses",
+    "3s": "vozeasse",
+    "1p": "vozeássemos",
+    "2p": "vozeásseis",
+    "3p": "vozeassem"
+  },
+  "FutSC": {
+    "1s": "vozear",
+    "2s": "vozeares",
+    "3s": "vozear",
+    "1p": "vozearmos",
+    "2p": "vozeardes",
+    "3p": "vozearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vozeia",
+    "3s": "vozeie",
+    "1p": "vozeemos",
+    "2p": "vozeai",
+    "3p": "vozeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vozeies",
+    "3s": "não vozeie",
+    "1p": "não vozeemos",
+    "2p": "não vozeeis",
+    "3p": "não vozeiem"
+  },
+  "Part-ter": {
+    "": "vozeado"
+  },
+  "Part-ser": {
+    "ms": "vozeado",
+    "fs": "vozeada",
+    "mp": "vozeados",
+    "fp": "vozeadas"
+  }
+}

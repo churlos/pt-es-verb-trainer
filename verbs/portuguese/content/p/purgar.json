@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "purgar"
+  },
+  "InfP": {
+    "1s": "purgar",
+    "2s": "purgares",
+    "3s": "purgar",
+    "1p": "purgarmos",
+    "2p": "purgardes",
+    "3p": "purgarem"
+  },
+  "Ger": {
+    "": "purgando"
+  },
+  "PresI": {
+    "1s": "purgo",
+    "2s": "purgas",
+    "3s": "purga",
+    "1p": "purgamos",
+    "2p": "purgais",
+    "3p": "purgam"
+  },
+  "PImpI": {
+    "1s": "purgava",
+    "2s": "purgavas",
+    "3s": "purgava",
+    "1p": "purgávamos",
+    "2p": "purgáveis",
+    "3p": "purgavam"
+  },
+  "PPSI": {
+    "1s": "purguei",
+    "2s": "purgaste",
+    "3s": "purgou",
+    "1p": "purgámos",
+    "2p": "purgastes",
+    "3p": "purgaram"
+  },
+  "PMQPSI": {
+    "1s": "purgara",
+    "2s": "purgaras",
+    "3s": "purgara",
+    "1p": "purgáramos",
+    "2p": "purgáreis",
+    "3p": "purgaram"
+  },
+  "FutSI": {
+    "1s": "purgarei",
+    "2s": "purgarás",
+    "3s": "purgará",
+    "1p": "purgaremos",
+    "2p": "purgareis",
+    "3p": "purgarão"
+  },
+  "CondS": {
+    "1s": "purgaria",
+    "2s": "purgarias",
+    "3s": "purgaria",
+    "1p": "purgaríamos",
+    "2p": "purgaríeis",
+    "3p": "purgariam"
+  },
+  "PresC": {
+    "1s": "purgue",
+    "2s": "purgues",
+    "3s": "purgue",
+    "1p": "purguemos",
+    "2p": "purgueis",
+    "3p": "purguem"
+  },
+  "PImpC": {
+    "1s": "purgasse",
+    "2s": "purgasses",
+    "3s": "purgasse",
+    "1p": "purgássemos",
+    "2p": "purgásseis",
+    "3p": "purgassem"
+  },
+  "FutSC": {
+    "1s": "purgar",
+    "2s": "purgares",
+    "3s": "purgar",
+    "1p": "purgarmos",
+    "2p": "purgardes",
+    "3p": "purgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "purga",
+    "3s": "purgue",
+    "1p": "purguemos",
+    "2p": "purgai",
+    "3p": "purguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não purgues",
+    "3s": "não purgue",
+    "1p": "não purguemos",
+    "2p": "não purgueis",
+    "3p": "não purguem"
+  },
+  "Part-ter": {
+    "": "purgado"
+  },
+  "Part-ser": {
+    "ms": "purgado",
+    "fs": "purgada",
+    "mp": "purgados",
+    "fp": "purgadas"
+  }
+}

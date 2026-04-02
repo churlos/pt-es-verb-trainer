@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atardecer"
+  },
+  "Ger": {
+    "": "atardeciendo"
+  },
+  "PresI": {
+    "1s": "atardezco",
+    "2s": "atardeces",
+    "3s": "atardece",
+    "1p": "atardecemos",
+    "2p": "atardecéis",
+    "3p": "atardecen"
+  },
+  "PImpI": {
+    "1s": "atardecía",
+    "2s": "atardecías",
+    "3s": "atardecía",
+    "1p": "atardecíamos",
+    "2p": "atardecíais",
+    "3p": "atardecían"
+  },
+  "PPSI": {
+    "1s": "atardecí",
+    "2s": "atardeciste",
+    "3s": "atardeció",
+    "1p": "atardecimos",
+    "2p": "atardecisteis",
+    "3p": "atardecieron"
+  },
+  "FutSI": {
+    "1s": "atardeceré",
+    "2s": "atardecerás",
+    "3s": "atardecerá",
+    "1p": "atardeceremos",
+    "2p": "atardeceréis",
+    "3p": "atardecerán"
+  },
+  "CondS": {
+    "1s": "atardecería",
+    "2s": "atardecerías",
+    "3s": "atardecería",
+    "1p": "atardeceríamos",
+    "2p": "atardeceríais",
+    "3p": "atardecerían"
+  },
+  "PresC": {
+    "1s": "atardezca",
+    "2s": "atardezcas",
+    "3s": "atardezca",
+    "1p": "atardezcamos",
+    "2p": "atardezcáis",
+    "3p": "atardezcan"
+  },
+  "PMQPSI": {
+    "1s": "atardeciera",
+    "2s": "atardecieras",
+    "3s": "atardeciera",
+    "1p": "atardeciéramos",
+    "2p": "atardecierais",
+    "3p": "atardecieran"
+  },
+  "PImpC": {
+    "1s": "atardeciese",
+    "2s": "atardecieses",
+    "3s": "atardeciese",
+    "1p": "atardeciésemos",
+    "2p": "atardecieseis",
+    "3p": "atardeciesen"
+  },
+  "FutSC": {
+    "1s": "atardeciere",
+    "2s": "atardecieres",
+    "3s": "atardeciere",
+    "1p": "atardeciéremos",
+    "2p": "atardeciereis",
+    "3p": "atardecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atardece",
+    "3s": "atardezca",
+    "1p": "atardezcamos",
+    "2p": "atardeced",
+    "3p": "atardezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atardezcas",
+    "3s": "no atardezca",
+    "1p": "no atardezcamos",
+    "2p": "no atardezcáis",
+    "3p": "no atardezcan"
+  },
+  "Part-ter": {
+    "": "atardecido"
+  },
+  "Part-ser": {
+    "ms": "atardecido",
+    "fs": "atardecida",
+    "mp": "atardecidos",
+    "fp": "atardecidas"
+  }
+}

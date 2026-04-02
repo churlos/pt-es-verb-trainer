@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "orquestar"
+  },
+  "Ger": {
+    "": "orquestando"
+  },
+  "PresI": {
+    "1s": "orquesto",
+    "2s": "orquestas",
+    "3s": "orquesta",
+    "1p": "orquestamos",
+    "2p": "orquestáis",
+    "3p": "orquestan"
+  },
+  "PImpI": {
+    "1s": "orquestaba",
+    "2s": "orquestabas",
+    "3s": "orquestaba",
+    "1p": "orquestábamos",
+    "2p": "orquestabais",
+    "3p": "orquestaban"
+  },
+  "PPSI": {
+    "1s": "orquesté",
+    "2s": "orquestaste",
+    "3s": "orquestó",
+    "1p": "orquestamos",
+    "2p": "orquestasteis",
+    "3p": "orquestaron"
+  },
+  "FutSI": {
+    "1s": "orquestaré",
+    "2s": "orquestarás",
+    "3s": "orquestará",
+    "1p": "orquestaremos",
+    "2p": "orquestaréis",
+    "3p": "orquestarán"
+  },
+  "CondS": {
+    "1s": "orquestaría",
+    "2s": "orquestarías",
+    "3s": "orquestaría",
+    "1p": "orquestaríamos",
+    "2p": "orquestaríais",
+    "3p": "orquestarían"
+  },
+  "PresC": {
+    "1s": "orqueste",
+    "2s": "orquestes",
+    "3s": "orqueste",
+    "1p": "orquestemos",
+    "2p": "orquestéis",
+    "3p": "orquesten"
+  },
+  "PMQPSI": {
+    "1s": "orquestara",
+    "2s": "orquestaras",
+    "3s": "orquestara",
+    "1p": "orquestáramos",
+    "2p": "orquestarais",
+    "3p": "orquestaran"
+  },
+  "PImpC": {
+    "1s": "orquestase",
+    "2s": "orquestases",
+    "3s": "orquestase",
+    "1p": "orquestásemos",
+    "2p": "orquestaseis",
+    "3p": "orquestasen"
+  },
+  "FutSC": {
+    "1s": "orquestare",
+    "2s": "orquestares",
+    "3s": "orquestare",
+    "1p": "orquestáremos",
+    "2p": "orquestareis",
+    "3p": "orquestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "orquesta",
+    "3s": "orqueste",
+    "1p": "orquestemos",
+    "2p": "orquestad",
+    "3p": "orquesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no orquestes",
+    "3s": "no orqueste",
+    "1p": "no orquestemos",
+    "2p": "no orquestéis",
+    "3p": "no orquesten"
+  },
+  "Part-ter": {
+    "": "orquestado"
+  },
+  "Part-ser": {
+    "ms": "orquestado",
+    "fs": "orquestada",
+    "mp": "orquestados",
+    "fp": "orquestadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "invertir"
+  },
+  "Ger": {
+    "": "invirtiendo"
+  },
+  "PresI": {
+    "1s": "invierto",
+    "2s": "inviertes",
+    "3s": "invierte",
+    "1p": "invertimos",
+    "2p": "invertís",
+    "3p": "invierten"
+  },
+  "PImpI": {
+    "1s": "invertía",
+    "2s": "invertías",
+    "3s": "invertía",
+    "1p": "invertíamos",
+    "2p": "invertíais",
+    "3p": "invertían"
+  },
+  "PPSI": {
+    "1s": "invertí",
+    "2s": "invertiste",
+    "3s": "invirtió",
+    "1p": "invertimos",
+    "2p": "invertisteis",
+    "3p": "invirtieron"
+  },
+  "FutSI": {
+    "1s": "invertiré",
+    "2s": "invertirás",
+    "3s": "invertirá",
+    "1p": "invertiremos",
+    "2p": "invertiréis",
+    "3p": "invertirán"
+  },
+  "CondS": {
+    "1s": "invertiría",
+    "2s": "invertirías",
+    "3s": "invertiría",
+    "1p": "invertiríamos",
+    "2p": "invertiríais",
+    "3p": "invertirían"
+  },
+  "PresC": {
+    "1s": "invierta",
+    "2s": "inviertas",
+    "3s": "invierta",
+    "1p": "invirtamos",
+    "2p": "invirtáis",
+    "3p": "inviertan"
+  },
+  "PMQPSI": {
+    "1s": "invirtiera",
+    "2s": "invirtieras",
+    "3s": "invirtiera",
+    "1p": "invirtiéramos",
+    "2p": "invirtierais",
+    "3p": "invirtieran"
+  },
+  "PImpC": {
+    "1s": "invirtiese",
+    "2s": "invirtieses",
+    "3s": "invirtiese",
+    "1p": "invirtiésemos",
+    "2p": "invirtieseis",
+    "3p": "invirtiesen"
+  },
+  "FutSC": {
+    "1s": "invirtiere",
+    "2s": "invirtieres",
+    "3s": "invirtiere",
+    "1p": "invirtiéremos",
+    "2p": "invirtiereis",
+    "3p": "invirtieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invierte",
+    "3s": "invierta",
+    "1p": "invirtamos",
+    "2p": "invertid",
+    "3p": "inviertan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inviertas",
+    "3s": "no invierta",
+    "1p": "no invirtamos",
+    "2p": "no invirtáis",
+    "3p": "no inviertan"
+  },
+  "Part-ter": {
+    "": "invertido"
+  },
+  "Part-ser": {
+    "ms": "invertido",
+    "fs": "invertida",
+    "mp": "invertidos",
+    "fp": "invertidas"
+  }
+}

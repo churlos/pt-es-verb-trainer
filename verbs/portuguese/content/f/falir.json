@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "falir"
+  },
+  "InfP": {
+    "1s": "falir",
+    "2s": "falires",
+    "3s": "falir",
+    "1p": "falirmos",
+    "2p": "falirdes",
+    "3p": "falirem"
+  },
+  "Ger": {
+    "": "falindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "falimos",
+    "2p": "falis",
+    "3p": ""
+  },
+  "PImpI": {
+    "1s": "falia",
+    "2s": "falias",
+    "3s": "falia",
+    "1p": "falíamos",
+    "2p": "falíeis",
+    "3p": "faliam"
+  },
+  "PPSI": {
+    "1s": "fali",
+    "2s": "faliste",
+    "3s": "faliu",
+    "1p": "falimos",
+    "2p": "falistes",
+    "3p": "faliram"
+  },
+  "PMQPSI": {
+    "1s": "falira",
+    "2s": "faliras",
+    "3s": "falira",
+    "1p": "falíramos",
+    "2p": "falíreis",
+    "3p": "faliram"
+  },
+  "FutSI": {
+    "1s": "falirei",
+    "2s": "falirás",
+    "3s": "falirá",
+    "1p": "faliremos",
+    "2p": "falireis",
+    "3p": "falirão"
+  },
+  "CondS": {
+    "1s": "faliria",
+    "2s": "falirias",
+    "3s": "faliria",
+    "1p": "faliríamos",
+    "2p": "faliríeis",
+    "3p": "faliriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "falisse",
+    "2s": "falisses",
+    "3s": "falisse",
+    "1p": "falíssemos",
+    "2p": "falísseis",
+    "3p": "falissem"
+  },
+  "FutSC": {
+    "1s": "falir",
+    "2s": "falires",
+    "3s": "falir",
+    "1p": "falirmos",
+    "2p": "falirdes",
+    "3p": "falirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "fali",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "falido"
+  },
+  "Part-ser": {
+    "ms": "falido",
+    "fs": "falida",
+    "mp": "falidos",
+    "fp": "falidas"
+  }
+}

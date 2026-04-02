@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sentarse"
+  },
+  "Ger": {
+    "": "sentándose"
+  },
+  "PresI": {
+    "1s": "me siento",
+    "2s": "te sientas",
+    "3s": "se sienta",
+    "1p": "nos sentamos",
+    "2p": "os sentáis",
+    "3p": "se sientan"
+  },
+  "PImpI": {
+    "1s": "me sentaba",
+    "2s": "te sentabas",
+    "3s": "se sentaba",
+    "1p": "nos sentábamos",
+    "2p": "os sentabais",
+    "3p": "se sentaban"
+  },
+  "PPSI": {
+    "1s": "me senté",
+    "2s": "te sentaste",
+    "3s": "se sentó",
+    "1p": "nos sentamos",
+    "2p": "os sentasteis",
+    "3p": "se sentaron"
+  },
+  "FutSI": {
+    "1s": "me sentaré",
+    "2s": "te sentarás",
+    "3s": "se sentará",
+    "1p": "nos sentaremos",
+    "2p": "os sentaréis",
+    "3p": "se sentarán"
+  },
+  "CondS": {
+    "1s": "me sentaría",
+    "2s": "te sentarías",
+    "3s": "se sentaría",
+    "1p": "nos sentaríamos",
+    "2p": "os sentaríais",
+    "3p": "se sentarían"
+  },
+  "PresC": {
+    "1s": "me siente",
+    "2s": "te sientes",
+    "3s": "se siente",
+    "1p": "nos sentemos",
+    "2p": "os sentéis",
+    "3p": "se sienten"
+  },
+  "PMQPSI": {
+    "1s": "me sentara",
+    "2s": "te sentaras",
+    "3s": "se sentara",
+    "1p": "nos sentáramos",
+    "2p": "os sentarais",
+    "3p": "se sentaran"
+  },
+  "PImpC": {
+    "1s": "me sentase",
+    "2s": "te sentases",
+    "3s": "se sentase",
+    "1p": "nos sentásemos",
+    "2p": "os sentaseis",
+    "3p": "se sentasen"
+  },
+  "FutSC": {
+    "1s": "me sentare",
+    "2s": "te sentares",
+    "3s": "se sentare",
+    "1p": "nos sentáremos",
+    "2p": "os sentareis",
+    "3p": "se sentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "siéntate",
+    "3s": "siéntese",
+    "1p": "sentémonos",
+    "2p": "sentaos",
+    "3p": "siéntense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te sientes",
+    "3s": "no se siente",
+    "1p": "no nos sentemos",
+    "2p": "no os sentéis",
+    "3p": "no se sienten"
+  },
+  "Part-ter": {
+    "": "sentado"
+  },
+  "Part-ser": {
+    "ms": "sentado",
+    "fs": "sentada",
+    "mp": "sentados",
+    "fp": "sentadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fluorar"
+  },
+  "InfP": {
+    "1s": "fluorar",
+    "2s": "fluorares",
+    "3s": "fluorar",
+    "1p": "fluorarmos",
+    "2p": "fluorardes",
+    "3p": "fluorarem"
+  },
+  "Ger": {
+    "": "fluorando"
+  },
+  "PresI": {
+    "1s": "fluoro",
+    "2s": "fluoras",
+    "3s": "fluora",
+    "1p": "fluoramos",
+    "2p": "fluorais",
+    "3p": "fluoram"
+  },
+  "PImpI": {
+    "1s": "fluorava",
+    "2s": "fluoravas",
+    "3s": "fluorava",
+    "1p": "fluorávamos",
+    "2p": "fluoráveis",
+    "3p": "fluoravam"
+  },
+  "PPSI": {
+    "1s": "fluorei",
+    "2s": "fluoraste",
+    "3s": "fluorou",
+    "1p": "fluorámos",
+    "2p": "fluorastes",
+    "3p": "fluoraram"
+  },
+  "PMQPSI": {
+    "1s": "fluorara",
+    "2s": "fluoraras",
+    "3s": "fluorara",
+    "1p": "fluoráramos",
+    "2p": "fluoráreis",
+    "3p": "fluoraram"
+  },
+  "FutSI": {
+    "1s": "fluorarei",
+    "2s": "fluorarás",
+    "3s": "fluorará",
+    "1p": "fluoraremos",
+    "2p": "fluorareis",
+    "3p": "fluorarão"
+  },
+  "CondS": {
+    "1s": "fluoraria",
+    "2s": "fluorarias",
+    "3s": "fluoraria",
+    "1p": "fluoraríamos",
+    "2p": "fluoraríeis",
+    "3p": "fluorariam"
+  },
+  "PresC": {
+    "1s": "fluore",
+    "2s": "fluores",
+    "3s": "fluore",
+    "1p": "fluoremos",
+    "2p": "fluoreis",
+    "3p": "fluorem"
+  },
+  "PImpC": {
+    "1s": "fluorasse",
+    "2s": "fluorasses",
+    "3s": "fluorasse",
+    "1p": "fluorássemos",
+    "2p": "fluorásseis",
+    "3p": "fluorassem"
+  },
+  "FutSC": {
+    "1s": "fluorar",
+    "2s": "fluorares",
+    "3s": "fluorar",
+    "1p": "fluorarmos",
+    "2p": "fluorardes",
+    "3p": "fluorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fluora",
+    "3s": "fluore",
+    "1p": "fluoremos",
+    "2p": "fluorai",
+    "3p": "fluorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fluores",
+    "3s": "não fluore",
+    "1p": "não fluoremos",
+    "2p": "não fluoreis",
+    "3p": "não fluorem"
+  },
+  "Part-ter": {
+    "": "fluorado"
+  },
+  "Part-ser": {
+    "ms": "fluorado",
+    "fs": "fluorada",
+    "mp": "fluorados",
+    "fp": "fluoradas"
+  }
+}

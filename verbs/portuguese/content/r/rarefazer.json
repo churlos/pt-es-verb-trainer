@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rarefazer"
+  },
+  "InfP": {
+    "1s": "rarefazer",
+    "2s": "rarefazeres",
+    "3s": "rarefazer",
+    "1p": "rarefazermos",
+    "2p": "rarefazerdes",
+    "3p": "rarefazerem"
+  },
+  "Ger": {
+    "": "rarefazendo"
+  },
+  "PresI": {
+    "1s": "rarefaço",
+    "2s": "rarefazes",
+    "3s": "rarefaz",
+    "1p": "rarefazemos",
+    "2p": "rarefazeis",
+    "3p": "rarefazem"
+  },
+  "PImpI": {
+    "1s": "rarefazia",
+    "2s": "rarefazias",
+    "3s": "rarefazia",
+    "1p": "rarefazíamos",
+    "2p": "rarefazíeis",
+    "3p": "rarefaziam"
+  },
+  "PPSI": {
+    "1s": "rarefiz",
+    "2s": "rarefizeste",
+    "3s": "rarefez",
+    "1p": "rarefizemos",
+    "2p": "rarefizestes",
+    "3p": "rarefizeram"
+  },
+  "PMQPSI": {
+    "1s": "rarefizera",
+    "2s": "rarefizeras",
+    "3s": "rarefizera",
+    "1p": "rarefizéramos",
+    "2p": "rarefizéreis",
+    "3p": "rarefizeram"
+  },
+  "FutSI": {
+    "1s": "rarefarei",
+    "2s": "rarefarás",
+    "3s": "rarefará",
+    "1p": "rarefaremos",
+    "2p": "rarefareis",
+    "3p": "rarefarão"
+  },
+  "CondS": {
+    "1s": "rarefaria",
+    "2s": "rarefarias",
+    "3s": "rarefaria",
+    "1p": "rarefaríamos",
+    "2p": "rarefaríeis",
+    "3p": "rarefariam"
+  },
+  "PresC": {
+    "1s": "rarefaça",
+    "2s": "rarefaças",
+    "3s": "rarefaça",
+    "1p": "rarefaçamos",
+    "2p": "rarefaçais",
+    "3p": "rarefaçam"
+  },
+  "PImpC": {
+    "1s": "rarefizesse",
+    "2s": "rarefizesses",
+    "3s": "rarefizesse",
+    "1p": "rarefizéssemos",
+    "2p": "rarefizésseis",
+    "3p": "rarefizessem"
+  },
+  "FutSC": {
+    "1s": "rarefizer",
+    "2s": "rarefizeres",
+    "3s": "rarefizer",
+    "1p": "rarefizermos",
+    "2p": "rarefizerdes",
+    "3p": "rarefizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rarefazrarefaze",
+    "3s": "rarefaça",
+    "1p": "rarefaçamos",
+    "2p": "rarefazei",
+    "3p": "rarefaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rarefaças",
+    "3s": "não rarefaça",
+    "1p": "não rarefaçamos",
+    "2p": "não rarefaçais",
+    "3p": "não rarefaçam"
+  },
+  "Part-ter": {
+    "": "rarefeito"
+  },
+  "Part-ser": {
+    "ms": "rarefeito",
+    "fs": "rarefeita",
+    "mp": "rarefeitos",
+    "fp": "rarefeitas"
+  }
+}

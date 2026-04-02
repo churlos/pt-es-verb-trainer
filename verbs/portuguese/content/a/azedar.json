@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "azedar"
+  },
+  "InfP": {
+    "1s": "azedar",
+    "2s": "azedares",
+    "3s": "azedar",
+    "1p": "azedarmos",
+    "2p": "azedardes",
+    "3p": "azedarem"
+  },
+  "Ger": {
+    "": "azedando"
+  },
+  "PresI": {
+    "1s": "azedo",
+    "2s": "azedas",
+    "3s": "azeda",
+    "1p": "azedamos",
+    "2p": "azedais",
+    "3p": "azedam"
+  },
+  "PImpI": {
+    "1s": "azedava",
+    "2s": "azedavas",
+    "3s": "azedava",
+    "1p": "azedávamos",
+    "2p": "azedáveis",
+    "3p": "azedavam"
+  },
+  "PPSI": {
+    "1s": "azedei",
+    "2s": "azedaste",
+    "3s": "azedou",
+    "1p": "azedámos",
+    "2p": "azedastes",
+    "3p": "azedaram"
+  },
+  "PMQPSI": {
+    "1s": "azedara",
+    "2s": "azedaras",
+    "3s": "azedara",
+    "1p": "azedáramos",
+    "2p": "azedáreis",
+    "3p": "azedaram"
+  },
+  "FutSI": {
+    "1s": "azedarei",
+    "2s": "azedarás",
+    "3s": "azedará",
+    "1p": "azedaremos",
+    "2p": "azedareis",
+    "3p": "azedarão"
+  },
+  "CondS": {
+    "1s": "azedaria",
+    "2s": "azedarias",
+    "3s": "azedaria",
+    "1p": "azedaríamos",
+    "2p": "azedaríeis",
+    "3p": "azedariam"
+  },
+  "PresC": {
+    "1s": "azede",
+    "2s": "azedes",
+    "3s": "azede",
+    "1p": "azedemos",
+    "2p": "azedeis",
+    "3p": "azedem"
+  },
+  "PImpC": {
+    "1s": "azedasse",
+    "2s": "azedasses",
+    "3s": "azedasse",
+    "1p": "azedássemos",
+    "2p": "azedásseis",
+    "3p": "azedassem"
+  },
+  "FutSC": {
+    "1s": "azedar",
+    "2s": "azedares",
+    "3s": "azedar",
+    "1p": "azedarmos",
+    "2p": "azedardes",
+    "3p": "azedarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "azeda",
+    "3s": "azede",
+    "1p": "azedemos",
+    "2p": "azedai",
+    "3p": "azedem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não azedes",
+    "3s": "não azede",
+    "1p": "não azedemos",
+    "2p": "não azedeis",
+    "3p": "não azedem"
+  },
+  "Part-ter": {
+    "": "azedado"
+  },
+  "Part-ser": {
+    "ms": "azedado",
+    "fs": "azedada",
+    "mp": "azedados",
+    "fp": "azedadas"
+  }
+}

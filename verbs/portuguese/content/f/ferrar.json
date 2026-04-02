@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ferrar"
+  },
+  "InfP": {
+    "1s": "ferrar",
+    "2s": "ferrares",
+    "3s": "ferrar",
+    "1p": "ferrarmos",
+    "2p": "ferrardes",
+    "3p": "ferrarem"
+  },
+  "Ger": {
+    "": "ferrando"
+  },
+  "PresI": {
+    "1s": "ferro",
+    "2s": "ferras",
+    "3s": "ferra",
+    "1p": "ferramos",
+    "2p": "ferrais",
+    "3p": "ferram"
+  },
+  "PImpI": {
+    "1s": "ferrava",
+    "2s": "ferravas",
+    "3s": "ferrava",
+    "1p": "ferrávamos",
+    "2p": "ferráveis",
+    "3p": "ferravam"
+  },
+  "PPSI": {
+    "1s": "ferrei",
+    "2s": "ferraste",
+    "3s": "ferrou",
+    "1p": "ferrámos",
+    "2p": "ferrastes",
+    "3p": "ferraram"
+  },
+  "PMQPSI": {
+    "1s": "ferrara",
+    "2s": "ferraras",
+    "3s": "ferrara",
+    "1p": "ferráramos",
+    "2p": "ferráreis",
+    "3p": "ferraram"
+  },
+  "FutSI": {
+    "1s": "ferrarei",
+    "2s": "ferrarás",
+    "3s": "ferrará",
+    "1p": "ferraremos",
+    "2p": "ferrareis",
+    "3p": "ferrarão"
+  },
+  "CondS": {
+    "1s": "ferraria",
+    "2s": "ferrarias",
+    "3s": "ferraria",
+    "1p": "ferraríamos",
+    "2p": "ferraríeis",
+    "3p": "ferrariam"
+  },
+  "PresC": {
+    "1s": "ferre",
+    "2s": "ferres",
+    "3s": "ferre",
+    "1p": "ferremos",
+    "2p": "ferreis",
+    "3p": "ferrem"
+  },
+  "PImpC": {
+    "1s": "ferrasse",
+    "2s": "ferrasses",
+    "3s": "ferrasse",
+    "1p": "ferrássemos",
+    "2p": "ferrásseis",
+    "3p": "ferrassem"
+  },
+  "FutSC": {
+    "1s": "ferrar",
+    "2s": "ferrares",
+    "3s": "ferrar",
+    "1p": "ferrarmos",
+    "2p": "ferrardes",
+    "3p": "ferrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ferra",
+    "3s": "ferre",
+    "1p": "ferremos",
+    "2p": "ferrai",
+    "3p": "ferrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ferres",
+    "3s": "não ferre",
+    "1p": "não ferremos",
+    "2p": "não ferreis",
+    "3p": "não ferrem"
+  },
+  "Part-ter": {
+    "": "ferrado"
+  },
+  "Part-ser": {
+    "ms": "ferrado",
+    "fs": "ferrada",
+    "mp": "ferrados",
+    "fp": "ferradas"
+  }
+}

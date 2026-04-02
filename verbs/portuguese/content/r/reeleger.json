@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reeleger"
+  },
+  "InfP": {
+    "1s": "reeleger",
+    "2s": "reelegeres",
+    "3s": "reeleger",
+    "1p": "reelegermos",
+    "2p": "reelegerdes",
+    "3p": "reelegerem"
+  },
+  "Ger": {
+    "": "reelegendo"
+  },
+  "PresI": {
+    "1s": "reelejo",
+    "2s": "reeleges",
+    "3s": "reelege",
+    "1p": "reelegemos",
+    "2p": "reelegeis",
+    "3p": "reelegem"
+  },
+  "PImpI": {
+    "1s": "reelegia",
+    "2s": "reelegias",
+    "3s": "reelegia",
+    "1p": "reelegíamos",
+    "2p": "reelegíeis",
+    "3p": "reelegiam"
+  },
+  "PPSI": {
+    "1s": "reelegi",
+    "2s": "reelegeste",
+    "3s": "reelegeu",
+    "1p": "reelegemos",
+    "2p": "reelegestes",
+    "3p": "reelegeram"
+  },
+  "PMQPSI": {
+    "1s": "reelegera",
+    "2s": "reelegeras",
+    "3s": "reelegera",
+    "1p": "reelegêramos",
+    "2p": "reelegêreis",
+    "3p": "reelegeram"
+  },
+  "FutSI": {
+    "1s": "reelegerei",
+    "2s": "reelegerás",
+    "3s": "reelegerá",
+    "1p": "reelegeremos",
+    "2p": "reelegereis",
+    "3p": "reelegerão"
+  },
+  "CondS": {
+    "1s": "reelegeria",
+    "2s": "reelegerias",
+    "3s": "reelegeria",
+    "1p": "reelegeríamos",
+    "2p": "reelegeríeis",
+    "3p": "reelegeriam"
+  },
+  "PresC": {
+    "1s": "reeleja",
+    "2s": "reelejas",
+    "3s": "reeleja",
+    "1p": "reelejamos",
+    "2p": "reelejais",
+    "3p": "reelejam"
+  },
+  "PImpC": {
+    "1s": "reelegesse",
+    "2s": "reelegesses",
+    "3s": "reelegesse",
+    "1p": "reelegêssemos",
+    "2p": "reelegêsseis",
+    "3p": "reelegessem"
+  },
+  "FutSC": {
+    "1s": "reeleger",
+    "2s": "reelegeres",
+    "3s": "reeleger",
+    "1p": "reelegermos",
+    "2p": "reelegerdes",
+    "3p": "reelegerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reelege",
+    "3s": "reeleja",
+    "1p": "reelejamos",
+    "2p": "reelegei",
+    "3p": "reelejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reelejas",
+    "3s": "não reeleja",
+    "1p": "não reelejamos",
+    "2p": "não reelejais",
+    "3p": "não reelejam"
+  },
+  "Part-ter": {
+    "": "reelegido"
+  },
+  "Part-ser": {
+    "ms": "reeleito",
+    "fs": "reeleita",
+    "mp": "reeleitos",
+    "fp": "reeleitas"
+  }
+}

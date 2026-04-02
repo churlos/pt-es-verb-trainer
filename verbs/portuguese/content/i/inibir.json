@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inibir"
+  },
+  "InfP": {
+    "1s": "inibir",
+    "2s": "inibires",
+    "3s": "inibir",
+    "1p": "inibirmos",
+    "2p": "inibirdes",
+    "3p": "inibirem"
+  },
+  "Ger": {
+    "": "inibindo"
+  },
+  "PresI": {
+    "1s": "inibo",
+    "2s": "inibes",
+    "3s": "inibe",
+    "1p": "inibimos",
+    "2p": "inibis",
+    "3p": "inibem"
+  },
+  "PImpI": {
+    "1s": "inibia",
+    "2s": "inibias",
+    "3s": "inibia",
+    "1p": "inibíamos",
+    "2p": "inibíeis",
+    "3p": "inibiam"
+  },
+  "PPSI": {
+    "1s": "inibi",
+    "2s": "inibiste",
+    "3s": "inibiu",
+    "1p": "inibimos",
+    "2p": "inibistes",
+    "3p": "inibiram"
+  },
+  "PMQPSI": {
+    "1s": "inibira",
+    "2s": "inibiras",
+    "3s": "inibira",
+    "1p": "inibíramos",
+    "2p": "inibíreis",
+    "3p": "inibiram"
+  },
+  "FutSI": {
+    "1s": "inibirei",
+    "2s": "inibirás",
+    "3s": "inibirá",
+    "1p": "inibiremos",
+    "2p": "inibireis",
+    "3p": "inibirão"
+  },
+  "CondS": {
+    "1s": "inibiria",
+    "2s": "inibirias",
+    "3s": "inibiria",
+    "1p": "inibiríamos",
+    "2p": "inibiríeis",
+    "3p": "inibiriam"
+  },
+  "PresC": {
+    "1s": "iniba",
+    "2s": "inibas",
+    "3s": "iniba",
+    "1p": "inibamos",
+    "2p": "inibais",
+    "3p": "inibam"
+  },
+  "PImpC": {
+    "1s": "inibisse",
+    "2s": "inibisses",
+    "3s": "inibisse",
+    "1p": "inibíssemos",
+    "2p": "inibísseis",
+    "3p": "inibissem"
+  },
+  "FutSC": {
+    "1s": "inibir",
+    "2s": "inibires",
+    "3s": "inibir",
+    "1p": "inibirmos",
+    "2p": "inibirdes",
+    "3p": "inibirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inibe",
+    "3s": "iniba",
+    "1p": "inibamos",
+    "2p": "inibi",
+    "3p": "inibam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inibas",
+    "3s": "não iniba",
+    "1p": "não inibamos",
+    "2p": "não inibais",
+    "3p": "não inibam"
+  },
+  "Part-ter": {
+    "": "inibido"
+  },
+  "Part-ser": {
+    "ms": "inibido",
+    "fs": "inibida",
+    "mp": "inibidos",
+    "fp": "inibidas"
+  }
+}

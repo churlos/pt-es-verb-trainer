@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "requerer"
+  },
+  "InfP": {
+    "1s": "requerer",
+    "2s": "requereres",
+    "3s": "requerer",
+    "1p": "requerermos",
+    "2p": "requererdes",
+    "3p": "requererem"
+  },
+  "Ger": {
+    "": "requerendo"
+  },
+  "PresI": {
+    "1s": "requeiro",
+    "2s": "requeres",
+    "3s": "requer",
+    "1p": "requeremos",
+    "2p": "requereis",
+    "3p": "requerem"
+  },
+  "PImpI": {
+    "1s": "requeria",
+    "2s": "requerias",
+    "3s": "requeria",
+    "1p": "requeríamos",
+    "2p": "requeríeis",
+    "3p": "requeriam"
+  },
+  "PPSI": {
+    "1s": "requeri",
+    "2s": "requereste",
+    "3s": "requereu",
+    "1p": "requeremos",
+    "2p": "requerestes",
+    "3p": "requereram"
+  },
+  "PMQPSI": {
+    "1s": "requerera",
+    "2s": "requereras",
+    "3s": "requerera",
+    "1p": "requerêramos",
+    "2p": "requerêreis",
+    "3p": "requereram"
+  },
+  "FutSI": {
+    "1s": "requererei",
+    "2s": "requererás",
+    "3s": "requererá",
+    "1p": "requereremos",
+    "2p": "requerereis",
+    "3p": "requererão"
+  },
+  "CondS": {
+    "1s": "requereria",
+    "2s": "requererias",
+    "3s": "requereria",
+    "1p": "requereríamos",
+    "2p": "requereríeis",
+    "3p": "requereriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "requeiras",
+    "3s": "requeira",
+    "1p": "requeiramos",
+    "2p": "requeirais",
+    "3p": "requeiram"
+  },
+  "PImpC": {
+    "1s": "requeresse",
+    "2s": "requeresses",
+    "3s": "requeresse",
+    "1p": "requerêssemos",
+    "2p": "requerêsseis",
+    "3p": "requeressem"
+  },
+  "FutSC": {
+    "1s": "requerer",
+    "2s": "requereres",
+    "3s": "requerer",
+    "1p": "requerermos",
+    "2p": "requererdes",
+    "3p": "requererem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "requer",
+    "3s": "requeira",
+    "1p": "requeiramos",
+    "2p": "requerei",
+    "3p": "requeiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não requeiras",
+    "3s": "não requeira",
+    "1p": "não requeiramos",
+    "2p": "não requeirais",
+    "3p": "não requeiram"
+  },
+  "Part-ter": {
+    "": "requerido"
+  },
+  "Part-ser": {
+    "ms": "requerido",
+    "fs": "requerida",
+    "mp": "requeridos",
+    "fp": "requeridas"
+  }
+}

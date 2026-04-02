@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bastir"
+  },
+  "InfP": {
+    "1s": "bastir",
+    "2s": "bastires",
+    "3s": "bastir",
+    "1p": "bastirmos",
+    "2p": "bastirdes",
+    "3p": "bastirem"
+  },
+  "Ger": {
+    "": "bastindo"
+  },
+  "PresI": {
+    "1s": "basto",
+    "2s": "bastes",
+    "3s": "baste",
+    "1p": "bastimos",
+    "2p": "bastis",
+    "3p": "bastem"
+  },
+  "PImpI": {
+    "1s": "bastia",
+    "2s": "bastias",
+    "3s": "bastia",
+    "1p": "bastíamos",
+    "2p": "bastíeis",
+    "3p": "bastiam"
+  },
+  "PPSI": {
+    "1s": "basti",
+    "2s": "bastiste",
+    "3s": "bastiu",
+    "1p": "bastimos",
+    "2p": "bastistes",
+    "3p": "bastiram"
+  },
+  "PMQPSI": {
+    "1s": "bastira",
+    "2s": "bastiras",
+    "3s": "bastira",
+    "1p": "bastíramos",
+    "2p": "bastíreis",
+    "3p": "bastiram"
+  },
+  "FutSI": {
+    "1s": "bastirei",
+    "2s": "bastirás",
+    "3s": "bastirá",
+    "1p": "bastiremos",
+    "2p": "bastireis",
+    "3p": "bastirão"
+  },
+  "CondS": {
+    "1s": "bastiria",
+    "2s": "bastirias",
+    "3s": "bastiria",
+    "1p": "bastiríamos",
+    "2p": "bastiríeis",
+    "3p": "bastiriam"
+  },
+  "PresC": {
+    "1s": "basta",
+    "2s": "bastas",
+    "3s": "basta",
+    "1p": "bastamos",
+    "2p": "bastais",
+    "3p": "bastam"
+  },
+  "PImpC": {
+    "1s": "bastisse",
+    "2s": "bastisses",
+    "3s": "bastisse",
+    "1p": "bastíssemos",
+    "2p": "bastísseis",
+    "3p": "bastissem"
+  },
+  "FutSC": {
+    "1s": "bastir",
+    "2s": "bastires",
+    "3s": "bastir",
+    "1p": "bastirmos",
+    "2p": "bastirdes",
+    "3p": "bastirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baste",
+    "3s": "basta",
+    "1p": "bastamos",
+    "2p": "basti",
+    "3p": "bastam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bastas",
+    "3s": "não basta",
+    "1p": "não bastamos",
+    "2p": "não bastais",
+    "3p": "não bastam"
+  },
+  "Part-ter": {
+    "": "bastido"
+  },
+  "Part-ser": {
+    "ms": "bastido",
+    "fs": "bastida",
+    "mp": "bastidos",
+    "fp": "bastidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "elevar"
+  },
+  "InfP": {
+    "1s": "elevar",
+    "2s": "elevares",
+    "3s": "elevar",
+    "1p": "elevarmos",
+    "2p": "elevardes",
+    "3p": "elevarem"
+  },
+  "Ger": {
+    "": "elevando"
+  },
+  "PresI": {
+    "1s": "elevo",
+    "2s": "elevas",
+    "3s": "eleva",
+    "1p": "elevamos",
+    "2p": "elevais",
+    "3p": "elevam"
+  },
+  "PImpI": {
+    "1s": "elevava",
+    "2s": "elevavas",
+    "3s": "elevava",
+    "1p": "elevávamos",
+    "2p": "eleváveis",
+    "3p": "elevavam"
+  },
+  "PPSI": {
+    "1s": "elevei",
+    "2s": "elevaste",
+    "3s": "elevou",
+    "1p": "elevámos",
+    "2p": "elevastes",
+    "3p": "elevaram"
+  },
+  "PMQPSI": {
+    "1s": "elevara",
+    "2s": "elevaras",
+    "3s": "elevara",
+    "1p": "eleváramos",
+    "2p": "eleváreis",
+    "3p": "elevaram"
+  },
+  "FutSI": {
+    "1s": "elevarei",
+    "2s": "elevarás",
+    "3s": "elevará",
+    "1p": "elevaremos",
+    "2p": "elevareis",
+    "3p": "elevarão"
+  },
+  "CondS": {
+    "1s": "elevaria",
+    "2s": "elevarias",
+    "3s": "elevaria",
+    "1p": "elevaríamos",
+    "2p": "elevaríeis",
+    "3p": "elevariam"
+  },
+  "PresC": {
+    "1s": "eleve",
+    "2s": "eleves",
+    "3s": "eleve",
+    "1p": "elevemos",
+    "2p": "eleveis",
+    "3p": "elevem"
+  },
+  "PImpC": {
+    "1s": "elevasse",
+    "2s": "elevasses",
+    "3s": "elevasse",
+    "1p": "elevássemos",
+    "2p": "elevásseis",
+    "3p": "elevassem"
+  },
+  "FutSC": {
+    "1s": "elevar",
+    "2s": "elevares",
+    "3s": "elevar",
+    "1p": "elevarmos",
+    "2p": "elevardes",
+    "3p": "elevarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eleva",
+    "3s": "eleve",
+    "1p": "elevemos",
+    "2p": "elevai",
+    "3p": "elevem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não eleves",
+    "3s": "não eleve",
+    "1p": "não elevemos",
+    "2p": "não eleveis",
+    "3p": "não elevem"
+  },
+  "Part-ter": {
+    "": "elevado"
+  },
+  "Part-ser": {
+    "ms": "elevado",
+    "fs": "elevada",
+    "mp": "elevados",
+    "fp": "elevadas"
+  }
+}

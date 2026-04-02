@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "corvar"
+  },
+  "Ger": {
+    "": "corvando"
+  },
+  "PresI": {
+    "1s": "corvo",
+    "2s": "corvas",
+    "3s": "corva",
+    "1p": "corvamos",
+    "2p": "corváis",
+    "3p": "corvan"
+  },
+  "PImpI": {
+    "1s": "corvaba",
+    "2s": "corvabas",
+    "3s": "corvaba",
+    "1p": "corvábamos",
+    "2p": "corvabais",
+    "3p": "corvaban"
+  },
+  "PPSI": {
+    "1s": "corvé",
+    "2s": "corvaste",
+    "3s": "corvó",
+    "1p": "corvamos",
+    "2p": "corvasteis",
+    "3p": "corvaron"
+  },
+  "FutSI": {
+    "1s": "corvaré",
+    "2s": "corvarás",
+    "3s": "corvará",
+    "1p": "corvaremos",
+    "2p": "corvaréis",
+    "3p": "corvarán"
+  },
+  "CondS": {
+    "1s": "corvaría",
+    "2s": "corvarías",
+    "3s": "corvaría",
+    "1p": "corvaríamos",
+    "2p": "corvaríais",
+    "3p": "corvarían"
+  },
+  "PresC": {
+    "1s": "corve",
+    "2s": "corves",
+    "3s": "corve",
+    "1p": "corvemos",
+    "2p": "corvéis",
+    "3p": "corven"
+  },
+  "PMQPSI": {
+    "1s": "corvara",
+    "2s": "corvaras",
+    "3s": "corvara",
+    "1p": "corváramos",
+    "2p": "corvarais",
+    "3p": "corvaran"
+  },
+  "PImpC": {
+    "1s": "corvase",
+    "2s": "corvases",
+    "3s": "corvase",
+    "1p": "corvásemos",
+    "2p": "corvaseis",
+    "3p": "corvasen"
+  },
+  "FutSC": {
+    "1s": "corvare",
+    "2s": "corvares",
+    "3s": "corvare",
+    "1p": "corváremos",
+    "2p": "corvareis",
+    "3p": "corvaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corva",
+    "3s": "corve",
+    "1p": "corvemos",
+    "2p": "corvad",
+    "3p": "corven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no corves",
+    "3s": "no corve",
+    "1p": "no corvemos",
+    "2p": "no corvéis",
+    "3p": "no corven"
+  },
+  "Part-ter": {
+    "": "corvado"
+  },
+  "Part-ser": {
+    "ms": "corvado",
+    "fs": "corvada",
+    "mp": "corvados",
+    "fp": "corvadas"
+  }
+}

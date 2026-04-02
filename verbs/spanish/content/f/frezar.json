@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "frezar"
+  },
+  "Ger": {
+    "": "frezando"
+  },
+  "PresI": {
+    "1s": "frezo",
+    "2s": "frezas",
+    "3s": "freza",
+    "1p": "frezamos",
+    "2p": "frezáis",
+    "3p": "frezan"
+  },
+  "PImpI": {
+    "1s": "frezaba",
+    "2s": "frezabas",
+    "3s": "frezaba",
+    "1p": "frezábamos",
+    "2p": "frezabais",
+    "3p": "frezaban"
+  },
+  "PPSI": {
+    "1s": "frecé",
+    "2s": "frezaste",
+    "3s": "frezó",
+    "1p": "frezamos",
+    "2p": "frezasteis",
+    "3p": "frezaron"
+  },
+  "FutSI": {
+    "1s": "frezaré",
+    "2s": "frezarás",
+    "3s": "frezará",
+    "1p": "frezaremos",
+    "2p": "frezaréis",
+    "3p": "frezarán"
+  },
+  "CondS": {
+    "1s": "frezaría",
+    "2s": "frezarías",
+    "3s": "frezaría",
+    "1p": "frezaríamos",
+    "2p": "frezaríais",
+    "3p": "frezarían"
+  },
+  "PresC": {
+    "1s": "frece",
+    "2s": "freces",
+    "3s": "frece",
+    "1p": "frecemos",
+    "2p": "frecéis",
+    "3p": "frecen"
+  },
+  "PMQPSI": {
+    "1s": "frezara",
+    "2s": "frezaras",
+    "3s": "frezara",
+    "1p": "frezáramos",
+    "2p": "frezarais",
+    "3p": "frezaran"
+  },
+  "PImpC": {
+    "1s": "frezase",
+    "2s": "frezases",
+    "3s": "frezase",
+    "1p": "frezásemos",
+    "2p": "frezaseis",
+    "3p": "frezasen"
+  },
+  "FutSC": {
+    "1s": "frezare",
+    "2s": "frezares",
+    "3s": "frezare",
+    "1p": "frezáremos",
+    "2p": "frezareis",
+    "3p": "frezaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "freza",
+    "3s": "frece",
+    "1p": "frecemos",
+    "2p": "frezad",
+    "3p": "frecen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no freces",
+    "3s": "no frece",
+    "1p": "no frecemos",
+    "2p": "no frecéis",
+    "3p": "no frecen"
+  },
+  "Part-ter": {
+    "": "frezado"
+  },
+  "Part-ser": {
+    "ms": "frezado",
+    "fs": "frezada",
+    "mp": "frezados",
+    "fp": "frezadas"
+  }
+}

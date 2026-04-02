@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "incinerar"
+  },
+  "Ger": {
+    "": "incinerando"
+  },
+  "PresI": {
+    "1s": "incinero",
+    "2s": "incineras",
+    "3s": "incinera",
+    "1p": "incineramos",
+    "2p": "incineráis",
+    "3p": "incineran"
+  },
+  "PImpI": {
+    "1s": "incineraba",
+    "2s": "incinerabas",
+    "3s": "incineraba",
+    "1p": "incinerábamos",
+    "2p": "incinerabais",
+    "3p": "incineraban"
+  },
+  "PPSI": {
+    "1s": "incineré",
+    "2s": "incineraste",
+    "3s": "incineró",
+    "1p": "incineramos",
+    "2p": "incinerasteis",
+    "3p": "incineraron"
+  },
+  "FutSI": {
+    "1s": "incineraré",
+    "2s": "incinerarás",
+    "3s": "incinerará",
+    "1p": "incineraremos",
+    "2p": "incineraréis",
+    "3p": "incinerarán"
+  },
+  "CondS": {
+    "1s": "incineraría",
+    "2s": "incinerarías",
+    "3s": "incineraría",
+    "1p": "incineraríamos",
+    "2p": "incineraríais",
+    "3p": "incinerarían"
+  },
+  "PresC": {
+    "1s": "incinere",
+    "2s": "incineres",
+    "3s": "incinere",
+    "1p": "incineremos",
+    "2p": "incineréis",
+    "3p": "incineren"
+  },
+  "PMQPSI": {
+    "1s": "incinerara",
+    "2s": "incineraras",
+    "3s": "incinerara",
+    "1p": "incineráramos",
+    "2p": "incinerarais",
+    "3p": "incineraran"
+  },
+  "PImpC": {
+    "1s": "incinerase",
+    "2s": "incinerases",
+    "3s": "incinerase",
+    "1p": "incinerásemos",
+    "2p": "incineraseis",
+    "3p": "incinerasen"
+  },
+  "FutSC": {
+    "1s": "incinerare",
+    "2s": "incinerares",
+    "3s": "incinerare",
+    "1p": "incineráremos",
+    "2p": "incinerareis",
+    "3p": "incineraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incinera",
+    "3s": "incinere",
+    "1p": "incineremos",
+    "2p": "incinerad",
+    "3p": "incineren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no incineres",
+    "3s": "no incinere",
+    "1p": "no incineremos",
+    "2p": "no incineréis",
+    "3p": "no incineren"
+  },
+  "Part-ter": {
+    "": "incinerado"
+  },
+  "Part-ser": {
+    "ms": "incinerado",
+    "fs": "incinerada",
+    "mp": "incinerados",
+    "fp": "incineradas"
+  }
+}

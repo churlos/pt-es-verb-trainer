@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enlazar"
+  },
+  "Ger": {
+    "": "enlazando"
+  },
+  "PresI": {
+    "1s": "enlazo",
+    "2s": "enlazas",
+    "3s": "enlaza",
+    "1p": "enlazamos",
+    "2p": "enlazáis",
+    "3p": "enlazan"
+  },
+  "PImpI": {
+    "1s": "enlazaba",
+    "2s": "enlazabas",
+    "3s": "enlazaba",
+    "1p": "enlazábamos",
+    "2p": "enlazabais",
+    "3p": "enlazaban"
+  },
+  "PPSI": {
+    "1s": "enlacé",
+    "2s": "enlazaste",
+    "3s": "enlazó",
+    "1p": "enlazamos",
+    "2p": "enlazasteis",
+    "3p": "enlazaron"
+  },
+  "FutSI": {
+    "1s": "enlazaré",
+    "2s": "enlazarás",
+    "3s": "enlazará",
+    "1p": "enlazaremos",
+    "2p": "enlazaréis",
+    "3p": "enlazarán"
+  },
+  "CondS": {
+    "1s": "enlazaría",
+    "2s": "enlazarías",
+    "3s": "enlazaría",
+    "1p": "enlazaríamos",
+    "2p": "enlazaríais",
+    "3p": "enlazarían"
+  },
+  "PresC": {
+    "1s": "enlace",
+    "2s": "enlaces",
+    "3s": "enlace",
+    "1p": "enlacemos",
+    "2p": "enlacéis",
+    "3p": "enlacen"
+  },
+  "PMQPSI": {
+    "1s": "enlazara",
+    "2s": "enlazaras",
+    "3s": "enlazara",
+    "1p": "enlazáramos",
+    "2p": "enlazarais",
+    "3p": "enlazaran"
+  },
+  "PImpC": {
+    "1s": "enlazase",
+    "2s": "enlazases",
+    "3s": "enlazase",
+    "1p": "enlazásemos",
+    "2p": "enlazaseis",
+    "3p": "enlazasen"
+  },
+  "FutSC": {
+    "1s": "enlazare",
+    "2s": "enlazares",
+    "3s": "enlazare",
+    "1p": "enlazáremos",
+    "2p": "enlazareis",
+    "3p": "enlazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enlaza",
+    "3s": "enlace",
+    "1p": "enlacemos",
+    "2p": "enlazad",
+    "3p": "enlacen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enlaces",
+    "3s": "no enlace",
+    "1p": "no enlacemos",
+    "2p": "no enlacéis",
+    "3p": "no enlacen"
+  },
+  "Part-ter": {
+    "": "enlazado"
+  },
+  "Part-ser": {
+    "ms": "enlazado",
+    "fs": "enlazada",
+    "mp": "enlazados",
+    "fp": "enlazadas"
+  }
+}

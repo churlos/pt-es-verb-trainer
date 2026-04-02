@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desvendar"
+  },
+  "InfP": {
+    "1s": "desvendar",
+    "2s": "desvendares",
+    "3s": "desvendar",
+    "1p": "desvendarmos",
+    "2p": "desvendardes",
+    "3p": "desvendarem"
+  },
+  "Ger": {
+    "": "desvendando"
+  },
+  "PresI": {
+    "1s": "desvendo",
+    "2s": "desvendas",
+    "3s": "desvenda",
+    "1p": "desvendamos",
+    "2p": "desvendais",
+    "3p": "desvendam"
+  },
+  "PImpI": {
+    "1s": "desvendava",
+    "2s": "desvendavas",
+    "3s": "desvendava",
+    "1p": "desvendávamos",
+    "2p": "desvendáveis",
+    "3p": "desvendavam"
+  },
+  "PPSI": {
+    "1s": "desvendei",
+    "2s": "desvendaste",
+    "3s": "desvendou",
+    "1p": "desvendámos",
+    "2p": "desvendastes",
+    "3p": "desvendaram"
+  },
+  "PMQPSI": {
+    "1s": "desvendara",
+    "2s": "desvendaras",
+    "3s": "desvendara",
+    "1p": "desvendáramos",
+    "2p": "desvendáreis",
+    "3p": "desvendaram"
+  },
+  "FutSI": {
+    "1s": "desvendarei",
+    "2s": "desvendarás",
+    "3s": "desvendará",
+    "1p": "desvendaremos",
+    "2p": "desvendareis",
+    "3p": "desvendarão"
+  },
+  "CondS": {
+    "1s": "desvendaria",
+    "2s": "desvendarias",
+    "3s": "desvendaria",
+    "1p": "desvendaríamos",
+    "2p": "desvendaríeis",
+    "3p": "desvendariam"
+  },
+  "PresC": {
+    "1s": "desvende",
+    "2s": "desvendes",
+    "3s": "desvende",
+    "1p": "desvendemos",
+    "2p": "desvendeis",
+    "3p": "desvendem"
+  },
+  "PImpC": {
+    "1s": "desvendasse",
+    "2s": "desvendasses",
+    "3s": "desvendasse",
+    "1p": "desvendássemos",
+    "2p": "desvendásseis",
+    "3p": "desvendassem"
+  },
+  "FutSC": {
+    "1s": "desvendar",
+    "2s": "desvendares",
+    "3s": "desvendar",
+    "1p": "desvendarmos",
+    "2p": "desvendardes",
+    "3p": "desvendarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desvenda",
+    "3s": "desvende",
+    "1p": "desvendemos",
+    "2p": "desvendai",
+    "3p": "desvendem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desvendes",
+    "3s": "não desvende",
+    "1p": "não desvendemos",
+    "2p": "não desvendeis",
+    "3p": "não desvendem"
+  },
+  "Part-ter": {
+    "": "desvendado"
+  },
+  "Part-ser": {
+    "ms": "desvendado",
+    "fs": "desvendada",
+    "mp": "desvendados",
+    "fp": "desvendadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espelhar"
+  },
+  "InfP": {
+    "1s": "espelhar",
+    "2s": "espelhares",
+    "3s": "espelhar",
+    "1p": "espelharmos",
+    "2p": "espelhardes",
+    "3p": "espelharem"
+  },
+  "Ger": {
+    "": "espelhando"
+  },
+  "PresI": {
+    "1s": "espelho",
+    "2s": "espelhas",
+    "3s": "espelha",
+    "1p": "espelhamos",
+    "2p": "espelhais",
+    "3p": "espelham"
+  },
+  "PImpI": {
+    "1s": "espelhava",
+    "2s": "espelhavas",
+    "3s": "espelhava",
+    "1p": "espelhávamos",
+    "2p": "espelháveis",
+    "3p": "espelhavam"
+  },
+  "PPSI": {
+    "1s": "espelhei",
+    "2s": "espelhaste",
+    "3s": "espelhou",
+    "1p": "espelhámos",
+    "2p": "espelhastes",
+    "3p": "espelharam"
+  },
+  "PMQPSI": {
+    "1s": "espelhara",
+    "2s": "espelharas",
+    "3s": "espelhara",
+    "1p": "espelháramos",
+    "2p": "espelháreis",
+    "3p": "espelharam"
+  },
+  "FutSI": {
+    "1s": "espelharei",
+    "2s": "espelharás",
+    "3s": "espelhará",
+    "1p": "espelharemos",
+    "2p": "espelhareis",
+    "3p": "espelharão"
+  },
+  "CondS": {
+    "1s": "espelharia",
+    "2s": "espelharias",
+    "3s": "espelharia",
+    "1p": "espelharíamos",
+    "2p": "espelharíeis",
+    "3p": "espelhariam"
+  },
+  "PresC": {
+    "1s": "espelhe",
+    "2s": "espelhes",
+    "3s": "espelhe",
+    "1p": "espelhemos",
+    "2p": "espelheis",
+    "3p": "espelhem"
+  },
+  "PImpC": {
+    "1s": "espelhasse",
+    "2s": "espelhasses",
+    "3s": "espelhasse",
+    "1p": "espelhássemos",
+    "2p": "espelhásseis",
+    "3p": "espelhassem"
+  },
+  "FutSC": {
+    "1s": "espelhar",
+    "2s": "espelhares",
+    "3s": "espelhar",
+    "1p": "espelharmos",
+    "2p": "espelhardes",
+    "3p": "espelharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espelha",
+    "3s": "espelhe",
+    "1p": "espelhemos",
+    "2p": "espelhai",
+    "3p": "espelhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espelhes",
+    "3s": "não espelhe",
+    "1p": "não espelhemos",
+    "2p": "não espelheis",
+    "3p": "não espelhem"
+  },
+  "Part-ter": {
+    "": "espelhado"
+  },
+  "Part-ser": {
+    "ms": "espelhado",
+    "fs": "espelhada",
+    "mp": "espelhados",
+    "fp": "espelhadas"
+  }
+}

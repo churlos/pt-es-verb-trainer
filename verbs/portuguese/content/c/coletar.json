@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "coletar"
+  },
+  "InfP": {
+    "1s": "coletar",
+    "2s": "coletares",
+    "3s": "coletar",
+    "1p": "coletarmos",
+    "2p": "coletardes",
+    "3p": "coletarem"
+  },
+  "Ger": {
+    "": "coletando"
+  },
+  "PresI": {
+    "1s": "coleto",
+    "2s": "coletas",
+    "3s": "coleta",
+    "1p": "coletamos",
+    "2p": "coletais",
+    "3p": "coletam"
+  },
+  "PImpI": {
+    "1s": "coletava",
+    "2s": "coletavas",
+    "3s": "coletava",
+    "1p": "coletávamos",
+    "2p": "coletáveis",
+    "3p": "coletavam"
+  },
+  "PPSI": {
+    "1s": "coletei",
+    "2s": "coletaste",
+    "3s": "coletou",
+    "1p": "coletámos",
+    "2p": "coletastes",
+    "3p": "coletaram"
+  },
+  "PMQPSI": {
+    "1s": "coletara",
+    "2s": "coletaras",
+    "3s": "coletara",
+    "1p": "coletáramos",
+    "2p": "coletáreis",
+    "3p": "coletaram"
+  },
+  "FutSI": {
+    "1s": "coletarei",
+    "2s": "coletarás",
+    "3s": "coletará",
+    "1p": "coletaremos",
+    "2p": "coletareis",
+    "3p": "coletarão"
+  },
+  "CondS": {
+    "1s": "coletaria",
+    "2s": "coletarias",
+    "3s": "coletaria",
+    "1p": "coletaríamos",
+    "2p": "coletaríeis",
+    "3p": "coletariam"
+  },
+  "PresC": {
+    "1s": "colete",
+    "2s": "coletes",
+    "3s": "colete",
+    "1p": "coletemos",
+    "2p": "coleteis",
+    "3p": "coletem"
+  },
+  "PImpC": {
+    "1s": "coletasse",
+    "2s": "coletasses",
+    "3s": "coletasse",
+    "1p": "coletássemos",
+    "2p": "coletásseis",
+    "3p": "coletassem"
+  },
+  "FutSC": {
+    "1s": "coletar",
+    "2s": "coletares",
+    "3s": "coletar",
+    "1p": "coletarmos",
+    "2p": "coletardes",
+    "3p": "coletarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coleta",
+    "3s": "colete",
+    "1p": "coletemos",
+    "2p": "coletai",
+    "3p": "coletem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coletes",
+    "3s": "não colete",
+    "1p": "não coletemos",
+    "2p": "não coleteis",
+    "3p": "não coletem"
+  },
+  "Part-ter": {
+    "": "coletado"
+  },
+  "Part-ser": {
+    "ms": "coletado",
+    "fs": "coletada",
+    "mp": "coletados",
+    "fp": "coletadas"
+  }
+}

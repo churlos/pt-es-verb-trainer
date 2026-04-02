@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "repassar"
+  },
+  "InfP": {
+    "1s": "repassar",
+    "2s": "repassares",
+    "3s": "repassar",
+    "1p": "repassarmos",
+    "2p": "repassardes",
+    "3p": "repassarem"
+  },
+  "Ger": {
+    "": "repassando"
+  },
+  "PresI": {
+    "1s": "repasso",
+    "2s": "repassas",
+    "3s": "repassa",
+    "1p": "repassamos",
+    "2p": "repassais",
+    "3p": "repassam"
+  },
+  "PImpI": {
+    "1s": "repassava",
+    "2s": "repassavas",
+    "3s": "repassava",
+    "1p": "repassávamos",
+    "2p": "repassáveis",
+    "3p": "repassavam"
+  },
+  "PPSI": {
+    "1s": "repassei",
+    "2s": "repassaste",
+    "3s": "repassou",
+    "1p": "repassámos",
+    "2p": "repassastes",
+    "3p": "repassaram"
+  },
+  "PMQPSI": {
+    "1s": "repassara",
+    "2s": "repassaras",
+    "3s": "repassara",
+    "1p": "repassáramos",
+    "2p": "repassáreis",
+    "3p": "repassaram"
+  },
+  "FutSI": {
+    "1s": "repassarei",
+    "2s": "repassarás",
+    "3s": "repassará",
+    "1p": "repassaremos",
+    "2p": "repassareis",
+    "3p": "repassarão"
+  },
+  "CondS": {
+    "1s": "repassaria",
+    "2s": "repassarias",
+    "3s": "repassaria",
+    "1p": "repassaríamos",
+    "2p": "repassaríeis",
+    "3p": "repassariam"
+  },
+  "PresC": {
+    "1s": "repasse",
+    "2s": "repasses",
+    "3s": "repasse",
+    "1p": "repassemos",
+    "2p": "repasseis",
+    "3p": "repassem"
+  },
+  "PImpC": {
+    "1s": "repassasse",
+    "2s": "repassasses",
+    "3s": "repassasse",
+    "1p": "repassássemos",
+    "2p": "repassásseis",
+    "3p": "repassassem"
+  },
+  "FutSC": {
+    "1s": "repassar",
+    "2s": "repassares",
+    "3s": "repassar",
+    "1p": "repassarmos",
+    "2p": "repassardes",
+    "3p": "repassarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "repassa",
+    "3s": "repasse",
+    "1p": "repassemos",
+    "2p": "repassai",
+    "3p": "repassem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não repasses",
+    "3s": "não repasse",
+    "1p": "não repassemos",
+    "2p": "não repasseis",
+    "3p": "não repassem"
+  },
+  "Part-ter": {
+    "": "repassado"
+  },
+  "Part-ser": {
+    "ms": "repassado",
+    "fs": "repassada",
+    "mp": "repassados",
+    "fp": "repassadas"
+  }
+}

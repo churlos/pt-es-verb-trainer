@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "segregar"
+  },
+  "InfP": {
+    "1s": "segregar",
+    "2s": "segregares",
+    "3s": "segregar",
+    "1p": "segregarmos",
+    "2p": "segregardes",
+    "3p": "segregarem"
+  },
+  "Ger": {
+    "": "segregando"
+  },
+  "PresI": {
+    "1s": "segrego",
+    "2s": "segregas",
+    "3s": "segrega",
+    "1p": "segregamos",
+    "2p": "segregais",
+    "3p": "segregam"
+  },
+  "PImpI": {
+    "1s": "segregava",
+    "2s": "segregavas",
+    "3s": "segregava",
+    "1p": "segregávamos",
+    "2p": "segregáveis",
+    "3p": "segregavam"
+  },
+  "PPSI": {
+    "1s": "segreguei",
+    "2s": "segregaste",
+    "3s": "segregou",
+    "1p": "segregámos",
+    "2p": "segregastes",
+    "3p": "segregaram"
+  },
+  "PMQPSI": {
+    "1s": "segregara",
+    "2s": "segregaras",
+    "3s": "segregara",
+    "1p": "segregáramos",
+    "2p": "segregáreis",
+    "3p": "segregaram"
+  },
+  "FutSI": {
+    "1s": "segregarei",
+    "2s": "segregarás",
+    "3s": "segregará",
+    "1p": "segregaremos",
+    "2p": "segregareis",
+    "3p": "segregarão"
+  },
+  "CondS": {
+    "1s": "segregaria",
+    "2s": "segregarias",
+    "3s": "segregaria",
+    "1p": "segregaríamos",
+    "2p": "segregaríeis",
+    "3p": "segregariam"
+  },
+  "PresC": {
+    "1s": "segregue",
+    "2s": "segregues",
+    "3s": "segregue",
+    "1p": "segreguemos",
+    "2p": "segregueis",
+    "3p": "segreguem"
+  },
+  "PImpC": {
+    "1s": "segregasse",
+    "2s": "segregasses",
+    "3s": "segregasse",
+    "1p": "segregássemos",
+    "2p": "segregásseis",
+    "3p": "segregassem"
+  },
+  "FutSC": {
+    "1s": "segregar",
+    "2s": "segregares",
+    "3s": "segregar",
+    "1p": "segregarmos",
+    "2p": "segregardes",
+    "3p": "segregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segrega",
+    "3s": "segregue",
+    "1p": "segreguemos",
+    "2p": "segregai",
+    "3p": "segreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não segregues",
+    "3s": "não segregue",
+    "1p": "não segreguemos",
+    "2p": "não segregueis",
+    "3p": "não segreguem"
+  },
+  "Part-ter": {
+    "": "segregado"
+  },
+  "Part-ser": {
+    "ms": "segregado",
+    "fs": "segregada",
+    "mp": "segregados",
+    "fp": "segregadas"
+  }
+}

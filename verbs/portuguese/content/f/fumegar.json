@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fumegar"
+  },
+  "InfP": {
+    "1s": "fumegar",
+    "2s": "fumegares",
+    "3s": "fumegar",
+    "1p": "fumegarmos",
+    "2p": "fumegardes",
+    "3p": "fumegarem"
+  },
+  "Ger": {
+    "": "fumegando"
+  },
+  "PresI": {
+    "1s": "fumego",
+    "2s": "fumegas",
+    "3s": "fumega",
+    "1p": "fumegamos",
+    "2p": "fumegais",
+    "3p": "fumegam"
+  },
+  "PImpI": {
+    "1s": "fumegava",
+    "2s": "fumegavas",
+    "3s": "fumegava",
+    "1p": "fumegávamos",
+    "2p": "fumegáveis",
+    "3p": "fumegavam"
+  },
+  "PPSI": {
+    "1s": "fumeguei",
+    "2s": "fumegaste",
+    "3s": "fumegou",
+    "1p": "fumegámos",
+    "2p": "fumegastes",
+    "3p": "fumegaram"
+  },
+  "PMQPSI": {
+    "1s": "fumegara",
+    "2s": "fumegaras",
+    "3s": "fumegara",
+    "1p": "fumegáramos",
+    "2p": "fumegáreis",
+    "3p": "fumegaram"
+  },
+  "FutSI": {
+    "1s": "fumegarei",
+    "2s": "fumegarás",
+    "3s": "fumegará",
+    "1p": "fumegaremos",
+    "2p": "fumegareis",
+    "3p": "fumegarão"
+  },
+  "CondS": {
+    "1s": "fumegaria",
+    "2s": "fumegarias",
+    "3s": "fumegaria",
+    "1p": "fumegaríamos",
+    "2p": "fumegaríeis",
+    "3p": "fumegariam"
+  },
+  "PresC": {
+    "1s": "fumegue",
+    "2s": "fumegues",
+    "3s": "fumegue",
+    "1p": "fumeguemos",
+    "2p": "fumegueis",
+    "3p": "fumeguem"
+  },
+  "PImpC": {
+    "1s": "fumegasse",
+    "2s": "fumegasses",
+    "3s": "fumegasse",
+    "1p": "fumegássemos",
+    "2p": "fumegásseis",
+    "3p": "fumegassem"
+  },
+  "FutSC": {
+    "1s": "fumegar",
+    "2s": "fumegares",
+    "3s": "fumegar",
+    "1p": "fumegarmos",
+    "2p": "fumegardes",
+    "3p": "fumegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fumega",
+    "3s": "fumegue",
+    "1p": "fumeguemos",
+    "2p": "fumegai",
+    "3p": "fumeguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fumegues",
+    "3s": "não fumegue",
+    "1p": "não fumeguemos",
+    "2p": "não fumegueis",
+    "3p": "não fumeguem"
+  },
+  "Part-ter": {
+    "": "fumegado"
+  },
+  "Part-ser": {
+    "ms": "fumegado",
+    "fs": "fumegada",
+    "mp": "fumegados",
+    "fp": "fumegadas"
+  }
+}

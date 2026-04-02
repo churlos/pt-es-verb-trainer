@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "correrse"
+  },
+  "Ger": {
+    "": "corriéndose"
+  },
+  "PresI": {
+    "1s": "me corro",
+    "2s": "te corres",
+    "3s": "se corre",
+    "1p": "nos corremos",
+    "2p": "os corréis",
+    "3p": "se corren"
+  },
+  "PImpI": {
+    "1s": "me corría",
+    "2s": "te corrías",
+    "3s": "se corría",
+    "1p": "nos corríamos",
+    "2p": "os corríais",
+    "3p": "se corrían"
+  },
+  "PPSI": {
+    "1s": "me corrí",
+    "2s": "te corriste",
+    "3s": "se corrió",
+    "1p": "nos corrimos",
+    "2p": "os corristeis",
+    "3p": "se corrieron"
+  },
+  "FutSI": {
+    "1s": "me correré",
+    "2s": "te correrás",
+    "3s": "se correrá",
+    "1p": "nos correremos",
+    "2p": "os correréis",
+    "3p": "se correrán"
+  },
+  "CondS": {
+    "1s": "me correría",
+    "2s": "te correrías",
+    "3s": "se correría",
+    "1p": "nos correríamos",
+    "2p": "os correríais",
+    "3p": "se correrían"
+  },
+  "PresC": {
+    "1s": "me corra",
+    "2s": "te corras",
+    "3s": "se corra",
+    "1p": "nos corramos",
+    "2p": "os corráis",
+    "3p": "se corran"
+  },
+  "PMQPSI": {
+    "1s": "me corriera",
+    "2s": "te corrieras",
+    "3s": "se corriera",
+    "1p": "nos corriéramos",
+    "2p": "os corrierais",
+    "3p": "se corrieran"
+  },
+  "PImpC": {
+    "1s": "me corriese",
+    "2s": "te corrieses",
+    "3s": "se corriese",
+    "1p": "nos corriésemos",
+    "2p": "os corrieseis",
+    "3p": "se corriesen"
+  },
+  "FutSC": {
+    "1s": "me corriere",
+    "2s": "te corrieres",
+    "3s": "se corriere",
+    "1p": "nos corriéremos",
+    "2p": "os corriereis",
+    "3p": "se corrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "córrete",
+    "3s": "córrase",
+    "1p": "corrámonos",
+    "2p": "correos",
+    "3p": "córranse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te corras",
+    "3s": "no se corra",
+    "1p": "no nos corramos",
+    "2p": "no os corráis",
+    "3p": "no se corran"
+  },
+  "Part-ter": {
+    "": "corrido"
+  },
+  "Part-ser": {
+    "ms": "corrido",
+    "fs": "corrida",
+    "mp": "corridos",
+    "fp": "corridas"
+  }
+}

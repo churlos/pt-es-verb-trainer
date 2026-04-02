@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "proteger"
+  },
+  "InfP": {
+    "1s": "proteger",
+    "2s": "protegeres",
+    "3s": "proteger",
+    "1p": "protegermos",
+    "2p": "protegerdes",
+    "3p": "protegerem"
+  },
+  "Ger": {
+    "": "protegendo"
+  },
+  "PresI": {
+    "1s": "protejo",
+    "2s": "proteges",
+    "3s": "protege",
+    "1p": "protegemos",
+    "2p": "protegeis",
+    "3p": "protegem"
+  },
+  "PImpI": {
+    "1s": "protegia",
+    "2s": "protegias",
+    "3s": "protegia",
+    "1p": "protegíamos",
+    "2p": "protegíeis",
+    "3p": "protegiam"
+  },
+  "PPSI": {
+    "1s": "protegi",
+    "2s": "protegeste",
+    "3s": "protegeu",
+    "1p": "protegemos",
+    "2p": "protegestes",
+    "3p": "protegeram"
+  },
+  "PMQPSI": {
+    "1s": "protegera",
+    "2s": "protegeras",
+    "3s": "protegera",
+    "1p": "protegêramos",
+    "2p": "protegêreis",
+    "3p": "protegeram"
+  },
+  "FutSI": {
+    "1s": "protegerei",
+    "2s": "protegerás",
+    "3s": "protegerá",
+    "1p": "protegeremos",
+    "2p": "protegereis",
+    "3p": "protegerão"
+  },
+  "CondS": {
+    "1s": "protegeria",
+    "2s": "protegerias",
+    "3s": "protegeria",
+    "1p": "protegeríamos",
+    "2p": "protegeríeis",
+    "3p": "protegeriam"
+  },
+  "PresC": {
+    "1s": "proteja",
+    "2s": "protejas",
+    "3s": "proteja",
+    "1p": "protejamos",
+    "2p": "protejais",
+    "3p": "protejam"
+  },
+  "PImpC": {
+    "1s": "protegesse",
+    "2s": "protegesses",
+    "3s": "protegesse",
+    "1p": "protegêssemos",
+    "2p": "protegêsseis",
+    "3p": "protegessem"
+  },
+  "FutSC": {
+    "1s": "proteger",
+    "2s": "protegeres",
+    "3s": "proteger",
+    "1p": "protegermos",
+    "2p": "protegerdes",
+    "3p": "protegerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "protege",
+    "3s": "proteja",
+    "1p": "protejamos",
+    "2p": "protegei",
+    "3p": "protejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não protejas",
+    "3s": "não proteja",
+    "1p": "não protejamos",
+    "2p": "não protejais",
+    "3p": "não protejam"
+  },
+  "Part-ter": {
+    "": "protegido"
+  },
+  "Part-ser": {
+    "ms": "protegido",
+    "fs": "protegida",
+    "mp": "protegidos",
+    "fp": "protegidas"
+  }
+}

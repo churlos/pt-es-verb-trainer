@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "metter"
+  },
+  "InfP": {
+    "1s": "metter",
+    "2s": "metteres",
+    "3s": "metter",
+    "1p": "mettermos",
+    "2p": "metterdes",
+    "3p": "metterem"
+  },
+  "Ger": {
+    "": "mettendo"
+  },
+  "PresI": {
+    "1s": "metto",
+    "2s": "mettes",
+    "3s": "mette",
+    "1p": "mettemos",
+    "2p": "metteis",
+    "3p": "mettem"
+  },
+  "PImpI": {
+    "1s": "mettia",
+    "2s": "mettias",
+    "3s": "mettia",
+    "1p": "mettíamos",
+    "2p": "mettíeis",
+    "3p": "mettiam"
+  },
+  "PPSI": {
+    "1s": "metti",
+    "2s": "metteste",
+    "3s": "metteu",
+    "1p": "mettemos",
+    "2p": "mettestes",
+    "3p": "metteram"
+  },
+  "PMQPSI": {
+    "1s": "mettera",
+    "2s": "metteras",
+    "3s": "mettera",
+    "1p": "mettêramos",
+    "2p": "mettêreis",
+    "3p": "metteram"
+  },
+  "FutSI": {
+    "1s": "metterei",
+    "2s": "metterás",
+    "3s": "metterá",
+    "1p": "metteremos",
+    "2p": "mettereis",
+    "3p": "metterão"
+  },
+  "CondS": {
+    "1s": "metteria",
+    "2s": "metterias",
+    "3s": "metteria",
+    "1p": "metteríamos",
+    "2p": "metteríeis",
+    "3p": "metteriam"
+  },
+  "PresC": {
+    "1s": "metta",
+    "2s": "mettas",
+    "3s": "metta",
+    "1p": "mettamos",
+    "2p": "mettais",
+    "3p": "mettam"
+  },
+  "PImpC": {
+    "1s": "mettesse",
+    "2s": "mettesses",
+    "3s": "mettesse",
+    "1p": "mettêssemos",
+    "2p": "mettêsseis",
+    "3p": "mettessem"
+  },
+  "FutSC": {
+    "1s": "metter",
+    "2s": "metteres",
+    "3s": "metter",
+    "1p": "mettermos",
+    "2p": "metterdes",
+    "3p": "metterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mette",
+    "3s": "metta",
+    "1p": "mettamos",
+    "2p": "mettei",
+    "3p": "mettam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mettas",
+    "3s": "não metta",
+    "1p": "não mettamos",
+    "2p": "não mettais",
+    "3p": "não mettam"
+  },
+  "Part-ter": {
+    "": "mettido"
+  },
+  "Part-ser": {
+    "ms": "mettido",
+    "fs": "mettida",
+    "mp": "mettidos",
+    "fp": "mettidas"
+  }
+}

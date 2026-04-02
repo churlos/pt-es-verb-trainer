@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "martelar"
+  },
+  "InfP": {
+    "1s": "martelar",
+    "2s": "martelares",
+    "3s": "martelar",
+    "1p": "martelarmos",
+    "2p": "martelardes",
+    "3p": "martelarem"
+  },
+  "Ger": {
+    "": "martelando"
+  },
+  "PresI": {
+    "1s": "martelo",
+    "2s": "martelas",
+    "3s": "martela",
+    "1p": "martelamos",
+    "2p": "martelais",
+    "3p": "martelam"
+  },
+  "PImpI": {
+    "1s": "martelava",
+    "2s": "martelavas",
+    "3s": "martelava",
+    "1p": "martelávamos",
+    "2p": "marteláveis",
+    "3p": "martelavam"
+  },
+  "PPSI": {
+    "1s": "martelei",
+    "2s": "martelaste",
+    "3s": "martelou",
+    "1p": "martelámos",
+    "2p": "martelastes",
+    "3p": "martelaram"
+  },
+  "PMQPSI": {
+    "1s": "martelara",
+    "2s": "martelaras",
+    "3s": "martelara",
+    "1p": "marteláramos",
+    "2p": "marteláreis",
+    "3p": "martelaram"
+  },
+  "FutSI": {
+    "1s": "martelarei",
+    "2s": "martelarás",
+    "3s": "martelará",
+    "1p": "martelaremos",
+    "2p": "martelareis",
+    "3p": "martelarão"
+  },
+  "CondS": {
+    "1s": "martelaria",
+    "2s": "martelarias",
+    "3s": "martelaria",
+    "1p": "martelaríamos",
+    "2p": "martelaríeis",
+    "3p": "martelariam"
+  },
+  "PresC": {
+    "1s": "martele",
+    "2s": "marteles",
+    "3s": "martele",
+    "1p": "martelemos",
+    "2p": "marteleis",
+    "3p": "martelem"
+  },
+  "PImpC": {
+    "1s": "martelasse",
+    "2s": "martelasses",
+    "3s": "martelasse",
+    "1p": "martelássemos",
+    "2p": "martelásseis",
+    "3p": "martelassem"
+  },
+  "FutSC": {
+    "1s": "martelar",
+    "2s": "martelares",
+    "3s": "martelar",
+    "1p": "martelarmos",
+    "2p": "martelardes",
+    "3p": "martelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "martela",
+    "3s": "martele",
+    "1p": "martelemos",
+    "2p": "martelai",
+    "3p": "martelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não marteles",
+    "3s": "não martele",
+    "1p": "não martelemos",
+    "2p": "não marteleis",
+    "3p": "não martelem"
+  },
+  "Part-ter": {
+    "": "martelado"
+  },
+  "Part-ser": {
+    "ms": "martelado",
+    "fs": "martelada",
+    "mp": "martelados",
+    "fp": "marteladas"
+  }
+}

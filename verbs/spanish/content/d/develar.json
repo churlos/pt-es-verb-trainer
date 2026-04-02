@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "develar"
+  },
+  "Ger": {
+    "": "develando"
+  },
+  "PresI": {
+    "1s": "develo",
+    "2s": "develas",
+    "3s": "devela",
+    "1p": "develamos",
+    "2p": "develáis",
+    "3p": "develan"
+  },
+  "PImpI": {
+    "1s": "develaba",
+    "2s": "develabas",
+    "3s": "develaba",
+    "1p": "develábamos",
+    "2p": "develabais",
+    "3p": "develaban"
+  },
+  "PPSI": {
+    "1s": "develé",
+    "2s": "develaste",
+    "3s": "develó",
+    "1p": "develamos",
+    "2p": "develasteis",
+    "3p": "develaron"
+  },
+  "FutSI": {
+    "1s": "develaré",
+    "2s": "develarás",
+    "3s": "develará",
+    "1p": "develaremos",
+    "2p": "develaréis",
+    "3p": "develarán"
+  },
+  "CondS": {
+    "1s": "develaría",
+    "2s": "develarías",
+    "3s": "develaría",
+    "1p": "develaríamos",
+    "2p": "develaríais",
+    "3p": "develarían"
+  },
+  "PresC": {
+    "1s": "devele",
+    "2s": "develes",
+    "3s": "devele",
+    "1p": "develemos",
+    "2p": "develéis",
+    "3p": "develen"
+  },
+  "PMQPSI": {
+    "1s": "develara",
+    "2s": "develaras",
+    "3s": "develara",
+    "1p": "develáramos",
+    "2p": "develarais",
+    "3p": "develaran"
+  },
+  "PImpC": {
+    "1s": "develase",
+    "2s": "develases",
+    "3s": "develase",
+    "1p": "develásemos",
+    "2p": "develaseis",
+    "3p": "develasen"
+  },
+  "FutSC": {
+    "1s": "develare",
+    "2s": "develares",
+    "3s": "develare",
+    "1p": "develáremos",
+    "2p": "develareis",
+    "3p": "develaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devela",
+    "3s": "devele",
+    "1p": "develemos",
+    "2p": "develad",
+    "3p": "develen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no develes",
+    "3s": "no devele",
+    "1p": "no develemos",
+    "2p": "no develéis",
+    "3p": "no develen"
+  },
+  "Part-ter": {
+    "": "develado"
+  },
+  "Part-ser": {
+    "ms": "develado",
+    "fs": "develada",
+    "mp": "develados",
+    "fp": "develadas"
+  }
+}

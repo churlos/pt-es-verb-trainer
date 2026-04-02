@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vertebrar"
+  },
+  "Ger": {
+    "": "vertebrando"
+  },
+  "PresI": {
+    "1s": "vertebro",
+    "2s": "vertebras",
+    "3s": "vertebra",
+    "1p": "vertebramos",
+    "2p": "vertebráis",
+    "3p": "vertebran"
+  },
+  "PImpI": {
+    "1s": "vertebraba",
+    "2s": "vertebrabas",
+    "3s": "vertebraba",
+    "1p": "vertebrábamos",
+    "2p": "vertebrabais",
+    "3p": "vertebraban"
+  },
+  "PPSI": {
+    "1s": "vertebré",
+    "2s": "vertebraste",
+    "3s": "vertebró",
+    "1p": "vertebramos",
+    "2p": "vertebrasteis",
+    "3p": "vertebraron"
+  },
+  "FutSI": {
+    "1s": "vertebraré",
+    "2s": "vertebrarás",
+    "3s": "vertebrará",
+    "1p": "vertebraremos",
+    "2p": "vertebraréis",
+    "3p": "vertebrarán"
+  },
+  "CondS": {
+    "1s": "vertebraría",
+    "2s": "vertebrarías",
+    "3s": "vertebraría",
+    "1p": "vertebraríamos",
+    "2p": "vertebraríais",
+    "3p": "vertebrarían"
+  },
+  "PresC": {
+    "1s": "vertebre",
+    "2s": "vertebres",
+    "3s": "vertebre",
+    "1p": "vertebremos",
+    "2p": "vertebréis",
+    "3p": "vertebren"
+  },
+  "PMQPSI": {
+    "1s": "vertebrara",
+    "2s": "vertebraras",
+    "3s": "vertebrara",
+    "1p": "vertebráramos",
+    "2p": "vertebrarais",
+    "3p": "vertebraran"
+  },
+  "PImpC": {
+    "1s": "vertebrase",
+    "2s": "vertebrases",
+    "3s": "vertebrase",
+    "1p": "vertebrásemos",
+    "2p": "vertebraseis",
+    "3p": "vertebrasen"
+  },
+  "FutSC": {
+    "1s": "vertebrare",
+    "2s": "vertebrares",
+    "3s": "vertebrare",
+    "1p": "vertebráremos",
+    "2p": "vertebrareis",
+    "3p": "vertebraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vertebra",
+    "3s": "vertebre",
+    "1p": "vertebremos",
+    "2p": "vertebrad",
+    "3p": "vertebren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vertebres",
+    "3s": "no vertebre",
+    "1p": "no vertebremos",
+    "2p": "no vertebréis",
+    "3p": "no vertebren"
+  },
+  "Part-ter": {
+    "": "vertebrado"
+  },
+  "Part-ser": {
+    "ms": "vertebrado",
+    "fs": "vertebrada",
+    "mp": "vertebrados",
+    "fp": "vertebradas"
+  }
+}

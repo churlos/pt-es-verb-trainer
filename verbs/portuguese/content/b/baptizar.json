@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "baptizar"
+  },
+  "InfP": {
+    "1s": "baptizar",
+    "2s": "baptizares",
+    "3s": "baptizar",
+    "1p": "baptizarmos",
+    "2p": "baptizardes",
+    "3p": "baptizarem"
+  },
+  "Ger": {
+    "": "baptizando"
+  },
+  "PresI": {
+    "1s": "baptizo",
+    "2s": "baptizas",
+    "3s": "baptiza",
+    "1p": "baptizamos",
+    "2p": "baptizais",
+    "3p": "baptizam"
+  },
+  "PImpI": {
+    "1s": "baptizava",
+    "2s": "baptizavas",
+    "3s": "baptizava",
+    "1p": "baptizávamos",
+    "2p": "baptizáveis",
+    "3p": "baptizavam"
+  },
+  "PPSI": {
+    "1s": "baptizei",
+    "2s": "baptizaste",
+    "3s": "baptizou",
+    "1p": "baptizámos",
+    "2p": "baptizastes",
+    "3p": "baptizaram"
+  },
+  "PMQPSI": {
+    "1s": "baptizara",
+    "2s": "baptizaras",
+    "3s": "baptizara",
+    "1p": "baptizáramos",
+    "2p": "baptizáreis",
+    "3p": "baptizaram"
+  },
+  "FutSI": {
+    "1s": "baptizarei",
+    "2s": "baptizarás",
+    "3s": "baptizará",
+    "1p": "baptizaremos",
+    "2p": "baptizareis",
+    "3p": "baptizarão"
+  },
+  "CondS": {
+    "1s": "baptizaria",
+    "2s": "baptizarias",
+    "3s": "baptizaria",
+    "1p": "baptizaríamos",
+    "2p": "baptizaríeis",
+    "3p": "baptizariam"
+  },
+  "PresC": {
+    "1s": "baptize",
+    "2s": "baptizes",
+    "3s": "baptize",
+    "1p": "baptizemos",
+    "2p": "baptizeis",
+    "3p": "baptizem"
+  },
+  "PImpC": {
+    "1s": "baptizasse",
+    "2s": "baptizasses",
+    "3s": "baptizasse",
+    "1p": "baptizássemos",
+    "2p": "baptizásseis",
+    "3p": "baptizassem"
+  },
+  "FutSC": {
+    "1s": "baptizar",
+    "2s": "baptizares",
+    "3s": "baptizar",
+    "1p": "baptizarmos",
+    "2p": "baptizardes",
+    "3p": "baptizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baptiza",
+    "3s": "baptize",
+    "1p": "baptizemos",
+    "2p": "baptizai",
+    "3p": "baptizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não baptizes",
+    "3s": "não baptize",
+    "1p": "não baptizemos",
+    "2p": "não baptizeis",
+    "3p": "não baptizem"
+  },
+  "Part-ter": {
+    "": "baptizado"
+  },
+  "Part-ser": {
+    "ms": "baptizado",
+    "fs": "baptizada",
+    "mp": "baptizados",
+    "fp": "baptizadas"
+  }
+}

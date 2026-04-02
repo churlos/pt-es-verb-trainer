@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dissecar"
+  },
+  "InfP": {
+    "1s": "dissecar",
+    "2s": "dissecares",
+    "3s": "dissecar",
+    "1p": "dissecarmos",
+    "2p": "dissecardes",
+    "3p": "dissecarem"
+  },
+  "Ger": {
+    "": "dissecando"
+  },
+  "PresI": {
+    "1s": "disseco",
+    "2s": "dissecas",
+    "3s": "disseca",
+    "1p": "dissecamos",
+    "2p": "dissecais",
+    "3p": "dissecam"
+  },
+  "PImpI": {
+    "1s": "dissecava",
+    "2s": "dissecavas",
+    "3s": "dissecava",
+    "1p": "dissecávamos",
+    "2p": "dissecáveis",
+    "3p": "dissecavam"
+  },
+  "PPSI": {
+    "1s": "dissequei",
+    "2s": "dissecaste",
+    "3s": "dissecou",
+    "1p": "dissecámos",
+    "2p": "dissecastes",
+    "3p": "dissecaram"
+  },
+  "PMQPSI": {
+    "1s": "dissecara",
+    "2s": "dissecaras",
+    "3s": "dissecara",
+    "1p": "dissecáramos",
+    "2p": "dissecáreis",
+    "3p": "dissecaram"
+  },
+  "FutSI": {
+    "1s": "dissecarei",
+    "2s": "dissecarás",
+    "3s": "dissecará",
+    "1p": "dissecaremos",
+    "2p": "dissecareis",
+    "3p": "dissecarão"
+  },
+  "CondS": {
+    "1s": "dissecaria",
+    "2s": "dissecarias",
+    "3s": "dissecaria",
+    "1p": "dissecaríamos",
+    "2p": "dissecaríeis",
+    "3p": "dissecariam"
+  },
+  "PresC": {
+    "1s": "disseque",
+    "2s": "disseques",
+    "3s": "disseque",
+    "1p": "dissequemos",
+    "2p": "dissequeis",
+    "3p": "dissequem"
+  },
+  "PImpC": {
+    "1s": "dissecasse",
+    "2s": "dissecasses",
+    "3s": "dissecasse",
+    "1p": "dissecássemos",
+    "2p": "dissecásseis",
+    "3p": "dissecassem"
+  },
+  "FutSC": {
+    "1s": "dissecar",
+    "2s": "dissecares",
+    "3s": "dissecar",
+    "1p": "dissecarmos",
+    "2p": "dissecardes",
+    "3p": "dissecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "disseca",
+    "3s": "disseque",
+    "1p": "dissequemos",
+    "2p": "dissecai",
+    "3p": "dissequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não disseques",
+    "3s": "não disseque",
+    "1p": "não dissequemos",
+    "2p": "não dissequeis",
+    "3p": "não dissequem"
+  },
+  "Part-ter": {
+    "": "dissecado"
+  },
+  "Part-ser": {
+    "ms": "dissecado",
+    "fs": "dissecada",
+    "mp": "dissecados",
+    "fp": "dissecadas"
+  }
+}

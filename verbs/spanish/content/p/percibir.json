@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "percibir"
+  },
+  "Ger": {
+    "": "percibiendo"
+  },
+  "PresI": {
+    "1s": "percibo",
+    "2s": "percibes",
+    "3s": "percibe",
+    "1p": "percibimos",
+    "2p": "percibís",
+    "3p": "perciben"
+  },
+  "PImpI": {
+    "1s": "percibía",
+    "2s": "percibías",
+    "3s": "percibía",
+    "1p": "percibíamos",
+    "2p": "percibíais",
+    "3p": "percibían"
+  },
+  "PPSI": {
+    "1s": "percibí",
+    "2s": "percibiste",
+    "3s": "percibió",
+    "1p": "percibimos",
+    "2p": "percibisteis",
+    "3p": "percibieron"
+  },
+  "FutSI": {
+    "1s": "percibiré",
+    "2s": "percibirás",
+    "3s": "percibirá",
+    "1p": "percibiremos",
+    "2p": "percibiréis",
+    "3p": "percibirán"
+  },
+  "CondS": {
+    "1s": "percibiría",
+    "2s": "percibirías",
+    "3s": "percibiría",
+    "1p": "percibiríamos",
+    "2p": "percibiríais",
+    "3p": "percibirían"
+  },
+  "PresC": {
+    "1s": "perciba",
+    "2s": "percibas",
+    "3s": "perciba",
+    "1p": "percibamos",
+    "2p": "percibáis",
+    "3p": "perciban"
+  },
+  "PMQPSI": {
+    "1s": "percibiera",
+    "2s": "percibieras",
+    "3s": "percibiera",
+    "1p": "percibiéramos",
+    "2p": "percibierais",
+    "3p": "percibieran"
+  },
+  "PImpC": {
+    "1s": "percibiese",
+    "2s": "percibieses",
+    "3s": "percibiese",
+    "1p": "percibiésemos",
+    "2p": "percibieseis",
+    "3p": "percibiesen"
+  },
+  "FutSC": {
+    "1s": "percibiere",
+    "2s": "percibieres",
+    "3s": "percibiere",
+    "1p": "percibiéremos",
+    "2p": "percibiereis",
+    "3p": "percibieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "percibe",
+    "3s": "perciba",
+    "1p": "percibamos",
+    "2p": "percibid",
+    "3p": "perciban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no percibas",
+    "3s": "no perciba",
+    "1p": "no percibamos",
+    "2p": "no percibáis",
+    "3p": "no perciban"
+  },
+  "Part-ter": {
+    "": "percibido"
+  },
+  "Part-ser": {
+    "ms": "percibido",
+    "fs": "percibida",
+    "mp": "percibidos",
+    "fp": "percibidas"
+  }
+}

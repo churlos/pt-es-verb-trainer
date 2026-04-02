@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ponderar"
+  },
+  "InfP": {
+    "1s": "ponderar",
+    "2s": "ponderares",
+    "3s": "ponderar",
+    "1p": "ponderarmos",
+    "2p": "ponderardes",
+    "3p": "ponderarem"
+  },
+  "Ger": {
+    "": "ponderando"
+  },
+  "PresI": {
+    "1s": "pondero",
+    "2s": "ponderas",
+    "3s": "pondera",
+    "1p": "ponderamos",
+    "2p": "ponderais",
+    "3p": "ponderam"
+  },
+  "PImpI": {
+    "1s": "ponderava",
+    "2s": "ponderavas",
+    "3s": "ponderava",
+    "1p": "ponderávamos",
+    "2p": "ponderáveis",
+    "3p": "ponderavam"
+  },
+  "PPSI": {
+    "1s": "ponderei",
+    "2s": "ponderaste",
+    "3s": "ponderou",
+    "1p": "ponderámos",
+    "2p": "ponderastes",
+    "3p": "ponderaram"
+  },
+  "PMQPSI": {
+    "1s": "ponderara",
+    "2s": "ponderaras",
+    "3s": "ponderara",
+    "1p": "ponderáramos",
+    "2p": "ponderáreis",
+    "3p": "ponderaram"
+  },
+  "FutSI": {
+    "1s": "ponderarei",
+    "2s": "ponderarás",
+    "3s": "ponderará",
+    "1p": "ponderaremos",
+    "2p": "ponderareis",
+    "3p": "ponderarão"
+  },
+  "CondS": {
+    "1s": "ponderaria",
+    "2s": "ponderarias",
+    "3s": "ponderaria",
+    "1p": "ponderaríamos",
+    "2p": "ponderaríeis",
+    "3p": "ponderariam"
+  },
+  "PresC": {
+    "1s": "pondere",
+    "2s": "ponderes",
+    "3s": "pondere",
+    "1p": "ponderemos",
+    "2p": "pondereis",
+    "3p": "ponderem"
+  },
+  "PImpC": {
+    "1s": "ponderasse",
+    "2s": "ponderasses",
+    "3s": "ponderasse",
+    "1p": "ponderássemos",
+    "2p": "ponderásseis",
+    "3p": "ponderassem"
+  },
+  "FutSC": {
+    "1s": "ponderar",
+    "2s": "ponderares",
+    "3s": "ponderar",
+    "1p": "ponderarmos",
+    "2p": "ponderardes",
+    "3p": "ponderarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pondera",
+    "3s": "pondere",
+    "1p": "ponderemos",
+    "2p": "ponderai",
+    "3p": "ponderem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ponderes",
+    "3s": "não pondere",
+    "1p": "não ponderemos",
+    "2p": "não pondereis",
+    "3p": "não ponderem"
+  },
+  "Part-ter": {
+    "": "ponderado"
+  },
+  "Part-ser": {
+    "ms": "ponderado",
+    "fs": "ponderada",
+    "mp": "ponderados",
+    "fp": "ponderadas"
+  }
+}

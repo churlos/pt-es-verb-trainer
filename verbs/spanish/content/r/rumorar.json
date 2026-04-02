@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rumorar"
+  },
+  "Ger": {
+    "": "rumorando"
+  },
+  "PresI": {
+    "1s": "rumoro",
+    "2s": "rumoras",
+    "3s": "rumora",
+    "1p": "rumoramos",
+    "2p": "rumoráis",
+    "3p": "rumoran"
+  },
+  "PImpI": {
+    "1s": "rumoraba",
+    "2s": "rumorabas",
+    "3s": "rumoraba",
+    "1p": "rumorábamos",
+    "2p": "rumorabais",
+    "3p": "rumoraban"
+  },
+  "PPSI": {
+    "1s": "rumoré",
+    "2s": "rumoraste",
+    "3s": "rumoró",
+    "1p": "rumoramos",
+    "2p": "rumorasteis",
+    "3p": "rumoraron"
+  },
+  "FutSI": {
+    "1s": "rumoraré",
+    "2s": "rumorarás",
+    "3s": "rumorará",
+    "1p": "rumoraremos",
+    "2p": "rumoraréis",
+    "3p": "rumorarán"
+  },
+  "CondS": {
+    "1s": "rumoraría",
+    "2s": "rumorarías",
+    "3s": "rumoraría",
+    "1p": "rumoraríamos",
+    "2p": "rumoraríais",
+    "3p": "rumorarían"
+  },
+  "PresC": {
+    "1s": "rumore",
+    "2s": "rumores",
+    "3s": "rumore",
+    "1p": "rumoremos",
+    "2p": "rumoréis",
+    "3p": "rumoren"
+  },
+  "PMQPSI": {
+    "1s": "rumorara",
+    "2s": "rumoraras",
+    "3s": "rumorara",
+    "1p": "rumoráramos",
+    "2p": "rumorarais",
+    "3p": "rumoraran"
+  },
+  "PImpC": {
+    "1s": "rumorase",
+    "2s": "rumorases",
+    "3s": "rumorase",
+    "1p": "rumorásemos",
+    "2p": "rumoraseis",
+    "3p": "rumorasen"
+  },
+  "FutSC": {
+    "1s": "rumorare",
+    "2s": "rumorares",
+    "3s": "rumorare",
+    "1p": "rumoráremos",
+    "2p": "rumorareis",
+    "3p": "rumoraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rumora",
+    "3s": "rumore",
+    "1p": "rumoremos",
+    "2p": "rumorad",
+    "3p": "rumoren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rumores",
+    "3s": "no rumore",
+    "1p": "no rumoremos",
+    "2p": "no rumoréis",
+    "3p": "no rumoren"
+  },
+  "Part-ter": {
+    "": "rumorado"
+  },
+  "Part-ser": {
+    "ms": "rumorado",
+    "fs": "rumorada",
+    "mp": "rumorados",
+    "fp": "rumoradas"
+  }
+}

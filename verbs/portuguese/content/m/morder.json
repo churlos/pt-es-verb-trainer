@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "morder"
+  },
+  "InfP": {
+    "1s": "morder",
+    "2s": "morderes",
+    "3s": "morder",
+    "1p": "mordermos",
+    "2p": "morderdes",
+    "3p": "morderem"
+  },
+  "Ger": {
+    "": "mordendo"
+  },
+  "PresI": {
+    "1s": "mordo",
+    "2s": "mordes",
+    "3s": "morde",
+    "1p": "mordemos",
+    "2p": "mordeis",
+    "3p": "mordem"
+  },
+  "PImpI": {
+    "1s": "mordia",
+    "2s": "mordias",
+    "3s": "mordia",
+    "1p": "mordíamos",
+    "2p": "mordíeis",
+    "3p": "mordiam"
+  },
+  "PPSI": {
+    "1s": "mordi",
+    "2s": "mordeste",
+    "3s": "mordeu",
+    "1p": "mordemos",
+    "2p": "mordestes",
+    "3p": "morderam"
+  },
+  "PMQPSI": {
+    "1s": "mordera",
+    "2s": "morderas",
+    "3s": "mordera",
+    "1p": "mordêramos",
+    "2p": "mordêreis",
+    "3p": "morderam"
+  },
+  "FutSI": {
+    "1s": "morderei",
+    "2s": "morderás",
+    "3s": "morderá",
+    "1p": "morderemos",
+    "2p": "mordereis",
+    "3p": "morderão"
+  },
+  "CondS": {
+    "1s": "morderia",
+    "2s": "morderias",
+    "3s": "morderia",
+    "1p": "morderíamos",
+    "2p": "morderíeis",
+    "3p": "morderiam"
+  },
+  "PresC": {
+    "1s": "morda",
+    "2s": "mordas",
+    "3s": "morda",
+    "1p": "mordamos",
+    "2p": "mordais",
+    "3p": "mordam"
+  },
+  "PImpC": {
+    "1s": "mordesse",
+    "2s": "mordesses",
+    "3s": "mordesse",
+    "1p": "mordêssemos",
+    "2p": "mordêsseis",
+    "3p": "mordessem"
+  },
+  "FutSC": {
+    "1s": "morder",
+    "2s": "morderes",
+    "3s": "morder",
+    "1p": "mordermos",
+    "2p": "morderdes",
+    "3p": "morderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "morde",
+    "3s": "morda",
+    "1p": "mordamos",
+    "2p": "mordei",
+    "3p": "mordam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mordas",
+    "3s": "não morda",
+    "1p": "não mordamos",
+    "2p": "não mordais",
+    "3p": "não mordam"
+  },
+  "Part-ter": {
+    "": "mordido"
+  },
+  "Part-ser": {
+    "ms": "mordido",
+    "fs": "mordida",
+    "mp": "mordidos",
+    "fp": "mordidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "participar"
+  },
+  "InfP": {
+    "1s": "participar",
+    "2s": "participares",
+    "3s": "participar",
+    "1p": "participarmos",
+    "2p": "participardes",
+    "3p": "participarem"
+  },
+  "Ger": {
+    "": "participando"
+  },
+  "PresI": {
+    "1s": "participo",
+    "2s": "participas",
+    "3s": "participa",
+    "1p": "participamos",
+    "2p": "participais",
+    "3p": "participam"
+  },
+  "PImpI": {
+    "1s": "participava",
+    "2s": "participavas",
+    "3s": "participava",
+    "1p": "participávamos",
+    "2p": "participáveis",
+    "3p": "participavam"
+  },
+  "PPSI": {
+    "1s": "participei",
+    "2s": "participaste",
+    "3s": "participou",
+    "1p": "participámos",
+    "2p": "participastes",
+    "3p": "participaram"
+  },
+  "PMQPSI": {
+    "1s": "participara",
+    "2s": "participaras",
+    "3s": "participara",
+    "1p": "participáramos",
+    "2p": "participáreis",
+    "3p": "participaram"
+  },
+  "FutSI": {
+    "1s": "participarei",
+    "2s": "participarás",
+    "3s": "participará",
+    "1p": "participaremos",
+    "2p": "participareis",
+    "3p": "participarão"
+  },
+  "CondS": {
+    "1s": "participaria",
+    "2s": "participarias",
+    "3s": "participaria",
+    "1p": "participaríamos",
+    "2p": "participaríeis",
+    "3p": "participariam"
+  },
+  "PresC": {
+    "1s": "participe",
+    "2s": "participes",
+    "3s": "participe",
+    "1p": "participemos",
+    "2p": "participeis",
+    "3p": "participem"
+  },
+  "PImpC": {
+    "1s": "participasse",
+    "2s": "participasses",
+    "3s": "participasse",
+    "1p": "participássemos",
+    "2p": "participásseis",
+    "3p": "participassem"
+  },
+  "FutSC": {
+    "1s": "participar",
+    "2s": "participares",
+    "3s": "participar",
+    "1p": "participarmos",
+    "2p": "participardes",
+    "3p": "participarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "participa",
+    "3s": "participe",
+    "1p": "participemos",
+    "2p": "participai",
+    "3p": "participem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não participes",
+    "3s": "não participe",
+    "1p": "não participemos",
+    "2p": "não participeis",
+    "3p": "não participem"
+  },
+  "Part-ter": {
+    "": "participado"
+  },
+  "Part-ser": {
+    "ms": "participado",
+    "fs": "participada",
+    "mp": "participados",
+    "fp": "participadas"
+  }
+}

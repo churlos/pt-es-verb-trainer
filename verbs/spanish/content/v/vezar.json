@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vezar"
+  },
+  "Ger": {
+    "": "vezando"
+  },
+  "PresI": {
+    "1s": "vezo",
+    "2s": "vezas",
+    "3s": "veza",
+    "1p": "vezamos",
+    "2p": "vezáis",
+    "3p": "vezan"
+  },
+  "PImpI": {
+    "1s": "vezaba",
+    "2s": "vezabas",
+    "3s": "vezaba",
+    "1p": "vezábamos",
+    "2p": "vezabais",
+    "3p": "vezaban"
+  },
+  "PPSI": {
+    "1s": "vecé",
+    "2s": "vezaste",
+    "3s": "vezó",
+    "1p": "vezamos",
+    "2p": "vezasteis",
+    "3p": "vezaron"
+  },
+  "FutSI": {
+    "1s": "vezaré",
+    "2s": "vezarás",
+    "3s": "vezará",
+    "1p": "vezaremos",
+    "2p": "vezaréis",
+    "3p": "vezarán"
+  },
+  "CondS": {
+    "1s": "vezaría",
+    "2s": "vezarías",
+    "3s": "vezaría",
+    "1p": "vezaríamos",
+    "2p": "vezaríais",
+    "3p": "vezarían"
+  },
+  "PresC": {
+    "1s": "vece",
+    "2s": "veces",
+    "3s": "vece",
+    "1p": "vecemos",
+    "2p": "vecéis",
+    "3p": "vecen"
+  },
+  "PMQPSI": {
+    "1s": "vezara",
+    "2s": "vezaras",
+    "3s": "vezara",
+    "1p": "vezáramos",
+    "2p": "vezarais",
+    "3p": "vezaran"
+  },
+  "PImpC": {
+    "1s": "vezase",
+    "2s": "vezases",
+    "3s": "vezase",
+    "1p": "vezásemos",
+    "2p": "vezaseis",
+    "3p": "vezasen"
+  },
+  "FutSC": {
+    "1s": "vezare",
+    "2s": "vezares",
+    "3s": "vezare",
+    "1p": "vezáremos",
+    "2p": "vezareis",
+    "3p": "vezaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "veza",
+    "3s": "vece",
+    "1p": "vecemos",
+    "2p": "vezad",
+    "3p": "vecen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no veces",
+    "3s": "no vece",
+    "1p": "no vecemos",
+    "2p": "no vecéis",
+    "3p": "no vecen"
+  },
+  "Part-ter": {
+    "": "vezado"
+  },
+  "Part-ser": {
+    "ms": "vezado",
+    "fs": "vezada",
+    "mp": "vezados",
+    "fp": "vezadas"
+  }
+}

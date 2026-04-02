@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tener"
+  },
+  "Ger": {
+    "": "teniendo"
+  },
+  "PresI": {
+    "1s": "tengo",
+    "2s": "tienes",
+    "3s": "tiene",
+    "1p": "tenemos",
+    "2p": "tenéis",
+    "3p": "tienen"
+  },
+  "PImpI": {
+    "1s": "tenía",
+    "2s": "tenías",
+    "3s": "tenía",
+    "1p": "teníamos",
+    "2p": "teníais",
+    "3p": "tenían"
+  },
+  "PPSI": {
+    "1s": "tuve",
+    "2s": "tuviste",
+    "3s": "tuvo",
+    "1p": "tuvimos",
+    "2p": "tuvisteis",
+    "3p": "tuvieron"
+  },
+  "FutSI": {
+    "1s": "tendré",
+    "2s": "tendrás",
+    "3s": "tendrá",
+    "1p": "tendremos",
+    "2p": "tendréis",
+    "3p": "tendrán"
+  },
+  "CondS": {
+    "1s": "tendría",
+    "2s": "tendrías",
+    "3s": "tendría",
+    "1p": "tendríamos",
+    "2p": "tendríais",
+    "3p": "tendrían"
+  },
+  "PresC": {
+    "1s": "tenga",
+    "2s": "tengas",
+    "3s": "tenga",
+    "1p": "tengamos",
+    "2p": "tengáis",
+    "3p": "tengan"
+  },
+  "PMQPSI": {
+    "1s": "tuviera",
+    "2s": "tuvieras",
+    "3s": "tuviera",
+    "1p": "tuviéramos",
+    "2p": "tuvierais",
+    "3p": "tuvieran"
+  },
+  "PImpC": {
+    "1s": "tuviese",
+    "2s": "tuvieses",
+    "3s": "tuviese",
+    "1p": "tuviésemos",
+    "2p": "tuvieseis",
+    "3p": "tuviesen"
+  },
+  "FutSC": {
+    "1s": "tuviere",
+    "2s": "tuvieres",
+    "3s": "tuviere",
+    "1p": "tuviéremos",
+    "2p": "tuviereis",
+    "3p": "tuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ten",
+    "3s": "tenga",
+    "1p": "tengamos",
+    "2p": "tened",
+    "3p": "tengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tengas",
+    "3s": "no tenga",
+    "1p": "no tengamos",
+    "2p": "no tengáis",
+    "3p": "no tengan"
+  },
+  "Part-ter": {
+    "": "tenido"
+  },
+  "Part-ser": {
+    "ms": "tenido",
+    "fs": "tenida",
+    "mp": "tenidos",
+    "fp": "tenidas"
+  }
+}

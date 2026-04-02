@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conter"
+  },
+  "InfP": {
+    "1s": "conter",
+    "2s": "conteres",
+    "3s": "conter",
+    "1p": "contermos",
+    "2p": "conterdes",
+    "3p": "conterem"
+  },
+  "Ger": {
+    "": "contendo"
+  },
+  "PresI": {
+    "1s": "contenho",
+    "2s": "conténs",
+    "3s": "contém",
+    "1p": "contemos",
+    "2p": "contendes",
+    "3p": "contêm"
+  },
+  "PImpI": {
+    "1s": "continha",
+    "2s": "continhas",
+    "3s": "continha",
+    "1p": "contínhamos",
+    "2p": "contínheis",
+    "3p": "continham"
+  },
+  "PPSI": {
+    "1s": "contive",
+    "2s": "contiveste",
+    "3s": "conteve",
+    "1p": "contivemos",
+    "2p": "contivestes",
+    "3p": "contiveram"
+  },
+  "PMQPSI": {
+    "1s": "contivera",
+    "2s": "contiveras",
+    "3s": "contivera",
+    "1p": "contivéramos",
+    "2p": "contivéreis",
+    "3p": "contiveram"
+  },
+  "FutSI": {
+    "1s": "conterei",
+    "2s": "conterás",
+    "3s": "conterá",
+    "1p": "conteremos",
+    "2p": "contereis",
+    "3p": "conterão"
+  },
+  "CondS": {
+    "1s": "conteria",
+    "2s": "conterias",
+    "3s": "conteria",
+    "1p": "conteríamos",
+    "2p": "conteríeis",
+    "3p": "conteriam"
+  },
+  "PresC": {
+    "1s": "contenha",
+    "2s": "contenhas",
+    "3s": "contenha",
+    "1p": "contenhamos",
+    "2p": "contenhais",
+    "3p": "contenham"
+  },
+  "PImpC": {
+    "1s": "contivesse",
+    "2s": "contivesses",
+    "3s": "contivesse",
+    "1p": "contivéssemos",
+    "2p": "contivésseis",
+    "3p": "contivessem"
+  },
+  "FutSC": {
+    "1s": "contiver",
+    "2s": "contiveres",
+    "3s": "contiver",
+    "1p": "contivermos",
+    "2p": "contiverdes",
+    "3p": "contiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contém",
+    "3s": "contenha",
+    "1p": "contenhamos",
+    "2p": "contende",
+    "3p": "contenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contenhas",
+    "3s": "não contenha",
+    "1p": "não contenhamos",
+    "2p": "não contenhais",
+    "3p": "não contenham"
+  },
+  "Part-ter": {
+    "": "contido"
+  },
+  "Part-ser": {
+    "ms": "contido",
+    "fs": "contida",
+    "mp": "contidos",
+    "fp": "contidas"
+  }
+}

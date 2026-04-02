@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trabalhar"
+  },
+  "InfP": {
+    "1s": "trabalhar",
+    "2s": "trabalhares",
+    "3s": "trabalhar",
+    "1p": "trabalharmos",
+    "2p": "trabalhardes",
+    "3p": "trabalharem"
+  },
+  "Ger": {
+    "": "trabalhando"
+  },
+  "PresI": {
+    "1s": "trabalho",
+    "2s": "trabalhas",
+    "3s": "trabalha",
+    "1p": "trabalhamos",
+    "2p": "trabalhais",
+    "3p": "trabalham"
+  },
+  "PImpI": {
+    "1s": "trabalhava",
+    "2s": "trabalhavas",
+    "3s": "trabalhava",
+    "1p": "trabalhávamos",
+    "2p": "trabalháveis",
+    "3p": "trabalhavam"
+  },
+  "PPSI": {
+    "1s": "trabalhei",
+    "2s": "trabalhaste",
+    "3s": "trabalhou",
+    "1p": "trabalhámos",
+    "2p": "trabalhastes",
+    "3p": "trabalharam"
+  },
+  "PMQPSI": {
+    "1s": "trabalhara",
+    "2s": "trabalharas",
+    "3s": "trabalhara",
+    "1p": "trabalháramos",
+    "2p": "trabalháreis",
+    "3p": "trabalharam"
+  },
+  "FutSI": {
+    "1s": "trabalharei",
+    "2s": "trabalharás",
+    "3s": "trabalhará",
+    "1p": "trabalharemos",
+    "2p": "trabalhareis",
+    "3p": "trabalharão"
+  },
+  "CondS": {
+    "1s": "trabalharia",
+    "2s": "trabalharias",
+    "3s": "trabalharia",
+    "1p": "trabalharíamos",
+    "2p": "trabalharíeis",
+    "3p": "trabalhariam"
+  },
+  "PresC": {
+    "1s": "trabalhe",
+    "2s": "trabalhes",
+    "3s": "trabalhe",
+    "1p": "trabalhemos",
+    "2p": "trabalheis",
+    "3p": "trabalhem"
+  },
+  "PImpC": {
+    "1s": "trabalhasse",
+    "2s": "trabalhasses",
+    "3s": "trabalhasse",
+    "1p": "trabalhássemos",
+    "2p": "trabalhásseis",
+    "3p": "trabalhassem"
+  },
+  "FutSC": {
+    "1s": "trabalhar",
+    "2s": "trabalhares",
+    "3s": "trabalhar",
+    "1p": "trabalharmos",
+    "2p": "trabalhardes",
+    "3p": "trabalharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trabalha",
+    "3s": "trabalhe",
+    "1p": "trabalhemos",
+    "2p": "trabalhai",
+    "3p": "trabalhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não trabalhes",
+    "3s": "não trabalhe",
+    "1p": "não trabalhemos",
+    "2p": "não trabalheis",
+    "3p": "não trabalhem"
+  },
+  "Part-ter": {
+    "": "trabalhado"
+  },
+  "Part-ser": {
+    "ms": "trabalhado",
+    "fs": "trabalhada",
+    "mp": "trabalhados",
+    "fp": "trabalhadas"
+  }
+}

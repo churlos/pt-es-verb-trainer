@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sedar"
+  },
+  "Ger": {
+    "": "sedando"
+  },
+  "PresI": {
+    "1s": "sedo",
+    "2s": "sedas",
+    "3s": "seda",
+    "1p": "sedamos",
+    "2p": "sedáis",
+    "3p": "sedan"
+  },
+  "PImpI": {
+    "1s": "sedaba",
+    "2s": "sedabas",
+    "3s": "sedaba",
+    "1p": "sedábamos",
+    "2p": "sedabais",
+    "3p": "sedaban"
+  },
+  "PPSI": {
+    "1s": "sedé",
+    "2s": "sedaste",
+    "3s": "sedó",
+    "1p": "sedamos",
+    "2p": "sedasteis",
+    "3p": "sedaron"
+  },
+  "FutSI": {
+    "1s": "sedaré",
+    "2s": "sedarás",
+    "3s": "sedará",
+    "1p": "sedaremos",
+    "2p": "sedaréis",
+    "3p": "sedarán"
+  },
+  "CondS": {
+    "1s": "sedaría",
+    "2s": "sedarías",
+    "3s": "sedaría",
+    "1p": "sedaríamos",
+    "2p": "sedaríais",
+    "3p": "sedarían"
+  },
+  "PresC": {
+    "1s": "sede",
+    "2s": "sedes",
+    "3s": "sede",
+    "1p": "sedemos",
+    "2p": "sedéis",
+    "3p": "seden"
+  },
+  "PMQPSI": {
+    "1s": "sedara",
+    "2s": "sedaras",
+    "3s": "sedara",
+    "1p": "sedáramos",
+    "2p": "sedarais",
+    "3p": "sedaran"
+  },
+  "PImpC": {
+    "1s": "sedase",
+    "2s": "sedases",
+    "3s": "sedase",
+    "1p": "sedásemos",
+    "2p": "sedaseis",
+    "3p": "sedasen"
+  },
+  "FutSC": {
+    "1s": "sedare",
+    "2s": "sedares",
+    "3s": "sedare",
+    "1p": "sedáremos",
+    "2p": "sedareis",
+    "3p": "sedaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "seda",
+    "3s": "sede",
+    "1p": "sedemos",
+    "2p": "sedad",
+    "3p": "seden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sedes",
+    "3s": "no sede",
+    "1p": "no sedemos",
+    "2p": "no sedéis",
+    "3p": "no seden"
+  },
+  "Part-ter": {
+    "": "sedado"
+  },
+  "Part-ser": {
+    "ms": "sedado",
+    "fs": "sedada",
+    "mp": "sedados",
+    "fp": "sedadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reconhecer"
+  },
+  "InfP": {
+    "1s": "reconhecer",
+    "2s": "reconheceres",
+    "3s": "reconhecer",
+    "1p": "reconhecermos",
+    "2p": "reconhecerdes",
+    "3p": "reconhecerem"
+  },
+  "Ger": {
+    "": "reconhecendo"
+  },
+  "PresI": {
+    "1s": "reconheço",
+    "2s": "reconheces",
+    "3s": "reconhece",
+    "1p": "reconhecemos",
+    "2p": "reconheceis",
+    "3p": "reconhecem"
+  },
+  "PImpI": {
+    "1s": "reconhecia",
+    "2s": "reconhecias",
+    "3s": "reconhecia",
+    "1p": "reconhecíamos",
+    "2p": "reconhecíeis",
+    "3p": "reconheciam"
+  },
+  "PPSI": {
+    "1s": "reconheci",
+    "2s": "reconheceste",
+    "3s": "reconheceu",
+    "1p": "reconhecemos",
+    "2p": "reconhecestes",
+    "3p": "reconheceram"
+  },
+  "PMQPSI": {
+    "1s": "reconhecera",
+    "2s": "reconheceras",
+    "3s": "reconhecera",
+    "1p": "reconhecêramos",
+    "2p": "reconhecêreis",
+    "3p": "reconheceram"
+  },
+  "FutSI": {
+    "1s": "reconhecerei",
+    "2s": "reconhecerás",
+    "3s": "reconhecerá",
+    "1p": "reconheceremos",
+    "2p": "reconhecereis",
+    "3p": "reconhecerão"
+  },
+  "CondS": {
+    "1s": "reconheceria",
+    "2s": "reconhecerias",
+    "3s": "reconheceria",
+    "1p": "reconheceríamos",
+    "2p": "reconheceríeis",
+    "3p": "reconheceriam"
+  },
+  "PresC": {
+    "1s": "reconheça",
+    "2s": "reconheças",
+    "3s": "reconheça",
+    "1p": "reconheçamos",
+    "2p": "reconheçais",
+    "3p": "reconheçam"
+  },
+  "PImpC": {
+    "1s": "reconhecesse",
+    "2s": "reconhecesses",
+    "3s": "reconhecesse",
+    "1p": "reconhecêssemos",
+    "2p": "reconhecêsseis",
+    "3p": "reconhecessem"
+  },
+  "FutSC": {
+    "1s": "reconhecer",
+    "2s": "reconheceres",
+    "3s": "reconhecer",
+    "1p": "reconhecermos",
+    "2p": "reconhecerdes",
+    "3p": "reconhecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reconhece",
+    "3s": "reconheça",
+    "1p": "reconheçamos",
+    "2p": "reconhecei",
+    "3p": "reconheçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reconheças",
+    "3s": "não reconheça",
+    "1p": "não reconheçamos",
+    "2p": "não reconheçais",
+    "3p": "não reconheçam"
+  },
+  "Part-ter": {
+    "": "reconhecido"
+  },
+  "Part-ser": {
+    "ms": "reconhecido",
+    "fs": "reconhecida",
+    "mp": "reconhecidos",
+    "fp": "reconhecidas"
+  }
+}

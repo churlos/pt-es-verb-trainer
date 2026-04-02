@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "destinar"
+  },
+  "InfP": {
+    "1s": "destinar",
+    "2s": "destinares",
+    "3s": "destinar",
+    "1p": "destinarmos",
+    "2p": "destinardes",
+    "3p": "destinarem"
+  },
+  "Ger": {
+    "": "destinando"
+  },
+  "PresI": {
+    "1s": "destino",
+    "2s": "destinas",
+    "3s": "destina",
+    "1p": "destinamos",
+    "2p": "destinais",
+    "3p": "destinam"
+  },
+  "PImpI": {
+    "1s": "destinava",
+    "2s": "destinavas",
+    "3s": "destinava",
+    "1p": "destinávamos",
+    "2p": "destináveis",
+    "3p": "destinavam"
+  },
+  "PPSI": {
+    "1s": "destinei",
+    "2s": "destinaste",
+    "3s": "destinou",
+    "1p": "destinámos",
+    "2p": "destinastes",
+    "3p": "destinaram"
+  },
+  "PMQPSI": {
+    "1s": "destinara",
+    "2s": "destinaras",
+    "3s": "destinara",
+    "1p": "destináramos",
+    "2p": "destináreis",
+    "3p": "destinaram"
+  },
+  "FutSI": {
+    "1s": "destinarei",
+    "2s": "destinarás",
+    "3s": "destinará",
+    "1p": "destinaremos",
+    "2p": "destinareis",
+    "3p": "destinarão"
+  },
+  "CondS": {
+    "1s": "destinaria",
+    "2s": "destinarias",
+    "3s": "destinaria",
+    "1p": "destinaríamos",
+    "2p": "destinaríeis",
+    "3p": "destinariam"
+  },
+  "PresC": {
+    "1s": "destine",
+    "2s": "destines",
+    "3s": "destine",
+    "1p": "destinemos",
+    "2p": "destineis",
+    "3p": "destinem"
+  },
+  "PImpC": {
+    "1s": "destinasse",
+    "2s": "destinasses",
+    "3s": "destinasse",
+    "1p": "destinássemos",
+    "2p": "destinásseis",
+    "3p": "destinassem"
+  },
+  "FutSC": {
+    "1s": "destinar",
+    "2s": "destinares",
+    "3s": "destinar",
+    "1p": "destinarmos",
+    "2p": "destinardes",
+    "3p": "destinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destina",
+    "3s": "destine",
+    "1p": "destinemos",
+    "2p": "destinai",
+    "3p": "destinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não destines",
+    "3s": "não destine",
+    "1p": "não destinemos",
+    "2p": "não destineis",
+    "3p": "não destinem"
+  },
+  "Part-ter": {
+    "": "destinado"
+  },
+  "Part-ser": {
+    "ms": "destinado",
+    "fs": "destinada",
+    "mp": "destinados",
+    "fp": "destinadas"
+  }
+}

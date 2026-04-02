@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dormitar"
+  },
+  "InfP": {
+    "1s": "dormitar",
+    "2s": "dormitares",
+    "3s": "dormitar",
+    "1p": "dormitarmos",
+    "2p": "dormitardes",
+    "3p": "dormitarem"
+  },
+  "Ger": {
+    "": "dormitando"
+  },
+  "PresI": {
+    "1s": "dormito",
+    "2s": "dormitas",
+    "3s": "dormita",
+    "1p": "dormitamos",
+    "2p": "dormitais",
+    "3p": "dormitam"
+  },
+  "PImpI": {
+    "1s": "dormitava",
+    "2s": "dormitavas",
+    "3s": "dormitava",
+    "1p": "dormitávamos",
+    "2p": "dormitáveis",
+    "3p": "dormitavam"
+  },
+  "PPSI": {
+    "1s": "dormitei",
+    "2s": "dormitaste",
+    "3s": "dormitou",
+    "1p": "dormitámos",
+    "2p": "dormitastes",
+    "3p": "dormitaram"
+  },
+  "PMQPSI": {
+    "1s": "dormitara",
+    "2s": "dormitaras",
+    "3s": "dormitara",
+    "1p": "dormitáramos",
+    "2p": "dormitáreis",
+    "3p": "dormitaram"
+  },
+  "FutSI": {
+    "1s": "dormitarei",
+    "2s": "dormitarás",
+    "3s": "dormitará",
+    "1p": "dormitaremos",
+    "2p": "dormitareis",
+    "3p": "dormitarão"
+  },
+  "CondS": {
+    "1s": "dormitaria",
+    "2s": "dormitarias",
+    "3s": "dormitaria",
+    "1p": "dormitaríamos",
+    "2p": "dormitaríeis",
+    "3p": "dormitariam"
+  },
+  "PresC": {
+    "1s": "dormite",
+    "2s": "dormites",
+    "3s": "dormite",
+    "1p": "dormitemos",
+    "2p": "dormiteis",
+    "3p": "dormitem"
+  },
+  "PImpC": {
+    "1s": "dormitasse",
+    "2s": "dormitasses",
+    "3s": "dormitasse",
+    "1p": "dormitássemos",
+    "2p": "dormitásseis",
+    "3p": "dormitassem"
+  },
+  "FutSC": {
+    "1s": "dormitar",
+    "2s": "dormitares",
+    "3s": "dormitar",
+    "1p": "dormitarmos",
+    "2p": "dormitardes",
+    "3p": "dormitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dormita",
+    "3s": "dormite",
+    "1p": "dormitemos",
+    "2p": "dormitai",
+    "3p": "dormitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dormites",
+    "3s": "não dormite",
+    "1p": "não dormitemos",
+    "2p": "não dormiteis",
+    "3p": "não dormitem"
+  },
+  "Part-ter": {
+    "": "dormitado"
+  },
+  "Part-ser": {
+    "ms": "dormitado",
+    "fs": "dormitada",
+    "mp": "dormitados",
+    "fp": "dormitadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abortar"
+  },
+  "Ger": {
+    "": "abortando"
+  },
+  "PresI": {
+    "1s": "aborto",
+    "2s": "abortas",
+    "3s": "aborta",
+    "1p": "abortamos",
+    "2p": "abortáis",
+    "3p": "abortan"
+  },
+  "PImpI": {
+    "1s": "abortaba",
+    "2s": "abortabas",
+    "3s": "abortaba",
+    "1p": "abortábamos",
+    "2p": "abortabais",
+    "3p": "abortaban"
+  },
+  "PPSI": {
+    "1s": "aborté",
+    "2s": "abortaste",
+    "3s": "abortó",
+    "1p": "abortamos",
+    "2p": "abortasteis",
+    "3p": "abortaron"
+  },
+  "FutSI": {
+    "1s": "abortaré",
+    "2s": "abortarás",
+    "3s": "abortará",
+    "1p": "abortaremos",
+    "2p": "abortaréis",
+    "3p": "abortarán"
+  },
+  "CondS": {
+    "1s": "abortaría",
+    "2s": "abortarías",
+    "3s": "abortaría",
+    "1p": "abortaríamos",
+    "2p": "abortaríais",
+    "3p": "abortarían"
+  },
+  "PresC": {
+    "1s": "aborte",
+    "2s": "abortes",
+    "3s": "aborte",
+    "1p": "abortemos",
+    "2p": "abortéis",
+    "3p": "aborten"
+  },
+  "PMQPSI": {
+    "1s": "abortara",
+    "2s": "abortaras",
+    "3s": "abortara",
+    "1p": "abortáramos",
+    "2p": "abortarais",
+    "3p": "abortaran"
+  },
+  "PImpC": {
+    "1s": "abortase",
+    "2s": "abortases",
+    "3s": "abortase",
+    "1p": "abortásemos",
+    "2p": "abortaseis",
+    "3p": "abortasen"
+  },
+  "FutSC": {
+    "1s": "abortare",
+    "2s": "abortares",
+    "3s": "abortare",
+    "1p": "abortáremos",
+    "2p": "abortareis",
+    "3p": "abortaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aborta",
+    "3s": "aborte",
+    "1p": "abortemos",
+    "2p": "abortad",
+    "3p": "aborten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abortes",
+    "3s": "no aborte",
+    "1p": "no abortemos",
+    "2p": "no abortéis",
+    "3p": "no aborten"
+  },
+  "Part-ter": {
+    "": "abortado"
+  },
+  "Part-ser": {
+    "ms": "abortado",
+    "fs": "abortada",
+    "mp": "abortados",
+    "fp": "abortadas"
+  }
+}

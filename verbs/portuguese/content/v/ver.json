@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ver"
+  },
+  "InfP": {
+    "1s": "ver",
+    "2s": "veres",
+    "3s": "ver",
+    "1p": "vermos",
+    "2p": "verdes",
+    "3p": "verem"
+  },
+  "Ger": {
+    "": "vendo"
+  },
+  "PresI": {
+    "1s": "vejo",
+    "2s": "vês",
+    "3s": "vê",
+    "1p": "vemos",
+    "2p": "vedes",
+    "3p": "veemObsolete:vêem"
+  },
+  "PImpI": {
+    "1s": "via",
+    "2s": "vias",
+    "3s": "via",
+    "1p": "víamos",
+    "2p": "víeis",
+    "3p": "viam"
+  },
+  "PPSI": {
+    "1s": "vi",
+    "2s": "viste",
+    "3s": "viu",
+    "1p": "vimos",
+    "2p": "vistes",
+    "3p": "viram"
+  },
+  "PMQPSI": {
+    "1s": "vira",
+    "2s": "viras",
+    "3s": "vira",
+    "1p": "víramos",
+    "2p": "víreis",
+    "3p": "viram"
+  },
+  "FutSI": {
+    "1s": "verei",
+    "2s": "verás",
+    "3s": "verá",
+    "1p": "veremos",
+    "2p": "vereis",
+    "3p": "verão"
+  },
+  "CondS": {
+    "1s": "veria",
+    "2s": "verias",
+    "3s": "veria",
+    "1p": "veríamos",
+    "2p": "veríeis",
+    "3p": "veriam"
+  },
+  "PresC": {
+    "1s": "veja",
+    "2s": "vejas",
+    "3s": "veja",
+    "1p": "vejamos",
+    "2p": "vejais",
+    "3p": "vejam"
+  },
+  "PImpC": {
+    "1s": "visse",
+    "2s": "visses",
+    "3s": "visse",
+    "1p": "víssemos",
+    "2p": "vísseis",
+    "3p": "vissem"
+  },
+  "FutSC": {
+    "1s": "vir",
+    "2s": "vires",
+    "3s": "vir",
+    "1p": "virmos",
+    "2p": "virdes",
+    "3p": "virem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vê",
+    "3s": "veja",
+    "1p": "vejamos",
+    "2p": "vede",
+    "3p": "vejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vejas",
+    "3s": "não veja",
+    "1p": "não vejamos",
+    "2p": "não vejais",
+    "3p": "não vejam"
+  },
+  "Part-ter": {
+    "": "visto"
+  },
+  "Part-ser": {
+    "ms": "visto",
+    "fs": "vista",
+    "mp": "vistos",
+    "fp": "vistas"
+  }
+}

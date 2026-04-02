@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "singar"
+  },
+  "Ger": {
+    "": "singando"
+  },
+  "PresI": {
+    "1s": "singo",
+    "2s": "singas",
+    "3s": "singa",
+    "1p": "singamos",
+    "2p": "singáis",
+    "3p": "singan"
+  },
+  "PImpI": {
+    "1s": "singaba",
+    "2s": "singabas",
+    "3s": "singaba",
+    "1p": "singábamos",
+    "2p": "singabais",
+    "3p": "singaban"
+  },
+  "PPSI": {
+    "1s": "singué",
+    "2s": "singaste",
+    "3s": "singó",
+    "1p": "singamos",
+    "2p": "singasteis",
+    "3p": "singaron"
+  },
+  "FutSI": {
+    "1s": "singaré",
+    "2s": "singarás",
+    "3s": "singará",
+    "1p": "singaremos",
+    "2p": "singaréis",
+    "3p": "singarán"
+  },
+  "CondS": {
+    "1s": "singaría",
+    "2s": "singarías",
+    "3s": "singaría",
+    "1p": "singaríamos",
+    "2p": "singaríais",
+    "3p": "singarían"
+  },
+  "PresC": {
+    "1s": "singue",
+    "2s": "singues",
+    "3s": "singue",
+    "1p": "singuemos",
+    "2p": "singuéis",
+    "3p": "singuen"
+  },
+  "PMQPSI": {
+    "1s": "singara",
+    "2s": "singaras",
+    "3s": "singara",
+    "1p": "singáramos",
+    "2p": "singarais",
+    "3p": "singaran"
+  },
+  "PImpC": {
+    "1s": "singase",
+    "2s": "singases",
+    "3s": "singase",
+    "1p": "singásemos",
+    "2p": "singaseis",
+    "3p": "singasen"
+  },
+  "FutSC": {
+    "1s": "singare",
+    "2s": "singares",
+    "3s": "singare",
+    "1p": "singáremos",
+    "2p": "singareis",
+    "3p": "singaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "singa",
+    "3s": "singue",
+    "1p": "singuemos",
+    "2p": "singad",
+    "3p": "singuen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no singues",
+    "3s": "no singue",
+    "1p": "no singuemos",
+    "2p": "no singuéis",
+    "3p": "no singuen"
+  },
+  "Part-ter": {
+    "": "singado"
+  },
+  "Part-ser": {
+    "ms": "singado",
+    "fs": "singada",
+    "mp": "singados",
+    "fp": "singadas"
+  }
+}

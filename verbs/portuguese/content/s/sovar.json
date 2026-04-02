@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sovar"
+  },
+  "InfP": {
+    "1s": "sovar",
+    "2s": "sovares",
+    "3s": "sovar",
+    "1p": "sovarmos",
+    "2p": "sovardes",
+    "3p": "sovarem"
+  },
+  "Ger": {
+    "": "sovando"
+  },
+  "PresI": {
+    "1s": "sovo",
+    "2s": "sovas",
+    "3s": "sova",
+    "1p": "sovamos",
+    "2p": "sovais",
+    "3p": "sovam"
+  },
+  "PImpI": {
+    "1s": "sovava",
+    "2s": "sovavas",
+    "3s": "sovava",
+    "1p": "sovávamos",
+    "2p": "sováveis",
+    "3p": "sovavam"
+  },
+  "PPSI": {
+    "1s": "sovei",
+    "2s": "sovaste",
+    "3s": "sovou",
+    "1p": "sovámos",
+    "2p": "sovastes",
+    "3p": "sovaram"
+  },
+  "PMQPSI": {
+    "1s": "sovara",
+    "2s": "sovaras",
+    "3s": "sovara",
+    "1p": "sováramos",
+    "2p": "sováreis",
+    "3p": "sovaram"
+  },
+  "FutSI": {
+    "1s": "sovarei",
+    "2s": "sovarás",
+    "3s": "sovará",
+    "1p": "sovaremos",
+    "2p": "sovareis",
+    "3p": "sovarão"
+  },
+  "CondS": {
+    "1s": "sovaria",
+    "2s": "sovarias",
+    "3s": "sovaria",
+    "1p": "sovaríamos",
+    "2p": "sovaríeis",
+    "3p": "sovariam"
+  },
+  "PresC": {
+    "1s": "sove",
+    "2s": "soves",
+    "3s": "sove",
+    "1p": "sovemos",
+    "2p": "soveis",
+    "3p": "sovem"
+  },
+  "PImpC": {
+    "1s": "sovasse",
+    "2s": "sovasses",
+    "3s": "sovasse",
+    "1p": "sovássemos",
+    "2p": "sovásseis",
+    "3p": "sovassem"
+  },
+  "FutSC": {
+    "1s": "sovar",
+    "2s": "sovares",
+    "3s": "sovar",
+    "1p": "sovarmos",
+    "2p": "sovardes",
+    "3p": "sovarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sova",
+    "3s": "sove",
+    "1p": "sovemos",
+    "2p": "sovai",
+    "3p": "sovem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não soves",
+    "3s": "não sove",
+    "1p": "não sovemos",
+    "2p": "não soveis",
+    "3p": "não sovem"
+  },
+  "Part-ter": {
+    "": "sovado"
+  },
+  "Part-ser": {
+    "ms": "sovado",
+    "fs": "sovada",
+    "mp": "sovados",
+    "fp": "sovadas"
+  }
+}

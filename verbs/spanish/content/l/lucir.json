@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lucir"
+  },
+  "Ger": {
+    "": "luciendo"
+  },
+  "PresI": {
+    "1s": "luzco",
+    "2s": "luces",
+    "3s": "luce",
+    "1p": "lucimos",
+    "2p": "lucís",
+    "3p": "lucen"
+  },
+  "PImpI": {
+    "1s": "lucía",
+    "2s": "lucías",
+    "3s": "lucía",
+    "1p": "lucíamos",
+    "2p": "lucíais",
+    "3p": "lucían"
+  },
+  "PPSI": {
+    "1s": "lucí",
+    "2s": "luciste",
+    "3s": "lució",
+    "1p": "lucimos",
+    "2p": "lucisteis",
+    "3p": "lucieron"
+  },
+  "FutSI": {
+    "1s": "luciré",
+    "2s": "lucirás",
+    "3s": "lucirá",
+    "1p": "luciremos",
+    "2p": "luciréis",
+    "3p": "lucirán"
+  },
+  "CondS": {
+    "1s": "luciría",
+    "2s": "lucirías",
+    "3s": "luciría",
+    "1p": "luciríamos",
+    "2p": "luciríais",
+    "3p": "lucirían"
+  },
+  "PresC": {
+    "1s": "luzca",
+    "2s": "luzcas",
+    "3s": "luzca",
+    "1p": "luzcamos",
+    "2p": "luzcáis",
+    "3p": "luzcan"
+  },
+  "PMQPSI": {
+    "1s": "luciera",
+    "2s": "lucieras",
+    "3s": "luciera",
+    "1p": "luciéramos",
+    "2p": "lucierais",
+    "3p": "lucieran"
+  },
+  "PImpC": {
+    "1s": "luciese",
+    "2s": "lucieses",
+    "3s": "luciese",
+    "1p": "luciésemos",
+    "2p": "lucieseis",
+    "3p": "luciesen"
+  },
+  "FutSC": {
+    "1s": "luciere",
+    "2s": "lucieres",
+    "3s": "luciere",
+    "1p": "luciéremos",
+    "2p": "luciereis",
+    "3p": "lucieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "luce",
+    "3s": "luzca",
+    "1p": "luzcamos",
+    "2p": "lucid",
+    "3p": "luzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no luzcas",
+    "3s": "no luzca",
+    "1p": "no luzcamos",
+    "2p": "no luzcáis",
+    "3p": "no luzcan"
+  },
+  "Part-ter": {
+    "": "lucido"
+  },
+  "Part-ser": {
+    "ms": "lucido",
+    "fs": "lucida",
+    "mp": "lucidos",
+    "fp": "lucidas"
+  }
+}

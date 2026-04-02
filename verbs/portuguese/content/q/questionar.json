@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "questionar"
+  },
+  "InfP": {
+    "1s": "questionar",
+    "2s": "questionares",
+    "3s": "questionar",
+    "1p": "questionarmos",
+    "2p": "questionardes",
+    "3p": "questionarem"
+  },
+  "Ger": {
+    "": "questionando"
+  },
+  "PresI": {
+    "1s": "questiono",
+    "2s": "questionas",
+    "3s": "questiona",
+    "1p": "questionamos",
+    "2p": "questionais",
+    "3p": "questionam"
+  },
+  "PImpI": {
+    "1s": "questionava",
+    "2s": "questionavas",
+    "3s": "questionava",
+    "1p": "questionávamos",
+    "2p": "questionáveis",
+    "3p": "questionavam"
+  },
+  "PPSI": {
+    "1s": "questionei",
+    "2s": "questionaste",
+    "3s": "questionou",
+    "1p": "questionámos",
+    "2p": "questionastes",
+    "3p": "questionaram"
+  },
+  "PMQPSI": {
+    "1s": "questionara",
+    "2s": "questionaras",
+    "3s": "questionara",
+    "1p": "questionáramos",
+    "2p": "questionáreis",
+    "3p": "questionaram"
+  },
+  "FutSI": {
+    "1s": "questionarei",
+    "2s": "questionarás",
+    "3s": "questionará",
+    "1p": "questionaremos",
+    "2p": "questionareis",
+    "3p": "questionarão"
+  },
+  "CondS": {
+    "1s": "questionaria",
+    "2s": "questionarias",
+    "3s": "questionaria",
+    "1p": "questionaríamos",
+    "2p": "questionaríeis",
+    "3p": "questionariam"
+  },
+  "PresC": {
+    "1s": "questione",
+    "2s": "questiones",
+    "3s": "questione",
+    "1p": "questionemos",
+    "2p": "questioneis",
+    "3p": "questionem"
+  },
+  "PImpC": {
+    "1s": "questionasse",
+    "2s": "questionasses",
+    "3s": "questionasse",
+    "1p": "questionássemos",
+    "2p": "questionásseis",
+    "3p": "questionassem"
+  },
+  "FutSC": {
+    "1s": "questionar",
+    "2s": "questionares",
+    "3s": "questionar",
+    "1p": "questionarmos",
+    "2p": "questionardes",
+    "3p": "questionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "questiona",
+    "3s": "questione",
+    "1p": "questionemos",
+    "2p": "questionai",
+    "3p": "questionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não questiones",
+    "3s": "não questione",
+    "1p": "não questionemos",
+    "2p": "não questioneis",
+    "3p": "não questionem"
+  },
+  "Part-ter": {
+    "": "questionado"
+  },
+  "Part-ser": {
+    "ms": "questionado",
+    "fs": "questionada",
+    "mp": "questionados",
+    "fp": "questionadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "incendiar"
+  },
+  "Ger": {
+    "": "incendiando"
+  },
+  "PresI": {
+    "1s": "incendio",
+    "2s": "incendias",
+    "3s": "incendia",
+    "1p": "incendiamos",
+    "2p": "incendiáis",
+    "3p": "incendian"
+  },
+  "PImpI": {
+    "1s": "incendiaba",
+    "2s": "incendiabas",
+    "3s": "incendiaba",
+    "1p": "incendiábamos",
+    "2p": "incendiabais",
+    "3p": "incendiaban"
+  },
+  "PPSI": {
+    "1s": "incendié",
+    "2s": "incendiaste",
+    "3s": "incendió",
+    "1p": "incendiamos",
+    "2p": "incendiasteis",
+    "3p": "incendiaron"
+  },
+  "FutSI": {
+    "1s": "incendiaré",
+    "2s": "incendiarás",
+    "3s": "incendiará",
+    "1p": "incendiaremos",
+    "2p": "incendiaréis",
+    "3p": "incendiarán"
+  },
+  "CondS": {
+    "1s": "incendiaría",
+    "2s": "incendiarías",
+    "3s": "incendiaría",
+    "1p": "incendiaríamos",
+    "2p": "incendiaríais",
+    "3p": "incendiarían"
+  },
+  "PresC": {
+    "1s": "incendie",
+    "2s": "incendies",
+    "3s": "incendie",
+    "1p": "incendiemos",
+    "2p": "incendiéis",
+    "3p": "incendien"
+  },
+  "PMQPSI": {
+    "1s": "incendiara",
+    "2s": "incendiaras",
+    "3s": "incendiara",
+    "1p": "incendiáramos",
+    "2p": "incendiarais",
+    "3p": "incendiaran"
+  },
+  "PImpC": {
+    "1s": "incendiase",
+    "2s": "incendiases",
+    "3s": "incendiase",
+    "1p": "incendiásemos",
+    "2p": "incendiaseis",
+    "3p": "incendiasen"
+  },
+  "FutSC": {
+    "1s": "incendiare",
+    "2s": "incendiares",
+    "3s": "incendiare",
+    "1p": "incendiáremos",
+    "2p": "incendiareis",
+    "3p": "incendiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incendia",
+    "3s": "incendie",
+    "1p": "incendiemos",
+    "2p": "incendiad",
+    "3p": "incendien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no incendies",
+    "3s": "no incendie",
+    "1p": "no incendiemos",
+    "2p": "no incendiéis",
+    "3p": "no incendien"
+  },
+  "Part-ter": {
+    "": "incendiado"
+  },
+  "Part-ser": {
+    "ms": "incendiado",
+    "fs": "incendiada",
+    "mp": "incendiados",
+    "fp": "incendiadas"
+  }
+}

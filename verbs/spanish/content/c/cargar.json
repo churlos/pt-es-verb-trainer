@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cargar"
+  },
+  "Ger": {
+    "": "cargando"
+  },
+  "PresI": {
+    "1s": "cargo",
+    "2s": "cargas",
+    "3s": "carga",
+    "1p": "cargamos",
+    "2p": "cargáis",
+    "3p": "cargan"
+  },
+  "PImpI": {
+    "1s": "cargaba",
+    "2s": "cargabas",
+    "3s": "cargaba",
+    "1p": "cargábamos",
+    "2p": "cargabais",
+    "3p": "cargaban"
+  },
+  "PPSI": {
+    "1s": "cargué",
+    "2s": "cargaste",
+    "3s": "cargó",
+    "1p": "cargamos",
+    "2p": "cargasteis",
+    "3p": "cargaron"
+  },
+  "FutSI": {
+    "1s": "cargaré",
+    "2s": "cargarás",
+    "3s": "cargará",
+    "1p": "cargaremos",
+    "2p": "cargaréis",
+    "3p": "cargarán"
+  },
+  "CondS": {
+    "1s": "cargaría",
+    "2s": "cargarías",
+    "3s": "cargaría",
+    "1p": "cargaríamos",
+    "2p": "cargaríais",
+    "3p": "cargarían"
+  },
+  "PresC": {
+    "1s": "cargue",
+    "2s": "cargues",
+    "3s": "cargue",
+    "1p": "carguemos",
+    "2p": "carguéis",
+    "3p": "carguen"
+  },
+  "PMQPSI": {
+    "1s": "cargara",
+    "2s": "cargaras",
+    "3s": "cargara",
+    "1p": "cargáramos",
+    "2p": "cargarais",
+    "3p": "cargaran"
+  },
+  "PImpC": {
+    "1s": "cargase",
+    "2s": "cargases",
+    "3s": "cargase",
+    "1p": "cargásemos",
+    "2p": "cargaseis",
+    "3p": "cargasen"
+  },
+  "FutSC": {
+    "1s": "cargare",
+    "2s": "cargares",
+    "3s": "cargare",
+    "1p": "cargáremos",
+    "2p": "cargareis",
+    "3p": "cargaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carga",
+    "3s": "cargue",
+    "1p": "carguemos",
+    "2p": "cargad",
+    "3p": "carguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cargues",
+    "3s": "no cargue",
+    "1p": "no carguemos",
+    "2p": "no carguéis",
+    "3p": "no carguen"
+  },
+  "Part-ter": {
+    "": "cargado"
+  },
+  "Part-ser": {
+    "ms": "cargado",
+    "fs": "cargada",
+    "mp": "cargados",
+    "fp": "cargadas"
+  }
+}

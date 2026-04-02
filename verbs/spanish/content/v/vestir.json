@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vestir"
+  },
+  "Ger": {
+    "": "vistiendo"
+  },
+  "PresI": {
+    "1s": "visto",
+    "2s": "vistes",
+    "3s": "viste",
+    "1p": "vestimos",
+    "2p": "vestís",
+    "3p": "visten"
+  },
+  "PImpI": {
+    "1s": "vestía",
+    "2s": "vestías",
+    "3s": "vestía",
+    "1p": "vestíamos",
+    "2p": "vestíais",
+    "3p": "vestían"
+  },
+  "PPSI": {
+    "1s": "vestí",
+    "2s": "vestiste",
+    "3s": "vistió",
+    "1p": "vestimos",
+    "2p": "vestisteis",
+    "3p": "vistieron"
+  },
+  "FutSI": {
+    "1s": "vestiré",
+    "2s": "vestirás",
+    "3s": "vestirá",
+    "1p": "vestiremos",
+    "2p": "vestiréis",
+    "3p": "vestirán"
+  },
+  "CondS": {
+    "1s": "vestiría",
+    "2s": "vestirías",
+    "3s": "vestiría",
+    "1p": "vestiríamos",
+    "2p": "vestiríais",
+    "3p": "vestirían"
+  },
+  "PresC": {
+    "1s": "vista",
+    "2s": "vistas",
+    "3s": "vista",
+    "1p": "vistamos",
+    "2p": "vistáis",
+    "3p": "vistan"
+  },
+  "PMQPSI": {
+    "1s": "vistiera",
+    "2s": "vistieras",
+    "3s": "vistiera",
+    "1p": "vistiéramos",
+    "2p": "vistierais",
+    "3p": "vistieran"
+  },
+  "PImpC": {
+    "1s": "vistiese",
+    "2s": "vistieses",
+    "3s": "vistiese",
+    "1p": "vistiésemos",
+    "2p": "vistieseis",
+    "3p": "vistiesen"
+  },
+  "FutSC": {
+    "1s": "vistiere",
+    "2s": "vistieres",
+    "3s": "vistiere",
+    "1p": "vistiéremos",
+    "2p": "vistiereis",
+    "3p": "vistieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "viste",
+    "3s": "vista",
+    "1p": "vistamos",
+    "2p": "vestid",
+    "3p": "vistan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vistas",
+    "3s": "no vista",
+    "1p": "no vistamos",
+    "2p": "no vistáis",
+    "3p": "no vistan"
+  },
+  "Part-ter": {
+    "": "vestido"
+  },
+  "Part-ser": {
+    "ms": "vestido",
+    "fs": "vestida",
+    "mp": "vestidos",
+    "fp": "vestidas"
+  }
+}

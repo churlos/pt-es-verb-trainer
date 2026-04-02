@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "babar"
+  },
+  "InfP": {
+    "1s": "babar",
+    "2s": "babares",
+    "3s": "babar",
+    "1p": "babarmos",
+    "2p": "babardes",
+    "3p": "babarem"
+  },
+  "Ger": {
+    "": "babando"
+  },
+  "PresI": {
+    "1s": "babo",
+    "2s": "babas",
+    "3s": "baba",
+    "1p": "babamos",
+    "2p": "babais",
+    "3p": "babam"
+  },
+  "PImpI": {
+    "1s": "babava",
+    "2s": "babavas",
+    "3s": "babava",
+    "1p": "babávamos",
+    "2p": "babáveis",
+    "3p": "babavam"
+  },
+  "PPSI": {
+    "1s": "babei",
+    "2s": "babaste",
+    "3s": "babou",
+    "1p": "babámos",
+    "2p": "babastes",
+    "3p": "babaram"
+  },
+  "PMQPSI": {
+    "1s": "babara",
+    "2s": "babaras",
+    "3s": "babara",
+    "1p": "babáramos",
+    "2p": "babáreis",
+    "3p": "babaram"
+  },
+  "FutSI": {
+    "1s": "babarei",
+    "2s": "babarás",
+    "3s": "babará",
+    "1p": "babaremos",
+    "2p": "babareis",
+    "3p": "babarão"
+  },
+  "CondS": {
+    "1s": "babaria",
+    "2s": "babarias",
+    "3s": "babaria",
+    "1p": "babaríamos",
+    "2p": "babaríeis",
+    "3p": "babariam"
+  },
+  "PresC": {
+    "1s": "babe",
+    "2s": "babes",
+    "3s": "babe",
+    "1p": "babemos",
+    "2p": "babeis",
+    "3p": "babem"
+  },
+  "PImpC": {
+    "1s": "babasse",
+    "2s": "babasses",
+    "3s": "babasse",
+    "1p": "babássemos",
+    "2p": "babásseis",
+    "3p": "babassem"
+  },
+  "FutSC": {
+    "1s": "babar",
+    "2s": "babares",
+    "3s": "babar",
+    "1p": "babarmos",
+    "2p": "babardes",
+    "3p": "babarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baba",
+    "3s": "babe",
+    "1p": "babemos",
+    "2p": "babai",
+    "3p": "babem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não babes",
+    "3s": "não babe",
+    "1p": "não babemos",
+    "2p": "não babeis",
+    "3p": "não babem"
+  },
+  "Part-ter": {
+    "": "babado"
+  },
+  "Part-ser": {
+    "ms": "babado",
+    "fs": "babada",
+    "mp": "babados",
+    "fp": "babadas"
+  }
+}

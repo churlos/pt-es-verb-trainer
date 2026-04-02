@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "probar"
+  },
+  "Ger": {
+    "": "probando"
+  },
+  "PresI": {
+    "1s": "pruebo",
+    "2s": "pruebas",
+    "3s": "prueba",
+    "1p": "probamos",
+    "2p": "probáis",
+    "3p": "prueban"
+  },
+  "PImpI": {
+    "1s": "probaba",
+    "2s": "probabas",
+    "3s": "probaba",
+    "1p": "probábamos",
+    "2p": "probabais",
+    "3p": "probaban"
+  },
+  "PPSI": {
+    "1s": "probé",
+    "2s": "probaste",
+    "3s": "probó",
+    "1p": "probamos",
+    "2p": "probasteis",
+    "3p": "probaron"
+  },
+  "FutSI": {
+    "1s": "probaré",
+    "2s": "probarás",
+    "3s": "probará",
+    "1p": "probaremos",
+    "2p": "probaréis",
+    "3p": "probarán"
+  },
+  "CondS": {
+    "1s": "probaría",
+    "2s": "probarías",
+    "3s": "probaría",
+    "1p": "probaríamos",
+    "2p": "probaríais",
+    "3p": "probarían"
+  },
+  "PresC": {
+    "1s": "pruebe",
+    "2s": "pruebes",
+    "3s": "pruebe",
+    "1p": "probemos",
+    "2p": "probéis",
+    "3p": "prueben"
+  },
+  "PMQPSI": {
+    "1s": "probara",
+    "2s": "probaras",
+    "3s": "probara",
+    "1p": "probáramos",
+    "2p": "probarais",
+    "3p": "probaran"
+  },
+  "PImpC": {
+    "1s": "probase",
+    "2s": "probases",
+    "3s": "probase",
+    "1p": "probásemos",
+    "2p": "probaseis",
+    "3p": "probasen"
+  },
+  "FutSC": {
+    "1s": "probare",
+    "2s": "probares",
+    "3s": "probare",
+    "1p": "probáremos",
+    "2p": "probareis",
+    "3p": "probaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prueba",
+    "3s": "pruebe",
+    "1p": "probemos",
+    "2p": "probad",
+    "3p": "prueben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pruebes",
+    "3s": "no pruebe",
+    "1p": "no probemos",
+    "2p": "no probéis",
+    "3p": "no prueben"
+  },
+  "Part-ter": {
+    "": "probado"
+  },
+  "Part-ser": {
+    "ms": "probado",
+    "fs": "probada",
+    "mp": "probados",
+    "fp": "probadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ventar"
+  },
+  "InfP": {
+    "1s": "ventar",
+    "2s": "ventares",
+    "3s": "ventar",
+    "1p": "ventarmos",
+    "2p": "ventardes",
+    "3p": "ventarem"
+  },
+  "Ger": {
+    "": "ventando"
+  },
+  "PresI": {
+    "1s": "vento",
+    "2s": "ventas",
+    "3s": "venta",
+    "1p": "ventamos",
+    "2p": "ventais",
+    "3p": "ventam"
+  },
+  "PImpI": {
+    "1s": "ventava",
+    "2s": "ventavas",
+    "3s": "ventava",
+    "1p": "ventávamos",
+    "2p": "ventáveis",
+    "3p": "ventavam"
+  },
+  "PPSI": {
+    "1s": "ventei",
+    "2s": "ventaste",
+    "3s": "ventou",
+    "1p": "ventámos",
+    "2p": "ventastes",
+    "3p": "ventaram"
+  },
+  "PMQPSI": {
+    "1s": "ventara",
+    "2s": "ventaras",
+    "3s": "ventara",
+    "1p": "ventáramos",
+    "2p": "ventáreis",
+    "3p": "ventaram"
+  },
+  "FutSI": {
+    "1s": "ventarei",
+    "2s": "ventarás",
+    "3s": "ventará",
+    "1p": "ventaremos",
+    "2p": "ventareis",
+    "3p": "ventarão"
+  },
+  "CondS": {
+    "1s": "ventaria",
+    "2s": "ventarias",
+    "3s": "ventaria",
+    "1p": "ventaríamos",
+    "2p": "ventaríeis",
+    "3p": "ventariam"
+  },
+  "PresC": {
+    "1s": "vente",
+    "2s": "ventes",
+    "3s": "vente",
+    "1p": "ventemos",
+    "2p": "venteis",
+    "3p": "ventem"
+  },
+  "PImpC": {
+    "1s": "ventasse",
+    "2s": "ventasses",
+    "3s": "ventasse",
+    "1p": "ventássemos",
+    "2p": "ventásseis",
+    "3p": "ventassem"
+  },
+  "FutSC": {
+    "1s": "ventar",
+    "2s": "ventares",
+    "3s": "ventar",
+    "1p": "ventarmos",
+    "2p": "ventardes",
+    "3p": "ventarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "venta",
+    "3s": "vente",
+    "1p": "ventemos",
+    "2p": "ventai",
+    "3p": "ventem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ventes",
+    "3s": "não vente",
+    "1p": "não ventemos",
+    "2p": "não venteis",
+    "3p": "não ventem"
+  },
+  "Part-ter": {
+    "": "ventado"
+  },
+  "Part-ser": {
+    "ms": "ventado",
+    "fs": "ventada",
+    "mp": "ventados",
+    "fp": "ventadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asociar"
+  },
+  "Ger": {
+    "": "asociando"
+  },
+  "PresI": {
+    "1s": "asocio",
+    "2s": "asocias",
+    "3s": "asocia",
+    "1p": "asociamos",
+    "2p": "asociáis",
+    "3p": "asocian"
+  },
+  "PImpI": {
+    "1s": "asociaba",
+    "2s": "asociabas",
+    "3s": "asociaba",
+    "1p": "asociábamos",
+    "2p": "asociabais",
+    "3p": "asociaban"
+  },
+  "PPSI": {
+    "1s": "asocié",
+    "2s": "asociaste",
+    "3s": "asoció",
+    "1p": "asociamos",
+    "2p": "asociasteis",
+    "3p": "asociaron"
+  },
+  "FutSI": {
+    "1s": "asociaré",
+    "2s": "asociarás",
+    "3s": "asociará",
+    "1p": "asociaremos",
+    "2p": "asociaréis",
+    "3p": "asociarán"
+  },
+  "CondS": {
+    "1s": "asociaría",
+    "2s": "asociarías",
+    "3s": "asociaría",
+    "1p": "asociaríamos",
+    "2p": "asociaríais",
+    "3p": "asociarían"
+  },
+  "PresC": {
+    "1s": "asocie",
+    "2s": "asocies",
+    "3s": "asocie",
+    "1p": "asociemos",
+    "2p": "asociéis",
+    "3p": "asocien"
+  },
+  "PMQPSI": {
+    "1s": "asociara",
+    "2s": "asociaras",
+    "3s": "asociara",
+    "1p": "asociáramos",
+    "2p": "asociarais",
+    "3p": "asociaran"
+  },
+  "PImpC": {
+    "1s": "asociase",
+    "2s": "asociases",
+    "3s": "asociase",
+    "1p": "asociásemos",
+    "2p": "asociaseis",
+    "3p": "asociasen"
+  },
+  "FutSC": {
+    "1s": "asociare",
+    "2s": "asociares",
+    "3s": "asociare",
+    "1p": "asociáremos",
+    "2p": "asociareis",
+    "3p": "asociaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asocia",
+    "3s": "asocie",
+    "1p": "asociemos",
+    "2p": "asociad",
+    "3p": "asocien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asocies",
+    "3s": "no asocie",
+    "1p": "no asociemos",
+    "2p": "no asociéis",
+    "3p": "no asocien"
+  },
+  "Part-ter": {
+    "": "asociado"
+  },
+  "Part-ser": {
+    "ms": "asociado",
+    "fs": "asociada",
+    "mp": "asociados",
+    "fp": "asociadas"
+  }
+}

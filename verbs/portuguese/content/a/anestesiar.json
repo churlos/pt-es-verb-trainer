@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anestesiar"
+  },
+  "InfP": {
+    "1s": "anestesiar",
+    "2s": "anestesiares",
+    "3s": "anestesiar",
+    "1p": "anestesiarmos",
+    "2p": "anestesiardes",
+    "3p": "anestesiarem"
+  },
+  "Ger": {
+    "": "anestesiando"
+  },
+  "PresI": {
+    "1s": "anestesio",
+    "2s": "anestesias",
+    "3s": "anestesia",
+    "1p": "anestesiamos",
+    "2p": "anestesiais",
+    "3p": "anestesiam"
+  },
+  "PImpI": {
+    "1s": "anestesiava",
+    "2s": "anestesiavas",
+    "3s": "anestesiava",
+    "1p": "anestesiávamos",
+    "2p": "anestesiáveis",
+    "3p": "anestesiavam"
+  },
+  "PPSI": {
+    "1s": "anestesiei",
+    "2s": "anestesiaste",
+    "3s": "anestesiou",
+    "1p": "anestesiámos",
+    "2p": "anestesiastes",
+    "3p": "anestesiaram"
+  },
+  "PMQPSI": {
+    "1s": "anestesiara",
+    "2s": "anestesiaras",
+    "3s": "anestesiara",
+    "1p": "anestesiáramos",
+    "2p": "anestesiáreis",
+    "3p": "anestesiaram"
+  },
+  "FutSI": {
+    "1s": "anestesiarei",
+    "2s": "anestesiarás",
+    "3s": "anestesiará",
+    "1p": "anestesiaremos",
+    "2p": "anestesiareis",
+    "3p": "anestesiarão"
+  },
+  "CondS": {
+    "1s": "anestesiaria",
+    "2s": "anestesiarias",
+    "3s": "anestesiaria",
+    "1p": "anestesiaríamos",
+    "2p": "anestesiaríeis",
+    "3p": "anestesiariam"
+  },
+  "PresC": {
+    "1s": "anestesie",
+    "2s": "anestesies",
+    "3s": "anestesie",
+    "1p": "anestesiemos",
+    "2p": "anestesieis",
+    "3p": "anestesiem"
+  },
+  "PImpC": {
+    "1s": "anestesiasse",
+    "2s": "anestesiasses",
+    "3s": "anestesiasse",
+    "1p": "anestesiássemos",
+    "2p": "anestesiásseis",
+    "3p": "anestesiassem"
+  },
+  "FutSC": {
+    "1s": "anestesiar",
+    "2s": "anestesiares",
+    "3s": "anestesiar",
+    "1p": "anestesiarmos",
+    "2p": "anestesiardes",
+    "3p": "anestesiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anestesia",
+    "3s": "anestesie",
+    "1p": "anestesiemos",
+    "2p": "anestesiai",
+    "3p": "anestesiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anestesies",
+    "3s": "não anestesie",
+    "1p": "não anestesiemos",
+    "2p": "não anestesieis",
+    "3p": "não anestesiem"
+  },
+  "Part-ter": {
+    "": "anestesiado"
+  },
+  "Part-ser": {
+    "ms": "anestesiado",
+    "fs": "anestesiada",
+    "mp": "anestesiados",
+    "fp": "anestesiadas"
+  }
+}

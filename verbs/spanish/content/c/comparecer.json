@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "comparecer"
+  },
+  "Ger": {
+    "": "compareciendo"
+  },
+  "PresI": {
+    "1s": "comparezco",
+    "2s": "compareces",
+    "3s": "comparece",
+    "1p": "comparecemos",
+    "2p": "comparecéis",
+    "3p": "comparecen"
+  },
+  "PImpI": {
+    "1s": "comparecía",
+    "2s": "comparecías",
+    "3s": "comparecía",
+    "1p": "comparecíamos",
+    "2p": "comparecíais",
+    "3p": "comparecían"
+  },
+  "PPSI": {
+    "1s": "comparecí",
+    "2s": "compareciste",
+    "3s": "compareció",
+    "1p": "comparecimos",
+    "2p": "comparecisteis",
+    "3p": "comparecieron"
+  },
+  "FutSI": {
+    "1s": "compareceré",
+    "2s": "comparecerás",
+    "3s": "comparecerá",
+    "1p": "compareceremos",
+    "2p": "compareceréis",
+    "3p": "comparecerán"
+  },
+  "CondS": {
+    "1s": "comparecería",
+    "2s": "comparecerías",
+    "3s": "comparecería",
+    "1p": "compareceríamos",
+    "2p": "compareceríais",
+    "3p": "comparecerían"
+  },
+  "PresC": {
+    "1s": "comparezca",
+    "2s": "comparezcas",
+    "3s": "comparezca",
+    "1p": "comparezcamos",
+    "2p": "comparezcáis",
+    "3p": "comparezcan"
+  },
+  "PMQPSI": {
+    "1s": "compareciera",
+    "2s": "comparecieras",
+    "3s": "compareciera",
+    "1p": "compareciéramos",
+    "2p": "comparecierais",
+    "3p": "comparecieran"
+  },
+  "PImpC": {
+    "1s": "compareciese",
+    "2s": "comparecieses",
+    "3s": "compareciese",
+    "1p": "compareciésemos",
+    "2p": "comparecieseis",
+    "3p": "compareciesen"
+  },
+  "FutSC": {
+    "1s": "compareciere",
+    "2s": "comparecieres",
+    "3s": "compareciere",
+    "1p": "compareciéremos",
+    "2p": "compareciereis",
+    "3p": "comparecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comparece",
+    "3s": "comparezca",
+    "1p": "comparezcamos",
+    "2p": "compareced",
+    "3p": "comparezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no comparezcas",
+    "3s": "no comparezca",
+    "1p": "no comparezcamos",
+    "2p": "no comparezcáis",
+    "3p": "no comparezcan"
+  },
+  "Part-ter": {
+    "": "comparecido"
+  },
+  "Part-ser": {
+    "ms": "comparecido",
+    "fs": "comparecida",
+    "mp": "comparecidos",
+    "fp": "comparecidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "acusar"
+  },
+  "Ger": {
+    "": "acusando"
+  },
+  "PresI": {
+    "1s": "acuso",
+    "2s": "acusas",
+    "3s": "acusa",
+    "1p": "acusamos",
+    "2p": "acusáis",
+    "3p": "acusan"
+  },
+  "PImpI": {
+    "1s": "acusaba",
+    "2s": "acusabas",
+    "3s": "acusaba",
+    "1p": "acusábamos",
+    "2p": "acusabais",
+    "3p": "acusaban"
+  },
+  "PPSI": {
+    "1s": "acusé",
+    "2s": "acusaste",
+    "3s": "acusó",
+    "1p": "acusamos",
+    "2p": "acusasteis",
+    "3p": "acusaron"
+  },
+  "FutSI": {
+    "1s": "acusaré",
+    "2s": "acusarás",
+    "3s": "acusará",
+    "1p": "acusaremos",
+    "2p": "acusaréis",
+    "3p": "acusarán"
+  },
+  "CondS": {
+    "1s": "acusaría",
+    "2s": "acusarías",
+    "3s": "acusaría",
+    "1p": "acusaríamos",
+    "2p": "acusaríais",
+    "3p": "acusarían"
+  },
+  "PresC": {
+    "1s": "acuse",
+    "2s": "acuses",
+    "3s": "acuse",
+    "1p": "acusemos",
+    "2p": "acuséis",
+    "3p": "acusen"
+  },
+  "PMQPSI": {
+    "1s": "acusara",
+    "2s": "acusaras",
+    "3s": "acusara",
+    "1p": "acusáramos",
+    "2p": "acusarais",
+    "3p": "acusaran"
+  },
+  "PImpC": {
+    "1s": "acusase",
+    "2s": "acusases",
+    "3s": "acusase",
+    "1p": "acusásemos",
+    "2p": "acusaseis",
+    "3p": "acusasen"
+  },
+  "FutSC": {
+    "1s": "acusare",
+    "2s": "acusares",
+    "3s": "acusare",
+    "1p": "acusáremos",
+    "2p": "acusareis",
+    "3p": "acusaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acusa",
+    "3s": "acuse",
+    "1p": "acusemos",
+    "2p": "acusad",
+    "3p": "acusen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no acuses",
+    "3s": "no acuse",
+    "1p": "no acusemos",
+    "2p": "no acuséis",
+    "3p": "no acusen"
+  },
+  "Part-ter": {
+    "": "acusado"
+  },
+  "Part-ser": {
+    "ms": "acusado",
+    "fs": "acusada",
+    "mp": "acusados",
+    "fp": "acusadas"
+  }
+}

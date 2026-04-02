@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "montar"
+  },
+  "Ger": {
+    "": "montando"
+  },
+  "PresI": {
+    "1s": "monto",
+    "2s": "montas",
+    "3s": "monta",
+    "1p": "montamos",
+    "2p": "montáis",
+    "3p": "montan"
+  },
+  "PImpI": {
+    "1s": "montaba",
+    "2s": "montabas",
+    "3s": "montaba",
+    "1p": "montábamos",
+    "2p": "montabais",
+    "3p": "montaban"
+  },
+  "PPSI": {
+    "1s": "monté",
+    "2s": "montaste",
+    "3s": "montó",
+    "1p": "montamos",
+    "2p": "montasteis",
+    "3p": "montaron"
+  },
+  "FutSI": {
+    "1s": "montaré",
+    "2s": "montarás",
+    "3s": "montará",
+    "1p": "montaremos",
+    "2p": "montaréis",
+    "3p": "montarán"
+  },
+  "CondS": {
+    "1s": "montaría",
+    "2s": "montarías",
+    "3s": "montaría",
+    "1p": "montaríamos",
+    "2p": "montaríais",
+    "3p": "montarían"
+  },
+  "PresC": {
+    "1s": "monte",
+    "2s": "montes",
+    "3s": "monte",
+    "1p": "montemos",
+    "2p": "montéis",
+    "3p": "monten"
+  },
+  "PMQPSI": {
+    "1s": "montara",
+    "2s": "montaras",
+    "3s": "montara",
+    "1p": "montáramos",
+    "2p": "montarais",
+    "3p": "montaran"
+  },
+  "PImpC": {
+    "1s": "montase",
+    "2s": "montases",
+    "3s": "montase",
+    "1p": "montásemos",
+    "2p": "montaseis",
+    "3p": "montasen"
+  },
+  "FutSC": {
+    "1s": "montare",
+    "2s": "montares",
+    "3s": "montare",
+    "1p": "montáremos",
+    "2p": "montareis",
+    "3p": "montaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "monta",
+    "3s": "monte",
+    "1p": "montemos",
+    "2p": "montad",
+    "3p": "monten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no montes",
+    "3s": "no monte",
+    "1p": "no montemos",
+    "2p": "no montéis",
+    "3p": "no monten"
+  },
+  "Part-ter": {
+    "": "montado"
+  },
+  "Part-ser": {
+    "ms": "montado",
+    "fs": "montada",
+    "mp": "montados",
+    "fp": "montadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manifestar"
+  },
+  "InfP": {
+    "1s": "manifestar",
+    "2s": "manifestares",
+    "3s": "manifestar",
+    "1p": "manifestarmos",
+    "2p": "manifestardes",
+    "3p": "manifestarem"
+  },
+  "Ger": {
+    "": "manifestando"
+  },
+  "PresI": {
+    "1s": "manifesto",
+    "2s": "manifestas",
+    "3s": "manifesta",
+    "1p": "manifestamos",
+    "2p": "manifestais",
+    "3p": "manifestam"
+  },
+  "PImpI": {
+    "1s": "manifestava",
+    "2s": "manifestavas",
+    "3s": "manifestava",
+    "1p": "manifestávamos",
+    "2p": "manifestáveis",
+    "3p": "manifestavam"
+  },
+  "PPSI": {
+    "1s": "manifestei",
+    "2s": "manifestaste",
+    "3s": "manifestou",
+    "1p": "manifestámos",
+    "2p": "manifestastes",
+    "3p": "manifestaram"
+  },
+  "PMQPSI": {
+    "1s": "manifestara",
+    "2s": "manifestaras",
+    "3s": "manifestara",
+    "1p": "manifestáramos",
+    "2p": "manifestáreis",
+    "3p": "manifestaram"
+  },
+  "FutSI": {
+    "1s": "manifestarei",
+    "2s": "manifestarás",
+    "3s": "manifestará",
+    "1p": "manifestaremos",
+    "2p": "manifestareis",
+    "3p": "manifestarão"
+  },
+  "CondS": {
+    "1s": "manifestaria",
+    "2s": "manifestarias",
+    "3s": "manifestaria",
+    "1p": "manifestaríamos",
+    "2p": "manifestaríeis",
+    "3p": "manifestariam"
+  },
+  "PresC": {
+    "1s": "manifeste",
+    "2s": "manifestes",
+    "3s": "manifeste",
+    "1p": "manifestemos",
+    "2p": "manifesteis",
+    "3p": "manifestem"
+  },
+  "PImpC": {
+    "1s": "manifestasse",
+    "2s": "manifestasses",
+    "3s": "manifestasse",
+    "1p": "manifestássemos",
+    "2p": "manifestásseis",
+    "3p": "manifestassem"
+  },
+  "FutSC": {
+    "1s": "manifestar",
+    "2s": "manifestares",
+    "3s": "manifestar",
+    "1p": "manifestarmos",
+    "2p": "manifestardes",
+    "3p": "manifestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manifesta",
+    "3s": "manifeste",
+    "1p": "manifestemos",
+    "2p": "manifestai",
+    "3p": "manifestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manifestes",
+    "3s": "não manifeste",
+    "1p": "não manifestemos",
+    "2p": "não manifesteis",
+    "3p": "não manifestem"
+  },
+  "Part-ter": {
+    "": "manifestado"
+  },
+  "Part-ser": {
+    "ms": "manifestado",
+    "fs": "manifestada",
+    "mp": "manifestados",
+    "fp": "manifestadas"
+  }
+}

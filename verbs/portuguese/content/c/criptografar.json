@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "criptografar"
+  },
+  "InfP": {
+    "1s": "criptografar",
+    "2s": "criptografares",
+    "3s": "criptografar",
+    "1p": "criptografarmos",
+    "2p": "criptografardes",
+    "3p": "criptografarem"
+  },
+  "Ger": {
+    "": "criptografando"
+  },
+  "PresI": {
+    "1s": "criptografo",
+    "2s": "criptografas",
+    "3s": "criptografa",
+    "1p": "criptografamos",
+    "2p": "criptografais",
+    "3p": "criptografam"
+  },
+  "PImpI": {
+    "1s": "criptografava",
+    "2s": "criptografavas",
+    "3s": "criptografava",
+    "1p": "criptografávamos",
+    "2p": "criptografáveis",
+    "3p": "criptografavam"
+  },
+  "PPSI": {
+    "1s": "criptografei",
+    "2s": "criptografaste",
+    "3s": "criptografou",
+    "1p": "criptografámos",
+    "2p": "criptografastes",
+    "3p": "criptografaram"
+  },
+  "PMQPSI": {
+    "1s": "criptografara",
+    "2s": "criptografaras",
+    "3s": "criptografara",
+    "1p": "criptografáramos",
+    "2p": "criptografáreis",
+    "3p": "criptografaram"
+  },
+  "FutSI": {
+    "1s": "criptografarei",
+    "2s": "criptografarás",
+    "3s": "criptografará",
+    "1p": "criptografaremos",
+    "2p": "criptografareis",
+    "3p": "criptografarão"
+  },
+  "CondS": {
+    "1s": "criptografaria",
+    "2s": "criptografarias",
+    "3s": "criptografaria",
+    "1p": "criptografaríamos",
+    "2p": "criptografaríeis",
+    "3p": "criptografariam"
+  },
+  "PresC": {
+    "1s": "criptografe",
+    "2s": "criptografes",
+    "3s": "criptografe",
+    "1p": "criptografemos",
+    "2p": "criptografeis",
+    "3p": "criptografem"
+  },
+  "PImpC": {
+    "1s": "criptografasse",
+    "2s": "criptografasses",
+    "3s": "criptografasse",
+    "1p": "criptografássemos",
+    "2p": "criptografásseis",
+    "3p": "criptografassem"
+  },
+  "FutSC": {
+    "1s": "criptografar",
+    "2s": "criptografares",
+    "3s": "criptografar",
+    "1p": "criptografarmos",
+    "2p": "criptografardes",
+    "3p": "criptografarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "criptografa",
+    "3s": "criptografe",
+    "1p": "criptografemos",
+    "2p": "criptografai",
+    "3p": "criptografem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não criptografes",
+    "3s": "não criptografe",
+    "1p": "não criptografemos",
+    "2p": "não criptografeis",
+    "3p": "não criptografem"
+  },
+  "Part-ter": {
+    "": "criptografado"
+  },
+  "Part-ser": {
+    "ms": "criptografado",
+    "fs": "criptografada",
+    "mp": "criptografados",
+    "fp": "criptografadas"
+  }
+}

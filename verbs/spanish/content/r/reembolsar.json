@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reembolsar"
+  },
+  "Ger": {
+    "": "reembolsando"
+  },
+  "PresI": {
+    "1s": "reembolso",
+    "2s": "reembolsas",
+    "3s": "reembolsa",
+    "1p": "reembolsamos",
+    "2p": "reembolsáis",
+    "3p": "reembolsan"
+  },
+  "PImpI": {
+    "1s": "reembolsaba",
+    "2s": "reembolsabas",
+    "3s": "reembolsaba",
+    "1p": "reembolsábamos",
+    "2p": "reembolsabais",
+    "3p": "reembolsaban"
+  },
+  "PPSI": {
+    "1s": "reembolsé",
+    "2s": "reembolsaste",
+    "3s": "reembolsó",
+    "1p": "reembolsamos",
+    "2p": "reembolsasteis",
+    "3p": "reembolsaron"
+  },
+  "FutSI": {
+    "1s": "reembolsaré",
+    "2s": "reembolsarás",
+    "3s": "reembolsará",
+    "1p": "reembolsaremos",
+    "2p": "reembolsaréis",
+    "3p": "reembolsarán"
+  },
+  "CondS": {
+    "1s": "reembolsaría",
+    "2s": "reembolsarías",
+    "3s": "reembolsaría",
+    "1p": "reembolsaríamos",
+    "2p": "reembolsaríais",
+    "3p": "reembolsarían"
+  },
+  "PresC": {
+    "1s": "reembolse",
+    "2s": "reembolses",
+    "3s": "reembolse",
+    "1p": "reembolsemos",
+    "2p": "reembolséis",
+    "3p": "reembolsen"
+  },
+  "PMQPSI": {
+    "1s": "reembolsara",
+    "2s": "reembolsaras",
+    "3s": "reembolsara",
+    "1p": "reembolsáramos",
+    "2p": "reembolsarais",
+    "3p": "reembolsaran"
+  },
+  "PImpC": {
+    "1s": "reembolsase",
+    "2s": "reembolsases",
+    "3s": "reembolsase",
+    "1p": "reembolsásemos",
+    "2p": "reembolsaseis",
+    "3p": "reembolsasen"
+  },
+  "FutSC": {
+    "1s": "reembolsare",
+    "2s": "reembolsares",
+    "3s": "reembolsare",
+    "1p": "reembolsáremos",
+    "2p": "reembolsareis",
+    "3p": "reembolsaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reembolsa",
+    "3s": "reembolse",
+    "1p": "reembolsemos",
+    "2p": "reembolsad",
+    "3p": "reembolsen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reembolses",
+    "3s": "no reembolse",
+    "1p": "no reembolsemos",
+    "2p": "no reembolséis",
+    "3p": "no reembolsen"
+  },
+  "Part-ter": {
+    "": "reembolsado"
+  },
+  "Part-ser": {
+    "ms": "reembolsado",
+    "fs": "reembolsada",
+    "mp": "reembolsados",
+    "fp": "reembolsadas"
+  }
+}

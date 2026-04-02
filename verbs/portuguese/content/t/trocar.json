@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trocar"
+  },
+  "InfP": {
+    "1s": "trocar",
+    "2s": "trocares",
+    "3s": "trocar",
+    "1p": "trocarmos",
+    "2p": "trocardes",
+    "3p": "trocarem"
+  },
+  "Ger": {
+    "": "trocando"
+  },
+  "PresI": {
+    "1s": "troco",
+    "2s": "trocas",
+    "3s": "troca",
+    "1p": "trocamos",
+    "2p": "trocais",
+    "3p": "trocam"
+  },
+  "PImpI": {
+    "1s": "trocava",
+    "2s": "trocavas",
+    "3s": "trocava",
+    "1p": "trocávamos",
+    "2p": "trocáveis",
+    "3p": "trocavam"
+  },
+  "PPSI": {
+    "1s": "troquei",
+    "2s": "trocaste",
+    "3s": "trocou",
+    "1p": "trocámos",
+    "2p": "trocastes",
+    "3p": "trocaram"
+  },
+  "PMQPSI": {
+    "1s": "trocara",
+    "2s": "trocaras",
+    "3s": "trocara",
+    "1p": "trocáramos",
+    "2p": "trocáreis",
+    "3p": "trocaram"
+  },
+  "FutSI": {
+    "1s": "trocarei",
+    "2s": "trocarás",
+    "3s": "trocará",
+    "1p": "trocaremos",
+    "2p": "trocareis",
+    "3p": "trocarão"
+  },
+  "CondS": {
+    "1s": "trocaria",
+    "2s": "trocarias",
+    "3s": "trocaria",
+    "1p": "trocaríamos",
+    "2p": "trocaríeis",
+    "3p": "trocariam"
+  },
+  "PresC": {
+    "1s": "troque",
+    "2s": "troques",
+    "3s": "troque",
+    "1p": "troquemos",
+    "2p": "troqueis",
+    "3p": "troquem"
+  },
+  "PImpC": {
+    "1s": "trocasse",
+    "2s": "trocasses",
+    "3s": "trocasse",
+    "1p": "trocássemos",
+    "2p": "trocásseis",
+    "3p": "trocassem"
+  },
+  "FutSC": {
+    "1s": "trocar",
+    "2s": "trocares",
+    "3s": "trocar",
+    "1p": "trocarmos",
+    "2p": "trocardes",
+    "3p": "trocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "troca",
+    "3s": "troque",
+    "1p": "troquemos",
+    "2p": "trocai",
+    "3p": "troquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não troques",
+    "3s": "não troque",
+    "1p": "não troquemos",
+    "2p": "não troqueis",
+    "3p": "não troquem"
+  },
+  "Part-ter": {
+    "": "trocado"
+  },
+  "Part-ser": {
+    "ms": "trocado",
+    "fs": "trocada",
+    "mp": "trocados",
+    "fp": "trocadas"
+  }
+}

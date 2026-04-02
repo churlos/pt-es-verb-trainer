@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "luitar"
+  },
+  "InfP": {
+    "1s": "luitar",
+    "2s": "luitares",
+    "3s": "luitar",
+    "1p": "luitarmos",
+    "2p": "luitardes",
+    "3p": "luitarem"
+  },
+  "Ger": {
+    "": "luitando"
+  },
+  "PresI": {
+    "1s": "luito",
+    "2s": "luitas",
+    "3s": "luita",
+    "1p": "luitamos",
+    "2p": "luitais",
+    "3p": "luitam"
+  },
+  "PImpI": {
+    "1s": "luitava",
+    "2s": "luitavas",
+    "3s": "luitava",
+    "1p": "luitávamos",
+    "2p": "luitáveis",
+    "3p": "luitavam"
+  },
+  "PPSI": {
+    "1s": "luitei",
+    "2s": "luitaste",
+    "3s": "luitou",
+    "1p": "luitámos",
+    "2p": "luitastes",
+    "3p": "luitaram"
+  },
+  "PMQPSI": {
+    "1s": "luitara",
+    "2s": "luitaras",
+    "3s": "luitara",
+    "1p": "luitáramos",
+    "2p": "luitáreis",
+    "3p": "luitaram"
+  },
+  "FutSI": {
+    "1s": "luitarei",
+    "2s": "luitarás",
+    "3s": "luitará",
+    "1p": "luitaremos",
+    "2p": "luitareis",
+    "3p": "luitarão"
+  },
+  "CondS": {
+    "1s": "luitaria",
+    "2s": "luitarias",
+    "3s": "luitaria",
+    "1p": "luitaríamos",
+    "2p": "luitaríeis",
+    "3p": "luitariam"
+  },
+  "PresC": {
+    "1s": "luite",
+    "2s": "luites",
+    "3s": "luite",
+    "1p": "luitemos",
+    "2p": "luiteis",
+    "3p": "luitem"
+  },
+  "PImpC": {
+    "1s": "luitasse",
+    "2s": "luitasses",
+    "3s": "luitasse",
+    "1p": "luitássemos",
+    "2p": "luitásseis",
+    "3p": "luitassem"
+  },
+  "FutSC": {
+    "1s": "luitar",
+    "2s": "luitares",
+    "3s": "luitar",
+    "1p": "luitarmos",
+    "2p": "luitardes",
+    "3p": "luitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "luita",
+    "3s": "luite",
+    "1p": "luitemos",
+    "2p": "luitai",
+    "3p": "luitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não luites",
+    "3s": "não luite",
+    "1p": "não luitemos",
+    "2p": "não luiteis",
+    "3p": "não luitem"
+  },
+  "Part-ter": {
+    "": "luitado"
+  },
+  "Part-ser": {
+    "ms": "luitado",
+    "fs": "luitada",
+    "mp": "luitados",
+    "fp": "luitadas"
+  }
+}

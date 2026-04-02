@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fotografar"
+  },
+  "InfP": {
+    "1s": "fotografar",
+    "2s": "fotografares",
+    "3s": "fotografar",
+    "1p": "fotografarmos",
+    "2p": "fotografardes",
+    "3p": "fotografarem"
+  },
+  "Ger": {
+    "": "fotografando"
+  },
+  "PresI": {
+    "1s": "fotografo",
+    "2s": "fotografas",
+    "3s": "fotografa",
+    "1p": "fotografamos",
+    "2p": "fotografais",
+    "3p": "fotografam"
+  },
+  "PImpI": {
+    "1s": "fotografava",
+    "2s": "fotografavas",
+    "3s": "fotografava",
+    "1p": "fotografávamos",
+    "2p": "fotografáveis",
+    "3p": "fotografavam"
+  },
+  "PPSI": {
+    "1s": "fotografei",
+    "2s": "fotografaste",
+    "3s": "fotografou",
+    "1p": "fotografámos",
+    "2p": "fotografastes",
+    "3p": "fotografaram"
+  },
+  "PMQPSI": {
+    "1s": "fotografara",
+    "2s": "fotografaras",
+    "3s": "fotografara",
+    "1p": "fotografáramos",
+    "2p": "fotografáreis",
+    "3p": "fotografaram"
+  },
+  "FutSI": {
+    "1s": "fotografarei",
+    "2s": "fotografarás",
+    "3s": "fotografará",
+    "1p": "fotografaremos",
+    "2p": "fotografareis",
+    "3p": "fotografarão"
+  },
+  "CondS": {
+    "1s": "fotografaria",
+    "2s": "fotografarias",
+    "3s": "fotografaria",
+    "1p": "fotografaríamos",
+    "2p": "fotografaríeis",
+    "3p": "fotografariam"
+  },
+  "PresC": {
+    "1s": "fotografe",
+    "2s": "fotografes",
+    "3s": "fotografe",
+    "1p": "fotografemos",
+    "2p": "fotografeis",
+    "3p": "fotografem"
+  },
+  "PImpC": {
+    "1s": "fotografasse",
+    "2s": "fotografasses",
+    "3s": "fotografasse",
+    "1p": "fotografássemos",
+    "2p": "fotografásseis",
+    "3p": "fotografassem"
+  },
+  "FutSC": {
+    "1s": "fotografar",
+    "2s": "fotografares",
+    "3s": "fotografar",
+    "1p": "fotografarmos",
+    "2p": "fotografardes",
+    "3p": "fotografarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fotografa",
+    "3s": "fotografe",
+    "1p": "fotografemos",
+    "2p": "fotografai",
+    "3p": "fotografem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fotografes",
+    "3s": "não fotografe",
+    "1p": "não fotografemos",
+    "2p": "não fotografeis",
+    "3p": "não fotografem"
+  },
+  "Part-ter": {
+    "": "fotografado"
+  },
+  "Part-ser": {
+    "ms": "fotografado",
+    "fs": "fotografada",
+    "mp": "fotografados",
+    "fp": "fotografadas"
+  }
+}

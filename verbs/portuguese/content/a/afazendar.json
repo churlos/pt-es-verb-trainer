@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "afazendar"
+  },
+  "InfP": {
+    "1s": "afazendar",
+    "2s": "afazendares",
+    "3s": "afazendar",
+    "1p": "afazendarmos",
+    "2p": "afazendardes",
+    "3p": "afazendarem"
+  },
+  "Ger": {
+    "": "afazendando"
+  },
+  "PresI": {
+    "1s": "afazendo",
+    "2s": "afazendas",
+    "3s": "afazenda",
+    "1p": "afazendamos",
+    "2p": "afazendais",
+    "3p": "afazendam"
+  },
+  "PImpI": {
+    "1s": "afazendava",
+    "2s": "afazendavas",
+    "3s": "afazendava",
+    "1p": "afazendávamos",
+    "2p": "afazendáveis",
+    "3p": "afazendavam"
+  },
+  "PPSI": {
+    "1s": "afazendei",
+    "2s": "afazendaste",
+    "3s": "afazendou",
+    "1p": "afazendámos",
+    "2p": "afazendastes",
+    "3p": "afazendaram"
+  },
+  "PMQPSI": {
+    "1s": "afazendara",
+    "2s": "afazendaras",
+    "3s": "afazendara",
+    "1p": "afazendáramos",
+    "2p": "afazendáreis",
+    "3p": "afazendaram"
+  },
+  "FutSI": {
+    "1s": "afazendarei",
+    "2s": "afazendarás",
+    "3s": "afazendará",
+    "1p": "afazendaremos",
+    "2p": "afazendareis",
+    "3p": "afazendarão"
+  },
+  "CondS": {
+    "1s": "afazendaria",
+    "2s": "afazendarias",
+    "3s": "afazendaria",
+    "1p": "afazendaríamos",
+    "2p": "afazendaríeis",
+    "3p": "afazendariam"
+  },
+  "PresC": {
+    "1s": "afazende",
+    "2s": "afazendes",
+    "3s": "afazende",
+    "1p": "afazendemos",
+    "2p": "afazendeis",
+    "3p": "afazendem"
+  },
+  "PImpC": {
+    "1s": "afazendasse",
+    "2s": "afazendasses",
+    "3s": "afazendasse",
+    "1p": "afazendássemos",
+    "2p": "afazendásseis",
+    "3p": "afazendassem"
+  },
+  "FutSC": {
+    "1s": "afazendar",
+    "2s": "afazendares",
+    "3s": "afazendar",
+    "1p": "afazendarmos",
+    "2p": "afazendardes",
+    "3p": "afazendarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afazenda",
+    "3s": "afazende",
+    "1p": "afazendemos",
+    "2p": "afazendai",
+    "3p": "afazendem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não afazendes",
+    "3s": "não afazende",
+    "1p": "não afazendemos",
+    "2p": "não afazendeis",
+    "3p": "não afazendem"
+  },
+  "Part-ter": {
+    "": "afazendado"
+  },
+  "Part-ser": {
+    "ms": "afazendado",
+    "fs": "afazendada",
+    "mp": "afazendados",
+    "fp": "afazendadas"
+  }
+}

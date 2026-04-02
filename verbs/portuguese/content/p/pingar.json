@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pingar"
+  },
+  "InfP": {
+    "1s": "pingar",
+    "2s": "pingares",
+    "3s": "pingar",
+    "1p": "pingarmos",
+    "2p": "pingardes",
+    "3p": "pingarem"
+  },
+  "Ger": {
+    "": "pingando"
+  },
+  "PresI": {
+    "1s": "pingo",
+    "2s": "pingas",
+    "3s": "pinga",
+    "1p": "pingamos",
+    "2p": "pingais",
+    "3p": "pingam"
+  },
+  "PImpI": {
+    "1s": "pingava",
+    "2s": "pingavas",
+    "3s": "pingava",
+    "1p": "pingávamos",
+    "2p": "pingáveis",
+    "3p": "pingavam"
+  },
+  "PPSI": {
+    "1s": "pinguei",
+    "2s": "pingaste",
+    "3s": "pingou",
+    "1p": "pingámos",
+    "2p": "pingastes",
+    "3p": "pingaram"
+  },
+  "PMQPSI": {
+    "1s": "pingara",
+    "2s": "pingaras",
+    "3s": "pingara",
+    "1p": "pingáramos",
+    "2p": "pingáreis",
+    "3p": "pingaram"
+  },
+  "FutSI": {
+    "1s": "pingarei",
+    "2s": "pingarás",
+    "3s": "pingará",
+    "1p": "pingaremos",
+    "2p": "pingareis",
+    "3p": "pingarão"
+  },
+  "CondS": {
+    "1s": "pingaria",
+    "2s": "pingarias",
+    "3s": "pingaria",
+    "1p": "pingaríamos",
+    "2p": "pingaríeis",
+    "3p": "pingariam"
+  },
+  "PresC": {
+    "1s": "pingue",
+    "2s": "pingues",
+    "3s": "pingue",
+    "1p": "pinguemos",
+    "2p": "pingueis",
+    "3p": "pinguem"
+  },
+  "PImpC": {
+    "1s": "pingasse",
+    "2s": "pingasses",
+    "3s": "pingasse",
+    "1p": "pingássemos",
+    "2p": "pingásseis",
+    "3p": "pingassem"
+  },
+  "FutSC": {
+    "1s": "pingar",
+    "2s": "pingares",
+    "3s": "pingar",
+    "1p": "pingarmos",
+    "2p": "pingardes",
+    "3p": "pingarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pinga",
+    "3s": "pingue",
+    "1p": "pinguemos",
+    "2p": "pingai",
+    "3p": "pinguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pingues",
+    "3s": "não pingue",
+    "1p": "não pinguemos",
+    "2p": "não pingueis",
+    "3p": "não pinguem"
+  },
+  "Part-ter": {
+    "": "pingado"
+  },
+  "Part-ser": {
+    "ms": "pingado",
+    "fs": "pingada",
+    "mp": "pingados",
+    "fp": "pingadas"
+  }
+}

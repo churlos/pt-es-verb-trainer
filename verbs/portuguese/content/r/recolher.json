@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "recolher"
+  },
+  "InfP": {
+    "1s": "recolher",
+    "2s": "recolheres",
+    "3s": "recolher",
+    "1p": "recolhermos",
+    "2p": "recolherdes",
+    "3p": "recolherem"
+  },
+  "Ger": {
+    "": "recolhendo"
+  },
+  "PresI": {
+    "1s": "recolho",
+    "2s": "recolhes",
+    "3s": "recolhe",
+    "1p": "recolhemos",
+    "2p": "recolheis",
+    "3p": "recolhem"
+  },
+  "PImpI": {
+    "1s": "recolhia",
+    "2s": "recolhias",
+    "3s": "recolhia",
+    "1p": "recolhíamos",
+    "2p": "recolhíeis",
+    "3p": "recolhiam"
+  },
+  "PPSI": {
+    "1s": "recolhi",
+    "2s": "recolheste",
+    "3s": "recolheu",
+    "1p": "recolhemos",
+    "2p": "recolhestes",
+    "3p": "recolheram"
+  },
+  "PMQPSI": {
+    "1s": "recolhera",
+    "2s": "recolheras",
+    "3s": "recolhera",
+    "1p": "recolhêramos",
+    "2p": "recolhêreis",
+    "3p": "recolheram"
+  },
+  "FutSI": {
+    "1s": "recolherei",
+    "2s": "recolherás",
+    "3s": "recolherá",
+    "1p": "recolheremos",
+    "2p": "recolhereis",
+    "3p": "recolherão"
+  },
+  "CondS": {
+    "1s": "recolheria",
+    "2s": "recolherias",
+    "3s": "recolheria",
+    "1p": "recolheríamos",
+    "2p": "recolheríeis",
+    "3p": "recolheriam"
+  },
+  "PresC": {
+    "1s": "recolha",
+    "2s": "recolhas",
+    "3s": "recolha",
+    "1p": "recolhamos",
+    "2p": "recolhais",
+    "3p": "recolham"
+  },
+  "PImpC": {
+    "1s": "recolhesse",
+    "2s": "recolhesses",
+    "3s": "recolhesse",
+    "1p": "recolhêssemos",
+    "2p": "recolhêsseis",
+    "3p": "recolhessem"
+  },
+  "FutSC": {
+    "1s": "recolher",
+    "2s": "recolheres",
+    "3s": "recolher",
+    "1p": "recolhermos",
+    "2p": "recolherdes",
+    "3p": "recolherem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recolhe",
+    "3s": "recolha",
+    "1p": "recolhamos",
+    "2p": "recolhei",
+    "3p": "recolham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não recolhas",
+    "3s": "não recolha",
+    "1p": "não recolhamos",
+    "2p": "não recolhais",
+    "3p": "não recolham"
+  },
+  "Part-ter": {
+    "": "recolhido"
+  },
+  "Part-ser": {
+    "ms": "recolhido",
+    "fs": "recolhida",
+    "mp": "recolhidos",
+    "fp": "recolhidas"
+  }
+}

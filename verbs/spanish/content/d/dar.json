@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dar"
+  },
+  "Ger": {
+    "": "dando"
+  },
+  "PresI": {
+    "1s": "doy",
+    "2s": "das",
+    "3s": "da",
+    "1p": "damos",
+    "2p": "dais",
+    "3p": "dan"
+  },
+  "PImpI": {
+    "1s": "daba",
+    "2s": "dabas",
+    "3s": "daba",
+    "1p": "dábamos",
+    "2p": "dabais",
+    "3p": "daban"
+  },
+  "PPSI": {
+    "1s": "di",
+    "2s": "diste",
+    "3s": "dio",
+    "1p": "dimos",
+    "2p": "disteis",
+    "3p": "dieron"
+  },
+  "FutSI": {
+    "1s": "daré",
+    "2s": "darás",
+    "3s": "dará",
+    "1p": "daremos",
+    "2p": "daréis",
+    "3p": "darán"
+  },
+  "CondS": {
+    "1s": "daría",
+    "2s": "darías",
+    "3s": "daría",
+    "1p": "daríamos",
+    "2p": "daríais",
+    "3p": "darían"
+  },
+  "PresC": {
+    "1s": "dé",
+    "2s": "des",
+    "3s": "dé",
+    "1p": "demos",
+    "2p": "deis",
+    "3p": "den"
+  },
+  "PMQPSI": {
+    "1s": "diera",
+    "2s": "dieras",
+    "3s": "diera",
+    "1p": "diéramos",
+    "2p": "dierais",
+    "3p": "dieran"
+  },
+  "PImpC": {
+    "1s": "diese",
+    "2s": "dieses",
+    "3s": "diese",
+    "1p": "diésemos",
+    "2p": "dieseis",
+    "3p": "diesen"
+  },
+  "FutSC": {
+    "1s": "diere",
+    "2s": "dieres",
+    "3s": "diere",
+    "1p": "diéremos",
+    "2p": "diereis",
+    "3p": "dieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "da",
+    "3s": "dé",
+    "1p": "demos",
+    "2p": "dad",
+    "3p": "den"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no des",
+    "3s": "no dé",
+    "1p": "no demos",
+    "2p": "no deis",
+    "3p": "no den"
+  },
+  "Part-ter": {
+    "": "dado"
+  },
+  "Part-ser": {
+    "ms": "dado",
+    "fs": "dada",
+    "mp": "dados",
+    "fp": "dadas"
+  }
+}

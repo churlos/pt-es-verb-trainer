@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trasportar"
+  },
+  "Ger": {
+    "": "trasportando"
+  },
+  "PresI": {
+    "1s": "trasporto",
+    "2s": "trasportas",
+    "3s": "trasporta",
+    "1p": "trasportamos",
+    "2p": "trasportáis",
+    "3p": "trasportan"
+  },
+  "PImpI": {
+    "1s": "trasportaba",
+    "2s": "trasportabas",
+    "3s": "trasportaba",
+    "1p": "trasportábamos",
+    "2p": "trasportabais",
+    "3p": "trasportaban"
+  },
+  "PPSI": {
+    "1s": "trasporté",
+    "2s": "trasportaste",
+    "3s": "trasportó",
+    "1p": "trasportamos",
+    "2p": "trasportasteis",
+    "3p": "trasportaron"
+  },
+  "FutSI": {
+    "1s": "trasportaré",
+    "2s": "trasportarás",
+    "3s": "trasportará",
+    "1p": "trasportaremos",
+    "2p": "trasportaréis",
+    "3p": "trasportarán"
+  },
+  "CondS": {
+    "1s": "trasportaría",
+    "2s": "trasportarías",
+    "3s": "trasportaría",
+    "1p": "trasportaríamos",
+    "2p": "trasportaríais",
+    "3p": "trasportarían"
+  },
+  "PresC": {
+    "1s": "trasporte",
+    "2s": "trasportes",
+    "3s": "trasporte",
+    "1p": "trasportemos",
+    "2p": "trasportéis",
+    "3p": "trasporten"
+  },
+  "PMQPSI": {
+    "1s": "trasportara",
+    "2s": "trasportaras",
+    "3s": "trasportara",
+    "1p": "trasportáramos",
+    "2p": "trasportarais",
+    "3p": "trasportaran"
+  },
+  "PImpC": {
+    "1s": "trasportase",
+    "2s": "trasportases",
+    "3s": "trasportase",
+    "1p": "trasportásemos",
+    "2p": "trasportaseis",
+    "3p": "trasportasen"
+  },
+  "FutSC": {
+    "1s": "trasportare",
+    "2s": "trasportares",
+    "3s": "trasportare",
+    "1p": "trasportáremos",
+    "2p": "trasportareis",
+    "3p": "trasportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trasporta",
+    "3s": "trasporte",
+    "1p": "trasportemos",
+    "2p": "trasportad",
+    "3p": "trasporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trasportes",
+    "3s": "no trasporte",
+    "1p": "no trasportemos",
+    "2p": "no trasportéis",
+    "3p": "no trasporten"
+  },
+  "Part-ter": {
+    "": "trasportado"
+  },
+  "Part-ser": {
+    "ms": "trasportado",
+    "fs": "trasportada",
+    "mp": "trasportados",
+    "fp": "trasportadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "timar"
+  },
+  "Ger": {
+    "": "timando"
+  },
+  "PresI": {
+    "1s": "timo",
+    "2s": "timas",
+    "3s": "tima",
+    "1p": "timamos",
+    "2p": "timáis",
+    "3p": "timan"
+  },
+  "PImpI": {
+    "1s": "timaba",
+    "2s": "timabas",
+    "3s": "timaba",
+    "1p": "timábamos",
+    "2p": "timabais",
+    "3p": "timaban"
+  },
+  "PPSI": {
+    "1s": "timé",
+    "2s": "timaste",
+    "3s": "timó",
+    "1p": "timamos",
+    "2p": "timasteis",
+    "3p": "timaron"
+  },
+  "FutSI": {
+    "1s": "timaré",
+    "2s": "timarás",
+    "3s": "timará",
+    "1p": "timaremos",
+    "2p": "timaréis",
+    "3p": "timarán"
+  },
+  "CondS": {
+    "1s": "timaría",
+    "2s": "timarías",
+    "3s": "timaría",
+    "1p": "timaríamos",
+    "2p": "timaríais",
+    "3p": "timarían"
+  },
+  "PresC": {
+    "1s": "time",
+    "2s": "times",
+    "3s": "time",
+    "1p": "timemos",
+    "2p": "timéis",
+    "3p": "timen"
+  },
+  "PMQPSI": {
+    "1s": "timara",
+    "2s": "timaras",
+    "3s": "timara",
+    "1p": "timáramos",
+    "2p": "timarais",
+    "3p": "timaran"
+  },
+  "PImpC": {
+    "1s": "timase",
+    "2s": "timases",
+    "3s": "timase",
+    "1p": "timásemos",
+    "2p": "timaseis",
+    "3p": "timasen"
+  },
+  "FutSC": {
+    "1s": "timare",
+    "2s": "timares",
+    "3s": "timare",
+    "1p": "timáremos",
+    "2p": "timareis",
+    "3p": "timaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tima",
+    "3s": "time",
+    "1p": "timemos",
+    "2p": "timad",
+    "3p": "timen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no times",
+    "3s": "no time",
+    "1p": "no timemos",
+    "2p": "no timéis",
+    "3p": "no timen"
+  },
+  "Part-ter": {
+    "": "timado"
+  },
+  "Part-ser": {
+    "ms": "timado",
+    "fs": "timada",
+    "mp": "timados",
+    "fp": "timadas"
+  }
+}

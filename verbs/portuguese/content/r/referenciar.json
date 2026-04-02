@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "referenciar"
+  },
+  "InfP": {
+    "1s": "referenciar",
+    "2s": "referenciares",
+    "3s": "referenciar",
+    "1p": "referenciarmos",
+    "2p": "referenciardes",
+    "3p": "referenciarem"
+  },
+  "Ger": {
+    "": "referenciando"
+  },
+  "PresI": {
+    "1s": "referencio",
+    "2s": "referencias",
+    "3s": "referencia",
+    "1p": "referenciamos",
+    "2p": "referenciais",
+    "3p": "referenciam"
+  },
+  "PImpI": {
+    "1s": "referenciava",
+    "2s": "referenciavas",
+    "3s": "referenciava",
+    "1p": "referenciávamos",
+    "2p": "referenciáveis",
+    "3p": "referenciavam"
+  },
+  "PPSI": {
+    "1s": "referenciei",
+    "2s": "referenciaste",
+    "3s": "referenciou",
+    "1p": "referenciámos",
+    "2p": "referenciastes",
+    "3p": "referenciaram"
+  },
+  "PMQPSI": {
+    "1s": "referenciara",
+    "2s": "referenciaras",
+    "3s": "referenciara",
+    "1p": "referenciáramos",
+    "2p": "referenciáreis",
+    "3p": "referenciaram"
+  },
+  "FutSI": {
+    "1s": "referenciarei",
+    "2s": "referenciarás",
+    "3s": "referenciará",
+    "1p": "referenciaremos",
+    "2p": "referenciareis",
+    "3p": "referenciarão"
+  },
+  "CondS": {
+    "1s": "referenciaria",
+    "2s": "referenciarias",
+    "3s": "referenciaria",
+    "1p": "referenciaríamos",
+    "2p": "referenciaríeis",
+    "3p": "referenciariam"
+  },
+  "PresC": {
+    "1s": "referencie",
+    "2s": "referencies",
+    "3s": "referencie",
+    "1p": "referenciemos",
+    "2p": "referencieis",
+    "3p": "referenciem"
+  },
+  "PImpC": {
+    "1s": "referenciasse",
+    "2s": "referenciasses",
+    "3s": "referenciasse",
+    "1p": "referenciássemos",
+    "2p": "referenciásseis",
+    "3p": "referenciassem"
+  },
+  "FutSC": {
+    "1s": "referenciar",
+    "2s": "referenciares",
+    "3s": "referenciar",
+    "1p": "referenciarmos",
+    "2p": "referenciardes",
+    "3p": "referenciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "referencia",
+    "3s": "referencie",
+    "1p": "referenciemos",
+    "2p": "referenciai",
+    "3p": "referenciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não referencies",
+    "3s": "não referencie",
+    "1p": "não referenciemos",
+    "2p": "não referencieis",
+    "3p": "não referenciem"
+  },
+  "Part-ter": {
+    "": "referenciado"
+  },
+  "Part-ser": {
+    "ms": "referenciado",
+    "fs": "referenciada",
+    "mp": "referenciados",
+    "fp": "referenciadas"
+  }
+}

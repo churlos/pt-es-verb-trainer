@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desbloquear"
+  },
+  "InfP": {
+    "1s": "desbloquear",
+    "2s": "desbloqueares",
+    "3s": "desbloquear",
+    "1p": "desbloquearmos",
+    "2p": "desbloqueardes",
+    "3p": "desbloquearem"
+  },
+  "Ger": {
+    "": "desbloqueando"
+  },
+  "PresI": {
+    "1s": "desbloqueio",
+    "2s": "desbloqueias",
+    "3s": "desbloqueia",
+    "1p": "desbloqueamos",
+    "2p": "desbloqueais",
+    "3p": "desbloqueiam"
+  },
+  "PImpI": {
+    "1s": "desbloqueava",
+    "2s": "desbloqueavas",
+    "3s": "desbloqueava",
+    "1p": "desbloqueávamos",
+    "2p": "desbloqueáveis",
+    "3p": "desbloqueavam"
+  },
+  "PPSI": {
+    "1s": "desbloqueei",
+    "2s": "desbloqueaste",
+    "3s": "desbloqueou",
+    "1p": "desbloqueámos",
+    "2p": "desbloqueastes",
+    "3p": "desbloquearam"
+  },
+  "PMQPSI": {
+    "1s": "desbloqueara",
+    "2s": "desbloquearas",
+    "3s": "desbloqueara",
+    "1p": "desbloqueáramos",
+    "2p": "desbloqueáreis",
+    "3p": "desbloquearam"
+  },
+  "FutSI": {
+    "1s": "desbloquearei",
+    "2s": "desbloquearás",
+    "3s": "desbloqueará",
+    "1p": "desbloquearemos",
+    "2p": "desbloqueareis",
+    "3p": "desbloquearão"
+  },
+  "CondS": {
+    "1s": "desbloquearia",
+    "2s": "desbloquearias",
+    "3s": "desbloquearia",
+    "1p": "desbloquearíamos",
+    "2p": "desbloquearíeis",
+    "3p": "desbloqueariam"
+  },
+  "PresC": {
+    "1s": "desbloqueie",
+    "2s": "desbloqueies",
+    "3s": "desbloqueie",
+    "1p": "desbloqueemos",
+    "2p": "desbloqueeis",
+    "3p": "desbloqueiem"
+  },
+  "PImpC": {
+    "1s": "desbloqueasse",
+    "2s": "desbloqueasses",
+    "3s": "desbloqueasse",
+    "1p": "desbloqueássemos",
+    "2p": "desbloqueásseis",
+    "3p": "desbloqueassem"
+  },
+  "FutSC": {
+    "1s": "desbloquear",
+    "2s": "desbloqueares",
+    "3s": "desbloquear",
+    "1p": "desbloquearmos",
+    "2p": "desbloqueardes",
+    "3p": "desbloquearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desbloqueia",
+    "3s": "desbloqueie",
+    "1p": "desbloqueemos",
+    "2p": "desbloqueai",
+    "3p": "desbloqueiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desbloqueies",
+    "3s": "não desbloqueie",
+    "1p": "não desbloqueemos",
+    "2p": "não desbloqueeis",
+    "3p": "não desbloqueiem"
+  },
+  "Part-ter": {
+    "": "desbloqueado"
+  },
+  "Part-ser": {
+    "ms": "desbloqueado",
+    "fs": "desbloqueada",
+    "mp": "desbloqueados",
+    "fp": "desbloqueadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aplacar"
+  },
+  "InfP": {
+    "1s": "aplacar",
+    "2s": "aplacares",
+    "3s": "aplacar",
+    "1p": "aplacarmos",
+    "2p": "aplacardes",
+    "3p": "aplacarem"
+  },
+  "Ger": {
+    "": "aplacando"
+  },
+  "PresI": {
+    "1s": "aplaco",
+    "2s": "aplacas",
+    "3s": "aplaca",
+    "1p": "aplacamos",
+    "2p": "aplacais",
+    "3p": "aplacam"
+  },
+  "PImpI": {
+    "1s": "aplacava",
+    "2s": "aplacavas",
+    "3s": "aplacava",
+    "1p": "aplacávamos",
+    "2p": "aplacáveis",
+    "3p": "aplacavam"
+  },
+  "PPSI": {
+    "1s": "aplaquei",
+    "2s": "aplacaste",
+    "3s": "aplacou",
+    "1p": "aplacámos",
+    "2p": "aplacastes",
+    "3p": "aplacaram"
+  },
+  "PMQPSI": {
+    "1s": "aplacara",
+    "2s": "aplacaras",
+    "3s": "aplacara",
+    "1p": "aplacáramos",
+    "2p": "aplacáreis",
+    "3p": "aplacaram"
+  },
+  "FutSI": {
+    "1s": "aplacarei",
+    "2s": "aplacarás",
+    "3s": "aplacará",
+    "1p": "aplacaremos",
+    "2p": "aplacareis",
+    "3p": "aplacarão"
+  },
+  "CondS": {
+    "1s": "aplacaria",
+    "2s": "aplacarias",
+    "3s": "aplacaria",
+    "1p": "aplacaríamos",
+    "2p": "aplacaríeis",
+    "3p": "aplacariam"
+  },
+  "PresC": {
+    "1s": "aplaque",
+    "2s": "aplaques",
+    "3s": "aplaque",
+    "1p": "aplaquemos",
+    "2p": "aplaqueis",
+    "3p": "aplaquem"
+  },
+  "PImpC": {
+    "1s": "aplacasse",
+    "2s": "aplacasses",
+    "3s": "aplacasse",
+    "1p": "aplacássemos",
+    "2p": "aplacásseis",
+    "3p": "aplacassem"
+  },
+  "FutSC": {
+    "1s": "aplacar",
+    "2s": "aplacares",
+    "3s": "aplacar",
+    "1p": "aplacarmos",
+    "2p": "aplacardes",
+    "3p": "aplacarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aplaca",
+    "3s": "aplaque",
+    "1p": "aplaquemos",
+    "2p": "aplacai",
+    "3p": "aplaquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aplaques",
+    "3s": "não aplaque",
+    "1p": "não aplaquemos",
+    "2p": "não aplaqueis",
+    "3p": "não aplaquem"
+  },
+  "Part-ter": {
+    "": "aplacado"
+  },
+  "Part-ser": {
+    "ms": "aplacado",
+    "fs": "aplacada",
+    "mp": "aplacados",
+    "fp": "aplacadas"
+  }
+}

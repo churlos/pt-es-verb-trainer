@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "succeder"
+  },
+  "InfP": {
+    "1s": "succeder",
+    "2s": "succederes",
+    "3s": "succeder",
+    "1p": "succedermos",
+    "2p": "succederdes",
+    "3p": "succederem"
+  },
+  "Ger": {
+    "": "succedendo"
+  },
+  "PresI": {
+    "1s": "succedo",
+    "2s": "succedes",
+    "3s": "succede",
+    "1p": "succedemos",
+    "2p": "succedeis",
+    "3p": "succedem"
+  },
+  "PImpI": {
+    "1s": "succedia",
+    "2s": "succedias",
+    "3s": "succedia",
+    "1p": "succedíamos",
+    "2p": "succedíeis",
+    "3p": "succediam"
+  },
+  "PPSI": {
+    "1s": "succedi",
+    "2s": "succedeste",
+    "3s": "succedeu",
+    "1p": "succedemos",
+    "2p": "succedestes",
+    "3p": "succederam"
+  },
+  "PMQPSI": {
+    "1s": "succedera",
+    "2s": "succederas",
+    "3s": "succedera",
+    "1p": "succedêramos",
+    "2p": "succedêreis",
+    "3p": "succederam"
+  },
+  "FutSI": {
+    "1s": "succederei",
+    "2s": "succederás",
+    "3s": "succederá",
+    "1p": "succederemos",
+    "2p": "succedereis",
+    "3p": "succederão"
+  },
+  "CondS": {
+    "1s": "succederia",
+    "2s": "succederias",
+    "3s": "succederia",
+    "1p": "succederíamos",
+    "2p": "succederíeis",
+    "3p": "succederiam"
+  },
+  "PresC": {
+    "1s": "succeda",
+    "2s": "succedas",
+    "3s": "succeda",
+    "1p": "succedamos",
+    "2p": "succedais",
+    "3p": "succedam"
+  },
+  "PImpC": {
+    "1s": "succedesse",
+    "2s": "succedesses",
+    "3s": "succedesse",
+    "1p": "succedêssemos",
+    "2p": "succedêsseis",
+    "3p": "succedessem"
+  },
+  "FutSC": {
+    "1s": "succeder",
+    "2s": "succederes",
+    "3s": "succeder",
+    "1p": "succedermos",
+    "2p": "succederdes",
+    "3p": "succederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "succede",
+    "3s": "succeda",
+    "1p": "succedamos",
+    "2p": "succedei",
+    "3p": "succedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não succedas",
+    "3s": "não succeda",
+    "1p": "não succedamos",
+    "2p": "não succedais",
+    "3p": "não succedam"
+  },
+  "Part-ter": {
+    "": "succedido"
+  },
+  "Part-ser": {
+    "ms": "succedido",
+    "fs": "succedida",
+    "mp": "succedidos",
+    "fp": "succedidas"
+  }
+}

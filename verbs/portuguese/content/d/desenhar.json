@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desenhar"
+  },
+  "InfP": {
+    "1s": "desenhar",
+    "2s": "desenhares",
+    "3s": "desenhar",
+    "1p": "desenharmos",
+    "2p": "desenhardes",
+    "3p": "desenharem"
+  },
+  "Ger": {
+    "": "desenhando"
+  },
+  "PresI": {
+    "1s": "desenho",
+    "2s": "desenhas",
+    "3s": "desenha",
+    "1p": "desenhamos",
+    "2p": "desenhais",
+    "3p": "desenham"
+  },
+  "PImpI": {
+    "1s": "desenhava",
+    "2s": "desenhavas",
+    "3s": "desenhava",
+    "1p": "desenhávamos",
+    "2p": "desenháveis",
+    "3p": "desenhavam"
+  },
+  "PPSI": {
+    "1s": "desenhei",
+    "2s": "desenhaste",
+    "3s": "desenhou",
+    "1p": "desenhámos",
+    "2p": "desenhastes",
+    "3p": "desenharam"
+  },
+  "PMQPSI": {
+    "1s": "desenhara",
+    "2s": "desenharas",
+    "3s": "desenhara",
+    "1p": "desenháramos",
+    "2p": "desenháreis",
+    "3p": "desenharam"
+  },
+  "FutSI": {
+    "1s": "desenharei",
+    "2s": "desenharás",
+    "3s": "desenhará",
+    "1p": "desenharemos",
+    "2p": "desenhareis",
+    "3p": "desenharão"
+  },
+  "CondS": {
+    "1s": "desenharia",
+    "2s": "desenharias",
+    "3s": "desenharia",
+    "1p": "desenharíamos",
+    "2p": "desenharíeis",
+    "3p": "desenhariam"
+  },
+  "PresC": {
+    "1s": "desenhe",
+    "2s": "desenhes",
+    "3s": "desenhe",
+    "1p": "desenhemos",
+    "2p": "desenheis",
+    "3p": "desenhem"
+  },
+  "PImpC": {
+    "1s": "desenhasse",
+    "2s": "desenhasses",
+    "3s": "desenhasse",
+    "1p": "desenhássemos",
+    "2p": "desenhásseis",
+    "3p": "desenhassem"
+  },
+  "FutSC": {
+    "1s": "desenhar",
+    "2s": "desenhares",
+    "3s": "desenhar",
+    "1p": "desenharmos",
+    "2p": "desenhardes",
+    "3p": "desenharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desenha",
+    "3s": "desenhe",
+    "1p": "desenhemos",
+    "2p": "desenhai",
+    "3p": "desenhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desenhes",
+    "3s": "não desenhe",
+    "1p": "não desenhemos",
+    "2p": "não desenheis",
+    "3p": "não desenhem"
+  },
+  "Part-ter": {
+    "": "desenhado"
+  },
+  "Part-ser": {
+    "ms": "desenhado",
+    "fs": "desenhada",
+    "mp": "desenhados",
+    "fp": "desenhadas"
+  }
+}

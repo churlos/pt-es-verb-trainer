@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "castigar"
+  },
+  "Ger": {
+    "": "castigando"
+  },
+  "PresI": {
+    "1s": "castigo",
+    "2s": "castigas",
+    "3s": "castiga",
+    "1p": "castigamos",
+    "2p": "castigáis",
+    "3p": "castigan"
+  },
+  "PImpI": {
+    "1s": "castigaba",
+    "2s": "castigabas",
+    "3s": "castigaba",
+    "1p": "castigábamos",
+    "2p": "castigabais",
+    "3p": "castigaban"
+  },
+  "PPSI": {
+    "1s": "castigué",
+    "2s": "castigaste",
+    "3s": "castigó",
+    "1p": "castigamos",
+    "2p": "castigasteis",
+    "3p": "castigaron"
+  },
+  "FutSI": {
+    "1s": "castigaré",
+    "2s": "castigarás",
+    "3s": "castigará",
+    "1p": "castigaremos",
+    "2p": "castigaréis",
+    "3p": "castigarán"
+  },
+  "CondS": {
+    "1s": "castigaría",
+    "2s": "castigarías",
+    "3s": "castigaría",
+    "1p": "castigaríamos",
+    "2p": "castigaríais",
+    "3p": "castigarían"
+  },
+  "PresC": {
+    "1s": "castigue",
+    "2s": "castigues",
+    "3s": "castigue",
+    "1p": "castiguemos",
+    "2p": "castiguéis",
+    "3p": "castiguen"
+  },
+  "PMQPSI": {
+    "1s": "castigara",
+    "2s": "castigaras",
+    "3s": "castigara",
+    "1p": "castigáramos",
+    "2p": "castigarais",
+    "3p": "castigaran"
+  },
+  "PImpC": {
+    "1s": "castigase",
+    "2s": "castigases",
+    "3s": "castigase",
+    "1p": "castigásemos",
+    "2p": "castigaseis",
+    "3p": "castigasen"
+  },
+  "FutSC": {
+    "1s": "castigare",
+    "2s": "castigares",
+    "3s": "castigare",
+    "1p": "castigáremos",
+    "2p": "castigareis",
+    "3p": "castigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "castiga",
+    "3s": "castigue",
+    "1p": "castiguemos",
+    "2p": "castigad",
+    "3p": "castiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no castigues",
+    "3s": "no castigue",
+    "1p": "no castiguemos",
+    "2p": "no castiguéis",
+    "3p": "no castiguen"
+  },
+  "Part-ter": {
+    "": "castigado"
+  },
+  "Part-ser": {
+    "ms": "castigado",
+    "fs": "castigada",
+    "mp": "castigados",
+    "fp": "castigadas"
+  }
+}

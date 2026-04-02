@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desfechar"
+  },
+  "InfP": {
+    "1s": "desfechar",
+    "2s": "desfechares",
+    "3s": "desfechar",
+    "1p": "desfecharmos",
+    "2p": "desfechardes",
+    "3p": "desfecharem"
+  },
+  "Ger": {
+    "": "desfechando"
+  },
+  "PresI": {
+    "1s": "desfecho",
+    "2s": "desfechas",
+    "3s": "desfecha",
+    "1p": "desfechamos",
+    "2p": "desfechais",
+    "3p": "desfecham"
+  },
+  "PImpI": {
+    "1s": "desfechava",
+    "2s": "desfechavas",
+    "3s": "desfechava",
+    "1p": "desfechávamos",
+    "2p": "desfecháveis",
+    "3p": "desfechavam"
+  },
+  "PPSI": {
+    "1s": "desfechei",
+    "2s": "desfechaste",
+    "3s": "desfechou",
+    "1p": "desfechámos",
+    "2p": "desfechastes",
+    "3p": "desfecharam"
+  },
+  "PMQPSI": {
+    "1s": "desfechara",
+    "2s": "desfecharas",
+    "3s": "desfechara",
+    "1p": "desfecháramos",
+    "2p": "desfecháreis",
+    "3p": "desfecharam"
+  },
+  "FutSI": {
+    "1s": "desfecharei",
+    "2s": "desfecharás",
+    "3s": "desfechará",
+    "1p": "desfecharemos",
+    "2p": "desfechareis",
+    "3p": "desfecharão"
+  },
+  "CondS": {
+    "1s": "desfecharia",
+    "2s": "desfecharias",
+    "3s": "desfecharia",
+    "1p": "desfecharíamos",
+    "2p": "desfecharíeis",
+    "3p": "desfechariam"
+  },
+  "PresC": {
+    "1s": "desfeche",
+    "2s": "desfeches",
+    "3s": "desfeche",
+    "1p": "desfechemos",
+    "2p": "desfecheis",
+    "3p": "desfechem"
+  },
+  "PImpC": {
+    "1s": "desfechasse",
+    "2s": "desfechasses",
+    "3s": "desfechasse",
+    "1p": "desfechássemos",
+    "2p": "desfechásseis",
+    "3p": "desfechassem"
+  },
+  "FutSC": {
+    "1s": "desfechar",
+    "2s": "desfechares",
+    "3s": "desfechar",
+    "1p": "desfecharmos",
+    "2p": "desfechardes",
+    "3p": "desfecharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desfecha",
+    "3s": "desfeche",
+    "1p": "desfechemos",
+    "2p": "desfechai",
+    "3p": "desfechem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desfeches",
+    "3s": "não desfeche",
+    "1p": "não desfechemos",
+    "2p": "não desfecheis",
+    "3p": "não desfechem"
+  },
+  "Part-ter": {
+    "": "desfechado"
+  },
+  "Part-ser": {
+    "ms": "desfechado",
+    "fs": "desfechada",
+    "mp": "desfechados",
+    "fp": "desfechadas"
+  }
+}

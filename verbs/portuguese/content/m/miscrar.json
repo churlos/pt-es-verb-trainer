@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "miscrar"
+  },
+  "InfP": {
+    "1s": "miscrar",
+    "2s": "miscrares",
+    "3s": "miscrar",
+    "1p": "miscrarmos",
+    "2p": "miscrardes",
+    "3p": "miscrarem"
+  },
+  "Ger": {
+    "": "miscrando"
+  },
+  "PresI": {
+    "1s": "miscro",
+    "2s": "miscras",
+    "3s": "miscra",
+    "1p": "miscramos",
+    "2p": "miscrais",
+    "3p": "miscram"
+  },
+  "PImpI": {
+    "1s": "miscrava",
+    "2s": "miscravas",
+    "3s": "miscrava",
+    "1p": "miscrávamos",
+    "2p": "miscráveis",
+    "3p": "miscravam"
+  },
+  "PPSI": {
+    "1s": "miscrei",
+    "2s": "miscraste",
+    "3s": "miscrou",
+    "1p": "miscrámos",
+    "2p": "miscrastes",
+    "3p": "miscraram"
+  },
+  "PMQPSI": {
+    "1s": "miscrara",
+    "2s": "miscraras",
+    "3s": "miscrara",
+    "1p": "miscráramos",
+    "2p": "miscráreis",
+    "3p": "miscraram"
+  },
+  "FutSI": {
+    "1s": "miscrarei",
+    "2s": "miscrarás",
+    "3s": "miscrará",
+    "1p": "miscraremos",
+    "2p": "miscrareis",
+    "3p": "miscrarão"
+  },
+  "CondS": {
+    "1s": "miscraria",
+    "2s": "miscrarias",
+    "3s": "miscraria",
+    "1p": "miscraríamos",
+    "2p": "miscraríeis",
+    "3p": "miscrariam"
+  },
+  "PresC": {
+    "1s": "miscre",
+    "2s": "miscres",
+    "3s": "miscre",
+    "1p": "miscremos",
+    "2p": "miscreis",
+    "3p": "miscrem"
+  },
+  "PImpC": {
+    "1s": "miscrasse",
+    "2s": "miscrasses",
+    "3s": "miscrasse",
+    "1p": "miscrássemos",
+    "2p": "miscrásseis",
+    "3p": "miscrassem"
+  },
+  "FutSC": {
+    "1s": "miscrar",
+    "2s": "miscrares",
+    "3s": "miscrar",
+    "1p": "miscrarmos",
+    "2p": "miscrardes",
+    "3p": "miscrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "miscra",
+    "3s": "miscre",
+    "1p": "miscremos",
+    "2p": "miscrai",
+    "3p": "miscrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não miscres",
+    "3s": "não miscre",
+    "1p": "não miscremos",
+    "2p": "não miscreis",
+    "3p": "não miscrem"
+  },
+  "Part-ter": {
+    "": "miscrado"
+  },
+  "Part-ser": {
+    "ms": "miscrado",
+    "fs": "miscrada",
+    "mp": "miscrados",
+    "fp": "miscradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "supervisar"
+  },
+  "Ger": {
+    "": "supervisando"
+  },
+  "PresI": {
+    "1s": "superviso",
+    "2s": "supervisas",
+    "3s": "supervisa",
+    "1p": "supervisamos",
+    "2p": "supervisáis",
+    "3p": "supervisan"
+  },
+  "PImpI": {
+    "1s": "supervisaba",
+    "2s": "supervisabas",
+    "3s": "supervisaba",
+    "1p": "supervisábamos",
+    "2p": "supervisabais",
+    "3p": "supervisaban"
+  },
+  "PPSI": {
+    "1s": "supervisé",
+    "2s": "supervisaste",
+    "3s": "supervisó",
+    "1p": "supervisamos",
+    "2p": "supervisasteis",
+    "3p": "supervisaron"
+  },
+  "FutSI": {
+    "1s": "supervisaré",
+    "2s": "supervisarás",
+    "3s": "supervisará",
+    "1p": "supervisaremos",
+    "2p": "supervisaréis",
+    "3p": "supervisarán"
+  },
+  "CondS": {
+    "1s": "supervisaría",
+    "2s": "supervisarías",
+    "3s": "supervisaría",
+    "1p": "supervisaríamos",
+    "2p": "supervisaríais",
+    "3p": "supervisarían"
+  },
+  "PresC": {
+    "1s": "supervise",
+    "2s": "supervises",
+    "3s": "supervise",
+    "1p": "supervisemos",
+    "2p": "superviséis",
+    "3p": "supervisen"
+  },
+  "PMQPSI": {
+    "1s": "supervisara",
+    "2s": "supervisaras",
+    "3s": "supervisara",
+    "1p": "supervisáramos",
+    "2p": "supervisarais",
+    "3p": "supervisaran"
+  },
+  "PImpC": {
+    "1s": "supervisase",
+    "2s": "supervisases",
+    "3s": "supervisase",
+    "1p": "supervisásemos",
+    "2p": "supervisaseis",
+    "3p": "supervisasen"
+  },
+  "FutSC": {
+    "1s": "supervisare",
+    "2s": "supervisares",
+    "3s": "supervisare",
+    "1p": "supervisáremos",
+    "2p": "supervisareis",
+    "3p": "supervisaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "supervisa",
+    "3s": "supervise",
+    "1p": "supervisemos",
+    "2p": "supervisad",
+    "3p": "supervisen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no supervises",
+    "3s": "no supervise",
+    "1p": "no supervisemos",
+    "2p": "no superviséis",
+    "3p": "no supervisen"
+  },
+  "Part-ter": {
+    "": "supervisado"
+  },
+  "Part-ser": {
+    "ms": "supervisado",
+    "fs": "supervisada",
+    "mp": "supervisados",
+    "fp": "supervisadas"
+  }
+}

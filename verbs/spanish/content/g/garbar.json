@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "garbar"
+  },
+  "Ger": {
+    "": "garbando"
+  },
+  "PresI": {
+    "1s": "garbo",
+    "2s": "garbas",
+    "3s": "garba",
+    "1p": "garbamos",
+    "2p": "garbáis",
+    "3p": "garban"
+  },
+  "PImpI": {
+    "1s": "garbaba",
+    "2s": "garbabas",
+    "3s": "garbaba",
+    "1p": "garbábamos",
+    "2p": "garbabais",
+    "3p": "garbaban"
+  },
+  "PPSI": {
+    "1s": "garbé",
+    "2s": "garbaste",
+    "3s": "garbó",
+    "1p": "garbamos",
+    "2p": "garbasteis",
+    "3p": "garbaron"
+  },
+  "FutSI": {
+    "1s": "garbaré",
+    "2s": "garbarás",
+    "3s": "garbará",
+    "1p": "garbaremos",
+    "2p": "garbaréis",
+    "3p": "garbarán"
+  },
+  "CondS": {
+    "1s": "garbaría",
+    "2s": "garbarías",
+    "3s": "garbaría",
+    "1p": "garbaríamos",
+    "2p": "garbaríais",
+    "3p": "garbarían"
+  },
+  "PresC": {
+    "1s": "garbe",
+    "2s": "garbes",
+    "3s": "garbe",
+    "1p": "garbemos",
+    "2p": "garbéis",
+    "3p": "garben"
+  },
+  "PMQPSI": {
+    "1s": "garbara",
+    "2s": "garbaras",
+    "3s": "garbara",
+    "1p": "garbáramos",
+    "2p": "garbarais",
+    "3p": "garbaran"
+  },
+  "PImpC": {
+    "1s": "garbase",
+    "2s": "garbases",
+    "3s": "garbase",
+    "1p": "garbásemos",
+    "2p": "garbaseis",
+    "3p": "garbasen"
+  },
+  "FutSC": {
+    "1s": "garbare",
+    "2s": "garbares",
+    "3s": "garbare",
+    "1p": "garbáremos",
+    "2p": "garbareis",
+    "3p": "garbaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "garba",
+    "3s": "garbe",
+    "1p": "garbemos",
+    "2p": "garbad",
+    "3p": "garben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no garbes",
+    "3s": "no garbe",
+    "1p": "no garbemos",
+    "2p": "no garbéis",
+    "3p": "no garben"
+  },
+  "Part-ter": {
+    "": "garbado"
+  },
+  "Part-ser": {
+    "ms": "garbado",
+    "fs": "garbada",
+    "mp": "garbados",
+    "fp": "garbadas"
+  }
+}

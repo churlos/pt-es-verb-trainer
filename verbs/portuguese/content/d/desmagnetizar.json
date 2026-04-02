@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desmagnetizar"
+  },
+  "InfP": {
+    "1s": "desmagnetizar",
+    "2s": "desmagnetizares",
+    "3s": "desmagnetizar",
+    "1p": "desmagnetizarmos",
+    "2p": "desmagnetizardes",
+    "3p": "desmagnetizarem"
+  },
+  "Ger": {
+    "": "desmagnetizando"
+  },
+  "PresI": {
+    "1s": "desmagnetizo",
+    "2s": "desmagnetizas",
+    "3s": "desmagnetiza",
+    "1p": "desmagnetizamos",
+    "2p": "desmagnetizais",
+    "3p": "desmagnetizam"
+  },
+  "PImpI": {
+    "1s": "desmagnetizava",
+    "2s": "desmagnetizavas",
+    "3s": "desmagnetizava",
+    "1p": "desmagnetizávamos",
+    "2p": "desmagnetizáveis",
+    "3p": "desmagnetizavam"
+  },
+  "PPSI": {
+    "1s": "desmagnetizei",
+    "2s": "desmagnetizaste",
+    "3s": "desmagnetizou",
+    "1p": "desmagnetizámos",
+    "2p": "desmagnetizastes",
+    "3p": "desmagnetizaram"
+  },
+  "PMQPSI": {
+    "1s": "desmagnetizara",
+    "2s": "desmagnetizaras",
+    "3s": "desmagnetizara",
+    "1p": "desmagnetizáramos",
+    "2p": "desmagnetizáreis",
+    "3p": "desmagnetizaram"
+  },
+  "FutSI": {
+    "1s": "desmagnetizarei",
+    "2s": "desmagnetizarás",
+    "3s": "desmagnetizará",
+    "1p": "desmagnetizaremos",
+    "2p": "desmagnetizareis",
+    "3p": "desmagnetizarão"
+  },
+  "CondS": {
+    "1s": "desmagnetizaria",
+    "2s": "desmagnetizarias",
+    "3s": "desmagnetizaria",
+    "1p": "desmagnetizaríamos",
+    "2p": "desmagnetizaríeis",
+    "3p": "desmagnetizariam"
+  },
+  "PresC": {
+    "1s": "desmagnetize",
+    "2s": "desmagnetizes",
+    "3s": "desmagnetize",
+    "1p": "desmagnetizemos",
+    "2p": "desmagnetizeis",
+    "3p": "desmagnetizem"
+  },
+  "PImpC": {
+    "1s": "desmagnetizasse",
+    "2s": "desmagnetizasses",
+    "3s": "desmagnetizasse",
+    "1p": "desmagnetizássemos",
+    "2p": "desmagnetizásseis",
+    "3p": "desmagnetizassem"
+  },
+  "FutSC": {
+    "1s": "desmagnetizar",
+    "2s": "desmagnetizares",
+    "3s": "desmagnetizar",
+    "1p": "desmagnetizarmos",
+    "2p": "desmagnetizardes",
+    "3p": "desmagnetizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desmagnetiza",
+    "3s": "desmagnetize",
+    "1p": "desmagnetizemos",
+    "2p": "desmagnetizai",
+    "3p": "desmagnetizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desmagnetizes",
+    "3s": "não desmagnetize",
+    "1p": "não desmagnetizemos",
+    "2p": "não desmagnetizeis",
+    "3p": "não desmagnetizem"
+  },
+  "Part-ter": {
+    "": "desmagnetizado"
+  },
+  "Part-ser": {
+    "ms": "desmagnetizado",
+    "fs": "desmagnetizada",
+    "mp": "desmagnetizados",
+    "fp": "desmagnetizadas"
+  }
+}

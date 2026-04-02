@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "quitar"
+  },
+  "Ger": {
+    "": "quitando"
+  },
+  "PresI": {
+    "1s": "quito",
+    "2s": "quitas",
+    "3s": "quita",
+    "1p": "quitamos",
+    "2p": "quitáis",
+    "3p": "quitan"
+  },
+  "PImpI": {
+    "1s": "quitaba",
+    "2s": "quitabas",
+    "3s": "quitaba",
+    "1p": "quitábamos",
+    "2p": "quitabais",
+    "3p": "quitaban"
+  },
+  "PPSI": {
+    "1s": "quité",
+    "2s": "quitaste",
+    "3s": "quitó",
+    "1p": "quitamos",
+    "2p": "quitasteis",
+    "3p": "quitaron"
+  },
+  "FutSI": {
+    "1s": "quitaré",
+    "2s": "quitarás",
+    "3s": "quitará",
+    "1p": "quitaremos",
+    "2p": "quitaréis",
+    "3p": "quitarán"
+  },
+  "CondS": {
+    "1s": "quitaría",
+    "2s": "quitarías",
+    "3s": "quitaría",
+    "1p": "quitaríamos",
+    "2p": "quitaríais",
+    "3p": "quitarían"
+  },
+  "PresC": {
+    "1s": "quite",
+    "2s": "quites",
+    "3s": "quite",
+    "1p": "quitemos",
+    "2p": "quitéis",
+    "3p": "quiten"
+  },
+  "PMQPSI": {
+    "1s": "quitara",
+    "2s": "quitaras",
+    "3s": "quitara",
+    "1p": "quitáramos",
+    "2p": "quitarais",
+    "3p": "quitaran"
+  },
+  "PImpC": {
+    "1s": "quitase",
+    "2s": "quitases",
+    "3s": "quitase",
+    "1p": "quitásemos",
+    "2p": "quitaseis",
+    "3p": "quitasen"
+  },
+  "FutSC": {
+    "1s": "quitare",
+    "2s": "quitares",
+    "3s": "quitare",
+    "1p": "quitáremos",
+    "2p": "quitareis",
+    "3p": "quitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quita",
+    "3s": "quite",
+    "1p": "quitemos",
+    "2p": "quitad",
+    "3p": "quiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no quites",
+    "3s": "no quite",
+    "1p": "no quitemos",
+    "2p": "no quitéis",
+    "3p": "no quiten"
+  },
+  "Part-ter": {
+    "": "quitado"
+  },
+  "Part-ser": {
+    "ms": "quitado",
+    "fs": "quitada",
+    "mp": "quitados",
+    "fp": "quitadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "racionalizar"
+  },
+  "InfP": {
+    "1s": "racionalizar",
+    "2s": "racionalizares",
+    "3s": "racionalizar",
+    "1p": "racionalizarmos",
+    "2p": "racionalizardes",
+    "3p": "racionalizarem"
+  },
+  "Ger": {
+    "": "racionalizando"
+  },
+  "PresI": {
+    "1s": "racionalizo",
+    "2s": "racionalizas",
+    "3s": "racionaliza",
+    "1p": "racionalizamos",
+    "2p": "racionalizais",
+    "3p": "racionalizam"
+  },
+  "PImpI": {
+    "1s": "racionalizava",
+    "2s": "racionalizavas",
+    "3s": "racionalizava",
+    "1p": "racionalizávamos",
+    "2p": "racionalizáveis",
+    "3p": "racionalizavam"
+  },
+  "PPSI": {
+    "1s": "racionalizei",
+    "2s": "racionalizaste",
+    "3s": "racionalizou",
+    "1p": "racionalizámos",
+    "2p": "racionalizastes",
+    "3p": "racionalizaram"
+  },
+  "PMQPSI": {
+    "1s": "racionalizara",
+    "2s": "racionalizaras",
+    "3s": "racionalizara",
+    "1p": "racionalizáramos",
+    "2p": "racionalizáreis",
+    "3p": "racionalizaram"
+  },
+  "FutSI": {
+    "1s": "racionalizarei",
+    "2s": "racionalizarás",
+    "3s": "racionalizará",
+    "1p": "racionalizaremos",
+    "2p": "racionalizareis",
+    "3p": "racionalizarão"
+  },
+  "CondS": {
+    "1s": "racionalizaria",
+    "2s": "racionalizarias",
+    "3s": "racionalizaria",
+    "1p": "racionalizaríamos",
+    "2p": "racionalizaríeis",
+    "3p": "racionalizariam"
+  },
+  "PresC": {
+    "1s": "racionalize",
+    "2s": "racionalizes",
+    "3s": "racionalize",
+    "1p": "racionalizemos",
+    "2p": "racionalizeis",
+    "3p": "racionalizem"
+  },
+  "PImpC": {
+    "1s": "racionalizasse",
+    "2s": "racionalizasses",
+    "3s": "racionalizasse",
+    "1p": "racionalizássemos",
+    "2p": "racionalizásseis",
+    "3p": "racionalizassem"
+  },
+  "FutSC": {
+    "1s": "racionalizar",
+    "2s": "racionalizares",
+    "3s": "racionalizar",
+    "1p": "racionalizarmos",
+    "2p": "racionalizardes",
+    "3p": "racionalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "racionaliza",
+    "3s": "racionalize",
+    "1p": "racionalizemos",
+    "2p": "racionalizai",
+    "3p": "racionalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não racionalizes",
+    "3s": "não racionalize",
+    "1p": "não racionalizemos",
+    "2p": "não racionalizeis",
+    "3p": "não racionalizem"
+  },
+  "Part-ter": {
+    "": "racionalizado"
+  },
+  "Part-ser": {
+    "ms": "racionalizado",
+    "fs": "racionalizada",
+    "mp": "racionalizados",
+    "fp": "racionalizadas"
+  }
+}

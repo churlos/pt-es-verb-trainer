@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "embonecar"
+  },
+  "InfP": {
+    "1s": "embonecar",
+    "2s": "embonecares",
+    "3s": "embonecar",
+    "1p": "embonecarmos",
+    "2p": "embonecardes",
+    "3p": "embonecarem"
+  },
+  "Ger": {
+    "": "embonecando"
+  },
+  "PresI": {
+    "1s": "emboneco",
+    "2s": "embonecas",
+    "3s": "emboneca",
+    "1p": "embonecamos",
+    "2p": "embonecais",
+    "3p": "embonecam"
+  },
+  "PImpI": {
+    "1s": "embonecava",
+    "2s": "embonecavas",
+    "3s": "embonecava",
+    "1p": "embonecávamos",
+    "2p": "embonecáveis",
+    "3p": "embonecavam"
+  },
+  "PPSI": {
+    "1s": "embonequei",
+    "2s": "embonecaste",
+    "3s": "embonecou",
+    "1p": "embonecámos",
+    "2p": "embonecastes",
+    "3p": "embonecaram"
+  },
+  "PMQPSI": {
+    "1s": "embonecara",
+    "2s": "embonecaras",
+    "3s": "embonecara",
+    "1p": "embonecáramos",
+    "2p": "embonecáreis",
+    "3p": "embonecaram"
+  },
+  "FutSI": {
+    "1s": "embonecarei",
+    "2s": "embonecarás",
+    "3s": "embonecará",
+    "1p": "embonecaremos",
+    "2p": "embonecareis",
+    "3p": "embonecarão"
+  },
+  "CondS": {
+    "1s": "embonecaria",
+    "2s": "embonecarias",
+    "3s": "embonecaria",
+    "1p": "embonecaríamos",
+    "2p": "embonecaríeis",
+    "3p": "embonecariam"
+  },
+  "PresC": {
+    "1s": "emboneque",
+    "2s": "emboneques",
+    "3s": "emboneque",
+    "1p": "embonequemos",
+    "2p": "embonequeis",
+    "3p": "embonequem"
+  },
+  "PImpC": {
+    "1s": "embonecasse",
+    "2s": "embonecasses",
+    "3s": "embonecasse",
+    "1p": "embonecássemos",
+    "2p": "embonecásseis",
+    "3p": "embonecassem"
+  },
+  "FutSC": {
+    "1s": "embonecar",
+    "2s": "embonecares",
+    "3s": "embonecar",
+    "1p": "embonecarmos",
+    "2p": "embonecardes",
+    "3p": "embonecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emboneca",
+    "3s": "emboneque",
+    "1p": "embonequemos",
+    "2p": "embonecai",
+    "3p": "embonequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emboneques",
+    "3s": "não emboneque",
+    "1p": "não embonequemos",
+    "2p": "não embonequeis",
+    "3p": "não embonequem"
+  },
+  "Part-ter": {
+    "": "embonecado"
+  },
+  "Part-ser": {
+    "ms": "embonecado",
+    "fs": "embonecada",
+    "mp": "embonecados",
+    "fp": "embonecadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "constituir"
+  },
+  "InfP": {
+    "1s": "constituir",
+    "2s": "constituíres",
+    "3s": "constituir",
+    "1p": "constituirmos",
+    "2p": "constituirdes",
+    "3p": "constituírem"
+  },
+  "Ger": {
+    "": "constituindo"
+  },
+  "PresI": {
+    "1s": "constituo",
+    "2s": "constituis",
+    "3s": "constitui",
+    "1p": "constituímos",
+    "2p": "constituís",
+    "3p": "constituem"
+  },
+  "PImpI": {
+    "1s": "constituía",
+    "2s": "constituías",
+    "3s": "constituía",
+    "1p": "constituíamos",
+    "2p": "constituíeis",
+    "3p": "constituíam"
+  },
+  "PPSI": {
+    "1s": "constituí",
+    "2s": "constituíste",
+    "3s": "constituiu",
+    "1p": "constituímos",
+    "2p": "constituístes",
+    "3p": "constituíram"
+  },
+  "PMQPSI": {
+    "1s": "constituíra",
+    "2s": "constituíras",
+    "3s": "constituíra",
+    "1p": "constituíramos",
+    "2p": "constituíreis",
+    "3p": "constituíram"
+  },
+  "FutSI": {
+    "1s": "constituirei",
+    "2s": "constituirás",
+    "3s": "constituirá",
+    "1p": "constituiremos",
+    "2p": "constituireis",
+    "3p": "constituirão"
+  },
+  "CondS": {
+    "1s": "constituiria",
+    "2s": "constituirias",
+    "3s": "constituiria",
+    "1p": "constituiríamos",
+    "2p": "constituiríeis",
+    "3p": "constituiriam"
+  },
+  "PresC": {
+    "1s": "constitua",
+    "2s": "constituas",
+    "3s": "constitua",
+    "1p": "constituamos",
+    "2p": "constituais",
+    "3p": "constituam"
+  },
+  "PImpC": {
+    "1s": "constituísse",
+    "2s": "constituísses",
+    "3s": "constituísse",
+    "1p": "constituíssemos",
+    "2p": "constituísseis",
+    "3p": "constituíssem"
+  },
+  "FutSC": {
+    "1s": "constituir",
+    "2s": "constituíres",
+    "3s": "constituir",
+    "1p": "constituirmos",
+    "2p": "constituirdes",
+    "3p": "constituírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "constitui",
+    "3s": "constitua",
+    "1p": "constituamos",
+    "2p": "constituí",
+    "3p": "constituam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não constituas",
+    "3s": "não constitua",
+    "1p": "não constituamos",
+    "2p": "não constituais",
+    "3p": "não constituam"
+  },
+  "Part-ter": {
+    "": "constituído"
+  },
+  "Part-ser": {
+    "ms": "constituído",
+    "fs": "constituída",
+    "mp": "constituídos",
+    "fp": "constituídas"
+  }
+}

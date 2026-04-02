@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hiperventilar"
+  },
+  "Ger": {
+    "": "hiperventilando"
+  },
+  "PresI": {
+    "1s": "hiperventilo",
+    "2s": "hiperventilas",
+    "3s": "hiperventila",
+    "1p": "hiperventilamos",
+    "2p": "hiperventiláis",
+    "3p": "hiperventilan"
+  },
+  "PImpI": {
+    "1s": "hiperventilaba",
+    "2s": "hiperventilabas",
+    "3s": "hiperventilaba",
+    "1p": "hiperventilábamos",
+    "2p": "hiperventilabais",
+    "3p": "hiperventilaban"
+  },
+  "PPSI": {
+    "1s": "hiperventilé",
+    "2s": "hiperventilaste",
+    "3s": "hiperventiló",
+    "1p": "hiperventilamos",
+    "2p": "hiperventilasteis",
+    "3p": "hiperventilaron"
+  },
+  "FutSI": {
+    "1s": "hiperventilaré",
+    "2s": "hiperventilarás",
+    "3s": "hiperventilará",
+    "1p": "hiperventilaremos",
+    "2p": "hiperventilaréis",
+    "3p": "hiperventilarán"
+  },
+  "CondS": {
+    "1s": "hiperventilaría",
+    "2s": "hiperventilarías",
+    "3s": "hiperventilaría",
+    "1p": "hiperventilaríamos",
+    "2p": "hiperventilaríais",
+    "3p": "hiperventilarían"
+  },
+  "PresC": {
+    "1s": "hiperventile",
+    "2s": "hiperventiles",
+    "3s": "hiperventile",
+    "1p": "hiperventilemos",
+    "2p": "hiperventiléis",
+    "3p": "hiperventilen"
+  },
+  "PMQPSI": {
+    "1s": "hiperventilara",
+    "2s": "hiperventilaras",
+    "3s": "hiperventilara",
+    "1p": "hiperventiláramos",
+    "2p": "hiperventilarais",
+    "3p": "hiperventilaran"
+  },
+  "PImpC": {
+    "1s": "hiperventilase",
+    "2s": "hiperventilases",
+    "3s": "hiperventilase",
+    "1p": "hiperventilásemos",
+    "2p": "hiperventilaseis",
+    "3p": "hiperventilasen"
+  },
+  "FutSC": {
+    "1s": "hiperventilare",
+    "2s": "hiperventilares",
+    "3s": "hiperventilare",
+    "1p": "hiperventiláremos",
+    "2p": "hiperventilareis",
+    "3p": "hiperventilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hiperventila",
+    "3s": "hiperventile",
+    "1p": "hiperventilemos",
+    "2p": "hiperventilad",
+    "3p": "hiperventilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hiperventiles",
+    "3s": "no hiperventile",
+    "1p": "no hiperventilemos",
+    "2p": "no hiperventiléis",
+    "3p": "no hiperventilen"
+  },
+  "Part-ter": {
+    "": "hiperventilado"
+  },
+  "Part-ser": {
+    "ms": "hiperventilado",
+    "fs": "hiperventilada",
+    "mp": "hiperventilados",
+    "fp": "hiperventiladas"
+  }
+}

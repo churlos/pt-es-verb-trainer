@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "meter"
+  },
+  "InfP": {
+    "1s": "meter",
+    "2s": "meteres",
+    "3s": "meter",
+    "1p": "metermos",
+    "2p": "meterdes",
+    "3p": "meterem"
+  },
+  "Ger": {
+    "": "metendo"
+  },
+  "PresI": {
+    "1s": "meto",
+    "2s": "metes",
+    "3s": "mete",
+    "1p": "metemos",
+    "2p": "meteis",
+    "3p": "metem"
+  },
+  "PImpI": {
+    "1s": "metia",
+    "2s": "metias",
+    "3s": "metia",
+    "1p": "metíamos",
+    "2p": "metíeis",
+    "3p": "metiam"
+  },
+  "PPSI": {
+    "1s": "meti",
+    "2s": "meteste",
+    "3s": "meteu",
+    "1p": "metemos",
+    "2p": "metestes",
+    "3p": "meteram"
+  },
+  "PMQPSI": {
+    "1s": "metera",
+    "2s": "meteras",
+    "3s": "metera",
+    "1p": "metêramos",
+    "2p": "metêreis",
+    "3p": "meteram"
+  },
+  "FutSI": {
+    "1s": "meterei",
+    "2s": "meterás",
+    "3s": "meterá",
+    "1p": "meteremos",
+    "2p": "metereis",
+    "3p": "meterão"
+  },
+  "CondS": {
+    "1s": "meteria",
+    "2s": "meterias",
+    "3s": "meteria",
+    "1p": "meteríamos",
+    "2p": "meteríeis",
+    "3p": "meteriam"
+  },
+  "PresC": {
+    "1s": "meta",
+    "2s": "metas",
+    "3s": "meta",
+    "1p": "metamos",
+    "2p": "metais",
+    "3p": "metam"
+  },
+  "PImpC": {
+    "1s": "metesse",
+    "2s": "metesses",
+    "3s": "metesse",
+    "1p": "metêssemos",
+    "2p": "metêsseis",
+    "3p": "metessem"
+  },
+  "FutSC": {
+    "1s": "meter",
+    "2s": "meteres",
+    "3s": "meter",
+    "1p": "metermos",
+    "2p": "meterdes",
+    "3p": "meterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mete",
+    "3s": "meta",
+    "1p": "metamos",
+    "2p": "metei",
+    "3p": "metam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não metas",
+    "3s": "não meta",
+    "1p": "não metamos",
+    "2p": "não metais",
+    "3p": "não metam"
+  },
+  "Part-ter": {
+    "": "metido"
+  },
+  "Part-ser": {
+    "ms": "metido",
+    "fs": "metida",
+    "mp": "metidos",
+    "fp": "metidas"
+  }
+}

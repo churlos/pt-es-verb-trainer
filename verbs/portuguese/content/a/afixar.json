@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "afixar"
+  },
+  "InfP": {
+    "1s": "afixar",
+    "2s": "afixares",
+    "3s": "afixar",
+    "1p": "afixarmos",
+    "2p": "afixardes",
+    "3p": "afixarem"
+  },
+  "Ger": {
+    "": "afixando"
+  },
+  "PresI": {
+    "1s": "afixo",
+    "2s": "afixas",
+    "3s": "afixa",
+    "1p": "afixamos",
+    "2p": "afixais",
+    "3p": "afixam"
+  },
+  "PImpI": {
+    "1s": "afixava",
+    "2s": "afixavas",
+    "3s": "afixava",
+    "1p": "afixávamos",
+    "2p": "afixáveis",
+    "3p": "afixavam"
+  },
+  "PPSI": {
+    "1s": "afixei",
+    "2s": "afixaste",
+    "3s": "afixou",
+    "1p": "afixámos",
+    "2p": "afixastes",
+    "3p": "afixaram"
+  },
+  "PMQPSI": {
+    "1s": "afixara",
+    "2s": "afixaras",
+    "3s": "afixara",
+    "1p": "afixáramos",
+    "2p": "afixáreis",
+    "3p": "afixaram"
+  },
+  "FutSI": {
+    "1s": "afixarei",
+    "2s": "afixarás",
+    "3s": "afixará",
+    "1p": "afixaremos",
+    "2p": "afixareis",
+    "3p": "afixarão"
+  },
+  "CondS": {
+    "1s": "afixaria",
+    "2s": "afixarias",
+    "3s": "afixaria",
+    "1p": "afixaríamos",
+    "2p": "afixaríeis",
+    "3p": "afixariam"
+  },
+  "PresC": {
+    "1s": "afixe",
+    "2s": "afixes",
+    "3s": "afixe",
+    "1p": "afixemos",
+    "2p": "afixeis",
+    "3p": "afixem"
+  },
+  "PImpC": {
+    "1s": "afixasse",
+    "2s": "afixasses",
+    "3s": "afixasse",
+    "1p": "afixássemos",
+    "2p": "afixásseis",
+    "3p": "afixassem"
+  },
+  "FutSC": {
+    "1s": "afixar",
+    "2s": "afixares",
+    "3s": "afixar",
+    "1p": "afixarmos",
+    "2p": "afixardes",
+    "3p": "afixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afixa",
+    "3s": "afixe",
+    "1p": "afixemos",
+    "2p": "afixai",
+    "3p": "afixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não afixes",
+    "3s": "não afixe",
+    "1p": "não afixemos",
+    "2p": "não afixeis",
+    "3p": "não afixem"
+  },
+  "Part-ter": {
+    "": "afixado"
+  },
+  "Part-ser": {
+    "ms": "afixado",
+    "fs": "afixada",
+    "mp": "afixados",
+    "fp": "afixadas"
+  }
+}

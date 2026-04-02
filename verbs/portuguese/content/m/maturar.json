@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "maturar"
+  },
+  "InfP": {
+    "1s": "maturar",
+    "2s": "maturares",
+    "3s": "maturar",
+    "1p": "maturarmos",
+    "2p": "maturardes",
+    "3p": "maturarem"
+  },
+  "Ger": {
+    "": "maturando"
+  },
+  "PresI": {
+    "1s": "maturo",
+    "2s": "maturas",
+    "3s": "matura",
+    "1p": "maturamos",
+    "2p": "maturais",
+    "3p": "maturam"
+  },
+  "PImpI": {
+    "1s": "maturava",
+    "2s": "maturavas",
+    "3s": "maturava",
+    "1p": "maturávamos",
+    "2p": "maturáveis",
+    "3p": "maturavam"
+  },
+  "PPSI": {
+    "1s": "maturei",
+    "2s": "maturaste",
+    "3s": "maturou",
+    "1p": "maturámos",
+    "2p": "maturastes",
+    "3p": "maturaram"
+  },
+  "PMQPSI": {
+    "1s": "maturara",
+    "2s": "maturaras",
+    "3s": "maturara",
+    "1p": "maturáramos",
+    "2p": "maturáreis",
+    "3p": "maturaram"
+  },
+  "FutSI": {
+    "1s": "maturarei",
+    "2s": "maturarás",
+    "3s": "maturará",
+    "1p": "maturaremos",
+    "2p": "maturareis",
+    "3p": "maturarão"
+  },
+  "CondS": {
+    "1s": "maturaria",
+    "2s": "maturarias",
+    "3s": "maturaria",
+    "1p": "maturaríamos",
+    "2p": "maturaríeis",
+    "3p": "maturariam"
+  },
+  "PresC": {
+    "1s": "mature",
+    "2s": "matures",
+    "3s": "mature",
+    "1p": "maturemos",
+    "2p": "matureis",
+    "3p": "maturem"
+  },
+  "PImpC": {
+    "1s": "maturasse",
+    "2s": "maturasses",
+    "3s": "maturasse",
+    "1p": "maturássemos",
+    "2p": "maturásseis",
+    "3p": "maturassem"
+  },
+  "FutSC": {
+    "1s": "maturar",
+    "2s": "maturares",
+    "3s": "maturar",
+    "1p": "maturarmos",
+    "2p": "maturardes",
+    "3p": "maturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "matura",
+    "3s": "mature",
+    "1p": "maturemos",
+    "2p": "maturai",
+    "3p": "maturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não matures",
+    "3s": "não mature",
+    "1p": "não maturemos",
+    "2p": "não matureis",
+    "3p": "não maturem"
+  },
+  "Part-ter": {
+    "": "maturado"
+  },
+  "Part-ser": {
+    "ms": "maturado",
+    "fs": "maturada",
+    "mp": "maturados",
+    "fp": "maturadas"
+  }
+}

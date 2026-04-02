@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estampar"
+  },
+  "InfP": {
+    "1s": "estampar",
+    "2s": "estampares",
+    "3s": "estampar",
+    "1p": "estamparmos",
+    "2p": "estampardes",
+    "3p": "estamparem"
+  },
+  "Ger": {
+    "": "estampando"
+  },
+  "PresI": {
+    "1s": "estampo",
+    "2s": "estampas",
+    "3s": "estampa",
+    "1p": "estampamos",
+    "2p": "estampais",
+    "3p": "estampam"
+  },
+  "PImpI": {
+    "1s": "estampava",
+    "2s": "estampavas",
+    "3s": "estampava",
+    "1p": "estampávamos",
+    "2p": "estampáveis",
+    "3p": "estampavam"
+  },
+  "PPSI": {
+    "1s": "estampei",
+    "2s": "estampaste",
+    "3s": "estampou",
+    "1p": "estampámos",
+    "2p": "estampastes",
+    "3p": "estamparam"
+  },
+  "PMQPSI": {
+    "1s": "estampara",
+    "2s": "estamparas",
+    "3s": "estampara",
+    "1p": "estampáramos",
+    "2p": "estampáreis",
+    "3p": "estamparam"
+  },
+  "FutSI": {
+    "1s": "estamparei",
+    "2s": "estamparás",
+    "3s": "estampará",
+    "1p": "estamparemos",
+    "2p": "estampareis",
+    "3p": "estamparão"
+  },
+  "CondS": {
+    "1s": "estamparia",
+    "2s": "estamparias",
+    "3s": "estamparia",
+    "1p": "estamparíamos",
+    "2p": "estamparíeis",
+    "3p": "estampariam"
+  },
+  "PresC": {
+    "1s": "estampe",
+    "2s": "estampes",
+    "3s": "estampe",
+    "1p": "estampemos",
+    "2p": "estampeis",
+    "3p": "estampem"
+  },
+  "PImpC": {
+    "1s": "estampasse",
+    "2s": "estampasses",
+    "3s": "estampasse",
+    "1p": "estampássemos",
+    "2p": "estampásseis",
+    "3p": "estampassem"
+  },
+  "FutSC": {
+    "1s": "estampar",
+    "2s": "estampares",
+    "3s": "estampar",
+    "1p": "estamparmos",
+    "2p": "estampardes",
+    "3p": "estamparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estampa",
+    "3s": "estampe",
+    "1p": "estampemos",
+    "2p": "estampai",
+    "3p": "estampem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estampes",
+    "3s": "não estampe",
+    "1p": "não estampemos",
+    "2p": "não estampeis",
+    "3p": "não estampem"
+  },
+  "Part-ter": {
+    "": "estampado"
+  },
+  "Part-ser": {
+    "ms": "estampado",
+    "fs": "estampada",
+    "mp": "estampados",
+    "fp": "estampadas"
+  }
+}

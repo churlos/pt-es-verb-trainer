@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suavizar"
+  },
+  "InfP": {
+    "1s": "suavizar",
+    "2s": "suavizares",
+    "3s": "suavizar",
+    "1p": "suavizarmos",
+    "2p": "suavizardes",
+    "3p": "suavizarem"
+  },
+  "Ger": {
+    "": "suavizando"
+  },
+  "PresI": {
+    "1s": "suavizo",
+    "2s": "suavizas",
+    "3s": "suaviza",
+    "1p": "suavizamos",
+    "2p": "suavizais",
+    "3p": "suavizam"
+  },
+  "PImpI": {
+    "1s": "suavizava",
+    "2s": "suavizavas",
+    "3s": "suavizava",
+    "1p": "suavizávamos",
+    "2p": "suavizáveis",
+    "3p": "suavizavam"
+  },
+  "PPSI": {
+    "1s": "suavizei",
+    "2s": "suavizaste",
+    "3s": "suavizou",
+    "1p": "suavizámos",
+    "2p": "suavizastes",
+    "3p": "suavizaram"
+  },
+  "PMQPSI": {
+    "1s": "suavizara",
+    "2s": "suavizaras",
+    "3s": "suavizara",
+    "1p": "suavizáramos",
+    "2p": "suavizáreis",
+    "3p": "suavizaram"
+  },
+  "FutSI": {
+    "1s": "suavizarei",
+    "2s": "suavizarás",
+    "3s": "suavizará",
+    "1p": "suavizaremos",
+    "2p": "suavizareis",
+    "3p": "suavizarão"
+  },
+  "CondS": {
+    "1s": "suavizaria",
+    "2s": "suavizarias",
+    "3s": "suavizaria",
+    "1p": "suavizaríamos",
+    "2p": "suavizaríeis",
+    "3p": "suavizariam"
+  },
+  "PresC": {
+    "1s": "suavize",
+    "2s": "suavizes",
+    "3s": "suavize",
+    "1p": "suavizemos",
+    "2p": "suavizeis",
+    "3p": "suavizem"
+  },
+  "PImpC": {
+    "1s": "suavizasse",
+    "2s": "suavizasses",
+    "3s": "suavizasse",
+    "1p": "suavizássemos",
+    "2p": "suavizásseis",
+    "3p": "suavizassem"
+  },
+  "FutSC": {
+    "1s": "suavizar",
+    "2s": "suavizares",
+    "3s": "suavizar",
+    "1p": "suavizarmos",
+    "2p": "suavizardes",
+    "3p": "suavizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suaviza",
+    "3s": "suavize",
+    "1p": "suavizemos",
+    "2p": "suavizai",
+    "3p": "suavizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não suavizes",
+    "3s": "não suavize",
+    "1p": "não suavizemos",
+    "2p": "não suavizeis",
+    "3p": "não suavizem"
+  },
+  "Part-ter": {
+    "": "suavizado"
+  },
+  "Part-ser": {
+    "ms": "suavizado",
+    "fs": "suavizada",
+    "mp": "suavizados",
+    "fp": "suavizadas"
+  }
+}

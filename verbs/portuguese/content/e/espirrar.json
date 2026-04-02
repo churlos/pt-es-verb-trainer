@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espirrar"
+  },
+  "InfP": {
+    "1s": "espirrar",
+    "2s": "espirrares",
+    "3s": "espirrar",
+    "1p": "espirrarmos",
+    "2p": "espirrardes",
+    "3p": "espirrarem"
+  },
+  "Ger": {
+    "": "espirrando"
+  },
+  "PresI": {
+    "1s": "espirro",
+    "2s": "espirras",
+    "3s": "espirra",
+    "1p": "espirramos",
+    "2p": "espirrais",
+    "3p": "espirram"
+  },
+  "PImpI": {
+    "1s": "espirrava",
+    "2s": "espirravas",
+    "3s": "espirrava",
+    "1p": "espirrávamos",
+    "2p": "espirráveis",
+    "3p": "espirravam"
+  },
+  "PPSI": {
+    "1s": "espirrei",
+    "2s": "espirraste",
+    "3s": "espirrou",
+    "1p": "espirrámos",
+    "2p": "espirrastes",
+    "3p": "espirraram"
+  },
+  "PMQPSI": {
+    "1s": "espirrara",
+    "2s": "espirraras",
+    "3s": "espirrara",
+    "1p": "espirráramos",
+    "2p": "espirráreis",
+    "3p": "espirraram"
+  },
+  "FutSI": {
+    "1s": "espirrarei",
+    "2s": "espirrarás",
+    "3s": "espirrará",
+    "1p": "espirraremos",
+    "2p": "espirrareis",
+    "3p": "espirrarão"
+  },
+  "CondS": {
+    "1s": "espirraria",
+    "2s": "espirrarias",
+    "3s": "espirraria",
+    "1p": "espirraríamos",
+    "2p": "espirraríeis",
+    "3p": "espirrariam"
+  },
+  "PresC": {
+    "1s": "espirre",
+    "2s": "espirres",
+    "3s": "espirre",
+    "1p": "espirremos",
+    "2p": "espirreis",
+    "3p": "espirrem"
+  },
+  "PImpC": {
+    "1s": "espirrasse",
+    "2s": "espirrasses",
+    "3s": "espirrasse",
+    "1p": "espirrássemos",
+    "2p": "espirrásseis",
+    "3p": "espirrassem"
+  },
+  "FutSC": {
+    "1s": "espirrar",
+    "2s": "espirrares",
+    "3s": "espirrar",
+    "1p": "espirrarmos",
+    "2p": "espirrardes",
+    "3p": "espirrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espirra",
+    "3s": "espirre",
+    "1p": "espirremos",
+    "2p": "espirrai",
+    "3p": "espirrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espirres",
+    "3s": "não espirre",
+    "1p": "não espirremos",
+    "2p": "não espirreis",
+    "3p": "não espirrem"
+  },
+  "Part-ter": {
+    "": "espirrado"
+  },
+  "Part-ser": {
+    "ms": "espirrado",
+    "fs": "espirrada",
+    "mp": "espirrados",
+    "fp": "espirradas"
+  }
+}

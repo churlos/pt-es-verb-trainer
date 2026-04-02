@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ocupar"
+  },
+  "InfP": {
+    "1s": "ocupar",
+    "2s": "ocupares",
+    "3s": "ocupar",
+    "1p": "ocuparmos",
+    "2p": "ocupardes",
+    "3p": "ocuparem"
+  },
+  "Ger": {
+    "": "ocupando"
+  },
+  "PresI": {
+    "1s": "ocupo",
+    "2s": "ocupas",
+    "3s": "ocupa",
+    "1p": "ocupamos",
+    "2p": "ocupais",
+    "3p": "ocupam"
+  },
+  "PImpI": {
+    "1s": "ocupava",
+    "2s": "ocupavas",
+    "3s": "ocupava",
+    "1p": "ocupávamos",
+    "2p": "ocupáveis",
+    "3p": "ocupavam"
+  },
+  "PPSI": {
+    "1s": "ocupei",
+    "2s": "ocupaste",
+    "3s": "ocupou",
+    "1p": "ocupámos",
+    "2p": "ocupastes",
+    "3p": "ocuparam"
+  },
+  "PMQPSI": {
+    "1s": "ocupara",
+    "2s": "ocuparas",
+    "3s": "ocupara",
+    "1p": "ocupáramos",
+    "2p": "ocupáreis",
+    "3p": "ocuparam"
+  },
+  "FutSI": {
+    "1s": "ocuparei",
+    "2s": "ocuparás",
+    "3s": "ocupará",
+    "1p": "ocuparemos",
+    "2p": "ocupareis",
+    "3p": "ocuparão"
+  },
+  "CondS": {
+    "1s": "ocuparia",
+    "2s": "ocuparias",
+    "3s": "ocuparia",
+    "1p": "ocuparíamos",
+    "2p": "ocuparíeis",
+    "3p": "ocupariam"
+  },
+  "PresC": {
+    "1s": "ocupe",
+    "2s": "ocupes",
+    "3s": "ocupe",
+    "1p": "ocupemos",
+    "2p": "ocupeis",
+    "3p": "ocupem"
+  },
+  "PImpC": {
+    "1s": "ocupasse",
+    "2s": "ocupasses",
+    "3s": "ocupasse",
+    "1p": "ocupássemos",
+    "2p": "ocupásseis",
+    "3p": "ocupassem"
+  },
+  "FutSC": {
+    "1s": "ocupar",
+    "2s": "ocupares",
+    "3s": "ocupar",
+    "1p": "ocuparmos",
+    "2p": "ocupardes",
+    "3p": "ocuparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ocupa",
+    "3s": "ocupe",
+    "1p": "ocupemos",
+    "2p": "ocupai",
+    "3p": "ocupem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ocupes",
+    "3s": "não ocupe",
+    "1p": "não ocupemos",
+    "2p": "não ocupeis",
+    "3p": "não ocupem"
+  },
+  "Part-ter": {
+    "": "ocupado"
+  },
+  "Part-ser": {
+    "ms": "ocupado",
+    "fs": "ocupada",
+    "mp": "ocupados",
+    "fp": "ocupadas"
+  }
+}

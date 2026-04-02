@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "revertir"
+  },
+  "Ger": {
+    "": "revirtiendo"
+  },
+  "PresI": {
+    "1s": "revierto",
+    "2s": "reviertes",
+    "3s": "revierte",
+    "1p": "revertimos",
+    "2p": "revertís",
+    "3p": "revierten"
+  },
+  "PImpI": {
+    "1s": "revertía",
+    "2s": "revertías",
+    "3s": "revertía",
+    "1p": "revertíamos",
+    "2p": "revertíais",
+    "3p": "revertían"
+  },
+  "PPSI": {
+    "1s": "revertí",
+    "2s": "revertiste",
+    "3s": "revirtió",
+    "1p": "revertimos",
+    "2p": "revertisteis",
+    "3p": "revirtieron"
+  },
+  "FutSI": {
+    "1s": "revertiré",
+    "2s": "revertirás",
+    "3s": "revertirá",
+    "1p": "revertiremos",
+    "2p": "revertiréis",
+    "3p": "revertirán"
+  },
+  "CondS": {
+    "1s": "revertiría",
+    "2s": "revertirías",
+    "3s": "revertiría",
+    "1p": "revertiríamos",
+    "2p": "revertiríais",
+    "3p": "revertirían"
+  },
+  "PresC": {
+    "1s": "revierta",
+    "2s": "reviertas",
+    "3s": "revierta",
+    "1p": "revirtamos",
+    "2p": "revirtáis",
+    "3p": "reviertan"
+  },
+  "PMQPSI": {
+    "1s": "revirtiera",
+    "2s": "revirtieras",
+    "3s": "revirtiera",
+    "1p": "revirtiéramos",
+    "2p": "revirtierais",
+    "3p": "revirtieran"
+  },
+  "PImpC": {
+    "1s": "revirtiese",
+    "2s": "revirtieses",
+    "3s": "revirtiese",
+    "1p": "revirtiésemos",
+    "2p": "revirtieseis",
+    "3p": "revirtiesen"
+  },
+  "FutSC": {
+    "1s": "revirtiere",
+    "2s": "revirtieres",
+    "3s": "revirtiere",
+    "1p": "revirtiéremos",
+    "2p": "revirtiereis",
+    "3p": "revirtieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revierte",
+    "3s": "revierta",
+    "1p": "revirtamos",
+    "2p": "revertid",
+    "3p": "reviertan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reviertas",
+    "3s": "no revierta",
+    "1p": "no revirtamos",
+    "2p": "no revirtáis",
+    "3p": "no reviertan"
+  },
+  "Part-ter": {
+    "": "revertido"
+  },
+  "Part-ser": {
+    "ms": "revertido",
+    "fs": "revertida",
+    "mp": "revertidos",
+    "fp": "revertidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cerchar"
+  },
+  "Ger": {
+    "": "cerchando"
+  },
+  "PresI": {
+    "1s": "cercho",
+    "2s": "cerchas",
+    "3s": "cercha",
+    "1p": "cerchamos",
+    "2p": "cercháis",
+    "3p": "cerchan"
+  },
+  "PImpI": {
+    "1s": "cerchaba",
+    "2s": "cerchabas",
+    "3s": "cerchaba",
+    "1p": "cerchábamos",
+    "2p": "cerchabais",
+    "3p": "cerchaban"
+  },
+  "PPSI": {
+    "1s": "cerché",
+    "2s": "cerchaste",
+    "3s": "cerchó",
+    "1p": "cerchamos",
+    "2p": "cerchasteis",
+    "3p": "cercharon"
+  },
+  "FutSI": {
+    "1s": "cercharé",
+    "2s": "cercharás",
+    "3s": "cerchará",
+    "1p": "cercharemos",
+    "2p": "cercharéis",
+    "3p": "cercharán"
+  },
+  "CondS": {
+    "1s": "cercharía",
+    "2s": "cercharías",
+    "3s": "cercharía",
+    "1p": "cercharíamos",
+    "2p": "cercharíais",
+    "3p": "cercharían"
+  },
+  "PresC": {
+    "1s": "cerche",
+    "2s": "cerches",
+    "3s": "cerche",
+    "1p": "cerchemos",
+    "2p": "cerchéis",
+    "3p": "cerchen"
+  },
+  "PMQPSI": {
+    "1s": "cerchara",
+    "2s": "cercharas",
+    "3s": "cerchara",
+    "1p": "cercháramos",
+    "2p": "cercharais",
+    "3p": "cercharan"
+  },
+  "PImpC": {
+    "1s": "cerchase",
+    "2s": "cerchases",
+    "3s": "cerchase",
+    "1p": "cerchásemos",
+    "2p": "cerchaseis",
+    "3p": "cerchasen"
+  },
+  "FutSC": {
+    "1s": "cerchare",
+    "2s": "cerchares",
+    "3s": "cerchare",
+    "1p": "cercháremos",
+    "2p": "cerchareis",
+    "3p": "cercharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cercha",
+    "3s": "cerche",
+    "1p": "cerchemos",
+    "2p": "cerchad",
+    "3p": "cerchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cerches",
+    "3s": "no cerche",
+    "1p": "no cerchemos",
+    "2p": "no cerchéis",
+    "3p": "no cerchen"
+  },
+  "Part-ter": {
+    "": "cerchado"
+  },
+  "Part-ser": {
+    "ms": "cerchado",
+    "fs": "cerchada",
+    "mp": "cerchados",
+    "fp": "cerchadas"
+  }
+}

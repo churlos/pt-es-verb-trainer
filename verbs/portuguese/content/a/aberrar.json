@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aberrar"
+  },
+  "InfP": {
+    "1s": "aberrar",
+    "2s": "aberrares",
+    "3s": "aberrar",
+    "1p": "aberrarmos",
+    "2p": "aberrardes",
+    "3p": "aberrarem"
+  },
+  "Ger": {
+    "": "aberrando"
+  },
+  "PresI": {
+    "1s": "aberro",
+    "2s": "aberras",
+    "3s": "aberra",
+    "1p": "aberramos",
+    "2p": "aberrais",
+    "3p": "aberram"
+  },
+  "PImpI": {
+    "1s": "aberrava",
+    "2s": "aberravas",
+    "3s": "aberrava",
+    "1p": "aberrávamos",
+    "2p": "aberráveis",
+    "3p": "aberravam"
+  },
+  "PPSI": {
+    "1s": "aberrei",
+    "2s": "aberraste",
+    "3s": "aberrou",
+    "1p": "aberrámos",
+    "2p": "aberrastes",
+    "3p": "aberraram"
+  },
+  "PMQPSI": {
+    "1s": "aberrara",
+    "2s": "aberraras",
+    "3s": "aberrara",
+    "1p": "aberráramos",
+    "2p": "aberráreis",
+    "3p": "aberraram"
+  },
+  "FutSI": {
+    "1s": "aberrarei",
+    "2s": "aberrarás",
+    "3s": "aberrará",
+    "1p": "aberraremos",
+    "2p": "aberrareis",
+    "3p": "aberrarão"
+  },
+  "CondS": {
+    "1s": "aberraria",
+    "2s": "aberrarias",
+    "3s": "aberraria",
+    "1p": "aberraríamos",
+    "2p": "aberraríeis",
+    "3p": "aberrariam"
+  },
+  "PresC": {
+    "1s": "aberre",
+    "2s": "aberres",
+    "3s": "aberre",
+    "1p": "aberremos",
+    "2p": "aberreis",
+    "3p": "aberrem"
+  },
+  "PImpC": {
+    "1s": "aberrasse",
+    "2s": "aberrasses",
+    "3s": "aberrasse",
+    "1p": "aberrássemos",
+    "2p": "aberrásseis",
+    "3p": "aberrassem"
+  },
+  "FutSC": {
+    "1s": "aberrar",
+    "2s": "aberrares",
+    "3s": "aberrar",
+    "1p": "aberrarmos",
+    "2p": "aberrardes",
+    "3p": "aberrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aberra",
+    "3s": "aberre",
+    "1p": "aberremos",
+    "2p": "aberrai",
+    "3p": "aberrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aberres",
+    "3s": "não aberre",
+    "1p": "não aberremos",
+    "2p": "não aberreis",
+    "3p": "não aberrem"
+  },
+  "Part-ter": {
+    "": "aberrado"
+  },
+  "Part-ser": {
+    "ms": "aberrado",
+    "fs": "aberrada",
+    "mp": "aberrados",
+    "fp": "aberradas"
+  }
+}

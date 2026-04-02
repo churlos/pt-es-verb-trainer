@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "plastificar"
+  },
+  "InfP": {
+    "1s": "plastificar",
+    "2s": "plastificares",
+    "3s": "plastificar",
+    "1p": "plastificarmos",
+    "2p": "plastificardes",
+    "3p": "plastificarem"
+  },
+  "Ger": {
+    "": "plastificando"
+  },
+  "PresI": {
+    "1s": "plastifico",
+    "2s": "plastificas",
+    "3s": "plastifica",
+    "1p": "plastificamos",
+    "2p": "plastificais",
+    "3p": "plastificam"
+  },
+  "PImpI": {
+    "1s": "plastificava",
+    "2s": "plastificavas",
+    "3s": "plastificava",
+    "1p": "plastificávamos",
+    "2p": "plastificáveis",
+    "3p": "plastificavam"
+  },
+  "PPSI": {
+    "1s": "plastifiquei",
+    "2s": "plastificaste",
+    "3s": "plastificou",
+    "1p": "plastificámos",
+    "2p": "plastificastes",
+    "3p": "plastificaram"
+  },
+  "PMQPSI": {
+    "1s": "plastificara",
+    "2s": "plastificaras",
+    "3s": "plastificara",
+    "1p": "plastificáramos",
+    "2p": "plastificáreis",
+    "3p": "plastificaram"
+  },
+  "FutSI": {
+    "1s": "plastificarei",
+    "2s": "plastificarás",
+    "3s": "plastificará",
+    "1p": "plastificaremos",
+    "2p": "plastificareis",
+    "3p": "plastificarão"
+  },
+  "CondS": {
+    "1s": "plastificaria",
+    "2s": "plastificarias",
+    "3s": "plastificaria",
+    "1p": "plastificaríamos",
+    "2p": "plastificaríeis",
+    "3p": "plastificariam"
+  },
+  "PresC": {
+    "1s": "plastifique",
+    "2s": "plastifiques",
+    "3s": "plastifique",
+    "1p": "plastifiquemos",
+    "2p": "plastifiqueis",
+    "3p": "plastifiquem"
+  },
+  "PImpC": {
+    "1s": "plastificasse",
+    "2s": "plastificasses",
+    "3s": "plastificasse",
+    "1p": "plastificássemos",
+    "2p": "plastificásseis",
+    "3p": "plastificassem"
+  },
+  "FutSC": {
+    "1s": "plastificar",
+    "2s": "plastificares",
+    "3s": "plastificar",
+    "1p": "plastificarmos",
+    "2p": "plastificardes",
+    "3p": "plastificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "plastifica",
+    "3s": "plastifique",
+    "1p": "plastifiquemos",
+    "2p": "plastificai",
+    "3p": "plastifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não plastifiques",
+    "3s": "não plastifique",
+    "1p": "não plastifiquemos",
+    "2p": "não plastifiqueis",
+    "3p": "não plastifiquem"
+  },
+  "Part-ter": {
+    "": "plastificado"
+  },
+  "Part-ser": {
+    "ms": "plastificado",
+    "fs": "plastificada",
+    "mp": "plastificados",
+    "fp": "plastificadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "hibernar"
+  },
+  "InfP": {
+    "1s": "hibernar",
+    "2s": "hibernares",
+    "3s": "hibernar",
+    "1p": "hibernarmos",
+    "2p": "hibernardes",
+    "3p": "hibernarem"
+  },
+  "Ger": {
+    "": "hibernando"
+  },
+  "PresI": {
+    "1s": "hiberno",
+    "2s": "hibernas",
+    "3s": "hiberna",
+    "1p": "hibernamos",
+    "2p": "hibernais",
+    "3p": "hibernam"
+  },
+  "PImpI": {
+    "1s": "hibernava",
+    "2s": "hibernavas",
+    "3s": "hibernava",
+    "1p": "hibernávamos",
+    "2p": "hibernáveis",
+    "3p": "hibernavam"
+  },
+  "PPSI": {
+    "1s": "hibernei",
+    "2s": "hibernaste",
+    "3s": "hibernou",
+    "1p": "hibernámos",
+    "2p": "hibernastes",
+    "3p": "hibernaram"
+  },
+  "PMQPSI": {
+    "1s": "hibernara",
+    "2s": "hibernaras",
+    "3s": "hibernara",
+    "1p": "hibernáramos",
+    "2p": "hibernáreis",
+    "3p": "hibernaram"
+  },
+  "FutSI": {
+    "1s": "hibernarei",
+    "2s": "hibernarás",
+    "3s": "hibernará",
+    "1p": "hibernaremos",
+    "2p": "hibernareis",
+    "3p": "hibernarão"
+  },
+  "CondS": {
+    "1s": "hibernaria",
+    "2s": "hibernarias",
+    "3s": "hibernaria",
+    "1p": "hibernaríamos",
+    "2p": "hibernaríeis",
+    "3p": "hibernariam"
+  },
+  "PresC": {
+    "1s": "hiberne",
+    "2s": "hibernes",
+    "3s": "hiberne",
+    "1p": "hibernemos",
+    "2p": "hiberneis",
+    "3p": "hibernem"
+  },
+  "PImpC": {
+    "1s": "hibernasse",
+    "2s": "hibernasses",
+    "3s": "hibernasse",
+    "1p": "hibernássemos",
+    "2p": "hibernásseis",
+    "3p": "hibernassem"
+  },
+  "FutSC": {
+    "1s": "hibernar",
+    "2s": "hibernares",
+    "3s": "hibernar",
+    "1p": "hibernarmos",
+    "2p": "hibernardes",
+    "3p": "hibernarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hiberna",
+    "3s": "hiberne",
+    "1p": "hibernemos",
+    "2p": "hibernai",
+    "3p": "hibernem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não hibernes",
+    "3s": "não hiberne",
+    "1p": "não hibernemos",
+    "2p": "não hiberneis",
+    "3p": "não hibernem"
+  },
+  "Part-ter": {
+    "": "hibernado"
+  },
+  "Part-ser": {
+    "ms": "hibernado",
+    "fs": "hibernada",
+    "mp": "hibernados",
+    "fp": "hibernadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aquejar"
+  },
+  "Ger": {
+    "": "aquejando"
+  },
+  "PresI": {
+    "1s": "aquejo",
+    "2s": "aquejas",
+    "3s": "aqueja",
+    "1p": "aquejamos",
+    "2p": "aquejáis",
+    "3p": "aquejan"
+  },
+  "PImpI": {
+    "1s": "aquejaba",
+    "2s": "aquejabas",
+    "3s": "aquejaba",
+    "1p": "aquejábamos",
+    "2p": "aquejabais",
+    "3p": "aquejaban"
+  },
+  "PPSI": {
+    "1s": "aquejé",
+    "2s": "aquejaste",
+    "3s": "aquejó",
+    "1p": "aquejamos",
+    "2p": "aquejasteis",
+    "3p": "aquejaron"
+  },
+  "FutSI": {
+    "1s": "aquejaré",
+    "2s": "aquejarás",
+    "3s": "aquejará",
+    "1p": "aquejaremos",
+    "2p": "aquejaréis",
+    "3p": "aquejarán"
+  },
+  "CondS": {
+    "1s": "aquejaría",
+    "2s": "aquejarías",
+    "3s": "aquejaría",
+    "1p": "aquejaríamos",
+    "2p": "aquejaríais",
+    "3p": "aquejarían"
+  },
+  "PresC": {
+    "1s": "aqueje",
+    "2s": "aquejes",
+    "3s": "aqueje",
+    "1p": "aquejemos",
+    "2p": "aquejéis",
+    "3p": "aquejen"
+  },
+  "PMQPSI": {
+    "1s": "aquejara",
+    "2s": "aquejaras",
+    "3s": "aquejara",
+    "1p": "aquejáramos",
+    "2p": "aquejarais",
+    "3p": "aquejaran"
+  },
+  "PImpC": {
+    "1s": "aquejase",
+    "2s": "aquejases",
+    "3s": "aquejase",
+    "1p": "aquejásemos",
+    "2p": "aquejaseis",
+    "3p": "aquejasen"
+  },
+  "FutSC": {
+    "1s": "aquejare",
+    "2s": "aquejares",
+    "3s": "aquejare",
+    "1p": "aquejáremos",
+    "2p": "aquejareis",
+    "3p": "aquejaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aqueja",
+    "3s": "aqueje",
+    "1p": "aquejemos",
+    "2p": "aquejad",
+    "3p": "aquejen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aquejes",
+    "3s": "no aqueje",
+    "1p": "no aquejemos",
+    "2p": "no aquejéis",
+    "3p": "no aquejen"
+  },
+  "Part-ter": {
+    "": "aquejado"
+  },
+  "Part-ser": {
+    "ms": "aquejado",
+    "fs": "aquejada",
+    "mp": "aquejados",
+    "fp": "aquejadas"
+  }
+}

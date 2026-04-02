@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "penalizar"
+  },
+  "InfP": {
+    "1s": "penalizar",
+    "2s": "penalizares",
+    "3s": "penalizar",
+    "1p": "penalizarmos",
+    "2p": "penalizardes",
+    "3p": "penalizarem"
+  },
+  "Ger": {
+    "": "penalizando"
+  },
+  "PresI": {
+    "1s": "penalizo",
+    "2s": "penalizas",
+    "3s": "penaliza",
+    "1p": "penalizamos",
+    "2p": "penalizais",
+    "3p": "penalizam"
+  },
+  "PImpI": {
+    "1s": "penalizava",
+    "2s": "penalizavas",
+    "3s": "penalizava",
+    "1p": "penalizávamos",
+    "2p": "penalizáveis",
+    "3p": "penalizavam"
+  },
+  "PPSI": {
+    "1s": "penalizei",
+    "2s": "penalizaste",
+    "3s": "penalizou",
+    "1p": "penalizámos",
+    "2p": "penalizastes",
+    "3p": "penalizaram"
+  },
+  "PMQPSI": {
+    "1s": "penalizara",
+    "2s": "penalizaras",
+    "3s": "penalizara",
+    "1p": "penalizáramos",
+    "2p": "penalizáreis",
+    "3p": "penalizaram"
+  },
+  "FutSI": {
+    "1s": "penalizarei",
+    "2s": "penalizarás",
+    "3s": "penalizará",
+    "1p": "penalizaremos",
+    "2p": "penalizareis",
+    "3p": "penalizarão"
+  },
+  "CondS": {
+    "1s": "penalizaria",
+    "2s": "penalizarias",
+    "3s": "penalizaria",
+    "1p": "penalizaríamos",
+    "2p": "penalizaríeis",
+    "3p": "penalizariam"
+  },
+  "PresC": {
+    "1s": "penalize",
+    "2s": "penalizes",
+    "3s": "penalize",
+    "1p": "penalizemos",
+    "2p": "penalizeis",
+    "3p": "penalizem"
+  },
+  "PImpC": {
+    "1s": "penalizasse",
+    "2s": "penalizasses",
+    "3s": "penalizasse",
+    "1p": "penalizássemos",
+    "2p": "penalizásseis",
+    "3p": "penalizassem"
+  },
+  "FutSC": {
+    "1s": "penalizar",
+    "2s": "penalizares",
+    "3s": "penalizar",
+    "1p": "penalizarmos",
+    "2p": "penalizardes",
+    "3p": "penalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "penaliza",
+    "3s": "penalize",
+    "1p": "penalizemos",
+    "2p": "penalizai",
+    "3p": "penalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não penalizes",
+    "3s": "não penalize",
+    "1p": "não penalizemos",
+    "2p": "não penalizeis",
+    "3p": "não penalizem"
+  },
+  "Part-ter": {
+    "": "penalizado"
+  },
+  "Part-ser": {
+    "ms": "penalizado",
+    "fs": "penalizada",
+    "mp": "penalizados",
+    "fp": "penalizadas"
+  }
+}

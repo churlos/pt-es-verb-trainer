@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dirigirse"
+  },
+  "Ger": {
+    "": "dirigiéndose"
+  },
+  "PresI": {
+    "1s": "me dirijo",
+    "2s": "te diriges",
+    "3s": "se dirige",
+    "1p": "nos dirigimos",
+    "2p": "os dirigís",
+    "3p": "se dirigen"
+  },
+  "PImpI": {
+    "1s": "me dirigía",
+    "2s": "te dirigías",
+    "3s": "se dirigía",
+    "1p": "nos dirigíamos",
+    "2p": "os dirigíais",
+    "3p": "se dirigían"
+  },
+  "PPSI": {
+    "1s": "me dirigí",
+    "2s": "te dirigiste",
+    "3s": "se dirigió",
+    "1p": "nos dirigimos",
+    "2p": "os dirigisteis",
+    "3p": "se dirigieron"
+  },
+  "FutSI": {
+    "1s": "me dirigiré",
+    "2s": "te dirigirás",
+    "3s": "se dirigirá",
+    "1p": "nos dirigiremos",
+    "2p": "os dirigiréis",
+    "3p": "se dirigirán"
+  },
+  "CondS": {
+    "1s": "me dirigiría",
+    "2s": "te dirigirías",
+    "3s": "se dirigiría",
+    "1p": "nos dirigiríamos",
+    "2p": "os dirigiríais",
+    "3p": "se dirigirían"
+  },
+  "PresC": {
+    "1s": "me dirija",
+    "2s": "te dirijas",
+    "3s": "se dirija",
+    "1p": "nos dirijamos",
+    "2p": "os dirijáis",
+    "3p": "se dirijan"
+  },
+  "PMQPSI": {
+    "1s": "me dirigiera",
+    "2s": "te dirigieras",
+    "3s": "se dirigiera",
+    "1p": "nos dirigiéramos",
+    "2p": "os dirigierais",
+    "3p": "se dirigieran"
+  },
+  "PImpC": {
+    "1s": "me dirigiese",
+    "2s": "te dirigieses",
+    "3s": "se dirigiese",
+    "1p": "nos dirigiésemos",
+    "2p": "os dirigieseis",
+    "3p": "se dirigiesen"
+  },
+  "FutSC": {
+    "1s": "me dirigiere",
+    "2s": "te dirigieres",
+    "3s": "se dirigiere",
+    "1p": "nos dirigiéremos",
+    "2p": "os dirigiereis",
+    "3p": "se dirigieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dirígete",
+    "3s": "diríjase",
+    "1p": "dirijámonos",
+    "2p": "dirigíos",
+    "3p": "diríjanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te dirijas",
+    "3s": "no se dirija",
+    "1p": "no nos dirijamos",
+    "2p": "no os dirijáis",
+    "3p": "no se dirijan"
+  },
+  "Part-ter": {
+    "": "dirigido"
+  },
+  "Part-ser": {
+    "ms": "dirigido",
+    "fs": "dirigida",
+    "mp": "dirigidos",
+    "fp": "dirigidas"
+  }
+}

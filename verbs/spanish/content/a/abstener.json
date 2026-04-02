@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abstener"
+  },
+  "Ger": {
+    "": "absteniendo"
+  },
+  "PresI": {
+    "1s": "abstengo",
+    "2s": "abstienes",
+    "3s": "abstiene",
+    "1p": "abstenemos",
+    "2p": "abstenéis",
+    "3p": "abstienen"
+  },
+  "PImpI": {
+    "1s": "abstenía",
+    "2s": "abstenías",
+    "3s": "abstenía",
+    "1p": "absteníamos",
+    "2p": "absteníais",
+    "3p": "abstenían"
+  },
+  "PPSI": {
+    "1s": "abstuve",
+    "2s": "abstuviste",
+    "3s": "abstuvo",
+    "1p": "abstuvimos",
+    "2p": "abstuvisteis",
+    "3p": "abstuvieron"
+  },
+  "FutSI": {
+    "1s": "abstendré",
+    "2s": "abstendrás",
+    "3s": "abstendrá",
+    "1p": "abstendremos",
+    "2p": "abstendréis",
+    "3p": "abstendrán"
+  },
+  "CondS": {
+    "1s": "abstendría",
+    "2s": "abstendrías",
+    "3s": "abstendría",
+    "1p": "abstendríamos",
+    "2p": "abstendríais",
+    "3p": "abstendrían"
+  },
+  "PresC": {
+    "1s": "abstenga",
+    "2s": "abstengas",
+    "3s": "abstenga",
+    "1p": "abstengamos",
+    "2p": "abstengáis",
+    "3p": "abstengan"
+  },
+  "PMQPSI": {
+    "1s": "abstuviera",
+    "2s": "abstuvieras",
+    "3s": "abstuviera",
+    "1p": "abstuviéramos",
+    "2p": "abstuvierais",
+    "3p": "abstuvieran"
+  },
+  "PImpC": {
+    "1s": "abstuviese",
+    "2s": "abstuvieses",
+    "3s": "abstuviese",
+    "1p": "abstuviésemos",
+    "2p": "abstuvieseis",
+    "3p": "abstuviesen"
+  },
+  "FutSC": {
+    "1s": "abstuviere",
+    "2s": "abstuvieres",
+    "3s": "abstuviere",
+    "1p": "abstuviéremos",
+    "2p": "abstuviereis",
+    "3p": "abstuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abstén",
+    "3s": "abstenga",
+    "1p": "abstengamos",
+    "2p": "abstened",
+    "3p": "abstengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abstengas",
+    "3s": "no abstenga",
+    "1p": "no abstengamos",
+    "2p": "no abstengáis",
+    "3p": "no abstengan"
+  },
+  "Part-ter": {
+    "": "abstenido"
+  },
+  "Part-ser": {
+    "ms": "abstenido",
+    "fs": "abstenida",
+    "mp": "abstenidos",
+    "fp": "abstenidas"
+  }
+}

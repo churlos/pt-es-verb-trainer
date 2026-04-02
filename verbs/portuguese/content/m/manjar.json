@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manjar"
+  },
+  "InfP": {
+    "1s": "manjar",
+    "2s": "manjares",
+    "3s": "manjar",
+    "1p": "manjarmos",
+    "2p": "manjardes",
+    "3p": "manjarem"
+  },
+  "Ger": {
+    "": "manjando"
+  },
+  "PresI": {
+    "1s": "manjo",
+    "2s": "manjas",
+    "3s": "manja",
+    "1p": "manjamos",
+    "2p": "manjais",
+    "3p": "manjam"
+  },
+  "PImpI": {
+    "1s": "manjava",
+    "2s": "manjavas",
+    "3s": "manjava",
+    "1p": "manjávamos",
+    "2p": "manjáveis",
+    "3p": "manjavam"
+  },
+  "PPSI": {
+    "1s": "manjei",
+    "2s": "manjaste",
+    "3s": "manjou",
+    "1p": "manjámos",
+    "2p": "manjastes",
+    "3p": "manjaram"
+  },
+  "PMQPSI": {
+    "1s": "manjara",
+    "2s": "manjaras",
+    "3s": "manjara",
+    "1p": "manjáramos",
+    "2p": "manjáreis",
+    "3p": "manjaram"
+  },
+  "FutSI": {
+    "1s": "manjarei",
+    "2s": "manjarás",
+    "3s": "manjará",
+    "1p": "manjaremos",
+    "2p": "manjareis",
+    "3p": "manjarão"
+  },
+  "CondS": {
+    "1s": "manjaria",
+    "2s": "manjarias",
+    "3s": "manjaria",
+    "1p": "manjaríamos",
+    "2p": "manjaríeis",
+    "3p": "manjariam"
+  },
+  "PresC": {
+    "1s": "manje",
+    "2s": "manjes",
+    "3s": "manje",
+    "1p": "manjemos",
+    "2p": "manjeis",
+    "3p": "manjem"
+  },
+  "PImpC": {
+    "1s": "manjasse",
+    "2s": "manjasses",
+    "3s": "manjasse",
+    "1p": "manjássemos",
+    "2p": "manjásseis",
+    "3p": "manjassem"
+  },
+  "FutSC": {
+    "1s": "manjar",
+    "2s": "manjares",
+    "3s": "manjar",
+    "1p": "manjarmos",
+    "2p": "manjardes",
+    "3p": "manjarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manja",
+    "3s": "manje",
+    "1p": "manjemos",
+    "2p": "manjai",
+    "3p": "manjem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manjes",
+    "3s": "não manje",
+    "1p": "não manjemos",
+    "2p": "não manjeis",
+    "3p": "não manjem"
+  },
+  "Part-ter": {
+    "": "manjado"
+  },
+  "Part-ser": {
+    "ms": "manjado",
+    "fs": "manjada",
+    "mp": "manjados",
+    "fp": "manjadas"
+  }
+}

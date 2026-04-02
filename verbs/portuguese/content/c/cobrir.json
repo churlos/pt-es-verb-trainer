@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cobrir"
+  },
+  "InfP": {
+    "1s": "cobrir",
+    "2s": "cobrires",
+    "3s": "cobrir",
+    "1p": "cobrirmos",
+    "2p": "cobrirdes",
+    "3p": "cobrirem"
+  },
+  "Ger": {
+    "": "cobrindo"
+  },
+  "PresI": {
+    "1s": "cubro",
+    "2s": "cobres",
+    "3s": "cobre",
+    "1p": "cobrimos",
+    "2p": "cobris",
+    "3p": "cobrem"
+  },
+  "PImpI": {
+    "1s": "cobria",
+    "2s": "cobrias",
+    "3s": "cobria",
+    "1p": "cobríamos",
+    "2p": "cobríeis",
+    "3p": "cobriam"
+  },
+  "PPSI": {
+    "1s": "cobri",
+    "2s": "cobriste",
+    "3s": "cobriu",
+    "1p": "cobrimos",
+    "2p": "cobristes",
+    "3p": "cobriram"
+  },
+  "PMQPSI": {
+    "1s": "cobrira",
+    "2s": "cobriras",
+    "3s": "cobrira",
+    "1p": "cobríramos",
+    "2p": "cobríreis",
+    "3p": "cobriram"
+  },
+  "FutSI": {
+    "1s": "cobrirei",
+    "2s": "cobrirás",
+    "3s": "cobrirá",
+    "1p": "cobriremos",
+    "2p": "cobrireis",
+    "3p": "cobrirão"
+  },
+  "CondS": {
+    "1s": "cobriria",
+    "2s": "cobririas",
+    "3s": "cobriria",
+    "1p": "cobriríamos",
+    "2p": "cobriríeis",
+    "3p": "cobririam"
+  },
+  "PresC": {
+    "1s": "cubra",
+    "2s": "cubras",
+    "3s": "cubra",
+    "1p": "cubramos",
+    "2p": "cubrais",
+    "3p": "cubram"
+  },
+  "PImpC": {
+    "1s": "cobrisse",
+    "2s": "cobrisses",
+    "3s": "cobrisse",
+    "1p": "cobríssemos",
+    "2p": "cobrísseis",
+    "3p": "cobrissem"
+  },
+  "FutSC": {
+    "1s": "cobrir",
+    "2s": "cobrires",
+    "3s": "cobrir",
+    "1p": "cobrirmos",
+    "2p": "cobrirdes",
+    "3p": "cobrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cobre",
+    "3s": "cubra",
+    "1p": "cubramos",
+    "2p": "cobri",
+    "3p": "cubram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cubras",
+    "3s": "não cubra",
+    "1p": "não cubramos",
+    "2p": "não cubrais",
+    "3p": "não cubram"
+  },
+  "Part-ter": {
+    "": "coberto"
+  },
+  "Part-ser": {
+    "ms": "coberto",
+    "fs": "coberta",
+    "mp": "cobertos",
+    "fp": "cobertas"
+  }
+}

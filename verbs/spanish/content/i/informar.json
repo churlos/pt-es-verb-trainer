@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "informar"
+  },
+  "Ger": {
+    "": "informando"
+  },
+  "PresI": {
+    "1s": "informo",
+    "2s": "informas",
+    "3s": "informa",
+    "1p": "informamos",
+    "2p": "informáis",
+    "3p": "informan"
+  },
+  "PImpI": {
+    "1s": "informaba",
+    "2s": "informabas",
+    "3s": "informaba",
+    "1p": "informábamos",
+    "2p": "informabais",
+    "3p": "informaban"
+  },
+  "PPSI": {
+    "1s": "informé",
+    "2s": "informaste",
+    "3s": "informó",
+    "1p": "informamos",
+    "2p": "informasteis",
+    "3p": "informaron"
+  },
+  "FutSI": {
+    "1s": "informaré",
+    "2s": "informarás",
+    "3s": "informará",
+    "1p": "informaremos",
+    "2p": "informaréis",
+    "3p": "informarán"
+  },
+  "CondS": {
+    "1s": "informaría",
+    "2s": "informarías",
+    "3s": "informaría",
+    "1p": "informaríamos",
+    "2p": "informaríais",
+    "3p": "informarían"
+  },
+  "PresC": {
+    "1s": "informe",
+    "2s": "informes",
+    "3s": "informe",
+    "1p": "informemos",
+    "2p": "informéis",
+    "3p": "informen"
+  },
+  "PMQPSI": {
+    "1s": "informara",
+    "2s": "informaras",
+    "3s": "informara",
+    "1p": "informáramos",
+    "2p": "informarais",
+    "3p": "informaran"
+  },
+  "PImpC": {
+    "1s": "informase",
+    "2s": "informases",
+    "3s": "informase",
+    "1p": "informásemos",
+    "2p": "informaseis",
+    "3p": "informasen"
+  },
+  "FutSC": {
+    "1s": "informare",
+    "2s": "informares",
+    "3s": "informare",
+    "1p": "informáremos",
+    "2p": "informareis",
+    "3p": "informaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "informa",
+    "3s": "informe",
+    "1p": "informemos",
+    "2p": "informad",
+    "3p": "informen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no informes",
+    "3s": "no informe",
+    "1p": "no informemos",
+    "2p": "no informéis",
+    "3p": "no informen"
+  },
+  "Part-ter": {
+    "": "informado"
+  },
+  "Part-ser": {
+    "ms": "informado",
+    "fs": "informada",
+    "mp": "informados",
+    "fp": "informadas"
+  }
+}

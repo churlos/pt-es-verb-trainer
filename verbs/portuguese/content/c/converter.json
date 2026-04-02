@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "converter"
+  },
+  "InfP": {
+    "1s": "converter",
+    "2s": "converteres",
+    "3s": "converter",
+    "1p": "convertermos",
+    "2p": "converterdes",
+    "3p": "converterem"
+  },
+  "Ger": {
+    "": "convertendo"
+  },
+  "PresI": {
+    "1s": "converto",
+    "2s": "convertes",
+    "3s": "converte",
+    "1p": "convertemos",
+    "2p": "converteis",
+    "3p": "convertem"
+  },
+  "PImpI": {
+    "1s": "convertia",
+    "2s": "convertias",
+    "3s": "convertia",
+    "1p": "convertíamos",
+    "2p": "convertíeis",
+    "3p": "convertiam"
+  },
+  "PPSI": {
+    "1s": "converti",
+    "2s": "converteste",
+    "3s": "converteu",
+    "1p": "convertemos",
+    "2p": "convertestes",
+    "3p": "converteram"
+  },
+  "PMQPSI": {
+    "1s": "convertera",
+    "2s": "converteras",
+    "3s": "convertera",
+    "1p": "convertêramos",
+    "2p": "convertêreis",
+    "3p": "converteram"
+  },
+  "FutSI": {
+    "1s": "converterei",
+    "2s": "converterás",
+    "3s": "converterá",
+    "1p": "converteremos",
+    "2p": "convertereis",
+    "3p": "converterão"
+  },
+  "CondS": {
+    "1s": "converteria",
+    "2s": "converterias",
+    "3s": "converteria",
+    "1p": "converteríamos",
+    "2p": "converteríeis",
+    "3p": "converteriam"
+  },
+  "PresC": {
+    "1s": "converta",
+    "2s": "convertas",
+    "3s": "converta",
+    "1p": "convertamos",
+    "2p": "convertais",
+    "3p": "convertam"
+  },
+  "PImpC": {
+    "1s": "convertesse",
+    "2s": "convertesses",
+    "3s": "convertesse",
+    "1p": "convertêssemos",
+    "2p": "convertêsseis",
+    "3p": "convertessem"
+  },
+  "FutSC": {
+    "1s": "converter",
+    "2s": "converteres",
+    "3s": "converter",
+    "1p": "convertermos",
+    "2p": "converterdes",
+    "3p": "converterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "converte",
+    "3s": "converta",
+    "1p": "convertamos",
+    "2p": "convertei",
+    "3p": "convertam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não convertas",
+    "3s": "não converta",
+    "1p": "não convertamos",
+    "2p": "não convertais",
+    "3p": "não convertam"
+  },
+  "Part-ter": {
+    "": "convertido"
+  },
+  "Part-ser": {
+    "ms": "convertido",
+    "fs": "convertida",
+    "mp": "convertidos",
+    "fp": "convertidas"
+  }
+}

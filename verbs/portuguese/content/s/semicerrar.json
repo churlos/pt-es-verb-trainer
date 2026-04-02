@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "semicerrar"
+  },
+  "InfP": {
+    "1s": "semicerrar",
+    "2s": "semicerrares",
+    "3s": "semicerrar",
+    "1p": "semicerrarmos",
+    "2p": "semicerrardes",
+    "3p": "semicerrarem"
+  },
+  "Ger": {
+    "": "semicerrando"
+  },
+  "PresI": {
+    "1s": "semicerro",
+    "2s": "semicerras",
+    "3s": "semicerra",
+    "1p": "semicerramos",
+    "2p": "semicerrais",
+    "3p": "semicerram"
+  },
+  "PImpI": {
+    "1s": "semicerrava",
+    "2s": "semicerravas",
+    "3s": "semicerrava",
+    "1p": "semicerrávamos",
+    "2p": "semicerráveis",
+    "3p": "semicerravam"
+  },
+  "PPSI": {
+    "1s": "semicerrei",
+    "2s": "semicerraste",
+    "3s": "semicerrou",
+    "1p": "semicerrámos",
+    "2p": "semicerrastes",
+    "3p": "semicerraram"
+  },
+  "PMQPSI": {
+    "1s": "semicerrara",
+    "2s": "semicerraras",
+    "3s": "semicerrara",
+    "1p": "semicerráramos",
+    "2p": "semicerráreis",
+    "3p": "semicerraram"
+  },
+  "FutSI": {
+    "1s": "semicerrarei",
+    "2s": "semicerrarás",
+    "3s": "semicerrará",
+    "1p": "semicerraremos",
+    "2p": "semicerrareis",
+    "3p": "semicerrarão"
+  },
+  "CondS": {
+    "1s": "semicerraria",
+    "2s": "semicerrarias",
+    "3s": "semicerraria",
+    "1p": "semicerraríamos",
+    "2p": "semicerraríeis",
+    "3p": "semicerrariam"
+  },
+  "PresC": {
+    "1s": "semicerre",
+    "2s": "semicerres",
+    "3s": "semicerre",
+    "1p": "semicerremos",
+    "2p": "semicerreis",
+    "3p": "semicerrem"
+  },
+  "PImpC": {
+    "1s": "semicerrasse",
+    "2s": "semicerrasses",
+    "3s": "semicerrasse",
+    "1p": "semicerrássemos",
+    "2p": "semicerrásseis",
+    "3p": "semicerrassem"
+  },
+  "FutSC": {
+    "1s": "semicerrar",
+    "2s": "semicerrares",
+    "3s": "semicerrar",
+    "1p": "semicerrarmos",
+    "2p": "semicerrardes",
+    "3p": "semicerrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "semicerra",
+    "3s": "semicerre",
+    "1p": "semicerremos",
+    "2p": "semicerrai",
+    "3p": "semicerrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não semicerres",
+    "3s": "não semicerre",
+    "1p": "não semicerremos",
+    "2p": "não semicerreis",
+    "3p": "não semicerrem"
+  },
+  "Part-ter": {
+    "": "semicerrado"
+  },
+  "Part-ser": {
+    "ms": "semicerrado",
+    "fs": "semicerrada",
+    "mp": "semicerrados",
+    "fp": "semicerradas"
+  }
+}

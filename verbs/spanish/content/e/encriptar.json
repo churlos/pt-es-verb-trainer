@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encriptar"
+  },
+  "Ger": {
+    "": "encriptando"
+  },
+  "PresI": {
+    "1s": "encripto",
+    "2s": "encriptas",
+    "3s": "encripta",
+    "1p": "encriptamos",
+    "2p": "encriptáis",
+    "3p": "encriptan"
+  },
+  "PImpI": {
+    "1s": "encriptaba",
+    "2s": "encriptabas",
+    "3s": "encriptaba",
+    "1p": "encriptábamos",
+    "2p": "encriptabais",
+    "3p": "encriptaban"
+  },
+  "PPSI": {
+    "1s": "encripté",
+    "2s": "encriptaste",
+    "3s": "encriptó",
+    "1p": "encriptamos",
+    "2p": "encriptasteis",
+    "3p": "encriptaron"
+  },
+  "FutSI": {
+    "1s": "encriptaré",
+    "2s": "encriptarás",
+    "3s": "encriptará",
+    "1p": "encriptaremos",
+    "2p": "encriptaréis",
+    "3p": "encriptarán"
+  },
+  "CondS": {
+    "1s": "encriptaría",
+    "2s": "encriptarías",
+    "3s": "encriptaría",
+    "1p": "encriptaríamos",
+    "2p": "encriptaríais",
+    "3p": "encriptarían"
+  },
+  "PresC": {
+    "1s": "encripte",
+    "2s": "encriptes",
+    "3s": "encripte",
+    "1p": "encriptemos",
+    "2p": "encriptéis",
+    "3p": "encripten"
+  },
+  "PMQPSI": {
+    "1s": "encriptara",
+    "2s": "encriptaras",
+    "3s": "encriptara",
+    "1p": "encriptáramos",
+    "2p": "encriptarais",
+    "3p": "encriptaran"
+  },
+  "PImpC": {
+    "1s": "encriptase",
+    "2s": "encriptases",
+    "3s": "encriptase",
+    "1p": "encriptásemos",
+    "2p": "encriptaseis",
+    "3p": "encriptasen"
+  },
+  "FutSC": {
+    "1s": "encriptare",
+    "2s": "encriptares",
+    "3s": "encriptare",
+    "1p": "encriptáremos",
+    "2p": "encriptareis",
+    "3p": "encriptaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encripta",
+    "3s": "encripte",
+    "1p": "encriptemos",
+    "2p": "encriptad",
+    "3p": "encripten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encriptes",
+    "3s": "no encripte",
+    "1p": "no encriptemos",
+    "2p": "no encriptéis",
+    "3p": "no encripten"
+  },
+  "Part-ter": {
+    "": "encriptado"
+  },
+  "Part-ser": {
+    "ms": "encriptado",
+    "fs": "encriptada",
+    "mp": "encriptados",
+    "fp": "encriptadas"
+  }
+}

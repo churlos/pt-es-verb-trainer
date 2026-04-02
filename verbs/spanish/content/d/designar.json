@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "designar"
+  },
+  "Ger": {
+    "": "designando"
+  },
+  "PresI": {
+    "1s": "designo",
+    "2s": "designas",
+    "3s": "designa",
+    "1p": "designamos",
+    "2p": "designáis",
+    "3p": "designan"
+  },
+  "PImpI": {
+    "1s": "designaba",
+    "2s": "designabas",
+    "3s": "designaba",
+    "1p": "designábamos",
+    "2p": "designabais",
+    "3p": "designaban"
+  },
+  "PPSI": {
+    "1s": "designé",
+    "2s": "designaste",
+    "3s": "designó",
+    "1p": "designamos",
+    "2p": "designasteis",
+    "3p": "designaron"
+  },
+  "FutSI": {
+    "1s": "designaré",
+    "2s": "designarás",
+    "3s": "designará",
+    "1p": "designaremos",
+    "2p": "designaréis",
+    "3p": "designarán"
+  },
+  "CondS": {
+    "1s": "designaría",
+    "2s": "designarías",
+    "3s": "designaría",
+    "1p": "designaríamos",
+    "2p": "designaríais",
+    "3p": "designarían"
+  },
+  "PresC": {
+    "1s": "designe",
+    "2s": "designes",
+    "3s": "designe",
+    "1p": "designemos",
+    "2p": "designéis",
+    "3p": "designen"
+  },
+  "PMQPSI": {
+    "1s": "designara",
+    "2s": "designaras",
+    "3s": "designara",
+    "1p": "designáramos",
+    "2p": "designarais",
+    "3p": "designaran"
+  },
+  "PImpC": {
+    "1s": "designase",
+    "2s": "designases",
+    "3s": "designase",
+    "1p": "designásemos",
+    "2p": "designaseis",
+    "3p": "designasen"
+  },
+  "FutSC": {
+    "1s": "designare",
+    "2s": "designares",
+    "3s": "designare",
+    "1p": "designáremos",
+    "2p": "designareis",
+    "3p": "designaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "designa",
+    "3s": "designe",
+    "1p": "designemos",
+    "2p": "designad",
+    "3p": "designen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no designes",
+    "3s": "no designe",
+    "1p": "no designemos",
+    "2p": "no designéis",
+    "3p": "no designen"
+  },
+  "Part-ter": {
+    "": "designado"
+  },
+  "Part-ser": {
+    "ms": "designado",
+    "fs": "designada",
+    "mp": "designados",
+    "fp": "designadas"
+  }
+}

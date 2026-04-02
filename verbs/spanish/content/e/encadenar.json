@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encadenar"
+  },
+  "Ger": {
+    "": "encadenando"
+  },
+  "PresI": {
+    "1s": "encadeno",
+    "2s": "encadenas",
+    "3s": "encadena",
+    "1p": "encadenamos",
+    "2p": "encadenáis",
+    "3p": "encadenan"
+  },
+  "PImpI": {
+    "1s": "encadenaba",
+    "2s": "encadenabas",
+    "3s": "encadenaba",
+    "1p": "encadenábamos",
+    "2p": "encadenabais",
+    "3p": "encadenaban"
+  },
+  "PPSI": {
+    "1s": "encadené",
+    "2s": "encadenaste",
+    "3s": "encadenó",
+    "1p": "encadenamos",
+    "2p": "encadenasteis",
+    "3p": "encadenaron"
+  },
+  "FutSI": {
+    "1s": "encadenaré",
+    "2s": "encadenarás",
+    "3s": "encadenará",
+    "1p": "encadenaremos",
+    "2p": "encadenaréis",
+    "3p": "encadenarán"
+  },
+  "CondS": {
+    "1s": "encadenaría",
+    "2s": "encadenarías",
+    "3s": "encadenaría",
+    "1p": "encadenaríamos",
+    "2p": "encadenaríais",
+    "3p": "encadenarían"
+  },
+  "PresC": {
+    "1s": "encadene",
+    "2s": "encadenes",
+    "3s": "encadene",
+    "1p": "encadenemos",
+    "2p": "encadenéis",
+    "3p": "encadenen"
+  },
+  "PMQPSI": {
+    "1s": "encadenara",
+    "2s": "encadenaras",
+    "3s": "encadenara",
+    "1p": "encadenáramos",
+    "2p": "encadenarais",
+    "3p": "encadenaran"
+  },
+  "PImpC": {
+    "1s": "encadenase",
+    "2s": "encadenases",
+    "3s": "encadenase",
+    "1p": "encadenásemos",
+    "2p": "encadenaseis",
+    "3p": "encadenasen"
+  },
+  "FutSC": {
+    "1s": "encadenare",
+    "2s": "encadenares",
+    "3s": "encadenare",
+    "1p": "encadenáremos",
+    "2p": "encadenareis",
+    "3p": "encadenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encadena",
+    "3s": "encadene",
+    "1p": "encadenemos",
+    "2p": "encadenad",
+    "3p": "encadenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encadenes",
+    "3s": "no encadene",
+    "1p": "no encadenemos",
+    "2p": "no encadenéis",
+    "3p": "no encadenen"
+  },
+  "Part-ter": {
+    "": "encadenado"
+  },
+  "Part-ser": {
+    "ms": "encadenado",
+    "fs": "encadenada",
+    "mp": "encadenados",
+    "fp": "encadenadas"
+  }
+}

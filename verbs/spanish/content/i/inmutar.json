@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inmutar"
+  },
+  "Ger": {
+    "": "inmutando"
+  },
+  "PresI": {
+    "1s": "inmuto",
+    "2s": "inmutas",
+    "3s": "inmuta",
+    "1p": "inmutamos",
+    "2p": "inmutáis",
+    "3p": "inmutan"
+  },
+  "PImpI": {
+    "1s": "inmutaba",
+    "2s": "inmutabas",
+    "3s": "inmutaba",
+    "1p": "inmutábamos",
+    "2p": "inmutabais",
+    "3p": "inmutaban"
+  },
+  "PPSI": {
+    "1s": "inmuté",
+    "2s": "inmutaste",
+    "3s": "inmutó",
+    "1p": "inmutamos",
+    "2p": "inmutasteis",
+    "3p": "inmutaron"
+  },
+  "FutSI": {
+    "1s": "inmutaré",
+    "2s": "inmutarás",
+    "3s": "inmutará",
+    "1p": "inmutaremos",
+    "2p": "inmutaréis",
+    "3p": "inmutarán"
+  },
+  "CondS": {
+    "1s": "inmutaría",
+    "2s": "inmutarías",
+    "3s": "inmutaría",
+    "1p": "inmutaríamos",
+    "2p": "inmutaríais",
+    "3p": "inmutarían"
+  },
+  "PresC": {
+    "1s": "inmute",
+    "2s": "inmutes",
+    "3s": "inmute",
+    "1p": "inmutemos",
+    "2p": "inmutéis",
+    "3p": "inmuten"
+  },
+  "PMQPSI": {
+    "1s": "inmutara",
+    "2s": "inmutaras",
+    "3s": "inmutara",
+    "1p": "inmutáramos",
+    "2p": "inmutarais",
+    "3p": "inmutaran"
+  },
+  "PImpC": {
+    "1s": "inmutase",
+    "2s": "inmutases",
+    "3s": "inmutase",
+    "1p": "inmutásemos",
+    "2p": "inmutaseis",
+    "3p": "inmutasen"
+  },
+  "FutSC": {
+    "1s": "inmutare",
+    "2s": "inmutares",
+    "3s": "inmutare",
+    "1p": "inmutáremos",
+    "2p": "inmutareis",
+    "3p": "inmutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inmuta",
+    "3s": "inmute",
+    "1p": "inmutemos",
+    "2p": "inmutad",
+    "3p": "inmuten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inmutes",
+    "3s": "no inmute",
+    "1p": "no inmutemos",
+    "2p": "no inmutéis",
+    "3p": "no inmuten"
+  },
+  "Part-ter": {
+    "": "inmutado"
+  },
+  "Part-ser": {
+    "ms": "inmutado",
+    "fs": "inmutada",
+    "mp": "inmutados",
+    "fp": "inmutadas"
+  }
+}

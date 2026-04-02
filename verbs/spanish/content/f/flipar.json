@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "flipar"
+  },
+  "Ger": {
+    "": "flipando"
+  },
+  "PresI": {
+    "1s": "flipo",
+    "2s": "flipas",
+    "3s": "flipa",
+    "1p": "flipamos",
+    "2p": "flipáis",
+    "3p": "flipan"
+  },
+  "PImpI": {
+    "1s": "flipaba",
+    "2s": "flipabas",
+    "3s": "flipaba",
+    "1p": "flipábamos",
+    "2p": "flipabais",
+    "3p": "flipaban"
+  },
+  "PPSI": {
+    "1s": "flipé",
+    "2s": "flipaste",
+    "3s": "flipó",
+    "1p": "flipamos",
+    "2p": "flipasteis",
+    "3p": "fliparon"
+  },
+  "FutSI": {
+    "1s": "fliparé",
+    "2s": "fliparás",
+    "3s": "flipará",
+    "1p": "fliparemos",
+    "2p": "fliparéis",
+    "3p": "fliparán"
+  },
+  "CondS": {
+    "1s": "fliparía",
+    "2s": "fliparías",
+    "3s": "fliparía",
+    "1p": "fliparíamos",
+    "2p": "fliparíais",
+    "3p": "fliparían"
+  },
+  "PresC": {
+    "1s": "flipe",
+    "2s": "flipes",
+    "3s": "flipe",
+    "1p": "flipemos",
+    "2p": "flipéis",
+    "3p": "flipen"
+  },
+  "PMQPSI": {
+    "1s": "flipara",
+    "2s": "fliparas",
+    "3s": "flipara",
+    "1p": "flipáramos",
+    "2p": "fliparais",
+    "3p": "fliparan"
+  },
+  "PImpC": {
+    "1s": "flipase",
+    "2s": "flipases",
+    "3s": "flipase",
+    "1p": "flipásemos",
+    "2p": "flipaseis",
+    "3p": "flipasen"
+  },
+  "FutSC": {
+    "1s": "flipare",
+    "2s": "flipares",
+    "3s": "flipare",
+    "1p": "flipáremos",
+    "2p": "flipareis",
+    "3p": "fliparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flipa",
+    "3s": "flipe",
+    "1p": "flipemos",
+    "2p": "flipad",
+    "3p": "flipen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no flipes",
+    "3s": "no flipe",
+    "1p": "no flipemos",
+    "2p": "no flipéis",
+    "3p": "no flipen"
+  },
+  "Part-ter": {
+    "": "flipado"
+  },
+  "Part-ser": {
+    "ms": "flipado",
+    "fs": "flipada",
+    "mp": "flipados",
+    "fp": "flipadas"
+  }
+}

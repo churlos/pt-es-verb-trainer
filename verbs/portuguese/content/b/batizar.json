@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "batizar"
+  },
+  "InfP": {
+    "1s": "batizar",
+    "2s": "batizares",
+    "3s": "batizar",
+    "1p": "batizarmos",
+    "2p": "batizardes",
+    "3p": "batizarem"
+  },
+  "Ger": {
+    "": "batizando"
+  },
+  "PresI": {
+    "1s": "batizo",
+    "2s": "batizas",
+    "3s": "batiza",
+    "1p": "batizamos",
+    "2p": "batizais",
+    "3p": "batizam"
+  },
+  "PImpI": {
+    "1s": "batizava",
+    "2s": "batizavas",
+    "3s": "batizava",
+    "1p": "batizávamos",
+    "2p": "batizáveis",
+    "3p": "batizavam"
+  },
+  "PPSI": {
+    "1s": "batizei",
+    "2s": "batizaste",
+    "3s": "batizou",
+    "1p": "batizámos",
+    "2p": "batizastes",
+    "3p": "batizaram"
+  },
+  "PMQPSI": {
+    "1s": "batizara",
+    "2s": "batizaras",
+    "3s": "batizara",
+    "1p": "batizáramos",
+    "2p": "batizáreis",
+    "3p": "batizaram"
+  },
+  "FutSI": {
+    "1s": "batizarei",
+    "2s": "batizarás",
+    "3s": "batizará",
+    "1p": "batizaremos",
+    "2p": "batizareis",
+    "3p": "batizarão"
+  },
+  "CondS": {
+    "1s": "batizaria",
+    "2s": "batizarias",
+    "3s": "batizaria",
+    "1p": "batizaríamos",
+    "2p": "batizaríeis",
+    "3p": "batizariam"
+  },
+  "PresC": {
+    "1s": "batize",
+    "2s": "batizes",
+    "3s": "batize",
+    "1p": "batizemos",
+    "2p": "batizeis",
+    "3p": "batizem"
+  },
+  "PImpC": {
+    "1s": "batizasse",
+    "2s": "batizasses",
+    "3s": "batizasse",
+    "1p": "batizássemos",
+    "2p": "batizásseis",
+    "3p": "batizassem"
+  },
+  "FutSC": {
+    "1s": "batizar",
+    "2s": "batizares",
+    "3s": "batizar",
+    "1p": "batizarmos",
+    "2p": "batizardes",
+    "3p": "batizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "batiza",
+    "3s": "batize",
+    "1p": "batizemos",
+    "2p": "batizai",
+    "3p": "batizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não batizes",
+    "3s": "não batize",
+    "1p": "não batizemos",
+    "2p": "não batizeis",
+    "3p": "não batizem"
+  },
+  "Part-ter": {
+    "": "batizado"
+  },
+  "Part-ser": {
+    "ms": "batizado",
+    "fs": "batizada",
+    "mp": "batizados",
+    "fp": "batizadas"
+  }
+}

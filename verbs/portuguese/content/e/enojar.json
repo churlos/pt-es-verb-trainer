@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enojar"
+  },
+  "InfP": {
+    "1s": "enojar",
+    "2s": "enojares",
+    "3s": "enojar",
+    "1p": "enojarmos",
+    "2p": "enojardes",
+    "3p": "enojarem"
+  },
+  "Ger": {
+    "": "enojando"
+  },
+  "PresI": {
+    "1s": "enojo",
+    "2s": "enojas",
+    "3s": "enoja",
+    "1p": "enojamos",
+    "2p": "enojais",
+    "3p": "enojam"
+  },
+  "PImpI": {
+    "1s": "enojava",
+    "2s": "enojavas",
+    "3s": "enojava",
+    "1p": "enojávamos",
+    "2p": "enojáveis",
+    "3p": "enojavam"
+  },
+  "PPSI": {
+    "1s": "enojei",
+    "2s": "enojaste",
+    "3s": "enojou",
+    "1p": "enojámos",
+    "2p": "enojastes",
+    "3p": "enojaram"
+  },
+  "PMQPSI": {
+    "1s": "enojara",
+    "2s": "enojaras",
+    "3s": "enojara",
+    "1p": "enojáramos",
+    "2p": "enojáreis",
+    "3p": "enojaram"
+  },
+  "FutSI": {
+    "1s": "enojarei",
+    "2s": "enojarás",
+    "3s": "enojará",
+    "1p": "enojaremos",
+    "2p": "enojareis",
+    "3p": "enojarão"
+  },
+  "CondS": {
+    "1s": "enojaria",
+    "2s": "enojarias",
+    "3s": "enojaria",
+    "1p": "enojaríamos",
+    "2p": "enojaríeis",
+    "3p": "enojariam"
+  },
+  "PresC": {
+    "1s": "enoje",
+    "2s": "enojes",
+    "3s": "enoje",
+    "1p": "enojemos",
+    "2p": "enojeis",
+    "3p": "enojem"
+  },
+  "PImpC": {
+    "1s": "enojasse",
+    "2s": "enojasses",
+    "3s": "enojasse",
+    "1p": "enojássemos",
+    "2p": "enojásseis",
+    "3p": "enojassem"
+  },
+  "FutSC": {
+    "1s": "enojar",
+    "2s": "enojares",
+    "3s": "enojar",
+    "1p": "enojarmos",
+    "2p": "enojardes",
+    "3p": "enojarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enoja",
+    "3s": "enoje",
+    "1p": "enojemos",
+    "2p": "enojai",
+    "3p": "enojem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enojes",
+    "3s": "não enoje",
+    "1p": "não enojemos",
+    "2p": "não enojeis",
+    "3p": "não enojem"
+  },
+  "Part-ter": {
+    "": "enojado"
+  },
+  "Part-ser": {
+    "ms": "enojado",
+    "fs": "enojada",
+    "mp": "enojados",
+    "fp": "enojadas"
+  }
+}

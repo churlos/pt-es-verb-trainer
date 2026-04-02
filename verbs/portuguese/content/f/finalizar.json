@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "finalizar"
+  },
+  "InfP": {
+    "1s": "finalizar",
+    "2s": "finalizares",
+    "3s": "finalizar",
+    "1p": "finalizarmos",
+    "2p": "finalizardes",
+    "3p": "finalizarem"
+  },
+  "Ger": {
+    "": "finalizando"
+  },
+  "PresI": {
+    "1s": "finalizo",
+    "2s": "finalizas",
+    "3s": "finaliza",
+    "1p": "finalizamos",
+    "2p": "finalizais",
+    "3p": "finalizam"
+  },
+  "PImpI": {
+    "1s": "finalizava",
+    "2s": "finalizavas",
+    "3s": "finalizava",
+    "1p": "finalizávamos",
+    "2p": "finalizáveis",
+    "3p": "finalizavam"
+  },
+  "PPSI": {
+    "1s": "finalizei",
+    "2s": "finalizaste",
+    "3s": "finalizou",
+    "1p": "finalizámos",
+    "2p": "finalizastes",
+    "3p": "finalizaram"
+  },
+  "PMQPSI": {
+    "1s": "finalizara",
+    "2s": "finalizaras",
+    "3s": "finalizara",
+    "1p": "finalizáramos",
+    "2p": "finalizáreis",
+    "3p": "finalizaram"
+  },
+  "FutSI": {
+    "1s": "finalizarei",
+    "2s": "finalizarás",
+    "3s": "finalizará",
+    "1p": "finalizaremos",
+    "2p": "finalizareis",
+    "3p": "finalizarão"
+  },
+  "CondS": {
+    "1s": "finalizaria",
+    "2s": "finalizarias",
+    "3s": "finalizaria",
+    "1p": "finalizaríamos",
+    "2p": "finalizaríeis",
+    "3p": "finalizariam"
+  },
+  "PresC": {
+    "1s": "finalize",
+    "2s": "finalizes",
+    "3s": "finalize",
+    "1p": "finalizemos",
+    "2p": "finalizeis",
+    "3p": "finalizem"
+  },
+  "PImpC": {
+    "1s": "finalizasse",
+    "2s": "finalizasses",
+    "3s": "finalizasse",
+    "1p": "finalizássemos",
+    "2p": "finalizásseis",
+    "3p": "finalizassem"
+  },
+  "FutSC": {
+    "1s": "finalizar",
+    "2s": "finalizares",
+    "3s": "finalizar",
+    "1p": "finalizarmos",
+    "2p": "finalizardes",
+    "3p": "finalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "finaliza",
+    "3s": "finalize",
+    "1p": "finalizemos",
+    "2p": "finalizai",
+    "3p": "finalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não finalizes",
+    "3s": "não finalize",
+    "1p": "não finalizemos",
+    "2p": "não finalizeis",
+    "3p": "não finalizem"
+  },
+  "Part-ter": {
+    "": "finalizado"
+  },
+  "Part-ser": {
+    "ms": "finalizado",
+    "fs": "finalizada",
+    "mp": "finalizados",
+    "fp": "finalizadas"
+  }
+}

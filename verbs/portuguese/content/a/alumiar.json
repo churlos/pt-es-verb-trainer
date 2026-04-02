@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alumiar"
+  },
+  "InfP": {
+    "1s": "alumiar",
+    "2s": "alumiares",
+    "3s": "alumiar",
+    "1p": "alumiarmos",
+    "2p": "alumiardes",
+    "3p": "alumiarem"
+  },
+  "Ger": {
+    "": "alumiando"
+  },
+  "PresI": {
+    "1s": "alumio",
+    "2s": "alumias",
+    "3s": "alumia",
+    "1p": "alumiamos",
+    "2p": "alumiais",
+    "3p": "alumiam"
+  },
+  "PImpI": {
+    "1s": "alumiava",
+    "2s": "alumiavas",
+    "3s": "alumiava",
+    "1p": "alumiávamos",
+    "2p": "alumiáveis",
+    "3p": "alumiavam"
+  },
+  "PPSI": {
+    "1s": "alumiei",
+    "2s": "alumiaste",
+    "3s": "alumiou",
+    "1p": "alumiámos",
+    "2p": "alumiastes",
+    "3p": "alumiaram"
+  },
+  "PMQPSI": {
+    "1s": "alumiara",
+    "2s": "alumiaras",
+    "3s": "alumiara",
+    "1p": "alumiáramos",
+    "2p": "alumiáreis",
+    "3p": "alumiaram"
+  },
+  "FutSI": {
+    "1s": "alumiarei",
+    "2s": "alumiarás",
+    "3s": "alumiará",
+    "1p": "alumiaremos",
+    "2p": "alumiareis",
+    "3p": "alumiarão"
+  },
+  "CondS": {
+    "1s": "alumiaria",
+    "2s": "alumiarias",
+    "3s": "alumiaria",
+    "1p": "alumiaríamos",
+    "2p": "alumiaríeis",
+    "3p": "alumiariam"
+  },
+  "PresC": {
+    "1s": "alumie",
+    "2s": "alumies",
+    "3s": "alumie",
+    "1p": "alumiemos",
+    "2p": "alumieis",
+    "3p": "alumiem"
+  },
+  "PImpC": {
+    "1s": "alumiasse",
+    "2s": "alumiasses",
+    "3s": "alumiasse",
+    "1p": "alumiássemos",
+    "2p": "alumiásseis",
+    "3p": "alumiassem"
+  },
+  "FutSC": {
+    "1s": "alumiar",
+    "2s": "alumiares",
+    "3s": "alumiar",
+    "1p": "alumiarmos",
+    "2p": "alumiardes",
+    "3p": "alumiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alumia",
+    "3s": "alumie",
+    "1p": "alumiemos",
+    "2p": "alumiai",
+    "3p": "alumiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alumies",
+    "3s": "não alumie",
+    "1p": "não alumiemos",
+    "2p": "não alumieis",
+    "3p": "não alumiem"
+  },
+  "Part-ter": {
+    "": "alumiado"
+  },
+  "Part-ser": {
+    "ms": "alumiado",
+    "fs": "alumiada",
+    "mp": "alumiados",
+    "fp": "alumiadas"
+  }
+}

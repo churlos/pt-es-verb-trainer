@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reger"
+  },
+  "InfP": {
+    "1s": "reger",
+    "2s": "regeres",
+    "3s": "reger",
+    "1p": "regermos",
+    "2p": "regerdes",
+    "3p": "regerem"
+  },
+  "Ger": {
+    "": "regendo"
+  },
+  "PresI": {
+    "1s": "rejo",
+    "2s": "reges",
+    "3s": "rege",
+    "1p": "regemos",
+    "2p": "regeis",
+    "3p": "regem"
+  },
+  "PImpI": {
+    "1s": "regia",
+    "2s": "regias",
+    "3s": "regia",
+    "1p": "regíamos",
+    "2p": "regíeis",
+    "3p": "regiam"
+  },
+  "PPSI": {
+    "1s": "regi",
+    "2s": "regeste",
+    "3s": "regeu",
+    "1p": "regemos",
+    "2p": "regestes",
+    "3p": "regeram"
+  },
+  "PMQPSI": {
+    "1s": "regera",
+    "2s": "regeras",
+    "3s": "regera",
+    "1p": "regêramos",
+    "2p": "regêreis",
+    "3p": "regeram"
+  },
+  "FutSI": {
+    "1s": "regerei",
+    "2s": "regerás",
+    "3s": "regerá",
+    "1p": "regeremos",
+    "2p": "regereis",
+    "3p": "regerão"
+  },
+  "CondS": {
+    "1s": "regeria",
+    "2s": "regerias",
+    "3s": "regeria",
+    "1p": "regeríamos",
+    "2p": "regeríeis",
+    "3p": "regeriam"
+  },
+  "PresC": {
+    "1s": "reja",
+    "2s": "rejas",
+    "3s": "reja",
+    "1p": "rejamos",
+    "2p": "rejais",
+    "3p": "rejam"
+  },
+  "PImpC": {
+    "1s": "regesse",
+    "2s": "regesses",
+    "3s": "regesse",
+    "1p": "regêssemos",
+    "2p": "regêsseis",
+    "3p": "regessem"
+  },
+  "FutSC": {
+    "1s": "reger",
+    "2s": "regeres",
+    "3s": "reger",
+    "1p": "regermos",
+    "2p": "regerdes",
+    "3p": "regerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rege",
+    "3s": "reja",
+    "1p": "rejamos",
+    "2p": "regei",
+    "3p": "rejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rejas",
+    "3s": "não reja",
+    "1p": "não rejamos",
+    "2p": "não rejais",
+    "3p": "não rejam"
+  },
+  "Part-ter": {
+    "": "regido"
+  },
+  "Part-ser": {
+    "ms": "regido",
+    "fs": "regida",
+    "mp": "regidos",
+    "fp": "regidas"
+  }
+}

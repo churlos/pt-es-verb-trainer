@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cimentar"
+  },
+  "Ger": {
+    "": "cimentando"
+  },
+  "PresI": {
+    "1s": "cimiento",
+    "2s": "cimientas",
+    "3s": "cimienta",
+    "1p": "cimentamos",
+    "2p": "cimentáis",
+    "3p": "cimientan"
+  },
+  "PImpI": {
+    "1s": "cimentaba",
+    "2s": "cimentabas",
+    "3s": "cimentaba",
+    "1p": "cimentábamos",
+    "2p": "cimentabais",
+    "3p": "cimentaban"
+  },
+  "PPSI": {
+    "1s": "cimenté",
+    "2s": "cimentaste",
+    "3s": "cimentó",
+    "1p": "cimentamos",
+    "2p": "cimentasteis",
+    "3p": "cimentaron"
+  },
+  "FutSI": {
+    "1s": "cimentaré",
+    "2s": "cimentarás",
+    "3s": "cimentará",
+    "1p": "cimentaremos",
+    "2p": "cimentaréis",
+    "3p": "cimentarán"
+  },
+  "CondS": {
+    "1s": "cimentaría",
+    "2s": "cimentarías",
+    "3s": "cimentaría",
+    "1p": "cimentaríamos",
+    "2p": "cimentaríais",
+    "3p": "cimentarían"
+  },
+  "PresC": {
+    "1s": "cimiente",
+    "2s": "cimientes",
+    "3s": "cimiente",
+    "1p": "cimentemos",
+    "2p": "cimentéis",
+    "3p": "cimienten"
+  },
+  "PMQPSI": {
+    "1s": "cimentara",
+    "2s": "cimentaras",
+    "3s": "cimentara",
+    "1p": "cimentáramos",
+    "2p": "cimentarais",
+    "3p": "cimentaran"
+  },
+  "PImpC": {
+    "1s": "cimentase",
+    "2s": "cimentases",
+    "3s": "cimentase",
+    "1p": "cimentásemos",
+    "2p": "cimentaseis",
+    "3p": "cimentasen"
+  },
+  "FutSC": {
+    "1s": "cimentare",
+    "2s": "cimentares",
+    "3s": "cimentare",
+    "1p": "cimentáremos",
+    "2p": "cimentareis",
+    "3p": "cimentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cimienta",
+    "3s": "cimiente",
+    "1p": "cimentemos",
+    "2p": "cimentad",
+    "3p": "cimienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cimientes",
+    "3s": "no cimiente",
+    "1p": "no cimentemos",
+    "2p": "no cimentéis",
+    "3p": "no cimienten"
+  },
+  "Part-ter": {
+    "": "cimentado"
+  },
+  "Part-ser": {
+    "ms": "cimentado",
+    "fs": "cimentada",
+    "mp": "cimentados",
+    "fp": "cimentadas"
+  }
+}

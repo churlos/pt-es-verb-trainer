@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recetar"
+  },
+  "Ger": {
+    "": "recetando"
+  },
+  "PresI": {
+    "1s": "receto",
+    "2s": "recetas",
+    "3s": "receta",
+    "1p": "recetamos",
+    "2p": "recetáis",
+    "3p": "recetan"
+  },
+  "PImpI": {
+    "1s": "recetaba",
+    "2s": "recetabas",
+    "3s": "recetaba",
+    "1p": "recetábamos",
+    "2p": "recetabais",
+    "3p": "recetaban"
+  },
+  "PPSI": {
+    "1s": "receté",
+    "2s": "recetaste",
+    "3s": "recetó",
+    "1p": "recetamos",
+    "2p": "recetasteis",
+    "3p": "recetaron"
+  },
+  "FutSI": {
+    "1s": "recetaré",
+    "2s": "recetarás",
+    "3s": "recetará",
+    "1p": "recetaremos",
+    "2p": "recetaréis",
+    "3p": "recetarán"
+  },
+  "CondS": {
+    "1s": "recetaría",
+    "2s": "recetarías",
+    "3s": "recetaría",
+    "1p": "recetaríamos",
+    "2p": "recetaríais",
+    "3p": "recetarían"
+  },
+  "PresC": {
+    "1s": "recete",
+    "2s": "recetes",
+    "3s": "recete",
+    "1p": "recetemos",
+    "2p": "recetéis",
+    "3p": "receten"
+  },
+  "PMQPSI": {
+    "1s": "recetara",
+    "2s": "recetaras",
+    "3s": "recetara",
+    "1p": "recetáramos",
+    "2p": "recetarais",
+    "3p": "recetaran"
+  },
+  "PImpC": {
+    "1s": "recetase",
+    "2s": "recetases",
+    "3s": "recetase",
+    "1p": "recetásemos",
+    "2p": "recetaseis",
+    "3p": "recetasen"
+  },
+  "FutSC": {
+    "1s": "recetare",
+    "2s": "recetares",
+    "3s": "recetare",
+    "1p": "recetáremos",
+    "2p": "recetareis",
+    "3p": "recetaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "receta",
+    "3s": "recete",
+    "1p": "recetemos",
+    "2p": "recetad",
+    "3p": "receten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recetes",
+    "3s": "no recete",
+    "1p": "no recetemos",
+    "2p": "no recetéis",
+    "3p": "no receten"
+  },
+  "Part-ter": {
+    "": "recetado"
+  },
+  "Part-ser": {
+    "ms": "recetado",
+    "fs": "recetada",
+    "mp": "recetados",
+    "fp": "recetadas"
+  }
+}

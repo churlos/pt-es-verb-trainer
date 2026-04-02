@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "solar"
+  },
+  "Ger": {
+    "": "solando"
+  },
+  "PresI": {
+    "1s": "suelo",
+    "2s": "suelas",
+    "3s": "suela",
+    "1p": "solamos",
+    "2p": "soláis",
+    "3p": "suelan"
+  },
+  "PImpI": {
+    "1s": "solaba",
+    "2s": "solabas",
+    "3s": "solaba",
+    "1p": "solábamos",
+    "2p": "solabais",
+    "3p": "solaban"
+  },
+  "PPSI": {
+    "1s": "solé",
+    "2s": "solaste",
+    "3s": "soló",
+    "1p": "solamos",
+    "2p": "solasteis",
+    "3p": "solaron"
+  },
+  "FutSI": {
+    "1s": "solaré",
+    "2s": "solarás",
+    "3s": "solará",
+    "1p": "solaremos",
+    "2p": "solaréis",
+    "3p": "solarán"
+  },
+  "CondS": {
+    "1s": "solaría",
+    "2s": "solarías",
+    "3s": "solaría",
+    "1p": "solaríamos",
+    "2p": "solaríais",
+    "3p": "solarían"
+  },
+  "PresC": {
+    "1s": "suele",
+    "2s": "sueles",
+    "3s": "suele",
+    "1p": "solemos",
+    "2p": "soléis",
+    "3p": "suelen"
+  },
+  "PMQPSI": {
+    "1s": "solara",
+    "2s": "solaras",
+    "3s": "solara",
+    "1p": "soláramos",
+    "2p": "solarais",
+    "3p": "solaran"
+  },
+  "PImpC": {
+    "1s": "solase",
+    "2s": "solases",
+    "3s": "solase",
+    "1p": "solásemos",
+    "2p": "solaseis",
+    "3p": "solasen"
+  },
+  "FutSC": {
+    "1s": "solare",
+    "2s": "solares",
+    "3s": "solare",
+    "1p": "soláremos",
+    "2p": "solareis",
+    "3p": "solaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suela",
+    "3s": "suele",
+    "1p": "solemos",
+    "2p": "solad",
+    "3p": "suelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sueles",
+    "3s": "no suele",
+    "1p": "no solemos",
+    "2p": "no soléis",
+    "3p": "no suelen"
+  },
+  "Part-ter": {
+    "": "solado"
+  },
+  "Part-ser": {
+    "ms": "solado",
+    "fs": "solada",
+    "mp": "solados",
+    "fp": "soladas"
+  }
+}

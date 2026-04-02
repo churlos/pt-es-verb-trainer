@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dourar"
+  },
+  "InfP": {
+    "1s": "dourar",
+    "2s": "dourares",
+    "3s": "dourar",
+    "1p": "dourarmos",
+    "2p": "dourardes",
+    "3p": "dourarem"
+  },
+  "Ger": {
+    "": "dourando"
+  },
+  "PresI": {
+    "1s": "douro",
+    "2s": "douras",
+    "3s": "doura",
+    "1p": "douramos",
+    "2p": "dourais",
+    "3p": "douram"
+  },
+  "PImpI": {
+    "1s": "dourava",
+    "2s": "douravas",
+    "3s": "dourava",
+    "1p": "dourávamos",
+    "2p": "douráveis",
+    "3p": "douravam"
+  },
+  "PPSI": {
+    "1s": "dourei",
+    "2s": "douraste",
+    "3s": "dourou",
+    "1p": "dourámos",
+    "2p": "dourastes",
+    "3p": "douraram"
+  },
+  "PMQPSI": {
+    "1s": "dourara",
+    "2s": "douraras",
+    "3s": "dourara",
+    "1p": "douráramos",
+    "2p": "douráreis",
+    "3p": "douraram"
+  },
+  "FutSI": {
+    "1s": "dourarei",
+    "2s": "dourarás",
+    "3s": "dourará",
+    "1p": "douraremos",
+    "2p": "dourareis",
+    "3p": "dourarão"
+  },
+  "CondS": {
+    "1s": "douraria",
+    "2s": "dourarias",
+    "3s": "douraria",
+    "1p": "douraríamos",
+    "2p": "douraríeis",
+    "3p": "dourariam"
+  },
+  "PresC": {
+    "1s": "doure",
+    "2s": "doures",
+    "3s": "doure",
+    "1p": "douremos",
+    "2p": "doureis",
+    "3p": "dourem"
+  },
+  "PImpC": {
+    "1s": "dourasse",
+    "2s": "dourasses",
+    "3s": "dourasse",
+    "1p": "dourássemos",
+    "2p": "dourásseis",
+    "3p": "dourassem"
+  },
+  "FutSC": {
+    "1s": "dourar",
+    "2s": "dourares",
+    "3s": "dourar",
+    "1p": "dourarmos",
+    "2p": "dourardes",
+    "3p": "dourarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "doura",
+    "3s": "doure",
+    "1p": "douremos",
+    "2p": "dourai",
+    "3p": "dourem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não doures",
+    "3s": "não doure",
+    "1p": "não douremos",
+    "2p": "não doureis",
+    "3p": "não dourem"
+  },
+  "Part-ter": {
+    "": "dourado"
+  },
+  "Part-ser": {
+    "ms": "dourado",
+    "fs": "dourada",
+    "mp": "dourados",
+    "fp": "douradas"
+  }
+}

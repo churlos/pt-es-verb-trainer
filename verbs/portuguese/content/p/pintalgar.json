@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pintalgar"
+  },
+  "InfP": {
+    "1s": "pintalgar",
+    "2s": "pintalgares",
+    "3s": "pintalgar",
+    "1p": "pintalgarmos",
+    "2p": "pintalgardes",
+    "3p": "pintalgarem"
+  },
+  "Ger": {
+    "": "pintalgando"
+  },
+  "PresI": {
+    "1s": "pintalgo",
+    "2s": "pintalgas",
+    "3s": "pintalga",
+    "1p": "pintalgamos",
+    "2p": "pintalgais",
+    "3p": "pintalgam"
+  },
+  "PImpI": {
+    "1s": "pintalgava",
+    "2s": "pintalgavas",
+    "3s": "pintalgava",
+    "1p": "pintalgávamos",
+    "2p": "pintalgáveis",
+    "3p": "pintalgavam"
+  },
+  "PPSI": {
+    "1s": "pintalguei",
+    "2s": "pintalgaste",
+    "3s": "pintalgou",
+    "1p": "pintalgámos",
+    "2p": "pintalgastes",
+    "3p": "pintalgaram"
+  },
+  "PMQPSI": {
+    "1s": "pintalgara",
+    "2s": "pintalgaras",
+    "3s": "pintalgara",
+    "1p": "pintalgáramos",
+    "2p": "pintalgáreis",
+    "3p": "pintalgaram"
+  },
+  "FutSI": {
+    "1s": "pintalgarei",
+    "2s": "pintalgarás",
+    "3s": "pintalgará",
+    "1p": "pintalgaremos",
+    "2p": "pintalgareis",
+    "3p": "pintalgarão"
+  },
+  "CondS": {
+    "1s": "pintalgaria",
+    "2s": "pintalgarias",
+    "3s": "pintalgaria",
+    "1p": "pintalgaríamos",
+    "2p": "pintalgaríeis",
+    "3p": "pintalgariam"
+  },
+  "PresC": {
+    "1s": "pintalgue",
+    "2s": "pintalgues",
+    "3s": "pintalgue",
+    "1p": "pintalguemos",
+    "2p": "pintalgueis",
+    "3p": "pintalguem"
+  },
+  "PImpC": {
+    "1s": "pintalgasse",
+    "2s": "pintalgasses",
+    "3s": "pintalgasse",
+    "1p": "pintalgássemos",
+    "2p": "pintalgásseis",
+    "3p": "pintalgassem"
+  },
+  "FutSC": {
+    "1s": "pintalgar",
+    "2s": "pintalgares",
+    "3s": "pintalgar",
+    "1p": "pintalgarmos",
+    "2p": "pintalgardes",
+    "3p": "pintalgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pintalga",
+    "3s": "pintalgue",
+    "1p": "pintalguemos",
+    "2p": "pintalgai",
+    "3p": "pintalguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pintalgues",
+    "3s": "não pintalgue",
+    "1p": "não pintalguemos",
+    "2p": "não pintalgueis",
+    "3p": "não pintalguem"
+  },
+  "Part-ter": {
+    "": "pintalgado"
+  },
+  "Part-ser": {
+    "ms": "pintalgado",
+    "fs": "pintalgada",
+    "mp": "pintalgados",
+    "fp": "pintalgadas"
+  }
+}

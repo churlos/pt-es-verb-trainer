@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "saudar"
+  },
+  "InfP": {
+    "1s": "saudar",
+    "2s": "saudares",
+    "3s": "saudar",
+    "1p": "saudarmos",
+    "2p": "saudardes",
+    "3p": "saudarem"
+  },
+  "Ger": {
+    "": "saudando"
+  },
+  "PresI": {
+    "1s": "saúdo",
+    "2s": "saúdas",
+    "3s": "saúda",
+    "1p": "saudamos",
+    "2p": "saudais",
+    "3p": "saúdam"
+  },
+  "PImpI": {
+    "1s": "saudava",
+    "2s": "saudavas",
+    "3s": "saudava",
+    "1p": "saudávamos",
+    "2p": "saudáveis",
+    "3p": "saudavam"
+  },
+  "PPSI": {
+    "1s": "saudei",
+    "2s": "saudaste",
+    "3s": "saudou",
+    "1p": "saudámos",
+    "2p": "saudastes",
+    "3p": "saudaram"
+  },
+  "PMQPSI": {
+    "1s": "saudara",
+    "2s": "saudaras",
+    "3s": "saudara",
+    "1p": "saudáramos",
+    "2p": "saudáreis",
+    "3p": "saudaram"
+  },
+  "FutSI": {
+    "1s": "saudarei",
+    "2s": "saudarás",
+    "3s": "saudará",
+    "1p": "saudaremos",
+    "2p": "saudareis",
+    "3p": "saudarão"
+  },
+  "CondS": {
+    "1s": "saudaria",
+    "2s": "saudarias",
+    "3s": "saudaria",
+    "1p": "saudaríamos",
+    "2p": "saudaríeis",
+    "3p": "saudariam"
+  },
+  "PresC": {
+    "1s": "saúde",
+    "2s": "saúdes",
+    "3s": "saúde",
+    "1p": "saudemos",
+    "2p": "saudeis",
+    "3p": "saúdem"
+  },
+  "PImpC": {
+    "1s": "saudasse",
+    "2s": "saudasses",
+    "3s": "saudasse",
+    "1p": "saudássemos",
+    "2p": "saudásseis",
+    "3p": "saudassem"
+  },
+  "FutSC": {
+    "1s": "saudar",
+    "2s": "saudares",
+    "3s": "saudar",
+    "1p": "saudarmos",
+    "2p": "saudardes",
+    "3p": "saudarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saúda",
+    "3s": "saúde",
+    "1p": "saudemos",
+    "2p": "saudai",
+    "3p": "saúdem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saúdes",
+    "3s": "não saúde",
+    "1p": "não saudemos",
+    "2p": "não saudeis",
+    "3p": "não saúdem"
+  },
+  "Part-ter": {
+    "": "saudado"
+  },
+  "Part-ser": {
+    "ms": "saudado",
+    "fs": "saudada",
+    "mp": "saudados",
+    "fp": "saudadas"
+  }
+}

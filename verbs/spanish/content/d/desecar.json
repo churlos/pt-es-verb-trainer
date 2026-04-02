@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desecar"
+  },
+  "Ger": {
+    "": "desecando"
+  },
+  "PresI": {
+    "1s": "deseco",
+    "2s": "desecas",
+    "3s": "deseca",
+    "1p": "desecamos",
+    "2p": "desecáis",
+    "3p": "desecan"
+  },
+  "PImpI": {
+    "1s": "desecaba",
+    "2s": "desecabas",
+    "3s": "desecaba",
+    "1p": "desecábamos",
+    "2p": "desecabais",
+    "3p": "desecaban"
+  },
+  "PPSI": {
+    "1s": "desequé",
+    "2s": "desecaste",
+    "3s": "desecó",
+    "1p": "desecamos",
+    "2p": "desecasteis",
+    "3p": "desecaron"
+  },
+  "FutSI": {
+    "1s": "desecaré",
+    "2s": "desecarás",
+    "3s": "desecará",
+    "1p": "desecaremos",
+    "2p": "desecaréis",
+    "3p": "desecarán"
+  },
+  "CondS": {
+    "1s": "desecaría",
+    "2s": "desecarías",
+    "3s": "desecaría",
+    "1p": "desecaríamos",
+    "2p": "desecaríais",
+    "3p": "desecarían"
+  },
+  "PresC": {
+    "1s": "deseque",
+    "2s": "deseques",
+    "3s": "deseque",
+    "1p": "desequemos",
+    "2p": "desequéis",
+    "3p": "desequen"
+  },
+  "PMQPSI": {
+    "1s": "desecara",
+    "2s": "desecaras",
+    "3s": "desecara",
+    "1p": "desecáramos",
+    "2p": "desecarais",
+    "3p": "desecaran"
+  },
+  "PImpC": {
+    "1s": "desecase",
+    "2s": "desecases",
+    "3s": "desecase",
+    "1p": "desecásemos",
+    "2p": "desecaseis",
+    "3p": "desecasen"
+  },
+  "FutSC": {
+    "1s": "desecare",
+    "2s": "desecares",
+    "3s": "desecare",
+    "1p": "desecáremos",
+    "2p": "desecareis",
+    "3p": "desecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deseca",
+    "3s": "deseque",
+    "1p": "desequemos",
+    "2p": "desecad",
+    "3p": "desequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deseques",
+    "3s": "no deseque",
+    "1p": "no desequemos",
+    "2p": "no desequéis",
+    "3p": "no desequen"
+  },
+  "Part-ter": {
+    "": "desecado"
+  },
+  "Part-ser": {
+    "ms": "desecado",
+    "fs": "desecada",
+    "mp": "desecados",
+    "fp": "desecadas"
+  }
+}

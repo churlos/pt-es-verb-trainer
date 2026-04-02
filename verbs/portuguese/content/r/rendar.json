@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rendar"
+  },
+  "InfP": {
+    "1s": "rendar",
+    "2s": "rendares",
+    "3s": "rendar",
+    "1p": "rendarmos",
+    "2p": "rendardes",
+    "3p": "rendarem"
+  },
+  "Ger": {
+    "": "rendando"
+  },
+  "PresI": {
+    "1s": "rendo",
+    "2s": "rendas",
+    "3s": "renda",
+    "1p": "rendamos",
+    "2p": "rendais",
+    "3p": "rendam"
+  },
+  "PImpI": {
+    "1s": "rendava",
+    "2s": "rendavas",
+    "3s": "rendava",
+    "1p": "rendávamos",
+    "2p": "rendáveis",
+    "3p": "rendavam"
+  },
+  "PPSI": {
+    "1s": "rendei",
+    "2s": "rendaste",
+    "3s": "rendou",
+    "1p": "rendámos",
+    "2p": "rendastes",
+    "3p": "rendaram"
+  },
+  "PMQPSI": {
+    "1s": "rendara",
+    "2s": "rendaras",
+    "3s": "rendara",
+    "1p": "rendáramos",
+    "2p": "rendáreis",
+    "3p": "rendaram"
+  },
+  "FutSI": {
+    "1s": "rendarei",
+    "2s": "rendarás",
+    "3s": "rendará",
+    "1p": "rendaremos",
+    "2p": "rendareis",
+    "3p": "rendarão"
+  },
+  "CondS": {
+    "1s": "rendaria",
+    "2s": "rendarias",
+    "3s": "rendaria",
+    "1p": "rendaríamos",
+    "2p": "rendaríeis",
+    "3p": "rendariam"
+  },
+  "PresC": {
+    "1s": "rende",
+    "2s": "rendes",
+    "3s": "rende",
+    "1p": "rendemos",
+    "2p": "rendeis",
+    "3p": "rendem"
+  },
+  "PImpC": {
+    "1s": "rendasse",
+    "2s": "rendasses",
+    "3s": "rendasse",
+    "1p": "rendássemos",
+    "2p": "rendásseis",
+    "3p": "rendassem"
+  },
+  "FutSC": {
+    "1s": "rendar",
+    "2s": "rendares",
+    "3s": "rendar",
+    "1p": "rendarmos",
+    "2p": "rendardes",
+    "3p": "rendarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renda",
+    "3s": "rende",
+    "1p": "rendemos",
+    "2p": "rendai",
+    "3p": "rendem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rendes",
+    "3s": "não rende",
+    "1p": "não rendemos",
+    "2p": "não rendeis",
+    "3p": "não rendem"
+  },
+  "Part-ter": {
+    "": "rendado"
+  },
+  "Part-ser": {
+    "ms": "rendado",
+    "fs": "rendada",
+    "mp": "rendados",
+    "fp": "rendadas"
+  }
+}

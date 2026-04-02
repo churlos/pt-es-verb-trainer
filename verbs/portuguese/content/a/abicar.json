@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abicar"
+  },
+  "InfP": {
+    "1s": "abicar",
+    "2s": "abicares",
+    "3s": "abicar",
+    "1p": "abicarmos",
+    "2p": "abicardes",
+    "3p": "abicarem"
+  },
+  "Ger": {
+    "": "abicando"
+  },
+  "PresI": {
+    "1s": "abico",
+    "2s": "abicas",
+    "3s": "abica",
+    "1p": "abicamos",
+    "2p": "abicais",
+    "3p": "abicam"
+  },
+  "PImpI": {
+    "1s": "abicava",
+    "2s": "abicavas",
+    "3s": "abicava",
+    "1p": "abicávamos",
+    "2p": "abicáveis",
+    "3p": "abicavam"
+  },
+  "PPSI": {
+    "1s": "abiquei",
+    "2s": "abicaste",
+    "3s": "abicou",
+    "1p": "abicámos",
+    "2p": "abicastes",
+    "3p": "abicaram"
+  },
+  "PMQPSI": {
+    "1s": "abicara",
+    "2s": "abicaras",
+    "3s": "abicara",
+    "1p": "abicáramos",
+    "2p": "abicáreis",
+    "3p": "abicaram"
+  },
+  "FutSI": {
+    "1s": "abicarei",
+    "2s": "abicarás",
+    "3s": "abicará",
+    "1p": "abicaremos",
+    "2p": "abicareis",
+    "3p": "abicarão"
+  },
+  "CondS": {
+    "1s": "abicaria",
+    "2s": "abicarias",
+    "3s": "abicaria",
+    "1p": "abicaríamos",
+    "2p": "abicaríeis",
+    "3p": "abicariam"
+  },
+  "PresC": {
+    "1s": "abique",
+    "2s": "abiques",
+    "3s": "abique",
+    "1p": "abiquemos",
+    "2p": "abiqueis",
+    "3p": "abiquem"
+  },
+  "PImpC": {
+    "1s": "abicasse",
+    "2s": "abicasses",
+    "3s": "abicasse",
+    "1p": "abicássemos",
+    "2p": "abicásseis",
+    "3p": "abicassem"
+  },
+  "FutSC": {
+    "1s": "abicar",
+    "2s": "abicares",
+    "3s": "abicar",
+    "1p": "abicarmos",
+    "2p": "abicardes",
+    "3p": "abicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abica",
+    "3s": "abique",
+    "1p": "abiquemos",
+    "2p": "abicai",
+    "3p": "abiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abiques",
+    "3s": "não abique",
+    "1p": "não abiquemos",
+    "2p": "não abiqueis",
+    "3p": "não abiquem"
+  },
+  "Part-ter": {
+    "": "abicado"
+  },
+  "Part-ser": {
+    "ms": "abicado",
+    "fs": "abicada",
+    "mp": "abicados",
+    "fp": "abicadas"
+  }
+}

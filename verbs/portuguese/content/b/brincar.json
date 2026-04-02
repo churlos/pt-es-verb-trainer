@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "brincar"
+  },
+  "InfP": {
+    "1s": "brincar",
+    "2s": "brincares",
+    "3s": "brincar",
+    "1p": "brincarmos",
+    "2p": "brincardes",
+    "3p": "brincarem"
+  },
+  "Ger": {
+    "": "brincando"
+  },
+  "PresI": {
+    "1s": "brinco",
+    "2s": "brincas",
+    "3s": "brinca",
+    "1p": "brincamos",
+    "2p": "brincais",
+    "3p": "brincam"
+  },
+  "PImpI": {
+    "1s": "brincava",
+    "2s": "brincavas",
+    "3s": "brincava",
+    "1p": "brincávamos",
+    "2p": "brincáveis",
+    "3p": "brincavam"
+  },
+  "PPSI": {
+    "1s": "brinquei",
+    "2s": "brincaste",
+    "3s": "brincou",
+    "1p": "brincámos",
+    "2p": "brincastes",
+    "3p": "brincaram"
+  },
+  "PMQPSI": {
+    "1s": "brincara",
+    "2s": "brincaras",
+    "3s": "brincara",
+    "1p": "brincáramos",
+    "2p": "brincáreis",
+    "3p": "brincaram"
+  },
+  "FutSI": {
+    "1s": "brincarei",
+    "2s": "brincarás",
+    "3s": "brincará",
+    "1p": "brincaremos",
+    "2p": "brincareis",
+    "3p": "brincarão"
+  },
+  "CondS": {
+    "1s": "brincaria",
+    "2s": "brincarias",
+    "3s": "brincaria",
+    "1p": "brincaríamos",
+    "2p": "brincaríeis",
+    "3p": "brincariam"
+  },
+  "PresC": {
+    "1s": "brinque",
+    "2s": "brinques",
+    "3s": "brinque",
+    "1p": "brinquemos",
+    "2p": "brinqueis",
+    "3p": "brinquem"
+  },
+  "PImpC": {
+    "1s": "brincasse",
+    "2s": "brincasses",
+    "3s": "brincasse",
+    "1p": "brincássemos",
+    "2p": "brincásseis",
+    "3p": "brincassem"
+  },
+  "FutSC": {
+    "1s": "brincar",
+    "2s": "brincares",
+    "3s": "brincar",
+    "1p": "brincarmos",
+    "2p": "brincardes",
+    "3p": "brincarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "brinca",
+    "3s": "brinque",
+    "1p": "brinquemos",
+    "2p": "brincai",
+    "3p": "brinquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não brinques",
+    "3s": "não brinque",
+    "1p": "não brinquemos",
+    "2p": "não brinqueis",
+    "3p": "não brinquem"
+  },
+  "Part-ter": {
+    "": "brincado"
+  },
+  "Part-ser": {
+    "ms": "brincado",
+    "fs": "brincada",
+    "mp": "brincados",
+    "fp": "brincadas"
+  }
+}

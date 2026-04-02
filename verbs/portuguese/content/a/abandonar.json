@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abandonar"
+  },
+  "InfP": {
+    "1s": "abandonar",
+    "2s": "abandonares",
+    "3s": "abandonar",
+    "1p": "abandonarmos",
+    "2p": "abandonardes",
+    "3p": "abandonarem"
+  },
+  "Ger": {
+    "": "abandonando"
+  },
+  "PresI": {
+    "1s": "abandono",
+    "2s": "abandonas",
+    "3s": "abandona",
+    "1p": "abandonamos",
+    "2p": "abandonais",
+    "3p": "abandonam"
+  },
+  "PImpI": {
+    "1s": "abandonava",
+    "2s": "abandonavas",
+    "3s": "abandonava",
+    "1p": "abandonávamos",
+    "2p": "abandonáveis",
+    "3p": "abandonavam"
+  },
+  "PPSI": {
+    "1s": "abandonei",
+    "2s": "abandonaste",
+    "3s": "abandonou",
+    "1p": "abandonámos",
+    "2p": "abandonastes",
+    "3p": "abandonaram"
+  },
+  "PMQPSI": {
+    "1s": "abandonara",
+    "2s": "abandonaras",
+    "3s": "abandonara",
+    "1p": "abandonáramos",
+    "2p": "abandonáreis",
+    "3p": "abandonaram"
+  },
+  "FutSI": {
+    "1s": "abandonarei",
+    "2s": "abandonarás",
+    "3s": "abandonará",
+    "1p": "abandonaremos",
+    "2p": "abandonareis",
+    "3p": "abandonarão"
+  },
+  "CondS": {
+    "1s": "abandonaria",
+    "2s": "abandonarias",
+    "3s": "abandonaria",
+    "1p": "abandonaríamos",
+    "2p": "abandonaríeis",
+    "3p": "abandonariam"
+  },
+  "PresC": {
+    "1s": "abandone",
+    "2s": "abandones",
+    "3s": "abandone",
+    "1p": "abandonemos",
+    "2p": "abandoneis",
+    "3p": "abandonem"
+  },
+  "PImpC": {
+    "1s": "abandonasse",
+    "2s": "abandonasses",
+    "3s": "abandonasse",
+    "1p": "abandonássemos",
+    "2p": "abandonásseis",
+    "3p": "abandonassem"
+  },
+  "FutSC": {
+    "1s": "abandonar",
+    "2s": "abandonares",
+    "3s": "abandonar",
+    "1p": "abandonarmos",
+    "2p": "abandonardes",
+    "3p": "abandonarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abandona",
+    "3s": "abandone",
+    "1p": "abandonemos",
+    "2p": "abandonai",
+    "3p": "abandonem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abandones",
+    "3s": "não abandone",
+    "1p": "não abandonemos",
+    "2p": "não abandoneis",
+    "3p": "não abandonem"
+  },
+  "Part-ter": {
+    "": "abandonado"
+  },
+  "Part-ser": {
+    "ms": "abandonado",
+    "fs": "abandonada",
+    "mp": "abandonados",
+    "fp": "abandonadas"
+  }
+}

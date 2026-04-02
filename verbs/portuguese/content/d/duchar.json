@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "duchar"
+  },
+  "InfP": {
+    "1s": "duchar",
+    "2s": "duchares",
+    "3s": "duchar",
+    "1p": "ducharmos",
+    "2p": "duchardes",
+    "3p": "ducharem"
+  },
+  "Ger": {
+    "": "duchando"
+  },
+  "PresI": {
+    "1s": "ducho",
+    "2s": "duchas",
+    "3s": "ducha",
+    "1p": "duchamos",
+    "2p": "duchais",
+    "3p": "ducham"
+  },
+  "PImpI": {
+    "1s": "duchava",
+    "2s": "duchavas",
+    "3s": "duchava",
+    "1p": "duchávamos",
+    "2p": "ducháveis",
+    "3p": "duchavam"
+  },
+  "PPSI": {
+    "1s": "duchei",
+    "2s": "duchaste",
+    "3s": "duchou",
+    "1p": "duchámos",
+    "2p": "duchastes",
+    "3p": "ducharam"
+  },
+  "PMQPSI": {
+    "1s": "duchara",
+    "2s": "ducharas",
+    "3s": "duchara",
+    "1p": "ducháramos",
+    "2p": "ducháreis",
+    "3p": "ducharam"
+  },
+  "FutSI": {
+    "1s": "ducharei",
+    "2s": "ducharás",
+    "3s": "duchará",
+    "1p": "ducharemos",
+    "2p": "duchareis",
+    "3p": "ducharão"
+  },
+  "CondS": {
+    "1s": "ducharia",
+    "2s": "ducharias",
+    "3s": "ducharia",
+    "1p": "ducharíamos",
+    "2p": "ducharíeis",
+    "3p": "duchariam"
+  },
+  "PresC": {
+    "1s": "duche",
+    "2s": "duches",
+    "3s": "duche",
+    "1p": "duchemos",
+    "2p": "ducheis",
+    "3p": "duchem"
+  },
+  "PImpC": {
+    "1s": "duchasse",
+    "2s": "duchasses",
+    "3s": "duchasse",
+    "1p": "duchássemos",
+    "2p": "duchásseis",
+    "3p": "duchassem"
+  },
+  "FutSC": {
+    "1s": "duchar",
+    "2s": "duchares",
+    "3s": "duchar",
+    "1p": "ducharmos",
+    "2p": "duchardes",
+    "3p": "ducharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ducha",
+    "3s": "duche",
+    "1p": "duchemos",
+    "2p": "duchai",
+    "3p": "duchem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não duches",
+    "3s": "não duche",
+    "1p": "não duchemos",
+    "2p": "não ducheis",
+    "3p": "não duchem"
+  },
+  "Part-ter": {
+    "": "duchado"
+  },
+  "Part-ser": {
+    "ms": "duchado",
+    "fs": "duchada",
+    "mp": "duchados",
+    "fp": "duchadas"
+  }
+}

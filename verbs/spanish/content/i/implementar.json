@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "implementar"
+  },
+  "Ger": {
+    "": "implementando"
+  },
+  "PresI": {
+    "1s": "implemento",
+    "2s": "implementas",
+    "3s": "implementa",
+    "1p": "implementamos",
+    "2p": "implementáis",
+    "3p": "implementan"
+  },
+  "PImpI": {
+    "1s": "implementaba",
+    "2s": "implementabas",
+    "3s": "implementaba",
+    "1p": "implementábamos",
+    "2p": "implementabais",
+    "3p": "implementaban"
+  },
+  "PPSI": {
+    "1s": "implementé",
+    "2s": "implementaste",
+    "3s": "implementó",
+    "1p": "implementamos",
+    "2p": "implementasteis",
+    "3p": "implementaron"
+  },
+  "FutSI": {
+    "1s": "implementaré",
+    "2s": "implementarás",
+    "3s": "implementará",
+    "1p": "implementaremos",
+    "2p": "implementaréis",
+    "3p": "implementarán"
+  },
+  "CondS": {
+    "1s": "implementaría",
+    "2s": "implementarías",
+    "3s": "implementaría",
+    "1p": "implementaríamos",
+    "2p": "implementaríais",
+    "3p": "implementarían"
+  },
+  "PresC": {
+    "1s": "implemente",
+    "2s": "implementes",
+    "3s": "implemente",
+    "1p": "implementemos",
+    "2p": "implementéis",
+    "3p": "implementen"
+  },
+  "PMQPSI": {
+    "1s": "implementara",
+    "2s": "implementaras",
+    "3s": "implementara",
+    "1p": "implementáramos",
+    "2p": "implementarais",
+    "3p": "implementaran"
+  },
+  "PImpC": {
+    "1s": "implementase",
+    "2s": "implementases",
+    "3s": "implementase",
+    "1p": "implementásemos",
+    "2p": "implementaseis",
+    "3p": "implementasen"
+  },
+  "FutSC": {
+    "1s": "implementare",
+    "2s": "implementares",
+    "3s": "implementare",
+    "1p": "implementáremos",
+    "2p": "implementareis",
+    "3p": "implementaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "implementa",
+    "3s": "implemente",
+    "1p": "implementemos",
+    "2p": "implementad",
+    "3p": "implementen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no implementes",
+    "3s": "no implemente",
+    "1p": "no implementemos",
+    "2p": "no implementéis",
+    "3p": "no implementen"
+  },
+  "Part-ter": {
+    "": "implementado"
+  },
+  "Part-ser": {
+    "ms": "implementado",
+    "fs": "implementada",
+    "mp": "implementados",
+    "fp": "implementadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "demandar"
+  },
+  "InfP": {
+    "1s": "demandar",
+    "2s": "demandares",
+    "3s": "demandar",
+    "1p": "demandarmos",
+    "2p": "demandardes",
+    "3p": "demandarem"
+  },
+  "Ger": {
+    "": "demandando"
+  },
+  "PresI": {
+    "1s": "demando",
+    "2s": "demandas",
+    "3s": "demanda",
+    "1p": "demandamos",
+    "2p": "demandais",
+    "3p": "demandam"
+  },
+  "PImpI": {
+    "1s": "demandava",
+    "2s": "demandavas",
+    "3s": "demandava",
+    "1p": "demandávamos",
+    "2p": "demandáveis",
+    "3p": "demandavam"
+  },
+  "PPSI": {
+    "1s": "demandei",
+    "2s": "demandaste",
+    "3s": "demandou",
+    "1p": "demandámos",
+    "2p": "demandastes",
+    "3p": "demandaram"
+  },
+  "PMQPSI": {
+    "1s": "demandara",
+    "2s": "demandaras",
+    "3s": "demandara",
+    "1p": "demandáramos",
+    "2p": "demandáreis",
+    "3p": "demandaram"
+  },
+  "FutSI": {
+    "1s": "demandarei",
+    "2s": "demandarás",
+    "3s": "demandará",
+    "1p": "demandaremos",
+    "2p": "demandareis",
+    "3p": "demandarão"
+  },
+  "CondS": {
+    "1s": "demandaria",
+    "2s": "demandarias",
+    "3s": "demandaria",
+    "1p": "demandaríamos",
+    "2p": "demandaríeis",
+    "3p": "demandariam"
+  },
+  "PresC": {
+    "1s": "demande",
+    "2s": "demandes",
+    "3s": "demande",
+    "1p": "demandemos",
+    "2p": "demandeis",
+    "3p": "demandem"
+  },
+  "PImpC": {
+    "1s": "demandasse",
+    "2s": "demandasses",
+    "3s": "demandasse",
+    "1p": "demandássemos",
+    "2p": "demandásseis",
+    "3p": "demandassem"
+  },
+  "FutSC": {
+    "1s": "demandar",
+    "2s": "demandares",
+    "3s": "demandar",
+    "1p": "demandarmos",
+    "2p": "demandardes",
+    "3p": "demandarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demanda",
+    "3s": "demande",
+    "1p": "demandemos",
+    "2p": "demandai",
+    "3p": "demandem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não demandes",
+    "3s": "não demande",
+    "1p": "não demandemos",
+    "2p": "não demandeis",
+    "3p": "não demandem"
+  },
+  "Part-ter": {
+    "": "demandado"
+  },
+  "Part-ser": {
+    "ms": "demandado",
+    "fs": "demandada",
+    "mp": "demandados",
+    "fp": "demandadas"
+  }
+}

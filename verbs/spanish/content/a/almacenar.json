@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "almacenar"
+  },
+  "Ger": {
+    "": "almacenando"
+  },
+  "PresI": {
+    "1s": "almaceno",
+    "2s": "almacenas",
+    "3s": "almacena",
+    "1p": "almacenamos",
+    "2p": "almacenáis",
+    "3p": "almacenan"
+  },
+  "PImpI": {
+    "1s": "almacenaba",
+    "2s": "almacenabas",
+    "3s": "almacenaba",
+    "1p": "almacenábamos",
+    "2p": "almacenabais",
+    "3p": "almacenaban"
+  },
+  "PPSI": {
+    "1s": "almacené",
+    "2s": "almacenaste",
+    "3s": "almacenó",
+    "1p": "almacenamos",
+    "2p": "almacenasteis",
+    "3p": "almacenaron"
+  },
+  "FutSI": {
+    "1s": "almacenaré",
+    "2s": "almacenarás",
+    "3s": "almacenará",
+    "1p": "almacenaremos",
+    "2p": "almacenaréis",
+    "3p": "almacenarán"
+  },
+  "CondS": {
+    "1s": "almacenaría",
+    "2s": "almacenarías",
+    "3s": "almacenaría",
+    "1p": "almacenaríamos",
+    "2p": "almacenaríais",
+    "3p": "almacenarían"
+  },
+  "PresC": {
+    "1s": "almacene",
+    "2s": "almacenes",
+    "3s": "almacene",
+    "1p": "almacenemos",
+    "2p": "almacenéis",
+    "3p": "almacenen"
+  },
+  "PMQPSI": {
+    "1s": "almacenara",
+    "2s": "almacenaras",
+    "3s": "almacenara",
+    "1p": "almacenáramos",
+    "2p": "almacenarais",
+    "3p": "almacenaran"
+  },
+  "PImpC": {
+    "1s": "almacenase",
+    "2s": "almacenases",
+    "3s": "almacenase",
+    "1p": "almacenásemos",
+    "2p": "almacenaseis",
+    "3p": "almacenasen"
+  },
+  "FutSC": {
+    "1s": "almacenare",
+    "2s": "almacenares",
+    "3s": "almacenare",
+    "1p": "almacenáremos",
+    "2p": "almacenareis",
+    "3p": "almacenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "almacena",
+    "3s": "almacene",
+    "1p": "almacenemos",
+    "2p": "almacenad",
+    "3p": "almacenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no almacenes",
+    "3s": "no almacene",
+    "1p": "no almacenemos",
+    "2p": "no almacenéis",
+    "3p": "no almacenen"
+  },
+  "Part-ter": {
+    "": "almacenado"
+  },
+  "Part-ser": {
+    "ms": "almacenado",
+    "fs": "almacenada",
+    "mp": "almacenados",
+    "fp": "almacenadas"
+  }
+}

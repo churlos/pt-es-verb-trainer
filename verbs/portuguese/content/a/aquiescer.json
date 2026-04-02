@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aquiescer"
+  },
+  "InfP": {
+    "1s": "aquiescer",
+    "2s": "aquiesceres",
+    "3s": "aquiescer",
+    "1p": "aquiescermos",
+    "2p": "aquiescerdes",
+    "3p": "aquiescerem"
+  },
+  "Ger": {
+    "": "aquiescendo"
+  },
+  "PresI": {
+    "1s": "aquiesço",
+    "2s": "aquiesces",
+    "3s": "aquiesce",
+    "1p": "aquiescemos",
+    "2p": "aquiesceis",
+    "3p": "aquiescem"
+  },
+  "PImpI": {
+    "1s": "aquiescia",
+    "2s": "aquiescias",
+    "3s": "aquiescia",
+    "1p": "aquiescíamos",
+    "2p": "aquiescíeis",
+    "3p": "aquiesciam"
+  },
+  "PPSI": {
+    "1s": "aquiesci",
+    "2s": "aquiesceste",
+    "3s": "aquiesceu",
+    "1p": "aquiescemos",
+    "2p": "aquiescestes",
+    "3p": "aquiesceram"
+  },
+  "PMQPSI": {
+    "1s": "aquiescera",
+    "2s": "aquiesceras",
+    "3s": "aquiescera",
+    "1p": "aquiescêramos",
+    "2p": "aquiescêreis",
+    "3p": "aquiesceram"
+  },
+  "FutSI": {
+    "1s": "aquiescerei",
+    "2s": "aquiescerás",
+    "3s": "aquiescerá",
+    "1p": "aquiesceremos",
+    "2p": "aquiescereis",
+    "3p": "aquiescerão"
+  },
+  "CondS": {
+    "1s": "aquiesceria",
+    "2s": "aquiescerias",
+    "3s": "aquiesceria",
+    "1p": "aquiesceríamos",
+    "2p": "aquiesceríeis",
+    "3p": "aquiesceriam"
+  },
+  "PresC": {
+    "1s": "aquiesça",
+    "2s": "aquiesças",
+    "3s": "aquiesça",
+    "1p": "aquiesçamos",
+    "2p": "aquiesçais",
+    "3p": "aquiesçam"
+  },
+  "PImpC": {
+    "1s": "aquiescesse",
+    "2s": "aquiescesses",
+    "3s": "aquiescesse",
+    "1p": "aquiescêssemos",
+    "2p": "aquiescêsseis",
+    "3p": "aquiescessem"
+  },
+  "FutSC": {
+    "1s": "aquiescer",
+    "2s": "aquiesceres",
+    "3s": "aquiescer",
+    "1p": "aquiescermos",
+    "2p": "aquiescerdes",
+    "3p": "aquiescerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aquiesce",
+    "3s": "aquiesça",
+    "1p": "aquiesçamos",
+    "2p": "aquiescei",
+    "3p": "aquiesçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aquiesças",
+    "3s": "não aquiesça",
+    "1p": "não aquiesçamos",
+    "2p": "não aquiesçais",
+    "3p": "não aquiesçam"
+  },
+  "Part-ter": {
+    "": "aquiescido"
+  },
+  "Part-ser": {
+    "ms": "aquiescido",
+    "fs": "aquiescida",
+    "mp": "aquiescidos",
+    "fp": "aquiescidas"
+  }
+}

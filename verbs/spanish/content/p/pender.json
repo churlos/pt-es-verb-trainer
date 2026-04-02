@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pender"
+  },
+  "Ger": {
+    "": "pendiendo"
+  },
+  "PresI": {
+    "1s": "pendo",
+    "2s": "pendes",
+    "3s": "pende",
+    "1p": "pendemos",
+    "2p": "pendéis",
+    "3p": "penden"
+  },
+  "PImpI": {
+    "1s": "pendía",
+    "2s": "pendías",
+    "3s": "pendía",
+    "1p": "pendíamos",
+    "2p": "pendíais",
+    "3p": "pendían"
+  },
+  "PPSI": {
+    "1s": "pendí",
+    "2s": "pendiste",
+    "3s": "pendió",
+    "1p": "pendimos",
+    "2p": "pendisteis",
+    "3p": "pendieron"
+  },
+  "FutSI": {
+    "1s": "penderé",
+    "2s": "penderás",
+    "3s": "penderá",
+    "1p": "penderemos",
+    "2p": "penderéis",
+    "3p": "penderán"
+  },
+  "CondS": {
+    "1s": "pendería",
+    "2s": "penderías",
+    "3s": "pendería",
+    "1p": "penderíamos",
+    "2p": "penderíais",
+    "3p": "penderían"
+  },
+  "PresC": {
+    "1s": "penda",
+    "2s": "pendas",
+    "3s": "penda",
+    "1p": "pendamos",
+    "2p": "pendáis",
+    "3p": "pendan"
+  },
+  "PMQPSI": {
+    "1s": "pendiera",
+    "2s": "pendieras",
+    "3s": "pendiera",
+    "1p": "pendiéramos",
+    "2p": "pendierais",
+    "3p": "pendieran"
+  },
+  "PImpC": {
+    "1s": "pendiese",
+    "2s": "pendieses",
+    "3s": "pendiese",
+    "1p": "pendiésemos",
+    "2p": "pendieseis",
+    "3p": "pendiesen"
+  },
+  "FutSC": {
+    "1s": "pendiere",
+    "2s": "pendieres",
+    "3s": "pendiere",
+    "1p": "pendiéremos",
+    "2p": "pendiereis",
+    "3p": "pendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pende",
+    "3s": "penda",
+    "1p": "pendamos",
+    "2p": "pended",
+    "3p": "pendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pendas",
+    "3s": "no penda",
+    "1p": "no pendamos",
+    "2p": "no pendáis",
+    "3p": "no pendan"
+  },
+  "Part-ter": {
+    "": "pendido"
+  },
+  "Part-ser": {
+    "ms": "pendido",
+    "fs": "pendida",
+    "mp": "pendidos",
+    "fp": "pendidas"
+  }
+}

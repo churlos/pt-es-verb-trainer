@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desabastecer"
+  },
+  "Ger": {
+    "": "desabasteciendo"
+  },
+  "PresI": {
+    "1s": "desabastezco",
+    "2s": "desabasteces",
+    "3s": "desabastece",
+    "1p": "desabastecemos",
+    "2p": "desabastecéis",
+    "3p": "desabastecen"
+  },
+  "PImpI": {
+    "1s": "desabastecía",
+    "2s": "desabastecías",
+    "3s": "desabastecía",
+    "1p": "desabastecíamos",
+    "2p": "desabastecíais",
+    "3p": "desabastecían"
+  },
+  "PPSI": {
+    "1s": "desabastecí",
+    "2s": "desabasteciste",
+    "3s": "desabasteció",
+    "1p": "desabastecimos",
+    "2p": "desabastecisteis",
+    "3p": "desabastecieron"
+  },
+  "FutSI": {
+    "1s": "desabasteceré",
+    "2s": "desabastecerás",
+    "3s": "desabastecerá",
+    "1p": "desabasteceremos",
+    "2p": "desabasteceréis",
+    "3p": "desabastecerán"
+  },
+  "CondS": {
+    "1s": "desabastecería",
+    "2s": "desabastecerías",
+    "3s": "desabastecería",
+    "1p": "desabasteceríamos",
+    "2p": "desabasteceríais",
+    "3p": "desabastecerían"
+  },
+  "PresC": {
+    "1s": "desabastezca",
+    "2s": "desabastezcas",
+    "3s": "desabastezca",
+    "1p": "desabastezcamos",
+    "2p": "desabastezcáis",
+    "3p": "desabastezcan"
+  },
+  "PMQPSI": {
+    "1s": "desabasteciera",
+    "2s": "desabastecieras",
+    "3s": "desabasteciera",
+    "1p": "desabasteciéramos",
+    "2p": "desabastecierais",
+    "3p": "desabastecieran"
+  },
+  "PImpC": {
+    "1s": "desabasteciese",
+    "2s": "desabastecieses",
+    "3s": "desabasteciese",
+    "1p": "desabasteciésemos",
+    "2p": "desabastecieseis",
+    "3p": "desabasteciesen"
+  },
+  "FutSC": {
+    "1s": "desabasteciere",
+    "2s": "desabastecieres",
+    "3s": "desabasteciere",
+    "1p": "desabasteciéremos",
+    "2p": "desabasteciereis",
+    "3p": "desabastecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desabastece",
+    "3s": "desabastezca",
+    "1p": "desabastezcamos",
+    "2p": "desabasteced",
+    "3p": "desabastezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desabastezcas",
+    "3s": "no desabastezca",
+    "1p": "no desabastezcamos",
+    "2p": "no desabastezcáis",
+    "3p": "no desabastezcan"
+  },
+  "Part-ter": {
+    "": "desabastecido"
+  },
+  "Part-ser": {
+    "ms": "desabastecido",
+    "fs": "desabastecida",
+    "mp": "desabastecidos",
+    "fp": "desabastecidas"
+  }
+}

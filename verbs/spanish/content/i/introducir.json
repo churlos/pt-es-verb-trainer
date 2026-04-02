@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "introducir"
+  },
+  "Ger": {
+    "": "introduciendo"
+  },
+  "PresI": {
+    "1s": "introduzco",
+    "2s": "introduces",
+    "3s": "introduce",
+    "1p": "introducimos",
+    "2p": "introducís",
+    "3p": "introducen"
+  },
+  "PImpI": {
+    "1s": "introducía",
+    "2s": "introducías",
+    "3s": "introducía",
+    "1p": "introducíamos",
+    "2p": "introducíais",
+    "3p": "introducían"
+  },
+  "PPSI": {
+    "1s": "introduje",
+    "2s": "introdujiste",
+    "3s": "introdujo",
+    "1p": "introdujimos",
+    "2p": "introdujisteis",
+    "3p": "introdujeron"
+  },
+  "FutSI": {
+    "1s": "introduciré",
+    "2s": "introducirás",
+    "3s": "introducirá",
+    "1p": "introduciremos",
+    "2p": "introduciréis",
+    "3p": "introducirán"
+  },
+  "CondS": {
+    "1s": "introduciría",
+    "2s": "introducirías",
+    "3s": "introduciría",
+    "1p": "introduciríamos",
+    "2p": "introduciríais",
+    "3p": "introducirían"
+  },
+  "PresC": {
+    "1s": "introduzca",
+    "2s": "introduzcas",
+    "3s": "introduzca",
+    "1p": "introduzcamos",
+    "2p": "introduzcáis",
+    "3p": "introduzcan"
+  },
+  "PMQPSI": {
+    "1s": "introdujera",
+    "2s": "introdujeras",
+    "3s": "introdujera",
+    "1p": "introdujéramos",
+    "2p": "introdujerais",
+    "3p": "introdujeran"
+  },
+  "PImpC": {
+    "1s": "introdujese",
+    "2s": "introdujeses",
+    "3s": "introdujese",
+    "1p": "introdujésemos",
+    "2p": "introdujeseis",
+    "3p": "introdujesen"
+  },
+  "FutSC": {
+    "1s": "introdujere",
+    "2s": "introdujeres",
+    "3s": "introdujere",
+    "1p": "introdujéremos",
+    "2p": "introdujereis",
+    "3p": "introdujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "introduce",
+    "3s": "introduzca",
+    "1p": "introduzcamos",
+    "2p": "introducid",
+    "3p": "introduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no introduzcas",
+    "3s": "no introduzca",
+    "1p": "no introduzcamos",
+    "2p": "no introduzcáis",
+    "3p": "no introduzcan"
+  },
+  "Part-ter": {
+    "": "introducido"
+  },
+  "Part-ser": {
+    "ms": "introducido",
+    "fs": "introducida",
+    "mp": "introducidos",
+    "fp": "introducidas"
+  }
+}

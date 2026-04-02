@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "incorrer"
+  },
+  "InfP": {
+    "1s": "incorrer",
+    "2s": "incorreres",
+    "3s": "incorrer",
+    "1p": "incorrermos",
+    "2p": "incorrerdes",
+    "3p": "incorrerem"
+  },
+  "Ger": {
+    "": "incorrendo"
+  },
+  "PresI": {
+    "1s": "incorro",
+    "2s": "incorres",
+    "3s": "incorre",
+    "1p": "incorremos",
+    "2p": "incorreis",
+    "3p": "incorrem"
+  },
+  "PImpI": {
+    "1s": "incorria",
+    "2s": "incorrias",
+    "3s": "incorria",
+    "1p": "incorríamos",
+    "2p": "incorríeis",
+    "3p": "incorriam"
+  },
+  "PPSI": {
+    "1s": "incorri",
+    "2s": "incorreste",
+    "3s": "incorreu",
+    "1p": "incorremos",
+    "2p": "incorrestes",
+    "3p": "incorreram"
+  },
+  "PMQPSI": {
+    "1s": "incorrera",
+    "2s": "incorreras",
+    "3s": "incorrera",
+    "1p": "incorrêramos",
+    "2p": "incorrêreis",
+    "3p": "incorreram"
+  },
+  "FutSI": {
+    "1s": "incorrerei",
+    "2s": "incorrerás",
+    "3s": "incorrerá",
+    "1p": "incorreremos",
+    "2p": "incorrereis",
+    "3p": "incorrerão"
+  },
+  "CondS": {
+    "1s": "incorreria",
+    "2s": "incorrerias",
+    "3s": "incorreria",
+    "1p": "incorreríamos",
+    "2p": "incorreríeis",
+    "3p": "incorreriam"
+  },
+  "PresC": {
+    "1s": "incorra",
+    "2s": "incorras",
+    "3s": "incorra",
+    "1p": "incorramos",
+    "2p": "incorrais",
+    "3p": "incorram"
+  },
+  "PImpC": {
+    "1s": "incorresse",
+    "2s": "incorresses",
+    "3s": "incorresse",
+    "1p": "incorrêssemos",
+    "2p": "incorrêsseis",
+    "3p": "incorressem"
+  },
+  "FutSC": {
+    "1s": "incorrer",
+    "2s": "incorreres",
+    "3s": "incorrer",
+    "1p": "incorrermos",
+    "2p": "incorrerdes",
+    "3p": "incorrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incorre",
+    "3s": "incorra",
+    "1p": "incorramos",
+    "2p": "incorrei",
+    "3p": "incorram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não incorras",
+    "3s": "não incorra",
+    "1p": "não incorramos",
+    "2p": "não incorrais",
+    "3p": "não incorram"
+  },
+  "Part-ter": {
+    "": "incorrido"
+  },
+  "Part-ser": {
+    "ms": "incorrido",
+    "fs": "incorrida",
+    "mp": "incorridos",
+    "fp": "incorridas"
+  }
+}

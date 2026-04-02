@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "negociar"
+  },
+  "Ger": {
+    "": "negociando"
+  },
+  "PresI": {
+    "1s": "negocio",
+    "2s": "negocias",
+    "3s": "negocia",
+    "1p": "negociamos",
+    "2p": "negociáis",
+    "3p": "negocian"
+  },
+  "PImpI": {
+    "1s": "negociaba",
+    "2s": "negociabas",
+    "3s": "negociaba",
+    "1p": "negociábamos",
+    "2p": "negociabais",
+    "3p": "negociaban"
+  },
+  "PPSI": {
+    "1s": "negocié",
+    "2s": "negociaste",
+    "3s": "negoció",
+    "1p": "negociamos",
+    "2p": "negociasteis",
+    "3p": "negociaron"
+  },
+  "FutSI": {
+    "1s": "negociaré",
+    "2s": "negociarás",
+    "3s": "negociará",
+    "1p": "negociaremos",
+    "2p": "negociaréis",
+    "3p": "negociarán"
+  },
+  "CondS": {
+    "1s": "negociaría",
+    "2s": "negociarías",
+    "3s": "negociaría",
+    "1p": "negociaríamos",
+    "2p": "negociaríais",
+    "3p": "negociarían"
+  },
+  "PresC": {
+    "1s": "negocie",
+    "2s": "negocies",
+    "3s": "negocie",
+    "1p": "negociemos",
+    "2p": "negociéis",
+    "3p": "negocien"
+  },
+  "PMQPSI": {
+    "1s": "negociara",
+    "2s": "negociaras",
+    "3s": "negociara",
+    "1p": "negociáramos",
+    "2p": "negociarais",
+    "3p": "negociaran"
+  },
+  "PImpC": {
+    "1s": "negociase",
+    "2s": "negociases",
+    "3s": "negociase",
+    "1p": "negociásemos",
+    "2p": "negociaseis",
+    "3p": "negociasen"
+  },
+  "FutSC": {
+    "1s": "negociare",
+    "2s": "negociares",
+    "3s": "negociare",
+    "1p": "negociáremos",
+    "2p": "negociareis",
+    "3p": "negociaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "negocia",
+    "3s": "negocie",
+    "1p": "negociemos",
+    "2p": "negociad",
+    "3p": "negocien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no negocies",
+    "3s": "no negocie",
+    "1p": "no negociemos",
+    "2p": "no negociéis",
+    "3p": "no negocien"
+  },
+  "Part-ter": {
+    "": "negociado"
+  },
+  "Part-ser": {
+    "ms": "negociado",
+    "fs": "negociada",
+    "mp": "negociados",
+    "fp": "negociadas"
+  }
+}

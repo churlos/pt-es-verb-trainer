@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "depreciar"
+  },
+  "InfP": {
+    "1s": "depreciar",
+    "2s": "depreciares",
+    "3s": "depreciar",
+    "1p": "depreciarmos",
+    "2p": "depreciardes",
+    "3p": "depreciarem"
+  },
+  "Ger": {
+    "": "depreciando"
+  },
+  "PresI": {
+    "1s": "deprecio",
+    "2s": "deprecias",
+    "3s": "deprecia",
+    "1p": "depreciamos",
+    "2p": "depreciais",
+    "3p": "depreciam"
+  },
+  "PImpI": {
+    "1s": "depreciava",
+    "2s": "depreciavas",
+    "3s": "depreciava",
+    "1p": "depreciávamos",
+    "2p": "depreciáveis",
+    "3p": "depreciavam"
+  },
+  "PPSI": {
+    "1s": "depreciei",
+    "2s": "depreciaste",
+    "3s": "depreciou",
+    "1p": "depreciámos",
+    "2p": "depreciastes",
+    "3p": "depreciaram"
+  },
+  "PMQPSI": {
+    "1s": "depreciara",
+    "2s": "depreciaras",
+    "3s": "depreciara",
+    "1p": "depreciáramos",
+    "2p": "depreciáreis",
+    "3p": "depreciaram"
+  },
+  "FutSI": {
+    "1s": "depreciarei",
+    "2s": "depreciarás",
+    "3s": "depreciará",
+    "1p": "depreciaremos",
+    "2p": "depreciareis",
+    "3p": "depreciarão"
+  },
+  "CondS": {
+    "1s": "depreciaria",
+    "2s": "depreciarias",
+    "3s": "depreciaria",
+    "1p": "depreciaríamos",
+    "2p": "depreciaríeis",
+    "3p": "depreciariam"
+  },
+  "PresC": {
+    "1s": "deprecie",
+    "2s": "deprecies",
+    "3s": "deprecie",
+    "1p": "depreciemos",
+    "2p": "deprecieis",
+    "3p": "depreciem"
+  },
+  "PImpC": {
+    "1s": "depreciasse",
+    "2s": "depreciasses",
+    "3s": "depreciasse",
+    "1p": "depreciássemos",
+    "2p": "depreciásseis",
+    "3p": "depreciassem"
+  },
+  "FutSC": {
+    "1s": "depreciar",
+    "2s": "depreciares",
+    "3s": "depreciar",
+    "1p": "depreciarmos",
+    "2p": "depreciardes",
+    "3p": "depreciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deprecia",
+    "3s": "deprecie",
+    "1p": "depreciemos",
+    "2p": "depreciai",
+    "3p": "depreciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deprecies",
+    "3s": "não deprecie",
+    "1p": "não depreciemos",
+    "2p": "não deprecieis",
+    "3p": "não depreciem"
+  },
+  "Part-ter": {
+    "": "depreciado"
+  },
+  "Part-ser": {
+    "ms": "depreciado",
+    "fs": "depreciada",
+    "mp": "depreciados",
+    "fp": "depreciadas"
+  }
+}

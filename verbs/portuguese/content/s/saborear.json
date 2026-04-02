@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "saborear"
+  },
+  "InfP": {
+    "1s": "saborear",
+    "2s": "saboreares",
+    "3s": "saborear",
+    "1p": "saborearmos",
+    "2p": "saboreardes",
+    "3p": "saborearem"
+  },
+  "Ger": {
+    "": "saboreando"
+  },
+  "PresI": {
+    "1s": "saboreio",
+    "2s": "saboreias",
+    "3s": "saboreia",
+    "1p": "saboreamos",
+    "2p": "saboreais",
+    "3p": "saboreiam"
+  },
+  "PImpI": {
+    "1s": "saboreava",
+    "2s": "saboreavas",
+    "3s": "saboreava",
+    "1p": "saboreávamos",
+    "2p": "saboreáveis",
+    "3p": "saboreavam"
+  },
+  "PPSI": {
+    "1s": "saboreei",
+    "2s": "saboreaste",
+    "3s": "saboreou",
+    "1p": "saboreámos",
+    "2p": "saboreastes",
+    "3p": "saborearam"
+  },
+  "PMQPSI": {
+    "1s": "saboreara",
+    "2s": "saborearas",
+    "3s": "saboreara",
+    "1p": "saboreáramos",
+    "2p": "saboreáreis",
+    "3p": "saborearam"
+  },
+  "FutSI": {
+    "1s": "saborearei",
+    "2s": "saborearás",
+    "3s": "saboreará",
+    "1p": "saborearemos",
+    "2p": "saboreareis",
+    "3p": "saborearão"
+  },
+  "CondS": {
+    "1s": "saborearia",
+    "2s": "saborearias",
+    "3s": "saborearia",
+    "1p": "saborearíamos",
+    "2p": "saborearíeis",
+    "3p": "saboreariam"
+  },
+  "PresC": {
+    "1s": "saboreie",
+    "2s": "saboreies",
+    "3s": "saboreie",
+    "1p": "saboreemos",
+    "2p": "saboreeis",
+    "3p": "saboreiem"
+  },
+  "PImpC": {
+    "1s": "saboreasse",
+    "2s": "saboreasses",
+    "3s": "saboreasse",
+    "1p": "saboreássemos",
+    "2p": "saboreásseis",
+    "3p": "saboreassem"
+  },
+  "FutSC": {
+    "1s": "saborear",
+    "2s": "saboreares",
+    "3s": "saborear",
+    "1p": "saborearmos",
+    "2p": "saboreardes",
+    "3p": "saborearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saboreia",
+    "3s": "saboreie",
+    "1p": "saboreemos",
+    "2p": "saboreai",
+    "3p": "saboreiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saboreies",
+    "3s": "não saboreie",
+    "1p": "não saboreemos",
+    "2p": "não saboreeis",
+    "3p": "não saboreiem"
+  },
+  "Part-ter": {
+    "": "saboreado"
+  },
+  "Part-ser": {
+    "ms": "saboreado",
+    "fs": "saboreada",
+    "mp": "saboreados",
+    "fp": "saboreadas"
+  }
+}

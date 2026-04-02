@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alavancar"
+  },
+  "InfP": {
+    "1s": "alavancar",
+    "2s": "alavancares",
+    "3s": "alavancar",
+    "1p": "alavancarmos",
+    "2p": "alavancardes",
+    "3p": "alavancarem"
+  },
+  "Ger": {
+    "": "alavancando"
+  },
+  "PresI": {
+    "1s": "alavanco",
+    "2s": "alavancas",
+    "3s": "alavanca",
+    "1p": "alavancamos",
+    "2p": "alavancais",
+    "3p": "alavancam"
+  },
+  "PImpI": {
+    "1s": "alavancava",
+    "2s": "alavancavas",
+    "3s": "alavancava",
+    "1p": "alavancávamos",
+    "2p": "alavancáveis",
+    "3p": "alavancavam"
+  },
+  "PPSI": {
+    "1s": "alavanquei",
+    "2s": "alavancaste",
+    "3s": "alavancou",
+    "1p": "alavancámos",
+    "2p": "alavancastes",
+    "3p": "alavancaram"
+  },
+  "PMQPSI": {
+    "1s": "alavancara",
+    "2s": "alavancaras",
+    "3s": "alavancara",
+    "1p": "alavancáramos",
+    "2p": "alavancáreis",
+    "3p": "alavancaram"
+  },
+  "FutSI": {
+    "1s": "alavancarei",
+    "2s": "alavancarás",
+    "3s": "alavancará",
+    "1p": "alavancaremos",
+    "2p": "alavancareis",
+    "3p": "alavancarão"
+  },
+  "CondS": {
+    "1s": "alavancaria",
+    "2s": "alavancarias",
+    "3s": "alavancaria",
+    "1p": "alavancaríamos",
+    "2p": "alavancaríeis",
+    "3p": "alavancariam"
+  },
+  "PresC": {
+    "1s": "alavanque",
+    "2s": "alavanques",
+    "3s": "alavanque",
+    "1p": "alavanquemos",
+    "2p": "alavanqueis",
+    "3p": "alavanquem"
+  },
+  "PImpC": {
+    "1s": "alavancasse",
+    "2s": "alavancasses",
+    "3s": "alavancasse",
+    "1p": "alavancássemos",
+    "2p": "alavancásseis",
+    "3p": "alavancassem"
+  },
+  "FutSC": {
+    "1s": "alavancar",
+    "2s": "alavancares",
+    "3s": "alavancar",
+    "1p": "alavancarmos",
+    "2p": "alavancardes",
+    "3p": "alavancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alavanca",
+    "3s": "alavanque",
+    "1p": "alavanquemos",
+    "2p": "alavancai",
+    "3p": "alavanquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alavanques",
+    "3s": "não alavanque",
+    "1p": "não alavanquemos",
+    "2p": "não alavanqueis",
+    "3p": "não alavanquem"
+  },
+  "Part-ter": {
+    "": "alavancado"
+  },
+  "Part-ser": {
+    "ms": "alavancado",
+    "fs": "alavancada",
+    "mp": "alavancados",
+    "fp": "alavancadas"
+  }
+}

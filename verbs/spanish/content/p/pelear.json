@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pelear"
+  },
+  "Ger": {
+    "": "peleando"
+  },
+  "PresI": {
+    "1s": "peleo",
+    "2s": "peleas",
+    "3s": "pelea",
+    "1p": "peleamos",
+    "2p": "peleáis",
+    "3p": "pelean"
+  },
+  "PImpI": {
+    "1s": "peleaba",
+    "2s": "peleabas",
+    "3s": "peleaba",
+    "1p": "peleábamos",
+    "2p": "peleabais",
+    "3p": "peleaban"
+  },
+  "PPSI": {
+    "1s": "peleé",
+    "2s": "peleaste",
+    "3s": "peleó",
+    "1p": "peleamos",
+    "2p": "peleasteis",
+    "3p": "pelearon"
+  },
+  "FutSI": {
+    "1s": "pelearé",
+    "2s": "pelearás",
+    "3s": "peleará",
+    "1p": "pelearemos",
+    "2p": "pelearéis",
+    "3p": "pelearán"
+  },
+  "CondS": {
+    "1s": "pelearía",
+    "2s": "pelearías",
+    "3s": "pelearía",
+    "1p": "pelearíamos",
+    "2p": "pelearíais",
+    "3p": "pelearían"
+  },
+  "PresC": {
+    "1s": "pelee",
+    "2s": "pelees",
+    "3s": "pelee",
+    "1p": "peleemos",
+    "2p": "peleéis",
+    "3p": "peleen"
+  },
+  "PMQPSI": {
+    "1s": "peleara",
+    "2s": "pelearas",
+    "3s": "peleara",
+    "1p": "peleáramos",
+    "2p": "pelearais",
+    "3p": "pelearan"
+  },
+  "PImpC": {
+    "1s": "pelease",
+    "2s": "peleases",
+    "3s": "pelease",
+    "1p": "peleásemos",
+    "2p": "peleaseis",
+    "3p": "peleasen"
+  },
+  "FutSC": {
+    "1s": "peleare",
+    "2s": "peleares",
+    "3s": "peleare",
+    "1p": "peleáremos",
+    "2p": "peleareis",
+    "3p": "pelearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pelea",
+    "3s": "pelee",
+    "1p": "peleemos",
+    "2p": "pelead",
+    "3p": "peleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pelees",
+    "3s": "no pelee",
+    "1p": "no peleemos",
+    "2p": "no peleéis",
+    "3p": "no peleen"
+  },
+  "Part-ter": {
+    "": "peleado"
+  },
+  "Part-ser": {
+    "ms": "peleado",
+    "fs": "peleada",
+    "mp": "peleados",
+    "fp": "peleadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "flagelar"
+  },
+  "InfP": {
+    "1s": "flagelar",
+    "2s": "flagelares",
+    "3s": "flagelar",
+    "1p": "flagelarmos",
+    "2p": "flagelardes",
+    "3p": "flagelarem"
+  },
+  "Ger": {
+    "": "flagelando"
+  },
+  "PresI": {
+    "1s": "flagelo",
+    "2s": "flagelas",
+    "3s": "flagela",
+    "1p": "flagelamos",
+    "2p": "flagelais",
+    "3p": "flagelam"
+  },
+  "PImpI": {
+    "1s": "flagelava",
+    "2s": "flagelavas",
+    "3s": "flagelava",
+    "1p": "flagelávamos",
+    "2p": "flageláveis",
+    "3p": "flagelavam"
+  },
+  "PPSI": {
+    "1s": "flagelei",
+    "2s": "flagelaste",
+    "3s": "flagelou",
+    "1p": "flagelámos",
+    "2p": "flagelastes",
+    "3p": "flagelaram"
+  },
+  "PMQPSI": {
+    "1s": "flagelara",
+    "2s": "flagelaras",
+    "3s": "flagelara",
+    "1p": "flageláramos",
+    "2p": "flageláreis",
+    "3p": "flagelaram"
+  },
+  "FutSI": {
+    "1s": "flagelarei",
+    "2s": "flagelarás",
+    "3s": "flagelará",
+    "1p": "flagelaremos",
+    "2p": "flagelareis",
+    "3p": "flagelarão"
+  },
+  "CondS": {
+    "1s": "flagelaria",
+    "2s": "flagelarias",
+    "3s": "flagelaria",
+    "1p": "flagelaríamos",
+    "2p": "flagelaríeis",
+    "3p": "flagelariam"
+  },
+  "PresC": {
+    "1s": "flagele",
+    "2s": "flageles",
+    "3s": "flagele",
+    "1p": "flagelemos",
+    "2p": "flageleis",
+    "3p": "flagelem"
+  },
+  "PImpC": {
+    "1s": "flagelasse",
+    "2s": "flagelasses",
+    "3s": "flagelasse",
+    "1p": "flagelássemos",
+    "2p": "flagelásseis",
+    "3p": "flagelassem"
+  },
+  "FutSC": {
+    "1s": "flagelar",
+    "2s": "flagelares",
+    "3s": "flagelar",
+    "1p": "flagelarmos",
+    "2p": "flagelardes",
+    "3p": "flagelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flagela",
+    "3s": "flagele",
+    "1p": "flagelemos",
+    "2p": "flagelai",
+    "3p": "flagelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não flageles",
+    "3s": "não flagele",
+    "1p": "não flagelemos",
+    "2p": "não flageleis",
+    "3p": "não flagelem"
+  },
+  "Part-ter": {
+    "": "flagelado"
+  },
+  "Part-ser": {
+    "ms": "flagelado",
+    "fs": "flagelada",
+    "mp": "flagelados",
+    "fp": "flageladas"
+  }
+}

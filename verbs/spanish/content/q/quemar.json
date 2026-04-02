@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "quemar"
+  },
+  "Ger": {
+    "": "quemando"
+  },
+  "PresI": {
+    "1s": "quemo",
+    "2s": "quemas",
+    "3s": "quema",
+    "1p": "quemamos",
+    "2p": "quemáis",
+    "3p": "queman"
+  },
+  "PImpI": {
+    "1s": "quemaba",
+    "2s": "quemabas",
+    "3s": "quemaba",
+    "1p": "quemábamos",
+    "2p": "quemabais",
+    "3p": "quemaban"
+  },
+  "PPSI": {
+    "1s": "quemé",
+    "2s": "quemaste",
+    "3s": "quemó",
+    "1p": "quemamos",
+    "2p": "quemasteis",
+    "3p": "quemaron"
+  },
+  "FutSI": {
+    "1s": "quemaré",
+    "2s": "quemarás",
+    "3s": "quemará",
+    "1p": "quemaremos",
+    "2p": "quemaréis",
+    "3p": "quemarán"
+  },
+  "CondS": {
+    "1s": "quemaría",
+    "2s": "quemarías",
+    "3s": "quemaría",
+    "1p": "quemaríamos",
+    "2p": "quemaríais",
+    "3p": "quemarían"
+  },
+  "PresC": {
+    "1s": "queme",
+    "2s": "quemes",
+    "3s": "queme",
+    "1p": "quememos",
+    "2p": "queméis",
+    "3p": "quemen"
+  },
+  "PMQPSI": {
+    "1s": "quemara",
+    "2s": "quemaras",
+    "3s": "quemara",
+    "1p": "quemáramos",
+    "2p": "quemarais",
+    "3p": "quemaran"
+  },
+  "PImpC": {
+    "1s": "quemase",
+    "2s": "quemases",
+    "3s": "quemase",
+    "1p": "quemásemos",
+    "2p": "quemaseis",
+    "3p": "quemasen"
+  },
+  "FutSC": {
+    "1s": "quemare",
+    "2s": "quemares",
+    "3s": "quemare",
+    "1p": "quemáremos",
+    "2p": "quemareis",
+    "3p": "quemaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quema",
+    "3s": "queme",
+    "1p": "quememos",
+    "2p": "quemad",
+    "3p": "quemen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no quemes",
+    "3s": "no queme",
+    "1p": "no quememos",
+    "2p": "no queméis",
+    "3p": "no quemen"
+  },
+  "Part-ter": {
+    "": "quemado"
+  },
+  "Part-ser": {
+    "ms": "quemado",
+    "fs": "quemada",
+    "mp": "quemados",
+    "fp": "quemadas"
+  }
+}

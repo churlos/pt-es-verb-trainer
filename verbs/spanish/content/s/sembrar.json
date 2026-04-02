@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sembrar"
+  },
+  "Ger": {
+    "": "sembrando"
+  },
+  "PresI": {
+    "1s": "siembro",
+    "2s": "siembras",
+    "3s": "siembra",
+    "1p": "sembramos",
+    "2p": "sembráis",
+    "3p": "siembran"
+  },
+  "PImpI": {
+    "1s": "sembraba",
+    "2s": "sembrabas",
+    "3s": "sembraba",
+    "1p": "sembrábamos",
+    "2p": "sembrabais",
+    "3p": "sembraban"
+  },
+  "PPSI": {
+    "1s": "sembré",
+    "2s": "sembraste",
+    "3s": "sembró",
+    "1p": "sembramos",
+    "2p": "sembrasteis",
+    "3p": "sembraron"
+  },
+  "FutSI": {
+    "1s": "sembraré",
+    "2s": "sembrarás",
+    "3s": "sembrará",
+    "1p": "sembraremos",
+    "2p": "sembraréis",
+    "3p": "sembrarán"
+  },
+  "CondS": {
+    "1s": "sembraría",
+    "2s": "sembrarías",
+    "3s": "sembraría",
+    "1p": "sembraríamos",
+    "2p": "sembraríais",
+    "3p": "sembrarían"
+  },
+  "PresC": {
+    "1s": "siembre",
+    "2s": "siembres",
+    "3s": "siembre",
+    "1p": "sembremos",
+    "2p": "sembréis",
+    "3p": "siembren"
+  },
+  "PMQPSI": {
+    "1s": "sembrara",
+    "2s": "sembraras",
+    "3s": "sembrara",
+    "1p": "sembráramos",
+    "2p": "sembrarais",
+    "3p": "sembraran"
+  },
+  "PImpC": {
+    "1s": "sembrase",
+    "2s": "sembrases",
+    "3s": "sembrase",
+    "1p": "sembrásemos",
+    "2p": "sembraseis",
+    "3p": "sembrasen"
+  },
+  "FutSC": {
+    "1s": "sembrare",
+    "2s": "sembrares",
+    "3s": "sembrare",
+    "1p": "sembráremos",
+    "2p": "sembrareis",
+    "3p": "sembraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "siembra",
+    "3s": "siembre",
+    "1p": "sembremos",
+    "2p": "sembrad",
+    "3p": "siembren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no siembres",
+    "3s": "no siembre",
+    "1p": "no sembremos",
+    "2p": "no sembréis",
+    "3p": "no siembren"
+  },
+  "Part-ter": {
+    "": "sembrado"
+  },
+  "Part-ser": {
+    "ms": "sembrado",
+    "fs": "sembrada",
+    "mp": "sembrados",
+    "fp": "sembradas"
+  }
+}

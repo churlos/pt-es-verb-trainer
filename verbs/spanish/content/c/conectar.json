@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conectar"
+  },
+  "Ger": {
+    "": "conectando"
+  },
+  "PresI": {
+    "1s": "conecto",
+    "2s": "conectas",
+    "3s": "conecta",
+    "1p": "conectamos",
+    "2p": "conectáis",
+    "3p": "conectan"
+  },
+  "PImpI": {
+    "1s": "conectaba",
+    "2s": "conectabas",
+    "3s": "conectaba",
+    "1p": "conectábamos",
+    "2p": "conectabais",
+    "3p": "conectaban"
+  },
+  "PPSI": {
+    "1s": "conecté",
+    "2s": "conectaste",
+    "3s": "conectó",
+    "1p": "conectamos",
+    "2p": "conectasteis",
+    "3p": "conectaron"
+  },
+  "FutSI": {
+    "1s": "conectaré",
+    "2s": "conectarás",
+    "3s": "conectará",
+    "1p": "conectaremos",
+    "2p": "conectaréis",
+    "3p": "conectarán"
+  },
+  "CondS": {
+    "1s": "conectaría",
+    "2s": "conectarías",
+    "3s": "conectaría",
+    "1p": "conectaríamos",
+    "2p": "conectaríais",
+    "3p": "conectarían"
+  },
+  "PresC": {
+    "1s": "conecte",
+    "2s": "conectes",
+    "3s": "conecte",
+    "1p": "conectemos",
+    "2p": "conectéis",
+    "3p": "conecten"
+  },
+  "PMQPSI": {
+    "1s": "conectara",
+    "2s": "conectaras",
+    "3s": "conectara",
+    "1p": "conectáramos",
+    "2p": "conectarais",
+    "3p": "conectaran"
+  },
+  "PImpC": {
+    "1s": "conectase",
+    "2s": "conectases",
+    "3s": "conectase",
+    "1p": "conectásemos",
+    "2p": "conectaseis",
+    "3p": "conectasen"
+  },
+  "FutSC": {
+    "1s": "conectare",
+    "2s": "conectares",
+    "3s": "conectare",
+    "1p": "conectáremos",
+    "2p": "conectareis",
+    "3p": "conectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conecta",
+    "3s": "conecte",
+    "1p": "conectemos",
+    "2p": "conectad",
+    "3p": "conecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conectes",
+    "3s": "no conecte",
+    "1p": "no conectemos",
+    "2p": "no conectéis",
+    "3p": "no conecten"
+  },
+  "Part-ter": {
+    "": "conectado"
+  },
+  "Part-ser": {
+    "ms": "conectado",
+    "fs": "conectada",
+    "mp": "conectados",
+    "fp": "conectadas"
+  }
+}

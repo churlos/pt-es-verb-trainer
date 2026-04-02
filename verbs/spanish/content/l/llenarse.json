@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "llenarse"
+  },
+  "Ger": {
+    "": "llenándose"
+  },
+  "PresI": {
+    "1s": "me lleno",
+    "2s": "te llenas",
+    "3s": "se llena",
+    "1p": "nos llenamos",
+    "2p": "os llenáis",
+    "3p": "se llenan"
+  },
+  "PImpI": {
+    "1s": "me llenaba",
+    "2s": "te llenabas",
+    "3s": "se llenaba",
+    "1p": "nos llenábamos",
+    "2p": "os llenabais",
+    "3p": "se llenaban"
+  },
+  "PPSI": {
+    "1s": "me llené",
+    "2s": "te llenaste",
+    "3s": "se llenó",
+    "1p": "nos llenamos",
+    "2p": "os llenasteis",
+    "3p": "se llenaron"
+  },
+  "FutSI": {
+    "1s": "me llenaré",
+    "2s": "te llenarás",
+    "3s": "se llenará",
+    "1p": "nos llenaremos",
+    "2p": "os llenaréis",
+    "3p": "se llenarán"
+  },
+  "CondS": {
+    "1s": "me llenaría",
+    "2s": "te llenarías",
+    "3s": "se llenaría",
+    "1p": "nos llenaríamos",
+    "2p": "os llenaríais",
+    "3p": "se llenarían"
+  },
+  "PresC": {
+    "1s": "me llene",
+    "2s": "te llenes",
+    "3s": "se llene",
+    "1p": "nos llenemos",
+    "2p": "os llenéis",
+    "3p": "se llenen"
+  },
+  "PMQPSI": {
+    "1s": "me llenara",
+    "2s": "te llenaras",
+    "3s": "se llenara",
+    "1p": "nos llenáramos",
+    "2p": "os llenarais",
+    "3p": "se llenaran"
+  },
+  "PImpC": {
+    "1s": "me llenase",
+    "2s": "te llenases",
+    "3s": "se llenase",
+    "1p": "nos llenásemos",
+    "2p": "os llenaseis",
+    "3p": "se llenasen"
+  },
+  "FutSC": {
+    "1s": "me llenare",
+    "2s": "te llenares",
+    "3s": "se llenare",
+    "1p": "nos llenáremos",
+    "2p": "os llenareis",
+    "3p": "se llenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "llénate",
+    "3s": "llénese",
+    "1p": "llenémonos",
+    "2p": "llenaos",
+    "3p": "llénense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te llenes",
+    "3s": "no se llene",
+    "1p": "no nos llenemos",
+    "2p": "no os llenéis",
+    "3p": "no se llenen"
+  },
+  "Part-ter": {
+    "": "llenado"
+  },
+  "Part-ser": {
+    "ms": "llenado",
+    "fs": "llenada",
+    "mp": "llenados",
+    "fp": "llenadas"
+  }
+}

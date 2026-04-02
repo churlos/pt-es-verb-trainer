@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fedatear"
+  },
+  "Ger": {
+    "": "fedateando"
+  },
+  "PresI": {
+    "1s": "fedateo",
+    "2s": "fedateas",
+    "3s": "fedatea",
+    "1p": "fedateamos",
+    "2p": "fedateáis",
+    "3p": "fedatean"
+  },
+  "PImpI": {
+    "1s": "fedateaba",
+    "2s": "fedateabas",
+    "3s": "fedateaba",
+    "1p": "fedateábamos",
+    "2p": "fedateabais",
+    "3p": "fedateaban"
+  },
+  "PPSI": {
+    "1s": "fedateé",
+    "2s": "fedateaste",
+    "3s": "fedateó",
+    "1p": "fedateamos",
+    "2p": "fedateasteis",
+    "3p": "fedatearon"
+  },
+  "FutSI": {
+    "1s": "fedatearé",
+    "2s": "fedatearás",
+    "3s": "fedateará",
+    "1p": "fedatearemos",
+    "2p": "fedatearéis",
+    "3p": "fedatearán"
+  },
+  "CondS": {
+    "1s": "fedatearía",
+    "2s": "fedatearías",
+    "3s": "fedatearía",
+    "1p": "fedatearíamos",
+    "2p": "fedatearíais",
+    "3p": "fedatearían"
+  },
+  "PresC": {
+    "1s": "fedatee",
+    "2s": "fedatees",
+    "3s": "fedatee",
+    "1p": "fedateemos",
+    "2p": "fedateéis",
+    "3p": "fedateen"
+  },
+  "PMQPSI": {
+    "1s": "fedateara",
+    "2s": "fedatearas",
+    "3s": "fedateara",
+    "1p": "fedateáramos",
+    "2p": "fedatearais",
+    "3p": "fedatearan"
+  },
+  "PImpC": {
+    "1s": "fedatease",
+    "2s": "fedateases",
+    "3s": "fedatease",
+    "1p": "fedateásemos",
+    "2p": "fedateaseis",
+    "3p": "fedateasen"
+  },
+  "FutSC": {
+    "1s": "fedateare",
+    "2s": "fedateares",
+    "3s": "fedateare",
+    "1p": "fedateáremos",
+    "2p": "fedateareis",
+    "3p": "fedatearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fedatea",
+    "3s": "fedatee",
+    "1p": "fedateemos",
+    "2p": "fedatead",
+    "3p": "fedateen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fedatees",
+    "3s": "no fedatee",
+    "1p": "no fedateemos",
+    "2p": "no fedateéis",
+    "3p": "no fedateen"
+  },
+  "Part-ter": {
+    "": "fedateado"
+  },
+  "Part-ser": {
+    "ms": "fedateado",
+    "fs": "fedateada",
+    "mp": "fedateados",
+    "fp": "fedateadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agonizar"
+  },
+  "InfP": {
+    "1s": "agonizar",
+    "2s": "agonizares",
+    "3s": "agonizar",
+    "1p": "agonizarmos",
+    "2p": "agonizardes",
+    "3p": "agonizarem"
+  },
+  "Ger": {
+    "": "agonizando"
+  },
+  "PresI": {
+    "1s": "agonizo",
+    "2s": "agonizas",
+    "3s": "agoniza",
+    "1p": "agonizamos",
+    "2p": "agonizais",
+    "3p": "agonizam"
+  },
+  "PImpI": {
+    "1s": "agonizava",
+    "2s": "agonizavas",
+    "3s": "agonizava",
+    "1p": "agonizávamos",
+    "2p": "agonizáveis",
+    "3p": "agonizavam"
+  },
+  "PPSI": {
+    "1s": "agonizei",
+    "2s": "agonizaste",
+    "3s": "agonizou",
+    "1p": "agonizámos",
+    "2p": "agonizastes",
+    "3p": "agonizaram"
+  },
+  "PMQPSI": {
+    "1s": "agonizara",
+    "2s": "agonizaras",
+    "3s": "agonizara",
+    "1p": "agonizáramos",
+    "2p": "agonizáreis",
+    "3p": "agonizaram"
+  },
+  "FutSI": {
+    "1s": "agonizarei",
+    "2s": "agonizarás",
+    "3s": "agonizará",
+    "1p": "agonizaremos",
+    "2p": "agonizareis",
+    "3p": "agonizarão"
+  },
+  "CondS": {
+    "1s": "agonizaria",
+    "2s": "agonizarias",
+    "3s": "agonizaria",
+    "1p": "agonizaríamos",
+    "2p": "agonizaríeis",
+    "3p": "agonizariam"
+  },
+  "PresC": {
+    "1s": "agonize",
+    "2s": "agonizes",
+    "3s": "agonize",
+    "1p": "agonizemos",
+    "2p": "agonizeis",
+    "3p": "agonizem"
+  },
+  "PImpC": {
+    "1s": "agonizasse",
+    "2s": "agonizasses",
+    "3s": "agonizasse",
+    "1p": "agonizássemos",
+    "2p": "agonizásseis",
+    "3p": "agonizassem"
+  },
+  "FutSC": {
+    "1s": "agonizar",
+    "2s": "agonizares",
+    "3s": "agonizar",
+    "1p": "agonizarmos",
+    "2p": "agonizardes",
+    "3p": "agonizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agoniza",
+    "3s": "agonize",
+    "1p": "agonizemos",
+    "2p": "agonizai",
+    "3p": "agonizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agonizes",
+    "3s": "não agonize",
+    "1p": "não agonizemos",
+    "2p": "não agonizeis",
+    "3p": "não agonizem"
+  },
+  "Part-ter": {
+    "": "agonizado"
+  },
+  "Part-ser": {
+    "ms": "agonizado",
+    "fs": "agonizada",
+    "mp": "agonizados",
+    "fp": "agonizadas"
+  }
+}

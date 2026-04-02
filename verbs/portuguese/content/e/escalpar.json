@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escalpar"
+  },
+  "InfP": {
+    "1s": "escalpar",
+    "2s": "escalpares",
+    "3s": "escalpar",
+    "1p": "escalparmos",
+    "2p": "escalpardes",
+    "3p": "escalparem"
+  },
+  "Ger": {
+    "": "escalpando"
+  },
+  "PresI": {
+    "1s": "escalpo",
+    "2s": "escalpas",
+    "3s": "escalpa",
+    "1p": "escalpamos",
+    "2p": "escalpais",
+    "3p": "escalpam"
+  },
+  "PImpI": {
+    "1s": "escalpava",
+    "2s": "escalpavas",
+    "3s": "escalpava",
+    "1p": "escalpávamos",
+    "2p": "escalpáveis",
+    "3p": "escalpavam"
+  },
+  "PPSI": {
+    "1s": "escalpei",
+    "2s": "escalpaste",
+    "3s": "escalpou",
+    "1p": "escalpámos",
+    "2p": "escalpastes",
+    "3p": "escalparam"
+  },
+  "PMQPSI": {
+    "1s": "escalpara",
+    "2s": "escalparas",
+    "3s": "escalpara",
+    "1p": "escalpáramos",
+    "2p": "escalpáreis",
+    "3p": "escalparam"
+  },
+  "FutSI": {
+    "1s": "escalparei",
+    "2s": "escalparás",
+    "3s": "escalpará",
+    "1p": "escalparemos",
+    "2p": "escalpareis",
+    "3p": "escalparão"
+  },
+  "CondS": {
+    "1s": "escalparia",
+    "2s": "escalparias",
+    "3s": "escalparia",
+    "1p": "escalparíamos",
+    "2p": "escalparíeis",
+    "3p": "escalpariam"
+  },
+  "PresC": {
+    "1s": "escalpe",
+    "2s": "escalpes",
+    "3s": "escalpe",
+    "1p": "escalpemos",
+    "2p": "escalpeis",
+    "3p": "escalpem"
+  },
+  "PImpC": {
+    "1s": "escalpasse",
+    "2s": "escalpasses",
+    "3s": "escalpasse",
+    "1p": "escalpássemos",
+    "2p": "escalpásseis",
+    "3p": "escalpassem"
+  },
+  "FutSC": {
+    "1s": "escalpar",
+    "2s": "escalpares",
+    "3s": "escalpar",
+    "1p": "escalparmos",
+    "2p": "escalpardes",
+    "3p": "escalparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escalpa",
+    "3s": "escalpe",
+    "1p": "escalpemos",
+    "2p": "escalpai",
+    "3p": "escalpem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escalpes",
+    "3s": "não escalpe",
+    "1p": "não escalpemos",
+    "2p": "não escalpeis",
+    "3p": "não escalpem"
+  },
+  "Part-ter": {
+    "": "escalpado"
+  },
+  "Part-ser": {
+    "ms": "escalpado",
+    "fs": "escalpada",
+    "mp": "escalpados",
+    "fp": "escalpadas"
+  }
+}

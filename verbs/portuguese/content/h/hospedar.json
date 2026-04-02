@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "hospedar"
+  },
+  "InfP": {
+    "1s": "hospedar",
+    "2s": "hospedares",
+    "3s": "hospedar",
+    "1p": "hospedarmos",
+    "2p": "hospedardes",
+    "3p": "hospedarem"
+  },
+  "Ger": {
+    "": "hospedando"
+  },
+  "PresI": {
+    "1s": "hospedo",
+    "2s": "hospedas",
+    "3s": "hospeda",
+    "1p": "hospedamos",
+    "2p": "hospedais",
+    "3p": "hospedam"
+  },
+  "PImpI": {
+    "1s": "hospedava",
+    "2s": "hospedavas",
+    "3s": "hospedava",
+    "1p": "hospedávamos",
+    "2p": "hospedáveis",
+    "3p": "hospedavam"
+  },
+  "PPSI": {
+    "1s": "hospedei",
+    "2s": "hospedaste",
+    "3s": "hospedou",
+    "1p": "hospedámos",
+    "2p": "hospedastes",
+    "3p": "hospedaram"
+  },
+  "PMQPSI": {
+    "1s": "hospedara",
+    "2s": "hospedaras",
+    "3s": "hospedara",
+    "1p": "hospedáramos",
+    "2p": "hospedáreis",
+    "3p": "hospedaram"
+  },
+  "FutSI": {
+    "1s": "hospedarei",
+    "2s": "hospedarás",
+    "3s": "hospedará",
+    "1p": "hospedaremos",
+    "2p": "hospedareis",
+    "3p": "hospedarão"
+  },
+  "CondS": {
+    "1s": "hospedaria",
+    "2s": "hospedarias",
+    "3s": "hospedaria",
+    "1p": "hospedaríamos",
+    "2p": "hospedaríeis",
+    "3p": "hospedariam"
+  },
+  "PresC": {
+    "1s": "hospede",
+    "2s": "hospedes",
+    "3s": "hospede",
+    "1p": "hospedemos",
+    "2p": "hospedeis",
+    "3p": "hospedem"
+  },
+  "PImpC": {
+    "1s": "hospedasse",
+    "2s": "hospedasses",
+    "3s": "hospedasse",
+    "1p": "hospedássemos",
+    "2p": "hospedásseis",
+    "3p": "hospedassem"
+  },
+  "FutSC": {
+    "1s": "hospedar",
+    "2s": "hospedares",
+    "3s": "hospedar",
+    "1p": "hospedarmos",
+    "2p": "hospedardes",
+    "3p": "hospedarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hospeda",
+    "3s": "hospede",
+    "1p": "hospedemos",
+    "2p": "hospedai",
+    "3p": "hospedem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não hospedes",
+    "3s": "não hospede",
+    "1p": "não hospedemos",
+    "2p": "não hospedeis",
+    "3p": "não hospedem"
+  },
+  "Part-ter": {
+    "": "hospedado"
+  },
+  "Part-ser": {
+    "ms": "hospedado",
+    "fs": "hospedada",
+    "mp": "hospedados",
+    "fp": "hospedadas"
+  }
+}

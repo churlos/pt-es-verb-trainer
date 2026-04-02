@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agir"
+  },
+  "InfP": {
+    "1s": "agir",
+    "2s": "agires",
+    "3s": "agir",
+    "1p": "agirmos",
+    "2p": "agirdes",
+    "3p": "agirem"
+  },
+  "Ger": {
+    "": "agindo"
+  },
+  "PresI": {
+    "1s": "ajo",
+    "2s": "ages",
+    "3s": "age",
+    "1p": "agimos",
+    "2p": "agis",
+    "3p": "agem"
+  },
+  "PImpI": {
+    "1s": "agia",
+    "2s": "agias",
+    "3s": "agia",
+    "1p": "agíamos",
+    "2p": "agíeis",
+    "3p": "agiam"
+  },
+  "PPSI": {
+    "1s": "agi",
+    "2s": "agiste",
+    "3s": "agiu",
+    "1p": "agimos",
+    "2p": "agistes",
+    "3p": "agiram"
+  },
+  "PMQPSI": {
+    "1s": "agira",
+    "2s": "agiras",
+    "3s": "agira",
+    "1p": "agíramos",
+    "2p": "agíreis",
+    "3p": "agiram"
+  },
+  "FutSI": {
+    "1s": "agirei",
+    "2s": "agirás",
+    "3s": "agirá",
+    "1p": "agiremos",
+    "2p": "agireis",
+    "3p": "agirão"
+  },
+  "CondS": {
+    "1s": "agiria",
+    "2s": "agirias",
+    "3s": "agiria",
+    "1p": "agiríamos",
+    "2p": "agiríeis",
+    "3p": "agiriam"
+  },
+  "PresC": {
+    "1s": "aja",
+    "2s": "ajas",
+    "3s": "aja",
+    "1p": "ajamos",
+    "2p": "ajais",
+    "3p": "ajam"
+  },
+  "PImpC": {
+    "1s": "agisse",
+    "2s": "agisses",
+    "3s": "agisse",
+    "1p": "agíssemos",
+    "2p": "agísseis",
+    "3p": "agissem"
+  },
+  "FutSC": {
+    "1s": "agir",
+    "2s": "agires",
+    "3s": "agir",
+    "1p": "agirmos",
+    "2p": "agirdes",
+    "3p": "agirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "age",
+    "3s": "aja",
+    "1p": "ajamos",
+    "2p": "agi",
+    "3p": "ajam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ajas",
+    "3s": "não aja",
+    "1p": "não ajamos",
+    "2p": "não ajais",
+    "3p": "não ajam"
+  },
+  "Part-ter": {
+    "": "agido"
+  },
+  "Part-ser": {
+    "ms": "agido",
+    "fs": "agida",
+    "mp": "agidos",
+    "fp": "agidas"
+  }
+}

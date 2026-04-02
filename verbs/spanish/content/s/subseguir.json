@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subseguir"
+  },
+  "Ger": {
+    "": "subsiguiendo"
+  },
+  "PresI": {
+    "1s": "subsigo",
+    "2s": "subsigues",
+    "3s": "subsigue",
+    "1p": "subseguimos",
+    "2p": "subseguís",
+    "3p": "subsiguen"
+  },
+  "PImpI": {
+    "1s": "subseguía",
+    "2s": "subseguías",
+    "3s": "subseguía",
+    "1p": "subseguíamos",
+    "2p": "subseguíais",
+    "3p": "subseguían"
+  },
+  "PPSI": {
+    "1s": "subseguí",
+    "2s": "subseguiste",
+    "3s": "subsiguió",
+    "1p": "subseguimos",
+    "2p": "subseguisteis",
+    "3p": "subsiguieron"
+  },
+  "FutSI": {
+    "1s": "subseguiré",
+    "2s": "subseguirás",
+    "3s": "subseguirá",
+    "1p": "subseguiremos",
+    "2p": "subseguiréis",
+    "3p": "subseguirán"
+  },
+  "CondS": {
+    "1s": "subseguiría",
+    "2s": "subseguirías",
+    "3s": "subseguiría",
+    "1p": "subseguiríamos",
+    "2p": "subseguiríais",
+    "3p": "subseguirían"
+  },
+  "PresC": {
+    "1s": "subsiga",
+    "2s": "subsigas",
+    "3s": "subsiga",
+    "1p": "subsigamos",
+    "2p": "subsigáis",
+    "3p": "subsigan"
+  },
+  "PMQPSI": {
+    "1s": "subsiguiera",
+    "2s": "subsiguieras",
+    "3s": "subsiguiera",
+    "1p": "subsiguiéramos",
+    "2p": "subsiguierais",
+    "3p": "subsiguieran"
+  },
+  "PImpC": {
+    "1s": "subsiguiese",
+    "2s": "subsiguieses",
+    "3s": "subsiguiese",
+    "1p": "subsiguiésemos",
+    "2p": "subsiguieseis",
+    "3p": "subsiguiesen"
+  },
+  "FutSC": {
+    "1s": "subsiguiere",
+    "2s": "subsiguieres",
+    "3s": "subsiguiere",
+    "1p": "subsiguiéremos",
+    "2p": "subsiguiereis",
+    "3p": "subsiguieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "subsigue",
+    "3s": "subsiga",
+    "1p": "subsigamos",
+    "2p": "subseguid",
+    "3p": "subsigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subsigas",
+    "3s": "no subsiga",
+    "1p": "no subsigamos",
+    "2p": "no subsigáis",
+    "3p": "no subsigan"
+  },
+  "Part-ter": {
+    "": "subseguido"
+  },
+  "Part-ser": {
+    "ms": "subseguido",
+    "fs": "subseguida",
+    "mp": "subseguidos",
+    "fp": "subseguidas"
+  }
+}

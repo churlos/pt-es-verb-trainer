@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "helar"
+  },
+  "Ger": {
+    "": "helando"
+  },
+  "PresI": {
+    "1s": "hielo",
+    "2s": "hielas",
+    "3s": "hiela",
+    "1p": "helamos",
+    "2p": "heláis",
+    "3p": "hielan"
+  },
+  "PImpI": {
+    "1s": "helaba",
+    "2s": "helabas",
+    "3s": "helaba",
+    "1p": "helábamos",
+    "2p": "helabais",
+    "3p": "helaban"
+  },
+  "PPSI": {
+    "1s": "helé",
+    "2s": "helaste",
+    "3s": "heló",
+    "1p": "helamos",
+    "2p": "helasteis",
+    "3p": "helaron"
+  },
+  "FutSI": {
+    "1s": "helaré",
+    "2s": "helarás",
+    "3s": "helará",
+    "1p": "helaremos",
+    "2p": "helaréis",
+    "3p": "helarán"
+  },
+  "CondS": {
+    "1s": "helaría",
+    "2s": "helarías",
+    "3s": "helaría",
+    "1p": "helaríamos",
+    "2p": "helaríais",
+    "3p": "helarían"
+  },
+  "PresC": {
+    "1s": "hiele",
+    "2s": "hieles",
+    "3s": "hiele",
+    "1p": "helemos",
+    "2p": "heléis",
+    "3p": "hielen"
+  },
+  "PMQPSI": {
+    "1s": "helara",
+    "2s": "helaras",
+    "3s": "helara",
+    "1p": "heláramos",
+    "2p": "helarais",
+    "3p": "helaran"
+  },
+  "PImpC": {
+    "1s": "helase",
+    "2s": "helases",
+    "3s": "helase",
+    "1p": "helásemos",
+    "2p": "helaseis",
+    "3p": "helasen"
+  },
+  "FutSC": {
+    "1s": "helare",
+    "2s": "helares",
+    "3s": "helare",
+    "1p": "heláremos",
+    "2p": "helareis",
+    "3p": "helaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hiela",
+    "3s": "hiele",
+    "1p": "helemos",
+    "2p": "helad",
+    "3p": "hielen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hieles",
+    "3s": "no hiele",
+    "1p": "no helemos",
+    "2p": "no heléis",
+    "3p": "no hielen"
+  },
+  "Part-ter": {
+    "": "helado"
+  },
+  "Part-ser": {
+    "ms": "helado",
+    "fs": "helada",
+    "mp": "helados",
+    "fp": "heladas"
+  }
+}

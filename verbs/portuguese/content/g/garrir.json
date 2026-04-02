@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "garrir"
+  },
+  "InfP": {
+    "1s": "garrir",
+    "2s": "garrires",
+    "3s": "garrir",
+    "1p": "garrirmos",
+    "2p": "garrirdes",
+    "3p": "garrirem"
+  },
+  "Ger": {
+    "": "garrindo"
+  },
+  "PresI": {
+    "1s": "garro",
+    "2s": "garres",
+    "3s": "garre",
+    "1p": "garrimos",
+    "2p": "garris",
+    "3p": "garrem"
+  },
+  "PImpI": {
+    "1s": "garria",
+    "2s": "garrias",
+    "3s": "garria",
+    "1p": "garríamos",
+    "2p": "garríeis",
+    "3p": "garriam"
+  },
+  "PPSI": {
+    "1s": "garri",
+    "2s": "garriste",
+    "3s": "garriu",
+    "1p": "garrimos",
+    "2p": "garristes",
+    "3p": "garriram"
+  },
+  "PMQPSI": {
+    "1s": "garrira",
+    "2s": "garriras",
+    "3s": "garrira",
+    "1p": "garríramos",
+    "2p": "garríreis",
+    "3p": "garriram"
+  },
+  "FutSI": {
+    "1s": "garrirei",
+    "2s": "garrirás",
+    "3s": "garrirá",
+    "1p": "garriremos",
+    "2p": "garrireis",
+    "3p": "garrirão"
+  },
+  "CondS": {
+    "1s": "garriria",
+    "2s": "garririas",
+    "3s": "garriria",
+    "1p": "garriríamos",
+    "2p": "garriríeis",
+    "3p": "garririam"
+  },
+  "PresC": {
+    "1s": "garra",
+    "2s": "garras",
+    "3s": "garra",
+    "1p": "garramos",
+    "2p": "garrais",
+    "3p": "garram"
+  },
+  "PImpC": {
+    "1s": "garrisse",
+    "2s": "garrisses",
+    "3s": "garrisse",
+    "1p": "garríssemos",
+    "2p": "garrísseis",
+    "3p": "garrissem"
+  },
+  "FutSC": {
+    "1s": "garrir",
+    "2s": "garrires",
+    "3s": "garrir",
+    "1p": "garrirmos",
+    "2p": "garrirdes",
+    "3p": "garrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "garre",
+    "3s": "garra",
+    "1p": "garramos",
+    "2p": "garri",
+    "3p": "garram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não garras",
+    "3s": "não garra",
+    "1p": "não garramos",
+    "2p": "não garrais",
+    "3p": "não garram"
+  },
+  "Part-ter": {
+    "": "garrido"
+  },
+  "Part-ser": {
+    "ms": "garrido",
+    "fs": "garrida",
+    "mp": "garridos",
+    "fp": "garridas"
+  }
+}

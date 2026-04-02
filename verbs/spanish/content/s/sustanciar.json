@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sustanciar"
+  },
+  "Ger": {
+    "": "sustanciando"
+  },
+  "PresI": {
+    "1s": "sustancio",
+    "2s": "sustancias",
+    "3s": "sustancia",
+    "1p": "sustanciamos",
+    "2p": "sustanciáis",
+    "3p": "sustancian"
+  },
+  "PImpI": {
+    "1s": "sustanciaba",
+    "2s": "sustanciabas",
+    "3s": "sustanciaba",
+    "1p": "sustanciábamos",
+    "2p": "sustanciabais",
+    "3p": "sustanciaban"
+  },
+  "PPSI": {
+    "1s": "sustancié",
+    "2s": "sustanciaste",
+    "3s": "sustanció",
+    "1p": "sustanciamos",
+    "2p": "sustanciasteis",
+    "3p": "sustanciaron"
+  },
+  "FutSI": {
+    "1s": "sustanciaré",
+    "2s": "sustanciarás",
+    "3s": "sustanciará",
+    "1p": "sustanciaremos",
+    "2p": "sustanciaréis",
+    "3p": "sustanciarán"
+  },
+  "CondS": {
+    "1s": "sustanciaría",
+    "2s": "sustanciarías",
+    "3s": "sustanciaría",
+    "1p": "sustanciaríamos",
+    "2p": "sustanciaríais",
+    "3p": "sustanciarían"
+  },
+  "PresC": {
+    "1s": "sustancie",
+    "2s": "sustancies",
+    "3s": "sustancie",
+    "1p": "sustanciemos",
+    "2p": "sustanciéis",
+    "3p": "sustancien"
+  },
+  "PMQPSI": {
+    "1s": "sustanciara",
+    "2s": "sustanciaras",
+    "3s": "sustanciara",
+    "1p": "sustanciáramos",
+    "2p": "sustanciarais",
+    "3p": "sustanciaran"
+  },
+  "PImpC": {
+    "1s": "sustanciase",
+    "2s": "sustanciases",
+    "3s": "sustanciase",
+    "1p": "sustanciásemos",
+    "2p": "sustanciaseis",
+    "3p": "sustanciasen"
+  },
+  "FutSC": {
+    "1s": "sustanciare",
+    "2s": "sustanciares",
+    "3s": "sustanciare",
+    "1p": "sustanciáremos",
+    "2p": "sustanciareis",
+    "3p": "sustanciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sustancia",
+    "3s": "sustancie",
+    "1p": "sustanciemos",
+    "2p": "sustanciad",
+    "3p": "sustancien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sustancies",
+    "3s": "no sustancie",
+    "1p": "no sustanciemos",
+    "2p": "no sustanciéis",
+    "3p": "no sustancien"
+  },
+  "Part-ter": {
+    "": "sustanciado"
+  },
+  "Part-ser": {
+    "ms": "sustanciado",
+    "fs": "sustanciada",
+    "mp": "sustanciados",
+    "fp": "sustanciadas"
+  }
+}

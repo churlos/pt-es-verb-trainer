@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "camelar"
+  },
+  "Ger": {
+    "": "camelando"
+  },
+  "PresI": {
+    "1s": "camelo",
+    "2s": "camelas",
+    "3s": "camela",
+    "1p": "camelamos",
+    "2p": "cameláis",
+    "3p": "camelan"
+  },
+  "PImpI": {
+    "1s": "camelaba",
+    "2s": "camelabas",
+    "3s": "camelaba",
+    "1p": "camelábamos",
+    "2p": "camelabais",
+    "3p": "camelaban"
+  },
+  "PPSI": {
+    "1s": "camelé",
+    "2s": "camelaste",
+    "3s": "cameló",
+    "1p": "camelamos",
+    "2p": "camelasteis",
+    "3p": "camelaron"
+  },
+  "FutSI": {
+    "1s": "camelaré",
+    "2s": "camelarás",
+    "3s": "camelará",
+    "1p": "camelaremos",
+    "2p": "camelaréis",
+    "3p": "camelarán"
+  },
+  "CondS": {
+    "1s": "camelaría",
+    "2s": "camelarías",
+    "3s": "camelaría",
+    "1p": "camelaríamos",
+    "2p": "camelaríais",
+    "3p": "camelarían"
+  },
+  "PresC": {
+    "1s": "camele",
+    "2s": "cameles",
+    "3s": "camele",
+    "1p": "camelemos",
+    "2p": "cameléis",
+    "3p": "camelen"
+  },
+  "PMQPSI": {
+    "1s": "camelara",
+    "2s": "camelaras",
+    "3s": "camelara",
+    "1p": "cameláramos",
+    "2p": "camelarais",
+    "3p": "camelaran"
+  },
+  "PImpC": {
+    "1s": "camelase",
+    "2s": "camelases",
+    "3s": "camelase",
+    "1p": "camelásemos",
+    "2p": "camelaseis",
+    "3p": "camelasen"
+  },
+  "FutSC": {
+    "1s": "camelare",
+    "2s": "camelares",
+    "3s": "camelare",
+    "1p": "cameláremos",
+    "2p": "camelareis",
+    "3p": "camelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "camela",
+    "3s": "camele",
+    "1p": "camelemos",
+    "2p": "camelad",
+    "3p": "camelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cameles",
+    "3s": "no camele",
+    "1p": "no camelemos",
+    "2p": "no cameléis",
+    "3p": "no camelen"
+  },
+  "Part-ter": {
+    "": "camelado"
+  },
+  "Part-ser": {
+    "ms": "camelado",
+    "fs": "camelada",
+    "mp": "camelados",
+    "fp": "cameladas"
+  }
+}

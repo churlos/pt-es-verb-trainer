@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tunar"
+  },
+  "InfP": {
+    "1s": "tunar",
+    "2s": "tunares",
+    "3s": "tunar",
+    "1p": "tunarmos",
+    "2p": "tunardes",
+    "3p": "tunarem"
+  },
+  "Ger": {
+    "": "tunando"
+  },
+  "PresI": {
+    "1s": "tuno",
+    "2s": "tunas",
+    "3s": "tuna",
+    "1p": "tunamos",
+    "2p": "tunais",
+    "3p": "tunam"
+  },
+  "PImpI": {
+    "1s": "tunava",
+    "2s": "tunavas",
+    "3s": "tunava",
+    "1p": "tunávamos",
+    "2p": "tunáveis",
+    "3p": "tunavam"
+  },
+  "PPSI": {
+    "1s": "tunei",
+    "2s": "tunaste",
+    "3s": "tunou",
+    "1p": "tunámos",
+    "2p": "tunastes",
+    "3p": "tunaram"
+  },
+  "PMQPSI": {
+    "1s": "tunara",
+    "2s": "tunaras",
+    "3s": "tunara",
+    "1p": "tunáramos",
+    "2p": "tunáreis",
+    "3p": "tunaram"
+  },
+  "FutSI": {
+    "1s": "tunarei",
+    "2s": "tunarás",
+    "3s": "tunará",
+    "1p": "tunaremos",
+    "2p": "tunareis",
+    "3p": "tunarão"
+  },
+  "CondS": {
+    "1s": "tunaria",
+    "2s": "tunarias",
+    "3s": "tunaria",
+    "1p": "tunaríamos",
+    "2p": "tunaríeis",
+    "3p": "tunariam"
+  },
+  "PresC": {
+    "1s": "tune",
+    "2s": "tunes",
+    "3s": "tune",
+    "1p": "tunemos",
+    "2p": "tuneis",
+    "3p": "tunem"
+  },
+  "PImpC": {
+    "1s": "tunasse",
+    "2s": "tunasses",
+    "3s": "tunasse",
+    "1p": "tunássemos",
+    "2p": "tunásseis",
+    "3p": "tunassem"
+  },
+  "FutSC": {
+    "1s": "tunar",
+    "2s": "tunares",
+    "3s": "tunar",
+    "1p": "tunarmos",
+    "2p": "tunardes",
+    "3p": "tunarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tuna",
+    "3s": "tune",
+    "1p": "tunemos",
+    "2p": "tunai",
+    "3p": "tunem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tunes",
+    "3s": "não tune",
+    "1p": "não tunemos",
+    "2p": "não tuneis",
+    "3p": "não tunem"
+  },
+  "Part-ter": {
+    "": "tunado"
+  },
+  "Part-ser": {
+    "ms": "tunado",
+    "fs": "tunada",
+    "mp": "tunados",
+    "fp": "tunadas"
+  }
+}

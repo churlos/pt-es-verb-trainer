@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hilar"
+  },
+  "Ger": {
+    "": "hilando"
+  },
+  "PresI": {
+    "1s": "hilo",
+    "2s": "hilas",
+    "3s": "hila",
+    "1p": "hilamos",
+    "2p": "hiláis",
+    "3p": "hilan"
+  },
+  "PImpI": {
+    "1s": "hilaba",
+    "2s": "hilabas",
+    "3s": "hilaba",
+    "1p": "hilábamos",
+    "2p": "hilabais",
+    "3p": "hilaban"
+  },
+  "PPSI": {
+    "1s": "hilé",
+    "2s": "hilaste",
+    "3s": "hiló",
+    "1p": "hilamos",
+    "2p": "hilasteis",
+    "3p": "hilaron"
+  },
+  "FutSI": {
+    "1s": "hilaré",
+    "2s": "hilarás",
+    "3s": "hilará",
+    "1p": "hilaremos",
+    "2p": "hilaréis",
+    "3p": "hilarán"
+  },
+  "CondS": {
+    "1s": "hilaría",
+    "2s": "hilarías",
+    "3s": "hilaría",
+    "1p": "hilaríamos",
+    "2p": "hilaríais",
+    "3p": "hilarían"
+  },
+  "PresC": {
+    "1s": "hile",
+    "2s": "hiles",
+    "3s": "hile",
+    "1p": "hilemos",
+    "2p": "hiléis",
+    "3p": "hilen"
+  },
+  "PMQPSI": {
+    "1s": "hilara",
+    "2s": "hilaras",
+    "3s": "hilara",
+    "1p": "hiláramos",
+    "2p": "hilarais",
+    "3p": "hilaran"
+  },
+  "PImpC": {
+    "1s": "hilase",
+    "2s": "hilases",
+    "3s": "hilase",
+    "1p": "hilásemos",
+    "2p": "hilaseis",
+    "3p": "hilasen"
+  },
+  "FutSC": {
+    "1s": "hilare",
+    "2s": "hilares",
+    "3s": "hilare",
+    "1p": "hiláremos",
+    "2p": "hilareis",
+    "3p": "hilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hila",
+    "3s": "hile",
+    "1p": "hilemos",
+    "2p": "hilad",
+    "3p": "hilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hiles",
+    "3s": "no hile",
+    "1p": "no hilemos",
+    "2p": "no hiléis",
+    "3p": "no hilen"
+  },
+  "Part-ter": {
+    "": "hilado"
+  },
+  "Part-ser": {
+    "ms": "hilado",
+    "fs": "hilada",
+    "mp": "hilados",
+    "fp": "hiladas"
+  }
+}

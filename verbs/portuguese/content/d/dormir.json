@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dormir"
+  },
+  "InfP": {
+    "1s": "dormir",
+    "2s": "dormires",
+    "3s": "dormir",
+    "1p": "dormirmos",
+    "2p": "dormirdes",
+    "3p": "dormirem"
+  },
+  "Ger": {
+    "": "dormindo"
+  },
+  "PresI": {
+    "1s": "durmo",
+    "2s": "dormes",
+    "3s": "dorme",
+    "1p": "dormimos",
+    "2p": "dormis",
+    "3p": "dormem"
+  },
+  "PImpI": {
+    "1s": "dormia",
+    "2s": "dormias",
+    "3s": "dormia",
+    "1p": "dormíamos",
+    "2p": "dormíeis",
+    "3p": "dormiam"
+  },
+  "PPSI": {
+    "1s": "dormi",
+    "2s": "dormiste",
+    "3s": "dormiu",
+    "1p": "dormimos",
+    "2p": "dormistes",
+    "3p": "dormiram"
+  },
+  "PMQPSI": {
+    "1s": "dormira",
+    "2s": "dormiras",
+    "3s": "dormira",
+    "1p": "dormíramos",
+    "2p": "dormíreis",
+    "3p": "dormiram"
+  },
+  "FutSI": {
+    "1s": "dormirei",
+    "2s": "dormirás",
+    "3s": "dormirá",
+    "1p": "dormiremos",
+    "2p": "dormireis",
+    "3p": "dormirão"
+  },
+  "CondS": {
+    "1s": "dormiria",
+    "2s": "dormirias",
+    "3s": "dormiria",
+    "1p": "dormiríamos",
+    "2p": "dormiríeis",
+    "3p": "dormiriam"
+  },
+  "PresC": {
+    "1s": "durma",
+    "2s": "durmas",
+    "3s": "durma",
+    "1p": "durmamos",
+    "2p": "durmais",
+    "3p": "durmam"
+  },
+  "PImpC": {
+    "1s": "dormisse",
+    "2s": "dormisses",
+    "3s": "dormisse",
+    "1p": "dormíssemos",
+    "2p": "dormísseis",
+    "3p": "dormissem"
+  },
+  "FutSC": {
+    "1s": "dormir",
+    "2s": "dormires",
+    "3s": "dormir",
+    "1p": "dormirmos",
+    "2p": "dormirdes",
+    "3p": "dormirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dorme",
+    "3s": "durma",
+    "1p": "durmamos",
+    "2p": "dormi",
+    "3p": "durmam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não durmas",
+    "3s": "não durma",
+    "1p": "não durmamos",
+    "2p": "não durmais",
+    "3p": "não durmam"
+  },
+  "Part-ter": {
+    "": "dormido"
+  },
+  "Part-ser": {
+    "ms": "dormido",
+    "fs": "dormida",
+    "mp": "dormidos",
+    "fp": "dormidas"
+  }
+}

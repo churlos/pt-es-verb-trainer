@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "apisonar"
+  },
+  "Ger": {
+    "": "apisonando"
+  },
+  "PresI": {
+    "1s": "apisono",
+    "2s": "apisonas",
+    "3s": "apisona",
+    "1p": "apisonamos",
+    "2p": "apisonáis",
+    "3p": "apisonan"
+  },
+  "PImpI": {
+    "1s": "apisonaba",
+    "2s": "apisonabas",
+    "3s": "apisonaba",
+    "1p": "apisonábamos",
+    "2p": "apisonabais",
+    "3p": "apisonaban"
+  },
+  "PPSI": {
+    "1s": "apisoné",
+    "2s": "apisonaste",
+    "3s": "apisonó",
+    "1p": "apisonamos",
+    "2p": "apisonasteis",
+    "3p": "apisonaron"
+  },
+  "FutSI": {
+    "1s": "apisonaré",
+    "2s": "apisonarás",
+    "3s": "apisonará",
+    "1p": "apisonaremos",
+    "2p": "apisonaréis",
+    "3p": "apisonarán"
+  },
+  "CondS": {
+    "1s": "apisonaría",
+    "2s": "apisonarías",
+    "3s": "apisonaría",
+    "1p": "apisonaríamos",
+    "2p": "apisonaríais",
+    "3p": "apisonarían"
+  },
+  "PresC": {
+    "1s": "apisone",
+    "2s": "apisones",
+    "3s": "apisone",
+    "1p": "apisonemos",
+    "2p": "apisonéis",
+    "3p": "apisonen"
+  },
+  "PMQPSI": {
+    "1s": "apisonara",
+    "2s": "apisonaras",
+    "3s": "apisonara",
+    "1p": "apisonáramos",
+    "2p": "apisonarais",
+    "3p": "apisonaran"
+  },
+  "PImpC": {
+    "1s": "apisonase",
+    "2s": "apisonases",
+    "3s": "apisonase",
+    "1p": "apisonásemos",
+    "2p": "apisonaseis",
+    "3p": "apisonasen"
+  },
+  "FutSC": {
+    "1s": "apisonare",
+    "2s": "apisonares",
+    "3s": "apisonare",
+    "1p": "apisonáremos",
+    "2p": "apisonareis",
+    "3p": "apisonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apisona",
+    "3s": "apisone",
+    "1p": "apisonemos",
+    "2p": "apisonad",
+    "3p": "apisonen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apisones",
+    "3s": "no apisone",
+    "1p": "no apisonemos",
+    "2p": "no apisonéis",
+    "3p": "no apisonen"
+  },
+  "Part-ter": {
+    "": "apisonado"
+  },
+  "Part-ser": {
+    "ms": "apisonado",
+    "fs": "apisonada",
+    "mp": "apisonados",
+    "fp": "apisonadas"
+  }
+}

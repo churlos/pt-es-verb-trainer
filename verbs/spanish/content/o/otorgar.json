@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "otorgar"
+  },
+  "Ger": {
+    "": "otorgando"
+  },
+  "PresI": {
+    "1s": "otorgo",
+    "2s": "otorgas",
+    "3s": "otorga",
+    "1p": "otorgamos",
+    "2p": "otorgáis",
+    "3p": "otorgan"
+  },
+  "PImpI": {
+    "1s": "otorgaba",
+    "2s": "otorgabas",
+    "3s": "otorgaba",
+    "1p": "otorgábamos",
+    "2p": "otorgabais",
+    "3p": "otorgaban"
+  },
+  "PPSI": {
+    "1s": "otorgué",
+    "2s": "otorgaste",
+    "3s": "otorgó",
+    "1p": "otorgamos",
+    "2p": "otorgasteis",
+    "3p": "otorgaron"
+  },
+  "FutSI": {
+    "1s": "otorgaré",
+    "2s": "otorgarás",
+    "3s": "otorgará",
+    "1p": "otorgaremos",
+    "2p": "otorgaréis",
+    "3p": "otorgarán"
+  },
+  "CondS": {
+    "1s": "otorgaría",
+    "2s": "otorgarías",
+    "3s": "otorgaría",
+    "1p": "otorgaríamos",
+    "2p": "otorgaríais",
+    "3p": "otorgarían"
+  },
+  "PresC": {
+    "1s": "otorgue",
+    "2s": "otorgues",
+    "3s": "otorgue",
+    "1p": "otorguemos",
+    "2p": "otorguéis",
+    "3p": "otorguen"
+  },
+  "PMQPSI": {
+    "1s": "otorgara",
+    "2s": "otorgaras",
+    "3s": "otorgara",
+    "1p": "otorgáramos",
+    "2p": "otorgarais",
+    "3p": "otorgaran"
+  },
+  "PImpC": {
+    "1s": "otorgase",
+    "2s": "otorgases",
+    "3s": "otorgase",
+    "1p": "otorgásemos",
+    "2p": "otorgaseis",
+    "3p": "otorgasen"
+  },
+  "FutSC": {
+    "1s": "otorgare",
+    "2s": "otorgares",
+    "3s": "otorgare",
+    "1p": "otorgáremos",
+    "2p": "otorgareis",
+    "3p": "otorgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "otorga",
+    "3s": "otorgue",
+    "1p": "otorguemos",
+    "2p": "otorgad",
+    "3p": "otorguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no otorgues",
+    "3s": "no otorgue",
+    "1p": "no otorguemos",
+    "2p": "no otorguéis",
+    "3p": "no otorguen"
+  },
+  "Part-ter": {
+    "": "otorgado"
+  },
+  "Part-ser": {
+    "ms": "otorgado",
+    "fs": "otorgada",
+    "mp": "otorgados",
+    "fp": "otorgadas"
+  }
+}

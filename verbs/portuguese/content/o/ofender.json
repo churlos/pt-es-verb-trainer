@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ofender"
+  },
+  "InfP": {
+    "1s": "ofender",
+    "2s": "ofenderes",
+    "3s": "ofender",
+    "1p": "ofendermos",
+    "2p": "ofenderdes",
+    "3p": "ofenderem"
+  },
+  "Ger": {
+    "": "ofendendo"
+  },
+  "PresI": {
+    "1s": "ofendo",
+    "2s": "ofendes",
+    "3s": "ofende",
+    "1p": "ofendemos",
+    "2p": "ofendeis",
+    "3p": "ofendem"
+  },
+  "PImpI": {
+    "1s": "ofendia",
+    "2s": "ofendias",
+    "3s": "ofendia",
+    "1p": "ofendíamos",
+    "2p": "ofendíeis",
+    "3p": "ofendiam"
+  },
+  "PPSI": {
+    "1s": "ofendi",
+    "2s": "ofendeste",
+    "3s": "ofendeu",
+    "1p": "ofendemos",
+    "2p": "ofendestes",
+    "3p": "ofenderam"
+  },
+  "PMQPSI": {
+    "1s": "ofendera",
+    "2s": "ofenderas",
+    "3s": "ofendera",
+    "1p": "ofendêramos",
+    "2p": "ofendêreis",
+    "3p": "ofenderam"
+  },
+  "FutSI": {
+    "1s": "ofenderei",
+    "2s": "ofenderás",
+    "3s": "ofenderá",
+    "1p": "ofenderemos",
+    "2p": "ofendereis",
+    "3p": "ofenderão"
+  },
+  "CondS": {
+    "1s": "ofenderia",
+    "2s": "ofenderias",
+    "3s": "ofenderia",
+    "1p": "ofenderíamos",
+    "2p": "ofenderíeis",
+    "3p": "ofenderiam"
+  },
+  "PresC": {
+    "1s": "ofenda",
+    "2s": "ofendas",
+    "3s": "ofenda",
+    "1p": "ofendamos",
+    "2p": "ofendais",
+    "3p": "ofendam"
+  },
+  "PImpC": {
+    "1s": "ofendesse",
+    "2s": "ofendesses",
+    "3s": "ofendesse",
+    "1p": "ofendêssemos",
+    "2p": "ofendêsseis",
+    "3p": "ofendessem"
+  },
+  "FutSC": {
+    "1s": "ofender",
+    "2s": "ofenderes",
+    "3s": "ofender",
+    "1p": "ofendermos",
+    "2p": "ofenderdes",
+    "3p": "ofenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ofende",
+    "3s": "ofenda",
+    "1p": "ofendamos",
+    "2p": "ofendei",
+    "3p": "ofendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ofendas",
+    "3s": "não ofenda",
+    "1p": "não ofendamos",
+    "2p": "não ofendais",
+    "3p": "não ofendam"
+  },
+  "Part-ter": {
+    "": "ofendido"
+  },
+  "Part-ser": {
+    "ms": "ofendido",
+    "fs": "ofendida",
+    "mp": "ofendidos",
+    "fp": "ofendidas"
+  }
+}

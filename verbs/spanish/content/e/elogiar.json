@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "elogiar"
+  },
+  "Ger": {
+    "": "elogiando"
+  },
+  "PresI": {
+    "1s": "elogio",
+    "2s": "elogias",
+    "3s": "elogia",
+    "1p": "elogiamos",
+    "2p": "elogiáis",
+    "3p": "elogian"
+  },
+  "PImpI": {
+    "1s": "elogiaba",
+    "2s": "elogiabas",
+    "3s": "elogiaba",
+    "1p": "elogiábamos",
+    "2p": "elogiabais",
+    "3p": "elogiaban"
+  },
+  "PPSI": {
+    "1s": "elogié",
+    "2s": "elogiaste",
+    "3s": "elogió",
+    "1p": "elogiamos",
+    "2p": "elogiasteis",
+    "3p": "elogiaron"
+  },
+  "FutSI": {
+    "1s": "elogiaré",
+    "2s": "elogiarás",
+    "3s": "elogiará",
+    "1p": "elogiaremos",
+    "2p": "elogiaréis",
+    "3p": "elogiarán"
+  },
+  "CondS": {
+    "1s": "elogiaría",
+    "2s": "elogiarías",
+    "3s": "elogiaría",
+    "1p": "elogiaríamos",
+    "2p": "elogiaríais",
+    "3p": "elogiarían"
+  },
+  "PresC": {
+    "1s": "elogie",
+    "2s": "elogies",
+    "3s": "elogie",
+    "1p": "elogiemos",
+    "2p": "elogiéis",
+    "3p": "elogien"
+  },
+  "PMQPSI": {
+    "1s": "elogiara",
+    "2s": "elogiaras",
+    "3s": "elogiara",
+    "1p": "elogiáramos",
+    "2p": "elogiarais",
+    "3p": "elogiaran"
+  },
+  "PImpC": {
+    "1s": "elogiase",
+    "2s": "elogiases",
+    "3s": "elogiase",
+    "1p": "elogiásemos",
+    "2p": "elogiaseis",
+    "3p": "elogiasen"
+  },
+  "FutSC": {
+    "1s": "elogiare",
+    "2s": "elogiares",
+    "3s": "elogiare",
+    "1p": "elogiáremos",
+    "2p": "elogiareis",
+    "3p": "elogiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elogia",
+    "3s": "elogie",
+    "1p": "elogiemos",
+    "2p": "elogiad",
+    "3p": "elogien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no elogies",
+    "3s": "no elogie",
+    "1p": "no elogiemos",
+    "2p": "no elogiéis",
+    "3p": "no elogien"
+  },
+  "Part-ter": {
+    "": "elogiado"
+  },
+  "Part-ser": {
+    "ms": "elogiado",
+    "fs": "elogiada",
+    "mp": "elogiados",
+    "fp": "elogiadas"
+  }
+}

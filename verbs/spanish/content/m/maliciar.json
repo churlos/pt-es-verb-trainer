@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "maliciar"
+  },
+  "Ger": {
+    "": "maliciando"
+  },
+  "PresI": {
+    "1s": "malicio",
+    "2s": "malicias",
+    "3s": "malicia",
+    "1p": "maliciamos",
+    "2p": "maliciáis",
+    "3p": "malician"
+  },
+  "PImpI": {
+    "1s": "maliciaba",
+    "2s": "maliciabas",
+    "3s": "maliciaba",
+    "1p": "maliciábamos",
+    "2p": "maliciabais",
+    "3p": "maliciaban"
+  },
+  "PPSI": {
+    "1s": "malicié",
+    "2s": "maliciaste",
+    "3s": "malició",
+    "1p": "maliciamos",
+    "2p": "maliciasteis",
+    "3p": "maliciaron"
+  },
+  "FutSI": {
+    "1s": "maliciaré",
+    "2s": "maliciarás",
+    "3s": "maliciará",
+    "1p": "maliciaremos",
+    "2p": "maliciaréis",
+    "3p": "maliciarán"
+  },
+  "CondS": {
+    "1s": "maliciaría",
+    "2s": "maliciarías",
+    "3s": "maliciaría",
+    "1p": "maliciaríamos",
+    "2p": "maliciaríais",
+    "3p": "maliciarían"
+  },
+  "PresC": {
+    "1s": "malicie",
+    "2s": "malicies",
+    "3s": "malicie",
+    "1p": "maliciemos",
+    "2p": "maliciéis",
+    "3p": "malicien"
+  },
+  "PMQPSI": {
+    "1s": "maliciara",
+    "2s": "maliciaras",
+    "3s": "maliciara",
+    "1p": "maliciáramos",
+    "2p": "maliciarais",
+    "3p": "maliciaran"
+  },
+  "PImpC": {
+    "1s": "maliciase",
+    "2s": "maliciases",
+    "3s": "maliciase",
+    "1p": "maliciásemos",
+    "2p": "maliciaseis",
+    "3p": "maliciasen"
+  },
+  "FutSC": {
+    "1s": "maliciare",
+    "2s": "maliciares",
+    "3s": "maliciare",
+    "1p": "maliciáremos",
+    "2p": "maliciareis",
+    "3p": "maliciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "malicia",
+    "3s": "malicie",
+    "1p": "maliciemos",
+    "2p": "maliciad",
+    "3p": "malicien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no malicies",
+    "3s": "no malicie",
+    "1p": "no maliciemos",
+    "2p": "no maliciéis",
+    "3p": "no malicien"
+  },
+  "Part-ter": {
+    "": "maliciado"
+  },
+  "Part-ser": {
+    "ms": "maliciado",
+    "fs": "maliciada",
+    "mp": "maliciados",
+    "fp": "maliciadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "findar"
+  },
+  "InfP": {
+    "1s": "findar",
+    "2s": "findares",
+    "3s": "findar",
+    "1p": "findarmos",
+    "2p": "findardes",
+    "3p": "findarem"
+  },
+  "Ger": {
+    "": "findando"
+  },
+  "PresI": {
+    "1s": "findo",
+    "2s": "findas",
+    "3s": "finda",
+    "1p": "findamos",
+    "2p": "findais",
+    "3p": "findam"
+  },
+  "PImpI": {
+    "1s": "findava",
+    "2s": "findavas",
+    "3s": "findava",
+    "1p": "findávamos",
+    "2p": "findáveis",
+    "3p": "findavam"
+  },
+  "PPSI": {
+    "1s": "findei",
+    "2s": "findaste",
+    "3s": "findou",
+    "1p": "findámos",
+    "2p": "findastes",
+    "3p": "findaram"
+  },
+  "PMQPSI": {
+    "1s": "findara",
+    "2s": "findaras",
+    "3s": "findara",
+    "1p": "findáramos",
+    "2p": "findáreis",
+    "3p": "findaram"
+  },
+  "FutSI": {
+    "1s": "findarei",
+    "2s": "findarás",
+    "3s": "findará",
+    "1p": "findaremos",
+    "2p": "findareis",
+    "3p": "findarão"
+  },
+  "CondS": {
+    "1s": "findaria",
+    "2s": "findarias",
+    "3s": "findaria",
+    "1p": "findaríamos",
+    "2p": "findaríeis",
+    "3p": "findariam"
+  },
+  "PresC": {
+    "1s": "finde",
+    "2s": "findes",
+    "3s": "finde",
+    "1p": "findemos",
+    "2p": "findeis",
+    "3p": "findem"
+  },
+  "PImpC": {
+    "1s": "findasse",
+    "2s": "findasses",
+    "3s": "findasse",
+    "1p": "findássemos",
+    "2p": "findásseis",
+    "3p": "findassem"
+  },
+  "FutSC": {
+    "1s": "findar",
+    "2s": "findares",
+    "3s": "findar",
+    "1p": "findarmos",
+    "2p": "findardes",
+    "3p": "findarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "finda",
+    "3s": "finde",
+    "1p": "findemos",
+    "2p": "findai",
+    "3p": "findem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não findes",
+    "3s": "não finde",
+    "1p": "não findemos",
+    "2p": "não findeis",
+    "3p": "não findem"
+  },
+  "Part-ter": {
+    "": "findado"
+  },
+  "Part-ser": {
+    "ms": "findo",
+    "fs": "finda",
+    "mp": "findos",
+    "fp": "findas"
+  }
+}

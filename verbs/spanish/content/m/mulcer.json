@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mulcer"
+  },
+  "Ger": {
+    "": "mulciendo"
+  },
+  "PresI": {
+    "1s": "mulzo",
+    "2s": "mulces",
+    "3s": "mulce",
+    "1p": "mulcemos",
+    "2p": "mulcéis",
+    "3p": "mulcen"
+  },
+  "PImpI": {
+    "1s": "mulcía",
+    "2s": "mulcías",
+    "3s": "mulcía",
+    "1p": "mulcíamos",
+    "2p": "mulcíais",
+    "3p": "mulcían"
+  },
+  "PPSI": {
+    "1s": "mulcí",
+    "2s": "mulciste",
+    "3s": "mulció",
+    "1p": "mulcimos",
+    "2p": "mulcisteis",
+    "3p": "mulcieron"
+  },
+  "FutSI": {
+    "1s": "mulceré",
+    "2s": "mulcerás",
+    "3s": "mulcerá",
+    "1p": "mulceremos",
+    "2p": "mulceréis",
+    "3p": "mulcerán"
+  },
+  "CondS": {
+    "1s": "mulcería",
+    "2s": "mulcerías",
+    "3s": "mulcería",
+    "1p": "mulceríamos",
+    "2p": "mulceríais",
+    "3p": "mulcerían"
+  },
+  "PresC": {
+    "1s": "mulza",
+    "2s": "mulzas",
+    "3s": "mulza",
+    "1p": "mulzamos",
+    "2p": "mulzáis",
+    "3p": "mulzan"
+  },
+  "PMQPSI": {
+    "1s": "mulciera",
+    "2s": "mulcieras",
+    "3s": "mulciera",
+    "1p": "mulciéramos",
+    "2p": "mulcierais",
+    "3p": "mulcieran"
+  },
+  "PImpC": {
+    "1s": "mulciese",
+    "2s": "mulcieses",
+    "3s": "mulciese",
+    "1p": "mulciésemos",
+    "2p": "mulcieseis",
+    "3p": "mulciesen"
+  },
+  "FutSC": {
+    "1s": "mulciere",
+    "2s": "mulcieres",
+    "3s": "mulciere",
+    "1p": "mulciéremos",
+    "2p": "mulciereis",
+    "3p": "mulcieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mulce",
+    "3s": "mulza",
+    "1p": "mulzamos",
+    "2p": "mulced",
+    "3p": "mulzan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mulzas",
+    "3s": "no mulza",
+    "1p": "no mulzamos",
+    "2p": "no mulzáis",
+    "3p": "no mulzan"
+  },
+  "Part-ter": {
+    "": "mulcido"
+  },
+  "Part-ser": {
+    "ms": "mulcido",
+    "fs": "mulcida",
+    "mp": "mulcidos",
+    "fp": "mulcidas"
+  }
+}

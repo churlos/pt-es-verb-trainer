@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "preceder"
+  },
+  "Ger": {
+    "": "precediendo"
+  },
+  "PresI": {
+    "1s": "precedo",
+    "2s": "precedes",
+    "3s": "precede",
+    "1p": "precedemos",
+    "2p": "precedéis",
+    "3p": "preceden"
+  },
+  "PImpI": {
+    "1s": "precedía",
+    "2s": "precedías",
+    "3s": "precedía",
+    "1p": "precedíamos",
+    "2p": "precedíais",
+    "3p": "precedían"
+  },
+  "PPSI": {
+    "1s": "precedí",
+    "2s": "precediste",
+    "3s": "precedió",
+    "1p": "precedimos",
+    "2p": "precedisteis",
+    "3p": "precedieron"
+  },
+  "FutSI": {
+    "1s": "precederé",
+    "2s": "precederás",
+    "3s": "precederá",
+    "1p": "precederemos",
+    "2p": "precederéis",
+    "3p": "precederán"
+  },
+  "CondS": {
+    "1s": "precedería",
+    "2s": "precederías",
+    "3s": "precedería",
+    "1p": "precederíamos",
+    "2p": "precederíais",
+    "3p": "precederían"
+  },
+  "PresC": {
+    "1s": "preceda",
+    "2s": "precedas",
+    "3s": "preceda",
+    "1p": "precedamos",
+    "2p": "precedáis",
+    "3p": "precedan"
+  },
+  "PMQPSI": {
+    "1s": "precediera",
+    "2s": "precedieras",
+    "3s": "precediera",
+    "1p": "precediéramos",
+    "2p": "precedierais",
+    "3p": "precedieran"
+  },
+  "PImpC": {
+    "1s": "precediese",
+    "2s": "precedieses",
+    "3s": "precediese",
+    "1p": "precediésemos",
+    "2p": "precedieseis",
+    "3p": "precediesen"
+  },
+  "FutSC": {
+    "1s": "precediere",
+    "2s": "precedieres",
+    "3s": "precediere",
+    "1p": "precediéremos",
+    "2p": "precediereis",
+    "3p": "precedieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "precede",
+    "3s": "preceda",
+    "1p": "precedamos",
+    "2p": "preceded",
+    "3p": "precedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no precedas",
+    "3s": "no preceda",
+    "1p": "no precedamos",
+    "2p": "no precedáis",
+    "3p": "no precedan"
+  },
+  "Part-ter": {
+    "": "precedido"
+  },
+  "Part-ser": {
+    "ms": "precedido",
+    "fs": "precedida",
+    "mp": "precedidos",
+    "fp": "precedidas"
+  }
+}

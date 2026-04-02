@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "marar"
+  },
+  "InfP": {
+    "1s": "marar",
+    "2s": "marares",
+    "3s": "marar",
+    "1p": "mararmos",
+    "2p": "marardes",
+    "3p": "mararem"
+  },
+  "Ger": {
+    "": "marando"
+  },
+  "PresI": {
+    "1s": "maro",
+    "2s": "maras",
+    "3s": "mara",
+    "1p": "maramos",
+    "2p": "marais",
+    "3p": "maram"
+  },
+  "PImpI": {
+    "1s": "marava",
+    "2s": "maravas",
+    "3s": "marava",
+    "1p": "marávamos",
+    "2p": "maráveis",
+    "3p": "maravam"
+  },
+  "PPSI": {
+    "1s": "marei",
+    "2s": "maraste",
+    "3s": "marou",
+    "1p": "marámos",
+    "2p": "marastes",
+    "3p": "mararam"
+  },
+  "PMQPSI": {
+    "1s": "marara",
+    "2s": "mararas",
+    "3s": "marara",
+    "1p": "maráramos",
+    "2p": "maráreis",
+    "3p": "mararam"
+  },
+  "FutSI": {
+    "1s": "mararei",
+    "2s": "mararás",
+    "3s": "marará",
+    "1p": "mararemos",
+    "2p": "marareis",
+    "3p": "mararão"
+  },
+  "CondS": {
+    "1s": "mararia",
+    "2s": "mararias",
+    "3s": "mararia",
+    "1p": "mararíamos",
+    "2p": "mararíeis",
+    "3p": "marariam"
+  },
+  "PresC": {
+    "1s": "mare",
+    "2s": "mares",
+    "3s": "mare",
+    "1p": "maremos",
+    "2p": "mareis",
+    "3p": "marem"
+  },
+  "PImpC": {
+    "1s": "marasse",
+    "2s": "marasses",
+    "3s": "marasse",
+    "1p": "marássemos",
+    "2p": "marásseis",
+    "3p": "marassem"
+  },
+  "FutSC": {
+    "1s": "marar",
+    "2s": "marares",
+    "3s": "marar",
+    "1p": "mararmos",
+    "2p": "marardes",
+    "3p": "mararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mara",
+    "3s": "mare",
+    "1p": "maremos",
+    "2p": "marai",
+    "3p": "marem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mares",
+    "3s": "não mare",
+    "1p": "não maremos",
+    "2p": "não mareis",
+    "3p": "não marem"
+  },
+  "Part-ter": {
+    "": "marado"
+  },
+  "Part-ser": {
+    "ms": "marado",
+    "fs": "marada",
+    "mp": "marados",
+    "fp": "maradas"
+  }
+}

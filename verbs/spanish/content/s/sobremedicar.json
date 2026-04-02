@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sobremedicar"
+  },
+  "Ger": {
+    "": "sobremedicando"
+  },
+  "PresI": {
+    "1s": "sobremedico",
+    "2s": "sobremedicas",
+    "3s": "sobremedica",
+    "1p": "sobremedicamos",
+    "2p": "sobremedicáis",
+    "3p": "sobremedican"
+  },
+  "PImpI": {
+    "1s": "sobremedicaba",
+    "2s": "sobremedicabas",
+    "3s": "sobremedicaba",
+    "1p": "sobremedicábamos",
+    "2p": "sobremedicabais",
+    "3p": "sobremedicaban"
+  },
+  "PPSI": {
+    "1s": "sobremediqué",
+    "2s": "sobremedicaste",
+    "3s": "sobremedicó",
+    "1p": "sobremedicamos",
+    "2p": "sobremedicasteis",
+    "3p": "sobremedicaron"
+  },
+  "FutSI": {
+    "1s": "sobremedicaré",
+    "2s": "sobremedicarás",
+    "3s": "sobremedicará",
+    "1p": "sobremedicaremos",
+    "2p": "sobremedicaréis",
+    "3p": "sobremedicarán"
+  },
+  "CondS": {
+    "1s": "sobremedicaría",
+    "2s": "sobremedicarías",
+    "3s": "sobremedicaría",
+    "1p": "sobremedicaríamos",
+    "2p": "sobremedicaríais",
+    "3p": "sobremedicarían"
+  },
+  "PresC": {
+    "1s": "sobremedique",
+    "2s": "sobremediques",
+    "3s": "sobremedique",
+    "1p": "sobremediquemos",
+    "2p": "sobremediquéis",
+    "3p": "sobremediquen"
+  },
+  "PMQPSI": {
+    "1s": "sobremedicara",
+    "2s": "sobremedicaras",
+    "3s": "sobremedicara",
+    "1p": "sobremedicáramos",
+    "2p": "sobremedicarais",
+    "3p": "sobremedicaran"
+  },
+  "PImpC": {
+    "1s": "sobremedicase",
+    "2s": "sobremedicases",
+    "3s": "sobremedicase",
+    "1p": "sobremedicásemos",
+    "2p": "sobremedicaseis",
+    "3p": "sobremedicasen"
+  },
+  "FutSC": {
+    "1s": "sobremedicare",
+    "2s": "sobremedicares",
+    "3s": "sobremedicare",
+    "1p": "sobremedicáremos",
+    "2p": "sobremedicareis",
+    "3p": "sobremedicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sobremedica",
+    "3s": "sobremedique",
+    "1p": "sobremediquemos",
+    "2p": "sobremedicad",
+    "3p": "sobremediquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sobremediques",
+    "3s": "no sobremedique",
+    "1p": "no sobremediquemos",
+    "2p": "no sobremediquéis",
+    "3p": "no sobremediquen"
+  },
+  "Part-ter": {
+    "": "sobremedicado"
+  },
+  "Part-ser": {
+    "ms": "sobremedicado",
+    "fs": "sobremedicada",
+    "mp": "sobremedicados",
+    "fp": "sobremedicadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vencer"
+  },
+  "InfP": {
+    "1s": "vencer",
+    "2s": "venceres",
+    "3s": "vencer",
+    "1p": "vencermos",
+    "2p": "vencerdes",
+    "3p": "vencerem"
+  },
+  "Ger": {
+    "": "vencendo"
+  },
+  "PresI": {
+    "1s": "venço",
+    "2s": "vences",
+    "3s": "vence",
+    "1p": "vencemos",
+    "2p": "venceis",
+    "3p": "vencem"
+  },
+  "PImpI": {
+    "1s": "vencia",
+    "2s": "vencias",
+    "3s": "vencia",
+    "1p": "vencíamos",
+    "2p": "vencíeis",
+    "3p": "venciam"
+  },
+  "PPSI": {
+    "1s": "venci",
+    "2s": "venceste",
+    "3s": "venceu",
+    "1p": "vencemos",
+    "2p": "vencestes",
+    "3p": "venceram"
+  },
+  "PMQPSI": {
+    "1s": "vencera",
+    "2s": "venceras",
+    "3s": "vencera",
+    "1p": "vencêramos",
+    "2p": "vencêreis",
+    "3p": "venceram"
+  },
+  "FutSI": {
+    "1s": "vencerei",
+    "2s": "vencerás",
+    "3s": "vencerá",
+    "1p": "venceremos",
+    "2p": "vencereis",
+    "3p": "vencerão"
+  },
+  "CondS": {
+    "1s": "venceria",
+    "2s": "vencerias",
+    "3s": "venceria",
+    "1p": "venceríamos",
+    "2p": "venceríeis",
+    "3p": "venceriam"
+  },
+  "PresC": {
+    "1s": "vença",
+    "2s": "venças",
+    "3s": "vença",
+    "1p": "vençamos",
+    "2p": "vençais",
+    "3p": "vençam"
+  },
+  "PImpC": {
+    "1s": "vencesse",
+    "2s": "vencesses",
+    "3s": "vencesse",
+    "1p": "vencêssemos",
+    "2p": "vencêsseis",
+    "3p": "vencessem"
+  },
+  "FutSC": {
+    "1s": "vencer",
+    "2s": "venceres",
+    "3s": "vencer",
+    "1p": "vencermos",
+    "2p": "vencerdes",
+    "3p": "vencerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vence",
+    "3s": "vença",
+    "1p": "vençamos",
+    "2p": "vencei",
+    "3p": "vençam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não venças",
+    "3s": "não vença",
+    "1p": "não vençamos",
+    "2p": "não vençais",
+    "3p": "não vençam"
+  },
+  "Part-ter": {
+    "": "vencido"
+  },
+  "Part-ser": {
+    "ms": "vencido",
+    "fs": "vencida",
+    "mp": "vencidos",
+    "fp": "vencidas"
+  }
+}

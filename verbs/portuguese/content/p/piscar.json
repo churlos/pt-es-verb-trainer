@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "piscar"
+  },
+  "InfP": {
+    "1s": "piscar",
+    "2s": "piscares",
+    "3s": "piscar",
+    "1p": "piscarmos",
+    "2p": "piscardes",
+    "3p": "piscarem"
+  },
+  "Ger": {
+    "": "piscando"
+  },
+  "PresI": {
+    "1s": "pisco",
+    "2s": "piscas",
+    "3s": "pisca",
+    "1p": "piscamos",
+    "2p": "piscais",
+    "3p": "piscam"
+  },
+  "PImpI": {
+    "1s": "piscava",
+    "2s": "piscavas",
+    "3s": "piscava",
+    "1p": "piscávamos",
+    "2p": "piscáveis",
+    "3p": "piscavam"
+  },
+  "PPSI": {
+    "1s": "pisquei",
+    "2s": "piscaste",
+    "3s": "piscou",
+    "1p": "piscámos",
+    "2p": "piscastes",
+    "3p": "piscaram"
+  },
+  "PMQPSI": {
+    "1s": "piscara",
+    "2s": "piscaras",
+    "3s": "piscara",
+    "1p": "piscáramos",
+    "2p": "piscáreis",
+    "3p": "piscaram"
+  },
+  "FutSI": {
+    "1s": "piscarei",
+    "2s": "piscarás",
+    "3s": "piscará",
+    "1p": "piscaremos",
+    "2p": "piscareis",
+    "3p": "piscarão"
+  },
+  "CondS": {
+    "1s": "piscaria",
+    "2s": "piscarias",
+    "3s": "piscaria",
+    "1p": "piscaríamos",
+    "2p": "piscaríeis",
+    "3p": "piscariam"
+  },
+  "PresC": {
+    "1s": "pisque",
+    "2s": "pisques",
+    "3s": "pisque",
+    "1p": "pisquemos",
+    "2p": "pisqueis",
+    "3p": "pisquem"
+  },
+  "PImpC": {
+    "1s": "piscasse",
+    "2s": "piscasses",
+    "3s": "piscasse",
+    "1p": "piscássemos",
+    "2p": "piscásseis",
+    "3p": "piscassem"
+  },
+  "FutSC": {
+    "1s": "piscar",
+    "2s": "piscares",
+    "3s": "piscar",
+    "1p": "piscarmos",
+    "2p": "piscardes",
+    "3p": "piscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pisca",
+    "3s": "pisque",
+    "1p": "pisquemos",
+    "2p": "piscai",
+    "3p": "pisquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pisques",
+    "3s": "não pisque",
+    "1p": "não pisquemos",
+    "2p": "não pisqueis",
+    "3p": "não pisquem"
+  },
+  "Part-ter": {
+    "": "piscado"
+  },
+  "Part-ser": {
+    "ms": "piscado",
+    "fs": "piscada",
+    "mp": "piscados",
+    "fp": "piscadas"
+  }
+}

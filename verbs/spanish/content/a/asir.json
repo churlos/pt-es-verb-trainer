@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asir"
+  },
+  "Ger": {
+    "": "asiendo"
+  },
+  "PresI": {
+    "1s": "asgo",
+    "2s": "ases",
+    "3s": "ase",
+    "1p": "asimos",
+    "2p": "asís",
+    "3p": "asen"
+  },
+  "PImpI": {
+    "1s": "asía",
+    "2s": "asías",
+    "3s": "asía",
+    "1p": "asíamos",
+    "2p": "asíais",
+    "3p": "asían"
+  },
+  "PPSI": {
+    "1s": "así",
+    "2s": "asiste",
+    "3s": "asió",
+    "1p": "asimos",
+    "2p": "asisteis",
+    "3p": "asieron"
+  },
+  "FutSI": {
+    "1s": "asiré",
+    "2s": "asirás",
+    "3s": "asirá",
+    "1p": "asiremos",
+    "2p": "asiréis",
+    "3p": "asirán"
+  },
+  "CondS": {
+    "1s": "asiría",
+    "2s": "asirías",
+    "3s": "asiría",
+    "1p": "asiríamos",
+    "2p": "asiríais",
+    "3p": "asirían"
+  },
+  "PresC": {
+    "1s": "asga",
+    "2s": "asgas",
+    "3s": "asga",
+    "1p": "asgamos",
+    "2p": "asgáis",
+    "3p": "asgan"
+  },
+  "PMQPSI": {
+    "1s": "asiera",
+    "2s": "asieras",
+    "3s": "asiera",
+    "1p": "asiéramos",
+    "2p": "asierais",
+    "3p": "asieran"
+  },
+  "PImpC": {
+    "1s": "asiese",
+    "2s": "asieses",
+    "3s": "asiese",
+    "1p": "asiésemos",
+    "2p": "asieseis",
+    "3p": "asiesen"
+  },
+  "FutSC": {
+    "1s": "asiere",
+    "2s": "asieres",
+    "3s": "asiere",
+    "1p": "asiéremos",
+    "2p": "asiereis",
+    "3p": "asieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ase",
+    "3s": "asga",
+    "1p": "asgamos",
+    "2p": "asid",
+    "3p": "asgan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asgas",
+    "3s": "no asga",
+    "1p": "no asgamos",
+    "2p": "no asgáis",
+    "3p": "no asgan"
+  },
+  "Part-ter": {
+    "": "asido"
+  },
+  "Part-ser": {
+    "ms": "asido",
+    "fs": "asida",
+    "mp": "asidos",
+    "fp": "asidas"
+  }
+}

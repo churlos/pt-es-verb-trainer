@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "comprar"
+  },
+  "Ger": {
+    "": "comprando"
+  },
+  "PresI": {
+    "1s": "compro",
+    "2s": "compras",
+    "3s": "compra",
+    "1p": "compramos",
+    "2p": "compráis",
+    "3p": "compran"
+  },
+  "PImpI": {
+    "1s": "compraba",
+    "2s": "comprabas",
+    "3s": "compraba",
+    "1p": "comprábamos",
+    "2p": "comprabais",
+    "3p": "compraban"
+  },
+  "PPSI": {
+    "1s": "compré",
+    "2s": "compraste",
+    "3s": "compró",
+    "1p": "compramos",
+    "2p": "comprasteis",
+    "3p": "compraron"
+  },
+  "FutSI": {
+    "1s": "compraré",
+    "2s": "comprarás",
+    "3s": "comprará",
+    "1p": "compraremos",
+    "2p": "compraréis",
+    "3p": "comprarán"
+  },
+  "CondS": {
+    "1s": "compraría",
+    "2s": "comprarías",
+    "3s": "compraría",
+    "1p": "compraríamos",
+    "2p": "compraríais",
+    "3p": "comprarían"
+  },
+  "PresC": {
+    "1s": "compre",
+    "2s": "compres",
+    "3s": "compre",
+    "1p": "compremos",
+    "2p": "compréis",
+    "3p": "compren"
+  },
+  "PMQPSI": {
+    "1s": "comprara",
+    "2s": "compraras",
+    "3s": "comprara",
+    "1p": "compráramos",
+    "2p": "comprarais",
+    "3p": "compraran"
+  },
+  "PImpC": {
+    "1s": "comprase",
+    "2s": "comprases",
+    "3s": "comprase",
+    "1p": "comprásemos",
+    "2p": "compraseis",
+    "3p": "comprasen"
+  },
+  "FutSC": {
+    "1s": "comprare",
+    "2s": "comprares",
+    "3s": "comprare",
+    "1p": "compráremos",
+    "2p": "comprareis",
+    "3p": "compraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compra",
+    "3s": "compre",
+    "1p": "compremos",
+    "2p": "comprad",
+    "3p": "compren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no compres",
+    "3s": "no compre",
+    "1p": "no compremos",
+    "2p": "no compréis",
+    "3p": "no compren"
+  },
+  "Part-ter": {
+    "": "comprado"
+  },
+  "Part-ser": {
+    "ms": "comprado",
+    "fs": "comprada",
+    "mp": "comprados",
+    "fp": "compradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pirar"
+  },
+  "InfP": {
+    "1s": "pirar",
+    "2s": "pirares",
+    "3s": "pirar",
+    "1p": "pirarmos",
+    "2p": "pirardes",
+    "3p": "pirarem"
+  },
+  "Ger": {
+    "": "pirando"
+  },
+  "PresI": {
+    "1s": "piro",
+    "2s": "piras",
+    "3s": "pira",
+    "1p": "piramos",
+    "2p": "pirais",
+    "3p": "piram"
+  },
+  "PImpI": {
+    "1s": "pirava",
+    "2s": "piravas",
+    "3s": "pirava",
+    "1p": "pirávamos",
+    "2p": "piráveis",
+    "3p": "piravam"
+  },
+  "PPSI": {
+    "1s": "pirei",
+    "2s": "piraste",
+    "3s": "pirou",
+    "1p": "pirámos",
+    "2p": "pirastes",
+    "3p": "piraram"
+  },
+  "PMQPSI": {
+    "1s": "pirara",
+    "2s": "piraras",
+    "3s": "pirara",
+    "1p": "piráramos",
+    "2p": "piráreis",
+    "3p": "piraram"
+  },
+  "FutSI": {
+    "1s": "pirarei",
+    "2s": "pirarás",
+    "3s": "pirará",
+    "1p": "piraremos",
+    "2p": "pirareis",
+    "3p": "pirarão"
+  },
+  "CondS": {
+    "1s": "piraria",
+    "2s": "pirarias",
+    "3s": "piraria",
+    "1p": "piraríamos",
+    "2p": "piraríeis",
+    "3p": "pirariam"
+  },
+  "PresC": {
+    "1s": "pire",
+    "2s": "pires",
+    "3s": "pire",
+    "1p": "piremos",
+    "2p": "pireis",
+    "3p": "pirem"
+  },
+  "PImpC": {
+    "1s": "pirasse",
+    "2s": "pirasses",
+    "3s": "pirasse",
+    "1p": "pirássemos",
+    "2p": "pirásseis",
+    "3p": "pirassem"
+  },
+  "FutSC": {
+    "1s": "pirar",
+    "2s": "pirares",
+    "3s": "pirar",
+    "1p": "pirarmos",
+    "2p": "pirardes",
+    "3p": "pirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pira",
+    "3s": "pire",
+    "1p": "piremos",
+    "2p": "pirai",
+    "3p": "pirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pires",
+    "3s": "não pire",
+    "1p": "não piremos",
+    "2p": "não pireis",
+    "3p": "não pirem"
+  },
+  "Part-ter": {
+    "": "pirado"
+  },
+  "Part-ser": {
+    "ms": "pirado",
+    "fs": "pirada",
+    "mp": "pirados",
+    "fp": "piradas"
+  }
+}

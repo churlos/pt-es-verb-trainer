@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "despegar"
+  },
+  "Ger": {
+    "": "despegando"
+  },
+  "PresI": {
+    "1s": "despego",
+    "2s": "despegas",
+    "3s": "despega",
+    "1p": "despegamos",
+    "2p": "despegáis",
+    "3p": "despegan"
+  },
+  "PImpI": {
+    "1s": "despegaba",
+    "2s": "despegabas",
+    "3s": "despegaba",
+    "1p": "despegábamos",
+    "2p": "despegabais",
+    "3p": "despegaban"
+  },
+  "PPSI": {
+    "1s": "despegué",
+    "2s": "despegaste",
+    "3s": "despegó",
+    "1p": "despegamos",
+    "2p": "despegasteis",
+    "3p": "despegaron"
+  },
+  "FutSI": {
+    "1s": "despegaré",
+    "2s": "despegarás",
+    "3s": "despegará",
+    "1p": "despegaremos",
+    "2p": "despegaréis",
+    "3p": "despegarán"
+  },
+  "CondS": {
+    "1s": "despegaría",
+    "2s": "despegarías",
+    "3s": "despegaría",
+    "1p": "despegaríamos",
+    "2p": "despegaríais",
+    "3p": "despegarían"
+  },
+  "PresC": {
+    "1s": "despegue",
+    "2s": "despegues",
+    "3s": "despegue",
+    "1p": "despeguemos",
+    "2p": "despeguéis",
+    "3p": "despeguen"
+  },
+  "PMQPSI": {
+    "1s": "despegara",
+    "2s": "despegaras",
+    "3s": "despegara",
+    "1p": "despegáramos",
+    "2p": "despegarais",
+    "3p": "despegaran"
+  },
+  "PImpC": {
+    "1s": "despegase",
+    "2s": "despegases",
+    "3s": "despegase",
+    "1p": "despegásemos",
+    "2p": "despegaseis",
+    "3p": "despegasen"
+  },
+  "FutSC": {
+    "1s": "despegare",
+    "2s": "despegares",
+    "3s": "despegare",
+    "1p": "despegáremos",
+    "2p": "despegareis",
+    "3p": "despegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "despega",
+    "3s": "despegue",
+    "1p": "despeguemos",
+    "2p": "despegad",
+    "3p": "despeguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no despegues",
+    "3s": "no despegue",
+    "1p": "no despeguemos",
+    "2p": "no despeguéis",
+    "3p": "no despeguen"
+  },
+  "Part-ter": {
+    "": "despegado"
+  },
+  "Part-ser": {
+    "ms": "despegado",
+    "fs": "despegada",
+    "mp": "despegados",
+    "fp": "despegadas"
+  }
+}

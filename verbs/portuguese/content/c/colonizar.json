@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "colonizar"
+  },
+  "InfP": {
+    "1s": "colonizar",
+    "2s": "colonizares",
+    "3s": "colonizar",
+    "1p": "colonizarmos",
+    "2p": "colonizardes",
+    "3p": "colonizarem"
+  },
+  "Ger": {
+    "": "colonizando"
+  },
+  "PresI": {
+    "1s": "colonizo",
+    "2s": "colonizas",
+    "3s": "coloniza",
+    "1p": "colonizamos",
+    "2p": "colonizais",
+    "3p": "colonizam"
+  },
+  "PImpI": {
+    "1s": "colonizava",
+    "2s": "colonizavas",
+    "3s": "colonizava",
+    "1p": "colonizávamos",
+    "2p": "colonizáveis",
+    "3p": "colonizavam"
+  },
+  "PPSI": {
+    "1s": "colonizei",
+    "2s": "colonizaste",
+    "3s": "colonizou",
+    "1p": "colonizámos",
+    "2p": "colonizastes",
+    "3p": "colonizaram"
+  },
+  "PMQPSI": {
+    "1s": "colonizara",
+    "2s": "colonizaras",
+    "3s": "colonizara",
+    "1p": "colonizáramos",
+    "2p": "colonizáreis",
+    "3p": "colonizaram"
+  },
+  "FutSI": {
+    "1s": "colonizarei",
+    "2s": "colonizarás",
+    "3s": "colonizará",
+    "1p": "colonizaremos",
+    "2p": "colonizareis",
+    "3p": "colonizarão"
+  },
+  "CondS": {
+    "1s": "colonizaria",
+    "2s": "colonizarias",
+    "3s": "colonizaria",
+    "1p": "colonizaríamos",
+    "2p": "colonizaríeis",
+    "3p": "colonizariam"
+  },
+  "PresC": {
+    "1s": "colonize",
+    "2s": "colonizes",
+    "3s": "colonize",
+    "1p": "colonizemos",
+    "2p": "colonizeis",
+    "3p": "colonizem"
+  },
+  "PImpC": {
+    "1s": "colonizasse",
+    "2s": "colonizasses",
+    "3s": "colonizasse",
+    "1p": "colonizássemos",
+    "2p": "colonizásseis",
+    "3p": "colonizassem"
+  },
+  "FutSC": {
+    "1s": "colonizar",
+    "2s": "colonizares",
+    "3s": "colonizar",
+    "1p": "colonizarmos",
+    "2p": "colonizardes",
+    "3p": "colonizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coloniza",
+    "3s": "colonize",
+    "1p": "colonizemos",
+    "2p": "colonizai",
+    "3p": "colonizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não colonizes",
+    "3s": "não colonize",
+    "1p": "não colonizemos",
+    "2p": "não colonizeis",
+    "3p": "não colonizem"
+  },
+  "Part-ter": {
+    "": "colonizado"
+  },
+  "Part-ser": {
+    "ms": "colonizado",
+    "fs": "colonizada",
+    "mp": "colonizados",
+    "fp": "colonizadas"
+  }
+}

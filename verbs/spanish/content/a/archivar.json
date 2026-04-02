@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "archivar"
+  },
+  "Ger": {
+    "": "archivando"
+  },
+  "PresI": {
+    "1s": "archivo",
+    "2s": "archivas",
+    "3s": "archiva",
+    "1p": "archivamos",
+    "2p": "archiváis",
+    "3p": "archivan"
+  },
+  "PImpI": {
+    "1s": "archivaba",
+    "2s": "archivabas",
+    "3s": "archivaba",
+    "1p": "archivábamos",
+    "2p": "archivabais",
+    "3p": "archivaban"
+  },
+  "PPSI": {
+    "1s": "archivé",
+    "2s": "archivaste",
+    "3s": "archivó",
+    "1p": "archivamos",
+    "2p": "archivasteis",
+    "3p": "archivaron"
+  },
+  "FutSI": {
+    "1s": "archivaré",
+    "2s": "archivarás",
+    "3s": "archivará",
+    "1p": "archivaremos",
+    "2p": "archivaréis",
+    "3p": "archivarán"
+  },
+  "CondS": {
+    "1s": "archivaría",
+    "2s": "archivarías",
+    "3s": "archivaría",
+    "1p": "archivaríamos",
+    "2p": "archivaríais",
+    "3p": "archivarían"
+  },
+  "PresC": {
+    "1s": "archive",
+    "2s": "archives",
+    "3s": "archive",
+    "1p": "archivemos",
+    "2p": "archivéis",
+    "3p": "archiven"
+  },
+  "PMQPSI": {
+    "1s": "archivara",
+    "2s": "archivaras",
+    "3s": "archivara",
+    "1p": "archiváramos",
+    "2p": "archivarais",
+    "3p": "archivaran"
+  },
+  "PImpC": {
+    "1s": "archivase",
+    "2s": "archivases",
+    "3s": "archivase",
+    "1p": "archivásemos",
+    "2p": "archivaseis",
+    "3p": "archivasen"
+  },
+  "FutSC": {
+    "1s": "archivare",
+    "2s": "archivares",
+    "3s": "archivare",
+    "1p": "archiváremos",
+    "2p": "archivareis",
+    "3p": "archivaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "archiva",
+    "3s": "archive",
+    "1p": "archivemos",
+    "2p": "archivad",
+    "3p": "archiven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no archives",
+    "3s": "no archive",
+    "1p": "no archivemos",
+    "2p": "no archivéis",
+    "3p": "no archiven"
+  },
+  "Part-ter": {
+    "": "archivado"
+  },
+  "Part-ser": {
+    "ms": "archivado",
+    "fs": "archivada",
+    "mp": "archivados",
+    "fp": "archivadas"
+  }
+}

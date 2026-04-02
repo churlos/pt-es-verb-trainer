@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estabilizar"
+  },
+  "InfP": {
+    "1s": "estabilizar",
+    "2s": "estabilizares",
+    "3s": "estabilizar",
+    "1p": "estabilizarmos",
+    "2p": "estabilizardes",
+    "3p": "estabilizarem"
+  },
+  "Ger": {
+    "": "estabilizando"
+  },
+  "PresI": {
+    "1s": "estabilizo",
+    "2s": "estabilizas",
+    "3s": "estabiliza",
+    "1p": "estabilizamos",
+    "2p": "estabilizais",
+    "3p": "estabilizam"
+  },
+  "PImpI": {
+    "1s": "estabilizava",
+    "2s": "estabilizavas",
+    "3s": "estabilizava",
+    "1p": "estabilizávamos",
+    "2p": "estabilizáveis",
+    "3p": "estabilizavam"
+  },
+  "PPSI": {
+    "1s": "estabilizei",
+    "2s": "estabilizaste",
+    "3s": "estabilizou",
+    "1p": "estabilizámos",
+    "2p": "estabilizastes",
+    "3p": "estabilizaram"
+  },
+  "PMQPSI": {
+    "1s": "estabilizara",
+    "2s": "estabilizaras",
+    "3s": "estabilizara",
+    "1p": "estabilizáramos",
+    "2p": "estabilizáreis",
+    "3p": "estabilizaram"
+  },
+  "FutSI": {
+    "1s": "estabilizarei",
+    "2s": "estabilizarás",
+    "3s": "estabilizará",
+    "1p": "estabilizaremos",
+    "2p": "estabilizareis",
+    "3p": "estabilizarão"
+  },
+  "CondS": {
+    "1s": "estabilizaria",
+    "2s": "estabilizarias",
+    "3s": "estabilizaria",
+    "1p": "estabilizaríamos",
+    "2p": "estabilizaríeis",
+    "3p": "estabilizariam"
+  },
+  "PresC": {
+    "1s": "estabilize",
+    "2s": "estabilizes",
+    "3s": "estabilize",
+    "1p": "estabilizemos",
+    "2p": "estabilizeis",
+    "3p": "estabilizem"
+  },
+  "PImpC": {
+    "1s": "estabilizasse",
+    "2s": "estabilizasses",
+    "3s": "estabilizasse",
+    "1p": "estabilizássemos",
+    "2p": "estabilizásseis",
+    "3p": "estabilizassem"
+  },
+  "FutSC": {
+    "1s": "estabilizar",
+    "2s": "estabilizares",
+    "3s": "estabilizar",
+    "1p": "estabilizarmos",
+    "2p": "estabilizardes",
+    "3p": "estabilizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estabiliza",
+    "3s": "estabilize",
+    "1p": "estabilizemos",
+    "2p": "estabilizai",
+    "3p": "estabilizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estabilizes",
+    "3s": "não estabilize",
+    "1p": "não estabilizemos",
+    "2p": "não estabilizeis",
+    "3p": "não estabilizem"
+  },
+  "Part-ter": {
+    "": "estabilizado"
+  },
+  "Part-ser": {
+    "ms": "estabilizado",
+    "fs": "estabilizada",
+    "mp": "estabilizados",
+    "fp": "estabilizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recubrir"
+  },
+  "Ger": {
+    "": "recubriendo"
+  },
+  "PresI": {
+    "1s": "recubro",
+    "2s": "recubres",
+    "3s": "recubre",
+    "1p": "recubrimos",
+    "2p": "recubrís",
+    "3p": "recubren"
+  },
+  "PImpI": {
+    "1s": "recubría",
+    "2s": "recubrías",
+    "3s": "recubría",
+    "1p": "recubríamos",
+    "2p": "recubríais",
+    "3p": "recubrían"
+  },
+  "PPSI": {
+    "1s": "recubrí",
+    "2s": "recubriste",
+    "3s": "recubrió",
+    "1p": "recubrimos",
+    "2p": "recubristeis",
+    "3p": "recubrieron"
+  },
+  "FutSI": {
+    "1s": "recubriré",
+    "2s": "recubrirás",
+    "3s": "recubrirá",
+    "1p": "recubriremos",
+    "2p": "recubriréis",
+    "3p": "recubrirán"
+  },
+  "CondS": {
+    "1s": "recubriría",
+    "2s": "recubrirías",
+    "3s": "recubriría",
+    "1p": "recubriríamos",
+    "2p": "recubriríais",
+    "3p": "recubrirían"
+  },
+  "PresC": {
+    "1s": "recubra",
+    "2s": "recubras",
+    "3s": "recubra",
+    "1p": "recubramos",
+    "2p": "recubráis",
+    "3p": "recubran"
+  },
+  "PMQPSI": {
+    "1s": "recubriera",
+    "2s": "recubrieras",
+    "3s": "recubriera",
+    "1p": "recubriéramos",
+    "2p": "recubrierais",
+    "3p": "recubrieran"
+  },
+  "PImpC": {
+    "1s": "recubriese",
+    "2s": "recubrieses",
+    "3s": "recubriese",
+    "1p": "recubriésemos",
+    "2p": "recubrieseis",
+    "3p": "recubriesen"
+  },
+  "FutSC": {
+    "1s": "recubriere",
+    "2s": "recubrieres",
+    "3s": "recubriere",
+    "1p": "recubriéremos",
+    "2p": "recubriereis",
+    "3p": "recubrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recubre",
+    "3s": "recubra",
+    "1p": "recubramos",
+    "2p": "recubrid",
+    "3p": "recubran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recubras",
+    "3s": "no recubra",
+    "1p": "no recubramos",
+    "2p": "no recubráis",
+    "3p": "no recubran"
+  },
+  "Part-ter": {
+    "": "recubierto"
+  },
+  "Part-ser": {
+    "ms": "recubierto",
+    "fs": "recubierta",
+    "mp": "recubiertos",
+    "fp": "recubiertas"
+  }
+}

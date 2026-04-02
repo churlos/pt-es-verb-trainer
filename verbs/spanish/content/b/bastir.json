@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bastir"
+  },
+  "Ger": {
+    "": "bastiendo"
+  },
+  "PresI": {
+    "1s": "basto",
+    "2s": "bastes",
+    "3s": "baste",
+    "1p": "bastimos",
+    "2p": "bastís",
+    "3p": "basten"
+  },
+  "PImpI": {
+    "1s": "bastía",
+    "2s": "bastías",
+    "3s": "bastía",
+    "1p": "bastíamos",
+    "2p": "bastíais",
+    "3p": "bastían"
+  },
+  "PPSI": {
+    "1s": "bastí",
+    "2s": "bastiste",
+    "3s": "bastió",
+    "1p": "bastimos",
+    "2p": "bastisteis",
+    "3p": "bastieron"
+  },
+  "FutSI": {
+    "1s": "bastiré",
+    "2s": "bastirás",
+    "3s": "bastirá",
+    "1p": "bastiremos",
+    "2p": "bastiréis",
+    "3p": "bastirán"
+  },
+  "CondS": {
+    "1s": "bastiría",
+    "2s": "bastirías",
+    "3s": "bastiría",
+    "1p": "bastiríamos",
+    "2p": "bastiríais",
+    "3p": "bastirían"
+  },
+  "PresC": {
+    "1s": "basta",
+    "2s": "bastas",
+    "3s": "basta",
+    "1p": "bastamos",
+    "2p": "bastáis",
+    "3p": "bastan"
+  },
+  "PMQPSI": {
+    "1s": "bastiera",
+    "2s": "bastieras",
+    "3s": "bastiera",
+    "1p": "bastiéramos",
+    "2p": "bastierais",
+    "3p": "bastieran"
+  },
+  "PImpC": {
+    "1s": "bastiese",
+    "2s": "bastieses",
+    "3s": "bastiese",
+    "1p": "bastiésemos",
+    "2p": "bastieseis",
+    "3p": "bastiesen"
+  },
+  "FutSC": {
+    "1s": "bastiere",
+    "2s": "bastieres",
+    "3s": "bastiere",
+    "1p": "bastiéremos",
+    "2p": "bastiereis",
+    "3p": "bastieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baste",
+    "3s": "basta",
+    "1p": "bastamos",
+    "2p": "bastid",
+    "3p": "bastan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bastas",
+    "3s": "no basta",
+    "1p": "no bastamos",
+    "2p": "no bastáis",
+    "3p": "no bastan"
+  },
+  "Part-ter": {
+    "": "bastido"
+  },
+  "Part-ser": {
+    "ms": "bastido",
+    "fs": "bastida",
+    "mp": "bastidos",
+    "fp": "bastidas"
+  }
+}

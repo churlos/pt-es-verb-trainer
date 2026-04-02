@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "incluir"
+  },
+  "InfP": {
+    "1s": "incluir",
+    "2s": "incluíres",
+    "3s": "incluir",
+    "1p": "incluirmos",
+    "2p": "incluirdes",
+    "3p": "incluírem"
+  },
+  "Ger": {
+    "": "incluindo"
+  },
+  "PresI": {
+    "1s": "incluo",
+    "2s": "incluis",
+    "3s": "inclui",
+    "1p": "incluímos",
+    "2p": "incluís",
+    "3p": "incluem"
+  },
+  "PImpI": {
+    "1s": "incluía",
+    "2s": "incluías",
+    "3s": "incluía",
+    "1p": "incluíamos",
+    "2p": "incluíeis",
+    "3p": "incluíam"
+  },
+  "PPSI": {
+    "1s": "incluí",
+    "2s": "incluíste",
+    "3s": "incluiu",
+    "1p": "incluímos",
+    "2p": "incluístes",
+    "3p": "incluíram"
+  },
+  "PMQPSI": {
+    "1s": "incluíra",
+    "2s": "incluíras",
+    "3s": "incluíra",
+    "1p": "incluíramos",
+    "2p": "incluíreis",
+    "3p": "incluíram"
+  },
+  "FutSI": {
+    "1s": "incluirei",
+    "2s": "incluirás",
+    "3s": "incluirá",
+    "1p": "incluiremos",
+    "2p": "incluireis",
+    "3p": "incluirão"
+  },
+  "CondS": {
+    "1s": "incluiria",
+    "2s": "incluirias",
+    "3s": "incluiria",
+    "1p": "incluiríamos",
+    "2p": "incluiríeis",
+    "3p": "incluiriam"
+  },
+  "PresC": {
+    "1s": "inclua",
+    "2s": "incluas",
+    "3s": "inclua",
+    "1p": "incluamos",
+    "2p": "incluais",
+    "3p": "incluam"
+  },
+  "PImpC": {
+    "1s": "incluísse",
+    "2s": "incluísses",
+    "3s": "incluísse",
+    "1p": "incluíssemos",
+    "2p": "incluísseis",
+    "3p": "incluíssem"
+  },
+  "FutSC": {
+    "1s": "incluir",
+    "2s": "incluíres",
+    "3s": "incluir",
+    "1p": "incluirmos",
+    "2p": "incluirdes",
+    "3p": "incluírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inclui",
+    "3s": "inclua",
+    "1p": "incluamos",
+    "2p": "incluí",
+    "3p": "incluam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não incluas",
+    "3s": "não inclua",
+    "1p": "não incluamos",
+    "2p": "não incluais",
+    "3p": "não incluam"
+  },
+  "Part-ter": {
+    "": "incluído"
+  },
+  "Part-ser": {
+    "ms": "incluso",
+    "fs": "inclusa",
+    "mp": "inclusos",
+    "fp": "inclusas"
+  }
+}

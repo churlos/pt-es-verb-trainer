@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escalonar"
+  },
+  "InfP": {
+    "1s": "escalonar",
+    "2s": "escalonares",
+    "3s": "escalonar",
+    "1p": "escalonarmos",
+    "2p": "escalonardes",
+    "3p": "escalonarem"
+  },
+  "Ger": {
+    "": "escalonando"
+  },
+  "PresI": {
+    "1s": "escalono",
+    "2s": "escalonas",
+    "3s": "escalona",
+    "1p": "escalonamos",
+    "2p": "escalonais",
+    "3p": "escalonam"
+  },
+  "PImpI": {
+    "1s": "escalonava",
+    "2s": "escalonavas",
+    "3s": "escalonava",
+    "1p": "escalonávamos",
+    "2p": "escalonáveis",
+    "3p": "escalonavam"
+  },
+  "PPSI": {
+    "1s": "escalonei",
+    "2s": "escalonaste",
+    "3s": "escalonou",
+    "1p": "escalonámos",
+    "2p": "escalonastes",
+    "3p": "escalonaram"
+  },
+  "PMQPSI": {
+    "1s": "escalonara",
+    "2s": "escalonaras",
+    "3s": "escalonara",
+    "1p": "escalonáramos",
+    "2p": "escalonáreis",
+    "3p": "escalonaram"
+  },
+  "FutSI": {
+    "1s": "escalonarei",
+    "2s": "escalonarás",
+    "3s": "escalonará",
+    "1p": "escalonaremos",
+    "2p": "escalonareis",
+    "3p": "escalonarão"
+  },
+  "CondS": {
+    "1s": "escalonaria",
+    "2s": "escalonarias",
+    "3s": "escalonaria",
+    "1p": "escalonaríamos",
+    "2p": "escalonaríeis",
+    "3p": "escalonariam"
+  },
+  "PresC": {
+    "1s": "escalone",
+    "2s": "escalones",
+    "3s": "escalone",
+    "1p": "escalonemos",
+    "2p": "escaloneis",
+    "3p": "escalonem"
+  },
+  "PImpC": {
+    "1s": "escalonasse",
+    "2s": "escalonasses",
+    "3s": "escalonasse",
+    "1p": "escalonássemos",
+    "2p": "escalonásseis",
+    "3p": "escalonassem"
+  },
+  "FutSC": {
+    "1s": "escalonar",
+    "2s": "escalonares",
+    "3s": "escalonar",
+    "1p": "escalonarmos",
+    "2p": "escalonardes",
+    "3p": "escalonarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escalona",
+    "3s": "escalone",
+    "1p": "escalonemos",
+    "2p": "escalonai",
+    "3p": "escalonem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escalones",
+    "3s": "não escalone",
+    "1p": "não escalonemos",
+    "2p": "não escaloneis",
+    "3p": "não escalonem"
+  },
+  "Part-ter": {
+    "": "escalonado"
+  },
+  "Part-ser": {
+    "ms": "escalonado",
+    "fs": "escalonada",
+    "mp": "escalonados",
+    "fp": "escalonadas"
+  }
+}

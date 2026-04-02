@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enviar"
+  },
+  "InfP": {
+    "1s": "enviar",
+    "2s": "enviares",
+    "3s": "enviar",
+    "1p": "enviarmos",
+    "2p": "enviardes",
+    "3p": "enviarem"
+  },
+  "Ger": {
+    "": "enviando"
+  },
+  "PresI": {
+    "1s": "envio",
+    "2s": "envias",
+    "3s": "envia",
+    "1p": "enviamos",
+    "2p": "enviais",
+    "3p": "enviam"
+  },
+  "PImpI": {
+    "1s": "enviava",
+    "2s": "enviavas",
+    "3s": "enviava",
+    "1p": "enviávamos",
+    "2p": "enviáveis",
+    "3p": "enviavam"
+  },
+  "PPSI": {
+    "1s": "enviei",
+    "2s": "enviaste",
+    "3s": "enviou",
+    "1p": "enviámos",
+    "2p": "enviastes",
+    "3p": "enviaram"
+  },
+  "PMQPSI": {
+    "1s": "enviara",
+    "2s": "enviaras",
+    "3s": "enviara",
+    "1p": "enviáramos",
+    "2p": "enviáreis",
+    "3p": "enviaram"
+  },
+  "FutSI": {
+    "1s": "enviarei",
+    "2s": "enviarás",
+    "3s": "enviará",
+    "1p": "enviaremos",
+    "2p": "enviareis",
+    "3p": "enviarão"
+  },
+  "CondS": {
+    "1s": "enviaria",
+    "2s": "enviarias",
+    "3s": "enviaria",
+    "1p": "enviaríamos",
+    "2p": "enviaríeis",
+    "3p": "enviariam"
+  },
+  "PresC": {
+    "1s": "envie",
+    "2s": "envies",
+    "3s": "envie",
+    "1p": "enviemos",
+    "2p": "envieis",
+    "3p": "enviem"
+  },
+  "PImpC": {
+    "1s": "enviasse",
+    "2s": "enviasses",
+    "3s": "enviasse",
+    "1p": "enviássemos",
+    "2p": "enviásseis",
+    "3p": "enviassem"
+  },
+  "FutSC": {
+    "1s": "enviar",
+    "2s": "enviares",
+    "3s": "enviar",
+    "1p": "enviarmos",
+    "2p": "enviardes",
+    "3p": "enviarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envia",
+    "3s": "envie",
+    "1p": "enviemos",
+    "2p": "enviai",
+    "3p": "enviem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não envies",
+    "3s": "não envie",
+    "1p": "não enviemos",
+    "2p": "não envieis",
+    "3p": "não enviem"
+  },
+  "Part-ter": {
+    "": "enviado"
+  },
+  "Part-ser": {
+    "ms": "enviado",
+    "fs": "enviada",
+    "mp": "enviados",
+    "fp": "enviadas"
+  }
+}

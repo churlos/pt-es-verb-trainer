@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "temblar"
+  },
+  "Ger": {
+    "": "temblando"
+  },
+  "PresI": {
+    "1s": "tiemblo",
+    "2s": "tiemblas",
+    "3s": "tiembla",
+    "1p": "temblamos",
+    "2p": "tembláis",
+    "3p": "tiemblan"
+  },
+  "PImpI": {
+    "1s": "temblaba",
+    "2s": "temblabas",
+    "3s": "temblaba",
+    "1p": "temblábamos",
+    "2p": "temblabais",
+    "3p": "temblaban"
+  },
+  "PPSI": {
+    "1s": "temblé",
+    "2s": "temblaste",
+    "3s": "tembló",
+    "1p": "temblamos",
+    "2p": "temblasteis",
+    "3p": "temblaron"
+  },
+  "FutSI": {
+    "1s": "temblaré",
+    "2s": "temblarás",
+    "3s": "temblará",
+    "1p": "temblaremos",
+    "2p": "temblaréis",
+    "3p": "temblarán"
+  },
+  "CondS": {
+    "1s": "temblaría",
+    "2s": "temblarías",
+    "3s": "temblaría",
+    "1p": "temblaríamos",
+    "2p": "temblaríais",
+    "3p": "temblarían"
+  },
+  "PresC": {
+    "1s": "tiemble",
+    "2s": "tiembles",
+    "3s": "tiemble",
+    "1p": "temblemos",
+    "2p": "tembléis",
+    "3p": "tiemblen"
+  },
+  "PMQPSI": {
+    "1s": "temblara",
+    "2s": "temblaras",
+    "3s": "temblara",
+    "1p": "tembláramos",
+    "2p": "temblarais",
+    "3p": "temblaran"
+  },
+  "PImpC": {
+    "1s": "temblase",
+    "2s": "temblases",
+    "3s": "temblase",
+    "1p": "temblásemos",
+    "2p": "temblaseis",
+    "3p": "temblasen"
+  },
+  "FutSC": {
+    "1s": "temblare",
+    "2s": "temblares",
+    "3s": "temblare",
+    "1p": "tembláremos",
+    "2p": "temblareis",
+    "3p": "temblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tiembla",
+    "3s": "tiemble",
+    "1p": "temblemos",
+    "2p": "temblad",
+    "3p": "tiemblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tiembles",
+    "3s": "no tiemble",
+    "1p": "no temblemos",
+    "2p": "no tembléis",
+    "3p": "no tiemblen"
+  },
+  "Part-ter": {
+    "": "temblado"
+  },
+  "Part-ser": {
+    "ms": "temblado",
+    "fs": "temblada",
+    "mp": "temblados",
+    "fp": "tembladas"
+  }
+}

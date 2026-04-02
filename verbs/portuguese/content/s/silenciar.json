@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "silenciar"
+  },
+  "InfP": {
+    "1s": "silenciar",
+    "2s": "silenciares",
+    "3s": "silenciar",
+    "1p": "silenciarmos",
+    "2p": "silenciardes",
+    "3p": "silenciarem"
+  },
+  "Ger": {
+    "": "silenciando"
+  },
+  "PresI": {
+    "1s": "silencio",
+    "2s": "silencias",
+    "3s": "silencia",
+    "1p": "silenciamos",
+    "2p": "silenciais",
+    "3p": "silenciam"
+  },
+  "PImpI": {
+    "1s": "silenciava",
+    "2s": "silenciavas",
+    "3s": "silenciava",
+    "1p": "silenciávamos",
+    "2p": "silenciáveis",
+    "3p": "silenciavam"
+  },
+  "PPSI": {
+    "1s": "silenciei",
+    "2s": "silenciaste",
+    "3s": "silenciou",
+    "1p": "silenciámos",
+    "2p": "silenciastes",
+    "3p": "silenciaram"
+  },
+  "PMQPSI": {
+    "1s": "silenciara",
+    "2s": "silenciaras",
+    "3s": "silenciara",
+    "1p": "silenciáramos",
+    "2p": "silenciáreis",
+    "3p": "silenciaram"
+  },
+  "FutSI": {
+    "1s": "silenciarei",
+    "2s": "silenciarás",
+    "3s": "silenciará",
+    "1p": "silenciaremos",
+    "2p": "silenciareis",
+    "3p": "silenciarão"
+  },
+  "CondS": {
+    "1s": "silenciaria",
+    "2s": "silenciarias",
+    "3s": "silenciaria",
+    "1p": "silenciaríamos",
+    "2p": "silenciaríeis",
+    "3p": "silenciariam"
+  },
+  "PresC": {
+    "1s": "silencie",
+    "2s": "silencies",
+    "3s": "silencie",
+    "1p": "silenciemos",
+    "2p": "silencieis",
+    "3p": "silenciem"
+  },
+  "PImpC": {
+    "1s": "silenciasse",
+    "2s": "silenciasses",
+    "3s": "silenciasse",
+    "1p": "silenciássemos",
+    "2p": "silenciásseis",
+    "3p": "silenciassem"
+  },
+  "FutSC": {
+    "1s": "silenciar",
+    "2s": "silenciares",
+    "3s": "silenciar",
+    "1p": "silenciarmos",
+    "2p": "silenciardes",
+    "3p": "silenciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "silencia",
+    "3s": "silencie",
+    "1p": "silenciemos",
+    "2p": "silenciai",
+    "3p": "silenciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não silencies",
+    "3s": "não silencie",
+    "1p": "não silenciemos",
+    "2p": "não silencieis",
+    "3p": "não silenciem"
+  },
+  "Part-ter": {
+    "": "silenciado"
+  },
+  "Part-ser": {
+    "ms": "silenciado",
+    "fs": "silenciada",
+    "mp": "silenciados",
+    "fp": "silenciadas"
+  }
+}

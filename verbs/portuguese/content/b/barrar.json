@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "barrar"
+  },
+  "InfP": {
+    "1s": "barrar",
+    "2s": "barrares",
+    "3s": "barrar",
+    "1p": "barrarmos",
+    "2p": "barrardes",
+    "3p": "barrarem"
+  },
+  "Ger": {
+    "": "barrando"
+  },
+  "PresI": {
+    "1s": "barro",
+    "2s": "barras",
+    "3s": "barra",
+    "1p": "barramos",
+    "2p": "barrais",
+    "3p": "barram"
+  },
+  "PImpI": {
+    "1s": "barrava",
+    "2s": "barravas",
+    "3s": "barrava",
+    "1p": "barrávamos",
+    "2p": "barráveis",
+    "3p": "barravam"
+  },
+  "PPSI": {
+    "1s": "barrei",
+    "2s": "barraste",
+    "3s": "barrou",
+    "1p": "barrámos",
+    "2p": "barrastes",
+    "3p": "barraram"
+  },
+  "PMQPSI": {
+    "1s": "barrara",
+    "2s": "barraras",
+    "3s": "barrara",
+    "1p": "barráramos",
+    "2p": "barráreis",
+    "3p": "barraram"
+  },
+  "FutSI": {
+    "1s": "barrarei",
+    "2s": "barrarás",
+    "3s": "barrará",
+    "1p": "barraremos",
+    "2p": "barrareis",
+    "3p": "barrarão"
+  },
+  "CondS": {
+    "1s": "barraria",
+    "2s": "barrarias",
+    "3s": "barraria",
+    "1p": "barraríamos",
+    "2p": "barraríeis",
+    "3p": "barrariam"
+  },
+  "PresC": {
+    "1s": "barre",
+    "2s": "barres",
+    "3s": "barre",
+    "1p": "barremos",
+    "2p": "barreis",
+    "3p": "barrem"
+  },
+  "PImpC": {
+    "1s": "barrasse",
+    "2s": "barrasses",
+    "3s": "barrasse",
+    "1p": "barrássemos",
+    "2p": "barrásseis",
+    "3p": "barrassem"
+  },
+  "FutSC": {
+    "1s": "barrar",
+    "2s": "barrares",
+    "3s": "barrar",
+    "1p": "barrarmos",
+    "2p": "barrardes",
+    "3p": "barrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barra",
+    "3s": "barre",
+    "1p": "barremos",
+    "2p": "barrai",
+    "3p": "barrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não barres",
+    "3s": "não barre",
+    "1p": "não barremos",
+    "2p": "não barreis",
+    "3p": "não barrem"
+  },
+  "Part-ter": {
+    "": "barrado"
+  },
+  "Part-ser": {
+    "ms": "barrado",
+    "fs": "barrada",
+    "mp": "barrados",
+    "fp": "barradas"
+  }
+}

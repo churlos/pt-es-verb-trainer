@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "oír"
+  },
+  "Ger": {
+    "": "oyendo"
+  },
+  "PresI": {
+    "1s": "oigo",
+    "2s": "oyes",
+    "3s": "oye",
+    "1p": "oímos",
+    "2p": "oís",
+    "3p": "oyen"
+  },
+  "PImpI": {
+    "1s": "oía",
+    "2s": "oías",
+    "3s": "oía",
+    "1p": "oíamos",
+    "2p": "oíais",
+    "3p": "oían"
+  },
+  "PPSI": {
+    "1s": "oí",
+    "2s": "oíste",
+    "3s": "oyó",
+    "1p": "oímos",
+    "2p": "oísteis",
+    "3p": "oyeron"
+  },
+  "FutSI": {
+    "1s": "oiré",
+    "2s": "oirás",
+    "3s": "oirá",
+    "1p": "oiremos",
+    "2p": "oiréis",
+    "3p": "oirán"
+  },
+  "CondS": {
+    "1s": "oiría",
+    "2s": "oirías",
+    "3s": "oiría",
+    "1p": "oiríamos",
+    "2p": "oiríais",
+    "3p": "oirían"
+  },
+  "PresC": {
+    "1s": "oiga",
+    "2s": "oigas",
+    "3s": "oiga",
+    "1p": "oigamos",
+    "2p": "oigáis",
+    "3p": "oigan"
+  },
+  "PMQPSI": {
+    "1s": "oyera",
+    "2s": "oyeras",
+    "3s": "oyera",
+    "1p": "oyéramos",
+    "2p": "oyerais",
+    "3p": "oyeran"
+  },
+  "PImpC": {
+    "1s": "oyese",
+    "2s": "oyeses",
+    "3s": "oyese",
+    "1p": "oyésemos",
+    "2p": "oyeseis",
+    "3p": "oyesen"
+  },
+  "FutSC": {
+    "1s": "oyere",
+    "2s": "oyeres",
+    "3s": "oyere",
+    "1p": "oyéremos",
+    "2p": "oyereis",
+    "3p": "oyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "oye",
+    "3s": "oiga",
+    "1p": "oigamos",
+    "2p": "oíd",
+    "3p": "oigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no oigas",
+    "3s": "no oiga",
+    "1p": "no oigamos",
+    "2p": "no oigáis",
+    "3p": "no oigan"
+  },
+  "Part-ter": {
+    "": "oído"
+  },
+  "Part-ser": {
+    "ms": "oído",
+    "fs": "oída",
+    "mp": "oídos",
+    "fp": "oídas"
+  }
+}

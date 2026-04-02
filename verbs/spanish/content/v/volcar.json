@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "volcar"
+  },
+  "Ger": {
+    "": "volcando"
+  },
+  "PresI": {
+    "1s": "vuelco",
+    "2s": "vuelcas",
+    "3s": "vuelca",
+    "1p": "volcamos",
+    "2p": "volcáis",
+    "3p": "vuelcan"
+  },
+  "PImpI": {
+    "1s": "volcaba",
+    "2s": "volcabas",
+    "3s": "volcaba",
+    "1p": "volcábamos",
+    "2p": "volcabais",
+    "3p": "volcaban"
+  },
+  "PPSI": {
+    "1s": "volqué",
+    "2s": "volcaste",
+    "3s": "volcó",
+    "1p": "volcamos",
+    "2p": "volcasteis",
+    "3p": "volcaron"
+  },
+  "FutSI": {
+    "1s": "volcaré",
+    "2s": "volcarás",
+    "3s": "volcará",
+    "1p": "volcaremos",
+    "2p": "volcaréis",
+    "3p": "volcarán"
+  },
+  "CondS": {
+    "1s": "volcaría",
+    "2s": "volcarías",
+    "3s": "volcaría",
+    "1p": "volcaríamos",
+    "2p": "volcaríais",
+    "3p": "volcarían"
+  },
+  "PresC": {
+    "1s": "vuelque",
+    "2s": "vuelques",
+    "3s": "vuelque",
+    "1p": "volquemos",
+    "2p": "volquéis",
+    "3p": "vuelquen"
+  },
+  "PMQPSI": {
+    "1s": "volcara",
+    "2s": "volcaras",
+    "3s": "volcara",
+    "1p": "volcáramos",
+    "2p": "volcarais",
+    "3p": "volcaran"
+  },
+  "PImpC": {
+    "1s": "volcase",
+    "2s": "volcases",
+    "3s": "volcase",
+    "1p": "volcásemos",
+    "2p": "volcaseis",
+    "3p": "volcasen"
+  },
+  "FutSC": {
+    "1s": "volcare",
+    "2s": "volcares",
+    "3s": "volcare",
+    "1p": "volcáremos",
+    "2p": "volcareis",
+    "3p": "volcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vuelca",
+    "3s": "vuelque",
+    "1p": "volquemos",
+    "2p": "volcad",
+    "3p": "vuelquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vuelques",
+    "3s": "no vuelque",
+    "1p": "no volquemos",
+    "2p": "no volquéis",
+    "3p": "no vuelquen"
+  },
+  "Part-ter": {
+    "": "volcado"
+  },
+  "Part-ser": {
+    "ms": "volcado",
+    "fs": "volcada",
+    "mp": "volcados",
+    "fp": "volcadas"
+  }
+}

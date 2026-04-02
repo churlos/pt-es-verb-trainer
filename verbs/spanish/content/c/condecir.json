@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "condecir"
+  },
+  "Ger": {
+    "": "condiciendo"
+  },
+  "PresI": {
+    "1s": "condigo",
+    "2s": "condices",
+    "3s": "condice",
+    "1p": "condecimos",
+    "2p": "condecís",
+    "3p": "condicen"
+  },
+  "PImpI": {
+    "1s": "condecía",
+    "2s": "condecías",
+    "3s": "condecía",
+    "1p": "condecíamos",
+    "2p": "condecíais",
+    "3p": "condecían"
+  },
+  "PPSI": {
+    "1s": "condije",
+    "2s": "condijiste",
+    "3s": "condijo",
+    "1p": "condijimos",
+    "2p": "condijisteis",
+    "3p": "condijeron"
+  },
+  "FutSI": {
+    "1s": "condeciré, condiré",
+    "2s": "condecirás, condirás",
+    "3s": "condecirá, condirá",
+    "1p": "condeciremos, condiremos",
+    "2p": "condeciréis, condiréis",
+    "3p": "condecirán, condirán"
+  },
+  "CondS": {
+    "1s": "condeciría, condiría",
+    "2s": "condecirías, condirías",
+    "3s": "condeciría, condiría",
+    "1p": "condeciríamos, condiríamos",
+    "2p": "condeciríais, condiríais",
+    "3p": "condecirían, condirían"
+  },
+  "PresC": {
+    "1s": "condiga",
+    "2s": "condigas",
+    "3s": "condiga",
+    "1p": "condigamos",
+    "2p": "condigáis",
+    "3p": "condigan"
+  },
+  "PMQPSI": {
+    "1s": "condijera",
+    "2s": "condijeras",
+    "3s": "condijera",
+    "1p": "condijéramos",
+    "2p": "condijerais",
+    "3p": "condijeran"
+  },
+  "PImpC": {
+    "1s": "condijese",
+    "2s": "condijeses",
+    "3s": "condijese",
+    "1p": "condijésemos",
+    "2p": "condijeseis",
+    "3p": "condijesen"
+  },
+  "FutSC": {
+    "1s": "condijere",
+    "2s": "condijeres",
+    "3s": "condijere",
+    "1p": "condijéremos",
+    "2p": "condijereis",
+    "3p": "condijeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "condice",
+    "3s": "condiga",
+    "1p": "condigamos",
+    "2p": "condecid",
+    "3p": "condigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no condigas",
+    "3s": "no condiga",
+    "1p": "no condigamos",
+    "2p": "no condigáis",
+    "3p": "no condigan"
+  },
+  "Part-ter": {
+    "": "condicho"
+  },
+  "Part-ser": {
+    "ms": "condicho",
+    "fs": "condicha",
+    "mp": "condichos",
+    "fp": "condichas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "granizar"
+  },
+  "InfP": {
+    "1s": "granizar",
+    "2s": "granizares",
+    "3s": "granizar",
+    "1p": "granizarmos",
+    "2p": "granizardes",
+    "3p": "granizarem"
+  },
+  "Ger": {
+    "": "granizando"
+  },
+  "PresI": {
+    "1s": "granizo",
+    "2s": "granizas",
+    "3s": "graniza",
+    "1p": "granizamos",
+    "2p": "granizais",
+    "3p": "granizam"
+  },
+  "PImpI": {
+    "1s": "granizava",
+    "2s": "granizavas",
+    "3s": "granizava",
+    "1p": "granizávamos",
+    "2p": "granizáveis",
+    "3p": "granizavam"
+  },
+  "PPSI": {
+    "1s": "granizei",
+    "2s": "granizaste",
+    "3s": "granizou",
+    "1p": "granizámos",
+    "2p": "granizastes",
+    "3p": "granizaram"
+  },
+  "PMQPSI": {
+    "1s": "granizara",
+    "2s": "granizaras",
+    "3s": "granizara",
+    "1p": "granizáramos",
+    "2p": "granizáreis",
+    "3p": "granizaram"
+  },
+  "FutSI": {
+    "1s": "granizarei",
+    "2s": "granizarás",
+    "3s": "granizará",
+    "1p": "granizaremos",
+    "2p": "granizareis",
+    "3p": "granizarão"
+  },
+  "CondS": {
+    "1s": "granizaria",
+    "2s": "granizarias",
+    "3s": "granizaria",
+    "1p": "granizaríamos",
+    "2p": "granizaríeis",
+    "3p": "granizariam"
+  },
+  "PresC": {
+    "1s": "granize",
+    "2s": "granizes",
+    "3s": "granize",
+    "1p": "granizemos",
+    "2p": "granizeis",
+    "3p": "granizem"
+  },
+  "PImpC": {
+    "1s": "granizasse",
+    "2s": "granizasses",
+    "3s": "granizasse",
+    "1p": "granizássemos",
+    "2p": "granizásseis",
+    "3p": "granizassem"
+  },
+  "FutSC": {
+    "1s": "granizar",
+    "2s": "granizares",
+    "3s": "granizar",
+    "1p": "granizarmos",
+    "2p": "granizardes",
+    "3p": "granizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "graniza",
+    "3s": "granize",
+    "1p": "granizemos",
+    "2p": "granizai",
+    "3p": "granizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não granizes",
+    "3s": "não granize",
+    "1p": "não granizemos",
+    "2p": "não granizeis",
+    "3p": "não granizem"
+  },
+  "Part-ter": {
+    "": "granizado"
+  },
+  "Part-ser": {
+    "ms": "granizado",
+    "fs": "granizada",
+    "mp": "granizados",
+    "fp": "granizadas"
+  }
+}

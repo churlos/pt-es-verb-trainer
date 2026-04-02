@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cadastrar"
+  },
+  "InfP": {
+    "1s": "cadastrar",
+    "2s": "cadastrares",
+    "3s": "cadastrar",
+    "1p": "cadastrarmos",
+    "2p": "cadastrardes",
+    "3p": "cadastrarem"
+  },
+  "Ger": {
+    "": "cadastrando"
+  },
+  "PresI": {
+    "1s": "cadastro",
+    "2s": "cadastras",
+    "3s": "cadastra",
+    "1p": "cadastramos",
+    "2p": "cadastrais",
+    "3p": "cadastram"
+  },
+  "PImpI": {
+    "1s": "cadastrava",
+    "2s": "cadastravas",
+    "3s": "cadastrava",
+    "1p": "cadastrávamos",
+    "2p": "cadastráveis",
+    "3p": "cadastravam"
+  },
+  "PPSI": {
+    "1s": "cadastrei",
+    "2s": "cadastraste",
+    "3s": "cadastrou",
+    "1p": "cadastrámos",
+    "2p": "cadastrastes",
+    "3p": "cadastraram"
+  },
+  "PMQPSI": {
+    "1s": "cadastrara",
+    "2s": "cadastraras",
+    "3s": "cadastrara",
+    "1p": "cadastráramos",
+    "2p": "cadastráreis",
+    "3p": "cadastraram"
+  },
+  "FutSI": {
+    "1s": "cadastrarei",
+    "2s": "cadastrarás",
+    "3s": "cadastrará",
+    "1p": "cadastraremos",
+    "2p": "cadastrareis",
+    "3p": "cadastrarão"
+  },
+  "CondS": {
+    "1s": "cadastraria",
+    "2s": "cadastrarias",
+    "3s": "cadastraria",
+    "1p": "cadastraríamos",
+    "2p": "cadastraríeis",
+    "3p": "cadastrariam"
+  },
+  "PresC": {
+    "1s": "cadastre",
+    "2s": "cadastres",
+    "3s": "cadastre",
+    "1p": "cadastremos",
+    "2p": "cadastreis",
+    "3p": "cadastrem"
+  },
+  "PImpC": {
+    "1s": "cadastrasse",
+    "2s": "cadastrasses",
+    "3s": "cadastrasse",
+    "1p": "cadastrássemos",
+    "2p": "cadastrásseis",
+    "3p": "cadastrassem"
+  },
+  "FutSC": {
+    "1s": "cadastrar",
+    "2s": "cadastrares",
+    "3s": "cadastrar",
+    "1p": "cadastrarmos",
+    "2p": "cadastrardes",
+    "3p": "cadastrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cadastra",
+    "3s": "cadastre",
+    "1p": "cadastremos",
+    "2p": "cadastrai",
+    "3p": "cadastrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cadastres",
+    "3s": "não cadastre",
+    "1p": "não cadastremos",
+    "2p": "não cadastreis",
+    "3p": "não cadastrem"
+  },
+  "Part-ter": {
+    "": "cadastrado"
+  },
+  "Part-ser": {
+    "ms": "cadastrado",
+    "fs": "cadastrada",
+    "mp": "cadastrados",
+    "fp": "cadastradas"
+  }
+}

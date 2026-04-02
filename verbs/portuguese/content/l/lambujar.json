@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lambujar"
+  },
+  "InfP": {
+    "1s": "lambujar",
+    "2s": "lambujares",
+    "3s": "lambujar",
+    "1p": "lambujarmos",
+    "2p": "lambujardes",
+    "3p": "lambujarem"
+  },
+  "Ger": {
+    "": "lambujando"
+  },
+  "PresI": {
+    "1s": "lambujo",
+    "2s": "lambujas",
+    "3s": "lambuja",
+    "1p": "lambujamos",
+    "2p": "lambujais",
+    "3p": "lambujam"
+  },
+  "PImpI": {
+    "1s": "lambujava",
+    "2s": "lambujavas",
+    "3s": "lambujava",
+    "1p": "lambujávamos",
+    "2p": "lambujáveis",
+    "3p": "lambujavam"
+  },
+  "PPSI": {
+    "1s": "lambujei",
+    "2s": "lambujaste",
+    "3s": "lambujou",
+    "1p": "lambujámos",
+    "2p": "lambujastes",
+    "3p": "lambujaram"
+  },
+  "PMQPSI": {
+    "1s": "lambujara",
+    "2s": "lambujaras",
+    "3s": "lambujara",
+    "1p": "lambujáramos",
+    "2p": "lambujáreis",
+    "3p": "lambujaram"
+  },
+  "FutSI": {
+    "1s": "lambujarei",
+    "2s": "lambujarás",
+    "3s": "lambujará",
+    "1p": "lambujaremos",
+    "2p": "lambujareis",
+    "3p": "lambujarão"
+  },
+  "CondS": {
+    "1s": "lambujaria",
+    "2s": "lambujarias",
+    "3s": "lambujaria",
+    "1p": "lambujaríamos",
+    "2p": "lambujaríeis",
+    "3p": "lambujariam"
+  },
+  "PresC": {
+    "1s": "lambuje",
+    "2s": "lambujes",
+    "3s": "lambuje",
+    "1p": "lambujemos",
+    "2p": "lambujeis",
+    "3p": "lambujem"
+  },
+  "PImpC": {
+    "1s": "lambujasse",
+    "2s": "lambujasses",
+    "3s": "lambujasse",
+    "1p": "lambujássemos",
+    "2p": "lambujásseis",
+    "3p": "lambujassem"
+  },
+  "FutSC": {
+    "1s": "lambujar",
+    "2s": "lambujares",
+    "3s": "lambujar",
+    "1p": "lambujarmos",
+    "2p": "lambujardes",
+    "3p": "lambujarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lambuja",
+    "3s": "lambuje",
+    "1p": "lambujemos",
+    "2p": "lambujai",
+    "3p": "lambujem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lambujes",
+    "3s": "não lambuje",
+    "1p": "não lambujemos",
+    "2p": "não lambujeis",
+    "3p": "não lambujem"
+  },
+  "Part-ter": {
+    "": "lambujado"
+  },
+  "Part-ser": {
+    "ms": "lambujado",
+    "fs": "lambujada",
+    "mp": "lambujados",
+    "fp": "lambujadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "despertar"
+  },
+  "InfP": {
+    "1s": "despertar",
+    "2s": "despertares",
+    "3s": "despertar",
+    "1p": "despertarmos",
+    "2p": "despertardes",
+    "3p": "despertarem"
+  },
+  "Ger": {
+    "": "despertando"
+  },
+  "PresI": {
+    "1s": "desperto",
+    "2s": "despertas",
+    "3s": "desperta",
+    "1p": "despertamos",
+    "2p": "despertais",
+    "3p": "despertam"
+  },
+  "PImpI": {
+    "1s": "despertava",
+    "2s": "despertavas",
+    "3s": "despertava",
+    "1p": "despertávamos",
+    "2p": "despertáveis",
+    "3p": "despertavam"
+  },
+  "PPSI": {
+    "1s": "despertei",
+    "2s": "despertaste",
+    "3s": "despertou",
+    "1p": "despertámos",
+    "2p": "despertastes",
+    "3p": "despertaram"
+  },
+  "PMQPSI": {
+    "1s": "despertara",
+    "2s": "despertaras",
+    "3s": "despertara",
+    "1p": "despertáramos",
+    "2p": "despertáreis",
+    "3p": "despertaram"
+  },
+  "FutSI": {
+    "1s": "despertarei",
+    "2s": "despertarás",
+    "3s": "despertará",
+    "1p": "despertaremos",
+    "2p": "despertareis",
+    "3p": "despertarão"
+  },
+  "CondS": {
+    "1s": "despertaria",
+    "2s": "despertarias",
+    "3s": "despertaria",
+    "1p": "despertaríamos",
+    "2p": "despertaríeis",
+    "3p": "despertariam"
+  },
+  "PresC": {
+    "1s": "desperte",
+    "2s": "despertes",
+    "3s": "desperte",
+    "1p": "despertemos",
+    "2p": "desperteis",
+    "3p": "despertem"
+  },
+  "PImpC": {
+    "1s": "despertasse",
+    "2s": "despertasses",
+    "3s": "despertasse",
+    "1p": "despertássemos",
+    "2p": "despertásseis",
+    "3p": "despertassem"
+  },
+  "FutSC": {
+    "1s": "despertar",
+    "2s": "despertares",
+    "3s": "despertar",
+    "1p": "despertarmos",
+    "2p": "despertardes",
+    "3p": "despertarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desperta",
+    "3s": "desperte",
+    "1p": "despertemos",
+    "2p": "despertai",
+    "3p": "despertem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não despertes",
+    "3s": "não desperte",
+    "1p": "não despertemos",
+    "2p": "não desperteis",
+    "3p": "não despertem"
+  },
+  "Part-ter": {
+    "": "despertado"
+  },
+  "Part-ser": {
+    "ms": "despertado",
+    "fs": "despertada",
+    "mp": "despertados",
+    "fp": "despertadas"
+  }
+}

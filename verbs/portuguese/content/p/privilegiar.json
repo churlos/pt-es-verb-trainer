@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "privilegiar"
+  },
+  "InfP": {
+    "1s": "privilegiar",
+    "2s": "privilegiares",
+    "3s": "privilegiar",
+    "1p": "privilegiarmos",
+    "2p": "privilegiardes",
+    "3p": "privilegiarem"
+  },
+  "Ger": {
+    "": "privilegiando"
+  },
+  "PresI": {
+    "1s": "privilegio",
+    "2s": "privilegias",
+    "3s": "privilegia",
+    "1p": "privilegiamos",
+    "2p": "privilegiais",
+    "3p": "privilegiam"
+  },
+  "PImpI": {
+    "1s": "privilegiava",
+    "2s": "privilegiavas",
+    "3s": "privilegiava",
+    "1p": "privilegiávamos",
+    "2p": "privilegiáveis",
+    "3p": "privilegiavam"
+  },
+  "PPSI": {
+    "1s": "privilegiei",
+    "2s": "privilegiaste",
+    "3s": "privilegiou",
+    "1p": "privilegiámos",
+    "2p": "privilegiastes",
+    "3p": "privilegiaram"
+  },
+  "PMQPSI": {
+    "1s": "privilegiara",
+    "2s": "privilegiaras",
+    "3s": "privilegiara",
+    "1p": "privilegiáramos",
+    "2p": "privilegiáreis",
+    "3p": "privilegiaram"
+  },
+  "FutSI": {
+    "1s": "privilegiarei",
+    "2s": "privilegiarás",
+    "3s": "privilegiará",
+    "1p": "privilegiaremos",
+    "2p": "privilegiareis",
+    "3p": "privilegiarão"
+  },
+  "CondS": {
+    "1s": "privilegiaria",
+    "2s": "privilegiarias",
+    "3s": "privilegiaria",
+    "1p": "privilegiaríamos",
+    "2p": "privilegiaríeis",
+    "3p": "privilegiariam"
+  },
+  "PresC": {
+    "1s": "privilegie",
+    "2s": "privilegies",
+    "3s": "privilegie",
+    "1p": "privilegiemos",
+    "2p": "privilegieis",
+    "3p": "privilegiem"
+  },
+  "PImpC": {
+    "1s": "privilegiasse",
+    "2s": "privilegiasses",
+    "3s": "privilegiasse",
+    "1p": "privilegiássemos",
+    "2p": "privilegiásseis",
+    "3p": "privilegiassem"
+  },
+  "FutSC": {
+    "1s": "privilegiar",
+    "2s": "privilegiares",
+    "3s": "privilegiar",
+    "1p": "privilegiarmos",
+    "2p": "privilegiardes",
+    "3p": "privilegiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "privilegia",
+    "3s": "privilegie",
+    "1p": "privilegiemos",
+    "2p": "privilegiai",
+    "3p": "privilegiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não privilegies",
+    "3s": "não privilegie",
+    "1p": "não privilegiemos",
+    "2p": "não privilegieis",
+    "3p": "não privilegiem"
+  },
+  "Part-ter": {
+    "": "privilegiado"
+  },
+  "Part-ser": {
+    "ms": "privilegiado",
+    "fs": "privilegiada",
+    "mp": "privilegiados",
+    "fp": "privilegiadas"
+  }
+}

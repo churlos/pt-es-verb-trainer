@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "consolidar"
+  },
+  "InfP": {
+    "1s": "consolidar",
+    "2s": "consolidares",
+    "3s": "consolidar",
+    "1p": "consolidarmos",
+    "2p": "consolidardes",
+    "3p": "consolidarem"
+  },
+  "Ger": {
+    "": "consolidando"
+  },
+  "PresI": {
+    "1s": "consolido",
+    "2s": "consolidas",
+    "3s": "consolida",
+    "1p": "consolidamos",
+    "2p": "consolidais",
+    "3p": "consolidam"
+  },
+  "PImpI": {
+    "1s": "consolidava",
+    "2s": "consolidavas",
+    "3s": "consolidava",
+    "1p": "consolidávamos",
+    "2p": "consolidáveis",
+    "3p": "consolidavam"
+  },
+  "PPSI": {
+    "1s": "consolidei",
+    "2s": "consolidaste",
+    "3s": "consolidou",
+    "1p": "consolidámos",
+    "2p": "consolidastes",
+    "3p": "consolidaram"
+  },
+  "PMQPSI": {
+    "1s": "consolidara",
+    "2s": "consolidaras",
+    "3s": "consolidara",
+    "1p": "consolidáramos",
+    "2p": "consolidáreis",
+    "3p": "consolidaram"
+  },
+  "FutSI": {
+    "1s": "consolidarei",
+    "2s": "consolidarás",
+    "3s": "consolidará",
+    "1p": "consolidaremos",
+    "2p": "consolidareis",
+    "3p": "consolidarão"
+  },
+  "CondS": {
+    "1s": "consolidaria",
+    "2s": "consolidarias",
+    "3s": "consolidaria",
+    "1p": "consolidaríamos",
+    "2p": "consolidaríeis",
+    "3p": "consolidariam"
+  },
+  "PresC": {
+    "1s": "consolide",
+    "2s": "consolides",
+    "3s": "consolide",
+    "1p": "consolidemos",
+    "2p": "consolideis",
+    "3p": "consolidem"
+  },
+  "PImpC": {
+    "1s": "consolidasse",
+    "2s": "consolidasses",
+    "3s": "consolidasse",
+    "1p": "consolidássemos",
+    "2p": "consolidásseis",
+    "3p": "consolidassem"
+  },
+  "FutSC": {
+    "1s": "consolidar",
+    "2s": "consolidares",
+    "3s": "consolidar",
+    "1p": "consolidarmos",
+    "2p": "consolidardes",
+    "3p": "consolidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consolida",
+    "3s": "consolide",
+    "1p": "consolidemos",
+    "2p": "consolidai",
+    "3p": "consolidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não consolides",
+    "3s": "não consolide",
+    "1p": "não consolidemos",
+    "2p": "não consolideis",
+    "3p": "não consolidem"
+  },
+  "Part-ter": {
+    "": "consolidado"
+  },
+  "Part-ser": {
+    "ms": "consolidado",
+    "fs": "consolidada",
+    "mp": "consolidados",
+    "fp": "consolidadas"
+  }
+}

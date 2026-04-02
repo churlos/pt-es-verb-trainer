@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "describir"
+  },
+  "Ger": {
+    "": "describiendo"
+  },
+  "PresI": {
+    "1s": "describo",
+    "2s": "describes",
+    "3s": "describe",
+    "1p": "describimos",
+    "2p": "describís",
+    "3p": "describen"
+  },
+  "PImpI": {
+    "1s": "describía",
+    "2s": "describías",
+    "3s": "describía",
+    "1p": "describíamos",
+    "2p": "describíais",
+    "3p": "describían"
+  },
+  "PPSI": {
+    "1s": "describí",
+    "2s": "describiste",
+    "3s": "describió",
+    "1p": "describimos",
+    "2p": "describisteis",
+    "3p": "describieron"
+  },
+  "FutSI": {
+    "1s": "describiré",
+    "2s": "describirás",
+    "3s": "describirá",
+    "1p": "describiremos",
+    "2p": "describiréis",
+    "3p": "describirán"
+  },
+  "CondS": {
+    "1s": "describiría",
+    "2s": "describirías",
+    "3s": "describiría",
+    "1p": "describiríamos",
+    "2p": "describiríais",
+    "3p": "describirían"
+  },
+  "PresC": {
+    "1s": "describa",
+    "2s": "describas",
+    "3s": "describa",
+    "1p": "describamos",
+    "2p": "describáis",
+    "3p": "describan"
+  },
+  "PMQPSI": {
+    "1s": "describiera",
+    "2s": "describieras",
+    "3s": "describiera",
+    "1p": "describiéramos",
+    "2p": "describierais",
+    "3p": "describieran"
+  },
+  "PImpC": {
+    "1s": "describiese",
+    "2s": "describieses",
+    "3s": "describiese",
+    "1p": "describiésemos",
+    "2p": "describieseis",
+    "3p": "describiesen"
+  },
+  "FutSC": {
+    "1s": "describiere",
+    "2s": "describieres",
+    "3s": "describiere",
+    "1p": "describiéremos",
+    "2p": "describiereis",
+    "3p": "describieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "describe",
+    "3s": "describa",
+    "1p": "describamos",
+    "2p": "describid",
+    "3p": "describan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no describas",
+    "3s": "no describa",
+    "1p": "no describamos",
+    "2p": "no describáis",
+    "3p": "no describan"
+  },
+  "Part-ter": {
+    "": "descrito, descripto"
+  },
+  "Part-ser": {
+    "ms": "descrito, descripto",
+    "fs": "descrita, descripta",
+    "mp": "descritos, descriptos",
+    "fp": "descritas, descriptas"
+  }
+}

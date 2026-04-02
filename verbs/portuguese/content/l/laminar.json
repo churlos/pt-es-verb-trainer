@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "laminar"
+  },
+  "InfP": {
+    "1s": "laminar",
+    "2s": "laminares",
+    "3s": "laminar",
+    "1p": "laminarmos",
+    "2p": "laminardes",
+    "3p": "laminarem"
+  },
+  "Ger": {
+    "": "laminando"
+  },
+  "PresI": {
+    "1s": "lamino",
+    "2s": "laminas",
+    "3s": "lamina",
+    "1p": "laminamos",
+    "2p": "laminais",
+    "3p": "laminam"
+  },
+  "PImpI": {
+    "1s": "laminava",
+    "2s": "laminavas",
+    "3s": "laminava",
+    "1p": "laminávamos",
+    "2p": "lamináveis",
+    "3p": "laminavam"
+  },
+  "PPSI": {
+    "1s": "laminei",
+    "2s": "laminaste",
+    "3s": "laminou",
+    "1p": "laminámos",
+    "2p": "laminastes",
+    "3p": "laminaram"
+  },
+  "PMQPSI": {
+    "1s": "laminara",
+    "2s": "laminaras",
+    "3s": "laminara",
+    "1p": "lamináramos",
+    "2p": "lamináreis",
+    "3p": "laminaram"
+  },
+  "FutSI": {
+    "1s": "laminarei",
+    "2s": "laminarás",
+    "3s": "laminará",
+    "1p": "laminaremos",
+    "2p": "laminareis",
+    "3p": "laminarão"
+  },
+  "CondS": {
+    "1s": "laminaria",
+    "2s": "laminarias",
+    "3s": "laminaria",
+    "1p": "laminaríamos",
+    "2p": "laminaríeis",
+    "3p": "laminariam"
+  },
+  "PresC": {
+    "1s": "lamine",
+    "2s": "lamines",
+    "3s": "lamine",
+    "1p": "laminemos",
+    "2p": "lamineis",
+    "3p": "laminem"
+  },
+  "PImpC": {
+    "1s": "laminasse",
+    "2s": "laminasses",
+    "3s": "laminasse",
+    "1p": "laminássemos",
+    "2p": "laminásseis",
+    "3p": "laminassem"
+  },
+  "FutSC": {
+    "1s": "laminar",
+    "2s": "laminares",
+    "3s": "laminar",
+    "1p": "laminarmos",
+    "2p": "laminardes",
+    "3p": "laminarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lamina",
+    "3s": "lamine",
+    "1p": "laminemos",
+    "2p": "laminai",
+    "3p": "laminem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lamines",
+    "3s": "não lamine",
+    "1p": "não laminemos",
+    "2p": "não lamineis",
+    "3p": "não laminem"
+  },
+  "Part-ter": {
+    "": "laminado"
+  },
+  "Part-ser": {
+    "ms": "laminado",
+    "fs": "laminada",
+    "mp": "laminados",
+    "fp": "laminadas"
+  }
+}

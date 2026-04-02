@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resellar"
+  },
+  "Ger": {
+    "": "resellando"
+  },
+  "PresI": {
+    "1s": "resello",
+    "2s": "resellas",
+    "3s": "resella",
+    "1p": "resellamos",
+    "2p": "reselláis",
+    "3p": "resellan"
+  },
+  "PImpI": {
+    "1s": "resellaba",
+    "2s": "resellabas",
+    "3s": "resellaba",
+    "1p": "resellábamos",
+    "2p": "resellabais",
+    "3p": "resellaban"
+  },
+  "PPSI": {
+    "1s": "resellé",
+    "2s": "resellaste",
+    "3s": "reselló",
+    "1p": "resellamos",
+    "2p": "resellasteis",
+    "3p": "resellaron"
+  },
+  "FutSI": {
+    "1s": "resellaré",
+    "2s": "resellarás",
+    "3s": "resellará",
+    "1p": "resellaremos",
+    "2p": "resellaréis",
+    "3p": "resellarán"
+  },
+  "CondS": {
+    "1s": "resellaría",
+    "2s": "resellarías",
+    "3s": "resellaría",
+    "1p": "resellaríamos",
+    "2p": "resellaríais",
+    "3p": "resellarían"
+  },
+  "PresC": {
+    "1s": "reselle",
+    "2s": "reselles",
+    "3s": "reselle",
+    "1p": "resellemos",
+    "2p": "reselléis",
+    "3p": "resellen"
+  },
+  "PMQPSI": {
+    "1s": "resellara",
+    "2s": "resellaras",
+    "3s": "resellara",
+    "1p": "reselláramos",
+    "2p": "resellarais",
+    "3p": "resellaran"
+  },
+  "PImpC": {
+    "1s": "resellase",
+    "2s": "resellases",
+    "3s": "resellase",
+    "1p": "resellásemos",
+    "2p": "resellaseis",
+    "3p": "resellasen"
+  },
+  "FutSC": {
+    "1s": "resellare",
+    "2s": "resellares",
+    "3s": "resellare",
+    "1p": "reselláremos",
+    "2p": "resellareis",
+    "3p": "resellaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resella",
+    "3s": "reselle",
+    "1p": "resellemos",
+    "2p": "resellad",
+    "3p": "resellen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reselles",
+    "3s": "no reselle",
+    "1p": "no resellemos",
+    "2p": "no reselléis",
+    "3p": "no resellen"
+  },
+  "Part-ter": {
+    "": "resellado"
+  },
+  "Part-ser": {
+    "ms": "resellado",
+    "fs": "resellada",
+    "mp": "resellados",
+    "fp": "reselladas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "egresar"
+  },
+  "Ger": {
+    "": "egresando"
+  },
+  "PresI": {
+    "1s": "egreso",
+    "2s": "egresas",
+    "3s": "egresa",
+    "1p": "egresamos",
+    "2p": "egresáis",
+    "3p": "egresan"
+  },
+  "PImpI": {
+    "1s": "egresaba",
+    "2s": "egresabas",
+    "3s": "egresaba",
+    "1p": "egresábamos",
+    "2p": "egresabais",
+    "3p": "egresaban"
+  },
+  "PPSI": {
+    "1s": "egresé",
+    "2s": "egresaste",
+    "3s": "egresó",
+    "1p": "egresamos",
+    "2p": "egresasteis",
+    "3p": "egresaron"
+  },
+  "FutSI": {
+    "1s": "egresaré",
+    "2s": "egresarás",
+    "3s": "egresará",
+    "1p": "egresaremos",
+    "2p": "egresaréis",
+    "3p": "egresarán"
+  },
+  "CondS": {
+    "1s": "egresaría",
+    "2s": "egresarías",
+    "3s": "egresaría",
+    "1p": "egresaríamos",
+    "2p": "egresaríais",
+    "3p": "egresarían"
+  },
+  "PresC": {
+    "1s": "egrese",
+    "2s": "egreses",
+    "3s": "egrese",
+    "1p": "egresemos",
+    "2p": "egreséis",
+    "3p": "egresen"
+  },
+  "PMQPSI": {
+    "1s": "egresara",
+    "2s": "egresaras",
+    "3s": "egresara",
+    "1p": "egresáramos",
+    "2p": "egresarais",
+    "3p": "egresaran"
+  },
+  "PImpC": {
+    "1s": "egresase",
+    "2s": "egresases",
+    "3s": "egresase",
+    "1p": "egresásemos",
+    "2p": "egresaseis",
+    "3p": "egresasen"
+  },
+  "FutSC": {
+    "1s": "egresare",
+    "2s": "egresares",
+    "3s": "egresare",
+    "1p": "egresáremos",
+    "2p": "egresareis",
+    "3p": "egresaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "egresa",
+    "3s": "egrese",
+    "1p": "egresemos",
+    "2p": "egresad",
+    "3p": "egresen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no egreses",
+    "3s": "no egrese",
+    "1p": "no egresemos",
+    "2p": "no egreséis",
+    "3p": "no egresen"
+  },
+  "Part-ter": {
+    "": "egresado"
+  },
+  "Part-ser": {
+    "ms": "egresado",
+    "fs": "egresada",
+    "mp": "egresados",
+    "fp": "egresadas"
+  }
+}

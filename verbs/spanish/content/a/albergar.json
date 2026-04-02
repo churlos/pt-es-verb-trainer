@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "albergar"
+  },
+  "Ger": {
+    "": "albergando"
+  },
+  "PresI": {
+    "1s": "albergo",
+    "2s": "albergas",
+    "3s": "alberga",
+    "1p": "albergamos",
+    "2p": "albergáis",
+    "3p": "albergan"
+  },
+  "PImpI": {
+    "1s": "albergaba",
+    "2s": "albergabas",
+    "3s": "albergaba",
+    "1p": "albergábamos",
+    "2p": "albergabais",
+    "3p": "albergaban"
+  },
+  "PPSI": {
+    "1s": "albergué",
+    "2s": "albergaste",
+    "3s": "albergó",
+    "1p": "albergamos",
+    "2p": "albergasteis",
+    "3p": "albergaron"
+  },
+  "FutSI": {
+    "1s": "albergaré",
+    "2s": "albergarás",
+    "3s": "albergará",
+    "1p": "albergaremos",
+    "2p": "albergaréis",
+    "3p": "albergarán"
+  },
+  "CondS": {
+    "1s": "albergaría",
+    "2s": "albergarías",
+    "3s": "albergaría",
+    "1p": "albergaríamos",
+    "2p": "albergaríais",
+    "3p": "albergarían"
+  },
+  "PresC": {
+    "1s": "albergue",
+    "2s": "albergues",
+    "3s": "albergue",
+    "1p": "alberguemos",
+    "2p": "alberguéis",
+    "3p": "alberguen"
+  },
+  "PMQPSI": {
+    "1s": "albergara",
+    "2s": "albergaras",
+    "3s": "albergara",
+    "1p": "albergáramos",
+    "2p": "albergarais",
+    "3p": "albergaran"
+  },
+  "PImpC": {
+    "1s": "albergase",
+    "2s": "albergases",
+    "3s": "albergase",
+    "1p": "albergásemos",
+    "2p": "albergaseis",
+    "3p": "albergasen"
+  },
+  "FutSC": {
+    "1s": "albergare",
+    "2s": "albergares",
+    "3s": "albergare",
+    "1p": "albergáremos",
+    "2p": "albergareis",
+    "3p": "albergaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alberga",
+    "3s": "albergue",
+    "1p": "alberguemos",
+    "2p": "albergad",
+    "3p": "alberguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no albergues",
+    "3s": "no albergue",
+    "1p": "no alberguemos",
+    "2p": "no alberguéis",
+    "3p": "no alberguen"
+  },
+  "Part-ter": {
+    "": "albergado"
+  },
+  "Part-ser": {
+    "ms": "albergado",
+    "fs": "albergada",
+    "mp": "albergados",
+    "fp": "albergadas"
+  }
+}

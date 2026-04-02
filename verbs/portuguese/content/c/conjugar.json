@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conjugar"
+  },
+  "InfP": {
+    "1s": "conjugar",
+    "2s": "conjugares",
+    "3s": "conjugar",
+    "1p": "conjugarmos",
+    "2p": "conjugardes",
+    "3p": "conjugarem"
+  },
+  "Ger": {
+    "": "conjugando"
+  },
+  "PresI": {
+    "1s": "conjugo",
+    "2s": "conjugas",
+    "3s": "conjuga",
+    "1p": "conjugamos",
+    "2p": "conjugais",
+    "3p": "conjugam"
+  },
+  "PImpI": {
+    "1s": "conjugava",
+    "2s": "conjugavas",
+    "3s": "conjugava",
+    "1p": "conjugávamos",
+    "2p": "conjugáveis",
+    "3p": "conjugavam"
+  },
+  "PPSI": {
+    "1s": "conjuguei",
+    "2s": "conjugaste",
+    "3s": "conjugou",
+    "1p": "conjugámos",
+    "2p": "conjugastes",
+    "3p": "conjugaram"
+  },
+  "PMQPSI": {
+    "1s": "conjugara",
+    "2s": "conjugaras",
+    "3s": "conjugara",
+    "1p": "conjugáramos",
+    "2p": "conjugáreis",
+    "3p": "conjugaram"
+  },
+  "FutSI": {
+    "1s": "conjugarei",
+    "2s": "conjugarás",
+    "3s": "conjugará",
+    "1p": "conjugaremos",
+    "2p": "conjugareis",
+    "3p": "conjugarão"
+  },
+  "CondS": {
+    "1s": "conjugaria",
+    "2s": "conjugarias",
+    "3s": "conjugaria",
+    "1p": "conjugaríamos",
+    "2p": "conjugaríeis",
+    "3p": "conjugariam"
+  },
+  "PresC": {
+    "1s": "conjugue",
+    "2s": "conjugues",
+    "3s": "conjugue",
+    "1p": "conjuguemos",
+    "2p": "conjugueis",
+    "3p": "conjuguem"
+  },
+  "PImpC": {
+    "1s": "conjugasse",
+    "2s": "conjugasses",
+    "3s": "conjugasse",
+    "1p": "conjugássemos",
+    "2p": "conjugásseis",
+    "3p": "conjugassem"
+  },
+  "FutSC": {
+    "1s": "conjugar",
+    "2s": "conjugares",
+    "3s": "conjugar",
+    "1p": "conjugarmos",
+    "2p": "conjugardes",
+    "3p": "conjugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conjuga",
+    "3s": "conjugue",
+    "1p": "conjuguemos",
+    "2p": "conjugai",
+    "3p": "conjuguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não conjugues",
+    "3s": "não conjugue",
+    "1p": "não conjuguemos",
+    "2p": "não conjugueis",
+    "3p": "não conjuguem"
+  },
+  "Part-ter": {
+    "": "conjugado"
+  },
+  "Part-ser": {
+    "ms": "conjugado",
+    "fs": "conjugada",
+    "mp": "conjugados",
+    "fp": "conjugadas"
+  }
+}

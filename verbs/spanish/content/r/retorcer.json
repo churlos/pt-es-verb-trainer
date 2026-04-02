@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retorcer"
+  },
+  "Ger": {
+    "": "retorciendo"
+  },
+  "PresI": {
+    "1s": "retuerzo",
+    "2s": "retuerces",
+    "3s": "retuerce",
+    "1p": "retorcemos",
+    "2p": "retorcéis",
+    "3p": "retuercen"
+  },
+  "PImpI": {
+    "1s": "retorcía",
+    "2s": "retorcías",
+    "3s": "retorcía",
+    "1p": "retorcíamos",
+    "2p": "retorcíais",
+    "3p": "retorcían"
+  },
+  "PPSI": {
+    "1s": "retorcí",
+    "2s": "retorciste",
+    "3s": "retorció",
+    "1p": "retorcimos",
+    "2p": "retorcisteis",
+    "3p": "retorcieron"
+  },
+  "FutSI": {
+    "1s": "retorceré",
+    "2s": "retorcerás",
+    "3s": "retorcerá",
+    "1p": "retorceremos",
+    "2p": "retorceréis",
+    "3p": "retorcerán"
+  },
+  "CondS": {
+    "1s": "retorcería",
+    "2s": "retorcerías",
+    "3s": "retorcería",
+    "1p": "retorceríamos",
+    "2p": "retorceríais",
+    "3p": "retorcerían"
+  },
+  "PresC": {
+    "1s": "retuerza",
+    "2s": "retuerzas",
+    "3s": "retuerza",
+    "1p": "retorzamos",
+    "2p": "retorzáis",
+    "3p": "retuerzan"
+  },
+  "PMQPSI": {
+    "1s": "retorciera",
+    "2s": "retorcieras",
+    "3s": "retorciera",
+    "1p": "retorciéramos",
+    "2p": "retorcierais",
+    "3p": "retorcieran"
+  },
+  "PImpC": {
+    "1s": "retorciese",
+    "2s": "retorcieses",
+    "3s": "retorciese",
+    "1p": "retorciésemos",
+    "2p": "retorcieseis",
+    "3p": "retorciesen"
+  },
+  "FutSC": {
+    "1s": "retorciere",
+    "2s": "retorcieres",
+    "3s": "retorciere",
+    "1p": "retorciéremos",
+    "2p": "retorciereis",
+    "3p": "retorcieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retuerce",
+    "3s": "retuerza",
+    "1p": "retorzamos",
+    "2p": "retorced",
+    "3p": "retuerzan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retuerzas",
+    "3s": "no retuerza",
+    "1p": "no retorzamos",
+    "2p": "no retorzáis",
+    "3p": "no retuerzan"
+  },
+  "Part-ter": {
+    "": "retorcido"
+  },
+  "Part-ser": {
+    "ms": "retorcido",
+    "fs": "retorcida",
+    "mp": "retorcidos",
+    "fp": "retorcidas"
+  }
+}

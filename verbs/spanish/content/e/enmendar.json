@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enmendar"
+  },
+  "Ger": {
+    "": "enmendando"
+  },
+  "PresI": {
+    "1s": "enmiendo",
+    "2s": "enmiendas",
+    "3s": "enmienda",
+    "1p": "enmendamos",
+    "2p": "enmendáis",
+    "3p": "enmiendan"
+  },
+  "PImpI": {
+    "1s": "enmendaba",
+    "2s": "enmendabas",
+    "3s": "enmendaba",
+    "1p": "enmendábamos",
+    "2p": "enmendabais",
+    "3p": "enmendaban"
+  },
+  "PPSI": {
+    "1s": "enmendé",
+    "2s": "enmendaste",
+    "3s": "enmendó",
+    "1p": "enmendamos",
+    "2p": "enmendasteis",
+    "3p": "enmendaron"
+  },
+  "FutSI": {
+    "1s": "enmendaré",
+    "2s": "enmendarás",
+    "3s": "enmendará",
+    "1p": "enmendaremos",
+    "2p": "enmendaréis",
+    "3p": "enmendarán"
+  },
+  "CondS": {
+    "1s": "enmendaría",
+    "2s": "enmendarías",
+    "3s": "enmendaría",
+    "1p": "enmendaríamos",
+    "2p": "enmendaríais",
+    "3p": "enmendarían"
+  },
+  "PresC": {
+    "1s": "enmiende",
+    "2s": "enmiendes",
+    "3s": "enmiende",
+    "1p": "enmendemos",
+    "2p": "enmendéis",
+    "3p": "enmienden"
+  },
+  "PMQPSI": {
+    "1s": "enmendara",
+    "2s": "enmendaras",
+    "3s": "enmendara",
+    "1p": "enmendáramos",
+    "2p": "enmendarais",
+    "3p": "enmendaran"
+  },
+  "PImpC": {
+    "1s": "enmendase",
+    "2s": "enmendases",
+    "3s": "enmendase",
+    "1p": "enmendásemos",
+    "2p": "enmendaseis",
+    "3p": "enmendasen"
+  },
+  "FutSC": {
+    "1s": "enmendare",
+    "2s": "enmendares",
+    "3s": "enmendare",
+    "1p": "enmendáremos",
+    "2p": "enmendareis",
+    "3p": "enmendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enmienda",
+    "3s": "enmiende",
+    "1p": "enmendemos",
+    "2p": "enmendad",
+    "3p": "enmienden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enmiendes",
+    "3s": "no enmiende",
+    "1p": "no enmendemos",
+    "2p": "no enmendéis",
+    "3p": "no enmienden"
+  },
+  "Part-ter": {
+    "": "enmendado"
+  },
+  "Part-ser": {
+    "ms": "enmendado",
+    "fs": "enmendada",
+    "mp": "enmendados",
+    "fp": "enmendadas"
+  }
+}

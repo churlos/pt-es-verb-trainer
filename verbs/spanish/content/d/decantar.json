@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "decantar"
+  },
+  "Ger": {
+    "": "decantando"
+  },
+  "PresI": {
+    "1s": "decanto",
+    "2s": "decantas",
+    "3s": "decanta",
+    "1p": "decantamos",
+    "2p": "decantáis",
+    "3p": "decantan"
+  },
+  "PImpI": {
+    "1s": "decantaba",
+    "2s": "decantabas",
+    "3s": "decantaba",
+    "1p": "decantábamos",
+    "2p": "decantabais",
+    "3p": "decantaban"
+  },
+  "PPSI": {
+    "1s": "decanté",
+    "2s": "decantaste",
+    "3s": "decantó",
+    "1p": "decantamos",
+    "2p": "decantasteis",
+    "3p": "decantaron"
+  },
+  "FutSI": {
+    "1s": "decantaré",
+    "2s": "decantarás",
+    "3s": "decantará",
+    "1p": "decantaremos",
+    "2p": "decantaréis",
+    "3p": "decantarán"
+  },
+  "CondS": {
+    "1s": "decantaría",
+    "2s": "decantarías",
+    "3s": "decantaría",
+    "1p": "decantaríamos",
+    "2p": "decantaríais",
+    "3p": "decantarían"
+  },
+  "PresC": {
+    "1s": "decante",
+    "2s": "decantes",
+    "3s": "decante",
+    "1p": "decantemos",
+    "2p": "decantéis",
+    "3p": "decanten"
+  },
+  "PMQPSI": {
+    "1s": "decantara",
+    "2s": "decantaras",
+    "3s": "decantara",
+    "1p": "decantáramos",
+    "2p": "decantarais",
+    "3p": "decantaran"
+  },
+  "PImpC": {
+    "1s": "decantase",
+    "2s": "decantases",
+    "3s": "decantase",
+    "1p": "decantásemos",
+    "2p": "decantaseis",
+    "3p": "decantasen"
+  },
+  "FutSC": {
+    "1s": "decantare",
+    "2s": "decantares",
+    "3s": "decantare",
+    "1p": "decantáremos",
+    "2p": "decantareis",
+    "3p": "decantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decanta",
+    "3s": "decante",
+    "1p": "decantemos",
+    "2p": "decantad",
+    "3p": "decanten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no decantes",
+    "3s": "no decante",
+    "1p": "no decantemos",
+    "2p": "no decantéis",
+    "3p": "no decanten"
+  },
+  "Part-ter": {
+    "": "decantado"
+  },
+  "Part-ser": {
+    "ms": "decantado",
+    "fs": "decantada",
+    "mp": "decantados",
+    "fp": "decantadas"
+  }
+}

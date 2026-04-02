@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "multar"
+  },
+  "InfP": {
+    "1s": "multar",
+    "2s": "multares",
+    "3s": "multar",
+    "1p": "multarmos",
+    "2p": "multardes",
+    "3p": "multarem"
+  },
+  "Ger": {
+    "": "multando"
+  },
+  "PresI": {
+    "1s": "multo",
+    "2s": "multas",
+    "3s": "multa",
+    "1p": "multamos",
+    "2p": "multais",
+    "3p": "multam"
+  },
+  "PImpI": {
+    "1s": "multava",
+    "2s": "multavas",
+    "3s": "multava",
+    "1p": "multávamos",
+    "2p": "multáveis",
+    "3p": "multavam"
+  },
+  "PPSI": {
+    "1s": "multei",
+    "2s": "multaste",
+    "3s": "multou",
+    "1p": "multámos",
+    "2p": "multastes",
+    "3p": "multaram"
+  },
+  "PMQPSI": {
+    "1s": "multara",
+    "2s": "multaras",
+    "3s": "multara",
+    "1p": "multáramos",
+    "2p": "multáreis",
+    "3p": "multaram"
+  },
+  "FutSI": {
+    "1s": "multarei",
+    "2s": "multarás",
+    "3s": "multará",
+    "1p": "multaremos",
+    "2p": "multareis",
+    "3p": "multarão"
+  },
+  "CondS": {
+    "1s": "multaria",
+    "2s": "multarias",
+    "3s": "multaria",
+    "1p": "multaríamos",
+    "2p": "multaríeis",
+    "3p": "multariam"
+  },
+  "PresC": {
+    "1s": "multe",
+    "2s": "multes",
+    "3s": "multe",
+    "1p": "multemos",
+    "2p": "multeis",
+    "3p": "multem"
+  },
+  "PImpC": {
+    "1s": "multasse",
+    "2s": "multasses",
+    "3s": "multasse",
+    "1p": "multássemos",
+    "2p": "multásseis",
+    "3p": "multassem"
+  },
+  "FutSC": {
+    "1s": "multar",
+    "2s": "multares",
+    "3s": "multar",
+    "1p": "multarmos",
+    "2p": "multardes",
+    "3p": "multarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "multa",
+    "3s": "multe",
+    "1p": "multemos",
+    "2p": "multai",
+    "3p": "multem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não multes",
+    "3s": "não multe",
+    "1p": "não multemos",
+    "2p": "não multeis",
+    "3p": "não multem"
+  },
+  "Part-ter": {
+    "": "multado"
+  },
+  "Part-ser": {
+    "ms": "multado",
+    "fs": "multada",
+    "mp": "multados",
+    "fp": "multadas"
+  }
+}

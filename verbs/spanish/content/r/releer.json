@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "releer"
+  },
+  "Ger": {
+    "": "releyendo"
+  },
+  "PresI": {
+    "1s": "releo",
+    "2s": "relees",
+    "3s": "relee",
+    "1p": "releemos",
+    "2p": "releéis",
+    "3p": "releen"
+  },
+  "PImpI": {
+    "1s": "releía",
+    "2s": "releías",
+    "3s": "releía",
+    "1p": "releíamos",
+    "2p": "releíais",
+    "3p": "releían"
+  },
+  "PPSI": {
+    "1s": "releí",
+    "2s": "releíste",
+    "3s": "releyó",
+    "1p": "releímos",
+    "2p": "releísteis",
+    "3p": "releyeron"
+  },
+  "FutSI": {
+    "1s": "releeré",
+    "2s": "releerás",
+    "3s": "releerá",
+    "1p": "releeremos",
+    "2p": "releeréis",
+    "3p": "releerán"
+  },
+  "CondS": {
+    "1s": "releería",
+    "2s": "releerías",
+    "3s": "releería",
+    "1p": "releeríamos",
+    "2p": "releeríais",
+    "3p": "releerían"
+  },
+  "PresC": {
+    "1s": "relea",
+    "2s": "releas",
+    "3s": "relea",
+    "1p": "releamos",
+    "2p": "releáis",
+    "3p": "relean"
+  },
+  "PMQPSI": {
+    "1s": "releyera",
+    "2s": "releyeras",
+    "3s": "releyera",
+    "1p": "releyéramos",
+    "2p": "releyerais",
+    "3p": "releyeran"
+  },
+  "PImpC": {
+    "1s": "releyese",
+    "2s": "releyeses",
+    "3s": "releyese",
+    "1p": "releyésemos",
+    "2p": "releyeseis",
+    "3p": "releyesen"
+  },
+  "FutSC": {
+    "1s": "releyere",
+    "2s": "releyeres",
+    "3s": "releyere",
+    "1p": "releyéremos",
+    "2p": "releyereis",
+    "3p": "releyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "relee",
+    "3s": "relea",
+    "1p": "releamos",
+    "2p": "releed",
+    "3p": "relean"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no releas",
+    "3s": "no relea",
+    "1p": "no releamos",
+    "2p": "no releáis",
+    "3p": "no relean"
+  },
+  "Part-ter": {
+    "": "releído"
+  },
+  "Part-ser": {
+    "ms": "releído",
+    "fs": "releída",
+    "mp": "releídos",
+    "fp": "releídas"
+  }
+}

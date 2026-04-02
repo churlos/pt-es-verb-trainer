@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esmaltar"
+  },
+  "InfP": {
+    "1s": "esmaltar",
+    "2s": "esmaltares",
+    "3s": "esmaltar",
+    "1p": "esmaltarmos",
+    "2p": "esmaltardes",
+    "3p": "esmaltarem"
+  },
+  "Ger": {
+    "": "esmaltando"
+  },
+  "PresI": {
+    "1s": "esmalto",
+    "2s": "esmaltas",
+    "3s": "esmalta",
+    "1p": "esmaltamos",
+    "2p": "esmaltais",
+    "3p": "esmaltam"
+  },
+  "PImpI": {
+    "1s": "esmaltava",
+    "2s": "esmaltavas",
+    "3s": "esmaltava",
+    "1p": "esmaltávamos",
+    "2p": "esmaltáveis",
+    "3p": "esmaltavam"
+  },
+  "PPSI": {
+    "1s": "esmaltei",
+    "2s": "esmaltaste",
+    "3s": "esmaltou",
+    "1p": "esmaltámos",
+    "2p": "esmaltastes",
+    "3p": "esmaltaram"
+  },
+  "PMQPSI": {
+    "1s": "esmaltara",
+    "2s": "esmaltaras",
+    "3s": "esmaltara",
+    "1p": "esmaltáramos",
+    "2p": "esmaltáreis",
+    "3p": "esmaltaram"
+  },
+  "FutSI": {
+    "1s": "esmaltarei",
+    "2s": "esmaltarás",
+    "3s": "esmaltará",
+    "1p": "esmaltaremos",
+    "2p": "esmaltareis",
+    "3p": "esmaltarão"
+  },
+  "CondS": {
+    "1s": "esmaltaria",
+    "2s": "esmaltarias",
+    "3s": "esmaltaria",
+    "1p": "esmaltaríamos",
+    "2p": "esmaltaríeis",
+    "3p": "esmaltariam"
+  },
+  "PresC": {
+    "1s": "esmalte",
+    "2s": "esmaltes",
+    "3s": "esmalte",
+    "1p": "esmaltemos",
+    "2p": "esmalteis",
+    "3p": "esmaltem"
+  },
+  "PImpC": {
+    "1s": "esmaltasse",
+    "2s": "esmaltasses",
+    "3s": "esmaltasse",
+    "1p": "esmaltássemos",
+    "2p": "esmaltásseis",
+    "3p": "esmaltassem"
+  },
+  "FutSC": {
+    "1s": "esmaltar",
+    "2s": "esmaltares",
+    "3s": "esmaltar",
+    "1p": "esmaltarmos",
+    "2p": "esmaltardes",
+    "3p": "esmaltarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esmalta",
+    "3s": "esmalte",
+    "1p": "esmaltemos",
+    "2p": "esmaltai",
+    "3p": "esmaltem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esmaltes",
+    "3s": "não esmalte",
+    "1p": "não esmaltemos",
+    "2p": "não esmalteis",
+    "3p": "não esmaltem"
+  },
+  "Part-ter": {
+    "": "esmaltado"
+  },
+  "Part-ser": {
+    "ms": "esmaltado",
+    "fs": "esmaltada",
+    "mp": "esmaltados",
+    "fp": "esmaltadas"
+  }
+}

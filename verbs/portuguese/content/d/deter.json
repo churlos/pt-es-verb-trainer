@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deter"
+  },
+  "InfP": {
+    "1s": "deter",
+    "2s": "deteres",
+    "3s": "deter",
+    "1p": "determos",
+    "2p": "deterdes",
+    "3p": "deterem"
+  },
+  "Ger": {
+    "": "detendo"
+  },
+  "PresI": {
+    "1s": "detenho",
+    "2s": "deténs",
+    "3s": "detém",
+    "1p": "detemos",
+    "2p": "detendes",
+    "3p": "detêm"
+  },
+  "PImpI": {
+    "1s": "detinha",
+    "2s": "detinhas",
+    "3s": "detinha",
+    "1p": "detínhamos",
+    "2p": "detínheis",
+    "3p": "detinham"
+  },
+  "PPSI": {
+    "1s": "detive",
+    "2s": "detiveste",
+    "3s": "deteve",
+    "1p": "detivemos",
+    "2p": "detivestes",
+    "3p": "detiveram"
+  },
+  "PMQPSI": {
+    "1s": "detivera",
+    "2s": "detiveras",
+    "3s": "detivera",
+    "1p": "detivéramos",
+    "2p": "detivéreis",
+    "3p": "detiveram"
+  },
+  "FutSI": {
+    "1s": "deterei",
+    "2s": "deterás",
+    "3s": "deterá",
+    "1p": "deteremos",
+    "2p": "detereis",
+    "3p": "deterão"
+  },
+  "CondS": {
+    "1s": "deteria",
+    "2s": "deterias",
+    "3s": "deteria",
+    "1p": "deteríamos",
+    "2p": "deteríeis",
+    "3p": "deteriam"
+  },
+  "PresC": {
+    "1s": "detenha",
+    "2s": "detenhas",
+    "3s": "detenha",
+    "1p": "detenhamos",
+    "2p": "detenhais",
+    "3p": "detenham"
+  },
+  "PImpC": {
+    "1s": "detivesse",
+    "2s": "detivesses",
+    "3s": "detivesse",
+    "1p": "detivéssemos",
+    "2p": "detivésseis",
+    "3p": "detivessem"
+  },
+  "FutSC": {
+    "1s": "detiver",
+    "2s": "detiveres",
+    "3s": "detiver",
+    "1p": "detivermos",
+    "2p": "detiverdes",
+    "3p": "detiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "detém",
+    "3s": "detenha",
+    "1p": "detenhamos",
+    "2p": "detende",
+    "3p": "detenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não detenhas",
+    "3s": "não detenha",
+    "1p": "não detenhamos",
+    "2p": "não detenhais",
+    "3p": "não detenham"
+  },
+  "Part-ter": {
+    "": "detido"
+  },
+  "Part-ser": {
+    "ms": "detido",
+    "fs": "detida",
+    "mp": "detidos",
+    "fp": "detidas"
+  }
+}

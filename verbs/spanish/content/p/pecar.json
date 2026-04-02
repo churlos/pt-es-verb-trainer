@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pecar"
+  },
+  "Ger": {
+    "": "pecando"
+  },
+  "PresI": {
+    "1s": "peco",
+    "2s": "pecas",
+    "3s": "peca",
+    "1p": "pecamos",
+    "2p": "pecáis",
+    "3p": "pecan"
+  },
+  "PImpI": {
+    "1s": "pecaba",
+    "2s": "pecabas",
+    "3s": "pecaba",
+    "1p": "pecábamos",
+    "2p": "pecabais",
+    "3p": "pecaban"
+  },
+  "PPSI": {
+    "1s": "pequé",
+    "2s": "pecaste",
+    "3s": "pecó",
+    "1p": "pecamos",
+    "2p": "pecasteis",
+    "3p": "pecaron"
+  },
+  "FutSI": {
+    "1s": "pecaré",
+    "2s": "pecarás",
+    "3s": "pecará",
+    "1p": "pecaremos",
+    "2p": "pecaréis",
+    "3p": "pecarán"
+  },
+  "CondS": {
+    "1s": "pecaría",
+    "2s": "pecarías",
+    "3s": "pecaría",
+    "1p": "pecaríamos",
+    "2p": "pecaríais",
+    "3p": "pecarían"
+  },
+  "PresC": {
+    "1s": "peque",
+    "2s": "peques",
+    "3s": "peque",
+    "1p": "pequemos",
+    "2p": "pequéis",
+    "3p": "pequen"
+  },
+  "PMQPSI": {
+    "1s": "pecara",
+    "2s": "pecaras",
+    "3s": "pecara",
+    "1p": "pecáramos",
+    "2p": "pecarais",
+    "3p": "pecaran"
+  },
+  "PImpC": {
+    "1s": "pecase",
+    "2s": "pecases",
+    "3s": "pecase",
+    "1p": "pecásemos",
+    "2p": "pecaseis",
+    "3p": "pecasen"
+  },
+  "FutSC": {
+    "1s": "pecare",
+    "2s": "pecares",
+    "3s": "pecare",
+    "1p": "pecáremos",
+    "2p": "pecareis",
+    "3p": "pecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "peca",
+    "3s": "peque",
+    "1p": "pequemos",
+    "2p": "pecad",
+    "3p": "pequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no peques",
+    "3s": "no peque",
+    "1p": "no pequemos",
+    "2p": "no pequéis",
+    "3p": "no pequen"
+  },
+  "Part-ter": {
+    "": "pecado"
+  },
+  "Part-ser": {
+    "ms": "pecado",
+    "fs": "pecada",
+    "mp": "pecados",
+    "fp": "pecadas"
+  }
+}

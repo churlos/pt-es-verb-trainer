@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "adivinhar"
+  },
+  "InfP": {
+    "1s": "adivinhar",
+    "2s": "adivinhares",
+    "3s": "adivinhar",
+    "1p": "adivinharmos",
+    "2p": "adivinhardes",
+    "3p": "adivinharem"
+  },
+  "Ger": {
+    "": "adivinhando"
+  },
+  "PresI": {
+    "1s": "adivinho",
+    "2s": "adivinhas",
+    "3s": "adivinha",
+    "1p": "adivinhamos",
+    "2p": "adivinhais",
+    "3p": "adivinham"
+  },
+  "PImpI": {
+    "1s": "adivinhava",
+    "2s": "adivinhavas",
+    "3s": "adivinhava",
+    "1p": "adivinhávamos",
+    "2p": "adivinháveis",
+    "3p": "adivinhavam"
+  },
+  "PPSI": {
+    "1s": "adivinhei",
+    "2s": "adivinhaste",
+    "3s": "adivinhou",
+    "1p": "adivinhámos",
+    "2p": "adivinhastes",
+    "3p": "adivinharam"
+  },
+  "PMQPSI": {
+    "1s": "adivinhara",
+    "2s": "adivinharas",
+    "3s": "adivinhara",
+    "1p": "adivinháramos",
+    "2p": "adivinháreis",
+    "3p": "adivinharam"
+  },
+  "FutSI": {
+    "1s": "adivinharei",
+    "2s": "adivinharás",
+    "3s": "adivinhará",
+    "1p": "adivinharemos",
+    "2p": "adivinhareis",
+    "3p": "adivinharão"
+  },
+  "CondS": {
+    "1s": "adivinharia",
+    "2s": "adivinharias",
+    "3s": "adivinharia",
+    "1p": "adivinharíamos",
+    "2p": "adivinharíeis",
+    "3p": "adivinhariam"
+  },
+  "PresC": {
+    "1s": "adivinhe",
+    "2s": "adivinhes",
+    "3s": "adivinhe",
+    "1p": "adivinhemos",
+    "2p": "adivinheis",
+    "3p": "adivinhem"
+  },
+  "PImpC": {
+    "1s": "adivinhasse",
+    "2s": "adivinhasses",
+    "3s": "adivinhasse",
+    "1p": "adivinhássemos",
+    "2p": "adivinhásseis",
+    "3p": "adivinhassem"
+  },
+  "FutSC": {
+    "1s": "adivinhar",
+    "2s": "adivinhares",
+    "3s": "adivinhar",
+    "1p": "adivinharmos",
+    "2p": "adivinhardes",
+    "3p": "adivinharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adivinha",
+    "3s": "adivinhe",
+    "1p": "adivinhemos",
+    "2p": "adivinhai",
+    "3p": "adivinhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adivinhes",
+    "3s": "não adivinhe",
+    "1p": "não adivinhemos",
+    "2p": "não adivinheis",
+    "3p": "não adivinhem"
+  },
+  "Part-ter": {
+    "": "adivinhado"
+  },
+  "Part-ser": {
+    "ms": "adivinhado",
+    "fs": "adivinhada",
+    "mp": "adivinhados",
+    "fp": "adivinhadas"
+  }
+}

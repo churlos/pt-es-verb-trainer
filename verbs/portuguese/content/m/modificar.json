@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "modificar"
+  },
+  "InfP": {
+    "1s": "modificar",
+    "2s": "modificares",
+    "3s": "modificar",
+    "1p": "modificarmos",
+    "2p": "modificardes",
+    "3p": "modificarem"
+  },
+  "Ger": {
+    "": "modificando"
+  },
+  "PresI": {
+    "1s": "modifico",
+    "2s": "modificas",
+    "3s": "modifica",
+    "1p": "modificamos",
+    "2p": "modificais",
+    "3p": "modificam"
+  },
+  "PImpI": {
+    "1s": "modificava",
+    "2s": "modificavas",
+    "3s": "modificava",
+    "1p": "modificávamos",
+    "2p": "modificáveis",
+    "3p": "modificavam"
+  },
+  "PPSI": {
+    "1s": "modifiquei",
+    "2s": "modificaste",
+    "3s": "modificou",
+    "1p": "modificámos",
+    "2p": "modificastes",
+    "3p": "modificaram"
+  },
+  "PMQPSI": {
+    "1s": "modificara",
+    "2s": "modificaras",
+    "3s": "modificara",
+    "1p": "modificáramos",
+    "2p": "modificáreis",
+    "3p": "modificaram"
+  },
+  "FutSI": {
+    "1s": "modificarei",
+    "2s": "modificarás",
+    "3s": "modificará",
+    "1p": "modificaremos",
+    "2p": "modificareis",
+    "3p": "modificarão"
+  },
+  "CondS": {
+    "1s": "modificaria",
+    "2s": "modificarias",
+    "3s": "modificaria",
+    "1p": "modificaríamos",
+    "2p": "modificaríeis",
+    "3p": "modificariam"
+  },
+  "PresC": {
+    "1s": "modifique",
+    "2s": "modifiques",
+    "3s": "modifique",
+    "1p": "modifiquemos",
+    "2p": "modifiqueis",
+    "3p": "modifiquem"
+  },
+  "PImpC": {
+    "1s": "modificasse",
+    "2s": "modificasses",
+    "3s": "modificasse",
+    "1p": "modificássemos",
+    "2p": "modificásseis",
+    "3p": "modificassem"
+  },
+  "FutSC": {
+    "1s": "modificar",
+    "2s": "modificares",
+    "3s": "modificar",
+    "1p": "modificarmos",
+    "2p": "modificardes",
+    "3p": "modificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modifica",
+    "3s": "modifique",
+    "1p": "modifiquemos",
+    "2p": "modificai",
+    "3p": "modifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não modifiques",
+    "3s": "não modifique",
+    "1p": "não modifiquemos",
+    "2p": "não modifiqueis",
+    "3p": "não modifiquem"
+  },
+  "Part-ter": {
+    "": "modificado"
+  },
+  "Part-ser": {
+    "ms": "modificado",
+    "fs": "modificada",
+    "mp": "modificados",
+    "fp": "modificadas"
+  }
+}

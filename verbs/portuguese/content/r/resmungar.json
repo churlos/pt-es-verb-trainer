@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "resmungar"
+  },
+  "InfP": {
+    "1s": "resmungar",
+    "2s": "resmungares",
+    "3s": "resmungar",
+    "1p": "resmungarmos",
+    "2p": "resmungardes",
+    "3p": "resmungarem"
+  },
+  "Ger": {
+    "": "resmungando"
+  },
+  "PresI": {
+    "1s": "resmungo",
+    "2s": "resmungas",
+    "3s": "resmunga",
+    "1p": "resmungamos",
+    "2p": "resmungais",
+    "3p": "resmungam"
+  },
+  "PImpI": {
+    "1s": "resmungava",
+    "2s": "resmungavas",
+    "3s": "resmungava",
+    "1p": "resmungávamos",
+    "2p": "resmungáveis",
+    "3p": "resmungavam"
+  },
+  "PPSI": {
+    "1s": "resmunguei",
+    "2s": "resmungaste",
+    "3s": "resmungou",
+    "1p": "resmungámos",
+    "2p": "resmungastes",
+    "3p": "resmungaram"
+  },
+  "PMQPSI": {
+    "1s": "resmungara",
+    "2s": "resmungaras",
+    "3s": "resmungara",
+    "1p": "resmungáramos",
+    "2p": "resmungáreis",
+    "3p": "resmungaram"
+  },
+  "FutSI": {
+    "1s": "resmungarei",
+    "2s": "resmungarás",
+    "3s": "resmungará",
+    "1p": "resmungaremos",
+    "2p": "resmungareis",
+    "3p": "resmungarão"
+  },
+  "CondS": {
+    "1s": "resmungaria",
+    "2s": "resmungarias",
+    "3s": "resmungaria",
+    "1p": "resmungaríamos",
+    "2p": "resmungaríeis",
+    "3p": "resmungariam"
+  },
+  "PresC": {
+    "1s": "resmungue",
+    "2s": "resmungues",
+    "3s": "resmungue",
+    "1p": "resmunguemos",
+    "2p": "resmungueis",
+    "3p": "resmunguem"
+  },
+  "PImpC": {
+    "1s": "resmungasse",
+    "2s": "resmungasses",
+    "3s": "resmungasse",
+    "1p": "resmungássemos",
+    "2p": "resmungásseis",
+    "3p": "resmungassem"
+  },
+  "FutSC": {
+    "1s": "resmungar",
+    "2s": "resmungares",
+    "3s": "resmungar",
+    "1p": "resmungarmos",
+    "2p": "resmungardes",
+    "3p": "resmungarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resmunga",
+    "3s": "resmungue",
+    "1p": "resmunguemos",
+    "2p": "resmungai",
+    "3p": "resmunguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não resmungues",
+    "3s": "não resmungue",
+    "1p": "não resmunguemos",
+    "2p": "não resmungueis",
+    "3p": "não resmunguem"
+  },
+  "Part-ter": {
+    "": "resmungado"
+  },
+  "Part-ser": {
+    "ms": "resmungado",
+    "fs": "resmungada",
+    "mp": "resmungados",
+    "fp": "resmungadas"
+  }
+}

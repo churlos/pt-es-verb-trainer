@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "envigar"
+  },
+  "Ger": {
+    "": "envigando"
+  },
+  "PresI": {
+    "1s": "envigo",
+    "2s": "envigas",
+    "3s": "enviga",
+    "1p": "envigamos",
+    "2p": "envigáis",
+    "3p": "envigan"
+  },
+  "PImpI": {
+    "1s": "envigaba",
+    "2s": "envigabas",
+    "3s": "envigaba",
+    "1p": "envigábamos",
+    "2p": "envigabais",
+    "3p": "envigaban"
+  },
+  "PPSI": {
+    "1s": "envigué",
+    "2s": "envigaste",
+    "3s": "envigó",
+    "1p": "envigamos",
+    "2p": "envigasteis",
+    "3p": "envigaron"
+  },
+  "FutSI": {
+    "1s": "envigaré",
+    "2s": "envigarás",
+    "3s": "envigará",
+    "1p": "envigaremos",
+    "2p": "envigaréis",
+    "3p": "envigarán"
+  },
+  "CondS": {
+    "1s": "envigaría",
+    "2s": "envigarías",
+    "3s": "envigaría",
+    "1p": "envigaríamos",
+    "2p": "envigaríais",
+    "3p": "envigarían"
+  },
+  "PresC": {
+    "1s": "envigue",
+    "2s": "envigues",
+    "3s": "envigue",
+    "1p": "enviguemos",
+    "2p": "enviguéis",
+    "3p": "enviguen"
+  },
+  "PMQPSI": {
+    "1s": "envigara",
+    "2s": "envigaras",
+    "3s": "envigara",
+    "1p": "envigáramos",
+    "2p": "envigarais",
+    "3p": "envigaran"
+  },
+  "PImpC": {
+    "1s": "envigase",
+    "2s": "envigases",
+    "3s": "envigase",
+    "1p": "envigásemos",
+    "2p": "envigaseis",
+    "3p": "envigasen"
+  },
+  "FutSC": {
+    "1s": "envigare",
+    "2s": "envigares",
+    "3s": "envigare",
+    "1p": "envigáremos",
+    "2p": "envigareis",
+    "3p": "envigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enviga",
+    "3s": "envigue",
+    "1p": "enviguemos",
+    "2p": "envigad",
+    "3p": "enviguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envigues",
+    "3s": "no envigue",
+    "1p": "no enviguemos",
+    "2p": "no enviguéis",
+    "3p": "no enviguen"
+  },
+  "Part-ter": {
+    "": "envigado"
+  },
+  "Part-ser": {
+    "ms": "envigado",
+    "fs": "envigada",
+    "mp": "envigados",
+    "fp": "envigadas"
+  }
+}

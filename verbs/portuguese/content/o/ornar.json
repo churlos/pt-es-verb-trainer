@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ornar"
+  },
+  "InfP": {
+    "1s": "ornar",
+    "2s": "ornares",
+    "3s": "ornar",
+    "1p": "ornarmos",
+    "2p": "ornardes",
+    "3p": "ornarem"
+  },
+  "Ger": {
+    "": "ornando"
+  },
+  "PresI": {
+    "1s": "orno",
+    "2s": "ornas",
+    "3s": "orna",
+    "1p": "ornamos",
+    "2p": "ornais",
+    "3p": "ornam"
+  },
+  "PImpI": {
+    "1s": "ornava",
+    "2s": "ornavas",
+    "3s": "ornava",
+    "1p": "ornávamos",
+    "2p": "ornáveis",
+    "3p": "ornavam"
+  },
+  "PPSI": {
+    "1s": "ornei",
+    "2s": "ornaste",
+    "3s": "ornou",
+    "1p": "ornámos",
+    "2p": "ornastes",
+    "3p": "ornaram"
+  },
+  "PMQPSI": {
+    "1s": "ornara",
+    "2s": "ornaras",
+    "3s": "ornara",
+    "1p": "ornáramos",
+    "2p": "ornáreis",
+    "3p": "ornaram"
+  },
+  "FutSI": {
+    "1s": "ornarei",
+    "2s": "ornarás",
+    "3s": "ornará",
+    "1p": "ornaremos",
+    "2p": "ornareis",
+    "3p": "ornarão"
+  },
+  "CondS": {
+    "1s": "ornaria",
+    "2s": "ornarias",
+    "3s": "ornaria",
+    "1p": "ornaríamos",
+    "2p": "ornaríeis",
+    "3p": "ornariam"
+  },
+  "PresC": {
+    "1s": "orne",
+    "2s": "ornes",
+    "3s": "orne",
+    "1p": "ornemos",
+    "2p": "orneis",
+    "3p": "ornem"
+  },
+  "PImpC": {
+    "1s": "ornasse",
+    "2s": "ornasses",
+    "3s": "ornasse",
+    "1p": "ornássemos",
+    "2p": "ornásseis",
+    "3p": "ornassem"
+  },
+  "FutSC": {
+    "1s": "ornar",
+    "2s": "ornares",
+    "3s": "ornar",
+    "1p": "ornarmos",
+    "2p": "ornardes",
+    "3p": "ornarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "orna",
+    "3s": "orne",
+    "1p": "ornemos",
+    "2p": "ornai",
+    "3p": "ornem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ornes",
+    "3s": "não orne",
+    "1p": "não ornemos",
+    "2p": "não orneis",
+    "3p": "não ornem"
+  },
+  "Part-ter": {
+    "": "ornado"
+  },
+  "Part-ser": {
+    "ms": "ornado",
+    "fs": "ornada",
+    "mp": "ornados",
+    "fp": "ornadas"
+  }
+}

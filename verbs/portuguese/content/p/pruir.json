@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pruir"
+  },
+  "InfP": {
+    "1s": "pruir",
+    "2s": "pruíres",
+    "3s": "pruir",
+    "1p": "pruirmos",
+    "2p": "pruirdes",
+    "3p": "pruírem"
+  },
+  "Ger": {
+    "": "pruindo"
+  },
+  "PresI": {
+    "1s": "pruo",
+    "2s": "pruis",
+    "3s": "prui",
+    "1p": "pruímos",
+    "2p": "pruís",
+    "3p": "pruem"
+  },
+  "PImpI": {
+    "1s": "pruía",
+    "2s": "pruías",
+    "3s": "pruía",
+    "1p": "pruíamos",
+    "2p": "pruíeis",
+    "3p": "pruíam"
+  },
+  "PPSI": {
+    "1s": "pruí",
+    "2s": "pruíste",
+    "3s": "pruiu",
+    "1p": "pruímos",
+    "2p": "pruístes",
+    "3p": "pruíram"
+  },
+  "PMQPSI": {
+    "1s": "pruíra",
+    "2s": "pruíras",
+    "3s": "pruíra",
+    "1p": "pruíramos",
+    "2p": "pruíreis",
+    "3p": "pruíram"
+  },
+  "FutSI": {
+    "1s": "pruirei",
+    "2s": "pruirás",
+    "3s": "pruirá",
+    "1p": "pruiremos",
+    "2p": "pruireis",
+    "3p": "pruirão"
+  },
+  "CondS": {
+    "1s": "pruiria",
+    "2s": "pruirias",
+    "3s": "pruiria",
+    "1p": "pruiríamos",
+    "2p": "pruiríeis",
+    "3p": "pruiriam"
+  },
+  "PresC": {
+    "1s": "prua",
+    "2s": "pruas",
+    "3s": "prua",
+    "1p": "pruamos",
+    "2p": "pruais",
+    "3p": "pruam"
+  },
+  "PImpC": {
+    "1s": "pruísse",
+    "2s": "pruísses",
+    "3s": "pruísse",
+    "1p": "pruíssemos",
+    "2p": "pruísseis",
+    "3p": "pruíssem"
+  },
+  "FutSC": {
+    "1s": "pruir",
+    "2s": "pruíres",
+    "3s": "pruir",
+    "1p": "pruirmos",
+    "2p": "pruirdes",
+    "3p": "pruírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prui",
+    "3s": "prua",
+    "1p": "pruamos",
+    "2p": "pruí",
+    "3p": "pruam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pruas",
+    "3s": "não prua",
+    "1p": "não pruamos",
+    "2p": "não pruais",
+    "3p": "não pruam"
+  },
+  "Part-ter": {
+    "": "pruído"
+  },
+  "Part-ser": {
+    "ms": "pruído",
+    "fs": "pruída",
+    "mp": "pruídos",
+    "fp": "pruídas"
+  }
+}

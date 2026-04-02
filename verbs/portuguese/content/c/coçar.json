@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "coçar"
+  },
+  "InfP": {
+    "1s": "coçar",
+    "2s": "coçares",
+    "3s": "coçar",
+    "1p": "coçarmos",
+    "2p": "coçardes",
+    "3p": "coçarem"
+  },
+  "Ger": {
+    "": "coçando"
+  },
+  "PresI": {
+    "1s": "coço",
+    "2s": "coças",
+    "3s": "coça",
+    "1p": "coçamos",
+    "2p": "coçais",
+    "3p": "coçam"
+  },
+  "PImpI": {
+    "1s": "coçava",
+    "2s": "coçavas",
+    "3s": "coçava",
+    "1p": "coçávamos",
+    "2p": "coçáveis",
+    "3p": "coçavam"
+  },
+  "PPSI": {
+    "1s": "cocei",
+    "2s": "coçaste",
+    "3s": "coçou",
+    "1p": "coçámos",
+    "2p": "coçastes",
+    "3p": "coçaram"
+  },
+  "PMQPSI": {
+    "1s": "coçara",
+    "2s": "coçaras",
+    "3s": "coçara",
+    "1p": "coçáramos",
+    "2p": "coçáreis",
+    "3p": "coçaram"
+  },
+  "FutSI": {
+    "1s": "coçarei",
+    "2s": "coçarás",
+    "3s": "coçará",
+    "1p": "coçaremos",
+    "2p": "coçareis",
+    "3p": "coçarão"
+  },
+  "CondS": {
+    "1s": "coçaria",
+    "2s": "coçarias",
+    "3s": "coçaria",
+    "1p": "coçaríamos",
+    "2p": "coçaríeis",
+    "3p": "coçariam"
+  },
+  "PresC": {
+    "1s": "coce",
+    "2s": "coces",
+    "3s": "coce",
+    "1p": "cocemos",
+    "2p": "coceis",
+    "3p": "cocem"
+  },
+  "PImpC": {
+    "1s": "coçasse",
+    "2s": "coçasses",
+    "3s": "coçasse",
+    "1p": "coçássemos",
+    "2p": "coçásseis",
+    "3p": "coçassem"
+  },
+  "FutSC": {
+    "1s": "coçar",
+    "2s": "coçares",
+    "3s": "coçar",
+    "1p": "coçarmos",
+    "2p": "coçardes",
+    "3p": "coçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coça",
+    "3s": "coce",
+    "1p": "cocemos",
+    "2p": "coçai",
+    "3p": "cocem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coces",
+    "3s": "não coce",
+    "1p": "não cocemos",
+    "2p": "não coceis",
+    "3p": "não cocem"
+  },
+  "Part-ter": {
+    "": "coçado"
+  },
+  "Part-ser": {
+    "ms": "coçado",
+    "fs": "coçada",
+    "mp": "coçados",
+    "fp": "coçadas"
+  }
+}

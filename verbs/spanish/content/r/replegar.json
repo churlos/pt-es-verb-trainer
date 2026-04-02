@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "replegar"
+  },
+  "Ger": {
+    "": "replegando"
+  },
+  "PresI": {
+    "1s": "repliego",
+    "2s": "repliegas",
+    "3s": "repliega",
+    "1p": "replegamos",
+    "2p": "replegáis",
+    "3p": "repliegan"
+  },
+  "PImpI": {
+    "1s": "replegaba",
+    "2s": "replegabas",
+    "3s": "replegaba",
+    "1p": "replegábamos",
+    "2p": "replegabais",
+    "3p": "replegaban"
+  },
+  "PPSI": {
+    "1s": "replegué",
+    "2s": "replegaste",
+    "3s": "replegó",
+    "1p": "replegamos",
+    "2p": "replegasteis",
+    "3p": "replegaron"
+  },
+  "FutSI": {
+    "1s": "replegaré",
+    "2s": "replegarás",
+    "3s": "replegará",
+    "1p": "replegaremos",
+    "2p": "replegaréis",
+    "3p": "replegarán"
+  },
+  "CondS": {
+    "1s": "replegaría",
+    "2s": "replegarías",
+    "3s": "replegaría",
+    "1p": "replegaríamos",
+    "2p": "replegaríais",
+    "3p": "replegarían"
+  },
+  "PresC": {
+    "1s": "repliegue",
+    "2s": "repliegues",
+    "3s": "repliegue",
+    "1p": "repleguemos",
+    "2p": "repleguéis",
+    "3p": "replieguen"
+  },
+  "PMQPSI": {
+    "1s": "replegara",
+    "2s": "replegaras",
+    "3s": "replegara",
+    "1p": "replegáramos",
+    "2p": "replegarais",
+    "3p": "replegaran"
+  },
+  "PImpC": {
+    "1s": "replegase",
+    "2s": "replegases",
+    "3s": "replegase",
+    "1p": "replegásemos",
+    "2p": "replegaseis",
+    "3p": "replegasen"
+  },
+  "FutSC": {
+    "1s": "replegare",
+    "2s": "replegares",
+    "3s": "replegare",
+    "1p": "replegáremos",
+    "2p": "replegareis",
+    "3p": "replegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "repliega",
+    "3s": "repliegue",
+    "1p": "repleguemos",
+    "2p": "replegad",
+    "3p": "replieguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no repliegues",
+    "3s": "no repliegue",
+    "1p": "no repleguemos",
+    "2p": "no repleguéis",
+    "3p": "no replieguen"
+  },
+  "Part-ter": {
+    "": "replegado"
+  },
+  "Part-ser": {
+    "ms": "replegado",
+    "fs": "replegada",
+    "mp": "replegados",
+    "fp": "replegadas"
+  }
+}

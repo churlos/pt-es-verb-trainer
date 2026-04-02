@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "potencializar"
+  },
+  "Ger": {
+    "": "potencializando"
+  },
+  "PresI": {
+    "1s": "potencializo",
+    "2s": "potencializas",
+    "3s": "potencializa",
+    "1p": "potencializamos",
+    "2p": "potencializáis",
+    "3p": "potencializan"
+  },
+  "PImpI": {
+    "1s": "potencializaba",
+    "2s": "potencializabas",
+    "3s": "potencializaba",
+    "1p": "potencializábamos",
+    "2p": "potencializabais",
+    "3p": "potencializaban"
+  },
+  "PPSI": {
+    "1s": "potencialicé",
+    "2s": "potencializaste",
+    "3s": "potencializó",
+    "1p": "potencializamos",
+    "2p": "potencializasteis",
+    "3p": "potencializaron"
+  },
+  "FutSI": {
+    "1s": "potencializaré",
+    "2s": "potencializarás",
+    "3s": "potencializará",
+    "1p": "potencializaremos",
+    "2p": "potencializaréis",
+    "3p": "potencializarán"
+  },
+  "CondS": {
+    "1s": "potencializaría",
+    "2s": "potencializarías",
+    "3s": "potencializaría",
+    "1p": "potencializaríamos",
+    "2p": "potencializaríais",
+    "3p": "potencializarían"
+  },
+  "PresC": {
+    "1s": "potencialice",
+    "2s": "potencialices",
+    "3s": "potencialice",
+    "1p": "potencialicemos",
+    "2p": "potencialicéis",
+    "3p": "potencialicen"
+  },
+  "PMQPSI": {
+    "1s": "potencializara",
+    "2s": "potencializaras",
+    "3s": "potencializara",
+    "1p": "potencializáramos",
+    "2p": "potencializarais",
+    "3p": "potencializaran"
+  },
+  "PImpC": {
+    "1s": "potencializase",
+    "2s": "potencializases",
+    "3s": "potencializase",
+    "1p": "potencializásemos",
+    "2p": "potencializaseis",
+    "3p": "potencializasen"
+  },
+  "FutSC": {
+    "1s": "potencializare",
+    "2s": "potencializares",
+    "3s": "potencializare",
+    "1p": "potencializáremos",
+    "2p": "potencializareis",
+    "3p": "potencializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "potencializa",
+    "3s": "potencialice",
+    "1p": "potencialicemos",
+    "2p": "potencializad",
+    "3p": "potencialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no potencialices",
+    "3s": "no potencialice",
+    "1p": "no potencialicemos",
+    "2p": "no potencialicéis",
+    "3p": "no potencialicen"
+  },
+  "Part-ter": {
+    "": "potencializado"
+  },
+  "Part-ser": {
+    "ms": "potencializado",
+    "fs": "potencializada",
+    "mp": "potencializados",
+    "fp": "potencializadas"
+  }
+}

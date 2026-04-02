@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bancar"
+  },
+  "InfP": {
+    "1s": "bancar",
+    "2s": "bancares",
+    "3s": "bancar",
+    "1p": "bancarmos",
+    "2p": "bancardes",
+    "3p": "bancarem"
+  },
+  "Ger": {
+    "": "bancando"
+  },
+  "PresI": {
+    "1s": "banco",
+    "2s": "bancas",
+    "3s": "banca",
+    "1p": "bancamos",
+    "2p": "bancais",
+    "3p": "bancam"
+  },
+  "PImpI": {
+    "1s": "bancava",
+    "2s": "bancavas",
+    "3s": "bancava",
+    "1p": "bancávamos",
+    "2p": "bancáveis",
+    "3p": "bancavam"
+  },
+  "PPSI": {
+    "1s": "banquei",
+    "2s": "bancaste",
+    "3s": "bancou",
+    "1p": "bancámos",
+    "2p": "bancastes",
+    "3p": "bancaram"
+  },
+  "PMQPSI": {
+    "1s": "bancara",
+    "2s": "bancaras",
+    "3s": "bancara",
+    "1p": "bancáramos",
+    "2p": "bancáreis",
+    "3p": "bancaram"
+  },
+  "FutSI": {
+    "1s": "bancarei",
+    "2s": "bancarás",
+    "3s": "bancará",
+    "1p": "bancaremos",
+    "2p": "bancareis",
+    "3p": "bancarão"
+  },
+  "CondS": {
+    "1s": "bancaria",
+    "2s": "bancarias",
+    "3s": "bancaria",
+    "1p": "bancaríamos",
+    "2p": "bancaríeis",
+    "3p": "bancariam"
+  },
+  "PresC": {
+    "1s": "banque",
+    "2s": "banques",
+    "3s": "banque",
+    "1p": "banquemos",
+    "2p": "banqueis",
+    "3p": "banquem"
+  },
+  "PImpC": {
+    "1s": "bancasse",
+    "2s": "bancasses",
+    "3s": "bancasse",
+    "1p": "bancássemos",
+    "2p": "bancásseis",
+    "3p": "bancassem"
+  },
+  "FutSC": {
+    "1s": "bancar",
+    "2s": "bancares",
+    "3s": "bancar",
+    "1p": "bancarmos",
+    "2p": "bancardes",
+    "3p": "bancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "banca",
+    "3s": "banque",
+    "1p": "banquemos",
+    "2p": "bancai",
+    "3p": "banquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não banques",
+    "3s": "não banque",
+    "1p": "não banquemos",
+    "2p": "não banqueis",
+    "3p": "não banquem"
+  },
+  "Part-ter": {
+    "": "bancado"
+  },
+  "Part-ser": {
+    "ms": "bancado",
+    "fs": "bancada",
+    "mp": "bancados",
+    "fp": "bancadas"
+  }
+}

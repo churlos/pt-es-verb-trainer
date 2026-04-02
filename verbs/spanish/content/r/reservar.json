@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reservar"
+  },
+  "Ger": {
+    "": "reservando"
+  },
+  "PresI": {
+    "1s": "reservo",
+    "2s": "reservas",
+    "3s": "reserva",
+    "1p": "reservamos",
+    "2p": "reserváis",
+    "3p": "reservan"
+  },
+  "PImpI": {
+    "1s": "reservaba",
+    "2s": "reservabas",
+    "3s": "reservaba",
+    "1p": "reservábamos",
+    "2p": "reservabais",
+    "3p": "reservaban"
+  },
+  "PPSI": {
+    "1s": "reservé",
+    "2s": "reservaste",
+    "3s": "reservó",
+    "1p": "reservamos",
+    "2p": "reservasteis",
+    "3p": "reservaron"
+  },
+  "FutSI": {
+    "1s": "reservaré",
+    "2s": "reservarás",
+    "3s": "reservará",
+    "1p": "reservaremos",
+    "2p": "reservaréis",
+    "3p": "reservarán"
+  },
+  "CondS": {
+    "1s": "reservaría",
+    "2s": "reservarías",
+    "3s": "reservaría",
+    "1p": "reservaríamos",
+    "2p": "reservaríais",
+    "3p": "reservarían"
+  },
+  "PresC": {
+    "1s": "reserve",
+    "2s": "reserves",
+    "3s": "reserve",
+    "1p": "reservemos",
+    "2p": "reservéis",
+    "3p": "reserven"
+  },
+  "PMQPSI": {
+    "1s": "reservara",
+    "2s": "reservaras",
+    "3s": "reservara",
+    "1p": "reserváramos",
+    "2p": "reservarais",
+    "3p": "reservaran"
+  },
+  "PImpC": {
+    "1s": "reservase",
+    "2s": "reservases",
+    "3s": "reservase",
+    "1p": "reservásemos",
+    "2p": "reservaseis",
+    "3p": "reservasen"
+  },
+  "FutSC": {
+    "1s": "reservare",
+    "2s": "reservares",
+    "3s": "reservare",
+    "1p": "reserváremos",
+    "2p": "reservareis",
+    "3p": "reservaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reserva",
+    "3s": "reserve",
+    "1p": "reservemos",
+    "2p": "reservad",
+    "3p": "reserven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reserves",
+    "3s": "no reserve",
+    "1p": "no reservemos",
+    "2p": "no reservéis",
+    "3p": "no reserven"
+  },
+  "Part-ter": {
+    "": "reservado"
+  },
+  "Part-ser": {
+    "ms": "reservado",
+    "fs": "reservada",
+    "mp": "reservados",
+    "fp": "reservadas"
+  }
+}

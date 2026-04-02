@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "betar"
+  },
+  "InfP": {
+    "1s": "betar",
+    "2s": "betares",
+    "3s": "betar",
+    "1p": "betarmos",
+    "2p": "betardes",
+    "3p": "betarem"
+  },
+  "Ger": {
+    "": "betando"
+  },
+  "PresI": {
+    "1s": "beto",
+    "2s": "betas",
+    "3s": "beta",
+    "1p": "betamos",
+    "2p": "betais",
+    "3p": "betam"
+  },
+  "PImpI": {
+    "1s": "betava",
+    "2s": "betavas",
+    "3s": "betava",
+    "1p": "betávamos",
+    "2p": "betáveis",
+    "3p": "betavam"
+  },
+  "PPSI": {
+    "1s": "betei",
+    "2s": "betaste",
+    "3s": "betou",
+    "1p": "betámos",
+    "2p": "betastes",
+    "3p": "betaram"
+  },
+  "PMQPSI": {
+    "1s": "betara",
+    "2s": "betaras",
+    "3s": "betara",
+    "1p": "betáramos",
+    "2p": "betáreis",
+    "3p": "betaram"
+  },
+  "FutSI": {
+    "1s": "betarei",
+    "2s": "betarás",
+    "3s": "betará",
+    "1p": "betaremos",
+    "2p": "betareis",
+    "3p": "betarão"
+  },
+  "CondS": {
+    "1s": "betaria",
+    "2s": "betarias",
+    "3s": "betaria",
+    "1p": "betaríamos",
+    "2p": "betaríeis",
+    "3p": "betariam"
+  },
+  "PresC": {
+    "1s": "bete",
+    "2s": "betes",
+    "3s": "bete",
+    "1p": "betemos",
+    "2p": "beteis",
+    "3p": "betem"
+  },
+  "PImpC": {
+    "1s": "betasse",
+    "2s": "betasses",
+    "3s": "betasse",
+    "1p": "betássemos",
+    "2p": "betásseis",
+    "3p": "betassem"
+  },
+  "FutSC": {
+    "1s": "betar",
+    "2s": "betares",
+    "3s": "betar",
+    "1p": "betarmos",
+    "2p": "betardes",
+    "3p": "betarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "beta",
+    "3s": "bete",
+    "1p": "betemos",
+    "2p": "betai",
+    "3p": "betem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não betes",
+    "3s": "não bete",
+    "1p": "não betemos",
+    "2p": "não beteis",
+    "3p": "não betem"
+  },
+  "Part-ter": {
+    "": "betado"
+  },
+  "Part-ser": {
+    "ms": "betado",
+    "fs": "betada",
+    "mp": "betados",
+    "fp": "betadas"
+  }
+}

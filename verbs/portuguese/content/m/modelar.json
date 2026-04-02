@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "modelar"
+  },
+  "InfP": {
+    "1s": "modelar",
+    "2s": "modelares",
+    "3s": "modelar",
+    "1p": "modelarmos",
+    "2p": "modelardes",
+    "3p": "modelarem"
+  },
+  "Ger": {
+    "": "modelando"
+  },
+  "PresI": {
+    "1s": "modelo",
+    "2s": "modelas",
+    "3s": "modela",
+    "1p": "modelamos",
+    "2p": "modelais",
+    "3p": "modelam"
+  },
+  "PImpI": {
+    "1s": "modelava",
+    "2s": "modelavas",
+    "3s": "modelava",
+    "1p": "modelávamos",
+    "2p": "modeláveis",
+    "3p": "modelavam"
+  },
+  "PPSI": {
+    "1s": "modelei",
+    "2s": "modelaste",
+    "3s": "modelou",
+    "1p": "modelámos",
+    "2p": "modelastes",
+    "3p": "modelaram"
+  },
+  "PMQPSI": {
+    "1s": "modelara",
+    "2s": "modelaras",
+    "3s": "modelara",
+    "1p": "modeláramos",
+    "2p": "modeláreis",
+    "3p": "modelaram"
+  },
+  "FutSI": {
+    "1s": "modelarei",
+    "2s": "modelarás",
+    "3s": "modelará",
+    "1p": "modelaremos",
+    "2p": "modelareis",
+    "3p": "modelarão"
+  },
+  "CondS": {
+    "1s": "modelaria",
+    "2s": "modelarias",
+    "3s": "modelaria",
+    "1p": "modelaríamos",
+    "2p": "modelaríeis",
+    "3p": "modelariam"
+  },
+  "PresC": {
+    "1s": "modele",
+    "2s": "modeles",
+    "3s": "modele",
+    "1p": "modelemos",
+    "2p": "modeleis",
+    "3p": "modelem"
+  },
+  "PImpC": {
+    "1s": "modelasse",
+    "2s": "modelasses",
+    "3s": "modelasse",
+    "1p": "modelássemos",
+    "2p": "modelásseis",
+    "3p": "modelassem"
+  },
+  "FutSC": {
+    "1s": "modelar",
+    "2s": "modelares",
+    "3s": "modelar",
+    "1p": "modelarmos",
+    "2p": "modelardes",
+    "3p": "modelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modela",
+    "3s": "modele",
+    "1p": "modelemos",
+    "2p": "modelai",
+    "3p": "modelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não modeles",
+    "3s": "não modele",
+    "1p": "não modelemos",
+    "2p": "não modeleis",
+    "3p": "não modelem"
+  },
+  "Part-ter": {
+    "": "modelado"
+  },
+  "Part-ser": {
+    "ms": "modelado",
+    "fs": "modelada",
+    "mp": "modelados",
+    "fp": "modeladas"
+  }
+}

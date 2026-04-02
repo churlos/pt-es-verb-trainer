@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recargar"
+  },
+  "Ger": {
+    "": "recargando"
+  },
+  "PresI": {
+    "1s": "recargo",
+    "2s": "recargas",
+    "3s": "recarga",
+    "1p": "recargamos",
+    "2p": "recargáis",
+    "3p": "recargan"
+  },
+  "PImpI": {
+    "1s": "recargaba",
+    "2s": "recargabas",
+    "3s": "recargaba",
+    "1p": "recargábamos",
+    "2p": "recargabais",
+    "3p": "recargaban"
+  },
+  "PPSI": {
+    "1s": "recargué",
+    "2s": "recargaste",
+    "3s": "recargó",
+    "1p": "recargamos",
+    "2p": "recargasteis",
+    "3p": "recargaron"
+  },
+  "FutSI": {
+    "1s": "recargaré",
+    "2s": "recargarás",
+    "3s": "recargará",
+    "1p": "recargaremos",
+    "2p": "recargaréis",
+    "3p": "recargarán"
+  },
+  "CondS": {
+    "1s": "recargaría",
+    "2s": "recargarías",
+    "3s": "recargaría",
+    "1p": "recargaríamos",
+    "2p": "recargaríais",
+    "3p": "recargarían"
+  },
+  "PresC": {
+    "1s": "recargue",
+    "2s": "recargues",
+    "3s": "recargue",
+    "1p": "recarguemos",
+    "2p": "recarguéis",
+    "3p": "recarguen"
+  },
+  "PMQPSI": {
+    "1s": "recargara",
+    "2s": "recargaras",
+    "3s": "recargara",
+    "1p": "recargáramos",
+    "2p": "recargarais",
+    "3p": "recargaran"
+  },
+  "PImpC": {
+    "1s": "recargase",
+    "2s": "recargases",
+    "3s": "recargase",
+    "1p": "recargásemos",
+    "2p": "recargaseis",
+    "3p": "recargasen"
+  },
+  "FutSC": {
+    "1s": "recargare",
+    "2s": "recargares",
+    "3s": "recargare",
+    "1p": "recargáremos",
+    "2p": "recargareis",
+    "3p": "recargaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recarga",
+    "3s": "recargue",
+    "1p": "recarguemos",
+    "2p": "recargad",
+    "3p": "recarguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recargues",
+    "3s": "no recargue",
+    "1p": "no recarguemos",
+    "2p": "no recarguéis",
+    "3p": "no recarguen"
+  },
+  "Part-ter": {
+    "": "recargado"
+  },
+  "Part-ser": {
+    "ms": "recargado",
+    "fs": "recargada",
+    "mp": "recargados",
+    "fp": "recargadas"
+  }
+}

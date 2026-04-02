@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "comer"
+  },
+  "InfP": {
+    "1s": "comer",
+    "2s": "comeres",
+    "3s": "comer",
+    "1p": "comermos",
+    "2p": "comerdes",
+    "3p": "comerem"
+  },
+  "Ger": {
+    "": "comendo"
+  },
+  "PresI": {
+    "1s": "como",
+    "2s": "comes",
+    "3s": "come",
+    "1p": "comemos",
+    "2p": "comeis",
+    "3p": "comem"
+  },
+  "PImpI": {
+    "1s": "comia",
+    "2s": "comias",
+    "3s": "comia",
+    "1p": "comíamos",
+    "2p": "comíeis",
+    "3p": "comiam"
+  },
+  "PPSI": {
+    "1s": "comi",
+    "2s": "comeste",
+    "3s": "comeu",
+    "1p": "comemos",
+    "2p": "comestes",
+    "3p": "comeram"
+  },
+  "PMQPSI": {
+    "1s": "comera",
+    "2s": "comeras",
+    "3s": "comera",
+    "1p": "comêramos",
+    "2p": "comêreis",
+    "3p": "comeram"
+  },
+  "FutSI": {
+    "1s": "comerei",
+    "2s": "comerás",
+    "3s": "comerá",
+    "1p": "comeremos",
+    "2p": "comereis",
+    "3p": "comerão"
+  },
+  "CondS": {
+    "1s": "comeria",
+    "2s": "comerias",
+    "3s": "comeria",
+    "1p": "comeríamos",
+    "2p": "comeríeis",
+    "3p": "comeriam"
+  },
+  "PresC": {
+    "1s": "coma",
+    "2s": "comas",
+    "3s": "coma",
+    "1p": "comamos",
+    "2p": "comais",
+    "3p": "comam"
+  },
+  "PImpC": {
+    "1s": "comesse",
+    "2s": "comesses",
+    "3s": "comesse",
+    "1p": "comêssemos",
+    "2p": "comêsseis",
+    "3p": "comessem"
+  },
+  "FutSC": {
+    "1s": "comer",
+    "2s": "comeres",
+    "3s": "comer",
+    "1p": "comermos",
+    "2p": "comerdes",
+    "3p": "comerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "come",
+    "3s": "coma",
+    "1p": "comamos",
+    "2p": "comei",
+    "3p": "comam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não comas",
+    "3s": "não coma",
+    "1p": "não comamos",
+    "2p": "não comais",
+    "3p": "não comam"
+  },
+  "Part-ter": {
+    "": "comido"
+  },
+  "Part-ser": {
+    "ms": "comido",
+    "fs": "comida",
+    "mp": "comidos",
+    "fp": "comidas"
+  }
+}

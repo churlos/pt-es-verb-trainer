@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "transar"
+  },
+  "InfP": {
+    "1s": "transar",
+    "2s": "transares",
+    "3s": "transar",
+    "1p": "transarmos",
+    "2p": "transardes",
+    "3p": "transarem"
+  },
+  "Ger": {
+    "": "transando"
+  },
+  "PresI": {
+    "1s": "transo",
+    "2s": "transas",
+    "3s": "transa",
+    "1p": "transamos",
+    "2p": "transais",
+    "3p": "transam"
+  },
+  "PImpI": {
+    "1s": "transava",
+    "2s": "transavas",
+    "3s": "transava",
+    "1p": "transávamos",
+    "2p": "transáveis",
+    "3p": "transavam"
+  },
+  "PPSI": {
+    "1s": "transei",
+    "2s": "transaste",
+    "3s": "transou",
+    "1p": "transámos",
+    "2p": "transastes",
+    "3p": "transaram"
+  },
+  "PMQPSI": {
+    "1s": "transara",
+    "2s": "transaras",
+    "3s": "transara",
+    "1p": "transáramos",
+    "2p": "transáreis",
+    "3p": "transaram"
+  },
+  "FutSI": {
+    "1s": "transarei",
+    "2s": "transarás",
+    "3s": "transará",
+    "1p": "transaremos",
+    "2p": "transareis",
+    "3p": "transarão"
+  },
+  "CondS": {
+    "1s": "transaria",
+    "2s": "transarias",
+    "3s": "transaria",
+    "1p": "transaríamos",
+    "2p": "transaríeis",
+    "3p": "transariam"
+  },
+  "PresC": {
+    "1s": "transe",
+    "2s": "transes",
+    "3s": "transe",
+    "1p": "transemos",
+    "2p": "transeis",
+    "3p": "transem"
+  },
+  "PImpC": {
+    "1s": "transasse",
+    "2s": "transasses",
+    "3s": "transasse",
+    "1p": "transássemos",
+    "2p": "transásseis",
+    "3p": "transassem"
+  },
+  "FutSC": {
+    "1s": "transar",
+    "2s": "transares",
+    "3s": "transar",
+    "1p": "transarmos",
+    "2p": "transardes",
+    "3p": "transarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transa",
+    "3s": "transe",
+    "1p": "transemos",
+    "2p": "transai",
+    "3p": "transem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não transes",
+    "3s": "não transe",
+    "1p": "não transemos",
+    "2p": "não transeis",
+    "3p": "não transem"
+  },
+  "Part-ter": {
+    "": "transado"
+  },
+  "Part-ser": {
+    "ms": "transado",
+    "fs": "transada",
+    "mp": "transados",
+    "fp": "transadas"
+  }
+}

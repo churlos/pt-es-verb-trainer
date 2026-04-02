@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dissolver"
+  },
+  "InfP": {
+    "1s": "dissolver",
+    "2s": "dissolveres",
+    "3s": "dissolver",
+    "1p": "dissolvermos",
+    "2p": "dissolverdes",
+    "3p": "dissolverem"
+  },
+  "Ger": {
+    "": "dissolvendo"
+  },
+  "PresI": {
+    "1s": "dissolvo",
+    "2s": "dissolves",
+    "3s": "dissolve",
+    "1p": "dissolvemos",
+    "2p": "dissolveis",
+    "3p": "dissolvem"
+  },
+  "PImpI": {
+    "1s": "dissolvia",
+    "2s": "dissolvias",
+    "3s": "dissolvia",
+    "1p": "dissolvíamos",
+    "2p": "dissolvíeis",
+    "3p": "dissolviam"
+  },
+  "PPSI": {
+    "1s": "dissolvi",
+    "2s": "dissolveste",
+    "3s": "dissolveu",
+    "1p": "dissolvemos",
+    "2p": "dissolvestes",
+    "3p": "dissolveram"
+  },
+  "PMQPSI": {
+    "1s": "dissolvera",
+    "2s": "dissolveras",
+    "3s": "dissolvera",
+    "1p": "dissolvêramos",
+    "2p": "dissolvêreis",
+    "3p": "dissolveram"
+  },
+  "FutSI": {
+    "1s": "dissolverei",
+    "2s": "dissolverás",
+    "3s": "dissolverá",
+    "1p": "dissolveremos",
+    "2p": "dissolvereis",
+    "3p": "dissolverão"
+  },
+  "CondS": {
+    "1s": "dissolveria",
+    "2s": "dissolverias",
+    "3s": "dissolveria",
+    "1p": "dissolveríamos",
+    "2p": "dissolveríeis",
+    "3p": "dissolveriam"
+  },
+  "PresC": {
+    "1s": "dissolva",
+    "2s": "dissolvas",
+    "3s": "dissolva",
+    "1p": "dissolvamos",
+    "2p": "dissolvais",
+    "3p": "dissolvam"
+  },
+  "PImpC": {
+    "1s": "dissolvesse",
+    "2s": "dissolvesses",
+    "3s": "dissolvesse",
+    "1p": "dissolvêssemos",
+    "2p": "dissolvêsseis",
+    "3p": "dissolvessem"
+  },
+  "FutSC": {
+    "1s": "dissolver",
+    "2s": "dissolveres",
+    "3s": "dissolver",
+    "1p": "dissolvermos",
+    "2p": "dissolverdes",
+    "3p": "dissolverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dissolve",
+    "3s": "dissolva",
+    "1p": "dissolvamos",
+    "2p": "dissolvei",
+    "3p": "dissolvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dissolvas",
+    "3s": "não dissolva",
+    "1p": "não dissolvamos",
+    "2p": "não dissolvais",
+    "3p": "não dissolvam"
+  },
+  "Part-ter": {
+    "": "dissolvido"
+  },
+  "Part-ser": {
+    "ms": "dissolvido",
+    "fs": "dissolvida",
+    "mp": "dissolvidos",
+    "fp": "dissolvidas"
+  }
+}

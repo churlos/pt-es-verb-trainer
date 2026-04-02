@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rocar"
+  },
+  "InfP": {
+    "1s": "rocar",
+    "2s": "rocares",
+    "3s": "rocar",
+    "1p": "rocarmos",
+    "2p": "rocardes",
+    "3p": "rocarem"
+  },
+  "Ger": {
+    "": "rocando"
+  },
+  "PresI": {
+    "1s": "roco",
+    "2s": "rocas",
+    "3s": "roca",
+    "1p": "rocamos",
+    "2p": "rocais",
+    "3p": "rocam"
+  },
+  "PImpI": {
+    "1s": "rocava",
+    "2s": "rocavas",
+    "3s": "rocava",
+    "1p": "rocávamos",
+    "2p": "rocáveis",
+    "3p": "rocavam"
+  },
+  "PPSI": {
+    "1s": "roquei",
+    "2s": "rocaste",
+    "3s": "rocou",
+    "1p": "rocámos",
+    "2p": "rocastes",
+    "3p": "rocaram"
+  },
+  "PMQPSI": {
+    "1s": "rocara",
+    "2s": "rocaras",
+    "3s": "rocara",
+    "1p": "rocáramos",
+    "2p": "rocáreis",
+    "3p": "rocaram"
+  },
+  "FutSI": {
+    "1s": "rocarei",
+    "2s": "rocarás",
+    "3s": "rocará",
+    "1p": "rocaremos",
+    "2p": "rocareis",
+    "3p": "rocarão"
+  },
+  "CondS": {
+    "1s": "rocaria",
+    "2s": "rocarias",
+    "3s": "rocaria",
+    "1p": "rocaríamos",
+    "2p": "rocaríeis",
+    "3p": "rocariam"
+  },
+  "PresC": {
+    "1s": "roque",
+    "2s": "roques",
+    "3s": "roque",
+    "1p": "roquemos",
+    "2p": "roqueis",
+    "3p": "roquem"
+  },
+  "PImpC": {
+    "1s": "rocasse",
+    "2s": "rocasses",
+    "3s": "rocasse",
+    "1p": "rocássemos",
+    "2p": "rocásseis",
+    "3p": "rocassem"
+  },
+  "FutSC": {
+    "1s": "rocar",
+    "2s": "rocares",
+    "3s": "rocar",
+    "1p": "rocarmos",
+    "2p": "rocardes",
+    "3p": "rocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "roca",
+    "3s": "roque",
+    "1p": "roquemos",
+    "2p": "rocai",
+    "3p": "roquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não roques",
+    "3s": "não roque",
+    "1p": "não roquemos",
+    "2p": "não roqueis",
+    "3p": "não roquem"
+  },
+  "Part-ter": {
+    "": "rocado"
+  },
+  "Part-ser": {
+    "ms": "rocado",
+    "fs": "rocada",
+    "mp": "rocados",
+    "fp": "rocadas"
+  }
+}

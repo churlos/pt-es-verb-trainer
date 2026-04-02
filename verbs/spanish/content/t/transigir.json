@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transigir"
+  },
+  "Ger": {
+    "": "transigiendo"
+  },
+  "PresI": {
+    "1s": "transijo",
+    "2s": "transiges",
+    "3s": "transige",
+    "1p": "transigimos",
+    "2p": "transigís",
+    "3p": "transigen"
+  },
+  "PImpI": {
+    "1s": "transigía",
+    "2s": "transigías",
+    "3s": "transigía",
+    "1p": "transigíamos",
+    "2p": "transigíais",
+    "3p": "transigían"
+  },
+  "PPSI": {
+    "1s": "transigí",
+    "2s": "transigiste",
+    "3s": "transigió",
+    "1p": "transigimos",
+    "2p": "transigisteis",
+    "3p": "transigieron"
+  },
+  "FutSI": {
+    "1s": "transigiré",
+    "2s": "transigirás",
+    "3s": "transigirá",
+    "1p": "transigiremos",
+    "2p": "transigiréis",
+    "3p": "transigirán"
+  },
+  "CondS": {
+    "1s": "transigiría",
+    "2s": "transigirías",
+    "3s": "transigiría",
+    "1p": "transigiríamos",
+    "2p": "transigiríais",
+    "3p": "transigirían"
+  },
+  "PresC": {
+    "1s": "transija",
+    "2s": "transijas",
+    "3s": "transija",
+    "1p": "transijamos",
+    "2p": "transijáis",
+    "3p": "transijan"
+  },
+  "PMQPSI": {
+    "1s": "transigiera",
+    "2s": "transigieras",
+    "3s": "transigiera",
+    "1p": "transigiéramos",
+    "2p": "transigierais",
+    "3p": "transigieran"
+  },
+  "PImpC": {
+    "1s": "transigiese",
+    "2s": "transigieses",
+    "3s": "transigiese",
+    "1p": "transigiésemos",
+    "2p": "transigieseis",
+    "3p": "transigiesen"
+  },
+  "FutSC": {
+    "1s": "transigiere",
+    "2s": "transigieres",
+    "3s": "transigiere",
+    "1p": "transigiéremos",
+    "2p": "transigiereis",
+    "3p": "transigieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transige",
+    "3s": "transija",
+    "1p": "transijamos",
+    "2p": "transigid",
+    "3p": "transijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transijas",
+    "3s": "no transija",
+    "1p": "no transijamos",
+    "2p": "no transijáis",
+    "3p": "no transijan"
+  },
+  "Part-ter": {
+    "": "transigido"
+  },
+  "Part-ser": {
+    "ms": "transigido",
+    "fs": "transigida",
+    "mp": "transigidos",
+    "fp": "transigidas"
+  }
+}

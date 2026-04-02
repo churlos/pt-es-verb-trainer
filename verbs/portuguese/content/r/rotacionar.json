@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rotacionar"
+  },
+  "InfP": {
+    "1s": "rotacionar",
+    "2s": "rotacionares",
+    "3s": "rotacionar",
+    "1p": "rotacionarmos",
+    "2p": "rotacionardes",
+    "3p": "rotacionarem"
+  },
+  "Ger": {
+    "": "rotacionando"
+  },
+  "PresI": {
+    "1s": "rotaciono",
+    "2s": "rotacionas",
+    "3s": "rotaciona",
+    "1p": "rotacionamos",
+    "2p": "rotacionais",
+    "3p": "rotacionam"
+  },
+  "PImpI": {
+    "1s": "rotacionava",
+    "2s": "rotacionavas",
+    "3s": "rotacionava",
+    "1p": "rotacionávamos",
+    "2p": "rotacionáveis",
+    "3p": "rotacionavam"
+  },
+  "PPSI": {
+    "1s": "rotacionei",
+    "2s": "rotacionaste",
+    "3s": "rotacionou",
+    "1p": "rotacionámos",
+    "2p": "rotacionastes",
+    "3p": "rotacionaram"
+  },
+  "PMQPSI": {
+    "1s": "rotacionara",
+    "2s": "rotacionaras",
+    "3s": "rotacionara",
+    "1p": "rotacionáramos",
+    "2p": "rotacionáreis",
+    "3p": "rotacionaram"
+  },
+  "FutSI": {
+    "1s": "rotacionarei",
+    "2s": "rotacionarás",
+    "3s": "rotacionará",
+    "1p": "rotacionaremos",
+    "2p": "rotacionareis",
+    "3p": "rotacionarão"
+  },
+  "CondS": {
+    "1s": "rotacionaria",
+    "2s": "rotacionarias",
+    "3s": "rotacionaria",
+    "1p": "rotacionaríamos",
+    "2p": "rotacionaríeis",
+    "3p": "rotacionariam"
+  },
+  "PresC": {
+    "1s": "rotacione",
+    "2s": "rotaciones",
+    "3s": "rotacione",
+    "1p": "rotacionemos",
+    "2p": "rotacioneis",
+    "3p": "rotacionem"
+  },
+  "PImpC": {
+    "1s": "rotacionasse",
+    "2s": "rotacionasses",
+    "3s": "rotacionasse",
+    "1p": "rotacionássemos",
+    "2p": "rotacionásseis",
+    "3p": "rotacionassem"
+  },
+  "FutSC": {
+    "1s": "rotacionar",
+    "2s": "rotacionares",
+    "3s": "rotacionar",
+    "1p": "rotacionarmos",
+    "2p": "rotacionardes",
+    "3p": "rotacionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rotaciona",
+    "3s": "rotacione",
+    "1p": "rotacionemos",
+    "2p": "rotacionai",
+    "3p": "rotacionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rotaciones",
+    "3s": "não rotacione",
+    "1p": "não rotacionemos",
+    "2p": "não rotacioneis",
+    "3p": "não rotacionem"
+  },
+  "Part-ter": {
+    "": "rotacionado"
+  },
+  "Part-ser": {
+    "ms": "rotacionado",
+    "fs": "rotacionada",
+    "mp": "rotacionados",
+    "fp": "rotacionadas"
+  }
+}

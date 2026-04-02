@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deparar"
+  },
+  "InfP": {
+    "1s": "deparar",
+    "2s": "deparares",
+    "3s": "deparar",
+    "1p": "depararmos",
+    "2p": "deparardes",
+    "3p": "depararem"
+  },
+  "Ger": {
+    "": "deparando"
+  },
+  "PresI": {
+    "1s": "deparo",
+    "2s": "deparas",
+    "3s": "depara",
+    "1p": "deparamos",
+    "2p": "deparais",
+    "3p": "deparam"
+  },
+  "PImpI": {
+    "1s": "deparava",
+    "2s": "deparavas",
+    "3s": "deparava",
+    "1p": "deparávamos",
+    "2p": "deparáveis",
+    "3p": "deparavam"
+  },
+  "PPSI": {
+    "1s": "deparei",
+    "2s": "deparaste",
+    "3s": "deparou",
+    "1p": "deparámos",
+    "2p": "deparastes",
+    "3p": "depararam"
+  },
+  "PMQPSI": {
+    "1s": "deparara",
+    "2s": "depararas",
+    "3s": "deparara",
+    "1p": "deparáramos",
+    "2p": "deparáreis",
+    "3p": "depararam"
+  },
+  "FutSI": {
+    "1s": "depararei",
+    "2s": "depararás",
+    "3s": "deparará",
+    "1p": "depararemos",
+    "2p": "deparareis",
+    "3p": "depararão"
+  },
+  "CondS": {
+    "1s": "depararia",
+    "2s": "depararias",
+    "3s": "depararia",
+    "1p": "depararíamos",
+    "2p": "depararíeis",
+    "3p": "deparariam"
+  },
+  "PresC": {
+    "1s": "depare",
+    "2s": "depares",
+    "3s": "depare",
+    "1p": "deparemos",
+    "2p": "depareis",
+    "3p": "deparem"
+  },
+  "PImpC": {
+    "1s": "deparasse",
+    "2s": "deparasses",
+    "3s": "deparasse",
+    "1p": "deparássemos",
+    "2p": "deparásseis",
+    "3p": "deparassem"
+  },
+  "FutSC": {
+    "1s": "deparar",
+    "2s": "deparares",
+    "3s": "deparar",
+    "1p": "depararmos",
+    "2p": "deparardes",
+    "3p": "depararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "depara",
+    "3s": "depare",
+    "1p": "deparemos",
+    "2p": "deparai",
+    "3p": "deparem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não depares",
+    "3s": "não depare",
+    "1p": "não deparemos",
+    "2p": "não depareis",
+    "3p": "não deparem"
+  },
+  "Part-ter": {
+    "": "deparado"
+  },
+  "Part-ser": {
+    "ms": "deparado",
+    "fs": "deparada",
+    "mp": "deparados",
+    "fp": "deparadas"
+  }
+}

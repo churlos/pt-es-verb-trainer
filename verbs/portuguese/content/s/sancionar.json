@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sancionar"
+  },
+  "InfP": {
+    "1s": "sancionar",
+    "2s": "sancionares",
+    "3s": "sancionar",
+    "1p": "sancionarmos",
+    "2p": "sancionardes",
+    "3p": "sancionarem"
+  },
+  "Ger": {
+    "": "sancionando"
+  },
+  "PresI": {
+    "1s": "sanciono",
+    "2s": "sancionas",
+    "3s": "sanciona",
+    "1p": "sancionamos",
+    "2p": "sancionais",
+    "3p": "sancionam"
+  },
+  "PImpI": {
+    "1s": "sancionava",
+    "2s": "sancionavas",
+    "3s": "sancionava",
+    "1p": "sancionávamos",
+    "2p": "sancionáveis",
+    "3p": "sancionavam"
+  },
+  "PPSI": {
+    "1s": "sancionei",
+    "2s": "sancionaste",
+    "3s": "sancionou",
+    "1p": "sancionámos",
+    "2p": "sancionastes",
+    "3p": "sancionaram"
+  },
+  "PMQPSI": {
+    "1s": "sancionara",
+    "2s": "sancionaras",
+    "3s": "sancionara",
+    "1p": "sancionáramos",
+    "2p": "sancionáreis",
+    "3p": "sancionaram"
+  },
+  "FutSI": {
+    "1s": "sancionarei",
+    "2s": "sancionarás",
+    "3s": "sancionará",
+    "1p": "sancionaremos",
+    "2p": "sancionareis",
+    "3p": "sancionarão"
+  },
+  "CondS": {
+    "1s": "sancionaria",
+    "2s": "sancionarias",
+    "3s": "sancionaria",
+    "1p": "sancionaríamos",
+    "2p": "sancionaríeis",
+    "3p": "sancionariam"
+  },
+  "PresC": {
+    "1s": "sancione",
+    "2s": "sanciones",
+    "3s": "sancione",
+    "1p": "sancionemos",
+    "2p": "sancioneis",
+    "3p": "sancionem"
+  },
+  "PImpC": {
+    "1s": "sancionasse",
+    "2s": "sancionasses",
+    "3s": "sancionasse",
+    "1p": "sancionássemos",
+    "2p": "sancionásseis",
+    "3p": "sancionassem"
+  },
+  "FutSC": {
+    "1s": "sancionar",
+    "2s": "sancionares",
+    "3s": "sancionar",
+    "1p": "sancionarmos",
+    "2p": "sancionardes",
+    "3p": "sancionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sanciona",
+    "3s": "sancione",
+    "1p": "sancionemos",
+    "2p": "sancionai",
+    "3p": "sancionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sanciones",
+    "3s": "não sancione",
+    "1p": "não sancionemos",
+    "2p": "não sancioneis",
+    "3p": "não sancionem"
+  },
+  "Part-ter": {
+    "": "sancionado"
+  },
+  "Part-ser": {
+    "ms": "sancionado",
+    "fs": "sancionada",
+    "mp": "sancionados",
+    "fp": "sancionadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "versar"
+  },
+  "Ger": {
+    "": "versando"
+  },
+  "PresI": {
+    "1s": "verso",
+    "2s": "versas",
+    "3s": "versa",
+    "1p": "versamos",
+    "2p": "versáis",
+    "3p": "versan"
+  },
+  "PImpI": {
+    "1s": "versaba",
+    "2s": "versabas",
+    "3s": "versaba",
+    "1p": "versábamos",
+    "2p": "versabais",
+    "3p": "versaban"
+  },
+  "PPSI": {
+    "1s": "versé",
+    "2s": "versaste",
+    "3s": "versó",
+    "1p": "versamos",
+    "2p": "versasteis",
+    "3p": "versaron"
+  },
+  "FutSI": {
+    "1s": "versaré",
+    "2s": "versarás",
+    "3s": "versará",
+    "1p": "versaremos",
+    "2p": "versaréis",
+    "3p": "versarán"
+  },
+  "CondS": {
+    "1s": "versaría",
+    "2s": "versarías",
+    "3s": "versaría",
+    "1p": "versaríamos",
+    "2p": "versaríais",
+    "3p": "versarían"
+  },
+  "PresC": {
+    "1s": "verse",
+    "2s": "verses",
+    "3s": "verse",
+    "1p": "versemos",
+    "2p": "verséis",
+    "3p": "versen"
+  },
+  "PMQPSI": {
+    "1s": "versara",
+    "2s": "versaras",
+    "3s": "versara",
+    "1p": "versáramos",
+    "2p": "versarais",
+    "3p": "versaran"
+  },
+  "PImpC": {
+    "1s": "versase",
+    "2s": "versases",
+    "3s": "versase",
+    "1p": "versásemos",
+    "2p": "versaseis",
+    "3p": "versasen"
+  },
+  "FutSC": {
+    "1s": "versare",
+    "2s": "versares",
+    "3s": "versare",
+    "1p": "versáremos",
+    "2p": "versareis",
+    "3p": "versaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "versa",
+    "3s": "verse",
+    "1p": "versemos",
+    "2p": "versad",
+    "3p": "versen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no verses",
+    "3s": "no verse",
+    "1p": "no versemos",
+    "2p": "no verséis",
+    "3p": "no versen"
+  },
+  "Part-ter": {
+    "": "versado"
+  },
+  "Part-ser": {
+    "ms": "versado",
+    "fs": "versada",
+    "mp": "versados",
+    "fp": "versadas"
+  }
+}

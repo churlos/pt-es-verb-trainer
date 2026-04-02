@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emborcar"
+  },
+  "InfP": {
+    "1s": "emborcar",
+    "2s": "emborcares",
+    "3s": "emborcar",
+    "1p": "emborcarmos",
+    "2p": "emborcardes",
+    "3p": "emborcarem"
+  },
+  "Ger": {
+    "": "emborcando"
+  },
+  "PresI": {
+    "1s": "emborco",
+    "2s": "emborcas",
+    "3s": "emborca",
+    "1p": "emborcamos",
+    "2p": "emborcais",
+    "3p": "emborcam"
+  },
+  "PImpI": {
+    "1s": "emborcava",
+    "2s": "emborcavas",
+    "3s": "emborcava",
+    "1p": "emborcávamos",
+    "2p": "emborcáveis",
+    "3p": "emborcavam"
+  },
+  "PPSI": {
+    "1s": "emborcei",
+    "2s": "emborcaste",
+    "3s": "emborcou",
+    "1p": "emborcámos",
+    "2p": "emborcastes",
+    "3p": "emborcaram"
+  },
+  "PMQPSI": {
+    "1s": "emborcara",
+    "2s": "emborcaras",
+    "3s": "emborcara",
+    "1p": "emborcáramos",
+    "2p": "emborcáreis",
+    "3p": "emborcaram"
+  },
+  "FutSI": {
+    "1s": "emborcarei",
+    "2s": "emborcarás",
+    "3s": "emborcará",
+    "1p": "emborcaremos",
+    "2p": "emborcareis",
+    "3p": "emborcarão"
+  },
+  "CondS": {
+    "1s": "emborcaria",
+    "2s": "emborcarias",
+    "3s": "emborcaria",
+    "1p": "emborcaríamos",
+    "2p": "emborcaríeis",
+    "3p": "emborcariam"
+  },
+  "PresC": {
+    "1s": "emborce",
+    "2s": "emborces",
+    "3s": "emborce",
+    "1p": "emborcemos",
+    "2p": "emborceis",
+    "3p": "emborcem"
+  },
+  "PImpC": {
+    "1s": "emborcasse",
+    "2s": "emborcasses",
+    "3s": "emborcasse",
+    "1p": "emborcássemos",
+    "2p": "emborcásseis",
+    "3p": "emborcassem"
+  },
+  "FutSC": {
+    "1s": "emborcar",
+    "2s": "emborcares",
+    "3s": "emborcar",
+    "1p": "emborcarmos",
+    "2p": "emborcardes",
+    "3p": "emborcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emborca",
+    "3s": "emborce",
+    "1p": "emborcemos",
+    "2p": "emborcai",
+    "3p": "emborcem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emborces",
+    "3s": "não emborce",
+    "1p": "não emborcemos",
+    "2p": "não emborceis",
+    "3p": "não emborcem"
+  },
+  "Part-ter": {
+    "": "emborcado"
+  },
+  "Part-ser": {
+    "ms": "emborcado",
+    "fs": "emborcada",
+    "mp": "emborcados",
+    "fp": "emborcadas"
+  }
+}

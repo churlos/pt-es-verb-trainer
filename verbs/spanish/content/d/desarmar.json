@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desarmar"
+  },
+  "Ger": {
+    "": "desarmando"
+  },
+  "PresI": {
+    "1s": "desarmo",
+    "2s": "desarmas",
+    "3s": "desarma",
+    "1p": "desarmamos",
+    "2p": "desarmáis",
+    "3p": "desarman"
+  },
+  "PImpI": {
+    "1s": "desarmaba",
+    "2s": "desarmabas",
+    "3s": "desarmaba",
+    "1p": "desarmábamos",
+    "2p": "desarmabais",
+    "3p": "desarmaban"
+  },
+  "PPSI": {
+    "1s": "desarmé",
+    "2s": "desarmaste",
+    "3s": "desarmó",
+    "1p": "desarmamos",
+    "2p": "desarmasteis",
+    "3p": "desarmaron"
+  },
+  "FutSI": {
+    "1s": "desarmaré",
+    "2s": "desarmarás",
+    "3s": "desarmará",
+    "1p": "desarmaremos",
+    "2p": "desarmaréis",
+    "3p": "desarmarán"
+  },
+  "CondS": {
+    "1s": "desarmaría",
+    "2s": "desarmarías",
+    "3s": "desarmaría",
+    "1p": "desarmaríamos",
+    "2p": "desarmaríais",
+    "3p": "desarmarían"
+  },
+  "PresC": {
+    "1s": "desarme",
+    "2s": "desarmes",
+    "3s": "desarme",
+    "1p": "desarmemos",
+    "2p": "desarméis",
+    "3p": "desarmen"
+  },
+  "PMQPSI": {
+    "1s": "desarmara",
+    "2s": "desarmaras",
+    "3s": "desarmara",
+    "1p": "desarmáramos",
+    "2p": "desarmarais",
+    "3p": "desarmaran"
+  },
+  "PImpC": {
+    "1s": "desarmase",
+    "2s": "desarmases",
+    "3s": "desarmase",
+    "1p": "desarmásemos",
+    "2p": "desarmaseis",
+    "3p": "desarmasen"
+  },
+  "FutSC": {
+    "1s": "desarmare",
+    "2s": "desarmares",
+    "3s": "desarmare",
+    "1p": "desarmáremos",
+    "2p": "desarmareis",
+    "3p": "desarmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desarma",
+    "3s": "desarme",
+    "1p": "desarmemos",
+    "2p": "desarmad",
+    "3p": "desarmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desarmes",
+    "3s": "no desarme",
+    "1p": "no desarmemos",
+    "2p": "no desarméis",
+    "3p": "no desarmen"
+  },
+  "Part-ter": {
+    "": "desarmado"
+  },
+  "Part-ser": {
+    "ms": "desarmado",
+    "fs": "desarmada",
+    "mp": "desarmados",
+    "fp": "desarmadas"
+  }
+}

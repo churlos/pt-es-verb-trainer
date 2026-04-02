@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "clonar"
+  },
+  "InfP": {
+    "1s": "clonar",
+    "2s": "clonares",
+    "3s": "clonar",
+    "1p": "clonarmos",
+    "2p": "clonardes",
+    "3p": "clonarem"
+  },
+  "Ger": {
+    "": "clonando"
+  },
+  "PresI": {
+    "1s": "clono",
+    "2s": "clonas",
+    "3s": "clona",
+    "1p": "clonamos",
+    "2p": "clonais",
+    "3p": "clonam"
+  },
+  "PImpI": {
+    "1s": "clonava",
+    "2s": "clonavas",
+    "3s": "clonava",
+    "1p": "clonávamos",
+    "2p": "clonáveis",
+    "3p": "clonavam"
+  },
+  "PPSI": {
+    "1s": "clonei",
+    "2s": "clonaste",
+    "3s": "clonou",
+    "1p": "clonámos",
+    "2p": "clonastes",
+    "3p": "clonaram"
+  },
+  "PMQPSI": {
+    "1s": "clonara",
+    "2s": "clonaras",
+    "3s": "clonara",
+    "1p": "clonáramos",
+    "2p": "clonáreis",
+    "3p": "clonaram"
+  },
+  "FutSI": {
+    "1s": "clonarei",
+    "2s": "clonarás",
+    "3s": "clonará",
+    "1p": "clonaremos",
+    "2p": "clonareis",
+    "3p": "clonarão"
+  },
+  "CondS": {
+    "1s": "clonaria",
+    "2s": "clonarias",
+    "3s": "clonaria",
+    "1p": "clonaríamos",
+    "2p": "clonaríeis",
+    "3p": "clonariam"
+  },
+  "PresC": {
+    "1s": "clone",
+    "2s": "clones",
+    "3s": "clone",
+    "1p": "clonemos",
+    "2p": "cloneis",
+    "3p": "clonem"
+  },
+  "PImpC": {
+    "1s": "clonasse",
+    "2s": "clonasses",
+    "3s": "clonasse",
+    "1p": "clonássemos",
+    "2p": "clonásseis",
+    "3p": "clonassem"
+  },
+  "FutSC": {
+    "1s": "clonar",
+    "2s": "clonares",
+    "3s": "clonar",
+    "1p": "clonarmos",
+    "2p": "clonardes",
+    "3p": "clonarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clona",
+    "3s": "clone",
+    "1p": "clonemos",
+    "2p": "clonai",
+    "3p": "clonem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não clones",
+    "3s": "não clone",
+    "1p": "não clonemos",
+    "2p": "não cloneis",
+    "3p": "não clonem"
+  },
+  "Part-ter": {
+    "": "clonado"
+  },
+  "Part-ser": {
+    "ms": "clonado",
+    "fs": "clonada",
+    "mp": "clonados",
+    "fp": "clonadas"
+  }
+}

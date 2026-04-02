@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "penetrar"
+  },
+  "InfP": {
+    "1s": "penetrar",
+    "2s": "penetrares",
+    "3s": "penetrar",
+    "1p": "penetrarmos",
+    "2p": "penetrardes",
+    "3p": "penetrarem"
+  },
+  "Ger": {
+    "": "penetrando"
+  },
+  "PresI": {
+    "1s": "penetro",
+    "2s": "penetras",
+    "3s": "penetra",
+    "1p": "penetramos",
+    "2p": "penetrais",
+    "3p": "penetram"
+  },
+  "PImpI": {
+    "1s": "penetrava",
+    "2s": "penetravas",
+    "3s": "penetrava",
+    "1p": "penetrávamos",
+    "2p": "penetráveis",
+    "3p": "penetravam"
+  },
+  "PPSI": {
+    "1s": "penetrei",
+    "2s": "penetraste",
+    "3s": "penetrou",
+    "1p": "penetrámos",
+    "2p": "penetrastes",
+    "3p": "penetraram"
+  },
+  "PMQPSI": {
+    "1s": "penetrara",
+    "2s": "penetraras",
+    "3s": "penetrara",
+    "1p": "penetráramos",
+    "2p": "penetráreis",
+    "3p": "penetraram"
+  },
+  "FutSI": {
+    "1s": "penetrarei",
+    "2s": "penetrarás",
+    "3s": "penetrará",
+    "1p": "penetraremos",
+    "2p": "penetrareis",
+    "3p": "penetrarão"
+  },
+  "CondS": {
+    "1s": "penetraria",
+    "2s": "penetrarias",
+    "3s": "penetraria",
+    "1p": "penetraríamos",
+    "2p": "penetraríeis",
+    "3p": "penetrariam"
+  },
+  "PresC": {
+    "1s": "penetre",
+    "2s": "penetres",
+    "3s": "penetre",
+    "1p": "penetremos",
+    "2p": "penetreis",
+    "3p": "penetrem"
+  },
+  "PImpC": {
+    "1s": "penetrasse",
+    "2s": "penetrasses",
+    "3s": "penetrasse",
+    "1p": "penetrássemos",
+    "2p": "penetrásseis",
+    "3p": "penetrassem"
+  },
+  "FutSC": {
+    "1s": "penetrar",
+    "2s": "penetrares",
+    "3s": "penetrar",
+    "1p": "penetrarmos",
+    "2p": "penetrardes",
+    "3p": "penetrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "penetra",
+    "3s": "penetre",
+    "1p": "penetremos",
+    "2p": "penetrai",
+    "3p": "penetrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não penetres",
+    "3s": "não penetre",
+    "1p": "não penetremos",
+    "2p": "não penetreis",
+    "3p": "não penetrem"
+  },
+  "Part-ter": {
+    "": "penetrado"
+  },
+  "Part-ser": {
+    "ms": "penetrado",
+    "fs": "penetrada",
+    "mp": "penetrados",
+    "fp": "penetradas"
+  }
+}

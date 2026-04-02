@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amalucar"
+  },
+  "InfP": {
+    "1s": "amalucar",
+    "2s": "amalucares",
+    "3s": "amalucar",
+    "1p": "amalucarmos",
+    "2p": "amalucardes",
+    "3p": "amalucarem"
+  },
+  "Ger": {
+    "": "amalucando"
+  },
+  "PresI": {
+    "1s": "amaluco",
+    "2s": "amalucas",
+    "3s": "amaluca",
+    "1p": "amalucamos",
+    "2p": "amalucais",
+    "3p": "amalucam"
+  },
+  "PImpI": {
+    "1s": "amalucava",
+    "2s": "amalucavas",
+    "3s": "amalucava",
+    "1p": "amalucávamos",
+    "2p": "amalucáveis",
+    "3p": "amalucavam"
+  },
+  "PPSI": {
+    "1s": "amaluquei",
+    "2s": "amalucaste",
+    "3s": "amalucou",
+    "1p": "amalucámos",
+    "2p": "amalucastes",
+    "3p": "amalucaram"
+  },
+  "PMQPSI": {
+    "1s": "amalucara",
+    "2s": "amalucaras",
+    "3s": "amalucara",
+    "1p": "amalucáramos",
+    "2p": "amalucáreis",
+    "3p": "amalucaram"
+  },
+  "FutSI": {
+    "1s": "amalucarei",
+    "2s": "amalucarás",
+    "3s": "amalucará",
+    "1p": "amalucaremos",
+    "2p": "amalucareis",
+    "3p": "amalucarão"
+  },
+  "CondS": {
+    "1s": "amalucaria",
+    "2s": "amalucarias",
+    "3s": "amalucaria",
+    "1p": "amalucaríamos",
+    "2p": "amalucaríeis",
+    "3p": "amalucariam"
+  },
+  "PresC": {
+    "1s": "amaluque",
+    "2s": "amaluques",
+    "3s": "amaluque",
+    "1p": "amaluquemos",
+    "2p": "amaluqueis",
+    "3p": "amaluquem"
+  },
+  "PImpC": {
+    "1s": "amalucasse",
+    "2s": "amalucasses",
+    "3s": "amalucasse",
+    "1p": "amalucássemos",
+    "2p": "amalucásseis",
+    "3p": "amalucassem"
+  },
+  "FutSC": {
+    "1s": "amalucar",
+    "2s": "amalucares",
+    "3s": "amalucar",
+    "1p": "amalucarmos",
+    "2p": "amalucardes",
+    "3p": "amalucarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amaluca",
+    "3s": "amaluque",
+    "1p": "amaluquemos",
+    "2p": "amalucai",
+    "3p": "amaluquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amaluques",
+    "3s": "não amaluque",
+    "1p": "não amaluquemos",
+    "2p": "não amaluqueis",
+    "3p": "não amaluquem"
+  },
+  "Part-ter": {
+    "": "amalucado"
+  },
+  "Part-ser": {
+    "ms": "amalucado",
+    "fs": "amalucada",
+    "mp": "amalucados",
+    "fp": "amalucadas"
+  }
+}

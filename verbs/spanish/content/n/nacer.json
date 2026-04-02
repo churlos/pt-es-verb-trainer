@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "nacer"
+  },
+  "Ger": {
+    "": "naciendo"
+  },
+  "PresI": {
+    "1s": "nazco",
+    "2s": "naces",
+    "3s": "nace",
+    "1p": "nacemos",
+    "2p": "nacéis",
+    "3p": "nacen"
+  },
+  "PImpI": {
+    "1s": "nacía",
+    "2s": "nacías",
+    "3s": "nacía",
+    "1p": "nacíamos",
+    "2p": "nacíais",
+    "3p": "nacían"
+  },
+  "PPSI": {
+    "1s": "nací",
+    "2s": "naciste",
+    "3s": "nació",
+    "1p": "nacimos",
+    "2p": "nacisteis",
+    "3p": "nacieron"
+  },
+  "FutSI": {
+    "1s": "naceré",
+    "2s": "nacerás",
+    "3s": "nacerá",
+    "1p": "naceremos",
+    "2p": "naceréis",
+    "3p": "nacerán"
+  },
+  "CondS": {
+    "1s": "nacería",
+    "2s": "nacerías",
+    "3s": "nacería",
+    "1p": "naceríamos",
+    "2p": "naceríais",
+    "3p": "nacerían"
+  },
+  "PresC": {
+    "1s": "nazca",
+    "2s": "nazcas",
+    "3s": "nazca",
+    "1p": "nazcamos",
+    "2p": "nazcáis",
+    "3p": "nazcan"
+  },
+  "PMQPSI": {
+    "1s": "naciera",
+    "2s": "nacieras",
+    "3s": "naciera",
+    "1p": "naciéramos",
+    "2p": "nacierais",
+    "3p": "nacieran"
+  },
+  "PImpC": {
+    "1s": "naciese",
+    "2s": "nacieses",
+    "3s": "naciese",
+    "1p": "naciésemos",
+    "2p": "nacieseis",
+    "3p": "naciesen"
+  },
+  "FutSC": {
+    "1s": "naciere",
+    "2s": "nacieres",
+    "3s": "naciere",
+    "1p": "naciéremos",
+    "2p": "naciereis",
+    "3p": "nacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nace",
+    "3s": "nazca",
+    "1p": "nazcamos",
+    "2p": "naced",
+    "3p": "nazcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no nazcas",
+    "3s": "no nazca",
+    "1p": "no nazcamos",
+    "2p": "no nazcáis",
+    "3p": "no nazcan"
+  },
+  "Part-ter": {
+    "": "nacido"
+  },
+  "Part-ser": {
+    "ms": "nacido",
+    "fs": "nacida",
+    "mp": "nacidos",
+    "fp": "nacidas"
+  }
+}

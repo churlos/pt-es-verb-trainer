@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "empellar"
+  },
+  "Ger": {
+    "": "empellando"
+  },
+  "PresI": {
+    "1s": "empello",
+    "2s": "empellas",
+    "3s": "empella",
+    "1p": "empellamos",
+    "2p": "empelláis",
+    "3p": "empellan"
+  },
+  "PImpI": {
+    "1s": "empellaba",
+    "2s": "empellabas",
+    "3s": "empellaba",
+    "1p": "empellábamos",
+    "2p": "empellabais",
+    "3p": "empellaban"
+  },
+  "PPSI": {
+    "1s": "empellé",
+    "2s": "empellaste",
+    "3s": "empelló",
+    "1p": "empellamos",
+    "2p": "empellasteis",
+    "3p": "empellaron"
+  },
+  "FutSI": {
+    "1s": "empellaré",
+    "2s": "empellarás",
+    "3s": "empellará",
+    "1p": "empellaremos",
+    "2p": "empellaréis",
+    "3p": "empellarán"
+  },
+  "CondS": {
+    "1s": "empellaría",
+    "2s": "empellarías",
+    "3s": "empellaría",
+    "1p": "empellaríamos",
+    "2p": "empellaríais",
+    "3p": "empellarían"
+  },
+  "PresC": {
+    "1s": "empelle",
+    "2s": "empelles",
+    "3s": "empelle",
+    "1p": "empellemos",
+    "2p": "empelléis",
+    "3p": "empellen"
+  },
+  "PMQPSI": {
+    "1s": "empellara",
+    "2s": "empellaras",
+    "3s": "empellara",
+    "1p": "empelláramos",
+    "2p": "empellarais",
+    "3p": "empellaran"
+  },
+  "PImpC": {
+    "1s": "empellase",
+    "2s": "empellases",
+    "3s": "empellase",
+    "1p": "empellásemos",
+    "2p": "empellaseis",
+    "3p": "empellasen"
+  },
+  "FutSC": {
+    "1s": "empellare",
+    "2s": "empellares",
+    "3s": "empellare",
+    "1p": "empelláremos",
+    "2p": "empellareis",
+    "3p": "empellaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empella",
+    "3s": "empelle",
+    "1p": "empellemos",
+    "2p": "empellad",
+    "3p": "empellen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no empelles",
+    "3s": "no empelle",
+    "1p": "no empellemos",
+    "2p": "no empelléis",
+    "3p": "no empellen"
+  },
+  "Part-ter": {
+    "": "empellado"
+  },
+  "Part-ser": {
+    "ms": "empellado",
+    "fs": "empellada",
+    "mp": "empellados",
+    "fp": "empelladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "experimentar"
+  },
+  "InfP": {
+    "1s": "experimentar",
+    "2s": "experimentares",
+    "3s": "experimentar",
+    "1p": "experimentarmos",
+    "2p": "experimentardes",
+    "3p": "experimentarem"
+  },
+  "Ger": {
+    "": "experimentando"
+  },
+  "PresI": {
+    "1s": "experimento",
+    "2s": "experimentas",
+    "3s": "experimenta",
+    "1p": "experimentamos",
+    "2p": "experimentais",
+    "3p": "experimentam"
+  },
+  "PImpI": {
+    "1s": "experimentava",
+    "2s": "experimentavas",
+    "3s": "experimentava",
+    "1p": "experimentávamos",
+    "2p": "experimentáveis",
+    "3p": "experimentavam"
+  },
+  "PPSI": {
+    "1s": "experimentei",
+    "2s": "experimentaste",
+    "3s": "experimentou",
+    "1p": "experimentámos",
+    "2p": "experimentastes",
+    "3p": "experimentaram"
+  },
+  "PMQPSI": {
+    "1s": "experimentara",
+    "2s": "experimentaras",
+    "3s": "experimentara",
+    "1p": "experimentáramos",
+    "2p": "experimentáreis",
+    "3p": "experimentaram"
+  },
+  "FutSI": {
+    "1s": "experimentarei",
+    "2s": "experimentarás",
+    "3s": "experimentará",
+    "1p": "experimentaremos",
+    "2p": "experimentareis",
+    "3p": "experimentarão"
+  },
+  "CondS": {
+    "1s": "experimentaria",
+    "2s": "experimentarias",
+    "3s": "experimentaria",
+    "1p": "experimentaríamos",
+    "2p": "experimentaríeis",
+    "3p": "experimentariam"
+  },
+  "PresC": {
+    "1s": "experimente",
+    "2s": "experimentes",
+    "3s": "experimente",
+    "1p": "experimentemos",
+    "2p": "experimenteis",
+    "3p": "experimentem"
+  },
+  "PImpC": {
+    "1s": "experimentasse",
+    "2s": "experimentasses",
+    "3s": "experimentasse",
+    "1p": "experimentássemos",
+    "2p": "experimentásseis",
+    "3p": "experimentassem"
+  },
+  "FutSC": {
+    "1s": "experimentar",
+    "2s": "experimentares",
+    "3s": "experimentar",
+    "1p": "experimentarmos",
+    "2p": "experimentardes",
+    "3p": "experimentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "experimenta",
+    "3s": "experimente",
+    "1p": "experimentemos",
+    "2p": "experimentai",
+    "3p": "experimentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não experimentes",
+    "3s": "não experimente",
+    "1p": "não experimentemos",
+    "2p": "não experimenteis",
+    "3p": "não experimentem"
+  },
+  "Part-ter": {
+    "": "experimentado"
+  },
+  "Part-ser": {
+    "ms": "experimentado",
+    "fs": "experimentada",
+    "mp": "experimentados",
+    "fp": "experimentadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reter"
+  },
+  "InfP": {
+    "1s": "reter",
+    "2s": "reteres",
+    "3s": "reter",
+    "1p": "retermos",
+    "2p": "reterdes",
+    "3p": "reterem"
+  },
+  "Ger": {
+    "": "retendo"
+  },
+  "PresI": {
+    "1s": "retenho",
+    "2s": "reténs",
+    "3s": "retém",
+    "1p": "retemos",
+    "2p": "retendes",
+    "3p": "retêm"
+  },
+  "PImpI": {
+    "1s": "retinha",
+    "2s": "retinhas",
+    "3s": "retinha",
+    "1p": "retínhamos",
+    "2p": "retínheis",
+    "3p": "retinham"
+  },
+  "PPSI": {
+    "1s": "retive",
+    "2s": "retiveste",
+    "3s": "reteve",
+    "1p": "retivemos",
+    "2p": "retivestes",
+    "3p": "retiveram"
+  },
+  "PMQPSI": {
+    "1s": "retivera",
+    "2s": "retiveras",
+    "3s": "retivera",
+    "1p": "retivéramos",
+    "2p": "retivéreis",
+    "3p": "retiveram"
+  },
+  "FutSI": {
+    "1s": "reterei",
+    "2s": "reterás",
+    "3s": "reterá",
+    "1p": "reteremos",
+    "2p": "retereis",
+    "3p": "reterão"
+  },
+  "CondS": {
+    "1s": "reteria",
+    "2s": "reterias",
+    "3s": "reteria",
+    "1p": "reteríamos",
+    "2p": "reteríeis",
+    "3p": "reteriam"
+  },
+  "PresC": {
+    "1s": "retenha",
+    "2s": "retenhas",
+    "3s": "retenha",
+    "1p": "retenhamos",
+    "2p": "retenhais",
+    "3p": "retenham"
+  },
+  "PImpC": {
+    "1s": "retivesse",
+    "2s": "retivesses",
+    "3s": "retivesse",
+    "1p": "retivéssemos",
+    "2p": "retivésseis",
+    "3p": "retivessem"
+  },
+  "FutSC": {
+    "1s": "retiver",
+    "2s": "retiveres",
+    "3s": "retiver",
+    "1p": "retivermos",
+    "2p": "retiverdes",
+    "3p": "retiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retém",
+    "3s": "retenha",
+    "1p": "retenhamos",
+    "2p": "retende",
+    "3p": "retenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não retenhas",
+    "3s": "não retenha",
+    "1p": "não retenhamos",
+    "2p": "não retenhais",
+    "3p": "não retenham"
+  },
+  "Part-ter": {
+    "": "retido"
+  },
+  "Part-ser": {
+    "ms": "retido",
+    "fs": "retida",
+    "mp": "retidos",
+    "fp": "retidas"
+  }
+}

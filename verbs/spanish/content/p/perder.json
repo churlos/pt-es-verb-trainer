@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perder"
+  },
+  "Ger": {
+    "": "perdiendo"
+  },
+  "PresI": {
+    "1s": "pierdo",
+    "2s": "pierdes",
+    "3s": "pierde",
+    "1p": "perdemos",
+    "2p": "perdéis",
+    "3p": "pierden"
+  },
+  "PImpI": {
+    "1s": "perdía",
+    "2s": "perdías",
+    "3s": "perdía",
+    "1p": "perdíamos",
+    "2p": "perdíais",
+    "3p": "perdían"
+  },
+  "PPSI": {
+    "1s": "perdí",
+    "2s": "perdiste",
+    "3s": "perdió",
+    "1p": "perdimos",
+    "2p": "perdisteis",
+    "3p": "perdieron"
+  },
+  "FutSI": {
+    "1s": "perderé",
+    "2s": "perderás",
+    "3s": "perderá",
+    "1p": "perderemos",
+    "2p": "perderéis",
+    "3p": "perderán"
+  },
+  "CondS": {
+    "1s": "perdería",
+    "2s": "perderías",
+    "3s": "perdería",
+    "1p": "perderíamos",
+    "2p": "perderíais",
+    "3p": "perderían"
+  },
+  "PresC": {
+    "1s": "pierda",
+    "2s": "pierdas",
+    "3s": "pierda",
+    "1p": "perdamos",
+    "2p": "perdáis",
+    "3p": "pierdan"
+  },
+  "PMQPSI": {
+    "1s": "perdiera",
+    "2s": "perdieras",
+    "3s": "perdiera",
+    "1p": "perdiéramos",
+    "2p": "perdierais",
+    "3p": "perdieran"
+  },
+  "PImpC": {
+    "1s": "perdiese",
+    "2s": "perdieses",
+    "3s": "perdiese",
+    "1p": "perdiésemos",
+    "2p": "perdieseis",
+    "3p": "perdiesen"
+  },
+  "FutSC": {
+    "1s": "perdiere",
+    "2s": "perdieres",
+    "3s": "perdiere",
+    "1p": "perdiéremos",
+    "2p": "perdiereis",
+    "3p": "perdieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pierde",
+    "3s": "pierda",
+    "1p": "perdamos",
+    "2p": "perded",
+    "3p": "pierdan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pierdas",
+    "3s": "no pierda",
+    "1p": "no perdamos",
+    "2p": "no perdáis",
+    "3p": "no pierdan"
+  },
+  "Part-ter": {
+    "": "perdido"
+  },
+  "Part-ser": {
+    "ms": "perdido",
+    "fs": "perdida",
+    "mp": "perdidos",
+    "fp": "perdidas"
+  }
+}

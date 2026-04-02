@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "clamorear"
+  },
+  "Ger": {
+    "": "clamoreando"
+  },
+  "PresI": {
+    "1s": "clamoreo",
+    "2s": "clamoreas",
+    "3s": "clamorea",
+    "1p": "clamoreamos",
+    "2p": "clamoreáis",
+    "3p": "clamorean"
+  },
+  "PImpI": {
+    "1s": "clamoreaba",
+    "2s": "clamoreabas",
+    "3s": "clamoreaba",
+    "1p": "clamoreábamos",
+    "2p": "clamoreabais",
+    "3p": "clamoreaban"
+  },
+  "PPSI": {
+    "1s": "clamoreé",
+    "2s": "clamoreaste",
+    "3s": "clamoreó",
+    "1p": "clamoreamos",
+    "2p": "clamoreasteis",
+    "3p": "clamorearon"
+  },
+  "FutSI": {
+    "1s": "clamorearé",
+    "2s": "clamorearás",
+    "3s": "clamoreará",
+    "1p": "clamorearemos",
+    "2p": "clamorearéis",
+    "3p": "clamorearán"
+  },
+  "CondS": {
+    "1s": "clamorearía",
+    "2s": "clamorearías",
+    "3s": "clamorearía",
+    "1p": "clamorearíamos",
+    "2p": "clamorearíais",
+    "3p": "clamorearían"
+  },
+  "PresC": {
+    "1s": "clamoree",
+    "2s": "clamorees",
+    "3s": "clamoree",
+    "1p": "clamoreemos",
+    "2p": "clamoreéis",
+    "3p": "clamoreen"
+  },
+  "PMQPSI": {
+    "1s": "clamoreara",
+    "2s": "clamorearas",
+    "3s": "clamoreara",
+    "1p": "clamoreáramos",
+    "2p": "clamorearais",
+    "3p": "clamorearan"
+  },
+  "PImpC": {
+    "1s": "clamorease",
+    "2s": "clamoreases",
+    "3s": "clamorease",
+    "1p": "clamoreásemos",
+    "2p": "clamoreaseis",
+    "3p": "clamoreasen"
+  },
+  "FutSC": {
+    "1s": "clamoreare",
+    "2s": "clamoreares",
+    "3s": "clamoreare",
+    "1p": "clamoreáremos",
+    "2p": "clamoreareis",
+    "3p": "clamorearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clamorea",
+    "3s": "clamoree",
+    "1p": "clamoreemos",
+    "2p": "clamoread",
+    "3p": "clamoreen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no clamorees",
+    "3s": "no clamoree",
+    "1p": "no clamoreemos",
+    "2p": "no clamoreéis",
+    "3p": "no clamoreen"
+  },
+  "Part-ter": {
+    "": "clamoreado"
+  },
+  "Part-ser": {
+    "ms": "clamoreado",
+    "fs": "clamoreada",
+    "mp": "clamoreados",
+    "fp": "clamoreadas"
+  }
+}

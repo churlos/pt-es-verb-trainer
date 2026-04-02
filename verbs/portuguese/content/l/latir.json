@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "latir"
+  },
+  "InfP": {
+    "1s": "latir",
+    "2s": "latires",
+    "3s": "latir",
+    "1p": "latirmos",
+    "2p": "latirdes",
+    "3p": "latirem"
+  },
+  "Ger": {
+    "": "latindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "lates",
+    "3s": "late",
+    "1p": "latimos",
+    "2p": "latis",
+    "3p": "latem"
+  },
+  "PImpI": {
+    "1s": "latia",
+    "2s": "latias",
+    "3s": "latia",
+    "1p": "latíamos",
+    "2p": "latíeis",
+    "3p": "latiam"
+  },
+  "PPSI": {
+    "1s": "lati",
+    "2s": "latiste",
+    "3s": "latiu",
+    "1p": "latimos",
+    "2p": "latistes",
+    "3p": "latiram"
+  },
+  "PMQPSI": {
+    "1s": "latira",
+    "2s": "latiras",
+    "3s": "latira",
+    "1p": "latíramos",
+    "2p": "latíreis",
+    "3p": "latiram"
+  },
+  "FutSI": {
+    "1s": "latirei",
+    "2s": "latirás",
+    "3s": "latirá",
+    "1p": "latiremos",
+    "2p": "latireis",
+    "3p": "latirão"
+  },
+  "CondS": {
+    "1s": "latiria",
+    "2s": "latirias",
+    "3s": "latiria",
+    "1p": "latiríamos",
+    "2p": "latiríeis",
+    "3p": "latiriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "latisse",
+    "2s": "latisses",
+    "3s": "latisse",
+    "1p": "latíssemos",
+    "2p": "latísseis",
+    "3p": "latissem"
+  },
+  "FutSC": {
+    "1s": "latir",
+    "2s": "latires",
+    "3s": "latir",
+    "1p": "latirmos",
+    "2p": "latirdes",
+    "3p": "latirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lateNormally defective:latas",
+    "3s": "",
+    "1p": "",
+    "2p": "latiNormally defective:latais",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "latido"
+  },
+  "Part-ser": {
+    "ms": "latido",
+    "fs": "latida",
+    "mp": "latidos",
+    "fp": "latidas"
+  }
+}

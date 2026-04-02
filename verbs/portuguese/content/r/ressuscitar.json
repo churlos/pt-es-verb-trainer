@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ressuscitar"
+  },
+  "InfP": {
+    "1s": "ressuscitar",
+    "2s": "ressuscitares",
+    "3s": "ressuscitar",
+    "1p": "ressuscitarmos",
+    "2p": "ressuscitardes",
+    "3p": "ressuscitarem"
+  },
+  "Ger": {
+    "": "ressuscitando"
+  },
+  "PresI": {
+    "1s": "ressuscito",
+    "2s": "ressuscitas",
+    "3s": "ressuscita",
+    "1p": "ressuscitamos",
+    "2p": "ressuscitais",
+    "3p": "ressuscitam"
+  },
+  "PImpI": {
+    "1s": "ressuscitava",
+    "2s": "ressuscitavas",
+    "3s": "ressuscitava",
+    "1p": "ressuscitávamos",
+    "2p": "ressuscitáveis",
+    "3p": "ressuscitavam"
+  },
+  "PPSI": {
+    "1s": "ressuscitei",
+    "2s": "ressuscitaste",
+    "3s": "ressuscitou",
+    "1p": "ressuscitámos",
+    "2p": "ressuscitastes",
+    "3p": "ressuscitaram"
+  },
+  "PMQPSI": {
+    "1s": "ressuscitara",
+    "2s": "ressuscitaras",
+    "3s": "ressuscitara",
+    "1p": "ressuscitáramos",
+    "2p": "ressuscitáreis",
+    "3p": "ressuscitaram"
+  },
+  "FutSI": {
+    "1s": "ressuscitarei",
+    "2s": "ressuscitarás",
+    "3s": "ressuscitará",
+    "1p": "ressuscitaremos",
+    "2p": "ressuscitareis",
+    "3p": "ressuscitarão"
+  },
+  "CondS": {
+    "1s": "ressuscitaria",
+    "2s": "ressuscitarias",
+    "3s": "ressuscitaria",
+    "1p": "ressuscitaríamos",
+    "2p": "ressuscitaríeis",
+    "3p": "ressuscitariam"
+  },
+  "PresC": {
+    "1s": "ressuscite",
+    "2s": "ressuscites",
+    "3s": "ressuscite",
+    "1p": "ressuscitemos",
+    "2p": "ressusciteis",
+    "3p": "ressuscitem"
+  },
+  "PImpC": {
+    "1s": "ressuscitasse",
+    "2s": "ressuscitasses",
+    "3s": "ressuscitasse",
+    "1p": "ressuscitássemos",
+    "2p": "ressuscitásseis",
+    "3p": "ressuscitassem"
+  },
+  "FutSC": {
+    "1s": "ressuscitar",
+    "2s": "ressuscitares",
+    "3s": "ressuscitar",
+    "1p": "ressuscitarmos",
+    "2p": "ressuscitardes",
+    "3p": "ressuscitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ressuscita",
+    "3s": "ressuscite",
+    "1p": "ressuscitemos",
+    "2p": "ressuscitai",
+    "3p": "ressuscitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ressuscites",
+    "3s": "não ressuscite",
+    "1p": "não ressuscitemos",
+    "2p": "não ressusciteis",
+    "3p": "não ressuscitem"
+  },
+  "Part-ter": {
+    "": "ressuscitado"
+  },
+  "Part-ser": {
+    "ms": "ressuscitado",
+    "fs": "ressuscitada",
+    "mp": "ressuscitados",
+    "fp": "ressuscitadas"
+  }
+}

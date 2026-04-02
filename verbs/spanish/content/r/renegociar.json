@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "renegociar"
+  },
+  "Ger": {
+    "": "renegociando"
+  },
+  "PresI": {
+    "1s": "renegocio",
+    "2s": "renegocias",
+    "3s": "renegocia",
+    "1p": "renegociamos",
+    "2p": "renegociáis",
+    "3p": "renegocian"
+  },
+  "PImpI": {
+    "1s": "renegociaba",
+    "2s": "renegociabas",
+    "3s": "renegociaba",
+    "1p": "renegociábamos",
+    "2p": "renegociabais",
+    "3p": "renegociaban"
+  },
+  "PPSI": {
+    "1s": "renegocié",
+    "2s": "renegociaste",
+    "3s": "renegoció",
+    "1p": "renegociamos",
+    "2p": "renegociasteis",
+    "3p": "renegociaron"
+  },
+  "FutSI": {
+    "1s": "renegociaré",
+    "2s": "renegociarás",
+    "3s": "renegociará",
+    "1p": "renegociaremos",
+    "2p": "renegociaréis",
+    "3p": "renegociarán"
+  },
+  "CondS": {
+    "1s": "renegociaría",
+    "2s": "renegociarías",
+    "3s": "renegociaría",
+    "1p": "renegociaríamos",
+    "2p": "renegociaríais",
+    "3p": "renegociarían"
+  },
+  "PresC": {
+    "1s": "renegocie",
+    "2s": "renegocies",
+    "3s": "renegocie",
+    "1p": "renegociemos",
+    "2p": "renegociéis",
+    "3p": "renegocien"
+  },
+  "PMQPSI": {
+    "1s": "renegociara",
+    "2s": "renegociaras",
+    "3s": "renegociara",
+    "1p": "renegociáramos",
+    "2p": "renegociarais",
+    "3p": "renegociaran"
+  },
+  "PImpC": {
+    "1s": "renegociase",
+    "2s": "renegociases",
+    "3s": "renegociase",
+    "1p": "renegociásemos",
+    "2p": "renegociaseis",
+    "3p": "renegociasen"
+  },
+  "FutSC": {
+    "1s": "renegociare",
+    "2s": "renegociares",
+    "3s": "renegociare",
+    "1p": "renegociáremos",
+    "2p": "renegociareis",
+    "3p": "renegociaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renegocia",
+    "3s": "renegocie",
+    "1p": "renegociemos",
+    "2p": "renegociad",
+    "3p": "renegocien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no renegocies",
+    "3s": "no renegocie",
+    "1p": "no renegociemos",
+    "2p": "no renegociéis",
+    "3p": "no renegocien"
+  },
+  "Part-ter": {
+    "": "renegociado"
+  },
+  "Part-ser": {
+    "ms": "renegociado",
+    "fs": "renegociada",
+    "mp": "renegociados",
+    "fp": "renegociadas"
+  }
+}

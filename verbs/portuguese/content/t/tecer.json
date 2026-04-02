@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tecer"
+  },
+  "InfP": {
+    "1s": "tecer",
+    "2s": "teceres",
+    "3s": "tecer",
+    "1p": "tecermos",
+    "2p": "tecerdes",
+    "3p": "tecerem"
+  },
+  "Ger": {
+    "": "tecendo"
+  },
+  "PresI": {
+    "1s": "teço",
+    "2s": "teces",
+    "3s": "tece",
+    "1p": "tecemos",
+    "2p": "teceis",
+    "3p": "tecem"
+  },
+  "PImpI": {
+    "1s": "tecia",
+    "2s": "tecias",
+    "3s": "tecia",
+    "1p": "tecíamos",
+    "2p": "tecíeis",
+    "3p": "teciam"
+  },
+  "PPSI": {
+    "1s": "teci",
+    "2s": "teceste",
+    "3s": "teceu",
+    "1p": "tecemos",
+    "2p": "tecestes",
+    "3p": "teceram"
+  },
+  "PMQPSI": {
+    "1s": "tecera",
+    "2s": "teceras",
+    "3s": "tecera",
+    "1p": "tecêramos",
+    "2p": "tecêreis",
+    "3p": "teceram"
+  },
+  "FutSI": {
+    "1s": "tecerei",
+    "2s": "tecerás",
+    "3s": "tecerá",
+    "1p": "teceremos",
+    "2p": "tecereis",
+    "3p": "tecerão"
+  },
+  "CondS": {
+    "1s": "teceria",
+    "2s": "tecerias",
+    "3s": "teceria",
+    "1p": "teceríamos",
+    "2p": "teceríeis",
+    "3p": "teceriam"
+  },
+  "PresC": {
+    "1s": "teça",
+    "2s": "teças",
+    "3s": "teça",
+    "1p": "teçamos",
+    "2p": "teçais",
+    "3p": "teçam"
+  },
+  "PImpC": {
+    "1s": "tecesse",
+    "2s": "tecesses",
+    "3s": "tecesse",
+    "1p": "tecêssemos",
+    "2p": "tecêsseis",
+    "3p": "tecessem"
+  },
+  "FutSC": {
+    "1s": "tecer",
+    "2s": "teceres",
+    "3s": "tecer",
+    "1p": "tecermos",
+    "2p": "tecerdes",
+    "3p": "tecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tece",
+    "3s": "teça",
+    "1p": "teçamos",
+    "2p": "tecei",
+    "3p": "teçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não teças",
+    "3s": "não teça",
+    "1p": "não teçamos",
+    "2p": "não teçais",
+    "3p": "não teçam"
+  },
+  "Part-ter": {
+    "": "tecido"
+  },
+  "Part-ser": {
+    "ms": "tecido",
+    "fs": "tecida",
+    "mp": "tecidos",
+    "fp": "tecidas"
+  }
+}

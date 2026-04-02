@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gelar"
+  },
+  "InfP": {
+    "1s": "gelar",
+    "2s": "gelares",
+    "3s": "gelar",
+    "1p": "gelarmos",
+    "2p": "gelardes",
+    "3p": "gelarem"
+  },
+  "Ger": {
+    "": "gelando"
+  },
+  "PresI": {
+    "1s": "gelo",
+    "2s": "gelas",
+    "3s": "gela",
+    "1p": "gelamos",
+    "2p": "gelais",
+    "3p": "gelam"
+  },
+  "PImpI": {
+    "1s": "gelava",
+    "2s": "gelavas",
+    "3s": "gelava",
+    "1p": "gelávamos",
+    "2p": "geláveis",
+    "3p": "gelavam"
+  },
+  "PPSI": {
+    "1s": "gelei",
+    "2s": "gelaste",
+    "3s": "gelou",
+    "1p": "gelámos",
+    "2p": "gelastes",
+    "3p": "gelaram"
+  },
+  "PMQPSI": {
+    "1s": "gelara",
+    "2s": "gelaras",
+    "3s": "gelara",
+    "1p": "geláramos",
+    "2p": "geláreis",
+    "3p": "gelaram"
+  },
+  "FutSI": {
+    "1s": "gelarei",
+    "2s": "gelarás",
+    "3s": "gelará",
+    "1p": "gelaremos",
+    "2p": "gelareis",
+    "3p": "gelarão"
+  },
+  "CondS": {
+    "1s": "gelaria",
+    "2s": "gelarias",
+    "3s": "gelaria",
+    "1p": "gelaríamos",
+    "2p": "gelaríeis",
+    "3p": "gelariam"
+  },
+  "PresC": {
+    "1s": "gele",
+    "2s": "geles",
+    "3s": "gele",
+    "1p": "gelemos",
+    "2p": "geleis",
+    "3p": "gelem"
+  },
+  "PImpC": {
+    "1s": "gelasse",
+    "2s": "gelasses",
+    "3s": "gelasse",
+    "1p": "gelássemos",
+    "2p": "gelásseis",
+    "3p": "gelassem"
+  },
+  "FutSC": {
+    "1s": "gelar",
+    "2s": "gelares",
+    "3s": "gelar",
+    "1p": "gelarmos",
+    "2p": "gelardes",
+    "3p": "gelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gela",
+    "3s": "gele",
+    "1p": "gelemos",
+    "2p": "gelai",
+    "3p": "gelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não geles",
+    "3s": "não gele",
+    "1p": "não gelemos",
+    "2p": "não geleis",
+    "3p": "não gelem"
+  },
+  "Part-ter": {
+    "": "gelado"
+  },
+  "Part-ser": {
+    "ms": "gelado",
+    "fs": "gelada",
+    "mp": "gelados",
+    "fp": "geladas"
+  }
+}

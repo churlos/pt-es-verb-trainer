@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rir"
+  },
+  "InfP": {
+    "1s": "rir",
+    "2s": "rires",
+    "3s": "rir",
+    "1p": "rirmos",
+    "2p": "rirdes",
+    "3p": "rirem"
+  },
+  "Ger": {
+    "": "rindo"
+  },
+  "PresI": {
+    "1s": "rio",
+    "2s": "ris",
+    "3s": "ri",
+    "1p": "rimos",
+    "2p": "rides",
+    "3p": "riem"
+  },
+  "PImpI": {
+    "1s": "ria",
+    "2s": "rias",
+    "3s": "ria",
+    "1p": "ríamos",
+    "2p": "ríeis",
+    "3p": "riam"
+  },
+  "PPSI": {
+    "1s": "ri",
+    "2s": "riste",
+    "3s": "riu",
+    "1p": "rimos",
+    "2p": "ristes",
+    "3p": "riram"
+  },
+  "PMQPSI": {
+    "1s": "rira",
+    "2s": "riras",
+    "3s": "rira",
+    "1p": "ríramos",
+    "2p": "ríreis",
+    "3p": "riram"
+  },
+  "FutSI": {
+    "1s": "rirei",
+    "2s": "rirás",
+    "3s": "rirá",
+    "1p": "riremos",
+    "2p": "rireis",
+    "3p": "rirão"
+  },
+  "CondS": {
+    "1s": "riria",
+    "2s": "ririas",
+    "3s": "riria",
+    "1p": "riríamos",
+    "2p": "riríeis",
+    "3p": "ririam"
+  },
+  "PresC": {
+    "1s": "ria",
+    "2s": "rias",
+    "3s": "ria",
+    "1p": "riamos",
+    "2p": "riais",
+    "3p": "riam"
+  },
+  "PImpC": {
+    "1s": "risse",
+    "2s": "risses",
+    "3s": "risse",
+    "1p": "ríssemos",
+    "2p": "rísseis",
+    "3p": "rissem"
+  },
+  "FutSC": {
+    "1s": "rir",
+    "2s": "rires",
+    "3s": "rir",
+    "1p": "rirmos",
+    "2p": "rirdes",
+    "3p": "rirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ri",
+    "3s": "ria",
+    "1p": "riamos",
+    "2p": "ride",
+    "3p": "riam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rias",
+    "3s": "não ria",
+    "1p": "não riamos",
+    "2p": "não riais",
+    "3p": "não riam"
+  },
+  "Part-ter": {
+    "": "rido"
+  },
+  "Part-ser": {
+    "ms": "rido",
+    "fs": "rida",
+    "mp": "ridos",
+    "fp": "ridas"
+  }
+}

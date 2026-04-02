@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "coordenar"
+  },
+  "InfP": {
+    "1s": "coordenar",
+    "2s": "coordenares",
+    "3s": "coordenar",
+    "1p": "coordenarmos",
+    "2p": "coordenardes",
+    "3p": "coordenarem"
+  },
+  "Ger": {
+    "": "coordenando"
+  },
+  "PresI": {
+    "1s": "coordeno",
+    "2s": "coordenas",
+    "3s": "coordena",
+    "1p": "coordenamos",
+    "2p": "coordenais",
+    "3p": "coordenam"
+  },
+  "PImpI": {
+    "1s": "coordenava",
+    "2s": "coordenavas",
+    "3s": "coordenava",
+    "1p": "coordenávamos",
+    "2p": "coordenáveis",
+    "3p": "coordenavam"
+  },
+  "PPSI": {
+    "1s": "coordenei",
+    "2s": "coordenaste",
+    "3s": "coordenou",
+    "1p": "coordenámos",
+    "2p": "coordenastes",
+    "3p": "coordenaram"
+  },
+  "PMQPSI": {
+    "1s": "coordenara",
+    "2s": "coordenaras",
+    "3s": "coordenara",
+    "1p": "coordenáramos",
+    "2p": "coordenáreis",
+    "3p": "coordenaram"
+  },
+  "FutSI": {
+    "1s": "coordenarei",
+    "2s": "coordenarás",
+    "3s": "coordenará",
+    "1p": "coordenaremos",
+    "2p": "coordenareis",
+    "3p": "coordenarão"
+  },
+  "CondS": {
+    "1s": "coordenaria",
+    "2s": "coordenarias",
+    "3s": "coordenaria",
+    "1p": "coordenaríamos",
+    "2p": "coordenaríeis",
+    "3p": "coordenariam"
+  },
+  "PresC": {
+    "1s": "coordene",
+    "2s": "coordenes",
+    "3s": "coordene",
+    "1p": "coordenemos",
+    "2p": "coordeneis",
+    "3p": "coordenem"
+  },
+  "PImpC": {
+    "1s": "coordenasse",
+    "2s": "coordenasses",
+    "3s": "coordenasse",
+    "1p": "coordenássemos",
+    "2p": "coordenásseis",
+    "3p": "coordenassem"
+  },
+  "FutSC": {
+    "1s": "coordenar",
+    "2s": "coordenares",
+    "3s": "coordenar",
+    "1p": "coordenarmos",
+    "2p": "coordenardes",
+    "3p": "coordenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coordena",
+    "3s": "coordene",
+    "1p": "coordenemos",
+    "2p": "coordenai",
+    "3p": "coordenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coordenes",
+    "3s": "não coordene",
+    "1p": "não coordenemos",
+    "2p": "não coordeneis",
+    "3p": "não coordenem"
+  },
+  "Part-ter": {
+    "": "coordenado"
+  },
+  "Part-ser": {
+    "ms": "coordenado",
+    "fs": "coordenada",
+    "mp": "coordenados",
+    "fp": "coordenadas"
+  }
+}

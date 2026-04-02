@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "milhar"
+  },
+  "InfP": {
+    "1s": "milhar",
+    "2s": "milhares",
+    "3s": "milhar",
+    "1p": "milharmos",
+    "2p": "milhardes",
+    "3p": "milharem"
+  },
+  "Ger": {
+    "": "milhando"
+  },
+  "PresI": {
+    "1s": "milho",
+    "2s": "milhas",
+    "3s": "milha",
+    "1p": "milhamos",
+    "2p": "milhais",
+    "3p": "milham"
+  },
+  "PImpI": {
+    "1s": "milhava",
+    "2s": "milhavas",
+    "3s": "milhava",
+    "1p": "milhávamos",
+    "2p": "milháveis",
+    "3p": "milhavam"
+  },
+  "PPSI": {
+    "1s": "milhei",
+    "2s": "milhaste",
+    "3s": "milhou",
+    "1p": "milhámos",
+    "2p": "milhastes",
+    "3p": "milharam"
+  },
+  "PMQPSI": {
+    "1s": "milhara",
+    "2s": "milharas",
+    "3s": "milhara",
+    "1p": "milháramos",
+    "2p": "milháreis",
+    "3p": "milharam"
+  },
+  "FutSI": {
+    "1s": "milharei",
+    "2s": "milharás",
+    "3s": "milhará",
+    "1p": "milharemos",
+    "2p": "milhareis",
+    "3p": "milharão"
+  },
+  "CondS": {
+    "1s": "milharia",
+    "2s": "milharias",
+    "3s": "milharia",
+    "1p": "milharíamos",
+    "2p": "milharíeis",
+    "3p": "milhariam"
+  },
+  "PresC": {
+    "1s": "milhe",
+    "2s": "milhes",
+    "3s": "milhe",
+    "1p": "milhemos",
+    "2p": "milheis",
+    "3p": "milhem"
+  },
+  "PImpC": {
+    "1s": "milhasse",
+    "2s": "milhasses",
+    "3s": "milhasse",
+    "1p": "milhássemos",
+    "2p": "milhásseis",
+    "3p": "milhassem"
+  },
+  "FutSC": {
+    "1s": "milhar",
+    "2s": "milhares",
+    "3s": "milhar",
+    "1p": "milharmos",
+    "2p": "milhardes",
+    "3p": "milharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "milha",
+    "3s": "milhe",
+    "1p": "milhemos",
+    "2p": "milhai",
+    "3p": "milhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não milhes",
+    "3s": "não milhe",
+    "1p": "não milhemos",
+    "2p": "não milheis",
+    "3p": "não milhem"
+  },
+  "Part-ter": {
+    "": "milhado"
+  },
+  "Part-ser": {
+    "ms": "milhado",
+    "fs": "milhada",
+    "mp": "milhados",
+    "fp": "milhadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ensecar"
+  },
+  "Ger": {
+    "": "ensecando"
+  },
+  "PresI": {
+    "1s": "enseco",
+    "2s": "ensecas",
+    "3s": "enseca",
+    "1p": "ensecamos",
+    "2p": "ensecáis",
+    "3p": "ensecan"
+  },
+  "PImpI": {
+    "1s": "ensecaba",
+    "2s": "ensecabas",
+    "3s": "ensecaba",
+    "1p": "ensecábamos",
+    "2p": "ensecabais",
+    "3p": "ensecaban"
+  },
+  "PPSI": {
+    "1s": "ensequé",
+    "2s": "ensecaste",
+    "3s": "ensecó",
+    "1p": "ensecamos",
+    "2p": "ensecasteis",
+    "3p": "ensecaron"
+  },
+  "FutSI": {
+    "1s": "ensecaré",
+    "2s": "ensecarás",
+    "3s": "ensecará",
+    "1p": "ensecaremos",
+    "2p": "ensecaréis",
+    "3p": "ensecarán"
+  },
+  "CondS": {
+    "1s": "ensecaría",
+    "2s": "ensecarías",
+    "3s": "ensecaría",
+    "1p": "ensecaríamos",
+    "2p": "ensecaríais",
+    "3p": "ensecarían"
+  },
+  "PresC": {
+    "1s": "enseque",
+    "2s": "enseques",
+    "3s": "enseque",
+    "1p": "ensequemos",
+    "2p": "ensequéis",
+    "3p": "ensequen"
+  },
+  "PMQPSI": {
+    "1s": "ensecara",
+    "2s": "ensecaras",
+    "3s": "ensecara",
+    "1p": "ensecáramos",
+    "2p": "ensecarais",
+    "3p": "ensecaran"
+  },
+  "PImpC": {
+    "1s": "ensecase",
+    "2s": "ensecases",
+    "3s": "ensecase",
+    "1p": "ensecásemos",
+    "2p": "ensecaseis",
+    "3p": "ensecasen"
+  },
+  "FutSC": {
+    "1s": "ensecare",
+    "2s": "ensecares",
+    "3s": "ensecare",
+    "1p": "ensecáremos",
+    "2p": "ensecareis",
+    "3p": "ensecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enseca",
+    "3s": "enseque",
+    "1p": "ensequemos",
+    "2p": "ensecad",
+    "3p": "ensequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enseques",
+    "3s": "no enseque",
+    "1p": "no ensequemos",
+    "2p": "no ensequéis",
+    "3p": "no ensequen"
+  },
+  "Part-ter": {
+    "": "ensecado"
+  },
+  "Part-ser": {
+    "ms": "ensecado",
+    "fs": "ensecada",
+    "mp": "ensecados",
+    "fp": "ensecadas"
+  }
+}

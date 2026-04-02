@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "robustecer"
+  },
+  "Ger": {
+    "": "robusteciendo"
+  },
+  "PresI": {
+    "1s": "robustezco",
+    "2s": "robusteces",
+    "3s": "robustece",
+    "1p": "robustecemos",
+    "2p": "robustecéis",
+    "3p": "robustecen"
+  },
+  "PImpI": {
+    "1s": "robustecía",
+    "2s": "robustecías",
+    "3s": "robustecía",
+    "1p": "robustecíamos",
+    "2p": "robustecíais",
+    "3p": "robustecían"
+  },
+  "PPSI": {
+    "1s": "robustecí",
+    "2s": "robusteciste",
+    "3s": "robusteció",
+    "1p": "robustecimos",
+    "2p": "robustecisteis",
+    "3p": "robustecieron"
+  },
+  "FutSI": {
+    "1s": "robusteceré",
+    "2s": "robustecerás",
+    "3s": "robustecerá",
+    "1p": "robusteceremos",
+    "2p": "robusteceréis",
+    "3p": "robustecerán"
+  },
+  "CondS": {
+    "1s": "robustecería",
+    "2s": "robustecerías",
+    "3s": "robustecería",
+    "1p": "robusteceríamos",
+    "2p": "robusteceríais",
+    "3p": "robustecerían"
+  },
+  "PresC": {
+    "1s": "robustezca",
+    "2s": "robustezcas",
+    "3s": "robustezca",
+    "1p": "robustezcamos",
+    "2p": "robustezcáis",
+    "3p": "robustezcan"
+  },
+  "PMQPSI": {
+    "1s": "robusteciera",
+    "2s": "robustecieras",
+    "3s": "robusteciera",
+    "1p": "robusteciéramos",
+    "2p": "robustecierais",
+    "3p": "robustecieran"
+  },
+  "PImpC": {
+    "1s": "robusteciese",
+    "2s": "robustecieses",
+    "3s": "robusteciese",
+    "1p": "robusteciésemos",
+    "2p": "robustecieseis",
+    "3p": "robusteciesen"
+  },
+  "FutSC": {
+    "1s": "robusteciere",
+    "2s": "robustecieres",
+    "3s": "robusteciere",
+    "1p": "robusteciéremos",
+    "2p": "robusteciereis",
+    "3p": "robustecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "robustece",
+    "3s": "robustezca",
+    "1p": "robustezcamos",
+    "2p": "robusteced",
+    "3p": "robustezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no robustezcas",
+    "3s": "no robustezca",
+    "1p": "no robustezcamos",
+    "2p": "no robustezcáis",
+    "3p": "no robustezcan"
+  },
+  "Part-ter": {
+    "": "robustecido"
+  },
+  "Part-ser": {
+    "ms": "robustecido",
+    "fs": "robustecida",
+    "mp": "robustecidos",
+    "fp": "robustecidas"
+  }
+}

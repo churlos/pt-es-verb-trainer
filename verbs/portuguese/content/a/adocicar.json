@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "adocicar"
+  },
+  "InfP": {
+    "1s": "adocicar",
+    "2s": "adocicares",
+    "3s": "adocicar",
+    "1p": "adocicarmos",
+    "2p": "adocicardes",
+    "3p": "adocicarem"
+  },
+  "Ger": {
+    "": "adocicando"
+  },
+  "PresI": {
+    "1s": "adocico",
+    "2s": "adocicas",
+    "3s": "adocica",
+    "1p": "adocicamos",
+    "2p": "adocicais",
+    "3p": "adocicam"
+  },
+  "PImpI": {
+    "1s": "adocicava",
+    "2s": "adocicavas",
+    "3s": "adocicava",
+    "1p": "adocicávamos",
+    "2p": "adocicáveis",
+    "3p": "adocicavam"
+  },
+  "PPSI": {
+    "1s": "adociquei",
+    "2s": "adocicaste",
+    "3s": "adocicou",
+    "1p": "adocicámos",
+    "2p": "adocicastes",
+    "3p": "adocicaram"
+  },
+  "PMQPSI": {
+    "1s": "adocicara",
+    "2s": "adocicaras",
+    "3s": "adocicara",
+    "1p": "adocicáramos",
+    "2p": "adocicáreis",
+    "3p": "adocicaram"
+  },
+  "FutSI": {
+    "1s": "adocicarei",
+    "2s": "adocicarás",
+    "3s": "adocicará",
+    "1p": "adocicaremos",
+    "2p": "adocicareis",
+    "3p": "adocicarão"
+  },
+  "CondS": {
+    "1s": "adocicaria",
+    "2s": "adocicarias",
+    "3s": "adocicaria",
+    "1p": "adocicaríamos",
+    "2p": "adocicaríeis",
+    "3p": "adocicariam"
+  },
+  "PresC": {
+    "1s": "adocique",
+    "2s": "adociques",
+    "3s": "adocique",
+    "1p": "adociquemos",
+    "2p": "adociqueis",
+    "3p": "adociquem"
+  },
+  "PImpC": {
+    "1s": "adocicasse",
+    "2s": "adocicasses",
+    "3s": "adocicasse",
+    "1p": "adocicássemos",
+    "2p": "adocicásseis",
+    "3p": "adocicassem"
+  },
+  "FutSC": {
+    "1s": "adocicar",
+    "2s": "adocicares",
+    "3s": "adocicar",
+    "1p": "adocicarmos",
+    "2p": "adocicardes",
+    "3p": "adocicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adocica",
+    "3s": "adocique",
+    "1p": "adociquemos",
+    "2p": "adocicai",
+    "3p": "adociquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adociques",
+    "3s": "não adocique",
+    "1p": "não adociquemos",
+    "2p": "não adociqueis",
+    "3p": "não adociquem"
+  },
+  "Part-ter": {
+    "": "adocicado"
+  },
+  "Part-ser": {
+    "ms": "adocicado",
+    "fs": "adocicada",
+    "mp": "adocicados",
+    "fp": "adocicadas"
+  }
+}

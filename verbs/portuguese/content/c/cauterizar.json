@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cauterizar"
+  },
+  "InfP": {
+    "1s": "cauterizar",
+    "2s": "cauterizares",
+    "3s": "cauterizar",
+    "1p": "cauterizarmos",
+    "2p": "cauterizardes",
+    "3p": "cauterizarem"
+  },
+  "Ger": {
+    "": "cauterizando"
+  },
+  "PresI": {
+    "1s": "cauterizo",
+    "2s": "cauterizas",
+    "3s": "cauteriza",
+    "1p": "cauterizamos",
+    "2p": "cauterizais",
+    "3p": "cauterizam"
+  },
+  "PImpI": {
+    "1s": "cauterizava",
+    "2s": "cauterizavas",
+    "3s": "cauterizava",
+    "1p": "cauterizávamos",
+    "2p": "cauterizáveis",
+    "3p": "cauterizavam"
+  },
+  "PPSI": {
+    "1s": "cauterizei",
+    "2s": "cauterizaste",
+    "3s": "cauterizou",
+    "1p": "cauterizámos",
+    "2p": "cauterizastes",
+    "3p": "cauterizaram"
+  },
+  "PMQPSI": {
+    "1s": "cauterizara",
+    "2s": "cauterizaras",
+    "3s": "cauterizara",
+    "1p": "cauterizáramos",
+    "2p": "cauterizáreis",
+    "3p": "cauterizaram"
+  },
+  "FutSI": {
+    "1s": "cauterizarei",
+    "2s": "cauterizarás",
+    "3s": "cauterizará",
+    "1p": "cauterizaremos",
+    "2p": "cauterizareis",
+    "3p": "cauterizarão"
+  },
+  "CondS": {
+    "1s": "cauterizaria",
+    "2s": "cauterizarias",
+    "3s": "cauterizaria",
+    "1p": "cauterizaríamos",
+    "2p": "cauterizaríeis",
+    "3p": "cauterizariam"
+  },
+  "PresC": {
+    "1s": "cauterize",
+    "2s": "cauterizes",
+    "3s": "cauterize",
+    "1p": "cauterizemos",
+    "2p": "cauterizeis",
+    "3p": "cauterizem"
+  },
+  "PImpC": {
+    "1s": "cauterizasse",
+    "2s": "cauterizasses",
+    "3s": "cauterizasse",
+    "1p": "cauterizássemos",
+    "2p": "cauterizásseis",
+    "3p": "cauterizassem"
+  },
+  "FutSC": {
+    "1s": "cauterizar",
+    "2s": "cauterizares",
+    "3s": "cauterizar",
+    "1p": "cauterizarmos",
+    "2p": "cauterizardes",
+    "3p": "cauterizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cauteriza",
+    "3s": "cauterize",
+    "1p": "cauterizemos",
+    "2p": "cauterizai",
+    "3p": "cauterizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cauterizes",
+    "3s": "não cauterize",
+    "1p": "não cauterizemos",
+    "2p": "não cauterizeis",
+    "3p": "não cauterizem"
+  },
+  "Part-ter": {
+    "": "cauterizado"
+  },
+  "Part-ser": {
+    "ms": "cauterizado",
+    "fs": "cauterizada",
+    "mp": "cauterizados",
+    "fp": "cauterizadas"
+  }
+}

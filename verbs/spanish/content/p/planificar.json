@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "planificar"
+  },
+  "Ger": {
+    "": "planificando"
+  },
+  "PresI": {
+    "1s": "planifico",
+    "2s": "planificas",
+    "3s": "planifica",
+    "1p": "planificamos",
+    "2p": "planificáis",
+    "3p": "planifican"
+  },
+  "PImpI": {
+    "1s": "planificaba",
+    "2s": "planificabas",
+    "3s": "planificaba",
+    "1p": "planificábamos",
+    "2p": "planificabais",
+    "3p": "planificaban"
+  },
+  "PPSI": {
+    "1s": "planifiqué",
+    "2s": "planificaste",
+    "3s": "planificó",
+    "1p": "planificamos",
+    "2p": "planificasteis",
+    "3p": "planificaron"
+  },
+  "FutSI": {
+    "1s": "planificaré",
+    "2s": "planificarás",
+    "3s": "planificará",
+    "1p": "planificaremos",
+    "2p": "planificaréis",
+    "3p": "planificarán"
+  },
+  "CondS": {
+    "1s": "planificaría",
+    "2s": "planificarías",
+    "3s": "planificaría",
+    "1p": "planificaríamos",
+    "2p": "planificaríais",
+    "3p": "planificarían"
+  },
+  "PresC": {
+    "1s": "planifique",
+    "2s": "planifiques",
+    "3s": "planifique",
+    "1p": "planifiquemos",
+    "2p": "planifiquéis",
+    "3p": "planifiquen"
+  },
+  "PMQPSI": {
+    "1s": "planificara",
+    "2s": "planificaras",
+    "3s": "planificara",
+    "1p": "planificáramos",
+    "2p": "planificarais",
+    "3p": "planificaran"
+  },
+  "PImpC": {
+    "1s": "planificase",
+    "2s": "planificases",
+    "3s": "planificase",
+    "1p": "planificásemos",
+    "2p": "planificaseis",
+    "3p": "planificasen"
+  },
+  "FutSC": {
+    "1s": "planificare",
+    "2s": "planificares",
+    "3s": "planificare",
+    "1p": "planificáremos",
+    "2p": "planificareis",
+    "3p": "planificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "planifica",
+    "3s": "planifique",
+    "1p": "planifiquemos",
+    "2p": "planificad",
+    "3p": "planifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no planifiques",
+    "3s": "no planifique",
+    "1p": "no planifiquemos",
+    "2p": "no planifiquéis",
+    "3p": "no planifiquen"
+  },
+  "Part-ter": {
+    "": "planificado"
+  },
+  "Part-ser": {
+    "ms": "planificado",
+    "fs": "planificada",
+    "mp": "planificados",
+    "fp": "planificadas"
+  }
+}

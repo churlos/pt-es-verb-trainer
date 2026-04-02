@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recibir"
+  },
+  "Ger": {
+    "": "recibiendo"
+  },
+  "PresI": {
+    "1s": "recibo",
+    "2s": "recibes",
+    "3s": "recibe",
+    "1p": "recibimos",
+    "2p": "recibís",
+    "3p": "reciben"
+  },
+  "PImpI": {
+    "1s": "recibía",
+    "2s": "recibías",
+    "3s": "recibía",
+    "1p": "recibíamos",
+    "2p": "recibíais",
+    "3p": "recibían"
+  },
+  "PPSI": {
+    "1s": "recibí",
+    "2s": "recibiste",
+    "3s": "recibió",
+    "1p": "recibimos",
+    "2p": "recibisteis",
+    "3p": "recibieron"
+  },
+  "FutSI": {
+    "1s": "recibiré",
+    "2s": "recibirás",
+    "3s": "recibirá",
+    "1p": "recibiremos",
+    "2p": "recibiréis",
+    "3p": "recibirán"
+  },
+  "CondS": {
+    "1s": "recibiría",
+    "2s": "recibirías",
+    "3s": "recibiría",
+    "1p": "recibiríamos",
+    "2p": "recibiríais",
+    "3p": "recibirían"
+  },
+  "PresC": {
+    "1s": "reciba",
+    "2s": "recibas",
+    "3s": "reciba",
+    "1p": "recibamos",
+    "2p": "recibáis",
+    "3p": "reciban"
+  },
+  "PMQPSI": {
+    "1s": "recibiera",
+    "2s": "recibieras",
+    "3s": "recibiera",
+    "1p": "recibiéramos",
+    "2p": "recibierais",
+    "3p": "recibieran"
+  },
+  "PImpC": {
+    "1s": "recibiese",
+    "2s": "recibieses",
+    "3s": "recibiese",
+    "1p": "recibiésemos",
+    "2p": "recibieseis",
+    "3p": "recibiesen"
+  },
+  "FutSC": {
+    "1s": "recibiere",
+    "2s": "recibieres",
+    "3s": "recibiere",
+    "1p": "recibiéremos",
+    "2p": "recibiereis",
+    "3p": "recibieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recibe",
+    "3s": "reciba",
+    "1p": "recibamos",
+    "2p": "recibid",
+    "3p": "reciban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recibas",
+    "3s": "no reciba",
+    "1p": "no recibamos",
+    "2p": "no recibáis",
+    "3p": "no reciban"
+  },
+  "Part-ter": {
+    "": "recibido"
+  },
+  "Part-ser": {
+    "ms": "recibido",
+    "fs": "recibida",
+    "mp": "recibidos",
+    "fp": "recibidas"
+  }
+}

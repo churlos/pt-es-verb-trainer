@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoasignarse"
+  },
+  "Ger": {
+    "": "autoasignándose"
+  },
+  "PresI": {
+    "1s": "me autoasigno",
+    "2s": "te autoasignas",
+    "3s": "se autoasigna",
+    "1p": "nos autoasignamos",
+    "2p": "os autoasignáis",
+    "3p": "se autoasignan"
+  },
+  "PImpI": {
+    "1s": "me autoasignaba",
+    "2s": "te autoasignabas",
+    "3s": "se autoasignaba",
+    "1p": "nos autoasignábamos",
+    "2p": "os autoasignabais",
+    "3p": "se autoasignaban"
+  },
+  "PPSI": {
+    "1s": "me autoasigné",
+    "2s": "te autoasignaste",
+    "3s": "se autoasignó",
+    "1p": "nos autoasignamos",
+    "2p": "os autoasignasteis",
+    "3p": "se autoasignaron"
+  },
+  "FutSI": {
+    "1s": "me autoasignaré",
+    "2s": "te autoasignarás",
+    "3s": "se autoasignará",
+    "1p": "nos autoasignaremos",
+    "2p": "os autoasignaréis",
+    "3p": "se autoasignarán"
+  },
+  "CondS": {
+    "1s": "me autoasignaría",
+    "2s": "te autoasignarías",
+    "3s": "se autoasignaría",
+    "1p": "nos autoasignaríamos",
+    "2p": "os autoasignaríais",
+    "3p": "se autoasignarían"
+  },
+  "PresC": {
+    "1s": "me autoasigne",
+    "2s": "te autoasignes",
+    "3s": "se autoasigne",
+    "1p": "nos autoasignemos",
+    "2p": "os autoasignéis",
+    "3p": "se autoasignen"
+  },
+  "PMQPSI": {
+    "1s": "me autoasignara",
+    "2s": "te autoasignaras",
+    "3s": "se autoasignara",
+    "1p": "nos autoasignáramos",
+    "2p": "os autoasignarais",
+    "3p": "se autoasignaran"
+  },
+  "PImpC": {
+    "1s": "me autoasignase",
+    "2s": "te autoasignases",
+    "3s": "se autoasignase",
+    "1p": "nos autoasignásemos",
+    "2p": "os autoasignaseis",
+    "3p": "se autoasignasen"
+  },
+  "FutSC": {
+    "1s": "me autoasignare",
+    "2s": "te autoasignares",
+    "3s": "se autoasignare",
+    "1p": "nos autoasignáremos",
+    "2p": "os autoasignareis",
+    "3p": "se autoasignaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoasígnate",
+    "3s": "autoasígnese",
+    "1p": "autoasignémonos",
+    "2p": "autoasignaos",
+    "3p": "autoasígnense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoasignes",
+    "3s": "no se autoasigne",
+    "1p": "no nos autoasignemos",
+    "2p": "no os autoasignéis",
+    "3p": "no se autoasignen"
+  },
+  "Part-ter": {
+    "": "autoasignado"
+  },
+  "Part-ser": {
+    "ms": "autoasignado",
+    "fs": "autoasignada",
+    "mp": "autoasignados",
+    "fp": "autoasignadas"
+  }
+}

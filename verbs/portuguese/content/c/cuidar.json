@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cuidar"
+  },
+  "InfP": {
+    "1s": "cuidar",
+    "2s": "cuidares",
+    "3s": "cuidar",
+    "1p": "cuidarmos",
+    "2p": "cuidardes",
+    "3p": "cuidarem"
+  },
+  "Ger": {
+    "": "cuidando"
+  },
+  "PresI": {
+    "1s": "cuido",
+    "2s": "cuidas",
+    "3s": "cuida",
+    "1p": "cuidamos",
+    "2p": "cuidais",
+    "3p": "cuidam"
+  },
+  "PImpI": {
+    "1s": "cuidava",
+    "2s": "cuidavas",
+    "3s": "cuidava",
+    "1p": "cuidávamos",
+    "2p": "cuidáveis",
+    "3p": "cuidavam"
+  },
+  "PPSI": {
+    "1s": "cuidei",
+    "2s": "cuidaste",
+    "3s": "cuidou",
+    "1p": "cuidámos",
+    "2p": "cuidastes",
+    "3p": "cuidaram"
+  },
+  "PMQPSI": {
+    "1s": "cuidara",
+    "2s": "cuidaras",
+    "3s": "cuidara",
+    "1p": "cuidáramos",
+    "2p": "cuidáreis",
+    "3p": "cuidaram"
+  },
+  "FutSI": {
+    "1s": "cuidarei",
+    "2s": "cuidarás",
+    "3s": "cuidará",
+    "1p": "cuidaremos",
+    "2p": "cuidareis",
+    "3p": "cuidarão"
+  },
+  "CondS": {
+    "1s": "cuidaria",
+    "2s": "cuidarias",
+    "3s": "cuidaria",
+    "1p": "cuidaríamos",
+    "2p": "cuidaríeis",
+    "3p": "cuidariam"
+  },
+  "PresC": {
+    "1s": "cuide",
+    "2s": "cuides",
+    "3s": "cuide",
+    "1p": "cuidemos",
+    "2p": "cuideis",
+    "3p": "cuidem"
+  },
+  "PImpC": {
+    "1s": "cuidasse",
+    "2s": "cuidasses",
+    "3s": "cuidasse",
+    "1p": "cuidássemos",
+    "2p": "cuidásseis",
+    "3p": "cuidassem"
+  },
+  "FutSC": {
+    "1s": "cuidar",
+    "2s": "cuidares",
+    "3s": "cuidar",
+    "1p": "cuidarmos",
+    "2p": "cuidardes",
+    "3p": "cuidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cuida",
+    "3s": "cuide",
+    "1p": "cuidemos",
+    "2p": "cuidai",
+    "3p": "cuidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cuides",
+    "3s": "não cuide",
+    "1p": "não cuidemos",
+    "2p": "não cuideis",
+    "3p": "não cuidem"
+  },
+  "Part-ter": {
+    "": "cuidado"
+  },
+  "Part-ser": {
+    "ms": "cuidado",
+    "fs": "cuidada",
+    "mp": "cuidados",
+    "fp": "cuidadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encarcerar"
+  },
+  "InfP": {
+    "1s": "encarcerar",
+    "2s": "encarcerares",
+    "3s": "encarcerar",
+    "1p": "encarcerarmos",
+    "2p": "encarcerardes",
+    "3p": "encarcerarem"
+  },
+  "Ger": {
+    "": "encarcerando"
+  },
+  "PresI": {
+    "1s": "encarcero",
+    "2s": "encarceras",
+    "3s": "encarcera",
+    "1p": "encarceramos",
+    "2p": "encarcerais",
+    "3p": "encarceram"
+  },
+  "PImpI": {
+    "1s": "encarcerava",
+    "2s": "encarceravas",
+    "3s": "encarcerava",
+    "1p": "encarcerávamos",
+    "2p": "encarceráveis",
+    "3p": "encarceravam"
+  },
+  "PPSI": {
+    "1s": "encarcerei",
+    "2s": "encarceraste",
+    "3s": "encarcerou",
+    "1p": "encarcerámos",
+    "2p": "encarcerastes",
+    "3p": "encarceraram"
+  },
+  "PMQPSI": {
+    "1s": "encarcerara",
+    "2s": "encarceraras",
+    "3s": "encarcerara",
+    "1p": "encarceráramos",
+    "2p": "encarceráreis",
+    "3p": "encarceraram"
+  },
+  "FutSI": {
+    "1s": "encarcerarei",
+    "2s": "encarcerarás",
+    "3s": "encarcerará",
+    "1p": "encarceraremos",
+    "2p": "encarcerareis",
+    "3p": "encarcerarão"
+  },
+  "CondS": {
+    "1s": "encarceraria",
+    "2s": "encarcerarias",
+    "3s": "encarceraria",
+    "1p": "encarceraríamos",
+    "2p": "encarceraríeis",
+    "3p": "encarcerariam"
+  },
+  "PresC": {
+    "1s": "encarcere",
+    "2s": "encarceres",
+    "3s": "encarcere",
+    "1p": "encarceremos",
+    "2p": "encarcereis",
+    "3p": "encarcerem"
+  },
+  "PImpC": {
+    "1s": "encarcerasse",
+    "2s": "encarcerasses",
+    "3s": "encarcerasse",
+    "1p": "encarcerássemos",
+    "2p": "encarcerásseis",
+    "3p": "encarcerassem"
+  },
+  "FutSC": {
+    "1s": "encarcerar",
+    "2s": "encarcerares",
+    "3s": "encarcerar",
+    "1p": "encarcerarmos",
+    "2p": "encarcerardes",
+    "3p": "encarcerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encarcera",
+    "3s": "encarcere",
+    "1p": "encarceremos",
+    "2p": "encarcerai",
+    "3p": "encarcerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encarceres",
+    "3s": "não encarcere",
+    "1p": "não encarceremos",
+    "2p": "não encarcereis",
+    "3p": "não encarcerem"
+  },
+  "Part-ter": {
+    "": "encarcerado"
+  },
+  "Part-ser": {
+    "ms": "encarcerado",
+    "fs": "encarcerada",
+    "mp": "encarcerados",
+    "fp": "encarceradas"
+  }
+}

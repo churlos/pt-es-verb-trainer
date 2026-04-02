@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "imputar"
+  },
+  "InfP": {
+    "1s": "imputar",
+    "2s": "imputares",
+    "3s": "imputar",
+    "1p": "imputarmos",
+    "2p": "imputardes",
+    "3p": "imputarem"
+  },
+  "Ger": {
+    "": "imputando"
+  },
+  "PresI": {
+    "1s": "imputo",
+    "2s": "imputas",
+    "3s": "imputa",
+    "1p": "imputamos",
+    "2p": "imputais",
+    "3p": "imputam"
+  },
+  "PImpI": {
+    "1s": "imputava",
+    "2s": "imputavas",
+    "3s": "imputava",
+    "1p": "imputávamos",
+    "2p": "imputáveis",
+    "3p": "imputavam"
+  },
+  "PPSI": {
+    "1s": "imputei",
+    "2s": "imputaste",
+    "3s": "imputou",
+    "1p": "imputámos",
+    "2p": "imputastes",
+    "3p": "imputaram"
+  },
+  "PMQPSI": {
+    "1s": "imputara",
+    "2s": "imputaras",
+    "3s": "imputara",
+    "1p": "imputáramos",
+    "2p": "imputáreis",
+    "3p": "imputaram"
+  },
+  "FutSI": {
+    "1s": "imputarei",
+    "2s": "imputarás",
+    "3s": "imputará",
+    "1p": "imputaremos",
+    "2p": "imputareis",
+    "3p": "imputarão"
+  },
+  "CondS": {
+    "1s": "imputaria",
+    "2s": "imputarias",
+    "3s": "imputaria",
+    "1p": "imputaríamos",
+    "2p": "imputaríeis",
+    "3p": "imputariam"
+  },
+  "PresC": {
+    "1s": "impute",
+    "2s": "imputes",
+    "3s": "impute",
+    "1p": "imputemos",
+    "2p": "imputeis",
+    "3p": "imputem"
+  },
+  "PImpC": {
+    "1s": "imputasse",
+    "2s": "imputasses",
+    "3s": "imputasse",
+    "1p": "imputássemos",
+    "2p": "imputásseis",
+    "3p": "imputassem"
+  },
+  "FutSC": {
+    "1s": "imputar",
+    "2s": "imputares",
+    "3s": "imputar",
+    "1p": "imputarmos",
+    "2p": "imputardes",
+    "3p": "imputarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imputa",
+    "3s": "impute",
+    "1p": "imputemos",
+    "2p": "imputai",
+    "3p": "imputem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não imputes",
+    "3s": "não impute",
+    "1p": "não imputemos",
+    "2p": "não imputeis",
+    "3p": "não imputem"
+  },
+  "Part-ter": {
+    "": "imputado"
+  },
+  "Part-ser": {
+    "ms": "imputado",
+    "fs": "imputada",
+    "mp": "imputados",
+    "fp": "imputadas"
+  }
+}

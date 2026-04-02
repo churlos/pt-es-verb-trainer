@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "clonar"
+  },
+  "Ger": {
+    "": "clonando"
+  },
+  "PresI": {
+    "1s": "clono",
+    "2s": "clonas",
+    "3s": "clona",
+    "1p": "clonamos",
+    "2p": "clonáis",
+    "3p": "clonan"
+  },
+  "PImpI": {
+    "1s": "clonaba",
+    "2s": "clonabas",
+    "3s": "clonaba",
+    "1p": "clonábamos",
+    "2p": "clonabais",
+    "3p": "clonaban"
+  },
+  "PPSI": {
+    "1s": "cloné",
+    "2s": "clonaste",
+    "3s": "clonó",
+    "1p": "clonamos",
+    "2p": "clonasteis",
+    "3p": "clonaron"
+  },
+  "FutSI": {
+    "1s": "clonaré",
+    "2s": "clonarás",
+    "3s": "clonará",
+    "1p": "clonaremos",
+    "2p": "clonaréis",
+    "3p": "clonarán"
+  },
+  "CondS": {
+    "1s": "clonaría",
+    "2s": "clonarías",
+    "3s": "clonaría",
+    "1p": "clonaríamos",
+    "2p": "clonaríais",
+    "3p": "clonarían"
+  },
+  "PresC": {
+    "1s": "clone",
+    "2s": "clones",
+    "3s": "clone",
+    "1p": "clonemos",
+    "2p": "clonéis",
+    "3p": "clonen"
+  },
+  "PMQPSI": {
+    "1s": "clonara",
+    "2s": "clonaras",
+    "3s": "clonara",
+    "1p": "clonáramos",
+    "2p": "clonarais",
+    "3p": "clonaran"
+  },
+  "PImpC": {
+    "1s": "clonase",
+    "2s": "clonases",
+    "3s": "clonase",
+    "1p": "clonásemos",
+    "2p": "clonaseis",
+    "3p": "clonasen"
+  },
+  "FutSC": {
+    "1s": "clonare",
+    "2s": "clonares",
+    "3s": "clonare",
+    "1p": "clonáremos",
+    "2p": "clonareis",
+    "3p": "clonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clona",
+    "3s": "clone",
+    "1p": "clonemos",
+    "2p": "clonad",
+    "3p": "clonen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no clones",
+    "3s": "no clone",
+    "1p": "no clonemos",
+    "2p": "no clonéis",
+    "3p": "no clonen"
+  },
+  "Part-ter": {
+    "": "clonado"
+  },
+  "Part-ser": {
+    "ms": "clonado",
+    "fs": "clonada",
+    "mp": "clonados",
+    "fp": "clonadas"
+  }
+}

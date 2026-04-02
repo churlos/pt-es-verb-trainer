@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cernir"
+  },
+  "Ger": {
+    "": "cerniendo"
+  },
+  "PresI": {
+    "1s": "cierno",
+    "2s": "ciernes",
+    "3s": "cierne",
+    "1p": "cernimos",
+    "2p": "cernís",
+    "3p": "ciernen"
+  },
+  "PImpI": {
+    "1s": "cernía",
+    "2s": "cernías",
+    "3s": "cernía",
+    "1p": "cerníamos",
+    "2p": "cerníais",
+    "3p": "cernían"
+  },
+  "PPSI": {
+    "1s": "cerní",
+    "2s": "cerniste",
+    "3s": "cernió",
+    "1p": "cernimos",
+    "2p": "cernisteis",
+    "3p": "cernieron"
+  },
+  "FutSI": {
+    "1s": "cerniré",
+    "2s": "cernirás",
+    "3s": "cernirá",
+    "1p": "cerniremos",
+    "2p": "cerniréis",
+    "3p": "cernirán"
+  },
+  "CondS": {
+    "1s": "cerniría",
+    "2s": "cernirías",
+    "3s": "cerniría",
+    "1p": "cerniríamos",
+    "2p": "cerniríais",
+    "3p": "cernirían"
+  },
+  "PresC": {
+    "1s": "cierna",
+    "2s": "ciernas",
+    "3s": "cierna",
+    "1p": "cernamos",
+    "2p": "cernáis",
+    "3p": "ciernan"
+  },
+  "PMQPSI": {
+    "1s": "cerniera",
+    "2s": "cernieras",
+    "3s": "cerniera",
+    "1p": "cerniéramos",
+    "2p": "cernierais",
+    "3p": "cernieran"
+  },
+  "PImpC": {
+    "1s": "cerniese",
+    "2s": "cernieses",
+    "3s": "cerniese",
+    "1p": "cerniésemos",
+    "2p": "cernieseis",
+    "3p": "cerniesen"
+  },
+  "FutSC": {
+    "1s": "cerniere",
+    "2s": "cernieres",
+    "3s": "cerniere",
+    "1p": "cerniéremos",
+    "2p": "cerniereis",
+    "3p": "cernieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cierne",
+    "3s": "cierna",
+    "1p": "cernamos",
+    "2p": "cernid",
+    "3p": "ciernan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ciernas",
+    "3s": "no cierna",
+    "1p": "no cernamos",
+    "2p": "no cernáis",
+    "3p": "no ciernan"
+  },
+  "Part-ter": {
+    "": "cernido"
+  },
+  "Part-ser": {
+    "ms": "cernido",
+    "fs": "cernida",
+    "mp": "cernidos",
+    "fp": "cernidas"
+  }
+}

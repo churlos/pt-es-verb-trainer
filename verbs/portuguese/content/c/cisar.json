@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cisar"
+  },
+  "InfP": {
+    "1s": "cisar",
+    "2s": "cisares",
+    "3s": "cisar",
+    "1p": "cisarmos",
+    "2p": "cisardes",
+    "3p": "cisarem"
+  },
+  "Ger": {
+    "": "cisando"
+  },
+  "PresI": {
+    "1s": "ciso",
+    "2s": "cisas",
+    "3s": "cisa",
+    "1p": "cisamos",
+    "2p": "cisais",
+    "3p": "cisam"
+  },
+  "PImpI": {
+    "1s": "cisava",
+    "2s": "cisavas",
+    "3s": "cisava",
+    "1p": "cisávamos",
+    "2p": "cisáveis",
+    "3p": "cisavam"
+  },
+  "PPSI": {
+    "1s": "cisei",
+    "2s": "cisaste",
+    "3s": "cisou",
+    "1p": "cisámos",
+    "2p": "cisastes",
+    "3p": "cisaram"
+  },
+  "PMQPSI": {
+    "1s": "cisara",
+    "2s": "cisaras",
+    "3s": "cisara",
+    "1p": "cisáramos",
+    "2p": "cisáreis",
+    "3p": "cisaram"
+  },
+  "FutSI": {
+    "1s": "cisarei",
+    "2s": "cisarás",
+    "3s": "cisará",
+    "1p": "cisaremos",
+    "2p": "cisareis",
+    "3p": "cisarão"
+  },
+  "CondS": {
+    "1s": "cisaria",
+    "2s": "cisarias",
+    "3s": "cisaria",
+    "1p": "cisaríamos",
+    "2p": "cisaríeis",
+    "3p": "cisariam"
+  },
+  "PresC": {
+    "1s": "cise",
+    "2s": "cises",
+    "3s": "cise",
+    "1p": "cisemos",
+    "2p": "ciseis",
+    "3p": "cisem"
+  },
+  "PImpC": {
+    "1s": "cisasse",
+    "2s": "cisasses",
+    "3s": "cisasse",
+    "1p": "cisássemos",
+    "2p": "cisásseis",
+    "3p": "cisassem"
+  },
+  "FutSC": {
+    "1s": "cisar",
+    "2s": "cisares",
+    "3s": "cisar",
+    "1p": "cisarmos",
+    "2p": "cisardes",
+    "3p": "cisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cisa",
+    "3s": "cise",
+    "1p": "cisemos",
+    "2p": "cisai",
+    "3p": "cisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cises",
+    "3s": "não cise",
+    "1p": "não cisemos",
+    "2p": "não ciseis",
+    "3p": "não cisem"
+  },
+  "Part-ter": {
+    "": "cisado"
+  },
+  "Part-ser": {
+    "ms": "cisado",
+    "fs": "cisada",
+    "mp": "cisados",
+    "fp": "cisadas"
+  }
+}

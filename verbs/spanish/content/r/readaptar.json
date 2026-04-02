@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "readaptar"
+  },
+  "Ger": {
+    "": "readaptando"
+  },
+  "PresI": {
+    "1s": "readapto",
+    "2s": "readaptas",
+    "3s": "readapta",
+    "1p": "readaptamos",
+    "2p": "readaptáis",
+    "3p": "readaptan"
+  },
+  "PImpI": {
+    "1s": "readaptaba",
+    "2s": "readaptabas",
+    "3s": "readaptaba",
+    "1p": "readaptábamos",
+    "2p": "readaptabais",
+    "3p": "readaptaban"
+  },
+  "PPSI": {
+    "1s": "readapté",
+    "2s": "readaptaste",
+    "3s": "readaptó",
+    "1p": "readaptamos",
+    "2p": "readaptasteis",
+    "3p": "readaptaron"
+  },
+  "FutSI": {
+    "1s": "readaptaré",
+    "2s": "readaptarás",
+    "3s": "readaptará",
+    "1p": "readaptaremos",
+    "2p": "readaptaréis",
+    "3p": "readaptarán"
+  },
+  "CondS": {
+    "1s": "readaptaría",
+    "2s": "readaptarías",
+    "3s": "readaptaría",
+    "1p": "readaptaríamos",
+    "2p": "readaptaríais",
+    "3p": "readaptarían"
+  },
+  "PresC": {
+    "1s": "readapte",
+    "2s": "readaptes",
+    "3s": "readapte",
+    "1p": "readaptemos",
+    "2p": "readaptéis",
+    "3p": "readapten"
+  },
+  "PMQPSI": {
+    "1s": "readaptara",
+    "2s": "readaptaras",
+    "3s": "readaptara",
+    "1p": "readaptáramos",
+    "2p": "readaptarais",
+    "3p": "readaptaran"
+  },
+  "PImpC": {
+    "1s": "readaptase",
+    "2s": "readaptases",
+    "3s": "readaptase",
+    "1p": "readaptásemos",
+    "2p": "readaptaseis",
+    "3p": "readaptasen"
+  },
+  "FutSC": {
+    "1s": "readaptare",
+    "2s": "readaptares",
+    "3s": "readaptare",
+    "1p": "readaptáremos",
+    "2p": "readaptareis",
+    "3p": "readaptaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "readapta",
+    "3s": "readapte",
+    "1p": "readaptemos",
+    "2p": "readaptad",
+    "3p": "readapten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no readaptes",
+    "3s": "no readapte",
+    "1p": "no readaptemos",
+    "2p": "no readaptéis",
+    "3p": "no readapten"
+  },
+  "Part-ter": {
+    "": "readaptado"
+  },
+  "Part-ser": {
+    "ms": "readaptado",
+    "fs": "readaptada",
+    "mp": "readaptados",
+    "fp": "readaptadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "declamar"
+  },
+  "InfP": {
+    "1s": "declamar",
+    "2s": "declamares",
+    "3s": "declamar",
+    "1p": "declamarmos",
+    "2p": "declamardes",
+    "3p": "declamarem"
+  },
+  "Ger": {
+    "": "declamando"
+  },
+  "PresI": {
+    "1s": "declamo",
+    "2s": "declamas",
+    "3s": "declama",
+    "1p": "declamamos",
+    "2p": "declamais",
+    "3p": "declamam"
+  },
+  "PImpI": {
+    "1s": "declamava",
+    "2s": "declamavas",
+    "3s": "declamava",
+    "1p": "declamávamos",
+    "2p": "declamáveis",
+    "3p": "declamavam"
+  },
+  "PPSI": {
+    "1s": "declamei",
+    "2s": "declamaste",
+    "3s": "declamou",
+    "1p": "declamámos",
+    "2p": "declamastes",
+    "3p": "declamaram"
+  },
+  "PMQPSI": {
+    "1s": "declamara",
+    "2s": "declamaras",
+    "3s": "declamara",
+    "1p": "declamáramos",
+    "2p": "declamáreis",
+    "3p": "declamaram"
+  },
+  "FutSI": {
+    "1s": "declamarei",
+    "2s": "declamarás",
+    "3s": "declamará",
+    "1p": "declamaremos",
+    "2p": "declamareis",
+    "3p": "declamarão"
+  },
+  "CondS": {
+    "1s": "declamaria",
+    "2s": "declamarias",
+    "3s": "declamaria",
+    "1p": "declamaríamos",
+    "2p": "declamaríeis",
+    "3p": "declamariam"
+  },
+  "PresC": {
+    "1s": "declame",
+    "2s": "declames",
+    "3s": "declame",
+    "1p": "declamemos",
+    "2p": "declameis",
+    "3p": "declamem"
+  },
+  "PImpC": {
+    "1s": "declamasse",
+    "2s": "declamasses",
+    "3s": "declamasse",
+    "1p": "declamássemos",
+    "2p": "declamásseis",
+    "3p": "declamassem"
+  },
+  "FutSC": {
+    "1s": "declamar",
+    "2s": "declamares",
+    "3s": "declamar",
+    "1p": "declamarmos",
+    "2p": "declamardes",
+    "3p": "declamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "declama",
+    "3s": "declame",
+    "1p": "declamemos",
+    "2p": "declamai",
+    "3p": "declamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não declames",
+    "3s": "não declame",
+    "1p": "não declamemos",
+    "2p": "não declameis",
+    "3p": "não declamem"
+  },
+  "Part-ter": {
+    "": "declamado"
+  },
+  "Part-ser": {
+    "ms": "declamado",
+    "fs": "declamada",
+    "mp": "declamados",
+    "fp": "declamadas"
+  }
+}

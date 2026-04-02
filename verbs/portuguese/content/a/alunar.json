@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alunar"
+  },
+  "InfP": {
+    "1s": "alunar",
+    "2s": "alunares",
+    "3s": "alunar",
+    "1p": "alunarmos",
+    "2p": "alunardes",
+    "3p": "alunarem"
+  },
+  "Ger": {
+    "": "alunando"
+  },
+  "PresI": {
+    "1s": "aluno",
+    "2s": "alunas",
+    "3s": "aluna",
+    "1p": "alunamos",
+    "2p": "alunais",
+    "3p": "alunam"
+  },
+  "PImpI": {
+    "1s": "alunava",
+    "2s": "alunavas",
+    "3s": "alunava",
+    "1p": "alunávamos",
+    "2p": "alunáveis",
+    "3p": "alunavam"
+  },
+  "PPSI": {
+    "1s": "alunei",
+    "2s": "alunaste",
+    "3s": "alunou",
+    "1p": "alunámos",
+    "2p": "alunastes",
+    "3p": "alunaram"
+  },
+  "PMQPSI": {
+    "1s": "alunara",
+    "2s": "alunaras",
+    "3s": "alunara",
+    "1p": "alunáramos",
+    "2p": "alunáreis",
+    "3p": "alunaram"
+  },
+  "FutSI": {
+    "1s": "alunarei",
+    "2s": "alunarás",
+    "3s": "alunará",
+    "1p": "alunaremos",
+    "2p": "alunareis",
+    "3p": "alunarão"
+  },
+  "CondS": {
+    "1s": "alunaria",
+    "2s": "alunarias",
+    "3s": "alunaria",
+    "1p": "alunaríamos",
+    "2p": "alunaríeis",
+    "3p": "alunariam"
+  },
+  "PresC": {
+    "1s": "alune",
+    "2s": "alunes",
+    "3s": "alune",
+    "1p": "alunemos",
+    "2p": "aluneis",
+    "3p": "alunem"
+  },
+  "PImpC": {
+    "1s": "alunasse",
+    "2s": "alunasses",
+    "3s": "alunasse",
+    "1p": "alunássemos",
+    "2p": "alunásseis",
+    "3p": "alunassem"
+  },
+  "FutSC": {
+    "1s": "alunar",
+    "2s": "alunares",
+    "3s": "alunar",
+    "1p": "alunarmos",
+    "2p": "alunardes",
+    "3p": "alunarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aluna",
+    "3s": "alune",
+    "1p": "alunemos",
+    "2p": "alunai",
+    "3p": "alunem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alunes",
+    "3s": "não alune",
+    "1p": "não alunemos",
+    "2p": "não aluneis",
+    "3p": "não alunem"
+  },
+  "Part-ter": {
+    "": "alunado"
+  },
+  "Part-ser": {
+    "ms": "alunado",
+    "fs": "alunada",
+    "mp": "alunados",
+    "fp": "alunadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "notificar"
+  },
+  "InfP": {
+    "1s": "notificar",
+    "2s": "notificares",
+    "3s": "notificar",
+    "1p": "notificarmos",
+    "2p": "notificardes",
+    "3p": "notificarem"
+  },
+  "Ger": {
+    "": "notificando"
+  },
+  "PresI": {
+    "1s": "notifico",
+    "2s": "notificas",
+    "3s": "notifica",
+    "1p": "notificamos",
+    "2p": "notificais",
+    "3p": "notificam"
+  },
+  "PImpI": {
+    "1s": "notificava",
+    "2s": "notificavas",
+    "3s": "notificava",
+    "1p": "notificávamos",
+    "2p": "notificáveis",
+    "3p": "notificavam"
+  },
+  "PPSI": {
+    "1s": "notifiquei",
+    "2s": "notificaste",
+    "3s": "notificou",
+    "1p": "notificámos",
+    "2p": "notificastes",
+    "3p": "notificaram"
+  },
+  "PMQPSI": {
+    "1s": "notificara",
+    "2s": "notificaras",
+    "3s": "notificara",
+    "1p": "notificáramos",
+    "2p": "notificáreis",
+    "3p": "notificaram"
+  },
+  "FutSI": {
+    "1s": "notificarei",
+    "2s": "notificarás",
+    "3s": "notificará",
+    "1p": "notificaremos",
+    "2p": "notificareis",
+    "3p": "notificarão"
+  },
+  "CondS": {
+    "1s": "notificaria",
+    "2s": "notificarias",
+    "3s": "notificaria",
+    "1p": "notificaríamos",
+    "2p": "notificaríeis",
+    "3p": "notificariam"
+  },
+  "PresC": {
+    "1s": "notifique",
+    "2s": "notifiques",
+    "3s": "notifique",
+    "1p": "notifiquemos",
+    "2p": "notifiqueis",
+    "3p": "notifiquem"
+  },
+  "PImpC": {
+    "1s": "notificasse",
+    "2s": "notificasses",
+    "3s": "notificasse",
+    "1p": "notificássemos",
+    "2p": "notificásseis",
+    "3p": "notificassem"
+  },
+  "FutSC": {
+    "1s": "notificar",
+    "2s": "notificares",
+    "3s": "notificar",
+    "1p": "notificarmos",
+    "2p": "notificardes",
+    "3p": "notificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "notifica",
+    "3s": "notifique",
+    "1p": "notifiquemos",
+    "2p": "notificai",
+    "3p": "notifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não notifiques",
+    "3s": "não notifique",
+    "1p": "não notifiquemos",
+    "2p": "não notifiqueis",
+    "3p": "não notifiquem"
+  },
+  "Part-ter": {
+    "": "notificado"
+  },
+  "Part-ser": {
+    "ms": "notificado",
+    "fs": "notificada",
+    "mp": "notificados",
+    "fp": "notificadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lograr"
+  },
+  "InfP": {
+    "1s": "lograr",
+    "2s": "lograres",
+    "3s": "lograr",
+    "1p": "lograrmos",
+    "2p": "logrardes",
+    "3p": "lograrem"
+  },
+  "Ger": {
+    "": "logrando"
+  },
+  "PresI": {
+    "1s": "logro",
+    "2s": "logras",
+    "3s": "logra",
+    "1p": "logramos",
+    "2p": "lograis",
+    "3p": "logram"
+  },
+  "PImpI": {
+    "1s": "lograva",
+    "2s": "logravas",
+    "3s": "lograva",
+    "1p": "lográvamos",
+    "2p": "lográveis",
+    "3p": "logravam"
+  },
+  "PPSI": {
+    "1s": "logrei",
+    "2s": "lograste",
+    "3s": "logrou",
+    "1p": "lográmos",
+    "2p": "lograstes",
+    "3p": "lograram"
+  },
+  "PMQPSI": {
+    "1s": "lograra",
+    "2s": "lograras",
+    "3s": "lograra",
+    "1p": "lográramos",
+    "2p": "lográreis",
+    "3p": "lograram"
+  },
+  "FutSI": {
+    "1s": "lograrei",
+    "2s": "lograrás",
+    "3s": "logrará",
+    "1p": "lograremos",
+    "2p": "lograreis",
+    "3p": "lograrão"
+  },
+  "CondS": {
+    "1s": "lograria",
+    "2s": "lograrias",
+    "3s": "lograria",
+    "1p": "lograríamos",
+    "2p": "lograríeis",
+    "3p": "lograriam"
+  },
+  "PresC": {
+    "1s": "logre",
+    "2s": "logres",
+    "3s": "logre",
+    "1p": "logremos",
+    "2p": "logreis",
+    "3p": "logrem"
+  },
+  "PImpC": {
+    "1s": "lograsse",
+    "2s": "lograsses",
+    "3s": "lograsse",
+    "1p": "lográssemos",
+    "2p": "lográsseis",
+    "3p": "lograssem"
+  },
+  "FutSC": {
+    "1s": "lograr",
+    "2s": "lograres",
+    "3s": "lograr",
+    "1p": "lograrmos",
+    "2p": "logrardes",
+    "3p": "lograrem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "logra",
+    "3s": "logre",
+    "1p": "logremos",
+    "2p": "lograi",
+    "3p": "logrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não logres",
+    "3s": "não logre",
+    "1p": "não logremos",
+    "2p": "não logreis",
+    "3p": "não logrem"
+  },
+  "Part-ter": {
+    "": "logrado"
+  },
+  "Part-ser": {
+    "ms": "logrado",
+    "fs": "lograda",
+    "mp": "logrados",
+    "fp": "logradas"
+  }
+}

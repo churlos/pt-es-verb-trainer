@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emprestar"
+  },
+  "InfP": {
+    "1s": "emprestar",
+    "2s": "emprestares",
+    "3s": "emprestar",
+    "1p": "emprestarmos",
+    "2p": "emprestardes",
+    "3p": "emprestarem"
+  },
+  "Ger": {
+    "": "emprestando"
+  },
+  "PresI": {
+    "1s": "empresto",
+    "2s": "emprestas",
+    "3s": "empresta",
+    "1p": "emprestamos",
+    "2p": "emprestais",
+    "3p": "emprestam"
+  },
+  "PImpI": {
+    "1s": "emprestava",
+    "2s": "emprestavas",
+    "3s": "emprestava",
+    "1p": "emprestávamos",
+    "2p": "emprestáveis",
+    "3p": "emprestavam"
+  },
+  "PPSI": {
+    "1s": "emprestei",
+    "2s": "emprestaste",
+    "3s": "emprestou",
+    "1p": "emprestámos",
+    "2p": "emprestastes",
+    "3p": "emprestaram"
+  },
+  "PMQPSI": {
+    "1s": "emprestara",
+    "2s": "emprestaras",
+    "3s": "emprestara",
+    "1p": "emprestáramos",
+    "2p": "emprestáreis",
+    "3p": "emprestaram"
+  },
+  "FutSI": {
+    "1s": "emprestarei",
+    "2s": "emprestarás",
+    "3s": "emprestará",
+    "1p": "emprestaremos",
+    "2p": "emprestareis",
+    "3p": "emprestarão"
+  },
+  "CondS": {
+    "1s": "emprestaria",
+    "2s": "emprestarias",
+    "3s": "emprestaria",
+    "1p": "emprestaríamos",
+    "2p": "emprestaríeis",
+    "3p": "emprestariam"
+  },
+  "PresC": {
+    "1s": "empreste",
+    "2s": "emprestes",
+    "3s": "empreste",
+    "1p": "emprestemos",
+    "2p": "empresteis",
+    "3p": "emprestem"
+  },
+  "PImpC": {
+    "1s": "emprestasse",
+    "2s": "emprestasses",
+    "3s": "emprestasse",
+    "1p": "emprestássemos",
+    "2p": "emprestásseis",
+    "3p": "emprestassem"
+  },
+  "FutSC": {
+    "1s": "emprestar",
+    "2s": "emprestares",
+    "3s": "emprestar",
+    "1p": "emprestarmos",
+    "2p": "emprestardes",
+    "3p": "emprestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empresta",
+    "3s": "empreste",
+    "1p": "emprestemos",
+    "2p": "emprestai",
+    "3p": "emprestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emprestes",
+    "3s": "não empreste",
+    "1p": "não emprestemos",
+    "2p": "não empresteis",
+    "3p": "não emprestem"
+  },
+  "Part-ter": {
+    "": "emprestado"
+  },
+  "Part-ser": {
+    "ms": "emprestado",
+    "fs": "emprestada",
+    "mp": "emprestados",
+    "fp": "emprestadas"
+  }
+}

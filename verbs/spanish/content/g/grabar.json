@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "grabar"
+  },
+  "Ger": {
+    "": "grabando"
+  },
+  "PresI": {
+    "1s": "grabo",
+    "2s": "grabas",
+    "3s": "graba",
+    "1p": "grabamos",
+    "2p": "grabáis",
+    "3p": "graban"
+  },
+  "PImpI": {
+    "1s": "grababa",
+    "2s": "grababas",
+    "3s": "grababa",
+    "1p": "grabábamos",
+    "2p": "grababais",
+    "3p": "grababan"
+  },
+  "PPSI": {
+    "1s": "grabé",
+    "2s": "grabaste",
+    "3s": "grabó",
+    "1p": "grabamos",
+    "2p": "grabasteis",
+    "3p": "grabaron"
+  },
+  "FutSI": {
+    "1s": "grabaré",
+    "2s": "grabarás",
+    "3s": "grabará",
+    "1p": "grabaremos",
+    "2p": "grabaréis",
+    "3p": "grabarán"
+  },
+  "CondS": {
+    "1s": "grabaría",
+    "2s": "grabarías",
+    "3s": "grabaría",
+    "1p": "grabaríamos",
+    "2p": "grabaríais",
+    "3p": "grabarían"
+  },
+  "PresC": {
+    "1s": "grabe",
+    "2s": "grabes",
+    "3s": "grabe",
+    "1p": "grabemos",
+    "2p": "grabéis",
+    "3p": "graben"
+  },
+  "PMQPSI": {
+    "1s": "grabara",
+    "2s": "grabaras",
+    "3s": "grabara",
+    "1p": "grabáramos",
+    "2p": "grabarais",
+    "3p": "grabaran"
+  },
+  "PImpC": {
+    "1s": "grabase",
+    "2s": "grabases",
+    "3s": "grabase",
+    "1p": "grabásemos",
+    "2p": "grabaseis",
+    "3p": "grabasen"
+  },
+  "FutSC": {
+    "1s": "grabare",
+    "2s": "grabares",
+    "3s": "grabare",
+    "1p": "grabáremos",
+    "2p": "grabareis",
+    "3p": "grabaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "graba",
+    "3s": "grabe",
+    "1p": "grabemos",
+    "2p": "grabad",
+    "3p": "graben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no grabes",
+    "3s": "no grabe",
+    "1p": "no grabemos",
+    "2p": "no grabéis",
+    "3p": "no graben"
+  },
+  "Part-ter": {
+    "": "grabado"
+  },
+  "Part-ser": {
+    "ms": "grabado",
+    "fs": "grabada",
+    "mp": "grabados",
+    "fp": "grabadas"
+  }
+}

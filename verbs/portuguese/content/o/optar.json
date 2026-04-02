@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "optar"
+  },
+  "InfP": {
+    "1s": "optar",
+    "2s": "optares",
+    "3s": "optar",
+    "1p": "optarmos",
+    "2p": "optardes",
+    "3p": "optarem"
+  },
+  "Ger": {
+    "": "optando"
+  },
+  "PresI": {
+    "1s": "opto",
+    "2s": "optas",
+    "3s": "opta",
+    "1p": "optamos",
+    "2p": "optais",
+    "3p": "optam"
+  },
+  "PImpI": {
+    "1s": "optava",
+    "2s": "optavas",
+    "3s": "optava",
+    "1p": "optávamos",
+    "2p": "optáveis",
+    "3p": "optavam"
+  },
+  "PPSI": {
+    "1s": "optei",
+    "2s": "optaste",
+    "3s": "optou",
+    "1p": "optámos",
+    "2p": "optastes",
+    "3p": "optaram"
+  },
+  "PMQPSI": {
+    "1s": "optara",
+    "2s": "optaras",
+    "3s": "optara",
+    "1p": "optáramos",
+    "2p": "optáreis",
+    "3p": "optaram"
+  },
+  "FutSI": {
+    "1s": "optarei",
+    "2s": "optarás",
+    "3s": "optará",
+    "1p": "optaremos",
+    "2p": "optareis",
+    "3p": "optarão"
+  },
+  "CondS": {
+    "1s": "optaria",
+    "2s": "optarias",
+    "3s": "optaria",
+    "1p": "optaríamos",
+    "2p": "optaríeis",
+    "3p": "optariam"
+  },
+  "PresC": {
+    "1s": "opte",
+    "2s": "optes",
+    "3s": "opte",
+    "1p": "optemos",
+    "2p": "opteis",
+    "3p": "optem"
+  },
+  "PImpC": {
+    "1s": "optasse",
+    "2s": "optasses",
+    "3s": "optasse",
+    "1p": "optássemos",
+    "2p": "optásseis",
+    "3p": "optassem"
+  },
+  "FutSC": {
+    "1s": "optar",
+    "2s": "optares",
+    "3s": "optar",
+    "1p": "optarmos",
+    "2p": "optardes",
+    "3p": "optarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "opta",
+    "3s": "opte",
+    "1p": "optemos",
+    "2p": "optai",
+    "3p": "optem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não optes",
+    "3s": "não opte",
+    "1p": "não optemos",
+    "2p": "não opteis",
+    "3p": "não optem"
+  },
+  "Part-ter": {
+    "": "optado"
+  },
+  "Part-ser": {
+    "ms": "optado",
+    "fs": "optada",
+    "mp": "optados",
+    "fp": "optadas"
+  }
+}

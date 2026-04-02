@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "explicar"
+  },
+  "Ger": {
+    "": "explicando"
+  },
+  "PresI": {
+    "1s": "explico",
+    "2s": "explicas",
+    "3s": "explica",
+    "1p": "explicamos",
+    "2p": "explicáis",
+    "3p": "explican"
+  },
+  "PImpI": {
+    "1s": "explicaba",
+    "2s": "explicabas",
+    "3s": "explicaba",
+    "1p": "explicábamos",
+    "2p": "explicabais",
+    "3p": "explicaban"
+  },
+  "PPSI": {
+    "1s": "expliqué",
+    "2s": "explicaste",
+    "3s": "explicó",
+    "1p": "explicamos",
+    "2p": "explicasteis",
+    "3p": "explicaron"
+  },
+  "FutSI": {
+    "1s": "explicaré",
+    "2s": "explicarás",
+    "3s": "explicará",
+    "1p": "explicaremos",
+    "2p": "explicaréis",
+    "3p": "explicarán"
+  },
+  "CondS": {
+    "1s": "explicaría",
+    "2s": "explicarías",
+    "3s": "explicaría",
+    "1p": "explicaríamos",
+    "2p": "explicaríais",
+    "3p": "explicarían"
+  },
+  "PresC": {
+    "1s": "explique",
+    "2s": "expliques",
+    "3s": "explique",
+    "1p": "expliquemos",
+    "2p": "expliquéis",
+    "3p": "expliquen"
+  },
+  "PMQPSI": {
+    "1s": "explicara",
+    "2s": "explicaras",
+    "3s": "explicara",
+    "1p": "explicáramos",
+    "2p": "explicarais",
+    "3p": "explicaran"
+  },
+  "PImpC": {
+    "1s": "explicase",
+    "2s": "explicases",
+    "3s": "explicase",
+    "1p": "explicásemos",
+    "2p": "explicaseis",
+    "3p": "explicasen"
+  },
+  "FutSC": {
+    "1s": "explicare",
+    "2s": "explicares",
+    "3s": "explicare",
+    "1p": "explicáremos",
+    "2p": "explicareis",
+    "3p": "explicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "explica",
+    "3s": "explique",
+    "1p": "expliquemos",
+    "2p": "explicad",
+    "3p": "expliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no expliques",
+    "3s": "no explique",
+    "1p": "no expliquemos",
+    "2p": "no expliquéis",
+    "3p": "no expliquen"
+  },
+  "Part-ter": {
+    "": "explicado"
+  },
+  "Part-ser": {
+    "ms": "explicado",
+    "fs": "explicada",
+    "mp": "explicados",
+    "fp": "explicadas"
+  }
+}

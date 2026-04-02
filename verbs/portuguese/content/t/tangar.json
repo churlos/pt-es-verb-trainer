@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tangar"
+  },
+  "InfP": {
+    "1s": "tangar",
+    "2s": "tangares",
+    "3s": "tangar",
+    "1p": "tangarmos",
+    "2p": "tangardes",
+    "3p": "tangarem"
+  },
+  "Ger": {
+    "": "tangando"
+  },
+  "PresI": {
+    "1s": "tango",
+    "2s": "tangas",
+    "3s": "tanga",
+    "1p": "tangamos",
+    "2p": "tangais",
+    "3p": "tangam"
+  },
+  "PImpI": {
+    "1s": "tangava",
+    "2s": "tangavas",
+    "3s": "tangava",
+    "1p": "tangávamos",
+    "2p": "tangáveis",
+    "3p": "tangavam"
+  },
+  "PPSI": {
+    "1s": "tanguei",
+    "2s": "tangaste",
+    "3s": "tangou",
+    "1p": "tangámos",
+    "2p": "tangastes",
+    "3p": "tangaram"
+  },
+  "PMQPSI": {
+    "1s": "tangara",
+    "2s": "tangaras",
+    "3s": "tangara",
+    "1p": "tangáramos",
+    "2p": "tangáreis",
+    "3p": "tangaram"
+  },
+  "FutSI": {
+    "1s": "tangarei",
+    "2s": "tangarás",
+    "3s": "tangará",
+    "1p": "tangaremos",
+    "2p": "tangareis",
+    "3p": "tangarão"
+  },
+  "CondS": {
+    "1s": "tangaria",
+    "2s": "tangarias",
+    "3s": "tangaria",
+    "1p": "tangaríamos",
+    "2p": "tangaríeis",
+    "3p": "tangariam"
+  },
+  "PresC": {
+    "1s": "tangue",
+    "2s": "tangues",
+    "3s": "tangue",
+    "1p": "tanguemos",
+    "2p": "tangueis",
+    "3p": "tanguem"
+  },
+  "PImpC": {
+    "1s": "tangasse",
+    "2s": "tangasses",
+    "3s": "tangasse",
+    "1p": "tangássemos",
+    "2p": "tangásseis",
+    "3p": "tangassem"
+  },
+  "FutSC": {
+    "1s": "tangar",
+    "2s": "tangares",
+    "3s": "tangar",
+    "1p": "tangarmos",
+    "2p": "tangardes",
+    "3p": "tangarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tanga",
+    "3s": "tangue",
+    "1p": "tanguemos",
+    "2p": "tangai",
+    "3p": "tanguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tangues",
+    "3s": "não tangue",
+    "1p": "não tanguemos",
+    "2p": "não tangueis",
+    "3p": "não tanguem"
+  },
+  "Part-ter": {
+    "": "tangado"
+  },
+  "Part-ser": {
+    "ms": "tangado",
+    "fs": "tangada",
+    "mp": "tangados",
+    "fp": "tangadas"
+  }
+}

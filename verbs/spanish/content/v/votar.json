@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "votar"
+  },
+  "Ger": {
+    "": "votando"
+  },
+  "PresI": {
+    "1s": "voto",
+    "2s": "votas",
+    "3s": "vota",
+    "1p": "votamos",
+    "2p": "votáis",
+    "3p": "votan"
+  },
+  "PImpI": {
+    "1s": "votaba",
+    "2s": "votabas",
+    "3s": "votaba",
+    "1p": "votábamos",
+    "2p": "votabais",
+    "3p": "votaban"
+  },
+  "PPSI": {
+    "1s": "voté",
+    "2s": "votaste",
+    "3s": "votó",
+    "1p": "votamos",
+    "2p": "votasteis",
+    "3p": "votaron"
+  },
+  "FutSI": {
+    "1s": "votaré",
+    "2s": "votarás",
+    "3s": "votará",
+    "1p": "votaremos",
+    "2p": "votaréis",
+    "3p": "votarán"
+  },
+  "CondS": {
+    "1s": "votaría",
+    "2s": "votarías",
+    "3s": "votaría",
+    "1p": "votaríamos",
+    "2p": "votaríais",
+    "3p": "votarían"
+  },
+  "PresC": {
+    "1s": "vote",
+    "2s": "votes",
+    "3s": "vote",
+    "1p": "votemos",
+    "2p": "votéis",
+    "3p": "voten"
+  },
+  "PMQPSI": {
+    "1s": "votara",
+    "2s": "votaras",
+    "3s": "votara",
+    "1p": "votáramos",
+    "2p": "votarais",
+    "3p": "votaran"
+  },
+  "PImpC": {
+    "1s": "votase",
+    "2s": "votases",
+    "3s": "votase",
+    "1p": "votásemos",
+    "2p": "votaseis",
+    "3p": "votasen"
+  },
+  "FutSC": {
+    "1s": "votare",
+    "2s": "votares",
+    "3s": "votare",
+    "1p": "votáremos",
+    "2p": "votareis",
+    "3p": "votaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vota",
+    "3s": "vote",
+    "1p": "votemos",
+    "2p": "votad",
+    "3p": "voten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no votes",
+    "3s": "no vote",
+    "1p": "no votemos",
+    "2p": "no votéis",
+    "3p": "no voten"
+  },
+  "Part-ter": {
+    "": "votado"
+  },
+  "Part-ser": {
+    "ms": "votado",
+    "fs": "votada",
+    "mp": "votados",
+    "fp": "votadas"
+  }
+}

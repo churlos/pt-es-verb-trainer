@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vogar"
+  },
+  "InfP": {
+    "1s": "vogar",
+    "2s": "vogares",
+    "3s": "vogar",
+    "1p": "vogarmos",
+    "2p": "vogardes",
+    "3p": "vogarem"
+  },
+  "Ger": {
+    "": "vogando"
+  },
+  "PresI": {
+    "1s": "vogo",
+    "2s": "vogas",
+    "3s": "voga",
+    "1p": "vogamos",
+    "2p": "vogais",
+    "3p": "vogam"
+  },
+  "PImpI": {
+    "1s": "vogava",
+    "2s": "vogavas",
+    "3s": "vogava",
+    "1p": "vogávamos",
+    "2p": "vogáveis",
+    "3p": "vogavam"
+  },
+  "PPSI": {
+    "1s": "voguei",
+    "2s": "vogaste",
+    "3s": "vogou",
+    "1p": "vogámos",
+    "2p": "vogastes",
+    "3p": "vogaram"
+  },
+  "PMQPSI": {
+    "1s": "vogara",
+    "2s": "vogaras",
+    "3s": "vogara",
+    "1p": "vogáramos",
+    "2p": "vogáreis",
+    "3p": "vogaram"
+  },
+  "FutSI": {
+    "1s": "vogarei",
+    "2s": "vogarás",
+    "3s": "vogará",
+    "1p": "vogaremos",
+    "2p": "vogareis",
+    "3p": "vogarão"
+  },
+  "CondS": {
+    "1s": "vogaria",
+    "2s": "vogarias",
+    "3s": "vogaria",
+    "1p": "vogaríamos",
+    "2p": "vogaríeis",
+    "3p": "vogariam"
+  },
+  "PresC": {
+    "1s": "vogue",
+    "2s": "vogues",
+    "3s": "vogue",
+    "1p": "voguemos",
+    "2p": "vogueis",
+    "3p": "voguem"
+  },
+  "PImpC": {
+    "1s": "vogasse",
+    "2s": "vogasses",
+    "3s": "vogasse",
+    "1p": "vogássemos",
+    "2p": "vogásseis",
+    "3p": "vogassem"
+  },
+  "FutSC": {
+    "1s": "vogar",
+    "2s": "vogares",
+    "3s": "vogar",
+    "1p": "vogarmos",
+    "2p": "vogardes",
+    "3p": "vogarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "voga",
+    "3s": "vogue",
+    "1p": "voguemos",
+    "2p": "vogai",
+    "3p": "voguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vogues",
+    "3s": "não vogue",
+    "1p": "não voguemos",
+    "2p": "não vogueis",
+    "3p": "não voguem"
+  },
+  "Part-ter": {
+    "": "vogado"
+  },
+  "Part-ser": {
+    "ms": "vogado",
+    "fs": "vogada",
+    "mp": "vogados",
+    "fp": "vogadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "averiguar"
+  },
+  "Ger": {
+    "": "averiguando"
+  },
+  "PresI": {
+    "1s": "averiguo",
+    "2s": "averiguas",
+    "3s": "averigua",
+    "1p": "averiguamos",
+    "2p": "averiguáis",
+    "3p": "averiguan"
+  },
+  "PImpI": {
+    "1s": "averiguaba",
+    "2s": "averiguabas",
+    "3s": "averiguaba",
+    "1p": "averiguábamos",
+    "2p": "averiguabais",
+    "3p": "averiguaban"
+  },
+  "PPSI": {
+    "1s": "averigüé",
+    "2s": "averiguaste",
+    "3s": "averiguó",
+    "1p": "averiguamos",
+    "2p": "averiguasteis",
+    "3p": "averiguaron"
+  },
+  "FutSI": {
+    "1s": "averiguaré",
+    "2s": "averiguarás",
+    "3s": "averiguará",
+    "1p": "averiguaremos",
+    "2p": "averiguaréis",
+    "3p": "averiguarán"
+  },
+  "CondS": {
+    "1s": "averiguaría",
+    "2s": "averiguarías",
+    "3s": "averiguaría",
+    "1p": "averiguaríamos",
+    "2p": "averiguaríais",
+    "3p": "averiguarían"
+  },
+  "PresC": {
+    "1s": "averigüe",
+    "2s": "averigües",
+    "3s": "averigüe",
+    "1p": "averigüemos",
+    "2p": "averigüéis",
+    "3p": "averigüen"
+  },
+  "PMQPSI": {
+    "1s": "averiguara",
+    "2s": "averiguaras",
+    "3s": "averiguara",
+    "1p": "averiguáramos",
+    "2p": "averiguarais",
+    "3p": "averiguaran"
+  },
+  "PImpC": {
+    "1s": "averiguase",
+    "2s": "averiguases",
+    "3s": "averiguase",
+    "1p": "averiguásemos",
+    "2p": "averiguaseis",
+    "3p": "averiguasen"
+  },
+  "FutSC": {
+    "1s": "averiguare",
+    "2s": "averiguares",
+    "3s": "averiguare",
+    "1p": "averiguáremos",
+    "2p": "averiguareis",
+    "3p": "averiguaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "averigua",
+    "3s": "averigüe",
+    "1p": "averigüemos",
+    "2p": "averiguad",
+    "3p": "averigüen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no averigües",
+    "3s": "no averigüe",
+    "1p": "no averigüemos",
+    "2p": "no averigüéis",
+    "3p": "no averigüen"
+  },
+  "Part-ter": {
+    "": "averiguado"
+  },
+  "Part-ser": {
+    "ms": "averiguado",
+    "fs": "averiguada",
+    "mp": "averiguados",
+    "fp": "averiguadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "velicar"
+  },
+  "Ger": {
+    "": "velicando"
+  },
+  "PresI": {
+    "1s": "velico",
+    "2s": "velicas",
+    "3s": "velica",
+    "1p": "velicamos",
+    "2p": "velicáis",
+    "3p": "velican"
+  },
+  "PImpI": {
+    "1s": "velicaba",
+    "2s": "velicabas",
+    "3s": "velicaba",
+    "1p": "velicábamos",
+    "2p": "velicabais",
+    "3p": "velicaban"
+  },
+  "PPSI": {
+    "1s": "veliqué",
+    "2s": "velicaste",
+    "3s": "velicó",
+    "1p": "velicamos",
+    "2p": "velicasteis",
+    "3p": "velicaron"
+  },
+  "FutSI": {
+    "1s": "velicaré",
+    "2s": "velicarás",
+    "3s": "velicará",
+    "1p": "velicaremos",
+    "2p": "velicaréis",
+    "3p": "velicarán"
+  },
+  "CondS": {
+    "1s": "velicaría",
+    "2s": "velicarías",
+    "3s": "velicaría",
+    "1p": "velicaríamos",
+    "2p": "velicaríais",
+    "3p": "velicarían"
+  },
+  "PresC": {
+    "1s": "velique",
+    "2s": "veliques",
+    "3s": "velique",
+    "1p": "veliquemos",
+    "2p": "veliquéis",
+    "3p": "veliquen"
+  },
+  "PMQPSI": {
+    "1s": "velicara",
+    "2s": "velicaras",
+    "3s": "velicara",
+    "1p": "velicáramos",
+    "2p": "velicarais",
+    "3p": "velicaran"
+  },
+  "PImpC": {
+    "1s": "velicase",
+    "2s": "velicases",
+    "3s": "velicase",
+    "1p": "velicásemos",
+    "2p": "velicaseis",
+    "3p": "velicasen"
+  },
+  "FutSC": {
+    "1s": "velicare",
+    "2s": "velicares",
+    "3s": "velicare",
+    "1p": "velicáremos",
+    "2p": "velicareis",
+    "3p": "velicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "velica",
+    "3s": "velique",
+    "1p": "veliquemos",
+    "2p": "velicad",
+    "3p": "veliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no veliques",
+    "3s": "no velique",
+    "1p": "no veliquemos",
+    "2p": "no veliquéis",
+    "3p": "no veliquen"
+  },
+  "Part-ter": {
+    "": "velicado"
+  },
+  "Part-ser": {
+    "ms": "velicado",
+    "fs": "velicada",
+    "mp": "velicados",
+    "fp": "velicadas"
+  }
+}

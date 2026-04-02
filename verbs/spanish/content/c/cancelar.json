@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cancelar"
+  },
+  "Ger": {
+    "": "cancelando"
+  },
+  "PresI": {
+    "1s": "cancelo",
+    "2s": "cancelas",
+    "3s": "cancela",
+    "1p": "cancelamos",
+    "2p": "canceláis",
+    "3p": "cancelan"
+  },
+  "PImpI": {
+    "1s": "cancelaba",
+    "2s": "cancelabas",
+    "3s": "cancelaba",
+    "1p": "cancelábamos",
+    "2p": "cancelabais",
+    "3p": "cancelaban"
+  },
+  "PPSI": {
+    "1s": "cancelé",
+    "2s": "cancelaste",
+    "3s": "canceló",
+    "1p": "cancelamos",
+    "2p": "cancelasteis",
+    "3p": "cancelaron"
+  },
+  "FutSI": {
+    "1s": "cancelaré",
+    "2s": "cancelarás",
+    "3s": "cancelará",
+    "1p": "cancelaremos",
+    "2p": "cancelaréis",
+    "3p": "cancelarán"
+  },
+  "CondS": {
+    "1s": "cancelaría",
+    "2s": "cancelarías",
+    "3s": "cancelaría",
+    "1p": "cancelaríamos",
+    "2p": "cancelaríais",
+    "3p": "cancelarían"
+  },
+  "PresC": {
+    "1s": "cancele",
+    "2s": "canceles",
+    "3s": "cancele",
+    "1p": "cancelemos",
+    "2p": "canceléis",
+    "3p": "cancelen"
+  },
+  "PMQPSI": {
+    "1s": "cancelara",
+    "2s": "cancelaras",
+    "3s": "cancelara",
+    "1p": "canceláramos",
+    "2p": "cancelarais",
+    "3p": "cancelaran"
+  },
+  "PImpC": {
+    "1s": "cancelase",
+    "2s": "cancelases",
+    "3s": "cancelase",
+    "1p": "cancelásemos",
+    "2p": "cancelaseis",
+    "3p": "cancelasen"
+  },
+  "FutSC": {
+    "1s": "cancelare",
+    "2s": "cancelares",
+    "3s": "cancelare",
+    "1p": "canceláremos",
+    "2p": "cancelareis",
+    "3p": "cancelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cancela",
+    "3s": "cancele",
+    "1p": "cancelemos",
+    "2p": "cancelad",
+    "3p": "cancelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no canceles",
+    "3s": "no cancele",
+    "1p": "no cancelemos",
+    "2p": "no canceléis",
+    "3p": "no cancelen"
+  },
+  "Part-ter": {
+    "": "cancelado"
+  },
+  "Part-ser": {
+    "ms": "cancelado",
+    "fs": "cancelada",
+    "mp": "cancelados",
+    "fp": "canceladas"
+  }
+}

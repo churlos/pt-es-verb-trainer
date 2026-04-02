@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "batallar"
+  },
+  "Ger": {
+    "": "batallando"
+  },
+  "PresI": {
+    "1s": "batallo",
+    "2s": "batallas",
+    "3s": "batalla",
+    "1p": "batallamos",
+    "2p": "batalláis",
+    "3p": "batallan"
+  },
+  "PImpI": {
+    "1s": "batallaba",
+    "2s": "batallabas",
+    "3s": "batallaba",
+    "1p": "batallábamos",
+    "2p": "batallabais",
+    "3p": "batallaban"
+  },
+  "PPSI": {
+    "1s": "batallé",
+    "2s": "batallaste",
+    "3s": "batalló",
+    "1p": "batallamos",
+    "2p": "batallasteis",
+    "3p": "batallaron"
+  },
+  "FutSI": {
+    "1s": "batallaré",
+    "2s": "batallarás",
+    "3s": "batallará",
+    "1p": "batallaremos",
+    "2p": "batallaréis",
+    "3p": "batallarán"
+  },
+  "CondS": {
+    "1s": "batallaría",
+    "2s": "batallarías",
+    "3s": "batallaría",
+    "1p": "batallaríamos",
+    "2p": "batallaríais",
+    "3p": "batallarían"
+  },
+  "PresC": {
+    "1s": "batalle",
+    "2s": "batalles",
+    "3s": "batalle",
+    "1p": "batallemos",
+    "2p": "batalléis",
+    "3p": "batallen"
+  },
+  "PMQPSI": {
+    "1s": "batallara",
+    "2s": "batallaras",
+    "3s": "batallara",
+    "1p": "batalláramos",
+    "2p": "batallarais",
+    "3p": "batallaran"
+  },
+  "PImpC": {
+    "1s": "batallase",
+    "2s": "batallases",
+    "3s": "batallase",
+    "1p": "batallásemos",
+    "2p": "batallaseis",
+    "3p": "batallasen"
+  },
+  "FutSC": {
+    "1s": "batallare",
+    "2s": "batallares",
+    "3s": "batallare",
+    "1p": "batalláremos",
+    "2p": "batallareis",
+    "3p": "batallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "batalla",
+    "3s": "batalle",
+    "1p": "batallemos",
+    "2p": "batallad",
+    "3p": "batallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no batalles",
+    "3s": "no batalle",
+    "1p": "no batallemos",
+    "2p": "no batalléis",
+    "3p": "no batallen"
+  },
+  "Part-ter": {
+    "": "batallado"
+  },
+  "Part-ser": {
+    "ms": "batallado",
+    "fs": "batallada",
+    "mp": "batallados",
+    "fp": "batalladas"
+  }
+}

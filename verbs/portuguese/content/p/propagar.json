@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "propagar"
+  },
+  "InfP": {
+    "1s": "propagar",
+    "2s": "propagares",
+    "3s": "propagar",
+    "1p": "propagarmos",
+    "2p": "propagardes",
+    "3p": "propagarem"
+  },
+  "Ger": {
+    "": "propagando"
+  },
+  "PresI": {
+    "1s": "propago",
+    "2s": "propagas",
+    "3s": "propaga",
+    "1p": "propagamos",
+    "2p": "propagais",
+    "3p": "propagam"
+  },
+  "PImpI": {
+    "1s": "propagava",
+    "2s": "propagavas",
+    "3s": "propagava",
+    "1p": "propagávamos",
+    "2p": "propagáveis",
+    "3p": "propagavam"
+  },
+  "PPSI": {
+    "1s": "propaguei",
+    "2s": "propagaste",
+    "3s": "propagou",
+    "1p": "propagámos",
+    "2p": "propagastes",
+    "3p": "propagaram"
+  },
+  "PMQPSI": {
+    "1s": "propagara",
+    "2s": "propagaras",
+    "3s": "propagara",
+    "1p": "propagáramos",
+    "2p": "propagáreis",
+    "3p": "propagaram"
+  },
+  "FutSI": {
+    "1s": "propagarei",
+    "2s": "propagarás",
+    "3s": "propagará",
+    "1p": "propagaremos",
+    "2p": "propagareis",
+    "3p": "propagarão"
+  },
+  "CondS": {
+    "1s": "propagaria",
+    "2s": "propagarias",
+    "3s": "propagaria",
+    "1p": "propagaríamos",
+    "2p": "propagaríeis",
+    "3p": "propagariam"
+  },
+  "PresC": {
+    "1s": "propague",
+    "2s": "propagues",
+    "3s": "propague",
+    "1p": "propaguemos",
+    "2p": "propagueis",
+    "3p": "propaguem"
+  },
+  "PImpC": {
+    "1s": "propagasse",
+    "2s": "propagasses",
+    "3s": "propagasse",
+    "1p": "propagássemos",
+    "2p": "propagásseis",
+    "3p": "propagassem"
+  },
+  "FutSC": {
+    "1s": "propagar",
+    "2s": "propagares",
+    "3s": "propagar",
+    "1p": "propagarmos",
+    "2p": "propagardes",
+    "3p": "propagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "propaga",
+    "3s": "propague",
+    "1p": "propaguemos",
+    "2p": "propagai",
+    "3p": "propaguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não propagues",
+    "3s": "não propague",
+    "1p": "não propaguemos",
+    "2p": "não propagueis",
+    "3p": "não propaguem"
+  },
+  "Part-ter": {
+    "": "propagado"
+  },
+  "Part-ser": {
+    "ms": "propagado",
+    "fs": "propagada",
+    "mp": "propagados",
+    "fp": "propagadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alugar"
+  },
+  "InfP": {
+    "1s": "alugar",
+    "2s": "alugares",
+    "3s": "alugar",
+    "1p": "alugarmos",
+    "2p": "alugardes",
+    "3p": "alugarem"
+  },
+  "Ger": {
+    "": "alugando"
+  },
+  "PresI": {
+    "1s": "alugo",
+    "2s": "alugas",
+    "3s": "aluga",
+    "1p": "alugamos",
+    "2p": "alugais",
+    "3p": "alugam"
+  },
+  "PImpI": {
+    "1s": "alugava",
+    "2s": "alugavas",
+    "3s": "alugava",
+    "1p": "alugávamos",
+    "2p": "alugáveis",
+    "3p": "alugavam"
+  },
+  "PPSI": {
+    "1s": "aluguei",
+    "2s": "alugaste",
+    "3s": "alugou",
+    "1p": "alugámos",
+    "2p": "alugastes",
+    "3p": "alugaram"
+  },
+  "PMQPSI": {
+    "1s": "alugara",
+    "2s": "alugaras",
+    "3s": "alugara",
+    "1p": "alugáramos",
+    "2p": "alugáreis",
+    "3p": "alugaram"
+  },
+  "FutSI": {
+    "1s": "alugarei",
+    "2s": "alugarás",
+    "3s": "alugará",
+    "1p": "alugaremos",
+    "2p": "alugareis",
+    "3p": "alugarão"
+  },
+  "CondS": {
+    "1s": "alugaria",
+    "2s": "alugarias",
+    "3s": "alugaria",
+    "1p": "alugaríamos",
+    "2p": "alugaríeis",
+    "3p": "alugariam"
+  },
+  "PresC": {
+    "1s": "alugue",
+    "2s": "alugues",
+    "3s": "alugue",
+    "1p": "aluguemos",
+    "2p": "alugueis",
+    "3p": "aluguem"
+  },
+  "PImpC": {
+    "1s": "alugasse",
+    "2s": "alugasses",
+    "3s": "alugasse",
+    "1p": "alugássemos",
+    "2p": "alugásseis",
+    "3p": "alugassem"
+  },
+  "FutSC": {
+    "1s": "alugar",
+    "2s": "alugares",
+    "3s": "alugar",
+    "1p": "alugarmos",
+    "2p": "alugardes",
+    "3p": "alugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aluga",
+    "3s": "alugue",
+    "1p": "aluguemos",
+    "2p": "alugai",
+    "3p": "aluguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alugues",
+    "3s": "não alugue",
+    "1p": "não aluguemos",
+    "2p": "não alugueis",
+    "3p": "não aluguem"
+  },
+  "Part-ter": {
+    "": "alugado"
+  },
+  "Part-ser": {
+    "ms": "alugado",
+    "fs": "alugada",
+    "mp": "alugados",
+    "fp": "alugadas"
+  }
+}

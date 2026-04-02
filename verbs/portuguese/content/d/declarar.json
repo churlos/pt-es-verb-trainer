@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "declarar"
+  },
+  "InfP": {
+    "1s": "declarar",
+    "2s": "declarares",
+    "3s": "declarar",
+    "1p": "declararmos",
+    "2p": "declarardes",
+    "3p": "declararem"
+  },
+  "Ger": {
+    "": "declarando"
+  },
+  "PresI": {
+    "1s": "declaro",
+    "2s": "declaras",
+    "3s": "declara",
+    "1p": "declaramos",
+    "2p": "declarais",
+    "3p": "declaram"
+  },
+  "PImpI": {
+    "1s": "declarava",
+    "2s": "declaravas",
+    "3s": "declarava",
+    "1p": "declarávamos",
+    "2p": "declaráveis",
+    "3p": "declaravam"
+  },
+  "PPSI": {
+    "1s": "declarei",
+    "2s": "declaraste",
+    "3s": "declarou",
+    "1p": "declarámos",
+    "2p": "declarastes",
+    "3p": "declararam"
+  },
+  "PMQPSI": {
+    "1s": "declarara",
+    "2s": "declararas",
+    "3s": "declarara",
+    "1p": "declaráramos",
+    "2p": "declaráreis",
+    "3p": "declararam"
+  },
+  "FutSI": {
+    "1s": "declararei",
+    "2s": "declararás",
+    "3s": "declarará",
+    "1p": "declararemos",
+    "2p": "declarareis",
+    "3p": "declararão"
+  },
+  "CondS": {
+    "1s": "declararia",
+    "2s": "declararias",
+    "3s": "declararia",
+    "1p": "declararíamos",
+    "2p": "declararíeis",
+    "3p": "declarariam"
+  },
+  "PresC": {
+    "1s": "declare",
+    "2s": "declares",
+    "3s": "declare",
+    "1p": "declaremos",
+    "2p": "declareis",
+    "3p": "declarem"
+  },
+  "PImpC": {
+    "1s": "declarasse",
+    "2s": "declarasses",
+    "3s": "declarasse",
+    "1p": "declarássemos",
+    "2p": "declarásseis",
+    "3p": "declarassem"
+  },
+  "FutSC": {
+    "1s": "declarar",
+    "2s": "declarares",
+    "3s": "declarar",
+    "1p": "declararmos",
+    "2p": "declarardes",
+    "3p": "declararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "declara",
+    "3s": "declare",
+    "1p": "declaremos",
+    "2p": "declarai",
+    "3p": "declarem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não declares",
+    "3s": "não declare",
+    "1p": "não declaremos",
+    "2p": "não declareis",
+    "3p": "não declarem"
+  },
+  "Part-ter": {
+    "": "declarado"
+  },
+  "Part-ser": {
+    "ms": "declarado",
+    "fs": "declarada",
+    "mp": "declarados",
+    "fp": "declaradas"
+  }
+}

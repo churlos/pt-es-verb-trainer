@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "predizer"
+  },
+  "InfP": {
+    "1s": "predizer",
+    "2s": "predizeres",
+    "3s": "predizer",
+    "1p": "predizermos",
+    "2p": "predizerdes",
+    "3p": "predizerem"
+  },
+  "Ger": {
+    "": "predizendo"
+  },
+  "PresI": {
+    "1s": "predigo",
+    "2s": "predizes",
+    "3s": "prediz",
+    "1p": "predizemos",
+    "2p": "predizeis",
+    "3p": "predizem"
+  },
+  "PImpI": {
+    "1s": "predizia",
+    "2s": "predizias",
+    "3s": "predizia",
+    "1p": "predizíamos",
+    "2p": "predizíeis",
+    "3p": "prediziam"
+  },
+  "PPSI": {
+    "1s": "predisse",
+    "2s": "predisseste",
+    "3s": "predisse",
+    "1p": "predissemos",
+    "2p": "predissestes",
+    "3p": "predisseram"
+  },
+  "PMQPSI": {
+    "1s": "predissera",
+    "2s": "predisseras",
+    "3s": "predissera",
+    "1p": "predisséramos",
+    "2p": "predisséreis",
+    "3p": "predisseram"
+  },
+  "FutSI": {
+    "1s": "predirei",
+    "2s": "predirás",
+    "3s": "predirá",
+    "1p": "prediremos",
+    "2p": "predireis",
+    "3p": "predirão"
+  },
+  "CondS": {
+    "1s": "prediria",
+    "2s": "predirias",
+    "3s": "prediria",
+    "1p": "prediríamos",
+    "2p": "prediríeis",
+    "3p": "prediriam"
+  },
+  "PresC": {
+    "1s": "prediga",
+    "2s": "predigas",
+    "3s": "prediga",
+    "1p": "predigamos",
+    "2p": "predigais",
+    "3p": "predigam"
+  },
+  "PImpC": {
+    "1s": "predissesse",
+    "2s": "predissesses",
+    "3s": "predissesse",
+    "1p": "predisséssemos",
+    "2p": "predissésseis",
+    "3p": "predissessem"
+  },
+  "FutSC": {
+    "1s": "predisser",
+    "2s": "predisseres",
+    "3s": "predisser",
+    "1p": "predissermos",
+    "2p": "predisserdes",
+    "3p": "predisserem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "predizpredize",
+    "3s": "prediga",
+    "1p": "predigamos",
+    "2p": "predizei",
+    "3p": "predigam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não predigas",
+    "3s": "não prediga",
+    "1p": "não predigamos",
+    "2p": "não predigais",
+    "3p": "não predigam"
+  },
+  "Part-ter": {
+    "": "predito"
+  },
+  "Part-ser": {
+    "ms": "predito",
+    "fs": "predita",
+    "mp": "preditos",
+    "fp": "preditas"
+  }
+}

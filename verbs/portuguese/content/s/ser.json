@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ser"
+  },
+  "InfP": {
+    "1s": "ser",
+    "2s": "seres",
+    "3s": "ser",
+    "1p": "sermos",
+    "2p": "serdes",
+    "3p": "serem"
+  },
+  "Ger": {
+    "": "sendo"
+  },
+  "PresI": {
+    "1s": "sou",
+    "2s": "és",
+    "3s": "é",
+    "1p": "somos",
+    "2p": "sois",
+    "3p": "são"
+  },
+  "PImpI": {
+    "1s": "era",
+    "2s": "eras",
+    "3s": "era",
+    "1p": "éramos",
+    "2p": "éreis",
+    "3p": "eram"
+  },
+  "PPSI": {
+    "1s": "fui",
+    "2s": "foste",
+    "3s": "foi",
+    "1p": "fomos",
+    "2p": "fostes",
+    "3p": "foram"
+  },
+  "PMQPSI": {
+    "1s": "fora",
+    "2s": "foras",
+    "3s": "fora",
+    "1p": "fôramos",
+    "2p": "fôreis",
+    "3p": "foram"
+  },
+  "FutSI": {
+    "1s": "serei",
+    "2s": "serás",
+    "3s": "será",
+    "1p": "seremos",
+    "2p": "sereis",
+    "3p": "serão"
+  },
+  "CondS": {
+    "1s": "seria",
+    "2s": "serias",
+    "3s": "seria",
+    "1p": "seríamos",
+    "2p": "seríeis",
+    "3p": "seriam"
+  },
+  "PresC": {
+    "1s": "seja",
+    "2s": "sejas",
+    "3s": "seja",
+    "1p": "sejamos",
+    "2p": "sejais",
+    "3p": "sejam"
+  },
+  "PImpC": {
+    "1s": "fosse",
+    "2s": "fosses",
+    "3s": "fosse",
+    "1p": "fôssemos",
+    "2p": "fôsseis",
+    "3p": "fossem"
+  },
+  "FutSC": {
+    "1s": "for",
+    "2s": "fores",
+    "3s": "for",
+    "1p": "formos",
+    "2p": "fordes",
+    "3p": "forem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sê",
+    "3s": "seja",
+    "1p": "sejamos",
+    "2p": "sede",
+    "3p": "sejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sejas",
+    "3s": "não seja",
+    "1p": "não sejamos",
+    "2p": "não sejais",
+    "3p": "não sejam"
+  },
+  "Part-ter": {
+    "": "sido"
+  },
+  "Part-ser": {
+    "ms": "sido",
+    "fs": "sida",
+    "mp": "sidos",
+    "fp": "sidas"
+  }
+}

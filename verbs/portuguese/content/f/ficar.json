@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ficar"
+  },
+  "InfP": {
+    "1s": "ficar",
+    "2s": "ficares",
+    "3s": "ficar",
+    "1p": "ficarmos",
+    "2p": "ficardes",
+    "3p": "ficarem"
+  },
+  "Ger": {
+    "": "ficando"
+  },
+  "PresI": {
+    "1s": "fico",
+    "2s": "ficas",
+    "3s": "fica",
+    "1p": "ficamos",
+    "2p": "ficais",
+    "3p": "ficam"
+  },
+  "PImpI": {
+    "1s": "ficava",
+    "2s": "ficavas",
+    "3s": "ficava",
+    "1p": "ficávamos",
+    "2p": "ficáveis",
+    "3p": "ficavam"
+  },
+  "PPSI": {
+    "1s": "fiquei",
+    "2s": "ficaste",
+    "3s": "ficou",
+    "1p": "ficámos",
+    "2p": "ficastes",
+    "3p": "ficaram"
+  },
+  "PMQPSI": {
+    "1s": "ficara",
+    "2s": "ficaras",
+    "3s": "ficara",
+    "1p": "ficáramos",
+    "2p": "ficáreis",
+    "3p": "ficaram"
+  },
+  "FutSI": {
+    "1s": "ficarei",
+    "2s": "ficarás",
+    "3s": "ficará",
+    "1p": "ficaremos",
+    "2p": "ficareis",
+    "3p": "ficarão"
+  },
+  "CondS": {
+    "1s": "ficaria",
+    "2s": "ficarias",
+    "3s": "ficaria",
+    "1p": "ficaríamos",
+    "2p": "ficaríeis",
+    "3p": "ficariam"
+  },
+  "PresC": {
+    "1s": "fique",
+    "2s": "fiques",
+    "3s": "fique",
+    "1p": "fiquemos",
+    "2p": "fiqueis",
+    "3p": "fiquem"
+  },
+  "PImpC": {
+    "1s": "ficasse",
+    "2s": "ficasses",
+    "3s": "ficasse",
+    "1p": "ficássemos",
+    "2p": "ficásseis",
+    "3p": "ficassem"
+  },
+  "FutSC": {
+    "1s": "ficar",
+    "2s": "ficares",
+    "3s": "ficar",
+    "1p": "ficarmos",
+    "2p": "ficardes",
+    "3p": "ficarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fica",
+    "3s": "fique",
+    "1p": "fiquemos",
+    "2p": "ficai",
+    "3p": "fiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fiques",
+    "3s": "não fique",
+    "1p": "não fiquemos",
+    "2p": "não fiqueis",
+    "3p": "não fiquem"
+  },
+  "Part-ter": {
+    "": "ficado"
+  },
+  "Part-ser": {
+    "ms": "ficado",
+    "fs": "ficada",
+    "mp": "ficados",
+    "fp": "ficadas"
+  }
+}

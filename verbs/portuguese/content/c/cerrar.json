@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cerrar"
+  },
+  "InfP": {
+    "1s": "cerrar",
+    "2s": "cerrares",
+    "3s": "cerrar",
+    "1p": "cerrarmos",
+    "2p": "cerrardes",
+    "3p": "cerrarem"
+  },
+  "Ger": {
+    "": "cerrando"
+  },
+  "PresI": {
+    "1s": "cerro",
+    "2s": "cerras",
+    "3s": "cerra",
+    "1p": "cerramos",
+    "2p": "cerrais",
+    "3p": "cerram"
+  },
+  "PImpI": {
+    "1s": "cerrava",
+    "2s": "cerravas",
+    "3s": "cerrava",
+    "1p": "cerrávamos",
+    "2p": "cerráveis",
+    "3p": "cerravam"
+  },
+  "PPSI": {
+    "1s": "cerrei",
+    "2s": "cerraste",
+    "3s": "cerrou",
+    "1p": "cerrámos",
+    "2p": "cerrastes",
+    "3p": "cerraram"
+  },
+  "PMQPSI": {
+    "1s": "cerrara",
+    "2s": "cerraras",
+    "3s": "cerrara",
+    "1p": "cerráramos",
+    "2p": "cerráreis",
+    "3p": "cerraram"
+  },
+  "FutSI": {
+    "1s": "cerrarei",
+    "2s": "cerrarás",
+    "3s": "cerrará",
+    "1p": "cerraremos",
+    "2p": "cerrareis",
+    "3p": "cerrarão"
+  },
+  "CondS": {
+    "1s": "cerraria",
+    "2s": "cerrarias",
+    "3s": "cerraria",
+    "1p": "cerraríamos",
+    "2p": "cerraríeis",
+    "3p": "cerrariam"
+  },
+  "PresC": {
+    "1s": "cerre",
+    "2s": "cerres",
+    "3s": "cerre",
+    "1p": "cerremos",
+    "2p": "cerreis",
+    "3p": "cerrem"
+  },
+  "PImpC": {
+    "1s": "cerrasse",
+    "2s": "cerrasses",
+    "3s": "cerrasse",
+    "1p": "cerrássemos",
+    "2p": "cerrásseis",
+    "3p": "cerrassem"
+  },
+  "FutSC": {
+    "1s": "cerrar",
+    "2s": "cerrares",
+    "3s": "cerrar",
+    "1p": "cerrarmos",
+    "2p": "cerrardes",
+    "3p": "cerrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cerra",
+    "3s": "cerre",
+    "1p": "cerremos",
+    "2p": "cerrai",
+    "3p": "cerrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cerres",
+    "3s": "não cerre",
+    "1p": "não cerremos",
+    "2p": "não cerreis",
+    "3p": "não cerrem"
+  },
+  "Part-ter": {
+    "": "cerrado"
+  },
+  "Part-ser": {
+    "ms": "cerrado",
+    "fs": "cerrada",
+    "mp": "cerrados",
+    "fp": "cerradas"
+  }
+}

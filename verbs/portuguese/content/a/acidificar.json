@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acidificar"
+  },
+  "InfP": {
+    "1s": "acidificar",
+    "2s": "acidificares",
+    "3s": "acidificar",
+    "1p": "acidificarmos",
+    "2p": "acidificardes",
+    "3p": "acidificarem"
+  },
+  "Ger": {
+    "": "acidificando"
+  },
+  "PresI": {
+    "1s": "acidifico",
+    "2s": "acidificas",
+    "3s": "acidifica",
+    "1p": "acidificamos",
+    "2p": "acidificais",
+    "3p": "acidificam"
+  },
+  "PImpI": {
+    "1s": "acidificava",
+    "2s": "acidificavas",
+    "3s": "acidificava",
+    "1p": "acidificávamos",
+    "2p": "acidificáveis",
+    "3p": "acidificavam"
+  },
+  "PPSI": {
+    "1s": "acidifiquei",
+    "2s": "acidificaste",
+    "3s": "acidificou",
+    "1p": "acidificámos",
+    "2p": "acidificastes",
+    "3p": "acidificaram"
+  },
+  "PMQPSI": {
+    "1s": "acidificara",
+    "2s": "acidificaras",
+    "3s": "acidificara",
+    "1p": "acidificáramos",
+    "2p": "acidificáreis",
+    "3p": "acidificaram"
+  },
+  "FutSI": {
+    "1s": "acidificarei",
+    "2s": "acidificarás",
+    "3s": "acidificará",
+    "1p": "acidificaremos",
+    "2p": "acidificareis",
+    "3p": "acidificarão"
+  },
+  "CondS": {
+    "1s": "acidificaria",
+    "2s": "acidificarias",
+    "3s": "acidificaria",
+    "1p": "acidificaríamos",
+    "2p": "acidificaríeis",
+    "3p": "acidificariam"
+  },
+  "PresC": {
+    "1s": "acidifique",
+    "2s": "acidifiques",
+    "3s": "acidifique",
+    "1p": "acidifiquemos",
+    "2p": "acidifiqueis",
+    "3p": "acidifiquem"
+  },
+  "PImpC": {
+    "1s": "acidificasse",
+    "2s": "acidificasses",
+    "3s": "acidificasse",
+    "1p": "acidificássemos",
+    "2p": "acidificásseis",
+    "3p": "acidificassem"
+  },
+  "FutSC": {
+    "1s": "acidificar",
+    "2s": "acidificares",
+    "3s": "acidificar",
+    "1p": "acidificarmos",
+    "2p": "acidificardes",
+    "3p": "acidificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acidifica",
+    "3s": "acidifique",
+    "1p": "acidifiquemos",
+    "2p": "acidificai",
+    "3p": "acidifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acidifiques",
+    "3s": "não acidifique",
+    "1p": "não acidifiquemos",
+    "2p": "não acidifiqueis",
+    "3p": "não acidifiquem"
+  },
+  "Part-ter": {
+    "": "acidificado"
+  },
+  "Part-ser": {
+    "ms": "acidificado",
+    "fs": "acidificada",
+    "mp": "acidificados",
+    "fp": "acidificadas"
+  }
+}

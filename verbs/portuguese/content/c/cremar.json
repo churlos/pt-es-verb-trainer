@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cremar"
+  },
+  "InfP": {
+    "1s": "cremar",
+    "2s": "cremares",
+    "3s": "cremar",
+    "1p": "cremarmos",
+    "2p": "cremardes",
+    "3p": "cremarem"
+  },
+  "Ger": {
+    "": "cremando"
+  },
+  "PresI": {
+    "1s": "cremo",
+    "2s": "cremas",
+    "3s": "crema",
+    "1p": "cremamos",
+    "2p": "cremais",
+    "3p": "cremam"
+  },
+  "PImpI": {
+    "1s": "cremava",
+    "2s": "cremavas",
+    "3s": "cremava",
+    "1p": "cremávamos",
+    "2p": "cremáveis",
+    "3p": "cremavam"
+  },
+  "PPSI": {
+    "1s": "cremei",
+    "2s": "cremaste",
+    "3s": "cremou",
+    "1p": "cremámos",
+    "2p": "cremastes",
+    "3p": "cremaram"
+  },
+  "PMQPSI": {
+    "1s": "cremara",
+    "2s": "cremaras",
+    "3s": "cremara",
+    "1p": "cremáramos",
+    "2p": "cremáreis",
+    "3p": "cremaram"
+  },
+  "FutSI": {
+    "1s": "cremarei",
+    "2s": "cremarás",
+    "3s": "cremará",
+    "1p": "cremaremos",
+    "2p": "cremareis",
+    "3p": "cremarão"
+  },
+  "CondS": {
+    "1s": "cremaria",
+    "2s": "cremarias",
+    "3s": "cremaria",
+    "1p": "cremaríamos",
+    "2p": "cremaríeis",
+    "3p": "cremariam"
+  },
+  "PresC": {
+    "1s": "creme",
+    "2s": "cremes",
+    "3s": "creme",
+    "1p": "crememos",
+    "2p": "cremeis",
+    "3p": "cremem"
+  },
+  "PImpC": {
+    "1s": "cremasse",
+    "2s": "cremasses",
+    "3s": "cremasse",
+    "1p": "cremássemos",
+    "2p": "cremásseis",
+    "3p": "cremassem"
+  },
+  "FutSC": {
+    "1s": "cremar",
+    "2s": "cremares",
+    "3s": "cremar",
+    "1p": "cremarmos",
+    "2p": "cremardes",
+    "3p": "cremarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crema",
+    "3s": "creme",
+    "1p": "crememos",
+    "2p": "cremai",
+    "3p": "cremem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cremes",
+    "3s": "não creme",
+    "1p": "não crememos",
+    "2p": "não cremeis",
+    "3p": "não cremem"
+  },
+  "Part-ter": {
+    "": "cremado"
+  },
+  "Part-ser": {
+    "ms": "cremado",
+    "fs": "cremada",
+    "mp": "cremados",
+    "fp": "cremadas"
+  }
+}

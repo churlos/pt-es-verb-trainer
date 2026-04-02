@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "blocar"
+  },
+  "Ger": {
+    "": "blocando"
+  },
+  "PresI": {
+    "1s": "bloco",
+    "2s": "blocas",
+    "3s": "bloca",
+    "1p": "blocamos",
+    "2p": "blocáis",
+    "3p": "blocan"
+  },
+  "PImpI": {
+    "1s": "blocaba",
+    "2s": "blocabas",
+    "3s": "blocaba",
+    "1p": "blocábamos",
+    "2p": "blocabais",
+    "3p": "blocaban"
+  },
+  "PPSI": {
+    "1s": "bloqué",
+    "2s": "blocaste",
+    "3s": "blocó",
+    "1p": "blocamos",
+    "2p": "blocasteis",
+    "3p": "blocaron"
+  },
+  "FutSI": {
+    "1s": "blocaré",
+    "2s": "blocarás",
+    "3s": "blocará",
+    "1p": "blocaremos",
+    "2p": "blocaréis",
+    "3p": "blocarán"
+  },
+  "CondS": {
+    "1s": "blocaría",
+    "2s": "blocarías",
+    "3s": "blocaría",
+    "1p": "blocaríamos",
+    "2p": "blocaríais",
+    "3p": "blocarían"
+  },
+  "PresC": {
+    "1s": "bloque",
+    "2s": "bloques",
+    "3s": "bloque",
+    "1p": "bloquemos",
+    "2p": "bloquéis",
+    "3p": "bloquen"
+  },
+  "PMQPSI": {
+    "1s": "blocara",
+    "2s": "blocaras",
+    "3s": "blocara",
+    "1p": "blocáramos",
+    "2p": "blocarais",
+    "3p": "blocaran"
+  },
+  "PImpC": {
+    "1s": "blocase",
+    "2s": "blocases",
+    "3s": "blocase",
+    "1p": "blocásemos",
+    "2p": "blocaseis",
+    "3p": "blocasen"
+  },
+  "FutSC": {
+    "1s": "blocare",
+    "2s": "blocares",
+    "3s": "blocare",
+    "1p": "blocáremos",
+    "2p": "blocareis",
+    "3p": "blocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bloca",
+    "3s": "bloque",
+    "1p": "bloquemos",
+    "2p": "blocad",
+    "3p": "bloquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bloques",
+    "3s": "no bloque",
+    "1p": "no bloquemos",
+    "2p": "no bloquéis",
+    "3p": "no bloquen"
+  },
+  "Part-ter": {
+    "": "blocado"
+  },
+  "Part-ser": {
+    "ms": "blocado",
+    "fs": "blocada",
+    "mp": "blocados",
+    "fp": "blocadas"
+  }
+}

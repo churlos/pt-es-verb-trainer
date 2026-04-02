@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transmitir"
+  },
+  "Ger": {
+    "": "transmitiendo"
+  },
+  "PresI": {
+    "1s": "transmito",
+    "2s": "transmites",
+    "3s": "transmite",
+    "1p": "transmitimos",
+    "2p": "transmitís",
+    "3p": "transmiten"
+  },
+  "PImpI": {
+    "1s": "transmitía",
+    "2s": "transmitías",
+    "3s": "transmitía",
+    "1p": "transmitíamos",
+    "2p": "transmitíais",
+    "3p": "transmitían"
+  },
+  "PPSI": {
+    "1s": "transmití",
+    "2s": "transmitiste",
+    "3s": "transmitió",
+    "1p": "transmitimos",
+    "2p": "transmitisteis",
+    "3p": "transmitieron"
+  },
+  "FutSI": {
+    "1s": "transmitiré",
+    "2s": "transmitirás",
+    "3s": "transmitirá",
+    "1p": "transmitiremos",
+    "2p": "transmitiréis",
+    "3p": "transmitirán"
+  },
+  "CondS": {
+    "1s": "transmitiría",
+    "2s": "transmitirías",
+    "3s": "transmitiría",
+    "1p": "transmitiríamos",
+    "2p": "transmitiríais",
+    "3p": "transmitirían"
+  },
+  "PresC": {
+    "1s": "transmita",
+    "2s": "transmitas",
+    "3s": "transmita",
+    "1p": "transmitamos",
+    "2p": "transmitáis",
+    "3p": "transmitan"
+  },
+  "PMQPSI": {
+    "1s": "transmitiera",
+    "2s": "transmitieras",
+    "3s": "transmitiera",
+    "1p": "transmitiéramos",
+    "2p": "transmitierais",
+    "3p": "transmitieran"
+  },
+  "PImpC": {
+    "1s": "transmitiese",
+    "2s": "transmitieses",
+    "3s": "transmitiese",
+    "1p": "transmitiésemos",
+    "2p": "transmitieseis",
+    "3p": "transmitiesen"
+  },
+  "FutSC": {
+    "1s": "transmitiere",
+    "2s": "transmitieres",
+    "3s": "transmitiere",
+    "1p": "transmitiéremos",
+    "2p": "transmitiereis",
+    "3p": "transmitieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transmite",
+    "3s": "transmita",
+    "1p": "transmitamos",
+    "2p": "transmitid",
+    "3p": "transmitan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transmitas",
+    "3s": "no transmita",
+    "1p": "no transmitamos",
+    "2p": "no transmitáis",
+    "3p": "no transmitan"
+  },
+  "Part-ter": {
+    "": "transmitido"
+  },
+  "Part-ser": {
+    "ms": "transmitido",
+    "fs": "transmitida",
+    "mp": "transmitidos",
+    "fp": "transmitidas"
+  }
+}

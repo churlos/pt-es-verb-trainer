@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "avenir"
+  },
+  "Ger": {
+    "": "aviniendo"
+  },
+  "PresI": {
+    "1s": "avengo",
+    "2s": "avienes",
+    "3s": "aviene",
+    "1p": "avenimos",
+    "2p": "avenís",
+    "3p": "avienen"
+  },
+  "PImpI": {
+    "1s": "avenía",
+    "2s": "avenías",
+    "3s": "avenía",
+    "1p": "aveníamos",
+    "2p": "aveníais",
+    "3p": "avenían"
+  },
+  "PPSI": {
+    "1s": "avine",
+    "2s": "aviniste",
+    "3s": "avino",
+    "1p": "avinimos",
+    "2p": "avinisteis",
+    "3p": "avinieron"
+  },
+  "FutSI": {
+    "1s": "avendré",
+    "2s": "avendrás",
+    "3s": "avendrá",
+    "1p": "avendremos",
+    "2p": "avendréis",
+    "3p": "avendrán"
+  },
+  "CondS": {
+    "1s": "avendría",
+    "2s": "avendrías",
+    "3s": "avendría",
+    "1p": "avendríamos",
+    "2p": "avendríais",
+    "3p": "avendrían"
+  },
+  "PresC": {
+    "1s": "avenga",
+    "2s": "avengas",
+    "3s": "avenga",
+    "1p": "avengamos",
+    "2p": "avengáis",
+    "3p": "avengan"
+  },
+  "PMQPSI": {
+    "1s": "aviniera",
+    "2s": "avinieras",
+    "3s": "aviniera",
+    "1p": "aviniéramos",
+    "2p": "avinierais",
+    "3p": "avinieran"
+  },
+  "PImpC": {
+    "1s": "aviniese",
+    "2s": "avinieses",
+    "3s": "aviniese",
+    "1p": "aviniésemos",
+    "2p": "avinieseis",
+    "3p": "aviniesen"
+  },
+  "FutSC": {
+    "1s": "aviniere",
+    "2s": "avinieres",
+    "3s": "aviniere",
+    "1p": "aviniéremos",
+    "2p": "aviniereis",
+    "3p": "avinieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "avén",
+    "3s": "avenga",
+    "1p": "avengamos",
+    "2p": "avenid",
+    "3p": "avengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no avengas",
+    "3s": "no avenga",
+    "1p": "no avengamos",
+    "2p": "no avengáis",
+    "3p": "no avengan"
+  },
+  "Part-ter": {
+    "": "avenido"
+  },
+  "Part-ser": {
+    "ms": "avenido",
+    "fs": "avenida",
+    "mp": "avenidos",
+    "fp": "avenidas"
+  }
+}

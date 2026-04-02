@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "golpear"
+  },
+  "Ger": {
+    "": "golpeando"
+  },
+  "PresI": {
+    "1s": "golpeo",
+    "2s": "golpeas",
+    "3s": "golpea",
+    "1p": "golpeamos",
+    "2p": "golpeáis",
+    "3p": "golpean"
+  },
+  "PImpI": {
+    "1s": "golpeaba",
+    "2s": "golpeabas",
+    "3s": "golpeaba",
+    "1p": "golpeábamos",
+    "2p": "golpeabais",
+    "3p": "golpeaban"
+  },
+  "PPSI": {
+    "1s": "golpeé",
+    "2s": "golpeaste",
+    "3s": "golpeó",
+    "1p": "golpeamos",
+    "2p": "golpeasteis",
+    "3p": "golpearon"
+  },
+  "FutSI": {
+    "1s": "golpearé",
+    "2s": "golpearás",
+    "3s": "golpeará",
+    "1p": "golpearemos",
+    "2p": "golpearéis",
+    "3p": "golpearán"
+  },
+  "CondS": {
+    "1s": "golpearía",
+    "2s": "golpearías",
+    "3s": "golpearía",
+    "1p": "golpearíamos",
+    "2p": "golpearíais",
+    "3p": "golpearían"
+  },
+  "PresC": {
+    "1s": "golpee",
+    "2s": "golpees",
+    "3s": "golpee",
+    "1p": "golpeemos",
+    "2p": "golpeéis",
+    "3p": "golpeen"
+  },
+  "PMQPSI": {
+    "1s": "golpeara",
+    "2s": "golpearas",
+    "3s": "golpeara",
+    "1p": "golpeáramos",
+    "2p": "golpearais",
+    "3p": "golpearan"
+  },
+  "PImpC": {
+    "1s": "golpease",
+    "2s": "golpeases",
+    "3s": "golpease",
+    "1p": "golpeásemos",
+    "2p": "golpeaseis",
+    "3p": "golpeasen"
+  },
+  "FutSC": {
+    "1s": "golpeare",
+    "2s": "golpeares",
+    "3s": "golpeare",
+    "1p": "golpeáremos",
+    "2p": "golpeareis",
+    "3p": "golpearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "golpea",
+    "3s": "golpee",
+    "1p": "golpeemos",
+    "2p": "golpead",
+    "3p": "golpeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no golpees",
+    "3s": "no golpee",
+    "1p": "no golpeemos",
+    "2p": "no golpeéis",
+    "3p": "no golpeen"
+  },
+  "Part-ter": {
+    "": "golpeado"
+  },
+  "Part-ser": {
+    "ms": "golpeado",
+    "fs": "golpeada",
+    "mp": "golpeados",
+    "fp": "golpeadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "replantar"
+  },
+  "Ger": {
+    "": "replantando"
+  },
+  "PresI": {
+    "1s": "replanto",
+    "2s": "replantas",
+    "3s": "replanta",
+    "1p": "replantamos",
+    "2p": "replantáis",
+    "3p": "replantan"
+  },
+  "PImpI": {
+    "1s": "replantaba",
+    "2s": "replantabas",
+    "3s": "replantaba",
+    "1p": "replantábamos",
+    "2p": "replantabais",
+    "3p": "replantaban"
+  },
+  "PPSI": {
+    "1s": "replanté",
+    "2s": "replantaste",
+    "3s": "replantó",
+    "1p": "replantamos",
+    "2p": "replantasteis",
+    "3p": "replantaron"
+  },
+  "FutSI": {
+    "1s": "replantaré",
+    "2s": "replantarás",
+    "3s": "replantará",
+    "1p": "replantaremos",
+    "2p": "replantaréis",
+    "3p": "replantarán"
+  },
+  "CondS": {
+    "1s": "replantaría",
+    "2s": "replantarías",
+    "3s": "replantaría",
+    "1p": "replantaríamos",
+    "2p": "replantaríais",
+    "3p": "replantarían"
+  },
+  "PresC": {
+    "1s": "replante",
+    "2s": "replantes",
+    "3s": "replante",
+    "1p": "replantemos",
+    "2p": "replantéis",
+    "3p": "replanten"
+  },
+  "PMQPSI": {
+    "1s": "replantara",
+    "2s": "replantaras",
+    "3s": "replantara",
+    "1p": "replantáramos",
+    "2p": "replantarais",
+    "3p": "replantaran"
+  },
+  "PImpC": {
+    "1s": "replantase",
+    "2s": "replantases",
+    "3s": "replantase",
+    "1p": "replantásemos",
+    "2p": "replantaseis",
+    "3p": "replantasen"
+  },
+  "FutSC": {
+    "1s": "replantare",
+    "2s": "replantares",
+    "3s": "replantare",
+    "1p": "replantáremos",
+    "2p": "replantareis",
+    "3p": "replantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "replanta",
+    "3s": "replante",
+    "1p": "replantemos",
+    "2p": "replantad",
+    "3p": "replanten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no replantes",
+    "3s": "no replante",
+    "1p": "no replantemos",
+    "2p": "no replantéis",
+    "3p": "no replanten"
+  },
+  "Part-ter": {
+    "": "replantado"
+  },
+  "Part-ser": {
+    "ms": "replantado",
+    "fs": "replantada",
+    "mp": "replantados",
+    "fp": "replantadas"
+  }
+}

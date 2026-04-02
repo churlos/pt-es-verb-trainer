@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "elevar"
+  },
+  "Ger": {
+    "": "elevando"
+  },
+  "PresI": {
+    "1s": "elevo",
+    "2s": "elevas",
+    "3s": "eleva",
+    "1p": "elevamos",
+    "2p": "eleváis",
+    "3p": "elevan"
+  },
+  "PImpI": {
+    "1s": "elevaba",
+    "2s": "elevabas",
+    "3s": "elevaba",
+    "1p": "elevábamos",
+    "2p": "elevabais",
+    "3p": "elevaban"
+  },
+  "PPSI": {
+    "1s": "elevé",
+    "2s": "elevaste",
+    "3s": "elevó",
+    "1p": "elevamos",
+    "2p": "elevasteis",
+    "3p": "elevaron"
+  },
+  "FutSI": {
+    "1s": "elevaré",
+    "2s": "elevarás",
+    "3s": "elevará",
+    "1p": "elevaremos",
+    "2p": "elevaréis",
+    "3p": "elevarán"
+  },
+  "CondS": {
+    "1s": "elevaría",
+    "2s": "elevarías",
+    "3s": "elevaría",
+    "1p": "elevaríamos",
+    "2p": "elevaríais",
+    "3p": "elevarían"
+  },
+  "PresC": {
+    "1s": "eleve",
+    "2s": "eleves",
+    "3s": "eleve",
+    "1p": "elevemos",
+    "2p": "elevéis",
+    "3p": "eleven"
+  },
+  "PMQPSI": {
+    "1s": "elevara",
+    "2s": "elevaras",
+    "3s": "elevara",
+    "1p": "eleváramos",
+    "2p": "elevarais",
+    "3p": "elevaran"
+  },
+  "PImpC": {
+    "1s": "elevase",
+    "2s": "elevases",
+    "3s": "elevase",
+    "1p": "elevásemos",
+    "2p": "elevaseis",
+    "3p": "elevasen"
+  },
+  "FutSC": {
+    "1s": "elevare",
+    "2s": "elevares",
+    "3s": "elevare",
+    "1p": "eleváremos",
+    "2p": "elevareis",
+    "3p": "elevaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eleva",
+    "3s": "eleve",
+    "1p": "elevemos",
+    "2p": "elevad",
+    "3p": "eleven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no eleves",
+    "3s": "no eleve",
+    "1p": "no elevemos",
+    "2p": "no elevéis",
+    "3p": "no eleven"
+  },
+  "Part-ter": {
+    "": "elevado"
+  },
+  "Part-ser": {
+    "ms": "elevado",
+    "fs": "elevada",
+    "mp": "elevados",
+    "fp": "elevadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lotar"
+  },
+  "InfP": {
+    "1s": "lotar",
+    "2s": "lotares",
+    "3s": "lotar",
+    "1p": "lotarmos",
+    "2p": "lotardes",
+    "3p": "lotarem"
+  },
+  "Ger": {
+    "": "lotando"
+  },
+  "PresI": {
+    "1s": "loto",
+    "2s": "lotas",
+    "3s": "lota",
+    "1p": "lotamos",
+    "2p": "lotais",
+    "3p": "lotam"
+  },
+  "PImpI": {
+    "1s": "lotava",
+    "2s": "lotavas",
+    "3s": "lotava",
+    "1p": "lotávamos",
+    "2p": "lotáveis",
+    "3p": "lotavam"
+  },
+  "PPSI": {
+    "1s": "lotei",
+    "2s": "lotaste",
+    "3s": "lotou",
+    "1p": "lotámos",
+    "2p": "lotastes",
+    "3p": "lotaram"
+  },
+  "PMQPSI": {
+    "1s": "lotara",
+    "2s": "lotaras",
+    "3s": "lotara",
+    "1p": "lotáramos",
+    "2p": "lotáreis",
+    "3p": "lotaram"
+  },
+  "FutSI": {
+    "1s": "lotarei",
+    "2s": "lotarás",
+    "3s": "lotará",
+    "1p": "lotaremos",
+    "2p": "lotareis",
+    "3p": "lotarão"
+  },
+  "CondS": {
+    "1s": "lotaria",
+    "2s": "lotarias",
+    "3s": "lotaria",
+    "1p": "lotaríamos",
+    "2p": "lotaríeis",
+    "3p": "lotariam"
+  },
+  "PresC": {
+    "1s": "lote",
+    "2s": "lotes",
+    "3s": "lote",
+    "1p": "lotemos",
+    "2p": "loteis",
+    "3p": "lotem"
+  },
+  "PImpC": {
+    "1s": "lotasse",
+    "2s": "lotasses",
+    "3s": "lotasse",
+    "1p": "lotássemos",
+    "2p": "lotásseis",
+    "3p": "lotassem"
+  },
+  "FutSC": {
+    "1s": "lotar",
+    "2s": "lotares",
+    "3s": "lotar",
+    "1p": "lotarmos",
+    "2p": "lotardes",
+    "3p": "lotarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lota",
+    "3s": "lote",
+    "1p": "lotemos",
+    "2p": "lotai",
+    "3p": "lotem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lotes",
+    "3s": "não lote",
+    "1p": "não lotemos",
+    "2p": "não loteis",
+    "3p": "não lotem"
+  },
+  "Part-ter": {
+    "": "lotado"
+  },
+  "Part-ser": {
+    "ms": "lotado",
+    "fs": "lotada",
+    "mp": "lotados",
+    "fp": "lotadas"
+  }
+}

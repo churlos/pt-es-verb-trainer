@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "parcelar"
+  },
+  "InfP": {
+    "1s": "parcelar",
+    "2s": "parcelares",
+    "3s": "parcelar",
+    "1p": "parcelarmos",
+    "2p": "parcelardes",
+    "3p": "parcelarem"
+  },
+  "Ger": {
+    "": "parcelando"
+  },
+  "PresI": {
+    "1s": "parcelo",
+    "2s": "parcelas",
+    "3s": "parcela",
+    "1p": "parcelamos",
+    "2p": "parcelais",
+    "3p": "parcelam"
+  },
+  "PImpI": {
+    "1s": "parcelava",
+    "2s": "parcelavas",
+    "3s": "parcelava",
+    "1p": "parcelávamos",
+    "2p": "parceláveis",
+    "3p": "parcelavam"
+  },
+  "PPSI": {
+    "1s": "parcelei",
+    "2s": "parcelaste",
+    "3s": "parcelou",
+    "1p": "parcelámos",
+    "2p": "parcelastes",
+    "3p": "parcelaram"
+  },
+  "PMQPSI": {
+    "1s": "parcelara",
+    "2s": "parcelaras",
+    "3s": "parcelara",
+    "1p": "parceláramos",
+    "2p": "parceláreis",
+    "3p": "parcelaram"
+  },
+  "FutSI": {
+    "1s": "parcelarei",
+    "2s": "parcelarás",
+    "3s": "parcelará",
+    "1p": "parcelaremos",
+    "2p": "parcelareis",
+    "3p": "parcelarão"
+  },
+  "CondS": {
+    "1s": "parcelaria",
+    "2s": "parcelarias",
+    "3s": "parcelaria",
+    "1p": "parcelaríamos",
+    "2p": "parcelaríeis",
+    "3p": "parcelariam"
+  },
+  "PresC": {
+    "1s": "parcele",
+    "2s": "parceles",
+    "3s": "parcele",
+    "1p": "parcelemos",
+    "2p": "parceleis",
+    "3p": "parcelem"
+  },
+  "PImpC": {
+    "1s": "parcelasse",
+    "2s": "parcelasses",
+    "3s": "parcelasse",
+    "1p": "parcelássemos",
+    "2p": "parcelásseis",
+    "3p": "parcelassem"
+  },
+  "FutSC": {
+    "1s": "parcelar",
+    "2s": "parcelares",
+    "3s": "parcelar",
+    "1p": "parcelarmos",
+    "2p": "parcelardes",
+    "3p": "parcelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parcela",
+    "3s": "parcele",
+    "1p": "parcelemos",
+    "2p": "parcelai",
+    "3p": "parcelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não parceles",
+    "3s": "não parcele",
+    "1p": "não parcelemos",
+    "2p": "não parceleis",
+    "3p": "não parcelem"
+  },
+  "Part-ter": {
+    "": "parcelado"
+  },
+  "Part-ser": {
+    "ms": "parcelado",
+    "fs": "parcelada",
+    "mp": "parcelados",
+    "fp": "parceladas"
+  }
+}

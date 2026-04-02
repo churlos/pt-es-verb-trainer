@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autogobernar"
+  },
+  "Ger": {
+    "": "autogobernando"
+  },
+  "PresI": {
+    "1s": "autogobierno",
+    "2s": "autogobiernas",
+    "3s": "autogobierna",
+    "1p": "autogobernamos",
+    "2p": "autogobernáis",
+    "3p": "autogobiernan"
+  },
+  "PImpI": {
+    "1s": "autogobernaba",
+    "2s": "autogobernabas",
+    "3s": "autogobernaba",
+    "1p": "autogobernábamos",
+    "2p": "autogobernabais",
+    "3p": "autogobernaban"
+  },
+  "PPSI": {
+    "1s": "autogoberné",
+    "2s": "autogobernaste",
+    "3s": "autogobernó",
+    "1p": "autogobernamos",
+    "2p": "autogobernasteis",
+    "3p": "autogobernaron"
+  },
+  "FutSI": {
+    "1s": "autogobernaré",
+    "2s": "autogobernarás",
+    "3s": "autogobernará",
+    "1p": "autogobernaremos",
+    "2p": "autogobernaréis",
+    "3p": "autogobernarán"
+  },
+  "CondS": {
+    "1s": "autogobernaría",
+    "2s": "autogobernarías",
+    "3s": "autogobernaría",
+    "1p": "autogobernaríamos",
+    "2p": "autogobernaríais",
+    "3p": "autogobernarían"
+  },
+  "PresC": {
+    "1s": "autogobierne",
+    "2s": "autogobiernes",
+    "3s": "autogobierne",
+    "1p": "autogobernemos",
+    "2p": "autogobernéis",
+    "3p": "autogobiernen"
+  },
+  "PMQPSI": {
+    "1s": "autogobernara",
+    "2s": "autogobernaras",
+    "3s": "autogobernara",
+    "1p": "autogobernáramos",
+    "2p": "autogobernarais",
+    "3p": "autogobernaran"
+  },
+  "PImpC": {
+    "1s": "autogobernase",
+    "2s": "autogobernases",
+    "3s": "autogobernase",
+    "1p": "autogobernásemos",
+    "2p": "autogobernaseis",
+    "3p": "autogobernasen"
+  },
+  "FutSC": {
+    "1s": "autogobernare",
+    "2s": "autogobernares",
+    "3s": "autogobernare",
+    "1p": "autogobernáremos",
+    "2p": "autogobernareis",
+    "3p": "autogobernaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autogobierna",
+    "3s": "autogobierne",
+    "1p": "autogobernemos",
+    "2p": "autogobernad",
+    "3p": "autogobiernen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autogobiernes",
+    "3s": "no autogobierne",
+    "1p": "no autogobernemos",
+    "2p": "no autogobernéis",
+    "3p": "no autogobiernen"
+  },
+  "Part-ter": {
+    "": "autogobernado"
+  },
+  "Part-ser": {
+    "ms": "autogobernado",
+    "fs": "autogobernada",
+    "mp": "autogobernados",
+    "fp": "autogobernadas"
+  }
+}

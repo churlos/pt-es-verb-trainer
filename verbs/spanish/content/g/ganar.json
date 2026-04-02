@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ganar"
+  },
+  "Ger": {
+    "": "ganando"
+  },
+  "PresI": {
+    "1s": "gano",
+    "2s": "ganas",
+    "3s": "gana",
+    "1p": "ganamos",
+    "2p": "ganáis",
+    "3p": "ganan"
+  },
+  "PImpI": {
+    "1s": "ganaba",
+    "2s": "ganabas",
+    "3s": "ganaba",
+    "1p": "ganábamos",
+    "2p": "ganabais",
+    "3p": "ganaban"
+  },
+  "PPSI": {
+    "1s": "gané",
+    "2s": "ganaste",
+    "3s": "ganó",
+    "1p": "ganamos",
+    "2p": "ganasteis",
+    "3p": "ganaron"
+  },
+  "FutSI": {
+    "1s": "ganaré",
+    "2s": "ganarás",
+    "3s": "ganará",
+    "1p": "ganaremos",
+    "2p": "ganaréis",
+    "3p": "ganarán"
+  },
+  "CondS": {
+    "1s": "ganaría",
+    "2s": "ganarías",
+    "3s": "ganaría",
+    "1p": "ganaríamos",
+    "2p": "ganaríais",
+    "3p": "ganarían"
+  },
+  "PresC": {
+    "1s": "gane",
+    "2s": "ganes",
+    "3s": "gane",
+    "1p": "ganemos",
+    "2p": "ganéis",
+    "3p": "ganen"
+  },
+  "PMQPSI": {
+    "1s": "ganara",
+    "2s": "ganaras",
+    "3s": "ganara",
+    "1p": "ganáramos",
+    "2p": "ganarais",
+    "3p": "ganaran"
+  },
+  "PImpC": {
+    "1s": "ganase",
+    "2s": "ganases",
+    "3s": "ganase",
+    "1p": "ganásemos",
+    "2p": "ganaseis",
+    "3p": "ganasen"
+  },
+  "FutSC": {
+    "1s": "ganare",
+    "2s": "ganares",
+    "3s": "ganare",
+    "1p": "ganáremos",
+    "2p": "ganareis",
+    "3p": "ganaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gana",
+    "3s": "gane",
+    "1p": "ganemos",
+    "2p": "ganad",
+    "3p": "ganen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ganes",
+    "3s": "no gane",
+    "1p": "no ganemos",
+    "2p": "no ganéis",
+    "3p": "no ganen"
+  },
+  "Part-ter": {
+    "": "ganado"
+  },
+  "Part-ser": {
+    "ms": "ganado",
+    "fs": "ganada",
+    "mp": "ganados",
+    "fp": "ganadas"
+  }
+}

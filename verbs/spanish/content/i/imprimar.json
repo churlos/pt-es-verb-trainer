@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "imprimar"
+  },
+  "Ger": {
+    "": "imprimando"
+  },
+  "PresI": {
+    "1s": "imprimo",
+    "2s": "imprimas",
+    "3s": "imprima",
+    "1p": "imprimamos",
+    "2p": "imprimáis",
+    "3p": "impriman"
+  },
+  "PImpI": {
+    "1s": "imprimaba",
+    "2s": "imprimabas",
+    "3s": "imprimaba",
+    "1p": "imprimábamos",
+    "2p": "imprimabais",
+    "3p": "imprimaban"
+  },
+  "PPSI": {
+    "1s": "imprimé",
+    "2s": "imprimaste",
+    "3s": "imprimó",
+    "1p": "imprimamos",
+    "2p": "imprimasteis",
+    "3p": "imprimaron"
+  },
+  "FutSI": {
+    "1s": "imprimaré",
+    "2s": "imprimarás",
+    "3s": "imprimará",
+    "1p": "imprimaremos",
+    "2p": "imprimaréis",
+    "3p": "imprimarán"
+  },
+  "CondS": {
+    "1s": "imprimaría",
+    "2s": "imprimarías",
+    "3s": "imprimaría",
+    "1p": "imprimaríamos",
+    "2p": "imprimaríais",
+    "3p": "imprimarían"
+  },
+  "PresC": {
+    "1s": "imprime",
+    "2s": "imprimes",
+    "3s": "imprime",
+    "1p": "imprimemos",
+    "2p": "impriméis",
+    "3p": "imprimen"
+  },
+  "PMQPSI": {
+    "1s": "imprimara",
+    "2s": "imprimaras",
+    "3s": "imprimara",
+    "1p": "imprimáramos",
+    "2p": "imprimarais",
+    "3p": "imprimaran"
+  },
+  "PImpC": {
+    "1s": "imprimase",
+    "2s": "imprimases",
+    "3s": "imprimase",
+    "1p": "imprimásemos",
+    "2p": "imprimaseis",
+    "3p": "imprimasen"
+  },
+  "FutSC": {
+    "1s": "imprimare",
+    "2s": "imprimares",
+    "3s": "imprimare",
+    "1p": "imprimáremos",
+    "2p": "imprimareis",
+    "3p": "imprimaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imprima",
+    "3s": "imprime",
+    "1p": "imprimemos",
+    "2p": "imprimad",
+    "3p": "imprimen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no imprimes",
+    "3s": "no imprime",
+    "1p": "no imprimemos",
+    "2p": "no impriméis",
+    "3p": "no imprimen"
+  },
+  "Part-ter": {
+    "": "imprimado"
+  },
+  "Part-ser": {
+    "ms": "imprimado",
+    "fs": "imprimada",
+    "mp": "imprimados",
+    "fp": "imprimadas"
+  }
+}

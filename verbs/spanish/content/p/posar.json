@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "posar"
+  },
+  "Ger": {
+    "": "posando"
+  },
+  "PresI": {
+    "1s": "poso",
+    "2s": "posas",
+    "3s": "posa",
+    "1p": "posamos",
+    "2p": "posáis",
+    "3p": "posan"
+  },
+  "PImpI": {
+    "1s": "posaba",
+    "2s": "posabas",
+    "3s": "posaba",
+    "1p": "posábamos",
+    "2p": "posabais",
+    "3p": "posaban"
+  },
+  "PPSI": {
+    "1s": "posé",
+    "2s": "posaste",
+    "3s": "posó",
+    "1p": "posamos",
+    "2p": "posasteis",
+    "3p": "posaron"
+  },
+  "FutSI": {
+    "1s": "posaré",
+    "2s": "posarás",
+    "3s": "posará",
+    "1p": "posaremos",
+    "2p": "posaréis",
+    "3p": "posarán"
+  },
+  "CondS": {
+    "1s": "posaría",
+    "2s": "posarías",
+    "3s": "posaría",
+    "1p": "posaríamos",
+    "2p": "posaríais",
+    "3p": "posarían"
+  },
+  "PresC": {
+    "1s": "pose",
+    "2s": "poses",
+    "3s": "pose",
+    "1p": "posemos",
+    "2p": "poséis",
+    "3p": "posen"
+  },
+  "PMQPSI": {
+    "1s": "posara",
+    "2s": "posaras",
+    "3s": "posara",
+    "1p": "posáramos",
+    "2p": "posarais",
+    "3p": "posaran"
+  },
+  "PImpC": {
+    "1s": "posase",
+    "2s": "posases",
+    "3s": "posase",
+    "1p": "posásemos",
+    "2p": "posaseis",
+    "3p": "posasen"
+  },
+  "FutSC": {
+    "1s": "posare",
+    "2s": "posares",
+    "3s": "posare",
+    "1p": "posáremos",
+    "2p": "posareis",
+    "3p": "posaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "posa",
+    "3s": "pose",
+    "1p": "posemos",
+    "2p": "posad",
+    "3p": "posen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no poses",
+    "3s": "no pose",
+    "1p": "no posemos",
+    "2p": "no poséis",
+    "3p": "no posen"
+  },
+  "Part-ter": {
+    "": "posado"
+  },
+  "Part-ser": {
+    "ms": "posado",
+    "fs": "posada",
+    "mp": "posados",
+    "fp": "posadas"
+  }
+}

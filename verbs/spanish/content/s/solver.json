@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "solver"
+  },
+  "Ger": {
+    "": "solviendo"
+  },
+  "PresI": {
+    "1s": "suelvo",
+    "2s": "suelves",
+    "3s": "suelve",
+    "1p": "solvemos",
+    "2p": "solvéis",
+    "3p": "suelven"
+  },
+  "PImpI": {
+    "1s": "solvía",
+    "2s": "solvías",
+    "3s": "solvía",
+    "1p": "solvíamos",
+    "2p": "solvíais",
+    "3p": "solvían"
+  },
+  "PPSI": {
+    "1s": "solví",
+    "2s": "solviste",
+    "3s": "solvió",
+    "1p": "solvimos",
+    "2p": "solvisteis",
+    "3p": "solvieron"
+  },
+  "FutSI": {
+    "1s": "solveré",
+    "2s": "solverás",
+    "3s": "solverá",
+    "1p": "solveremos",
+    "2p": "solveréis",
+    "3p": "solverán"
+  },
+  "CondS": {
+    "1s": "solvería",
+    "2s": "solverías",
+    "3s": "solvería",
+    "1p": "solveríamos",
+    "2p": "solveríais",
+    "3p": "solverían"
+  },
+  "PresC": {
+    "1s": "suelva",
+    "2s": "suelvas",
+    "3s": "suelva",
+    "1p": "solvamos",
+    "2p": "solváis",
+    "3p": "suelvan"
+  },
+  "PMQPSI": {
+    "1s": "solviera",
+    "2s": "solvieras",
+    "3s": "solviera",
+    "1p": "solviéramos",
+    "2p": "solvierais",
+    "3p": "solvieran"
+  },
+  "PImpC": {
+    "1s": "solviese",
+    "2s": "solvieses",
+    "3s": "solviese",
+    "1p": "solviésemos",
+    "2p": "solvieseis",
+    "3p": "solviesen"
+  },
+  "FutSC": {
+    "1s": "solviere",
+    "2s": "solvieres",
+    "3s": "solviere",
+    "1p": "solviéremos",
+    "2p": "solviereis",
+    "3p": "solvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suelve",
+    "3s": "suelva",
+    "1p": "solvamos",
+    "2p": "solved",
+    "3p": "suelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no suelvas",
+    "3s": "no suelva",
+    "1p": "no solvamos",
+    "2p": "no solváis",
+    "3p": "no suelvan"
+  },
+  "Part-ter": {
+    "": "suelto"
+  },
+  "Part-ser": {
+    "ms": "suelto",
+    "fs": "suelta",
+    "mp": "sueltos",
+    "fp": "sueltas"
+  }
+}

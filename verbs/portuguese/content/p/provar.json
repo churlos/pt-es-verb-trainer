@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "provar"
+  },
+  "InfP": {
+    "1s": "provar",
+    "2s": "provares",
+    "3s": "provar",
+    "1p": "provarmos",
+    "2p": "provardes",
+    "3p": "provarem"
+  },
+  "Ger": {
+    "": "provando"
+  },
+  "PresI": {
+    "1s": "provo",
+    "2s": "provas",
+    "3s": "prova",
+    "1p": "provamos",
+    "2p": "provais",
+    "3p": "provam"
+  },
+  "PImpI": {
+    "1s": "provava",
+    "2s": "provavas",
+    "3s": "provava",
+    "1p": "provávamos",
+    "2p": "prováveis",
+    "3p": "provavam"
+  },
+  "PPSI": {
+    "1s": "provei",
+    "2s": "provaste",
+    "3s": "provou",
+    "1p": "provámos",
+    "2p": "provastes",
+    "3p": "provaram"
+  },
+  "PMQPSI": {
+    "1s": "provara",
+    "2s": "provaras",
+    "3s": "provara",
+    "1p": "prováramos",
+    "2p": "prováreis",
+    "3p": "provaram"
+  },
+  "FutSI": {
+    "1s": "provarei",
+    "2s": "provarás",
+    "3s": "provará",
+    "1p": "provaremos",
+    "2p": "provareis",
+    "3p": "provarão"
+  },
+  "CondS": {
+    "1s": "provaria",
+    "2s": "provarias",
+    "3s": "provaria",
+    "1p": "provaríamos",
+    "2p": "provaríeis",
+    "3p": "provariam"
+  },
+  "PresC": {
+    "1s": "prove",
+    "2s": "proves",
+    "3s": "prove",
+    "1p": "provemos",
+    "2p": "proveis",
+    "3p": "provem"
+  },
+  "PImpC": {
+    "1s": "provasse",
+    "2s": "provasses",
+    "3s": "provasse",
+    "1p": "provássemos",
+    "2p": "provásseis",
+    "3p": "provassem"
+  },
+  "FutSC": {
+    "1s": "provar",
+    "2s": "provares",
+    "3s": "provar",
+    "1p": "provarmos",
+    "2p": "provardes",
+    "3p": "provarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prova",
+    "3s": "prove",
+    "1p": "provemos",
+    "2p": "provai",
+    "3p": "provem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não proves",
+    "3s": "não prove",
+    "1p": "não provemos",
+    "2p": "não proveis",
+    "3p": "não provem"
+  },
+  "Part-ter": {
+    "": "provado"
+  },
+  "Part-ser": {
+    "ms": "provado",
+    "fs": "provada",
+    "mp": "provados",
+    "fp": "provadas"
+  }
+}

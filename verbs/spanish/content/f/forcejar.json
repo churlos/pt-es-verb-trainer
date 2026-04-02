@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "forcejar"
+  },
+  "Ger": {
+    "": "forcejando"
+  },
+  "PresI": {
+    "1s": "forcejo",
+    "2s": "forcejas",
+    "3s": "forceja",
+    "1p": "forcejamos",
+    "2p": "forcejáis",
+    "3p": "forcejan"
+  },
+  "PImpI": {
+    "1s": "forcejaba",
+    "2s": "forcejabas",
+    "3s": "forcejaba",
+    "1p": "forcejábamos",
+    "2p": "forcejabais",
+    "3p": "forcejaban"
+  },
+  "PPSI": {
+    "1s": "forcejé",
+    "2s": "forcejaste",
+    "3s": "forcejó",
+    "1p": "forcejamos",
+    "2p": "forcejasteis",
+    "3p": "forcejaron"
+  },
+  "FutSI": {
+    "1s": "forcejaré",
+    "2s": "forcejarás",
+    "3s": "forcejará",
+    "1p": "forcejaremos",
+    "2p": "forcejaréis",
+    "3p": "forcejarán"
+  },
+  "CondS": {
+    "1s": "forcejaría",
+    "2s": "forcejarías",
+    "3s": "forcejaría",
+    "1p": "forcejaríamos",
+    "2p": "forcejaríais",
+    "3p": "forcejarían"
+  },
+  "PresC": {
+    "1s": "forceje",
+    "2s": "forcejes",
+    "3s": "forceje",
+    "1p": "forcejemos",
+    "2p": "forcejéis",
+    "3p": "forcejen"
+  },
+  "PMQPSI": {
+    "1s": "forcejara",
+    "2s": "forcejaras",
+    "3s": "forcejara",
+    "1p": "forcejáramos",
+    "2p": "forcejarais",
+    "3p": "forcejaran"
+  },
+  "PImpC": {
+    "1s": "forcejase",
+    "2s": "forcejases",
+    "3s": "forcejase",
+    "1p": "forcejásemos",
+    "2p": "forcejaseis",
+    "3p": "forcejasen"
+  },
+  "FutSC": {
+    "1s": "forcejare",
+    "2s": "forcejares",
+    "3s": "forcejare",
+    "1p": "forcejáremos",
+    "2p": "forcejareis",
+    "3p": "forcejaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "forceja",
+    "3s": "forceje",
+    "1p": "forcejemos",
+    "2p": "forcejad",
+    "3p": "forcejen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no forcejes",
+    "3s": "no forceje",
+    "1p": "no forcejemos",
+    "2p": "no forcejéis",
+    "3p": "no forcejen"
+  },
+  "Part-ter": {
+    "": "forcejado"
+  },
+  "Part-ser": {
+    "ms": "forcejado",
+    "fs": "forcejada",
+    "mp": "forcejados",
+    "fp": "forcejadas"
+  }
+}

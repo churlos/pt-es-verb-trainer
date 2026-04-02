@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autocorregir"
+  },
+  "Ger": {
+    "": "autocorrigiendo"
+  },
+  "PresI": {
+    "1s": "autocorrijo",
+    "2s": "autocorriges",
+    "3s": "autocorrige",
+    "1p": "autocorregimos",
+    "2p": "autocorregís",
+    "3p": "autocorrigen"
+  },
+  "PImpI": {
+    "1s": "autocorregía",
+    "2s": "autocorregías",
+    "3s": "autocorregía",
+    "1p": "autocorregíamos",
+    "2p": "autocorregíais",
+    "3p": "autocorregían"
+  },
+  "PPSI": {
+    "1s": "autocorregí",
+    "2s": "autocorregiste",
+    "3s": "autocorrigió",
+    "1p": "autocorregimos",
+    "2p": "autocorregisteis",
+    "3p": "autocorrigieron"
+  },
+  "FutSI": {
+    "1s": "autocorregiré",
+    "2s": "autocorregirás",
+    "3s": "autocorregirá",
+    "1p": "autocorregiremos",
+    "2p": "autocorregiréis",
+    "3p": "autocorregirán"
+  },
+  "CondS": {
+    "1s": "autocorregiría",
+    "2s": "autocorregirías",
+    "3s": "autocorregiría",
+    "1p": "autocorregiríamos",
+    "2p": "autocorregiríais",
+    "3p": "autocorregirían"
+  },
+  "PresC": {
+    "1s": "autocorrija",
+    "2s": "autocorrijas",
+    "3s": "autocorrija",
+    "1p": "autocorrijamos",
+    "2p": "autocorrijáis",
+    "3p": "autocorrijan"
+  },
+  "PMQPSI": {
+    "1s": "autocorrigiera",
+    "2s": "autocorrigieras",
+    "3s": "autocorrigiera",
+    "1p": "autocorrigiéramos",
+    "2p": "autocorrigierais",
+    "3p": "autocorrigieran"
+  },
+  "PImpC": {
+    "1s": "autocorrigiese",
+    "2s": "autocorrigieses",
+    "3s": "autocorrigiese",
+    "1p": "autocorrigiésemos",
+    "2p": "autocorrigieseis",
+    "3p": "autocorrigiesen"
+  },
+  "FutSC": {
+    "1s": "autocorrigiere",
+    "2s": "autocorrigieres",
+    "3s": "autocorrigiere",
+    "1p": "autocorrigiéremos",
+    "2p": "autocorrigiereis",
+    "3p": "autocorrigieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autocorrige",
+    "3s": "autocorrija",
+    "1p": "autocorrijamos",
+    "2p": "autocorregid",
+    "3p": "autocorrijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autocorrijas",
+    "3s": "no autocorrija",
+    "1p": "no autocorrijamos",
+    "2p": "no autocorrijáis",
+    "3p": "no autocorrijan"
+  },
+  "Part-ter": {
+    "": "autocorregido, autocorrecto"
+  },
+  "Part-ser": {
+    "ms": "autocorregido, autocorrecto",
+    "fs": "autocorregida, autocorrecta",
+    "mp": "autocorregidos, autocorrectos",
+    "fp": "autocorregidas, autocorrectas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "intersectar"
+  },
+  "Ger": {
+    "": "intersectando"
+  },
+  "PresI": {
+    "1s": "intersecto",
+    "2s": "intersectas",
+    "3s": "intersecta",
+    "1p": "intersectamos",
+    "2p": "intersectáis",
+    "3p": "intersectan"
+  },
+  "PImpI": {
+    "1s": "intersectaba",
+    "2s": "intersectabas",
+    "3s": "intersectaba",
+    "1p": "intersectábamos",
+    "2p": "intersectabais",
+    "3p": "intersectaban"
+  },
+  "PPSI": {
+    "1s": "intersecté",
+    "2s": "intersectaste",
+    "3s": "intersectó",
+    "1p": "intersectamos",
+    "2p": "intersectasteis",
+    "3p": "intersectaron"
+  },
+  "FutSI": {
+    "1s": "intersectaré",
+    "2s": "intersectarás",
+    "3s": "intersectará",
+    "1p": "intersectaremos",
+    "2p": "intersectaréis",
+    "3p": "intersectarán"
+  },
+  "CondS": {
+    "1s": "intersectaría",
+    "2s": "intersectarías",
+    "3s": "intersectaría",
+    "1p": "intersectaríamos",
+    "2p": "intersectaríais",
+    "3p": "intersectarían"
+  },
+  "PresC": {
+    "1s": "intersecte",
+    "2s": "intersectes",
+    "3s": "intersecte",
+    "1p": "intersectemos",
+    "2p": "intersectéis",
+    "3p": "intersecten"
+  },
+  "PMQPSI": {
+    "1s": "intersectara",
+    "2s": "intersectaras",
+    "3s": "intersectara",
+    "1p": "intersectáramos",
+    "2p": "intersectarais",
+    "3p": "intersectaran"
+  },
+  "PImpC": {
+    "1s": "intersectase",
+    "2s": "intersectases",
+    "3s": "intersectase",
+    "1p": "intersectásemos",
+    "2p": "intersectaseis",
+    "3p": "intersectasen"
+  },
+  "FutSC": {
+    "1s": "intersectare",
+    "2s": "intersectares",
+    "3s": "intersectare",
+    "1p": "intersectáremos",
+    "2p": "intersectareis",
+    "3p": "intersectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intersecta",
+    "3s": "intersecte",
+    "1p": "intersectemos",
+    "2p": "intersectad",
+    "3p": "intersecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no intersectes",
+    "3s": "no intersecte",
+    "1p": "no intersectemos",
+    "2p": "no intersectéis",
+    "3p": "no intersecten"
+  },
+  "Part-ter": {
+    "": "intersectado"
+  },
+  "Part-ser": {
+    "ms": "intersectado",
+    "fs": "intersectada",
+    "mp": "intersectados",
+    "fp": "intersectadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enforcar"
+  },
+  "InfP": {
+    "1s": "enforcar",
+    "2s": "enforcares",
+    "3s": "enforcar",
+    "1p": "enforcarmos",
+    "2p": "enforcardes",
+    "3p": "enforcarem"
+  },
+  "Ger": {
+    "": "enforcando"
+  },
+  "PresI": {
+    "1s": "enforco",
+    "2s": "enforcas",
+    "3s": "enforca",
+    "1p": "enforcamos",
+    "2p": "enforcais",
+    "3p": "enforcam"
+  },
+  "PImpI": {
+    "1s": "enforcava",
+    "2s": "enforcavas",
+    "3s": "enforcava",
+    "1p": "enforcávamos",
+    "2p": "enforcáveis",
+    "3p": "enforcavam"
+  },
+  "PPSI": {
+    "1s": "enforquei",
+    "2s": "enforcaste",
+    "3s": "enforcou",
+    "1p": "enforcámos",
+    "2p": "enforcastes",
+    "3p": "enforcaram"
+  },
+  "PMQPSI": {
+    "1s": "enforcara",
+    "2s": "enforcaras",
+    "3s": "enforcara",
+    "1p": "enforcáramos",
+    "2p": "enforcáreis",
+    "3p": "enforcaram"
+  },
+  "FutSI": {
+    "1s": "enforcarei",
+    "2s": "enforcarás",
+    "3s": "enforcará",
+    "1p": "enforcaremos",
+    "2p": "enforcareis",
+    "3p": "enforcarão"
+  },
+  "CondS": {
+    "1s": "enforcaria",
+    "2s": "enforcarias",
+    "3s": "enforcaria",
+    "1p": "enforcaríamos",
+    "2p": "enforcaríeis",
+    "3p": "enforcariam"
+  },
+  "PresC": {
+    "1s": "enforque",
+    "2s": "enforques",
+    "3s": "enforque",
+    "1p": "enforquemos",
+    "2p": "enforqueis",
+    "3p": "enforquem"
+  },
+  "PImpC": {
+    "1s": "enforcasse",
+    "2s": "enforcasses",
+    "3s": "enforcasse",
+    "1p": "enforcássemos",
+    "2p": "enforcásseis",
+    "3p": "enforcassem"
+  },
+  "FutSC": {
+    "1s": "enforcar",
+    "2s": "enforcares",
+    "3s": "enforcar",
+    "1p": "enforcarmos",
+    "2p": "enforcardes",
+    "3p": "enforcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enforca",
+    "3s": "enforque",
+    "1p": "enforquemos",
+    "2p": "enforcai",
+    "3p": "enforquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enforques",
+    "3s": "não enforque",
+    "1p": "não enforquemos",
+    "2p": "não enforqueis",
+    "3p": "não enforquem"
+  },
+  "Part-ter": {
+    "": "enforcado"
+  },
+  "Part-ser": {
+    "ms": "enforcado",
+    "fs": "enforcada",
+    "mp": "enforcados",
+    "fp": "enforcadas"
+  }
+}

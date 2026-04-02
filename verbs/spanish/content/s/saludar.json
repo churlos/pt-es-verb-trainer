@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "saludar"
+  },
+  "Ger": {
+    "": "saludando"
+  },
+  "PresI": {
+    "1s": "saludo",
+    "2s": "saludas",
+    "3s": "saluda",
+    "1p": "saludamos",
+    "2p": "saludáis",
+    "3p": "saludan"
+  },
+  "PImpI": {
+    "1s": "saludaba",
+    "2s": "saludabas",
+    "3s": "saludaba",
+    "1p": "saludábamos",
+    "2p": "saludabais",
+    "3p": "saludaban"
+  },
+  "PPSI": {
+    "1s": "saludé",
+    "2s": "saludaste",
+    "3s": "saludó",
+    "1p": "saludamos",
+    "2p": "saludasteis",
+    "3p": "saludaron"
+  },
+  "FutSI": {
+    "1s": "saludaré",
+    "2s": "saludarás",
+    "3s": "saludará",
+    "1p": "saludaremos",
+    "2p": "saludaréis",
+    "3p": "saludarán"
+  },
+  "CondS": {
+    "1s": "saludaría",
+    "2s": "saludarías",
+    "3s": "saludaría",
+    "1p": "saludaríamos",
+    "2p": "saludaríais",
+    "3p": "saludarían"
+  },
+  "PresC": {
+    "1s": "salude",
+    "2s": "saludes",
+    "3s": "salude",
+    "1p": "saludemos",
+    "2p": "saludéis",
+    "3p": "saluden"
+  },
+  "PMQPSI": {
+    "1s": "saludara",
+    "2s": "saludaras",
+    "3s": "saludara",
+    "1p": "saludáramos",
+    "2p": "saludarais",
+    "3p": "saludaran"
+  },
+  "PImpC": {
+    "1s": "saludase",
+    "2s": "saludases",
+    "3s": "saludase",
+    "1p": "saludásemos",
+    "2p": "saludaseis",
+    "3p": "saludasen"
+  },
+  "FutSC": {
+    "1s": "saludare",
+    "2s": "saludares",
+    "3s": "saludare",
+    "1p": "saludáremos",
+    "2p": "saludareis",
+    "3p": "saludaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saluda",
+    "3s": "salude",
+    "1p": "saludemos",
+    "2p": "saludad",
+    "3p": "saluden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no saludes",
+    "3s": "no salude",
+    "1p": "no saludemos",
+    "2p": "no saludéis",
+    "3p": "no saluden"
+  },
+  "Part-ter": {
+    "": "saludado"
+  },
+  "Part-ser": {
+    "ms": "saludado",
+    "fs": "saludada",
+    "mp": "saludados",
+    "fp": "saludadas"
+  }
+}

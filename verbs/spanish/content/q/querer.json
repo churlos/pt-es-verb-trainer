@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "querer"
+  },
+  "Ger": {
+    "": "queriendo"
+  },
+  "PresI": {
+    "1s": "quiero",
+    "2s": "quieres",
+    "3s": "quiere",
+    "1p": "queremos",
+    "2p": "queréis",
+    "3p": "quieren"
+  },
+  "PImpI": {
+    "1s": "quería",
+    "2s": "querías",
+    "3s": "quería",
+    "1p": "queríamos",
+    "2p": "queríais",
+    "3p": "querían"
+  },
+  "PPSI": {
+    "1s": "quise",
+    "2s": "quisiste",
+    "3s": "quiso",
+    "1p": "quisimos",
+    "2p": "quisisteis",
+    "3p": "quisieron"
+  },
+  "FutSI": {
+    "1s": "querré",
+    "2s": "querrás",
+    "3s": "querrá",
+    "1p": "querremos",
+    "2p": "querréis",
+    "3p": "querrán"
+  },
+  "CondS": {
+    "1s": "querría",
+    "2s": "querrías",
+    "3s": "querría",
+    "1p": "querríamos",
+    "2p": "querríais",
+    "3p": "querrían"
+  },
+  "PresC": {
+    "1s": "quiera",
+    "2s": "quieras",
+    "3s": "quiera",
+    "1p": "queramos",
+    "2p": "queráis",
+    "3p": "quieran"
+  },
+  "PMQPSI": {
+    "1s": "quisiera",
+    "2s": "quisieras",
+    "3s": "quisiera",
+    "1p": "quisiéramos",
+    "2p": "quisierais",
+    "3p": "quisieran"
+  },
+  "PImpC": {
+    "1s": "quisiese",
+    "2s": "quisieses",
+    "3s": "quisiese",
+    "1p": "quisiésemos",
+    "2p": "quisieseis",
+    "3p": "quisiesen"
+  },
+  "FutSC": {
+    "1s": "quisiere",
+    "2s": "quisieres",
+    "3s": "quisiere",
+    "1p": "quisiéremos",
+    "2p": "quisiereis",
+    "3p": "quisieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quiere",
+    "3s": "quiera",
+    "1p": "queramos",
+    "2p": "quered",
+    "3p": "quieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no quieras",
+    "3s": "no quiera",
+    "1p": "no queramos",
+    "2p": "no queráis",
+    "3p": "no quieran"
+  },
+  "Part-ter": {
+    "": "querido"
+  },
+  "Part-ser": {
+    "ms": "querido",
+    "fs": "querida",
+    "mp": "queridos",
+    "fp": "queridas"
+  }
+}

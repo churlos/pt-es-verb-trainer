@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "surfar"
+  },
+  "InfP": {
+    "1s": "surfar",
+    "2s": "surfares",
+    "3s": "surfar",
+    "1p": "surfarmos",
+    "2p": "surfardes",
+    "3p": "surfarem"
+  },
+  "Ger": {
+    "": "surfando"
+  },
+  "PresI": {
+    "1s": "surfo",
+    "2s": "surfas",
+    "3s": "surfa",
+    "1p": "surfamos",
+    "2p": "surfais",
+    "3p": "surfam"
+  },
+  "PImpI": {
+    "1s": "surfava",
+    "2s": "surfavas",
+    "3s": "surfava",
+    "1p": "surfávamos",
+    "2p": "surfáveis",
+    "3p": "surfavam"
+  },
+  "PPSI": {
+    "1s": "surfei",
+    "2s": "surfaste",
+    "3s": "surfou",
+    "1p": "surfámos",
+    "2p": "surfastes",
+    "3p": "surfaram"
+  },
+  "PMQPSI": {
+    "1s": "surfara",
+    "2s": "surfaras",
+    "3s": "surfara",
+    "1p": "surfáramos",
+    "2p": "surfáreis",
+    "3p": "surfaram"
+  },
+  "FutSI": {
+    "1s": "surfarei",
+    "2s": "surfarás",
+    "3s": "surfará",
+    "1p": "surfaremos",
+    "2p": "surfareis",
+    "3p": "surfarão"
+  },
+  "CondS": {
+    "1s": "surfaria",
+    "2s": "surfarias",
+    "3s": "surfaria",
+    "1p": "surfaríamos",
+    "2p": "surfaríeis",
+    "3p": "surfariam"
+  },
+  "PresC": {
+    "1s": "surfe",
+    "2s": "surfes",
+    "3s": "surfe",
+    "1p": "surfemos",
+    "2p": "surfeis",
+    "3p": "surfem"
+  },
+  "PImpC": {
+    "1s": "surfasse",
+    "2s": "surfasses",
+    "3s": "surfasse",
+    "1p": "surfássemos",
+    "2p": "surfásseis",
+    "3p": "surfassem"
+  },
+  "FutSC": {
+    "1s": "surfar",
+    "2s": "surfares",
+    "3s": "surfar",
+    "1p": "surfarmos",
+    "2p": "surfardes",
+    "3p": "surfarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "surfa",
+    "3s": "surfe",
+    "1p": "surfemos",
+    "2p": "surfai",
+    "3p": "surfem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não surfes",
+    "3s": "não surfe",
+    "1p": "não surfemos",
+    "2p": "não surfeis",
+    "3p": "não surfem"
+  },
+  "Part-ter": {
+    "": "surfado"
+  },
+  "Part-ser": {
+    "ms": "surfado",
+    "fs": "surfada",
+    "mp": "surfados",
+    "fp": "surfadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "colegir"
+  },
+  "Ger": {
+    "": "coligiendo"
+  },
+  "PresI": {
+    "1s": "colijo",
+    "2s": "coliges",
+    "3s": "colige",
+    "1p": "colegimos",
+    "2p": "colegís",
+    "3p": "coligen"
+  },
+  "PImpI": {
+    "1s": "colegía",
+    "2s": "colegías",
+    "3s": "colegía",
+    "1p": "colegíamos",
+    "2p": "colegíais",
+    "3p": "colegían"
+  },
+  "PPSI": {
+    "1s": "colegí",
+    "2s": "colegiste",
+    "3s": "coligió",
+    "1p": "colegimos",
+    "2p": "colegisteis",
+    "3p": "coligieron"
+  },
+  "FutSI": {
+    "1s": "colegiré",
+    "2s": "colegirás",
+    "3s": "colegirá",
+    "1p": "colegiremos",
+    "2p": "colegiréis",
+    "3p": "colegirán"
+  },
+  "CondS": {
+    "1s": "colegiría",
+    "2s": "colegirías",
+    "3s": "colegiría",
+    "1p": "colegiríamos",
+    "2p": "colegiríais",
+    "3p": "colegirían"
+  },
+  "PresC": {
+    "1s": "colija",
+    "2s": "colijas",
+    "3s": "colija",
+    "1p": "colijamos",
+    "2p": "colijáis",
+    "3p": "colijan"
+  },
+  "PMQPSI": {
+    "1s": "coligiera",
+    "2s": "coligieras",
+    "3s": "coligiera",
+    "1p": "coligiéramos",
+    "2p": "coligierais",
+    "3p": "coligieran"
+  },
+  "PImpC": {
+    "1s": "coligiese",
+    "2s": "coligieses",
+    "3s": "coligiese",
+    "1p": "coligiésemos",
+    "2p": "coligieseis",
+    "3p": "coligiesen"
+  },
+  "FutSC": {
+    "1s": "coligiere",
+    "2s": "coligieres",
+    "3s": "coligiere",
+    "1p": "coligiéremos",
+    "2p": "coligiereis",
+    "3p": "coligieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colige",
+    "3s": "colija",
+    "1p": "colijamos",
+    "2p": "colegid",
+    "3p": "colijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no colijas",
+    "3s": "no colija",
+    "1p": "no colijamos",
+    "2p": "no colijáis",
+    "3p": "no colijan"
+  },
+  "Part-ter": {
+    "": "colegido"
+  },
+  "Part-ser": {
+    "ms": "colegido",
+    "fs": "colegida",
+    "mp": "colegidos",
+    "fp": "colegidas"
+  }
+}

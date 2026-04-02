@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conformar"
+  },
+  "InfP": {
+    "1s": "conformar",
+    "2s": "conformares",
+    "3s": "conformar",
+    "1p": "conformarmos",
+    "2p": "conformardes",
+    "3p": "conformarem"
+  },
+  "Ger": {
+    "": "conformando"
+  },
+  "PresI": {
+    "1s": "conformo",
+    "2s": "conformas",
+    "3s": "conforma",
+    "1p": "conformamos",
+    "2p": "conformais",
+    "3p": "conformam"
+  },
+  "PImpI": {
+    "1s": "conformava",
+    "2s": "conformavas",
+    "3s": "conformava",
+    "1p": "conformávamos",
+    "2p": "conformáveis",
+    "3p": "conformavam"
+  },
+  "PPSI": {
+    "1s": "conformei",
+    "2s": "conformaste",
+    "3s": "conformou",
+    "1p": "conformámos",
+    "2p": "conformastes",
+    "3p": "conformaram"
+  },
+  "PMQPSI": {
+    "1s": "conformara",
+    "2s": "conformaras",
+    "3s": "conformara",
+    "1p": "conformáramos",
+    "2p": "conformáreis",
+    "3p": "conformaram"
+  },
+  "FutSI": {
+    "1s": "conformarei",
+    "2s": "conformarás",
+    "3s": "conformará",
+    "1p": "conformaremos",
+    "2p": "conformareis",
+    "3p": "conformarão"
+  },
+  "CondS": {
+    "1s": "conformaria",
+    "2s": "conformarias",
+    "3s": "conformaria",
+    "1p": "conformaríamos",
+    "2p": "conformaríeis",
+    "3p": "conformariam"
+  },
+  "PresC": {
+    "1s": "conforme",
+    "2s": "conformes",
+    "3s": "conforme",
+    "1p": "conformemos",
+    "2p": "conformeis",
+    "3p": "conformem"
+  },
+  "PImpC": {
+    "1s": "conformasse",
+    "2s": "conformasses",
+    "3s": "conformasse",
+    "1p": "conformássemos",
+    "2p": "conformásseis",
+    "3p": "conformassem"
+  },
+  "FutSC": {
+    "1s": "conformar",
+    "2s": "conformares",
+    "3s": "conformar",
+    "1p": "conformarmos",
+    "2p": "conformardes",
+    "3p": "conformarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conforma",
+    "3s": "conforme",
+    "1p": "conformemos",
+    "2p": "conformai",
+    "3p": "conformem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não conformes",
+    "3s": "não conforme",
+    "1p": "não conformemos",
+    "2p": "não conformeis",
+    "3p": "não conformem"
+  },
+  "Part-ter": {
+    "": "conformado"
+  },
+  "Part-ser": {
+    "ms": "conformado",
+    "fs": "conformada",
+    "mp": "conformados",
+    "fp": "conformadas"
+  }
+}

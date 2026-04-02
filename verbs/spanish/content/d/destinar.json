@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "destinar"
+  },
+  "Ger": {
+    "": "destinando"
+  },
+  "PresI": {
+    "1s": "destino",
+    "2s": "destinas",
+    "3s": "destina",
+    "1p": "destinamos",
+    "2p": "destináis",
+    "3p": "destinan"
+  },
+  "PImpI": {
+    "1s": "destinaba",
+    "2s": "destinabas",
+    "3s": "destinaba",
+    "1p": "destinábamos",
+    "2p": "destinabais",
+    "3p": "destinaban"
+  },
+  "PPSI": {
+    "1s": "destiné",
+    "2s": "destinaste",
+    "3s": "destinó",
+    "1p": "destinamos",
+    "2p": "destinasteis",
+    "3p": "destinaron"
+  },
+  "FutSI": {
+    "1s": "destinaré",
+    "2s": "destinarás",
+    "3s": "destinará",
+    "1p": "destinaremos",
+    "2p": "destinaréis",
+    "3p": "destinarán"
+  },
+  "CondS": {
+    "1s": "destinaría",
+    "2s": "destinarías",
+    "3s": "destinaría",
+    "1p": "destinaríamos",
+    "2p": "destinaríais",
+    "3p": "destinarían"
+  },
+  "PresC": {
+    "1s": "destine",
+    "2s": "destines",
+    "3s": "destine",
+    "1p": "destinemos",
+    "2p": "destinéis",
+    "3p": "destinen"
+  },
+  "PMQPSI": {
+    "1s": "destinara",
+    "2s": "destinaras",
+    "3s": "destinara",
+    "1p": "destináramos",
+    "2p": "destinarais",
+    "3p": "destinaran"
+  },
+  "PImpC": {
+    "1s": "destinase",
+    "2s": "destinases",
+    "3s": "destinase",
+    "1p": "destinásemos",
+    "2p": "destinaseis",
+    "3p": "destinasen"
+  },
+  "FutSC": {
+    "1s": "destinare",
+    "2s": "destinares",
+    "3s": "destinare",
+    "1p": "destináremos",
+    "2p": "destinareis",
+    "3p": "destinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destina",
+    "3s": "destine",
+    "1p": "destinemos",
+    "2p": "destinad",
+    "3p": "destinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no destines",
+    "3s": "no destine",
+    "1p": "no destinemos",
+    "2p": "no destinéis",
+    "3p": "no destinen"
+  },
+  "Part-ter": {
+    "": "destinado"
+  },
+  "Part-ser": {
+    "ms": "destinado",
+    "fs": "destinada",
+    "mp": "destinados",
+    "fp": "destinadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "diplomar"
+  },
+  "InfP": {
+    "1s": "diplomar",
+    "2s": "diplomares",
+    "3s": "diplomar",
+    "1p": "diplomarmos",
+    "2p": "diplomardes",
+    "3p": "diplomarem"
+  },
+  "Ger": {
+    "": "diplomando"
+  },
+  "PresI": {
+    "1s": "diplomo",
+    "2s": "diplomas",
+    "3s": "diploma",
+    "1p": "diplomamos",
+    "2p": "diplomais",
+    "3p": "diplomam"
+  },
+  "PImpI": {
+    "1s": "diplomava",
+    "2s": "diplomavas",
+    "3s": "diplomava",
+    "1p": "diplomávamos",
+    "2p": "diplomáveis",
+    "3p": "diplomavam"
+  },
+  "PPSI": {
+    "1s": "diplomei",
+    "2s": "diplomaste",
+    "3s": "diplomou",
+    "1p": "diplomámos",
+    "2p": "diplomastes",
+    "3p": "diplomaram"
+  },
+  "PMQPSI": {
+    "1s": "diplomara",
+    "2s": "diplomaras",
+    "3s": "diplomara",
+    "1p": "diplomáramos",
+    "2p": "diplomáreis",
+    "3p": "diplomaram"
+  },
+  "FutSI": {
+    "1s": "diplomarei",
+    "2s": "diplomarás",
+    "3s": "diplomará",
+    "1p": "diplomaremos",
+    "2p": "diplomareis",
+    "3p": "diplomarão"
+  },
+  "CondS": {
+    "1s": "diplomaria",
+    "2s": "diplomarias",
+    "3s": "diplomaria",
+    "1p": "diplomaríamos",
+    "2p": "diplomaríeis",
+    "3p": "diplomariam"
+  },
+  "PresC": {
+    "1s": "diplome",
+    "2s": "diplomes",
+    "3s": "diplome",
+    "1p": "diplomemos",
+    "2p": "diplomeis",
+    "3p": "diplomem"
+  },
+  "PImpC": {
+    "1s": "diplomasse",
+    "2s": "diplomasses",
+    "3s": "diplomasse",
+    "1p": "diplomássemos",
+    "2p": "diplomásseis",
+    "3p": "diplomassem"
+  },
+  "FutSC": {
+    "1s": "diplomar",
+    "2s": "diplomares",
+    "3s": "diplomar",
+    "1p": "diplomarmos",
+    "2p": "diplomardes",
+    "3p": "diplomarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "diploma",
+    "3s": "diplome",
+    "1p": "diplomemos",
+    "2p": "diplomai",
+    "3p": "diplomem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não diplomes",
+    "3s": "não diplome",
+    "1p": "não diplomemos",
+    "2p": "não diplomeis",
+    "3p": "não diplomem"
+  },
+  "Part-ter": {
+    "": "diplomado"
+  },
+  "Part-ser": {
+    "ms": "diplomado",
+    "fs": "diplomada",
+    "mp": "diplomados",
+    "fp": "diplomadas"
+  }
+}

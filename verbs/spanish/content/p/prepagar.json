@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "prepagar"
+  },
+  "Ger": {
+    "": "prepagando"
+  },
+  "PresI": {
+    "1s": "prepago",
+    "2s": "prepagas",
+    "3s": "prepaga",
+    "1p": "prepagamos",
+    "2p": "prepagáis",
+    "3p": "prepagan"
+  },
+  "PImpI": {
+    "1s": "prepagaba",
+    "2s": "prepagabas",
+    "3s": "prepagaba",
+    "1p": "prepagábamos",
+    "2p": "prepagabais",
+    "3p": "prepagaban"
+  },
+  "PPSI": {
+    "1s": "prepagué",
+    "2s": "prepagaste",
+    "3s": "prepagó",
+    "1p": "prepagamos",
+    "2p": "prepagasteis",
+    "3p": "prepagaron"
+  },
+  "FutSI": {
+    "1s": "prepagaré",
+    "2s": "prepagarás",
+    "3s": "prepagará",
+    "1p": "prepagaremos",
+    "2p": "prepagaréis",
+    "3p": "prepagarán"
+  },
+  "CondS": {
+    "1s": "prepagaría",
+    "2s": "prepagarías",
+    "3s": "prepagaría",
+    "1p": "prepagaríamos",
+    "2p": "prepagaríais",
+    "3p": "prepagarían"
+  },
+  "PresC": {
+    "1s": "prepague",
+    "2s": "prepagues",
+    "3s": "prepague",
+    "1p": "prepaguemos",
+    "2p": "prepaguéis",
+    "3p": "prepaguen"
+  },
+  "PMQPSI": {
+    "1s": "prepagara",
+    "2s": "prepagaras",
+    "3s": "prepagara",
+    "1p": "prepagáramos",
+    "2p": "prepagarais",
+    "3p": "prepagaran"
+  },
+  "PImpC": {
+    "1s": "prepagase",
+    "2s": "prepagases",
+    "3s": "prepagase",
+    "1p": "prepagásemos",
+    "2p": "prepagaseis",
+    "3p": "prepagasen"
+  },
+  "FutSC": {
+    "1s": "prepagare",
+    "2s": "prepagares",
+    "3s": "prepagare",
+    "1p": "prepagáremos",
+    "2p": "prepagareis",
+    "3p": "prepagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prepaga",
+    "3s": "prepague",
+    "1p": "prepaguemos",
+    "2p": "prepagad",
+    "3p": "prepaguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prepagues",
+    "3s": "no prepague",
+    "1p": "no prepaguemos",
+    "2p": "no prepaguéis",
+    "3p": "no prepaguen"
+  },
+  "Part-ter": {
+    "": "prepagado"
+  },
+  "Part-ser": {
+    "ms": "prepagado",
+    "fs": "prepagada",
+    "mp": "prepagados",
+    "fp": "prepagadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "borbollar"
+  },
+  "Ger": {
+    "": "borbollando"
+  },
+  "PresI": {
+    "1s": "borbollo",
+    "2s": "borbollas",
+    "3s": "borbolla",
+    "1p": "borbollamos",
+    "2p": "borbolláis",
+    "3p": "borbollan"
+  },
+  "PImpI": {
+    "1s": "borbollaba",
+    "2s": "borbollabas",
+    "3s": "borbollaba",
+    "1p": "borbollábamos",
+    "2p": "borbollabais",
+    "3p": "borbollaban"
+  },
+  "PPSI": {
+    "1s": "borbollé",
+    "2s": "borbollaste",
+    "3s": "borbolló",
+    "1p": "borbollamos",
+    "2p": "borbollasteis",
+    "3p": "borbollaron"
+  },
+  "FutSI": {
+    "1s": "borbollaré",
+    "2s": "borbollarás",
+    "3s": "borbollará",
+    "1p": "borbollaremos",
+    "2p": "borbollaréis",
+    "3p": "borbollarán"
+  },
+  "CondS": {
+    "1s": "borbollaría",
+    "2s": "borbollarías",
+    "3s": "borbollaría",
+    "1p": "borbollaríamos",
+    "2p": "borbollaríais",
+    "3p": "borbollarían"
+  },
+  "PresC": {
+    "1s": "borbolle",
+    "2s": "borbolles",
+    "3s": "borbolle",
+    "1p": "borbollemos",
+    "2p": "borbolléis",
+    "3p": "borbollen"
+  },
+  "PMQPSI": {
+    "1s": "borbollara",
+    "2s": "borbollaras",
+    "3s": "borbollara",
+    "1p": "borbolláramos",
+    "2p": "borbollarais",
+    "3p": "borbollaran"
+  },
+  "PImpC": {
+    "1s": "borbollase",
+    "2s": "borbollases",
+    "3s": "borbollase",
+    "1p": "borbollásemos",
+    "2p": "borbollaseis",
+    "3p": "borbollasen"
+  },
+  "FutSC": {
+    "1s": "borbollare",
+    "2s": "borbollares",
+    "3s": "borbollare",
+    "1p": "borbolláremos",
+    "2p": "borbollareis",
+    "3p": "borbollaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "borbolla",
+    "3s": "borbolle",
+    "1p": "borbollemos",
+    "2p": "borbollad",
+    "3p": "borbollen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no borbolles",
+    "3s": "no borbolle",
+    "1p": "no borbollemos",
+    "2p": "no borbolléis",
+    "3p": "no borbollen"
+  },
+  "Part-ter": {
+    "": "borbollado"
+  },
+  "Part-ser": {
+    "ms": "borbollado",
+    "fs": "borbollada",
+    "mp": "borbollados",
+    "fp": "borbolladas"
+  }
+}

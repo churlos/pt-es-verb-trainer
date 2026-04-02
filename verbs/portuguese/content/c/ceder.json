@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ceder"
+  },
+  "InfP": {
+    "1s": "ceder",
+    "2s": "cederes",
+    "3s": "ceder",
+    "1p": "cedermos",
+    "2p": "cederdes",
+    "3p": "cederem"
+  },
+  "Ger": {
+    "": "cedendo"
+  },
+  "PresI": {
+    "1s": "cedo",
+    "2s": "cedes",
+    "3s": "cede",
+    "1p": "cedemos",
+    "2p": "cedeis",
+    "3p": "cedem"
+  },
+  "PImpI": {
+    "1s": "cedia",
+    "2s": "cedias",
+    "3s": "cedia",
+    "1p": "cedíamos",
+    "2p": "cedíeis",
+    "3p": "cediam"
+  },
+  "PPSI": {
+    "1s": "cedi",
+    "2s": "cedeste",
+    "3s": "cedeu",
+    "1p": "cedemos",
+    "2p": "cedestes",
+    "3p": "cederam"
+  },
+  "PMQPSI": {
+    "1s": "cedera",
+    "2s": "cederas",
+    "3s": "cedera",
+    "1p": "cedêramos",
+    "2p": "cedêreis",
+    "3p": "cederam"
+  },
+  "FutSI": {
+    "1s": "cederei",
+    "2s": "cederás",
+    "3s": "cederá",
+    "1p": "cederemos",
+    "2p": "cedereis",
+    "3p": "cederão"
+  },
+  "CondS": {
+    "1s": "cederia",
+    "2s": "cederias",
+    "3s": "cederia",
+    "1p": "cederíamos",
+    "2p": "cederíeis",
+    "3p": "cederiam"
+  },
+  "PresC": {
+    "1s": "ceda",
+    "2s": "cedas",
+    "3s": "ceda",
+    "1p": "cedamos",
+    "2p": "cedais",
+    "3p": "cedam"
+  },
+  "PImpC": {
+    "1s": "cedesse",
+    "2s": "cedesses",
+    "3s": "cedesse",
+    "1p": "cedêssemos",
+    "2p": "cedêsseis",
+    "3p": "cedessem"
+  },
+  "FutSC": {
+    "1s": "ceder",
+    "2s": "cederes",
+    "3s": "ceder",
+    "1p": "cedermos",
+    "2p": "cederdes",
+    "3p": "cederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cede",
+    "3s": "ceda",
+    "1p": "cedamos",
+    "2p": "cedei",
+    "3p": "cedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cedas",
+    "3s": "não ceda",
+    "1p": "não cedamos",
+    "2p": "não cedais",
+    "3p": "não cedam"
+  },
+  "Part-ter": {
+    "": "cedido"
+  },
+  "Part-ser": {
+    "ms": "cedido",
+    "fs": "cedida",
+    "mp": "cedidos",
+    "fp": "cedidas"
+  }
+}

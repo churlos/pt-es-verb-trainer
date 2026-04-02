@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "flagelar"
+  },
+  "Ger": {
+    "": "flagelando"
+  },
+  "PresI": {
+    "1s": "flagelo",
+    "2s": "flagelas",
+    "3s": "flagela",
+    "1p": "flagelamos",
+    "2p": "flageláis",
+    "3p": "flagelan"
+  },
+  "PImpI": {
+    "1s": "flagelaba",
+    "2s": "flagelabas",
+    "3s": "flagelaba",
+    "1p": "flagelábamos",
+    "2p": "flagelabais",
+    "3p": "flagelaban"
+  },
+  "PPSI": {
+    "1s": "flagelé",
+    "2s": "flagelaste",
+    "3s": "flageló",
+    "1p": "flagelamos",
+    "2p": "flagelasteis",
+    "3p": "flagelaron"
+  },
+  "FutSI": {
+    "1s": "flagelaré",
+    "2s": "flagelarás",
+    "3s": "flagelará",
+    "1p": "flagelaremos",
+    "2p": "flagelaréis",
+    "3p": "flagelarán"
+  },
+  "CondS": {
+    "1s": "flagelaría",
+    "2s": "flagelarías",
+    "3s": "flagelaría",
+    "1p": "flagelaríamos",
+    "2p": "flagelaríais",
+    "3p": "flagelarían"
+  },
+  "PresC": {
+    "1s": "flagele",
+    "2s": "flageles",
+    "3s": "flagele",
+    "1p": "flagelemos",
+    "2p": "flageléis",
+    "3p": "flagelen"
+  },
+  "PMQPSI": {
+    "1s": "flagelara",
+    "2s": "flagelaras",
+    "3s": "flagelara",
+    "1p": "flageláramos",
+    "2p": "flagelarais",
+    "3p": "flagelaran"
+  },
+  "PImpC": {
+    "1s": "flagelase",
+    "2s": "flagelases",
+    "3s": "flagelase",
+    "1p": "flagelásemos",
+    "2p": "flagelaseis",
+    "3p": "flagelasen"
+  },
+  "FutSC": {
+    "1s": "flagelare",
+    "2s": "flagelares",
+    "3s": "flagelare",
+    "1p": "flageláremos",
+    "2p": "flagelareis",
+    "3p": "flagelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flagela",
+    "3s": "flagele",
+    "1p": "flagelemos",
+    "2p": "flagelad",
+    "3p": "flagelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no flageles",
+    "3s": "no flagele",
+    "1p": "no flagelemos",
+    "2p": "no flageléis",
+    "3p": "no flagelen"
+  },
+  "Part-ter": {
+    "": "flagelado"
+  },
+  "Part-ser": {
+    "ms": "flagelado",
+    "fs": "flagelada",
+    "mp": "flagelados",
+    "fp": "flageladas"
+  }
+}

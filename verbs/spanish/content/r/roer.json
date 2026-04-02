@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "roer"
+  },
+  "Ger": {
+    "": "royendo"
+  },
+  "PresI": {
+    "1s": "roo, roigo, royo",
+    "2s": "roes",
+    "3s": "roe",
+    "1p": "roemos",
+    "2p": "roéis",
+    "3p": "roen"
+  },
+  "PImpI": {
+    "1s": "roía",
+    "2s": "roías",
+    "3s": "roía",
+    "1p": "roíamos",
+    "2p": "roíais",
+    "3p": "roían"
+  },
+  "PPSI": {
+    "1s": "roí",
+    "2s": "roíste",
+    "3s": "royó",
+    "1p": "roímos",
+    "2p": "roísteis",
+    "3p": "royeron"
+  },
+  "FutSI": {
+    "1s": "roeré",
+    "2s": "roerás",
+    "3s": "roerá",
+    "1p": "roeremos",
+    "2p": "roeréis",
+    "3p": "roerán"
+  },
+  "CondS": {
+    "1s": "roería",
+    "2s": "roerías",
+    "3s": "roería",
+    "1p": "roeríamos",
+    "2p": "roeríais",
+    "3p": "roerían"
+  },
+  "PresC": {
+    "1s": "roa, roiga, roya",
+    "2s": "roas, roigas, royas",
+    "3s": "roa, roiga, roya",
+    "1p": "roamos, roigamos, royamos",
+    "2p": "roáis, roigáis, royáis",
+    "3p": "roan, roigan, royan"
+  },
+  "PMQPSI": {
+    "1s": "royera",
+    "2s": "royeras",
+    "3s": "royera",
+    "1p": "royéramos",
+    "2p": "royerais",
+    "3p": "royeran"
+  },
+  "PImpC": {
+    "1s": "royese",
+    "2s": "royeses",
+    "3s": "royese",
+    "1p": "royésemos",
+    "2p": "royeseis",
+    "3p": "royesen"
+  },
+  "FutSC": {
+    "1s": "royere",
+    "2s": "royeres",
+    "3s": "royere",
+    "1p": "royéremos",
+    "2p": "royereis",
+    "3p": "royeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "roe",
+    "3s": "roa, roiga, roya",
+    "1p": "roamos, roigamos, royamos",
+    "2p": "roed",
+    "3p": "roan, roigan, royan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no roas, roigas, royas",
+    "3s": "no roa, roiga, roya",
+    "1p": "no roamos, roigamos, royamos",
+    "2p": "no roáis, roigáis, royáis",
+    "3p": "no roan, roigan, royan"
+  },
+  "Part-ter": {
+    "": "roído"
+  },
+  "Part-ser": {
+    "ms": "roído",
+    "fs": "roída",
+    "mp": "roídos",
+    "fp": "roídas"
+  }
+}

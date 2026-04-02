@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mandar"
+  },
+  "InfP": {
+    "1s": "mandar",
+    "2s": "mandares",
+    "3s": "mandar",
+    "1p": "mandarmos",
+    "2p": "mandardes",
+    "3p": "mandarem"
+  },
+  "Ger": {
+    "": "mandando"
+  },
+  "PresI": {
+    "1s": "mando",
+    "2s": "mandas",
+    "3s": "manda",
+    "1p": "mandamos",
+    "2p": "mandais",
+    "3p": "mandam"
+  },
+  "PImpI": {
+    "1s": "mandava",
+    "2s": "mandavas",
+    "3s": "mandava",
+    "1p": "mandávamos",
+    "2p": "mandáveis",
+    "3p": "mandavam"
+  },
+  "PPSI": {
+    "1s": "mandei",
+    "2s": "mandaste",
+    "3s": "mandou",
+    "1p": "mandámos",
+    "2p": "mandastes",
+    "3p": "mandaram"
+  },
+  "PMQPSI": {
+    "1s": "mandara",
+    "2s": "mandaras",
+    "3s": "mandara",
+    "1p": "mandáramos",
+    "2p": "mandáreis",
+    "3p": "mandaram"
+  },
+  "FutSI": {
+    "1s": "mandarei",
+    "2s": "mandarás",
+    "3s": "mandará",
+    "1p": "mandaremos",
+    "2p": "mandareis",
+    "3p": "mandarão"
+  },
+  "CondS": {
+    "1s": "mandaria",
+    "2s": "mandarias",
+    "3s": "mandaria",
+    "1p": "mandaríamos",
+    "2p": "mandaríeis",
+    "3p": "mandariam"
+  },
+  "PresC": {
+    "1s": "mande",
+    "2s": "mandes",
+    "3s": "mande",
+    "1p": "mandemos",
+    "2p": "mandeis",
+    "3p": "mandem"
+  },
+  "PImpC": {
+    "1s": "mandasse",
+    "2s": "mandasses",
+    "3s": "mandasse",
+    "1p": "mandássemos",
+    "2p": "mandásseis",
+    "3p": "mandassem"
+  },
+  "FutSC": {
+    "1s": "mandar",
+    "2s": "mandares",
+    "3s": "mandar",
+    "1p": "mandarmos",
+    "2p": "mandardes",
+    "3p": "mandarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manda",
+    "3s": "mande",
+    "1p": "mandemos",
+    "2p": "mandai",
+    "3p": "mandem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mandes",
+    "3s": "não mande",
+    "1p": "não mandemos",
+    "2p": "não mandeis",
+    "3p": "não mandem"
+  },
+  "Part-ter": {
+    "": "mandado"
+  },
+  "Part-ser": {
+    "ms": "mandado",
+    "fs": "mandada",
+    "mp": "mandados",
+    "fp": "mandadas"
+  }
+}

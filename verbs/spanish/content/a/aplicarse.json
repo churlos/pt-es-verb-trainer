@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aplicarse"
+  },
+  "Ger": {
+    "": "aplicándose"
+  },
+  "PresI": {
+    "1s": "me aplico",
+    "2s": "te aplicas",
+    "3s": "se aplica",
+    "1p": "nos aplicamos",
+    "2p": "os aplicáis",
+    "3p": "se aplican"
+  },
+  "PImpI": {
+    "1s": "me aplicaba",
+    "2s": "te aplicabas",
+    "3s": "se aplicaba",
+    "1p": "nos aplicábamos",
+    "2p": "os aplicabais",
+    "3p": "se aplicaban"
+  },
+  "PPSI": {
+    "1s": "me apliqué",
+    "2s": "te aplicaste",
+    "3s": "se aplicó",
+    "1p": "nos aplicamos",
+    "2p": "os aplicasteis",
+    "3p": "se aplicaron"
+  },
+  "FutSI": {
+    "1s": "me aplicaré",
+    "2s": "te aplicarás",
+    "3s": "se aplicará",
+    "1p": "nos aplicaremos",
+    "2p": "os aplicaréis",
+    "3p": "se aplicarán"
+  },
+  "CondS": {
+    "1s": "me aplicaría",
+    "2s": "te aplicarías",
+    "3s": "se aplicaría",
+    "1p": "nos aplicaríamos",
+    "2p": "os aplicaríais",
+    "3p": "se aplicarían"
+  },
+  "PresC": {
+    "1s": "me aplique",
+    "2s": "te apliques",
+    "3s": "se aplique",
+    "1p": "nos apliquemos",
+    "2p": "os apliquéis",
+    "3p": "se apliquen"
+  },
+  "PMQPSI": {
+    "1s": "me aplicara",
+    "2s": "te aplicaras",
+    "3s": "se aplicara",
+    "1p": "nos aplicáramos",
+    "2p": "os aplicarais",
+    "3p": "se aplicaran"
+  },
+  "PImpC": {
+    "1s": "me aplicase",
+    "2s": "te aplicases",
+    "3s": "se aplicase",
+    "1p": "nos aplicásemos",
+    "2p": "os aplicaseis",
+    "3p": "se aplicasen"
+  },
+  "FutSC": {
+    "1s": "me aplicare",
+    "2s": "te aplicares",
+    "3s": "se aplicare",
+    "1p": "nos aplicáremos",
+    "2p": "os aplicareis",
+    "3p": "se aplicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aplícate",
+    "3s": "aplíquese",
+    "1p": "apliquémonos",
+    "2p": "aplicaos",
+    "3p": "aplíquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te apliques",
+    "3s": "no se aplique",
+    "1p": "no nos apliquemos",
+    "2p": "no os apliquéis",
+    "3p": "no se apliquen"
+  },
+  "Part-ter": {
+    "": "aplicado"
+  },
+  "Part-ser": {
+    "ms": "aplicado",
+    "fs": "aplicada",
+    "mp": "aplicados",
+    "fp": "aplicadas"
+  }
+}

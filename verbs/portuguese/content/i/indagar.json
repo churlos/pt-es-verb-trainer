@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indagar"
+  },
+  "InfP": {
+    "1s": "indagar",
+    "2s": "indagares",
+    "3s": "indagar",
+    "1p": "indagarmos",
+    "2p": "indagardes",
+    "3p": "indagarem"
+  },
+  "Ger": {
+    "": "indagando"
+  },
+  "PresI": {
+    "1s": "indago",
+    "2s": "indagas",
+    "3s": "indaga",
+    "1p": "indagamos",
+    "2p": "indagais",
+    "3p": "indagam"
+  },
+  "PImpI": {
+    "1s": "indagava",
+    "2s": "indagavas",
+    "3s": "indagava",
+    "1p": "indagávamos",
+    "2p": "indagáveis",
+    "3p": "indagavam"
+  },
+  "PPSI": {
+    "1s": "indaguei",
+    "2s": "indagaste",
+    "3s": "indagou",
+    "1p": "indagámos",
+    "2p": "indagastes",
+    "3p": "indagaram"
+  },
+  "PMQPSI": {
+    "1s": "indagara",
+    "2s": "indagaras",
+    "3s": "indagara",
+    "1p": "indagáramos",
+    "2p": "indagáreis",
+    "3p": "indagaram"
+  },
+  "FutSI": {
+    "1s": "indagarei",
+    "2s": "indagarás",
+    "3s": "indagará",
+    "1p": "indagaremos",
+    "2p": "indagareis",
+    "3p": "indagarão"
+  },
+  "CondS": {
+    "1s": "indagaria",
+    "2s": "indagarias",
+    "3s": "indagaria",
+    "1p": "indagaríamos",
+    "2p": "indagaríeis",
+    "3p": "indagariam"
+  },
+  "PresC": {
+    "1s": "indague",
+    "2s": "indagues",
+    "3s": "indague",
+    "1p": "indaguemos",
+    "2p": "indagueis",
+    "3p": "indaguem"
+  },
+  "PImpC": {
+    "1s": "indagasse",
+    "2s": "indagasses",
+    "3s": "indagasse",
+    "1p": "indagássemos",
+    "2p": "indagásseis",
+    "3p": "indagassem"
+  },
+  "FutSC": {
+    "1s": "indagar",
+    "2s": "indagares",
+    "3s": "indagar",
+    "1p": "indagarmos",
+    "2p": "indagardes",
+    "3p": "indagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indaga",
+    "3s": "indague",
+    "1p": "indaguemos",
+    "2p": "indagai",
+    "3p": "indaguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indagues",
+    "3s": "não indague",
+    "1p": "não indaguemos",
+    "2p": "não indagueis",
+    "3p": "não indaguem"
+  },
+  "Part-ter": {
+    "": "indagado"
+  },
+  "Part-ser": {
+    "ms": "indagado",
+    "fs": "indagada",
+    "mp": "indagados",
+    "fp": "indagadas"
+  }
+}

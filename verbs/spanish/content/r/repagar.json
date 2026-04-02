@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "repagar"
+  },
+  "Ger": {
+    "": "repagando"
+  },
+  "PresI": {
+    "1s": "repago",
+    "2s": "repagas",
+    "3s": "repaga",
+    "1p": "repagamos",
+    "2p": "repagáis",
+    "3p": "repagan"
+  },
+  "PImpI": {
+    "1s": "repagaba",
+    "2s": "repagabas",
+    "3s": "repagaba",
+    "1p": "repagábamos",
+    "2p": "repagabais",
+    "3p": "repagaban"
+  },
+  "PPSI": {
+    "1s": "repagué",
+    "2s": "repagaste",
+    "3s": "repagó",
+    "1p": "repagamos",
+    "2p": "repagasteis",
+    "3p": "repagaron"
+  },
+  "FutSI": {
+    "1s": "repagaré",
+    "2s": "repagarás",
+    "3s": "repagará",
+    "1p": "repagaremos",
+    "2p": "repagaréis",
+    "3p": "repagarán"
+  },
+  "CondS": {
+    "1s": "repagaría",
+    "2s": "repagarías",
+    "3s": "repagaría",
+    "1p": "repagaríamos",
+    "2p": "repagaríais",
+    "3p": "repagarían"
+  },
+  "PresC": {
+    "1s": "repague",
+    "2s": "repagues",
+    "3s": "repague",
+    "1p": "repaguemos",
+    "2p": "repaguéis",
+    "3p": "repaguen"
+  },
+  "PMQPSI": {
+    "1s": "repagara",
+    "2s": "repagaras",
+    "3s": "repagara",
+    "1p": "repagáramos",
+    "2p": "repagarais",
+    "3p": "repagaran"
+  },
+  "PImpC": {
+    "1s": "repagase",
+    "2s": "repagases",
+    "3s": "repagase",
+    "1p": "repagásemos",
+    "2p": "repagaseis",
+    "3p": "repagasen"
+  },
+  "FutSC": {
+    "1s": "repagare",
+    "2s": "repagares",
+    "3s": "repagare",
+    "1p": "repagáremos",
+    "2p": "repagareis",
+    "3p": "repagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "repaga",
+    "3s": "repague",
+    "1p": "repaguemos",
+    "2p": "repagad",
+    "3p": "repaguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no repagues",
+    "3s": "no repague",
+    "1p": "no repaguemos",
+    "2p": "no repaguéis",
+    "3p": "no repaguen"
+  },
+  "Part-ter": {
+    "": "repagado"
+  },
+  "Part-ser": {
+    "ms": "repagado",
+    "fs": "repagada",
+    "mp": "repagados",
+    "fp": "repagadas"
+  }
+}

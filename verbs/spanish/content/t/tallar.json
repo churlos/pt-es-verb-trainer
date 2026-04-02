@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tallar"
+  },
+  "Ger": {
+    "": "tallando"
+  },
+  "PresI": {
+    "1s": "tallo",
+    "2s": "tallas",
+    "3s": "talla",
+    "1p": "tallamos",
+    "2p": "talláis",
+    "3p": "tallan"
+  },
+  "PImpI": {
+    "1s": "tallaba",
+    "2s": "tallabas",
+    "3s": "tallaba",
+    "1p": "tallábamos",
+    "2p": "tallabais",
+    "3p": "tallaban"
+  },
+  "PPSI": {
+    "1s": "tallé",
+    "2s": "tallaste",
+    "3s": "talló",
+    "1p": "tallamos",
+    "2p": "tallasteis",
+    "3p": "tallaron"
+  },
+  "FutSI": {
+    "1s": "tallaré",
+    "2s": "tallarás",
+    "3s": "tallará",
+    "1p": "tallaremos",
+    "2p": "tallaréis",
+    "3p": "tallarán"
+  },
+  "CondS": {
+    "1s": "tallaría",
+    "2s": "tallarías",
+    "3s": "tallaría",
+    "1p": "tallaríamos",
+    "2p": "tallaríais",
+    "3p": "tallarían"
+  },
+  "PresC": {
+    "1s": "talle",
+    "2s": "talles",
+    "3s": "talle",
+    "1p": "tallemos",
+    "2p": "talléis",
+    "3p": "tallen"
+  },
+  "PMQPSI": {
+    "1s": "tallara",
+    "2s": "tallaras",
+    "3s": "tallara",
+    "1p": "talláramos",
+    "2p": "tallarais",
+    "3p": "tallaran"
+  },
+  "PImpC": {
+    "1s": "tallase",
+    "2s": "tallases",
+    "3s": "tallase",
+    "1p": "tallásemos",
+    "2p": "tallaseis",
+    "3p": "tallasen"
+  },
+  "FutSC": {
+    "1s": "tallare",
+    "2s": "tallares",
+    "3s": "tallare",
+    "1p": "talláremos",
+    "2p": "tallareis",
+    "3p": "tallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "talla",
+    "3s": "talle",
+    "1p": "tallemos",
+    "2p": "tallad",
+    "3p": "tallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no talles",
+    "3s": "no talle",
+    "1p": "no tallemos",
+    "2p": "no talléis",
+    "3p": "no tallen"
+  },
+  "Part-ter": {
+    "": "tallado"
+  },
+  "Part-ser": {
+    "ms": "tallado",
+    "fs": "tallada",
+    "mp": "tallados",
+    "fp": "talladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "legar"
+  },
+  "InfP": {
+    "1s": "legar",
+    "2s": "legares",
+    "3s": "legar",
+    "1p": "legarmos",
+    "2p": "legardes",
+    "3p": "legarem"
+  },
+  "Ger": {
+    "": "legando"
+  },
+  "PresI": {
+    "1s": "lego",
+    "2s": "legas",
+    "3s": "lega",
+    "1p": "legamos",
+    "2p": "legais",
+    "3p": "legam"
+  },
+  "PImpI": {
+    "1s": "legava",
+    "2s": "legavas",
+    "3s": "legava",
+    "1p": "legávamos",
+    "2p": "legáveis",
+    "3p": "legavam"
+  },
+  "PPSI": {
+    "1s": "leguei",
+    "2s": "legaste",
+    "3s": "legou",
+    "1p": "legámos",
+    "2p": "legastes",
+    "3p": "legaram"
+  },
+  "PMQPSI": {
+    "1s": "legara",
+    "2s": "legaras",
+    "3s": "legara",
+    "1p": "legáramos",
+    "2p": "legáreis",
+    "3p": "legaram"
+  },
+  "FutSI": {
+    "1s": "legarei",
+    "2s": "legarás",
+    "3s": "legará",
+    "1p": "legaremos",
+    "2p": "legareis",
+    "3p": "legarão"
+  },
+  "CondS": {
+    "1s": "legaria",
+    "2s": "legarias",
+    "3s": "legaria",
+    "1p": "legaríamos",
+    "2p": "legaríeis",
+    "3p": "legariam"
+  },
+  "PresC": {
+    "1s": "legue",
+    "2s": "legues",
+    "3s": "legue",
+    "1p": "leguemos",
+    "2p": "legueis",
+    "3p": "leguem"
+  },
+  "PImpC": {
+    "1s": "legasse",
+    "2s": "legasses",
+    "3s": "legasse",
+    "1p": "legássemos",
+    "2p": "legásseis",
+    "3p": "legassem"
+  },
+  "FutSC": {
+    "1s": "legar",
+    "2s": "legares",
+    "3s": "legar",
+    "1p": "legarmos",
+    "2p": "legardes",
+    "3p": "legarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lega",
+    "3s": "legue",
+    "1p": "leguemos",
+    "2p": "legai",
+    "3p": "leguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não legues",
+    "3s": "não legue",
+    "1p": "não leguemos",
+    "2p": "não legueis",
+    "3p": "não leguem"
+  },
+  "Part-ter": {
+    "": "legado"
+  },
+  "Part-ser": {
+    "ms": "legado",
+    "fs": "legada",
+    "mp": "legados",
+    "fp": "legadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "regrar"
+  },
+  "InfP": {
+    "1s": "regrar",
+    "2s": "regrares",
+    "3s": "regrar",
+    "1p": "regrarmos",
+    "2p": "regrardes",
+    "3p": "regrarem"
+  },
+  "Ger": {
+    "": "regrando"
+  },
+  "PresI": {
+    "1s": "regro",
+    "2s": "regras",
+    "3s": "regra",
+    "1p": "regramos",
+    "2p": "regrais",
+    "3p": "regram"
+  },
+  "PImpI": {
+    "1s": "regrava",
+    "2s": "regravas",
+    "3s": "regrava",
+    "1p": "regrávamos",
+    "2p": "regráveis",
+    "3p": "regravam"
+  },
+  "PPSI": {
+    "1s": "regrei",
+    "2s": "regraste",
+    "3s": "regrou",
+    "1p": "regrámos",
+    "2p": "regrastes",
+    "3p": "regraram"
+  },
+  "PMQPSI": {
+    "1s": "regrara",
+    "2s": "regraras",
+    "3s": "regrara",
+    "1p": "regráramos",
+    "2p": "regráreis",
+    "3p": "regraram"
+  },
+  "FutSI": {
+    "1s": "regrarei",
+    "2s": "regrarás",
+    "3s": "regrará",
+    "1p": "regraremos",
+    "2p": "regrareis",
+    "3p": "regrarão"
+  },
+  "CondS": {
+    "1s": "regraria",
+    "2s": "regrarias",
+    "3s": "regraria",
+    "1p": "regraríamos",
+    "2p": "regraríeis",
+    "3p": "regrariam"
+  },
+  "PresC": {
+    "1s": "regre",
+    "2s": "regres",
+    "3s": "regre",
+    "1p": "regremos",
+    "2p": "regreis",
+    "3p": "regrem"
+  },
+  "PImpC": {
+    "1s": "regrasse",
+    "2s": "regrasses",
+    "3s": "regrasse",
+    "1p": "regrássemos",
+    "2p": "regrásseis",
+    "3p": "regrassem"
+  },
+  "FutSC": {
+    "1s": "regrar",
+    "2s": "regrares",
+    "3s": "regrar",
+    "1p": "regrarmos",
+    "2p": "regrardes",
+    "3p": "regrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regra",
+    "3s": "regre",
+    "1p": "regremos",
+    "2p": "regrai",
+    "3p": "regrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não regres",
+    "3s": "não regre",
+    "1p": "não regremos",
+    "2p": "não regreis",
+    "3p": "não regrem"
+  },
+  "Part-ter": {
+    "": "regrado"
+  },
+  "Part-ser": {
+    "ms": "regrado",
+    "fs": "regrada",
+    "mp": "regrados",
+    "fp": "regradas"
+  }
+}

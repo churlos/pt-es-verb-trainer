@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "soar"
+  },
+  "InfP": {
+    "1s": "soar",
+    "2s": "soares",
+    "3s": "soar",
+    "1p": "soarmos",
+    "2p": "soardes",
+    "3p": "soarem"
+  },
+  "Ger": {
+    "": "soando"
+  },
+  "PresI": {
+    "1s": "sooObsolete:sôo",
+    "2s": "soas",
+    "3s": "soa",
+    "1p": "soamos",
+    "2p": "soais",
+    "3p": "soam"
+  },
+  "PImpI": {
+    "1s": "soava",
+    "2s": "soavas",
+    "3s": "soava",
+    "1p": "soávamos",
+    "2p": "soáveis",
+    "3p": "soavam"
+  },
+  "PPSI": {
+    "1s": "soei",
+    "2s": "soaste",
+    "3s": "soou",
+    "1p": "soámos",
+    "2p": "soastes",
+    "3p": "soaram"
+  },
+  "PMQPSI": {
+    "1s": "soara",
+    "2s": "soaras",
+    "3s": "soara",
+    "1p": "soáramos",
+    "2p": "soáreis",
+    "3p": "soaram"
+  },
+  "FutSI": {
+    "1s": "soarei",
+    "2s": "soarás",
+    "3s": "soará",
+    "1p": "soaremos",
+    "2p": "soareis",
+    "3p": "soarão"
+  },
+  "CondS": {
+    "1s": "soaria",
+    "2s": "soarias",
+    "3s": "soaria",
+    "1p": "soaríamos",
+    "2p": "soaríeis",
+    "3p": "soariam"
+  },
+  "PresC": {
+    "1s": "soe",
+    "2s": "soes",
+    "3s": "soe",
+    "1p": "soemos",
+    "2p": "soeis",
+    "3p": "soem"
+  },
+  "PImpC": {
+    "1s": "soasse",
+    "2s": "soasses",
+    "3s": "soasse",
+    "1p": "soássemos",
+    "2p": "soásseis",
+    "3p": "soassem"
+  },
+  "FutSC": {
+    "1s": "soar",
+    "2s": "soares",
+    "3s": "soar",
+    "1p": "soarmos",
+    "2p": "soardes",
+    "3p": "soarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "soa",
+    "3s": "soe",
+    "1p": "soemos",
+    "2p": "soai",
+    "3p": "soem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não soes",
+    "3s": "não soe",
+    "1p": "não soemos",
+    "2p": "não soeis",
+    "3p": "não soem"
+  },
+  "Part-ter": {
+    "": "soado"
+  },
+  "Part-ser": {
+    "ms": "soado",
+    "fs": "soada",
+    "mp": "soados",
+    "fp": "soadas"
+  }
+}

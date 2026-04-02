@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amarar"
+  },
+  "Ger": {
+    "": "amarando"
+  },
+  "PresI": {
+    "1s": "amaro",
+    "2s": "amaras",
+    "3s": "amara",
+    "1p": "amaramos",
+    "2p": "amaráis",
+    "3p": "amaran"
+  },
+  "PImpI": {
+    "1s": "amaraba",
+    "2s": "amarabas",
+    "3s": "amaraba",
+    "1p": "amarábamos",
+    "2p": "amarabais",
+    "3p": "amaraban"
+  },
+  "PPSI": {
+    "1s": "amaré",
+    "2s": "amaraste",
+    "3s": "amaró",
+    "1p": "amaramos",
+    "2p": "amarasteis",
+    "3p": "amararon"
+  },
+  "FutSI": {
+    "1s": "amararé",
+    "2s": "amararás",
+    "3s": "amarará",
+    "1p": "amararemos",
+    "2p": "amararéis",
+    "3p": "amararán"
+  },
+  "CondS": {
+    "1s": "amararía",
+    "2s": "amararías",
+    "3s": "amararía",
+    "1p": "amararíamos",
+    "2p": "amararíais",
+    "3p": "amararían"
+  },
+  "PresC": {
+    "1s": "amare",
+    "2s": "amares",
+    "3s": "amare",
+    "1p": "amaremos",
+    "2p": "amaréis",
+    "3p": "amaren"
+  },
+  "PMQPSI": {
+    "1s": "amarara",
+    "2s": "amararas",
+    "3s": "amarara",
+    "1p": "amaráramos",
+    "2p": "amararais",
+    "3p": "amararan"
+  },
+  "PImpC": {
+    "1s": "amarase",
+    "2s": "amarases",
+    "3s": "amarase",
+    "1p": "amarásemos",
+    "2p": "amaraseis",
+    "3p": "amarasen"
+  },
+  "FutSC": {
+    "1s": "amarare",
+    "2s": "amarares",
+    "3s": "amarare",
+    "1p": "amaráremos",
+    "2p": "amarareis",
+    "3p": "amararen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amara",
+    "3s": "amare",
+    "1p": "amaremos",
+    "2p": "amarad",
+    "3p": "amaren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amares",
+    "3s": "no amare",
+    "1p": "no amaremos",
+    "2p": "no amaréis",
+    "3p": "no amaren"
+  },
+  "Part-ter": {
+    "": "amarado"
+  },
+  "Part-ser": {
+    "ms": "amarado",
+    "fs": "amarada",
+    "mp": "amarados",
+    "fp": "amaradas"
+  }
+}

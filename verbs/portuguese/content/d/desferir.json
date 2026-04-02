@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desferir"
+  },
+  "InfP": {
+    "1s": "desferir",
+    "2s": "desferires",
+    "3s": "desferir",
+    "1p": "desferirmos",
+    "2p": "desferirdes",
+    "3p": "desferirem"
+  },
+  "Ger": {
+    "": "desferindo"
+  },
+  "PresI": {
+    "1s": "desfiro",
+    "2s": "desferes",
+    "3s": "desfere",
+    "1p": "desferimos",
+    "2p": "desferis",
+    "3p": "desferem"
+  },
+  "PImpI": {
+    "1s": "desferia",
+    "2s": "desferias",
+    "3s": "desferia",
+    "1p": "desferíamos",
+    "2p": "desferíeis",
+    "3p": "desferiam"
+  },
+  "PPSI": {
+    "1s": "desferi",
+    "2s": "desferiste",
+    "3s": "desferiu",
+    "1p": "desferimos",
+    "2p": "desferistes",
+    "3p": "desferiram"
+  },
+  "PMQPSI": {
+    "1s": "desferira",
+    "2s": "desferiras",
+    "3s": "desferira",
+    "1p": "desferíramos",
+    "2p": "desferíreis",
+    "3p": "desferiram"
+  },
+  "FutSI": {
+    "1s": "desferirei",
+    "2s": "desferirás",
+    "3s": "desferirá",
+    "1p": "desferiremos",
+    "2p": "desferireis",
+    "3p": "desferirão"
+  },
+  "CondS": {
+    "1s": "desferiria",
+    "2s": "desferirias",
+    "3s": "desferiria",
+    "1p": "desferiríamos",
+    "2p": "desferiríeis",
+    "3p": "desfeririam"
+  },
+  "PresC": {
+    "1s": "desfira",
+    "2s": "desfiras",
+    "3s": "desfira",
+    "1p": "desfiramos",
+    "2p": "desfirais",
+    "3p": "desfiram"
+  },
+  "PImpC": {
+    "1s": "desferisse",
+    "2s": "desferisses",
+    "3s": "desferisse",
+    "1p": "desferíssemos",
+    "2p": "desferísseis",
+    "3p": "desferissem"
+  },
+  "FutSC": {
+    "1s": "desferir",
+    "2s": "desferires",
+    "3s": "desferir",
+    "1p": "desferirmos",
+    "2p": "desferirdes",
+    "3p": "desferirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desfere",
+    "3s": "desfira",
+    "1p": "desfiramos",
+    "2p": "desferi",
+    "3p": "desfiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desfiras",
+    "3s": "não desfira",
+    "1p": "não desfiramos",
+    "2p": "não desfirais",
+    "3p": "não desfiram"
+  },
+  "Part-ter": {
+    "": "desferido"
+  },
+  "Part-ser": {
+    "ms": "desferido",
+    "fs": "desferida",
+    "mp": "desferidos",
+    "fp": "desferidas"
+  }
+}

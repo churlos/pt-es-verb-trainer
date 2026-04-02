@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "entecar"
+  },
+  "Ger": {
+    "": "entecando"
+  },
+  "PresI": {
+    "1s": "enteco",
+    "2s": "entecas",
+    "3s": "enteca",
+    "1p": "entecamos",
+    "2p": "entecáis",
+    "3p": "entecan"
+  },
+  "PImpI": {
+    "1s": "entecaba",
+    "2s": "entecabas",
+    "3s": "entecaba",
+    "1p": "entecábamos",
+    "2p": "entecabais",
+    "3p": "entecaban"
+  },
+  "PPSI": {
+    "1s": "entequé",
+    "2s": "entecaste",
+    "3s": "entecó",
+    "1p": "entecamos",
+    "2p": "entecasteis",
+    "3p": "entecaron"
+  },
+  "FutSI": {
+    "1s": "entecaré",
+    "2s": "entecarás",
+    "3s": "entecará",
+    "1p": "entecaremos",
+    "2p": "entecaréis",
+    "3p": "entecarán"
+  },
+  "CondS": {
+    "1s": "entecaría",
+    "2s": "entecarías",
+    "3s": "entecaría",
+    "1p": "entecaríamos",
+    "2p": "entecaríais",
+    "3p": "entecarían"
+  },
+  "PresC": {
+    "1s": "enteque",
+    "2s": "enteques",
+    "3s": "enteque",
+    "1p": "entequemos",
+    "2p": "entequéis",
+    "3p": "entequen"
+  },
+  "PMQPSI": {
+    "1s": "entecara",
+    "2s": "entecaras",
+    "3s": "entecara",
+    "1p": "entecáramos",
+    "2p": "entecarais",
+    "3p": "entecaran"
+  },
+  "PImpC": {
+    "1s": "entecase",
+    "2s": "entecases",
+    "3s": "entecase",
+    "1p": "entecásemos",
+    "2p": "entecaseis",
+    "3p": "entecasen"
+  },
+  "FutSC": {
+    "1s": "entecare",
+    "2s": "entecares",
+    "3s": "entecare",
+    "1p": "entecáremos",
+    "2p": "entecareis",
+    "3p": "entecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enteca",
+    "3s": "enteque",
+    "1p": "entequemos",
+    "2p": "entecad",
+    "3p": "entequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enteques",
+    "3s": "no enteque",
+    "1p": "no entequemos",
+    "2p": "no entequéis",
+    "3p": "no entequen"
+  },
+  "Part-ter": {
+    "": "entecado"
+  },
+  "Part-ser": {
+    "ms": "entecado",
+    "fs": "entecada",
+    "mp": "entecados",
+    "fp": "entecadas"
+  }
+}

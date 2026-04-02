@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "digerir"
+  },
+  "InfP": {
+    "1s": "digerir",
+    "2s": "digerires",
+    "3s": "digerir",
+    "1p": "digerirmos",
+    "2p": "digerirdes",
+    "3p": "digerirem"
+  },
+  "Ger": {
+    "": "digerindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "digerimos",
+    "2p": "digeris",
+    "3p": ""
+  },
+  "PImpI": {
+    "1s": "digeria",
+    "2s": "digerias",
+    "3s": "digeria",
+    "1p": "digeríamos",
+    "2p": "digeríeis",
+    "3p": "digeriam"
+  },
+  "PPSI": {
+    "1s": "digeri",
+    "2s": "digeriste",
+    "3s": "digeriu",
+    "1p": "digerimos",
+    "2p": "digeristes",
+    "3p": "digeriram"
+  },
+  "PMQPSI": {
+    "1s": "digerira",
+    "2s": "digeriras",
+    "3s": "digerira",
+    "1p": "digeríramos",
+    "2p": "digeríreis",
+    "3p": "digeriram"
+  },
+  "FutSI": {
+    "1s": "digerirei",
+    "2s": "digerirás",
+    "3s": "digerirá",
+    "1p": "digeriremos",
+    "2p": "digerireis",
+    "3p": "digerirão"
+  },
+  "CondS": {
+    "1s": "digeriria",
+    "2s": "digeririas",
+    "3s": "digeriria",
+    "1p": "digeriríamos",
+    "2p": "digeriríeis",
+    "3p": "digeririam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "digerisse",
+    "2s": "digerisses",
+    "3s": "digerisse",
+    "1p": "digeríssemos",
+    "2p": "digerísseis",
+    "3p": "digerissem"
+  },
+  "FutSC": {
+    "1s": "digerir",
+    "2s": "digerires",
+    "3s": "digerir",
+    "1p": "digerirmos",
+    "2p": "digerirdes",
+    "3p": "digerirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "digeriNormally defective:digirais",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "digerido"
+  },
+  "Part-ser": {
+    "ms": "digerido",
+    "fs": "digerida",
+    "mp": "digeridos",
+    "fp": "digeridas"
+  }
+}

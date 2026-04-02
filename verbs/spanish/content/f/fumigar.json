@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fumigar"
+  },
+  "Ger": {
+    "": "fumigando"
+  },
+  "PresI": {
+    "1s": "fumigo",
+    "2s": "fumigas",
+    "3s": "fumiga",
+    "1p": "fumigamos",
+    "2p": "fumigáis",
+    "3p": "fumigan"
+  },
+  "PImpI": {
+    "1s": "fumigaba",
+    "2s": "fumigabas",
+    "3s": "fumigaba",
+    "1p": "fumigábamos",
+    "2p": "fumigabais",
+    "3p": "fumigaban"
+  },
+  "PPSI": {
+    "1s": "fumigué",
+    "2s": "fumigaste",
+    "3s": "fumigó",
+    "1p": "fumigamos",
+    "2p": "fumigasteis",
+    "3p": "fumigaron"
+  },
+  "FutSI": {
+    "1s": "fumigaré",
+    "2s": "fumigarás",
+    "3s": "fumigará",
+    "1p": "fumigaremos",
+    "2p": "fumigaréis",
+    "3p": "fumigarán"
+  },
+  "CondS": {
+    "1s": "fumigaría",
+    "2s": "fumigarías",
+    "3s": "fumigaría",
+    "1p": "fumigaríamos",
+    "2p": "fumigaríais",
+    "3p": "fumigarían"
+  },
+  "PresC": {
+    "1s": "fumigue",
+    "2s": "fumigues",
+    "3s": "fumigue",
+    "1p": "fumiguemos",
+    "2p": "fumiguéis",
+    "3p": "fumiguen"
+  },
+  "PMQPSI": {
+    "1s": "fumigara",
+    "2s": "fumigaras",
+    "3s": "fumigara",
+    "1p": "fumigáramos",
+    "2p": "fumigarais",
+    "3p": "fumigaran"
+  },
+  "PImpC": {
+    "1s": "fumigase",
+    "2s": "fumigases",
+    "3s": "fumigase",
+    "1p": "fumigásemos",
+    "2p": "fumigaseis",
+    "3p": "fumigasen"
+  },
+  "FutSC": {
+    "1s": "fumigare",
+    "2s": "fumigares",
+    "3s": "fumigare",
+    "1p": "fumigáremos",
+    "2p": "fumigareis",
+    "3p": "fumigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fumiga",
+    "3s": "fumigue",
+    "1p": "fumiguemos",
+    "2p": "fumigad",
+    "3p": "fumiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fumigues",
+    "3s": "no fumigue",
+    "1p": "no fumiguemos",
+    "2p": "no fumiguéis",
+    "3p": "no fumiguen"
+  },
+  "Part-ter": {
+    "": "fumigado"
+  },
+  "Part-ser": {
+    "ms": "fumigado",
+    "fs": "fumigada",
+    "mp": "fumigados",
+    "fp": "fumigadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "frasear"
+  },
+  "InfP": {
+    "1s": "frasear",
+    "2s": "fraseares",
+    "3s": "frasear",
+    "1p": "frasearmos",
+    "2p": "fraseardes",
+    "3p": "frasearem"
+  },
+  "Ger": {
+    "": "fraseando"
+  },
+  "PresI": {
+    "1s": "fraseio",
+    "2s": "fraseias",
+    "3s": "fraseia",
+    "1p": "fraseamos",
+    "2p": "fraseais",
+    "3p": "fraseiam"
+  },
+  "PImpI": {
+    "1s": "fraseava",
+    "2s": "fraseavas",
+    "3s": "fraseava",
+    "1p": "fraseávamos",
+    "2p": "fraseáveis",
+    "3p": "fraseavam"
+  },
+  "PPSI": {
+    "1s": "fraseei",
+    "2s": "fraseaste",
+    "3s": "fraseou",
+    "1p": "fraseámos",
+    "2p": "fraseastes",
+    "3p": "frasearam"
+  },
+  "PMQPSI": {
+    "1s": "fraseara",
+    "2s": "frasearas",
+    "3s": "fraseara",
+    "1p": "fraseáramos",
+    "2p": "fraseáreis",
+    "3p": "frasearam"
+  },
+  "FutSI": {
+    "1s": "frasearei",
+    "2s": "frasearás",
+    "3s": "fraseará",
+    "1p": "frasearemos",
+    "2p": "fraseareis",
+    "3p": "frasearão"
+  },
+  "CondS": {
+    "1s": "frasearia",
+    "2s": "frasearias",
+    "3s": "frasearia",
+    "1p": "frasearíamos",
+    "2p": "frasearíeis",
+    "3p": "fraseariam"
+  },
+  "PresC": {
+    "1s": "fraseie",
+    "2s": "fraseies",
+    "3s": "fraseie",
+    "1p": "fraseemos",
+    "2p": "fraseeis",
+    "3p": "fraseiem"
+  },
+  "PImpC": {
+    "1s": "fraseasse",
+    "2s": "fraseasses",
+    "3s": "fraseasse",
+    "1p": "fraseássemos",
+    "2p": "fraseásseis",
+    "3p": "fraseassem"
+  },
+  "FutSC": {
+    "1s": "frasear",
+    "2s": "fraseares",
+    "3s": "frasear",
+    "1p": "frasearmos",
+    "2p": "fraseardes",
+    "3p": "frasearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fraseia",
+    "3s": "fraseie",
+    "1p": "fraseemos",
+    "2p": "fraseai",
+    "3p": "fraseiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fraseies",
+    "3s": "não fraseie",
+    "1p": "não fraseemos",
+    "2p": "não fraseeis",
+    "3p": "não fraseiem"
+  },
+  "Part-ter": {
+    "": "fraseado"
+  },
+  "Part-ser": {
+    "ms": "fraseado",
+    "fs": "fraseada",
+    "mp": "fraseados",
+    "fp": "fraseadas"
+  }
+}

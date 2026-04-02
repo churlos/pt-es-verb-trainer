@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "granjear"
+  },
+  "InfP": {
+    "1s": "granjear",
+    "2s": "granjeares",
+    "3s": "granjear",
+    "1p": "granjearmos",
+    "2p": "granjeardes",
+    "3p": "granjearem"
+  },
+  "Ger": {
+    "": "granjeando"
+  },
+  "PresI": {
+    "1s": "granjeio",
+    "2s": "granjeias",
+    "3s": "granjeia",
+    "1p": "granjeamos",
+    "2p": "granjeais",
+    "3p": "granjeiam"
+  },
+  "PImpI": {
+    "1s": "granjeava",
+    "2s": "granjeavas",
+    "3s": "granjeava",
+    "1p": "granjeávamos",
+    "2p": "granjeáveis",
+    "3p": "granjeavam"
+  },
+  "PPSI": {
+    "1s": "granjeei",
+    "2s": "granjeaste",
+    "3s": "granjeou",
+    "1p": "granjeámos",
+    "2p": "granjeastes",
+    "3p": "granjearam"
+  },
+  "PMQPSI": {
+    "1s": "granjeara",
+    "2s": "granjearas",
+    "3s": "granjeara",
+    "1p": "granjeáramos",
+    "2p": "granjeáreis",
+    "3p": "granjearam"
+  },
+  "FutSI": {
+    "1s": "granjearei",
+    "2s": "granjearás",
+    "3s": "granjeará",
+    "1p": "granjearemos",
+    "2p": "granjeareis",
+    "3p": "granjearão"
+  },
+  "CondS": {
+    "1s": "granjearia",
+    "2s": "granjearias",
+    "3s": "granjearia",
+    "1p": "granjearíamos",
+    "2p": "granjearíeis",
+    "3p": "granjeariam"
+  },
+  "PresC": {
+    "1s": "granjeie",
+    "2s": "granjeies",
+    "3s": "granjeie",
+    "1p": "granjeemos",
+    "2p": "granjeeis",
+    "3p": "granjeiem"
+  },
+  "PImpC": {
+    "1s": "granjeasse",
+    "2s": "granjeasses",
+    "3s": "granjeasse",
+    "1p": "granjeássemos",
+    "2p": "granjeásseis",
+    "3p": "granjeassem"
+  },
+  "FutSC": {
+    "1s": "granjear",
+    "2s": "granjeares",
+    "3s": "granjear",
+    "1p": "granjearmos",
+    "2p": "granjeardes",
+    "3p": "granjearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "granjeia",
+    "3s": "granjeie",
+    "1p": "granjeemos",
+    "2p": "granjeai",
+    "3p": "granjeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não granjeies",
+    "3s": "não granjeie",
+    "1p": "não granjeemos",
+    "2p": "não granjeeis",
+    "3p": "não granjeiem"
+  },
+  "Part-ter": {
+    "": "granjeado"
+  },
+  "Part-ser": {
+    "ms": "granjeado",
+    "fs": "granjeada",
+    "mp": "granjeados",
+    "fp": "granjeadas"
+  }
+}

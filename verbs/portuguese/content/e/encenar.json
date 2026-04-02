@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encenar"
+  },
+  "InfP": {
+    "1s": "encenar",
+    "2s": "encenares",
+    "3s": "encenar",
+    "1p": "encenarmos",
+    "2p": "encenardes",
+    "3p": "encenarem"
+  },
+  "Ger": {
+    "": "encenando"
+  },
+  "PresI": {
+    "1s": "enceno",
+    "2s": "encenas",
+    "3s": "encena",
+    "1p": "encenamos",
+    "2p": "encenais",
+    "3p": "encenam"
+  },
+  "PImpI": {
+    "1s": "encenava",
+    "2s": "encenavas",
+    "3s": "encenava",
+    "1p": "encenávamos",
+    "2p": "encenáveis",
+    "3p": "encenavam"
+  },
+  "PPSI": {
+    "1s": "encenei",
+    "2s": "encenaste",
+    "3s": "encenou",
+    "1p": "encenámos",
+    "2p": "encenastes",
+    "3p": "encenaram"
+  },
+  "PMQPSI": {
+    "1s": "encenara",
+    "2s": "encenaras",
+    "3s": "encenara",
+    "1p": "encenáramos",
+    "2p": "encenáreis",
+    "3p": "encenaram"
+  },
+  "FutSI": {
+    "1s": "encenarei",
+    "2s": "encenarás",
+    "3s": "encenará",
+    "1p": "encenaremos",
+    "2p": "encenareis",
+    "3p": "encenarão"
+  },
+  "CondS": {
+    "1s": "encenaria",
+    "2s": "encenarias",
+    "3s": "encenaria",
+    "1p": "encenaríamos",
+    "2p": "encenaríeis",
+    "3p": "encenariam"
+  },
+  "PresC": {
+    "1s": "encene",
+    "2s": "encenes",
+    "3s": "encene",
+    "1p": "encenemos",
+    "2p": "enceneis",
+    "3p": "encenem"
+  },
+  "PImpC": {
+    "1s": "encenasse",
+    "2s": "encenasses",
+    "3s": "encenasse",
+    "1p": "encenássemos",
+    "2p": "encenásseis",
+    "3p": "encenassem"
+  },
+  "FutSC": {
+    "1s": "encenar",
+    "2s": "encenares",
+    "3s": "encenar",
+    "1p": "encenarmos",
+    "2p": "encenardes",
+    "3p": "encenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encena",
+    "3s": "encene",
+    "1p": "encenemos",
+    "2p": "encenai",
+    "3p": "encenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encenes",
+    "3s": "não encene",
+    "1p": "não encenemos",
+    "2p": "não enceneis",
+    "3p": "não encenem"
+  },
+  "Part-ter": {
+    "": "encenado"
+  },
+  "Part-ser": {
+    "ms": "encenado",
+    "fs": "encenada",
+    "mp": "encenados",
+    "fp": "encenadas"
+  }
+}

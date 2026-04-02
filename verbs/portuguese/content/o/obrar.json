@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "obrar"
+  },
+  "InfP": {
+    "1s": "obrar",
+    "2s": "obrares",
+    "3s": "obrar",
+    "1p": "obrarmos",
+    "2p": "obrardes",
+    "3p": "obrarem"
+  },
+  "Ger": {
+    "": "obrando"
+  },
+  "PresI": {
+    "1s": "obro",
+    "2s": "obras",
+    "3s": "obra",
+    "1p": "obramos",
+    "2p": "obrais",
+    "3p": "obram"
+  },
+  "PImpI": {
+    "1s": "obrava",
+    "2s": "obravas",
+    "3s": "obrava",
+    "1p": "obrávamos",
+    "2p": "obráveis",
+    "3p": "obravam"
+  },
+  "PPSI": {
+    "1s": "obrei",
+    "2s": "obraste",
+    "3s": "obrou",
+    "1p": "obrámos",
+    "2p": "obrastes",
+    "3p": "obraram"
+  },
+  "PMQPSI": {
+    "1s": "obrara",
+    "2s": "obraras",
+    "3s": "obrara",
+    "1p": "obráramos",
+    "2p": "obráreis",
+    "3p": "obraram"
+  },
+  "FutSI": {
+    "1s": "obrarei",
+    "2s": "obrarás",
+    "3s": "obrará",
+    "1p": "obraremos",
+    "2p": "obrareis",
+    "3p": "obrarão"
+  },
+  "CondS": {
+    "1s": "obraria",
+    "2s": "obrarias",
+    "3s": "obraria",
+    "1p": "obraríamos",
+    "2p": "obraríeis",
+    "3p": "obrariam"
+  },
+  "PresC": {
+    "1s": "obre",
+    "2s": "obres",
+    "3s": "obre",
+    "1p": "obremos",
+    "2p": "obreis",
+    "3p": "obrem"
+  },
+  "PImpC": {
+    "1s": "obrasse",
+    "2s": "obrasses",
+    "3s": "obrasse",
+    "1p": "obrássemos",
+    "2p": "obrásseis",
+    "3p": "obrassem"
+  },
+  "FutSC": {
+    "1s": "obrar",
+    "2s": "obrares",
+    "3s": "obrar",
+    "1p": "obrarmos",
+    "2p": "obrardes",
+    "3p": "obrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "obra",
+    "3s": "obre",
+    "1p": "obremos",
+    "2p": "obrai",
+    "3p": "obrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não obres",
+    "3s": "não obre",
+    "1p": "não obremos",
+    "2p": "não obreis",
+    "3p": "não obrem"
+  },
+  "Part-ter": {
+    "": "obrado"
+  },
+  "Part-ser": {
+    "ms": "obrado",
+    "fs": "obrada",
+    "mp": "obrados",
+    "fp": "obradas"
+  }
+}

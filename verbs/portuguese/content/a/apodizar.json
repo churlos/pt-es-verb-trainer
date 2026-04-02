@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "apodizar"
+  },
+  "InfP": {
+    "1s": "apodizar",
+    "2s": "apodizares",
+    "3s": "apodizar",
+    "1p": "apodizarmos",
+    "2p": "apodizardes",
+    "3p": "apodizarem"
+  },
+  "Ger": {
+    "": "apodizando"
+  },
+  "PresI": {
+    "1s": "apodizo",
+    "2s": "apodizas",
+    "3s": "apodiza",
+    "1p": "apodizamos",
+    "2p": "apodizais",
+    "3p": "apodizam"
+  },
+  "PImpI": {
+    "1s": "apodizava",
+    "2s": "apodizavas",
+    "3s": "apodizava",
+    "1p": "apodizávamos",
+    "2p": "apodizáveis",
+    "3p": "apodizavam"
+  },
+  "PPSI": {
+    "1s": "apodizei",
+    "2s": "apodizaste",
+    "3s": "apodizou",
+    "1p": "apodizámos",
+    "2p": "apodizastes",
+    "3p": "apodizaram"
+  },
+  "PMQPSI": {
+    "1s": "apodizara",
+    "2s": "apodizaras",
+    "3s": "apodizara",
+    "1p": "apodizáramos",
+    "2p": "apodizáreis",
+    "3p": "apodizaram"
+  },
+  "FutSI": {
+    "1s": "apodizarei",
+    "2s": "apodizarás",
+    "3s": "apodizará",
+    "1p": "apodizaremos",
+    "2p": "apodizareis",
+    "3p": "apodizarão"
+  },
+  "CondS": {
+    "1s": "apodizaria",
+    "2s": "apodizarias",
+    "3s": "apodizaria",
+    "1p": "apodizaríamos",
+    "2p": "apodizaríeis",
+    "3p": "apodizariam"
+  },
+  "PresC": {
+    "1s": "apodize",
+    "2s": "apodizes",
+    "3s": "apodize",
+    "1p": "apodizemos",
+    "2p": "apodizeis",
+    "3p": "apodizem"
+  },
+  "PImpC": {
+    "1s": "apodizasse",
+    "2s": "apodizasses",
+    "3s": "apodizasse",
+    "1p": "apodizássemos",
+    "2p": "apodizásseis",
+    "3p": "apodizassem"
+  },
+  "FutSC": {
+    "1s": "apodizar",
+    "2s": "apodizares",
+    "3s": "apodizar",
+    "1p": "apodizarmos",
+    "2p": "apodizardes",
+    "3p": "apodizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apodiza",
+    "3s": "apodize",
+    "1p": "apodizemos",
+    "2p": "apodizai",
+    "3p": "apodizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apodizes",
+    "3s": "não apodize",
+    "1p": "não apodizemos",
+    "2p": "não apodizeis",
+    "3p": "não apodizem"
+  },
+  "Part-ter": {
+    "": "apodizado"
+  },
+  "Part-ser": {
+    "ms": "apodizado",
+    "fs": "apodizada",
+    "mp": "apodizados",
+    "fp": "apodizadas"
+  }
+}

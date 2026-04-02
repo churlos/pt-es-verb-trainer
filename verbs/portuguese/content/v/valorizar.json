@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "valorizar"
+  },
+  "InfP": {
+    "1s": "valorizar",
+    "2s": "valorizares",
+    "3s": "valorizar",
+    "1p": "valorizarmos",
+    "2p": "valorizardes",
+    "3p": "valorizarem"
+  },
+  "Ger": {
+    "": "valorizando"
+  },
+  "PresI": {
+    "1s": "valorizo",
+    "2s": "valorizas",
+    "3s": "valoriza",
+    "1p": "valorizamos",
+    "2p": "valorizais",
+    "3p": "valorizam"
+  },
+  "PImpI": {
+    "1s": "valorizava",
+    "2s": "valorizavas",
+    "3s": "valorizava",
+    "1p": "valorizávamos",
+    "2p": "valorizáveis",
+    "3p": "valorizavam"
+  },
+  "PPSI": {
+    "1s": "valorizei",
+    "2s": "valorizaste",
+    "3s": "valorizou",
+    "1p": "valorizámos",
+    "2p": "valorizastes",
+    "3p": "valorizaram"
+  },
+  "PMQPSI": {
+    "1s": "valorizara",
+    "2s": "valorizaras",
+    "3s": "valorizara",
+    "1p": "valorizáramos",
+    "2p": "valorizáreis",
+    "3p": "valorizaram"
+  },
+  "FutSI": {
+    "1s": "valorizarei",
+    "2s": "valorizarás",
+    "3s": "valorizará",
+    "1p": "valorizaremos",
+    "2p": "valorizareis",
+    "3p": "valorizarão"
+  },
+  "CondS": {
+    "1s": "valorizaria",
+    "2s": "valorizarias",
+    "3s": "valorizaria",
+    "1p": "valorizaríamos",
+    "2p": "valorizaríeis",
+    "3p": "valorizariam"
+  },
+  "PresC": {
+    "1s": "valorize",
+    "2s": "valorizes",
+    "3s": "valorize",
+    "1p": "valorizemos",
+    "2p": "valorizeis",
+    "3p": "valorizem"
+  },
+  "PImpC": {
+    "1s": "valorizasse",
+    "2s": "valorizasses",
+    "3s": "valorizasse",
+    "1p": "valorizássemos",
+    "2p": "valorizásseis",
+    "3p": "valorizassem"
+  },
+  "FutSC": {
+    "1s": "valorizar",
+    "2s": "valorizares",
+    "3s": "valorizar",
+    "1p": "valorizarmos",
+    "2p": "valorizardes",
+    "3p": "valorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "valoriza",
+    "3s": "valorize",
+    "1p": "valorizemos",
+    "2p": "valorizai",
+    "3p": "valorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não valorizes",
+    "3s": "não valorize",
+    "1p": "não valorizemos",
+    "2p": "não valorizeis",
+    "3p": "não valorizem"
+  },
+  "Part-ter": {
+    "": "valorizado"
+  },
+  "Part-ser": {
+    "ms": "valorizado",
+    "fs": "valorizada",
+    "mp": "valorizados",
+    "fp": "valorizadas"
+  }
+}

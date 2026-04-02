@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atorgar"
+  },
+  "Ger": {
+    "": "atorgando"
+  },
+  "PresI": {
+    "1s": "atorgo",
+    "2s": "atorgas",
+    "3s": "atorga",
+    "1p": "atorgamos",
+    "2p": "atorgáis",
+    "3p": "atorgan"
+  },
+  "PImpI": {
+    "1s": "atorgaba",
+    "2s": "atorgabas",
+    "3s": "atorgaba",
+    "1p": "atorgábamos",
+    "2p": "atorgabais",
+    "3p": "atorgaban"
+  },
+  "PPSI": {
+    "1s": "atorgué",
+    "2s": "atorgaste",
+    "3s": "atorgó",
+    "1p": "atorgamos",
+    "2p": "atorgasteis",
+    "3p": "atorgaron"
+  },
+  "FutSI": {
+    "1s": "atorgaré",
+    "2s": "atorgarás",
+    "3s": "atorgará",
+    "1p": "atorgaremos",
+    "2p": "atorgaréis",
+    "3p": "atorgarán"
+  },
+  "CondS": {
+    "1s": "atorgaría",
+    "2s": "atorgarías",
+    "3s": "atorgaría",
+    "1p": "atorgaríamos",
+    "2p": "atorgaríais",
+    "3p": "atorgarían"
+  },
+  "PresC": {
+    "1s": "atorgue",
+    "2s": "atorgues",
+    "3s": "atorgue",
+    "1p": "atorguemos",
+    "2p": "atorguéis",
+    "3p": "atorguen"
+  },
+  "PMQPSI": {
+    "1s": "atorgara",
+    "2s": "atorgaras",
+    "3s": "atorgara",
+    "1p": "atorgáramos",
+    "2p": "atorgarais",
+    "3p": "atorgaran"
+  },
+  "PImpC": {
+    "1s": "atorgase",
+    "2s": "atorgases",
+    "3s": "atorgase",
+    "1p": "atorgásemos",
+    "2p": "atorgaseis",
+    "3p": "atorgasen"
+  },
+  "FutSC": {
+    "1s": "atorgare",
+    "2s": "atorgares",
+    "3s": "atorgare",
+    "1p": "atorgáremos",
+    "2p": "atorgareis",
+    "3p": "atorgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atorga",
+    "3s": "atorgue",
+    "1p": "atorguemos",
+    "2p": "atorgad",
+    "3p": "atorguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atorgues",
+    "3s": "no atorgue",
+    "1p": "no atorguemos",
+    "2p": "no atorguéis",
+    "3p": "no atorguen"
+  },
+  "Part-ter": {
+    "": "atorgado"
+  },
+  "Part-ser": {
+    "ms": "atorgado",
+    "fs": "atorgada",
+    "mp": "atorgados",
+    "fp": "atorgadas"
+  }
+}

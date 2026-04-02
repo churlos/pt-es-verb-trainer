@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enforcar"
+  },
+  "Ger": {
+    "": "enforcando"
+  },
+  "PresI": {
+    "1s": "enforco",
+    "2s": "enforcas",
+    "3s": "enforca",
+    "1p": "enforcamos",
+    "2p": "enforcáis",
+    "3p": "enforcan"
+  },
+  "PImpI": {
+    "1s": "enforcaba",
+    "2s": "enforcabas",
+    "3s": "enforcaba",
+    "1p": "enforcábamos",
+    "2p": "enforcabais",
+    "3p": "enforcaban"
+  },
+  "PPSI": {
+    "1s": "enforqué",
+    "2s": "enforcaste",
+    "3s": "enforcó",
+    "1p": "enforcamos",
+    "2p": "enforcasteis",
+    "3p": "enforcaron"
+  },
+  "FutSI": {
+    "1s": "enforcaré",
+    "2s": "enforcarás",
+    "3s": "enforcará",
+    "1p": "enforcaremos",
+    "2p": "enforcaréis",
+    "3p": "enforcarán"
+  },
+  "CondS": {
+    "1s": "enforcaría",
+    "2s": "enforcarías",
+    "3s": "enforcaría",
+    "1p": "enforcaríamos",
+    "2p": "enforcaríais",
+    "3p": "enforcarían"
+  },
+  "PresC": {
+    "1s": "enforque",
+    "2s": "enforques",
+    "3s": "enforque",
+    "1p": "enforquemos",
+    "2p": "enforquéis",
+    "3p": "enforquen"
+  },
+  "PMQPSI": {
+    "1s": "enforcara",
+    "2s": "enforcaras",
+    "3s": "enforcara",
+    "1p": "enforcáramos",
+    "2p": "enforcarais",
+    "3p": "enforcaran"
+  },
+  "PImpC": {
+    "1s": "enforcase",
+    "2s": "enforcases",
+    "3s": "enforcase",
+    "1p": "enforcásemos",
+    "2p": "enforcaseis",
+    "3p": "enforcasen"
+  },
+  "FutSC": {
+    "1s": "enforcare",
+    "2s": "enforcares",
+    "3s": "enforcare",
+    "1p": "enforcáremos",
+    "2p": "enforcareis",
+    "3p": "enforcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enforca",
+    "3s": "enforque",
+    "1p": "enforquemos",
+    "2p": "enforcad",
+    "3p": "enforquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enforques",
+    "3s": "no enforque",
+    "1p": "no enforquemos",
+    "2p": "no enforquéis",
+    "3p": "no enforquen"
+  },
+  "Part-ter": {
+    "": "enforcado"
+  },
+  "Part-ser": {
+    "ms": "enforcado",
+    "fs": "enforcada",
+    "mp": "enforcados",
+    "fp": "enforcadas"
+  }
+}

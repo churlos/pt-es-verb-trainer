@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enlaçar"
+  },
+  "InfP": {
+    "1s": "enlaçar",
+    "2s": "enlaçares",
+    "3s": "enlaçar",
+    "1p": "enlaçarmos",
+    "2p": "enlaçardes",
+    "3p": "enlaçarem"
+  },
+  "Ger": {
+    "": "enlaçando"
+  },
+  "PresI": {
+    "1s": "enlaço",
+    "2s": "enlaças",
+    "3s": "enlaça",
+    "1p": "enlaçamos",
+    "2p": "enlaçais",
+    "3p": "enlaçam"
+  },
+  "PImpI": {
+    "1s": "enlaçava",
+    "2s": "enlaçavas",
+    "3s": "enlaçava",
+    "1p": "enlaçávamos",
+    "2p": "enlaçáveis",
+    "3p": "enlaçavam"
+  },
+  "PPSI": {
+    "1s": "enlacei",
+    "2s": "enlaçaste",
+    "3s": "enlaçou",
+    "1p": "enlaçámos",
+    "2p": "enlaçastes",
+    "3p": "enlaçaram"
+  },
+  "PMQPSI": {
+    "1s": "enlaçara",
+    "2s": "enlaçaras",
+    "3s": "enlaçara",
+    "1p": "enlaçáramos",
+    "2p": "enlaçáreis",
+    "3p": "enlaçaram"
+  },
+  "FutSI": {
+    "1s": "enlaçarei",
+    "2s": "enlaçarás",
+    "3s": "enlaçará",
+    "1p": "enlaçaremos",
+    "2p": "enlaçareis",
+    "3p": "enlaçarão"
+  },
+  "CondS": {
+    "1s": "enlaçaria",
+    "2s": "enlaçarias",
+    "3s": "enlaçaria",
+    "1p": "enlaçaríamos",
+    "2p": "enlaçaríeis",
+    "3p": "enlaçariam"
+  },
+  "PresC": {
+    "1s": "enlace",
+    "2s": "enlaces",
+    "3s": "enlace",
+    "1p": "enlacemos",
+    "2p": "enlaceis",
+    "3p": "enlacem"
+  },
+  "PImpC": {
+    "1s": "enlaçasse",
+    "2s": "enlaçasses",
+    "3s": "enlaçasse",
+    "1p": "enlaçássemos",
+    "2p": "enlaçásseis",
+    "3p": "enlaçassem"
+  },
+  "FutSC": {
+    "1s": "enlaçar",
+    "2s": "enlaçares",
+    "3s": "enlaçar",
+    "1p": "enlaçarmos",
+    "2p": "enlaçardes",
+    "3p": "enlaçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enlaça",
+    "3s": "enlace",
+    "1p": "enlacemos",
+    "2p": "enlaçai",
+    "3p": "enlacem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enlaces",
+    "3s": "não enlace",
+    "1p": "não enlacemos",
+    "2p": "não enlaceis",
+    "3p": "não enlacem"
+  },
+  "Part-ter": {
+    "": "enlaçado"
+  },
+  "Part-ser": {
+    "ms": "enlaçado",
+    "fs": "enlaçada",
+    "mp": "enlaçados",
+    "fp": "enlaçadas"
+  }
+}

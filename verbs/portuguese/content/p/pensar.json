@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pensar"
+  },
+  "InfP": {
+    "1s": "pensar",
+    "2s": "pensares",
+    "3s": "pensar",
+    "1p": "pensarmos",
+    "2p": "pensardes",
+    "3p": "pensarem"
+  },
+  "Ger": {
+    "": "pensando"
+  },
+  "PresI": {
+    "1s": "penso",
+    "2s": "pensas",
+    "3s": "pensa",
+    "1p": "pensamos",
+    "2p": "pensais",
+    "3p": "pensam"
+  },
+  "PImpI": {
+    "1s": "pensava",
+    "2s": "pensavas",
+    "3s": "pensava",
+    "1p": "pensávamos",
+    "2p": "pensáveis",
+    "3p": "pensavam"
+  },
+  "PPSI": {
+    "1s": "pensei",
+    "2s": "pensaste",
+    "3s": "pensou",
+    "1p": "pensámos",
+    "2p": "pensastes",
+    "3p": "pensaram"
+  },
+  "PMQPSI": {
+    "1s": "pensara",
+    "2s": "pensaras",
+    "3s": "pensara",
+    "1p": "pensáramos",
+    "2p": "pensáreis",
+    "3p": "pensaram"
+  },
+  "FutSI": {
+    "1s": "pensarei",
+    "2s": "pensarás",
+    "3s": "pensará",
+    "1p": "pensaremos",
+    "2p": "pensareis",
+    "3p": "pensarão"
+  },
+  "CondS": {
+    "1s": "pensaria",
+    "2s": "pensarias",
+    "3s": "pensaria",
+    "1p": "pensaríamos",
+    "2p": "pensaríeis",
+    "3p": "pensariam"
+  },
+  "PresC": {
+    "1s": "pense",
+    "2s": "penses",
+    "3s": "pense",
+    "1p": "pensemos",
+    "2p": "penseis",
+    "3p": "pensem"
+  },
+  "PImpC": {
+    "1s": "pensasse",
+    "2s": "pensasses",
+    "3s": "pensasse",
+    "1p": "pensássemos",
+    "2p": "pensásseis",
+    "3p": "pensassem"
+  },
+  "FutSC": {
+    "1s": "pensar",
+    "2s": "pensares",
+    "3s": "pensar",
+    "1p": "pensarmos",
+    "2p": "pensardes",
+    "3p": "pensarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pensa",
+    "3s": "pense",
+    "1p": "pensemos",
+    "2p": "pensai",
+    "3p": "pensem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não penses",
+    "3s": "não pense",
+    "1p": "não pensemos",
+    "2p": "não penseis",
+    "3p": "não pensem"
+  },
+  "Part-ter": {
+    "": "pensado"
+  },
+  "Part-ser": {
+    "ms": "pensado",
+    "fs": "pensada",
+    "mp": "pensados",
+    "fp": "pensadas"
+  }
+}

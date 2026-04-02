@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "galgar"
+  },
+  "InfP": {
+    "1s": "galgar",
+    "2s": "galgares",
+    "3s": "galgar",
+    "1p": "galgarmos",
+    "2p": "galgardes",
+    "3p": "galgarem"
+  },
+  "Ger": {
+    "": "galgando"
+  },
+  "PresI": {
+    "1s": "galgo",
+    "2s": "galgas",
+    "3s": "galga",
+    "1p": "galgamos",
+    "2p": "galgais",
+    "3p": "galgam"
+  },
+  "PImpI": {
+    "1s": "galgava",
+    "2s": "galgavas",
+    "3s": "galgava",
+    "1p": "galgávamos",
+    "2p": "galgáveis",
+    "3p": "galgavam"
+  },
+  "PPSI": {
+    "1s": "galguei",
+    "2s": "galgaste",
+    "3s": "galgou",
+    "1p": "galgámos",
+    "2p": "galgastes",
+    "3p": "galgaram"
+  },
+  "PMQPSI": {
+    "1s": "galgara",
+    "2s": "galgaras",
+    "3s": "galgara",
+    "1p": "galgáramos",
+    "2p": "galgáreis",
+    "3p": "galgaram"
+  },
+  "FutSI": {
+    "1s": "galgarei",
+    "2s": "galgarás",
+    "3s": "galgará",
+    "1p": "galgaremos",
+    "2p": "galgareis",
+    "3p": "galgarão"
+  },
+  "CondS": {
+    "1s": "galgaria",
+    "2s": "galgarias",
+    "3s": "galgaria",
+    "1p": "galgaríamos",
+    "2p": "galgaríeis",
+    "3p": "galgariam"
+  },
+  "PresC": {
+    "1s": "galgue",
+    "2s": "galgues",
+    "3s": "galgue",
+    "1p": "galguemos",
+    "2p": "galgueis",
+    "3p": "galguem"
+  },
+  "PImpC": {
+    "1s": "galgasse",
+    "2s": "galgasses",
+    "3s": "galgasse",
+    "1p": "galgássemos",
+    "2p": "galgásseis",
+    "3p": "galgassem"
+  },
+  "FutSC": {
+    "1s": "galgar",
+    "2s": "galgares",
+    "3s": "galgar",
+    "1p": "galgarmos",
+    "2p": "galgardes",
+    "3p": "galgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "galga",
+    "3s": "galgue",
+    "1p": "galguemos",
+    "2p": "galgai",
+    "3p": "galguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não galgues",
+    "3s": "não galgue",
+    "1p": "não galguemos",
+    "2p": "não galgueis",
+    "3p": "não galguem"
+  },
+  "Part-ter": {
+    "": "galgado"
+  },
+  "Part-ser": {
+    "ms": "galgado",
+    "fs": "galgada",
+    "mp": "galgados",
+    "fp": "galgadas"
+  }
+}

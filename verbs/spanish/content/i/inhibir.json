@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inhibir"
+  },
+  "Ger": {
+    "": "inhibiendo"
+  },
+  "PresI": {
+    "1s": "inhibo",
+    "2s": "inhibes",
+    "3s": "inhibe",
+    "1p": "inhibimos",
+    "2p": "inhibís",
+    "3p": "inhiben"
+  },
+  "PImpI": {
+    "1s": "inhibía",
+    "2s": "inhibías",
+    "3s": "inhibía",
+    "1p": "inhibíamos",
+    "2p": "inhibíais",
+    "3p": "inhibían"
+  },
+  "PPSI": {
+    "1s": "inhibí",
+    "2s": "inhibiste",
+    "3s": "inhibió",
+    "1p": "inhibimos",
+    "2p": "inhibisteis",
+    "3p": "inhibieron"
+  },
+  "FutSI": {
+    "1s": "inhibiré",
+    "2s": "inhibirás",
+    "3s": "inhibirá",
+    "1p": "inhibiremos",
+    "2p": "inhibiréis",
+    "3p": "inhibirán"
+  },
+  "CondS": {
+    "1s": "inhibiría",
+    "2s": "inhibirías",
+    "3s": "inhibiría",
+    "1p": "inhibiríamos",
+    "2p": "inhibiríais",
+    "3p": "inhibirían"
+  },
+  "PresC": {
+    "1s": "inhiba",
+    "2s": "inhibas",
+    "3s": "inhiba",
+    "1p": "inhibamos",
+    "2p": "inhibáis",
+    "3p": "inhiban"
+  },
+  "PMQPSI": {
+    "1s": "inhibiera",
+    "2s": "inhibieras",
+    "3s": "inhibiera",
+    "1p": "inhibiéramos",
+    "2p": "inhibierais",
+    "3p": "inhibieran"
+  },
+  "PImpC": {
+    "1s": "inhibiese",
+    "2s": "inhibieses",
+    "3s": "inhibiese",
+    "1p": "inhibiésemos",
+    "2p": "inhibieseis",
+    "3p": "inhibiesen"
+  },
+  "FutSC": {
+    "1s": "inhibiere",
+    "2s": "inhibieres",
+    "3s": "inhibiere",
+    "1p": "inhibiéremos",
+    "2p": "inhibiereis",
+    "3p": "inhibieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inhibe",
+    "3s": "inhiba",
+    "1p": "inhibamos",
+    "2p": "inhibid",
+    "3p": "inhiban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inhibas",
+    "3s": "no inhiba",
+    "1p": "no inhibamos",
+    "2p": "no inhibáis",
+    "3p": "no inhiban"
+  },
+  "Part-ter": {
+    "": "inhibido"
+  },
+  "Part-ser": {
+    "ms": "inhibido",
+    "fs": "inhibida",
+    "mp": "inhibidos",
+    "fp": "inhibidas"
+  }
+}

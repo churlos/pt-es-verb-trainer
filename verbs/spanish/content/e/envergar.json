@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "envergar"
+  },
+  "Ger": {
+    "": "envergando"
+  },
+  "PresI": {
+    "1s": "envergo",
+    "2s": "envergas",
+    "3s": "enverga",
+    "1p": "envergamos",
+    "2p": "envergáis",
+    "3p": "envergan"
+  },
+  "PImpI": {
+    "1s": "envergaba",
+    "2s": "envergabas",
+    "3s": "envergaba",
+    "1p": "envergábamos",
+    "2p": "envergabais",
+    "3p": "envergaban"
+  },
+  "PPSI": {
+    "1s": "envergué",
+    "2s": "envergaste",
+    "3s": "envergó",
+    "1p": "envergamos",
+    "2p": "envergasteis",
+    "3p": "envergaron"
+  },
+  "FutSI": {
+    "1s": "envergaré",
+    "2s": "envergarás",
+    "3s": "envergará",
+    "1p": "envergaremos",
+    "2p": "envergaréis",
+    "3p": "envergarán"
+  },
+  "CondS": {
+    "1s": "envergaría",
+    "2s": "envergarías",
+    "3s": "envergaría",
+    "1p": "envergaríamos",
+    "2p": "envergaríais",
+    "3p": "envergarían"
+  },
+  "PresC": {
+    "1s": "envergue",
+    "2s": "envergues",
+    "3s": "envergue",
+    "1p": "enverguemos",
+    "2p": "enverguéis",
+    "3p": "enverguen"
+  },
+  "PMQPSI": {
+    "1s": "envergara",
+    "2s": "envergaras",
+    "3s": "envergara",
+    "1p": "envergáramos",
+    "2p": "envergarais",
+    "3p": "envergaran"
+  },
+  "PImpC": {
+    "1s": "envergase",
+    "2s": "envergases",
+    "3s": "envergase",
+    "1p": "envergásemos",
+    "2p": "envergaseis",
+    "3p": "envergasen"
+  },
+  "FutSC": {
+    "1s": "envergare",
+    "2s": "envergares",
+    "3s": "envergare",
+    "1p": "envergáremos",
+    "2p": "envergareis",
+    "3p": "envergaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enverga",
+    "3s": "envergue",
+    "1p": "enverguemos",
+    "2p": "envergad",
+    "3p": "enverguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envergues",
+    "3s": "no envergue",
+    "1p": "no enverguemos",
+    "2p": "no enverguéis",
+    "3p": "no enverguen"
+  },
+  "Part-ter": {
+    "": "envergado"
+  },
+  "Part-ser": {
+    "ms": "envergado",
+    "fs": "envergada",
+    "mp": "envergados",
+    "fp": "envergadas"
+  }
+}

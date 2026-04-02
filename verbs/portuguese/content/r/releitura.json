@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reler"
+  },
+  "InfP": {
+    "1s": "reler",
+    "2s": "releres",
+    "3s": "reler",
+    "1p": "relermos",
+    "2p": "relerdes",
+    "3p": "relerem"
+  },
+  "Ger": {
+    "": "relendo"
+  },
+  "PresI": {
+    "1s": "releio",
+    "2s": "relês",
+    "3s": "relê",
+    "1p": "relemos",
+    "2p": "reledes",
+    "3p": "releemObsolete:relêem"
+  },
+  "PImpI": {
+    "1s": "relia",
+    "2s": "relias",
+    "3s": "relia",
+    "1p": "relíamos",
+    "2p": "relíeis",
+    "3p": "reliam"
+  },
+  "PPSI": {
+    "1s": "reli",
+    "2s": "releste",
+    "3s": "releu",
+    "1p": "relemos",
+    "2p": "relestes",
+    "3p": "releram"
+  },
+  "PMQPSI": {
+    "1s": "relera",
+    "2s": "releras",
+    "3s": "relera",
+    "1p": "relêramos",
+    "2p": "relêreis",
+    "3p": "releram"
+  },
+  "FutSI": {
+    "1s": "relerei",
+    "2s": "relerás",
+    "3s": "relerá",
+    "1p": "releremos",
+    "2p": "relereis",
+    "3p": "relerão"
+  },
+  "CondS": {
+    "1s": "releria",
+    "2s": "relerias",
+    "3s": "releria",
+    "1p": "releríamos",
+    "2p": "releríeis",
+    "3p": "releriam"
+  },
+  "PresC": {
+    "1s": "releia",
+    "2s": "releias",
+    "3s": "releia",
+    "1p": "releiamos",
+    "2p": "releiais",
+    "3p": "releiam"
+  },
+  "PImpC": {
+    "1s": "relesse",
+    "2s": "relesses",
+    "3s": "relesse",
+    "1p": "relêssemos",
+    "2p": "relêsseis",
+    "3p": "relessem"
+  },
+  "FutSC": {
+    "1s": "reler",
+    "2s": "releres",
+    "3s": "reler",
+    "1p": "relermos",
+    "2p": "relerdes",
+    "3p": "relerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "relê",
+    "3s": "releia",
+    "1p": "releiamos",
+    "2p": "relede",
+    "3p": "releiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não releias",
+    "3s": "não releia",
+    "1p": "não releiamos",
+    "2p": "não releiais",
+    "3p": "não releiam"
+  },
+  "Part-ter": {
+    "": "relido"
+  },
+  "Part-ser": {
+    "ms": "relido",
+    "fs": "relida",
+    "mp": "relidos",
+    "fp": "relidas"
+  }
+}

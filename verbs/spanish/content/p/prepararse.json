@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "prepararse"
+  },
+  "Ger": {
+    "": "preparándose"
+  },
+  "PresI": {
+    "1s": "me preparo",
+    "2s": "te preparas",
+    "3s": "se prepara",
+    "1p": "nos preparamos",
+    "2p": "os preparáis",
+    "3p": "se preparan"
+  },
+  "PImpI": {
+    "1s": "me preparaba",
+    "2s": "te preparabas",
+    "3s": "se preparaba",
+    "1p": "nos preparábamos",
+    "2p": "os preparabais",
+    "3p": "se preparaban"
+  },
+  "PPSI": {
+    "1s": "me preparé",
+    "2s": "te preparaste",
+    "3s": "se preparó",
+    "1p": "nos preparamos",
+    "2p": "os preparasteis",
+    "3p": "se prepararon"
+  },
+  "FutSI": {
+    "1s": "me prepararé",
+    "2s": "te prepararás",
+    "3s": "se preparará",
+    "1p": "nos prepararemos",
+    "2p": "os prepararéis",
+    "3p": "se prepararán"
+  },
+  "CondS": {
+    "1s": "me prepararía",
+    "2s": "te prepararías",
+    "3s": "se prepararía",
+    "1p": "nos prepararíamos",
+    "2p": "os prepararíais",
+    "3p": "se prepararían"
+  },
+  "PresC": {
+    "1s": "me prepare",
+    "2s": "te prepares",
+    "3s": "se prepare",
+    "1p": "nos preparemos",
+    "2p": "os preparéis",
+    "3p": "se preparen"
+  },
+  "PMQPSI": {
+    "1s": "me preparara",
+    "2s": "te prepararas",
+    "3s": "se preparara",
+    "1p": "nos preparáramos",
+    "2p": "os prepararais",
+    "3p": "se prepararan"
+  },
+  "PImpC": {
+    "1s": "me preparase",
+    "2s": "te preparases",
+    "3s": "se preparase",
+    "1p": "nos preparásemos",
+    "2p": "os preparaseis",
+    "3p": "se preparasen"
+  },
+  "FutSC": {
+    "1s": "me preparare",
+    "2s": "te preparares",
+    "3s": "se preparare",
+    "1p": "nos preparáremos",
+    "2p": "os preparareis",
+    "3p": "se prepararen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prepárate",
+    "3s": "prepárese",
+    "1p": "preparémonos",
+    "2p": "preparaos",
+    "3p": "prepárense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te prepares",
+    "3s": "no se prepare",
+    "1p": "no nos preparemos",
+    "2p": "no os preparéis",
+    "3p": "no se preparen"
+  },
+  "Part-ter": {
+    "": "preparado"
+  },
+  "Part-ser": {
+    "ms": "preparado",
+    "fs": "preparada",
+    "mp": "preparados",
+    "fp": "preparadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "listar"
+  },
+  "Ger": {
+    "": "listando"
+  },
+  "PresI": {
+    "1s": "listo",
+    "2s": "listas",
+    "3s": "lista",
+    "1p": "listamos",
+    "2p": "listáis",
+    "3p": "listan"
+  },
+  "PImpI": {
+    "1s": "listaba",
+    "2s": "listabas",
+    "3s": "listaba",
+    "1p": "listábamos",
+    "2p": "listabais",
+    "3p": "listaban"
+  },
+  "PPSI": {
+    "1s": "listé",
+    "2s": "listaste",
+    "3s": "listó",
+    "1p": "listamos",
+    "2p": "listasteis",
+    "3p": "listaron"
+  },
+  "FutSI": {
+    "1s": "listaré",
+    "2s": "listarás",
+    "3s": "listará",
+    "1p": "listaremos",
+    "2p": "listaréis",
+    "3p": "listarán"
+  },
+  "CondS": {
+    "1s": "listaría",
+    "2s": "listarías",
+    "3s": "listaría",
+    "1p": "listaríamos",
+    "2p": "listaríais",
+    "3p": "listarían"
+  },
+  "PresC": {
+    "1s": "liste",
+    "2s": "listes",
+    "3s": "liste",
+    "1p": "listemos",
+    "2p": "listéis",
+    "3p": "listen"
+  },
+  "PMQPSI": {
+    "1s": "listara",
+    "2s": "listaras",
+    "3s": "listara",
+    "1p": "listáramos",
+    "2p": "listarais",
+    "3p": "listaran"
+  },
+  "PImpC": {
+    "1s": "listase",
+    "2s": "listases",
+    "3s": "listase",
+    "1p": "listásemos",
+    "2p": "listaseis",
+    "3p": "listasen"
+  },
+  "FutSC": {
+    "1s": "listare",
+    "2s": "listares",
+    "3s": "listare",
+    "1p": "listáremos",
+    "2p": "listareis",
+    "3p": "listaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lista",
+    "3s": "liste",
+    "1p": "listemos",
+    "2p": "listad",
+    "3p": "listen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no listes",
+    "3s": "no liste",
+    "1p": "no listemos",
+    "2p": "no listéis",
+    "3p": "no listen"
+  },
+  "Part-ter": {
+    "": "listado"
+  },
+  "Part-ser": {
+    "ms": "listado",
+    "fs": "listada",
+    "mp": "listados",
+    "fp": "listadas"
+  }
+}

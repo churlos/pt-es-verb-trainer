@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abaixar"
+  },
+  "InfP": {
+    "1s": "abaixar",
+    "2s": "abaixares",
+    "3s": "abaixar",
+    "1p": "abaixarmos",
+    "2p": "abaixardes",
+    "3p": "abaixarem"
+  },
+  "Ger": {
+    "": "abaixando"
+  },
+  "PresI": {
+    "1s": "abaixo",
+    "2s": "abaixas",
+    "3s": "abaixa",
+    "1p": "abaixamos",
+    "2p": "abaixais",
+    "3p": "abaixam"
+  },
+  "PImpI": {
+    "1s": "abaixava",
+    "2s": "abaixavas",
+    "3s": "abaixava",
+    "1p": "abaixávamos",
+    "2p": "abaixáveis",
+    "3p": "abaixavam"
+  },
+  "PPSI": {
+    "1s": "abaixei",
+    "2s": "abaixaste",
+    "3s": "abaixou",
+    "1p": "abaixámos",
+    "2p": "abaixastes",
+    "3p": "abaixaram"
+  },
+  "PMQPSI": {
+    "1s": "abaixara",
+    "2s": "abaixaras",
+    "3s": "abaixara",
+    "1p": "abaixáramos",
+    "2p": "abaixáreis",
+    "3p": "abaixaram"
+  },
+  "FutSI": {
+    "1s": "abaixarei",
+    "2s": "abaixarás",
+    "3s": "abaixará",
+    "1p": "abaixaremos",
+    "2p": "abaixareis",
+    "3p": "abaixarão"
+  },
+  "CondS": {
+    "1s": "abaixaria",
+    "2s": "abaixarias",
+    "3s": "abaixaria",
+    "1p": "abaixaríamos",
+    "2p": "abaixaríeis",
+    "3p": "abaixariam"
+  },
+  "PresC": {
+    "1s": "abaixe",
+    "2s": "abaixes",
+    "3s": "abaixe",
+    "1p": "abaixemos",
+    "2p": "abaixeis",
+    "3p": "abaixem"
+  },
+  "PImpC": {
+    "1s": "abaixasse",
+    "2s": "abaixasses",
+    "3s": "abaixasse",
+    "1p": "abaixássemos",
+    "2p": "abaixásseis",
+    "3p": "abaixassem"
+  },
+  "FutSC": {
+    "1s": "abaixar",
+    "2s": "abaixares",
+    "3s": "abaixar",
+    "1p": "abaixarmos",
+    "2p": "abaixardes",
+    "3p": "abaixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abaixa",
+    "3s": "abaixe",
+    "1p": "abaixemos",
+    "2p": "abaixai",
+    "3p": "abaixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abaixes",
+    "3s": "não abaixe",
+    "1p": "não abaixemos",
+    "2p": "não abaixeis",
+    "3p": "não abaixem"
+  },
+  "Part-ter": {
+    "": "abaixado"
+  },
+  "Part-ser": {
+    "ms": "abaixado",
+    "fs": "abaixada",
+    "mp": "abaixados",
+    "fp": "abaixadas"
+  }
+}

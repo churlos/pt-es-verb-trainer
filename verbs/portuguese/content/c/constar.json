@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "constar"
+  },
+  "InfP": {
+    "1s": "constar",
+    "2s": "constares",
+    "3s": "constar",
+    "1p": "constarmos",
+    "2p": "constardes",
+    "3p": "constarem"
+  },
+  "Ger": {
+    "": "constando"
+  },
+  "PresI": {
+    "1s": "consto",
+    "2s": "constas",
+    "3s": "consta",
+    "1p": "constamos",
+    "2p": "constais",
+    "3p": "constam"
+  },
+  "PImpI": {
+    "1s": "constava",
+    "2s": "constavas",
+    "3s": "constava",
+    "1p": "constávamos",
+    "2p": "constáveis",
+    "3p": "constavam"
+  },
+  "PPSI": {
+    "1s": "constei",
+    "2s": "constaste",
+    "3s": "constou",
+    "1p": "constámos",
+    "2p": "constastes",
+    "3p": "constaram"
+  },
+  "PMQPSI": {
+    "1s": "constara",
+    "2s": "constaras",
+    "3s": "constara",
+    "1p": "constáramos",
+    "2p": "constáreis",
+    "3p": "constaram"
+  },
+  "FutSI": {
+    "1s": "constarei",
+    "2s": "constarás",
+    "3s": "constará",
+    "1p": "constaremos",
+    "2p": "constareis",
+    "3p": "constarão"
+  },
+  "CondS": {
+    "1s": "constaria",
+    "2s": "constarias",
+    "3s": "constaria",
+    "1p": "constaríamos",
+    "2p": "constaríeis",
+    "3p": "constariam"
+  },
+  "PresC": {
+    "1s": "conste",
+    "2s": "constes",
+    "3s": "conste",
+    "1p": "constemos",
+    "2p": "consteis",
+    "3p": "constem"
+  },
+  "PImpC": {
+    "1s": "constasse",
+    "2s": "constasses",
+    "3s": "constasse",
+    "1p": "constássemos",
+    "2p": "constásseis",
+    "3p": "constassem"
+  },
+  "FutSC": {
+    "1s": "constar",
+    "2s": "constares",
+    "3s": "constar",
+    "1p": "constarmos",
+    "2p": "constardes",
+    "3p": "constarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consta",
+    "3s": "conste",
+    "1p": "constemos",
+    "2p": "constai",
+    "3p": "constem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não constes",
+    "3s": "não conste",
+    "1p": "não constemos",
+    "2p": "não consteis",
+    "3p": "não constem"
+  },
+  "Part-ter": {
+    "": "constado"
+  },
+  "Part-ser": {
+    "ms": "constado",
+    "fs": "constada",
+    "mp": "constados",
+    "fp": "constadas"
+  }
+}

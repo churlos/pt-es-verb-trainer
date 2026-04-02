@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "placar"
+  },
+  "InfP": {
+    "1s": "placar",
+    "2s": "placares",
+    "3s": "placar",
+    "1p": "placarmos",
+    "2p": "placardes",
+    "3p": "placarem"
+  },
+  "Ger": {
+    "": "placando"
+  },
+  "PresI": {
+    "1s": "placo",
+    "2s": "placas",
+    "3s": "placa",
+    "1p": "placamos",
+    "2p": "placais",
+    "3p": "placam"
+  },
+  "PImpI": {
+    "1s": "placava",
+    "2s": "placavas",
+    "3s": "placava",
+    "1p": "placávamos",
+    "2p": "placáveis",
+    "3p": "placavam"
+  },
+  "PPSI": {
+    "1s": "placei",
+    "2s": "placaste",
+    "3s": "placou",
+    "1p": "placámos",
+    "2p": "placastes",
+    "3p": "placaram"
+  },
+  "PMQPSI": {
+    "1s": "placara",
+    "2s": "placaras",
+    "3s": "placara",
+    "1p": "placáramos",
+    "2p": "placáreis",
+    "3p": "placaram"
+  },
+  "FutSI": {
+    "1s": "placarei",
+    "2s": "placarás",
+    "3s": "placará",
+    "1p": "placaremos",
+    "2p": "placareis",
+    "3p": "placarão"
+  },
+  "CondS": {
+    "1s": "placaria",
+    "2s": "placarias",
+    "3s": "placaria",
+    "1p": "placaríamos",
+    "2p": "placaríeis",
+    "3p": "placariam"
+  },
+  "PresC": {
+    "1s": "place",
+    "2s": "places",
+    "3s": "place",
+    "1p": "placemos",
+    "2p": "placeis",
+    "3p": "placem"
+  },
+  "PImpC": {
+    "1s": "placasse",
+    "2s": "placasses",
+    "3s": "placasse",
+    "1p": "placássemos",
+    "2p": "placásseis",
+    "3p": "placassem"
+  },
+  "FutSC": {
+    "1s": "placar",
+    "2s": "placares",
+    "3s": "placar",
+    "1p": "placarmos",
+    "2p": "placardes",
+    "3p": "placarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "placa",
+    "3s": "place",
+    "1p": "placemos",
+    "2p": "placai",
+    "3p": "placem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não places",
+    "3s": "não place",
+    "1p": "não placemos",
+    "2p": "não placeis",
+    "3p": "não placem"
+  },
+  "Part-ter": {
+    "": "placado"
+  },
+  "Part-ser": {
+    "ms": "placado",
+    "fs": "placada",
+    "mp": "placados",
+    "fp": "placadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anodizar"
+  },
+  "InfP": {
+    "1s": "anodizar",
+    "2s": "anodizares",
+    "3s": "anodizar",
+    "1p": "anodizarmos",
+    "2p": "anodizardes",
+    "3p": "anodizarem"
+  },
+  "Ger": {
+    "": "anodizando"
+  },
+  "PresI": {
+    "1s": "anodizo",
+    "2s": "anodizas",
+    "3s": "anodiza",
+    "1p": "anodizamos",
+    "2p": "anodizais",
+    "3p": "anodizam"
+  },
+  "PImpI": {
+    "1s": "anodizava",
+    "2s": "anodizavas",
+    "3s": "anodizava",
+    "1p": "anodizávamos",
+    "2p": "anodizáveis",
+    "3p": "anodizavam"
+  },
+  "PPSI": {
+    "1s": "anodizei",
+    "2s": "anodizaste",
+    "3s": "anodizou",
+    "1p": "anodizámos",
+    "2p": "anodizastes",
+    "3p": "anodizaram"
+  },
+  "PMQPSI": {
+    "1s": "anodizara",
+    "2s": "anodizaras",
+    "3s": "anodizara",
+    "1p": "anodizáramos",
+    "2p": "anodizáreis",
+    "3p": "anodizaram"
+  },
+  "FutSI": {
+    "1s": "anodizarei",
+    "2s": "anodizarás",
+    "3s": "anodizará",
+    "1p": "anodizaremos",
+    "2p": "anodizareis",
+    "3p": "anodizarão"
+  },
+  "CondS": {
+    "1s": "anodizaria",
+    "2s": "anodizarias",
+    "3s": "anodizaria",
+    "1p": "anodizaríamos",
+    "2p": "anodizaríeis",
+    "3p": "anodizariam"
+  },
+  "PresC": {
+    "1s": "anodize",
+    "2s": "anodizes",
+    "3s": "anodize",
+    "1p": "anodizemos",
+    "2p": "anodizeis",
+    "3p": "anodizem"
+  },
+  "PImpC": {
+    "1s": "anodizasse",
+    "2s": "anodizasses",
+    "3s": "anodizasse",
+    "1p": "anodizássemos",
+    "2p": "anodizásseis",
+    "3p": "anodizassem"
+  },
+  "FutSC": {
+    "1s": "anodizar",
+    "2s": "anodizares",
+    "3s": "anodizar",
+    "1p": "anodizarmos",
+    "2p": "anodizardes",
+    "3p": "anodizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anodiza",
+    "3s": "anodize",
+    "1p": "anodizemos",
+    "2p": "anodizai",
+    "3p": "anodizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anodizes",
+    "3s": "não anodize",
+    "1p": "não anodizemos",
+    "2p": "não anodizeis",
+    "3p": "não anodizem"
+  },
+  "Part-ter": {
+    "": "anodizado"
+  },
+  "Part-ser": {
+    "ms": "anodizado",
+    "fs": "anodizada",
+    "mp": "anodizados",
+    "fp": "anodizadas"
+  }
+}

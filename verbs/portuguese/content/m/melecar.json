@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "melecar"
+  },
+  "InfP": {
+    "1s": "melecar",
+    "2s": "melecares",
+    "3s": "melecar",
+    "1p": "melecarmos",
+    "2p": "melecardes",
+    "3p": "melecarem"
+  },
+  "Ger": {
+    "": "melecando"
+  },
+  "PresI": {
+    "1s": "meleco",
+    "2s": "melecas",
+    "3s": "meleca",
+    "1p": "melecamos",
+    "2p": "melecais",
+    "3p": "melecam"
+  },
+  "PImpI": {
+    "1s": "melecava",
+    "2s": "melecavas",
+    "3s": "melecava",
+    "1p": "melecávamos",
+    "2p": "melecáveis",
+    "3p": "melecavam"
+  },
+  "PPSI": {
+    "1s": "melequei",
+    "2s": "melecaste",
+    "3s": "melecou",
+    "1p": "melecámos",
+    "2p": "melecastes",
+    "3p": "melecaram"
+  },
+  "PMQPSI": {
+    "1s": "melecara",
+    "2s": "melecaras",
+    "3s": "melecara",
+    "1p": "melecáramos",
+    "2p": "melecáreis",
+    "3p": "melecaram"
+  },
+  "FutSI": {
+    "1s": "melecarei",
+    "2s": "melecarás",
+    "3s": "melecará",
+    "1p": "melecaremos",
+    "2p": "melecareis",
+    "3p": "melecarão"
+  },
+  "CondS": {
+    "1s": "melecaria",
+    "2s": "melecarias",
+    "3s": "melecaria",
+    "1p": "melecaríamos",
+    "2p": "melecaríeis",
+    "3p": "melecariam"
+  },
+  "PresC": {
+    "1s": "meleque",
+    "2s": "meleques",
+    "3s": "meleque",
+    "1p": "melequemos",
+    "2p": "melequeis",
+    "3p": "melequem"
+  },
+  "PImpC": {
+    "1s": "melecasse",
+    "2s": "melecasses",
+    "3s": "melecasse",
+    "1p": "melecássemos",
+    "2p": "melecásseis",
+    "3p": "melecassem"
+  },
+  "FutSC": {
+    "1s": "melecar",
+    "2s": "melecares",
+    "3s": "melecar",
+    "1p": "melecarmos",
+    "2p": "melecardes",
+    "3p": "melecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "meleca",
+    "3s": "meleque",
+    "1p": "melequemos",
+    "2p": "melecai",
+    "3p": "melequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não meleques",
+    "3s": "não meleque",
+    "1p": "não melequemos",
+    "2p": "não melequeis",
+    "3p": "não melequem"
+  },
+  "Part-ter": {
+    "": "melecado"
+  },
+  "Part-ser": {
+    "ms": "melecado",
+    "fs": "melecada",
+    "mp": "melecados",
+    "fp": "melecadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "translucir"
+  },
+  "Ger": {
+    "": "transluciendo"
+  },
+  "PresI": {
+    "1s": "transluzco",
+    "2s": "transluces",
+    "3s": "transluce",
+    "1p": "translucimos",
+    "2p": "translucís",
+    "3p": "translucen"
+  },
+  "PImpI": {
+    "1s": "translucía",
+    "2s": "translucías",
+    "3s": "translucía",
+    "1p": "translucíamos",
+    "2p": "translucíais",
+    "3p": "translucían"
+  },
+  "PPSI": {
+    "1s": "translucí",
+    "2s": "transluciste",
+    "3s": "translució",
+    "1p": "translucimos",
+    "2p": "translucisteis",
+    "3p": "translucieron"
+  },
+  "FutSI": {
+    "1s": "transluciré",
+    "2s": "translucirás",
+    "3s": "translucirá",
+    "1p": "transluciremos",
+    "2p": "transluciréis",
+    "3p": "translucirán"
+  },
+  "CondS": {
+    "1s": "transluciría",
+    "2s": "translucirías",
+    "3s": "transluciría",
+    "1p": "transluciríamos",
+    "2p": "transluciríais",
+    "3p": "translucirían"
+  },
+  "PresC": {
+    "1s": "transluzca",
+    "2s": "transluzcas",
+    "3s": "transluzca",
+    "1p": "transluzcamos",
+    "2p": "transluzcáis",
+    "3p": "transluzcan"
+  },
+  "PMQPSI": {
+    "1s": "transluciera",
+    "2s": "translucieras",
+    "3s": "transluciera",
+    "1p": "transluciéramos",
+    "2p": "translucierais",
+    "3p": "translucieran"
+  },
+  "PImpC": {
+    "1s": "transluciese",
+    "2s": "translucieses",
+    "3s": "transluciese",
+    "1p": "transluciésemos",
+    "2p": "translucieseis",
+    "3p": "transluciesen"
+  },
+  "FutSC": {
+    "1s": "transluciere",
+    "2s": "translucieres",
+    "3s": "transluciere",
+    "1p": "transluciéremos",
+    "2p": "transluciereis",
+    "3p": "translucieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transluce",
+    "3s": "transluzca",
+    "1p": "transluzcamos",
+    "2p": "translucid",
+    "3p": "transluzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transluzcas",
+    "3s": "no transluzca",
+    "1p": "no transluzcamos",
+    "2p": "no transluzcáis",
+    "3p": "no transluzcan"
+  },
+  "Part-ter": {
+    "": "translucido"
+  },
+  "Part-ser": {
+    "ms": "translucido",
+    "fs": "translucida",
+    "mp": "translucidos",
+    "fp": "translucidas"
+  }
+}

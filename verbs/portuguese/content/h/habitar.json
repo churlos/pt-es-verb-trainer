@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "habitar"
+  },
+  "InfP": {
+    "1s": "habitar",
+    "2s": "habitares",
+    "3s": "habitar",
+    "1p": "habitarmos",
+    "2p": "habitardes",
+    "3p": "habitarem"
+  },
+  "Ger": {
+    "": "habitando"
+  },
+  "PresI": {
+    "1s": "habito",
+    "2s": "habitas",
+    "3s": "habita",
+    "1p": "habitamos",
+    "2p": "habitais",
+    "3p": "habitam"
+  },
+  "PImpI": {
+    "1s": "habitava",
+    "2s": "habitavas",
+    "3s": "habitava",
+    "1p": "habitávamos",
+    "2p": "habitáveis",
+    "3p": "habitavam"
+  },
+  "PPSI": {
+    "1s": "habitei",
+    "2s": "habitaste",
+    "3s": "habitou",
+    "1p": "habitámos",
+    "2p": "habitastes",
+    "3p": "habitaram"
+  },
+  "PMQPSI": {
+    "1s": "habitara",
+    "2s": "habitaras",
+    "3s": "habitara",
+    "1p": "habitáramos",
+    "2p": "habitáreis",
+    "3p": "habitaram"
+  },
+  "FutSI": {
+    "1s": "habitarei",
+    "2s": "habitarás",
+    "3s": "habitará",
+    "1p": "habitaremos",
+    "2p": "habitareis",
+    "3p": "habitarão"
+  },
+  "CondS": {
+    "1s": "habitaria",
+    "2s": "habitarias",
+    "3s": "habitaria",
+    "1p": "habitaríamos",
+    "2p": "habitaríeis",
+    "3p": "habitariam"
+  },
+  "PresC": {
+    "1s": "habite",
+    "2s": "habites",
+    "3s": "habite",
+    "1p": "habitemos",
+    "2p": "habiteis",
+    "3p": "habitem"
+  },
+  "PImpC": {
+    "1s": "habitasse",
+    "2s": "habitasses",
+    "3s": "habitasse",
+    "1p": "habitássemos",
+    "2p": "habitásseis",
+    "3p": "habitassem"
+  },
+  "FutSC": {
+    "1s": "habitar",
+    "2s": "habitares",
+    "3s": "habitar",
+    "1p": "habitarmos",
+    "2p": "habitardes",
+    "3p": "habitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "habita",
+    "3s": "habite",
+    "1p": "habitemos",
+    "2p": "habitai",
+    "3p": "habitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não habites",
+    "3s": "não habite",
+    "1p": "não habitemos",
+    "2p": "não habiteis",
+    "3p": "não habitem"
+  },
+  "Part-ter": {
+    "": "habitado"
+  },
+  "Part-ser": {
+    "ms": "habitado",
+    "fs": "habitada",
+    "mp": "habitados",
+    "fp": "habitadas"
+  }
+}

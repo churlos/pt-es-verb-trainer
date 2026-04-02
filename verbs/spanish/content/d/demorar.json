@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "demorar"
+  },
+  "Ger": {
+    "": "demorando"
+  },
+  "PresI": {
+    "1s": "demoro",
+    "2s": "demoras",
+    "3s": "demora",
+    "1p": "demoramos",
+    "2p": "demoráis",
+    "3p": "demoran"
+  },
+  "PImpI": {
+    "1s": "demoraba",
+    "2s": "demorabas",
+    "3s": "demoraba",
+    "1p": "demorábamos",
+    "2p": "demorabais",
+    "3p": "demoraban"
+  },
+  "PPSI": {
+    "1s": "demoré",
+    "2s": "demoraste",
+    "3s": "demoró",
+    "1p": "demoramos",
+    "2p": "demorasteis",
+    "3p": "demoraron"
+  },
+  "FutSI": {
+    "1s": "demoraré",
+    "2s": "demorarás",
+    "3s": "demorará",
+    "1p": "demoraremos",
+    "2p": "demoraréis",
+    "3p": "demorarán"
+  },
+  "CondS": {
+    "1s": "demoraría",
+    "2s": "demorarías",
+    "3s": "demoraría",
+    "1p": "demoraríamos",
+    "2p": "demoraríais",
+    "3p": "demorarían"
+  },
+  "PresC": {
+    "1s": "demore",
+    "2s": "demores",
+    "3s": "demore",
+    "1p": "demoremos",
+    "2p": "demoréis",
+    "3p": "demoren"
+  },
+  "PMQPSI": {
+    "1s": "demorara",
+    "2s": "demoraras",
+    "3s": "demorara",
+    "1p": "demoráramos",
+    "2p": "demorarais",
+    "3p": "demoraran"
+  },
+  "PImpC": {
+    "1s": "demorase",
+    "2s": "demorases",
+    "3s": "demorase",
+    "1p": "demorásemos",
+    "2p": "demoraseis",
+    "3p": "demorasen"
+  },
+  "FutSC": {
+    "1s": "demorare",
+    "2s": "demorares",
+    "3s": "demorare",
+    "1p": "demoráremos",
+    "2p": "demorareis",
+    "3p": "demoraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demora",
+    "3s": "demore",
+    "1p": "demoremos",
+    "2p": "demorad",
+    "3p": "demoren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no demores",
+    "3s": "no demore",
+    "1p": "no demoremos",
+    "2p": "no demoréis",
+    "3p": "no demoren"
+  },
+  "Part-ter": {
+    "": "demorado"
+  },
+  "Part-ser": {
+    "ms": "demorado",
+    "fs": "demorada",
+    "mp": "demorados",
+    "fp": "demoradas"
+  }
+}

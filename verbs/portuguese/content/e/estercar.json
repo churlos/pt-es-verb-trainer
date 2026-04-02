@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estercar"
+  },
+  "InfP": {
+    "1s": "estercar",
+    "2s": "estercares",
+    "3s": "estercar",
+    "1p": "estercarmos",
+    "2p": "estercardes",
+    "3p": "estercarem"
+  },
+  "Ger": {
+    "": "estercando"
+  },
+  "PresI": {
+    "1s": "esterco",
+    "2s": "estercas",
+    "3s": "esterca",
+    "1p": "estercamos",
+    "2p": "estercais",
+    "3p": "estercam"
+  },
+  "PImpI": {
+    "1s": "estercava",
+    "2s": "estercavas",
+    "3s": "estercava",
+    "1p": "estercávamos",
+    "2p": "estercáveis",
+    "3p": "estercavam"
+  },
+  "PPSI": {
+    "1s": "esterquei",
+    "2s": "estercaste",
+    "3s": "estercou",
+    "1p": "estercámos",
+    "2p": "estercastes",
+    "3p": "estercaram"
+  },
+  "PMQPSI": {
+    "1s": "estercara",
+    "2s": "estercaras",
+    "3s": "estercara",
+    "1p": "estercáramos",
+    "2p": "estercáreis",
+    "3p": "estercaram"
+  },
+  "FutSI": {
+    "1s": "estercarei",
+    "2s": "estercarás",
+    "3s": "estercará",
+    "1p": "estercaremos",
+    "2p": "estercareis",
+    "3p": "estercarão"
+  },
+  "CondS": {
+    "1s": "estercaria",
+    "2s": "estercarias",
+    "3s": "estercaria",
+    "1p": "estercaríamos",
+    "2p": "estercaríeis",
+    "3p": "estercariam"
+  },
+  "PresC": {
+    "1s": "esterque",
+    "2s": "esterques",
+    "3s": "esterque",
+    "1p": "esterquemos",
+    "2p": "esterqueis",
+    "3p": "esterquem"
+  },
+  "PImpC": {
+    "1s": "estercasse",
+    "2s": "estercasses",
+    "3s": "estercasse",
+    "1p": "estercássemos",
+    "2p": "estercásseis",
+    "3p": "estercassem"
+  },
+  "FutSC": {
+    "1s": "estercar",
+    "2s": "estercares",
+    "3s": "estercar",
+    "1p": "estercarmos",
+    "2p": "estercardes",
+    "3p": "estercarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esterca",
+    "3s": "esterque",
+    "1p": "esterquemos",
+    "2p": "estercai",
+    "3p": "esterquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esterques",
+    "3s": "não esterque",
+    "1p": "não esterquemos",
+    "2p": "não esterqueis",
+    "3p": "não esterquem"
+  },
+  "Part-ter": {
+    "": "estercado"
+  },
+  "Part-ser": {
+    "ms": "estercado",
+    "fs": "estercada",
+    "mp": "estercados",
+    "fp": "estercadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acender"
+  },
+  "InfP": {
+    "1s": "acender",
+    "2s": "acenderes",
+    "3s": "acender",
+    "1p": "acendermos",
+    "2p": "acenderdes",
+    "3p": "acenderem"
+  },
+  "Ger": {
+    "": "acendendo"
+  },
+  "PresI": {
+    "1s": "acendo",
+    "2s": "acendes",
+    "3s": "acende",
+    "1p": "acendemos",
+    "2p": "acendeis",
+    "3p": "acendem"
+  },
+  "PImpI": {
+    "1s": "acendia",
+    "2s": "acendias",
+    "3s": "acendia",
+    "1p": "acendíamos",
+    "2p": "acendíeis",
+    "3p": "acendiam"
+  },
+  "PPSI": {
+    "1s": "acendi",
+    "2s": "acendeste",
+    "3s": "acendeu",
+    "1p": "acendemos",
+    "2p": "acendestes",
+    "3p": "acenderam"
+  },
+  "PMQPSI": {
+    "1s": "acendera",
+    "2s": "acenderas",
+    "3s": "acendera",
+    "1p": "acendêramos",
+    "2p": "acendêreis",
+    "3p": "acenderam"
+  },
+  "FutSI": {
+    "1s": "acenderei",
+    "2s": "acenderás",
+    "3s": "acenderá",
+    "1p": "acenderemos",
+    "2p": "acendereis",
+    "3p": "acenderão"
+  },
+  "CondS": {
+    "1s": "acenderia",
+    "2s": "acenderias",
+    "3s": "acenderia",
+    "1p": "acenderíamos",
+    "2p": "acenderíeis",
+    "3p": "acenderiam"
+  },
+  "PresC": {
+    "1s": "acenda",
+    "2s": "acendas",
+    "3s": "acenda",
+    "1p": "acendamos",
+    "2p": "acendais",
+    "3p": "acendam"
+  },
+  "PImpC": {
+    "1s": "acendesse",
+    "2s": "acendesses",
+    "3s": "acendesse",
+    "1p": "acendêssemos",
+    "2p": "acendêsseis",
+    "3p": "acendessem"
+  },
+  "FutSC": {
+    "1s": "acender",
+    "2s": "acenderes",
+    "3s": "acender",
+    "1p": "acendermos",
+    "2p": "acenderdes",
+    "3p": "acenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acende",
+    "3s": "acenda",
+    "1p": "acendamos",
+    "2p": "acendei",
+    "3p": "acendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acendas",
+    "3s": "não acenda",
+    "1p": "não acendamos",
+    "2p": "não acendais",
+    "3p": "não acendam"
+  },
+  "Part-ter": {
+    "": "acendido"
+  },
+  "Part-ser": {
+    "ms": "acendido",
+    "fs": "acendida",
+    "mp": "acendidos",
+    "fp": "acendidas"
+  }
+}

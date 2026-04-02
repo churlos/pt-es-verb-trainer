@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fixar"
+  },
+  "InfP": {
+    "1s": "fixar",
+    "2s": "fixares",
+    "3s": "fixar",
+    "1p": "fixarmos",
+    "2p": "fixardes",
+    "3p": "fixarem"
+  },
+  "Ger": {
+    "": "fixando"
+  },
+  "PresI": {
+    "1s": "fixo",
+    "2s": "fixas",
+    "3s": "fixa",
+    "1p": "fixamos",
+    "2p": "fixais",
+    "3p": "fixam"
+  },
+  "PImpI": {
+    "1s": "fixava",
+    "2s": "fixavas",
+    "3s": "fixava",
+    "1p": "fixávamos",
+    "2p": "fixáveis",
+    "3p": "fixavam"
+  },
+  "PPSI": {
+    "1s": "fixei",
+    "2s": "fixaste",
+    "3s": "fixou",
+    "1p": "fixámos",
+    "2p": "fixastes",
+    "3p": "fixaram"
+  },
+  "PMQPSI": {
+    "1s": "fixara",
+    "2s": "fixaras",
+    "3s": "fixara",
+    "1p": "fixáramos",
+    "2p": "fixáreis",
+    "3p": "fixaram"
+  },
+  "FutSI": {
+    "1s": "fixarei",
+    "2s": "fixarás",
+    "3s": "fixará",
+    "1p": "fixaremos",
+    "2p": "fixareis",
+    "3p": "fixarão"
+  },
+  "CondS": {
+    "1s": "fixaria",
+    "2s": "fixarias",
+    "3s": "fixaria",
+    "1p": "fixaríamos",
+    "2p": "fixaríeis",
+    "3p": "fixariam"
+  },
+  "PresC": {
+    "1s": "fixe",
+    "2s": "fixes",
+    "3s": "fixe",
+    "1p": "fixemos",
+    "2p": "fixeis",
+    "3p": "fixem"
+  },
+  "PImpC": {
+    "1s": "fixasse",
+    "2s": "fixasses",
+    "3s": "fixasse",
+    "1p": "fixássemos",
+    "2p": "fixásseis",
+    "3p": "fixassem"
+  },
+  "FutSC": {
+    "1s": "fixar",
+    "2s": "fixares",
+    "3s": "fixar",
+    "1p": "fixarmos",
+    "2p": "fixardes",
+    "3p": "fixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fixa",
+    "3s": "fixe",
+    "1p": "fixemos",
+    "2p": "fixai",
+    "3p": "fixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fixes",
+    "3s": "não fixe",
+    "1p": "não fixemos",
+    "2p": "não fixeis",
+    "3p": "não fixem"
+  },
+  "Part-ter": {
+    "": "fixado"
+  },
+  "Part-ser": {
+    "ms": "fixado",
+    "fs": "fixada",
+    "mp": "fixados",
+    "fp": "fixadas"
+  }
+}

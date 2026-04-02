@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "nuclear"
+  },
+  "Ger": {
+    "": "nucleando"
+  },
+  "PresI": {
+    "1s": "nucleo",
+    "2s": "nucleas",
+    "3s": "nuclea",
+    "1p": "nucleamos",
+    "2p": "nucleáis",
+    "3p": "nuclean"
+  },
+  "PImpI": {
+    "1s": "nucleaba",
+    "2s": "nucleabas",
+    "3s": "nucleaba",
+    "1p": "nucleábamos",
+    "2p": "nucleabais",
+    "3p": "nucleaban"
+  },
+  "PPSI": {
+    "1s": "nucleé",
+    "2s": "nucleaste",
+    "3s": "nucleó",
+    "1p": "nucleamos",
+    "2p": "nucleasteis",
+    "3p": "nuclearon"
+  },
+  "FutSI": {
+    "1s": "nuclearé",
+    "2s": "nuclearás",
+    "3s": "nucleará",
+    "1p": "nuclearemos",
+    "2p": "nuclearéis",
+    "3p": "nuclearán"
+  },
+  "CondS": {
+    "1s": "nuclearía",
+    "2s": "nuclearías",
+    "3s": "nuclearía",
+    "1p": "nuclearíamos",
+    "2p": "nuclearíais",
+    "3p": "nuclearían"
+  },
+  "PresC": {
+    "1s": "nuclee",
+    "2s": "nuclees",
+    "3s": "nuclee",
+    "1p": "nucleemos",
+    "2p": "nucleéis",
+    "3p": "nucleen"
+  },
+  "PMQPSI": {
+    "1s": "nucleara",
+    "2s": "nuclearas",
+    "3s": "nucleara",
+    "1p": "nucleáramos",
+    "2p": "nuclearais",
+    "3p": "nuclearan"
+  },
+  "PImpC": {
+    "1s": "nuclease",
+    "2s": "nucleases",
+    "3s": "nuclease",
+    "1p": "nucleásemos",
+    "2p": "nucleaseis",
+    "3p": "nucleasen"
+  },
+  "FutSC": {
+    "1s": "nucleare",
+    "2s": "nucleares",
+    "3s": "nucleare",
+    "1p": "nucleáremos",
+    "2p": "nucleareis",
+    "3p": "nuclearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nuclea",
+    "3s": "nuclee",
+    "1p": "nucleemos",
+    "2p": "nuclead",
+    "3p": "nucleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no nuclees",
+    "3s": "no nuclee",
+    "1p": "no nucleemos",
+    "2p": "no nucleéis",
+    "3p": "no nucleen"
+  },
+  "Part-ter": {
+    "": "nucleado"
+  },
+  "Part-ser": {
+    "ms": "nucleado",
+    "fs": "nucleada",
+    "mp": "nucleados",
+    "fp": "nucleadas"
+  }
+}

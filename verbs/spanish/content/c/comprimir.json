@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "comprimir"
+  },
+  "Ger": {
+    "": "comprimiendo"
+  },
+  "PresI": {
+    "1s": "comprimo",
+    "2s": "comprimes",
+    "3s": "comprime",
+    "1p": "comprimimos",
+    "2p": "comprimís",
+    "3p": "comprimen"
+  },
+  "PImpI": {
+    "1s": "comprimía",
+    "2s": "comprimías",
+    "3s": "comprimía",
+    "1p": "comprimíamos",
+    "2p": "comprimíais",
+    "3p": "comprimían"
+  },
+  "PPSI": {
+    "1s": "comprimí",
+    "2s": "comprimiste",
+    "3s": "comprimió",
+    "1p": "comprimimos",
+    "2p": "comprimisteis",
+    "3p": "comprimieron"
+  },
+  "FutSI": {
+    "1s": "comprimiré",
+    "2s": "comprimirás",
+    "3s": "comprimirá",
+    "1p": "comprimiremos",
+    "2p": "comprimiréis",
+    "3p": "comprimirán"
+  },
+  "CondS": {
+    "1s": "comprimiría",
+    "2s": "comprimirías",
+    "3s": "comprimiría",
+    "1p": "comprimiríamos",
+    "2p": "comprimiríais",
+    "3p": "comprimirían"
+  },
+  "PresC": {
+    "1s": "comprima",
+    "2s": "comprimas",
+    "3s": "comprima",
+    "1p": "comprimamos",
+    "2p": "comprimáis",
+    "3p": "compriman"
+  },
+  "PMQPSI": {
+    "1s": "comprimiera",
+    "2s": "comprimieras",
+    "3s": "comprimiera",
+    "1p": "comprimiéramos",
+    "2p": "comprimierais",
+    "3p": "comprimieran"
+  },
+  "PImpC": {
+    "1s": "comprimiese",
+    "2s": "comprimieses",
+    "3s": "comprimiese",
+    "1p": "comprimiésemos",
+    "2p": "comprimieseis",
+    "3p": "comprimiesen"
+  },
+  "FutSC": {
+    "1s": "comprimiere",
+    "2s": "comprimieres",
+    "3s": "comprimiere",
+    "1p": "comprimiéremos",
+    "2p": "comprimiereis",
+    "3p": "comprimieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comprime",
+    "3s": "comprima",
+    "1p": "comprimamos",
+    "2p": "comprimid",
+    "3p": "compriman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no comprimas",
+    "3s": "no comprima",
+    "1p": "no comprimamos",
+    "2p": "no comprimáis",
+    "3p": "no compriman"
+  },
+  "Part-ter": {
+    "": "comprimido"
+  },
+  "Part-ser": {
+    "ms": "comprimido",
+    "fs": "comprimida",
+    "mp": "comprimidos",
+    "fp": "comprimidas"
+  }
+}

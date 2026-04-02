@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escuitar"
+  },
+  "InfP": {
+    "1s": "escuitar",
+    "2s": "escuitares",
+    "3s": "escuitar",
+    "1p": "escuitarmos",
+    "2p": "escuitardes",
+    "3p": "escuitarem"
+  },
+  "Ger": {
+    "": "escuitando"
+  },
+  "PresI": {
+    "1s": "escuito",
+    "2s": "escuitas",
+    "3s": "escuita",
+    "1p": "escuitamos",
+    "2p": "escuitais",
+    "3p": "escuitam"
+  },
+  "PImpI": {
+    "1s": "escuitava",
+    "2s": "escuitavas",
+    "3s": "escuitava",
+    "1p": "escuitávamos",
+    "2p": "escuitáveis",
+    "3p": "escuitavam"
+  },
+  "PPSI": {
+    "1s": "escuitei",
+    "2s": "escuitaste",
+    "3s": "escuitou",
+    "1p": "escuitámos",
+    "2p": "escuitastes",
+    "3p": "escuitaram"
+  },
+  "PMQPSI": {
+    "1s": "escuitara",
+    "2s": "escuitaras",
+    "3s": "escuitara",
+    "1p": "escuitáramos",
+    "2p": "escuitáreis",
+    "3p": "escuitaram"
+  },
+  "FutSI": {
+    "1s": "escuitarei",
+    "2s": "escuitarás",
+    "3s": "escuitará",
+    "1p": "escuitaremos",
+    "2p": "escuitareis",
+    "3p": "escuitarão"
+  },
+  "CondS": {
+    "1s": "escuitaria",
+    "2s": "escuitarias",
+    "3s": "escuitaria",
+    "1p": "escuitaríamos",
+    "2p": "escuitaríeis",
+    "3p": "escuitariam"
+  },
+  "PresC": {
+    "1s": "escuite",
+    "2s": "escuites",
+    "3s": "escuite",
+    "1p": "escuitemos",
+    "2p": "escuiteis",
+    "3p": "escuitem"
+  },
+  "PImpC": {
+    "1s": "escuitasse",
+    "2s": "escuitasses",
+    "3s": "escuitasse",
+    "1p": "escuitássemos",
+    "2p": "escuitásseis",
+    "3p": "escuitassem"
+  },
+  "FutSC": {
+    "1s": "escuitar",
+    "2s": "escuitares",
+    "3s": "escuitar",
+    "1p": "escuitarmos",
+    "2p": "escuitardes",
+    "3p": "escuitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escuita",
+    "3s": "escuite",
+    "1p": "escuitemos",
+    "2p": "escuitai",
+    "3p": "escuitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escuites",
+    "3s": "não escuite",
+    "1p": "não escuitemos",
+    "2p": "não escuiteis",
+    "3p": "não escuitem"
+  },
+  "Part-ter": {
+    "": "escuitado"
+  },
+  "Part-ser": {
+    "ms": "escuitado",
+    "fs": "escuitada",
+    "mp": "escuitados",
+    "fp": "escuitadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sapecar"
+  },
+  "InfP": {
+    "1s": "sapecar",
+    "2s": "sapecares",
+    "3s": "sapecar",
+    "1p": "sapecarmos",
+    "2p": "sapecardes",
+    "3p": "sapecarem"
+  },
+  "Ger": {
+    "": "sapecando"
+  },
+  "PresI": {
+    "1s": "sapeco",
+    "2s": "sapecas",
+    "3s": "sapeca",
+    "1p": "sapecamos",
+    "2p": "sapecais",
+    "3p": "sapecam"
+  },
+  "PImpI": {
+    "1s": "sapecava",
+    "2s": "sapecavas",
+    "3s": "sapecava",
+    "1p": "sapecávamos",
+    "2p": "sapecáveis",
+    "3p": "sapecavam"
+  },
+  "PPSI": {
+    "1s": "sapequei",
+    "2s": "sapecaste",
+    "3s": "sapecou",
+    "1p": "sapecámos",
+    "2p": "sapecastes",
+    "3p": "sapecaram"
+  },
+  "PMQPSI": {
+    "1s": "sapecara",
+    "2s": "sapecaras",
+    "3s": "sapecara",
+    "1p": "sapecáramos",
+    "2p": "sapecáreis",
+    "3p": "sapecaram"
+  },
+  "FutSI": {
+    "1s": "sapecarei",
+    "2s": "sapecarás",
+    "3s": "sapecará",
+    "1p": "sapecaremos",
+    "2p": "sapecareis",
+    "3p": "sapecarão"
+  },
+  "CondS": {
+    "1s": "sapecaria",
+    "2s": "sapecarias",
+    "3s": "sapecaria",
+    "1p": "sapecaríamos",
+    "2p": "sapecaríeis",
+    "3p": "sapecariam"
+  },
+  "PresC": {
+    "1s": "sapeque",
+    "2s": "sapeques",
+    "3s": "sapeque",
+    "1p": "sapequemos",
+    "2p": "sapequeis",
+    "3p": "sapequem"
+  },
+  "PImpC": {
+    "1s": "sapecasse",
+    "2s": "sapecasses",
+    "3s": "sapecasse",
+    "1p": "sapecássemos",
+    "2p": "sapecásseis",
+    "3p": "sapecassem"
+  },
+  "FutSC": {
+    "1s": "sapecar",
+    "2s": "sapecares",
+    "3s": "sapecar",
+    "1p": "sapecarmos",
+    "2p": "sapecardes",
+    "3p": "sapecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sapeca",
+    "3s": "sapeque",
+    "1p": "sapequemos",
+    "2p": "sapecai",
+    "3p": "sapequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sapeques",
+    "3s": "não sapeque",
+    "1p": "não sapequemos",
+    "2p": "não sapequeis",
+    "3p": "não sapequem"
+  },
+  "Part-ter": {
+    "": "sapecado"
+  },
+  "Part-ser": {
+    "ms": "sapecado",
+    "fs": "sapecada",
+    "mp": "sapecados",
+    "fp": "sapecadas"
+  }
+}

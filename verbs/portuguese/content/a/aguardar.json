@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aguardar"
+  },
+  "InfP": {
+    "1s": "aguardar",
+    "2s": "aguardares",
+    "3s": "aguardar",
+    "1p": "aguardarmos",
+    "2p": "aguardardes",
+    "3p": "aguardarem"
+  },
+  "Ger": {
+    "": "aguardando"
+  },
+  "PresI": {
+    "1s": "aguardo",
+    "2s": "aguardas",
+    "3s": "aguarda",
+    "1p": "aguardamos",
+    "2p": "aguardais",
+    "3p": "aguardam"
+  },
+  "PImpI": {
+    "1s": "aguardava",
+    "2s": "aguardavas",
+    "3s": "aguardava",
+    "1p": "aguardávamos",
+    "2p": "aguardáveis",
+    "3p": "aguardavam"
+  },
+  "PPSI": {
+    "1s": "aguardei",
+    "2s": "aguardaste",
+    "3s": "aguardou",
+    "1p": "aguardámos",
+    "2p": "aguardastes",
+    "3p": "aguardaram"
+  },
+  "PMQPSI": {
+    "1s": "aguardara",
+    "2s": "aguardaras",
+    "3s": "aguardara",
+    "1p": "aguardáramos",
+    "2p": "aguardáreis",
+    "3p": "aguardaram"
+  },
+  "FutSI": {
+    "1s": "aguardarei",
+    "2s": "aguardarás",
+    "3s": "aguardará",
+    "1p": "aguardaremos",
+    "2p": "aguardareis",
+    "3p": "aguardarão"
+  },
+  "CondS": {
+    "1s": "aguardaria",
+    "2s": "aguardarias",
+    "3s": "aguardaria",
+    "1p": "aguardaríamos",
+    "2p": "aguardaríeis",
+    "3p": "aguardariam"
+  },
+  "PresC": {
+    "1s": "aguarde",
+    "2s": "aguardes",
+    "3s": "aguarde",
+    "1p": "aguardemos",
+    "2p": "aguardeis",
+    "3p": "aguardem"
+  },
+  "PImpC": {
+    "1s": "aguardasse",
+    "2s": "aguardasses",
+    "3s": "aguardasse",
+    "1p": "aguardássemos",
+    "2p": "aguardásseis",
+    "3p": "aguardassem"
+  },
+  "FutSC": {
+    "1s": "aguardar",
+    "2s": "aguardares",
+    "3s": "aguardar",
+    "1p": "aguardarmos",
+    "2p": "aguardardes",
+    "3p": "aguardarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aguarda",
+    "3s": "aguarde",
+    "1p": "aguardemos",
+    "2p": "aguardai",
+    "3p": "aguardem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aguardes",
+    "3s": "não aguarde",
+    "1p": "não aguardemos",
+    "2p": "não aguardeis",
+    "3p": "não aguardem"
+  },
+  "Part-ter": {
+    "": "aguardado"
+  },
+  "Part-ser": {
+    "ms": "aguardado",
+    "fs": "aguardada",
+    "mp": "aguardados",
+    "fp": "aguardadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "concentrar"
+  },
+  "InfP": {
+    "1s": "concentrar",
+    "2s": "concentrares",
+    "3s": "concentrar",
+    "1p": "concentrarmos",
+    "2p": "concentrardes",
+    "3p": "concentrarem"
+  },
+  "Ger": {
+    "": "concentrando"
+  },
+  "PresI": {
+    "1s": "concentro",
+    "2s": "concentras",
+    "3s": "concentra",
+    "1p": "concentramos",
+    "2p": "concentrais",
+    "3p": "concentram"
+  },
+  "PImpI": {
+    "1s": "concentrava",
+    "2s": "concentravas",
+    "3s": "concentrava",
+    "1p": "concentrávamos",
+    "2p": "concentráveis",
+    "3p": "concentravam"
+  },
+  "PPSI": {
+    "1s": "concentrei",
+    "2s": "concentraste",
+    "3s": "concentrou",
+    "1p": "concentrámos",
+    "2p": "concentrastes",
+    "3p": "concentraram"
+  },
+  "PMQPSI": {
+    "1s": "concentrara",
+    "2s": "concentraras",
+    "3s": "concentrara",
+    "1p": "concentráramos",
+    "2p": "concentráreis",
+    "3p": "concentraram"
+  },
+  "FutSI": {
+    "1s": "concentrarei",
+    "2s": "concentrarás",
+    "3s": "concentrará",
+    "1p": "concentraremos",
+    "2p": "concentrareis",
+    "3p": "concentrarão"
+  },
+  "CondS": {
+    "1s": "concentraria",
+    "2s": "concentrarias",
+    "3s": "concentraria",
+    "1p": "concentraríamos",
+    "2p": "concentraríeis",
+    "3p": "concentrariam"
+  },
+  "PresC": {
+    "1s": "concentre",
+    "2s": "concentres",
+    "3s": "concentre",
+    "1p": "concentremos",
+    "2p": "concentreis",
+    "3p": "concentrem"
+  },
+  "PImpC": {
+    "1s": "concentrasse",
+    "2s": "concentrasses",
+    "3s": "concentrasse",
+    "1p": "concentrássemos",
+    "2p": "concentrásseis",
+    "3p": "concentrassem"
+  },
+  "FutSC": {
+    "1s": "concentrar",
+    "2s": "concentrares",
+    "3s": "concentrar",
+    "1p": "concentrarmos",
+    "2p": "concentrardes",
+    "3p": "concentrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "concentra",
+    "3s": "concentre",
+    "1p": "concentremos",
+    "2p": "concentrai",
+    "3p": "concentrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não concentres",
+    "3s": "não concentre",
+    "1p": "não concentremos",
+    "2p": "não concentreis",
+    "3p": "não concentrem"
+  },
+  "Part-ter": {
+    "": "concentrado"
+  },
+  "Part-ser": {
+    "ms": "concentrado",
+    "fs": "concentrada",
+    "mp": "concentrados",
+    "fp": "concentradas"
+  }
+}

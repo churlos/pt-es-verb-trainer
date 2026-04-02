@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descongelar"
+  },
+  "Ger": {
+    "": "descongelando"
+  },
+  "PresI": {
+    "1s": "descongelo",
+    "2s": "descongelas",
+    "3s": "descongela",
+    "1p": "descongelamos",
+    "2p": "descongeláis",
+    "3p": "descongelan"
+  },
+  "PImpI": {
+    "1s": "descongelaba",
+    "2s": "descongelabas",
+    "3s": "descongelaba",
+    "1p": "descongelábamos",
+    "2p": "descongelabais",
+    "3p": "descongelaban"
+  },
+  "PPSI": {
+    "1s": "descongelé",
+    "2s": "descongelaste",
+    "3s": "descongeló",
+    "1p": "descongelamos",
+    "2p": "descongelasteis",
+    "3p": "descongelaron"
+  },
+  "FutSI": {
+    "1s": "descongelaré",
+    "2s": "descongelarás",
+    "3s": "descongelará",
+    "1p": "descongelaremos",
+    "2p": "descongelaréis",
+    "3p": "descongelarán"
+  },
+  "CondS": {
+    "1s": "descongelaría",
+    "2s": "descongelarías",
+    "3s": "descongelaría",
+    "1p": "descongelaríamos",
+    "2p": "descongelaríais",
+    "3p": "descongelarían"
+  },
+  "PresC": {
+    "1s": "descongele",
+    "2s": "descongeles",
+    "3s": "descongele",
+    "1p": "descongelemos",
+    "2p": "descongeléis",
+    "3p": "descongelen"
+  },
+  "PMQPSI": {
+    "1s": "descongelara",
+    "2s": "descongelaras",
+    "3s": "descongelara",
+    "1p": "descongeláramos",
+    "2p": "descongelarais",
+    "3p": "descongelaran"
+  },
+  "PImpC": {
+    "1s": "descongelase",
+    "2s": "descongelases",
+    "3s": "descongelase",
+    "1p": "descongelásemos",
+    "2p": "descongelaseis",
+    "3p": "descongelasen"
+  },
+  "FutSC": {
+    "1s": "descongelare",
+    "2s": "descongelares",
+    "3s": "descongelare",
+    "1p": "descongeláremos",
+    "2p": "descongelareis",
+    "3p": "descongelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descongela",
+    "3s": "descongele",
+    "1p": "descongelemos",
+    "2p": "descongelad",
+    "3p": "descongelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no descongeles",
+    "3s": "no descongele",
+    "1p": "no descongelemos",
+    "2p": "no descongeléis",
+    "3p": "no descongelen"
+  },
+  "Part-ter": {
+    "": "descongelado"
+  },
+  "Part-ser": {
+    "ms": "descongelado",
+    "fs": "descongelada",
+    "mp": "descongelados",
+    "fp": "descongeladas"
+  }
+}

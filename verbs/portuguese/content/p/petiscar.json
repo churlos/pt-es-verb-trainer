@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "petiscar"
+  },
+  "InfP": {
+    "1s": "petiscar",
+    "2s": "petiscares",
+    "3s": "petiscar",
+    "1p": "petiscarmos",
+    "2p": "petiscardes",
+    "3p": "petiscarem"
+  },
+  "Ger": {
+    "": "petiscando"
+  },
+  "PresI": {
+    "1s": "petisco",
+    "2s": "petiscas",
+    "3s": "petisca",
+    "1p": "petiscamos",
+    "2p": "petiscais",
+    "3p": "petiscam"
+  },
+  "PImpI": {
+    "1s": "petiscava",
+    "2s": "petiscavas",
+    "3s": "petiscava",
+    "1p": "petiscávamos",
+    "2p": "petiscáveis",
+    "3p": "petiscavam"
+  },
+  "PPSI": {
+    "1s": "petisquei",
+    "2s": "petiscaste",
+    "3s": "petiscou",
+    "1p": "petiscámos",
+    "2p": "petiscastes",
+    "3p": "petiscaram"
+  },
+  "PMQPSI": {
+    "1s": "petiscara",
+    "2s": "petiscaras",
+    "3s": "petiscara",
+    "1p": "petiscáramos",
+    "2p": "petiscáreis",
+    "3p": "petiscaram"
+  },
+  "FutSI": {
+    "1s": "petiscarei",
+    "2s": "petiscarás",
+    "3s": "petiscará",
+    "1p": "petiscaremos",
+    "2p": "petiscareis",
+    "3p": "petiscarão"
+  },
+  "CondS": {
+    "1s": "petiscaria",
+    "2s": "petiscarias",
+    "3s": "petiscaria",
+    "1p": "petiscaríamos",
+    "2p": "petiscaríeis",
+    "3p": "petiscariam"
+  },
+  "PresC": {
+    "1s": "petisque",
+    "2s": "petisques",
+    "3s": "petisque",
+    "1p": "petisquemos",
+    "2p": "petisqueis",
+    "3p": "petisquem"
+  },
+  "PImpC": {
+    "1s": "petiscasse",
+    "2s": "petiscasses",
+    "3s": "petiscasse",
+    "1p": "petiscássemos",
+    "2p": "petiscásseis",
+    "3p": "petiscassem"
+  },
+  "FutSC": {
+    "1s": "petiscar",
+    "2s": "petiscares",
+    "3s": "petiscar",
+    "1p": "petiscarmos",
+    "2p": "petiscardes",
+    "3p": "petiscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "petisca",
+    "3s": "petisque",
+    "1p": "petisquemos",
+    "2p": "petiscai",
+    "3p": "petisquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não petisques",
+    "3s": "não petisque",
+    "1p": "não petisquemos",
+    "2p": "não petisqueis",
+    "3p": "não petisquem"
+  },
+  "Part-ter": {
+    "": "petiscado"
+  },
+  "Part-ser": {
+    "ms": "petiscado",
+    "fs": "petiscada",
+    "mp": "petiscados",
+    "fp": "petiscadas"
+  }
+}

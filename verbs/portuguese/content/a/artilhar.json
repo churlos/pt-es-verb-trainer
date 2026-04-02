@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "artilhar"
+  },
+  "InfP": {
+    "1s": "artilhar",
+    "2s": "artilhares",
+    "3s": "artilhar",
+    "1p": "artilharmos",
+    "2p": "artilhardes",
+    "3p": "artilharem"
+  },
+  "Ger": {
+    "": "artilhando"
+  },
+  "PresI": {
+    "1s": "artilho",
+    "2s": "artilhas",
+    "3s": "artilha",
+    "1p": "artilhamos",
+    "2p": "artilhais",
+    "3p": "artilham"
+  },
+  "PImpI": {
+    "1s": "artilhava",
+    "2s": "artilhavas",
+    "3s": "artilhava",
+    "1p": "artilhávamos",
+    "2p": "artilháveis",
+    "3p": "artilhavam"
+  },
+  "PPSI": {
+    "1s": "artilhei",
+    "2s": "artilhaste",
+    "3s": "artilhou",
+    "1p": "artilhámos",
+    "2p": "artilhastes",
+    "3p": "artilharam"
+  },
+  "PMQPSI": {
+    "1s": "artilhara",
+    "2s": "artilharas",
+    "3s": "artilhara",
+    "1p": "artilháramos",
+    "2p": "artilháreis",
+    "3p": "artilharam"
+  },
+  "FutSI": {
+    "1s": "artilharei",
+    "2s": "artilharás",
+    "3s": "artilhará",
+    "1p": "artilharemos",
+    "2p": "artilhareis",
+    "3p": "artilharão"
+  },
+  "CondS": {
+    "1s": "artilharia",
+    "2s": "artilharias",
+    "3s": "artilharia",
+    "1p": "artilharíamos",
+    "2p": "artilharíeis",
+    "3p": "artilhariam"
+  },
+  "PresC": {
+    "1s": "artilhe",
+    "2s": "artilhes",
+    "3s": "artilhe",
+    "1p": "artilhemos",
+    "2p": "artilheis",
+    "3p": "artilhem"
+  },
+  "PImpC": {
+    "1s": "artilhasse",
+    "2s": "artilhasses",
+    "3s": "artilhasse",
+    "1p": "artilhássemos",
+    "2p": "artilhásseis",
+    "3p": "artilhassem"
+  },
+  "FutSC": {
+    "1s": "artilhar",
+    "2s": "artilhares",
+    "3s": "artilhar",
+    "1p": "artilharmos",
+    "2p": "artilhardes",
+    "3p": "artilharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "artilha",
+    "3s": "artilhe",
+    "1p": "artilhemos",
+    "2p": "artilhai",
+    "3p": "artilhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não artilhes",
+    "3s": "não artilhe",
+    "1p": "não artilhemos",
+    "2p": "não artilheis",
+    "3p": "não artilhem"
+  },
+  "Part-ter": {
+    "": "artilhado"
+  },
+  "Part-ser": {
+    "ms": "artilhado",
+    "fs": "artilhada",
+    "mp": "artilhados",
+    "fp": "artilhadas"
+  }
+}

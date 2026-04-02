@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ricochetear"
+  },
+  "InfP": {
+    "1s": "ricochetear",
+    "2s": "ricocheteares",
+    "3s": "ricochetear",
+    "1p": "ricochetearmos",
+    "2p": "ricocheteardes",
+    "3p": "ricochetearem"
+  },
+  "Ger": {
+    "": "ricocheteando"
+  },
+  "PresI": {
+    "1s": "ricocheteio",
+    "2s": "ricocheteias",
+    "3s": "ricocheteia",
+    "1p": "ricocheteamos",
+    "2p": "ricocheteais",
+    "3p": "ricocheteiam"
+  },
+  "PImpI": {
+    "1s": "ricocheteava",
+    "2s": "ricocheteavas",
+    "3s": "ricocheteava",
+    "1p": "ricocheteávamos",
+    "2p": "ricocheteáveis",
+    "3p": "ricocheteavam"
+  },
+  "PPSI": {
+    "1s": "ricocheteei",
+    "2s": "ricocheteaste",
+    "3s": "ricocheteou",
+    "1p": "ricocheteámos",
+    "2p": "ricocheteastes",
+    "3p": "ricochetearam"
+  },
+  "PMQPSI": {
+    "1s": "ricocheteara",
+    "2s": "ricochetearas",
+    "3s": "ricocheteara",
+    "1p": "ricocheteáramos",
+    "2p": "ricocheteáreis",
+    "3p": "ricochetearam"
+  },
+  "FutSI": {
+    "1s": "ricochetearei",
+    "2s": "ricochetearás",
+    "3s": "ricocheteará",
+    "1p": "ricochetearemos",
+    "2p": "ricocheteareis",
+    "3p": "ricochetearão"
+  },
+  "CondS": {
+    "1s": "ricochetearia",
+    "2s": "ricochetearias",
+    "3s": "ricochetearia",
+    "1p": "ricochetearíamos",
+    "2p": "ricochetearíeis",
+    "3p": "ricocheteariam"
+  },
+  "PresC": {
+    "1s": "ricocheteie",
+    "2s": "ricocheteies",
+    "3s": "ricocheteie",
+    "1p": "ricocheteemos",
+    "2p": "ricocheteeis",
+    "3p": "ricocheteiem"
+  },
+  "PImpC": {
+    "1s": "ricocheteasse",
+    "2s": "ricocheteasses",
+    "3s": "ricocheteasse",
+    "1p": "ricocheteássemos",
+    "2p": "ricocheteásseis",
+    "3p": "ricocheteassem"
+  },
+  "FutSC": {
+    "1s": "ricochetear",
+    "2s": "ricocheteares",
+    "3s": "ricochetear",
+    "1p": "ricochetearmos",
+    "2p": "ricocheteardes",
+    "3p": "ricochetearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ricocheteia",
+    "3s": "ricocheteie",
+    "1p": "ricocheteemos",
+    "2p": "ricocheteai",
+    "3p": "ricocheteiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ricocheteies",
+    "3s": "não ricocheteie",
+    "1p": "não ricocheteemos",
+    "2p": "não ricocheteeis",
+    "3p": "não ricocheteiem"
+  },
+  "Part-ter": {
+    "": "ricocheteado"
+  },
+  "Part-ser": {
+    "ms": "ricocheteado",
+    "fs": "ricocheteada",
+    "mp": "ricocheteados",
+    "fp": "ricocheteadas"
+  }
+}

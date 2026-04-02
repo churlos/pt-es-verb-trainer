@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoconsumir"
+  },
+  "Ger": {
+    "": "autoconsumiendo"
+  },
+  "PresI": {
+    "1s": "autoconsumo",
+    "2s": "autoconsumes",
+    "3s": "autoconsume",
+    "1p": "autoconsumimos",
+    "2p": "autoconsumís",
+    "3p": "autoconsumen"
+  },
+  "PImpI": {
+    "1s": "autoconsumía",
+    "2s": "autoconsumías",
+    "3s": "autoconsumía",
+    "1p": "autoconsumíamos",
+    "2p": "autoconsumíais",
+    "3p": "autoconsumían"
+  },
+  "PPSI": {
+    "1s": "autoconsumí",
+    "2s": "autoconsumiste",
+    "3s": "autoconsumió",
+    "1p": "autoconsumimos",
+    "2p": "autoconsumisteis",
+    "3p": "autoconsumieron"
+  },
+  "FutSI": {
+    "1s": "autoconsumiré",
+    "2s": "autoconsumirás",
+    "3s": "autoconsumirá",
+    "1p": "autoconsumiremos",
+    "2p": "autoconsumiréis",
+    "3p": "autoconsumirán"
+  },
+  "CondS": {
+    "1s": "autoconsumiría",
+    "2s": "autoconsumirías",
+    "3s": "autoconsumiría",
+    "1p": "autoconsumiríamos",
+    "2p": "autoconsumiríais",
+    "3p": "autoconsumirían"
+  },
+  "PresC": {
+    "1s": "autoconsuma",
+    "2s": "autoconsumas",
+    "3s": "autoconsuma",
+    "1p": "autoconsumamos",
+    "2p": "autoconsumáis",
+    "3p": "autoconsuman"
+  },
+  "PMQPSI": {
+    "1s": "autoconsumiera",
+    "2s": "autoconsumieras",
+    "3s": "autoconsumiera",
+    "1p": "autoconsumiéramos",
+    "2p": "autoconsumierais",
+    "3p": "autoconsumieran"
+  },
+  "PImpC": {
+    "1s": "autoconsumiese",
+    "2s": "autoconsumieses",
+    "3s": "autoconsumiese",
+    "1p": "autoconsumiésemos",
+    "2p": "autoconsumieseis",
+    "3p": "autoconsumiesen"
+  },
+  "FutSC": {
+    "1s": "autoconsumiere",
+    "2s": "autoconsumieres",
+    "3s": "autoconsumiere",
+    "1p": "autoconsumiéremos",
+    "2p": "autoconsumiereis",
+    "3p": "autoconsumieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoconsume",
+    "3s": "autoconsuma",
+    "1p": "autoconsumamos",
+    "2p": "autoconsumid",
+    "3p": "autoconsuman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autoconsumas",
+    "3s": "no autoconsuma",
+    "1p": "no autoconsumamos",
+    "2p": "no autoconsumáis",
+    "3p": "no autoconsuman"
+  },
+  "Part-ter": {
+    "": "autoconsumido"
+  },
+  "Part-ser": {
+    "ms": "autoconsumido",
+    "fs": "autoconsumida",
+    "mp": "autoconsumidos",
+    "fp": "autoconsumidas"
+  }
+}

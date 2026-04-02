@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "combatir"
+  },
+  "Ger": {
+    "": "combatiendo"
+  },
+  "PresI": {
+    "1s": "combato",
+    "2s": "combates",
+    "3s": "combate",
+    "1p": "combatimos",
+    "2p": "combatís",
+    "3p": "combaten"
+  },
+  "PImpI": {
+    "1s": "combatía",
+    "2s": "combatías",
+    "3s": "combatía",
+    "1p": "combatíamos",
+    "2p": "combatíais",
+    "3p": "combatían"
+  },
+  "PPSI": {
+    "1s": "combatí",
+    "2s": "combatiste",
+    "3s": "combatió",
+    "1p": "combatimos",
+    "2p": "combatisteis",
+    "3p": "combatieron"
+  },
+  "FutSI": {
+    "1s": "combatiré",
+    "2s": "combatirás",
+    "3s": "combatirá",
+    "1p": "combatiremos",
+    "2p": "combatiréis",
+    "3p": "combatirán"
+  },
+  "CondS": {
+    "1s": "combatiría",
+    "2s": "combatirías",
+    "3s": "combatiría",
+    "1p": "combatiríamos",
+    "2p": "combatiríais",
+    "3p": "combatirían"
+  },
+  "PresC": {
+    "1s": "combata",
+    "2s": "combatas",
+    "3s": "combata",
+    "1p": "combatamos",
+    "2p": "combatáis",
+    "3p": "combatan"
+  },
+  "PMQPSI": {
+    "1s": "combatiera",
+    "2s": "combatieras",
+    "3s": "combatiera",
+    "1p": "combatiéramos",
+    "2p": "combatierais",
+    "3p": "combatieran"
+  },
+  "PImpC": {
+    "1s": "combatiese",
+    "2s": "combatieses",
+    "3s": "combatiese",
+    "1p": "combatiésemos",
+    "2p": "combatieseis",
+    "3p": "combatiesen"
+  },
+  "FutSC": {
+    "1s": "combatiere",
+    "2s": "combatieres",
+    "3s": "combatiere",
+    "1p": "combatiéremos",
+    "2p": "combatiereis",
+    "3p": "combatieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "combate",
+    "3s": "combata",
+    "1p": "combatamos",
+    "2p": "combatid",
+    "3p": "combatan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no combatas",
+    "3s": "no combata",
+    "1p": "no combatamos",
+    "2p": "no combatáis",
+    "3p": "no combatan"
+  },
+  "Part-ter": {
+    "": "combatido"
+  },
+  "Part-ser": {
+    "ms": "combatido",
+    "fs": "combatida",
+    "mp": "combatidos",
+    "fp": "combatidas"
+  }
+}

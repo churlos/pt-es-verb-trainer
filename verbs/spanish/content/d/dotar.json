@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dotar"
+  },
+  "Ger": {
+    "": "dotando"
+  },
+  "PresI": {
+    "1s": "doto",
+    "2s": "dotas",
+    "3s": "dota",
+    "1p": "dotamos",
+    "2p": "dotáis",
+    "3p": "dotan"
+  },
+  "PImpI": {
+    "1s": "dotaba",
+    "2s": "dotabas",
+    "3s": "dotaba",
+    "1p": "dotábamos",
+    "2p": "dotabais",
+    "3p": "dotaban"
+  },
+  "PPSI": {
+    "1s": "doté",
+    "2s": "dotaste",
+    "3s": "dotó",
+    "1p": "dotamos",
+    "2p": "dotasteis",
+    "3p": "dotaron"
+  },
+  "FutSI": {
+    "1s": "dotaré",
+    "2s": "dotarás",
+    "3s": "dotará",
+    "1p": "dotaremos",
+    "2p": "dotaréis",
+    "3p": "dotarán"
+  },
+  "CondS": {
+    "1s": "dotaría",
+    "2s": "dotarías",
+    "3s": "dotaría",
+    "1p": "dotaríamos",
+    "2p": "dotaríais",
+    "3p": "dotarían"
+  },
+  "PresC": {
+    "1s": "dote",
+    "2s": "dotes",
+    "3s": "dote",
+    "1p": "dotemos",
+    "2p": "dotéis",
+    "3p": "doten"
+  },
+  "PMQPSI": {
+    "1s": "dotara",
+    "2s": "dotaras",
+    "3s": "dotara",
+    "1p": "dotáramos",
+    "2p": "dotarais",
+    "3p": "dotaran"
+  },
+  "PImpC": {
+    "1s": "dotase",
+    "2s": "dotases",
+    "3s": "dotase",
+    "1p": "dotásemos",
+    "2p": "dotaseis",
+    "3p": "dotasen"
+  },
+  "FutSC": {
+    "1s": "dotare",
+    "2s": "dotares",
+    "3s": "dotare",
+    "1p": "dotáremos",
+    "2p": "dotareis",
+    "3p": "dotaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dota",
+    "3s": "dote",
+    "1p": "dotemos",
+    "2p": "dotad",
+    "3p": "doten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dotes",
+    "3s": "no dote",
+    "1p": "no dotemos",
+    "2p": "no dotéis",
+    "3p": "no doten"
+  },
+  "Part-ter": {
+    "": "dotado"
+  },
+  "Part-ser": {
+    "ms": "dotado",
+    "fs": "dotada",
+    "mp": "dotados",
+    "fp": "dotadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "litigar"
+  },
+  "Ger": {
+    "": "litigando"
+  },
+  "PresI": {
+    "1s": "litigo",
+    "2s": "litigas",
+    "3s": "litiga",
+    "1p": "litigamos",
+    "2p": "litigáis",
+    "3p": "litigan"
+  },
+  "PImpI": {
+    "1s": "litigaba",
+    "2s": "litigabas",
+    "3s": "litigaba",
+    "1p": "litigábamos",
+    "2p": "litigabais",
+    "3p": "litigaban"
+  },
+  "PPSI": {
+    "1s": "litigué",
+    "2s": "litigaste",
+    "3s": "litigó",
+    "1p": "litigamos",
+    "2p": "litigasteis",
+    "3p": "litigaron"
+  },
+  "FutSI": {
+    "1s": "litigaré",
+    "2s": "litigarás",
+    "3s": "litigará",
+    "1p": "litigaremos",
+    "2p": "litigaréis",
+    "3p": "litigarán"
+  },
+  "CondS": {
+    "1s": "litigaría",
+    "2s": "litigarías",
+    "3s": "litigaría",
+    "1p": "litigaríamos",
+    "2p": "litigaríais",
+    "3p": "litigarían"
+  },
+  "PresC": {
+    "1s": "litigue",
+    "2s": "litigues",
+    "3s": "litigue",
+    "1p": "litiguemos",
+    "2p": "litiguéis",
+    "3p": "litiguen"
+  },
+  "PMQPSI": {
+    "1s": "litigara",
+    "2s": "litigaras",
+    "3s": "litigara",
+    "1p": "litigáramos",
+    "2p": "litigarais",
+    "3p": "litigaran"
+  },
+  "PImpC": {
+    "1s": "litigase",
+    "2s": "litigases",
+    "3s": "litigase",
+    "1p": "litigásemos",
+    "2p": "litigaseis",
+    "3p": "litigasen"
+  },
+  "FutSC": {
+    "1s": "litigare",
+    "2s": "litigares",
+    "3s": "litigare",
+    "1p": "litigáremos",
+    "2p": "litigareis",
+    "3p": "litigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "litiga",
+    "3s": "litigue",
+    "1p": "litiguemos",
+    "2p": "litigad",
+    "3p": "litiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no litigues",
+    "3s": "no litigue",
+    "1p": "no litiguemos",
+    "2p": "no litiguéis",
+    "3p": "no litiguen"
+  },
+  "Part-ter": {
+    "": "litigado"
+  },
+  "Part-ser": {
+    "ms": "litigado",
+    "fs": "litigada",
+    "mp": "litigados",
+    "fp": "litigadas"
+  }
+}

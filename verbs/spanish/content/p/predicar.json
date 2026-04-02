@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "predicar"
+  },
+  "Ger": {
+    "": "predicando"
+  },
+  "PresI": {
+    "1s": "predico",
+    "2s": "predicas",
+    "3s": "predica",
+    "1p": "predicamos",
+    "2p": "predicáis",
+    "3p": "predican"
+  },
+  "PImpI": {
+    "1s": "predicaba",
+    "2s": "predicabas",
+    "3s": "predicaba",
+    "1p": "predicábamos",
+    "2p": "predicabais",
+    "3p": "predicaban"
+  },
+  "PPSI": {
+    "1s": "prediqué",
+    "2s": "predicaste",
+    "3s": "predicó",
+    "1p": "predicamos",
+    "2p": "predicasteis",
+    "3p": "predicaron"
+  },
+  "FutSI": {
+    "1s": "predicaré",
+    "2s": "predicarás",
+    "3s": "predicará",
+    "1p": "predicaremos",
+    "2p": "predicaréis",
+    "3p": "predicarán"
+  },
+  "CondS": {
+    "1s": "predicaría",
+    "2s": "predicarías",
+    "3s": "predicaría",
+    "1p": "predicaríamos",
+    "2p": "predicaríais",
+    "3p": "predicarían"
+  },
+  "PresC": {
+    "1s": "predique",
+    "2s": "prediques",
+    "3s": "predique",
+    "1p": "prediquemos",
+    "2p": "prediquéis",
+    "3p": "prediquen"
+  },
+  "PMQPSI": {
+    "1s": "predicara",
+    "2s": "predicaras",
+    "3s": "predicara",
+    "1p": "predicáramos",
+    "2p": "predicarais",
+    "3p": "predicaran"
+  },
+  "PImpC": {
+    "1s": "predicase",
+    "2s": "predicases",
+    "3s": "predicase",
+    "1p": "predicásemos",
+    "2p": "predicaseis",
+    "3p": "predicasen"
+  },
+  "FutSC": {
+    "1s": "predicare",
+    "2s": "predicares",
+    "3s": "predicare",
+    "1p": "predicáremos",
+    "2p": "predicareis",
+    "3p": "predicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "predica",
+    "3s": "predique",
+    "1p": "prediquemos",
+    "2p": "predicad",
+    "3p": "prediquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no prediques",
+    "3s": "no predique",
+    "1p": "no prediquemos",
+    "2p": "no prediquéis",
+    "3p": "no prediquen"
+  },
+  "Part-ter": {
+    "": "predicado"
+  },
+  "Part-ser": {
+    "ms": "predicado",
+    "fs": "predicada",
+    "mp": "predicados",
+    "fp": "predicadas"
+  }
+}

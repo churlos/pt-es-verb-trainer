@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "metalizar"
+  },
+  "Ger": {
+    "": "metalizando"
+  },
+  "PresI": {
+    "1s": "metalizo",
+    "2s": "metalizas",
+    "3s": "metaliza",
+    "1p": "metalizamos",
+    "2p": "metalizáis",
+    "3p": "metalizan"
+  },
+  "PImpI": {
+    "1s": "metalizaba",
+    "2s": "metalizabas",
+    "3s": "metalizaba",
+    "1p": "metalizábamos",
+    "2p": "metalizabais",
+    "3p": "metalizaban"
+  },
+  "PPSI": {
+    "1s": "metalicé",
+    "2s": "metalizaste",
+    "3s": "metalizó",
+    "1p": "metalizamos",
+    "2p": "metalizasteis",
+    "3p": "metalizaron"
+  },
+  "FutSI": {
+    "1s": "metalizaré",
+    "2s": "metalizarás",
+    "3s": "metalizará",
+    "1p": "metalizaremos",
+    "2p": "metalizaréis",
+    "3p": "metalizarán"
+  },
+  "CondS": {
+    "1s": "metalizaría",
+    "2s": "metalizarías",
+    "3s": "metalizaría",
+    "1p": "metalizaríamos",
+    "2p": "metalizaríais",
+    "3p": "metalizarían"
+  },
+  "PresC": {
+    "1s": "metalice",
+    "2s": "metalices",
+    "3s": "metalice",
+    "1p": "metalicemos",
+    "2p": "metalicéis",
+    "3p": "metalicen"
+  },
+  "PMQPSI": {
+    "1s": "metalizara",
+    "2s": "metalizaras",
+    "3s": "metalizara",
+    "1p": "metalizáramos",
+    "2p": "metalizarais",
+    "3p": "metalizaran"
+  },
+  "PImpC": {
+    "1s": "metalizase",
+    "2s": "metalizases",
+    "3s": "metalizase",
+    "1p": "metalizásemos",
+    "2p": "metalizaseis",
+    "3p": "metalizasen"
+  },
+  "FutSC": {
+    "1s": "metalizare",
+    "2s": "metalizares",
+    "3s": "metalizare",
+    "1p": "metalizáremos",
+    "2p": "metalizareis",
+    "3p": "metalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "metaliza",
+    "3s": "metalice",
+    "1p": "metalicemos",
+    "2p": "metalizad",
+    "3p": "metalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no metalices",
+    "3s": "no metalice",
+    "1p": "no metalicemos",
+    "2p": "no metalicéis",
+    "3p": "no metalicen"
+  },
+  "Part-ter": {
+    "": "metalizado"
+  },
+  "Part-ser": {
+    "ms": "metalizado",
+    "fs": "metalizada",
+    "mp": "metalizados",
+    "fp": "metalizadas"
+  }
+}

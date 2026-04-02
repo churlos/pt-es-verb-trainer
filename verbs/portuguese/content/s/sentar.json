@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sentar"
+  },
+  "InfP": {
+    "1s": "sentar",
+    "2s": "sentares",
+    "3s": "sentar",
+    "1p": "sentarmos",
+    "2p": "sentardes",
+    "3p": "sentarem"
+  },
+  "Ger": {
+    "": "sentando"
+  },
+  "PresI": {
+    "1s": "sento",
+    "2s": "sentas",
+    "3s": "senta",
+    "1p": "sentamos",
+    "2p": "sentais",
+    "3p": "sentam"
+  },
+  "PImpI": {
+    "1s": "sentava",
+    "2s": "sentavas",
+    "3s": "sentava",
+    "1p": "sentávamos",
+    "2p": "sentáveis",
+    "3p": "sentavam"
+  },
+  "PPSI": {
+    "1s": "sentei",
+    "2s": "sentaste",
+    "3s": "sentou",
+    "1p": "sentámos",
+    "2p": "sentastes",
+    "3p": "sentaram"
+  },
+  "PMQPSI": {
+    "1s": "sentara",
+    "2s": "sentaras",
+    "3s": "sentara",
+    "1p": "sentáramos",
+    "2p": "sentáreis",
+    "3p": "sentaram"
+  },
+  "FutSI": {
+    "1s": "sentarei",
+    "2s": "sentarás",
+    "3s": "sentará",
+    "1p": "sentaremos",
+    "2p": "sentareis",
+    "3p": "sentarão"
+  },
+  "CondS": {
+    "1s": "sentaria",
+    "2s": "sentarias",
+    "3s": "sentaria",
+    "1p": "sentaríamos",
+    "2p": "sentaríeis",
+    "3p": "sentariam"
+  },
+  "PresC": {
+    "1s": "sente",
+    "2s": "sentes",
+    "3s": "sente",
+    "1p": "sentemos",
+    "2p": "senteis",
+    "3p": "sentem"
+  },
+  "PImpC": {
+    "1s": "sentasse",
+    "2s": "sentasses",
+    "3s": "sentasse",
+    "1p": "sentássemos",
+    "2p": "sentásseis",
+    "3p": "sentassem"
+  },
+  "FutSC": {
+    "1s": "sentar",
+    "2s": "sentares",
+    "3s": "sentar",
+    "1p": "sentarmos",
+    "2p": "sentardes",
+    "3p": "sentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "senta",
+    "3s": "sente",
+    "1p": "sentemos",
+    "2p": "sentai",
+    "3p": "sentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sentes",
+    "3s": "não sente",
+    "1p": "não sentemos",
+    "2p": "não senteis",
+    "3p": "não sentem"
+  },
+  "Part-ter": {
+    "": "sentado"
+  },
+  "Part-ser": {
+    "ms": "sentado",
+    "fs": "sentada",
+    "mp": "sentados",
+    "fp": "sentadas"
+  }
+}

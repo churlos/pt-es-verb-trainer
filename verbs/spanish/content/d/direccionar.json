@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "direccionar"
+  },
+  "Ger": {
+    "": "direccionando"
+  },
+  "PresI": {
+    "1s": "direcciono",
+    "2s": "direccionas",
+    "3s": "direcciona",
+    "1p": "direccionamos",
+    "2p": "direccionáis",
+    "3p": "direccionan"
+  },
+  "PImpI": {
+    "1s": "direccionaba",
+    "2s": "direccionabas",
+    "3s": "direccionaba",
+    "1p": "direccionábamos",
+    "2p": "direccionabais",
+    "3p": "direccionaban"
+  },
+  "PPSI": {
+    "1s": "direccioné",
+    "2s": "direccionaste",
+    "3s": "direccionó",
+    "1p": "direccionamos",
+    "2p": "direccionasteis",
+    "3p": "direccionaron"
+  },
+  "FutSI": {
+    "1s": "direccionaré",
+    "2s": "direccionarás",
+    "3s": "direccionará",
+    "1p": "direccionaremos",
+    "2p": "direccionaréis",
+    "3p": "direccionarán"
+  },
+  "CondS": {
+    "1s": "direccionaría",
+    "2s": "direccionarías",
+    "3s": "direccionaría",
+    "1p": "direccionaríamos",
+    "2p": "direccionaríais",
+    "3p": "direccionarían"
+  },
+  "PresC": {
+    "1s": "direccione",
+    "2s": "direcciones",
+    "3s": "direccione",
+    "1p": "direccionemos",
+    "2p": "direccionéis",
+    "3p": "direccionen"
+  },
+  "PMQPSI": {
+    "1s": "direccionara",
+    "2s": "direccionaras",
+    "3s": "direccionara",
+    "1p": "direccionáramos",
+    "2p": "direccionarais",
+    "3p": "direccionaran"
+  },
+  "PImpC": {
+    "1s": "direccionase",
+    "2s": "direccionases",
+    "3s": "direccionase",
+    "1p": "direccionásemos",
+    "2p": "direccionaseis",
+    "3p": "direccionasen"
+  },
+  "FutSC": {
+    "1s": "direccionare",
+    "2s": "direccionares",
+    "3s": "direccionare",
+    "1p": "direccionáremos",
+    "2p": "direccionareis",
+    "3p": "direccionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "direcciona",
+    "3s": "direccione",
+    "1p": "direccionemos",
+    "2p": "direccionad",
+    "3p": "direccionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no direcciones",
+    "3s": "no direccione",
+    "1p": "no direccionemos",
+    "2p": "no direccionéis",
+    "3p": "no direccionen"
+  },
+  "Part-ter": {
+    "": "direccionado"
+  },
+  "Part-ser": {
+    "ms": "direccionado",
+    "fs": "direccionada",
+    "mp": "direccionados",
+    "fp": "direccionadas"
+  }
+}

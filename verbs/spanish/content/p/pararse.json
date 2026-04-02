@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pararse"
+  },
+  "Ger": {
+    "": "parándose"
+  },
+  "PresI": {
+    "1s": "me paro",
+    "2s": "te paras",
+    "3s": "se para",
+    "1p": "nos paramos",
+    "2p": "os paráis",
+    "3p": "se paran"
+  },
+  "PImpI": {
+    "1s": "me paraba",
+    "2s": "te parabas",
+    "3s": "se paraba",
+    "1p": "nos parábamos",
+    "2p": "os parabais",
+    "3p": "se paraban"
+  },
+  "PPSI": {
+    "1s": "me paré",
+    "2s": "te paraste",
+    "3s": "se paró",
+    "1p": "nos paramos",
+    "2p": "os parasteis",
+    "3p": "se pararon"
+  },
+  "FutSI": {
+    "1s": "me pararé",
+    "2s": "te pararás",
+    "3s": "se parará",
+    "1p": "nos pararemos",
+    "2p": "os pararéis",
+    "3p": "se pararán"
+  },
+  "CondS": {
+    "1s": "me pararía",
+    "2s": "te pararías",
+    "3s": "se pararía",
+    "1p": "nos pararíamos",
+    "2p": "os pararíais",
+    "3p": "se pararían"
+  },
+  "PresC": {
+    "1s": "me pare",
+    "2s": "te pares",
+    "3s": "se pare",
+    "1p": "nos paremos",
+    "2p": "os paréis",
+    "3p": "se paren"
+  },
+  "PMQPSI": {
+    "1s": "me parara",
+    "2s": "te pararas",
+    "3s": "se parara",
+    "1p": "nos paráramos",
+    "2p": "os pararais",
+    "3p": "se pararan"
+  },
+  "PImpC": {
+    "1s": "me parase",
+    "2s": "te parases",
+    "3s": "se parase",
+    "1p": "nos parásemos",
+    "2p": "os paraseis",
+    "3p": "se parasen"
+  },
+  "FutSC": {
+    "1s": "me parare",
+    "2s": "te parares",
+    "3s": "se parare",
+    "1p": "nos paráremos",
+    "2p": "os parareis",
+    "3p": "se pararen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "párate",
+    "3s": "párese",
+    "1p": "parémonos",
+    "2p": "paraos",
+    "3p": "párense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te pares",
+    "3s": "no se pare",
+    "1p": "no nos paremos",
+    "2p": "no os paréis",
+    "3p": "no se paren"
+  },
+  "Part-ter": {
+    "": "parado"
+  },
+  "Part-ser": {
+    "ms": "parado",
+    "fs": "parada",
+    "mp": "parados",
+    "fp": "paradas"
+  }
+}

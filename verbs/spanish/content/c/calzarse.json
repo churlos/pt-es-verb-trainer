@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calzarse"
+  },
+  "Ger": {
+    "": "calzándose"
+  },
+  "PresI": {
+    "1s": "me calzo",
+    "2s": "te calzas",
+    "3s": "se calza",
+    "1p": "nos calzamos",
+    "2p": "os calzáis",
+    "3p": "se calzan"
+  },
+  "PImpI": {
+    "1s": "me calzaba",
+    "2s": "te calzabas",
+    "3s": "se calzaba",
+    "1p": "nos calzábamos",
+    "2p": "os calzabais",
+    "3p": "se calzaban"
+  },
+  "PPSI": {
+    "1s": "me calcé",
+    "2s": "te calzaste",
+    "3s": "se calzó",
+    "1p": "nos calzamos",
+    "2p": "os calzasteis",
+    "3p": "se calzaron"
+  },
+  "FutSI": {
+    "1s": "me calzaré",
+    "2s": "te calzarás",
+    "3s": "se calzará",
+    "1p": "nos calzaremos",
+    "2p": "os calzaréis",
+    "3p": "se calzarán"
+  },
+  "CondS": {
+    "1s": "me calzaría",
+    "2s": "te calzarías",
+    "3s": "se calzaría",
+    "1p": "nos calzaríamos",
+    "2p": "os calzaríais",
+    "3p": "se calzarían"
+  },
+  "PresC": {
+    "1s": "me calce",
+    "2s": "te calces",
+    "3s": "se calce",
+    "1p": "nos calcemos",
+    "2p": "os calcéis",
+    "3p": "se calcen"
+  },
+  "PMQPSI": {
+    "1s": "me calzara",
+    "2s": "te calzaras",
+    "3s": "se calzara",
+    "1p": "nos calzáramos",
+    "2p": "os calzarais",
+    "3p": "se calzaran"
+  },
+  "PImpC": {
+    "1s": "me calzase",
+    "2s": "te calzases",
+    "3s": "se calzase",
+    "1p": "nos calzásemos",
+    "2p": "os calzaseis",
+    "3p": "se calzasen"
+  },
+  "FutSC": {
+    "1s": "me calzare",
+    "2s": "te calzares",
+    "3s": "se calzare",
+    "1p": "nos calzáremos",
+    "2p": "os calzareis",
+    "3p": "se calzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cálzate",
+    "3s": "cálcese",
+    "1p": "calcémonos",
+    "2p": "calzaos",
+    "3p": "cálcense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te calces",
+    "3s": "no se calce",
+    "1p": "no nos calcemos",
+    "2p": "no os calcéis",
+    "3p": "no se calcen"
+  },
+  "Part-ter": {
+    "": "calzado"
+  },
+  "Part-ser": {
+    "ms": "calzado",
+    "fs": "calzada",
+    "mp": "calzados",
+    "fp": "calzadas"
+  }
+}

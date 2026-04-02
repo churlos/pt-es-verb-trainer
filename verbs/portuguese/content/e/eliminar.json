@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "eliminar"
+  },
+  "InfP": {
+    "1s": "eliminar",
+    "2s": "eliminares",
+    "3s": "eliminar",
+    "1p": "eliminarmos",
+    "2p": "eliminardes",
+    "3p": "eliminarem"
+  },
+  "Ger": {
+    "": "eliminando"
+  },
+  "PresI": {
+    "1s": "elimino",
+    "2s": "eliminas",
+    "3s": "elimina",
+    "1p": "eliminamos",
+    "2p": "eliminais",
+    "3p": "eliminam"
+  },
+  "PImpI": {
+    "1s": "eliminava",
+    "2s": "eliminavas",
+    "3s": "eliminava",
+    "1p": "eliminávamos",
+    "2p": "elimináveis",
+    "3p": "eliminavam"
+  },
+  "PPSI": {
+    "1s": "eliminei",
+    "2s": "eliminaste",
+    "3s": "eliminou",
+    "1p": "eliminámos",
+    "2p": "eliminastes",
+    "3p": "eliminaram"
+  },
+  "PMQPSI": {
+    "1s": "eliminara",
+    "2s": "eliminaras",
+    "3s": "eliminara",
+    "1p": "elimináramos",
+    "2p": "elimináreis",
+    "3p": "eliminaram"
+  },
+  "FutSI": {
+    "1s": "eliminarei",
+    "2s": "eliminarás",
+    "3s": "eliminará",
+    "1p": "eliminaremos",
+    "2p": "eliminareis",
+    "3p": "eliminarão"
+  },
+  "CondS": {
+    "1s": "eliminaria",
+    "2s": "eliminarias",
+    "3s": "eliminaria",
+    "1p": "eliminaríamos",
+    "2p": "eliminaríeis",
+    "3p": "eliminariam"
+  },
+  "PresC": {
+    "1s": "elimine",
+    "2s": "elimines",
+    "3s": "elimine",
+    "1p": "eliminemos",
+    "2p": "elimineis",
+    "3p": "eliminem"
+  },
+  "PImpC": {
+    "1s": "eliminasse",
+    "2s": "eliminasses",
+    "3s": "eliminasse",
+    "1p": "eliminássemos",
+    "2p": "eliminásseis",
+    "3p": "eliminassem"
+  },
+  "FutSC": {
+    "1s": "eliminar",
+    "2s": "eliminares",
+    "3s": "eliminar",
+    "1p": "eliminarmos",
+    "2p": "eliminardes",
+    "3p": "eliminarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elimina",
+    "3s": "elimine",
+    "1p": "eliminemos",
+    "2p": "eliminai",
+    "3p": "eliminem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não elimines",
+    "3s": "não elimine",
+    "1p": "não eliminemos",
+    "2p": "não elimineis",
+    "3p": "não eliminem"
+  },
+  "Part-ter": {
+    "": "eliminado"
+  },
+  "Part-ser": {
+    "ms": "eliminado",
+    "fs": "eliminada",
+    "mp": "eliminados",
+    "fp": "eliminadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "semelhar"
+  },
+  "InfP": {
+    "1s": "semelhar",
+    "2s": "semelhares",
+    "3s": "semelhar",
+    "1p": "semelharmos",
+    "2p": "semelhardes",
+    "3p": "semelharem"
+  },
+  "Ger": {
+    "": "semelhando"
+  },
+  "PresI": {
+    "1s": "semelho",
+    "2s": "semelhas",
+    "3s": "semelha",
+    "1p": "semelhamos",
+    "2p": "semelhais",
+    "3p": "semelham"
+  },
+  "PImpI": {
+    "1s": "semelhava",
+    "2s": "semelhavas",
+    "3s": "semelhava",
+    "1p": "semelhávamos",
+    "2p": "semelháveis",
+    "3p": "semelhavam"
+  },
+  "PPSI": {
+    "1s": "semelhei",
+    "2s": "semelhaste",
+    "3s": "semelhou",
+    "1p": "semelhámos",
+    "2p": "semelhastes",
+    "3p": "semelharam"
+  },
+  "PMQPSI": {
+    "1s": "semelhara",
+    "2s": "semelharas",
+    "3s": "semelhara",
+    "1p": "semelháramos",
+    "2p": "semelháreis",
+    "3p": "semelharam"
+  },
+  "FutSI": {
+    "1s": "semelharei",
+    "2s": "semelharás",
+    "3s": "semelhará",
+    "1p": "semelharemos",
+    "2p": "semelhareis",
+    "3p": "semelharão"
+  },
+  "CondS": {
+    "1s": "semelharia",
+    "2s": "semelharias",
+    "3s": "semelharia",
+    "1p": "semelharíamos",
+    "2p": "semelharíeis",
+    "3p": "semelhariam"
+  },
+  "PresC": {
+    "1s": "semelhe",
+    "2s": "semelhes",
+    "3s": "semelhe",
+    "1p": "semelhemos",
+    "2p": "semelheis",
+    "3p": "semelhem"
+  },
+  "PImpC": {
+    "1s": "semelhasse",
+    "2s": "semelhasses",
+    "3s": "semelhasse",
+    "1p": "semelhássemos",
+    "2p": "semelhásseis",
+    "3p": "semelhassem"
+  },
+  "FutSC": {
+    "1s": "semelhar",
+    "2s": "semelhares",
+    "3s": "semelhar",
+    "1p": "semelharmos",
+    "2p": "semelhardes",
+    "3p": "semelharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "semelha",
+    "3s": "semelhe",
+    "1p": "semelhemos",
+    "2p": "semelhai",
+    "3p": "semelhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não semelhes",
+    "3s": "não semelhe",
+    "1p": "não semelhemos",
+    "2p": "não semelheis",
+    "3p": "não semelhem"
+  },
+  "Part-ter": {
+    "": "semelhado"
+  },
+  "Part-ser": {
+    "ms": "semelhado",
+    "fs": "semelhada",
+    "mp": "semelhados",
+    "fp": "semelhadas"
+  }
+}

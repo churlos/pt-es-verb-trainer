@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "meter"
+  },
+  "Ger": {
+    "": "metiendo"
+  },
+  "PresI": {
+    "1s": "meto",
+    "2s": "metes",
+    "3s": "mete",
+    "1p": "metemos",
+    "2p": "metéis",
+    "3p": "meten"
+  },
+  "PImpI": {
+    "1s": "metía",
+    "2s": "metías",
+    "3s": "metía",
+    "1p": "metíamos",
+    "2p": "metíais",
+    "3p": "metían"
+  },
+  "PPSI": {
+    "1s": "metí",
+    "2s": "metiste",
+    "3s": "metió",
+    "1p": "metimos",
+    "2p": "metisteis",
+    "3p": "metieron"
+  },
+  "FutSI": {
+    "1s": "meteré",
+    "2s": "meterás",
+    "3s": "meterá",
+    "1p": "meteremos",
+    "2p": "meteréis",
+    "3p": "meterán"
+  },
+  "CondS": {
+    "1s": "metería",
+    "2s": "meterías",
+    "3s": "metería",
+    "1p": "meteríamos",
+    "2p": "meteríais",
+    "3p": "meterían"
+  },
+  "PresC": {
+    "1s": "meta",
+    "2s": "metas",
+    "3s": "meta",
+    "1p": "metamos",
+    "2p": "metáis",
+    "3p": "metan"
+  },
+  "PMQPSI": {
+    "1s": "metiera",
+    "2s": "metieras",
+    "3s": "metiera",
+    "1p": "metiéramos",
+    "2p": "metierais",
+    "3p": "metieran"
+  },
+  "PImpC": {
+    "1s": "metiese",
+    "2s": "metieses",
+    "3s": "metiese",
+    "1p": "metiésemos",
+    "2p": "metieseis",
+    "3p": "metiesen"
+  },
+  "FutSC": {
+    "1s": "metiere",
+    "2s": "metieres",
+    "3s": "metiere",
+    "1p": "metiéremos",
+    "2p": "metiereis",
+    "3p": "metieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mete",
+    "3s": "meta",
+    "1p": "metamos",
+    "2p": "meted",
+    "3p": "metan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no metas",
+    "3s": "no meta",
+    "1p": "no metamos",
+    "2p": "no metáis",
+    "3p": "no metan"
+  },
+  "Part-ter": {
+    "": "metido"
+  },
+  "Part-ser": {
+    "ms": "metido",
+    "fs": "metida",
+    "mp": "metidos",
+    "fp": "metidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desechar"
+  },
+  "Ger": {
+    "": "desechando"
+  },
+  "PresI": {
+    "1s": "desecho",
+    "2s": "desechas",
+    "3s": "desecha",
+    "1p": "desechamos",
+    "2p": "desecháis",
+    "3p": "desechan"
+  },
+  "PImpI": {
+    "1s": "desechaba",
+    "2s": "desechabas",
+    "3s": "desechaba",
+    "1p": "desechábamos",
+    "2p": "desechabais",
+    "3p": "desechaban"
+  },
+  "PPSI": {
+    "1s": "deseché",
+    "2s": "desechaste",
+    "3s": "desechó",
+    "1p": "desechamos",
+    "2p": "desechasteis",
+    "3p": "desecharon"
+  },
+  "FutSI": {
+    "1s": "desecharé",
+    "2s": "desecharás",
+    "3s": "desechará",
+    "1p": "desecharemos",
+    "2p": "desecharéis",
+    "3p": "desecharán"
+  },
+  "CondS": {
+    "1s": "desecharía",
+    "2s": "desecharías",
+    "3s": "desecharía",
+    "1p": "desecharíamos",
+    "2p": "desecharíais",
+    "3p": "desecharían"
+  },
+  "PresC": {
+    "1s": "deseche",
+    "2s": "deseches",
+    "3s": "deseche",
+    "1p": "desechemos",
+    "2p": "desechéis",
+    "3p": "desechen"
+  },
+  "PMQPSI": {
+    "1s": "desechara",
+    "2s": "desecharas",
+    "3s": "desechara",
+    "1p": "desecháramos",
+    "2p": "desecharais",
+    "3p": "desecharan"
+  },
+  "PImpC": {
+    "1s": "desechase",
+    "2s": "desechases",
+    "3s": "desechase",
+    "1p": "desechásemos",
+    "2p": "desechaseis",
+    "3p": "desechasen"
+  },
+  "FutSC": {
+    "1s": "desechare",
+    "2s": "desechares",
+    "3s": "desechare",
+    "1p": "desecháremos",
+    "2p": "desechareis",
+    "3p": "desecharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desecha",
+    "3s": "deseche",
+    "1p": "desechemos",
+    "2p": "desechad",
+    "3p": "desechen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deseches",
+    "3s": "no deseche",
+    "1p": "no desechemos",
+    "2p": "no desechéis",
+    "3p": "no desechen"
+  },
+  "Part-ter": {
+    "": "desechado"
+  },
+  "Part-ser": {
+    "ms": "desechado",
+    "fs": "desechada",
+    "mp": "desechados",
+    "fp": "desechadas"
+  }
+}

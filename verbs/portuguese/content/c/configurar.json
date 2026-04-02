@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "configurar"
+  },
+  "InfP": {
+    "1s": "configurar",
+    "2s": "configurares",
+    "3s": "configurar",
+    "1p": "configurarmos",
+    "2p": "configurardes",
+    "3p": "configurarem"
+  },
+  "Ger": {
+    "": "configurando"
+  },
+  "PresI": {
+    "1s": "configuro",
+    "2s": "configuras",
+    "3s": "configura",
+    "1p": "configuramos",
+    "2p": "configurais",
+    "3p": "configuram"
+  },
+  "PImpI": {
+    "1s": "configurava",
+    "2s": "configuravas",
+    "3s": "configurava",
+    "1p": "configurávamos",
+    "2p": "configuráveis",
+    "3p": "configuravam"
+  },
+  "PPSI": {
+    "1s": "configurei",
+    "2s": "configuraste",
+    "3s": "configurou",
+    "1p": "configurámos",
+    "2p": "configurastes",
+    "3p": "configuraram"
+  },
+  "PMQPSI": {
+    "1s": "configurara",
+    "2s": "configuraras",
+    "3s": "configurara",
+    "1p": "configuráramos",
+    "2p": "configuráreis",
+    "3p": "configuraram"
+  },
+  "FutSI": {
+    "1s": "configurarei",
+    "2s": "configurarás",
+    "3s": "configurará",
+    "1p": "configuraremos",
+    "2p": "configurareis",
+    "3p": "configurarão"
+  },
+  "CondS": {
+    "1s": "configuraria",
+    "2s": "configurarias",
+    "3s": "configuraria",
+    "1p": "configuraríamos",
+    "2p": "configuraríeis",
+    "3p": "configurariam"
+  },
+  "PresC": {
+    "1s": "configure",
+    "2s": "configures",
+    "3s": "configure",
+    "1p": "configuremos",
+    "2p": "configureis",
+    "3p": "configurem"
+  },
+  "PImpC": {
+    "1s": "configurasse",
+    "2s": "configurasses",
+    "3s": "configurasse",
+    "1p": "configurássemos",
+    "2p": "configurásseis",
+    "3p": "configurassem"
+  },
+  "FutSC": {
+    "1s": "configurar",
+    "2s": "configurares",
+    "3s": "configurar",
+    "1p": "configurarmos",
+    "2p": "configurardes",
+    "3p": "configurarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "configura",
+    "3s": "configure",
+    "1p": "configuremos",
+    "2p": "configurai",
+    "3p": "configurem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não configures",
+    "3s": "não configure",
+    "1p": "não configuremos",
+    "2p": "não configureis",
+    "3p": "não configurem"
+  },
+  "Part-ter": {
+    "": "configurado"
+  },
+  "Part-ser": {
+    "ms": "configurado",
+    "fs": "configurada",
+    "mp": "configurados",
+    "fp": "configuradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "planejar"
+  },
+  "InfP": {
+    "1s": "planejar",
+    "2s": "planejares",
+    "3s": "planejar",
+    "1p": "planejarmos",
+    "2p": "planejardes",
+    "3p": "planejarem"
+  },
+  "Ger": {
+    "": "planejando"
+  },
+  "PresI": {
+    "1s": "planejo",
+    "2s": "planejas",
+    "3s": "planeja",
+    "1p": "planejamos",
+    "2p": "planejais",
+    "3p": "planejam"
+  },
+  "PImpI": {
+    "1s": "planejava",
+    "2s": "planejavas",
+    "3s": "planejava",
+    "1p": "planejávamos",
+    "2p": "planejáveis",
+    "3p": "planejavam"
+  },
+  "PPSI": {
+    "1s": "planejei",
+    "2s": "planejaste",
+    "3s": "planejou",
+    "1p": "planejámos",
+    "2p": "planejastes",
+    "3p": "planejaram"
+  },
+  "PMQPSI": {
+    "1s": "planejara",
+    "2s": "planejaras",
+    "3s": "planejara",
+    "1p": "planejáramos",
+    "2p": "planejáreis",
+    "3p": "planejaram"
+  },
+  "FutSI": {
+    "1s": "planejarei",
+    "2s": "planejarás",
+    "3s": "planejará",
+    "1p": "planejaremos",
+    "2p": "planejareis",
+    "3p": "planejarão"
+  },
+  "CondS": {
+    "1s": "planejaria",
+    "2s": "planejarias",
+    "3s": "planejaria",
+    "1p": "planejaríamos",
+    "2p": "planejaríeis",
+    "3p": "planejariam"
+  },
+  "PresC": {
+    "1s": "planeje",
+    "2s": "planejes",
+    "3s": "planeje",
+    "1p": "planejemos",
+    "2p": "planejeis",
+    "3p": "planejem"
+  },
+  "PImpC": {
+    "1s": "planejasse",
+    "2s": "planejasses",
+    "3s": "planejasse",
+    "1p": "planejássemos",
+    "2p": "planejásseis",
+    "3p": "planejassem"
+  },
+  "FutSC": {
+    "1s": "planejar",
+    "2s": "planejares",
+    "3s": "planejar",
+    "1p": "planejarmos",
+    "2p": "planejardes",
+    "3p": "planejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "planeja",
+    "3s": "planeje",
+    "1p": "planejemos",
+    "2p": "planejai",
+    "3p": "planejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não planejes",
+    "3s": "não planeje",
+    "1p": "não planejemos",
+    "2p": "não planejeis",
+    "3p": "não planejem"
+  },
+  "Part-ter": {
+    "": "planejado"
+  },
+  "Part-ser": {
+    "ms": "planejado",
+    "fs": "planejada",
+    "mp": "planejados",
+    "fp": "planejadas"
+  }
+}

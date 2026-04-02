@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escanear"
+  },
+  "InfP": {
+    "1s": "escanear",
+    "2s": "escaneares",
+    "3s": "escanear",
+    "1p": "escanearmos",
+    "2p": "escaneardes",
+    "3p": "escanearem"
+  },
+  "Ger": {
+    "": "escaneando"
+  },
+  "PresI": {
+    "1s": "escaneo",
+    "2s": "escaneas",
+    "3s": "escanea",
+    "1p": "escaneamos",
+    "2p": "escaneais",
+    "3p": "escaneam"
+  },
+  "PImpI": {
+    "1s": "escaneava",
+    "2s": "escaneavas",
+    "3s": "escaneava",
+    "1p": "escaneávamos",
+    "2p": "escaneáveis",
+    "3p": "escaneavam"
+  },
+  "PPSI": {
+    "1s": "escaneei",
+    "2s": "escaneaste",
+    "3s": "escaneou",
+    "1p": "escaneámos",
+    "2p": "escaneastes",
+    "3p": "escanearam"
+  },
+  "PMQPSI": {
+    "1s": "escaneara",
+    "2s": "escanearas",
+    "3s": "escaneara",
+    "1p": "escaneáramos",
+    "2p": "escaneáreis",
+    "3p": "escanearam"
+  },
+  "FutSI": {
+    "1s": "escanearei",
+    "2s": "escanearás",
+    "3s": "escaneará",
+    "1p": "escanearemos",
+    "2p": "escaneareis",
+    "3p": "escanearão"
+  },
+  "CondS": {
+    "1s": "escanearia",
+    "2s": "escanearias",
+    "3s": "escanearia",
+    "1p": "escanearíamos",
+    "2p": "escanearíeis",
+    "3p": "escaneariam"
+  },
+  "PresC": {
+    "1s": "escanee",
+    "2s": "escanees",
+    "3s": "escanee",
+    "1p": "escaneemos",
+    "2p": "escaneeis",
+    "3p": "escaneem"
+  },
+  "PImpC": {
+    "1s": "escaneasse",
+    "2s": "escaneasses",
+    "3s": "escaneasse",
+    "1p": "escaneássemos",
+    "2p": "escaneásseis",
+    "3p": "escaneassem"
+  },
+  "FutSC": {
+    "1s": "escanear",
+    "2s": "escaneares",
+    "3s": "escanear",
+    "1p": "escanearmos",
+    "2p": "escaneardes",
+    "3p": "escanearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escanea",
+    "3s": "escanee",
+    "1p": "escaneemos",
+    "2p": "escaneai",
+    "3p": "escaneem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escanees",
+    "3s": "não escanee",
+    "1p": "não escaneemos",
+    "2p": "não escaneeis",
+    "3p": "não escaneem"
+  },
+  "Part-ter": {
+    "": "escaneado"
+  },
+  "Part-ser": {
+    "ms": "escaneado",
+    "fs": "escaneada",
+    "mp": "escaneados",
+    "fp": "escaneadas"
+  }
+}

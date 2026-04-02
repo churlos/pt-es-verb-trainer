@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "menstruar"
+  },
+  "Ger": {
+    "": "menstruando"
+  },
+  "PresI": {
+    "1s": "menstrúo",
+    "2s": "menstrúas",
+    "3s": "menstrúa",
+    "1p": "menstruamos",
+    "2p": "menstruáis",
+    "3p": "menstrúan"
+  },
+  "PImpI": {
+    "1s": "menstruaba",
+    "2s": "menstruabas",
+    "3s": "menstruaba",
+    "1p": "menstruábamos",
+    "2p": "menstruabais",
+    "3p": "menstruaban"
+  },
+  "PPSI": {
+    "1s": "menstrué",
+    "2s": "menstruaste",
+    "3s": "menstruó",
+    "1p": "menstruamos",
+    "2p": "menstruasteis",
+    "3p": "menstruaron"
+  },
+  "FutSI": {
+    "1s": "menstruaré",
+    "2s": "menstruarás",
+    "3s": "menstruará",
+    "1p": "menstruaremos",
+    "2p": "menstruaréis",
+    "3p": "menstruarán"
+  },
+  "CondS": {
+    "1s": "menstruaría",
+    "2s": "menstruarías",
+    "3s": "menstruaría",
+    "1p": "menstruaríamos",
+    "2p": "menstruaríais",
+    "3p": "menstruarían"
+  },
+  "PresC": {
+    "1s": "menstrúe",
+    "2s": "menstrúes",
+    "3s": "menstrúe",
+    "1p": "menstruemos",
+    "2p": "menstruéis",
+    "3p": "menstrúen"
+  },
+  "PMQPSI": {
+    "1s": "menstruara",
+    "2s": "menstruaras",
+    "3s": "menstruara",
+    "1p": "menstruáramos",
+    "2p": "menstruarais",
+    "3p": "menstruaran"
+  },
+  "PImpC": {
+    "1s": "menstruase",
+    "2s": "menstruases",
+    "3s": "menstruase",
+    "1p": "menstruásemos",
+    "2p": "menstruaseis",
+    "3p": "menstruasen"
+  },
+  "FutSC": {
+    "1s": "menstruare",
+    "2s": "menstruares",
+    "3s": "menstruare",
+    "1p": "menstruáremos",
+    "2p": "menstruareis",
+    "3p": "menstruaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "menstrúa",
+    "3s": "menstrúe",
+    "1p": "menstruemos",
+    "2p": "menstruad",
+    "3p": "menstrúen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no menstrúes",
+    "3s": "no menstrúe",
+    "1p": "no menstruemos",
+    "2p": "no menstruéis",
+    "3p": "no menstrúen"
+  },
+  "Part-ter": {
+    "": "menstruado"
+  },
+  "Part-ser": {
+    "ms": "menstruado",
+    "fs": "menstruada",
+    "mp": "menstruados",
+    "fp": "menstruadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "peer"
+  },
+  "Ger": {
+    "": "peyendo"
+  },
+  "PresI": {
+    "1s": "peo",
+    "2s": "pees",
+    "3s": "pee",
+    "1p": "peemos",
+    "2p": "peéis",
+    "3p": "peen"
+  },
+  "PImpI": {
+    "1s": "peía",
+    "2s": "peías",
+    "3s": "peía",
+    "1p": "peíamos",
+    "2p": "peíais",
+    "3p": "peían"
+  },
+  "PPSI": {
+    "1s": "peí",
+    "2s": "peíste",
+    "3s": "peyó",
+    "1p": "peímos",
+    "2p": "peísteis",
+    "3p": "peyeron"
+  },
+  "FutSI": {
+    "1s": "peeré",
+    "2s": "peerás",
+    "3s": "peerá",
+    "1p": "peeremos",
+    "2p": "peeréis",
+    "3p": "peerán"
+  },
+  "CondS": {
+    "1s": "peería",
+    "2s": "peerías",
+    "3s": "peería",
+    "1p": "peeríamos",
+    "2p": "peeríais",
+    "3p": "peerían"
+  },
+  "PresC": {
+    "1s": "pea",
+    "2s": "peas",
+    "3s": "pea",
+    "1p": "peamos",
+    "2p": "peáis",
+    "3p": "pean"
+  },
+  "PMQPSI": {
+    "1s": "peyera",
+    "2s": "peyeras",
+    "3s": "peyera",
+    "1p": "peyéramos",
+    "2p": "peyerais",
+    "3p": "peyeran"
+  },
+  "PImpC": {
+    "1s": "peyese",
+    "2s": "peyeses",
+    "3s": "peyese",
+    "1p": "peyésemos",
+    "2p": "peyeseis",
+    "3p": "peyesen"
+  },
+  "FutSC": {
+    "1s": "peyere",
+    "2s": "peyeres",
+    "3s": "peyere",
+    "1p": "peyéremos",
+    "2p": "peyereis",
+    "3p": "peyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pee",
+    "3s": "pea",
+    "1p": "peamos",
+    "2p": "peed",
+    "3p": "pean"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no peas",
+    "3s": "no pea",
+    "1p": "no peamos",
+    "2p": "no peáis",
+    "3p": "no pean"
+  },
+  "Part-ter": {
+    "": "peído"
+  },
+  "Part-ser": {
+    "ms": "peído",
+    "fs": "peída",
+    "mp": "peídos",
+    "fp": "peídas"
+  }
+}

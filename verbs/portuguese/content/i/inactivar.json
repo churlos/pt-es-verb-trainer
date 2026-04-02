@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inactivar"
+  },
+  "InfP": {
+    "1s": "inactivar",
+    "2s": "inactivares",
+    "3s": "inactivar",
+    "1p": "inactivarmos",
+    "2p": "inactivardes",
+    "3p": "inactivarem"
+  },
+  "Ger": {
+    "": "inactivando"
+  },
+  "PresI": {
+    "1s": "inactivo",
+    "2s": "inactivas",
+    "3s": "inactiva",
+    "1p": "inactivamos",
+    "2p": "inactivais",
+    "3p": "inactivam"
+  },
+  "PImpI": {
+    "1s": "inactivava",
+    "2s": "inactivavas",
+    "3s": "inactivava",
+    "1p": "inactivávamos",
+    "2p": "inactiváveis",
+    "3p": "inactivavam"
+  },
+  "PPSI": {
+    "1s": "inactivei",
+    "2s": "inactivaste",
+    "3s": "inactivou",
+    "1p": "inactivámos",
+    "2p": "inactivastes",
+    "3p": "inactivaram"
+  },
+  "PMQPSI": {
+    "1s": "inactivara",
+    "2s": "inactivaras",
+    "3s": "inactivara",
+    "1p": "inactiváramos",
+    "2p": "inactiváreis",
+    "3p": "inactivaram"
+  },
+  "FutSI": {
+    "1s": "inactivarei",
+    "2s": "inactivarás",
+    "3s": "inactivará",
+    "1p": "inactivaremos",
+    "2p": "inactivareis",
+    "3p": "inactivarão"
+  },
+  "CondS": {
+    "1s": "inactivaria",
+    "2s": "inactivarias",
+    "3s": "inactivaria",
+    "1p": "inactivaríamos",
+    "2p": "inactivaríeis",
+    "3p": "inactivariam"
+  },
+  "PresC": {
+    "1s": "inactive",
+    "2s": "inactives",
+    "3s": "inactive",
+    "1p": "inactivemos",
+    "2p": "inactiveis",
+    "3p": "inactivem"
+  },
+  "PImpC": {
+    "1s": "inactivasse",
+    "2s": "inactivasses",
+    "3s": "inactivasse",
+    "1p": "inactivássemos",
+    "2p": "inactivásseis",
+    "3p": "inactivassem"
+  },
+  "FutSC": {
+    "1s": "inactivar",
+    "2s": "inactivares",
+    "3s": "inactivar",
+    "1p": "inactivarmos",
+    "2p": "inactivardes",
+    "3p": "inactivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inactiva",
+    "3s": "inactive",
+    "1p": "inactivemos",
+    "2p": "inactivai",
+    "3p": "inactivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inactives",
+    "3s": "não inactive",
+    "1p": "não inactivemos",
+    "2p": "não inactiveis",
+    "3p": "não inactivem"
+  },
+  "Part-ter": {
+    "": "inactivado"
+  },
+  "Part-ser": {
+    "ms": "inactivado",
+    "fs": "inactivada",
+    "mp": "inactivados",
+    "fp": "inactivadas"
+  }
+}

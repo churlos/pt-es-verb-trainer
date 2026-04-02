@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emergir"
+  },
+  "InfP": {
+    "1s": "emergir",
+    "2s": "emergires",
+    "3s": "emergir",
+    "1p": "emergirmos",
+    "2p": "emergirdes",
+    "3p": "emergirem"
+  },
+  "Ger": {
+    "": "emergindo"
+  },
+  "PresI": {
+    "1s": "emerjo",
+    "2s": "emerges",
+    "3s": "emerge",
+    "1p": "emergimos",
+    "2p": "emergis",
+    "3p": "emergem"
+  },
+  "PImpI": {
+    "1s": "emergia",
+    "2s": "emergias",
+    "3s": "emergia",
+    "1p": "emergíamos",
+    "2p": "emergíeis",
+    "3p": "emergiam"
+  },
+  "PPSI": {
+    "1s": "emergi",
+    "2s": "emergiste",
+    "3s": "emergiu",
+    "1p": "emergimos",
+    "2p": "emergistes",
+    "3p": "emergiram"
+  },
+  "PMQPSI": {
+    "1s": "emergira",
+    "2s": "emergiras",
+    "3s": "emergira",
+    "1p": "emergíramos",
+    "2p": "emergíreis",
+    "3p": "emergiram"
+  },
+  "FutSI": {
+    "1s": "emergirei",
+    "2s": "emergirás",
+    "3s": "emergirá",
+    "1p": "emergiremos",
+    "2p": "emergireis",
+    "3p": "emergirão"
+  },
+  "CondS": {
+    "1s": "emergiria",
+    "2s": "emergirias",
+    "3s": "emergiria",
+    "1p": "emergiríamos",
+    "2p": "emergiríeis",
+    "3p": "emergiriam"
+  },
+  "PresC": {
+    "1s": "emerja",
+    "2s": "emerjas",
+    "3s": "emerja",
+    "1p": "emerjamos",
+    "2p": "emerjais",
+    "3p": "emerjam"
+  },
+  "PImpC": {
+    "1s": "emergisse",
+    "2s": "emergisses",
+    "3s": "emergisse",
+    "1p": "emergíssemos",
+    "2p": "emergísseis",
+    "3p": "emergissem"
+  },
+  "FutSC": {
+    "1s": "emergir",
+    "2s": "emergires",
+    "3s": "emergir",
+    "1p": "emergirmos",
+    "2p": "emergirdes",
+    "3p": "emergirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emerge",
+    "3s": "emerja",
+    "1p": "emerjamos",
+    "2p": "emergi",
+    "3p": "emerjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emerjas",
+    "3s": "não emerja",
+    "1p": "não emerjamos",
+    "2p": "não emerjais",
+    "3p": "não emerjam"
+  },
+  "Part-ter": {
+    "": "emerso"
+  },
+  "Part-ser": {
+    "ms": "emerso",
+    "fs": "emergida",
+    "mp": "emersos",
+    "fp": "emersas"
+  }
+}

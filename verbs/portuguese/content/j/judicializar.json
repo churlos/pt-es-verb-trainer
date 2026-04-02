@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "judicializar"
+  },
+  "InfP": {
+    "1s": "judicializar",
+    "2s": "judicializares",
+    "3s": "judicializar",
+    "1p": "judicializarmos",
+    "2p": "judicializardes",
+    "3p": "judicializarem"
+  },
+  "Ger": {
+    "": "judicializando"
+  },
+  "PresI": {
+    "1s": "judicializo",
+    "2s": "judicializas",
+    "3s": "judicializa",
+    "1p": "judicializamos",
+    "2p": "judicializais",
+    "3p": "judicializam"
+  },
+  "PImpI": {
+    "1s": "judicializava",
+    "2s": "judicializavas",
+    "3s": "judicializava",
+    "1p": "judicializávamos",
+    "2p": "judicializáveis",
+    "3p": "judicializavam"
+  },
+  "PPSI": {
+    "1s": "judicializei",
+    "2s": "judicializaste",
+    "3s": "judicializou",
+    "1p": "judicializámos",
+    "2p": "judicializastes",
+    "3p": "judicializaram"
+  },
+  "PMQPSI": {
+    "1s": "judicializara",
+    "2s": "judicializaras",
+    "3s": "judicializara",
+    "1p": "judicializáramos",
+    "2p": "judicializáreis",
+    "3p": "judicializaram"
+  },
+  "FutSI": {
+    "1s": "judicializarei",
+    "2s": "judicializarás",
+    "3s": "judicializará",
+    "1p": "judicializaremos",
+    "2p": "judicializareis",
+    "3p": "judicializarão"
+  },
+  "CondS": {
+    "1s": "judicializaria",
+    "2s": "judicializarias",
+    "3s": "judicializaria",
+    "1p": "judicializaríamos",
+    "2p": "judicializaríeis",
+    "3p": "judicializariam"
+  },
+  "PresC": {
+    "1s": "judicialize",
+    "2s": "judicializes",
+    "3s": "judicialize",
+    "1p": "judicializemos",
+    "2p": "judicializeis",
+    "3p": "judicializem"
+  },
+  "PImpC": {
+    "1s": "judicializasse",
+    "2s": "judicializasses",
+    "3s": "judicializasse",
+    "1p": "judicializássemos",
+    "2p": "judicializásseis",
+    "3p": "judicializassem"
+  },
+  "FutSC": {
+    "1s": "judicializar",
+    "2s": "judicializares",
+    "3s": "judicializar",
+    "1p": "judicializarmos",
+    "2p": "judicializardes",
+    "3p": "judicializarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "judicializa",
+    "3s": "judicialize",
+    "1p": "judicializemos",
+    "2p": "judicializai",
+    "3p": "judicializem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não judicializes",
+    "3s": "não judicialize",
+    "1p": "não judicializemos",
+    "2p": "não judicializeis",
+    "3p": "não judicializem"
+  },
+  "Part-ter": {
+    "": "judicializado"
+  },
+  "Part-ser": {
+    "ms": "judicializado",
+    "fs": "judicializada",
+    "mp": "judicializados",
+    "fp": "judicializadas"
+  }
+}

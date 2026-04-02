@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asignar"
+  },
+  "Ger": {
+    "": "asignando"
+  },
+  "PresI": {
+    "1s": "asigno",
+    "2s": "asignas",
+    "3s": "asigna",
+    "1p": "asignamos",
+    "2p": "asignáis",
+    "3p": "asignan"
+  },
+  "PImpI": {
+    "1s": "asignaba",
+    "2s": "asignabas",
+    "3s": "asignaba",
+    "1p": "asignábamos",
+    "2p": "asignabais",
+    "3p": "asignaban"
+  },
+  "PPSI": {
+    "1s": "asigné",
+    "2s": "asignaste",
+    "3s": "asignó",
+    "1p": "asignamos",
+    "2p": "asignasteis",
+    "3p": "asignaron"
+  },
+  "FutSI": {
+    "1s": "asignaré",
+    "2s": "asignarás",
+    "3s": "asignará",
+    "1p": "asignaremos",
+    "2p": "asignaréis",
+    "3p": "asignarán"
+  },
+  "CondS": {
+    "1s": "asignaría",
+    "2s": "asignarías",
+    "3s": "asignaría",
+    "1p": "asignaríamos",
+    "2p": "asignaríais",
+    "3p": "asignarían"
+  },
+  "PresC": {
+    "1s": "asigne",
+    "2s": "asignes",
+    "3s": "asigne",
+    "1p": "asignemos",
+    "2p": "asignéis",
+    "3p": "asignen"
+  },
+  "PMQPSI": {
+    "1s": "asignara",
+    "2s": "asignaras",
+    "3s": "asignara",
+    "1p": "asignáramos",
+    "2p": "asignarais",
+    "3p": "asignaran"
+  },
+  "PImpC": {
+    "1s": "asignase",
+    "2s": "asignases",
+    "3s": "asignase",
+    "1p": "asignásemos",
+    "2p": "asignaseis",
+    "3p": "asignasen"
+  },
+  "FutSC": {
+    "1s": "asignare",
+    "2s": "asignares",
+    "3s": "asignare",
+    "1p": "asignáremos",
+    "2p": "asignareis",
+    "3p": "asignaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asigna",
+    "3s": "asigne",
+    "1p": "asignemos",
+    "2p": "asignad",
+    "3p": "asignen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asignes",
+    "3s": "no asigne",
+    "1p": "no asignemos",
+    "2p": "no asignéis",
+    "3p": "no asignen"
+  },
+  "Part-ter": {
+    "": "asignado"
+  },
+  "Part-ser": {
+    "ms": "asignado",
+    "fs": "asignada",
+    "mp": "asignados",
+    "fp": "asignadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mirrar"
+  },
+  "InfP": {
+    "1s": "mirrar",
+    "2s": "mirrares",
+    "3s": "mirrar",
+    "1p": "mirrarmos",
+    "2p": "mirrardes",
+    "3p": "mirrarem"
+  },
+  "Ger": {
+    "": "mirrando"
+  },
+  "PresI": {
+    "1s": "mirro",
+    "2s": "mirras",
+    "3s": "mirra",
+    "1p": "mirramos",
+    "2p": "mirrais",
+    "3p": "mirram"
+  },
+  "PImpI": {
+    "1s": "mirrava",
+    "2s": "mirravas",
+    "3s": "mirrava",
+    "1p": "mirrávamos",
+    "2p": "mirráveis",
+    "3p": "mirravam"
+  },
+  "PPSI": {
+    "1s": "mirrei",
+    "2s": "mirraste",
+    "3s": "mirrou",
+    "1p": "mirrámos",
+    "2p": "mirrastes",
+    "3p": "mirraram"
+  },
+  "PMQPSI": {
+    "1s": "mirrara",
+    "2s": "mirraras",
+    "3s": "mirrara",
+    "1p": "mirráramos",
+    "2p": "mirráreis",
+    "3p": "mirraram"
+  },
+  "FutSI": {
+    "1s": "mirrarei",
+    "2s": "mirrarás",
+    "3s": "mirrará",
+    "1p": "mirraremos",
+    "2p": "mirrareis",
+    "3p": "mirrarão"
+  },
+  "CondS": {
+    "1s": "mirraria",
+    "2s": "mirrarias",
+    "3s": "mirraria",
+    "1p": "mirraríamos",
+    "2p": "mirraríeis",
+    "3p": "mirrariam"
+  },
+  "PresC": {
+    "1s": "mirre",
+    "2s": "mirres",
+    "3s": "mirre",
+    "1p": "mirremos",
+    "2p": "mirreis",
+    "3p": "mirrem"
+  },
+  "PImpC": {
+    "1s": "mirrasse",
+    "2s": "mirrasses",
+    "3s": "mirrasse",
+    "1p": "mirrássemos",
+    "2p": "mirrásseis",
+    "3p": "mirrassem"
+  },
+  "FutSC": {
+    "1s": "mirrar",
+    "2s": "mirrares",
+    "3s": "mirrar",
+    "1p": "mirrarmos",
+    "2p": "mirrardes",
+    "3p": "mirrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mirra",
+    "3s": "mirre",
+    "1p": "mirremos",
+    "2p": "mirrai",
+    "3p": "mirrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mirres",
+    "3s": "não mirre",
+    "1p": "não mirremos",
+    "2p": "não mirreis",
+    "3p": "não mirrem"
+  },
+  "Part-ter": {
+    "": "mirrado"
+  },
+  "Part-ser": {
+    "ms": "mirrado",
+    "fs": "mirrada",
+    "mp": "mirrados",
+    "fp": "mirradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "taxar"
+  },
+  "InfP": {
+    "1s": "taxar",
+    "2s": "taxares",
+    "3s": "taxar",
+    "1p": "taxarmos",
+    "2p": "taxardes",
+    "3p": "taxarem"
+  },
+  "Ger": {
+    "": "taxando"
+  },
+  "PresI": {
+    "1s": "taxo",
+    "2s": "taxas",
+    "3s": "taxa",
+    "1p": "taxamos",
+    "2p": "taxais",
+    "3p": "taxam"
+  },
+  "PImpI": {
+    "1s": "taxava",
+    "2s": "taxavas",
+    "3s": "taxava",
+    "1p": "taxávamos",
+    "2p": "taxáveis",
+    "3p": "taxavam"
+  },
+  "PPSI": {
+    "1s": "taxei",
+    "2s": "taxaste",
+    "3s": "taxou",
+    "1p": "taxámos",
+    "2p": "taxastes",
+    "3p": "taxaram"
+  },
+  "PMQPSI": {
+    "1s": "taxara",
+    "2s": "taxaras",
+    "3s": "taxara",
+    "1p": "taxáramos",
+    "2p": "taxáreis",
+    "3p": "taxaram"
+  },
+  "FutSI": {
+    "1s": "taxarei",
+    "2s": "taxarás",
+    "3s": "taxará",
+    "1p": "taxaremos",
+    "2p": "taxareis",
+    "3p": "taxarão"
+  },
+  "CondS": {
+    "1s": "taxaria",
+    "2s": "taxarias",
+    "3s": "taxaria",
+    "1p": "taxaríamos",
+    "2p": "taxaríeis",
+    "3p": "taxariam"
+  },
+  "PresC": {
+    "1s": "taxe",
+    "2s": "taxes",
+    "3s": "taxe",
+    "1p": "taxemos",
+    "2p": "taxeis",
+    "3p": "taxem"
+  },
+  "PImpC": {
+    "1s": "taxasse",
+    "2s": "taxasses",
+    "3s": "taxasse",
+    "1p": "taxássemos",
+    "2p": "taxásseis",
+    "3p": "taxassem"
+  },
+  "FutSC": {
+    "1s": "taxar",
+    "2s": "taxares",
+    "3s": "taxar",
+    "1p": "taxarmos",
+    "2p": "taxardes",
+    "3p": "taxarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "taxa",
+    "3s": "taxe",
+    "1p": "taxemos",
+    "2p": "taxai",
+    "3p": "taxem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não taxes",
+    "3s": "não taxe",
+    "1p": "não taxemos",
+    "2p": "não taxeis",
+    "3p": "não taxem"
+  },
+  "Part-ter": {
+    "": "taxado"
+  },
+  "Part-ser": {
+    "ms": "taxado",
+    "fs": "taxada",
+    "mp": "taxados",
+    "fp": "taxadas"
+  }
+}

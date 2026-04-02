@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "depilar"
+  },
+  "Ger": {
+    "": "depilando"
+  },
+  "PresI": {
+    "1s": "depilo",
+    "2s": "depilas",
+    "3s": "depila",
+    "1p": "depilamos",
+    "2p": "depiláis",
+    "3p": "depilan"
+  },
+  "PImpI": {
+    "1s": "depilaba",
+    "2s": "depilabas",
+    "3s": "depilaba",
+    "1p": "depilábamos",
+    "2p": "depilabais",
+    "3p": "depilaban"
+  },
+  "PPSI": {
+    "1s": "depilé",
+    "2s": "depilaste",
+    "3s": "depiló",
+    "1p": "depilamos",
+    "2p": "depilasteis",
+    "3p": "depilaron"
+  },
+  "FutSI": {
+    "1s": "depilaré",
+    "2s": "depilarás",
+    "3s": "depilará",
+    "1p": "depilaremos",
+    "2p": "depilaréis",
+    "3p": "depilarán"
+  },
+  "CondS": {
+    "1s": "depilaría",
+    "2s": "depilarías",
+    "3s": "depilaría",
+    "1p": "depilaríamos",
+    "2p": "depilaríais",
+    "3p": "depilarían"
+  },
+  "PresC": {
+    "1s": "depile",
+    "2s": "depiles",
+    "3s": "depile",
+    "1p": "depilemos",
+    "2p": "depiléis",
+    "3p": "depilen"
+  },
+  "PMQPSI": {
+    "1s": "depilara",
+    "2s": "depilaras",
+    "3s": "depilara",
+    "1p": "depiláramos",
+    "2p": "depilarais",
+    "3p": "depilaran"
+  },
+  "PImpC": {
+    "1s": "depilase",
+    "2s": "depilases",
+    "3s": "depilase",
+    "1p": "depilásemos",
+    "2p": "depilaseis",
+    "3p": "depilasen"
+  },
+  "FutSC": {
+    "1s": "depilare",
+    "2s": "depilares",
+    "3s": "depilare",
+    "1p": "depiláremos",
+    "2p": "depilareis",
+    "3p": "depilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "depila",
+    "3s": "depile",
+    "1p": "depilemos",
+    "2p": "depilad",
+    "3p": "depilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no depiles",
+    "3s": "no depile",
+    "1p": "no depilemos",
+    "2p": "no depiléis",
+    "3p": "no depilen"
+  },
+  "Part-ter": {
+    "": "depilado"
+  },
+  "Part-ser": {
+    "ms": "depilado",
+    "fs": "depilada",
+    "mp": "depilados",
+    "fp": "depiladas"
+  }
+}

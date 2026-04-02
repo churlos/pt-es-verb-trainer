@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "equipar"
+  },
+  "InfP": {
+    "1s": "equipar",
+    "2s": "equipares",
+    "3s": "equipar",
+    "1p": "equiparmos",
+    "2p": "equipardes",
+    "3p": "equiparem"
+  },
+  "Ger": {
+    "": "equipando"
+  },
+  "PresI": {
+    "1s": "equipo",
+    "2s": "equipas",
+    "3s": "equipa",
+    "1p": "equipamos",
+    "2p": "equipais",
+    "3p": "equipam"
+  },
+  "PImpI": {
+    "1s": "equipava",
+    "2s": "equipavas",
+    "3s": "equipava",
+    "1p": "equipávamos",
+    "2p": "equipáveis",
+    "3p": "equipavam"
+  },
+  "PPSI": {
+    "1s": "equipei",
+    "2s": "equipaste",
+    "3s": "equipou",
+    "1p": "equipámos",
+    "2p": "equipastes",
+    "3p": "equiparam"
+  },
+  "PMQPSI": {
+    "1s": "equipara",
+    "2s": "equiparas",
+    "3s": "equipara",
+    "1p": "equipáramos",
+    "2p": "equipáreis",
+    "3p": "equiparam"
+  },
+  "FutSI": {
+    "1s": "equiparei",
+    "2s": "equiparás",
+    "3s": "equipará",
+    "1p": "equiparemos",
+    "2p": "equipareis",
+    "3p": "equiparão"
+  },
+  "CondS": {
+    "1s": "equiparia",
+    "2s": "equiparias",
+    "3s": "equiparia",
+    "1p": "equiparíamos",
+    "2p": "equiparíeis",
+    "3p": "equipariam"
+  },
+  "PresC": {
+    "1s": "equipe",
+    "2s": "equipes",
+    "3s": "equipe",
+    "1p": "equipemos",
+    "2p": "equipeis",
+    "3p": "equipem"
+  },
+  "PImpC": {
+    "1s": "equipasse",
+    "2s": "equipasses",
+    "3s": "equipasse",
+    "1p": "equipássemos",
+    "2p": "equipásseis",
+    "3p": "equipassem"
+  },
+  "FutSC": {
+    "1s": "equipar",
+    "2s": "equipares",
+    "3s": "equipar",
+    "1p": "equiparmos",
+    "2p": "equipardes",
+    "3p": "equiparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "equipa",
+    "3s": "equipe",
+    "1p": "equipemos",
+    "2p": "equipai",
+    "3p": "equipem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não equipes",
+    "3s": "não equipe",
+    "1p": "não equipemos",
+    "2p": "não equipeis",
+    "3p": "não equipem"
+  },
+  "Part-ter": {
+    "": "equipado"
+  },
+  "Part-ser": {
+    "ms": "equipado",
+    "fs": "equipada",
+    "mp": "equipados",
+    "fp": "equipadas"
+  }
+}

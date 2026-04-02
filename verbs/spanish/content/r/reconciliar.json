@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reconciliar"
+  },
+  "Ger": {
+    "": "reconciliando"
+  },
+  "PresI": {
+    "1s": "reconcilio",
+    "2s": "reconcilias",
+    "3s": "reconcilia",
+    "1p": "reconciliamos",
+    "2p": "reconciliáis",
+    "3p": "reconcilian"
+  },
+  "PImpI": {
+    "1s": "reconciliaba",
+    "2s": "reconciliabas",
+    "3s": "reconciliaba",
+    "1p": "reconciliábamos",
+    "2p": "reconciliabais",
+    "3p": "reconciliaban"
+  },
+  "PPSI": {
+    "1s": "reconcilié",
+    "2s": "reconciliaste",
+    "3s": "reconcilió",
+    "1p": "reconciliamos",
+    "2p": "reconciliasteis",
+    "3p": "reconciliaron"
+  },
+  "FutSI": {
+    "1s": "reconciliaré",
+    "2s": "reconciliarás",
+    "3s": "reconciliará",
+    "1p": "reconciliaremos",
+    "2p": "reconciliaréis",
+    "3p": "reconciliarán"
+  },
+  "CondS": {
+    "1s": "reconciliaría",
+    "2s": "reconciliarías",
+    "3s": "reconciliaría",
+    "1p": "reconciliaríamos",
+    "2p": "reconciliaríais",
+    "3p": "reconciliarían"
+  },
+  "PresC": {
+    "1s": "reconcilie",
+    "2s": "reconcilies",
+    "3s": "reconcilie",
+    "1p": "reconciliemos",
+    "2p": "reconciliéis",
+    "3p": "reconcilien"
+  },
+  "PMQPSI": {
+    "1s": "reconciliara",
+    "2s": "reconciliaras",
+    "3s": "reconciliara",
+    "1p": "reconciliáramos",
+    "2p": "reconciliarais",
+    "3p": "reconciliaran"
+  },
+  "PImpC": {
+    "1s": "reconciliase",
+    "2s": "reconciliases",
+    "3s": "reconciliase",
+    "1p": "reconciliásemos",
+    "2p": "reconciliaseis",
+    "3p": "reconciliasen"
+  },
+  "FutSC": {
+    "1s": "reconciliare",
+    "2s": "reconciliares",
+    "3s": "reconciliare",
+    "1p": "reconciliáremos",
+    "2p": "reconciliareis",
+    "3p": "reconciliaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reconcilia",
+    "3s": "reconcilie",
+    "1p": "reconciliemos",
+    "2p": "reconciliad",
+    "3p": "reconcilien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reconcilies",
+    "3s": "no reconcilie",
+    "1p": "no reconciliemos",
+    "2p": "no reconciliéis",
+    "3p": "no reconcilien"
+  },
+  "Part-ter": {
+    "": "reconciliado"
+  },
+  "Part-ser": {
+    "ms": "reconciliado",
+    "fs": "reconciliada",
+    "mp": "reconciliados",
+    "fp": "reconciliadas"
+  }
+}

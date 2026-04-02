@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "precocer"
+  },
+  "Ger": {
+    "": "precociendo"
+  },
+  "PresI": {
+    "1s": "precuezo",
+    "2s": "precueces",
+    "3s": "precuece",
+    "1p": "precocemos",
+    "2p": "precocéis",
+    "3p": "precuecen"
+  },
+  "PImpI": {
+    "1s": "precocía",
+    "2s": "precocías",
+    "3s": "precocía",
+    "1p": "precocíamos",
+    "2p": "precocíais",
+    "3p": "precocían"
+  },
+  "PPSI": {
+    "1s": "precocí",
+    "2s": "precociste",
+    "3s": "precoció",
+    "1p": "precocimos",
+    "2p": "precocisteis",
+    "3p": "precocieron"
+  },
+  "FutSI": {
+    "1s": "precoceré",
+    "2s": "precocerás",
+    "3s": "precocerá",
+    "1p": "precoceremos",
+    "2p": "precoceréis",
+    "3p": "precocerán"
+  },
+  "CondS": {
+    "1s": "precocería",
+    "2s": "precocerías",
+    "3s": "precocería",
+    "1p": "precoceríamos",
+    "2p": "precoceríais",
+    "3p": "precocerían"
+  },
+  "PresC": {
+    "1s": "precueza",
+    "2s": "precuezas",
+    "3s": "precueza",
+    "1p": "precozamos",
+    "2p": "precozáis",
+    "3p": "precuezan"
+  },
+  "PMQPSI": {
+    "1s": "precociera",
+    "2s": "precocieras",
+    "3s": "precociera",
+    "1p": "precociéramos",
+    "2p": "precocierais",
+    "3p": "precocieran"
+  },
+  "PImpC": {
+    "1s": "precociese",
+    "2s": "precocieses",
+    "3s": "precociese",
+    "1p": "precociésemos",
+    "2p": "precocieseis",
+    "3p": "precociesen"
+  },
+  "FutSC": {
+    "1s": "precociere",
+    "2s": "precocieres",
+    "3s": "precociere",
+    "1p": "precociéremos",
+    "2p": "precociereis",
+    "3p": "precocieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "precuece",
+    "3s": "precueza",
+    "1p": "precozamos",
+    "2p": "precoced",
+    "3p": "precuezan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no precuezas",
+    "3s": "no precueza",
+    "1p": "no precozamos",
+    "2p": "no precozáis",
+    "3p": "no precuezan"
+  },
+  "Part-ter": {
+    "": "precocido"
+  },
+  "Part-ser": {
+    "ms": "precocido",
+    "fs": "precocida",
+    "mp": "precocidos",
+    "fp": "precocidas"
+  }
+}

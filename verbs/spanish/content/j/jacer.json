@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jacer"
+  },
+  "Ger": {
+    "": "jaciendo"
+  },
+  "PresI": {
+    "1s": "jago",
+    "2s": "jaces",
+    "3s": "jace",
+    "1p": "jacemos",
+    "2p": "jacéis",
+    "3p": "jacen"
+  },
+  "PImpI": {
+    "1s": "jacía",
+    "2s": "jacías",
+    "3s": "jacía",
+    "1p": "jacíamos",
+    "2p": "jacíais",
+    "3p": "jacían"
+  },
+  "PPSI": {
+    "1s": "jice",
+    "2s": "jiciste",
+    "3s": "jizo",
+    "1p": "jicimos",
+    "2p": "jicisteis",
+    "3p": "jicieron"
+  },
+  "FutSI": {
+    "1s": "jaré",
+    "2s": "jarás",
+    "3s": "jará",
+    "1p": "jaremos",
+    "2p": "jaréis",
+    "3p": "jarán"
+  },
+  "CondS": {
+    "1s": "jaría",
+    "2s": "jarías",
+    "3s": "jaría",
+    "1p": "jaríamos",
+    "2p": "jaríais",
+    "3p": "jarían"
+  },
+  "PresC": {
+    "1s": "jaga",
+    "2s": "jagas",
+    "3s": "jaga",
+    "1p": "jagamos",
+    "2p": "jagáis",
+    "3p": "jagan"
+  },
+  "PMQPSI": {
+    "1s": "jiciera",
+    "2s": "jicieras",
+    "3s": "jiciera",
+    "1p": "jiciéramos",
+    "2p": "jicierais",
+    "3p": "jicieran"
+  },
+  "PImpC": {
+    "1s": "jiciese",
+    "2s": "jicieses",
+    "3s": "jiciese",
+    "1p": "jiciésemos",
+    "2p": "jicieseis",
+    "3p": "jiciesen"
+  },
+  "FutSC": {
+    "1s": "jiciere",
+    "2s": "jicieres",
+    "3s": "jiciere",
+    "1p": "jiciéremos",
+    "2p": "jiciereis",
+    "3p": "jicieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jace",
+    "3s": "jaga",
+    "1p": "jagamos",
+    "2p": "jaced",
+    "3p": "jagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no jagas",
+    "3s": "no jaga",
+    "1p": "no jagamos",
+    "2p": "no jagáis",
+    "3p": "no jagan"
+  },
+  "Part-ter": {
+    "": "jecho"
+  },
+  "Part-ser": {
+    "ms": "jecho",
+    "fs": "jecha",
+    "mp": "jechos",
+    "fp": "jechas"
+  }
+}

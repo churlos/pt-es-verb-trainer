@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agredir"
+  },
+  "InfP": {
+    "1s": "agredir",
+    "2s": "agredires",
+    "3s": "agredir",
+    "1p": "agredirmos",
+    "2p": "agredirdes",
+    "3p": "agredirem"
+  },
+  "Ger": {
+    "": "agredindo"
+  },
+  "PresI": {
+    "1s": "agrido",
+    "2s": "agrides",
+    "3s": "agride",
+    "1p": "agredimos",
+    "2p": "agredis",
+    "3p": "agridem"
+  },
+  "PImpI": {
+    "1s": "agredia",
+    "2s": "agredias",
+    "3s": "agredia",
+    "1p": "agredíamos",
+    "2p": "agredíeis",
+    "3p": "agrediam"
+  },
+  "PPSI": {
+    "1s": "agredi",
+    "2s": "agrediste",
+    "3s": "agrediu",
+    "1p": "agredimos",
+    "2p": "agredistes",
+    "3p": "agrediram"
+  },
+  "PMQPSI": {
+    "1s": "agredira",
+    "2s": "agrediras",
+    "3s": "agredira",
+    "1p": "agredíramos",
+    "2p": "agredíreis",
+    "3p": "agrediram"
+  },
+  "FutSI": {
+    "1s": "agredirei",
+    "2s": "agredirás",
+    "3s": "agredirá",
+    "1p": "agrediremos",
+    "2p": "agredireis",
+    "3p": "agredirão"
+  },
+  "CondS": {
+    "1s": "agrediria",
+    "2s": "agredirias",
+    "3s": "agrediria",
+    "1p": "agrediríamos",
+    "2p": "agrediríeis",
+    "3p": "agrediriam"
+  },
+  "PresC": {
+    "1s": "agrida",
+    "2s": "agridas",
+    "3s": "agrida",
+    "1p": "agridamos",
+    "2p": "agridais",
+    "3p": "agridam"
+  },
+  "PImpC": {
+    "1s": "agredisse",
+    "2s": "agredisses",
+    "3s": "agredisse",
+    "1p": "agredíssemos",
+    "2p": "agredísseis",
+    "3p": "agredissem"
+  },
+  "FutSC": {
+    "1s": "agredir",
+    "2s": "agredires",
+    "3s": "agredir",
+    "1p": "agredirmos",
+    "2p": "agredirdes",
+    "3p": "agredirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agride",
+    "3s": "agrida",
+    "1p": "agridamos",
+    "2p": "agredi",
+    "3p": "agridam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agridas",
+    "3s": "não agrida",
+    "1p": "não agridamos",
+    "2p": "não agridais",
+    "3p": "não agridam"
+  },
+  "Part-ter": {
+    "": "agredido"
+  },
+  "Part-ser": {
+    "ms": "agredido",
+    "fs": "agredida",
+    "mp": "agredidos",
+    "fp": "agredidas"
+  }
+}

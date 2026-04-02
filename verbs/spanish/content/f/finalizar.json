@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "finalizar"
+  },
+  "Ger": {
+    "": "finalizando"
+  },
+  "PresI": {
+    "1s": "finalizo",
+    "2s": "finalizas",
+    "3s": "finaliza",
+    "1p": "finalizamos",
+    "2p": "finalizáis",
+    "3p": "finalizan"
+  },
+  "PImpI": {
+    "1s": "finalizaba",
+    "2s": "finalizabas",
+    "3s": "finalizaba",
+    "1p": "finalizábamos",
+    "2p": "finalizabais",
+    "3p": "finalizaban"
+  },
+  "PPSI": {
+    "1s": "finalicé",
+    "2s": "finalizaste",
+    "3s": "finalizó",
+    "1p": "finalizamos",
+    "2p": "finalizasteis",
+    "3p": "finalizaron"
+  },
+  "FutSI": {
+    "1s": "finalizaré",
+    "2s": "finalizarás",
+    "3s": "finalizará",
+    "1p": "finalizaremos",
+    "2p": "finalizaréis",
+    "3p": "finalizarán"
+  },
+  "CondS": {
+    "1s": "finalizaría",
+    "2s": "finalizarías",
+    "3s": "finalizaría",
+    "1p": "finalizaríamos",
+    "2p": "finalizaríais",
+    "3p": "finalizarían"
+  },
+  "PresC": {
+    "1s": "finalice",
+    "2s": "finalices",
+    "3s": "finalice",
+    "1p": "finalicemos",
+    "2p": "finalicéis",
+    "3p": "finalicen"
+  },
+  "PMQPSI": {
+    "1s": "finalizara",
+    "2s": "finalizaras",
+    "3s": "finalizara",
+    "1p": "finalizáramos",
+    "2p": "finalizarais",
+    "3p": "finalizaran"
+  },
+  "PImpC": {
+    "1s": "finalizase",
+    "2s": "finalizases",
+    "3s": "finalizase",
+    "1p": "finalizásemos",
+    "2p": "finalizaseis",
+    "3p": "finalizasen"
+  },
+  "FutSC": {
+    "1s": "finalizare",
+    "2s": "finalizares",
+    "3s": "finalizare",
+    "1p": "finalizáremos",
+    "2p": "finalizareis",
+    "3p": "finalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "finaliza",
+    "3s": "finalice",
+    "1p": "finalicemos",
+    "2p": "finalizad",
+    "3p": "finalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no finalices",
+    "3s": "no finalice",
+    "1p": "no finalicemos",
+    "2p": "no finalicéis",
+    "3p": "no finalicen"
+  },
+  "Part-ter": {
+    "": "finalizado"
+  },
+  "Part-ser": {
+    "ms": "finalizado",
+    "fs": "finalizada",
+    "mp": "finalizados",
+    "fp": "finalizadas"
+  }
+}

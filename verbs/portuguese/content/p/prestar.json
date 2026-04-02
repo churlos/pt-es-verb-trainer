@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prestar"
+  },
+  "InfP": {
+    "1s": "prestar",
+    "2s": "prestares",
+    "3s": "prestar",
+    "1p": "prestarmos",
+    "2p": "prestardes",
+    "3p": "prestarem"
+  },
+  "Ger": {
+    "": "prestando"
+  },
+  "PresI": {
+    "1s": "presto",
+    "2s": "prestas",
+    "3s": "presta",
+    "1p": "prestamos",
+    "2p": "prestais",
+    "3p": "prestam"
+  },
+  "PImpI": {
+    "1s": "prestava",
+    "2s": "prestavas",
+    "3s": "prestava",
+    "1p": "prestávamos",
+    "2p": "prestáveis",
+    "3p": "prestavam"
+  },
+  "PPSI": {
+    "1s": "prestei",
+    "2s": "prestaste",
+    "3s": "prestou",
+    "1p": "prestámos",
+    "2p": "prestastes",
+    "3p": "prestaram"
+  },
+  "PMQPSI": {
+    "1s": "prestara",
+    "2s": "prestaras",
+    "3s": "prestara",
+    "1p": "prestáramos",
+    "2p": "prestáreis",
+    "3p": "prestaram"
+  },
+  "FutSI": {
+    "1s": "prestarei",
+    "2s": "prestarás",
+    "3s": "prestará",
+    "1p": "prestaremos",
+    "2p": "prestareis",
+    "3p": "prestarão"
+  },
+  "CondS": {
+    "1s": "prestaria",
+    "2s": "prestarias",
+    "3s": "prestaria",
+    "1p": "prestaríamos",
+    "2p": "prestaríeis",
+    "3p": "prestariam"
+  },
+  "PresC": {
+    "1s": "preste",
+    "2s": "prestes",
+    "3s": "preste",
+    "1p": "prestemos",
+    "2p": "presteis",
+    "3p": "prestem"
+  },
+  "PImpC": {
+    "1s": "prestasse",
+    "2s": "prestasses",
+    "3s": "prestasse",
+    "1p": "prestássemos",
+    "2p": "prestásseis",
+    "3p": "prestassem"
+  },
+  "FutSC": {
+    "1s": "prestar",
+    "2s": "prestares",
+    "3s": "prestar",
+    "1p": "prestarmos",
+    "2p": "prestardes",
+    "3p": "prestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "presta",
+    "3s": "preste",
+    "1p": "prestemos",
+    "2p": "prestai",
+    "3p": "prestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prestes",
+    "3s": "não preste",
+    "1p": "não prestemos",
+    "2p": "não presteis",
+    "3p": "não prestem"
+  },
+  "Part-ter": {
+    "": "prestado"
+  },
+  "Part-ser": {
+    "ms": "prestado",
+    "fs": "prestada",
+    "mp": "prestados",
+    "fp": "prestadas"
+  }
+}

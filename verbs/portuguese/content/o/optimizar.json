@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "optimizar"
+  },
+  "InfP": {
+    "1s": "optimizar",
+    "2s": "optimizares",
+    "3s": "optimizar",
+    "1p": "optimizarmos",
+    "2p": "optimizardes",
+    "3p": "optimizarem"
+  },
+  "Ger": {
+    "": "optimizando"
+  },
+  "PresI": {
+    "1s": "optimizo",
+    "2s": "optimizas",
+    "3s": "optimiza",
+    "1p": "optimizamos",
+    "2p": "optimizais",
+    "3p": "optimizam"
+  },
+  "PImpI": {
+    "1s": "optimizava",
+    "2s": "optimizavas",
+    "3s": "optimizava",
+    "1p": "optimizávamos",
+    "2p": "optimizáveis",
+    "3p": "optimizavam"
+  },
+  "PPSI": {
+    "1s": "optimizei",
+    "2s": "optimizaste",
+    "3s": "optimizou",
+    "1p": "optimizámos",
+    "2p": "optimizastes",
+    "3p": "optimizaram"
+  },
+  "PMQPSI": {
+    "1s": "optimizara",
+    "2s": "optimizaras",
+    "3s": "optimizara",
+    "1p": "optimizáramos",
+    "2p": "optimizáreis",
+    "3p": "optimizaram"
+  },
+  "FutSI": {
+    "1s": "optimizarei",
+    "2s": "optimizarás",
+    "3s": "optimizará",
+    "1p": "optimizaremos",
+    "2p": "optimizareis",
+    "3p": "optimizarão"
+  },
+  "CondS": {
+    "1s": "optimizaria",
+    "2s": "optimizarias",
+    "3s": "optimizaria",
+    "1p": "optimizaríamos",
+    "2p": "optimizaríeis",
+    "3p": "optimizariam"
+  },
+  "PresC": {
+    "1s": "optimize",
+    "2s": "optimizes",
+    "3s": "optimize",
+    "1p": "optimizemos",
+    "2p": "optimizeis",
+    "3p": "optimizem"
+  },
+  "PImpC": {
+    "1s": "optimizasse",
+    "2s": "optimizasses",
+    "3s": "optimizasse",
+    "1p": "optimizássemos",
+    "2p": "optimizásseis",
+    "3p": "optimizassem"
+  },
+  "FutSC": {
+    "1s": "optimizar",
+    "2s": "optimizares",
+    "3s": "optimizar",
+    "1p": "optimizarmos",
+    "2p": "optimizardes",
+    "3p": "optimizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "optimiza",
+    "3s": "optimize",
+    "1p": "optimizemos",
+    "2p": "optimizai",
+    "3p": "optimizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não optimizes",
+    "3s": "não optimize",
+    "1p": "não optimizemos",
+    "2p": "não optimizeis",
+    "3p": "não optimizem"
+  },
+  "Part-ter": {
+    "": "optimizado"
+  },
+  "Part-ser": {
+    "ms": "optimizado",
+    "fs": "optimizada",
+    "mp": "optimizados",
+    "fp": "optimizadas"
+  }
+}

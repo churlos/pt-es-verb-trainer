@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "predicar"
+  },
+  "InfP": {
+    "1s": "predicar",
+    "2s": "predicares",
+    "3s": "predicar",
+    "1p": "predicarmos",
+    "2p": "predicardes",
+    "3p": "predicarem"
+  },
+  "Ger": {
+    "": "predicando"
+  },
+  "PresI": {
+    "1s": "predico",
+    "2s": "predicas",
+    "3s": "predica",
+    "1p": "predicamos",
+    "2p": "predicais",
+    "3p": "predicam"
+  },
+  "PImpI": {
+    "1s": "predicava",
+    "2s": "predicavas",
+    "3s": "predicava",
+    "1p": "predicávamos",
+    "2p": "predicáveis",
+    "3p": "predicavam"
+  },
+  "PPSI": {
+    "1s": "prediquei",
+    "2s": "predicaste",
+    "3s": "predicou",
+    "1p": "predicámos",
+    "2p": "predicastes",
+    "3p": "predicaram"
+  },
+  "PMQPSI": {
+    "1s": "predicara",
+    "2s": "predicaras",
+    "3s": "predicara",
+    "1p": "predicáramos",
+    "2p": "predicáreis",
+    "3p": "predicaram"
+  },
+  "FutSI": {
+    "1s": "predicarei",
+    "2s": "predicarás",
+    "3s": "predicará",
+    "1p": "predicaremos",
+    "2p": "predicareis",
+    "3p": "predicarão"
+  },
+  "CondS": {
+    "1s": "predicaria",
+    "2s": "predicarias",
+    "3s": "predicaria",
+    "1p": "predicaríamos",
+    "2p": "predicaríeis",
+    "3p": "predicariam"
+  },
+  "PresC": {
+    "1s": "predique",
+    "2s": "prediques",
+    "3s": "predique",
+    "1p": "prediquemos",
+    "2p": "prediqueis",
+    "3p": "prediquem"
+  },
+  "PImpC": {
+    "1s": "predicasse",
+    "2s": "predicasses",
+    "3s": "predicasse",
+    "1p": "predicássemos",
+    "2p": "predicásseis",
+    "3p": "predicassem"
+  },
+  "FutSC": {
+    "1s": "predicar",
+    "2s": "predicares",
+    "3s": "predicar",
+    "1p": "predicarmos",
+    "2p": "predicardes",
+    "3p": "predicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "predica",
+    "3s": "predique",
+    "1p": "prediquemos",
+    "2p": "predicai",
+    "3p": "prediquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prediques",
+    "3s": "não predique",
+    "1p": "não prediquemos",
+    "2p": "não prediqueis",
+    "3p": "não prediquem"
+  },
+  "Part-ter": {
+    "": "predicado"
+  },
+  "Part-ser": {
+    "ms": "predicado",
+    "fs": "predicada",
+    "mp": "predicados",
+    "fp": "predicadas"
+  }
+}

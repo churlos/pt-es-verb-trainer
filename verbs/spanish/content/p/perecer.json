@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perecer"
+  },
+  "Ger": {
+    "": "pereciendo"
+  },
+  "PresI": {
+    "1s": "perezco",
+    "2s": "pereces",
+    "3s": "perece",
+    "1p": "perecemos",
+    "2p": "perecéis",
+    "3p": "perecen"
+  },
+  "PImpI": {
+    "1s": "perecía",
+    "2s": "perecías",
+    "3s": "perecía",
+    "1p": "perecíamos",
+    "2p": "perecíais",
+    "3p": "perecían"
+  },
+  "PPSI": {
+    "1s": "perecí",
+    "2s": "pereciste",
+    "3s": "pereció",
+    "1p": "perecimos",
+    "2p": "perecisteis",
+    "3p": "perecieron"
+  },
+  "FutSI": {
+    "1s": "pereceré",
+    "2s": "perecerás",
+    "3s": "perecerá",
+    "1p": "pereceremos",
+    "2p": "pereceréis",
+    "3p": "perecerán"
+  },
+  "CondS": {
+    "1s": "perecería",
+    "2s": "perecerías",
+    "3s": "perecería",
+    "1p": "pereceríamos",
+    "2p": "pereceríais",
+    "3p": "perecerían"
+  },
+  "PresC": {
+    "1s": "perezca",
+    "2s": "perezcas",
+    "3s": "perezca",
+    "1p": "perezcamos",
+    "2p": "perezcáis",
+    "3p": "perezcan"
+  },
+  "PMQPSI": {
+    "1s": "pereciera",
+    "2s": "perecieras",
+    "3s": "pereciera",
+    "1p": "pereciéramos",
+    "2p": "perecierais",
+    "3p": "perecieran"
+  },
+  "PImpC": {
+    "1s": "pereciese",
+    "2s": "perecieses",
+    "3s": "pereciese",
+    "1p": "pereciésemos",
+    "2p": "perecieseis",
+    "3p": "pereciesen"
+  },
+  "FutSC": {
+    "1s": "pereciere",
+    "2s": "perecieres",
+    "3s": "pereciere",
+    "1p": "pereciéremos",
+    "2p": "pereciereis",
+    "3p": "perecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perece",
+    "3s": "perezca",
+    "1p": "perezcamos",
+    "2p": "pereced",
+    "3p": "perezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no perezcas",
+    "3s": "no perezca",
+    "1p": "no perezcamos",
+    "2p": "no perezcáis",
+    "3p": "no perezcan"
+  },
+  "Part-ter": {
+    "": "perecido"
+  },
+  "Part-ser": {
+    "ms": "perecido",
+    "fs": "perecida",
+    "mp": "perecidos",
+    "fp": "perecidas"
+  }
+}

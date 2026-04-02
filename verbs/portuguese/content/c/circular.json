@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "circular"
+  },
+  "InfP": {
+    "1s": "circular",
+    "2s": "circulares",
+    "3s": "circular",
+    "1p": "circularmos",
+    "2p": "circulardes",
+    "3p": "circularem"
+  },
+  "Ger": {
+    "": "circulando"
+  },
+  "PresI": {
+    "1s": "circulo",
+    "2s": "circulas",
+    "3s": "circula",
+    "1p": "circulamos",
+    "2p": "circulais",
+    "3p": "circulam"
+  },
+  "PImpI": {
+    "1s": "circulava",
+    "2s": "circulavas",
+    "3s": "circulava",
+    "1p": "circulávamos",
+    "2p": "circuláveis",
+    "3p": "circulavam"
+  },
+  "PPSI": {
+    "1s": "circulei",
+    "2s": "circulaste",
+    "3s": "circulou",
+    "1p": "circulámos",
+    "2p": "circulastes",
+    "3p": "circularam"
+  },
+  "PMQPSI": {
+    "1s": "circulara",
+    "2s": "circularas",
+    "3s": "circulara",
+    "1p": "circuláramos",
+    "2p": "circuláreis",
+    "3p": "circularam"
+  },
+  "FutSI": {
+    "1s": "circularei",
+    "2s": "circularás",
+    "3s": "circulará",
+    "1p": "circularemos",
+    "2p": "circulareis",
+    "3p": "circularão"
+  },
+  "CondS": {
+    "1s": "circularia",
+    "2s": "circularias",
+    "3s": "circularia",
+    "1p": "circularíamos",
+    "2p": "circularíeis",
+    "3p": "circulariam"
+  },
+  "PresC": {
+    "1s": "circule",
+    "2s": "circules",
+    "3s": "circule",
+    "1p": "circulemos",
+    "2p": "circuleis",
+    "3p": "circulem"
+  },
+  "PImpC": {
+    "1s": "circulasse",
+    "2s": "circulasses",
+    "3s": "circulasse",
+    "1p": "circulássemos",
+    "2p": "circulásseis",
+    "3p": "circulassem"
+  },
+  "FutSC": {
+    "1s": "circular",
+    "2s": "circulares",
+    "3s": "circular",
+    "1p": "circularmos",
+    "2p": "circulardes",
+    "3p": "circularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "circula",
+    "3s": "circule",
+    "1p": "circulemos",
+    "2p": "circulai",
+    "3p": "circulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não circules",
+    "3s": "não circule",
+    "1p": "não circulemos",
+    "2p": "não circuleis",
+    "3p": "não circulem"
+  },
+  "Part-ter": {
+    "": "circulado"
+  },
+  "Part-ser": {
+    "ms": "circulado",
+    "fs": "circulada",
+    "mp": "circulados",
+    "fp": "circuladas"
+  }
+}

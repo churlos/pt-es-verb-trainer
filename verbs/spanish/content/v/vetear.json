@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vetear"
+  },
+  "Ger": {
+    "": "veteando"
+  },
+  "PresI": {
+    "1s": "veteo",
+    "2s": "veteas",
+    "3s": "vetea",
+    "1p": "veteamos",
+    "2p": "veteáis",
+    "3p": "vetean"
+  },
+  "PImpI": {
+    "1s": "veteaba",
+    "2s": "veteabas",
+    "3s": "veteaba",
+    "1p": "veteábamos",
+    "2p": "veteabais",
+    "3p": "veteaban"
+  },
+  "PPSI": {
+    "1s": "veteé",
+    "2s": "veteaste",
+    "3s": "veteó",
+    "1p": "veteamos",
+    "2p": "veteasteis",
+    "3p": "vetearon"
+  },
+  "FutSI": {
+    "1s": "vetearé",
+    "2s": "vetearás",
+    "3s": "veteará",
+    "1p": "vetearemos",
+    "2p": "vetearéis",
+    "3p": "vetearán"
+  },
+  "CondS": {
+    "1s": "vetearía",
+    "2s": "vetearías",
+    "3s": "vetearía",
+    "1p": "vetearíamos",
+    "2p": "vetearíais",
+    "3p": "vetearían"
+  },
+  "PresC": {
+    "1s": "vetee",
+    "2s": "vetees",
+    "3s": "vetee",
+    "1p": "veteemos",
+    "2p": "veteéis",
+    "3p": "veteen"
+  },
+  "PMQPSI": {
+    "1s": "veteara",
+    "2s": "vetearas",
+    "3s": "veteara",
+    "1p": "veteáramos",
+    "2p": "vetearais",
+    "3p": "vetearan"
+  },
+  "PImpC": {
+    "1s": "vetease",
+    "2s": "veteases",
+    "3s": "vetease",
+    "1p": "veteásemos",
+    "2p": "veteaseis",
+    "3p": "veteasen"
+  },
+  "FutSC": {
+    "1s": "veteare",
+    "2s": "veteares",
+    "3s": "veteare",
+    "1p": "veteáremos",
+    "2p": "veteareis",
+    "3p": "vetearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vetea",
+    "3s": "vetee",
+    "1p": "veteemos",
+    "2p": "vetead",
+    "3p": "veteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vetees",
+    "3s": "no vetee",
+    "1p": "no veteemos",
+    "2p": "no veteéis",
+    "3p": "no veteen"
+  },
+  "Part-ter": {
+    "": "veteado"
+  },
+  "Part-ser": {
+    "ms": "veteado",
+    "fs": "veteada",
+    "mp": "veteados",
+    "fp": "veteadas"
+  }
+}

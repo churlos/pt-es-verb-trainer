@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sonar"
+  },
+  "Ger": {
+    "": "sonando"
+  },
+  "PresI": {
+    "1s": "sueno",
+    "2s": "suenas",
+    "3s": "suena",
+    "1p": "sonamos",
+    "2p": "sonáis",
+    "3p": "suenan"
+  },
+  "PImpI": {
+    "1s": "sonaba",
+    "2s": "sonabas",
+    "3s": "sonaba",
+    "1p": "sonábamos",
+    "2p": "sonabais",
+    "3p": "sonaban"
+  },
+  "PPSI": {
+    "1s": "soné",
+    "2s": "sonaste",
+    "3s": "sonó",
+    "1p": "sonamos",
+    "2p": "sonasteis",
+    "3p": "sonaron"
+  },
+  "FutSI": {
+    "1s": "sonaré",
+    "2s": "sonarás",
+    "3s": "sonará",
+    "1p": "sonaremos",
+    "2p": "sonaréis",
+    "3p": "sonarán"
+  },
+  "CondS": {
+    "1s": "sonaría",
+    "2s": "sonarías",
+    "3s": "sonaría",
+    "1p": "sonaríamos",
+    "2p": "sonaríais",
+    "3p": "sonarían"
+  },
+  "PresC": {
+    "1s": "suene",
+    "2s": "suenes",
+    "3s": "suene",
+    "1p": "sonemos",
+    "2p": "sonéis",
+    "3p": "suenen"
+  },
+  "PMQPSI": {
+    "1s": "sonara",
+    "2s": "sonaras",
+    "3s": "sonara",
+    "1p": "sonáramos",
+    "2p": "sonarais",
+    "3p": "sonaran"
+  },
+  "PImpC": {
+    "1s": "sonase",
+    "2s": "sonases",
+    "3s": "sonase",
+    "1p": "sonásemos",
+    "2p": "sonaseis",
+    "3p": "sonasen"
+  },
+  "FutSC": {
+    "1s": "sonare",
+    "2s": "sonares",
+    "3s": "sonare",
+    "1p": "sonáremos",
+    "2p": "sonareis",
+    "3p": "sonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suena",
+    "3s": "suene",
+    "1p": "sonemos",
+    "2p": "sonad",
+    "3p": "suenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no suenes",
+    "3s": "no suene",
+    "1p": "no sonemos",
+    "2p": "no sonéis",
+    "3p": "no suenen"
+  },
+  "Part-ter": {
+    "": "sonado"
+  },
+  "Part-ser": {
+    "ms": "sonado",
+    "fs": "sonada",
+    "mp": "sonados",
+    "fp": "sonadas"
+  }
+}

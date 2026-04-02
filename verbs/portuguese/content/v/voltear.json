@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "voltear"
+  },
+  "InfP": {
+    "1s": "voltear",
+    "2s": "volteares",
+    "3s": "voltear",
+    "1p": "voltearmos",
+    "2p": "volteardes",
+    "3p": "voltearem"
+  },
+  "Ger": {
+    "": "volteando"
+  },
+  "PresI": {
+    "1s": "volteo",
+    "2s": "volteas",
+    "3s": "voltea",
+    "1p": "volteamos",
+    "2p": "volteais",
+    "3p": "volteam"
+  },
+  "PImpI": {
+    "1s": "volteava",
+    "2s": "volteavas",
+    "3s": "volteava",
+    "1p": "volteávamos",
+    "2p": "volteáveis",
+    "3p": "volteavam"
+  },
+  "PPSI": {
+    "1s": "volteei",
+    "2s": "volteaste",
+    "3s": "volteou",
+    "1p": "volteámos",
+    "2p": "volteastes",
+    "3p": "voltearam"
+  },
+  "PMQPSI": {
+    "1s": "volteara",
+    "2s": "voltearas",
+    "3s": "volteara",
+    "1p": "volteáramos",
+    "2p": "volteáreis",
+    "3p": "voltearam"
+  },
+  "FutSI": {
+    "1s": "voltearei",
+    "2s": "voltearás",
+    "3s": "volteará",
+    "1p": "voltearemos",
+    "2p": "volteareis",
+    "3p": "voltearão"
+  },
+  "CondS": {
+    "1s": "voltearia",
+    "2s": "voltearias",
+    "3s": "voltearia",
+    "1p": "voltearíamos",
+    "2p": "voltearíeis",
+    "3p": "volteariam"
+  },
+  "PresC": {
+    "1s": "voltee",
+    "2s": "voltees",
+    "3s": "voltee",
+    "1p": "volteemos",
+    "2p": "volteeis",
+    "3p": "volteem"
+  },
+  "PImpC": {
+    "1s": "volteasse",
+    "2s": "volteasses",
+    "3s": "volteasse",
+    "1p": "volteássemos",
+    "2p": "volteásseis",
+    "3p": "volteassem"
+  },
+  "FutSC": {
+    "1s": "voltear",
+    "2s": "volteares",
+    "3s": "voltear",
+    "1p": "voltearmos",
+    "2p": "volteardes",
+    "3p": "voltearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "voltea",
+    "3s": "voltee",
+    "1p": "volteemos",
+    "2p": "volteai",
+    "3p": "volteem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não voltees",
+    "3s": "não voltee",
+    "1p": "não volteemos",
+    "2p": "não volteeis",
+    "3p": "não volteem"
+  },
+  "Part-ter": {
+    "": "volteado"
+  },
+  "Part-ser": {
+    "ms": "volteado",
+    "fs": "volteada",
+    "mp": "volteados",
+    "fp": "volteadas"
+  }
+}

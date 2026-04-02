@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "zurrar"
+  },
+  "InfP": {
+    "1s": "zurrar",
+    "2s": "zurrares",
+    "3s": "zurrar",
+    "1p": "zurrarmos",
+    "2p": "zurrardes",
+    "3p": "zurrarem"
+  },
+  "Ger": {
+    "": "zurrando"
+  },
+  "PresI": {
+    "1s": "zurro",
+    "2s": "zurras",
+    "3s": "zurra",
+    "1p": "zurramos",
+    "2p": "zurrais",
+    "3p": "zurram"
+  },
+  "PImpI": {
+    "1s": "zurrava",
+    "2s": "zurravas",
+    "3s": "zurrava",
+    "1p": "zurrávamos",
+    "2p": "zurráveis",
+    "3p": "zurravam"
+  },
+  "PPSI": {
+    "1s": "zurrei",
+    "2s": "zurraste",
+    "3s": "zurrou",
+    "1p": "zurrámos",
+    "2p": "zurrastes",
+    "3p": "zurraram"
+  },
+  "PMQPSI": {
+    "1s": "zurrara",
+    "2s": "zurraras",
+    "3s": "zurrara",
+    "1p": "zurráramos",
+    "2p": "zurráreis",
+    "3p": "zurraram"
+  },
+  "FutSI": {
+    "1s": "zurrarei",
+    "2s": "zurrarás",
+    "3s": "zurrará",
+    "1p": "zurraremos",
+    "2p": "zurrareis",
+    "3p": "zurrarão"
+  },
+  "CondS": {
+    "1s": "zurraria",
+    "2s": "zurrarias",
+    "3s": "zurraria",
+    "1p": "zurraríamos",
+    "2p": "zurraríeis",
+    "3p": "zurrariam"
+  },
+  "PresC": {
+    "1s": "zurre",
+    "2s": "zurres",
+    "3s": "zurre",
+    "1p": "zurremos",
+    "2p": "zurreis",
+    "3p": "zurrem"
+  },
+  "PImpC": {
+    "1s": "zurrasse",
+    "2s": "zurrasses",
+    "3s": "zurrasse",
+    "1p": "zurrássemos",
+    "2p": "zurrásseis",
+    "3p": "zurrassem"
+  },
+  "FutSC": {
+    "1s": "zurrar",
+    "2s": "zurrares",
+    "3s": "zurrar",
+    "1p": "zurrarmos",
+    "2p": "zurrardes",
+    "3p": "zurrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zurra",
+    "3s": "zurre",
+    "1p": "zurremos",
+    "2p": "zurrai",
+    "3p": "zurrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não zurres",
+    "3s": "não zurre",
+    "1p": "não zurremos",
+    "2p": "não zurreis",
+    "3p": "não zurrem"
+  },
+  "Part-ter": {
+    "": "zurrado"
+  },
+  "Part-ser": {
+    "ms": "zurrado",
+    "fs": "zurrada",
+    "mp": "zurrados",
+    "fp": "zurradas"
+  }
+}

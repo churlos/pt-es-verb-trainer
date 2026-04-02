@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "actuar"
+  },
+  "Ger": {
+    "": "actuando"
+  },
+  "PresI": {
+    "1s": "actúo",
+    "2s": "actúas",
+    "3s": "actúa",
+    "1p": "actuamos",
+    "2p": "actuáis",
+    "3p": "actúan"
+  },
+  "PImpI": {
+    "1s": "actuaba",
+    "2s": "actuabas",
+    "3s": "actuaba",
+    "1p": "actuábamos",
+    "2p": "actuabais",
+    "3p": "actuaban"
+  },
+  "PPSI": {
+    "1s": "actué",
+    "2s": "actuaste",
+    "3s": "actuó",
+    "1p": "actuamos",
+    "2p": "actuasteis",
+    "3p": "actuaron"
+  },
+  "FutSI": {
+    "1s": "actuaré",
+    "2s": "actuarás",
+    "3s": "actuará",
+    "1p": "actuaremos",
+    "2p": "actuaréis",
+    "3p": "actuarán"
+  },
+  "CondS": {
+    "1s": "actuaría",
+    "2s": "actuarías",
+    "3s": "actuaría",
+    "1p": "actuaríamos",
+    "2p": "actuaríais",
+    "3p": "actuarían"
+  },
+  "PresC": {
+    "1s": "actúe",
+    "2s": "actúes",
+    "3s": "actúe",
+    "1p": "actuemos",
+    "2p": "actuéis",
+    "3p": "actúen"
+  },
+  "PMQPSI": {
+    "1s": "actuara",
+    "2s": "actuaras",
+    "3s": "actuara",
+    "1p": "actuáramos",
+    "2p": "actuarais",
+    "3p": "actuaran"
+  },
+  "PImpC": {
+    "1s": "actuase",
+    "2s": "actuases",
+    "3s": "actuase",
+    "1p": "actuásemos",
+    "2p": "actuaseis",
+    "3p": "actuasen"
+  },
+  "FutSC": {
+    "1s": "actuare",
+    "2s": "actuares",
+    "3s": "actuare",
+    "1p": "actuáremos",
+    "2p": "actuareis",
+    "3p": "actuaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "actúa",
+    "3s": "actúe",
+    "1p": "actuemos",
+    "2p": "actuad",
+    "3p": "actúen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no actúes",
+    "3s": "no actúe",
+    "1p": "no actuemos",
+    "2p": "no actuéis",
+    "3p": "no actúen"
+  },
+  "Part-ter": {
+    "": "actuado"
+  },
+  "Part-ser": {
+    "ms": "actuado",
+    "fs": "actuada",
+    "mp": "actuados",
+    "fp": "actuadas"
+  }
+}

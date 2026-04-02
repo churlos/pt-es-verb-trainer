@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reproducir"
+  },
+  "Ger": {
+    "": "reproduciendo"
+  },
+  "PresI": {
+    "1s": "reproduzco",
+    "2s": "reproduces",
+    "3s": "reproduce",
+    "1p": "reproducimos",
+    "2p": "reproducís",
+    "3p": "reproducen"
+  },
+  "PImpI": {
+    "1s": "reproducía",
+    "2s": "reproducías",
+    "3s": "reproducía",
+    "1p": "reproducíamos",
+    "2p": "reproducíais",
+    "3p": "reproducían"
+  },
+  "PPSI": {
+    "1s": "reproduje",
+    "2s": "reprodujiste",
+    "3s": "reprodujo",
+    "1p": "reprodujimos",
+    "2p": "reprodujisteis",
+    "3p": "reprodujeron"
+  },
+  "FutSI": {
+    "1s": "reproduciré",
+    "2s": "reproducirás",
+    "3s": "reproducirá",
+    "1p": "reproduciremos",
+    "2p": "reproduciréis",
+    "3p": "reproducirán"
+  },
+  "CondS": {
+    "1s": "reproduciría",
+    "2s": "reproducirías",
+    "3s": "reproduciría",
+    "1p": "reproduciríamos",
+    "2p": "reproduciríais",
+    "3p": "reproducirían"
+  },
+  "PresC": {
+    "1s": "reproduzca",
+    "2s": "reproduzcas",
+    "3s": "reproduzca",
+    "1p": "reproduzcamos",
+    "2p": "reproduzcáis",
+    "3p": "reproduzcan"
+  },
+  "PMQPSI": {
+    "1s": "reprodujera",
+    "2s": "reprodujeras",
+    "3s": "reprodujera",
+    "1p": "reprodujéramos",
+    "2p": "reprodujerais",
+    "3p": "reprodujeran"
+  },
+  "PImpC": {
+    "1s": "reprodujese",
+    "2s": "reprodujeses",
+    "3s": "reprodujese",
+    "1p": "reprodujésemos",
+    "2p": "reprodujeseis",
+    "3p": "reprodujesen"
+  },
+  "FutSC": {
+    "1s": "reprodujere",
+    "2s": "reprodujeres",
+    "3s": "reprodujere",
+    "1p": "reprodujéremos",
+    "2p": "reprodujereis",
+    "3p": "reprodujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reproduce",
+    "3s": "reproduzca",
+    "1p": "reproduzcamos",
+    "2p": "reproducid",
+    "3p": "reproduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reproduzcas",
+    "3s": "no reproduzca",
+    "1p": "no reproduzcamos",
+    "2p": "no reproduzcáis",
+    "3p": "no reproduzcan"
+  },
+  "Part-ter": {
+    "": "reproducido"
+  },
+  "Part-ser": {
+    "ms": "reproducido",
+    "fs": "reproducida",
+    "mp": "reproducidos",
+    "fp": "reproducidas"
+  }
+}

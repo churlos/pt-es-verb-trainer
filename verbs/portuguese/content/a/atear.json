@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atear"
+  },
+  "InfP": {
+    "1s": "atear",
+    "2s": "ateares",
+    "3s": "atear",
+    "1p": "atearmos",
+    "2p": "ateardes",
+    "3p": "atearem"
+  },
+  "Ger": {
+    "": "ateando"
+  },
+  "PresI": {
+    "1s": "ateio",
+    "2s": "ateias",
+    "3s": "ateia",
+    "1p": "ateamos",
+    "2p": "ateais",
+    "3p": "ateiam"
+  },
+  "PImpI": {
+    "1s": "ateava",
+    "2s": "ateavas",
+    "3s": "ateava",
+    "1p": "ateávamos",
+    "2p": "ateáveis",
+    "3p": "ateavam"
+  },
+  "PPSI": {
+    "1s": "ateei",
+    "2s": "ateaste",
+    "3s": "ateou",
+    "1p": "ateámos",
+    "2p": "ateastes",
+    "3p": "atearam"
+  },
+  "PMQPSI": {
+    "1s": "ateara",
+    "2s": "atearas",
+    "3s": "ateara",
+    "1p": "ateáramos",
+    "2p": "ateáreis",
+    "3p": "atearam"
+  },
+  "FutSI": {
+    "1s": "atearei",
+    "2s": "atearás",
+    "3s": "ateará",
+    "1p": "atearemos",
+    "2p": "ateareis",
+    "3p": "atearão"
+  },
+  "CondS": {
+    "1s": "atearia",
+    "2s": "atearias",
+    "3s": "atearia",
+    "1p": "atearíamos",
+    "2p": "atearíeis",
+    "3p": "ateariam"
+  },
+  "PresC": {
+    "1s": "ateie",
+    "2s": "ateies",
+    "3s": "ateie",
+    "1p": "ateemos",
+    "2p": "ateeis",
+    "3p": "ateiem"
+  },
+  "PImpC": {
+    "1s": "ateasse",
+    "2s": "ateasses",
+    "3s": "ateasse",
+    "1p": "ateássemos",
+    "2p": "ateásseis",
+    "3p": "ateassem"
+  },
+  "FutSC": {
+    "1s": "atear",
+    "2s": "ateares",
+    "3s": "atear",
+    "1p": "atearmos",
+    "2p": "ateardes",
+    "3p": "atearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ateia",
+    "3s": "ateie",
+    "1p": "ateemos",
+    "2p": "ateai",
+    "3p": "ateiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ateies",
+    "3s": "não ateie",
+    "1p": "não ateemos",
+    "2p": "não ateeis",
+    "3p": "não ateiem"
+  },
+  "Part-ter": {
+    "": "ateado"
+  },
+  "Part-ser": {
+    "ms": "ateado",
+    "fs": "ateada",
+    "mp": "ateados",
+    "fp": "ateadas"
+  }
+}

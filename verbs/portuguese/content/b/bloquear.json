@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bloquear"
+  },
+  "InfP": {
+    "1s": "bloquear",
+    "2s": "bloqueares",
+    "3s": "bloquear",
+    "1p": "bloquearmos",
+    "2p": "bloqueardes",
+    "3p": "bloquearem"
+  },
+  "Ger": {
+    "": "bloqueando"
+  },
+  "PresI": {
+    "1s": "bloqueio",
+    "2s": "bloqueias",
+    "3s": "bloqueia",
+    "1p": "bloqueamos",
+    "2p": "bloqueais",
+    "3p": "bloqueiam"
+  },
+  "PImpI": {
+    "1s": "bloqueava",
+    "2s": "bloqueavas",
+    "3s": "bloqueava",
+    "1p": "bloqueávamos",
+    "2p": "bloqueáveis",
+    "3p": "bloqueavam"
+  },
+  "PPSI": {
+    "1s": "bloqueei",
+    "2s": "bloqueaste",
+    "3s": "bloqueou",
+    "1p": "bloqueámos",
+    "2p": "bloqueastes",
+    "3p": "bloquearam"
+  },
+  "PMQPSI": {
+    "1s": "bloqueara",
+    "2s": "bloquearas",
+    "3s": "bloqueara",
+    "1p": "bloqueáramos",
+    "2p": "bloqueáreis",
+    "3p": "bloquearam"
+  },
+  "FutSI": {
+    "1s": "bloquearei",
+    "2s": "bloquearás",
+    "3s": "bloqueará",
+    "1p": "bloquearemos",
+    "2p": "bloqueareis",
+    "3p": "bloquearão"
+  },
+  "CondS": {
+    "1s": "bloquearia",
+    "2s": "bloquearias",
+    "3s": "bloquearia",
+    "1p": "bloquearíamos",
+    "2p": "bloquearíeis",
+    "3p": "bloqueariam"
+  },
+  "PresC": {
+    "1s": "bloqueie",
+    "2s": "bloqueies",
+    "3s": "bloqueie",
+    "1p": "bloqueemos",
+    "2p": "bloqueeis",
+    "3p": "bloqueiem"
+  },
+  "PImpC": {
+    "1s": "bloqueasse",
+    "2s": "bloqueasses",
+    "3s": "bloqueasse",
+    "1p": "bloqueássemos",
+    "2p": "bloqueásseis",
+    "3p": "bloqueassem"
+  },
+  "FutSC": {
+    "1s": "bloquear",
+    "2s": "bloqueares",
+    "3s": "bloquear",
+    "1p": "bloquearmos",
+    "2p": "bloqueardes",
+    "3p": "bloquearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bloqueia",
+    "3s": "bloqueie",
+    "1p": "bloqueemos",
+    "2p": "bloqueai",
+    "3p": "bloqueiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bloqueies",
+    "3s": "não bloqueie",
+    "1p": "não bloqueemos",
+    "2p": "não bloqueeis",
+    "3p": "não bloqueiem"
+  },
+  "Part-ter": {
+    "": "bloqueado"
+  },
+  "Part-ser": {
+    "ms": "bloqueado",
+    "fs": "bloqueada",
+    "mp": "bloqueados",
+    "fp": "bloqueadas"
+  }
+}

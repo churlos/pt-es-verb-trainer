@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "transmutar"
+  },
+  "InfP": {
+    "1s": "transmutar",
+    "2s": "transmutares",
+    "3s": "transmutar",
+    "1p": "transmutarmos",
+    "2p": "transmutardes",
+    "3p": "transmutarem"
+  },
+  "Ger": {
+    "": "transmutando"
+  },
+  "PresI": {
+    "1s": "transmuto",
+    "2s": "transmutas",
+    "3s": "transmuta",
+    "1p": "transmutamos",
+    "2p": "transmutais",
+    "3p": "transmutam"
+  },
+  "PImpI": {
+    "1s": "transmutava",
+    "2s": "transmutavas",
+    "3s": "transmutava",
+    "1p": "transmutávamos",
+    "2p": "transmutáveis",
+    "3p": "transmutavam"
+  },
+  "PPSI": {
+    "1s": "transmutei",
+    "2s": "transmutaste",
+    "3s": "transmutou",
+    "1p": "transmutámos",
+    "2p": "transmutastes",
+    "3p": "transmutaram"
+  },
+  "PMQPSI": {
+    "1s": "transmutara",
+    "2s": "transmutaras",
+    "3s": "transmutara",
+    "1p": "transmutáramos",
+    "2p": "transmutáreis",
+    "3p": "transmutaram"
+  },
+  "FutSI": {
+    "1s": "transmutarei",
+    "2s": "transmutarás",
+    "3s": "transmutará",
+    "1p": "transmutaremos",
+    "2p": "transmutareis",
+    "3p": "transmutarão"
+  },
+  "CondS": {
+    "1s": "transmutaria",
+    "2s": "transmutarias",
+    "3s": "transmutaria",
+    "1p": "transmutaríamos",
+    "2p": "transmutaríeis",
+    "3p": "transmutariam"
+  },
+  "PresC": {
+    "1s": "transmute",
+    "2s": "transmutes",
+    "3s": "transmute",
+    "1p": "transmutemos",
+    "2p": "transmuteis",
+    "3p": "transmutem"
+  },
+  "PImpC": {
+    "1s": "transmutasse",
+    "2s": "transmutasses",
+    "3s": "transmutasse",
+    "1p": "transmutássemos",
+    "2p": "transmutásseis",
+    "3p": "transmutassem"
+  },
+  "FutSC": {
+    "1s": "transmutar",
+    "2s": "transmutares",
+    "3s": "transmutar",
+    "1p": "transmutarmos",
+    "2p": "transmutardes",
+    "3p": "transmutarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transmuta",
+    "3s": "transmute",
+    "1p": "transmutemos",
+    "2p": "transmutai",
+    "3p": "transmutem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não transmutes",
+    "3s": "não transmute",
+    "1p": "não transmutemos",
+    "2p": "não transmuteis",
+    "3p": "não transmutem"
+  },
+  "Part-ter": {
+    "": "transmutado"
+  },
+  "Part-ser": {
+    "ms": "transmutado",
+    "fs": "transmutada",
+    "mp": "transmutados",
+    "fp": "transmutadas"
+  }
+}

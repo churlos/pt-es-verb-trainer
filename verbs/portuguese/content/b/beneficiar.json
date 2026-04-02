@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "beneficiar"
+  },
+  "InfP": {
+    "1s": "beneficiar",
+    "2s": "beneficiares",
+    "3s": "beneficiar",
+    "1p": "beneficiarmos",
+    "2p": "beneficiardes",
+    "3p": "beneficiarem"
+  },
+  "Ger": {
+    "": "beneficiando"
+  },
+  "PresI": {
+    "1s": "beneficio",
+    "2s": "beneficias",
+    "3s": "beneficia",
+    "1p": "beneficiamos",
+    "2p": "beneficiais",
+    "3p": "beneficiam"
+  },
+  "PImpI": {
+    "1s": "beneficiava",
+    "2s": "beneficiavas",
+    "3s": "beneficiava",
+    "1p": "beneficiávamos",
+    "2p": "beneficiáveis",
+    "3p": "beneficiavam"
+  },
+  "PPSI": {
+    "1s": "beneficiei",
+    "2s": "beneficiaste",
+    "3s": "beneficiou",
+    "1p": "beneficiámos",
+    "2p": "beneficiastes",
+    "3p": "beneficiaram"
+  },
+  "PMQPSI": {
+    "1s": "beneficiara",
+    "2s": "beneficiaras",
+    "3s": "beneficiara",
+    "1p": "beneficiáramos",
+    "2p": "beneficiáreis",
+    "3p": "beneficiaram"
+  },
+  "FutSI": {
+    "1s": "beneficiarei",
+    "2s": "beneficiarás",
+    "3s": "beneficiará",
+    "1p": "beneficiaremos",
+    "2p": "beneficiareis",
+    "3p": "beneficiarão"
+  },
+  "CondS": {
+    "1s": "beneficiaria",
+    "2s": "beneficiarias",
+    "3s": "beneficiaria",
+    "1p": "beneficiaríamos",
+    "2p": "beneficiaríeis",
+    "3p": "beneficiariam"
+  },
+  "PresC": {
+    "1s": "beneficie",
+    "2s": "beneficies",
+    "3s": "beneficie",
+    "1p": "beneficiemos",
+    "2p": "beneficieis",
+    "3p": "beneficiem"
+  },
+  "PImpC": {
+    "1s": "beneficiasse",
+    "2s": "beneficiasses",
+    "3s": "beneficiasse",
+    "1p": "beneficiássemos",
+    "2p": "beneficiásseis",
+    "3p": "beneficiassem"
+  },
+  "FutSC": {
+    "1s": "beneficiar",
+    "2s": "beneficiares",
+    "3s": "beneficiar",
+    "1p": "beneficiarmos",
+    "2p": "beneficiardes",
+    "3p": "beneficiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "beneficia",
+    "3s": "beneficie",
+    "1p": "beneficiemos",
+    "2p": "beneficiai",
+    "3p": "beneficiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não beneficies",
+    "3s": "não beneficie",
+    "1p": "não beneficiemos",
+    "2p": "não beneficieis",
+    "3p": "não beneficiem"
+  },
+  "Part-ter": {
+    "": "beneficiado"
+  },
+  "Part-ser": {
+    "ms": "beneficiado",
+    "fs": "beneficiada",
+    "mp": "beneficiados",
+    "fp": "beneficiadas"
+  }
+}

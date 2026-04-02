@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "combater"
+  },
+  "InfP": {
+    "1s": "combater",
+    "2s": "combateres",
+    "3s": "combater",
+    "1p": "combatermos",
+    "2p": "combaterdes",
+    "3p": "combaterem"
+  },
+  "Ger": {
+    "": "combatendo"
+  },
+  "PresI": {
+    "1s": "combato",
+    "2s": "combates",
+    "3s": "combate",
+    "1p": "combatemos",
+    "2p": "combateis",
+    "3p": "combatem"
+  },
+  "PImpI": {
+    "1s": "combatia",
+    "2s": "combatias",
+    "3s": "combatia",
+    "1p": "combatíamos",
+    "2p": "combatíeis",
+    "3p": "combatiam"
+  },
+  "PPSI": {
+    "1s": "combati",
+    "2s": "combateste",
+    "3s": "combateu",
+    "1p": "combatemos",
+    "2p": "combatestes",
+    "3p": "combateram"
+  },
+  "PMQPSI": {
+    "1s": "combatera",
+    "2s": "combateras",
+    "3s": "combatera",
+    "1p": "combatêramos",
+    "2p": "combatêreis",
+    "3p": "combateram"
+  },
+  "FutSI": {
+    "1s": "combaterei",
+    "2s": "combaterás",
+    "3s": "combaterá",
+    "1p": "combateremos",
+    "2p": "combatereis",
+    "3p": "combaterão"
+  },
+  "CondS": {
+    "1s": "combateria",
+    "2s": "combaterias",
+    "3s": "combateria",
+    "1p": "combateríamos",
+    "2p": "combateríeis",
+    "3p": "combateriam"
+  },
+  "PresC": {
+    "1s": "combata",
+    "2s": "combatas",
+    "3s": "combata",
+    "1p": "combatamos",
+    "2p": "combatais",
+    "3p": "combatam"
+  },
+  "PImpC": {
+    "1s": "combatesse",
+    "2s": "combatesses",
+    "3s": "combatesse",
+    "1p": "combatêssemos",
+    "2p": "combatêsseis",
+    "3p": "combatessem"
+  },
+  "FutSC": {
+    "1s": "combater",
+    "2s": "combateres",
+    "3s": "combater",
+    "1p": "combatermos",
+    "2p": "combaterdes",
+    "3p": "combaterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "combate",
+    "3s": "combata",
+    "1p": "combatamos",
+    "2p": "combatei",
+    "3p": "combatam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não combatas",
+    "3s": "não combata",
+    "1p": "não combatamos",
+    "2p": "não combatais",
+    "3p": "não combatam"
+  },
+  "Part-ter": {
+    "": "combatido"
+  },
+  "Part-ser": {
+    "ms": "combatido",
+    "fs": "combatida",
+    "mp": "combatidos",
+    "fp": "combatidas"
+  }
+}

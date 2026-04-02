@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "intersecar"
+  },
+  "Ger": {
+    "": "intersecando"
+  },
+  "PresI": {
+    "1s": "interseco",
+    "2s": "intersecas",
+    "3s": "interseca",
+    "1p": "intersecamos",
+    "2p": "intersecáis",
+    "3p": "intersecan"
+  },
+  "PImpI": {
+    "1s": "intersecaba",
+    "2s": "intersecabas",
+    "3s": "intersecaba",
+    "1p": "intersecábamos",
+    "2p": "intersecabais",
+    "3p": "intersecaban"
+  },
+  "PPSI": {
+    "1s": "intersequé",
+    "2s": "intersecaste",
+    "3s": "intersecó",
+    "1p": "intersecamos",
+    "2p": "intersecasteis",
+    "3p": "intersecaron"
+  },
+  "FutSI": {
+    "1s": "intersecaré",
+    "2s": "intersecarás",
+    "3s": "intersecará",
+    "1p": "intersecaremos",
+    "2p": "intersecaréis",
+    "3p": "intersecarán"
+  },
+  "CondS": {
+    "1s": "intersecaría",
+    "2s": "intersecarías",
+    "3s": "intersecaría",
+    "1p": "intersecaríamos",
+    "2p": "intersecaríais",
+    "3p": "intersecarían"
+  },
+  "PresC": {
+    "1s": "interseque",
+    "2s": "interseques",
+    "3s": "interseque",
+    "1p": "intersequemos",
+    "2p": "intersequéis",
+    "3p": "intersequen"
+  },
+  "PMQPSI": {
+    "1s": "intersecara",
+    "2s": "intersecaras",
+    "3s": "intersecara",
+    "1p": "intersecáramos",
+    "2p": "intersecarais",
+    "3p": "intersecaran"
+  },
+  "PImpC": {
+    "1s": "intersecase",
+    "2s": "intersecases",
+    "3s": "intersecase",
+    "1p": "intersecásemos",
+    "2p": "intersecaseis",
+    "3p": "intersecasen"
+  },
+  "FutSC": {
+    "1s": "intersecare",
+    "2s": "intersecares",
+    "3s": "intersecare",
+    "1p": "intersecáremos",
+    "2p": "intersecareis",
+    "3p": "intersecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interseca",
+    "3s": "interseque",
+    "1p": "intersequemos",
+    "2p": "intersecad",
+    "3p": "intersequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no interseques",
+    "3s": "no interseque",
+    "1p": "no intersequemos",
+    "2p": "no intersequéis",
+    "3p": "no intersequen"
+  },
+  "Part-ter": {
+    "": "intersecado"
+  },
+  "Part-ser": {
+    "ms": "intersecado",
+    "fs": "intersecada",
+    "mp": "intersecados",
+    "fp": "intersecadas"
+  }
+}

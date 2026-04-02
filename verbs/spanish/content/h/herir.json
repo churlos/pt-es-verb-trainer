@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "herir"
+  },
+  "Ger": {
+    "": "hiriendo"
+  },
+  "PresI": {
+    "1s": "hiero",
+    "2s": "hieres",
+    "3s": "hiere",
+    "1p": "herimos",
+    "2p": "herís",
+    "3p": "hieren"
+  },
+  "PImpI": {
+    "1s": "hería",
+    "2s": "herías",
+    "3s": "hería",
+    "1p": "heríamos",
+    "2p": "heríais",
+    "3p": "herían"
+  },
+  "PPSI": {
+    "1s": "herí",
+    "2s": "heriste",
+    "3s": "hirió",
+    "1p": "herimos",
+    "2p": "heristeis",
+    "3p": "hirieron"
+  },
+  "FutSI": {
+    "1s": "heriré",
+    "2s": "herirás",
+    "3s": "herirá",
+    "1p": "heriremos",
+    "2p": "heriréis",
+    "3p": "herirán"
+  },
+  "CondS": {
+    "1s": "heriría",
+    "2s": "herirías",
+    "3s": "heriría",
+    "1p": "heriríamos",
+    "2p": "heriríais",
+    "3p": "herirían"
+  },
+  "PresC": {
+    "1s": "hiera",
+    "2s": "hieras",
+    "3s": "hiera",
+    "1p": "hiramos",
+    "2p": "hiráis",
+    "3p": "hieran"
+  },
+  "PMQPSI": {
+    "1s": "hiriera",
+    "2s": "hirieras",
+    "3s": "hiriera",
+    "1p": "hiriéramos",
+    "2p": "hirierais",
+    "3p": "hirieran"
+  },
+  "PImpC": {
+    "1s": "hiriese",
+    "2s": "hirieses",
+    "3s": "hiriese",
+    "1p": "hiriésemos",
+    "2p": "hirieseis",
+    "3p": "hiriesen"
+  },
+  "FutSC": {
+    "1s": "hiriere",
+    "2s": "hirieres",
+    "3s": "hiriere",
+    "1p": "hiriéremos",
+    "2p": "hiriereis",
+    "3p": "hirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hiere",
+    "3s": "hiera",
+    "1p": "hiramos",
+    "2p": "herid",
+    "3p": "hieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hieras",
+    "3s": "no hiera",
+    "1p": "no hiramos",
+    "2p": "no hiráis",
+    "3p": "no hieran"
+  },
+  "Part-ter": {
+    "": "herido"
+  },
+  "Part-ser": {
+    "ms": "herido",
+    "fs": "herida",
+    "mp": "heridos",
+    "fp": "heridas"
+  }
+}

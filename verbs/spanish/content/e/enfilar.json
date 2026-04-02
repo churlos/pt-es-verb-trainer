@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enfilar"
+  },
+  "Ger": {
+    "": "enfilando"
+  },
+  "PresI": {
+    "1s": "enfilo",
+    "2s": "enfilas",
+    "3s": "enfila",
+    "1p": "enfilamos",
+    "2p": "enfiláis",
+    "3p": "enfilan"
+  },
+  "PImpI": {
+    "1s": "enfilaba",
+    "2s": "enfilabas",
+    "3s": "enfilaba",
+    "1p": "enfilábamos",
+    "2p": "enfilabais",
+    "3p": "enfilaban"
+  },
+  "PPSI": {
+    "1s": "enfilé",
+    "2s": "enfilaste",
+    "3s": "enfiló",
+    "1p": "enfilamos",
+    "2p": "enfilasteis",
+    "3p": "enfilaron"
+  },
+  "FutSI": {
+    "1s": "enfilaré",
+    "2s": "enfilarás",
+    "3s": "enfilará",
+    "1p": "enfilaremos",
+    "2p": "enfilaréis",
+    "3p": "enfilarán"
+  },
+  "CondS": {
+    "1s": "enfilaría",
+    "2s": "enfilarías",
+    "3s": "enfilaría",
+    "1p": "enfilaríamos",
+    "2p": "enfilaríais",
+    "3p": "enfilarían"
+  },
+  "PresC": {
+    "1s": "enfile",
+    "2s": "enfiles",
+    "3s": "enfile",
+    "1p": "enfilemos",
+    "2p": "enfiléis",
+    "3p": "enfilen"
+  },
+  "PMQPSI": {
+    "1s": "enfilara",
+    "2s": "enfilaras",
+    "3s": "enfilara",
+    "1p": "enfiláramos",
+    "2p": "enfilarais",
+    "3p": "enfilaran"
+  },
+  "PImpC": {
+    "1s": "enfilase",
+    "2s": "enfilases",
+    "3s": "enfilase",
+    "1p": "enfilásemos",
+    "2p": "enfilaseis",
+    "3p": "enfilasen"
+  },
+  "FutSC": {
+    "1s": "enfilare",
+    "2s": "enfilares",
+    "3s": "enfilare",
+    "1p": "enfiláremos",
+    "2p": "enfilareis",
+    "3p": "enfilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enfila",
+    "3s": "enfile",
+    "1p": "enfilemos",
+    "2p": "enfilad",
+    "3p": "enfilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enfiles",
+    "3s": "no enfile",
+    "1p": "no enfilemos",
+    "2p": "no enfiléis",
+    "3p": "no enfilen"
+  },
+  "Part-ter": {
+    "": "enfilado"
+  },
+  "Part-ser": {
+    "ms": "enfilado",
+    "fs": "enfilada",
+    "mp": "enfilados",
+    "fp": "enfiladas"
+  }
+}

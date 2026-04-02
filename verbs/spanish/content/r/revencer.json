@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "revencer"
+  },
+  "Ger": {
+    "": "revenciendo"
+  },
+  "PresI": {
+    "1s": "revenzo",
+    "2s": "revences",
+    "3s": "revence",
+    "1p": "revencemos",
+    "2p": "revencéis",
+    "3p": "revencen"
+  },
+  "PImpI": {
+    "1s": "revencía",
+    "2s": "revencías",
+    "3s": "revencía",
+    "1p": "revencíamos",
+    "2p": "revencíais",
+    "3p": "revencían"
+  },
+  "PPSI": {
+    "1s": "revencí",
+    "2s": "revenciste",
+    "3s": "revenció",
+    "1p": "revencimos",
+    "2p": "revencisteis",
+    "3p": "revencieron"
+  },
+  "FutSI": {
+    "1s": "revenceré",
+    "2s": "revencerás",
+    "3s": "revencerá",
+    "1p": "revenceremos",
+    "2p": "revenceréis",
+    "3p": "revencerán"
+  },
+  "CondS": {
+    "1s": "revencería",
+    "2s": "revencerías",
+    "3s": "revencería",
+    "1p": "revenceríamos",
+    "2p": "revenceríais",
+    "3p": "revencerían"
+  },
+  "PresC": {
+    "1s": "revenza",
+    "2s": "revenzas",
+    "3s": "revenza",
+    "1p": "revenzamos",
+    "2p": "revenzáis",
+    "3p": "revenzan"
+  },
+  "PMQPSI": {
+    "1s": "revenciera",
+    "2s": "revencieras",
+    "3s": "revenciera",
+    "1p": "revenciéramos",
+    "2p": "revencierais",
+    "3p": "revencieran"
+  },
+  "PImpC": {
+    "1s": "revenciese",
+    "2s": "revencieses",
+    "3s": "revenciese",
+    "1p": "revenciésemos",
+    "2p": "revencieseis",
+    "3p": "revenciesen"
+  },
+  "FutSC": {
+    "1s": "revenciere",
+    "2s": "revencieres",
+    "3s": "revenciere",
+    "1p": "revenciéremos",
+    "2p": "revenciereis",
+    "3p": "revencieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revence",
+    "3s": "revenza",
+    "1p": "revenzamos",
+    "2p": "revenced",
+    "3p": "revenzan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no revenzas",
+    "3s": "no revenza",
+    "1p": "no revenzamos",
+    "2p": "no revenzáis",
+    "3p": "no revenzan"
+  },
+  "Part-ter": {
+    "": "revencido"
+  },
+  "Part-ser": {
+    "ms": "revencido",
+    "fs": "revencida",
+    "mp": "revencidos",
+    "fp": "revencidas"
+  }
+}

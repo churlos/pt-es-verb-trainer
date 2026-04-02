@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tejer"
+  },
+  "Ger": {
+    "": "tejiendo"
+  },
+  "PresI": {
+    "1s": "tejo",
+    "2s": "tejes",
+    "3s": "teje",
+    "1p": "tejemos",
+    "2p": "tejéis",
+    "3p": "tejen"
+  },
+  "PImpI": {
+    "1s": "tejía",
+    "2s": "tejías",
+    "3s": "tejía",
+    "1p": "tejíamos",
+    "2p": "tejíais",
+    "3p": "tejían"
+  },
+  "PPSI": {
+    "1s": "tejí",
+    "2s": "tejiste",
+    "3s": "tejió",
+    "1p": "tejimos",
+    "2p": "tejisteis",
+    "3p": "tejieron"
+  },
+  "FutSI": {
+    "1s": "tejeré",
+    "2s": "tejerás",
+    "3s": "tejerá",
+    "1p": "tejeremos",
+    "2p": "tejeréis",
+    "3p": "tejerán"
+  },
+  "CondS": {
+    "1s": "tejería",
+    "2s": "tejerías",
+    "3s": "tejería",
+    "1p": "tejeríamos",
+    "2p": "tejeríais",
+    "3p": "tejerían"
+  },
+  "PresC": {
+    "1s": "teja",
+    "2s": "tejas",
+    "3s": "teja",
+    "1p": "tejamos",
+    "2p": "tejáis",
+    "3p": "tejan"
+  },
+  "PMQPSI": {
+    "1s": "tejiera",
+    "2s": "tejieras",
+    "3s": "tejiera",
+    "1p": "tejiéramos",
+    "2p": "tejierais",
+    "3p": "tejieran"
+  },
+  "PImpC": {
+    "1s": "tejiese",
+    "2s": "tejieses",
+    "3s": "tejiese",
+    "1p": "tejiésemos",
+    "2p": "tejieseis",
+    "3p": "tejiesen"
+  },
+  "FutSC": {
+    "1s": "tejiere",
+    "2s": "tejieres",
+    "3s": "tejiere",
+    "1p": "tejiéremos",
+    "2p": "tejiereis",
+    "3p": "tejieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "teje",
+    "3s": "teja",
+    "1p": "tejamos",
+    "2p": "tejed",
+    "3p": "tejan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tejas",
+    "3s": "no teja",
+    "1p": "no tejamos",
+    "2p": "no tejáis",
+    "3p": "no tejan"
+  },
+  "Part-ter": {
+    "": "tejido"
+  },
+  "Part-ser": {
+    "ms": "tejido",
+    "fs": "tejida",
+    "mp": "tejidos",
+    "fp": "tejidas"
+  }
+}

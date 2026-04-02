@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "disolver"
+  },
+  "Ger": {
+    "": "disolviendo"
+  },
+  "PresI": {
+    "1s": "disuelvo",
+    "2s": "disuelves",
+    "3s": "disuelve",
+    "1p": "disolvemos",
+    "2p": "disolvéis",
+    "3p": "disuelven"
+  },
+  "PImpI": {
+    "1s": "disolvía",
+    "2s": "disolvías",
+    "3s": "disolvía",
+    "1p": "disolvíamos",
+    "2p": "disolvíais",
+    "3p": "disolvían"
+  },
+  "PPSI": {
+    "1s": "disolví",
+    "2s": "disolviste",
+    "3s": "disolvió",
+    "1p": "disolvimos",
+    "2p": "disolvisteis",
+    "3p": "disolvieron"
+  },
+  "FutSI": {
+    "1s": "disolveré",
+    "2s": "disolverás",
+    "3s": "disolverá",
+    "1p": "disolveremos",
+    "2p": "disolveréis",
+    "3p": "disolverán"
+  },
+  "CondS": {
+    "1s": "disolvería",
+    "2s": "disolverías",
+    "3s": "disolvería",
+    "1p": "disolveríamos",
+    "2p": "disolveríais",
+    "3p": "disolverían"
+  },
+  "PresC": {
+    "1s": "disuelva",
+    "2s": "disuelvas",
+    "3s": "disuelva",
+    "1p": "disolvamos",
+    "2p": "disolváis",
+    "3p": "disuelvan"
+  },
+  "PMQPSI": {
+    "1s": "disolviera",
+    "2s": "disolvieras",
+    "3s": "disolviera",
+    "1p": "disolviéramos",
+    "2p": "disolvierais",
+    "3p": "disolvieran"
+  },
+  "PImpC": {
+    "1s": "disolviese",
+    "2s": "disolvieses",
+    "3s": "disolviese",
+    "1p": "disolviésemos",
+    "2p": "disolvieseis",
+    "3p": "disolviesen"
+  },
+  "FutSC": {
+    "1s": "disolviere",
+    "2s": "disolvieres",
+    "3s": "disolviere",
+    "1p": "disolviéremos",
+    "2p": "disolviereis",
+    "3p": "disolvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "disuelve",
+    "3s": "disuelva",
+    "1p": "disolvamos",
+    "2p": "disolved",
+    "3p": "disuelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no disuelvas",
+    "3s": "no disuelva",
+    "1p": "no disolvamos",
+    "2p": "no disolváis",
+    "3p": "no disuelvan"
+  },
+  "Part-ter": {
+    "": "disuelto"
+  },
+  "Part-ser": {
+    "ms": "disuelto",
+    "fs": "disuelta",
+    "mp": "disueltos",
+    "fp": "disueltas"
+  }
+}

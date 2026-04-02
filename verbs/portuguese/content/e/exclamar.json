@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exclamar"
+  },
+  "InfP": {
+    "1s": "exclamar",
+    "2s": "exclamares",
+    "3s": "exclamar",
+    "1p": "exclamarmos",
+    "2p": "exclamardes",
+    "3p": "exclamarem"
+  },
+  "Ger": {
+    "": "exclamando"
+  },
+  "PresI": {
+    "1s": "exclamo",
+    "2s": "exclamas",
+    "3s": "exclama",
+    "1p": "exclamamos",
+    "2p": "exclamais",
+    "3p": "exclamam"
+  },
+  "PImpI": {
+    "1s": "exclamava",
+    "2s": "exclamavas",
+    "3s": "exclamava",
+    "1p": "exclamávamos",
+    "2p": "exclamáveis",
+    "3p": "exclamavam"
+  },
+  "PPSI": {
+    "1s": "exclamei",
+    "2s": "exclamaste",
+    "3s": "exclamou",
+    "1p": "exclamámos",
+    "2p": "exclamastes",
+    "3p": "exclamaram"
+  },
+  "PMQPSI": {
+    "1s": "exclamara",
+    "2s": "exclamaras",
+    "3s": "exclamara",
+    "1p": "exclamáramos",
+    "2p": "exclamáreis",
+    "3p": "exclamaram"
+  },
+  "FutSI": {
+    "1s": "exclamarei",
+    "2s": "exclamarás",
+    "3s": "exclamará",
+    "1p": "exclamaremos",
+    "2p": "exclamareis",
+    "3p": "exclamarão"
+  },
+  "CondS": {
+    "1s": "exclamaria",
+    "2s": "exclamarias",
+    "3s": "exclamaria",
+    "1p": "exclamaríamos",
+    "2p": "exclamaríeis",
+    "3p": "exclamariam"
+  },
+  "PresC": {
+    "1s": "exclame",
+    "2s": "exclames",
+    "3s": "exclame",
+    "1p": "exclamemos",
+    "2p": "exclameis",
+    "3p": "exclamem"
+  },
+  "PImpC": {
+    "1s": "exclamasse",
+    "2s": "exclamasses",
+    "3s": "exclamasse",
+    "1p": "exclamássemos",
+    "2p": "exclamásseis",
+    "3p": "exclamassem"
+  },
+  "FutSC": {
+    "1s": "exclamar",
+    "2s": "exclamares",
+    "3s": "exclamar",
+    "1p": "exclamarmos",
+    "2p": "exclamardes",
+    "3p": "exclamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exclama",
+    "3s": "exclame",
+    "1p": "exclamemos",
+    "2p": "exclamai",
+    "3p": "exclamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exclames",
+    "3s": "não exclame",
+    "1p": "não exclamemos",
+    "2p": "não exclameis",
+    "3p": "não exclamem"
+  },
+  "Part-ter": {
+    "": "exclamado"
+  },
+  "Part-ser": {
+    "ms": "exclamado",
+    "fs": "exclamada",
+    "mp": "exclamados",
+    "fp": "exclamadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "zombificar"
+  },
+  "Ger": {
+    "": "zombificando"
+  },
+  "PresI": {
+    "1s": "zombifico",
+    "2s": "zombificas",
+    "3s": "zombifica",
+    "1p": "zombificamos",
+    "2p": "zombificáis",
+    "3p": "zombifican"
+  },
+  "PImpI": {
+    "1s": "zombificaba",
+    "2s": "zombificabas",
+    "3s": "zombificaba",
+    "1p": "zombificábamos",
+    "2p": "zombificabais",
+    "3p": "zombificaban"
+  },
+  "PPSI": {
+    "1s": "zombifiqué",
+    "2s": "zombificaste",
+    "3s": "zombificó",
+    "1p": "zombificamos",
+    "2p": "zombificasteis",
+    "3p": "zombificaron"
+  },
+  "FutSI": {
+    "1s": "zombificaré",
+    "2s": "zombificarás",
+    "3s": "zombificará",
+    "1p": "zombificaremos",
+    "2p": "zombificaréis",
+    "3p": "zombificarán"
+  },
+  "CondS": {
+    "1s": "zombificaría",
+    "2s": "zombificarías",
+    "3s": "zombificaría",
+    "1p": "zombificaríamos",
+    "2p": "zombificaríais",
+    "3p": "zombificarían"
+  },
+  "PresC": {
+    "1s": "zombifique",
+    "2s": "zombifiques",
+    "3s": "zombifique",
+    "1p": "zombifiquemos",
+    "2p": "zombifiquéis",
+    "3p": "zombifiquen"
+  },
+  "PMQPSI": {
+    "1s": "zombificara",
+    "2s": "zombificaras",
+    "3s": "zombificara",
+    "1p": "zombificáramos",
+    "2p": "zombificarais",
+    "3p": "zombificaran"
+  },
+  "PImpC": {
+    "1s": "zombificase",
+    "2s": "zombificases",
+    "3s": "zombificase",
+    "1p": "zombificásemos",
+    "2p": "zombificaseis",
+    "3p": "zombificasen"
+  },
+  "FutSC": {
+    "1s": "zombificare",
+    "2s": "zombificares",
+    "3s": "zombificare",
+    "1p": "zombificáremos",
+    "2p": "zombificareis",
+    "3p": "zombificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zombifica",
+    "3s": "zombifique",
+    "1p": "zombifiquemos",
+    "2p": "zombificad",
+    "3p": "zombifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no zombifiques",
+    "3s": "no zombifique",
+    "1p": "no zombifiquemos",
+    "2p": "no zombifiquéis",
+    "3p": "no zombifiquen"
+  },
+  "Part-ter": {
+    "": "zombificado"
+  },
+  "Part-ser": {
+    "ms": "zombificado",
+    "fs": "zombificada",
+    "mp": "zombificados",
+    "fp": "zombificadas"
+  }
+}

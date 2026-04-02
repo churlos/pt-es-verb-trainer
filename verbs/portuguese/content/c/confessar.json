@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "confessar"
+  },
+  "InfP": {
+    "1s": "confessar",
+    "2s": "confessares",
+    "3s": "confessar",
+    "1p": "confessarmos",
+    "2p": "confessardes",
+    "3p": "confessarem"
+  },
+  "Ger": {
+    "": "confessando"
+  },
+  "PresI": {
+    "1s": "confesso",
+    "2s": "confessas",
+    "3s": "confessa",
+    "1p": "confessamos",
+    "2p": "confessais",
+    "3p": "confessam"
+  },
+  "PImpI": {
+    "1s": "confessava",
+    "2s": "confessavas",
+    "3s": "confessava",
+    "1p": "confessávamos",
+    "2p": "confessáveis",
+    "3p": "confessavam"
+  },
+  "PPSI": {
+    "1s": "confessei",
+    "2s": "confessaste",
+    "3s": "confessou",
+    "1p": "confessámos",
+    "2p": "confessastes",
+    "3p": "confessaram"
+  },
+  "PMQPSI": {
+    "1s": "confessara",
+    "2s": "confessaras",
+    "3s": "confessara",
+    "1p": "confessáramos",
+    "2p": "confessáreis",
+    "3p": "confessaram"
+  },
+  "FutSI": {
+    "1s": "confessarei",
+    "2s": "confessarás",
+    "3s": "confessará",
+    "1p": "confessaremos",
+    "2p": "confessareis",
+    "3p": "confessarão"
+  },
+  "CondS": {
+    "1s": "confessaria",
+    "2s": "confessarias",
+    "3s": "confessaria",
+    "1p": "confessaríamos",
+    "2p": "confessaríeis",
+    "3p": "confessariam"
+  },
+  "PresC": {
+    "1s": "confesse",
+    "2s": "confesses",
+    "3s": "confesse",
+    "1p": "confessemos",
+    "2p": "confesseis",
+    "3p": "confessem"
+  },
+  "PImpC": {
+    "1s": "confessasse",
+    "2s": "confessasses",
+    "3s": "confessasse",
+    "1p": "confessássemos",
+    "2p": "confessásseis",
+    "3p": "confessassem"
+  },
+  "FutSC": {
+    "1s": "confessar",
+    "2s": "confessares",
+    "3s": "confessar",
+    "1p": "confessarmos",
+    "2p": "confessardes",
+    "3p": "confessarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "confessa",
+    "3s": "confesse",
+    "1p": "confessemos",
+    "2p": "confessai",
+    "3p": "confessem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não confesses",
+    "3s": "não confesse",
+    "1p": "não confessemos",
+    "2p": "não confesseis",
+    "3p": "não confessem"
+  },
+  "Part-ter": {
+    "": "confessado"
+  },
+  "Part-ser": {
+    "ms": "confessado",
+    "fs": "confessada",
+    "mp": "confessados",
+    "fp": "confessadas"
+  }
+}

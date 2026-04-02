@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enderezar"
+  },
+  "Ger": {
+    "": "enderezando"
+  },
+  "PresI": {
+    "1s": "enderezo",
+    "2s": "enderezas",
+    "3s": "endereza",
+    "1p": "enderezamos",
+    "2p": "enderezáis",
+    "3p": "enderezan"
+  },
+  "PImpI": {
+    "1s": "enderezaba",
+    "2s": "enderezabas",
+    "3s": "enderezaba",
+    "1p": "enderezábamos",
+    "2p": "enderezabais",
+    "3p": "enderezaban"
+  },
+  "PPSI": {
+    "1s": "enderecé",
+    "2s": "enderezaste",
+    "3s": "enderezó",
+    "1p": "enderezamos",
+    "2p": "enderezasteis",
+    "3p": "enderezaron"
+  },
+  "FutSI": {
+    "1s": "enderezaré",
+    "2s": "enderezarás",
+    "3s": "enderezará",
+    "1p": "enderezaremos",
+    "2p": "enderezaréis",
+    "3p": "enderezarán"
+  },
+  "CondS": {
+    "1s": "enderezaría",
+    "2s": "enderezarías",
+    "3s": "enderezaría",
+    "1p": "enderezaríamos",
+    "2p": "enderezaríais",
+    "3p": "enderezarían"
+  },
+  "PresC": {
+    "1s": "enderece",
+    "2s": "endereces",
+    "3s": "enderece",
+    "1p": "enderecemos",
+    "2p": "enderecéis",
+    "3p": "enderecen"
+  },
+  "PMQPSI": {
+    "1s": "enderezara",
+    "2s": "enderezaras",
+    "3s": "enderezara",
+    "1p": "enderezáramos",
+    "2p": "enderezarais",
+    "3p": "enderezaran"
+  },
+  "PImpC": {
+    "1s": "enderezase",
+    "2s": "enderezases",
+    "3s": "enderezase",
+    "1p": "enderezásemos",
+    "2p": "enderezaseis",
+    "3p": "enderezasen"
+  },
+  "FutSC": {
+    "1s": "enderezare",
+    "2s": "enderezares",
+    "3s": "enderezare",
+    "1p": "enderezáremos",
+    "2p": "enderezareis",
+    "3p": "enderezaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "endereza",
+    "3s": "enderece",
+    "1p": "enderecemos",
+    "2p": "enderezad",
+    "3p": "enderecen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no endereces",
+    "3s": "no enderece",
+    "1p": "no enderecemos",
+    "2p": "no enderecéis",
+    "3p": "no enderecen"
+  },
+  "Part-ter": {
+    "": "enderezado"
+  },
+  "Part-ser": {
+    "ms": "enderezado",
+    "fs": "enderezada",
+    "mp": "enderezados",
+    "fp": "enderezadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reversar"
+  },
+  "Ger": {
+    "": "reversando"
+  },
+  "PresI": {
+    "1s": "reverso",
+    "2s": "reversas",
+    "3s": "reversa",
+    "1p": "reversamos",
+    "2p": "reversáis",
+    "3p": "reversan"
+  },
+  "PImpI": {
+    "1s": "reversaba",
+    "2s": "reversabas",
+    "3s": "reversaba",
+    "1p": "reversábamos",
+    "2p": "reversabais",
+    "3p": "reversaban"
+  },
+  "PPSI": {
+    "1s": "reversé",
+    "2s": "reversaste",
+    "3s": "reversó",
+    "1p": "reversamos",
+    "2p": "reversasteis",
+    "3p": "reversaron"
+  },
+  "FutSI": {
+    "1s": "reversaré",
+    "2s": "reversarás",
+    "3s": "reversará",
+    "1p": "reversaremos",
+    "2p": "reversaréis",
+    "3p": "reversarán"
+  },
+  "CondS": {
+    "1s": "reversaría",
+    "2s": "reversarías",
+    "3s": "reversaría",
+    "1p": "reversaríamos",
+    "2p": "reversaríais",
+    "3p": "reversarían"
+  },
+  "PresC": {
+    "1s": "reverse",
+    "2s": "reverses",
+    "3s": "reverse",
+    "1p": "reversemos",
+    "2p": "reverséis",
+    "3p": "reversen"
+  },
+  "PMQPSI": {
+    "1s": "reversara",
+    "2s": "reversaras",
+    "3s": "reversara",
+    "1p": "reversáramos",
+    "2p": "reversarais",
+    "3p": "reversaran"
+  },
+  "PImpC": {
+    "1s": "reversase",
+    "2s": "reversases",
+    "3s": "reversase",
+    "1p": "reversásemos",
+    "2p": "reversaseis",
+    "3p": "reversasen"
+  },
+  "FutSC": {
+    "1s": "reversare",
+    "2s": "reversares",
+    "3s": "reversare",
+    "1p": "reversáremos",
+    "2p": "reversareis",
+    "3p": "reversaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reversa",
+    "3s": "reverse",
+    "1p": "reversemos",
+    "2p": "reversad",
+    "3p": "reversen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reverses",
+    "3s": "no reverse",
+    "1p": "no reversemos",
+    "2p": "no reverséis",
+    "3p": "no reversen"
+  },
+  "Part-ter": {
+    "": "reversado"
+  },
+  "Part-ser": {
+    "ms": "reversado",
+    "fs": "reversada",
+    "mp": "reversados",
+    "fp": "reversadas"
+  }
+}

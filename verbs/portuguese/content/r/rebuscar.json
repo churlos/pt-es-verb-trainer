@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rebuscar"
+  },
+  "InfP": {
+    "1s": "rebuscar",
+    "2s": "rebuscares",
+    "3s": "rebuscar",
+    "1p": "rebuscarmos",
+    "2p": "rebuscardes",
+    "3p": "rebuscarem"
+  },
+  "Ger": {
+    "": "rebuscando"
+  },
+  "PresI": {
+    "1s": "rebusco",
+    "2s": "rebuscas",
+    "3s": "rebusca",
+    "1p": "rebuscamos",
+    "2p": "rebuscais",
+    "3p": "rebuscam"
+  },
+  "PImpI": {
+    "1s": "rebuscava",
+    "2s": "rebuscavas",
+    "3s": "rebuscava",
+    "1p": "rebuscávamos",
+    "2p": "rebuscáveis",
+    "3p": "rebuscavam"
+  },
+  "PPSI": {
+    "1s": "rebusquei",
+    "2s": "rebuscaste",
+    "3s": "rebuscou",
+    "1p": "rebuscámos",
+    "2p": "rebuscastes",
+    "3p": "rebuscaram"
+  },
+  "PMQPSI": {
+    "1s": "rebuscara",
+    "2s": "rebuscaras",
+    "3s": "rebuscara",
+    "1p": "rebuscáramos",
+    "2p": "rebuscáreis",
+    "3p": "rebuscaram"
+  },
+  "FutSI": {
+    "1s": "rebuscarei",
+    "2s": "rebuscarás",
+    "3s": "rebuscará",
+    "1p": "rebuscaremos",
+    "2p": "rebuscareis",
+    "3p": "rebuscarão"
+  },
+  "CondS": {
+    "1s": "rebuscaria",
+    "2s": "rebuscarias",
+    "3s": "rebuscaria",
+    "1p": "rebuscaríamos",
+    "2p": "rebuscaríeis",
+    "3p": "rebuscariam"
+  },
+  "PresC": {
+    "1s": "rebusque",
+    "2s": "rebusques",
+    "3s": "rebusque",
+    "1p": "rebusquemos",
+    "2p": "rebusqueis",
+    "3p": "rebusquem"
+  },
+  "PImpC": {
+    "1s": "rebuscasse",
+    "2s": "rebuscasses",
+    "3s": "rebuscasse",
+    "1p": "rebuscássemos",
+    "2p": "rebuscásseis",
+    "3p": "rebuscassem"
+  },
+  "FutSC": {
+    "1s": "rebuscar",
+    "2s": "rebuscares",
+    "3s": "rebuscar",
+    "1p": "rebuscarmos",
+    "2p": "rebuscardes",
+    "3p": "rebuscarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rebusca",
+    "3s": "rebusque",
+    "1p": "rebusquemos",
+    "2p": "rebuscai",
+    "3p": "rebusquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rebusques",
+    "3s": "não rebusque",
+    "1p": "não rebusquemos",
+    "2p": "não rebusqueis",
+    "3p": "não rebusquem"
+  },
+  "Part-ter": {
+    "": "rebuscado"
+  },
+  "Part-ser": {
+    "ms": "rebuscado",
+    "fs": "rebuscada",
+    "mp": "rebuscados",
+    "fp": "rebuscadas"
+  }
+}

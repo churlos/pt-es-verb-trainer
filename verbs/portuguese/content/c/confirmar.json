@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "confirmar"
+  },
+  "InfP": {
+    "1s": "confirmar",
+    "2s": "confirmares",
+    "3s": "confirmar",
+    "1p": "confirmarmos",
+    "2p": "confirmardes",
+    "3p": "confirmarem"
+  },
+  "Ger": {
+    "": "confirmando"
+  },
+  "PresI": {
+    "1s": "confirmo",
+    "2s": "confirmas",
+    "3s": "confirma",
+    "1p": "confirmamos",
+    "2p": "confirmais",
+    "3p": "confirmam"
+  },
+  "PImpI": {
+    "1s": "confirmava",
+    "2s": "confirmavas",
+    "3s": "confirmava",
+    "1p": "confirmávamos",
+    "2p": "confirmáveis",
+    "3p": "confirmavam"
+  },
+  "PPSI": {
+    "1s": "confirmei",
+    "2s": "confirmaste",
+    "3s": "confirmou",
+    "1p": "confirmámos",
+    "2p": "confirmastes",
+    "3p": "confirmaram"
+  },
+  "PMQPSI": {
+    "1s": "confirmara",
+    "2s": "confirmaras",
+    "3s": "confirmara",
+    "1p": "confirmáramos",
+    "2p": "confirmáreis",
+    "3p": "confirmaram"
+  },
+  "FutSI": {
+    "1s": "confirmarei",
+    "2s": "confirmarás",
+    "3s": "confirmará",
+    "1p": "confirmaremos",
+    "2p": "confirmareis",
+    "3p": "confirmarão"
+  },
+  "CondS": {
+    "1s": "confirmaria",
+    "2s": "confirmarias",
+    "3s": "confirmaria",
+    "1p": "confirmaríamos",
+    "2p": "confirmaríeis",
+    "3p": "confirmariam"
+  },
+  "PresC": {
+    "1s": "confirme",
+    "2s": "confirmes",
+    "3s": "confirme",
+    "1p": "confirmemos",
+    "2p": "confirmeis",
+    "3p": "confirmem"
+  },
+  "PImpC": {
+    "1s": "confirmasse",
+    "2s": "confirmasses",
+    "3s": "confirmasse",
+    "1p": "confirmássemos",
+    "2p": "confirmásseis",
+    "3p": "confirmassem"
+  },
+  "FutSC": {
+    "1s": "confirmar",
+    "2s": "confirmares",
+    "3s": "confirmar",
+    "1p": "confirmarmos",
+    "2p": "confirmardes",
+    "3p": "confirmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "confirma",
+    "3s": "confirme",
+    "1p": "confirmemos",
+    "2p": "confirmai",
+    "3p": "confirmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não confirmes",
+    "3s": "não confirme",
+    "1p": "não confirmemos",
+    "2p": "não confirmeis",
+    "3p": "não confirmem"
+  },
+  "Part-ter": {
+    "": "confirmado"
+  },
+  "Part-ser": {
+    "ms": "confirmado",
+    "fs": "confirmada",
+    "mp": "confirmados",
+    "fp": "confirmadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "obter"
+  },
+  "InfP": {
+    "1s": "obter",
+    "2s": "obteres",
+    "3s": "obter",
+    "1p": "obtermos",
+    "2p": "obterdes",
+    "3p": "obterem"
+  },
+  "Ger": {
+    "": "obtendo"
+  },
+  "PresI": {
+    "1s": "obtenho",
+    "2s": "obténs",
+    "3s": "obtém",
+    "1p": "obtemos",
+    "2p": "obtendes",
+    "3p": "obtêm"
+  },
+  "PImpI": {
+    "1s": "obtinha",
+    "2s": "obtinhas",
+    "3s": "obtinha",
+    "1p": "obtínhamos",
+    "2p": "obtínheis",
+    "3p": "obtinham"
+  },
+  "PPSI": {
+    "1s": "obtive",
+    "2s": "obtiveste",
+    "3s": "obteve",
+    "1p": "obtivemos",
+    "2p": "obtivestes",
+    "3p": "obtiveram"
+  },
+  "PMQPSI": {
+    "1s": "obtivera",
+    "2s": "obtiveras",
+    "3s": "obtivera",
+    "1p": "obtivéramos",
+    "2p": "obtivéreis",
+    "3p": "obtiveram"
+  },
+  "FutSI": {
+    "1s": "obterei",
+    "2s": "obterás",
+    "3s": "obterá",
+    "1p": "obteremos",
+    "2p": "obtereis",
+    "3p": "obterão"
+  },
+  "CondS": {
+    "1s": "obteria",
+    "2s": "obterias",
+    "3s": "obteria",
+    "1p": "obteríamos",
+    "2p": "obteríeis",
+    "3p": "obteriam"
+  },
+  "PresC": {
+    "1s": "obtenha",
+    "2s": "obtenhas",
+    "3s": "obtenha",
+    "1p": "obtenhamos",
+    "2p": "obtenhais",
+    "3p": "obtenham"
+  },
+  "PImpC": {
+    "1s": "obtivesse",
+    "2s": "obtivesses",
+    "3s": "obtivesse",
+    "1p": "obtivéssemos",
+    "2p": "obtivésseis",
+    "3p": "obtivessem"
+  },
+  "FutSC": {
+    "1s": "obtiver",
+    "2s": "obtiveres",
+    "3s": "obtiver",
+    "1p": "obtivermos",
+    "2p": "obtiverdes",
+    "3p": "obtiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "obtém",
+    "3s": "obtenha",
+    "1p": "obtenhamos",
+    "2p": "obtende",
+    "3p": "obtenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não obtenhas",
+    "3s": "não obtenha",
+    "1p": "não obtenhamos",
+    "2p": "não obtenhais",
+    "3p": "não obtenham"
+  },
+  "Part-ter": {
+    "": "obtido"
+  },
+  "Part-ser": {
+    "ms": "obtido",
+    "fs": "obtida",
+    "mp": "obtidos",
+    "fp": "obtidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "detectar"
+  },
+  "Ger": {
+    "": "detectando"
+  },
+  "PresI": {
+    "1s": "detecto",
+    "2s": "detectas",
+    "3s": "detecta",
+    "1p": "detectamos",
+    "2p": "detectáis",
+    "3p": "detectan"
+  },
+  "PImpI": {
+    "1s": "detectaba",
+    "2s": "detectabas",
+    "3s": "detectaba",
+    "1p": "detectábamos",
+    "2p": "detectabais",
+    "3p": "detectaban"
+  },
+  "PPSI": {
+    "1s": "detecté",
+    "2s": "detectaste",
+    "3s": "detectó",
+    "1p": "detectamos",
+    "2p": "detectasteis",
+    "3p": "detectaron"
+  },
+  "FutSI": {
+    "1s": "detectaré",
+    "2s": "detectarás",
+    "3s": "detectará",
+    "1p": "detectaremos",
+    "2p": "detectaréis",
+    "3p": "detectarán"
+  },
+  "CondS": {
+    "1s": "detectaría",
+    "2s": "detectarías",
+    "3s": "detectaría",
+    "1p": "detectaríamos",
+    "2p": "detectaríais",
+    "3p": "detectarían"
+  },
+  "PresC": {
+    "1s": "detecte",
+    "2s": "detectes",
+    "3s": "detecte",
+    "1p": "detectemos",
+    "2p": "detectéis",
+    "3p": "detecten"
+  },
+  "PMQPSI": {
+    "1s": "detectara",
+    "2s": "detectaras",
+    "3s": "detectara",
+    "1p": "detectáramos",
+    "2p": "detectarais",
+    "3p": "detectaran"
+  },
+  "PImpC": {
+    "1s": "detectase",
+    "2s": "detectases",
+    "3s": "detectase",
+    "1p": "detectásemos",
+    "2p": "detectaseis",
+    "3p": "detectasen"
+  },
+  "FutSC": {
+    "1s": "detectare",
+    "2s": "detectares",
+    "3s": "detectare",
+    "1p": "detectáremos",
+    "2p": "detectareis",
+    "3p": "detectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "detecta",
+    "3s": "detecte",
+    "1p": "detectemos",
+    "2p": "detectad",
+    "3p": "detecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no detectes",
+    "3s": "no detecte",
+    "1p": "no detectemos",
+    "2p": "no detectéis",
+    "3p": "no detecten"
+  },
+  "Part-ter": {
+    "": "detectado"
+  },
+  "Part-ser": {
+    "ms": "detectado",
+    "fs": "detectada",
+    "mp": "detectados",
+    "fp": "detectadas"
+  }
+}

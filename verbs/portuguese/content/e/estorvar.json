@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estorvar"
+  },
+  "InfP": {
+    "1s": "estorvar",
+    "2s": "estorvares",
+    "3s": "estorvar",
+    "1p": "estorvarmos",
+    "2p": "estorvardes",
+    "3p": "estorvarem"
+  },
+  "Ger": {
+    "": "estorvando"
+  },
+  "PresI": {
+    "1s": "estorvo",
+    "2s": "estorvas",
+    "3s": "estorva",
+    "1p": "estorvamos",
+    "2p": "estorvais",
+    "3p": "estorvam"
+  },
+  "PImpI": {
+    "1s": "estorvava",
+    "2s": "estorvavas",
+    "3s": "estorvava",
+    "1p": "estorvávamos",
+    "2p": "estorváveis",
+    "3p": "estorvavam"
+  },
+  "PPSI": {
+    "1s": "estorvei",
+    "2s": "estorvaste",
+    "3s": "estorvou",
+    "1p": "estorvámos",
+    "2p": "estorvastes",
+    "3p": "estorvaram"
+  },
+  "PMQPSI": {
+    "1s": "estorvara",
+    "2s": "estorvaras",
+    "3s": "estorvara",
+    "1p": "estorváramos",
+    "2p": "estorváreis",
+    "3p": "estorvaram"
+  },
+  "FutSI": {
+    "1s": "estorvarei",
+    "2s": "estorvarás",
+    "3s": "estorvará",
+    "1p": "estorvaremos",
+    "2p": "estorvareis",
+    "3p": "estorvarão"
+  },
+  "CondS": {
+    "1s": "estorvaria",
+    "2s": "estorvarias",
+    "3s": "estorvaria",
+    "1p": "estorvaríamos",
+    "2p": "estorvaríeis",
+    "3p": "estorvariam"
+  },
+  "PresC": {
+    "1s": "estorve",
+    "2s": "estorves",
+    "3s": "estorve",
+    "1p": "estorvemos",
+    "2p": "estorveis",
+    "3p": "estorvem"
+  },
+  "PImpC": {
+    "1s": "estorvasse",
+    "2s": "estorvasses",
+    "3s": "estorvasse",
+    "1p": "estorvássemos",
+    "2p": "estorvásseis",
+    "3p": "estorvassem"
+  },
+  "FutSC": {
+    "1s": "estorvar",
+    "2s": "estorvares",
+    "3s": "estorvar",
+    "1p": "estorvarmos",
+    "2p": "estorvardes",
+    "3p": "estorvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estorva",
+    "3s": "estorve",
+    "1p": "estorvemos",
+    "2p": "estorvai",
+    "3p": "estorvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estorves",
+    "3s": "não estorve",
+    "1p": "não estorvemos",
+    "2p": "não estorveis",
+    "3p": "não estorvem"
+  },
+  "Part-ter": {
+    "": "estorvado"
+  },
+  "Part-ser": {
+    "ms": "estorvado",
+    "fs": "estorvada",
+    "mp": "estorvados",
+    "fp": "estorvadas"
+  }
+}

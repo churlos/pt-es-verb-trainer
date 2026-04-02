@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "testear"
+  },
+  "Ger": {
+    "": "testeando"
+  },
+  "PresI": {
+    "1s": "testeo",
+    "2s": "testeas",
+    "3s": "testea",
+    "1p": "testeamos",
+    "2p": "testeáis",
+    "3p": "testean"
+  },
+  "PImpI": {
+    "1s": "testeaba",
+    "2s": "testeabas",
+    "3s": "testeaba",
+    "1p": "testeábamos",
+    "2p": "testeabais",
+    "3p": "testeaban"
+  },
+  "PPSI": {
+    "1s": "testeé",
+    "2s": "testeaste",
+    "3s": "testeó",
+    "1p": "testeamos",
+    "2p": "testeasteis",
+    "3p": "testearon"
+  },
+  "FutSI": {
+    "1s": "testearé",
+    "2s": "testearás",
+    "3s": "testeará",
+    "1p": "testearemos",
+    "2p": "testearéis",
+    "3p": "testearán"
+  },
+  "CondS": {
+    "1s": "testearía",
+    "2s": "testearías",
+    "3s": "testearía",
+    "1p": "testearíamos",
+    "2p": "testearíais",
+    "3p": "testearían"
+  },
+  "PresC": {
+    "1s": "testee",
+    "2s": "testees",
+    "3s": "testee",
+    "1p": "testeemos",
+    "2p": "testeéis",
+    "3p": "testeen"
+  },
+  "PMQPSI": {
+    "1s": "testeara",
+    "2s": "testearas",
+    "3s": "testeara",
+    "1p": "testeáramos",
+    "2p": "testearais",
+    "3p": "testearan"
+  },
+  "PImpC": {
+    "1s": "testease",
+    "2s": "testeases",
+    "3s": "testease",
+    "1p": "testeásemos",
+    "2p": "testeaseis",
+    "3p": "testeasen"
+  },
+  "FutSC": {
+    "1s": "testeare",
+    "2s": "testeares",
+    "3s": "testeare",
+    "1p": "testeáremos",
+    "2p": "testeareis",
+    "3p": "testearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "testea",
+    "3s": "testee",
+    "1p": "testeemos",
+    "2p": "testead",
+    "3p": "testeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no testees",
+    "3s": "no testee",
+    "1p": "no testeemos",
+    "2p": "no testeéis",
+    "3p": "no testeen"
+  },
+  "Part-ter": {
+    "": "testeado"
+  },
+  "Part-ser": {
+    "ms": "testeado",
+    "fs": "testeada",
+    "mp": "testeados",
+    "fp": "testeadas"
+  }
+}

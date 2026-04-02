@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "deshacer"
+  },
+  "Ger": {
+    "": "deshaciendo"
+  },
+  "PresI": {
+    "1s": "deshago",
+    "2s": "deshaces",
+    "3s": "deshace",
+    "1p": "deshacemos",
+    "2p": "deshacéis",
+    "3p": "deshacen"
+  },
+  "PImpI": {
+    "1s": "deshacía",
+    "2s": "deshacías",
+    "3s": "deshacía",
+    "1p": "deshacíamos",
+    "2p": "deshacíais",
+    "3p": "deshacían"
+  },
+  "PPSI": {
+    "1s": "deshice",
+    "2s": "deshiciste",
+    "3s": "deshizo",
+    "1p": "deshicimos",
+    "2p": "deshicisteis",
+    "3p": "deshicieron"
+  },
+  "FutSI": {
+    "1s": "desharé",
+    "2s": "desharás",
+    "3s": "deshará",
+    "1p": "desharemos",
+    "2p": "desharéis",
+    "3p": "desharán"
+  },
+  "CondS": {
+    "1s": "desharía",
+    "2s": "desharías",
+    "3s": "desharía",
+    "1p": "desharíamos",
+    "2p": "desharíais",
+    "3p": "desharían"
+  },
+  "PresC": {
+    "1s": "deshaga",
+    "2s": "deshagas",
+    "3s": "deshaga",
+    "1p": "deshagamos",
+    "2p": "deshagáis",
+    "3p": "deshagan"
+  },
+  "PMQPSI": {
+    "1s": "deshiciera",
+    "2s": "deshicieras",
+    "3s": "deshiciera",
+    "1p": "deshiciéramos",
+    "2p": "deshicierais",
+    "3p": "deshicieran"
+  },
+  "PImpC": {
+    "1s": "deshiciese",
+    "2s": "deshicieses",
+    "3s": "deshiciese",
+    "1p": "deshiciésemos",
+    "2p": "deshicieseis",
+    "3p": "deshiciesen"
+  },
+  "FutSC": {
+    "1s": "deshiciere",
+    "2s": "deshicieres",
+    "3s": "deshiciere",
+    "1p": "deshiciéremos",
+    "2p": "deshiciereis",
+    "3p": "deshicieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deshace",
+    "3s": "deshaga",
+    "1p": "deshagamos",
+    "2p": "deshaced",
+    "3p": "deshagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deshagas",
+    "3s": "no deshaga",
+    "1p": "no deshagamos",
+    "2p": "no deshagáis",
+    "3p": "no deshagan"
+  },
+  "Part-ter": {
+    "": "deshecho"
+  },
+  "Part-ser": {
+    "ms": "deshecho",
+    "fs": "deshecha",
+    "mp": "deshechos",
+    "fp": "deshechas"
+  }
+}

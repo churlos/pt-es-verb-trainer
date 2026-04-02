@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aluir"
+  },
+  "InfP": {
+    "1s": "aluir",
+    "2s": "aluires",
+    "3s": "aluir",
+    "1p": "aluirmos",
+    "2p": "aluirdes",
+    "3p": "aluirem"
+  },
+  "Ger": {
+    "": "aluindo"
+  },
+  "PresI": {
+    "1s": "aluo",
+    "2s": "alues",
+    "3s": "alue",
+    "1p": "aluimos",
+    "2p": "aluis",
+    "3p": "aluem"
+  },
+  "PImpI": {
+    "1s": "aluia",
+    "2s": "aluias",
+    "3s": "aluia",
+    "1p": "aluíamos",
+    "2p": "aluíeis",
+    "3p": "aluiam"
+  },
+  "PPSI": {
+    "1s": "alui",
+    "2s": "aluiste",
+    "3s": "aluiu",
+    "1p": "aluimos",
+    "2p": "aluistes",
+    "3p": "aluiram"
+  },
+  "PMQPSI": {
+    "1s": "aluira",
+    "2s": "aluiras",
+    "3s": "aluira",
+    "1p": "aluíramos",
+    "2p": "aluíreis",
+    "3p": "aluiram"
+  },
+  "FutSI": {
+    "1s": "aluirei",
+    "2s": "aluirás",
+    "3s": "aluirá",
+    "1p": "aluiremos",
+    "2p": "aluireis",
+    "3p": "aluirão"
+  },
+  "CondS": {
+    "1s": "aluiria",
+    "2s": "aluirias",
+    "3s": "aluiria",
+    "1p": "aluiríamos",
+    "2p": "aluiríeis",
+    "3p": "aluiriam"
+  },
+  "PresC": {
+    "1s": "alua",
+    "2s": "aluas",
+    "3s": "alua",
+    "1p": "aluamos",
+    "2p": "aluais",
+    "3p": "aluam"
+  },
+  "PImpC": {
+    "1s": "aluisse",
+    "2s": "aluisses",
+    "3s": "aluisse",
+    "1p": "aluíssemos",
+    "2p": "aluísseis",
+    "3p": "aluissem"
+  },
+  "FutSC": {
+    "1s": "aluir",
+    "2s": "aluires",
+    "3s": "aluir",
+    "1p": "aluirmos",
+    "2p": "aluirdes",
+    "3p": "aluirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alue",
+    "3s": "alua",
+    "1p": "aluamos",
+    "2p": "alui",
+    "3p": "aluam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aluas",
+    "3s": "não alua",
+    "1p": "não aluamos",
+    "2p": "não aluais",
+    "3p": "não aluam"
+  },
+  "Part-ter": {
+    "": "aluido"
+  },
+  "Part-ser": {
+    "ms": "aluido",
+    "fs": "aluida",
+    "mp": "aluidos",
+    "fp": "aluidas"
+  }
+}

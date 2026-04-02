@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atentar"
+  },
+  "Ger": {
+    "": "atentando"
+  },
+  "PresI": {
+    "1s": "atiento",
+    "2s": "atientas",
+    "3s": "atienta",
+    "1p": "atentamos",
+    "2p": "atentáis",
+    "3p": "atientan"
+  },
+  "PImpI": {
+    "1s": "atentaba",
+    "2s": "atentabas",
+    "3s": "atentaba",
+    "1p": "atentábamos",
+    "2p": "atentabais",
+    "3p": "atentaban"
+  },
+  "PPSI": {
+    "1s": "atenté",
+    "2s": "atentaste",
+    "3s": "atentó",
+    "1p": "atentamos",
+    "2p": "atentasteis",
+    "3p": "atentaron"
+  },
+  "FutSI": {
+    "1s": "atentaré",
+    "2s": "atentarás",
+    "3s": "atentará",
+    "1p": "atentaremos",
+    "2p": "atentaréis",
+    "3p": "atentarán"
+  },
+  "CondS": {
+    "1s": "atentaría",
+    "2s": "atentarías",
+    "3s": "atentaría",
+    "1p": "atentaríamos",
+    "2p": "atentaríais",
+    "3p": "atentarían"
+  },
+  "PresC": {
+    "1s": "atiente",
+    "2s": "atientes",
+    "3s": "atiente",
+    "1p": "atentemos",
+    "2p": "atentéis",
+    "3p": "atienten"
+  },
+  "PMQPSI": {
+    "1s": "atentara",
+    "2s": "atentaras",
+    "3s": "atentara",
+    "1p": "atentáramos",
+    "2p": "atentarais",
+    "3p": "atentaran"
+  },
+  "PImpC": {
+    "1s": "atentase",
+    "2s": "atentases",
+    "3s": "atentase",
+    "1p": "atentásemos",
+    "2p": "atentaseis",
+    "3p": "atentasen"
+  },
+  "FutSC": {
+    "1s": "atentare",
+    "2s": "atentares",
+    "3s": "atentare",
+    "1p": "atentáremos",
+    "2p": "atentareis",
+    "3p": "atentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atienta",
+    "3s": "atiente",
+    "1p": "atentemos",
+    "2p": "atentad",
+    "3p": "atienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atientes",
+    "3s": "no atiente",
+    "1p": "no atentemos",
+    "2p": "no atentéis",
+    "3p": "no atienten"
+  },
+  "Part-ter": {
+    "": "atentado"
+  },
+  "Part-ser": {
+    "ms": "atentado",
+    "fs": "atentada",
+    "mp": "atentados",
+    "fp": "atentadas"
+  }
+}

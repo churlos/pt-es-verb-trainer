@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exercer"
+  },
+  "InfP": {
+    "1s": "exercer",
+    "2s": "exerceres",
+    "3s": "exercer",
+    "1p": "exercermos",
+    "2p": "exercerdes",
+    "3p": "exercerem"
+  },
+  "Ger": {
+    "": "exercendo"
+  },
+  "PresI": {
+    "1s": "exerço",
+    "2s": "exerces",
+    "3s": "exerce",
+    "1p": "exercemos",
+    "2p": "exerceis",
+    "3p": "exercem"
+  },
+  "PImpI": {
+    "1s": "exercia",
+    "2s": "exercias",
+    "3s": "exercia",
+    "1p": "exercíamos",
+    "2p": "exercíeis",
+    "3p": "exerciam"
+  },
+  "PPSI": {
+    "1s": "exerci",
+    "2s": "exerceste",
+    "3s": "exerceu",
+    "1p": "exercemos",
+    "2p": "exercestes",
+    "3p": "exerceram"
+  },
+  "PMQPSI": {
+    "1s": "exercera",
+    "2s": "exerceras",
+    "3s": "exercera",
+    "1p": "exercêramos",
+    "2p": "exercêreis",
+    "3p": "exerceram"
+  },
+  "FutSI": {
+    "1s": "exercerei",
+    "2s": "exercerás",
+    "3s": "exercerá",
+    "1p": "exerceremos",
+    "2p": "exercereis",
+    "3p": "exercerão"
+  },
+  "CondS": {
+    "1s": "exerceria",
+    "2s": "exercerias",
+    "3s": "exerceria",
+    "1p": "exerceríamos",
+    "2p": "exerceríeis",
+    "3p": "exerceriam"
+  },
+  "PresC": {
+    "1s": "exerça",
+    "2s": "exerças",
+    "3s": "exerça",
+    "1p": "exerçamos",
+    "2p": "exerçais",
+    "3p": "exerçam"
+  },
+  "PImpC": {
+    "1s": "exercesse",
+    "2s": "exercesses",
+    "3s": "exercesse",
+    "1p": "exercêssemos",
+    "2p": "exercêsseis",
+    "3p": "exercessem"
+  },
+  "FutSC": {
+    "1s": "exercer",
+    "2s": "exerceres",
+    "3s": "exercer",
+    "1p": "exercermos",
+    "2p": "exercerdes",
+    "3p": "exercerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exerce",
+    "3s": "exerça",
+    "1p": "exerçamos",
+    "2p": "exercei",
+    "3p": "exerçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exerças",
+    "3s": "não exerça",
+    "1p": "não exerçamos",
+    "2p": "não exerçais",
+    "3p": "não exerçam"
+  },
+  "Part-ter": {
+    "": "exercido"
+  },
+  "Part-ser": {
+    "ms": "exercido",
+    "fs": "exercida",
+    "mp": "exercidos",
+    "fp": "exercidas"
+  }
+}

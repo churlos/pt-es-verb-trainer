@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "excutir"
+  },
+  "InfP": {
+    "1s": "excutir",
+    "2s": "excutires",
+    "3s": "excutir",
+    "1p": "excutirmos",
+    "2p": "excutirdes",
+    "3p": "excutirem"
+  },
+  "Ger": {
+    "": "excutindo"
+  },
+  "PresI": {
+    "1s": "excuto",
+    "2s": "excutes",
+    "3s": "excute",
+    "1p": "excutimos",
+    "2p": "excutis",
+    "3p": "excutem"
+  },
+  "PImpI": {
+    "1s": "excutia",
+    "2s": "excutias",
+    "3s": "excutia",
+    "1p": "excutíamos",
+    "2p": "excutíeis",
+    "3p": "excutiam"
+  },
+  "PPSI": {
+    "1s": "excuti",
+    "2s": "excutiste",
+    "3s": "excutiu",
+    "1p": "excutimos",
+    "2p": "excutistes",
+    "3p": "excutiram"
+  },
+  "PMQPSI": {
+    "1s": "excutira",
+    "2s": "excutiras",
+    "3s": "excutira",
+    "1p": "excutíramos",
+    "2p": "excutíreis",
+    "3p": "excutiram"
+  },
+  "FutSI": {
+    "1s": "excutirei",
+    "2s": "excutirás",
+    "3s": "excutirá",
+    "1p": "excutiremos",
+    "2p": "excutireis",
+    "3p": "excutirão"
+  },
+  "CondS": {
+    "1s": "excutiria",
+    "2s": "excutirias",
+    "3s": "excutiria",
+    "1p": "excutiríamos",
+    "2p": "excutiríeis",
+    "3p": "excutiriam"
+  },
+  "PresC": {
+    "1s": "excuta",
+    "2s": "excutas",
+    "3s": "excuta",
+    "1p": "excutamos",
+    "2p": "excutais",
+    "3p": "excutam"
+  },
+  "PImpC": {
+    "1s": "excutisse",
+    "2s": "excutisses",
+    "3s": "excutisse",
+    "1p": "excutíssemos",
+    "2p": "excutísseis",
+    "3p": "excutissem"
+  },
+  "FutSC": {
+    "1s": "excutir",
+    "2s": "excutires",
+    "3s": "excutir",
+    "1p": "excutirmos",
+    "2p": "excutirdes",
+    "3p": "excutirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "excute",
+    "3s": "excuta",
+    "1p": "excutamos",
+    "2p": "excuti",
+    "3p": "excutam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não excutas",
+    "3s": "não excuta",
+    "1p": "não excutamos",
+    "2p": "não excutais",
+    "3p": "não excutam"
+  },
+  "Part-ter": {
+    "": "excutido"
+  },
+  "Part-ser": {
+    "ms": "excutido",
+    "fs": "excutida",
+    "mp": "excutidos",
+    "fp": "excutidas"
+  }
+}

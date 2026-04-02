@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recocinar"
+  },
+  "Ger": {
+    "": "recocinando"
+  },
+  "PresI": {
+    "1s": "recocino",
+    "2s": "recocinas",
+    "3s": "recocina",
+    "1p": "recocinamos",
+    "2p": "recocináis",
+    "3p": "recocinan"
+  },
+  "PImpI": {
+    "1s": "recocinaba",
+    "2s": "recocinabas",
+    "3s": "recocinaba",
+    "1p": "recocinábamos",
+    "2p": "recocinabais",
+    "3p": "recocinaban"
+  },
+  "PPSI": {
+    "1s": "recociné",
+    "2s": "recocinaste",
+    "3s": "recocinó",
+    "1p": "recocinamos",
+    "2p": "recocinasteis",
+    "3p": "recocinaron"
+  },
+  "FutSI": {
+    "1s": "recocinaré",
+    "2s": "recocinarás",
+    "3s": "recocinará",
+    "1p": "recocinaremos",
+    "2p": "recocinaréis",
+    "3p": "recocinarán"
+  },
+  "CondS": {
+    "1s": "recocinaría",
+    "2s": "recocinarías",
+    "3s": "recocinaría",
+    "1p": "recocinaríamos",
+    "2p": "recocinaríais",
+    "3p": "recocinarían"
+  },
+  "PresC": {
+    "1s": "recocine",
+    "2s": "recocines",
+    "3s": "recocine",
+    "1p": "recocinemos",
+    "2p": "recocinéis",
+    "3p": "recocinen"
+  },
+  "PMQPSI": {
+    "1s": "recocinara",
+    "2s": "recocinaras",
+    "3s": "recocinara",
+    "1p": "recocináramos",
+    "2p": "recocinarais",
+    "3p": "recocinaran"
+  },
+  "PImpC": {
+    "1s": "recocinase",
+    "2s": "recocinases",
+    "3s": "recocinase",
+    "1p": "recocinásemos",
+    "2p": "recocinaseis",
+    "3p": "recocinasen"
+  },
+  "FutSC": {
+    "1s": "recocinare",
+    "2s": "recocinares",
+    "3s": "recocinare",
+    "1p": "recocináremos",
+    "2p": "recocinareis",
+    "3p": "recocinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recocina",
+    "3s": "recocine",
+    "1p": "recocinemos",
+    "2p": "recocinad",
+    "3p": "recocinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recocines",
+    "3s": "no recocine",
+    "1p": "no recocinemos",
+    "2p": "no recocinéis",
+    "3p": "no recocinen"
+  },
+  "Part-ter": {
+    "": "recocinado"
+  },
+  "Part-ser": {
+    "ms": "recocinado",
+    "fs": "recocinada",
+    "mp": "recocinados",
+    "fp": "recocinadas"
+  }
+}

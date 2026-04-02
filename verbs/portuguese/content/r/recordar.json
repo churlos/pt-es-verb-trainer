@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "recordar"
+  },
+  "InfP": {
+    "1s": "recordar",
+    "2s": "recordares",
+    "3s": "recordar",
+    "1p": "recordarmos",
+    "2p": "recordardes",
+    "3p": "recordarem"
+  },
+  "Ger": {
+    "": "recordando"
+  },
+  "PresI": {
+    "1s": "recordo",
+    "2s": "recordas",
+    "3s": "recorda",
+    "1p": "recordamos",
+    "2p": "recordais",
+    "3p": "recordam"
+  },
+  "PImpI": {
+    "1s": "recordava",
+    "2s": "recordavas",
+    "3s": "recordava",
+    "1p": "recordávamos",
+    "2p": "recordáveis",
+    "3p": "recordavam"
+  },
+  "PPSI": {
+    "1s": "recordei",
+    "2s": "recordaste",
+    "3s": "recordou",
+    "1p": "recordámos",
+    "2p": "recordastes",
+    "3p": "recordaram"
+  },
+  "PMQPSI": {
+    "1s": "recordara",
+    "2s": "recordaras",
+    "3s": "recordara",
+    "1p": "recordáramos",
+    "2p": "recordáreis",
+    "3p": "recordaram"
+  },
+  "FutSI": {
+    "1s": "recordarei",
+    "2s": "recordarás",
+    "3s": "recordará",
+    "1p": "recordaremos",
+    "2p": "recordareis",
+    "3p": "recordarão"
+  },
+  "CondS": {
+    "1s": "recordaria",
+    "2s": "recordarias",
+    "3s": "recordaria",
+    "1p": "recordaríamos",
+    "2p": "recordaríeis",
+    "3p": "recordariam"
+  },
+  "PresC": {
+    "1s": "recorde",
+    "2s": "recordes",
+    "3s": "recorde",
+    "1p": "recordemos",
+    "2p": "recordeis",
+    "3p": "recordem"
+  },
+  "PImpC": {
+    "1s": "recordasse",
+    "2s": "recordasses",
+    "3s": "recordasse",
+    "1p": "recordássemos",
+    "2p": "recordásseis",
+    "3p": "recordassem"
+  },
+  "FutSC": {
+    "1s": "recordar",
+    "2s": "recordares",
+    "3s": "recordar",
+    "1p": "recordarmos",
+    "2p": "recordardes",
+    "3p": "recordarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recorda",
+    "3s": "recorde",
+    "1p": "recordemos",
+    "2p": "recordai",
+    "3p": "recordem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não recordes",
+    "3s": "não recorde",
+    "1p": "não recordemos",
+    "2p": "não recordeis",
+    "3p": "não recordem"
+  },
+  "Part-ter": {
+    "": "recordado"
+  },
+  "Part-ser": {
+    "ms": "recordado",
+    "fs": "recordada",
+    "mp": "recordados",
+    "fp": "recordadas"
+  }
+}

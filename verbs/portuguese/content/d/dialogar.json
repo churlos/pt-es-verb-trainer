@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dialogar"
+  },
+  "InfP": {
+    "1s": "dialogar",
+    "2s": "dialogares",
+    "3s": "dialogar",
+    "1p": "dialogarmos",
+    "2p": "dialogardes",
+    "3p": "dialogarem"
+  },
+  "Ger": {
+    "": "dialogando"
+  },
+  "PresI": {
+    "1s": "dialogo",
+    "2s": "dialogas",
+    "3s": "dialoga",
+    "1p": "dialogamos",
+    "2p": "dialogais",
+    "3p": "dialogam"
+  },
+  "PImpI": {
+    "1s": "dialogava",
+    "2s": "dialogavas",
+    "3s": "dialogava",
+    "1p": "dialogávamos",
+    "2p": "dialogáveis",
+    "3p": "dialogavam"
+  },
+  "PPSI": {
+    "1s": "dialoguei",
+    "2s": "dialogaste",
+    "3s": "dialogou",
+    "1p": "dialogámos",
+    "2p": "dialogastes",
+    "3p": "dialogaram"
+  },
+  "PMQPSI": {
+    "1s": "dialogara",
+    "2s": "dialogaras",
+    "3s": "dialogara",
+    "1p": "dialogáramos",
+    "2p": "dialogáreis",
+    "3p": "dialogaram"
+  },
+  "FutSI": {
+    "1s": "dialogarei",
+    "2s": "dialogarás",
+    "3s": "dialogará",
+    "1p": "dialogaremos",
+    "2p": "dialogareis",
+    "3p": "dialogarão"
+  },
+  "CondS": {
+    "1s": "dialogaria",
+    "2s": "dialogarias",
+    "3s": "dialogaria",
+    "1p": "dialogaríamos",
+    "2p": "dialogaríeis",
+    "3p": "dialogariam"
+  },
+  "PresC": {
+    "1s": "dialogue",
+    "2s": "dialogues",
+    "3s": "dialogue",
+    "1p": "dialoguemos",
+    "2p": "dialogueis",
+    "3p": "dialoguem"
+  },
+  "PImpC": {
+    "1s": "dialogasse",
+    "2s": "dialogasses",
+    "3s": "dialogasse",
+    "1p": "dialogássemos",
+    "2p": "dialogásseis",
+    "3p": "dialogassem"
+  },
+  "FutSC": {
+    "1s": "dialogar",
+    "2s": "dialogares",
+    "3s": "dialogar",
+    "1p": "dialogarmos",
+    "2p": "dialogardes",
+    "3p": "dialogarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dialoga",
+    "3s": "dialogue",
+    "1p": "dialoguemos",
+    "2p": "dialogai",
+    "3p": "dialoguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dialogues",
+    "3s": "não dialogue",
+    "1p": "não dialoguemos",
+    "2p": "não dialogueis",
+    "3p": "não dialoguem"
+  },
+  "Part-ter": {
+    "": "dialogado"
+  },
+  "Part-ser": {
+    "ms": "dialogado",
+    "fs": "dialogada",
+    "mp": "dialogados",
+    "fp": "dialogadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "robotizar"
+  },
+  "InfP": {
+    "1s": "robotizar",
+    "2s": "robotizares",
+    "3s": "robotizar",
+    "1p": "robotizarmos",
+    "2p": "robotizardes",
+    "3p": "robotizarem"
+  },
+  "Ger": {
+    "": "robotizando"
+  },
+  "PresI": {
+    "1s": "robotizo",
+    "2s": "robotizas",
+    "3s": "robotiza",
+    "1p": "robotizamos",
+    "2p": "robotizais",
+    "3p": "robotizam"
+  },
+  "PImpI": {
+    "1s": "robotizava",
+    "2s": "robotizavas",
+    "3s": "robotizava",
+    "1p": "robotizávamos",
+    "2p": "robotizáveis",
+    "3p": "robotizavam"
+  },
+  "PPSI": {
+    "1s": "robotizei",
+    "2s": "robotizaste",
+    "3s": "robotizou",
+    "1p": "robotizámos",
+    "2p": "robotizastes",
+    "3p": "robotizaram"
+  },
+  "PMQPSI": {
+    "1s": "robotizara",
+    "2s": "robotizaras",
+    "3s": "robotizara",
+    "1p": "robotizáramos",
+    "2p": "robotizáreis",
+    "3p": "robotizaram"
+  },
+  "FutSI": {
+    "1s": "robotizarei",
+    "2s": "robotizarás",
+    "3s": "robotizará",
+    "1p": "robotizaremos",
+    "2p": "robotizareis",
+    "3p": "robotizarão"
+  },
+  "CondS": {
+    "1s": "robotizaria",
+    "2s": "robotizarias",
+    "3s": "robotizaria",
+    "1p": "robotizaríamos",
+    "2p": "robotizaríeis",
+    "3p": "robotizariam"
+  },
+  "PresC": {
+    "1s": "robotize",
+    "2s": "robotizes",
+    "3s": "robotize",
+    "1p": "robotizemos",
+    "2p": "robotizeis",
+    "3p": "robotizem"
+  },
+  "PImpC": {
+    "1s": "robotizasse",
+    "2s": "robotizasses",
+    "3s": "robotizasse",
+    "1p": "robotizássemos",
+    "2p": "robotizásseis",
+    "3p": "robotizassem"
+  },
+  "FutSC": {
+    "1s": "robotizar",
+    "2s": "robotizares",
+    "3s": "robotizar",
+    "1p": "robotizarmos",
+    "2p": "robotizardes",
+    "3p": "robotizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "robotiza",
+    "3s": "robotize",
+    "1p": "robotizemos",
+    "2p": "robotizai",
+    "3p": "robotizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não robotizes",
+    "3s": "não robotize",
+    "1p": "não robotizemos",
+    "2p": "não robotizeis",
+    "3p": "não robotizem"
+  },
+  "Part-ter": {
+    "": "robotizado"
+  },
+  "Part-ser": {
+    "ms": "robotizado",
+    "fs": "robotizada",
+    "mp": "robotizados",
+    "fp": "robotizadas"
+  }
+}

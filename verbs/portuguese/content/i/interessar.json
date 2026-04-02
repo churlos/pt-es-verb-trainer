@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "interessar"
+  },
+  "InfP": {
+    "1s": "interessar",
+    "2s": "interessares",
+    "3s": "interessar",
+    "1p": "interessarmos",
+    "2p": "interessardes",
+    "3p": "interessarem"
+  },
+  "Ger": {
+    "": "interessando"
+  },
+  "PresI": {
+    "1s": "interesso",
+    "2s": "interessas",
+    "3s": "interessa",
+    "1p": "interessamos",
+    "2p": "interessais",
+    "3p": "interessam"
+  },
+  "PImpI": {
+    "1s": "interessava",
+    "2s": "interessavas",
+    "3s": "interessava",
+    "1p": "interessávamos",
+    "2p": "interessáveis",
+    "3p": "interessavam"
+  },
+  "PPSI": {
+    "1s": "interessei",
+    "2s": "interessaste",
+    "3s": "interessou",
+    "1p": "interessámos",
+    "2p": "interessastes",
+    "3p": "interessaram"
+  },
+  "PMQPSI": {
+    "1s": "interessara",
+    "2s": "interessaras",
+    "3s": "interessara",
+    "1p": "interessáramos",
+    "2p": "interessáreis",
+    "3p": "interessaram"
+  },
+  "FutSI": {
+    "1s": "interessarei",
+    "2s": "interessarás",
+    "3s": "interessará",
+    "1p": "interessaremos",
+    "2p": "interessareis",
+    "3p": "interessarão"
+  },
+  "CondS": {
+    "1s": "interessaria",
+    "2s": "interessarias",
+    "3s": "interessaria",
+    "1p": "interessaríamos",
+    "2p": "interessaríeis",
+    "3p": "interessariam"
+  },
+  "PresC": {
+    "1s": "interesse",
+    "2s": "interesses",
+    "3s": "interesse",
+    "1p": "interessemos",
+    "2p": "interesseis",
+    "3p": "interessem"
+  },
+  "PImpC": {
+    "1s": "interessasse",
+    "2s": "interessasses",
+    "3s": "interessasse",
+    "1p": "interessássemos",
+    "2p": "interessásseis",
+    "3p": "interessassem"
+  },
+  "FutSC": {
+    "1s": "interessar",
+    "2s": "interessares",
+    "3s": "interessar",
+    "1p": "interessarmos",
+    "2p": "interessardes",
+    "3p": "interessarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interessa",
+    "3s": "interesse",
+    "1p": "interessemos",
+    "2p": "interessai",
+    "3p": "interessem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não interesses",
+    "3s": "não interesse",
+    "1p": "não interessemos",
+    "2p": "não interesseis",
+    "3p": "não interessem"
+  },
+  "Part-ter": {
+    "": "interessado"
+  },
+  "Part-ser": {
+    "ms": "interessado",
+    "fs": "interessada",
+    "mp": "interessados",
+    "fp": "interessadas"
+  }
+}

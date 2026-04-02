@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "delinquir"
+  },
+  "Ger": {
+    "": "delinquiendo"
+  },
+  "PresI": {
+    "1s": "delinco",
+    "2s": "delinques",
+    "3s": "delinque",
+    "1p": "delinquimos",
+    "2p": "delinquís",
+    "3p": "delinquen"
+  },
+  "PImpI": {
+    "1s": "delinquía",
+    "2s": "delinquías",
+    "3s": "delinquía",
+    "1p": "delinquíamos",
+    "2p": "delinquíais",
+    "3p": "delinquían"
+  },
+  "PPSI": {
+    "1s": "delinquí",
+    "2s": "delinquiste",
+    "3s": "delinquió",
+    "1p": "delinquimos",
+    "2p": "delinquisteis",
+    "3p": "delinquieron"
+  },
+  "FutSI": {
+    "1s": "delinquiré",
+    "2s": "delinquirás",
+    "3s": "delinquirá",
+    "1p": "delinquiremos",
+    "2p": "delinquiréis",
+    "3p": "delinquirán"
+  },
+  "CondS": {
+    "1s": "delinquiría",
+    "2s": "delinquirías",
+    "3s": "delinquiría",
+    "1p": "delinquiríamos",
+    "2p": "delinquiríais",
+    "3p": "delinquirían"
+  },
+  "PresC": {
+    "1s": "delinca",
+    "2s": "delincas",
+    "3s": "delinca",
+    "1p": "delincamos",
+    "2p": "delincáis",
+    "3p": "delincan"
+  },
+  "PMQPSI": {
+    "1s": "delinquiera",
+    "2s": "delinquieras",
+    "3s": "delinquiera",
+    "1p": "delinquiéramos",
+    "2p": "delinquierais",
+    "3p": "delinquieran"
+  },
+  "PImpC": {
+    "1s": "delinquiese",
+    "2s": "delinquieses",
+    "3s": "delinquiese",
+    "1p": "delinquiésemos",
+    "2p": "delinquieseis",
+    "3p": "delinquiesen"
+  },
+  "FutSC": {
+    "1s": "delinquiere",
+    "2s": "delinquieres",
+    "3s": "delinquiere",
+    "1p": "delinquiéremos",
+    "2p": "delinquiereis",
+    "3p": "delinquieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "delinque",
+    "3s": "delinca",
+    "1p": "delincamos",
+    "2p": "delinquid",
+    "3p": "delincan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no delincas",
+    "3s": "no delinca",
+    "1p": "no delincamos",
+    "2p": "no delincáis",
+    "3p": "no delincan"
+  },
+  "Part-ter": {
+    "": "delinquido"
+  },
+  "Part-ser": {
+    "ms": "delinquido",
+    "fs": "delinquida",
+    "mp": "delinquidos",
+    "fp": "delinquidas"
+  }
+}

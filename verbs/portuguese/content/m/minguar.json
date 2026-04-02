@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "minguar"
+  },
+  "InfP": {
+    "1s": "minguar",
+    "2s": "minguares",
+    "3s": "minguar",
+    "1p": "minguarmos",
+    "2p": "minguardes",
+    "3p": "minguarem"
+  },
+  "Ger": {
+    "": "minguando"
+  },
+  "PresI": {
+    "1s": "mínguo",
+    "2s": "mínguas",
+    "3s": "míngua",
+    "1p": "minguamos",
+    "2p": "minguais",
+    "3p": "mínguam"
+  },
+  "PImpI": {
+    "1s": "minguava",
+    "2s": "minguavas",
+    "3s": "minguava",
+    "1p": "minguávamos",
+    "2p": "minguáveis",
+    "3p": "minguavam"
+  },
+  "PPSI": {
+    "1s": "mingueiObsolete:mingüei",
+    "2s": "minguaste",
+    "3s": "minguou",
+    "1p": "minguámos",
+    "2p": "minguastes",
+    "3p": "minguaram"
+  },
+  "PMQPSI": {
+    "1s": "minguara",
+    "2s": "minguaras",
+    "3s": "minguara",
+    "1p": "minguáramos",
+    "2p": "minguáreis",
+    "3p": "minguaram"
+  },
+  "FutSI": {
+    "1s": "minguarei",
+    "2s": "minguarás",
+    "3s": "minguará",
+    "1p": "minguaremos",
+    "2p": "minguareis",
+    "3p": "minguarão"
+  },
+  "CondS": {
+    "1s": "minguaria",
+    "2s": "minguarias",
+    "3s": "minguaria",
+    "1p": "minguaríamos",
+    "2p": "minguaríeis",
+    "3p": "minguariam"
+  },
+  "PresC": {
+    "1s": "míngueObsolete:míngüe",
+    "2s": "mínguesObsolete:míngües",
+    "3s": "míngueObsolete:míngüe",
+    "1p": "minguemosObsolete:mingüemos",
+    "2p": "mingueisObsolete:mingüeis",
+    "3p": "mínguemObsolete:míngüem"
+  },
+  "PImpC": {
+    "1s": "minguasse",
+    "2s": "minguasses",
+    "3s": "minguasse",
+    "1p": "minguássemos",
+    "2p": "minguásseis",
+    "3p": "minguassem"
+  },
+  "FutSC": {
+    "1s": "minguar",
+    "2s": "minguares",
+    "3s": "minguar",
+    "1p": "minguarmos",
+    "2p": "minguardes",
+    "3p": "minguarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "míngua",
+    "3s": "míngueObsolete:míngüe",
+    "1p": "minguemosObsolete:mingüemos",
+    "2p": "minguai",
+    "3p": "mínguemObsolete:míngüem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mínguesObsolete:míngües",
+    "3s": "não míngueObsolete:míngüe",
+    "1p": "não minguemosObsolete:mingüemos",
+    "2p": "não mingueisObsolete:mingüeis",
+    "3p": "não mínguemObsolete:míngüem"
+  },
+  "Part-ter": {
+    "": "minguado"
+  },
+  "Part-ser": {
+    "ms": "minguado",
+    "fs": "minguada",
+    "mp": "minguados",
+    "fp": "minguadas"
+  }
+}

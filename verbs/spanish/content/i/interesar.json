@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "interesar"
+  },
+  "Ger": {
+    "": "interesando"
+  },
+  "PresI": {
+    "1s": "intereso",
+    "2s": "interesas",
+    "3s": "interesa",
+    "1p": "interesamos",
+    "2p": "interesáis",
+    "3p": "interesan"
+  },
+  "PImpI": {
+    "1s": "interesaba",
+    "2s": "interesabas",
+    "3s": "interesaba",
+    "1p": "interesábamos",
+    "2p": "interesabais",
+    "3p": "interesaban"
+  },
+  "PPSI": {
+    "1s": "interesé",
+    "2s": "interesaste",
+    "3s": "interesó",
+    "1p": "interesamos",
+    "2p": "interesasteis",
+    "3p": "interesaron"
+  },
+  "FutSI": {
+    "1s": "interesaré",
+    "2s": "interesarás",
+    "3s": "interesará",
+    "1p": "interesaremos",
+    "2p": "interesaréis",
+    "3p": "interesarán"
+  },
+  "CondS": {
+    "1s": "interesaría",
+    "2s": "interesarías",
+    "3s": "interesaría",
+    "1p": "interesaríamos",
+    "2p": "interesaríais",
+    "3p": "interesarían"
+  },
+  "PresC": {
+    "1s": "interese",
+    "2s": "intereses",
+    "3s": "interese",
+    "1p": "interesemos",
+    "2p": "intereséis",
+    "3p": "interesen"
+  },
+  "PMQPSI": {
+    "1s": "interesara",
+    "2s": "interesaras",
+    "3s": "interesara",
+    "1p": "interesáramos",
+    "2p": "interesarais",
+    "3p": "interesaran"
+  },
+  "PImpC": {
+    "1s": "interesase",
+    "2s": "interesases",
+    "3s": "interesase",
+    "1p": "interesásemos",
+    "2p": "interesaseis",
+    "3p": "interesasen"
+  },
+  "FutSC": {
+    "1s": "interesare",
+    "2s": "interesares",
+    "3s": "interesare",
+    "1p": "interesáremos",
+    "2p": "interesareis",
+    "3p": "interesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interesa",
+    "3s": "interese",
+    "1p": "interesemos",
+    "2p": "interesad",
+    "3p": "interesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no intereses",
+    "3s": "no interese",
+    "1p": "no interesemos",
+    "2p": "no intereséis",
+    "3p": "no interesen"
+  },
+  "Part-ter": {
+    "": "interesado"
+  },
+  "Part-ser": {
+    "ms": "interesado",
+    "fs": "interesada",
+    "mp": "interesados",
+    "fp": "interesadas"
+  }
+}

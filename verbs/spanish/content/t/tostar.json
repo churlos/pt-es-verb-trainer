@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tostar"
+  },
+  "Ger": {
+    "": "tostando"
+  },
+  "PresI": {
+    "1s": "tuesto",
+    "2s": "tuestas",
+    "3s": "tuesta",
+    "1p": "tostamos",
+    "2p": "tostáis",
+    "3p": "tuestan"
+  },
+  "PImpI": {
+    "1s": "tostaba",
+    "2s": "tostabas",
+    "3s": "tostaba",
+    "1p": "tostábamos",
+    "2p": "tostabais",
+    "3p": "tostaban"
+  },
+  "PPSI": {
+    "1s": "tosté",
+    "2s": "tostaste",
+    "3s": "tostó",
+    "1p": "tostamos",
+    "2p": "tostasteis",
+    "3p": "tostaron"
+  },
+  "FutSI": {
+    "1s": "tostaré",
+    "2s": "tostarás",
+    "3s": "tostará",
+    "1p": "tostaremos",
+    "2p": "tostaréis",
+    "3p": "tostarán"
+  },
+  "CondS": {
+    "1s": "tostaría",
+    "2s": "tostarías",
+    "3s": "tostaría",
+    "1p": "tostaríamos",
+    "2p": "tostaríais",
+    "3p": "tostarían"
+  },
+  "PresC": {
+    "1s": "tueste",
+    "2s": "tuestes",
+    "3s": "tueste",
+    "1p": "tostemos",
+    "2p": "tostéis",
+    "3p": "tuesten"
+  },
+  "PMQPSI": {
+    "1s": "tostara",
+    "2s": "tostaras",
+    "3s": "tostara",
+    "1p": "tostáramos",
+    "2p": "tostarais",
+    "3p": "tostaran"
+  },
+  "PImpC": {
+    "1s": "tostase",
+    "2s": "tostases",
+    "3s": "tostase",
+    "1p": "tostásemos",
+    "2p": "tostaseis",
+    "3p": "tostasen"
+  },
+  "FutSC": {
+    "1s": "tostare",
+    "2s": "tostares",
+    "3s": "tostare",
+    "1p": "tostáremos",
+    "2p": "tostareis",
+    "3p": "tostaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tuesta",
+    "3s": "tueste",
+    "1p": "tostemos",
+    "2p": "tostad",
+    "3p": "tuesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tuestes",
+    "3s": "no tueste",
+    "1p": "no tostemos",
+    "2p": "no tostéis",
+    "3p": "no tuesten"
+  },
+  "Part-ter": {
+    "": "tostado"
+  },
+  "Part-ser": {
+    "ms": "tostado",
+    "fs": "tostada",
+    "mp": "tostados",
+    "fp": "tostadas"
+  }
+}

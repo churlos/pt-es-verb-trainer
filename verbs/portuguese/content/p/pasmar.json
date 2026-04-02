@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pasmar"
+  },
+  "InfP": {
+    "1s": "pasmar",
+    "2s": "pasmares",
+    "3s": "pasmar",
+    "1p": "pasmarmos",
+    "2p": "pasmardes",
+    "3p": "pasmarem"
+  },
+  "Ger": {
+    "": "pasmando"
+  },
+  "PresI": {
+    "1s": "pasmo",
+    "2s": "pasmas",
+    "3s": "pasma",
+    "1p": "pasmamos",
+    "2p": "pasmais",
+    "3p": "pasmam"
+  },
+  "PImpI": {
+    "1s": "pasmava",
+    "2s": "pasmavas",
+    "3s": "pasmava",
+    "1p": "pasmávamos",
+    "2p": "pasmáveis",
+    "3p": "pasmavam"
+  },
+  "PPSI": {
+    "1s": "pasmei",
+    "2s": "pasmaste",
+    "3s": "pasmou",
+    "1p": "pasmámos",
+    "2p": "pasmastes",
+    "3p": "pasmaram"
+  },
+  "PMQPSI": {
+    "1s": "pasmara",
+    "2s": "pasmaras",
+    "3s": "pasmara",
+    "1p": "pasmáramos",
+    "2p": "pasmáreis",
+    "3p": "pasmaram"
+  },
+  "FutSI": {
+    "1s": "pasmarei",
+    "2s": "pasmarás",
+    "3s": "pasmará",
+    "1p": "pasmaremos",
+    "2p": "pasmareis",
+    "3p": "pasmarão"
+  },
+  "CondS": {
+    "1s": "pasmaria",
+    "2s": "pasmarias",
+    "3s": "pasmaria",
+    "1p": "pasmaríamos",
+    "2p": "pasmaríeis",
+    "3p": "pasmariam"
+  },
+  "PresC": {
+    "1s": "pasme",
+    "2s": "pasmes",
+    "3s": "pasme",
+    "1p": "pasmemos",
+    "2p": "pasmeis",
+    "3p": "pasmem"
+  },
+  "PImpC": {
+    "1s": "pasmasse",
+    "2s": "pasmasses",
+    "3s": "pasmasse",
+    "1p": "pasmássemos",
+    "2p": "pasmásseis",
+    "3p": "pasmassem"
+  },
+  "FutSC": {
+    "1s": "pasmar",
+    "2s": "pasmares",
+    "3s": "pasmar",
+    "1p": "pasmarmos",
+    "2p": "pasmardes",
+    "3p": "pasmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pasma",
+    "3s": "pasme",
+    "1p": "pasmemos",
+    "2p": "pasmai",
+    "3p": "pasmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pasmes",
+    "3s": "não pasme",
+    "1p": "não pasmemos",
+    "2p": "não pasmeis",
+    "3p": "não pasmem"
+  },
+  "Part-ter": {
+    "": "pasmado"
+  },
+  "Part-ser": {
+    "ms": "pasmado",
+    "fs": "pasmada",
+    "mp": "pasmados",
+    "fp": "pasmadas"
+  }
+}

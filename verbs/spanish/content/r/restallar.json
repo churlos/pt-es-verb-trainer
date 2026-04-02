@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "restallar"
+  },
+  "Ger": {
+    "": "restallando"
+  },
+  "PresI": {
+    "1s": "restallo",
+    "2s": "restallas",
+    "3s": "restalla",
+    "1p": "restallamos",
+    "2p": "restalláis",
+    "3p": "restallan"
+  },
+  "PImpI": {
+    "1s": "restallaba",
+    "2s": "restallabas",
+    "3s": "restallaba",
+    "1p": "restallábamos",
+    "2p": "restallabais",
+    "3p": "restallaban"
+  },
+  "PPSI": {
+    "1s": "restallé",
+    "2s": "restallaste",
+    "3s": "restalló",
+    "1p": "restallamos",
+    "2p": "restallasteis",
+    "3p": "restallaron"
+  },
+  "FutSI": {
+    "1s": "restallaré",
+    "2s": "restallarás",
+    "3s": "restallará",
+    "1p": "restallaremos",
+    "2p": "restallaréis",
+    "3p": "restallarán"
+  },
+  "CondS": {
+    "1s": "restallaría",
+    "2s": "restallarías",
+    "3s": "restallaría",
+    "1p": "restallaríamos",
+    "2p": "restallaríais",
+    "3p": "restallarían"
+  },
+  "PresC": {
+    "1s": "restalle",
+    "2s": "restalles",
+    "3s": "restalle",
+    "1p": "restallemos",
+    "2p": "restalléis",
+    "3p": "restallen"
+  },
+  "PMQPSI": {
+    "1s": "restallara",
+    "2s": "restallaras",
+    "3s": "restallara",
+    "1p": "restalláramos",
+    "2p": "restallarais",
+    "3p": "restallaran"
+  },
+  "PImpC": {
+    "1s": "restallase",
+    "2s": "restallases",
+    "3s": "restallase",
+    "1p": "restallásemos",
+    "2p": "restallaseis",
+    "3p": "restallasen"
+  },
+  "FutSC": {
+    "1s": "restallare",
+    "2s": "restallares",
+    "3s": "restallare",
+    "1p": "restalláremos",
+    "2p": "restallareis",
+    "3p": "restallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "restalla",
+    "3s": "restalle",
+    "1p": "restallemos",
+    "2p": "restallad",
+    "3p": "restallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no restalles",
+    "3s": "no restalle",
+    "1p": "no restallemos",
+    "2p": "no restalléis",
+    "3p": "no restallen"
+  },
+  "Part-ter": {
+    "": "restallado"
+  },
+  "Part-ser": {
+    "ms": "restallado",
+    "fs": "restallada",
+    "mp": "restallados",
+    "fp": "restalladas"
+  }
+}

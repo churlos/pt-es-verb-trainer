@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bolver"
+  },
+  "Ger": {
+    "": "bolviendo"
+  },
+  "PresI": {
+    "1s": "buelvo",
+    "2s": "buelves",
+    "3s": "buelve",
+    "1p": "bolvemos",
+    "2p": "bolvéis",
+    "3p": "buelven"
+  },
+  "PImpI": {
+    "1s": "bolvía",
+    "2s": "bolvías",
+    "3s": "bolvía",
+    "1p": "bolvíamos",
+    "2p": "bolvíais",
+    "3p": "bolvían"
+  },
+  "PPSI": {
+    "1s": "bolví",
+    "2s": "bolviste",
+    "3s": "bolvió",
+    "1p": "bolvimos",
+    "2p": "bolvisteis",
+    "3p": "bolvieron"
+  },
+  "FutSI": {
+    "1s": "bolveré",
+    "2s": "bolverás",
+    "3s": "bolverá",
+    "1p": "bolveremos",
+    "2p": "bolveréis",
+    "3p": "bolverán"
+  },
+  "CondS": {
+    "1s": "bolvería",
+    "2s": "bolverías",
+    "3s": "bolvería",
+    "1p": "bolveríamos",
+    "2p": "bolveríais",
+    "3p": "bolverían"
+  },
+  "PresC": {
+    "1s": "buelva",
+    "2s": "buelvas",
+    "3s": "buelva",
+    "1p": "bolvamos",
+    "2p": "bolváis",
+    "3p": "buelvan"
+  },
+  "PMQPSI": {
+    "1s": "bolviera",
+    "2s": "bolvieras",
+    "3s": "bolviera",
+    "1p": "bolviéramos",
+    "2p": "bolvierais",
+    "3p": "bolvieran"
+  },
+  "PImpC": {
+    "1s": "bolviese",
+    "2s": "bolvieses",
+    "3s": "bolviese",
+    "1p": "bolviésemos",
+    "2p": "bolvieseis",
+    "3p": "bolviesen"
+  },
+  "FutSC": {
+    "1s": "bolviere",
+    "2s": "bolvieres",
+    "3s": "bolviere",
+    "1p": "bolviéremos",
+    "2p": "bolviereis",
+    "3p": "bolvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "buelve",
+    "3s": "buelva",
+    "1p": "bolvamos",
+    "2p": "bolved",
+    "3p": "buelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no buelvas",
+    "3s": "no buelva",
+    "1p": "no bolvamos",
+    "2p": "no bolváis",
+    "3p": "no buelvan"
+  },
+  "Part-ter": {
+    "": "buelto"
+  },
+  "Part-ser": {
+    "ms": "buelto",
+    "fs": "buelta",
+    "mp": "bueltos",
+    "fp": "bueltas"
+  }
+}

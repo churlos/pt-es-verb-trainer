@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reconectar"
+  },
+  "Ger": {
+    "": "reconectando"
+  },
+  "PresI": {
+    "1s": "reconecto",
+    "2s": "reconectas",
+    "3s": "reconecta",
+    "1p": "reconectamos",
+    "2p": "reconectáis",
+    "3p": "reconectan"
+  },
+  "PImpI": {
+    "1s": "reconectaba",
+    "2s": "reconectabas",
+    "3s": "reconectaba",
+    "1p": "reconectábamos",
+    "2p": "reconectabais",
+    "3p": "reconectaban"
+  },
+  "PPSI": {
+    "1s": "reconecté",
+    "2s": "reconectaste",
+    "3s": "reconectó",
+    "1p": "reconectamos",
+    "2p": "reconectasteis",
+    "3p": "reconectaron"
+  },
+  "FutSI": {
+    "1s": "reconectaré",
+    "2s": "reconectarás",
+    "3s": "reconectará",
+    "1p": "reconectaremos",
+    "2p": "reconectaréis",
+    "3p": "reconectarán"
+  },
+  "CondS": {
+    "1s": "reconectaría",
+    "2s": "reconectarías",
+    "3s": "reconectaría",
+    "1p": "reconectaríamos",
+    "2p": "reconectaríais",
+    "3p": "reconectarían"
+  },
+  "PresC": {
+    "1s": "reconecte",
+    "2s": "reconectes",
+    "3s": "reconecte",
+    "1p": "reconectemos",
+    "2p": "reconectéis",
+    "3p": "reconecten"
+  },
+  "PMQPSI": {
+    "1s": "reconectara",
+    "2s": "reconectaras",
+    "3s": "reconectara",
+    "1p": "reconectáramos",
+    "2p": "reconectarais",
+    "3p": "reconectaran"
+  },
+  "PImpC": {
+    "1s": "reconectase",
+    "2s": "reconectases",
+    "3s": "reconectase",
+    "1p": "reconectásemos",
+    "2p": "reconectaseis",
+    "3p": "reconectasen"
+  },
+  "FutSC": {
+    "1s": "reconectare",
+    "2s": "reconectares",
+    "3s": "reconectare",
+    "1p": "reconectáremos",
+    "2p": "reconectareis",
+    "3p": "reconectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reconecta",
+    "3s": "reconecte",
+    "1p": "reconectemos",
+    "2p": "reconectad",
+    "3p": "reconecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reconectes",
+    "3s": "no reconecte",
+    "1p": "no reconectemos",
+    "2p": "no reconectéis",
+    "3p": "no reconecten"
+  },
+  "Part-ter": {
+    "": "reconectado"
+  },
+  "Part-ser": {
+    "ms": "reconectado",
+    "fs": "reconectada",
+    "mp": "reconectados",
+    "fp": "reconectadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "resumir"
+  },
+  "InfP": {
+    "1s": "resumir",
+    "2s": "resumires",
+    "3s": "resumir",
+    "1p": "resumirmos",
+    "2p": "resumirdes",
+    "3p": "resumirem"
+  },
+  "Ger": {
+    "": "resumindo"
+  },
+  "PresI": {
+    "1s": "resumo",
+    "2s": "resumes",
+    "3s": "resume",
+    "1p": "resumimos",
+    "2p": "resumis",
+    "3p": "resumem"
+  },
+  "PImpI": {
+    "1s": "resumia",
+    "2s": "resumias",
+    "3s": "resumia",
+    "1p": "resumíamos",
+    "2p": "resumíeis",
+    "3p": "resumiam"
+  },
+  "PPSI": {
+    "1s": "resumi",
+    "2s": "resumiste",
+    "3s": "resumiu",
+    "1p": "resumimos",
+    "2p": "resumistes",
+    "3p": "resumiram"
+  },
+  "PMQPSI": {
+    "1s": "resumira",
+    "2s": "resumiras",
+    "3s": "resumira",
+    "1p": "resumíramos",
+    "2p": "resumíreis",
+    "3p": "resumiram"
+  },
+  "FutSI": {
+    "1s": "resumirei",
+    "2s": "resumirás",
+    "3s": "resumirá",
+    "1p": "resumiremos",
+    "2p": "resumireis",
+    "3p": "resumirão"
+  },
+  "CondS": {
+    "1s": "resumiria",
+    "2s": "resumirias",
+    "3s": "resumiria",
+    "1p": "resumiríamos",
+    "2p": "resumiríeis",
+    "3p": "resumiriam"
+  },
+  "PresC": {
+    "1s": "resuma",
+    "2s": "resumas",
+    "3s": "resuma",
+    "1p": "resumamos",
+    "2p": "resumais",
+    "3p": "resumam"
+  },
+  "PImpC": {
+    "1s": "resumisse",
+    "2s": "resumisses",
+    "3s": "resumisse",
+    "1p": "resumíssemos",
+    "2p": "resumísseis",
+    "3p": "resumissem"
+  },
+  "FutSC": {
+    "1s": "resumir",
+    "2s": "resumires",
+    "3s": "resumir",
+    "1p": "resumirmos",
+    "2p": "resumirdes",
+    "3p": "resumirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resume",
+    "3s": "resuma",
+    "1p": "resumamos",
+    "2p": "resumi",
+    "3p": "resumam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não resumas",
+    "3s": "não resuma",
+    "1p": "não resumamos",
+    "2p": "não resumais",
+    "3p": "não resumam"
+  },
+  "Part-ter": {
+    "": "resumido"
+  },
+  "Part-ser": {
+    "ms": "resumido",
+    "fs": "resumida",
+    "mp": "resumidos",
+    "fp": "resumidas"
+  }
+}

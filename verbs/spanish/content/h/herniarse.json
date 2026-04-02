@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "herniarse"
+  },
+  "Ger": {
+    "": "herniándose"
+  },
+  "PresI": {
+    "1s": "me hernio",
+    "2s": "te hernias",
+    "3s": "se hernia",
+    "1p": "nos herniamos",
+    "2p": "os herniáis",
+    "3p": "se hernian"
+  },
+  "PImpI": {
+    "1s": "me herniaba",
+    "2s": "te herniabas",
+    "3s": "se herniaba",
+    "1p": "nos herniábamos",
+    "2p": "os herniabais",
+    "3p": "se herniaban"
+  },
+  "PPSI": {
+    "1s": "me hernié",
+    "2s": "te herniaste",
+    "3s": "se hernió",
+    "1p": "nos herniamos",
+    "2p": "os herniasteis",
+    "3p": "se herniaron"
+  },
+  "FutSI": {
+    "1s": "me herniaré",
+    "2s": "te herniarás",
+    "3s": "se herniará",
+    "1p": "nos herniaremos",
+    "2p": "os herniaréis",
+    "3p": "se herniarán"
+  },
+  "CondS": {
+    "1s": "me herniaría",
+    "2s": "te herniarías",
+    "3s": "se herniaría",
+    "1p": "nos herniaríamos",
+    "2p": "os herniaríais",
+    "3p": "se herniarían"
+  },
+  "PresC": {
+    "1s": "me hernie",
+    "2s": "te hernies",
+    "3s": "se hernie",
+    "1p": "nos herniemos",
+    "2p": "os herniéis",
+    "3p": "se hernien"
+  },
+  "PMQPSI": {
+    "1s": "me herniara",
+    "2s": "te herniaras",
+    "3s": "se herniara",
+    "1p": "nos herniáramos",
+    "2p": "os herniarais",
+    "3p": "se herniaran"
+  },
+  "PImpC": {
+    "1s": "me herniase",
+    "2s": "te herniases",
+    "3s": "se herniase",
+    "1p": "nos herniásemos",
+    "2p": "os herniaseis",
+    "3p": "se herniasen"
+  },
+  "FutSC": {
+    "1s": "me herniare",
+    "2s": "te herniares",
+    "3s": "se herniare",
+    "1p": "nos herniáremos",
+    "2p": "os herniareis",
+    "3p": "se herniaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "herníate",
+    "3s": "herníese",
+    "1p": "herniémonos",
+    "2p": "herniaos",
+    "3p": "herníense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te hernies",
+    "3s": "no se hernie",
+    "1p": "no nos herniemos",
+    "2p": "no os herniéis",
+    "3p": "no se hernien"
+  },
+  "Part-ter": {
+    "": "herniado"
+  },
+  "Part-ser": {
+    "ms": "herniado",
+    "fs": "herniada",
+    "mp": "herniados",
+    "fp": "herniadas"
+  }
+}

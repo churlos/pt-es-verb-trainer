@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indiciar"
+  },
+  "InfP": {
+    "1s": "indiciar",
+    "2s": "indiciares",
+    "3s": "indiciar",
+    "1p": "indiciarmos",
+    "2p": "indiciardes",
+    "3p": "indiciarem"
+  },
+  "Ger": {
+    "": "indiciando"
+  },
+  "PresI": {
+    "1s": "indicio",
+    "2s": "indicias",
+    "3s": "indicia",
+    "1p": "indiciamos",
+    "2p": "indiciais",
+    "3p": "indiciam"
+  },
+  "PImpI": {
+    "1s": "indiciava",
+    "2s": "indiciavas",
+    "3s": "indiciava",
+    "1p": "indiciávamos",
+    "2p": "indiciáveis",
+    "3p": "indiciavam"
+  },
+  "PPSI": {
+    "1s": "indiciei",
+    "2s": "indiciaste",
+    "3s": "indiciou",
+    "1p": "indiciámos",
+    "2p": "indiciastes",
+    "3p": "indiciaram"
+  },
+  "PMQPSI": {
+    "1s": "indiciara",
+    "2s": "indiciaras",
+    "3s": "indiciara",
+    "1p": "indiciáramos",
+    "2p": "indiciáreis",
+    "3p": "indiciaram"
+  },
+  "FutSI": {
+    "1s": "indiciarei",
+    "2s": "indiciarás",
+    "3s": "indiciará",
+    "1p": "indiciaremos",
+    "2p": "indiciareis",
+    "3p": "indiciarão"
+  },
+  "CondS": {
+    "1s": "indiciaria",
+    "2s": "indiciarias",
+    "3s": "indiciaria",
+    "1p": "indiciaríamos",
+    "2p": "indiciaríeis",
+    "3p": "indiciariam"
+  },
+  "PresC": {
+    "1s": "indicie",
+    "2s": "indicies",
+    "3s": "indicie",
+    "1p": "indiciemos",
+    "2p": "indicieis",
+    "3p": "indiciem"
+  },
+  "PImpC": {
+    "1s": "indiciasse",
+    "2s": "indiciasses",
+    "3s": "indiciasse",
+    "1p": "indiciássemos",
+    "2p": "indiciásseis",
+    "3p": "indiciassem"
+  },
+  "FutSC": {
+    "1s": "indiciar",
+    "2s": "indiciares",
+    "3s": "indiciar",
+    "1p": "indiciarmos",
+    "2p": "indiciardes",
+    "3p": "indiciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indicia",
+    "3s": "indicie",
+    "1p": "indiciemos",
+    "2p": "indiciai",
+    "3p": "indiciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indicies",
+    "3s": "não indicie",
+    "1p": "não indiciemos",
+    "2p": "não indicieis",
+    "3p": "não indiciem"
+  },
+  "Part-ter": {
+    "": "indiciado"
+  },
+  "Part-ser": {
+    "ms": "indiciado",
+    "fs": "indiciada",
+    "mp": "indiciados",
+    "fp": "indiciadas"
+  }
+}

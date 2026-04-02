@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "randomizar"
+  },
+  "Ger": {
+    "": "randomizando"
+  },
+  "PresI": {
+    "1s": "randomizo",
+    "2s": "randomizas",
+    "3s": "randomiza",
+    "1p": "randomizamos",
+    "2p": "randomizáis",
+    "3p": "randomizan"
+  },
+  "PImpI": {
+    "1s": "randomizaba",
+    "2s": "randomizabas",
+    "3s": "randomizaba",
+    "1p": "randomizábamos",
+    "2p": "randomizabais",
+    "3p": "randomizaban"
+  },
+  "PPSI": {
+    "1s": "randomicé",
+    "2s": "randomizaste",
+    "3s": "randomizó",
+    "1p": "randomizamos",
+    "2p": "randomizasteis",
+    "3p": "randomizaron"
+  },
+  "FutSI": {
+    "1s": "randomizaré",
+    "2s": "randomizarás",
+    "3s": "randomizará",
+    "1p": "randomizaremos",
+    "2p": "randomizaréis",
+    "3p": "randomizarán"
+  },
+  "CondS": {
+    "1s": "randomizaría",
+    "2s": "randomizarías",
+    "3s": "randomizaría",
+    "1p": "randomizaríamos",
+    "2p": "randomizaríais",
+    "3p": "randomizarían"
+  },
+  "PresC": {
+    "1s": "randomice",
+    "2s": "randomices",
+    "3s": "randomice",
+    "1p": "randomicemos",
+    "2p": "randomicéis",
+    "3p": "randomicen"
+  },
+  "PMQPSI": {
+    "1s": "randomizara",
+    "2s": "randomizaras",
+    "3s": "randomizara",
+    "1p": "randomizáramos",
+    "2p": "randomizarais",
+    "3p": "randomizaran"
+  },
+  "PImpC": {
+    "1s": "randomizase",
+    "2s": "randomizases",
+    "3s": "randomizase",
+    "1p": "randomizásemos",
+    "2p": "randomizaseis",
+    "3p": "randomizasen"
+  },
+  "FutSC": {
+    "1s": "randomizare",
+    "2s": "randomizares",
+    "3s": "randomizare",
+    "1p": "randomizáremos",
+    "2p": "randomizareis",
+    "3p": "randomizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "randomiza",
+    "3s": "randomice",
+    "1p": "randomicemos",
+    "2p": "randomizad",
+    "3p": "randomicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no randomices",
+    "3s": "no randomice",
+    "1p": "no randomicemos",
+    "2p": "no randomicéis",
+    "3p": "no randomicen"
+  },
+  "Part-ter": {
+    "": "randomizado"
+  },
+  "Part-ser": {
+    "ms": "randomizado",
+    "fs": "randomizada",
+    "mp": "randomizados",
+    "fp": "randomizadas"
+  }
+}

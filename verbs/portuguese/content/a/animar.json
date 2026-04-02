@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "animar"
+  },
+  "InfP": {
+    "1s": "animar",
+    "2s": "animares",
+    "3s": "animar",
+    "1p": "animarmos",
+    "2p": "animardes",
+    "3p": "animarem"
+  },
+  "Ger": {
+    "": "animando"
+  },
+  "PresI": {
+    "1s": "animo",
+    "2s": "animas",
+    "3s": "anima",
+    "1p": "animamos",
+    "2p": "animais",
+    "3p": "animam"
+  },
+  "PImpI": {
+    "1s": "animava",
+    "2s": "animavas",
+    "3s": "animava",
+    "1p": "animávamos",
+    "2p": "animáveis",
+    "3p": "animavam"
+  },
+  "PPSI": {
+    "1s": "animei",
+    "2s": "animaste",
+    "3s": "animou",
+    "1p": "animámos",
+    "2p": "animastes",
+    "3p": "animaram"
+  },
+  "PMQPSI": {
+    "1s": "animara",
+    "2s": "animaras",
+    "3s": "animara",
+    "1p": "animáramos",
+    "2p": "animáreis",
+    "3p": "animaram"
+  },
+  "FutSI": {
+    "1s": "animarei",
+    "2s": "animarás",
+    "3s": "animará",
+    "1p": "animaremos",
+    "2p": "animareis",
+    "3p": "animarão"
+  },
+  "CondS": {
+    "1s": "animaria",
+    "2s": "animarias",
+    "3s": "animaria",
+    "1p": "animaríamos",
+    "2p": "animaríeis",
+    "3p": "animariam"
+  },
+  "PresC": {
+    "1s": "anime",
+    "2s": "animes",
+    "3s": "anime",
+    "1p": "animemos",
+    "2p": "animeis",
+    "3p": "animem"
+  },
+  "PImpC": {
+    "1s": "animasse",
+    "2s": "animasses",
+    "3s": "animasse",
+    "1p": "animássemos",
+    "2p": "animásseis",
+    "3p": "animassem"
+  },
+  "FutSC": {
+    "1s": "animar",
+    "2s": "animares",
+    "3s": "animar",
+    "1p": "animarmos",
+    "2p": "animardes",
+    "3p": "animarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anima",
+    "3s": "anime",
+    "1p": "animemos",
+    "2p": "animai",
+    "3p": "animem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não animes",
+    "3s": "não anime",
+    "1p": "não animemos",
+    "2p": "não animeis",
+    "3p": "não animem"
+  },
+  "Part-ter": {
+    "": "animado"
+  },
+  "Part-ser": {
+    "ms": "animado",
+    "fs": "animada",
+    "mp": "animados",
+    "fp": "animadas"
+  }
+}

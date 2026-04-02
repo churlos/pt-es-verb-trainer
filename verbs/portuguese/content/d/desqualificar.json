@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desqualificar"
+  },
+  "InfP": {
+    "1s": "desqualificar",
+    "2s": "desqualificares",
+    "3s": "desqualificar",
+    "1p": "desqualificarmos",
+    "2p": "desqualificardes",
+    "3p": "desqualificarem"
+  },
+  "Ger": {
+    "": "desqualificando"
+  },
+  "PresI": {
+    "1s": "desqualifico",
+    "2s": "desqualificas",
+    "3s": "desqualifica",
+    "1p": "desqualificamos",
+    "2p": "desqualificais",
+    "3p": "desqualificam"
+  },
+  "PImpI": {
+    "1s": "desqualificava",
+    "2s": "desqualificavas",
+    "3s": "desqualificava",
+    "1p": "desqualificávamos",
+    "2p": "desqualificáveis",
+    "3p": "desqualificavam"
+  },
+  "PPSI": {
+    "1s": "desqualifiquei",
+    "2s": "desqualificaste",
+    "3s": "desqualificou",
+    "1p": "desqualificámos",
+    "2p": "desqualificastes",
+    "3p": "desqualificaram"
+  },
+  "PMQPSI": {
+    "1s": "desqualificara",
+    "2s": "desqualificaras",
+    "3s": "desqualificara",
+    "1p": "desqualificáramos",
+    "2p": "desqualificáreis",
+    "3p": "desqualificaram"
+  },
+  "FutSI": {
+    "1s": "desqualificarei",
+    "2s": "desqualificarás",
+    "3s": "desqualificará",
+    "1p": "desqualificaremos",
+    "2p": "desqualificareis",
+    "3p": "desqualificarão"
+  },
+  "CondS": {
+    "1s": "desqualificaria",
+    "2s": "desqualificarias",
+    "3s": "desqualificaria",
+    "1p": "desqualificaríamos",
+    "2p": "desqualificaríeis",
+    "3p": "desqualificariam"
+  },
+  "PresC": {
+    "1s": "desqualifique",
+    "2s": "desqualifiques",
+    "3s": "desqualifique",
+    "1p": "desqualifiquemos",
+    "2p": "desqualifiqueis",
+    "3p": "desqualifiquem"
+  },
+  "PImpC": {
+    "1s": "desqualificasse",
+    "2s": "desqualificasses",
+    "3s": "desqualificasse",
+    "1p": "desqualificássemos",
+    "2p": "desqualificásseis",
+    "3p": "desqualificassem"
+  },
+  "FutSC": {
+    "1s": "desqualificar",
+    "2s": "desqualificares",
+    "3s": "desqualificar",
+    "1p": "desqualificarmos",
+    "2p": "desqualificardes",
+    "3p": "desqualificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desqualifica",
+    "3s": "desqualifique",
+    "1p": "desqualifiquemos",
+    "2p": "desqualificai",
+    "3p": "desqualifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desqualifiques",
+    "3s": "não desqualifique",
+    "1p": "não desqualifiquemos",
+    "2p": "não desqualifiqueis",
+    "3p": "não desqualifiquem"
+  },
+  "Part-ter": {
+    "": "desqualificado"
+  },
+  "Part-ser": {
+    "ms": "desqualificado",
+    "fs": "desqualificada",
+    "mp": "desqualificados",
+    "fp": "desqualificadas"
+  }
+}

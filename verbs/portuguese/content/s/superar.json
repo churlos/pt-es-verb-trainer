@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "superar"
+  },
+  "InfP": {
+    "1s": "superar",
+    "2s": "superares",
+    "3s": "superar",
+    "1p": "superarmos",
+    "2p": "superardes",
+    "3p": "superarem"
+  },
+  "Ger": {
+    "": "superando"
+  },
+  "PresI": {
+    "1s": "supero",
+    "2s": "superas",
+    "3s": "supera",
+    "1p": "superamos",
+    "2p": "superais",
+    "3p": "superam"
+  },
+  "PImpI": {
+    "1s": "superava",
+    "2s": "superavas",
+    "3s": "superava",
+    "1p": "superávamos",
+    "2p": "superáveis",
+    "3p": "superavam"
+  },
+  "PPSI": {
+    "1s": "superei",
+    "2s": "superaste",
+    "3s": "superou",
+    "1p": "superámos",
+    "2p": "superastes",
+    "3p": "superaram"
+  },
+  "PMQPSI": {
+    "1s": "superara",
+    "2s": "superaras",
+    "3s": "superara",
+    "1p": "superáramos",
+    "2p": "superáreis",
+    "3p": "superaram"
+  },
+  "FutSI": {
+    "1s": "superarei",
+    "2s": "superarás",
+    "3s": "superará",
+    "1p": "superaremos",
+    "2p": "superareis",
+    "3p": "superarão"
+  },
+  "CondS": {
+    "1s": "superaria",
+    "2s": "superarias",
+    "3s": "superaria",
+    "1p": "superaríamos",
+    "2p": "superaríeis",
+    "3p": "superariam"
+  },
+  "PresC": {
+    "1s": "supere",
+    "2s": "superes",
+    "3s": "supere",
+    "1p": "superemos",
+    "2p": "supereis",
+    "3p": "superem"
+  },
+  "PImpC": {
+    "1s": "superasse",
+    "2s": "superasses",
+    "3s": "superasse",
+    "1p": "superássemos",
+    "2p": "superásseis",
+    "3p": "superassem"
+  },
+  "FutSC": {
+    "1s": "superar",
+    "2s": "superares",
+    "3s": "superar",
+    "1p": "superarmos",
+    "2p": "superardes",
+    "3p": "superarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "supera",
+    "3s": "supere",
+    "1p": "superemos",
+    "2p": "superai",
+    "3p": "superem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não superes",
+    "3s": "não supere",
+    "1p": "não superemos",
+    "2p": "não supereis",
+    "3p": "não superem"
+  },
+  "Part-ter": {
+    "": "superado"
+  },
+  "Part-ser": {
+    "ms": "superado",
+    "fs": "superada",
+    "mp": "superados",
+    "fp": "superadas"
+  }
+}

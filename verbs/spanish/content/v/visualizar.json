@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "visualizar"
+  },
+  "Ger": {
+    "": "visualizando"
+  },
+  "PresI": {
+    "1s": "visualizo",
+    "2s": "visualizas",
+    "3s": "visualiza",
+    "1p": "visualizamos",
+    "2p": "visualizáis",
+    "3p": "visualizan"
+  },
+  "PImpI": {
+    "1s": "visualizaba",
+    "2s": "visualizabas",
+    "3s": "visualizaba",
+    "1p": "visualizábamos",
+    "2p": "visualizabais",
+    "3p": "visualizaban"
+  },
+  "PPSI": {
+    "1s": "visualicé",
+    "2s": "visualizaste",
+    "3s": "visualizó",
+    "1p": "visualizamos",
+    "2p": "visualizasteis",
+    "3p": "visualizaron"
+  },
+  "FutSI": {
+    "1s": "visualizaré",
+    "2s": "visualizarás",
+    "3s": "visualizará",
+    "1p": "visualizaremos",
+    "2p": "visualizaréis",
+    "3p": "visualizarán"
+  },
+  "CondS": {
+    "1s": "visualizaría",
+    "2s": "visualizarías",
+    "3s": "visualizaría",
+    "1p": "visualizaríamos",
+    "2p": "visualizaríais",
+    "3p": "visualizarían"
+  },
+  "PresC": {
+    "1s": "visualice",
+    "2s": "visualices",
+    "3s": "visualice",
+    "1p": "visualicemos",
+    "2p": "visualicéis",
+    "3p": "visualicen"
+  },
+  "PMQPSI": {
+    "1s": "visualizara",
+    "2s": "visualizaras",
+    "3s": "visualizara",
+    "1p": "visualizáramos",
+    "2p": "visualizarais",
+    "3p": "visualizaran"
+  },
+  "PImpC": {
+    "1s": "visualizase",
+    "2s": "visualizases",
+    "3s": "visualizase",
+    "1p": "visualizásemos",
+    "2p": "visualizaseis",
+    "3p": "visualizasen"
+  },
+  "FutSC": {
+    "1s": "visualizare",
+    "2s": "visualizares",
+    "3s": "visualizare",
+    "1p": "visualizáremos",
+    "2p": "visualizareis",
+    "3p": "visualizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "visualiza",
+    "3s": "visualice",
+    "1p": "visualicemos",
+    "2p": "visualizad",
+    "3p": "visualicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no visualices",
+    "3s": "no visualice",
+    "1p": "no visualicemos",
+    "2p": "no visualicéis",
+    "3p": "no visualicen"
+  },
+  "Part-ter": {
+    "": "visualizado"
+  },
+  "Part-ser": {
+    "ms": "visualizado",
+    "fs": "visualizada",
+    "mp": "visualizados",
+    "fp": "visualizadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alocar"
+  },
+  "InfP": {
+    "1s": "alocar",
+    "2s": "alocares",
+    "3s": "alocar",
+    "1p": "alocarmos",
+    "2p": "alocardes",
+    "3p": "alocarem"
+  },
+  "Ger": {
+    "": "alocando"
+  },
+  "PresI": {
+    "1s": "aloco",
+    "2s": "alocas",
+    "3s": "aloca",
+    "1p": "alocamos",
+    "2p": "alocais",
+    "3p": "alocam"
+  },
+  "PImpI": {
+    "1s": "alocava",
+    "2s": "alocavas",
+    "3s": "alocava",
+    "1p": "alocávamos",
+    "2p": "alocáveis",
+    "3p": "alocavam"
+  },
+  "PPSI": {
+    "1s": "aloquei",
+    "2s": "alocaste",
+    "3s": "alocou",
+    "1p": "alocámos",
+    "2p": "alocastes",
+    "3p": "alocaram"
+  },
+  "PMQPSI": {
+    "1s": "alocara",
+    "2s": "alocaras",
+    "3s": "alocara",
+    "1p": "alocáramos",
+    "2p": "alocáreis",
+    "3p": "alocaram"
+  },
+  "FutSI": {
+    "1s": "alocarei",
+    "2s": "alocarás",
+    "3s": "alocará",
+    "1p": "alocaremos",
+    "2p": "alocareis",
+    "3p": "alocarão"
+  },
+  "CondS": {
+    "1s": "alocaria",
+    "2s": "alocarias",
+    "3s": "alocaria",
+    "1p": "alocaríamos",
+    "2p": "alocaríeis",
+    "3p": "alocariam"
+  },
+  "PresC": {
+    "1s": "aloque",
+    "2s": "aloques",
+    "3s": "aloque",
+    "1p": "aloquemos",
+    "2p": "aloqueis",
+    "3p": "aloquem"
+  },
+  "PImpC": {
+    "1s": "alocasse",
+    "2s": "alocasses",
+    "3s": "alocasse",
+    "1p": "alocássemos",
+    "2p": "alocásseis",
+    "3p": "alocassem"
+  },
+  "FutSC": {
+    "1s": "alocar",
+    "2s": "alocares",
+    "3s": "alocar",
+    "1p": "alocarmos",
+    "2p": "alocardes",
+    "3p": "alocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aloca",
+    "3s": "aloque",
+    "1p": "aloquemos",
+    "2p": "alocai",
+    "3p": "aloquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aloques",
+    "3s": "não aloque",
+    "1p": "não aloquemos",
+    "2p": "não aloqueis",
+    "3p": "não aloquem"
+  },
+  "Part-ter": {
+    "": "alocado"
+  },
+  "Part-ser": {
+    "ms": "alocado",
+    "fs": "alocada",
+    "mp": "alocados",
+    "fp": "alocadas"
+  }
+}

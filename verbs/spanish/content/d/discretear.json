@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "discretear"
+  },
+  "Ger": {
+    "": "discreteando"
+  },
+  "PresI": {
+    "1s": "discreteo",
+    "2s": "discreteas",
+    "3s": "discretea",
+    "1p": "discreteamos",
+    "2p": "discreteáis",
+    "3p": "discretean"
+  },
+  "PImpI": {
+    "1s": "discreteaba",
+    "2s": "discreteabas",
+    "3s": "discreteaba",
+    "1p": "discreteábamos",
+    "2p": "discreteabais",
+    "3p": "discreteaban"
+  },
+  "PPSI": {
+    "1s": "discreteé",
+    "2s": "discreteaste",
+    "3s": "discreteó",
+    "1p": "discreteamos",
+    "2p": "discreteasteis",
+    "3p": "discretearon"
+  },
+  "FutSI": {
+    "1s": "discretearé",
+    "2s": "discretearás",
+    "3s": "discreteará",
+    "1p": "discretearemos",
+    "2p": "discretearéis",
+    "3p": "discretearán"
+  },
+  "CondS": {
+    "1s": "discretearía",
+    "2s": "discretearías",
+    "3s": "discretearía",
+    "1p": "discretearíamos",
+    "2p": "discretearíais",
+    "3p": "discretearían"
+  },
+  "PresC": {
+    "1s": "discretee",
+    "2s": "discretees",
+    "3s": "discretee",
+    "1p": "discreteemos",
+    "2p": "discreteéis",
+    "3p": "discreteen"
+  },
+  "PMQPSI": {
+    "1s": "discreteara",
+    "2s": "discretearas",
+    "3s": "discreteara",
+    "1p": "discreteáramos",
+    "2p": "discretearais",
+    "3p": "discretearan"
+  },
+  "PImpC": {
+    "1s": "discretease",
+    "2s": "discreteases",
+    "3s": "discretease",
+    "1p": "discreteásemos",
+    "2p": "discreteaseis",
+    "3p": "discreteasen"
+  },
+  "FutSC": {
+    "1s": "discreteare",
+    "2s": "discreteares",
+    "3s": "discreteare",
+    "1p": "discreteáremos",
+    "2p": "discreteareis",
+    "3p": "discretearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "discretea",
+    "3s": "discretee",
+    "1p": "discreteemos",
+    "2p": "discretead",
+    "3p": "discreteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no discretees",
+    "3s": "no discretee",
+    "1p": "no discreteemos",
+    "2p": "no discreteéis",
+    "3p": "no discreteen"
+  },
+  "Part-ter": {
+    "": "discreteado"
+  },
+  "Part-ser": {
+    "ms": "discreteado",
+    "fs": "discreteada",
+    "mp": "discreteados",
+    "fp": "discreteadas"
+  }
+}

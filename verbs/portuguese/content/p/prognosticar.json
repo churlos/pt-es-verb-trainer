@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prognosticar"
+  },
+  "InfP": {
+    "1s": "prognosticar",
+    "2s": "prognosticares",
+    "3s": "prognosticar",
+    "1p": "prognosticarmos",
+    "2p": "prognosticardes",
+    "3p": "prognosticarem"
+  },
+  "Ger": {
+    "": "prognosticando"
+  },
+  "PresI": {
+    "1s": "prognostico",
+    "2s": "prognosticas",
+    "3s": "prognostica",
+    "1p": "prognosticamos",
+    "2p": "prognosticais",
+    "3p": "prognosticam"
+  },
+  "PImpI": {
+    "1s": "prognosticava",
+    "2s": "prognosticavas",
+    "3s": "prognosticava",
+    "1p": "prognosticávamos",
+    "2p": "prognosticáveis",
+    "3p": "prognosticavam"
+  },
+  "PPSI": {
+    "1s": "prognostiquei",
+    "2s": "prognosticaste",
+    "3s": "prognosticou",
+    "1p": "prognosticámos",
+    "2p": "prognosticastes",
+    "3p": "prognosticaram"
+  },
+  "PMQPSI": {
+    "1s": "prognosticara",
+    "2s": "prognosticaras",
+    "3s": "prognosticara",
+    "1p": "prognosticáramos",
+    "2p": "prognosticáreis",
+    "3p": "prognosticaram"
+  },
+  "FutSI": {
+    "1s": "prognosticarei",
+    "2s": "prognosticarás",
+    "3s": "prognosticará",
+    "1p": "prognosticaremos",
+    "2p": "prognosticareis",
+    "3p": "prognosticarão"
+  },
+  "CondS": {
+    "1s": "prognosticaria",
+    "2s": "prognosticarias",
+    "3s": "prognosticaria",
+    "1p": "prognosticaríamos",
+    "2p": "prognosticaríeis",
+    "3p": "prognosticariam"
+  },
+  "PresC": {
+    "1s": "prognostique",
+    "2s": "prognostiques",
+    "3s": "prognostique",
+    "1p": "prognostiquemos",
+    "2p": "prognostiqueis",
+    "3p": "prognostiquem"
+  },
+  "PImpC": {
+    "1s": "prognosticasse",
+    "2s": "prognosticasses",
+    "3s": "prognosticasse",
+    "1p": "prognosticássemos",
+    "2p": "prognosticásseis",
+    "3p": "prognosticassem"
+  },
+  "FutSC": {
+    "1s": "prognosticar",
+    "2s": "prognosticares",
+    "3s": "prognosticar",
+    "1p": "prognosticarmos",
+    "2p": "prognosticardes",
+    "3p": "prognosticarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prognostica",
+    "3s": "prognostique",
+    "1p": "prognostiquemos",
+    "2p": "prognosticai",
+    "3p": "prognostiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prognostiques",
+    "3s": "não prognostique",
+    "1p": "não prognostiquemos",
+    "2p": "não prognostiqueis",
+    "3p": "não prognostiquem"
+  },
+  "Part-ter": {
+    "": "prognosticado"
+  },
+  "Part-ser": {
+    "ms": "prognosticado",
+    "fs": "prognosticada",
+    "mp": "prognosticados",
+    "fp": "prognosticadas"
+  }
+}

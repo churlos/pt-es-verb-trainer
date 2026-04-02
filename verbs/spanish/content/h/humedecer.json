@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "humedecer"
+  },
+  "Ger": {
+    "": "humedeciendo"
+  },
+  "PresI": {
+    "1s": "humedezco",
+    "2s": "humedeces",
+    "3s": "humedece",
+    "1p": "humedecemos",
+    "2p": "humedecéis",
+    "3p": "humedecen"
+  },
+  "PImpI": {
+    "1s": "humedecía",
+    "2s": "humedecías",
+    "3s": "humedecía",
+    "1p": "humedecíamos",
+    "2p": "humedecíais",
+    "3p": "humedecían"
+  },
+  "PPSI": {
+    "1s": "humedecí",
+    "2s": "humedeciste",
+    "3s": "humedeció",
+    "1p": "humedecimos",
+    "2p": "humedecisteis",
+    "3p": "humedecieron"
+  },
+  "FutSI": {
+    "1s": "humedeceré",
+    "2s": "humedecerás",
+    "3s": "humedecerá",
+    "1p": "humedeceremos",
+    "2p": "humedeceréis",
+    "3p": "humedecerán"
+  },
+  "CondS": {
+    "1s": "humedecería",
+    "2s": "humedecerías",
+    "3s": "humedecería",
+    "1p": "humedeceríamos",
+    "2p": "humedeceríais",
+    "3p": "humedecerían"
+  },
+  "PresC": {
+    "1s": "humedezca",
+    "2s": "humedezcas",
+    "3s": "humedezca",
+    "1p": "humedezcamos",
+    "2p": "humedezcáis",
+    "3p": "humedezcan"
+  },
+  "PMQPSI": {
+    "1s": "humedeciera",
+    "2s": "humedecieras",
+    "3s": "humedeciera",
+    "1p": "humedeciéramos",
+    "2p": "humedecierais",
+    "3p": "humedecieran"
+  },
+  "PImpC": {
+    "1s": "humedeciese",
+    "2s": "humedecieses",
+    "3s": "humedeciese",
+    "1p": "humedeciésemos",
+    "2p": "humedecieseis",
+    "3p": "humedeciesen"
+  },
+  "FutSC": {
+    "1s": "humedeciere",
+    "2s": "humedecieres",
+    "3s": "humedeciere",
+    "1p": "humedeciéremos",
+    "2p": "humedeciereis",
+    "3p": "humedecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "humedece",
+    "3s": "humedezca",
+    "1p": "humedezcamos",
+    "2p": "humedeced",
+    "3p": "humedezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no humedezcas",
+    "3s": "no humedezca",
+    "1p": "no humedezcamos",
+    "2p": "no humedezcáis",
+    "3p": "no humedezcan"
+  },
+  "Part-ter": {
+    "": "humedecido"
+  },
+  "Part-ser": {
+    "ms": "humedecido",
+    "fs": "humedecida",
+    "mp": "humedecidos",
+    "fp": "humedecidas"
+  }
+}

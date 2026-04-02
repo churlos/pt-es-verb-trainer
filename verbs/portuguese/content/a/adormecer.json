@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "adormecer"
+  },
+  "InfP": {
+    "1s": "adormecer",
+    "2s": "adormeceres",
+    "3s": "adormecer",
+    "1p": "adormecermos",
+    "2p": "adormecerdes",
+    "3p": "adormecerem"
+  },
+  "Ger": {
+    "": "adormecendo"
+  },
+  "PresI": {
+    "1s": "adormeço",
+    "2s": "adormeces",
+    "3s": "adormece",
+    "1p": "adormecemos",
+    "2p": "adormeceis",
+    "3p": "adormecem"
+  },
+  "PImpI": {
+    "1s": "adormecia",
+    "2s": "adormecias",
+    "3s": "adormecia",
+    "1p": "adormecíamos",
+    "2p": "adormecíeis",
+    "3p": "adormeciam"
+  },
+  "PPSI": {
+    "1s": "adormeci",
+    "2s": "adormeceste",
+    "3s": "adormeceu",
+    "1p": "adormecemos",
+    "2p": "adormecestes",
+    "3p": "adormeceram"
+  },
+  "PMQPSI": {
+    "1s": "adormecera",
+    "2s": "adormeceras",
+    "3s": "adormecera",
+    "1p": "adormecêramos",
+    "2p": "adormecêreis",
+    "3p": "adormeceram"
+  },
+  "FutSI": {
+    "1s": "adormecerei",
+    "2s": "adormecerás",
+    "3s": "adormecerá",
+    "1p": "adormeceremos",
+    "2p": "adormecereis",
+    "3p": "adormecerão"
+  },
+  "CondS": {
+    "1s": "adormeceria",
+    "2s": "adormecerias",
+    "3s": "adormeceria",
+    "1p": "adormeceríamos",
+    "2p": "adormeceríeis",
+    "3p": "adormeceriam"
+  },
+  "PresC": {
+    "1s": "adormeça",
+    "2s": "adormeças",
+    "3s": "adormeça",
+    "1p": "adormeçamos",
+    "2p": "adormeçais",
+    "3p": "adormeçam"
+  },
+  "PImpC": {
+    "1s": "adormecesse",
+    "2s": "adormecesses",
+    "3s": "adormecesse",
+    "1p": "adormecêssemos",
+    "2p": "adormecêsseis",
+    "3p": "adormecessem"
+  },
+  "FutSC": {
+    "1s": "adormecer",
+    "2s": "adormeceres",
+    "3s": "adormecer",
+    "1p": "adormecermos",
+    "2p": "adormecerdes",
+    "3p": "adormecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "adormece",
+    "3s": "adormeça",
+    "1p": "adormeçamos",
+    "2p": "adormecei",
+    "3p": "adormeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não adormeças",
+    "3s": "não adormeça",
+    "1p": "não adormeçamos",
+    "2p": "não adormeçais",
+    "3p": "não adormeçam"
+  },
+  "Part-ter": {
+    "": "adormecido"
+  },
+  "Part-ser": {
+    "ms": "adormecido",
+    "fs": "adormecida",
+    "mp": "adormecidos",
+    "fp": "adormecidas"
+  }
+}

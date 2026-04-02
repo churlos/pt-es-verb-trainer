@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "armazenar"
+  },
+  "InfP": {
+    "1s": "armazenar",
+    "2s": "armazenares",
+    "3s": "armazenar",
+    "1p": "armazenarmos",
+    "2p": "armazenardes",
+    "3p": "armazenarem"
+  },
+  "Ger": {
+    "": "armazenando"
+  },
+  "PresI": {
+    "1s": "armazeno",
+    "2s": "armazenas",
+    "3s": "armazena",
+    "1p": "armazenamos",
+    "2p": "armazenais",
+    "3p": "armazenam"
+  },
+  "PImpI": {
+    "1s": "armazenava",
+    "2s": "armazenavas",
+    "3s": "armazenava",
+    "1p": "armazenávamos",
+    "2p": "armazenáveis",
+    "3p": "armazenavam"
+  },
+  "PPSI": {
+    "1s": "armazenei",
+    "2s": "armazenaste",
+    "3s": "armazenou",
+    "1p": "armazenámos",
+    "2p": "armazenastes",
+    "3p": "armazenaram"
+  },
+  "PMQPSI": {
+    "1s": "armazenara",
+    "2s": "armazenaras",
+    "3s": "armazenara",
+    "1p": "armazenáramos",
+    "2p": "armazenáreis",
+    "3p": "armazenaram"
+  },
+  "FutSI": {
+    "1s": "armazenarei",
+    "2s": "armazenarás",
+    "3s": "armazenará",
+    "1p": "armazenaremos",
+    "2p": "armazenareis",
+    "3p": "armazenarão"
+  },
+  "CondS": {
+    "1s": "armazenaria",
+    "2s": "armazenarias",
+    "3s": "armazenaria",
+    "1p": "armazenaríamos",
+    "2p": "armazenaríeis",
+    "3p": "armazenariam"
+  },
+  "PresC": {
+    "1s": "armazene",
+    "2s": "armazenes",
+    "3s": "armazene",
+    "1p": "armazenemos",
+    "2p": "armazeneis",
+    "3p": "armazenem"
+  },
+  "PImpC": {
+    "1s": "armazenasse",
+    "2s": "armazenasses",
+    "3s": "armazenasse",
+    "1p": "armazenássemos",
+    "2p": "armazenásseis",
+    "3p": "armazenassem"
+  },
+  "FutSC": {
+    "1s": "armazenar",
+    "2s": "armazenares",
+    "3s": "armazenar",
+    "1p": "armazenarmos",
+    "2p": "armazenardes",
+    "3p": "armazenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "armazena",
+    "3s": "armazene",
+    "1p": "armazenemos",
+    "2p": "armazenai",
+    "3p": "armazenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não armazenes",
+    "3s": "não armazene",
+    "1p": "não armazenemos",
+    "2p": "não armazeneis",
+    "3p": "não armazenem"
+  },
+  "Part-ter": {
+    "": "armazenado"
+  },
+  "Part-ser": {
+    "ms": "armazenado",
+    "fs": "armazenada",
+    "mp": "armazenados",
+    "fp": "armazenadas"
+  }
+}

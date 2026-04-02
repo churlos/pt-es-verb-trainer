@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "exterminar"
+  },
+  "Ger": {
+    "": "exterminando"
+  },
+  "PresI": {
+    "1s": "extermino",
+    "2s": "exterminas",
+    "3s": "extermina",
+    "1p": "exterminamos",
+    "2p": "extermináis",
+    "3p": "exterminan"
+  },
+  "PImpI": {
+    "1s": "exterminaba",
+    "2s": "exterminabas",
+    "3s": "exterminaba",
+    "1p": "exterminábamos",
+    "2p": "exterminabais",
+    "3p": "exterminaban"
+  },
+  "PPSI": {
+    "1s": "exterminé",
+    "2s": "exterminaste",
+    "3s": "exterminó",
+    "1p": "exterminamos",
+    "2p": "exterminasteis",
+    "3p": "exterminaron"
+  },
+  "FutSI": {
+    "1s": "exterminaré",
+    "2s": "exterminarás",
+    "3s": "exterminará",
+    "1p": "exterminaremos",
+    "2p": "exterminaréis",
+    "3p": "exterminarán"
+  },
+  "CondS": {
+    "1s": "exterminaría",
+    "2s": "exterminarías",
+    "3s": "exterminaría",
+    "1p": "exterminaríamos",
+    "2p": "exterminaríais",
+    "3p": "exterminarían"
+  },
+  "PresC": {
+    "1s": "extermine",
+    "2s": "extermines",
+    "3s": "extermine",
+    "1p": "exterminemos",
+    "2p": "exterminéis",
+    "3p": "exterminen"
+  },
+  "PMQPSI": {
+    "1s": "exterminara",
+    "2s": "exterminaras",
+    "3s": "exterminara",
+    "1p": "extermináramos",
+    "2p": "exterminarais",
+    "3p": "exterminaran"
+  },
+  "PImpC": {
+    "1s": "exterminase",
+    "2s": "exterminases",
+    "3s": "exterminase",
+    "1p": "exterminásemos",
+    "2p": "exterminaseis",
+    "3p": "exterminasen"
+  },
+  "FutSC": {
+    "1s": "exterminare",
+    "2s": "exterminares",
+    "3s": "exterminare",
+    "1p": "extermináremos",
+    "2p": "exterminareis",
+    "3p": "exterminaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extermina",
+    "3s": "extermine",
+    "1p": "exterminemos",
+    "2p": "exterminad",
+    "3p": "exterminen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no extermines",
+    "3s": "no extermine",
+    "1p": "no exterminemos",
+    "2p": "no exterminéis",
+    "3p": "no exterminen"
+  },
+  "Part-ter": {
+    "": "exterminado"
+  },
+  "Part-ser": {
+    "ms": "exterminado",
+    "fs": "exterminada",
+    "mp": "exterminados",
+    "fp": "exterminadas"
+  }
+}

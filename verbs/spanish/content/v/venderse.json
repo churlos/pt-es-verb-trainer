@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "venderse"
+  },
+  "Ger": {
+    "": "vendiéndose"
+  },
+  "PresI": {
+    "1s": "me vendo",
+    "2s": "te vendes",
+    "3s": "se vende",
+    "1p": "nos vendemos",
+    "2p": "os vendéis",
+    "3p": "se venden"
+  },
+  "PImpI": {
+    "1s": "me vendía",
+    "2s": "te vendías",
+    "3s": "se vendía",
+    "1p": "nos vendíamos",
+    "2p": "os vendíais",
+    "3p": "se vendían"
+  },
+  "PPSI": {
+    "1s": "me vendí",
+    "2s": "te vendiste",
+    "3s": "se vendió",
+    "1p": "nos vendimos",
+    "2p": "os vendisteis",
+    "3p": "se vendieron"
+  },
+  "FutSI": {
+    "1s": "me venderé",
+    "2s": "te venderás",
+    "3s": "se venderá",
+    "1p": "nos venderemos",
+    "2p": "os venderéis",
+    "3p": "se venderán"
+  },
+  "CondS": {
+    "1s": "me vendería",
+    "2s": "te venderías",
+    "3s": "se vendería",
+    "1p": "nos venderíamos",
+    "2p": "os venderíais",
+    "3p": "se venderían"
+  },
+  "PresC": {
+    "1s": "me venda",
+    "2s": "te vendas",
+    "3s": "se venda",
+    "1p": "nos vendamos",
+    "2p": "os vendáis",
+    "3p": "se vendan"
+  },
+  "PMQPSI": {
+    "1s": "me vendiera",
+    "2s": "te vendieras",
+    "3s": "se vendiera",
+    "1p": "nos vendiéramos",
+    "2p": "os vendierais",
+    "3p": "se vendieran"
+  },
+  "PImpC": {
+    "1s": "me vendiese",
+    "2s": "te vendieses",
+    "3s": "se vendiese",
+    "1p": "nos vendiésemos",
+    "2p": "os vendieseis",
+    "3p": "se vendiesen"
+  },
+  "FutSC": {
+    "1s": "me vendiere",
+    "2s": "te vendieres",
+    "3s": "se vendiere",
+    "1p": "nos vendiéremos",
+    "2p": "os vendiereis",
+    "3p": "se vendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "véndete",
+    "3s": "véndase",
+    "1p": "vendámonos",
+    "2p": "vendeos",
+    "3p": "véndanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te vendas",
+    "3s": "no se venda",
+    "1p": "no nos vendamos",
+    "2p": "no os vendáis",
+    "3p": "no se vendan"
+  },
+  "Part-ter": {
+    "": "vendido"
+  },
+  "Part-ser": {
+    "ms": "vendido",
+    "fs": "vendida",
+    "mp": "vendidos",
+    "fp": "vendidas"
+  }
+}

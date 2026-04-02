@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "parasitar"
+  },
+  "InfP": {
+    "1s": "parasitar",
+    "2s": "parasitares",
+    "3s": "parasitar",
+    "1p": "parasitarmos",
+    "2p": "parasitardes",
+    "3p": "parasitarem"
+  },
+  "Ger": {
+    "": "parasitando"
+  },
+  "PresI": {
+    "1s": "parasito",
+    "2s": "parasitas",
+    "3s": "parasita",
+    "1p": "parasitamos",
+    "2p": "parasitais",
+    "3p": "parasitam"
+  },
+  "PImpI": {
+    "1s": "parasitava",
+    "2s": "parasitavas",
+    "3s": "parasitava",
+    "1p": "parasitávamos",
+    "2p": "parasitáveis",
+    "3p": "parasitavam"
+  },
+  "PPSI": {
+    "1s": "parasitei",
+    "2s": "parasitaste",
+    "3s": "parasitou",
+    "1p": "parasitámos",
+    "2p": "parasitastes",
+    "3p": "parasitaram"
+  },
+  "PMQPSI": {
+    "1s": "parasitara",
+    "2s": "parasitaras",
+    "3s": "parasitara",
+    "1p": "parasitáramos",
+    "2p": "parasitáreis",
+    "3p": "parasitaram"
+  },
+  "FutSI": {
+    "1s": "parasitarei",
+    "2s": "parasitarás",
+    "3s": "parasitará",
+    "1p": "parasitaremos",
+    "2p": "parasitareis",
+    "3p": "parasitarão"
+  },
+  "CondS": {
+    "1s": "parasitaria",
+    "2s": "parasitarias",
+    "3s": "parasitaria",
+    "1p": "parasitaríamos",
+    "2p": "parasitaríeis",
+    "3p": "parasitariam"
+  },
+  "PresC": {
+    "1s": "parasite",
+    "2s": "parasites",
+    "3s": "parasite",
+    "1p": "parasitemos",
+    "2p": "parasiteis",
+    "3p": "parasitem"
+  },
+  "PImpC": {
+    "1s": "parasitasse",
+    "2s": "parasitasses",
+    "3s": "parasitasse",
+    "1p": "parasitássemos",
+    "2p": "parasitásseis",
+    "3p": "parasitassem"
+  },
+  "FutSC": {
+    "1s": "parasitar",
+    "2s": "parasitares",
+    "3s": "parasitar",
+    "1p": "parasitarmos",
+    "2p": "parasitardes",
+    "3p": "parasitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parasita",
+    "3s": "parasite",
+    "1p": "parasitemos",
+    "2p": "parasitai",
+    "3p": "parasitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não parasites",
+    "3s": "não parasite",
+    "1p": "não parasitemos",
+    "2p": "não parasiteis",
+    "3p": "não parasitem"
+  },
+  "Part-ter": {
+    "": "parasitado"
+  },
+  "Part-ser": {
+    "ms": "parasitado",
+    "fs": "parasitada",
+    "mp": "parasitados",
+    "fp": "parasitadas"
+  }
+}

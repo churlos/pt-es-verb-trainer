@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "simular"
+  },
+  "Ger": {
+    "": "simulando"
+  },
+  "PresI": {
+    "1s": "simulo",
+    "2s": "simulas",
+    "3s": "simula",
+    "1p": "simulamos",
+    "2p": "simuláis",
+    "3p": "simulan"
+  },
+  "PImpI": {
+    "1s": "simulaba",
+    "2s": "simulabas",
+    "3s": "simulaba",
+    "1p": "simulábamos",
+    "2p": "simulabais",
+    "3p": "simulaban"
+  },
+  "PPSI": {
+    "1s": "simulé",
+    "2s": "simulaste",
+    "3s": "simuló",
+    "1p": "simulamos",
+    "2p": "simulasteis",
+    "3p": "simularon"
+  },
+  "FutSI": {
+    "1s": "simularé",
+    "2s": "simularás",
+    "3s": "simulará",
+    "1p": "simularemos",
+    "2p": "simularéis",
+    "3p": "simularán"
+  },
+  "CondS": {
+    "1s": "simularía",
+    "2s": "simularías",
+    "3s": "simularía",
+    "1p": "simularíamos",
+    "2p": "simularíais",
+    "3p": "simularían"
+  },
+  "PresC": {
+    "1s": "simule",
+    "2s": "simules",
+    "3s": "simule",
+    "1p": "simulemos",
+    "2p": "simuléis",
+    "3p": "simulen"
+  },
+  "PMQPSI": {
+    "1s": "simulara",
+    "2s": "simularas",
+    "3s": "simulara",
+    "1p": "simuláramos",
+    "2p": "simularais",
+    "3p": "simularan"
+  },
+  "PImpC": {
+    "1s": "simulase",
+    "2s": "simulases",
+    "3s": "simulase",
+    "1p": "simulásemos",
+    "2p": "simulaseis",
+    "3p": "simulasen"
+  },
+  "FutSC": {
+    "1s": "simulare",
+    "2s": "simulares",
+    "3s": "simulare",
+    "1p": "simuláremos",
+    "2p": "simulareis",
+    "3p": "simularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "simula",
+    "3s": "simule",
+    "1p": "simulemos",
+    "2p": "simulad",
+    "3p": "simulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no simules",
+    "3s": "no simule",
+    "1p": "no simulemos",
+    "2p": "no simuléis",
+    "3p": "no simulen"
+  },
+  "Part-ter": {
+    "": "simulado"
+  },
+  "Part-ser": {
+    "ms": "simulado",
+    "fs": "simulada",
+    "mp": "simulados",
+    "fp": "simuladas"
+  }
+}

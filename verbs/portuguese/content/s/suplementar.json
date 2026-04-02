@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suplementar"
+  },
+  "InfP": {
+    "1s": "suplementar",
+    "2s": "suplementares",
+    "3s": "suplementar",
+    "1p": "suplementarmos",
+    "2p": "suplementardes",
+    "3p": "suplementarem"
+  },
+  "Ger": {
+    "": "suplementando"
+  },
+  "PresI": {
+    "1s": "suplemento",
+    "2s": "suplementas",
+    "3s": "suplementa",
+    "1p": "suplementamos",
+    "2p": "suplementais",
+    "3p": "suplementam"
+  },
+  "PImpI": {
+    "1s": "suplementava",
+    "2s": "suplementavas",
+    "3s": "suplementava",
+    "1p": "suplementávamos",
+    "2p": "suplementáveis",
+    "3p": "suplementavam"
+  },
+  "PPSI": {
+    "1s": "suplementei",
+    "2s": "suplementaste",
+    "3s": "suplementou",
+    "1p": "suplementámos",
+    "2p": "suplementastes",
+    "3p": "suplementaram"
+  },
+  "PMQPSI": {
+    "1s": "suplementara",
+    "2s": "suplementaras",
+    "3s": "suplementara",
+    "1p": "suplementáramos",
+    "2p": "suplementáreis",
+    "3p": "suplementaram"
+  },
+  "FutSI": {
+    "1s": "suplementarei",
+    "2s": "suplementarás",
+    "3s": "suplementará",
+    "1p": "suplementaremos",
+    "2p": "suplementareis",
+    "3p": "suplementarão"
+  },
+  "CondS": {
+    "1s": "suplementaria",
+    "2s": "suplementarias",
+    "3s": "suplementaria",
+    "1p": "suplementaríamos",
+    "2p": "suplementaríeis",
+    "3p": "suplementariam"
+  },
+  "PresC": {
+    "1s": "suplemente",
+    "2s": "suplementes",
+    "3s": "suplemente",
+    "1p": "suplementemos",
+    "2p": "suplementeis",
+    "3p": "suplementem"
+  },
+  "PImpC": {
+    "1s": "suplementasse",
+    "2s": "suplementasses",
+    "3s": "suplementasse",
+    "1p": "suplementássemos",
+    "2p": "suplementásseis",
+    "3p": "suplementassem"
+  },
+  "FutSC": {
+    "1s": "suplementar",
+    "2s": "suplementares",
+    "3s": "suplementar",
+    "1p": "suplementarmos",
+    "2p": "suplementardes",
+    "3p": "suplementarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suplementa",
+    "3s": "suplemente",
+    "1p": "suplementemos",
+    "2p": "suplementai",
+    "3p": "suplementem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não suplementes",
+    "3s": "não suplemente",
+    "1p": "não suplementemos",
+    "2p": "não suplementeis",
+    "3p": "não suplementem"
+  },
+  "Part-ter": {
+    "": "suplementado"
+  },
+  "Part-ser": {
+    "ms": "suplementado",
+    "fs": "suplementada",
+    "mp": "suplementados",
+    "fp": "suplementadas"
+  }
+}

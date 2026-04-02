@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "invadir"
+  },
+  "Ger": {
+    "": "invadiendo"
+  },
+  "PresI": {
+    "1s": "invado",
+    "2s": "invades",
+    "3s": "invade",
+    "1p": "invadimos",
+    "2p": "invadís",
+    "3p": "invaden"
+  },
+  "PImpI": {
+    "1s": "invadía",
+    "2s": "invadías",
+    "3s": "invadía",
+    "1p": "invadíamos",
+    "2p": "invadíais",
+    "3p": "invadían"
+  },
+  "PPSI": {
+    "1s": "invadí",
+    "2s": "invadiste",
+    "3s": "invadió",
+    "1p": "invadimos",
+    "2p": "invadisteis",
+    "3p": "invadieron"
+  },
+  "FutSI": {
+    "1s": "invadiré",
+    "2s": "invadirás",
+    "3s": "invadirá",
+    "1p": "invadiremos",
+    "2p": "invadiréis",
+    "3p": "invadirán"
+  },
+  "CondS": {
+    "1s": "invadiría",
+    "2s": "invadirías",
+    "3s": "invadiría",
+    "1p": "invadiríamos",
+    "2p": "invadiríais",
+    "3p": "invadirían"
+  },
+  "PresC": {
+    "1s": "invada",
+    "2s": "invadas",
+    "3s": "invada",
+    "1p": "invadamos",
+    "2p": "invadáis",
+    "3p": "invadan"
+  },
+  "PMQPSI": {
+    "1s": "invadiera",
+    "2s": "invadieras",
+    "3s": "invadiera",
+    "1p": "invadiéramos",
+    "2p": "invadierais",
+    "3p": "invadieran"
+  },
+  "PImpC": {
+    "1s": "invadiese",
+    "2s": "invadieses",
+    "3s": "invadiese",
+    "1p": "invadiésemos",
+    "2p": "invadieseis",
+    "3p": "invadiesen"
+  },
+  "FutSC": {
+    "1s": "invadiere",
+    "2s": "invadieres",
+    "3s": "invadiere",
+    "1p": "invadiéremos",
+    "2p": "invadiereis",
+    "3p": "invadieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invade",
+    "3s": "invada",
+    "1p": "invadamos",
+    "2p": "invadid",
+    "3p": "invadan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no invadas",
+    "3s": "no invada",
+    "1p": "no invadamos",
+    "2p": "no invadáis",
+    "3p": "no invadan"
+  },
+  "Part-ter": {
+    "": "invadido"
+  },
+  "Part-ser": {
+    "ms": "invadido",
+    "fs": "invadida",
+    "mp": "invadidos",
+    "fp": "invadidas"
+  }
+}

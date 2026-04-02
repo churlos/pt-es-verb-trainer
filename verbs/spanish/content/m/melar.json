@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "melar"
+  },
+  "Ger": {
+    "": "melando"
+  },
+  "PresI": {
+    "1s": "mielo",
+    "2s": "mielas",
+    "3s": "miela",
+    "1p": "melamos",
+    "2p": "meláis",
+    "3p": "mielan"
+  },
+  "PImpI": {
+    "1s": "melaba",
+    "2s": "melabas",
+    "3s": "melaba",
+    "1p": "melábamos",
+    "2p": "melabais",
+    "3p": "melaban"
+  },
+  "PPSI": {
+    "1s": "melé",
+    "2s": "melaste",
+    "3s": "meló",
+    "1p": "melamos",
+    "2p": "melasteis",
+    "3p": "melaron"
+  },
+  "FutSI": {
+    "1s": "melaré",
+    "2s": "melarás",
+    "3s": "melará",
+    "1p": "melaremos",
+    "2p": "melaréis",
+    "3p": "melarán"
+  },
+  "CondS": {
+    "1s": "melaría",
+    "2s": "melarías",
+    "3s": "melaría",
+    "1p": "melaríamos",
+    "2p": "melaríais",
+    "3p": "melarían"
+  },
+  "PresC": {
+    "1s": "miele",
+    "2s": "mieles",
+    "3s": "miele",
+    "1p": "melemos",
+    "2p": "meléis",
+    "3p": "mielen"
+  },
+  "PMQPSI": {
+    "1s": "melara",
+    "2s": "melaras",
+    "3s": "melara",
+    "1p": "meláramos",
+    "2p": "melarais",
+    "3p": "melaran"
+  },
+  "PImpC": {
+    "1s": "melase",
+    "2s": "melases",
+    "3s": "melase",
+    "1p": "melásemos",
+    "2p": "melaseis",
+    "3p": "melasen"
+  },
+  "FutSC": {
+    "1s": "melare",
+    "2s": "melares",
+    "3s": "melare",
+    "1p": "meláremos",
+    "2p": "melareis",
+    "3p": "melaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "miela",
+    "3s": "miele",
+    "1p": "melemos",
+    "2p": "melad",
+    "3p": "mielen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mieles",
+    "3s": "no miele",
+    "1p": "no melemos",
+    "2p": "no meléis",
+    "3p": "no mielen"
+  },
+  "Part-ter": {
+    "": "melado"
+  },
+  "Part-ser": {
+    "ms": "melado",
+    "fs": "melada",
+    "mp": "melados",
+    "fp": "meladas"
+  }
+}

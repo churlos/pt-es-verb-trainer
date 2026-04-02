@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fusilar"
+  },
+  "Ger": {
+    "": "fusilando"
+  },
+  "PresI": {
+    "1s": "fusilo",
+    "2s": "fusilas",
+    "3s": "fusila",
+    "1p": "fusilamos",
+    "2p": "fusiláis",
+    "3p": "fusilan"
+  },
+  "PImpI": {
+    "1s": "fusilaba",
+    "2s": "fusilabas",
+    "3s": "fusilaba",
+    "1p": "fusilábamos",
+    "2p": "fusilabais",
+    "3p": "fusilaban"
+  },
+  "PPSI": {
+    "1s": "fusilé",
+    "2s": "fusilaste",
+    "3s": "fusiló",
+    "1p": "fusilamos",
+    "2p": "fusilasteis",
+    "3p": "fusilaron"
+  },
+  "FutSI": {
+    "1s": "fusilaré",
+    "2s": "fusilarás",
+    "3s": "fusilará",
+    "1p": "fusilaremos",
+    "2p": "fusilaréis",
+    "3p": "fusilarán"
+  },
+  "CondS": {
+    "1s": "fusilaría",
+    "2s": "fusilarías",
+    "3s": "fusilaría",
+    "1p": "fusilaríamos",
+    "2p": "fusilaríais",
+    "3p": "fusilarían"
+  },
+  "PresC": {
+    "1s": "fusile",
+    "2s": "fusiles",
+    "3s": "fusile",
+    "1p": "fusilemos",
+    "2p": "fusiléis",
+    "3p": "fusilen"
+  },
+  "PMQPSI": {
+    "1s": "fusilara",
+    "2s": "fusilaras",
+    "3s": "fusilara",
+    "1p": "fusiláramos",
+    "2p": "fusilarais",
+    "3p": "fusilaran"
+  },
+  "PImpC": {
+    "1s": "fusilase",
+    "2s": "fusilases",
+    "3s": "fusilase",
+    "1p": "fusilásemos",
+    "2p": "fusilaseis",
+    "3p": "fusilasen"
+  },
+  "FutSC": {
+    "1s": "fusilare",
+    "2s": "fusilares",
+    "3s": "fusilare",
+    "1p": "fusiláremos",
+    "2p": "fusilareis",
+    "3p": "fusilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fusila",
+    "3s": "fusile",
+    "1p": "fusilemos",
+    "2p": "fusilad",
+    "3p": "fusilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fusiles",
+    "3s": "no fusile",
+    "1p": "no fusilemos",
+    "2p": "no fusiléis",
+    "3p": "no fusilen"
+  },
+  "Part-ter": {
+    "": "fusilado"
+  },
+  "Part-ser": {
+    "ms": "fusilado",
+    "fs": "fusilada",
+    "mp": "fusilados",
+    "fp": "fusiladas"
+  }
+}

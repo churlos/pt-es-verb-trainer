@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gestar"
+  },
+  "Ger": {
+    "": "gestando"
+  },
+  "PresI": {
+    "1s": "gesto",
+    "2s": "gestas",
+    "3s": "gesta",
+    "1p": "gestamos",
+    "2p": "gestáis",
+    "3p": "gestan"
+  },
+  "PImpI": {
+    "1s": "gestaba",
+    "2s": "gestabas",
+    "3s": "gestaba",
+    "1p": "gestábamos",
+    "2p": "gestabais",
+    "3p": "gestaban"
+  },
+  "PPSI": {
+    "1s": "gesté",
+    "2s": "gestaste",
+    "3s": "gestó",
+    "1p": "gestamos",
+    "2p": "gestasteis",
+    "3p": "gestaron"
+  },
+  "FutSI": {
+    "1s": "gestaré",
+    "2s": "gestarás",
+    "3s": "gestará",
+    "1p": "gestaremos",
+    "2p": "gestaréis",
+    "3p": "gestarán"
+  },
+  "CondS": {
+    "1s": "gestaría",
+    "2s": "gestarías",
+    "3s": "gestaría",
+    "1p": "gestaríamos",
+    "2p": "gestaríais",
+    "3p": "gestarían"
+  },
+  "PresC": {
+    "1s": "geste",
+    "2s": "gestes",
+    "3s": "geste",
+    "1p": "gestemos",
+    "2p": "gestéis",
+    "3p": "gesten"
+  },
+  "PMQPSI": {
+    "1s": "gestara",
+    "2s": "gestaras",
+    "3s": "gestara",
+    "1p": "gestáramos",
+    "2p": "gestarais",
+    "3p": "gestaran"
+  },
+  "PImpC": {
+    "1s": "gestase",
+    "2s": "gestases",
+    "3s": "gestase",
+    "1p": "gestásemos",
+    "2p": "gestaseis",
+    "3p": "gestasen"
+  },
+  "FutSC": {
+    "1s": "gestare",
+    "2s": "gestares",
+    "3s": "gestare",
+    "1p": "gestáremos",
+    "2p": "gestareis",
+    "3p": "gestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gesta",
+    "3s": "geste",
+    "1p": "gestemos",
+    "2p": "gestad",
+    "3p": "gesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gestes",
+    "3s": "no geste",
+    "1p": "no gestemos",
+    "2p": "no gestéis",
+    "3p": "no gesten"
+  },
+  "Part-ter": {
+    "": "gestado"
+  },
+  "Part-ser": {
+    "ms": "gestado",
+    "fs": "gestada",
+    "mp": "gestados",
+    "fp": "gestadas"
+  }
+}

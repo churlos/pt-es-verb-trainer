@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pecar"
+  },
+  "InfP": {
+    "1s": "pecar",
+    "2s": "pecares",
+    "3s": "pecar",
+    "1p": "pecarmos",
+    "2p": "pecardes",
+    "3p": "pecarem"
+  },
+  "Ger": {
+    "": "pecando"
+  },
+  "PresI": {
+    "1s": "peco",
+    "2s": "pecas",
+    "3s": "peca",
+    "1p": "pecamos",
+    "2p": "pecais",
+    "3p": "pecam"
+  },
+  "PImpI": {
+    "1s": "pecava",
+    "2s": "pecavas",
+    "3s": "pecava",
+    "1p": "pecávamos",
+    "2p": "pecáveis",
+    "3p": "pecavam"
+  },
+  "PPSI": {
+    "1s": "pequei",
+    "2s": "pecaste",
+    "3s": "pecou",
+    "1p": "pecámos",
+    "2p": "pecastes",
+    "3p": "pecaram"
+  },
+  "PMQPSI": {
+    "1s": "pecara",
+    "2s": "pecaras",
+    "3s": "pecara",
+    "1p": "pecáramos",
+    "2p": "pecáreis",
+    "3p": "pecaram"
+  },
+  "FutSI": {
+    "1s": "pecarei",
+    "2s": "pecarás",
+    "3s": "pecará",
+    "1p": "pecaremos",
+    "2p": "pecareis",
+    "3p": "pecarão"
+  },
+  "CondS": {
+    "1s": "pecaria",
+    "2s": "pecarias",
+    "3s": "pecaria",
+    "1p": "pecaríamos",
+    "2p": "pecaríeis",
+    "3p": "pecariam"
+  },
+  "PresC": {
+    "1s": "peque",
+    "2s": "peques",
+    "3s": "peque",
+    "1p": "pequemos",
+    "2p": "pequeis",
+    "3p": "pequem"
+  },
+  "PImpC": {
+    "1s": "pecasse",
+    "2s": "pecasses",
+    "3s": "pecasse",
+    "1p": "pecássemos",
+    "2p": "pecásseis",
+    "3p": "pecassem"
+  },
+  "FutSC": {
+    "1s": "pecar",
+    "2s": "pecares",
+    "3s": "pecar",
+    "1p": "pecarmos",
+    "2p": "pecardes",
+    "3p": "pecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "peca",
+    "3s": "peque",
+    "1p": "pequemos",
+    "2p": "pecai",
+    "3p": "pequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não peques",
+    "3s": "não peque",
+    "1p": "não pequemos",
+    "2p": "não pequeis",
+    "3p": "não pequem"
+  },
+  "Part-ter": {
+    "": "pecado"
+  },
+  "Part-ser": {
+    "ms": "pecado",
+    "fs": "pecada",
+    "mp": "pecados",
+    "fp": "pecadas"
+  }
+}

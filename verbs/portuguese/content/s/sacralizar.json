@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sacralizar"
+  },
+  "InfP": {
+    "1s": "sacralizar",
+    "2s": "sacralizares",
+    "3s": "sacralizar",
+    "1p": "sacralizarmos",
+    "2p": "sacralizardes",
+    "3p": "sacralizarem"
+  },
+  "Ger": {
+    "": "sacralizando"
+  },
+  "PresI": {
+    "1s": "sacralizo",
+    "2s": "sacralizas",
+    "3s": "sacraliza",
+    "1p": "sacralizamos",
+    "2p": "sacralizais",
+    "3p": "sacralizam"
+  },
+  "PImpI": {
+    "1s": "sacralizava",
+    "2s": "sacralizavas",
+    "3s": "sacralizava",
+    "1p": "sacralizávamos",
+    "2p": "sacralizáveis",
+    "3p": "sacralizavam"
+  },
+  "PPSI": {
+    "1s": "sacralizei",
+    "2s": "sacralizaste",
+    "3s": "sacralizou",
+    "1p": "sacralizámos",
+    "2p": "sacralizastes",
+    "3p": "sacralizaram"
+  },
+  "PMQPSI": {
+    "1s": "sacralizara",
+    "2s": "sacralizaras",
+    "3s": "sacralizara",
+    "1p": "sacralizáramos",
+    "2p": "sacralizáreis",
+    "3p": "sacralizaram"
+  },
+  "FutSI": {
+    "1s": "sacralizarei",
+    "2s": "sacralizarás",
+    "3s": "sacralizará",
+    "1p": "sacralizaremos",
+    "2p": "sacralizareis",
+    "3p": "sacralizarão"
+  },
+  "CondS": {
+    "1s": "sacralizaria",
+    "2s": "sacralizarias",
+    "3s": "sacralizaria",
+    "1p": "sacralizaríamos",
+    "2p": "sacralizaríeis",
+    "3p": "sacralizariam"
+  },
+  "PresC": {
+    "1s": "sacralize",
+    "2s": "sacralizes",
+    "3s": "sacralize",
+    "1p": "sacralizemos",
+    "2p": "sacralizeis",
+    "3p": "sacralizem"
+  },
+  "PImpC": {
+    "1s": "sacralizasse",
+    "2s": "sacralizasses",
+    "3s": "sacralizasse",
+    "1p": "sacralizássemos",
+    "2p": "sacralizásseis",
+    "3p": "sacralizassem"
+  },
+  "FutSC": {
+    "1s": "sacralizar",
+    "2s": "sacralizares",
+    "3s": "sacralizar",
+    "1p": "sacralizarmos",
+    "2p": "sacralizardes",
+    "3p": "sacralizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sacraliza",
+    "3s": "sacralize",
+    "1p": "sacralizemos",
+    "2p": "sacralizai",
+    "3p": "sacralizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sacralizes",
+    "3s": "não sacralize",
+    "1p": "não sacralizemos",
+    "2p": "não sacralizeis",
+    "3p": "não sacralizem"
+  },
+  "Part-ter": {
+    "": "sacralizado"
+  },
+  "Part-ser": {
+    "ms": "sacralizado",
+    "fs": "sacralizada",
+    "mp": "sacralizados",
+    "fp": "sacralizadas"
+  }
+}

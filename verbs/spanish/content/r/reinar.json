@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reinar"
+  },
+  "Ger": {
+    "": "reinando"
+  },
+  "PresI": {
+    "1s": "reino",
+    "2s": "reinas",
+    "3s": "reina",
+    "1p": "reinamos",
+    "2p": "reináis",
+    "3p": "reinan"
+  },
+  "PImpI": {
+    "1s": "reinaba",
+    "2s": "reinabas",
+    "3s": "reinaba",
+    "1p": "reinábamos",
+    "2p": "reinabais",
+    "3p": "reinaban"
+  },
+  "PPSI": {
+    "1s": "reiné",
+    "2s": "reinaste",
+    "3s": "reinó",
+    "1p": "reinamos",
+    "2p": "reinasteis",
+    "3p": "reinaron"
+  },
+  "FutSI": {
+    "1s": "reinaré",
+    "2s": "reinarás",
+    "3s": "reinará",
+    "1p": "reinaremos",
+    "2p": "reinaréis",
+    "3p": "reinarán"
+  },
+  "CondS": {
+    "1s": "reinaría",
+    "2s": "reinarías",
+    "3s": "reinaría",
+    "1p": "reinaríamos",
+    "2p": "reinaríais",
+    "3p": "reinarían"
+  },
+  "PresC": {
+    "1s": "reine",
+    "2s": "reines",
+    "3s": "reine",
+    "1p": "reinemos",
+    "2p": "reinéis",
+    "3p": "reinen"
+  },
+  "PMQPSI": {
+    "1s": "reinara",
+    "2s": "reinaras",
+    "3s": "reinara",
+    "1p": "reináramos",
+    "2p": "reinarais",
+    "3p": "reinaran"
+  },
+  "PImpC": {
+    "1s": "reinase",
+    "2s": "reinases",
+    "3s": "reinase",
+    "1p": "reinásemos",
+    "2p": "reinaseis",
+    "3p": "reinasen"
+  },
+  "FutSC": {
+    "1s": "reinare",
+    "2s": "reinares",
+    "3s": "reinare",
+    "1p": "reináremos",
+    "2p": "reinareis",
+    "3p": "reinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reina",
+    "3s": "reine",
+    "1p": "reinemos",
+    "2p": "reinad",
+    "3p": "reinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reines",
+    "3s": "no reine",
+    "1p": "no reinemos",
+    "2p": "no reinéis",
+    "3p": "no reinen"
+  },
+  "Part-ter": {
+    "": "reinado"
+  },
+  "Part-ser": {
+    "ms": "reinado",
+    "fs": "reinada",
+    "mp": "reinados",
+    "fp": "reinadas"
+  }
+}

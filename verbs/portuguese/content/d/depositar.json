@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "depositar"
+  },
+  "InfP": {
+    "1s": "depositar",
+    "2s": "depositares",
+    "3s": "depositar",
+    "1p": "depositarmos",
+    "2p": "depositardes",
+    "3p": "depositarem"
+  },
+  "Ger": {
+    "": "depositando"
+  },
+  "PresI": {
+    "1s": "deposito",
+    "2s": "depositas",
+    "3s": "deposita",
+    "1p": "depositamos",
+    "2p": "depositais",
+    "3p": "depositam"
+  },
+  "PImpI": {
+    "1s": "depositava",
+    "2s": "depositavas",
+    "3s": "depositava",
+    "1p": "depositávamos",
+    "2p": "depositáveis",
+    "3p": "depositavam"
+  },
+  "PPSI": {
+    "1s": "depositei",
+    "2s": "depositaste",
+    "3s": "depositou",
+    "1p": "depositámos",
+    "2p": "depositastes",
+    "3p": "depositaram"
+  },
+  "PMQPSI": {
+    "1s": "depositara",
+    "2s": "depositaras",
+    "3s": "depositara",
+    "1p": "depositáramos",
+    "2p": "depositáreis",
+    "3p": "depositaram"
+  },
+  "FutSI": {
+    "1s": "depositarei",
+    "2s": "depositarás",
+    "3s": "depositará",
+    "1p": "depositaremos",
+    "2p": "depositareis",
+    "3p": "depositarão"
+  },
+  "CondS": {
+    "1s": "depositaria",
+    "2s": "depositarias",
+    "3s": "depositaria",
+    "1p": "depositaríamos",
+    "2p": "depositaríeis",
+    "3p": "depositariam"
+  },
+  "PresC": {
+    "1s": "deposite",
+    "2s": "deposites",
+    "3s": "deposite",
+    "1p": "depositemos",
+    "2p": "depositeis",
+    "3p": "depositem"
+  },
+  "PImpC": {
+    "1s": "depositasse",
+    "2s": "depositasses",
+    "3s": "depositasse",
+    "1p": "depositássemos",
+    "2p": "depositásseis",
+    "3p": "depositassem"
+  },
+  "FutSC": {
+    "1s": "depositar",
+    "2s": "depositares",
+    "3s": "depositar",
+    "1p": "depositarmos",
+    "2p": "depositardes",
+    "3p": "depositarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deposita",
+    "3s": "deposite",
+    "1p": "depositemos",
+    "2p": "depositai",
+    "3p": "depositem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deposites",
+    "3s": "não deposite",
+    "1p": "não depositemos",
+    "2p": "não depositeis",
+    "3p": "não depositem"
+  },
+  "Part-ter": {
+    "": "depositado"
+  },
+  "Part-ser": {
+    "ms": "depositado",
+    "fs": "depositada",
+    "mp": "depositados",
+    "fp": "depositadas"
+  }
+}

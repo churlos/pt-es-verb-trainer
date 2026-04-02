@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escanear"
+  },
+  "Ger": {
+    "": "escaneando"
+  },
+  "PresI": {
+    "1s": "escaneo",
+    "2s": "escaneas",
+    "3s": "escanea",
+    "1p": "escaneamos",
+    "2p": "escaneáis",
+    "3p": "escanean"
+  },
+  "PImpI": {
+    "1s": "escaneaba",
+    "2s": "escaneabas",
+    "3s": "escaneaba",
+    "1p": "escaneábamos",
+    "2p": "escaneabais",
+    "3p": "escaneaban"
+  },
+  "PPSI": {
+    "1s": "escaneé",
+    "2s": "escaneaste",
+    "3s": "escaneó",
+    "1p": "escaneamos",
+    "2p": "escaneasteis",
+    "3p": "escanearon"
+  },
+  "FutSI": {
+    "1s": "escanearé",
+    "2s": "escanearás",
+    "3s": "escaneará",
+    "1p": "escanearemos",
+    "2p": "escanearéis",
+    "3p": "escanearán"
+  },
+  "CondS": {
+    "1s": "escanearía",
+    "2s": "escanearías",
+    "3s": "escanearía",
+    "1p": "escanearíamos",
+    "2p": "escanearíais",
+    "3p": "escanearían"
+  },
+  "PresC": {
+    "1s": "escanee",
+    "2s": "escanees",
+    "3s": "escanee",
+    "1p": "escaneemos",
+    "2p": "escaneéis",
+    "3p": "escaneen"
+  },
+  "PMQPSI": {
+    "1s": "escaneara",
+    "2s": "escanearas",
+    "3s": "escaneara",
+    "1p": "escaneáramos",
+    "2p": "escanearais",
+    "3p": "escanearan"
+  },
+  "PImpC": {
+    "1s": "escanease",
+    "2s": "escaneases",
+    "3s": "escanease",
+    "1p": "escaneásemos",
+    "2p": "escaneaseis",
+    "3p": "escaneasen"
+  },
+  "FutSC": {
+    "1s": "escaneare",
+    "2s": "escaneares",
+    "3s": "escaneare",
+    "1p": "escaneáremos",
+    "2p": "escaneareis",
+    "3p": "escanearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escanea",
+    "3s": "escanee",
+    "1p": "escaneemos",
+    "2p": "escanead",
+    "3p": "escaneen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escanees",
+    "3s": "no escanee",
+    "1p": "no escaneemos",
+    "2p": "no escaneéis",
+    "3p": "no escaneen"
+  },
+  "Part-ter": {
+    "": "escaneado"
+  },
+  "Part-ser": {
+    "ms": "escaneado",
+    "fs": "escaneada",
+    "mp": "escaneados",
+    "fp": "escaneadas"
+  }
+}

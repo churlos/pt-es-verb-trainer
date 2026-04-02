@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dedicar"
+  },
+  "Ger": {
+    "": "dedicando"
+  },
+  "PresI": {
+    "1s": "dedico",
+    "2s": "dedicas",
+    "3s": "dedica",
+    "1p": "dedicamos",
+    "2p": "dedicáis",
+    "3p": "dedican"
+  },
+  "PImpI": {
+    "1s": "dedicaba",
+    "2s": "dedicabas",
+    "3s": "dedicaba",
+    "1p": "dedicábamos",
+    "2p": "dedicabais",
+    "3p": "dedicaban"
+  },
+  "PPSI": {
+    "1s": "dediqué",
+    "2s": "dedicaste",
+    "3s": "dedicó",
+    "1p": "dedicamos",
+    "2p": "dedicasteis",
+    "3p": "dedicaron"
+  },
+  "FutSI": {
+    "1s": "dedicaré",
+    "2s": "dedicarás",
+    "3s": "dedicará",
+    "1p": "dedicaremos",
+    "2p": "dedicaréis",
+    "3p": "dedicarán"
+  },
+  "CondS": {
+    "1s": "dedicaría",
+    "2s": "dedicarías",
+    "3s": "dedicaría",
+    "1p": "dedicaríamos",
+    "2p": "dedicaríais",
+    "3p": "dedicarían"
+  },
+  "PresC": {
+    "1s": "dedique",
+    "2s": "dediques",
+    "3s": "dedique",
+    "1p": "dediquemos",
+    "2p": "dediquéis",
+    "3p": "dediquen"
+  },
+  "PMQPSI": {
+    "1s": "dedicara",
+    "2s": "dedicaras",
+    "3s": "dedicara",
+    "1p": "dedicáramos",
+    "2p": "dedicarais",
+    "3p": "dedicaran"
+  },
+  "PImpC": {
+    "1s": "dedicase",
+    "2s": "dedicases",
+    "3s": "dedicase",
+    "1p": "dedicásemos",
+    "2p": "dedicaseis",
+    "3p": "dedicasen"
+  },
+  "FutSC": {
+    "1s": "dedicare",
+    "2s": "dedicares",
+    "3s": "dedicare",
+    "1p": "dedicáremos",
+    "2p": "dedicareis",
+    "3p": "dedicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dedica",
+    "3s": "dedique",
+    "1p": "dediquemos",
+    "2p": "dedicad",
+    "3p": "dediquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dediques",
+    "3s": "no dedique",
+    "1p": "no dediquemos",
+    "2p": "no dediquéis",
+    "3p": "no dediquen"
+  },
+  "Part-ter": {
+    "": "dedicado"
+  },
+  "Part-ser": {
+    "ms": "dedicado",
+    "fs": "dedicada",
+    "mp": "dedicados",
+    "fp": "dedicadas"
+  }
+}

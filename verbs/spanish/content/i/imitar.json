@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "imitar"
+  },
+  "Ger": {
+    "": "imitando"
+  },
+  "PresI": {
+    "1s": "imito",
+    "2s": "imitas",
+    "3s": "imita",
+    "1p": "imitamos",
+    "2p": "imitáis",
+    "3p": "imitan"
+  },
+  "PImpI": {
+    "1s": "imitaba",
+    "2s": "imitabas",
+    "3s": "imitaba",
+    "1p": "imitábamos",
+    "2p": "imitabais",
+    "3p": "imitaban"
+  },
+  "PPSI": {
+    "1s": "imité",
+    "2s": "imitaste",
+    "3s": "imitó",
+    "1p": "imitamos",
+    "2p": "imitasteis",
+    "3p": "imitaron"
+  },
+  "FutSI": {
+    "1s": "imitaré",
+    "2s": "imitarás",
+    "3s": "imitará",
+    "1p": "imitaremos",
+    "2p": "imitaréis",
+    "3p": "imitarán"
+  },
+  "CondS": {
+    "1s": "imitaría",
+    "2s": "imitarías",
+    "3s": "imitaría",
+    "1p": "imitaríamos",
+    "2p": "imitaríais",
+    "3p": "imitarían"
+  },
+  "PresC": {
+    "1s": "imite",
+    "2s": "imites",
+    "3s": "imite",
+    "1p": "imitemos",
+    "2p": "imitéis",
+    "3p": "imiten"
+  },
+  "PMQPSI": {
+    "1s": "imitara",
+    "2s": "imitaras",
+    "3s": "imitara",
+    "1p": "imitáramos",
+    "2p": "imitarais",
+    "3p": "imitaran"
+  },
+  "PImpC": {
+    "1s": "imitase",
+    "2s": "imitases",
+    "3s": "imitase",
+    "1p": "imitásemos",
+    "2p": "imitaseis",
+    "3p": "imitasen"
+  },
+  "FutSC": {
+    "1s": "imitare",
+    "2s": "imitares",
+    "3s": "imitare",
+    "1p": "imitáremos",
+    "2p": "imitareis",
+    "3p": "imitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imita",
+    "3s": "imite",
+    "1p": "imitemos",
+    "2p": "imitad",
+    "3p": "imiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no imites",
+    "3s": "no imite",
+    "1p": "no imitemos",
+    "2p": "no imitéis",
+    "3p": "no imiten"
+  },
+  "Part-ter": {
+    "": "imitado"
+  },
+  "Part-ser": {
+    "ms": "imitado",
+    "fs": "imitada",
+    "mp": "imitados",
+    "fp": "imitadas"
+  }
+}

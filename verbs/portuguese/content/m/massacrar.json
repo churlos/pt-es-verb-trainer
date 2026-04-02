@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "massacrar"
+  },
+  "InfP": {
+    "1s": "massacrar",
+    "2s": "massacrares",
+    "3s": "massacrar",
+    "1p": "massacrarmos",
+    "2p": "massacrardes",
+    "3p": "massacrarem"
+  },
+  "Ger": {
+    "": "massacrando"
+  },
+  "PresI": {
+    "1s": "massacro",
+    "2s": "massacras",
+    "3s": "massacra",
+    "1p": "massacramos",
+    "2p": "massacrais",
+    "3p": "massacram"
+  },
+  "PImpI": {
+    "1s": "massacrava",
+    "2s": "massacravas",
+    "3s": "massacrava",
+    "1p": "massacrávamos",
+    "2p": "massacráveis",
+    "3p": "massacravam"
+  },
+  "PPSI": {
+    "1s": "massacrei",
+    "2s": "massacraste",
+    "3s": "massacrou",
+    "1p": "massacrámos",
+    "2p": "massacrastes",
+    "3p": "massacraram"
+  },
+  "PMQPSI": {
+    "1s": "massacrara",
+    "2s": "massacraras",
+    "3s": "massacrara",
+    "1p": "massacráramos",
+    "2p": "massacráreis",
+    "3p": "massacraram"
+  },
+  "FutSI": {
+    "1s": "massacrarei",
+    "2s": "massacrarás",
+    "3s": "massacrará",
+    "1p": "massacraremos",
+    "2p": "massacrareis",
+    "3p": "massacrarão"
+  },
+  "CondS": {
+    "1s": "massacraria",
+    "2s": "massacrarias",
+    "3s": "massacraria",
+    "1p": "massacraríamos",
+    "2p": "massacraríeis",
+    "3p": "massacrariam"
+  },
+  "PresC": {
+    "1s": "massacre",
+    "2s": "massacres",
+    "3s": "massacre",
+    "1p": "massacremos",
+    "2p": "massacreis",
+    "3p": "massacrem"
+  },
+  "PImpC": {
+    "1s": "massacrasse",
+    "2s": "massacrasses",
+    "3s": "massacrasse",
+    "1p": "massacrássemos",
+    "2p": "massacrásseis",
+    "3p": "massacrassem"
+  },
+  "FutSC": {
+    "1s": "massacrar",
+    "2s": "massacrares",
+    "3s": "massacrar",
+    "1p": "massacrarmos",
+    "2p": "massacrardes",
+    "3p": "massacrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "massacra",
+    "3s": "massacre",
+    "1p": "massacremos",
+    "2p": "massacrai",
+    "3p": "massacrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não massacres",
+    "3s": "não massacre",
+    "1p": "não massacremos",
+    "2p": "não massacreis",
+    "3p": "não massacrem"
+  },
+  "Part-ter": {
+    "": "massacrado"
+  },
+  "Part-ser": {
+    "ms": "massacrado",
+    "fs": "massacrada",
+    "mp": "massacrados",
+    "fp": "massacradas"
+  }
+}

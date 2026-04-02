@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "circular"
+  },
+  "Ger": {
+    "": "circulando"
+  },
+  "PresI": {
+    "1s": "circulo",
+    "2s": "circulas",
+    "3s": "circula",
+    "1p": "circulamos",
+    "2p": "circuláis",
+    "3p": "circulan"
+  },
+  "PImpI": {
+    "1s": "circulaba",
+    "2s": "circulabas",
+    "3s": "circulaba",
+    "1p": "circulábamos",
+    "2p": "circulabais",
+    "3p": "circulaban"
+  },
+  "PPSI": {
+    "1s": "circulé",
+    "2s": "circulaste",
+    "3s": "circuló",
+    "1p": "circulamos",
+    "2p": "circulasteis",
+    "3p": "circularon"
+  },
+  "FutSI": {
+    "1s": "circularé",
+    "2s": "circularás",
+    "3s": "circulará",
+    "1p": "circularemos",
+    "2p": "circularéis",
+    "3p": "circularán"
+  },
+  "CondS": {
+    "1s": "circularía",
+    "2s": "circularías",
+    "3s": "circularía",
+    "1p": "circularíamos",
+    "2p": "circularíais",
+    "3p": "circularían"
+  },
+  "PresC": {
+    "1s": "circule",
+    "2s": "circules",
+    "3s": "circule",
+    "1p": "circulemos",
+    "2p": "circuléis",
+    "3p": "circulen"
+  },
+  "PMQPSI": {
+    "1s": "circulara",
+    "2s": "circularas",
+    "3s": "circulara",
+    "1p": "circuláramos",
+    "2p": "circularais",
+    "3p": "circularan"
+  },
+  "PImpC": {
+    "1s": "circulase",
+    "2s": "circulases",
+    "3s": "circulase",
+    "1p": "circulásemos",
+    "2p": "circulaseis",
+    "3p": "circulasen"
+  },
+  "FutSC": {
+    "1s": "circulare",
+    "2s": "circulares",
+    "3s": "circulare",
+    "1p": "circuláremos",
+    "2p": "circulareis",
+    "3p": "circularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "circula",
+    "3s": "circule",
+    "1p": "circulemos",
+    "2p": "circulad",
+    "3p": "circulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no circules",
+    "3s": "no circule",
+    "1p": "no circulemos",
+    "2p": "no circuléis",
+    "3p": "no circulen"
+  },
+  "Part-ter": {
+    "": "circulado"
+  },
+  "Part-ser": {
+    "ms": "circulado",
+    "fs": "circulada",
+    "mp": "circulados",
+    "fp": "circuladas"
+  }
+}

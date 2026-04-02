@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "blogar"
+  },
+  "InfP": {
+    "1s": "blogar",
+    "2s": "blogares",
+    "3s": "blogar",
+    "1p": "blogarmos",
+    "2p": "blogardes",
+    "3p": "blogarem"
+  },
+  "Ger": {
+    "": "blogando"
+  },
+  "PresI": {
+    "1s": "blogo",
+    "2s": "blogas",
+    "3s": "bloga",
+    "1p": "blogamos",
+    "2p": "blogais",
+    "3p": "blogam"
+  },
+  "PImpI": {
+    "1s": "blogava",
+    "2s": "blogavas",
+    "3s": "blogava",
+    "1p": "blogávamos",
+    "2p": "blogáveis",
+    "3p": "blogavam"
+  },
+  "PPSI": {
+    "1s": "bloguei",
+    "2s": "blogaste",
+    "3s": "blogou",
+    "1p": "blogámos",
+    "2p": "blogastes",
+    "3p": "blogaram"
+  },
+  "PMQPSI": {
+    "1s": "blogara",
+    "2s": "blogaras",
+    "3s": "blogara",
+    "1p": "blogáramos",
+    "2p": "blogáreis",
+    "3p": "blogaram"
+  },
+  "FutSI": {
+    "1s": "blogarei",
+    "2s": "blogarás",
+    "3s": "blogará",
+    "1p": "blogaremos",
+    "2p": "blogareis",
+    "3p": "blogarão"
+  },
+  "CondS": {
+    "1s": "blogaria",
+    "2s": "blogarias",
+    "3s": "blogaria",
+    "1p": "blogaríamos",
+    "2p": "blogaríeis",
+    "3p": "blogariam"
+  },
+  "PresC": {
+    "1s": "blogue",
+    "2s": "blogues",
+    "3s": "blogue",
+    "1p": "bloguemos",
+    "2p": "blogueis",
+    "3p": "bloguem"
+  },
+  "PImpC": {
+    "1s": "blogasse",
+    "2s": "blogasses",
+    "3s": "blogasse",
+    "1p": "blogássemos",
+    "2p": "blogásseis",
+    "3p": "blogassem"
+  },
+  "FutSC": {
+    "1s": "blogar",
+    "2s": "blogares",
+    "3s": "blogar",
+    "1p": "blogarmos",
+    "2p": "blogardes",
+    "3p": "blogarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bloga",
+    "3s": "blogue",
+    "1p": "bloguemos",
+    "2p": "blogai",
+    "3p": "bloguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não blogues",
+    "3s": "não blogue",
+    "1p": "não bloguemos",
+    "2p": "não blogueis",
+    "3p": "não bloguem"
+  },
+  "Part-ter": {
+    "": "blogado"
+  },
+  "Part-ser": {
+    "ms": "blogado",
+    "fs": "blogada",
+    "mp": "blogados",
+    "fp": "blogadas"
+  }
+}

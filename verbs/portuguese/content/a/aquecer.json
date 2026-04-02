@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aquecer"
+  },
+  "InfP": {
+    "1s": "aquecer",
+    "2s": "aqueceres",
+    "3s": "aquecer",
+    "1p": "aquecermos",
+    "2p": "aquecerdes",
+    "3p": "aquecerem"
+  },
+  "Ger": {
+    "": "aquecendo"
+  },
+  "PresI": {
+    "1s": "aqueço",
+    "2s": "aqueces",
+    "3s": "aquece",
+    "1p": "aquecemos",
+    "2p": "aqueceis",
+    "3p": "aquecem"
+  },
+  "PImpI": {
+    "1s": "aquecia",
+    "2s": "aquecias",
+    "3s": "aquecia",
+    "1p": "aquecíamos",
+    "2p": "aquecíeis",
+    "3p": "aqueciam"
+  },
+  "PPSI": {
+    "1s": "aqueci",
+    "2s": "aqueceste",
+    "3s": "aqueceu",
+    "1p": "aquecemos",
+    "2p": "aquecestes",
+    "3p": "aqueceram"
+  },
+  "PMQPSI": {
+    "1s": "aquecera",
+    "2s": "aqueceras",
+    "3s": "aquecera",
+    "1p": "aquecêramos",
+    "2p": "aquecêreis",
+    "3p": "aqueceram"
+  },
+  "FutSI": {
+    "1s": "aquecerei",
+    "2s": "aquecerás",
+    "3s": "aquecerá",
+    "1p": "aqueceremos",
+    "2p": "aquecereis",
+    "3p": "aquecerão"
+  },
+  "CondS": {
+    "1s": "aqueceria",
+    "2s": "aquecerias",
+    "3s": "aqueceria",
+    "1p": "aqueceríamos",
+    "2p": "aqueceríeis",
+    "3p": "aqueceriam"
+  },
+  "PresC": {
+    "1s": "aqueça",
+    "2s": "aqueças",
+    "3s": "aqueça",
+    "1p": "aqueçamos",
+    "2p": "aqueçais",
+    "3p": "aqueçam"
+  },
+  "PImpC": {
+    "1s": "aquecesse",
+    "2s": "aquecesses",
+    "3s": "aquecesse",
+    "1p": "aquecêssemos",
+    "2p": "aquecêsseis",
+    "3p": "aquecessem"
+  },
+  "FutSC": {
+    "1s": "aquecer",
+    "2s": "aqueceres",
+    "3s": "aquecer",
+    "1p": "aquecermos",
+    "2p": "aquecerdes",
+    "3p": "aquecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aquece",
+    "3s": "aqueça",
+    "1p": "aqueçamos",
+    "2p": "aquecei",
+    "3p": "aqueçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aqueças",
+    "3s": "não aqueça",
+    "1p": "não aqueçamos",
+    "2p": "não aqueçais",
+    "3p": "não aqueçam"
+  },
+  "Part-ter": {
+    "": "aquecido"
+  },
+  "Part-ser": {
+    "ms": "aquecido",
+    "fs": "aquecida",
+    "mp": "aquecidos",
+    "fp": "aquecidas"
+  }
+}

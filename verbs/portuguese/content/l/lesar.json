@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lesar"
+  },
+  "InfP": {
+    "1s": "lesar",
+    "2s": "lesares",
+    "3s": "lesar",
+    "1p": "lesarmos",
+    "2p": "lesardes",
+    "3p": "lesarem"
+  },
+  "Ger": {
+    "": "lesando"
+  },
+  "PresI": {
+    "1s": "leso",
+    "2s": "lesas",
+    "3s": "lesa",
+    "1p": "lesamos",
+    "2p": "lesais",
+    "3p": "lesam"
+  },
+  "PImpI": {
+    "1s": "lesava",
+    "2s": "lesavas",
+    "3s": "lesava",
+    "1p": "lesávamos",
+    "2p": "lesáveis",
+    "3p": "lesavam"
+  },
+  "PPSI": {
+    "1s": "lesei",
+    "2s": "lesaste",
+    "3s": "lesou",
+    "1p": "lesámos",
+    "2p": "lesastes",
+    "3p": "lesaram"
+  },
+  "PMQPSI": {
+    "1s": "lesara",
+    "2s": "lesaras",
+    "3s": "lesara",
+    "1p": "lesáramos",
+    "2p": "lesáreis",
+    "3p": "lesaram"
+  },
+  "FutSI": {
+    "1s": "lesarei",
+    "2s": "lesarás",
+    "3s": "lesará",
+    "1p": "lesaremos",
+    "2p": "lesareis",
+    "3p": "lesarão"
+  },
+  "CondS": {
+    "1s": "lesaria",
+    "2s": "lesarias",
+    "3s": "lesaria",
+    "1p": "lesaríamos",
+    "2p": "lesaríeis",
+    "3p": "lesariam"
+  },
+  "PresC": {
+    "1s": "lese",
+    "2s": "leses",
+    "3s": "lese",
+    "1p": "lesemos",
+    "2p": "leseis",
+    "3p": "lesem"
+  },
+  "PImpC": {
+    "1s": "lesasse",
+    "2s": "lesasses",
+    "3s": "lesasse",
+    "1p": "lesássemos",
+    "2p": "lesásseis",
+    "3p": "lesassem"
+  },
+  "FutSC": {
+    "1s": "lesar",
+    "2s": "lesares",
+    "3s": "lesar",
+    "1p": "lesarmos",
+    "2p": "lesardes",
+    "3p": "lesarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lesa",
+    "3s": "lese",
+    "1p": "lesemos",
+    "2p": "lesai",
+    "3p": "lesem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não leses",
+    "3s": "não lese",
+    "1p": "não lesemos",
+    "2p": "não leseis",
+    "3p": "não lesem"
+  },
+  "Part-ter": {
+    "": "lesado"
+  },
+  "Part-ser": {
+    "ms": "lesado",
+    "fs": "lesada",
+    "mp": "lesados",
+    "fp": "lesadas"
+  }
+}

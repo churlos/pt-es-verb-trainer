@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aviar"
+  },
+  "InfP": {
+    "1s": "aviar",
+    "2s": "aviares",
+    "3s": "aviar",
+    "1p": "aviarmos",
+    "2p": "aviardes",
+    "3p": "aviarem"
+  },
+  "Ger": {
+    "": "aviando"
+  },
+  "PresI": {
+    "1s": "avio",
+    "2s": "avias",
+    "3s": "avia",
+    "1p": "aviamos",
+    "2p": "aviais",
+    "3p": "aviam"
+  },
+  "PImpI": {
+    "1s": "aviava",
+    "2s": "aviavas",
+    "3s": "aviava",
+    "1p": "aviávamos",
+    "2p": "aviáveis",
+    "3p": "aviavam"
+  },
+  "PPSI": {
+    "1s": "aviei",
+    "2s": "aviaste",
+    "3s": "aviou",
+    "1p": "aviámos",
+    "2p": "aviastes",
+    "3p": "aviaram"
+  },
+  "PMQPSI": {
+    "1s": "aviara",
+    "2s": "aviaras",
+    "3s": "aviara",
+    "1p": "aviáramos",
+    "2p": "aviáreis",
+    "3p": "aviaram"
+  },
+  "FutSI": {
+    "1s": "aviarei",
+    "2s": "aviarás",
+    "3s": "aviará",
+    "1p": "aviaremos",
+    "2p": "aviareis",
+    "3p": "aviarão"
+  },
+  "CondS": {
+    "1s": "aviaria",
+    "2s": "aviarias",
+    "3s": "aviaria",
+    "1p": "aviaríamos",
+    "2p": "aviaríeis",
+    "3p": "aviariam"
+  },
+  "PresC": {
+    "1s": "avie",
+    "2s": "avies",
+    "3s": "avie",
+    "1p": "aviemos",
+    "2p": "avieis",
+    "3p": "aviem"
+  },
+  "PImpC": {
+    "1s": "aviasse",
+    "2s": "aviasses",
+    "3s": "aviasse",
+    "1p": "aviássemos",
+    "2p": "aviásseis",
+    "3p": "aviassem"
+  },
+  "FutSC": {
+    "1s": "aviar",
+    "2s": "aviares",
+    "3s": "aviar",
+    "1p": "aviarmos",
+    "2p": "aviardes",
+    "3p": "aviarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "avia",
+    "3s": "avie",
+    "1p": "aviemos",
+    "2p": "aviai",
+    "3p": "aviem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não avies",
+    "3s": "não avie",
+    "1p": "não aviemos",
+    "2p": "não avieis",
+    "3p": "não aviem"
+  },
+  "Part-ter": {
+    "": "aviado"
+  },
+  "Part-ser": {
+    "ms": "aviado",
+    "fs": "aviada",
+    "mp": "aviados",
+    "fp": "aviadas"
+  }
+}

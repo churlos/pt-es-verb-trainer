@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mazar"
+  },
+  "Ger": {
+    "": "mazando"
+  },
+  "PresI": {
+    "1s": "mazo",
+    "2s": "mazas",
+    "3s": "maza",
+    "1p": "mazamos",
+    "2p": "mazáis",
+    "3p": "mazan"
+  },
+  "PImpI": {
+    "1s": "mazaba",
+    "2s": "mazabas",
+    "3s": "mazaba",
+    "1p": "mazábamos",
+    "2p": "mazabais",
+    "3p": "mazaban"
+  },
+  "PPSI": {
+    "1s": "macé",
+    "2s": "mazaste",
+    "3s": "mazó",
+    "1p": "mazamos",
+    "2p": "mazasteis",
+    "3p": "mazaron"
+  },
+  "FutSI": {
+    "1s": "mazaré",
+    "2s": "mazarás",
+    "3s": "mazará",
+    "1p": "mazaremos",
+    "2p": "mazaréis",
+    "3p": "mazarán"
+  },
+  "CondS": {
+    "1s": "mazaría",
+    "2s": "mazarías",
+    "3s": "mazaría",
+    "1p": "mazaríamos",
+    "2p": "mazaríais",
+    "3p": "mazarían"
+  },
+  "PresC": {
+    "1s": "mace",
+    "2s": "maces",
+    "3s": "mace",
+    "1p": "macemos",
+    "2p": "macéis",
+    "3p": "macen"
+  },
+  "PMQPSI": {
+    "1s": "mazara",
+    "2s": "mazaras",
+    "3s": "mazara",
+    "1p": "mazáramos",
+    "2p": "mazarais",
+    "3p": "mazaran"
+  },
+  "PImpC": {
+    "1s": "mazase",
+    "2s": "mazases",
+    "3s": "mazase",
+    "1p": "mazásemos",
+    "2p": "mazaseis",
+    "3p": "mazasen"
+  },
+  "FutSC": {
+    "1s": "mazare",
+    "2s": "mazares",
+    "3s": "mazare",
+    "1p": "mazáremos",
+    "2p": "mazareis",
+    "3p": "mazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maza",
+    "3s": "mace",
+    "1p": "macemos",
+    "2p": "mazad",
+    "3p": "macen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no maces",
+    "3s": "no mace",
+    "1p": "no macemos",
+    "2p": "no macéis",
+    "3p": "no macen"
+  },
+  "Part-ter": {
+    "": "mazado"
+  },
+  "Part-ser": {
+    "ms": "mazado",
+    "fs": "mazada",
+    "mp": "mazados",
+    "fp": "mazadas"
+  }
+}

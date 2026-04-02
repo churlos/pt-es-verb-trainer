@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reversionar"
+  },
+  "Ger": {
+    "": "reversionando"
+  },
+  "PresI": {
+    "1s": "reversiono",
+    "2s": "reversionas",
+    "3s": "reversiona",
+    "1p": "reversionamos",
+    "2p": "reversionáis",
+    "3p": "reversionan"
+  },
+  "PImpI": {
+    "1s": "reversionaba",
+    "2s": "reversionabas",
+    "3s": "reversionaba",
+    "1p": "reversionábamos",
+    "2p": "reversionabais",
+    "3p": "reversionaban"
+  },
+  "PPSI": {
+    "1s": "reversioné",
+    "2s": "reversionaste",
+    "3s": "reversionó",
+    "1p": "reversionamos",
+    "2p": "reversionasteis",
+    "3p": "reversionaron"
+  },
+  "FutSI": {
+    "1s": "reversionaré",
+    "2s": "reversionarás",
+    "3s": "reversionará",
+    "1p": "reversionaremos",
+    "2p": "reversionaréis",
+    "3p": "reversionarán"
+  },
+  "CondS": {
+    "1s": "reversionaría",
+    "2s": "reversionarías",
+    "3s": "reversionaría",
+    "1p": "reversionaríamos",
+    "2p": "reversionaríais",
+    "3p": "reversionarían"
+  },
+  "PresC": {
+    "1s": "reversione",
+    "2s": "reversiones",
+    "3s": "reversione",
+    "1p": "reversionemos",
+    "2p": "reversionéis",
+    "3p": "reversionen"
+  },
+  "PMQPSI": {
+    "1s": "reversionara",
+    "2s": "reversionaras",
+    "3s": "reversionara",
+    "1p": "reversionáramos",
+    "2p": "reversionarais",
+    "3p": "reversionaran"
+  },
+  "PImpC": {
+    "1s": "reversionase",
+    "2s": "reversionases",
+    "3s": "reversionase",
+    "1p": "reversionásemos",
+    "2p": "reversionaseis",
+    "3p": "reversionasen"
+  },
+  "FutSC": {
+    "1s": "reversionare",
+    "2s": "reversionares",
+    "3s": "reversionare",
+    "1p": "reversionáremos",
+    "2p": "reversionareis",
+    "3p": "reversionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reversiona",
+    "3s": "reversione",
+    "1p": "reversionemos",
+    "2p": "reversionad",
+    "3p": "reversionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reversiones",
+    "3s": "no reversione",
+    "1p": "no reversionemos",
+    "2p": "no reversionéis",
+    "3p": "no reversionen"
+  },
+  "Part-ter": {
+    "": "reversionado"
+  },
+  "Part-ser": {
+    "ms": "reversionado",
+    "fs": "reversionada",
+    "mp": "reversionados",
+    "fp": "reversionadas"
+  }
+}

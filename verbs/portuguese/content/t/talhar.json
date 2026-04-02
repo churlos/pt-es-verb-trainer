@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "talhar"
+  },
+  "InfP": {
+    "1s": "talhar",
+    "2s": "talhares",
+    "3s": "talhar",
+    "1p": "talharmos",
+    "2p": "talhardes",
+    "3p": "talharem"
+  },
+  "Ger": {
+    "": "talhando"
+  },
+  "PresI": {
+    "1s": "talho",
+    "2s": "talhas",
+    "3s": "talha",
+    "1p": "talhamos",
+    "2p": "talhais",
+    "3p": "talham"
+  },
+  "PImpI": {
+    "1s": "talhava",
+    "2s": "talhavas",
+    "3s": "talhava",
+    "1p": "talhávamos",
+    "2p": "talháveis",
+    "3p": "talhavam"
+  },
+  "PPSI": {
+    "1s": "talhei",
+    "2s": "talhaste",
+    "3s": "talhou",
+    "1p": "talhámos",
+    "2p": "talhastes",
+    "3p": "talharam"
+  },
+  "PMQPSI": {
+    "1s": "talhara",
+    "2s": "talharas",
+    "3s": "talhara",
+    "1p": "talháramos",
+    "2p": "talháreis",
+    "3p": "talharam"
+  },
+  "FutSI": {
+    "1s": "talharei",
+    "2s": "talharás",
+    "3s": "talhará",
+    "1p": "talharemos",
+    "2p": "talhareis",
+    "3p": "talharão"
+  },
+  "CondS": {
+    "1s": "talharia",
+    "2s": "talharias",
+    "3s": "talharia",
+    "1p": "talharíamos",
+    "2p": "talharíeis",
+    "3p": "talhariam"
+  },
+  "PresC": {
+    "1s": "talhe",
+    "2s": "talhes",
+    "3s": "talhe",
+    "1p": "talhemos",
+    "2p": "talheis",
+    "3p": "talhem"
+  },
+  "PImpC": {
+    "1s": "talhasse",
+    "2s": "talhasses",
+    "3s": "talhasse",
+    "1p": "talhássemos",
+    "2p": "talhásseis",
+    "3p": "talhassem"
+  },
+  "FutSC": {
+    "1s": "talhar",
+    "2s": "talhares",
+    "3s": "talhar",
+    "1p": "talharmos",
+    "2p": "talhardes",
+    "3p": "talharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "talha",
+    "3s": "talhe",
+    "1p": "talhemos",
+    "2p": "talhai",
+    "3p": "talhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não talhes",
+    "3s": "não talhe",
+    "1p": "não talhemos",
+    "2p": "não talheis",
+    "3p": "não talhem"
+  },
+  "Part-ter": {
+    "": "talhado"
+  },
+  "Part-ser": {
+    "ms": "talhado",
+    "fs": "talhada",
+    "mp": "talhados",
+    "fp": "talhadas"
+  }
+}

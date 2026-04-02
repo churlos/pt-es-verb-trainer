@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "privar"
+  },
+  "InfP": {
+    "1s": "privar",
+    "2s": "privares",
+    "3s": "privar",
+    "1p": "privarmos",
+    "2p": "privardes",
+    "3p": "privarem"
+  },
+  "Ger": {
+    "": "privando"
+  },
+  "PresI": {
+    "1s": "privo",
+    "2s": "privas",
+    "3s": "priva",
+    "1p": "privamos",
+    "2p": "privais",
+    "3p": "privam"
+  },
+  "PImpI": {
+    "1s": "privava",
+    "2s": "privavas",
+    "3s": "privava",
+    "1p": "privávamos",
+    "2p": "priváveis",
+    "3p": "privavam"
+  },
+  "PPSI": {
+    "1s": "privei",
+    "2s": "privaste",
+    "3s": "privou",
+    "1p": "privámos",
+    "2p": "privastes",
+    "3p": "privaram"
+  },
+  "PMQPSI": {
+    "1s": "privara",
+    "2s": "privaras",
+    "3s": "privara",
+    "1p": "priváramos",
+    "2p": "priváreis",
+    "3p": "privaram"
+  },
+  "FutSI": {
+    "1s": "privarei",
+    "2s": "privarás",
+    "3s": "privará",
+    "1p": "privaremos",
+    "2p": "privareis",
+    "3p": "privarão"
+  },
+  "CondS": {
+    "1s": "privaria",
+    "2s": "privarias",
+    "3s": "privaria",
+    "1p": "privaríamos",
+    "2p": "privaríeis",
+    "3p": "privariam"
+  },
+  "PresC": {
+    "1s": "prive",
+    "2s": "prives",
+    "3s": "prive",
+    "1p": "privemos",
+    "2p": "priveis",
+    "3p": "privem"
+  },
+  "PImpC": {
+    "1s": "privasse",
+    "2s": "privasses",
+    "3s": "privasse",
+    "1p": "privássemos",
+    "2p": "privásseis",
+    "3p": "privassem"
+  },
+  "FutSC": {
+    "1s": "privar",
+    "2s": "privares",
+    "3s": "privar",
+    "1p": "privarmos",
+    "2p": "privardes",
+    "3p": "privarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "priva",
+    "3s": "prive",
+    "1p": "privemos",
+    "2p": "privai",
+    "3p": "privem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prives",
+    "3s": "não prive",
+    "1p": "não privemos",
+    "2p": "não priveis",
+    "3p": "não privem"
+  },
+  "Part-ter": {
+    "": "privado"
+  },
+  "Part-ser": {
+    "ms": "privado",
+    "fs": "privada",
+    "mp": "privados",
+    "fp": "privadas"
+  }
+}

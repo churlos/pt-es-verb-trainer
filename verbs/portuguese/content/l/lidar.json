@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lidar"
+  },
+  "InfP": {
+    "1s": "lidar",
+    "2s": "lidares",
+    "3s": "lidar",
+    "1p": "lidarmos",
+    "2p": "lidardes",
+    "3p": "lidarem"
+  },
+  "Ger": {
+    "": "lidando"
+  },
+  "PresI": {
+    "1s": "lido",
+    "2s": "lidas",
+    "3s": "lida",
+    "1p": "lidamos",
+    "2p": "lidais",
+    "3p": "lidam"
+  },
+  "PImpI": {
+    "1s": "lidava",
+    "2s": "lidavas",
+    "3s": "lidava",
+    "1p": "lidávamos",
+    "2p": "lidáveis",
+    "3p": "lidavam"
+  },
+  "PPSI": {
+    "1s": "lidei",
+    "2s": "lidaste",
+    "3s": "lidou",
+    "1p": "lidámos",
+    "2p": "lidastes",
+    "3p": "lidaram"
+  },
+  "PMQPSI": {
+    "1s": "lidara",
+    "2s": "lidaras",
+    "3s": "lidara",
+    "1p": "lidáramos",
+    "2p": "lidáreis",
+    "3p": "lidaram"
+  },
+  "FutSI": {
+    "1s": "lidarei",
+    "2s": "lidarás",
+    "3s": "lidará",
+    "1p": "lidaremos",
+    "2p": "lidareis",
+    "3p": "lidarão"
+  },
+  "CondS": {
+    "1s": "lidaria",
+    "2s": "lidarias",
+    "3s": "lidaria",
+    "1p": "lidaríamos",
+    "2p": "lidaríeis",
+    "3p": "lidariam"
+  },
+  "PresC": {
+    "1s": "lide",
+    "2s": "lides",
+    "3s": "lide",
+    "1p": "lidemos",
+    "2p": "lideis",
+    "3p": "lidem"
+  },
+  "PImpC": {
+    "1s": "lidasse",
+    "2s": "lidasses",
+    "3s": "lidasse",
+    "1p": "lidássemos",
+    "2p": "lidásseis",
+    "3p": "lidassem"
+  },
+  "FutSC": {
+    "1s": "lidar",
+    "2s": "lidares",
+    "3s": "lidar",
+    "1p": "lidarmos",
+    "2p": "lidardes",
+    "3p": "lidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lida",
+    "3s": "lide",
+    "1p": "lidemos",
+    "2p": "lidai",
+    "3p": "lidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lides",
+    "3s": "não lide",
+    "1p": "não lidemos",
+    "2p": "não lideis",
+    "3p": "não lidem"
+  },
+  "Part-ter": {
+    "": "lidado"
+  },
+  "Part-ser": {
+    "ms": "lidado",
+    "fs": "lidada",
+    "mp": "lidados",
+    "fp": "lidadas"
+  }
+}

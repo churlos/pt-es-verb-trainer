@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arrugar"
+  },
+  "Ger": {
+    "": "arrugando"
+  },
+  "PresI": {
+    "1s": "arrugo",
+    "2s": "arrugas",
+    "3s": "arruga",
+    "1p": "arrugamos",
+    "2p": "arrugáis",
+    "3p": "arrugan"
+  },
+  "PImpI": {
+    "1s": "arrugaba",
+    "2s": "arrugabas",
+    "3s": "arrugaba",
+    "1p": "arrugábamos",
+    "2p": "arrugabais",
+    "3p": "arrugaban"
+  },
+  "PPSI": {
+    "1s": "arrugué",
+    "2s": "arrugaste",
+    "3s": "arrugó",
+    "1p": "arrugamos",
+    "2p": "arrugasteis",
+    "3p": "arrugaron"
+  },
+  "FutSI": {
+    "1s": "arrugaré",
+    "2s": "arrugarás",
+    "3s": "arrugará",
+    "1p": "arrugaremos",
+    "2p": "arrugaréis",
+    "3p": "arrugarán"
+  },
+  "CondS": {
+    "1s": "arrugaría",
+    "2s": "arrugarías",
+    "3s": "arrugaría",
+    "1p": "arrugaríamos",
+    "2p": "arrugaríais",
+    "3p": "arrugarían"
+  },
+  "PresC": {
+    "1s": "arrugue",
+    "2s": "arrugues",
+    "3s": "arrugue",
+    "1p": "arruguemos",
+    "2p": "arruguéis",
+    "3p": "arruguen"
+  },
+  "PMQPSI": {
+    "1s": "arrugara",
+    "2s": "arrugaras",
+    "3s": "arrugara",
+    "1p": "arrugáramos",
+    "2p": "arrugarais",
+    "3p": "arrugaran"
+  },
+  "PImpC": {
+    "1s": "arrugase",
+    "2s": "arrugases",
+    "3s": "arrugase",
+    "1p": "arrugásemos",
+    "2p": "arrugaseis",
+    "3p": "arrugasen"
+  },
+  "FutSC": {
+    "1s": "arrugare",
+    "2s": "arrugares",
+    "3s": "arrugare",
+    "1p": "arrugáremos",
+    "2p": "arrugareis",
+    "3p": "arrugaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arruga",
+    "3s": "arrugue",
+    "1p": "arruguemos",
+    "2p": "arrugad",
+    "3p": "arruguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arrugues",
+    "3s": "no arrugue",
+    "1p": "no arruguemos",
+    "2p": "no arruguéis",
+    "3p": "no arruguen"
+  },
+  "Part-ter": {
+    "": "arrugado"
+  },
+  "Part-ser": {
+    "ms": "arrugado",
+    "fs": "arrugada",
+    "mp": "arrugados",
+    "fp": "arrugadas"
+  }
+}

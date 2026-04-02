@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "intermediar"
+  },
+  "InfP": {
+    "1s": "intermediar",
+    "2s": "intermediares",
+    "3s": "intermediar",
+    "1p": "intermediarmos",
+    "2p": "intermediardes",
+    "3p": "intermediarem"
+  },
+  "Ger": {
+    "": "intermediando"
+  },
+  "PresI": {
+    "1s": "intermedeio",
+    "2s": "intermedeias",
+    "3s": "intermedeia",
+    "1p": "intermediamos",
+    "2p": "intermediais",
+    "3p": "intermedeiam"
+  },
+  "PImpI": {
+    "1s": "intermediava",
+    "2s": "intermediavas",
+    "3s": "intermediava",
+    "1p": "intermediávamos",
+    "2p": "intermediáveis",
+    "3p": "intermediavam"
+  },
+  "PPSI": {
+    "1s": "intermediei",
+    "2s": "intermediaste",
+    "3s": "intermediou",
+    "1p": "intermediámos",
+    "2p": "intermediastes",
+    "3p": "intermediaram"
+  },
+  "PMQPSI": {
+    "1s": "intermediara",
+    "2s": "intermediaras",
+    "3s": "intermediara",
+    "1p": "intermediáramos",
+    "2p": "intermediáreis",
+    "3p": "intermediaram"
+  },
+  "FutSI": {
+    "1s": "intermediarei",
+    "2s": "intermediarás",
+    "3s": "intermediará",
+    "1p": "intermediaremos",
+    "2p": "intermediareis",
+    "3p": "intermediarão"
+  },
+  "CondS": {
+    "1s": "intermediaria",
+    "2s": "intermediarias",
+    "3s": "intermediaria",
+    "1p": "intermediaríamos",
+    "2p": "intermediaríeis",
+    "3p": "intermediariam"
+  },
+  "PresC": {
+    "1s": "intermedeie",
+    "2s": "intermedeies",
+    "3s": "intermedeie",
+    "1p": "intermediemos",
+    "2p": "intermedieis",
+    "3p": "intermedeiem"
+  },
+  "PImpC": {
+    "1s": "intermediasse",
+    "2s": "intermediasses",
+    "3s": "intermediasse",
+    "1p": "intermediássemos",
+    "2p": "intermediásseis",
+    "3p": "intermediassem"
+  },
+  "FutSC": {
+    "1s": "intermediar",
+    "2s": "intermediares",
+    "3s": "intermediar",
+    "1p": "intermediarmos",
+    "2p": "intermediardes",
+    "3p": "intermediarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intermedeia",
+    "3s": "intermedeie",
+    "1p": "intermediemos",
+    "2p": "intermediai",
+    "3p": "intermedeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não intermedeies",
+    "3s": "não intermedeie",
+    "1p": "não intermediemos",
+    "2p": "não intermedieis",
+    "3p": "não intermedeiem"
+  },
+  "Part-ter": {
+    "": "intermediado"
+  },
+  "Part-ser": {
+    "ms": "intermediado",
+    "fs": "intermediada",
+    "mp": "intermediados",
+    "fp": "intermediadas"
+  }
+}

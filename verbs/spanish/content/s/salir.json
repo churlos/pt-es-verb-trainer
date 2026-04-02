@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "salir"
+  },
+  "Ger": {
+    "": "saliendo"
+  },
+  "PresI": {
+    "1s": "salgo",
+    "2s": "sales",
+    "3s": "sale",
+    "1p": "salimos",
+    "2p": "salís",
+    "3p": "salen"
+  },
+  "PImpI": {
+    "1s": "salía",
+    "2s": "salías",
+    "3s": "salía",
+    "1p": "salíamos",
+    "2p": "salíais",
+    "3p": "salían"
+  },
+  "PPSI": {
+    "1s": "salí",
+    "2s": "saliste",
+    "3s": "salió",
+    "1p": "salimos",
+    "2p": "salisteis",
+    "3p": "salieron"
+  },
+  "FutSI": {
+    "1s": "saldré",
+    "2s": "saldrás",
+    "3s": "saldrá",
+    "1p": "saldremos",
+    "2p": "saldréis",
+    "3p": "saldrán"
+  },
+  "CondS": {
+    "1s": "saldría",
+    "2s": "saldrías",
+    "3s": "saldría",
+    "1p": "saldríamos",
+    "2p": "saldríais",
+    "3p": "saldrían"
+  },
+  "PresC": {
+    "1s": "salga",
+    "2s": "salgas",
+    "3s": "salga",
+    "1p": "salgamos",
+    "2p": "salgáis",
+    "3p": "salgan"
+  },
+  "PMQPSI": {
+    "1s": "saliera",
+    "2s": "salieras",
+    "3s": "saliera",
+    "1p": "saliéramos",
+    "2p": "salierais",
+    "3p": "salieran"
+  },
+  "PImpC": {
+    "1s": "saliese",
+    "2s": "salieses",
+    "3s": "saliese",
+    "1p": "saliésemos",
+    "2p": "salieseis",
+    "3p": "saliesen"
+  },
+  "FutSC": {
+    "1s": "saliere",
+    "2s": "salieres",
+    "3s": "saliere",
+    "1p": "saliéremos",
+    "2p": "saliereis",
+    "3p": "salieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sal",
+    "3s": "salga",
+    "1p": "salgamos",
+    "2p": "salid",
+    "3p": "salgan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salgas",
+    "3s": "no salga",
+    "1p": "no salgamos",
+    "2p": "no salgáis",
+    "3p": "no salgan"
+  },
+  "Part-ter": {
+    "": "salido"
+  },
+  "Part-ser": {
+    "ms": "salido",
+    "fs": "salida",
+    "mp": "salidos",
+    "fp": "salidas"
+  }
+}

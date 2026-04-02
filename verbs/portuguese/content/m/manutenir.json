@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manutenir"
+  },
+  "InfP": {
+    "1s": "manutenir",
+    "2s": "manutenires",
+    "3s": "manutenir",
+    "1p": "manutenirmos",
+    "2p": "manutenirdes",
+    "3p": "manutenirem"
+  },
+  "Ger": {
+    "": "manutenindo"
+  },
+  "PresI": {
+    "1s": "manuteno",
+    "2s": "manutenes",
+    "3s": "manutene",
+    "1p": "manutenimos",
+    "2p": "manutenis",
+    "3p": "manutenem"
+  },
+  "PImpI": {
+    "1s": "manutenia",
+    "2s": "manutenias",
+    "3s": "manutenia",
+    "1p": "manuteníamos",
+    "2p": "manuteníeis",
+    "3p": "manuteniam"
+  },
+  "PPSI": {
+    "1s": "manuteni",
+    "2s": "manuteniste",
+    "3s": "manuteniu",
+    "1p": "manutenimos",
+    "2p": "manutenistes",
+    "3p": "manuteniram"
+  },
+  "PMQPSI": {
+    "1s": "manutenira",
+    "2s": "manuteniras",
+    "3s": "manutenira",
+    "1p": "manuteníramos",
+    "2p": "manuteníreis",
+    "3p": "manuteniram"
+  },
+  "FutSI": {
+    "1s": "manutenirei",
+    "2s": "manutenirás",
+    "3s": "manutenirá",
+    "1p": "manuteniremos",
+    "2p": "manutenireis",
+    "3p": "manutenirão"
+  },
+  "CondS": {
+    "1s": "manuteniria",
+    "2s": "manutenirias",
+    "3s": "manuteniria",
+    "1p": "manuteniríamos",
+    "2p": "manuteniríeis",
+    "3p": "manuteniriam"
+  },
+  "PresC": {
+    "1s": "manutena",
+    "2s": "manutenas",
+    "3s": "manutena",
+    "1p": "manutenamos",
+    "2p": "manutenais",
+    "3p": "manutenam"
+  },
+  "PImpC": {
+    "1s": "manutenisse",
+    "2s": "manutenisses",
+    "3s": "manutenisse",
+    "1p": "manuteníssemos",
+    "2p": "manutenísseis",
+    "3p": "manutenissem"
+  },
+  "FutSC": {
+    "1s": "manutenir",
+    "2s": "manutenires",
+    "3s": "manutenir",
+    "1p": "manutenirmos",
+    "2p": "manutenirdes",
+    "3p": "manutenirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manutene",
+    "3s": "manutena",
+    "1p": "manutenamos",
+    "2p": "manuteni",
+    "3p": "manutenam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manutenas",
+    "3s": "não manutena",
+    "1p": "não manutenamos",
+    "2p": "não manutenais",
+    "3p": "não manutenam"
+  },
+  "Part-ter": {
+    "": "manutenido"
+  },
+  "Part-ser": {
+    "ms": "manutenido",
+    "fs": "manutenida",
+    "mp": "manutenidos",
+    "fp": "manutenidas"
+  }
+}

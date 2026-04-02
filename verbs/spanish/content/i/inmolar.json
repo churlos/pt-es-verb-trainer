@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inmolar"
+  },
+  "Ger": {
+    "": "inmolando"
+  },
+  "PresI": {
+    "1s": "inmolo",
+    "2s": "inmolas",
+    "3s": "inmola",
+    "1p": "inmolamos",
+    "2p": "inmoláis",
+    "3p": "inmolan"
+  },
+  "PImpI": {
+    "1s": "inmolaba",
+    "2s": "inmolabas",
+    "3s": "inmolaba",
+    "1p": "inmolábamos",
+    "2p": "inmolabais",
+    "3p": "inmolaban"
+  },
+  "PPSI": {
+    "1s": "inmolé",
+    "2s": "inmolaste",
+    "3s": "inmoló",
+    "1p": "inmolamos",
+    "2p": "inmolasteis",
+    "3p": "inmolaron"
+  },
+  "FutSI": {
+    "1s": "inmolaré",
+    "2s": "inmolarás",
+    "3s": "inmolará",
+    "1p": "inmolaremos",
+    "2p": "inmolaréis",
+    "3p": "inmolarán"
+  },
+  "CondS": {
+    "1s": "inmolaría",
+    "2s": "inmolarías",
+    "3s": "inmolaría",
+    "1p": "inmolaríamos",
+    "2p": "inmolaríais",
+    "3p": "inmolarían"
+  },
+  "PresC": {
+    "1s": "inmole",
+    "2s": "inmoles",
+    "3s": "inmole",
+    "1p": "inmolemos",
+    "2p": "inmoléis",
+    "3p": "inmolen"
+  },
+  "PMQPSI": {
+    "1s": "inmolara",
+    "2s": "inmolaras",
+    "3s": "inmolara",
+    "1p": "inmoláramos",
+    "2p": "inmolarais",
+    "3p": "inmolaran"
+  },
+  "PImpC": {
+    "1s": "inmolase",
+    "2s": "inmolases",
+    "3s": "inmolase",
+    "1p": "inmolásemos",
+    "2p": "inmolaseis",
+    "3p": "inmolasen"
+  },
+  "FutSC": {
+    "1s": "inmolare",
+    "2s": "inmolares",
+    "3s": "inmolare",
+    "1p": "inmoláremos",
+    "2p": "inmolareis",
+    "3p": "inmolaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inmola",
+    "3s": "inmole",
+    "1p": "inmolemos",
+    "2p": "inmolad",
+    "3p": "inmolen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inmoles",
+    "3s": "no inmole",
+    "1p": "no inmolemos",
+    "2p": "no inmoléis",
+    "3p": "no inmolen"
+  },
+  "Part-ter": {
+    "": "inmolado"
+  },
+  "Part-ser": {
+    "ms": "inmolado",
+    "fs": "inmolada",
+    "mp": "inmolados",
+    "fp": "inmoladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arvorecer"
+  },
+  "InfP": {
+    "1s": "arvorecer",
+    "2s": "arvoreceres",
+    "3s": "arvorecer",
+    "1p": "arvorecermos",
+    "2p": "arvorecerdes",
+    "3p": "arvorecerem"
+  },
+  "Ger": {
+    "": "arvorecendo"
+  },
+  "PresI": {
+    "1s": "arvoreço",
+    "2s": "arvoreces",
+    "3s": "arvorece",
+    "1p": "arvorecemos",
+    "2p": "arvoreceis",
+    "3p": "arvorecem"
+  },
+  "PImpI": {
+    "1s": "arvorecia",
+    "2s": "arvorecias",
+    "3s": "arvorecia",
+    "1p": "arvorecíamos",
+    "2p": "arvorecíeis",
+    "3p": "arvoreciam"
+  },
+  "PPSI": {
+    "1s": "arvoreci",
+    "2s": "arvoreceste",
+    "3s": "arvoreceu",
+    "1p": "arvorecemos",
+    "2p": "arvorecestes",
+    "3p": "arvoreceram"
+  },
+  "PMQPSI": {
+    "1s": "arvorecera",
+    "2s": "arvoreceras",
+    "3s": "arvorecera",
+    "1p": "arvorecêramos",
+    "2p": "arvorecêreis",
+    "3p": "arvoreceram"
+  },
+  "FutSI": {
+    "1s": "arvorecerei",
+    "2s": "arvorecerás",
+    "3s": "arvorecerá",
+    "1p": "arvoreceremos",
+    "2p": "arvorecereis",
+    "3p": "arvorecerão"
+  },
+  "CondS": {
+    "1s": "arvoreceria",
+    "2s": "arvorecerias",
+    "3s": "arvoreceria",
+    "1p": "arvoreceríamos",
+    "2p": "arvoreceríeis",
+    "3p": "arvoreceriam"
+  },
+  "PresC": {
+    "1s": "arvoreça",
+    "2s": "arvoreças",
+    "3s": "arvoreça",
+    "1p": "arvoreçamos",
+    "2p": "arvoreçais",
+    "3p": "arvoreçam"
+  },
+  "PImpC": {
+    "1s": "arvorecesse",
+    "2s": "arvorecesses",
+    "3s": "arvorecesse",
+    "1p": "arvorecêssemos",
+    "2p": "arvorecêsseis",
+    "3p": "arvorecessem"
+  },
+  "FutSC": {
+    "1s": "arvorecer",
+    "2s": "arvoreceres",
+    "3s": "arvorecer",
+    "1p": "arvorecermos",
+    "2p": "arvorecerdes",
+    "3p": "arvorecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arvorece",
+    "3s": "arvoreça",
+    "1p": "arvoreçamos",
+    "2p": "arvorecei",
+    "3p": "arvoreçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arvoreças",
+    "3s": "não arvoreça",
+    "1p": "não arvoreçamos",
+    "2p": "não arvoreçais",
+    "3p": "não arvoreçam"
+  },
+  "Part-ter": {
+    "": "arvorecido"
+  },
+  "Part-ser": {
+    "ms": "arvorecido",
+    "fs": "arvorecida",
+    "mp": "arvorecidos",
+    "fp": "arvorecidas"
+  }
+}

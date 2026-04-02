@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "consultar"
+  },
+  "InfP": {
+    "1s": "consultar",
+    "2s": "consultares",
+    "3s": "consultar",
+    "1p": "consultarmos",
+    "2p": "consultardes",
+    "3p": "consultarem"
+  },
+  "Ger": {
+    "": "consultando"
+  },
+  "PresI": {
+    "1s": "consulto",
+    "2s": "consultas",
+    "3s": "consulta",
+    "1p": "consultamos",
+    "2p": "consultais",
+    "3p": "consultam"
+  },
+  "PImpI": {
+    "1s": "consultava",
+    "2s": "consultavas",
+    "3s": "consultava",
+    "1p": "consultávamos",
+    "2p": "consultáveis",
+    "3p": "consultavam"
+  },
+  "PPSI": {
+    "1s": "consultei",
+    "2s": "consultaste",
+    "3s": "consultou",
+    "1p": "consultámos",
+    "2p": "consultastes",
+    "3p": "consultaram"
+  },
+  "PMQPSI": {
+    "1s": "consultara",
+    "2s": "consultaras",
+    "3s": "consultara",
+    "1p": "consultáramos",
+    "2p": "consultáreis",
+    "3p": "consultaram"
+  },
+  "FutSI": {
+    "1s": "consultarei",
+    "2s": "consultarás",
+    "3s": "consultará",
+    "1p": "consultaremos",
+    "2p": "consultareis",
+    "3p": "consultarão"
+  },
+  "CondS": {
+    "1s": "consultaria",
+    "2s": "consultarias",
+    "3s": "consultaria",
+    "1p": "consultaríamos",
+    "2p": "consultaríeis",
+    "3p": "consultariam"
+  },
+  "PresC": {
+    "1s": "consulte",
+    "2s": "consultes",
+    "3s": "consulte",
+    "1p": "consultemos",
+    "2p": "consulteis",
+    "3p": "consultem"
+  },
+  "PImpC": {
+    "1s": "consultasse",
+    "2s": "consultasses",
+    "3s": "consultasse",
+    "1p": "consultássemos",
+    "2p": "consultásseis",
+    "3p": "consultassem"
+  },
+  "FutSC": {
+    "1s": "consultar",
+    "2s": "consultares",
+    "3s": "consultar",
+    "1p": "consultarmos",
+    "2p": "consultardes",
+    "3p": "consultarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consulta",
+    "3s": "consulte",
+    "1p": "consultemos",
+    "2p": "consultai",
+    "3p": "consultem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não consultes",
+    "3s": "não consulte",
+    "1p": "não consultemos",
+    "2p": "não consulteis",
+    "3p": "não consultem"
+  },
+  "Part-ter": {
+    "": "consultado"
+  },
+  "Part-ser": {
+    "ms": "consultado",
+    "fs": "consultada",
+    "mp": "consultados",
+    "fp": "consultadas"
+  }
+}

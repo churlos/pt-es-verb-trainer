@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "barbar"
+  },
+  "Ger": {
+    "": "barbando"
+  },
+  "PresI": {
+    "1s": "barbo",
+    "2s": "barbas",
+    "3s": "barba",
+    "1p": "barbamos",
+    "2p": "barbáis",
+    "3p": "barban"
+  },
+  "PImpI": {
+    "1s": "barbaba",
+    "2s": "barbabas",
+    "3s": "barbaba",
+    "1p": "barbábamos",
+    "2p": "barbabais",
+    "3p": "barbaban"
+  },
+  "PPSI": {
+    "1s": "barbé",
+    "2s": "barbaste",
+    "3s": "barbó",
+    "1p": "barbamos",
+    "2p": "barbasteis",
+    "3p": "barbaron"
+  },
+  "FutSI": {
+    "1s": "barbaré",
+    "2s": "barbarás",
+    "3s": "barbará",
+    "1p": "barbaremos",
+    "2p": "barbaréis",
+    "3p": "barbarán"
+  },
+  "CondS": {
+    "1s": "barbaría",
+    "2s": "barbarías",
+    "3s": "barbaría",
+    "1p": "barbaríamos",
+    "2p": "barbaríais",
+    "3p": "barbarían"
+  },
+  "PresC": {
+    "1s": "barbe",
+    "2s": "barbes",
+    "3s": "barbe",
+    "1p": "barbemos",
+    "2p": "barbéis",
+    "3p": "barben"
+  },
+  "PMQPSI": {
+    "1s": "barbara",
+    "2s": "barbaras",
+    "3s": "barbara",
+    "1p": "barbáramos",
+    "2p": "barbarais",
+    "3p": "barbaran"
+  },
+  "PImpC": {
+    "1s": "barbase",
+    "2s": "barbases",
+    "3s": "barbase",
+    "1p": "barbásemos",
+    "2p": "barbaseis",
+    "3p": "barbasen"
+  },
+  "FutSC": {
+    "1s": "barbare",
+    "2s": "barbares",
+    "3s": "barbare",
+    "1p": "barbáremos",
+    "2p": "barbareis",
+    "3p": "barbaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barba",
+    "3s": "barbe",
+    "1p": "barbemos",
+    "2p": "barbad",
+    "3p": "barben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no barbes",
+    "3s": "no barbe",
+    "1p": "no barbemos",
+    "2p": "no barbéis",
+    "3p": "no barben"
+  },
+  "Part-ter": {
+    "": "barbado"
+  },
+  "Part-ser": {
+    "ms": "barbado",
+    "fs": "barbada",
+    "mp": "barbados",
+    "fp": "barbadas"
+  }
+}

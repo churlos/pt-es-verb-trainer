@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recambiar"
+  },
+  "Ger": {
+    "": "recambiando"
+  },
+  "PresI": {
+    "1s": "recambio",
+    "2s": "recambias",
+    "3s": "recambia",
+    "1p": "recambiamos",
+    "2p": "recambiáis",
+    "3p": "recambian"
+  },
+  "PImpI": {
+    "1s": "recambiaba",
+    "2s": "recambiabas",
+    "3s": "recambiaba",
+    "1p": "recambiábamos",
+    "2p": "recambiabais",
+    "3p": "recambiaban"
+  },
+  "PPSI": {
+    "1s": "recambié",
+    "2s": "recambiaste",
+    "3s": "recambió",
+    "1p": "recambiamos",
+    "2p": "recambiasteis",
+    "3p": "recambiaron"
+  },
+  "FutSI": {
+    "1s": "recambiaré",
+    "2s": "recambiarás",
+    "3s": "recambiará",
+    "1p": "recambiaremos",
+    "2p": "recambiaréis",
+    "3p": "recambiarán"
+  },
+  "CondS": {
+    "1s": "recambiaría",
+    "2s": "recambiarías",
+    "3s": "recambiaría",
+    "1p": "recambiaríamos",
+    "2p": "recambiaríais",
+    "3p": "recambiarían"
+  },
+  "PresC": {
+    "1s": "recambie",
+    "2s": "recambies",
+    "3s": "recambie",
+    "1p": "recambiemos",
+    "2p": "recambiéis",
+    "3p": "recambien"
+  },
+  "PMQPSI": {
+    "1s": "recambiara",
+    "2s": "recambiaras",
+    "3s": "recambiara",
+    "1p": "recambiáramos",
+    "2p": "recambiarais",
+    "3p": "recambiaran"
+  },
+  "PImpC": {
+    "1s": "recambiase",
+    "2s": "recambiases",
+    "3s": "recambiase",
+    "1p": "recambiásemos",
+    "2p": "recambiaseis",
+    "3p": "recambiasen"
+  },
+  "FutSC": {
+    "1s": "recambiare",
+    "2s": "recambiares",
+    "3s": "recambiare",
+    "1p": "recambiáremos",
+    "2p": "recambiareis",
+    "3p": "recambiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recambia",
+    "3s": "recambie",
+    "1p": "recambiemos",
+    "2p": "recambiad",
+    "3p": "recambien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recambies",
+    "3s": "no recambie",
+    "1p": "no recambiemos",
+    "2p": "no recambiéis",
+    "3p": "no recambien"
+  },
+  "Part-ter": {
+    "": "recambiado"
+  },
+  "Part-ser": {
+    "ms": "recambiado",
+    "fs": "recambiada",
+    "mp": "recambiados",
+    "fp": "recambiadas"
+  }
+}

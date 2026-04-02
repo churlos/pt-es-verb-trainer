@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "guerrear"
+  },
+  "Ger": {
+    "": "guerreando"
+  },
+  "PresI": {
+    "1s": "guerreo",
+    "2s": "guerreas",
+    "3s": "guerrea",
+    "1p": "guerreamos",
+    "2p": "guerreáis",
+    "3p": "guerrean"
+  },
+  "PImpI": {
+    "1s": "guerreaba",
+    "2s": "guerreabas",
+    "3s": "guerreaba",
+    "1p": "guerreábamos",
+    "2p": "guerreabais",
+    "3p": "guerreaban"
+  },
+  "PPSI": {
+    "1s": "guerreé",
+    "2s": "guerreaste",
+    "3s": "guerreó",
+    "1p": "guerreamos",
+    "2p": "guerreasteis",
+    "3p": "guerrearon"
+  },
+  "FutSI": {
+    "1s": "guerrearé",
+    "2s": "guerrearás",
+    "3s": "guerreará",
+    "1p": "guerrearemos",
+    "2p": "guerrearéis",
+    "3p": "guerrearán"
+  },
+  "CondS": {
+    "1s": "guerrearía",
+    "2s": "guerrearías",
+    "3s": "guerrearía",
+    "1p": "guerrearíamos",
+    "2p": "guerrearíais",
+    "3p": "guerrearían"
+  },
+  "PresC": {
+    "1s": "guerree",
+    "2s": "guerrees",
+    "3s": "guerree",
+    "1p": "guerreemos",
+    "2p": "guerreéis",
+    "3p": "guerreen"
+  },
+  "PMQPSI": {
+    "1s": "guerreara",
+    "2s": "guerrearas",
+    "3s": "guerreara",
+    "1p": "guerreáramos",
+    "2p": "guerrearais",
+    "3p": "guerrearan"
+  },
+  "PImpC": {
+    "1s": "guerrease",
+    "2s": "guerreases",
+    "3s": "guerrease",
+    "1p": "guerreásemos",
+    "2p": "guerreaseis",
+    "3p": "guerreasen"
+  },
+  "FutSC": {
+    "1s": "guerreare",
+    "2s": "guerreares",
+    "3s": "guerreare",
+    "1p": "guerreáremos",
+    "2p": "guerreareis",
+    "3p": "guerrearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guerrea",
+    "3s": "guerree",
+    "1p": "guerreemos",
+    "2p": "guerread",
+    "3p": "guerreen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no guerrees",
+    "3s": "no guerree",
+    "1p": "no guerreemos",
+    "2p": "no guerreéis",
+    "3p": "no guerreen"
+  },
+  "Part-ter": {
+    "": "guerreado"
+  },
+  "Part-ser": {
+    "ms": "guerreado",
+    "fs": "guerreada",
+    "mp": "guerreados",
+    "fp": "guerreadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "halagar"
+  },
+  "Ger": {
+    "": "halagando"
+  },
+  "PresI": {
+    "1s": "halago",
+    "2s": "halagas",
+    "3s": "halaga",
+    "1p": "halagamos",
+    "2p": "halagáis",
+    "3p": "halagan"
+  },
+  "PImpI": {
+    "1s": "halagaba",
+    "2s": "halagabas",
+    "3s": "halagaba",
+    "1p": "halagábamos",
+    "2p": "halagabais",
+    "3p": "halagaban"
+  },
+  "PPSI": {
+    "1s": "halagué",
+    "2s": "halagaste",
+    "3s": "halagó",
+    "1p": "halagamos",
+    "2p": "halagasteis",
+    "3p": "halagaron"
+  },
+  "FutSI": {
+    "1s": "halagaré",
+    "2s": "halagarás",
+    "3s": "halagará",
+    "1p": "halagaremos",
+    "2p": "halagaréis",
+    "3p": "halagarán"
+  },
+  "CondS": {
+    "1s": "halagaría",
+    "2s": "halagarías",
+    "3s": "halagaría",
+    "1p": "halagaríamos",
+    "2p": "halagaríais",
+    "3p": "halagarían"
+  },
+  "PresC": {
+    "1s": "halague",
+    "2s": "halagues",
+    "3s": "halague",
+    "1p": "halaguemos",
+    "2p": "halaguéis",
+    "3p": "halaguen"
+  },
+  "PMQPSI": {
+    "1s": "halagara",
+    "2s": "halagaras",
+    "3s": "halagara",
+    "1p": "halagáramos",
+    "2p": "halagarais",
+    "3p": "halagaran"
+  },
+  "PImpC": {
+    "1s": "halagase",
+    "2s": "halagases",
+    "3s": "halagase",
+    "1p": "halagásemos",
+    "2p": "halagaseis",
+    "3p": "halagasen"
+  },
+  "FutSC": {
+    "1s": "halagare",
+    "2s": "halagares",
+    "3s": "halagare",
+    "1p": "halagáremos",
+    "2p": "halagareis",
+    "3p": "halagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "halaga",
+    "3s": "halague",
+    "1p": "halaguemos",
+    "2p": "halagad",
+    "3p": "halaguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no halagues",
+    "3s": "no halague",
+    "1p": "no halaguemos",
+    "2p": "no halaguéis",
+    "3p": "no halaguen"
+  },
+  "Part-ter": {
+    "": "halagado"
+  },
+  "Part-ser": {
+    "ms": "halagado",
+    "fs": "halagada",
+    "mp": "halagados",
+    "fp": "halagadas"
+  }
+}

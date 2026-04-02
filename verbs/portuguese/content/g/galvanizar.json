@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "galvanizar"
+  },
+  "InfP": {
+    "1s": "galvanizar",
+    "2s": "galvanizares",
+    "3s": "galvanizar",
+    "1p": "galvanizarmos",
+    "2p": "galvanizardes",
+    "3p": "galvanizarem"
+  },
+  "Ger": {
+    "": "galvanizando"
+  },
+  "PresI": {
+    "1s": "galvanizo",
+    "2s": "galvanizas",
+    "3s": "galvaniza",
+    "1p": "galvanizamos",
+    "2p": "galvanizais",
+    "3p": "galvanizam"
+  },
+  "PImpI": {
+    "1s": "galvanizava",
+    "2s": "galvanizavas",
+    "3s": "galvanizava",
+    "1p": "galvanizávamos",
+    "2p": "galvanizáveis",
+    "3p": "galvanizavam"
+  },
+  "PPSI": {
+    "1s": "galvanizei",
+    "2s": "galvanizaste",
+    "3s": "galvanizou",
+    "1p": "galvanizámos",
+    "2p": "galvanizastes",
+    "3p": "galvanizaram"
+  },
+  "PMQPSI": {
+    "1s": "galvanizara",
+    "2s": "galvanizaras",
+    "3s": "galvanizara",
+    "1p": "galvanizáramos",
+    "2p": "galvanizáreis",
+    "3p": "galvanizaram"
+  },
+  "FutSI": {
+    "1s": "galvanizarei",
+    "2s": "galvanizarás",
+    "3s": "galvanizará",
+    "1p": "galvanizaremos",
+    "2p": "galvanizareis",
+    "3p": "galvanizarão"
+  },
+  "CondS": {
+    "1s": "galvanizaria",
+    "2s": "galvanizarias",
+    "3s": "galvanizaria",
+    "1p": "galvanizaríamos",
+    "2p": "galvanizaríeis",
+    "3p": "galvanizariam"
+  },
+  "PresC": {
+    "1s": "galvanize",
+    "2s": "galvanizes",
+    "3s": "galvanize",
+    "1p": "galvanizemos",
+    "2p": "galvanizeis",
+    "3p": "galvanizem"
+  },
+  "PImpC": {
+    "1s": "galvanizasse",
+    "2s": "galvanizasses",
+    "3s": "galvanizasse",
+    "1p": "galvanizássemos",
+    "2p": "galvanizásseis",
+    "3p": "galvanizassem"
+  },
+  "FutSC": {
+    "1s": "galvanizar",
+    "2s": "galvanizares",
+    "3s": "galvanizar",
+    "1p": "galvanizarmos",
+    "2p": "galvanizardes",
+    "3p": "galvanizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "galvaniza",
+    "3s": "galvanize",
+    "1p": "galvanizemos",
+    "2p": "galvanizai",
+    "3p": "galvanizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não galvanizes",
+    "3s": "não galvanize",
+    "1p": "não galvanizemos",
+    "2p": "não galvanizeis",
+    "3p": "não galvanizem"
+  },
+  "Part-ter": {
+    "": "galvanizado"
+  },
+  "Part-ser": {
+    "ms": "galvanizado",
+    "fs": "galvanizada",
+    "mp": "galvanizados",
+    "fp": "galvanizadas"
+  }
+}

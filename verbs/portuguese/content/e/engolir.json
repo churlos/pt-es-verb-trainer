@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "engolir"
+  },
+  "InfP": {
+    "1s": "engolir",
+    "2s": "engolires",
+    "3s": "engolir",
+    "1p": "engolirmos",
+    "2p": "engolirdes",
+    "3p": "engolirem"
+  },
+  "Ger": {
+    "": "engolindo"
+  },
+  "PresI": {
+    "1s": "engulo",
+    "2s": "engoles",
+    "3s": "engole",
+    "1p": "engolimos",
+    "2p": "engolis",
+    "3p": "engolem"
+  },
+  "PImpI": {
+    "1s": "engolia",
+    "2s": "engolias",
+    "3s": "engolia",
+    "1p": "engolíamos",
+    "2p": "engolíeis",
+    "3p": "engoliam"
+  },
+  "PPSI": {
+    "1s": "engoli",
+    "2s": "engoliste",
+    "3s": "engoliu",
+    "1p": "engolimos",
+    "2p": "engolistes",
+    "3p": "engoliram"
+  },
+  "PMQPSI": {
+    "1s": "engolira",
+    "2s": "engoliras",
+    "3s": "engolira",
+    "1p": "engolíramos",
+    "2p": "engolíreis",
+    "3p": "engoliram"
+  },
+  "FutSI": {
+    "1s": "engolirei",
+    "2s": "engolirás",
+    "3s": "engolirá",
+    "1p": "engoliremos",
+    "2p": "engolireis",
+    "3p": "engolirão"
+  },
+  "CondS": {
+    "1s": "engoliria",
+    "2s": "engolirias",
+    "3s": "engoliria",
+    "1p": "engoliríamos",
+    "2p": "engoliríeis",
+    "3p": "engoliriam"
+  },
+  "PresC": {
+    "1s": "engula",
+    "2s": "engulas",
+    "3s": "engula",
+    "1p": "engulamos",
+    "2p": "engulais",
+    "3p": "engulam"
+  },
+  "PImpC": {
+    "1s": "engolisse",
+    "2s": "engolisses",
+    "3s": "engolisse",
+    "1p": "engolíssemos",
+    "2p": "engolísseis",
+    "3p": "engolissem"
+  },
+  "FutSC": {
+    "1s": "engolir",
+    "2s": "engolires",
+    "3s": "engolir",
+    "1p": "engolirmos",
+    "2p": "engolirdes",
+    "3p": "engolirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "engole",
+    "3s": "engula",
+    "1p": "engulamos",
+    "2p": "engoli",
+    "3p": "engulam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não engulas",
+    "3s": "não engula",
+    "1p": "não engulamos",
+    "2p": "não engulais",
+    "3p": "não engulam"
+  },
+  "Part-ter": {
+    "": "engolido"
+  },
+  "Part-ser": {
+    "ms": "engolido",
+    "fs": "engolida",
+    "mp": "engolidos",
+    "fp": "engolidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "legalizar"
+  },
+  "InfP": {
+    "1s": "legalizar",
+    "2s": "legalizares",
+    "3s": "legalizar",
+    "1p": "legalizarmos",
+    "2p": "legalizardes",
+    "3p": "legalizarem"
+  },
+  "Ger": {
+    "": "legalizando"
+  },
+  "PresI": {
+    "1s": "legalizo",
+    "2s": "legalizas",
+    "3s": "legaliza",
+    "1p": "legalizamos",
+    "2p": "legalizais",
+    "3p": "legalizam"
+  },
+  "PImpI": {
+    "1s": "legalizava",
+    "2s": "legalizavas",
+    "3s": "legalizava",
+    "1p": "legalizávamos",
+    "2p": "legalizáveis",
+    "3p": "legalizavam"
+  },
+  "PPSI": {
+    "1s": "legalizei",
+    "2s": "legalizaste",
+    "3s": "legalizou",
+    "1p": "legalizámos",
+    "2p": "legalizastes",
+    "3p": "legalizaram"
+  },
+  "PMQPSI": {
+    "1s": "legalizara",
+    "2s": "legalizaras",
+    "3s": "legalizara",
+    "1p": "legalizáramos",
+    "2p": "legalizáreis",
+    "3p": "legalizaram"
+  },
+  "FutSI": {
+    "1s": "legalizarei",
+    "2s": "legalizarás",
+    "3s": "legalizará",
+    "1p": "legalizaremos",
+    "2p": "legalizareis",
+    "3p": "legalizarão"
+  },
+  "CondS": {
+    "1s": "legalizaria",
+    "2s": "legalizarias",
+    "3s": "legalizaria",
+    "1p": "legalizaríamos",
+    "2p": "legalizaríeis",
+    "3p": "legalizariam"
+  },
+  "PresC": {
+    "1s": "legalize",
+    "2s": "legalizes",
+    "3s": "legalize",
+    "1p": "legalizemos",
+    "2p": "legalizeis",
+    "3p": "legalizem"
+  },
+  "PImpC": {
+    "1s": "legalizasse",
+    "2s": "legalizasses",
+    "3s": "legalizasse",
+    "1p": "legalizássemos",
+    "2p": "legalizásseis",
+    "3p": "legalizassem"
+  },
+  "FutSC": {
+    "1s": "legalizar",
+    "2s": "legalizares",
+    "3s": "legalizar",
+    "1p": "legalizarmos",
+    "2p": "legalizardes",
+    "3p": "legalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "legaliza",
+    "3s": "legalize",
+    "1p": "legalizemos",
+    "2p": "legalizai",
+    "3p": "legalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não legalizes",
+    "3s": "não legalize",
+    "1p": "não legalizemos",
+    "2p": "não legalizeis",
+    "3p": "não legalizem"
+  },
+  "Part-ter": {
+    "": "legalizado"
+  },
+  "Part-ser": {
+    "ms": "legalizado",
+    "fs": "legalizada",
+    "mp": "legalizados",
+    "fp": "legalizadas"
+  }
+}

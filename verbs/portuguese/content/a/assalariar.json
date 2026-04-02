@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "assalariar"
+  },
+  "InfP": {
+    "1s": "assalariar",
+    "2s": "assalariares",
+    "3s": "assalariar",
+    "1p": "assalariarmos",
+    "2p": "assalariardes",
+    "3p": "assalariarem"
+  },
+  "Ger": {
+    "": "assalariando"
+  },
+  "PresI": {
+    "1s": "assalario",
+    "2s": "assalarias",
+    "3s": "assalaria",
+    "1p": "assalariamos",
+    "2p": "assalariais",
+    "3p": "assalariam"
+  },
+  "PImpI": {
+    "1s": "assalariava",
+    "2s": "assalariavas",
+    "3s": "assalariava",
+    "1p": "assalariávamos",
+    "2p": "assalariáveis",
+    "3p": "assalariavam"
+  },
+  "PPSI": {
+    "1s": "assalariei",
+    "2s": "assalariaste",
+    "3s": "assalariou",
+    "1p": "assalariámos",
+    "2p": "assalariastes",
+    "3p": "assalariaram"
+  },
+  "PMQPSI": {
+    "1s": "assalariara",
+    "2s": "assalariaras",
+    "3s": "assalariara",
+    "1p": "assalariáramos",
+    "2p": "assalariáreis",
+    "3p": "assalariaram"
+  },
+  "FutSI": {
+    "1s": "assalariarei",
+    "2s": "assalariarás",
+    "3s": "assalariará",
+    "1p": "assalariaremos",
+    "2p": "assalariareis",
+    "3p": "assalariarão"
+  },
+  "CondS": {
+    "1s": "assalariaria",
+    "2s": "assalariarias",
+    "3s": "assalariaria",
+    "1p": "assalariaríamos",
+    "2p": "assalariaríeis",
+    "3p": "assalariariam"
+  },
+  "PresC": {
+    "1s": "assalarie",
+    "2s": "assalaries",
+    "3s": "assalarie",
+    "1p": "assalariemos",
+    "2p": "assalarieis",
+    "3p": "assalariem"
+  },
+  "PImpC": {
+    "1s": "assalariasse",
+    "2s": "assalariasses",
+    "3s": "assalariasse",
+    "1p": "assalariássemos",
+    "2p": "assalariásseis",
+    "3p": "assalariassem"
+  },
+  "FutSC": {
+    "1s": "assalariar",
+    "2s": "assalariares",
+    "3s": "assalariar",
+    "1p": "assalariarmos",
+    "2p": "assalariardes",
+    "3p": "assalariarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "assalaria",
+    "3s": "assalarie",
+    "1p": "assalariemos",
+    "2p": "assalariai",
+    "3p": "assalariem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não assalaries",
+    "3s": "não assalarie",
+    "1p": "não assalariemos",
+    "2p": "não assalarieis",
+    "3p": "não assalariem"
+  },
+  "Part-ter": {
+    "": "assalariado"
+  },
+  "Part-ser": {
+    "ms": "assalariado",
+    "fs": "assalariada",
+    "mp": "assalariados",
+    "fp": "assalariadas"
+  }
+}

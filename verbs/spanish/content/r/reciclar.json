@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reciclar"
+  },
+  "Ger": {
+    "": "reciclando"
+  },
+  "PresI": {
+    "1s": "reciclo",
+    "2s": "reciclas",
+    "3s": "recicla",
+    "1p": "reciclamos",
+    "2p": "recicláis",
+    "3p": "reciclan"
+  },
+  "PImpI": {
+    "1s": "reciclaba",
+    "2s": "reciclabas",
+    "3s": "reciclaba",
+    "1p": "reciclábamos",
+    "2p": "reciclabais",
+    "3p": "reciclaban"
+  },
+  "PPSI": {
+    "1s": "reciclé",
+    "2s": "reciclaste",
+    "3s": "recicló",
+    "1p": "reciclamos",
+    "2p": "reciclasteis",
+    "3p": "reciclaron"
+  },
+  "FutSI": {
+    "1s": "reciclaré",
+    "2s": "reciclarás",
+    "3s": "reciclará",
+    "1p": "reciclaremos",
+    "2p": "reciclaréis",
+    "3p": "reciclarán"
+  },
+  "CondS": {
+    "1s": "reciclaría",
+    "2s": "reciclarías",
+    "3s": "reciclaría",
+    "1p": "reciclaríamos",
+    "2p": "reciclaríais",
+    "3p": "reciclarían"
+  },
+  "PresC": {
+    "1s": "recicle",
+    "2s": "recicles",
+    "3s": "recicle",
+    "1p": "reciclemos",
+    "2p": "recicléis",
+    "3p": "reciclen"
+  },
+  "PMQPSI": {
+    "1s": "reciclara",
+    "2s": "reciclaras",
+    "3s": "reciclara",
+    "1p": "recicláramos",
+    "2p": "reciclarais",
+    "3p": "reciclaran"
+  },
+  "PImpC": {
+    "1s": "reciclase",
+    "2s": "reciclases",
+    "3s": "reciclase",
+    "1p": "reciclásemos",
+    "2p": "reciclaseis",
+    "3p": "reciclasen"
+  },
+  "FutSC": {
+    "1s": "reciclare",
+    "2s": "reciclares",
+    "3s": "reciclare",
+    "1p": "recicláremos",
+    "2p": "reciclareis",
+    "3p": "reciclaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recicla",
+    "3s": "recicle",
+    "1p": "reciclemos",
+    "2p": "reciclad",
+    "3p": "reciclen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recicles",
+    "3s": "no recicle",
+    "1p": "no reciclemos",
+    "2p": "no recicléis",
+    "3p": "no reciclen"
+  },
+  "Part-ter": {
+    "": "reciclado"
+  },
+  "Part-ser": {
+    "ms": "reciclado",
+    "fs": "reciclada",
+    "mp": "reciclados",
+    "fp": "recicladas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tabicar"
+  },
+  "Ger": {
+    "": "tabicando"
+  },
+  "PresI": {
+    "1s": "tabico",
+    "2s": "tabicas",
+    "3s": "tabica",
+    "1p": "tabicamos",
+    "2p": "tabicáis",
+    "3p": "tabican"
+  },
+  "PImpI": {
+    "1s": "tabicaba",
+    "2s": "tabicabas",
+    "3s": "tabicaba",
+    "1p": "tabicábamos",
+    "2p": "tabicabais",
+    "3p": "tabicaban"
+  },
+  "PPSI": {
+    "1s": "tabiqué",
+    "2s": "tabicaste",
+    "3s": "tabicó",
+    "1p": "tabicamos",
+    "2p": "tabicasteis",
+    "3p": "tabicaron"
+  },
+  "FutSI": {
+    "1s": "tabicaré",
+    "2s": "tabicarás",
+    "3s": "tabicará",
+    "1p": "tabicaremos",
+    "2p": "tabicaréis",
+    "3p": "tabicarán"
+  },
+  "CondS": {
+    "1s": "tabicaría",
+    "2s": "tabicarías",
+    "3s": "tabicaría",
+    "1p": "tabicaríamos",
+    "2p": "tabicaríais",
+    "3p": "tabicarían"
+  },
+  "PresC": {
+    "1s": "tabique",
+    "2s": "tabiques",
+    "3s": "tabique",
+    "1p": "tabiquemos",
+    "2p": "tabiquéis",
+    "3p": "tabiquen"
+  },
+  "PMQPSI": {
+    "1s": "tabicara",
+    "2s": "tabicaras",
+    "3s": "tabicara",
+    "1p": "tabicáramos",
+    "2p": "tabicarais",
+    "3p": "tabicaran"
+  },
+  "PImpC": {
+    "1s": "tabicase",
+    "2s": "tabicases",
+    "3s": "tabicase",
+    "1p": "tabicásemos",
+    "2p": "tabicaseis",
+    "3p": "tabicasen"
+  },
+  "FutSC": {
+    "1s": "tabicare",
+    "2s": "tabicares",
+    "3s": "tabicare",
+    "1p": "tabicáremos",
+    "2p": "tabicareis",
+    "3p": "tabicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tabica",
+    "3s": "tabique",
+    "1p": "tabiquemos",
+    "2p": "tabicad",
+    "3p": "tabiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tabiques",
+    "3s": "no tabique",
+    "1p": "no tabiquemos",
+    "2p": "no tabiquéis",
+    "3p": "no tabiquen"
+  },
+  "Part-ter": {
+    "": "tabicado"
+  },
+  "Part-ser": {
+    "ms": "tabicado",
+    "fs": "tabicada",
+    "mp": "tabicados",
+    "fp": "tabicadas"
+  }
+}

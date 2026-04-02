@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "volverse"
+  },
+  "Ger": {
+    "": "volviéndose"
+  },
+  "PresI": {
+    "1s": "me vuelvo",
+    "2s": "te vuelves",
+    "3s": "se vuelve",
+    "1p": "nos volvemos",
+    "2p": "os volvéis",
+    "3p": "se vuelven"
+  },
+  "PImpI": {
+    "1s": "me volvía",
+    "2s": "te volvías",
+    "3s": "se volvía",
+    "1p": "nos volvíamos",
+    "2p": "os volvíais",
+    "3p": "se volvían"
+  },
+  "PPSI": {
+    "1s": "me volví",
+    "2s": "te volviste",
+    "3s": "se volvió",
+    "1p": "nos volvimos",
+    "2p": "os volvisteis",
+    "3p": "se volvieron"
+  },
+  "FutSI": {
+    "1s": "me volveré",
+    "2s": "te volverás",
+    "3s": "se volverá",
+    "1p": "nos volveremos",
+    "2p": "os volveréis",
+    "3p": "se volverán"
+  },
+  "CondS": {
+    "1s": "me volvería",
+    "2s": "te volverías",
+    "3s": "se volvería",
+    "1p": "nos volveríamos",
+    "2p": "os volveríais",
+    "3p": "se volverían"
+  },
+  "PresC": {
+    "1s": "me vuelva",
+    "2s": "te vuelvas",
+    "3s": "se vuelva",
+    "1p": "nos volvamos",
+    "2p": "os volváis",
+    "3p": "se vuelvan"
+  },
+  "PMQPSI": {
+    "1s": "me volviera",
+    "2s": "te volvieras",
+    "3s": "se volviera",
+    "1p": "nos volviéramos",
+    "2p": "os volvierais",
+    "3p": "se volvieran"
+  },
+  "PImpC": {
+    "1s": "me volviese",
+    "2s": "te volvieses",
+    "3s": "se volviese",
+    "1p": "nos volviésemos",
+    "2p": "os volvieseis",
+    "3p": "se volviesen"
+  },
+  "FutSC": {
+    "1s": "me volviere",
+    "2s": "te volvieres",
+    "3s": "se volviere",
+    "1p": "nos volviéremos",
+    "2p": "os volviereis",
+    "3p": "se volvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vuélvete",
+    "3s": "vuélvase",
+    "1p": "volvámonos",
+    "2p": "volveos",
+    "3p": "vuélvanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te vuelvas",
+    "3s": "no se vuelva",
+    "1p": "no nos volvamos",
+    "2p": "no os volváis",
+    "3p": "no se vuelvan"
+  },
+  "Part-ter": {
+    "": "vuelto"
+  },
+  "Part-ser": {
+    "ms": "vuelto",
+    "fs": "vuelta",
+    "mp": "vueltos",
+    "fp": "vueltas"
+  }
+}

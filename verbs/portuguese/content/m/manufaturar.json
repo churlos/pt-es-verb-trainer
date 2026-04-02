@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manufaturar"
+  },
+  "InfP": {
+    "1s": "manufaturar",
+    "2s": "manufaturares",
+    "3s": "manufaturar",
+    "1p": "manufaturarmos",
+    "2p": "manufaturardes",
+    "3p": "manufaturarem"
+  },
+  "Ger": {
+    "": "manufaturando"
+  },
+  "PresI": {
+    "1s": "manufaturo",
+    "2s": "manufaturas",
+    "3s": "manufatura",
+    "1p": "manufaturamos",
+    "2p": "manufaturais",
+    "3p": "manufaturam"
+  },
+  "PImpI": {
+    "1s": "manufaturava",
+    "2s": "manufaturavas",
+    "3s": "manufaturava",
+    "1p": "manufaturávamos",
+    "2p": "manufaturáveis",
+    "3p": "manufaturavam"
+  },
+  "PPSI": {
+    "1s": "manufaturei",
+    "2s": "manufaturaste",
+    "3s": "manufaturou",
+    "1p": "manufaturámos",
+    "2p": "manufaturastes",
+    "3p": "manufaturaram"
+  },
+  "PMQPSI": {
+    "1s": "manufaturara",
+    "2s": "manufaturaras",
+    "3s": "manufaturara",
+    "1p": "manufaturáramos",
+    "2p": "manufaturáreis",
+    "3p": "manufaturaram"
+  },
+  "FutSI": {
+    "1s": "manufaturarei",
+    "2s": "manufaturarás",
+    "3s": "manufaturará",
+    "1p": "manufaturaremos",
+    "2p": "manufaturareis",
+    "3p": "manufaturarão"
+  },
+  "CondS": {
+    "1s": "manufaturaria",
+    "2s": "manufaturarias",
+    "3s": "manufaturaria",
+    "1p": "manufaturaríamos",
+    "2p": "manufaturaríeis",
+    "3p": "manufaturariam"
+  },
+  "PresC": {
+    "1s": "manufature",
+    "2s": "manufatures",
+    "3s": "manufature",
+    "1p": "manufaturemos",
+    "2p": "manufatureis",
+    "3p": "manufaturem"
+  },
+  "PImpC": {
+    "1s": "manufaturasse",
+    "2s": "manufaturasses",
+    "3s": "manufaturasse",
+    "1p": "manufaturássemos",
+    "2p": "manufaturásseis",
+    "3p": "manufaturassem"
+  },
+  "FutSC": {
+    "1s": "manufaturar",
+    "2s": "manufaturares",
+    "3s": "manufaturar",
+    "1p": "manufaturarmos",
+    "2p": "manufaturardes",
+    "3p": "manufaturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "manufatura",
+    "3s": "manufature",
+    "1p": "manufaturemos",
+    "2p": "manufaturai",
+    "3p": "manufaturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manufatures",
+    "3s": "não manufature",
+    "1p": "não manufaturemos",
+    "2p": "não manufatureis",
+    "3p": "não manufaturem"
+  },
+  "Part-ter": {
+    "": "manufaturado"
+  },
+  "Part-ser": {
+    "ms": "manufaturado",
+    "fs": "manufaturada",
+    "mp": "manufaturados",
+    "fp": "manufaturadas"
+  }
+}

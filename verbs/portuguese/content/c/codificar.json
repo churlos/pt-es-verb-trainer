@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "codificar"
+  },
+  "InfP": {
+    "1s": "codificar",
+    "2s": "codificares",
+    "3s": "codificar",
+    "1p": "codificarmos",
+    "2p": "codificardes",
+    "3p": "codificarem"
+  },
+  "Ger": {
+    "": "codificando"
+  },
+  "PresI": {
+    "1s": "codifico",
+    "2s": "codificas",
+    "3s": "codifica",
+    "1p": "codificamos",
+    "2p": "codificais",
+    "3p": "codificam"
+  },
+  "PImpI": {
+    "1s": "codificava",
+    "2s": "codificavas",
+    "3s": "codificava",
+    "1p": "codificávamos",
+    "2p": "codificáveis",
+    "3p": "codificavam"
+  },
+  "PPSI": {
+    "1s": "codifiquei",
+    "2s": "codificaste",
+    "3s": "codificou",
+    "1p": "codificámos",
+    "2p": "codificastes",
+    "3p": "codificaram"
+  },
+  "PMQPSI": {
+    "1s": "codificara",
+    "2s": "codificaras",
+    "3s": "codificara",
+    "1p": "codificáramos",
+    "2p": "codificáreis",
+    "3p": "codificaram"
+  },
+  "FutSI": {
+    "1s": "codificarei",
+    "2s": "codificarás",
+    "3s": "codificará",
+    "1p": "codificaremos",
+    "2p": "codificareis",
+    "3p": "codificarão"
+  },
+  "CondS": {
+    "1s": "codificaria",
+    "2s": "codificarias",
+    "3s": "codificaria",
+    "1p": "codificaríamos",
+    "2p": "codificaríeis",
+    "3p": "codificariam"
+  },
+  "PresC": {
+    "1s": "codifique",
+    "2s": "codifiques",
+    "3s": "codifique",
+    "1p": "codifiquemos",
+    "2p": "codifiqueis",
+    "3p": "codifiquem"
+  },
+  "PImpC": {
+    "1s": "codificasse",
+    "2s": "codificasses",
+    "3s": "codificasse",
+    "1p": "codificássemos",
+    "2p": "codificásseis",
+    "3p": "codificassem"
+  },
+  "FutSC": {
+    "1s": "codificar",
+    "2s": "codificares",
+    "3s": "codificar",
+    "1p": "codificarmos",
+    "2p": "codificardes",
+    "3p": "codificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "codifica",
+    "3s": "codifique",
+    "1p": "codifiquemos",
+    "2p": "codificai",
+    "3p": "codifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não codifiques",
+    "3s": "não codifique",
+    "1p": "não codifiquemos",
+    "2p": "não codifiqueis",
+    "3p": "não codifiquem"
+  },
+  "Part-ter": {
+    "": "codificado"
+  },
+  "Part-ser": {
+    "ms": "codificado",
+    "fs": "codificada",
+    "mp": "codificados",
+    "fp": "codificadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "chamar"
+  },
+  "InfP": {
+    "1s": "chamar",
+    "2s": "chamares",
+    "3s": "chamar",
+    "1p": "chamarmos",
+    "2p": "chamardes",
+    "3p": "chamarem"
+  },
+  "Ger": {
+    "": "chamando"
+  },
+  "PresI": {
+    "1s": "chamo",
+    "2s": "chamas",
+    "3s": "chama",
+    "1p": "chamamos",
+    "2p": "chamais",
+    "3p": "chamam"
+  },
+  "PImpI": {
+    "1s": "chamava",
+    "2s": "chamavas",
+    "3s": "chamava",
+    "1p": "chamávamos",
+    "2p": "chamáveis",
+    "3p": "chamavam"
+  },
+  "PPSI": {
+    "1s": "chamei",
+    "2s": "chamaste",
+    "3s": "chamou",
+    "1p": "chamámos",
+    "2p": "chamastes",
+    "3p": "chamaram"
+  },
+  "PMQPSI": {
+    "1s": "chamara",
+    "2s": "chamaras",
+    "3s": "chamara",
+    "1p": "chamáramos",
+    "2p": "chamáreis",
+    "3p": "chamaram"
+  },
+  "FutSI": {
+    "1s": "chamarei",
+    "2s": "chamarás",
+    "3s": "chamará",
+    "1p": "chamaremos",
+    "2p": "chamareis",
+    "3p": "chamarão"
+  },
+  "CondS": {
+    "1s": "chamaria",
+    "2s": "chamarias",
+    "3s": "chamaria",
+    "1p": "chamaríamos",
+    "2p": "chamaríeis",
+    "3p": "chamariam"
+  },
+  "PresC": {
+    "1s": "chame",
+    "2s": "chames",
+    "3s": "chame",
+    "1p": "chamemos",
+    "2p": "chameis",
+    "3p": "chamem"
+  },
+  "PImpC": {
+    "1s": "chamasse",
+    "2s": "chamasses",
+    "3s": "chamasse",
+    "1p": "chamássemos",
+    "2p": "chamásseis",
+    "3p": "chamassem"
+  },
+  "FutSC": {
+    "1s": "chamar",
+    "2s": "chamares",
+    "3s": "chamar",
+    "1p": "chamarmos",
+    "2p": "chamardes",
+    "3p": "chamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "chama",
+    "3s": "chame",
+    "1p": "chamemos",
+    "2p": "chamai",
+    "3p": "chamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não chames",
+    "3s": "não chame",
+    "1p": "não chamemos",
+    "2p": "não chameis",
+    "3p": "não chamem"
+  },
+  "Part-ter": {
+    "": "chamado"
+  },
+  "Part-ser": {
+    "ms": "chamado",
+    "fs": "chamada",
+    "mp": "chamados",
+    "fp": "chamadas"
+  }
+}

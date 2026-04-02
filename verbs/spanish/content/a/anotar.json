@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "anotar"
+  },
+  "Ger": {
+    "": "anotando"
+  },
+  "PresI": {
+    "1s": "anoto",
+    "2s": "anotas",
+    "3s": "anota",
+    "1p": "anotamos",
+    "2p": "anotáis",
+    "3p": "anotan"
+  },
+  "PImpI": {
+    "1s": "anotaba",
+    "2s": "anotabas",
+    "3s": "anotaba",
+    "1p": "anotábamos",
+    "2p": "anotabais",
+    "3p": "anotaban"
+  },
+  "PPSI": {
+    "1s": "anoté",
+    "2s": "anotaste",
+    "3s": "anotó",
+    "1p": "anotamos",
+    "2p": "anotasteis",
+    "3p": "anotaron"
+  },
+  "FutSI": {
+    "1s": "anotaré",
+    "2s": "anotarás",
+    "3s": "anotará",
+    "1p": "anotaremos",
+    "2p": "anotaréis",
+    "3p": "anotarán"
+  },
+  "CondS": {
+    "1s": "anotaría",
+    "2s": "anotarías",
+    "3s": "anotaría",
+    "1p": "anotaríamos",
+    "2p": "anotaríais",
+    "3p": "anotarían"
+  },
+  "PresC": {
+    "1s": "anote",
+    "2s": "anotes",
+    "3s": "anote",
+    "1p": "anotemos",
+    "2p": "anotéis",
+    "3p": "anoten"
+  },
+  "PMQPSI": {
+    "1s": "anotara",
+    "2s": "anotaras",
+    "3s": "anotara",
+    "1p": "anotáramos",
+    "2p": "anotarais",
+    "3p": "anotaran"
+  },
+  "PImpC": {
+    "1s": "anotase",
+    "2s": "anotases",
+    "3s": "anotase",
+    "1p": "anotásemos",
+    "2p": "anotaseis",
+    "3p": "anotasen"
+  },
+  "FutSC": {
+    "1s": "anotare",
+    "2s": "anotares",
+    "3s": "anotare",
+    "1p": "anotáremos",
+    "2p": "anotareis",
+    "3p": "anotaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anota",
+    "3s": "anote",
+    "1p": "anotemos",
+    "2p": "anotad",
+    "3p": "anoten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no anotes",
+    "3s": "no anote",
+    "1p": "no anotemos",
+    "2p": "no anotéis",
+    "3p": "no anoten"
+  },
+  "Part-ter": {
+    "": "anotado"
+  },
+  "Part-ser": {
+    "ms": "anotado",
+    "fs": "anotada",
+    "mp": "anotados",
+    "fp": "anotadas"
+  }
+}

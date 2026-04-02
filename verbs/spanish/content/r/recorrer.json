@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recorrer"
+  },
+  "Ger": {
+    "": "recorriendo"
+  },
+  "PresI": {
+    "1s": "recorro",
+    "2s": "recorres",
+    "3s": "recorre",
+    "1p": "recorremos",
+    "2p": "recorréis",
+    "3p": "recorren"
+  },
+  "PImpI": {
+    "1s": "recorría",
+    "2s": "recorrías",
+    "3s": "recorría",
+    "1p": "recorríamos",
+    "2p": "recorríais",
+    "3p": "recorrían"
+  },
+  "PPSI": {
+    "1s": "recorrí",
+    "2s": "recorriste",
+    "3s": "recorrió",
+    "1p": "recorrimos",
+    "2p": "recorristeis",
+    "3p": "recorrieron"
+  },
+  "FutSI": {
+    "1s": "recorreré",
+    "2s": "recorrerás",
+    "3s": "recorrerá",
+    "1p": "recorreremos",
+    "2p": "recorreréis",
+    "3p": "recorrerán"
+  },
+  "CondS": {
+    "1s": "recorrería",
+    "2s": "recorrerías",
+    "3s": "recorrería",
+    "1p": "recorreríamos",
+    "2p": "recorreríais",
+    "3p": "recorrerían"
+  },
+  "PresC": {
+    "1s": "recorra",
+    "2s": "recorras",
+    "3s": "recorra",
+    "1p": "recorramos",
+    "2p": "recorráis",
+    "3p": "recorran"
+  },
+  "PMQPSI": {
+    "1s": "recorriera",
+    "2s": "recorrieras",
+    "3s": "recorriera",
+    "1p": "recorriéramos",
+    "2p": "recorrierais",
+    "3p": "recorrieran"
+  },
+  "PImpC": {
+    "1s": "recorriese",
+    "2s": "recorrieses",
+    "3s": "recorriese",
+    "1p": "recorriésemos",
+    "2p": "recorrieseis",
+    "3p": "recorriesen"
+  },
+  "FutSC": {
+    "1s": "recorriere",
+    "2s": "recorrieres",
+    "3s": "recorriere",
+    "1p": "recorriéremos",
+    "2p": "recorriereis",
+    "3p": "recorrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recorre",
+    "3s": "recorra",
+    "1p": "recorramos",
+    "2p": "recorred",
+    "3p": "recorran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recorras",
+    "3s": "no recorra",
+    "1p": "no recorramos",
+    "2p": "no recorráis",
+    "3p": "no recorran"
+  },
+  "Part-ter": {
+    "": "recorrido"
+  },
+  "Part-ser": {
+    "ms": "recorrido",
+    "fs": "recorrida",
+    "mp": "recorridos",
+    "fp": "recorridas"
+  }
+}

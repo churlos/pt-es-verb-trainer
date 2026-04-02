@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conocer"
+  },
+  "Ger": {
+    "": "conociendo"
+  },
+  "PresI": {
+    "1s": "conozco",
+    "2s": "conoces",
+    "3s": "conoce",
+    "1p": "conocemos",
+    "2p": "conocéis",
+    "3p": "conocen"
+  },
+  "PImpI": {
+    "1s": "conocía",
+    "2s": "conocías",
+    "3s": "conocía",
+    "1p": "conocíamos",
+    "2p": "conocíais",
+    "3p": "conocían"
+  },
+  "PPSI": {
+    "1s": "conocí",
+    "2s": "conociste",
+    "3s": "conoció",
+    "1p": "conocimos",
+    "2p": "conocisteis",
+    "3p": "conocieron"
+  },
+  "FutSI": {
+    "1s": "conoceré",
+    "2s": "conocerás",
+    "3s": "conocerá",
+    "1p": "conoceremos",
+    "2p": "conoceréis",
+    "3p": "conocerán"
+  },
+  "CondS": {
+    "1s": "conocería",
+    "2s": "conocerías",
+    "3s": "conocería",
+    "1p": "conoceríamos",
+    "2p": "conoceríais",
+    "3p": "conocerían"
+  },
+  "PresC": {
+    "1s": "conozca",
+    "2s": "conozcas",
+    "3s": "conozca",
+    "1p": "conozcamos",
+    "2p": "conozcáis",
+    "3p": "conozcan"
+  },
+  "PMQPSI": {
+    "1s": "conociera",
+    "2s": "conocieras",
+    "3s": "conociera",
+    "1p": "conociéramos",
+    "2p": "conocierais",
+    "3p": "conocieran"
+  },
+  "PImpC": {
+    "1s": "conociese",
+    "2s": "conocieses",
+    "3s": "conociese",
+    "1p": "conociésemos",
+    "2p": "conocieseis",
+    "3p": "conociesen"
+  },
+  "FutSC": {
+    "1s": "conociere",
+    "2s": "conocieres",
+    "3s": "conociere",
+    "1p": "conociéremos",
+    "2p": "conociereis",
+    "3p": "conocieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conoce",
+    "3s": "conozca",
+    "1p": "conozcamos",
+    "2p": "conoced",
+    "3p": "conozcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conozcas",
+    "3s": "no conozca",
+    "1p": "no conozcamos",
+    "2p": "no conozcáis",
+    "3p": "no conozcan"
+  },
+  "Part-ter": {
+    "": "conocido"
+  },
+  "Part-ser": {
+    "ms": "conocido",
+    "fs": "conocida",
+    "mp": "conocidos",
+    "fp": "conocidas"
+  }
+}

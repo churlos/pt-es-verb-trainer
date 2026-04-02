@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "depender"
+  },
+  "Ger": {
+    "": "dependiendo"
+  },
+  "PresI": {
+    "1s": "dependo",
+    "2s": "dependes",
+    "3s": "depende",
+    "1p": "dependemos",
+    "2p": "dependéis",
+    "3p": "dependen"
+  },
+  "PImpI": {
+    "1s": "dependía",
+    "2s": "dependías",
+    "3s": "dependía",
+    "1p": "dependíamos",
+    "2p": "dependíais",
+    "3p": "dependían"
+  },
+  "PPSI": {
+    "1s": "dependí",
+    "2s": "dependiste",
+    "3s": "dependió",
+    "1p": "dependimos",
+    "2p": "dependisteis",
+    "3p": "dependieron"
+  },
+  "FutSI": {
+    "1s": "dependeré",
+    "2s": "dependerás",
+    "3s": "dependerá",
+    "1p": "dependeremos",
+    "2p": "dependeréis",
+    "3p": "dependerán"
+  },
+  "CondS": {
+    "1s": "dependería",
+    "2s": "dependerías",
+    "3s": "dependería",
+    "1p": "dependeríamos",
+    "2p": "dependeríais",
+    "3p": "dependerían"
+  },
+  "PresC": {
+    "1s": "dependa",
+    "2s": "dependas",
+    "3s": "dependa",
+    "1p": "dependamos",
+    "2p": "dependáis",
+    "3p": "dependan"
+  },
+  "PMQPSI": {
+    "1s": "dependiera",
+    "2s": "dependieras",
+    "3s": "dependiera",
+    "1p": "dependiéramos",
+    "2p": "dependierais",
+    "3p": "dependieran"
+  },
+  "PImpC": {
+    "1s": "dependiese",
+    "2s": "dependieses",
+    "3s": "dependiese",
+    "1p": "dependiésemos",
+    "2p": "dependieseis",
+    "3p": "dependiesen"
+  },
+  "FutSC": {
+    "1s": "dependiere",
+    "2s": "dependieres",
+    "3s": "dependiere",
+    "1p": "dependiéremos",
+    "2p": "dependiereis",
+    "3p": "dependieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "depende",
+    "3s": "dependa",
+    "1p": "dependamos",
+    "2p": "depended",
+    "3p": "dependan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dependas",
+    "3s": "no dependa",
+    "1p": "no dependamos",
+    "2p": "no dependáis",
+    "3p": "no dependan"
+  },
+  "Part-ter": {
+    "": "dependido"
+  },
+  "Part-ser": {
+    "ms": "dependido",
+    "fs": "dependida",
+    "mp": "dependidos",
+    "fp": "dependidas"
+  }
+}

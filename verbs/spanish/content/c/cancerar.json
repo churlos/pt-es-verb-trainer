@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cancerar"
+  },
+  "Ger": {
+    "": "cancerando"
+  },
+  "PresI": {
+    "1s": "cancero",
+    "2s": "canceras",
+    "3s": "cancera",
+    "1p": "canceramos",
+    "2p": "canceráis",
+    "3p": "canceran"
+  },
+  "PImpI": {
+    "1s": "canceraba",
+    "2s": "cancerabas",
+    "3s": "canceraba",
+    "1p": "cancerábamos",
+    "2p": "cancerabais",
+    "3p": "canceraban"
+  },
+  "PPSI": {
+    "1s": "canceré",
+    "2s": "canceraste",
+    "3s": "canceró",
+    "1p": "canceramos",
+    "2p": "cancerasteis",
+    "3p": "canceraron"
+  },
+  "FutSI": {
+    "1s": "canceraré",
+    "2s": "cancerarás",
+    "3s": "cancerará",
+    "1p": "canceraremos",
+    "2p": "canceraréis",
+    "3p": "cancerarán"
+  },
+  "CondS": {
+    "1s": "canceraría",
+    "2s": "cancerarías",
+    "3s": "canceraría",
+    "1p": "canceraríamos",
+    "2p": "canceraríais",
+    "3p": "cancerarían"
+  },
+  "PresC": {
+    "1s": "cancere",
+    "2s": "canceres",
+    "3s": "cancere",
+    "1p": "canceremos",
+    "2p": "canceréis",
+    "3p": "canceren"
+  },
+  "PMQPSI": {
+    "1s": "cancerara",
+    "2s": "canceraras",
+    "3s": "cancerara",
+    "1p": "canceráramos",
+    "2p": "cancerarais",
+    "3p": "canceraran"
+  },
+  "PImpC": {
+    "1s": "cancerase",
+    "2s": "cancerases",
+    "3s": "cancerase",
+    "1p": "cancerásemos",
+    "2p": "canceraseis",
+    "3p": "cancerasen"
+  },
+  "FutSC": {
+    "1s": "cancerare",
+    "2s": "cancerares",
+    "3s": "cancerare",
+    "1p": "canceráremos",
+    "2p": "cancerareis",
+    "3p": "canceraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cancera",
+    "3s": "cancere",
+    "1p": "canceremos",
+    "2p": "cancerad",
+    "3p": "canceren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no canceres",
+    "3s": "no cancere",
+    "1p": "no canceremos",
+    "2p": "no canceréis",
+    "3p": "no canceren"
+  },
+  "Part-ter": {
+    "": "cancerado"
+  },
+  "Part-ser": {
+    "ms": "cancerado",
+    "fs": "cancerada",
+    "mp": "cancerados",
+    "fp": "canceradas"
+  }
+}

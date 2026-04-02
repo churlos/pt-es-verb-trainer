@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sondar"
+  },
+  "InfP": {
+    "1s": "sondar",
+    "2s": "sondares",
+    "3s": "sondar",
+    "1p": "sondarmos",
+    "2p": "sondardes",
+    "3p": "sondarem"
+  },
+  "Ger": {
+    "": "sondando"
+  },
+  "PresI": {
+    "1s": "sondo",
+    "2s": "sondas",
+    "3s": "sonda",
+    "1p": "sondamos",
+    "2p": "sondais",
+    "3p": "sondam"
+  },
+  "PImpI": {
+    "1s": "sondava",
+    "2s": "sondavas",
+    "3s": "sondava",
+    "1p": "sondávamos",
+    "2p": "sondáveis",
+    "3p": "sondavam"
+  },
+  "PPSI": {
+    "1s": "sondei",
+    "2s": "sondaste",
+    "3s": "sondou",
+    "1p": "sondámos",
+    "2p": "sondastes",
+    "3p": "sondaram"
+  },
+  "PMQPSI": {
+    "1s": "sondara",
+    "2s": "sondaras",
+    "3s": "sondara",
+    "1p": "sondáramos",
+    "2p": "sondáreis",
+    "3p": "sondaram"
+  },
+  "FutSI": {
+    "1s": "sondarei",
+    "2s": "sondarás",
+    "3s": "sondará",
+    "1p": "sondaremos",
+    "2p": "sondareis",
+    "3p": "sondarão"
+  },
+  "CondS": {
+    "1s": "sondaria",
+    "2s": "sondarias",
+    "3s": "sondaria",
+    "1p": "sondaríamos",
+    "2p": "sondaríeis",
+    "3p": "sondariam"
+  },
+  "PresC": {
+    "1s": "sonde",
+    "2s": "sondes",
+    "3s": "sonde",
+    "1p": "sondemos",
+    "2p": "sondeis",
+    "3p": "sondem"
+  },
+  "PImpC": {
+    "1s": "sondasse",
+    "2s": "sondasses",
+    "3s": "sondasse",
+    "1p": "sondássemos",
+    "2p": "sondásseis",
+    "3p": "sondassem"
+  },
+  "FutSC": {
+    "1s": "sondar",
+    "2s": "sondares",
+    "3s": "sondar",
+    "1p": "sondarmos",
+    "2p": "sondardes",
+    "3p": "sondarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sonda",
+    "3s": "sonde",
+    "1p": "sondemos",
+    "2p": "sondai",
+    "3p": "sondem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sondes",
+    "3s": "não sonde",
+    "1p": "não sondemos",
+    "2p": "não sondeis",
+    "3p": "não sondem"
+  },
+  "Part-ter": {
+    "": "sondado"
+  },
+  "Part-ser": {
+    "ms": "sondado",
+    "fs": "sondada",
+    "mp": "sondados",
+    "fp": "sondadas"
+  }
+}

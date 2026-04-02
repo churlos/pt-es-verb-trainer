@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resorber"
+  },
+  "Ger": {
+    "": "resorbiendo"
+  },
+  "PresI": {
+    "1s": "resorbo",
+    "2s": "resorbes",
+    "3s": "resorbe",
+    "1p": "resorbemos",
+    "2p": "resorbéis",
+    "3p": "resorben"
+  },
+  "PImpI": {
+    "1s": "resorbía",
+    "2s": "resorbías",
+    "3s": "resorbía",
+    "1p": "resorbíamos",
+    "2p": "resorbíais",
+    "3p": "resorbían"
+  },
+  "PPSI": {
+    "1s": "resorbí",
+    "2s": "resorbiste",
+    "3s": "resorbió",
+    "1p": "resorbimos",
+    "2p": "resorbisteis",
+    "3p": "resorbieron"
+  },
+  "FutSI": {
+    "1s": "resorberé",
+    "2s": "resorberás",
+    "3s": "resorberá",
+    "1p": "resorberemos",
+    "2p": "resorberéis",
+    "3p": "resorberán"
+  },
+  "CondS": {
+    "1s": "resorbería",
+    "2s": "resorberías",
+    "3s": "resorbería",
+    "1p": "resorberíamos",
+    "2p": "resorberíais",
+    "3p": "resorberían"
+  },
+  "PresC": {
+    "1s": "resorba",
+    "2s": "resorbas",
+    "3s": "resorba",
+    "1p": "resorbamos",
+    "2p": "resorbáis",
+    "3p": "resorban"
+  },
+  "PMQPSI": {
+    "1s": "resorbiera",
+    "2s": "resorbieras",
+    "3s": "resorbiera",
+    "1p": "resorbiéramos",
+    "2p": "resorbierais",
+    "3p": "resorbieran"
+  },
+  "PImpC": {
+    "1s": "resorbiese",
+    "2s": "resorbieses",
+    "3s": "resorbiese",
+    "1p": "resorbiésemos",
+    "2p": "resorbieseis",
+    "3p": "resorbiesen"
+  },
+  "FutSC": {
+    "1s": "resorbiere",
+    "2s": "resorbieres",
+    "3s": "resorbiere",
+    "1p": "resorbiéremos",
+    "2p": "resorbiereis",
+    "3p": "resorbieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resorbe",
+    "3s": "resorba",
+    "1p": "resorbamos",
+    "2p": "resorbed",
+    "3p": "resorban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no resorbas",
+    "3s": "no resorba",
+    "1p": "no resorbamos",
+    "2p": "no resorbáis",
+    "3p": "no resorban"
+  },
+  "Part-ter": {
+    "": "resorbido"
+  },
+  "Part-ser": {
+    "ms": "resorbido",
+    "fs": "resorbida",
+    "mp": "resorbidos",
+    "fp": "resorbidas"
+  }
+}

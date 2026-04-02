@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "clicar"
+  },
+  "Ger": {
+    "": "clicando"
+  },
+  "PresI": {
+    "1s": "clico",
+    "2s": "clicas",
+    "3s": "clica",
+    "1p": "clicamos",
+    "2p": "clicáis",
+    "3p": "clican"
+  },
+  "PImpI": {
+    "1s": "clicaba",
+    "2s": "clicabas",
+    "3s": "clicaba",
+    "1p": "clicábamos",
+    "2p": "clicabais",
+    "3p": "clicaban"
+  },
+  "PPSI": {
+    "1s": "cliqué",
+    "2s": "clicaste",
+    "3s": "clicó",
+    "1p": "clicamos",
+    "2p": "clicasteis",
+    "3p": "clicaron"
+  },
+  "FutSI": {
+    "1s": "clicaré",
+    "2s": "clicarás",
+    "3s": "clicará",
+    "1p": "clicaremos",
+    "2p": "clicaréis",
+    "3p": "clicarán"
+  },
+  "CondS": {
+    "1s": "clicaría",
+    "2s": "clicarías",
+    "3s": "clicaría",
+    "1p": "clicaríamos",
+    "2p": "clicaríais",
+    "3p": "clicarían"
+  },
+  "PresC": {
+    "1s": "clique",
+    "2s": "cliques",
+    "3s": "clique",
+    "1p": "cliquemos",
+    "2p": "cliquéis",
+    "3p": "cliquen"
+  },
+  "PMQPSI": {
+    "1s": "clicara",
+    "2s": "clicaras",
+    "3s": "clicara",
+    "1p": "clicáramos",
+    "2p": "clicarais",
+    "3p": "clicaran"
+  },
+  "PImpC": {
+    "1s": "clicase",
+    "2s": "clicases",
+    "3s": "clicase",
+    "1p": "clicásemos",
+    "2p": "clicaseis",
+    "3p": "clicasen"
+  },
+  "FutSC": {
+    "1s": "clicare",
+    "2s": "clicares",
+    "3s": "clicare",
+    "1p": "clicáremos",
+    "2p": "clicareis",
+    "3p": "clicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clica",
+    "3s": "clique",
+    "1p": "cliquemos",
+    "2p": "clicad",
+    "3p": "cliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cliques",
+    "3s": "no clique",
+    "1p": "no cliquemos",
+    "2p": "no cliquéis",
+    "3p": "no cliquen"
+  },
+  "Part-ter": {
+    "": "clicado"
+  },
+  "Part-ser": {
+    "ms": "clicado",
+    "fs": "clicada",
+    "mp": "clicados",
+    "fp": "clicadas"
+  }
+}

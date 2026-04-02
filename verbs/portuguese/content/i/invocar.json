@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "invocar"
+  },
+  "InfP": {
+    "1s": "invocar",
+    "2s": "invocares",
+    "3s": "invocar",
+    "1p": "invocarmos",
+    "2p": "invocardes",
+    "3p": "invocarem"
+  },
+  "Ger": {
+    "": "invocando"
+  },
+  "PresI": {
+    "1s": "invoco",
+    "2s": "invocas",
+    "3s": "invoca",
+    "1p": "invocamos",
+    "2p": "invocais",
+    "3p": "invocam"
+  },
+  "PImpI": {
+    "1s": "invocava",
+    "2s": "invocavas",
+    "3s": "invocava",
+    "1p": "invocávamos",
+    "2p": "invocáveis",
+    "3p": "invocavam"
+  },
+  "PPSI": {
+    "1s": "invoquei",
+    "2s": "invocaste",
+    "3s": "invocou",
+    "1p": "invocámos",
+    "2p": "invocastes",
+    "3p": "invocaram"
+  },
+  "PMQPSI": {
+    "1s": "invocara",
+    "2s": "invocaras",
+    "3s": "invocara",
+    "1p": "invocáramos",
+    "2p": "invocáreis",
+    "3p": "invocaram"
+  },
+  "FutSI": {
+    "1s": "invocarei",
+    "2s": "invocarás",
+    "3s": "invocará",
+    "1p": "invocaremos",
+    "2p": "invocareis",
+    "3p": "invocarão"
+  },
+  "CondS": {
+    "1s": "invocaria",
+    "2s": "invocarias",
+    "3s": "invocaria",
+    "1p": "invocaríamos",
+    "2p": "invocaríeis",
+    "3p": "invocariam"
+  },
+  "PresC": {
+    "1s": "invoque",
+    "2s": "invoques",
+    "3s": "invoque",
+    "1p": "invoquemos",
+    "2p": "invoqueis",
+    "3p": "invoquem"
+  },
+  "PImpC": {
+    "1s": "invocasse",
+    "2s": "invocasses",
+    "3s": "invocasse",
+    "1p": "invocássemos",
+    "2p": "invocásseis",
+    "3p": "invocassem"
+  },
+  "FutSC": {
+    "1s": "invocar",
+    "2s": "invocares",
+    "3s": "invocar",
+    "1p": "invocarmos",
+    "2p": "invocardes",
+    "3p": "invocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invoca",
+    "3s": "invoque",
+    "1p": "invoquemos",
+    "2p": "invocai",
+    "3p": "invoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não invoques",
+    "3s": "não invoque",
+    "1p": "não invoquemos",
+    "2p": "não invoqueis",
+    "3p": "não invoquem"
+  },
+  "Part-ter": {
+    "": "invocado"
+  },
+  "Part-ser": {
+    "ms": "invocado",
+    "fs": "invocada",
+    "mp": "invocados",
+    "fp": "invocadas"
+  }
+}

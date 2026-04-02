@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reimprimir"
+  },
+  "Ger": {
+    "": "reimprimiendo"
+  },
+  "PresI": {
+    "1s": "reimprimo",
+    "2s": "reimprimes",
+    "3s": "reimprime",
+    "1p": "reimprimimos",
+    "2p": "reimprimís",
+    "3p": "reimprimen"
+  },
+  "PImpI": {
+    "1s": "reimprimía",
+    "2s": "reimprimías",
+    "3s": "reimprimía",
+    "1p": "reimprimíamos",
+    "2p": "reimprimíais",
+    "3p": "reimprimían"
+  },
+  "PPSI": {
+    "1s": "reimprimí",
+    "2s": "reimprimiste",
+    "3s": "reimprimió",
+    "1p": "reimprimimos",
+    "2p": "reimprimisteis",
+    "3p": "reimprimieron"
+  },
+  "FutSI": {
+    "1s": "reimprimiré",
+    "2s": "reimprimirás",
+    "3s": "reimprimirá",
+    "1p": "reimprimiremos",
+    "2p": "reimprimiréis",
+    "3p": "reimprimirán"
+  },
+  "CondS": {
+    "1s": "reimprimiría",
+    "2s": "reimprimirías",
+    "3s": "reimprimiría",
+    "1p": "reimprimiríamos",
+    "2p": "reimprimiríais",
+    "3p": "reimprimirían"
+  },
+  "PresC": {
+    "1s": "reimprima",
+    "2s": "reimprimas",
+    "3s": "reimprima",
+    "1p": "reimprimamos",
+    "2p": "reimprimáis",
+    "3p": "reimpriman"
+  },
+  "PMQPSI": {
+    "1s": "reimprimiera",
+    "2s": "reimprimieras",
+    "3s": "reimprimiera",
+    "1p": "reimprimiéramos",
+    "2p": "reimprimierais",
+    "3p": "reimprimieran"
+  },
+  "PImpC": {
+    "1s": "reimprimiese",
+    "2s": "reimprimieses",
+    "3s": "reimprimiese",
+    "1p": "reimprimiésemos",
+    "2p": "reimprimieseis",
+    "3p": "reimprimiesen"
+  },
+  "FutSC": {
+    "1s": "reimprimiere",
+    "2s": "reimprimieres",
+    "3s": "reimprimiere",
+    "1p": "reimprimiéremos",
+    "2p": "reimprimiereis",
+    "3p": "reimprimieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reimprime",
+    "3s": "reimprima",
+    "1p": "reimprimamos",
+    "2p": "reimprimid",
+    "3p": "reimpriman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reimprimas",
+    "3s": "no reimprima",
+    "1p": "no reimprimamos",
+    "2p": "no reimprimáis",
+    "3p": "no reimpriman"
+  },
+  "Part-ter": {
+    "": "reimpreso, reimprimido"
+  },
+  "Part-ser": {
+    "ms": "reimpreso, reimprimido",
+    "fs": "reimpresa, reimprimida",
+    "mp": "reimpresos, reimprimidos",
+    "fp": "reimpresas, reimprimidas"
+  }
+}

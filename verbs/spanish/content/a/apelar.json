@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "apelar"
+  },
+  "Ger": {
+    "": "apelando"
+  },
+  "PresI": {
+    "1s": "apelo",
+    "2s": "apelas",
+    "3s": "apela",
+    "1p": "apelamos",
+    "2p": "apeláis",
+    "3p": "apelan"
+  },
+  "PImpI": {
+    "1s": "apelaba",
+    "2s": "apelabas",
+    "3s": "apelaba",
+    "1p": "apelábamos",
+    "2p": "apelabais",
+    "3p": "apelaban"
+  },
+  "PPSI": {
+    "1s": "apelé",
+    "2s": "apelaste",
+    "3s": "apeló",
+    "1p": "apelamos",
+    "2p": "apelasteis",
+    "3p": "apelaron"
+  },
+  "FutSI": {
+    "1s": "apelaré",
+    "2s": "apelarás",
+    "3s": "apelará",
+    "1p": "apelaremos",
+    "2p": "apelaréis",
+    "3p": "apelarán"
+  },
+  "CondS": {
+    "1s": "apelaría",
+    "2s": "apelarías",
+    "3s": "apelaría",
+    "1p": "apelaríamos",
+    "2p": "apelaríais",
+    "3p": "apelarían"
+  },
+  "PresC": {
+    "1s": "apele",
+    "2s": "apeles",
+    "3s": "apele",
+    "1p": "apelemos",
+    "2p": "apeléis",
+    "3p": "apelen"
+  },
+  "PMQPSI": {
+    "1s": "apelara",
+    "2s": "apelaras",
+    "3s": "apelara",
+    "1p": "apeláramos",
+    "2p": "apelarais",
+    "3p": "apelaran"
+  },
+  "PImpC": {
+    "1s": "apelase",
+    "2s": "apelases",
+    "3s": "apelase",
+    "1p": "apelásemos",
+    "2p": "apelaseis",
+    "3p": "apelasen"
+  },
+  "FutSC": {
+    "1s": "apelare",
+    "2s": "apelares",
+    "3s": "apelare",
+    "1p": "apeláremos",
+    "2p": "apelareis",
+    "3p": "apelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apela",
+    "3s": "apele",
+    "1p": "apelemos",
+    "2p": "apelad",
+    "3p": "apelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apeles",
+    "3s": "no apele",
+    "1p": "no apelemos",
+    "2p": "no apeléis",
+    "3p": "no apelen"
+  },
+  "Part-ter": {
+    "": "apelado"
+  },
+  "Part-ser": {
+    "ms": "apelado",
+    "fs": "apelada",
+    "mp": "apelados",
+    "fp": "apeladas"
+  }
+}

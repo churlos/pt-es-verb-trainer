@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suster"
+  },
+  "InfP": {
+    "1s": "suster",
+    "2s": "susteres",
+    "3s": "suster",
+    "1p": "sustermos",
+    "2p": "susterdes",
+    "3p": "susterem"
+  },
+  "Ger": {
+    "": "sustendo"
+  },
+  "PresI": {
+    "1s": "sustenho",
+    "2s": "susténs",
+    "3s": "sustém",
+    "1p": "sustemos",
+    "2p": "sustendes",
+    "3p": "sustêm"
+  },
+  "PImpI": {
+    "1s": "sustinha",
+    "2s": "sustinhas",
+    "3s": "sustinha",
+    "1p": "sustínhamos",
+    "2p": "sustínheis",
+    "3p": "sustinham"
+  },
+  "PPSI": {
+    "1s": "sustive",
+    "2s": "sustiveste",
+    "3s": "susteve",
+    "1p": "sustivemos",
+    "2p": "sustivestes",
+    "3p": "sustiveram"
+  },
+  "PMQPSI": {
+    "1s": "sustivera",
+    "2s": "sustiveras",
+    "3s": "sustivera",
+    "1p": "sustivéramos",
+    "2p": "sustivéreis",
+    "3p": "sustiveram"
+  },
+  "FutSI": {
+    "1s": "susterei",
+    "2s": "susterás",
+    "3s": "susterá",
+    "1p": "susteremos",
+    "2p": "sustereis",
+    "3p": "susterão"
+  },
+  "CondS": {
+    "1s": "susteria",
+    "2s": "susterias",
+    "3s": "susteria",
+    "1p": "susteríamos",
+    "2p": "susteríeis",
+    "3p": "susteriam"
+  },
+  "PresC": {
+    "1s": "sustenha",
+    "2s": "sustenhas",
+    "3s": "sustenha",
+    "1p": "sustenhamos",
+    "2p": "sustenhais",
+    "3p": "sustenham"
+  },
+  "PImpC": {
+    "1s": "sustivesse",
+    "2s": "sustivesses",
+    "3s": "sustivesse",
+    "1p": "sustivéssemos",
+    "2p": "sustivésseis",
+    "3p": "sustivessem"
+  },
+  "FutSC": {
+    "1s": "sustiver",
+    "2s": "sustiveres",
+    "3s": "sustiver",
+    "1p": "sustivermos",
+    "2p": "sustiverdes",
+    "3p": "sustiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sustém",
+    "3s": "sustenha",
+    "1p": "sustenhamos",
+    "2p": "sustende",
+    "3p": "sustenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sustenhas",
+    "3s": "não sustenha",
+    "1p": "não sustenhamos",
+    "2p": "não sustenhais",
+    "3p": "não sustenham"
+  },
+  "Part-ter": {
+    "": "sustido"
+  },
+  "Part-ser": {
+    "ms": "sustido",
+    "fs": "sustida",
+    "mp": "sustidos",
+    "fp": "sustidas"
+  }
+}

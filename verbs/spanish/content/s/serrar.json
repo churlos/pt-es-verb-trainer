@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "serrar"
+  },
+  "Ger": {
+    "": "serrando"
+  },
+  "PresI": {
+    "1s": "sierro",
+    "2s": "sierras",
+    "3s": "sierra",
+    "1p": "serramos",
+    "2p": "serráis",
+    "3p": "sierran"
+  },
+  "PImpI": {
+    "1s": "serraba",
+    "2s": "serrabas",
+    "3s": "serraba",
+    "1p": "serrábamos",
+    "2p": "serrabais",
+    "3p": "serraban"
+  },
+  "PPSI": {
+    "1s": "serré",
+    "2s": "serraste",
+    "3s": "serró",
+    "1p": "serramos",
+    "2p": "serrasteis",
+    "3p": "serraron"
+  },
+  "FutSI": {
+    "1s": "serraré",
+    "2s": "serrarás",
+    "3s": "serrará",
+    "1p": "serraremos",
+    "2p": "serraréis",
+    "3p": "serrarán"
+  },
+  "CondS": {
+    "1s": "serraría",
+    "2s": "serrarías",
+    "3s": "serraría",
+    "1p": "serraríamos",
+    "2p": "serraríais",
+    "3p": "serrarían"
+  },
+  "PresC": {
+    "1s": "sierre",
+    "2s": "sierres",
+    "3s": "sierre",
+    "1p": "serremos",
+    "2p": "serréis",
+    "3p": "sierren"
+  },
+  "PMQPSI": {
+    "1s": "serrara",
+    "2s": "serraras",
+    "3s": "serrara",
+    "1p": "serráramos",
+    "2p": "serrarais",
+    "3p": "serraran"
+  },
+  "PImpC": {
+    "1s": "serrase",
+    "2s": "serrases",
+    "3s": "serrase",
+    "1p": "serrásemos",
+    "2p": "serraseis",
+    "3p": "serrasen"
+  },
+  "FutSC": {
+    "1s": "serrare",
+    "2s": "serrares",
+    "3s": "serrare",
+    "1p": "serráremos",
+    "2p": "serrareis",
+    "3p": "serraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sierra",
+    "3s": "sierre",
+    "1p": "serremos",
+    "2p": "serrad",
+    "3p": "sierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sierres",
+    "3s": "no sierre",
+    "1p": "no serremos",
+    "2p": "no serréis",
+    "3p": "no sierren"
+  },
+  "Part-ter": {
+    "": "serrado"
+  },
+  "Part-ser": {
+    "ms": "serrado",
+    "fs": "serrada",
+    "mp": "serrados",
+    "fp": "serradas"
+  }
+}

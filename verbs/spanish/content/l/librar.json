@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "librar"
+  },
+  "Ger": {
+    "": "librando"
+  },
+  "PresI": {
+    "1s": "libro",
+    "2s": "libras",
+    "3s": "libra",
+    "1p": "libramos",
+    "2p": "libráis",
+    "3p": "libran"
+  },
+  "PImpI": {
+    "1s": "libraba",
+    "2s": "librabas",
+    "3s": "libraba",
+    "1p": "librábamos",
+    "2p": "librabais",
+    "3p": "libraban"
+  },
+  "PPSI": {
+    "1s": "libré",
+    "2s": "libraste",
+    "3s": "libró",
+    "1p": "libramos",
+    "2p": "librasteis",
+    "3p": "libraron"
+  },
+  "FutSI": {
+    "1s": "libraré",
+    "2s": "librarás",
+    "3s": "librará",
+    "1p": "libraremos",
+    "2p": "libraréis",
+    "3p": "librarán"
+  },
+  "CondS": {
+    "1s": "libraría",
+    "2s": "librarías",
+    "3s": "libraría",
+    "1p": "libraríamos",
+    "2p": "libraríais",
+    "3p": "librarían"
+  },
+  "PresC": {
+    "1s": "libre",
+    "2s": "libres",
+    "3s": "libre",
+    "1p": "libremos",
+    "2p": "libréis",
+    "3p": "libren"
+  },
+  "PMQPSI": {
+    "1s": "librara",
+    "2s": "libraras",
+    "3s": "librara",
+    "1p": "libráramos",
+    "2p": "librarais",
+    "3p": "libraran"
+  },
+  "PImpC": {
+    "1s": "librase",
+    "2s": "librases",
+    "3s": "librase",
+    "1p": "librásemos",
+    "2p": "libraseis",
+    "3p": "librasen"
+  },
+  "FutSC": {
+    "1s": "librare",
+    "2s": "librares",
+    "3s": "librare",
+    "1p": "libráremos",
+    "2p": "librareis",
+    "3p": "libraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "libra",
+    "3s": "libre",
+    "1p": "libremos",
+    "2p": "librad",
+    "3p": "libren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no libres",
+    "3s": "no libre",
+    "1p": "no libremos",
+    "2p": "no libréis",
+    "3p": "no libren"
+  },
+  "Part-ter": {
+    "": "librado"
+  },
+  "Part-ser": {
+    "ms": "librado",
+    "fs": "librada",
+    "mp": "librados",
+    "fp": "libradas"
+  }
+}

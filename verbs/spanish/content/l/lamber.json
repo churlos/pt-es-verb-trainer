@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lamber"
+  },
+  "Ger": {
+    "": "lambiendo"
+  },
+  "PresI": {
+    "1s": "lambo",
+    "2s": "lambes",
+    "3s": "lambe",
+    "1p": "lambemos",
+    "2p": "lambéis",
+    "3p": "lamben"
+  },
+  "PImpI": {
+    "1s": "lambía",
+    "2s": "lambías",
+    "3s": "lambía",
+    "1p": "lambíamos",
+    "2p": "lambíais",
+    "3p": "lambían"
+  },
+  "PPSI": {
+    "1s": "lambí",
+    "2s": "lambiste",
+    "3s": "lambió",
+    "1p": "lambimos",
+    "2p": "lambisteis",
+    "3p": "lambieron"
+  },
+  "FutSI": {
+    "1s": "lamberé",
+    "2s": "lamberás",
+    "3s": "lamberá",
+    "1p": "lamberemos",
+    "2p": "lamberéis",
+    "3p": "lamberán"
+  },
+  "CondS": {
+    "1s": "lambería",
+    "2s": "lamberías",
+    "3s": "lambería",
+    "1p": "lamberíamos",
+    "2p": "lamberíais",
+    "3p": "lamberían"
+  },
+  "PresC": {
+    "1s": "lamba",
+    "2s": "lambas",
+    "3s": "lamba",
+    "1p": "lambamos",
+    "2p": "lambáis",
+    "3p": "lamban"
+  },
+  "PMQPSI": {
+    "1s": "lambiera",
+    "2s": "lambieras",
+    "3s": "lambiera",
+    "1p": "lambiéramos",
+    "2p": "lambierais",
+    "3p": "lambieran"
+  },
+  "PImpC": {
+    "1s": "lambiese",
+    "2s": "lambieses",
+    "3s": "lambiese",
+    "1p": "lambiésemos",
+    "2p": "lambieseis",
+    "3p": "lambiesen"
+  },
+  "FutSC": {
+    "1s": "lambiere",
+    "2s": "lambieres",
+    "3s": "lambiere",
+    "1p": "lambiéremos",
+    "2p": "lambiereis",
+    "3p": "lambieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lambe",
+    "3s": "lamba",
+    "1p": "lambamos",
+    "2p": "lambed",
+    "3p": "lamban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lambas",
+    "3s": "no lamba",
+    "1p": "no lambamos",
+    "2p": "no lambáis",
+    "3p": "no lamban"
+  },
+  "Part-ter": {
+    "": "lambido"
+  },
+  "Part-ser": {
+    "ms": "lambido",
+    "fs": "lambida",
+    "mp": "lambidos",
+    "fp": "lambidas"
+  }
+}

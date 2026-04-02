@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estrear"
+  },
+  "InfP": {
+    "1s": "estrear",
+    "2s": "estreares",
+    "3s": "estrear",
+    "1p": "estrearmos",
+    "2p": "estreardes",
+    "3p": "estrearem"
+  },
+  "Ger": {
+    "": "estreando"
+  },
+  "PresI": {
+    "1s": "estreio",
+    "2s": "estreias",
+    "3s": "estreia",
+    "1p": "estreamos",
+    "2p": "estreais",
+    "3p": "estreiam"
+  },
+  "PImpI": {
+    "1s": "estreava",
+    "2s": "estreavas",
+    "3s": "estreava",
+    "1p": "estreávamos",
+    "2p": "estreáveis",
+    "3p": "estreavam"
+  },
+  "PPSI": {
+    "1s": "estreei",
+    "2s": "estreaste",
+    "3s": "estreou",
+    "1p": "estreámos",
+    "2p": "estreastes",
+    "3p": "estrearam"
+  },
+  "PMQPSI": {
+    "1s": "estreara",
+    "2s": "estrearas",
+    "3s": "estreara",
+    "1p": "estreáramos",
+    "2p": "estreáreis",
+    "3p": "estrearam"
+  },
+  "FutSI": {
+    "1s": "estrearei",
+    "2s": "estrearás",
+    "3s": "estreará",
+    "1p": "estrearemos",
+    "2p": "estreareis",
+    "3p": "estrearão"
+  },
+  "CondS": {
+    "1s": "estrearia",
+    "2s": "estrearias",
+    "3s": "estrearia",
+    "1p": "estrearíamos",
+    "2p": "estrearíeis",
+    "3p": "estreariam"
+  },
+  "PresC": {
+    "1s": "estreie",
+    "2s": "estreies",
+    "3s": "estreie",
+    "1p": "estreemos",
+    "2p": "estreeis",
+    "3p": "estreiem"
+  },
+  "PImpC": {
+    "1s": "estreasse",
+    "2s": "estreasses",
+    "3s": "estreasse",
+    "1p": "estreássemos",
+    "2p": "estreásseis",
+    "3p": "estreassem"
+  },
+  "FutSC": {
+    "1s": "estrear",
+    "2s": "estreares",
+    "3s": "estrear",
+    "1p": "estrearmos",
+    "2p": "estreardes",
+    "3p": "estrearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estreia",
+    "3s": "estreie",
+    "1p": "estreemos",
+    "2p": "estreai",
+    "3p": "estreiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estreies",
+    "3s": "não estreie",
+    "1p": "não estreemos",
+    "2p": "não estreeis",
+    "3p": "não estreiem"
+  },
+  "Part-ter": {
+    "": "estreado"
+  },
+  "Part-ser": {
+    "ms": "estreado",
+    "fs": "estreada",
+    "mp": "estreados",
+    "fp": "estreadas"
+  }
+}

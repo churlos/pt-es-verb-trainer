@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atacar"
+  },
+  "Ger": {
+    "": "atacando"
+  },
+  "PresI": {
+    "1s": "ataco",
+    "2s": "atacas",
+    "3s": "ataca",
+    "1p": "atacamos",
+    "2p": "atacáis",
+    "3p": "atacan"
+  },
+  "PImpI": {
+    "1s": "atacaba",
+    "2s": "atacabas",
+    "3s": "atacaba",
+    "1p": "atacábamos",
+    "2p": "atacabais",
+    "3p": "atacaban"
+  },
+  "PPSI": {
+    "1s": "ataqué",
+    "2s": "atacaste",
+    "3s": "atacó",
+    "1p": "atacamos",
+    "2p": "atacasteis",
+    "3p": "atacaron"
+  },
+  "FutSI": {
+    "1s": "atacaré",
+    "2s": "atacarás",
+    "3s": "atacará",
+    "1p": "atacaremos",
+    "2p": "atacaréis",
+    "3p": "atacarán"
+  },
+  "CondS": {
+    "1s": "atacaría",
+    "2s": "atacarías",
+    "3s": "atacaría",
+    "1p": "atacaríamos",
+    "2p": "atacaríais",
+    "3p": "atacarían"
+  },
+  "PresC": {
+    "1s": "ataque",
+    "2s": "ataques",
+    "3s": "ataque",
+    "1p": "ataquemos",
+    "2p": "ataquéis",
+    "3p": "ataquen"
+  },
+  "PMQPSI": {
+    "1s": "atacara",
+    "2s": "atacaras",
+    "3s": "atacara",
+    "1p": "atacáramos",
+    "2p": "atacarais",
+    "3p": "atacaran"
+  },
+  "PImpC": {
+    "1s": "atacase",
+    "2s": "atacases",
+    "3s": "atacase",
+    "1p": "atacásemos",
+    "2p": "atacaseis",
+    "3p": "atacasen"
+  },
+  "FutSC": {
+    "1s": "atacare",
+    "2s": "atacares",
+    "3s": "atacare",
+    "1p": "atacáremos",
+    "2p": "atacareis",
+    "3p": "atacaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ataca",
+    "3s": "ataque",
+    "1p": "ataquemos",
+    "2p": "atacad",
+    "3p": "ataquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ataques",
+    "3s": "no ataque",
+    "1p": "no ataquemos",
+    "2p": "no ataquéis",
+    "3p": "no ataquen"
+  },
+  "Part-ter": {
+    "": "atacado"
+  },
+  "Part-ser": {
+    "ms": "atacado",
+    "fs": "atacada",
+    "mp": "atacados",
+    "fp": "atacadas"
+  }
+}

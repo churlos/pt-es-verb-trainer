@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "exportar"
+  },
+  "Ger": {
+    "": "exportando"
+  },
+  "PresI": {
+    "1s": "exporto",
+    "2s": "exportas",
+    "3s": "exporta",
+    "1p": "exportamos",
+    "2p": "exportáis",
+    "3p": "exportan"
+  },
+  "PImpI": {
+    "1s": "exportaba",
+    "2s": "exportabas",
+    "3s": "exportaba",
+    "1p": "exportábamos",
+    "2p": "exportabais",
+    "3p": "exportaban"
+  },
+  "PPSI": {
+    "1s": "exporté",
+    "2s": "exportaste",
+    "3s": "exportó",
+    "1p": "exportamos",
+    "2p": "exportasteis",
+    "3p": "exportaron"
+  },
+  "FutSI": {
+    "1s": "exportaré",
+    "2s": "exportarás",
+    "3s": "exportará",
+    "1p": "exportaremos",
+    "2p": "exportaréis",
+    "3p": "exportarán"
+  },
+  "CondS": {
+    "1s": "exportaría",
+    "2s": "exportarías",
+    "3s": "exportaría",
+    "1p": "exportaríamos",
+    "2p": "exportaríais",
+    "3p": "exportarían"
+  },
+  "PresC": {
+    "1s": "exporte",
+    "2s": "exportes",
+    "3s": "exporte",
+    "1p": "exportemos",
+    "2p": "exportéis",
+    "3p": "exporten"
+  },
+  "PMQPSI": {
+    "1s": "exportara",
+    "2s": "exportaras",
+    "3s": "exportara",
+    "1p": "exportáramos",
+    "2p": "exportarais",
+    "3p": "exportaran"
+  },
+  "PImpC": {
+    "1s": "exportase",
+    "2s": "exportases",
+    "3s": "exportase",
+    "1p": "exportásemos",
+    "2p": "exportaseis",
+    "3p": "exportasen"
+  },
+  "FutSC": {
+    "1s": "exportare",
+    "2s": "exportares",
+    "3s": "exportare",
+    "1p": "exportáremos",
+    "2p": "exportareis",
+    "3p": "exportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exporta",
+    "3s": "exporte",
+    "1p": "exportemos",
+    "2p": "exportad",
+    "3p": "exporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no exportes",
+    "3s": "no exporte",
+    "1p": "no exportemos",
+    "2p": "no exportéis",
+    "3p": "no exporten"
+  },
+  "Part-ter": {
+    "": "exportado"
+  },
+  "Part-ser": {
+    "ms": "exportado",
+    "fs": "exportada",
+    "mp": "exportados",
+    "fp": "exportadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "punchar"
+  },
+  "Ger": {
+    "": "punchando"
+  },
+  "PresI": {
+    "1s": "puncho",
+    "2s": "punchas",
+    "3s": "puncha",
+    "1p": "punchamos",
+    "2p": "puncháis",
+    "3p": "punchan"
+  },
+  "PImpI": {
+    "1s": "punchaba",
+    "2s": "punchabas",
+    "3s": "punchaba",
+    "1p": "punchábamos",
+    "2p": "punchabais",
+    "3p": "punchaban"
+  },
+  "PPSI": {
+    "1s": "punché",
+    "2s": "punchaste",
+    "3s": "punchó",
+    "1p": "punchamos",
+    "2p": "punchasteis",
+    "3p": "puncharon"
+  },
+  "FutSI": {
+    "1s": "puncharé",
+    "2s": "puncharás",
+    "3s": "punchará",
+    "1p": "puncharemos",
+    "2p": "puncharéis",
+    "3p": "puncharán"
+  },
+  "CondS": {
+    "1s": "puncharía",
+    "2s": "puncharías",
+    "3s": "puncharía",
+    "1p": "puncharíamos",
+    "2p": "puncharíais",
+    "3p": "puncharían"
+  },
+  "PresC": {
+    "1s": "punche",
+    "2s": "punches",
+    "3s": "punche",
+    "1p": "punchemos",
+    "2p": "punchéis",
+    "3p": "punchen"
+  },
+  "PMQPSI": {
+    "1s": "punchara",
+    "2s": "puncharas",
+    "3s": "punchara",
+    "1p": "puncháramos",
+    "2p": "puncharais",
+    "3p": "puncharan"
+  },
+  "PImpC": {
+    "1s": "punchase",
+    "2s": "punchases",
+    "3s": "punchase",
+    "1p": "punchásemos",
+    "2p": "punchaseis",
+    "3p": "punchasen"
+  },
+  "FutSC": {
+    "1s": "punchare",
+    "2s": "punchares",
+    "3s": "punchare",
+    "1p": "puncháremos",
+    "2p": "punchareis",
+    "3p": "puncharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "puncha",
+    "3s": "punche",
+    "1p": "punchemos",
+    "2p": "punchad",
+    "3p": "punchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no punches",
+    "3s": "no punche",
+    "1p": "no punchemos",
+    "2p": "no punchéis",
+    "3p": "no punchen"
+  },
+  "Part-ter": {
+    "": "punchado"
+  },
+  "Part-ser": {
+    "ms": "punchado",
+    "fs": "punchada",
+    "mp": "punchados",
+    "fp": "punchadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mestrar"
+  },
+  "InfP": {
+    "1s": "mestrar",
+    "2s": "mestrares",
+    "3s": "mestrar",
+    "1p": "mestrarmos",
+    "2p": "mestrardes",
+    "3p": "mestrarem"
+  },
+  "Ger": {
+    "": "mestrando"
+  },
+  "PresI": {
+    "1s": "mestro",
+    "2s": "mestras",
+    "3s": "mestra",
+    "1p": "mestramos",
+    "2p": "mestrais",
+    "3p": "mestram"
+  },
+  "PImpI": {
+    "1s": "mestrava",
+    "2s": "mestravas",
+    "3s": "mestrava",
+    "1p": "mestrávamos",
+    "2p": "mestráveis",
+    "3p": "mestravam"
+  },
+  "PPSI": {
+    "1s": "mestrei",
+    "2s": "mestraste",
+    "3s": "mestrou",
+    "1p": "mestrámos",
+    "2p": "mestrastes",
+    "3p": "mestraram"
+  },
+  "PMQPSI": {
+    "1s": "mestrara",
+    "2s": "mestraras",
+    "3s": "mestrara",
+    "1p": "mestráramos",
+    "2p": "mestráreis",
+    "3p": "mestraram"
+  },
+  "FutSI": {
+    "1s": "mestrarei",
+    "2s": "mestrarás",
+    "3s": "mestrará",
+    "1p": "mestraremos",
+    "2p": "mestrareis",
+    "3p": "mestrarão"
+  },
+  "CondS": {
+    "1s": "mestraria",
+    "2s": "mestrarias",
+    "3s": "mestraria",
+    "1p": "mestraríamos",
+    "2p": "mestraríeis",
+    "3p": "mestrariam"
+  },
+  "PresC": {
+    "1s": "mestre",
+    "2s": "mestres",
+    "3s": "mestre",
+    "1p": "mestremos",
+    "2p": "mestreis",
+    "3p": "mestrem"
+  },
+  "PImpC": {
+    "1s": "mestrasse",
+    "2s": "mestrasses",
+    "3s": "mestrasse",
+    "1p": "mestrássemos",
+    "2p": "mestrásseis",
+    "3p": "mestrassem"
+  },
+  "FutSC": {
+    "1s": "mestrar",
+    "2s": "mestrares",
+    "3s": "mestrar",
+    "1p": "mestrarmos",
+    "2p": "mestrardes",
+    "3p": "mestrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mestra",
+    "3s": "mestre",
+    "1p": "mestremos",
+    "2p": "mestrai",
+    "3p": "mestrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mestres",
+    "3s": "não mestre",
+    "1p": "não mestremos",
+    "2p": "não mestreis",
+    "3p": "não mestrem"
+  },
+  "Part-ter": {
+    "": "mestrado"
+  },
+  "Part-ser": {
+    "ms": "mestrado",
+    "fs": "mestrada",
+    "mp": "mestrados",
+    "fp": "mestradas"
+  }
+}

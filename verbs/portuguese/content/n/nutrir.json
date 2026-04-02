@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "nutrir"
+  },
+  "InfP": {
+    "1s": "nutrir",
+    "2s": "nutrires",
+    "3s": "nutrir",
+    "1p": "nutrirmos",
+    "2p": "nutrirdes",
+    "3p": "nutrirem"
+  },
+  "Ger": {
+    "": "nutrindo"
+  },
+  "PresI": {
+    "1s": "nutro",
+    "2s": "nutres",
+    "3s": "nutre",
+    "1p": "nutrimos",
+    "2p": "nutris",
+    "3p": "nutrem"
+  },
+  "PImpI": {
+    "1s": "nutria",
+    "2s": "nutrias",
+    "3s": "nutria",
+    "1p": "nutríamos",
+    "2p": "nutríeis",
+    "3p": "nutriam"
+  },
+  "PPSI": {
+    "1s": "nutri",
+    "2s": "nutriste",
+    "3s": "nutriu",
+    "1p": "nutrimos",
+    "2p": "nutristes",
+    "3p": "nutriram"
+  },
+  "PMQPSI": {
+    "1s": "nutrira",
+    "2s": "nutriras",
+    "3s": "nutrira",
+    "1p": "nutríramos",
+    "2p": "nutríreis",
+    "3p": "nutriram"
+  },
+  "FutSI": {
+    "1s": "nutrirei",
+    "2s": "nutrirás",
+    "3s": "nutrirá",
+    "1p": "nutriremos",
+    "2p": "nutrireis",
+    "3p": "nutrirão"
+  },
+  "CondS": {
+    "1s": "nutriria",
+    "2s": "nutririas",
+    "3s": "nutriria",
+    "1p": "nutriríamos",
+    "2p": "nutriríeis",
+    "3p": "nutririam"
+  },
+  "PresC": {
+    "1s": "nutra",
+    "2s": "nutras",
+    "3s": "nutra",
+    "1p": "nutramos",
+    "2p": "nutrais",
+    "3p": "nutram"
+  },
+  "PImpC": {
+    "1s": "nutrisse",
+    "2s": "nutrisses",
+    "3s": "nutrisse",
+    "1p": "nutríssemos",
+    "2p": "nutrísseis",
+    "3p": "nutrissem"
+  },
+  "FutSC": {
+    "1s": "nutrir",
+    "2s": "nutrires",
+    "3s": "nutrir",
+    "1p": "nutrirmos",
+    "2p": "nutrirdes",
+    "3p": "nutrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nutre",
+    "3s": "nutra",
+    "1p": "nutramos",
+    "2p": "nutri",
+    "3p": "nutram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não nutras",
+    "3s": "não nutra",
+    "1p": "não nutramos",
+    "2p": "não nutrais",
+    "3p": "não nutram"
+  },
+  "Part-ter": {
+    "": "nutrido"
+  },
+  "Part-ser": {
+    "ms": "nutrido",
+    "fs": "nutrida",
+    "mp": "nutridos",
+    "fp": "nutridas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aclamar"
+  },
+  "InfP": {
+    "1s": "aclamar",
+    "2s": "aclamares",
+    "3s": "aclamar",
+    "1p": "aclamarmos",
+    "2p": "aclamardes",
+    "3p": "aclamarem"
+  },
+  "Ger": {
+    "": "aclamando"
+  },
+  "PresI": {
+    "1s": "aclamo",
+    "2s": "aclamas",
+    "3s": "aclama",
+    "1p": "aclamamos",
+    "2p": "aclamais",
+    "3p": "aclamam"
+  },
+  "PImpI": {
+    "1s": "aclamava",
+    "2s": "aclamavas",
+    "3s": "aclamava",
+    "1p": "aclamávamos",
+    "2p": "aclamáveis",
+    "3p": "aclamavam"
+  },
+  "PPSI": {
+    "1s": "aclamei",
+    "2s": "aclamaste",
+    "3s": "aclamou",
+    "1p": "aclamámos",
+    "2p": "aclamastes",
+    "3p": "aclamaram"
+  },
+  "PMQPSI": {
+    "1s": "aclamara",
+    "2s": "aclamaras",
+    "3s": "aclamara",
+    "1p": "aclamáramos",
+    "2p": "aclamáreis",
+    "3p": "aclamaram"
+  },
+  "FutSI": {
+    "1s": "aclamarei",
+    "2s": "aclamarás",
+    "3s": "aclamará",
+    "1p": "aclamaremos",
+    "2p": "aclamareis",
+    "3p": "aclamarão"
+  },
+  "CondS": {
+    "1s": "aclamaria",
+    "2s": "aclamarias",
+    "3s": "aclamaria",
+    "1p": "aclamaríamos",
+    "2p": "aclamaríeis",
+    "3p": "aclamariam"
+  },
+  "PresC": {
+    "1s": "aclame",
+    "2s": "aclames",
+    "3s": "aclame",
+    "1p": "aclamemos",
+    "2p": "aclameis",
+    "3p": "aclamem"
+  },
+  "PImpC": {
+    "1s": "aclamasse",
+    "2s": "aclamasses",
+    "3s": "aclamasse",
+    "1p": "aclamássemos",
+    "2p": "aclamásseis",
+    "3p": "aclamassem"
+  },
+  "FutSC": {
+    "1s": "aclamar",
+    "2s": "aclamares",
+    "3s": "aclamar",
+    "1p": "aclamarmos",
+    "2p": "aclamardes",
+    "3p": "aclamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aclama",
+    "3s": "aclame",
+    "1p": "aclamemos",
+    "2p": "aclamai",
+    "3p": "aclamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aclames",
+    "3s": "não aclame",
+    "1p": "não aclamemos",
+    "2p": "não aclameis",
+    "3p": "não aclamem"
+  },
+  "Part-ter": {
+    "": "aclamado"
+  },
+  "Part-ser": {
+    "ms": "aclamado",
+    "fs": "aclamada",
+    "mp": "aclamados",
+    "fp": "aclamadas"
+  }
+}

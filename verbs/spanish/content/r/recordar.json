@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recordar"
+  },
+  "Ger": {
+    "": "recordando"
+  },
+  "PresI": {
+    "1s": "recuerdo",
+    "2s": "recuerdas",
+    "3s": "recuerda",
+    "1p": "recordamos",
+    "2p": "recordáis",
+    "3p": "recuerdan"
+  },
+  "PImpI": {
+    "1s": "recordaba",
+    "2s": "recordabas",
+    "3s": "recordaba",
+    "1p": "recordábamos",
+    "2p": "recordabais",
+    "3p": "recordaban"
+  },
+  "PPSI": {
+    "1s": "recordé",
+    "2s": "recordaste",
+    "3s": "recordó",
+    "1p": "recordamos",
+    "2p": "recordasteis",
+    "3p": "recordaron"
+  },
+  "FutSI": {
+    "1s": "recordaré",
+    "2s": "recordarás",
+    "3s": "recordará",
+    "1p": "recordaremos",
+    "2p": "recordaréis",
+    "3p": "recordarán"
+  },
+  "CondS": {
+    "1s": "recordaría",
+    "2s": "recordarías",
+    "3s": "recordaría",
+    "1p": "recordaríamos",
+    "2p": "recordaríais",
+    "3p": "recordarían"
+  },
+  "PresC": {
+    "1s": "recuerde",
+    "2s": "recuerdes",
+    "3s": "recuerde",
+    "1p": "recordemos",
+    "2p": "recordéis",
+    "3p": "recuerden"
+  },
+  "PMQPSI": {
+    "1s": "recordara",
+    "2s": "recordaras",
+    "3s": "recordara",
+    "1p": "recordáramos",
+    "2p": "recordarais",
+    "3p": "recordaran"
+  },
+  "PImpC": {
+    "1s": "recordase",
+    "2s": "recordases",
+    "3s": "recordase",
+    "1p": "recordásemos",
+    "2p": "recordaseis",
+    "3p": "recordasen"
+  },
+  "FutSC": {
+    "1s": "recordare",
+    "2s": "recordares",
+    "3s": "recordare",
+    "1p": "recordáremos",
+    "2p": "recordareis",
+    "3p": "recordaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recuerda",
+    "3s": "recuerde",
+    "1p": "recordemos",
+    "2p": "recordad",
+    "3p": "recuerden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recuerdes",
+    "3s": "no recuerde",
+    "1p": "no recordemos",
+    "2p": "no recordéis",
+    "3p": "no recuerden"
+  },
+  "Part-ter": {
+    "": "recordado"
+  },
+  "Part-ser": {
+    "ms": "recordado",
+    "fs": "recordada",
+    "mp": "recordados",
+    "fp": "recordadas"
+  }
+}

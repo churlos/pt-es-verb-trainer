@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "procurar"
+  },
+  "InfP": {
+    "1s": "procurar",
+    "2s": "procurares",
+    "3s": "procurar",
+    "1p": "procurarmos",
+    "2p": "procurardes",
+    "3p": "procurarem"
+  },
+  "Ger": {
+    "": "procurando"
+  },
+  "PresI": {
+    "1s": "procuro",
+    "2s": "procuras",
+    "3s": "procura",
+    "1p": "procuramos",
+    "2p": "procurais",
+    "3p": "procuram"
+  },
+  "PImpI": {
+    "1s": "procurava",
+    "2s": "procuravas",
+    "3s": "procurava",
+    "1p": "procurávamos",
+    "2p": "procuráveis",
+    "3p": "procuravam"
+  },
+  "PPSI": {
+    "1s": "procurei",
+    "2s": "procuraste",
+    "3s": "procurou",
+    "1p": "procurámos",
+    "2p": "procurastes",
+    "3p": "procuraram"
+  },
+  "PMQPSI": {
+    "1s": "procurara",
+    "2s": "procuraras",
+    "3s": "procurara",
+    "1p": "procuráramos",
+    "2p": "procuráreis",
+    "3p": "procuraram"
+  },
+  "FutSI": {
+    "1s": "procurarei",
+    "2s": "procurarás",
+    "3s": "procurará",
+    "1p": "procuraremos",
+    "2p": "procurareis",
+    "3p": "procurarão"
+  },
+  "CondS": {
+    "1s": "procuraria",
+    "2s": "procurarias",
+    "3s": "procuraria",
+    "1p": "procuraríamos",
+    "2p": "procuraríeis",
+    "3p": "procurariam"
+  },
+  "PresC": {
+    "1s": "procure",
+    "2s": "procures",
+    "3s": "procure",
+    "1p": "procuremos",
+    "2p": "procureis",
+    "3p": "procurem"
+  },
+  "PImpC": {
+    "1s": "procurasse",
+    "2s": "procurasses",
+    "3s": "procurasse",
+    "1p": "procurássemos",
+    "2p": "procurásseis",
+    "3p": "procurassem"
+  },
+  "FutSC": {
+    "1s": "procurar",
+    "2s": "procurares",
+    "3s": "procurar",
+    "1p": "procurarmos",
+    "2p": "procurardes",
+    "3p": "procurarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "procura",
+    "3s": "procure",
+    "1p": "procuremos",
+    "2p": "procurai",
+    "3p": "procurem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não procures",
+    "3s": "não procure",
+    "1p": "não procuremos",
+    "2p": "não procureis",
+    "3p": "não procurem"
+  },
+  "Part-ter": {
+    "": "procurado"
+  },
+  "Part-ser": {
+    "ms": "procurado",
+    "fs": "procurada",
+    "mp": "procurados",
+    "fp": "procuradas"
+  }
+}

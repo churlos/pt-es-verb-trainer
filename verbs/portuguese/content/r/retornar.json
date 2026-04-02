@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "retornar"
+  },
+  "InfP": {
+    "1s": "retornar",
+    "2s": "retornares",
+    "3s": "retornar",
+    "1p": "retornarmos",
+    "2p": "retornardes",
+    "3p": "retornarem"
+  },
+  "Ger": {
+    "": "retornando"
+  },
+  "PresI": {
+    "1s": "retorno",
+    "2s": "retornas",
+    "3s": "retorna",
+    "1p": "retornamos",
+    "2p": "retornais",
+    "3p": "retornam"
+  },
+  "PImpI": {
+    "1s": "retornava",
+    "2s": "retornavas",
+    "3s": "retornava",
+    "1p": "retornávamos",
+    "2p": "retornáveis",
+    "3p": "retornavam"
+  },
+  "PPSI": {
+    "1s": "retornei",
+    "2s": "retornaste",
+    "3s": "retornou",
+    "1p": "retornámos",
+    "2p": "retornastes",
+    "3p": "retornaram"
+  },
+  "PMQPSI": {
+    "1s": "retornara",
+    "2s": "retornaras",
+    "3s": "retornara",
+    "1p": "retornáramos",
+    "2p": "retornáreis",
+    "3p": "retornaram"
+  },
+  "FutSI": {
+    "1s": "retornarei",
+    "2s": "retornarás",
+    "3s": "retornará",
+    "1p": "retornaremos",
+    "2p": "retornareis",
+    "3p": "retornarão"
+  },
+  "CondS": {
+    "1s": "retornaria",
+    "2s": "retornarias",
+    "3s": "retornaria",
+    "1p": "retornaríamos",
+    "2p": "retornaríeis",
+    "3p": "retornariam"
+  },
+  "PresC": {
+    "1s": "retorne",
+    "2s": "retornes",
+    "3s": "retorne",
+    "1p": "retornemos",
+    "2p": "retorneis",
+    "3p": "retornem"
+  },
+  "PImpC": {
+    "1s": "retornasse",
+    "2s": "retornasses",
+    "3s": "retornasse",
+    "1p": "retornássemos",
+    "2p": "retornásseis",
+    "3p": "retornassem"
+  },
+  "FutSC": {
+    "1s": "retornar",
+    "2s": "retornares",
+    "3s": "retornar",
+    "1p": "retornarmos",
+    "2p": "retornardes",
+    "3p": "retornarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retorna",
+    "3s": "retorne",
+    "1p": "retornemos",
+    "2p": "retornai",
+    "3p": "retornem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não retornes",
+    "3s": "não retorne",
+    "1p": "não retornemos",
+    "2p": "não retorneis",
+    "3p": "não retornem"
+  },
+  "Part-ter": {
+    "": "retornado"
+  },
+  "Part-ser": {
+    "ms": "retornado",
+    "fs": "retornada",
+    "mp": "retornados",
+    "fp": "retornadas"
+  }
+}

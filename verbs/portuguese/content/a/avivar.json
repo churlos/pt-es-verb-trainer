@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "avivar"
+  },
+  "InfP": {
+    "1s": "avivar",
+    "2s": "avivares",
+    "3s": "avivar",
+    "1p": "avivarmos",
+    "2p": "avivardes",
+    "3p": "avivarem"
+  },
+  "Ger": {
+    "": "avivando"
+  },
+  "PresI": {
+    "1s": "avivo",
+    "2s": "avivas",
+    "3s": "aviva",
+    "1p": "avivamos",
+    "2p": "avivais",
+    "3p": "avivam"
+  },
+  "PImpI": {
+    "1s": "avivava",
+    "2s": "avivavas",
+    "3s": "avivava",
+    "1p": "avivávamos",
+    "2p": "aviváveis",
+    "3p": "avivavam"
+  },
+  "PPSI": {
+    "1s": "avivei",
+    "2s": "avivaste",
+    "3s": "avivou",
+    "1p": "avivámos",
+    "2p": "avivastes",
+    "3p": "avivaram"
+  },
+  "PMQPSI": {
+    "1s": "avivara",
+    "2s": "avivaras",
+    "3s": "avivara",
+    "1p": "aviváramos",
+    "2p": "aviváreis",
+    "3p": "avivaram"
+  },
+  "FutSI": {
+    "1s": "avivarei",
+    "2s": "avivarás",
+    "3s": "avivará",
+    "1p": "avivaremos",
+    "2p": "avivareis",
+    "3p": "avivarão"
+  },
+  "CondS": {
+    "1s": "avivaria",
+    "2s": "avivarias",
+    "3s": "avivaria",
+    "1p": "avivaríamos",
+    "2p": "avivaríeis",
+    "3p": "avivariam"
+  },
+  "PresC": {
+    "1s": "avive",
+    "2s": "avives",
+    "3s": "avive",
+    "1p": "avivemos",
+    "2p": "aviveis",
+    "3p": "avivem"
+  },
+  "PImpC": {
+    "1s": "avivasse",
+    "2s": "avivasses",
+    "3s": "avivasse",
+    "1p": "avivássemos",
+    "2p": "avivásseis",
+    "3p": "avivassem"
+  },
+  "FutSC": {
+    "1s": "avivar",
+    "2s": "avivares",
+    "3s": "avivar",
+    "1p": "avivarmos",
+    "2p": "avivardes",
+    "3p": "avivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aviva",
+    "3s": "avive",
+    "1p": "avivemos",
+    "2p": "avivai",
+    "3p": "avivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não avives",
+    "3s": "não avive",
+    "1p": "não avivemos",
+    "2p": "não aviveis",
+    "3p": "não avivem"
+  },
+  "Part-ter": {
+    "": "avivado"
+  },
+  "Part-ser": {
+    "ms": "avivado",
+    "fs": "avivada",
+    "mp": "avivados",
+    "fp": "avivadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "narrar"
+  },
+  "InfP": {
+    "1s": "narrar",
+    "2s": "narrares",
+    "3s": "narrar",
+    "1p": "narrarmos",
+    "2p": "narrardes",
+    "3p": "narrarem"
+  },
+  "Ger": {
+    "": "narrando"
+  },
+  "PresI": {
+    "1s": "narro",
+    "2s": "narras",
+    "3s": "narra",
+    "1p": "narramos",
+    "2p": "narrais",
+    "3p": "narram"
+  },
+  "PImpI": {
+    "1s": "narrava",
+    "2s": "narravas",
+    "3s": "narrava",
+    "1p": "narrávamos",
+    "2p": "narráveis",
+    "3p": "narravam"
+  },
+  "PPSI": {
+    "1s": "narrei",
+    "2s": "narraste",
+    "3s": "narrou",
+    "1p": "narrámos",
+    "2p": "narrastes",
+    "3p": "narraram"
+  },
+  "PMQPSI": {
+    "1s": "narrara",
+    "2s": "narraras",
+    "3s": "narrara",
+    "1p": "narráramos",
+    "2p": "narráreis",
+    "3p": "narraram"
+  },
+  "FutSI": {
+    "1s": "narrarei",
+    "2s": "narrarás",
+    "3s": "narrará",
+    "1p": "narraremos",
+    "2p": "narrareis",
+    "3p": "narrarão"
+  },
+  "CondS": {
+    "1s": "narraria",
+    "2s": "narrarias",
+    "3s": "narraria",
+    "1p": "narraríamos",
+    "2p": "narraríeis",
+    "3p": "narrariam"
+  },
+  "PresC": {
+    "1s": "narre",
+    "2s": "narres",
+    "3s": "narre",
+    "1p": "narremos",
+    "2p": "narreis",
+    "3p": "narrem"
+  },
+  "PImpC": {
+    "1s": "narrasse",
+    "2s": "narrasses",
+    "3s": "narrasse",
+    "1p": "narrássemos",
+    "2p": "narrásseis",
+    "3p": "narrassem"
+  },
+  "FutSC": {
+    "1s": "narrar",
+    "2s": "narrares",
+    "3s": "narrar",
+    "1p": "narrarmos",
+    "2p": "narrardes",
+    "3p": "narrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "narra",
+    "3s": "narre",
+    "1p": "narremos",
+    "2p": "narrai",
+    "3p": "narrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não narres",
+    "3s": "não narre",
+    "1p": "não narremos",
+    "2p": "não narreis",
+    "3p": "não narrem"
+  },
+  "Part-ter": {
+    "": "narrado"
+  },
+  "Part-ser": {
+    "ms": "narrado",
+    "fs": "narrada",
+    "mp": "narrados",
+    "fp": "narradas"
+  }
+}

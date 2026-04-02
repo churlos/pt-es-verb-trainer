@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abençoar"
+  },
+  "InfP": {
+    "1s": "abençoar",
+    "2s": "abençoares",
+    "3s": "abençoar",
+    "1p": "abençoarmos",
+    "2p": "abençoardes",
+    "3p": "abençoarem"
+  },
+  "Ger": {
+    "": "abençoando"
+  },
+  "PresI": {
+    "1s": "abençooObsolete:abençôo",
+    "2s": "abençoas",
+    "3s": "abençoa",
+    "1p": "abençoamos",
+    "2p": "abençoais",
+    "3p": "abençoam"
+  },
+  "PImpI": {
+    "1s": "abençoava",
+    "2s": "abençoavas",
+    "3s": "abençoava",
+    "1p": "abençoávamos",
+    "2p": "abençoáveis",
+    "3p": "abençoavam"
+  },
+  "PPSI": {
+    "1s": "abençoei",
+    "2s": "abençoaste",
+    "3s": "abençoou",
+    "1p": "abençoámos",
+    "2p": "abençoastes",
+    "3p": "abençoaram"
+  },
+  "PMQPSI": {
+    "1s": "abençoara",
+    "2s": "abençoaras",
+    "3s": "abençoara",
+    "1p": "abençoáramos",
+    "2p": "abençoáreis",
+    "3p": "abençoaram"
+  },
+  "FutSI": {
+    "1s": "abençoarei",
+    "2s": "abençoarás",
+    "3s": "abençoará",
+    "1p": "abençoaremos",
+    "2p": "abençoareis",
+    "3p": "abençoarão"
+  },
+  "CondS": {
+    "1s": "abençoaria",
+    "2s": "abençoarias",
+    "3s": "abençoaria",
+    "1p": "abençoaríamos",
+    "2p": "abençoaríeis",
+    "3p": "abençoariam"
+  },
+  "PresC": {
+    "1s": "abençoe",
+    "2s": "abençoes",
+    "3s": "abençoe",
+    "1p": "abençoemos",
+    "2p": "abençoeis",
+    "3p": "abençoem"
+  },
+  "PImpC": {
+    "1s": "abençoasse",
+    "2s": "abençoasses",
+    "3s": "abençoasse",
+    "1p": "abençoássemos",
+    "2p": "abençoásseis",
+    "3p": "abençoassem"
+  },
+  "FutSC": {
+    "1s": "abençoar",
+    "2s": "abençoares",
+    "3s": "abençoar",
+    "1p": "abençoarmos",
+    "2p": "abençoardes",
+    "3p": "abençoarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abençoa",
+    "3s": "abençoe",
+    "1p": "abençoemos",
+    "2p": "abençoai",
+    "3p": "abençoem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abençoes",
+    "3s": "não abençoe",
+    "1p": "não abençoemos",
+    "2p": "não abençoeis",
+    "3p": "não abençoem"
+  },
+  "Part-ter": {
+    "": "abençoado"
+  },
+  "Part-ser": {
+    "ms": "abençoado",
+    "fs": "abençoada",
+    "mp": "abençoados",
+    "fp": "abençoadas"
+  }
+}

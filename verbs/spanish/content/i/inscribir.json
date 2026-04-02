@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inscribir"
+  },
+  "Ger": {
+    "": "inscribiendo"
+  },
+  "PresI": {
+    "1s": "inscribo",
+    "2s": "inscribes",
+    "3s": "inscribe",
+    "1p": "inscribimos",
+    "2p": "inscribís",
+    "3p": "inscriben"
+  },
+  "PImpI": {
+    "1s": "inscribía",
+    "2s": "inscribías",
+    "3s": "inscribía",
+    "1p": "inscribíamos",
+    "2p": "inscribíais",
+    "3p": "inscribían"
+  },
+  "PPSI": {
+    "1s": "inscribí",
+    "2s": "inscribiste",
+    "3s": "inscribió",
+    "1p": "inscribimos",
+    "2p": "inscribisteis",
+    "3p": "inscribieron"
+  },
+  "FutSI": {
+    "1s": "inscribiré",
+    "2s": "inscribirás",
+    "3s": "inscribirá",
+    "1p": "inscribiremos",
+    "2p": "inscribiréis",
+    "3p": "inscribirán"
+  },
+  "CondS": {
+    "1s": "inscribiría",
+    "2s": "inscribirías",
+    "3s": "inscribiría",
+    "1p": "inscribiríamos",
+    "2p": "inscribiríais",
+    "3p": "inscribirían"
+  },
+  "PresC": {
+    "1s": "inscriba",
+    "2s": "inscribas",
+    "3s": "inscriba",
+    "1p": "inscribamos",
+    "2p": "inscribáis",
+    "3p": "inscriban"
+  },
+  "PMQPSI": {
+    "1s": "inscribiera",
+    "2s": "inscribieras",
+    "3s": "inscribiera",
+    "1p": "inscribiéramos",
+    "2p": "inscribierais",
+    "3p": "inscribieran"
+  },
+  "PImpC": {
+    "1s": "inscribiese",
+    "2s": "inscribieses",
+    "3s": "inscribiese",
+    "1p": "inscribiésemos",
+    "2p": "inscribieseis",
+    "3p": "inscribiesen"
+  },
+  "FutSC": {
+    "1s": "inscribiere",
+    "2s": "inscribieres",
+    "3s": "inscribiere",
+    "1p": "inscribiéremos",
+    "2p": "inscribiereis",
+    "3p": "inscribieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inscribe",
+    "3s": "inscriba",
+    "1p": "inscribamos",
+    "2p": "inscribid",
+    "3p": "inscriban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inscribas",
+    "3s": "no inscriba",
+    "1p": "no inscribamos",
+    "2p": "no inscribáis",
+    "3p": "no inscriban"
+  },
+  "Part-ter": {
+    "": "inscrito, inscripto"
+  },
+  "Part-ser": {
+    "ms": "inscrito, inscripto",
+    "fs": "inscrita, inscripta",
+    "mp": "inscritos, inscriptos",
+    "fp": "inscritas, inscriptas"
+  }
+}

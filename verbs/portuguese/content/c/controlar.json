@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "controlar"
+  },
+  "InfP": {
+    "1s": "controlar",
+    "2s": "controlares",
+    "3s": "controlar",
+    "1p": "controlarmos",
+    "2p": "controlardes",
+    "3p": "controlarem"
+  },
+  "Ger": {
+    "": "controlando"
+  },
+  "PresI": {
+    "1s": "controlo",
+    "2s": "controlas",
+    "3s": "controla",
+    "1p": "controlamos",
+    "2p": "controlais",
+    "3p": "controlam"
+  },
+  "PImpI": {
+    "1s": "controlava",
+    "2s": "controlavas",
+    "3s": "controlava",
+    "1p": "controlávamos",
+    "2p": "controláveis",
+    "3p": "controlavam"
+  },
+  "PPSI": {
+    "1s": "controlei",
+    "2s": "controlaste",
+    "3s": "controlou",
+    "1p": "controlámos",
+    "2p": "controlastes",
+    "3p": "controlaram"
+  },
+  "PMQPSI": {
+    "1s": "controlara",
+    "2s": "controlaras",
+    "3s": "controlara",
+    "1p": "controláramos",
+    "2p": "controláreis",
+    "3p": "controlaram"
+  },
+  "FutSI": {
+    "1s": "controlarei",
+    "2s": "controlarás",
+    "3s": "controlará",
+    "1p": "controlaremos",
+    "2p": "controlareis",
+    "3p": "controlarão"
+  },
+  "CondS": {
+    "1s": "controlaria",
+    "2s": "controlarias",
+    "3s": "controlaria",
+    "1p": "controlaríamos",
+    "2p": "controlaríeis",
+    "3p": "controlariam"
+  },
+  "PresC": {
+    "1s": "controle",
+    "2s": "controles",
+    "3s": "controle",
+    "1p": "controlemos",
+    "2p": "controleis",
+    "3p": "controlem"
+  },
+  "PImpC": {
+    "1s": "controlasse",
+    "2s": "controlasses",
+    "3s": "controlasse",
+    "1p": "controlássemos",
+    "2p": "controlásseis",
+    "3p": "controlassem"
+  },
+  "FutSC": {
+    "1s": "controlar",
+    "2s": "controlares",
+    "3s": "controlar",
+    "1p": "controlarmos",
+    "2p": "controlardes",
+    "3p": "controlarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "controla",
+    "3s": "controle",
+    "1p": "controlemos",
+    "2p": "controlai",
+    "3p": "controlem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não controles",
+    "3s": "não controle",
+    "1p": "não controlemos",
+    "2p": "não controleis",
+    "3p": "não controlem"
+  },
+  "Part-ter": {
+    "": "controlado"
+  },
+  "Part-ser": {
+    "ms": "controlado",
+    "fs": "controlada",
+    "mp": "controlados",
+    "fp": "controladas"
+  }
+}

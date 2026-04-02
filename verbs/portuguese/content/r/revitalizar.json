@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "revitalizar"
+  },
+  "InfP": {
+    "1s": "revitalizar",
+    "2s": "revitalizares",
+    "3s": "revitalizar",
+    "1p": "revitalizarmos",
+    "2p": "revitalizardes",
+    "3p": "revitalizarem"
+  },
+  "Ger": {
+    "": "revitalizando"
+  },
+  "PresI": {
+    "1s": "revitalizo",
+    "2s": "revitalizas",
+    "3s": "revitaliza",
+    "1p": "revitalizamos",
+    "2p": "revitalizais",
+    "3p": "revitalizam"
+  },
+  "PImpI": {
+    "1s": "revitalizava",
+    "2s": "revitalizavas",
+    "3s": "revitalizava",
+    "1p": "revitalizávamos",
+    "2p": "revitalizáveis",
+    "3p": "revitalizavam"
+  },
+  "PPSI": {
+    "1s": "revitalizei",
+    "2s": "revitalizaste",
+    "3s": "revitalizou",
+    "1p": "revitalizámos",
+    "2p": "revitalizastes",
+    "3p": "revitalizaram"
+  },
+  "PMQPSI": {
+    "1s": "revitalizara",
+    "2s": "revitalizaras",
+    "3s": "revitalizara",
+    "1p": "revitalizáramos",
+    "2p": "revitalizáreis",
+    "3p": "revitalizaram"
+  },
+  "FutSI": {
+    "1s": "revitalizarei",
+    "2s": "revitalizarás",
+    "3s": "revitalizará",
+    "1p": "revitalizaremos",
+    "2p": "revitalizareis",
+    "3p": "revitalizarão"
+  },
+  "CondS": {
+    "1s": "revitalizaria",
+    "2s": "revitalizarias",
+    "3s": "revitalizaria",
+    "1p": "revitalizaríamos",
+    "2p": "revitalizaríeis",
+    "3p": "revitalizariam"
+  },
+  "PresC": {
+    "1s": "revitalize",
+    "2s": "revitalizes",
+    "3s": "revitalize",
+    "1p": "revitalizemos",
+    "2p": "revitalizeis",
+    "3p": "revitalizem"
+  },
+  "PImpC": {
+    "1s": "revitalizasse",
+    "2s": "revitalizasses",
+    "3s": "revitalizasse",
+    "1p": "revitalizássemos",
+    "2p": "revitalizásseis",
+    "3p": "revitalizassem"
+  },
+  "FutSC": {
+    "1s": "revitalizar",
+    "2s": "revitalizares",
+    "3s": "revitalizar",
+    "1p": "revitalizarmos",
+    "2p": "revitalizardes",
+    "3p": "revitalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revitaliza",
+    "3s": "revitalize",
+    "1p": "revitalizemos",
+    "2p": "revitalizai",
+    "3p": "revitalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não revitalizes",
+    "3s": "não revitalize",
+    "1p": "não revitalizemos",
+    "2p": "não revitalizeis",
+    "3p": "não revitalizem"
+  },
+  "Part-ter": {
+    "": "revitalizado"
+  },
+  "Part-ser": {
+    "ms": "revitalizado",
+    "fs": "revitalizada",
+    "mp": "revitalizados",
+    "fp": "revitalizadas"
+  }
+}

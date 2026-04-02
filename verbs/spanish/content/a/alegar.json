@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alegar"
+  },
+  "Ger": {
+    "": "alegando"
+  },
+  "PresI": {
+    "1s": "alego",
+    "2s": "alegas",
+    "3s": "alega",
+    "1p": "alegamos",
+    "2p": "alegáis",
+    "3p": "alegan"
+  },
+  "PImpI": {
+    "1s": "alegaba",
+    "2s": "alegabas",
+    "3s": "alegaba",
+    "1p": "alegábamos",
+    "2p": "alegabais",
+    "3p": "alegaban"
+  },
+  "PPSI": {
+    "1s": "alegué",
+    "2s": "alegaste",
+    "3s": "alegó",
+    "1p": "alegamos",
+    "2p": "alegasteis",
+    "3p": "alegaron"
+  },
+  "FutSI": {
+    "1s": "alegaré",
+    "2s": "alegarás",
+    "3s": "alegará",
+    "1p": "alegaremos",
+    "2p": "alegaréis",
+    "3p": "alegarán"
+  },
+  "CondS": {
+    "1s": "alegaría",
+    "2s": "alegarías",
+    "3s": "alegaría",
+    "1p": "alegaríamos",
+    "2p": "alegaríais",
+    "3p": "alegarían"
+  },
+  "PresC": {
+    "1s": "alegue",
+    "2s": "alegues",
+    "3s": "alegue",
+    "1p": "aleguemos",
+    "2p": "aleguéis",
+    "3p": "aleguen"
+  },
+  "PMQPSI": {
+    "1s": "alegara",
+    "2s": "alegaras",
+    "3s": "alegara",
+    "1p": "alegáramos",
+    "2p": "alegarais",
+    "3p": "alegaran"
+  },
+  "PImpC": {
+    "1s": "alegase",
+    "2s": "alegases",
+    "3s": "alegase",
+    "1p": "alegásemos",
+    "2p": "alegaseis",
+    "3p": "alegasen"
+  },
+  "FutSC": {
+    "1s": "alegare",
+    "2s": "alegares",
+    "3s": "alegare",
+    "1p": "alegáremos",
+    "2p": "alegareis",
+    "3p": "alegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alega",
+    "3s": "alegue",
+    "1p": "aleguemos",
+    "2p": "alegad",
+    "3p": "aleguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alegues",
+    "3s": "no alegue",
+    "1p": "no aleguemos",
+    "2p": "no aleguéis",
+    "3p": "no aleguen"
+  },
+  "Part-ter": {
+    "": "alegado"
+  },
+  "Part-ser": {
+    "ms": "alegado",
+    "fs": "alegada",
+    "mp": "alegados",
+    "fp": "alegadas"
+  }
+}

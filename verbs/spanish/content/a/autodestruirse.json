@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autodestruirse"
+  },
+  "Ger": {
+    "": "autodestruyéndose"
+  },
+  "PresI": {
+    "1s": "me autodestruyo",
+    "2s": "te autodestruyes",
+    "3s": "se autodestruye",
+    "1p": "nos autodestruimos",
+    "2p": "os autodestruís",
+    "3p": "se autodestruyen"
+  },
+  "PImpI": {
+    "1s": "me autodestruía",
+    "2s": "te autodestruías",
+    "3s": "se autodestruía",
+    "1p": "nos autodestruíamos",
+    "2p": "os autodestruíais",
+    "3p": "se autodestruían"
+  },
+  "PPSI": {
+    "1s": "me autodestruí",
+    "2s": "te autodestruiste",
+    "3s": "se autodestruyó",
+    "1p": "nos autodestruimos",
+    "2p": "os autodestruisteis",
+    "3p": "se autodestruyeron"
+  },
+  "FutSI": {
+    "1s": "me autodestruiré",
+    "2s": "te autodestruirás",
+    "3s": "se autodestruirá",
+    "1p": "nos autodestruiremos",
+    "2p": "os autodestruiréis",
+    "3p": "se autodestruirán"
+  },
+  "CondS": {
+    "1s": "me autodestruiría",
+    "2s": "te autodestruirías",
+    "3s": "se autodestruiría",
+    "1p": "nos autodestruiríamos",
+    "2p": "os autodestruiríais",
+    "3p": "se autodestruirían"
+  },
+  "PresC": {
+    "1s": "me autodestruya",
+    "2s": "te autodestruyas",
+    "3s": "se autodestruya",
+    "1p": "nos autodestruyamos",
+    "2p": "os autodestruyáis",
+    "3p": "se autodestruyan"
+  },
+  "PMQPSI": {
+    "1s": "me autodestruyera",
+    "2s": "te autodestruyeras",
+    "3s": "se autodestruyera",
+    "1p": "nos autodestruyéramos",
+    "2p": "os autodestruyerais",
+    "3p": "se autodestruyeran"
+  },
+  "PImpC": {
+    "1s": "me autodestruyese",
+    "2s": "te autodestruyeses",
+    "3s": "se autodestruyese",
+    "1p": "nos autodestruyésemos",
+    "2p": "os autodestruyeseis",
+    "3p": "se autodestruyesen"
+  },
+  "FutSC": {
+    "1s": "me autodestruyere",
+    "2s": "te autodestruyeres",
+    "3s": "se autodestruyere",
+    "1p": "nos autodestruyéremos",
+    "2p": "os autodestruyereis",
+    "3p": "se autodestruyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autodestrúyete",
+    "3s": "autodestrúyase",
+    "1p": "autodestruyámonos",
+    "2p": "autodestruíos",
+    "3p": "autodestrúyanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autodestruyas",
+    "3s": "no se autodestruya",
+    "1p": "no nos autodestruyamos",
+    "2p": "no os autodestruyáis",
+    "3p": "no se autodestruyan"
+  },
+  "Part-ter": {
+    "": "autodestruido"
+  },
+  "Part-ser": {
+    "ms": "autodestruido",
+    "fs": "autodestruida",
+    "mp": "autodestruidos",
+    "fp": "autodestruidas"
+  }
+}

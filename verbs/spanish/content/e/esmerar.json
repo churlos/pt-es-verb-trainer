@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "esmerar"
+  },
+  "Ger": {
+    "": "esmerando"
+  },
+  "PresI": {
+    "1s": "esmero",
+    "2s": "esmeras",
+    "3s": "esmera",
+    "1p": "esmeramos",
+    "2p": "esmeráis",
+    "3p": "esmeran"
+  },
+  "PImpI": {
+    "1s": "esmeraba",
+    "2s": "esmerabas",
+    "3s": "esmeraba",
+    "1p": "esmerábamos",
+    "2p": "esmerabais",
+    "3p": "esmeraban"
+  },
+  "PPSI": {
+    "1s": "esmeré",
+    "2s": "esmeraste",
+    "3s": "esmeró",
+    "1p": "esmeramos",
+    "2p": "esmerasteis",
+    "3p": "esmeraron"
+  },
+  "FutSI": {
+    "1s": "esmeraré",
+    "2s": "esmerarás",
+    "3s": "esmerará",
+    "1p": "esmeraremos",
+    "2p": "esmeraréis",
+    "3p": "esmerarán"
+  },
+  "CondS": {
+    "1s": "esmeraría",
+    "2s": "esmerarías",
+    "3s": "esmeraría",
+    "1p": "esmeraríamos",
+    "2p": "esmeraríais",
+    "3p": "esmerarían"
+  },
+  "PresC": {
+    "1s": "esmere",
+    "2s": "esmeres",
+    "3s": "esmere",
+    "1p": "esmeremos",
+    "2p": "esmeréis",
+    "3p": "esmeren"
+  },
+  "PMQPSI": {
+    "1s": "esmerara",
+    "2s": "esmeraras",
+    "3s": "esmerara",
+    "1p": "esmeráramos",
+    "2p": "esmerarais",
+    "3p": "esmeraran"
+  },
+  "PImpC": {
+    "1s": "esmerase",
+    "2s": "esmerases",
+    "3s": "esmerase",
+    "1p": "esmerásemos",
+    "2p": "esmeraseis",
+    "3p": "esmerasen"
+  },
+  "FutSC": {
+    "1s": "esmerare",
+    "2s": "esmerares",
+    "3s": "esmerare",
+    "1p": "esmeráremos",
+    "2p": "esmerareis",
+    "3p": "esmeraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esmera",
+    "3s": "esmere",
+    "1p": "esmeremos",
+    "2p": "esmerad",
+    "3p": "esmeren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no esmeres",
+    "3s": "no esmere",
+    "1p": "no esmeremos",
+    "2p": "no esmeréis",
+    "3p": "no esmeren"
+  },
+  "Part-ter": {
+    "": "esmerado"
+  },
+  "Part-ser": {
+    "ms": "esmerado",
+    "fs": "esmerada",
+    "mp": "esmerados",
+    "fp": "esmeradas"
+  }
+}

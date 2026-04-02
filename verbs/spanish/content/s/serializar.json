@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "serializar"
+  },
+  "Ger": {
+    "": "serializando"
+  },
+  "PresI": {
+    "1s": "serializo",
+    "2s": "serializas",
+    "3s": "serializa",
+    "1p": "serializamos",
+    "2p": "serializáis",
+    "3p": "serializan"
+  },
+  "PImpI": {
+    "1s": "serializaba",
+    "2s": "serializabas",
+    "3s": "serializaba",
+    "1p": "serializábamos",
+    "2p": "serializabais",
+    "3p": "serializaban"
+  },
+  "PPSI": {
+    "1s": "serialicé",
+    "2s": "serializaste",
+    "3s": "serializó",
+    "1p": "serializamos",
+    "2p": "serializasteis",
+    "3p": "serializaron"
+  },
+  "FutSI": {
+    "1s": "serializaré",
+    "2s": "serializarás",
+    "3s": "serializará",
+    "1p": "serializaremos",
+    "2p": "serializaréis",
+    "3p": "serializarán"
+  },
+  "CondS": {
+    "1s": "serializaría",
+    "2s": "serializarías",
+    "3s": "serializaría",
+    "1p": "serializaríamos",
+    "2p": "serializaríais",
+    "3p": "serializarían"
+  },
+  "PresC": {
+    "1s": "serialice",
+    "2s": "serialices",
+    "3s": "serialice",
+    "1p": "serialicemos",
+    "2p": "serialicéis",
+    "3p": "serialicen"
+  },
+  "PMQPSI": {
+    "1s": "serializara",
+    "2s": "serializaras",
+    "3s": "serializara",
+    "1p": "serializáramos",
+    "2p": "serializarais",
+    "3p": "serializaran"
+  },
+  "PImpC": {
+    "1s": "serializase",
+    "2s": "serializases",
+    "3s": "serializase",
+    "1p": "serializásemos",
+    "2p": "serializaseis",
+    "3p": "serializasen"
+  },
+  "FutSC": {
+    "1s": "serializare",
+    "2s": "serializares",
+    "3s": "serializare",
+    "1p": "serializáremos",
+    "2p": "serializareis",
+    "3p": "serializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "serializa",
+    "3s": "serialice",
+    "1p": "serialicemos",
+    "2p": "serializad",
+    "3p": "serialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no serialices",
+    "3s": "no serialice",
+    "1p": "no serialicemos",
+    "2p": "no serialicéis",
+    "3p": "no serialicen"
+  },
+  "Part-ter": {
+    "": "serializado"
+  },
+  "Part-ser": {
+    "ms": "serializado",
+    "fs": "serializada",
+    "mp": "serializados",
+    "fp": "serializadas"
+  }
+}

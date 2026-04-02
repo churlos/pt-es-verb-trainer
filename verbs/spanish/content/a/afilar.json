@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "afilar"
+  },
+  "Ger": {
+    "": "afilando"
+  },
+  "PresI": {
+    "1s": "afilo",
+    "2s": "afilas",
+    "3s": "afila",
+    "1p": "afilamos",
+    "2p": "afiláis",
+    "3p": "afilan"
+  },
+  "PImpI": {
+    "1s": "afilaba",
+    "2s": "afilabas",
+    "3s": "afilaba",
+    "1p": "afilábamos",
+    "2p": "afilabais",
+    "3p": "afilaban"
+  },
+  "PPSI": {
+    "1s": "afilé",
+    "2s": "afilaste",
+    "3s": "afiló",
+    "1p": "afilamos",
+    "2p": "afilasteis",
+    "3p": "afilaron"
+  },
+  "FutSI": {
+    "1s": "afilaré",
+    "2s": "afilarás",
+    "3s": "afilará",
+    "1p": "afilaremos",
+    "2p": "afilaréis",
+    "3p": "afilarán"
+  },
+  "CondS": {
+    "1s": "afilaría",
+    "2s": "afilarías",
+    "3s": "afilaría",
+    "1p": "afilaríamos",
+    "2p": "afilaríais",
+    "3p": "afilarían"
+  },
+  "PresC": {
+    "1s": "afile",
+    "2s": "afiles",
+    "3s": "afile",
+    "1p": "afilemos",
+    "2p": "afiléis",
+    "3p": "afilen"
+  },
+  "PMQPSI": {
+    "1s": "afilara",
+    "2s": "afilaras",
+    "3s": "afilara",
+    "1p": "afiláramos",
+    "2p": "afilarais",
+    "3p": "afilaran"
+  },
+  "PImpC": {
+    "1s": "afilase",
+    "2s": "afilases",
+    "3s": "afilase",
+    "1p": "afilásemos",
+    "2p": "afilaseis",
+    "3p": "afilasen"
+  },
+  "FutSC": {
+    "1s": "afilare",
+    "2s": "afilares",
+    "3s": "afilare",
+    "1p": "afiláremos",
+    "2p": "afilareis",
+    "3p": "afilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afila",
+    "3s": "afile",
+    "1p": "afilemos",
+    "2p": "afilad",
+    "3p": "afilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no afiles",
+    "3s": "no afile",
+    "1p": "no afilemos",
+    "2p": "no afiléis",
+    "3p": "no afilen"
+  },
+  "Part-ter": {
+    "": "afilado"
+  },
+  "Part-ser": {
+    "ms": "afilado",
+    "fs": "afilada",
+    "mp": "afilados",
+    "fp": "afiladas"
+  }
+}

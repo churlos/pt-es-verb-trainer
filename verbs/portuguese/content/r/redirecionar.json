@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "redirecionar"
+  },
+  "InfP": {
+    "1s": "redirecionar",
+    "2s": "redirecionares",
+    "3s": "redirecionar",
+    "1p": "redirecionarmos",
+    "2p": "redirecionardes",
+    "3p": "redirecionarem"
+  },
+  "Ger": {
+    "": "redirecionando"
+  },
+  "PresI": {
+    "1s": "redireciono",
+    "2s": "redirecionas",
+    "3s": "redireciona",
+    "1p": "redirecionamos",
+    "2p": "redirecionais",
+    "3p": "redirecionam"
+  },
+  "PImpI": {
+    "1s": "redirecionava",
+    "2s": "redirecionavas",
+    "3s": "redirecionava",
+    "1p": "redirecionávamos",
+    "2p": "redirecionáveis",
+    "3p": "redirecionavam"
+  },
+  "PPSI": {
+    "1s": "redirecionei",
+    "2s": "redirecionaste",
+    "3s": "redirecionou",
+    "1p": "redirecionámos",
+    "2p": "redirecionastes",
+    "3p": "redirecionaram"
+  },
+  "PMQPSI": {
+    "1s": "redirecionara",
+    "2s": "redirecionaras",
+    "3s": "redirecionara",
+    "1p": "redirecionáramos",
+    "2p": "redirecionáreis",
+    "3p": "redirecionaram"
+  },
+  "FutSI": {
+    "1s": "redirecionarei",
+    "2s": "redirecionarás",
+    "3s": "redirecionará",
+    "1p": "redirecionaremos",
+    "2p": "redirecionareis",
+    "3p": "redirecionarão"
+  },
+  "CondS": {
+    "1s": "redirecionaria",
+    "2s": "redirecionarias",
+    "3s": "redirecionaria",
+    "1p": "redirecionaríamos",
+    "2p": "redirecionaríeis",
+    "3p": "redirecionariam"
+  },
+  "PresC": {
+    "1s": "redirecione",
+    "2s": "redireciones",
+    "3s": "redirecione",
+    "1p": "redirecionemos",
+    "2p": "redirecioneis",
+    "3p": "redirecionem"
+  },
+  "PImpC": {
+    "1s": "redirecionasse",
+    "2s": "redirecionasses",
+    "3s": "redirecionasse",
+    "1p": "redirecionássemos",
+    "2p": "redirecionásseis",
+    "3p": "redirecionassem"
+  },
+  "FutSC": {
+    "1s": "redirecionar",
+    "2s": "redirecionares",
+    "3s": "redirecionar",
+    "1p": "redirecionarmos",
+    "2p": "redirecionardes",
+    "3p": "redirecionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "redireciona",
+    "3s": "redirecione",
+    "1p": "redirecionemos",
+    "2p": "redirecionai",
+    "3p": "redirecionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não redireciones",
+    "3s": "não redirecione",
+    "1p": "não redirecionemos",
+    "2p": "não redirecioneis",
+    "3p": "não redirecionem"
+  },
+  "Part-ter": {
+    "": "redirecionado"
+  },
+  "Part-ser": {
+    "ms": "redirecionado",
+    "fs": "redirecionada",
+    "mp": "redirecionados",
+    "fp": "redirecionadas"
+  }
+}

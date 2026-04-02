@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "marcharse"
+  },
+  "Ger": {
+    "": "marchándose"
+  },
+  "PresI": {
+    "1s": "me marcho",
+    "2s": "te marchas",
+    "3s": "se marcha",
+    "1p": "nos marchamos",
+    "2p": "os marcháis",
+    "3p": "se marchan"
+  },
+  "PImpI": {
+    "1s": "me marchaba",
+    "2s": "te marchabas",
+    "3s": "se marchaba",
+    "1p": "nos marchábamos",
+    "2p": "os marchabais",
+    "3p": "se marchaban"
+  },
+  "PPSI": {
+    "1s": "me marché",
+    "2s": "te marchaste",
+    "3s": "se marchó",
+    "1p": "nos marchamos",
+    "2p": "os marchasteis",
+    "3p": "se marcharon"
+  },
+  "FutSI": {
+    "1s": "me marcharé",
+    "2s": "te marcharás",
+    "3s": "se marchará",
+    "1p": "nos marcharemos",
+    "2p": "os marcharéis",
+    "3p": "se marcharán"
+  },
+  "CondS": {
+    "1s": "me marcharía",
+    "2s": "te marcharías",
+    "3s": "se marcharía",
+    "1p": "nos marcharíamos",
+    "2p": "os marcharíais",
+    "3p": "se marcharían"
+  },
+  "PresC": {
+    "1s": "me marche",
+    "2s": "te marches",
+    "3s": "se marche",
+    "1p": "nos marchemos",
+    "2p": "os marchéis",
+    "3p": "se marchen"
+  },
+  "PMQPSI": {
+    "1s": "me marchara",
+    "2s": "te marcharas",
+    "3s": "se marchara",
+    "1p": "nos marcháramos",
+    "2p": "os marcharais",
+    "3p": "se marcharan"
+  },
+  "PImpC": {
+    "1s": "me marchase",
+    "2s": "te marchases",
+    "3s": "se marchase",
+    "1p": "nos marchásemos",
+    "2p": "os marchaseis",
+    "3p": "se marchasen"
+  },
+  "FutSC": {
+    "1s": "me marchare",
+    "2s": "te marchares",
+    "3s": "se marchare",
+    "1p": "nos marcháremos",
+    "2p": "os marchareis",
+    "3p": "se marcharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "márchate",
+    "3s": "márchese",
+    "1p": "marchémonos",
+    "2p": "marchaos",
+    "3p": "márchense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te marches",
+    "3s": "no se marche",
+    "1p": "no nos marchemos",
+    "2p": "no os marchéis",
+    "3p": "no se marchen"
+  },
+  "Part-ter": {
+    "": "marchado"
+  },
+  "Part-ser": {
+    "ms": "marchado",
+    "fs": "marchada",
+    "mp": "marchados",
+    "fp": "marchadas"
+  }
+}

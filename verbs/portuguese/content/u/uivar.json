@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "uivar"
+  },
+  "InfP": {
+    "1s": "uivar",
+    "2s": "uivares",
+    "3s": "uivar",
+    "1p": "uivarmos",
+    "2p": "uivardes",
+    "3p": "uivarem"
+  },
+  "Ger": {
+    "": "uivando"
+  },
+  "PresI": {
+    "1s": "uivo",
+    "2s": "uivas",
+    "3s": "uiva",
+    "1p": "uivamos",
+    "2p": "uivais",
+    "3p": "uivam"
+  },
+  "PImpI": {
+    "1s": "uivava",
+    "2s": "uivavas",
+    "3s": "uivava",
+    "1p": "uivávamos",
+    "2p": "uiváveis",
+    "3p": "uivavam"
+  },
+  "PPSI": {
+    "1s": "uivei",
+    "2s": "uivaste",
+    "3s": "uivou",
+    "1p": "uivámos",
+    "2p": "uivastes",
+    "3p": "uivaram"
+  },
+  "PMQPSI": {
+    "1s": "uivara",
+    "2s": "uivaras",
+    "3s": "uivara",
+    "1p": "uiváramos",
+    "2p": "uiváreis",
+    "3p": "uivaram"
+  },
+  "FutSI": {
+    "1s": "uivarei",
+    "2s": "uivarás",
+    "3s": "uivará",
+    "1p": "uivaremos",
+    "2p": "uivareis",
+    "3p": "uivarão"
+  },
+  "CondS": {
+    "1s": "uivaria",
+    "2s": "uivarias",
+    "3s": "uivaria",
+    "1p": "uivaríamos",
+    "2p": "uivaríeis",
+    "3p": "uivariam"
+  },
+  "PresC": {
+    "1s": "uive",
+    "2s": "uives",
+    "3s": "uive",
+    "1p": "uivemos",
+    "2p": "uiveis",
+    "3p": "uivem"
+  },
+  "PImpC": {
+    "1s": "uivasse",
+    "2s": "uivasses",
+    "3s": "uivasse",
+    "1p": "uivássemos",
+    "2p": "uivásseis",
+    "3p": "uivassem"
+  },
+  "FutSC": {
+    "1s": "uivar",
+    "2s": "uivares",
+    "3s": "uivar",
+    "1p": "uivarmos",
+    "2p": "uivardes",
+    "3p": "uivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "uiva",
+    "3s": "uive",
+    "1p": "uivemos",
+    "2p": "uivai",
+    "3p": "uivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não uives",
+    "3s": "não uive",
+    "1p": "não uivemos",
+    "2p": "não uiveis",
+    "3p": "não uivem"
+  },
+  "Part-ter": {
+    "": "uivado"
+  },
+  "Part-ser": {
+    "ms": "uivado",
+    "fs": "uivada",
+    "mp": "uivados",
+    "fp": "uivadas"
+  }
+}

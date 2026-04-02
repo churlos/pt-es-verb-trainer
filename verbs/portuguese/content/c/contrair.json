@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "contrair"
+  },
+  "InfP": {
+    "1s": "contrair",
+    "2s": "contraíres",
+    "3s": "contrair",
+    "1p": "contrairmos",
+    "2p": "contrairdes",
+    "3p": "contraírem"
+  },
+  "Ger": {
+    "": "contraindo"
+  },
+  "PresI": {
+    "1s": "contraio",
+    "2s": "contrais",
+    "3s": "contrai",
+    "1p": "contraímos",
+    "2p": "contraís",
+    "3p": "contraem"
+  },
+  "PImpI": {
+    "1s": "contraía",
+    "2s": "contraías",
+    "3s": "contraía",
+    "1p": "contraíamos",
+    "2p": "contraíeis",
+    "3p": "contraíam"
+  },
+  "PPSI": {
+    "1s": "contraí",
+    "2s": "contraíste",
+    "3s": "contraiu",
+    "1p": "contraímos",
+    "2p": "contraístes",
+    "3p": "contraíram"
+  },
+  "PMQPSI": {
+    "1s": "contraíra",
+    "2s": "contraíras",
+    "3s": "contraíra",
+    "1p": "contraíramos",
+    "2p": "contraíreis",
+    "3p": "contraíram"
+  },
+  "FutSI": {
+    "1s": "contrairei",
+    "2s": "contrairás",
+    "3s": "contrairá",
+    "1p": "contrairemos",
+    "2p": "contraireis",
+    "3p": "contrairão"
+  },
+  "CondS": {
+    "1s": "contrairia",
+    "2s": "contrairias",
+    "3s": "contrairia",
+    "1p": "contrairíamos",
+    "2p": "contrairíeis",
+    "3p": "contrairiam"
+  },
+  "PresC": {
+    "1s": "contraia",
+    "2s": "contraias",
+    "3s": "contraia",
+    "1p": "contraiamos",
+    "2p": "contraiais",
+    "3p": "contraiam"
+  },
+  "PImpC": {
+    "1s": "contraísse",
+    "2s": "contraísses",
+    "3s": "contraísse",
+    "1p": "contraíssemos",
+    "2p": "contraísseis",
+    "3p": "contraíssem"
+  },
+  "FutSC": {
+    "1s": "contrair",
+    "2s": "contraíres",
+    "3s": "contrair",
+    "1p": "contrairmos",
+    "2p": "contrairdes",
+    "3p": "contraírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contrai",
+    "3s": "contraia",
+    "1p": "contraiamos",
+    "2p": "contraí",
+    "3p": "contraiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contraias",
+    "3s": "não contraia",
+    "1p": "não contraiamos",
+    "2p": "não contraiais",
+    "3p": "não contraiam"
+  },
+  "Part-ter": {
+    "": "contraído"
+  },
+  "Part-ser": {
+    "ms": "contraído",
+    "fs": "contraída",
+    "mp": "contraídos",
+    "fp": "contraídas"
+  }
+}

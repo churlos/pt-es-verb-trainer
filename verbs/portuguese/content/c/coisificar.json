@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "coisificar"
+  },
+  "InfP": {
+    "1s": "coisificar",
+    "2s": "coisificares",
+    "3s": "coisificar",
+    "1p": "coisificarmos",
+    "2p": "coisificardes",
+    "3p": "coisificarem"
+  },
+  "Ger": {
+    "": "coisificando"
+  },
+  "PresI": {
+    "1s": "coisifico",
+    "2s": "coisificas",
+    "3s": "coisifica",
+    "1p": "coisificamos",
+    "2p": "coisificais",
+    "3p": "coisificam"
+  },
+  "PImpI": {
+    "1s": "coisificava",
+    "2s": "coisificavas",
+    "3s": "coisificava",
+    "1p": "coisificávamos",
+    "2p": "coisificáveis",
+    "3p": "coisificavam"
+  },
+  "PPSI": {
+    "1s": "coisifiquei",
+    "2s": "coisificaste",
+    "3s": "coisificou",
+    "1p": "coisificámos",
+    "2p": "coisificastes",
+    "3p": "coisificaram"
+  },
+  "PMQPSI": {
+    "1s": "coisificara",
+    "2s": "coisificaras",
+    "3s": "coisificara",
+    "1p": "coisificáramos",
+    "2p": "coisificáreis",
+    "3p": "coisificaram"
+  },
+  "FutSI": {
+    "1s": "coisificarei",
+    "2s": "coisificarás",
+    "3s": "coisificará",
+    "1p": "coisificaremos",
+    "2p": "coisificareis",
+    "3p": "coisificarão"
+  },
+  "CondS": {
+    "1s": "coisificaria",
+    "2s": "coisificarias",
+    "3s": "coisificaria",
+    "1p": "coisificaríamos",
+    "2p": "coisificaríeis",
+    "3p": "coisificariam"
+  },
+  "PresC": {
+    "1s": "coisifique",
+    "2s": "coisifiques",
+    "3s": "coisifique",
+    "1p": "coisifiquemos",
+    "2p": "coisifiqueis",
+    "3p": "coisifiquem"
+  },
+  "PImpC": {
+    "1s": "coisificasse",
+    "2s": "coisificasses",
+    "3s": "coisificasse",
+    "1p": "coisificássemos",
+    "2p": "coisificásseis",
+    "3p": "coisificassem"
+  },
+  "FutSC": {
+    "1s": "coisificar",
+    "2s": "coisificares",
+    "3s": "coisificar",
+    "1p": "coisificarmos",
+    "2p": "coisificardes",
+    "3p": "coisificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coisifica",
+    "3s": "coisifique",
+    "1p": "coisifiquemos",
+    "2p": "coisificai",
+    "3p": "coisifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coisifiques",
+    "3s": "não coisifique",
+    "1p": "não coisifiquemos",
+    "2p": "não coisifiqueis",
+    "3p": "não coisifiquem"
+  },
+  "Part-ter": {
+    "": "coisificado"
+  },
+  "Part-ser": {
+    "ms": "coisificado",
+    "fs": "coisificada",
+    "mp": "coisificados",
+    "fp": "coisificadas"
+  }
+}

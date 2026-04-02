@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "licitar"
+  },
+  "InfP": {
+    "1s": "licitar",
+    "2s": "licitares",
+    "3s": "licitar",
+    "1p": "licitarmos",
+    "2p": "licitardes",
+    "3p": "licitarem"
+  },
+  "Ger": {
+    "": "licitando"
+  },
+  "PresI": {
+    "1s": "licito",
+    "2s": "licitas",
+    "3s": "licita",
+    "1p": "licitamos",
+    "2p": "licitais",
+    "3p": "licitam"
+  },
+  "PImpI": {
+    "1s": "licitava",
+    "2s": "licitavas",
+    "3s": "licitava",
+    "1p": "licitávamos",
+    "2p": "licitáveis",
+    "3p": "licitavam"
+  },
+  "PPSI": {
+    "1s": "licitei",
+    "2s": "licitaste",
+    "3s": "licitou",
+    "1p": "licitámos",
+    "2p": "licitastes",
+    "3p": "licitaram"
+  },
+  "PMQPSI": {
+    "1s": "licitara",
+    "2s": "licitaras",
+    "3s": "licitara",
+    "1p": "licitáramos",
+    "2p": "licitáreis",
+    "3p": "licitaram"
+  },
+  "FutSI": {
+    "1s": "licitarei",
+    "2s": "licitarás",
+    "3s": "licitará",
+    "1p": "licitaremos",
+    "2p": "licitareis",
+    "3p": "licitarão"
+  },
+  "CondS": {
+    "1s": "licitaria",
+    "2s": "licitarias",
+    "3s": "licitaria",
+    "1p": "licitaríamos",
+    "2p": "licitaríeis",
+    "3p": "licitariam"
+  },
+  "PresC": {
+    "1s": "licite",
+    "2s": "licites",
+    "3s": "licite",
+    "1p": "licitemos",
+    "2p": "liciteis",
+    "3p": "licitem"
+  },
+  "PImpC": {
+    "1s": "licitasse",
+    "2s": "licitasses",
+    "3s": "licitasse",
+    "1p": "licitássemos",
+    "2p": "licitásseis",
+    "3p": "licitassem"
+  },
+  "FutSC": {
+    "1s": "licitar",
+    "2s": "licitares",
+    "3s": "licitar",
+    "1p": "licitarmos",
+    "2p": "licitardes",
+    "3p": "licitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "licita",
+    "3s": "licite",
+    "1p": "licitemos",
+    "2p": "licitai",
+    "3p": "licitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não licites",
+    "3s": "não licite",
+    "1p": "não licitemos",
+    "2p": "não liciteis",
+    "3p": "não licitem"
+  },
+  "Part-ter": {
+    "": "licitado"
+  },
+  "Part-ser": {
+    "ms": "licitado",
+    "fs": "licitada",
+    "mp": "licitados",
+    "fp": "licitadas"
+  }
+}

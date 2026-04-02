@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "requestar"
+  },
+  "InfP": {
+    "1s": "requestar",
+    "2s": "requestares",
+    "3s": "requestar",
+    "1p": "requestarmos",
+    "2p": "requestardes",
+    "3p": "requestarem"
+  },
+  "Ger": {
+    "": "requestando"
+  },
+  "PresI": {
+    "1s": "requesto",
+    "2s": "requestas",
+    "3s": "requesta",
+    "1p": "requestamos",
+    "2p": "requestais",
+    "3p": "requestam"
+  },
+  "PImpI": {
+    "1s": "requestava",
+    "2s": "requestavas",
+    "3s": "requestava",
+    "1p": "requestávamos",
+    "2p": "requestáveis",
+    "3p": "requestavam"
+  },
+  "PPSI": {
+    "1s": "requestei",
+    "2s": "requestaste",
+    "3s": "requestou",
+    "1p": "requestámos",
+    "2p": "requestastes",
+    "3p": "requestaram"
+  },
+  "PMQPSI": {
+    "1s": "requestara",
+    "2s": "requestaras",
+    "3s": "requestara",
+    "1p": "requestáramos",
+    "2p": "requestáreis",
+    "3p": "requestaram"
+  },
+  "FutSI": {
+    "1s": "requestarei",
+    "2s": "requestarás",
+    "3s": "requestará",
+    "1p": "requestaremos",
+    "2p": "requestareis",
+    "3p": "requestarão"
+  },
+  "CondS": {
+    "1s": "requestaria",
+    "2s": "requestarias",
+    "3s": "requestaria",
+    "1p": "requestaríamos",
+    "2p": "requestaríeis",
+    "3p": "requestariam"
+  },
+  "PresC": {
+    "1s": "requeste",
+    "2s": "requestes",
+    "3s": "requeste",
+    "1p": "requestemos",
+    "2p": "requesteis",
+    "3p": "requestem"
+  },
+  "PImpC": {
+    "1s": "requestasse",
+    "2s": "requestasses",
+    "3s": "requestasse",
+    "1p": "requestássemos",
+    "2p": "requestásseis",
+    "3p": "requestassem"
+  },
+  "FutSC": {
+    "1s": "requestar",
+    "2s": "requestares",
+    "3s": "requestar",
+    "1p": "requestarmos",
+    "2p": "requestardes",
+    "3p": "requestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "requesta",
+    "3s": "requeste",
+    "1p": "requestemos",
+    "2p": "requestai",
+    "3p": "requestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não requestes",
+    "3s": "não requeste",
+    "1p": "não requestemos",
+    "2p": "não requesteis",
+    "3p": "não requestem"
+  },
+  "Part-ter": {
+    "": "requestado"
+  },
+  "Part-ser": {
+    "ms": "requestado",
+    "fs": "requestada",
+    "mp": "requestados",
+    "fp": "requestadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "implantar"
+  },
+  "InfP": {
+    "1s": "implantar",
+    "2s": "implantares",
+    "3s": "implantar",
+    "1p": "implantarmos",
+    "2p": "implantardes",
+    "3p": "implantarem"
+  },
+  "Ger": {
+    "": "implantando"
+  },
+  "PresI": {
+    "1s": "implanto",
+    "2s": "implantas",
+    "3s": "implanta",
+    "1p": "implantamos",
+    "2p": "implantais",
+    "3p": "implantam"
+  },
+  "PImpI": {
+    "1s": "implantava",
+    "2s": "implantavas",
+    "3s": "implantava",
+    "1p": "implantávamos",
+    "2p": "implantáveis",
+    "3p": "implantavam"
+  },
+  "PPSI": {
+    "1s": "implantei",
+    "2s": "implantaste",
+    "3s": "implantou",
+    "1p": "implantámos",
+    "2p": "implantastes",
+    "3p": "implantaram"
+  },
+  "PMQPSI": {
+    "1s": "implantara",
+    "2s": "implantaras",
+    "3s": "implantara",
+    "1p": "implantáramos",
+    "2p": "implantáreis",
+    "3p": "implantaram"
+  },
+  "FutSI": {
+    "1s": "implantarei",
+    "2s": "implantarás",
+    "3s": "implantará",
+    "1p": "implantaremos",
+    "2p": "implantareis",
+    "3p": "implantarão"
+  },
+  "CondS": {
+    "1s": "implantaria",
+    "2s": "implantarias",
+    "3s": "implantaria",
+    "1p": "implantaríamos",
+    "2p": "implantaríeis",
+    "3p": "implantariam"
+  },
+  "PresC": {
+    "1s": "implante",
+    "2s": "implantes",
+    "3s": "implante",
+    "1p": "implantemos",
+    "2p": "implanteis",
+    "3p": "implantem"
+  },
+  "PImpC": {
+    "1s": "implantasse",
+    "2s": "implantasses",
+    "3s": "implantasse",
+    "1p": "implantássemos",
+    "2p": "implantásseis",
+    "3p": "implantassem"
+  },
+  "FutSC": {
+    "1s": "implantar",
+    "2s": "implantares",
+    "3s": "implantar",
+    "1p": "implantarmos",
+    "2p": "implantardes",
+    "3p": "implantarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "implanta",
+    "3s": "implante",
+    "1p": "implantemos",
+    "2p": "implantai",
+    "3p": "implantem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não implantes",
+    "3s": "não implante",
+    "1p": "não implantemos",
+    "2p": "não implanteis",
+    "3p": "não implantem"
+  },
+  "Part-ter": {
+    "": "implantado"
+  },
+  "Part-ser": {
+    "ms": "implantado",
+    "fs": "implantada",
+    "mp": "implantados",
+    "fp": "implantadas"
+  }
+}

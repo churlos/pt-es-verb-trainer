@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bastonear"
+  },
+  "Ger": {
+    "": "bastoneando"
+  },
+  "PresI": {
+    "1s": "bastoneo",
+    "2s": "bastoneas",
+    "3s": "bastonea",
+    "1p": "bastoneamos",
+    "2p": "bastoneáis",
+    "3p": "bastonean"
+  },
+  "PImpI": {
+    "1s": "bastoneaba",
+    "2s": "bastoneabas",
+    "3s": "bastoneaba",
+    "1p": "bastoneábamos",
+    "2p": "bastoneabais",
+    "3p": "bastoneaban"
+  },
+  "PPSI": {
+    "1s": "bastoneé",
+    "2s": "bastoneaste",
+    "3s": "bastoneó",
+    "1p": "bastoneamos",
+    "2p": "bastoneasteis",
+    "3p": "bastonearon"
+  },
+  "FutSI": {
+    "1s": "bastonearé",
+    "2s": "bastonearás",
+    "3s": "bastoneará",
+    "1p": "bastonearemos",
+    "2p": "bastonearéis",
+    "3p": "bastonearán"
+  },
+  "CondS": {
+    "1s": "bastonearía",
+    "2s": "bastonearías",
+    "3s": "bastonearía",
+    "1p": "bastonearíamos",
+    "2p": "bastonearíais",
+    "3p": "bastonearían"
+  },
+  "PresC": {
+    "1s": "bastonee",
+    "2s": "bastonees",
+    "3s": "bastonee",
+    "1p": "bastoneemos",
+    "2p": "bastoneéis",
+    "3p": "bastoneen"
+  },
+  "PMQPSI": {
+    "1s": "bastoneara",
+    "2s": "bastonearas",
+    "3s": "bastoneara",
+    "1p": "bastoneáramos",
+    "2p": "bastonearais",
+    "3p": "bastonearan"
+  },
+  "PImpC": {
+    "1s": "bastonease",
+    "2s": "bastoneases",
+    "3s": "bastonease",
+    "1p": "bastoneásemos",
+    "2p": "bastoneaseis",
+    "3p": "bastoneasen"
+  },
+  "FutSC": {
+    "1s": "bastoneare",
+    "2s": "bastoneares",
+    "3s": "bastoneare",
+    "1p": "bastoneáremos",
+    "2p": "bastoneareis",
+    "3p": "bastonearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bastonea",
+    "3s": "bastonee",
+    "1p": "bastoneemos",
+    "2p": "bastonead",
+    "3p": "bastoneen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bastonees",
+    "3s": "no bastonee",
+    "1p": "no bastoneemos",
+    "2p": "no bastoneéis",
+    "3p": "no bastoneen"
+  },
+  "Part-ter": {
+    "": "bastoneado"
+  },
+  "Part-ser": {
+    "ms": "bastoneado",
+    "fs": "bastoneada",
+    "mp": "bastoneados",
+    "fp": "bastoneadas"
+  }
+}

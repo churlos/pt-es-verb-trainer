@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mascar"
+  },
+  "InfP": {
+    "1s": "mascar",
+    "2s": "mascares",
+    "3s": "mascar",
+    "1p": "mascarmos",
+    "2p": "mascardes",
+    "3p": "mascarem"
+  },
+  "Ger": {
+    "": "mascando"
+  },
+  "PresI": {
+    "1s": "masco",
+    "2s": "mascas",
+    "3s": "masca",
+    "1p": "mascamos",
+    "2p": "mascais",
+    "3p": "mascam"
+  },
+  "PImpI": {
+    "1s": "mascava",
+    "2s": "mascavas",
+    "3s": "mascava",
+    "1p": "mascávamos",
+    "2p": "mascáveis",
+    "3p": "mascavam"
+  },
+  "PPSI": {
+    "1s": "masquei",
+    "2s": "mascaste",
+    "3s": "mascou",
+    "1p": "mascámos",
+    "2p": "mascastes",
+    "3p": "mascaram"
+  },
+  "PMQPSI": {
+    "1s": "mascara",
+    "2s": "mascaras",
+    "3s": "mascara",
+    "1p": "mascáramos",
+    "2p": "mascáreis",
+    "3p": "mascaram"
+  },
+  "FutSI": {
+    "1s": "mascarei",
+    "2s": "mascarás",
+    "3s": "mascará",
+    "1p": "mascaremos",
+    "2p": "mascareis",
+    "3p": "mascarão"
+  },
+  "CondS": {
+    "1s": "mascaria",
+    "2s": "mascarias",
+    "3s": "mascaria",
+    "1p": "mascaríamos",
+    "2p": "mascaríeis",
+    "3p": "mascariam"
+  },
+  "PresC": {
+    "1s": "masque",
+    "2s": "masques",
+    "3s": "masque",
+    "1p": "masquemos",
+    "2p": "masqueis",
+    "3p": "masquem"
+  },
+  "PImpC": {
+    "1s": "mascasse",
+    "2s": "mascasses",
+    "3s": "mascasse",
+    "1p": "mascássemos",
+    "2p": "mascásseis",
+    "3p": "mascassem"
+  },
+  "FutSC": {
+    "1s": "mascar",
+    "2s": "mascares",
+    "3s": "mascar",
+    "1p": "mascarmos",
+    "2p": "mascardes",
+    "3p": "mascarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "masca",
+    "3s": "masque",
+    "1p": "masquemos",
+    "2p": "mascai",
+    "3p": "masquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não masques",
+    "3s": "não masque",
+    "1p": "não masquemos",
+    "2p": "não masqueis",
+    "3p": "não masquem"
+  },
+  "Part-ter": {
+    "": "mascado"
+  },
+  "Part-ser": {
+    "ms": "mascado",
+    "fs": "mascada",
+    "mp": "mascados",
+    "fp": "mascadas"
+  }
+}

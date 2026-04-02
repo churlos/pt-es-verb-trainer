@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estacar"
+  },
+  "InfP": {
+    "1s": "estacar",
+    "2s": "estacares",
+    "3s": "estacar",
+    "1p": "estacarmos",
+    "2p": "estacardes",
+    "3p": "estacarem"
+  },
+  "Ger": {
+    "": "estacando"
+  },
+  "PresI": {
+    "1s": "estaco",
+    "2s": "estacas",
+    "3s": "estaca",
+    "1p": "estacamos",
+    "2p": "estacais",
+    "3p": "estacam"
+  },
+  "PImpI": {
+    "1s": "estacava",
+    "2s": "estacavas",
+    "3s": "estacava",
+    "1p": "estacávamos",
+    "2p": "estacáveis",
+    "3p": "estacavam"
+  },
+  "PPSI": {
+    "1s": "estaquei",
+    "2s": "estacaste",
+    "3s": "estacou",
+    "1p": "estacámos",
+    "2p": "estacastes",
+    "3p": "estacaram"
+  },
+  "PMQPSI": {
+    "1s": "estacara",
+    "2s": "estacaras",
+    "3s": "estacara",
+    "1p": "estacáramos",
+    "2p": "estacáreis",
+    "3p": "estacaram"
+  },
+  "FutSI": {
+    "1s": "estacarei",
+    "2s": "estacarás",
+    "3s": "estacará",
+    "1p": "estacaremos",
+    "2p": "estacareis",
+    "3p": "estacarão"
+  },
+  "CondS": {
+    "1s": "estacaria",
+    "2s": "estacarias",
+    "3s": "estacaria",
+    "1p": "estacaríamos",
+    "2p": "estacaríeis",
+    "3p": "estacariam"
+  },
+  "PresC": {
+    "1s": "estaque",
+    "2s": "estaques",
+    "3s": "estaque",
+    "1p": "estaquemos",
+    "2p": "estaqueis",
+    "3p": "estaquem"
+  },
+  "PImpC": {
+    "1s": "estacasse",
+    "2s": "estacasses",
+    "3s": "estacasse",
+    "1p": "estacássemos",
+    "2p": "estacásseis",
+    "3p": "estacassem"
+  },
+  "FutSC": {
+    "1s": "estacar",
+    "2s": "estacares",
+    "3s": "estacar",
+    "1p": "estacarmos",
+    "2p": "estacardes",
+    "3p": "estacarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estaca",
+    "3s": "estaque",
+    "1p": "estaquemos",
+    "2p": "estacai",
+    "3p": "estaquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estaques",
+    "3s": "não estaque",
+    "1p": "não estaquemos",
+    "2p": "não estaqueis",
+    "3p": "não estaquem"
+  },
+  "Part-ter": {
+    "": "estacado"
+  },
+  "Part-ser": {
+    "ms": "estacado",
+    "fs": "estacada",
+    "mp": "estacados",
+    "fp": "estacadas"
+  }
+}

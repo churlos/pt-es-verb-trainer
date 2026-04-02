@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "migrar"
+  },
+  "InfP": {
+    "1s": "migrar",
+    "2s": "migrares",
+    "3s": "migrar",
+    "1p": "migrarmos",
+    "2p": "migrardes",
+    "3p": "migrarem"
+  },
+  "Ger": {
+    "": "migrando"
+  },
+  "PresI": {
+    "1s": "migro",
+    "2s": "migras",
+    "3s": "migra",
+    "1p": "migramos",
+    "2p": "migrais",
+    "3p": "migram"
+  },
+  "PImpI": {
+    "1s": "migrava",
+    "2s": "migravas",
+    "3s": "migrava",
+    "1p": "migrávamos",
+    "2p": "migráveis",
+    "3p": "migravam"
+  },
+  "PPSI": {
+    "1s": "migrei",
+    "2s": "migraste",
+    "3s": "migrou",
+    "1p": "migrámos",
+    "2p": "migrastes",
+    "3p": "migraram"
+  },
+  "PMQPSI": {
+    "1s": "migrara",
+    "2s": "migraras",
+    "3s": "migrara",
+    "1p": "migráramos",
+    "2p": "migráreis",
+    "3p": "migraram"
+  },
+  "FutSI": {
+    "1s": "migrarei",
+    "2s": "migrarás",
+    "3s": "migrará",
+    "1p": "migraremos",
+    "2p": "migrareis",
+    "3p": "migrarão"
+  },
+  "CondS": {
+    "1s": "migraria",
+    "2s": "migrarias",
+    "3s": "migraria",
+    "1p": "migraríamos",
+    "2p": "migraríeis",
+    "3p": "migrariam"
+  },
+  "PresC": {
+    "1s": "migre",
+    "2s": "migres",
+    "3s": "migre",
+    "1p": "migremos",
+    "2p": "migreis",
+    "3p": "migrem"
+  },
+  "PImpC": {
+    "1s": "migrasse",
+    "2s": "migrasses",
+    "3s": "migrasse",
+    "1p": "migrássemos",
+    "2p": "migrásseis",
+    "3p": "migrassem"
+  },
+  "FutSC": {
+    "1s": "migrar",
+    "2s": "migrares",
+    "3s": "migrar",
+    "1p": "migrarmos",
+    "2p": "migrardes",
+    "3p": "migrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "migra",
+    "3s": "migre",
+    "1p": "migremos",
+    "2p": "migrai",
+    "3p": "migrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não migres",
+    "3s": "não migre",
+    "1p": "não migremos",
+    "2p": "não migreis",
+    "3p": "não migrem"
+  },
+  "Part-ter": {
+    "": "migrado"
+  },
+  "Part-ser": {
+    "ms": "migrado",
+    "fs": "migrada",
+    "mp": "migrados",
+    "fp": "migradas"
+  }
+}

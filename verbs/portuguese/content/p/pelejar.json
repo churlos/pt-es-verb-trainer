@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pelejar"
+  },
+  "InfP": {
+    "1s": "pelejar",
+    "2s": "pelejares",
+    "3s": "pelejar",
+    "1p": "pelejarmos",
+    "2p": "pelejardes",
+    "3p": "pelejarem"
+  },
+  "Ger": {
+    "": "pelejando"
+  },
+  "PresI": {
+    "1s": "pelejo",
+    "2s": "pelejas",
+    "3s": "peleja",
+    "1p": "pelejamos",
+    "2p": "pelejais",
+    "3p": "pelejam"
+  },
+  "PImpI": {
+    "1s": "pelejava",
+    "2s": "pelejavas",
+    "3s": "pelejava",
+    "1p": "pelejávamos",
+    "2p": "pelejáveis",
+    "3p": "pelejavam"
+  },
+  "PPSI": {
+    "1s": "pelejei",
+    "2s": "pelejaste",
+    "3s": "pelejou",
+    "1p": "pelejámos",
+    "2p": "pelejastes",
+    "3p": "pelejaram"
+  },
+  "PMQPSI": {
+    "1s": "pelejara",
+    "2s": "pelejaras",
+    "3s": "pelejara",
+    "1p": "pelejáramos",
+    "2p": "pelejáreis",
+    "3p": "pelejaram"
+  },
+  "FutSI": {
+    "1s": "pelejarei",
+    "2s": "pelejarás",
+    "3s": "pelejará",
+    "1p": "pelejaremos",
+    "2p": "pelejareis",
+    "3p": "pelejarão"
+  },
+  "CondS": {
+    "1s": "pelejaria",
+    "2s": "pelejarias",
+    "3s": "pelejaria",
+    "1p": "pelejaríamos",
+    "2p": "pelejaríeis",
+    "3p": "pelejariam"
+  },
+  "PresC": {
+    "1s": "peleje",
+    "2s": "pelejes",
+    "3s": "peleje",
+    "1p": "pelejemos",
+    "2p": "pelejeis",
+    "3p": "pelejem"
+  },
+  "PImpC": {
+    "1s": "pelejasse",
+    "2s": "pelejasses",
+    "3s": "pelejasse",
+    "1p": "pelejássemos",
+    "2p": "pelejásseis",
+    "3p": "pelejassem"
+  },
+  "FutSC": {
+    "1s": "pelejar",
+    "2s": "pelejares",
+    "3s": "pelejar",
+    "1p": "pelejarmos",
+    "2p": "pelejardes",
+    "3p": "pelejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "peleja",
+    "3s": "peleje",
+    "1p": "pelejemos",
+    "2p": "pelejai",
+    "3p": "pelejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pelejes",
+    "3s": "não peleje",
+    "1p": "não pelejemos",
+    "2p": "não pelejeis",
+    "3p": "não pelejem"
+  },
+  "Part-ter": {
+    "": "pelejado"
+  },
+  "Part-ser": {
+    "ms": "pelejado",
+    "fs": "pelejada",
+    "mp": "pelejados",
+    "fp": "pelejadas"
+  }
+}

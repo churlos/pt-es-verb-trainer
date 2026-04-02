@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ternar"
+  },
+  "Ger": {
+    "": "ternando"
+  },
+  "PresI": {
+    "1s": "terno",
+    "2s": "ternas",
+    "3s": "terna",
+    "1p": "ternamos",
+    "2p": "ternáis",
+    "3p": "ternan"
+  },
+  "PImpI": {
+    "1s": "ternaba",
+    "2s": "ternabas",
+    "3s": "ternaba",
+    "1p": "ternábamos",
+    "2p": "ternabais",
+    "3p": "ternaban"
+  },
+  "PPSI": {
+    "1s": "terné",
+    "2s": "ternaste",
+    "3s": "ternó",
+    "1p": "ternamos",
+    "2p": "ternasteis",
+    "3p": "ternaron"
+  },
+  "FutSI": {
+    "1s": "ternaré",
+    "2s": "ternarás",
+    "3s": "ternará",
+    "1p": "ternaremos",
+    "2p": "ternaréis",
+    "3p": "ternarán"
+  },
+  "CondS": {
+    "1s": "ternaría",
+    "2s": "ternarías",
+    "3s": "ternaría",
+    "1p": "ternaríamos",
+    "2p": "ternaríais",
+    "3p": "ternarían"
+  },
+  "PresC": {
+    "1s": "terne",
+    "2s": "ternes",
+    "3s": "terne",
+    "1p": "ternemos",
+    "2p": "ternéis",
+    "3p": "ternen"
+  },
+  "PMQPSI": {
+    "1s": "ternara",
+    "2s": "ternaras",
+    "3s": "ternara",
+    "1p": "ternáramos",
+    "2p": "ternarais",
+    "3p": "ternaran"
+  },
+  "PImpC": {
+    "1s": "ternase",
+    "2s": "ternases",
+    "3s": "ternase",
+    "1p": "ternásemos",
+    "2p": "ternaseis",
+    "3p": "ternasen"
+  },
+  "FutSC": {
+    "1s": "ternare",
+    "2s": "ternares",
+    "3s": "ternare",
+    "1p": "ternáremos",
+    "2p": "ternareis",
+    "3p": "ternaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "terna",
+    "3s": "terne",
+    "1p": "ternemos",
+    "2p": "ternad",
+    "3p": "ternen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ternes",
+    "3s": "no terne",
+    "1p": "no ternemos",
+    "2p": "no ternéis",
+    "3p": "no ternen"
+  },
+  "Part-ter": {
+    "": "ternado"
+  },
+  "Part-ser": {
+    "ms": "ternado",
+    "fs": "ternada",
+    "mp": "ternados",
+    "fp": "ternadas"
+  }
+}

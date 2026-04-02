@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "oferecer"
+  },
+  "InfP": {
+    "1s": "oferecer",
+    "2s": "ofereceres",
+    "3s": "oferecer",
+    "1p": "oferecermos",
+    "2p": "oferecerdes",
+    "3p": "oferecerem"
+  },
+  "Ger": {
+    "": "oferecendo"
+  },
+  "PresI": {
+    "1s": "ofereço",
+    "2s": "ofereces",
+    "3s": "oferece",
+    "1p": "oferecemos",
+    "2p": "ofereceis",
+    "3p": "oferecem"
+  },
+  "PImpI": {
+    "1s": "oferecia",
+    "2s": "oferecias",
+    "3s": "oferecia",
+    "1p": "oferecíamos",
+    "2p": "oferecíeis",
+    "3p": "ofereciam"
+  },
+  "PPSI": {
+    "1s": "ofereci",
+    "2s": "ofereceste",
+    "3s": "ofereceu",
+    "1p": "oferecemos",
+    "2p": "oferecestes",
+    "3p": "ofereceram"
+  },
+  "PMQPSI": {
+    "1s": "oferecera",
+    "2s": "ofereceras",
+    "3s": "oferecera",
+    "1p": "oferecêramos",
+    "2p": "oferecêreis",
+    "3p": "ofereceram"
+  },
+  "FutSI": {
+    "1s": "oferecerei",
+    "2s": "oferecerás",
+    "3s": "oferecerá",
+    "1p": "ofereceremos",
+    "2p": "oferecereis",
+    "3p": "oferecerão"
+  },
+  "CondS": {
+    "1s": "ofereceria",
+    "2s": "oferecerias",
+    "3s": "ofereceria",
+    "1p": "ofereceríamos",
+    "2p": "ofereceríeis",
+    "3p": "ofereceriam"
+  },
+  "PresC": {
+    "1s": "ofereça",
+    "2s": "ofereças",
+    "3s": "ofereça",
+    "1p": "ofereçamos",
+    "2p": "ofereçais",
+    "3p": "ofereçam"
+  },
+  "PImpC": {
+    "1s": "oferecesse",
+    "2s": "oferecesses",
+    "3s": "oferecesse",
+    "1p": "oferecêssemos",
+    "2p": "oferecêsseis",
+    "3p": "oferecessem"
+  },
+  "FutSC": {
+    "1s": "oferecer",
+    "2s": "ofereceres",
+    "3s": "oferecer",
+    "1p": "oferecermos",
+    "2p": "oferecerdes",
+    "3p": "oferecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "oferece",
+    "3s": "ofereça",
+    "1p": "ofereçamos",
+    "2p": "oferecei",
+    "3p": "ofereçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ofereças",
+    "3s": "não ofereça",
+    "1p": "não ofereçamos",
+    "2p": "não ofereçais",
+    "3p": "não ofereçam"
+  },
+  "Part-ter": {
+    "": "oferecido"
+  },
+  "Part-ser": {
+    "ms": "oferecido",
+    "fs": "oferecida",
+    "mp": "oferecidos",
+    "fp": "oferecidas"
+  }
+}

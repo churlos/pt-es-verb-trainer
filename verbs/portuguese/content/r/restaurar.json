@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "restaurar"
+  },
+  "InfP": {
+    "1s": "restaurar",
+    "2s": "restaurares",
+    "3s": "restaurar",
+    "1p": "restaurarmos",
+    "2p": "restaurardes",
+    "3p": "restaurarem"
+  },
+  "Ger": {
+    "": "restaurando"
+  },
+  "PresI": {
+    "1s": "restauro",
+    "2s": "restauras",
+    "3s": "restaura",
+    "1p": "restauramos",
+    "2p": "restaurais",
+    "3p": "restauram"
+  },
+  "PImpI": {
+    "1s": "restaurava",
+    "2s": "restauravas",
+    "3s": "restaurava",
+    "1p": "restaurávamos",
+    "2p": "restauráveis",
+    "3p": "restauravam"
+  },
+  "PPSI": {
+    "1s": "restaurei",
+    "2s": "restauraste",
+    "3s": "restaurou",
+    "1p": "restaurámos",
+    "2p": "restaurastes",
+    "3p": "restauraram"
+  },
+  "PMQPSI": {
+    "1s": "restaurara",
+    "2s": "restauraras",
+    "3s": "restaurara",
+    "1p": "restauráramos",
+    "2p": "restauráreis",
+    "3p": "restauraram"
+  },
+  "FutSI": {
+    "1s": "restaurarei",
+    "2s": "restaurarás",
+    "3s": "restaurará",
+    "1p": "restauraremos",
+    "2p": "restaurareis",
+    "3p": "restaurarão"
+  },
+  "CondS": {
+    "1s": "restauraria",
+    "2s": "restaurarias",
+    "3s": "restauraria",
+    "1p": "restauraríamos",
+    "2p": "restauraríeis",
+    "3p": "restaurariam"
+  },
+  "PresC": {
+    "1s": "restaure",
+    "2s": "restaures",
+    "3s": "restaure",
+    "1p": "restauremos",
+    "2p": "restaureis",
+    "3p": "restaurem"
+  },
+  "PImpC": {
+    "1s": "restaurasse",
+    "2s": "restaurasses",
+    "3s": "restaurasse",
+    "1p": "restaurássemos",
+    "2p": "restaurásseis",
+    "3p": "restaurassem"
+  },
+  "FutSC": {
+    "1s": "restaurar",
+    "2s": "restaurares",
+    "3s": "restaurar",
+    "1p": "restaurarmos",
+    "2p": "restaurardes",
+    "3p": "restaurarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "restaura",
+    "3s": "restaure",
+    "1p": "restauremos",
+    "2p": "restaurai",
+    "3p": "restaurem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não restaures",
+    "3s": "não restaure",
+    "1p": "não restauremos",
+    "2p": "não restaureis",
+    "3p": "não restaurem"
+  },
+  "Part-ter": {
+    "": "restaurado"
+  },
+  "Part-ser": {
+    "ms": "restaurado",
+    "fs": "restaurada",
+    "mp": "restaurados",
+    "fp": "restauradas"
+  }
+}

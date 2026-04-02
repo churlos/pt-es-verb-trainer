@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lamber"
+  },
+  "InfP": {
+    "1s": "lamber",
+    "2s": "lamberes",
+    "3s": "lamber",
+    "1p": "lambermos",
+    "2p": "lamberdes",
+    "3p": "lamberem"
+  },
+  "Ger": {
+    "": "lambendo"
+  },
+  "PresI": {
+    "1s": "lambo",
+    "2s": "lambes",
+    "3s": "lambe",
+    "1p": "lambemos",
+    "2p": "lambeis",
+    "3p": "lambem"
+  },
+  "PImpI": {
+    "1s": "lambia",
+    "2s": "lambias",
+    "3s": "lambia",
+    "1p": "lambíamos",
+    "2p": "lambíeis",
+    "3p": "lambiam"
+  },
+  "PPSI": {
+    "1s": "lambi",
+    "2s": "lambeste",
+    "3s": "lambeu",
+    "1p": "lambemos",
+    "2p": "lambestes",
+    "3p": "lamberam"
+  },
+  "PMQPSI": {
+    "1s": "lambera",
+    "2s": "lamberas",
+    "3s": "lambera",
+    "1p": "lambêramos",
+    "2p": "lambêreis",
+    "3p": "lamberam"
+  },
+  "FutSI": {
+    "1s": "lamberei",
+    "2s": "lamberás",
+    "3s": "lamberá",
+    "1p": "lamberemos",
+    "2p": "lambereis",
+    "3p": "lamberão"
+  },
+  "CondS": {
+    "1s": "lamberia",
+    "2s": "lamberias",
+    "3s": "lamberia",
+    "1p": "lamberíamos",
+    "2p": "lamberíeis",
+    "3p": "lamberiam"
+  },
+  "PresC": {
+    "1s": "lamba",
+    "2s": "lambas",
+    "3s": "lamba",
+    "1p": "lambamos",
+    "2p": "lambais",
+    "3p": "lambam"
+  },
+  "PImpC": {
+    "1s": "lambesse",
+    "2s": "lambesses",
+    "3s": "lambesse",
+    "1p": "lambêssemos",
+    "2p": "lambêsseis",
+    "3p": "lambessem"
+  },
+  "FutSC": {
+    "1s": "lamber",
+    "2s": "lamberes",
+    "3s": "lamber",
+    "1p": "lambermos",
+    "2p": "lamberdes",
+    "3p": "lamberem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lambe",
+    "3s": "lamba",
+    "1p": "lambamos",
+    "2p": "lambei",
+    "3p": "lambam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lambas",
+    "3s": "não lamba",
+    "1p": "não lambamos",
+    "2p": "não lambais",
+    "3p": "não lambam"
+  },
+  "Part-ter": {
+    "": "lambido"
+  },
+  "Part-ser": {
+    "ms": "lambido",
+    "fs": "lambida",
+    "mp": "lambidos",
+    "fp": "lambidas"
+  }
+}

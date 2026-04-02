@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bicar"
+  },
+  "InfP": {
+    "1s": "bicar",
+    "2s": "bicares",
+    "3s": "bicar",
+    "1p": "bicarmos",
+    "2p": "bicardes",
+    "3p": "bicarem"
+  },
+  "Ger": {
+    "": "bicando"
+  },
+  "PresI": {
+    "1s": "bico",
+    "2s": "bicas",
+    "3s": "bica",
+    "1p": "bicamos",
+    "2p": "bicais",
+    "3p": "bicam"
+  },
+  "PImpI": {
+    "1s": "bicava",
+    "2s": "bicavas",
+    "3s": "bicava",
+    "1p": "bicávamos",
+    "2p": "bicáveis",
+    "3p": "bicavam"
+  },
+  "PPSI": {
+    "1s": "biquei",
+    "2s": "bicaste",
+    "3s": "bicou",
+    "1p": "bicámos",
+    "2p": "bicastes",
+    "3p": "bicaram"
+  },
+  "PMQPSI": {
+    "1s": "bicara",
+    "2s": "bicaras",
+    "3s": "bicara",
+    "1p": "bicáramos",
+    "2p": "bicáreis",
+    "3p": "bicaram"
+  },
+  "FutSI": {
+    "1s": "bicarei",
+    "2s": "bicarás",
+    "3s": "bicará",
+    "1p": "bicaremos",
+    "2p": "bicareis",
+    "3p": "bicarão"
+  },
+  "CondS": {
+    "1s": "bicaria",
+    "2s": "bicarias",
+    "3s": "bicaria",
+    "1p": "bicaríamos",
+    "2p": "bicaríeis",
+    "3p": "bicariam"
+  },
+  "PresC": {
+    "1s": "bique",
+    "2s": "biques",
+    "3s": "bique",
+    "1p": "biquemos",
+    "2p": "biqueis",
+    "3p": "biquem"
+  },
+  "PImpC": {
+    "1s": "bicasse",
+    "2s": "bicasses",
+    "3s": "bicasse",
+    "1p": "bicássemos",
+    "2p": "bicásseis",
+    "3p": "bicassem"
+  },
+  "FutSC": {
+    "1s": "bicar",
+    "2s": "bicares",
+    "3s": "bicar",
+    "1p": "bicarmos",
+    "2p": "bicardes",
+    "3p": "bicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bica",
+    "3s": "bique",
+    "1p": "biquemos",
+    "2p": "bicai",
+    "3p": "biquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não biques",
+    "3s": "não bique",
+    "1p": "não biquemos",
+    "2p": "não biqueis",
+    "3p": "não biquem"
+  },
+  "Part-ter": {
+    "": "bicado"
+  },
+  "Part-ser": {
+    "ms": "bicado",
+    "fs": "bicada",
+    "mp": "bicados",
+    "fp": "bicadas"
+  }
+}

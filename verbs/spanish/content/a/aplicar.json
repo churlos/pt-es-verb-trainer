@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aplicar"
+  },
+  "Ger": {
+    "": "aplicando"
+  },
+  "PresI": {
+    "1s": "aplico",
+    "2s": "aplicas",
+    "3s": "aplica",
+    "1p": "aplicamos",
+    "2p": "aplicáis",
+    "3p": "aplican"
+  },
+  "PImpI": {
+    "1s": "aplicaba",
+    "2s": "aplicabas",
+    "3s": "aplicaba",
+    "1p": "aplicábamos",
+    "2p": "aplicabais",
+    "3p": "aplicaban"
+  },
+  "PPSI": {
+    "1s": "apliqué",
+    "2s": "aplicaste",
+    "3s": "aplicó",
+    "1p": "aplicamos",
+    "2p": "aplicasteis",
+    "3p": "aplicaron"
+  },
+  "FutSI": {
+    "1s": "aplicaré",
+    "2s": "aplicarás",
+    "3s": "aplicará",
+    "1p": "aplicaremos",
+    "2p": "aplicaréis",
+    "3p": "aplicarán"
+  },
+  "CondS": {
+    "1s": "aplicaría",
+    "2s": "aplicarías",
+    "3s": "aplicaría",
+    "1p": "aplicaríamos",
+    "2p": "aplicaríais",
+    "3p": "aplicarían"
+  },
+  "PresC": {
+    "1s": "aplique",
+    "2s": "apliques",
+    "3s": "aplique",
+    "1p": "apliquemos",
+    "2p": "apliquéis",
+    "3p": "apliquen"
+  },
+  "PMQPSI": {
+    "1s": "aplicara",
+    "2s": "aplicaras",
+    "3s": "aplicara",
+    "1p": "aplicáramos",
+    "2p": "aplicarais",
+    "3p": "aplicaran"
+  },
+  "PImpC": {
+    "1s": "aplicase",
+    "2s": "aplicases",
+    "3s": "aplicase",
+    "1p": "aplicásemos",
+    "2p": "aplicaseis",
+    "3p": "aplicasen"
+  },
+  "FutSC": {
+    "1s": "aplicare",
+    "2s": "aplicares",
+    "3s": "aplicare",
+    "1p": "aplicáremos",
+    "2p": "aplicareis",
+    "3p": "aplicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aplica",
+    "3s": "aplique",
+    "1p": "apliquemos",
+    "2p": "aplicad",
+    "3p": "apliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apliques",
+    "3s": "no aplique",
+    "1p": "no apliquemos",
+    "2p": "no apliquéis",
+    "3p": "no apliquen"
+  },
+  "Part-ter": {
+    "": "aplicado"
+  },
+  "Part-ser": {
+    "ms": "aplicado",
+    "fs": "aplicada",
+    "mp": "aplicados",
+    "fp": "aplicadas"
+  }
+}

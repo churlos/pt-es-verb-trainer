@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "andamiar"
+  },
+  "Ger": {
+    "": "andamiando"
+  },
+  "PresI": {
+    "1s": "andamio",
+    "2s": "andamias",
+    "3s": "andamia",
+    "1p": "andamiamos",
+    "2p": "andamiáis",
+    "3p": "andamian"
+  },
+  "PImpI": {
+    "1s": "andamiaba",
+    "2s": "andamiabas",
+    "3s": "andamiaba",
+    "1p": "andamiábamos",
+    "2p": "andamiabais",
+    "3p": "andamiaban"
+  },
+  "PPSI": {
+    "1s": "andamié",
+    "2s": "andamiaste",
+    "3s": "andamió",
+    "1p": "andamiamos",
+    "2p": "andamiasteis",
+    "3p": "andamiaron"
+  },
+  "FutSI": {
+    "1s": "andamiaré",
+    "2s": "andamiarás",
+    "3s": "andamiará",
+    "1p": "andamiaremos",
+    "2p": "andamiaréis",
+    "3p": "andamiarán"
+  },
+  "CondS": {
+    "1s": "andamiaría",
+    "2s": "andamiarías",
+    "3s": "andamiaría",
+    "1p": "andamiaríamos",
+    "2p": "andamiaríais",
+    "3p": "andamiarían"
+  },
+  "PresC": {
+    "1s": "andamie",
+    "2s": "andamies",
+    "3s": "andamie",
+    "1p": "andamiemos",
+    "2p": "andamiéis",
+    "3p": "andamien"
+  },
+  "PMQPSI": {
+    "1s": "andamiara",
+    "2s": "andamiaras",
+    "3s": "andamiara",
+    "1p": "andamiáramos",
+    "2p": "andamiarais",
+    "3p": "andamiaran"
+  },
+  "PImpC": {
+    "1s": "andamiase",
+    "2s": "andamiases",
+    "3s": "andamiase",
+    "1p": "andamiásemos",
+    "2p": "andamiaseis",
+    "3p": "andamiasen"
+  },
+  "FutSC": {
+    "1s": "andamiare",
+    "2s": "andamiares",
+    "3s": "andamiare",
+    "1p": "andamiáremos",
+    "2p": "andamiareis",
+    "3p": "andamiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "andamia",
+    "3s": "andamie",
+    "1p": "andamiemos",
+    "2p": "andamiad",
+    "3p": "andamien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no andamies",
+    "3s": "no andamie",
+    "1p": "no andamiemos",
+    "2p": "no andamiéis",
+    "3p": "no andamien"
+  },
+  "Part-ter": {
+    "": "andamiado"
+  },
+  "Part-ser": {
+    "ms": "andamiado",
+    "fs": "andamiada",
+    "mp": "andamiados",
+    "fp": "andamiadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "agendar"
+  },
+  "Ger": {
+    "": "agendando"
+  },
+  "PresI": {
+    "1s": "agendo",
+    "2s": "agendas",
+    "3s": "agenda",
+    "1p": "agendamos",
+    "2p": "agendáis",
+    "3p": "agendan"
+  },
+  "PImpI": {
+    "1s": "agendaba",
+    "2s": "agendabas",
+    "3s": "agendaba",
+    "1p": "agendábamos",
+    "2p": "agendabais",
+    "3p": "agendaban"
+  },
+  "PPSI": {
+    "1s": "agendé",
+    "2s": "agendaste",
+    "3s": "agendó",
+    "1p": "agendamos",
+    "2p": "agendasteis",
+    "3p": "agendaron"
+  },
+  "FutSI": {
+    "1s": "agendaré",
+    "2s": "agendarás",
+    "3s": "agendará",
+    "1p": "agendaremos",
+    "2p": "agendaréis",
+    "3p": "agendarán"
+  },
+  "CondS": {
+    "1s": "agendaría",
+    "2s": "agendarías",
+    "3s": "agendaría",
+    "1p": "agendaríamos",
+    "2p": "agendaríais",
+    "3p": "agendarían"
+  },
+  "PresC": {
+    "1s": "agende",
+    "2s": "agendes",
+    "3s": "agende",
+    "1p": "agendemos",
+    "2p": "agendéis",
+    "3p": "agenden"
+  },
+  "PMQPSI": {
+    "1s": "agendara",
+    "2s": "agendaras",
+    "3s": "agendara",
+    "1p": "agendáramos",
+    "2p": "agendarais",
+    "3p": "agendaran"
+  },
+  "PImpC": {
+    "1s": "agendase",
+    "2s": "agendases",
+    "3s": "agendase",
+    "1p": "agendásemos",
+    "2p": "agendaseis",
+    "3p": "agendasen"
+  },
+  "FutSC": {
+    "1s": "agendare",
+    "2s": "agendares",
+    "3s": "agendare",
+    "1p": "agendáremos",
+    "2p": "agendareis",
+    "3p": "agendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agenda",
+    "3s": "agende",
+    "1p": "agendemos",
+    "2p": "agendad",
+    "3p": "agenden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no agendes",
+    "3s": "no agende",
+    "1p": "no agendemos",
+    "2p": "no agendéis",
+    "3p": "no agenden"
+  },
+  "Part-ter": {
+    "": "agendado"
+  },
+  "Part-ser": {
+    "ms": "agendado",
+    "fs": "agendada",
+    "mp": "agendados",
+    "fp": "agendadas"
+  }
+}

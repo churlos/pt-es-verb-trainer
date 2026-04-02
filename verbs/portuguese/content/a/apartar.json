@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "apartar"
+  },
+  "InfP": {
+    "1s": "apartar",
+    "2s": "apartares",
+    "3s": "apartar",
+    "1p": "apartarmos",
+    "2p": "apartardes",
+    "3p": "apartarem"
+  },
+  "Ger": {
+    "": "apartando"
+  },
+  "PresI": {
+    "1s": "aparto",
+    "2s": "apartas",
+    "3s": "aparta",
+    "1p": "apartamos",
+    "2p": "apartais",
+    "3p": "apartam"
+  },
+  "PImpI": {
+    "1s": "apartava",
+    "2s": "apartavas",
+    "3s": "apartava",
+    "1p": "apartávamos",
+    "2p": "apartáveis",
+    "3p": "apartavam"
+  },
+  "PPSI": {
+    "1s": "apartei",
+    "2s": "apartaste",
+    "3s": "apartou",
+    "1p": "apartámos",
+    "2p": "apartastes",
+    "3p": "apartaram"
+  },
+  "PMQPSI": {
+    "1s": "apartara",
+    "2s": "apartaras",
+    "3s": "apartara",
+    "1p": "apartáramos",
+    "2p": "apartáreis",
+    "3p": "apartaram"
+  },
+  "FutSI": {
+    "1s": "apartarei",
+    "2s": "apartarás",
+    "3s": "apartará",
+    "1p": "apartaremos",
+    "2p": "apartareis",
+    "3p": "apartarão"
+  },
+  "CondS": {
+    "1s": "apartaria",
+    "2s": "apartarias",
+    "3s": "apartaria",
+    "1p": "apartaríamos",
+    "2p": "apartaríeis",
+    "3p": "apartariam"
+  },
+  "PresC": {
+    "1s": "aparte",
+    "2s": "apartes",
+    "3s": "aparte",
+    "1p": "apartemos",
+    "2p": "aparteis",
+    "3p": "apartem"
+  },
+  "PImpC": {
+    "1s": "apartasse",
+    "2s": "apartasses",
+    "3s": "apartasse",
+    "1p": "apartássemos",
+    "2p": "apartásseis",
+    "3p": "apartassem"
+  },
+  "FutSC": {
+    "1s": "apartar",
+    "2s": "apartares",
+    "3s": "apartar",
+    "1p": "apartarmos",
+    "2p": "apartardes",
+    "3p": "apartarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aparta",
+    "3s": "aparte",
+    "1p": "apartemos",
+    "2p": "apartai",
+    "3p": "apartem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apartes",
+    "3s": "não aparte",
+    "1p": "não apartemos",
+    "2p": "não aparteis",
+    "3p": "não apartem"
+  },
+  "Part-ter": {
+    "": "apartado"
+  },
+  "Part-ser": {
+    "ms": "apartado",
+    "fs": "apartada",
+    "mp": "apartados",
+    "fp": "apartadas"
+  }
+}

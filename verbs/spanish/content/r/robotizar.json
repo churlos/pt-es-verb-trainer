@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "robotizar"
+  },
+  "Ger": {
+    "": "robotizando"
+  },
+  "PresI": {
+    "1s": "robotizo",
+    "2s": "robotizas",
+    "3s": "robotiza",
+    "1p": "robotizamos",
+    "2p": "robotizáis",
+    "3p": "robotizan"
+  },
+  "PImpI": {
+    "1s": "robotizaba",
+    "2s": "robotizabas",
+    "3s": "robotizaba",
+    "1p": "robotizábamos",
+    "2p": "robotizabais",
+    "3p": "robotizaban"
+  },
+  "PPSI": {
+    "1s": "roboticé",
+    "2s": "robotizaste",
+    "3s": "robotizó",
+    "1p": "robotizamos",
+    "2p": "robotizasteis",
+    "3p": "robotizaron"
+  },
+  "FutSI": {
+    "1s": "robotizaré",
+    "2s": "robotizarás",
+    "3s": "robotizará",
+    "1p": "robotizaremos",
+    "2p": "robotizaréis",
+    "3p": "robotizarán"
+  },
+  "CondS": {
+    "1s": "robotizaría",
+    "2s": "robotizarías",
+    "3s": "robotizaría",
+    "1p": "robotizaríamos",
+    "2p": "robotizaríais",
+    "3p": "robotizarían"
+  },
+  "PresC": {
+    "1s": "robotice",
+    "2s": "robotices",
+    "3s": "robotice",
+    "1p": "roboticemos",
+    "2p": "roboticéis",
+    "3p": "roboticen"
+  },
+  "PMQPSI": {
+    "1s": "robotizara",
+    "2s": "robotizaras",
+    "3s": "robotizara",
+    "1p": "robotizáramos",
+    "2p": "robotizarais",
+    "3p": "robotizaran"
+  },
+  "PImpC": {
+    "1s": "robotizase",
+    "2s": "robotizases",
+    "3s": "robotizase",
+    "1p": "robotizásemos",
+    "2p": "robotizaseis",
+    "3p": "robotizasen"
+  },
+  "FutSC": {
+    "1s": "robotizare",
+    "2s": "robotizares",
+    "3s": "robotizare",
+    "1p": "robotizáremos",
+    "2p": "robotizareis",
+    "3p": "robotizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "robotiza",
+    "3s": "robotice",
+    "1p": "roboticemos",
+    "2p": "robotizad",
+    "3p": "roboticen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no robotices",
+    "3s": "no robotice",
+    "1p": "no roboticemos",
+    "2p": "no roboticéis",
+    "3p": "no roboticen"
+  },
+  "Part-ter": {
+    "": "robotizado"
+  },
+  "Part-ser": {
+    "ms": "robotizado",
+    "fs": "robotizada",
+    "mp": "robotizados",
+    "fp": "robotizadas"
+  }
+}

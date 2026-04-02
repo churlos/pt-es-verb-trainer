@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amar"
+  },
+  "InfP": {
+    "1s": "amar",
+    "2s": "amares",
+    "3s": "amar",
+    "1p": "amarmos",
+    "2p": "amardes",
+    "3p": "amarem"
+  },
+  "Ger": {
+    "": "amando"
+  },
+  "PresI": {
+    "1s": "amo",
+    "2s": "amas",
+    "3s": "ama",
+    "1p": "amamos",
+    "2p": "amais",
+    "3p": "amam"
+  },
+  "PImpI": {
+    "1s": "amava",
+    "2s": "amavas",
+    "3s": "amava",
+    "1p": "amávamos",
+    "2p": "amáveis",
+    "3p": "amavam"
+  },
+  "PPSI": {
+    "1s": "amei",
+    "2s": "amaste",
+    "3s": "amou",
+    "1p": "amámos",
+    "2p": "amastes",
+    "3p": "amaram"
+  },
+  "PMQPSI": {
+    "1s": "amara",
+    "2s": "amaras",
+    "3s": "amara",
+    "1p": "amáramos",
+    "2p": "amáreis",
+    "3p": "amaram"
+  },
+  "FutSI": {
+    "1s": "amarei",
+    "2s": "amarás",
+    "3s": "amará",
+    "1p": "amaremos",
+    "2p": "amareis",
+    "3p": "amarão"
+  },
+  "CondS": {
+    "1s": "amaria",
+    "2s": "amarias",
+    "3s": "amaria",
+    "1p": "amaríamos",
+    "2p": "amaríeis",
+    "3p": "amariam"
+  },
+  "PresC": {
+    "1s": "ame",
+    "2s": "ames",
+    "3s": "ame",
+    "1p": "amemos",
+    "2p": "ameis",
+    "3p": "amem"
+  },
+  "PImpC": {
+    "1s": "amasse",
+    "2s": "amasses",
+    "3s": "amasse",
+    "1p": "amássemos",
+    "2p": "amásseis",
+    "3p": "amassem"
+  },
+  "FutSC": {
+    "1s": "amar",
+    "2s": "amares",
+    "3s": "amar",
+    "1p": "amarmos",
+    "2p": "amardes",
+    "3p": "amarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ama",
+    "3s": "ame",
+    "1p": "amemos",
+    "2p": "amai",
+    "3p": "amem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ames",
+    "3s": "não ame",
+    "1p": "não amemos",
+    "2p": "não ameis",
+    "3p": "não amem"
+  },
+  "Part-ter": {
+    "": "amado"
+  },
+  "Part-ser": {
+    "ms": "amado",
+    "fs": "amada",
+    "mp": "amados",
+    "fp": "amadas"
+  }
+}

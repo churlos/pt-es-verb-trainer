@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ilustrar"
+  },
+  "InfP": {
+    "1s": "ilustrar",
+    "2s": "ilustrares",
+    "3s": "ilustrar",
+    "1p": "ilustrarmos",
+    "2p": "ilustrardes",
+    "3p": "ilustrarem"
+  },
+  "Ger": {
+    "": "ilustrando"
+  },
+  "PresI": {
+    "1s": "ilustro",
+    "2s": "ilustras",
+    "3s": "ilustra",
+    "1p": "ilustramos",
+    "2p": "ilustrais",
+    "3p": "ilustram"
+  },
+  "PImpI": {
+    "1s": "ilustrava",
+    "2s": "ilustravas",
+    "3s": "ilustrava",
+    "1p": "ilustrávamos",
+    "2p": "ilustráveis",
+    "3p": "ilustravam"
+  },
+  "PPSI": {
+    "1s": "ilustrei",
+    "2s": "ilustraste",
+    "3s": "ilustrou",
+    "1p": "ilustrámos",
+    "2p": "ilustrastes",
+    "3p": "ilustraram"
+  },
+  "PMQPSI": {
+    "1s": "ilustrara",
+    "2s": "ilustraras",
+    "3s": "ilustrara",
+    "1p": "ilustráramos",
+    "2p": "ilustráreis",
+    "3p": "ilustraram"
+  },
+  "FutSI": {
+    "1s": "ilustrarei",
+    "2s": "ilustrarás",
+    "3s": "ilustrará",
+    "1p": "ilustraremos",
+    "2p": "ilustrareis",
+    "3p": "ilustrarão"
+  },
+  "CondS": {
+    "1s": "ilustraria",
+    "2s": "ilustrarias",
+    "3s": "ilustraria",
+    "1p": "ilustraríamos",
+    "2p": "ilustraríeis",
+    "3p": "ilustrariam"
+  },
+  "PresC": {
+    "1s": "ilustre",
+    "2s": "ilustres",
+    "3s": "ilustre",
+    "1p": "ilustremos",
+    "2p": "ilustreis",
+    "3p": "ilustrem"
+  },
+  "PImpC": {
+    "1s": "ilustrasse",
+    "2s": "ilustrasses",
+    "3s": "ilustrasse",
+    "1p": "ilustrássemos",
+    "2p": "ilustrásseis",
+    "3p": "ilustrassem"
+  },
+  "FutSC": {
+    "1s": "ilustrar",
+    "2s": "ilustrares",
+    "3s": "ilustrar",
+    "1p": "ilustrarmos",
+    "2p": "ilustrardes",
+    "3p": "ilustrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ilustra",
+    "3s": "ilustre",
+    "1p": "ilustremos",
+    "2p": "ilustrai",
+    "3p": "ilustrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ilustres",
+    "3s": "não ilustre",
+    "1p": "não ilustremos",
+    "2p": "não ilustreis",
+    "3p": "não ilustrem"
+  },
+  "Part-ter": {
+    "": "ilustrado"
+  },
+  "Part-ser": {
+    "ms": "ilustrado",
+    "fs": "ilustrada",
+    "mp": "ilustrados",
+    "fp": "ilustradas"
+  }
+}

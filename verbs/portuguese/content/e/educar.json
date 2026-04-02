@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "educar"
+  },
+  "InfP": {
+    "1s": "educar",
+    "2s": "educares",
+    "3s": "educar",
+    "1p": "educarmos",
+    "2p": "educardes",
+    "3p": "educarem"
+  },
+  "Ger": {
+    "": "educando"
+  },
+  "PresI": {
+    "1s": "educo",
+    "2s": "educas",
+    "3s": "educa",
+    "1p": "educamos",
+    "2p": "educais",
+    "3p": "educam"
+  },
+  "PImpI": {
+    "1s": "educava",
+    "2s": "educavas",
+    "3s": "educava",
+    "1p": "educávamos",
+    "2p": "educáveis",
+    "3p": "educavam"
+  },
+  "PPSI": {
+    "1s": "eduquei",
+    "2s": "educaste",
+    "3s": "educou",
+    "1p": "educámos",
+    "2p": "educastes",
+    "3p": "educaram"
+  },
+  "PMQPSI": {
+    "1s": "educara",
+    "2s": "educaras",
+    "3s": "educara",
+    "1p": "educáramos",
+    "2p": "educáreis",
+    "3p": "educaram"
+  },
+  "FutSI": {
+    "1s": "educarei",
+    "2s": "educarás",
+    "3s": "educará",
+    "1p": "educaremos",
+    "2p": "educareis",
+    "3p": "educarão"
+  },
+  "CondS": {
+    "1s": "educaria",
+    "2s": "educarias",
+    "3s": "educaria",
+    "1p": "educaríamos",
+    "2p": "educaríeis",
+    "3p": "educariam"
+  },
+  "PresC": {
+    "1s": "eduque",
+    "2s": "eduques",
+    "3s": "eduque",
+    "1p": "eduquemos",
+    "2p": "eduqueis",
+    "3p": "eduquem"
+  },
+  "PImpC": {
+    "1s": "educasse",
+    "2s": "educasses",
+    "3s": "educasse",
+    "1p": "educássemos",
+    "2p": "educásseis",
+    "3p": "educassem"
+  },
+  "FutSC": {
+    "1s": "educar",
+    "2s": "educares",
+    "3s": "educar",
+    "1p": "educarmos",
+    "2p": "educardes",
+    "3p": "educarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "educa",
+    "3s": "eduque",
+    "1p": "eduquemos",
+    "2p": "educai",
+    "3p": "eduquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não eduques",
+    "3s": "não eduque",
+    "1p": "não eduquemos",
+    "2p": "não eduqueis",
+    "3p": "não eduquem"
+  },
+  "Part-ter": {
+    "": "educado"
+  },
+  "Part-ser": {
+    "ms": "educado",
+    "fs": "educada",
+    "mp": "educados",
+    "fp": "educadas"
+  }
+}

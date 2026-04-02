@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gaseificar"
+  },
+  "InfP": {
+    "1s": "gaseificar",
+    "2s": "gaseificares",
+    "3s": "gaseificar",
+    "1p": "gaseificarmos",
+    "2p": "gaseificardes",
+    "3p": "gaseificarem"
+  },
+  "Ger": {
+    "": "gaseificando"
+  },
+  "PresI": {
+    "1s": "gaseifico",
+    "2s": "gaseificas",
+    "3s": "gaseifica",
+    "1p": "gaseificamos",
+    "2p": "gaseificais",
+    "3p": "gaseificam"
+  },
+  "PImpI": {
+    "1s": "gaseificava",
+    "2s": "gaseificavas",
+    "3s": "gaseificava",
+    "1p": "gaseificávamos",
+    "2p": "gaseificáveis",
+    "3p": "gaseificavam"
+  },
+  "PPSI": {
+    "1s": "gaseifiquei",
+    "2s": "gaseificaste",
+    "3s": "gaseificou",
+    "1p": "gaseificámos",
+    "2p": "gaseificastes",
+    "3p": "gaseificaram"
+  },
+  "PMQPSI": {
+    "1s": "gaseificara",
+    "2s": "gaseificaras",
+    "3s": "gaseificara",
+    "1p": "gaseificáramos",
+    "2p": "gaseificáreis",
+    "3p": "gaseificaram"
+  },
+  "FutSI": {
+    "1s": "gaseificarei",
+    "2s": "gaseificarás",
+    "3s": "gaseificará",
+    "1p": "gaseificaremos",
+    "2p": "gaseificareis",
+    "3p": "gaseificarão"
+  },
+  "CondS": {
+    "1s": "gaseificaria",
+    "2s": "gaseificarias",
+    "3s": "gaseificaria",
+    "1p": "gaseificaríamos",
+    "2p": "gaseificaríeis",
+    "3p": "gaseificariam"
+  },
+  "PresC": {
+    "1s": "gaseifique",
+    "2s": "gaseifiques",
+    "3s": "gaseifique",
+    "1p": "gaseifiquemos",
+    "2p": "gaseifiqueis",
+    "3p": "gaseifiquem"
+  },
+  "PImpC": {
+    "1s": "gaseificasse",
+    "2s": "gaseificasses",
+    "3s": "gaseificasse",
+    "1p": "gaseificássemos",
+    "2p": "gaseificásseis",
+    "3p": "gaseificassem"
+  },
+  "FutSC": {
+    "1s": "gaseificar",
+    "2s": "gaseificares",
+    "3s": "gaseificar",
+    "1p": "gaseificarmos",
+    "2p": "gaseificardes",
+    "3p": "gaseificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gaseifica",
+    "3s": "gaseifique",
+    "1p": "gaseifiquemos",
+    "2p": "gaseificai",
+    "3p": "gaseifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gaseifiques",
+    "3s": "não gaseifique",
+    "1p": "não gaseifiquemos",
+    "2p": "não gaseifiqueis",
+    "3p": "não gaseifiquem"
+  },
+  "Part-ter": {
+    "": "gaseificado"
+  },
+  "Part-ser": {
+    "ms": "gaseificado",
+    "fs": "gaseificada",
+    "mp": "gaseificados",
+    "fp": "gaseificadas"
+  }
+}

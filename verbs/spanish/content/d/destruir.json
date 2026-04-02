@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "destruir"
+  },
+  "Ger": {
+    "": "destruyendo"
+  },
+  "PresI": {
+    "1s": "destruyo",
+    "2s": "destruyes",
+    "3s": "destruye",
+    "1p": "destruimos",
+    "2p": "destruís",
+    "3p": "destruyen"
+  },
+  "PImpI": {
+    "1s": "destruía",
+    "2s": "destruías",
+    "3s": "destruía",
+    "1p": "destruíamos",
+    "2p": "destruíais",
+    "3p": "destruían"
+  },
+  "PPSI": {
+    "1s": "destruí",
+    "2s": "destruiste",
+    "3s": "destruyó",
+    "1p": "destruimos",
+    "2p": "destruisteis",
+    "3p": "destruyeron"
+  },
+  "FutSI": {
+    "1s": "destruiré",
+    "2s": "destruirás",
+    "3s": "destruirá",
+    "1p": "destruiremos",
+    "2p": "destruiréis",
+    "3p": "destruirán"
+  },
+  "CondS": {
+    "1s": "destruiría",
+    "2s": "destruirías",
+    "3s": "destruiría",
+    "1p": "destruiríamos",
+    "2p": "destruiríais",
+    "3p": "destruirían"
+  },
+  "PresC": {
+    "1s": "destruya",
+    "2s": "destruyas",
+    "3s": "destruya",
+    "1p": "destruyamos",
+    "2p": "destruyáis",
+    "3p": "destruyan"
+  },
+  "PMQPSI": {
+    "1s": "destruyera",
+    "2s": "destruyeras",
+    "3s": "destruyera",
+    "1p": "destruyéramos",
+    "2p": "destruyerais",
+    "3p": "destruyeran"
+  },
+  "PImpC": {
+    "1s": "destruyese",
+    "2s": "destruyeses",
+    "3s": "destruyese",
+    "1p": "destruyésemos",
+    "2p": "destruyeseis",
+    "3p": "destruyesen"
+  },
+  "FutSC": {
+    "1s": "destruyere",
+    "2s": "destruyeres",
+    "3s": "destruyere",
+    "1p": "destruyéremos",
+    "2p": "destruyereis",
+    "3p": "destruyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destruye",
+    "3s": "destruya",
+    "1p": "destruyamos",
+    "2p": "destruid",
+    "3p": "destruyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no destruyas",
+    "3s": "no destruya",
+    "1p": "no destruyamos",
+    "2p": "no destruyáis",
+    "3p": "no destruyan"
+  },
+  "Part-ter": {
+    "": "destruido"
+  },
+  "Part-ser": {
+    "ms": "destruido",
+    "fs": "destruida",
+    "mp": "destruidos",
+    "fp": "destruidas"
+  }
+}

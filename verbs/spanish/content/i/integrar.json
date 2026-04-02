@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "integrar"
+  },
+  "Ger": {
+    "": "integrando"
+  },
+  "PresI": {
+    "1s": "integro",
+    "2s": "integras",
+    "3s": "integra",
+    "1p": "integramos",
+    "2p": "integráis",
+    "3p": "integran"
+  },
+  "PImpI": {
+    "1s": "integraba",
+    "2s": "integrabas",
+    "3s": "integraba",
+    "1p": "integrábamos",
+    "2p": "integrabais",
+    "3p": "integraban"
+  },
+  "PPSI": {
+    "1s": "integré",
+    "2s": "integraste",
+    "3s": "integró",
+    "1p": "integramos",
+    "2p": "integrasteis",
+    "3p": "integraron"
+  },
+  "FutSI": {
+    "1s": "integraré",
+    "2s": "integrarás",
+    "3s": "integrará",
+    "1p": "integraremos",
+    "2p": "integraréis",
+    "3p": "integrarán"
+  },
+  "CondS": {
+    "1s": "integraría",
+    "2s": "integrarías",
+    "3s": "integraría",
+    "1p": "integraríamos",
+    "2p": "integraríais",
+    "3p": "integrarían"
+  },
+  "PresC": {
+    "1s": "integre",
+    "2s": "integres",
+    "3s": "integre",
+    "1p": "integremos",
+    "2p": "integréis",
+    "3p": "integren"
+  },
+  "PMQPSI": {
+    "1s": "integrara",
+    "2s": "integraras",
+    "3s": "integrara",
+    "1p": "integráramos",
+    "2p": "integrarais",
+    "3p": "integraran"
+  },
+  "PImpC": {
+    "1s": "integrase",
+    "2s": "integrases",
+    "3s": "integrase",
+    "1p": "integrásemos",
+    "2p": "integraseis",
+    "3p": "integrasen"
+  },
+  "FutSC": {
+    "1s": "integrare",
+    "2s": "integrares",
+    "3s": "integrare",
+    "1p": "integráremos",
+    "2p": "integrareis",
+    "3p": "integraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "integra",
+    "3s": "integre",
+    "1p": "integremos",
+    "2p": "integrad",
+    "3p": "integren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no integres",
+    "3s": "no integre",
+    "1p": "no integremos",
+    "2p": "no integréis",
+    "3p": "no integren"
+  },
+  "Part-ter": {
+    "": "integrado"
+  },
+  "Part-ser": {
+    "ms": "integrado",
+    "fs": "integrada",
+    "mp": "integrados",
+    "fp": "integradas"
+  }
+}

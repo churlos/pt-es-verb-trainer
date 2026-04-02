@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "persistir"
+  },
+  "Ger": {
+    "": "persistiendo"
+  },
+  "PresI": {
+    "1s": "persisto",
+    "2s": "persistes",
+    "3s": "persiste",
+    "1p": "persistimos",
+    "2p": "persistís",
+    "3p": "persisten"
+  },
+  "PImpI": {
+    "1s": "persistía",
+    "2s": "persistías",
+    "3s": "persistía",
+    "1p": "persistíamos",
+    "2p": "persistíais",
+    "3p": "persistían"
+  },
+  "PPSI": {
+    "1s": "persistí",
+    "2s": "persististe",
+    "3s": "persistió",
+    "1p": "persistimos",
+    "2p": "persististeis",
+    "3p": "persistieron"
+  },
+  "FutSI": {
+    "1s": "persistiré",
+    "2s": "persistirás",
+    "3s": "persistirá",
+    "1p": "persistiremos",
+    "2p": "persistiréis",
+    "3p": "persistirán"
+  },
+  "CondS": {
+    "1s": "persistiría",
+    "2s": "persistirías",
+    "3s": "persistiría",
+    "1p": "persistiríamos",
+    "2p": "persistiríais",
+    "3p": "persistirían"
+  },
+  "PresC": {
+    "1s": "persista",
+    "2s": "persistas",
+    "3s": "persista",
+    "1p": "persistamos",
+    "2p": "persistáis",
+    "3p": "persistan"
+  },
+  "PMQPSI": {
+    "1s": "persistiera",
+    "2s": "persistieras",
+    "3s": "persistiera",
+    "1p": "persistiéramos",
+    "2p": "persistierais",
+    "3p": "persistieran"
+  },
+  "PImpC": {
+    "1s": "persistiese",
+    "2s": "persistieses",
+    "3s": "persistiese",
+    "1p": "persistiésemos",
+    "2p": "persistieseis",
+    "3p": "persistiesen"
+  },
+  "FutSC": {
+    "1s": "persistiere",
+    "2s": "persistieres",
+    "3s": "persistiere",
+    "1p": "persistiéremos",
+    "2p": "persistiereis",
+    "3p": "persistieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "persiste",
+    "3s": "persista",
+    "1p": "persistamos",
+    "2p": "persistid",
+    "3p": "persistan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no persistas",
+    "3s": "no persista",
+    "1p": "no persistamos",
+    "2p": "no persistáis",
+    "3p": "no persistan"
+  },
+  "Part-ter": {
+    "": "persistido"
+  },
+  "Part-ser": {
+    "ms": "persistido",
+    "fs": "persistida",
+    "mp": "persistidos",
+    "fp": "persistidas"
+  }
+}

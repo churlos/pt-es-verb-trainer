@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "devir"
+  },
+  "InfP": {
+    "1s": "devir",
+    "2s": "devires",
+    "3s": "devir",
+    "1p": "devirmos",
+    "2p": "devirdes",
+    "3p": "devirem"
+  },
+  "Ger": {
+    "": "devindo"
+  },
+  "PresI": {
+    "1s": "devenho",
+    "2s": "devens",
+    "3s": "devem",
+    "1p": "devimos",
+    "2p": "devindes",
+    "3p": "devêm"
+  },
+  "PImpI": {
+    "1s": "devinha",
+    "2s": "devinhas",
+    "3s": "devinha",
+    "1p": "devínhamos",
+    "2p": "devínheis",
+    "3p": "devinham"
+  },
+  "PPSI": {
+    "1s": "devim",
+    "2s": "devieste",
+    "3s": "deveio",
+    "1p": "deviemos",
+    "2p": "deviestes",
+    "3p": "devieram"
+  },
+  "PMQPSI": {
+    "1s": "deviera",
+    "2s": "devieras",
+    "3s": "deviera",
+    "1p": "deviéramos",
+    "2p": "deviéreis",
+    "3p": "devieram"
+  },
+  "FutSI": {
+    "1s": "devirei",
+    "2s": "devirás",
+    "3s": "devirá",
+    "1p": "deviremos",
+    "2p": "devireis",
+    "3p": "devirão"
+  },
+  "CondS": {
+    "1s": "deviria",
+    "2s": "devirias",
+    "3s": "deviria",
+    "1p": "deviríamos",
+    "2p": "deviríeis",
+    "3p": "deviriam"
+  },
+  "PresC": {
+    "1s": "devenha",
+    "2s": "devenhas",
+    "3s": "devenha",
+    "1p": "devenhamos",
+    "2p": "devenhais",
+    "3p": "devenham"
+  },
+  "PImpC": {
+    "1s": "deviesse",
+    "2s": "deviesses",
+    "3s": "deviesse",
+    "1p": "deviéssemos",
+    "2p": "deviésseis",
+    "3p": "deviessem"
+  },
+  "FutSC": {
+    "1s": "devier",
+    "2s": "devieres",
+    "3s": "devier",
+    "1p": "deviermos",
+    "2p": "devierdes",
+    "3p": "devierem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devem",
+    "3s": "devenha",
+    "1p": "devenhamos",
+    "2p": "devinde",
+    "3p": "devenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não devenhas",
+    "3s": "não devenha",
+    "1p": "não devenhamos",
+    "2p": "não devenhais",
+    "3p": "não devenham"
+  },
+  "Part-ter": {
+    "": "devindo"
+  },
+  "Part-ser": {
+    "ms": "devindo",
+    "fs": "devinda",
+    "mp": "devindos",
+    "fp": "devindas"
+  }
+}

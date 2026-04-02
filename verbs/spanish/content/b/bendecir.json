@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bendecir"
+  },
+  "Ger": {
+    "": "bendiciendo"
+  },
+  "PresI": {
+    "1s": "bendigo",
+    "2s": "bendices",
+    "3s": "bendice",
+    "1p": "bendecimos",
+    "2p": "bendecís",
+    "3p": "bendicen"
+  },
+  "PImpI": {
+    "1s": "bendecía",
+    "2s": "bendecías",
+    "3s": "bendecía",
+    "1p": "bendecíamos",
+    "2p": "bendecíais",
+    "3p": "bendecían"
+  },
+  "PPSI": {
+    "1s": "bendije",
+    "2s": "bendijiste",
+    "3s": "bendijo",
+    "1p": "bendijimos",
+    "2p": "bendijisteis",
+    "3p": "bendijeron"
+  },
+  "FutSI": {
+    "1s": "bendeciré",
+    "2s": "bendecirás",
+    "3s": "bendecirá",
+    "1p": "bendeciremos",
+    "2p": "bendeciréis",
+    "3p": "bendecirán"
+  },
+  "CondS": {
+    "1s": "bendeciría",
+    "2s": "bendecirías",
+    "3s": "bendeciría",
+    "1p": "bendeciríamos",
+    "2p": "bendeciríais",
+    "3p": "bendecirían"
+  },
+  "PresC": {
+    "1s": "bendiga",
+    "2s": "bendigas",
+    "3s": "bendiga",
+    "1p": "bendigamos",
+    "2p": "bendigáis",
+    "3p": "bendigan"
+  },
+  "PMQPSI": {
+    "1s": "bendijera",
+    "2s": "bendijeras",
+    "3s": "bendijera",
+    "1p": "bendijéramos",
+    "2p": "bendijerais",
+    "3p": "bendijeran"
+  },
+  "PImpC": {
+    "1s": "bendijese",
+    "2s": "bendijeses",
+    "3s": "bendijese",
+    "1p": "bendijésemos",
+    "2p": "bendijeseis",
+    "3p": "bendijesen"
+  },
+  "FutSC": {
+    "1s": "bendijere",
+    "2s": "bendijeres",
+    "3s": "bendijere",
+    "1p": "bendijéremos",
+    "2p": "bendijereis",
+    "3p": "bendijeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bendice",
+    "3s": "bendiga",
+    "1p": "bendigamos",
+    "2p": "bendecid",
+    "3p": "bendigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no bendigas",
+    "3s": "no bendiga",
+    "1p": "no bendigamos",
+    "2p": "no bendigáis",
+    "3p": "no bendigan"
+  },
+  "Part-ter": {
+    "": "bendecido, bendito"
+  },
+  "Part-ser": {
+    "ms": "bendecido, bendito",
+    "fs": "bendecida, bendita",
+    "mp": "bendecidos, benditos",
+    "fp": "bendecidas, benditas"
+  }
+}

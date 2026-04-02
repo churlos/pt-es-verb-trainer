@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aparelhar"
+  },
+  "InfP": {
+    "1s": "aparelhar",
+    "2s": "aparelhares",
+    "3s": "aparelhar",
+    "1p": "aparelharmos",
+    "2p": "aparelhardes",
+    "3p": "aparelharem"
+  },
+  "Ger": {
+    "": "aparelhando"
+  },
+  "PresI": {
+    "1s": "aparelho",
+    "2s": "aparelhas",
+    "3s": "aparelha",
+    "1p": "aparelhamos",
+    "2p": "aparelhais",
+    "3p": "aparelham"
+  },
+  "PImpI": {
+    "1s": "aparelhava",
+    "2s": "aparelhavas",
+    "3s": "aparelhava",
+    "1p": "aparelhávamos",
+    "2p": "aparelháveis",
+    "3p": "aparelhavam"
+  },
+  "PPSI": {
+    "1s": "aparelhei",
+    "2s": "aparelhaste",
+    "3s": "aparelhou",
+    "1p": "aparelhámos",
+    "2p": "aparelhastes",
+    "3p": "aparelharam"
+  },
+  "PMQPSI": {
+    "1s": "aparelhara",
+    "2s": "aparelharas",
+    "3s": "aparelhara",
+    "1p": "aparelháramos",
+    "2p": "aparelháreis",
+    "3p": "aparelharam"
+  },
+  "FutSI": {
+    "1s": "aparelharei",
+    "2s": "aparelharás",
+    "3s": "aparelhará",
+    "1p": "aparelharemos",
+    "2p": "aparelhareis",
+    "3p": "aparelharão"
+  },
+  "CondS": {
+    "1s": "aparelharia",
+    "2s": "aparelharias",
+    "3s": "aparelharia",
+    "1p": "aparelharíamos",
+    "2p": "aparelharíeis",
+    "3p": "aparelhariam"
+  },
+  "PresC": {
+    "1s": "aparelhe",
+    "2s": "aparelhes",
+    "3s": "aparelhe",
+    "1p": "aparelhemos",
+    "2p": "aparelheis",
+    "3p": "aparelhem"
+  },
+  "PImpC": {
+    "1s": "aparelhasse",
+    "2s": "aparelhasses",
+    "3s": "aparelhasse",
+    "1p": "aparelhássemos",
+    "2p": "aparelhásseis",
+    "3p": "aparelhassem"
+  },
+  "FutSC": {
+    "1s": "aparelhar",
+    "2s": "aparelhares",
+    "3s": "aparelhar",
+    "1p": "aparelharmos",
+    "2p": "aparelhardes",
+    "3p": "aparelharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aparelha",
+    "3s": "aparelhe",
+    "1p": "aparelhemos",
+    "2p": "aparelhai",
+    "3p": "aparelhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aparelhes",
+    "3s": "não aparelhe",
+    "1p": "não aparelhemos",
+    "2p": "não aparelheis",
+    "3p": "não aparelhem"
+  },
+  "Part-ter": {
+    "": "aparelhado"
+  },
+  "Part-ser": {
+    "ms": "aparelhado",
+    "fs": "aparelhada",
+    "mp": "aparelhados",
+    "fp": "aparelhadas"
+  }
+}

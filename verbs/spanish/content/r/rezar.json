@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rezar"
+  },
+  "Ger": {
+    "": "rezando"
+  },
+  "PresI": {
+    "1s": "rezo",
+    "2s": "rezas",
+    "3s": "reza",
+    "1p": "rezamos",
+    "2p": "rezáis",
+    "3p": "rezan"
+  },
+  "PImpI": {
+    "1s": "rezaba",
+    "2s": "rezabas",
+    "3s": "rezaba",
+    "1p": "rezábamos",
+    "2p": "rezabais",
+    "3p": "rezaban"
+  },
+  "PPSI": {
+    "1s": "recé",
+    "2s": "rezaste",
+    "3s": "rezó",
+    "1p": "rezamos",
+    "2p": "rezasteis",
+    "3p": "rezaron"
+  },
+  "FutSI": {
+    "1s": "rezaré",
+    "2s": "rezarás",
+    "3s": "rezará",
+    "1p": "rezaremos",
+    "2p": "rezaréis",
+    "3p": "rezarán"
+  },
+  "CondS": {
+    "1s": "rezaría",
+    "2s": "rezarías",
+    "3s": "rezaría",
+    "1p": "rezaríamos",
+    "2p": "rezaríais",
+    "3p": "rezarían"
+  },
+  "PresC": {
+    "1s": "rece",
+    "2s": "reces",
+    "3s": "rece",
+    "1p": "recemos",
+    "2p": "recéis",
+    "3p": "recen"
+  },
+  "PMQPSI": {
+    "1s": "rezara",
+    "2s": "rezaras",
+    "3s": "rezara",
+    "1p": "rezáramos",
+    "2p": "rezarais",
+    "3p": "rezaran"
+  },
+  "PImpC": {
+    "1s": "rezase",
+    "2s": "rezases",
+    "3s": "rezase",
+    "1p": "rezásemos",
+    "2p": "rezaseis",
+    "3p": "rezasen"
+  },
+  "FutSC": {
+    "1s": "rezare",
+    "2s": "rezares",
+    "3s": "rezare",
+    "1p": "rezáremos",
+    "2p": "rezareis",
+    "3p": "rezaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reza",
+    "3s": "rece",
+    "1p": "recemos",
+    "2p": "rezad",
+    "3p": "recen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reces",
+    "3s": "no rece",
+    "1p": "no recemos",
+    "2p": "no recéis",
+    "3p": "no recen"
+  },
+  "Part-ter": {
+    "": "rezado"
+  },
+  "Part-ser": {
+    "ms": "rezado",
+    "fs": "rezada",
+    "mp": "rezados",
+    "fp": "rezadas"
+  }
+}

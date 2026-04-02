@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emanar"
+  },
+  "InfP": {
+    "1s": "emanar",
+    "2s": "emanares",
+    "3s": "emanar",
+    "1p": "emanarmos",
+    "2p": "emanardes",
+    "3p": "emanarem"
+  },
+  "Ger": {
+    "": "emanando"
+  },
+  "PresI": {
+    "1s": "emano",
+    "2s": "emanas",
+    "3s": "emana",
+    "1p": "emanamos",
+    "2p": "emanais",
+    "3p": "emanam"
+  },
+  "PImpI": {
+    "1s": "emanava",
+    "2s": "emanavas",
+    "3s": "emanava",
+    "1p": "emanávamos",
+    "2p": "emanáveis",
+    "3p": "emanavam"
+  },
+  "PPSI": {
+    "1s": "emanei",
+    "2s": "emanaste",
+    "3s": "emanou",
+    "1p": "emanámos",
+    "2p": "emanastes",
+    "3p": "emanaram"
+  },
+  "PMQPSI": {
+    "1s": "emanara",
+    "2s": "emanaras",
+    "3s": "emanara",
+    "1p": "emanáramos",
+    "2p": "emanáreis",
+    "3p": "emanaram"
+  },
+  "FutSI": {
+    "1s": "emanarei",
+    "2s": "emanarás",
+    "3s": "emanará",
+    "1p": "emanaremos",
+    "2p": "emanareis",
+    "3p": "emanarão"
+  },
+  "CondS": {
+    "1s": "emanaria",
+    "2s": "emanarias",
+    "3s": "emanaria",
+    "1p": "emanaríamos",
+    "2p": "emanaríeis",
+    "3p": "emanariam"
+  },
+  "PresC": {
+    "1s": "emane",
+    "2s": "emanes",
+    "3s": "emane",
+    "1p": "emanemos",
+    "2p": "emaneis",
+    "3p": "emanem"
+  },
+  "PImpC": {
+    "1s": "emanasse",
+    "2s": "emanasses",
+    "3s": "emanasse",
+    "1p": "emanássemos",
+    "2p": "emanásseis",
+    "3p": "emanassem"
+  },
+  "FutSC": {
+    "1s": "emanar",
+    "2s": "emanares",
+    "3s": "emanar",
+    "1p": "emanarmos",
+    "2p": "emanardes",
+    "3p": "emanarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emana",
+    "3s": "emane",
+    "1p": "emanemos",
+    "2p": "emanai",
+    "3p": "emanem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emanes",
+    "3s": "não emane",
+    "1p": "não emanemos",
+    "2p": "não emaneis",
+    "3p": "não emanem"
+  },
+  "Part-ter": {
+    "": "emanado"
+  },
+  "Part-ser": {
+    "ms": "emanado",
+    "fs": "emanada",
+    "mp": "emanados",
+    "fp": "emanadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "semear"
+  },
+  "InfP": {
+    "1s": "semear",
+    "2s": "semeares",
+    "3s": "semear",
+    "1p": "semearmos",
+    "2p": "semeardes",
+    "3p": "semearem"
+  },
+  "Ger": {
+    "": "semeando"
+  },
+  "PresI": {
+    "1s": "semeio",
+    "2s": "semeias",
+    "3s": "semeia",
+    "1p": "semeamos",
+    "2p": "semeais",
+    "3p": "semeiam"
+  },
+  "PImpI": {
+    "1s": "semeava",
+    "2s": "semeavas",
+    "3s": "semeava",
+    "1p": "semeávamos",
+    "2p": "semeáveis",
+    "3p": "semeavam"
+  },
+  "PPSI": {
+    "1s": "semeei",
+    "2s": "semeaste",
+    "3s": "semeou",
+    "1p": "semeámos",
+    "2p": "semeastes",
+    "3p": "semearam"
+  },
+  "PMQPSI": {
+    "1s": "semeara",
+    "2s": "semearas",
+    "3s": "semeara",
+    "1p": "semeáramos",
+    "2p": "semeáreis",
+    "3p": "semearam"
+  },
+  "FutSI": {
+    "1s": "semearei",
+    "2s": "semearás",
+    "3s": "semeará",
+    "1p": "semearemos",
+    "2p": "semeareis",
+    "3p": "semearão"
+  },
+  "CondS": {
+    "1s": "semearia",
+    "2s": "semearias",
+    "3s": "semearia",
+    "1p": "semearíamos",
+    "2p": "semearíeis",
+    "3p": "semeariam"
+  },
+  "PresC": {
+    "1s": "semeie",
+    "2s": "semeies",
+    "3s": "semeie",
+    "1p": "semeemos",
+    "2p": "semeeis",
+    "3p": "semeiem"
+  },
+  "PImpC": {
+    "1s": "semeasse",
+    "2s": "semeasses",
+    "3s": "semeasse",
+    "1p": "semeássemos",
+    "2p": "semeásseis",
+    "3p": "semeassem"
+  },
+  "FutSC": {
+    "1s": "semear",
+    "2s": "semeares",
+    "3s": "semear",
+    "1p": "semearmos",
+    "2p": "semeardes",
+    "3p": "semearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "semeia",
+    "3s": "semeie",
+    "1p": "semeemos",
+    "2p": "semeai",
+    "3p": "semeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não semeies",
+    "3s": "não semeie",
+    "1p": "não semeemos",
+    "2p": "não semeeis",
+    "3p": "não semeiem"
+  },
+  "Part-ter": {
+    "": "semeado"
+  },
+  "Part-ser": {
+    "ms": "semeado",
+    "fs": "semeada",
+    "mp": "semeados",
+    "fp": "semeadas"
+  }
+}

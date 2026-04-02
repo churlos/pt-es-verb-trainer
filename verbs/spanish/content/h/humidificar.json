@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "humidificar"
+  },
+  "Ger": {
+    "": "humidificando"
+  },
+  "PresI": {
+    "1s": "humidifico",
+    "2s": "humidificas",
+    "3s": "humidifica",
+    "1p": "humidificamos",
+    "2p": "humidificáis",
+    "3p": "humidifican"
+  },
+  "PImpI": {
+    "1s": "humidificaba",
+    "2s": "humidificabas",
+    "3s": "humidificaba",
+    "1p": "humidificábamos",
+    "2p": "humidificabais",
+    "3p": "humidificaban"
+  },
+  "PPSI": {
+    "1s": "humidifiqué",
+    "2s": "humidificaste",
+    "3s": "humidificó",
+    "1p": "humidificamos",
+    "2p": "humidificasteis",
+    "3p": "humidificaron"
+  },
+  "FutSI": {
+    "1s": "humidificaré",
+    "2s": "humidificarás",
+    "3s": "humidificará",
+    "1p": "humidificaremos",
+    "2p": "humidificaréis",
+    "3p": "humidificarán"
+  },
+  "CondS": {
+    "1s": "humidificaría",
+    "2s": "humidificarías",
+    "3s": "humidificaría",
+    "1p": "humidificaríamos",
+    "2p": "humidificaríais",
+    "3p": "humidificarían"
+  },
+  "PresC": {
+    "1s": "humidifique",
+    "2s": "humidifiques",
+    "3s": "humidifique",
+    "1p": "humidifiquemos",
+    "2p": "humidifiquéis",
+    "3p": "humidifiquen"
+  },
+  "PMQPSI": {
+    "1s": "humidificara",
+    "2s": "humidificaras",
+    "3s": "humidificara",
+    "1p": "humidificáramos",
+    "2p": "humidificarais",
+    "3p": "humidificaran"
+  },
+  "PImpC": {
+    "1s": "humidificase",
+    "2s": "humidificases",
+    "3s": "humidificase",
+    "1p": "humidificásemos",
+    "2p": "humidificaseis",
+    "3p": "humidificasen"
+  },
+  "FutSC": {
+    "1s": "humidificare",
+    "2s": "humidificares",
+    "3s": "humidificare",
+    "1p": "humidificáremos",
+    "2p": "humidificareis",
+    "3p": "humidificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "humidifica",
+    "3s": "humidifique",
+    "1p": "humidifiquemos",
+    "2p": "humidificad",
+    "3p": "humidifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no humidifiques",
+    "3s": "no humidifique",
+    "1p": "no humidifiquemos",
+    "2p": "no humidifiquéis",
+    "3p": "no humidifiquen"
+  },
+  "Part-ter": {
+    "": "humidificado"
+  },
+  "Part-ser": {
+    "ms": "humidificado",
+    "fs": "humidificada",
+    "mp": "humidificados",
+    "fp": "humidificadas"
+  }
+}

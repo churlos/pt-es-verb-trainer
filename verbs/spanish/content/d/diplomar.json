@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "diplomar"
+  },
+  "Ger": {
+    "": "diplomando"
+  },
+  "PresI": {
+    "1s": "diplomo",
+    "2s": "diplomas",
+    "3s": "diploma",
+    "1p": "diplomamos",
+    "2p": "diplomáis",
+    "3p": "diploman"
+  },
+  "PImpI": {
+    "1s": "diplomaba",
+    "2s": "diplomabas",
+    "3s": "diplomaba",
+    "1p": "diplomábamos",
+    "2p": "diplomabais",
+    "3p": "diplomaban"
+  },
+  "PPSI": {
+    "1s": "diplomé",
+    "2s": "diplomaste",
+    "3s": "diplomó",
+    "1p": "diplomamos",
+    "2p": "diplomasteis",
+    "3p": "diplomaron"
+  },
+  "FutSI": {
+    "1s": "diplomaré",
+    "2s": "diplomarás",
+    "3s": "diplomará",
+    "1p": "diplomaremos",
+    "2p": "diplomaréis",
+    "3p": "diplomarán"
+  },
+  "CondS": {
+    "1s": "diplomaría",
+    "2s": "diplomarías",
+    "3s": "diplomaría",
+    "1p": "diplomaríamos",
+    "2p": "diplomaríais",
+    "3p": "diplomarían"
+  },
+  "PresC": {
+    "1s": "diplome",
+    "2s": "diplomes",
+    "3s": "diplome",
+    "1p": "diplomemos",
+    "2p": "diploméis",
+    "3p": "diplomen"
+  },
+  "PMQPSI": {
+    "1s": "diplomara",
+    "2s": "diplomaras",
+    "3s": "diplomara",
+    "1p": "diplomáramos",
+    "2p": "diplomarais",
+    "3p": "diplomaran"
+  },
+  "PImpC": {
+    "1s": "diplomase",
+    "2s": "diplomases",
+    "3s": "diplomase",
+    "1p": "diplomásemos",
+    "2p": "diplomaseis",
+    "3p": "diplomasen"
+  },
+  "FutSC": {
+    "1s": "diplomare",
+    "2s": "diplomares",
+    "3s": "diplomare",
+    "1p": "diplomáremos",
+    "2p": "diplomareis",
+    "3p": "diplomaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "diploma",
+    "3s": "diplome",
+    "1p": "diplomemos",
+    "2p": "diplomad",
+    "3p": "diplomen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no diplomes",
+    "3s": "no diplome",
+    "1p": "no diplomemos",
+    "2p": "no diploméis",
+    "3p": "no diplomen"
+  },
+  "Part-ter": {
+    "": "diplomado"
+  },
+  "Part-ser": {
+    "ms": "diplomado",
+    "fs": "diplomada",
+    "mp": "diplomados",
+    "fp": "diplomadas"
+  }
+}

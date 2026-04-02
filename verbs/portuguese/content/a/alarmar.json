@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alarmar"
+  },
+  "InfP": {
+    "1s": "alarmar",
+    "2s": "alarmares",
+    "3s": "alarmar",
+    "1p": "alarmarmos",
+    "2p": "alarmardes",
+    "3p": "alarmarem"
+  },
+  "Ger": {
+    "": "alarmando"
+  },
+  "PresI": {
+    "1s": "alarmo",
+    "2s": "alarmas",
+    "3s": "alarma",
+    "1p": "alarmamos",
+    "2p": "alarmais",
+    "3p": "alarmam"
+  },
+  "PImpI": {
+    "1s": "alarmava",
+    "2s": "alarmavas",
+    "3s": "alarmava",
+    "1p": "alarmávamos",
+    "2p": "alarmáveis",
+    "3p": "alarmavam"
+  },
+  "PPSI": {
+    "1s": "alarmei",
+    "2s": "alarmaste",
+    "3s": "alarmou",
+    "1p": "alarmámos",
+    "2p": "alarmastes",
+    "3p": "alarmaram"
+  },
+  "PMQPSI": {
+    "1s": "alarmara",
+    "2s": "alarmaras",
+    "3s": "alarmara",
+    "1p": "alarmáramos",
+    "2p": "alarmáreis",
+    "3p": "alarmaram"
+  },
+  "FutSI": {
+    "1s": "alarmarei",
+    "2s": "alarmarás",
+    "3s": "alarmará",
+    "1p": "alarmaremos",
+    "2p": "alarmareis",
+    "3p": "alarmarão"
+  },
+  "CondS": {
+    "1s": "alarmaria",
+    "2s": "alarmarias",
+    "3s": "alarmaria",
+    "1p": "alarmaríamos",
+    "2p": "alarmaríeis",
+    "3p": "alarmariam"
+  },
+  "PresC": {
+    "1s": "alarme",
+    "2s": "alarmes",
+    "3s": "alarme",
+    "1p": "alarmemos",
+    "2p": "alarmeis",
+    "3p": "alarmem"
+  },
+  "PImpC": {
+    "1s": "alarmasse",
+    "2s": "alarmasses",
+    "3s": "alarmasse",
+    "1p": "alarmássemos",
+    "2p": "alarmásseis",
+    "3p": "alarmassem"
+  },
+  "FutSC": {
+    "1s": "alarmar",
+    "2s": "alarmares",
+    "3s": "alarmar",
+    "1p": "alarmarmos",
+    "2p": "alarmardes",
+    "3p": "alarmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alarma",
+    "3s": "alarme",
+    "1p": "alarmemos",
+    "2p": "alarmai",
+    "3p": "alarmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alarmes",
+    "3s": "não alarme",
+    "1p": "não alarmemos",
+    "2p": "não alarmeis",
+    "3p": "não alarmem"
+  },
+  "Part-ter": {
+    "": "alarmado"
+  },
+  "Part-ser": {
+    "ms": "alarmado",
+    "fs": "alarmada",
+    "mp": "alarmados",
+    "fp": "alarmadas"
+  }
+}

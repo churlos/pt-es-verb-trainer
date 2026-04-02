@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inocular"
+  },
+  "Ger": {
+    "": "inoculando"
+  },
+  "PresI": {
+    "1s": "inoculo",
+    "2s": "inoculas",
+    "3s": "inocula",
+    "1p": "inoculamos",
+    "2p": "inoculáis",
+    "3p": "inoculan"
+  },
+  "PImpI": {
+    "1s": "inoculaba",
+    "2s": "inoculabas",
+    "3s": "inoculaba",
+    "1p": "inoculábamos",
+    "2p": "inoculabais",
+    "3p": "inoculaban"
+  },
+  "PPSI": {
+    "1s": "inoculé",
+    "2s": "inoculaste",
+    "3s": "inoculó",
+    "1p": "inoculamos",
+    "2p": "inoculasteis",
+    "3p": "inocularon"
+  },
+  "FutSI": {
+    "1s": "inocularé",
+    "2s": "inocularás",
+    "3s": "inoculará",
+    "1p": "inocularemos",
+    "2p": "inocularéis",
+    "3p": "inocularán"
+  },
+  "CondS": {
+    "1s": "inocularía",
+    "2s": "inocularías",
+    "3s": "inocularía",
+    "1p": "inocularíamos",
+    "2p": "inocularíais",
+    "3p": "inocularían"
+  },
+  "PresC": {
+    "1s": "inocule",
+    "2s": "inocules",
+    "3s": "inocule",
+    "1p": "inoculemos",
+    "2p": "inoculéis",
+    "3p": "inoculen"
+  },
+  "PMQPSI": {
+    "1s": "inoculara",
+    "2s": "inocularas",
+    "3s": "inoculara",
+    "1p": "inoculáramos",
+    "2p": "inocularais",
+    "3p": "inocularan"
+  },
+  "PImpC": {
+    "1s": "inoculase",
+    "2s": "inoculases",
+    "3s": "inoculase",
+    "1p": "inoculásemos",
+    "2p": "inoculaseis",
+    "3p": "inoculasen"
+  },
+  "FutSC": {
+    "1s": "inoculare",
+    "2s": "inoculares",
+    "3s": "inoculare",
+    "1p": "inoculáremos",
+    "2p": "inoculareis",
+    "3p": "inocularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inocula",
+    "3s": "inocule",
+    "1p": "inoculemos",
+    "2p": "inoculad",
+    "3p": "inoculen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inocules",
+    "3s": "no inocule",
+    "1p": "no inoculemos",
+    "2p": "no inoculéis",
+    "3p": "no inoculen"
+  },
+  "Part-ter": {
+    "": "inoculado"
+  },
+  "Part-ser": {
+    "ms": "inoculado",
+    "fs": "inoculada",
+    "mp": "inoculados",
+    "fp": "inoculadas"
+  }
+}

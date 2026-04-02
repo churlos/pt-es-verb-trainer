@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sobreproteger"
+  },
+  "Ger": {
+    "": "sobreprotegiendo"
+  },
+  "PresI": {
+    "1s": "sobreprotejo",
+    "2s": "sobreproteges",
+    "3s": "sobreprotege",
+    "1p": "sobreprotegemos",
+    "2p": "sobreprotegéis",
+    "3p": "sobreprotegen"
+  },
+  "PImpI": {
+    "1s": "sobreprotegía",
+    "2s": "sobreprotegías",
+    "3s": "sobreprotegía",
+    "1p": "sobreprotegíamos",
+    "2p": "sobreprotegíais",
+    "3p": "sobreprotegían"
+  },
+  "PPSI": {
+    "1s": "sobreprotegí",
+    "2s": "sobreprotegiste",
+    "3s": "sobreprotegió",
+    "1p": "sobreprotegimos",
+    "2p": "sobreprotegisteis",
+    "3p": "sobreprotegieron"
+  },
+  "FutSI": {
+    "1s": "sobreprotegeré",
+    "2s": "sobreprotegerás",
+    "3s": "sobreprotegerá",
+    "1p": "sobreprotegeremos",
+    "2p": "sobreprotegeréis",
+    "3p": "sobreprotegerán"
+  },
+  "CondS": {
+    "1s": "sobreprotegería",
+    "2s": "sobreprotegerías",
+    "3s": "sobreprotegería",
+    "1p": "sobreprotegeríamos",
+    "2p": "sobreprotegeríais",
+    "3p": "sobreprotegerían"
+  },
+  "PresC": {
+    "1s": "sobreproteja",
+    "2s": "sobreprotejas",
+    "3s": "sobreproteja",
+    "1p": "sobreprotejamos",
+    "2p": "sobreprotejáis",
+    "3p": "sobreprotejan"
+  },
+  "PMQPSI": {
+    "1s": "sobreprotegiera",
+    "2s": "sobreprotegieras",
+    "3s": "sobreprotegiera",
+    "1p": "sobreprotegiéramos",
+    "2p": "sobreprotegierais",
+    "3p": "sobreprotegieran"
+  },
+  "PImpC": {
+    "1s": "sobreprotegiese",
+    "2s": "sobreprotegieses",
+    "3s": "sobreprotegiese",
+    "1p": "sobreprotegiésemos",
+    "2p": "sobreprotegieseis",
+    "3p": "sobreprotegiesen"
+  },
+  "FutSC": {
+    "1s": "sobreprotegiere",
+    "2s": "sobreprotegieres",
+    "3s": "sobreprotegiere",
+    "1p": "sobreprotegiéremos",
+    "2p": "sobreprotegiereis",
+    "3p": "sobreprotegieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sobreprotege",
+    "3s": "sobreproteja",
+    "1p": "sobreprotejamos",
+    "2p": "sobreproteged",
+    "3p": "sobreprotejan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sobreprotejas",
+    "3s": "no sobreproteja",
+    "1p": "no sobreprotejamos",
+    "2p": "no sobreprotejáis",
+    "3p": "no sobreprotejan"
+  },
+  "Part-ter": {
+    "": "sobreprotegido"
+  },
+  "Part-ser": {
+    "ms": "sobreprotegido",
+    "fs": "sobreprotegida",
+    "mp": "sobreprotegidos",
+    "fp": "sobreprotegidas"
+  }
+}

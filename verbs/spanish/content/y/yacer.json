@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "yacer"
+  },
+  "Ger": {
+    "": "yaciendo"
+  },
+  "PresI": {
+    "1s": "yazco, yazgo, yago",
+    "2s": "yaces",
+    "3s": "yace",
+    "1p": "yacemos",
+    "2p": "yacéis",
+    "3p": "yacen"
+  },
+  "PImpI": {
+    "1s": "yacía",
+    "2s": "yacías",
+    "3s": "yacía",
+    "1p": "yacíamos",
+    "2p": "yacíais",
+    "3p": "yacían"
+  },
+  "PPSI": {
+    "1s": "yací",
+    "2s": "yaciste",
+    "3s": "yació",
+    "1p": "yacimos",
+    "2p": "yacisteis",
+    "3p": "yacieron"
+  },
+  "FutSI": {
+    "1s": "yaceré",
+    "2s": "yacerás",
+    "3s": "yacerá",
+    "1p": "yaceremos",
+    "2p": "yaceréis",
+    "3p": "yacerán"
+  },
+  "CondS": {
+    "1s": "yacería",
+    "2s": "yacerías",
+    "3s": "yacería",
+    "1p": "yaceríamos",
+    "2p": "yaceríais",
+    "3p": "yacerían"
+  },
+  "PresC": {
+    "1s": "yazca, yazga, yaga",
+    "2s": "yazcas, yazgas, yagas",
+    "3s": "yazca, yazga, yaga",
+    "1p": "yazcamos, yazgamos, yagamos",
+    "2p": "yazcáis, yazgáis, yagáis",
+    "3p": "yazcan, yazgan, yagan"
+  },
+  "PMQPSI": {
+    "1s": "yaciera",
+    "2s": "yacieras",
+    "3s": "yaciera",
+    "1p": "yaciéramos",
+    "2p": "yacierais",
+    "3p": "yacieran"
+  },
+  "PImpC": {
+    "1s": "yaciese",
+    "2s": "yacieses",
+    "3s": "yaciese",
+    "1p": "yaciésemos",
+    "2p": "yacieseis",
+    "3p": "yaciesen"
+  },
+  "FutSC": {
+    "1s": "yaciere",
+    "2s": "yacieres",
+    "3s": "yaciere",
+    "1p": "yaciéremos",
+    "2p": "yaciereis",
+    "3p": "yacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "yace",
+    "3s": "yazca, yazga, yaga",
+    "1p": "yazcamos, yazgamos, yagamos",
+    "2p": "yaced",
+    "3p": "yazcan, yazgan, yagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no yazcas, yazgas, yagas",
+    "3s": "no yazca, yazga, yaga",
+    "1p": "no yazcamos, yazgamos, yagamos",
+    "2p": "no yazcáis, yazgáis, yagáis",
+    "3p": "no yazcan, yazgan, yagan"
+  },
+  "Part-ter": {
+    "": "yacido"
+  },
+  "Part-ser": {
+    "ms": "yacido",
+    "fs": "yacida",
+    "mp": "yacidos",
+    "fp": "yacidas"
+  }
+}

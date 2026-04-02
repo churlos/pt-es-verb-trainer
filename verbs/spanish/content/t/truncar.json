@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "truncar"
+  },
+  "Ger": {
+    "": "truncando"
+  },
+  "PresI": {
+    "1s": "trunco",
+    "2s": "truncas",
+    "3s": "trunca",
+    "1p": "truncamos",
+    "2p": "truncáis",
+    "3p": "truncan"
+  },
+  "PImpI": {
+    "1s": "truncaba",
+    "2s": "truncabas",
+    "3s": "truncaba",
+    "1p": "truncábamos",
+    "2p": "truncabais",
+    "3p": "truncaban"
+  },
+  "PPSI": {
+    "1s": "trunqué",
+    "2s": "truncaste",
+    "3s": "truncó",
+    "1p": "truncamos",
+    "2p": "truncasteis",
+    "3p": "truncaron"
+  },
+  "FutSI": {
+    "1s": "truncaré",
+    "2s": "truncarás",
+    "3s": "truncará",
+    "1p": "truncaremos",
+    "2p": "truncaréis",
+    "3p": "truncarán"
+  },
+  "CondS": {
+    "1s": "truncaría",
+    "2s": "truncarías",
+    "3s": "truncaría",
+    "1p": "truncaríamos",
+    "2p": "truncaríais",
+    "3p": "truncarían"
+  },
+  "PresC": {
+    "1s": "trunque",
+    "2s": "trunques",
+    "3s": "trunque",
+    "1p": "trunquemos",
+    "2p": "trunquéis",
+    "3p": "trunquen"
+  },
+  "PMQPSI": {
+    "1s": "truncara",
+    "2s": "truncaras",
+    "3s": "truncara",
+    "1p": "truncáramos",
+    "2p": "truncarais",
+    "3p": "truncaran"
+  },
+  "PImpC": {
+    "1s": "truncase",
+    "2s": "truncases",
+    "3s": "truncase",
+    "1p": "truncásemos",
+    "2p": "truncaseis",
+    "3p": "truncasen"
+  },
+  "FutSC": {
+    "1s": "truncare",
+    "2s": "truncares",
+    "3s": "truncare",
+    "1p": "truncáremos",
+    "2p": "truncareis",
+    "3p": "truncaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trunca",
+    "3s": "trunque",
+    "1p": "trunquemos",
+    "2p": "truncad",
+    "3p": "trunquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trunques",
+    "3s": "no trunque",
+    "1p": "no trunquemos",
+    "2p": "no trunquéis",
+    "3p": "no trunquen"
+  },
+  "Part-ter": {
+    "": "truncado"
+  },
+  "Part-ser": {
+    "ms": "truncado",
+    "fs": "truncada",
+    "mp": "truncados",
+    "fp": "truncadas"
+  }
+}

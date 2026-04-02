@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aperturar"
+  },
+  "Ger": {
+    "": "aperturando"
+  },
+  "PresI": {
+    "1s": "aperturo",
+    "2s": "aperturas",
+    "3s": "apertura",
+    "1p": "aperturamos",
+    "2p": "aperturáis",
+    "3p": "aperturan"
+  },
+  "PImpI": {
+    "1s": "aperturaba",
+    "2s": "aperturabas",
+    "3s": "aperturaba",
+    "1p": "aperturábamos",
+    "2p": "aperturabais",
+    "3p": "aperturaban"
+  },
+  "PPSI": {
+    "1s": "aperturé",
+    "2s": "aperturaste",
+    "3s": "aperturó",
+    "1p": "aperturamos",
+    "2p": "aperturasteis",
+    "3p": "aperturaron"
+  },
+  "FutSI": {
+    "1s": "aperturaré",
+    "2s": "aperturarás",
+    "3s": "aperturará",
+    "1p": "aperturaremos",
+    "2p": "aperturaréis",
+    "3p": "aperturarán"
+  },
+  "CondS": {
+    "1s": "aperturaría",
+    "2s": "aperturarías",
+    "3s": "aperturaría",
+    "1p": "aperturaríamos",
+    "2p": "aperturaríais",
+    "3p": "aperturarían"
+  },
+  "PresC": {
+    "1s": "aperture",
+    "2s": "apertures",
+    "3s": "aperture",
+    "1p": "aperturemos",
+    "2p": "aperturéis",
+    "3p": "aperturen"
+  },
+  "PMQPSI": {
+    "1s": "aperturara",
+    "2s": "aperturaras",
+    "3s": "aperturara",
+    "1p": "aperturáramos",
+    "2p": "aperturarais",
+    "3p": "aperturaran"
+  },
+  "PImpC": {
+    "1s": "aperturase",
+    "2s": "aperturases",
+    "3s": "aperturase",
+    "1p": "aperturásemos",
+    "2p": "aperturaseis",
+    "3p": "aperturasen"
+  },
+  "FutSC": {
+    "1s": "aperturare",
+    "2s": "aperturares",
+    "3s": "aperturare",
+    "1p": "aperturáremos",
+    "2p": "aperturareis",
+    "3p": "aperturaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apertura",
+    "3s": "aperture",
+    "1p": "aperturemos",
+    "2p": "aperturad",
+    "3p": "aperturen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apertures",
+    "3s": "no aperture",
+    "1p": "no aperturemos",
+    "2p": "no aperturéis",
+    "3p": "no aperturen"
+  },
+  "Part-ter": {
+    "": "aperturado"
+  },
+  "Part-ser": {
+    "ms": "aperturado",
+    "fs": "aperturada",
+    "mp": "aperturados",
+    "fp": "aperturadas"
+  }
+}

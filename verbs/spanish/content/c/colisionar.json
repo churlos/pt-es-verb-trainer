@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "colisionar"
+  },
+  "Ger": {
+    "": "colisionando"
+  },
+  "PresI": {
+    "1s": "colisiono",
+    "2s": "colisionas",
+    "3s": "colisiona",
+    "1p": "colisionamos",
+    "2p": "colisionáis",
+    "3p": "colisionan"
+  },
+  "PImpI": {
+    "1s": "colisionaba",
+    "2s": "colisionabas",
+    "3s": "colisionaba",
+    "1p": "colisionábamos",
+    "2p": "colisionabais",
+    "3p": "colisionaban"
+  },
+  "PPSI": {
+    "1s": "colisioné",
+    "2s": "colisionaste",
+    "3s": "colisionó",
+    "1p": "colisionamos",
+    "2p": "colisionasteis",
+    "3p": "colisionaron"
+  },
+  "FutSI": {
+    "1s": "colisionaré",
+    "2s": "colisionarás",
+    "3s": "colisionará",
+    "1p": "colisionaremos",
+    "2p": "colisionaréis",
+    "3p": "colisionarán"
+  },
+  "CondS": {
+    "1s": "colisionaría",
+    "2s": "colisionarías",
+    "3s": "colisionaría",
+    "1p": "colisionaríamos",
+    "2p": "colisionaríais",
+    "3p": "colisionarían"
+  },
+  "PresC": {
+    "1s": "colisione",
+    "2s": "colisiones",
+    "3s": "colisione",
+    "1p": "colisionemos",
+    "2p": "colisionéis",
+    "3p": "colisionen"
+  },
+  "PMQPSI": {
+    "1s": "colisionara",
+    "2s": "colisionaras",
+    "3s": "colisionara",
+    "1p": "colisionáramos",
+    "2p": "colisionarais",
+    "3p": "colisionaran"
+  },
+  "PImpC": {
+    "1s": "colisionase",
+    "2s": "colisionases",
+    "3s": "colisionase",
+    "1p": "colisionásemos",
+    "2p": "colisionaseis",
+    "3p": "colisionasen"
+  },
+  "FutSC": {
+    "1s": "colisionare",
+    "2s": "colisionares",
+    "3s": "colisionare",
+    "1p": "colisionáremos",
+    "2p": "colisionareis",
+    "3p": "colisionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colisiona",
+    "3s": "colisione",
+    "1p": "colisionemos",
+    "2p": "colisionad",
+    "3p": "colisionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no colisiones",
+    "3s": "no colisione",
+    "1p": "no colisionemos",
+    "2p": "no colisionéis",
+    "3p": "no colisionen"
+  },
+  "Part-ter": {
+    "": "colisionado"
+  },
+  "Part-ser": {
+    "ms": "colisionado",
+    "fs": "colisionada",
+    "mp": "colisionados",
+    "fp": "colisionadas"
+  }
+}

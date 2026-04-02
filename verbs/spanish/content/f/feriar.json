@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "feriar"
+  },
+  "Ger": {
+    "": "feriando"
+  },
+  "PresI": {
+    "1s": "ferio",
+    "2s": "ferias",
+    "3s": "feria",
+    "1p": "feriamos",
+    "2p": "feriáis",
+    "3p": "ferian"
+  },
+  "PImpI": {
+    "1s": "feriaba",
+    "2s": "feriabas",
+    "3s": "feriaba",
+    "1p": "feriábamos",
+    "2p": "feriabais",
+    "3p": "feriaban"
+  },
+  "PPSI": {
+    "1s": "ferié",
+    "2s": "feriaste",
+    "3s": "ferió",
+    "1p": "feriamos",
+    "2p": "feriasteis",
+    "3p": "feriaron"
+  },
+  "FutSI": {
+    "1s": "feriaré",
+    "2s": "feriarás",
+    "3s": "feriará",
+    "1p": "feriaremos",
+    "2p": "feriaréis",
+    "3p": "feriarán"
+  },
+  "CondS": {
+    "1s": "feriaría",
+    "2s": "feriarías",
+    "3s": "feriaría",
+    "1p": "feriaríamos",
+    "2p": "feriaríais",
+    "3p": "feriarían"
+  },
+  "PresC": {
+    "1s": "ferie",
+    "2s": "feries",
+    "3s": "ferie",
+    "1p": "feriemos",
+    "2p": "feriéis",
+    "3p": "ferien"
+  },
+  "PMQPSI": {
+    "1s": "feriara",
+    "2s": "feriaras",
+    "3s": "feriara",
+    "1p": "feriáramos",
+    "2p": "feriarais",
+    "3p": "feriaran"
+  },
+  "PImpC": {
+    "1s": "feriase",
+    "2s": "feriases",
+    "3s": "feriase",
+    "1p": "feriásemos",
+    "2p": "feriaseis",
+    "3p": "feriasen"
+  },
+  "FutSC": {
+    "1s": "feriare",
+    "2s": "feriares",
+    "3s": "feriare",
+    "1p": "feriáremos",
+    "2p": "feriareis",
+    "3p": "feriaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "feria",
+    "3s": "ferie",
+    "1p": "feriemos",
+    "2p": "feriad",
+    "3p": "ferien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no feries",
+    "3s": "no ferie",
+    "1p": "no feriemos",
+    "2p": "no feriéis",
+    "3p": "no ferien"
+  },
+  "Part-ter": {
+    "": "feriado"
+  },
+  "Part-ser": {
+    "ms": "feriado",
+    "fs": "feriada",
+    "mp": "feriados",
+    "fp": "feriadas"
+  }
+}

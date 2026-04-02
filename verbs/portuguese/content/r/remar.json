@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "remar"
+  },
+  "InfP": {
+    "1s": "remar",
+    "2s": "remares",
+    "3s": "remar",
+    "1p": "remarmos",
+    "2p": "remardes",
+    "3p": "remarem"
+  },
+  "Ger": {
+    "": "remando"
+  },
+  "PresI": {
+    "1s": "remo",
+    "2s": "remas",
+    "3s": "rema",
+    "1p": "remamos",
+    "2p": "remais",
+    "3p": "remam"
+  },
+  "PImpI": {
+    "1s": "remava",
+    "2s": "remavas",
+    "3s": "remava",
+    "1p": "remávamos",
+    "2p": "remáveis",
+    "3p": "remavam"
+  },
+  "PPSI": {
+    "1s": "remei",
+    "2s": "remaste",
+    "3s": "remou",
+    "1p": "remámos",
+    "2p": "remastes",
+    "3p": "remaram"
+  },
+  "PMQPSI": {
+    "1s": "remara",
+    "2s": "remaras",
+    "3s": "remara",
+    "1p": "remáramos",
+    "2p": "remáreis",
+    "3p": "remaram"
+  },
+  "FutSI": {
+    "1s": "remarei",
+    "2s": "remarás",
+    "3s": "remará",
+    "1p": "remaremos",
+    "2p": "remareis",
+    "3p": "remarão"
+  },
+  "CondS": {
+    "1s": "remaria",
+    "2s": "remarias",
+    "3s": "remaria",
+    "1p": "remaríamos",
+    "2p": "remaríeis",
+    "3p": "remariam"
+  },
+  "PresC": {
+    "1s": "reme",
+    "2s": "remes",
+    "3s": "reme",
+    "1p": "rememos",
+    "2p": "remeis",
+    "3p": "remem"
+  },
+  "PImpC": {
+    "1s": "remasse",
+    "2s": "remasses",
+    "3s": "remasse",
+    "1p": "remássemos",
+    "2p": "remásseis",
+    "3p": "remassem"
+  },
+  "FutSC": {
+    "1s": "remar",
+    "2s": "remares",
+    "3s": "remar",
+    "1p": "remarmos",
+    "2p": "remardes",
+    "3p": "remarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rema",
+    "3s": "reme",
+    "1p": "rememos",
+    "2p": "remai",
+    "3p": "remem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não remes",
+    "3s": "não reme",
+    "1p": "não rememos",
+    "2p": "não remeis",
+    "3p": "não remem"
+  },
+  "Part-ter": {
+    "": "remado"
+  },
+  "Part-ser": {
+    "ms": "remado",
+    "fs": "remada",
+    "mp": "remados",
+    "fp": "remadas"
+  }
+}

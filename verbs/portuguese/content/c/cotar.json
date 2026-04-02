@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cotar"
+  },
+  "InfP": {
+    "1s": "cotar",
+    "2s": "cotares",
+    "3s": "cotar",
+    "1p": "cotarmos",
+    "2p": "cotardes",
+    "3p": "cotarem"
+  },
+  "Ger": {
+    "": "cotando"
+  },
+  "PresI": {
+    "1s": "coto",
+    "2s": "cotas",
+    "3s": "cota",
+    "1p": "cotamos",
+    "2p": "cotais",
+    "3p": "cotam"
+  },
+  "PImpI": {
+    "1s": "cotava",
+    "2s": "cotavas",
+    "3s": "cotava",
+    "1p": "cotávamos",
+    "2p": "cotáveis",
+    "3p": "cotavam"
+  },
+  "PPSI": {
+    "1s": "cotei",
+    "2s": "cotaste",
+    "3s": "cotou",
+    "1p": "cotámos",
+    "2p": "cotastes",
+    "3p": "cotaram"
+  },
+  "PMQPSI": {
+    "1s": "cotara",
+    "2s": "cotaras",
+    "3s": "cotara",
+    "1p": "cotáramos",
+    "2p": "cotáreis",
+    "3p": "cotaram"
+  },
+  "FutSI": {
+    "1s": "cotarei",
+    "2s": "cotarás",
+    "3s": "cotará",
+    "1p": "cotaremos",
+    "2p": "cotareis",
+    "3p": "cotarão"
+  },
+  "CondS": {
+    "1s": "cotaria",
+    "2s": "cotarias",
+    "3s": "cotaria",
+    "1p": "cotaríamos",
+    "2p": "cotaríeis",
+    "3p": "cotariam"
+  },
+  "PresC": {
+    "1s": "cote",
+    "2s": "cotes",
+    "3s": "cote",
+    "1p": "cotemos",
+    "2p": "coteis",
+    "3p": "cotem"
+  },
+  "PImpC": {
+    "1s": "cotasse",
+    "2s": "cotasses",
+    "3s": "cotasse",
+    "1p": "cotássemos",
+    "2p": "cotásseis",
+    "3p": "cotassem"
+  },
+  "FutSC": {
+    "1s": "cotar",
+    "2s": "cotares",
+    "3s": "cotar",
+    "1p": "cotarmos",
+    "2p": "cotardes",
+    "3p": "cotarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cota",
+    "3s": "cote",
+    "1p": "cotemos",
+    "2p": "cotai",
+    "3p": "cotem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cotes",
+    "3s": "não cote",
+    "1p": "não cotemos",
+    "2p": "não coteis",
+    "3p": "não cotem"
+  },
+  "Part-ter": {
+    "": "cotado"
+  },
+  "Part-ser": {
+    "ms": "cotado",
+    "fs": "cotada",
+    "mp": "cotados",
+    "fp": "cotadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cortar"
+  },
+  "InfP": {
+    "1s": "cortar",
+    "2s": "cortares",
+    "3s": "cortar",
+    "1p": "cortarmos",
+    "2p": "cortardes",
+    "3p": "cortarem"
+  },
+  "Ger": {
+    "": "cortando"
+  },
+  "PresI": {
+    "1s": "corto",
+    "2s": "cortas",
+    "3s": "corta",
+    "1p": "cortamos",
+    "2p": "cortais",
+    "3p": "cortam"
+  },
+  "PImpI": {
+    "1s": "cortava",
+    "2s": "cortavas",
+    "3s": "cortava",
+    "1p": "cortávamos",
+    "2p": "cortáveis",
+    "3p": "cortavam"
+  },
+  "PPSI": {
+    "1s": "cortei",
+    "2s": "cortaste",
+    "3s": "cortou",
+    "1p": "cortámos",
+    "2p": "cortastes",
+    "3p": "cortaram"
+  },
+  "PMQPSI": {
+    "1s": "cortara",
+    "2s": "cortaras",
+    "3s": "cortara",
+    "1p": "cortáramos",
+    "2p": "cortáreis",
+    "3p": "cortaram"
+  },
+  "FutSI": {
+    "1s": "cortarei",
+    "2s": "cortarás",
+    "3s": "cortará",
+    "1p": "cortaremos",
+    "2p": "cortareis",
+    "3p": "cortarão"
+  },
+  "CondS": {
+    "1s": "cortaria",
+    "2s": "cortarias",
+    "3s": "cortaria",
+    "1p": "cortaríamos",
+    "2p": "cortaríeis",
+    "3p": "cortariam"
+  },
+  "PresC": {
+    "1s": "corte",
+    "2s": "cortes",
+    "3s": "corte",
+    "1p": "cortemos",
+    "2p": "corteis",
+    "3p": "cortem"
+  },
+  "PImpC": {
+    "1s": "cortasse",
+    "2s": "cortasses",
+    "3s": "cortasse",
+    "1p": "cortássemos",
+    "2p": "cortásseis",
+    "3p": "cortassem"
+  },
+  "FutSC": {
+    "1s": "cortar",
+    "2s": "cortares",
+    "3s": "cortar",
+    "1p": "cortarmos",
+    "2p": "cortardes",
+    "3p": "cortarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corta",
+    "3s": "corte",
+    "1p": "cortemos",
+    "2p": "cortai",
+    "3p": "cortem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cortes",
+    "3s": "não corte",
+    "1p": "não cortemos",
+    "2p": "não corteis",
+    "3p": "não cortem"
+  },
+  "Part-ter": {
+    "": "cortado"
+  },
+  "Part-ser": {
+    "ms": "cortado",
+    "fs": "cortada",
+    "mp": "cortados",
+    "fp": "cortadas"
+  }
+}

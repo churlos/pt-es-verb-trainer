@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fundir"
+  },
+  "InfP": {
+    "1s": "fundir",
+    "2s": "fundires",
+    "3s": "fundir",
+    "1p": "fundirmos",
+    "2p": "fundirdes",
+    "3p": "fundirem"
+  },
+  "Ger": {
+    "": "fundindo"
+  },
+  "PresI": {
+    "1s": "fundo",
+    "2s": "fundes",
+    "3s": "funde",
+    "1p": "fundimos",
+    "2p": "fundis",
+    "3p": "fundem"
+  },
+  "PImpI": {
+    "1s": "fundia",
+    "2s": "fundias",
+    "3s": "fundia",
+    "1p": "fundíamos",
+    "2p": "fundíeis",
+    "3p": "fundiam"
+  },
+  "PPSI": {
+    "1s": "fundi",
+    "2s": "fundiste",
+    "3s": "fundiu",
+    "1p": "fundimos",
+    "2p": "fundistes",
+    "3p": "fundiram"
+  },
+  "PMQPSI": {
+    "1s": "fundira",
+    "2s": "fundiras",
+    "3s": "fundira",
+    "1p": "fundíramos",
+    "2p": "fundíreis",
+    "3p": "fundiram"
+  },
+  "FutSI": {
+    "1s": "fundirei",
+    "2s": "fundirás",
+    "3s": "fundirá",
+    "1p": "fundiremos",
+    "2p": "fundireis",
+    "3p": "fundirão"
+  },
+  "CondS": {
+    "1s": "fundiria",
+    "2s": "fundirias",
+    "3s": "fundiria",
+    "1p": "fundiríamos",
+    "2p": "fundiríeis",
+    "3p": "fundiriam"
+  },
+  "PresC": {
+    "1s": "funda",
+    "2s": "fundas",
+    "3s": "funda",
+    "1p": "fundamos",
+    "2p": "fundais",
+    "3p": "fundam"
+  },
+  "PImpC": {
+    "1s": "fundisse",
+    "2s": "fundisses",
+    "3s": "fundisse",
+    "1p": "fundíssemos",
+    "2p": "fundísseis",
+    "3p": "fundissem"
+  },
+  "FutSC": {
+    "1s": "fundir",
+    "2s": "fundires",
+    "3s": "fundir",
+    "1p": "fundirmos",
+    "2p": "fundirdes",
+    "3p": "fundirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "funde",
+    "3s": "funda",
+    "1p": "fundamos",
+    "2p": "fundi",
+    "3p": "fundam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fundas",
+    "3s": "não funda",
+    "1p": "não fundamos",
+    "2p": "não fundais",
+    "3p": "não fundam"
+  },
+  "Part-ter": {
+    "": "fundido"
+  },
+  "Part-ser": {
+    "ms": "fundido",
+    "fs": "fundida",
+    "mp": "fundidos",
+    "fp": "fundidas"
+  }
+}

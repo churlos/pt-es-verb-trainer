@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "filosofar"
+  },
+  "InfP": {
+    "1s": "filosofar",
+    "2s": "filosofares",
+    "3s": "filosofar",
+    "1p": "filosofarmos",
+    "2p": "filosofardes",
+    "3p": "filosofarem"
+  },
+  "Ger": {
+    "": "filosofando"
+  },
+  "PresI": {
+    "1s": "filosofo",
+    "2s": "filosofas",
+    "3s": "filosofa",
+    "1p": "filosofamos",
+    "2p": "filosofais",
+    "3p": "filosofam"
+  },
+  "PImpI": {
+    "1s": "filosofava",
+    "2s": "filosofavas",
+    "3s": "filosofava",
+    "1p": "filosofávamos",
+    "2p": "filosofáveis",
+    "3p": "filosofavam"
+  },
+  "PPSI": {
+    "1s": "filosofei",
+    "2s": "filosofaste",
+    "3s": "filosofou",
+    "1p": "filosofámos",
+    "2p": "filosofastes",
+    "3p": "filosofaram"
+  },
+  "PMQPSI": {
+    "1s": "filosofara",
+    "2s": "filosofaras",
+    "3s": "filosofara",
+    "1p": "filosofáramos",
+    "2p": "filosofáreis",
+    "3p": "filosofaram"
+  },
+  "FutSI": {
+    "1s": "filosofarei",
+    "2s": "filosofarás",
+    "3s": "filosofará",
+    "1p": "filosofaremos",
+    "2p": "filosofareis",
+    "3p": "filosofarão"
+  },
+  "CondS": {
+    "1s": "filosofaria",
+    "2s": "filosofarias",
+    "3s": "filosofaria",
+    "1p": "filosofaríamos",
+    "2p": "filosofaríeis",
+    "3p": "filosofariam"
+  },
+  "PresC": {
+    "1s": "filosofe",
+    "2s": "filosofes",
+    "3s": "filosofe",
+    "1p": "filosofemos",
+    "2p": "filosofeis",
+    "3p": "filosofem"
+  },
+  "PImpC": {
+    "1s": "filosofasse",
+    "2s": "filosofasses",
+    "3s": "filosofasse",
+    "1p": "filosofássemos",
+    "2p": "filosofásseis",
+    "3p": "filosofassem"
+  },
+  "FutSC": {
+    "1s": "filosofar",
+    "2s": "filosofares",
+    "3s": "filosofar",
+    "1p": "filosofarmos",
+    "2p": "filosofardes",
+    "3p": "filosofarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "filosofa",
+    "3s": "filosofe",
+    "1p": "filosofemos",
+    "2p": "filosofai",
+    "3p": "filosofem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não filosofes",
+    "3s": "não filosofe",
+    "1p": "não filosofemos",
+    "2p": "não filosofeis",
+    "3p": "não filosofem"
+  },
+  "Part-ter": {
+    "": "filosofado"
+  },
+  "Part-ser": {
+    "ms": "filosofado",
+    "fs": "filosofada",
+    "mp": "filosofados",
+    "fp": "filosofadas"
+  }
+}

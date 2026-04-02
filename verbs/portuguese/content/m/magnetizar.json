@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "magnetizar"
+  },
+  "InfP": {
+    "1s": "magnetizar",
+    "2s": "magnetizares",
+    "3s": "magnetizar",
+    "1p": "magnetizarmos",
+    "2p": "magnetizardes",
+    "3p": "magnetizarem"
+  },
+  "Ger": {
+    "": "magnetizando"
+  },
+  "PresI": {
+    "1s": "magnetizo",
+    "2s": "magnetizas",
+    "3s": "magnetiza",
+    "1p": "magnetizamos",
+    "2p": "magnetizais",
+    "3p": "magnetizam"
+  },
+  "PImpI": {
+    "1s": "magnetizava",
+    "2s": "magnetizavas",
+    "3s": "magnetizava",
+    "1p": "magnetizávamos",
+    "2p": "magnetizáveis",
+    "3p": "magnetizavam"
+  },
+  "PPSI": {
+    "1s": "magnetizei",
+    "2s": "magnetizaste",
+    "3s": "magnetizou",
+    "1p": "magnetizámos",
+    "2p": "magnetizastes",
+    "3p": "magnetizaram"
+  },
+  "PMQPSI": {
+    "1s": "magnetizara",
+    "2s": "magnetizaras",
+    "3s": "magnetizara",
+    "1p": "magnetizáramos",
+    "2p": "magnetizáreis",
+    "3p": "magnetizaram"
+  },
+  "FutSI": {
+    "1s": "magnetizarei",
+    "2s": "magnetizarás",
+    "3s": "magnetizará",
+    "1p": "magnetizaremos",
+    "2p": "magnetizareis",
+    "3p": "magnetizarão"
+  },
+  "CondS": {
+    "1s": "magnetizaria",
+    "2s": "magnetizarias",
+    "3s": "magnetizaria",
+    "1p": "magnetizaríamos",
+    "2p": "magnetizaríeis",
+    "3p": "magnetizariam"
+  },
+  "PresC": {
+    "1s": "magnetize",
+    "2s": "magnetizes",
+    "3s": "magnetize",
+    "1p": "magnetizemos",
+    "2p": "magnetizeis",
+    "3p": "magnetizem"
+  },
+  "PImpC": {
+    "1s": "magnetizasse",
+    "2s": "magnetizasses",
+    "3s": "magnetizasse",
+    "1p": "magnetizássemos",
+    "2p": "magnetizásseis",
+    "3p": "magnetizassem"
+  },
+  "FutSC": {
+    "1s": "magnetizar",
+    "2s": "magnetizares",
+    "3s": "magnetizar",
+    "1p": "magnetizarmos",
+    "2p": "magnetizardes",
+    "3p": "magnetizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "magnetiza",
+    "3s": "magnetize",
+    "1p": "magnetizemos",
+    "2p": "magnetizai",
+    "3p": "magnetizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não magnetizes",
+    "3s": "não magnetize",
+    "1p": "não magnetizemos",
+    "2p": "não magnetizeis",
+    "3p": "não magnetizem"
+  },
+  "Part-ter": {
+    "": "magnetizado"
+  },
+  "Part-ser": {
+    "ms": "magnetizado",
+    "fs": "magnetizada",
+    "mp": "magnetizados",
+    "fp": "magnetizadas"
+  }
+}

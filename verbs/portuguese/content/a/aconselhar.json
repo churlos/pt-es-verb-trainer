@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aconselhar"
+  },
+  "InfP": {
+    "1s": "aconselhar",
+    "2s": "aconselhares",
+    "3s": "aconselhar",
+    "1p": "aconselharmos",
+    "2p": "aconselhardes",
+    "3p": "aconselharem"
+  },
+  "Ger": {
+    "": "aconselhando"
+  },
+  "PresI": {
+    "1s": "aconselho",
+    "2s": "aconselhas",
+    "3s": "aconselha",
+    "1p": "aconselhamos",
+    "2p": "aconselhais",
+    "3p": "aconselham"
+  },
+  "PImpI": {
+    "1s": "aconselhava",
+    "2s": "aconselhavas",
+    "3s": "aconselhava",
+    "1p": "aconselhávamos",
+    "2p": "aconselháveis",
+    "3p": "aconselhavam"
+  },
+  "PPSI": {
+    "1s": "aconselhei",
+    "2s": "aconselhaste",
+    "3s": "aconselhou",
+    "1p": "aconselhámos",
+    "2p": "aconselhastes",
+    "3p": "aconselharam"
+  },
+  "PMQPSI": {
+    "1s": "aconselhara",
+    "2s": "aconselharas",
+    "3s": "aconselhara",
+    "1p": "aconselháramos",
+    "2p": "aconselháreis",
+    "3p": "aconselharam"
+  },
+  "FutSI": {
+    "1s": "aconselharei",
+    "2s": "aconselharás",
+    "3s": "aconselhará",
+    "1p": "aconselharemos",
+    "2p": "aconselhareis",
+    "3p": "aconselharão"
+  },
+  "CondS": {
+    "1s": "aconselharia",
+    "2s": "aconselharias",
+    "3s": "aconselharia",
+    "1p": "aconselharíamos",
+    "2p": "aconselharíeis",
+    "3p": "aconselhariam"
+  },
+  "PresC": {
+    "1s": "aconselhe",
+    "2s": "aconselhes",
+    "3s": "aconselhe",
+    "1p": "aconselhemos",
+    "2p": "aconselheis",
+    "3p": "aconselhem"
+  },
+  "PImpC": {
+    "1s": "aconselhasse",
+    "2s": "aconselhasses",
+    "3s": "aconselhasse",
+    "1p": "aconselhássemos",
+    "2p": "aconselhásseis",
+    "3p": "aconselhassem"
+  },
+  "FutSC": {
+    "1s": "aconselhar",
+    "2s": "aconselhares",
+    "3s": "aconselhar",
+    "1p": "aconselharmos",
+    "2p": "aconselhardes",
+    "3p": "aconselharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aconselha",
+    "3s": "aconselhe",
+    "1p": "aconselhemos",
+    "2p": "aconselhai",
+    "3p": "aconselhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aconselhes",
+    "3s": "não aconselhe",
+    "1p": "não aconselhemos",
+    "2p": "não aconselheis",
+    "3p": "não aconselhem"
+  },
+  "Part-ter": {
+    "": "aconselhado"
+  },
+  "Part-ser": {
+    "ms": "aconselhado",
+    "fs": "aconselhada",
+    "mp": "aconselhados",
+    "fp": "aconselhadas"
+  }
+}

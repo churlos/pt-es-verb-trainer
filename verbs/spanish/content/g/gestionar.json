@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gestionar"
+  },
+  "Ger": {
+    "": "gestionando"
+  },
+  "PresI": {
+    "1s": "gestiono",
+    "2s": "gestionas",
+    "3s": "gestiona",
+    "1p": "gestionamos",
+    "2p": "gestionáis",
+    "3p": "gestionan"
+  },
+  "PImpI": {
+    "1s": "gestionaba",
+    "2s": "gestionabas",
+    "3s": "gestionaba",
+    "1p": "gestionábamos",
+    "2p": "gestionabais",
+    "3p": "gestionaban"
+  },
+  "PPSI": {
+    "1s": "gestioné",
+    "2s": "gestionaste",
+    "3s": "gestionó",
+    "1p": "gestionamos",
+    "2p": "gestionasteis",
+    "3p": "gestionaron"
+  },
+  "FutSI": {
+    "1s": "gestionaré",
+    "2s": "gestionarás",
+    "3s": "gestionará",
+    "1p": "gestionaremos",
+    "2p": "gestionaréis",
+    "3p": "gestionarán"
+  },
+  "CondS": {
+    "1s": "gestionaría",
+    "2s": "gestionarías",
+    "3s": "gestionaría",
+    "1p": "gestionaríamos",
+    "2p": "gestionaríais",
+    "3p": "gestionarían"
+  },
+  "PresC": {
+    "1s": "gestione",
+    "2s": "gestiones",
+    "3s": "gestione",
+    "1p": "gestionemos",
+    "2p": "gestionéis",
+    "3p": "gestionen"
+  },
+  "PMQPSI": {
+    "1s": "gestionara",
+    "2s": "gestionaras",
+    "3s": "gestionara",
+    "1p": "gestionáramos",
+    "2p": "gestionarais",
+    "3p": "gestionaran"
+  },
+  "PImpC": {
+    "1s": "gestionase",
+    "2s": "gestionases",
+    "3s": "gestionase",
+    "1p": "gestionásemos",
+    "2p": "gestionaseis",
+    "3p": "gestionasen"
+  },
+  "FutSC": {
+    "1s": "gestionare",
+    "2s": "gestionares",
+    "3s": "gestionare",
+    "1p": "gestionáremos",
+    "2p": "gestionareis",
+    "3p": "gestionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gestiona",
+    "3s": "gestione",
+    "1p": "gestionemos",
+    "2p": "gestionad",
+    "3p": "gestionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gestiones",
+    "3s": "no gestione",
+    "1p": "no gestionemos",
+    "2p": "no gestionéis",
+    "3p": "no gestionen"
+  },
+  "Part-ter": {
+    "": "gestionado"
+  },
+  "Part-ser": {
+    "ms": "gestionado",
+    "fs": "gestionada",
+    "mp": "gestionados",
+    "fp": "gestionadas"
+  }
+}

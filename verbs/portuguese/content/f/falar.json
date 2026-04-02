@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "falar"
+  },
+  "InfP": {
+    "1s": "falar",
+    "2s": "falares",
+    "3s": "falar",
+    "1p": "falarmos",
+    "2p": "falardes",
+    "3p": "falarem"
+  },
+  "Ger": {
+    "": "falando"
+  },
+  "PresI": {
+    "1s": "falo",
+    "2s": "falas",
+    "3s": "fala",
+    "1p": "falamos",
+    "2p": "falais",
+    "3p": "falam"
+  },
+  "PImpI": {
+    "1s": "falava",
+    "2s": "falavas",
+    "3s": "falava",
+    "1p": "falávamos",
+    "2p": "faláveis",
+    "3p": "falavam"
+  },
+  "PPSI": {
+    "1s": "falei",
+    "2s": "falaste",
+    "3s": "falou",
+    "1p": "falámos",
+    "2p": "falastes",
+    "3p": "falaram"
+  },
+  "PMQPSI": {
+    "1s": "falara",
+    "2s": "falaras",
+    "3s": "falara",
+    "1p": "faláramos",
+    "2p": "faláreis",
+    "3p": "falaram"
+  },
+  "FutSI": {
+    "1s": "falarei",
+    "2s": "falarás",
+    "3s": "falará",
+    "1p": "falaremos",
+    "2p": "falareis",
+    "3p": "falarão"
+  },
+  "CondS": {
+    "1s": "falaria",
+    "2s": "falarias",
+    "3s": "falaria",
+    "1p": "falaríamos",
+    "2p": "falaríeis",
+    "3p": "falariam"
+  },
+  "PresC": {
+    "1s": "fale",
+    "2s": "fales",
+    "3s": "fale",
+    "1p": "falemos",
+    "2p": "faleis",
+    "3p": "falem"
+  },
+  "PImpC": {
+    "1s": "falasse",
+    "2s": "falasses",
+    "3s": "falasse",
+    "1p": "falássemos",
+    "2p": "falásseis",
+    "3p": "falassem"
+  },
+  "FutSC": {
+    "1s": "falar",
+    "2s": "falares",
+    "3s": "falar",
+    "1p": "falarmos",
+    "2p": "falardes",
+    "3p": "falarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fala",
+    "3s": "fale",
+    "1p": "falemos",
+    "2p": "falai",
+    "3p": "falem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fales",
+    "3s": "não fale",
+    "1p": "não falemos",
+    "2p": "não faleis",
+    "3p": "não falem"
+  },
+  "Part-ter": {
+    "": "falado"
+  },
+  "Part-ser": {
+    "ms": "falado",
+    "fs": "falada",
+    "mp": "falados",
+    "fp": "faladas"
+  }
+}

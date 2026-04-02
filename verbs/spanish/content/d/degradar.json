@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "degradar"
+  },
+  "Ger": {
+    "": "degradando"
+  },
+  "PresI": {
+    "1s": "degrado",
+    "2s": "degradas",
+    "3s": "degrada",
+    "1p": "degradamos",
+    "2p": "degradáis",
+    "3p": "degradan"
+  },
+  "PImpI": {
+    "1s": "degradaba",
+    "2s": "degradabas",
+    "3s": "degradaba",
+    "1p": "degradábamos",
+    "2p": "degradabais",
+    "3p": "degradaban"
+  },
+  "PPSI": {
+    "1s": "degradé",
+    "2s": "degradaste",
+    "3s": "degradó",
+    "1p": "degradamos",
+    "2p": "degradasteis",
+    "3p": "degradaron"
+  },
+  "FutSI": {
+    "1s": "degradaré",
+    "2s": "degradarás",
+    "3s": "degradará",
+    "1p": "degradaremos",
+    "2p": "degradaréis",
+    "3p": "degradarán"
+  },
+  "CondS": {
+    "1s": "degradaría",
+    "2s": "degradarías",
+    "3s": "degradaría",
+    "1p": "degradaríamos",
+    "2p": "degradaríais",
+    "3p": "degradarían"
+  },
+  "PresC": {
+    "1s": "degrade",
+    "2s": "degrades",
+    "3s": "degrade",
+    "1p": "degrademos",
+    "2p": "degradéis",
+    "3p": "degraden"
+  },
+  "PMQPSI": {
+    "1s": "degradara",
+    "2s": "degradaras",
+    "3s": "degradara",
+    "1p": "degradáramos",
+    "2p": "degradarais",
+    "3p": "degradaran"
+  },
+  "PImpC": {
+    "1s": "degradase",
+    "2s": "degradases",
+    "3s": "degradase",
+    "1p": "degradásemos",
+    "2p": "degradaseis",
+    "3p": "degradasen"
+  },
+  "FutSC": {
+    "1s": "degradare",
+    "2s": "degradares",
+    "3s": "degradare",
+    "1p": "degradáremos",
+    "2p": "degradareis",
+    "3p": "degradaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "degrada",
+    "3s": "degrade",
+    "1p": "degrademos",
+    "2p": "degradad",
+    "3p": "degraden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no degrades",
+    "3s": "no degrade",
+    "1p": "no degrademos",
+    "2p": "no degradéis",
+    "3p": "no degraden"
+  },
+  "Part-ter": {
+    "": "degradado"
+  },
+  "Part-ser": {
+    "ms": "degradado",
+    "fs": "degradada",
+    "mp": "degradados",
+    "fp": "degradadas"
+  }
+}

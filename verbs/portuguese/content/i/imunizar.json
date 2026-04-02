@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "imunizar"
+  },
+  "InfP": {
+    "1s": "imunizar",
+    "2s": "imunizares",
+    "3s": "imunizar",
+    "1p": "imunizarmos",
+    "2p": "imunizardes",
+    "3p": "imunizarem"
+  },
+  "Ger": {
+    "": "imunizando"
+  },
+  "PresI": {
+    "1s": "imunizo",
+    "2s": "imunizas",
+    "3s": "imuniza",
+    "1p": "imunizamos",
+    "2p": "imunizais",
+    "3p": "imunizam"
+  },
+  "PImpI": {
+    "1s": "imunizava",
+    "2s": "imunizavas",
+    "3s": "imunizava",
+    "1p": "imunizávamos",
+    "2p": "imunizáveis",
+    "3p": "imunizavam"
+  },
+  "PPSI": {
+    "1s": "imunizei",
+    "2s": "imunizaste",
+    "3s": "imunizou",
+    "1p": "imunizámos",
+    "2p": "imunizastes",
+    "3p": "imunizaram"
+  },
+  "PMQPSI": {
+    "1s": "imunizara",
+    "2s": "imunizaras",
+    "3s": "imunizara",
+    "1p": "imunizáramos",
+    "2p": "imunizáreis",
+    "3p": "imunizaram"
+  },
+  "FutSI": {
+    "1s": "imunizarei",
+    "2s": "imunizarás",
+    "3s": "imunizará",
+    "1p": "imunizaremos",
+    "2p": "imunizareis",
+    "3p": "imunizarão"
+  },
+  "CondS": {
+    "1s": "imunizaria",
+    "2s": "imunizarias",
+    "3s": "imunizaria",
+    "1p": "imunizaríamos",
+    "2p": "imunizaríeis",
+    "3p": "imunizariam"
+  },
+  "PresC": {
+    "1s": "imunize",
+    "2s": "imunizes",
+    "3s": "imunize",
+    "1p": "imunizemos",
+    "2p": "imunizeis",
+    "3p": "imunizem"
+  },
+  "PImpC": {
+    "1s": "imunizasse",
+    "2s": "imunizasses",
+    "3s": "imunizasse",
+    "1p": "imunizássemos",
+    "2p": "imunizásseis",
+    "3p": "imunizassem"
+  },
+  "FutSC": {
+    "1s": "imunizar",
+    "2s": "imunizares",
+    "3s": "imunizar",
+    "1p": "imunizarmos",
+    "2p": "imunizardes",
+    "3p": "imunizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imuniza",
+    "3s": "imunize",
+    "1p": "imunizemos",
+    "2p": "imunizai",
+    "3p": "imunizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não imunizes",
+    "3s": "não imunize",
+    "1p": "não imunizemos",
+    "2p": "não imunizeis",
+    "3p": "não imunizem"
+  },
+  "Part-ter": {
+    "": "imunizado"
+  },
+  "Part-ser": {
+    "ms": "imunizado",
+    "fs": "imunizada",
+    "mp": "imunizados",
+    "fp": "imunizadas"
+  }
+}

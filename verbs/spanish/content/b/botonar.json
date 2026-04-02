@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "botonar"
+  },
+  "Ger": {
+    "": "botonando"
+  },
+  "PresI": {
+    "1s": "botono",
+    "2s": "botonas",
+    "3s": "botona",
+    "1p": "botonamos",
+    "2p": "botonáis",
+    "3p": "botonan"
+  },
+  "PImpI": {
+    "1s": "botonaba",
+    "2s": "botonabas",
+    "3s": "botonaba",
+    "1p": "botonábamos",
+    "2p": "botonabais",
+    "3p": "botonaban"
+  },
+  "PPSI": {
+    "1s": "botoné",
+    "2s": "botonaste",
+    "3s": "botonó",
+    "1p": "botonamos",
+    "2p": "botonasteis",
+    "3p": "botonaron"
+  },
+  "FutSI": {
+    "1s": "botonaré",
+    "2s": "botonarás",
+    "3s": "botonará",
+    "1p": "botonaremos",
+    "2p": "botonaréis",
+    "3p": "botonarán"
+  },
+  "CondS": {
+    "1s": "botonaría",
+    "2s": "botonarías",
+    "3s": "botonaría",
+    "1p": "botonaríamos",
+    "2p": "botonaríais",
+    "3p": "botonarían"
+  },
+  "PresC": {
+    "1s": "botone",
+    "2s": "botones",
+    "3s": "botone",
+    "1p": "botonemos",
+    "2p": "botonéis",
+    "3p": "botonen"
+  },
+  "PMQPSI": {
+    "1s": "botonara",
+    "2s": "botonaras",
+    "3s": "botonara",
+    "1p": "botonáramos",
+    "2p": "botonarais",
+    "3p": "botonaran"
+  },
+  "PImpC": {
+    "1s": "botonase",
+    "2s": "botonases",
+    "3s": "botonase",
+    "1p": "botonásemos",
+    "2p": "botonaseis",
+    "3p": "botonasen"
+  },
+  "FutSC": {
+    "1s": "botonare",
+    "2s": "botonares",
+    "3s": "botonare",
+    "1p": "botonáremos",
+    "2p": "botonareis",
+    "3p": "botonaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "botona",
+    "3s": "botone",
+    "1p": "botonemos",
+    "2p": "botonad",
+    "3p": "botonen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no botones",
+    "3s": "no botone",
+    "1p": "no botonemos",
+    "2p": "no botonéis",
+    "3p": "no botonen"
+  },
+  "Part-ter": {
+    "": "botonado"
+  },
+  "Part-ser": {
+    "ms": "botonado",
+    "fs": "botonada",
+    "mp": "botonados",
+    "fp": "botonadas"
+  }
+}

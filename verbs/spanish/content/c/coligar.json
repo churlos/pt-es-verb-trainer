@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "coligar"
+  },
+  "Ger": {
+    "": "coligando"
+  },
+  "PresI": {
+    "1s": "coligo",
+    "2s": "coligas",
+    "3s": "coliga",
+    "1p": "coligamos",
+    "2p": "coligáis",
+    "3p": "coligan"
+  },
+  "PImpI": {
+    "1s": "coligaba",
+    "2s": "coligabas",
+    "3s": "coligaba",
+    "1p": "coligábamos",
+    "2p": "coligabais",
+    "3p": "coligaban"
+  },
+  "PPSI": {
+    "1s": "coligué",
+    "2s": "coligaste",
+    "3s": "coligó",
+    "1p": "coligamos",
+    "2p": "coligasteis",
+    "3p": "coligaron"
+  },
+  "FutSI": {
+    "1s": "coligaré",
+    "2s": "coligarás",
+    "3s": "coligará",
+    "1p": "coligaremos",
+    "2p": "coligaréis",
+    "3p": "coligarán"
+  },
+  "CondS": {
+    "1s": "coligaría",
+    "2s": "coligarías",
+    "3s": "coligaría",
+    "1p": "coligaríamos",
+    "2p": "coligaríais",
+    "3p": "coligarían"
+  },
+  "PresC": {
+    "1s": "coligue",
+    "2s": "coligues",
+    "3s": "coligue",
+    "1p": "coliguemos",
+    "2p": "coliguéis",
+    "3p": "coliguen"
+  },
+  "PMQPSI": {
+    "1s": "coligara",
+    "2s": "coligaras",
+    "3s": "coligara",
+    "1p": "coligáramos",
+    "2p": "coligarais",
+    "3p": "coligaran"
+  },
+  "PImpC": {
+    "1s": "coligase",
+    "2s": "coligases",
+    "3s": "coligase",
+    "1p": "coligásemos",
+    "2p": "coligaseis",
+    "3p": "coligasen"
+  },
+  "FutSC": {
+    "1s": "coligare",
+    "2s": "coligares",
+    "3s": "coligare",
+    "1p": "coligáremos",
+    "2p": "coligareis",
+    "3p": "coligaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coliga",
+    "3s": "coligue",
+    "1p": "coliguemos",
+    "2p": "coligad",
+    "3p": "coliguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no coligues",
+    "3s": "no coligue",
+    "1p": "no coliguemos",
+    "2p": "no coliguéis",
+    "3p": "no coliguen"
+  },
+  "Part-ter": {
+    "": "coligado"
+  },
+  "Part-ser": {
+    "ms": "coligado",
+    "fs": "coligada",
+    "mp": "coligados",
+    "fp": "coligadas"
+  }
+}

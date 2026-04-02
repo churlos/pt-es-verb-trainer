@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transportar"
+  },
+  "Ger": {
+    "": "transportando"
+  },
+  "PresI": {
+    "1s": "transporto",
+    "2s": "transportas",
+    "3s": "transporta",
+    "1p": "transportamos",
+    "2p": "transportáis",
+    "3p": "transportan"
+  },
+  "PImpI": {
+    "1s": "transportaba",
+    "2s": "transportabas",
+    "3s": "transportaba",
+    "1p": "transportábamos",
+    "2p": "transportabais",
+    "3p": "transportaban"
+  },
+  "PPSI": {
+    "1s": "transporté",
+    "2s": "transportaste",
+    "3s": "transportó",
+    "1p": "transportamos",
+    "2p": "transportasteis",
+    "3p": "transportaron"
+  },
+  "FutSI": {
+    "1s": "transportaré",
+    "2s": "transportarás",
+    "3s": "transportará",
+    "1p": "transportaremos",
+    "2p": "transportaréis",
+    "3p": "transportarán"
+  },
+  "CondS": {
+    "1s": "transportaría",
+    "2s": "transportarías",
+    "3s": "transportaría",
+    "1p": "transportaríamos",
+    "2p": "transportaríais",
+    "3p": "transportarían"
+  },
+  "PresC": {
+    "1s": "transporte",
+    "2s": "transportes",
+    "3s": "transporte",
+    "1p": "transportemos",
+    "2p": "transportéis",
+    "3p": "transporten"
+  },
+  "PMQPSI": {
+    "1s": "transportara",
+    "2s": "transportaras",
+    "3s": "transportara",
+    "1p": "transportáramos",
+    "2p": "transportarais",
+    "3p": "transportaran"
+  },
+  "PImpC": {
+    "1s": "transportase",
+    "2s": "transportases",
+    "3s": "transportase",
+    "1p": "transportásemos",
+    "2p": "transportaseis",
+    "3p": "transportasen"
+  },
+  "FutSC": {
+    "1s": "transportare",
+    "2s": "transportares",
+    "3s": "transportare",
+    "1p": "transportáremos",
+    "2p": "transportareis",
+    "3p": "transportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transporta",
+    "3s": "transporte",
+    "1p": "transportemos",
+    "2p": "transportad",
+    "3p": "transporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transportes",
+    "3s": "no transporte",
+    "1p": "no transportemos",
+    "2p": "no transportéis",
+    "3p": "no transporten"
+  },
+  "Part-ter": {
+    "": "transportado"
+  },
+  "Part-ser": {
+    "ms": "transportado",
+    "fs": "transportada",
+    "mp": "transportados",
+    "fp": "transportadas"
+  }
+}

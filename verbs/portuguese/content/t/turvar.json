@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "turvar"
+  },
+  "InfP": {
+    "1s": "turvar",
+    "2s": "turvares",
+    "3s": "turvar",
+    "1p": "turvarmos",
+    "2p": "turvardes",
+    "3p": "turvarem"
+  },
+  "Ger": {
+    "": "turvando"
+  },
+  "PresI": {
+    "1s": "turvo",
+    "2s": "turvas",
+    "3s": "turva",
+    "1p": "turvamos",
+    "2p": "turvais",
+    "3p": "turvam"
+  },
+  "PImpI": {
+    "1s": "turvava",
+    "2s": "turvavas",
+    "3s": "turvava",
+    "1p": "turvávamos",
+    "2p": "turváveis",
+    "3p": "turvavam"
+  },
+  "PPSI": {
+    "1s": "turvei",
+    "2s": "turvaste",
+    "3s": "turvou",
+    "1p": "turvámos",
+    "2p": "turvastes",
+    "3p": "turvaram"
+  },
+  "PMQPSI": {
+    "1s": "turvara",
+    "2s": "turvaras",
+    "3s": "turvara",
+    "1p": "turváramos",
+    "2p": "turváreis",
+    "3p": "turvaram"
+  },
+  "FutSI": {
+    "1s": "turvarei",
+    "2s": "turvarás",
+    "3s": "turvará",
+    "1p": "turvaremos",
+    "2p": "turvareis",
+    "3p": "turvarão"
+  },
+  "CondS": {
+    "1s": "turvaria",
+    "2s": "turvarias",
+    "3s": "turvaria",
+    "1p": "turvaríamos",
+    "2p": "turvaríeis",
+    "3p": "turvariam"
+  },
+  "PresC": {
+    "1s": "turve",
+    "2s": "turves",
+    "3s": "turve",
+    "1p": "turvemos",
+    "2p": "turveis",
+    "3p": "turvem"
+  },
+  "PImpC": {
+    "1s": "turvasse",
+    "2s": "turvasses",
+    "3s": "turvasse",
+    "1p": "turvássemos",
+    "2p": "turvásseis",
+    "3p": "turvassem"
+  },
+  "FutSC": {
+    "1s": "turvar",
+    "2s": "turvares",
+    "3s": "turvar",
+    "1p": "turvarmos",
+    "2p": "turvardes",
+    "3p": "turvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "turva",
+    "3s": "turve",
+    "1p": "turvemos",
+    "2p": "turvai",
+    "3p": "turvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não turves",
+    "3s": "não turve",
+    "1p": "não turvemos",
+    "2p": "não turveis",
+    "3p": "não turvem"
+  },
+  "Part-ter": {
+    "": "turvado"
+  },
+  "Part-ser": {
+    "ms": "turvado",
+    "fs": "turvada",
+    "mp": "turvados",
+    "fp": "turvadas"
+  }
+}

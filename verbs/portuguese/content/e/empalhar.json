@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "empalhar"
+  },
+  "InfP": {
+    "1s": "empalhar",
+    "2s": "empalhares",
+    "3s": "empalhar",
+    "1p": "empalharmos",
+    "2p": "empalhardes",
+    "3p": "empalharem"
+  },
+  "Ger": {
+    "": "empalhando"
+  },
+  "PresI": {
+    "1s": "empalho",
+    "2s": "empalhas",
+    "3s": "empalha",
+    "1p": "empalhamos",
+    "2p": "empalhais",
+    "3p": "empalham"
+  },
+  "PImpI": {
+    "1s": "empalhava",
+    "2s": "empalhavas",
+    "3s": "empalhava",
+    "1p": "empalhávamos",
+    "2p": "empalháveis",
+    "3p": "empalhavam"
+  },
+  "PPSI": {
+    "1s": "empalhei",
+    "2s": "empalhaste",
+    "3s": "empalhou",
+    "1p": "empalhámos",
+    "2p": "empalhastes",
+    "3p": "empalharam"
+  },
+  "PMQPSI": {
+    "1s": "empalhara",
+    "2s": "empalharas",
+    "3s": "empalhara",
+    "1p": "empalháramos",
+    "2p": "empalháreis",
+    "3p": "empalharam"
+  },
+  "FutSI": {
+    "1s": "empalharei",
+    "2s": "empalharás",
+    "3s": "empalhará",
+    "1p": "empalharemos",
+    "2p": "empalhareis",
+    "3p": "empalharão"
+  },
+  "CondS": {
+    "1s": "empalharia",
+    "2s": "empalharias",
+    "3s": "empalharia",
+    "1p": "empalharíamos",
+    "2p": "empalharíeis",
+    "3p": "empalhariam"
+  },
+  "PresC": {
+    "1s": "empalhe",
+    "2s": "empalhes",
+    "3s": "empalhe",
+    "1p": "empalhemos",
+    "2p": "empalheis",
+    "3p": "empalhem"
+  },
+  "PImpC": {
+    "1s": "empalhasse",
+    "2s": "empalhasses",
+    "3s": "empalhasse",
+    "1p": "empalhássemos",
+    "2p": "empalhásseis",
+    "3p": "empalhassem"
+  },
+  "FutSC": {
+    "1s": "empalhar",
+    "2s": "empalhares",
+    "3s": "empalhar",
+    "1p": "empalharmos",
+    "2p": "empalhardes",
+    "3p": "empalharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empalha",
+    "3s": "empalhe",
+    "1p": "empalhemos",
+    "2p": "empalhai",
+    "3p": "empalhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não empalhes",
+    "3s": "não empalhe",
+    "1p": "não empalhemos",
+    "2p": "não empalheis",
+    "3p": "não empalhem"
+  },
+  "Part-ter": {
+    "": "empalhado"
+  },
+  "Part-ser": {
+    "ms": "empalhado",
+    "fs": "empalhada",
+    "mp": "empalhados",
+    "fp": "empalhadas"
+  }
+}

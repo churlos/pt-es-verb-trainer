@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "banhar"
+  },
+  "InfP": {
+    "1s": "banhar",
+    "2s": "banhares",
+    "3s": "banhar",
+    "1p": "banharmos",
+    "2p": "banhardes",
+    "3p": "banharem"
+  },
+  "Ger": {
+    "": "banhando"
+  },
+  "PresI": {
+    "1s": "banho",
+    "2s": "banhas",
+    "3s": "banha",
+    "1p": "banhamos",
+    "2p": "banhais",
+    "3p": "banham"
+  },
+  "PImpI": {
+    "1s": "banhava",
+    "2s": "banhavas",
+    "3s": "banhava",
+    "1p": "banhávamos",
+    "2p": "banháveis",
+    "3p": "banhavam"
+  },
+  "PPSI": {
+    "1s": "banhei",
+    "2s": "banhaste",
+    "3s": "banhou",
+    "1p": "banhámos",
+    "2p": "banhastes",
+    "3p": "banharam"
+  },
+  "PMQPSI": {
+    "1s": "banhara",
+    "2s": "banharas",
+    "3s": "banhara",
+    "1p": "banháramos",
+    "2p": "banháreis",
+    "3p": "banharam"
+  },
+  "FutSI": {
+    "1s": "banharei",
+    "2s": "banharás",
+    "3s": "banhará",
+    "1p": "banharemos",
+    "2p": "banhareis",
+    "3p": "banharão"
+  },
+  "CondS": {
+    "1s": "banharia",
+    "2s": "banharias",
+    "3s": "banharia",
+    "1p": "banharíamos",
+    "2p": "banharíeis",
+    "3p": "banhariam"
+  },
+  "PresC": {
+    "1s": "banhe",
+    "2s": "banhes",
+    "3s": "banhe",
+    "1p": "banhemos",
+    "2p": "banheis",
+    "3p": "banhem"
+  },
+  "PImpC": {
+    "1s": "banhasse",
+    "2s": "banhasses",
+    "3s": "banhasse",
+    "1p": "banhássemos",
+    "2p": "banhásseis",
+    "3p": "banhassem"
+  },
+  "FutSC": {
+    "1s": "banhar",
+    "2s": "banhares",
+    "3s": "banhar",
+    "1p": "banharmos",
+    "2p": "banhardes",
+    "3p": "banharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "banha",
+    "3s": "banhe",
+    "1p": "banhemos",
+    "2p": "banhai",
+    "3p": "banhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não banhes",
+    "3s": "não banhe",
+    "1p": "não banhemos",
+    "2p": "não banheis",
+    "3p": "não banhem"
+  },
+  "Part-ter": {
+    "": "banhado"
+  },
+  "Part-ser": {
+    "ms": "banhado",
+    "fs": "banhada",
+    "mp": "banhados",
+    "fp": "banhadas"
+  }
+}

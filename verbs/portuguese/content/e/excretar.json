@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "excretar"
+  },
+  "InfP": {
+    "1s": "excretar",
+    "2s": "excretares",
+    "3s": "excretar",
+    "1p": "excretarmos",
+    "2p": "excretardes",
+    "3p": "excretarem"
+  },
+  "Ger": {
+    "": "excretando"
+  },
+  "PresI": {
+    "1s": "excreto",
+    "2s": "excretas",
+    "3s": "excreta",
+    "1p": "excretamos",
+    "2p": "excretais",
+    "3p": "excretam"
+  },
+  "PImpI": {
+    "1s": "excretava",
+    "2s": "excretavas",
+    "3s": "excretava",
+    "1p": "excretávamos",
+    "2p": "excretáveis",
+    "3p": "excretavam"
+  },
+  "PPSI": {
+    "1s": "excretei",
+    "2s": "excretaste",
+    "3s": "excretou",
+    "1p": "excretámos",
+    "2p": "excretastes",
+    "3p": "excretaram"
+  },
+  "PMQPSI": {
+    "1s": "excretara",
+    "2s": "excretaras",
+    "3s": "excretara",
+    "1p": "excretáramos",
+    "2p": "excretáreis",
+    "3p": "excretaram"
+  },
+  "FutSI": {
+    "1s": "excretarei",
+    "2s": "excretarás",
+    "3s": "excretará",
+    "1p": "excretaremos",
+    "2p": "excretareis",
+    "3p": "excretarão"
+  },
+  "CondS": {
+    "1s": "excretaria",
+    "2s": "excretarias",
+    "3s": "excretaria",
+    "1p": "excretaríamos",
+    "2p": "excretaríeis",
+    "3p": "excretariam"
+  },
+  "PresC": {
+    "1s": "excrete",
+    "2s": "excretes",
+    "3s": "excrete",
+    "1p": "excretemos",
+    "2p": "excreteis",
+    "3p": "excretem"
+  },
+  "PImpC": {
+    "1s": "excretasse",
+    "2s": "excretasses",
+    "3s": "excretasse",
+    "1p": "excretássemos",
+    "2p": "excretásseis",
+    "3p": "excretassem"
+  },
+  "FutSC": {
+    "1s": "excretar",
+    "2s": "excretares",
+    "3s": "excretar",
+    "1p": "excretarmos",
+    "2p": "excretardes",
+    "3p": "excretarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "excreta",
+    "3s": "excrete",
+    "1p": "excretemos",
+    "2p": "excretai",
+    "3p": "excretem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não excretes",
+    "3s": "não excrete",
+    "1p": "não excretemos",
+    "2p": "não excreteis",
+    "3p": "não excretem"
+  },
+  "Part-ter": {
+    "": "excretado"
+  },
+  "Part-ser": {
+    "ms": "excretado",
+    "fs": "excretada",
+    "mp": "excretados",
+    "fp": "excretadas"
+  }
+}

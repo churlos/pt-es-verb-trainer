@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "telar"
+  },
+  "InfP": {
+    "1s": "telar",
+    "2s": "telares",
+    "3s": "telar",
+    "1p": "telarmos",
+    "2p": "telardes",
+    "3p": "telarem"
+  },
+  "Ger": {
+    "": "telando"
+  },
+  "PresI": {
+    "1s": "telo",
+    "2s": "telas",
+    "3s": "tela",
+    "1p": "telamos",
+    "2p": "telais",
+    "3p": "telam"
+  },
+  "PImpI": {
+    "1s": "telava",
+    "2s": "telavas",
+    "3s": "telava",
+    "1p": "telávamos",
+    "2p": "teláveis",
+    "3p": "telavam"
+  },
+  "PPSI": {
+    "1s": "telei",
+    "2s": "telaste",
+    "3s": "telou",
+    "1p": "telámos",
+    "2p": "telastes",
+    "3p": "telaram"
+  },
+  "PMQPSI": {
+    "1s": "telara",
+    "2s": "telaras",
+    "3s": "telara",
+    "1p": "teláramos",
+    "2p": "teláreis",
+    "3p": "telaram"
+  },
+  "FutSI": {
+    "1s": "telarei",
+    "2s": "telarás",
+    "3s": "telará",
+    "1p": "telaremos",
+    "2p": "telareis",
+    "3p": "telarão"
+  },
+  "CondS": {
+    "1s": "telaria",
+    "2s": "telarias",
+    "3s": "telaria",
+    "1p": "telaríamos",
+    "2p": "telaríeis",
+    "3p": "telariam"
+  },
+  "PresC": {
+    "1s": "tele",
+    "2s": "teles",
+    "3s": "tele",
+    "1p": "telemos",
+    "2p": "teleis",
+    "3p": "telem"
+  },
+  "PImpC": {
+    "1s": "telasse",
+    "2s": "telasses",
+    "3s": "telasse",
+    "1p": "telássemos",
+    "2p": "telásseis",
+    "3p": "telassem"
+  },
+  "FutSC": {
+    "1s": "telar",
+    "2s": "telares",
+    "3s": "telar",
+    "1p": "telarmos",
+    "2p": "telardes",
+    "3p": "telarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tela",
+    "3s": "tele",
+    "1p": "telemos",
+    "2p": "telai",
+    "3p": "telem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não teles",
+    "3s": "não tele",
+    "1p": "não telemos",
+    "2p": "não teleis",
+    "3p": "não telem"
+  },
+  "Part-ter": {
+    "": "telado"
+  },
+  "Part-ser": {
+    "ms": "telado",
+    "fs": "telada",
+    "mp": "telados",
+    "fp": "teladas"
+  }
+}

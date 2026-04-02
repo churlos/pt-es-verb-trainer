@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aparecer"
+  },
+  "Ger": {
+    "": "apareciendo"
+  },
+  "PresI": {
+    "1s": "aparezco",
+    "2s": "apareces",
+    "3s": "aparece",
+    "1p": "aparecemos",
+    "2p": "aparecéis",
+    "3p": "aparecen"
+  },
+  "PImpI": {
+    "1s": "aparecía",
+    "2s": "aparecías",
+    "3s": "aparecía",
+    "1p": "aparecíamos",
+    "2p": "aparecíais",
+    "3p": "aparecían"
+  },
+  "PPSI": {
+    "1s": "aparecí",
+    "2s": "apareciste",
+    "3s": "apareció",
+    "1p": "aparecimos",
+    "2p": "aparecisteis",
+    "3p": "aparecieron"
+  },
+  "FutSI": {
+    "1s": "apareceré",
+    "2s": "aparecerás",
+    "3s": "aparecerá",
+    "1p": "apareceremos",
+    "2p": "apareceréis",
+    "3p": "aparecerán"
+  },
+  "CondS": {
+    "1s": "aparecería",
+    "2s": "aparecerías",
+    "3s": "aparecería",
+    "1p": "apareceríamos",
+    "2p": "apareceríais",
+    "3p": "aparecerían"
+  },
+  "PresC": {
+    "1s": "aparezca",
+    "2s": "aparezcas",
+    "3s": "aparezca",
+    "1p": "aparezcamos",
+    "2p": "aparezcáis",
+    "3p": "aparezcan"
+  },
+  "PMQPSI": {
+    "1s": "apareciera",
+    "2s": "aparecieras",
+    "3s": "apareciera",
+    "1p": "apareciéramos",
+    "2p": "aparecierais",
+    "3p": "aparecieran"
+  },
+  "PImpC": {
+    "1s": "apareciese",
+    "2s": "aparecieses",
+    "3s": "apareciese",
+    "1p": "apareciésemos",
+    "2p": "aparecieseis",
+    "3p": "apareciesen"
+  },
+  "FutSC": {
+    "1s": "apareciere",
+    "2s": "aparecieres",
+    "3s": "apareciere",
+    "1p": "apareciéremos",
+    "2p": "apareciereis",
+    "3p": "aparecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aparece",
+    "3s": "aparezca",
+    "1p": "aparezcamos",
+    "2p": "apareced",
+    "3p": "aparezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aparezcas",
+    "3s": "no aparezca",
+    "1p": "no aparezcamos",
+    "2p": "no aparezcáis",
+    "3p": "no aparezcan"
+  },
+  "Part-ter": {
+    "": "aparecido"
+  },
+  "Part-ser": {
+    "ms": "aparecido",
+    "fs": "aparecida",
+    "mp": "aparecidos",
+    "fp": "aparecidas"
+  }
+}

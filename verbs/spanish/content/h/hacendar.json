@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hacendar"
+  },
+  "Ger": {
+    "": "hacendando"
+  },
+  "PresI": {
+    "1s": "haciendo",
+    "2s": "haciendas",
+    "3s": "hacienda",
+    "1p": "hacendamos",
+    "2p": "hacendáis",
+    "3p": "haciendan"
+  },
+  "PImpI": {
+    "1s": "hacendaba",
+    "2s": "hacendabas",
+    "3s": "hacendaba",
+    "1p": "hacendábamos",
+    "2p": "hacendabais",
+    "3p": "hacendaban"
+  },
+  "PPSI": {
+    "1s": "hacendé",
+    "2s": "hacendaste",
+    "3s": "hacendó",
+    "1p": "hacendamos",
+    "2p": "hacendasteis",
+    "3p": "hacendaron"
+  },
+  "FutSI": {
+    "1s": "hacendaré",
+    "2s": "hacendarás",
+    "3s": "hacendará",
+    "1p": "hacendaremos",
+    "2p": "hacendaréis",
+    "3p": "hacendarán"
+  },
+  "CondS": {
+    "1s": "hacendaría",
+    "2s": "hacendarías",
+    "3s": "hacendaría",
+    "1p": "hacendaríamos",
+    "2p": "hacendaríais",
+    "3p": "hacendarían"
+  },
+  "PresC": {
+    "1s": "haciende",
+    "2s": "haciendes",
+    "3s": "haciende",
+    "1p": "hacendemos",
+    "2p": "hacendéis",
+    "3p": "hacienden"
+  },
+  "PMQPSI": {
+    "1s": "hacendara",
+    "2s": "hacendaras",
+    "3s": "hacendara",
+    "1p": "hacendáramos",
+    "2p": "hacendarais",
+    "3p": "hacendaran"
+  },
+  "PImpC": {
+    "1s": "hacendase",
+    "2s": "hacendases",
+    "3s": "hacendase",
+    "1p": "hacendásemos",
+    "2p": "hacendaseis",
+    "3p": "hacendasen"
+  },
+  "FutSC": {
+    "1s": "hacendare",
+    "2s": "hacendares",
+    "3s": "hacendare",
+    "1p": "hacendáremos",
+    "2p": "hacendareis",
+    "3p": "hacendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hacienda",
+    "3s": "haciende",
+    "1p": "hacendemos",
+    "2p": "hacendad",
+    "3p": "hacienden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no haciendes",
+    "3s": "no haciende",
+    "1p": "no hacendemos",
+    "2p": "no hacendéis",
+    "3p": "no hacienden"
+  },
+  "Part-ter": {
+    "": "hacendado"
+  },
+  "Part-ser": {
+    "ms": "hacendado",
+    "fs": "hacendada",
+    "mp": "hacendados",
+    "fp": "hacendadas"
+  }
+}

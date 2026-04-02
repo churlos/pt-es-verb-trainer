@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "apostar"
+  },
+  "Ger": {
+    "": "apostando"
+  },
+  "PresI": {
+    "1s": "apuesto",
+    "2s": "apuestas",
+    "3s": "apuesta",
+    "1p": "apostamos",
+    "2p": "apostáis",
+    "3p": "apuestan"
+  },
+  "PImpI": {
+    "1s": "apostaba",
+    "2s": "apostabas",
+    "3s": "apostaba",
+    "1p": "apostábamos",
+    "2p": "apostabais",
+    "3p": "apostaban"
+  },
+  "PPSI": {
+    "1s": "aposté",
+    "2s": "apostaste",
+    "3s": "apostó",
+    "1p": "apostamos",
+    "2p": "apostasteis",
+    "3p": "apostaron"
+  },
+  "FutSI": {
+    "1s": "apostaré",
+    "2s": "apostarás",
+    "3s": "apostará",
+    "1p": "apostaremos",
+    "2p": "apostaréis",
+    "3p": "apostarán"
+  },
+  "CondS": {
+    "1s": "apostaría",
+    "2s": "apostarías",
+    "3s": "apostaría",
+    "1p": "apostaríamos",
+    "2p": "apostaríais",
+    "3p": "apostarían"
+  },
+  "PresC": {
+    "1s": "apueste",
+    "2s": "apuestes",
+    "3s": "apueste",
+    "1p": "apostemos",
+    "2p": "apostéis",
+    "3p": "apuesten"
+  },
+  "PMQPSI": {
+    "1s": "apostara",
+    "2s": "apostaras",
+    "3s": "apostara",
+    "1p": "apostáramos",
+    "2p": "apostarais",
+    "3p": "apostaran"
+  },
+  "PImpC": {
+    "1s": "apostase",
+    "2s": "apostases",
+    "3s": "apostase",
+    "1p": "apostásemos",
+    "2p": "apostaseis",
+    "3p": "apostasen"
+  },
+  "FutSC": {
+    "1s": "apostare",
+    "2s": "apostares",
+    "3s": "apostare",
+    "1p": "apostáremos",
+    "2p": "apostareis",
+    "3p": "apostaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apuesta",
+    "3s": "apueste",
+    "1p": "apostemos",
+    "2p": "apostad",
+    "3p": "apuesten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apuestes",
+    "3s": "no apueste",
+    "1p": "no apostemos",
+    "2p": "no apostéis",
+    "3p": "no apuesten"
+  },
+  "Part-ter": {
+    "": "apostado"
+  },
+  "Part-ser": {
+    "ms": "apostado",
+    "fs": "apostada",
+    "mp": "apostados",
+    "fp": "apostadas"
+  }
+}

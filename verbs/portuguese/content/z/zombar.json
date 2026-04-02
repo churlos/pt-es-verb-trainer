@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "zombar"
+  },
+  "InfP": {
+    "1s": "zombar",
+    "2s": "zombares",
+    "3s": "zombar",
+    "1p": "zombarmos",
+    "2p": "zombardes",
+    "3p": "zombarem"
+  },
+  "Ger": {
+    "": "zombando"
+  },
+  "PresI": {
+    "1s": "zombo",
+    "2s": "zombas",
+    "3s": "zomba",
+    "1p": "zombamos",
+    "2p": "zombais",
+    "3p": "zombam"
+  },
+  "PImpI": {
+    "1s": "zombava",
+    "2s": "zombavas",
+    "3s": "zombava",
+    "1p": "zombávamos",
+    "2p": "zombáveis",
+    "3p": "zombavam"
+  },
+  "PPSI": {
+    "1s": "zombei",
+    "2s": "zombaste",
+    "3s": "zombou",
+    "1p": "zombámos",
+    "2p": "zombastes",
+    "3p": "zombaram"
+  },
+  "PMQPSI": {
+    "1s": "zombara",
+    "2s": "zombaras",
+    "3s": "zombara",
+    "1p": "zombáramos",
+    "2p": "zombáreis",
+    "3p": "zombaram"
+  },
+  "FutSI": {
+    "1s": "zombarei",
+    "2s": "zombarás",
+    "3s": "zombará",
+    "1p": "zombaremos",
+    "2p": "zombareis",
+    "3p": "zombarão"
+  },
+  "CondS": {
+    "1s": "zombaria",
+    "2s": "zombarias",
+    "3s": "zombaria",
+    "1p": "zombaríamos",
+    "2p": "zombaríeis",
+    "3p": "zombariam"
+  },
+  "PresC": {
+    "1s": "zombe",
+    "2s": "zombes",
+    "3s": "zombe",
+    "1p": "zombemos",
+    "2p": "zombeis",
+    "3p": "zombem"
+  },
+  "PImpC": {
+    "1s": "zombasse",
+    "2s": "zombasses",
+    "3s": "zombasse",
+    "1p": "zombássemos",
+    "2p": "zombásseis",
+    "3p": "zombassem"
+  },
+  "FutSC": {
+    "1s": "zombar",
+    "2s": "zombares",
+    "3s": "zombar",
+    "1p": "zombarmos",
+    "2p": "zombardes",
+    "3p": "zombarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zomba",
+    "3s": "zombe",
+    "1p": "zombemos",
+    "2p": "zombai",
+    "3p": "zombem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não zombes",
+    "3s": "não zombe",
+    "1p": "não zombemos",
+    "2p": "não zombeis",
+    "3p": "não zombem"
+  },
+  "Part-ter": {
+    "": "zombado"
+  },
+  "Part-ser": {
+    "ms": "zombado",
+    "fs": "zombada",
+    "mp": "zombados",
+    "fp": "zombadas"
+  }
+}

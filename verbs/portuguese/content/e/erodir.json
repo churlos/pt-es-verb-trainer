@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "erodir"
+  },
+  "InfP": {
+    "1s": "erodir",
+    "2s": "erodires",
+    "3s": "erodir",
+    "1p": "erodirmos",
+    "2p": "erodirdes",
+    "3p": "erodirem"
+  },
+  "Ger": {
+    "": "erodindo"
+  },
+  "PresI": {
+    "1s": "erodo",
+    "2s": "erodes",
+    "3s": "erode",
+    "1p": "erodimos",
+    "2p": "erodis",
+    "3p": "erodem"
+  },
+  "PImpI": {
+    "1s": "erodia",
+    "2s": "erodias",
+    "3s": "erodia",
+    "1p": "erodíamos",
+    "2p": "erodíeis",
+    "3p": "erodiam"
+  },
+  "PPSI": {
+    "1s": "erodi",
+    "2s": "erodiste",
+    "3s": "erodiu",
+    "1p": "erodimos",
+    "2p": "erodistes",
+    "3p": "erodiram"
+  },
+  "PMQPSI": {
+    "1s": "erodira",
+    "2s": "erodiras",
+    "3s": "erodira",
+    "1p": "erodíramos",
+    "2p": "erodíreis",
+    "3p": "erodiram"
+  },
+  "FutSI": {
+    "1s": "erodirei",
+    "2s": "erodirás",
+    "3s": "erodirá",
+    "1p": "erodiremos",
+    "2p": "erodireis",
+    "3p": "erodirão"
+  },
+  "CondS": {
+    "1s": "erodiria",
+    "2s": "erodirias",
+    "3s": "erodiria",
+    "1p": "erodiríamos",
+    "2p": "erodiríeis",
+    "3p": "erodiriam"
+  },
+  "PresC": {
+    "1s": "eroda",
+    "2s": "erodas",
+    "3s": "eroda",
+    "1p": "erodamos",
+    "2p": "erodais",
+    "3p": "erodam"
+  },
+  "PImpC": {
+    "1s": "erodisse",
+    "2s": "erodisses",
+    "3s": "erodisse",
+    "1p": "erodíssemos",
+    "2p": "erodísseis",
+    "3p": "erodissem"
+  },
+  "FutSC": {
+    "1s": "erodir",
+    "2s": "erodires",
+    "3s": "erodir",
+    "1p": "erodirmos",
+    "2p": "erodirdes",
+    "3p": "erodirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "erode",
+    "3s": "eroda",
+    "1p": "erodamos",
+    "2p": "erodi",
+    "3p": "erodam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não erodas",
+    "3s": "não eroda",
+    "1p": "não erodamos",
+    "2p": "não erodais",
+    "3p": "não erodam"
+  },
+  "Part-ter": {
+    "": "erodido"
+  },
+  "Part-ser": {
+    "ms": "erodido",
+    "fs": "erodida",
+    "mp": "erodidos",
+    "fp": "erodidas"
+  }
+}

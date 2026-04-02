@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "indagar"
+  },
+  "Ger": {
+    "": "indagando"
+  },
+  "PresI": {
+    "1s": "indago",
+    "2s": "indagas",
+    "3s": "indaga",
+    "1p": "indagamos",
+    "2p": "indagáis",
+    "3p": "indagan"
+  },
+  "PImpI": {
+    "1s": "indagaba",
+    "2s": "indagabas",
+    "3s": "indagaba",
+    "1p": "indagábamos",
+    "2p": "indagabais",
+    "3p": "indagaban"
+  },
+  "PPSI": {
+    "1s": "indagué",
+    "2s": "indagaste",
+    "3s": "indagó",
+    "1p": "indagamos",
+    "2p": "indagasteis",
+    "3p": "indagaron"
+  },
+  "FutSI": {
+    "1s": "indagaré",
+    "2s": "indagarás",
+    "3s": "indagará",
+    "1p": "indagaremos",
+    "2p": "indagaréis",
+    "3p": "indagarán"
+  },
+  "CondS": {
+    "1s": "indagaría",
+    "2s": "indagarías",
+    "3s": "indagaría",
+    "1p": "indagaríamos",
+    "2p": "indagaríais",
+    "3p": "indagarían"
+  },
+  "PresC": {
+    "1s": "indague",
+    "2s": "indagues",
+    "3s": "indague",
+    "1p": "indaguemos",
+    "2p": "indaguéis",
+    "3p": "indaguen"
+  },
+  "PMQPSI": {
+    "1s": "indagara",
+    "2s": "indagaras",
+    "3s": "indagara",
+    "1p": "indagáramos",
+    "2p": "indagarais",
+    "3p": "indagaran"
+  },
+  "PImpC": {
+    "1s": "indagase",
+    "2s": "indagases",
+    "3s": "indagase",
+    "1p": "indagásemos",
+    "2p": "indagaseis",
+    "3p": "indagasen"
+  },
+  "FutSC": {
+    "1s": "indagare",
+    "2s": "indagares",
+    "3s": "indagare",
+    "1p": "indagáremos",
+    "2p": "indagareis",
+    "3p": "indagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indaga",
+    "3s": "indague",
+    "1p": "indaguemos",
+    "2p": "indagad",
+    "3p": "indaguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no indagues",
+    "3s": "no indague",
+    "1p": "no indaguemos",
+    "2p": "no indaguéis",
+    "3p": "no indaguen"
+  },
+  "Part-ter": {
+    "": "indagado"
+  },
+  "Part-ser": {
+    "ms": "indagado",
+    "fs": "indagada",
+    "mp": "indagados",
+    "fp": "indagadas"
+  }
+}

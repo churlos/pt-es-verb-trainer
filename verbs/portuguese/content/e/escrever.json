@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escrever"
+  },
+  "InfP": {
+    "1s": "escrever",
+    "2s": "escreveres",
+    "3s": "escrever",
+    "1p": "escrevermos",
+    "2p": "escreverdes",
+    "3p": "escreverem"
+  },
+  "Ger": {
+    "": "escrevendo"
+  },
+  "PresI": {
+    "1s": "escrevo",
+    "2s": "escreves",
+    "3s": "escreve",
+    "1p": "escrevemos",
+    "2p": "escreveis",
+    "3p": "escrevem"
+  },
+  "PImpI": {
+    "1s": "escrevia",
+    "2s": "escrevias",
+    "3s": "escrevia",
+    "1p": "escrevíamos",
+    "2p": "escrevíeis",
+    "3p": "escreviam"
+  },
+  "PPSI": {
+    "1s": "escrevi",
+    "2s": "escreveste",
+    "3s": "escreveu",
+    "1p": "escrevemos",
+    "2p": "escrevestes",
+    "3p": "escreveram"
+  },
+  "PMQPSI": {
+    "1s": "escrevera",
+    "2s": "escreveras",
+    "3s": "escrevera",
+    "1p": "escrevêramos",
+    "2p": "escrevêreis",
+    "3p": "escreveram"
+  },
+  "FutSI": {
+    "1s": "escreverei",
+    "2s": "escreverás",
+    "3s": "escreverá",
+    "1p": "escreveremos",
+    "2p": "escrevereis",
+    "3p": "escreverão"
+  },
+  "CondS": {
+    "1s": "escreveria",
+    "2s": "escreverias",
+    "3s": "escreveria",
+    "1p": "escreveríamos",
+    "2p": "escreveríeis",
+    "3p": "escreveriam"
+  },
+  "PresC": {
+    "1s": "escreva",
+    "2s": "escrevas",
+    "3s": "escreva",
+    "1p": "escrevamos",
+    "2p": "escrevais",
+    "3p": "escrevam"
+  },
+  "PImpC": {
+    "1s": "escrevesse",
+    "2s": "escrevesses",
+    "3s": "escrevesse",
+    "1p": "escrevêssemos",
+    "2p": "escrevêsseis",
+    "3p": "escrevessem"
+  },
+  "FutSC": {
+    "1s": "escrever",
+    "2s": "escreveres",
+    "3s": "escrever",
+    "1p": "escrevermos",
+    "2p": "escreverdes",
+    "3p": "escreverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escreve",
+    "3s": "escreva",
+    "1p": "escrevamos",
+    "2p": "escrevei",
+    "3p": "escrevam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escrevas",
+    "3s": "não escreva",
+    "1p": "não escrevamos",
+    "2p": "não escrevais",
+    "3p": "não escrevam"
+  },
+  "Part-ter": {
+    "": "escrito"
+  },
+  "Part-ser": {
+    "ms": "escrito",
+    "fs": "escrita",
+    "mp": "escritos",
+    "fp": "escritas"
+  }
+}

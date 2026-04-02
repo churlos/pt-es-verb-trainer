@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "berrar"
+  },
+  "InfP": {
+    "1s": "berrar",
+    "2s": "berrares",
+    "3s": "berrar",
+    "1p": "berrarmos",
+    "2p": "berrardes",
+    "3p": "berrarem"
+  },
+  "Ger": {
+    "": "berrando"
+  },
+  "PresI": {
+    "1s": "berro",
+    "2s": "berras",
+    "3s": "berra",
+    "1p": "berramos",
+    "2p": "berrais",
+    "3p": "berram"
+  },
+  "PImpI": {
+    "1s": "berrava",
+    "2s": "berravas",
+    "3s": "berrava",
+    "1p": "berrávamos",
+    "2p": "berráveis",
+    "3p": "berravam"
+  },
+  "PPSI": {
+    "1s": "berrei",
+    "2s": "berraste",
+    "3s": "berrou",
+    "1p": "berrámos",
+    "2p": "berrastes",
+    "3p": "berraram"
+  },
+  "PMQPSI": {
+    "1s": "berrara",
+    "2s": "berraras",
+    "3s": "berrara",
+    "1p": "berráramos",
+    "2p": "berráreis",
+    "3p": "berraram"
+  },
+  "FutSI": {
+    "1s": "berrarei",
+    "2s": "berrarás",
+    "3s": "berrará",
+    "1p": "berraremos",
+    "2p": "berrareis",
+    "3p": "berrarão"
+  },
+  "CondS": {
+    "1s": "berraria",
+    "2s": "berrarias",
+    "3s": "berraria",
+    "1p": "berraríamos",
+    "2p": "berraríeis",
+    "3p": "berrariam"
+  },
+  "PresC": {
+    "1s": "berre",
+    "2s": "berres",
+    "3s": "berre",
+    "1p": "berremos",
+    "2p": "berreis",
+    "3p": "berrem"
+  },
+  "PImpC": {
+    "1s": "berrasse",
+    "2s": "berrasses",
+    "3s": "berrasse",
+    "1p": "berrássemos",
+    "2p": "berrásseis",
+    "3p": "berrassem"
+  },
+  "FutSC": {
+    "1s": "berrar",
+    "2s": "berrares",
+    "3s": "berrar",
+    "1p": "berrarmos",
+    "2p": "berrardes",
+    "3p": "berrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "berra",
+    "3s": "berre",
+    "1p": "berremos",
+    "2p": "berrai",
+    "3p": "berrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não berres",
+    "3s": "não berre",
+    "1p": "não berremos",
+    "2p": "não berreis",
+    "3p": "não berrem"
+  },
+  "Part-ter": {
+    "": "berrado"
+  },
+  "Part-ser": {
+    "ms": "berrado",
+    "fs": "berrada",
+    "mp": "berrados",
+    "fp": "berradas"
+  }
+}

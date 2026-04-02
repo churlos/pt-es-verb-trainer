@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "devolver"
+  },
+  "InfP": {
+    "1s": "devolver",
+    "2s": "devolveres",
+    "3s": "devolver",
+    "1p": "devolvermos",
+    "2p": "devolverdes",
+    "3p": "devolverem"
+  },
+  "Ger": {
+    "": "devolvendo"
+  },
+  "PresI": {
+    "1s": "devolvo",
+    "2s": "devolves",
+    "3s": "devolve",
+    "1p": "devolvemos",
+    "2p": "devolveis",
+    "3p": "devolvem"
+  },
+  "PImpI": {
+    "1s": "devolvia",
+    "2s": "devolvias",
+    "3s": "devolvia",
+    "1p": "devolvíamos",
+    "2p": "devolvíeis",
+    "3p": "devolviam"
+  },
+  "PPSI": {
+    "1s": "devolvi",
+    "2s": "devolveste",
+    "3s": "devolveu",
+    "1p": "devolvemos",
+    "2p": "devolvestes",
+    "3p": "devolveram"
+  },
+  "PMQPSI": {
+    "1s": "devolvera",
+    "2s": "devolveras",
+    "3s": "devolvera",
+    "1p": "devolvêramos",
+    "2p": "devolvêreis",
+    "3p": "devolveram"
+  },
+  "FutSI": {
+    "1s": "devolverei",
+    "2s": "devolverás",
+    "3s": "devolverá",
+    "1p": "devolveremos",
+    "2p": "devolvereis",
+    "3p": "devolverão"
+  },
+  "CondS": {
+    "1s": "devolveria",
+    "2s": "devolverias",
+    "3s": "devolveria",
+    "1p": "devolveríamos",
+    "2p": "devolveríeis",
+    "3p": "devolveriam"
+  },
+  "PresC": {
+    "1s": "devolva",
+    "2s": "devolvas",
+    "3s": "devolva",
+    "1p": "devolvamos",
+    "2p": "devolvais",
+    "3p": "devolvam"
+  },
+  "PImpC": {
+    "1s": "devolvesse",
+    "2s": "devolvesses",
+    "3s": "devolvesse",
+    "1p": "devolvêssemos",
+    "2p": "devolvêsseis",
+    "3p": "devolvessem"
+  },
+  "FutSC": {
+    "1s": "devolver",
+    "2s": "devolveres",
+    "3s": "devolver",
+    "1p": "devolvermos",
+    "2p": "devolverdes",
+    "3p": "devolverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devolve",
+    "3s": "devolva",
+    "1p": "devolvamos",
+    "2p": "devolvei",
+    "3p": "devolvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não devolvas",
+    "3s": "não devolva",
+    "1p": "não devolvamos",
+    "2p": "não devolvais",
+    "3p": "não devolvam"
+  },
+  "Part-ter": {
+    "": "devolvido"
+  },
+  "Part-ser": {
+    "ms": "devolvido",
+    "fs": "devolvida",
+    "mp": "devolvidos",
+    "fp": "devolvidas"
+  }
+}

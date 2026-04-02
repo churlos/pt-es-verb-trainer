@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estragar"
+  },
+  "Ger": {
+    "": "estragando"
+  },
+  "PresI": {
+    "1s": "estrago",
+    "2s": "estragas",
+    "3s": "estraga",
+    "1p": "estragamos",
+    "2p": "estragáis",
+    "3p": "estragan"
+  },
+  "PImpI": {
+    "1s": "estragaba",
+    "2s": "estragabas",
+    "3s": "estragaba",
+    "1p": "estragábamos",
+    "2p": "estragabais",
+    "3p": "estragaban"
+  },
+  "PPSI": {
+    "1s": "estragué",
+    "2s": "estragaste",
+    "3s": "estragó",
+    "1p": "estragamos",
+    "2p": "estragasteis",
+    "3p": "estragaron"
+  },
+  "FutSI": {
+    "1s": "estragaré",
+    "2s": "estragarás",
+    "3s": "estragará",
+    "1p": "estragaremos",
+    "2p": "estragaréis",
+    "3p": "estragarán"
+  },
+  "CondS": {
+    "1s": "estragaría",
+    "2s": "estragarías",
+    "3s": "estragaría",
+    "1p": "estragaríamos",
+    "2p": "estragaríais",
+    "3p": "estragarían"
+  },
+  "PresC": {
+    "1s": "estrague",
+    "2s": "estragues",
+    "3s": "estrague",
+    "1p": "estraguemos",
+    "2p": "estraguéis",
+    "3p": "estraguen"
+  },
+  "PMQPSI": {
+    "1s": "estragara",
+    "2s": "estragaras",
+    "3s": "estragara",
+    "1p": "estragáramos",
+    "2p": "estragarais",
+    "3p": "estragaran"
+  },
+  "PImpC": {
+    "1s": "estragase",
+    "2s": "estragases",
+    "3s": "estragase",
+    "1p": "estragásemos",
+    "2p": "estragaseis",
+    "3p": "estragasen"
+  },
+  "FutSC": {
+    "1s": "estragare",
+    "2s": "estragares",
+    "3s": "estragare",
+    "1p": "estragáremos",
+    "2p": "estragareis",
+    "3p": "estragaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estraga",
+    "3s": "estrague",
+    "1p": "estraguemos",
+    "2p": "estragad",
+    "3p": "estraguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estragues",
+    "3s": "no estrague",
+    "1p": "no estraguemos",
+    "2p": "no estraguéis",
+    "3p": "no estraguen"
+  },
+  "Part-ter": {
+    "": "estragado"
+  },
+  "Part-ser": {
+    "ms": "estragado",
+    "fs": "estragada",
+    "mp": "estragados",
+    "fp": "estragadas"
+  }
+}

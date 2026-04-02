@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "golpear"
+  },
+  "InfP": {
+    "1s": "golpear",
+    "2s": "golpeares",
+    "3s": "golpear",
+    "1p": "golpearmos",
+    "2p": "golpeardes",
+    "3p": "golpearem"
+  },
+  "Ger": {
+    "": "golpeando"
+  },
+  "PresI": {
+    "1s": "golpeio",
+    "2s": "golpeias",
+    "3s": "golpeia",
+    "1p": "golpeamos",
+    "2p": "golpeais",
+    "3p": "golpeiam"
+  },
+  "PImpI": {
+    "1s": "golpeava",
+    "2s": "golpeavas",
+    "3s": "golpeava",
+    "1p": "golpeávamos",
+    "2p": "golpeáveis",
+    "3p": "golpeavam"
+  },
+  "PPSI": {
+    "1s": "golpeei",
+    "2s": "golpeaste",
+    "3s": "golpeou",
+    "1p": "golpeámos",
+    "2p": "golpeastes",
+    "3p": "golpearam"
+  },
+  "PMQPSI": {
+    "1s": "golpeara",
+    "2s": "golpearas",
+    "3s": "golpeara",
+    "1p": "golpeáramos",
+    "2p": "golpeáreis",
+    "3p": "golpearam"
+  },
+  "FutSI": {
+    "1s": "golpearei",
+    "2s": "golpearás",
+    "3s": "golpeará",
+    "1p": "golpearemos",
+    "2p": "golpeareis",
+    "3p": "golpearão"
+  },
+  "CondS": {
+    "1s": "golpearia",
+    "2s": "golpearias",
+    "3s": "golpearia",
+    "1p": "golpearíamos",
+    "2p": "golpearíeis",
+    "3p": "golpeariam"
+  },
+  "PresC": {
+    "1s": "golpeie",
+    "2s": "golpeies",
+    "3s": "golpeie",
+    "1p": "golpeemos",
+    "2p": "golpeeis",
+    "3p": "golpeiem"
+  },
+  "PImpC": {
+    "1s": "golpeasse",
+    "2s": "golpeasses",
+    "3s": "golpeasse",
+    "1p": "golpeássemos",
+    "2p": "golpeásseis",
+    "3p": "golpeassem"
+  },
+  "FutSC": {
+    "1s": "golpear",
+    "2s": "golpeares",
+    "3s": "golpear",
+    "1p": "golpearmos",
+    "2p": "golpeardes",
+    "3p": "golpearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "golpeia",
+    "3s": "golpeie",
+    "1p": "golpeemos",
+    "2p": "golpeai",
+    "3p": "golpeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não golpeies",
+    "3s": "não golpeie",
+    "1p": "não golpeemos",
+    "2p": "não golpeeis",
+    "3p": "não golpeiem"
+  },
+  "Part-ter": {
+    "": "golpeado"
+  },
+  "Part-ser": {
+    "ms": "golpeado",
+    "fs": "golpeada",
+    "mp": "golpeados",
+    "fp": "golpeadas"
+  }
+}

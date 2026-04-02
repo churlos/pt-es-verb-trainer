@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "frenar"
+  },
+  "Ger": {
+    "": "frenando"
+  },
+  "PresI": {
+    "1s": "freno",
+    "2s": "frenas",
+    "3s": "frena",
+    "1p": "frenamos",
+    "2p": "frenáis",
+    "3p": "frenan"
+  },
+  "PImpI": {
+    "1s": "frenaba",
+    "2s": "frenabas",
+    "3s": "frenaba",
+    "1p": "frenábamos",
+    "2p": "frenabais",
+    "3p": "frenaban"
+  },
+  "PPSI": {
+    "1s": "frené",
+    "2s": "frenaste",
+    "3s": "frenó",
+    "1p": "frenamos",
+    "2p": "frenasteis",
+    "3p": "frenaron"
+  },
+  "FutSI": {
+    "1s": "frenaré",
+    "2s": "frenarás",
+    "3s": "frenará",
+    "1p": "frenaremos",
+    "2p": "frenaréis",
+    "3p": "frenarán"
+  },
+  "CondS": {
+    "1s": "frenaría",
+    "2s": "frenarías",
+    "3s": "frenaría",
+    "1p": "frenaríamos",
+    "2p": "frenaríais",
+    "3p": "frenarían"
+  },
+  "PresC": {
+    "1s": "frene",
+    "2s": "frenes",
+    "3s": "frene",
+    "1p": "frenemos",
+    "2p": "frenéis",
+    "3p": "frenen"
+  },
+  "PMQPSI": {
+    "1s": "frenara",
+    "2s": "frenaras",
+    "3s": "frenara",
+    "1p": "frenáramos",
+    "2p": "frenarais",
+    "3p": "frenaran"
+  },
+  "PImpC": {
+    "1s": "frenase",
+    "2s": "frenases",
+    "3s": "frenase",
+    "1p": "frenásemos",
+    "2p": "frenaseis",
+    "3p": "frenasen"
+  },
+  "FutSC": {
+    "1s": "frenare",
+    "2s": "frenares",
+    "3s": "frenare",
+    "1p": "frenáremos",
+    "2p": "frenareis",
+    "3p": "frenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "frena",
+    "3s": "frene",
+    "1p": "frenemos",
+    "2p": "frenad",
+    "3p": "frenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no frenes",
+    "3s": "no frene",
+    "1p": "no frenemos",
+    "2p": "no frenéis",
+    "3p": "no frenen"
+  },
+  "Part-ter": {
+    "": "frenado"
+  },
+  "Part-ser": {
+    "ms": "frenado",
+    "fs": "frenada",
+    "mp": "frenados",
+    "fp": "frenadas"
+  }
+}

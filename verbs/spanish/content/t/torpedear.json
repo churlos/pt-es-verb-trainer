@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "torpedear"
+  },
+  "Ger": {
+    "": "torpedeando"
+  },
+  "PresI": {
+    "1s": "torpedeo",
+    "2s": "torpedeas",
+    "3s": "torpedea",
+    "1p": "torpedeamos",
+    "2p": "torpedeáis",
+    "3p": "torpedean"
+  },
+  "PImpI": {
+    "1s": "torpedeaba",
+    "2s": "torpedeabas",
+    "3s": "torpedeaba",
+    "1p": "torpedeábamos",
+    "2p": "torpedeabais",
+    "3p": "torpedeaban"
+  },
+  "PPSI": {
+    "1s": "torpedeé",
+    "2s": "torpedeaste",
+    "3s": "torpedeó",
+    "1p": "torpedeamos",
+    "2p": "torpedeasteis",
+    "3p": "torpedearon"
+  },
+  "FutSI": {
+    "1s": "torpedearé",
+    "2s": "torpedearás",
+    "3s": "torpedeará",
+    "1p": "torpedearemos",
+    "2p": "torpedearéis",
+    "3p": "torpedearán"
+  },
+  "CondS": {
+    "1s": "torpedearía",
+    "2s": "torpedearías",
+    "3s": "torpedearía",
+    "1p": "torpedearíamos",
+    "2p": "torpedearíais",
+    "3p": "torpedearían"
+  },
+  "PresC": {
+    "1s": "torpedee",
+    "2s": "torpedees",
+    "3s": "torpedee",
+    "1p": "torpedeemos",
+    "2p": "torpedeéis",
+    "3p": "torpedeen"
+  },
+  "PMQPSI": {
+    "1s": "torpedeara",
+    "2s": "torpedearas",
+    "3s": "torpedeara",
+    "1p": "torpedeáramos",
+    "2p": "torpedearais",
+    "3p": "torpedearan"
+  },
+  "PImpC": {
+    "1s": "torpedease",
+    "2s": "torpedeases",
+    "3s": "torpedease",
+    "1p": "torpedeásemos",
+    "2p": "torpedeaseis",
+    "3p": "torpedeasen"
+  },
+  "FutSC": {
+    "1s": "torpedeare",
+    "2s": "torpedeares",
+    "3s": "torpedeare",
+    "1p": "torpedeáremos",
+    "2p": "torpedeareis",
+    "3p": "torpedearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "torpedea",
+    "3s": "torpedee",
+    "1p": "torpedeemos",
+    "2p": "torpedead",
+    "3p": "torpedeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no torpedees",
+    "3s": "no torpedee",
+    "1p": "no torpedeemos",
+    "2p": "no torpedeéis",
+    "3p": "no torpedeen"
+  },
+  "Part-ter": {
+    "": "torpedeado"
+  },
+  "Part-ser": {
+    "ms": "torpedeado",
+    "fs": "torpedeada",
+    "mp": "torpedeados",
+    "fp": "torpedeadas"
+  }
+}

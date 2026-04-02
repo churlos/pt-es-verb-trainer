@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acontecer"
+  },
+  "InfP": {
+    "1s": "acontecer",
+    "2s": "aconteceres",
+    "3s": "acontecer",
+    "1p": "acontecermos",
+    "2p": "acontecerdes",
+    "3p": "acontecerem"
+  },
+  "Ger": {
+    "": "acontecendo"
+  },
+  "PresI": {
+    "1s": "aconteço",
+    "2s": "aconteces",
+    "3s": "acontece",
+    "1p": "acontecemos",
+    "2p": "aconteceis",
+    "3p": "acontecem"
+  },
+  "PImpI": {
+    "1s": "acontecia",
+    "2s": "acontecias",
+    "3s": "acontecia",
+    "1p": "acontecíamos",
+    "2p": "acontecíeis",
+    "3p": "aconteciam"
+  },
+  "PPSI": {
+    "1s": "aconteci",
+    "2s": "aconteceste",
+    "3s": "aconteceu",
+    "1p": "acontecemos",
+    "2p": "acontecestes",
+    "3p": "aconteceram"
+  },
+  "PMQPSI": {
+    "1s": "acontecera",
+    "2s": "aconteceras",
+    "3s": "acontecera",
+    "1p": "acontecêramos",
+    "2p": "acontecêreis",
+    "3p": "aconteceram"
+  },
+  "FutSI": {
+    "1s": "acontecerei",
+    "2s": "acontecerás",
+    "3s": "acontecerá",
+    "1p": "aconteceremos",
+    "2p": "acontecereis",
+    "3p": "acontecerão"
+  },
+  "CondS": {
+    "1s": "aconteceria",
+    "2s": "acontecerias",
+    "3s": "aconteceria",
+    "1p": "aconteceríamos",
+    "2p": "aconteceríeis",
+    "3p": "aconteceriam"
+  },
+  "PresC": {
+    "1s": "aconteça",
+    "2s": "aconteças",
+    "3s": "aconteça",
+    "1p": "aconteçamos",
+    "2p": "aconteçais",
+    "3p": "aconteçam"
+  },
+  "PImpC": {
+    "1s": "acontecesse",
+    "2s": "acontecesses",
+    "3s": "acontecesse",
+    "1p": "acontecêssemos",
+    "2p": "acontecêsseis",
+    "3p": "acontecessem"
+  },
+  "FutSC": {
+    "1s": "acontecer",
+    "2s": "aconteceres",
+    "3s": "acontecer",
+    "1p": "acontecermos",
+    "2p": "acontecerdes",
+    "3p": "acontecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acontece",
+    "3s": "aconteça",
+    "1p": "aconteçamos",
+    "2p": "acontecei",
+    "3p": "aconteçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aconteças",
+    "3s": "não aconteça",
+    "1p": "não aconteçamos",
+    "2p": "não aconteçais",
+    "3p": "não aconteçam"
+  },
+  "Part-ter": {
+    "": "acontecido"
+  },
+  "Part-ser": {
+    "ms": "acontecido",
+    "fs": "acontecida",
+    "mp": "acontecidos",
+    "fp": "acontecidas"
+  }
+}

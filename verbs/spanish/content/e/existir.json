@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "existir"
+  },
+  "Ger": {
+    "": "existiendo"
+  },
+  "PresI": {
+    "1s": "existo",
+    "2s": "existes",
+    "3s": "existe",
+    "1p": "existimos",
+    "2p": "existís",
+    "3p": "existen"
+  },
+  "PImpI": {
+    "1s": "existía",
+    "2s": "existías",
+    "3s": "existía",
+    "1p": "existíamos",
+    "2p": "existíais",
+    "3p": "existían"
+  },
+  "PPSI": {
+    "1s": "existí",
+    "2s": "exististe",
+    "3s": "existió",
+    "1p": "existimos",
+    "2p": "exististeis",
+    "3p": "existieron"
+  },
+  "FutSI": {
+    "1s": "existiré",
+    "2s": "existirás",
+    "3s": "existirá",
+    "1p": "existiremos",
+    "2p": "existiréis",
+    "3p": "existirán"
+  },
+  "CondS": {
+    "1s": "existiría",
+    "2s": "existirías",
+    "3s": "existiría",
+    "1p": "existiríamos",
+    "2p": "existiríais",
+    "3p": "existirían"
+  },
+  "PresC": {
+    "1s": "exista",
+    "2s": "existas",
+    "3s": "exista",
+    "1p": "existamos",
+    "2p": "existáis",
+    "3p": "existan"
+  },
+  "PMQPSI": {
+    "1s": "existiera",
+    "2s": "existieras",
+    "3s": "existiera",
+    "1p": "existiéramos",
+    "2p": "existierais",
+    "3p": "existieran"
+  },
+  "PImpC": {
+    "1s": "existiese",
+    "2s": "existieses",
+    "3s": "existiese",
+    "1p": "existiésemos",
+    "2p": "existieseis",
+    "3p": "existiesen"
+  },
+  "FutSC": {
+    "1s": "existiere",
+    "2s": "existieres",
+    "3s": "existiere",
+    "1p": "existiéremos",
+    "2p": "existiereis",
+    "3p": "existieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "existe",
+    "3s": "exista",
+    "1p": "existamos",
+    "2p": "existid",
+    "3p": "existan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no existas",
+    "3s": "no exista",
+    "1p": "no existamos",
+    "2p": "no existáis",
+    "3p": "no existan"
+  },
+  "Part-ter": {
+    "": "existido"
+  },
+  "Part-ser": {
+    "ms": "existido",
+    "fs": "existida",
+    "mp": "existidos",
+    "fp": "existidas"
+  }
+}

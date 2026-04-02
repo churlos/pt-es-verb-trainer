@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amanhecer"
+  },
+  "InfP": {
+    "1s": "amanhecer",
+    "2s": "amanheceres",
+    "3s": "amanhecer",
+    "1p": "amanhecermos",
+    "2p": "amanhecerdes",
+    "3p": "amanhecerem"
+  },
+  "Ger": {
+    "": "amanhecendo"
+  },
+  "PresI": {
+    "1s": "amanheço",
+    "2s": "amanheces",
+    "3s": "amanhece",
+    "1p": "amanhecemos",
+    "2p": "amanheceis",
+    "3p": "amanhecem"
+  },
+  "PImpI": {
+    "1s": "amanhecia",
+    "2s": "amanhecias",
+    "3s": "amanhecia",
+    "1p": "amanhecíamos",
+    "2p": "amanhecíeis",
+    "3p": "amanheciam"
+  },
+  "PPSI": {
+    "1s": "amanheci",
+    "2s": "amanheceste",
+    "3s": "amanheceu",
+    "1p": "amanhecemos",
+    "2p": "amanhecestes",
+    "3p": "amanheceram"
+  },
+  "PMQPSI": {
+    "1s": "amanhecera",
+    "2s": "amanheceras",
+    "3s": "amanhecera",
+    "1p": "amanhecêramos",
+    "2p": "amanhecêreis",
+    "3p": "amanheceram"
+  },
+  "FutSI": {
+    "1s": "amanhecerei",
+    "2s": "amanhecerás",
+    "3s": "amanhecerá",
+    "1p": "amanheceremos",
+    "2p": "amanhecereis",
+    "3p": "amanhecerão"
+  },
+  "CondS": {
+    "1s": "amanheceria",
+    "2s": "amanhecerias",
+    "3s": "amanheceria",
+    "1p": "amanheceríamos",
+    "2p": "amanheceríeis",
+    "3p": "amanheceriam"
+  },
+  "PresC": {
+    "1s": "amanheça",
+    "2s": "amanheças",
+    "3s": "amanheça",
+    "1p": "amanheçamos",
+    "2p": "amanheçais",
+    "3p": "amanheçam"
+  },
+  "PImpC": {
+    "1s": "amanhecesse",
+    "2s": "amanhecesses",
+    "3s": "amanhecesse",
+    "1p": "amanhecêssemos",
+    "2p": "amanhecêsseis",
+    "3p": "amanhecessem"
+  },
+  "FutSC": {
+    "1s": "amanhecer",
+    "2s": "amanheceres",
+    "3s": "amanhecer",
+    "1p": "amanhecermos",
+    "2p": "amanhecerdes",
+    "3p": "amanhecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amanhece",
+    "3s": "amanheça",
+    "1p": "amanheçamos",
+    "2p": "amanhecei",
+    "3p": "amanheçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amanheças",
+    "3s": "não amanheça",
+    "1p": "não amanheçamos",
+    "2p": "não amanheçais",
+    "3p": "não amanheçam"
+  },
+  "Part-ter": {
+    "": "amanhecido"
+  },
+  "Part-ser": {
+    "ms": "amanhecido",
+    "fs": "amanhecida",
+    "mp": "amanhecidos",
+    "fp": "amanhecidas"
+  }
+}

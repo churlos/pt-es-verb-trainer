@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "consignar"
+  },
+  "Ger": {
+    "": "consignando"
+  },
+  "PresI": {
+    "1s": "consigno",
+    "2s": "consignas",
+    "3s": "consigna",
+    "1p": "consignamos",
+    "2p": "consignáis",
+    "3p": "consignan"
+  },
+  "PImpI": {
+    "1s": "consignaba",
+    "2s": "consignabas",
+    "3s": "consignaba",
+    "1p": "consignábamos",
+    "2p": "consignabais",
+    "3p": "consignaban"
+  },
+  "PPSI": {
+    "1s": "consigné",
+    "2s": "consignaste",
+    "3s": "consignó",
+    "1p": "consignamos",
+    "2p": "consignasteis",
+    "3p": "consignaron"
+  },
+  "FutSI": {
+    "1s": "consignaré",
+    "2s": "consignarás",
+    "3s": "consignará",
+    "1p": "consignaremos",
+    "2p": "consignaréis",
+    "3p": "consignarán"
+  },
+  "CondS": {
+    "1s": "consignaría",
+    "2s": "consignarías",
+    "3s": "consignaría",
+    "1p": "consignaríamos",
+    "2p": "consignaríais",
+    "3p": "consignarían"
+  },
+  "PresC": {
+    "1s": "consigne",
+    "2s": "consignes",
+    "3s": "consigne",
+    "1p": "consignemos",
+    "2p": "consignéis",
+    "3p": "consignen"
+  },
+  "PMQPSI": {
+    "1s": "consignara",
+    "2s": "consignaras",
+    "3s": "consignara",
+    "1p": "consignáramos",
+    "2p": "consignarais",
+    "3p": "consignaran"
+  },
+  "PImpC": {
+    "1s": "consignase",
+    "2s": "consignases",
+    "3s": "consignase",
+    "1p": "consignásemos",
+    "2p": "consignaseis",
+    "3p": "consignasen"
+  },
+  "FutSC": {
+    "1s": "consignare",
+    "2s": "consignares",
+    "3s": "consignare",
+    "1p": "consignáremos",
+    "2p": "consignareis",
+    "3p": "consignaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consigna",
+    "3s": "consigne",
+    "1p": "consignemos",
+    "2p": "consignad",
+    "3p": "consignen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no consignes",
+    "3s": "no consigne",
+    "1p": "no consignemos",
+    "2p": "no consignéis",
+    "3p": "no consignen"
+  },
+  "Part-ter": {
+    "": "consignado"
+  },
+  "Part-ser": {
+    "ms": "consignado",
+    "fs": "consignada",
+    "mp": "consignados",
+    "fp": "consignadas"
+  }
+}

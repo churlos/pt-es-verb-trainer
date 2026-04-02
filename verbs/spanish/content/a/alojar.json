@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alojar"
+  },
+  "Ger": {
+    "": "alojando"
+  },
+  "PresI": {
+    "1s": "alojo",
+    "2s": "alojas",
+    "3s": "aloja",
+    "1p": "alojamos",
+    "2p": "alojáis",
+    "3p": "alojan"
+  },
+  "PImpI": {
+    "1s": "alojaba",
+    "2s": "alojabas",
+    "3s": "alojaba",
+    "1p": "alojábamos",
+    "2p": "alojabais",
+    "3p": "alojaban"
+  },
+  "PPSI": {
+    "1s": "alojé",
+    "2s": "alojaste",
+    "3s": "alojó",
+    "1p": "alojamos",
+    "2p": "alojasteis",
+    "3p": "alojaron"
+  },
+  "FutSI": {
+    "1s": "alojaré",
+    "2s": "alojarás",
+    "3s": "alojará",
+    "1p": "alojaremos",
+    "2p": "alojaréis",
+    "3p": "alojarán"
+  },
+  "CondS": {
+    "1s": "alojaría",
+    "2s": "alojarías",
+    "3s": "alojaría",
+    "1p": "alojaríamos",
+    "2p": "alojaríais",
+    "3p": "alojarían"
+  },
+  "PresC": {
+    "1s": "aloje",
+    "2s": "alojes",
+    "3s": "aloje",
+    "1p": "alojemos",
+    "2p": "alojéis",
+    "3p": "alojen"
+  },
+  "PMQPSI": {
+    "1s": "alojara",
+    "2s": "alojaras",
+    "3s": "alojara",
+    "1p": "alojáramos",
+    "2p": "alojarais",
+    "3p": "alojaran"
+  },
+  "PImpC": {
+    "1s": "alojase",
+    "2s": "alojases",
+    "3s": "alojase",
+    "1p": "alojásemos",
+    "2p": "alojaseis",
+    "3p": "alojasen"
+  },
+  "FutSC": {
+    "1s": "alojare",
+    "2s": "alojares",
+    "3s": "alojare",
+    "1p": "alojáremos",
+    "2p": "alojareis",
+    "3p": "alojaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aloja",
+    "3s": "aloje",
+    "1p": "alojemos",
+    "2p": "alojad",
+    "3p": "alojen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alojes",
+    "3s": "no aloje",
+    "1p": "no alojemos",
+    "2p": "no alojéis",
+    "3p": "no alojen"
+  },
+  "Part-ter": {
+    "": "alojado"
+  },
+  "Part-ser": {
+    "ms": "alojado",
+    "fs": "alojada",
+    "mp": "alojados",
+    "fp": "alojadas"
+  }
+}

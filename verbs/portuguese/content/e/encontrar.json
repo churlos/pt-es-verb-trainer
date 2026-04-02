@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encontrar"
+  },
+  "InfP": {
+    "1s": "encontrar",
+    "2s": "encontrares",
+    "3s": "encontrar",
+    "1p": "encontrarmos",
+    "2p": "encontrardes",
+    "3p": "encontrarem"
+  },
+  "Ger": {
+    "": "encontrando"
+  },
+  "PresI": {
+    "1s": "encontro",
+    "2s": "encontras",
+    "3s": "encontra",
+    "1p": "encontramos",
+    "2p": "encontrais",
+    "3p": "encontram"
+  },
+  "PImpI": {
+    "1s": "encontrava",
+    "2s": "encontravas",
+    "3s": "encontrava",
+    "1p": "encontrávamos",
+    "2p": "encontráveis",
+    "3p": "encontravam"
+  },
+  "PPSI": {
+    "1s": "encontrei",
+    "2s": "encontraste",
+    "3s": "encontrou",
+    "1p": "encontrámos",
+    "2p": "encontrastes",
+    "3p": "encontraram"
+  },
+  "PMQPSI": {
+    "1s": "encontrara",
+    "2s": "encontraras",
+    "3s": "encontrara",
+    "1p": "encontráramos",
+    "2p": "encontráreis",
+    "3p": "encontraram"
+  },
+  "FutSI": {
+    "1s": "encontrarei",
+    "2s": "encontrarás",
+    "3s": "encontrará",
+    "1p": "encontraremos",
+    "2p": "encontrareis",
+    "3p": "encontrarão"
+  },
+  "CondS": {
+    "1s": "encontraria",
+    "2s": "encontrarias",
+    "3s": "encontraria",
+    "1p": "encontraríamos",
+    "2p": "encontraríeis",
+    "3p": "encontrariam"
+  },
+  "PresC": {
+    "1s": "encontre",
+    "2s": "encontres",
+    "3s": "encontre",
+    "1p": "encontremos",
+    "2p": "encontreis",
+    "3p": "encontrem"
+  },
+  "PImpC": {
+    "1s": "encontrasse",
+    "2s": "encontrasses",
+    "3s": "encontrasse",
+    "1p": "encontrássemos",
+    "2p": "encontrásseis",
+    "3p": "encontrassem"
+  },
+  "FutSC": {
+    "1s": "encontrar",
+    "2s": "encontrares",
+    "3s": "encontrar",
+    "1p": "encontrarmos",
+    "2p": "encontrardes",
+    "3p": "encontrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encontra",
+    "3s": "encontre",
+    "1p": "encontremos",
+    "2p": "encontrai",
+    "3p": "encontrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encontres",
+    "3s": "não encontre",
+    "1p": "não encontremos",
+    "2p": "não encontreis",
+    "3p": "não encontrem"
+  },
+  "Part-ter": {
+    "": "encontrado"
+  },
+  "Part-ser": {
+    "ms": "encontrado",
+    "fs": "encontrada",
+    "mp": "encontrados",
+    "fp": "encontradas"
+  }
+}

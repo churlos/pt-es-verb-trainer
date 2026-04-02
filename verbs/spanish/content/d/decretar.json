@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "decretar"
+  },
+  "Ger": {
+    "": "decretando"
+  },
+  "PresI": {
+    "1s": "decreto",
+    "2s": "decretas",
+    "3s": "decreta",
+    "1p": "decretamos",
+    "2p": "decretáis",
+    "3p": "decretan"
+  },
+  "PImpI": {
+    "1s": "decretaba",
+    "2s": "decretabas",
+    "3s": "decretaba",
+    "1p": "decretábamos",
+    "2p": "decretabais",
+    "3p": "decretaban"
+  },
+  "PPSI": {
+    "1s": "decreté",
+    "2s": "decretaste",
+    "3s": "decretó",
+    "1p": "decretamos",
+    "2p": "decretasteis",
+    "3p": "decretaron"
+  },
+  "FutSI": {
+    "1s": "decretaré",
+    "2s": "decretarás",
+    "3s": "decretará",
+    "1p": "decretaremos",
+    "2p": "decretaréis",
+    "3p": "decretarán"
+  },
+  "CondS": {
+    "1s": "decretaría",
+    "2s": "decretarías",
+    "3s": "decretaría",
+    "1p": "decretaríamos",
+    "2p": "decretaríais",
+    "3p": "decretarían"
+  },
+  "PresC": {
+    "1s": "decrete",
+    "2s": "decretes",
+    "3s": "decrete",
+    "1p": "decretemos",
+    "2p": "decretéis",
+    "3p": "decreten"
+  },
+  "PMQPSI": {
+    "1s": "decretara",
+    "2s": "decretaras",
+    "3s": "decretara",
+    "1p": "decretáramos",
+    "2p": "decretarais",
+    "3p": "decretaran"
+  },
+  "PImpC": {
+    "1s": "decretase",
+    "2s": "decretases",
+    "3s": "decretase",
+    "1p": "decretásemos",
+    "2p": "decretaseis",
+    "3p": "decretasen"
+  },
+  "FutSC": {
+    "1s": "decretare",
+    "2s": "decretares",
+    "3s": "decretare",
+    "1p": "decretáremos",
+    "2p": "decretareis",
+    "3p": "decretaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decreta",
+    "3s": "decrete",
+    "1p": "decretemos",
+    "2p": "decretad",
+    "3p": "decreten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no decretes",
+    "3s": "no decrete",
+    "1p": "no decretemos",
+    "2p": "no decretéis",
+    "3p": "no decreten"
+  },
+  "Part-ter": {
+    "": "decretado"
+  },
+  "Part-ser": {
+    "ms": "decretado",
+    "fs": "decretada",
+    "mp": "decretados",
+    "fp": "decretadas"
+  }
+}

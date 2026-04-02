@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "canonizar"
+  },
+  "InfP": {
+    "1s": "canonizar",
+    "2s": "canonizares",
+    "3s": "canonizar",
+    "1p": "canonizarmos",
+    "2p": "canonizardes",
+    "3p": "canonizarem"
+  },
+  "Ger": {
+    "": "canonizando"
+  },
+  "PresI": {
+    "1s": "canonizo",
+    "2s": "canonizas",
+    "3s": "canoniza",
+    "1p": "canonizamos",
+    "2p": "canonizais",
+    "3p": "canonizam"
+  },
+  "PImpI": {
+    "1s": "canonizava",
+    "2s": "canonizavas",
+    "3s": "canonizava",
+    "1p": "canonizávamos",
+    "2p": "canonizáveis",
+    "3p": "canonizavam"
+  },
+  "PPSI": {
+    "1s": "canonizei",
+    "2s": "canonizaste",
+    "3s": "canonizou",
+    "1p": "canonizámos",
+    "2p": "canonizastes",
+    "3p": "canonizaram"
+  },
+  "PMQPSI": {
+    "1s": "canonizara",
+    "2s": "canonizaras",
+    "3s": "canonizara",
+    "1p": "canonizáramos",
+    "2p": "canonizáreis",
+    "3p": "canonizaram"
+  },
+  "FutSI": {
+    "1s": "canonizarei",
+    "2s": "canonizarás",
+    "3s": "canonizará",
+    "1p": "canonizaremos",
+    "2p": "canonizareis",
+    "3p": "canonizarão"
+  },
+  "CondS": {
+    "1s": "canonizaria",
+    "2s": "canonizarias",
+    "3s": "canonizaria",
+    "1p": "canonizaríamos",
+    "2p": "canonizaríeis",
+    "3p": "canonizariam"
+  },
+  "PresC": {
+    "1s": "canonize",
+    "2s": "canonizes",
+    "3s": "canonize",
+    "1p": "canonizemos",
+    "2p": "canonizeis",
+    "3p": "canonizem"
+  },
+  "PImpC": {
+    "1s": "canonizasse",
+    "2s": "canonizasses",
+    "3s": "canonizasse",
+    "1p": "canonizássemos",
+    "2p": "canonizásseis",
+    "3p": "canonizassem"
+  },
+  "FutSC": {
+    "1s": "canonizar",
+    "2s": "canonizares",
+    "3s": "canonizar",
+    "1p": "canonizarmos",
+    "2p": "canonizardes",
+    "3p": "canonizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "canoniza",
+    "3s": "canonize",
+    "1p": "canonizemos",
+    "2p": "canonizai",
+    "3p": "canonizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não canonizes",
+    "3s": "não canonize",
+    "1p": "não canonizemos",
+    "2p": "não canonizeis",
+    "3p": "não canonizem"
+  },
+  "Part-ter": {
+    "": "canonizado"
+  },
+  "Part-ser": {
+    "ms": "canonizado",
+    "fs": "canonizada",
+    "mp": "canonizados",
+    "fp": "canonizadas"
+  }
+}

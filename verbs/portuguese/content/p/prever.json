@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prever"
+  },
+  "InfP": {
+    "1s": "prever",
+    "2s": "preveres",
+    "3s": "prever",
+    "1p": "prevermos",
+    "2p": "preverdes",
+    "3p": "preverem"
+  },
+  "Ger": {
+    "": "prevendo"
+  },
+  "PresI": {
+    "1s": "prevejo",
+    "2s": "prevês",
+    "3s": "prevê",
+    "1p": "prevemos",
+    "2p": "prevedes",
+    "3p": "preveemObsolete:prevêem"
+  },
+  "PImpI": {
+    "1s": "previa",
+    "2s": "previas",
+    "3s": "previa",
+    "1p": "prevíamos",
+    "2p": "prevíeis",
+    "3p": "previam"
+  },
+  "PPSI": {
+    "1s": "previ",
+    "2s": "previste",
+    "3s": "previu",
+    "1p": "previmos",
+    "2p": "previstes",
+    "3p": "previram"
+  },
+  "PMQPSI": {
+    "1s": "previra",
+    "2s": "previras",
+    "3s": "previra",
+    "1p": "prevíramos",
+    "2p": "prevíreis",
+    "3p": "previram"
+  },
+  "FutSI": {
+    "1s": "preverei",
+    "2s": "preverás",
+    "3s": "preverá",
+    "1p": "preveremos",
+    "2p": "prevereis",
+    "3p": "preverão"
+  },
+  "CondS": {
+    "1s": "preveria",
+    "2s": "preverias",
+    "3s": "preveria",
+    "1p": "preveríamos",
+    "2p": "preveríeis",
+    "3p": "preveriam"
+  },
+  "PresC": {
+    "1s": "preveja",
+    "2s": "prevejas",
+    "3s": "preveja",
+    "1p": "prevejamos",
+    "2p": "prevejais",
+    "3p": "prevejam"
+  },
+  "PImpC": {
+    "1s": "previsse",
+    "2s": "previsses",
+    "3s": "previsse",
+    "1p": "prevíssemos",
+    "2p": "prevísseis",
+    "3p": "previssem"
+  },
+  "FutSC": {
+    "1s": "previr",
+    "2s": "previres",
+    "3s": "previr",
+    "1p": "previrmos",
+    "2p": "previrdes",
+    "3p": "previrem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prevê",
+    "3s": "preveja",
+    "1p": "prevejamos",
+    "2p": "prevede",
+    "3p": "prevejam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prevejas",
+    "3s": "não preveja",
+    "1p": "não prevejamos",
+    "2p": "não prevejais",
+    "3p": "não prevejam"
+  },
+  "Part-ter": {
+    "": "previsto"
+  },
+  "Part-ser": {
+    "ms": "previsto",
+    "fs": "prevista",
+    "mp": "previstos",
+    "fp": "previstas"
+  }
+}

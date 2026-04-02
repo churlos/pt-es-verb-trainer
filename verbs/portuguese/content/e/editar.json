@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "editar"
+  },
+  "InfP": {
+    "1s": "editar",
+    "2s": "editares",
+    "3s": "editar",
+    "1p": "editarmos",
+    "2p": "editardes",
+    "3p": "editarem"
+  },
+  "Ger": {
+    "": "editando"
+  },
+  "PresI": {
+    "1s": "edito",
+    "2s": "editas",
+    "3s": "edita",
+    "1p": "editamos",
+    "2p": "editais",
+    "3p": "editam"
+  },
+  "PImpI": {
+    "1s": "editava",
+    "2s": "editavas",
+    "3s": "editava",
+    "1p": "editávamos",
+    "2p": "editáveis",
+    "3p": "editavam"
+  },
+  "PPSI": {
+    "1s": "editei",
+    "2s": "editaste",
+    "3s": "editou",
+    "1p": "editámos",
+    "2p": "editastes",
+    "3p": "editaram"
+  },
+  "PMQPSI": {
+    "1s": "editara",
+    "2s": "editaras",
+    "3s": "editara",
+    "1p": "editáramos",
+    "2p": "editáreis",
+    "3p": "editaram"
+  },
+  "FutSI": {
+    "1s": "editarei",
+    "2s": "editarás",
+    "3s": "editará",
+    "1p": "editaremos",
+    "2p": "editareis",
+    "3p": "editarão"
+  },
+  "CondS": {
+    "1s": "editaria",
+    "2s": "editarias",
+    "3s": "editaria",
+    "1p": "editaríamos",
+    "2p": "editaríeis",
+    "3p": "editariam"
+  },
+  "PresC": {
+    "1s": "edite",
+    "2s": "edites",
+    "3s": "edite",
+    "1p": "editemos",
+    "2p": "editeis",
+    "3p": "editem"
+  },
+  "PImpC": {
+    "1s": "editasse",
+    "2s": "editasses",
+    "3s": "editasse",
+    "1p": "editássemos",
+    "2p": "editásseis",
+    "3p": "editassem"
+  },
+  "FutSC": {
+    "1s": "editar",
+    "2s": "editares",
+    "3s": "editar",
+    "1p": "editarmos",
+    "2p": "editardes",
+    "3p": "editarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "edita",
+    "3s": "edite",
+    "1p": "editemos",
+    "2p": "editai",
+    "3p": "editem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não edites",
+    "3s": "não edite",
+    "1p": "não editemos",
+    "2p": "não editeis",
+    "3p": "não editem"
+  },
+  "Part-ter": {
+    "": "editado"
+  },
+  "Part-ser": {
+    "ms": "editado",
+    "fs": "editada",
+    "mp": "editados",
+    "fp": "editadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "extinguir"
+  },
+  "InfP": {
+    "1s": "extinguir",
+    "2s": "extinguires",
+    "3s": "extinguir",
+    "1p": "extinguirmos",
+    "2p": "extinguirdes",
+    "3p": "extinguirem"
+  },
+  "Ger": {
+    "": "extinguindo"
+  },
+  "PresI": {
+    "1s": "extingo",
+    "2s": "extingues",
+    "3s": "extingue",
+    "1p": "extinguimos",
+    "2p": "extinguis",
+    "3p": "extinguem"
+  },
+  "PImpI": {
+    "1s": "extinguia",
+    "2s": "extinguias",
+    "3s": "extinguia",
+    "1p": "extinguíamos",
+    "2p": "extinguíeis",
+    "3p": "extinguiam"
+  },
+  "PPSI": {
+    "1s": "extingui",
+    "2s": "extinguiste",
+    "3s": "extinguiu",
+    "1p": "extinguimos",
+    "2p": "extinguistes",
+    "3p": "extinguiram"
+  },
+  "PMQPSI": {
+    "1s": "extinguira",
+    "2s": "extinguiras",
+    "3s": "extinguira",
+    "1p": "extinguíramos",
+    "2p": "extinguíreis",
+    "3p": "extinguiram"
+  },
+  "FutSI": {
+    "1s": "extinguirei",
+    "2s": "extinguirás",
+    "3s": "extinguirá",
+    "1p": "extinguiremos",
+    "2p": "extinguireis",
+    "3p": "extinguirão"
+  },
+  "CondS": {
+    "1s": "extinguiria",
+    "2s": "extinguirias",
+    "3s": "extinguiria",
+    "1p": "extinguiríamos",
+    "2p": "extinguiríeis",
+    "3p": "extinguiriam"
+  },
+  "PresC": {
+    "1s": "extinga",
+    "2s": "extingas",
+    "3s": "extinga",
+    "1p": "extingamos",
+    "2p": "extingais",
+    "3p": "extingam"
+  },
+  "PImpC": {
+    "1s": "extinguisse",
+    "2s": "extinguisses",
+    "3s": "extinguisse",
+    "1p": "extinguíssemos",
+    "2p": "extinguísseis",
+    "3p": "extinguissem"
+  },
+  "FutSC": {
+    "1s": "extinguir",
+    "2s": "extinguires",
+    "3s": "extinguir",
+    "1p": "extinguirmos",
+    "2p": "extinguirdes",
+    "3p": "extinguirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extingue",
+    "3s": "extinga",
+    "1p": "extingamos",
+    "2p": "extingui",
+    "3p": "extingam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não extingas",
+    "3s": "não extinga",
+    "1p": "não extingamos",
+    "2p": "não extingais",
+    "3p": "não extingam"
+  },
+  "Part-ter": {
+    "": "extinguido"
+  },
+  "Part-ser": {
+    "ms": "extinguido",
+    "fs": "extinguida",
+    "mp": "extinguidos",
+    "fp": "extinguidas"
+  }
+}

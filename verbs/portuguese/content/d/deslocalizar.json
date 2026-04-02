@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deslocalizar"
+  },
+  "InfP": {
+    "1s": "deslocalizar",
+    "2s": "deslocalizares",
+    "3s": "deslocalizar",
+    "1p": "deslocalizarmos",
+    "2p": "deslocalizardes",
+    "3p": "deslocalizarem"
+  },
+  "Ger": {
+    "": "deslocalizando"
+  },
+  "PresI": {
+    "1s": "deslocalizo",
+    "2s": "deslocalizas",
+    "3s": "deslocaliza",
+    "1p": "deslocalizamos",
+    "2p": "deslocalizais",
+    "3p": "deslocalizam"
+  },
+  "PImpI": {
+    "1s": "deslocalizava",
+    "2s": "deslocalizavas",
+    "3s": "deslocalizava",
+    "1p": "deslocalizávamos",
+    "2p": "deslocalizáveis",
+    "3p": "deslocalizavam"
+  },
+  "PPSI": {
+    "1s": "deslocalizei",
+    "2s": "deslocalizaste",
+    "3s": "deslocalizou",
+    "1p": "deslocalizámos",
+    "2p": "deslocalizastes",
+    "3p": "deslocalizaram"
+  },
+  "PMQPSI": {
+    "1s": "deslocalizara",
+    "2s": "deslocalizaras",
+    "3s": "deslocalizara",
+    "1p": "deslocalizáramos",
+    "2p": "deslocalizáreis",
+    "3p": "deslocalizaram"
+  },
+  "FutSI": {
+    "1s": "deslocalizarei",
+    "2s": "deslocalizarás",
+    "3s": "deslocalizará",
+    "1p": "deslocalizaremos",
+    "2p": "deslocalizareis",
+    "3p": "deslocalizarão"
+  },
+  "CondS": {
+    "1s": "deslocalizaria",
+    "2s": "deslocalizarias",
+    "3s": "deslocalizaria",
+    "1p": "deslocalizaríamos",
+    "2p": "deslocalizaríeis",
+    "3p": "deslocalizariam"
+  },
+  "PresC": {
+    "1s": "deslocalize",
+    "2s": "deslocalizes",
+    "3s": "deslocalize",
+    "1p": "deslocalizemos",
+    "2p": "deslocalizeis",
+    "3p": "deslocalizem"
+  },
+  "PImpC": {
+    "1s": "deslocalizasse",
+    "2s": "deslocalizasses",
+    "3s": "deslocalizasse",
+    "1p": "deslocalizássemos",
+    "2p": "deslocalizásseis",
+    "3p": "deslocalizassem"
+  },
+  "FutSC": {
+    "1s": "deslocalizar",
+    "2s": "deslocalizares",
+    "3s": "deslocalizar",
+    "1p": "deslocalizarmos",
+    "2p": "deslocalizardes",
+    "3p": "deslocalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deslocaliza",
+    "3s": "deslocalize",
+    "1p": "deslocalizemos",
+    "2p": "deslocalizai",
+    "3p": "deslocalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deslocalizes",
+    "3s": "não deslocalize",
+    "1p": "não deslocalizemos",
+    "2p": "não deslocalizeis",
+    "3p": "não deslocalizem"
+  },
+  "Part-ter": {
+    "": "deslocalizado"
+  },
+  "Part-ser": {
+    "ms": "deslocalizado",
+    "fs": "deslocalizada",
+    "mp": "deslocalizados",
+    "fp": "deslocalizadas"
+  }
+}

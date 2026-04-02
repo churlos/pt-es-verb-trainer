@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suspender"
+  },
+  "InfP": {
+    "1s": "suspender",
+    "2s": "suspenderes",
+    "3s": "suspender",
+    "1p": "suspendermos",
+    "2p": "suspenderdes",
+    "3p": "suspenderem"
+  },
+  "Ger": {
+    "": "suspendendo"
+  },
+  "PresI": {
+    "1s": "suspendo",
+    "2s": "suspendes",
+    "3s": "suspende",
+    "1p": "suspendemos",
+    "2p": "suspendeis",
+    "3p": "suspendem"
+  },
+  "PImpI": {
+    "1s": "suspendia",
+    "2s": "suspendias",
+    "3s": "suspendia",
+    "1p": "suspendíamos",
+    "2p": "suspendíeis",
+    "3p": "suspendiam"
+  },
+  "PPSI": {
+    "1s": "suspendi",
+    "2s": "suspendeste",
+    "3s": "suspendeu",
+    "1p": "suspendemos",
+    "2p": "suspendestes",
+    "3p": "suspenderam"
+  },
+  "PMQPSI": {
+    "1s": "suspendera",
+    "2s": "suspenderas",
+    "3s": "suspendera",
+    "1p": "suspendêramos",
+    "2p": "suspendêreis",
+    "3p": "suspenderam"
+  },
+  "FutSI": {
+    "1s": "suspenderei",
+    "2s": "suspenderás",
+    "3s": "suspenderá",
+    "1p": "suspenderemos",
+    "2p": "suspendereis",
+    "3p": "suspenderão"
+  },
+  "CondS": {
+    "1s": "suspenderia",
+    "2s": "suspenderias",
+    "3s": "suspenderia",
+    "1p": "suspenderíamos",
+    "2p": "suspenderíeis",
+    "3p": "suspenderiam"
+  },
+  "PresC": {
+    "1s": "suspenda",
+    "2s": "suspendas",
+    "3s": "suspenda",
+    "1p": "suspendamos",
+    "2p": "suspendais",
+    "3p": "suspendam"
+  },
+  "PImpC": {
+    "1s": "suspendesse",
+    "2s": "suspendesses",
+    "3s": "suspendesse",
+    "1p": "suspendêssemos",
+    "2p": "suspendêsseis",
+    "3p": "suspendessem"
+  },
+  "FutSC": {
+    "1s": "suspender",
+    "2s": "suspenderes",
+    "3s": "suspender",
+    "1p": "suspendermos",
+    "2p": "suspenderdes",
+    "3p": "suspenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suspende",
+    "3s": "suspenda",
+    "1p": "suspendamos",
+    "2p": "suspendei",
+    "3p": "suspendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não suspendas",
+    "3s": "não suspenda",
+    "1p": "não suspendamos",
+    "2p": "não suspendais",
+    "3p": "não suspendam"
+  },
+  "Part-ter": {
+    "": "suspendido"
+  },
+  "Part-ser": {
+    "ms": "suspenso",
+    "fs": "suspensa",
+    "mp": "suspensos",
+    "fp": "suspensas"
+  }
+}

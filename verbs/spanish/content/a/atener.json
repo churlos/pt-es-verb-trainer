@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atener"
+  },
+  "Ger": {
+    "": "ateniendo"
+  },
+  "PresI": {
+    "1s": "atengo",
+    "2s": "atienes",
+    "3s": "atiene",
+    "1p": "atenemos",
+    "2p": "atenéis",
+    "3p": "atienen"
+  },
+  "PImpI": {
+    "1s": "atenía",
+    "2s": "atenías",
+    "3s": "atenía",
+    "1p": "ateníamos",
+    "2p": "ateníais",
+    "3p": "atenían"
+  },
+  "PPSI": {
+    "1s": "atuve",
+    "2s": "atuviste",
+    "3s": "atuvo",
+    "1p": "atuvimos",
+    "2p": "atuvisteis",
+    "3p": "atuvieron"
+  },
+  "FutSI": {
+    "1s": "atendré",
+    "2s": "atendrás",
+    "3s": "atendrá",
+    "1p": "atendremos",
+    "2p": "atendréis",
+    "3p": "atendrán"
+  },
+  "CondS": {
+    "1s": "atendría",
+    "2s": "atendrías",
+    "3s": "atendría",
+    "1p": "atendríamos",
+    "2p": "atendríais",
+    "3p": "atendrían"
+  },
+  "PresC": {
+    "1s": "atenga",
+    "2s": "atengas",
+    "3s": "atenga",
+    "1p": "atengamos",
+    "2p": "atengáis",
+    "3p": "atengan"
+  },
+  "PMQPSI": {
+    "1s": "atuviera",
+    "2s": "atuvieras",
+    "3s": "atuviera",
+    "1p": "atuviéramos",
+    "2p": "atuvierais",
+    "3p": "atuvieran"
+  },
+  "PImpC": {
+    "1s": "atuviese",
+    "2s": "atuvieses",
+    "3s": "atuviese",
+    "1p": "atuviésemos",
+    "2p": "atuvieseis",
+    "3p": "atuviesen"
+  },
+  "FutSC": {
+    "1s": "atuviere",
+    "2s": "atuvieres",
+    "3s": "atuviere",
+    "1p": "atuviéremos",
+    "2p": "atuviereis",
+    "3p": "atuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atén",
+    "3s": "atenga",
+    "1p": "atengamos",
+    "2p": "atened",
+    "3p": "atengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atengas",
+    "3s": "no atenga",
+    "1p": "no atengamos",
+    "2p": "no atengáis",
+    "3p": "no atengan"
+  },
+  "Part-ter": {
+    "": "atenido"
+  },
+  "Part-ser": {
+    "ms": "atenido",
+    "fs": "atenida",
+    "mp": "atenidos",
+    "fp": "atenidas"
+  }
+}

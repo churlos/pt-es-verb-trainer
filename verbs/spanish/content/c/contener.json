@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "contener"
+  },
+  "Ger": {
+    "": "conteniendo"
+  },
+  "PresI": {
+    "1s": "contengo",
+    "2s": "contienes",
+    "3s": "contiene",
+    "1p": "contenemos",
+    "2p": "contenéis",
+    "3p": "contienen"
+  },
+  "PImpI": {
+    "1s": "contenía",
+    "2s": "contenías",
+    "3s": "contenía",
+    "1p": "conteníamos",
+    "2p": "conteníais",
+    "3p": "contenían"
+  },
+  "PPSI": {
+    "1s": "contuve",
+    "2s": "contuviste",
+    "3s": "contuvo",
+    "1p": "contuvimos",
+    "2p": "contuvisteis",
+    "3p": "contuvieron"
+  },
+  "FutSI": {
+    "1s": "contendré",
+    "2s": "contendrás",
+    "3s": "contendrá",
+    "1p": "contendremos",
+    "2p": "contendréis",
+    "3p": "contendrán"
+  },
+  "CondS": {
+    "1s": "contendría",
+    "2s": "contendrías",
+    "3s": "contendría",
+    "1p": "contendríamos",
+    "2p": "contendríais",
+    "3p": "contendrían"
+  },
+  "PresC": {
+    "1s": "contenga",
+    "2s": "contengas",
+    "3s": "contenga",
+    "1p": "contengamos",
+    "2p": "contengáis",
+    "3p": "contengan"
+  },
+  "PMQPSI": {
+    "1s": "contuviera",
+    "2s": "contuvieras",
+    "3s": "contuviera",
+    "1p": "contuviéramos",
+    "2p": "contuvierais",
+    "3p": "contuvieran"
+  },
+  "PImpC": {
+    "1s": "contuviese",
+    "2s": "contuvieses",
+    "3s": "contuviese",
+    "1p": "contuviésemos",
+    "2p": "contuvieseis",
+    "3p": "contuviesen"
+  },
+  "FutSC": {
+    "1s": "contuviere",
+    "2s": "contuvieres",
+    "3s": "contuviere",
+    "1p": "contuviéremos",
+    "2p": "contuviereis",
+    "3p": "contuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contén",
+    "3s": "contenga",
+    "1p": "contengamos",
+    "2p": "contened",
+    "3p": "contengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no contengas",
+    "3s": "no contenga",
+    "1p": "no contengamos",
+    "2p": "no contengáis",
+    "3p": "no contengan"
+  },
+  "Part-ter": {
+    "": "contenido"
+  },
+  "Part-ser": {
+    "ms": "contenido",
+    "fs": "contenida",
+    "mp": "contenidos",
+    "fp": "contenidas"
+  }
+}

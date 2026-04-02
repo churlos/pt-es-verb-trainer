@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "assassinar"
+  },
+  "InfP": {
+    "1s": "assassinar",
+    "2s": "assassinares",
+    "3s": "assassinar",
+    "1p": "assassinarmos",
+    "2p": "assassinardes",
+    "3p": "assassinarem"
+  },
+  "Ger": {
+    "": "assassinando"
+  },
+  "PresI": {
+    "1s": "assassino",
+    "2s": "assassinas",
+    "3s": "assassina",
+    "1p": "assassinamos",
+    "2p": "assassinais",
+    "3p": "assassinam"
+  },
+  "PImpI": {
+    "1s": "assassinava",
+    "2s": "assassinavas",
+    "3s": "assassinava",
+    "1p": "assassinávamos",
+    "2p": "assassináveis",
+    "3p": "assassinavam"
+  },
+  "PPSI": {
+    "1s": "assassinei",
+    "2s": "assassinaste",
+    "3s": "assassinou",
+    "1p": "assassinámos",
+    "2p": "assassinastes",
+    "3p": "assassinaram"
+  },
+  "PMQPSI": {
+    "1s": "assassinara",
+    "2s": "assassinaras",
+    "3s": "assassinara",
+    "1p": "assassináramos",
+    "2p": "assassináreis",
+    "3p": "assassinaram"
+  },
+  "FutSI": {
+    "1s": "assassinarei",
+    "2s": "assassinarás",
+    "3s": "assassinará",
+    "1p": "assassinaremos",
+    "2p": "assassinareis",
+    "3p": "assassinarão"
+  },
+  "CondS": {
+    "1s": "assassinaria",
+    "2s": "assassinarias",
+    "3s": "assassinaria",
+    "1p": "assassinaríamos",
+    "2p": "assassinaríeis",
+    "3p": "assassinariam"
+  },
+  "PresC": {
+    "1s": "assassine",
+    "2s": "assassines",
+    "3s": "assassine",
+    "1p": "assassinemos",
+    "2p": "assassineis",
+    "3p": "assassinem"
+  },
+  "PImpC": {
+    "1s": "assassinasse",
+    "2s": "assassinasses",
+    "3s": "assassinasse",
+    "1p": "assassinássemos",
+    "2p": "assassinásseis",
+    "3p": "assassinassem"
+  },
+  "FutSC": {
+    "1s": "assassinar",
+    "2s": "assassinares",
+    "3s": "assassinar",
+    "1p": "assassinarmos",
+    "2p": "assassinardes",
+    "3p": "assassinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "assassina",
+    "3s": "assassine",
+    "1p": "assassinemos",
+    "2p": "assassinai",
+    "3p": "assassinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não assassines",
+    "3s": "não assassine",
+    "1p": "não assassinemos",
+    "2p": "não assassineis",
+    "3p": "não assassinem"
+  },
+  "Part-ter": {
+    "": "assassinado"
+  },
+  "Part-ser": {
+    "ms": "assassinado",
+    "fs": "assassinada",
+    "mp": "assassinados",
+    "fp": "assassinadas"
+  }
+}

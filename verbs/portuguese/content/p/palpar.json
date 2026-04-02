@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "palpar"
+  },
+  "InfP": {
+    "1s": "palpar",
+    "2s": "palpares",
+    "3s": "palpar",
+    "1p": "palparmos",
+    "2p": "palpardes",
+    "3p": "palparem"
+  },
+  "Ger": {
+    "": "palpando"
+  },
+  "PresI": {
+    "1s": "palpo",
+    "2s": "palpas",
+    "3s": "palpa",
+    "1p": "palpamos",
+    "2p": "palpais",
+    "3p": "palpam"
+  },
+  "PImpI": {
+    "1s": "palpava",
+    "2s": "palpavas",
+    "3s": "palpava",
+    "1p": "palpávamos",
+    "2p": "palpáveis",
+    "3p": "palpavam"
+  },
+  "PPSI": {
+    "1s": "palpei",
+    "2s": "palpaste",
+    "3s": "palpou",
+    "1p": "palpámos",
+    "2p": "palpastes",
+    "3p": "palparam"
+  },
+  "PMQPSI": {
+    "1s": "palpara",
+    "2s": "palparas",
+    "3s": "palpara",
+    "1p": "palpáramos",
+    "2p": "palpáreis",
+    "3p": "palparam"
+  },
+  "FutSI": {
+    "1s": "palparei",
+    "2s": "palparás",
+    "3s": "palpará",
+    "1p": "palparemos",
+    "2p": "palpareis",
+    "3p": "palparão"
+  },
+  "CondS": {
+    "1s": "palparia",
+    "2s": "palparias",
+    "3s": "palparia",
+    "1p": "palparíamos",
+    "2p": "palparíeis",
+    "3p": "palpariam"
+  },
+  "PresC": {
+    "1s": "palpe",
+    "2s": "palpes",
+    "3s": "palpe",
+    "1p": "palpemos",
+    "2p": "palpeis",
+    "3p": "palpem"
+  },
+  "PImpC": {
+    "1s": "palpasse",
+    "2s": "palpasses",
+    "3s": "palpasse",
+    "1p": "palpássemos",
+    "2p": "palpásseis",
+    "3p": "palpassem"
+  },
+  "FutSC": {
+    "1s": "palpar",
+    "2s": "palpares",
+    "3s": "palpar",
+    "1p": "palparmos",
+    "2p": "palpardes",
+    "3p": "palparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "palpa",
+    "3s": "palpe",
+    "1p": "palpemos",
+    "2p": "palpai",
+    "3p": "palpem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não palpes",
+    "3s": "não palpe",
+    "1p": "não palpemos",
+    "2p": "não palpeis",
+    "3p": "não palpem"
+  },
+  "Part-ter": {
+    "": "palpado"
+  },
+  "Part-ser": {
+    "ms": "palpado",
+    "fs": "palpada",
+    "mp": "palpados",
+    "fp": "palpadas"
+  }
+}

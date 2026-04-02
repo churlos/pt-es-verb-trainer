@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "relvar"
+  },
+  "InfP": {
+    "1s": "relvar",
+    "2s": "relvares",
+    "3s": "relvar",
+    "1p": "relvarmos",
+    "2p": "relvardes",
+    "3p": "relvarem"
+  },
+  "Ger": {
+    "": "relvando"
+  },
+  "PresI": {
+    "1s": "relvo",
+    "2s": "relvas",
+    "3s": "relva",
+    "1p": "relvamos",
+    "2p": "relvais",
+    "3p": "relvam"
+  },
+  "PImpI": {
+    "1s": "relvava",
+    "2s": "relvavas",
+    "3s": "relvava",
+    "1p": "relvávamos",
+    "2p": "relváveis",
+    "3p": "relvavam"
+  },
+  "PPSI": {
+    "1s": "relvei",
+    "2s": "relvaste",
+    "3s": "relvou",
+    "1p": "relvámos",
+    "2p": "relvastes",
+    "3p": "relvaram"
+  },
+  "PMQPSI": {
+    "1s": "relvara",
+    "2s": "relvaras",
+    "3s": "relvara",
+    "1p": "relváramos",
+    "2p": "relváreis",
+    "3p": "relvaram"
+  },
+  "FutSI": {
+    "1s": "relvarei",
+    "2s": "relvarás",
+    "3s": "relvará",
+    "1p": "relvaremos",
+    "2p": "relvareis",
+    "3p": "relvarão"
+  },
+  "CondS": {
+    "1s": "relvaria",
+    "2s": "relvarias",
+    "3s": "relvaria",
+    "1p": "relvaríamos",
+    "2p": "relvaríeis",
+    "3p": "relvariam"
+  },
+  "PresC": {
+    "1s": "relve",
+    "2s": "relves",
+    "3s": "relve",
+    "1p": "relvemos",
+    "2p": "relveis",
+    "3p": "relvem"
+  },
+  "PImpC": {
+    "1s": "relvasse",
+    "2s": "relvasses",
+    "3s": "relvasse",
+    "1p": "relvássemos",
+    "2p": "relvásseis",
+    "3p": "relvassem"
+  },
+  "FutSC": {
+    "1s": "relvar",
+    "2s": "relvares",
+    "3s": "relvar",
+    "1p": "relvarmos",
+    "2p": "relvardes",
+    "3p": "relvarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "relva",
+    "3s": "relve",
+    "1p": "relvemos",
+    "2p": "relvai",
+    "3p": "relvem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não relves",
+    "3s": "não relve",
+    "1p": "não relvemos",
+    "2p": "não relveis",
+    "3p": "não relvem"
+  },
+  "Part-ter": {
+    "": "relvado"
+  },
+  "Part-ser": {
+    "ms": "relvado",
+    "fs": "relvada",
+    "mp": "relvados",
+    "fp": "relvadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "iterar"
+  },
+  "Ger": {
+    "": "iterando"
+  },
+  "PresI": {
+    "1s": "itero",
+    "2s": "iteras",
+    "3s": "itera",
+    "1p": "iteramos",
+    "2p": "iteráis",
+    "3p": "iteran"
+  },
+  "PImpI": {
+    "1s": "iteraba",
+    "2s": "iterabas",
+    "3s": "iteraba",
+    "1p": "iterábamos",
+    "2p": "iterabais",
+    "3p": "iteraban"
+  },
+  "PPSI": {
+    "1s": "iteré",
+    "2s": "iteraste",
+    "3s": "iteró",
+    "1p": "iteramos",
+    "2p": "iterasteis",
+    "3p": "iteraron"
+  },
+  "FutSI": {
+    "1s": "iteraré",
+    "2s": "iterarás",
+    "3s": "iterará",
+    "1p": "iteraremos",
+    "2p": "iteraréis",
+    "3p": "iterarán"
+  },
+  "CondS": {
+    "1s": "iteraría",
+    "2s": "iterarías",
+    "3s": "iteraría",
+    "1p": "iteraríamos",
+    "2p": "iteraríais",
+    "3p": "iterarían"
+  },
+  "PresC": {
+    "1s": "itere",
+    "2s": "iteres",
+    "3s": "itere",
+    "1p": "iteremos",
+    "2p": "iteréis",
+    "3p": "iteren"
+  },
+  "PMQPSI": {
+    "1s": "iterara",
+    "2s": "iteraras",
+    "3s": "iterara",
+    "1p": "iteráramos",
+    "2p": "iterarais",
+    "3p": "iteraran"
+  },
+  "PImpC": {
+    "1s": "iterase",
+    "2s": "iterases",
+    "3s": "iterase",
+    "1p": "iterásemos",
+    "2p": "iteraseis",
+    "3p": "iterasen"
+  },
+  "FutSC": {
+    "1s": "iterare",
+    "2s": "iterares",
+    "3s": "iterare",
+    "1p": "iteráremos",
+    "2p": "iterareis",
+    "3p": "iteraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "itera",
+    "3s": "itere",
+    "1p": "iteremos",
+    "2p": "iterad",
+    "3p": "iteren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no iteres",
+    "3s": "no itere",
+    "1p": "no iteremos",
+    "2p": "no iteréis",
+    "3p": "no iteren"
+  },
+  "Part-ter": {
+    "": "iterado"
+  },
+  "Part-ser": {
+    "ms": "iterado",
+    "fs": "iterada",
+    "mp": "iterados",
+    "fp": "iteradas"
+  }
+}

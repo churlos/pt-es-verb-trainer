@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "comprar"
+  },
+  "InfP": {
+    "1s": "comprar",
+    "2s": "comprares",
+    "3s": "comprar",
+    "1p": "comprarmos",
+    "2p": "comprardes",
+    "3p": "comprarem"
+  },
+  "Ger": {
+    "": "comprando"
+  },
+  "PresI": {
+    "1s": "compro",
+    "2s": "compras",
+    "3s": "compra",
+    "1p": "compramos",
+    "2p": "comprais",
+    "3p": "compram"
+  },
+  "PImpI": {
+    "1s": "comprava",
+    "2s": "compravas",
+    "3s": "comprava",
+    "1p": "comprávamos",
+    "2p": "compráveis",
+    "3p": "compravam"
+  },
+  "PPSI": {
+    "1s": "comprei",
+    "2s": "compraste",
+    "3s": "comprou",
+    "1p": "comprámos",
+    "2p": "comprastes",
+    "3p": "compraram"
+  },
+  "PMQPSI": {
+    "1s": "comprara",
+    "2s": "compraras",
+    "3s": "comprara",
+    "1p": "compráramos",
+    "2p": "compráreis",
+    "3p": "compraram"
+  },
+  "FutSI": {
+    "1s": "comprarei",
+    "2s": "comprarás",
+    "3s": "comprará",
+    "1p": "compraremos",
+    "2p": "comprareis",
+    "3p": "comprarão"
+  },
+  "CondS": {
+    "1s": "compraria",
+    "2s": "comprarias",
+    "3s": "compraria",
+    "1p": "compraríamos",
+    "2p": "compraríeis",
+    "3p": "comprariam"
+  },
+  "PresC": {
+    "1s": "compre",
+    "2s": "compres",
+    "3s": "compre",
+    "1p": "compremos",
+    "2p": "compreis",
+    "3p": "comprem"
+  },
+  "PImpC": {
+    "1s": "comprasse",
+    "2s": "comprasses",
+    "3s": "comprasse",
+    "1p": "comprássemos",
+    "2p": "comprásseis",
+    "3p": "comprassem"
+  },
+  "FutSC": {
+    "1s": "comprar",
+    "2s": "comprares",
+    "3s": "comprar",
+    "1p": "comprarmos",
+    "2p": "comprardes",
+    "3p": "comprarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compra",
+    "3s": "compre",
+    "1p": "compremos",
+    "2p": "comprai",
+    "3p": "comprem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não compres",
+    "3s": "não compre",
+    "1p": "não compremos",
+    "2p": "não compreis",
+    "3p": "não comprem"
+  },
+  "Part-ter": {
+    "": "comprado"
+  },
+  "Part-ser": {
+    "ms": "comprado",
+    "fs": "comprada",
+    "mp": "comprados",
+    "fp": "compradas"
+  }
+}

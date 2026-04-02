@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "traçar"
+  },
+  "InfP": {
+    "1s": "traçar",
+    "2s": "traçares",
+    "3s": "traçar",
+    "1p": "traçarmos",
+    "2p": "traçardes",
+    "3p": "traçarem"
+  },
+  "Ger": {
+    "": "traçando"
+  },
+  "PresI": {
+    "1s": "traço",
+    "2s": "traças",
+    "3s": "traça",
+    "1p": "traçamos",
+    "2p": "traçais",
+    "3p": "traçam"
+  },
+  "PImpI": {
+    "1s": "traçava",
+    "2s": "traçavas",
+    "3s": "traçava",
+    "1p": "traçávamos",
+    "2p": "traçáveis",
+    "3p": "traçavam"
+  },
+  "PPSI": {
+    "1s": "traçei",
+    "2s": "traçaste",
+    "3s": "traçou",
+    "1p": "traçámos",
+    "2p": "traçastes",
+    "3p": "traçaram"
+  },
+  "PMQPSI": {
+    "1s": "traçara",
+    "2s": "traçaras",
+    "3s": "traçara",
+    "1p": "traçáramos",
+    "2p": "traçáreis",
+    "3p": "traçaram"
+  },
+  "FutSI": {
+    "1s": "traçarei",
+    "2s": "traçarás",
+    "3s": "traçará",
+    "1p": "traçaremos",
+    "2p": "traçareis",
+    "3p": "traçarão"
+  },
+  "CondS": {
+    "1s": "traçaria",
+    "2s": "traçarias",
+    "3s": "traçaria",
+    "1p": "traçaríamos",
+    "2p": "traçaríeis",
+    "3p": "traçariam"
+  },
+  "PresC": {
+    "1s": "traçe",
+    "2s": "traçes",
+    "3s": "traçe",
+    "1p": "traçemos",
+    "2p": "traçeis",
+    "3p": "traçem"
+  },
+  "PImpC": {
+    "1s": "traçasse",
+    "2s": "traçasses",
+    "3s": "traçasse",
+    "1p": "traçássemos",
+    "2p": "traçásseis",
+    "3p": "traçassem"
+  },
+  "FutSC": {
+    "1s": "traçar",
+    "2s": "traçares",
+    "3s": "traçar",
+    "1p": "traçarmos",
+    "2p": "traçardes",
+    "3p": "traçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "traça",
+    "3s": "traçe",
+    "1p": "traçemos",
+    "2p": "traçai",
+    "3p": "traçem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não traçes",
+    "3s": "não traçe",
+    "1p": "não traçemos",
+    "2p": "não traçeis",
+    "3p": "não traçem"
+  },
+  "Part-ter": {
+    "": "traçado"
+  },
+  "Part-ser": {
+    "ms": "traçado",
+    "fs": "traçada",
+    "mp": "traçados",
+    "fp": "traçadas"
+  }
+}

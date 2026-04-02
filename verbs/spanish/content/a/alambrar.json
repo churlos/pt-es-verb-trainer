@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alambrar"
+  },
+  "Ger": {
+    "": "alambrando"
+  },
+  "PresI": {
+    "1s": "alambro",
+    "2s": "alambras",
+    "3s": "alambra",
+    "1p": "alambramos",
+    "2p": "alambráis",
+    "3p": "alambran"
+  },
+  "PImpI": {
+    "1s": "alambraba",
+    "2s": "alambrabas",
+    "3s": "alambraba",
+    "1p": "alambrábamos",
+    "2p": "alambrabais",
+    "3p": "alambraban"
+  },
+  "PPSI": {
+    "1s": "alambré",
+    "2s": "alambraste",
+    "3s": "alambró",
+    "1p": "alambramos",
+    "2p": "alambrasteis",
+    "3p": "alambraron"
+  },
+  "FutSI": {
+    "1s": "alambraré",
+    "2s": "alambrarás",
+    "3s": "alambrará",
+    "1p": "alambraremos",
+    "2p": "alambraréis",
+    "3p": "alambrarán"
+  },
+  "CondS": {
+    "1s": "alambraría",
+    "2s": "alambrarías",
+    "3s": "alambraría",
+    "1p": "alambraríamos",
+    "2p": "alambraríais",
+    "3p": "alambrarían"
+  },
+  "PresC": {
+    "1s": "alambre",
+    "2s": "alambres",
+    "3s": "alambre",
+    "1p": "alambremos",
+    "2p": "alambréis",
+    "3p": "alambren"
+  },
+  "PMQPSI": {
+    "1s": "alambrara",
+    "2s": "alambraras",
+    "3s": "alambrara",
+    "1p": "alambráramos",
+    "2p": "alambrarais",
+    "3p": "alambraran"
+  },
+  "PImpC": {
+    "1s": "alambrase",
+    "2s": "alambrases",
+    "3s": "alambrase",
+    "1p": "alambrásemos",
+    "2p": "alambraseis",
+    "3p": "alambrasen"
+  },
+  "FutSC": {
+    "1s": "alambrare",
+    "2s": "alambrares",
+    "3s": "alambrare",
+    "1p": "alambráremos",
+    "2p": "alambrareis",
+    "3p": "alambraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alambra",
+    "3s": "alambre",
+    "1p": "alambremos",
+    "2p": "alambrad",
+    "3p": "alambren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alambres",
+    "3s": "no alambre",
+    "1p": "no alambremos",
+    "2p": "no alambréis",
+    "3p": "no alambren"
+  },
+  "Part-ter": {
+    "": "alambrado"
+  },
+  "Part-ser": {
+    "ms": "alambrado",
+    "fs": "alambrada",
+    "mp": "alambrados",
+    "fp": "alambradas"
+  }
+}

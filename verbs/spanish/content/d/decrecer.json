@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "decrecer"
+  },
+  "Ger": {
+    "": "decreciendo"
+  },
+  "PresI": {
+    "1s": "decrezco",
+    "2s": "decreces",
+    "3s": "decrece",
+    "1p": "decrecemos",
+    "2p": "decrecéis",
+    "3p": "decrecen"
+  },
+  "PImpI": {
+    "1s": "decrecía",
+    "2s": "decrecías",
+    "3s": "decrecía",
+    "1p": "decrecíamos",
+    "2p": "decrecíais",
+    "3p": "decrecían"
+  },
+  "PPSI": {
+    "1s": "decrecí",
+    "2s": "decreciste",
+    "3s": "decreció",
+    "1p": "decrecimos",
+    "2p": "decrecisteis",
+    "3p": "decrecieron"
+  },
+  "FutSI": {
+    "1s": "decreceré",
+    "2s": "decrecerás",
+    "3s": "decrecerá",
+    "1p": "decreceremos",
+    "2p": "decreceréis",
+    "3p": "decrecerán"
+  },
+  "CondS": {
+    "1s": "decrecería",
+    "2s": "decrecerías",
+    "3s": "decrecería",
+    "1p": "decreceríamos",
+    "2p": "decreceríais",
+    "3p": "decrecerían"
+  },
+  "PresC": {
+    "1s": "decrezca",
+    "2s": "decrezcas",
+    "3s": "decrezca",
+    "1p": "decrezcamos",
+    "2p": "decrezcáis",
+    "3p": "decrezcan"
+  },
+  "PMQPSI": {
+    "1s": "decreciera",
+    "2s": "decrecieras",
+    "3s": "decreciera",
+    "1p": "decreciéramos",
+    "2p": "decrecierais",
+    "3p": "decrecieran"
+  },
+  "PImpC": {
+    "1s": "decreciese",
+    "2s": "decrecieses",
+    "3s": "decreciese",
+    "1p": "decreciésemos",
+    "2p": "decrecieseis",
+    "3p": "decreciesen"
+  },
+  "FutSC": {
+    "1s": "decreciere",
+    "2s": "decrecieres",
+    "3s": "decreciere",
+    "1p": "decreciéremos",
+    "2p": "decreciereis",
+    "3p": "decrecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decrece",
+    "3s": "decrezca",
+    "1p": "decrezcamos",
+    "2p": "decreced",
+    "3p": "decrezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no decrezcas",
+    "3s": "no decrezca",
+    "1p": "no decrezcamos",
+    "2p": "no decrezcáis",
+    "3p": "no decrezcan"
+  },
+  "Part-ter": {
+    "": "decrecido"
+  },
+  "Part-ser": {
+    "ms": "decrecido",
+    "fs": "decrecida",
+    "mp": "decrecidos",
+    "fp": "decrecidas"
+  }
+}

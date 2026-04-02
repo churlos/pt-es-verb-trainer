@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "quedar"
+  },
+  "InfP": {
+    "1s": "quedar",
+    "2s": "quedares",
+    "3s": "quedar",
+    "1p": "quedarmos",
+    "2p": "quedardes",
+    "3p": "quedarem"
+  },
+  "Ger": {
+    "": "quedando"
+  },
+  "PresI": {
+    "1s": "quedo",
+    "2s": "quedas",
+    "3s": "queda",
+    "1p": "quedamos",
+    "2p": "quedais",
+    "3p": "quedam"
+  },
+  "PImpI": {
+    "1s": "quedava",
+    "2s": "quedavas",
+    "3s": "quedava",
+    "1p": "quedávamos",
+    "2p": "quedáveis",
+    "3p": "quedavam"
+  },
+  "PPSI": {
+    "1s": "quedei",
+    "2s": "quedaste",
+    "3s": "quedou",
+    "1p": "quedámos",
+    "2p": "quedastes",
+    "3p": "quedaram"
+  },
+  "PMQPSI": {
+    "1s": "quedara",
+    "2s": "quedaras",
+    "3s": "quedara",
+    "1p": "quedáramos",
+    "2p": "quedáreis",
+    "3p": "quedaram"
+  },
+  "FutSI": {
+    "1s": "quedarei",
+    "2s": "quedarás",
+    "3s": "quedará",
+    "1p": "quedaremos",
+    "2p": "quedareis",
+    "3p": "quedarão"
+  },
+  "CondS": {
+    "1s": "quedaria",
+    "2s": "quedarias",
+    "3s": "quedaria",
+    "1p": "quedaríamos",
+    "2p": "quedaríeis",
+    "3p": "quedariam"
+  },
+  "PresC": {
+    "1s": "quede",
+    "2s": "quedes",
+    "3s": "quede",
+    "1p": "quedemos",
+    "2p": "quedeis",
+    "3p": "quedem"
+  },
+  "PImpC": {
+    "1s": "quedasse",
+    "2s": "quedasses",
+    "3s": "quedasse",
+    "1p": "quedássemos",
+    "2p": "quedásseis",
+    "3p": "quedassem"
+  },
+  "FutSC": {
+    "1s": "quedar",
+    "2s": "quedares",
+    "3s": "quedar",
+    "1p": "quedarmos",
+    "2p": "quedardes",
+    "3p": "quedarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "queda",
+    "3s": "quede",
+    "1p": "quedemos",
+    "2p": "quedai",
+    "3p": "quedem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não quedes",
+    "3s": "não quede",
+    "1p": "não quedemos",
+    "2p": "não quedeis",
+    "3p": "não quedem"
+  },
+  "Part-ter": {
+    "": "quedado"
+  },
+  "Part-ser": {
+    "ms": "quedado",
+    "fs": "quedada",
+    "mp": "quedados",
+    "fp": "quedadas"
+  }
+}

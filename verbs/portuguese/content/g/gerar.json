@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gerar"
+  },
+  "InfP": {
+    "1s": "gerar",
+    "2s": "gerares",
+    "3s": "gerar",
+    "1p": "gerarmos",
+    "2p": "gerardes",
+    "3p": "gerarem"
+  },
+  "Ger": {
+    "": "gerando"
+  },
+  "PresI": {
+    "1s": "gero",
+    "2s": "geras",
+    "3s": "gera",
+    "1p": "geramos",
+    "2p": "gerais",
+    "3p": "geram"
+  },
+  "PImpI": {
+    "1s": "gerava",
+    "2s": "geravas",
+    "3s": "gerava",
+    "1p": "gerávamos",
+    "2p": "geráveis",
+    "3p": "geravam"
+  },
+  "PPSI": {
+    "1s": "gerei",
+    "2s": "geraste",
+    "3s": "gerou",
+    "1p": "gerámos",
+    "2p": "gerastes",
+    "3p": "geraram"
+  },
+  "PMQPSI": {
+    "1s": "gerara",
+    "2s": "geraras",
+    "3s": "gerara",
+    "1p": "geráramos",
+    "2p": "geráreis",
+    "3p": "geraram"
+  },
+  "FutSI": {
+    "1s": "gerarei",
+    "2s": "gerarás",
+    "3s": "gerará",
+    "1p": "geraremos",
+    "2p": "gerareis",
+    "3p": "gerarão"
+  },
+  "CondS": {
+    "1s": "geraria",
+    "2s": "gerarias",
+    "3s": "geraria",
+    "1p": "geraríamos",
+    "2p": "geraríeis",
+    "3p": "gerariam"
+  },
+  "PresC": {
+    "1s": "gere",
+    "2s": "geres",
+    "3s": "gere",
+    "1p": "geremos",
+    "2p": "gereis",
+    "3p": "gerem"
+  },
+  "PImpC": {
+    "1s": "gerasse",
+    "2s": "gerasses",
+    "3s": "gerasse",
+    "1p": "gerássemos",
+    "2p": "gerásseis",
+    "3p": "gerassem"
+  },
+  "FutSC": {
+    "1s": "gerar",
+    "2s": "gerares",
+    "3s": "gerar",
+    "1p": "gerarmos",
+    "2p": "gerardes",
+    "3p": "gerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gera",
+    "3s": "gere",
+    "1p": "geremos",
+    "2p": "gerai",
+    "3p": "gerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não geres",
+    "3s": "não gere",
+    "1p": "não geremos",
+    "2p": "não gereis",
+    "3p": "não gerem"
+  },
+  "Part-ter": {
+    "": "gerado"
+  },
+  "Part-ser": {
+    "ms": "gerado",
+    "fs": "gerada",
+    "mp": "gerados",
+    "fp": "geradas"
+  }
+}

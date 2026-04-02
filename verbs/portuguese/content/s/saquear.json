@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "saquear"
+  },
+  "InfP": {
+    "1s": "saquear",
+    "2s": "saqueares",
+    "3s": "saquear",
+    "1p": "saquearmos",
+    "2p": "saqueardes",
+    "3p": "saquearem"
+  },
+  "Ger": {
+    "": "saqueando"
+  },
+  "PresI": {
+    "1s": "saqueio",
+    "2s": "saqueias",
+    "3s": "saqueia",
+    "1p": "saqueamos",
+    "2p": "saqueais",
+    "3p": "saqueiam"
+  },
+  "PImpI": {
+    "1s": "saqueava",
+    "2s": "saqueavas",
+    "3s": "saqueava",
+    "1p": "saqueávamos",
+    "2p": "saqueáveis",
+    "3p": "saqueavam"
+  },
+  "PPSI": {
+    "1s": "saqueei",
+    "2s": "saqueaste",
+    "3s": "saqueou",
+    "1p": "saqueámos",
+    "2p": "saqueastes",
+    "3p": "saquearam"
+  },
+  "PMQPSI": {
+    "1s": "saqueara",
+    "2s": "saquearas",
+    "3s": "saqueara",
+    "1p": "saqueáramos",
+    "2p": "saqueáreis",
+    "3p": "saquearam"
+  },
+  "FutSI": {
+    "1s": "saquearei",
+    "2s": "saquearás",
+    "3s": "saqueará",
+    "1p": "saquearemos",
+    "2p": "saqueareis",
+    "3p": "saquearão"
+  },
+  "CondS": {
+    "1s": "saquearia",
+    "2s": "saquearias",
+    "3s": "saquearia",
+    "1p": "saquearíamos",
+    "2p": "saquearíeis",
+    "3p": "saqueariam"
+  },
+  "PresC": {
+    "1s": "saqueie",
+    "2s": "saqueies",
+    "3s": "saqueie",
+    "1p": "saqueemos",
+    "2p": "saqueeis",
+    "3p": "saqueiem"
+  },
+  "PImpC": {
+    "1s": "saqueasse",
+    "2s": "saqueasses",
+    "3s": "saqueasse",
+    "1p": "saqueássemos",
+    "2p": "saqueásseis",
+    "3p": "saqueassem"
+  },
+  "FutSC": {
+    "1s": "saquear",
+    "2s": "saqueares",
+    "3s": "saquear",
+    "1p": "saquearmos",
+    "2p": "saqueardes",
+    "3p": "saquearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saqueia",
+    "3s": "saqueie",
+    "1p": "saqueemos",
+    "2p": "saqueai",
+    "3p": "saqueiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saqueies",
+    "3s": "não saqueie",
+    "1p": "não saqueemos",
+    "2p": "não saqueeis",
+    "3p": "não saqueiem"
+  },
+  "Part-ter": {
+    "": "saqueado"
+  },
+  "Part-ser": {
+    "ms": "saqueado",
+    "fs": "saqueada",
+    "mp": "saqueados",
+    "fp": "saqueadas"
+  }
+}

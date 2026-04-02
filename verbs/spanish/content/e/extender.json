@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "extender"
+  },
+  "Ger": {
+    "": "extendiendo"
+  },
+  "PresI": {
+    "1s": "extiendo",
+    "2s": "extiendes",
+    "3s": "extiende",
+    "1p": "extendemos",
+    "2p": "extendéis",
+    "3p": "extienden"
+  },
+  "PImpI": {
+    "1s": "extendía",
+    "2s": "extendías",
+    "3s": "extendía",
+    "1p": "extendíamos",
+    "2p": "extendíais",
+    "3p": "extendían"
+  },
+  "PPSI": {
+    "1s": "extendí",
+    "2s": "extendiste",
+    "3s": "extendió",
+    "1p": "extendimos",
+    "2p": "extendisteis",
+    "3p": "extendieron"
+  },
+  "FutSI": {
+    "1s": "extenderé",
+    "2s": "extenderás",
+    "3s": "extenderá",
+    "1p": "extenderemos",
+    "2p": "extenderéis",
+    "3p": "extenderán"
+  },
+  "CondS": {
+    "1s": "extendería",
+    "2s": "extenderías",
+    "3s": "extendería",
+    "1p": "extenderíamos",
+    "2p": "extenderíais",
+    "3p": "extenderían"
+  },
+  "PresC": {
+    "1s": "extienda",
+    "2s": "extiendas",
+    "3s": "extienda",
+    "1p": "extendamos",
+    "2p": "extendáis",
+    "3p": "extiendan"
+  },
+  "PMQPSI": {
+    "1s": "extendiera",
+    "2s": "extendieras",
+    "3s": "extendiera",
+    "1p": "extendiéramos",
+    "2p": "extendierais",
+    "3p": "extendieran"
+  },
+  "PImpC": {
+    "1s": "extendiese",
+    "2s": "extendieses",
+    "3s": "extendiese",
+    "1p": "extendiésemos",
+    "2p": "extendieseis",
+    "3p": "extendiesen"
+  },
+  "FutSC": {
+    "1s": "extendiere",
+    "2s": "extendieres",
+    "3s": "extendiere",
+    "1p": "extendiéremos",
+    "2p": "extendiereis",
+    "3p": "extendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extiende",
+    "3s": "extienda",
+    "1p": "extendamos",
+    "2p": "extended",
+    "3p": "extiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no extiendas",
+    "3s": "no extienda",
+    "1p": "no extendamos",
+    "2p": "no extendáis",
+    "3p": "no extiendan"
+  },
+  "Part-ter": {
+    "": "extendido"
+  },
+  "Part-ser": {
+    "ms": "extendido",
+    "fs": "extendida",
+    "mp": "extendidos",
+    "fp": "extendidas"
+  }
+}

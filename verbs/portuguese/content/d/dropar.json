@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dropar"
+  },
+  "InfP": {
+    "1s": "dropar",
+    "2s": "dropares",
+    "3s": "dropar",
+    "1p": "droparmos",
+    "2p": "dropardes",
+    "3p": "droparem"
+  },
+  "Ger": {
+    "": "dropando"
+  },
+  "PresI": {
+    "1s": "dropo",
+    "2s": "dropas",
+    "3s": "dropa",
+    "1p": "dropamos",
+    "2p": "dropais",
+    "3p": "dropam"
+  },
+  "PImpI": {
+    "1s": "dropava",
+    "2s": "dropavas",
+    "3s": "dropava",
+    "1p": "dropávamos",
+    "2p": "dropáveis",
+    "3p": "dropavam"
+  },
+  "PPSI": {
+    "1s": "dropei",
+    "2s": "dropaste",
+    "3s": "dropou",
+    "1p": "dropámos",
+    "2p": "dropastes",
+    "3p": "droparam"
+  },
+  "PMQPSI": {
+    "1s": "dropara",
+    "2s": "droparas",
+    "3s": "dropara",
+    "1p": "dropáramos",
+    "2p": "dropáreis",
+    "3p": "droparam"
+  },
+  "FutSI": {
+    "1s": "droparei",
+    "2s": "droparás",
+    "3s": "dropará",
+    "1p": "droparemos",
+    "2p": "dropareis",
+    "3p": "droparão"
+  },
+  "CondS": {
+    "1s": "droparia",
+    "2s": "droparias",
+    "3s": "droparia",
+    "1p": "droparíamos",
+    "2p": "droparíeis",
+    "3p": "dropariam"
+  },
+  "PresC": {
+    "1s": "drope",
+    "2s": "dropes",
+    "3s": "drope",
+    "1p": "dropemos",
+    "2p": "dropeis",
+    "3p": "dropem"
+  },
+  "PImpC": {
+    "1s": "dropasse",
+    "2s": "dropasses",
+    "3s": "dropasse",
+    "1p": "dropássemos",
+    "2p": "dropásseis",
+    "3p": "dropassem"
+  },
+  "FutSC": {
+    "1s": "dropar",
+    "2s": "dropares",
+    "3s": "dropar",
+    "1p": "droparmos",
+    "2p": "dropardes",
+    "3p": "droparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dropa",
+    "3s": "drope",
+    "1p": "dropemos",
+    "2p": "dropai",
+    "3p": "dropem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dropes",
+    "3s": "não drope",
+    "1p": "não dropemos",
+    "2p": "não dropeis",
+    "3p": "não dropem"
+  },
+  "Part-ter": {
+    "": "dropado"
+  },
+  "Part-ser": {
+    "ms": "dropado",
+    "fs": "dropada",
+    "mp": "dropados",
+    "fp": "dropadas"
+  }
+}

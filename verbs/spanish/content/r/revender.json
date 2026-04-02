@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "revender"
+  },
+  "Ger": {
+    "": "revendiendo"
+  },
+  "PresI": {
+    "1s": "revendo",
+    "2s": "revendes",
+    "3s": "revende",
+    "1p": "revendemos",
+    "2p": "revendéis",
+    "3p": "revenden"
+  },
+  "PImpI": {
+    "1s": "revendía",
+    "2s": "revendías",
+    "3s": "revendía",
+    "1p": "revendíamos",
+    "2p": "revendíais",
+    "3p": "revendían"
+  },
+  "PPSI": {
+    "1s": "revendí",
+    "2s": "revendiste",
+    "3s": "revendió",
+    "1p": "revendimos",
+    "2p": "revendisteis",
+    "3p": "revendieron"
+  },
+  "FutSI": {
+    "1s": "revenderé",
+    "2s": "revenderás",
+    "3s": "revenderá",
+    "1p": "revenderemos",
+    "2p": "revenderéis",
+    "3p": "revenderán"
+  },
+  "CondS": {
+    "1s": "revendería",
+    "2s": "revenderías",
+    "3s": "revendería",
+    "1p": "revenderíamos",
+    "2p": "revenderíais",
+    "3p": "revenderían"
+  },
+  "PresC": {
+    "1s": "revenda",
+    "2s": "revendas",
+    "3s": "revenda",
+    "1p": "revendamos",
+    "2p": "revendáis",
+    "3p": "revendan"
+  },
+  "PMQPSI": {
+    "1s": "revendiera",
+    "2s": "revendieras",
+    "3s": "revendiera",
+    "1p": "revendiéramos",
+    "2p": "revendierais",
+    "3p": "revendieran"
+  },
+  "PImpC": {
+    "1s": "revendiese",
+    "2s": "revendieses",
+    "3s": "revendiese",
+    "1p": "revendiésemos",
+    "2p": "revendieseis",
+    "3p": "revendiesen"
+  },
+  "FutSC": {
+    "1s": "revendiere",
+    "2s": "revendieres",
+    "3s": "revendiere",
+    "1p": "revendiéremos",
+    "2p": "revendiereis",
+    "3p": "revendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revende",
+    "3s": "revenda",
+    "1p": "revendamos",
+    "2p": "revended",
+    "3p": "revendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no revendas",
+    "3s": "no revenda",
+    "1p": "no revendamos",
+    "2p": "no revendáis",
+    "3p": "no revendan"
+  },
+  "Part-ter": {
+    "": "revendido"
+  },
+  "Part-ser": {
+    "ms": "revendido",
+    "fs": "revendida",
+    "mp": "revendidos",
+    "fp": "revendidas"
+  }
+}

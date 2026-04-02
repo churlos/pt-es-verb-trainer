@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "listar"
+  },
+  "InfP": {
+    "1s": "listar",
+    "2s": "listares",
+    "3s": "listar",
+    "1p": "listarmos",
+    "2p": "listardes",
+    "3p": "listarem"
+  },
+  "Ger": {
+    "": "listando"
+  },
+  "PresI": {
+    "1s": "listo",
+    "2s": "listas",
+    "3s": "lista",
+    "1p": "listamos",
+    "2p": "listais",
+    "3p": "listam"
+  },
+  "PImpI": {
+    "1s": "listava",
+    "2s": "listavas",
+    "3s": "listava",
+    "1p": "listávamos",
+    "2p": "listáveis",
+    "3p": "listavam"
+  },
+  "PPSI": {
+    "1s": "listei",
+    "2s": "listaste",
+    "3s": "listou",
+    "1p": "listámos",
+    "2p": "listastes",
+    "3p": "listaram"
+  },
+  "PMQPSI": {
+    "1s": "listara",
+    "2s": "listaras",
+    "3s": "listara",
+    "1p": "listáramos",
+    "2p": "listáreis",
+    "3p": "listaram"
+  },
+  "FutSI": {
+    "1s": "listarei",
+    "2s": "listarás",
+    "3s": "listará",
+    "1p": "listaremos",
+    "2p": "listareis",
+    "3p": "listarão"
+  },
+  "CondS": {
+    "1s": "listaria",
+    "2s": "listarias",
+    "3s": "listaria",
+    "1p": "listaríamos",
+    "2p": "listaríeis",
+    "3p": "listariam"
+  },
+  "PresC": {
+    "1s": "liste",
+    "2s": "listes",
+    "3s": "liste",
+    "1p": "listemos",
+    "2p": "listeis",
+    "3p": "listem"
+  },
+  "PImpC": {
+    "1s": "listasse",
+    "2s": "listasses",
+    "3s": "listasse",
+    "1p": "listássemos",
+    "2p": "listásseis",
+    "3p": "listassem"
+  },
+  "FutSC": {
+    "1s": "listar",
+    "2s": "listares",
+    "3s": "listar",
+    "1p": "listarmos",
+    "2p": "listardes",
+    "3p": "listarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lista",
+    "3s": "liste",
+    "1p": "listemos",
+    "2p": "listai",
+    "3p": "listem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não listes",
+    "3s": "não liste",
+    "1p": "não listemos",
+    "2p": "não listeis",
+    "3p": "não listem"
+  },
+  "Part-ter": {
+    "": "listado"
+  },
+  "Part-ser": {
+    "ms": "listado",
+    "fs": "listada",
+    "mp": "listados",
+    "fp": "listadas"
+  }
+}

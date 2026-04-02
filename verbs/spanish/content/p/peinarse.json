@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "peinarse"
+  },
+  "Ger": {
+    "": "peinándose"
+  },
+  "PresI": {
+    "1s": "me peino",
+    "2s": "te peinas",
+    "3s": "se peina",
+    "1p": "nos peinamos",
+    "2p": "os peináis",
+    "3p": "se peinan"
+  },
+  "PImpI": {
+    "1s": "me peinaba",
+    "2s": "te peinabas",
+    "3s": "se peinaba",
+    "1p": "nos peinábamos",
+    "2p": "os peinabais",
+    "3p": "se peinaban"
+  },
+  "PPSI": {
+    "1s": "me peiné",
+    "2s": "te peinaste",
+    "3s": "se peinó",
+    "1p": "nos peinamos",
+    "2p": "os peinasteis",
+    "3p": "se peinaron"
+  },
+  "FutSI": {
+    "1s": "me peinaré",
+    "2s": "te peinarás",
+    "3s": "se peinará",
+    "1p": "nos peinaremos",
+    "2p": "os peinaréis",
+    "3p": "se peinarán"
+  },
+  "CondS": {
+    "1s": "me peinaría",
+    "2s": "te peinarías",
+    "3s": "se peinaría",
+    "1p": "nos peinaríamos",
+    "2p": "os peinaríais",
+    "3p": "se peinarían"
+  },
+  "PresC": {
+    "1s": "me peine",
+    "2s": "te peines",
+    "3s": "se peine",
+    "1p": "nos peinemos",
+    "2p": "os peinéis",
+    "3p": "se peinen"
+  },
+  "PMQPSI": {
+    "1s": "me peinara",
+    "2s": "te peinaras",
+    "3s": "se peinara",
+    "1p": "nos peináramos",
+    "2p": "os peinarais",
+    "3p": "se peinaran"
+  },
+  "PImpC": {
+    "1s": "me peinase",
+    "2s": "te peinases",
+    "3s": "se peinase",
+    "1p": "nos peinásemos",
+    "2p": "os peinaseis",
+    "3p": "se peinasen"
+  },
+  "FutSC": {
+    "1s": "me peinare",
+    "2s": "te peinares",
+    "3s": "se peinare",
+    "1p": "nos peináremos",
+    "2p": "os peinareis",
+    "3p": "se peinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "peínate",
+    "3s": "peínese",
+    "1p": "peinémonos",
+    "2p": "peinaos",
+    "3p": "peínense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te peines",
+    "3s": "no se peine",
+    "1p": "no nos peinemos",
+    "2p": "no os peinéis",
+    "3p": "no se peinen"
+  },
+  "Part-ter": {
+    "": "peinado"
+  },
+  "Part-ser": {
+    "ms": "peinado",
+    "fs": "peinada",
+    "mp": "peinados",
+    "fp": "peinadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "prescrever"
+  },
+  "InfP": {
+    "1s": "prescrever",
+    "2s": "prescreveres",
+    "3s": "prescrever",
+    "1p": "prescrevermos",
+    "2p": "prescreverdes",
+    "3p": "prescreverem"
+  },
+  "Ger": {
+    "": "prescrevendo"
+  },
+  "PresI": {
+    "1s": "prescrevo",
+    "2s": "prescreves",
+    "3s": "prescreve",
+    "1p": "prescrevemos",
+    "2p": "prescreveis",
+    "3p": "prescrevem"
+  },
+  "PImpI": {
+    "1s": "prescrevia",
+    "2s": "prescrevias",
+    "3s": "prescrevia",
+    "1p": "prescrevíamos",
+    "2p": "prescrevíeis",
+    "3p": "prescreviam"
+  },
+  "PPSI": {
+    "1s": "prescrevi",
+    "2s": "prescreveste",
+    "3s": "prescreveu",
+    "1p": "prescrevemos",
+    "2p": "prescrevestes",
+    "3p": "prescreveram"
+  },
+  "PMQPSI": {
+    "1s": "prescrevera",
+    "2s": "prescreveras",
+    "3s": "prescrevera",
+    "1p": "prescrevêramos",
+    "2p": "prescrevêreis",
+    "3p": "prescreveram"
+  },
+  "FutSI": {
+    "1s": "prescreverei",
+    "2s": "prescreverás",
+    "3s": "prescreverá",
+    "1p": "prescreveremos",
+    "2p": "prescrevereis",
+    "3p": "prescreverão"
+  },
+  "CondS": {
+    "1s": "prescreveria",
+    "2s": "prescreverias",
+    "3s": "prescreveria",
+    "1p": "prescreveríamos",
+    "2p": "prescreveríeis",
+    "3p": "prescreveriam"
+  },
+  "PresC": {
+    "1s": "prescreva",
+    "2s": "prescrevas",
+    "3s": "prescreva",
+    "1p": "prescrevamos",
+    "2p": "prescrevais",
+    "3p": "prescrevam"
+  },
+  "PImpC": {
+    "1s": "prescrevesse",
+    "2s": "prescrevesses",
+    "3s": "prescrevesse",
+    "1p": "prescrevêssemos",
+    "2p": "prescrevêsseis",
+    "3p": "prescrevessem"
+  },
+  "FutSC": {
+    "1s": "prescrever",
+    "2s": "prescreveres",
+    "3s": "prescrever",
+    "1p": "prescrevermos",
+    "2p": "prescreverdes",
+    "3p": "prescreverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "prescreve",
+    "3s": "prescreva",
+    "1p": "prescrevamos",
+    "2p": "prescrevei",
+    "3p": "prescrevam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não prescrevas",
+    "3s": "não prescreva",
+    "1p": "não prescrevamos",
+    "2p": "não prescrevais",
+    "3p": "não prescrevam"
+  },
+  "Part-ter": {
+    "": "prescrito"
+  },
+  "Part-ser": {
+    "ms": "prescrito",
+    "fs": "prescrita",
+    "mp": "prescritos",
+    "fp": "prescritas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abraçar"
+  },
+  "InfP": {
+    "1s": "abraçar",
+    "2s": "abraçares",
+    "3s": "abraçar",
+    "1p": "abraçarmos",
+    "2p": "abraçardes",
+    "3p": "abraçarem"
+  },
+  "Ger": {
+    "": "abraçando"
+  },
+  "PresI": {
+    "1s": "abraço",
+    "2s": "abraças",
+    "3s": "abraça",
+    "1p": "abraçamos",
+    "2p": "abraçais",
+    "3p": "abraçam"
+  },
+  "PImpI": {
+    "1s": "abraçava",
+    "2s": "abraçavas",
+    "3s": "abraçava",
+    "1p": "abraçávamos",
+    "2p": "abraçáveis",
+    "3p": "abraçavam"
+  },
+  "PPSI": {
+    "1s": "abracei",
+    "2s": "abraçaste",
+    "3s": "abraçou",
+    "1p": "abraçámos",
+    "2p": "abraçastes",
+    "3p": "abraçaram"
+  },
+  "PMQPSI": {
+    "1s": "abraçara",
+    "2s": "abraçaras",
+    "3s": "abraçara",
+    "1p": "abraçáramos",
+    "2p": "abraçáreis",
+    "3p": "abraçaram"
+  },
+  "FutSI": {
+    "1s": "abraçarei",
+    "2s": "abraçarás",
+    "3s": "abraçará",
+    "1p": "abraçaremos",
+    "2p": "abraçareis",
+    "3p": "abraçarão"
+  },
+  "CondS": {
+    "1s": "abraçaria",
+    "2s": "abraçarias",
+    "3s": "abraçaria",
+    "1p": "abraçaríamos",
+    "2p": "abraçaríeis",
+    "3p": "abraçariam"
+  },
+  "PresC": {
+    "1s": "abrace",
+    "2s": "abraces",
+    "3s": "abrace",
+    "1p": "abracemos",
+    "2p": "abraceis",
+    "3p": "abracem"
+  },
+  "PImpC": {
+    "1s": "abraçasse",
+    "2s": "abraçasses",
+    "3s": "abraçasse",
+    "1p": "abraçássemos",
+    "2p": "abraçásseis",
+    "3p": "abraçassem"
+  },
+  "FutSC": {
+    "1s": "abraçar",
+    "2s": "abraçares",
+    "3s": "abraçar",
+    "1p": "abraçarmos",
+    "2p": "abraçardes",
+    "3p": "abraçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abraça",
+    "3s": "abrace",
+    "1p": "abracemos",
+    "2p": "abraçai",
+    "3p": "abracem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abraces",
+    "3s": "não abrace",
+    "1p": "não abracemos",
+    "2p": "não abraceis",
+    "3p": "não abracem"
+  },
+  "Part-ter": {
+    "": "abraçado"
+  },
+  "Part-ser": {
+    "ms": "abraçado",
+    "fs": "abraçada",
+    "mp": "abraçados",
+    "fp": "abraçadas"
+  }
+}

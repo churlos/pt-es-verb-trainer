@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "valorar"
+  },
+  "InfP": {
+    "1s": "valorar",
+    "2s": "valorares",
+    "3s": "valorar",
+    "1p": "valorarmos",
+    "2p": "valorardes",
+    "3p": "valorarem"
+  },
+  "Ger": {
+    "": "valorando"
+  },
+  "PresI": {
+    "1s": "valoro",
+    "2s": "valoras",
+    "3s": "valora",
+    "1p": "valoramos",
+    "2p": "valorais",
+    "3p": "valoram"
+  },
+  "PImpI": {
+    "1s": "valorava",
+    "2s": "valoravas",
+    "3s": "valorava",
+    "1p": "valorávamos",
+    "2p": "valoráveis",
+    "3p": "valoravam"
+  },
+  "PPSI": {
+    "1s": "valorei",
+    "2s": "valoraste",
+    "3s": "valorou",
+    "1p": "valorámos",
+    "2p": "valorastes",
+    "3p": "valoraram"
+  },
+  "PMQPSI": {
+    "1s": "valorara",
+    "2s": "valoraras",
+    "3s": "valorara",
+    "1p": "valoráramos",
+    "2p": "valoráreis",
+    "3p": "valoraram"
+  },
+  "FutSI": {
+    "1s": "valorarei",
+    "2s": "valorarás",
+    "3s": "valorará",
+    "1p": "valoraremos",
+    "2p": "valorareis",
+    "3p": "valorarão"
+  },
+  "CondS": {
+    "1s": "valoraria",
+    "2s": "valorarias",
+    "3s": "valoraria",
+    "1p": "valoraríamos",
+    "2p": "valoraríeis",
+    "3p": "valorariam"
+  },
+  "PresC": {
+    "1s": "valore",
+    "2s": "valores",
+    "3s": "valore",
+    "1p": "valoremos",
+    "2p": "valoreis",
+    "3p": "valorem"
+  },
+  "PImpC": {
+    "1s": "valorasse",
+    "2s": "valorasses",
+    "3s": "valorasse",
+    "1p": "valorássemos",
+    "2p": "valorásseis",
+    "3p": "valorassem"
+  },
+  "FutSC": {
+    "1s": "valorar",
+    "2s": "valorares",
+    "3s": "valorar",
+    "1p": "valorarmos",
+    "2p": "valorardes",
+    "3p": "valorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "valora",
+    "3s": "valore",
+    "1p": "valoremos",
+    "2p": "valorai",
+    "3p": "valorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não valores",
+    "3s": "não valore",
+    "1p": "não valoremos",
+    "2p": "não valoreis",
+    "3p": "não valorem"
+  },
+  "Part-ter": {
+    "": "valorado"
+  },
+  "Part-ser": {
+    "ms": "valorado",
+    "fs": "valorada",
+    "mp": "valorados",
+    "fp": "valoradas"
+  }
+}

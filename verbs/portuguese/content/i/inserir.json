@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inserir"
+  },
+  "InfP": {
+    "1s": "inserir",
+    "2s": "inserires",
+    "3s": "inserir",
+    "1p": "inserirmos",
+    "2p": "inserirdes",
+    "3p": "inserirem"
+  },
+  "Ger": {
+    "": "inserindo"
+  },
+  "PresI": {
+    "1s": "insiro",
+    "2s": "inseres",
+    "3s": "insere",
+    "1p": "inserimos",
+    "2p": "inseris",
+    "3p": "inserem"
+  },
+  "PImpI": {
+    "1s": "inseria",
+    "2s": "inserias",
+    "3s": "inseria",
+    "1p": "inseríamos",
+    "2p": "inseríeis",
+    "3p": "inseriam"
+  },
+  "PPSI": {
+    "1s": "inseri",
+    "2s": "inseriste",
+    "3s": "inseriu",
+    "1p": "inserimos",
+    "2p": "inseristes",
+    "3p": "inseriram"
+  },
+  "PMQPSI": {
+    "1s": "inserira",
+    "2s": "inseriras",
+    "3s": "inserira",
+    "1p": "inseríramos",
+    "2p": "inseríreis",
+    "3p": "inseriram"
+  },
+  "FutSI": {
+    "1s": "inserirei",
+    "2s": "inserirás",
+    "3s": "inserirá",
+    "1p": "inseriremos",
+    "2p": "inserireis",
+    "3p": "inserirão"
+  },
+  "CondS": {
+    "1s": "inseriria",
+    "2s": "inseririas",
+    "3s": "inseriria",
+    "1p": "inseriríamos",
+    "2p": "inseriríeis",
+    "3p": "inseririam"
+  },
+  "PresC": {
+    "1s": "insira",
+    "2s": "insiras",
+    "3s": "insira",
+    "1p": "insiramos",
+    "2p": "insirais",
+    "3p": "insiram"
+  },
+  "PImpC": {
+    "1s": "inserisse",
+    "2s": "inserisses",
+    "3s": "inserisse",
+    "1p": "inseríssemos",
+    "2p": "inserísseis",
+    "3p": "inserissem"
+  },
+  "FutSC": {
+    "1s": "inserir",
+    "2s": "inserires",
+    "3s": "inserir",
+    "1p": "inserirmos",
+    "2p": "inserirdes",
+    "3p": "inserirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "insere",
+    "3s": "insira",
+    "1p": "insiramos",
+    "2p": "inseri",
+    "3p": "insiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não insiras",
+    "3s": "não insira",
+    "1p": "não insiramos",
+    "2p": "não insirais",
+    "3p": "não insiram"
+  },
+  "Part-ter": {
+    "": "inserido"
+  },
+  "Part-ser": {
+    "ms": "inserido",
+    "fs": "inserida",
+    "mp": "inseridos",
+    "fp": "inseridas"
+  }
+}

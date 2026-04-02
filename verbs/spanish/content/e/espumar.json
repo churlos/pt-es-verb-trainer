@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "espumar"
+  },
+  "Ger": {
+    "": "espumando"
+  },
+  "PresI": {
+    "1s": "espumo",
+    "2s": "espumas",
+    "3s": "espuma",
+    "1p": "espumamos",
+    "2p": "espumáis",
+    "3p": "espuman"
+  },
+  "PImpI": {
+    "1s": "espumaba",
+    "2s": "espumabas",
+    "3s": "espumaba",
+    "1p": "espumábamos",
+    "2p": "espumabais",
+    "3p": "espumaban"
+  },
+  "PPSI": {
+    "1s": "espumé",
+    "2s": "espumaste",
+    "3s": "espumó",
+    "1p": "espumamos",
+    "2p": "espumasteis",
+    "3p": "espumaron"
+  },
+  "FutSI": {
+    "1s": "espumaré",
+    "2s": "espumarás",
+    "3s": "espumará",
+    "1p": "espumaremos",
+    "2p": "espumaréis",
+    "3p": "espumarán"
+  },
+  "CondS": {
+    "1s": "espumaría",
+    "2s": "espumarías",
+    "3s": "espumaría",
+    "1p": "espumaríamos",
+    "2p": "espumaríais",
+    "3p": "espumarían"
+  },
+  "PresC": {
+    "1s": "espume",
+    "2s": "espumes",
+    "3s": "espume",
+    "1p": "espumemos",
+    "2p": "espuméis",
+    "3p": "espumen"
+  },
+  "PMQPSI": {
+    "1s": "espumara",
+    "2s": "espumaras",
+    "3s": "espumara",
+    "1p": "espumáramos",
+    "2p": "espumarais",
+    "3p": "espumaran"
+  },
+  "PImpC": {
+    "1s": "espumase",
+    "2s": "espumases",
+    "3s": "espumase",
+    "1p": "espumásemos",
+    "2p": "espumaseis",
+    "3p": "espumasen"
+  },
+  "FutSC": {
+    "1s": "espumare",
+    "2s": "espumares",
+    "3s": "espumare",
+    "1p": "espumáremos",
+    "2p": "espumareis",
+    "3p": "espumaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espuma",
+    "3s": "espume",
+    "1p": "espumemos",
+    "2p": "espumad",
+    "3p": "espumen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no espumes",
+    "3s": "no espume",
+    "1p": "no espumemos",
+    "2p": "no espuméis",
+    "3p": "no espumen"
+  },
+  "Part-ter": {
+    "": "espumado"
+  },
+  "Part-ser": {
+    "ms": "espumado",
+    "fs": "espumada",
+    "mp": "espumados",
+    "fp": "espumadas"
+  }
+}

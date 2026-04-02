@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "secar"
+  },
+  "Ger": {
+    "": "secando"
+  },
+  "PresI": {
+    "1s": "seco",
+    "2s": "secas",
+    "3s": "seca",
+    "1p": "secamos",
+    "2p": "secáis",
+    "3p": "secan"
+  },
+  "PImpI": {
+    "1s": "secaba",
+    "2s": "secabas",
+    "3s": "secaba",
+    "1p": "secábamos",
+    "2p": "secabais",
+    "3p": "secaban"
+  },
+  "PPSI": {
+    "1s": "sequé",
+    "2s": "secaste",
+    "3s": "secó",
+    "1p": "secamos",
+    "2p": "secasteis",
+    "3p": "secaron"
+  },
+  "FutSI": {
+    "1s": "secaré",
+    "2s": "secarás",
+    "3s": "secará",
+    "1p": "secaremos",
+    "2p": "secaréis",
+    "3p": "secarán"
+  },
+  "CondS": {
+    "1s": "secaría",
+    "2s": "secarías",
+    "3s": "secaría",
+    "1p": "secaríamos",
+    "2p": "secaríais",
+    "3p": "secarían"
+  },
+  "PresC": {
+    "1s": "seque",
+    "2s": "seques",
+    "3s": "seque",
+    "1p": "sequemos",
+    "2p": "sequéis",
+    "3p": "sequen"
+  },
+  "PMQPSI": {
+    "1s": "secara",
+    "2s": "secaras",
+    "3s": "secara",
+    "1p": "secáramos",
+    "2p": "secarais",
+    "3p": "secaran"
+  },
+  "PImpC": {
+    "1s": "secase",
+    "2s": "secases",
+    "3s": "secase",
+    "1p": "secásemos",
+    "2p": "secaseis",
+    "3p": "secasen"
+  },
+  "FutSC": {
+    "1s": "secare",
+    "2s": "secares",
+    "3s": "secare",
+    "1p": "secáremos",
+    "2p": "secareis",
+    "3p": "secaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "seca",
+    "3s": "seque",
+    "1p": "sequemos",
+    "2p": "secad",
+    "3p": "sequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no seques",
+    "3s": "no seque",
+    "1p": "no sequemos",
+    "2p": "no sequéis",
+    "3p": "no sequen"
+  },
+  "Part-ter": {
+    "": "secado"
+  },
+  "Part-ser": {
+    "ms": "secado",
+    "fs": "secada",
+    "mp": "secados",
+    "fp": "secadas"
+  }
+}

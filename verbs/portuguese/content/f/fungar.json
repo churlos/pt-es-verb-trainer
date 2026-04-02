@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fungar"
+  },
+  "InfP": {
+    "1s": "fungar",
+    "2s": "fungares",
+    "3s": "fungar",
+    "1p": "fungarmos",
+    "2p": "fungardes",
+    "3p": "fungarem"
+  },
+  "Ger": {
+    "": "fungando"
+  },
+  "PresI": {
+    "1s": "fungo",
+    "2s": "fungas",
+    "3s": "funga",
+    "1p": "fungamos",
+    "2p": "fungais",
+    "3p": "fungam"
+  },
+  "PImpI": {
+    "1s": "fungava",
+    "2s": "fungavas",
+    "3s": "fungava",
+    "1p": "fungávamos",
+    "2p": "fungáveis",
+    "3p": "fungavam"
+  },
+  "PPSI": {
+    "1s": "funguei",
+    "2s": "fungaste",
+    "3s": "fungou",
+    "1p": "fungámos",
+    "2p": "fungastes",
+    "3p": "fungaram"
+  },
+  "PMQPSI": {
+    "1s": "fungara",
+    "2s": "fungaras",
+    "3s": "fungara",
+    "1p": "fungáramos",
+    "2p": "fungáreis",
+    "3p": "fungaram"
+  },
+  "FutSI": {
+    "1s": "fungarei",
+    "2s": "fungarás",
+    "3s": "fungará",
+    "1p": "fungaremos",
+    "2p": "fungareis",
+    "3p": "fungarão"
+  },
+  "CondS": {
+    "1s": "fungaria",
+    "2s": "fungarias",
+    "3s": "fungaria",
+    "1p": "fungaríamos",
+    "2p": "fungaríeis",
+    "3p": "fungariam"
+  },
+  "PresC": {
+    "1s": "fungue",
+    "2s": "fungues",
+    "3s": "fungue",
+    "1p": "funguemos",
+    "2p": "fungueis",
+    "3p": "funguem"
+  },
+  "PImpC": {
+    "1s": "fungasse",
+    "2s": "fungasses",
+    "3s": "fungasse",
+    "1p": "fungássemos",
+    "2p": "fungásseis",
+    "3p": "fungassem"
+  },
+  "FutSC": {
+    "1s": "fungar",
+    "2s": "fungares",
+    "3s": "fungar",
+    "1p": "fungarmos",
+    "2p": "fungardes",
+    "3p": "fungarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "funga",
+    "3s": "fungue",
+    "1p": "funguemos",
+    "2p": "fungai",
+    "3p": "funguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fungues",
+    "3s": "não fungue",
+    "1p": "não funguemos",
+    "2p": "não fungueis",
+    "3p": "não funguem"
+  },
+  "Part-ter": {
+    "": "fungado"
+  },
+  "Part-ser": {
+    "ms": "fungado",
+    "fs": "fungada",
+    "mp": "fungados",
+    "fp": "fungadas"
+  }
+}

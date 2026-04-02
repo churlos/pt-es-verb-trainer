@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tirar"
+  },
+  "InfP": {
+    "1s": "tirar",
+    "2s": "tirares",
+    "3s": "tirar",
+    "1p": "tirarmos",
+    "2p": "tirardes",
+    "3p": "tirarem"
+  },
+  "Ger": {
+    "": "tirando"
+  },
+  "PresI": {
+    "1s": "tiro",
+    "2s": "tiras",
+    "3s": "tira",
+    "1p": "tiramos",
+    "2p": "tirais",
+    "3p": "tiram"
+  },
+  "PImpI": {
+    "1s": "tirava",
+    "2s": "tiravas",
+    "3s": "tirava",
+    "1p": "tirávamos",
+    "2p": "tiráveis",
+    "3p": "tiravam"
+  },
+  "PPSI": {
+    "1s": "tirei",
+    "2s": "tiraste",
+    "3s": "tirou",
+    "1p": "tirámos",
+    "2p": "tirastes",
+    "3p": "tiraram"
+  },
+  "PMQPSI": {
+    "1s": "tirara",
+    "2s": "tiraras",
+    "3s": "tirara",
+    "1p": "tiráramos",
+    "2p": "tiráreis",
+    "3p": "tiraram"
+  },
+  "FutSI": {
+    "1s": "tirarei",
+    "2s": "tirarás",
+    "3s": "tirará",
+    "1p": "tiraremos",
+    "2p": "tirareis",
+    "3p": "tirarão"
+  },
+  "CondS": {
+    "1s": "tiraria",
+    "2s": "tirarias",
+    "3s": "tiraria",
+    "1p": "tiraríamos",
+    "2p": "tiraríeis",
+    "3p": "tirariam"
+  },
+  "PresC": {
+    "1s": "tire",
+    "2s": "tires",
+    "3s": "tire",
+    "1p": "tiremos",
+    "2p": "tireis",
+    "3p": "tirem"
+  },
+  "PImpC": {
+    "1s": "tirasse",
+    "2s": "tirasses",
+    "3s": "tirasse",
+    "1p": "tirássemos",
+    "2p": "tirásseis",
+    "3p": "tirassem"
+  },
+  "FutSC": {
+    "1s": "tirar",
+    "2s": "tirares",
+    "3s": "tirar",
+    "1p": "tirarmos",
+    "2p": "tirardes",
+    "3p": "tirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tira",
+    "3s": "tire",
+    "1p": "tiremos",
+    "2p": "tirai",
+    "3p": "tirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tires",
+    "3s": "não tire",
+    "1p": "não tiremos",
+    "2p": "não tireis",
+    "3p": "não tirem"
+  },
+  "Part-ter": {
+    "": "tirado"
+  },
+  "Part-ser": {
+    "ms": "tirado",
+    "fs": "tirada",
+    "mp": "tirados",
+    "fp": "tiradas"
+  }
+}

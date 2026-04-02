@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "consolar"
+  },
+  "InfP": {
+    "1s": "consolar",
+    "2s": "consolares",
+    "3s": "consolar",
+    "1p": "consolarmos",
+    "2p": "consolardes",
+    "3p": "consolarem"
+  },
+  "Ger": {
+    "": "consolando"
+  },
+  "PresI": {
+    "1s": "consolo",
+    "2s": "consolas",
+    "3s": "consola",
+    "1p": "consolamos",
+    "2p": "consolais",
+    "3p": "consolam"
+  },
+  "PImpI": {
+    "1s": "consolava",
+    "2s": "consolavas",
+    "3s": "consolava",
+    "1p": "consolávamos",
+    "2p": "consoláveis",
+    "3p": "consolavam"
+  },
+  "PPSI": {
+    "1s": "consolei",
+    "2s": "consolaste",
+    "3s": "consolou",
+    "1p": "consolámos",
+    "2p": "consolastes",
+    "3p": "consolaram"
+  },
+  "PMQPSI": {
+    "1s": "consolara",
+    "2s": "consolaras",
+    "3s": "consolara",
+    "1p": "consoláramos",
+    "2p": "consoláreis",
+    "3p": "consolaram"
+  },
+  "FutSI": {
+    "1s": "consolarei",
+    "2s": "consolarás",
+    "3s": "consolará",
+    "1p": "consolaremos",
+    "2p": "consolareis",
+    "3p": "consolarão"
+  },
+  "CondS": {
+    "1s": "consolaria",
+    "2s": "consolarias",
+    "3s": "consolaria",
+    "1p": "consolaríamos",
+    "2p": "consolaríeis",
+    "3p": "consolariam"
+  },
+  "PresC": {
+    "1s": "console",
+    "2s": "consoles",
+    "3s": "console",
+    "1p": "consolemos",
+    "2p": "consoleis",
+    "3p": "consolem"
+  },
+  "PImpC": {
+    "1s": "consolasse",
+    "2s": "consolasses",
+    "3s": "consolasse",
+    "1p": "consolássemos",
+    "2p": "consolásseis",
+    "3p": "consolassem"
+  },
+  "FutSC": {
+    "1s": "consolar",
+    "2s": "consolares",
+    "3s": "consolar",
+    "1p": "consolarmos",
+    "2p": "consolardes",
+    "3p": "consolarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consola",
+    "3s": "console",
+    "1p": "consolemos",
+    "2p": "consolai",
+    "3p": "consolem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não consoles",
+    "3s": "não console",
+    "1p": "não consolemos",
+    "2p": "não consoleis",
+    "3p": "não consolem"
+  },
+  "Part-ter": {
+    "": "consolado"
+  },
+  "Part-ser": {
+    "ms": "consolado",
+    "fs": "consolada",
+    "mp": "consolados",
+    "fp": "consoladas"
+  }
+}

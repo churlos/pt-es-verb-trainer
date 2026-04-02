@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "humar"
+  },
+  "Ger": {
+    "": "humando"
+  },
+  "PresI": {
+    "1s": "humo",
+    "2s": "humas",
+    "3s": "huma",
+    "1p": "humamos",
+    "2p": "humáis",
+    "3p": "human"
+  },
+  "PImpI": {
+    "1s": "humaba",
+    "2s": "humabas",
+    "3s": "humaba",
+    "1p": "humábamos",
+    "2p": "humabais",
+    "3p": "humaban"
+  },
+  "PPSI": {
+    "1s": "humé",
+    "2s": "humaste",
+    "3s": "humó",
+    "1p": "humamos",
+    "2p": "humasteis",
+    "3p": "humaron"
+  },
+  "FutSI": {
+    "1s": "humaré",
+    "2s": "humarás",
+    "3s": "humará",
+    "1p": "humaremos",
+    "2p": "humaréis",
+    "3p": "humarán"
+  },
+  "CondS": {
+    "1s": "humaría",
+    "2s": "humarías",
+    "3s": "humaría",
+    "1p": "humaríamos",
+    "2p": "humaríais",
+    "3p": "humarían"
+  },
+  "PresC": {
+    "1s": "hume",
+    "2s": "humes",
+    "3s": "hume",
+    "1p": "humemos",
+    "2p": "huméis",
+    "3p": "humen"
+  },
+  "PMQPSI": {
+    "1s": "humara",
+    "2s": "humaras",
+    "3s": "humara",
+    "1p": "humáramos",
+    "2p": "humarais",
+    "3p": "humaran"
+  },
+  "PImpC": {
+    "1s": "humase",
+    "2s": "humases",
+    "3s": "humase",
+    "1p": "humásemos",
+    "2p": "humaseis",
+    "3p": "humasen"
+  },
+  "FutSC": {
+    "1s": "humare",
+    "2s": "humares",
+    "3s": "humare",
+    "1p": "humáremos",
+    "2p": "humareis",
+    "3p": "humaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "huma",
+    "3s": "hume",
+    "1p": "humemos",
+    "2p": "humad",
+    "3p": "humen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no humes",
+    "3s": "no hume",
+    "1p": "no humemos",
+    "2p": "no huméis",
+    "3p": "no humen"
+  },
+  "Part-ter": {
+    "": "humado"
+  },
+  "Part-ser": {
+    "ms": "humado",
+    "fs": "humada",
+    "mp": "humados",
+    "fp": "humadas"
+  }
+}

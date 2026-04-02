@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "decidir"
+  },
+  "Ger": {
+    "": "decidiendo"
+  },
+  "PresI": {
+    "1s": "decido",
+    "2s": "decides",
+    "3s": "decide",
+    "1p": "decidimos",
+    "2p": "decidís",
+    "3p": "deciden"
+  },
+  "PImpI": {
+    "1s": "decidía",
+    "2s": "decidías",
+    "3s": "decidía",
+    "1p": "decidíamos",
+    "2p": "decidíais",
+    "3p": "decidían"
+  },
+  "PPSI": {
+    "1s": "decidí",
+    "2s": "decidiste",
+    "3s": "decidió",
+    "1p": "decidimos",
+    "2p": "decidisteis",
+    "3p": "decidieron"
+  },
+  "FutSI": {
+    "1s": "decidiré",
+    "2s": "decidirás",
+    "3s": "decidirá",
+    "1p": "decidiremos",
+    "2p": "decidiréis",
+    "3p": "decidirán"
+  },
+  "CondS": {
+    "1s": "decidiría",
+    "2s": "decidirías",
+    "3s": "decidiría",
+    "1p": "decidiríamos",
+    "2p": "decidiríais",
+    "3p": "decidirían"
+  },
+  "PresC": {
+    "1s": "decida",
+    "2s": "decidas",
+    "3s": "decida",
+    "1p": "decidamos",
+    "2p": "decidáis",
+    "3p": "decidan"
+  },
+  "PMQPSI": {
+    "1s": "decidiera",
+    "2s": "decidieras",
+    "3s": "decidiera",
+    "1p": "decidiéramos",
+    "2p": "decidierais",
+    "3p": "decidieran"
+  },
+  "PImpC": {
+    "1s": "decidiese",
+    "2s": "decidieses",
+    "3s": "decidiese",
+    "1p": "decidiésemos",
+    "2p": "decidieseis",
+    "3p": "decidiesen"
+  },
+  "FutSC": {
+    "1s": "decidiere",
+    "2s": "decidieres",
+    "3s": "decidiere",
+    "1p": "decidiéremos",
+    "2p": "decidiereis",
+    "3p": "decidieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decide",
+    "3s": "decida",
+    "1p": "decidamos",
+    "2p": "decidid",
+    "3p": "decidan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no decidas",
+    "3s": "no decida",
+    "1p": "no decidamos",
+    "2p": "no decidáis",
+    "3p": "no decidan"
+  },
+  "Part-ter": {
+    "": "decidido"
+  },
+  "Part-ser": {
+    "ms": "decidido",
+    "fs": "decidida",
+    "mp": "decididos",
+    "fp": "decididas"
+  }
+}

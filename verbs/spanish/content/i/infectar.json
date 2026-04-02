@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "infectar"
+  },
+  "Ger": {
+    "": "infectando"
+  },
+  "PresI": {
+    "1s": "infecto",
+    "2s": "infectas",
+    "3s": "infecta",
+    "1p": "infectamos",
+    "2p": "infectáis",
+    "3p": "infectan"
+  },
+  "PImpI": {
+    "1s": "infectaba",
+    "2s": "infectabas",
+    "3s": "infectaba",
+    "1p": "infectábamos",
+    "2p": "infectabais",
+    "3p": "infectaban"
+  },
+  "PPSI": {
+    "1s": "infecté",
+    "2s": "infectaste",
+    "3s": "infectó",
+    "1p": "infectamos",
+    "2p": "infectasteis",
+    "3p": "infectaron"
+  },
+  "FutSI": {
+    "1s": "infectaré",
+    "2s": "infectarás",
+    "3s": "infectará",
+    "1p": "infectaremos",
+    "2p": "infectaréis",
+    "3p": "infectarán"
+  },
+  "CondS": {
+    "1s": "infectaría",
+    "2s": "infectarías",
+    "3s": "infectaría",
+    "1p": "infectaríamos",
+    "2p": "infectaríais",
+    "3p": "infectarían"
+  },
+  "PresC": {
+    "1s": "infecte",
+    "2s": "infectes",
+    "3s": "infecte",
+    "1p": "infectemos",
+    "2p": "infectéis",
+    "3p": "infecten"
+  },
+  "PMQPSI": {
+    "1s": "infectara",
+    "2s": "infectaras",
+    "3s": "infectara",
+    "1p": "infectáramos",
+    "2p": "infectarais",
+    "3p": "infectaran"
+  },
+  "PImpC": {
+    "1s": "infectase",
+    "2s": "infectases",
+    "3s": "infectase",
+    "1p": "infectásemos",
+    "2p": "infectaseis",
+    "3p": "infectasen"
+  },
+  "FutSC": {
+    "1s": "infectare",
+    "2s": "infectares",
+    "3s": "infectare",
+    "1p": "infectáremos",
+    "2p": "infectareis",
+    "3p": "infectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infecta",
+    "3s": "infecte",
+    "1p": "infectemos",
+    "2p": "infectad",
+    "3p": "infecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no infectes",
+    "3s": "no infecte",
+    "1p": "no infectemos",
+    "2p": "no infectéis",
+    "3p": "no infecten"
+  },
+  "Part-ter": {
+    "": "infectado"
+  },
+  "Part-ser": {
+    "ms": "infectado",
+    "fs": "infectada",
+    "mp": "infectados",
+    "fp": "infectadas"
+  }
+}

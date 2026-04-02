@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "virar"
+  },
+  "Ger": {
+    "": "virando"
+  },
+  "PresI": {
+    "1s": "viro",
+    "2s": "viras",
+    "3s": "vira",
+    "1p": "viramos",
+    "2p": "viráis",
+    "3p": "viran"
+  },
+  "PImpI": {
+    "1s": "viraba",
+    "2s": "virabas",
+    "3s": "viraba",
+    "1p": "virábamos",
+    "2p": "virabais",
+    "3p": "viraban"
+  },
+  "PPSI": {
+    "1s": "viré",
+    "2s": "viraste",
+    "3s": "viró",
+    "1p": "viramos",
+    "2p": "virasteis",
+    "3p": "viraron"
+  },
+  "FutSI": {
+    "1s": "viraré",
+    "2s": "virarás",
+    "3s": "virará",
+    "1p": "viraremos",
+    "2p": "viraréis",
+    "3p": "virarán"
+  },
+  "CondS": {
+    "1s": "viraría",
+    "2s": "virarías",
+    "3s": "viraría",
+    "1p": "viraríamos",
+    "2p": "viraríais",
+    "3p": "virarían"
+  },
+  "PresC": {
+    "1s": "vire",
+    "2s": "vires",
+    "3s": "vire",
+    "1p": "viremos",
+    "2p": "viréis",
+    "3p": "viren"
+  },
+  "PMQPSI": {
+    "1s": "virara",
+    "2s": "viraras",
+    "3s": "virara",
+    "1p": "viráramos",
+    "2p": "virarais",
+    "3p": "viraran"
+  },
+  "PImpC": {
+    "1s": "virase",
+    "2s": "virases",
+    "3s": "virase",
+    "1p": "virásemos",
+    "2p": "viraseis",
+    "3p": "virasen"
+  },
+  "FutSC": {
+    "1s": "virare",
+    "2s": "virares",
+    "3s": "virare",
+    "1p": "viráremos",
+    "2p": "virareis",
+    "3p": "viraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vira",
+    "3s": "vire",
+    "1p": "viremos",
+    "2p": "virad",
+    "3p": "viren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vires",
+    "3s": "no vire",
+    "1p": "no viremos",
+    "2p": "no viréis",
+    "3p": "no viren"
+  },
+  "Part-ter": {
+    "": "virado"
+  },
+  "Part-ser": {
+    "ms": "virado",
+    "fs": "virada",
+    "mp": "virados",
+    "fp": "viradas"
+  }
+}

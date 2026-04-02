@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esgotar"
+  },
+  "InfP": {
+    "1s": "esgotar",
+    "2s": "esgotares",
+    "3s": "esgotar",
+    "1p": "esgotarmos",
+    "2p": "esgotardes",
+    "3p": "esgotarem"
+  },
+  "Ger": {
+    "": "esgotando"
+  },
+  "PresI": {
+    "1s": "esgoto",
+    "2s": "esgotas",
+    "3s": "esgota",
+    "1p": "esgotamos",
+    "2p": "esgotais",
+    "3p": "esgotam"
+  },
+  "PImpI": {
+    "1s": "esgotava",
+    "2s": "esgotavas",
+    "3s": "esgotava",
+    "1p": "esgotávamos",
+    "2p": "esgotáveis",
+    "3p": "esgotavam"
+  },
+  "PPSI": {
+    "1s": "esgotei",
+    "2s": "esgotaste",
+    "3s": "esgotou",
+    "1p": "esgotámos",
+    "2p": "esgotastes",
+    "3p": "esgotaram"
+  },
+  "PMQPSI": {
+    "1s": "esgotara",
+    "2s": "esgotaras",
+    "3s": "esgotara",
+    "1p": "esgotáramos",
+    "2p": "esgotáreis",
+    "3p": "esgotaram"
+  },
+  "FutSI": {
+    "1s": "esgotarei",
+    "2s": "esgotarás",
+    "3s": "esgotará",
+    "1p": "esgotaremos",
+    "2p": "esgotareis",
+    "3p": "esgotarão"
+  },
+  "CondS": {
+    "1s": "esgotaria",
+    "2s": "esgotarias",
+    "3s": "esgotaria",
+    "1p": "esgotaríamos",
+    "2p": "esgotaríeis",
+    "3p": "esgotariam"
+  },
+  "PresC": {
+    "1s": "esgote",
+    "2s": "esgotes",
+    "3s": "esgote",
+    "1p": "esgotemos",
+    "2p": "esgoteis",
+    "3p": "esgotem"
+  },
+  "PImpC": {
+    "1s": "esgotasse",
+    "2s": "esgotasses",
+    "3s": "esgotasse",
+    "1p": "esgotássemos",
+    "2p": "esgotásseis",
+    "3p": "esgotassem"
+  },
+  "FutSC": {
+    "1s": "esgotar",
+    "2s": "esgotares",
+    "3s": "esgotar",
+    "1p": "esgotarmos",
+    "2p": "esgotardes",
+    "3p": "esgotarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esgota",
+    "3s": "esgote",
+    "1p": "esgotemos",
+    "2p": "esgotai",
+    "3p": "esgotem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esgotes",
+    "3s": "não esgote",
+    "1p": "não esgotemos",
+    "2p": "não esgoteis",
+    "3p": "não esgotem"
+  },
+  "Part-ter": {
+    "": "esgotado"
+  },
+  "Part-ser": {
+    "ms": "esgotado",
+    "fs": "esgotada",
+    "mp": "esgotados",
+    "fp": "esgotadas"
+  }
+}

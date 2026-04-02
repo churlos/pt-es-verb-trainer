@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "requisitar"
+  },
+  "InfP": {
+    "1s": "requisitar",
+    "2s": "requisitares",
+    "3s": "requisitar",
+    "1p": "requisitarmos",
+    "2p": "requisitardes",
+    "3p": "requisitarem"
+  },
+  "Ger": {
+    "": "requisitando"
+  },
+  "PresI": {
+    "1s": "requisito",
+    "2s": "requisitas",
+    "3s": "requisita",
+    "1p": "requisitamos",
+    "2p": "requisitais",
+    "3p": "requisitam"
+  },
+  "PImpI": {
+    "1s": "requisitava",
+    "2s": "requisitavas",
+    "3s": "requisitava",
+    "1p": "requisitávamos",
+    "2p": "requisitáveis",
+    "3p": "requisitavam"
+  },
+  "PPSI": {
+    "1s": "requisitei",
+    "2s": "requisitaste",
+    "3s": "requisitou",
+    "1p": "requisitámos",
+    "2p": "requisitastes",
+    "3p": "requisitaram"
+  },
+  "PMQPSI": {
+    "1s": "requisitara",
+    "2s": "requisitaras",
+    "3s": "requisitara",
+    "1p": "requisitáramos",
+    "2p": "requisitáreis",
+    "3p": "requisitaram"
+  },
+  "FutSI": {
+    "1s": "requisitarei",
+    "2s": "requisitarás",
+    "3s": "requisitará",
+    "1p": "requisitaremos",
+    "2p": "requisitareis",
+    "3p": "requisitarão"
+  },
+  "CondS": {
+    "1s": "requisitaria",
+    "2s": "requisitarias",
+    "3s": "requisitaria",
+    "1p": "requisitaríamos",
+    "2p": "requisitaríeis",
+    "3p": "requisitariam"
+  },
+  "PresC": {
+    "1s": "requisite",
+    "2s": "requisites",
+    "3s": "requisite",
+    "1p": "requisitemos",
+    "2p": "requisiteis",
+    "3p": "requisitem"
+  },
+  "PImpC": {
+    "1s": "requisitasse",
+    "2s": "requisitasses",
+    "3s": "requisitasse",
+    "1p": "requisitássemos",
+    "2p": "requisitásseis",
+    "3p": "requisitassem"
+  },
+  "FutSC": {
+    "1s": "requisitar",
+    "2s": "requisitares",
+    "3s": "requisitar",
+    "1p": "requisitarmos",
+    "2p": "requisitardes",
+    "3p": "requisitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "requisita",
+    "3s": "requisite",
+    "1p": "requisitemos",
+    "2p": "requisitai",
+    "3p": "requisitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não requisites",
+    "3s": "não requisite",
+    "1p": "não requisitemos",
+    "2p": "não requisiteis",
+    "3p": "não requisitem"
+  },
+  "Part-ter": {
+    "": "requisitado"
+  },
+  "Part-ser": {
+    "ms": "requisitado",
+    "fs": "requisitada",
+    "mp": "requisitados",
+    "fp": "requisitadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "multiplicar"
+  },
+  "InfP": {
+    "1s": "multiplicar",
+    "2s": "multiplicares",
+    "3s": "multiplicar",
+    "1p": "multiplicarmos",
+    "2p": "multiplicardes",
+    "3p": "multiplicarem"
+  },
+  "Ger": {
+    "": "multiplicando"
+  },
+  "PresI": {
+    "1s": "multiplico",
+    "2s": "multiplicas",
+    "3s": "multiplica",
+    "1p": "multiplicamos",
+    "2p": "multiplicais",
+    "3p": "multiplicam"
+  },
+  "PImpI": {
+    "1s": "multiplicava",
+    "2s": "multiplicavas",
+    "3s": "multiplicava",
+    "1p": "multiplicávamos",
+    "2p": "multiplicáveis",
+    "3p": "multiplicavam"
+  },
+  "PPSI": {
+    "1s": "multipliquei",
+    "2s": "multiplicaste",
+    "3s": "multiplicou",
+    "1p": "multiplicámos",
+    "2p": "multiplicastes",
+    "3p": "multiplicaram"
+  },
+  "PMQPSI": {
+    "1s": "multiplicara",
+    "2s": "multiplicaras",
+    "3s": "multiplicara",
+    "1p": "multiplicáramos",
+    "2p": "multiplicáreis",
+    "3p": "multiplicaram"
+  },
+  "FutSI": {
+    "1s": "multiplicarei",
+    "2s": "multiplicarás",
+    "3s": "multiplicará",
+    "1p": "multiplicaremos",
+    "2p": "multiplicareis",
+    "3p": "multiplicarão"
+  },
+  "CondS": {
+    "1s": "multiplicaria",
+    "2s": "multiplicarias",
+    "3s": "multiplicaria",
+    "1p": "multiplicaríamos",
+    "2p": "multiplicaríeis",
+    "3p": "multiplicariam"
+  },
+  "PresC": {
+    "1s": "multiplique",
+    "2s": "multipliques",
+    "3s": "multiplique",
+    "1p": "multipliquemos",
+    "2p": "multipliqueis",
+    "3p": "multipliquem"
+  },
+  "PImpC": {
+    "1s": "multiplicasse",
+    "2s": "multiplicasses",
+    "3s": "multiplicasse",
+    "1p": "multiplicássemos",
+    "2p": "multiplicásseis",
+    "3p": "multiplicassem"
+  },
+  "FutSC": {
+    "1s": "multiplicar",
+    "2s": "multiplicares",
+    "3s": "multiplicar",
+    "1p": "multiplicarmos",
+    "2p": "multiplicardes",
+    "3p": "multiplicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "multiplica",
+    "3s": "multiplique",
+    "1p": "multipliquemos",
+    "2p": "multiplicai",
+    "3p": "multipliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não multipliques",
+    "3s": "não multiplique",
+    "1p": "não multipliquemos",
+    "2p": "não multipliqueis",
+    "3p": "não multipliquem"
+  },
+  "Part-ter": {
+    "": "multiplicado"
+  },
+  "Part-ser": {
+    "ms": "multiplicado",
+    "fs": "multiplicada",
+    "mp": "multiplicados",
+    "fp": "multiplicadas"
+  }
+}

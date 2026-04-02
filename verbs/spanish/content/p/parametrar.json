@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parametrar"
+  },
+  "Ger": {
+    "": "parametrando"
+  },
+  "PresI": {
+    "1s": "parametro",
+    "2s": "parametras",
+    "3s": "parametra",
+    "1p": "parametramos",
+    "2p": "parametráis",
+    "3p": "parametran"
+  },
+  "PImpI": {
+    "1s": "parametraba",
+    "2s": "parametrabas",
+    "3s": "parametraba",
+    "1p": "parametrábamos",
+    "2p": "parametrabais",
+    "3p": "parametraban"
+  },
+  "PPSI": {
+    "1s": "parametré",
+    "2s": "parametraste",
+    "3s": "parametró",
+    "1p": "parametramos",
+    "2p": "parametrasteis",
+    "3p": "parametraron"
+  },
+  "FutSI": {
+    "1s": "parametraré",
+    "2s": "parametrarás",
+    "3s": "parametrará",
+    "1p": "parametraremos",
+    "2p": "parametraréis",
+    "3p": "parametrarán"
+  },
+  "CondS": {
+    "1s": "parametraría",
+    "2s": "parametrarías",
+    "3s": "parametraría",
+    "1p": "parametraríamos",
+    "2p": "parametraríais",
+    "3p": "parametrarían"
+  },
+  "PresC": {
+    "1s": "parametre",
+    "2s": "parametres",
+    "3s": "parametre",
+    "1p": "parametremos",
+    "2p": "parametréis",
+    "3p": "parametren"
+  },
+  "PMQPSI": {
+    "1s": "parametrara",
+    "2s": "parametraras",
+    "3s": "parametrara",
+    "1p": "parametráramos",
+    "2p": "parametrarais",
+    "3p": "parametraran"
+  },
+  "PImpC": {
+    "1s": "parametrase",
+    "2s": "parametrases",
+    "3s": "parametrase",
+    "1p": "parametrásemos",
+    "2p": "parametraseis",
+    "3p": "parametrasen"
+  },
+  "FutSC": {
+    "1s": "parametrare",
+    "2s": "parametrares",
+    "3s": "parametrare",
+    "1p": "parametráremos",
+    "2p": "parametrareis",
+    "3p": "parametraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parametra",
+    "3s": "parametre",
+    "1p": "parametremos",
+    "2p": "parametrad",
+    "3p": "parametren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no parametres",
+    "3s": "no parametre",
+    "1p": "no parametremos",
+    "2p": "no parametréis",
+    "3p": "no parametren"
+  },
+  "Part-ter": {
+    "": "parametrado"
+  },
+  "Part-ser": {
+    "ms": "parametrado",
+    "fs": "parametrada",
+    "mp": "parametrados",
+    "fp": "parametradas"
+  }
+}

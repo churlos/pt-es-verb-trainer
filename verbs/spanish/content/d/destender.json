@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "destender"
+  },
+  "Ger": {
+    "": "destendiendo"
+  },
+  "PresI": {
+    "1s": "destiendo",
+    "2s": "destiendes",
+    "3s": "destiende",
+    "1p": "destendemos",
+    "2p": "destendéis",
+    "3p": "destienden"
+  },
+  "PImpI": {
+    "1s": "destendía",
+    "2s": "destendías",
+    "3s": "destendía",
+    "1p": "destendíamos",
+    "2p": "destendíais",
+    "3p": "destendían"
+  },
+  "PPSI": {
+    "1s": "destendí",
+    "2s": "destendiste",
+    "3s": "destendió",
+    "1p": "destendimos",
+    "2p": "destendisteis",
+    "3p": "destendieron"
+  },
+  "FutSI": {
+    "1s": "destenderé",
+    "2s": "destenderás",
+    "3s": "destenderá",
+    "1p": "destenderemos",
+    "2p": "destenderéis",
+    "3p": "destenderán"
+  },
+  "CondS": {
+    "1s": "destendería",
+    "2s": "destenderías",
+    "3s": "destendería",
+    "1p": "destenderíamos",
+    "2p": "destenderíais",
+    "3p": "destenderían"
+  },
+  "PresC": {
+    "1s": "destienda",
+    "2s": "destiendas",
+    "3s": "destienda",
+    "1p": "destendamos",
+    "2p": "destendáis",
+    "3p": "destiendan"
+  },
+  "PMQPSI": {
+    "1s": "destendiera",
+    "2s": "destendieras",
+    "3s": "destendiera",
+    "1p": "destendiéramos",
+    "2p": "destendierais",
+    "3p": "destendieran"
+  },
+  "PImpC": {
+    "1s": "destendiese",
+    "2s": "destendieses",
+    "3s": "destendiese",
+    "1p": "destendiésemos",
+    "2p": "destendieseis",
+    "3p": "destendiesen"
+  },
+  "FutSC": {
+    "1s": "destendiere",
+    "2s": "destendieres",
+    "3s": "destendiere",
+    "1p": "destendiéremos",
+    "2p": "destendiereis",
+    "3p": "destendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destiende",
+    "3s": "destienda",
+    "1p": "destendamos",
+    "2p": "destended",
+    "3p": "destiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no destiendas",
+    "3s": "no destienda",
+    "1p": "no destendamos",
+    "2p": "no destendáis",
+    "3p": "no destiendan"
+  },
+  "Part-ter": {
+    "": "destendido"
+  },
+  "Part-ser": {
+    "ms": "destendido",
+    "fs": "destendida",
+    "mp": "destendidos",
+    "fp": "destendidas"
+  }
+}

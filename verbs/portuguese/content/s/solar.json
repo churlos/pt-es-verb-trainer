@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "solar"
+  },
+  "InfP": {
+    "1s": "solar",
+    "2s": "solares",
+    "3s": "solar",
+    "1p": "solarmos",
+    "2p": "solardes",
+    "3p": "solarem"
+  },
+  "Ger": {
+    "": "solando"
+  },
+  "PresI": {
+    "1s": "solo",
+    "2s": "solas",
+    "3s": "sola",
+    "1p": "solamos",
+    "2p": "solais",
+    "3p": "solam"
+  },
+  "PImpI": {
+    "1s": "solava",
+    "2s": "solavas",
+    "3s": "solava",
+    "1p": "solávamos",
+    "2p": "soláveis",
+    "3p": "solavam"
+  },
+  "PPSI": {
+    "1s": "solei",
+    "2s": "solaste",
+    "3s": "solou",
+    "1p": "solámos",
+    "2p": "solastes",
+    "3p": "solaram"
+  },
+  "PMQPSI": {
+    "1s": "solara",
+    "2s": "solaras",
+    "3s": "solara",
+    "1p": "soláramos",
+    "2p": "soláreis",
+    "3p": "solaram"
+  },
+  "FutSI": {
+    "1s": "solarei",
+    "2s": "solarás",
+    "3s": "solará",
+    "1p": "solaremos",
+    "2p": "solareis",
+    "3p": "solarão"
+  },
+  "CondS": {
+    "1s": "solaria",
+    "2s": "solarias",
+    "3s": "solaria",
+    "1p": "solaríamos",
+    "2p": "solaríeis",
+    "3p": "solariam"
+  },
+  "PresC": {
+    "1s": "sole",
+    "2s": "soles",
+    "3s": "sole",
+    "1p": "solemos",
+    "2p": "soleis",
+    "3p": "solem"
+  },
+  "PImpC": {
+    "1s": "solasse",
+    "2s": "solasses",
+    "3s": "solasse",
+    "1p": "solássemos",
+    "2p": "solásseis",
+    "3p": "solassem"
+  },
+  "FutSC": {
+    "1s": "solar",
+    "2s": "solares",
+    "3s": "solar",
+    "1p": "solarmos",
+    "2p": "solardes",
+    "3p": "solarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sola",
+    "3s": "sole",
+    "1p": "solemos",
+    "2p": "solai",
+    "3p": "solem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não soles",
+    "3s": "não sole",
+    "1p": "não solemos",
+    "2p": "não soleis",
+    "3p": "não solem"
+  },
+  "Part-ter": {
+    "": "solado"
+  },
+  "Part-ser": {
+    "ms": "solado",
+    "fs": "solada",
+    "mp": "solados",
+    "fp": "soladas"
+  }
+}

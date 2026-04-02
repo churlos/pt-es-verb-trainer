@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vocalizar"
+  },
+  "InfP": {
+    "1s": "vocalizar",
+    "2s": "vocalizares",
+    "3s": "vocalizar",
+    "1p": "vocalizarmos",
+    "2p": "vocalizardes",
+    "3p": "vocalizarem"
+  },
+  "Ger": {
+    "": "vocalizando"
+  },
+  "PresI": {
+    "1s": "vocalizo",
+    "2s": "vocalizas",
+    "3s": "vocaliza",
+    "1p": "vocalizamos",
+    "2p": "vocalizais",
+    "3p": "vocalizam"
+  },
+  "PImpI": {
+    "1s": "vocalizava",
+    "2s": "vocalizavas",
+    "3s": "vocalizava",
+    "1p": "vocalizávamos",
+    "2p": "vocalizáveis",
+    "3p": "vocalizavam"
+  },
+  "PPSI": {
+    "1s": "vocalizei",
+    "2s": "vocalizaste",
+    "3s": "vocalizou",
+    "1p": "vocalizámos",
+    "2p": "vocalizastes",
+    "3p": "vocalizaram"
+  },
+  "PMQPSI": {
+    "1s": "vocalizara",
+    "2s": "vocalizaras",
+    "3s": "vocalizara",
+    "1p": "vocalizáramos",
+    "2p": "vocalizáreis",
+    "3p": "vocalizaram"
+  },
+  "FutSI": {
+    "1s": "vocalizarei",
+    "2s": "vocalizarás",
+    "3s": "vocalizará",
+    "1p": "vocalizaremos",
+    "2p": "vocalizareis",
+    "3p": "vocalizarão"
+  },
+  "CondS": {
+    "1s": "vocalizaria",
+    "2s": "vocalizarias",
+    "3s": "vocalizaria",
+    "1p": "vocalizaríamos",
+    "2p": "vocalizaríeis",
+    "3p": "vocalizariam"
+  },
+  "PresC": {
+    "1s": "vocalize",
+    "2s": "vocalizes",
+    "3s": "vocalize",
+    "1p": "vocalizemos",
+    "2p": "vocalizeis",
+    "3p": "vocalizem"
+  },
+  "PImpC": {
+    "1s": "vocalizasse",
+    "2s": "vocalizasses",
+    "3s": "vocalizasse",
+    "1p": "vocalizássemos",
+    "2p": "vocalizásseis",
+    "3p": "vocalizassem"
+  },
+  "FutSC": {
+    "1s": "vocalizar",
+    "2s": "vocalizares",
+    "3s": "vocalizar",
+    "1p": "vocalizarmos",
+    "2p": "vocalizardes",
+    "3p": "vocalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vocaliza",
+    "3s": "vocalize",
+    "1p": "vocalizemos",
+    "2p": "vocalizai",
+    "3p": "vocalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vocalizes",
+    "3s": "não vocalize",
+    "1p": "não vocalizemos",
+    "2p": "não vocalizeis",
+    "3p": "não vocalizem"
+  },
+  "Part-ter": {
+    "": "vocalizado"
+  },
+  "Part-ser": {
+    "ms": "vocalizado",
+    "fs": "vocalizada",
+    "mp": "vocalizados",
+    "fp": "vocalizadas"
+  }
+}

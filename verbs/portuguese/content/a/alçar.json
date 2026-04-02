@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alçar"
+  },
+  "InfP": {
+    "1s": "alçar",
+    "2s": "alçares",
+    "3s": "alçar",
+    "1p": "alçarmos",
+    "2p": "alçardes",
+    "3p": "alçarem"
+  },
+  "Ger": {
+    "": "alçando"
+  },
+  "PresI": {
+    "1s": "alço",
+    "2s": "alças",
+    "3s": "alça",
+    "1p": "alçamos",
+    "2p": "alçais",
+    "3p": "alçam"
+  },
+  "PImpI": {
+    "1s": "alçava",
+    "2s": "alçavas",
+    "3s": "alçava",
+    "1p": "alçávamos",
+    "2p": "alçáveis",
+    "3p": "alçavam"
+  },
+  "PPSI": {
+    "1s": "alcei",
+    "2s": "alçaste",
+    "3s": "alçou",
+    "1p": "alçámos",
+    "2p": "alçastes",
+    "3p": "alçaram"
+  },
+  "PMQPSI": {
+    "1s": "alçara",
+    "2s": "alçaras",
+    "3s": "alçara",
+    "1p": "alçáramos",
+    "2p": "alçáreis",
+    "3p": "alçaram"
+  },
+  "FutSI": {
+    "1s": "alçarei",
+    "2s": "alçarás",
+    "3s": "alçará",
+    "1p": "alçaremos",
+    "2p": "alçareis",
+    "3p": "alçarão"
+  },
+  "CondS": {
+    "1s": "alçaria",
+    "2s": "alçarias",
+    "3s": "alçaria",
+    "1p": "alçaríamos",
+    "2p": "alçaríeis",
+    "3p": "alçariam"
+  },
+  "PresC": {
+    "1s": "alce",
+    "2s": "alces",
+    "3s": "alce",
+    "1p": "alcemos",
+    "2p": "alceis",
+    "3p": "alcem"
+  },
+  "PImpC": {
+    "1s": "alçasse",
+    "2s": "alçasses",
+    "3s": "alçasse",
+    "1p": "alçássemos",
+    "2p": "alçásseis",
+    "3p": "alçassem"
+  },
+  "FutSC": {
+    "1s": "alçar",
+    "2s": "alçares",
+    "3s": "alçar",
+    "1p": "alçarmos",
+    "2p": "alçardes",
+    "3p": "alçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alça",
+    "3s": "alce",
+    "1p": "alcemos",
+    "2p": "alçai",
+    "3p": "alcem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alces",
+    "3s": "não alce",
+    "1p": "não alcemos",
+    "2p": "não alceis",
+    "3p": "não alcem"
+  },
+  "Part-ter": {
+    "": "alçado"
+  },
+  "Part-ser": {
+    "ms": "alçado",
+    "fs": "alçada",
+    "mp": "alçados",
+    "fp": "alçadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "marcir"
+  },
+  "Ger": {
+    "": "marciendo"
+  },
+  "PresI": {
+    "1s": "marzo",
+    "2s": "marces",
+    "3s": "marce",
+    "1p": "marcimos",
+    "2p": "marcís",
+    "3p": "marcen"
+  },
+  "PImpI": {
+    "1s": "marcía",
+    "2s": "marcías",
+    "3s": "marcía",
+    "1p": "marcíamos",
+    "2p": "marcíais",
+    "3p": "marcían"
+  },
+  "PPSI": {
+    "1s": "marcí",
+    "2s": "marciste",
+    "3s": "marció",
+    "1p": "marcimos",
+    "2p": "marcisteis",
+    "3p": "marcieron"
+  },
+  "FutSI": {
+    "1s": "marciré",
+    "2s": "marcirás",
+    "3s": "marcirá",
+    "1p": "marciremos",
+    "2p": "marciréis",
+    "3p": "marcirán"
+  },
+  "CondS": {
+    "1s": "marciría",
+    "2s": "marcirías",
+    "3s": "marciría",
+    "1p": "marciríamos",
+    "2p": "marciríais",
+    "3p": "marcirían"
+  },
+  "PresC": {
+    "1s": "marza",
+    "2s": "marzas",
+    "3s": "marza",
+    "1p": "marzamos",
+    "2p": "marzáis",
+    "3p": "marzan"
+  },
+  "PMQPSI": {
+    "1s": "marciera",
+    "2s": "marcieras",
+    "3s": "marciera",
+    "1p": "marciéramos",
+    "2p": "marcierais",
+    "3p": "marcieran"
+  },
+  "PImpC": {
+    "1s": "marciese",
+    "2s": "marcieses",
+    "3s": "marciese",
+    "1p": "marciésemos",
+    "2p": "marcieseis",
+    "3p": "marciesen"
+  },
+  "FutSC": {
+    "1s": "marciere",
+    "2s": "marcieres",
+    "3s": "marciere",
+    "1p": "marciéremos",
+    "2p": "marciereis",
+    "3p": "marcieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "marce",
+    "3s": "marza",
+    "1p": "marzamos",
+    "2p": "marcid",
+    "3p": "marzan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no marzas",
+    "3s": "no marza",
+    "1p": "no marzamos",
+    "2p": "no marzáis",
+    "3p": "no marzan"
+  },
+  "Part-ter": {
+    "": "marcido"
+  },
+  "Part-ser": {
+    "ms": "marcido",
+    "fs": "marcida",
+    "mp": "marcidos",
+    "fp": "marcidas"
+  }
+}

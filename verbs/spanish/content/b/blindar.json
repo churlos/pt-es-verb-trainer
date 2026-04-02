@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "blindar"
+  },
+  "Ger": {
+    "": "blindando"
+  },
+  "PresI": {
+    "1s": "blindo",
+    "2s": "blindas",
+    "3s": "blinda",
+    "1p": "blindamos",
+    "2p": "blindáis",
+    "3p": "blindan"
+  },
+  "PImpI": {
+    "1s": "blindaba",
+    "2s": "blindabas",
+    "3s": "blindaba",
+    "1p": "blindábamos",
+    "2p": "blindabais",
+    "3p": "blindaban"
+  },
+  "PPSI": {
+    "1s": "blindé",
+    "2s": "blindaste",
+    "3s": "blindó",
+    "1p": "blindamos",
+    "2p": "blindasteis",
+    "3p": "blindaron"
+  },
+  "FutSI": {
+    "1s": "blindaré",
+    "2s": "blindarás",
+    "3s": "blindará",
+    "1p": "blindaremos",
+    "2p": "blindaréis",
+    "3p": "blindarán"
+  },
+  "CondS": {
+    "1s": "blindaría",
+    "2s": "blindarías",
+    "3s": "blindaría",
+    "1p": "blindaríamos",
+    "2p": "blindaríais",
+    "3p": "blindarían"
+  },
+  "PresC": {
+    "1s": "blinde",
+    "2s": "blindes",
+    "3s": "blinde",
+    "1p": "blindemos",
+    "2p": "blindéis",
+    "3p": "blinden"
+  },
+  "PMQPSI": {
+    "1s": "blindara",
+    "2s": "blindaras",
+    "3s": "blindara",
+    "1p": "blindáramos",
+    "2p": "blindarais",
+    "3p": "blindaran"
+  },
+  "PImpC": {
+    "1s": "blindase",
+    "2s": "blindases",
+    "3s": "blindase",
+    "1p": "blindásemos",
+    "2p": "blindaseis",
+    "3p": "blindasen"
+  },
+  "FutSC": {
+    "1s": "blindare",
+    "2s": "blindares",
+    "3s": "blindare",
+    "1p": "blindáremos",
+    "2p": "blindareis",
+    "3p": "blindaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "blinda",
+    "3s": "blinde",
+    "1p": "blindemos",
+    "2p": "blindad",
+    "3p": "blinden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no blindes",
+    "3s": "no blinde",
+    "1p": "no blindemos",
+    "2p": "no blindéis",
+    "3p": "no blinden"
+  },
+  "Part-ter": {
+    "": "blindado"
+  },
+  "Part-ser": {
+    "ms": "blindado",
+    "fs": "blindada",
+    "mp": "blindados",
+    "fp": "blindadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "incrementar"
+  },
+  "Ger": {
+    "": "incrementando"
+  },
+  "PresI": {
+    "1s": "incremento",
+    "2s": "incrementas",
+    "3s": "incrementa",
+    "1p": "incrementamos",
+    "2p": "incrementáis",
+    "3p": "incrementan"
+  },
+  "PImpI": {
+    "1s": "incrementaba",
+    "2s": "incrementabas",
+    "3s": "incrementaba",
+    "1p": "incrementábamos",
+    "2p": "incrementabais",
+    "3p": "incrementaban"
+  },
+  "PPSI": {
+    "1s": "incrementé",
+    "2s": "incrementaste",
+    "3s": "incrementó",
+    "1p": "incrementamos",
+    "2p": "incrementasteis",
+    "3p": "incrementaron"
+  },
+  "FutSI": {
+    "1s": "incrementaré",
+    "2s": "incrementarás",
+    "3s": "incrementará",
+    "1p": "incrementaremos",
+    "2p": "incrementaréis",
+    "3p": "incrementarán"
+  },
+  "CondS": {
+    "1s": "incrementaría",
+    "2s": "incrementarías",
+    "3s": "incrementaría",
+    "1p": "incrementaríamos",
+    "2p": "incrementaríais",
+    "3p": "incrementarían"
+  },
+  "PresC": {
+    "1s": "incremente",
+    "2s": "incrementes",
+    "3s": "incremente",
+    "1p": "incrementemos",
+    "2p": "incrementéis",
+    "3p": "incrementen"
+  },
+  "PMQPSI": {
+    "1s": "incrementara",
+    "2s": "incrementaras",
+    "3s": "incrementara",
+    "1p": "incrementáramos",
+    "2p": "incrementarais",
+    "3p": "incrementaran"
+  },
+  "PImpC": {
+    "1s": "incrementase",
+    "2s": "incrementases",
+    "3s": "incrementase",
+    "1p": "incrementásemos",
+    "2p": "incrementaseis",
+    "3p": "incrementasen"
+  },
+  "FutSC": {
+    "1s": "incrementare",
+    "2s": "incrementares",
+    "3s": "incrementare",
+    "1p": "incrementáremos",
+    "2p": "incrementareis",
+    "3p": "incrementaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incrementa",
+    "3s": "incremente",
+    "1p": "incrementemos",
+    "2p": "incrementad",
+    "3p": "incrementen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no incrementes",
+    "3s": "no incremente",
+    "1p": "no incrementemos",
+    "2p": "no incrementéis",
+    "3p": "no incrementen"
+  },
+  "Part-ter": {
+    "": "incrementado"
+  },
+  "Part-ser": {
+    "ms": "incrementado",
+    "fs": "incrementada",
+    "mp": "incrementados",
+    "fp": "incrementadas"
+  }
+}

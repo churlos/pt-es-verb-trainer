@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gamar"
+  },
+  "InfP": {
+    "1s": "gamar",
+    "2s": "gamares",
+    "3s": "gamar",
+    "1p": "gamarmos",
+    "2p": "gamardes",
+    "3p": "gamarem"
+  },
+  "Ger": {
+    "": "gamando"
+  },
+  "PresI": {
+    "1s": "gamo",
+    "2s": "gamas",
+    "3s": "gama",
+    "1p": "gamamos",
+    "2p": "gamais",
+    "3p": "gamam"
+  },
+  "PImpI": {
+    "1s": "gamava",
+    "2s": "gamavas",
+    "3s": "gamava",
+    "1p": "gamávamos",
+    "2p": "gamáveis",
+    "3p": "gamavam"
+  },
+  "PPSI": {
+    "1s": "gamei",
+    "2s": "gamaste",
+    "3s": "gamou",
+    "1p": "gamámos",
+    "2p": "gamastes",
+    "3p": "gamaram"
+  },
+  "PMQPSI": {
+    "1s": "gamara",
+    "2s": "gamaras",
+    "3s": "gamara",
+    "1p": "gamáramos",
+    "2p": "gamáreis",
+    "3p": "gamaram"
+  },
+  "FutSI": {
+    "1s": "gamarei",
+    "2s": "gamarás",
+    "3s": "gamará",
+    "1p": "gamaremos",
+    "2p": "gamareis",
+    "3p": "gamarão"
+  },
+  "CondS": {
+    "1s": "gamaria",
+    "2s": "gamarias",
+    "3s": "gamaria",
+    "1p": "gamaríamos",
+    "2p": "gamaríeis",
+    "3p": "gamariam"
+  },
+  "PresC": {
+    "1s": "game",
+    "2s": "games",
+    "3s": "game",
+    "1p": "gamemos",
+    "2p": "gameis",
+    "3p": "gamem"
+  },
+  "PImpC": {
+    "1s": "gamasse",
+    "2s": "gamasses",
+    "3s": "gamasse",
+    "1p": "gamássemos",
+    "2p": "gamásseis",
+    "3p": "gamassem"
+  },
+  "FutSC": {
+    "1s": "gamar",
+    "2s": "gamares",
+    "3s": "gamar",
+    "1p": "gamarmos",
+    "2p": "gamardes",
+    "3p": "gamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gama",
+    "3s": "game",
+    "1p": "gamemos",
+    "2p": "gamai",
+    "3p": "gamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não games",
+    "3s": "não game",
+    "1p": "não gamemos",
+    "2p": "não gameis",
+    "3p": "não gamem"
+  },
+  "Part-ter": {
+    "": "gamado"
+  },
+  "Part-ser": {
+    "ms": "gamado",
+    "fs": "gamada",
+    "mp": "gamados",
+    "fp": "gamadas"
+  }
+}

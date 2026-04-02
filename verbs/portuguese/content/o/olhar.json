@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "olhar"
+  },
+  "InfP": {
+    "1s": "olhar",
+    "2s": "olhares",
+    "3s": "olhar",
+    "1p": "olharmos",
+    "2p": "olhardes",
+    "3p": "olharem"
+  },
+  "Ger": {
+    "": "olhando"
+  },
+  "PresI": {
+    "1s": "olho",
+    "2s": "olhas",
+    "3s": "olha",
+    "1p": "olhamos",
+    "2p": "olhais",
+    "3p": "olham"
+  },
+  "PImpI": {
+    "1s": "olhava",
+    "2s": "olhavas",
+    "3s": "olhava",
+    "1p": "olhávamos",
+    "2p": "olháveis",
+    "3p": "olhavam"
+  },
+  "PPSI": {
+    "1s": "olhei",
+    "2s": "olhaste",
+    "3s": "olhou",
+    "1p": "olhámos",
+    "2p": "olhastes",
+    "3p": "olharam"
+  },
+  "PMQPSI": {
+    "1s": "olhara",
+    "2s": "olharas",
+    "3s": "olhara",
+    "1p": "olháramos",
+    "2p": "olháreis",
+    "3p": "olharam"
+  },
+  "FutSI": {
+    "1s": "olharei",
+    "2s": "olharás",
+    "3s": "olhará",
+    "1p": "olharemos",
+    "2p": "olhareis",
+    "3p": "olharão"
+  },
+  "CondS": {
+    "1s": "olharia",
+    "2s": "olharias",
+    "3s": "olharia",
+    "1p": "olharíamos",
+    "2p": "olharíeis",
+    "3p": "olhariam"
+  },
+  "PresC": {
+    "1s": "olhe",
+    "2s": "olhes",
+    "3s": "olhe",
+    "1p": "olhemos",
+    "2p": "olheis",
+    "3p": "olhem"
+  },
+  "PImpC": {
+    "1s": "olhasse",
+    "2s": "olhasses",
+    "3s": "olhasse",
+    "1p": "olhássemos",
+    "2p": "olhásseis",
+    "3p": "olhassem"
+  },
+  "FutSC": {
+    "1s": "olhar",
+    "2s": "olhares",
+    "3s": "olhar",
+    "1p": "olharmos",
+    "2p": "olhardes",
+    "3p": "olharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "olha",
+    "3s": "olhe",
+    "1p": "olhemos",
+    "2p": "olhai",
+    "3p": "olhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não olhes",
+    "3s": "não olhe",
+    "1p": "não olhemos",
+    "2p": "não olheis",
+    "3p": "não olhem"
+  },
+  "Part-ter": {
+    "": "olhado"
+  },
+  "Part-ser": {
+    "ms": "olhado",
+    "fs": "olhada",
+    "mp": "olhados",
+    "fp": "olhadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encobrir"
+  },
+  "InfP": {
+    "1s": "encobrir",
+    "2s": "encobrires",
+    "3s": "encobrir",
+    "1p": "encobrirmos",
+    "2p": "encobrirdes",
+    "3p": "encobrirem"
+  },
+  "Ger": {
+    "": "encobrindo"
+  },
+  "PresI": {
+    "1s": "encubro",
+    "2s": "encobres",
+    "3s": "encobre",
+    "1p": "encobrimos",
+    "2p": "encobris",
+    "3p": "encobrem"
+  },
+  "PImpI": {
+    "1s": "encobria",
+    "2s": "encobrias",
+    "3s": "encobria",
+    "1p": "encobríamos",
+    "2p": "encobríeis",
+    "3p": "encobriam"
+  },
+  "PPSI": {
+    "1s": "encobri",
+    "2s": "encobriste",
+    "3s": "encobriu",
+    "1p": "encobrimos",
+    "2p": "encobristes",
+    "3p": "encobriram"
+  },
+  "PMQPSI": {
+    "1s": "encobrira",
+    "2s": "encobriras",
+    "3s": "encobrira",
+    "1p": "encobríramos",
+    "2p": "encobríreis",
+    "3p": "encobriram"
+  },
+  "FutSI": {
+    "1s": "encobrirei",
+    "2s": "encobrirás",
+    "3s": "encobrirá",
+    "1p": "encobriremos",
+    "2p": "encobrireis",
+    "3p": "encobrirão"
+  },
+  "CondS": {
+    "1s": "encobriria",
+    "2s": "encobririas",
+    "3s": "encobriria",
+    "1p": "encobriríamos",
+    "2p": "encobriríeis",
+    "3p": "encobririam"
+  },
+  "PresC": {
+    "1s": "encubra",
+    "2s": "encubras",
+    "3s": "encubra",
+    "1p": "encubramos",
+    "2p": "encubrais",
+    "3p": "encubram"
+  },
+  "PImpC": {
+    "1s": "encobrisse",
+    "2s": "encobrisses",
+    "3s": "encobrisse",
+    "1p": "encobríssemos",
+    "2p": "encobrísseis",
+    "3p": "encobrissem"
+  },
+  "FutSC": {
+    "1s": "encobrir",
+    "2s": "encobrires",
+    "3s": "encobrir",
+    "1p": "encobrirmos",
+    "2p": "encobrirdes",
+    "3p": "encobrirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encobre",
+    "3s": "encubra",
+    "1p": "encubramos",
+    "2p": "encobri",
+    "3p": "encubram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encubras",
+    "3s": "não encubra",
+    "1p": "não encubramos",
+    "2p": "não encubrais",
+    "3p": "não encubram"
+  },
+  "Part-ter": {
+    "": "encoberto"
+  },
+  "Part-ser": {
+    "ms": "encoberto",
+    "fs": "encoberta",
+    "mp": "encobertos",
+    "fp": "encobertas"
+  }
+}

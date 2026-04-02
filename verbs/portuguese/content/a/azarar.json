@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "azarar"
+  },
+  "InfP": {
+    "1s": "azarar",
+    "2s": "azarares",
+    "3s": "azarar",
+    "1p": "azararmos",
+    "2p": "azarardes",
+    "3p": "azararem"
+  },
+  "Ger": {
+    "": "azarando"
+  },
+  "PresI": {
+    "1s": "azaro",
+    "2s": "azaras",
+    "3s": "azara",
+    "1p": "azaramos",
+    "2p": "azarais",
+    "3p": "azaram"
+  },
+  "PImpI": {
+    "1s": "azarava",
+    "2s": "azaravas",
+    "3s": "azarava",
+    "1p": "azarávamos",
+    "2p": "azaráveis",
+    "3p": "azaravam"
+  },
+  "PPSI": {
+    "1s": "azarei",
+    "2s": "azaraste",
+    "3s": "azarou",
+    "1p": "azarámos",
+    "2p": "azarastes",
+    "3p": "azararam"
+  },
+  "PMQPSI": {
+    "1s": "azarara",
+    "2s": "azararas",
+    "3s": "azarara",
+    "1p": "azaráramos",
+    "2p": "azaráreis",
+    "3p": "azararam"
+  },
+  "FutSI": {
+    "1s": "azararei",
+    "2s": "azararás",
+    "3s": "azarará",
+    "1p": "azararemos",
+    "2p": "azarareis",
+    "3p": "azararão"
+  },
+  "CondS": {
+    "1s": "azararia",
+    "2s": "azararias",
+    "3s": "azararia",
+    "1p": "azararíamos",
+    "2p": "azararíeis",
+    "3p": "azarariam"
+  },
+  "PresC": {
+    "1s": "azare",
+    "2s": "azares",
+    "3s": "azare",
+    "1p": "azaremos",
+    "2p": "azareis",
+    "3p": "azarem"
+  },
+  "PImpC": {
+    "1s": "azarasse",
+    "2s": "azarasses",
+    "3s": "azarasse",
+    "1p": "azarássemos",
+    "2p": "azarásseis",
+    "3p": "azarassem"
+  },
+  "FutSC": {
+    "1s": "azarar",
+    "2s": "azarares",
+    "3s": "azarar",
+    "1p": "azararmos",
+    "2p": "azarardes",
+    "3p": "azararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "azara",
+    "3s": "azare",
+    "1p": "azaremos",
+    "2p": "azarai",
+    "3p": "azarem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não azares",
+    "3s": "não azare",
+    "1p": "não azaremos",
+    "2p": "não azareis",
+    "3p": "não azarem"
+  },
+  "Part-ter": {
+    "": "azarado"
+  },
+  "Part-ser": {
+    "ms": "azarado",
+    "fs": "azarada",
+    "mp": "azarados",
+    "fp": "azaradas"
+  }
+}

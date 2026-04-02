@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sentenciar"
+  },
+  "Ger": {
+    "": "sentenciando"
+  },
+  "PresI": {
+    "1s": "sentencio",
+    "2s": "sentencias",
+    "3s": "sentencia",
+    "1p": "sentenciamos",
+    "2p": "sentenciáis",
+    "3p": "sentencian"
+  },
+  "PImpI": {
+    "1s": "sentenciaba",
+    "2s": "sentenciabas",
+    "3s": "sentenciaba",
+    "1p": "sentenciábamos",
+    "2p": "sentenciabais",
+    "3p": "sentenciaban"
+  },
+  "PPSI": {
+    "1s": "sentencié",
+    "2s": "sentenciaste",
+    "3s": "sentenció",
+    "1p": "sentenciamos",
+    "2p": "sentenciasteis",
+    "3p": "sentenciaron"
+  },
+  "FutSI": {
+    "1s": "sentenciaré",
+    "2s": "sentenciarás",
+    "3s": "sentenciará",
+    "1p": "sentenciaremos",
+    "2p": "sentenciaréis",
+    "3p": "sentenciarán"
+  },
+  "CondS": {
+    "1s": "sentenciaría",
+    "2s": "sentenciarías",
+    "3s": "sentenciaría",
+    "1p": "sentenciaríamos",
+    "2p": "sentenciaríais",
+    "3p": "sentenciarían"
+  },
+  "PresC": {
+    "1s": "sentencie",
+    "2s": "sentencies",
+    "3s": "sentencie",
+    "1p": "sentenciemos",
+    "2p": "sentenciéis",
+    "3p": "sentencien"
+  },
+  "PMQPSI": {
+    "1s": "sentenciara",
+    "2s": "sentenciaras",
+    "3s": "sentenciara",
+    "1p": "sentenciáramos",
+    "2p": "sentenciarais",
+    "3p": "sentenciaran"
+  },
+  "PImpC": {
+    "1s": "sentenciase",
+    "2s": "sentenciases",
+    "3s": "sentenciase",
+    "1p": "sentenciásemos",
+    "2p": "sentenciaseis",
+    "3p": "sentenciasen"
+  },
+  "FutSC": {
+    "1s": "sentenciare",
+    "2s": "sentenciares",
+    "3s": "sentenciare",
+    "1p": "sentenciáremos",
+    "2p": "sentenciareis",
+    "3p": "sentenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sentencia",
+    "3s": "sentencie",
+    "1p": "sentenciemos",
+    "2p": "sentenciad",
+    "3p": "sentencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sentencies",
+    "3s": "no sentencie",
+    "1p": "no sentenciemos",
+    "2p": "no sentenciéis",
+    "3p": "no sentencien"
+  },
+  "Part-ter": {
+    "": "sentenciado"
+  },
+  "Part-ser": {
+    "ms": "sentenciado",
+    "fs": "sentenciada",
+    "mp": "sentenciados",
+    "fp": "sentenciadas"
+  }
+}

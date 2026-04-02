@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "salvar"
+  },
+  "Ger": {
+    "": "salvando"
+  },
+  "PresI": {
+    "1s": "salvo",
+    "2s": "salvas",
+    "3s": "salva",
+    "1p": "salvamos",
+    "2p": "salváis",
+    "3p": "salvan"
+  },
+  "PImpI": {
+    "1s": "salvaba",
+    "2s": "salvabas",
+    "3s": "salvaba",
+    "1p": "salvábamos",
+    "2p": "salvabais",
+    "3p": "salvaban"
+  },
+  "PPSI": {
+    "1s": "salvé",
+    "2s": "salvaste",
+    "3s": "salvó",
+    "1p": "salvamos",
+    "2p": "salvasteis",
+    "3p": "salvaron"
+  },
+  "FutSI": {
+    "1s": "salvaré",
+    "2s": "salvarás",
+    "3s": "salvará",
+    "1p": "salvaremos",
+    "2p": "salvaréis",
+    "3p": "salvarán"
+  },
+  "CondS": {
+    "1s": "salvaría",
+    "2s": "salvarías",
+    "3s": "salvaría",
+    "1p": "salvaríamos",
+    "2p": "salvaríais",
+    "3p": "salvarían"
+  },
+  "PresC": {
+    "1s": "salve",
+    "2s": "salves",
+    "3s": "salve",
+    "1p": "salvemos",
+    "2p": "salvéis",
+    "3p": "salven"
+  },
+  "PMQPSI": {
+    "1s": "salvara",
+    "2s": "salvaras",
+    "3s": "salvara",
+    "1p": "salváramos",
+    "2p": "salvarais",
+    "3p": "salvaran"
+  },
+  "PImpC": {
+    "1s": "salvase",
+    "2s": "salvases",
+    "3s": "salvase",
+    "1p": "salvásemos",
+    "2p": "salvaseis",
+    "3p": "salvasen"
+  },
+  "FutSC": {
+    "1s": "salvare",
+    "2s": "salvares",
+    "3s": "salvare",
+    "1p": "salváremos",
+    "2p": "salvareis",
+    "3p": "salvaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salva",
+    "3s": "salve",
+    "1p": "salvemos",
+    "2p": "salvad",
+    "3p": "salven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salves",
+    "3s": "no salve",
+    "1p": "no salvemos",
+    "2p": "no salvéis",
+    "3p": "no salven"
+  },
+  "Part-ter": {
+    "": "salvado"
+  },
+  "Part-ser": {
+    "ms": "salvado",
+    "fs": "salvada",
+    "mp": "salvados",
+    "fp": "salvadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mercar"
+  },
+  "InfP": {
+    "1s": "mercar",
+    "2s": "mercares",
+    "3s": "mercar",
+    "1p": "mercarmos",
+    "2p": "mercardes",
+    "3p": "mercarem"
+  },
+  "Ger": {
+    "": "mercando"
+  },
+  "PresI": {
+    "1s": "merco",
+    "2s": "mercas",
+    "3s": "merca",
+    "1p": "mercamos",
+    "2p": "mercais",
+    "3p": "mercam"
+  },
+  "PImpI": {
+    "1s": "mercava",
+    "2s": "mercavas",
+    "3s": "mercava",
+    "1p": "mercávamos",
+    "2p": "mercáveis",
+    "3p": "mercavam"
+  },
+  "PPSI": {
+    "1s": "merquei",
+    "2s": "mercaste",
+    "3s": "mercou",
+    "1p": "mercámos",
+    "2p": "mercastes",
+    "3p": "mercaram"
+  },
+  "PMQPSI": {
+    "1s": "mercara",
+    "2s": "mercaras",
+    "3s": "mercara",
+    "1p": "mercáramos",
+    "2p": "mercáreis",
+    "3p": "mercaram"
+  },
+  "FutSI": {
+    "1s": "mercarei",
+    "2s": "mercarás",
+    "3s": "mercará",
+    "1p": "mercaremos",
+    "2p": "mercareis",
+    "3p": "mercarão"
+  },
+  "CondS": {
+    "1s": "mercaria",
+    "2s": "mercarias",
+    "3s": "mercaria",
+    "1p": "mercaríamos",
+    "2p": "mercaríeis",
+    "3p": "mercariam"
+  },
+  "PresC": {
+    "1s": "merque",
+    "2s": "merques",
+    "3s": "merque",
+    "1p": "merquemos",
+    "2p": "merqueis",
+    "3p": "merquem"
+  },
+  "PImpC": {
+    "1s": "mercasse",
+    "2s": "mercasses",
+    "3s": "mercasse",
+    "1p": "mercássemos",
+    "2p": "mercásseis",
+    "3p": "mercassem"
+  },
+  "FutSC": {
+    "1s": "mercar",
+    "2s": "mercares",
+    "3s": "mercar",
+    "1p": "mercarmos",
+    "2p": "mercardes",
+    "3p": "mercarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "merca",
+    "3s": "merque",
+    "1p": "merquemos",
+    "2p": "mercai",
+    "3p": "merquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não merques",
+    "3s": "não merque",
+    "1p": "não merquemos",
+    "2p": "não merqueis",
+    "3p": "não merquem"
+  },
+  "Part-ter": {
+    "": "mercado"
+  },
+  "Part-ser": {
+    "ms": "mercado",
+    "fs": "mercada",
+    "mp": "mercados",
+    "fp": "mercadas"
+  }
+}

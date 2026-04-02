@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vegetar"
+  },
+  "InfP": {
+    "1s": "vegetar",
+    "2s": "vegetares",
+    "3s": "vegetar",
+    "1p": "vegetarmos",
+    "2p": "vegetardes",
+    "3p": "vegetarem"
+  },
+  "Ger": {
+    "": "vegetando"
+  },
+  "PresI": {
+    "1s": "vegeto",
+    "2s": "vegetas",
+    "3s": "vegeta",
+    "1p": "vegetamos",
+    "2p": "vegetais",
+    "3p": "vegetam"
+  },
+  "PImpI": {
+    "1s": "vegetava",
+    "2s": "vegetavas",
+    "3s": "vegetava",
+    "1p": "vegetávamos",
+    "2p": "vegetáveis",
+    "3p": "vegetavam"
+  },
+  "PPSI": {
+    "1s": "vegetei",
+    "2s": "vegetaste",
+    "3s": "vegetou",
+    "1p": "vegetámos",
+    "2p": "vegetastes",
+    "3p": "vegetaram"
+  },
+  "PMQPSI": {
+    "1s": "vegetara",
+    "2s": "vegetaras",
+    "3s": "vegetara",
+    "1p": "vegetáramos",
+    "2p": "vegetáreis",
+    "3p": "vegetaram"
+  },
+  "FutSI": {
+    "1s": "vegetarei",
+    "2s": "vegetarás",
+    "3s": "vegetará",
+    "1p": "vegetaremos",
+    "2p": "vegetareis",
+    "3p": "vegetarão"
+  },
+  "CondS": {
+    "1s": "vegetaria",
+    "2s": "vegetarias",
+    "3s": "vegetaria",
+    "1p": "vegetaríamos",
+    "2p": "vegetaríeis",
+    "3p": "vegetariam"
+  },
+  "PresC": {
+    "1s": "vegete",
+    "2s": "vegetes",
+    "3s": "vegete",
+    "1p": "vegetemos",
+    "2p": "vegeteis",
+    "3p": "vegetem"
+  },
+  "PImpC": {
+    "1s": "vegetasse",
+    "2s": "vegetasses",
+    "3s": "vegetasse",
+    "1p": "vegetássemos",
+    "2p": "vegetásseis",
+    "3p": "vegetassem"
+  },
+  "FutSC": {
+    "1s": "vegetar",
+    "2s": "vegetares",
+    "3s": "vegetar",
+    "1p": "vegetarmos",
+    "2p": "vegetardes",
+    "3p": "vegetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vegeta",
+    "3s": "vegete",
+    "1p": "vegetemos",
+    "2p": "vegetai",
+    "3p": "vegetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vegetes",
+    "3s": "não vegete",
+    "1p": "não vegetemos",
+    "2p": "não vegeteis",
+    "3p": "não vegetem"
+  },
+  "Part-ter": {
+    "": "vegetado"
+  },
+  "Part-ser": {
+    "ms": "vegetado",
+    "fs": "vegetada",
+    "mp": "vegetados",
+    "fp": "vegetadas"
+  }
+}

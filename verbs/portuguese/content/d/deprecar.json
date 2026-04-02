@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deprecar"
+  },
+  "InfP": {
+    "1s": "deprecar",
+    "2s": "deprecares",
+    "3s": "deprecar",
+    "1p": "deprecarmos",
+    "2p": "deprecardes",
+    "3p": "deprecarem"
+  },
+  "Ger": {
+    "": "deprecando"
+  },
+  "PresI": {
+    "1s": "depreco",
+    "2s": "deprecas",
+    "3s": "depreca",
+    "1p": "deprecamos",
+    "2p": "deprecais",
+    "3p": "deprecam"
+  },
+  "PImpI": {
+    "1s": "deprecava",
+    "2s": "deprecavas",
+    "3s": "deprecava",
+    "1p": "deprecávamos",
+    "2p": "deprecáveis",
+    "3p": "deprecavam"
+  },
+  "PPSI": {
+    "1s": "deprequei",
+    "2s": "deprecaste",
+    "3s": "deprecou",
+    "1p": "deprecámos",
+    "2p": "deprecastes",
+    "3p": "deprecaram"
+  },
+  "PMQPSI": {
+    "1s": "deprecara",
+    "2s": "deprecaras",
+    "3s": "deprecara",
+    "1p": "deprecáramos",
+    "2p": "deprecáreis",
+    "3p": "deprecaram"
+  },
+  "FutSI": {
+    "1s": "deprecarei",
+    "2s": "deprecarás",
+    "3s": "deprecará",
+    "1p": "deprecaremos",
+    "2p": "deprecareis",
+    "3p": "deprecarão"
+  },
+  "CondS": {
+    "1s": "deprecaria",
+    "2s": "deprecarias",
+    "3s": "deprecaria",
+    "1p": "deprecaríamos",
+    "2p": "deprecaríeis",
+    "3p": "deprecariam"
+  },
+  "PresC": {
+    "1s": "depreque",
+    "2s": "depreques",
+    "3s": "depreque",
+    "1p": "deprequemos",
+    "2p": "deprequeis",
+    "3p": "deprequem"
+  },
+  "PImpC": {
+    "1s": "deprecasse",
+    "2s": "deprecasses",
+    "3s": "deprecasse",
+    "1p": "deprecássemos",
+    "2p": "deprecásseis",
+    "3p": "deprecassem"
+  },
+  "FutSC": {
+    "1s": "deprecar",
+    "2s": "deprecares",
+    "3s": "deprecar",
+    "1p": "deprecarmos",
+    "2p": "deprecardes",
+    "3p": "deprecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "depreca",
+    "3s": "depreque",
+    "1p": "deprequemos",
+    "2p": "deprecai",
+    "3p": "deprequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não depreques",
+    "3s": "não depreque",
+    "1p": "não deprequemos",
+    "2p": "não deprequeis",
+    "3p": "não deprequem"
+  },
+  "Part-ter": {
+    "": "deprecado"
+  },
+  "Part-ser": {
+    "ms": "deprecado",
+    "fs": "deprecada",
+    "mp": "deprecados",
+    "fp": "deprecadas"
+  }
+}

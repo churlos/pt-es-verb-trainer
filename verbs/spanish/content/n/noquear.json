@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "noquear"
+  },
+  "Ger": {
+    "": "noqueando"
+  },
+  "PresI": {
+    "1s": "noqueo",
+    "2s": "noqueas",
+    "3s": "noquea",
+    "1p": "noqueamos",
+    "2p": "noqueáis",
+    "3p": "noquean"
+  },
+  "PImpI": {
+    "1s": "noqueaba",
+    "2s": "noqueabas",
+    "3s": "noqueaba",
+    "1p": "noqueábamos",
+    "2p": "noqueabais",
+    "3p": "noqueaban"
+  },
+  "PPSI": {
+    "1s": "noqueé",
+    "2s": "noqueaste",
+    "3s": "noqueó",
+    "1p": "noqueamos",
+    "2p": "noqueasteis",
+    "3p": "noquearon"
+  },
+  "FutSI": {
+    "1s": "noquearé",
+    "2s": "noquearás",
+    "3s": "noqueará",
+    "1p": "noquearemos",
+    "2p": "noquearéis",
+    "3p": "noquearán"
+  },
+  "CondS": {
+    "1s": "noquearía",
+    "2s": "noquearías",
+    "3s": "noquearía",
+    "1p": "noquearíamos",
+    "2p": "noquearíais",
+    "3p": "noquearían"
+  },
+  "PresC": {
+    "1s": "noquee",
+    "2s": "noquees",
+    "3s": "noquee",
+    "1p": "noqueemos",
+    "2p": "noqueéis",
+    "3p": "noqueen"
+  },
+  "PMQPSI": {
+    "1s": "noqueara",
+    "2s": "noquearas",
+    "3s": "noqueara",
+    "1p": "noqueáramos",
+    "2p": "noquearais",
+    "3p": "noquearan"
+  },
+  "PImpC": {
+    "1s": "noquease",
+    "2s": "noqueases",
+    "3s": "noquease",
+    "1p": "noqueásemos",
+    "2p": "noqueaseis",
+    "3p": "noqueasen"
+  },
+  "FutSC": {
+    "1s": "noqueare",
+    "2s": "noqueares",
+    "3s": "noqueare",
+    "1p": "noqueáremos",
+    "2p": "noqueareis",
+    "3p": "noquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "noquea",
+    "3s": "noquee",
+    "1p": "noqueemos",
+    "2p": "noquead",
+    "3p": "noqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no noquees",
+    "3s": "no noquee",
+    "1p": "no noqueemos",
+    "2p": "no noqueéis",
+    "3p": "no noqueen"
+  },
+  "Part-ter": {
+    "": "noqueado"
+  },
+  "Part-ser": {
+    "ms": "noqueado",
+    "fs": "noqueada",
+    "mp": "noqueados",
+    "fp": "noqueadas"
+  }
+}

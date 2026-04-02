@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suspender"
+  },
+  "Ger": {
+    "": "suspendiendo"
+  },
+  "PresI": {
+    "1s": "suspendo",
+    "2s": "suspendes",
+    "3s": "suspende",
+    "1p": "suspendemos",
+    "2p": "suspendéis",
+    "3p": "suspenden"
+  },
+  "PImpI": {
+    "1s": "suspendía",
+    "2s": "suspendías",
+    "3s": "suspendía",
+    "1p": "suspendíamos",
+    "2p": "suspendíais",
+    "3p": "suspendían"
+  },
+  "PPSI": {
+    "1s": "suspendí",
+    "2s": "suspendiste",
+    "3s": "suspendió",
+    "1p": "suspendimos",
+    "2p": "suspendisteis",
+    "3p": "suspendieron"
+  },
+  "FutSI": {
+    "1s": "suspenderé",
+    "2s": "suspenderás",
+    "3s": "suspenderá",
+    "1p": "suspenderemos",
+    "2p": "suspenderéis",
+    "3p": "suspenderán"
+  },
+  "CondS": {
+    "1s": "suspendería",
+    "2s": "suspenderías",
+    "3s": "suspendería",
+    "1p": "suspenderíamos",
+    "2p": "suspenderíais",
+    "3p": "suspenderían"
+  },
+  "PresC": {
+    "1s": "suspenda",
+    "2s": "suspendas",
+    "3s": "suspenda",
+    "1p": "suspendamos",
+    "2p": "suspendáis",
+    "3p": "suspendan"
+  },
+  "PMQPSI": {
+    "1s": "suspendiera",
+    "2s": "suspendieras",
+    "3s": "suspendiera",
+    "1p": "suspendiéramos",
+    "2p": "suspendierais",
+    "3p": "suspendieran"
+  },
+  "PImpC": {
+    "1s": "suspendiese",
+    "2s": "suspendieses",
+    "3s": "suspendiese",
+    "1p": "suspendiésemos",
+    "2p": "suspendieseis",
+    "3p": "suspendiesen"
+  },
+  "FutSC": {
+    "1s": "suspendiere",
+    "2s": "suspendieres",
+    "3s": "suspendiere",
+    "1p": "suspendiéremos",
+    "2p": "suspendiereis",
+    "3p": "suspendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suspende",
+    "3s": "suspenda",
+    "1p": "suspendamos",
+    "2p": "suspended",
+    "3p": "suspendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no suspendas",
+    "3s": "no suspenda",
+    "1p": "no suspendamos",
+    "2p": "no suspendáis",
+    "3p": "no suspendan"
+  },
+  "Part-ter": {
+    "": "suspendido"
+  },
+  "Part-ser": {
+    "ms": "suspendido",
+    "fs": "suspendida",
+    "mp": "suspendidos",
+    "fp": "suspendidas"
+  }
+}

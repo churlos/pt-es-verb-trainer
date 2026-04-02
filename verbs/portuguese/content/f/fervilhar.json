@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fervilhar"
+  },
+  "InfP": {
+    "1s": "fervilhar",
+    "2s": "fervilhares",
+    "3s": "fervilhar",
+    "1p": "fervilharmos",
+    "2p": "fervilhardes",
+    "3p": "fervilharem"
+  },
+  "Ger": {
+    "": "fervilhando"
+  },
+  "PresI": {
+    "1s": "fervilho",
+    "2s": "fervilhas",
+    "3s": "fervilha",
+    "1p": "fervilhamos",
+    "2p": "fervilhais",
+    "3p": "fervilham"
+  },
+  "PImpI": {
+    "1s": "fervilhava",
+    "2s": "fervilhavas",
+    "3s": "fervilhava",
+    "1p": "fervilhávamos",
+    "2p": "fervilháveis",
+    "3p": "fervilhavam"
+  },
+  "PPSI": {
+    "1s": "fervilhei",
+    "2s": "fervilhaste",
+    "3s": "fervilhou",
+    "1p": "fervilhámos",
+    "2p": "fervilhastes",
+    "3p": "fervilharam"
+  },
+  "PMQPSI": {
+    "1s": "fervilhara",
+    "2s": "fervilharas",
+    "3s": "fervilhara",
+    "1p": "fervilháramos",
+    "2p": "fervilháreis",
+    "3p": "fervilharam"
+  },
+  "FutSI": {
+    "1s": "fervilharei",
+    "2s": "fervilharás",
+    "3s": "fervilhará",
+    "1p": "fervilharemos",
+    "2p": "fervilhareis",
+    "3p": "fervilharão"
+  },
+  "CondS": {
+    "1s": "fervilharia",
+    "2s": "fervilharias",
+    "3s": "fervilharia",
+    "1p": "fervilharíamos",
+    "2p": "fervilharíeis",
+    "3p": "fervilhariam"
+  },
+  "PresC": {
+    "1s": "fervilhe",
+    "2s": "fervilhes",
+    "3s": "fervilhe",
+    "1p": "fervilhemos",
+    "2p": "fervilheis",
+    "3p": "fervilhem"
+  },
+  "PImpC": {
+    "1s": "fervilhasse",
+    "2s": "fervilhasses",
+    "3s": "fervilhasse",
+    "1p": "fervilhássemos",
+    "2p": "fervilhásseis",
+    "3p": "fervilhassem"
+  },
+  "FutSC": {
+    "1s": "fervilhar",
+    "2s": "fervilhares",
+    "3s": "fervilhar",
+    "1p": "fervilharmos",
+    "2p": "fervilhardes",
+    "3p": "fervilharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fervilha",
+    "3s": "fervilhe",
+    "1p": "fervilhemos",
+    "2p": "fervilhai",
+    "3p": "fervilhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fervilhes",
+    "3s": "não fervilhe",
+    "1p": "não fervilhemos",
+    "2p": "não fervilheis",
+    "3p": "não fervilhem"
+  },
+  "Part-ter": {
+    "": "fervilhado"
+  },
+  "Part-ser": {
+    "ms": "fervilhado",
+    "fs": "fervilhada",
+    "mp": "fervilhados",
+    "fp": "fervilhadas"
+  }
+}

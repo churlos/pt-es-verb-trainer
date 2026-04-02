@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parecer"
+  },
+  "Ger": {
+    "": "pareciendo"
+  },
+  "PresI": {
+    "1s": "parezco",
+    "2s": "pareces",
+    "3s": "parece",
+    "1p": "parecemos",
+    "2p": "parecéis",
+    "3p": "parecen"
+  },
+  "PImpI": {
+    "1s": "parecía",
+    "2s": "parecías",
+    "3s": "parecía",
+    "1p": "parecíamos",
+    "2p": "parecíais",
+    "3p": "parecían"
+  },
+  "PPSI": {
+    "1s": "parecí",
+    "2s": "pareciste",
+    "3s": "pareció",
+    "1p": "parecimos",
+    "2p": "parecisteis",
+    "3p": "parecieron"
+  },
+  "FutSI": {
+    "1s": "pareceré",
+    "2s": "parecerás",
+    "3s": "parecerá",
+    "1p": "pareceremos",
+    "2p": "pareceréis",
+    "3p": "parecerán"
+  },
+  "CondS": {
+    "1s": "parecería",
+    "2s": "parecerías",
+    "3s": "parecería",
+    "1p": "pareceríamos",
+    "2p": "pareceríais",
+    "3p": "parecerían"
+  },
+  "PresC": {
+    "1s": "parezca",
+    "2s": "parezcas",
+    "3s": "parezca",
+    "1p": "parezcamos",
+    "2p": "parezcáis",
+    "3p": "parezcan"
+  },
+  "PMQPSI": {
+    "1s": "pareciera",
+    "2s": "parecieras",
+    "3s": "pareciera",
+    "1p": "pareciéramos",
+    "2p": "parecierais",
+    "3p": "parecieran"
+  },
+  "PImpC": {
+    "1s": "pareciese",
+    "2s": "parecieses",
+    "3s": "pareciese",
+    "1p": "pareciésemos",
+    "2p": "parecieseis",
+    "3p": "pareciesen"
+  },
+  "FutSC": {
+    "1s": "pareciere",
+    "2s": "parecieres",
+    "3s": "pareciere",
+    "1p": "pareciéremos",
+    "2p": "pareciereis",
+    "3p": "parecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parece",
+    "3s": "parezca",
+    "1p": "parezcamos",
+    "2p": "pareced",
+    "3p": "parezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no parezcas",
+    "3s": "no parezca",
+    "1p": "no parezcamos",
+    "2p": "no parezcáis",
+    "3p": "no parezcan"
+  },
+  "Part-ter": {
+    "": "parecido"
+  },
+  "Part-ser": {
+    "ms": "parecido",
+    "fs": "parecida",
+    "mp": "parecidos",
+    "fp": "parecidas"
+  }
+}

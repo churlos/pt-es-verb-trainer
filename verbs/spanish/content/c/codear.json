@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "codear"
+  },
+  "Ger": {
+    "": "codeando"
+  },
+  "PresI": {
+    "1s": "codeo",
+    "2s": "codeas",
+    "3s": "codea",
+    "1p": "codeamos",
+    "2p": "codeáis",
+    "3p": "codean"
+  },
+  "PImpI": {
+    "1s": "codeaba",
+    "2s": "codeabas",
+    "3s": "codeaba",
+    "1p": "codeábamos",
+    "2p": "codeabais",
+    "3p": "codeaban"
+  },
+  "PPSI": {
+    "1s": "codeé",
+    "2s": "codeaste",
+    "3s": "codeó",
+    "1p": "codeamos",
+    "2p": "codeasteis",
+    "3p": "codearon"
+  },
+  "FutSI": {
+    "1s": "codearé",
+    "2s": "codearás",
+    "3s": "codeará",
+    "1p": "codearemos",
+    "2p": "codearéis",
+    "3p": "codearán"
+  },
+  "CondS": {
+    "1s": "codearía",
+    "2s": "codearías",
+    "3s": "codearía",
+    "1p": "codearíamos",
+    "2p": "codearíais",
+    "3p": "codearían"
+  },
+  "PresC": {
+    "1s": "codee",
+    "2s": "codees",
+    "3s": "codee",
+    "1p": "codeemos",
+    "2p": "codeéis",
+    "3p": "codeen"
+  },
+  "PMQPSI": {
+    "1s": "codeara",
+    "2s": "codearas",
+    "3s": "codeara",
+    "1p": "codeáramos",
+    "2p": "codearais",
+    "3p": "codearan"
+  },
+  "PImpC": {
+    "1s": "codease",
+    "2s": "codeases",
+    "3s": "codease",
+    "1p": "codeásemos",
+    "2p": "codeaseis",
+    "3p": "codeasen"
+  },
+  "FutSC": {
+    "1s": "codeare",
+    "2s": "codeares",
+    "3s": "codeare",
+    "1p": "codeáremos",
+    "2p": "codeareis",
+    "3p": "codearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "codea",
+    "3s": "codee",
+    "1p": "codeemos",
+    "2p": "codead",
+    "3p": "codeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no codees",
+    "3s": "no codee",
+    "1p": "no codeemos",
+    "2p": "no codeéis",
+    "3p": "no codeen"
+  },
+  "Part-ter": {
+    "": "codeado"
+  },
+  "Part-ser": {
+    "ms": "codeado",
+    "fs": "codeada",
+    "mp": "codeados",
+    "fp": "codeadas"
+  }
+}

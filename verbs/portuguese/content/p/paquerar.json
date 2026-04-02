@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "paquerar"
+  },
+  "InfP": {
+    "1s": "paquerar",
+    "2s": "paquerares",
+    "3s": "paquerar",
+    "1p": "paquerarmos",
+    "2p": "paquerardes",
+    "3p": "paquerarem"
+  },
+  "Ger": {
+    "": "paquerando"
+  },
+  "PresI": {
+    "1s": "paquero",
+    "2s": "paqueras",
+    "3s": "paquera",
+    "1p": "paqueramos",
+    "2p": "paquerais",
+    "3p": "paqueram"
+  },
+  "PImpI": {
+    "1s": "paquerava",
+    "2s": "paqueravas",
+    "3s": "paquerava",
+    "1p": "paquerávamos",
+    "2p": "paqueráveis",
+    "3p": "paqueravam"
+  },
+  "PPSI": {
+    "1s": "paquerei",
+    "2s": "paqueraste",
+    "3s": "paquerou",
+    "1p": "paquerámos",
+    "2p": "paquerastes",
+    "3p": "paqueraram"
+  },
+  "PMQPSI": {
+    "1s": "paquerara",
+    "2s": "paqueraras",
+    "3s": "paquerara",
+    "1p": "paqueráramos",
+    "2p": "paqueráreis",
+    "3p": "paqueraram"
+  },
+  "FutSI": {
+    "1s": "paquerarei",
+    "2s": "paquerarás",
+    "3s": "paquerará",
+    "1p": "paqueraremos",
+    "2p": "paquerareis",
+    "3p": "paquerarão"
+  },
+  "CondS": {
+    "1s": "paqueraria",
+    "2s": "paquerarias",
+    "3s": "paqueraria",
+    "1p": "paqueraríamos",
+    "2p": "paqueraríeis",
+    "3p": "paquerariam"
+  },
+  "PresC": {
+    "1s": "paquere",
+    "2s": "paqueres",
+    "3s": "paquere",
+    "1p": "paqueremos",
+    "2p": "paquereis",
+    "3p": "paquerem"
+  },
+  "PImpC": {
+    "1s": "paquerasse",
+    "2s": "paquerasses",
+    "3s": "paquerasse",
+    "1p": "paquerássemos",
+    "2p": "paquerásseis",
+    "3p": "paquerassem"
+  },
+  "FutSC": {
+    "1s": "paquerar",
+    "2s": "paquerares",
+    "3s": "paquerar",
+    "1p": "paquerarmos",
+    "2p": "paquerardes",
+    "3p": "paquerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "paquera",
+    "3s": "paquere",
+    "1p": "paqueremos",
+    "2p": "paquerai",
+    "3p": "paquerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não paqueres",
+    "3s": "não paquere",
+    "1p": "não paqueremos",
+    "2p": "não paquereis",
+    "3p": "não paquerem"
+  },
+  "Part-ter": {
+    "": "paquerado"
+  },
+  "Part-ser": {
+    "ms": "paquerado",
+    "fs": "paquerada",
+    "mp": "paquerados",
+    "fp": "paqueradas"
+  }
+}

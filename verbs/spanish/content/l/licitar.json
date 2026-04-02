@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "licitar"
+  },
+  "Ger": {
+    "": "licitando"
+  },
+  "PresI": {
+    "1s": "licito",
+    "2s": "licitas",
+    "3s": "licita",
+    "1p": "licitamos",
+    "2p": "licitáis",
+    "3p": "licitan"
+  },
+  "PImpI": {
+    "1s": "licitaba",
+    "2s": "licitabas",
+    "3s": "licitaba",
+    "1p": "licitábamos",
+    "2p": "licitabais",
+    "3p": "licitaban"
+  },
+  "PPSI": {
+    "1s": "licité",
+    "2s": "licitaste",
+    "3s": "licitó",
+    "1p": "licitamos",
+    "2p": "licitasteis",
+    "3p": "licitaron"
+  },
+  "FutSI": {
+    "1s": "licitaré",
+    "2s": "licitarás",
+    "3s": "licitará",
+    "1p": "licitaremos",
+    "2p": "licitaréis",
+    "3p": "licitarán"
+  },
+  "CondS": {
+    "1s": "licitaría",
+    "2s": "licitarías",
+    "3s": "licitaría",
+    "1p": "licitaríamos",
+    "2p": "licitaríais",
+    "3p": "licitarían"
+  },
+  "PresC": {
+    "1s": "licite",
+    "2s": "licites",
+    "3s": "licite",
+    "1p": "licitemos",
+    "2p": "licitéis",
+    "3p": "liciten"
+  },
+  "PMQPSI": {
+    "1s": "licitara",
+    "2s": "licitaras",
+    "3s": "licitara",
+    "1p": "licitáramos",
+    "2p": "licitarais",
+    "3p": "licitaran"
+  },
+  "PImpC": {
+    "1s": "licitase",
+    "2s": "licitases",
+    "3s": "licitase",
+    "1p": "licitásemos",
+    "2p": "licitaseis",
+    "3p": "licitasen"
+  },
+  "FutSC": {
+    "1s": "licitare",
+    "2s": "licitares",
+    "3s": "licitare",
+    "1p": "licitáremos",
+    "2p": "licitareis",
+    "3p": "licitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "licita",
+    "3s": "licite",
+    "1p": "licitemos",
+    "2p": "licitad",
+    "3p": "liciten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no licites",
+    "3s": "no licite",
+    "1p": "no licitemos",
+    "2p": "no licitéis",
+    "3p": "no liciten"
+  },
+  "Part-ter": {
+    "": "licitado"
+  },
+  "Part-ser": {
+    "ms": "licitado",
+    "fs": "licitada",
+    "mp": "licitados",
+    "fp": "licitadas"
+  }
+}

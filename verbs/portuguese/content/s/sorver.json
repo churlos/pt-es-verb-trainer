@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sorver"
+  },
+  "InfP": {
+    "1s": "sorver",
+    "2s": "sorveres",
+    "3s": "sorver",
+    "1p": "sorvermos",
+    "2p": "sorverdes",
+    "3p": "sorverem"
+  },
+  "Ger": {
+    "": "sorvendo"
+  },
+  "PresI": {
+    "1s": "sorvo",
+    "2s": "sorves",
+    "3s": "sorve",
+    "1p": "sorvemos",
+    "2p": "sorveis",
+    "3p": "sorvem"
+  },
+  "PImpI": {
+    "1s": "sorvia",
+    "2s": "sorvias",
+    "3s": "sorvia",
+    "1p": "sorvíamos",
+    "2p": "sorvíeis",
+    "3p": "sorviam"
+  },
+  "PPSI": {
+    "1s": "sorvi",
+    "2s": "sorveste",
+    "3s": "sorveu",
+    "1p": "sorvemos",
+    "2p": "sorvestes",
+    "3p": "sorveram"
+  },
+  "PMQPSI": {
+    "1s": "sorvera",
+    "2s": "sorveras",
+    "3s": "sorvera",
+    "1p": "sorvêramos",
+    "2p": "sorvêreis",
+    "3p": "sorveram"
+  },
+  "FutSI": {
+    "1s": "sorverei",
+    "2s": "sorverás",
+    "3s": "sorverá",
+    "1p": "sorveremos",
+    "2p": "sorvereis",
+    "3p": "sorverão"
+  },
+  "CondS": {
+    "1s": "sorveria",
+    "2s": "sorverias",
+    "3s": "sorveria",
+    "1p": "sorveríamos",
+    "2p": "sorveríeis",
+    "3p": "sorveriam"
+  },
+  "PresC": {
+    "1s": "sorva",
+    "2s": "sorvas",
+    "3s": "sorva",
+    "1p": "sorvamos",
+    "2p": "sorvais",
+    "3p": "sorvam"
+  },
+  "PImpC": {
+    "1s": "sorvesse",
+    "2s": "sorvesses",
+    "3s": "sorvesse",
+    "1p": "sorvêssemos",
+    "2p": "sorvêsseis",
+    "3p": "sorvessem"
+  },
+  "FutSC": {
+    "1s": "sorver",
+    "2s": "sorveres",
+    "3s": "sorver",
+    "1p": "sorvermos",
+    "2p": "sorverdes",
+    "3p": "sorverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sorve",
+    "3s": "sorva",
+    "1p": "sorvamos",
+    "2p": "sorvei",
+    "3p": "sorvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sorvas",
+    "3s": "não sorva",
+    "1p": "não sorvamos",
+    "2p": "não sorvais",
+    "3p": "não sorvam"
+  },
+  "Part-ter": {
+    "": "sorvido"
+  },
+  "Part-ser": {
+    "ms": "sorvido",
+    "fs": "sorvida",
+    "mp": "sorvidos",
+    "fp": "sorvidas"
+  }
+}

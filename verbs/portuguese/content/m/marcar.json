@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "marcar"
+  },
+  "InfP": {
+    "1s": "marcar",
+    "2s": "marcares",
+    "3s": "marcar",
+    "1p": "marcarmos",
+    "2p": "marcardes",
+    "3p": "marcarem"
+  },
+  "Ger": {
+    "": "marcando"
+  },
+  "PresI": {
+    "1s": "marco",
+    "2s": "marcas",
+    "3s": "marca",
+    "1p": "marcamos",
+    "2p": "marcais",
+    "3p": "marcam"
+  },
+  "PImpI": {
+    "1s": "marcava",
+    "2s": "marcavas",
+    "3s": "marcava",
+    "1p": "marcávamos",
+    "2p": "marcáveis",
+    "3p": "marcavam"
+  },
+  "PPSI": {
+    "1s": "marquei",
+    "2s": "marcaste",
+    "3s": "marcou",
+    "1p": "marcámos",
+    "2p": "marcastes",
+    "3p": "marcaram"
+  },
+  "PMQPSI": {
+    "1s": "marcara",
+    "2s": "marcaras",
+    "3s": "marcara",
+    "1p": "marcáramos",
+    "2p": "marcáreis",
+    "3p": "marcaram"
+  },
+  "FutSI": {
+    "1s": "marcarei",
+    "2s": "marcarás",
+    "3s": "marcará",
+    "1p": "marcaremos",
+    "2p": "marcareis",
+    "3p": "marcarão"
+  },
+  "CondS": {
+    "1s": "marcaria",
+    "2s": "marcarias",
+    "3s": "marcaria",
+    "1p": "marcaríamos",
+    "2p": "marcaríeis",
+    "3p": "marcariam"
+  },
+  "PresC": {
+    "1s": "marque",
+    "2s": "marques",
+    "3s": "marque",
+    "1p": "marquemos",
+    "2p": "marqueis",
+    "3p": "marquem"
+  },
+  "PImpC": {
+    "1s": "marcasse",
+    "2s": "marcasses",
+    "3s": "marcasse",
+    "1p": "marcássemos",
+    "2p": "marcásseis",
+    "3p": "marcassem"
+  },
+  "FutSC": {
+    "1s": "marcar",
+    "2s": "marcares",
+    "3s": "marcar",
+    "1p": "marcarmos",
+    "2p": "marcardes",
+    "3p": "marcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "marca",
+    "3s": "marque",
+    "1p": "marquemos",
+    "2p": "marcai",
+    "3p": "marquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não marques",
+    "3s": "não marque",
+    "1p": "não marquemos",
+    "2p": "não marqueis",
+    "3p": "não marquem"
+  },
+  "Part-ter": {
+    "": "marcado"
+  },
+  "Part-ser": {
+    "ms": "marcado",
+    "fs": "marcada",
+    "mp": "marcados",
+    "fp": "marcadas"
+  }
+}

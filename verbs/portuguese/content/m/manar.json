@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "manar"
+  },
+  "InfP": {
+    "1s": "manar",
+    "2s": "manares",
+    "3s": "manar",
+    "1p": "manarmos",
+    "2p": "manardes",
+    "3p": "manarem"
+  },
+  "Ger": {
+    "": "manando"
+  },
+  "PresI": {
+    "1s": "mano",
+    "2s": "manas",
+    "3s": "mana",
+    "1p": "manamos",
+    "2p": "manais",
+    "3p": "manam"
+  },
+  "PImpI": {
+    "1s": "manava",
+    "2s": "manavas",
+    "3s": "manava",
+    "1p": "manávamos",
+    "2p": "manáveis",
+    "3p": "manavam"
+  },
+  "PPSI": {
+    "1s": "manei",
+    "2s": "manaste",
+    "3s": "manou",
+    "1p": "manámos",
+    "2p": "manastes",
+    "3p": "manaram"
+  },
+  "PMQPSI": {
+    "1s": "manara",
+    "2s": "manaras",
+    "3s": "manara",
+    "1p": "manáramos",
+    "2p": "manáreis",
+    "3p": "manaram"
+  },
+  "FutSI": {
+    "1s": "manarei",
+    "2s": "manarás",
+    "3s": "manará",
+    "1p": "manaremos",
+    "2p": "manareis",
+    "3p": "manarão"
+  },
+  "CondS": {
+    "1s": "manaria",
+    "2s": "manarias",
+    "3s": "manaria",
+    "1p": "manaríamos",
+    "2p": "manaríeis",
+    "3p": "manariam"
+  },
+  "PresC": {
+    "1s": "mane",
+    "2s": "manes",
+    "3s": "mane",
+    "1p": "manemos",
+    "2p": "maneis",
+    "3p": "manem"
+  },
+  "PImpC": {
+    "1s": "manasse",
+    "2s": "manasses",
+    "3s": "manasse",
+    "1p": "manássemos",
+    "2p": "manásseis",
+    "3p": "manassem"
+  },
+  "FutSC": {
+    "1s": "manar",
+    "2s": "manares",
+    "3s": "manar",
+    "1p": "manarmos",
+    "2p": "manardes",
+    "3p": "manarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mana",
+    "3s": "mane",
+    "1p": "manemos",
+    "2p": "manai",
+    "3p": "manem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não manes",
+    "3s": "não mane",
+    "1p": "não manemos",
+    "2p": "não maneis",
+    "3p": "não manem"
+  },
+  "Part-ter": {
+    "": "manado"
+  },
+  "Part-ser": {
+    "ms": "manado",
+    "fs": "manada",
+    "mp": "manados",
+    "fp": "manadas"
+  }
+}

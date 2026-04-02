@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "determinar"
+  },
+  "InfP": {
+    "1s": "determinar",
+    "2s": "determinares",
+    "3s": "determinar",
+    "1p": "determinarmos",
+    "2p": "determinardes",
+    "3p": "determinarem"
+  },
+  "Ger": {
+    "": "determinando"
+  },
+  "PresI": {
+    "1s": "determino",
+    "2s": "determinas",
+    "3s": "determina",
+    "1p": "determinamos",
+    "2p": "determinais",
+    "3p": "determinam"
+  },
+  "PImpI": {
+    "1s": "determinava",
+    "2s": "determinavas",
+    "3s": "determinava",
+    "1p": "determinávamos",
+    "2p": "determináveis",
+    "3p": "determinavam"
+  },
+  "PPSI": {
+    "1s": "determinei",
+    "2s": "determinaste",
+    "3s": "determinou",
+    "1p": "determinámos",
+    "2p": "determinastes",
+    "3p": "determinaram"
+  },
+  "PMQPSI": {
+    "1s": "determinara",
+    "2s": "determinaras",
+    "3s": "determinara",
+    "1p": "determináramos",
+    "2p": "determináreis",
+    "3p": "determinaram"
+  },
+  "FutSI": {
+    "1s": "determinarei",
+    "2s": "determinarás",
+    "3s": "determinará",
+    "1p": "determinaremos",
+    "2p": "determinareis",
+    "3p": "determinarão"
+  },
+  "CondS": {
+    "1s": "determinaria",
+    "2s": "determinarias",
+    "3s": "determinaria",
+    "1p": "determinaríamos",
+    "2p": "determinaríeis",
+    "3p": "determinariam"
+  },
+  "PresC": {
+    "1s": "determine",
+    "2s": "determines",
+    "3s": "determine",
+    "1p": "determinemos",
+    "2p": "determineis",
+    "3p": "determinem"
+  },
+  "PImpC": {
+    "1s": "determinasse",
+    "2s": "determinasses",
+    "3s": "determinasse",
+    "1p": "determinássemos",
+    "2p": "determinásseis",
+    "3p": "determinassem"
+  },
+  "FutSC": {
+    "1s": "determinar",
+    "2s": "determinares",
+    "3s": "determinar",
+    "1p": "determinarmos",
+    "2p": "determinardes",
+    "3p": "determinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "determina",
+    "3s": "determine",
+    "1p": "determinemos",
+    "2p": "determinai",
+    "3p": "determinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não determines",
+    "3s": "não determine",
+    "1p": "não determinemos",
+    "2p": "não determineis",
+    "3p": "não determinem"
+  },
+  "Part-ter": {
+    "": "determinado"
+  },
+  "Part-ser": {
+    "ms": "determinado",
+    "fs": "determinada",
+    "mp": "determinados",
+    "fp": "determinadas"
+  }
+}

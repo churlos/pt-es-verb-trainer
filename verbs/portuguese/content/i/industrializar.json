@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "industrializar"
+  },
+  "InfP": {
+    "1s": "industrializar",
+    "2s": "industrializares",
+    "3s": "industrializar",
+    "1p": "industrializarmos",
+    "2p": "industrializardes",
+    "3p": "industrializarem"
+  },
+  "Ger": {
+    "": "industrializando"
+  },
+  "PresI": {
+    "1s": "industrializo",
+    "2s": "industrializas",
+    "3s": "industrializa",
+    "1p": "industrializamos",
+    "2p": "industrializais",
+    "3p": "industrializam"
+  },
+  "PImpI": {
+    "1s": "industrializava",
+    "2s": "industrializavas",
+    "3s": "industrializava",
+    "1p": "industrializávamos",
+    "2p": "industrializáveis",
+    "3p": "industrializavam"
+  },
+  "PPSI": {
+    "1s": "industrializei",
+    "2s": "industrializaste",
+    "3s": "industrializou",
+    "1p": "industrializámos",
+    "2p": "industrializastes",
+    "3p": "industrializaram"
+  },
+  "PMQPSI": {
+    "1s": "industrializara",
+    "2s": "industrializaras",
+    "3s": "industrializara",
+    "1p": "industrializáramos",
+    "2p": "industrializáreis",
+    "3p": "industrializaram"
+  },
+  "FutSI": {
+    "1s": "industrializarei",
+    "2s": "industrializarás",
+    "3s": "industrializará",
+    "1p": "industrializaremos",
+    "2p": "industrializareis",
+    "3p": "industrializarão"
+  },
+  "CondS": {
+    "1s": "industrializaria",
+    "2s": "industrializarias",
+    "3s": "industrializaria",
+    "1p": "industrializaríamos",
+    "2p": "industrializaríeis",
+    "3p": "industrializariam"
+  },
+  "PresC": {
+    "1s": "industrialize",
+    "2s": "industrializes",
+    "3s": "industrialize",
+    "1p": "industrializemos",
+    "2p": "industrializeis",
+    "3p": "industrializem"
+  },
+  "PImpC": {
+    "1s": "industrializasse",
+    "2s": "industrializasses",
+    "3s": "industrializasse",
+    "1p": "industrializássemos",
+    "2p": "industrializásseis",
+    "3p": "industrializassem"
+  },
+  "FutSC": {
+    "1s": "industrializar",
+    "2s": "industrializares",
+    "3s": "industrializar",
+    "1p": "industrializarmos",
+    "2p": "industrializardes",
+    "3p": "industrializarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "industrializa",
+    "3s": "industrialize",
+    "1p": "industrializemos",
+    "2p": "industrializai",
+    "3p": "industrializem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não industrializes",
+    "3s": "não industrialize",
+    "1p": "não industrializemos",
+    "2p": "não industrializeis",
+    "3p": "não industrializem"
+  },
+  "Part-ter": {
+    "": "industrializado"
+  },
+  "Part-ser": {
+    "ms": "industrializado",
+    "fs": "industrializada",
+    "mp": "industrializados",
+    "fp": "industrializadas"
+  }
+}

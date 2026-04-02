@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "moderar"
+  },
+  "InfP": {
+    "1s": "moderar",
+    "2s": "moderares",
+    "3s": "moderar",
+    "1p": "moderarmos",
+    "2p": "moderardes",
+    "3p": "moderarem"
+  },
+  "Ger": {
+    "": "moderando"
+  },
+  "PresI": {
+    "1s": "modero",
+    "2s": "moderas",
+    "3s": "modera",
+    "1p": "moderamos",
+    "2p": "moderais",
+    "3p": "moderam"
+  },
+  "PImpI": {
+    "1s": "moderava",
+    "2s": "moderavas",
+    "3s": "moderava",
+    "1p": "moderávamos",
+    "2p": "moderáveis",
+    "3p": "moderavam"
+  },
+  "PPSI": {
+    "1s": "moderei",
+    "2s": "moderaste",
+    "3s": "moderou",
+    "1p": "moderámos",
+    "2p": "moderastes",
+    "3p": "moderaram"
+  },
+  "PMQPSI": {
+    "1s": "moderara",
+    "2s": "moderaras",
+    "3s": "moderara",
+    "1p": "moderáramos",
+    "2p": "moderáreis",
+    "3p": "moderaram"
+  },
+  "FutSI": {
+    "1s": "moderarei",
+    "2s": "moderarás",
+    "3s": "moderará",
+    "1p": "moderaremos",
+    "2p": "moderareis",
+    "3p": "moderarão"
+  },
+  "CondS": {
+    "1s": "moderaria",
+    "2s": "moderarias",
+    "3s": "moderaria",
+    "1p": "moderaríamos",
+    "2p": "moderaríeis",
+    "3p": "moderariam"
+  },
+  "PresC": {
+    "1s": "modere",
+    "2s": "moderes",
+    "3s": "modere",
+    "1p": "moderemos",
+    "2p": "modereis",
+    "3p": "moderem"
+  },
+  "PImpC": {
+    "1s": "moderasse",
+    "2s": "moderasses",
+    "3s": "moderasse",
+    "1p": "moderássemos",
+    "2p": "moderásseis",
+    "3p": "moderassem"
+  },
+  "FutSC": {
+    "1s": "moderar",
+    "2s": "moderares",
+    "3s": "moderar",
+    "1p": "moderarmos",
+    "2p": "moderardes",
+    "3p": "moderarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modera",
+    "3s": "modere",
+    "1p": "moderemos",
+    "2p": "moderai",
+    "3p": "moderem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não moderes",
+    "3s": "não modere",
+    "1p": "não moderemos",
+    "2p": "não modereis",
+    "3p": "não moderem"
+  },
+  "Part-ter": {
+    "": "moderado"
+  },
+  "Part-ser": {
+    "ms": "moderado",
+    "fs": "moderada",
+    "mp": "moderados",
+    "fp": "moderadas"
+  }
+}

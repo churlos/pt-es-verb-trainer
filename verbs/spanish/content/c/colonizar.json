@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "colonizar"
+  },
+  "Ger": {
+    "": "colonizando"
+  },
+  "PresI": {
+    "1s": "colonizo",
+    "2s": "colonizas",
+    "3s": "coloniza",
+    "1p": "colonizamos",
+    "2p": "colonizáis",
+    "3p": "colonizan"
+  },
+  "PImpI": {
+    "1s": "colonizaba",
+    "2s": "colonizabas",
+    "3s": "colonizaba",
+    "1p": "colonizábamos",
+    "2p": "colonizabais",
+    "3p": "colonizaban"
+  },
+  "PPSI": {
+    "1s": "colonicé",
+    "2s": "colonizaste",
+    "3s": "colonizó",
+    "1p": "colonizamos",
+    "2p": "colonizasteis",
+    "3p": "colonizaron"
+  },
+  "FutSI": {
+    "1s": "colonizaré",
+    "2s": "colonizarás",
+    "3s": "colonizará",
+    "1p": "colonizaremos",
+    "2p": "colonizaréis",
+    "3p": "colonizarán"
+  },
+  "CondS": {
+    "1s": "colonizaría",
+    "2s": "colonizarías",
+    "3s": "colonizaría",
+    "1p": "colonizaríamos",
+    "2p": "colonizaríais",
+    "3p": "colonizarían"
+  },
+  "PresC": {
+    "1s": "colonice",
+    "2s": "colonices",
+    "3s": "colonice",
+    "1p": "colonicemos",
+    "2p": "colonicéis",
+    "3p": "colonicen"
+  },
+  "PMQPSI": {
+    "1s": "colonizara",
+    "2s": "colonizaras",
+    "3s": "colonizara",
+    "1p": "colonizáramos",
+    "2p": "colonizarais",
+    "3p": "colonizaran"
+  },
+  "PImpC": {
+    "1s": "colonizase",
+    "2s": "colonizases",
+    "3s": "colonizase",
+    "1p": "colonizásemos",
+    "2p": "colonizaseis",
+    "3p": "colonizasen"
+  },
+  "FutSC": {
+    "1s": "colonizare",
+    "2s": "colonizares",
+    "3s": "colonizare",
+    "1p": "colonizáremos",
+    "2p": "colonizareis",
+    "3p": "colonizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coloniza",
+    "3s": "colonice",
+    "1p": "colonicemos",
+    "2p": "colonizad",
+    "3p": "colonicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no colonices",
+    "3s": "no colonice",
+    "1p": "no colonicemos",
+    "2p": "no colonicéis",
+    "3p": "no colonicen"
+  },
+  "Part-ter": {
+    "": "colonizado"
+  },
+  "Part-ser": {
+    "ms": "colonizado",
+    "fs": "colonizada",
+    "mp": "colonizados",
+    "fp": "colonizadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estagnar"
+  },
+  "InfP": {
+    "1s": "estagnar",
+    "2s": "estagnares",
+    "3s": "estagnar",
+    "1p": "estagnarmos",
+    "2p": "estagnardes",
+    "3p": "estagnarem"
+  },
+  "Ger": {
+    "": "estagnando"
+  },
+  "PresI": {
+    "1s": "estagno",
+    "2s": "estagnas",
+    "3s": "estagna",
+    "1p": "estagnamos",
+    "2p": "estagnais",
+    "3p": "estagnam"
+  },
+  "PImpI": {
+    "1s": "estagnava",
+    "2s": "estagnavas",
+    "3s": "estagnava",
+    "1p": "estagnávamos",
+    "2p": "estagnáveis",
+    "3p": "estagnavam"
+  },
+  "PPSI": {
+    "1s": "estagnei",
+    "2s": "estagnaste",
+    "3s": "estagnou",
+    "1p": "estagnámos",
+    "2p": "estagnastes",
+    "3p": "estagnaram"
+  },
+  "PMQPSI": {
+    "1s": "estagnara",
+    "2s": "estagnaras",
+    "3s": "estagnara",
+    "1p": "estagnáramos",
+    "2p": "estagnáreis",
+    "3p": "estagnaram"
+  },
+  "FutSI": {
+    "1s": "estagnarei",
+    "2s": "estagnarás",
+    "3s": "estagnará",
+    "1p": "estagnaremos",
+    "2p": "estagnareis",
+    "3p": "estagnarão"
+  },
+  "CondS": {
+    "1s": "estagnaria",
+    "2s": "estagnarias",
+    "3s": "estagnaria",
+    "1p": "estagnaríamos",
+    "2p": "estagnaríeis",
+    "3p": "estagnariam"
+  },
+  "PresC": {
+    "1s": "estagne",
+    "2s": "estagnes",
+    "3s": "estagne",
+    "1p": "estagnemos",
+    "2p": "estagneis",
+    "3p": "estagnem"
+  },
+  "PImpC": {
+    "1s": "estagnasse",
+    "2s": "estagnasses",
+    "3s": "estagnasse",
+    "1p": "estagnássemos",
+    "2p": "estagnásseis",
+    "3p": "estagnassem"
+  },
+  "FutSC": {
+    "1s": "estagnar",
+    "2s": "estagnares",
+    "3s": "estagnar",
+    "1p": "estagnarmos",
+    "2p": "estagnardes",
+    "3p": "estagnarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estagna",
+    "3s": "estagne",
+    "1p": "estagnemos",
+    "2p": "estagnai",
+    "3p": "estagnem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estagnes",
+    "3s": "não estagne",
+    "1p": "não estagnemos",
+    "2p": "não estagneis",
+    "3p": "não estagnem"
+  },
+  "Part-ter": {
+    "": "estagnado"
+  },
+  "Part-ser": {
+    "ms": "estagnado",
+    "fs": "estagnada",
+    "mp": "estagnados",
+    "fp": "estagnadas"
+  }
+}

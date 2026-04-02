@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tingir"
+  },
+  "InfP": {
+    "1s": "tingir",
+    "2s": "tingires",
+    "3s": "tingir",
+    "1p": "tingirmos",
+    "2p": "tingirdes",
+    "3p": "tingirem"
+  },
+  "Ger": {
+    "": "tingindo"
+  },
+  "PresI": {
+    "1s": "tinjo",
+    "2s": "tinges",
+    "3s": "tinge",
+    "1p": "tingimos",
+    "2p": "tingis",
+    "3p": "tingem"
+  },
+  "PImpI": {
+    "1s": "tingia",
+    "2s": "tingias",
+    "3s": "tingia",
+    "1p": "tingíamos",
+    "2p": "tingíeis",
+    "3p": "tingiam"
+  },
+  "PPSI": {
+    "1s": "tingi",
+    "2s": "tingiste",
+    "3s": "tingiu",
+    "1p": "tingimos",
+    "2p": "tingistes",
+    "3p": "tingiram"
+  },
+  "PMQPSI": {
+    "1s": "tingira",
+    "2s": "tingiras",
+    "3s": "tingira",
+    "1p": "tingíramos",
+    "2p": "tingíreis",
+    "3p": "tingiram"
+  },
+  "FutSI": {
+    "1s": "tingirei",
+    "2s": "tingirás",
+    "3s": "tingirá",
+    "1p": "tingiremos",
+    "2p": "tingireis",
+    "3p": "tingirão"
+  },
+  "CondS": {
+    "1s": "tingiria",
+    "2s": "tingirias",
+    "3s": "tingiria",
+    "1p": "tingiríamos",
+    "2p": "tingiríeis",
+    "3p": "tingiriam"
+  },
+  "PresC": {
+    "1s": "tinja",
+    "2s": "tinjas",
+    "3s": "tinja",
+    "1p": "tinjamos",
+    "2p": "tinjais",
+    "3p": "tinjam"
+  },
+  "PImpC": {
+    "1s": "tingisse",
+    "2s": "tingisses",
+    "3s": "tingisse",
+    "1p": "tingíssemos",
+    "2p": "tingísseis",
+    "3p": "tingissem"
+  },
+  "FutSC": {
+    "1s": "tingir",
+    "2s": "tingires",
+    "3s": "tingir",
+    "1p": "tingirmos",
+    "2p": "tingirdes",
+    "3p": "tingirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tinge",
+    "3s": "tinja",
+    "1p": "tinjamos",
+    "2p": "tingi",
+    "3p": "tinjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tinjas",
+    "3s": "não tinja",
+    "1p": "não tinjamos",
+    "2p": "não tinjais",
+    "3p": "não tinjam"
+  },
+  "Part-ter": {
+    "": "tingido"
+  },
+  "Part-ser": {
+    "ms": "tingido",
+    "fs": "tingida",
+    "mp": "tingidos",
+    "fp": "tingidas"
+  }
+}

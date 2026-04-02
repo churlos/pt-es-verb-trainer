@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "despertar"
+  },
+  "Ger": {
+    "": "despertando"
+  },
+  "PresI": {
+    "1s": "despierto",
+    "2s": "despiertas",
+    "3s": "despierta",
+    "1p": "despertamos",
+    "2p": "despertáis",
+    "3p": "despiertan"
+  },
+  "PImpI": {
+    "1s": "despertaba",
+    "2s": "despertabas",
+    "3s": "despertaba",
+    "1p": "despertábamos",
+    "2p": "despertabais",
+    "3p": "despertaban"
+  },
+  "PPSI": {
+    "1s": "desperté",
+    "2s": "despertaste",
+    "3s": "despertó",
+    "1p": "despertamos",
+    "2p": "despertasteis",
+    "3p": "despertaron"
+  },
+  "FutSI": {
+    "1s": "despertaré",
+    "2s": "despertarás",
+    "3s": "despertará",
+    "1p": "despertaremos",
+    "2p": "despertaréis",
+    "3p": "despertarán"
+  },
+  "CondS": {
+    "1s": "despertaría",
+    "2s": "despertarías",
+    "3s": "despertaría",
+    "1p": "despertaríamos",
+    "2p": "despertaríais",
+    "3p": "despertarían"
+  },
+  "PresC": {
+    "1s": "despierte",
+    "2s": "despiertes",
+    "3s": "despierte",
+    "1p": "despertemos",
+    "2p": "despertéis",
+    "3p": "despierten"
+  },
+  "PMQPSI": {
+    "1s": "despertara",
+    "2s": "despertaras",
+    "3s": "despertara",
+    "1p": "despertáramos",
+    "2p": "despertarais",
+    "3p": "despertaran"
+  },
+  "PImpC": {
+    "1s": "despertase",
+    "2s": "despertases",
+    "3s": "despertase",
+    "1p": "despertásemos",
+    "2p": "despertaseis",
+    "3p": "despertasen"
+  },
+  "FutSC": {
+    "1s": "despertare",
+    "2s": "despertares",
+    "3s": "despertare",
+    "1p": "despertáremos",
+    "2p": "despertareis",
+    "3p": "despertaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "despierta",
+    "3s": "despierte",
+    "1p": "despertemos",
+    "2p": "despertad",
+    "3p": "despierten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no despiertes",
+    "3s": "no despierte",
+    "1p": "no despertemos",
+    "2p": "no despertéis",
+    "3p": "no despierten"
+  },
+  "Part-ter": {
+    "": "despertado"
+  },
+  "Part-ser": {
+    "ms": "despertado",
+    "fs": "despertada",
+    "mp": "despertados",
+    "fp": "despertadas"
+  }
+}

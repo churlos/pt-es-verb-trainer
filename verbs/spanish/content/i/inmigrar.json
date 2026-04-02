@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inmigrar"
+  },
+  "Ger": {
+    "": "inmigrando"
+  },
+  "PresI": {
+    "1s": "inmigro",
+    "2s": "inmigras",
+    "3s": "inmigra",
+    "1p": "inmigramos",
+    "2p": "inmigráis",
+    "3p": "inmigran"
+  },
+  "PImpI": {
+    "1s": "inmigraba",
+    "2s": "inmigrabas",
+    "3s": "inmigraba",
+    "1p": "inmigrábamos",
+    "2p": "inmigrabais",
+    "3p": "inmigraban"
+  },
+  "PPSI": {
+    "1s": "inmigré",
+    "2s": "inmigraste",
+    "3s": "inmigró",
+    "1p": "inmigramos",
+    "2p": "inmigrasteis",
+    "3p": "inmigraron"
+  },
+  "FutSI": {
+    "1s": "inmigraré",
+    "2s": "inmigrarás",
+    "3s": "inmigrará",
+    "1p": "inmigraremos",
+    "2p": "inmigraréis",
+    "3p": "inmigrarán"
+  },
+  "CondS": {
+    "1s": "inmigraría",
+    "2s": "inmigrarías",
+    "3s": "inmigraría",
+    "1p": "inmigraríamos",
+    "2p": "inmigraríais",
+    "3p": "inmigrarían"
+  },
+  "PresC": {
+    "1s": "inmigre",
+    "2s": "inmigres",
+    "3s": "inmigre",
+    "1p": "inmigremos",
+    "2p": "inmigréis",
+    "3p": "inmigren"
+  },
+  "PMQPSI": {
+    "1s": "inmigrara",
+    "2s": "inmigraras",
+    "3s": "inmigrara",
+    "1p": "inmigráramos",
+    "2p": "inmigrarais",
+    "3p": "inmigraran"
+  },
+  "PImpC": {
+    "1s": "inmigrase",
+    "2s": "inmigrases",
+    "3s": "inmigrase",
+    "1p": "inmigrásemos",
+    "2p": "inmigraseis",
+    "3p": "inmigrasen"
+  },
+  "FutSC": {
+    "1s": "inmigrare",
+    "2s": "inmigrares",
+    "3s": "inmigrare",
+    "1p": "inmigráremos",
+    "2p": "inmigrareis",
+    "3p": "inmigraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inmigra",
+    "3s": "inmigre",
+    "1p": "inmigremos",
+    "2p": "inmigrad",
+    "3p": "inmigren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inmigres",
+    "3s": "no inmigre",
+    "1p": "no inmigremos",
+    "2p": "no inmigréis",
+    "3p": "no inmigren"
+  },
+  "Part-ter": {
+    "": "inmigrado"
+  },
+  "Part-ser": {
+    "ms": "inmigrado",
+    "fs": "inmigrada",
+    "mp": "inmigrados",
+    "fp": "inmigradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subtender"
+  },
+  "Ger": {
+    "": "subtendiendo"
+  },
+  "PresI": {
+    "1s": "subtiendo",
+    "2s": "subtiendes",
+    "3s": "subtiende",
+    "1p": "subtendemos",
+    "2p": "subtendéis",
+    "3p": "subtienden"
+  },
+  "PImpI": {
+    "1s": "subtendía",
+    "2s": "subtendías",
+    "3s": "subtendía",
+    "1p": "subtendíamos",
+    "2p": "subtendíais",
+    "3p": "subtendían"
+  },
+  "PPSI": {
+    "1s": "subtendí",
+    "2s": "subtendiste",
+    "3s": "subtendió",
+    "1p": "subtendimos",
+    "2p": "subtendisteis",
+    "3p": "subtendieron"
+  },
+  "FutSI": {
+    "1s": "subtenderé",
+    "2s": "subtenderás",
+    "3s": "subtenderá",
+    "1p": "subtenderemos",
+    "2p": "subtenderéis",
+    "3p": "subtenderán"
+  },
+  "CondS": {
+    "1s": "subtendería",
+    "2s": "subtenderías",
+    "3s": "subtendería",
+    "1p": "subtenderíamos",
+    "2p": "subtenderíais",
+    "3p": "subtenderían"
+  },
+  "PresC": {
+    "1s": "subtienda",
+    "2s": "subtiendas",
+    "3s": "subtienda",
+    "1p": "subtendamos",
+    "2p": "subtendáis",
+    "3p": "subtiendan"
+  },
+  "PMQPSI": {
+    "1s": "subtendiera",
+    "2s": "subtendieras",
+    "3s": "subtendiera",
+    "1p": "subtendiéramos",
+    "2p": "subtendierais",
+    "3p": "subtendieran"
+  },
+  "PImpC": {
+    "1s": "subtendiese",
+    "2s": "subtendieses",
+    "3s": "subtendiese",
+    "1p": "subtendiésemos",
+    "2p": "subtendieseis",
+    "3p": "subtendiesen"
+  },
+  "FutSC": {
+    "1s": "subtendiere",
+    "2s": "subtendieres",
+    "3s": "subtendiere",
+    "1p": "subtendiéremos",
+    "2p": "subtendiereis",
+    "3p": "subtendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "subtiende",
+    "3s": "subtienda",
+    "1p": "subtendamos",
+    "2p": "subtended",
+    "3p": "subtiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subtiendas",
+    "3s": "no subtienda",
+    "1p": "no subtendamos",
+    "2p": "no subtendáis",
+    "3p": "no subtiendan"
+  },
+  "Part-ter": {
+    "": "subtendido"
+  },
+  "Part-ser": {
+    "ms": "subtendido",
+    "fs": "subtendida",
+    "mp": "subtendidos",
+    "fp": "subtendidas"
+  }
+}

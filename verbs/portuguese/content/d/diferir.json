@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "diferir"
+  },
+  "InfP": {
+    "1s": "diferir",
+    "2s": "diferires",
+    "3s": "diferir",
+    "1p": "diferirmos",
+    "2p": "diferirdes",
+    "3p": "diferirem"
+  },
+  "Ger": {
+    "": "diferindo"
+  },
+  "PresI": {
+    "1s": "difiro",
+    "2s": "diferes",
+    "3s": "difere",
+    "1p": "diferimos",
+    "2p": "diferis",
+    "3p": "diferem"
+  },
+  "PImpI": {
+    "1s": "diferia",
+    "2s": "diferias",
+    "3s": "diferia",
+    "1p": "diferíamos",
+    "2p": "diferíeis",
+    "3p": "diferiam"
+  },
+  "PPSI": {
+    "1s": "diferi",
+    "2s": "diferiste",
+    "3s": "diferiu",
+    "1p": "diferimos",
+    "2p": "diferistes",
+    "3p": "diferiram"
+  },
+  "PMQPSI": {
+    "1s": "diferira",
+    "2s": "diferiras",
+    "3s": "diferira",
+    "1p": "diferíramos",
+    "2p": "diferíreis",
+    "3p": "diferiram"
+  },
+  "FutSI": {
+    "1s": "diferirei",
+    "2s": "diferirás",
+    "3s": "diferirá",
+    "1p": "diferiremos",
+    "2p": "diferireis",
+    "3p": "diferirão"
+  },
+  "CondS": {
+    "1s": "diferiria",
+    "2s": "diferirias",
+    "3s": "diferiria",
+    "1p": "diferiríamos",
+    "2p": "diferiríeis",
+    "3p": "difeririam"
+  },
+  "PresC": {
+    "1s": "difira",
+    "2s": "difiras",
+    "3s": "difira",
+    "1p": "difiramos",
+    "2p": "difirais",
+    "3p": "difiram"
+  },
+  "PImpC": {
+    "1s": "diferisse",
+    "2s": "diferisses",
+    "3s": "diferisse",
+    "1p": "diferíssemos",
+    "2p": "diferísseis",
+    "3p": "diferissem"
+  },
+  "FutSC": {
+    "1s": "diferir",
+    "2s": "diferires",
+    "3s": "diferir",
+    "1p": "diferirmos",
+    "2p": "diferirdes",
+    "3p": "diferirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "difere",
+    "3s": "difira",
+    "1p": "difiramos",
+    "2p": "diferi",
+    "3p": "difiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não difiras",
+    "3s": "não difira",
+    "1p": "não difiramos",
+    "2p": "não difirais",
+    "3p": "não difiram"
+  },
+  "Part-ter": {
+    "": "diferido"
+  },
+  "Part-ser": {
+    "ms": "diferido",
+    "fs": "diferida",
+    "mp": "diferidos",
+    "fp": "diferidas"
+  }
+}

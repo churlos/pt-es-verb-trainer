@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "defender"
+  },
+  "InfP": {
+    "1s": "defender",
+    "2s": "defenderes",
+    "3s": "defender",
+    "1p": "defendermos",
+    "2p": "defenderdes",
+    "3p": "defenderem"
+  },
+  "Ger": {
+    "": "defendendo"
+  },
+  "PresI": {
+    "1s": "defendo",
+    "2s": "defendes",
+    "3s": "defende",
+    "1p": "defendemos",
+    "2p": "defendeis",
+    "3p": "defendem"
+  },
+  "PImpI": {
+    "1s": "defendia",
+    "2s": "defendias",
+    "3s": "defendia",
+    "1p": "defendíamos",
+    "2p": "defendíeis",
+    "3p": "defendiam"
+  },
+  "PPSI": {
+    "1s": "defendi",
+    "2s": "defendeste",
+    "3s": "defendeu",
+    "1p": "defendemos",
+    "2p": "defendestes",
+    "3p": "defenderam"
+  },
+  "PMQPSI": {
+    "1s": "defendera",
+    "2s": "defenderas",
+    "3s": "defendera",
+    "1p": "defendêramos",
+    "2p": "defendêreis",
+    "3p": "defenderam"
+  },
+  "FutSI": {
+    "1s": "defenderei",
+    "2s": "defenderás",
+    "3s": "defenderá",
+    "1p": "defenderemos",
+    "2p": "defendereis",
+    "3p": "defenderão"
+  },
+  "CondS": {
+    "1s": "defenderia",
+    "2s": "defenderias",
+    "3s": "defenderia",
+    "1p": "defenderíamos",
+    "2p": "defenderíeis",
+    "3p": "defenderiam"
+  },
+  "PresC": {
+    "1s": "defenda",
+    "2s": "defendas",
+    "3s": "defenda",
+    "1p": "defendamos",
+    "2p": "defendais",
+    "3p": "defendam"
+  },
+  "PImpC": {
+    "1s": "defendesse",
+    "2s": "defendesses",
+    "3s": "defendesse",
+    "1p": "defendêssemos",
+    "2p": "defendêsseis",
+    "3p": "defendessem"
+  },
+  "FutSC": {
+    "1s": "defender",
+    "2s": "defenderes",
+    "3s": "defender",
+    "1p": "defendermos",
+    "2p": "defenderdes",
+    "3p": "defenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "defende",
+    "3s": "defenda",
+    "1p": "defendamos",
+    "2p": "defendei",
+    "3p": "defendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não defendas",
+    "3s": "não defenda",
+    "1p": "não defendamos",
+    "2p": "não defendais",
+    "3p": "não defendam"
+  },
+  "Part-ter": {
+    "": "defendido"
+  },
+  "Part-ser": {
+    "ms": "defendido",
+    "fs": "defendida",
+    "mp": "defendidos",
+    "fp": "defendidas"
+  }
+}

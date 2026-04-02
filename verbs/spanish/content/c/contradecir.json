@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "contradecir"
+  },
+  "Ger": {
+    "": "contradiciendo"
+  },
+  "PresI": {
+    "1s": "contradigo",
+    "2s": "contradices",
+    "3s": "contradice",
+    "1p": "contradecimos",
+    "2p": "contradecís",
+    "3p": "contradicen"
+  },
+  "PImpI": {
+    "1s": "contradecía",
+    "2s": "contradecías",
+    "3s": "contradecía",
+    "1p": "contradecíamos",
+    "2p": "contradecíais",
+    "3p": "contradecían"
+  },
+  "PPSI": {
+    "1s": "contradije",
+    "2s": "contradijiste",
+    "3s": "contradijo",
+    "1p": "contradijimos",
+    "2p": "contradijisteis",
+    "3p": "contradijeron"
+  },
+  "FutSI": {
+    "1s": "contradeciré, contradiré",
+    "2s": "contradecirás, contradirás",
+    "3s": "contradecirá, contradirá",
+    "1p": "contradeciremos, contradiremos",
+    "2p": "contradeciréis, contradiréis",
+    "3p": "contradecirán, contradirán"
+  },
+  "CondS": {
+    "1s": "contradeciría, contradiría",
+    "2s": "contradecirías, contradirías",
+    "3s": "contradeciría, contradiría",
+    "1p": "contradeciríamos, contradiríamos",
+    "2p": "contradeciríais, contradiríais",
+    "3p": "contradecirían, contradirían"
+  },
+  "PresC": {
+    "1s": "contradiga",
+    "2s": "contradigas",
+    "3s": "contradiga",
+    "1p": "contradigamos",
+    "2p": "contradigáis",
+    "3p": "contradigan"
+  },
+  "PMQPSI": {
+    "1s": "contradijera",
+    "2s": "contradijeras",
+    "3s": "contradijera",
+    "1p": "contradijéramos",
+    "2p": "contradijerais",
+    "3p": "contradijeran"
+  },
+  "PImpC": {
+    "1s": "contradijese",
+    "2s": "contradijeses",
+    "3s": "contradijese",
+    "1p": "contradijésemos",
+    "2p": "contradijeseis",
+    "3p": "contradijesen"
+  },
+  "FutSC": {
+    "1s": "contradijere",
+    "2s": "contradijeres",
+    "3s": "contradijere",
+    "1p": "contradijéremos",
+    "2p": "contradijereis",
+    "3p": "contradijeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contradice",
+    "3s": "contradiga",
+    "1p": "contradigamos",
+    "2p": "contradecid",
+    "3p": "contradigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no contradigas",
+    "3s": "no contradiga",
+    "1p": "no contradigamos",
+    "2p": "no contradigáis",
+    "3p": "no contradigan"
+  },
+  "Part-ter": {
+    "": "contradicho"
+  },
+  "Part-ser": {
+    "ms": "contradicho",
+    "fs": "contradicha",
+    "mp": "contradichos",
+    "fp": "contradichas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "causar"
+  },
+  "InfP": {
+    "1s": "causar",
+    "2s": "causares",
+    "3s": "causar",
+    "1p": "causarmos",
+    "2p": "causardes",
+    "3p": "causarem"
+  },
+  "Ger": {
+    "": "causando"
+  },
+  "PresI": {
+    "1s": "causo",
+    "2s": "causas",
+    "3s": "causa",
+    "1p": "causamos",
+    "2p": "causais",
+    "3p": "causam"
+  },
+  "PImpI": {
+    "1s": "causava",
+    "2s": "causavas",
+    "3s": "causava",
+    "1p": "causávamos",
+    "2p": "causáveis",
+    "3p": "causavam"
+  },
+  "PPSI": {
+    "1s": "causei",
+    "2s": "causaste",
+    "3s": "causou",
+    "1p": "causámos",
+    "2p": "causastes",
+    "3p": "causaram"
+  },
+  "PMQPSI": {
+    "1s": "causara",
+    "2s": "causaras",
+    "3s": "causara",
+    "1p": "causáramos",
+    "2p": "causáreis",
+    "3p": "causaram"
+  },
+  "FutSI": {
+    "1s": "causarei",
+    "2s": "causarás",
+    "3s": "causará",
+    "1p": "causaremos",
+    "2p": "causareis",
+    "3p": "causarão"
+  },
+  "CondS": {
+    "1s": "causaria",
+    "2s": "causarias",
+    "3s": "causaria",
+    "1p": "causaríamos",
+    "2p": "causaríeis",
+    "3p": "causariam"
+  },
+  "PresC": {
+    "1s": "cause",
+    "2s": "causes",
+    "3s": "cause",
+    "1p": "causemos",
+    "2p": "causeis",
+    "3p": "causem"
+  },
+  "PImpC": {
+    "1s": "causasse",
+    "2s": "causasses",
+    "3s": "causasse",
+    "1p": "causássemos",
+    "2p": "causásseis",
+    "3p": "causassem"
+  },
+  "FutSC": {
+    "1s": "causar",
+    "2s": "causares",
+    "3s": "causar",
+    "1p": "causarmos",
+    "2p": "causardes",
+    "3p": "causarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "causa",
+    "3s": "cause",
+    "1p": "causemos",
+    "2p": "causai",
+    "3p": "causem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não causes",
+    "3s": "não cause",
+    "1p": "não causemos",
+    "2p": "não causeis",
+    "3p": "não causem"
+  },
+  "Part-ter": {
+    "": "causado"
+  },
+  "Part-ser": {
+    "ms": "causado",
+    "fs": "causada",
+    "mp": "causados",
+    "fp": "causadas"
+  }
+}

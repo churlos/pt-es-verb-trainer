@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ser"
+  },
+  "Ger": {
+    "": "siendo"
+  },
+  "PresI": {
+    "1s": "soy",
+    "2s": "eres",
+    "3s": "es",
+    "1p": "somos",
+    "2p": "sois",
+    "3p": "son"
+  },
+  "PImpI": {
+    "1s": "era",
+    "2s": "eras",
+    "3s": "era",
+    "1p": "éramos",
+    "2p": "erais",
+    "3p": "eran"
+  },
+  "PPSI": {
+    "1s": "fui",
+    "2s": "fuiste",
+    "3s": "fue",
+    "1p": "fuimos",
+    "2p": "fuisteis",
+    "3p": "fueron"
+  },
+  "FutSI": {
+    "1s": "seré",
+    "2s": "serás",
+    "3s": "será",
+    "1p": "seremos",
+    "2p": "seréis",
+    "3p": "serán"
+  },
+  "CondS": {
+    "1s": "sería",
+    "2s": "serías",
+    "3s": "sería",
+    "1p": "seríamos",
+    "2p": "seríais",
+    "3p": "serían"
+  },
+  "PresC": {
+    "1s": "sea",
+    "2s": "seas",
+    "3s": "sea",
+    "1p": "seamos",
+    "2p": "seáis",
+    "3p": "sean"
+  },
+  "PMQPSI": {
+    "1s": "fuera",
+    "2s": "fueras",
+    "3s": "fuera",
+    "1p": "fuéramos",
+    "2p": "fuerais",
+    "3p": "fueran"
+  },
+  "PImpC": {
+    "1s": "fuese",
+    "2s": "fueses",
+    "3s": "fuese",
+    "1p": "fuésemos",
+    "2p": "fueseis",
+    "3p": "fuesen"
+  },
+  "FutSC": {
+    "1s": "fuere",
+    "2s": "fueres",
+    "3s": "fuere",
+    "1p": "fuéremos",
+    "2p": "fuereis",
+    "3p": "fueren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sé",
+    "3s": "sea",
+    "1p": "seamos",
+    "2p": "sed",
+    "3p": "sean"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no seas",
+    "3s": "no sea",
+    "1p": "no seamos",
+    "2p": "no seáis",
+    "3p": "no sean"
+  },
+  "Part-ter": {
+    "": "sido"
+  },
+  "Part-ser": {
+    "ms": "sido",
+    "fs": "sida",
+    "mp": "sidos",
+    "fp": "sidas"
+  }
+}

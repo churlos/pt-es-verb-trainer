@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aguantar"
+  },
+  "Ger": {
+    "": "aguantando"
+  },
+  "PresI": {
+    "1s": "aguanto",
+    "2s": "aguantas",
+    "3s": "aguanta",
+    "1p": "aguantamos",
+    "2p": "aguantáis",
+    "3p": "aguantan"
+  },
+  "PImpI": {
+    "1s": "aguantaba",
+    "2s": "aguantabas",
+    "3s": "aguantaba",
+    "1p": "aguantábamos",
+    "2p": "aguantabais",
+    "3p": "aguantaban"
+  },
+  "PPSI": {
+    "1s": "aguanté",
+    "2s": "aguantaste",
+    "3s": "aguantó",
+    "1p": "aguantamos",
+    "2p": "aguantasteis",
+    "3p": "aguantaron"
+  },
+  "FutSI": {
+    "1s": "aguantaré",
+    "2s": "aguantarás",
+    "3s": "aguantará",
+    "1p": "aguantaremos",
+    "2p": "aguantaréis",
+    "3p": "aguantarán"
+  },
+  "CondS": {
+    "1s": "aguantaría",
+    "2s": "aguantarías",
+    "3s": "aguantaría",
+    "1p": "aguantaríamos",
+    "2p": "aguantaríais",
+    "3p": "aguantarían"
+  },
+  "PresC": {
+    "1s": "aguante",
+    "2s": "aguantes",
+    "3s": "aguante",
+    "1p": "aguantemos",
+    "2p": "aguantéis",
+    "3p": "aguanten"
+  },
+  "PMQPSI": {
+    "1s": "aguantara",
+    "2s": "aguantaras",
+    "3s": "aguantara",
+    "1p": "aguantáramos",
+    "2p": "aguantarais",
+    "3p": "aguantaran"
+  },
+  "PImpC": {
+    "1s": "aguantase",
+    "2s": "aguantases",
+    "3s": "aguantase",
+    "1p": "aguantásemos",
+    "2p": "aguantaseis",
+    "3p": "aguantasen"
+  },
+  "FutSC": {
+    "1s": "aguantare",
+    "2s": "aguantares",
+    "3s": "aguantare",
+    "1p": "aguantáremos",
+    "2p": "aguantareis",
+    "3p": "aguantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aguanta",
+    "3s": "aguante",
+    "1p": "aguantemos",
+    "2p": "aguantad",
+    "3p": "aguanten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aguantes",
+    "3s": "no aguante",
+    "1p": "no aguantemos",
+    "2p": "no aguantéis",
+    "3p": "no aguanten"
+  },
+  "Part-ter": {
+    "": "aguantado"
+  },
+  "Part-ser": {
+    "ms": "aguantado",
+    "fs": "aguantada",
+    "mp": "aguantados",
+    "fp": "aguantadas"
+  }
+}

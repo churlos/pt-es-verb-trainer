@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "salariar"
+  },
+  "Ger": {
+    "": "salariando"
+  },
+  "PresI": {
+    "1s": "salario",
+    "2s": "salarias",
+    "3s": "salaria",
+    "1p": "salariamos",
+    "2p": "salariáis",
+    "3p": "salarian"
+  },
+  "PImpI": {
+    "1s": "salariaba",
+    "2s": "salariabas",
+    "3s": "salariaba",
+    "1p": "salariábamos",
+    "2p": "salariabais",
+    "3p": "salariaban"
+  },
+  "PPSI": {
+    "1s": "salarié",
+    "2s": "salariaste",
+    "3s": "salarió",
+    "1p": "salariamos",
+    "2p": "salariasteis",
+    "3p": "salariaron"
+  },
+  "FutSI": {
+    "1s": "salariaré",
+    "2s": "salariarás",
+    "3s": "salariará",
+    "1p": "salariaremos",
+    "2p": "salariaréis",
+    "3p": "salariarán"
+  },
+  "CondS": {
+    "1s": "salariaría",
+    "2s": "salariarías",
+    "3s": "salariaría",
+    "1p": "salariaríamos",
+    "2p": "salariaríais",
+    "3p": "salariarían"
+  },
+  "PresC": {
+    "1s": "salarie",
+    "2s": "salaries",
+    "3s": "salarie",
+    "1p": "salariemos",
+    "2p": "salariéis",
+    "3p": "salarien"
+  },
+  "PMQPSI": {
+    "1s": "salariara",
+    "2s": "salariaras",
+    "3s": "salariara",
+    "1p": "salariáramos",
+    "2p": "salariarais",
+    "3p": "salariaran"
+  },
+  "PImpC": {
+    "1s": "salariase",
+    "2s": "salariases",
+    "3s": "salariase",
+    "1p": "salariásemos",
+    "2p": "salariaseis",
+    "3p": "salariasen"
+  },
+  "FutSC": {
+    "1s": "salariare",
+    "2s": "salariares",
+    "3s": "salariare",
+    "1p": "salariáremos",
+    "2p": "salariareis",
+    "3p": "salariaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salaria",
+    "3s": "salarie",
+    "1p": "salariemos",
+    "2p": "salariad",
+    "3p": "salarien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salaries",
+    "3s": "no salarie",
+    "1p": "no salariemos",
+    "2p": "no salariéis",
+    "3p": "no salarien"
+  },
+  "Part-ter": {
+    "": "salariado"
+  },
+  "Part-ser": {
+    "ms": "salariado",
+    "fs": "salariada",
+    "mp": "salariados",
+    "fp": "salariadas"
+  }
+}

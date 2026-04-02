@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conmutar"
+  },
+  "Ger": {
+    "": "conmutando"
+  },
+  "PresI": {
+    "1s": "conmuto",
+    "2s": "conmutas",
+    "3s": "conmuta",
+    "1p": "conmutamos",
+    "2p": "conmutáis",
+    "3p": "conmutan"
+  },
+  "PImpI": {
+    "1s": "conmutaba",
+    "2s": "conmutabas",
+    "3s": "conmutaba",
+    "1p": "conmutábamos",
+    "2p": "conmutabais",
+    "3p": "conmutaban"
+  },
+  "PPSI": {
+    "1s": "conmuté",
+    "2s": "conmutaste",
+    "3s": "conmutó",
+    "1p": "conmutamos",
+    "2p": "conmutasteis",
+    "3p": "conmutaron"
+  },
+  "FutSI": {
+    "1s": "conmutaré",
+    "2s": "conmutarás",
+    "3s": "conmutará",
+    "1p": "conmutaremos",
+    "2p": "conmutaréis",
+    "3p": "conmutarán"
+  },
+  "CondS": {
+    "1s": "conmutaría",
+    "2s": "conmutarías",
+    "3s": "conmutaría",
+    "1p": "conmutaríamos",
+    "2p": "conmutaríais",
+    "3p": "conmutarían"
+  },
+  "PresC": {
+    "1s": "conmute",
+    "2s": "conmutes",
+    "3s": "conmute",
+    "1p": "conmutemos",
+    "2p": "conmutéis",
+    "3p": "conmuten"
+  },
+  "PMQPSI": {
+    "1s": "conmutara",
+    "2s": "conmutaras",
+    "3s": "conmutara",
+    "1p": "conmutáramos",
+    "2p": "conmutarais",
+    "3p": "conmutaran"
+  },
+  "PImpC": {
+    "1s": "conmutase",
+    "2s": "conmutases",
+    "3s": "conmutase",
+    "1p": "conmutásemos",
+    "2p": "conmutaseis",
+    "3p": "conmutasen"
+  },
+  "FutSC": {
+    "1s": "conmutare",
+    "2s": "conmutares",
+    "3s": "conmutare",
+    "1p": "conmutáremos",
+    "2p": "conmutareis",
+    "3p": "conmutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conmuta",
+    "3s": "conmute",
+    "1p": "conmutemos",
+    "2p": "conmutad",
+    "3p": "conmuten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conmutes",
+    "3s": "no conmute",
+    "1p": "no conmutemos",
+    "2p": "no conmutéis",
+    "3p": "no conmuten"
+  },
+  "Part-ter": {
+    "": "conmutado"
+  },
+  "Part-ser": {
+    "ms": "conmutado",
+    "fs": "conmutada",
+    "mp": "conmutados",
+    "fp": "conmutadas"
+  }
+}

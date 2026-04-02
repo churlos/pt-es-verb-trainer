@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "projetar"
+  },
+  "InfP": {
+    "1s": "projetar",
+    "2s": "projetares",
+    "3s": "projetar",
+    "1p": "projetarmos",
+    "2p": "projetardes",
+    "3p": "projetarem"
+  },
+  "Ger": {
+    "": "projetando"
+  },
+  "PresI": {
+    "1s": "projeto",
+    "2s": "projetas",
+    "3s": "projeta",
+    "1p": "projetamos",
+    "2p": "projetais",
+    "3p": "projetam"
+  },
+  "PImpI": {
+    "1s": "projetava",
+    "2s": "projetavas",
+    "3s": "projetava",
+    "1p": "projetávamos",
+    "2p": "projetáveis",
+    "3p": "projetavam"
+  },
+  "PPSI": {
+    "1s": "projetei",
+    "2s": "projetaste",
+    "3s": "projetou",
+    "1p": "projetámos",
+    "2p": "projetastes",
+    "3p": "projetaram"
+  },
+  "PMQPSI": {
+    "1s": "projetara",
+    "2s": "projetaras",
+    "3s": "projetara",
+    "1p": "projetáramos",
+    "2p": "projetáreis",
+    "3p": "projetaram"
+  },
+  "FutSI": {
+    "1s": "projetarei",
+    "2s": "projetarás",
+    "3s": "projetará",
+    "1p": "projetaremos",
+    "2p": "projetareis",
+    "3p": "projetarão"
+  },
+  "CondS": {
+    "1s": "projetaria",
+    "2s": "projetarias",
+    "3s": "projetaria",
+    "1p": "projetaríamos",
+    "2p": "projetaríeis",
+    "3p": "projetariam"
+  },
+  "PresC": {
+    "1s": "projete",
+    "2s": "projetes",
+    "3s": "projete",
+    "1p": "projetemos",
+    "2p": "projeteis",
+    "3p": "projetem"
+  },
+  "PImpC": {
+    "1s": "projetasse",
+    "2s": "projetasses",
+    "3s": "projetasse",
+    "1p": "projetássemos",
+    "2p": "projetásseis",
+    "3p": "projetassem"
+  },
+  "FutSC": {
+    "1s": "projetar",
+    "2s": "projetares",
+    "3s": "projetar",
+    "1p": "projetarmos",
+    "2p": "projetardes",
+    "3p": "projetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "projeta",
+    "3s": "projete",
+    "1p": "projetemos",
+    "2p": "projetai",
+    "3p": "projetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não projetes",
+    "3s": "não projete",
+    "1p": "não projetemos",
+    "2p": "não projeteis",
+    "3p": "não projetem"
+  },
+  "Part-ter": {
+    "": "projetado"
+  },
+  "Part-ser": {
+    "ms": "projetado",
+    "fs": "projetada",
+    "mp": "projetados",
+    "fp": "projetadas"
+  }
+}

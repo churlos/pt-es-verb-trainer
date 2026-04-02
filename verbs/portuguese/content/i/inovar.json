@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inovar"
+  },
+  "InfP": {
+    "1s": "inovar",
+    "2s": "inovares",
+    "3s": "inovar",
+    "1p": "inovarmos",
+    "2p": "inovardes",
+    "3p": "inovarem"
+  },
+  "Ger": {
+    "": "inovando"
+  },
+  "PresI": {
+    "1s": "inovo",
+    "2s": "inovas",
+    "3s": "inova",
+    "1p": "inovamos",
+    "2p": "inovais",
+    "3p": "inovam"
+  },
+  "PImpI": {
+    "1s": "inovava",
+    "2s": "inovavas",
+    "3s": "inovava",
+    "1p": "inovávamos",
+    "2p": "inováveis",
+    "3p": "inovavam"
+  },
+  "PPSI": {
+    "1s": "inovei",
+    "2s": "inovaste",
+    "3s": "inovou",
+    "1p": "inovámos",
+    "2p": "inovastes",
+    "3p": "inovaram"
+  },
+  "PMQPSI": {
+    "1s": "inovara",
+    "2s": "inovaras",
+    "3s": "inovara",
+    "1p": "inováramos",
+    "2p": "inováreis",
+    "3p": "inovaram"
+  },
+  "FutSI": {
+    "1s": "inovarei",
+    "2s": "inovarás",
+    "3s": "inovará",
+    "1p": "inovaremos",
+    "2p": "inovareis",
+    "3p": "inovarão"
+  },
+  "CondS": {
+    "1s": "inovaria",
+    "2s": "inovarias",
+    "3s": "inovaria",
+    "1p": "inovaríamos",
+    "2p": "inovaríeis",
+    "3p": "inovariam"
+  },
+  "PresC": {
+    "1s": "inove",
+    "2s": "inoves",
+    "3s": "inove",
+    "1p": "inovemos",
+    "2p": "inoveis",
+    "3p": "inovem"
+  },
+  "PImpC": {
+    "1s": "inovasse",
+    "2s": "inovasses",
+    "3s": "inovasse",
+    "1p": "inovássemos",
+    "2p": "inovásseis",
+    "3p": "inovassem"
+  },
+  "FutSC": {
+    "1s": "inovar",
+    "2s": "inovares",
+    "3s": "inovar",
+    "1p": "inovarmos",
+    "2p": "inovardes",
+    "3p": "inovarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inova",
+    "3s": "inove",
+    "1p": "inovemos",
+    "2p": "inovai",
+    "3p": "inovem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não inoves",
+    "3s": "não inove",
+    "1p": "não inovemos",
+    "2p": "não inoveis",
+    "3p": "não inovem"
+  },
+  "Part-ter": {
+    "": "inovado"
+  },
+  "Part-ser": {
+    "ms": "inovado",
+    "fs": "inovada",
+    "mp": "inovados",
+    "fp": "inovadas"
+  }
+}

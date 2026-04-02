@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acionar"
+  },
+  "InfP": {
+    "1s": "acionar",
+    "2s": "acionares",
+    "3s": "acionar",
+    "1p": "acionarmos",
+    "2p": "acionardes",
+    "3p": "acionarem"
+  },
+  "Ger": {
+    "": "acionando"
+  },
+  "PresI": {
+    "1s": "aciono",
+    "2s": "acionas",
+    "3s": "aciona",
+    "1p": "acionamos",
+    "2p": "acionais",
+    "3p": "acionam"
+  },
+  "PImpI": {
+    "1s": "acionava",
+    "2s": "acionavas",
+    "3s": "acionava",
+    "1p": "acionávamos",
+    "2p": "acionáveis",
+    "3p": "acionavam"
+  },
+  "PPSI": {
+    "1s": "acionei",
+    "2s": "acionaste",
+    "3s": "acionou",
+    "1p": "acionámos",
+    "2p": "acionastes",
+    "3p": "acionaram"
+  },
+  "PMQPSI": {
+    "1s": "acionara",
+    "2s": "acionaras",
+    "3s": "acionara",
+    "1p": "acionáramos",
+    "2p": "acionáreis",
+    "3p": "acionaram"
+  },
+  "FutSI": {
+    "1s": "acionarei",
+    "2s": "acionarás",
+    "3s": "acionará",
+    "1p": "acionaremos",
+    "2p": "acionareis",
+    "3p": "acionarão"
+  },
+  "CondS": {
+    "1s": "acionaria",
+    "2s": "acionarias",
+    "3s": "acionaria",
+    "1p": "acionaríamos",
+    "2p": "acionaríeis",
+    "3p": "acionariam"
+  },
+  "PresC": {
+    "1s": "acione",
+    "2s": "aciones",
+    "3s": "acione",
+    "1p": "acionemos",
+    "2p": "acioneis",
+    "3p": "acionem"
+  },
+  "PImpC": {
+    "1s": "acionasse",
+    "2s": "acionasses",
+    "3s": "acionasse",
+    "1p": "acionássemos",
+    "2p": "acionásseis",
+    "3p": "acionassem"
+  },
+  "FutSC": {
+    "1s": "acionar",
+    "2s": "acionares",
+    "3s": "acionar",
+    "1p": "acionarmos",
+    "2p": "acionardes",
+    "3p": "acionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aciona",
+    "3s": "acione",
+    "1p": "acionemos",
+    "2p": "acionai",
+    "3p": "acionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aciones",
+    "3s": "não acione",
+    "1p": "não acionemos",
+    "2p": "não acioneis",
+    "3p": "não acionem"
+  },
+  "Part-ter": {
+    "": "acionado"
+  },
+  "Part-ser": {
+    "ms": "acionado",
+    "fs": "acionada",
+    "mp": "acionados",
+    "fp": "acionadas"
+  }
+}

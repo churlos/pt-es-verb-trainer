@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trenzar"
+  },
+  "Ger": {
+    "": "trenzando"
+  },
+  "PresI": {
+    "1s": "trenzo",
+    "2s": "trenzas",
+    "3s": "trenza",
+    "1p": "trenzamos",
+    "2p": "trenzáis",
+    "3p": "trenzan"
+  },
+  "PImpI": {
+    "1s": "trenzaba",
+    "2s": "trenzabas",
+    "3s": "trenzaba",
+    "1p": "trenzábamos",
+    "2p": "trenzabais",
+    "3p": "trenzaban"
+  },
+  "PPSI": {
+    "1s": "trencé",
+    "2s": "trenzaste",
+    "3s": "trenzó",
+    "1p": "trenzamos",
+    "2p": "trenzasteis",
+    "3p": "trenzaron"
+  },
+  "FutSI": {
+    "1s": "trenzaré",
+    "2s": "trenzarás",
+    "3s": "trenzará",
+    "1p": "trenzaremos",
+    "2p": "trenzaréis",
+    "3p": "trenzarán"
+  },
+  "CondS": {
+    "1s": "trenzaría",
+    "2s": "trenzarías",
+    "3s": "trenzaría",
+    "1p": "trenzaríamos",
+    "2p": "trenzaríais",
+    "3p": "trenzarían"
+  },
+  "PresC": {
+    "1s": "trence",
+    "2s": "trences",
+    "3s": "trence",
+    "1p": "trencemos",
+    "2p": "trencéis",
+    "3p": "trencen"
+  },
+  "PMQPSI": {
+    "1s": "trenzara",
+    "2s": "trenzaras",
+    "3s": "trenzara",
+    "1p": "trenzáramos",
+    "2p": "trenzarais",
+    "3p": "trenzaran"
+  },
+  "PImpC": {
+    "1s": "trenzase",
+    "2s": "trenzases",
+    "3s": "trenzase",
+    "1p": "trenzásemos",
+    "2p": "trenzaseis",
+    "3p": "trenzasen"
+  },
+  "FutSC": {
+    "1s": "trenzare",
+    "2s": "trenzares",
+    "3s": "trenzare",
+    "1p": "trenzáremos",
+    "2p": "trenzareis",
+    "3p": "trenzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trenza",
+    "3s": "trence",
+    "1p": "trencemos",
+    "2p": "trenzad",
+    "3p": "trencen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trences",
+    "3s": "no trence",
+    "1p": "no trencemos",
+    "2p": "no trencéis",
+    "3p": "no trencen"
+  },
+  "Part-ter": {
+    "": "trenzado"
+  },
+  "Part-ser": {
+    "ms": "trenzado",
+    "fs": "trenzada",
+    "mp": "trenzados",
+    "fp": "trenzadas"
+  }
+}

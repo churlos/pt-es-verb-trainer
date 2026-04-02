@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estudar"
+  },
+  "InfP": {
+    "1s": "estudar",
+    "2s": "estudares",
+    "3s": "estudar",
+    "1p": "estudarmos",
+    "2p": "estudardes",
+    "3p": "estudarem"
+  },
+  "Ger": {
+    "": "estudando"
+  },
+  "PresI": {
+    "1s": "estudo",
+    "2s": "estudas",
+    "3s": "estuda",
+    "1p": "estudamos",
+    "2p": "estudais",
+    "3p": "estudam"
+  },
+  "PImpI": {
+    "1s": "estudava",
+    "2s": "estudavas",
+    "3s": "estudava",
+    "1p": "estudávamos",
+    "2p": "estudáveis",
+    "3p": "estudavam"
+  },
+  "PPSI": {
+    "1s": "estudei",
+    "2s": "estudaste",
+    "3s": "estudou",
+    "1p": "estudámos",
+    "2p": "estudastes",
+    "3p": "estudaram"
+  },
+  "PMQPSI": {
+    "1s": "estudara",
+    "2s": "estudaras",
+    "3s": "estudara",
+    "1p": "estudáramos",
+    "2p": "estudáreis",
+    "3p": "estudaram"
+  },
+  "FutSI": {
+    "1s": "estudarei",
+    "2s": "estudarás",
+    "3s": "estudará",
+    "1p": "estudaremos",
+    "2p": "estudareis",
+    "3p": "estudarão"
+  },
+  "CondS": {
+    "1s": "estudaria",
+    "2s": "estudarias",
+    "3s": "estudaria",
+    "1p": "estudaríamos",
+    "2p": "estudaríeis",
+    "3p": "estudariam"
+  },
+  "PresC": {
+    "1s": "estude",
+    "2s": "estudes",
+    "3s": "estude",
+    "1p": "estudemos",
+    "2p": "estudeis",
+    "3p": "estudem"
+  },
+  "PImpC": {
+    "1s": "estudasse",
+    "2s": "estudasses",
+    "3s": "estudasse",
+    "1p": "estudássemos",
+    "2p": "estudásseis",
+    "3p": "estudassem"
+  },
+  "FutSC": {
+    "1s": "estudar",
+    "2s": "estudares",
+    "3s": "estudar",
+    "1p": "estudarmos",
+    "2p": "estudardes",
+    "3p": "estudarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estuda",
+    "3s": "estude",
+    "1p": "estudemos",
+    "2p": "estudai",
+    "3p": "estudem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estudes",
+    "3s": "não estude",
+    "1p": "não estudemos",
+    "2p": "não estudeis",
+    "3p": "não estudem"
+  },
+  "Part-ter": {
+    "": "estudado"
+  },
+  "Part-ser": {
+    "ms": "estudado",
+    "fs": "estudada",
+    "mp": "estudados",
+    "fp": "estudadas"
+  }
+}

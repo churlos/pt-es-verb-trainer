@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "capar"
+  },
+  "Ger": {
+    "": "capando"
+  },
+  "PresI": {
+    "1s": "capo",
+    "2s": "capas",
+    "3s": "capa",
+    "1p": "capamos",
+    "2p": "capáis",
+    "3p": "capan"
+  },
+  "PImpI": {
+    "1s": "capaba",
+    "2s": "capabas",
+    "3s": "capaba",
+    "1p": "capábamos",
+    "2p": "capabais",
+    "3p": "capaban"
+  },
+  "PPSI": {
+    "1s": "capé",
+    "2s": "capaste",
+    "3s": "capó",
+    "1p": "capamos",
+    "2p": "capasteis",
+    "3p": "caparon"
+  },
+  "FutSI": {
+    "1s": "caparé",
+    "2s": "caparás",
+    "3s": "capará",
+    "1p": "caparemos",
+    "2p": "caparéis",
+    "3p": "caparán"
+  },
+  "CondS": {
+    "1s": "caparía",
+    "2s": "caparías",
+    "3s": "caparía",
+    "1p": "caparíamos",
+    "2p": "caparíais",
+    "3p": "caparían"
+  },
+  "PresC": {
+    "1s": "cape",
+    "2s": "capes",
+    "3s": "cape",
+    "1p": "capemos",
+    "2p": "capéis",
+    "3p": "capen"
+  },
+  "PMQPSI": {
+    "1s": "capara",
+    "2s": "caparas",
+    "3s": "capara",
+    "1p": "capáramos",
+    "2p": "caparais",
+    "3p": "caparan"
+  },
+  "PImpC": {
+    "1s": "capase",
+    "2s": "capases",
+    "3s": "capase",
+    "1p": "capásemos",
+    "2p": "capaseis",
+    "3p": "capasen"
+  },
+  "FutSC": {
+    "1s": "capare",
+    "2s": "capares",
+    "3s": "capare",
+    "1p": "capáremos",
+    "2p": "capareis",
+    "3p": "caparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "capa",
+    "3s": "cape",
+    "1p": "capemos",
+    "2p": "capad",
+    "3p": "capen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no capes",
+    "3s": "no cape",
+    "1p": "no capemos",
+    "2p": "no capéis",
+    "3p": "no capen"
+  },
+  "Part-ter": {
+    "": "capado"
+  },
+  "Part-ser": {
+    "ms": "capado",
+    "fs": "capada",
+    "mp": "capados",
+    "fp": "capadas"
+  }
+}

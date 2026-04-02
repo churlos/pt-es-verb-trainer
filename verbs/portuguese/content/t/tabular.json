@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tabular"
+  },
+  "InfP": {
+    "1s": "tabular",
+    "2s": "tabulares",
+    "3s": "tabular",
+    "1p": "tabularmos",
+    "2p": "tabulardes",
+    "3p": "tabularem"
+  },
+  "Ger": {
+    "": "tabulando"
+  },
+  "PresI": {
+    "1s": "tabulo",
+    "2s": "tabulas",
+    "3s": "tabula",
+    "1p": "tabulamos",
+    "2p": "tabulais",
+    "3p": "tabulam"
+  },
+  "PImpI": {
+    "1s": "tabulava",
+    "2s": "tabulavas",
+    "3s": "tabulava",
+    "1p": "tabulávamos",
+    "2p": "tabuláveis",
+    "3p": "tabulavam"
+  },
+  "PPSI": {
+    "1s": "tabulei",
+    "2s": "tabulaste",
+    "3s": "tabulou",
+    "1p": "tabulámos",
+    "2p": "tabulastes",
+    "3p": "tabularam"
+  },
+  "PMQPSI": {
+    "1s": "tabulara",
+    "2s": "tabularas",
+    "3s": "tabulara",
+    "1p": "tabuláramos",
+    "2p": "tabuláreis",
+    "3p": "tabularam"
+  },
+  "FutSI": {
+    "1s": "tabularei",
+    "2s": "tabularás",
+    "3s": "tabulará",
+    "1p": "tabularemos",
+    "2p": "tabulareis",
+    "3p": "tabularão"
+  },
+  "CondS": {
+    "1s": "tabularia",
+    "2s": "tabularias",
+    "3s": "tabularia",
+    "1p": "tabularíamos",
+    "2p": "tabularíeis",
+    "3p": "tabulariam"
+  },
+  "PresC": {
+    "1s": "tabule",
+    "2s": "tabules",
+    "3s": "tabule",
+    "1p": "tabulemos",
+    "2p": "tabuleis",
+    "3p": "tabulem"
+  },
+  "PImpC": {
+    "1s": "tabulasse",
+    "2s": "tabulasses",
+    "3s": "tabulasse",
+    "1p": "tabulássemos",
+    "2p": "tabulásseis",
+    "3p": "tabulassem"
+  },
+  "FutSC": {
+    "1s": "tabular",
+    "2s": "tabulares",
+    "3s": "tabular",
+    "1p": "tabularmos",
+    "2p": "tabulardes",
+    "3p": "tabularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tabula",
+    "3s": "tabule",
+    "1p": "tabulemos",
+    "2p": "tabulai",
+    "3p": "tabulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tabules",
+    "3s": "não tabule",
+    "1p": "não tabulemos",
+    "2p": "não tabuleis",
+    "3p": "não tabulem"
+  },
+  "Part-ter": {
+    "": "tabulado"
+  },
+  "Part-ser": {
+    "ms": "tabulado",
+    "fs": "tabulada",
+    "mp": "tabulados",
+    "fp": "tabuladas"
+  }
+}

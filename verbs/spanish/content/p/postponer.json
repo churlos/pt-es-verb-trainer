@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "postponer"
+  },
+  "Ger": {
+    "": "postponiendo"
+  },
+  "PresI": {
+    "1s": "postpongo",
+    "2s": "postpones",
+    "3s": "postpone",
+    "1p": "postponemos",
+    "2p": "postponéis",
+    "3p": "postponen"
+  },
+  "PImpI": {
+    "1s": "postponía",
+    "2s": "postponías",
+    "3s": "postponía",
+    "1p": "postponíamos",
+    "2p": "postponíais",
+    "3p": "postponían"
+  },
+  "PPSI": {
+    "1s": "postpuse",
+    "2s": "postpusiste",
+    "3s": "postpuso",
+    "1p": "postpusimos",
+    "2p": "postpusisteis",
+    "3p": "postpusieron"
+  },
+  "FutSI": {
+    "1s": "postpondré",
+    "2s": "postpondrás",
+    "3s": "postpondrá",
+    "1p": "postpondremos",
+    "2p": "postpondréis",
+    "3p": "postpondrán"
+  },
+  "CondS": {
+    "1s": "postpondría",
+    "2s": "postpondrías",
+    "3s": "postpondría",
+    "1p": "postpondríamos",
+    "2p": "postpondríais",
+    "3p": "postpondrían"
+  },
+  "PresC": {
+    "1s": "postponga",
+    "2s": "postpongas",
+    "3s": "postponga",
+    "1p": "postpongamos",
+    "2p": "postpongáis",
+    "3p": "postpongan"
+  },
+  "PMQPSI": {
+    "1s": "postpusiera",
+    "2s": "postpusieras",
+    "3s": "postpusiera",
+    "1p": "postpusiéramos",
+    "2p": "postpusierais",
+    "3p": "postpusieran"
+  },
+  "PImpC": {
+    "1s": "postpusiese",
+    "2s": "postpusieses",
+    "3s": "postpusiese",
+    "1p": "postpusiésemos",
+    "2p": "postpusieseis",
+    "3p": "postpusiesen"
+  },
+  "FutSC": {
+    "1s": "postpusiere",
+    "2s": "postpusieres",
+    "3s": "postpusiere",
+    "1p": "postpusiéremos",
+    "2p": "postpusiereis",
+    "3p": "postpusieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "postpón",
+    "3s": "postponga",
+    "1p": "postpongamos",
+    "2p": "postponed",
+    "3p": "postpongan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no postpongas",
+    "3s": "no postponga",
+    "1p": "no postpongamos",
+    "2p": "no postpongáis",
+    "3p": "no postpongan"
+  },
+  "Part-ter": {
+    "": "postpuesto"
+  },
+  "Part-ser": {
+    "ms": "postpuesto",
+    "fs": "postpuesta",
+    "mp": "postpuestos",
+    "fp": "postpuestas"
+  }
+}

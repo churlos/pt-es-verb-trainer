@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sudar"
+  },
+  "Ger": {
+    "": "sudando"
+  },
+  "PresI": {
+    "1s": "sudo",
+    "2s": "sudas",
+    "3s": "suda",
+    "1p": "sudamos",
+    "2p": "sudáis",
+    "3p": "sudan"
+  },
+  "PImpI": {
+    "1s": "sudaba",
+    "2s": "sudabas",
+    "3s": "sudaba",
+    "1p": "sudábamos",
+    "2p": "sudabais",
+    "3p": "sudaban"
+  },
+  "PPSI": {
+    "1s": "sudé",
+    "2s": "sudaste",
+    "3s": "sudó",
+    "1p": "sudamos",
+    "2p": "sudasteis",
+    "3p": "sudaron"
+  },
+  "FutSI": {
+    "1s": "sudaré",
+    "2s": "sudarás",
+    "3s": "sudará",
+    "1p": "sudaremos",
+    "2p": "sudaréis",
+    "3p": "sudarán"
+  },
+  "CondS": {
+    "1s": "sudaría",
+    "2s": "sudarías",
+    "3s": "sudaría",
+    "1p": "sudaríamos",
+    "2p": "sudaríais",
+    "3p": "sudarían"
+  },
+  "PresC": {
+    "1s": "sude",
+    "2s": "sudes",
+    "3s": "sude",
+    "1p": "sudemos",
+    "2p": "sudéis",
+    "3p": "suden"
+  },
+  "PMQPSI": {
+    "1s": "sudara",
+    "2s": "sudaras",
+    "3s": "sudara",
+    "1p": "sudáramos",
+    "2p": "sudarais",
+    "3p": "sudaran"
+  },
+  "PImpC": {
+    "1s": "sudase",
+    "2s": "sudases",
+    "3s": "sudase",
+    "1p": "sudásemos",
+    "2p": "sudaseis",
+    "3p": "sudasen"
+  },
+  "FutSC": {
+    "1s": "sudare",
+    "2s": "sudares",
+    "3s": "sudare",
+    "1p": "sudáremos",
+    "2p": "sudareis",
+    "3p": "sudaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suda",
+    "3s": "sude",
+    "1p": "sudemos",
+    "2p": "sudad",
+    "3p": "suden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sudes",
+    "3s": "no sude",
+    "1p": "no sudemos",
+    "2p": "no sudéis",
+    "3p": "no suden"
+  },
+  "Part-ter": {
+    "": "sudado"
+  },
+  "Part-ser": {
+    "ms": "sudado",
+    "fs": "sudada",
+    "mp": "sudados",
+    "fp": "sudadas"
+  }
+}

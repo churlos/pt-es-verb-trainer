@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "descender"
+  },
+  "InfP": {
+    "1s": "descender",
+    "2s": "descenderes",
+    "3s": "descender",
+    "1p": "descendermos",
+    "2p": "descenderdes",
+    "3p": "descenderem"
+  },
+  "Ger": {
+    "": "descendendo"
+  },
+  "PresI": {
+    "1s": "descendo",
+    "2s": "descendes",
+    "3s": "descende",
+    "1p": "descendemos",
+    "2p": "descendeis",
+    "3p": "descendem"
+  },
+  "PImpI": {
+    "1s": "descendia",
+    "2s": "descendias",
+    "3s": "descendia",
+    "1p": "descendíamos",
+    "2p": "descendíeis",
+    "3p": "descendiam"
+  },
+  "PPSI": {
+    "1s": "descendi",
+    "2s": "descendeste",
+    "3s": "descendeu",
+    "1p": "descendemos",
+    "2p": "descendestes",
+    "3p": "descenderam"
+  },
+  "PMQPSI": {
+    "1s": "descendera",
+    "2s": "descenderas",
+    "3s": "descendera",
+    "1p": "descendêramos",
+    "2p": "descendêreis",
+    "3p": "descenderam"
+  },
+  "FutSI": {
+    "1s": "descenderei",
+    "2s": "descenderás",
+    "3s": "descenderá",
+    "1p": "descenderemos",
+    "2p": "descendereis",
+    "3p": "descenderão"
+  },
+  "CondS": {
+    "1s": "descenderia",
+    "2s": "descenderias",
+    "3s": "descenderia",
+    "1p": "descenderíamos",
+    "2p": "descenderíeis",
+    "3p": "descenderiam"
+  },
+  "PresC": {
+    "1s": "descenda",
+    "2s": "descendas",
+    "3s": "descenda",
+    "1p": "descendamos",
+    "2p": "descendais",
+    "3p": "descendam"
+  },
+  "PImpC": {
+    "1s": "descendesse",
+    "2s": "descendesses",
+    "3s": "descendesse",
+    "1p": "descendêssemos",
+    "2p": "descendêsseis",
+    "3p": "descendessem"
+  },
+  "FutSC": {
+    "1s": "descender",
+    "2s": "descenderes",
+    "3s": "descender",
+    "1p": "descendermos",
+    "2p": "descenderdes",
+    "3p": "descenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descende",
+    "3s": "descenda",
+    "1p": "descendamos",
+    "2p": "descendei",
+    "3p": "descendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não descendas",
+    "3s": "não descenda",
+    "1p": "não descendamos",
+    "2p": "não descendais",
+    "3p": "não descendam"
+  },
+  "Part-ter": {
+    "": "descendido"
+  },
+  "Part-ser": {
+    "ms": "descendido",
+    "fs": "descendida",
+    "mp": "descendidos",
+    "fp": "descendidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estarrecer"
+  },
+  "InfP": {
+    "1s": "estarrecer",
+    "2s": "estarreceres",
+    "3s": "estarrecer",
+    "1p": "estarrecermos",
+    "2p": "estarrecerdes",
+    "3p": "estarrecerem"
+  },
+  "Ger": {
+    "": "estarrecendo"
+  },
+  "PresI": {
+    "1s": "estarreço",
+    "2s": "estarreces",
+    "3s": "estarrece",
+    "1p": "estarrecemos",
+    "2p": "estarreceis",
+    "3p": "estarrecem"
+  },
+  "PImpI": {
+    "1s": "estarrecia",
+    "2s": "estarrecias",
+    "3s": "estarrecia",
+    "1p": "estarrecíamos",
+    "2p": "estarrecíeis",
+    "3p": "estarreciam"
+  },
+  "PPSI": {
+    "1s": "estarreci",
+    "2s": "estarreceste",
+    "3s": "estarreceu",
+    "1p": "estarrecemos",
+    "2p": "estarrecestes",
+    "3p": "estarreceram"
+  },
+  "PMQPSI": {
+    "1s": "estarrecera",
+    "2s": "estarreceras",
+    "3s": "estarrecera",
+    "1p": "estarrecêramos",
+    "2p": "estarrecêreis",
+    "3p": "estarreceram"
+  },
+  "FutSI": {
+    "1s": "estarrecerei",
+    "2s": "estarrecerás",
+    "3s": "estarrecerá",
+    "1p": "estarreceremos",
+    "2p": "estarrecereis",
+    "3p": "estarrecerão"
+  },
+  "CondS": {
+    "1s": "estarreceria",
+    "2s": "estarrecerias",
+    "3s": "estarreceria",
+    "1p": "estarreceríamos",
+    "2p": "estarreceríeis",
+    "3p": "estarreceriam"
+  },
+  "PresC": {
+    "1s": "estarreça",
+    "2s": "estarreças",
+    "3s": "estarreça",
+    "1p": "estarreçamos",
+    "2p": "estarreçais",
+    "3p": "estarreçam"
+  },
+  "PImpC": {
+    "1s": "estarrecesse",
+    "2s": "estarrecesses",
+    "3s": "estarrecesse",
+    "1p": "estarrecêssemos",
+    "2p": "estarrecêsseis",
+    "3p": "estarrecessem"
+  },
+  "FutSC": {
+    "1s": "estarrecer",
+    "2s": "estarreceres",
+    "3s": "estarrecer",
+    "1p": "estarrecermos",
+    "2p": "estarrecerdes",
+    "3p": "estarrecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estarrece",
+    "3s": "estarreça",
+    "1p": "estarreçamos",
+    "2p": "estarrecei",
+    "3p": "estarreçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estarreças",
+    "3s": "não estarreça",
+    "1p": "não estarreçamos",
+    "2p": "não estarreçais",
+    "3p": "não estarreçam"
+  },
+  "Part-ter": {
+    "": "estarrecido"
+  },
+  "Part-ser": {
+    "ms": "estarrecido",
+    "fs": "estarrecida",
+    "mp": "estarrecidos",
+    "fp": "estarrecidas"
+  }
+}

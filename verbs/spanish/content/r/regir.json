@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "regir"
+  },
+  "Ger": {
+    "": "rigiendo"
+  },
+  "PresI": {
+    "1s": "rijo",
+    "2s": "riges",
+    "3s": "rige",
+    "1p": "regimos",
+    "2p": "regís",
+    "3p": "rigen"
+  },
+  "PImpI": {
+    "1s": "regía",
+    "2s": "regías",
+    "3s": "regía",
+    "1p": "regíamos",
+    "2p": "regíais",
+    "3p": "regían"
+  },
+  "PPSI": {
+    "1s": "regí",
+    "2s": "registe",
+    "3s": "rigió",
+    "1p": "regimos",
+    "2p": "registeis",
+    "3p": "rigieron"
+  },
+  "FutSI": {
+    "1s": "regiré",
+    "2s": "regirás",
+    "3s": "regirá",
+    "1p": "regiremos",
+    "2p": "regiréis",
+    "3p": "regirán"
+  },
+  "CondS": {
+    "1s": "regiría",
+    "2s": "regirías",
+    "3s": "regiría",
+    "1p": "regiríamos",
+    "2p": "regiríais",
+    "3p": "regirían"
+  },
+  "PresC": {
+    "1s": "rija",
+    "2s": "rijas",
+    "3s": "rija",
+    "1p": "rijamos",
+    "2p": "rijáis",
+    "3p": "rijan"
+  },
+  "PMQPSI": {
+    "1s": "rigiera",
+    "2s": "rigieras",
+    "3s": "rigiera",
+    "1p": "rigiéramos",
+    "2p": "rigierais",
+    "3p": "rigieran"
+  },
+  "PImpC": {
+    "1s": "rigiese",
+    "2s": "rigieses",
+    "3s": "rigiese",
+    "1p": "rigiésemos",
+    "2p": "rigieseis",
+    "3p": "rigiesen"
+  },
+  "FutSC": {
+    "1s": "rigiere",
+    "2s": "rigieres",
+    "3s": "rigiere",
+    "1p": "rigiéremos",
+    "2p": "rigiereis",
+    "3p": "rigieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rige",
+    "3s": "rija",
+    "1p": "rijamos",
+    "2p": "regid",
+    "3p": "rijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rijas",
+    "3s": "no rija",
+    "1p": "no rijamos",
+    "2p": "no rijáis",
+    "3p": "no rijan"
+  },
+  "Part-ter": {
+    "": "regido"
+  },
+  "Part-ser": {
+    "ms": "regido",
+    "fs": "regida",
+    "mp": "regidos",
+    "fp": "regidas"
+  }
+}

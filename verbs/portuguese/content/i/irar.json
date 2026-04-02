@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "irar"
+  },
+  "InfP": {
+    "1s": "irar",
+    "2s": "irares",
+    "3s": "irar",
+    "1p": "irarmos",
+    "2p": "irardes",
+    "3p": "irarem"
+  },
+  "Ger": {
+    "": "irando"
+  },
+  "PresI": {
+    "1s": "iro",
+    "2s": "iras",
+    "3s": "ira",
+    "1p": "iramos",
+    "2p": "irais",
+    "3p": "iram"
+  },
+  "PImpI": {
+    "1s": "irava",
+    "2s": "iravas",
+    "3s": "irava",
+    "1p": "irávamos",
+    "2p": "iráveis",
+    "3p": "iravam"
+  },
+  "PPSI": {
+    "1s": "irei",
+    "2s": "iraste",
+    "3s": "irou",
+    "1p": "irámos",
+    "2p": "irastes",
+    "3p": "iraram"
+  },
+  "PMQPSI": {
+    "1s": "irara",
+    "2s": "iraras",
+    "3s": "irara",
+    "1p": "iráramos",
+    "2p": "iráreis",
+    "3p": "iraram"
+  },
+  "FutSI": {
+    "1s": "irarei",
+    "2s": "irarás",
+    "3s": "irará",
+    "1p": "iraremos",
+    "2p": "irareis",
+    "3p": "irarão"
+  },
+  "CondS": {
+    "1s": "iraria",
+    "2s": "irarias",
+    "3s": "iraria",
+    "1p": "iraríamos",
+    "2p": "iraríeis",
+    "3p": "irariam"
+  },
+  "PresC": {
+    "1s": "ire",
+    "2s": "ires",
+    "3s": "ire",
+    "1p": "iremos",
+    "2p": "ireis",
+    "3p": "irem"
+  },
+  "PImpC": {
+    "1s": "irasse",
+    "2s": "irasses",
+    "3s": "irasse",
+    "1p": "irássemos",
+    "2p": "irásseis",
+    "3p": "irassem"
+  },
+  "FutSC": {
+    "1s": "irar",
+    "2s": "irares",
+    "3s": "irar",
+    "1p": "irarmos",
+    "2p": "irardes",
+    "3p": "irarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ira",
+    "3s": "ire",
+    "1p": "iremos",
+    "2p": "irai",
+    "3p": "irem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ires",
+    "3s": "não ire",
+    "1p": "não iremos",
+    "2p": "não ireis",
+    "3p": "não irem"
+  },
+  "Part-ter": {
+    "": "irado"
+  },
+  "Part-ser": {
+    "ms": "irado",
+    "fs": "irada",
+    "mp": "irados",
+    "fp": "iradas"
+  }
+}

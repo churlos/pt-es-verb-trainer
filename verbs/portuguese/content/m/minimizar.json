@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "minimizar"
+  },
+  "InfP": {
+    "1s": "minimizar",
+    "2s": "minimizares",
+    "3s": "minimizar",
+    "1p": "minimizarmos",
+    "2p": "minimizardes",
+    "3p": "minimizarem"
+  },
+  "Ger": {
+    "": "minimizando"
+  },
+  "PresI": {
+    "1s": "minimizo",
+    "2s": "minimizas",
+    "3s": "minimiza",
+    "1p": "minimizamos",
+    "2p": "minimizais",
+    "3p": "minimizam"
+  },
+  "PImpI": {
+    "1s": "minimizava",
+    "2s": "minimizavas",
+    "3s": "minimizava",
+    "1p": "minimizávamos",
+    "2p": "minimizáveis",
+    "3p": "minimizavam"
+  },
+  "PPSI": {
+    "1s": "minimizei",
+    "2s": "minimizaste",
+    "3s": "minimizou",
+    "1p": "minimizámos",
+    "2p": "minimizastes",
+    "3p": "minimizaram"
+  },
+  "PMQPSI": {
+    "1s": "minimizara",
+    "2s": "minimizaras",
+    "3s": "minimizara",
+    "1p": "minimizáramos",
+    "2p": "minimizáreis",
+    "3p": "minimizaram"
+  },
+  "FutSI": {
+    "1s": "minimizarei",
+    "2s": "minimizarás",
+    "3s": "minimizará",
+    "1p": "minimizaremos",
+    "2p": "minimizareis",
+    "3p": "minimizarão"
+  },
+  "CondS": {
+    "1s": "minimizaria",
+    "2s": "minimizarias",
+    "3s": "minimizaria",
+    "1p": "minimizaríamos",
+    "2p": "minimizaríeis",
+    "3p": "minimizariam"
+  },
+  "PresC": {
+    "1s": "minimize",
+    "2s": "minimizes",
+    "3s": "minimize",
+    "1p": "minimizemos",
+    "2p": "minimizeis",
+    "3p": "minimizem"
+  },
+  "PImpC": {
+    "1s": "minimizasse",
+    "2s": "minimizasses",
+    "3s": "minimizasse",
+    "1p": "minimizássemos",
+    "2p": "minimizásseis",
+    "3p": "minimizassem"
+  },
+  "FutSC": {
+    "1s": "minimizar",
+    "2s": "minimizares",
+    "3s": "minimizar",
+    "1p": "minimizarmos",
+    "2p": "minimizardes",
+    "3p": "minimizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "minimiza",
+    "3s": "minimize",
+    "1p": "minimizemos",
+    "2p": "minimizai",
+    "3p": "minimizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não minimizes",
+    "3s": "não minimize",
+    "1p": "não minimizemos",
+    "2p": "não minimizeis",
+    "3p": "não minimizem"
+  },
+  "Part-ter": {
+    "": "minimizado"
+  },
+  "Part-ser": {
+    "ms": "minimizado",
+    "fs": "minimizada",
+    "mp": "minimizados",
+    "fp": "minimizadas"
+  }
+}

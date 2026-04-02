@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sentir"
+  },
+  "InfP": {
+    "1s": "sentir",
+    "2s": "sentires",
+    "3s": "sentir",
+    "1p": "sentirmos",
+    "2p": "sentirdes",
+    "3p": "sentirem"
+  },
+  "Ger": {
+    "": "sentindo"
+  },
+  "PresI": {
+    "1s": "sinto",
+    "2s": "sentes",
+    "3s": "sente",
+    "1p": "sentimos",
+    "2p": "sentis",
+    "3p": "sentem"
+  },
+  "PImpI": {
+    "1s": "sentia",
+    "2s": "sentias",
+    "3s": "sentia",
+    "1p": "sentíamos",
+    "2p": "sentíeis",
+    "3p": "sentiam"
+  },
+  "PPSI": {
+    "1s": "senti",
+    "2s": "sentiste",
+    "3s": "sentiu",
+    "1p": "sentimos",
+    "2p": "sentistes",
+    "3p": "sentiram"
+  },
+  "PMQPSI": {
+    "1s": "sentira",
+    "2s": "sentiras",
+    "3s": "sentira",
+    "1p": "sentíramos",
+    "2p": "sentíreis",
+    "3p": "sentiram"
+  },
+  "FutSI": {
+    "1s": "sentirei",
+    "2s": "sentirás",
+    "3s": "sentirá",
+    "1p": "sentiremos",
+    "2p": "sentireis",
+    "3p": "sentirão"
+  },
+  "CondS": {
+    "1s": "sentiria",
+    "2s": "sentirias",
+    "3s": "sentiria",
+    "1p": "sentiríamos",
+    "2p": "sentiríeis",
+    "3p": "sentiriam"
+  },
+  "PresC": {
+    "1s": "sinta",
+    "2s": "sintas",
+    "3s": "sinta",
+    "1p": "sintamos",
+    "2p": "sintais",
+    "3p": "sintam"
+  },
+  "PImpC": {
+    "1s": "sentisse",
+    "2s": "sentisses",
+    "3s": "sentisse",
+    "1p": "sentíssemos",
+    "2p": "sentísseis",
+    "3p": "sentissem"
+  },
+  "FutSC": {
+    "1s": "sentir",
+    "2s": "sentires",
+    "3s": "sentir",
+    "1p": "sentirmos",
+    "2p": "sentirdes",
+    "3p": "sentirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sente",
+    "3s": "sinta",
+    "1p": "sintamos",
+    "2p": "senti",
+    "3p": "sintam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sintas",
+    "3s": "não sinta",
+    "1p": "não sintamos",
+    "2p": "não sintais",
+    "3p": "não sintam"
+  },
+  "Part-ter": {
+    "": "sentido"
+  },
+  "Part-ser": {
+    "ms": "sentido",
+    "fs": "sentida",
+    "mp": "sentidos",
+    "fp": "sentidas"
+  }
+}

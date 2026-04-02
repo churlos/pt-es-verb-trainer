@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escalentar"
+  },
+  "Ger": {
+    "": "escalentando"
+  },
+  "PresI": {
+    "1s": "escaliento",
+    "2s": "escalientas",
+    "3s": "escalienta",
+    "1p": "escalentamos",
+    "2p": "escalentáis",
+    "3p": "escalientan"
+  },
+  "PImpI": {
+    "1s": "escalentaba",
+    "2s": "escalentabas",
+    "3s": "escalentaba",
+    "1p": "escalentábamos",
+    "2p": "escalentabais",
+    "3p": "escalentaban"
+  },
+  "PPSI": {
+    "1s": "escalenté",
+    "2s": "escalentaste",
+    "3s": "escalentó",
+    "1p": "escalentamos",
+    "2p": "escalentasteis",
+    "3p": "escalentaron"
+  },
+  "FutSI": {
+    "1s": "escalentaré",
+    "2s": "escalentarás",
+    "3s": "escalentará",
+    "1p": "escalentaremos",
+    "2p": "escalentaréis",
+    "3p": "escalentarán"
+  },
+  "CondS": {
+    "1s": "escalentaría",
+    "2s": "escalentarías",
+    "3s": "escalentaría",
+    "1p": "escalentaríamos",
+    "2p": "escalentaríais",
+    "3p": "escalentarían"
+  },
+  "PresC": {
+    "1s": "escaliente",
+    "2s": "escalientes",
+    "3s": "escaliente",
+    "1p": "escalentemos",
+    "2p": "escalentéis",
+    "3p": "escalienten"
+  },
+  "PMQPSI": {
+    "1s": "escalentara",
+    "2s": "escalentaras",
+    "3s": "escalentara",
+    "1p": "escalentáramos",
+    "2p": "escalentarais",
+    "3p": "escalentaran"
+  },
+  "PImpC": {
+    "1s": "escalentase",
+    "2s": "escalentases",
+    "3s": "escalentase",
+    "1p": "escalentásemos",
+    "2p": "escalentaseis",
+    "3p": "escalentasen"
+  },
+  "FutSC": {
+    "1s": "escalentare",
+    "2s": "escalentares",
+    "3s": "escalentare",
+    "1p": "escalentáremos",
+    "2p": "escalentareis",
+    "3p": "escalentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escalienta",
+    "3s": "escaliente",
+    "1p": "escalentemos",
+    "2p": "escalentad",
+    "3p": "escalienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escalientes",
+    "3s": "no escaliente",
+    "1p": "no escalentemos",
+    "2p": "no escalentéis",
+    "3p": "no escalienten"
+  },
+  "Part-ter": {
+    "": "escalentado"
+  },
+  "Part-ser": {
+    "ms": "escalentado",
+    "fs": "escalentada",
+    "mp": "escalentados",
+    "fp": "escalentadas"
+  }
+}

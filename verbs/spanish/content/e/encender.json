@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encender"
+  },
+  "Ger": {
+    "": "encendiendo"
+  },
+  "PresI": {
+    "1s": "enciendo",
+    "2s": "enciendes",
+    "3s": "enciende",
+    "1p": "encendemos",
+    "2p": "encendéis",
+    "3p": "encienden"
+  },
+  "PImpI": {
+    "1s": "encendía",
+    "2s": "encendías",
+    "3s": "encendía",
+    "1p": "encendíamos",
+    "2p": "encendíais",
+    "3p": "encendían"
+  },
+  "PPSI": {
+    "1s": "encendí",
+    "2s": "encendiste",
+    "3s": "encendió",
+    "1p": "encendimos",
+    "2p": "encendisteis",
+    "3p": "encendieron"
+  },
+  "FutSI": {
+    "1s": "encenderé",
+    "2s": "encenderás",
+    "3s": "encenderá",
+    "1p": "encenderemos",
+    "2p": "encenderéis",
+    "3p": "encenderán"
+  },
+  "CondS": {
+    "1s": "encendería",
+    "2s": "encenderías",
+    "3s": "encendería",
+    "1p": "encenderíamos",
+    "2p": "encenderíais",
+    "3p": "encenderían"
+  },
+  "PresC": {
+    "1s": "encienda",
+    "2s": "enciendas",
+    "3s": "encienda",
+    "1p": "encendamos",
+    "2p": "encendáis",
+    "3p": "enciendan"
+  },
+  "PMQPSI": {
+    "1s": "encendiera",
+    "2s": "encendieras",
+    "3s": "encendiera",
+    "1p": "encendiéramos",
+    "2p": "encendierais",
+    "3p": "encendieran"
+  },
+  "PImpC": {
+    "1s": "encendiese",
+    "2s": "encendieses",
+    "3s": "encendiese",
+    "1p": "encendiésemos",
+    "2p": "encendieseis",
+    "3p": "encendiesen"
+  },
+  "FutSC": {
+    "1s": "encendiere",
+    "2s": "encendieres",
+    "3s": "encendiere",
+    "1p": "encendiéremos",
+    "2p": "encendiereis",
+    "3p": "encendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enciende",
+    "3s": "encienda",
+    "1p": "encendamos",
+    "2p": "encended",
+    "3p": "enciendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enciendas",
+    "3s": "no encienda",
+    "1p": "no encendamos",
+    "2p": "no encendáis",
+    "3p": "no enciendan"
+  },
+  "Part-ter": {
+    "": "encendido"
+  },
+  "Part-ser": {
+    "ms": "encendido",
+    "fs": "encendida",
+    "mp": "encendidos",
+    "fp": "encendidas"
+  }
+}

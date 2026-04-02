@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "asentir"
+  },
+  "Ger": {
+    "": "asintiendo"
+  },
+  "PresI": {
+    "1s": "asiento",
+    "2s": "asientes",
+    "3s": "asiente",
+    "1p": "asentimos",
+    "2p": "asentís",
+    "3p": "asienten"
+  },
+  "PImpI": {
+    "1s": "asentía",
+    "2s": "asentías",
+    "3s": "asentía",
+    "1p": "asentíamos",
+    "2p": "asentíais",
+    "3p": "asentían"
+  },
+  "PPSI": {
+    "1s": "asentí",
+    "2s": "asentiste",
+    "3s": "asintió",
+    "1p": "asentimos",
+    "2p": "asentisteis",
+    "3p": "asintieron"
+  },
+  "FutSI": {
+    "1s": "asentiré",
+    "2s": "asentirás",
+    "3s": "asentirá",
+    "1p": "asentiremos",
+    "2p": "asentiréis",
+    "3p": "asentirán"
+  },
+  "CondS": {
+    "1s": "asentiría",
+    "2s": "asentirías",
+    "3s": "asentiría",
+    "1p": "asentiríamos",
+    "2p": "asentiríais",
+    "3p": "asentirían"
+  },
+  "PresC": {
+    "1s": "asienta",
+    "2s": "asientas",
+    "3s": "asienta",
+    "1p": "asintamos",
+    "2p": "asintáis",
+    "3p": "asientan"
+  },
+  "PMQPSI": {
+    "1s": "asintiera",
+    "2s": "asintieras",
+    "3s": "asintiera",
+    "1p": "asintiéramos",
+    "2p": "asintierais",
+    "3p": "asintieran"
+  },
+  "PImpC": {
+    "1s": "asintiese",
+    "2s": "asintieses",
+    "3s": "asintiese",
+    "1p": "asintiésemos",
+    "2p": "asintieseis",
+    "3p": "asintiesen"
+  },
+  "FutSC": {
+    "1s": "asintiere",
+    "2s": "asintieres",
+    "3s": "asintiere",
+    "1p": "asintiéremos",
+    "2p": "asintiereis",
+    "3p": "asintieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asiente",
+    "3s": "asienta",
+    "1p": "asintamos",
+    "2p": "asentid",
+    "3p": "asientan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no asientas",
+    "3s": "no asienta",
+    "1p": "no asintamos",
+    "2p": "no asintáis",
+    "3p": "no asientan"
+  },
+  "Part-ter": {
+    "": "asentido"
+  },
+  "Part-ser": {
+    "ms": "asentido",
+    "fs": "asentida",
+    "mp": "asentidos",
+    "fp": "asentidas"
+  }
+}

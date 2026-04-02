@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sinalizar"
+  },
+  "InfP": {
+    "1s": "sinalizar",
+    "2s": "sinalizares",
+    "3s": "sinalizar",
+    "1p": "sinalizarmos",
+    "2p": "sinalizardes",
+    "3p": "sinalizarem"
+  },
+  "Ger": {
+    "": "sinalizando"
+  },
+  "PresI": {
+    "1s": "sinalizo",
+    "2s": "sinalizas",
+    "3s": "sinaliza",
+    "1p": "sinalizamos",
+    "2p": "sinalizais",
+    "3p": "sinalizam"
+  },
+  "PImpI": {
+    "1s": "sinalizava",
+    "2s": "sinalizavas",
+    "3s": "sinalizava",
+    "1p": "sinalizávamos",
+    "2p": "sinalizáveis",
+    "3p": "sinalizavam"
+  },
+  "PPSI": {
+    "1s": "sinalizei",
+    "2s": "sinalizaste",
+    "3s": "sinalizou",
+    "1p": "sinalizámos",
+    "2p": "sinalizastes",
+    "3p": "sinalizaram"
+  },
+  "PMQPSI": {
+    "1s": "sinalizara",
+    "2s": "sinalizaras",
+    "3s": "sinalizara",
+    "1p": "sinalizáramos",
+    "2p": "sinalizáreis",
+    "3p": "sinalizaram"
+  },
+  "FutSI": {
+    "1s": "sinalizarei",
+    "2s": "sinalizarás",
+    "3s": "sinalizará",
+    "1p": "sinalizaremos",
+    "2p": "sinalizareis",
+    "3p": "sinalizarão"
+  },
+  "CondS": {
+    "1s": "sinalizaria",
+    "2s": "sinalizarias",
+    "3s": "sinalizaria",
+    "1p": "sinalizaríamos",
+    "2p": "sinalizaríeis",
+    "3p": "sinalizariam"
+  },
+  "PresC": {
+    "1s": "sinalize",
+    "2s": "sinalizes",
+    "3s": "sinalize",
+    "1p": "sinalizemos",
+    "2p": "sinalizeis",
+    "3p": "sinalizem"
+  },
+  "PImpC": {
+    "1s": "sinalizasse",
+    "2s": "sinalizasses",
+    "3s": "sinalizasse",
+    "1p": "sinalizássemos",
+    "2p": "sinalizásseis",
+    "3p": "sinalizassem"
+  },
+  "FutSC": {
+    "1s": "sinalizar",
+    "2s": "sinalizares",
+    "3s": "sinalizar",
+    "1p": "sinalizarmos",
+    "2p": "sinalizardes",
+    "3p": "sinalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sinaliza",
+    "3s": "sinalize",
+    "1p": "sinalizemos",
+    "2p": "sinalizai",
+    "3p": "sinalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sinalizes",
+    "3s": "não sinalize",
+    "1p": "não sinalizemos",
+    "2p": "não sinalizeis",
+    "3p": "não sinalizem"
+  },
+  "Part-ter": {
+    "": "sinalizado"
+  },
+  "Part-ser": {
+    "ms": "sinalizado",
+    "fs": "sinalizada",
+    "mp": "sinalizados",
+    "fp": "sinalizadas"
+  }
+}

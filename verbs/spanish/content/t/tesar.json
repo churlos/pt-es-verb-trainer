@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tesar"
+  },
+  "Ger": {
+    "": "tesando"
+  },
+  "PresI": {
+    "1s": "teso",
+    "2s": "tesas",
+    "3s": "tesa",
+    "1p": "tesamos",
+    "2p": "tesáis",
+    "3p": "tesan"
+  },
+  "PImpI": {
+    "1s": "tesaba",
+    "2s": "tesabas",
+    "3s": "tesaba",
+    "1p": "tesábamos",
+    "2p": "tesabais",
+    "3p": "tesaban"
+  },
+  "PPSI": {
+    "1s": "tesé",
+    "2s": "tesaste",
+    "3s": "tesó",
+    "1p": "tesamos",
+    "2p": "tesasteis",
+    "3p": "tesaron"
+  },
+  "FutSI": {
+    "1s": "tesaré",
+    "2s": "tesarás",
+    "3s": "tesará",
+    "1p": "tesaremos",
+    "2p": "tesaréis",
+    "3p": "tesarán"
+  },
+  "CondS": {
+    "1s": "tesaría",
+    "2s": "tesarías",
+    "3s": "tesaría",
+    "1p": "tesaríamos",
+    "2p": "tesaríais",
+    "3p": "tesarían"
+  },
+  "PresC": {
+    "1s": "tese",
+    "2s": "teses",
+    "3s": "tese",
+    "1p": "tesemos",
+    "2p": "teséis",
+    "3p": "tesen"
+  },
+  "PMQPSI": {
+    "1s": "tesara",
+    "2s": "tesaras",
+    "3s": "tesara",
+    "1p": "tesáramos",
+    "2p": "tesarais",
+    "3p": "tesaran"
+  },
+  "PImpC": {
+    "1s": "tesase",
+    "2s": "tesases",
+    "3s": "tesase",
+    "1p": "tesásemos",
+    "2p": "tesaseis",
+    "3p": "tesasen"
+  },
+  "FutSC": {
+    "1s": "tesare",
+    "2s": "tesares",
+    "3s": "tesare",
+    "1p": "tesáremos",
+    "2p": "tesareis",
+    "3p": "tesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tesa",
+    "3s": "tese",
+    "1p": "tesemos",
+    "2p": "tesad",
+    "3p": "tesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no teses",
+    "3s": "no tese",
+    "1p": "no tesemos",
+    "2p": "no teséis",
+    "3p": "no tesen"
+  },
+  "Part-ter": {
+    "": "tesado"
+  },
+  "Part-ser": {
+    "ms": "tesado",
+    "fs": "tesada",
+    "mp": "tesados",
+    "fp": "tesadas"
+  }
+}

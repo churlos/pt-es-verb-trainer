@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resistir"
+  },
+  "Ger": {
+    "": "resistiendo"
+  },
+  "PresI": {
+    "1s": "resisto",
+    "2s": "resistes",
+    "3s": "resiste",
+    "1p": "resistimos",
+    "2p": "resistís",
+    "3p": "resisten"
+  },
+  "PImpI": {
+    "1s": "resistía",
+    "2s": "resistías",
+    "3s": "resistía",
+    "1p": "resistíamos",
+    "2p": "resistíais",
+    "3p": "resistían"
+  },
+  "PPSI": {
+    "1s": "resistí",
+    "2s": "resististe",
+    "3s": "resistió",
+    "1p": "resistimos",
+    "2p": "resististeis",
+    "3p": "resistieron"
+  },
+  "FutSI": {
+    "1s": "resistiré",
+    "2s": "resistirás",
+    "3s": "resistirá",
+    "1p": "resistiremos",
+    "2p": "resistiréis",
+    "3p": "resistirán"
+  },
+  "CondS": {
+    "1s": "resistiría",
+    "2s": "resistirías",
+    "3s": "resistiría",
+    "1p": "resistiríamos",
+    "2p": "resistiríais",
+    "3p": "resistirían"
+  },
+  "PresC": {
+    "1s": "resista",
+    "2s": "resistas",
+    "3s": "resista",
+    "1p": "resistamos",
+    "2p": "resistáis",
+    "3p": "resistan"
+  },
+  "PMQPSI": {
+    "1s": "resistiera",
+    "2s": "resistieras",
+    "3s": "resistiera",
+    "1p": "resistiéramos",
+    "2p": "resistierais",
+    "3p": "resistieran"
+  },
+  "PImpC": {
+    "1s": "resistiese",
+    "2s": "resistieses",
+    "3s": "resistiese",
+    "1p": "resistiésemos",
+    "2p": "resistieseis",
+    "3p": "resistiesen"
+  },
+  "FutSC": {
+    "1s": "resistiere",
+    "2s": "resistieres",
+    "3s": "resistiere",
+    "1p": "resistiéremos",
+    "2p": "resistiereis",
+    "3p": "resistieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resiste",
+    "3s": "resista",
+    "1p": "resistamos",
+    "2p": "resistid",
+    "3p": "resistan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no resistas",
+    "3s": "no resista",
+    "1p": "no resistamos",
+    "2p": "no resistáis",
+    "3p": "no resistan"
+  },
+  "Part-ter": {
+    "": "resistido"
+  },
+  "Part-ser": {
+    "ms": "resistido",
+    "fs": "resistida",
+    "mp": "resistidos",
+    "fp": "resistidas"
+  }
+}

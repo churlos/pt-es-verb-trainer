@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estimar"
+  },
+  "InfP": {
+    "1s": "estimar",
+    "2s": "estimares",
+    "3s": "estimar",
+    "1p": "estimarmos",
+    "2p": "estimardes",
+    "3p": "estimarem"
+  },
+  "Ger": {
+    "": "estimando"
+  },
+  "PresI": {
+    "1s": "estimo",
+    "2s": "estimas",
+    "3s": "estima",
+    "1p": "estimamos",
+    "2p": "estimais",
+    "3p": "estimam"
+  },
+  "PImpI": {
+    "1s": "estimava",
+    "2s": "estimavas",
+    "3s": "estimava",
+    "1p": "estimávamos",
+    "2p": "estimáveis",
+    "3p": "estimavam"
+  },
+  "PPSI": {
+    "1s": "estimei",
+    "2s": "estimaste",
+    "3s": "estimou",
+    "1p": "estimámos",
+    "2p": "estimastes",
+    "3p": "estimaram"
+  },
+  "PMQPSI": {
+    "1s": "estimara",
+    "2s": "estimaras",
+    "3s": "estimara",
+    "1p": "estimáramos",
+    "2p": "estimáreis",
+    "3p": "estimaram"
+  },
+  "FutSI": {
+    "1s": "estimarei",
+    "2s": "estimarás",
+    "3s": "estimará",
+    "1p": "estimaremos",
+    "2p": "estimareis",
+    "3p": "estimarão"
+  },
+  "CondS": {
+    "1s": "estimaria",
+    "2s": "estimarias",
+    "3s": "estimaria",
+    "1p": "estimaríamos",
+    "2p": "estimaríeis",
+    "3p": "estimariam"
+  },
+  "PresC": {
+    "1s": "estime",
+    "2s": "estimes",
+    "3s": "estime",
+    "1p": "estimemos",
+    "2p": "estimeis",
+    "3p": "estimem"
+  },
+  "PImpC": {
+    "1s": "estimasse",
+    "2s": "estimasses",
+    "3s": "estimasse",
+    "1p": "estimássemos",
+    "2p": "estimásseis",
+    "3p": "estimassem"
+  },
+  "FutSC": {
+    "1s": "estimar",
+    "2s": "estimares",
+    "3s": "estimar",
+    "1p": "estimarmos",
+    "2p": "estimardes",
+    "3p": "estimarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estima",
+    "3s": "estime",
+    "1p": "estimemos",
+    "2p": "estimai",
+    "3p": "estimem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estimes",
+    "3s": "não estime",
+    "1p": "não estimemos",
+    "2p": "não estimeis",
+    "3p": "não estimem"
+  },
+  "Part-ter": {
+    "": "estimado"
+  },
+  "Part-ser": {
+    "ms": "estimado",
+    "fs": "estimada",
+    "mp": "estimados",
+    "fp": "estimadas"
+  }
+}

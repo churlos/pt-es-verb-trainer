@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "teñir"
+  },
+  "Ger": {
+    "": "tiñendo"
+  },
+  "PresI": {
+    "1s": "tiño",
+    "2s": "tiñes",
+    "3s": "tiñe",
+    "1p": "teñimos",
+    "2p": "teñís",
+    "3p": "tiñen"
+  },
+  "PImpI": {
+    "1s": "teñía",
+    "2s": "teñías",
+    "3s": "teñía",
+    "1p": "teñíamos",
+    "2p": "teñíais",
+    "3p": "teñían"
+  },
+  "PPSI": {
+    "1s": "teñí",
+    "2s": "teñiste",
+    "3s": "tiñó",
+    "1p": "teñimos",
+    "2p": "teñisteis",
+    "3p": "tiñeron"
+  },
+  "FutSI": {
+    "1s": "teñiré",
+    "2s": "teñirás",
+    "3s": "teñirá",
+    "1p": "teñiremos",
+    "2p": "teñiréis",
+    "3p": "teñirán"
+  },
+  "CondS": {
+    "1s": "teñiría",
+    "2s": "teñirías",
+    "3s": "teñiría",
+    "1p": "teñiríamos",
+    "2p": "teñiríais",
+    "3p": "teñirían"
+  },
+  "PresC": {
+    "1s": "tiña",
+    "2s": "tiñas",
+    "3s": "tiña",
+    "1p": "tiñamos",
+    "2p": "tiñáis",
+    "3p": "tiñan"
+  },
+  "PMQPSI": {
+    "1s": "tiñera",
+    "2s": "tiñeras",
+    "3s": "tiñera",
+    "1p": "tiñéramos",
+    "2p": "tiñerais",
+    "3p": "tiñeran"
+  },
+  "PImpC": {
+    "1s": "tiñese",
+    "2s": "tiñeses",
+    "3s": "tiñese",
+    "1p": "tiñésemos",
+    "2p": "tiñeseis",
+    "3p": "tiñesen"
+  },
+  "FutSC": {
+    "1s": "tiñere",
+    "2s": "tiñeres",
+    "3s": "tiñere",
+    "1p": "tiñéremos",
+    "2p": "tiñereis",
+    "3p": "tiñeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tiñe",
+    "3s": "tiña",
+    "1p": "tiñamos",
+    "2p": "teñid",
+    "3p": "tiñan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tiñas",
+    "3s": "no tiña",
+    "1p": "no tiñamos",
+    "2p": "no tiñáis",
+    "3p": "no tiñan"
+  },
+  "Part-ter": {
+    "": "teñido"
+  },
+  "Part-ser": {
+    "ms": "teñido",
+    "fs": "teñida",
+    "mp": "teñidos",
+    "fp": "teñidas"
+  }
+}

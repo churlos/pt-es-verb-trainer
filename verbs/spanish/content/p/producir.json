@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "producir"
+  },
+  "Ger": {
+    "": "produciendo"
+  },
+  "PresI": {
+    "1s": "produzco",
+    "2s": "produces",
+    "3s": "produce",
+    "1p": "producimos",
+    "2p": "producís",
+    "3p": "producen"
+  },
+  "PImpI": {
+    "1s": "producía",
+    "2s": "producías",
+    "3s": "producía",
+    "1p": "producíamos",
+    "2p": "producíais",
+    "3p": "producían"
+  },
+  "PPSI": {
+    "1s": "produje",
+    "2s": "produjiste",
+    "3s": "produjo",
+    "1p": "produjimos",
+    "2p": "produjisteis",
+    "3p": "produjeron"
+  },
+  "FutSI": {
+    "1s": "produciré",
+    "2s": "producirás",
+    "3s": "producirá",
+    "1p": "produciremos",
+    "2p": "produciréis",
+    "3p": "producirán"
+  },
+  "CondS": {
+    "1s": "produciría",
+    "2s": "producirías",
+    "3s": "produciría",
+    "1p": "produciríamos",
+    "2p": "produciríais",
+    "3p": "producirían"
+  },
+  "PresC": {
+    "1s": "produzca",
+    "2s": "produzcas",
+    "3s": "produzca",
+    "1p": "produzcamos",
+    "2p": "produzcáis",
+    "3p": "produzcan"
+  },
+  "PMQPSI": {
+    "1s": "produjera",
+    "2s": "produjeras",
+    "3s": "produjera",
+    "1p": "produjéramos",
+    "2p": "produjerais",
+    "3p": "produjeran"
+  },
+  "PImpC": {
+    "1s": "produjese",
+    "2s": "produjeses",
+    "3s": "produjese",
+    "1p": "produjésemos",
+    "2p": "produjeseis",
+    "3p": "produjesen"
+  },
+  "FutSC": {
+    "1s": "produjere",
+    "2s": "produjeres",
+    "3s": "produjere",
+    "1p": "produjéremos",
+    "2p": "produjereis",
+    "3p": "produjeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "produce",
+    "3s": "produzca",
+    "1p": "produzcamos",
+    "2p": "producid",
+    "3p": "produzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no produzcas",
+    "3s": "no produzca",
+    "1p": "no produzcamos",
+    "2p": "no produzcáis",
+    "3p": "no produzcan"
+  },
+  "Part-ter": {
+    "": "producido"
+  },
+  "Part-ser": {
+    "ms": "producido",
+    "fs": "producida",
+    "mp": "producidos",
+    "fp": "producidas"
+  }
+}

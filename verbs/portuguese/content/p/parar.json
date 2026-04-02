@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "parar"
+  },
+  "InfP": {
+    "1s": "parar",
+    "2s": "parares",
+    "3s": "parar",
+    "1p": "pararmos",
+    "2p": "parardes",
+    "3p": "pararem"
+  },
+  "Ger": {
+    "": "parando"
+  },
+  "PresI": {
+    "1s": "paro",
+    "2s": "paras",
+    "3s": "para",
+    "1p": "paramos",
+    "2p": "parais",
+    "3p": "param"
+  },
+  "PImpI": {
+    "1s": "parava",
+    "2s": "paravas",
+    "3s": "parava",
+    "1p": "parávamos",
+    "2p": "paráveis",
+    "3p": "paravam"
+  },
+  "PPSI": {
+    "1s": "parei",
+    "2s": "paraste",
+    "3s": "parou",
+    "1p": "parámos",
+    "2p": "parastes",
+    "3p": "pararam"
+  },
+  "PMQPSI": {
+    "1s": "parara",
+    "2s": "pararas",
+    "3s": "parara",
+    "1p": "paráramos",
+    "2p": "paráreis",
+    "3p": "pararam"
+  },
+  "FutSI": {
+    "1s": "pararei",
+    "2s": "pararás",
+    "3s": "parará",
+    "1p": "pararemos",
+    "2p": "parareis",
+    "3p": "pararão"
+  },
+  "CondS": {
+    "1s": "pararia",
+    "2s": "pararias",
+    "3s": "pararia",
+    "1p": "pararíamos",
+    "2p": "pararíeis",
+    "3p": "parariam"
+  },
+  "PresC": {
+    "1s": "pare",
+    "2s": "pares",
+    "3s": "pare",
+    "1p": "paremos",
+    "2p": "pareis",
+    "3p": "parem"
+  },
+  "PImpC": {
+    "1s": "parasse",
+    "2s": "parasses",
+    "3s": "parasse",
+    "1p": "parássemos",
+    "2p": "parásseis",
+    "3p": "parassem"
+  },
+  "FutSC": {
+    "1s": "parar",
+    "2s": "parares",
+    "3s": "parar",
+    "1p": "pararmos",
+    "2p": "parardes",
+    "3p": "pararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "para",
+    "3s": "pare",
+    "1p": "paremos",
+    "2p": "parai",
+    "3p": "parem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pares",
+    "3s": "não pare",
+    "1p": "não paremos",
+    "2p": "não pareis",
+    "3p": "não parem"
+  },
+  "Part-ter": {
+    "": "parado"
+  },
+  "Part-ser": {
+    "ms": "parado",
+    "fs": "parada",
+    "mp": "parados",
+    "fp": "paradas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "almorzar"
+  },
+  "Ger": {
+    "": "almorzando"
+  },
+  "PresI": {
+    "1s": "almuerzo",
+    "2s": "almuerzas",
+    "3s": "almuerza",
+    "1p": "almorzamos",
+    "2p": "almorzáis",
+    "3p": "almuerzan"
+  },
+  "PImpI": {
+    "1s": "almorzaba",
+    "2s": "almorzabas",
+    "3s": "almorzaba",
+    "1p": "almorzábamos",
+    "2p": "almorzabais",
+    "3p": "almorzaban"
+  },
+  "PPSI": {
+    "1s": "almorcé",
+    "2s": "almorzaste",
+    "3s": "almorzó",
+    "1p": "almorzamos",
+    "2p": "almorzasteis",
+    "3p": "almorzaron"
+  },
+  "FutSI": {
+    "1s": "almorzaré",
+    "2s": "almorzarás",
+    "3s": "almorzará",
+    "1p": "almorzaremos",
+    "2p": "almorzaréis",
+    "3p": "almorzarán"
+  },
+  "CondS": {
+    "1s": "almorzaría",
+    "2s": "almorzarías",
+    "3s": "almorzaría",
+    "1p": "almorzaríamos",
+    "2p": "almorzaríais",
+    "3p": "almorzarían"
+  },
+  "PresC": {
+    "1s": "almuerce",
+    "2s": "almuerces",
+    "3s": "almuerce",
+    "1p": "almorcemos",
+    "2p": "almorcéis",
+    "3p": "almuercen"
+  },
+  "PMQPSI": {
+    "1s": "almorzara",
+    "2s": "almorzaras",
+    "3s": "almorzara",
+    "1p": "almorzáramos",
+    "2p": "almorzarais",
+    "3p": "almorzaran"
+  },
+  "PImpC": {
+    "1s": "almorzase",
+    "2s": "almorzases",
+    "3s": "almorzase",
+    "1p": "almorzásemos",
+    "2p": "almorzaseis",
+    "3p": "almorzasen"
+  },
+  "FutSC": {
+    "1s": "almorzare",
+    "2s": "almorzares",
+    "3s": "almorzare",
+    "1p": "almorzáremos",
+    "2p": "almorzareis",
+    "3p": "almorzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "almuerza",
+    "3s": "almuerce",
+    "1p": "almorcemos",
+    "2p": "almorzad",
+    "3p": "almuercen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no almuerces",
+    "3s": "no almuerce",
+    "1p": "no almorcemos",
+    "2p": "no almorcéis",
+    "3p": "no almuercen"
+  },
+  "Part-ter": {
+    "": "almorzado"
+  },
+  "Part-ser": {
+    "ms": "almorzado",
+    "fs": "almorzada",
+    "mp": "almorzados",
+    "fp": "almorzadas"
+  }
+}

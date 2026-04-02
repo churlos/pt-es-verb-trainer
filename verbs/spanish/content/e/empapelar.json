@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "empapelar"
+  },
+  "Ger": {
+    "": "empapelando"
+  },
+  "PresI": {
+    "1s": "empapelo",
+    "2s": "empapelas",
+    "3s": "empapela",
+    "1p": "empapelamos",
+    "2p": "empapeláis",
+    "3p": "empapelan"
+  },
+  "PImpI": {
+    "1s": "empapelaba",
+    "2s": "empapelabas",
+    "3s": "empapelaba",
+    "1p": "empapelábamos",
+    "2p": "empapelabais",
+    "3p": "empapelaban"
+  },
+  "PPSI": {
+    "1s": "empapelé",
+    "2s": "empapelaste",
+    "3s": "empapeló",
+    "1p": "empapelamos",
+    "2p": "empapelasteis",
+    "3p": "empapelaron"
+  },
+  "FutSI": {
+    "1s": "empapelaré",
+    "2s": "empapelarás",
+    "3s": "empapelará",
+    "1p": "empapelaremos",
+    "2p": "empapelaréis",
+    "3p": "empapelarán"
+  },
+  "CondS": {
+    "1s": "empapelaría",
+    "2s": "empapelarías",
+    "3s": "empapelaría",
+    "1p": "empapelaríamos",
+    "2p": "empapelaríais",
+    "3p": "empapelarían"
+  },
+  "PresC": {
+    "1s": "empapele",
+    "2s": "empapeles",
+    "3s": "empapele",
+    "1p": "empapelemos",
+    "2p": "empapeléis",
+    "3p": "empapelen"
+  },
+  "PMQPSI": {
+    "1s": "empapelara",
+    "2s": "empapelaras",
+    "3s": "empapelara",
+    "1p": "empapeláramos",
+    "2p": "empapelarais",
+    "3p": "empapelaran"
+  },
+  "PImpC": {
+    "1s": "empapelase",
+    "2s": "empapelases",
+    "3s": "empapelase",
+    "1p": "empapelásemos",
+    "2p": "empapelaseis",
+    "3p": "empapelasen"
+  },
+  "FutSC": {
+    "1s": "empapelare",
+    "2s": "empapelares",
+    "3s": "empapelare",
+    "1p": "empapeláremos",
+    "2p": "empapelareis",
+    "3p": "empapelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empapela",
+    "3s": "empapele",
+    "1p": "empapelemos",
+    "2p": "empapelad",
+    "3p": "empapelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no empapeles",
+    "3s": "no empapele",
+    "1p": "no empapelemos",
+    "2p": "no empapeléis",
+    "3p": "no empapelen"
+  },
+  "Part-ter": {
+    "": "empapelado"
+  },
+  "Part-ser": {
+    "ms": "empapelado",
+    "fs": "empapelada",
+    "mp": "empapelados",
+    "fp": "empapeladas"
+  }
+}

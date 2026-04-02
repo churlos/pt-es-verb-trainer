@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "poder"
+  },
+  "InfP": {
+    "1s": "poder",
+    "2s": "poderes",
+    "3s": "poder",
+    "1p": "podermos",
+    "2p": "poderdes",
+    "3p": "poderem"
+  },
+  "Ger": {
+    "": "podendo"
+  },
+  "PresI": {
+    "1s": "posso",
+    "2s": "podes",
+    "3s": "pode",
+    "1p": "podemos",
+    "2p": "podeis",
+    "3p": "podem"
+  },
+  "PImpI": {
+    "1s": "podia",
+    "2s": "podias",
+    "3s": "podia",
+    "1p": "podíamos",
+    "2p": "podíeis",
+    "3p": "podiam"
+  },
+  "PPSI": {
+    "1s": "pude",
+    "2s": "pudeste",
+    "3s": "pôde",
+    "1p": "pudemos",
+    "2p": "pudestes",
+    "3p": "puderam"
+  },
+  "PMQPSI": {
+    "1s": "pudera",
+    "2s": "puderas",
+    "3s": "pudera",
+    "1p": "pudéramos",
+    "2p": "pudéreis",
+    "3p": "puderam"
+  },
+  "FutSI": {
+    "1s": "poderei",
+    "2s": "poderás",
+    "3s": "poderá",
+    "1p": "poderemos",
+    "2p": "podereis",
+    "3p": "poderão"
+  },
+  "CondS": {
+    "1s": "poderia",
+    "2s": "poderias",
+    "3s": "poderia",
+    "1p": "poderíamos",
+    "2p": "poderíeis",
+    "3p": "poderiam"
+  },
+  "PresC": {
+    "1s": "possa",
+    "2s": "possas",
+    "3s": "possa",
+    "1p": "possamos",
+    "2p": "possais",
+    "3p": "possam"
+  },
+  "PImpC": {
+    "1s": "pudesse",
+    "2s": "pudesses",
+    "3s": "pudesse",
+    "1p": "pudéssemos",
+    "2p": "pudésseis",
+    "3p": "pudessem"
+  },
+  "FutSC": {
+    "1s": "puder",
+    "2s": "puderes",
+    "3s": "puder",
+    "1p": "pudermos",
+    "2p": "puderdes",
+    "3p": "puderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pode",
+    "3s": "possa",
+    "1p": "possamos",
+    "2p": "podei",
+    "3p": "possam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não possas",
+    "3s": "não possa",
+    "1p": "não possamos",
+    "2p": "não possais",
+    "3p": "não possam"
+  },
+  "Part-ter": {
+    "": "podido"
+  },
+  "Part-ser": {
+    "ms": "podido",
+    "fs": "podida",
+    "mp": "podidos",
+    "fp": "podidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vampirizar"
+  },
+  "InfP": {
+    "1s": "vampirizar",
+    "2s": "vampirizares",
+    "3s": "vampirizar",
+    "1p": "vampirizarmos",
+    "2p": "vampirizardes",
+    "3p": "vampirizarem"
+  },
+  "Ger": {
+    "": "vampirizando"
+  },
+  "PresI": {
+    "1s": "vampirizo",
+    "2s": "vampirizas",
+    "3s": "vampiriza",
+    "1p": "vampirizamos",
+    "2p": "vampirizais",
+    "3p": "vampirizam"
+  },
+  "PImpI": {
+    "1s": "vampirizava",
+    "2s": "vampirizavas",
+    "3s": "vampirizava",
+    "1p": "vampirizávamos",
+    "2p": "vampirizáveis",
+    "3p": "vampirizavam"
+  },
+  "PPSI": {
+    "1s": "vampirizei",
+    "2s": "vampirizaste",
+    "3s": "vampirizou",
+    "1p": "vampirizámos",
+    "2p": "vampirizastes",
+    "3p": "vampirizaram"
+  },
+  "PMQPSI": {
+    "1s": "vampirizara",
+    "2s": "vampirizaras",
+    "3s": "vampirizara",
+    "1p": "vampirizáramos",
+    "2p": "vampirizáreis",
+    "3p": "vampirizaram"
+  },
+  "FutSI": {
+    "1s": "vampirizarei",
+    "2s": "vampirizarás",
+    "3s": "vampirizará",
+    "1p": "vampirizaremos",
+    "2p": "vampirizareis",
+    "3p": "vampirizarão"
+  },
+  "CondS": {
+    "1s": "vampirizaria",
+    "2s": "vampirizarias",
+    "3s": "vampirizaria",
+    "1p": "vampirizaríamos",
+    "2p": "vampirizaríeis",
+    "3p": "vampirizariam"
+  },
+  "PresC": {
+    "1s": "vampirize",
+    "2s": "vampirizes",
+    "3s": "vampirize",
+    "1p": "vampirizemos",
+    "2p": "vampirizeis",
+    "3p": "vampirizem"
+  },
+  "PImpC": {
+    "1s": "vampirizasse",
+    "2s": "vampirizasses",
+    "3s": "vampirizasse",
+    "1p": "vampirizássemos",
+    "2p": "vampirizásseis",
+    "3p": "vampirizassem"
+  },
+  "FutSC": {
+    "1s": "vampirizar",
+    "2s": "vampirizares",
+    "3s": "vampirizar",
+    "1p": "vampirizarmos",
+    "2p": "vampirizardes",
+    "3p": "vampirizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vampiriza",
+    "3s": "vampirize",
+    "1p": "vampirizemos",
+    "2p": "vampirizai",
+    "3p": "vampirizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vampirizes",
+    "3s": "não vampirize",
+    "1p": "não vampirizemos",
+    "2p": "não vampirizeis",
+    "3p": "não vampirizem"
+  },
+  "Part-ter": {
+    "": "vampirizado"
+  },
+  "Part-ser": {
+    "ms": "vampirizado",
+    "fs": "vampirizada",
+    "mp": "vampirizados",
+    "fp": "vampirizadas"
+  }
+}

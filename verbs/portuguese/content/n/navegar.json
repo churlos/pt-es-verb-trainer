@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "navegar"
+  },
+  "InfP": {
+    "1s": "navegar",
+    "2s": "navegares",
+    "3s": "navegar",
+    "1p": "navegarmos",
+    "2p": "navegardes",
+    "3p": "navegarem"
+  },
+  "Ger": {
+    "": "navegando"
+  },
+  "PresI": {
+    "1s": "navego",
+    "2s": "navegas",
+    "3s": "navega",
+    "1p": "navegamos",
+    "2p": "navegais",
+    "3p": "navegam"
+  },
+  "PImpI": {
+    "1s": "navegava",
+    "2s": "navegavas",
+    "3s": "navegava",
+    "1p": "navegávamos",
+    "2p": "navegáveis",
+    "3p": "navegavam"
+  },
+  "PPSI": {
+    "1s": "naveguei",
+    "2s": "navegaste",
+    "3s": "navegou",
+    "1p": "navegámos",
+    "2p": "navegastes",
+    "3p": "navegaram"
+  },
+  "PMQPSI": {
+    "1s": "navegara",
+    "2s": "navegaras",
+    "3s": "navegara",
+    "1p": "navegáramos",
+    "2p": "navegáreis",
+    "3p": "navegaram"
+  },
+  "FutSI": {
+    "1s": "navegarei",
+    "2s": "navegarás",
+    "3s": "navegará",
+    "1p": "navegaremos",
+    "2p": "navegareis",
+    "3p": "navegarão"
+  },
+  "CondS": {
+    "1s": "navegaria",
+    "2s": "navegarias",
+    "3s": "navegaria",
+    "1p": "navegaríamos",
+    "2p": "navegaríeis",
+    "3p": "navegariam"
+  },
+  "PresC": {
+    "1s": "navegue",
+    "2s": "navegues",
+    "3s": "navegue",
+    "1p": "naveguemos",
+    "2p": "navegueis",
+    "3p": "naveguem"
+  },
+  "PImpC": {
+    "1s": "navegasse",
+    "2s": "navegasses",
+    "3s": "navegasse",
+    "1p": "navegássemos",
+    "2p": "navegásseis",
+    "3p": "navegassem"
+  },
+  "FutSC": {
+    "1s": "navegar",
+    "2s": "navegares",
+    "3s": "navegar",
+    "1p": "navegarmos",
+    "2p": "navegardes",
+    "3p": "navegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "navega",
+    "3s": "navegue",
+    "1p": "naveguemos",
+    "2p": "navegai",
+    "3p": "naveguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não navegues",
+    "3s": "não navegue",
+    "1p": "não naveguemos",
+    "2p": "não navegueis",
+    "3p": "não naveguem"
+  },
+  "Part-ter": {
+    "": "navegado"
+  },
+  "Part-ser": {
+    "ms": "navegado",
+    "fs": "navegada",
+    "mp": "navegados",
+    "fp": "navegadas"
+  }
+}

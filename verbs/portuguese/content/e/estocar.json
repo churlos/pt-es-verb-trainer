@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estocar"
+  },
+  "InfP": {
+    "1s": "estocar",
+    "2s": "estocares",
+    "3s": "estocar",
+    "1p": "estocarmos",
+    "2p": "estocardes",
+    "3p": "estocarem"
+  },
+  "Ger": {
+    "": "estocando"
+  },
+  "PresI": {
+    "1s": "estoco",
+    "2s": "estocas",
+    "3s": "estoca",
+    "1p": "estocamos",
+    "2p": "estocais",
+    "3p": "estocam"
+  },
+  "PImpI": {
+    "1s": "estocava",
+    "2s": "estocavas",
+    "3s": "estocava",
+    "1p": "estocávamos",
+    "2p": "estocáveis",
+    "3p": "estocavam"
+  },
+  "PPSI": {
+    "1s": "estoquei",
+    "2s": "estocaste",
+    "3s": "estocou",
+    "1p": "estocámos",
+    "2p": "estocastes",
+    "3p": "estocaram"
+  },
+  "PMQPSI": {
+    "1s": "estocara",
+    "2s": "estocaras",
+    "3s": "estocara",
+    "1p": "estocáramos",
+    "2p": "estocáreis",
+    "3p": "estocaram"
+  },
+  "FutSI": {
+    "1s": "estocarei",
+    "2s": "estocarás",
+    "3s": "estocará",
+    "1p": "estocaremos",
+    "2p": "estocareis",
+    "3p": "estocarão"
+  },
+  "CondS": {
+    "1s": "estocaria",
+    "2s": "estocarias",
+    "3s": "estocaria",
+    "1p": "estocaríamos",
+    "2p": "estocaríeis",
+    "3p": "estocariam"
+  },
+  "PresC": {
+    "1s": "estoque",
+    "2s": "estoques",
+    "3s": "estoque",
+    "1p": "estoquemos",
+    "2p": "estoqueis",
+    "3p": "estoquem"
+  },
+  "PImpC": {
+    "1s": "estocasse",
+    "2s": "estocasses",
+    "3s": "estocasse",
+    "1p": "estocássemos",
+    "2p": "estocásseis",
+    "3p": "estocassem"
+  },
+  "FutSC": {
+    "1s": "estocar",
+    "2s": "estocares",
+    "3s": "estocar",
+    "1p": "estocarmos",
+    "2p": "estocardes",
+    "3p": "estocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estoca",
+    "3s": "estoque",
+    "1p": "estoquemos",
+    "2p": "estocai",
+    "3p": "estoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estoques",
+    "3s": "não estoque",
+    "1p": "não estoquemos",
+    "2p": "não estoqueis",
+    "3p": "não estoquem"
+  },
+  "Part-ter": {
+    "": "estocado"
+  },
+  "Part-ser": {
+    "ms": "estocado",
+    "fs": "estocada",
+    "mp": "estocados",
+    "fp": "estocadas"
+  }
+}

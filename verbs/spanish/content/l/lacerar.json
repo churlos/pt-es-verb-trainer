@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lacerar"
+  },
+  "Ger": {
+    "": "lacerando"
+  },
+  "PresI": {
+    "1s": "lacero",
+    "2s": "laceras",
+    "3s": "lacera",
+    "1p": "laceramos",
+    "2p": "laceráis",
+    "3p": "laceran"
+  },
+  "PImpI": {
+    "1s": "laceraba",
+    "2s": "lacerabas",
+    "3s": "laceraba",
+    "1p": "lacerábamos",
+    "2p": "lacerabais",
+    "3p": "laceraban"
+  },
+  "PPSI": {
+    "1s": "laceré",
+    "2s": "laceraste",
+    "3s": "laceró",
+    "1p": "laceramos",
+    "2p": "lacerasteis",
+    "3p": "laceraron"
+  },
+  "FutSI": {
+    "1s": "laceraré",
+    "2s": "lacerarás",
+    "3s": "lacerará",
+    "1p": "laceraremos",
+    "2p": "laceraréis",
+    "3p": "lacerarán"
+  },
+  "CondS": {
+    "1s": "laceraría",
+    "2s": "lacerarías",
+    "3s": "laceraría",
+    "1p": "laceraríamos",
+    "2p": "laceraríais",
+    "3p": "lacerarían"
+  },
+  "PresC": {
+    "1s": "lacere",
+    "2s": "laceres",
+    "3s": "lacere",
+    "1p": "laceremos",
+    "2p": "laceréis",
+    "3p": "laceren"
+  },
+  "PMQPSI": {
+    "1s": "lacerara",
+    "2s": "laceraras",
+    "3s": "lacerara",
+    "1p": "laceráramos",
+    "2p": "lacerarais",
+    "3p": "laceraran"
+  },
+  "PImpC": {
+    "1s": "lacerase",
+    "2s": "lacerases",
+    "3s": "lacerase",
+    "1p": "lacerásemos",
+    "2p": "laceraseis",
+    "3p": "lacerasen"
+  },
+  "FutSC": {
+    "1s": "lacerare",
+    "2s": "lacerares",
+    "3s": "lacerare",
+    "1p": "laceráremos",
+    "2p": "lacerareis",
+    "3p": "laceraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lacera",
+    "3s": "lacere",
+    "1p": "laceremos",
+    "2p": "lacerad",
+    "3p": "laceren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no laceres",
+    "3s": "no lacere",
+    "1p": "no laceremos",
+    "2p": "no laceréis",
+    "3p": "no laceren"
+  },
+  "Part-ter": {
+    "": "lacerado"
+  },
+  "Part-ser": {
+    "ms": "lacerado",
+    "fs": "lacerada",
+    "mp": "lacerados",
+    "fp": "laceradas"
+  }
+}

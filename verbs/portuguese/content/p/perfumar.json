@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perfumar"
+  },
+  "InfP": {
+    "1s": "perfumar",
+    "2s": "perfumares",
+    "3s": "perfumar",
+    "1p": "perfumarmos",
+    "2p": "perfumardes",
+    "3p": "perfumarem"
+  },
+  "Ger": {
+    "": "perfumando"
+  },
+  "PresI": {
+    "1s": "perfumo",
+    "2s": "perfumas",
+    "3s": "perfuma",
+    "1p": "perfumamos",
+    "2p": "perfumais",
+    "3p": "perfumam"
+  },
+  "PImpI": {
+    "1s": "perfumava",
+    "2s": "perfumavas",
+    "3s": "perfumava",
+    "1p": "perfumávamos",
+    "2p": "perfumáveis",
+    "3p": "perfumavam"
+  },
+  "PPSI": {
+    "1s": "perfumei",
+    "2s": "perfumaste",
+    "3s": "perfumou",
+    "1p": "perfumámos",
+    "2p": "perfumastes",
+    "3p": "perfumaram"
+  },
+  "PMQPSI": {
+    "1s": "perfumara",
+    "2s": "perfumaras",
+    "3s": "perfumara",
+    "1p": "perfumáramos",
+    "2p": "perfumáreis",
+    "3p": "perfumaram"
+  },
+  "FutSI": {
+    "1s": "perfumarei",
+    "2s": "perfumarás",
+    "3s": "perfumará",
+    "1p": "perfumaremos",
+    "2p": "perfumareis",
+    "3p": "perfumarão"
+  },
+  "CondS": {
+    "1s": "perfumaria",
+    "2s": "perfumarias",
+    "3s": "perfumaria",
+    "1p": "perfumaríamos",
+    "2p": "perfumaríeis",
+    "3p": "perfumariam"
+  },
+  "PresC": {
+    "1s": "perfume",
+    "2s": "perfumes",
+    "3s": "perfume",
+    "1p": "perfumemos",
+    "2p": "perfumeis",
+    "3p": "perfumem"
+  },
+  "PImpC": {
+    "1s": "perfumasse",
+    "2s": "perfumasses",
+    "3s": "perfumasse",
+    "1p": "perfumássemos",
+    "2p": "perfumásseis",
+    "3p": "perfumassem"
+  },
+  "FutSC": {
+    "1s": "perfumar",
+    "2s": "perfumares",
+    "3s": "perfumar",
+    "1p": "perfumarmos",
+    "2p": "perfumardes",
+    "3p": "perfumarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perfuma",
+    "3s": "perfume",
+    "1p": "perfumemos",
+    "2p": "perfumai",
+    "3p": "perfumem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não perfumes",
+    "3s": "não perfume",
+    "1p": "não perfumemos",
+    "2p": "não perfumeis",
+    "3p": "não perfumem"
+  },
+  "Part-ter": {
+    "": "perfumado"
+  },
+  "Part-ser": {
+    "ms": "perfumado",
+    "fs": "perfumada",
+    "mp": "perfumados",
+    "fp": "perfumadas"
+  }
+}

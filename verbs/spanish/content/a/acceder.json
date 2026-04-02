@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "acceder"
+  },
+  "Ger": {
+    "": "accediendo"
+  },
+  "PresI": {
+    "1s": "accedo",
+    "2s": "accedes",
+    "3s": "accede",
+    "1p": "accedemos",
+    "2p": "accedéis",
+    "3p": "acceden"
+  },
+  "PImpI": {
+    "1s": "accedía",
+    "2s": "accedías",
+    "3s": "accedía",
+    "1p": "accedíamos",
+    "2p": "accedíais",
+    "3p": "accedían"
+  },
+  "PPSI": {
+    "1s": "accedí",
+    "2s": "accediste",
+    "3s": "accedió",
+    "1p": "accedimos",
+    "2p": "accedisteis",
+    "3p": "accedieron"
+  },
+  "FutSI": {
+    "1s": "accederé",
+    "2s": "accederás",
+    "3s": "accederá",
+    "1p": "accederemos",
+    "2p": "accederéis",
+    "3p": "accederán"
+  },
+  "CondS": {
+    "1s": "accedería",
+    "2s": "accederías",
+    "3s": "accedería",
+    "1p": "accederíamos",
+    "2p": "accederíais",
+    "3p": "accederían"
+  },
+  "PresC": {
+    "1s": "acceda",
+    "2s": "accedas",
+    "3s": "acceda",
+    "1p": "accedamos",
+    "2p": "accedáis",
+    "3p": "accedan"
+  },
+  "PMQPSI": {
+    "1s": "accediera",
+    "2s": "accedieras",
+    "3s": "accediera",
+    "1p": "accediéramos",
+    "2p": "accedierais",
+    "3p": "accedieran"
+  },
+  "PImpC": {
+    "1s": "accediese",
+    "2s": "accedieses",
+    "3s": "accediese",
+    "1p": "accediésemos",
+    "2p": "accedieseis",
+    "3p": "accediesen"
+  },
+  "FutSC": {
+    "1s": "accediere",
+    "2s": "accedieres",
+    "3s": "accediere",
+    "1p": "accediéremos",
+    "2p": "accediereis",
+    "3p": "accedieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "accede",
+    "3s": "acceda",
+    "1p": "accedamos",
+    "2p": "acceded",
+    "3p": "accedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no accedas",
+    "3s": "no acceda",
+    "1p": "no accedamos",
+    "2p": "no accedáis",
+    "3p": "no accedan"
+  },
+  "Part-ter": {
+    "": "accedido"
+  },
+  "Part-ser": {
+    "ms": "accedido",
+    "fs": "accedida",
+    "mp": "accedidos",
+    "fp": "accedidas"
+  }
+}

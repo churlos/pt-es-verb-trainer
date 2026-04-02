@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estoquear"
+  },
+  "Ger": {
+    "": "estoqueando"
+  },
+  "PresI": {
+    "1s": "estoqueo",
+    "2s": "estoqueas",
+    "3s": "estoquea",
+    "1p": "estoqueamos",
+    "2p": "estoqueáis",
+    "3p": "estoquean"
+  },
+  "PImpI": {
+    "1s": "estoqueaba",
+    "2s": "estoqueabas",
+    "3s": "estoqueaba",
+    "1p": "estoqueábamos",
+    "2p": "estoqueabais",
+    "3p": "estoqueaban"
+  },
+  "PPSI": {
+    "1s": "estoqueé",
+    "2s": "estoqueaste",
+    "3s": "estoqueó",
+    "1p": "estoqueamos",
+    "2p": "estoqueasteis",
+    "3p": "estoquearon"
+  },
+  "FutSI": {
+    "1s": "estoquearé",
+    "2s": "estoquearás",
+    "3s": "estoqueará",
+    "1p": "estoquearemos",
+    "2p": "estoquearéis",
+    "3p": "estoquearán"
+  },
+  "CondS": {
+    "1s": "estoquearía",
+    "2s": "estoquearías",
+    "3s": "estoquearía",
+    "1p": "estoquearíamos",
+    "2p": "estoquearíais",
+    "3p": "estoquearían"
+  },
+  "PresC": {
+    "1s": "estoquee",
+    "2s": "estoquees",
+    "3s": "estoquee",
+    "1p": "estoqueemos",
+    "2p": "estoqueéis",
+    "3p": "estoqueen"
+  },
+  "PMQPSI": {
+    "1s": "estoqueara",
+    "2s": "estoquearas",
+    "3s": "estoqueara",
+    "1p": "estoqueáramos",
+    "2p": "estoquearais",
+    "3p": "estoquearan"
+  },
+  "PImpC": {
+    "1s": "estoquease",
+    "2s": "estoqueases",
+    "3s": "estoquease",
+    "1p": "estoqueásemos",
+    "2p": "estoqueaseis",
+    "3p": "estoqueasen"
+  },
+  "FutSC": {
+    "1s": "estoqueare",
+    "2s": "estoqueares",
+    "3s": "estoqueare",
+    "1p": "estoqueáremos",
+    "2p": "estoqueareis",
+    "3p": "estoquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estoquea",
+    "3s": "estoquee",
+    "1p": "estoqueemos",
+    "2p": "estoquead",
+    "3p": "estoqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estoquees",
+    "3s": "no estoquee",
+    "1p": "no estoqueemos",
+    "2p": "no estoqueéis",
+    "3p": "no estoqueen"
+  },
+  "Part-ter": {
+    "": "estoqueado"
+  },
+  "Part-ser": {
+    "ms": "estoqueado",
+    "fs": "estoqueada",
+    "mp": "estoqueados",
+    "fp": "estoqueadas"
+  }
+}

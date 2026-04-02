@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "calcular"
+  },
+  "InfP": {
+    "1s": "calcular",
+    "2s": "calculares",
+    "3s": "calcular",
+    "1p": "calcularmos",
+    "2p": "calculardes",
+    "3p": "calcularem"
+  },
+  "Ger": {
+    "": "calculando"
+  },
+  "PresI": {
+    "1s": "calculo",
+    "2s": "calculas",
+    "3s": "calcula",
+    "1p": "calculamos",
+    "2p": "calculais",
+    "3p": "calculam"
+  },
+  "PImpI": {
+    "1s": "calculava",
+    "2s": "calculavas",
+    "3s": "calculava",
+    "1p": "calculávamos",
+    "2p": "calculáveis",
+    "3p": "calculavam"
+  },
+  "PPSI": {
+    "1s": "calculei",
+    "2s": "calculaste",
+    "3s": "calculou",
+    "1p": "calculámos",
+    "2p": "calculastes",
+    "3p": "calcularam"
+  },
+  "PMQPSI": {
+    "1s": "calculara",
+    "2s": "calcularas",
+    "3s": "calculara",
+    "1p": "calculáramos",
+    "2p": "calculáreis",
+    "3p": "calcularam"
+  },
+  "FutSI": {
+    "1s": "calcularei",
+    "2s": "calcularás",
+    "3s": "calculará",
+    "1p": "calcularemos",
+    "2p": "calculareis",
+    "3p": "calcularão"
+  },
+  "CondS": {
+    "1s": "calcularia",
+    "2s": "calcularias",
+    "3s": "calcularia",
+    "1p": "calcularíamos",
+    "2p": "calcularíeis",
+    "3p": "calculariam"
+  },
+  "PresC": {
+    "1s": "calcule",
+    "2s": "calcules",
+    "3s": "calcule",
+    "1p": "calculemos",
+    "2p": "calculeis",
+    "3p": "calculem"
+  },
+  "PImpC": {
+    "1s": "calculasse",
+    "2s": "calculasses",
+    "3s": "calculasse",
+    "1p": "calculássemos",
+    "2p": "calculásseis",
+    "3p": "calculassem"
+  },
+  "FutSC": {
+    "1s": "calcular",
+    "2s": "calculares",
+    "3s": "calcular",
+    "1p": "calcularmos",
+    "2p": "calculardes",
+    "3p": "calcularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calcula",
+    "3s": "calcule",
+    "1p": "calculemos",
+    "2p": "calculai",
+    "3p": "calculem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não calcules",
+    "3s": "não calcule",
+    "1p": "não calculemos",
+    "2p": "não calculeis",
+    "3p": "não calculem"
+  },
+  "Part-ter": {
+    "": "calculado"
+  },
+  "Part-ser": {
+    "ms": "calculado",
+    "fs": "calculada",
+    "mp": "calculados",
+    "fp": "calculadas"
+  }
+}

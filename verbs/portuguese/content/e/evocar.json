@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "evocar"
+  },
+  "InfP": {
+    "1s": "evocar",
+    "2s": "evocares",
+    "3s": "evocar",
+    "1p": "evocarmos",
+    "2p": "evocardes",
+    "3p": "evocarem"
+  },
+  "Ger": {
+    "": "evocando"
+  },
+  "PresI": {
+    "1s": "evoco",
+    "2s": "evocas",
+    "3s": "evoca",
+    "1p": "evocamos",
+    "2p": "evocais",
+    "3p": "evocam"
+  },
+  "PImpI": {
+    "1s": "evocava",
+    "2s": "evocavas",
+    "3s": "evocava",
+    "1p": "evocávamos",
+    "2p": "evocáveis",
+    "3p": "evocavam"
+  },
+  "PPSI": {
+    "1s": "evoquei",
+    "2s": "evocaste",
+    "3s": "evocou",
+    "1p": "evocámos",
+    "2p": "evocastes",
+    "3p": "evocaram"
+  },
+  "PMQPSI": {
+    "1s": "evocara",
+    "2s": "evocaras",
+    "3s": "evocara",
+    "1p": "evocáramos",
+    "2p": "evocáreis",
+    "3p": "evocaram"
+  },
+  "FutSI": {
+    "1s": "evocarei",
+    "2s": "evocarás",
+    "3s": "evocará",
+    "1p": "evocaremos",
+    "2p": "evocareis",
+    "3p": "evocarão"
+  },
+  "CondS": {
+    "1s": "evocaria",
+    "2s": "evocarias",
+    "3s": "evocaria",
+    "1p": "evocaríamos",
+    "2p": "evocaríeis",
+    "3p": "evocariam"
+  },
+  "PresC": {
+    "1s": "evoque",
+    "2s": "evoques",
+    "3s": "evoque",
+    "1p": "evoquemos",
+    "2p": "evoqueis",
+    "3p": "evoquem"
+  },
+  "PImpC": {
+    "1s": "evocasse",
+    "2s": "evocasses",
+    "3s": "evocasse",
+    "1p": "evocássemos",
+    "2p": "evocásseis",
+    "3p": "evocassem"
+  },
+  "FutSC": {
+    "1s": "evocar",
+    "2s": "evocares",
+    "3s": "evocar",
+    "1p": "evocarmos",
+    "2p": "evocardes",
+    "3p": "evocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evoca",
+    "3s": "evoque",
+    "1p": "evoquemos",
+    "2p": "evocai",
+    "3p": "evoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não evoques",
+    "3s": "não evoque",
+    "1p": "não evoquemos",
+    "2p": "não evoqueis",
+    "3p": "não evoquem"
+  },
+  "Part-ter": {
+    "": "evocado"
+  },
+  "Part-ser": {
+    "ms": "evocado",
+    "fs": "evocada",
+    "mp": "evocados",
+    "fp": "evocadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reabastecer"
+  },
+  "Ger": {
+    "": "reabasteciendo"
+  },
+  "PresI": {
+    "1s": "reabastezco",
+    "2s": "reabasteces",
+    "3s": "reabastece",
+    "1p": "reabastecemos",
+    "2p": "reabastecéis",
+    "3p": "reabastecen"
+  },
+  "PImpI": {
+    "1s": "reabastecía",
+    "2s": "reabastecías",
+    "3s": "reabastecía",
+    "1p": "reabastecíamos",
+    "2p": "reabastecíais",
+    "3p": "reabastecían"
+  },
+  "PPSI": {
+    "1s": "reabastecí",
+    "2s": "reabasteciste",
+    "3s": "reabasteció",
+    "1p": "reabastecimos",
+    "2p": "reabastecisteis",
+    "3p": "reabastecieron"
+  },
+  "FutSI": {
+    "1s": "reabasteceré",
+    "2s": "reabastecerás",
+    "3s": "reabastecerá",
+    "1p": "reabasteceremos",
+    "2p": "reabasteceréis",
+    "3p": "reabastecerán"
+  },
+  "CondS": {
+    "1s": "reabastecería",
+    "2s": "reabastecerías",
+    "3s": "reabastecería",
+    "1p": "reabasteceríamos",
+    "2p": "reabasteceríais",
+    "3p": "reabastecerían"
+  },
+  "PresC": {
+    "1s": "reabastezca",
+    "2s": "reabastezcas",
+    "3s": "reabastezca",
+    "1p": "reabastezcamos",
+    "2p": "reabastezcáis",
+    "3p": "reabastezcan"
+  },
+  "PMQPSI": {
+    "1s": "reabasteciera",
+    "2s": "reabastecieras",
+    "3s": "reabasteciera",
+    "1p": "reabasteciéramos",
+    "2p": "reabastecierais",
+    "3p": "reabastecieran"
+  },
+  "PImpC": {
+    "1s": "reabasteciese",
+    "2s": "reabastecieses",
+    "3s": "reabasteciese",
+    "1p": "reabasteciésemos",
+    "2p": "reabastecieseis",
+    "3p": "reabasteciesen"
+  },
+  "FutSC": {
+    "1s": "reabasteciere",
+    "2s": "reabastecieres",
+    "3s": "reabasteciere",
+    "1p": "reabasteciéremos",
+    "2p": "reabasteciereis",
+    "3p": "reabastecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reabastece",
+    "3s": "reabastezca",
+    "1p": "reabastezcamos",
+    "2p": "reabasteced",
+    "3p": "reabastezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reabastezcas",
+    "3s": "no reabastezca",
+    "1p": "no reabastezcamos",
+    "2p": "no reabastezcáis",
+    "3p": "no reabastezcan"
+  },
+  "Part-ter": {
+    "": "reabastecido"
+  },
+  "Part-ser": {
+    "ms": "reabastecido",
+    "fs": "reabastecida",
+    "mp": "reabastecidos",
+    "fp": "reabastecidas"
+  }
+}

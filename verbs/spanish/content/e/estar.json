@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estar"
+  },
+  "Ger": {
+    "": "estando"
+  },
+  "PresI": {
+    "1s": "estoy",
+    "2s": "estás",
+    "3s": "está",
+    "1p": "estamos",
+    "2p": "estáis",
+    "3p": "están"
+  },
+  "PImpI": {
+    "1s": "estaba",
+    "2s": "estabas",
+    "3s": "estaba",
+    "1p": "estábamos",
+    "2p": "estabais",
+    "3p": "estaban"
+  },
+  "PPSI": {
+    "1s": "estuve",
+    "2s": "estuviste",
+    "3s": "estuvo",
+    "1p": "estuvimos",
+    "2p": "estuvisteis",
+    "3p": "estuvieron"
+  },
+  "FutSI": {
+    "1s": "estaré",
+    "2s": "estarás",
+    "3s": "estará",
+    "1p": "estaremos",
+    "2p": "estaréis",
+    "3p": "estarán"
+  },
+  "CondS": {
+    "1s": "estaría",
+    "2s": "estarías",
+    "3s": "estaría",
+    "1p": "estaríamos",
+    "2p": "estaríais",
+    "3p": "estarían"
+  },
+  "PresC": {
+    "1s": "esté",
+    "2s": "estés",
+    "3s": "esté",
+    "1p": "estemos",
+    "2p": "estéis",
+    "3p": "estén"
+  },
+  "PMQPSI": {
+    "1s": "estuviera",
+    "2s": "estuvieras",
+    "3s": "estuviera",
+    "1p": "estuviéramos",
+    "2p": "estuvierais",
+    "3p": "estuvieran"
+  },
+  "PImpC": {
+    "1s": "estuviese",
+    "2s": "estuvieses",
+    "3s": "estuviese",
+    "1p": "estuviésemos",
+    "2p": "estuvieseis",
+    "3p": "estuviesen"
+  },
+  "FutSC": {
+    "1s": "estuviere",
+    "2s": "estuvieres",
+    "3s": "estuviere",
+    "1p": "estuviéremos",
+    "2p": "estuviereis",
+    "3p": "estuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "está",
+    "3s": "esté",
+    "1p": "estemos",
+    "2p": "estad",
+    "3p": "estén"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estés",
+    "3s": "no esté",
+    "1p": "no estemos",
+    "2p": "no estéis",
+    "3p": "no estén"
+  },
+  "Part-ter": {
+    "": "estado"
+  },
+  "Part-ser": {
+    "ms": "estado",
+    "fs": "estada",
+    "mp": "estados",
+    "fp": "estadas"
+  }
+}

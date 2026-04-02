@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espojar"
+  },
+  "InfP": {
+    "1s": "espojar",
+    "2s": "espojares",
+    "3s": "espojar",
+    "1p": "espojarmos",
+    "2p": "espojardes",
+    "3p": "espojarem"
+  },
+  "Ger": {
+    "": "espojando"
+  },
+  "PresI": {
+    "1s": "espojo",
+    "2s": "espojas",
+    "3s": "espoja",
+    "1p": "espojamos",
+    "2p": "espojais",
+    "3p": "espojam"
+  },
+  "PImpI": {
+    "1s": "espojava",
+    "2s": "espojavas",
+    "3s": "espojava",
+    "1p": "espojávamos",
+    "2p": "espojáveis",
+    "3p": "espojavam"
+  },
+  "PPSI": {
+    "1s": "espojei",
+    "2s": "espojaste",
+    "3s": "espojou",
+    "1p": "espojámos",
+    "2p": "espojastes",
+    "3p": "espojaram"
+  },
+  "PMQPSI": {
+    "1s": "espojara",
+    "2s": "espojaras",
+    "3s": "espojara",
+    "1p": "espojáramos",
+    "2p": "espojáreis",
+    "3p": "espojaram"
+  },
+  "FutSI": {
+    "1s": "espojarei",
+    "2s": "espojarás",
+    "3s": "espojará",
+    "1p": "espojaremos",
+    "2p": "espojareis",
+    "3p": "espojarão"
+  },
+  "CondS": {
+    "1s": "espojaria",
+    "2s": "espojarias",
+    "3s": "espojaria",
+    "1p": "espojaríamos",
+    "2p": "espojaríeis",
+    "3p": "espojariam"
+  },
+  "PresC": {
+    "1s": "espoje",
+    "2s": "espojes",
+    "3s": "espoje",
+    "1p": "espojemos",
+    "2p": "espojeis",
+    "3p": "espojem"
+  },
+  "PImpC": {
+    "1s": "espojasse",
+    "2s": "espojasses",
+    "3s": "espojasse",
+    "1p": "espojássemos",
+    "2p": "espojásseis",
+    "3p": "espojassem"
+  },
+  "FutSC": {
+    "1s": "espojar",
+    "2s": "espojares",
+    "3s": "espojar",
+    "1p": "espojarmos",
+    "2p": "espojardes",
+    "3p": "espojarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espoja",
+    "3s": "espoje",
+    "1p": "espojemos",
+    "2p": "espojai",
+    "3p": "espojem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espojes",
+    "3s": "não espoje",
+    "1p": "não espojemos",
+    "2p": "não espojeis",
+    "3p": "não espojem"
+  },
+  "Part-ter": {
+    "": "espojado"
+  },
+  "Part-ser": {
+    "ms": "espojado",
+    "fs": "espojada",
+    "mp": "espojados",
+    "fp": "espojadas"
+  }
+}

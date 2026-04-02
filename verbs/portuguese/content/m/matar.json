@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "matar"
+  },
+  "InfP": {
+    "1s": "matar",
+    "2s": "matares",
+    "3s": "matar",
+    "1p": "matarmos",
+    "2p": "matardes",
+    "3p": "matarem"
+  },
+  "Ger": {
+    "": "matando"
+  },
+  "PresI": {
+    "1s": "mato",
+    "2s": "matas",
+    "3s": "mata",
+    "1p": "matamos",
+    "2p": "matais",
+    "3p": "matam"
+  },
+  "PImpI": {
+    "1s": "matava",
+    "2s": "matavas",
+    "3s": "matava",
+    "1p": "matávamos",
+    "2p": "matáveis",
+    "3p": "matavam"
+  },
+  "PPSI": {
+    "1s": "matei",
+    "2s": "mataste",
+    "3s": "matou",
+    "1p": "matámos",
+    "2p": "matastes",
+    "3p": "mataram"
+  },
+  "PMQPSI": {
+    "1s": "matara",
+    "2s": "mataras",
+    "3s": "matara",
+    "1p": "matáramos",
+    "2p": "matáreis",
+    "3p": "mataram"
+  },
+  "FutSI": {
+    "1s": "matarei",
+    "2s": "matarás",
+    "3s": "matará",
+    "1p": "mataremos",
+    "2p": "matareis",
+    "3p": "matarão"
+  },
+  "CondS": {
+    "1s": "mataria",
+    "2s": "matarias",
+    "3s": "mataria",
+    "1p": "mataríamos",
+    "2p": "mataríeis",
+    "3p": "matariam"
+  },
+  "PresC": {
+    "1s": "mate",
+    "2s": "mates",
+    "3s": "mate",
+    "1p": "matemos",
+    "2p": "mateis",
+    "3p": "matem"
+  },
+  "PImpC": {
+    "1s": "matasse",
+    "2s": "matasses",
+    "3s": "matasse",
+    "1p": "matássemos",
+    "2p": "matásseis",
+    "3p": "matassem"
+  },
+  "FutSC": {
+    "1s": "matar",
+    "2s": "matares",
+    "3s": "matar",
+    "1p": "matarmos",
+    "2p": "matardes",
+    "3p": "matarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mata",
+    "3s": "mate",
+    "1p": "matemos",
+    "2p": "matai",
+    "3p": "matem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mates",
+    "3s": "não mate",
+    "1p": "não matemos",
+    "2p": "não mateis",
+    "3p": "não matem"
+  },
+  "Part-ter": {
+    "": "matado"
+  },
+  "Part-ser": {
+    "ms": "morto",
+    "fs": "morta",
+    "mp": "mortos",
+    "fp": "mortas"
+  }
+}

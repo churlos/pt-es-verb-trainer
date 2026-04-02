@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "poder"
+  },
+  "Ger": {
+    "": "pudiendo"
+  },
+  "PresI": {
+    "1s": "puedo",
+    "2s": "puedes",
+    "3s": "puede",
+    "1p": "podemos",
+    "2p": "podéis",
+    "3p": "pueden"
+  },
+  "PImpI": {
+    "1s": "podía",
+    "2s": "podías",
+    "3s": "podía",
+    "1p": "podíamos",
+    "2p": "podíais",
+    "3p": "podían"
+  },
+  "PPSI": {
+    "1s": "pude",
+    "2s": "pudiste",
+    "3s": "pudo",
+    "1p": "pudimos",
+    "2p": "pudisteis",
+    "3p": "pudieron"
+  },
+  "FutSI": {
+    "1s": "podré",
+    "2s": "podrás",
+    "3s": "podrá",
+    "1p": "podremos",
+    "2p": "podréis",
+    "3p": "podrán"
+  },
+  "CondS": {
+    "1s": "podría",
+    "2s": "podrías",
+    "3s": "podría",
+    "1p": "podríamos",
+    "2p": "podríais",
+    "3p": "podrían"
+  },
+  "PresC": {
+    "1s": "pueda",
+    "2s": "puedas",
+    "3s": "pueda",
+    "1p": "podamos",
+    "2p": "podáis",
+    "3p": "puedan"
+  },
+  "PMQPSI": {
+    "1s": "pudiera",
+    "2s": "pudieras",
+    "3s": "pudiera",
+    "1p": "pudiéramos",
+    "2p": "pudierais",
+    "3p": "pudieran"
+  },
+  "PImpC": {
+    "1s": "pudiese",
+    "2s": "pudieses",
+    "3s": "pudiese",
+    "1p": "pudiésemos",
+    "2p": "pudieseis",
+    "3p": "pudiesen"
+  },
+  "FutSC": {
+    "1s": "pudiere",
+    "2s": "pudieres",
+    "3s": "pudiere",
+    "1p": "pudiéremos",
+    "2p": "pudiereis",
+    "3p": "pudieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "puede",
+    "3s": "pueda",
+    "1p": "podamos",
+    "2p": "poded",
+    "3p": "puedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no puedas",
+    "3s": "no pueda",
+    "1p": "no podamos",
+    "2p": "no podáis",
+    "3p": "no puedan"
+  },
+  "Part-ter": {
+    "": "podido"
+  },
+  "Part-ser": {
+    "ms": "podido",
+    "fs": "podida",
+    "mp": "podidos",
+    "fp": "podidas"
+  }
+}

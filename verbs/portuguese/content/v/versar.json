@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "versar"
+  },
+  "InfP": {
+    "1s": "versar",
+    "2s": "versares",
+    "3s": "versar",
+    "1p": "versarmos",
+    "2p": "versardes",
+    "3p": "versarem"
+  },
+  "Ger": {
+    "": "versando"
+  },
+  "PresI": {
+    "1s": "verso",
+    "2s": "versas",
+    "3s": "versa",
+    "1p": "versamos",
+    "2p": "versais",
+    "3p": "versam"
+  },
+  "PImpI": {
+    "1s": "versava",
+    "2s": "versavas",
+    "3s": "versava",
+    "1p": "versávamos",
+    "2p": "versáveis",
+    "3p": "versavam"
+  },
+  "PPSI": {
+    "1s": "versei",
+    "2s": "versaste",
+    "3s": "versou",
+    "1p": "versámos",
+    "2p": "versastes",
+    "3p": "versaram"
+  },
+  "PMQPSI": {
+    "1s": "versara",
+    "2s": "versaras",
+    "3s": "versara",
+    "1p": "versáramos",
+    "2p": "versáreis",
+    "3p": "versaram"
+  },
+  "FutSI": {
+    "1s": "versarei",
+    "2s": "versarás",
+    "3s": "versará",
+    "1p": "versaremos",
+    "2p": "versareis",
+    "3p": "versarão"
+  },
+  "CondS": {
+    "1s": "versaria",
+    "2s": "versarias",
+    "3s": "versaria",
+    "1p": "versaríamos",
+    "2p": "versaríeis",
+    "3p": "versariam"
+  },
+  "PresC": {
+    "1s": "verse",
+    "2s": "verses",
+    "3s": "verse",
+    "1p": "versemos",
+    "2p": "verseis",
+    "3p": "versem"
+  },
+  "PImpC": {
+    "1s": "versasse",
+    "2s": "versasses",
+    "3s": "versasse",
+    "1p": "versássemos",
+    "2p": "versásseis",
+    "3p": "versassem"
+  },
+  "FutSC": {
+    "1s": "versar",
+    "2s": "versares",
+    "3s": "versar",
+    "1p": "versarmos",
+    "2p": "versardes",
+    "3p": "versarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "versa",
+    "3s": "verse",
+    "1p": "versemos",
+    "2p": "versai",
+    "3p": "versem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não verses",
+    "3s": "não verse",
+    "1p": "não versemos",
+    "2p": "não verseis",
+    "3p": "não versem"
+  },
+  "Part-ter": {
+    "": "versado"
+  },
+  "Part-ser": {
+    "ms": "versado",
+    "fs": "versada",
+    "mp": "versados",
+    "fp": "versadas"
+  }
+}

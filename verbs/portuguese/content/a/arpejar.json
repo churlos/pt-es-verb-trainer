@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arpejar"
+  },
+  "InfP": {
+    "1s": "arpejar",
+    "2s": "arpejares",
+    "3s": "arpejar",
+    "1p": "arpejarmos",
+    "2p": "arpejardes",
+    "3p": "arpejarem"
+  },
+  "Ger": {
+    "": "arpejando"
+  },
+  "PresI": {
+    "1s": "arpejo",
+    "2s": "arpejas",
+    "3s": "arpeja",
+    "1p": "arpejamos",
+    "2p": "arpejais",
+    "3p": "arpejam"
+  },
+  "PImpI": {
+    "1s": "arpejava",
+    "2s": "arpejavas",
+    "3s": "arpejava",
+    "1p": "arpejávamos",
+    "2p": "arpejáveis",
+    "3p": "arpejavam"
+  },
+  "PPSI": {
+    "1s": "arpejei",
+    "2s": "arpejaste",
+    "3s": "arpejou",
+    "1p": "arpejámos",
+    "2p": "arpejastes",
+    "3p": "arpejaram"
+  },
+  "PMQPSI": {
+    "1s": "arpejara",
+    "2s": "arpejaras",
+    "3s": "arpejara",
+    "1p": "arpejáramos",
+    "2p": "arpejáreis",
+    "3p": "arpejaram"
+  },
+  "FutSI": {
+    "1s": "arpejarei",
+    "2s": "arpejarás",
+    "3s": "arpejará",
+    "1p": "arpejaremos",
+    "2p": "arpejareis",
+    "3p": "arpejarão"
+  },
+  "CondS": {
+    "1s": "arpejaria",
+    "2s": "arpejarias",
+    "3s": "arpejaria",
+    "1p": "arpejaríamos",
+    "2p": "arpejaríeis",
+    "3p": "arpejariam"
+  },
+  "PresC": {
+    "1s": "arpeje",
+    "2s": "arpejes",
+    "3s": "arpeje",
+    "1p": "arpejemos",
+    "2p": "arpejeis",
+    "3p": "arpejem"
+  },
+  "PImpC": {
+    "1s": "arpejasse",
+    "2s": "arpejasses",
+    "3s": "arpejasse",
+    "1p": "arpejássemos",
+    "2p": "arpejásseis",
+    "3p": "arpejassem"
+  },
+  "FutSC": {
+    "1s": "arpejar",
+    "2s": "arpejares",
+    "3s": "arpejar",
+    "1p": "arpejarmos",
+    "2p": "arpejardes",
+    "3p": "arpejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arpeja",
+    "3s": "arpeje",
+    "1p": "arpejemos",
+    "2p": "arpejai",
+    "3p": "arpejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arpejes",
+    "3s": "não arpeje",
+    "1p": "não arpejemos",
+    "2p": "não arpejeis",
+    "3p": "não arpejem"
+  },
+  "Part-ter": {
+    "": "arpejado"
+  },
+  "Part-ser": {
+    "ms": "arpejado",
+    "fs": "arpejada",
+    "mp": "arpejados",
+    "fp": "arpejadas"
+  }
+}

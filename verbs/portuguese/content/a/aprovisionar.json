@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aprovisionar"
+  },
+  "InfP": {
+    "1s": "aprovisionar",
+    "2s": "aprovisionares",
+    "3s": "aprovisionar",
+    "1p": "aprovisionarmos",
+    "2p": "aprovisionardes",
+    "3p": "aprovisionarem"
+  },
+  "Ger": {
+    "": "aprovisionando"
+  },
+  "PresI": {
+    "1s": "aprovisiono",
+    "2s": "aprovisionas",
+    "3s": "aprovisiona",
+    "1p": "aprovisionamos",
+    "2p": "aprovisionais",
+    "3p": "aprovisionam"
+  },
+  "PImpI": {
+    "1s": "aprovisionava",
+    "2s": "aprovisionavas",
+    "3s": "aprovisionava",
+    "1p": "aprovisionávamos",
+    "2p": "aprovisionáveis",
+    "3p": "aprovisionavam"
+  },
+  "PPSI": {
+    "1s": "aprovisionei",
+    "2s": "aprovisionaste",
+    "3s": "aprovisionou",
+    "1p": "aprovisionámos",
+    "2p": "aprovisionastes",
+    "3p": "aprovisionaram"
+  },
+  "PMQPSI": {
+    "1s": "aprovisionara",
+    "2s": "aprovisionaras",
+    "3s": "aprovisionara",
+    "1p": "aprovisionáramos",
+    "2p": "aprovisionáreis",
+    "3p": "aprovisionaram"
+  },
+  "FutSI": {
+    "1s": "aprovisionarei",
+    "2s": "aprovisionarás",
+    "3s": "aprovisionará",
+    "1p": "aprovisionaremos",
+    "2p": "aprovisionareis",
+    "3p": "aprovisionarão"
+  },
+  "CondS": {
+    "1s": "aprovisionaria",
+    "2s": "aprovisionarias",
+    "3s": "aprovisionaria",
+    "1p": "aprovisionaríamos",
+    "2p": "aprovisionaríeis",
+    "3p": "aprovisionariam"
+  },
+  "PresC": {
+    "1s": "aprovisione",
+    "2s": "aprovisiones",
+    "3s": "aprovisione",
+    "1p": "aprovisionemos",
+    "2p": "aprovisioneis",
+    "3p": "aprovisionem"
+  },
+  "PImpC": {
+    "1s": "aprovisionasse",
+    "2s": "aprovisionasses",
+    "3s": "aprovisionasse",
+    "1p": "aprovisionássemos",
+    "2p": "aprovisionásseis",
+    "3p": "aprovisionassem"
+  },
+  "FutSC": {
+    "1s": "aprovisionar",
+    "2s": "aprovisionares",
+    "3s": "aprovisionar",
+    "1p": "aprovisionarmos",
+    "2p": "aprovisionardes",
+    "3p": "aprovisionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aprovisiona",
+    "3s": "aprovisione",
+    "1p": "aprovisionemos",
+    "2p": "aprovisionai",
+    "3p": "aprovisionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aprovisiones",
+    "3s": "não aprovisione",
+    "1p": "não aprovisionemos",
+    "2p": "não aprovisioneis",
+    "3p": "não aprovisionem"
+  },
+  "Part-ter": {
+    "": "aprovisionado"
+  },
+  "Part-ser": {
+    "ms": "aprovisionado",
+    "fs": "aprovisionada",
+    "mp": "aprovisionados",
+    "fp": "aprovisionadas"
+  }
+}

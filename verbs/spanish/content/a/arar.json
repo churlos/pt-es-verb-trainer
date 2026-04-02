@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arar"
+  },
+  "Ger": {
+    "": "arando"
+  },
+  "PresI": {
+    "1s": "aro",
+    "2s": "aras",
+    "3s": "ara",
+    "1p": "aramos",
+    "2p": "aráis",
+    "3p": "aran"
+  },
+  "PImpI": {
+    "1s": "araba",
+    "2s": "arabas",
+    "3s": "araba",
+    "1p": "arábamos",
+    "2p": "arabais",
+    "3p": "araban"
+  },
+  "PPSI": {
+    "1s": "aré",
+    "2s": "araste",
+    "3s": "aró",
+    "1p": "aramos",
+    "2p": "arasteis",
+    "3p": "araron"
+  },
+  "FutSI": {
+    "1s": "araré",
+    "2s": "ararás",
+    "3s": "arará",
+    "1p": "araremos",
+    "2p": "araréis",
+    "3p": "ararán"
+  },
+  "CondS": {
+    "1s": "araría",
+    "2s": "ararías",
+    "3s": "araría",
+    "1p": "araríamos",
+    "2p": "araríais",
+    "3p": "ararían"
+  },
+  "PresC": {
+    "1s": "are",
+    "2s": "ares",
+    "3s": "are",
+    "1p": "aremos",
+    "2p": "aréis",
+    "3p": "aren"
+  },
+  "PMQPSI": {
+    "1s": "arara",
+    "2s": "araras",
+    "3s": "arara",
+    "1p": "aráramos",
+    "2p": "ararais",
+    "3p": "araran"
+  },
+  "PImpC": {
+    "1s": "arase",
+    "2s": "arases",
+    "3s": "arase",
+    "1p": "arásemos",
+    "2p": "araseis",
+    "3p": "arasen"
+  },
+  "FutSC": {
+    "1s": "arare",
+    "2s": "arares",
+    "3s": "arare",
+    "1p": "aráremos",
+    "2p": "arareis",
+    "3p": "araren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ara",
+    "3s": "are",
+    "1p": "aremos",
+    "2p": "arad",
+    "3p": "aren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ares",
+    "3s": "no are",
+    "1p": "no aremos",
+    "2p": "no aréis",
+    "3p": "no aren"
+  },
+  "Part-ter": {
+    "": "arado"
+  },
+  "Part-ser": {
+    "ms": "arado",
+    "fs": "arada",
+    "mp": "arados",
+    "fp": "aradas"
+  }
+}

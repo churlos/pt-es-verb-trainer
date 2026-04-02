@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pedir"
+  },
+  "InfP": {
+    "1s": "pedir",
+    "2s": "pedires",
+    "3s": "pedir",
+    "1p": "pedirmos",
+    "2p": "pedirdes",
+    "3p": "pedirem"
+  },
+  "Ger": {
+    "": "pedindo"
+  },
+  "PresI": {
+    "1s": "peço",
+    "2s": "pedes",
+    "3s": "pede",
+    "1p": "pedimos",
+    "2p": "pedis",
+    "3p": "pedem"
+  },
+  "PImpI": {
+    "1s": "pedia",
+    "2s": "pedias",
+    "3s": "pedia",
+    "1p": "pedíamos",
+    "2p": "pedíeis",
+    "3p": "pediam"
+  },
+  "PPSI": {
+    "1s": "pedi",
+    "2s": "pediste",
+    "3s": "pediu",
+    "1p": "pedimos",
+    "2p": "pedistes",
+    "3p": "pediram"
+  },
+  "PMQPSI": {
+    "1s": "pedira",
+    "2s": "pediras",
+    "3s": "pedira",
+    "1p": "pedíramos",
+    "2p": "pedíreis",
+    "3p": "pediram"
+  },
+  "FutSI": {
+    "1s": "pedirei",
+    "2s": "pedirás",
+    "3s": "pedirá",
+    "1p": "pediremos",
+    "2p": "pedireis",
+    "3p": "pedirão"
+  },
+  "CondS": {
+    "1s": "pediria",
+    "2s": "pedirias",
+    "3s": "pediria",
+    "1p": "pediríamos",
+    "2p": "pediríeis",
+    "3p": "pediriam"
+  },
+  "PresC": {
+    "1s": "peça",
+    "2s": "peças",
+    "3s": "peça",
+    "1p": "peçamos",
+    "2p": "peçais",
+    "3p": "peçam"
+  },
+  "PImpC": {
+    "1s": "pedisse",
+    "2s": "pedisses",
+    "3s": "pedisse",
+    "1p": "pedíssemos",
+    "2p": "pedísseis",
+    "3p": "pedissem"
+  },
+  "FutSC": {
+    "1s": "pedir",
+    "2s": "pedires",
+    "3s": "pedir",
+    "1p": "pedirmos",
+    "2p": "pedirdes",
+    "3p": "pedirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pede",
+    "3s": "peça",
+    "1p": "peçamos",
+    "2p": "pedi",
+    "3p": "peçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não peças",
+    "3s": "não peça",
+    "1p": "não peçamos",
+    "2p": "não peçais",
+    "3p": "não peçam"
+  },
+  "Part-ter": {
+    "": "pedido"
+  },
+  "Part-ser": {
+    "ms": "pedido",
+    "fs": "pedida",
+    "mp": "pedidos",
+    "fp": "pedidas"
+  }
+}

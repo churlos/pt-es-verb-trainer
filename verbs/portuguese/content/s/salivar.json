@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "salivar"
+  },
+  "InfP": {
+    "1s": "salivar",
+    "2s": "salivares",
+    "3s": "salivar",
+    "1p": "salivarmos",
+    "2p": "salivardes",
+    "3p": "salivarem"
+  },
+  "Ger": {
+    "": "salivando"
+  },
+  "PresI": {
+    "1s": "salivo",
+    "2s": "salivas",
+    "3s": "saliva",
+    "1p": "salivamos",
+    "2p": "salivais",
+    "3p": "salivam"
+  },
+  "PImpI": {
+    "1s": "salivava",
+    "2s": "salivavas",
+    "3s": "salivava",
+    "1p": "salivávamos",
+    "2p": "saliváveis",
+    "3p": "salivavam"
+  },
+  "PPSI": {
+    "1s": "salivei",
+    "2s": "salivaste",
+    "3s": "salivou",
+    "1p": "salivámos",
+    "2p": "salivastes",
+    "3p": "salivaram"
+  },
+  "PMQPSI": {
+    "1s": "salivara",
+    "2s": "salivaras",
+    "3s": "salivara",
+    "1p": "saliváramos",
+    "2p": "saliváreis",
+    "3p": "salivaram"
+  },
+  "FutSI": {
+    "1s": "salivarei",
+    "2s": "salivarás",
+    "3s": "salivará",
+    "1p": "salivaremos",
+    "2p": "salivareis",
+    "3p": "salivarão"
+  },
+  "CondS": {
+    "1s": "salivaria",
+    "2s": "salivarias",
+    "3s": "salivaria",
+    "1p": "salivaríamos",
+    "2p": "salivaríeis",
+    "3p": "salivariam"
+  },
+  "PresC": {
+    "1s": "salive",
+    "2s": "salives",
+    "3s": "salive",
+    "1p": "salivemos",
+    "2p": "saliveis",
+    "3p": "salivem"
+  },
+  "PImpC": {
+    "1s": "salivasse",
+    "2s": "salivasses",
+    "3s": "salivasse",
+    "1p": "salivássemos",
+    "2p": "salivásseis",
+    "3p": "salivassem"
+  },
+  "FutSC": {
+    "1s": "salivar",
+    "2s": "salivares",
+    "3s": "salivar",
+    "1p": "salivarmos",
+    "2p": "salivardes",
+    "3p": "salivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saliva",
+    "3s": "salive",
+    "1p": "salivemos",
+    "2p": "salivai",
+    "3p": "salivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não salives",
+    "3s": "não salive",
+    "1p": "não salivemos",
+    "2p": "não saliveis",
+    "3p": "não salivem"
+  },
+  "Part-ter": {
+    "": "salivado"
+  },
+  "Part-ser": {
+    "ms": "salivado",
+    "fs": "salivada",
+    "mp": "salivados",
+    "fp": "salivadas"
+  }
+}

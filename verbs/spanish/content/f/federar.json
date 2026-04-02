@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "federar"
+  },
+  "Ger": {
+    "": "federando"
+  },
+  "PresI": {
+    "1s": "federo",
+    "2s": "federas",
+    "3s": "federa",
+    "1p": "federamos",
+    "2p": "federáis",
+    "3p": "federan"
+  },
+  "PImpI": {
+    "1s": "federaba",
+    "2s": "federabas",
+    "3s": "federaba",
+    "1p": "federábamos",
+    "2p": "federabais",
+    "3p": "federaban"
+  },
+  "PPSI": {
+    "1s": "federé",
+    "2s": "federaste",
+    "3s": "federó",
+    "1p": "federamos",
+    "2p": "federasteis",
+    "3p": "federaron"
+  },
+  "FutSI": {
+    "1s": "federaré",
+    "2s": "federarás",
+    "3s": "federará",
+    "1p": "federaremos",
+    "2p": "federaréis",
+    "3p": "federarán"
+  },
+  "CondS": {
+    "1s": "federaría",
+    "2s": "federarías",
+    "3s": "federaría",
+    "1p": "federaríamos",
+    "2p": "federaríais",
+    "3p": "federarían"
+  },
+  "PresC": {
+    "1s": "federe",
+    "2s": "federes",
+    "3s": "federe",
+    "1p": "federemos",
+    "2p": "federéis",
+    "3p": "federen"
+  },
+  "PMQPSI": {
+    "1s": "federara",
+    "2s": "federaras",
+    "3s": "federara",
+    "1p": "federáramos",
+    "2p": "federarais",
+    "3p": "federaran"
+  },
+  "PImpC": {
+    "1s": "federase",
+    "2s": "federases",
+    "3s": "federase",
+    "1p": "federásemos",
+    "2p": "federaseis",
+    "3p": "federasen"
+  },
+  "FutSC": {
+    "1s": "federare",
+    "2s": "federares",
+    "3s": "federare",
+    "1p": "federáremos",
+    "2p": "federareis",
+    "3p": "federaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "federa",
+    "3s": "federe",
+    "1p": "federemos",
+    "2p": "federad",
+    "3p": "federen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no federes",
+    "3s": "no federe",
+    "1p": "no federemos",
+    "2p": "no federéis",
+    "3p": "no federen"
+  },
+  "Part-ter": {
+    "": "federado"
+  },
+  "Part-ser": {
+    "ms": "federado",
+    "fs": "federada",
+    "mp": "federados",
+    "fp": "federadas"
+  }
+}

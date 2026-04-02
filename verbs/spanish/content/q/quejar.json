@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "quejarse"
+  },
+  "Ger": {
+    "": "quejándose"
+  },
+  "PresI": {
+    "1s": "me quejo",
+    "2s": "te quejas",
+    "3s": "se queja",
+    "1p": "nos quejamos",
+    "2p": "os quejáis",
+    "3p": "se quejan"
+  },
+  "PImpI": {
+    "1s": "me quejaba",
+    "2s": "te quejabas",
+    "3s": "se quejaba",
+    "1p": "nos quejábamos",
+    "2p": "os quejabais",
+    "3p": "se quejaban"
+  },
+  "PPSI": {
+    "1s": "me quejé",
+    "2s": "te quejaste",
+    "3s": "se quejó",
+    "1p": "nos quejamos",
+    "2p": "os quejasteis",
+    "3p": "se quejaron"
+  },
+  "FutSI": {
+    "1s": "me quejaré",
+    "2s": "te quejarás",
+    "3s": "se quejará",
+    "1p": "nos quejaremos",
+    "2p": "os quejaréis",
+    "3p": "se quejarán"
+  },
+  "CondS": {
+    "1s": "me quejaría",
+    "2s": "te quejarías",
+    "3s": "se quejaría",
+    "1p": "nos quejaríamos",
+    "2p": "os quejaríais",
+    "3p": "se quejarían"
+  },
+  "PresC": {
+    "1s": "me queje",
+    "2s": "te quejes",
+    "3s": "se queje",
+    "1p": "nos quejemos",
+    "2p": "os quejéis",
+    "3p": "se quejen"
+  },
+  "PMQPSI": {
+    "1s": "me quejara",
+    "2s": "te quejaras",
+    "3s": "se quejara",
+    "1p": "nos quejáramos",
+    "2p": "os quejarais",
+    "3p": "se quejaran"
+  },
+  "PImpC": {
+    "1s": "me quejase",
+    "2s": "te quejases",
+    "3s": "se quejase",
+    "1p": "nos quejásemos",
+    "2p": "os quejaseis",
+    "3p": "se quejasen"
+  },
+  "FutSC": {
+    "1s": "me quejare",
+    "2s": "te quejares",
+    "3s": "se quejare",
+    "1p": "nos quejáremos",
+    "2p": "os quejareis",
+    "3p": "se quejaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quéjate",
+    "3s": "quéjese",
+    "1p": "quejémonos",
+    "2p": "quejaos",
+    "3p": "quéjense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te quejes",
+    "3s": "no se queje",
+    "1p": "no nos quejemos",
+    "2p": "no os quejéis",
+    "3p": "no se quejen"
+  },
+  "Part-ter": {
+    "": "quejado"
+  },
+  "Part-ser": {
+    "ms": "quejado",
+    "fs": "quejada",
+    "mp": "quejados",
+    "fp": "quejadas"
+  }
+}

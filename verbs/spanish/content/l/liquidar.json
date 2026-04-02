@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "liquidar"
+  },
+  "Ger": {
+    "": "liquidando"
+  },
+  "PresI": {
+    "1s": "liquido",
+    "2s": "liquidas",
+    "3s": "liquida",
+    "1p": "liquidamos",
+    "2p": "liquidáis",
+    "3p": "liquidan"
+  },
+  "PImpI": {
+    "1s": "liquidaba",
+    "2s": "liquidabas",
+    "3s": "liquidaba",
+    "1p": "liquidábamos",
+    "2p": "liquidabais",
+    "3p": "liquidaban"
+  },
+  "PPSI": {
+    "1s": "liquidé",
+    "2s": "liquidaste",
+    "3s": "liquidó",
+    "1p": "liquidamos",
+    "2p": "liquidasteis",
+    "3p": "liquidaron"
+  },
+  "FutSI": {
+    "1s": "liquidaré",
+    "2s": "liquidarás",
+    "3s": "liquidará",
+    "1p": "liquidaremos",
+    "2p": "liquidaréis",
+    "3p": "liquidarán"
+  },
+  "CondS": {
+    "1s": "liquidaría",
+    "2s": "liquidarías",
+    "3s": "liquidaría",
+    "1p": "liquidaríamos",
+    "2p": "liquidaríais",
+    "3p": "liquidarían"
+  },
+  "PresC": {
+    "1s": "liquide",
+    "2s": "liquides",
+    "3s": "liquide",
+    "1p": "liquidemos",
+    "2p": "liquidéis",
+    "3p": "liquiden"
+  },
+  "PMQPSI": {
+    "1s": "liquidara",
+    "2s": "liquidaras",
+    "3s": "liquidara",
+    "1p": "liquidáramos",
+    "2p": "liquidarais",
+    "3p": "liquidaran"
+  },
+  "PImpC": {
+    "1s": "liquidase",
+    "2s": "liquidases",
+    "3s": "liquidase",
+    "1p": "liquidásemos",
+    "2p": "liquidaseis",
+    "3p": "liquidasen"
+  },
+  "FutSC": {
+    "1s": "liquidare",
+    "2s": "liquidares",
+    "3s": "liquidare",
+    "1p": "liquidáremos",
+    "2p": "liquidareis",
+    "3p": "liquidaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "liquida",
+    "3s": "liquide",
+    "1p": "liquidemos",
+    "2p": "liquidad",
+    "3p": "liquiden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no liquides",
+    "3s": "no liquide",
+    "1p": "no liquidemos",
+    "2p": "no liquidéis",
+    "3p": "no liquiden"
+  },
+  "Part-ter": {
+    "": "liquidado"
+  },
+  "Part-ser": {
+    "ms": "liquidado",
+    "fs": "liquidada",
+    "mp": "liquidados",
+    "fp": "liquidadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "roçar"
+  },
+  "InfP": {
+    "1s": "roçar",
+    "2s": "roçares",
+    "3s": "roçar",
+    "1p": "roçarmos",
+    "2p": "roçardes",
+    "3p": "roçarem"
+  },
+  "Ger": {
+    "": "roçando"
+  },
+  "PresI": {
+    "1s": "roço",
+    "2s": "roças",
+    "3s": "roça",
+    "1p": "roçamos",
+    "2p": "roçais",
+    "3p": "roçam"
+  },
+  "PImpI": {
+    "1s": "roçava",
+    "2s": "roçavas",
+    "3s": "roçava",
+    "1p": "roçávamos",
+    "2p": "roçáveis",
+    "3p": "roçavam"
+  },
+  "PPSI": {
+    "1s": "rocei",
+    "2s": "roçaste",
+    "3s": "roçou",
+    "1p": "roçámos",
+    "2p": "roçastes",
+    "3p": "roçaram"
+  },
+  "PMQPSI": {
+    "1s": "roçara",
+    "2s": "roçaras",
+    "3s": "roçara",
+    "1p": "roçáramos",
+    "2p": "roçáreis",
+    "3p": "roçaram"
+  },
+  "FutSI": {
+    "1s": "roçarei",
+    "2s": "roçarás",
+    "3s": "roçará",
+    "1p": "roçaremos",
+    "2p": "roçareis",
+    "3p": "roçarão"
+  },
+  "CondS": {
+    "1s": "roçaria",
+    "2s": "roçarias",
+    "3s": "roçaria",
+    "1p": "roçaríamos",
+    "2p": "roçaríeis",
+    "3p": "roçariam"
+  },
+  "PresC": {
+    "1s": "roce",
+    "2s": "roces",
+    "3s": "roce",
+    "1p": "rocemos",
+    "2p": "roceis",
+    "3p": "rocem"
+  },
+  "PImpC": {
+    "1s": "roçasse",
+    "2s": "roçasses",
+    "3s": "roçasse",
+    "1p": "roçássemos",
+    "2p": "roçásseis",
+    "3p": "roçassem"
+  },
+  "FutSC": {
+    "1s": "roçar",
+    "2s": "roçares",
+    "3s": "roçar",
+    "1p": "roçarmos",
+    "2p": "roçardes",
+    "3p": "roçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "roça",
+    "3s": "roce",
+    "1p": "rocemos",
+    "2p": "roçai",
+    "3p": "rocem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não roces",
+    "3s": "não roce",
+    "1p": "não rocemos",
+    "2p": "não roceis",
+    "3p": "não rocem"
+  },
+  "Part-ter": {
+    "": "roçado"
+  },
+  "Part-ser": {
+    "ms": "roçado",
+    "fs": "roçada",
+    "mp": "roçados",
+    "fp": "roçadas"
+  }
+}

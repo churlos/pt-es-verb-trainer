@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "invadir"
+  },
+  "InfP": {
+    "1s": "invadir",
+    "2s": "invadires",
+    "3s": "invadir",
+    "1p": "invadirmos",
+    "2p": "invadirdes",
+    "3p": "invadirem"
+  },
+  "Ger": {
+    "": "invadindo"
+  },
+  "PresI": {
+    "1s": "invado",
+    "2s": "invades",
+    "3s": "invade",
+    "1p": "invadimos",
+    "2p": "invadis",
+    "3p": "invadem"
+  },
+  "PImpI": {
+    "1s": "invadia",
+    "2s": "invadias",
+    "3s": "invadia",
+    "1p": "invadíamos",
+    "2p": "invadíeis",
+    "3p": "invadiam"
+  },
+  "PPSI": {
+    "1s": "invadi",
+    "2s": "invadiste",
+    "3s": "invadiu",
+    "1p": "invadimos",
+    "2p": "invadistes",
+    "3p": "invadiram"
+  },
+  "PMQPSI": {
+    "1s": "invadira",
+    "2s": "invadiras",
+    "3s": "invadira",
+    "1p": "invadíramos",
+    "2p": "invadíreis",
+    "3p": "invadiram"
+  },
+  "FutSI": {
+    "1s": "invadirei",
+    "2s": "invadirás",
+    "3s": "invadirá",
+    "1p": "invadiremos",
+    "2p": "invadireis",
+    "3p": "invadirão"
+  },
+  "CondS": {
+    "1s": "invadiria",
+    "2s": "invadirias",
+    "3s": "invadiria",
+    "1p": "invadiríamos",
+    "2p": "invadiríeis",
+    "3p": "invadiriam"
+  },
+  "PresC": {
+    "1s": "invada",
+    "2s": "invadas",
+    "3s": "invada",
+    "1p": "invadamos",
+    "2p": "invadais",
+    "3p": "invadam"
+  },
+  "PImpC": {
+    "1s": "invadisse",
+    "2s": "invadisses",
+    "3s": "invadisse",
+    "1p": "invadíssemos",
+    "2p": "invadísseis",
+    "3p": "invadissem"
+  },
+  "FutSC": {
+    "1s": "invadir",
+    "2s": "invadires",
+    "3s": "invadir",
+    "1p": "invadirmos",
+    "2p": "invadirdes",
+    "3p": "invadirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "invade",
+    "3s": "invada",
+    "1p": "invadamos",
+    "2p": "invadi",
+    "3p": "invadam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não invadas",
+    "3s": "não invada",
+    "1p": "não invadamos",
+    "2p": "não invadais",
+    "3p": "não invadam"
+  },
+  "Part-ter": {
+    "": "invadido"
+  },
+  "Part-ser": {
+    "ms": "invadido",
+    "fs": "invadida",
+    "mp": "invadidos",
+    "fp": "invadidas"
+  }
+}

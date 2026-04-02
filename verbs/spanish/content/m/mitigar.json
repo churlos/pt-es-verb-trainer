@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mitigar"
+  },
+  "Ger": {
+    "": "mitigando"
+  },
+  "PresI": {
+    "1s": "mitigo",
+    "2s": "mitigas",
+    "3s": "mitiga",
+    "1p": "mitigamos",
+    "2p": "mitigáis",
+    "3p": "mitigan"
+  },
+  "PImpI": {
+    "1s": "mitigaba",
+    "2s": "mitigabas",
+    "3s": "mitigaba",
+    "1p": "mitigábamos",
+    "2p": "mitigabais",
+    "3p": "mitigaban"
+  },
+  "PPSI": {
+    "1s": "mitigué",
+    "2s": "mitigaste",
+    "3s": "mitigó",
+    "1p": "mitigamos",
+    "2p": "mitigasteis",
+    "3p": "mitigaron"
+  },
+  "FutSI": {
+    "1s": "mitigaré",
+    "2s": "mitigarás",
+    "3s": "mitigará",
+    "1p": "mitigaremos",
+    "2p": "mitigaréis",
+    "3p": "mitigarán"
+  },
+  "CondS": {
+    "1s": "mitigaría",
+    "2s": "mitigarías",
+    "3s": "mitigaría",
+    "1p": "mitigaríamos",
+    "2p": "mitigaríais",
+    "3p": "mitigarían"
+  },
+  "PresC": {
+    "1s": "mitigue",
+    "2s": "mitigues",
+    "3s": "mitigue",
+    "1p": "mitiguemos",
+    "2p": "mitiguéis",
+    "3p": "mitiguen"
+  },
+  "PMQPSI": {
+    "1s": "mitigara",
+    "2s": "mitigaras",
+    "3s": "mitigara",
+    "1p": "mitigáramos",
+    "2p": "mitigarais",
+    "3p": "mitigaran"
+  },
+  "PImpC": {
+    "1s": "mitigase",
+    "2s": "mitigases",
+    "3s": "mitigase",
+    "1p": "mitigásemos",
+    "2p": "mitigaseis",
+    "3p": "mitigasen"
+  },
+  "FutSC": {
+    "1s": "mitigare",
+    "2s": "mitigares",
+    "3s": "mitigare",
+    "1p": "mitigáremos",
+    "2p": "mitigareis",
+    "3p": "mitigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mitiga",
+    "3s": "mitigue",
+    "1p": "mitiguemos",
+    "2p": "mitigad",
+    "3p": "mitiguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mitigues",
+    "3s": "no mitigue",
+    "1p": "no mitiguemos",
+    "2p": "no mitiguéis",
+    "3p": "no mitiguen"
+  },
+  "Part-ter": {
+    "": "mitigado"
+  },
+  "Part-ser": {
+    "ms": "mitigado",
+    "fs": "mitigada",
+    "mp": "mitigados",
+    "fp": "mitigadas"
+  }
+}

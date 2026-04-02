@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emocionar"
+  },
+  "InfP": {
+    "1s": "emocionar",
+    "2s": "emocionares",
+    "3s": "emocionar",
+    "1p": "emocionarmos",
+    "2p": "emocionardes",
+    "3p": "emocionarem"
+  },
+  "Ger": {
+    "": "emocionando"
+  },
+  "PresI": {
+    "1s": "emociono",
+    "2s": "emocionas",
+    "3s": "emociona",
+    "1p": "emocionamos",
+    "2p": "emocionais",
+    "3p": "emocionam"
+  },
+  "PImpI": {
+    "1s": "emocionava",
+    "2s": "emocionavas",
+    "3s": "emocionava",
+    "1p": "emocionávamos",
+    "2p": "emocionáveis",
+    "3p": "emocionavam"
+  },
+  "PPSI": {
+    "1s": "emocionei",
+    "2s": "emocionaste",
+    "3s": "emocionou",
+    "1p": "emocionámos",
+    "2p": "emocionastes",
+    "3p": "emocionaram"
+  },
+  "PMQPSI": {
+    "1s": "emocionara",
+    "2s": "emocionaras",
+    "3s": "emocionara",
+    "1p": "emocionáramos",
+    "2p": "emocionáreis",
+    "3p": "emocionaram"
+  },
+  "FutSI": {
+    "1s": "emocionarei",
+    "2s": "emocionarás",
+    "3s": "emocionará",
+    "1p": "emocionaremos",
+    "2p": "emocionareis",
+    "3p": "emocionarão"
+  },
+  "CondS": {
+    "1s": "emocionaria",
+    "2s": "emocionarias",
+    "3s": "emocionaria",
+    "1p": "emocionaríamos",
+    "2p": "emocionaríeis",
+    "3p": "emocionariam"
+  },
+  "PresC": {
+    "1s": "emocione",
+    "2s": "emociones",
+    "3s": "emocione",
+    "1p": "emocionemos",
+    "2p": "emocioneis",
+    "3p": "emocionem"
+  },
+  "PImpC": {
+    "1s": "emocionasse",
+    "2s": "emocionasses",
+    "3s": "emocionasse",
+    "1p": "emocionássemos",
+    "2p": "emocionásseis",
+    "3p": "emocionassem"
+  },
+  "FutSC": {
+    "1s": "emocionar",
+    "2s": "emocionares",
+    "3s": "emocionar",
+    "1p": "emocionarmos",
+    "2p": "emocionardes",
+    "3p": "emocionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emociona",
+    "3s": "emocione",
+    "1p": "emocionemos",
+    "2p": "emocionai",
+    "3p": "emocionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emociones",
+    "3s": "não emocione",
+    "1p": "não emocionemos",
+    "2p": "não emocioneis",
+    "3p": "não emocionem"
+  },
+  "Part-ter": {
+    "": "emocionado"
+  },
+  "Part-ser": {
+    "ms": "emocionado",
+    "fs": "emocionada",
+    "mp": "emocionados",
+    "fp": "emocionadas"
+  }
+}

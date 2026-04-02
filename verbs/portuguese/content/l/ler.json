@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ler"
+  },
+  "InfP": {
+    "1s": "ler",
+    "2s": "leres",
+    "3s": "ler",
+    "1p": "lermos",
+    "2p": "lerdes",
+    "3p": "lerem"
+  },
+  "Ger": {
+    "": "lendo"
+  },
+  "PresI": {
+    "1s": "leio",
+    "2s": "lês",
+    "3s": "lê",
+    "1p": "lemos",
+    "2p": "ledes",
+    "3p": "leemObsolete:lêem"
+  },
+  "PImpI": {
+    "1s": "lia",
+    "2s": "lias",
+    "3s": "lia",
+    "1p": "líamos",
+    "2p": "líeis",
+    "3p": "liam"
+  },
+  "PPSI": {
+    "1s": "li",
+    "2s": "leste",
+    "3s": "leu",
+    "1p": "lemos",
+    "2p": "lestes",
+    "3p": "leram"
+  },
+  "PMQPSI": {
+    "1s": "lera",
+    "2s": "leras",
+    "3s": "lera",
+    "1p": "lêramos",
+    "2p": "lêreis",
+    "3p": "leram"
+  },
+  "FutSI": {
+    "1s": "lerei",
+    "2s": "lerás",
+    "3s": "lerá",
+    "1p": "leremos",
+    "2p": "lereis",
+    "3p": "lerão"
+  },
+  "CondS": {
+    "1s": "leria",
+    "2s": "lerias",
+    "3s": "leria",
+    "1p": "leríamos",
+    "2p": "leríeis",
+    "3p": "leriam"
+  },
+  "PresC": {
+    "1s": "leia",
+    "2s": "leias",
+    "3s": "leia",
+    "1p": "leiamos",
+    "2p": "leiais",
+    "3p": "leiam"
+  },
+  "PImpC": {
+    "1s": "lesse",
+    "2s": "lesses",
+    "3s": "lesse",
+    "1p": "lêssemos",
+    "2p": "lêsseis",
+    "3p": "lessem"
+  },
+  "FutSC": {
+    "1s": "ler",
+    "2s": "leres",
+    "3s": "ler",
+    "1p": "lermos",
+    "2p": "lerdes",
+    "3p": "lerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lê",
+    "3s": "leia",
+    "1p": "leiamos",
+    "2p": "lede",
+    "3p": "leiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não leias",
+    "3s": "não leia",
+    "1p": "não leiamos",
+    "2p": "não leiais",
+    "3p": "não leiam"
+  },
+  "Part-ter": {
+    "": "lido"
+  },
+  "Part-ser": {
+    "ms": "lido",
+    "fs": "lida",
+    "mp": "lidos",
+    "fp": "lidas"
+  }
+}

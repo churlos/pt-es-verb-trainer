@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autenticar"
+  },
+  "Ger": {
+    "": "autenticando"
+  },
+  "PresI": {
+    "1s": "autentico",
+    "2s": "autenticas",
+    "3s": "autentica",
+    "1p": "autenticamos",
+    "2p": "autenticáis",
+    "3p": "autentican"
+  },
+  "PImpI": {
+    "1s": "autenticaba",
+    "2s": "autenticabas",
+    "3s": "autenticaba",
+    "1p": "autenticábamos",
+    "2p": "autenticabais",
+    "3p": "autenticaban"
+  },
+  "PPSI": {
+    "1s": "autentiqué",
+    "2s": "autenticaste",
+    "3s": "autenticó",
+    "1p": "autenticamos",
+    "2p": "autenticasteis",
+    "3p": "autenticaron"
+  },
+  "FutSI": {
+    "1s": "autenticaré",
+    "2s": "autenticarás",
+    "3s": "autenticará",
+    "1p": "autenticaremos",
+    "2p": "autenticaréis",
+    "3p": "autenticarán"
+  },
+  "CondS": {
+    "1s": "autenticaría",
+    "2s": "autenticarías",
+    "3s": "autenticaría",
+    "1p": "autenticaríamos",
+    "2p": "autenticaríais",
+    "3p": "autenticarían"
+  },
+  "PresC": {
+    "1s": "autentique",
+    "2s": "autentiques",
+    "3s": "autentique",
+    "1p": "autentiquemos",
+    "2p": "autentiquéis",
+    "3p": "autentiquen"
+  },
+  "PMQPSI": {
+    "1s": "autenticara",
+    "2s": "autenticaras",
+    "3s": "autenticara",
+    "1p": "autenticáramos",
+    "2p": "autenticarais",
+    "3p": "autenticaran"
+  },
+  "PImpC": {
+    "1s": "autenticase",
+    "2s": "autenticases",
+    "3s": "autenticase",
+    "1p": "autenticásemos",
+    "2p": "autenticaseis",
+    "3p": "autenticasen"
+  },
+  "FutSC": {
+    "1s": "autenticare",
+    "2s": "autenticares",
+    "3s": "autenticare",
+    "1p": "autenticáremos",
+    "2p": "autenticareis",
+    "3p": "autenticaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autentica",
+    "3s": "autentique",
+    "1p": "autentiquemos",
+    "2p": "autenticad",
+    "3p": "autentiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autentiques",
+    "3s": "no autentique",
+    "1p": "no autentiquemos",
+    "2p": "no autentiquéis",
+    "3p": "no autentiquen"
+  },
+  "Part-ter": {
+    "": "autenticado"
+  },
+  "Part-ser": {
+    "ms": "autenticado",
+    "fs": "autenticada",
+    "mp": "autenticados",
+    "fp": "autenticadas"
+  }
+}

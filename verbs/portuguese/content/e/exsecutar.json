@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exsecutar"
+  },
+  "InfP": {
+    "1s": "exsecutar",
+    "2s": "exsecutares",
+    "3s": "exsecutar",
+    "1p": "exsecutarmos",
+    "2p": "exsecutardes",
+    "3p": "exsecutarem"
+  },
+  "Ger": {
+    "": "exsecutando"
+  },
+  "PresI": {
+    "1s": "exsecuto",
+    "2s": "exsecutas",
+    "3s": "exsecuta",
+    "1p": "exsecutamos",
+    "2p": "exsecutais",
+    "3p": "exsecutam"
+  },
+  "PImpI": {
+    "1s": "exsecutava",
+    "2s": "exsecutavas",
+    "3s": "exsecutava",
+    "1p": "exsecutávamos",
+    "2p": "exsecutáveis",
+    "3p": "exsecutavam"
+  },
+  "PPSI": {
+    "1s": "exsecutei",
+    "2s": "exsecutaste",
+    "3s": "exsecutou",
+    "1p": "exsecutámos",
+    "2p": "exsecutastes",
+    "3p": "exsecutaram"
+  },
+  "PMQPSI": {
+    "1s": "exsecutara",
+    "2s": "exsecutaras",
+    "3s": "exsecutara",
+    "1p": "exsecutáramos",
+    "2p": "exsecutáreis",
+    "3p": "exsecutaram"
+  },
+  "FutSI": {
+    "1s": "exsecutarei",
+    "2s": "exsecutarás",
+    "3s": "exsecutará",
+    "1p": "exsecutaremos",
+    "2p": "exsecutareis",
+    "3p": "exsecutarão"
+  },
+  "CondS": {
+    "1s": "exsecutaria",
+    "2s": "exsecutarias",
+    "3s": "exsecutaria",
+    "1p": "exsecutaríamos",
+    "2p": "exsecutaríeis",
+    "3p": "exsecutariam"
+  },
+  "PresC": {
+    "1s": "exsecute",
+    "2s": "exsecutes",
+    "3s": "exsecute",
+    "1p": "exsecutemos",
+    "2p": "exsecuteis",
+    "3p": "exsecutem"
+  },
+  "PImpC": {
+    "1s": "exsecutasse",
+    "2s": "exsecutasses",
+    "3s": "exsecutasse",
+    "1p": "exsecutássemos",
+    "2p": "exsecutásseis",
+    "3p": "exsecutassem"
+  },
+  "FutSC": {
+    "1s": "exsecutar",
+    "2s": "exsecutares",
+    "3s": "exsecutar",
+    "1p": "exsecutarmos",
+    "2p": "exsecutardes",
+    "3p": "exsecutarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exsecuta",
+    "3s": "exsecute",
+    "1p": "exsecutemos",
+    "2p": "exsecutai",
+    "3p": "exsecutem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exsecutes",
+    "3s": "não exsecute",
+    "1p": "não exsecutemos",
+    "2p": "não exsecuteis",
+    "3p": "não exsecutem"
+  },
+  "Part-ter": {
+    "": "exsecutado"
+  },
+  "Part-ser": {
+    "ms": "exsecutado",
+    "fs": "exsecutada",
+    "mp": "exsecutados",
+    "fp": "exsecutadas"
+  }
+}

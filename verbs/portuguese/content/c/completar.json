@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "completar"
+  },
+  "InfP": {
+    "1s": "completar",
+    "2s": "completares",
+    "3s": "completar",
+    "1p": "completarmos",
+    "2p": "completardes",
+    "3p": "completarem"
+  },
+  "Ger": {
+    "": "completando"
+  },
+  "PresI": {
+    "1s": "completo",
+    "2s": "completas",
+    "3s": "completa",
+    "1p": "completamos",
+    "2p": "completais",
+    "3p": "completam"
+  },
+  "PImpI": {
+    "1s": "completava",
+    "2s": "completavas",
+    "3s": "completava",
+    "1p": "completávamos",
+    "2p": "completáveis",
+    "3p": "completavam"
+  },
+  "PPSI": {
+    "1s": "completei",
+    "2s": "completaste",
+    "3s": "completou",
+    "1p": "completámos",
+    "2p": "completastes",
+    "3p": "completaram"
+  },
+  "PMQPSI": {
+    "1s": "completara",
+    "2s": "completaras",
+    "3s": "completara",
+    "1p": "completáramos",
+    "2p": "completáreis",
+    "3p": "completaram"
+  },
+  "FutSI": {
+    "1s": "completarei",
+    "2s": "completarás",
+    "3s": "completará",
+    "1p": "completaremos",
+    "2p": "completareis",
+    "3p": "completarão"
+  },
+  "CondS": {
+    "1s": "completaria",
+    "2s": "completarias",
+    "3s": "completaria",
+    "1p": "completaríamos",
+    "2p": "completaríeis",
+    "3p": "completariam"
+  },
+  "PresC": {
+    "1s": "complete",
+    "2s": "completes",
+    "3s": "complete",
+    "1p": "completemos",
+    "2p": "completeis",
+    "3p": "completem"
+  },
+  "PImpC": {
+    "1s": "completasse",
+    "2s": "completasses",
+    "3s": "completasse",
+    "1p": "completássemos",
+    "2p": "completásseis",
+    "3p": "completassem"
+  },
+  "FutSC": {
+    "1s": "completar",
+    "2s": "completares",
+    "3s": "completar",
+    "1p": "completarmos",
+    "2p": "completardes",
+    "3p": "completarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "completa",
+    "3s": "complete",
+    "1p": "completemos",
+    "2p": "completai",
+    "3p": "completem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não completes",
+    "3s": "não complete",
+    "1p": "não completemos",
+    "2p": "não completeis",
+    "3p": "não completem"
+  },
+  "Part-ter": {
+    "": "completado"
+  },
+  "Part-ser": {
+    "ms": "completo",
+    "fs": "completa",
+    "mp": "completos",
+    "fp": "completas"
+  }
+}

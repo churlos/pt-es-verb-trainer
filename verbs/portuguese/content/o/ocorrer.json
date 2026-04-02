@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ocorrer"
+  },
+  "InfP": {
+    "1s": "ocorrer",
+    "2s": "ocorreres",
+    "3s": "ocorrer",
+    "1p": "ocorrermos",
+    "2p": "ocorrerdes",
+    "3p": "ocorrerem"
+  },
+  "Ger": {
+    "": "ocorrendo"
+  },
+  "PresI": {
+    "1s": "ocorro",
+    "2s": "ocorres",
+    "3s": "ocorre",
+    "1p": "ocorremos",
+    "2p": "ocorreis",
+    "3p": "ocorrem"
+  },
+  "PImpI": {
+    "1s": "ocorria",
+    "2s": "ocorrias",
+    "3s": "ocorria",
+    "1p": "ocorríamos",
+    "2p": "ocorríeis",
+    "3p": "ocorriam"
+  },
+  "PPSI": {
+    "1s": "ocorri",
+    "2s": "ocorreste",
+    "3s": "ocorreu",
+    "1p": "ocorremos",
+    "2p": "ocorrestes",
+    "3p": "ocorreram"
+  },
+  "PMQPSI": {
+    "1s": "ocorrera",
+    "2s": "ocorreras",
+    "3s": "ocorrera",
+    "1p": "ocorrêramos",
+    "2p": "ocorrêreis",
+    "3p": "ocorreram"
+  },
+  "FutSI": {
+    "1s": "ocorrerei",
+    "2s": "ocorrerás",
+    "3s": "ocorrerá",
+    "1p": "ocorreremos",
+    "2p": "ocorrereis",
+    "3p": "ocorrerão"
+  },
+  "CondS": {
+    "1s": "ocorreria",
+    "2s": "ocorrerias",
+    "3s": "ocorreria",
+    "1p": "ocorreríamos",
+    "2p": "ocorreríeis",
+    "3p": "ocorreriam"
+  },
+  "PresC": {
+    "1s": "ocorra",
+    "2s": "ocorras",
+    "3s": "ocorra",
+    "1p": "ocorramos",
+    "2p": "ocorrais",
+    "3p": "ocorram"
+  },
+  "PImpC": {
+    "1s": "ocorresse",
+    "2s": "ocorresses",
+    "3s": "ocorresse",
+    "1p": "ocorrêssemos",
+    "2p": "ocorrêsseis",
+    "3p": "ocorressem"
+  },
+  "FutSC": {
+    "1s": "ocorrer",
+    "2s": "ocorreres",
+    "3s": "ocorrer",
+    "1p": "ocorrermos",
+    "2p": "ocorrerdes",
+    "3p": "ocorrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ocorre",
+    "3s": "ocorra",
+    "1p": "ocorramos",
+    "2p": "ocorrei",
+    "3p": "ocorram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ocorras",
+    "3s": "não ocorra",
+    "1p": "não ocorramos",
+    "2p": "não ocorrais",
+    "3p": "não ocorram"
+  },
+  "Part-ter": {
+    "": "ocorrido"
+  },
+  "Part-ser": {
+    "ms": "ocorrido",
+    "fs": "ocorrida",
+    "mp": "ocorridos",
+    "fp": "ocorridas"
+  }
+}

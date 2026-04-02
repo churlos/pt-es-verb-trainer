@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "convocar"
+  },
+  "Ger": {
+    "": "convocando"
+  },
+  "PresI": {
+    "1s": "convoco",
+    "2s": "convocas",
+    "3s": "convoca",
+    "1p": "convocamos",
+    "2p": "convocáis",
+    "3p": "convocan"
+  },
+  "PImpI": {
+    "1s": "convocaba",
+    "2s": "convocabas",
+    "3s": "convocaba",
+    "1p": "convocábamos",
+    "2p": "convocabais",
+    "3p": "convocaban"
+  },
+  "PPSI": {
+    "1s": "convoqué",
+    "2s": "convocaste",
+    "3s": "convocó",
+    "1p": "convocamos",
+    "2p": "convocasteis",
+    "3p": "convocaron"
+  },
+  "FutSI": {
+    "1s": "convocaré",
+    "2s": "convocarás",
+    "3s": "convocará",
+    "1p": "convocaremos",
+    "2p": "convocaréis",
+    "3p": "convocarán"
+  },
+  "CondS": {
+    "1s": "convocaría",
+    "2s": "convocarías",
+    "3s": "convocaría",
+    "1p": "convocaríamos",
+    "2p": "convocaríais",
+    "3p": "convocarían"
+  },
+  "PresC": {
+    "1s": "convoque",
+    "2s": "convoques",
+    "3s": "convoque",
+    "1p": "convoquemos",
+    "2p": "convoquéis",
+    "3p": "convoquen"
+  },
+  "PMQPSI": {
+    "1s": "convocara",
+    "2s": "convocaras",
+    "3s": "convocara",
+    "1p": "convocáramos",
+    "2p": "convocarais",
+    "3p": "convocaran"
+  },
+  "PImpC": {
+    "1s": "convocase",
+    "2s": "convocases",
+    "3s": "convocase",
+    "1p": "convocásemos",
+    "2p": "convocaseis",
+    "3p": "convocasen"
+  },
+  "FutSC": {
+    "1s": "convocare",
+    "2s": "convocares",
+    "3s": "convocare",
+    "1p": "convocáremos",
+    "2p": "convocareis",
+    "3p": "convocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "convoca",
+    "3s": "convoque",
+    "1p": "convoquemos",
+    "2p": "convocad",
+    "3p": "convoquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no convoques",
+    "3s": "no convoque",
+    "1p": "no convoquemos",
+    "2p": "no convoquéis",
+    "3p": "no convoquen"
+  },
+  "Part-ter": {
+    "": "convocado"
+  },
+  "Part-ser": {
+    "ms": "convocado",
+    "fs": "convocada",
+    "mp": "convocados",
+    "fp": "convocadas"
+  }
+}

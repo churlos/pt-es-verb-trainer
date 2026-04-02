@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "insertar"
+  },
+  "Ger": {
+    "": "insertando"
+  },
+  "PresI": {
+    "1s": "inserto",
+    "2s": "insertas",
+    "3s": "inserta",
+    "1p": "insertamos",
+    "2p": "insertáis",
+    "3p": "insertan"
+  },
+  "PImpI": {
+    "1s": "insertaba",
+    "2s": "insertabas",
+    "3s": "insertaba",
+    "1p": "insertábamos",
+    "2p": "insertabais",
+    "3p": "insertaban"
+  },
+  "PPSI": {
+    "1s": "inserté",
+    "2s": "insertaste",
+    "3s": "insertó",
+    "1p": "insertamos",
+    "2p": "insertasteis",
+    "3p": "insertaron"
+  },
+  "FutSI": {
+    "1s": "insertaré",
+    "2s": "insertarás",
+    "3s": "insertará",
+    "1p": "insertaremos",
+    "2p": "insertaréis",
+    "3p": "insertarán"
+  },
+  "CondS": {
+    "1s": "insertaría",
+    "2s": "insertarías",
+    "3s": "insertaría",
+    "1p": "insertaríamos",
+    "2p": "insertaríais",
+    "3p": "insertarían"
+  },
+  "PresC": {
+    "1s": "inserte",
+    "2s": "insertes",
+    "3s": "inserte",
+    "1p": "insertemos",
+    "2p": "insertéis",
+    "3p": "inserten"
+  },
+  "PMQPSI": {
+    "1s": "insertara",
+    "2s": "insertaras",
+    "3s": "insertara",
+    "1p": "insertáramos",
+    "2p": "insertarais",
+    "3p": "insertaran"
+  },
+  "PImpC": {
+    "1s": "insertase",
+    "2s": "insertases",
+    "3s": "insertase",
+    "1p": "insertásemos",
+    "2p": "insertaseis",
+    "3p": "insertasen"
+  },
+  "FutSC": {
+    "1s": "insertare",
+    "2s": "insertares",
+    "3s": "insertare",
+    "1p": "insertáremos",
+    "2p": "insertareis",
+    "3p": "insertaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inserta",
+    "3s": "inserte",
+    "1p": "insertemos",
+    "2p": "insertad",
+    "3p": "inserten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no insertes",
+    "3s": "no inserte",
+    "1p": "no insertemos",
+    "2p": "no insertéis",
+    "3p": "no inserten"
+  },
+  "Part-ter": {
+    "": "insertado"
+  },
+  "Part-ser": {
+    "ms": "insertado",
+    "fs": "insertada",
+    "mp": "insertados",
+    "fp": "insertadas"
+  }
+}

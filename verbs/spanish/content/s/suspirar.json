@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suspirar"
+  },
+  "Ger": {
+    "": "suspirando"
+  },
+  "PresI": {
+    "1s": "suspiro",
+    "2s": "suspiras",
+    "3s": "suspira",
+    "1p": "suspiramos",
+    "2p": "suspiráis",
+    "3p": "suspiran"
+  },
+  "PImpI": {
+    "1s": "suspiraba",
+    "2s": "suspirabas",
+    "3s": "suspiraba",
+    "1p": "suspirábamos",
+    "2p": "suspirabais",
+    "3p": "suspiraban"
+  },
+  "PPSI": {
+    "1s": "suspiré",
+    "2s": "suspiraste",
+    "3s": "suspiró",
+    "1p": "suspiramos",
+    "2p": "suspirasteis",
+    "3p": "suspiraron"
+  },
+  "FutSI": {
+    "1s": "suspiraré",
+    "2s": "suspirarás",
+    "3s": "suspirará",
+    "1p": "suspiraremos",
+    "2p": "suspiraréis",
+    "3p": "suspirarán"
+  },
+  "CondS": {
+    "1s": "suspiraría",
+    "2s": "suspirarías",
+    "3s": "suspiraría",
+    "1p": "suspiraríamos",
+    "2p": "suspiraríais",
+    "3p": "suspirarían"
+  },
+  "PresC": {
+    "1s": "suspire",
+    "2s": "suspires",
+    "3s": "suspire",
+    "1p": "suspiremos",
+    "2p": "suspiréis",
+    "3p": "suspiren"
+  },
+  "PMQPSI": {
+    "1s": "suspirara",
+    "2s": "suspiraras",
+    "3s": "suspirara",
+    "1p": "suspiráramos",
+    "2p": "suspirarais",
+    "3p": "suspiraran"
+  },
+  "PImpC": {
+    "1s": "suspirase",
+    "2s": "suspirases",
+    "3s": "suspirase",
+    "1p": "suspirásemos",
+    "2p": "suspiraseis",
+    "3p": "suspirasen"
+  },
+  "FutSC": {
+    "1s": "suspirare",
+    "2s": "suspirares",
+    "3s": "suspirare",
+    "1p": "suspiráremos",
+    "2p": "suspirareis",
+    "3p": "suspiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suspira",
+    "3s": "suspire",
+    "1p": "suspiremos",
+    "2p": "suspirad",
+    "3p": "suspiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no suspires",
+    "3s": "no suspire",
+    "1p": "no suspiremos",
+    "2p": "no suspiréis",
+    "3p": "no suspiren"
+  },
+  "Part-ter": {
+    "": "suspirado"
+  },
+  "Part-ser": {
+    "ms": "suspirado",
+    "fs": "suspirada",
+    "mp": "suspirados",
+    "fp": "suspiradas"
+  }
+}

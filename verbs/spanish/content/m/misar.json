@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "misar"
+  },
+  "Ger": {
+    "": "misando"
+  },
+  "PresI": {
+    "1s": "miso",
+    "2s": "misas",
+    "3s": "misa",
+    "1p": "misamos",
+    "2p": "misáis",
+    "3p": "misan"
+  },
+  "PImpI": {
+    "1s": "misaba",
+    "2s": "misabas",
+    "3s": "misaba",
+    "1p": "misábamos",
+    "2p": "misabais",
+    "3p": "misaban"
+  },
+  "PPSI": {
+    "1s": "misé",
+    "2s": "misaste",
+    "3s": "misó",
+    "1p": "misamos",
+    "2p": "misasteis",
+    "3p": "misaron"
+  },
+  "FutSI": {
+    "1s": "misaré",
+    "2s": "misarás",
+    "3s": "misará",
+    "1p": "misaremos",
+    "2p": "misaréis",
+    "3p": "misarán"
+  },
+  "CondS": {
+    "1s": "misaría",
+    "2s": "misarías",
+    "3s": "misaría",
+    "1p": "misaríamos",
+    "2p": "misaríais",
+    "3p": "misarían"
+  },
+  "PresC": {
+    "1s": "mise",
+    "2s": "mises",
+    "3s": "mise",
+    "1p": "misemos",
+    "2p": "miséis",
+    "3p": "misen"
+  },
+  "PMQPSI": {
+    "1s": "misara",
+    "2s": "misaras",
+    "3s": "misara",
+    "1p": "misáramos",
+    "2p": "misarais",
+    "3p": "misaran"
+  },
+  "PImpC": {
+    "1s": "misase",
+    "2s": "misases",
+    "3s": "misase",
+    "1p": "misásemos",
+    "2p": "misaseis",
+    "3p": "misasen"
+  },
+  "FutSC": {
+    "1s": "misare",
+    "2s": "misares",
+    "3s": "misare",
+    "1p": "misáremos",
+    "2p": "misareis",
+    "3p": "misaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "misa",
+    "3s": "mise",
+    "1p": "misemos",
+    "2p": "misad",
+    "3p": "misen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mises",
+    "3s": "no mise",
+    "1p": "no misemos",
+    "2p": "no miséis",
+    "3p": "no misen"
+  },
+  "Part-ter": {
+    "": "misado"
+  },
+  "Part-ser": {
+    "ms": "misado",
+    "fs": "misada",
+    "mp": "misados",
+    "fp": "misadas"
+  }
+}

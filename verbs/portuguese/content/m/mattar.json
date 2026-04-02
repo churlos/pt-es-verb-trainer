@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mattar"
+  },
+  "InfP": {
+    "1s": "mattar",
+    "2s": "mattares",
+    "3s": "mattar",
+    "1p": "mattarmos",
+    "2p": "mattardes",
+    "3p": "mattarem"
+  },
+  "Ger": {
+    "": "mattando"
+  },
+  "PresI": {
+    "1s": "matto",
+    "2s": "mattas",
+    "3s": "matta",
+    "1p": "mattamos",
+    "2p": "mattais",
+    "3p": "mattam"
+  },
+  "PImpI": {
+    "1s": "mattava",
+    "2s": "mattavas",
+    "3s": "mattava",
+    "1p": "mattávamos",
+    "2p": "mattáveis",
+    "3p": "mattavam"
+  },
+  "PPSI": {
+    "1s": "mattei",
+    "2s": "mattaste",
+    "3s": "mattou",
+    "1p": "mattámos",
+    "2p": "mattastes",
+    "3p": "mattaram"
+  },
+  "PMQPSI": {
+    "1s": "mattara",
+    "2s": "mattaras",
+    "3s": "mattara",
+    "1p": "mattáramos",
+    "2p": "mattáreis",
+    "3p": "mattaram"
+  },
+  "FutSI": {
+    "1s": "mattarei",
+    "2s": "mattarás",
+    "3s": "mattará",
+    "1p": "mattaremos",
+    "2p": "mattareis",
+    "3p": "mattarão"
+  },
+  "CondS": {
+    "1s": "mattaria",
+    "2s": "mattarias",
+    "3s": "mattaria",
+    "1p": "mattaríamos",
+    "2p": "mattaríeis",
+    "3p": "mattariam"
+  },
+  "PresC": {
+    "1s": "matte",
+    "2s": "mattes",
+    "3s": "matte",
+    "1p": "mattemos",
+    "2p": "matteis",
+    "3p": "mattem"
+  },
+  "PImpC": {
+    "1s": "mattasse",
+    "2s": "mattasses",
+    "3s": "mattasse",
+    "1p": "mattássemos",
+    "2p": "mattásseis",
+    "3p": "mattassem"
+  },
+  "FutSC": {
+    "1s": "mattar",
+    "2s": "mattares",
+    "3s": "mattar",
+    "1p": "mattarmos",
+    "2p": "mattardes",
+    "3p": "mattarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "matta",
+    "3s": "matte",
+    "1p": "mattemos",
+    "2p": "mattai",
+    "3p": "mattem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mattes",
+    "3s": "não matte",
+    "1p": "não mattemos",
+    "2p": "não matteis",
+    "3p": "não mattem"
+  },
+  "Part-ter": {
+    "": "mattado"
+  },
+  "Part-ser": {
+    "ms": "mattado",
+    "fs": "mattada",
+    "mp": "mattados",
+    "fp": "mattadas"
+  }
+}

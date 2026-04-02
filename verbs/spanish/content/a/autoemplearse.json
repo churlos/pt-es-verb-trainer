@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoemplear"
+  },
+  "Ger": {
+    "": "autoempleando"
+  },
+  "PresI": {
+    "1s": "autoempleo",
+    "2s": "autoempleas",
+    "3s": "autoemplea",
+    "1p": "autoempleamos",
+    "2p": "autoempleáis",
+    "3p": "autoemplean"
+  },
+  "PImpI": {
+    "1s": "autoempleaba",
+    "2s": "autoempleabas",
+    "3s": "autoempleaba",
+    "1p": "autoempleábamos",
+    "2p": "autoempleabais",
+    "3p": "autoempleaban"
+  },
+  "PPSI": {
+    "1s": "autoempleé",
+    "2s": "autoempleaste",
+    "3s": "autoempleó",
+    "1p": "autoempleamos",
+    "2p": "autoempleasteis",
+    "3p": "autoemplearon"
+  },
+  "FutSI": {
+    "1s": "autoemplearé",
+    "2s": "autoemplearás",
+    "3s": "autoempleará",
+    "1p": "autoemplearemos",
+    "2p": "autoemplearéis",
+    "3p": "autoemplearán"
+  },
+  "CondS": {
+    "1s": "autoemplearía",
+    "2s": "autoemplearías",
+    "3s": "autoemplearía",
+    "1p": "autoemplearíamos",
+    "2p": "autoemplearíais",
+    "3p": "autoemplearían"
+  },
+  "PresC": {
+    "1s": "autoemplee",
+    "2s": "autoemplees",
+    "3s": "autoemplee",
+    "1p": "autoempleemos",
+    "2p": "autoempleéis",
+    "3p": "autoempleen"
+  },
+  "PMQPSI": {
+    "1s": "autoempleara",
+    "2s": "autoemplearas",
+    "3s": "autoempleara",
+    "1p": "autoempleáramos",
+    "2p": "autoemplearais",
+    "3p": "autoemplearan"
+  },
+  "PImpC": {
+    "1s": "autoemplease",
+    "2s": "autoempleases",
+    "3s": "autoemplease",
+    "1p": "autoempleásemos",
+    "2p": "autoempleaseis",
+    "3p": "autoempleasen"
+  },
+  "FutSC": {
+    "1s": "autoempleare",
+    "2s": "autoempleares",
+    "3s": "autoempleare",
+    "1p": "autoempleáremos",
+    "2p": "autoempleareis",
+    "3p": "autoemplearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoemplea",
+    "3s": "autoemplee",
+    "1p": "autoempleemos",
+    "2p": "autoemplead",
+    "3p": "autoempleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autoemplees",
+    "3s": "no autoemplee",
+    "1p": "no autoempleemos",
+    "2p": "no autoempleéis",
+    "3p": "no autoempleen"
+  },
+  "Part-ter": {
+    "": "autoempleado"
+  },
+  "Part-ser": {
+    "ms": "autoempleado",
+    "fs": "autoempleada",
+    "mp": "autoempleados",
+    "fp": "autoempleadas"
+  }
+}

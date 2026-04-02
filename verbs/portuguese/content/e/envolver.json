@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "envolver"
+  },
+  "InfP": {
+    "1s": "envolver",
+    "2s": "envolveres",
+    "3s": "envolver",
+    "1p": "envolvermos",
+    "2p": "envolverdes",
+    "3p": "envolverem"
+  },
+  "Ger": {
+    "": "envolvendo"
+  },
+  "PresI": {
+    "1s": "envolvo",
+    "2s": "envolves",
+    "3s": "envolve",
+    "1p": "envolvemos",
+    "2p": "envolveis",
+    "3p": "envolvem"
+  },
+  "PImpI": {
+    "1s": "envolvia",
+    "2s": "envolvias",
+    "3s": "envolvia",
+    "1p": "envolvíamos",
+    "2p": "envolvíeis",
+    "3p": "envolviam"
+  },
+  "PPSI": {
+    "1s": "envolvi",
+    "2s": "envolveste",
+    "3s": "envolveu",
+    "1p": "envolvemos",
+    "2p": "envolvestes",
+    "3p": "envolveram"
+  },
+  "PMQPSI": {
+    "1s": "envolvera",
+    "2s": "envolveras",
+    "3s": "envolvera",
+    "1p": "envolvêramos",
+    "2p": "envolvêreis",
+    "3p": "envolveram"
+  },
+  "FutSI": {
+    "1s": "envolverei",
+    "2s": "envolverás",
+    "3s": "envolverá",
+    "1p": "envolveremos",
+    "2p": "envolvereis",
+    "3p": "envolverão"
+  },
+  "CondS": {
+    "1s": "envolveria",
+    "2s": "envolverias",
+    "3s": "envolveria",
+    "1p": "envolveríamos",
+    "2p": "envolveríeis",
+    "3p": "envolveriam"
+  },
+  "PresC": {
+    "1s": "envolva",
+    "2s": "envolvas",
+    "3s": "envolva",
+    "1p": "envolvamos",
+    "2p": "envolvais",
+    "3p": "envolvam"
+  },
+  "PImpC": {
+    "1s": "envolvesse",
+    "2s": "envolvesses",
+    "3s": "envolvesse",
+    "1p": "envolvêssemos",
+    "2p": "envolvêsseis",
+    "3p": "envolvessem"
+  },
+  "FutSC": {
+    "1s": "envolver",
+    "2s": "envolveres",
+    "3s": "envolver",
+    "1p": "envolvermos",
+    "2p": "envolverdes",
+    "3p": "envolverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envolve",
+    "3s": "envolva",
+    "1p": "envolvamos",
+    "2p": "envolvei",
+    "3p": "envolvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não envolvas",
+    "3s": "não envolva",
+    "1p": "não envolvamos",
+    "2p": "não envolvais",
+    "3p": "não envolvam"
+  },
+  "Part-ter": {
+    "": "envolvido"
+  },
+  "Part-ser": {
+    "ms": "envolvido",
+    "fs": "envolvida",
+    "mp": "envolvidos",
+    "fp": "envolvidas"
+  }
+}

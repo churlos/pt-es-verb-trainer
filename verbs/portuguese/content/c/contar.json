@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "contar"
+  },
+  "InfP": {
+    "1s": "contar",
+    "2s": "contares",
+    "3s": "contar",
+    "1p": "contarmos",
+    "2p": "contardes",
+    "3p": "contarem"
+  },
+  "Ger": {
+    "": "contando"
+  },
+  "PresI": {
+    "1s": "conto",
+    "2s": "contas",
+    "3s": "conta",
+    "1p": "contamos",
+    "2p": "contais",
+    "3p": "contam"
+  },
+  "PImpI": {
+    "1s": "contava",
+    "2s": "contavas",
+    "3s": "contava",
+    "1p": "contávamos",
+    "2p": "contáveis",
+    "3p": "contavam"
+  },
+  "PPSI": {
+    "1s": "contei",
+    "2s": "contaste",
+    "3s": "contou",
+    "1p": "contámos",
+    "2p": "contastes",
+    "3p": "contaram"
+  },
+  "PMQPSI": {
+    "1s": "contara",
+    "2s": "contaras",
+    "3s": "contara",
+    "1p": "contáramos",
+    "2p": "contáreis",
+    "3p": "contaram"
+  },
+  "FutSI": {
+    "1s": "contarei",
+    "2s": "contarás",
+    "3s": "contará",
+    "1p": "contaremos",
+    "2p": "contareis",
+    "3p": "contarão"
+  },
+  "CondS": {
+    "1s": "contaria",
+    "2s": "contarias",
+    "3s": "contaria",
+    "1p": "contaríamos",
+    "2p": "contaríeis",
+    "3p": "contariam"
+  },
+  "PresC": {
+    "1s": "conte",
+    "2s": "contes",
+    "3s": "conte",
+    "1p": "contemos",
+    "2p": "conteis",
+    "3p": "contem"
+  },
+  "PImpC": {
+    "1s": "contasse",
+    "2s": "contasses",
+    "3s": "contasse",
+    "1p": "contássemos",
+    "2p": "contásseis",
+    "3p": "contassem"
+  },
+  "FutSC": {
+    "1s": "contar",
+    "2s": "contares",
+    "3s": "contar",
+    "1p": "contarmos",
+    "2p": "contardes",
+    "3p": "contarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conta",
+    "3s": "conte",
+    "1p": "contemos",
+    "2p": "contai",
+    "3p": "contem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contes",
+    "3s": "não conte",
+    "1p": "não contemos",
+    "2p": "não conteis",
+    "3p": "não contem"
+  },
+  "Part-ter": {
+    "": "contado"
+  },
+  "Part-ser": {
+    "ms": "contado",
+    "fs": "contada",
+    "mp": "contados",
+    "fp": "contadas"
+  }
+}

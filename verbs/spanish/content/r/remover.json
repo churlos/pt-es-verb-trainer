@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "remover"
+  },
+  "Ger": {
+    "": "removiendo"
+  },
+  "PresI": {
+    "1s": "remuevo",
+    "2s": "remueves",
+    "3s": "remueve",
+    "1p": "removemos",
+    "2p": "removéis",
+    "3p": "remueven"
+  },
+  "PImpI": {
+    "1s": "removía",
+    "2s": "removías",
+    "3s": "removía",
+    "1p": "removíamos",
+    "2p": "removíais",
+    "3p": "removían"
+  },
+  "PPSI": {
+    "1s": "removí",
+    "2s": "removiste",
+    "3s": "removió",
+    "1p": "removimos",
+    "2p": "removisteis",
+    "3p": "removieron"
+  },
+  "FutSI": {
+    "1s": "removeré",
+    "2s": "removerás",
+    "3s": "removerá",
+    "1p": "removeremos",
+    "2p": "removeréis",
+    "3p": "removerán"
+  },
+  "CondS": {
+    "1s": "removería",
+    "2s": "removerías",
+    "3s": "removería",
+    "1p": "removeríamos",
+    "2p": "removeríais",
+    "3p": "removerían"
+  },
+  "PresC": {
+    "1s": "remueva",
+    "2s": "remuevas",
+    "3s": "remueva",
+    "1p": "removamos",
+    "2p": "remováis",
+    "3p": "remuevan"
+  },
+  "PMQPSI": {
+    "1s": "removiera",
+    "2s": "removieras",
+    "3s": "removiera",
+    "1p": "removiéramos",
+    "2p": "removierais",
+    "3p": "removieran"
+  },
+  "PImpC": {
+    "1s": "removiese",
+    "2s": "removieses",
+    "3s": "removiese",
+    "1p": "removiésemos",
+    "2p": "removieseis",
+    "3p": "removiesen"
+  },
+  "FutSC": {
+    "1s": "removiere",
+    "2s": "removieres",
+    "3s": "removiere",
+    "1p": "removiéremos",
+    "2p": "removiereis",
+    "3p": "removieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "remueve",
+    "3s": "remueva",
+    "1p": "removamos",
+    "2p": "removed",
+    "3p": "remuevan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no remuevas",
+    "3s": "no remueva",
+    "1p": "no removamos",
+    "2p": "no remováis",
+    "3p": "no remuevan"
+  },
+  "Part-ter": {
+    "": "removido"
+  },
+  "Part-ser": {
+    "ms": "removido",
+    "fs": "removida",
+    "mp": "removidos",
+    "fp": "removidas"
+  }
+}

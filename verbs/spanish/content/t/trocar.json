@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trocar"
+  },
+  "Ger": {
+    "": "trocando"
+  },
+  "PresI": {
+    "1s": "trueco",
+    "2s": "truecas",
+    "3s": "trueca",
+    "1p": "trocamos",
+    "2p": "trocáis",
+    "3p": "truecan"
+  },
+  "PImpI": {
+    "1s": "trocaba",
+    "2s": "trocabas",
+    "3s": "trocaba",
+    "1p": "trocábamos",
+    "2p": "trocabais",
+    "3p": "trocaban"
+  },
+  "PPSI": {
+    "1s": "troqué",
+    "2s": "trocaste",
+    "3s": "trocó",
+    "1p": "trocamos",
+    "2p": "trocasteis",
+    "3p": "trocaron"
+  },
+  "FutSI": {
+    "1s": "trocaré",
+    "2s": "trocarás",
+    "3s": "trocará",
+    "1p": "trocaremos",
+    "2p": "trocaréis",
+    "3p": "trocarán"
+  },
+  "CondS": {
+    "1s": "trocaría",
+    "2s": "trocarías",
+    "3s": "trocaría",
+    "1p": "trocaríamos",
+    "2p": "trocaríais",
+    "3p": "trocarían"
+  },
+  "PresC": {
+    "1s": "trueque",
+    "2s": "trueques",
+    "3s": "trueque",
+    "1p": "troquemos",
+    "2p": "troquéis",
+    "3p": "truequen"
+  },
+  "PMQPSI": {
+    "1s": "trocara",
+    "2s": "trocaras",
+    "3s": "trocara",
+    "1p": "trocáramos",
+    "2p": "trocarais",
+    "3p": "trocaran"
+  },
+  "PImpC": {
+    "1s": "trocase",
+    "2s": "trocases",
+    "3s": "trocase",
+    "1p": "trocásemos",
+    "2p": "trocaseis",
+    "3p": "trocasen"
+  },
+  "FutSC": {
+    "1s": "trocare",
+    "2s": "trocares",
+    "3s": "trocare",
+    "1p": "trocáremos",
+    "2p": "trocareis",
+    "3p": "trocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trueca",
+    "3s": "trueque",
+    "1p": "troquemos",
+    "2p": "trocad",
+    "3p": "truequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trueques",
+    "3s": "no trueque",
+    "1p": "no troquemos",
+    "2p": "no troquéis",
+    "3p": "no truequen"
+  },
+  "Part-ter": {
+    "": "trocado"
+  },
+  "Part-ser": {
+    "ms": "trocado",
+    "fs": "trocada",
+    "mp": "trocados",
+    "fp": "trocadas"
+  }
+}

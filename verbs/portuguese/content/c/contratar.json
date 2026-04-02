@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "contratar"
+  },
+  "InfP": {
+    "1s": "contratar",
+    "2s": "contratares",
+    "3s": "contratar",
+    "1p": "contratarmos",
+    "2p": "contratardes",
+    "3p": "contratarem"
+  },
+  "Ger": {
+    "": "contratando"
+  },
+  "PresI": {
+    "1s": "contrato",
+    "2s": "contratas",
+    "3s": "contrata",
+    "1p": "contratamos",
+    "2p": "contratais",
+    "3p": "contratam"
+  },
+  "PImpI": {
+    "1s": "contratava",
+    "2s": "contratavas",
+    "3s": "contratava",
+    "1p": "contratávamos",
+    "2p": "contratáveis",
+    "3p": "contratavam"
+  },
+  "PPSI": {
+    "1s": "contratei",
+    "2s": "contrataste",
+    "3s": "contratou",
+    "1p": "contratámos",
+    "2p": "contratastes",
+    "3p": "contrataram"
+  },
+  "PMQPSI": {
+    "1s": "contratara",
+    "2s": "contrataras",
+    "3s": "contratara",
+    "1p": "contratáramos",
+    "2p": "contratáreis",
+    "3p": "contrataram"
+  },
+  "FutSI": {
+    "1s": "contratarei",
+    "2s": "contratarás",
+    "3s": "contratará",
+    "1p": "contrataremos",
+    "2p": "contratareis",
+    "3p": "contratarão"
+  },
+  "CondS": {
+    "1s": "contrataria",
+    "2s": "contratarias",
+    "3s": "contrataria",
+    "1p": "contrataríamos",
+    "2p": "contrataríeis",
+    "3p": "contratariam"
+  },
+  "PresC": {
+    "1s": "contrate",
+    "2s": "contrates",
+    "3s": "contrate",
+    "1p": "contratemos",
+    "2p": "contrateis",
+    "3p": "contratem"
+  },
+  "PImpC": {
+    "1s": "contratasse",
+    "2s": "contratasses",
+    "3s": "contratasse",
+    "1p": "contratássemos",
+    "2p": "contratásseis",
+    "3p": "contratassem"
+  },
+  "FutSC": {
+    "1s": "contratar",
+    "2s": "contratares",
+    "3s": "contratar",
+    "1p": "contratarmos",
+    "2p": "contratardes",
+    "3p": "contratarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contrata",
+    "3s": "contrate",
+    "1p": "contratemos",
+    "2p": "contratai",
+    "3p": "contratem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contrates",
+    "3s": "não contrate",
+    "1p": "não contratemos",
+    "2p": "não contrateis",
+    "3p": "não contratem"
+  },
+  "Part-ter": {
+    "": "contratado"
+  },
+  "Part-ser": {
+    "ms": "contratado",
+    "fs": "contratada",
+    "mp": "contratados",
+    "fp": "contratadas"
+  }
+}

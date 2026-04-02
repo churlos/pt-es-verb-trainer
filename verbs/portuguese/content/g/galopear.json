@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "galopear"
+  },
+  "InfP": {
+    "1s": "galopear",
+    "2s": "galopeares",
+    "3s": "galopear",
+    "1p": "galopearmos",
+    "2p": "galopeardes",
+    "3p": "galopearem"
+  },
+  "Ger": {
+    "": "galopeando"
+  },
+  "PresI": {
+    "1s": "galopeio",
+    "2s": "galopeias",
+    "3s": "galopeia",
+    "1p": "galopeamos",
+    "2p": "galopeais",
+    "3p": "galopeiam"
+  },
+  "PImpI": {
+    "1s": "galopeava",
+    "2s": "galopeavas",
+    "3s": "galopeava",
+    "1p": "galopeávamos",
+    "2p": "galopeáveis",
+    "3p": "galopeavam"
+  },
+  "PPSI": {
+    "1s": "galopeei",
+    "2s": "galopeaste",
+    "3s": "galopeou",
+    "1p": "galopeámos",
+    "2p": "galopeastes",
+    "3p": "galopearam"
+  },
+  "PMQPSI": {
+    "1s": "galopeara",
+    "2s": "galopearas",
+    "3s": "galopeara",
+    "1p": "galopeáramos",
+    "2p": "galopeáreis",
+    "3p": "galopearam"
+  },
+  "FutSI": {
+    "1s": "galopearei",
+    "2s": "galopearás",
+    "3s": "galopeará",
+    "1p": "galopearemos",
+    "2p": "galopeareis",
+    "3p": "galopearão"
+  },
+  "CondS": {
+    "1s": "galopearia",
+    "2s": "galopearias",
+    "3s": "galopearia",
+    "1p": "galopearíamos",
+    "2p": "galopearíeis",
+    "3p": "galopeariam"
+  },
+  "PresC": {
+    "1s": "galopeie",
+    "2s": "galopeies",
+    "3s": "galopeie",
+    "1p": "galopeemos",
+    "2p": "galopeeis",
+    "3p": "galopeiem"
+  },
+  "PImpC": {
+    "1s": "galopeasse",
+    "2s": "galopeasses",
+    "3s": "galopeasse",
+    "1p": "galopeássemos",
+    "2p": "galopeásseis",
+    "3p": "galopeassem"
+  },
+  "FutSC": {
+    "1s": "galopear",
+    "2s": "galopeares",
+    "3s": "galopear",
+    "1p": "galopearmos",
+    "2p": "galopeardes",
+    "3p": "galopearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "galopeia",
+    "3s": "galopeie",
+    "1p": "galopeemos",
+    "2p": "galopeai",
+    "3p": "galopeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não galopeies",
+    "3s": "não galopeie",
+    "1p": "não galopeemos",
+    "2p": "não galopeeis",
+    "3p": "não galopeiem"
+  },
+  "Part-ter": {
+    "": "galopeado"
+  },
+  "Part-ser": {
+    "ms": "galopeado",
+    "fs": "galopeada",
+    "mp": "galopeados",
+    "fp": "galopeadas"
+  }
+}

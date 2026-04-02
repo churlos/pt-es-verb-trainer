@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "saber"
+  },
+  "Ger": {
+    "": "sabiendo"
+  },
+  "PresI": {
+    "1s": "sé",
+    "2s": "sabes",
+    "3s": "sabe",
+    "1p": "sabemos",
+    "2p": "sabéis",
+    "3p": "saben"
+  },
+  "PImpI": {
+    "1s": "sabía",
+    "2s": "sabías",
+    "3s": "sabía",
+    "1p": "sabíamos",
+    "2p": "sabíais",
+    "3p": "sabían"
+  },
+  "PPSI": {
+    "1s": "supe",
+    "2s": "supiste",
+    "3s": "supo",
+    "1p": "supimos",
+    "2p": "supisteis",
+    "3p": "supieron"
+  },
+  "FutSI": {
+    "1s": "sabré",
+    "2s": "sabrás",
+    "3s": "sabrá",
+    "1p": "sabremos",
+    "2p": "sabréis",
+    "3p": "sabrán"
+  },
+  "CondS": {
+    "1s": "sabría",
+    "2s": "sabrías",
+    "3s": "sabría",
+    "1p": "sabríamos",
+    "2p": "sabríais",
+    "3p": "sabrían"
+  },
+  "PresC": {
+    "1s": "sepa",
+    "2s": "sepas",
+    "3s": "sepa",
+    "1p": "sepamos",
+    "2p": "sepáis",
+    "3p": "sepan"
+  },
+  "PMQPSI": {
+    "1s": "supiera",
+    "2s": "supieras",
+    "3s": "supiera",
+    "1p": "supiéramos",
+    "2p": "supierais",
+    "3p": "supieran"
+  },
+  "PImpC": {
+    "1s": "supiese",
+    "2s": "supieses",
+    "3s": "supiese",
+    "1p": "supiésemos",
+    "2p": "supieseis",
+    "3p": "supiesen"
+  },
+  "FutSC": {
+    "1s": "supiere",
+    "2s": "supieres",
+    "3s": "supiere",
+    "1p": "supiéremos",
+    "2p": "supiereis",
+    "3p": "supieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sabe",
+    "3s": "sepa",
+    "1p": "sepamos",
+    "2p": "sabed",
+    "3p": "sepan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sepas",
+    "3s": "no sepa",
+    "1p": "no sepamos",
+    "2p": "no sepáis",
+    "3p": "no sepan"
+  },
+  "Part-ter": {
+    "": "sabido"
+  },
+  "Part-ser": {
+    "ms": "sabido",
+    "fs": "sabida",
+    "mp": "sabidos",
+    "fp": "sabidas"
+  }
+}

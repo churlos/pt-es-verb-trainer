@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vestirse"
+  },
+  "Ger": {
+    "": "vistiéndose"
+  },
+  "PresI": {
+    "1s": "me visto",
+    "2s": "te vistes",
+    "3s": "se viste",
+    "1p": "nos vestimos",
+    "2p": "os vestís",
+    "3p": "se visten"
+  },
+  "PImpI": {
+    "1s": "me vestía",
+    "2s": "te vestías",
+    "3s": "se vestía",
+    "1p": "nos vestíamos",
+    "2p": "os vestíais",
+    "3p": "se vestían"
+  },
+  "PPSI": {
+    "1s": "me vestí",
+    "2s": "te vestiste",
+    "3s": "se vistió",
+    "1p": "nos vestimos",
+    "2p": "os vestisteis",
+    "3p": "se vistieron"
+  },
+  "FutSI": {
+    "1s": "me vestiré",
+    "2s": "te vestirás",
+    "3s": "se vestirá",
+    "1p": "nos vestiremos",
+    "2p": "os vestiréis",
+    "3p": "se vestirán"
+  },
+  "CondS": {
+    "1s": "me vestiría",
+    "2s": "te vestirías",
+    "3s": "se vestiría",
+    "1p": "nos vestiríamos",
+    "2p": "os vestiríais",
+    "3p": "se vestirían"
+  },
+  "PresC": {
+    "1s": "me vista",
+    "2s": "te vistas",
+    "3s": "se vista",
+    "1p": "nos vistamos",
+    "2p": "os vistáis",
+    "3p": "se vistan"
+  },
+  "PMQPSI": {
+    "1s": "me vistiera",
+    "2s": "te vistieras",
+    "3s": "se vistiera",
+    "1p": "nos vistiéramos",
+    "2p": "os vistierais",
+    "3p": "se vistieran"
+  },
+  "PImpC": {
+    "1s": "me vistiese",
+    "2s": "te vistieses",
+    "3s": "se vistiese",
+    "1p": "nos vistiésemos",
+    "2p": "os vistieseis",
+    "3p": "se vistiesen"
+  },
+  "FutSC": {
+    "1s": "me vistiere",
+    "2s": "te vistieres",
+    "3s": "se vistiere",
+    "1p": "nos vistiéremos",
+    "2p": "os vistiereis",
+    "3p": "se vistieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vístete",
+    "3s": "vístase",
+    "1p": "vistámonos",
+    "2p": "vestíos",
+    "3p": "vístanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te vistas",
+    "3s": "no se vista",
+    "1p": "no nos vistamos",
+    "2p": "no os vistáis",
+    "3p": "no se vistan"
+  },
+  "Part-ter": {
+    "": "vestido"
+  },
+  "Part-ser": {
+    "ms": "vestido",
+    "fs": "vestida",
+    "mp": "vestidos",
+    "fp": "vestidas"
+  }
+}

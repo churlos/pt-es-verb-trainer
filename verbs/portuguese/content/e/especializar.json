@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "especializar"
+  },
+  "InfP": {
+    "1s": "especializar",
+    "2s": "especializares",
+    "3s": "especializar",
+    "1p": "especializarmos",
+    "2p": "especializardes",
+    "3p": "especializarem"
+  },
+  "Ger": {
+    "": "especializando"
+  },
+  "PresI": {
+    "1s": "especializo",
+    "2s": "especializas",
+    "3s": "especializa",
+    "1p": "especializamos",
+    "2p": "especializais",
+    "3p": "especializam"
+  },
+  "PImpI": {
+    "1s": "especializava",
+    "2s": "especializavas",
+    "3s": "especializava",
+    "1p": "especializávamos",
+    "2p": "especializáveis",
+    "3p": "especializavam"
+  },
+  "PPSI": {
+    "1s": "especializei",
+    "2s": "especializaste",
+    "3s": "especializou",
+    "1p": "especializámos",
+    "2p": "especializastes",
+    "3p": "especializaram"
+  },
+  "PMQPSI": {
+    "1s": "especializara",
+    "2s": "especializaras",
+    "3s": "especializara",
+    "1p": "especializáramos",
+    "2p": "especializáreis",
+    "3p": "especializaram"
+  },
+  "FutSI": {
+    "1s": "especializarei",
+    "2s": "especializarás",
+    "3s": "especializará",
+    "1p": "especializaremos",
+    "2p": "especializareis",
+    "3p": "especializarão"
+  },
+  "CondS": {
+    "1s": "especializaria",
+    "2s": "especializarias",
+    "3s": "especializaria",
+    "1p": "especializaríamos",
+    "2p": "especializaríeis",
+    "3p": "especializariam"
+  },
+  "PresC": {
+    "1s": "especialize",
+    "2s": "especializes",
+    "3s": "especialize",
+    "1p": "especializemos",
+    "2p": "especializeis",
+    "3p": "especializem"
+  },
+  "PImpC": {
+    "1s": "especializasse",
+    "2s": "especializasses",
+    "3s": "especializasse",
+    "1p": "especializássemos",
+    "2p": "especializásseis",
+    "3p": "especializassem"
+  },
+  "FutSC": {
+    "1s": "especializar",
+    "2s": "especializares",
+    "3s": "especializar",
+    "1p": "especializarmos",
+    "2p": "especializardes",
+    "3p": "especializarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "especializa",
+    "3s": "especialize",
+    "1p": "especializemos",
+    "2p": "especializai",
+    "3p": "especializem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não especializes",
+    "3s": "não especialize",
+    "1p": "não especializemos",
+    "2p": "não especializeis",
+    "3p": "não especializem"
+  },
+  "Part-ter": {
+    "": "especializado"
+  },
+  "Part-ser": {
+    "ms": "especializado",
+    "fs": "especializada",
+    "mp": "especializados",
+    "fp": "especializadas"
+  }
+}

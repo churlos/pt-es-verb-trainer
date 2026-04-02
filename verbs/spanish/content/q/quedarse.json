@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "quedarse"
+  },
+  "Ger": {
+    "": "quedándose"
+  },
+  "PresI": {
+    "1s": "me quedo",
+    "2s": "te quedas",
+    "3s": "se queda",
+    "1p": "nos quedamos",
+    "2p": "os quedáis",
+    "3p": "se quedan"
+  },
+  "PImpI": {
+    "1s": "me quedaba",
+    "2s": "te quedabas",
+    "3s": "se quedaba",
+    "1p": "nos quedábamos",
+    "2p": "os quedabais",
+    "3p": "se quedaban"
+  },
+  "PPSI": {
+    "1s": "me quedé",
+    "2s": "te quedaste",
+    "3s": "se quedó",
+    "1p": "nos quedamos",
+    "2p": "os quedasteis",
+    "3p": "se quedaron"
+  },
+  "FutSI": {
+    "1s": "me quedaré",
+    "2s": "te quedarás",
+    "3s": "se quedará",
+    "1p": "nos quedaremos",
+    "2p": "os quedaréis",
+    "3p": "se quedarán"
+  },
+  "CondS": {
+    "1s": "me quedaría",
+    "2s": "te quedarías",
+    "3s": "se quedaría",
+    "1p": "nos quedaríamos",
+    "2p": "os quedaríais",
+    "3p": "se quedarían"
+  },
+  "PresC": {
+    "1s": "me quede",
+    "2s": "te quedes",
+    "3s": "se quede",
+    "1p": "nos quedemos",
+    "2p": "os quedéis",
+    "3p": "se queden"
+  },
+  "PMQPSI": {
+    "1s": "me quedara",
+    "2s": "te quedaras",
+    "3s": "se quedara",
+    "1p": "nos quedáramos",
+    "2p": "os quedarais",
+    "3p": "se quedaran"
+  },
+  "PImpC": {
+    "1s": "me quedase",
+    "2s": "te quedases",
+    "3s": "se quedase",
+    "1p": "nos quedásemos",
+    "2p": "os quedaseis",
+    "3p": "se quedasen"
+  },
+  "FutSC": {
+    "1s": "me quedare",
+    "2s": "te quedares",
+    "3s": "se quedare",
+    "1p": "nos quedáremos",
+    "2p": "os quedareis",
+    "3p": "se quedaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quédate",
+    "3s": "quédese",
+    "1p": "quedémonos",
+    "2p": "quedaos",
+    "3p": "quédense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te quedes",
+    "3s": "no se quede",
+    "1p": "no nos quedemos",
+    "2p": "no os quedéis",
+    "3p": "no se queden"
+  },
+  "Part-ter": {
+    "": "quedado"
+  },
+  "Part-ser": {
+    "ms": "quedado",
+    "fs": "quedada",
+    "mp": "quedados",
+    "fp": "quedadas"
+  }
+}

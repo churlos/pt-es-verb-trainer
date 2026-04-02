@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "irrigar"
+  },
+  "InfP": {
+    "1s": "irrigar",
+    "2s": "irrigares",
+    "3s": "irrigar",
+    "1p": "irrigarmos",
+    "2p": "irrigardes",
+    "3p": "irrigarem"
+  },
+  "Ger": {
+    "": "irrigando"
+  },
+  "PresI": {
+    "1s": "irrigo",
+    "2s": "irrigas",
+    "3s": "irriga",
+    "1p": "irrigamos",
+    "2p": "irrigais",
+    "3p": "irrigam"
+  },
+  "PImpI": {
+    "1s": "irrigava",
+    "2s": "irrigavas",
+    "3s": "irrigava",
+    "1p": "irrigávamos",
+    "2p": "irrigáveis",
+    "3p": "irrigavam"
+  },
+  "PPSI": {
+    "1s": "irriguei",
+    "2s": "irrigaste",
+    "3s": "irrigou",
+    "1p": "irrigámos",
+    "2p": "irrigastes",
+    "3p": "irrigaram"
+  },
+  "PMQPSI": {
+    "1s": "irrigara",
+    "2s": "irrigaras",
+    "3s": "irrigara",
+    "1p": "irrigáramos",
+    "2p": "irrigáreis",
+    "3p": "irrigaram"
+  },
+  "FutSI": {
+    "1s": "irrigarei",
+    "2s": "irrigarás",
+    "3s": "irrigará",
+    "1p": "irrigaremos",
+    "2p": "irrigareis",
+    "3p": "irrigarão"
+  },
+  "CondS": {
+    "1s": "irrigaria",
+    "2s": "irrigarias",
+    "3s": "irrigaria",
+    "1p": "irrigaríamos",
+    "2p": "irrigaríeis",
+    "3p": "irrigariam"
+  },
+  "PresC": {
+    "1s": "irrigue",
+    "2s": "irrigues",
+    "3s": "irrigue",
+    "1p": "irriguemos",
+    "2p": "irrigueis",
+    "3p": "irriguem"
+  },
+  "PImpC": {
+    "1s": "irrigasse",
+    "2s": "irrigasses",
+    "3s": "irrigasse",
+    "1p": "irrigássemos",
+    "2p": "irrigásseis",
+    "3p": "irrigassem"
+  },
+  "FutSC": {
+    "1s": "irrigar",
+    "2s": "irrigares",
+    "3s": "irrigar",
+    "1p": "irrigarmos",
+    "2p": "irrigardes",
+    "3p": "irrigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "irriga",
+    "3s": "irrigue",
+    "1p": "irriguemos",
+    "2p": "irrigai",
+    "3p": "irriguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não irrigues",
+    "3s": "não irrigue",
+    "1p": "não irriguemos",
+    "2p": "não irrigueis",
+    "3p": "não irriguem"
+  },
+  "Part-ter": {
+    "": "irrigado"
+  },
+  "Part-ser": {
+    "ms": "irrigado",
+    "fs": "irrigada",
+    "mp": "irrigados",
+    "fp": "irrigadas"
+  }
+}

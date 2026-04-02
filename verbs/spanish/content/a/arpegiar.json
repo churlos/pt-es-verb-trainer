@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arpegiar"
+  },
+  "Ger": {
+    "": "arpegiando"
+  },
+  "PresI": {
+    "1s": "arpegio",
+    "2s": "arpegias",
+    "3s": "arpegia",
+    "1p": "arpegiamos",
+    "2p": "arpegiáis",
+    "3p": "arpegian"
+  },
+  "PImpI": {
+    "1s": "arpegiaba",
+    "2s": "arpegiabas",
+    "3s": "arpegiaba",
+    "1p": "arpegiábamos",
+    "2p": "arpegiabais",
+    "3p": "arpegiaban"
+  },
+  "PPSI": {
+    "1s": "arpegié",
+    "2s": "arpegiaste",
+    "3s": "arpegió",
+    "1p": "arpegiamos",
+    "2p": "arpegiasteis",
+    "3p": "arpegiaron"
+  },
+  "FutSI": {
+    "1s": "arpegiaré",
+    "2s": "arpegiarás",
+    "3s": "arpegiará",
+    "1p": "arpegiaremos",
+    "2p": "arpegiaréis",
+    "3p": "arpegiarán"
+  },
+  "CondS": {
+    "1s": "arpegiaría",
+    "2s": "arpegiarías",
+    "3s": "arpegiaría",
+    "1p": "arpegiaríamos",
+    "2p": "arpegiaríais",
+    "3p": "arpegiarían"
+  },
+  "PresC": {
+    "1s": "arpegie",
+    "2s": "arpegies",
+    "3s": "arpegie",
+    "1p": "arpegiemos",
+    "2p": "arpegiéis",
+    "3p": "arpegien"
+  },
+  "PMQPSI": {
+    "1s": "arpegiara",
+    "2s": "arpegiaras",
+    "3s": "arpegiara",
+    "1p": "arpegiáramos",
+    "2p": "arpegiarais",
+    "3p": "arpegiaran"
+  },
+  "PImpC": {
+    "1s": "arpegiase",
+    "2s": "arpegiases",
+    "3s": "arpegiase",
+    "1p": "arpegiásemos",
+    "2p": "arpegiaseis",
+    "3p": "arpegiasen"
+  },
+  "FutSC": {
+    "1s": "arpegiare",
+    "2s": "arpegiares",
+    "3s": "arpegiare",
+    "1p": "arpegiáremos",
+    "2p": "arpegiareis",
+    "3p": "arpegiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arpegia",
+    "3s": "arpegie",
+    "1p": "arpegiemos",
+    "2p": "arpegiad",
+    "3p": "arpegien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arpegies",
+    "3s": "no arpegie",
+    "1p": "no arpegiemos",
+    "2p": "no arpegiéis",
+    "3p": "no arpegien"
+  },
+  "Part-ter": {
+    "": "arpegiado"
+  },
+  "Part-ser": {
+    "ms": "arpegiado",
+    "fs": "arpegiada",
+    "mp": "arpegiados",
+    "fp": "arpegiadas"
+  }
+}

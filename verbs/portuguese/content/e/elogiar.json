@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "elogiar"
+  },
+  "InfP": {
+    "1s": "elogiar",
+    "2s": "elogiares",
+    "3s": "elogiar",
+    "1p": "elogiarmos",
+    "2p": "elogiardes",
+    "3p": "elogiarem"
+  },
+  "Ger": {
+    "": "elogiando"
+  },
+  "PresI": {
+    "1s": "elogio",
+    "2s": "elogias",
+    "3s": "elogia",
+    "1p": "elogiamos",
+    "2p": "elogiais",
+    "3p": "elogiam"
+  },
+  "PImpI": {
+    "1s": "elogiava",
+    "2s": "elogiavas",
+    "3s": "elogiava",
+    "1p": "elogiávamos",
+    "2p": "elogiáveis",
+    "3p": "elogiavam"
+  },
+  "PPSI": {
+    "1s": "elogiei",
+    "2s": "elogiaste",
+    "3s": "elogiou",
+    "1p": "elogiámos",
+    "2p": "elogiastes",
+    "3p": "elogiaram"
+  },
+  "PMQPSI": {
+    "1s": "elogiara",
+    "2s": "elogiaras",
+    "3s": "elogiara",
+    "1p": "elogiáramos",
+    "2p": "elogiáreis",
+    "3p": "elogiaram"
+  },
+  "FutSI": {
+    "1s": "elogiarei",
+    "2s": "elogiarás",
+    "3s": "elogiará",
+    "1p": "elogiaremos",
+    "2p": "elogiareis",
+    "3p": "elogiarão"
+  },
+  "CondS": {
+    "1s": "elogiaria",
+    "2s": "elogiarias",
+    "3s": "elogiaria",
+    "1p": "elogiaríamos",
+    "2p": "elogiaríeis",
+    "3p": "elogiariam"
+  },
+  "PresC": {
+    "1s": "elogie",
+    "2s": "elogies",
+    "3s": "elogie",
+    "1p": "elogiemos",
+    "2p": "elogieis",
+    "3p": "elogiem"
+  },
+  "PImpC": {
+    "1s": "elogiasse",
+    "2s": "elogiasses",
+    "3s": "elogiasse",
+    "1p": "elogiássemos",
+    "2p": "elogiásseis",
+    "3p": "elogiassem"
+  },
+  "FutSC": {
+    "1s": "elogiar",
+    "2s": "elogiares",
+    "3s": "elogiar",
+    "1p": "elogiarmos",
+    "2p": "elogiardes",
+    "3p": "elogiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elogia",
+    "3s": "elogie",
+    "1p": "elogiemos",
+    "2p": "elogiai",
+    "3p": "elogiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não elogies",
+    "3s": "não elogie",
+    "1p": "não elogiemos",
+    "2p": "não elogieis",
+    "3p": "não elogiem"
+  },
+  "Part-ter": {
+    "": "elogiado"
+  },
+  "Part-ser": {
+    "ms": "elogiado",
+    "fs": "elogiada",
+    "mp": "elogiados",
+    "fp": "elogiadas"
+  }
+}

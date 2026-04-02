@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "traficar"
+  },
+  "Ger": {
+    "": "traficando"
+  },
+  "PresI": {
+    "1s": "trafico",
+    "2s": "traficas",
+    "3s": "trafica",
+    "1p": "traficamos",
+    "2p": "traficáis",
+    "3p": "trafican"
+  },
+  "PImpI": {
+    "1s": "traficaba",
+    "2s": "traficabas",
+    "3s": "traficaba",
+    "1p": "traficábamos",
+    "2p": "traficabais",
+    "3p": "traficaban"
+  },
+  "PPSI": {
+    "1s": "trafiqué",
+    "2s": "traficaste",
+    "3s": "traficó",
+    "1p": "traficamos",
+    "2p": "traficasteis",
+    "3p": "traficaron"
+  },
+  "FutSI": {
+    "1s": "traficaré",
+    "2s": "traficarás",
+    "3s": "traficará",
+    "1p": "traficaremos",
+    "2p": "traficaréis",
+    "3p": "traficarán"
+  },
+  "CondS": {
+    "1s": "traficaría",
+    "2s": "traficarías",
+    "3s": "traficaría",
+    "1p": "traficaríamos",
+    "2p": "traficaríais",
+    "3p": "traficarían"
+  },
+  "PresC": {
+    "1s": "trafique",
+    "2s": "trafiques",
+    "3s": "trafique",
+    "1p": "trafiquemos",
+    "2p": "trafiquéis",
+    "3p": "trafiquen"
+  },
+  "PMQPSI": {
+    "1s": "traficara",
+    "2s": "traficaras",
+    "3s": "traficara",
+    "1p": "traficáramos",
+    "2p": "traficarais",
+    "3p": "traficaran"
+  },
+  "PImpC": {
+    "1s": "traficase",
+    "2s": "traficases",
+    "3s": "traficase",
+    "1p": "traficásemos",
+    "2p": "traficaseis",
+    "3p": "traficasen"
+  },
+  "FutSC": {
+    "1s": "traficare",
+    "2s": "traficares",
+    "3s": "traficare",
+    "1p": "traficáremos",
+    "2p": "traficareis",
+    "3p": "traficaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trafica",
+    "3s": "trafique",
+    "1p": "trafiquemos",
+    "2p": "traficad",
+    "3p": "trafiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trafiques",
+    "3s": "no trafique",
+    "1p": "no trafiquemos",
+    "2p": "no trafiquéis",
+    "3p": "no trafiquen"
+  },
+  "Part-ter": {
+    "": "traficado"
+  },
+  "Part-ser": {
+    "ms": "traficado",
+    "fs": "traficada",
+    "mp": "traficados",
+    "fp": "traficadas"
+  }
+}

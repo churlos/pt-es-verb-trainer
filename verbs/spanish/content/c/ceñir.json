@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ceñir"
+  },
+  "Ger": {
+    "": "ciñendo"
+  },
+  "PresI": {
+    "1s": "ciño",
+    "2s": "ciñes",
+    "3s": "ciñe",
+    "1p": "ceñimos",
+    "2p": "ceñís",
+    "3p": "ciñen"
+  },
+  "PImpI": {
+    "1s": "ceñía",
+    "2s": "ceñías",
+    "3s": "ceñía",
+    "1p": "ceñíamos",
+    "2p": "ceñíais",
+    "3p": "ceñían"
+  },
+  "PPSI": {
+    "1s": "ceñí",
+    "2s": "ceñiste",
+    "3s": "ciñó",
+    "1p": "ceñimos",
+    "2p": "ceñisteis",
+    "3p": "ciñeron"
+  },
+  "FutSI": {
+    "1s": "ceñiré",
+    "2s": "ceñirás",
+    "3s": "ceñirá",
+    "1p": "ceñiremos",
+    "2p": "ceñiréis",
+    "3p": "ceñirán"
+  },
+  "CondS": {
+    "1s": "ceñiría",
+    "2s": "ceñirías",
+    "3s": "ceñiría",
+    "1p": "ceñiríamos",
+    "2p": "ceñiríais",
+    "3p": "ceñirían"
+  },
+  "PresC": {
+    "1s": "ciña",
+    "2s": "ciñas",
+    "3s": "ciña",
+    "1p": "ciñamos",
+    "2p": "ciñáis",
+    "3p": "ciñan"
+  },
+  "PMQPSI": {
+    "1s": "ciñera",
+    "2s": "ciñeras",
+    "3s": "ciñera",
+    "1p": "ciñéramos",
+    "2p": "ciñerais",
+    "3p": "ciñeran"
+  },
+  "PImpC": {
+    "1s": "ciñese",
+    "2s": "ciñeses",
+    "3s": "ciñese",
+    "1p": "ciñésemos",
+    "2p": "ciñeseis",
+    "3p": "ciñesen"
+  },
+  "FutSC": {
+    "1s": "ciñere",
+    "2s": "ciñeres",
+    "3s": "ciñere",
+    "1p": "ciñéremos",
+    "2p": "ciñereis",
+    "3p": "ciñeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ciñe",
+    "3s": "ciña",
+    "1p": "ciñamos",
+    "2p": "ceñid",
+    "3p": "ciñan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ciñas",
+    "3s": "no ciña",
+    "1p": "no ciñamos",
+    "2p": "no ciñáis",
+    "3p": "no ciñan"
+  },
+  "Part-ter": {
+    "": "ceñido"
+  },
+  "Part-ser": {
+    "ms": "ceñido",
+    "fs": "ceñida",
+    "mp": "ceñidos",
+    "fp": "ceñidas"
+  }
+}

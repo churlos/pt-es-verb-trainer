@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enverar"
+  },
+  "Ger": {
+    "": "enverando"
+  },
+  "PresI": {
+    "1s": "envero",
+    "2s": "enveras",
+    "3s": "envera",
+    "1p": "enveramos",
+    "2p": "enveráis",
+    "3p": "enveran"
+  },
+  "PImpI": {
+    "1s": "enveraba",
+    "2s": "enverabas",
+    "3s": "enveraba",
+    "1p": "enverábamos",
+    "2p": "enverabais",
+    "3p": "enveraban"
+  },
+  "PPSI": {
+    "1s": "enveré",
+    "2s": "enveraste",
+    "3s": "enveró",
+    "1p": "enveramos",
+    "2p": "enverasteis",
+    "3p": "enveraron"
+  },
+  "FutSI": {
+    "1s": "enveraré",
+    "2s": "enverarás",
+    "3s": "enverará",
+    "1p": "enveraremos",
+    "2p": "enveraréis",
+    "3p": "enverarán"
+  },
+  "CondS": {
+    "1s": "enveraría",
+    "2s": "enverarías",
+    "3s": "enveraría",
+    "1p": "enveraríamos",
+    "2p": "enveraríais",
+    "3p": "enverarían"
+  },
+  "PresC": {
+    "1s": "envere",
+    "2s": "enveres",
+    "3s": "envere",
+    "1p": "enveremos",
+    "2p": "enveréis",
+    "3p": "enveren"
+  },
+  "PMQPSI": {
+    "1s": "enverara",
+    "2s": "enveraras",
+    "3s": "enverara",
+    "1p": "enveráramos",
+    "2p": "enverarais",
+    "3p": "enveraran"
+  },
+  "PImpC": {
+    "1s": "enverase",
+    "2s": "enverases",
+    "3s": "enverase",
+    "1p": "enverásemos",
+    "2p": "enveraseis",
+    "3p": "enverasen"
+  },
+  "FutSC": {
+    "1s": "enverare",
+    "2s": "enverares",
+    "3s": "enverare",
+    "1p": "enveráremos",
+    "2p": "enverareis",
+    "3p": "enveraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envera",
+    "3s": "envere",
+    "1p": "enveremos",
+    "2p": "enverad",
+    "3p": "enveren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enveres",
+    "3s": "no envere",
+    "1p": "no enveremos",
+    "2p": "no enveréis",
+    "3p": "no enveren"
+  },
+  "Part-ter": {
+    "": "enverado"
+  },
+  "Part-ser": {
+    "ms": "enverado",
+    "fs": "enverada",
+    "mp": "enverados",
+    "fp": "enveradas"
+  }
+}

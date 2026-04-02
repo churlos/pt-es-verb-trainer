@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pescar"
+  },
+  "Ger": {
+    "": "pescando"
+  },
+  "PresI": {
+    "1s": "pesco",
+    "2s": "pescas",
+    "3s": "pesca",
+    "1p": "pescamos",
+    "2p": "pescáis",
+    "3p": "pescan"
+  },
+  "PImpI": {
+    "1s": "pescaba",
+    "2s": "pescabas",
+    "3s": "pescaba",
+    "1p": "pescábamos",
+    "2p": "pescabais",
+    "3p": "pescaban"
+  },
+  "PPSI": {
+    "1s": "pesqué",
+    "2s": "pescaste",
+    "3s": "pescó",
+    "1p": "pescamos",
+    "2p": "pescasteis",
+    "3p": "pescaron"
+  },
+  "FutSI": {
+    "1s": "pescaré",
+    "2s": "pescarás",
+    "3s": "pescará",
+    "1p": "pescaremos",
+    "2p": "pescaréis",
+    "3p": "pescarán"
+  },
+  "CondS": {
+    "1s": "pescaría",
+    "2s": "pescarías",
+    "3s": "pescaría",
+    "1p": "pescaríamos",
+    "2p": "pescaríais",
+    "3p": "pescarían"
+  },
+  "PresC": {
+    "1s": "pesque",
+    "2s": "pesques",
+    "3s": "pesque",
+    "1p": "pesquemos",
+    "2p": "pesquéis",
+    "3p": "pesquen"
+  },
+  "PMQPSI": {
+    "1s": "pescara",
+    "2s": "pescaras",
+    "3s": "pescara",
+    "1p": "pescáramos",
+    "2p": "pescarais",
+    "3p": "pescaran"
+  },
+  "PImpC": {
+    "1s": "pescase",
+    "2s": "pescases",
+    "3s": "pescase",
+    "1p": "pescásemos",
+    "2p": "pescaseis",
+    "3p": "pescasen"
+  },
+  "FutSC": {
+    "1s": "pescare",
+    "2s": "pescares",
+    "3s": "pescare",
+    "1p": "pescáremos",
+    "2p": "pescareis",
+    "3p": "pescaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pesca",
+    "3s": "pesque",
+    "1p": "pesquemos",
+    "2p": "pescad",
+    "3p": "pesquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pesques",
+    "3s": "no pesque",
+    "1p": "no pesquemos",
+    "2p": "no pesquéis",
+    "3p": "no pesquen"
+  },
+  "Part-ter": {
+    "": "pescado"
+  },
+  "Part-ser": {
+    "ms": "pescado",
+    "fs": "pescada",
+    "mp": "pescados",
+    "fp": "pescadas"
+  }
+}

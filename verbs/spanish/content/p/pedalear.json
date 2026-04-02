@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pedalear"
+  },
+  "Ger": {
+    "": "pedaleando"
+  },
+  "PresI": {
+    "1s": "pedaleo",
+    "2s": "pedaleas",
+    "3s": "pedalea",
+    "1p": "pedaleamos",
+    "2p": "pedaleáis",
+    "3p": "pedalean"
+  },
+  "PImpI": {
+    "1s": "pedaleaba",
+    "2s": "pedaleabas",
+    "3s": "pedaleaba",
+    "1p": "pedaleábamos",
+    "2p": "pedaleabais",
+    "3p": "pedaleaban"
+  },
+  "PPSI": {
+    "1s": "pedaleé",
+    "2s": "pedaleaste",
+    "3s": "pedaleó",
+    "1p": "pedaleamos",
+    "2p": "pedaleasteis",
+    "3p": "pedalearon"
+  },
+  "FutSI": {
+    "1s": "pedalearé",
+    "2s": "pedalearás",
+    "3s": "pedaleará",
+    "1p": "pedalearemos",
+    "2p": "pedalearéis",
+    "3p": "pedalearán"
+  },
+  "CondS": {
+    "1s": "pedalearía",
+    "2s": "pedalearías",
+    "3s": "pedalearía",
+    "1p": "pedalearíamos",
+    "2p": "pedalearíais",
+    "3p": "pedalearían"
+  },
+  "PresC": {
+    "1s": "pedalee",
+    "2s": "pedalees",
+    "3s": "pedalee",
+    "1p": "pedaleemos",
+    "2p": "pedaleéis",
+    "3p": "pedaleen"
+  },
+  "PMQPSI": {
+    "1s": "pedaleara",
+    "2s": "pedalearas",
+    "3s": "pedaleara",
+    "1p": "pedaleáramos",
+    "2p": "pedalearais",
+    "3p": "pedalearan"
+  },
+  "PImpC": {
+    "1s": "pedalease",
+    "2s": "pedaleases",
+    "3s": "pedalease",
+    "1p": "pedaleásemos",
+    "2p": "pedaleaseis",
+    "3p": "pedaleasen"
+  },
+  "FutSC": {
+    "1s": "pedaleare",
+    "2s": "pedaleares",
+    "3s": "pedaleare",
+    "1p": "pedaleáremos",
+    "2p": "pedaleareis",
+    "3p": "pedalearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pedalea",
+    "3s": "pedalee",
+    "1p": "pedaleemos",
+    "2p": "pedalead",
+    "3p": "pedaleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pedalees",
+    "3s": "no pedalee",
+    "1p": "no pedaleemos",
+    "2p": "no pedaleéis",
+    "3p": "no pedaleen"
+  },
+  "Part-ter": {
+    "": "pedaleado"
+  },
+  "Part-ser": {
+    "ms": "pedaleado",
+    "fs": "pedaleada",
+    "mp": "pedaleados",
+    "fp": "pedaleadas"
+  }
+}

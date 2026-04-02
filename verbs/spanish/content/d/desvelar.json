@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desvelar"
+  },
+  "Ger": {
+    "": "desvelando"
+  },
+  "PresI": {
+    "1s": "desvelo",
+    "2s": "desvelas",
+    "3s": "desvela",
+    "1p": "desvelamos",
+    "2p": "desveláis",
+    "3p": "desvelan"
+  },
+  "PImpI": {
+    "1s": "desvelaba",
+    "2s": "desvelabas",
+    "3s": "desvelaba",
+    "1p": "desvelábamos",
+    "2p": "desvelabais",
+    "3p": "desvelaban"
+  },
+  "PPSI": {
+    "1s": "desvelé",
+    "2s": "desvelaste",
+    "3s": "desveló",
+    "1p": "desvelamos",
+    "2p": "desvelasteis",
+    "3p": "desvelaron"
+  },
+  "FutSI": {
+    "1s": "desvelaré",
+    "2s": "desvelarás",
+    "3s": "desvelará",
+    "1p": "desvelaremos",
+    "2p": "desvelaréis",
+    "3p": "desvelarán"
+  },
+  "CondS": {
+    "1s": "desvelaría",
+    "2s": "desvelarías",
+    "3s": "desvelaría",
+    "1p": "desvelaríamos",
+    "2p": "desvelaríais",
+    "3p": "desvelarían"
+  },
+  "PresC": {
+    "1s": "desvele",
+    "2s": "desveles",
+    "3s": "desvele",
+    "1p": "desvelemos",
+    "2p": "desveléis",
+    "3p": "desvelen"
+  },
+  "PMQPSI": {
+    "1s": "desvelara",
+    "2s": "desvelaras",
+    "3s": "desvelara",
+    "1p": "desveláramos",
+    "2p": "desvelarais",
+    "3p": "desvelaran"
+  },
+  "PImpC": {
+    "1s": "desvelase",
+    "2s": "desvelases",
+    "3s": "desvelase",
+    "1p": "desvelásemos",
+    "2p": "desvelaseis",
+    "3p": "desvelasen"
+  },
+  "FutSC": {
+    "1s": "desvelare",
+    "2s": "desvelares",
+    "3s": "desvelare",
+    "1p": "desveláremos",
+    "2p": "desvelareis",
+    "3p": "desvelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desvela",
+    "3s": "desvele",
+    "1p": "desvelemos",
+    "2p": "desvelad",
+    "3p": "desvelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desveles",
+    "3s": "no desvele",
+    "1p": "no desvelemos",
+    "2p": "no desveléis",
+    "3p": "no desvelen"
+  },
+  "Part-ter": {
+    "": "desvelado"
+  },
+  "Part-ser": {
+    "ms": "desvelado",
+    "fs": "desvelada",
+    "mp": "desvelados",
+    "fp": "desveladas"
+  }
+}

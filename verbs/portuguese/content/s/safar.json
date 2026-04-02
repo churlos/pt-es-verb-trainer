@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "safar"
+  },
+  "InfP": {
+    "1s": "safar",
+    "2s": "safares",
+    "3s": "safar",
+    "1p": "safarmos",
+    "2p": "safardes",
+    "3p": "safarem"
+  },
+  "Ger": {
+    "": "safando"
+  },
+  "PresI": {
+    "1s": "safo",
+    "2s": "safas",
+    "3s": "safa",
+    "1p": "safamos",
+    "2p": "safais",
+    "3p": "safam"
+  },
+  "PImpI": {
+    "1s": "safava",
+    "2s": "safavas",
+    "3s": "safava",
+    "1p": "safávamos",
+    "2p": "safáveis",
+    "3p": "safavam"
+  },
+  "PPSI": {
+    "1s": "safei",
+    "2s": "safaste",
+    "3s": "safou",
+    "1p": "safámos",
+    "2p": "safastes",
+    "3p": "safaram"
+  },
+  "PMQPSI": {
+    "1s": "safara",
+    "2s": "safaras",
+    "3s": "safara",
+    "1p": "safáramos",
+    "2p": "safáreis",
+    "3p": "safaram"
+  },
+  "FutSI": {
+    "1s": "safarei",
+    "2s": "safarás",
+    "3s": "safará",
+    "1p": "safaremos",
+    "2p": "safareis",
+    "3p": "safarão"
+  },
+  "CondS": {
+    "1s": "safaria",
+    "2s": "safarias",
+    "3s": "safaria",
+    "1p": "safaríamos",
+    "2p": "safaríeis",
+    "3p": "safariam"
+  },
+  "PresC": {
+    "1s": "safe",
+    "2s": "safes",
+    "3s": "safe",
+    "1p": "safemos",
+    "2p": "safeis",
+    "3p": "safem"
+  },
+  "PImpC": {
+    "1s": "safasse",
+    "2s": "safasses",
+    "3s": "safasse",
+    "1p": "safássemos",
+    "2p": "safásseis",
+    "3p": "safassem"
+  },
+  "FutSC": {
+    "1s": "safar",
+    "2s": "safares",
+    "3s": "safar",
+    "1p": "safarmos",
+    "2p": "safardes",
+    "3p": "safarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "safa",
+    "3s": "safe",
+    "1p": "safemos",
+    "2p": "safai",
+    "3p": "safem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não safes",
+    "3s": "não safe",
+    "1p": "não safemos",
+    "2p": "não safeis",
+    "3p": "não safem"
+  },
+  "Part-ter": {
+    "": "safado"
+  },
+  "Part-ser": {
+    "ms": "safado",
+    "fs": "safada",
+    "mp": "safados",
+    "fp": "safadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "zipar"
+  },
+  "InfP": {
+    "1s": "zipar",
+    "2s": "zipares",
+    "3s": "zipar",
+    "1p": "ziparmos",
+    "2p": "zipardes",
+    "3p": "ziparem"
+  },
+  "Ger": {
+    "": "zipando"
+  },
+  "PresI": {
+    "1s": "zipo",
+    "2s": "zipas",
+    "3s": "zipa",
+    "1p": "zipamos",
+    "2p": "zipais",
+    "3p": "zipam"
+  },
+  "PImpI": {
+    "1s": "zipava",
+    "2s": "zipavas",
+    "3s": "zipava",
+    "1p": "zipávamos",
+    "2p": "zipáveis",
+    "3p": "zipavam"
+  },
+  "PPSI": {
+    "1s": "zipei",
+    "2s": "zipaste",
+    "3s": "zipou",
+    "1p": "zipámos",
+    "2p": "zipastes",
+    "3p": "ziparam"
+  },
+  "PMQPSI": {
+    "1s": "zipara",
+    "2s": "ziparas",
+    "3s": "zipara",
+    "1p": "zipáramos",
+    "2p": "zipáreis",
+    "3p": "ziparam"
+  },
+  "FutSI": {
+    "1s": "ziparei",
+    "2s": "ziparás",
+    "3s": "zipará",
+    "1p": "ziparemos",
+    "2p": "zipareis",
+    "3p": "ziparão"
+  },
+  "CondS": {
+    "1s": "ziparia",
+    "2s": "ziparias",
+    "3s": "ziparia",
+    "1p": "ziparíamos",
+    "2p": "ziparíeis",
+    "3p": "zipariam"
+  },
+  "PresC": {
+    "1s": "zipe",
+    "2s": "zipes",
+    "3s": "zipe",
+    "1p": "zipemos",
+    "2p": "zipeis",
+    "3p": "zipem"
+  },
+  "PImpC": {
+    "1s": "zipasse",
+    "2s": "zipasses",
+    "3s": "zipasse",
+    "1p": "zipássemos",
+    "2p": "zipásseis",
+    "3p": "zipassem"
+  },
+  "FutSC": {
+    "1s": "zipar",
+    "2s": "zipares",
+    "3s": "zipar",
+    "1p": "ziparmos",
+    "2p": "zipardes",
+    "3p": "ziparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zipa",
+    "3s": "zipe",
+    "1p": "zipemos",
+    "2p": "zipai",
+    "3p": "zipem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não zipes",
+    "3s": "não zipe",
+    "1p": "não zipemos",
+    "2p": "não zipeis",
+    "3p": "não zipem"
+  },
+  "Part-ter": {
+    "": "zipado"
+  },
+  "Part-ser": {
+    "ms": "zipado",
+    "fs": "zipada",
+    "mp": "zipados",
+    "fp": "zipadas"
+  }
+}

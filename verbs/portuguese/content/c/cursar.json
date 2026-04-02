@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cursar"
+  },
+  "InfP": {
+    "1s": "cursar",
+    "2s": "cursares",
+    "3s": "cursar",
+    "1p": "cursarmos",
+    "2p": "cursardes",
+    "3p": "cursarem"
+  },
+  "Ger": {
+    "": "cursando"
+  },
+  "PresI": {
+    "1s": "curso",
+    "2s": "cursas",
+    "3s": "cursa",
+    "1p": "cursamos",
+    "2p": "cursais",
+    "3p": "cursam"
+  },
+  "PImpI": {
+    "1s": "cursava",
+    "2s": "cursavas",
+    "3s": "cursava",
+    "1p": "cursávamos",
+    "2p": "cursáveis",
+    "3p": "cursavam"
+  },
+  "PPSI": {
+    "1s": "cursei",
+    "2s": "cursaste",
+    "3s": "cursou",
+    "1p": "cursámos",
+    "2p": "cursastes",
+    "3p": "cursaram"
+  },
+  "PMQPSI": {
+    "1s": "cursara",
+    "2s": "cursaras",
+    "3s": "cursara",
+    "1p": "cursáramos",
+    "2p": "cursáreis",
+    "3p": "cursaram"
+  },
+  "FutSI": {
+    "1s": "cursarei",
+    "2s": "cursarás",
+    "3s": "cursará",
+    "1p": "cursaremos",
+    "2p": "cursareis",
+    "3p": "cursarão"
+  },
+  "CondS": {
+    "1s": "cursaria",
+    "2s": "cursarias",
+    "3s": "cursaria",
+    "1p": "cursaríamos",
+    "2p": "cursaríeis",
+    "3p": "cursariam"
+  },
+  "PresC": {
+    "1s": "curse",
+    "2s": "curses",
+    "3s": "curse",
+    "1p": "cursemos",
+    "2p": "curseis",
+    "3p": "cursem"
+  },
+  "PImpC": {
+    "1s": "cursasse",
+    "2s": "cursasses",
+    "3s": "cursasse",
+    "1p": "cursássemos",
+    "2p": "cursásseis",
+    "3p": "cursassem"
+  },
+  "FutSC": {
+    "1s": "cursar",
+    "2s": "cursares",
+    "3s": "cursar",
+    "1p": "cursarmos",
+    "2p": "cursardes",
+    "3p": "cursarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cursa",
+    "3s": "curse",
+    "1p": "cursemos",
+    "2p": "cursai",
+    "3p": "cursem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não curses",
+    "3s": "não curse",
+    "1p": "não cursemos",
+    "2p": "não curseis",
+    "3p": "não cursem"
+  },
+  "Part-ter": {
+    "": "cursado"
+  },
+  "Part-ser": {
+    "ms": "cursado",
+    "fs": "cursada",
+    "mp": "cursados",
+    "fp": "cursadas"
+  }
+}

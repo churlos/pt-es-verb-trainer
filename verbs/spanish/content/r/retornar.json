@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retornar"
+  },
+  "Ger": {
+    "": "retornando"
+  },
+  "PresI": {
+    "1s": "retorno",
+    "2s": "retornas",
+    "3s": "retorna",
+    "1p": "retornamos",
+    "2p": "retornáis",
+    "3p": "retornan"
+  },
+  "PImpI": {
+    "1s": "retornaba",
+    "2s": "retornabas",
+    "3s": "retornaba",
+    "1p": "retornábamos",
+    "2p": "retornabais",
+    "3p": "retornaban"
+  },
+  "PPSI": {
+    "1s": "retorné",
+    "2s": "retornaste",
+    "3s": "retornó",
+    "1p": "retornamos",
+    "2p": "retornasteis",
+    "3p": "retornaron"
+  },
+  "FutSI": {
+    "1s": "retornaré",
+    "2s": "retornarás",
+    "3s": "retornará",
+    "1p": "retornaremos",
+    "2p": "retornaréis",
+    "3p": "retornarán"
+  },
+  "CondS": {
+    "1s": "retornaría",
+    "2s": "retornarías",
+    "3s": "retornaría",
+    "1p": "retornaríamos",
+    "2p": "retornaríais",
+    "3p": "retornarían"
+  },
+  "PresC": {
+    "1s": "retorne",
+    "2s": "retornes",
+    "3s": "retorne",
+    "1p": "retornemos",
+    "2p": "retornéis",
+    "3p": "retornen"
+  },
+  "PMQPSI": {
+    "1s": "retornara",
+    "2s": "retornaras",
+    "3s": "retornara",
+    "1p": "retornáramos",
+    "2p": "retornarais",
+    "3p": "retornaran"
+  },
+  "PImpC": {
+    "1s": "retornase",
+    "2s": "retornases",
+    "3s": "retornase",
+    "1p": "retornásemos",
+    "2p": "retornaseis",
+    "3p": "retornasen"
+  },
+  "FutSC": {
+    "1s": "retornare",
+    "2s": "retornares",
+    "3s": "retornare",
+    "1p": "retornáremos",
+    "2p": "retornareis",
+    "3p": "retornaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retorna",
+    "3s": "retorne",
+    "1p": "retornemos",
+    "2p": "retornad",
+    "3p": "retornen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retornes",
+    "3s": "no retorne",
+    "1p": "no retornemos",
+    "2p": "no retornéis",
+    "3p": "no retornen"
+  },
+  "Part-ter": {
+    "": "retornado"
+  },
+  "Part-ser": {
+    "ms": "retornado",
+    "fs": "retornada",
+    "mp": "retornados",
+    "fp": "retornadas"
+  }
+}

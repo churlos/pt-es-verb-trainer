@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "provisionar"
+  },
+  "Ger": {
+    "": "provisionando"
+  },
+  "PresI": {
+    "1s": "provisiono",
+    "2s": "provisionas",
+    "3s": "provisiona",
+    "1p": "provisionamos",
+    "2p": "provisionáis",
+    "3p": "provisionan"
+  },
+  "PImpI": {
+    "1s": "provisionaba",
+    "2s": "provisionabas",
+    "3s": "provisionaba",
+    "1p": "provisionábamos",
+    "2p": "provisionabais",
+    "3p": "provisionaban"
+  },
+  "PPSI": {
+    "1s": "provisioné",
+    "2s": "provisionaste",
+    "3s": "provisionó",
+    "1p": "provisionamos",
+    "2p": "provisionasteis",
+    "3p": "provisionaron"
+  },
+  "FutSI": {
+    "1s": "provisionaré",
+    "2s": "provisionarás",
+    "3s": "provisionará",
+    "1p": "provisionaremos",
+    "2p": "provisionaréis",
+    "3p": "provisionarán"
+  },
+  "CondS": {
+    "1s": "provisionaría",
+    "2s": "provisionarías",
+    "3s": "provisionaría",
+    "1p": "provisionaríamos",
+    "2p": "provisionaríais",
+    "3p": "provisionarían"
+  },
+  "PresC": {
+    "1s": "provisione",
+    "2s": "provisiones",
+    "3s": "provisione",
+    "1p": "provisionemos",
+    "2p": "provisionéis",
+    "3p": "provisionen"
+  },
+  "PMQPSI": {
+    "1s": "provisionara",
+    "2s": "provisionaras",
+    "3s": "provisionara",
+    "1p": "provisionáramos",
+    "2p": "provisionarais",
+    "3p": "provisionaran"
+  },
+  "PImpC": {
+    "1s": "provisionase",
+    "2s": "provisionases",
+    "3s": "provisionase",
+    "1p": "provisionásemos",
+    "2p": "provisionaseis",
+    "3p": "provisionasen"
+  },
+  "FutSC": {
+    "1s": "provisionare",
+    "2s": "provisionares",
+    "3s": "provisionare",
+    "1p": "provisionáremos",
+    "2p": "provisionareis",
+    "3p": "provisionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "provisiona",
+    "3s": "provisione",
+    "1p": "provisionemos",
+    "2p": "provisionad",
+    "3p": "provisionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no provisiones",
+    "3s": "no provisione",
+    "1p": "no provisionemos",
+    "2p": "no provisionéis",
+    "3p": "no provisionen"
+  },
+  "Part-ter": {
+    "": "provisionado"
+  },
+  "Part-ser": {
+    "ms": "provisionado",
+    "fs": "provisionada",
+    "mp": "provisionados",
+    "fp": "provisionadas"
+  }
+}

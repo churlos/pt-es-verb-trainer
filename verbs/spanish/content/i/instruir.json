@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "instruir"
+  },
+  "Ger": {
+    "": "instruyendo"
+  },
+  "PresI": {
+    "1s": "instruyo",
+    "2s": "instruyes",
+    "3s": "instruye",
+    "1p": "instruimos",
+    "2p": "instruís",
+    "3p": "instruyen"
+  },
+  "PImpI": {
+    "1s": "instruía",
+    "2s": "instruías",
+    "3s": "instruía",
+    "1p": "instruíamos",
+    "2p": "instruíais",
+    "3p": "instruían"
+  },
+  "PPSI": {
+    "1s": "instruí",
+    "2s": "instruiste",
+    "3s": "instruyó",
+    "1p": "instruimos",
+    "2p": "instruisteis",
+    "3p": "instruyeron"
+  },
+  "FutSI": {
+    "1s": "instruiré",
+    "2s": "instruirás",
+    "3s": "instruirá",
+    "1p": "instruiremos",
+    "2p": "instruiréis",
+    "3p": "instruirán"
+  },
+  "CondS": {
+    "1s": "instruiría",
+    "2s": "instruirías",
+    "3s": "instruiría",
+    "1p": "instruiríamos",
+    "2p": "instruiríais",
+    "3p": "instruirían"
+  },
+  "PresC": {
+    "1s": "instruya",
+    "2s": "instruyas",
+    "3s": "instruya",
+    "1p": "instruyamos",
+    "2p": "instruyáis",
+    "3p": "instruyan"
+  },
+  "PMQPSI": {
+    "1s": "instruyera",
+    "2s": "instruyeras",
+    "3s": "instruyera",
+    "1p": "instruyéramos",
+    "2p": "instruyerais",
+    "3p": "instruyeran"
+  },
+  "PImpC": {
+    "1s": "instruyese",
+    "2s": "instruyeses",
+    "3s": "instruyese",
+    "1p": "instruyésemos",
+    "2p": "instruyeseis",
+    "3p": "instruyesen"
+  },
+  "FutSC": {
+    "1s": "instruyere",
+    "2s": "instruyeres",
+    "3s": "instruyere",
+    "1p": "instruyéremos",
+    "2p": "instruyereis",
+    "3p": "instruyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "instruye",
+    "3s": "instruya",
+    "1p": "instruyamos",
+    "2p": "instruid",
+    "3p": "instruyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no instruyas",
+    "3s": "no instruya",
+    "1p": "no instruyamos",
+    "2p": "no instruyáis",
+    "3p": "no instruyan"
+  },
+  "Part-ter": {
+    "": "instruido"
+  },
+  "Part-ser": {
+    "ms": "instruido",
+    "fs": "instruida",
+    "mp": "instruidos",
+    "fp": "instruidas"
+  }
+}

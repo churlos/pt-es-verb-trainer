@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vulnerar"
+  },
+  "InfP": {
+    "1s": "vulnerar",
+    "2s": "vulnerares",
+    "3s": "vulnerar",
+    "1p": "vulnerarmos",
+    "2p": "vulnerardes",
+    "3p": "vulnerarem"
+  },
+  "Ger": {
+    "": "vulnerando"
+  },
+  "PresI": {
+    "1s": "vulnero",
+    "2s": "vulneras",
+    "3s": "vulnera",
+    "1p": "vulneramos",
+    "2p": "vulnerais",
+    "3p": "vulneram"
+  },
+  "PImpI": {
+    "1s": "vulnerava",
+    "2s": "vulneravas",
+    "3s": "vulnerava",
+    "1p": "vulnerávamos",
+    "2p": "vulneráveis",
+    "3p": "vulneravam"
+  },
+  "PPSI": {
+    "1s": "vulnerei",
+    "2s": "vulneraste",
+    "3s": "vulnerou",
+    "1p": "vulnerámos",
+    "2p": "vulnerastes",
+    "3p": "vulneraram"
+  },
+  "PMQPSI": {
+    "1s": "vulnerara",
+    "2s": "vulneraras",
+    "3s": "vulnerara",
+    "1p": "vulneráramos",
+    "2p": "vulneráreis",
+    "3p": "vulneraram"
+  },
+  "FutSI": {
+    "1s": "vulnerarei",
+    "2s": "vulnerarás",
+    "3s": "vulnerará",
+    "1p": "vulneraremos",
+    "2p": "vulnerareis",
+    "3p": "vulnerarão"
+  },
+  "CondS": {
+    "1s": "vulneraria",
+    "2s": "vulnerarias",
+    "3s": "vulneraria",
+    "1p": "vulneraríamos",
+    "2p": "vulneraríeis",
+    "3p": "vulnerariam"
+  },
+  "PresC": {
+    "1s": "vulnere",
+    "2s": "vulneres",
+    "3s": "vulnere",
+    "1p": "vulneremos",
+    "2p": "vulnereis",
+    "3p": "vulnerem"
+  },
+  "PImpC": {
+    "1s": "vulnerasse",
+    "2s": "vulnerasses",
+    "3s": "vulnerasse",
+    "1p": "vulnerássemos",
+    "2p": "vulnerásseis",
+    "3p": "vulnerassem"
+  },
+  "FutSC": {
+    "1s": "vulnerar",
+    "2s": "vulnerares",
+    "3s": "vulnerar",
+    "1p": "vulnerarmos",
+    "2p": "vulnerardes",
+    "3p": "vulnerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vulnera",
+    "3s": "vulnere",
+    "1p": "vulneremos",
+    "2p": "vulnerai",
+    "3p": "vulnerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vulneres",
+    "3s": "não vulnere",
+    "1p": "não vulneremos",
+    "2p": "não vulnereis",
+    "3p": "não vulnerem"
+  },
+  "Part-ter": {
+    "": "vulnerado"
+  },
+  "Part-ser": {
+    "ms": "vulnerado",
+    "fs": "vulnerada",
+    "mp": "vulnerados",
+    "fp": "vulneradas"
+  }
+}

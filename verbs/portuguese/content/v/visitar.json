@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "visitar"
+  },
+  "InfP": {
+    "1s": "visitar",
+    "2s": "visitares",
+    "3s": "visitar",
+    "1p": "visitarmos",
+    "2p": "visitardes",
+    "3p": "visitarem"
+  },
+  "Ger": {
+    "": "visitando"
+  },
+  "PresI": {
+    "1s": "visito",
+    "2s": "visitas",
+    "3s": "visita",
+    "1p": "visitamos",
+    "2p": "visitais",
+    "3p": "visitam"
+  },
+  "PImpI": {
+    "1s": "visitava",
+    "2s": "visitavas",
+    "3s": "visitava",
+    "1p": "visitávamos",
+    "2p": "visitáveis",
+    "3p": "visitavam"
+  },
+  "PPSI": {
+    "1s": "visitei",
+    "2s": "visitaste",
+    "3s": "visitou",
+    "1p": "visitámos",
+    "2p": "visitastes",
+    "3p": "visitaram"
+  },
+  "PMQPSI": {
+    "1s": "visitara",
+    "2s": "visitaras",
+    "3s": "visitara",
+    "1p": "visitáramos",
+    "2p": "visitáreis",
+    "3p": "visitaram"
+  },
+  "FutSI": {
+    "1s": "visitarei",
+    "2s": "visitarás",
+    "3s": "visitará",
+    "1p": "visitaremos",
+    "2p": "visitareis",
+    "3p": "visitarão"
+  },
+  "CondS": {
+    "1s": "visitaria",
+    "2s": "visitarias",
+    "3s": "visitaria",
+    "1p": "visitaríamos",
+    "2p": "visitaríeis",
+    "3p": "visitariam"
+  },
+  "PresC": {
+    "1s": "visite",
+    "2s": "visites",
+    "3s": "visite",
+    "1p": "visitemos",
+    "2p": "visiteis",
+    "3p": "visitem"
+  },
+  "PImpC": {
+    "1s": "visitasse",
+    "2s": "visitasses",
+    "3s": "visitasse",
+    "1p": "visitássemos",
+    "2p": "visitásseis",
+    "3p": "visitassem"
+  },
+  "FutSC": {
+    "1s": "visitar",
+    "2s": "visitares",
+    "3s": "visitar",
+    "1p": "visitarmos",
+    "2p": "visitardes",
+    "3p": "visitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "visita",
+    "3s": "visite",
+    "1p": "visitemos",
+    "2p": "visitai",
+    "3p": "visitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não visites",
+    "3s": "não visite",
+    "1p": "não visitemos",
+    "2p": "não visiteis",
+    "3p": "não visitem"
+  },
+  "Part-ter": {
+    "": "visitado"
+  },
+  "Part-ser": {
+    "ms": "visitado",
+    "fs": "visitada",
+    "mp": "visitados",
+    "fp": "visitadas"
+  }
+}

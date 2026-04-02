@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descontar"
+  },
+  "Ger": {
+    "": "descontando"
+  },
+  "PresI": {
+    "1s": "descuento",
+    "2s": "descuentas",
+    "3s": "descuenta",
+    "1p": "descontamos",
+    "2p": "descontáis",
+    "3p": "descuentan"
+  },
+  "PImpI": {
+    "1s": "descontaba",
+    "2s": "descontabas",
+    "3s": "descontaba",
+    "1p": "descontábamos",
+    "2p": "descontabais",
+    "3p": "descontaban"
+  },
+  "PPSI": {
+    "1s": "desconté",
+    "2s": "descontaste",
+    "3s": "descontó",
+    "1p": "descontamos",
+    "2p": "descontasteis",
+    "3p": "descontaron"
+  },
+  "FutSI": {
+    "1s": "descontaré",
+    "2s": "descontarás",
+    "3s": "descontará",
+    "1p": "descontaremos",
+    "2p": "descontaréis",
+    "3p": "descontarán"
+  },
+  "CondS": {
+    "1s": "descontaría",
+    "2s": "descontarías",
+    "3s": "descontaría",
+    "1p": "descontaríamos",
+    "2p": "descontaríais",
+    "3p": "descontarían"
+  },
+  "PresC": {
+    "1s": "descuente",
+    "2s": "descuentes",
+    "3s": "descuente",
+    "1p": "descontemos",
+    "2p": "descontéis",
+    "3p": "descuenten"
+  },
+  "PMQPSI": {
+    "1s": "descontara",
+    "2s": "descontaras",
+    "3s": "descontara",
+    "1p": "descontáramos",
+    "2p": "descontarais",
+    "3p": "descontaran"
+  },
+  "PImpC": {
+    "1s": "descontase",
+    "2s": "descontases",
+    "3s": "descontase",
+    "1p": "descontásemos",
+    "2p": "descontaseis",
+    "3p": "descontasen"
+  },
+  "FutSC": {
+    "1s": "descontare",
+    "2s": "descontares",
+    "3s": "descontare",
+    "1p": "descontáremos",
+    "2p": "descontareis",
+    "3p": "descontaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descuenta",
+    "3s": "descuente",
+    "1p": "descontemos",
+    "2p": "descontad",
+    "3p": "descuenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no descuentes",
+    "3s": "no descuente",
+    "1p": "no descontemos",
+    "2p": "no descontéis",
+    "3p": "no descuenten"
+  },
+  "Part-ter": {
+    "": "descontado"
+  },
+  "Part-ser": {
+    "ms": "descontado",
+    "fs": "descontada",
+    "mp": "descontados",
+    "fp": "descontadas"
+  }
+}

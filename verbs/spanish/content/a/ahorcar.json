@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ahorcar"
+  },
+  "Ger": {
+    "": "ahorcando"
+  },
+  "PresI": {
+    "1s": "ahorco",
+    "2s": "ahorcas",
+    "3s": "ahorca",
+    "1p": "ahorcamos",
+    "2p": "ahorcáis",
+    "3p": "ahorcan"
+  },
+  "PImpI": {
+    "1s": "ahorcaba",
+    "2s": "ahorcabas",
+    "3s": "ahorcaba",
+    "1p": "ahorcábamos",
+    "2p": "ahorcabais",
+    "3p": "ahorcaban"
+  },
+  "PPSI": {
+    "1s": "ahorqué",
+    "2s": "ahorcaste",
+    "3s": "ahorcó",
+    "1p": "ahorcamos",
+    "2p": "ahorcasteis",
+    "3p": "ahorcaron"
+  },
+  "FutSI": {
+    "1s": "ahorcaré",
+    "2s": "ahorcarás",
+    "3s": "ahorcará",
+    "1p": "ahorcaremos",
+    "2p": "ahorcaréis",
+    "3p": "ahorcarán"
+  },
+  "CondS": {
+    "1s": "ahorcaría",
+    "2s": "ahorcarías",
+    "3s": "ahorcaría",
+    "1p": "ahorcaríamos",
+    "2p": "ahorcaríais",
+    "3p": "ahorcarían"
+  },
+  "PresC": {
+    "1s": "ahorque",
+    "2s": "ahorques",
+    "3s": "ahorque",
+    "1p": "ahorquemos",
+    "2p": "ahorquéis",
+    "3p": "ahorquen"
+  },
+  "PMQPSI": {
+    "1s": "ahorcara",
+    "2s": "ahorcaras",
+    "3s": "ahorcara",
+    "1p": "ahorcáramos",
+    "2p": "ahorcarais",
+    "3p": "ahorcaran"
+  },
+  "PImpC": {
+    "1s": "ahorcase",
+    "2s": "ahorcases",
+    "3s": "ahorcase",
+    "1p": "ahorcásemos",
+    "2p": "ahorcaseis",
+    "3p": "ahorcasen"
+  },
+  "FutSC": {
+    "1s": "ahorcare",
+    "2s": "ahorcares",
+    "3s": "ahorcare",
+    "1p": "ahorcáremos",
+    "2p": "ahorcareis",
+    "3p": "ahorcaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ahorca",
+    "3s": "ahorque",
+    "1p": "ahorquemos",
+    "2p": "ahorcad",
+    "3p": "ahorquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ahorques",
+    "3s": "no ahorque",
+    "1p": "no ahorquemos",
+    "2p": "no ahorquéis",
+    "3p": "no ahorquen"
+  },
+  "Part-ter": {
+    "": "ahorcado"
+  },
+  "Part-ser": {
+    "ms": "ahorcado",
+    "fs": "ahorcada",
+    "mp": "ahorcados",
+    "fp": "ahorcadas"
+  }
+}

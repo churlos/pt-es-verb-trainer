@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "levantar"
+  },
+  "Ger": {
+    "": "levantando"
+  },
+  "PresI": {
+    "1s": "levanto",
+    "2s": "levantas",
+    "3s": "levanta",
+    "1p": "levantamos",
+    "2p": "levantáis",
+    "3p": "levantan"
+  },
+  "PImpI": {
+    "1s": "levantaba",
+    "2s": "levantabas",
+    "3s": "levantaba",
+    "1p": "levantábamos",
+    "2p": "levantabais",
+    "3p": "levantaban"
+  },
+  "PPSI": {
+    "1s": "levanté",
+    "2s": "levantaste",
+    "3s": "levantó",
+    "1p": "levantamos",
+    "2p": "levantasteis",
+    "3p": "levantaron"
+  },
+  "FutSI": {
+    "1s": "levantaré",
+    "2s": "levantarás",
+    "3s": "levantará",
+    "1p": "levantaremos",
+    "2p": "levantaréis",
+    "3p": "levantarán"
+  },
+  "CondS": {
+    "1s": "levantaría",
+    "2s": "levantarías",
+    "3s": "levantaría",
+    "1p": "levantaríamos",
+    "2p": "levantaríais",
+    "3p": "levantarían"
+  },
+  "PresC": {
+    "1s": "levante",
+    "2s": "levantes",
+    "3s": "levante",
+    "1p": "levantemos",
+    "2p": "levantéis",
+    "3p": "levanten"
+  },
+  "PMQPSI": {
+    "1s": "levantara",
+    "2s": "levantaras",
+    "3s": "levantara",
+    "1p": "levantáramos",
+    "2p": "levantarais",
+    "3p": "levantaran"
+  },
+  "PImpC": {
+    "1s": "levantase",
+    "2s": "levantases",
+    "3s": "levantase",
+    "1p": "levantásemos",
+    "2p": "levantaseis",
+    "3p": "levantasen"
+  },
+  "FutSC": {
+    "1s": "levantare",
+    "2s": "levantares",
+    "3s": "levantare",
+    "1p": "levantáremos",
+    "2p": "levantareis",
+    "3p": "levantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "levanta",
+    "3s": "levante",
+    "1p": "levantemos",
+    "2p": "levantad",
+    "3p": "levanten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no levantes",
+    "3s": "no levante",
+    "1p": "no levantemos",
+    "2p": "no levantéis",
+    "3p": "no levanten"
+  },
+  "Part-ter": {
+    "": "levantado"
+  },
+  "Part-ser": {
+    "ms": "levantado",
+    "fs": "levantada",
+    "mp": "levantados",
+    "fp": "levantadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "compilar"
+  },
+  "Ger": {
+    "": "compilando"
+  },
+  "PresI": {
+    "1s": "compilo",
+    "2s": "compilas",
+    "3s": "compila",
+    "1p": "compilamos",
+    "2p": "compiláis",
+    "3p": "compilan"
+  },
+  "PImpI": {
+    "1s": "compilaba",
+    "2s": "compilabas",
+    "3s": "compilaba",
+    "1p": "compilábamos",
+    "2p": "compilabais",
+    "3p": "compilaban"
+  },
+  "PPSI": {
+    "1s": "compilé",
+    "2s": "compilaste",
+    "3s": "compiló",
+    "1p": "compilamos",
+    "2p": "compilasteis",
+    "3p": "compilaron"
+  },
+  "FutSI": {
+    "1s": "compilaré",
+    "2s": "compilarás",
+    "3s": "compilará",
+    "1p": "compilaremos",
+    "2p": "compilaréis",
+    "3p": "compilarán"
+  },
+  "CondS": {
+    "1s": "compilaría",
+    "2s": "compilarías",
+    "3s": "compilaría",
+    "1p": "compilaríamos",
+    "2p": "compilaríais",
+    "3p": "compilarían"
+  },
+  "PresC": {
+    "1s": "compile",
+    "2s": "compiles",
+    "3s": "compile",
+    "1p": "compilemos",
+    "2p": "compiléis",
+    "3p": "compilen"
+  },
+  "PMQPSI": {
+    "1s": "compilara",
+    "2s": "compilaras",
+    "3s": "compilara",
+    "1p": "compiláramos",
+    "2p": "compilarais",
+    "3p": "compilaran"
+  },
+  "PImpC": {
+    "1s": "compilase",
+    "2s": "compilases",
+    "3s": "compilase",
+    "1p": "compilásemos",
+    "2p": "compilaseis",
+    "3p": "compilasen"
+  },
+  "FutSC": {
+    "1s": "compilare",
+    "2s": "compilares",
+    "3s": "compilare",
+    "1p": "compiláremos",
+    "2p": "compilareis",
+    "3p": "compilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compila",
+    "3s": "compile",
+    "1p": "compilemos",
+    "2p": "compilad",
+    "3p": "compilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no compiles",
+    "3s": "no compile",
+    "1p": "no compilemos",
+    "2p": "no compiléis",
+    "3p": "no compilen"
+  },
+  "Part-ter": {
+    "": "compilado"
+  },
+  "Part-ser": {
+    "ms": "compilado",
+    "fs": "compilada",
+    "mp": "compilados",
+    "fp": "compiladas"
+  }
+}

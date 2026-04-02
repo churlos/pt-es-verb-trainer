@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "computar"
+  },
+  "InfP": {
+    "1s": "computar",
+    "2s": "computares",
+    "3s": "computar",
+    "1p": "computarmos",
+    "2p": "computardes",
+    "3p": "computarem"
+  },
+  "Ger": {
+    "": "computando"
+  },
+  "PresI": {
+    "1s": "computo",
+    "2s": "computas",
+    "3s": "computa",
+    "1p": "computamos",
+    "2p": "computais",
+    "3p": "computam"
+  },
+  "PImpI": {
+    "1s": "computava",
+    "2s": "computavas",
+    "3s": "computava",
+    "1p": "computávamos",
+    "2p": "computáveis",
+    "3p": "computavam"
+  },
+  "PPSI": {
+    "1s": "computei",
+    "2s": "computaste",
+    "3s": "computou",
+    "1p": "computámos",
+    "2p": "computastes",
+    "3p": "computaram"
+  },
+  "PMQPSI": {
+    "1s": "computara",
+    "2s": "computaras",
+    "3s": "computara",
+    "1p": "computáramos",
+    "2p": "computáreis",
+    "3p": "computaram"
+  },
+  "FutSI": {
+    "1s": "computarei",
+    "2s": "computarás",
+    "3s": "computará",
+    "1p": "computaremos",
+    "2p": "computareis",
+    "3p": "computarão"
+  },
+  "CondS": {
+    "1s": "computaria",
+    "2s": "computarias",
+    "3s": "computaria",
+    "1p": "computaríamos",
+    "2p": "computaríeis",
+    "3p": "computariam"
+  },
+  "PresC": {
+    "1s": "compute",
+    "2s": "computes",
+    "3s": "compute",
+    "1p": "computemos",
+    "2p": "computeis",
+    "3p": "computem"
+  },
+  "PImpC": {
+    "1s": "computasse",
+    "2s": "computasses",
+    "3s": "computasse",
+    "1p": "computássemos",
+    "2p": "computásseis",
+    "3p": "computassem"
+  },
+  "FutSC": {
+    "1s": "computar",
+    "2s": "computares",
+    "3s": "computar",
+    "1p": "computarmos",
+    "2p": "computardes",
+    "3p": "computarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "computa",
+    "3s": "compute",
+    "1p": "computemos",
+    "2p": "computai",
+    "3p": "computem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não computes",
+    "3s": "não compute",
+    "1p": "não computemos",
+    "2p": "não computeis",
+    "3p": "não computem"
+  },
+  "Part-ter": {
+    "": "computado"
+  },
+  "Part-ser": {
+    "ms": "computado",
+    "fs": "computada",
+    "mp": "computados",
+    "fp": "computadas"
+  }
+}

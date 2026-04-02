@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "maiuscular"
+  },
+  "InfP": {
+    "1s": "maiuscular",
+    "2s": "maiusculares",
+    "3s": "maiuscular",
+    "1p": "maiuscularmos",
+    "2p": "maiusculardes",
+    "3p": "maiuscularem"
+  },
+  "Ger": {
+    "": "maiusculando"
+  },
+  "PresI": {
+    "1s": "maiusculo",
+    "2s": "maiusculas",
+    "3s": "maiuscula",
+    "1p": "maiusculamos",
+    "2p": "maiusculais",
+    "3p": "maiusculam"
+  },
+  "PImpI": {
+    "1s": "maiusculava",
+    "2s": "maiusculavas",
+    "3s": "maiusculava",
+    "1p": "maiusculávamos",
+    "2p": "maiusculáveis",
+    "3p": "maiusculavam"
+  },
+  "PPSI": {
+    "1s": "maiusculei",
+    "2s": "maiusculaste",
+    "3s": "maiusculou",
+    "1p": "maiusculámos",
+    "2p": "maiusculastes",
+    "3p": "maiuscularam"
+  },
+  "PMQPSI": {
+    "1s": "maiusculara",
+    "2s": "maiuscularas",
+    "3s": "maiusculara",
+    "1p": "maiusculáramos",
+    "2p": "maiusculáreis",
+    "3p": "maiuscularam"
+  },
+  "FutSI": {
+    "1s": "maiuscularei",
+    "2s": "maiuscularás",
+    "3s": "maiusculará",
+    "1p": "maiuscularemos",
+    "2p": "maiusculareis",
+    "3p": "maiuscularão"
+  },
+  "CondS": {
+    "1s": "maiuscularia",
+    "2s": "maiuscularias",
+    "3s": "maiuscularia",
+    "1p": "maiuscularíamos",
+    "2p": "maiuscularíeis",
+    "3p": "maiusculariam"
+  },
+  "PresC": {
+    "1s": "maiuscule",
+    "2s": "maiuscules",
+    "3s": "maiuscule",
+    "1p": "maiusculemos",
+    "2p": "maiusculeis",
+    "3p": "maiusculem"
+  },
+  "PImpC": {
+    "1s": "maiusculasse",
+    "2s": "maiusculasses",
+    "3s": "maiusculasse",
+    "1p": "maiusculássemos",
+    "2p": "maiusculásseis",
+    "3p": "maiusculassem"
+  },
+  "FutSC": {
+    "1s": "maiuscular",
+    "2s": "maiusculares",
+    "3s": "maiuscular",
+    "1p": "maiuscularmos",
+    "2p": "maiusculardes",
+    "3p": "maiuscularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maiuscula",
+    "3s": "maiuscule",
+    "1p": "maiusculemos",
+    "2p": "maiusculai",
+    "3p": "maiusculem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não maiuscules",
+    "3s": "não maiuscule",
+    "1p": "não maiusculemos",
+    "2p": "não maiusculeis",
+    "3p": "não maiusculem"
+  },
+  "Part-ter": {
+    "": "maiusculado"
+  },
+  "Part-ser": {
+    "ms": "maiusculado",
+    "fs": "maiusculada",
+    "mp": "maiusculados",
+    "fp": "maiusculadas"
+  }
+}

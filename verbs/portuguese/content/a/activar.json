@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "activar"
+  },
+  "InfP": {
+    "1s": "activar",
+    "2s": "activares",
+    "3s": "activar",
+    "1p": "activarmos",
+    "2p": "activardes",
+    "3p": "activarem"
+  },
+  "Ger": {
+    "": "activando"
+  },
+  "PresI": {
+    "1s": "activo",
+    "2s": "activas",
+    "3s": "activa",
+    "1p": "activamos",
+    "2p": "activais",
+    "3p": "activam"
+  },
+  "PImpI": {
+    "1s": "activava",
+    "2s": "activavas",
+    "3s": "activava",
+    "1p": "activávamos",
+    "2p": "activáveis",
+    "3p": "activavam"
+  },
+  "PPSI": {
+    "1s": "activei",
+    "2s": "activaste",
+    "3s": "activou",
+    "1p": "activámos",
+    "2p": "activastes",
+    "3p": "activaram"
+  },
+  "PMQPSI": {
+    "1s": "activara",
+    "2s": "activaras",
+    "3s": "activara",
+    "1p": "activáramos",
+    "2p": "activáreis",
+    "3p": "activaram"
+  },
+  "FutSI": {
+    "1s": "activarei",
+    "2s": "activarás",
+    "3s": "activará",
+    "1p": "activaremos",
+    "2p": "activareis",
+    "3p": "activarão"
+  },
+  "CondS": {
+    "1s": "activaria",
+    "2s": "activarias",
+    "3s": "activaria",
+    "1p": "activaríamos",
+    "2p": "activaríeis",
+    "3p": "activariam"
+  },
+  "PresC": {
+    "1s": "active",
+    "2s": "actives",
+    "3s": "active",
+    "1p": "activemos",
+    "2p": "activeis",
+    "3p": "activem"
+  },
+  "PImpC": {
+    "1s": "activasse",
+    "2s": "activasses",
+    "3s": "activasse",
+    "1p": "activássemos",
+    "2p": "activásseis",
+    "3p": "activassem"
+  },
+  "FutSC": {
+    "1s": "activar",
+    "2s": "activares",
+    "3s": "activar",
+    "1p": "activarmos",
+    "2p": "activardes",
+    "3p": "activarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "activa",
+    "3s": "active",
+    "1p": "activemos",
+    "2p": "activai",
+    "3p": "activem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não actives",
+    "3s": "não active",
+    "1p": "não activemos",
+    "2p": "não activeis",
+    "3p": "não activem"
+  },
+  "Part-ter": {
+    "": "activado"
+  },
+  "Part-ser": {
+    "ms": "activado",
+    "fs": "activada",
+    "mp": "activados",
+    "fp": "activadas"
+  }
+}

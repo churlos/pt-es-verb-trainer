@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "refrigerar"
+  },
+  "Ger": {
+    "": "refrigerando"
+  },
+  "PresI": {
+    "1s": "refrigero",
+    "2s": "refrigeras",
+    "3s": "refrigera",
+    "1p": "refrigeramos",
+    "2p": "refrigeráis",
+    "3p": "refrigeran"
+  },
+  "PImpI": {
+    "1s": "refrigeraba",
+    "2s": "refrigerabas",
+    "3s": "refrigeraba",
+    "1p": "refrigerábamos",
+    "2p": "refrigerabais",
+    "3p": "refrigeraban"
+  },
+  "PPSI": {
+    "1s": "refrigeré",
+    "2s": "refrigeraste",
+    "3s": "refrigeró",
+    "1p": "refrigeramos",
+    "2p": "refrigerasteis",
+    "3p": "refrigeraron"
+  },
+  "FutSI": {
+    "1s": "refrigeraré",
+    "2s": "refrigerarás",
+    "3s": "refrigerará",
+    "1p": "refrigeraremos",
+    "2p": "refrigeraréis",
+    "3p": "refrigerarán"
+  },
+  "CondS": {
+    "1s": "refrigeraría",
+    "2s": "refrigerarías",
+    "3s": "refrigeraría",
+    "1p": "refrigeraríamos",
+    "2p": "refrigeraríais",
+    "3p": "refrigerarían"
+  },
+  "PresC": {
+    "1s": "refrigere",
+    "2s": "refrigeres",
+    "3s": "refrigere",
+    "1p": "refrigeremos",
+    "2p": "refrigeréis",
+    "3p": "refrigeren"
+  },
+  "PMQPSI": {
+    "1s": "refrigerara",
+    "2s": "refrigeraras",
+    "3s": "refrigerara",
+    "1p": "refrigeráramos",
+    "2p": "refrigerarais",
+    "3p": "refrigeraran"
+  },
+  "PImpC": {
+    "1s": "refrigerase",
+    "2s": "refrigerases",
+    "3s": "refrigerase",
+    "1p": "refrigerásemos",
+    "2p": "refrigeraseis",
+    "3p": "refrigerasen"
+  },
+  "FutSC": {
+    "1s": "refrigerare",
+    "2s": "refrigerares",
+    "3s": "refrigerare",
+    "1p": "refrigeráremos",
+    "2p": "refrigerareis",
+    "3p": "refrigeraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "refrigera",
+    "3s": "refrigere",
+    "1p": "refrigeremos",
+    "2p": "refrigerad",
+    "3p": "refrigeren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no refrigeres",
+    "3s": "no refrigere",
+    "1p": "no refrigeremos",
+    "2p": "no refrigeréis",
+    "3p": "no refrigeren"
+  },
+  "Part-ter": {
+    "": "refrigerado"
+  },
+  "Part-ser": {
+    "ms": "refrigerado",
+    "fs": "refrigerada",
+    "mp": "refrigerados",
+    "fp": "refrigeradas"
+  }
+}

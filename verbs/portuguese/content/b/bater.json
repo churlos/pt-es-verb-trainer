@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bater"
+  },
+  "InfP": {
+    "1s": "bater",
+    "2s": "bateres",
+    "3s": "bater",
+    "1p": "batermos",
+    "2p": "baterdes",
+    "3p": "baterem"
+  },
+  "Ger": {
+    "": "batendo"
+  },
+  "PresI": {
+    "1s": "bato",
+    "2s": "bates",
+    "3s": "bate",
+    "1p": "batemos",
+    "2p": "bateis",
+    "3p": "batem"
+  },
+  "PImpI": {
+    "1s": "batia",
+    "2s": "batias",
+    "3s": "batia",
+    "1p": "batíamos",
+    "2p": "batíeis",
+    "3p": "batiam"
+  },
+  "PPSI": {
+    "1s": "bati",
+    "2s": "bateste",
+    "3s": "bateu",
+    "1p": "batemos",
+    "2p": "batestes",
+    "3p": "bateram"
+  },
+  "PMQPSI": {
+    "1s": "batera",
+    "2s": "bateras",
+    "3s": "batera",
+    "1p": "batêramos",
+    "2p": "batêreis",
+    "3p": "bateram"
+  },
+  "FutSI": {
+    "1s": "baterei",
+    "2s": "baterás",
+    "3s": "baterá",
+    "1p": "bateremos",
+    "2p": "batereis",
+    "3p": "baterão"
+  },
+  "CondS": {
+    "1s": "bateria",
+    "2s": "baterias",
+    "3s": "bateria",
+    "1p": "bateríamos",
+    "2p": "bateríeis",
+    "3p": "bateriam"
+  },
+  "PresC": {
+    "1s": "bata",
+    "2s": "batas",
+    "3s": "bata",
+    "1p": "batamos",
+    "2p": "batais",
+    "3p": "batam"
+  },
+  "PImpC": {
+    "1s": "batesse",
+    "2s": "batesses",
+    "3s": "batesse",
+    "1p": "batêssemos",
+    "2p": "batêsseis",
+    "3p": "batessem"
+  },
+  "FutSC": {
+    "1s": "bater",
+    "2s": "bateres",
+    "3s": "bater",
+    "1p": "batermos",
+    "2p": "baterdes",
+    "3p": "baterem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bate",
+    "3s": "bata",
+    "1p": "batamos",
+    "2p": "batei",
+    "3p": "batam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não batas",
+    "3s": "não bata",
+    "1p": "não batamos",
+    "2p": "não batais",
+    "3p": "não batam"
+  },
+  "Part-ter": {
+    "": "batido"
+  },
+  "Part-ser": {
+    "ms": "batido",
+    "fs": "batida",
+    "mp": "batidos",
+    "fp": "batidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "automedicarse"
+  },
+  "Ger": {
+    "": "automedicándose"
+  },
+  "PresI": {
+    "1s": "me automedico",
+    "2s": "te automedicas",
+    "3s": "se automedica",
+    "1p": "nos automedicamos",
+    "2p": "os automedicáis",
+    "3p": "se automedican"
+  },
+  "PImpI": {
+    "1s": "me automedicaba",
+    "2s": "te automedicabas",
+    "3s": "se automedicaba",
+    "1p": "nos automedicábamos",
+    "2p": "os automedicabais",
+    "3p": "se automedicaban"
+  },
+  "PPSI": {
+    "1s": "me automediqué",
+    "2s": "te automedicaste",
+    "3s": "se automedicó",
+    "1p": "nos automedicamos",
+    "2p": "os automedicasteis",
+    "3p": "se automedicaron"
+  },
+  "FutSI": {
+    "1s": "me automedicaré",
+    "2s": "te automedicarás",
+    "3s": "se automedicará",
+    "1p": "nos automedicaremos",
+    "2p": "os automedicaréis",
+    "3p": "se automedicarán"
+  },
+  "CondS": {
+    "1s": "me automedicaría",
+    "2s": "te automedicarías",
+    "3s": "se automedicaría",
+    "1p": "nos automedicaríamos",
+    "2p": "os automedicaríais",
+    "3p": "se automedicarían"
+  },
+  "PresC": {
+    "1s": "me automedique",
+    "2s": "te automediques",
+    "3s": "se automedique",
+    "1p": "nos automediquemos",
+    "2p": "os automediquéis",
+    "3p": "se automediquen"
+  },
+  "PMQPSI": {
+    "1s": "me automedicara",
+    "2s": "te automedicaras",
+    "3s": "se automedicara",
+    "1p": "nos automedicáramos",
+    "2p": "os automedicarais",
+    "3p": "se automedicaran"
+  },
+  "PImpC": {
+    "1s": "me automedicase",
+    "2s": "te automedicases",
+    "3s": "se automedicase",
+    "1p": "nos automedicásemos",
+    "2p": "os automedicaseis",
+    "3p": "se automedicasen"
+  },
+  "FutSC": {
+    "1s": "me automedicare",
+    "2s": "te automedicares",
+    "3s": "se automedicare",
+    "1p": "nos automedicáremos",
+    "2p": "os automedicareis",
+    "3p": "se automedicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "automedícate",
+    "3s": "automedíquese",
+    "1p": "automediquémonos",
+    "2p": "automedicaos",
+    "3p": "automedíquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te automediques",
+    "3s": "no se automedique",
+    "1p": "no nos automediquemos",
+    "2p": "no os automediquéis",
+    "3p": "no se automediquen"
+  },
+  "Part-ter": {
+    "": "automedicado"
+  },
+  "Part-ser": {
+    "ms": "automedicado",
+    "fs": "automedicada",
+    "mp": "automedicados",
+    "fp": "automedicadas"
+  }
+}

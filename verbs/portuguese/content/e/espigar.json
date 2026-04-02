@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "espigar"
+  },
+  "InfP": {
+    "1s": "espigar",
+    "2s": "espigares",
+    "3s": "espigar",
+    "1p": "espigarmos",
+    "2p": "espigardes",
+    "3p": "espigarem"
+  },
+  "Ger": {
+    "": "espigando"
+  },
+  "PresI": {
+    "1s": "espigo",
+    "2s": "espigas",
+    "3s": "espiga",
+    "1p": "espigamos",
+    "2p": "espigais",
+    "3p": "espigam"
+  },
+  "PImpI": {
+    "1s": "espigava",
+    "2s": "espigavas",
+    "3s": "espigava",
+    "1p": "espigávamos",
+    "2p": "espigáveis",
+    "3p": "espigavam"
+  },
+  "PPSI": {
+    "1s": "espiguei",
+    "2s": "espigaste",
+    "3s": "espigou",
+    "1p": "espigámos",
+    "2p": "espigastes",
+    "3p": "espigaram"
+  },
+  "PMQPSI": {
+    "1s": "espigara",
+    "2s": "espigaras",
+    "3s": "espigara",
+    "1p": "espigáramos",
+    "2p": "espigáreis",
+    "3p": "espigaram"
+  },
+  "FutSI": {
+    "1s": "espigarei",
+    "2s": "espigarás",
+    "3s": "espigará",
+    "1p": "espigaremos",
+    "2p": "espigareis",
+    "3p": "espigarão"
+  },
+  "CondS": {
+    "1s": "espigaria",
+    "2s": "espigarias",
+    "3s": "espigaria",
+    "1p": "espigaríamos",
+    "2p": "espigaríeis",
+    "3p": "espigariam"
+  },
+  "PresC": {
+    "1s": "espigue",
+    "2s": "espigues",
+    "3s": "espigue",
+    "1p": "espiguemos",
+    "2p": "espigueis",
+    "3p": "espiguem"
+  },
+  "PImpC": {
+    "1s": "espigasse",
+    "2s": "espigasses",
+    "3s": "espigasse",
+    "1p": "espigássemos",
+    "2p": "espigásseis",
+    "3p": "espigassem"
+  },
+  "FutSC": {
+    "1s": "espigar",
+    "2s": "espigares",
+    "3s": "espigar",
+    "1p": "espigarmos",
+    "2p": "espigardes",
+    "3p": "espigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espiga",
+    "3s": "espigue",
+    "1p": "espiguemos",
+    "2p": "espigai",
+    "3p": "espiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não espigues",
+    "3s": "não espigue",
+    "1p": "não espiguemos",
+    "2p": "não espigueis",
+    "3p": "não espiguem"
+  },
+  "Part-ter": {
+    "": "espigado"
+  },
+  "Part-ser": {
+    "ms": "espigado",
+    "fs": "espigada",
+    "mp": "espigados",
+    "fp": "espigadas"
+  }
+}

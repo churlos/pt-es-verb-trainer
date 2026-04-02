@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emigrar"
+  },
+  "InfP": {
+    "1s": "emigrar",
+    "2s": "emigrares",
+    "3s": "emigrar",
+    "1p": "emigrarmos",
+    "2p": "emigrardes",
+    "3p": "emigrarem"
+  },
+  "Ger": {
+    "": "emigrando"
+  },
+  "PresI": {
+    "1s": "emigro",
+    "2s": "emigras",
+    "3s": "emigra",
+    "1p": "emigramos",
+    "2p": "emigrais",
+    "3p": "emigram"
+  },
+  "PImpI": {
+    "1s": "emigrava",
+    "2s": "emigravas",
+    "3s": "emigrava",
+    "1p": "emigrávamos",
+    "2p": "emigráveis",
+    "3p": "emigravam"
+  },
+  "PPSI": {
+    "1s": "emigrei",
+    "2s": "emigraste",
+    "3s": "emigrou",
+    "1p": "emigrámos",
+    "2p": "emigrastes",
+    "3p": "emigraram"
+  },
+  "PMQPSI": {
+    "1s": "emigrara",
+    "2s": "emigraras",
+    "3s": "emigrara",
+    "1p": "emigráramos",
+    "2p": "emigráreis",
+    "3p": "emigraram"
+  },
+  "FutSI": {
+    "1s": "emigrarei",
+    "2s": "emigrarás",
+    "3s": "emigrará",
+    "1p": "emigraremos",
+    "2p": "emigrareis",
+    "3p": "emigrarão"
+  },
+  "CondS": {
+    "1s": "emigraria",
+    "2s": "emigrarias",
+    "3s": "emigraria",
+    "1p": "emigraríamos",
+    "2p": "emigraríeis",
+    "3p": "emigrariam"
+  },
+  "PresC": {
+    "1s": "emigre",
+    "2s": "emigres",
+    "3s": "emigre",
+    "1p": "emigremos",
+    "2p": "emigreis",
+    "3p": "emigrem"
+  },
+  "PImpC": {
+    "1s": "emigrasse",
+    "2s": "emigrasses",
+    "3s": "emigrasse",
+    "1p": "emigrássemos",
+    "2p": "emigrásseis",
+    "3p": "emigrassem"
+  },
+  "FutSC": {
+    "1s": "emigrar",
+    "2s": "emigrares",
+    "3s": "emigrar",
+    "1p": "emigrarmos",
+    "2p": "emigrardes",
+    "3p": "emigrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emigra",
+    "3s": "emigre",
+    "1p": "emigremos",
+    "2p": "emigrai",
+    "3p": "emigrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emigres",
+    "3s": "não emigre",
+    "1p": "não emigremos",
+    "2p": "não emigreis",
+    "3p": "não emigrem"
+  },
+  "Part-ter": {
+    "": "emigrado"
+  },
+  "Part-ser": {
+    "ms": "emigrado",
+    "fs": "emigrada",
+    "mp": "emigrados",
+    "fp": "emigradas"
+  }
+}

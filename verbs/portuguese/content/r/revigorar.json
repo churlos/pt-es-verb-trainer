@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "revigorar"
+  },
+  "InfP": {
+    "1s": "revigorar",
+    "2s": "revigorares",
+    "3s": "revigorar",
+    "1p": "revigorarmos",
+    "2p": "revigorardes",
+    "3p": "revigorarem"
+  },
+  "Ger": {
+    "": "revigorando"
+  },
+  "PresI": {
+    "1s": "revigoro",
+    "2s": "revigoras",
+    "3s": "revigora",
+    "1p": "revigoramos",
+    "2p": "revigorais",
+    "3p": "revigoram"
+  },
+  "PImpI": {
+    "1s": "revigorava",
+    "2s": "revigoravas",
+    "3s": "revigorava",
+    "1p": "revigorávamos",
+    "2p": "revigoráveis",
+    "3p": "revigoravam"
+  },
+  "PPSI": {
+    "1s": "revigorei",
+    "2s": "revigoraste",
+    "3s": "revigorou",
+    "1p": "revigorámos",
+    "2p": "revigorastes",
+    "3p": "revigoraram"
+  },
+  "PMQPSI": {
+    "1s": "revigorara",
+    "2s": "revigoraras",
+    "3s": "revigorara",
+    "1p": "revigoráramos",
+    "2p": "revigoráreis",
+    "3p": "revigoraram"
+  },
+  "FutSI": {
+    "1s": "revigorarei",
+    "2s": "revigorarás",
+    "3s": "revigorará",
+    "1p": "revigoraremos",
+    "2p": "revigorareis",
+    "3p": "revigorarão"
+  },
+  "CondS": {
+    "1s": "revigoraria",
+    "2s": "revigorarias",
+    "3s": "revigoraria",
+    "1p": "revigoraríamos",
+    "2p": "revigoraríeis",
+    "3p": "revigorariam"
+  },
+  "PresC": {
+    "1s": "revigore",
+    "2s": "revigores",
+    "3s": "revigore",
+    "1p": "revigoremos",
+    "2p": "revigoreis",
+    "3p": "revigorem"
+  },
+  "PImpC": {
+    "1s": "revigorasse",
+    "2s": "revigorasses",
+    "3s": "revigorasse",
+    "1p": "revigorássemos",
+    "2p": "revigorásseis",
+    "3p": "revigorassem"
+  },
+  "FutSC": {
+    "1s": "revigorar",
+    "2s": "revigorares",
+    "3s": "revigorar",
+    "1p": "revigorarmos",
+    "2p": "revigorardes",
+    "3p": "revigorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revigora",
+    "3s": "revigore",
+    "1p": "revigoremos",
+    "2p": "revigorai",
+    "3p": "revigorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não revigores",
+    "3s": "não revigore",
+    "1p": "não revigoremos",
+    "2p": "não revigoreis",
+    "3p": "não revigorem"
+  },
+  "Part-ter": {
+    "": "revigorado"
+  },
+  "Part-ser": {
+    "ms": "revigorado",
+    "fs": "revigorada",
+    "mp": "revigorados",
+    "fp": "revigoradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bojar"
+  },
+  "InfP": {
+    "1s": "bojar",
+    "2s": "bojares",
+    "3s": "bojar",
+    "1p": "bojarmos",
+    "2p": "bojardes",
+    "3p": "bojarem"
+  },
+  "Ger": {
+    "": "bojando"
+  },
+  "PresI": {
+    "1s": "bojo",
+    "2s": "bojas",
+    "3s": "boja",
+    "1p": "bojamos",
+    "2p": "bojais",
+    "3p": "bojam"
+  },
+  "PImpI": {
+    "1s": "bojava",
+    "2s": "bojavas",
+    "3s": "bojava",
+    "1p": "bojávamos",
+    "2p": "bojáveis",
+    "3p": "bojavam"
+  },
+  "PPSI": {
+    "1s": "bojei",
+    "2s": "bojaste",
+    "3s": "bojou",
+    "1p": "bojámos",
+    "2p": "bojastes",
+    "3p": "bojaram"
+  },
+  "PMQPSI": {
+    "1s": "bojara",
+    "2s": "bojaras",
+    "3s": "bojara",
+    "1p": "bojáramos",
+    "2p": "bojáreis",
+    "3p": "bojaram"
+  },
+  "FutSI": {
+    "1s": "bojarei",
+    "2s": "bojarás",
+    "3s": "bojará",
+    "1p": "bojaremos",
+    "2p": "bojareis",
+    "3p": "bojarão"
+  },
+  "CondS": {
+    "1s": "bojaria",
+    "2s": "bojarias",
+    "3s": "bojaria",
+    "1p": "bojaríamos",
+    "2p": "bojaríeis",
+    "3p": "bojariam"
+  },
+  "PresC": {
+    "1s": "boje",
+    "2s": "bojes",
+    "3s": "boje",
+    "1p": "bojemos",
+    "2p": "bojeis",
+    "3p": "bojem"
+  },
+  "PImpC": {
+    "1s": "bojasse",
+    "2s": "bojasses",
+    "3s": "bojasse",
+    "1p": "bojássemos",
+    "2p": "bojásseis",
+    "3p": "bojassem"
+  },
+  "FutSC": {
+    "1s": "bojar",
+    "2s": "bojares",
+    "3s": "bojar",
+    "1p": "bojarmos",
+    "2p": "bojardes",
+    "3p": "bojarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "boja",
+    "3s": "boje",
+    "1p": "bojemos",
+    "2p": "bojai",
+    "3p": "bojem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bojes",
+    "3s": "não boje",
+    "1p": "não bojemos",
+    "2p": "não bojeis",
+    "3p": "não bojem"
+  },
+  "Part-ter": {
+    "": "bojado"
+  },
+  "Part-ser": {
+    "ms": "bojado",
+    "fs": "bojada",
+    "mp": "bojados",
+    "fp": "bojadas"
+  }
+}

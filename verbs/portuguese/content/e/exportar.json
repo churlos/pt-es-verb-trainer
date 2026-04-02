@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exportar"
+  },
+  "InfP": {
+    "1s": "exportar",
+    "2s": "exportares",
+    "3s": "exportar",
+    "1p": "exportarmos",
+    "2p": "exportardes",
+    "3p": "exportarem"
+  },
+  "Ger": {
+    "": "exportando"
+  },
+  "PresI": {
+    "1s": "exporto",
+    "2s": "exportas",
+    "3s": "exporta",
+    "1p": "exportamos",
+    "2p": "exportais",
+    "3p": "exportam"
+  },
+  "PImpI": {
+    "1s": "exportava",
+    "2s": "exportavas",
+    "3s": "exportava",
+    "1p": "exportávamos",
+    "2p": "exportáveis",
+    "3p": "exportavam"
+  },
+  "PPSI": {
+    "1s": "exportei",
+    "2s": "exportaste",
+    "3s": "exportou",
+    "1p": "exportámos",
+    "2p": "exportastes",
+    "3p": "exportaram"
+  },
+  "PMQPSI": {
+    "1s": "exportara",
+    "2s": "exportaras",
+    "3s": "exportara",
+    "1p": "exportáramos",
+    "2p": "exportáreis",
+    "3p": "exportaram"
+  },
+  "FutSI": {
+    "1s": "exportarei",
+    "2s": "exportarás",
+    "3s": "exportará",
+    "1p": "exportaremos",
+    "2p": "exportareis",
+    "3p": "exportarão"
+  },
+  "CondS": {
+    "1s": "exportaria",
+    "2s": "exportarias",
+    "3s": "exportaria",
+    "1p": "exportaríamos",
+    "2p": "exportaríeis",
+    "3p": "exportariam"
+  },
+  "PresC": {
+    "1s": "exporte",
+    "2s": "exportes",
+    "3s": "exporte",
+    "1p": "exportemos",
+    "2p": "exporteis",
+    "3p": "exportem"
+  },
+  "PImpC": {
+    "1s": "exportasse",
+    "2s": "exportasses",
+    "3s": "exportasse",
+    "1p": "exportássemos",
+    "2p": "exportásseis",
+    "3p": "exportassem"
+  },
+  "FutSC": {
+    "1s": "exportar",
+    "2s": "exportares",
+    "3s": "exportar",
+    "1p": "exportarmos",
+    "2p": "exportardes",
+    "3p": "exportarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exporta",
+    "3s": "exporte",
+    "1p": "exportemos",
+    "2p": "exportai",
+    "3p": "exportem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exportes",
+    "3s": "não exporte",
+    "1p": "não exportemos",
+    "2p": "não exporteis",
+    "3p": "não exportem"
+  },
+  "Part-ter": {
+    "": "exportado"
+  },
+  "Part-ser": {
+    "ms": "exportado",
+    "fs": "exportada",
+    "mp": "exportados",
+    "fp": "exportadas"
+  }
+}

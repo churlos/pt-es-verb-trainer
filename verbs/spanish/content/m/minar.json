@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "minar"
+  },
+  "Ger": {
+    "": "minando"
+  },
+  "PresI": {
+    "1s": "mino",
+    "2s": "minas",
+    "3s": "mina",
+    "1p": "minamos",
+    "2p": "mináis",
+    "3p": "minan"
+  },
+  "PImpI": {
+    "1s": "minaba",
+    "2s": "minabas",
+    "3s": "minaba",
+    "1p": "minábamos",
+    "2p": "minabais",
+    "3p": "minaban"
+  },
+  "PPSI": {
+    "1s": "miné",
+    "2s": "minaste",
+    "3s": "minó",
+    "1p": "minamos",
+    "2p": "minasteis",
+    "3p": "minaron"
+  },
+  "FutSI": {
+    "1s": "minaré",
+    "2s": "minarás",
+    "3s": "minará",
+    "1p": "minaremos",
+    "2p": "minaréis",
+    "3p": "minarán"
+  },
+  "CondS": {
+    "1s": "minaría",
+    "2s": "minarías",
+    "3s": "minaría",
+    "1p": "minaríamos",
+    "2p": "minaríais",
+    "3p": "minarían"
+  },
+  "PresC": {
+    "1s": "mine",
+    "2s": "mines",
+    "3s": "mine",
+    "1p": "minemos",
+    "2p": "minéis",
+    "3p": "minen"
+  },
+  "PMQPSI": {
+    "1s": "minara",
+    "2s": "minaras",
+    "3s": "minara",
+    "1p": "mináramos",
+    "2p": "minarais",
+    "3p": "minaran"
+  },
+  "PImpC": {
+    "1s": "minase",
+    "2s": "minases",
+    "3s": "minase",
+    "1p": "minásemos",
+    "2p": "minaseis",
+    "3p": "minasen"
+  },
+  "FutSC": {
+    "1s": "minare",
+    "2s": "minares",
+    "3s": "minare",
+    "1p": "mináremos",
+    "2p": "minareis",
+    "3p": "minaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mina",
+    "3s": "mine",
+    "1p": "minemos",
+    "2p": "minad",
+    "3p": "minen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mines",
+    "3s": "no mine",
+    "1p": "no minemos",
+    "2p": "no minéis",
+    "3p": "no minen"
+  },
+  "Part-ter": {
+    "": "minado"
+  },
+  "Part-ser": {
+    "ms": "minado",
+    "fs": "minada",
+    "mp": "minados",
+    "fp": "minadas"
+  }
+}

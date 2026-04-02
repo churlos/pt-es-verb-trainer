@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "avançar"
+  },
+  "InfP": {
+    "1s": "avançar",
+    "2s": "avançares",
+    "3s": "avançar",
+    "1p": "avançarmos",
+    "2p": "avançardes",
+    "3p": "avançarem"
+  },
+  "Ger": {
+    "": "avançando"
+  },
+  "PresI": {
+    "1s": "avanço",
+    "2s": "avanças",
+    "3s": "avança",
+    "1p": "avançamos",
+    "2p": "avançais",
+    "3p": "avançam"
+  },
+  "PImpI": {
+    "1s": "avançava",
+    "2s": "avançavas",
+    "3s": "avançava",
+    "1p": "avançávamos",
+    "2p": "avançáveis",
+    "3p": "avançavam"
+  },
+  "PPSI": {
+    "1s": "avancei",
+    "2s": "avançaste",
+    "3s": "avançou",
+    "1p": "avançámos",
+    "2p": "avançastes",
+    "3p": "avançaram"
+  },
+  "PMQPSI": {
+    "1s": "avançara",
+    "2s": "avançaras",
+    "3s": "avançara",
+    "1p": "avançáramos",
+    "2p": "avançáreis",
+    "3p": "avançaram"
+  },
+  "FutSI": {
+    "1s": "avançarei",
+    "2s": "avançarás",
+    "3s": "avançará",
+    "1p": "avançaremos",
+    "2p": "avançareis",
+    "3p": "avançarão"
+  },
+  "CondS": {
+    "1s": "avançaria",
+    "2s": "avançarias",
+    "3s": "avançaria",
+    "1p": "avançaríamos",
+    "2p": "avançaríeis",
+    "3p": "avançariam"
+  },
+  "PresC": {
+    "1s": "avance",
+    "2s": "avances",
+    "3s": "avance",
+    "1p": "avancemos",
+    "2p": "avanceis",
+    "3p": "avancem"
+  },
+  "PImpC": {
+    "1s": "avançasse",
+    "2s": "avançasses",
+    "3s": "avançasse",
+    "1p": "avançássemos",
+    "2p": "avançásseis",
+    "3p": "avançassem"
+  },
+  "FutSC": {
+    "1s": "avançar",
+    "2s": "avançares",
+    "3s": "avançar",
+    "1p": "avançarmos",
+    "2p": "avançardes",
+    "3p": "avançarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "avança",
+    "3s": "avance",
+    "1p": "avancemos",
+    "2p": "avançai",
+    "3p": "avancem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não avances",
+    "3s": "não avance",
+    "1p": "não avancemos",
+    "2p": "não avanceis",
+    "3p": "não avancem"
+  },
+  "Part-ter": {
+    "": "avançado"
+  },
+  "Part-ser": {
+    "ms": "avançado",
+    "fs": "avançada",
+    "mp": "avançados",
+    "fp": "avançadas"
+  }
+}

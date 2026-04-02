@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pertenecerse"
+  },
+  "Ger": {
+    "": "perteneciéndose"
+  },
+  "PresI": {
+    "1s": "me pertenezco",
+    "2s": "te perteneces",
+    "3s": "se pertenece",
+    "1p": "nos pertenecemos",
+    "2p": "os pertenecéis",
+    "3p": "se pertenecen"
+  },
+  "PImpI": {
+    "1s": "me pertenecía",
+    "2s": "te pertenecías",
+    "3s": "se pertenecía",
+    "1p": "nos pertenecíamos",
+    "2p": "os pertenecíais",
+    "3p": "se pertenecían"
+  },
+  "PPSI": {
+    "1s": "me pertenecí",
+    "2s": "te perteneciste",
+    "3s": "se perteneció",
+    "1p": "nos pertenecimos",
+    "2p": "os pertenecisteis",
+    "3p": "se pertenecieron"
+  },
+  "FutSI": {
+    "1s": "me perteneceré",
+    "2s": "te pertenecerás",
+    "3s": "se pertenecerá",
+    "1p": "nos perteneceremos",
+    "2p": "os perteneceréis",
+    "3p": "se pertenecerán"
+  },
+  "CondS": {
+    "1s": "me pertenecería",
+    "2s": "te pertenecerías",
+    "3s": "se pertenecería",
+    "1p": "nos perteneceríamos",
+    "2p": "os perteneceríais",
+    "3p": "se pertenecerían"
+  },
+  "PresC": {
+    "1s": "me pertenezca",
+    "2s": "te pertenezcas",
+    "3s": "se pertenezca",
+    "1p": "nos pertenezcamos",
+    "2p": "os pertenezcáis",
+    "3p": "se pertenezcan"
+  },
+  "PMQPSI": {
+    "1s": "me perteneciera",
+    "2s": "te pertenecieras",
+    "3s": "se perteneciera",
+    "1p": "nos perteneciéramos",
+    "2p": "os pertenecierais",
+    "3p": "se pertenecieran"
+  },
+  "PImpC": {
+    "1s": "me perteneciese",
+    "2s": "te pertenecieses",
+    "3s": "se perteneciese",
+    "1p": "nos perteneciésemos",
+    "2p": "os pertenecieseis",
+    "3p": "se perteneciesen"
+  },
+  "FutSC": {
+    "1s": "me perteneciere",
+    "2s": "te pertenecieres",
+    "3s": "se perteneciere",
+    "1p": "nos perteneciéremos",
+    "2p": "os perteneciereis",
+    "3p": "se pertenecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pertenécete",
+    "3s": "pertenézcase",
+    "1p": "pertenezcámonos",
+    "2p": "perteneceos",
+    "3p": "pertenézcanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te pertenezcas",
+    "3s": "no se pertenezca",
+    "1p": "no nos pertenezcamos",
+    "2p": "no os pertenezcáis",
+    "3p": "no se pertenezcan"
+  },
+  "Part-ter": {
+    "": "pertenecido"
+  },
+  "Part-ser": {
+    "ms": "pertenecido",
+    "fs": "pertenecida",
+    "mp": "pertenecidos",
+    "fp": "pertenecidas"
+  }
+}

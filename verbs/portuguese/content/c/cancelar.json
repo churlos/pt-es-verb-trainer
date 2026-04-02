@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cancelar"
+  },
+  "InfP": {
+    "1s": "cancelar",
+    "2s": "cancelares",
+    "3s": "cancelar",
+    "1p": "cancelarmos",
+    "2p": "cancelardes",
+    "3p": "cancelarem"
+  },
+  "Ger": {
+    "": "cancelando"
+  },
+  "PresI": {
+    "1s": "cancelo",
+    "2s": "cancelas",
+    "3s": "cancela",
+    "1p": "cancelamos",
+    "2p": "cancelais",
+    "3p": "cancelam"
+  },
+  "PImpI": {
+    "1s": "cancelava",
+    "2s": "cancelavas",
+    "3s": "cancelava",
+    "1p": "cancelávamos",
+    "2p": "canceláveis",
+    "3p": "cancelavam"
+  },
+  "PPSI": {
+    "1s": "cancelei",
+    "2s": "cancelaste",
+    "3s": "cancelou",
+    "1p": "cancelámos",
+    "2p": "cancelastes",
+    "3p": "cancelaram"
+  },
+  "PMQPSI": {
+    "1s": "cancelara",
+    "2s": "cancelaras",
+    "3s": "cancelara",
+    "1p": "canceláramos",
+    "2p": "canceláreis",
+    "3p": "cancelaram"
+  },
+  "FutSI": {
+    "1s": "cancelarei",
+    "2s": "cancelarás",
+    "3s": "cancelará",
+    "1p": "cancelaremos",
+    "2p": "cancelareis",
+    "3p": "cancelarão"
+  },
+  "CondS": {
+    "1s": "cancelaria",
+    "2s": "cancelarias",
+    "3s": "cancelaria",
+    "1p": "cancelaríamos",
+    "2p": "cancelaríeis",
+    "3p": "cancelariam"
+  },
+  "PresC": {
+    "1s": "cancele",
+    "2s": "canceles",
+    "3s": "cancele",
+    "1p": "cancelemos",
+    "2p": "canceleis",
+    "3p": "cancelem"
+  },
+  "PImpC": {
+    "1s": "cancelasse",
+    "2s": "cancelasses",
+    "3s": "cancelasse",
+    "1p": "cancelássemos",
+    "2p": "cancelásseis",
+    "3p": "cancelassem"
+  },
+  "FutSC": {
+    "1s": "cancelar",
+    "2s": "cancelares",
+    "3s": "cancelar",
+    "1p": "cancelarmos",
+    "2p": "cancelardes",
+    "3p": "cancelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cancela",
+    "3s": "cancele",
+    "1p": "cancelemos",
+    "2p": "cancelai",
+    "3p": "cancelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não canceles",
+    "3s": "não cancele",
+    "1p": "não cancelemos",
+    "2p": "não canceleis",
+    "3p": "não cancelem"
+  },
+  "Part-ter": {
+    "": "cancelado"
+  },
+  "Part-ser": {
+    "ms": "cancelado",
+    "fs": "cancelada",
+    "mp": "cancelados",
+    "fp": "canceladas"
+  }
+}

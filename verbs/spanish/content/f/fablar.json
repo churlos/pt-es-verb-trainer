@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fablar"
+  },
+  "Ger": {
+    "": "fablando"
+  },
+  "PresI": {
+    "1s": "fablo",
+    "2s": "fablas",
+    "3s": "fabla",
+    "1p": "fablamos",
+    "2p": "fabláis",
+    "3p": "fablan"
+  },
+  "PImpI": {
+    "1s": "fablaba",
+    "2s": "fablabas",
+    "3s": "fablaba",
+    "1p": "fablábamos",
+    "2p": "fablabais",
+    "3p": "fablaban"
+  },
+  "PPSI": {
+    "1s": "fablé",
+    "2s": "fablaste",
+    "3s": "fabló",
+    "1p": "fablamos",
+    "2p": "fablasteis",
+    "3p": "fablaron"
+  },
+  "FutSI": {
+    "1s": "fablaré",
+    "2s": "fablarás",
+    "3s": "fablará",
+    "1p": "fablaremos",
+    "2p": "fablaréis",
+    "3p": "fablarán"
+  },
+  "CondS": {
+    "1s": "fablaría",
+    "2s": "fablarías",
+    "3s": "fablaría",
+    "1p": "fablaríamos",
+    "2p": "fablaríais",
+    "3p": "fablarían"
+  },
+  "PresC": {
+    "1s": "fable",
+    "2s": "fables",
+    "3s": "fable",
+    "1p": "fablemos",
+    "2p": "fabléis",
+    "3p": "fablen"
+  },
+  "PMQPSI": {
+    "1s": "fablara",
+    "2s": "fablaras",
+    "3s": "fablara",
+    "1p": "fabláramos",
+    "2p": "fablarais",
+    "3p": "fablaran"
+  },
+  "PImpC": {
+    "1s": "fablase",
+    "2s": "fablases",
+    "3s": "fablase",
+    "1p": "fablásemos",
+    "2p": "fablaseis",
+    "3p": "fablasen"
+  },
+  "FutSC": {
+    "1s": "fablare",
+    "2s": "fablares",
+    "3s": "fablare",
+    "1p": "fabláremos",
+    "2p": "fablareis",
+    "3p": "fablaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fabla",
+    "3s": "fable",
+    "1p": "fablemos",
+    "2p": "fablad",
+    "3p": "fablen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fables",
+    "3s": "no fable",
+    "1p": "no fablemos",
+    "2p": "no fabléis",
+    "3p": "no fablen"
+  },
+  "Part-ter": {
+    "": "fablado"
+  },
+  "Part-ser": {
+    "ms": "fablado",
+    "fs": "fablada",
+    "mp": "fablados",
+    "fp": "fabladas"
+  }
+}

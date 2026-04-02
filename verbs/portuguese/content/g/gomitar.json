@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gomitar"
+  },
+  "InfP": {
+    "1s": "gomitar",
+    "2s": "gomitares",
+    "3s": "gomitar",
+    "1p": "gomitarmos",
+    "2p": "gomitardes",
+    "3p": "gomitarem"
+  },
+  "Ger": {
+    "": "gomitando"
+  },
+  "PresI": {
+    "1s": "gomito",
+    "2s": "gomitas",
+    "3s": "gomita",
+    "1p": "gomitamos",
+    "2p": "gomitais",
+    "3p": "gomitam"
+  },
+  "PImpI": {
+    "1s": "gomitava",
+    "2s": "gomitavas",
+    "3s": "gomitava",
+    "1p": "gomitávamos",
+    "2p": "gomitáveis",
+    "3p": "gomitavam"
+  },
+  "PPSI": {
+    "1s": "gomitei",
+    "2s": "gomitaste",
+    "3s": "gomitou",
+    "1p": "gomitámos",
+    "2p": "gomitastes",
+    "3p": "gomitaram"
+  },
+  "PMQPSI": {
+    "1s": "gomitara",
+    "2s": "gomitaras",
+    "3s": "gomitara",
+    "1p": "gomitáramos",
+    "2p": "gomitáreis",
+    "3p": "gomitaram"
+  },
+  "FutSI": {
+    "1s": "gomitarei",
+    "2s": "gomitarás",
+    "3s": "gomitará",
+    "1p": "gomitaremos",
+    "2p": "gomitareis",
+    "3p": "gomitarão"
+  },
+  "CondS": {
+    "1s": "gomitaria",
+    "2s": "gomitarias",
+    "3s": "gomitaria",
+    "1p": "gomitaríamos",
+    "2p": "gomitaríeis",
+    "3p": "gomitariam"
+  },
+  "PresC": {
+    "1s": "gomite",
+    "2s": "gomites",
+    "3s": "gomite",
+    "1p": "gomitemos",
+    "2p": "gomiteis",
+    "3p": "gomitem"
+  },
+  "PImpC": {
+    "1s": "gomitasse",
+    "2s": "gomitasses",
+    "3s": "gomitasse",
+    "1p": "gomitássemos",
+    "2p": "gomitásseis",
+    "3p": "gomitassem"
+  },
+  "FutSC": {
+    "1s": "gomitar",
+    "2s": "gomitares",
+    "3s": "gomitar",
+    "1p": "gomitarmos",
+    "2p": "gomitardes",
+    "3p": "gomitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gomita",
+    "3s": "gomite",
+    "1p": "gomitemos",
+    "2p": "gomitai",
+    "3p": "gomitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gomites",
+    "3s": "não gomite",
+    "1p": "não gomitemos",
+    "2p": "não gomiteis",
+    "3p": "não gomitem"
+  },
+  "Part-ter": {
+    "": "gomitado"
+  },
+  "Part-ser": {
+    "ms": "gomitado",
+    "fs": "gomitada",
+    "mp": "gomitados",
+    "fp": "gomitadas"
+  }
+}

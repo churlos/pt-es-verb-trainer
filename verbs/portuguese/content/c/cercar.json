@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cercar"
+  },
+  "InfP": {
+    "1s": "cercar",
+    "2s": "cercares",
+    "3s": "cercar",
+    "1p": "cercarmos",
+    "2p": "cercardes",
+    "3p": "cercarem"
+  },
+  "Ger": {
+    "": "cercando"
+  },
+  "PresI": {
+    "1s": "cerco",
+    "2s": "cercas",
+    "3s": "cerca",
+    "1p": "cercamos",
+    "2p": "cercais",
+    "3p": "cercam"
+  },
+  "PImpI": {
+    "1s": "cercava",
+    "2s": "cercavas",
+    "3s": "cercava",
+    "1p": "cercávamos",
+    "2p": "cercáveis",
+    "3p": "cercavam"
+  },
+  "PPSI": {
+    "1s": "cerquei",
+    "2s": "cercaste",
+    "3s": "cercou",
+    "1p": "cercámos",
+    "2p": "cercastes",
+    "3p": "cercaram"
+  },
+  "PMQPSI": {
+    "1s": "cercara",
+    "2s": "cercaras",
+    "3s": "cercara",
+    "1p": "cercáramos",
+    "2p": "cercáreis",
+    "3p": "cercaram"
+  },
+  "FutSI": {
+    "1s": "cercarei",
+    "2s": "cercarás",
+    "3s": "cercará",
+    "1p": "cercaremos",
+    "2p": "cercareis",
+    "3p": "cercarão"
+  },
+  "CondS": {
+    "1s": "cercaria",
+    "2s": "cercarias",
+    "3s": "cercaria",
+    "1p": "cercaríamos",
+    "2p": "cercaríeis",
+    "3p": "cercariam"
+  },
+  "PresC": {
+    "1s": "cerque",
+    "2s": "cerques",
+    "3s": "cerque",
+    "1p": "cerquemos",
+    "2p": "cerqueis",
+    "3p": "cerquem"
+  },
+  "PImpC": {
+    "1s": "cercasse",
+    "2s": "cercasses",
+    "3s": "cercasse",
+    "1p": "cercássemos",
+    "2p": "cercásseis",
+    "3p": "cercassem"
+  },
+  "FutSC": {
+    "1s": "cercar",
+    "2s": "cercares",
+    "3s": "cercar",
+    "1p": "cercarmos",
+    "2p": "cercardes",
+    "3p": "cercarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cerca",
+    "3s": "cerque",
+    "1p": "cerquemos",
+    "2p": "cercai",
+    "3p": "cerquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cerques",
+    "3s": "não cerque",
+    "1p": "não cerquemos",
+    "2p": "não cerqueis",
+    "3p": "não cerquem"
+  },
+  "Part-ter": {
+    "": "cercado"
+  },
+  "Part-ser": {
+    "ms": "cercado",
+    "fs": "cercada",
+    "mp": "cercados",
+    "fp": "cercadas"
+  }
+}

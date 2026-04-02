@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "grilar"
+  },
+  "InfP": {
+    "1s": "grilar",
+    "2s": "grilares",
+    "3s": "grilar",
+    "1p": "grilarmos",
+    "2p": "grilardes",
+    "3p": "grilarem"
+  },
+  "Ger": {
+    "": "grilando"
+  },
+  "PresI": {
+    "1s": "grilo",
+    "2s": "grilas",
+    "3s": "grila",
+    "1p": "grilamos",
+    "2p": "grilais",
+    "3p": "grilam"
+  },
+  "PImpI": {
+    "1s": "grilava",
+    "2s": "grilavas",
+    "3s": "grilava",
+    "1p": "grilávamos",
+    "2p": "griláveis",
+    "3p": "grilavam"
+  },
+  "PPSI": {
+    "1s": "grilei",
+    "2s": "grilaste",
+    "3s": "grilou",
+    "1p": "grilámos",
+    "2p": "grilastes",
+    "3p": "grilaram"
+  },
+  "PMQPSI": {
+    "1s": "grilara",
+    "2s": "grilaras",
+    "3s": "grilara",
+    "1p": "griláramos",
+    "2p": "griláreis",
+    "3p": "grilaram"
+  },
+  "FutSI": {
+    "1s": "grilarei",
+    "2s": "grilarás",
+    "3s": "grilará",
+    "1p": "grilaremos",
+    "2p": "grilareis",
+    "3p": "grilarão"
+  },
+  "CondS": {
+    "1s": "grilaria",
+    "2s": "grilarias",
+    "3s": "grilaria",
+    "1p": "grilaríamos",
+    "2p": "grilaríeis",
+    "3p": "grilariam"
+  },
+  "PresC": {
+    "1s": "grile",
+    "2s": "griles",
+    "3s": "grile",
+    "1p": "grilemos",
+    "2p": "grileis",
+    "3p": "grilem"
+  },
+  "PImpC": {
+    "1s": "grilasse",
+    "2s": "grilasses",
+    "3s": "grilasse",
+    "1p": "grilássemos",
+    "2p": "grilásseis",
+    "3p": "grilassem"
+  },
+  "FutSC": {
+    "1s": "grilar",
+    "2s": "grilares",
+    "3s": "grilar",
+    "1p": "grilarmos",
+    "2p": "grilardes",
+    "3p": "grilarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grila",
+    "3s": "grile",
+    "1p": "grilemos",
+    "2p": "grilai",
+    "3p": "grilem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não griles",
+    "3s": "não grile",
+    "1p": "não grilemos",
+    "2p": "não grileis",
+    "3p": "não grilem"
+  },
+  "Part-ter": {
+    "": "grilado"
+  },
+  "Part-ser": {
+    "ms": "grilado",
+    "fs": "grilada",
+    "mp": "grilados",
+    "fp": "griladas"
+  }
+}

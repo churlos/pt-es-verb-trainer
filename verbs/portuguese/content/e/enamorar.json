@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enamorar"
+  },
+  "InfP": {
+    "1s": "enamorar",
+    "2s": "enamorares",
+    "3s": "enamorar",
+    "1p": "enamorarmos",
+    "2p": "enamorardes",
+    "3p": "enamorarem"
+  },
+  "Ger": {
+    "": "enamorando"
+  },
+  "PresI": {
+    "1s": "enamoro",
+    "2s": "enamoras",
+    "3s": "enamora",
+    "1p": "enamoramos",
+    "2p": "enamorais",
+    "3p": "enamoram"
+  },
+  "PImpI": {
+    "1s": "enamorava",
+    "2s": "enamoravas",
+    "3s": "enamorava",
+    "1p": "enamorávamos",
+    "2p": "enamoráveis",
+    "3p": "enamoravam"
+  },
+  "PPSI": {
+    "1s": "enamorei",
+    "2s": "enamoraste",
+    "3s": "enamorou",
+    "1p": "enamorámos",
+    "2p": "enamorastes",
+    "3p": "enamoraram"
+  },
+  "PMQPSI": {
+    "1s": "enamorara",
+    "2s": "enamoraras",
+    "3s": "enamorara",
+    "1p": "enamoráramos",
+    "2p": "enamoráreis",
+    "3p": "enamoraram"
+  },
+  "FutSI": {
+    "1s": "enamorarei",
+    "2s": "enamorarás",
+    "3s": "enamorará",
+    "1p": "enamoraremos",
+    "2p": "enamorareis",
+    "3p": "enamorarão"
+  },
+  "CondS": {
+    "1s": "enamoraria",
+    "2s": "enamorarias",
+    "3s": "enamoraria",
+    "1p": "enamoraríamos",
+    "2p": "enamoraríeis",
+    "3p": "enamorariam"
+  },
+  "PresC": {
+    "1s": "enamore",
+    "2s": "enamores",
+    "3s": "enamore",
+    "1p": "enamoremos",
+    "2p": "enamoreis",
+    "3p": "enamorem"
+  },
+  "PImpC": {
+    "1s": "enamorasse",
+    "2s": "enamorasses",
+    "3s": "enamorasse",
+    "1p": "enamorássemos",
+    "2p": "enamorásseis",
+    "3p": "enamorassem"
+  },
+  "FutSC": {
+    "1s": "enamorar",
+    "2s": "enamorares",
+    "3s": "enamorar",
+    "1p": "enamorarmos",
+    "2p": "enamorardes",
+    "3p": "enamorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enamora",
+    "3s": "enamore",
+    "1p": "enamoremos",
+    "2p": "enamorai",
+    "3p": "enamorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enamores",
+    "3s": "não enamore",
+    "1p": "não enamoremos",
+    "2p": "não enamoreis",
+    "3p": "não enamorem"
+  },
+  "Part-ter": {
+    "": "enamorado"
+  },
+  "Part-ser": {
+    "ms": "enamorado",
+    "fs": "enamorada",
+    "mp": "enamorados",
+    "fp": "enamoradas"
+  }
+}

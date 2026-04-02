@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gruñir"
+  },
+  "Ger": {
+    "": "gruñendo"
+  },
+  "PresI": {
+    "1s": "gruño",
+    "2s": "gruñes",
+    "3s": "gruñe",
+    "1p": "gruñimos",
+    "2p": "gruñís",
+    "3p": "gruñen"
+  },
+  "PImpI": {
+    "1s": "gruñía",
+    "2s": "gruñías",
+    "3s": "gruñía",
+    "1p": "gruñíamos",
+    "2p": "gruñíais",
+    "3p": "gruñían"
+  },
+  "PPSI": {
+    "1s": "gruñí",
+    "2s": "gruñiste",
+    "3s": "gruñó",
+    "1p": "gruñimos",
+    "2p": "gruñisteis",
+    "3p": "gruñeron"
+  },
+  "FutSI": {
+    "1s": "gruñiré",
+    "2s": "gruñirás",
+    "3s": "gruñirá",
+    "1p": "gruñiremos",
+    "2p": "gruñiréis",
+    "3p": "gruñirán"
+  },
+  "CondS": {
+    "1s": "gruñiría",
+    "2s": "gruñirías",
+    "3s": "gruñiría",
+    "1p": "gruñiríamos",
+    "2p": "gruñiríais",
+    "3p": "gruñirían"
+  },
+  "PresC": {
+    "1s": "gruña",
+    "2s": "gruñas",
+    "3s": "gruña",
+    "1p": "gruñamos",
+    "2p": "gruñáis",
+    "3p": "gruñan"
+  },
+  "PMQPSI": {
+    "1s": "gruñera",
+    "2s": "gruñeras",
+    "3s": "gruñera",
+    "1p": "gruñéramos",
+    "2p": "gruñerais",
+    "3p": "gruñeran"
+  },
+  "PImpC": {
+    "1s": "gruñese",
+    "2s": "gruñeses",
+    "3s": "gruñese",
+    "1p": "gruñésemos",
+    "2p": "gruñeseis",
+    "3p": "gruñesen"
+  },
+  "FutSC": {
+    "1s": "gruñere",
+    "2s": "gruñeres",
+    "3s": "gruñere",
+    "1p": "gruñéremos",
+    "2p": "gruñereis",
+    "3p": "gruñeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gruñe",
+    "3s": "gruña",
+    "1p": "gruñamos",
+    "2p": "gruñid",
+    "3p": "gruñan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gruñas",
+    "3s": "no gruña",
+    "1p": "no gruñamos",
+    "2p": "no gruñáis",
+    "3p": "no gruñan"
+  },
+  "Part-ter": {
+    "": "gruñido"
+  },
+  "Part-ser": {
+    "ms": "gruñido",
+    "fs": "gruñida",
+    "mp": "gruñidos",
+    "fp": "gruñidas"
+  }
+}

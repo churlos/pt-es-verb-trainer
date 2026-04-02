@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "joguetear"
+  },
+  "InfP": {
+    "1s": "joguetear",
+    "2s": "jogueteares",
+    "3s": "joguetear",
+    "1p": "joguetearmos",
+    "2p": "jogueteardes",
+    "3p": "joguetearem"
+  },
+  "Ger": {
+    "": "jogueteando"
+  },
+  "PresI": {
+    "1s": "jogueteio",
+    "2s": "jogueteias",
+    "3s": "jogueteia",
+    "1p": "jogueteamos",
+    "2p": "jogueteais",
+    "3p": "jogueteiam"
+  },
+  "PImpI": {
+    "1s": "jogueteava",
+    "2s": "jogueteavas",
+    "3s": "jogueteava",
+    "1p": "jogueteávamos",
+    "2p": "jogueteáveis",
+    "3p": "jogueteavam"
+  },
+  "PPSI": {
+    "1s": "jogueteei",
+    "2s": "jogueteaste",
+    "3s": "jogueteou",
+    "1p": "jogueteámos",
+    "2p": "jogueteastes",
+    "3p": "joguetearam"
+  },
+  "PMQPSI": {
+    "1s": "jogueteara",
+    "2s": "joguetearas",
+    "3s": "jogueteara",
+    "1p": "jogueteáramos",
+    "2p": "jogueteáreis",
+    "3p": "joguetearam"
+  },
+  "FutSI": {
+    "1s": "joguetearei",
+    "2s": "joguetearás",
+    "3s": "jogueteará",
+    "1p": "joguetearemos",
+    "2p": "jogueteareis",
+    "3p": "joguetearão"
+  },
+  "CondS": {
+    "1s": "joguetearia",
+    "2s": "joguetearias",
+    "3s": "joguetearia",
+    "1p": "joguetearíamos",
+    "2p": "joguetearíeis",
+    "3p": "jogueteariam"
+  },
+  "PresC": {
+    "1s": "jogueteie",
+    "2s": "jogueteies",
+    "3s": "jogueteie",
+    "1p": "jogueteemos",
+    "2p": "jogueteeis",
+    "3p": "jogueteiem"
+  },
+  "PImpC": {
+    "1s": "jogueteasse",
+    "2s": "jogueteasses",
+    "3s": "jogueteasse",
+    "1p": "jogueteássemos",
+    "2p": "jogueteásseis",
+    "3p": "jogueteassem"
+  },
+  "FutSC": {
+    "1s": "joguetear",
+    "2s": "jogueteares",
+    "3s": "joguetear",
+    "1p": "joguetearmos",
+    "2p": "jogueteardes",
+    "3p": "joguetearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jogueteia",
+    "3s": "jogueteie",
+    "1p": "jogueteemos",
+    "2p": "jogueteai",
+    "3p": "jogueteiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não jogueteies",
+    "3s": "não jogueteie",
+    "1p": "não jogueteemos",
+    "2p": "não jogueteeis",
+    "3p": "não jogueteiem"
+  },
+  "Part-ter": {
+    "": "jogueteado"
+  },
+  "Part-ser": {
+    "ms": "jogueteado",
+    "fs": "jogueteada",
+    "mp": "jogueteados",
+    "fp": "jogueteadas"
+  }
+}

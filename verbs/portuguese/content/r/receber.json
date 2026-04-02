@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "receber"
+  },
+  "InfP": {
+    "1s": "receber",
+    "2s": "receberes",
+    "3s": "receber",
+    "1p": "recebermos",
+    "2p": "receberdes",
+    "3p": "receberem"
+  },
+  "Ger": {
+    "": "recebendo"
+  },
+  "PresI": {
+    "1s": "recebo",
+    "2s": "recebes",
+    "3s": "recebe",
+    "1p": "recebemos",
+    "2p": "recebeis",
+    "3p": "recebem"
+  },
+  "PImpI": {
+    "1s": "recebia",
+    "2s": "recebias",
+    "3s": "recebia",
+    "1p": "recebíamos",
+    "2p": "recebíeis",
+    "3p": "recebiam"
+  },
+  "PPSI": {
+    "1s": "recebi",
+    "2s": "recebeste",
+    "3s": "recebeu",
+    "1p": "recebemos",
+    "2p": "recebestes",
+    "3p": "receberam"
+  },
+  "PMQPSI": {
+    "1s": "recebera",
+    "2s": "receberas",
+    "3s": "recebera",
+    "1p": "recebêramos",
+    "2p": "recebêreis",
+    "3p": "receberam"
+  },
+  "FutSI": {
+    "1s": "receberei",
+    "2s": "receberás",
+    "3s": "receberá",
+    "1p": "receberemos",
+    "2p": "recebereis",
+    "3p": "receberão"
+  },
+  "CondS": {
+    "1s": "receberia",
+    "2s": "receberias",
+    "3s": "receberia",
+    "1p": "receberíamos",
+    "2p": "receberíeis",
+    "3p": "receberiam"
+  },
+  "PresC": {
+    "1s": "receba",
+    "2s": "recebas",
+    "3s": "receba",
+    "1p": "recebamos",
+    "2p": "recebais",
+    "3p": "recebam"
+  },
+  "PImpC": {
+    "1s": "recebesse",
+    "2s": "recebesses",
+    "3s": "recebesse",
+    "1p": "recebêssemos",
+    "2p": "recebêsseis",
+    "3p": "recebessem"
+  },
+  "FutSC": {
+    "1s": "receber",
+    "2s": "receberes",
+    "3s": "receber",
+    "1p": "recebermos",
+    "2p": "receberdes",
+    "3p": "receberem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recebe",
+    "3s": "receba",
+    "1p": "recebamos",
+    "2p": "recebei",
+    "3p": "recebam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não recebas",
+    "3s": "não receba",
+    "1p": "não recebamos",
+    "2p": "não recebais",
+    "3p": "não recebam"
+  },
+  "Part-ter": {
+    "": "recebido"
+  },
+  "Part-ser": {
+    "ms": "recebido",
+    "fs": "recebida",
+    "mp": "recebidos",
+    "fp": "recebidas"
+  }
+}

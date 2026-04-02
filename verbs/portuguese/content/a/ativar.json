@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ativar"
+  },
+  "InfP": {
+    "1s": "ativar",
+    "2s": "ativares",
+    "3s": "ativar",
+    "1p": "ativarmos",
+    "2p": "ativardes",
+    "3p": "ativarem"
+  },
+  "Ger": {
+    "": "ativando"
+  },
+  "PresI": {
+    "1s": "ativo",
+    "2s": "ativas",
+    "3s": "ativa",
+    "1p": "ativamos",
+    "2p": "ativais",
+    "3p": "ativam"
+  },
+  "PImpI": {
+    "1s": "ativava",
+    "2s": "ativavas",
+    "3s": "ativava",
+    "1p": "ativávamos",
+    "2p": "ativáveis",
+    "3p": "ativavam"
+  },
+  "PPSI": {
+    "1s": "ativei",
+    "2s": "ativaste",
+    "3s": "ativou",
+    "1p": "ativámos",
+    "2p": "ativastes",
+    "3p": "ativaram"
+  },
+  "PMQPSI": {
+    "1s": "ativara",
+    "2s": "ativaras",
+    "3s": "ativara",
+    "1p": "ativáramos",
+    "2p": "ativáreis",
+    "3p": "ativaram"
+  },
+  "FutSI": {
+    "1s": "ativarei",
+    "2s": "ativarás",
+    "3s": "ativará",
+    "1p": "ativaremos",
+    "2p": "ativareis",
+    "3p": "ativarão"
+  },
+  "CondS": {
+    "1s": "ativaria",
+    "2s": "ativarias",
+    "3s": "ativaria",
+    "1p": "ativaríamos",
+    "2p": "ativaríeis",
+    "3p": "ativariam"
+  },
+  "PresC": {
+    "1s": "ative",
+    "2s": "atives",
+    "3s": "ative",
+    "1p": "ativemos",
+    "2p": "ativeis",
+    "3p": "ativem"
+  },
+  "PImpC": {
+    "1s": "ativasse",
+    "2s": "ativasses",
+    "3s": "ativasse",
+    "1p": "ativássemos",
+    "2p": "ativásseis",
+    "3p": "ativassem"
+  },
+  "FutSC": {
+    "1s": "ativar",
+    "2s": "ativares",
+    "3s": "ativar",
+    "1p": "ativarmos",
+    "2p": "ativardes",
+    "3p": "ativarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ativa",
+    "3s": "ative",
+    "1p": "ativemos",
+    "2p": "ativai",
+    "3p": "ativem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atives",
+    "3s": "não ative",
+    "1p": "não ativemos",
+    "2p": "não ativeis",
+    "3p": "não ativem"
+  },
+  "Part-ter": {
+    "": "ativado"
+  },
+  "Part-ser": {
+    "ms": "ativado",
+    "fs": "ativada",
+    "mp": "ativados",
+    "fp": "ativadas"
+  }
+}

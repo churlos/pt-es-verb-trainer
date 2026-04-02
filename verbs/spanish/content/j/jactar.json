@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jactar"
+  },
+  "Ger": {
+    "": "jactando"
+  },
+  "PresI": {
+    "1s": "jacto",
+    "2s": "jactas",
+    "3s": "jacta",
+    "1p": "jactamos",
+    "2p": "jactáis",
+    "3p": "jactan"
+  },
+  "PImpI": {
+    "1s": "jactaba",
+    "2s": "jactabas",
+    "3s": "jactaba",
+    "1p": "jactábamos",
+    "2p": "jactabais",
+    "3p": "jactaban"
+  },
+  "PPSI": {
+    "1s": "jacté",
+    "2s": "jactaste",
+    "3s": "jactó",
+    "1p": "jactamos",
+    "2p": "jactasteis",
+    "3p": "jactaron"
+  },
+  "FutSI": {
+    "1s": "jactaré",
+    "2s": "jactarás",
+    "3s": "jactará",
+    "1p": "jactaremos",
+    "2p": "jactaréis",
+    "3p": "jactarán"
+  },
+  "CondS": {
+    "1s": "jactaría",
+    "2s": "jactarías",
+    "3s": "jactaría",
+    "1p": "jactaríamos",
+    "2p": "jactaríais",
+    "3p": "jactarían"
+  },
+  "PresC": {
+    "1s": "jacte",
+    "2s": "jactes",
+    "3s": "jacte",
+    "1p": "jactemos",
+    "2p": "jactéis",
+    "3p": "jacten"
+  },
+  "PMQPSI": {
+    "1s": "jactara",
+    "2s": "jactaras",
+    "3s": "jactara",
+    "1p": "jactáramos",
+    "2p": "jactarais",
+    "3p": "jactaran"
+  },
+  "PImpC": {
+    "1s": "jactase",
+    "2s": "jactases",
+    "3s": "jactase",
+    "1p": "jactásemos",
+    "2p": "jactaseis",
+    "3p": "jactasen"
+  },
+  "FutSC": {
+    "1s": "jactare",
+    "2s": "jactares",
+    "3s": "jactare",
+    "1p": "jactáremos",
+    "2p": "jactareis",
+    "3p": "jactaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jacta",
+    "3s": "jacte",
+    "1p": "jactemos",
+    "2p": "jactad",
+    "3p": "jacten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no jactes",
+    "3s": "no jacte",
+    "1p": "no jactemos",
+    "2p": "no jactéis",
+    "3p": "no jacten"
+  },
+  "Part-ter": {
+    "": "jactado"
+  },
+  "Part-ser": {
+    "ms": "jactado",
+    "fs": "jactada",
+    "mp": "jactados",
+    "fp": "jactadas"
+  }
+}

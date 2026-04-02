@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "perecer"
+  },
+  "InfP": {
+    "1s": "perecer",
+    "2s": "pereceres",
+    "3s": "perecer",
+    "1p": "perecermos",
+    "2p": "perecerdes",
+    "3p": "perecerem"
+  },
+  "Ger": {
+    "": "perecendo"
+  },
+  "PresI": {
+    "1s": "pereço",
+    "2s": "pereces",
+    "3s": "perece",
+    "1p": "perecemos",
+    "2p": "pereceis",
+    "3p": "perecem"
+  },
+  "PImpI": {
+    "1s": "perecia",
+    "2s": "perecias",
+    "3s": "perecia",
+    "1p": "perecíamos",
+    "2p": "perecíeis",
+    "3p": "pereciam"
+  },
+  "PPSI": {
+    "1s": "pereci",
+    "2s": "pereceste",
+    "3s": "pereceu",
+    "1p": "perecemos",
+    "2p": "perecestes",
+    "3p": "pereceram"
+  },
+  "PMQPSI": {
+    "1s": "perecera",
+    "2s": "pereceras",
+    "3s": "perecera",
+    "1p": "perecêramos",
+    "2p": "perecêreis",
+    "3p": "pereceram"
+  },
+  "FutSI": {
+    "1s": "perecerei",
+    "2s": "perecerás",
+    "3s": "perecerá",
+    "1p": "pereceremos",
+    "2p": "perecereis",
+    "3p": "perecerão"
+  },
+  "CondS": {
+    "1s": "pereceria",
+    "2s": "perecerias",
+    "3s": "pereceria",
+    "1p": "pereceríamos",
+    "2p": "pereceríeis",
+    "3p": "pereceriam"
+  },
+  "PresC": {
+    "1s": "pereça",
+    "2s": "pereças",
+    "3s": "pereça",
+    "1p": "pereçamos",
+    "2p": "pereçais",
+    "3p": "pereçam"
+  },
+  "PImpC": {
+    "1s": "perecesse",
+    "2s": "perecesses",
+    "3s": "perecesse",
+    "1p": "perecêssemos",
+    "2p": "perecêsseis",
+    "3p": "perecessem"
+  },
+  "FutSC": {
+    "1s": "perecer",
+    "2s": "pereceres",
+    "3s": "perecer",
+    "1p": "perecermos",
+    "2p": "perecerdes",
+    "3p": "perecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perece",
+    "3s": "pereça",
+    "1p": "pereçamos",
+    "2p": "perecei",
+    "3p": "pereçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pereças",
+    "3s": "não pereça",
+    "1p": "não pereçamos",
+    "2p": "não pereçais",
+    "3p": "não pereçam"
+  },
+  "Part-ter": {
+    "": "perecido"
+  },
+  "Part-ser": {
+    "ms": "perecido",
+    "fs": "perecida",
+    "mp": "perecidos",
+    "fp": "perecidas"
+  }
+}

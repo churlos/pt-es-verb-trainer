@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ameaçar"
+  },
+  "InfP": {
+    "1s": "ameaçar",
+    "2s": "ameaçares",
+    "3s": "ameaçar",
+    "1p": "ameaçarmos",
+    "2p": "ameaçardes",
+    "3p": "ameaçarem"
+  },
+  "Ger": {
+    "": "ameaçando"
+  },
+  "PresI": {
+    "1s": "ameaço",
+    "2s": "ameaças",
+    "3s": "ameaça",
+    "1p": "ameaçamos",
+    "2p": "ameaçais",
+    "3p": "ameaçam"
+  },
+  "PImpI": {
+    "1s": "ameaçava",
+    "2s": "ameaçavas",
+    "3s": "ameaçava",
+    "1p": "ameaçávamos",
+    "2p": "ameaçáveis",
+    "3p": "ameaçavam"
+  },
+  "PPSI": {
+    "1s": "ameacei",
+    "2s": "ameaçaste",
+    "3s": "ameaçou",
+    "1p": "ameaçámos",
+    "2p": "ameaçastes",
+    "3p": "ameaçaram"
+  },
+  "PMQPSI": {
+    "1s": "ameaçara",
+    "2s": "ameaçaras",
+    "3s": "ameaçara",
+    "1p": "ameaçáramos",
+    "2p": "ameaçáreis",
+    "3p": "ameaçaram"
+  },
+  "FutSI": {
+    "1s": "ameaçarei",
+    "2s": "ameaçarás",
+    "3s": "ameaçará",
+    "1p": "ameaçaremos",
+    "2p": "ameaçareis",
+    "3p": "ameaçarão"
+  },
+  "CondS": {
+    "1s": "ameaçaria",
+    "2s": "ameaçarias",
+    "3s": "ameaçaria",
+    "1p": "ameaçaríamos",
+    "2p": "ameaçaríeis",
+    "3p": "ameaçariam"
+  },
+  "PresC": {
+    "1s": "ameace",
+    "2s": "ameaces",
+    "3s": "ameace",
+    "1p": "ameacemos",
+    "2p": "ameaceis",
+    "3p": "ameacem"
+  },
+  "PImpC": {
+    "1s": "ameaçasse",
+    "2s": "ameaçasses",
+    "3s": "ameaçasse",
+    "1p": "ameaçássemos",
+    "2p": "ameaçásseis",
+    "3p": "ameaçassem"
+  },
+  "FutSC": {
+    "1s": "ameaçar",
+    "2s": "ameaçares",
+    "3s": "ameaçar",
+    "1p": "ameaçarmos",
+    "2p": "ameaçardes",
+    "3p": "ameaçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ameaça",
+    "3s": "ameace",
+    "1p": "ameacemos",
+    "2p": "ameaçai",
+    "3p": "ameacem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ameaces",
+    "3s": "não ameace",
+    "1p": "não ameacemos",
+    "2p": "não ameaceis",
+    "3p": "não ameacem"
+  },
+  "Part-ter": {
+    "": "ameaçado"
+  },
+  "Part-ser": {
+    "ms": "ameaçado",
+    "fs": "ameaçada",
+    "mp": "ameaçados",
+    "fp": "ameaçadas"
+  }
+}

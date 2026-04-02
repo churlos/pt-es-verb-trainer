@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enrollar"
+  },
+  "Ger": {
+    "": "enrollando"
+  },
+  "PresI": {
+    "1s": "enrollo",
+    "2s": "enrollas",
+    "3s": "enrolla",
+    "1p": "enrollamos",
+    "2p": "enrolláis",
+    "3p": "enrollan"
+  },
+  "PImpI": {
+    "1s": "enrollaba",
+    "2s": "enrollabas",
+    "3s": "enrollaba",
+    "1p": "enrollábamos",
+    "2p": "enrollabais",
+    "3p": "enrollaban"
+  },
+  "PPSI": {
+    "1s": "enrollé",
+    "2s": "enrollaste",
+    "3s": "enrolló",
+    "1p": "enrollamos",
+    "2p": "enrollasteis",
+    "3p": "enrollaron"
+  },
+  "FutSI": {
+    "1s": "enrollaré",
+    "2s": "enrollarás",
+    "3s": "enrollará",
+    "1p": "enrollaremos",
+    "2p": "enrollaréis",
+    "3p": "enrollarán"
+  },
+  "CondS": {
+    "1s": "enrollaría",
+    "2s": "enrollarías",
+    "3s": "enrollaría",
+    "1p": "enrollaríamos",
+    "2p": "enrollaríais",
+    "3p": "enrollarían"
+  },
+  "PresC": {
+    "1s": "enrolle",
+    "2s": "enrolles",
+    "3s": "enrolle",
+    "1p": "enrollemos",
+    "2p": "enrolléis",
+    "3p": "enrollen"
+  },
+  "PMQPSI": {
+    "1s": "enrollara",
+    "2s": "enrollaras",
+    "3s": "enrollara",
+    "1p": "enrolláramos",
+    "2p": "enrollarais",
+    "3p": "enrollaran"
+  },
+  "PImpC": {
+    "1s": "enrollase",
+    "2s": "enrollases",
+    "3s": "enrollase",
+    "1p": "enrollásemos",
+    "2p": "enrollaseis",
+    "3p": "enrollasen"
+  },
+  "FutSC": {
+    "1s": "enrollare",
+    "2s": "enrollares",
+    "3s": "enrollare",
+    "1p": "enrolláremos",
+    "2p": "enrollareis",
+    "3p": "enrollaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enrolla",
+    "3s": "enrolle",
+    "1p": "enrollemos",
+    "2p": "enrollad",
+    "3p": "enrollen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enrolles",
+    "3s": "no enrolle",
+    "1p": "no enrollemos",
+    "2p": "no enrolléis",
+    "3p": "no enrollen"
+  },
+  "Part-ter": {
+    "": "enrollado"
+  },
+  "Part-ser": {
+    "ms": "enrollado",
+    "fs": "enrollada",
+    "mp": "enrollados",
+    "fp": "enrolladas"
+  }
+}

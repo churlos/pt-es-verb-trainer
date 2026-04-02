@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "silabar"
+  },
+  "Ger": {
+    "": "silabando"
+  },
+  "PresI": {
+    "1s": "silabo",
+    "2s": "silabas",
+    "3s": "silaba",
+    "1p": "silabamos",
+    "2p": "silabáis",
+    "3p": "silaban"
+  },
+  "PImpI": {
+    "1s": "silababa",
+    "2s": "silababas",
+    "3s": "silababa",
+    "1p": "silabábamos",
+    "2p": "silababais",
+    "3p": "silababan"
+  },
+  "PPSI": {
+    "1s": "silabé",
+    "2s": "silabaste",
+    "3s": "silabó",
+    "1p": "silabamos",
+    "2p": "silabasteis",
+    "3p": "silabaron"
+  },
+  "FutSI": {
+    "1s": "silabaré",
+    "2s": "silabarás",
+    "3s": "silabará",
+    "1p": "silabaremos",
+    "2p": "silabaréis",
+    "3p": "silabarán"
+  },
+  "CondS": {
+    "1s": "silabaría",
+    "2s": "silabarías",
+    "3s": "silabaría",
+    "1p": "silabaríamos",
+    "2p": "silabaríais",
+    "3p": "silabarían"
+  },
+  "PresC": {
+    "1s": "silabe",
+    "2s": "silabes",
+    "3s": "silabe",
+    "1p": "silabemos",
+    "2p": "silabéis",
+    "3p": "silaben"
+  },
+  "PMQPSI": {
+    "1s": "silabara",
+    "2s": "silabaras",
+    "3s": "silabara",
+    "1p": "silabáramos",
+    "2p": "silabarais",
+    "3p": "silabaran"
+  },
+  "PImpC": {
+    "1s": "silabase",
+    "2s": "silabases",
+    "3s": "silabase",
+    "1p": "silabásemos",
+    "2p": "silabaseis",
+    "3p": "silabasen"
+  },
+  "FutSC": {
+    "1s": "silabare",
+    "2s": "silabares",
+    "3s": "silabare",
+    "1p": "silabáremos",
+    "2p": "silabareis",
+    "3p": "silabaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "silaba",
+    "3s": "silabe",
+    "1p": "silabemos",
+    "2p": "silabad",
+    "3p": "silaben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no silabes",
+    "3s": "no silabe",
+    "1p": "no silabemos",
+    "2p": "no silabéis",
+    "3p": "no silaben"
+  },
+  "Part-ter": {
+    "": "silabado"
+  },
+  "Part-ser": {
+    "ms": "silabado",
+    "fs": "silabada",
+    "mp": "silabados",
+    "fp": "silabadas"
+  }
+}

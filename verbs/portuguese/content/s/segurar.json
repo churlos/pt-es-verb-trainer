@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "segurar"
+  },
+  "InfP": {
+    "1s": "segurar",
+    "2s": "segurares",
+    "3s": "segurar",
+    "1p": "segurarmos",
+    "2p": "segurardes",
+    "3p": "segurarem"
+  },
+  "Ger": {
+    "": "segurando"
+  },
+  "PresI": {
+    "1s": "seguro",
+    "2s": "seguras",
+    "3s": "segura",
+    "1p": "seguramos",
+    "2p": "segurais",
+    "3p": "seguram"
+  },
+  "PImpI": {
+    "1s": "segurava",
+    "2s": "seguravas",
+    "3s": "segurava",
+    "1p": "segurávamos",
+    "2p": "seguráveis",
+    "3p": "seguravam"
+  },
+  "PPSI": {
+    "1s": "segurei",
+    "2s": "seguraste",
+    "3s": "segurou",
+    "1p": "segurámos",
+    "2p": "segurastes",
+    "3p": "seguraram"
+  },
+  "PMQPSI": {
+    "1s": "segurara",
+    "2s": "seguraras",
+    "3s": "segurara",
+    "1p": "seguráramos",
+    "2p": "seguráreis",
+    "3p": "seguraram"
+  },
+  "FutSI": {
+    "1s": "segurarei",
+    "2s": "segurarás",
+    "3s": "segurará",
+    "1p": "seguraremos",
+    "2p": "segurareis",
+    "3p": "segurarão"
+  },
+  "CondS": {
+    "1s": "seguraria",
+    "2s": "segurarias",
+    "3s": "seguraria",
+    "1p": "seguraríamos",
+    "2p": "seguraríeis",
+    "3p": "segurariam"
+  },
+  "PresC": {
+    "1s": "segure",
+    "2s": "segures",
+    "3s": "segure",
+    "1p": "seguremos",
+    "2p": "segureis",
+    "3p": "segurem"
+  },
+  "PImpC": {
+    "1s": "segurasse",
+    "2s": "segurasses",
+    "3s": "segurasse",
+    "1p": "segurássemos",
+    "2p": "segurásseis",
+    "3p": "segurassem"
+  },
+  "FutSC": {
+    "1s": "segurar",
+    "2s": "segurares",
+    "3s": "segurar",
+    "1p": "segurarmos",
+    "2p": "segurardes",
+    "3p": "segurarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segura",
+    "3s": "segure",
+    "1p": "seguremos",
+    "2p": "segurai",
+    "3p": "segurem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não segures",
+    "3s": "não segure",
+    "1p": "não seguremos",
+    "2p": "não segureis",
+    "3p": "não segurem"
+  },
+  "Part-ter": {
+    "": "segurado"
+  },
+  "Part-ser": {
+    "ms": "segurado",
+    "fs": "segurada",
+    "mp": "segurados",
+    "fp": "seguradas"
+  }
+}

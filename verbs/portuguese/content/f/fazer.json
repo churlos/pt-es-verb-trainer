@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fazer"
+  },
+  "InfP": {
+    "1s": "fazer",
+    "2s": "fazeres",
+    "3s": "fazer",
+    "1p": "fazermos",
+    "2p": "fazerdes",
+    "3p": "fazerem"
+  },
+  "Ger": {
+    "": "fazendo"
+  },
+  "PresI": {
+    "1s": "faço",
+    "2s": "fazes",
+    "3s": "faz",
+    "1p": "fazemos",
+    "2p": "fazeis",
+    "3p": "fazem"
+  },
+  "PImpI": {
+    "1s": "fazia",
+    "2s": "fazias",
+    "3s": "fazia",
+    "1p": "fazíamos",
+    "2p": "fazíeis",
+    "3p": "faziam"
+  },
+  "PPSI": {
+    "1s": "fiz",
+    "2s": "fizeste",
+    "3s": "fez",
+    "1p": "fizemos",
+    "2p": "fizestes",
+    "3p": "fizeram"
+  },
+  "PMQPSI": {
+    "1s": "fizera",
+    "2s": "fizeras",
+    "3s": "fizera",
+    "1p": "fizéramos",
+    "2p": "fizéreis",
+    "3p": "fizeram"
+  },
+  "FutSI": {
+    "1s": "farei",
+    "2s": "farás",
+    "3s": "fará",
+    "1p": "faremos",
+    "2p": "fareis",
+    "3p": "farão"
+  },
+  "CondS": {
+    "1s": "faria",
+    "2s": "farias",
+    "3s": "faria",
+    "1p": "faríamos",
+    "2p": "faríeis",
+    "3p": "fariam"
+  },
+  "PresC": {
+    "1s": "faça",
+    "2s": "faças",
+    "3s": "faça",
+    "1p": "façamos",
+    "2p": "façais",
+    "3p": "façam"
+  },
+  "PImpC": {
+    "1s": "fizesse",
+    "2s": "fizesses",
+    "3s": "fizesse",
+    "1p": "fizéssemos",
+    "2p": "fizésseis",
+    "3p": "fizessem"
+  },
+  "FutSC": {
+    "1s": "fizer",
+    "2s": "fizeres",
+    "3s": "fizer",
+    "1p": "fizermos",
+    "2p": "fizerdes",
+    "3p": "fizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fazfaze",
+    "3s": "faça",
+    "1p": "façamos",
+    "2p": "fazei",
+    "3p": "façam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não faças",
+    "3s": "não faça",
+    "1p": "não façamos",
+    "2p": "não façais",
+    "3p": "não façam"
+  },
+  "Part-ter": {
+    "": "feito"
+  },
+  "Part-ser": {
+    "ms": "feito",
+    "fs": "feita",
+    "mp": "feitos",
+    "fp": "feitas"
+  }
+}

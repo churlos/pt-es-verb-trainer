@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abducir"
+  },
+  "Ger": {
+    "": "abduciendo"
+  },
+  "PresI": {
+    "1s": "abduzco",
+    "2s": "abduces",
+    "3s": "abduce",
+    "1p": "abducimos",
+    "2p": "abducís",
+    "3p": "abducen"
+  },
+  "PImpI": {
+    "1s": "abducía",
+    "2s": "abducías",
+    "3s": "abducía",
+    "1p": "abducíamos",
+    "2p": "abducíais",
+    "3p": "abducían"
+  },
+  "PPSI": {
+    "1s": "abduje",
+    "2s": "abdujiste",
+    "3s": "abdujo",
+    "1p": "abdujimos",
+    "2p": "abdujisteis",
+    "3p": "abdujeron"
+  },
+  "FutSI": {
+    "1s": "abduciré",
+    "2s": "abducirás",
+    "3s": "abducirá",
+    "1p": "abduciremos",
+    "2p": "abduciréis",
+    "3p": "abducirán"
+  },
+  "CondS": {
+    "1s": "abduciría",
+    "2s": "abducirías",
+    "3s": "abduciría",
+    "1p": "abduciríamos",
+    "2p": "abduciríais",
+    "3p": "abducirían"
+  },
+  "PresC": {
+    "1s": "abduzca",
+    "2s": "abduzcas",
+    "3s": "abduzca",
+    "1p": "abduzcamos",
+    "2p": "abduzcáis",
+    "3p": "abduzcan"
+  },
+  "PMQPSI": {
+    "1s": "abdujera",
+    "2s": "abdujeras",
+    "3s": "abdujera",
+    "1p": "abdujéramos",
+    "2p": "abdujerais",
+    "3p": "abdujeran"
+  },
+  "PImpC": {
+    "1s": "abdujese",
+    "2s": "abdujeses",
+    "3s": "abdujese",
+    "1p": "abdujésemos",
+    "2p": "abdujeseis",
+    "3p": "abdujesen"
+  },
+  "FutSC": {
+    "1s": "abdujere",
+    "2s": "abdujeres",
+    "3s": "abdujere",
+    "1p": "abdujéremos",
+    "2p": "abdujereis",
+    "3p": "abdujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abduce",
+    "3s": "abduzca",
+    "1p": "abduzcamos",
+    "2p": "abducid",
+    "3p": "abduzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abduzcas",
+    "3s": "no abduzca",
+    "1p": "no abduzcamos",
+    "2p": "no abduzcáis",
+    "3p": "no abduzcan"
+  },
+  "Part-ter": {
+    "": "abducido"
+  },
+  "Part-ser": {
+    "ms": "abducido",
+    "fs": "abducida",
+    "mp": "abducidos",
+    "fp": "abducidas"
+  }
+}

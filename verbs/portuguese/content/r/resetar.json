@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "resetar"
+  },
+  "InfP": {
+    "1s": "resetar",
+    "2s": "resetares",
+    "3s": "resetar",
+    "1p": "resetarmos",
+    "2p": "resetardes",
+    "3p": "resetarem"
+  },
+  "Ger": {
+    "": "resetando"
+  },
+  "PresI": {
+    "1s": "reseto",
+    "2s": "resetas",
+    "3s": "reseta",
+    "1p": "resetamos",
+    "2p": "resetais",
+    "3p": "resetam"
+  },
+  "PImpI": {
+    "1s": "resetava",
+    "2s": "resetavas",
+    "3s": "resetava",
+    "1p": "resetávamos",
+    "2p": "resetáveis",
+    "3p": "resetavam"
+  },
+  "PPSI": {
+    "1s": "resetei",
+    "2s": "resetaste",
+    "3s": "resetou",
+    "1p": "resetámos",
+    "2p": "resetastes",
+    "3p": "resetaram"
+  },
+  "PMQPSI": {
+    "1s": "resetara",
+    "2s": "resetaras",
+    "3s": "resetara",
+    "1p": "resetáramos",
+    "2p": "resetáreis",
+    "3p": "resetaram"
+  },
+  "FutSI": {
+    "1s": "resetarei",
+    "2s": "resetarás",
+    "3s": "resetará",
+    "1p": "resetaremos",
+    "2p": "resetareis",
+    "3p": "resetarão"
+  },
+  "CondS": {
+    "1s": "resetaria",
+    "2s": "resetarias",
+    "3s": "resetaria",
+    "1p": "resetaríamos",
+    "2p": "resetaríeis",
+    "3p": "resetariam"
+  },
+  "PresC": {
+    "1s": "resete",
+    "2s": "resetes",
+    "3s": "resete",
+    "1p": "resetemos",
+    "2p": "reseteis",
+    "3p": "resetem"
+  },
+  "PImpC": {
+    "1s": "resetasse",
+    "2s": "resetasses",
+    "3s": "resetasse",
+    "1p": "resetássemos",
+    "2p": "resetásseis",
+    "3p": "resetassem"
+  },
+  "FutSC": {
+    "1s": "resetar",
+    "2s": "resetares",
+    "3s": "resetar",
+    "1p": "resetarmos",
+    "2p": "resetardes",
+    "3p": "resetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reseta",
+    "3s": "resete",
+    "1p": "resetemos",
+    "2p": "resetai",
+    "3p": "resetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não resetes",
+    "3s": "não resete",
+    "1p": "não resetemos",
+    "2p": "não reseteis",
+    "3p": "não resetem"
+  },
+  "Part-ter": {
+    "": "resetado"
+  },
+  "Part-ser": {
+    "ms": "resetado",
+    "fs": "resetada",
+    "mp": "resetados",
+    "fp": "resetadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "teleportar"
+  },
+  "Ger": {
+    "": "teleportando"
+  },
+  "PresI": {
+    "1s": "teleporto",
+    "2s": "teleportas",
+    "3s": "teleporta",
+    "1p": "teleportamos",
+    "2p": "teleportáis",
+    "3p": "teleportan"
+  },
+  "PImpI": {
+    "1s": "teleportaba",
+    "2s": "teleportabas",
+    "3s": "teleportaba",
+    "1p": "teleportábamos",
+    "2p": "teleportabais",
+    "3p": "teleportaban"
+  },
+  "PPSI": {
+    "1s": "teleporté",
+    "2s": "teleportaste",
+    "3s": "teleportó",
+    "1p": "teleportamos",
+    "2p": "teleportasteis",
+    "3p": "teleportaron"
+  },
+  "FutSI": {
+    "1s": "teleportaré",
+    "2s": "teleportarás",
+    "3s": "teleportará",
+    "1p": "teleportaremos",
+    "2p": "teleportaréis",
+    "3p": "teleportarán"
+  },
+  "CondS": {
+    "1s": "teleportaría",
+    "2s": "teleportarías",
+    "3s": "teleportaría",
+    "1p": "teleportaríamos",
+    "2p": "teleportaríais",
+    "3p": "teleportarían"
+  },
+  "PresC": {
+    "1s": "teleporte",
+    "2s": "teleportes",
+    "3s": "teleporte",
+    "1p": "teleportemos",
+    "2p": "teleportéis",
+    "3p": "teleporten"
+  },
+  "PMQPSI": {
+    "1s": "teleportara",
+    "2s": "teleportaras",
+    "3s": "teleportara",
+    "1p": "teleportáramos",
+    "2p": "teleportarais",
+    "3p": "teleportaran"
+  },
+  "PImpC": {
+    "1s": "teleportase",
+    "2s": "teleportases",
+    "3s": "teleportase",
+    "1p": "teleportásemos",
+    "2p": "teleportaseis",
+    "3p": "teleportasen"
+  },
+  "FutSC": {
+    "1s": "teleportare",
+    "2s": "teleportares",
+    "3s": "teleportare",
+    "1p": "teleportáremos",
+    "2p": "teleportareis",
+    "3p": "teleportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "teleporta",
+    "3s": "teleporte",
+    "1p": "teleportemos",
+    "2p": "teleportad",
+    "3p": "teleporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no teleportes",
+    "3s": "no teleporte",
+    "1p": "no teleportemos",
+    "2p": "no teleportéis",
+    "3p": "no teleporten"
+  },
+  "Part-ter": {
+    "": "teleportado"
+  },
+  "Part-ser": {
+    "ms": "teleportado",
+    "fs": "teleportada",
+    "mp": "teleportados",
+    "fp": "teleportadas"
+  }
+}

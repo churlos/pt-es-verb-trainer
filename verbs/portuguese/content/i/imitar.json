@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "imitar"
+  },
+  "InfP": {
+    "1s": "imitar",
+    "2s": "imitares",
+    "3s": "imitar",
+    "1p": "imitarmos",
+    "2p": "imitardes",
+    "3p": "imitarem"
+  },
+  "Ger": {
+    "": "imitando"
+  },
+  "PresI": {
+    "1s": "imito",
+    "2s": "imitas",
+    "3s": "imita",
+    "1p": "imitamos",
+    "2p": "imitais",
+    "3p": "imitam"
+  },
+  "PImpI": {
+    "1s": "imitava",
+    "2s": "imitavas",
+    "3s": "imitava",
+    "1p": "imitávamos",
+    "2p": "imitáveis",
+    "3p": "imitavam"
+  },
+  "PPSI": {
+    "1s": "imitei",
+    "2s": "imitaste",
+    "3s": "imitou",
+    "1p": "imitámos",
+    "2p": "imitastes",
+    "3p": "imitaram"
+  },
+  "PMQPSI": {
+    "1s": "imitara",
+    "2s": "imitaras",
+    "3s": "imitara",
+    "1p": "imitáramos",
+    "2p": "imitáreis",
+    "3p": "imitaram"
+  },
+  "FutSI": {
+    "1s": "imitarei",
+    "2s": "imitarás",
+    "3s": "imitará",
+    "1p": "imitaremos",
+    "2p": "imitareis",
+    "3p": "imitarão"
+  },
+  "CondS": {
+    "1s": "imitaria",
+    "2s": "imitarias",
+    "3s": "imitaria",
+    "1p": "imitaríamos",
+    "2p": "imitaríeis",
+    "3p": "imitariam"
+  },
+  "PresC": {
+    "1s": "imite",
+    "2s": "imites",
+    "3s": "imite",
+    "1p": "imitemos",
+    "2p": "imiteis",
+    "3p": "imitem"
+  },
+  "PImpC": {
+    "1s": "imitasse",
+    "2s": "imitasses",
+    "3s": "imitasse",
+    "1p": "imitássemos",
+    "2p": "imitásseis",
+    "3p": "imitassem"
+  },
+  "FutSC": {
+    "1s": "imitar",
+    "2s": "imitares",
+    "3s": "imitar",
+    "1p": "imitarmos",
+    "2p": "imitardes",
+    "3p": "imitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imita",
+    "3s": "imite",
+    "1p": "imitemos",
+    "2p": "imitai",
+    "3p": "imitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não imites",
+    "3s": "não imite",
+    "1p": "não imitemos",
+    "2p": "não imiteis",
+    "3p": "não imitem"
+  },
+  "Part-ter": {
+    "": "imitado"
+  },
+  "Part-ser": {
+    "ms": "imitado",
+    "fs": "imitada",
+    "mp": "imitados",
+    "fp": "imitadas"
+  }
+}

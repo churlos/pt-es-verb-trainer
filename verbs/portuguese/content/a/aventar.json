@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aventar"
+  },
+  "InfP": {
+    "1s": "aventar",
+    "2s": "aventares",
+    "3s": "aventar",
+    "1p": "aventarmos",
+    "2p": "aventardes",
+    "3p": "aventarem"
+  },
+  "Ger": {
+    "": "aventando"
+  },
+  "PresI": {
+    "1s": "avento",
+    "2s": "aventas",
+    "3s": "aventa",
+    "1p": "aventamos",
+    "2p": "aventais",
+    "3p": "aventam"
+  },
+  "PImpI": {
+    "1s": "aventava",
+    "2s": "aventavas",
+    "3s": "aventava",
+    "1p": "aventávamos",
+    "2p": "aventáveis",
+    "3p": "aventavam"
+  },
+  "PPSI": {
+    "1s": "aventei",
+    "2s": "aventaste",
+    "3s": "aventou",
+    "1p": "aventámos",
+    "2p": "aventastes",
+    "3p": "aventaram"
+  },
+  "PMQPSI": {
+    "1s": "aventara",
+    "2s": "aventaras",
+    "3s": "aventara",
+    "1p": "aventáramos",
+    "2p": "aventáreis",
+    "3p": "aventaram"
+  },
+  "FutSI": {
+    "1s": "aventarei",
+    "2s": "aventarás",
+    "3s": "aventará",
+    "1p": "aventaremos",
+    "2p": "aventareis",
+    "3p": "aventarão"
+  },
+  "CondS": {
+    "1s": "aventaria",
+    "2s": "aventarias",
+    "3s": "aventaria",
+    "1p": "aventaríamos",
+    "2p": "aventaríeis",
+    "3p": "aventariam"
+  },
+  "PresC": {
+    "1s": "avente",
+    "2s": "aventes",
+    "3s": "avente",
+    "1p": "aventemos",
+    "2p": "aventeis",
+    "3p": "aventem"
+  },
+  "PImpC": {
+    "1s": "aventasse",
+    "2s": "aventasses",
+    "3s": "aventasse",
+    "1p": "aventássemos",
+    "2p": "aventásseis",
+    "3p": "aventassem"
+  },
+  "FutSC": {
+    "1s": "aventar",
+    "2s": "aventares",
+    "3s": "aventar",
+    "1p": "aventarmos",
+    "2p": "aventardes",
+    "3p": "aventarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aventa",
+    "3s": "avente",
+    "1p": "aventemos",
+    "2p": "aventai",
+    "3p": "aventem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aventes",
+    "3s": "não avente",
+    "1p": "não aventemos",
+    "2p": "não aventeis",
+    "3p": "não aventem"
+  },
+  "Part-ter": {
+    "": "aventado"
+  },
+  "Part-ser": {
+    "ms": "aventado",
+    "fs": "aventada",
+    "mp": "aventados",
+    "fp": "aventadas"
+  }
+}

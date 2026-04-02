@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "caer"
+  },
+  "Ger": {
+    "": "cayendo"
+  },
+  "PresI": {
+    "1s": "caigo",
+    "2s": "caes",
+    "3s": "cae",
+    "1p": "caemos",
+    "2p": "caéis",
+    "3p": "caen"
+  },
+  "PImpI": {
+    "1s": "caía",
+    "2s": "caías",
+    "3s": "caía",
+    "1p": "caíamos",
+    "2p": "caíais",
+    "3p": "caían"
+  },
+  "PPSI": {
+    "1s": "caí",
+    "2s": "caíste",
+    "3s": "cayó",
+    "1p": "caímos",
+    "2p": "caísteis",
+    "3p": "cayeron"
+  },
+  "FutSI": {
+    "1s": "caeré",
+    "2s": "caerás",
+    "3s": "caerá",
+    "1p": "caeremos",
+    "2p": "caeréis",
+    "3p": "caerán"
+  },
+  "CondS": {
+    "1s": "caería",
+    "2s": "caerías",
+    "3s": "caería",
+    "1p": "caeríamos",
+    "2p": "caeríais",
+    "3p": "caerían"
+  },
+  "PresC": {
+    "1s": "caiga",
+    "2s": "caigas",
+    "3s": "caiga",
+    "1p": "caigamos",
+    "2p": "caigáis",
+    "3p": "caigan"
+  },
+  "PMQPSI": {
+    "1s": "cayera",
+    "2s": "cayeras",
+    "3s": "cayera",
+    "1p": "cayéramos",
+    "2p": "cayerais",
+    "3p": "cayeran"
+  },
+  "PImpC": {
+    "1s": "cayese",
+    "2s": "cayeses",
+    "3s": "cayese",
+    "1p": "cayésemos",
+    "2p": "cayeseis",
+    "3p": "cayesen"
+  },
+  "FutSC": {
+    "1s": "cayere",
+    "2s": "cayeres",
+    "3s": "cayere",
+    "1p": "cayéremos",
+    "2p": "cayereis",
+    "3p": "cayeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cae",
+    "3s": "caiga",
+    "1p": "caigamos",
+    "2p": "caed",
+    "3p": "caigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no caigas",
+    "3s": "no caiga",
+    "1p": "no caigamos",
+    "2p": "no caigáis",
+    "3p": "no caigan"
+  },
+  "Part-ter": {
+    "": "caído"
+  },
+  "Part-ser": {
+    "ms": "caído",
+    "fs": "caída",
+    "mp": "caídos",
+    "fp": "caídas"
+  }
+}

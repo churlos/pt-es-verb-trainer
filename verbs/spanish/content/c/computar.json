@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "computar"
+  },
+  "Ger": {
+    "": "computando"
+  },
+  "PresI": {
+    "1s": "computo",
+    "2s": "computas",
+    "3s": "computa",
+    "1p": "computamos",
+    "2p": "computáis",
+    "3p": "computan"
+  },
+  "PImpI": {
+    "1s": "computaba",
+    "2s": "computabas",
+    "3s": "computaba",
+    "1p": "computábamos",
+    "2p": "computabais",
+    "3p": "computaban"
+  },
+  "PPSI": {
+    "1s": "computé",
+    "2s": "computaste",
+    "3s": "computó",
+    "1p": "computamos",
+    "2p": "computasteis",
+    "3p": "computaron"
+  },
+  "FutSI": {
+    "1s": "computaré",
+    "2s": "computarás",
+    "3s": "computará",
+    "1p": "computaremos",
+    "2p": "computaréis",
+    "3p": "computarán"
+  },
+  "CondS": {
+    "1s": "computaría",
+    "2s": "computarías",
+    "3s": "computaría",
+    "1p": "computaríamos",
+    "2p": "computaríais",
+    "3p": "computarían"
+  },
+  "PresC": {
+    "1s": "compute",
+    "2s": "computes",
+    "3s": "compute",
+    "1p": "computemos",
+    "2p": "computéis",
+    "3p": "computen"
+  },
+  "PMQPSI": {
+    "1s": "computara",
+    "2s": "computaras",
+    "3s": "computara",
+    "1p": "computáramos",
+    "2p": "computarais",
+    "3p": "computaran"
+  },
+  "PImpC": {
+    "1s": "computase",
+    "2s": "computases",
+    "3s": "computase",
+    "1p": "computásemos",
+    "2p": "computaseis",
+    "3p": "computasen"
+  },
+  "FutSC": {
+    "1s": "computare",
+    "2s": "computares",
+    "3s": "computare",
+    "1p": "computáremos",
+    "2p": "computareis",
+    "3p": "computaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "computa",
+    "3s": "compute",
+    "1p": "computemos",
+    "2p": "computad",
+    "3p": "computen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no computes",
+    "3s": "no compute",
+    "1p": "no computemos",
+    "2p": "no computéis",
+    "3p": "no computen"
+  },
+  "Part-ter": {
+    "": "computado"
+  },
+  "Part-ser": {
+    "ms": "computado",
+    "fs": "computada",
+    "mp": "computados",
+    "fp": "computadas"
+  }
+}

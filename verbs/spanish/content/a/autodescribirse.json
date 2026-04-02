@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autodescribirse"
+  },
+  "Ger": {
+    "": "autodescribiéndose"
+  },
+  "PresI": {
+    "1s": "me autodescribo",
+    "2s": "te autodescribes",
+    "3s": "se autodescribe",
+    "1p": "nos autodescribimos",
+    "2p": "os autodescribís",
+    "3p": "se autodescriben"
+  },
+  "PImpI": {
+    "1s": "me autodescribía",
+    "2s": "te autodescribías",
+    "3s": "se autodescribía",
+    "1p": "nos autodescribíamos",
+    "2p": "os autodescribíais",
+    "3p": "se autodescribían"
+  },
+  "PPSI": {
+    "1s": "me autodescribí",
+    "2s": "te autodescribiste",
+    "3s": "se autodescribió",
+    "1p": "nos autodescribimos",
+    "2p": "os autodescribisteis",
+    "3p": "se autodescribieron"
+  },
+  "FutSI": {
+    "1s": "me autodescribiré",
+    "2s": "te autodescribirás",
+    "3s": "se autodescribirá",
+    "1p": "nos autodescribiremos",
+    "2p": "os autodescribiréis",
+    "3p": "se autodescribirán"
+  },
+  "CondS": {
+    "1s": "me autodescribiría",
+    "2s": "te autodescribirías",
+    "3s": "se autodescribiría",
+    "1p": "nos autodescribiríamos",
+    "2p": "os autodescribiríais",
+    "3p": "se autodescribirían"
+  },
+  "PresC": {
+    "1s": "me autodescriba",
+    "2s": "te autodescribas",
+    "3s": "se autodescriba",
+    "1p": "nos autodescribamos",
+    "2p": "os autodescribáis",
+    "3p": "se autodescriban"
+  },
+  "PMQPSI": {
+    "1s": "me autodescribiera",
+    "2s": "te autodescribieras",
+    "3s": "se autodescribiera",
+    "1p": "nos autodescribiéramos",
+    "2p": "os autodescribierais",
+    "3p": "se autodescribieran"
+  },
+  "PImpC": {
+    "1s": "me autodescribiese",
+    "2s": "te autodescribieses",
+    "3s": "se autodescribiese",
+    "1p": "nos autodescribiésemos",
+    "2p": "os autodescribieseis",
+    "3p": "se autodescribiesen"
+  },
+  "FutSC": {
+    "1s": "me autodescribiere",
+    "2s": "te autodescribieres",
+    "3s": "se autodescribiere",
+    "1p": "nos autodescribiéremos",
+    "2p": "os autodescribiereis",
+    "3p": "se autodescribieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autodescríbete",
+    "3s": "autodescríbase",
+    "1p": "autodescribámonos",
+    "2p": "autodescribíos",
+    "3p": "autodescríbanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autodescribas",
+    "3s": "no se autodescriba",
+    "1p": "no nos autodescribamos",
+    "2p": "no os autodescribáis",
+    "3p": "no se autodescriban"
+  },
+  "Part-ter": {
+    "": "autodescrito, autodescripto"
+  },
+  "Part-ser": {
+    "ms": "autodescrito, autodescripto",
+    "fs": "autodescrita, autodescripta",
+    "mp": "autodescritos, autodescriptos",
+    "fp": "autodescritas, autodescriptas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "altercar"
+  },
+  "InfP": {
+    "1s": "altercar",
+    "2s": "altercares",
+    "3s": "altercar",
+    "1p": "altercarmos",
+    "2p": "altercardes",
+    "3p": "altercarem"
+  },
+  "Ger": {
+    "": "altercando"
+  },
+  "PresI": {
+    "1s": "alterco",
+    "2s": "altercas",
+    "3s": "alterca",
+    "1p": "altercamos",
+    "2p": "altercais",
+    "3p": "altercam"
+  },
+  "PImpI": {
+    "1s": "altercava",
+    "2s": "altercavas",
+    "3s": "altercava",
+    "1p": "altercávamos",
+    "2p": "altercáveis",
+    "3p": "altercavam"
+  },
+  "PPSI": {
+    "1s": "alterquei",
+    "2s": "altercaste",
+    "3s": "altercou",
+    "1p": "altercámos",
+    "2p": "altercastes",
+    "3p": "altercaram"
+  },
+  "PMQPSI": {
+    "1s": "altercara",
+    "2s": "altercaras",
+    "3s": "altercara",
+    "1p": "altercáramos",
+    "2p": "altercáreis",
+    "3p": "altercaram"
+  },
+  "FutSI": {
+    "1s": "altercarei",
+    "2s": "altercarás",
+    "3s": "altercará",
+    "1p": "altercaremos",
+    "2p": "altercareis",
+    "3p": "altercarão"
+  },
+  "CondS": {
+    "1s": "altercaria",
+    "2s": "altercarias",
+    "3s": "altercaria",
+    "1p": "altercaríamos",
+    "2p": "altercaríeis",
+    "3p": "altercariam"
+  },
+  "PresC": {
+    "1s": "alterque",
+    "2s": "alterques",
+    "3s": "alterque",
+    "1p": "alterquemos",
+    "2p": "alterqueis",
+    "3p": "alterquem"
+  },
+  "PImpC": {
+    "1s": "altercasse",
+    "2s": "altercasses",
+    "3s": "altercasse",
+    "1p": "altercássemos",
+    "2p": "altercásseis",
+    "3p": "altercassem"
+  },
+  "FutSC": {
+    "1s": "altercar",
+    "2s": "altercares",
+    "3s": "altercar",
+    "1p": "altercarmos",
+    "2p": "altercardes",
+    "3p": "altercarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alterca",
+    "3s": "alterque",
+    "1p": "alterquemos",
+    "2p": "altercai",
+    "3p": "alterquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alterques",
+    "3s": "não alterque",
+    "1p": "não alterquemos",
+    "2p": "não alterqueis",
+    "3p": "não alterquem"
+  },
+  "Part-ter": {
+    "": "altercado"
+  },
+  "Part-ser": {
+    "ms": "altercado",
+    "fs": "altercada",
+    "mp": "altercados",
+    "fp": "altercadas"
+  }
+}

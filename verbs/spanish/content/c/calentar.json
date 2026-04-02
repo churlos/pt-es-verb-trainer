@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calentar"
+  },
+  "Ger": {
+    "": "calentando"
+  },
+  "PresI": {
+    "1s": "caliento",
+    "2s": "calientas",
+    "3s": "calienta",
+    "1p": "calentamos",
+    "2p": "calentáis",
+    "3p": "calientan"
+  },
+  "PImpI": {
+    "1s": "calentaba",
+    "2s": "calentabas",
+    "3s": "calentaba",
+    "1p": "calentábamos",
+    "2p": "calentabais",
+    "3p": "calentaban"
+  },
+  "PPSI": {
+    "1s": "calenté",
+    "2s": "calentaste",
+    "3s": "calentó",
+    "1p": "calentamos",
+    "2p": "calentasteis",
+    "3p": "calentaron"
+  },
+  "FutSI": {
+    "1s": "calentaré",
+    "2s": "calentarás",
+    "3s": "calentará",
+    "1p": "calentaremos",
+    "2p": "calentaréis",
+    "3p": "calentarán"
+  },
+  "CondS": {
+    "1s": "calentaría",
+    "2s": "calentarías",
+    "3s": "calentaría",
+    "1p": "calentaríamos",
+    "2p": "calentaríais",
+    "3p": "calentarían"
+  },
+  "PresC": {
+    "1s": "caliente",
+    "2s": "calientes",
+    "3s": "caliente",
+    "1p": "calentemos",
+    "2p": "calentéis",
+    "3p": "calienten"
+  },
+  "PMQPSI": {
+    "1s": "calentara",
+    "2s": "calentaras",
+    "3s": "calentara",
+    "1p": "calentáramos",
+    "2p": "calentarais",
+    "3p": "calentaran"
+  },
+  "PImpC": {
+    "1s": "calentase",
+    "2s": "calentases",
+    "3s": "calentase",
+    "1p": "calentásemos",
+    "2p": "calentaseis",
+    "3p": "calentasen"
+  },
+  "FutSC": {
+    "1s": "calentare",
+    "2s": "calentares",
+    "3s": "calentare",
+    "1p": "calentáremos",
+    "2p": "calentareis",
+    "3p": "calentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calienta",
+    "3s": "caliente",
+    "1p": "calentemos",
+    "2p": "calentad",
+    "3p": "calienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no calientes",
+    "3s": "no caliente",
+    "1p": "no calentemos",
+    "2p": "no calentéis",
+    "3p": "no calienten"
+  },
+  "Part-ter": {
+    "": "calentado"
+  },
+  "Part-ser": {
+    "ms": "calentado",
+    "fs": "calentada",
+    "mp": "calentados",
+    "fp": "calentadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desligar"
+  },
+  "Ger": {
+    "": "desligando"
+  },
+  "PresI": {
+    "1s": "desligo",
+    "2s": "desligas",
+    "3s": "desliga",
+    "1p": "desligamos",
+    "2p": "desligáis",
+    "3p": "desligan"
+  },
+  "PImpI": {
+    "1s": "desligaba",
+    "2s": "desligabas",
+    "3s": "desligaba",
+    "1p": "desligábamos",
+    "2p": "desligabais",
+    "3p": "desligaban"
+  },
+  "PPSI": {
+    "1s": "desligué",
+    "2s": "desligaste",
+    "3s": "desligó",
+    "1p": "desligamos",
+    "2p": "desligasteis",
+    "3p": "desligaron"
+  },
+  "FutSI": {
+    "1s": "desligaré",
+    "2s": "desligarás",
+    "3s": "desligará",
+    "1p": "desligaremos",
+    "2p": "desligaréis",
+    "3p": "desligarán"
+  },
+  "CondS": {
+    "1s": "desligaría",
+    "2s": "desligarías",
+    "3s": "desligaría",
+    "1p": "desligaríamos",
+    "2p": "desligaríais",
+    "3p": "desligarían"
+  },
+  "PresC": {
+    "1s": "desligue",
+    "2s": "desligues",
+    "3s": "desligue",
+    "1p": "desliguemos",
+    "2p": "desliguéis",
+    "3p": "desliguen"
+  },
+  "PMQPSI": {
+    "1s": "desligara",
+    "2s": "desligaras",
+    "3s": "desligara",
+    "1p": "desligáramos",
+    "2p": "desligarais",
+    "3p": "desligaran"
+  },
+  "PImpC": {
+    "1s": "desligase",
+    "2s": "desligases",
+    "3s": "desligase",
+    "1p": "desligásemos",
+    "2p": "desligaseis",
+    "3p": "desligasen"
+  },
+  "FutSC": {
+    "1s": "desligare",
+    "2s": "desligares",
+    "3s": "desligare",
+    "1p": "desligáremos",
+    "2p": "desligareis",
+    "3p": "desligaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desliga",
+    "3s": "desligue",
+    "1p": "desliguemos",
+    "2p": "desligad",
+    "3p": "desliguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desligues",
+    "3s": "no desligue",
+    "1p": "no desliguemos",
+    "2p": "no desliguéis",
+    "3p": "no desliguen"
+  },
+  "Part-ter": {
+    "": "desligado"
+  },
+  "Part-ser": {
+    "ms": "desligado",
+    "fs": "desligada",
+    "mp": "desligados",
+    "fp": "desligadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "locar"
+  },
+  "InfP": {
+    "1s": "locar",
+    "2s": "locares",
+    "3s": "locar",
+    "1p": "locarmos",
+    "2p": "locardes",
+    "3p": "locarem"
+  },
+  "Ger": {
+    "": "locando"
+  },
+  "PresI": {
+    "1s": "loco",
+    "2s": "locas",
+    "3s": "loca",
+    "1p": "locamos",
+    "2p": "locais",
+    "3p": "locam"
+  },
+  "PImpI": {
+    "1s": "locava",
+    "2s": "locavas",
+    "3s": "locava",
+    "1p": "locávamos",
+    "2p": "locáveis",
+    "3p": "locavam"
+  },
+  "PPSI": {
+    "1s": "loquei",
+    "2s": "locaste",
+    "3s": "locou",
+    "1p": "locámos",
+    "2p": "locastes",
+    "3p": "locaram"
+  },
+  "PMQPSI": {
+    "1s": "locara",
+    "2s": "locaras",
+    "3s": "locara",
+    "1p": "locáramos",
+    "2p": "locáreis",
+    "3p": "locaram"
+  },
+  "FutSI": {
+    "1s": "locarei",
+    "2s": "locarás",
+    "3s": "locará",
+    "1p": "locaremos",
+    "2p": "locareis",
+    "3p": "locarão"
+  },
+  "CondS": {
+    "1s": "locaria",
+    "2s": "locarias",
+    "3s": "locaria",
+    "1p": "locaríamos",
+    "2p": "locaríeis",
+    "3p": "locariam"
+  },
+  "PresC": {
+    "1s": "loque",
+    "2s": "loques",
+    "3s": "loque",
+    "1p": "loquemos",
+    "2p": "loqueis",
+    "3p": "loquem"
+  },
+  "PImpC": {
+    "1s": "locasse",
+    "2s": "locasses",
+    "3s": "locasse",
+    "1p": "locássemos",
+    "2p": "locásseis",
+    "3p": "locassem"
+  },
+  "FutSC": {
+    "1s": "locar",
+    "2s": "locares",
+    "3s": "locar",
+    "1p": "locarmos",
+    "2p": "locardes",
+    "3p": "locarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "loca",
+    "3s": "loque",
+    "1p": "loquemos",
+    "2p": "locai",
+    "3p": "loquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não loques",
+    "3s": "não loque",
+    "1p": "não loquemos",
+    "2p": "não loqueis",
+    "3p": "não loquem"
+  },
+  "Part-ter": {
+    "": "locado"
+  },
+  "Part-ser": {
+    "ms": "locado",
+    "fs": "locada",
+    "mp": "locados",
+    "fp": "locadas"
+  }
+}

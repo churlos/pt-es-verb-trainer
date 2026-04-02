@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "transferir"
+  },
+  "InfP": {
+    "1s": "transferir",
+    "2s": "transferires",
+    "3s": "transferir",
+    "1p": "transferirmos",
+    "2p": "transferirdes",
+    "3p": "transferirem"
+  },
+  "Ger": {
+    "": "transferindo"
+  },
+  "PresI": {
+    "1s": "transfiro",
+    "2s": "transferes",
+    "3s": "transfere",
+    "1p": "transferimos",
+    "2p": "transferis",
+    "3p": "transferem"
+  },
+  "PImpI": {
+    "1s": "transferia",
+    "2s": "transferias",
+    "3s": "transferia",
+    "1p": "transferíamos",
+    "2p": "transferíeis",
+    "3p": "transferiam"
+  },
+  "PPSI": {
+    "1s": "transferi",
+    "2s": "transferiste",
+    "3s": "transferiu",
+    "1p": "transferimos",
+    "2p": "transferistes",
+    "3p": "transferiram"
+  },
+  "PMQPSI": {
+    "1s": "transferira",
+    "2s": "transferiras",
+    "3s": "transferira",
+    "1p": "transferíramos",
+    "2p": "transferíreis",
+    "3p": "transferiram"
+  },
+  "FutSI": {
+    "1s": "transferirei",
+    "2s": "transferirás",
+    "3s": "transferirá",
+    "1p": "transferiremos",
+    "2p": "transferireis",
+    "3p": "transferirão"
+  },
+  "CondS": {
+    "1s": "transferiria",
+    "2s": "transferirias",
+    "3s": "transferiria",
+    "1p": "transferiríamos",
+    "2p": "transferiríeis",
+    "3p": "transfeririam"
+  },
+  "PresC": {
+    "1s": "transfira",
+    "2s": "transfiras",
+    "3s": "transfira",
+    "1p": "transfiramos",
+    "2p": "transfirais",
+    "3p": "transfiram"
+  },
+  "PImpC": {
+    "1s": "transferisse",
+    "2s": "transferisses",
+    "3s": "transferisse",
+    "1p": "transferíssemos",
+    "2p": "transferísseis",
+    "3p": "transferissem"
+  },
+  "FutSC": {
+    "1s": "transferir",
+    "2s": "transferires",
+    "3s": "transferir",
+    "1p": "transferirmos",
+    "2p": "transferirdes",
+    "3p": "transferirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transfere",
+    "3s": "transfira",
+    "1p": "transfiramos",
+    "2p": "transferi",
+    "3p": "transfiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não transfiras",
+    "3s": "não transfira",
+    "1p": "não transfiramos",
+    "2p": "não transfirais",
+    "3p": "não transfiram"
+  },
+  "Part-ter": {
+    "": "transferido"
+  },
+  "Part-ser": {
+    "ms": "transferido",
+    "fs": "transferida",
+    "mp": "transferidos",
+    "fp": "transferidas"
+  }
+}

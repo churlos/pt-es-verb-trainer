@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "liberar"
+  },
+  "InfP": {
+    "1s": "liberar",
+    "2s": "liberares",
+    "3s": "liberar",
+    "1p": "liberarmos",
+    "2p": "liberardes",
+    "3p": "liberarem"
+  },
+  "Ger": {
+    "": "liberando"
+  },
+  "PresI": {
+    "1s": "libero",
+    "2s": "liberas",
+    "3s": "libera",
+    "1p": "liberamos",
+    "2p": "liberais",
+    "3p": "liberam"
+  },
+  "PImpI": {
+    "1s": "liberava",
+    "2s": "liberavas",
+    "3s": "liberava",
+    "1p": "liberávamos",
+    "2p": "liberáveis",
+    "3p": "liberavam"
+  },
+  "PPSI": {
+    "1s": "liberei",
+    "2s": "liberaste",
+    "3s": "liberou",
+    "1p": "liberámos",
+    "2p": "liberastes",
+    "3p": "liberaram"
+  },
+  "PMQPSI": {
+    "1s": "liberara",
+    "2s": "liberaras",
+    "3s": "liberara",
+    "1p": "liberáramos",
+    "2p": "liberáreis",
+    "3p": "liberaram"
+  },
+  "FutSI": {
+    "1s": "liberarei",
+    "2s": "liberarás",
+    "3s": "liberará",
+    "1p": "liberaremos",
+    "2p": "liberareis",
+    "3p": "liberarão"
+  },
+  "CondS": {
+    "1s": "liberaria",
+    "2s": "liberarias",
+    "3s": "liberaria",
+    "1p": "liberaríamos",
+    "2p": "liberaríeis",
+    "3p": "liberariam"
+  },
+  "PresC": {
+    "1s": "libere",
+    "2s": "liberes",
+    "3s": "libere",
+    "1p": "liberemos",
+    "2p": "libereis",
+    "3p": "liberem"
+  },
+  "PImpC": {
+    "1s": "liberasse",
+    "2s": "liberasses",
+    "3s": "liberasse",
+    "1p": "liberássemos",
+    "2p": "liberásseis",
+    "3p": "liberassem"
+  },
+  "FutSC": {
+    "1s": "liberar",
+    "2s": "liberares",
+    "3s": "liberar",
+    "1p": "liberarmos",
+    "2p": "liberardes",
+    "3p": "liberarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "libera",
+    "3s": "libere",
+    "1p": "liberemos",
+    "2p": "liberai",
+    "3p": "liberem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não liberes",
+    "3s": "não libere",
+    "1p": "não liberemos",
+    "2p": "não libereis",
+    "3p": "não liberem"
+  },
+  "Part-ter": {
+    "": "liberado"
+  },
+  "Part-ser": {
+    "ms": "liberado",
+    "fs": "liberada",
+    "mp": "liberados",
+    "fp": "liberadas"
+  }
+}

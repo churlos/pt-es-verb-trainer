@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pactar"
+  },
+  "InfP": {
+    "1s": "pactar",
+    "2s": "pactares",
+    "3s": "pactar",
+    "1p": "pactarmos",
+    "2p": "pactardes",
+    "3p": "pactarem"
+  },
+  "Ger": {
+    "": "pactando"
+  },
+  "PresI": {
+    "1s": "pacto",
+    "2s": "pactas",
+    "3s": "pacta",
+    "1p": "pactamos",
+    "2p": "pactais",
+    "3p": "pactam"
+  },
+  "PImpI": {
+    "1s": "pactava",
+    "2s": "pactavas",
+    "3s": "pactava",
+    "1p": "pactávamos",
+    "2p": "pactáveis",
+    "3p": "pactavam"
+  },
+  "PPSI": {
+    "1s": "pactei",
+    "2s": "pactaste",
+    "3s": "pactou",
+    "1p": "pactámos",
+    "2p": "pactastes",
+    "3p": "pactaram"
+  },
+  "PMQPSI": {
+    "1s": "pactara",
+    "2s": "pactaras",
+    "3s": "pactara",
+    "1p": "pactáramos",
+    "2p": "pactáreis",
+    "3p": "pactaram"
+  },
+  "FutSI": {
+    "1s": "pactarei",
+    "2s": "pactarás",
+    "3s": "pactará",
+    "1p": "pactaremos",
+    "2p": "pactareis",
+    "3p": "pactarão"
+  },
+  "CondS": {
+    "1s": "pactaria",
+    "2s": "pactarias",
+    "3s": "pactaria",
+    "1p": "pactaríamos",
+    "2p": "pactaríeis",
+    "3p": "pactariam"
+  },
+  "PresC": {
+    "1s": "pacte",
+    "2s": "pactes",
+    "3s": "pacte",
+    "1p": "pactemos",
+    "2p": "pacteis",
+    "3p": "pactem"
+  },
+  "PImpC": {
+    "1s": "pactasse",
+    "2s": "pactasses",
+    "3s": "pactasse",
+    "1p": "pactássemos",
+    "2p": "pactásseis",
+    "3p": "pactassem"
+  },
+  "FutSC": {
+    "1s": "pactar",
+    "2s": "pactares",
+    "3s": "pactar",
+    "1p": "pactarmos",
+    "2p": "pactardes",
+    "3p": "pactarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pacta",
+    "3s": "pacte",
+    "1p": "pactemos",
+    "2p": "pactai",
+    "3p": "pactem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pactes",
+    "3s": "não pacte",
+    "1p": "não pactemos",
+    "2p": "não pacteis",
+    "3p": "não pactem"
+  },
+  "Part-ter": {
+    "": "pactado"
+  },
+  "Part-ser": {
+    "ms": "pactado",
+    "fs": "pactada",
+    "mp": "pactados",
+    "fp": "pactadas"
+  }
+}

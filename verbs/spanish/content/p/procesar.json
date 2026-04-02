@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "procesar"
+  },
+  "Ger": {
+    "": "procesando"
+  },
+  "PresI": {
+    "1s": "proceso",
+    "2s": "procesas",
+    "3s": "procesa",
+    "1p": "procesamos",
+    "2p": "procesáis",
+    "3p": "procesan"
+  },
+  "PImpI": {
+    "1s": "procesaba",
+    "2s": "procesabas",
+    "3s": "procesaba",
+    "1p": "procesábamos",
+    "2p": "procesabais",
+    "3p": "procesaban"
+  },
+  "PPSI": {
+    "1s": "procesé",
+    "2s": "procesaste",
+    "3s": "procesó",
+    "1p": "procesamos",
+    "2p": "procesasteis",
+    "3p": "procesaron"
+  },
+  "FutSI": {
+    "1s": "procesaré",
+    "2s": "procesarás",
+    "3s": "procesará",
+    "1p": "procesaremos",
+    "2p": "procesaréis",
+    "3p": "procesarán"
+  },
+  "CondS": {
+    "1s": "procesaría",
+    "2s": "procesarías",
+    "3s": "procesaría",
+    "1p": "procesaríamos",
+    "2p": "procesaríais",
+    "3p": "procesarían"
+  },
+  "PresC": {
+    "1s": "procese",
+    "2s": "proceses",
+    "3s": "procese",
+    "1p": "procesemos",
+    "2p": "proceséis",
+    "3p": "procesen"
+  },
+  "PMQPSI": {
+    "1s": "procesara",
+    "2s": "procesaras",
+    "3s": "procesara",
+    "1p": "procesáramos",
+    "2p": "procesarais",
+    "3p": "procesaran"
+  },
+  "PImpC": {
+    "1s": "procesase",
+    "2s": "procesases",
+    "3s": "procesase",
+    "1p": "procesásemos",
+    "2p": "procesaseis",
+    "3p": "procesasen"
+  },
+  "FutSC": {
+    "1s": "procesare",
+    "2s": "procesares",
+    "3s": "procesare",
+    "1p": "procesáremos",
+    "2p": "procesareis",
+    "3p": "procesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "procesa",
+    "3s": "procese",
+    "1p": "procesemos",
+    "2p": "procesad",
+    "3p": "procesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no proceses",
+    "3s": "no procese",
+    "1p": "no procesemos",
+    "2p": "no proceséis",
+    "3p": "no procesen"
+  },
+  "Part-ter": {
+    "": "procesado"
+  },
+  "Part-ser": {
+    "ms": "procesado",
+    "fs": "procesada",
+    "mp": "procesados",
+    "fp": "procesadas"
+  }
+}

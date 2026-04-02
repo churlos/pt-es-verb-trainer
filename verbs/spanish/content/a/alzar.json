@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alzar"
+  },
+  "Ger": {
+    "": "alzando"
+  },
+  "PresI": {
+    "1s": "alzo",
+    "2s": "alzas",
+    "3s": "alza",
+    "1p": "alzamos",
+    "2p": "alzáis",
+    "3p": "alzan"
+  },
+  "PImpI": {
+    "1s": "alzaba",
+    "2s": "alzabas",
+    "3s": "alzaba",
+    "1p": "alzábamos",
+    "2p": "alzabais",
+    "3p": "alzaban"
+  },
+  "PPSI": {
+    "1s": "alcé",
+    "2s": "alzaste",
+    "3s": "alzó",
+    "1p": "alzamos",
+    "2p": "alzasteis",
+    "3p": "alzaron"
+  },
+  "FutSI": {
+    "1s": "alzaré",
+    "2s": "alzarás",
+    "3s": "alzará",
+    "1p": "alzaremos",
+    "2p": "alzaréis",
+    "3p": "alzarán"
+  },
+  "CondS": {
+    "1s": "alzaría",
+    "2s": "alzarías",
+    "3s": "alzaría",
+    "1p": "alzaríamos",
+    "2p": "alzaríais",
+    "3p": "alzarían"
+  },
+  "PresC": {
+    "1s": "alce",
+    "2s": "alces",
+    "3s": "alce",
+    "1p": "alcemos",
+    "2p": "alcéis",
+    "3p": "alcen"
+  },
+  "PMQPSI": {
+    "1s": "alzara",
+    "2s": "alzaras",
+    "3s": "alzara",
+    "1p": "alzáramos",
+    "2p": "alzarais",
+    "3p": "alzaran"
+  },
+  "PImpC": {
+    "1s": "alzase",
+    "2s": "alzases",
+    "3s": "alzase",
+    "1p": "alzásemos",
+    "2p": "alzaseis",
+    "3p": "alzasen"
+  },
+  "FutSC": {
+    "1s": "alzare",
+    "2s": "alzares",
+    "3s": "alzare",
+    "1p": "alzáremos",
+    "2p": "alzareis",
+    "3p": "alzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alza",
+    "3s": "alce",
+    "1p": "alcemos",
+    "2p": "alzad",
+    "3p": "alcen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alces",
+    "3s": "no alce",
+    "1p": "no alcemos",
+    "2p": "no alcéis",
+    "3p": "no alcen"
+  },
+  "Part-ter": {
+    "": "alzado"
+  },
+  "Part-ser": {
+    "ms": "alzado",
+    "fs": "alzada",
+    "mp": "alzados",
+    "fp": "alzadas"
+  }
+}

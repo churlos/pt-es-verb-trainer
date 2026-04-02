@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "afectar"
+  },
+  "InfP": {
+    "1s": "afectar",
+    "2s": "afectares",
+    "3s": "afectar",
+    "1p": "afectarmos",
+    "2p": "afectardes",
+    "3p": "afectarem"
+  },
+  "Ger": {
+    "": "afectando"
+  },
+  "PresI": {
+    "1s": "afecto",
+    "2s": "afectas",
+    "3s": "afecta",
+    "1p": "afectamos",
+    "2p": "afectais",
+    "3p": "afectam"
+  },
+  "PImpI": {
+    "1s": "afectava",
+    "2s": "afectavas",
+    "3s": "afectava",
+    "1p": "afectávamos",
+    "2p": "afectáveis",
+    "3p": "afectavam"
+  },
+  "PPSI": {
+    "1s": "afectei",
+    "2s": "afectaste",
+    "3s": "afectou",
+    "1p": "afectámos",
+    "2p": "afectastes",
+    "3p": "afectaram"
+  },
+  "PMQPSI": {
+    "1s": "afectara",
+    "2s": "afectaras",
+    "3s": "afectara",
+    "1p": "afectáramos",
+    "2p": "afectáreis",
+    "3p": "afectaram"
+  },
+  "FutSI": {
+    "1s": "afectarei",
+    "2s": "afectarás",
+    "3s": "afectará",
+    "1p": "afectaremos",
+    "2p": "afectareis",
+    "3p": "afectarão"
+  },
+  "CondS": {
+    "1s": "afectaria",
+    "2s": "afectarias",
+    "3s": "afectaria",
+    "1p": "afectaríamos",
+    "2p": "afectaríeis",
+    "3p": "afectariam"
+  },
+  "PresC": {
+    "1s": "afecte",
+    "2s": "afectes",
+    "3s": "afecte",
+    "1p": "afectemos",
+    "2p": "afecteis",
+    "3p": "afectem"
+  },
+  "PImpC": {
+    "1s": "afectasse",
+    "2s": "afectasses",
+    "3s": "afectasse",
+    "1p": "afectássemos",
+    "2p": "afectásseis",
+    "3p": "afectassem"
+  },
+  "FutSC": {
+    "1s": "afectar",
+    "2s": "afectares",
+    "3s": "afectar",
+    "1p": "afectarmos",
+    "2p": "afectardes",
+    "3p": "afectarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afecta",
+    "3s": "afecte",
+    "1p": "afectemos",
+    "2p": "afectai",
+    "3p": "afectem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não afectes",
+    "3s": "não afecte",
+    "1p": "não afectemos",
+    "2p": "não afecteis",
+    "3p": "não afectem"
+  },
+  "Part-ter": {
+    "": "afectado"
+  },
+  "Part-ser": {
+    "ms": "afectado",
+    "fs": "afectada",
+    "mp": "afectados",
+    "fp": "afectadas"
+  }
+}

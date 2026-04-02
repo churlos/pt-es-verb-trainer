@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "consumar"
+  },
+  "Ger": {
+    "": "consumando"
+  },
+  "PresI": {
+    "1s": "consumo",
+    "2s": "consumas",
+    "3s": "consuma",
+    "1p": "consumamos",
+    "2p": "consumáis",
+    "3p": "consuman"
+  },
+  "PImpI": {
+    "1s": "consumaba",
+    "2s": "consumabas",
+    "3s": "consumaba",
+    "1p": "consumábamos",
+    "2p": "consumabais",
+    "3p": "consumaban"
+  },
+  "PPSI": {
+    "1s": "consumé",
+    "2s": "consumaste",
+    "3s": "consumó",
+    "1p": "consumamos",
+    "2p": "consumasteis",
+    "3p": "consumaron"
+  },
+  "FutSI": {
+    "1s": "consumaré",
+    "2s": "consumarás",
+    "3s": "consumará",
+    "1p": "consumaremos",
+    "2p": "consumaréis",
+    "3p": "consumarán"
+  },
+  "CondS": {
+    "1s": "consumaría",
+    "2s": "consumarías",
+    "3s": "consumaría",
+    "1p": "consumaríamos",
+    "2p": "consumaríais",
+    "3p": "consumarían"
+  },
+  "PresC": {
+    "1s": "consume",
+    "2s": "consumes",
+    "3s": "consume",
+    "1p": "consumemos",
+    "2p": "consuméis",
+    "3p": "consumen"
+  },
+  "PMQPSI": {
+    "1s": "consumara",
+    "2s": "consumaras",
+    "3s": "consumara",
+    "1p": "consumáramos",
+    "2p": "consumarais",
+    "3p": "consumaran"
+  },
+  "PImpC": {
+    "1s": "consumase",
+    "2s": "consumases",
+    "3s": "consumase",
+    "1p": "consumásemos",
+    "2p": "consumaseis",
+    "3p": "consumasen"
+  },
+  "FutSC": {
+    "1s": "consumare",
+    "2s": "consumares",
+    "3s": "consumare",
+    "1p": "consumáremos",
+    "2p": "consumareis",
+    "3p": "consumaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consuma",
+    "3s": "consume",
+    "1p": "consumemos",
+    "2p": "consumad",
+    "3p": "consumen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no consumes",
+    "3s": "no consume",
+    "1p": "no consumemos",
+    "2p": "no consuméis",
+    "3p": "no consumen"
+  },
+  "Part-ter": {
+    "": "consumado"
+  },
+  "Part-ser": {
+    "ms": "consumado",
+    "fs": "consumada",
+    "mp": "consumados",
+    "fp": "consumadas"
+  }
+}

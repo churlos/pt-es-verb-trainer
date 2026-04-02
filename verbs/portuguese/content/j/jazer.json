@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "jazer"
+  },
+  "InfP": {
+    "1s": "jazer",
+    "2s": "jazeres",
+    "3s": "jazer",
+    "1p": "jazermos",
+    "2p": "jazerdes",
+    "3p": "jazerem"
+  },
+  "Ger": {
+    "": "jazendo"
+  },
+  "PresI": {
+    "1s": "jazo",
+    "2s": "jazes",
+    "3s": "jaz",
+    "1p": "jazemos",
+    "2p": "jazeis",
+    "3p": "jazem"
+  },
+  "PImpI": {
+    "1s": "jazia",
+    "2s": "jazias",
+    "3s": "jazia",
+    "1p": "jazíamos",
+    "2p": "jazíeis",
+    "3p": "jaziam"
+  },
+  "PPSI": {
+    "1s": "jazi",
+    "2s": "jazeste",
+    "3s": "jazeu",
+    "1p": "jazemos",
+    "2p": "jazestes",
+    "3p": "jazeram"
+  },
+  "PMQPSI": {
+    "1s": "jazera",
+    "2s": "jazeras",
+    "3s": "jazera",
+    "1p": "jazêramos",
+    "2p": "jazêreis",
+    "3p": "jazeram"
+  },
+  "FutSI": {
+    "1s": "jazerei",
+    "2s": "jazerás",
+    "3s": "jazerá",
+    "1p": "jazeremos",
+    "2p": "jazereis",
+    "3p": "jazerão"
+  },
+  "CondS": {
+    "1s": "jazeria",
+    "2s": "jazerias",
+    "3s": "jazeria",
+    "1p": "jazeríamos",
+    "2p": "jazeríeis",
+    "3p": "jazeriam"
+  },
+  "PresC": {
+    "1s": "jaza",
+    "2s": "jazas",
+    "3s": "jaza",
+    "1p": "jazamos",
+    "2p": "jazais",
+    "3p": "jazam"
+  },
+  "PImpC": {
+    "1s": "jazesse",
+    "2s": "jazesses",
+    "3s": "jazesse",
+    "1p": "jazêssemos",
+    "2p": "jazêsseis",
+    "3p": "jazessem"
+  },
+  "FutSC": {
+    "1s": "jazer",
+    "2s": "jazeres",
+    "3s": "jazer",
+    "1p": "jazermos",
+    "2p": "jazerdes",
+    "3p": "jazerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jaz",
+    "3s": "jaza",
+    "1p": "jazamos",
+    "2p": "jazei",
+    "3p": "jazam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não jazas",
+    "3s": "não jaza",
+    "1p": "não jazamos",
+    "2p": "não jazais",
+    "3p": "não jazam"
+  },
+  "Part-ter": {
+    "": "jazido"
+  },
+  "Part-ser": {
+    "ms": "jazido",
+    "fs": "jazida",
+    "mp": "jazidos",
+    "fp": "jazidas"
+  }
+}

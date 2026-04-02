@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descubrir"
+  },
+  "Ger": {
+    "": "descubriendo"
+  },
+  "PresI": {
+    "1s": "descubro",
+    "2s": "descubres",
+    "3s": "descubre",
+    "1p": "descubrimos",
+    "2p": "descubrís",
+    "3p": "descubren"
+  },
+  "PImpI": {
+    "1s": "descubría",
+    "2s": "descubrías",
+    "3s": "descubría",
+    "1p": "descubríamos",
+    "2p": "descubríais",
+    "3p": "descubrían"
+  },
+  "PPSI": {
+    "1s": "descubrí",
+    "2s": "descubriste",
+    "3s": "descubrió",
+    "1p": "descubrimos",
+    "2p": "descubristeis",
+    "3p": "descubrieron"
+  },
+  "FutSI": {
+    "1s": "descubriré",
+    "2s": "descubrirás",
+    "3s": "descubrirá",
+    "1p": "descubriremos",
+    "2p": "descubriréis",
+    "3p": "descubrirán"
+  },
+  "CondS": {
+    "1s": "descubriría",
+    "2s": "descubrirías",
+    "3s": "descubriría",
+    "1p": "descubriríamos",
+    "2p": "descubriríais",
+    "3p": "descubrirían"
+  },
+  "PresC": {
+    "1s": "descubra",
+    "2s": "descubras",
+    "3s": "descubra",
+    "1p": "descubramos",
+    "2p": "descubráis",
+    "3p": "descubran"
+  },
+  "PMQPSI": {
+    "1s": "descubriera",
+    "2s": "descubrieras",
+    "3s": "descubriera",
+    "1p": "descubriéramos",
+    "2p": "descubrierais",
+    "3p": "descubrieran"
+  },
+  "PImpC": {
+    "1s": "descubriese",
+    "2s": "descubrieses",
+    "3s": "descubriese",
+    "1p": "descubriésemos",
+    "2p": "descubrieseis",
+    "3p": "descubriesen"
+  },
+  "FutSC": {
+    "1s": "descubriere",
+    "2s": "descubrieres",
+    "3s": "descubriere",
+    "1p": "descubriéremos",
+    "2p": "descubriereis",
+    "3p": "descubrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descubre",
+    "3s": "descubra",
+    "1p": "descubramos",
+    "2p": "descubrid",
+    "3p": "descubran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no descubras",
+    "3s": "no descubra",
+    "1p": "no descubramos",
+    "2p": "no descubráis",
+    "3p": "no descubran"
+  },
+  "Part-ter": {
+    "": "descubierto"
+  },
+  "Part-ser": {
+    "ms": "descubierto",
+    "fs": "descubierta",
+    "mp": "descubiertos",
+    "fp": "descubiertas"
+  }
+}

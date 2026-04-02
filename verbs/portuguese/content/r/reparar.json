@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reparar"
+  },
+  "InfP": {
+    "1s": "reparar",
+    "2s": "reparares",
+    "3s": "reparar",
+    "1p": "repararmos",
+    "2p": "reparardes",
+    "3p": "repararem"
+  },
+  "Ger": {
+    "": "reparando"
+  },
+  "PresI": {
+    "1s": "reparo",
+    "2s": "reparas",
+    "3s": "repara",
+    "1p": "reparamos",
+    "2p": "reparais",
+    "3p": "reparam"
+  },
+  "PImpI": {
+    "1s": "reparava",
+    "2s": "reparavas",
+    "3s": "reparava",
+    "1p": "reparávamos",
+    "2p": "reparáveis",
+    "3p": "reparavam"
+  },
+  "PPSI": {
+    "1s": "reparei",
+    "2s": "reparaste",
+    "3s": "reparou",
+    "1p": "reparámos",
+    "2p": "reparastes",
+    "3p": "repararam"
+  },
+  "PMQPSI": {
+    "1s": "reparara",
+    "2s": "repararas",
+    "3s": "reparara",
+    "1p": "reparáramos",
+    "2p": "reparáreis",
+    "3p": "repararam"
+  },
+  "FutSI": {
+    "1s": "repararei",
+    "2s": "repararás",
+    "3s": "reparará",
+    "1p": "repararemos",
+    "2p": "reparareis",
+    "3p": "repararão"
+  },
+  "CondS": {
+    "1s": "repararia",
+    "2s": "repararias",
+    "3s": "repararia",
+    "1p": "repararíamos",
+    "2p": "repararíeis",
+    "3p": "reparariam"
+  },
+  "PresC": {
+    "1s": "repare",
+    "2s": "repares",
+    "3s": "repare",
+    "1p": "reparemos",
+    "2p": "repareis",
+    "3p": "reparem"
+  },
+  "PImpC": {
+    "1s": "reparasse",
+    "2s": "reparasses",
+    "3s": "reparasse",
+    "1p": "reparássemos",
+    "2p": "reparásseis",
+    "3p": "reparassem"
+  },
+  "FutSC": {
+    "1s": "reparar",
+    "2s": "reparares",
+    "3s": "reparar",
+    "1p": "repararmos",
+    "2p": "reparardes",
+    "3p": "repararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "repara",
+    "3s": "repare",
+    "1p": "reparemos",
+    "2p": "reparai",
+    "3p": "reparem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não repares",
+    "3s": "não repare",
+    "1p": "não reparemos",
+    "2p": "não repareis",
+    "3p": "não reparem"
+  },
+  "Part-ter": {
+    "": "reparado"
+  },
+  "Part-ser": {
+    "ms": "reparado",
+    "fs": "reparada",
+    "mp": "reparados",
+    "fp": "reparadas"
+  }
+}

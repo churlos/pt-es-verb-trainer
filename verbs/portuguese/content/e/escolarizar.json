@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escolarizar"
+  },
+  "InfP": {
+    "1s": "escolarizar",
+    "2s": "escolarizares",
+    "3s": "escolarizar",
+    "1p": "escolarizarmos",
+    "2p": "escolarizardes",
+    "3p": "escolarizarem"
+  },
+  "Ger": {
+    "": "escolarizando"
+  },
+  "PresI": {
+    "1s": "escolarizo",
+    "2s": "escolarizas",
+    "3s": "escolariza",
+    "1p": "escolarizamos",
+    "2p": "escolarizais",
+    "3p": "escolarizam"
+  },
+  "PImpI": {
+    "1s": "escolarizava",
+    "2s": "escolarizavas",
+    "3s": "escolarizava",
+    "1p": "escolarizávamos",
+    "2p": "escolarizáveis",
+    "3p": "escolarizavam"
+  },
+  "PPSI": {
+    "1s": "escolarizei",
+    "2s": "escolarizaste",
+    "3s": "escolarizou",
+    "1p": "escolarizámos",
+    "2p": "escolarizastes",
+    "3p": "escolarizaram"
+  },
+  "PMQPSI": {
+    "1s": "escolarizara",
+    "2s": "escolarizaras",
+    "3s": "escolarizara",
+    "1p": "escolarizáramos",
+    "2p": "escolarizáreis",
+    "3p": "escolarizaram"
+  },
+  "FutSI": {
+    "1s": "escolarizarei",
+    "2s": "escolarizarás",
+    "3s": "escolarizará",
+    "1p": "escolarizaremos",
+    "2p": "escolarizareis",
+    "3p": "escolarizarão"
+  },
+  "CondS": {
+    "1s": "escolarizaria",
+    "2s": "escolarizarias",
+    "3s": "escolarizaria",
+    "1p": "escolarizaríamos",
+    "2p": "escolarizaríeis",
+    "3p": "escolarizariam"
+  },
+  "PresC": {
+    "1s": "escolarize",
+    "2s": "escolarizes",
+    "3s": "escolarize",
+    "1p": "escolarizemos",
+    "2p": "escolarizeis",
+    "3p": "escolarizem"
+  },
+  "PImpC": {
+    "1s": "escolarizasse",
+    "2s": "escolarizasses",
+    "3s": "escolarizasse",
+    "1p": "escolarizássemos",
+    "2p": "escolarizásseis",
+    "3p": "escolarizassem"
+  },
+  "FutSC": {
+    "1s": "escolarizar",
+    "2s": "escolarizares",
+    "3s": "escolarizar",
+    "1p": "escolarizarmos",
+    "2p": "escolarizardes",
+    "3p": "escolarizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escolariza",
+    "3s": "escolarize",
+    "1p": "escolarizemos",
+    "2p": "escolarizai",
+    "3p": "escolarizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escolarizes",
+    "3s": "não escolarize",
+    "1p": "não escolarizemos",
+    "2p": "não escolarizeis",
+    "3p": "não escolarizem"
+  },
+  "Part-ter": {
+    "": "escolarizado"
+  },
+  "Part-ser": {
+    "ms": "escolarizado",
+    "fs": "escolarizada",
+    "mp": "escolarizados",
+    "fp": "escolarizadas"
+  }
+}

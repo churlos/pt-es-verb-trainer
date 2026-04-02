@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aparecer"
+  },
+  "InfP": {
+    "1s": "aparecer",
+    "2s": "apareceres",
+    "3s": "aparecer",
+    "1p": "aparecermos",
+    "2p": "aparecerdes",
+    "3p": "aparecerem"
+  },
+  "Ger": {
+    "": "aparecendo"
+  },
+  "PresI": {
+    "1s": "apareço",
+    "2s": "apareces",
+    "3s": "aparece",
+    "1p": "aparecemos",
+    "2p": "apareceis",
+    "3p": "aparecem"
+  },
+  "PImpI": {
+    "1s": "aparecia",
+    "2s": "aparecias",
+    "3s": "aparecia",
+    "1p": "aparecíamos",
+    "2p": "aparecíeis",
+    "3p": "apareciam"
+  },
+  "PPSI": {
+    "1s": "apareci",
+    "2s": "apareceste",
+    "3s": "apareceu",
+    "1p": "aparecemos",
+    "2p": "aparecestes",
+    "3p": "apareceram"
+  },
+  "PMQPSI": {
+    "1s": "aparecera",
+    "2s": "apareceras",
+    "3s": "aparecera",
+    "1p": "aparecêramos",
+    "2p": "aparecêreis",
+    "3p": "apareceram"
+  },
+  "FutSI": {
+    "1s": "aparecerei",
+    "2s": "aparecerás",
+    "3s": "aparecerá",
+    "1p": "apareceremos",
+    "2p": "aparecereis",
+    "3p": "aparecerão"
+  },
+  "CondS": {
+    "1s": "apareceria",
+    "2s": "aparecerias",
+    "3s": "apareceria",
+    "1p": "apareceríamos",
+    "2p": "apareceríeis",
+    "3p": "apareceriam"
+  },
+  "PresC": {
+    "1s": "apareça",
+    "2s": "apareças",
+    "3s": "apareça",
+    "1p": "apareçamos",
+    "2p": "apareçais",
+    "3p": "apareçam"
+  },
+  "PImpC": {
+    "1s": "aparecesse",
+    "2s": "aparecesses",
+    "3s": "aparecesse",
+    "1p": "aparecêssemos",
+    "2p": "aparecêsseis",
+    "3p": "aparecessem"
+  },
+  "FutSC": {
+    "1s": "aparecer",
+    "2s": "apareceres",
+    "3s": "aparecer",
+    "1p": "aparecermos",
+    "2p": "aparecerdes",
+    "3p": "aparecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aparece",
+    "3s": "apareça",
+    "1p": "apareçamos",
+    "2p": "aparecei",
+    "3p": "apareçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apareças",
+    "3s": "não apareça",
+    "1p": "não apareçamos",
+    "2p": "não apareçais",
+    "3p": "não apareçam"
+  },
+  "Part-ter": {
+    "": "aparecido"
+  },
+  "Part-ser": {
+    "ms": "aparecido",
+    "fs": "aparecida",
+    "mp": "aparecidos",
+    "fp": "aparecidas"
+  }
+}

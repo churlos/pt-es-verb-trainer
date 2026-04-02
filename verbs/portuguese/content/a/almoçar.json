@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "almoçar"
+  },
+  "InfP": {
+    "1s": "almoçar",
+    "2s": "almoçares",
+    "3s": "almoçar",
+    "1p": "almoçarmos",
+    "2p": "almoçardes",
+    "3p": "almoçarem"
+  },
+  "Ger": {
+    "": "almoçando"
+  },
+  "PresI": {
+    "1s": "almoço",
+    "2s": "almoças",
+    "3s": "almoça",
+    "1p": "almoçamos",
+    "2p": "almoçais",
+    "3p": "almoçam"
+  },
+  "PImpI": {
+    "1s": "almoçava",
+    "2s": "almoçavas",
+    "3s": "almoçava",
+    "1p": "almoçávamos",
+    "2p": "almoçáveis",
+    "3p": "almoçavam"
+  },
+  "PPSI": {
+    "1s": "almocei",
+    "2s": "almoçaste",
+    "3s": "almoçou",
+    "1p": "almoçámos",
+    "2p": "almoçastes",
+    "3p": "almoçaram"
+  },
+  "PMQPSI": {
+    "1s": "almoçara",
+    "2s": "almoçaras",
+    "3s": "almoçara",
+    "1p": "almoçáramos",
+    "2p": "almoçáreis",
+    "3p": "almoçaram"
+  },
+  "FutSI": {
+    "1s": "almoçarei",
+    "2s": "almoçarás",
+    "3s": "almoçará",
+    "1p": "almoçaremos",
+    "2p": "almoçareis",
+    "3p": "almoçarão"
+  },
+  "CondS": {
+    "1s": "almoçaria",
+    "2s": "almoçarias",
+    "3s": "almoçaria",
+    "1p": "almoçaríamos",
+    "2p": "almoçaríeis",
+    "3p": "almoçariam"
+  },
+  "PresC": {
+    "1s": "almoce",
+    "2s": "almoces",
+    "3s": "almoce",
+    "1p": "almocemos",
+    "2p": "almoceis",
+    "3p": "almocem"
+  },
+  "PImpC": {
+    "1s": "almoçasse",
+    "2s": "almoçasses",
+    "3s": "almoçasse",
+    "1p": "almoçássemos",
+    "2p": "almoçásseis",
+    "3p": "almoçassem"
+  },
+  "FutSC": {
+    "1s": "almoçar",
+    "2s": "almoçares",
+    "3s": "almoçar",
+    "1p": "almoçarmos",
+    "2p": "almoçardes",
+    "3p": "almoçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "almoça",
+    "3s": "almoce",
+    "1p": "almocemos",
+    "2p": "almoçai",
+    "3p": "almocem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não almoces",
+    "3s": "não almoce",
+    "1p": "não almocemos",
+    "2p": "não almoceis",
+    "3p": "não almocem"
+  },
+  "Part-ter": {
+    "": "almoçado"
+  },
+  "Part-ser": {
+    "ms": "almoçado",
+    "fs": "almoçada",
+    "mp": "almoçados",
+    "fp": "almoçadas"
+  }
+}

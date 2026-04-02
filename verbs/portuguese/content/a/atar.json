@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atar"
+  },
+  "InfP": {
+    "1s": "atar",
+    "2s": "atares",
+    "3s": "atar",
+    "1p": "atarmos",
+    "2p": "atardes",
+    "3p": "atarem"
+  },
+  "Ger": {
+    "": "atando"
+  },
+  "PresI": {
+    "1s": "ato",
+    "2s": "atas",
+    "3s": "ata",
+    "1p": "atamos",
+    "2p": "atais",
+    "3p": "atam"
+  },
+  "PImpI": {
+    "1s": "atava",
+    "2s": "atavas",
+    "3s": "atava",
+    "1p": "atávamos",
+    "2p": "atáveis",
+    "3p": "atavam"
+  },
+  "PPSI": {
+    "1s": "atei",
+    "2s": "ataste",
+    "3s": "atou",
+    "1p": "atámos",
+    "2p": "atastes",
+    "3p": "ataram"
+  },
+  "PMQPSI": {
+    "1s": "atara",
+    "2s": "ataras",
+    "3s": "atara",
+    "1p": "atáramos",
+    "2p": "atáreis",
+    "3p": "ataram"
+  },
+  "FutSI": {
+    "1s": "atarei",
+    "2s": "atarás",
+    "3s": "atará",
+    "1p": "ataremos",
+    "2p": "atareis",
+    "3p": "atarão"
+  },
+  "CondS": {
+    "1s": "ataria",
+    "2s": "atarias",
+    "3s": "ataria",
+    "1p": "ataríamos",
+    "2p": "ataríeis",
+    "3p": "atariam"
+  },
+  "PresC": {
+    "1s": "ate",
+    "2s": "ates",
+    "3s": "ate",
+    "1p": "atemos",
+    "2p": "ateis",
+    "3p": "atem"
+  },
+  "PImpC": {
+    "1s": "atasse",
+    "2s": "atasses",
+    "3s": "atasse",
+    "1p": "atássemos",
+    "2p": "atásseis",
+    "3p": "atassem"
+  },
+  "FutSC": {
+    "1s": "atar",
+    "2s": "atares",
+    "3s": "atar",
+    "1p": "atarmos",
+    "2p": "atardes",
+    "3p": "atarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ata",
+    "3s": "ate",
+    "1p": "atemos",
+    "2p": "atai",
+    "3p": "atem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ates",
+    "3s": "não ate",
+    "1p": "não atemos",
+    "2p": "não ateis",
+    "3p": "não atem"
+  },
+  "Part-ter": {
+    "": "atado"
+  },
+  "Part-ser": {
+    "ms": "atado",
+    "fs": "atada",
+    "mp": "atados",
+    "fp": "atadas"
+  }
+}

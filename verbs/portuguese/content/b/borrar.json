@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "borrar"
+  },
+  "InfP": {
+    "1s": "borrar",
+    "2s": "borrares",
+    "3s": "borrar",
+    "1p": "borrarmos",
+    "2p": "borrardes",
+    "3p": "borrarem"
+  },
+  "Ger": {
+    "": "borrando"
+  },
+  "PresI": {
+    "1s": "borro",
+    "2s": "borras",
+    "3s": "borra",
+    "1p": "borramos",
+    "2p": "borrais",
+    "3p": "borram"
+  },
+  "PImpI": {
+    "1s": "borrava",
+    "2s": "borravas",
+    "3s": "borrava",
+    "1p": "borrávamos",
+    "2p": "borráveis",
+    "3p": "borravam"
+  },
+  "PPSI": {
+    "1s": "borrei",
+    "2s": "borraste",
+    "3s": "borrou",
+    "1p": "borrámos",
+    "2p": "borrastes",
+    "3p": "borraram"
+  },
+  "PMQPSI": {
+    "1s": "borrara",
+    "2s": "borraras",
+    "3s": "borrara",
+    "1p": "borráramos",
+    "2p": "borráreis",
+    "3p": "borraram"
+  },
+  "FutSI": {
+    "1s": "borrarei",
+    "2s": "borrarás",
+    "3s": "borrará",
+    "1p": "borraremos",
+    "2p": "borrareis",
+    "3p": "borrarão"
+  },
+  "CondS": {
+    "1s": "borraria",
+    "2s": "borrarias",
+    "3s": "borraria",
+    "1p": "borraríamos",
+    "2p": "borraríeis",
+    "3p": "borrariam"
+  },
+  "PresC": {
+    "1s": "borre",
+    "2s": "borres",
+    "3s": "borre",
+    "1p": "borremos",
+    "2p": "borreis",
+    "3p": "borrem"
+  },
+  "PImpC": {
+    "1s": "borrasse",
+    "2s": "borrasses",
+    "3s": "borrasse",
+    "1p": "borrássemos",
+    "2p": "borrásseis",
+    "3p": "borrassem"
+  },
+  "FutSC": {
+    "1s": "borrar",
+    "2s": "borrares",
+    "3s": "borrar",
+    "1p": "borrarmos",
+    "2p": "borrardes",
+    "3p": "borrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "borra",
+    "3s": "borre",
+    "1p": "borremos",
+    "2p": "borrai",
+    "3p": "borrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não borres",
+    "3s": "não borre",
+    "1p": "não borremos",
+    "2p": "não borreis",
+    "3p": "não borrem"
+  },
+  "Part-ter": {
+    "": "borrado"
+  },
+  "Part-ser": {
+    "ms": "borrado",
+    "fs": "borrada",
+    "mp": "borrados",
+    "fp": "borradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "imobilizar"
+  },
+  "InfP": {
+    "1s": "imobilizar",
+    "2s": "imobilizares",
+    "3s": "imobilizar",
+    "1p": "imobilizarmos",
+    "2p": "imobilizardes",
+    "3p": "imobilizarem"
+  },
+  "Ger": {
+    "": "imobilizando"
+  },
+  "PresI": {
+    "1s": "imobilizo",
+    "2s": "imobilizas",
+    "3s": "imobiliza",
+    "1p": "imobilizamos",
+    "2p": "imobilizais",
+    "3p": "imobilizam"
+  },
+  "PImpI": {
+    "1s": "imobilizava",
+    "2s": "imobilizavas",
+    "3s": "imobilizava",
+    "1p": "imobilizávamos",
+    "2p": "imobilizáveis",
+    "3p": "imobilizavam"
+  },
+  "PPSI": {
+    "1s": "imobilizei",
+    "2s": "imobilizaste",
+    "3s": "imobilizou",
+    "1p": "imobilizámos",
+    "2p": "imobilizastes",
+    "3p": "imobilizaram"
+  },
+  "PMQPSI": {
+    "1s": "imobilizara",
+    "2s": "imobilizaras",
+    "3s": "imobilizara",
+    "1p": "imobilizáramos",
+    "2p": "imobilizáreis",
+    "3p": "imobilizaram"
+  },
+  "FutSI": {
+    "1s": "imobilizarei",
+    "2s": "imobilizarás",
+    "3s": "imobilizará",
+    "1p": "imobilizaremos",
+    "2p": "imobilizareis",
+    "3p": "imobilizarão"
+  },
+  "CondS": {
+    "1s": "imobilizaria",
+    "2s": "imobilizarias",
+    "3s": "imobilizaria",
+    "1p": "imobilizaríamos",
+    "2p": "imobilizaríeis",
+    "3p": "imobilizariam"
+  },
+  "PresC": {
+    "1s": "imobilize",
+    "2s": "imobilizes",
+    "3s": "imobilize",
+    "1p": "imobilizemos",
+    "2p": "imobilizeis",
+    "3p": "imobilizem"
+  },
+  "PImpC": {
+    "1s": "imobilizasse",
+    "2s": "imobilizasses",
+    "3s": "imobilizasse",
+    "1p": "imobilizássemos",
+    "2p": "imobilizásseis",
+    "3p": "imobilizassem"
+  },
+  "FutSC": {
+    "1s": "imobilizar",
+    "2s": "imobilizares",
+    "3s": "imobilizar",
+    "1p": "imobilizarmos",
+    "2p": "imobilizardes",
+    "3p": "imobilizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "imobiliza",
+    "3s": "imobilize",
+    "1p": "imobilizemos",
+    "2p": "imobilizai",
+    "3p": "imobilizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não imobilizes",
+    "3s": "não imobilize",
+    "1p": "não imobilizemos",
+    "2p": "não imobilizeis",
+    "3p": "não imobilizem"
+  },
+  "Part-ter": {
+    "": "imobilizado"
+  },
+  "Part-ser": {
+    "ms": "imobilizado",
+    "fs": "imobilizada",
+    "mp": "imobilizados",
+    "fp": "imobilizadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desfalcar"
+  },
+  "InfP": {
+    "1s": "desfalcar",
+    "2s": "desfalcares",
+    "3s": "desfalcar",
+    "1p": "desfalcarmos",
+    "2p": "desfalcardes",
+    "3p": "desfalcarem"
+  },
+  "Ger": {
+    "": "desfalcando"
+  },
+  "PresI": {
+    "1s": "desfalco",
+    "2s": "desfalcas",
+    "3s": "desfalca",
+    "1p": "desfalcamos",
+    "2p": "desfalcais",
+    "3p": "desfalcam"
+  },
+  "PImpI": {
+    "1s": "desfalcava",
+    "2s": "desfalcavas",
+    "3s": "desfalcava",
+    "1p": "desfalcávamos",
+    "2p": "desfalcáveis",
+    "3p": "desfalcavam"
+  },
+  "PPSI": {
+    "1s": "desfalquei",
+    "2s": "desfalcaste",
+    "3s": "desfalcou",
+    "1p": "desfalcámos",
+    "2p": "desfalcastes",
+    "3p": "desfalcaram"
+  },
+  "PMQPSI": {
+    "1s": "desfalcara",
+    "2s": "desfalcaras",
+    "3s": "desfalcara",
+    "1p": "desfalcáramos",
+    "2p": "desfalcáreis",
+    "3p": "desfalcaram"
+  },
+  "FutSI": {
+    "1s": "desfalcarei",
+    "2s": "desfalcarás",
+    "3s": "desfalcará",
+    "1p": "desfalcaremos",
+    "2p": "desfalcareis",
+    "3p": "desfalcarão"
+  },
+  "CondS": {
+    "1s": "desfalcaria",
+    "2s": "desfalcarias",
+    "3s": "desfalcaria",
+    "1p": "desfalcaríamos",
+    "2p": "desfalcaríeis",
+    "3p": "desfalcariam"
+  },
+  "PresC": {
+    "1s": "desfalque",
+    "2s": "desfalques",
+    "3s": "desfalque",
+    "1p": "desfalquemos",
+    "2p": "desfalqueis",
+    "3p": "desfalquem"
+  },
+  "PImpC": {
+    "1s": "desfalcasse",
+    "2s": "desfalcasses",
+    "3s": "desfalcasse",
+    "1p": "desfalcássemos",
+    "2p": "desfalcásseis",
+    "3p": "desfalcassem"
+  },
+  "FutSC": {
+    "1s": "desfalcar",
+    "2s": "desfalcares",
+    "3s": "desfalcar",
+    "1p": "desfalcarmos",
+    "2p": "desfalcardes",
+    "3p": "desfalcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desfalca",
+    "3s": "desfalque",
+    "1p": "desfalquemos",
+    "2p": "desfalcai",
+    "3p": "desfalquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desfalques",
+    "3s": "não desfalque",
+    "1p": "não desfalquemos",
+    "2p": "não desfalqueis",
+    "3p": "não desfalquem"
+  },
+  "Part-ter": {
+    "": "desfalcado"
+  },
+  "Part-ser": {
+    "ms": "desfalcado",
+    "fs": "desfalcada",
+    "mp": "desfalcados",
+    "fp": "desfalcadas"
+  }
+}

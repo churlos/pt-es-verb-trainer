@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cifrar"
+  },
+  "Ger": {
+    "": "cifrando"
+  },
+  "PresI": {
+    "1s": "cifro",
+    "2s": "cifras",
+    "3s": "cifra",
+    "1p": "ciframos",
+    "2p": "cifráis",
+    "3p": "cifran"
+  },
+  "PImpI": {
+    "1s": "cifraba",
+    "2s": "cifrabas",
+    "3s": "cifraba",
+    "1p": "cifrábamos",
+    "2p": "cifrabais",
+    "3p": "cifraban"
+  },
+  "PPSI": {
+    "1s": "cifré",
+    "2s": "cifraste",
+    "3s": "cifró",
+    "1p": "ciframos",
+    "2p": "cifrasteis",
+    "3p": "cifraron"
+  },
+  "FutSI": {
+    "1s": "cifraré",
+    "2s": "cifrarás",
+    "3s": "cifrará",
+    "1p": "cifraremos",
+    "2p": "cifraréis",
+    "3p": "cifrarán"
+  },
+  "CondS": {
+    "1s": "cifraría",
+    "2s": "cifrarías",
+    "3s": "cifraría",
+    "1p": "cifraríamos",
+    "2p": "cifraríais",
+    "3p": "cifrarían"
+  },
+  "PresC": {
+    "1s": "cifre",
+    "2s": "cifres",
+    "3s": "cifre",
+    "1p": "cifremos",
+    "2p": "cifréis",
+    "3p": "cifren"
+  },
+  "PMQPSI": {
+    "1s": "cifrara",
+    "2s": "cifraras",
+    "3s": "cifrara",
+    "1p": "cifráramos",
+    "2p": "cifrarais",
+    "3p": "cifraran"
+  },
+  "PImpC": {
+    "1s": "cifrase",
+    "2s": "cifrases",
+    "3s": "cifrase",
+    "1p": "cifrásemos",
+    "2p": "cifraseis",
+    "3p": "cifrasen"
+  },
+  "FutSC": {
+    "1s": "cifrare",
+    "2s": "cifrares",
+    "3s": "cifrare",
+    "1p": "cifráremos",
+    "2p": "cifrareis",
+    "3p": "cifraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cifra",
+    "3s": "cifre",
+    "1p": "cifremos",
+    "2p": "cifrad",
+    "3p": "cifren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cifres",
+    "3s": "no cifre",
+    "1p": "no cifremos",
+    "2p": "no cifréis",
+    "3p": "no cifren"
+  },
+  "Part-ter": {
+    "": "cifrado"
+  },
+  "Part-ser": {
+    "ms": "cifrado",
+    "fs": "cifrada",
+    "mp": "cifrados",
+    "fp": "cifradas"
+  }
+}

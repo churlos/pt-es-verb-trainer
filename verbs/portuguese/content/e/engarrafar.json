@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "engarrafar"
+  },
+  "InfP": {
+    "1s": "engarrafar",
+    "2s": "engarrafares",
+    "3s": "engarrafar",
+    "1p": "engarrafarmos",
+    "2p": "engarrafardes",
+    "3p": "engarrafarem"
+  },
+  "Ger": {
+    "": "engarrafando"
+  },
+  "PresI": {
+    "1s": "engarrafo",
+    "2s": "engarrafas",
+    "3s": "engarrafa",
+    "1p": "engarrafamos",
+    "2p": "engarrafais",
+    "3p": "engarrafam"
+  },
+  "PImpI": {
+    "1s": "engarrafava",
+    "2s": "engarrafavas",
+    "3s": "engarrafava",
+    "1p": "engarrafávamos",
+    "2p": "engarrafáveis",
+    "3p": "engarrafavam"
+  },
+  "PPSI": {
+    "1s": "engarrafei",
+    "2s": "engarrafaste",
+    "3s": "engarrafou",
+    "1p": "engarrafámos",
+    "2p": "engarrafastes",
+    "3p": "engarrafaram"
+  },
+  "PMQPSI": {
+    "1s": "engarrafara",
+    "2s": "engarrafaras",
+    "3s": "engarrafara",
+    "1p": "engarrafáramos",
+    "2p": "engarrafáreis",
+    "3p": "engarrafaram"
+  },
+  "FutSI": {
+    "1s": "engarrafarei",
+    "2s": "engarrafarás",
+    "3s": "engarrafará",
+    "1p": "engarrafaremos",
+    "2p": "engarrafareis",
+    "3p": "engarrafarão"
+  },
+  "CondS": {
+    "1s": "engarrafaria",
+    "2s": "engarrafarias",
+    "3s": "engarrafaria",
+    "1p": "engarrafaríamos",
+    "2p": "engarrafaríeis",
+    "3p": "engarrafariam"
+  },
+  "PresC": {
+    "1s": "engarrafe",
+    "2s": "engarrafes",
+    "3s": "engarrafe",
+    "1p": "engarrafemos",
+    "2p": "engarrafeis",
+    "3p": "engarrafem"
+  },
+  "PImpC": {
+    "1s": "engarrafasse",
+    "2s": "engarrafasses",
+    "3s": "engarrafasse",
+    "1p": "engarrafássemos",
+    "2p": "engarrafásseis",
+    "3p": "engarrafassem"
+  },
+  "FutSC": {
+    "1s": "engarrafar",
+    "2s": "engarrafares",
+    "3s": "engarrafar",
+    "1p": "engarrafarmos",
+    "2p": "engarrafardes",
+    "3p": "engarrafarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "engarrafa",
+    "3s": "engarrafe",
+    "1p": "engarrafemos",
+    "2p": "engarrafai",
+    "3p": "engarrafem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não engarrafes",
+    "3s": "não engarrafe",
+    "1p": "não engarrafemos",
+    "2p": "não engarrafeis",
+    "3p": "não engarrafem"
+  },
+  "Part-ter": {
+    "": "engarrafado"
+  },
+  "Part-ser": {
+    "ms": "engarrafado",
+    "fs": "engarrafada",
+    "mp": "engarrafados",
+    "fp": "engarrafadas"
+  }
+}

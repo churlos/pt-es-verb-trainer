@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trazar"
+  },
+  "Ger": {
+    "": "trazando"
+  },
+  "PresI": {
+    "1s": "trazo",
+    "2s": "trazas",
+    "3s": "traza",
+    "1p": "trazamos",
+    "2p": "trazáis",
+    "3p": "trazan"
+  },
+  "PImpI": {
+    "1s": "trazaba",
+    "2s": "trazabas",
+    "3s": "trazaba",
+    "1p": "trazábamos",
+    "2p": "trazabais",
+    "3p": "trazaban"
+  },
+  "PPSI": {
+    "1s": "tracé",
+    "2s": "trazaste",
+    "3s": "trazó",
+    "1p": "trazamos",
+    "2p": "trazasteis",
+    "3p": "trazaron"
+  },
+  "FutSI": {
+    "1s": "trazaré",
+    "2s": "trazarás",
+    "3s": "trazará",
+    "1p": "trazaremos",
+    "2p": "trazaréis",
+    "3p": "trazarán"
+  },
+  "CondS": {
+    "1s": "trazaría",
+    "2s": "trazarías",
+    "3s": "trazaría",
+    "1p": "trazaríamos",
+    "2p": "trazaríais",
+    "3p": "trazarían"
+  },
+  "PresC": {
+    "1s": "trace",
+    "2s": "traces",
+    "3s": "trace",
+    "1p": "tracemos",
+    "2p": "tracéis",
+    "3p": "tracen"
+  },
+  "PMQPSI": {
+    "1s": "trazara",
+    "2s": "trazaras",
+    "3s": "trazara",
+    "1p": "trazáramos",
+    "2p": "trazarais",
+    "3p": "trazaran"
+  },
+  "PImpC": {
+    "1s": "trazase",
+    "2s": "trazases",
+    "3s": "trazase",
+    "1p": "trazásemos",
+    "2p": "trazaseis",
+    "3p": "trazasen"
+  },
+  "FutSC": {
+    "1s": "trazare",
+    "2s": "trazares",
+    "3s": "trazare",
+    "1p": "trazáremos",
+    "2p": "trazareis",
+    "3p": "trazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "traza",
+    "3s": "trace",
+    "1p": "tracemos",
+    "2p": "trazad",
+    "3p": "tracen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no traces",
+    "3s": "no trace",
+    "1p": "no tracemos",
+    "2p": "no tracéis",
+    "3p": "no tracen"
+  },
+  "Part-ter": {
+    "": "trazado"
+  },
+  "Part-ser": {
+    "ms": "trazado",
+    "fs": "trazada",
+    "mp": "trazados",
+    "fp": "trazadas"
+  }
+}

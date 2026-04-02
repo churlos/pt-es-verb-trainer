@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "nomear"
+  },
+  "InfP": {
+    "1s": "nomear",
+    "2s": "nomeares",
+    "3s": "nomear",
+    "1p": "nomearmos",
+    "2p": "nomeardes",
+    "3p": "nomearem"
+  },
+  "Ger": {
+    "": "nomeando"
+  },
+  "PresI": {
+    "1s": "nomeio",
+    "2s": "nomeias",
+    "3s": "nomeia",
+    "1p": "nomeamos",
+    "2p": "nomeais",
+    "3p": "nomeiam"
+  },
+  "PImpI": {
+    "1s": "nomeava",
+    "2s": "nomeavas",
+    "3s": "nomeava",
+    "1p": "nomeávamos",
+    "2p": "nomeáveis",
+    "3p": "nomeavam"
+  },
+  "PPSI": {
+    "1s": "nomeei",
+    "2s": "nomeaste",
+    "3s": "nomeou",
+    "1p": "nomeámos",
+    "2p": "nomeastes",
+    "3p": "nomearam"
+  },
+  "PMQPSI": {
+    "1s": "nomeara",
+    "2s": "nomearas",
+    "3s": "nomeara",
+    "1p": "nomeáramos",
+    "2p": "nomeáreis",
+    "3p": "nomearam"
+  },
+  "FutSI": {
+    "1s": "nomearei",
+    "2s": "nomearás",
+    "3s": "nomeará",
+    "1p": "nomearemos",
+    "2p": "nomeareis",
+    "3p": "nomearão"
+  },
+  "CondS": {
+    "1s": "nomearia",
+    "2s": "nomearias",
+    "3s": "nomearia",
+    "1p": "nomearíamos",
+    "2p": "nomearíeis",
+    "3p": "nomeariam"
+  },
+  "PresC": {
+    "1s": "nomeie",
+    "2s": "nomeies",
+    "3s": "nomeie",
+    "1p": "nomeemos",
+    "2p": "nomeeis",
+    "3p": "nomeiem"
+  },
+  "PImpC": {
+    "1s": "nomeasse",
+    "2s": "nomeasses",
+    "3s": "nomeasse",
+    "1p": "nomeássemos",
+    "2p": "nomeásseis",
+    "3p": "nomeassem"
+  },
+  "FutSC": {
+    "1s": "nomear",
+    "2s": "nomeares",
+    "3s": "nomear",
+    "1p": "nomearmos",
+    "2p": "nomeardes",
+    "3p": "nomearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nomeia",
+    "3s": "nomeie",
+    "1p": "nomeemos",
+    "2p": "nomeai",
+    "3p": "nomeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não nomeies",
+    "3s": "não nomeie",
+    "1p": "não nomeemos",
+    "2p": "não nomeeis",
+    "3p": "não nomeiem"
+  },
+  "Part-ter": {
+    "": "nomeado"
+  },
+  "Part-ser": {
+    "ms": "nomeado",
+    "fs": "nomeada",
+    "mp": "nomeados",
+    "fp": "nomeadas"
+  }
+}

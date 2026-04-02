@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "autenticar"
+  },
+  "InfP": {
+    "1s": "autenticar",
+    "2s": "autenticares",
+    "3s": "autenticar",
+    "1p": "autenticarmos",
+    "2p": "autenticardes",
+    "3p": "autenticarem"
+  },
+  "Ger": {
+    "": "autenticando"
+  },
+  "PresI": {
+    "1s": "autentico",
+    "2s": "autenticas",
+    "3s": "autentica",
+    "1p": "autenticamos",
+    "2p": "autenticais",
+    "3p": "autenticam"
+  },
+  "PImpI": {
+    "1s": "autenticava",
+    "2s": "autenticavas",
+    "3s": "autenticava",
+    "1p": "autenticávamos",
+    "2p": "autenticáveis",
+    "3p": "autenticavam"
+  },
+  "PPSI": {
+    "1s": "autentiquei",
+    "2s": "autenticaste",
+    "3s": "autenticou",
+    "1p": "autenticámos",
+    "2p": "autenticastes",
+    "3p": "autenticaram"
+  },
+  "PMQPSI": {
+    "1s": "autenticara",
+    "2s": "autenticaras",
+    "3s": "autenticara",
+    "1p": "autenticáramos",
+    "2p": "autenticáreis",
+    "3p": "autenticaram"
+  },
+  "FutSI": {
+    "1s": "autenticarei",
+    "2s": "autenticarás",
+    "3s": "autenticará",
+    "1p": "autenticaremos",
+    "2p": "autenticareis",
+    "3p": "autenticarão"
+  },
+  "CondS": {
+    "1s": "autenticaria",
+    "2s": "autenticarias",
+    "3s": "autenticaria",
+    "1p": "autenticaríamos",
+    "2p": "autenticaríeis",
+    "3p": "autenticariam"
+  },
+  "PresC": {
+    "1s": "autentique",
+    "2s": "autentiques",
+    "3s": "autentique",
+    "1p": "autentiquemos",
+    "2p": "autentiqueis",
+    "3p": "autentiquem"
+  },
+  "PImpC": {
+    "1s": "autenticasse",
+    "2s": "autenticasses",
+    "3s": "autenticasse",
+    "1p": "autenticássemos",
+    "2p": "autenticásseis",
+    "3p": "autenticassem"
+  },
+  "FutSC": {
+    "1s": "autenticar",
+    "2s": "autenticares",
+    "3s": "autenticar",
+    "1p": "autenticarmos",
+    "2p": "autenticardes",
+    "3p": "autenticarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autentica",
+    "3s": "autentique",
+    "1p": "autentiquemos",
+    "2p": "autenticai",
+    "3p": "autentiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não autentiques",
+    "3s": "não autentique",
+    "1p": "não autentiquemos",
+    "2p": "não autentiqueis",
+    "3p": "não autentiquem"
+  },
+  "Part-ter": {
+    "": "autenticado"
+  },
+  "Part-ser": {
+    "ms": "autenticado",
+    "fs": "autenticada",
+    "mp": "autenticados",
+    "fp": "autenticadas"
+  }
+}

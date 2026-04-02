@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "duelar"
+  },
+  "InfP": {
+    "1s": "duelar",
+    "2s": "duelares",
+    "3s": "duelar",
+    "1p": "duelarmos",
+    "2p": "duelardes",
+    "3p": "duelarem"
+  },
+  "Ger": {
+    "": "duelando"
+  },
+  "PresI": {
+    "1s": "duelo",
+    "2s": "duelas",
+    "3s": "duela",
+    "1p": "duelamos",
+    "2p": "duelais",
+    "3p": "duelam"
+  },
+  "PImpI": {
+    "1s": "duelava",
+    "2s": "duelavas",
+    "3s": "duelava",
+    "1p": "duelávamos",
+    "2p": "dueláveis",
+    "3p": "duelavam"
+  },
+  "PPSI": {
+    "1s": "duelei",
+    "2s": "duelaste",
+    "3s": "duelou",
+    "1p": "duelámos",
+    "2p": "duelastes",
+    "3p": "duelaram"
+  },
+  "PMQPSI": {
+    "1s": "duelara",
+    "2s": "duelaras",
+    "3s": "duelara",
+    "1p": "dueláramos",
+    "2p": "dueláreis",
+    "3p": "duelaram"
+  },
+  "FutSI": {
+    "1s": "duelarei",
+    "2s": "duelarás",
+    "3s": "duelará",
+    "1p": "duelaremos",
+    "2p": "duelareis",
+    "3p": "duelarão"
+  },
+  "CondS": {
+    "1s": "duelaria",
+    "2s": "duelarias",
+    "3s": "duelaria",
+    "1p": "duelaríamos",
+    "2p": "duelaríeis",
+    "3p": "duelariam"
+  },
+  "PresC": {
+    "1s": "duele",
+    "2s": "dueles",
+    "3s": "duele",
+    "1p": "duelemos",
+    "2p": "dueleis",
+    "3p": "duelem"
+  },
+  "PImpC": {
+    "1s": "duelasse",
+    "2s": "duelasses",
+    "3s": "duelasse",
+    "1p": "duelássemos",
+    "2p": "duelásseis",
+    "3p": "duelassem"
+  },
+  "FutSC": {
+    "1s": "duelar",
+    "2s": "duelares",
+    "3s": "duelar",
+    "1p": "duelarmos",
+    "2p": "duelardes",
+    "3p": "duelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "duela",
+    "3s": "duele",
+    "1p": "duelemos",
+    "2p": "duelai",
+    "3p": "duelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dueles",
+    "3s": "não duele",
+    "1p": "não duelemos",
+    "2p": "não dueleis",
+    "3p": "não duelem"
+  },
+  "Part-ter": {
+    "": "duelado"
+  },
+  "Part-ser": {
+    "ms": "duelado",
+    "fs": "duelada",
+    "mp": "duelados",
+    "fp": "dueladas"
+  }
+}

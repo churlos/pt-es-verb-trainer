@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suceder"
+  },
+  "Ger": {
+    "": "sucediendo"
+  },
+  "PresI": {
+    "1s": "sucedo",
+    "2s": "sucedes",
+    "3s": "sucede",
+    "1p": "sucedemos",
+    "2p": "sucedéis",
+    "3p": "suceden"
+  },
+  "PImpI": {
+    "1s": "sucedía",
+    "2s": "sucedías",
+    "3s": "sucedía",
+    "1p": "sucedíamos",
+    "2p": "sucedíais",
+    "3p": "sucedían"
+  },
+  "PPSI": {
+    "1s": "sucedí",
+    "2s": "sucediste",
+    "3s": "sucedió",
+    "1p": "sucedimos",
+    "2p": "sucedisteis",
+    "3p": "sucedieron"
+  },
+  "FutSI": {
+    "1s": "sucederé",
+    "2s": "sucederás",
+    "3s": "sucederá",
+    "1p": "sucederemos",
+    "2p": "sucederéis",
+    "3p": "sucederán"
+  },
+  "CondS": {
+    "1s": "sucedería",
+    "2s": "sucederías",
+    "3s": "sucedería",
+    "1p": "sucederíamos",
+    "2p": "sucederíais",
+    "3p": "sucederían"
+  },
+  "PresC": {
+    "1s": "suceda",
+    "2s": "sucedas",
+    "3s": "suceda",
+    "1p": "sucedamos",
+    "2p": "sucedáis",
+    "3p": "sucedan"
+  },
+  "PMQPSI": {
+    "1s": "sucediera",
+    "2s": "sucedieras",
+    "3s": "sucediera",
+    "1p": "sucediéramos",
+    "2p": "sucedierais",
+    "3p": "sucedieran"
+  },
+  "PImpC": {
+    "1s": "sucediese",
+    "2s": "sucedieses",
+    "3s": "sucediese",
+    "1p": "sucediésemos",
+    "2p": "sucedieseis",
+    "3p": "sucediesen"
+  },
+  "FutSC": {
+    "1s": "sucediere",
+    "2s": "sucedieres",
+    "3s": "sucediere",
+    "1p": "sucediéremos",
+    "2p": "sucediereis",
+    "3p": "sucedieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sucede",
+    "3s": "suceda",
+    "1p": "sucedamos",
+    "2p": "suceded",
+    "3p": "sucedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sucedas",
+    "3s": "no suceda",
+    "1p": "no sucedamos",
+    "2p": "no sucedáis",
+    "3p": "no sucedan"
+  },
+  "Part-ter": {
+    "": "sucedido"
+  },
+  "Part-ser": {
+    "ms": "sucedido",
+    "fs": "sucedida",
+    "mp": "sucedidos",
+    "fp": "sucedidas"
+  }
+}

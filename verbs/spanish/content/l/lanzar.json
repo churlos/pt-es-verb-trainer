@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lanzar"
+  },
+  "Ger": {
+    "": "lanzando"
+  },
+  "PresI": {
+    "1s": "lanzo",
+    "2s": "lanzas",
+    "3s": "lanza",
+    "1p": "lanzamos",
+    "2p": "lanzáis",
+    "3p": "lanzan"
+  },
+  "PImpI": {
+    "1s": "lanzaba",
+    "2s": "lanzabas",
+    "3s": "lanzaba",
+    "1p": "lanzábamos",
+    "2p": "lanzabais",
+    "3p": "lanzaban"
+  },
+  "PPSI": {
+    "1s": "lancé",
+    "2s": "lanzaste",
+    "3s": "lanzó",
+    "1p": "lanzamos",
+    "2p": "lanzasteis",
+    "3p": "lanzaron"
+  },
+  "FutSI": {
+    "1s": "lanzaré",
+    "2s": "lanzarás",
+    "3s": "lanzará",
+    "1p": "lanzaremos",
+    "2p": "lanzaréis",
+    "3p": "lanzarán"
+  },
+  "CondS": {
+    "1s": "lanzaría",
+    "2s": "lanzarías",
+    "3s": "lanzaría",
+    "1p": "lanzaríamos",
+    "2p": "lanzaríais",
+    "3p": "lanzarían"
+  },
+  "PresC": {
+    "1s": "lance",
+    "2s": "lances",
+    "3s": "lance",
+    "1p": "lancemos",
+    "2p": "lancéis",
+    "3p": "lancen"
+  },
+  "PMQPSI": {
+    "1s": "lanzara",
+    "2s": "lanzaras",
+    "3s": "lanzara",
+    "1p": "lanzáramos",
+    "2p": "lanzarais",
+    "3p": "lanzaran"
+  },
+  "PImpC": {
+    "1s": "lanzase",
+    "2s": "lanzases",
+    "3s": "lanzase",
+    "1p": "lanzásemos",
+    "2p": "lanzaseis",
+    "3p": "lanzasen"
+  },
+  "FutSC": {
+    "1s": "lanzare",
+    "2s": "lanzares",
+    "3s": "lanzare",
+    "1p": "lanzáremos",
+    "2p": "lanzareis",
+    "3p": "lanzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lanza",
+    "3s": "lance",
+    "1p": "lancemos",
+    "2p": "lanzad",
+    "3p": "lancen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lances",
+    "3s": "no lance",
+    "1p": "no lancemos",
+    "2p": "no lancéis",
+    "3p": "no lancen"
+  },
+  "Part-ter": {
+    "": "lanzado"
+  },
+  "Part-ser": {
+    "ms": "lanzado",
+    "fs": "lanzada",
+    "mp": "lanzados",
+    "fp": "lanzadas"
+  }
+}

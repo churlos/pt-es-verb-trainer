@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "formigar"
+  },
+  "InfP": {
+    "1s": "formigar",
+    "2s": "formigares",
+    "3s": "formigar",
+    "1p": "formigarmos",
+    "2p": "formigardes",
+    "3p": "formigarem"
+  },
+  "Ger": {
+    "": "formigando"
+  },
+  "PresI": {
+    "1s": "formigo",
+    "2s": "formigas",
+    "3s": "formiga",
+    "1p": "formigamos",
+    "2p": "formigais",
+    "3p": "formigam"
+  },
+  "PImpI": {
+    "1s": "formigava",
+    "2s": "formigavas",
+    "3s": "formigava",
+    "1p": "formigávamos",
+    "2p": "formigáveis",
+    "3p": "formigavam"
+  },
+  "PPSI": {
+    "1s": "formiguei",
+    "2s": "formigaste",
+    "3s": "formigou",
+    "1p": "formigámos",
+    "2p": "formigastes",
+    "3p": "formigaram"
+  },
+  "PMQPSI": {
+    "1s": "formigara",
+    "2s": "formigaras",
+    "3s": "formigara",
+    "1p": "formigáramos",
+    "2p": "formigáreis",
+    "3p": "formigaram"
+  },
+  "FutSI": {
+    "1s": "formigarei",
+    "2s": "formigarás",
+    "3s": "formigará",
+    "1p": "formigaremos",
+    "2p": "formigareis",
+    "3p": "formigarão"
+  },
+  "CondS": {
+    "1s": "formigaria",
+    "2s": "formigarias",
+    "3s": "formigaria",
+    "1p": "formigaríamos",
+    "2p": "formigaríeis",
+    "3p": "formigariam"
+  },
+  "PresC": {
+    "1s": "formigue",
+    "2s": "formigues",
+    "3s": "formigue",
+    "1p": "formiguemos",
+    "2p": "formigueis",
+    "3p": "formiguem"
+  },
+  "PImpC": {
+    "1s": "formigasse",
+    "2s": "formigasses",
+    "3s": "formigasse",
+    "1p": "formigássemos",
+    "2p": "formigásseis",
+    "3p": "formigassem"
+  },
+  "FutSC": {
+    "1s": "formigar",
+    "2s": "formigares",
+    "3s": "formigar",
+    "1p": "formigarmos",
+    "2p": "formigardes",
+    "3p": "formigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "formiga",
+    "3s": "formigue",
+    "1p": "formiguemos",
+    "2p": "formigai",
+    "3p": "formiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não formigues",
+    "3s": "não formigue",
+    "1p": "não formiguemos",
+    "2p": "não formigueis",
+    "3p": "não formiguem"
+  },
+  "Part-ter": {
+    "": "formigado"
+  },
+  "Part-ser": {
+    "ms": "formigado",
+    "fs": "formigada",
+    "mp": "formigados",
+    "fp": "formigadas"
+  }
+}

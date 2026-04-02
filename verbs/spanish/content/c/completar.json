@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "completar"
+  },
+  "Ger": {
+    "": "completando"
+  },
+  "PresI": {
+    "1s": "completo",
+    "2s": "completas",
+    "3s": "completa",
+    "1p": "completamos",
+    "2p": "completáis",
+    "3p": "completan"
+  },
+  "PImpI": {
+    "1s": "completaba",
+    "2s": "completabas",
+    "3s": "completaba",
+    "1p": "completábamos",
+    "2p": "completabais",
+    "3p": "completaban"
+  },
+  "PPSI": {
+    "1s": "completé",
+    "2s": "completaste",
+    "3s": "completó",
+    "1p": "completamos",
+    "2p": "completasteis",
+    "3p": "completaron"
+  },
+  "FutSI": {
+    "1s": "completaré",
+    "2s": "completarás",
+    "3s": "completará",
+    "1p": "completaremos",
+    "2p": "completaréis",
+    "3p": "completarán"
+  },
+  "CondS": {
+    "1s": "completaría",
+    "2s": "completarías",
+    "3s": "completaría",
+    "1p": "completaríamos",
+    "2p": "completaríais",
+    "3p": "completarían"
+  },
+  "PresC": {
+    "1s": "complete",
+    "2s": "completes",
+    "3s": "complete",
+    "1p": "completemos",
+    "2p": "completéis",
+    "3p": "completen"
+  },
+  "PMQPSI": {
+    "1s": "completara",
+    "2s": "completaras",
+    "3s": "completara",
+    "1p": "completáramos",
+    "2p": "completarais",
+    "3p": "completaran"
+  },
+  "PImpC": {
+    "1s": "completase",
+    "2s": "completases",
+    "3s": "completase",
+    "1p": "completásemos",
+    "2p": "completaseis",
+    "3p": "completasen"
+  },
+  "FutSC": {
+    "1s": "completare",
+    "2s": "completares",
+    "3s": "completare",
+    "1p": "completáremos",
+    "2p": "completareis",
+    "3p": "completaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "completa",
+    "3s": "complete",
+    "1p": "completemos",
+    "2p": "completad",
+    "3p": "completen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no completes",
+    "3s": "no complete",
+    "1p": "no completemos",
+    "2p": "no completéis",
+    "3p": "no completen"
+  },
+  "Part-ter": {
+    "": "completado"
+  },
+  "Part-ser": {
+    "ms": "completado",
+    "fs": "completada",
+    "mp": "completados",
+    "fp": "completadas"
+  }
+}

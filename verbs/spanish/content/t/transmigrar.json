@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transmigrar"
+  },
+  "Ger": {
+    "": "transmigrando"
+  },
+  "PresI": {
+    "1s": "transmigro",
+    "2s": "transmigras",
+    "3s": "transmigra",
+    "1p": "transmigramos",
+    "2p": "transmigráis",
+    "3p": "transmigran"
+  },
+  "PImpI": {
+    "1s": "transmigraba",
+    "2s": "transmigrabas",
+    "3s": "transmigraba",
+    "1p": "transmigrábamos",
+    "2p": "transmigrabais",
+    "3p": "transmigraban"
+  },
+  "PPSI": {
+    "1s": "transmigré",
+    "2s": "transmigraste",
+    "3s": "transmigró",
+    "1p": "transmigramos",
+    "2p": "transmigrasteis",
+    "3p": "transmigraron"
+  },
+  "FutSI": {
+    "1s": "transmigraré",
+    "2s": "transmigrarás",
+    "3s": "transmigrará",
+    "1p": "transmigraremos",
+    "2p": "transmigraréis",
+    "3p": "transmigrarán"
+  },
+  "CondS": {
+    "1s": "transmigraría",
+    "2s": "transmigrarías",
+    "3s": "transmigraría",
+    "1p": "transmigraríamos",
+    "2p": "transmigraríais",
+    "3p": "transmigrarían"
+  },
+  "PresC": {
+    "1s": "transmigre",
+    "2s": "transmigres",
+    "3s": "transmigre",
+    "1p": "transmigremos",
+    "2p": "transmigréis",
+    "3p": "transmigren"
+  },
+  "PMQPSI": {
+    "1s": "transmigrara",
+    "2s": "transmigraras",
+    "3s": "transmigrara",
+    "1p": "transmigráramos",
+    "2p": "transmigrarais",
+    "3p": "transmigraran"
+  },
+  "PImpC": {
+    "1s": "transmigrase",
+    "2s": "transmigrases",
+    "3s": "transmigrase",
+    "1p": "transmigrásemos",
+    "2p": "transmigraseis",
+    "3p": "transmigrasen"
+  },
+  "FutSC": {
+    "1s": "transmigrare",
+    "2s": "transmigrares",
+    "3s": "transmigrare",
+    "1p": "transmigráremos",
+    "2p": "transmigrareis",
+    "3p": "transmigraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transmigra",
+    "3s": "transmigre",
+    "1p": "transmigremos",
+    "2p": "transmigrad",
+    "3p": "transmigren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transmigres",
+    "3s": "no transmigre",
+    "1p": "no transmigremos",
+    "2p": "no transmigréis",
+    "3p": "no transmigren"
+  },
+  "Part-ter": {
+    "": "transmigrado"
+  },
+  "Part-ser": {
+    "ms": "transmigrado",
+    "fs": "transmigrada",
+    "mp": "transmigrados",
+    "fp": "transmigradas"
+  }
+}

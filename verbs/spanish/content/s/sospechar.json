@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sospechar"
+  },
+  "Ger": {
+    "": "sospechando"
+  },
+  "PresI": {
+    "1s": "sospecho",
+    "2s": "sospechas",
+    "3s": "sospecha",
+    "1p": "sospechamos",
+    "2p": "sospecháis",
+    "3p": "sospechan"
+  },
+  "PImpI": {
+    "1s": "sospechaba",
+    "2s": "sospechabas",
+    "3s": "sospechaba",
+    "1p": "sospechábamos",
+    "2p": "sospechabais",
+    "3p": "sospechaban"
+  },
+  "PPSI": {
+    "1s": "sospeché",
+    "2s": "sospechaste",
+    "3s": "sospechó",
+    "1p": "sospechamos",
+    "2p": "sospechasteis",
+    "3p": "sospecharon"
+  },
+  "FutSI": {
+    "1s": "sospecharé",
+    "2s": "sospecharás",
+    "3s": "sospechará",
+    "1p": "sospecharemos",
+    "2p": "sospecharéis",
+    "3p": "sospecharán"
+  },
+  "CondS": {
+    "1s": "sospecharía",
+    "2s": "sospecharías",
+    "3s": "sospecharía",
+    "1p": "sospecharíamos",
+    "2p": "sospecharíais",
+    "3p": "sospecharían"
+  },
+  "PresC": {
+    "1s": "sospeche",
+    "2s": "sospeches",
+    "3s": "sospeche",
+    "1p": "sospechemos",
+    "2p": "sospechéis",
+    "3p": "sospechen"
+  },
+  "PMQPSI": {
+    "1s": "sospechara",
+    "2s": "sospecharas",
+    "3s": "sospechara",
+    "1p": "sospecháramos",
+    "2p": "sospecharais",
+    "3p": "sospecharan"
+  },
+  "PImpC": {
+    "1s": "sospechase",
+    "2s": "sospechases",
+    "3s": "sospechase",
+    "1p": "sospechásemos",
+    "2p": "sospechaseis",
+    "3p": "sospechasen"
+  },
+  "FutSC": {
+    "1s": "sospechare",
+    "2s": "sospechares",
+    "3s": "sospechare",
+    "1p": "sospecháremos",
+    "2p": "sospechareis",
+    "3p": "sospecharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sospecha",
+    "3s": "sospeche",
+    "1p": "sospechemos",
+    "2p": "sospechad",
+    "3p": "sospechen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sospeches",
+    "3s": "no sospeche",
+    "1p": "no sospechemos",
+    "2p": "no sospechéis",
+    "3p": "no sospechen"
+  },
+  "Part-ter": {
+    "": "sospechado"
+  },
+  "Part-ser": {
+    "ms": "sospechado",
+    "fs": "sospechada",
+    "mp": "sospechados",
+    "fp": "sospechadas"
+  }
+}

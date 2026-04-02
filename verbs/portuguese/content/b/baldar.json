@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "baldar"
+  },
+  "InfP": {
+    "1s": "baldar",
+    "2s": "baldares",
+    "3s": "baldar",
+    "1p": "baldarmos",
+    "2p": "baldardes",
+    "3p": "baldarem"
+  },
+  "Ger": {
+    "": "baldando"
+  },
+  "PresI": {
+    "1s": "baldo",
+    "2s": "baldas",
+    "3s": "balda",
+    "1p": "baldamos",
+    "2p": "baldais",
+    "3p": "baldam"
+  },
+  "PImpI": {
+    "1s": "baldava",
+    "2s": "baldavas",
+    "3s": "baldava",
+    "1p": "baldávamos",
+    "2p": "baldáveis",
+    "3p": "baldavam"
+  },
+  "PPSI": {
+    "1s": "baldei",
+    "2s": "baldaste",
+    "3s": "baldou",
+    "1p": "baldámos",
+    "2p": "baldastes",
+    "3p": "baldaram"
+  },
+  "PMQPSI": {
+    "1s": "baldara",
+    "2s": "baldaras",
+    "3s": "baldara",
+    "1p": "baldáramos",
+    "2p": "baldáreis",
+    "3p": "baldaram"
+  },
+  "FutSI": {
+    "1s": "baldarei",
+    "2s": "baldarás",
+    "3s": "baldará",
+    "1p": "baldaremos",
+    "2p": "baldareis",
+    "3p": "baldarão"
+  },
+  "CondS": {
+    "1s": "baldaria",
+    "2s": "baldarias",
+    "3s": "baldaria",
+    "1p": "baldaríamos",
+    "2p": "baldaríeis",
+    "3p": "baldariam"
+  },
+  "PresC": {
+    "1s": "balde",
+    "2s": "baldes",
+    "3s": "balde",
+    "1p": "baldemos",
+    "2p": "baldeis",
+    "3p": "baldem"
+  },
+  "PImpC": {
+    "1s": "baldasse",
+    "2s": "baldasses",
+    "3s": "baldasse",
+    "1p": "baldássemos",
+    "2p": "baldásseis",
+    "3p": "baldassem"
+  },
+  "FutSC": {
+    "1s": "baldar",
+    "2s": "baldares",
+    "3s": "baldar",
+    "1p": "baldarmos",
+    "2p": "baldardes",
+    "3p": "baldarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "balda",
+    "3s": "balde",
+    "1p": "baldemos",
+    "2p": "baldai",
+    "3p": "baldem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não baldes",
+    "3s": "não balde",
+    "1p": "não baldemos",
+    "2p": "não baldeis",
+    "3p": "não baldem"
+  },
+  "Part-ter": {
+    "": "baldado"
+  },
+  "Part-ser": {
+    "ms": "baldado",
+    "fs": "baldada",
+    "mp": "baldados",
+    "fp": "baldadas"
+  }
+}

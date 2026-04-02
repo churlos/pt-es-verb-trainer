@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "googlar"
+  },
+  "InfP": {
+    "1s": "googlar",
+    "2s": "googlares",
+    "3s": "googlar",
+    "1p": "googlarmos",
+    "2p": "googlardes",
+    "3p": "googlarem"
+  },
+  "Ger": {
+    "": "googlando"
+  },
+  "PresI": {
+    "1s": "googlo",
+    "2s": "googlas",
+    "3s": "googla",
+    "1p": "googlamos",
+    "2p": "googlais",
+    "3p": "googlam"
+  },
+  "PImpI": {
+    "1s": "googlava",
+    "2s": "googlavas",
+    "3s": "googlava",
+    "1p": "googlávamos",
+    "2p": "googláveis",
+    "3p": "googlavam"
+  },
+  "PPSI": {
+    "1s": "googlei",
+    "2s": "googlaste",
+    "3s": "googlou",
+    "1p": "googlámos",
+    "2p": "googlastes",
+    "3p": "googlaram"
+  },
+  "PMQPSI": {
+    "1s": "googlara",
+    "2s": "googlaras",
+    "3s": "googlara",
+    "1p": "googláramos",
+    "2p": "googláreis",
+    "3p": "googlaram"
+  },
+  "FutSI": {
+    "1s": "googlarei",
+    "2s": "googlarás",
+    "3s": "googlará",
+    "1p": "googlaremos",
+    "2p": "googlareis",
+    "3p": "googlarão"
+  },
+  "CondS": {
+    "1s": "googlaria",
+    "2s": "googlarias",
+    "3s": "googlaria",
+    "1p": "googlaríamos",
+    "2p": "googlaríeis",
+    "3p": "googlariam"
+  },
+  "PresC": {
+    "1s": "google",
+    "2s": "googles",
+    "3s": "google",
+    "1p": "googlemos",
+    "2p": "googleis",
+    "3p": "googlem"
+  },
+  "PImpC": {
+    "1s": "googlasse",
+    "2s": "googlasses",
+    "3s": "googlasse",
+    "1p": "googlássemos",
+    "2p": "googlásseis",
+    "3p": "googlassem"
+  },
+  "FutSC": {
+    "1s": "googlar",
+    "2s": "googlares",
+    "3s": "googlar",
+    "1p": "googlarmos",
+    "2p": "googlardes",
+    "3p": "googlarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "googla",
+    "3s": "google",
+    "1p": "googlemos",
+    "2p": "googlai",
+    "3p": "googlem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não googles",
+    "3s": "não google",
+    "1p": "não googlemos",
+    "2p": "não googleis",
+    "3p": "não googlem"
+  },
+  "Part-ter": {
+    "": "googlado"
+  },
+  "Part-ser": {
+    "ms": "googlado",
+    "fs": "googlada",
+    "mp": "googlados",
+    "fp": "googladas"
+  }
+}

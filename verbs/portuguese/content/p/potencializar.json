@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "potencializar"
+  },
+  "InfP": {
+    "1s": "potencializar",
+    "2s": "potencializares",
+    "3s": "potencializar",
+    "1p": "potencializarmos",
+    "2p": "potencializardes",
+    "3p": "potencializarem"
+  },
+  "Ger": {
+    "": "potencializando"
+  },
+  "PresI": {
+    "1s": "potencializo",
+    "2s": "potencializas",
+    "3s": "potencializa",
+    "1p": "potencializamos",
+    "2p": "potencializais",
+    "3p": "potencializam"
+  },
+  "PImpI": {
+    "1s": "potencializava",
+    "2s": "potencializavas",
+    "3s": "potencializava",
+    "1p": "potencializávamos",
+    "2p": "potencializáveis",
+    "3p": "potencializavam"
+  },
+  "PPSI": {
+    "1s": "potencializei",
+    "2s": "potencializaste",
+    "3s": "potencializou",
+    "1p": "potencializámos",
+    "2p": "potencializastes",
+    "3p": "potencializaram"
+  },
+  "PMQPSI": {
+    "1s": "potencializara",
+    "2s": "potencializaras",
+    "3s": "potencializara",
+    "1p": "potencializáramos",
+    "2p": "potencializáreis",
+    "3p": "potencializaram"
+  },
+  "FutSI": {
+    "1s": "potencializarei",
+    "2s": "potencializarás",
+    "3s": "potencializará",
+    "1p": "potencializaremos",
+    "2p": "potencializareis",
+    "3p": "potencializarão"
+  },
+  "CondS": {
+    "1s": "potencializaria",
+    "2s": "potencializarias",
+    "3s": "potencializaria",
+    "1p": "potencializaríamos",
+    "2p": "potencializaríeis",
+    "3p": "potencializariam"
+  },
+  "PresC": {
+    "1s": "potencialize",
+    "2s": "potencializes",
+    "3s": "potencialize",
+    "1p": "potencializemos",
+    "2p": "potencializeis",
+    "3p": "potencializem"
+  },
+  "PImpC": {
+    "1s": "potencializasse",
+    "2s": "potencializasses",
+    "3s": "potencializasse",
+    "1p": "potencializássemos",
+    "2p": "potencializásseis",
+    "3p": "potencializassem"
+  },
+  "FutSC": {
+    "1s": "potencializar",
+    "2s": "potencializares",
+    "3s": "potencializar",
+    "1p": "potencializarmos",
+    "2p": "potencializardes",
+    "3p": "potencializarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "potencializa",
+    "3s": "potencialize",
+    "1p": "potencializemos",
+    "2p": "potencializai",
+    "3p": "potencializem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não potencializes",
+    "3s": "não potencialize",
+    "1p": "não potencializemos",
+    "2p": "não potencializeis",
+    "3p": "não potencializem"
+  },
+  "Part-ter": {
+    "": "potencializado"
+  },
+  "Part-ser": {
+    "ms": "potencializado",
+    "fs": "potencializada",
+    "mp": "potencializados",
+    "fp": "potencializadas"
+  }
+}

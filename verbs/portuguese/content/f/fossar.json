@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fossar"
+  },
+  "InfP": {
+    "1s": "fossar",
+    "2s": "fossares",
+    "3s": "fossar",
+    "1p": "fossarmos",
+    "2p": "fossardes",
+    "3p": "fossarem"
+  },
+  "Ger": {
+    "": "fossando"
+  },
+  "PresI": {
+    "1s": "fosso",
+    "2s": "fossas",
+    "3s": "fossa",
+    "1p": "fossamos",
+    "2p": "fossais",
+    "3p": "fossam"
+  },
+  "PImpI": {
+    "1s": "fossava",
+    "2s": "fossavas",
+    "3s": "fossava",
+    "1p": "fossávamos",
+    "2p": "fossáveis",
+    "3p": "fossavam"
+  },
+  "PPSI": {
+    "1s": "fossei",
+    "2s": "fossaste",
+    "3s": "fossou",
+    "1p": "fossámos",
+    "2p": "fossastes",
+    "3p": "fossaram"
+  },
+  "PMQPSI": {
+    "1s": "fossara",
+    "2s": "fossaras",
+    "3s": "fossara",
+    "1p": "fossáramos",
+    "2p": "fossáreis",
+    "3p": "fossaram"
+  },
+  "FutSI": {
+    "1s": "fossarei",
+    "2s": "fossarás",
+    "3s": "fossará",
+    "1p": "fossaremos",
+    "2p": "fossareis",
+    "3p": "fossarão"
+  },
+  "CondS": {
+    "1s": "fossaria",
+    "2s": "fossarias",
+    "3s": "fossaria",
+    "1p": "fossaríamos",
+    "2p": "fossaríeis",
+    "3p": "fossariam"
+  },
+  "PresC": {
+    "1s": "fosse",
+    "2s": "fosses",
+    "3s": "fosse",
+    "1p": "fossemos",
+    "2p": "fosseis",
+    "3p": "fossem"
+  },
+  "PImpC": {
+    "1s": "fossasse",
+    "2s": "fossasses",
+    "3s": "fossasse",
+    "1p": "fossássemos",
+    "2p": "fossásseis",
+    "3p": "fossassem"
+  },
+  "FutSC": {
+    "1s": "fossar",
+    "2s": "fossares",
+    "3s": "fossar",
+    "1p": "fossarmos",
+    "2p": "fossardes",
+    "3p": "fossarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fossa",
+    "3s": "fosse",
+    "1p": "fossemos",
+    "2p": "fossai",
+    "3p": "fossem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fosses",
+    "3s": "não fosse",
+    "1p": "não fossemos",
+    "2p": "não fosseis",
+    "3p": "não fossem"
+  },
+  "Part-ter": {
+    "": "fossado"
+  },
+  "Part-ser": {
+    "ms": "fossado",
+    "fs": "fossada",
+    "mp": "fossados",
+    "fp": "fossadas"
+  }
+}

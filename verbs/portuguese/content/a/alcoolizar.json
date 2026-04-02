@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alcoolizar"
+  },
+  "InfP": {
+    "1s": "alcoolizar",
+    "2s": "alcoolizares",
+    "3s": "alcoolizar",
+    "1p": "alcoolizarmos",
+    "2p": "alcoolizardes",
+    "3p": "alcoolizarem"
+  },
+  "Ger": {
+    "": "alcoolizando"
+  },
+  "PresI": {
+    "1s": "alcoolizo",
+    "2s": "alcoolizas",
+    "3s": "alcooliza",
+    "1p": "alcoolizamos",
+    "2p": "alcoolizais",
+    "3p": "alcoolizam"
+  },
+  "PImpI": {
+    "1s": "alcoolizava",
+    "2s": "alcoolizavas",
+    "3s": "alcoolizava",
+    "1p": "alcoolizávamos",
+    "2p": "alcoolizáveis",
+    "3p": "alcoolizavam"
+  },
+  "PPSI": {
+    "1s": "alcoolizei",
+    "2s": "alcoolizaste",
+    "3s": "alcoolizou",
+    "1p": "alcoolizámos",
+    "2p": "alcoolizastes",
+    "3p": "alcoolizaram"
+  },
+  "PMQPSI": {
+    "1s": "alcoolizara",
+    "2s": "alcoolizaras",
+    "3s": "alcoolizara",
+    "1p": "alcoolizáramos",
+    "2p": "alcoolizáreis",
+    "3p": "alcoolizaram"
+  },
+  "FutSI": {
+    "1s": "alcoolizarei",
+    "2s": "alcoolizarás",
+    "3s": "alcoolizará",
+    "1p": "alcoolizaremos",
+    "2p": "alcoolizareis",
+    "3p": "alcoolizarão"
+  },
+  "CondS": {
+    "1s": "alcoolizaria",
+    "2s": "alcoolizarias",
+    "3s": "alcoolizaria",
+    "1p": "alcoolizaríamos",
+    "2p": "alcoolizaríeis",
+    "3p": "alcoolizariam"
+  },
+  "PresC": {
+    "1s": "alcoolize",
+    "2s": "alcoolizes",
+    "3s": "alcoolize",
+    "1p": "alcoolizemos",
+    "2p": "alcoolizeis",
+    "3p": "alcoolizem"
+  },
+  "PImpC": {
+    "1s": "alcoolizasse",
+    "2s": "alcoolizasses",
+    "3s": "alcoolizasse",
+    "1p": "alcoolizássemos",
+    "2p": "alcoolizásseis",
+    "3p": "alcoolizassem"
+  },
+  "FutSC": {
+    "1s": "alcoolizar",
+    "2s": "alcoolizares",
+    "3s": "alcoolizar",
+    "1p": "alcoolizarmos",
+    "2p": "alcoolizardes",
+    "3p": "alcoolizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alcooliza",
+    "3s": "alcoolize",
+    "1p": "alcoolizemos",
+    "2p": "alcoolizai",
+    "3p": "alcoolizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alcoolizes",
+    "3s": "não alcoolize",
+    "1p": "não alcoolizemos",
+    "2p": "não alcoolizeis",
+    "3p": "não alcoolizem"
+  },
+  "Part-ter": {
+    "": "alcoolizado"
+  },
+  "Part-ser": {
+    "ms": "alcoolizado",
+    "fs": "alcoolizada",
+    "mp": "alcoolizados",
+    "fp": "alcoolizadas"
+  }
+}

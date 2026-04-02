@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "proceder"
+  },
+  "InfP": {
+    "1s": "proceder",
+    "2s": "procederes",
+    "3s": "proceder",
+    "1p": "procedermos",
+    "2p": "procederdes",
+    "3p": "procederem"
+  },
+  "Ger": {
+    "": "procedendo"
+  },
+  "PresI": {
+    "1s": "procedo",
+    "2s": "procedes",
+    "3s": "procede",
+    "1p": "procedemos",
+    "2p": "procedeis",
+    "3p": "procedem"
+  },
+  "PImpI": {
+    "1s": "procedia",
+    "2s": "procedias",
+    "3s": "procedia",
+    "1p": "procedíamos",
+    "2p": "procedíeis",
+    "3p": "procediam"
+  },
+  "PPSI": {
+    "1s": "procedi",
+    "2s": "procedeste",
+    "3s": "procedeu",
+    "1p": "procedemos",
+    "2p": "procedestes",
+    "3p": "procederam"
+  },
+  "PMQPSI": {
+    "1s": "procedera",
+    "2s": "procederas",
+    "3s": "procedera",
+    "1p": "procedêramos",
+    "2p": "procedêreis",
+    "3p": "procederam"
+  },
+  "FutSI": {
+    "1s": "procederei",
+    "2s": "procederás",
+    "3s": "procederá",
+    "1p": "procederemos",
+    "2p": "procedereis",
+    "3p": "procederão"
+  },
+  "CondS": {
+    "1s": "procederia",
+    "2s": "procederias",
+    "3s": "procederia",
+    "1p": "procederíamos",
+    "2p": "procederíeis",
+    "3p": "procederiam"
+  },
+  "PresC": {
+    "1s": "proceda",
+    "2s": "procedas",
+    "3s": "proceda",
+    "1p": "procedamos",
+    "2p": "procedais",
+    "3p": "procedam"
+  },
+  "PImpC": {
+    "1s": "procedesse",
+    "2s": "procedesses",
+    "3s": "procedesse",
+    "1p": "procedêssemos",
+    "2p": "procedêsseis",
+    "3p": "procedessem"
+  },
+  "FutSC": {
+    "1s": "proceder",
+    "2s": "procederes",
+    "3s": "proceder",
+    "1p": "procedermos",
+    "2p": "procederdes",
+    "3p": "procederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "procede",
+    "3s": "proceda",
+    "1p": "procedamos",
+    "2p": "procedei",
+    "3p": "procedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não procedas",
+    "3s": "não proceda",
+    "1p": "não procedamos",
+    "2p": "não procedais",
+    "3p": "não procedam"
+  },
+  "Part-ter": {
+    "": "procedido"
+  },
+  "Part-ser": {
+    "ms": "procedido",
+    "fs": "procedida",
+    "mp": "procedidos",
+    "fp": "procedidas"
+  }
+}

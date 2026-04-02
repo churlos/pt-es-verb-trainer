@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sobornar"
+  },
+  "Ger": {
+    "": "sobornando"
+  },
+  "PresI": {
+    "1s": "soborno",
+    "2s": "sobornas",
+    "3s": "soborna",
+    "1p": "sobornamos",
+    "2p": "sobornáis",
+    "3p": "sobornan"
+  },
+  "PImpI": {
+    "1s": "sobornaba",
+    "2s": "sobornabas",
+    "3s": "sobornaba",
+    "1p": "sobornábamos",
+    "2p": "sobornabais",
+    "3p": "sobornaban"
+  },
+  "PPSI": {
+    "1s": "soborné",
+    "2s": "sobornaste",
+    "3s": "sobornó",
+    "1p": "sobornamos",
+    "2p": "sobornasteis",
+    "3p": "sobornaron"
+  },
+  "FutSI": {
+    "1s": "sobornaré",
+    "2s": "sobornarás",
+    "3s": "sobornará",
+    "1p": "sobornaremos",
+    "2p": "sobornaréis",
+    "3p": "sobornarán"
+  },
+  "CondS": {
+    "1s": "sobornaría",
+    "2s": "sobornarías",
+    "3s": "sobornaría",
+    "1p": "sobornaríamos",
+    "2p": "sobornaríais",
+    "3p": "sobornarían"
+  },
+  "PresC": {
+    "1s": "soborne",
+    "2s": "sobornes",
+    "3s": "soborne",
+    "1p": "sobornemos",
+    "2p": "sobornéis",
+    "3p": "sobornen"
+  },
+  "PMQPSI": {
+    "1s": "sobornara",
+    "2s": "sobornaras",
+    "3s": "sobornara",
+    "1p": "sobornáramos",
+    "2p": "sobornarais",
+    "3p": "sobornaran"
+  },
+  "PImpC": {
+    "1s": "sobornase",
+    "2s": "sobornases",
+    "3s": "sobornase",
+    "1p": "sobornásemos",
+    "2p": "sobornaseis",
+    "3p": "sobornasen"
+  },
+  "FutSC": {
+    "1s": "sobornare",
+    "2s": "sobornares",
+    "3s": "sobornare",
+    "1p": "sobornáremos",
+    "2p": "sobornareis",
+    "3p": "sobornaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "soborna",
+    "3s": "soborne",
+    "1p": "sobornemos",
+    "2p": "sobornad",
+    "3p": "sobornen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sobornes",
+    "3s": "no soborne",
+    "1p": "no sobornemos",
+    "2p": "no sobornéis",
+    "3p": "no sobornen"
+  },
+  "Part-ter": {
+    "": "sobornado"
+  },
+  "Part-ser": {
+    "ms": "sobornado",
+    "fs": "sobornada",
+    "mp": "sobornados",
+    "fp": "sobornadas"
+  }
+}

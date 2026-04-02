@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ciscar"
+  },
+  "Ger": {
+    "": "ciscando"
+  },
+  "PresI": {
+    "1s": "cisco",
+    "2s": "ciscas",
+    "3s": "cisca",
+    "1p": "ciscamos",
+    "2p": "ciscáis",
+    "3p": "ciscan"
+  },
+  "PImpI": {
+    "1s": "ciscaba",
+    "2s": "ciscabas",
+    "3s": "ciscaba",
+    "1p": "ciscábamos",
+    "2p": "ciscabais",
+    "3p": "ciscaban"
+  },
+  "PPSI": {
+    "1s": "cisqué",
+    "2s": "ciscaste",
+    "3s": "ciscó",
+    "1p": "ciscamos",
+    "2p": "ciscasteis",
+    "3p": "ciscaron"
+  },
+  "FutSI": {
+    "1s": "ciscaré",
+    "2s": "ciscarás",
+    "3s": "ciscará",
+    "1p": "ciscaremos",
+    "2p": "ciscaréis",
+    "3p": "ciscarán"
+  },
+  "CondS": {
+    "1s": "ciscaría",
+    "2s": "ciscarías",
+    "3s": "ciscaría",
+    "1p": "ciscaríamos",
+    "2p": "ciscaríais",
+    "3p": "ciscarían"
+  },
+  "PresC": {
+    "1s": "cisque",
+    "2s": "cisques",
+    "3s": "cisque",
+    "1p": "cisquemos",
+    "2p": "cisquéis",
+    "3p": "cisquen"
+  },
+  "PMQPSI": {
+    "1s": "ciscara",
+    "2s": "ciscaras",
+    "3s": "ciscara",
+    "1p": "ciscáramos",
+    "2p": "ciscarais",
+    "3p": "ciscaran"
+  },
+  "PImpC": {
+    "1s": "ciscase",
+    "2s": "ciscases",
+    "3s": "ciscase",
+    "1p": "ciscásemos",
+    "2p": "ciscaseis",
+    "3p": "ciscasen"
+  },
+  "FutSC": {
+    "1s": "ciscare",
+    "2s": "ciscares",
+    "3s": "ciscare",
+    "1p": "ciscáremos",
+    "2p": "ciscareis",
+    "3p": "ciscaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cisca",
+    "3s": "cisque",
+    "1p": "cisquemos",
+    "2p": "ciscad",
+    "3p": "cisquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cisques",
+    "3s": "no cisque",
+    "1p": "no cisquemos",
+    "2p": "no cisquéis",
+    "3p": "no cisquen"
+  },
+  "Part-ter": {
+    "": "ciscado"
+  },
+  "Part-ser": {
+    "ms": "ciscado",
+    "fs": "ciscada",
+    "mp": "ciscados",
+    "fp": "ciscadas"
+  }
+}

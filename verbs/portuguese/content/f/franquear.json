@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "franquear"
+  },
+  "InfP": {
+    "1s": "franquear",
+    "2s": "franqueares",
+    "3s": "franquear",
+    "1p": "franquearmos",
+    "2p": "franqueardes",
+    "3p": "franquearem"
+  },
+  "Ger": {
+    "": "franqueando"
+  },
+  "PresI": {
+    "1s": "franqueio",
+    "2s": "franqueias",
+    "3s": "franqueia",
+    "1p": "franqueamos",
+    "2p": "franqueais",
+    "3p": "franqueiam"
+  },
+  "PImpI": {
+    "1s": "franqueava",
+    "2s": "franqueavas",
+    "3s": "franqueava",
+    "1p": "franqueávamos",
+    "2p": "franqueáveis",
+    "3p": "franqueavam"
+  },
+  "PPSI": {
+    "1s": "franqueei",
+    "2s": "franqueaste",
+    "3s": "franqueou",
+    "1p": "franqueámos",
+    "2p": "franqueastes",
+    "3p": "franquearam"
+  },
+  "PMQPSI": {
+    "1s": "franqueara",
+    "2s": "franquearas",
+    "3s": "franqueara",
+    "1p": "franqueáramos",
+    "2p": "franqueáreis",
+    "3p": "franquearam"
+  },
+  "FutSI": {
+    "1s": "franquearei",
+    "2s": "franquearás",
+    "3s": "franqueará",
+    "1p": "franquearemos",
+    "2p": "franqueareis",
+    "3p": "franquearão"
+  },
+  "CondS": {
+    "1s": "franquearia",
+    "2s": "franquearias",
+    "3s": "franquearia",
+    "1p": "franquearíamos",
+    "2p": "franquearíeis",
+    "3p": "franqueariam"
+  },
+  "PresC": {
+    "1s": "franqueie",
+    "2s": "franqueies",
+    "3s": "franqueie",
+    "1p": "franqueemos",
+    "2p": "franqueeis",
+    "3p": "franqueiem"
+  },
+  "PImpC": {
+    "1s": "franqueasse",
+    "2s": "franqueasses",
+    "3s": "franqueasse",
+    "1p": "franqueássemos",
+    "2p": "franqueásseis",
+    "3p": "franqueassem"
+  },
+  "FutSC": {
+    "1s": "franquear",
+    "2s": "franqueares",
+    "3s": "franquear",
+    "1p": "franquearmos",
+    "2p": "franqueardes",
+    "3p": "franquearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "franqueia",
+    "3s": "franqueie",
+    "1p": "franqueemos",
+    "2p": "franqueai",
+    "3p": "franqueiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não franqueies",
+    "3s": "não franqueie",
+    "1p": "não franqueemos",
+    "2p": "não franqueeis",
+    "3p": "não franqueiem"
+  },
+  "Part-ter": {
+    "": "franqueado"
+  },
+  "Part-ser": {
+    "ms": "franqueado",
+    "fs": "franqueada",
+    "mp": "franqueados",
+    "fp": "franqueadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "llevarse"
+  },
+  "Ger": {
+    "": "llevándose"
+  },
+  "PresI": {
+    "1s": "me llevo",
+    "2s": "te llevas",
+    "3s": "se lleva",
+    "1p": "nos llevamos",
+    "2p": "os lleváis",
+    "3p": "se llevan"
+  },
+  "PImpI": {
+    "1s": "me llevaba",
+    "2s": "te llevabas",
+    "3s": "se llevaba",
+    "1p": "nos llevábamos",
+    "2p": "os llevabais",
+    "3p": "se llevaban"
+  },
+  "PPSI": {
+    "1s": "me llevé",
+    "2s": "te llevaste",
+    "3s": "se llevó",
+    "1p": "nos llevamos",
+    "2p": "os llevasteis",
+    "3p": "se llevaron"
+  },
+  "FutSI": {
+    "1s": "me llevaré",
+    "2s": "te llevarás",
+    "3s": "se llevará",
+    "1p": "nos llevaremos",
+    "2p": "os llevaréis",
+    "3p": "se llevarán"
+  },
+  "CondS": {
+    "1s": "me llevaría",
+    "2s": "te llevarías",
+    "3s": "se llevaría",
+    "1p": "nos llevaríamos",
+    "2p": "os llevaríais",
+    "3p": "se llevarían"
+  },
+  "PresC": {
+    "1s": "me lleve",
+    "2s": "te lleves",
+    "3s": "se lleve",
+    "1p": "nos llevemos",
+    "2p": "os llevéis",
+    "3p": "se lleven"
+  },
+  "PMQPSI": {
+    "1s": "me llevara",
+    "2s": "te llevaras",
+    "3s": "se llevara",
+    "1p": "nos lleváramos",
+    "2p": "os llevarais",
+    "3p": "se llevaran"
+  },
+  "PImpC": {
+    "1s": "me llevase",
+    "2s": "te llevases",
+    "3s": "se llevase",
+    "1p": "nos llevásemos",
+    "2p": "os llevaseis",
+    "3p": "se llevasen"
+  },
+  "FutSC": {
+    "1s": "me llevare",
+    "2s": "te llevares",
+    "3s": "se llevare",
+    "1p": "nos lleváremos",
+    "2p": "os llevareis",
+    "3p": "se llevaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "llévate",
+    "3s": "llévese",
+    "1p": "llevémonos",
+    "2p": "llevaos",
+    "3p": "llévense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te lleves",
+    "3s": "no se lleve",
+    "1p": "no nos llevemos",
+    "2p": "no os llevéis",
+    "3p": "no se lleven"
+  },
+  "Part-ter": {
+    "": "llevado"
+  },
+  "Part-ser": {
+    "ms": "llevado",
+    "fs": "llevada",
+    "mp": "llevados",
+    "fp": "llevadas"
+  }
+}

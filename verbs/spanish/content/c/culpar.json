@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "culpar"
+  },
+  "Ger": {
+    "": "culpando"
+  },
+  "PresI": {
+    "1s": "culpo",
+    "2s": "culpas",
+    "3s": "culpa",
+    "1p": "culpamos",
+    "2p": "culpáis",
+    "3p": "culpan"
+  },
+  "PImpI": {
+    "1s": "culpaba",
+    "2s": "culpabas",
+    "3s": "culpaba",
+    "1p": "culpábamos",
+    "2p": "culpabais",
+    "3p": "culpaban"
+  },
+  "PPSI": {
+    "1s": "culpé",
+    "2s": "culpaste",
+    "3s": "culpó",
+    "1p": "culpamos",
+    "2p": "culpasteis",
+    "3p": "culparon"
+  },
+  "FutSI": {
+    "1s": "culparé",
+    "2s": "culparás",
+    "3s": "culpará",
+    "1p": "culparemos",
+    "2p": "culparéis",
+    "3p": "culparán"
+  },
+  "CondS": {
+    "1s": "culparía",
+    "2s": "culparías",
+    "3s": "culparía",
+    "1p": "culparíamos",
+    "2p": "culparíais",
+    "3p": "culparían"
+  },
+  "PresC": {
+    "1s": "culpe",
+    "2s": "culpes",
+    "3s": "culpe",
+    "1p": "culpemos",
+    "2p": "culpéis",
+    "3p": "culpen"
+  },
+  "PMQPSI": {
+    "1s": "culpara",
+    "2s": "culparas",
+    "3s": "culpara",
+    "1p": "culpáramos",
+    "2p": "culparais",
+    "3p": "culparan"
+  },
+  "PImpC": {
+    "1s": "culpase",
+    "2s": "culpases",
+    "3s": "culpase",
+    "1p": "culpásemos",
+    "2p": "culpaseis",
+    "3p": "culpasen"
+  },
+  "FutSC": {
+    "1s": "culpare",
+    "2s": "culpares",
+    "3s": "culpare",
+    "1p": "culpáremos",
+    "2p": "culpareis",
+    "3p": "culparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "culpa",
+    "3s": "culpe",
+    "1p": "culpemos",
+    "2p": "culpad",
+    "3p": "culpen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no culpes",
+    "3s": "no culpe",
+    "1p": "no culpemos",
+    "2p": "no culpéis",
+    "3p": "no culpen"
+  },
+  "Part-ter": {
+    "": "culpado"
+  },
+  "Part-ser": {
+    "ms": "culpado",
+    "fs": "culpada",
+    "mp": "culpados",
+    "fp": "culpadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "morrer"
+  },
+  "InfP": {
+    "1s": "morrer",
+    "2s": "morreres",
+    "3s": "morrer",
+    "1p": "morrermos",
+    "2p": "morrerdes",
+    "3p": "morrerem"
+  },
+  "Ger": {
+    "": "morrendo"
+  },
+  "PresI": {
+    "1s": "morro",
+    "2s": "morres",
+    "3s": "morre",
+    "1p": "morremos",
+    "2p": "morreis",
+    "3p": "morrem"
+  },
+  "PImpI": {
+    "1s": "morria",
+    "2s": "morrias",
+    "3s": "morria",
+    "1p": "morríamos",
+    "2p": "morríeis",
+    "3p": "morriam"
+  },
+  "PPSI": {
+    "1s": "morri",
+    "2s": "morreste",
+    "3s": "morreu",
+    "1p": "morremos",
+    "2p": "morrestes",
+    "3p": "morreram"
+  },
+  "PMQPSI": {
+    "1s": "morrera",
+    "2s": "morreras",
+    "3s": "morrera",
+    "1p": "morrêramos",
+    "2p": "morrêreis",
+    "3p": "morreram"
+  },
+  "FutSI": {
+    "1s": "morrerei",
+    "2s": "morrerás",
+    "3s": "morrerá",
+    "1p": "morreremos",
+    "2p": "morrereis",
+    "3p": "morrerão"
+  },
+  "CondS": {
+    "1s": "morreria",
+    "2s": "morrerias",
+    "3s": "morreria",
+    "1p": "morreríamos",
+    "2p": "morreríeis",
+    "3p": "morreriam"
+  },
+  "PresC": {
+    "1s": "morra",
+    "2s": "morras",
+    "3s": "morra",
+    "1p": "morramos",
+    "2p": "morrais",
+    "3p": "morram"
+  },
+  "PImpC": {
+    "1s": "morresse",
+    "2s": "morresses",
+    "3s": "morresse",
+    "1p": "morrêssemos",
+    "2p": "morrêsseis",
+    "3p": "morressem"
+  },
+  "FutSC": {
+    "1s": "morrer",
+    "2s": "morreres",
+    "3s": "morrer",
+    "1p": "morrermos",
+    "2p": "morrerdes",
+    "3p": "morrerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "morre",
+    "3s": "morra",
+    "1p": "morramos",
+    "2p": "morrei",
+    "3p": "morram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não morras",
+    "3s": "não morra",
+    "1p": "não morramos",
+    "2p": "não morrais",
+    "3p": "não morram"
+  },
+  "Part-ter": {
+    "": "morrido"
+  },
+  "Part-ser": {
+    "ms": "morto",
+    "fs": "morta",
+    "mp": "mortos",
+    "fp": "mortas"
+  }
+}

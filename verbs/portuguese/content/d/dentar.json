@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dentar"
+  },
+  "InfP": {
+    "1s": "dentar",
+    "2s": "dentares",
+    "3s": "dentar",
+    "1p": "dentarmos",
+    "2p": "dentardes",
+    "3p": "dentarem"
+  },
+  "Ger": {
+    "": "dentando"
+  },
+  "PresI": {
+    "1s": "dento",
+    "2s": "dentas",
+    "3s": "denta",
+    "1p": "dentamos",
+    "2p": "dentais",
+    "3p": "dentam"
+  },
+  "PImpI": {
+    "1s": "dentava",
+    "2s": "dentavas",
+    "3s": "dentava",
+    "1p": "dentávamos",
+    "2p": "dentáveis",
+    "3p": "dentavam"
+  },
+  "PPSI": {
+    "1s": "dentei",
+    "2s": "dentaste",
+    "3s": "dentou",
+    "1p": "dentámos",
+    "2p": "dentastes",
+    "3p": "dentaram"
+  },
+  "PMQPSI": {
+    "1s": "dentara",
+    "2s": "dentaras",
+    "3s": "dentara",
+    "1p": "dentáramos",
+    "2p": "dentáreis",
+    "3p": "dentaram"
+  },
+  "FutSI": {
+    "1s": "dentarei",
+    "2s": "dentarás",
+    "3s": "dentará",
+    "1p": "dentaremos",
+    "2p": "dentareis",
+    "3p": "dentarão"
+  },
+  "CondS": {
+    "1s": "dentaria",
+    "2s": "dentarias",
+    "3s": "dentaria",
+    "1p": "dentaríamos",
+    "2p": "dentaríeis",
+    "3p": "dentariam"
+  },
+  "PresC": {
+    "1s": "dente",
+    "2s": "dentes",
+    "3s": "dente",
+    "1p": "dentemos",
+    "2p": "denteis",
+    "3p": "dentem"
+  },
+  "PImpC": {
+    "1s": "dentasse",
+    "2s": "dentasses",
+    "3s": "dentasse",
+    "1p": "dentássemos",
+    "2p": "dentásseis",
+    "3p": "dentassem"
+  },
+  "FutSC": {
+    "1s": "dentar",
+    "2s": "dentares",
+    "3s": "dentar",
+    "1p": "dentarmos",
+    "2p": "dentardes",
+    "3p": "dentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "denta",
+    "3s": "dente",
+    "1p": "dentemos",
+    "2p": "dentai",
+    "3p": "dentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dentes",
+    "3s": "não dente",
+    "1p": "não dentemos",
+    "2p": "não denteis",
+    "3p": "não dentem"
+  },
+  "Part-ter": {
+    "": "dentado"
+  },
+  "Part-ser": {
+    "ms": "dentado",
+    "fs": "dentada",
+    "mp": "dentados",
+    "fp": "dentadas"
+  }
+}

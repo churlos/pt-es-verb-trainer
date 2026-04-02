@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estregar"
+  },
+  "Ger": {
+    "": "estregando"
+  },
+  "PresI": {
+    "1s": "estrego",
+    "2s": "estregas",
+    "3s": "estrega",
+    "1p": "estregamos",
+    "2p": "estregáis",
+    "3p": "estregan"
+  },
+  "PImpI": {
+    "1s": "estregaba",
+    "2s": "estregabas",
+    "3s": "estregaba",
+    "1p": "estregábamos",
+    "2p": "estregabais",
+    "3p": "estregaban"
+  },
+  "PPSI": {
+    "1s": "estregué",
+    "2s": "estregaste",
+    "3s": "estregó",
+    "1p": "estregamos",
+    "2p": "estregasteis",
+    "3p": "estregaron"
+  },
+  "FutSI": {
+    "1s": "estregaré",
+    "2s": "estregarás",
+    "3s": "estregará",
+    "1p": "estregaremos",
+    "2p": "estregaréis",
+    "3p": "estregarán"
+  },
+  "CondS": {
+    "1s": "estregaría",
+    "2s": "estregarías",
+    "3s": "estregaría",
+    "1p": "estregaríamos",
+    "2p": "estregaríais",
+    "3p": "estregarían"
+  },
+  "PresC": {
+    "1s": "estregue",
+    "2s": "estregues",
+    "3s": "estregue",
+    "1p": "estreguemos",
+    "2p": "estreguéis",
+    "3p": "estreguen"
+  },
+  "PMQPSI": {
+    "1s": "estregara",
+    "2s": "estregaras",
+    "3s": "estregara",
+    "1p": "estregáramos",
+    "2p": "estregarais",
+    "3p": "estregaran"
+  },
+  "PImpC": {
+    "1s": "estregase",
+    "2s": "estregases",
+    "3s": "estregase",
+    "1p": "estregásemos",
+    "2p": "estregaseis",
+    "3p": "estregasen"
+  },
+  "FutSC": {
+    "1s": "estregare",
+    "2s": "estregares",
+    "3s": "estregare",
+    "1p": "estregáremos",
+    "2p": "estregareis",
+    "3p": "estregaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estrega",
+    "3s": "estregue",
+    "1p": "estreguemos",
+    "2p": "estregad",
+    "3p": "estreguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estregues",
+    "3s": "no estregue",
+    "1p": "no estreguemos",
+    "2p": "no estreguéis",
+    "3p": "no estreguen"
+  },
+  "Part-ter": {
+    "": "estregado"
+  },
+  "Part-ser": {
+    "ms": "estregado",
+    "fs": "estregada",
+    "mp": "estregados",
+    "fp": "estregadas"
+  }
+}

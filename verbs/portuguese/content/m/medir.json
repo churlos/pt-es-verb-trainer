@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "medir"
+  },
+  "InfP": {
+    "1s": "medir",
+    "2s": "medires",
+    "3s": "medir",
+    "1p": "medirmos",
+    "2p": "medirdes",
+    "3p": "medirem"
+  },
+  "Ger": {
+    "": "medindo"
+  },
+  "PresI": {
+    "1s": "meço",
+    "2s": "medes",
+    "3s": "mede",
+    "1p": "medimos",
+    "2p": "medis",
+    "3p": "medem"
+  },
+  "PImpI": {
+    "1s": "media",
+    "2s": "medias",
+    "3s": "media",
+    "1p": "medíamos",
+    "2p": "medíeis",
+    "3p": "mediam"
+  },
+  "PPSI": {
+    "1s": "medi",
+    "2s": "mediste",
+    "3s": "mediu",
+    "1p": "medimos",
+    "2p": "medistes",
+    "3p": "mediram"
+  },
+  "PMQPSI": {
+    "1s": "medira",
+    "2s": "mediras",
+    "3s": "medira",
+    "1p": "medíramos",
+    "2p": "medíreis",
+    "3p": "mediram"
+  },
+  "FutSI": {
+    "1s": "medirei",
+    "2s": "medirás",
+    "3s": "medirá",
+    "1p": "mediremos",
+    "2p": "medireis",
+    "3p": "medirão"
+  },
+  "CondS": {
+    "1s": "mediria",
+    "2s": "medirias",
+    "3s": "mediria",
+    "1p": "mediríamos",
+    "2p": "mediríeis",
+    "3p": "mediriam"
+  },
+  "PresC": {
+    "1s": "meça",
+    "2s": "meças",
+    "3s": "meça",
+    "1p": "meçamos",
+    "2p": "meçais",
+    "3p": "meçam"
+  },
+  "PImpC": {
+    "1s": "medisse",
+    "2s": "medisses",
+    "3s": "medisse",
+    "1p": "medíssemos",
+    "2p": "medísseis",
+    "3p": "medissem"
+  },
+  "FutSC": {
+    "1s": "medir",
+    "2s": "medires",
+    "3s": "medir",
+    "1p": "medirmos",
+    "2p": "medirdes",
+    "3p": "medirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mede",
+    "3s": "meça",
+    "1p": "meçamos",
+    "2p": "medi",
+    "3p": "meçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não meças",
+    "3s": "não meça",
+    "1p": "não meçamos",
+    "2p": "não meçais",
+    "3p": "não meçam"
+  },
+  "Part-ter": {
+    "": "medido"
+  },
+  "Part-ser": {
+    "ms": "medido",
+    "fs": "medida",
+    "mp": "medidos",
+    "fp": "medidas"
+  }
+}

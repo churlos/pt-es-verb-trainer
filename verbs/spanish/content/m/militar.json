@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "militar"
+  },
+  "Ger": {
+    "": "militando"
+  },
+  "PresI": {
+    "1s": "milito",
+    "2s": "militas",
+    "3s": "milita",
+    "1p": "militamos",
+    "2p": "militáis",
+    "3p": "militan"
+  },
+  "PImpI": {
+    "1s": "militaba",
+    "2s": "militabas",
+    "3s": "militaba",
+    "1p": "militábamos",
+    "2p": "militabais",
+    "3p": "militaban"
+  },
+  "PPSI": {
+    "1s": "milité",
+    "2s": "militaste",
+    "3s": "militó",
+    "1p": "militamos",
+    "2p": "militasteis",
+    "3p": "militaron"
+  },
+  "FutSI": {
+    "1s": "militaré",
+    "2s": "militarás",
+    "3s": "militará",
+    "1p": "militaremos",
+    "2p": "militaréis",
+    "3p": "militarán"
+  },
+  "CondS": {
+    "1s": "militaría",
+    "2s": "militarías",
+    "3s": "militaría",
+    "1p": "militaríamos",
+    "2p": "militaríais",
+    "3p": "militarían"
+  },
+  "PresC": {
+    "1s": "milite",
+    "2s": "milites",
+    "3s": "milite",
+    "1p": "militemos",
+    "2p": "militéis",
+    "3p": "militen"
+  },
+  "PMQPSI": {
+    "1s": "militara",
+    "2s": "militaras",
+    "3s": "militara",
+    "1p": "militáramos",
+    "2p": "militarais",
+    "3p": "militaran"
+  },
+  "PImpC": {
+    "1s": "militase",
+    "2s": "militases",
+    "3s": "militase",
+    "1p": "militásemos",
+    "2p": "militaseis",
+    "3p": "militasen"
+  },
+  "FutSC": {
+    "1s": "militare",
+    "2s": "militares",
+    "3s": "militare",
+    "1p": "militáremos",
+    "2p": "militareis",
+    "3p": "militaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "milita",
+    "3s": "milite",
+    "1p": "militemos",
+    "2p": "militad",
+    "3p": "militen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no milites",
+    "3s": "no milite",
+    "1p": "no militemos",
+    "2p": "no militéis",
+    "3p": "no militen"
+  },
+  "Part-ter": {
+    "": "militado"
+  },
+  "Part-ser": {
+    "ms": "militado",
+    "fs": "militada",
+    "mp": "militados",
+    "fp": "militadas"
+  }
+}

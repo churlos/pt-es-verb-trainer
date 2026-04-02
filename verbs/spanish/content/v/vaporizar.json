@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vaporizar"
+  },
+  "Ger": {
+    "": "vaporizando"
+  },
+  "PresI": {
+    "1s": "vaporizo",
+    "2s": "vaporizas",
+    "3s": "vaporiza",
+    "1p": "vaporizamos",
+    "2p": "vaporizáis",
+    "3p": "vaporizan"
+  },
+  "PImpI": {
+    "1s": "vaporizaba",
+    "2s": "vaporizabas",
+    "3s": "vaporizaba",
+    "1p": "vaporizábamos",
+    "2p": "vaporizabais",
+    "3p": "vaporizaban"
+  },
+  "PPSI": {
+    "1s": "vaporicé",
+    "2s": "vaporizaste",
+    "3s": "vaporizó",
+    "1p": "vaporizamos",
+    "2p": "vaporizasteis",
+    "3p": "vaporizaron"
+  },
+  "FutSI": {
+    "1s": "vaporizaré",
+    "2s": "vaporizarás",
+    "3s": "vaporizará",
+    "1p": "vaporizaremos",
+    "2p": "vaporizaréis",
+    "3p": "vaporizarán"
+  },
+  "CondS": {
+    "1s": "vaporizaría",
+    "2s": "vaporizarías",
+    "3s": "vaporizaría",
+    "1p": "vaporizaríamos",
+    "2p": "vaporizaríais",
+    "3p": "vaporizarían"
+  },
+  "PresC": {
+    "1s": "vaporice",
+    "2s": "vaporices",
+    "3s": "vaporice",
+    "1p": "vaporicemos",
+    "2p": "vaporicéis",
+    "3p": "vaporicen"
+  },
+  "PMQPSI": {
+    "1s": "vaporizara",
+    "2s": "vaporizaras",
+    "3s": "vaporizara",
+    "1p": "vaporizáramos",
+    "2p": "vaporizarais",
+    "3p": "vaporizaran"
+  },
+  "PImpC": {
+    "1s": "vaporizase",
+    "2s": "vaporizases",
+    "3s": "vaporizase",
+    "1p": "vaporizásemos",
+    "2p": "vaporizaseis",
+    "3p": "vaporizasen"
+  },
+  "FutSC": {
+    "1s": "vaporizare",
+    "2s": "vaporizares",
+    "3s": "vaporizare",
+    "1p": "vaporizáremos",
+    "2p": "vaporizareis",
+    "3p": "vaporizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vaporiza",
+    "3s": "vaporice",
+    "1p": "vaporicemos",
+    "2p": "vaporizad",
+    "3p": "vaporicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vaporices",
+    "3s": "no vaporice",
+    "1p": "no vaporicemos",
+    "2p": "no vaporicéis",
+    "3p": "no vaporicen"
+  },
+  "Part-ter": {
+    "": "vaporizado"
+  },
+  "Part-ser": {
+    "ms": "vaporizado",
+    "fs": "vaporizada",
+    "mp": "vaporizados",
+    "fp": "vaporizadas"
+  }
+}

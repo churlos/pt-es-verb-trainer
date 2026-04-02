@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tentar"
+  },
+  "Ger": {
+    "": "tentando"
+  },
+  "PresI": {
+    "1s": "tiento",
+    "2s": "tientas",
+    "3s": "tienta",
+    "1p": "tentamos",
+    "2p": "tentáis",
+    "3p": "tientan"
+  },
+  "PImpI": {
+    "1s": "tentaba",
+    "2s": "tentabas",
+    "3s": "tentaba",
+    "1p": "tentábamos",
+    "2p": "tentabais",
+    "3p": "tentaban"
+  },
+  "PPSI": {
+    "1s": "tenté",
+    "2s": "tentaste",
+    "3s": "tentó",
+    "1p": "tentamos",
+    "2p": "tentasteis",
+    "3p": "tentaron"
+  },
+  "FutSI": {
+    "1s": "tentaré",
+    "2s": "tentarás",
+    "3s": "tentará",
+    "1p": "tentaremos",
+    "2p": "tentaréis",
+    "3p": "tentarán"
+  },
+  "CondS": {
+    "1s": "tentaría",
+    "2s": "tentarías",
+    "3s": "tentaría",
+    "1p": "tentaríamos",
+    "2p": "tentaríais",
+    "3p": "tentarían"
+  },
+  "PresC": {
+    "1s": "tiente",
+    "2s": "tientes",
+    "3s": "tiente",
+    "1p": "tentemos",
+    "2p": "tentéis",
+    "3p": "tienten"
+  },
+  "PMQPSI": {
+    "1s": "tentara",
+    "2s": "tentaras",
+    "3s": "tentara",
+    "1p": "tentáramos",
+    "2p": "tentarais",
+    "3p": "tentaran"
+  },
+  "PImpC": {
+    "1s": "tentase",
+    "2s": "tentases",
+    "3s": "tentase",
+    "1p": "tentásemos",
+    "2p": "tentaseis",
+    "3p": "tentasen"
+  },
+  "FutSC": {
+    "1s": "tentare",
+    "2s": "tentares",
+    "3s": "tentare",
+    "1p": "tentáremos",
+    "2p": "tentareis",
+    "3p": "tentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tienta",
+    "3s": "tiente",
+    "1p": "tentemos",
+    "2p": "tentad",
+    "3p": "tienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tientes",
+    "3s": "no tiente",
+    "1p": "no tentemos",
+    "2p": "no tentéis",
+    "3p": "no tienten"
+  },
+  "Part-ter": {
+    "": "tentado"
+  },
+  "Part-ser": {
+    "ms": "tentado",
+    "fs": "tentada",
+    "mp": "tentados",
+    "fp": "tentadas"
+  }
+}

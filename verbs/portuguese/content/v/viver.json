@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "viver"
+  },
+  "InfP": {
+    "1s": "viver",
+    "2s": "viveres",
+    "3s": "viver",
+    "1p": "vivermos",
+    "2p": "viverdes",
+    "3p": "viverem"
+  },
+  "Ger": {
+    "": "vivendo"
+  },
+  "PresI": {
+    "1s": "vivo",
+    "2s": "vives",
+    "3s": "vive",
+    "1p": "vivemos",
+    "2p": "viveis",
+    "3p": "vivem"
+  },
+  "PImpI": {
+    "1s": "vivia",
+    "2s": "vivias",
+    "3s": "vivia",
+    "1p": "vivíamos",
+    "2p": "vivíeis",
+    "3p": "viviam"
+  },
+  "PPSI": {
+    "1s": "vivi",
+    "2s": "viveste",
+    "3s": "viveu",
+    "1p": "vivemos",
+    "2p": "vivestes",
+    "3p": "viveram"
+  },
+  "PMQPSI": {
+    "1s": "vivera",
+    "2s": "viveras",
+    "3s": "vivera",
+    "1p": "vivêramos",
+    "2p": "vivêreis",
+    "3p": "viveram"
+  },
+  "FutSI": {
+    "1s": "viverei",
+    "2s": "viverás",
+    "3s": "viverá",
+    "1p": "viveremos",
+    "2p": "vivereis",
+    "3p": "viverão"
+  },
+  "CondS": {
+    "1s": "viveria",
+    "2s": "viverias",
+    "3s": "viveria",
+    "1p": "viveríamos",
+    "2p": "viveríeis",
+    "3p": "viveriam"
+  },
+  "PresC": {
+    "1s": "viva",
+    "2s": "vivas",
+    "3s": "viva",
+    "1p": "vivamos",
+    "2p": "vivais",
+    "3p": "vivam"
+  },
+  "PImpC": {
+    "1s": "vivesse",
+    "2s": "vivesses",
+    "3s": "vivesse",
+    "1p": "vivêssemos",
+    "2p": "vivêsseis",
+    "3p": "vivessem"
+  },
+  "FutSC": {
+    "1s": "viver",
+    "2s": "viveres",
+    "3s": "viver",
+    "1p": "vivermos",
+    "2p": "viverdes",
+    "3p": "viverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vive",
+    "3s": "viva",
+    "1p": "vivamos",
+    "2p": "vivei",
+    "3p": "vivam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vivas",
+    "3s": "não viva",
+    "1p": "não vivamos",
+    "2p": "não vivais",
+    "3p": "não vivam"
+  },
+  "Part-ter": {
+    "": "vivido"
+  },
+  "Part-ser": {
+    "ms": "vivido",
+    "fs": "vivida",
+    "mp": "vividos",
+    "fp": "vividas"
+  }
+}

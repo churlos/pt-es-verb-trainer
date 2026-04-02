@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "coincidir"
+  },
+  "InfP": {
+    "1s": "coincidir",
+    "2s": "coincidires",
+    "3s": "coincidir",
+    "1p": "coincidirmos",
+    "2p": "coincidirdes",
+    "3p": "coincidirem"
+  },
+  "Ger": {
+    "": "coincidindo"
+  },
+  "PresI": {
+    "1s": "coincido",
+    "2s": "coincides",
+    "3s": "coincide",
+    "1p": "coincidimos",
+    "2p": "coincidis",
+    "3p": "coincidem"
+  },
+  "PImpI": {
+    "1s": "coincidia",
+    "2s": "coincidias",
+    "3s": "coincidia",
+    "1p": "coincidíamos",
+    "2p": "coincidíeis",
+    "3p": "coincidiam"
+  },
+  "PPSI": {
+    "1s": "coincidi",
+    "2s": "coincidiste",
+    "3s": "coincidiu",
+    "1p": "coincidimos",
+    "2p": "coincidistes",
+    "3p": "coincidiram"
+  },
+  "PMQPSI": {
+    "1s": "coincidira",
+    "2s": "coincidiras",
+    "3s": "coincidira",
+    "1p": "coincidíramos",
+    "2p": "coincidíreis",
+    "3p": "coincidiram"
+  },
+  "FutSI": {
+    "1s": "coincidirei",
+    "2s": "coincidirás",
+    "3s": "coincidirá",
+    "1p": "coincidiremos",
+    "2p": "coincidireis",
+    "3p": "coincidirão"
+  },
+  "CondS": {
+    "1s": "coincidiria",
+    "2s": "coincidirias",
+    "3s": "coincidiria",
+    "1p": "coincidiríamos",
+    "2p": "coincidiríeis",
+    "3p": "coincidiriam"
+  },
+  "PresC": {
+    "1s": "coincida",
+    "2s": "coincidas",
+    "3s": "coincida",
+    "1p": "coincidamos",
+    "2p": "coincidais",
+    "3p": "coincidam"
+  },
+  "PImpC": {
+    "1s": "coincidisse",
+    "2s": "coincidisses",
+    "3s": "coincidisse",
+    "1p": "coincidíssemos",
+    "2p": "coincidísseis",
+    "3p": "coincidissem"
+  },
+  "FutSC": {
+    "1s": "coincidir",
+    "2s": "coincidires",
+    "3s": "coincidir",
+    "1p": "coincidirmos",
+    "2p": "coincidirdes",
+    "3p": "coincidirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coincide",
+    "3s": "coincida",
+    "1p": "coincidamos",
+    "2p": "coincidi",
+    "3p": "coincidam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coincidas",
+    "3s": "não coincida",
+    "1p": "não coincidamos",
+    "2p": "não coincidais",
+    "3p": "não coincidam"
+  },
+  "Part-ter": {
+    "": "coincidido"
+  },
+  "Part-ser": {
+    "ms": "coincidido",
+    "fs": "coincidida",
+    "mp": "coincididos",
+    "fp": "coincididas"
+  }
+}

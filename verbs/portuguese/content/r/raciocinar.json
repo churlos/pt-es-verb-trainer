@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "raciocinar"
+  },
+  "InfP": {
+    "1s": "raciocinar",
+    "2s": "raciocinares",
+    "3s": "raciocinar",
+    "1p": "raciocinarmos",
+    "2p": "raciocinardes",
+    "3p": "raciocinarem"
+  },
+  "Ger": {
+    "": "raciocinando"
+  },
+  "PresI": {
+    "1s": "raciocino",
+    "2s": "raciocinas",
+    "3s": "raciocina",
+    "1p": "raciocinamos",
+    "2p": "raciocinais",
+    "3p": "raciocinam"
+  },
+  "PImpI": {
+    "1s": "raciocinava",
+    "2s": "raciocinavas",
+    "3s": "raciocinava",
+    "1p": "raciocinávamos",
+    "2p": "raciocináveis",
+    "3p": "raciocinavam"
+  },
+  "PPSI": {
+    "1s": "raciocinei",
+    "2s": "raciocinaste",
+    "3s": "raciocinou",
+    "1p": "raciocinámos",
+    "2p": "raciocinastes",
+    "3p": "raciocinaram"
+  },
+  "PMQPSI": {
+    "1s": "raciocinara",
+    "2s": "raciocinaras",
+    "3s": "raciocinara",
+    "1p": "raciocináramos",
+    "2p": "raciocináreis",
+    "3p": "raciocinaram"
+  },
+  "FutSI": {
+    "1s": "raciocinarei",
+    "2s": "raciocinarás",
+    "3s": "raciocinará",
+    "1p": "raciocinaremos",
+    "2p": "raciocinareis",
+    "3p": "raciocinarão"
+  },
+  "CondS": {
+    "1s": "raciocinaria",
+    "2s": "raciocinarias",
+    "3s": "raciocinaria",
+    "1p": "raciocinaríamos",
+    "2p": "raciocinaríeis",
+    "3p": "raciocinariam"
+  },
+  "PresC": {
+    "1s": "raciocine",
+    "2s": "raciocines",
+    "3s": "raciocine",
+    "1p": "raciocinemos",
+    "2p": "raciocineis",
+    "3p": "raciocinem"
+  },
+  "PImpC": {
+    "1s": "raciocinasse",
+    "2s": "raciocinasses",
+    "3s": "raciocinasse",
+    "1p": "raciocinássemos",
+    "2p": "raciocinásseis",
+    "3p": "raciocinassem"
+  },
+  "FutSC": {
+    "1s": "raciocinar",
+    "2s": "raciocinares",
+    "3s": "raciocinar",
+    "1p": "raciocinarmos",
+    "2p": "raciocinardes",
+    "3p": "raciocinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "raciocina",
+    "3s": "raciocine",
+    "1p": "raciocinemos",
+    "2p": "raciocinai",
+    "3p": "raciocinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não raciocines",
+    "3s": "não raciocine",
+    "1p": "não raciocinemos",
+    "2p": "não raciocineis",
+    "3p": "não raciocinem"
+  },
+  "Part-ter": {
+    "": "raciocinado"
+  },
+  "Part-ser": {
+    "ms": "raciocinado",
+    "fs": "raciocinada",
+    "mp": "raciocinados",
+    "fp": "raciocinadas"
+  }
+}

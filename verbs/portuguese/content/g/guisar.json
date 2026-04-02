@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "guisar"
+  },
+  "InfP": {
+    "1s": "guisar",
+    "2s": "guisares",
+    "3s": "guisar",
+    "1p": "guisarmos",
+    "2p": "guisardes",
+    "3p": "guisarem"
+  },
+  "Ger": {
+    "": "guisando"
+  },
+  "PresI": {
+    "1s": "guiso",
+    "2s": "guisas",
+    "3s": "guisa",
+    "1p": "guisamos",
+    "2p": "guisais",
+    "3p": "guisam"
+  },
+  "PImpI": {
+    "1s": "guisava",
+    "2s": "guisavas",
+    "3s": "guisava",
+    "1p": "guisávamos",
+    "2p": "guisáveis",
+    "3p": "guisavam"
+  },
+  "PPSI": {
+    "1s": "guisei",
+    "2s": "guisaste",
+    "3s": "guisou",
+    "1p": "guisámos",
+    "2p": "guisastes",
+    "3p": "guisaram"
+  },
+  "PMQPSI": {
+    "1s": "guisara",
+    "2s": "guisaras",
+    "3s": "guisara",
+    "1p": "guisáramos",
+    "2p": "guisáreis",
+    "3p": "guisaram"
+  },
+  "FutSI": {
+    "1s": "guisarei",
+    "2s": "guisarás",
+    "3s": "guisará",
+    "1p": "guisaremos",
+    "2p": "guisareis",
+    "3p": "guisarão"
+  },
+  "CondS": {
+    "1s": "guisaria",
+    "2s": "guisarias",
+    "3s": "guisaria",
+    "1p": "guisaríamos",
+    "2p": "guisaríeis",
+    "3p": "guisariam"
+  },
+  "PresC": {
+    "1s": "guise",
+    "2s": "guises",
+    "3s": "guise",
+    "1p": "guisemos",
+    "2p": "guiseis",
+    "3p": "guisem"
+  },
+  "PImpC": {
+    "1s": "guisasse",
+    "2s": "guisasses",
+    "3s": "guisasse",
+    "1p": "guisássemos",
+    "2p": "guisásseis",
+    "3p": "guisassem"
+  },
+  "FutSC": {
+    "1s": "guisar",
+    "2s": "guisares",
+    "3s": "guisar",
+    "1p": "guisarmos",
+    "2p": "guisardes",
+    "3p": "guisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guisa",
+    "3s": "guise",
+    "1p": "guisemos",
+    "2p": "guisai",
+    "3p": "guisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não guises",
+    "3s": "não guise",
+    "1p": "não guisemos",
+    "2p": "não guiseis",
+    "3p": "não guisem"
+  },
+  "Part-ter": {
+    "": "guisado"
+  },
+  "Part-ser": {
+    "ms": "guisado",
+    "fs": "guisada",
+    "mp": "guisados",
+    "fp": "guisadas"
+  }
+}

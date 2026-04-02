@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "notificar"
+  },
+  "Ger": {
+    "": "notificando"
+  },
+  "PresI": {
+    "1s": "notifico",
+    "2s": "notificas",
+    "3s": "notifica",
+    "1p": "notificamos",
+    "2p": "notificáis",
+    "3p": "notifican"
+  },
+  "PImpI": {
+    "1s": "notificaba",
+    "2s": "notificabas",
+    "3s": "notificaba",
+    "1p": "notificábamos",
+    "2p": "notificabais",
+    "3p": "notificaban"
+  },
+  "PPSI": {
+    "1s": "notifiqué",
+    "2s": "notificaste",
+    "3s": "notificó",
+    "1p": "notificamos",
+    "2p": "notificasteis",
+    "3p": "notificaron"
+  },
+  "FutSI": {
+    "1s": "notificaré",
+    "2s": "notificarás",
+    "3s": "notificará",
+    "1p": "notificaremos",
+    "2p": "notificaréis",
+    "3p": "notificarán"
+  },
+  "CondS": {
+    "1s": "notificaría",
+    "2s": "notificarías",
+    "3s": "notificaría",
+    "1p": "notificaríamos",
+    "2p": "notificaríais",
+    "3p": "notificarían"
+  },
+  "PresC": {
+    "1s": "notifique",
+    "2s": "notifiques",
+    "3s": "notifique",
+    "1p": "notifiquemos",
+    "2p": "notifiquéis",
+    "3p": "notifiquen"
+  },
+  "PMQPSI": {
+    "1s": "notificara",
+    "2s": "notificaras",
+    "3s": "notificara",
+    "1p": "notificáramos",
+    "2p": "notificarais",
+    "3p": "notificaran"
+  },
+  "PImpC": {
+    "1s": "notificase",
+    "2s": "notificases",
+    "3s": "notificase",
+    "1p": "notificásemos",
+    "2p": "notificaseis",
+    "3p": "notificasen"
+  },
+  "FutSC": {
+    "1s": "notificare",
+    "2s": "notificares",
+    "3s": "notificare",
+    "1p": "notificáremos",
+    "2p": "notificareis",
+    "3p": "notificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "notifica",
+    "3s": "notifique",
+    "1p": "notifiquemos",
+    "2p": "notificad",
+    "3p": "notifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no notifiques",
+    "3s": "no notifique",
+    "1p": "no notifiquemos",
+    "2p": "no notifiquéis",
+    "3p": "no notifiquen"
+  },
+  "Part-ter": {
+    "": "notificado"
+  },
+  "Part-ser": {
+    "ms": "notificado",
+    "fs": "notificada",
+    "mp": "notificados",
+    "fp": "notificadas"
+  }
+}

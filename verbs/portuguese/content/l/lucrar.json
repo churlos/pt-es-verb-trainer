@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lucrar"
+  },
+  "InfP": {
+    "1s": "lucrar",
+    "2s": "lucrares",
+    "3s": "lucrar",
+    "1p": "lucrarmos",
+    "2p": "lucrardes",
+    "3p": "lucrarem"
+  },
+  "Ger": {
+    "": "lucrando"
+  },
+  "PresI": {
+    "1s": "lucro",
+    "2s": "lucras",
+    "3s": "lucra",
+    "1p": "lucramos",
+    "2p": "lucrais",
+    "3p": "lucram"
+  },
+  "PImpI": {
+    "1s": "lucrava",
+    "2s": "lucravas",
+    "3s": "lucrava",
+    "1p": "lucrávamos",
+    "2p": "lucráveis",
+    "3p": "lucravam"
+  },
+  "PPSI": {
+    "1s": "lucrei",
+    "2s": "lucraste",
+    "3s": "lucrou",
+    "1p": "lucrámos",
+    "2p": "lucrastes",
+    "3p": "lucraram"
+  },
+  "PMQPSI": {
+    "1s": "lucrara",
+    "2s": "lucraras",
+    "3s": "lucrara",
+    "1p": "lucráramos",
+    "2p": "lucráreis",
+    "3p": "lucraram"
+  },
+  "FutSI": {
+    "1s": "lucrarei",
+    "2s": "lucrarás",
+    "3s": "lucrará",
+    "1p": "lucraremos",
+    "2p": "lucrareis",
+    "3p": "lucrarão"
+  },
+  "CondS": {
+    "1s": "lucraria",
+    "2s": "lucrarias",
+    "3s": "lucraria",
+    "1p": "lucraríamos",
+    "2p": "lucraríeis",
+    "3p": "lucrariam"
+  },
+  "PresC": {
+    "1s": "lucre",
+    "2s": "lucres",
+    "3s": "lucre",
+    "1p": "lucremos",
+    "2p": "lucreis",
+    "3p": "lucrem"
+  },
+  "PImpC": {
+    "1s": "lucrasse",
+    "2s": "lucrasses",
+    "3s": "lucrasse",
+    "1p": "lucrássemos",
+    "2p": "lucrásseis",
+    "3p": "lucrassem"
+  },
+  "FutSC": {
+    "1s": "lucrar",
+    "2s": "lucrares",
+    "3s": "lucrar",
+    "1p": "lucrarmos",
+    "2p": "lucrardes",
+    "3p": "lucrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lucra",
+    "3s": "lucre",
+    "1p": "lucremos",
+    "2p": "lucrai",
+    "3p": "lucrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lucres",
+    "3s": "não lucre",
+    "1p": "não lucremos",
+    "2p": "não lucreis",
+    "3p": "não lucrem"
+  },
+  "Part-ter": {
+    "": "lucrado"
+  },
+  "Part-ser": {
+    "ms": "lucrado",
+    "fs": "lucrada",
+    "mp": "lucrados",
+    "fp": "lucradas"
+  }
+}

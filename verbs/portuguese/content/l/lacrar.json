@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lacrar"
+  },
+  "InfP": {
+    "1s": "lacrar",
+    "2s": "lacrares",
+    "3s": "lacrar",
+    "1p": "lacrarmos",
+    "2p": "lacrardes",
+    "3p": "lacrarem"
+  },
+  "Ger": {
+    "": "lacrando"
+  },
+  "PresI": {
+    "1s": "lacro",
+    "2s": "lacras",
+    "3s": "lacra",
+    "1p": "lacramos",
+    "2p": "lacrais",
+    "3p": "lacram"
+  },
+  "PImpI": {
+    "1s": "lacrava",
+    "2s": "lacravas",
+    "3s": "lacrava",
+    "1p": "lacrávamos",
+    "2p": "lacráveis",
+    "3p": "lacravam"
+  },
+  "PPSI": {
+    "1s": "lacrei",
+    "2s": "lacraste",
+    "3s": "lacrou",
+    "1p": "lacrámos",
+    "2p": "lacrastes",
+    "3p": "lacraram"
+  },
+  "PMQPSI": {
+    "1s": "lacrara",
+    "2s": "lacraras",
+    "3s": "lacrara",
+    "1p": "lacráramos",
+    "2p": "lacráreis",
+    "3p": "lacraram"
+  },
+  "FutSI": {
+    "1s": "lacrarei",
+    "2s": "lacrarás",
+    "3s": "lacrará",
+    "1p": "lacraremos",
+    "2p": "lacrareis",
+    "3p": "lacrarão"
+  },
+  "CondS": {
+    "1s": "lacraria",
+    "2s": "lacrarias",
+    "3s": "lacraria",
+    "1p": "lacraríamos",
+    "2p": "lacraríeis",
+    "3p": "lacrariam"
+  },
+  "PresC": {
+    "1s": "lacre",
+    "2s": "lacres",
+    "3s": "lacre",
+    "1p": "lacremos",
+    "2p": "lacreis",
+    "3p": "lacrem"
+  },
+  "PImpC": {
+    "1s": "lacrasse",
+    "2s": "lacrasses",
+    "3s": "lacrasse",
+    "1p": "lacrássemos",
+    "2p": "lacrásseis",
+    "3p": "lacrassem"
+  },
+  "FutSC": {
+    "1s": "lacrar",
+    "2s": "lacrares",
+    "3s": "lacrar",
+    "1p": "lacrarmos",
+    "2p": "lacrardes",
+    "3p": "lacrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lacra",
+    "3s": "lacre",
+    "1p": "lacremos",
+    "2p": "lacrai",
+    "3p": "lacrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lacres",
+    "3s": "não lacre",
+    "1p": "não lacremos",
+    "2p": "não lacreis",
+    "3p": "não lacrem"
+  },
+  "Part-ter": {
+    "": "lacrado"
+  },
+  "Part-ser": {
+    "ms": "lacrado",
+    "fs": "lacrada",
+    "mp": "lacrados",
+    "fp": "lacradas"
+  }
+}

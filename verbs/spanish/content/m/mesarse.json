@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mesarse"
+  },
+  "Ger": {
+    "": "mesándose"
+  },
+  "PresI": {
+    "1s": "me meso",
+    "2s": "te mesas",
+    "3s": "se mesa",
+    "1p": "nos mesamos",
+    "2p": "os mesáis",
+    "3p": "se mesan"
+  },
+  "PImpI": {
+    "1s": "me mesaba",
+    "2s": "te mesabas",
+    "3s": "se mesaba",
+    "1p": "nos mesábamos",
+    "2p": "os mesabais",
+    "3p": "se mesaban"
+  },
+  "PPSI": {
+    "1s": "me mesé",
+    "2s": "te mesaste",
+    "3s": "se mesó",
+    "1p": "nos mesamos",
+    "2p": "os mesasteis",
+    "3p": "se mesaron"
+  },
+  "FutSI": {
+    "1s": "me mesaré",
+    "2s": "te mesarás",
+    "3s": "se mesará",
+    "1p": "nos mesaremos",
+    "2p": "os mesaréis",
+    "3p": "se mesarán"
+  },
+  "CondS": {
+    "1s": "me mesaría",
+    "2s": "te mesarías",
+    "3s": "se mesaría",
+    "1p": "nos mesaríamos",
+    "2p": "os mesaríais",
+    "3p": "se mesarían"
+  },
+  "PresC": {
+    "1s": "me mese",
+    "2s": "te meses",
+    "3s": "se mese",
+    "1p": "nos mesemos",
+    "2p": "os meséis",
+    "3p": "se mesen"
+  },
+  "PMQPSI": {
+    "1s": "me mesara",
+    "2s": "te mesaras",
+    "3s": "se mesara",
+    "1p": "nos mesáramos",
+    "2p": "os mesarais",
+    "3p": "se mesaran"
+  },
+  "PImpC": {
+    "1s": "me mesase",
+    "2s": "te mesases",
+    "3s": "se mesase",
+    "1p": "nos mesásemos",
+    "2p": "os mesaseis",
+    "3p": "se mesasen"
+  },
+  "FutSC": {
+    "1s": "me mesare",
+    "2s": "te mesares",
+    "3s": "se mesare",
+    "1p": "nos mesáremos",
+    "2p": "os mesareis",
+    "3p": "se mesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mésate",
+    "3s": "mésese",
+    "1p": "mesémonos",
+    "2p": "mesaos",
+    "3p": "mésense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te meses",
+    "3s": "no se mese",
+    "1p": "no nos mesemos",
+    "2p": "no os meséis",
+    "3p": "no se mesen"
+  },
+  "Part-ter": {
+    "": "mesado"
+  },
+  "Part-ser": {
+    "ms": "mesado",
+    "fs": "mesada",
+    "mp": "mesados",
+    "fp": "mesadas"
+  }
+}

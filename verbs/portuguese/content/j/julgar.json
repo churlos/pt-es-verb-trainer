@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "julgar"
+  },
+  "InfP": {
+    "1s": "julgar",
+    "2s": "julgares",
+    "3s": "julgar",
+    "1p": "julgarmos",
+    "2p": "julgardes",
+    "3p": "julgarem"
+  },
+  "Ger": {
+    "": "julgando"
+  },
+  "PresI": {
+    "1s": "julgo",
+    "2s": "julgas",
+    "3s": "julga",
+    "1p": "julgamos",
+    "2p": "julgais",
+    "3p": "julgam"
+  },
+  "PImpI": {
+    "1s": "julgava",
+    "2s": "julgavas",
+    "3s": "julgava",
+    "1p": "julgávamos",
+    "2p": "julgáveis",
+    "3p": "julgavam"
+  },
+  "PPSI": {
+    "1s": "julguei",
+    "2s": "julgaste",
+    "3s": "julgou",
+    "1p": "julgámos",
+    "2p": "julgastes",
+    "3p": "julgaram"
+  },
+  "PMQPSI": {
+    "1s": "julgara",
+    "2s": "julgaras",
+    "3s": "julgara",
+    "1p": "julgáramos",
+    "2p": "julgáreis",
+    "3p": "julgaram"
+  },
+  "FutSI": {
+    "1s": "julgarei",
+    "2s": "julgarás",
+    "3s": "julgará",
+    "1p": "julgaremos",
+    "2p": "julgareis",
+    "3p": "julgarão"
+  },
+  "CondS": {
+    "1s": "julgaria",
+    "2s": "julgarias",
+    "3s": "julgaria",
+    "1p": "julgaríamos",
+    "2p": "julgaríeis",
+    "3p": "julgariam"
+  },
+  "PresC": {
+    "1s": "julgue",
+    "2s": "julgues",
+    "3s": "julgue",
+    "1p": "julguemos",
+    "2p": "julgueis",
+    "3p": "julguem"
+  },
+  "PImpC": {
+    "1s": "julgasse",
+    "2s": "julgasses",
+    "3s": "julgasse",
+    "1p": "julgássemos",
+    "2p": "julgásseis",
+    "3p": "julgassem"
+  },
+  "FutSC": {
+    "1s": "julgar",
+    "2s": "julgares",
+    "3s": "julgar",
+    "1p": "julgarmos",
+    "2p": "julgardes",
+    "3p": "julgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "julga",
+    "3s": "julgue",
+    "1p": "julguemos",
+    "2p": "julgai",
+    "3p": "julguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não julgues",
+    "3s": "não julgue",
+    "1p": "não julguemos",
+    "2p": "não julgueis",
+    "3p": "não julguem"
+  },
+  "Part-ter": {
+    "": "julgado"
+  },
+  "Part-ser": {
+    "ms": "julgado",
+    "fs": "julgada",
+    "mp": "julgados",
+    "fp": "julgadas"
+  }
+}

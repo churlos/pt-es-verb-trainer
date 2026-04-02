@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estreiar"
+  },
+  "InfP": {
+    "1s": "estreiar",
+    "2s": "estreiares",
+    "3s": "estreiar",
+    "1p": "estreiarmos",
+    "2p": "estreiardes",
+    "3p": "estreiarem"
+  },
+  "Ger": {
+    "": "estreiando"
+  },
+  "PresI": {
+    "1s": "estreio",
+    "2s": "estreias",
+    "3s": "estreia",
+    "1p": "estreiamos",
+    "2p": "estreiais",
+    "3p": "estreiam"
+  },
+  "PImpI": {
+    "1s": "estreiava",
+    "2s": "estreiavas",
+    "3s": "estreiava",
+    "1p": "estreiávamos",
+    "2p": "estreiáveis",
+    "3p": "estreiavam"
+  },
+  "PPSI": {
+    "1s": "estreiei",
+    "2s": "estreiaste",
+    "3s": "estreiou",
+    "1p": "estreiámos",
+    "2p": "estreiastes",
+    "3p": "estreiaram"
+  },
+  "PMQPSI": {
+    "1s": "estreiara",
+    "2s": "estreiaras",
+    "3s": "estreiara",
+    "1p": "estreiáramos",
+    "2p": "estreiáreis",
+    "3p": "estreiaram"
+  },
+  "FutSI": {
+    "1s": "estreiarei",
+    "2s": "estreiarás",
+    "3s": "estreiará",
+    "1p": "estreiaremos",
+    "2p": "estreiareis",
+    "3p": "estreiarão"
+  },
+  "CondS": {
+    "1s": "estreiaria",
+    "2s": "estreiarias",
+    "3s": "estreiaria",
+    "1p": "estreiaríamos",
+    "2p": "estreiaríeis",
+    "3p": "estreiariam"
+  },
+  "PresC": {
+    "1s": "estreie",
+    "2s": "estreies",
+    "3s": "estreie",
+    "1p": "estreiemos",
+    "2p": "estreieis",
+    "3p": "estreiem"
+  },
+  "PImpC": {
+    "1s": "estreiasse",
+    "2s": "estreiasses",
+    "3s": "estreiasse",
+    "1p": "estreiássemos",
+    "2p": "estreiásseis",
+    "3p": "estreiassem"
+  },
+  "FutSC": {
+    "1s": "estreiar",
+    "2s": "estreiares",
+    "3s": "estreiar",
+    "1p": "estreiarmos",
+    "2p": "estreiardes",
+    "3p": "estreiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estreia",
+    "3s": "estreie",
+    "1p": "estreiemos",
+    "2p": "estreiai",
+    "3p": "estreiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estreies",
+    "3s": "não estreie",
+    "1p": "não estreiemos",
+    "2p": "não estreieis",
+    "3p": "não estreiem"
+  },
+  "Part-ter": {
+    "": "estreiado"
+  },
+  "Part-ser": {
+    "ms": "estreiado",
+    "fs": "estreiada",
+    "mp": "estreiados",
+    "fp": "estreiadas"
+  }
+}

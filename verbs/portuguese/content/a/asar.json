@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "asar"
+  },
+  "InfP": {
+    "1s": "asar",
+    "2s": "asares",
+    "3s": "asar",
+    "1p": "asarmos",
+    "2p": "asardes",
+    "3p": "asarem"
+  },
+  "Ger": {
+    "": "asando"
+  },
+  "PresI": {
+    "1s": "aso",
+    "2s": "asas",
+    "3s": "asa",
+    "1p": "asamos",
+    "2p": "asais",
+    "3p": "asam"
+  },
+  "PImpI": {
+    "1s": "asava",
+    "2s": "asavas",
+    "3s": "asava",
+    "1p": "asávamos",
+    "2p": "asáveis",
+    "3p": "asavam"
+  },
+  "PPSI": {
+    "1s": "asei",
+    "2s": "asaste",
+    "3s": "asou",
+    "1p": "asámos",
+    "2p": "asastes",
+    "3p": "asaram"
+  },
+  "PMQPSI": {
+    "1s": "asara",
+    "2s": "asaras",
+    "3s": "asara",
+    "1p": "asáramos",
+    "2p": "asáreis",
+    "3p": "asaram"
+  },
+  "FutSI": {
+    "1s": "asarei",
+    "2s": "asarás",
+    "3s": "asará",
+    "1p": "asaremos",
+    "2p": "asareis",
+    "3p": "asarão"
+  },
+  "CondS": {
+    "1s": "asaria",
+    "2s": "asarias",
+    "3s": "asaria",
+    "1p": "asaríamos",
+    "2p": "asaríeis",
+    "3p": "asariam"
+  },
+  "PresC": {
+    "1s": "ase",
+    "2s": "ases",
+    "3s": "ase",
+    "1p": "asemos",
+    "2p": "aseis",
+    "3p": "asem"
+  },
+  "PImpC": {
+    "1s": "asasse",
+    "2s": "asasses",
+    "3s": "asasse",
+    "1p": "asássemos",
+    "2p": "asásseis",
+    "3p": "asassem"
+  },
+  "FutSC": {
+    "1s": "asar",
+    "2s": "asares",
+    "3s": "asar",
+    "1p": "asarmos",
+    "2p": "asardes",
+    "3p": "asarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asa",
+    "3s": "ase",
+    "1p": "asemos",
+    "2p": "asai",
+    "3p": "asem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ases",
+    "3s": "não ase",
+    "1p": "não asemos",
+    "2p": "não aseis",
+    "3p": "não asem"
+  },
+  "Part-ter": {
+    "": "asado"
+  },
+  "Part-ser": {
+    "ms": "asado",
+    "fs": "asada",
+    "mp": "asados",
+    "fp": "asadas"
+  }
+}

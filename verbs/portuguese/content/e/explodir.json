@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "explodir"
+  },
+  "InfP": {
+    "1s": "explodir",
+    "2s": "explodires",
+    "3s": "explodir",
+    "1p": "explodirmos",
+    "2p": "explodirdes",
+    "3p": "explodirem"
+  },
+  "Ger": {
+    "": "explodindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "explodes",
+    "3s": "explode",
+    "1p": "explodimos",
+    "2p": "explodis",
+    "3p": "explodem"
+  },
+  "PImpI": {
+    "1s": "explodia",
+    "2s": "explodias",
+    "3s": "explodia",
+    "1p": "explodíamos",
+    "2p": "explodíeis",
+    "3p": "explodiam"
+  },
+  "PPSI": {
+    "1s": "explodi",
+    "2s": "explodiste",
+    "3s": "explodiu",
+    "1p": "explodimos",
+    "2p": "explodistes",
+    "3p": "explodiram"
+  },
+  "PMQPSI": {
+    "1s": "explodira",
+    "2s": "explodiras",
+    "3s": "explodira",
+    "1p": "explodíramos",
+    "2p": "explodíreis",
+    "3p": "explodiram"
+  },
+  "FutSI": {
+    "1s": "explodirei",
+    "2s": "explodirás",
+    "3s": "explodirá",
+    "1p": "explodiremos",
+    "2p": "explodireis",
+    "3p": "explodirão"
+  },
+  "CondS": {
+    "1s": "explodiria",
+    "2s": "explodirias",
+    "3s": "explodiria",
+    "1p": "explodiríamos",
+    "2p": "explodiríeis",
+    "3p": "explodiriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "explodisse",
+    "2s": "explodisses",
+    "3s": "explodisse",
+    "1p": "explodíssemos",
+    "2p": "explodísseis",
+    "3p": "explodissem"
+  },
+  "FutSC": {
+    "1s": "explodir",
+    "2s": "explodires",
+    "3s": "explodir",
+    "1p": "explodirmos",
+    "2p": "explodirdes",
+    "3p": "explodirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "explodeNormally defective:explodas",
+    "3s": "",
+    "1p": "",
+    "2p": "explodiNormally defective:explodais",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "explodido"
+  },
+  "Part-ser": {
+    "ms": "explodido",
+    "fs": "explodida",
+    "mp": "explodidos",
+    "fp": "explodidas"
+  }
+}

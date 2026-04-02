@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "refazer"
+  },
+  "InfP": {
+    "1s": "refazer",
+    "2s": "refazeres",
+    "3s": "refazer",
+    "1p": "refazermos",
+    "2p": "refazerdes",
+    "3p": "refazerem"
+  },
+  "Ger": {
+    "": "refazendo"
+  },
+  "PresI": {
+    "1s": "refaço",
+    "2s": "refazes",
+    "3s": "refaz",
+    "1p": "refazemos",
+    "2p": "refazeis",
+    "3p": "refazem"
+  },
+  "PImpI": {
+    "1s": "refazia",
+    "2s": "refazias",
+    "3s": "refazia",
+    "1p": "refazíamos",
+    "2p": "refazíeis",
+    "3p": "refaziam"
+  },
+  "PPSI": {
+    "1s": "refiz",
+    "2s": "refizeste",
+    "3s": "refez",
+    "1p": "refizemos",
+    "2p": "refizestes",
+    "3p": "refizeram"
+  },
+  "PMQPSI": {
+    "1s": "refizera",
+    "2s": "refizeras",
+    "3s": "refizera",
+    "1p": "refizéramos",
+    "2p": "refizéreis",
+    "3p": "refizeram"
+  },
+  "FutSI": {
+    "1s": "refarei",
+    "2s": "refarás",
+    "3s": "refará",
+    "1p": "refaremos",
+    "2p": "refareis",
+    "3p": "refarão"
+  },
+  "CondS": {
+    "1s": "refaria",
+    "2s": "refarias",
+    "3s": "refaria",
+    "1p": "refaríamos",
+    "2p": "refaríeis",
+    "3p": "refariam"
+  },
+  "PresC": {
+    "1s": "refaça",
+    "2s": "refaças",
+    "3s": "refaça",
+    "1p": "refaçamos",
+    "2p": "refaçais",
+    "3p": "refaçam"
+  },
+  "PImpC": {
+    "1s": "refizesse",
+    "2s": "refizesses",
+    "3s": "refizesse",
+    "1p": "refizéssemos",
+    "2p": "refizésseis",
+    "3p": "refizessem"
+  },
+  "FutSC": {
+    "1s": "refizer",
+    "2s": "refizeres",
+    "3s": "refizer",
+    "1p": "refizermos",
+    "2p": "refizerdes",
+    "3p": "refizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "refazrefaze",
+    "3s": "refaça",
+    "1p": "refaçamos",
+    "2p": "refazei",
+    "3p": "refaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não refaças",
+    "3s": "não refaça",
+    "1p": "não refaçamos",
+    "2p": "não refaçais",
+    "3p": "não refaçam"
+  },
+  "Part-ter": {
+    "": "refeito"
+  },
+  "Part-ser": {
+    "ms": "refeito",
+    "fs": "refeita",
+    "mp": "refeitos",
+    "fp": "refeitas"
+  }
+}

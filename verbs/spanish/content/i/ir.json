@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ir"
+  },
+  "Ger": {
+    "": "yendo"
+  },
+  "PresI": {
+    "1s": "voy",
+    "2s": "vas",
+    "3s": "va",
+    "1p": "vamos",
+    "2p": "vais",
+    "3p": "van"
+  },
+  "PImpI": {
+    "1s": "iba",
+    "2s": "ibas",
+    "3s": "iba",
+    "1p": "íbamos",
+    "2p": "ibais",
+    "3p": "iban"
+  },
+  "PPSI": {
+    "1s": "fui",
+    "2s": "fuiste",
+    "3s": "fue",
+    "1p": "fuimos",
+    "2p": "fuisteis",
+    "3p": "fueron"
+  },
+  "FutSI": {
+    "1s": "iré",
+    "2s": "irás",
+    "3s": "irá",
+    "1p": "iremos",
+    "2p": "iréis",
+    "3p": "irán"
+  },
+  "CondS": {
+    "1s": "iría",
+    "2s": "irías",
+    "3s": "iría",
+    "1p": "iríamos",
+    "2p": "iríais",
+    "3p": "irían"
+  },
+  "PresC": {
+    "1s": "vaya",
+    "2s": "vayas",
+    "3s": "vaya",
+    "1p": "vayamos",
+    "2p": "vayáis",
+    "3p": "vayan"
+  },
+  "PMQPSI": {
+    "1s": "fuera",
+    "2s": "fueras",
+    "3s": "fuera",
+    "1p": "fuéramos",
+    "2p": "fuerais",
+    "3p": "fueran"
+  },
+  "PImpC": {
+    "1s": "fuese",
+    "2s": "fueses",
+    "3s": "fuese",
+    "1p": "fuésemos",
+    "2p": "fueseis",
+    "3p": "fuesen"
+  },
+  "FutSC": {
+    "1s": "fuere",
+    "2s": "fueres",
+    "3s": "fuere",
+    "1p": "fuéremos",
+    "2p": "fuereis",
+    "3p": "fueren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ve",
+    "3s": "vaya",
+    "1p": "vamos, vayamos",
+    "2p": "id",
+    "3p": "vayan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vayas",
+    "3s": "no vaya",
+    "1p": "no vayamos",
+    "2p": "no vayáis",
+    "3p": "no vayan"
+  },
+  "Part-ter": {
+    "": "ido"
+  },
+  "Part-ser": {
+    "ms": "ido",
+    "fs": "ida",
+    "mp": "idos",
+    "fp": "idas"
+  }
+}

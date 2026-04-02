@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "guardar"
+  },
+  "Ger": {
+    "": "guardando"
+  },
+  "PresI": {
+    "1s": "guardo",
+    "2s": "guardas",
+    "3s": "guarda",
+    "1p": "guardamos",
+    "2p": "guardáis",
+    "3p": "guardan"
+  },
+  "PImpI": {
+    "1s": "guardaba",
+    "2s": "guardabas",
+    "3s": "guardaba",
+    "1p": "guardábamos",
+    "2p": "guardabais",
+    "3p": "guardaban"
+  },
+  "PPSI": {
+    "1s": "guardé",
+    "2s": "guardaste",
+    "3s": "guardó",
+    "1p": "guardamos",
+    "2p": "guardasteis",
+    "3p": "guardaron"
+  },
+  "FutSI": {
+    "1s": "guardaré",
+    "2s": "guardarás",
+    "3s": "guardará",
+    "1p": "guardaremos",
+    "2p": "guardaréis",
+    "3p": "guardarán"
+  },
+  "CondS": {
+    "1s": "guardaría",
+    "2s": "guardarías",
+    "3s": "guardaría",
+    "1p": "guardaríamos",
+    "2p": "guardaríais",
+    "3p": "guardarían"
+  },
+  "PresC": {
+    "1s": "guarde",
+    "2s": "guardes",
+    "3s": "guarde",
+    "1p": "guardemos",
+    "2p": "guardéis",
+    "3p": "guarden"
+  },
+  "PMQPSI": {
+    "1s": "guardara",
+    "2s": "guardaras",
+    "3s": "guardara",
+    "1p": "guardáramos",
+    "2p": "guardarais",
+    "3p": "guardaran"
+  },
+  "PImpC": {
+    "1s": "guardase",
+    "2s": "guardases",
+    "3s": "guardase",
+    "1p": "guardásemos",
+    "2p": "guardaseis",
+    "3p": "guardasen"
+  },
+  "FutSC": {
+    "1s": "guardare",
+    "2s": "guardares",
+    "3s": "guardare",
+    "1p": "guardáremos",
+    "2p": "guardareis",
+    "3p": "guardaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guarda",
+    "3s": "guarde",
+    "1p": "guardemos",
+    "2p": "guardad",
+    "3p": "guarden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no guardes",
+    "3s": "no guarde",
+    "1p": "no guardemos",
+    "2p": "no guardéis",
+    "3p": "no guarden"
+  },
+  "Part-ter": {
+    "": "guardado"
+  },
+  "Part-ser": {
+    "ms": "guardado",
+    "fs": "guardada",
+    "mp": "guardados",
+    "fp": "guardadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "casarse"
+  },
+  "Ger": {
+    "": "casándose"
+  },
+  "PresI": {
+    "1s": "me caso",
+    "2s": "te casas",
+    "3s": "se casa",
+    "1p": "nos casamos",
+    "2p": "os casáis",
+    "3p": "se casan"
+  },
+  "PImpI": {
+    "1s": "me casaba",
+    "2s": "te casabas",
+    "3s": "se casaba",
+    "1p": "nos casábamos",
+    "2p": "os casabais",
+    "3p": "se casaban"
+  },
+  "PPSI": {
+    "1s": "me casé",
+    "2s": "te casaste",
+    "3s": "se casó",
+    "1p": "nos casamos",
+    "2p": "os casasteis",
+    "3p": "se casaron"
+  },
+  "FutSI": {
+    "1s": "me casaré",
+    "2s": "te casarás",
+    "3s": "se casará",
+    "1p": "nos casaremos",
+    "2p": "os casaréis",
+    "3p": "se casarán"
+  },
+  "CondS": {
+    "1s": "me casaría",
+    "2s": "te casarías",
+    "3s": "se casaría",
+    "1p": "nos casaríamos",
+    "2p": "os casaríais",
+    "3p": "se casarían"
+  },
+  "PresC": {
+    "1s": "me case",
+    "2s": "te cases",
+    "3s": "se case",
+    "1p": "nos casemos",
+    "2p": "os caséis",
+    "3p": "se casen"
+  },
+  "PMQPSI": {
+    "1s": "me casara",
+    "2s": "te casaras",
+    "3s": "se casara",
+    "1p": "nos casáramos",
+    "2p": "os casarais",
+    "3p": "se casaran"
+  },
+  "PImpC": {
+    "1s": "me casase",
+    "2s": "te casases",
+    "3s": "se casase",
+    "1p": "nos casásemos",
+    "2p": "os casaseis",
+    "3p": "se casasen"
+  },
+  "FutSC": {
+    "1s": "me casare",
+    "2s": "te casares",
+    "3s": "se casare",
+    "1p": "nos casáremos",
+    "2p": "os casareis",
+    "3p": "se casaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cásate",
+    "3s": "cásese",
+    "1p": "casémonos",
+    "2p": "casaos",
+    "3p": "cásense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te cases",
+    "3s": "no se case",
+    "1p": "no nos casemos",
+    "2p": "no os caséis",
+    "3p": "no se casen"
+  },
+  "Part-ter": {
+    "": "casado"
+  },
+  "Part-ser": {
+    "ms": "casado",
+    "fs": "casada",
+    "mp": "casados",
+    "fp": "casadas"
+  }
+}

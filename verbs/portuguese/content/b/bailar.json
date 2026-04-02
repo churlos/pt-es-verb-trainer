@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bailar"
+  },
+  "InfP": {
+    "1s": "bailar",
+    "2s": "bailares",
+    "3s": "bailar",
+    "1p": "bailarmos",
+    "2p": "bailardes",
+    "3p": "bailarem"
+  },
+  "Ger": {
+    "": "bailando"
+  },
+  "PresI": {
+    "1s": "bailo",
+    "2s": "bailas",
+    "3s": "baila",
+    "1p": "bailamos",
+    "2p": "bailais",
+    "3p": "bailam"
+  },
+  "PImpI": {
+    "1s": "bailava",
+    "2s": "bailavas",
+    "3s": "bailava",
+    "1p": "bailávamos",
+    "2p": "bailáveis",
+    "3p": "bailavam"
+  },
+  "PPSI": {
+    "1s": "bailei",
+    "2s": "bailaste",
+    "3s": "bailou",
+    "1p": "bailámos",
+    "2p": "bailastes",
+    "3p": "bailaram"
+  },
+  "PMQPSI": {
+    "1s": "bailara",
+    "2s": "bailaras",
+    "3s": "bailara",
+    "1p": "bailáramos",
+    "2p": "bailáreis",
+    "3p": "bailaram"
+  },
+  "FutSI": {
+    "1s": "bailarei",
+    "2s": "bailarás",
+    "3s": "bailará",
+    "1p": "bailaremos",
+    "2p": "bailareis",
+    "3p": "bailarão"
+  },
+  "CondS": {
+    "1s": "bailaria",
+    "2s": "bailarias",
+    "3s": "bailaria",
+    "1p": "bailaríamos",
+    "2p": "bailaríeis",
+    "3p": "bailariam"
+  },
+  "PresC": {
+    "1s": "baile",
+    "2s": "bailes",
+    "3s": "baile",
+    "1p": "bailemos",
+    "2p": "baileis",
+    "3p": "bailem"
+  },
+  "PImpC": {
+    "1s": "bailasse",
+    "2s": "bailasses",
+    "3s": "bailasse",
+    "1p": "bailássemos",
+    "2p": "bailásseis",
+    "3p": "bailassem"
+  },
+  "FutSC": {
+    "1s": "bailar",
+    "2s": "bailares",
+    "3s": "bailar",
+    "1p": "bailarmos",
+    "2p": "bailardes",
+    "3p": "bailarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baila",
+    "3s": "baile",
+    "1p": "bailemos",
+    "2p": "bailai",
+    "3p": "bailem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bailes",
+    "3s": "não baile",
+    "1p": "não bailemos",
+    "2p": "não baileis",
+    "3p": "não bailem"
+  },
+  "Part-ter": {
+    "": "bailado"
+  },
+  "Part-ser": {
+    "ms": "bailado",
+    "fs": "bailada",
+    "mp": "bailados",
+    "fp": "bailadas"
+  }
+}

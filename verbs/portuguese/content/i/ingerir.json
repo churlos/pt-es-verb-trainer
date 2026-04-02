@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ingerir"
+  },
+  "InfP": {
+    "1s": "ingerir",
+    "2s": "ingerires",
+    "3s": "ingerir",
+    "1p": "ingerirmos",
+    "2p": "ingerirdes",
+    "3p": "ingerirem"
+  },
+  "Ger": {
+    "": "ingerindo"
+  },
+  "PresI": {
+    "1s": "ingiro",
+    "2s": "ingeres",
+    "3s": "ingere",
+    "1p": "ingerimos",
+    "2p": "ingeris",
+    "3p": "ingerem"
+  },
+  "PImpI": {
+    "1s": "ingeria",
+    "2s": "ingerias",
+    "3s": "ingeria",
+    "1p": "ingeríamos",
+    "2p": "ingeríeis",
+    "3p": "ingeriam"
+  },
+  "PPSI": {
+    "1s": "ingeri",
+    "2s": "ingeriste",
+    "3s": "ingeriu",
+    "1p": "ingerimos",
+    "2p": "ingeristes",
+    "3p": "ingeriram"
+  },
+  "PMQPSI": {
+    "1s": "ingerira",
+    "2s": "ingeriras",
+    "3s": "ingerira",
+    "1p": "ingeríramos",
+    "2p": "ingeríreis",
+    "3p": "ingeriram"
+  },
+  "FutSI": {
+    "1s": "ingerirei",
+    "2s": "ingerirás",
+    "3s": "ingerirá",
+    "1p": "ingeriremos",
+    "2p": "ingerireis",
+    "3p": "ingerirão"
+  },
+  "CondS": {
+    "1s": "ingeriria",
+    "2s": "ingeririas",
+    "3s": "ingeriria",
+    "1p": "ingeriríamos",
+    "2p": "ingeriríeis",
+    "3p": "ingeririam"
+  },
+  "PresC": {
+    "1s": "ingira",
+    "2s": "ingiras",
+    "3s": "ingira",
+    "1p": "ingiramos",
+    "2p": "ingirais",
+    "3p": "ingiram"
+  },
+  "PImpC": {
+    "1s": "ingerisse",
+    "2s": "ingerisses",
+    "3s": "ingerisse",
+    "1p": "ingeríssemos",
+    "2p": "ingerísseis",
+    "3p": "ingerissem"
+  },
+  "FutSC": {
+    "1s": "ingerir",
+    "2s": "ingerires",
+    "3s": "ingerir",
+    "1p": "ingerirmos",
+    "2p": "ingerirdes",
+    "3p": "ingerirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ingere",
+    "3s": "ingira",
+    "1p": "ingiramos",
+    "2p": "ingeri",
+    "3p": "ingiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ingiras",
+    "3s": "não ingira",
+    "1p": "não ingiramos",
+    "2p": "não ingirais",
+    "3p": "não ingiram"
+  },
+  "Part-ter": {
+    "": "ingerido"
+  },
+  "Part-ser": {
+    "ms": "ingerido",
+    "fs": "ingerida",
+    "mp": "ingeridos",
+    "fp": "ingeridas"
+  }
+}

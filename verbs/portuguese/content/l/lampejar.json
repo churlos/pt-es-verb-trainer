@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lampejar"
+  },
+  "InfP": {
+    "1s": "lampejar",
+    "2s": "lampejares",
+    "3s": "lampejar",
+    "1p": "lampejarmos",
+    "2p": "lampejardes",
+    "3p": "lampejarem"
+  },
+  "Ger": {
+    "": "lampejando"
+  },
+  "PresI": {
+    "1s": "lampejo",
+    "2s": "lampejas",
+    "3s": "lampeja",
+    "1p": "lampejamos",
+    "2p": "lampejais",
+    "3p": "lampejam"
+  },
+  "PImpI": {
+    "1s": "lampejava",
+    "2s": "lampejavas",
+    "3s": "lampejava",
+    "1p": "lampejávamos",
+    "2p": "lampejáveis",
+    "3p": "lampejavam"
+  },
+  "PPSI": {
+    "1s": "lampejei",
+    "2s": "lampejaste",
+    "3s": "lampejou",
+    "1p": "lampejámos",
+    "2p": "lampejastes",
+    "3p": "lampejaram"
+  },
+  "PMQPSI": {
+    "1s": "lampejara",
+    "2s": "lampejaras",
+    "3s": "lampejara",
+    "1p": "lampejáramos",
+    "2p": "lampejáreis",
+    "3p": "lampejaram"
+  },
+  "FutSI": {
+    "1s": "lampejarei",
+    "2s": "lampejarás",
+    "3s": "lampejará",
+    "1p": "lampejaremos",
+    "2p": "lampejareis",
+    "3p": "lampejarão"
+  },
+  "CondS": {
+    "1s": "lampejaria",
+    "2s": "lampejarias",
+    "3s": "lampejaria",
+    "1p": "lampejaríamos",
+    "2p": "lampejaríeis",
+    "3p": "lampejariam"
+  },
+  "PresC": {
+    "1s": "lampeje",
+    "2s": "lampejes",
+    "3s": "lampeje",
+    "1p": "lampejemos",
+    "2p": "lampejeis",
+    "3p": "lampejem"
+  },
+  "PImpC": {
+    "1s": "lampejasse",
+    "2s": "lampejasses",
+    "3s": "lampejasse",
+    "1p": "lampejássemos",
+    "2p": "lampejásseis",
+    "3p": "lampejassem"
+  },
+  "FutSC": {
+    "1s": "lampejar",
+    "2s": "lampejares",
+    "3s": "lampejar",
+    "1p": "lampejarmos",
+    "2p": "lampejardes",
+    "3p": "lampejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lampeja",
+    "3s": "lampeje",
+    "1p": "lampejemos",
+    "2p": "lampejai",
+    "3p": "lampejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lampejes",
+    "3s": "não lampeje",
+    "1p": "não lampejemos",
+    "2p": "não lampejeis",
+    "3p": "não lampejem"
+  },
+  "Part-ter": {
+    "": "lampejado"
+  },
+  "Part-ser": {
+    "ms": "lampejado",
+    "fs": "lampejada",
+    "mp": "lampejados",
+    "fp": "lampejadas"
+  }
+}

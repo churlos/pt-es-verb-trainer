@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "limpar"
+  },
+  "InfP": {
+    "1s": "limpar",
+    "2s": "limpares",
+    "3s": "limpar",
+    "1p": "limparmos",
+    "2p": "limpardes",
+    "3p": "limparem"
+  },
+  "Ger": {
+    "": "limpando"
+  },
+  "PresI": {
+    "1s": "limpo",
+    "2s": "limpas",
+    "3s": "limpa",
+    "1p": "limpamos",
+    "2p": "limpais",
+    "3p": "limpam"
+  },
+  "PImpI": {
+    "1s": "limpava",
+    "2s": "limpavas",
+    "3s": "limpava",
+    "1p": "limpávamos",
+    "2p": "limpáveis",
+    "3p": "limpavam"
+  },
+  "PPSI": {
+    "1s": "limpei",
+    "2s": "limpaste",
+    "3s": "limpou",
+    "1p": "limpámos",
+    "2p": "limpastes",
+    "3p": "limparam"
+  },
+  "PMQPSI": {
+    "1s": "limpara",
+    "2s": "limparas",
+    "3s": "limpara",
+    "1p": "limpáramos",
+    "2p": "limpáreis",
+    "3p": "limparam"
+  },
+  "FutSI": {
+    "1s": "limparei",
+    "2s": "limparás",
+    "3s": "limpará",
+    "1p": "limparemos",
+    "2p": "limpareis",
+    "3p": "limparão"
+  },
+  "CondS": {
+    "1s": "limparia",
+    "2s": "limparias",
+    "3s": "limparia",
+    "1p": "limparíamos",
+    "2p": "limparíeis",
+    "3p": "limpariam"
+  },
+  "PresC": {
+    "1s": "limpe",
+    "2s": "limpes",
+    "3s": "limpe",
+    "1p": "limpemos",
+    "2p": "limpeis",
+    "3p": "limpem"
+  },
+  "PImpC": {
+    "1s": "limpasse",
+    "2s": "limpasses",
+    "3s": "limpasse",
+    "1p": "limpássemos",
+    "2p": "limpásseis",
+    "3p": "limpassem"
+  },
+  "FutSC": {
+    "1s": "limpar",
+    "2s": "limpares",
+    "3s": "limpar",
+    "1p": "limparmos",
+    "2p": "limpardes",
+    "3p": "limparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "limpa",
+    "3s": "limpe",
+    "1p": "limpemos",
+    "2p": "limpai",
+    "3p": "limpem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não limpes",
+    "3s": "não limpe",
+    "1p": "não limpemos",
+    "2p": "não limpeis",
+    "3p": "não limpem"
+  },
+  "Part-ter": {
+    "": "limpado"
+  },
+  "Part-ser": {
+    "ms": "limpado",
+    "fs": "limpada",
+    "mp": "limpados",
+    "fp": "limpadas"
+  }
+}

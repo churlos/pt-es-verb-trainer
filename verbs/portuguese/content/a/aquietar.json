@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aquietar"
+  },
+  "InfP": {
+    "1s": "aquietar",
+    "2s": "aquietares",
+    "3s": "aquietar",
+    "1p": "aquietarmos",
+    "2p": "aquietardes",
+    "3p": "aquietarem"
+  },
+  "Ger": {
+    "": "aquietando"
+  },
+  "PresI": {
+    "1s": "aquieto",
+    "2s": "aquietas",
+    "3s": "aquieta",
+    "1p": "aquietamos",
+    "2p": "aquietais",
+    "3p": "aquietam"
+  },
+  "PImpI": {
+    "1s": "aquietava",
+    "2s": "aquietavas",
+    "3s": "aquietava",
+    "1p": "aquietávamos",
+    "2p": "aquietáveis",
+    "3p": "aquietavam"
+  },
+  "PPSI": {
+    "1s": "aquietei",
+    "2s": "aquietaste",
+    "3s": "aquietou",
+    "1p": "aquietámos",
+    "2p": "aquietastes",
+    "3p": "aquietaram"
+  },
+  "PMQPSI": {
+    "1s": "aquietara",
+    "2s": "aquietaras",
+    "3s": "aquietara",
+    "1p": "aquietáramos",
+    "2p": "aquietáreis",
+    "3p": "aquietaram"
+  },
+  "FutSI": {
+    "1s": "aquietarei",
+    "2s": "aquietarás",
+    "3s": "aquietará",
+    "1p": "aquietaremos",
+    "2p": "aquietareis",
+    "3p": "aquietarão"
+  },
+  "CondS": {
+    "1s": "aquietaria",
+    "2s": "aquietarias",
+    "3s": "aquietaria",
+    "1p": "aquietaríamos",
+    "2p": "aquietaríeis",
+    "3p": "aquietariam"
+  },
+  "PresC": {
+    "1s": "aquiete",
+    "2s": "aquietes",
+    "3s": "aquiete",
+    "1p": "aquietemos",
+    "2p": "aquieteis",
+    "3p": "aquietem"
+  },
+  "PImpC": {
+    "1s": "aquietasse",
+    "2s": "aquietasses",
+    "3s": "aquietasse",
+    "1p": "aquietássemos",
+    "2p": "aquietásseis",
+    "3p": "aquietassem"
+  },
+  "FutSC": {
+    "1s": "aquietar",
+    "2s": "aquietares",
+    "3s": "aquietar",
+    "1p": "aquietarmos",
+    "2p": "aquietardes",
+    "3p": "aquietarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aquieta",
+    "3s": "aquiete",
+    "1p": "aquietemos",
+    "2p": "aquietai",
+    "3p": "aquietem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aquietes",
+    "3s": "não aquiete",
+    "1p": "não aquietemos",
+    "2p": "não aquieteis",
+    "3p": "não aquietem"
+  },
+  "Part-ter": {
+    "": "aquietado"
+  },
+  "Part-ser": {
+    "ms": "aquietado",
+    "fs": "aquietada",
+    "mp": "aquietados",
+    "fp": "aquietadas"
+  }
+}

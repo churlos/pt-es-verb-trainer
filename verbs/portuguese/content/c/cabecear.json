@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cabecear"
+  },
+  "InfP": {
+    "1s": "cabecear",
+    "2s": "cabeceares",
+    "3s": "cabecear",
+    "1p": "cabecearmos",
+    "2p": "cabeceardes",
+    "3p": "cabecearem"
+  },
+  "Ger": {
+    "": "cabeceando"
+  },
+  "PresI": {
+    "1s": "cabeceio",
+    "2s": "cabeceias",
+    "3s": "cabeceia",
+    "1p": "cabeceamos",
+    "2p": "cabeceais",
+    "3p": "cabeceiam"
+  },
+  "PImpI": {
+    "1s": "cabeceava",
+    "2s": "cabeceavas",
+    "3s": "cabeceava",
+    "1p": "cabeceávamos",
+    "2p": "cabeceáveis",
+    "3p": "cabeceavam"
+  },
+  "PPSI": {
+    "1s": "cabeceei",
+    "2s": "cabeceaste",
+    "3s": "cabeceou",
+    "1p": "cabeceámos",
+    "2p": "cabeceastes",
+    "3p": "cabecearam"
+  },
+  "PMQPSI": {
+    "1s": "cabeceara",
+    "2s": "cabecearas",
+    "3s": "cabeceara",
+    "1p": "cabeceáramos",
+    "2p": "cabeceáreis",
+    "3p": "cabecearam"
+  },
+  "FutSI": {
+    "1s": "cabecearei",
+    "2s": "cabecearás",
+    "3s": "cabeceará",
+    "1p": "cabecearemos",
+    "2p": "cabeceareis",
+    "3p": "cabecearão"
+  },
+  "CondS": {
+    "1s": "cabecearia",
+    "2s": "cabecearias",
+    "3s": "cabecearia",
+    "1p": "cabecearíamos",
+    "2p": "cabecearíeis",
+    "3p": "cabeceariam"
+  },
+  "PresC": {
+    "1s": "cabeceie",
+    "2s": "cabeceies",
+    "3s": "cabeceie",
+    "1p": "cabeceemos",
+    "2p": "cabeceeis",
+    "3p": "cabeceiem"
+  },
+  "PImpC": {
+    "1s": "cabeceasse",
+    "2s": "cabeceasses",
+    "3s": "cabeceasse",
+    "1p": "cabeceássemos",
+    "2p": "cabeceásseis",
+    "3p": "cabeceassem"
+  },
+  "FutSC": {
+    "1s": "cabecear",
+    "2s": "cabeceares",
+    "3s": "cabecear",
+    "1p": "cabecearmos",
+    "2p": "cabeceardes",
+    "3p": "cabecearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cabeceia",
+    "3s": "cabeceie",
+    "1p": "cabeceemos",
+    "2p": "cabeceai",
+    "3p": "cabeceiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cabeceies",
+    "3s": "não cabeceie",
+    "1p": "não cabeceemos",
+    "2p": "não cabeceeis",
+    "3p": "não cabeceiem"
+  },
+  "Part-ter": {
+    "": "cabeceado"
+  },
+  "Part-ser": {
+    "ms": "cabeceado",
+    "fs": "cabeceada",
+    "mp": "cabeceados",
+    "fp": "cabeceadas"
+  }
+}

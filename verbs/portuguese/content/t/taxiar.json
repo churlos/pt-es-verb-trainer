@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "taxiar"
+  },
+  "InfP": {
+    "1s": "taxiar",
+    "2s": "taxiares",
+    "3s": "taxiar",
+    "1p": "taxiarmos",
+    "2p": "taxiardes",
+    "3p": "taxiarem"
+  },
+  "Ger": {
+    "": "taxiando"
+  },
+  "PresI": {
+    "1s": "taxio",
+    "2s": "taxias",
+    "3s": "taxia",
+    "1p": "taxiamos",
+    "2p": "taxiais",
+    "3p": "taxiam"
+  },
+  "PImpI": {
+    "1s": "taxiava",
+    "2s": "taxiavas",
+    "3s": "taxiava",
+    "1p": "taxiávamos",
+    "2p": "taxiáveis",
+    "3p": "taxiavam"
+  },
+  "PPSI": {
+    "1s": "taxiei",
+    "2s": "taxiaste",
+    "3s": "taxiou",
+    "1p": "taxiámos",
+    "2p": "taxiastes",
+    "3p": "taxiaram"
+  },
+  "PMQPSI": {
+    "1s": "taxiara",
+    "2s": "taxiaras",
+    "3s": "taxiara",
+    "1p": "taxiáramos",
+    "2p": "taxiáreis",
+    "3p": "taxiaram"
+  },
+  "FutSI": {
+    "1s": "taxiarei",
+    "2s": "taxiarás",
+    "3s": "taxiará",
+    "1p": "taxiaremos",
+    "2p": "taxiareis",
+    "3p": "taxiarão"
+  },
+  "CondS": {
+    "1s": "taxiaria",
+    "2s": "taxiarias",
+    "3s": "taxiaria",
+    "1p": "taxiaríamos",
+    "2p": "taxiaríeis",
+    "3p": "taxiariam"
+  },
+  "PresC": {
+    "1s": "taxie",
+    "2s": "taxies",
+    "3s": "taxie",
+    "1p": "taxiemos",
+    "2p": "taxieis",
+    "3p": "taxiem"
+  },
+  "PImpC": {
+    "1s": "taxiasse",
+    "2s": "taxiasses",
+    "3s": "taxiasse",
+    "1p": "taxiássemos",
+    "2p": "taxiásseis",
+    "3p": "taxiassem"
+  },
+  "FutSC": {
+    "1s": "taxiar",
+    "2s": "taxiares",
+    "3s": "taxiar",
+    "1p": "taxiarmos",
+    "2p": "taxiardes",
+    "3p": "taxiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "taxia",
+    "3s": "taxie",
+    "1p": "taxiemos",
+    "2p": "taxiai",
+    "3p": "taxiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não taxies",
+    "3s": "não taxie",
+    "1p": "não taxiemos",
+    "2p": "não taxieis",
+    "3p": "não taxiem"
+  },
+  "Part-ter": {
+    "": "taxiado"
+  },
+  "Part-ser": {
+    "ms": "taxiado",
+    "fs": "taxiada",
+    "mp": "taxiados",
+    "fp": "taxiadas"
+  }
+}

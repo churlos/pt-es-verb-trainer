@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cascatear"
+  },
+  "InfP": {
+    "1s": "cascatear",
+    "2s": "cascateares",
+    "3s": "cascatear",
+    "1p": "cascatearmos",
+    "2p": "cascateardes",
+    "3p": "cascatearem"
+  },
+  "Ger": {
+    "": "cascateando"
+  },
+  "PresI": {
+    "1s": "cascateio",
+    "2s": "cascateias",
+    "3s": "cascateia",
+    "1p": "cascateamos",
+    "2p": "cascateais",
+    "3p": "cascateiam"
+  },
+  "PImpI": {
+    "1s": "cascateava",
+    "2s": "cascateavas",
+    "3s": "cascateava",
+    "1p": "cascateávamos",
+    "2p": "cascateáveis",
+    "3p": "cascateavam"
+  },
+  "PPSI": {
+    "1s": "cascateei",
+    "2s": "cascateaste",
+    "3s": "cascateou",
+    "1p": "cascateámos",
+    "2p": "cascateastes",
+    "3p": "cascatearam"
+  },
+  "PMQPSI": {
+    "1s": "cascateara",
+    "2s": "cascatearas",
+    "3s": "cascateara",
+    "1p": "cascateáramos",
+    "2p": "cascateáreis",
+    "3p": "cascatearam"
+  },
+  "FutSI": {
+    "1s": "cascatearei",
+    "2s": "cascatearás",
+    "3s": "cascateará",
+    "1p": "cascatearemos",
+    "2p": "cascateareis",
+    "3p": "cascatearão"
+  },
+  "CondS": {
+    "1s": "cascatearia",
+    "2s": "cascatearias",
+    "3s": "cascatearia",
+    "1p": "cascatearíamos",
+    "2p": "cascatearíeis",
+    "3p": "cascateariam"
+  },
+  "PresC": {
+    "1s": "cascateie",
+    "2s": "cascateies",
+    "3s": "cascateie",
+    "1p": "cascateemos",
+    "2p": "cascateeis",
+    "3p": "cascateiem"
+  },
+  "PImpC": {
+    "1s": "cascateasse",
+    "2s": "cascateasses",
+    "3s": "cascateasse",
+    "1p": "cascateássemos",
+    "2p": "cascateásseis",
+    "3p": "cascateassem"
+  },
+  "FutSC": {
+    "1s": "cascatear",
+    "2s": "cascateares",
+    "3s": "cascatear",
+    "1p": "cascatearmos",
+    "2p": "cascateardes",
+    "3p": "cascatearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cascateia",
+    "3s": "cascateie",
+    "1p": "cascateemos",
+    "2p": "cascateai",
+    "3p": "cascateiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cascateies",
+    "3s": "não cascateie",
+    "1p": "não cascateemos",
+    "2p": "não cascateeis",
+    "3p": "não cascateiem"
+  },
+  "Part-ter": {
+    "": "cascateado"
+  },
+  "Part-ser": {
+    "ms": "cascateado",
+    "fs": "cascateada",
+    "mp": "cascateados",
+    "fp": "cascateadas"
+  }
+}

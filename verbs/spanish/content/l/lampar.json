@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lampar"
+  },
+  "Ger": {
+    "": "lampando"
+  },
+  "PresI": {
+    "1s": "lampo",
+    "2s": "lampas",
+    "3s": "lampa",
+    "1p": "lampamos",
+    "2p": "lampáis",
+    "3p": "lampan"
+  },
+  "PImpI": {
+    "1s": "lampaba",
+    "2s": "lampabas",
+    "3s": "lampaba",
+    "1p": "lampábamos",
+    "2p": "lampabais",
+    "3p": "lampaban"
+  },
+  "PPSI": {
+    "1s": "lampé",
+    "2s": "lampaste",
+    "3s": "lampó",
+    "1p": "lampamos",
+    "2p": "lampasteis",
+    "3p": "lamparon"
+  },
+  "FutSI": {
+    "1s": "lamparé",
+    "2s": "lamparás",
+    "3s": "lampará",
+    "1p": "lamparemos",
+    "2p": "lamparéis",
+    "3p": "lamparán"
+  },
+  "CondS": {
+    "1s": "lamparía",
+    "2s": "lamparías",
+    "3s": "lamparía",
+    "1p": "lamparíamos",
+    "2p": "lamparíais",
+    "3p": "lamparían"
+  },
+  "PresC": {
+    "1s": "lampe",
+    "2s": "lampes",
+    "3s": "lampe",
+    "1p": "lampemos",
+    "2p": "lampéis",
+    "3p": "lampen"
+  },
+  "PMQPSI": {
+    "1s": "lampara",
+    "2s": "lamparas",
+    "3s": "lampara",
+    "1p": "lampáramos",
+    "2p": "lamparais",
+    "3p": "lamparan"
+  },
+  "PImpC": {
+    "1s": "lampase",
+    "2s": "lampases",
+    "3s": "lampase",
+    "1p": "lampásemos",
+    "2p": "lampaseis",
+    "3p": "lampasen"
+  },
+  "FutSC": {
+    "1s": "lampare",
+    "2s": "lampares",
+    "3s": "lampare",
+    "1p": "lampáremos",
+    "2p": "lampareis",
+    "3p": "lamparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lampa",
+    "3s": "lampe",
+    "1p": "lampemos",
+    "2p": "lampad",
+    "3p": "lampen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lampes",
+    "3s": "no lampe",
+    "1p": "no lampemos",
+    "2p": "no lampéis",
+    "3p": "no lampen"
+  },
+  "Part-ter": {
+    "": "lampado"
+  },
+  "Part-ser": {
+    "ms": "lampado",
+    "fs": "lampada",
+    "mp": "lampados",
+    "fp": "lampadas"
+  }
+}

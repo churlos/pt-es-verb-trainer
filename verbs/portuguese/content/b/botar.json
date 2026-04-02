@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "botar"
+  },
+  "InfP": {
+    "1s": "botar",
+    "2s": "botares",
+    "3s": "botar",
+    "1p": "botarmos",
+    "2p": "botardes",
+    "3p": "botarem"
+  },
+  "Ger": {
+    "": "botando"
+  },
+  "PresI": {
+    "1s": "boto",
+    "2s": "botas",
+    "3s": "bota",
+    "1p": "botamos",
+    "2p": "botais",
+    "3p": "botam"
+  },
+  "PImpI": {
+    "1s": "botava",
+    "2s": "botavas",
+    "3s": "botava",
+    "1p": "botávamos",
+    "2p": "botáveis",
+    "3p": "botavam"
+  },
+  "PPSI": {
+    "1s": "botei",
+    "2s": "botaste",
+    "3s": "botou",
+    "1p": "botámos",
+    "2p": "botastes",
+    "3p": "botaram"
+  },
+  "PMQPSI": {
+    "1s": "botara",
+    "2s": "botaras",
+    "3s": "botara",
+    "1p": "botáramos",
+    "2p": "botáreis",
+    "3p": "botaram"
+  },
+  "FutSI": {
+    "1s": "botarei",
+    "2s": "botarás",
+    "3s": "botará",
+    "1p": "botaremos",
+    "2p": "botareis",
+    "3p": "botarão"
+  },
+  "CondS": {
+    "1s": "botaria",
+    "2s": "botarias",
+    "3s": "botaria",
+    "1p": "botaríamos",
+    "2p": "botaríeis",
+    "3p": "botariam"
+  },
+  "PresC": {
+    "1s": "bote",
+    "2s": "botes",
+    "3s": "bote",
+    "1p": "botemos",
+    "2p": "boteis",
+    "3p": "botem"
+  },
+  "PImpC": {
+    "1s": "botasse",
+    "2s": "botasses",
+    "3s": "botasse",
+    "1p": "botássemos",
+    "2p": "botásseis",
+    "3p": "botassem"
+  },
+  "FutSC": {
+    "1s": "botar",
+    "2s": "botares",
+    "3s": "botar",
+    "1p": "botarmos",
+    "2p": "botardes",
+    "3p": "botarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bota",
+    "3s": "bote",
+    "1p": "botemos",
+    "2p": "botai",
+    "3p": "botem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não botes",
+    "3s": "não bote",
+    "1p": "não botemos",
+    "2p": "não boteis",
+    "3p": "não botem"
+  },
+  "Part-ter": {
+    "": "botado"
+  },
+  "Part-ser": {
+    "ms": "botado",
+    "fs": "botada",
+    "mp": "botados",
+    "fp": "botadas"
+  }
+}

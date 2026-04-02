@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "revogar"
+  },
+  "InfP": {
+    "1s": "revogar",
+    "2s": "revogares",
+    "3s": "revogar",
+    "1p": "revogarmos",
+    "2p": "revogardes",
+    "3p": "revogarem"
+  },
+  "Ger": {
+    "": "revogando"
+  },
+  "PresI": {
+    "1s": "revogo",
+    "2s": "revogas",
+    "3s": "revoga",
+    "1p": "revogamos",
+    "2p": "revogais",
+    "3p": "revogam"
+  },
+  "PImpI": {
+    "1s": "revogava",
+    "2s": "revogavas",
+    "3s": "revogava",
+    "1p": "revogávamos",
+    "2p": "revogáveis",
+    "3p": "revogavam"
+  },
+  "PPSI": {
+    "1s": "revoguei",
+    "2s": "revogaste",
+    "3s": "revogou",
+    "1p": "revogámos",
+    "2p": "revogastes",
+    "3p": "revogaram"
+  },
+  "PMQPSI": {
+    "1s": "revogara",
+    "2s": "revogaras",
+    "3s": "revogara",
+    "1p": "revogáramos",
+    "2p": "revogáreis",
+    "3p": "revogaram"
+  },
+  "FutSI": {
+    "1s": "revogarei",
+    "2s": "revogarás",
+    "3s": "revogará",
+    "1p": "revogaremos",
+    "2p": "revogareis",
+    "3p": "revogarão"
+  },
+  "CondS": {
+    "1s": "revogaria",
+    "2s": "revogarias",
+    "3s": "revogaria",
+    "1p": "revogaríamos",
+    "2p": "revogaríeis",
+    "3p": "revogariam"
+  },
+  "PresC": {
+    "1s": "revogue",
+    "2s": "revogues",
+    "3s": "revogue",
+    "1p": "revoguemos",
+    "2p": "revogueis",
+    "3p": "revoguem"
+  },
+  "PImpC": {
+    "1s": "revogasse",
+    "2s": "revogasses",
+    "3s": "revogasse",
+    "1p": "revogássemos",
+    "2p": "revogásseis",
+    "3p": "revogassem"
+  },
+  "FutSC": {
+    "1s": "revogar",
+    "2s": "revogares",
+    "3s": "revogar",
+    "1p": "revogarmos",
+    "2p": "revogardes",
+    "3p": "revogarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revoga",
+    "3s": "revogue",
+    "1p": "revoguemos",
+    "2p": "revogai",
+    "3p": "revoguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não revogues",
+    "3s": "não revogue",
+    "1p": "não revoguemos",
+    "2p": "não revogueis",
+    "3p": "não revoguem"
+  },
+  "Part-ter": {
+    "": "revogado"
+  },
+  "Part-ser": {
+    "ms": "revogado",
+    "fs": "revogada",
+    "mp": "revogados",
+    "fp": "revogadas"
+  }
+}

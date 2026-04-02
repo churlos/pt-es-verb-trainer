@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "impedir"
+  },
+  "Ger": {
+    "": "impidiendo"
+  },
+  "PresI": {
+    "1s": "impido",
+    "2s": "impides",
+    "3s": "impide",
+    "1p": "impedimos",
+    "2p": "impedís",
+    "3p": "impiden"
+  },
+  "PImpI": {
+    "1s": "impedía",
+    "2s": "impedías",
+    "3s": "impedía",
+    "1p": "impedíamos",
+    "2p": "impedíais",
+    "3p": "impedían"
+  },
+  "PPSI": {
+    "1s": "impedí",
+    "2s": "impediste",
+    "3s": "impidió",
+    "1p": "impedimos",
+    "2p": "impedisteis",
+    "3p": "impidieron"
+  },
+  "FutSI": {
+    "1s": "impediré",
+    "2s": "impedirás",
+    "3s": "impedirá",
+    "1p": "impediremos",
+    "2p": "impediréis",
+    "3p": "impedirán"
+  },
+  "CondS": {
+    "1s": "impediría",
+    "2s": "impedirías",
+    "3s": "impediría",
+    "1p": "impediríamos",
+    "2p": "impediríais",
+    "3p": "impedirían"
+  },
+  "PresC": {
+    "1s": "impida",
+    "2s": "impidas",
+    "3s": "impida",
+    "1p": "impidamos",
+    "2p": "impidáis",
+    "3p": "impidan"
+  },
+  "PMQPSI": {
+    "1s": "impidiera",
+    "2s": "impidieras",
+    "3s": "impidiera",
+    "1p": "impidiéramos",
+    "2p": "impidierais",
+    "3p": "impidieran"
+  },
+  "PImpC": {
+    "1s": "impidiese",
+    "2s": "impidieses",
+    "3s": "impidiese",
+    "1p": "impidiésemos",
+    "2p": "impidieseis",
+    "3p": "impidiesen"
+  },
+  "FutSC": {
+    "1s": "impidiere",
+    "2s": "impidieres",
+    "3s": "impidiere",
+    "1p": "impidiéremos",
+    "2p": "impidiereis",
+    "3p": "impidieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "impide",
+    "3s": "impida",
+    "1p": "impidamos",
+    "2p": "impedid",
+    "3p": "impidan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no impidas",
+    "3s": "no impida",
+    "1p": "no impidamos",
+    "2p": "no impidáis",
+    "3p": "no impidan"
+  },
+  "Part-ter": {
+    "": "impedido"
+  },
+  "Part-ser": {
+    "ms": "impedido",
+    "fs": "impedida",
+    "mp": "impedidos",
+    "fp": "impedidas"
+  }
+}

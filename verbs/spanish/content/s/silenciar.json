@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "silenciar"
+  },
+  "Ger": {
+    "": "silenciando"
+  },
+  "PresI": {
+    "1s": "silencio",
+    "2s": "silencias",
+    "3s": "silencia",
+    "1p": "silenciamos",
+    "2p": "silenciáis",
+    "3p": "silencian"
+  },
+  "PImpI": {
+    "1s": "silenciaba",
+    "2s": "silenciabas",
+    "3s": "silenciaba",
+    "1p": "silenciábamos",
+    "2p": "silenciabais",
+    "3p": "silenciaban"
+  },
+  "PPSI": {
+    "1s": "silencié",
+    "2s": "silenciaste",
+    "3s": "silenció",
+    "1p": "silenciamos",
+    "2p": "silenciasteis",
+    "3p": "silenciaron"
+  },
+  "FutSI": {
+    "1s": "silenciaré",
+    "2s": "silenciarás",
+    "3s": "silenciará",
+    "1p": "silenciaremos",
+    "2p": "silenciaréis",
+    "3p": "silenciarán"
+  },
+  "CondS": {
+    "1s": "silenciaría",
+    "2s": "silenciarías",
+    "3s": "silenciaría",
+    "1p": "silenciaríamos",
+    "2p": "silenciaríais",
+    "3p": "silenciarían"
+  },
+  "PresC": {
+    "1s": "silencie",
+    "2s": "silencies",
+    "3s": "silencie",
+    "1p": "silenciemos",
+    "2p": "silenciéis",
+    "3p": "silencien"
+  },
+  "PMQPSI": {
+    "1s": "silenciara",
+    "2s": "silenciaras",
+    "3s": "silenciara",
+    "1p": "silenciáramos",
+    "2p": "silenciarais",
+    "3p": "silenciaran"
+  },
+  "PImpC": {
+    "1s": "silenciase",
+    "2s": "silenciases",
+    "3s": "silenciase",
+    "1p": "silenciásemos",
+    "2p": "silenciaseis",
+    "3p": "silenciasen"
+  },
+  "FutSC": {
+    "1s": "silenciare",
+    "2s": "silenciares",
+    "3s": "silenciare",
+    "1p": "silenciáremos",
+    "2p": "silenciareis",
+    "3p": "silenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "silencia",
+    "3s": "silencie",
+    "1p": "silenciemos",
+    "2p": "silenciad",
+    "3p": "silencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no silencies",
+    "3s": "no silencie",
+    "1p": "no silenciemos",
+    "2p": "no silenciéis",
+    "3p": "no silencien"
+  },
+  "Part-ter": {
+    "": "silenciado"
+  },
+  "Part-ser": {
+    "ms": "silenciado",
+    "fs": "silenciada",
+    "mp": "silenciados",
+    "fp": "silenciadas"
+  }
+}

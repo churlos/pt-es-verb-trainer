@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atirar"
+  },
+  "InfP": {
+    "1s": "atirar",
+    "2s": "atirares",
+    "3s": "atirar",
+    "1p": "atirarmos",
+    "2p": "atirardes",
+    "3p": "atirarem"
+  },
+  "Ger": {
+    "": "atirando"
+  },
+  "PresI": {
+    "1s": "atiro",
+    "2s": "atiras",
+    "3s": "atira",
+    "1p": "atiramos",
+    "2p": "atirais",
+    "3p": "atiram"
+  },
+  "PImpI": {
+    "1s": "atirava",
+    "2s": "atiravas",
+    "3s": "atirava",
+    "1p": "atirávamos",
+    "2p": "atiráveis",
+    "3p": "atiravam"
+  },
+  "PPSI": {
+    "1s": "atirei",
+    "2s": "atiraste",
+    "3s": "atirou",
+    "1p": "atirámos",
+    "2p": "atirastes",
+    "3p": "atiraram"
+  },
+  "PMQPSI": {
+    "1s": "atirara",
+    "2s": "atiraras",
+    "3s": "atirara",
+    "1p": "atiráramos",
+    "2p": "atiráreis",
+    "3p": "atiraram"
+  },
+  "FutSI": {
+    "1s": "atirarei",
+    "2s": "atirarás",
+    "3s": "atirará",
+    "1p": "atiraremos",
+    "2p": "atirareis",
+    "3p": "atirarão"
+  },
+  "CondS": {
+    "1s": "atiraria",
+    "2s": "atirarias",
+    "3s": "atiraria",
+    "1p": "atiraríamos",
+    "2p": "atiraríeis",
+    "3p": "atirariam"
+  },
+  "PresC": {
+    "1s": "atire",
+    "2s": "atires",
+    "3s": "atire",
+    "1p": "atiremos",
+    "2p": "atireis",
+    "3p": "atirem"
+  },
+  "PImpC": {
+    "1s": "atirasse",
+    "2s": "atirasses",
+    "3s": "atirasse",
+    "1p": "atirássemos",
+    "2p": "atirásseis",
+    "3p": "atirassem"
+  },
+  "FutSC": {
+    "1s": "atirar",
+    "2s": "atirares",
+    "3s": "atirar",
+    "1p": "atirarmos",
+    "2p": "atirardes",
+    "3p": "atirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atira",
+    "3s": "atire",
+    "1p": "atiremos",
+    "2p": "atirai",
+    "3p": "atirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atires",
+    "3s": "não atire",
+    "1p": "não atiremos",
+    "2p": "não atireis",
+    "3p": "não atirem"
+  },
+  "Part-ter": {
+    "": "atirado"
+  },
+  "Part-ser": {
+    "ms": "atirado",
+    "fs": "atirada",
+    "mp": "atirados",
+    "fp": "atiradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "solicitar"
+  },
+  "InfP": {
+    "1s": "solicitar",
+    "2s": "solicitares",
+    "3s": "solicitar",
+    "1p": "solicitarmos",
+    "2p": "solicitardes",
+    "3p": "solicitarem"
+  },
+  "Ger": {
+    "": "solicitando"
+  },
+  "PresI": {
+    "1s": "solicito",
+    "2s": "solicitas",
+    "3s": "solicita",
+    "1p": "solicitamos",
+    "2p": "solicitais",
+    "3p": "solicitam"
+  },
+  "PImpI": {
+    "1s": "solicitava",
+    "2s": "solicitavas",
+    "3s": "solicitava",
+    "1p": "solicitávamos",
+    "2p": "solicitáveis",
+    "3p": "solicitavam"
+  },
+  "PPSI": {
+    "1s": "solicitei",
+    "2s": "solicitaste",
+    "3s": "solicitou",
+    "1p": "solicitámos",
+    "2p": "solicitastes",
+    "3p": "solicitaram"
+  },
+  "PMQPSI": {
+    "1s": "solicitara",
+    "2s": "solicitaras",
+    "3s": "solicitara",
+    "1p": "solicitáramos",
+    "2p": "solicitáreis",
+    "3p": "solicitaram"
+  },
+  "FutSI": {
+    "1s": "solicitarei",
+    "2s": "solicitarás",
+    "3s": "solicitará",
+    "1p": "solicitaremos",
+    "2p": "solicitareis",
+    "3p": "solicitarão"
+  },
+  "CondS": {
+    "1s": "solicitaria",
+    "2s": "solicitarias",
+    "3s": "solicitaria",
+    "1p": "solicitaríamos",
+    "2p": "solicitaríeis",
+    "3p": "solicitariam"
+  },
+  "PresC": {
+    "1s": "solicite",
+    "2s": "solicites",
+    "3s": "solicite",
+    "1p": "solicitemos",
+    "2p": "soliciteis",
+    "3p": "solicitem"
+  },
+  "PImpC": {
+    "1s": "solicitasse",
+    "2s": "solicitasses",
+    "3s": "solicitasse",
+    "1p": "solicitássemos",
+    "2p": "solicitásseis",
+    "3p": "solicitassem"
+  },
+  "FutSC": {
+    "1s": "solicitar",
+    "2s": "solicitares",
+    "3s": "solicitar",
+    "1p": "solicitarmos",
+    "2p": "solicitardes",
+    "3p": "solicitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "solicita",
+    "3s": "solicite",
+    "1p": "solicitemos",
+    "2p": "solicitai",
+    "3p": "solicitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não solicites",
+    "3s": "não solicite",
+    "1p": "não solicitemos",
+    "2p": "não soliciteis",
+    "3p": "não solicitem"
+  },
+  "Part-ter": {
+    "": "solicitado"
+  },
+  "Part-ser": {
+    "ms": "solicitado",
+    "fs": "solicitada",
+    "mp": "solicitados",
+    "fp": "solicitadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alegrar"
+  },
+  "InfP": {
+    "1s": "alegrar",
+    "2s": "alegrares",
+    "3s": "alegrar",
+    "1p": "alegrarmos",
+    "2p": "alegrardes",
+    "3p": "alegrarem"
+  },
+  "Ger": {
+    "": "alegrando"
+  },
+  "PresI": {
+    "1s": "alegro",
+    "2s": "alegras",
+    "3s": "alegra",
+    "1p": "alegramos",
+    "2p": "alegrais",
+    "3p": "alegram"
+  },
+  "PImpI": {
+    "1s": "alegrava",
+    "2s": "alegravas",
+    "3s": "alegrava",
+    "1p": "alegrávamos",
+    "2p": "alegráveis",
+    "3p": "alegravam"
+  },
+  "PPSI": {
+    "1s": "alegrei",
+    "2s": "alegraste",
+    "3s": "alegrou",
+    "1p": "alegrámos",
+    "2p": "alegrastes",
+    "3p": "alegraram"
+  },
+  "PMQPSI": {
+    "1s": "alegrara",
+    "2s": "alegraras",
+    "3s": "alegrara",
+    "1p": "alegráramos",
+    "2p": "alegráreis",
+    "3p": "alegraram"
+  },
+  "FutSI": {
+    "1s": "alegrarei",
+    "2s": "alegrarás",
+    "3s": "alegrará",
+    "1p": "alegraremos",
+    "2p": "alegrareis",
+    "3p": "alegrarão"
+  },
+  "CondS": {
+    "1s": "alegraria",
+    "2s": "alegrarias",
+    "3s": "alegraria",
+    "1p": "alegraríamos",
+    "2p": "alegraríeis",
+    "3p": "alegrariam"
+  },
+  "PresC": {
+    "1s": "alegre",
+    "2s": "alegres",
+    "3s": "alegre",
+    "1p": "alegremos",
+    "2p": "alegreis",
+    "3p": "alegrem"
+  },
+  "PImpC": {
+    "1s": "alegrasse",
+    "2s": "alegrasses",
+    "3s": "alegrasse",
+    "1p": "alegrássemos",
+    "2p": "alegrásseis",
+    "3p": "alegrassem"
+  },
+  "FutSC": {
+    "1s": "alegrar",
+    "2s": "alegrares",
+    "3s": "alegrar",
+    "1p": "alegrarmos",
+    "2p": "alegrardes",
+    "3p": "alegrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alegra",
+    "3s": "alegre",
+    "1p": "alegremos",
+    "2p": "alegrai",
+    "3p": "alegrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alegres",
+    "3s": "não alegre",
+    "1p": "não alegremos",
+    "2p": "não alegreis",
+    "3p": "não alegrem"
+  },
+  "Part-ter": {
+    "": "alegrado"
+  },
+  "Part-ser": {
+    "ms": "alegrado",
+    "fs": "alegrada",
+    "mp": "alegrados",
+    "fp": "alegradas"
+  }
+}

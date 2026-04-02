@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anotar"
+  },
+  "InfP": {
+    "1s": "anotar",
+    "2s": "anotares",
+    "3s": "anotar",
+    "1p": "anotarmos",
+    "2p": "anotardes",
+    "3p": "anotarem"
+  },
+  "Ger": {
+    "": "anotando"
+  },
+  "PresI": {
+    "1s": "anoto",
+    "2s": "anotas",
+    "3s": "anota",
+    "1p": "anotamos",
+    "2p": "anotais",
+    "3p": "anotam"
+  },
+  "PImpI": {
+    "1s": "anotava",
+    "2s": "anotavas",
+    "3s": "anotava",
+    "1p": "anotávamos",
+    "2p": "anotáveis",
+    "3p": "anotavam"
+  },
+  "PPSI": {
+    "1s": "anotei",
+    "2s": "anotaste",
+    "3s": "anotou",
+    "1p": "anotámos",
+    "2p": "anotastes",
+    "3p": "anotaram"
+  },
+  "PMQPSI": {
+    "1s": "anotara",
+    "2s": "anotaras",
+    "3s": "anotara",
+    "1p": "anotáramos",
+    "2p": "anotáreis",
+    "3p": "anotaram"
+  },
+  "FutSI": {
+    "1s": "anotarei",
+    "2s": "anotarás",
+    "3s": "anotará",
+    "1p": "anotaremos",
+    "2p": "anotareis",
+    "3p": "anotarão"
+  },
+  "CondS": {
+    "1s": "anotaria",
+    "2s": "anotarias",
+    "3s": "anotaria",
+    "1p": "anotaríamos",
+    "2p": "anotaríeis",
+    "3p": "anotariam"
+  },
+  "PresC": {
+    "1s": "anote",
+    "2s": "anotes",
+    "3s": "anote",
+    "1p": "anotemos",
+    "2p": "anoteis",
+    "3p": "anotem"
+  },
+  "PImpC": {
+    "1s": "anotasse",
+    "2s": "anotasses",
+    "3s": "anotasse",
+    "1p": "anotássemos",
+    "2p": "anotásseis",
+    "3p": "anotassem"
+  },
+  "FutSC": {
+    "1s": "anotar",
+    "2s": "anotares",
+    "3s": "anotar",
+    "1p": "anotarmos",
+    "2p": "anotardes",
+    "3p": "anotarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anota",
+    "3s": "anote",
+    "1p": "anotemos",
+    "2p": "anotai",
+    "3p": "anotem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anotes",
+    "3s": "não anote",
+    "1p": "não anotemos",
+    "2p": "não anoteis",
+    "3p": "não anotem"
+  },
+  "Part-ter": {
+    "": "anotado"
+  },
+  "Part-ser": {
+    "ms": "anotado",
+    "fs": "anotada",
+    "mp": "anotados",
+    "fp": "anotadas"
+  }
+}

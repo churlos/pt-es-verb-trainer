@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "apagar"
+  },
+  "Ger": {
+    "": "apagando"
+  },
+  "PresI": {
+    "1s": "apago",
+    "2s": "apagas",
+    "3s": "apaga",
+    "1p": "apagamos",
+    "2p": "apagáis",
+    "3p": "apagan"
+  },
+  "PImpI": {
+    "1s": "apagaba",
+    "2s": "apagabas",
+    "3s": "apagaba",
+    "1p": "apagábamos",
+    "2p": "apagabais",
+    "3p": "apagaban"
+  },
+  "PPSI": {
+    "1s": "apagué",
+    "2s": "apagaste",
+    "3s": "apagó",
+    "1p": "apagamos",
+    "2p": "apagasteis",
+    "3p": "apagaron"
+  },
+  "FutSI": {
+    "1s": "apagaré",
+    "2s": "apagarás",
+    "3s": "apagará",
+    "1p": "apagaremos",
+    "2p": "apagaréis",
+    "3p": "apagarán"
+  },
+  "CondS": {
+    "1s": "apagaría",
+    "2s": "apagarías",
+    "3s": "apagaría",
+    "1p": "apagaríamos",
+    "2p": "apagaríais",
+    "3p": "apagarían"
+  },
+  "PresC": {
+    "1s": "apague",
+    "2s": "apagues",
+    "3s": "apague",
+    "1p": "apaguemos",
+    "2p": "apaguéis",
+    "3p": "apaguen"
+  },
+  "PMQPSI": {
+    "1s": "apagara",
+    "2s": "apagaras",
+    "3s": "apagara",
+    "1p": "apagáramos",
+    "2p": "apagarais",
+    "3p": "apagaran"
+  },
+  "PImpC": {
+    "1s": "apagase",
+    "2s": "apagases",
+    "3s": "apagase",
+    "1p": "apagásemos",
+    "2p": "apagaseis",
+    "3p": "apagasen"
+  },
+  "FutSC": {
+    "1s": "apagare",
+    "2s": "apagares",
+    "3s": "apagare",
+    "1p": "apagáremos",
+    "2p": "apagareis",
+    "3p": "apagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apaga",
+    "3s": "apague",
+    "1p": "apaguemos",
+    "2p": "apagad",
+    "3p": "apaguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no apagues",
+    "3s": "no apague",
+    "1p": "no apaguemos",
+    "2p": "no apaguéis",
+    "3p": "no apaguen"
+  },
+  "Part-ter": {
+    "": "apagado"
+  },
+  "Part-ser": {
+    "ms": "apagado",
+    "fs": "apagada",
+    "mp": "apagados",
+    "fp": "apagadas"
+  }
+}

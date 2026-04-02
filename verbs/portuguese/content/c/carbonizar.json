@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "carbonizar"
+  },
+  "InfP": {
+    "1s": "carbonizar",
+    "2s": "carbonizares",
+    "3s": "carbonizar",
+    "1p": "carbonizarmos",
+    "2p": "carbonizardes",
+    "3p": "carbonizarem"
+  },
+  "Ger": {
+    "": "carbonizando"
+  },
+  "PresI": {
+    "1s": "carbonizo",
+    "2s": "carbonizas",
+    "3s": "carboniza",
+    "1p": "carbonizamos",
+    "2p": "carbonizais",
+    "3p": "carbonizam"
+  },
+  "PImpI": {
+    "1s": "carbonizava",
+    "2s": "carbonizavas",
+    "3s": "carbonizava",
+    "1p": "carbonizávamos",
+    "2p": "carbonizáveis",
+    "3p": "carbonizavam"
+  },
+  "PPSI": {
+    "1s": "carbonizei",
+    "2s": "carbonizaste",
+    "3s": "carbonizou",
+    "1p": "carbonizámos",
+    "2p": "carbonizastes",
+    "3p": "carbonizaram"
+  },
+  "PMQPSI": {
+    "1s": "carbonizara",
+    "2s": "carbonizaras",
+    "3s": "carbonizara",
+    "1p": "carbonizáramos",
+    "2p": "carbonizáreis",
+    "3p": "carbonizaram"
+  },
+  "FutSI": {
+    "1s": "carbonizarei",
+    "2s": "carbonizarás",
+    "3s": "carbonizará",
+    "1p": "carbonizaremos",
+    "2p": "carbonizareis",
+    "3p": "carbonizarão"
+  },
+  "CondS": {
+    "1s": "carbonizaria",
+    "2s": "carbonizarias",
+    "3s": "carbonizaria",
+    "1p": "carbonizaríamos",
+    "2p": "carbonizaríeis",
+    "3p": "carbonizariam"
+  },
+  "PresC": {
+    "1s": "carbonize",
+    "2s": "carbonizes",
+    "3s": "carbonize",
+    "1p": "carbonizemos",
+    "2p": "carbonizeis",
+    "3p": "carbonizem"
+  },
+  "PImpC": {
+    "1s": "carbonizasse",
+    "2s": "carbonizasses",
+    "3s": "carbonizasse",
+    "1p": "carbonizássemos",
+    "2p": "carbonizásseis",
+    "3p": "carbonizassem"
+  },
+  "FutSC": {
+    "1s": "carbonizar",
+    "2s": "carbonizares",
+    "3s": "carbonizar",
+    "1p": "carbonizarmos",
+    "2p": "carbonizardes",
+    "3p": "carbonizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carboniza",
+    "3s": "carbonize",
+    "1p": "carbonizemos",
+    "2p": "carbonizai",
+    "3p": "carbonizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não carbonizes",
+    "3s": "não carbonize",
+    "1p": "não carbonizemos",
+    "2p": "não carbonizeis",
+    "3p": "não carbonizem"
+  },
+  "Part-ter": {
+    "": "carbonizado"
+  },
+  "Part-ser": {
+    "ms": "carbonizado",
+    "fs": "carbonizada",
+    "mp": "carbonizados",
+    "fp": "carbonizadas"
+  }
+}

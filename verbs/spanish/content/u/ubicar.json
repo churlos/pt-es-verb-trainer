@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ubicar"
+  },
+  "Ger": {
+    "": "ubicando"
+  },
+  "PresI": {
+    "1s": "ubico",
+    "2s": "ubicas",
+    "3s": "ubica",
+    "1p": "ubicamos",
+    "2p": "ubicáis",
+    "3p": "ubican"
+  },
+  "PImpI": {
+    "1s": "ubicaba",
+    "2s": "ubicabas",
+    "3s": "ubicaba",
+    "1p": "ubicábamos",
+    "2p": "ubicabais",
+    "3p": "ubicaban"
+  },
+  "PPSI": {
+    "1s": "ubiqué",
+    "2s": "ubicaste",
+    "3s": "ubicó",
+    "1p": "ubicamos",
+    "2p": "ubicasteis",
+    "3p": "ubicaron"
+  },
+  "FutSI": {
+    "1s": "ubicaré",
+    "2s": "ubicarás",
+    "3s": "ubicará",
+    "1p": "ubicaremos",
+    "2p": "ubicaréis",
+    "3p": "ubicarán"
+  },
+  "CondS": {
+    "1s": "ubicaría",
+    "2s": "ubicarías",
+    "3s": "ubicaría",
+    "1p": "ubicaríamos",
+    "2p": "ubicaríais",
+    "3p": "ubicarían"
+  },
+  "PresC": {
+    "1s": "ubique",
+    "2s": "ubiques",
+    "3s": "ubique",
+    "1p": "ubiquemos",
+    "2p": "ubiquéis",
+    "3p": "ubiquen"
+  },
+  "PMQPSI": {
+    "1s": "ubicara",
+    "2s": "ubicaras",
+    "3s": "ubicara",
+    "1p": "ubicáramos",
+    "2p": "ubicarais",
+    "3p": "ubicaran"
+  },
+  "PImpC": {
+    "1s": "ubicase",
+    "2s": "ubicases",
+    "3s": "ubicase",
+    "1p": "ubicásemos",
+    "2p": "ubicaseis",
+    "3p": "ubicasen"
+  },
+  "FutSC": {
+    "1s": "ubicare",
+    "2s": "ubicares",
+    "3s": "ubicare",
+    "1p": "ubicáremos",
+    "2p": "ubicareis",
+    "3p": "ubicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ubica",
+    "3s": "ubique",
+    "1p": "ubiquemos",
+    "2p": "ubicad",
+    "3p": "ubiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ubiques",
+    "3s": "no ubique",
+    "1p": "no ubiquemos",
+    "2p": "no ubiquéis",
+    "3p": "no ubiquen"
+  },
+  "Part-ter": {
+    "": "ubicado"
+  },
+  "Part-ser": {
+    "ms": "ubicado",
+    "fs": "ubicada",
+    "mp": "ubicados",
+    "fp": "ubicadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "configurar"
+  },
+  "Ger": {
+    "": "configurando"
+  },
+  "PresI": {
+    "1s": "configuro",
+    "2s": "configuras",
+    "3s": "configura",
+    "1p": "configuramos",
+    "2p": "configuráis",
+    "3p": "configuran"
+  },
+  "PImpI": {
+    "1s": "configuraba",
+    "2s": "configurabas",
+    "3s": "configuraba",
+    "1p": "configurábamos",
+    "2p": "configurabais",
+    "3p": "configuraban"
+  },
+  "PPSI": {
+    "1s": "configuré",
+    "2s": "configuraste",
+    "3s": "configuró",
+    "1p": "configuramos",
+    "2p": "configurasteis",
+    "3p": "configuraron"
+  },
+  "FutSI": {
+    "1s": "configuraré",
+    "2s": "configurarás",
+    "3s": "configurará",
+    "1p": "configuraremos",
+    "2p": "configuraréis",
+    "3p": "configurarán"
+  },
+  "CondS": {
+    "1s": "configuraría",
+    "2s": "configurarías",
+    "3s": "configuraría",
+    "1p": "configuraríamos",
+    "2p": "configuraríais",
+    "3p": "configurarían"
+  },
+  "PresC": {
+    "1s": "configure",
+    "2s": "configures",
+    "3s": "configure",
+    "1p": "configuremos",
+    "2p": "configuréis",
+    "3p": "configuren"
+  },
+  "PMQPSI": {
+    "1s": "configurara",
+    "2s": "configuraras",
+    "3s": "configurara",
+    "1p": "configuráramos",
+    "2p": "configurarais",
+    "3p": "configuraran"
+  },
+  "PImpC": {
+    "1s": "configurase",
+    "2s": "configurases",
+    "3s": "configurase",
+    "1p": "configurásemos",
+    "2p": "configuraseis",
+    "3p": "configurasen"
+  },
+  "FutSC": {
+    "1s": "configurare",
+    "2s": "configurares",
+    "3s": "configurare",
+    "1p": "configuráremos",
+    "2p": "configurareis",
+    "3p": "configuraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "configura",
+    "3s": "configure",
+    "1p": "configuremos",
+    "2p": "configurad",
+    "3p": "configuren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no configures",
+    "3s": "no configure",
+    "1p": "no configuremos",
+    "2p": "no configuréis",
+    "3p": "no configuren"
+  },
+  "Part-ter": {
+    "": "configurado"
+  },
+  "Part-ser": {
+    "ms": "configurado",
+    "fs": "configurada",
+    "mp": "configurados",
+    "fp": "configuradas"
+  }
+}

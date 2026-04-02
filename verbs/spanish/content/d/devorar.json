@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "devorar"
+  },
+  "Ger": {
+    "": "devorando"
+  },
+  "PresI": {
+    "1s": "devoro",
+    "2s": "devoras",
+    "3s": "devora",
+    "1p": "devoramos",
+    "2p": "devoráis",
+    "3p": "devoran"
+  },
+  "PImpI": {
+    "1s": "devoraba",
+    "2s": "devorabas",
+    "3s": "devoraba",
+    "1p": "devorábamos",
+    "2p": "devorabais",
+    "3p": "devoraban"
+  },
+  "PPSI": {
+    "1s": "devoré",
+    "2s": "devoraste",
+    "3s": "devoró",
+    "1p": "devoramos",
+    "2p": "devorasteis",
+    "3p": "devoraron"
+  },
+  "FutSI": {
+    "1s": "devoraré",
+    "2s": "devorarás",
+    "3s": "devorará",
+    "1p": "devoraremos",
+    "2p": "devoraréis",
+    "3p": "devorarán"
+  },
+  "CondS": {
+    "1s": "devoraría",
+    "2s": "devorarías",
+    "3s": "devoraría",
+    "1p": "devoraríamos",
+    "2p": "devoraríais",
+    "3p": "devorarían"
+  },
+  "PresC": {
+    "1s": "devore",
+    "2s": "devores",
+    "3s": "devore",
+    "1p": "devoremos",
+    "2p": "devoréis",
+    "3p": "devoren"
+  },
+  "PMQPSI": {
+    "1s": "devorara",
+    "2s": "devoraras",
+    "3s": "devorara",
+    "1p": "devoráramos",
+    "2p": "devorarais",
+    "3p": "devoraran"
+  },
+  "PImpC": {
+    "1s": "devorase",
+    "2s": "devorases",
+    "3s": "devorase",
+    "1p": "devorásemos",
+    "2p": "devoraseis",
+    "3p": "devorasen"
+  },
+  "FutSC": {
+    "1s": "devorare",
+    "2s": "devorares",
+    "3s": "devorare",
+    "1p": "devoráremos",
+    "2p": "devorareis",
+    "3p": "devoraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devora",
+    "3s": "devore",
+    "1p": "devoremos",
+    "2p": "devorad",
+    "3p": "devoren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no devores",
+    "3s": "no devore",
+    "1p": "no devoremos",
+    "2p": "no devoréis",
+    "3p": "no devoren"
+  },
+  "Part-ter": {
+    "": "devorado"
+  },
+  "Part-ser": {
+    "ms": "devorado",
+    "fs": "devorada",
+    "mp": "devorados",
+    "fp": "devoradas"
+  }
+}

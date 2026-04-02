@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "equilibrar"
+  },
+  "InfP": {
+    "1s": "equilibrar",
+    "2s": "equilibrares",
+    "3s": "equilibrar",
+    "1p": "equilibrarmos",
+    "2p": "equilibrardes",
+    "3p": "equilibrarem"
+  },
+  "Ger": {
+    "": "equilibrando"
+  },
+  "PresI": {
+    "1s": "equilibro",
+    "2s": "equilibras",
+    "3s": "equilibra",
+    "1p": "equilibramos",
+    "2p": "equilibrais",
+    "3p": "equilibram"
+  },
+  "PImpI": {
+    "1s": "equilibrava",
+    "2s": "equilibravas",
+    "3s": "equilibrava",
+    "1p": "equilibrávamos",
+    "2p": "equilibráveis",
+    "3p": "equilibravam"
+  },
+  "PPSI": {
+    "1s": "equilibrei",
+    "2s": "equilibraste",
+    "3s": "equilibrou",
+    "1p": "equilibrámos",
+    "2p": "equilibrastes",
+    "3p": "equilibraram"
+  },
+  "PMQPSI": {
+    "1s": "equilibrara",
+    "2s": "equilibraras",
+    "3s": "equilibrara",
+    "1p": "equilibráramos",
+    "2p": "equilibráreis",
+    "3p": "equilibraram"
+  },
+  "FutSI": {
+    "1s": "equilibrarei",
+    "2s": "equilibrarás",
+    "3s": "equilibrará",
+    "1p": "equilibraremos",
+    "2p": "equilibrareis",
+    "3p": "equilibrarão"
+  },
+  "CondS": {
+    "1s": "equilibraria",
+    "2s": "equilibrarias",
+    "3s": "equilibraria",
+    "1p": "equilibraríamos",
+    "2p": "equilibraríeis",
+    "3p": "equilibrariam"
+  },
+  "PresC": {
+    "1s": "equilibre",
+    "2s": "equilibres",
+    "3s": "equilibre",
+    "1p": "equilibremos",
+    "2p": "equilibreis",
+    "3p": "equilibrem"
+  },
+  "PImpC": {
+    "1s": "equilibrasse",
+    "2s": "equilibrasses",
+    "3s": "equilibrasse",
+    "1p": "equilibrássemos",
+    "2p": "equilibrásseis",
+    "3p": "equilibrassem"
+  },
+  "FutSC": {
+    "1s": "equilibrar",
+    "2s": "equilibrares",
+    "3s": "equilibrar",
+    "1p": "equilibrarmos",
+    "2p": "equilibrardes",
+    "3p": "equilibrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "equilibra",
+    "3s": "equilibre",
+    "1p": "equilibremos",
+    "2p": "equilibrai",
+    "3p": "equilibrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não equilibres",
+    "3s": "não equilibre",
+    "1p": "não equilibremos",
+    "2p": "não equilibreis",
+    "3p": "não equilibrem"
+  },
+  "Part-ter": {
+    "": "equilibrado"
+  },
+  "Part-ser": {
+    "ms": "equilibrado",
+    "fs": "equilibrada",
+    "mp": "equilibrados",
+    "fp": "equilibradas"
+  }
+}

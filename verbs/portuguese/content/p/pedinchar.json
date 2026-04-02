@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pedinchar"
+  },
+  "InfP": {
+    "1s": "pedinchar",
+    "2s": "pedinchares",
+    "3s": "pedinchar",
+    "1p": "pedincharmos",
+    "2p": "pedinchardes",
+    "3p": "pedincharem"
+  },
+  "Ger": {
+    "": "pedinchando"
+  },
+  "PresI": {
+    "1s": "pedincho",
+    "2s": "pedinchas",
+    "3s": "pedincha",
+    "1p": "pedinchamos",
+    "2p": "pedinchais",
+    "3p": "pedincham"
+  },
+  "PImpI": {
+    "1s": "pedinchava",
+    "2s": "pedinchavas",
+    "3s": "pedinchava",
+    "1p": "pedinchávamos",
+    "2p": "pedincháveis",
+    "3p": "pedinchavam"
+  },
+  "PPSI": {
+    "1s": "pedinchei",
+    "2s": "pedinchaste",
+    "3s": "pedinchou",
+    "1p": "pedinchámos",
+    "2p": "pedinchastes",
+    "3p": "pedincharam"
+  },
+  "PMQPSI": {
+    "1s": "pedinchara",
+    "2s": "pedincharas",
+    "3s": "pedinchara",
+    "1p": "pedincháramos",
+    "2p": "pedincháreis",
+    "3p": "pedincharam"
+  },
+  "FutSI": {
+    "1s": "pedincharei",
+    "2s": "pedincharás",
+    "3s": "pedinchará",
+    "1p": "pedincharemos",
+    "2p": "pedinchareis",
+    "3p": "pedincharão"
+  },
+  "CondS": {
+    "1s": "pedincharia",
+    "2s": "pedincharias",
+    "3s": "pedincharia",
+    "1p": "pedincharíamos",
+    "2p": "pedincharíeis",
+    "3p": "pedinchariam"
+  },
+  "PresC": {
+    "1s": "pedinche",
+    "2s": "pedinches",
+    "3s": "pedinche",
+    "1p": "pedinchemos",
+    "2p": "pedincheis",
+    "3p": "pedinchem"
+  },
+  "PImpC": {
+    "1s": "pedinchasse",
+    "2s": "pedinchasses",
+    "3s": "pedinchasse",
+    "1p": "pedinchássemos",
+    "2p": "pedinchásseis",
+    "3p": "pedinchassem"
+  },
+  "FutSC": {
+    "1s": "pedinchar",
+    "2s": "pedinchares",
+    "3s": "pedinchar",
+    "1p": "pedincharmos",
+    "2p": "pedinchardes",
+    "3p": "pedincharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pedincha",
+    "3s": "pedinche",
+    "1p": "pedinchemos",
+    "2p": "pedinchai",
+    "3p": "pedinchem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pedinches",
+    "3s": "não pedinche",
+    "1p": "não pedinchemos",
+    "2p": "não pedincheis",
+    "3p": "não pedinchem"
+  },
+  "Part-ter": {
+    "": "pedinchado"
+  },
+  "Part-ser": {
+    "ms": "pedinchado",
+    "fs": "pedinchada",
+    "mp": "pedinchados",
+    "fp": "pedinchadas"
+  }
+}

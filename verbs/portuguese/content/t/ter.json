@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ter"
+  },
+  "InfP": {
+    "1s": "ter",
+    "2s": "teres",
+    "3s": "ter",
+    "1p": "termos",
+    "2p": "terdes",
+    "3p": "terem"
+  },
+  "Ger": {
+    "": "tendo"
+  },
+  "PresI": {
+    "1s": "tenho",
+    "2s": "tens",
+    "3s": "tem",
+    "1p": "temos",
+    "2p": "tendes",
+    "3p": "têm"
+  },
+  "PImpI": {
+    "1s": "tinha",
+    "2s": "tinhas",
+    "3s": "tinha",
+    "1p": "tínhamos",
+    "2p": "tínheis",
+    "3p": "tinham"
+  },
+  "PPSI": {
+    "1s": "tive",
+    "2s": "tiveste",
+    "3s": "teve",
+    "1p": "tivemos",
+    "2p": "tivestes",
+    "3p": "tiveram"
+  },
+  "PMQPSI": {
+    "1s": "tivera",
+    "2s": "tiveras",
+    "3s": "tivera",
+    "1p": "tivéramos",
+    "2p": "tivéreis",
+    "3p": "tiveram"
+  },
+  "FutSI": {
+    "1s": "terei",
+    "2s": "terás",
+    "3s": "terá",
+    "1p": "teremos",
+    "2p": "tereis",
+    "3p": "terão"
+  },
+  "CondS": {
+    "1s": "teria",
+    "2s": "terias",
+    "3s": "teria",
+    "1p": "teríamos",
+    "2p": "teríeis",
+    "3p": "teriam"
+  },
+  "PresC": {
+    "1s": "tenha",
+    "2s": "tenhas",
+    "3s": "tenha",
+    "1p": "tenhamos",
+    "2p": "tenhais",
+    "3p": "tenham"
+  },
+  "PImpC": {
+    "1s": "tivesse",
+    "2s": "tivesses",
+    "3s": "tivesse",
+    "1p": "tivéssemos",
+    "2p": "tivésseis",
+    "3p": "tivessem"
+  },
+  "FutSC": {
+    "1s": "tiver",
+    "2s": "tiveres",
+    "3s": "tiver",
+    "1p": "tivermos",
+    "2p": "tiverdes",
+    "3p": "tiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tem",
+    "3s": "tenha",
+    "1p": "tenhamos",
+    "2p": "tende",
+    "3p": "tenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tenhas",
+    "3s": "não tenha",
+    "1p": "não tenhamos",
+    "2p": "não tenhais",
+    "3p": "não tenham"
+  },
+  "Part-ter": {
+    "": "tido"
+  },
+  "Part-ser": {
+    "ms": "tido",
+    "fs": "tida",
+    "mp": "tidos",
+    "fp": "tidas"
+  }
+}

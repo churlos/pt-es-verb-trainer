@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atenazar"
+  },
+  "InfP": {
+    "1s": "atenazar",
+    "2s": "atenazares",
+    "3s": "atenazar",
+    "1p": "atenazarmos",
+    "2p": "atenazardes",
+    "3p": "atenazarem"
+  },
+  "Ger": {
+    "": "atenazando"
+  },
+  "PresI": {
+    "1s": "atenazo",
+    "2s": "atenazas",
+    "3s": "atenaza",
+    "1p": "atenazamos",
+    "2p": "atenazais",
+    "3p": "atenazam"
+  },
+  "PImpI": {
+    "1s": "atenazava",
+    "2s": "atenazavas",
+    "3s": "atenazava",
+    "1p": "atenazávamos",
+    "2p": "atenazáveis",
+    "3p": "atenazavam"
+  },
+  "PPSI": {
+    "1s": "atenazei",
+    "2s": "atenazaste",
+    "3s": "atenazou",
+    "1p": "atenazámos",
+    "2p": "atenazastes",
+    "3p": "atenazaram"
+  },
+  "PMQPSI": {
+    "1s": "atenazara",
+    "2s": "atenazaras",
+    "3s": "atenazara",
+    "1p": "atenazáramos",
+    "2p": "atenazáreis",
+    "3p": "atenazaram"
+  },
+  "FutSI": {
+    "1s": "atenazarei",
+    "2s": "atenazarás",
+    "3s": "atenazará",
+    "1p": "atenazaremos",
+    "2p": "atenazareis",
+    "3p": "atenazarão"
+  },
+  "CondS": {
+    "1s": "atenazaria",
+    "2s": "atenazarias",
+    "3s": "atenazaria",
+    "1p": "atenazaríamos",
+    "2p": "atenazaríeis",
+    "3p": "atenazariam"
+  },
+  "PresC": {
+    "1s": "atenaze",
+    "2s": "atenazes",
+    "3s": "atenaze",
+    "1p": "atenazemos",
+    "2p": "atenazeis",
+    "3p": "atenazem"
+  },
+  "PImpC": {
+    "1s": "atenazasse",
+    "2s": "atenazasses",
+    "3s": "atenazasse",
+    "1p": "atenazássemos",
+    "2p": "atenazásseis",
+    "3p": "atenazassem"
+  },
+  "FutSC": {
+    "1s": "atenazar",
+    "2s": "atenazares",
+    "3s": "atenazar",
+    "1p": "atenazarmos",
+    "2p": "atenazardes",
+    "3p": "atenazarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atenaza",
+    "3s": "atenaze",
+    "1p": "atenazemos",
+    "2p": "atenazai",
+    "3p": "atenazem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atenazes",
+    "3s": "não atenaze",
+    "1p": "não atenazemos",
+    "2p": "não atenazeis",
+    "3p": "não atenazem"
+  },
+  "Part-ter": {
+    "": "atenazado"
+  },
+  "Part-ser": {
+    "ms": "atenazado",
+    "fs": "atenazada",
+    "mp": "atenazados",
+    "fp": "atenazadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "produzir"
+  },
+  "InfP": {
+    "1s": "produzir",
+    "2s": "produzires",
+    "3s": "produzir",
+    "1p": "produzirmos",
+    "2p": "produzirdes",
+    "3p": "produzirem"
+  },
+  "Ger": {
+    "": "produzindo"
+  },
+  "PresI": {
+    "1s": "produzo",
+    "2s": "produzes",
+    "3s": "produz",
+    "1p": "produzimos",
+    "2p": "produzis",
+    "3p": "produzem"
+  },
+  "PImpI": {
+    "1s": "produzia",
+    "2s": "produzias",
+    "3s": "produzia",
+    "1p": "produzíamos",
+    "2p": "produzíeis",
+    "3p": "produziam"
+  },
+  "PPSI": {
+    "1s": "produzi",
+    "2s": "produziste",
+    "3s": "produziu",
+    "1p": "produzimos",
+    "2p": "produzistes",
+    "3p": "produziram"
+  },
+  "PMQPSI": {
+    "1s": "produzira",
+    "2s": "produziras",
+    "3s": "produzira",
+    "1p": "produzíramos",
+    "2p": "produzíreis",
+    "3p": "produziram"
+  },
+  "FutSI": {
+    "1s": "produzirei",
+    "2s": "produzirás",
+    "3s": "produzirá",
+    "1p": "produziremos",
+    "2p": "produzireis",
+    "3p": "produzirão"
+  },
+  "CondS": {
+    "1s": "produziria",
+    "2s": "produzirias",
+    "3s": "produziria",
+    "1p": "produziríamos",
+    "2p": "produziríeis",
+    "3p": "produziriam"
+  },
+  "PresC": {
+    "1s": "produza",
+    "2s": "produzas",
+    "3s": "produza",
+    "1p": "produzamos",
+    "2p": "produzais",
+    "3p": "produzam"
+  },
+  "PImpC": {
+    "1s": "produzisse",
+    "2s": "produzisses",
+    "3s": "produzisse",
+    "1p": "produzíssemos",
+    "2p": "produzísseis",
+    "3p": "produzissem"
+  },
+  "FutSC": {
+    "1s": "produzir",
+    "2s": "produzires",
+    "3s": "produzir",
+    "1p": "produzirmos",
+    "2p": "produzirdes",
+    "3p": "produzirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "produzproduze",
+    "3s": "produza",
+    "1p": "produzamos",
+    "2p": "produzi",
+    "3p": "produzam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não produzas",
+    "3s": "não produza",
+    "1p": "não produzamos",
+    "2p": "não produzais",
+    "3p": "não produzam"
+  },
+  "Part-ter": {
+    "": "produzido"
+  },
+  "Part-ser": {
+    "ms": "produzido",
+    "fs": "produzida",
+    "mp": "produzidos",
+    "fp": "produzidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abrir"
+  },
+  "Ger": {
+    "": "abriendo"
+  },
+  "PresI": {
+    "1s": "abro",
+    "2s": "abres",
+    "3s": "abre",
+    "1p": "abrimos",
+    "2p": "abrís",
+    "3p": "abren"
+  },
+  "PImpI": {
+    "1s": "abría",
+    "2s": "abrías",
+    "3s": "abría",
+    "1p": "abríamos",
+    "2p": "abríais",
+    "3p": "abrían"
+  },
+  "PPSI": {
+    "1s": "abrí",
+    "2s": "abriste",
+    "3s": "abrió",
+    "1p": "abrimos",
+    "2p": "abristeis",
+    "3p": "abrieron"
+  },
+  "FutSI": {
+    "1s": "abriré",
+    "2s": "abrirás",
+    "3s": "abrirá",
+    "1p": "abriremos",
+    "2p": "abriréis",
+    "3p": "abrirán"
+  },
+  "CondS": {
+    "1s": "abriría",
+    "2s": "abrirías",
+    "3s": "abriría",
+    "1p": "abriríamos",
+    "2p": "abriríais",
+    "3p": "abrirían"
+  },
+  "PresC": {
+    "1s": "abra",
+    "2s": "abras",
+    "3s": "abra",
+    "1p": "abramos",
+    "2p": "abráis",
+    "3p": "abran"
+  },
+  "PMQPSI": {
+    "1s": "abriera",
+    "2s": "abrieras",
+    "3s": "abriera",
+    "1p": "abriéramos",
+    "2p": "abrierais",
+    "3p": "abrieran"
+  },
+  "PImpC": {
+    "1s": "abriese",
+    "2s": "abrieses",
+    "3s": "abriese",
+    "1p": "abriésemos",
+    "2p": "abrieseis",
+    "3p": "abriesen"
+  },
+  "FutSC": {
+    "1s": "abriere",
+    "2s": "abrieres",
+    "3s": "abriere",
+    "1p": "abriéremos",
+    "2p": "abriereis",
+    "3p": "abrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abre",
+    "3s": "abra",
+    "1p": "abramos",
+    "2p": "abrid",
+    "3p": "abran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no abras",
+    "3s": "no abra",
+    "1p": "no abramos",
+    "2p": "no abráis",
+    "3p": "no abran"
+  },
+  "Part-ter": {
+    "": "abierto"
+  },
+  "Part-ser": {
+    "ms": "abierto",
+    "fs": "abierta",
+    "mp": "abiertos",
+    "fp": "abiertas"
+  }
+}

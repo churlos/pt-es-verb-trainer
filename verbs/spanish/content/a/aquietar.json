@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aquietar"
+  },
+  "Ger": {
+    "": "aquietando"
+  },
+  "PresI": {
+    "1s": "aquieto",
+    "2s": "aquietas",
+    "3s": "aquieta",
+    "1p": "aquietamos",
+    "2p": "aquietáis",
+    "3p": "aquietan"
+  },
+  "PImpI": {
+    "1s": "aquietaba",
+    "2s": "aquietabas",
+    "3s": "aquietaba",
+    "1p": "aquietábamos",
+    "2p": "aquietabais",
+    "3p": "aquietaban"
+  },
+  "PPSI": {
+    "1s": "aquieté",
+    "2s": "aquietaste",
+    "3s": "aquietó",
+    "1p": "aquietamos",
+    "2p": "aquietasteis",
+    "3p": "aquietaron"
+  },
+  "FutSI": {
+    "1s": "aquietaré",
+    "2s": "aquietarás",
+    "3s": "aquietará",
+    "1p": "aquietaremos",
+    "2p": "aquietaréis",
+    "3p": "aquietarán"
+  },
+  "CondS": {
+    "1s": "aquietaría",
+    "2s": "aquietarías",
+    "3s": "aquietaría",
+    "1p": "aquietaríamos",
+    "2p": "aquietaríais",
+    "3p": "aquietarían"
+  },
+  "PresC": {
+    "1s": "aquiete",
+    "2s": "aquietes",
+    "3s": "aquiete",
+    "1p": "aquietemos",
+    "2p": "aquietéis",
+    "3p": "aquieten"
+  },
+  "PMQPSI": {
+    "1s": "aquietara",
+    "2s": "aquietaras",
+    "3s": "aquietara",
+    "1p": "aquietáramos",
+    "2p": "aquietarais",
+    "3p": "aquietaran"
+  },
+  "PImpC": {
+    "1s": "aquietase",
+    "2s": "aquietases",
+    "3s": "aquietase",
+    "1p": "aquietásemos",
+    "2p": "aquietaseis",
+    "3p": "aquietasen"
+  },
+  "FutSC": {
+    "1s": "aquietare",
+    "2s": "aquietares",
+    "3s": "aquietare",
+    "1p": "aquietáremos",
+    "2p": "aquietareis",
+    "3p": "aquietaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aquieta",
+    "3s": "aquiete",
+    "1p": "aquietemos",
+    "2p": "aquietad",
+    "3p": "aquieten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aquietes",
+    "3s": "no aquiete",
+    "1p": "no aquietemos",
+    "2p": "no aquietéis",
+    "3p": "no aquieten"
+  },
+  "Part-ter": {
+    "": "aquietado"
+  },
+  "Part-ser": {
+    "ms": "aquietado",
+    "fs": "aquietada",
+    "mp": "aquietados",
+    "fp": "aquietadas"
+  }
+}

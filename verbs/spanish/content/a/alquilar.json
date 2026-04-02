@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alquilar"
+  },
+  "Ger": {
+    "": "alquilando"
+  },
+  "PresI": {
+    "1s": "alquilo",
+    "2s": "alquilas",
+    "3s": "alquila",
+    "1p": "alquilamos",
+    "2p": "alquiláis",
+    "3p": "alquilan"
+  },
+  "PImpI": {
+    "1s": "alquilaba",
+    "2s": "alquilabas",
+    "3s": "alquilaba",
+    "1p": "alquilábamos",
+    "2p": "alquilabais",
+    "3p": "alquilaban"
+  },
+  "PPSI": {
+    "1s": "alquilé",
+    "2s": "alquilaste",
+    "3s": "alquiló",
+    "1p": "alquilamos",
+    "2p": "alquilasteis",
+    "3p": "alquilaron"
+  },
+  "FutSI": {
+    "1s": "alquilaré",
+    "2s": "alquilarás",
+    "3s": "alquilará",
+    "1p": "alquilaremos",
+    "2p": "alquilaréis",
+    "3p": "alquilarán"
+  },
+  "CondS": {
+    "1s": "alquilaría",
+    "2s": "alquilarías",
+    "3s": "alquilaría",
+    "1p": "alquilaríamos",
+    "2p": "alquilaríais",
+    "3p": "alquilarían"
+  },
+  "PresC": {
+    "1s": "alquile",
+    "2s": "alquiles",
+    "3s": "alquile",
+    "1p": "alquilemos",
+    "2p": "alquiléis",
+    "3p": "alquilen"
+  },
+  "PMQPSI": {
+    "1s": "alquilara",
+    "2s": "alquilaras",
+    "3s": "alquilara",
+    "1p": "alquiláramos",
+    "2p": "alquilarais",
+    "3p": "alquilaran"
+  },
+  "PImpC": {
+    "1s": "alquilase",
+    "2s": "alquilases",
+    "3s": "alquilase",
+    "1p": "alquilásemos",
+    "2p": "alquilaseis",
+    "3p": "alquilasen"
+  },
+  "FutSC": {
+    "1s": "alquilare",
+    "2s": "alquilares",
+    "3s": "alquilare",
+    "1p": "alquiláremos",
+    "2p": "alquilareis",
+    "3p": "alquilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alquila",
+    "3s": "alquile",
+    "1p": "alquilemos",
+    "2p": "alquilad",
+    "3p": "alquilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alquiles",
+    "3s": "no alquile",
+    "1p": "no alquilemos",
+    "2p": "no alquiléis",
+    "3p": "no alquilen"
+  },
+  "Part-ter": {
+    "": "alquilado"
+  },
+  "Part-ser": {
+    "ms": "alquilado",
+    "fs": "alquilada",
+    "mp": "alquilados",
+    "fp": "alquiladas"
+  }
+}

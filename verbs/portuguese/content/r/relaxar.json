@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "relaxar"
+  },
+  "InfP": {
+    "1s": "relaxar",
+    "2s": "relaxares",
+    "3s": "relaxar",
+    "1p": "relaxarmos",
+    "2p": "relaxardes",
+    "3p": "relaxarem"
+  },
+  "Ger": {
+    "": "relaxando"
+  },
+  "PresI": {
+    "1s": "relaxo",
+    "2s": "relaxas",
+    "3s": "relaxa",
+    "1p": "relaxamos",
+    "2p": "relaxais",
+    "3p": "relaxam"
+  },
+  "PImpI": {
+    "1s": "relaxava",
+    "2s": "relaxavas",
+    "3s": "relaxava",
+    "1p": "relaxávamos",
+    "2p": "relaxáveis",
+    "3p": "relaxavam"
+  },
+  "PPSI": {
+    "1s": "relaxei",
+    "2s": "relaxaste",
+    "3s": "relaxou",
+    "1p": "relaxámos",
+    "2p": "relaxastes",
+    "3p": "relaxaram"
+  },
+  "PMQPSI": {
+    "1s": "relaxara",
+    "2s": "relaxaras",
+    "3s": "relaxara",
+    "1p": "relaxáramos",
+    "2p": "relaxáreis",
+    "3p": "relaxaram"
+  },
+  "FutSI": {
+    "1s": "relaxarei",
+    "2s": "relaxarás",
+    "3s": "relaxará",
+    "1p": "relaxaremos",
+    "2p": "relaxareis",
+    "3p": "relaxarão"
+  },
+  "CondS": {
+    "1s": "relaxaria",
+    "2s": "relaxarias",
+    "3s": "relaxaria",
+    "1p": "relaxaríamos",
+    "2p": "relaxaríeis",
+    "3p": "relaxariam"
+  },
+  "PresC": {
+    "1s": "relaxe",
+    "2s": "relaxes",
+    "3s": "relaxe",
+    "1p": "relaxemos",
+    "2p": "relaxeis",
+    "3p": "relaxem"
+  },
+  "PImpC": {
+    "1s": "relaxasse",
+    "2s": "relaxasses",
+    "3s": "relaxasse",
+    "1p": "relaxássemos",
+    "2p": "relaxásseis",
+    "3p": "relaxassem"
+  },
+  "FutSC": {
+    "1s": "relaxar",
+    "2s": "relaxares",
+    "3s": "relaxar",
+    "1p": "relaxarmos",
+    "2p": "relaxardes",
+    "3p": "relaxarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "relaxa",
+    "3s": "relaxe",
+    "1p": "relaxemos",
+    "2p": "relaxai",
+    "3p": "relaxem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não relaxes",
+    "3s": "não relaxe",
+    "1p": "não relaxemos",
+    "2p": "não relaxeis",
+    "3p": "não relaxem"
+  },
+  "Part-ter": {
+    "": "relaxado"
+  },
+  "Part-ser": {
+    "ms": "relaxado",
+    "fs": "relaxada",
+    "mp": "relaxados",
+    "fp": "relaxadas"
+  }
+}

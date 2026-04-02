@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "condensar"
+  },
+  "InfP": {
+    "1s": "condensar",
+    "2s": "condensares",
+    "3s": "condensar",
+    "1p": "condensarmos",
+    "2p": "condensardes",
+    "3p": "condensarem"
+  },
+  "Ger": {
+    "": "condensando"
+  },
+  "PresI": {
+    "1s": "condenso",
+    "2s": "condensas",
+    "3s": "condensa",
+    "1p": "condensamos",
+    "2p": "condensais",
+    "3p": "condensam"
+  },
+  "PImpI": {
+    "1s": "condensava",
+    "2s": "condensavas",
+    "3s": "condensava",
+    "1p": "condensávamos",
+    "2p": "condensáveis",
+    "3p": "condensavam"
+  },
+  "PPSI": {
+    "1s": "condensei",
+    "2s": "condensaste",
+    "3s": "condensou",
+    "1p": "condensámos",
+    "2p": "condensastes",
+    "3p": "condensaram"
+  },
+  "PMQPSI": {
+    "1s": "condensara",
+    "2s": "condensaras",
+    "3s": "condensara",
+    "1p": "condensáramos",
+    "2p": "condensáreis",
+    "3p": "condensaram"
+  },
+  "FutSI": {
+    "1s": "condensarei",
+    "2s": "condensarás",
+    "3s": "condensará",
+    "1p": "condensaremos",
+    "2p": "condensareis",
+    "3p": "condensarão"
+  },
+  "CondS": {
+    "1s": "condensaria",
+    "2s": "condensarias",
+    "3s": "condensaria",
+    "1p": "condensaríamos",
+    "2p": "condensaríeis",
+    "3p": "condensariam"
+  },
+  "PresC": {
+    "1s": "condense",
+    "2s": "condenses",
+    "3s": "condense",
+    "1p": "condensemos",
+    "2p": "condenseis",
+    "3p": "condensem"
+  },
+  "PImpC": {
+    "1s": "condensasse",
+    "2s": "condensasses",
+    "3s": "condensasse",
+    "1p": "condensássemos",
+    "2p": "condensásseis",
+    "3p": "condensassem"
+  },
+  "FutSC": {
+    "1s": "condensar",
+    "2s": "condensares",
+    "3s": "condensar",
+    "1p": "condensarmos",
+    "2p": "condensardes",
+    "3p": "condensarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "condensa",
+    "3s": "condense",
+    "1p": "condensemos",
+    "2p": "condensai",
+    "3p": "condensem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não condenses",
+    "3s": "não condense",
+    "1p": "não condensemos",
+    "2p": "não condenseis",
+    "3p": "não condensem"
+  },
+  "Part-ter": {
+    "": "condensado"
+  },
+  "Part-ser": {
+    "ms": "condensado",
+    "fs": "condensada",
+    "mp": "condensados",
+    "fp": "condensadas"
+  }
+}

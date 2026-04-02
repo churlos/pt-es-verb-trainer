@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tender"
+  },
+  "InfP": {
+    "1s": "tender",
+    "2s": "tenderes",
+    "3s": "tender",
+    "1p": "tendermos",
+    "2p": "tenderdes",
+    "3p": "tenderem"
+  },
+  "Ger": {
+    "": "tendendo"
+  },
+  "PresI": {
+    "1s": "tendo",
+    "2s": "tendes",
+    "3s": "tende",
+    "1p": "tendemos",
+    "2p": "tendeis",
+    "3p": "tendem"
+  },
+  "PImpI": {
+    "1s": "tendia",
+    "2s": "tendias",
+    "3s": "tendia",
+    "1p": "tendíamos",
+    "2p": "tendíeis",
+    "3p": "tendiam"
+  },
+  "PPSI": {
+    "1s": "tendi",
+    "2s": "tendeste",
+    "3s": "tendeu",
+    "1p": "tendemos",
+    "2p": "tendestes",
+    "3p": "tenderam"
+  },
+  "PMQPSI": {
+    "1s": "tendera",
+    "2s": "tenderas",
+    "3s": "tendera",
+    "1p": "tendêramos",
+    "2p": "tendêreis",
+    "3p": "tenderam"
+  },
+  "FutSI": {
+    "1s": "tenderei",
+    "2s": "tenderás",
+    "3s": "tenderá",
+    "1p": "tenderemos",
+    "2p": "tendereis",
+    "3p": "tenderão"
+  },
+  "CondS": {
+    "1s": "tenderia",
+    "2s": "tenderias",
+    "3s": "tenderia",
+    "1p": "tenderíamos",
+    "2p": "tenderíeis",
+    "3p": "tenderiam"
+  },
+  "PresC": {
+    "1s": "tenda",
+    "2s": "tendas",
+    "3s": "tenda",
+    "1p": "tendamos",
+    "2p": "tendais",
+    "3p": "tendam"
+  },
+  "PImpC": {
+    "1s": "tendesse",
+    "2s": "tendesses",
+    "3s": "tendesse",
+    "1p": "tendêssemos",
+    "2p": "tendêsseis",
+    "3p": "tendessem"
+  },
+  "FutSC": {
+    "1s": "tender",
+    "2s": "tenderes",
+    "3s": "tender",
+    "1p": "tendermos",
+    "2p": "tenderdes",
+    "3p": "tenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tende",
+    "3s": "tenda",
+    "1p": "tendamos",
+    "2p": "tendei",
+    "3p": "tendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tendas",
+    "3s": "não tenda",
+    "1p": "não tendamos",
+    "2p": "não tendais",
+    "3p": "não tendam"
+  },
+  "Part-ter": {
+    "": "tendido"
+  },
+  "Part-ser": {
+    "ms": "tendido",
+    "fs": "tendida",
+    "mp": "tendidos",
+    "fp": "tendidas"
+  }
+}

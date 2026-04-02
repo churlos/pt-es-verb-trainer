@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "minerar"
+  },
+  "InfP": {
+    "1s": "minerar",
+    "2s": "minerares",
+    "3s": "minerar",
+    "1p": "minerarmos",
+    "2p": "minerardes",
+    "3p": "minerarem"
+  },
+  "Ger": {
+    "": "minerando"
+  },
+  "PresI": {
+    "1s": "minero",
+    "2s": "mineras",
+    "3s": "minera",
+    "1p": "mineramos",
+    "2p": "minerais",
+    "3p": "mineram"
+  },
+  "PImpI": {
+    "1s": "minerava",
+    "2s": "mineravas",
+    "3s": "minerava",
+    "1p": "minerávamos",
+    "2p": "mineráveis",
+    "3p": "mineravam"
+  },
+  "PPSI": {
+    "1s": "minerei",
+    "2s": "mineraste",
+    "3s": "minerou",
+    "1p": "minerámos",
+    "2p": "minerastes",
+    "3p": "mineraram"
+  },
+  "PMQPSI": {
+    "1s": "minerara",
+    "2s": "mineraras",
+    "3s": "minerara",
+    "1p": "mineráramos",
+    "2p": "mineráreis",
+    "3p": "mineraram"
+  },
+  "FutSI": {
+    "1s": "minerarei",
+    "2s": "minerarás",
+    "3s": "minerará",
+    "1p": "mineraremos",
+    "2p": "minerareis",
+    "3p": "minerarão"
+  },
+  "CondS": {
+    "1s": "mineraria",
+    "2s": "minerarias",
+    "3s": "mineraria",
+    "1p": "mineraríamos",
+    "2p": "mineraríeis",
+    "3p": "minerariam"
+  },
+  "PresC": {
+    "1s": "minere",
+    "2s": "mineres",
+    "3s": "minere",
+    "1p": "mineremos",
+    "2p": "minereis",
+    "3p": "minerem"
+  },
+  "PImpC": {
+    "1s": "minerasse",
+    "2s": "minerasses",
+    "3s": "minerasse",
+    "1p": "minerássemos",
+    "2p": "minerásseis",
+    "3p": "minerassem"
+  },
+  "FutSC": {
+    "1s": "minerar",
+    "2s": "minerares",
+    "3s": "minerar",
+    "1p": "minerarmos",
+    "2p": "minerardes",
+    "3p": "minerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "minera",
+    "3s": "minere",
+    "1p": "mineremos",
+    "2p": "minerai",
+    "3p": "minerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mineres",
+    "3s": "não minere",
+    "1p": "não mineremos",
+    "2p": "não minereis",
+    "3p": "não minerem"
+  },
+  "Part-ter": {
+    "": "minerado"
+  },
+  "Part-ser": {
+    "ms": "minerado",
+    "fs": "minerada",
+    "mp": "minerados",
+    "fp": "mineradas"
+  }
+}

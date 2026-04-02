@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "terraformar"
+  },
+  "Ger": {
+    "": "terraformando"
+  },
+  "PresI": {
+    "1s": "terraformo",
+    "2s": "terraformas",
+    "3s": "terraforma",
+    "1p": "terraformamos",
+    "2p": "terraformáis",
+    "3p": "terraforman"
+  },
+  "PImpI": {
+    "1s": "terraformaba",
+    "2s": "terraformabas",
+    "3s": "terraformaba",
+    "1p": "terraformábamos",
+    "2p": "terraformabais",
+    "3p": "terraformaban"
+  },
+  "PPSI": {
+    "1s": "terraformé",
+    "2s": "terraformaste",
+    "3s": "terraformó",
+    "1p": "terraformamos",
+    "2p": "terraformasteis",
+    "3p": "terraformaron"
+  },
+  "FutSI": {
+    "1s": "terraformaré",
+    "2s": "terraformarás",
+    "3s": "terraformará",
+    "1p": "terraformaremos",
+    "2p": "terraformaréis",
+    "3p": "terraformarán"
+  },
+  "CondS": {
+    "1s": "terraformaría",
+    "2s": "terraformarías",
+    "3s": "terraformaría",
+    "1p": "terraformaríamos",
+    "2p": "terraformaríais",
+    "3p": "terraformarían"
+  },
+  "PresC": {
+    "1s": "terraforme",
+    "2s": "terraformes",
+    "3s": "terraforme",
+    "1p": "terraformemos",
+    "2p": "terraforméis",
+    "3p": "terraformen"
+  },
+  "PMQPSI": {
+    "1s": "terraformara",
+    "2s": "terraformaras",
+    "3s": "terraformara",
+    "1p": "terraformáramos",
+    "2p": "terraformarais",
+    "3p": "terraformaran"
+  },
+  "PImpC": {
+    "1s": "terraformase",
+    "2s": "terraformases",
+    "3s": "terraformase",
+    "1p": "terraformásemos",
+    "2p": "terraformaseis",
+    "3p": "terraformasen"
+  },
+  "FutSC": {
+    "1s": "terraformare",
+    "2s": "terraformares",
+    "3s": "terraformare",
+    "1p": "terraformáremos",
+    "2p": "terraformareis",
+    "3p": "terraformaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "terraforma",
+    "3s": "terraforme",
+    "1p": "terraformemos",
+    "2p": "terraformad",
+    "3p": "terraformen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no terraformes",
+    "3s": "no terraforme",
+    "1p": "no terraformemos",
+    "2p": "no terraforméis",
+    "3p": "no terraformen"
+  },
+  "Part-ter": {
+    "": "terraformado"
+  },
+  "Part-ser": {
+    "ms": "terraformado",
+    "fs": "terraformada",
+    "mp": "terraformados",
+    "fp": "terraformadas"
+  }
+}

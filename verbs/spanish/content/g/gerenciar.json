@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gerenciar"
+  },
+  "Ger": {
+    "": "gerenciando"
+  },
+  "PresI": {
+    "1s": "gerencio",
+    "2s": "gerencias",
+    "3s": "gerencia",
+    "1p": "gerenciamos",
+    "2p": "gerenciáis",
+    "3p": "gerencian"
+  },
+  "PImpI": {
+    "1s": "gerenciaba",
+    "2s": "gerenciabas",
+    "3s": "gerenciaba",
+    "1p": "gerenciábamos",
+    "2p": "gerenciabais",
+    "3p": "gerenciaban"
+  },
+  "PPSI": {
+    "1s": "gerencié",
+    "2s": "gerenciaste",
+    "3s": "gerenció",
+    "1p": "gerenciamos",
+    "2p": "gerenciasteis",
+    "3p": "gerenciaron"
+  },
+  "FutSI": {
+    "1s": "gerenciaré",
+    "2s": "gerenciarás",
+    "3s": "gerenciará",
+    "1p": "gerenciaremos",
+    "2p": "gerenciaréis",
+    "3p": "gerenciarán"
+  },
+  "CondS": {
+    "1s": "gerenciaría",
+    "2s": "gerenciarías",
+    "3s": "gerenciaría",
+    "1p": "gerenciaríamos",
+    "2p": "gerenciaríais",
+    "3p": "gerenciarían"
+  },
+  "PresC": {
+    "1s": "gerencie",
+    "2s": "gerencies",
+    "3s": "gerencie",
+    "1p": "gerenciemos",
+    "2p": "gerenciéis",
+    "3p": "gerencien"
+  },
+  "PMQPSI": {
+    "1s": "gerenciara",
+    "2s": "gerenciaras",
+    "3s": "gerenciara",
+    "1p": "gerenciáramos",
+    "2p": "gerenciarais",
+    "3p": "gerenciaran"
+  },
+  "PImpC": {
+    "1s": "gerenciase",
+    "2s": "gerenciases",
+    "3s": "gerenciase",
+    "1p": "gerenciásemos",
+    "2p": "gerenciaseis",
+    "3p": "gerenciasen"
+  },
+  "FutSC": {
+    "1s": "gerenciare",
+    "2s": "gerenciares",
+    "3s": "gerenciare",
+    "1p": "gerenciáremos",
+    "2p": "gerenciareis",
+    "3p": "gerenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gerencia",
+    "3s": "gerencie",
+    "1p": "gerenciemos",
+    "2p": "gerenciad",
+    "3p": "gerencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gerencies",
+    "3s": "no gerencie",
+    "1p": "no gerenciemos",
+    "2p": "no gerenciéis",
+    "3p": "no gerencien"
+  },
+  "Part-ter": {
+    "": "gerenciado"
+  },
+  "Part-ser": {
+    "ms": "gerenciado",
+    "fs": "gerenciada",
+    "mp": "gerenciados",
+    "fp": "gerenciadas"
+  }
+}

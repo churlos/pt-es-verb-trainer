@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "habitar"
+  },
+  "Ger": {
+    "": "habitando"
+  },
+  "PresI": {
+    "1s": "habito",
+    "2s": "habitas",
+    "3s": "habita",
+    "1p": "habitamos",
+    "2p": "habitáis",
+    "3p": "habitan"
+  },
+  "PImpI": {
+    "1s": "habitaba",
+    "2s": "habitabas",
+    "3s": "habitaba",
+    "1p": "habitábamos",
+    "2p": "habitabais",
+    "3p": "habitaban"
+  },
+  "PPSI": {
+    "1s": "habité",
+    "2s": "habitaste",
+    "3s": "habitó",
+    "1p": "habitamos",
+    "2p": "habitasteis",
+    "3p": "habitaron"
+  },
+  "FutSI": {
+    "1s": "habitaré",
+    "2s": "habitarás",
+    "3s": "habitará",
+    "1p": "habitaremos",
+    "2p": "habitaréis",
+    "3p": "habitarán"
+  },
+  "CondS": {
+    "1s": "habitaría",
+    "2s": "habitarías",
+    "3s": "habitaría",
+    "1p": "habitaríamos",
+    "2p": "habitaríais",
+    "3p": "habitarían"
+  },
+  "PresC": {
+    "1s": "habite",
+    "2s": "habites",
+    "3s": "habite",
+    "1p": "habitemos",
+    "2p": "habitéis",
+    "3p": "habiten"
+  },
+  "PMQPSI": {
+    "1s": "habitara",
+    "2s": "habitaras",
+    "3s": "habitara",
+    "1p": "habitáramos",
+    "2p": "habitarais",
+    "3p": "habitaran"
+  },
+  "PImpC": {
+    "1s": "habitase",
+    "2s": "habitases",
+    "3s": "habitase",
+    "1p": "habitásemos",
+    "2p": "habitaseis",
+    "3p": "habitasen"
+  },
+  "FutSC": {
+    "1s": "habitare",
+    "2s": "habitares",
+    "3s": "habitare",
+    "1p": "habitáremos",
+    "2p": "habitareis",
+    "3p": "habitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "habita",
+    "3s": "habite",
+    "1p": "habitemos",
+    "2p": "habitad",
+    "3p": "habiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no habites",
+    "3s": "no habite",
+    "1p": "no habitemos",
+    "2p": "no habitéis",
+    "3p": "no habiten"
+  },
+  "Part-ter": {
+    "": "habitado"
+  },
+  "Part-ser": {
+    "ms": "habitado",
+    "fs": "habitada",
+    "mp": "habitados",
+    "fp": "habitadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esperar"
+  },
+  "InfP": {
+    "1s": "esperar",
+    "2s": "esperares",
+    "3s": "esperar",
+    "1p": "esperarmos",
+    "2p": "esperardes",
+    "3p": "esperarem"
+  },
+  "Ger": {
+    "": "esperando"
+  },
+  "PresI": {
+    "1s": "espero",
+    "2s": "esperas",
+    "3s": "espera",
+    "1p": "esperamos",
+    "2p": "esperais",
+    "3p": "esperam"
+  },
+  "PImpI": {
+    "1s": "esperava",
+    "2s": "esperavas",
+    "3s": "esperava",
+    "1p": "esperávamos",
+    "2p": "esperáveis",
+    "3p": "esperavam"
+  },
+  "PPSI": {
+    "1s": "esperei",
+    "2s": "esperaste",
+    "3s": "esperou",
+    "1p": "esperámos",
+    "2p": "esperastes",
+    "3p": "esperaram"
+  },
+  "PMQPSI": {
+    "1s": "esperara",
+    "2s": "esperaras",
+    "3s": "esperara",
+    "1p": "esperáramos",
+    "2p": "esperáreis",
+    "3p": "esperaram"
+  },
+  "FutSI": {
+    "1s": "esperarei",
+    "2s": "esperarás",
+    "3s": "esperará",
+    "1p": "esperaremos",
+    "2p": "esperareis",
+    "3p": "esperarão"
+  },
+  "CondS": {
+    "1s": "esperaria",
+    "2s": "esperarias",
+    "3s": "esperaria",
+    "1p": "esperaríamos",
+    "2p": "esperaríeis",
+    "3p": "esperariam"
+  },
+  "PresC": {
+    "1s": "espere",
+    "2s": "esperes",
+    "3s": "espere",
+    "1p": "esperemos",
+    "2p": "espereis",
+    "3p": "esperem"
+  },
+  "PImpC": {
+    "1s": "esperasse",
+    "2s": "esperasses",
+    "3s": "esperasse",
+    "1p": "esperássemos",
+    "2p": "esperásseis",
+    "3p": "esperassem"
+  },
+  "FutSC": {
+    "1s": "esperar",
+    "2s": "esperares",
+    "3s": "esperar",
+    "1p": "esperarmos",
+    "2p": "esperardes",
+    "3p": "esperarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "espera",
+    "3s": "espere",
+    "1p": "esperemos",
+    "2p": "esperai",
+    "3p": "esperem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esperes",
+    "3s": "não espere",
+    "1p": "não esperemos",
+    "2p": "não espereis",
+    "3p": "não esperem"
+  },
+  "Part-ter": {
+    "": "esperado"
+  },
+  "Part-ser": {
+    "ms": "esperado",
+    "fs": "esperada",
+    "mp": "esperados",
+    "fp": "esperadas"
+  }
+}

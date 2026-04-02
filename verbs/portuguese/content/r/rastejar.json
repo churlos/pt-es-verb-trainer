@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rastejar"
+  },
+  "InfP": {
+    "1s": "rastejar",
+    "2s": "rastejares",
+    "3s": "rastejar",
+    "1p": "rastejarmos",
+    "2p": "rastejardes",
+    "3p": "rastejarem"
+  },
+  "Ger": {
+    "": "rastejando"
+  },
+  "PresI": {
+    "1s": "rastejo",
+    "2s": "rastejas",
+    "3s": "rasteja",
+    "1p": "rastejamos",
+    "2p": "rastejais",
+    "3p": "rastejam"
+  },
+  "PImpI": {
+    "1s": "rastejava",
+    "2s": "rastejavas",
+    "3s": "rastejava",
+    "1p": "rastejávamos",
+    "2p": "rastejáveis",
+    "3p": "rastejavam"
+  },
+  "PPSI": {
+    "1s": "rastejei",
+    "2s": "rastejaste",
+    "3s": "rastejou",
+    "1p": "rastejámos",
+    "2p": "rastejastes",
+    "3p": "rastejaram"
+  },
+  "PMQPSI": {
+    "1s": "rastejara",
+    "2s": "rastejaras",
+    "3s": "rastejara",
+    "1p": "rastejáramos",
+    "2p": "rastejáreis",
+    "3p": "rastejaram"
+  },
+  "FutSI": {
+    "1s": "rastejarei",
+    "2s": "rastejarás",
+    "3s": "rastejará",
+    "1p": "rastejaremos",
+    "2p": "rastejareis",
+    "3p": "rastejarão"
+  },
+  "CondS": {
+    "1s": "rastejaria",
+    "2s": "rastejarias",
+    "3s": "rastejaria",
+    "1p": "rastejaríamos",
+    "2p": "rastejaríeis",
+    "3p": "rastejariam"
+  },
+  "PresC": {
+    "1s": "rasteje",
+    "2s": "rastejes",
+    "3s": "rasteje",
+    "1p": "rastejemos",
+    "2p": "rastejeis",
+    "3p": "rastejem"
+  },
+  "PImpC": {
+    "1s": "rastejasse",
+    "2s": "rastejasses",
+    "3s": "rastejasse",
+    "1p": "rastejássemos",
+    "2p": "rastejásseis",
+    "3p": "rastejassem"
+  },
+  "FutSC": {
+    "1s": "rastejar",
+    "2s": "rastejares",
+    "3s": "rastejar",
+    "1p": "rastejarmos",
+    "2p": "rastejardes",
+    "3p": "rastejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rasteja",
+    "3s": "rasteje",
+    "1p": "rastejemos",
+    "2p": "rastejai",
+    "3p": "rastejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rastejes",
+    "3s": "não rasteje",
+    "1p": "não rastejemos",
+    "2p": "não rastejeis",
+    "3p": "não rastejem"
+  },
+  "Part-ter": {
+    "": "rastejado"
+  },
+  "Part-ser": {
+    "ms": "rastejado",
+    "fs": "rastejada",
+    "mp": "rastejados",
+    "fp": "rastejadas"
+  }
+}

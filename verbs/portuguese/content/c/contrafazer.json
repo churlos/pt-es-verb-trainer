@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "contrafazer"
+  },
+  "InfP": {
+    "1s": "contrafazer",
+    "2s": "contrafazeres",
+    "3s": "contrafazer",
+    "1p": "contrafazermos",
+    "2p": "contrafazerdes",
+    "3p": "contrafazerem"
+  },
+  "Ger": {
+    "": "contrafazendo"
+  },
+  "PresI": {
+    "1s": "contrafaço",
+    "2s": "contrafazes",
+    "3s": "contrafaz",
+    "1p": "contrafazemos",
+    "2p": "contrafazeis",
+    "3p": "contrafazem"
+  },
+  "PImpI": {
+    "1s": "contrafazia",
+    "2s": "contrafazias",
+    "3s": "contrafazia",
+    "1p": "contrafazíamos",
+    "2p": "contrafazíeis",
+    "3p": "contrafaziam"
+  },
+  "PPSI": {
+    "1s": "contrafiz",
+    "2s": "contrafizeste",
+    "3s": "contrafez",
+    "1p": "contrafizemos",
+    "2p": "contrafizestes",
+    "3p": "contrafizeram"
+  },
+  "PMQPSI": {
+    "1s": "contrafizera",
+    "2s": "contrafizeras",
+    "3s": "contrafizera",
+    "1p": "contrafizéramos",
+    "2p": "contrafizéreis",
+    "3p": "contrafizeram"
+  },
+  "FutSI": {
+    "1s": "contrafarei",
+    "2s": "contrafarás",
+    "3s": "contrafará",
+    "1p": "contrafaremos",
+    "2p": "contrafareis",
+    "3p": "contrafarão"
+  },
+  "CondS": {
+    "1s": "contrafaria",
+    "2s": "contrafarias",
+    "3s": "contrafaria",
+    "1p": "contrafaríamos",
+    "2p": "contrafaríeis",
+    "3p": "contrafariam"
+  },
+  "PresC": {
+    "1s": "contrafaça",
+    "2s": "contrafaças",
+    "3s": "contrafaça",
+    "1p": "contrafaçamos",
+    "2p": "contrafaçais",
+    "3p": "contrafaçam"
+  },
+  "PImpC": {
+    "1s": "contrafizesse",
+    "2s": "contrafizesses",
+    "3s": "contrafizesse",
+    "1p": "contrafizéssemos",
+    "2p": "contrafizésseis",
+    "3p": "contrafizessem"
+  },
+  "FutSC": {
+    "1s": "contrafizer",
+    "2s": "contrafizeres",
+    "3s": "contrafizer",
+    "1p": "contrafizermos",
+    "2p": "contrafizerdes",
+    "3p": "contrafizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contrafazcontrafaze",
+    "3s": "contrafaça",
+    "1p": "contrafaçamos",
+    "2p": "contrafazei",
+    "3p": "contrafaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contrafaças",
+    "3s": "não contrafaça",
+    "1p": "não contrafaçamos",
+    "2p": "não contrafaçais",
+    "3p": "não contrafaçam"
+  },
+  "Part-ter": {
+    "": "contrafeito"
+  },
+  "Part-ser": {
+    "ms": "contrafeito",
+    "fs": "contrafeita",
+    "mp": "contrafeitos",
+    "fp": "contrafeitas"
+  }
+}

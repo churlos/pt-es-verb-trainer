@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "auditar"
+  },
+  "Ger": {
+    "": "auditando"
+  },
+  "PresI": {
+    "1s": "audito",
+    "2s": "auditas",
+    "3s": "audita",
+    "1p": "auditamos",
+    "2p": "auditáis",
+    "3p": "auditan"
+  },
+  "PImpI": {
+    "1s": "auditaba",
+    "2s": "auditabas",
+    "3s": "auditaba",
+    "1p": "auditábamos",
+    "2p": "auditabais",
+    "3p": "auditaban"
+  },
+  "PPSI": {
+    "1s": "audité",
+    "2s": "auditaste",
+    "3s": "auditó",
+    "1p": "auditamos",
+    "2p": "auditasteis",
+    "3p": "auditaron"
+  },
+  "FutSI": {
+    "1s": "auditaré",
+    "2s": "auditarás",
+    "3s": "auditará",
+    "1p": "auditaremos",
+    "2p": "auditaréis",
+    "3p": "auditarán"
+  },
+  "CondS": {
+    "1s": "auditaría",
+    "2s": "auditarías",
+    "3s": "auditaría",
+    "1p": "auditaríamos",
+    "2p": "auditaríais",
+    "3p": "auditarían"
+  },
+  "PresC": {
+    "1s": "audite",
+    "2s": "audites",
+    "3s": "audite",
+    "1p": "auditemos",
+    "2p": "auditéis",
+    "3p": "auditen"
+  },
+  "PMQPSI": {
+    "1s": "auditara",
+    "2s": "auditaras",
+    "3s": "auditara",
+    "1p": "auditáramos",
+    "2p": "auditarais",
+    "3p": "auditaran"
+  },
+  "PImpC": {
+    "1s": "auditase",
+    "2s": "auditases",
+    "3s": "auditase",
+    "1p": "auditásemos",
+    "2p": "auditaseis",
+    "3p": "auditasen"
+  },
+  "FutSC": {
+    "1s": "auditare",
+    "2s": "auditares",
+    "3s": "auditare",
+    "1p": "auditáremos",
+    "2p": "auditareis",
+    "3p": "auditaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "audita",
+    "3s": "audite",
+    "1p": "auditemos",
+    "2p": "auditad",
+    "3p": "auditen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no audites",
+    "3s": "no audite",
+    "1p": "no auditemos",
+    "2p": "no auditéis",
+    "3p": "no auditen"
+  },
+  "Part-ter": {
+    "": "auditado"
+  },
+  "Part-ser": {
+    "ms": "auditado",
+    "fs": "auditada",
+    "mp": "auditados",
+    "fp": "auditadas"
+  }
+}

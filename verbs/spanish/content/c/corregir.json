@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "corregir"
+  },
+  "Ger": {
+    "": "corrigiendo"
+  },
+  "PresI": {
+    "1s": "corrijo",
+    "2s": "corriges",
+    "3s": "corrige",
+    "1p": "corregimos",
+    "2p": "corregís",
+    "3p": "corrigen"
+  },
+  "PImpI": {
+    "1s": "corregía",
+    "2s": "corregías",
+    "3s": "corregía",
+    "1p": "corregíamos",
+    "2p": "corregíais",
+    "3p": "corregían"
+  },
+  "PPSI": {
+    "1s": "corregí",
+    "2s": "corregiste",
+    "3s": "corrigió",
+    "1p": "corregimos",
+    "2p": "corregisteis",
+    "3p": "corrigieron"
+  },
+  "FutSI": {
+    "1s": "corregiré",
+    "2s": "corregirás",
+    "3s": "corregirá",
+    "1p": "corregiremos",
+    "2p": "corregiréis",
+    "3p": "corregirán"
+  },
+  "CondS": {
+    "1s": "corregiría",
+    "2s": "corregirías",
+    "3s": "corregiría",
+    "1p": "corregiríamos",
+    "2p": "corregiríais",
+    "3p": "corregirían"
+  },
+  "PresC": {
+    "1s": "corrija",
+    "2s": "corrijas",
+    "3s": "corrija",
+    "1p": "corrijamos",
+    "2p": "corrijáis",
+    "3p": "corrijan"
+  },
+  "PMQPSI": {
+    "1s": "corrigiera",
+    "2s": "corrigieras",
+    "3s": "corrigiera",
+    "1p": "corrigiéramos",
+    "2p": "corrigierais",
+    "3p": "corrigieran"
+  },
+  "PImpC": {
+    "1s": "corrigiese",
+    "2s": "corrigieses",
+    "3s": "corrigiese",
+    "1p": "corrigiésemos",
+    "2p": "corrigieseis",
+    "3p": "corrigiesen"
+  },
+  "FutSC": {
+    "1s": "corrigiere",
+    "2s": "corrigieres",
+    "3s": "corrigiere",
+    "1p": "corrigiéremos",
+    "2p": "corrigiereis",
+    "3p": "corrigieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corrige",
+    "3s": "corrija",
+    "1p": "corrijamos",
+    "2p": "corregid",
+    "3p": "corrijan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no corrijas",
+    "3s": "no corrija",
+    "1p": "no corrijamos",
+    "2p": "no corrijáis",
+    "3p": "no corrijan"
+  },
+  "Part-ter": {
+    "": "corregido, correcto"
+  },
+  "Part-ser": {
+    "ms": "corregido, correcto",
+    "fs": "corregida, correcta",
+    "mp": "corregidos, correctos",
+    "fp": "corregidas, correctas"
+  }
+}

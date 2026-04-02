@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "flanquear"
+  },
+  "Ger": {
+    "": "flanqueando"
+  },
+  "PresI": {
+    "1s": "flanqueo",
+    "2s": "flanqueas",
+    "3s": "flanquea",
+    "1p": "flanqueamos",
+    "2p": "flanqueáis",
+    "3p": "flanquean"
+  },
+  "PImpI": {
+    "1s": "flanqueaba",
+    "2s": "flanqueabas",
+    "3s": "flanqueaba",
+    "1p": "flanqueábamos",
+    "2p": "flanqueabais",
+    "3p": "flanqueaban"
+  },
+  "PPSI": {
+    "1s": "flanqueé",
+    "2s": "flanqueaste",
+    "3s": "flanqueó",
+    "1p": "flanqueamos",
+    "2p": "flanqueasteis",
+    "3p": "flanquearon"
+  },
+  "FutSI": {
+    "1s": "flanquearé",
+    "2s": "flanquearás",
+    "3s": "flanqueará",
+    "1p": "flanquearemos",
+    "2p": "flanquearéis",
+    "3p": "flanquearán"
+  },
+  "CondS": {
+    "1s": "flanquearía",
+    "2s": "flanquearías",
+    "3s": "flanquearía",
+    "1p": "flanquearíamos",
+    "2p": "flanquearíais",
+    "3p": "flanquearían"
+  },
+  "PresC": {
+    "1s": "flanquee",
+    "2s": "flanquees",
+    "3s": "flanquee",
+    "1p": "flanqueemos",
+    "2p": "flanqueéis",
+    "3p": "flanqueen"
+  },
+  "PMQPSI": {
+    "1s": "flanqueara",
+    "2s": "flanquearas",
+    "3s": "flanqueara",
+    "1p": "flanqueáramos",
+    "2p": "flanquearais",
+    "3p": "flanquearan"
+  },
+  "PImpC": {
+    "1s": "flanquease",
+    "2s": "flanqueases",
+    "3s": "flanquease",
+    "1p": "flanqueásemos",
+    "2p": "flanqueaseis",
+    "3p": "flanqueasen"
+  },
+  "FutSC": {
+    "1s": "flanqueare",
+    "2s": "flanqueares",
+    "3s": "flanqueare",
+    "1p": "flanqueáremos",
+    "2p": "flanqueareis",
+    "3p": "flanquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flanquea",
+    "3s": "flanquee",
+    "1p": "flanqueemos",
+    "2p": "flanquead",
+    "3p": "flanqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no flanquees",
+    "3s": "no flanquee",
+    "1p": "no flanqueemos",
+    "2p": "no flanqueéis",
+    "3p": "no flanqueen"
+  },
+  "Part-ter": {
+    "": "flanqueado"
+  },
+  "Part-ser": {
+    "ms": "flanqueado",
+    "fs": "flanqueada",
+    "mp": "flanqueados",
+    "fp": "flanqueadas"
+  }
+}

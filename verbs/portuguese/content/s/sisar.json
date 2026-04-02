@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sisar"
+  },
+  "InfP": {
+    "1s": "sisar",
+    "2s": "sisares",
+    "3s": "sisar",
+    "1p": "sisarmos",
+    "2p": "sisardes",
+    "3p": "sisarem"
+  },
+  "Ger": {
+    "": "sisando"
+  },
+  "PresI": {
+    "1s": "siso",
+    "2s": "sisas",
+    "3s": "sisa",
+    "1p": "sisamos",
+    "2p": "sisais",
+    "3p": "sisam"
+  },
+  "PImpI": {
+    "1s": "sisava",
+    "2s": "sisavas",
+    "3s": "sisava",
+    "1p": "sisávamos",
+    "2p": "sisáveis",
+    "3p": "sisavam"
+  },
+  "PPSI": {
+    "1s": "sisei",
+    "2s": "sisaste",
+    "3s": "sisou",
+    "1p": "sisámos",
+    "2p": "sisastes",
+    "3p": "sisaram"
+  },
+  "PMQPSI": {
+    "1s": "sisara",
+    "2s": "sisaras",
+    "3s": "sisara",
+    "1p": "sisáramos",
+    "2p": "sisáreis",
+    "3p": "sisaram"
+  },
+  "FutSI": {
+    "1s": "sisarei",
+    "2s": "sisarás",
+    "3s": "sisará",
+    "1p": "sisaremos",
+    "2p": "sisareis",
+    "3p": "sisarão"
+  },
+  "CondS": {
+    "1s": "sisaria",
+    "2s": "sisarias",
+    "3s": "sisaria",
+    "1p": "sisaríamos",
+    "2p": "sisaríeis",
+    "3p": "sisariam"
+  },
+  "PresC": {
+    "1s": "sise",
+    "2s": "sises",
+    "3s": "sise",
+    "1p": "sisemos",
+    "2p": "siseis",
+    "3p": "sisem"
+  },
+  "PImpC": {
+    "1s": "sisasse",
+    "2s": "sisasses",
+    "3s": "sisasse",
+    "1p": "sisássemos",
+    "2p": "sisásseis",
+    "3p": "sisassem"
+  },
+  "FutSC": {
+    "1s": "sisar",
+    "2s": "sisares",
+    "3s": "sisar",
+    "1p": "sisarmos",
+    "2p": "sisardes",
+    "3p": "sisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sisa",
+    "3s": "sise",
+    "1p": "sisemos",
+    "2p": "sisai",
+    "3p": "sisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sises",
+    "3s": "não sise",
+    "1p": "não sisemos",
+    "2p": "não siseis",
+    "3p": "não sisem"
+  },
+  "Part-ter": {
+    "": "sisado"
+  },
+  "Part-ser": {
+    "ms": "sisado",
+    "fs": "sisada",
+    "mp": "sisados",
+    "fp": "sisadas"
+  }
+}

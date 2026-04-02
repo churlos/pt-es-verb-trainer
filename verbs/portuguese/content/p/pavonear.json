@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pavonear"
+  },
+  "InfP": {
+    "1s": "pavonear",
+    "2s": "pavoneares",
+    "3s": "pavonear",
+    "1p": "pavonearmos",
+    "2p": "pavoneardes",
+    "3p": "pavonearem"
+  },
+  "Ger": {
+    "": "pavoneando"
+  },
+  "PresI": {
+    "1s": "pavoneio",
+    "2s": "pavoneias",
+    "3s": "pavoneia",
+    "1p": "pavoneamos",
+    "2p": "pavoneais",
+    "3p": "pavoneiam"
+  },
+  "PImpI": {
+    "1s": "pavoneava",
+    "2s": "pavoneavas",
+    "3s": "pavoneava",
+    "1p": "pavoneávamos",
+    "2p": "pavoneáveis",
+    "3p": "pavoneavam"
+  },
+  "PPSI": {
+    "1s": "pavoneei",
+    "2s": "pavoneaste",
+    "3s": "pavoneou",
+    "1p": "pavoneámos",
+    "2p": "pavoneastes",
+    "3p": "pavonearam"
+  },
+  "PMQPSI": {
+    "1s": "pavoneara",
+    "2s": "pavonearas",
+    "3s": "pavoneara",
+    "1p": "pavoneáramos",
+    "2p": "pavoneáreis",
+    "3p": "pavonearam"
+  },
+  "FutSI": {
+    "1s": "pavonearei",
+    "2s": "pavonearás",
+    "3s": "pavoneará",
+    "1p": "pavonearemos",
+    "2p": "pavoneareis",
+    "3p": "pavonearão"
+  },
+  "CondS": {
+    "1s": "pavonearia",
+    "2s": "pavonearias",
+    "3s": "pavonearia",
+    "1p": "pavonearíamos",
+    "2p": "pavonearíeis",
+    "3p": "pavoneariam"
+  },
+  "PresC": {
+    "1s": "pavoneie",
+    "2s": "pavoneies",
+    "3s": "pavoneie",
+    "1p": "pavoneemos",
+    "2p": "pavoneeis",
+    "3p": "pavoneiem"
+  },
+  "PImpC": {
+    "1s": "pavoneasse",
+    "2s": "pavoneasses",
+    "3s": "pavoneasse",
+    "1p": "pavoneássemos",
+    "2p": "pavoneásseis",
+    "3p": "pavoneassem"
+  },
+  "FutSC": {
+    "1s": "pavonear",
+    "2s": "pavoneares",
+    "3s": "pavonear",
+    "1p": "pavonearmos",
+    "2p": "pavoneardes",
+    "3p": "pavonearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pavoneia",
+    "3s": "pavoneie",
+    "1p": "pavoneemos",
+    "2p": "pavoneai",
+    "3p": "pavoneiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pavoneies",
+    "3s": "não pavoneie",
+    "1p": "não pavoneemos",
+    "2p": "não pavoneeis",
+    "3p": "não pavoneiem"
+  },
+  "Part-ter": {
+    "": "pavoneado"
+  },
+  "Part-ser": {
+    "ms": "pavoneado",
+    "fs": "pavoneada",
+    "mp": "pavoneados",
+    "fp": "pavoneadas"
+  }
+}

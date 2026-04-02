@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suspirar"
+  },
+  "InfP": {
+    "1s": "suspirar",
+    "2s": "suspirares",
+    "3s": "suspirar",
+    "1p": "suspirarmos",
+    "2p": "suspirardes",
+    "3p": "suspirarem"
+  },
+  "Ger": {
+    "": "suspirando"
+  },
+  "PresI": {
+    "1s": "suspiro",
+    "2s": "suspiras",
+    "3s": "suspira",
+    "1p": "suspiramos",
+    "2p": "suspirais",
+    "3p": "suspiram"
+  },
+  "PImpI": {
+    "1s": "suspirava",
+    "2s": "suspiravas",
+    "3s": "suspirava",
+    "1p": "suspirávamos",
+    "2p": "suspiráveis",
+    "3p": "suspiravam"
+  },
+  "PPSI": {
+    "1s": "suspirei",
+    "2s": "suspiraste",
+    "3s": "suspirou",
+    "1p": "suspirámos",
+    "2p": "suspirastes",
+    "3p": "suspiraram"
+  },
+  "PMQPSI": {
+    "1s": "suspirara",
+    "2s": "suspiraras",
+    "3s": "suspirara",
+    "1p": "suspiráramos",
+    "2p": "suspiráreis",
+    "3p": "suspiraram"
+  },
+  "FutSI": {
+    "1s": "suspirarei",
+    "2s": "suspirarás",
+    "3s": "suspirará",
+    "1p": "suspiraremos",
+    "2p": "suspirareis",
+    "3p": "suspirarão"
+  },
+  "CondS": {
+    "1s": "suspiraria",
+    "2s": "suspirarias",
+    "3s": "suspiraria",
+    "1p": "suspiraríamos",
+    "2p": "suspiraríeis",
+    "3p": "suspirariam"
+  },
+  "PresC": {
+    "1s": "suspire",
+    "2s": "suspires",
+    "3s": "suspire",
+    "1p": "suspiremos",
+    "2p": "suspireis",
+    "3p": "suspirem"
+  },
+  "PImpC": {
+    "1s": "suspirasse",
+    "2s": "suspirasses",
+    "3s": "suspirasse",
+    "1p": "suspirássemos",
+    "2p": "suspirásseis",
+    "3p": "suspirassem"
+  },
+  "FutSC": {
+    "1s": "suspirar",
+    "2s": "suspirares",
+    "3s": "suspirar",
+    "1p": "suspirarmos",
+    "2p": "suspirardes",
+    "3p": "suspirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suspira",
+    "3s": "suspire",
+    "1p": "suspiremos",
+    "2p": "suspirai",
+    "3p": "suspirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não suspires",
+    "3s": "não suspire",
+    "1p": "não suspiremos",
+    "2p": "não suspireis",
+    "3p": "não suspirem"
+  },
+  "Part-ter": {
+    "": "suspirado"
+  },
+  "Part-ser": {
+    "ms": "suspirado",
+    "fs": "suspirada",
+    "mp": "suspirados",
+    "fp": "suspiradas"
+  }
+}

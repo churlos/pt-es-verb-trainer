@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gemir"
+  },
+  "Ger": {
+    "": "gimiendo"
+  },
+  "PresI": {
+    "1s": "gimo",
+    "2s": "gimes",
+    "3s": "gime",
+    "1p": "gemimos",
+    "2p": "gemís",
+    "3p": "gimen"
+  },
+  "PImpI": {
+    "1s": "gemía",
+    "2s": "gemías",
+    "3s": "gemía",
+    "1p": "gemíamos",
+    "2p": "gemíais",
+    "3p": "gemían"
+  },
+  "PPSI": {
+    "1s": "gemí",
+    "2s": "gemiste",
+    "3s": "gimió",
+    "1p": "gemimos",
+    "2p": "gemisteis",
+    "3p": "gimieron"
+  },
+  "FutSI": {
+    "1s": "gemiré",
+    "2s": "gemirás",
+    "3s": "gemirá",
+    "1p": "gemiremos",
+    "2p": "gemiréis",
+    "3p": "gemirán"
+  },
+  "CondS": {
+    "1s": "gemiría",
+    "2s": "gemirías",
+    "3s": "gemiría",
+    "1p": "gemiríamos",
+    "2p": "gemiríais",
+    "3p": "gemirían"
+  },
+  "PresC": {
+    "1s": "gima",
+    "2s": "gimas",
+    "3s": "gima",
+    "1p": "gimamos",
+    "2p": "gimáis",
+    "3p": "giman"
+  },
+  "PMQPSI": {
+    "1s": "gimiera",
+    "2s": "gimieras",
+    "3s": "gimiera",
+    "1p": "gimiéramos",
+    "2p": "gimierais",
+    "3p": "gimieran"
+  },
+  "PImpC": {
+    "1s": "gimiese",
+    "2s": "gimieses",
+    "3s": "gimiese",
+    "1p": "gimiésemos",
+    "2p": "gimieseis",
+    "3p": "gimiesen"
+  },
+  "FutSC": {
+    "1s": "gimiere",
+    "2s": "gimieres",
+    "3s": "gimiere",
+    "1p": "gimiéremos",
+    "2p": "gimiereis",
+    "3p": "gimieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gime",
+    "3s": "gima",
+    "1p": "gimamos",
+    "2p": "gemid",
+    "3p": "giman"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gimas",
+    "3s": "no gima",
+    "1p": "no gimamos",
+    "2p": "no gimáis",
+    "3p": "no giman"
+  },
+  "Part-ter": {
+    "": "gemido"
+  },
+  "Part-ser": {
+    "ms": "gemido",
+    "fs": "gemida",
+    "mp": "gemidos",
+    "fp": "gemidas"
+  }
+}

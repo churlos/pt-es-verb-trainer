@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aplazar"
+  },
+  "Ger": {
+    "": "aplazando"
+  },
+  "PresI": {
+    "1s": "aplazo",
+    "2s": "aplazas",
+    "3s": "aplaza",
+    "1p": "aplazamos",
+    "2p": "aplazáis",
+    "3p": "aplazan"
+  },
+  "PImpI": {
+    "1s": "aplazaba",
+    "2s": "aplazabas",
+    "3s": "aplazaba",
+    "1p": "aplazábamos",
+    "2p": "aplazabais",
+    "3p": "aplazaban"
+  },
+  "PPSI": {
+    "1s": "aplacé",
+    "2s": "aplazaste",
+    "3s": "aplazó",
+    "1p": "aplazamos",
+    "2p": "aplazasteis",
+    "3p": "aplazaron"
+  },
+  "FutSI": {
+    "1s": "aplazaré",
+    "2s": "aplazarás",
+    "3s": "aplazará",
+    "1p": "aplazaremos",
+    "2p": "aplazaréis",
+    "3p": "aplazarán"
+  },
+  "CondS": {
+    "1s": "aplazaría",
+    "2s": "aplazarías",
+    "3s": "aplazaría",
+    "1p": "aplazaríamos",
+    "2p": "aplazaríais",
+    "3p": "aplazarían"
+  },
+  "PresC": {
+    "1s": "aplace",
+    "2s": "aplaces",
+    "3s": "aplace",
+    "1p": "aplacemos",
+    "2p": "aplacéis",
+    "3p": "aplacen"
+  },
+  "PMQPSI": {
+    "1s": "aplazara",
+    "2s": "aplazaras",
+    "3s": "aplazara",
+    "1p": "aplazáramos",
+    "2p": "aplazarais",
+    "3p": "aplazaran"
+  },
+  "PImpC": {
+    "1s": "aplazase",
+    "2s": "aplazases",
+    "3s": "aplazase",
+    "1p": "aplazásemos",
+    "2p": "aplazaseis",
+    "3p": "aplazasen"
+  },
+  "FutSC": {
+    "1s": "aplazare",
+    "2s": "aplazares",
+    "3s": "aplazare",
+    "1p": "aplazáremos",
+    "2p": "aplazareis",
+    "3p": "aplazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aplaza",
+    "3s": "aplace",
+    "1p": "aplacemos",
+    "2p": "aplazad",
+    "3p": "aplacen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aplaces",
+    "3s": "no aplace",
+    "1p": "no aplacemos",
+    "2p": "no aplacéis",
+    "3p": "no aplacen"
+  },
+  "Part-ter": {
+    "": "aplazado"
+  },
+  "Part-ser": {
+    "ms": "aplazado",
+    "fs": "aplazada",
+    "mp": "aplazados",
+    "fp": "aplazadas"
+  }
+}

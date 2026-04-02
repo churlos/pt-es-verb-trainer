@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "helitransportar"
+  },
+  "Ger": {
+    "": "helitransportando"
+  },
+  "PresI": {
+    "1s": "helitransporto",
+    "2s": "helitransportas",
+    "3s": "helitransporta",
+    "1p": "helitransportamos",
+    "2p": "helitransportáis",
+    "3p": "helitransportan"
+  },
+  "PImpI": {
+    "1s": "helitransportaba",
+    "2s": "helitransportabas",
+    "3s": "helitransportaba",
+    "1p": "helitransportábamos",
+    "2p": "helitransportabais",
+    "3p": "helitransportaban"
+  },
+  "PPSI": {
+    "1s": "helitransporté",
+    "2s": "helitransportaste",
+    "3s": "helitransportó",
+    "1p": "helitransportamos",
+    "2p": "helitransportasteis",
+    "3p": "helitransportaron"
+  },
+  "FutSI": {
+    "1s": "helitransportaré",
+    "2s": "helitransportarás",
+    "3s": "helitransportará",
+    "1p": "helitransportaremos",
+    "2p": "helitransportaréis",
+    "3p": "helitransportarán"
+  },
+  "CondS": {
+    "1s": "helitransportaría",
+    "2s": "helitransportarías",
+    "3s": "helitransportaría",
+    "1p": "helitransportaríamos",
+    "2p": "helitransportaríais",
+    "3p": "helitransportarían"
+  },
+  "PresC": {
+    "1s": "helitransporte",
+    "2s": "helitransportes",
+    "3s": "helitransporte",
+    "1p": "helitransportemos",
+    "2p": "helitransportéis",
+    "3p": "helitransporten"
+  },
+  "PMQPSI": {
+    "1s": "helitransportara",
+    "2s": "helitransportaras",
+    "3s": "helitransportara",
+    "1p": "helitransportáramos",
+    "2p": "helitransportarais",
+    "3p": "helitransportaran"
+  },
+  "PImpC": {
+    "1s": "helitransportase",
+    "2s": "helitransportases",
+    "3s": "helitransportase",
+    "1p": "helitransportásemos",
+    "2p": "helitransportaseis",
+    "3p": "helitransportasen"
+  },
+  "FutSC": {
+    "1s": "helitransportare",
+    "2s": "helitransportares",
+    "3s": "helitransportare",
+    "1p": "helitransportáremos",
+    "2p": "helitransportareis",
+    "3p": "helitransportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "helitransporta",
+    "3s": "helitransporte",
+    "1p": "helitransportemos",
+    "2p": "helitransportad",
+    "3p": "helitransporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no helitransportes",
+    "3s": "no helitransporte",
+    "1p": "no helitransportemos",
+    "2p": "no helitransportéis",
+    "3p": "no helitransporten"
+  },
+  "Part-ter": {
+    "": "helitransportado"
+  },
+  "Part-ser": {
+    "ms": "helitransportado",
+    "fs": "helitransportada",
+    "mp": "helitransportados",
+    "fp": "helitransportadas"
+  }
+}

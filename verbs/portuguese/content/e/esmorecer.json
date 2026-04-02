@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esmorecer"
+  },
+  "InfP": {
+    "1s": "esmorecer",
+    "2s": "esmoreceres",
+    "3s": "esmorecer",
+    "1p": "esmorecermos",
+    "2p": "esmorecerdes",
+    "3p": "esmorecerem"
+  },
+  "Ger": {
+    "": "esmorecendo"
+  },
+  "PresI": {
+    "1s": "esmoreço",
+    "2s": "esmoreces",
+    "3s": "esmorece",
+    "1p": "esmorecemos",
+    "2p": "esmoreceis",
+    "3p": "esmorecem"
+  },
+  "PImpI": {
+    "1s": "esmorecia",
+    "2s": "esmorecias",
+    "3s": "esmorecia",
+    "1p": "esmorecíamos",
+    "2p": "esmorecíeis",
+    "3p": "esmoreciam"
+  },
+  "PPSI": {
+    "1s": "esmoreci",
+    "2s": "esmoreceste",
+    "3s": "esmoreceu",
+    "1p": "esmorecemos",
+    "2p": "esmorecestes",
+    "3p": "esmoreceram"
+  },
+  "PMQPSI": {
+    "1s": "esmorecera",
+    "2s": "esmoreceras",
+    "3s": "esmorecera",
+    "1p": "esmorecêramos",
+    "2p": "esmorecêreis",
+    "3p": "esmoreceram"
+  },
+  "FutSI": {
+    "1s": "esmorecerei",
+    "2s": "esmorecerás",
+    "3s": "esmorecerá",
+    "1p": "esmoreceremos",
+    "2p": "esmorecereis",
+    "3p": "esmorecerão"
+  },
+  "CondS": {
+    "1s": "esmoreceria",
+    "2s": "esmorecerias",
+    "3s": "esmoreceria",
+    "1p": "esmoreceríamos",
+    "2p": "esmoreceríeis",
+    "3p": "esmoreceriam"
+  },
+  "PresC": {
+    "1s": "esmoreça",
+    "2s": "esmoreças",
+    "3s": "esmoreça",
+    "1p": "esmoreçamos",
+    "2p": "esmoreçais",
+    "3p": "esmoreçam"
+  },
+  "PImpC": {
+    "1s": "esmorecesse",
+    "2s": "esmorecesses",
+    "3s": "esmorecesse",
+    "1p": "esmorecêssemos",
+    "2p": "esmorecêsseis",
+    "3p": "esmorecessem"
+  },
+  "FutSC": {
+    "1s": "esmorecer",
+    "2s": "esmoreceres",
+    "3s": "esmorecer",
+    "1p": "esmorecermos",
+    "2p": "esmorecerdes",
+    "3p": "esmorecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esmorece",
+    "3s": "esmoreça",
+    "1p": "esmoreçamos",
+    "2p": "esmorecei",
+    "3p": "esmoreçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esmoreças",
+    "3s": "não esmoreça",
+    "1p": "não esmoreçamos",
+    "2p": "não esmoreçais",
+    "3p": "não esmoreçam"
+  },
+  "Part-ter": {
+    "": "esmorecido"
+  },
+  "Part-ser": {
+    "ms": "esmorecido",
+    "fs": "esmorecida",
+    "mp": "esmorecidos",
+    "fp": "esmorecidas"
+  }
+}

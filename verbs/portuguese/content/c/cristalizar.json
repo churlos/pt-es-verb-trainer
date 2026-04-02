@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cristalizar"
+  },
+  "InfP": {
+    "1s": "cristalizar",
+    "2s": "cristalizares",
+    "3s": "cristalizar",
+    "1p": "cristalizarmos",
+    "2p": "cristalizardes",
+    "3p": "cristalizarem"
+  },
+  "Ger": {
+    "": "cristalizando"
+  },
+  "PresI": {
+    "1s": "cristalizo",
+    "2s": "cristalizas",
+    "3s": "cristaliza",
+    "1p": "cristalizamos",
+    "2p": "cristalizais",
+    "3p": "cristalizam"
+  },
+  "PImpI": {
+    "1s": "cristalizava",
+    "2s": "cristalizavas",
+    "3s": "cristalizava",
+    "1p": "cristalizávamos",
+    "2p": "cristalizáveis",
+    "3p": "cristalizavam"
+  },
+  "PPSI": {
+    "1s": "cristalizei",
+    "2s": "cristalizaste",
+    "3s": "cristalizou",
+    "1p": "cristalizámos",
+    "2p": "cristalizastes",
+    "3p": "cristalizaram"
+  },
+  "PMQPSI": {
+    "1s": "cristalizara",
+    "2s": "cristalizaras",
+    "3s": "cristalizara",
+    "1p": "cristalizáramos",
+    "2p": "cristalizáreis",
+    "3p": "cristalizaram"
+  },
+  "FutSI": {
+    "1s": "cristalizarei",
+    "2s": "cristalizarás",
+    "3s": "cristalizará",
+    "1p": "cristalizaremos",
+    "2p": "cristalizareis",
+    "3p": "cristalizarão"
+  },
+  "CondS": {
+    "1s": "cristalizaria",
+    "2s": "cristalizarias",
+    "3s": "cristalizaria",
+    "1p": "cristalizaríamos",
+    "2p": "cristalizaríeis",
+    "3p": "cristalizariam"
+  },
+  "PresC": {
+    "1s": "cristalize",
+    "2s": "cristalizes",
+    "3s": "cristalize",
+    "1p": "cristalizemos",
+    "2p": "cristalizeis",
+    "3p": "cristalizem"
+  },
+  "PImpC": {
+    "1s": "cristalizasse",
+    "2s": "cristalizasses",
+    "3s": "cristalizasse",
+    "1p": "cristalizássemos",
+    "2p": "cristalizásseis",
+    "3p": "cristalizassem"
+  },
+  "FutSC": {
+    "1s": "cristalizar",
+    "2s": "cristalizares",
+    "3s": "cristalizar",
+    "1p": "cristalizarmos",
+    "2p": "cristalizardes",
+    "3p": "cristalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cristaliza",
+    "3s": "cristalize",
+    "1p": "cristalizemos",
+    "2p": "cristalizai",
+    "3p": "cristalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cristalizes",
+    "3s": "não cristalize",
+    "1p": "não cristalizemos",
+    "2p": "não cristalizeis",
+    "3p": "não cristalizem"
+  },
+  "Part-ter": {
+    "": "cristalizado"
+  },
+  "Part-ser": {
+    "ms": "cristalizado",
+    "fs": "cristalizada",
+    "mp": "cristalizados",
+    "fp": "cristalizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encebar"
+  },
+  "Ger": {
+    "": "encebando"
+  },
+  "PresI": {
+    "1s": "encebo",
+    "2s": "encebas",
+    "3s": "enceba",
+    "1p": "encebamos",
+    "2p": "encebáis",
+    "3p": "enceban"
+  },
+  "PImpI": {
+    "1s": "encebaba",
+    "2s": "encebabas",
+    "3s": "encebaba",
+    "1p": "encebábamos",
+    "2p": "encebabais",
+    "3p": "encebaban"
+  },
+  "PPSI": {
+    "1s": "encebé",
+    "2s": "encebaste",
+    "3s": "encebó",
+    "1p": "encebamos",
+    "2p": "encebasteis",
+    "3p": "encebaron"
+  },
+  "FutSI": {
+    "1s": "encebaré",
+    "2s": "encebarás",
+    "3s": "encebará",
+    "1p": "encebaremos",
+    "2p": "encebaréis",
+    "3p": "encebarán"
+  },
+  "CondS": {
+    "1s": "encebaría",
+    "2s": "encebarías",
+    "3s": "encebaría",
+    "1p": "encebaríamos",
+    "2p": "encebaríais",
+    "3p": "encebarían"
+  },
+  "PresC": {
+    "1s": "encebe",
+    "2s": "encebes",
+    "3s": "encebe",
+    "1p": "encebemos",
+    "2p": "encebéis",
+    "3p": "enceben"
+  },
+  "PMQPSI": {
+    "1s": "encebara",
+    "2s": "encebaras",
+    "3s": "encebara",
+    "1p": "encebáramos",
+    "2p": "encebarais",
+    "3p": "encebaran"
+  },
+  "PImpC": {
+    "1s": "encebase",
+    "2s": "encebases",
+    "3s": "encebase",
+    "1p": "encebásemos",
+    "2p": "encebaseis",
+    "3p": "encebasen"
+  },
+  "FutSC": {
+    "1s": "encebare",
+    "2s": "encebares",
+    "3s": "encebare",
+    "1p": "encebáremos",
+    "2p": "encebareis",
+    "3p": "encebaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enceba",
+    "3s": "encebe",
+    "1p": "encebemos",
+    "2p": "encebad",
+    "3p": "enceben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encebes",
+    "3s": "no encebe",
+    "1p": "no encebemos",
+    "2p": "no encebéis",
+    "3p": "no enceben"
+  },
+  "Part-ter": {
+    "": "encebado"
+  },
+  "Part-ser": {
+    "ms": "encebado",
+    "fs": "encebada",
+    "mp": "encebados",
+    "fp": "encebadas"
+  }
+}

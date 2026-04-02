@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cortejar"
+  },
+  "Ger": {
+    "": "cortejando"
+  },
+  "PresI": {
+    "1s": "cortejo",
+    "2s": "cortejas",
+    "3s": "corteja",
+    "1p": "cortejamos",
+    "2p": "cortejáis",
+    "3p": "cortejan"
+  },
+  "PImpI": {
+    "1s": "cortejaba",
+    "2s": "cortejabas",
+    "3s": "cortejaba",
+    "1p": "cortejábamos",
+    "2p": "cortejabais",
+    "3p": "cortejaban"
+  },
+  "PPSI": {
+    "1s": "cortejé",
+    "2s": "cortejaste",
+    "3s": "cortejó",
+    "1p": "cortejamos",
+    "2p": "cortejasteis",
+    "3p": "cortejaron"
+  },
+  "FutSI": {
+    "1s": "cortejaré",
+    "2s": "cortejarás",
+    "3s": "cortejará",
+    "1p": "cortejaremos",
+    "2p": "cortejaréis",
+    "3p": "cortejarán"
+  },
+  "CondS": {
+    "1s": "cortejaría",
+    "2s": "cortejarías",
+    "3s": "cortejaría",
+    "1p": "cortejaríamos",
+    "2p": "cortejaríais",
+    "3p": "cortejarían"
+  },
+  "PresC": {
+    "1s": "corteje",
+    "2s": "cortejes",
+    "3s": "corteje",
+    "1p": "cortejemos",
+    "2p": "cortejéis",
+    "3p": "cortejen"
+  },
+  "PMQPSI": {
+    "1s": "cortejara",
+    "2s": "cortejaras",
+    "3s": "cortejara",
+    "1p": "cortejáramos",
+    "2p": "cortejarais",
+    "3p": "cortejaran"
+  },
+  "PImpC": {
+    "1s": "cortejase",
+    "2s": "cortejases",
+    "3s": "cortejase",
+    "1p": "cortejásemos",
+    "2p": "cortejaseis",
+    "3p": "cortejasen"
+  },
+  "FutSC": {
+    "1s": "cortejare",
+    "2s": "cortejares",
+    "3s": "cortejare",
+    "1p": "cortejáremos",
+    "2p": "cortejareis",
+    "3p": "cortejaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corteja",
+    "3s": "corteje",
+    "1p": "cortejemos",
+    "2p": "cortejad",
+    "3p": "cortejen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cortejes",
+    "3s": "no corteje",
+    "1p": "no cortejemos",
+    "2p": "no cortejéis",
+    "3p": "no cortejen"
+  },
+  "Part-ter": {
+    "": "cortejado"
+  },
+  "Part-ser": {
+    "ms": "cortejado",
+    "fs": "cortejada",
+    "mp": "cortejados",
+    "fp": "cortejadas"
+  }
+}

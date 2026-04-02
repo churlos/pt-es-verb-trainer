@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "movimentar"
+  },
+  "InfP": {
+    "1s": "movimentar",
+    "2s": "movimentares",
+    "3s": "movimentar",
+    "1p": "movimentarmos",
+    "2p": "movimentardes",
+    "3p": "movimentarem"
+  },
+  "Ger": {
+    "": "movimentando"
+  },
+  "PresI": {
+    "1s": "movimento",
+    "2s": "movimentas",
+    "3s": "movimenta",
+    "1p": "movimentamos",
+    "2p": "movimentais",
+    "3p": "movimentam"
+  },
+  "PImpI": {
+    "1s": "movimentava",
+    "2s": "movimentavas",
+    "3s": "movimentava",
+    "1p": "movimentávamos",
+    "2p": "movimentáveis",
+    "3p": "movimentavam"
+  },
+  "PPSI": {
+    "1s": "movimentei",
+    "2s": "movimentaste",
+    "3s": "movimentou",
+    "1p": "movimentámos",
+    "2p": "movimentastes",
+    "3p": "movimentaram"
+  },
+  "PMQPSI": {
+    "1s": "movimentara",
+    "2s": "movimentaras",
+    "3s": "movimentara",
+    "1p": "movimentáramos",
+    "2p": "movimentáreis",
+    "3p": "movimentaram"
+  },
+  "FutSI": {
+    "1s": "movimentarei",
+    "2s": "movimentarás",
+    "3s": "movimentará",
+    "1p": "movimentaremos",
+    "2p": "movimentareis",
+    "3p": "movimentarão"
+  },
+  "CondS": {
+    "1s": "movimentaria",
+    "2s": "movimentarias",
+    "3s": "movimentaria",
+    "1p": "movimentaríamos",
+    "2p": "movimentaríeis",
+    "3p": "movimentariam"
+  },
+  "PresC": {
+    "1s": "movimente",
+    "2s": "movimentes",
+    "3s": "movimente",
+    "1p": "movimentemos",
+    "2p": "movimenteis",
+    "3p": "movimentem"
+  },
+  "PImpC": {
+    "1s": "movimentasse",
+    "2s": "movimentasses",
+    "3s": "movimentasse",
+    "1p": "movimentássemos",
+    "2p": "movimentásseis",
+    "3p": "movimentassem"
+  },
+  "FutSC": {
+    "1s": "movimentar",
+    "2s": "movimentares",
+    "3s": "movimentar",
+    "1p": "movimentarmos",
+    "2p": "movimentardes",
+    "3p": "movimentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "movimenta",
+    "3s": "movimente",
+    "1p": "movimentemos",
+    "2p": "movimentai",
+    "3p": "movimentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não movimentes",
+    "3s": "não movimente",
+    "1p": "não movimentemos",
+    "2p": "não movimenteis",
+    "3p": "não movimentem"
+  },
+  "Part-ter": {
+    "": "movimentado"
+  },
+  "Part-ser": {
+    "ms": "movimentado",
+    "fs": "movimentada",
+    "mp": "movimentados",
+    "fp": "movimentadas"
+  }
+}

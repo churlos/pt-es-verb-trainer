@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escovar"
+  },
+  "InfP": {
+    "1s": "escovar",
+    "2s": "escovares",
+    "3s": "escovar",
+    "1p": "escovarmos",
+    "2p": "escovardes",
+    "3p": "escovarem"
+  },
+  "Ger": {
+    "": "escovando"
+  },
+  "PresI": {
+    "1s": "escovo",
+    "2s": "escovas",
+    "3s": "escova",
+    "1p": "escovamos",
+    "2p": "escovais",
+    "3p": "escovam"
+  },
+  "PImpI": {
+    "1s": "escovava",
+    "2s": "escovavas",
+    "3s": "escovava",
+    "1p": "escovávamos",
+    "2p": "escováveis",
+    "3p": "escovavam"
+  },
+  "PPSI": {
+    "1s": "escovei",
+    "2s": "escovaste",
+    "3s": "escovou",
+    "1p": "escovámos",
+    "2p": "escovastes",
+    "3p": "escovaram"
+  },
+  "PMQPSI": {
+    "1s": "escovara",
+    "2s": "escovaras",
+    "3s": "escovara",
+    "1p": "escováramos",
+    "2p": "escováreis",
+    "3p": "escovaram"
+  },
+  "FutSI": {
+    "1s": "escovarei",
+    "2s": "escovarás",
+    "3s": "escovará",
+    "1p": "escovaremos",
+    "2p": "escovareis",
+    "3p": "escovarão"
+  },
+  "CondS": {
+    "1s": "escovaria",
+    "2s": "escovarias",
+    "3s": "escovaria",
+    "1p": "escovaríamos",
+    "2p": "escovaríeis",
+    "3p": "escovariam"
+  },
+  "PresC": {
+    "1s": "escove",
+    "2s": "escoves",
+    "3s": "escove",
+    "1p": "escovemos",
+    "2p": "escoveis",
+    "3p": "escovem"
+  },
+  "PImpC": {
+    "1s": "escovasse",
+    "2s": "escovasses",
+    "3s": "escovasse",
+    "1p": "escovássemos",
+    "2p": "escovásseis",
+    "3p": "escovassem"
+  },
+  "FutSC": {
+    "1s": "escovar",
+    "2s": "escovares",
+    "3s": "escovar",
+    "1p": "escovarmos",
+    "2p": "escovardes",
+    "3p": "escovarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escova",
+    "3s": "escove",
+    "1p": "escovemos",
+    "2p": "escovai",
+    "3p": "escovem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escoves",
+    "3s": "não escove",
+    "1p": "não escovemos",
+    "2p": "não escoveis",
+    "3p": "não escovem"
+  },
+  "Part-ter": {
+    "": "escovado"
+  },
+  "Part-ser": {
+    "ms": "escovado",
+    "fs": "escovada",
+    "mp": "escovados",
+    "fp": "escovadas"
+  }
+}

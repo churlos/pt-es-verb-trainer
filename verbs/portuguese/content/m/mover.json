@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mover"
+  },
+  "InfP": {
+    "1s": "mover",
+    "2s": "moveres",
+    "3s": "mover",
+    "1p": "movermos",
+    "2p": "moverdes",
+    "3p": "moverem"
+  },
+  "Ger": {
+    "": "movendo"
+  },
+  "PresI": {
+    "1s": "movo",
+    "2s": "moves",
+    "3s": "move",
+    "1p": "movemos",
+    "2p": "moveis",
+    "3p": "movem"
+  },
+  "PImpI": {
+    "1s": "movia",
+    "2s": "movias",
+    "3s": "movia",
+    "1p": "movíamos",
+    "2p": "movíeis",
+    "3p": "moviam"
+  },
+  "PPSI": {
+    "1s": "movi",
+    "2s": "moveste",
+    "3s": "moveu",
+    "1p": "movemos",
+    "2p": "movestes",
+    "3p": "moveram"
+  },
+  "PMQPSI": {
+    "1s": "movera",
+    "2s": "moveras",
+    "3s": "movera",
+    "1p": "movêramos",
+    "2p": "movêreis",
+    "3p": "moveram"
+  },
+  "FutSI": {
+    "1s": "moverei",
+    "2s": "moverás",
+    "3s": "moverá",
+    "1p": "moveremos",
+    "2p": "movereis",
+    "3p": "moverão"
+  },
+  "CondS": {
+    "1s": "moveria",
+    "2s": "moverias",
+    "3s": "moveria",
+    "1p": "moveríamos",
+    "2p": "moveríeis",
+    "3p": "moveriam"
+  },
+  "PresC": {
+    "1s": "mova",
+    "2s": "movas",
+    "3s": "mova",
+    "1p": "movamos",
+    "2p": "movais",
+    "3p": "movam"
+  },
+  "PImpC": {
+    "1s": "movesse",
+    "2s": "movesses",
+    "3s": "movesse",
+    "1p": "movêssemos",
+    "2p": "movêsseis",
+    "3p": "movessem"
+  },
+  "FutSC": {
+    "1s": "mover",
+    "2s": "moveres",
+    "3s": "mover",
+    "1p": "movermos",
+    "2p": "moverdes",
+    "3p": "moverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "move",
+    "3s": "mova",
+    "1p": "movamos",
+    "2p": "movei",
+    "3p": "movam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não movas",
+    "3s": "não mova",
+    "1p": "não movamos",
+    "2p": "não movais",
+    "3p": "não movam"
+  },
+  "Part-ter": {
+    "": "movido"
+  },
+  "Part-ser": {
+    "ms": "movido",
+    "fs": "movida",
+    "mp": "movidos",
+    "fp": "movidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "telefonear"
+  },
+  "Ger": {
+    "": "telefoneando"
+  },
+  "PresI": {
+    "1s": "telefoneo",
+    "2s": "telefoneas",
+    "3s": "telefonea",
+    "1p": "telefoneamos",
+    "2p": "telefoneáis",
+    "3p": "telefonean"
+  },
+  "PImpI": {
+    "1s": "telefoneaba",
+    "2s": "telefoneabas",
+    "3s": "telefoneaba",
+    "1p": "telefoneábamos",
+    "2p": "telefoneabais",
+    "3p": "telefoneaban"
+  },
+  "PPSI": {
+    "1s": "telefoneé",
+    "2s": "telefoneaste",
+    "3s": "telefoneó",
+    "1p": "telefoneamos",
+    "2p": "telefoneasteis",
+    "3p": "telefonearon"
+  },
+  "FutSI": {
+    "1s": "telefonearé",
+    "2s": "telefonearás",
+    "3s": "telefoneará",
+    "1p": "telefonearemos",
+    "2p": "telefonearéis",
+    "3p": "telefonearán"
+  },
+  "CondS": {
+    "1s": "telefonearía",
+    "2s": "telefonearías",
+    "3s": "telefonearía",
+    "1p": "telefonearíamos",
+    "2p": "telefonearíais",
+    "3p": "telefonearían"
+  },
+  "PresC": {
+    "1s": "telefonee",
+    "2s": "telefonees",
+    "3s": "telefonee",
+    "1p": "telefoneemos",
+    "2p": "telefoneéis",
+    "3p": "telefoneen"
+  },
+  "PMQPSI": {
+    "1s": "telefoneara",
+    "2s": "telefonearas",
+    "3s": "telefoneara",
+    "1p": "telefoneáramos",
+    "2p": "telefonearais",
+    "3p": "telefonearan"
+  },
+  "PImpC": {
+    "1s": "telefonease",
+    "2s": "telefoneases",
+    "3s": "telefonease",
+    "1p": "telefoneásemos",
+    "2p": "telefoneaseis",
+    "3p": "telefoneasen"
+  },
+  "FutSC": {
+    "1s": "telefoneare",
+    "2s": "telefoneares",
+    "3s": "telefoneare",
+    "1p": "telefoneáremos",
+    "2p": "telefoneareis",
+    "3p": "telefonearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "telefonea",
+    "3s": "telefonee",
+    "1p": "telefoneemos",
+    "2p": "telefonead",
+    "3p": "telefoneen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no telefonees",
+    "3s": "no telefonee",
+    "1p": "no telefoneemos",
+    "2p": "no telefoneéis",
+    "3p": "no telefoneen"
+  },
+  "Part-ter": {
+    "": "telefoneado"
+  },
+  "Part-ser": {
+    "ms": "telefoneado",
+    "fs": "telefoneada",
+    "mp": "telefoneados",
+    "fp": "telefoneadas"
+  }
+}

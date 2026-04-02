@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "manar"
+  },
+  "Ger": {
+    "": "manando"
+  },
+  "PresI": {
+    "1s": "mano",
+    "2s": "manas",
+    "3s": "mana",
+    "1p": "manamos",
+    "2p": "manáis",
+    "3p": "manan"
+  },
+  "PImpI": {
+    "1s": "manaba",
+    "2s": "manabas",
+    "3s": "manaba",
+    "1p": "manábamos",
+    "2p": "manabais",
+    "3p": "manaban"
+  },
+  "PPSI": {
+    "1s": "mané",
+    "2s": "manaste",
+    "3s": "manó",
+    "1p": "manamos",
+    "2p": "manasteis",
+    "3p": "manaron"
+  },
+  "FutSI": {
+    "1s": "manaré",
+    "2s": "manarás",
+    "3s": "manará",
+    "1p": "manaremos",
+    "2p": "manaréis",
+    "3p": "manarán"
+  },
+  "CondS": {
+    "1s": "manaría",
+    "2s": "manarías",
+    "3s": "manaría",
+    "1p": "manaríamos",
+    "2p": "manaríais",
+    "3p": "manarían"
+  },
+  "PresC": {
+    "1s": "mane",
+    "2s": "manes",
+    "3s": "mane",
+    "1p": "manemos",
+    "2p": "manéis",
+    "3p": "manen"
+  },
+  "PMQPSI": {
+    "1s": "manara",
+    "2s": "manaras",
+    "3s": "manara",
+    "1p": "manáramos",
+    "2p": "manarais",
+    "3p": "manaran"
+  },
+  "PImpC": {
+    "1s": "manase",
+    "2s": "manases",
+    "3s": "manase",
+    "1p": "manásemos",
+    "2p": "manaseis",
+    "3p": "manasen"
+  },
+  "FutSC": {
+    "1s": "manare",
+    "2s": "manares",
+    "3s": "manare",
+    "1p": "manáremos",
+    "2p": "manareis",
+    "3p": "manaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mana",
+    "3s": "mane",
+    "1p": "manemos",
+    "2p": "manad",
+    "3p": "manen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no manes",
+    "3s": "no mane",
+    "1p": "no manemos",
+    "2p": "no manéis",
+    "3p": "no manen"
+  },
+  "Part-ter": {
+    "": "manado"
+  },
+  "Part-ser": {
+    "ms": "manado",
+    "fs": "manada",
+    "mp": "manados",
+    "fp": "manadas"
+  }
+}

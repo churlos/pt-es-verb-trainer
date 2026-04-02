@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "raer"
+  },
+  "Ger": {
+    "": "rayendo"
+  },
+  "PresI": {
+    "1s": "rao, raigo, rayo",
+    "2s": "raes",
+    "3s": "rae",
+    "1p": "raemos",
+    "2p": "raéis",
+    "3p": "raen"
+  },
+  "PImpI": {
+    "1s": "raía",
+    "2s": "raías",
+    "3s": "raía",
+    "1p": "raíamos",
+    "2p": "raíais",
+    "3p": "raían"
+  },
+  "PPSI": {
+    "1s": "raí",
+    "2s": "raíste",
+    "3s": "rayó",
+    "1p": "raímos",
+    "2p": "raísteis",
+    "3p": "rayeron"
+  },
+  "FutSI": {
+    "1s": "raeré",
+    "2s": "raerás",
+    "3s": "raerá",
+    "1p": "raeremos",
+    "2p": "raeréis",
+    "3p": "raerán"
+  },
+  "CondS": {
+    "1s": "raería",
+    "2s": "raerías",
+    "3s": "raería",
+    "1p": "raeríamos",
+    "2p": "raeríais",
+    "3p": "raerían"
+  },
+  "PresC": {
+    "1s": "raiga, raya",
+    "2s": "raigas, rayas",
+    "3s": "raiga, raya",
+    "1p": "raigamos, rayamos",
+    "2p": "raigáis, rayáis",
+    "3p": "raigan, rayan"
+  },
+  "PMQPSI": {
+    "1s": "rayera",
+    "2s": "rayeras",
+    "3s": "rayera",
+    "1p": "rayéramos",
+    "2p": "rayerais",
+    "3p": "rayeran"
+  },
+  "PImpC": {
+    "1s": "rayese",
+    "2s": "rayeses",
+    "3s": "rayese",
+    "1p": "rayésemos",
+    "2p": "rayeseis",
+    "3p": "rayesen"
+  },
+  "FutSC": {
+    "1s": "rayere",
+    "2s": "rayeres",
+    "3s": "rayere",
+    "1p": "rayéremos",
+    "2p": "rayereis",
+    "3p": "rayeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rae",
+    "3s": "raiga, raya",
+    "1p": "raigamos, rayamos",
+    "2p": "raed",
+    "3p": "raigan, rayan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no raigas, rayas",
+    "3s": "no raiga, raya",
+    "1p": "no raigamos, rayamos",
+    "2p": "no raigáis, rayáis",
+    "3p": "no raigan, rayan"
+  },
+  "Part-ter": {
+    "": "raído"
+  },
+  "Part-ser": {
+    "ms": "raído",
+    "fs": "raída",
+    "mp": "raídos",
+    "fp": "raídas"
+  }
+}

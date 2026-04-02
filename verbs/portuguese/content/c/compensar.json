@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "compensar"
+  },
+  "InfP": {
+    "1s": "compensar",
+    "2s": "compensares",
+    "3s": "compensar",
+    "1p": "compensarmos",
+    "2p": "compensardes",
+    "3p": "compensarem"
+  },
+  "Ger": {
+    "": "compensando"
+  },
+  "PresI": {
+    "1s": "compenso",
+    "2s": "compensas",
+    "3s": "compensa",
+    "1p": "compensamos",
+    "2p": "compensais",
+    "3p": "compensam"
+  },
+  "PImpI": {
+    "1s": "compensava",
+    "2s": "compensavas",
+    "3s": "compensava",
+    "1p": "compensávamos",
+    "2p": "compensáveis",
+    "3p": "compensavam"
+  },
+  "PPSI": {
+    "1s": "compensei",
+    "2s": "compensaste",
+    "3s": "compensou",
+    "1p": "compensámos",
+    "2p": "compensastes",
+    "3p": "compensaram"
+  },
+  "PMQPSI": {
+    "1s": "compensara",
+    "2s": "compensaras",
+    "3s": "compensara",
+    "1p": "compensáramos",
+    "2p": "compensáreis",
+    "3p": "compensaram"
+  },
+  "FutSI": {
+    "1s": "compensarei",
+    "2s": "compensarás",
+    "3s": "compensará",
+    "1p": "compensaremos",
+    "2p": "compensareis",
+    "3p": "compensarão"
+  },
+  "CondS": {
+    "1s": "compensaria",
+    "2s": "compensarias",
+    "3s": "compensaria",
+    "1p": "compensaríamos",
+    "2p": "compensaríeis",
+    "3p": "compensariam"
+  },
+  "PresC": {
+    "1s": "compense",
+    "2s": "compenses",
+    "3s": "compense",
+    "1p": "compensemos",
+    "2p": "compenseis",
+    "3p": "compensem"
+  },
+  "PImpC": {
+    "1s": "compensasse",
+    "2s": "compensasses",
+    "3s": "compensasse",
+    "1p": "compensássemos",
+    "2p": "compensásseis",
+    "3p": "compensassem"
+  },
+  "FutSC": {
+    "1s": "compensar",
+    "2s": "compensares",
+    "3s": "compensar",
+    "1p": "compensarmos",
+    "2p": "compensardes",
+    "3p": "compensarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "compensa",
+    "3s": "compense",
+    "1p": "compensemos",
+    "2p": "compensai",
+    "3p": "compensem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não compenses",
+    "3s": "não compense",
+    "1p": "não compensemos",
+    "2p": "não compenseis",
+    "3p": "não compensem"
+  },
+  "Part-ter": {
+    "": "compensado"
+  },
+  "Part-ser": {
+    "ms": "compensado",
+    "fs": "compensada",
+    "mp": "compensados",
+    "fp": "compensadas"
+  }
+}

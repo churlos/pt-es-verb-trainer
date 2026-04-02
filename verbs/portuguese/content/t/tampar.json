@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tampar"
+  },
+  "InfP": {
+    "1s": "tampar",
+    "2s": "tampares",
+    "3s": "tampar",
+    "1p": "tamparmos",
+    "2p": "tampardes",
+    "3p": "tamparem"
+  },
+  "Ger": {
+    "": "tampando"
+  },
+  "PresI": {
+    "1s": "tampo",
+    "2s": "tampas",
+    "3s": "tampa",
+    "1p": "tampamos",
+    "2p": "tampais",
+    "3p": "tampam"
+  },
+  "PImpI": {
+    "1s": "tampava",
+    "2s": "tampavas",
+    "3s": "tampava",
+    "1p": "tampávamos",
+    "2p": "tampáveis",
+    "3p": "tampavam"
+  },
+  "PPSI": {
+    "1s": "tampei",
+    "2s": "tampaste",
+    "3s": "tampou",
+    "1p": "tampámos",
+    "2p": "tampastes",
+    "3p": "tamparam"
+  },
+  "PMQPSI": {
+    "1s": "tampara",
+    "2s": "tamparas",
+    "3s": "tampara",
+    "1p": "tampáramos",
+    "2p": "tampáreis",
+    "3p": "tamparam"
+  },
+  "FutSI": {
+    "1s": "tamparei",
+    "2s": "tamparás",
+    "3s": "tampará",
+    "1p": "tamparemos",
+    "2p": "tampareis",
+    "3p": "tamparão"
+  },
+  "CondS": {
+    "1s": "tamparia",
+    "2s": "tamparias",
+    "3s": "tamparia",
+    "1p": "tamparíamos",
+    "2p": "tamparíeis",
+    "3p": "tampariam"
+  },
+  "PresC": {
+    "1s": "tampe",
+    "2s": "tampes",
+    "3s": "tampe",
+    "1p": "tampemos",
+    "2p": "tampeis",
+    "3p": "tampem"
+  },
+  "PImpC": {
+    "1s": "tampasse",
+    "2s": "tampasses",
+    "3s": "tampasse",
+    "1p": "tampássemos",
+    "2p": "tampásseis",
+    "3p": "tampassem"
+  },
+  "FutSC": {
+    "1s": "tampar",
+    "2s": "tampares",
+    "3s": "tampar",
+    "1p": "tamparmos",
+    "2p": "tampardes",
+    "3p": "tamparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tampa",
+    "3s": "tampe",
+    "1p": "tampemos",
+    "2p": "tampai",
+    "3p": "tampem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tampes",
+    "3s": "não tampe",
+    "1p": "não tampemos",
+    "2p": "não tampeis",
+    "3p": "não tampem"
+  },
+  "Part-ter": {
+    "": "tampado"
+  },
+  "Part-ser": {
+    "ms": "tampado",
+    "fs": "tampada",
+    "mp": "tampados",
+    "fp": "tampadas"
+  }
+}

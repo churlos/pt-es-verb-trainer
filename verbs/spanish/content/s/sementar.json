@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sementar"
+  },
+  "Ger": {
+    "": "sementando"
+  },
+  "PresI": {
+    "1s": "semiento",
+    "2s": "semientas",
+    "3s": "semienta",
+    "1p": "sementamos",
+    "2p": "sementáis",
+    "3p": "semientan"
+  },
+  "PImpI": {
+    "1s": "sementaba",
+    "2s": "sementabas",
+    "3s": "sementaba",
+    "1p": "sementábamos",
+    "2p": "sementabais",
+    "3p": "sementaban"
+  },
+  "PPSI": {
+    "1s": "sementé",
+    "2s": "sementaste",
+    "3s": "sementó",
+    "1p": "sementamos",
+    "2p": "sementasteis",
+    "3p": "sementaron"
+  },
+  "FutSI": {
+    "1s": "sementaré",
+    "2s": "sementarás",
+    "3s": "sementará",
+    "1p": "sementaremos",
+    "2p": "sementaréis",
+    "3p": "sementarán"
+  },
+  "CondS": {
+    "1s": "sementaría",
+    "2s": "sementarías",
+    "3s": "sementaría",
+    "1p": "sementaríamos",
+    "2p": "sementaríais",
+    "3p": "sementarían"
+  },
+  "PresC": {
+    "1s": "semiente",
+    "2s": "semientes",
+    "3s": "semiente",
+    "1p": "sementemos",
+    "2p": "sementéis",
+    "3p": "semienten"
+  },
+  "PMQPSI": {
+    "1s": "sementara",
+    "2s": "sementaras",
+    "3s": "sementara",
+    "1p": "sementáramos",
+    "2p": "sementarais",
+    "3p": "sementaran"
+  },
+  "PImpC": {
+    "1s": "sementase",
+    "2s": "sementases",
+    "3s": "sementase",
+    "1p": "sementásemos",
+    "2p": "sementaseis",
+    "3p": "sementasen"
+  },
+  "FutSC": {
+    "1s": "sementare",
+    "2s": "sementares",
+    "3s": "sementare",
+    "1p": "sementáremos",
+    "2p": "sementareis",
+    "3p": "sementaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "semienta",
+    "3s": "semiente",
+    "1p": "sementemos",
+    "2p": "sementad",
+    "3p": "semienten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no semientes",
+    "3s": "no semiente",
+    "1p": "no sementemos",
+    "2p": "no sementéis",
+    "3p": "no semienten"
+  },
+  "Part-ter": {
+    "": "sementado"
+  },
+  "Part-ser": {
+    "ms": "sementado",
+    "fs": "sementada",
+    "mp": "sementados",
+    "fp": "sementadas"
+  }
+}

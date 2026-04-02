@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "anteceder"
+  },
+  "Ger": {
+    "": "antecediendo"
+  },
+  "PresI": {
+    "1s": "antecedo",
+    "2s": "antecedes",
+    "3s": "antecede",
+    "1p": "antecedemos",
+    "2p": "antecedéis",
+    "3p": "anteceden"
+  },
+  "PImpI": {
+    "1s": "antecedía",
+    "2s": "antecedías",
+    "3s": "antecedía",
+    "1p": "antecedíamos",
+    "2p": "antecedíais",
+    "3p": "antecedían"
+  },
+  "PPSI": {
+    "1s": "antecedí",
+    "2s": "antecediste",
+    "3s": "antecedió",
+    "1p": "antecedimos",
+    "2p": "antecedisteis",
+    "3p": "antecedieron"
+  },
+  "FutSI": {
+    "1s": "antecederé",
+    "2s": "antecederás",
+    "3s": "antecederá",
+    "1p": "antecederemos",
+    "2p": "antecederéis",
+    "3p": "antecederán"
+  },
+  "CondS": {
+    "1s": "antecedería",
+    "2s": "antecederías",
+    "3s": "antecedería",
+    "1p": "antecederíamos",
+    "2p": "antecederíais",
+    "3p": "antecederían"
+  },
+  "PresC": {
+    "1s": "anteceda",
+    "2s": "antecedas",
+    "3s": "anteceda",
+    "1p": "antecedamos",
+    "2p": "antecedáis",
+    "3p": "antecedan"
+  },
+  "PMQPSI": {
+    "1s": "antecediera",
+    "2s": "antecedieras",
+    "3s": "antecediera",
+    "1p": "antecediéramos",
+    "2p": "antecedierais",
+    "3p": "antecedieran"
+  },
+  "PImpC": {
+    "1s": "antecediese",
+    "2s": "antecedieses",
+    "3s": "antecediese",
+    "1p": "antecediésemos",
+    "2p": "antecedieseis",
+    "3p": "antecediesen"
+  },
+  "FutSC": {
+    "1s": "antecediere",
+    "2s": "antecedieres",
+    "3s": "antecediere",
+    "1p": "antecediéremos",
+    "2p": "antecediereis",
+    "3p": "antecedieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "antecede",
+    "3s": "anteceda",
+    "1p": "antecedamos",
+    "2p": "anteceded",
+    "3p": "antecedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no antecedas",
+    "3s": "no anteceda",
+    "1p": "no antecedamos",
+    "2p": "no antecedáis",
+    "3p": "no antecedan"
+  },
+  "Part-ter": {
+    "": "antecedido"
+  },
+  "Part-ser": {
+    "ms": "antecedido",
+    "fs": "antecedida",
+    "mp": "antecedidos",
+    "fp": "antecedidas"
+  }
+}

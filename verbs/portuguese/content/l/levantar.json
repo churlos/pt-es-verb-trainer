@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "levantar"
+  },
+  "InfP": {
+    "1s": "levantar",
+    "2s": "levantares",
+    "3s": "levantar",
+    "1p": "levantarmos",
+    "2p": "levantardes",
+    "3p": "levantarem"
+  },
+  "Ger": {
+    "": "levantando"
+  },
+  "PresI": {
+    "1s": "levanto",
+    "2s": "levantas",
+    "3s": "levanta",
+    "1p": "levantamos",
+    "2p": "levantais",
+    "3p": "levantam"
+  },
+  "PImpI": {
+    "1s": "levantava",
+    "2s": "levantavas",
+    "3s": "levantava",
+    "1p": "levantávamos",
+    "2p": "levantáveis",
+    "3p": "levantavam"
+  },
+  "PPSI": {
+    "1s": "levantei",
+    "2s": "levantaste",
+    "3s": "levantou",
+    "1p": "levantámos",
+    "2p": "levantastes",
+    "3p": "levantaram"
+  },
+  "PMQPSI": {
+    "1s": "levantara",
+    "2s": "levantaras",
+    "3s": "levantara",
+    "1p": "levantáramos",
+    "2p": "levantáreis",
+    "3p": "levantaram"
+  },
+  "FutSI": {
+    "1s": "levantarei",
+    "2s": "levantarás",
+    "3s": "levantará",
+    "1p": "levantaremos",
+    "2p": "levantareis",
+    "3p": "levantarão"
+  },
+  "CondS": {
+    "1s": "levantaria",
+    "2s": "levantarias",
+    "3s": "levantaria",
+    "1p": "levantaríamos",
+    "2p": "levantaríeis",
+    "3p": "levantariam"
+  },
+  "PresC": {
+    "1s": "levante",
+    "2s": "levantes",
+    "3s": "levante",
+    "1p": "levantemos",
+    "2p": "levanteis",
+    "3p": "levantem"
+  },
+  "PImpC": {
+    "1s": "levantasse",
+    "2s": "levantasses",
+    "3s": "levantasse",
+    "1p": "levantássemos",
+    "2p": "levantásseis",
+    "3p": "levantassem"
+  },
+  "FutSC": {
+    "1s": "levantar",
+    "2s": "levantares",
+    "3s": "levantar",
+    "1p": "levantarmos",
+    "2p": "levantardes",
+    "3p": "levantarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "levanta",
+    "3s": "levante",
+    "1p": "levantemos",
+    "2p": "levantai",
+    "3p": "levantem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não levantes",
+    "3s": "não levante",
+    "1p": "não levantemos",
+    "2p": "não levanteis",
+    "3p": "não levantem"
+  },
+  "Part-ter": {
+    "": "levantado"
+  },
+  "Part-ser": {
+    "ms": "levantado",
+    "fs": "levantada",
+    "mp": "levantados",
+    "fp": "levantadas"
+  }
+}

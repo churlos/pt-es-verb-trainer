@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "padronizar"
+  },
+  "InfP": {
+    "1s": "padronizar",
+    "2s": "padronizares",
+    "3s": "padronizar",
+    "1p": "padronizarmos",
+    "2p": "padronizardes",
+    "3p": "padronizarem"
+  },
+  "Ger": {
+    "": "padronizando"
+  },
+  "PresI": {
+    "1s": "padronizo",
+    "2s": "padronizas",
+    "3s": "padroniza",
+    "1p": "padronizamos",
+    "2p": "padronizais",
+    "3p": "padronizam"
+  },
+  "PImpI": {
+    "1s": "padronizava",
+    "2s": "padronizavas",
+    "3s": "padronizava",
+    "1p": "padronizávamos",
+    "2p": "padronizáveis",
+    "3p": "padronizavam"
+  },
+  "PPSI": {
+    "1s": "padronizei",
+    "2s": "padronizaste",
+    "3s": "padronizou",
+    "1p": "padronizámos",
+    "2p": "padronizastes",
+    "3p": "padronizaram"
+  },
+  "PMQPSI": {
+    "1s": "padronizara",
+    "2s": "padronizaras",
+    "3s": "padronizara",
+    "1p": "padronizáramos",
+    "2p": "padronizáreis",
+    "3p": "padronizaram"
+  },
+  "FutSI": {
+    "1s": "padronizarei",
+    "2s": "padronizarás",
+    "3s": "padronizará",
+    "1p": "padronizaremos",
+    "2p": "padronizareis",
+    "3p": "padronizarão"
+  },
+  "CondS": {
+    "1s": "padronizaria",
+    "2s": "padronizarias",
+    "3s": "padronizaria",
+    "1p": "padronizaríamos",
+    "2p": "padronizaríeis",
+    "3p": "padronizariam"
+  },
+  "PresC": {
+    "1s": "padronize",
+    "2s": "padronizes",
+    "3s": "padronize",
+    "1p": "padronizemos",
+    "2p": "padronizeis",
+    "3p": "padronizem"
+  },
+  "PImpC": {
+    "1s": "padronizasse",
+    "2s": "padronizasses",
+    "3s": "padronizasse",
+    "1p": "padronizássemos",
+    "2p": "padronizásseis",
+    "3p": "padronizassem"
+  },
+  "FutSC": {
+    "1s": "padronizar",
+    "2s": "padronizares",
+    "3s": "padronizar",
+    "1p": "padronizarmos",
+    "2p": "padronizardes",
+    "3p": "padronizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "padroniza",
+    "3s": "padronize",
+    "1p": "padronizemos",
+    "2p": "padronizai",
+    "3p": "padronizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não padronizes",
+    "3s": "não padronize",
+    "1p": "não padronizemos",
+    "2p": "não padronizeis",
+    "3p": "não padronizem"
+  },
+  "Part-ter": {
+    "": "padronizado"
+  },
+  "Part-ser": {
+    "ms": "padronizado",
+    "fs": "padronizada",
+    "mp": "padronizados",
+    "fp": "padronizadas"
+  }
+}

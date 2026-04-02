@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "substituir"
+  },
+  "InfP": {
+    "1s": "substituir",
+    "2s": "substituíres",
+    "3s": "substituir",
+    "1p": "substituirmos",
+    "2p": "substituirdes",
+    "3p": "substituírem"
+  },
+  "Ger": {
+    "": "substituindo"
+  },
+  "PresI": {
+    "1s": "substituo",
+    "2s": "substituis",
+    "3s": "substitui",
+    "1p": "substituímos",
+    "2p": "substituís",
+    "3p": "substituem"
+  },
+  "PImpI": {
+    "1s": "substituía",
+    "2s": "substituías",
+    "3s": "substituía",
+    "1p": "substituíamos",
+    "2p": "substituíeis",
+    "3p": "substituíam"
+  },
+  "PPSI": {
+    "1s": "substituí",
+    "2s": "substituíste",
+    "3s": "substituiu",
+    "1p": "substituímos",
+    "2p": "substituístes",
+    "3p": "substituíram"
+  },
+  "PMQPSI": {
+    "1s": "substituíra",
+    "2s": "substituíras",
+    "3s": "substituíra",
+    "1p": "substituíramos",
+    "2p": "substituíreis",
+    "3p": "substituíram"
+  },
+  "FutSI": {
+    "1s": "substituirei",
+    "2s": "substituirás",
+    "3s": "substituirá",
+    "1p": "substituiremos",
+    "2p": "substituireis",
+    "3p": "substituirão"
+  },
+  "CondS": {
+    "1s": "substituiria",
+    "2s": "substituirias",
+    "3s": "substituiria",
+    "1p": "substituiríamos",
+    "2p": "substituiríeis",
+    "3p": "substituiriam"
+  },
+  "PresC": {
+    "1s": "substitua",
+    "2s": "substituas",
+    "3s": "substitua",
+    "1p": "substituamos",
+    "2p": "substituais",
+    "3p": "substituam"
+  },
+  "PImpC": {
+    "1s": "substituísse",
+    "2s": "substituísses",
+    "3s": "substituísse",
+    "1p": "substituíssemos",
+    "2p": "substituísseis",
+    "3p": "substituíssem"
+  },
+  "FutSC": {
+    "1s": "substituir",
+    "2s": "substituíres",
+    "3s": "substituir",
+    "1p": "substituirmos",
+    "2p": "substituirdes",
+    "3p": "substituírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "substitui",
+    "3s": "substitua",
+    "1p": "substituamos",
+    "2p": "substituí",
+    "3p": "substituam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não substituas",
+    "3s": "não substitua",
+    "1p": "não substituamos",
+    "2p": "não substituais",
+    "3p": "não substituam"
+  },
+  "Part-ter": {
+    "": "substituído"
+  },
+  "Part-ser": {
+    "ms": "substituído",
+    "fs": "substituída",
+    "mp": "substituídos",
+    "fp": "substituídas"
+  }
+}

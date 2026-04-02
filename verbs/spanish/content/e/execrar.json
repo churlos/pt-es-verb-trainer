@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "execrar"
+  },
+  "Ger": {
+    "": "execrando"
+  },
+  "PresI": {
+    "1s": "execro",
+    "2s": "execras",
+    "3s": "execra",
+    "1p": "execramos",
+    "2p": "execráis",
+    "3p": "execran"
+  },
+  "PImpI": {
+    "1s": "execraba",
+    "2s": "execrabas",
+    "3s": "execraba",
+    "1p": "execrábamos",
+    "2p": "execrabais",
+    "3p": "execraban"
+  },
+  "PPSI": {
+    "1s": "execré",
+    "2s": "execraste",
+    "3s": "execró",
+    "1p": "execramos",
+    "2p": "execrasteis",
+    "3p": "execraron"
+  },
+  "FutSI": {
+    "1s": "execraré",
+    "2s": "execrarás",
+    "3s": "execrará",
+    "1p": "execraremos",
+    "2p": "execraréis",
+    "3p": "execrarán"
+  },
+  "CondS": {
+    "1s": "execraría",
+    "2s": "execrarías",
+    "3s": "execraría",
+    "1p": "execraríamos",
+    "2p": "execraríais",
+    "3p": "execrarían"
+  },
+  "PresC": {
+    "1s": "execre",
+    "2s": "execres",
+    "3s": "execre",
+    "1p": "execremos",
+    "2p": "execréis",
+    "3p": "execren"
+  },
+  "PMQPSI": {
+    "1s": "execrara",
+    "2s": "execraras",
+    "3s": "execrara",
+    "1p": "execráramos",
+    "2p": "execrarais",
+    "3p": "execraran"
+  },
+  "PImpC": {
+    "1s": "execrase",
+    "2s": "execrases",
+    "3s": "execrase",
+    "1p": "execrásemos",
+    "2p": "execraseis",
+    "3p": "execrasen"
+  },
+  "FutSC": {
+    "1s": "execrare",
+    "2s": "execrares",
+    "3s": "execrare",
+    "1p": "execráremos",
+    "2p": "execrareis",
+    "3p": "execraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "execra",
+    "3s": "execre",
+    "1p": "execremos",
+    "2p": "execrad",
+    "3p": "execren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no execres",
+    "3s": "no execre",
+    "1p": "no execremos",
+    "2p": "no execréis",
+    "3p": "no execren"
+  },
+  "Part-ter": {
+    "": "execrado"
+  },
+  "Part-ser": {
+    "ms": "execrado",
+    "fs": "execrada",
+    "mp": "execrados",
+    "fp": "execradas"
+  }
+}

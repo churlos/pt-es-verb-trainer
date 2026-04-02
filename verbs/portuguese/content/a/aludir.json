@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aludir"
+  },
+  "InfP": {
+    "1s": "aludir",
+    "2s": "aludires",
+    "3s": "aludir",
+    "1p": "aludirmos",
+    "2p": "aludirdes",
+    "3p": "aludirem"
+  },
+  "Ger": {
+    "": "aludindo"
+  },
+  "PresI": {
+    "1s": "aludo",
+    "2s": "aludes",
+    "3s": "alude",
+    "1p": "aludimos",
+    "2p": "aludis",
+    "3p": "aludem"
+  },
+  "PImpI": {
+    "1s": "aludia",
+    "2s": "aludias",
+    "3s": "aludia",
+    "1p": "aludíamos",
+    "2p": "aludíeis",
+    "3p": "aludiam"
+  },
+  "PPSI": {
+    "1s": "aludi",
+    "2s": "aludiste",
+    "3s": "aludiu",
+    "1p": "aludimos",
+    "2p": "aludistes",
+    "3p": "aludiram"
+  },
+  "PMQPSI": {
+    "1s": "aludira",
+    "2s": "aludiras",
+    "3s": "aludira",
+    "1p": "aludíramos",
+    "2p": "aludíreis",
+    "3p": "aludiram"
+  },
+  "FutSI": {
+    "1s": "aludirei",
+    "2s": "aludirás",
+    "3s": "aludirá",
+    "1p": "aludiremos",
+    "2p": "aludireis",
+    "3p": "aludirão"
+  },
+  "CondS": {
+    "1s": "aludiria",
+    "2s": "aludirias",
+    "3s": "aludiria",
+    "1p": "aludiríamos",
+    "2p": "aludiríeis",
+    "3p": "aludiriam"
+  },
+  "PresC": {
+    "1s": "aluda",
+    "2s": "aludas",
+    "3s": "aluda",
+    "1p": "aludamos",
+    "2p": "aludais",
+    "3p": "aludam"
+  },
+  "PImpC": {
+    "1s": "aludisse",
+    "2s": "aludisses",
+    "3s": "aludisse",
+    "1p": "aludíssemos",
+    "2p": "aludísseis",
+    "3p": "aludissem"
+  },
+  "FutSC": {
+    "1s": "aludir",
+    "2s": "aludires",
+    "3s": "aludir",
+    "1p": "aludirmos",
+    "2p": "aludirdes",
+    "3p": "aludirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alude",
+    "3s": "aluda",
+    "1p": "aludamos",
+    "2p": "aludi",
+    "3p": "aludam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aludas",
+    "3s": "não aluda",
+    "1p": "não aludamos",
+    "2p": "não aludais",
+    "3p": "não aludam"
+  },
+  "Part-ter": {
+    "": "aludido"
+  },
+  "Part-ser": {
+    "ms": "aludido",
+    "fs": "aludida",
+    "mp": "aludidos",
+    "fp": "aludidas"
+  }
+}

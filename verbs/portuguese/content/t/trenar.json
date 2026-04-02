@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "trenar"
+  },
+  "InfP": {
+    "1s": "trenar",
+    "2s": "trenares",
+    "3s": "trenar",
+    "1p": "trenarmos",
+    "2p": "trenardes",
+    "3p": "trenarem"
+  },
+  "Ger": {
+    "": "trenando"
+  },
+  "PresI": {
+    "1s": "treno",
+    "2s": "trenas",
+    "3s": "trena",
+    "1p": "trenamos",
+    "2p": "trenais",
+    "3p": "trenam"
+  },
+  "PImpI": {
+    "1s": "trenava",
+    "2s": "trenavas",
+    "3s": "trenava",
+    "1p": "trenávamos",
+    "2p": "trenáveis",
+    "3p": "trenavam"
+  },
+  "PPSI": {
+    "1s": "trenei",
+    "2s": "trenaste",
+    "3s": "trenou",
+    "1p": "trenámos",
+    "2p": "trenastes",
+    "3p": "trenaram"
+  },
+  "PMQPSI": {
+    "1s": "trenara",
+    "2s": "trenaras",
+    "3s": "trenara",
+    "1p": "trenáramos",
+    "2p": "trenáreis",
+    "3p": "trenaram"
+  },
+  "FutSI": {
+    "1s": "trenarei",
+    "2s": "trenarás",
+    "3s": "trenará",
+    "1p": "trenaremos",
+    "2p": "trenareis",
+    "3p": "trenarão"
+  },
+  "CondS": {
+    "1s": "trenaria",
+    "2s": "trenarias",
+    "3s": "trenaria",
+    "1p": "trenaríamos",
+    "2p": "trenaríeis",
+    "3p": "trenariam"
+  },
+  "PresC": {
+    "1s": "trene",
+    "2s": "trenes",
+    "3s": "trene",
+    "1p": "trenemos",
+    "2p": "treneis",
+    "3p": "trenem"
+  },
+  "PImpC": {
+    "1s": "trenasse",
+    "2s": "trenasses",
+    "3s": "trenasse",
+    "1p": "trenássemos",
+    "2p": "trenásseis",
+    "3p": "trenassem"
+  },
+  "FutSC": {
+    "1s": "trenar",
+    "2s": "trenares",
+    "3s": "trenar",
+    "1p": "trenarmos",
+    "2p": "trenardes",
+    "3p": "trenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trena",
+    "3s": "trene",
+    "1p": "trenemos",
+    "2p": "trenai",
+    "3p": "trenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não trenes",
+    "3s": "não trene",
+    "1p": "não trenemos",
+    "2p": "não treneis",
+    "3p": "não trenem"
+  },
+  "Part-ter": {
+    "": "trenado"
+  },
+  "Part-ser": {
+    "ms": "trenado",
+    "fs": "trenada",
+    "mp": "trenados",
+    "fp": "trenadas"
+  }
+}

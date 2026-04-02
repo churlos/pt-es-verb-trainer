@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "degustar"
+  },
+  "Ger": {
+    "": "degustando"
+  },
+  "PresI": {
+    "1s": "degusto",
+    "2s": "degustas",
+    "3s": "degusta",
+    "1p": "degustamos",
+    "2p": "degustáis",
+    "3p": "degustan"
+  },
+  "PImpI": {
+    "1s": "degustaba",
+    "2s": "degustabas",
+    "3s": "degustaba",
+    "1p": "degustábamos",
+    "2p": "degustabais",
+    "3p": "degustaban"
+  },
+  "PPSI": {
+    "1s": "degusté",
+    "2s": "degustaste",
+    "3s": "degustó",
+    "1p": "degustamos",
+    "2p": "degustasteis",
+    "3p": "degustaron"
+  },
+  "FutSI": {
+    "1s": "degustaré",
+    "2s": "degustarás",
+    "3s": "degustará",
+    "1p": "degustaremos",
+    "2p": "degustaréis",
+    "3p": "degustarán"
+  },
+  "CondS": {
+    "1s": "degustaría",
+    "2s": "degustarías",
+    "3s": "degustaría",
+    "1p": "degustaríamos",
+    "2p": "degustaríais",
+    "3p": "degustarían"
+  },
+  "PresC": {
+    "1s": "deguste",
+    "2s": "degustes",
+    "3s": "deguste",
+    "1p": "degustemos",
+    "2p": "degustéis",
+    "3p": "degusten"
+  },
+  "PMQPSI": {
+    "1s": "degustara",
+    "2s": "degustaras",
+    "3s": "degustara",
+    "1p": "degustáramos",
+    "2p": "degustarais",
+    "3p": "degustaran"
+  },
+  "PImpC": {
+    "1s": "degustase",
+    "2s": "degustases",
+    "3s": "degustase",
+    "1p": "degustásemos",
+    "2p": "degustaseis",
+    "3p": "degustasen"
+  },
+  "FutSC": {
+    "1s": "degustare",
+    "2s": "degustares",
+    "3s": "degustare",
+    "1p": "degustáremos",
+    "2p": "degustareis",
+    "3p": "degustaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "degusta",
+    "3s": "deguste",
+    "1p": "degustemos",
+    "2p": "degustad",
+    "3p": "degusten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no degustes",
+    "3s": "no deguste",
+    "1p": "no degustemos",
+    "2p": "no degustéis",
+    "3p": "no degusten"
+  },
+  "Part-ter": {
+    "": "degustado"
+  },
+  "Part-ser": {
+    "ms": "degustado",
+    "fs": "degustada",
+    "mp": "degustados",
+    "fp": "degustadas"
+  }
+}

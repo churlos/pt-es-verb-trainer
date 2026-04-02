@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "malhar"
+  },
+  "InfP": {
+    "1s": "malhar",
+    "2s": "malhares",
+    "3s": "malhar",
+    "1p": "malharmos",
+    "2p": "malhardes",
+    "3p": "malharem"
+  },
+  "Ger": {
+    "": "malhando"
+  },
+  "PresI": {
+    "1s": "malho",
+    "2s": "malhas",
+    "3s": "malha",
+    "1p": "malhamos",
+    "2p": "malhais",
+    "3p": "malham"
+  },
+  "PImpI": {
+    "1s": "malhava",
+    "2s": "malhavas",
+    "3s": "malhava",
+    "1p": "malhávamos",
+    "2p": "malháveis",
+    "3p": "malhavam"
+  },
+  "PPSI": {
+    "1s": "malhei",
+    "2s": "malhaste",
+    "3s": "malhou",
+    "1p": "malhámos",
+    "2p": "malhastes",
+    "3p": "malharam"
+  },
+  "PMQPSI": {
+    "1s": "malhara",
+    "2s": "malharas",
+    "3s": "malhara",
+    "1p": "malháramos",
+    "2p": "malháreis",
+    "3p": "malharam"
+  },
+  "FutSI": {
+    "1s": "malharei",
+    "2s": "malharás",
+    "3s": "malhará",
+    "1p": "malharemos",
+    "2p": "malhareis",
+    "3p": "malharão"
+  },
+  "CondS": {
+    "1s": "malharia",
+    "2s": "malharias",
+    "3s": "malharia",
+    "1p": "malharíamos",
+    "2p": "malharíeis",
+    "3p": "malhariam"
+  },
+  "PresC": {
+    "1s": "malhe",
+    "2s": "malhes",
+    "3s": "malhe",
+    "1p": "malhemos",
+    "2p": "malheis",
+    "3p": "malhem"
+  },
+  "PImpC": {
+    "1s": "malhasse",
+    "2s": "malhasses",
+    "3s": "malhasse",
+    "1p": "malhássemos",
+    "2p": "malhásseis",
+    "3p": "malhassem"
+  },
+  "FutSC": {
+    "1s": "malhar",
+    "2s": "malhares",
+    "3s": "malhar",
+    "1p": "malharmos",
+    "2p": "malhardes",
+    "3p": "malharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "malha",
+    "3s": "malhe",
+    "1p": "malhemos",
+    "2p": "malhai",
+    "3p": "malhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não malhes",
+    "3s": "não malhe",
+    "1p": "não malhemos",
+    "2p": "não malheis",
+    "3p": "não malhem"
+  },
+  "Part-ter": {
+    "": "malhado"
+  },
+  "Part-ser": {
+    "ms": "malhado",
+    "fs": "malhada",
+    "mp": "malhados",
+    "fp": "malhadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "geolocalizar"
+  },
+  "Ger": {
+    "": "geolocalizando"
+  },
+  "PresI": {
+    "1s": "geolocalizo",
+    "2s": "geolocalizas",
+    "3s": "geolocaliza",
+    "1p": "geolocalizamos",
+    "2p": "geolocalizáis",
+    "3p": "geolocalizan"
+  },
+  "PImpI": {
+    "1s": "geolocalizaba",
+    "2s": "geolocalizabas",
+    "3s": "geolocalizaba",
+    "1p": "geolocalizábamos",
+    "2p": "geolocalizabais",
+    "3p": "geolocalizaban"
+  },
+  "PPSI": {
+    "1s": "geolocalicé",
+    "2s": "geolocalizaste",
+    "3s": "geolocalizó",
+    "1p": "geolocalizamos",
+    "2p": "geolocalizasteis",
+    "3p": "geolocalizaron"
+  },
+  "FutSI": {
+    "1s": "geolocalizaré",
+    "2s": "geolocalizarás",
+    "3s": "geolocalizará",
+    "1p": "geolocalizaremos",
+    "2p": "geolocalizaréis",
+    "3p": "geolocalizarán"
+  },
+  "CondS": {
+    "1s": "geolocalizaría",
+    "2s": "geolocalizarías",
+    "3s": "geolocalizaría",
+    "1p": "geolocalizaríamos",
+    "2p": "geolocalizaríais",
+    "3p": "geolocalizarían"
+  },
+  "PresC": {
+    "1s": "geolocalice",
+    "2s": "geolocalices",
+    "3s": "geolocalice",
+    "1p": "geolocalicemos",
+    "2p": "geolocalicéis",
+    "3p": "geolocalicen"
+  },
+  "PMQPSI": {
+    "1s": "geolocalizara",
+    "2s": "geolocalizaras",
+    "3s": "geolocalizara",
+    "1p": "geolocalizáramos",
+    "2p": "geolocalizarais",
+    "3p": "geolocalizaran"
+  },
+  "PImpC": {
+    "1s": "geolocalizase",
+    "2s": "geolocalizases",
+    "3s": "geolocalizase",
+    "1p": "geolocalizásemos",
+    "2p": "geolocalizaseis",
+    "3p": "geolocalizasen"
+  },
+  "FutSC": {
+    "1s": "geolocalizare",
+    "2s": "geolocalizares",
+    "3s": "geolocalizare",
+    "1p": "geolocalizáremos",
+    "2p": "geolocalizareis",
+    "3p": "geolocalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "geolocaliza",
+    "3s": "geolocalice",
+    "1p": "geolocalicemos",
+    "2p": "geolocalizad",
+    "3p": "geolocalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no geolocalices",
+    "3s": "no geolocalice",
+    "1p": "no geolocalicemos",
+    "2p": "no geolocalicéis",
+    "3p": "no geolocalicen"
+  },
+  "Part-ter": {
+    "": "geolocalizado"
+  },
+  "Part-ser": {
+    "ms": "geolocalizado",
+    "fs": "geolocalizada",
+    "mp": "geolocalizados",
+    "fp": "geolocalizadas"
+  }
+}

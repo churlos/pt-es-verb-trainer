@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conmover"
+  },
+  "Ger": {
+    "": "conmoviendo"
+  },
+  "PresI": {
+    "1s": "conmuevo",
+    "2s": "conmueves",
+    "3s": "conmueve",
+    "1p": "conmovemos",
+    "2p": "conmovéis",
+    "3p": "conmueven"
+  },
+  "PImpI": {
+    "1s": "conmovía",
+    "2s": "conmovías",
+    "3s": "conmovía",
+    "1p": "conmovíamos",
+    "2p": "conmovíais",
+    "3p": "conmovían"
+  },
+  "PPSI": {
+    "1s": "conmoví",
+    "2s": "conmoviste",
+    "3s": "conmovió",
+    "1p": "conmovimos",
+    "2p": "conmovisteis",
+    "3p": "conmovieron"
+  },
+  "FutSI": {
+    "1s": "conmoveré",
+    "2s": "conmoverás",
+    "3s": "conmoverá",
+    "1p": "conmoveremos",
+    "2p": "conmoveréis",
+    "3p": "conmoverán"
+  },
+  "CondS": {
+    "1s": "conmovería",
+    "2s": "conmoverías",
+    "3s": "conmovería",
+    "1p": "conmoveríamos",
+    "2p": "conmoveríais",
+    "3p": "conmoverían"
+  },
+  "PresC": {
+    "1s": "conmueva",
+    "2s": "conmuevas",
+    "3s": "conmueva",
+    "1p": "conmovamos",
+    "2p": "conmováis",
+    "3p": "conmuevan"
+  },
+  "PMQPSI": {
+    "1s": "conmoviera",
+    "2s": "conmovieras",
+    "3s": "conmoviera",
+    "1p": "conmoviéramos",
+    "2p": "conmovierais",
+    "3p": "conmovieran"
+  },
+  "PImpC": {
+    "1s": "conmoviese",
+    "2s": "conmovieses",
+    "3s": "conmoviese",
+    "1p": "conmoviésemos",
+    "2p": "conmovieseis",
+    "3p": "conmoviesen"
+  },
+  "FutSC": {
+    "1s": "conmoviere",
+    "2s": "conmovieres",
+    "3s": "conmoviere",
+    "1p": "conmoviéremos",
+    "2p": "conmoviereis",
+    "3p": "conmovieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conmueve",
+    "3s": "conmueva",
+    "1p": "conmovamos",
+    "2p": "conmoved",
+    "3p": "conmuevan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conmuevas",
+    "3s": "no conmueva",
+    "1p": "no conmovamos",
+    "2p": "no conmováis",
+    "3p": "no conmuevan"
+  },
+  "Part-ter": {
+    "": "conmovido"
+  },
+  "Part-ser": {
+    "ms": "conmovido",
+    "fs": "conmovida",
+    "mp": "conmovidos",
+    "fp": "conmovidas"
+  }
+}

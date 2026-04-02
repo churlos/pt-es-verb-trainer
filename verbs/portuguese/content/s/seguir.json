@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "seguir"
+  },
+  "InfP": {
+    "1s": "seguir",
+    "2s": "seguires",
+    "3s": "seguir",
+    "1p": "seguirmos",
+    "2p": "seguirdes",
+    "3p": "seguirem"
+  },
+  "Ger": {
+    "": "seguindo"
+  },
+  "PresI": {
+    "1s": "sigo",
+    "2s": "segues",
+    "3s": "segue",
+    "1p": "seguimos",
+    "2p": "seguis",
+    "3p": "seguem"
+  },
+  "PImpI": {
+    "1s": "seguia",
+    "2s": "seguias",
+    "3s": "seguia",
+    "1p": "seguíamos",
+    "2p": "seguíeis",
+    "3p": "seguiam"
+  },
+  "PPSI": {
+    "1s": "segui",
+    "2s": "seguiste",
+    "3s": "seguiu",
+    "1p": "seguimos",
+    "2p": "seguistes",
+    "3p": "seguiram"
+  },
+  "PMQPSI": {
+    "1s": "seguira",
+    "2s": "seguiras",
+    "3s": "seguira",
+    "1p": "seguíramos",
+    "2p": "seguíreis",
+    "3p": "seguiram"
+  },
+  "FutSI": {
+    "1s": "seguirei",
+    "2s": "seguirás",
+    "3s": "seguirá",
+    "1p": "seguiremos",
+    "2p": "seguireis",
+    "3p": "seguirão"
+  },
+  "CondS": {
+    "1s": "seguiria",
+    "2s": "seguirias",
+    "3s": "seguiria",
+    "1p": "seguiríamos",
+    "2p": "seguiríeis",
+    "3p": "seguiriam"
+  },
+  "PresC": {
+    "1s": "siga",
+    "2s": "sigas",
+    "3s": "siga",
+    "1p": "sigamos",
+    "2p": "sigais",
+    "3p": "sigam"
+  },
+  "PImpC": {
+    "1s": "seguisse",
+    "2s": "seguisses",
+    "3s": "seguisse",
+    "1p": "seguíssemos",
+    "2p": "seguísseis",
+    "3p": "seguissem"
+  },
+  "FutSC": {
+    "1s": "seguir",
+    "2s": "seguires",
+    "3s": "seguir",
+    "1p": "seguirmos",
+    "2p": "seguirdes",
+    "3p": "seguirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segue",
+    "3s": "siga",
+    "1p": "sigamos",
+    "2p": "segui",
+    "3p": "sigam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sigas",
+    "3s": "não siga",
+    "1p": "não sigamos",
+    "2p": "não sigais",
+    "3p": "não sigam"
+  },
+  "Part-ter": {
+    "": "seguido"
+  },
+  "Part-ser": {
+    "ms": "seguido",
+    "fs": "seguida",
+    "mp": "seguidos",
+    "fp": "seguidas"
+  }
+}

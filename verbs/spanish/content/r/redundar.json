@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "redundar"
+  },
+  "Ger": {
+    "": "redundando"
+  },
+  "PresI": {
+    "1s": "redundo",
+    "2s": "redundas",
+    "3s": "redunda",
+    "1p": "redundamos",
+    "2p": "redundáis",
+    "3p": "redundan"
+  },
+  "PImpI": {
+    "1s": "redundaba",
+    "2s": "redundabas",
+    "3s": "redundaba",
+    "1p": "redundábamos",
+    "2p": "redundabais",
+    "3p": "redundaban"
+  },
+  "PPSI": {
+    "1s": "redundé",
+    "2s": "redundaste",
+    "3s": "redundó",
+    "1p": "redundamos",
+    "2p": "redundasteis",
+    "3p": "redundaron"
+  },
+  "FutSI": {
+    "1s": "redundaré",
+    "2s": "redundarás",
+    "3s": "redundará",
+    "1p": "redundaremos",
+    "2p": "redundaréis",
+    "3p": "redundarán"
+  },
+  "CondS": {
+    "1s": "redundaría",
+    "2s": "redundarías",
+    "3s": "redundaría",
+    "1p": "redundaríamos",
+    "2p": "redundaríais",
+    "3p": "redundarían"
+  },
+  "PresC": {
+    "1s": "redunde",
+    "2s": "redundes",
+    "3s": "redunde",
+    "1p": "redundemos",
+    "2p": "redundéis",
+    "3p": "redunden"
+  },
+  "PMQPSI": {
+    "1s": "redundara",
+    "2s": "redundaras",
+    "3s": "redundara",
+    "1p": "redundáramos",
+    "2p": "redundarais",
+    "3p": "redundaran"
+  },
+  "PImpC": {
+    "1s": "redundase",
+    "2s": "redundases",
+    "3s": "redundase",
+    "1p": "redundásemos",
+    "2p": "redundaseis",
+    "3p": "redundasen"
+  },
+  "FutSC": {
+    "1s": "redundare",
+    "2s": "redundares",
+    "3s": "redundare",
+    "1p": "redundáremos",
+    "2p": "redundareis",
+    "3p": "redundaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "redunda",
+    "3s": "redunde",
+    "1p": "redundemos",
+    "2p": "redundad",
+    "3p": "redunden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no redundes",
+    "3s": "no redunde",
+    "1p": "no redundemos",
+    "2p": "no redundéis",
+    "3p": "no redunden"
+  },
+  "Part-ter": {
+    "": "redundado"
+  },
+  "Part-ser": {
+    "ms": "redundado",
+    "fs": "redundada",
+    "mp": "redundados",
+    "fp": "redundadas"
+  }
+}

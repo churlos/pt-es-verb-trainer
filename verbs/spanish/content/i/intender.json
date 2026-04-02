@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "intender"
+  },
+  "Ger": {
+    "": "intendiendo"
+  },
+  "PresI": {
+    "1s": "intiendo",
+    "2s": "intiendes",
+    "3s": "intiende",
+    "1p": "intendemos",
+    "2p": "intendéis",
+    "3p": "intienden"
+  },
+  "PImpI": {
+    "1s": "intendía",
+    "2s": "intendías",
+    "3s": "intendía",
+    "1p": "intendíamos",
+    "2p": "intendíais",
+    "3p": "intendían"
+  },
+  "PPSI": {
+    "1s": "intendí",
+    "2s": "intendiste",
+    "3s": "intendió",
+    "1p": "intendimos",
+    "2p": "intendisteis",
+    "3p": "intendieron"
+  },
+  "FutSI": {
+    "1s": "intenderé",
+    "2s": "intenderás",
+    "3s": "intenderá",
+    "1p": "intenderemos",
+    "2p": "intenderéis",
+    "3p": "intenderán"
+  },
+  "CondS": {
+    "1s": "intendería",
+    "2s": "intenderías",
+    "3s": "intendería",
+    "1p": "intenderíamos",
+    "2p": "intenderíais",
+    "3p": "intenderían"
+  },
+  "PresC": {
+    "1s": "intienda",
+    "2s": "intiendas",
+    "3s": "intienda",
+    "1p": "intendamos",
+    "2p": "intendáis",
+    "3p": "intiendan"
+  },
+  "PMQPSI": {
+    "1s": "intendiera",
+    "2s": "intendieras",
+    "3s": "intendiera",
+    "1p": "intendiéramos",
+    "2p": "intendierais",
+    "3p": "intendieran"
+  },
+  "PImpC": {
+    "1s": "intendiese",
+    "2s": "intendieses",
+    "3s": "intendiese",
+    "1p": "intendiésemos",
+    "2p": "intendieseis",
+    "3p": "intendiesen"
+  },
+  "FutSC": {
+    "1s": "intendiere",
+    "2s": "intendieres",
+    "3s": "intendiere",
+    "1p": "intendiéremos",
+    "2p": "intendiereis",
+    "3p": "intendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intiende",
+    "3s": "intienda",
+    "1p": "intendamos",
+    "2p": "intended",
+    "3p": "intiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no intiendas",
+    "3s": "no intienda",
+    "1p": "no intendamos",
+    "2p": "no intendáis",
+    "3p": "no intiendan"
+  },
+  "Part-ter": {
+    "": "intendido"
+  },
+  "Part-ser": {
+    "ms": "intendido",
+    "fs": "intendida",
+    "mp": "intendidos",
+    "fp": "intendidas"
+  }
+}

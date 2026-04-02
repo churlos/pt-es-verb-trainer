@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "discretear"
+  },
+  "InfP": {
+    "1s": "discretear",
+    "2s": "discreteares",
+    "3s": "discretear",
+    "1p": "discretearmos",
+    "2p": "discreteardes",
+    "3p": "discretearem"
+  },
+  "Ger": {
+    "": "discreteando"
+  },
+  "PresI": {
+    "1s": "discreteo",
+    "2s": "discreteas",
+    "3s": "discretea",
+    "1p": "discreteamos",
+    "2p": "discreteais",
+    "3p": "discreteam"
+  },
+  "PImpI": {
+    "1s": "discreteava",
+    "2s": "discreteavas",
+    "3s": "discreteava",
+    "1p": "discreteávamos",
+    "2p": "discreteáveis",
+    "3p": "discreteavam"
+  },
+  "PPSI": {
+    "1s": "discreteei",
+    "2s": "discreteaste",
+    "3s": "discreteou",
+    "1p": "discreteámos",
+    "2p": "discreteastes",
+    "3p": "discretearam"
+  },
+  "PMQPSI": {
+    "1s": "discreteara",
+    "2s": "discretearas",
+    "3s": "discreteara",
+    "1p": "discreteáramos",
+    "2p": "discreteáreis",
+    "3p": "discretearam"
+  },
+  "FutSI": {
+    "1s": "discretearei",
+    "2s": "discretearás",
+    "3s": "discreteará",
+    "1p": "discretearemos",
+    "2p": "discreteareis",
+    "3p": "discretearão"
+  },
+  "CondS": {
+    "1s": "discretearia",
+    "2s": "discretearias",
+    "3s": "discretearia",
+    "1p": "discretearíamos",
+    "2p": "discretearíeis",
+    "3p": "discreteariam"
+  },
+  "PresC": {
+    "1s": "discretee",
+    "2s": "discretees",
+    "3s": "discretee",
+    "1p": "discreteemos",
+    "2p": "discreteeis",
+    "3p": "discreteem"
+  },
+  "PImpC": {
+    "1s": "discreteasse",
+    "2s": "discreteasses",
+    "3s": "discreteasse",
+    "1p": "discreteássemos",
+    "2p": "discreteásseis",
+    "3p": "discreteassem"
+  },
+  "FutSC": {
+    "1s": "discretear",
+    "2s": "discreteares",
+    "3s": "discretear",
+    "1p": "discretearmos",
+    "2p": "discreteardes",
+    "3p": "discretearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "discretea",
+    "3s": "discretee",
+    "1p": "discreteemos",
+    "2p": "discreteai",
+    "3p": "discreteem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não discretees",
+    "3s": "não discretee",
+    "1p": "não discreteemos",
+    "2p": "não discreteeis",
+    "3p": "não discreteem"
+  },
+  "Part-ter": {
+    "": "discreteado"
+  },
+  "Part-ser": {
+    "ms": "discreteado",
+    "fs": "discreteada",
+    "mp": "discreteados",
+    "fp": "discreteadas"
+  }
+}

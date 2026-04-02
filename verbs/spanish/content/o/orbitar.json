@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "orbitar"
+  },
+  "Ger": {
+    "": "orbitando"
+  },
+  "PresI": {
+    "1s": "orbito",
+    "2s": "orbitas",
+    "3s": "orbita",
+    "1p": "orbitamos",
+    "2p": "orbitáis",
+    "3p": "orbitan"
+  },
+  "PImpI": {
+    "1s": "orbitaba",
+    "2s": "orbitabas",
+    "3s": "orbitaba",
+    "1p": "orbitábamos",
+    "2p": "orbitabais",
+    "3p": "orbitaban"
+  },
+  "PPSI": {
+    "1s": "orbité",
+    "2s": "orbitaste",
+    "3s": "orbitó",
+    "1p": "orbitamos",
+    "2p": "orbitasteis",
+    "3p": "orbitaron"
+  },
+  "FutSI": {
+    "1s": "orbitaré",
+    "2s": "orbitarás",
+    "3s": "orbitará",
+    "1p": "orbitaremos",
+    "2p": "orbitaréis",
+    "3p": "orbitarán"
+  },
+  "CondS": {
+    "1s": "orbitaría",
+    "2s": "orbitarías",
+    "3s": "orbitaría",
+    "1p": "orbitaríamos",
+    "2p": "orbitaríais",
+    "3p": "orbitarían"
+  },
+  "PresC": {
+    "1s": "orbite",
+    "2s": "orbites",
+    "3s": "orbite",
+    "1p": "orbitemos",
+    "2p": "orbitéis",
+    "3p": "orbiten"
+  },
+  "PMQPSI": {
+    "1s": "orbitara",
+    "2s": "orbitaras",
+    "3s": "orbitara",
+    "1p": "orbitáramos",
+    "2p": "orbitarais",
+    "3p": "orbitaran"
+  },
+  "PImpC": {
+    "1s": "orbitase",
+    "2s": "orbitases",
+    "3s": "orbitase",
+    "1p": "orbitásemos",
+    "2p": "orbitaseis",
+    "3p": "orbitasen"
+  },
+  "FutSC": {
+    "1s": "orbitare",
+    "2s": "orbitares",
+    "3s": "orbitare",
+    "1p": "orbitáremos",
+    "2p": "orbitareis",
+    "3p": "orbitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "orbita",
+    "3s": "orbite",
+    "1p": "orbitemos",
+    "2p": "orbitad",
+    "3p": "orbiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no orbites",
+    "3s": "no orbite",
+    "1p": "no orbitemos",
+    "2p": "no orbitéis",
+    "3p": "no orbiten"
+  },
+  "Part-ter": {
+    "": "orbitado"
+  },
+  "Part-ser": {
+    "ms": "orbitado",
+    "fs": "orbitada",
+    "mp": "orbitados",
+    "fp": "orbitadas"
+  }
+}

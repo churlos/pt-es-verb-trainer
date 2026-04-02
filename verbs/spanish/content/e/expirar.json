@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "expirar"
+  },
+  "Ger": {
+    "": "expirando"
+  },
+  "PresI": {
+    "1s": "expiro",
+    "2s": "expiras",
+    "3s": "expira",
+    "1p": "expiramos",
+    "2p": "expiráis",
+    "3p": "expiran"
+  },
+  "PImpI": {
+    "1s": "expiraba",
+    "2s": "expirabas",
+    "3s": "expiraba",
+    "1p": "expirábamos",
+    "2p": "expirabais",
+    "3p": "expiraban"
+  },
+  "PPSI": {
+    "1s": "expiré",
+    "2s": "expiraste",
+    "3s": "expiró",
+    "1p": "expiramos",
+    "2p": "expirasteis",
+    "3p": "expiraron"
+  },
+  "FutSI": {
+    "1s": "expiraré",
+    "2s": "expirarás",
+    "3s": "expirará",
+    "1p": "expiraremos",
+    "2p": "expiraréis",
+    "3p": "expirarán"
+  },
+  "CondS": {
+    "1s": "expiraría",
+    "2s": "expirarías",
+    "3s": "expiraría",
+    "1p": "expiraríamos",
+    "2p": "expiraríais",
+    "3p": "expirarían"
+  },
+  "PresC": {
+    "1s": "expire",
+    "2s": "expires",
+    "3s": "expire",
+    "1p": "expiremos",
+    "2p": "expiréis",
+    "3p": "expiren"
+  },
+  "PMQPSI": {
+    "1s": "expirara",
+    "2s": "expiraras",
+    "3s": "expirara",
+    "1p": "expiráramos",
+    "2p": "expirarais",
+    "3p": "expiraran"
+  },
+  "PImpC": {
+    "1s": "expirase",
+    "2s": "expirases",
+    "3s": "expirase",
+    "1p": "expirásemos",
+    "2p": "expiraseis",
+    "3p": "expirasen"
+  },
+  "FutSC": {
+    "1s": "expirare",
+    "2s": "expirares",
+    "3s": "expirare",
+    "1p": "expiráremos",
+    "2p": "expirareis",
+    "3p": "expiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expira",
+    "3s": "expire",
+    "1p": "expiremos",
+    "2p": "expirad",
+    "3p": "expiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no expires",
+    "3s": "no expire",
+    "1p": "no expiremos",
+    "2p": "no expiréis",
+    "3p": "no expiren"
+  },
+  "Part-ter": {
+    "": "expirado"
+  },
+  "Part-ser": {
+    "ms": "expirado",
+    "fs": "expirada",
+    "mp": "expirados",
+    "fp": "expiradas"
+  }
+}

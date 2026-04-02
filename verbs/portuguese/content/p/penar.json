@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "penar"
+  },
+  "InfP": {
+    "1s": "penar",
+    "2s": "penares",
+    "3s": "penar",
+    "1p": "penarmos",
+    "2p": "penardes",
+    "3p": "penarem"
+  },
+  "Ger": {
+    "": "penando"
+  },
+  "PresI": {
+    "1s": "peno",
+    "2s": "penas",
+    "3s": "pena",
+    "1p": "penamos",
+    "2p": "penais",
+    "3p": "penam"
+  },
+  "PImpI": {
+    "1s": "penava",
+    "2s": "penavas",
+    "3s": "penava",
+    "1p": "penávamos",
+    "2p": "penáveis",
+    "3p": "penavam"
+  },
+  "PPSI": {
+    "1s": "penei",
+    "2s": "penaste",
+    "3s": "penou",
+    "1p": "penámos",
+    "2p": "penastes",
+    "3p": "penaram"
+  },
+  "PMQPSI": {
+    "1s": "penara",
+    "2s": "penaras",
+    "3s": "penara",
+    "1p": "penáramos",
+    "2p": "penáreis",
+    "3p": "penaram"
+  },
+  "FutSI": {
+    "1s": "penarei",
+    "2s": "penarás",
+    "3s": "penará",
+    "1p": "penaremos",
+    "2p": "penareis",
+    "3p": "penarão"
+  },
+  "CondS": {
+    "1s": "penaria",
+    "2s": "penarias",
+    "3s": "penaria",
+    "1p": "penaríamos",
+    "2p": "penaríeis",
+    "3p": "penariam"
+  },
+  "PresC": {
+    "1s": "pene",
+    "2s": "penes",
+    "3s": "pene",
+    "1p": "penemos",
+    "2p": "peneis",
+    "3p": "penem"
+  },
+  "PImpC": {
+    "1s": "penasse",
+    "2s": "penasses",
+    "3s": "penasse",
+    "1p": "penássemos",
+    "2p": "penásseis",
+    "3p": "penassem"
+  },
+  "FutSC": {
+    "1s": "penar",
+    "2s": "penares",
+    "3s": "penar",
+    "1p": "penarmos",
+    "2p": "penardes",
+    "3p": "penarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pena",
+    "3s": "pene",
+    "1p": "penemos",
+    "2p": "penai",
+    "3p": "penem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não penes",
+    "3s": "não pene",
+    "1p": "não penemos",
+    "2p": "não peneis",
+    "3p": "não penem"
+  },
+  "Part-ter": {
+    "": "penado"
+  },
+  "Part-ser": {
+    "ms": "penado",
+    "fs": "penada",
+    "mp": "penados",
+    "fp": "penadas"
+  }
+}

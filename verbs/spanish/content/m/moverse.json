@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "moverse"
+  },
+  "Ger": {
+    "": "moviéndose"
+  },
+  "PresI": {
+    "1s": "me muevo",
+    "2s": "te mueves",
+    "3s": "se mueve",
+    "1p": "nos movemos",
+    "2p": "os movéis",
+    "3p": "se mueven"
+  },
+  "PImpI": {
+    "1s": "me movía",
+    "2s": "te movías",
+    "3s": "se movía",
+    "1p": "nos movíamos",
+    "2p": "os movíais",
+    "3p": "se movían"
+  },
+  "PPSI": {
+    "1s": "me moví",
+    "2s": "te moviste",
+    "3s": "se movió",
+    "1p": "nos movimos",
+    "2p": "os movisteis",
+    "3p": "se movieron"
+  },
+  "FutSI": {
+    "1s": "me moveré",
+    "2s": "te moverás",
+    "3s": "se moverá",
+    "1p": "nos moveremos",
+    "2p": "os moveréis",
+    "3p": "se moverán"
+  },
+  "CondS": {
+    "1s": "me movería",
+    "2s": "te moverías",
+    "3s": "se movería",
+    "1p": "nos moveríamos",
+    "2p": "os moveríais",
+    "3p": "se moverían"
+  },
+  "PresC": {
+    "1s": "me mueva",
+    "2s": "te muevas",
+    "3s": "se mueva",
+    "1p": "nos movamos",
+    "2p": "os mováis",
+    "3p": "se muevan"
+  },
+  "PMQPSI": {
+    "1s": "me moviera",
+    "2s": "te movieras",
+    "3s": "se moviera",
+    "1p": "nos moviéramos",
+    "2p": "os movierais",
+    "3p": "se movieran"
+  },
+  "PImpC": {
+    "1s": "me moviese",
+    "2s": "te movieses",
+    "3s": "se moviese",
+    "1p": "nos moviésemos",
+    "2p": "os movieseis",
+    "3p": "se moviesen"
+  },
+  "FutSC": {
+    "1s": "me moviere",
+    "2s": "te movieres",
+    "3s": "se moviere",
+    "1p": "nos moviéremos",
+    "2p": "os moviereis",
+    "3p": "se movieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "muévete",
+    "3s": "muévase",
+    "1p": "movámonos",
+    "2p": "moveos",
+    "3p": "muévanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te muevas",
+    "3s": "no se mueva",
+    "1p": "no nos movamos",
+    "2p": "no os mováis",
+    "3p": "no se muevan"
+  },
+  "Part-ter": {
+    "": "movido"
+  },
+  "Part-ser": {
+    "ms": "movido",
+    "fs": "movida",
+    "mp": "movidos",
+    "fp": "movidas"
+  }
+}

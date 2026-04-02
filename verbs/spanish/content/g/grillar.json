@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "grillar"
+  },
+  "Ger": {
+    "": "grillando"
+  },
+  "PresI": {
+    "1s": "grillo",
+    "2s": "grillas",
+    "3s": "grilla",
+    "1p": "grillamos",
+    "2p": "grilláis",
+    "3p": "grillan"
+  },
+  "PImpI": {
+    "1s": "grillaba",
+    "2s": "grillabas",
+    "3s": "grillaba",
+    "1p": "grillábamos",
+    "2p": "grillabais",
+    "3p": "grillaban"
+  },
+  "PPSI": {
+    "1s": "grillé",
+    "2s": "grillaste",
+    "3s": "grilló",
+    "1p": "grillamos",
+    "2p": "grillasteis",
+    "3p": "grillaron"
+  },
+  "FutSI": {
+    "1s": "grillaré",
+    "2s": "grillarás",
+    "3s": "grillará",
+    "1p": "grillaremos",
+    "2p": "grillaréis",
+    "3p": "grillarán"
+  },
+  "CondS": {
+    "1s": "grillaría",
+    "2s": "grillarías",
+    "3s": "grillaría",
+    "1p": "grillaríamos",
+    "2p": "grillaríais",
+    "3p": "grillarían"
+  },
+  "PresC": {
+    "1s": "grille",
+    "2s": "grilles",
+    "3s": "grille",
+    "1p": "grillemos",
+    "2p": "grilléis",
+    "3p": "grillen"
+  },
+  "PMQPSI": {
+    "1s": "grillara",
+    "2s": "grillaras",
+    "3s": "grillara",
+    "1p": "grilláramos",
+    "2p": "grillarais",
+    "3p": "grillaran"
+  },
+  "PImpC": {
+    "1s": "grillase",
+    "2s": "grillases",
+    "3s": "grillase",
+    "1p": "grillásemos",
+    "2p": "grillaseis",
+    "3p": "grillasen"
+  },
+  "FutSC": {
+    "1s": "grillare",
+    "2s": "grillares",
+    "3s": "grillare",
+    "1p": "grilláremos",
+    "2p": "grillareis",
+    "3p": "grillaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grilla",
+    "3s": "grille",
+    "1p": "grillemos",
+    "2p": "grillad",
+    "3p": "grillen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no grilles",
+    "3s": "no grille",
+    "1p": "no grillemos",
+    "2p": "no grilléis",
+    "3p": "no grillen"
+  },
+  "Part-ter": {
+    "": "grillado"
+  },
+  "Part-ser": {
+    "ms": "grillado",
+    "fs": "grillada",
+    "mp": "grillados",
+    "fp": "grilladas"
+  }
+}

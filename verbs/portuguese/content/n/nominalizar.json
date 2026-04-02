@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "nominalizar"
+  },
+  "InfP": {
+    "1s": "nominalizar",
+    "2s": "nominalizares",
+    "3s": "nominalizar",
+    "1p": "nominalizarmos",
+    "2p": "nominalizardes",
+    "3p": "nominalizarem"
+  },
+  "Ger": {
+    "": "nominalizando"
+  },
+  "PresI": {
+    "1s": "nominalizo",
+    "2s": "nominalizas",
+    "3s": "nominaliza",
+    "1p": "nominalizamos",
+    "2p": "nominalizais",
+    "3p": "nominalizam"
+  },
+  "PImpI": {
+    "1s": "nominalizava",
+    "2s": "nominalizavas",
+    "3s": "nominalizava",
+    "1p": "nominalizávamos",
+    "2p": "nominalizáveis",
+    "3p": "nominalizavam"
+  },
+  "PPSI": {
+    "1s": "nominalizei",
+    "2s": "nominalizaste",
+    "3s": "nominalizou",
+    "1p": "nominalizámos",
+    "2p": "nominalizastes",
+    "3p": "nominalizaram"
+  },
+  "PMQPSI": {
+    "1s": "nominalizara",
+    "2s": "nominalizaras",
+    "3s": "nominalizara",
+    "1p": "nominalizáramos",
+    "2p": "nominalizáreis",
+    "3p": "nominalizaram"
+  },
+  "FutSI": {
+    "1s": "nominalizarei",
+    "2s": "nominalizarás",
+    "3s": "nominalizará",
+    "1p": "nominalizaremos",
+    "2p": "nominalizareis",
+    "3p": "nominalizarão"
+  },
+  "CondS": {
+    "1s": "nominalizaria",
+    "2s": "nominalizarias",
+    "3s": "nominalizaria",
+    "1p": "nominalizaríamos",
+    "2p": "nominalizaríeis",
+    "3p": "nominalizariam"
+  },
+  "PresC": {
+    "1s": "nominalize",
+    "2s": "nominalizes",
+    "3s": "nominalize",
+    "1p": "nominalizemos",
+    "2p": "nominalizeis",
+    "3p": "nominalizem"
+  },
+  "PImpC": {
+    "1s": "nominalizasse",
+    "2s": "nominalizasses",
+    "3s": "nominalizasse",
+    "1p": "nominalizássemos",
+    "2p": "nominalizásseis",
+    "3p": "nominalizassem"
+  },
+  "FutSC": {
+    "1s": "nominalizar",
+    "2s": "nominalizares",
+    "3s": "nominalizar",
+    "1p": "nominalizarmos",
+    "2p": "nominalizardes",
+    "3p": "nominalizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nominaliza",
+    "3s": "nominalize",
+    "1p": "nominalizemos",
+    "2p": "nominalizai",
+    "3p": "nominalizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não nominalizes",
+    "3s": "não nominalize",
+    "1p": "não nominalizemos",
+    "2p": "não nominalizeis",
+    "3p": "não nominalizem"
+  },
+  "Part-ter": {
+    "": "nominalizado"
+  },
+  "Part-ser": {
+    "ms": "nominalizado",
+    "fs": "nominalizada",
+    "mp": "nominalizados",
+    "fp": "nominalizadas"
+  }
+}

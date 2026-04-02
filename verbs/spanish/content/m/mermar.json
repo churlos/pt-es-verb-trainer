@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mermar"
+  },
+  "Ger": {
+    "": "mermando"
+  },
+  "PresI": {
+    "1s": "mermo",
+    "2s": "mermas",
+    "3s": "merma",
+    "1p": "mermamos",
+    "2p": "mermáis",
+    "3p": "merman"
+  },
+  "PImpI": {
+    "1s": "mermaba",
+    "2s": "mermabas",
+    "3s": "mermaba",
+    "1p": "mermábamos",
+    "2p": "mermabais",
+    "3p": "mermaban"
+  },
+  "PPSI": {
+    "1s": "mermé",
+    "2s": "mermaste",
+    "3s": "mermó",
+    "1p": "mermamos",
+    "2p": "mermasteis",
+    "3p": "mermaron"
+  },
+  "FutSI": {
+    "1s": "mermaré",
+    "2s": "mermarás",
+    "3s": "mermará",
+    "1p": "mermaremos",
+    "2p": "mermaréis",
+    "3p": "mermarán"
+  },
+  "CondS": {
+    "1s": "mermaría",
+    "2s": "mermarías",
+    "3s": "mermaría",
+    "1p": "mermaríamos",
+    "2p": "mermaríais",
+    "3p": "mermarían"
+  },
+  "PresC": {
+    "1s": "merme",
+    "2s": "mermes",
+    "3s": "merme",
+    "1p": "mermemos",
+    "2p": "merméis",
+    "3p": "mermen"
+  },
+  "PMQPSI": {
+    "1s": "mermara",
+    "2s": "mermaras",
+    "3s": "mermara",
+    "1p": "mermáramos",
+    "2p": "mermarais",
+    "3p": "mermaran"
+  },
+  "PImpC": {
+    "1s": "mermase",
+    "2s": "mermases",
+    "3s": "mermase",
+    "1p": "mermásemos",
+    "2p": "mermaseis",
+    "3p": "mermasen"
+  },
+  "FutSC": {
+    "1s": "mermare",
+    "2s": "mermares",
+    "3s": "mermare",
+    "1p": "mermáremos",
+    "2p": "mermareis",
+    "3p": "mermaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "merma",
+    "3s": "merme",
+    "1p": "mermemos",
+    "2p": "mermad",
+    "3p": "mermen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mermes",
+    "3s": "no merme",
+    "1p": "no mermemos",
+    "2p": "no merméis",
+    "3p": "no mermen"
+  },
+  "Part-ter": {
+    "": "mermado"
+  },
+  "Part-ser": {
+    "ms": "mermado",
+    "fs": "mermada",
+    "mp": "mermados",
+    "fp": "mermadas"
+  }
+}

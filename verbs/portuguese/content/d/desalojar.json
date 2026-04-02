@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desalojar"
+  },
+  "InfP": {
+    "1s": "desalojar",
+    "2s": "desalojares",
+    "3s": "desalojar",
+    "1p": "desalojarmos",
+    "2p": "desalojardes",
+    "3p": "desalojarem"
+  },
+  "Ger": {
+    "": "desalojando"
+  },
+  "PresI": {
+    "1s": "desalojo",
+    "2s": "desalojas",
+    "3s": "desaloja",
+    "1p": "desalojamos",
+    "2p": "desalojais",
+    "3p": "desalojam"
+  },
+  "PImpI": {
+    "1s": "desalojava",
+    "2s": "desalojavas",
+    "3s": "desalojava",
+    "1p": "desalojávamos",
+    "2p": "desalojáveis",
+    "3p": "desalojavam"
+  },
+  "PPSI": {
+    "1s": "desalojei",
+    "2s": "desalojaste",
+    "3s": "desalojou",
+    "1p": "desalojámos",
+    "2p": "desalojastes",
+    "3p": "desalojaram"
+  },
+  "PMQPSI": {
+    "1s": "desalojara",
+    "2s": "desalojaras",
+    "3s": "desalojara",
+    "1p": "desalojáramos",
+    "2p": "desalojáreis",
+    "3p": "desalojaram"
+  },
+  "FutSI": {
+    "1s": "desalojarei",
+    "2s": "desalojarás",
+    "3s": "desalojará",
+    "1p": "desalojaremos",
+    "2p": "desalojareis",
+    "3p": "desalojarão"
+  },
+  "CondS": {
+    "1s": "desalojaria",
+    "2s": "desalojarias",
+    "3s": "desalojaria",
+    "1p": "desalojaríamos",
+    "2p": "desalojaríeis",
+    "3p": "desalojariam"
+  },
+  "PresC": {
+    "1s": "desaloje",
+    "2s": "desalojes",
+    "3s": "desaloje",
+    "1p": "desalojemos",
+    "2p": "desalojeis",
+    "3p": "desalojem"
+  },
+  "PImpC": {
+    "1s": "desalojasse",
+    "2s": "desalojasses",
+    "3s": "desalojasse",
+    "1p": "desalojássemos",
+    "2p": "desalojásseis",
+    "3p": "desalojassem"
+  },
+  "FutSC": {
+    "1s": "desalojar",
+    "2s": "desalojares",
+    "3s": "desalojar",
+    "1p": "desalojarmos",
+    "2p": "desalojardes",
+    "3p": "desalojarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desaloja",
+    "3s": "desaloje",
+    "1p": "desalojemos",
+    "2p": "desalojai",
+    "3p": "desalojem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desalojes",
+    "3s": "não desaloje",
+    "1p": "não desalojemos",
+    "2p": "não desalojeis",
+    "3p": "não desalojem"
+  },
+  "Part-ter": {
+    "": "desalojado"
+  },
+  "Part-ser": {
+    "ms": "desalojado",
+    "fs": "desalojada",
+    "mp": "desalojados",
+    "fp": "desalojadas"
+  }
+}

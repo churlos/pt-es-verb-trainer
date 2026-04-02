@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "licenciar"
+  },
+  "Ger": {
+    "": "licenciando"
+  },
+  "PresI": {
+    "1s": "licencio",
+    "2s": "licencias",
+    "3s": "licencia",
+    "1p": "licenciamos",
+    "2p": "licenciáis",
+    "3p": "licencian"
+  },
+  "PImpI": {
+    "1s": "licenciaba",
+    "2s": "licenciabas",
+    "3s": "licenciaba",
+    "1p": "licenciábamos",
+    "2p": "licenciabais",
+    "3p": "licenciaban"
+  },
+  "PPSI": {
+    "1s": "licencié",
+    "2s": "licenciaste",
+    "3s": "licenció",
+    "1p": "licenciamos",
+    "2p": "licenciasteis",
+    "3p": "licenciaron"
+  },
+  "FutSI": {
+    "1s": "licenciaré",
+    "2s": "licenciarás",
+    "3s": "licenciará",
+    "1p": "licenciaremos",
+    "2p": "licenciaréis",
+    "3p": "licenciarán"
+  },
+  "CondS": {
+    "1s": "licenciaría",
+    "2s": "licenciarías",
+    "3s": "licenciaría",
+    "1p": "licenciaríamos",
+    "2p": "licenciaríais",
+    "3p": "licenciarían"
+  },
+  "PresC": {
+    "1s": "licencie",
+    "2s": "licencies",
+    "3s": "licencie",
+    "1p": "licenciemos",
+    "2p": "licenciéis",
+    "3p": "licencien"
+  },
+  "PMQPSI": {
+    "1s": "licenciara",
+    "2s": "licenciaras",
+    "3s": "licenciara",
+    "1p": "licenciáramos",
+    "2p": "licenciarais",
+    "3p": "licenciaran"
+  },
+  "PImpC": {
+    "1s": "licenciase",
+    "2s": "licenciases",
+    "3s": "licenciase",
+    "1p": "licenciásemos",
+    "2p": "licenciaseis",
+    "3p": "licenciasen"
+  },
+  "FutSC": {
+    "1s": "licenciare",
+    "2s": "licenciares",
+    "3s": "licenciare",
+    "1p": "licenciáremos",
+    "2p": "licenciareis",
+    "3p": "licenciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "licencia",
+    "3s": "licencie",
+    "1p": "licenciemos",
+    "2p": "licenciad",
+    "3p": "licencien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no licencies",
+    "3s": "no licencie",
+    "1p": "no licenciemos",
+    "2p": "no licenciéis",
+    "3p": "no licencien"
+  },
+  "Part-ter": {
+    "": "licenciado"
+  },
+  "Part-ser": {
+    "ms": "licenciado",
+    "fs": "licenciada",
+    "mp": "licenciados",
+    "fp": "licenciadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "emprestar"
+  },
+  "Ger": {
+    "": "emprestando"
+  },
+  "PresI": {
+    "1s": "empresto",
+    "2s": "emprestas",
+    "3s": "empresta",
+    "1p": "emprestamos",
+    "2p": "emprestáis",
+    "3p": "emprestan"
+  },
+  "PImpI": {
+    "1s": "emprestaba",
+    "2s": "emprestabas",
+    "3s": "emprestaba",
+    "1p": "emprestábamos",
+    "2p": "emprestabais",
+    "3p": "emprestaban"
+  },
+  "PPSI": {
+    "1s": "empresté",
+    "2s": "emprestaste",
+    "3s": "emprestó",
+    "1p": "emprestamos",
+    "2p": "emprestasteis",
+    "3p": "emprestaron"
+  },
+  "FutSI": {
+    "1s": "emprestaré",
+    "2s": "emprestarás",
+    "3s": "emprestará",
+    "1p": "emprestaremos",
+    "2p": "emprestaréis",
+    "3p": "emprestarán"
+  },
+  "CondS": {
+    "1s": "emprestaría",
+    "2s": "emprestarías",
+    "3s": "emprestaría",
+    "1p": "emprestaríamos",
+    "2p": "emprestaríais",
+    "3p": "emprestarían"
+  },
+  "PresC": {
+    "1s": "empreste",
+    "2s": "emprestes",
+    "3s": "empreste",
+    "1p": "emprestemos",
+    "2p": "emprestéis",
+    "3p": "empresten"
+  },
+  "PMQPSI": {
+    "1s": "emprestara",
+    "2s": "emprestaras",
+    "3s": "emprestara",
+    "1p": "emprestáramos",
+    "2p": "emprestarais",
+    "3p": "emprestaran"
+  },
+  "PImpC": {
+    "1s": "emprestase",
+    "2s": "emprestases",
+    "3s": "emprestase",
+    "1p": "emprestásemos",
+    "2p": "emprestaseis",
+    "3p": "emprestasen"
+  },
+  "FutSC": {
+    "1s": "emprestare",
+    "2s": "emprestares",
+    "3s": "emprestare",
+    "1p": "emprestáremos",
+    "2p": "emprestareis",
+    "3p": "emprestaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empresta",
+    "3s": "empreste",
+    "1p": "emprestemos",
+    "2p": "emprestad",
+    "3p": "empresten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no emprestes",
+    "3s": "no empreste",
+    "1p": "no emprestemos",
+    "2p": "no emprestéis",
+    "3p": "no empresten"
+  },
+  "Part-ter": {
+    "": "emprestado"
+  },
+  "Part-ser": {
+    "ms": "emprestado",
+    "fs": "emprestada",
+    "mp": "emprestados",
+    "fp": "emprestadas"
+  }
+}

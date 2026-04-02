@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "massagear"
+  },
+  "InfP": {
+    "1s": "massagear",
+    "2s": "massageares",
+    "3s": "massagear",
+    "1p": "massagearmos",
+    "2p": "massageardes",
+    "3p": "massagearem"
+  },
+  "Ger": {
+    "": "massageando"
+  },
+  "PresI": {
+    "1s": "massageio",
+    "2s": "massageias",
+    "3s": "massageia",
+    "1p": "massageamos",
+    "2p": "massageais",
+    "3p": "massageiam"
+  },
+  "PImpI": {
+    "1s": "massageava",
+    "2s": "massageavas",
+    "3s": "massageava",
+    "1p": "massageávamos",
+    "2p": "massageáveis",
+    "3p": "massageavam"
+  },
+  "PPSI": {
+    "1s": "massageei",
+    "2s": "massageaste",
+    "3s": "massageou",
+    "1p": "massageámos",
+    "2p": "massageastes",
+    "3p": "massagearam"
+  },
+  "PMQPSI": {
+    "1s": "massageara",
+    "2s": "massagearas",
+    "3s": "massageara",
+    "1p": "massageáramos",
+    "2p": "massageáreis",
+    "3p": "massagearam"
+  },
+  "FutSI": {
+    "1s": "massagearei",
+    "2s": "massagearás",
+    "3s": "massageará",
+    "1p": "massagearemos",
+    "2p": "massageareis",
+    "3p": "massagearão"
+  },
+  "CondS": {
+    "1s": "massagearia",
+    "2s": "massagearias",
+    "3s": "massagearia",
+    "1p": "massagearíamos",
+    "2p": "massagearíeis",
+    "3p": "massageariam"
+  },
+  "PresC": {
+    "1s": "massageie",
+    "2s": "massageies",
+    "3s": "massageie",
+    "1p": "massageemos",
+    "2p": "massageeis",
+    "3p": "massageiem"
+  },
+  "PImpC": {
+    "1s": "massageasse",
+    "2s": "massageasses",
+    "3s": "massageasse",
+    "1p": "massageássemos",
+    "2p": "massageásseis",
+    "3p": "massageassem"
+  },
+  "FutSC": {
+    "1s": "massagear",
+    "2s": "massageares",
+    "3s": "massagear",
+    "1p": "massagearmos",
+    "2p": "massageardes",
+    "3p": "massagearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "massageia",
+    "3s": "massageie",
+    "1p": "massageemos",
+    "2p": "massageai",
+    "3p": "massageiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não massageies",
+    "3s": "não massageie",
+    "1p": "não massageemos",
+    "2p": "não massageeis",
+    "3p": "não massageiem"
+  },
+  "Part-ter": {
+    "": "massageado"
+  },
+  "Part-ser": {
+    "ms": "massageado",
+    "fs": "massageada",
+    "mp": "massageados",
+    "fp": "massageadas"
+  }
+}

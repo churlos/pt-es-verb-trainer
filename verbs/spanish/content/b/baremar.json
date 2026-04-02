@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "baremar"
+  },
+  "Ger": {
+    "": "baremando"
+  },
+  "PresI": {
+    "1s": "baremo",
+    "2s": "baremas",
+    "3s": "barema",
+    "1p": "baremamos",
+    "2p": "baremáis",
+    "3p": "bareman"
+  },
+  "PImpI": {
+    "1s": "baremaba",
+    "2s": "baremabas",
+    "3s": "baremaba",
+    "1p": "baremábamos",
+    "2p": "baremabais",
+    "3p": "baremaban"
+  },
+  "PPSI": {
+    "1s": "baremé",
+    "2s": "baremaste",
+    "3s": "baremó",
+    "1p": "baremamos",
+    "2p": "baremasteis",
+    "3p": "baremaron"
+  },
+  "FutSI": {
+    "1s": "baremaré",
+    "2s": "baremarás",
+    "3s": "baremará",
+    "1p": "baremaremos",
+    "2p": "baremaréis",
+    "3p": "baremarán"
+  },
+  "CondS": {
+    "1s": "baremaría",
+    "2s": "baremarías",
+    "3s": "baremaría",
+    "1p": "baremaríamos",
+    "2p": "baremaríais",
+    "3p": "baremarían"
+  },
+  "PresC": {
+    "1s": "bareme",
+    "2s": "baremes",
+    "3s": "bareme",
+    "1p": "barememos",
+    "2p": "bareméis",
+    "3p": "baremen"
+  },
+  "PMQPSI": {
+    "1s": "baremara",
+    "2s": "baremaras",
+    "3s": "baremara",
+    "1p": "baremáramos",
+    "2p": "baremarais",
+    "3p": "baremaran"
+  },
+  "PImpC": {
+    "1s": "baremase",
+    "2s": "baremases",
+    "3s": "baremase",
+    "1p": "baremásemos",
+    "2p": "baremaseis",
+    "3p": "baremasen"
+  },
+  "FutSC": {
+    "1s": "baremare",
+    "2s": "baremares",
+    "3s": "baremare",
+    "1p": "baremáremos",
+    "2p": "baremareis",
+    "3p": "baremaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barema",
+    "3s": "bareme",
+    "1p": "barememos",
+    "2p": "baremad",
+    "3p": "baremen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no baremes",
+    "3s": "no bareme",
+    "1p": "no barememos",
+    "2p": "no bareméis",
+    "3p": "no baremen"
+  },
+  "Part-ter": {
+    "": "baremado"
+  },
+  "Part-ser": {
+    "ms": "baremado",
+    "fs": "baremada",
+    "mp": "baremados",
+    "fp": "baremadas"
+  }
+}

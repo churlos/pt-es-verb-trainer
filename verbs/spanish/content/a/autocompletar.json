@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autocompletar"
+  },
+  "Ger": {
+    "": "autocompletando"
+  },
+  "PresI": {
+    "1s": "autocompleto",
+    "2s": "autocompletas",
+    "3s": "autocompleta",
+    "1p": "autocompletamos",
+    "2p": "autocompletáis",
+    "3p": "autocompletan"
+  },
+  "PImpI": {
+    "1s": "autocompletaba",
+    "2s": "autocompletabas",
+    "3s": "autocompletaba",
+    "1p": "autocompletábamos",
+    "2p": "autocompletabais",
+    "3p": "autocompletaban"
+  },
+  "PPSI": {
+    "1s": "autocompleté",
+    "2s": "autocompletaste",
+    "3s": "autocompletó",
+    "1p": "autocompletamos",
+    "2p": "autocompletasteis",
+    "3p": "autocompletaron"
+  },
+  "FutSI": {
+    "1s": "autocompletaré",
+    "2s": "autocompletarás",
+    "3s": "autocompletará",
+    "1p": "autocompletaremos",
+    "2p": "autocompletaréis",
+    "3p": "autocompletarán"
+  },
+  "CondS": {
+    "1s": "autocompletaría",
+    "2s": "autocompletarías",
+    "3s": "autocompletaría",
+    "1p": "autocompletaríamos",
+    "2p": "autocompletaríais",
+    "3p": "autocompletarían"
+  },
+  "PresC": {
+    "1s": "autocomplete",
+    "2s": "autocompletes",
+    "3s": "autocomplete",
+    "1p": "autocompletemos",
+    "2p": "autocompletéis",
+    "3p": "autocompleten"
+  },
+  "PMQPSI": {
+    "1s": "autocompletara",
+    "2s": "autocompletaras",
+    "3s": "autocompletara",
+    "1p": "autocompletáramos",
+    "2p": "autocompletarais",
+    "3p": "autocompletaran"
+  },
+  "PImpC": {
+    "1s": "autocompletase",
+    "2s": "autocompletases",
+    "3s": "autocompletase",
+    "1p": "autocompletásemos",
+    "2p": "autocompletaseis",
+    "3p": "autocompletasen"
+  },
+  "FutSC": {
+    "1s": "autocompletare",
+    "2s": "autocompletares",
+    "3s": "autocompletare",
+    "1p": "autocompletáremos",
+    "2p": "autocompletareis",
+    "3p": "autocompletaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autocompleta",
+    "3s": "autocomplete",
+    "1p": "autocompletemos",
+    "2p": "autocompletad",
+    "3p": "autocompleten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no autocompletes",
+    "3s": "no autocomplete",
+    "1p": "no autocompletemos",
+    "2p": "no autocompletéis",
+    "3p": "no autocompleten"
+  },
+  "Part-ter": {
+    "": "autocompletado"
+  },
+  "Part-ser": {
+    "ms": "autocompletado",
+    "fs": "autocompletada",
+    "mp": "autocompletados",
+    "fp": "autocompletadas"
+  }
+}

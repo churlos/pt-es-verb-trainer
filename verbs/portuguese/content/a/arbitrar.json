@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arbitrar"
+  },
+  "InfP": {
+    "1s": "arbitrar",
+    "2s": "arbitrares",
+    "3s": "arbitrar",
+    "1p": "arbitrarmos",
+    "2p": "arbitrardes",
+    "3p": "arbitrarem"
+  },
+  "Ger": {
+    "": "arbitrando"
+  },
+  "PresI": {
+    "1s": "arbitro",
+    "2s": "arbitras",
+    "3s": "arbitra",
+    "1p": "arbitramos",
+    "2p": "arbitrais",
+    "3p": "arbitram"
+  },
+  "PImpI": {
+    "1s": "arbitrava",
+    "2s": "arbitravas",
+    "3s": "arbitrava",
+    "1p": "arbitrávamos",
+    "2p": "arbitráveis",
+    "3p": "arbitravam"
+  },
+  "PPSI": {
+    "1s": "arbitrei",
+    "2s": "arbitraste",
+    "3s": "arbitrou",
+    "1p": "arbitrámos",
+    "2p": "arbitrastes",
+    "3p": "arbitraram"
+  },
+  "PMQPSI": {
+    "1s": "arbitrara",
+    "2s": "arbitraras",
+    "3s": "arbitrara",
+    "1p": "arbitráramos",
+    "2p": "arbitráreis",
+    "3p": "arbitraram"
+  },
+  "FutSI": {
+    "1s": "arbitrarei",
+    "2s": "arbitrarás",
+    "3s": "arbitrará",
+    "1p": "arbitraremos",
+    "2p": "arbitrareis",
+    "3p": "arbitrarão"
+  },
+  "CondS": {
+    "1s": "arbitraria",
+    "2s": "arbitrarias",
+    "3s": "arbitraria",
+    "1p": "arbitraríamos",
+    "2p": "arbitraríeis",
+    "3p": "arbitrariam"
+  },
+  "PresC": {
+    "1s": "arbitre",
+    "2s": "arbitres",
+    "3s": "arbitre",
+    "1p": "arbitremos",
+    "2p": "arbitreis",
+    "3p": "arbitrem"
+  },
+  "PImpC": {
+    "1s": "arbitrasse",
+    "2s": "arbitrasses",
+    "3s": "arbitrasse",
+    "1p": "arbitrássemos",
+    "2p": "arbitrásseis",
+    "3p": "arbitrassem"
+  },
+  "FutSC": {
+    "1s": "arbitrar",
+    "2s": "arbitrares",
+    "3s": "arbitrar",
+    "1p": "arbitrarmos",
+    "2p": "arbitrardes",
+    "3p": "arbitrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arbitra",
+    "3s": "arbitre",
+    "1p": "arbitremos",
+    "2p": "arbitrai",
+    "3p": "arbitrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arbitres",
+    "3s": "não arbitre",
+    "1p": "não arbitremos",
+    "2p": "não arbitreis",
+    "3p": "não arbitrem"
+  },
+  "Part-ter": {
+    "": "arbitrado"
+  },
+  "Part-ser": {
+    "ms": "arbitrado",
+    "fs": "arbitrada",
+    "mp": "arbitrados",
+    "fp": "arbitradas"
+  }
+}

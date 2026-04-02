@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cair"
+  },
+  "InfP": {
+    "1s": "cair",
+    "2s": "caíres",
+    "3s": "cair",
+    "1p": "cairmos",
+    "2p": "cairdes",
+    "3p": "caírem"
+  },
+  "Ger": {
+    "": "caindo"
+  },
+  "PresI": {
+    "1s": "caio",
+    "2s": "cais",
+    "3s": "cai",
+    "1p": "caímos",
+    "2p": "caís",
+    "3p": "caem"
+  },
+  "PImpI": {
+    "1s": "caía",
+    "2s": "caías",
+    "3s": "caía",
+    "1p": "caíamos",
+    "2p": "caíeis",
+    "3p": "caíam"
+  },
+  "PPSI": {
+    "1s": "caí",
+    "2s": "caíste",
+    "3s": "caiu",
+    "1p": "caímos",
+    "2p": "caístes",
+    "3p": "caíram"
+  },
+  "PMQPSI": {
+    "1s": "caíra",
+    "2s": "caíras",
+    "3s": "caíra",
+    "1p": "caíramos",
+    "2p": "caíreis",
+    "3p": "caíram"
+  },
+  "FutSI": {
+    "1s": "cairei",
+    "2s": "cairás",
+    "3s": "cairá",
+    "1p": "cairemos",
+    "2p": "caireis",
+    "3p": "cairão"
+  },
+  "CondS": {
+    "1s": "cairia",
+    "2s": "cairias",
+    "3s": "cairia",
+    "1p": "cairíamos",
+    "2p": "cairíeis",
+    "3p": "cairiam"
+  },
+  "PresC": {
+    "1s": "caia",
+    "2s": "caias",
+    "3s": "caia",
+    "1p": "caiamos",
+    "2p": "caiais",
+    "3p": "caiam"
+  },
+  "PImpC": {
+    "1s": "caísse",
+    "2s": "caísses",
+    "3s": "caísse",
+    "1p": "caíssemos",
+    "2p": "caísseis",
+    "3p": "caíssem"
+  },
+  "FutSC": {
+    "1s": "cair",
+    "2s": "caíres",
+    "3s": "cair",
+    "1p": "cairmos",
+    "2p": "cairdes",
+    "3p": "caírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cai",
+    "3s": "caia",
+    "1p": "caiamos",
+    "2p": "caí",
+    "3p": "caiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não caias",
+    "3s": "não caia",
+    "1p": "não caiamos",
+    "2p": "não caiais",
+    "3p": "não caiam"
+  },
+  "Part-ter": {
+    "": "caído"
+  },
+  "Part-ser": {
+    "ms": "caído",
+    "fs": "caída",
+    "mp": "caídos",
+    "fp": "caídas"
+  }
+}

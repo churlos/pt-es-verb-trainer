@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hervir"
+  },
+  "Ger": {
+    "": "hirviendo"
+  },
+  "PresI": {
+    "1s": "hiervo",
+    "2s": "hierves",
+    "3s": "hierve",
+    "1p": "hervimos",
+    "2p": "hervís",
+    "3p": "hierven"
+  },
+  "PImpI": {
+    "1s": "hervía",
+    "2s": "hervías",
+    "3s": "hervía",
+    "1p": "hervíamos",
+    "2p": "hervíais",
+    "3p": "hervían"
+  },
+  "PPSI": {
+    "1s": "herví",
+    "2s": "herviste",
+    "3s": "hirvió",
+    "1p": "hervimos",
+    "2p": "hervisteis",
+    "3p": "hirvieron"
+  },
+  "FutSI": {
+    "1s": "herviré",
+    "2s": "hervirás",
+    "3s": "hervirá",
+    "1p": "herviremos",
+    "2p": "herviréis",
+    "3p": "hervirán"
+  },
+  "CondS": {
+    "1s": "herviría",
+    "2s": "hervirías",
+    "3s": "herviría",
+    "1p": "herviríamos",
+    "2p": "herviríais",
+    "3p": "hervirían"
+  },
+  "PresC": {
+    "1s": "hierva",
+    "2s": "hiervas",
+    "3s": "hierva",
+    "1p": "hirvamos",
+    "2p": "hirváis",
+    "3p": "hiervan"
+  },
+  "PMQPSI": {
+    "1s": "hirviera",
+    "2s": "hirvieras",
+    "3s": "hirviera",
+    "1p": "hirviéramos",
+    "2p": "hirvierais",
+    "3p": "hirvieran"
+  },
+  "PImpC": {
+    "1s": "hirviese",
+    "2s": "hirvieses",
+    "3s": "hirviese",
+    "1p": "hirviésemos",
+    "2p": "hirvieseis",
+    "3p": "hirviesen"
+  },
+  "FutSC": {
+    "1s": "hirviere",
+    "2s": "hirvieres",
+    "3s": "hirviere",
+    "1p": "hirviéremos",
+    "2p": "hirviereis",
+    "3p": "hirvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hierve",
+    "3s": "hierva",
+    "1p": "hirvamos",
+    "2p": "hervid",
+    "3p": "hiervan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hiervas",
+    "3s": "no hierva",
+    "1p": "no hirvamos",
+    "2p": "no hirváis",
+    "3p": "no hiervan"
+  },
+  "Part-ter": {
+    "": "hervido"
+  },
+  "Part-ser": {
+    "ms": "hervido",
+    "fs": "hervida",
+    "mp": "hervidos",
+    "fp": "hervidas"
+  }
+}

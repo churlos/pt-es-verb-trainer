@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "capsular"
+  },
+  "Ger": {
+    "": "capsulando"
+  },
+  "PresI": {
+    "1s": "capsulo",
+    "2s": "capsulas",
+    "3s": "capsula",
+    "1p": "capsulamos",
+    "2p": "capsuláis",
+    "3p": "capsulan"
+  },
+  "PImpI": {
+    "1s": "capsulaba",
+    "2s": "capsulabas",
+    "3s": "capsulaba",
+    "1p": "capsulábamos",
+    "2p": "capsulabais",
+    "3p": "capsulaban"
+  },
+  "PPSI": {
+    "1s": "capsulé",
+    "2s": "capsulaste",
+    "3s": "capsuló",
+    "1p": "capsulamos",
+    "2p": "capsulasteis",
+    "3p": "capsularon"
+  },
+  "FutSI": {
+    "1s": "capsularé",
+    "2s": "capsularás",
+    "3s": "capsulará",
+    "1p": "capsularemos",
+    "2p": "capsularéis",
+    "3p": "capsularán"
+  },
+  "CondS": {
+    "1s": "capsularía",
+    "2s": "capsularías",
+    "3s": "capsularía",
+    "1p": "capsularíamos",
+    "2p": "capsularíais",
+    "3p": "capsularían"
+  },
+  "PresC": {
+    "1s": "capsule",
+    "2s": "capsules",
+    "3s": "capsule",
+    "1p": "capsulemos",
+    "2p": "capsuléis",
+    "3p": "capsulen"
+  },
+  "PMQPSI": {
+    "1s": "capsulara",
+    "2s": "capsularas",
+    "3s": "capsulara",
+    "1p": "capsuláramos",
+    "2p": "capsularais",
+    "3p": "capsularan"
+  },
+  "PImpC": {
+    "1s": "capsulase",
+    "2s": "capsulases",
+    "3s": "capsulase",
+    "1p": "capsulásemos",
+    "2p": "capsulaseis",
+    "3p": "capsulasen"
+  },
+  "FutSC": {
+    "1s": "capsulare",
+    "2s": "capsulares",
+    "3s": "capsulare",
+    "1p": "capsuláremos",
+    "2p": "capsulareis",
+    "3p": "capsularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "capsula",
+    "3s": "capsule",
+    "1p": "capsulemos",
+    "2p": "capsulad",
+    "3p": "capsulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no capsules",
+    "3s": "no capsule",
+    "1p": "no capsulemos",
+    "2p": "no capsuléis",
+    "3p": "no capsulen"
+  },
+  "Part-ter": {
+    "": "capsulado"
+  },
+  "Part-ser": {
+    "ms": "capsulado",
+    "fs": "capsulada",
+    "mp": "capsulados",
+    "fp": "capsuladas"
+  }
+}

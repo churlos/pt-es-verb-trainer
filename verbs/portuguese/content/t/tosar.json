@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tosar"
+  },
+  "InfP": {
+    "1s": "tosar",
+    "2s": "tosares",
+    "3s": "tosar",
+    "1p": "tosarmos",
+    "2p": "tosardes",
+    "3p": "tosarem"
+  },
+  "Ger": {
+    "": "tosando"
+  },
+  "PresI": {
+    "1s": "toso",
+    "2s": "tosas",
+    "3s": "tosa",
+    "1p": "tosamos",
+    "2p": "tosais",
+    "3p": "tosam"
+  },
+  "PImpI": {
+    "1s": "tosava",
+    "2s": "tosavas",
+    "3s": "tosava",
+    "1p": "tosávamos",
+    "2p": "tosáveis",
+    "3p": "tosavam"
+  },
+  "PPSI": {
+    "1s": "tosei",
+    "2s": "tosaste",
+    "3s": "tosou",
+    "1p": "tosámos",
+    "2p": "tosastes",
+    "3p": "tosaram"
+  },
+  "PMQPSI": {
+    "1s": "tosara",
+    "2s": "tosaras",
+    "3s": "tosara",
+    "1p": "tosáramos",
+    "2p": "tosáreis",
+    "3p": "tosaram"
+  },
+  "FutSI": {
+    "1s": "tosarei",
+    "2s": "tosarás",
+    "3s": "tosará",
+    "1p": "tosaremos",
+    "2p": "tosareis",
+    "3p": "tosarão"
+  },
+  "CondS": {
+    "1s": "tosaria",
+    "2s": "tosarias",
+    "3s": "tosaria",
+    "1p": "tosaríamos",
+    "2p": "tosaríeis",
+    "3p": "tosariam"
+  },
+  "PresC": {
+    "1s": "tose",
+    "2s": "toses",
+    "3s": "tose",
+    "1p": "tosemos",
+    "2p": "toseis",
+    "3p": "tosem"
+  },
+  "PImpC": {
+    "1s": "tosasse",
+    "2s": "tosasses",
+    "3s": "tosasse",
+    "1p": "tosássemos",
+    "2p": "tosásseis",
+    "3p": "tosassem"
+  },
+  "FutSC": {
+    "1s": "tosar",
+    "2s": "tosares",
+    "3s": "tosar",
+    "1p": "tosarmos",
+    "2p": "tosardes",
+    "3p": "tosarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tosa",
+    "3s": "tose",
+    "1p": "tosemos",
+    "2p": "tosai",
+    "3p": "tosem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não toses",
+    "3s": "não tose",
+    "1p": "não tosemos",
+    "2p": "não toseis",
+    "3p": "não tosem"
+  },
+  "Part-ter": {
+    "": "tosado"
+  },
+  "Part-ser": {
+    "ms": "tosado",
+    "fs": "tosada",
+    "mp": "tosados",
+    "fp": "tosadas"
+  }
+}

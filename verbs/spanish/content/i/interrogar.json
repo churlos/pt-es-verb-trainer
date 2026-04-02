@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "interrogar"
+  },
+  "Ger": {
+    "": "interrogando"
+  },
+  "PresI": {
+    "1s": "interrogo",
+    "2s": "interrogas",
+    "3s": "interroga",
+    "1p": "interrogamos",
+    "2p": "interrogáis",
+    "3p": "interrogan"
+  },
+  "PImpI": {
+    "1s": "interrogaba",
+    "2s": "interrogabas",
+    "3s": "interrogaba",
+    "1p": "interrogábamos",
+    "2p": "interrogabais",
+    "3p": "interrogaban"
+  },
+  "PPSI": {
+    "1s": "interrogué",
+    "2s": "interrogaste",
+    "3s": "interrogó",
+    "1p": "interrogamos",
+    "2p": "interrogasteis",
+    "3p": "interrogaron"
+  },
+  "FutSI": {
+    "1s": "interrogaré",
+    "2s": "interrogarás",
+    "3s": "interrogará",
+    "1p": "interrogaremos",
+    "2p": "interrogaréis",
+    "3p": "interrogarán"
+  },
+  "CondS": {
+    "1s": "interrogaría",
+    "2s": "interrogarías",
+    "3s": "interrogaría",
+    "1p": "interrogaríamos",
+    "2p": "interrogaríais",
+    "3p": "interrogarían"
+  },
+  "PresC": {
+    "1s": "interrogue",
+    "2s": "interrogues",
+    "3s": "interrogue",
+    "1p": "interroguemos",
+    "2p": "interroguéis",
+    "3p": "interroguen"
+  },
+  "PMQPSI": {
+    "1s": "interrogara",
+    "2s": "interrogaras",
+    "3s": "interrogara",
+    "1p": "interrogáramos",
+    "2p": "interrogarais",
+    "3p": "interrogaran"
+  },
+  "PImpC": {
+    "1s": "interrogase",
+    "2s": "interrogases",
+    "3s": "interrogase",
+    "1p": "interrogásemos",
+    "2p": "interrogaseis",
+    "3p": "interrogasen"
+  },
+  "FutSC": {
+    "1s": "interrogare",
+    "2s": "interrogares",
+    "3s": "interrogare",
+    "1p": "interrogáremos",
+    "2p": "interrogareis",
+    "3p": "interrogaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interroga",
+    "3s": "interrogue",
+    "1p": "interroguemos",
+    "2p": "interrogad",
+    "3p": "interroguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no interrogues",
+    "3s": "no interrogue",
+    "1p": "no interroguemos",
+    "2p": "no interroguéis",
+    "3p": "no interroguen"
+  },
+  "Part-ter": {
+    "": "interrogado"
+  },
+  "Part-ser": {
+    "ms": "interrogado",
+    "fs": "interrogada",
+    "mp": "interrogados",
+    "fp": "interrogadas"
+  }
+}

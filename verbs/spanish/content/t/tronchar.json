@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tronchar"
+  },
+  "Ger": {
+    "": "tronchando"
+  },
+  "PresI": {
+    "1s": "troncho",
+    "2s": "tronchas",
+    "3s": "troncha",
+    "1p": "tronchamos",
+    "2p": "troncháis",
+    "3p": "tronchan"
+  },
+  "PImpI": {
+    "1s": "tronchaba",
+    "2s": "tronchabas",
+    "3s": "tronchaba",
+    "1p": "tronchábamos",
+    "2p": "tronchabais",
+    "3p": "tronchaban"
+  },
+  "PPSI": {
+    "1s": "tronché",
+    "2s": "tronchaste",
+    "3s": "tronchó",
+    "1p": "tronchamos",
+    "2p": "tronchasteis",
+    "3p": "troncharon"
+  },
+  "FutSI": {
+    "1s": "troncharé",
+    "2s": "troncharás",
+    "3s": "tronchará",
+    "1p": "troncharemos",
+    "2p": "troncharéis",
+    "3p": "troncharán"
+  },
+  "CondS": {
+    "1s": "troncharía",
+    "2s": "troncharías",
+    "3s": "troncharía",
+    "1p": "troncharíamos",
+    "2p": "troncharíais",
+    "3p": "troncharían"
+  },
+  "PresC": {
+    "1s": "tronche",
+    "2s": "tronches",
+    "3s": "tronche",
+    "1p": "tronchemos",
+    "2p": "tronchéis",
+    "3p": "tronchen"
+  },
+  "PMQPSI": {
+    "1s": "tronchara",
+    "2s": "troncharas",
+    "3s": "tronchara",
+    "1p": "troncháramos",
+    "2p": "troncharais",
+    "3p": "troncharan"
+  },
+  "PImpC": {
+    "1s": "tronchase",
+    "2s": "tronchases",
+    "3s": "tronchase",
+    "1p": "tronchásemos",
+    "2p": "tronchaseis",
+    "3p": "tronchasen"
+  },
+  "FutSC": {
+    "1s": "tronchare",
+    "2s": "tronchares",
+    "3s": "tronchare",
+    "1p": "troncháremos",
+    "2p": "tronchareis",
+    "3p": "troncharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "troncha",
+    "3s": "tronche",
+    "1p": "tronchemos",
+    "2p": "tronchad",
+    "3p": "tronchen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tronches",
+    "3s": "no tronche",
+    "1p": "no tronchemos",
+    "2p": "no tronchéis",
+    "3p": "no tronchen"
+  },
+  "Part-ter": {
+    "": "tronchado"
+  },
+  "Part-ser": {
+    "ms": "tronchado",
+    "fs": "tronchada",
+    "mp": "tronchados",
+    "fp": "tronchadas"
+  }
+}

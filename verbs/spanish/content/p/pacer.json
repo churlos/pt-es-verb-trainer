@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pacer"
+  },
+  "Ger": {
+    "": "paciendo"
+  },
+  "PresI": {
+    "1s": "pazco",
+    "2s": "paces",
+    "3s": "pace",
+    "1p": "pacemos",
+    "2p": "pacéis",
+    "3p": "pacen"
+  },
+  "PImpI": {
+    "1s": "pacía",
+    "2s": "pacías",
+    "3s": "pacía",
+    "1p": "pacíamos",
+    "2p": "pacíais",
+    "3p": "pacían"
+  },
+  "PPSI": {
+    "1s": "pací",
+    "2s": "paciste",
+    "3s": "pació",
+    "1p": "pacimos",
+    "2p": "pacisteis",
+    "3p": "pacieron"
+  },
+  "FutSI": {
+    "1s": "paceré",
+    "2s": "pacerás",
+    "3s": "pacerá",
+    "1p": "paceremos",
+    "2p": "paceréis",
+    "3p": "pacerán"
+  },
+  "CondS": {
+    "1s": "pacería",
+    "2s": "pacerías",
+    "3s": "pacería",
+    "1p": "paceríamos",
+    "2p": "paceríais",
+    "3p": "pacerían"
+  },
+  "PresC": {
+    "1s": "pazca",
+    "2s": "pazcas",
+    "3s": "pazca",
+    "1p": "pazcamos",
+    "2p": "pazcáis",
+    "3p": "pazcan"
+  },
+  "PMQPSI": {
+    "1s": "paciera",
+    "2s": "pacieras",
+    "3s": "paciera",
+    "1p": "paciéramos",
+    "2p": "pacierais",
+    "3p": "pacieran"
+  },
+  "PImpC": {
+    "1s": "paciese",
+    "2s": "pacieses",
+    "3s": "paciese",
+    "1p": "paciésemos",
+    "2p": "pacieseis",
+    "3p": "paciesen"
+  },
+  "FutSC": {
+    "1s": "paciere",
+    "2s": "pacieres",
+    "3s": "paciere",
+    "1p": "paciéremos",
+    "2p": "paciereis",
+    "3p": "pacieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pace",
+    "3s": "pazca",
+    "1p": "pazcamos",
+    "2p": "paced",
+    "3p": "pazcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pazcas",
+    "3s": "no pazca",
+    "1p": "no pazcamos",
+    "2p": "no pazcáis",
+    "3p": "no pazcan"
+  },
+  "Part-ter": {
+    "": "pacido"
+  },
+  "Part-ser": {
+    "ms": "pacido",
+    "fs": "pacida",
+    "mp": "pacidos",
+    "fp": "pacidas"
+  }
+}

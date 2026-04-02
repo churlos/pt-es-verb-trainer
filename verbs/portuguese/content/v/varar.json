@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "varar"
+  },
+  "InfP": {
+    "1s": "varar",
+    "2s": "varares",
+    "3s": "varar",
+    "1p": "vararmos",
+    "2p": "varardes",
+    "3p": "vararem"
+  },
+  "Ger": {
+    "": "varando"
+  },
+  "PresI": {
+    "1s": "varo",
+    "2s": "varas",
+    "3s": "vara",
+    "1p": "varamos",
+    "2p": "varais",
+    "3p": "varam"
+  },
+  "PImpI": {
+    "1s": "varava",
+    "2s": "varavas",
+    "3s": "varava",
+    "1p": "varávamos",
+    "2p": "varáveis",
+    "3p": "varavam"
+  },
+  "PPSI": {
+    "1s": "varei",
+    "2s": "varaste",
+    "3s": "varou",
+    "1p": "varámos",
+    "2p": "varastes",
+    "3p": "vararam"
+  },
+  "PMQPSI": {
+    "1s": "varara",
+    "2s": "vararas",
+    "3s": "varara",
+    "1p": "varáramos",
+    "2p": "varáreis",
+    "3p": "vararam"
+  },
+  "FutSI": {
+    "1s": "vararei",
+    "2s": "vararás",
+    "3s": "varará",
+    "1p": "vararemos",
+    "2p": "varareis",
+    "3p": "vararão"
+  },
+  "CondS": {
+    "1s": "vararia",
+    "2s": "vararias",
+    "3s": "vararia",
+    "1p": "vararíamos",
+    "2p": "vararíeis",
+    "3p": "varariam"
+  },
+  "PresC": {
+    "1s": "vare",
+    "2s": "vares",
+    "3s": "vare",
+    "1p": "varemos",
+    "2p": "vareis",
+    "3p": "varem"
+  },
+  "PImpC": {
+    "1s": "varasse",
+    "2s": "varasses",
+    "3s": "varasse",
+    "1p": "varássemos",
+    "2p": "varásseis",
+    "3p": "varassem"
+  },
+  "FutSC": {
+    "1s": "varar",
+    "2s": "varares",
+    "3s": "varar",
+    "1p": "vararmos",
+    "2p": "varardes",
+    "3p": "vararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vara",
+    "3s": "vare",
+    "1p": "varemos",
+    "2p": "varai",
+    "3p": "varem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vares",
+    "3s": "não vare",
+    "1p": "não varemos",
+    "2p": "não vareis",
+    "3p": "não varem"
+  },
+  "Part-ter": {
+    "": "varado"
+  },
+  "Part-ser": {
+    "ms": "varado",
+    "fs": "varada",
+    "mp": "varados",
+    "fp": "varadas"
+  }
+}

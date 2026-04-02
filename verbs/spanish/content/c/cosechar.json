@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cosechar"
+  },
+  "Ger": {
+    "": "cosechando"
+  },
+  "PresI": {
+    "1s": "cosecho",
+    "2s": "cosechas",
+    "3s": "cosecha",
+    "1p": "cosechamos",
+    "2p": "cosecháis",
+    "3p": "cosechan"
+  },
+  "PImpI": {
+    "1s": "cosechaba",
+    "2s": "cosechabas",
+    "3s": "cosechaba",
+    "1p": "cosechábamos",
+    "2p": "cosechabais",
+    "3p": "cosechaban"
+  },
+  "PPSI": {
+    "1s": "coseché",
+    "2s": "cosechaste",
+    "3s": "cosechó",
+    "1p": "cosechamos",
+    "2p": "cosechasteis",
+    "3p": "cosecharon"
+  },
+  "FutSI": {
+    "1s": "cosecharé",
+    "2s": "cosecharás",
+    "3s": "cosechará",
+    "1p": "cosecharemos",
+    "2p": "cosecharéis",
+    "3p": "cosecharán"
+  },
+  "CondS": {
+    "1s": "cosecharía",
+    "2s": "cosecharías",
+    "3s": "cosecharía",
+    "1p": "cosecharíamos",
+    "2p": "cosecharíais",
+    "3p": "cosecharían"
+  },
+  "PresC": {
+    "1s": "coseche",
+    "2s": "coseches",
+    "3s": "coseche",
+    "1p": "cosechemos",
+    "2p": "cosechéis",
+    "3p": "cosechen"
+  },
+  "PMQPSI": {
+    "1s": "cosechara",
+    "2s": "cosecharas",
+    "3s": "cosechara",
+    "1p": "cosecháramos",
+    "2p": "cosecharais",
+    "3p": "cosecharan"
+  },
+  "PImpC": {
+    "1s": "cosechase",
+    "2s": "cosechases",
+    "3s": "cosechase",
+    "1p": "cosechásemos",
+    "2p": "cosechaseis",
+    "3p": "cosechasen"
+  },
+  "FutSC": {
+    "1s": "cosechare",
+    "2s": "cosechares",
+    "3s": "cosechare",
+    "1p": "cosecháremos",
+    "2p": "cosechareis",
+    "3p": "cosecharen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cosecha",
+    "3s": "coseche",
+    "1p": "cosechemos",
+    "2p": "cosechad",
+    "3p": "cosechen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no coseches",
+    "3s": "no coseche",
+    "1p": "no cosechemos",
+    "2p": "no cosechéis",
+    "3p": "no cosechen"
+  },
+  "Part-ter": {
+    "": "cosechado"
+  },
+  "Part-ser": {
+    "ms": "cosechado",
+    "fs": "cosechada",
+    "mp": "cosechados",
+    "fp": "cosechadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cassar"
+  },
+  "InfP": {
+    "1s": "cassar",
+    "2s": "cassares",
+    "3s": "cassar",
+    "1p": "cassarmos",
+    "2p": "cassardes",
+    "3p": "cassarem"
+  },
+  "Ger": {
+    "": "cassando"
+  },
+  "PresI": {
+    "1s": "casso",
+    "2s": "cassas",
+    "3s": "cassa",
+    "1p": "cassamos",
+    "2p": "cassais",
+    "3p": "cassam"
+  },
+  "PImpI": {
+    "1s": "cassava",
+    "2s": "cassavas",
+    "3s": "cassava",
+    "1p": "cassávamos",
+    "2p": "cassáveis",
+    "3p": "cassavam"
+  },
+  "PPSI": {
+    "1s": "cassei",
+    "2s": "cassaste",
+    "3s": "cassou",
+    "1p": "cassámos",
+    "2p": "cassastes",
+    "3p": "cassaram"
+  },
+  "PMQPSI": {
+    "1s": "cassara",
+    "2s": "cassaras",
+    "3s": "cassara",
+    "1p": "cassáramos",
+    "2p": "cassáreis",
+    "3p": "cassaram"
+  },
+  "FutSI": {
+    "1s": "cassarei",
+    "2s": "cassarás",
+    "3s": "cassará",
+    "1p": "cassaremos",
+    "2p": "cassareis",
+    "3p": "cassarão"
+  },
+  "CondS": {
+    "1s": "cassaria",
+    "2s": "cassarias",
+    "3s": "cassaria",
+    "1p": "cassaríamos",
+    "2p": "cassaríeis",
+    "3p": "cassariam"
+  },
+  "PresC": {
+    "1s": "casse",
+    "2s": "casses",
+    "3s": "casse",
+    "1p": "cassemos",
+    "2p": "casseis",
+    "3p": "cassem"
+  },
+  "PImpC": {
+    "1s": "cassasse",
+    "2s": "cassasses",
+    "3s": "cassasse",
+    "1p": "cassássemos",
+    "2p": "cassásseis",
+    "3p": "cassassem"
+  },
+  "FutSC": {
+    "1s": "cassar",
+    "2s": "cassares",
+    "3s": "cassar",
+    "1p": "cassarmos",
+    "2p": "cassardes",
+    "3p": "cassarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cassa",
+    "3s": "casse",
+    "1p": "cassemos",
+    "2p": "cassai",
+    "3p": "cassem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não casses",
+    "3s": "não casse",
+    "1p": "não cassemos",
+    "2p": "não casseis",
+    "3p": "não cassem"
+  },
+  "Part-ter": {
+    "": "cassado"
+  },
+  "Part-ser": {
+    "ms": "cassado",
+    "fs": "cassada",
+    "mp": "cassados",
+    "fp": "cassadas"
+  }
+}

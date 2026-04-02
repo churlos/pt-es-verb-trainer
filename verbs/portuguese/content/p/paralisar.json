@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "paralisar"
+  },
+  "InfP": {
+    "1s": "paralisar",
+    "2s": "paralisares",
+    "3s": "paralisar",
+    "1p": "paralisarmos",
+    "2p": "paralisardes",
+    "3p": "paralisarem"
+  },
+  "Ger": {
+    "": "paralisando"
+  },
+  "PresI": {
+    "1s": "paraliso",
+    "2s": "paralisas",
+    "3s": "paralisa",
+    "1p": "paralisamos",
+    "2p": "paralisais",
+    "3p": "paralisam"
+  },
+  "PImpI": {
+    "1s": "paralisava",
+    "2s": "paralisavas",
+    "3s": "paralisava",
+    "1p": "paralisávamos",
+    "2p": "paralisáveis",
+    "3p": "paralisavam"
+  },
+  "PPSI": {
+    "1s": "paralisei",
+    "2s": "paralisaste",
+    "3s": "paralisou",
+    "1p": "paralisámos",
+    "2p": "paralisastes",
+    "3p": "paralisaram"
+  },
+  "PMQPSI": {
+    "1s": "paralisara",
+    "2s": "paralisaras",
+    "3s": "paralisara",
+    "1p": "paralisáramos",
+    "2p": "paralisáreis",
+    "3p": "paralisaram"
+  },
+  "FutSI": {
+    "1s": "paralisarei",
+    "2s": "paralisarás",
+    "3s": "paralisará",
+    "1p": "paralisaremos",
+    "2p": "paralisareis",
+    "3p": "paralisarão"
+  },
+  "CondS": {
+    "1s": "paralisaria",
+    "2s": "paralisarias",
+    "3s": "paralisaria",
+    "1p": "paralisaríamos",
+    "2p": "paralisaríeis",
+    "3p": "paralisariam"
+  },
+  "PresC": {
+    "1s": "paralise",
+    "2s": "paralises",
+    "3s": "paralise",
+    "1p": "paralisemos",
+    "2p": "paraliseis",
+    "3p": "paralisem"
+  },
+  "PImpC": {
+    "1s": "paralisasse",
+    "2s": "paralisasses",
+    "3s": "paralisasse",
+    "1p": "paralisássemos",
+    "2p": "paralisásseis",
+    "3p": "paralisassem"
+  },
+  "FutSC": {
+    "1s": "paralisar",
+    "2s": "paralisares",
+    "3s": "paralisar",
+    "1p": "paralisarmos",
+    "2p": "paralisardes",
+    "3p": "paralisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "paralisa",
+    "3s": "paralise",
+    "1p": "paralisemos",
+    "2p": "paralisai",
+    "3p": "paralisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não paralises",
+    "3s": "não paralise",
+    "1p": "não paralisemos",
+    "2p": "não paraliseis",
+    "3p": "não paralisem"
+  },
+  "Part-ter": {
+    "": "paralisado"
+  },
+  "Part-ser": {
+    "ms": "paralisado",
+    "fs": "paralisada",
+    "mp": "paralisados",
+    "fp": "paralisadas"
+  }
+}

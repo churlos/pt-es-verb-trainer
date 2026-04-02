@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "despresurizar"
+  },
+  "Ger": {
+    "": "despresurizando"
+  },
+  "PresI": {
+    "1s": "despresurizo",
+    "2s": "despresurizas",
+    "3s": "despresuriza",
+    "1p": "despresurizamos",
+    "2p": "despresurizáis",
+    "3p": "despresurizan"
+  },
+  "PImpI": {
+    "1s": "despresurizaba",
+    "2s": "despresurizabas",
+    "3s": "despresurizaba",
+    "1p": "despresurizábamos",
+    "2p": "despresurizabais",
+    "3p": "despresurizaban"
+  },
+  "PPSI": {
+    "1s": "despresuricé",
+    "2s": "despresurizaste",
+    "3s": "despresurizó",
+    "1p": "despresurizamos",
+    "2p": "despresurizasteis",
+    "3p": "despresurizaron"
+  },
+  "FutSI": {
+    "1s": "despresurizaré",
+    "2s": "despresurizarás",
+    "3s": "despresurizará",
+    "1p": "despresurizaremos",
+    "2p": "despresurizaréis",
+    "3p": "despresurizarán"
+  },
+  "CondS": {
+    "1s": "despresurizaría",
+    "2s": "despresurizarías",
+    "3s": "despresurizaría",
+    "1p": "despresurizaríamos",
+    "2p": "despresurizaríais",
+    "3p": "despresurizarían"
+  },
+  "PresC": {
+    "1s": "despresurice",
+    "2s": "despresurices",
+    "3s": "despresurice",
+    "1p": "despresuricemos",
+    "2p": "despresuricéis",
+    "3p": "despresuricen"
+  },
+  "PMQPSI": {
+    "1s": "despresurizara",
+    "2s": "despresurizaras",
+    "3s": "despresurizara",
+    "1p": "despresurizáramos",
+    "2p": "despresurizarais",
+    "3p": "despresurizaran"
+  },
+  "PImpC": {
+    "1s": "despresurizase",
+    "2s": "despresurizases",
+    "3s": "despresurizase",
+    "1p": "despresurizásemos",
+    "2p": "despresurizaseis",
+    "3p": "despresurizasen"
+  },
+  "FutSC": {
+    "1s": "despresurizare",
+    "2s": "despresurizares",
+    "3s": "despresurizare",
+    "1p": "despresurizáremos",
+    "2p": "despresurizareis",
+    "3p": "despresurizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "despresuriza",
+    "3s": "despresurice",
+    "1p": "despresuricemos",
+    "2p": "despresurizad",
+    "3p": "despresuricen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no despresurices",
+    "3s": "no despresurice",
+    "1p": "no despresuricemos",
+    "2p": "no despresuricéis",
+    "3p": "no despresuricen"
+  },
+  "Part-ter": {
+    "": "despresurizado"
+  },
+  "Part-ser": {
+    "ms": "despresurizado",
+    "fs": "despresurizada",
+    "mp": "despresurizados",
+    "fp": "despresurizadas"
+  }
+}

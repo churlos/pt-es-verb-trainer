@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "entender"
+  },
+  "Ger": {
+    "": "entendiendo"
+  },
+  "PresI": {
+    "1s": "entiendo",
+    "2s": "entiendes",
+    "3s": "entiende",
+    "1p": "entendemos",
+    "2p": "entendéis",
+    "3p": "entienden"
+  },
+  "PImpI": {
+    "1s": "entendía",
+    "2s": "entendías",
+    "3s": "entendía",
+    "1p": "entendíamos",
+    "2p": "entendíais",
+    "3p": "entendían"
+  },
+  "PPSI": {
+    "1s": "entendí",
+    "2s": "entendiste",
+    "3s": "entendió",
+    "1p": "entendimos",
+    "2p": "entendisteis",
+    "3p": "entendieron"
+  },
+  "FutSI": {
+    "1s": "entenderé",
+    "2s": "entenderás",
+    "3s": "entenderá",
+    "1p": "entenderemos",
+    "2p": "entenderéis",
+    "3p": "entenderán"
+  },
+  "CondS": {
+    "1s": "entendería",
+    "2s": "entenderías",
+    "3s": "entendería",
+    "1p": "entenderíamos",
+    "2p": "entenderíais",
+    "3p": "entenderían"
+  },
+  "PresC": {
+    "1s": "entienda",
+    "2s": "entiendas",
+    "3s": "entienda",
+    "1p": "entendamos",
+    "2p": "entendáis",
+    "3p": "entiendan"
+  },
+  "PMQPSI": {
+    "1s": "entendiera",
+    "2s": "entendieras",
+    "3s": "entendiera",
+    "1p": "entendiéramos",
+    "2p": "entendierais",
+    "3p": "entendieran"
+  },
+  "PImpC": {
+    "1s": "entendiese",
+    "2s": "entendieses",
+    "3s": "entendiese",
+    "1p": "entendiésemos",
+    "2p": "entendieseis",
+    "3p": "entendiesen"
+  },
+  "FutSC": {
+    "1s": "entendiere",
+    "2s": "entendieres",
+    "3s": "entendiere",
+    "1p": "entendiéremos",
+    "2p": "entendiereis",
+    "3p": "entendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entiende",
+    "3s": "entienda",
+    "1p": "entendamos",
+    "2p": "entended",
+    "3p": "entiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no entiendas",
+    "3s": "no entienda",
+    "1p": "no entendamos",
+    "2p": "no entendáis",
+    "3p": "no entiendan"
+  },
+  "Part-ter": {
+    "": "entendido"
+  },
+  "Part-ser": {
+    "ms": "entendido",
+    "fs": "entendida",
+    "mp": "entendidos",
+    "fp": "entendidas"
+  }
+}

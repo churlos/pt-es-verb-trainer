@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "segundar"
+  },
+  "InfP": {
+    "1s": "segundar",
+    "2s": "segundares",
+    "3s": "segundar",
+    "1p": "segundarmos",
+    "2p": "segundardes",
+    "3p": "segundarem"
+  },
+  "Ger": {
+    "": "segundando"
+  },
+  "PresI": {
+    "1s": "segundo",
+    "2s": "segundas",
+    "3s": "segunda",
+    "1p": "segundamos",
+    "2p": "segundais",
+    "3p": "segundam"
+  },
+  "PImpI": {
+    "1s": "segundava",
+    "2s": "segundavas",
+    "3s": "segundava",
+    "1p": "segundávamos",
+    "2p": "segundáveis",
+    "3p": "segundavam"
+  },
+  "PPSI": {
+    "1s": "segundei",
+    "2s": "segundaste",
+    "3s": "segundou",
+    "1p": "segundámos",
+    "2p": "segundastes",
+    "3p": "segundaram"
+  },
+  "PMQPSI": {
+    "1s": "segundara",
+    "2s": "segundaras",
+    "3s": "segundara",
+    "1p": "segundáramos",
+    "2p": "segundáreis",
+    "3p": "segundaram"
+  },
+  "FutSI": {
+    "1s": "segundarei",
+    "2s": "segundarás",
+    "3s": "segundará",
+    "1p": "segundaremos",
+    "2p": "segundareis",
+    "3p": "segundarão"
+  },
+  "CondS": {
+    "1s": "segundaria",
+    "2s": "segundarias",
+    "3s": "segundaria",
+    "1p": "segundaríamos",
+    "2p": "segundaríeis",
+    "3p": "segundariam"
+  },
+  "PresC": {
+    "1s": "segunde",
+    "2s": "segundes",
+    "3s": "segunde",
+    "1p": "segundemos",
+    "2p": "segundeis",
+    "3p": "segundem"
+  },
+  "PImpC": {
+    "1s": "segundasse",
+    "2s": "segundasses",
+    "3s": "segundasse",
+    "1p": "segundássemos",
+    "2p": "segundásseis",
+    "3p": "segundassem"
+  },
+  "FutSC": {
+    "1s": "segundar",
+    "2s": "segundares",
+    "3s": "segundar",
+    "1p": "segundarmos",
+    "2p": "segundardes",
+    "3p": "segundarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segunda",
+    "3s": "segunde",
+    "1p": "segundemos",
+    "2p": "segundai",
+    "3p": "segundem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não segundes",
+    "3s": "não segunde",
+    "1p": "não segundemos",
+    "2p": "não segundeis",
+    "3p": "não segundem"
+  },
+  "Part-ter": {
+    "": "segundado"
+  },
+  "Part-ser": {
+    "ms": "segundado",
+    "fs": "segundada",
+    "mp": "segundados",
+    "fp": "segundadas"
+  }
+}

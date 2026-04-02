@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "distender"
+  },
+  "Ger": {
+    "": "distendiendo"
+  },
+  "PresI": {
+    "1s": "distiendo",
+    "2s": "distiendes",
+    "3s": "distiende",
+    "1p": "distendemos",
+    "2p": "distendéis",
+    "3p": "distienden"
+  },
+  "PImpI": {
+    "1s": "distendía",
+    "2s": "distendías",
+    "3s": "distendía",
+    "1p": "distendíamos",
+    "2p": "distendíais",
+    "3p": "distendían"
+  },
+  "PPSI": {
+    "1s": "distendí",
+    "2s": "distendiste",
+    "3s": "distendió",
+    "1p": "distendimos",
+    "2p": "distendisteis",
+    "3p": "distendieron"
+  },
+  "FutSI": {
+    "1s": "distenderé",
+    "2s": "distenderás",
+    "3s": "distenderá",
+    "1p": "distenderemos",
+    "2p": "distenderéis",
+    "3p": "distenderán"
+  },
+  "CondS": {
+    "1s": "distendería",
+    "2s": "distenderías",
+    "3s": "distendería",
+    "1p": "distenderíamos",
+    "2p": "distenderíais",
+    "3p": "distenderían"
+  },
+  "PresC": {
+    "1s": "distienda",
+    "2s": "distiendas",
+    "3s": "distienda",
+    "1p": "distendamos",
+    "2p": "distendáis",
+    "3p": "distiendan"
+  },
+  "PMQPSI": {
+    "1s": "distendiera",
+    "2s": "distendieras",
+    "3s": "distendiera",
+    "1p": "distendiéramos",
+    "2p": "distendierais",
+    "3p": "distendieran"
+  },
+  "PImpC": {
+    "1s": "distendiese",
+    "2s": "distendieses",
+    "3s": "distendiese",
+    "1p": "distendiésemos",
+    "2p": "distendieseis",
+    "3p": "distendiesen"
+  },
+  "FutSC": {
+    "1s": "distendiere",
+    "2s": "distendieres",
+    "3s": "distendiere",
+    "1p": "distendiéremos",
+    "2p": "distendiereis",
+    "3p": "distendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "distiende",
+    "3s": "distienda",
+    "1p": "distendamos",
+    "2p": "distended",
+    "3p": "distiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no distiendas",
+    "3s": "no distienda",
+    "1p": "no distendamos",
+    "2p": "no distendáis",
+    "3p": "no distiendan"
+  },
+  "Part-ter": {
+    "": "distendido"
+  },
+  "Part-ser": {
+    "ms": "distendido",
+    "fs": "distendida",
+    "mp": "distendidos",
+    "fp": "distendidas"
+  }
+}

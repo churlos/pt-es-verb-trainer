@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rastrejar"
+  },
+  "InfP": {
+    "1s": "rastrejar",
+    "2s": "rastrejares",
+    "3s": "rastrejar",
+    "1p": "rastrejarmos",
+    "2p": "rastrejardes",
+    "3p": "rastrejarem"
+  },
+  "Ger": {
+    "": "rastrejando"
+  },
+  "PresI": {
+    "1s": "rastrejo",
+    "2s": "rastrejas",
+    "3s": "rastreja",
+    "1p": "rastrejamos",
+    "2p": "rastrejais",
+    "3p": "rastrejam"
+  },
+  "PImpI": {
+    "1s": "rastrejava",
+    "2s": "rastrejavas",
+    "3s": "rastrejava",
+    "1p": "rastrejávamos",
+    "2p": "rastrejáveis",
+    "3p": "rastrejavam"
+  },
+  "PPSI": {
+    "1s": "rastrejei",
+    "2s": "rastrejaste",
+    "3s": "rastrejou",
+    "1p": "rastrejámos",
+    "2p": "rastrejastes",
+    "3p": "rastrejaram"
+  },
+  "PMQPSI": {
+    "1s": "rastrejara",
+    "2s": "rastrejaras",
+    "3s": "rastrejara",
+    "1p": "rastrejáramos",
+    "2p": "rastrejáreis",
+    "3p": "rastrejaram"
+  },
+  "FutSI": {
+    "1s": "rastrejarei",
+    "2s": "rastrejarás",
+    "3s": "rastrejará",
+    "1p": "rastrejaremos",
+    "2p": "rastrejareis",
+    "3p": "rastrejarão"
+  },
+  "CondS": {
+    "1s": "rastrejaria",
+    "2s": "rastrejarias",
+    "3s": "rastrejaria",
+    "1p": "rastrejaríamos",
+    "2p": "rastrejaríeis",
+    "3p": "rastrejariam"
+  },
+  "PresC": {
+    "1s": "rastreje",
+    "2s": "rastrejes",
+    "3s": "rastreje",
+    "1p": "rastrejemos",
+    "2p": "rastrejeis",
+    "3p": "rastrejem"
+  },
+  "PImpC": {
+    "1s": "rastrejasse",
+    "2s": "rastrejasses",
+    "3s": "rastrejasse",
+    "1p": "rastrejássemos",
+    "2p": "rastrejásseis",
+    "3p": "rastrejassem"
+  },
+  "FutSC": {
+    "1s": "rastrejar",
+    "2s": "rastrejares",
+    "3s": "rastrejar",
+    "1p": "rastrejarmos",
+    "2p": "rastrejardes",
+    "3p": "rastrejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rastreja",
+    "3s": "rastreje",
+    "1p": "rastrejemos",
+    "2p": "rastrejai",
+    "3p": "rastrejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rastrejes",
+    "3s": "não rastreje",
+    "1p": "não rastrejemos",
+    "2p": "não rastrejeis",
+    "3p": "não rastrejem"
+  },
+  "Part-ter": {
+    "": "rastrejado"
+  },
+  "Part-ser": {
+    "ms": "rastrejado",
+    "fs": "rastrejada",
+    "mp": "rastrejados",
+    "fp": "rastrejadas"
+  }
+}

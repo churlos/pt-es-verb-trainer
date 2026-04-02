@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estirar"
+  },
+  "Ger": {
+    "": "estirando"
+  },
+  "PresI": {
+    "1s": "estiro",
+    "2s": "estiras",
+    "3s": "estira",
+    "1p": "estiramos",
+    "2p": "estiráis",
+    "3p": "estiran"
+  },
+  "PImpI": {
+    "1s": "estiraba",
+    "2s": "estirabas",
+    "3s": "estiraba",
+    "1p": "estirábamos",
+    "2p": "estirabais",
+    "3p": "estiraban"
+  },
+  "PPSI": {
+    "1s": "estiré",
+    "2s": "estiraste",
+    "3s": "estiró",
+    "1p": "estiramos",
+    "2p": "estirasteis",
+    "3p": "estiraron"
+  },
+  "FutSI": {
+    "1s": "estiraré",
+    "2s": "estirarás",
+    "3s": "estirará",
+    "1p": "estiraremos",
+    "2p": "estiraréis",
+    "3p": "estirarán"
+  },
+  "CondS": {
+    "1s": "estiraría",
+    "2s": "estirarías",
+    "3s": "estiraría",
+    "1p": "estiraríamos",
+    "2p": "estiraríais",
+    "3p": "estirarían"
+  },
+  "PresC": {
+    "1s": "estire",
+    "2s": "estires",
+    "3s": "estire",
+    "1p": "estiremos",
+    "2p": "estiréis",
+    "3p": "estiren"
+  },
+  "PMQPSI": {
+    "1s": "estirara",
+    "2s": "estiraras",
+    "3s": "estirara",
+    "1p": "estiráramos",
+    "2p": "estirarais",
+    "3p": "estiraran"
+  },
+  "PImpC": {
+    "1s": "estirase",
+    "2s": "estirases",
+    "3s": "estirase",
+    "1p": "estirásemos",
+    "2p": "estiraseis",
+    "3p": "estirasen"
+  },
+  "FutSC": {
+    "1s": "estirare",
+    "2s": "estirares",
+    "3s": "estirare",
+    "1p": "estiráremos",
+    "2p": "estirareis",
+    "3p": "estiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estira",
+    "3s": "estire",
+    "1p": "estiremos",
+    "2p": "estirad",
+    "3p": "estiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estires",
+    "3s": "no estire",
+    "1p": "no estiremos",
+    "2p": "no estiréis",
+    "3p": "no estiren"
+  },
+  "Part-ter": {
+    "": "estirado"
+  },
+  "Part-ser": {
+    "ms": "estirado",
+    "fs": "estirada",
+    "mp": "estirados",
+    "fp": "estiradas"
+  }
+}

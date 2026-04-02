@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "padecer"
+  },
+  "InfP": {
+    "1s": "padecer",
+    "2s": "padeceres",
+    "3s": "padecer",
+    "1p": "padecermos",
+    "2p": "padecerdes",
+    "3p": "padecerem"
+  },
+  "Ger": {
+    "": "padecendo"
+  },
+  "PresI": {
+    "1s": "padeço",
+    "2s": "padeces",
+    "3s": "padece",
+    "1p": "padecemos",
+    "2p": "padeceis",
+    "3p": "padecem"
+  },
+  "PImpI": {
+    "1s": "padecia",
+    "2s": "padecias",
+    "3s": "padecia",
+    "1p": "padecíamos",
+    "2p": "padecíeis",
+    "3p": "padeciam"
+  },
+  "PPSI": {
+    "1s": "padeci",
+    "2s": "padeceste",
+    "3s": "padeceu",
+    "1p": "padecemos",
+    "2p": "padecestes",
+    "3p": "padeceram"
+  },
+  "PMQPSI": {
+    "1s": "padecera",
+    "2s": "padeceras",
+    "3s": "padecera",
+    "1p": "padecêramos",
+    "2p": "padecêreis",
+    "3p": "padeceram"
+  },
+  "FutSI": {
+    "1s": "padecerei",
+    "2s": "padecerás",
+    "3s": "padecerá",
+    "1p": "padeceremos",
+    "2p": "padecereis",
+    "3p": "padecerão"
+  },
+  "CondS": {
+    "1s": "padeceria",
+    "2s": "padecerias",
+    "3s": "padeceria",
+    "1p": "padeceríamos",
+    "2p": "padeceríeis",
+    "3p": "padeceriam"
+  },
+  "PresC": {
+    "1s": "padeça",
+    "2s": "padeças",
+    "3s": "padeça",
+    "1p": "padeçamos",
+    "2p": "padeçais",
+    "3p": "padeçam"
+  },
+  "PImpC": {
+    "1s": "padecesse",
+    "2s": "padecesses",
+    "3s": "padecesse",
+    "1p": "padecêssemos",
+    "2p": "padecêsseis",
+    "3p": "padecessem"
+  },
+  "FutSC": {
+    "1s": "padecer",
+    "2s": "padeceres",
+    "3s": "padecer",
+    "1p": "padecermos",
+    "2p": "padecerdes",
+    "3p": "padecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "padece",
+    "3s": "padeça",
+    "1p": "padeçamos",
+    "2p": "padecei",
+    "3p": "padeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não padeças",
+    "3s": "não padeça",
+    "1p": "não padeçamos",
+    "2p": "não padeçais",
+    "3p": "não padeçam"
+  },
+  "Part-ter": {
+    "": "padecido"
+  },
+  "Part-ser": {
+    "ms": "padecido",
+    "fs": "padecida",
+    "mp": "padecidos",
+    "fp": "padecidas"
+  }
+}

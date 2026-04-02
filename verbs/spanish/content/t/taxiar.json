@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "taxiar"
+  },
+  "Ger": {
+    "": "taxiando"
+  },
+  "PresI": {
+    "1s": "taxio",
+    "2s": "taxias",
+    "3s": "taxia",
+    "1p": "taxiamos",
+    "2p": "taxiáis",
+    "3p": "taxian"
+  },
+  "PImpI": {
+    "1s": "taxiaba",
+    "2s": "taxiabas",
+    "3s": "taxiaba",
+    "1p": "taxiábamos",
+    "2p": "taxiabais",
+    "3p": "taxiaban"
+  },
+  "PPSI": {
+    "1s": "taxié",
+    "2s": "taxiaste",
+    "3s": "taxió",
+    "1p": "taxiamos",
+    "2p": "taxiasteis",
+    "3p": "taxiaron"
+  },
+  "FutSI": {
+    "1s": "taxiaré",
+    "2s": "taxiarás",
+    "3s": "taxiará",
+    "1p": "taxiaremos",
+    "2p": "taxiaréis",
+    "3p": "taxiarán"
+  },
+  "CondS": {
+    "1s": "taxiaría",
+    "2s": "taxiarías",
+    "3s": "taxiaría",
+    "1p": "taxiaríamos",
+    "2p": "taxiaríais",
+    "3p": "taxiarían"
+  },
+  "PresC": {
+    "1s": "taxie",
+    "2s": "taxies",
+    "3s": "taxie",
+    "1p": "taxiemos",
+    "2p": "taxiéis",
+    "3p": "taxien"
+  },
+  "PMQPSI": {
+    "1s": "taxiara",
+    "2s": "taxiaras",
+    "3s": "taxiara",
+    "1p": "taxiáramos",
+    "2p": "taxiarais",
+    "3p": "taxiaran"
+  },
+  "PImpC": {
+    "1s": "taxiase",
+    "2s": "taxiases",
+    "3s": "taxiase",
+    "1p": "taxiásemos",
+    "2p": "taxiaseis",
+    "3p": "taxiasen"
+  },
+  "FutSC": {
+    "1s": "taxiare",
+    "2s": "taxiares",
+    "3s": "taxiare",
+    "1p": "taxiáremos",
+    "2p": "taxiareis",
+    "3p": "taxiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "taxia",
+    "3s": "taxie",
+    "1p": "taxiemos",
+    "2p": "taxiad",
+    "3p": "taxien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no taxies",
+    "3s": "no taxie",
+    "1p": "no taxiemos",
+    "2p": "no taxiéis",
+    "3p": "no taxien"
+  },
+  "Part-ter": {
+    "": "taxiado"
+  },
+  "Part-ser": {
+    "ms": "taxiado",
+    "fs": "taxiada",
+    "mp": "taxiados",
+    "fp": "taxiadas"
+  }
+}

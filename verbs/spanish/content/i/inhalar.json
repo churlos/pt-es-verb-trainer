@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inhalar"
+  },
+  "Ger": {
+    "": "inhalando"
+  },
+  "PresI": {
+    "1s": "inhalo",
+    "2s": "inhalas",
+    "3s": "inhala",
+    "1p": "inhalamos",
+    "2p": "inhaláis",
+    "3p": "inhalan"
+  },
+  "PImpI": {
+    "1s": "inhalaba",
+    "2s": "inhalabas",
+    "3s": "inhalaba",
+    "1p": "inhalábamos",
+    "2p": "inhalabais",
+    "3p": "inhalaban"
+  },
+  "PPSI": {
+    "1s": "inhalé",
+    "2s": "inhalaste",
+    "3s": "inhaló",
+    "1p": "inhalamos",
+    "2p": "inhalasteis",
+    "3p": "inhalaron"
+  },
+  "FutSI": {
+    "1s": "inhalaré",
+    "2s": "inhalarás",
+    "3s": "inhalará",
+    "1p": "inhalaremos",
+    "2p": "inhalaréis",
+    "3p": "inhalarán"
+  },
+  "CondS": {
+    "1s": "inhalaría",
+    "2s": "inhalarías",
+    "3s": "inhalaría",
+    "1p": "inhalaríamos",
+    "2p": "inhalaríais",
+    "3p": "inhalarían"
+  },
+  "PresC": {
+    "1s": "inhale",
+    "2s": "inhales",
+    "3s": "inhale",
+    "1p": "inhalemos",
+    "2p": "inhaléis",
+    "3p": "inhalen"
+  },
+  "PMQPSI": {
+    "1s": "inhalara",
+    "2s": "inhalaras",
+    "3s": "inhalara",
+    "1p": "inhaláramos",
+    "2p": "inhalarais",
+    "3p": "inhalaran"
+  },
+  "PImpC": {
+    "1s": "inhalase",
+    "2s": "inhalases",
+    "3s": "inhalase",
+    "1p": "inhalásemos",
+    "2p": "inhalaseis",
+    "3p": "inhalasen"
+  },
+  "FutSC": {
+    "1s": "inhalare",
+    "2s": "inhalares",
+    "3s": "inhalare",
+    "1p": "inhaláremos",
+    "2p": "inhalareis",
+    "3p": "inhalaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inhala",
+    "3s": "inhale",
+    "1p": "inhalemos",
+    "2p": "inhalad",
+    "3p": "inhalen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inhales",
+    "3s": "no inhale",
+    "1p": "no inhalemos",
+    "2p": "no inhaléis",
+    "3p": "no inhalen"
+  },
+  "Part-ter": {
+    "": "inhalado"
+  },
+  "Part-ser": {
+    "ms": "inhalado",
+    "fs": "inhalada",
+    "mp": "inhalados",
+    "fp": "inhaladas"
+  }
+}

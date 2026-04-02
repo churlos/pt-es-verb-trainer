@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "teorizar"
+  },
+  "InfP": {
+    "1s": "teorizar",
+    "2s": "teorizares",
+    "3s": "teorizar",
+    "1p": "teorizarmos",
+    "2p": "teorizardes",
+    "3p": "teorizarem"
+  },
+  "Ger": {
+    "": "teorizando"
+  },
+  "PresI": {
+    "1s": "teorizo",
+    "2s": "teorizas",
+    "3s": "teoriza",
+    "1p": "teorizamos",
+    "2p": "teorizais",
+    "3p": "teorizam"
+  },
+  "PImpI": {
+    "1s": "teorizava",
+    "2s": "teorizavas",
+    "3s": "teorizava",
+    "1p": "teorizávamos",
+    "2p": "teorizáveis",
+    "3p": "teorizavam"
+  },
+  "PPSI": {
+    "1s": "teorizei",
+    "2s": "teorizaste",
+    "3s": "teorizou",
+    "1p": "teorizámos",
+    "2p": "teorizastes",
+    "3p": "teorizaram"
+  },
+  "PMQPSI": {
+    "1s": "teorizara",
+    "2s": "teorizaras",
+    "3s": "teorizara",
+    "1p": "teorizáramos",
+    "2p": "teorizáreis",
+    "3p": "teorizaram"
+  },
+  "FutSI": {
+    "1s": "teorizarei",
+    "2s": "teorizarás",
+    "3s": "teorizará",
+    "1p": "teorizaremos",
+    "2p": "teorizareis",
+    "3p": "teorizarão"
+  },
+  "CondS": {
+    "1s": "teorizaria",
+    "2s": "teorizarias",
+    "3s": "teorizaria",
+    "1p": "teorizaríamos",
+    "2p": "teorizaríeis",
+    "3p": "teorizariam"
+  },
+  "PresC": {
+    "1s": "teorize",
+    "2s": "teorizes",
+    "3s": "teorize",
+    "1p": "teorizemos",
+    "2p": "teorizeis",
+    "3p": "teorizem"
+  },
+  "PImpC": {
+    "1s": "teorizasse",
+    "2s": "teorizasses",
+    "3s": "teorizasse",
+    "1p": "teorizássemos",
+    "2p": "teorizásseis",
+    "3p": "teorizassem"
+  },
+  "FutSC": {
+    "1s": "teorizar",
+    "2s": "teorizares",
+    "3s": "teorizar",
+    "1p": "teorizarmos",
+    "2p": "teorizardes",
+    "3p": "teorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "teoriza",
+    "3s": "teorize",
+    "1p": "teorizemos",
+    "2p": "teorizai",
+    "3p": "teorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não teorizes",
+    "3s": "não teorize",
+    "1p": "não teorizemos",
+    "2p": "não teorizeis",
+    "3p": "não teorizem"
+  },
+  "Part-ter": {
+    "": "teorizado"
+  },
+  "Part-ser": {
+    "ms": "teorizado",
+    "fs": "teorizada",
+    "mp": "teorizados",
+    "fp": "teorizadas"
+  }
+}

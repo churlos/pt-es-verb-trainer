@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "velar"
+  },
+  "InfP": {
+    "1s": "velar",
+    "2s": "velares",
+    "3s": "velar",
+    "1p": "velarmos",
+    "2p": "velardes",
+    "3p": "velarem"
+  },
+  "Ger": {
+    "": "velando"
+  },
+  "PresI": {
+    "1s": "velo",
+    "2s": "velas",
+    "3s": "vela",
+    "1p": "velamos",
+    "2p": "velais",
+    "3p": "velam"
+  },
+  "PImpI": {
+    "1s": "velava",
+    "2s": "velavas",
+    "3s": "velava",
+    "1p": "velávamos",
+    "2p": "veláveis",
+    "3p": "velavam"
+  },
+  "PPSI": {
+    "1s": "velei",
+    "2s": "velaste",
+    "3s": "velou",
+    "1p": "velámos",
+    "2p": "velastes",
+    "3p": "velaram"
+  },
+  "PMQPSI": {
+    "1s": "velara",
+    "2s": "velaras",
+    "3s": "velara",
+    "1p": "veláramos",
+    "2p": "veláreis",
+    "3p": "velaram"
+  },
+  "FutSI": {
+    "1s": "velarei",
+    "2s": "velarás",
+    "3s": "velará",
+    "1p": "velaremos",
+    "2p": "velareis",
+    "3p": "velarão"
+  },
+  "CondS": {
+    "1s": "velaria",
+    "2s": "velarias",
+    "3s": "velaria",
+    "1p": "velaríamos",
+    "2p": "velaríeis",
+    "3p": "velariam"
+  },
+  "PresC": {
+    "1s": "vele",
+    "2s": "veles",
+    "3s": "vele",
+    "1p": "velemos",
+    "2p": "veleis",
+    "3p": "velem"
+  },
+  "PImpC": {
+    "1s": "velasse",
+    "2s": "velasses",
+    "3s": "velasse",
+    "1p": "velássemos",
+    "2p": "velásseis",
+    "3p": "velassem"
+  },
+  "FutSC": {
+    "1s": "velar",
+    "2s": "velares",
+    "3s": "velar",
+    "1p": "velarmos",
+    "2p": "velardes",
+    "3p": "velarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vela",
+    "3s": "vele",
+    "1p": "velemos",
+    "2p": "velai",
+    "3p": "velem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não veles",
+    "3s": "não vele",
+    "1p": "não velemos",
+    "2p": "não veleis",
+    "3p": "não velem"
+  },
+  "Part-ter": {
+    "": "velado"
+  },
+  "Part-ser": {
+    "ms": "velado",
+    "fs": "velada",
+    "mp": "velados",
+    "fp": "veladas"
+  }
+}

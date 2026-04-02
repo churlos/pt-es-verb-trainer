@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ocurrir"
+  },
+  "Ger": {
+    "": "ocurriendo"
+  },
+  "PresI": {
+    "1s": "ocurro",
+    "2s": "ocurres",
+    "3s": "ocurre",
+    "1p": "ocurrimos",
+    "2p": "ocurrís",
+    "3p": "ocurren"
+  },
+  "PImpI": {
+    "1s": "ocurría",
+    "2s": "ocurrías",
+    "3s": "ocurría",
+    "1p": "ocurríamos",
+    "2p": "ocurríais",
+    "3p": "ocurrían"
+  },
+  "PPSI": {
+    "1s": "ocurrí",
+    "2s": "ocurriste",
+    "3s": "ocurrió",
+    "1p": "ocurrimos",
+    "2p": "ocurristeis",
+    "3p": "ocurrieron"
+  },
+  "FutSI": {
+    "1s": "ocurriré",
+    "2s": "ocurrirás",
+    "3s": "ocurrirá",
+    "1p": "ocurriremos",
+    "2p": "ocurriréis",
+    "3p": "ocurrirán"
+  },
+  "CondS": {
+    "1s": "ocurriría",
+    "2s": "ocurrirías",
+    "3s": "ocurriría",
+    "1p": "ocurriríamos",
+    "2p": "ocurriríais",
+    "3p": "ocurrirían"
+  },
+  "PresC": {
+    "1s": "ocurra",
+    "2s": "ocurras",
+    "3s": "ocurra",
+    "1p": "ocurramos",
+    "2p": "ocurráis",
+    "3p": "ocurran"
+  },
+  "PMQPSI": {
+    "1s": "ocurriera",
+    "2s": "ocurrieras",
+    "3s": "ocurriera",
+    "1p": "ocurriéramos",
+    "2p": "ocurrierais",
+    "3p": "ocurrieran"
+  },
+  "PImpC": {
+    "1s": "ocurriese",
+    "2s": "ocurrieses",
+    "3s": "ocurriese",
+    "1p": "ocurriésemos",
+    "2p": "ocurrieseis",
+    "3p": "ocurriesen"
+  },
+  "FutSC": {
+    "1s": "ocurriere",
+    "2s": "ocurrieres",
+    "3s": "ocurriere",
+    "1p": "ocurriéremos",
+    "2p": "ocurriereis",
+    "3p": "ocurrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ocurre",
+    "3s": "ocurra",
+    "1p": "ocurramos",
+    "2p": "ocurrid",
+    "3p": "ocurran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ocurras",
+    "3s": "no ocurra",
+    "1p": "no ocurramos",
+    "2p": "no ocurráis",
+    "3p": "no ocurran"
+  },
+  "Part-ter": {
+    "": "ocurrido"
+  },
+  "Part-ser": {
+    "ms": "ocurrido",
+    "fs": "ocurrida",
+    "mp": "ocurridos",
+    "fp": "ocurridas"
+  }
+}

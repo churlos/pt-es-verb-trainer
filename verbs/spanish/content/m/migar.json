@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "migar"
+  },
+  "Ger": {
+    "": "migando"
+  },
+  "PresI": {
+    "1s": "migo",
+    "2s": "migas",
+    "3s": "miga",
+    "1p": "migamos",
+    "2p": "migáis",
+    "3p": "migan"
+  },
+  "PImpI": {
+    "1s": "migaba",
+    "2s": "migabas",
+    "3s": "migaba",
+    "1p": "migábamos",
+    "2p": "migabais",
+    "3p": "migaban"
+  },
+  "PPSI": {
+    "1s": "migué",
+    "2s": "migaste",
+    "3s": "migó",
+    "1p": "migamos",
+    "2p": "migasteis",
+    "3p": "migaron"
+  },
+  "FutSI": {
+    "1s": "migaré",
+    "2s": "migarás",
+    "3s": "migará",
+    "1p": "migaremos",
+    "2p": "migaréis",
+    "3p": "migarán"
+  },
+  "CondS": {
+    "1s": "migaría",
+    "2s": "migarías",
+    "3s": "migaría",
+    "1p": "migaríamos",
+    "2p": "migaríais",
+    "3p": "migarían"
+  },
+  "PresC": {
+    "1s": "migue",
+    "2s": "migues",
+    "3s": "migue",
+    "1p": "miguemos",
+    "2p": "miguéis",
+    "3p": "miguen"
+  },
+  "PMQPSI": {
+    "1s": "migara",
+    "2s": "migaras",
+    "3s": "migara",
+    "1p": "migáramos",
+    "2p": "migarais",
+    "3p": "migaran"
+  },
+  "PImpC": {
+    "1s": "migase",
+    "2s": "migases",
+    "3s": "migase",
+    "1p": "migásemos",
+    "2p": "migaseis",
+    "3p": "migasen"
+  },
+  "FutSC": {
+    "1s": "migare",
+    "2s": "migares",
+    "3s": "migare",
+    "1p": "migáremos",
+    "2p": "migareis",
+    "3p": "migaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "miga",
+    "3s": "migue",
+    "1p": "miguemos",
+    "2p": "migad",
+    "3p": "miguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no migues",
+    "3s": "no migue",
+    "1p": "no miguemos",
+    "2p": "no miguéis",
+    "3p": "no miguen"
+  },
+  "Part-ter": {
+    "": "migado"
+  },
+  "Part-ser": {
+    "ms": "migado",
+    "fs": "migada",
+    "mp": "migados",
+    "fp": "migadas"
+  }
+}

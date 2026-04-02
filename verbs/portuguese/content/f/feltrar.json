@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "feltrar"
+  },
+  "InfP": {
+    "1s": "feltrar",
+    "2s": "feltrares",
+    "3s": "feltrar",
+    "1p": "feltrarmos",
+    "2p": "feltrardes",
+    "3p": "feltrarem"
+  },
+  "Ger": {
+    "": "feltrando"
+  },
+  "PresI": {
+    "1s": "feltro",
+    "2s": "feltras",
+    "3s": "feltra",
+    "1p": "feltramos",
+    "2p": "feltrais",
+    "3p": "feltram"
+  },
+  "PImpI": {
+    "1s": "feltrava",
+    "2s": "feltravas",
+    "3s": "feltrava",
+    "1p": "feltrávamos",
+    "2p": "feltráveis",
+    "3p": "feltravam"
+  },
+  "PPSI": {
+    "1s": "feltrei",
+    "2s": "feltraste",
+    "3s": "feltrou",
+    "1p": "feltrámos",
+    "2p": "feltrastes",
+    "3p": "feltraram"
+  },
+  "PMQPSI": {
+    "1s": "feltrara",
+    "2s": "feltraras",
+    "3s": "feltrara",
+    "1p": "feltráramos",
+    "2p": "feltráreis",
+    "3p": "feltraram"
+  },
+  "FutSI": {
+    "1s": "feltrarei",
+    "2s": "feltrarás",
+    "3s": "feltrará",
+    "1p": "feltraremos",
+    "2p": "feltrareis",
+    "3p": "feltrarão"
+  },
+  "CondS": {
+    "1s": "feltraria",
+    "2s": "feltrarias",
+    "3s": "feltraria",
+    "1p": "feltraríamos",
+    "2p": "feltraríeis",
+    "3p": "feltrariam"
+  },
+  "PresC": {
+    "1s": "feltre",
+    "2s": "feltres",
+    "3s": "feltre",
+    "1p": "feltremos",
+    "2p": "feltreis",
+    "3p": "feltrem"
+  },
+  "PImpC": {
+    "1s": "feltrasse",
+    "2s": "feltrasses",
+    "3s": "feltrasse",
+    "1p": "feltrássemos",
+    "2p": "feltrásseis",
+    "3p": "feltrassem"
+  },
+  "FutSC": {
+    "1s": "feltrar",
+    "2s": "feltrares",
+    "3s": "feltrar",
+    "1p": "feltrarmos",
+    "2p": "feltrardes",
+    "3p": "feltrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "feltra",
+    "3s": "feltre",
+    "1p": "feltremos",
+    "2p": "feltrai",
+    "3p": "feltrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não feltres",
+    "3s": "não feltre",
+    "1p": "não feltremos",
+    "2p": "não feltreis",
+    "3p": "não feltrem"
+  },
+  "Part-ter": {
+    "": "feltrado"
+  },
+  "Part-ser": {
+    "ms": "feltrado",
+    "fs": "feltrada",
+    "mp": "feltrados",
+    "fp": "feltradas"
+  }
+}

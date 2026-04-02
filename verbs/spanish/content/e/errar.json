@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "errar"
+  },
+  "Ger": {
+    "": "errando"
+  },
+  "PresI": {
+    "1s": "yerro,  erro",
+    "2s": "yerras",
+    "3s": "yerra,  erra",
+    "1p": "erramos",
+    "2p": "erráis",
+    "3p": "yerran,  erran"
+  },
+  "PImpI": {
+    "1s": "erraba",
+    "2s": "errabas",
+    "3s": "erraba",
+    "1p": "errábamos",
+    "2p": "errabais",
+    "3p": "erraban"
+  },
+  "PPSI": {
+    "1s": "erré",
+    "2s": "erraste",
+    "3s": "erró",
+    "1p": "erramos",
+    "2p": "errasteis",
+    "3p": "erraron"
+  },
+  "FutSI": {
+    "1s": "erraré",
+    "2s": "errarás",
+    "3s": "errará",
+    "1p": "erraremos",
+    "2p": "erraréis",
+    "3p": "errarán"
+  },
+  "CondS": {
+    "1s": "erraría",
+    "2s": "errarías",
+    "3s": "erraría",
+    "1p": "erraríamos",
+    "2p": "erraríais",
+    "3p": "errarían"
+  },
+  "PresC": {
+    "1s": "yerre,  erre",
+    "2s": "yerres,  erres",
+    "3s": "yerre,  erre",
+    "1p": "erremos",
+    "2p": "erréis",
+    "3p": "yerren,  erren"
+  },
+  "PMQPSI": {
+    "1s": "errara",
+    "2s": "erraras",
+    "3s": "errara",
+    "1p": "erráramos",
+    "2p": "errarais",
+    "3p": "erraran"
+  },
+  "PImpC": {
+    "1s": "errase",
+    "2s": "errases",
+    "3s": "errase",
+    "1p": "errásemos",
+    "2p": "erraseis",
+    "3p": "errasen"
+  },
+  "FutSC": {
+    "1s": "errare",
+    "2s": "errares",
+    "3s": "errare",
+    "1p": "erráremos",
+    "2p": "errareis",
+    "3p": "erraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "yerra",
+    "3s": "yerre,  erre",
+    "1p": "erremos",
+    "2p": "errad",
+    "3p": "yerren,  erren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no yerres,  erres",
+    "3s": "no yerre,  erre",
+    "1p": "no erremos",
+    "2p": "no erréis",
+    "3p": "no yerren,  erren"
+  },
+  "Part-ter": {
+    "": "errado"
+  },
+  "Part-ser": {
+    "ms": "errado",
+    "fs": "errada",
+    "mp": "errados",
+    "fp": "erradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sacar"
+  },
+  "InfP": {
+    "1s": "sacar",
+    "2s": "sacares",
+    "3s": "sacar",
+    "1p": "sacarmos",
+    "2p": "sacardes",
+    "3p": "sacarem"
+  },
+  "Ger": {
+    "": "sacando"
+  },
+  "PresI": {
+    "1s": "saco",
+    "2s": "sacas",
+    "3s": "saca",
+    "1p": "sacamos",
+    "2p": "sacais",
+    "3p": "sacam"
+  },
+  "PImpI": {
+    "1s": "sacava",
+    "2s": "sacavas",
+    "3s": "sacava",
+    "1p": "sacávamos",
+    "2p": "sacáveis",
+    "3p": "sacavam"
+  },
+  "PPSI": {
+    "1s": "saquei",
+    "2s": "sacaste",
+    "3s": "sacou",
+    "1p": "sacámos",
+    "2p": "sacastes",
+    "3p": "sacaram"
+  },
+  "PMQPSI": {
+    "1s": "sacara",
+    "2s": "sacaras",
+    "3s": "sacara",
+    "1p": "sacáramos",
+    "2p": "sacáreis",
+    "3p": "sacaram"
+  },
+  "FutSI": {
+    "1s": "sacarei",
+    "2s": "sacarás",
+    "3s": "sacará",
+    "1p": "sacaremos",
+    "2p": "sacareis",
+    "3p": "sacarão"
+  },
+  "CondS": {
+    "1s": "sacaria",
+    "2s": "sacarias",
+    "3s": "sacaria",
+    "1p": "sacaríamos",
+    "2p": "sacaríeis",
+    "3p": "sacariam"
+  },
+  "PresC": {
+    "1s": "saque",
+    "2s": "saques",
+    "3s": "saque",
+    "1p": "saquemos",
+    "2p": "saqueis",
+    "3p": "saquem"
+  },
+  "PImpC": {
+    "1s": "sacasse",
+    "2s": "sacasses",
+    "3s": "sacasse",
+    "1p": "sacássemos",
+    "2p": "sacásseis",
+    "3p": "sacassem"
+  },
+  "FutSC": {
+    "1s": "sacar",
+    "2s": "sacares",
+    "3s": "sacar",
+    "1p": "sacarmos",
+    "2p": "sacardes",
+    "3p": "sacarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saca",
+    "3s": "saque",
+    "1p": "saquemos",
+    "2p": "sacai",
+    "3p": "saquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não saques",
+    "3s": "não saque",
+    "1p": "não saquemos",
+    "2p": "não saqueis",
+    "3p": "não saquem"
+  },
+  "Part-ter": {
+    "": "sacado"
+  },
+  "Part-ser": {
+    "ms": "sacado",
+    "fs": "sacada",
+    "mp": "sacados",
+    "fp": "sacadas"
+  }
+}

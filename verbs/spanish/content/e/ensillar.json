@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ensillar"
+  },
+  "Ger": {
+    "": "ensillando"
+  },
+  "PresI": {
+    "1s": "ensillo",
+    "2s": "ensillas",
+    "3s": "ensilla",
+    "1p": "ensillamos",
+    "2p": "ensilláis",
+    "3p": "ensillan"
+  },
+  "PImpI": {
+    "1s": "ensillaba",
+    "2s": "ensillabas",
+    "3s": "ensillaba",
+    "1p": "ensillábamos",
+    "2p": "ensillabais",
+    "3p": "ensillaban"
+  },
+  "PPSI": {
+    "1s": "ensillé",
+    "2s": "ensillaste",
+    "3s": "ensilló",
+    "1p": "ensillamos",
+    "2p": "ensillasteis",
+    "3p": "ensillaron"
+  },
+  "FutSI": {
+    "1s": "ensillaré",
+    "2s": "ensillarás",
+    "3s": "ensillará",
+    "1p": "ensillaremos",
+    "2p": "ensillaréis",
+    "3p": "ensillarán"
+  },
+  "CondS": {
+    "1s": "ensillaría",
+    "2s": "ensillarías",
+    "3s": "ensillaría",
+    "1p": "ensillaríamos",
+    "2p": "ensillaríais",
+    "3p": "ensillarían"
+  },
+  "PresC": {
+    "1s": "ensille",
+    "2s": "ensilles",
+    "3s": "ensille",
+    "1p": "ensillemos",
+    "2p": "ensilléis",
+    "3p": "ensillen"
+  },
+  "PMQPSI": {
+    "1s": "ensillara",
+    "2s": "ensillaras",
+    "3s": "ensillara",
+    "1p": "ensilláramos",
+    "2p": "ensillarais",
+    "3p": "ensillaran"
+  },
+  "PImpC": {
+    "1s": "ensillase",
+    "2s": "ensillases",
+    "3s": "ensillase",
+    "1p": "ensillásemos",
+    "2p": "ensillaseis",
+    "3p": "ensillasen"
+  },
+  "FutSC": {
+    "1s": "ensillare",
+    "2s": "ensillares",
+    "3s": "ensillare",
+    "1p": "ensilláremos",
+    "2p": "ensillareis",
+    "3p": "ensillaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ensilla",
+    "3s": "ensille",
+    "1p": "ensillemos",
+    "2p": "ensillad",
+    "3p": "ensillen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ensilles",
+    "3s": "no ensille",
+    "1p": "no ensillemos",
+    "2p": "no ensilléis",
+    "3p": "no ensillen"
+  },
+  "Part-ter": {
+    "": "ensillado"
+  },
+  "Part-ser": {
+    "ms": "ensillado",
+    "fs": "ensillada",
+    "mp": "ensillados",
+    "fp": "ensilladas"
+  }
+}

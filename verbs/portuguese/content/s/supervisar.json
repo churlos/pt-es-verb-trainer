@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "supervisar"
+  },
+  "InfP": {
+    "1s": "supervisar",
+    "2s": "supervisares",
+    "3s": "supervisar",
+    "1p": "supervisarmos",
+    "2p": "supervisardes",
+    "3p": "supervisarem"
+  },
+  "Ger": {
+    "": "supervisando"
+  },
+  "PresI": {
+    "1s": "superviso",
+    "2s": "supervisas",
+    "3s": "supervisa",
+    "1p": "supervisamos",
+    "2p": "supervisais",
+    "3p": "supervisam"
+  },
+  "PImpI": {
+    "1s": "supervisava",
+    "2s": "supervisavas",
+    "3s": "supervisava",
+    "1p": "supervisávamos",
+    "2p": "supervisáveis",
+    "3p": "supervisavam"
+  },
+  "PPSI": {
+    "1s": "supervisei",
+    "2s": "supervisaste",
+    "3s": "supervisou",
+    "1p": "supervisámos",
+    "2p": "supervisastes",
+    "3p": "supervisaram"
+  },
+  "PMQPSI": {
+    "1s": "supervisara",
+    "2s": "supervisaras",
+    "3s": "supervisara",
+    "1p": "supervisáramos",
+    "2p": "supervisáreis",
+    "3p": "supervisaram"
+  },
+  "FutSI": {
+    "1s": "supervisarei",
+    "2s": "supervisarás",
+    "3s": "supervisará",
+    "1p": "supervisaremos",
+    "2p": "supervisareis",
+    "3p": "supervisarão"
+  },
+  "CondS": {
+    "1s": "supervisaria",
+    "2s": "supervisarias",
+    "3s": "supervisaria",
+    "1p": "supervisaríamos",
+    "2p": "supervisaríeis",
+    "3p": "supervisariam"
+  },
+  "PresC": {
+    "1s": "supervise",
+    "2s": "supervises",
+    "3s": "supervise",
+    "1p": "supervisemos",
+    "2p": "superviseis",
+    "3p": "supervisem"
+  },
+  "PImpC": {
+    "1s": "supervisasse",
+    "2s": "supervisasses",
+    "3s": "supervisasse",
+    "1p": "supervisássemos",
+    "2p": "supervisásseis",
+    "3p": "supervisassem"
+  },
+  "FutSC": {
+    "1s": "supervisar",
+    "2s": "supervisares",
+    "3s": "supervisar",
+    "1p": "supervisarmos",
+    "2p": "supervisardes",
+    "3p": "supervisarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "supervisa",
+    "3s": "supervise",
+    "1p": "supervisemos",
+    "2p": "supervisai",
+    "3p": "supervisem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não supervises",
+    "3s": "não supervise",
+    "1p": "não supervisemos",
+    "2p": "não superviseis",
+    "3p": "não supervisem"
+  },
+  "Part-ter": {
+    "": "supervisado"
+  },
+  "Part-ser": {
+    "ms": "supervisado",
+    "fs": "supervisada",
+    "mp": "supervisados",
+    "fp": "supervisadas"
+  }
+}

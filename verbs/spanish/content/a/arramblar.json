@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arramblar"
+  },
+  "Ger": {
+    "": "arramblando"
+  },
+  "PresI": {
+    "1s": "arramblo",
+    "2s": "arramblas",
+    "3s": "arrambla",
+    "1p": "arramblamos",
+    "2p": "arrambláis",
+    "3p": "arramblan"
+  },
+  "PImpI": {
+    "1s": "arramblaba",
+    "2s": "arramblabas",
+    "3s": "arramblaba",
+    "1p": "arramblábamos",
+    "2p": "arramblabais",
+    "3p": "arramblaban"
+  },
+  "PPSI": {
+    "1s": "arramblé",
+    "2s": "arramblaste",
+    "3s": "arrambló",
+    "1p": "arramblamos",
+    "2p": "arramblasteis",
+    "3p": "arramblaron"
+  },
+  "FutSI": {
+    "1s": "arramblaré",
+    "2s": "arramblarás",
+    "3s": "arramblará",
+    "1p": "arramblaremos",
+    "2p": "arramblaréis",
+    "3p": "arramblarán"
+  },
+  "CondS": {
+    "1s": "arramblaría",
+    "2s": "arramblarías",
+    "3s": "arramblaría",
+    "1p": "arramblaríamos",
+    "2p": "arramblaríais",
+    "3p": "arramblarían"
+  },
+  "PresC": {
+    "1s": "arramble",
+    "2s": "arrambles",
+    "3s": "arramble",
+    "1p": "arramblemos",
+    "2p": "arrambléis",
+    "3p": "arramblen"
+  },
+  "PMQPSI": {
+    "1s": "arramblara",
+    "2s": "arramblaras",
+    "3s": "arramblara",
+    "1p": "arrambláramos",
+    "2p": "arramblarais",
+    "3p": "arramblaran"
+  },
+  "PImpC": {
+    "1s": "arramblase",
+    "2s": "arramblases",
+    "3s": "arramblase",
+    "1p": "arramblásemos",
+    "2p": "arramblaseis",
+    "3p": "arramblasen"
+  },
+  "FutSC": {
+    "1s": "arramblare",
+    "2s": "arramblares",
+    "3s": "arramblare",
+    "1p": "arrambláremos",
+    "2p": "arramblareis",
+    "3p": "arramblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arrambla",
+    "3s": "arramble",
+    "1p": "arramblemos",
+    "2p": "arramblad",
+    "3p": "arramblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arrambles",
+    "3s": "no arramble",
+    "1p": "no arramblemos",
+    "2p": "no arrambléis",
+    "3p": "no arramblen"
+  },
+  "Part-ter": {
+    "": "arramblado"
+  },
+  "Part-ser": {
+    "ms": "arramblado",
+    "fs": "arramblada",
+    "mp": "arramblados",
+    "fp": "arrambladas"
+  }
+}

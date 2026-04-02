@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "evoluir"
+  },
+  "InfP": {
+    "1s": "evoluir",
+    "2s": "evoluíres",
+    "3s": "evoluir",
+    "1p": "evoluirmos",
+    "2p": "evoluirdes",
+    "3p": "evoluírem"
+  },
+  "Ger": {
+    "": "evoluindo"
+  },
+  "PresI": {
+    "1s": "evoluo",
+    "2s": "evoluis",
+    "3s": "evolui",
+    "1p": "evoluímos",
+    "2p": "evoluís",
+    "3p": "evoluem"
+  },
+  "PImpI": {
+    "1s": "evoluía",
+    "2s": "evoluías",
+    "3s": "evoluía",
+    "1p": "evoluíamos",
+    "2p": "evoluíeis",
+    "3p": "evoluíam"
+  },
+  "PPSI": {
+    "1s": "evoluí",
+    "2s": "evoluíste",
+    "3s": "evoluiu",
+    "1p": "evoluímos",
+    "2p": "evoluístes",
+    "3p": "evoluíram"
+  },
+  "PMQPSI": {
+    "1s": "evoluíra",
+    "2s": "evoluíras",
+    "3s": "evoluíra",
+    "1p": "evoluíramos",
+    "2p": "evoluíreis",
+    "3p": "evoluíram"
+  },
+  "FutSI": {
+    "1s": "evoluirei",
+    "2s": "evoluirás",
+    "3s": "evoluirá",
+    "1p": "evoluiremos",
+    "2p": "evoluireis",
+    "3p": "evoluirão"
+  },
+  "CondS": {
+    "1s": "evoluiria",
+    "2s": "evoluirias",
+    "3s": "evoluiria",
+    "1p": "evoluiríamos",
+    "2p": "evoluiríeis",
+    "3p": "evoluiriam"
+  },
+  "PresC": {
+    "1s": "evolua",
+    "2s": "evoluas",
+    "3s": "evolua",
+    "1p": "evoluamos",
+    "2p": "evoluais",
+    "3p": "evoluam"
+  },
+  "PImpC": {
+    "1s": "evoluísse",
+    "2s": "evoluísses",
+    "3s": "evoluísse",
+    "1p": "evoluíssemos",
+    "2p": "evoluísseis",
+    "3p": "evoluíssem"
+  },
+  "FutSC": {
+    "1s": "evoluir",
+    "2s": "evoluíres",
+    "3s": "evoluir",
+    "1p": "evoluirmos",
+    "2p": "evoluirdes",
+    "3p": "evoluírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evolui",
+    "3s": "evolua",
+    "1p": "evoluamos",
+    "2p": "evoluí",
+    "3p": "evoluam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não evoluas",
+    "3s": "não evolua",
+    "1p": "não evoluamos",
+    "2p": "não evoluais",
+    "3p": "não evoluam"
+  },
+  "Part-ter": {
+    "": "evoluído"
+  },
+  "Part-ser": {
+    "ms": "evoluído",
+    "fs": "evoluída",
+    "mp": "evoluídos",
+    "fp": "evoluídas"
+  }
+}

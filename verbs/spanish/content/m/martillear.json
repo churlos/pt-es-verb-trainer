@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "martillear"
+  },
+  "Ger": {
+    "": "martilleando"
+  },
+  "PresI": {
+    "1s": "martilleo",
+    "2s": "martilleas",
+    "3s": "martillea",
+    "1p": "martilleamos",
+    "2p": "martilleáis",
+    "3p": "martillean"
+  },
+  "PImpI": {
+    "1s": "martilleaba",
+    "2s": "martilleabas",
+    "3s": "martilleaba",
+    "1p": "martilleábamos",
+    "2p": "martilleabais",
+    "3p": "martilleaban"
+  },
+  "PPSI": {
+    "1s": "martilleé",
+    "2s": "martilleaste",
+    "3s": "martilleó",
+    "1p": "martilleamos",
+    "2p": "martilleasteis",
+    "3p": "martillearon"
+  },
+  "FutSI": {
+    "1s": "martillearé",
+    "2s": "martillearás",
+    "3s": "martilleará",
+    "1p": "martillearemos",
+    "2p": "martillearéis",
+    "3p": "martillearán"
+  },
+  "CondS": {
+    "1s": "martillearía",
+    "2s": "martillearías",
+    "3s": "martillearía",
+    "1p": "martillearíamos",
+    "2p": "martillearíais",
+    "3p": "martillearían"
+  },
+  "PresC": {
+    "1s": "martillee",
+    "2s": "martillees",
+    "3s": "martillee",
+    "1p": "martilleemos",
+    "2p": "martilleéis",
+    "3p": "martilleen"
+  },
+  "PMQPSI": {
+    "1s": "martilleara",
+    "2s": "martillearas",
+    "3s": "martilleara",
+    "1p": "martilleáramos",
+    "2p": "martillearais",
+    "3p": "martillearan"
+  },
+  "PImpC": {
+    "1s": "martillease",
+    "2s": "martilleases",
+    "3s": "martillease",
+    "1p": "martilleásemos",
+    "2p": "martilleaseis",
+    "3p": "martilleasen"
+  },
+  "FutSC": {
+    "1s": "martilleare",
+    "2s": "martilleares",
+    "3s": "martilleare",
+    "1p": "martilleáremos",
+    "2p": "martilleareis",
+    "3p": "martillearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "martillea",
+    "3s": "martillee",
+    "1p": "martilleemos",
+    "2p": "martillead",
+    "3p": "martilleen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no martillees",
+    "3s": "no martillee",
+    "1p": "no martilleemos",
+    "2p": "no martilleéis",
+    "3p": "no martilleen"
+  },
+  "Part-ter": {
+    "": "martilleado"
+  },
+  "Part-ser": {
+    "ms": "martilleado",
+    "fs": "martilleada",
+    "mp": "martilleados",
+    "fp": "martilleadas"
+  }
+}

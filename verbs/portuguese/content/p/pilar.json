@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pilar"
+  },
+  "InfP": {
+    "1s": "pilar",
+    "2s": "pilares",
+    "3s": "pilar",
+    "1p": "pilarmos",
+    "2p": "pilardes",
+    "3p": "pilarem"
+  },
+  "Ger": {
+    "": "pilando"
+  },
+  "PresI": {
+    "1s": "pilo",
+    "2s": "pilas",
+    "3s": "pila",
+    "1p": "pilamos",
+    "2p": "pilais",
+    "3p": "pilam"
+  },
+  "PImpI": {
+    "1s": "pilava",
+    "2s": "pilavas",
+    "3s": "pilava",
+    "1p": "pilávamos",
+    "2p": "piláveis",
+    "3p": "pilavam"
+  },
+  "PPSI": {
+    "1s": "pilei",
+    "2s": "pilaste",
+    "3s": "pilou",
+    "1p": "pilámos",
+    "2p": "pilastes",
+    "3p": "pilaram"
+  },
+  "PMQPSI": {
+    "1s": "pilara",
+    "2s": "pilaras",
+    "3s": "pilara",
+    "1p": "piláramos",
+    "2p": "piláreis",
+    "3p": "pilaram"
+  },
+  "FutSI": {
+    "1s": "pilarei",
+    "2s": "pilarás",
+    "3s": "pilará",
+    "1p": "pilaremos",
+    "2p": "pilareis",
+    "3p": "pilarão"
+  },
+  "CondS": {
+    "1s": "pilaria",
+    "2s": "pilarias",
+    "3s": "pilaria",
+    "1p": "pilaríamos",
+    "2p": "pilaríeis",
+    "3p": "pilariam"
+  },
+  "PresC": {
+    "1s": "pile",
+    "2s": "piles",
+    "3s": "pile",
+    "1p": "pilemos",
+    "2p": "pileis",
+    "3p": "pilem"
+  },
+  "PImpC": {
+    "1s": "pilasse",
+    "2s": "pilasses",
+    "3s": "pilasse",
+    "1p": "pilássemos",
+    "2p": "pilásseis",
+    "3p": "pilassem"
+  },
+  "FutSC": {
+    "1s": "pilar",
+    "2s": "pilares",
+    "3s": "pilar",
+    "1p": "pilarmos",
+    "2p": "pilardes",
+    "3p": "pilarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pila",
+    "3s": "pile",
+    "1p": "pilemos",
+    "2p": "pilai",
+    "3p": "pilem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não piles",
+    "3s": "não pile",
+    "1p": "não pilemos",
+    "2p": "não pileis",
+    "3p": "não pilem"
+  },
+  "Part-ter": {
+    "": "pilado"
+  },
+  "Part-ser": {
+    "ms": "pilado",
+    "fs": "pilada",
+    "mp": "pilados",
+    "fp": "piladas"
+  }
+}

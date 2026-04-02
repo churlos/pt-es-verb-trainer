@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "folhear"
+  },
+  "InfP": {
+    "1s": "folhear",
+    "2s": "folheares",
+    "3s": "folhear",
+    "1p": "folhearmos",
+    "2p": "folheardes",
+    "3p": "folhearem"
+  },
+  "Ger": {
+    "": "folheando"
+  },
+  "PresI": {
+    "1s": "folheio",
+    "2s": "folheias",
+    "3s": "folheia",
+    "1p": "folheamos",
+    "2p": "folheais",
+    "3p": "folheiam"
+  },
+  "PImpI": {
+    "1s": "folheava",
+    "2s": "folheavas",
+    "3s": "folheava",
+    "1p": "folheávamos",
+    "2p": "folheáveis",
+    "3p": "folheavam"
+  },
+  "PPSI": {
+    "1s": "folheei",
+    "2s": "folheaste",
+    "3s": "folheou",
+    "1p": "folheámos",
+    "2p": "folheastes",
+    "3p": "folhearam"
+  },
+  "PMQPSI": {
+    "1s": "folheara",
+    "2s": "folhearas",
+    "3s": "folheara",
+    "1p": "folheáramos",
+    "2p": "folheáreis",
+    "3p": "folhearam"
+  },
+  "FutSI": {
+    "1s": "folhearei",
+    "2s": "folhearás",
+    "3s": "folheará",
+    "1p": "folhearemos",
+    "2p": "folheareis",
+    "3p": "folhearão"
+  },
+  "CondS": {
+    "1s": "folhearia",
+    "2s": "folhearias",
+    "3s": "folhearia",
+    "1p": "folhearíamos",
+    "2p": "folhearíeis",
+    "3p": "folheariam"
+  },
+  "PresC": {
+    "1s": "folheie",
+    "2s": "folheies",
+    "3s": "folheie",
+    "1p": "folheemos",
+    "2p": "folheeis",
+    "3p": "folheiem"
+  },
+  "PImpC": {
+    "1s": "folheasse",
+    "2s": "folheasses",
+    "3s": "folheasse",
+    "1p": "folheássemos",
+    "2p": "folheásseis",
+    "3p": "folheassem"
+  },
+  "FutSC": {
+    "1s": "folhear",
+    "2s": "folheares",
+    "3s": "folhear",
+    "1p": "folhearmos",
+    "2p": "folheardes",
+    "3p": "folhearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "folheia",
+    "3s": "folheie",
+    "1p": "folheemos",
+    "2p": "folheai",
+    "3p": "folheiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não folheies",
+    "3s": "não folheie",
+    "1p": "não folheemos",
+    "2p": "não folheeis",
+    "3p": "não folheiem"
+  },
+  "Part-ter": {
+    "": "folheado"
+  },
+  "Part-ser": {
+    "ms": "folheado",
+    "fs": "folheada",
+    "mp": "folheados",
+    "fp": "folheadas"
+  }
+}

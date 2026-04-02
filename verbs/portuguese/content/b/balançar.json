@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "balançar"
+  },
+  "InfP": {
+    "1s": "balançar",
+    "2s": "balançares",
+    "3s": "balançar",
+    "1p": "balançarmos",
+    "2p": "balançardes",
+    "3p": "balançarem"
+  },
+  "Ger": {
+    "": "balançando"
+  },
+  "PresI": {
+    "1s": "balanço",
+    "2s": "balanças",
+    "3s": "balança",
+    "1p": "balançamos",
+    "2p": "balançais",
+    "3p": "balançam"
+  },
+  "PImpI": {
+    "1s": "balançava",
+    "2s": "balançavas",
+    "3s": "balançava",
+    "1p": "balançávamos",
+    "2p": "balançáveis",
+    "3p": "balançavam"
+  },
+  "PPSI": {
+    "1s": "balancei",
+    "2s": "balançaste",
+    "3s": "balançou",
+    "1p": "balançámos",
+    "2p": "balançastes",
+    "3p": "balançaram"
+  },
+  "PMQPSI": {
+    "1s": "balançara",
+    "2s": "balançaras",
+    "3s": "balançara",
+    "1p": "balançáramos",
+    "2p": "balançáreis",
+    "3p": "balançaram"
+  },
+  "FutSI": {
+    "1s": "balançarei",
+    "2s": "balançarás",
+    "3s": "balançará",
+    "1p": "balançaremos",
+    "2p": "balançareis",
+    "3p": "balançarão"
+  },
+  "CondS": {
+    "1s": "balançaria",
+    "2s": "balançarias",
+    "3s": "balançaria",
+    "1p": "balançaríamos",
+    "2p": "balançaríeis",
+    "3p": "balançariam"
+  },
+  "PresC": {
+    "1s": "balance",
+    "2s": "balances",
+    "3s": "balance",
+    "1p": "balancemos",
+    "2p": "balanceis",
+    "3p": "balancem"
+  },
+  "PImpC": {
+    "1s": "balançasse",
+    "2s": "balançasses",
+    "3s": "balançasse",
+    "1p": "balançássemos",
+    "2p": "balançásseis",
+    "3p": "balançassem"
+  },
+  "FutSC": {
+    "1s": "balançar",
+    "2s": "balançares",
+    "3s": "balançar",
+    "1p": "balançarmos",
+    "2p": "balançardes",
+    "3p": "balançarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "balança",
+    "3s": "balance",
+    "1p": "balancemos",
+    "2p": "balançai",
+    "3p": "balancem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não balances",
+    "3s": "não balance",
+    "1p": "não balancemos",
+    "2p": "não balanceis",
+    "3p": "não balancem"
+  },
+  "Part-ter": {
+    "": "balançado"
+  },
+  "Part-ser": {
+    "ms": "balançado",
+    "fs": "balançada",
+    "mp": "balançados",
+    "fp": "balançadas"
+  }
+}

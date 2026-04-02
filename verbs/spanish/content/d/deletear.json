@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "deletear"
+  },
+  "Ger": {
+    "": "deleteando"
+  },
+  "PresI": {
+    "1s": "deleteo",
+    "2s": "deleteas",
+    "3s": "deletea",
+    "1p": "deleteamos",
+    "2p": "deleteáis",
+    "3p": "deletean"
+  },
+  "PImpI": {
+    "1s": "deleteaba",
+    "2s": "deleteabas",
+    "3s": "deleteaba",
+    "1p": "deleteábamos",
+    "2p": "deleteabais",
+    "3p": "deleteaban"
+  },
+  "PPSI": {
+    "1s": "deleteé",
+    "2s": "deleteaste",
+    "3s": "deleteó",
+    "1p": "deleteamos",
+    "2p": "deleteasteis",
+    "3p": "deletearon"
+  },
+  "FutSI": {
+    "1s": "deletearé",
+    "2s": "deletearás",
+    "3s": "deleteará",
+    "1p": "deletearemos",
+    "2p": "deletearéis",
+    "3p": "deletearán"
+  },
+  "CondS": {
+    "1s": "deletearía",
+    "2s": "deletearías",
+    "3s": "deletearía",
+    "1p": "deletearíamos",
+    "2p": "deletearíais",
+    "3p": "deletearían"
+  },
+  "PresC": {
+    "1s": "deletee",
+    "2s": "deletees",
+    "3s": "deletee",
+    "1p": "deleteemos",
+    "2p": "deleteéis",
+    "3p": "deleteen"
+  },
+  "PMQPSI": {
+    "1s": "deleteara",
+    "2s": "deletearas",
+    "3s": "deleteara",
+    "1p": "deleteáramos",
+    "2p": "deletearais",
+    "3p": "deletearan"
+  },
+  "PImpC": {
+    "1s": "deletease",
+    "2s": "deleteases",
+    "3s": "deletease",
+    "1p": "deleteásemos",
+    "2p": "deleteaseis",
+    "3p": "deleteasen"
+  },
+  "FutSC": {
+    "1s": "deleteare",
+    "2s": "deleteares",
+    "3s": "deleteare",
+    "1p": "deleteáremos",
+    "2p": "deleteareis",
+    "3p": "deletearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deletea",
+    "3s": "deletee",
+    "1p": "deleteemos",
+    "2p": "deletead",
+    "3p": "deleteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deletees",
+    "3s": "no deletee",
+    "1p": "no deleteemos",
+    "2p": "no deleteéis",
+    "3p": "no deleteen"
+  },
+  "Part-ter": {
+    "": "deleteado"
+  },
+  "Part-ser": {
+    "ms": "deleteado",
+    "fs": "deleteada",
+    "mp": "deleteados",
+    "fp": "deleteadas"
+  }
+}

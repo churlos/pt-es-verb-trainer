@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recurvar"
+  },
+  "Ger": {
+    "": "recurvando"
+  },
+  "PresI": {
+    "1s": "recurvo",
+    "2s": "recurvas",
+    "3s": "recurva",
+    "1p": "recurvamos",
+    "2p": "recurváis",
+    "3p": "recurvan"
+  },
+  "PImpI": {
+    "1s": "recurvaba",
+    "2s": "recurvabas",
+    "3s": "recurvaba",
+    "1p": "recurvábamos",
+    "2p": "recurvabais",
+    "3p": "recurvaban"
+  },
+  "PPSI": {
+    "1s": "recurvé",
+    "2s": "recurvaste",
+    "3s": "recurvó",
+    "1p": "recurvamos",
+    "2p": "recurvasteis",
+    "3p": "recurvaron"
+  },
+  "FutSI": {
+    "1s": "recurvaré",
+    "2s": "recurvarás",
+    "3s": "recurvará",
+    "1p": "recurvaremos",
+    "2p": "recurvaréis",
+    "3p": "recurvarán"
+  },
+  "CondS": {
+    "1s": "recurvaría",
+    "2s": "recurvarías",
+    "3s": "recurvaría",
+    "1p": "recurvaríamos",
+    "2p": "recurvaríais",
+    "3p": "recurvarían"
+  },
+  "PresC": {
+    "1s": "recurve",
+    "2s": "recurves",
+    "3s": "recurve",
+    "1p": "recurvemos",
+    "2p": "recurvéis",
+    "3p": "recurven"
+  },
+  "PMQPSI": {
+    "1s": "recurvara",
+    "2s": "recurvaras",
+    "3s": "recurvara",
+    "1p": "recurváramos",
+    "2p": "recurvarais",
+    "3p": "recurvaran"
+  },
+  "PImpC": {
+    "1s": "recurvase",
+    "2s": "recurvases",
+    "3s": "recurvase",
+    "1p": "recurvásemos",
+    "2p": "recurvaseis",
+    "3p": "recurvasen"
+  },
+  "FutSC": {
+    "1s": "recurvare",
+    "2s": "recurvares",
+    "3s": "recurvare",
+    "1p": "recurváremos",
+    "2p": "recurvareis",
+    "3p": "recurvaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recurva",
+    "3s": "recurve",
+    "1p": "recurvemos",
+    "2p": "recurvad",
+    "3p": "recurven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recurves",
+    "3s": "no recurve",
+    "1p": "no recurvemos",
+    "2p": "no recurvéis",
+    "3p": "no recurven"
+  },
+  "Part-ter": {
+    "": "recurvado"
+  },
+  "Part-ser": {
+    "ms": "recurvado",
+    "fs": "recurvada",
+    "mp": "recurvados",
+    "fp": "recurvadas"
+  }
+}

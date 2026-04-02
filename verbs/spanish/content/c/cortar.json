@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cortar"
+  },
+  "Ger": {
+    "": "cortando"
+  },
+  "PresI": {
+    "1s": "corto",
+    "2s": "cortas",
+    "3s": "corta",
+    "1p": "cortamos",
+    "2p": "cortáis",
+    "3p": "cortan"
+  },
+  "PImpI": {
+    "1s": "cortaba",
+    "2s": "cortabas",
+    "3s": "cortaba",
+    "1p": "cortábamos",
+    "2p": "cortabais",
+    "3p": "cortaban"
+  },
+  "PPSI": {
+    "1s": "corté",
+    "2s": "cortaste",
+    "3s": "cortó",
+    "1p": "cortamos",
+    "2p": "cortasteis",
+    "3p": "cortaron"
+  },
+  "FutSI": {
+    "1s": "cortaré",
+    "2s": "cortarás",
+    "3s": "cortará",
+    "1p": "cortaremos",
+    "2p": "cortaréis",
+    "3p": "cortarán"
+  },
+  "CondS": {
+    "1s": "cortaría",
+    "2s": "cortarías",
+    "3s": "cortaría",
+    "1p": "cortaríamos",
+    "2p": "cortaríais",
+    "3p": "cortarían"
+  },
+  "PresC": {
+    "1s": "corte",
+    "2s": "cortes",
+    "3s": "corte",
+    "1p": "cortemos",
+    "2p": "cortéis",
+    "3p": "corten"
+  },
+  "PMQPSI": {
+    "1s": "cortara",
+    "2s": "cortaras",
+    "3s": "cortara",
+    "1p": "cortáramos",
+    "2p": "cortarais",
+    "3p": "cortaran"
+  },
+  "PImpC": {
+    "1s": "cortase",
+    "2s": "cortases",
+    "3s": "cortase",
+    "1p": "cortásemos",
+    "2p": "cortaseis",
+    "3p": "cortasen"
+  },
+  "FutSC": {
+    "1s": "cortare",
+    "2s": "cortares",
+    "3s": "cortare",
+    "1p": "cortáremos",
+    "2p": "cortareis",
+    "3p": "cortaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corta",
+    "3s": "corte",
+    "1p": "cortemos",
+    "2p": "cortad",
+    "3p": "corten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cortes",
+    "3s": "no corte",
+    "1p": "no cortemos",
+    "2p": "no cortéis",
+    "3p": "no corten"
+  },
+  "Part-ter": {
+    "": "cortado"
+  },
+  "Part-ser": {
+    "ms": "cortado",
+    "fs": "cortada",
+    "mp": "cortados",
+    "fp": "cortadas"
+  }
+}

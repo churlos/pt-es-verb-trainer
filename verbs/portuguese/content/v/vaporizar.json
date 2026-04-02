@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vaporizar"
+  },
+  "InfP": {
+    "1s": "vaporizar",
+    "2s": "vaporizares",
+    "3s": "vaporizar",
+    "1p": "vaporizarmos",
+    "2p": "vaporizardes",
+    "3p": "vaporizarem"
+  },
+  "Ger": {
+    "": "vaporizando"
+  },
+  "PresI": {
+    "1s": "vaporizo",
+    "2s": "vaporizas",
+    "3s": "vaporiza",
+    "1p": "vaporizamos",
+    "2p": "vaporizais",
+    "3p": "vaporizam"
+  },
+  "PImpI": {
+    "1s": "vaporizava",
+    "2s": "vaporizavas",
+    "3s": "vaporizava",
+    "1p": "vaporizávamos",
+    "2p": "vaporizáveis",
+    "3p": "vaporizavam"
+  },
+  "PPSI": {
+    "1s": "vaporizei",
+    "2s": "vaporizaste",
+    "3s": "vaporizou",
+    "1p": "vaporizámos",
+    "2p": "vaporizastes",
+    "3p": "vaporizaram"
+  },
+  "PMQPSI": {
+    "1s": "vaporizara",
+    "2s": "vaporizaras",
+    "3s": "vaporizara",
+    "1p": "vaporizáramos",
+    "2p": "vaporizáreis",
+    "3p": "vaporizaram"
+  },
+  "FutSI": {
+    "1s": "vaporizarei",
+    "2s": "vaporizarás",
+    "3s": "vaporizará",
+    "1p": "vaporizaremos",
+    "2p": "vaporizareis",
+    "3p": "vaporizarão"
+  },
+  "CondS": {
+    "1s": "vaporizaria",
+    "2s": "vaporizarias",
+    "3s": "vaporizaria",
+    "1p": "vaporizaríamos",
+    "2p": "vaporizaríeis",
+    "3p": "vaporizariam"
+  },
+  "PresC": {
+    "1s": "vaporize",
+    "2s": "vaporizes",
+    "3s": "vaporize",
+    "1p": "vaporizemos",
+    "2p": "vaporizeis",
+    "3p": "vaporizem"
+  },
+  "PImpC": {
+    "1s": "vaporizasse",
+    "2s": "vaporizasses",
+    "3s": "vaporizasse",
+    "1p": "vaporizássemos",
+    "2p": "vaporizásseis",
+    "3p": "vaporizassem"
+  },
+  "FutSC": {
+    "1s": "vaporizar",
+    "2s": "vaporizares",
+    "3s": "vaporizar",
+    "1p": "vaporizarmos",
+    "2p": "vaporizardes",
+    "3p": "vaporizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vaporiza",
+    "3s": "vaporize",
+    "1p": "vaporizemos",
+    "2p": "vaporizai",
+    "3p": "vaporizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vaporizes",
+    "3s": "não vaporize",
+    "1p": "não vaporizemos",
+    "2p": "não vaporizeis",
+    "3p": "não vaporizem"
+  },
+  "Part-ter": {
+    "": "vaporizado"
+  },
+  "Part-ser": {
+    "ms": "vaporizado",
+    "fs": "vaporizada",
+    "mp": "vaporizados",
+    "fp": "vaporizadas"
+  }
+}

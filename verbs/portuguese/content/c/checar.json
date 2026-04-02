@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "checar"
+  },
+  "InfP": {
+    "1s": "checar",
+    "2s": "checares",
+    "3s": "checar",
+    "1p": "checarmos",
+    "2p": "checardes",
+    "3p": "checarem"
+  },
+  "Ger": {
+    "": "checando"
+  },
+  "PresI": {
+    "1s": "checo",
+    "2s": "checas",
+    "3s": "checa",
+    "1p": "checamos",
+    "2p": "checais",
+    "3p": "checam"
+  },
+  "PImpI": {
+    "1s": "checava",
+    "2s": "checavas",
+    "3s": "checava",
+    "1p": "checávamos",
+    "2p": "checáveis",
+    "3p": "checavam"
+  },
+  "PPSI": {
+    "1s": "chequei",
+    "2s": "checaste",
+    "3s": "checou",
+    "1p": "checámos",
+    "2p": "checastes",
+    "3p": "checaram"
+  },
+  "PMQPSI": {
+    "1s": "checara",
+    "2s": "checaras",
+    "3s": "checara",
+    "1p": "checáramos",
+    "2p": "checáreis",
+    "3p": "checaram"
+  },
+  "FutSI": {
+    "1s": "checarei",
+    "2s": "checarás",
+    "3s": "checará",
+    "1p": "checaremos",
+    "2p": "checareis",
+    "3p": "checarão"
+  },
+  "CondS": {
+    "1s": "checaria",
+    "2s": "checarias",
+    "3s": "checaria",
+    "1p": "checaríamos",
+    "2p": "checaríeis",
+    "3p": "checariam"
+  },
+  "PresC": {
+    "1s": "cheque",
+    "2s": "cheques",
+    "3s": "cheque",
+    "1p": "chequemos",
+    "2p": "chequeis",
+    "3p": "chequem"
+  },
+  "PImpC": {
+    "1s": "checasse",
+    "2s": "checasses",
+    "3s": "checasse",
+    "1p": "checássemos",
+    "2p": "checásseis",
+    "3p": "checassem"
+  },
+  "FutSC": {
+    "1s": "checar",
+    "2s": "checares",
+    "3s": "checar",
+    "1p": "checarmos",
+    "2p": "checardes",
+    "3p": "checarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "checa",
+    "3s": "cheque",
+    "1p": "chequemos",
+    "2p": "checai",
+    "3p": "chequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cheques",
+    "3s": "não cheque",
+    "1p": "não chequemos",
+    "2p": "não chequeis",
+    "3p": "não chequem"
+  },
+  "Part-ter": {
+    "": "checado"
+  },
+  "Part-ser": {
+    "ms": "checado",
+    "fs": "checada",
+    "mp": "checados",
+    "fp": "checadas"
+  }
+}

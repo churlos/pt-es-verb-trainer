@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "degustar"
+  },
+  "InfP": {
+    "1s": "degustar",
+    "2s": "degustares",
+    "3s": "degustar",
+    "1p": "degustarmos",
+    "2p": "degustardes",
+    "3p": "degustarem"
+  },
+  "Ger": {
+    "": "degustando"
+  },
+  "PresI": {
+    "1s": "degusto",
+    "2s": "degustas",
+    "3s": "degusta",
+    "1p": "degustamos",
+    "2p": "degustais",
+    "3p": "degustam"
+  },
+  "PImpI": {
+    "1s": "degustava",
+    "2s": "degustavas",
+    "3s": "degustava",
+    "1p": "degustávamos",
+    "2p": "degustáveis",
+    "3p": "degustavam"
+  },
+  "PPSI": {
+    "1s": "degustei",
+    "2s": "degustaste",
+    "3s": "degustou",
+    "1p": "degustámos",
+    "2p": "degustastes",
+    "3p": "degustaram"
+  },
+  "PMQPSI": {
+    "1s": "degustara",
+    "2s": "degustaras",
+    "3s": "degustara",
+    "1p": "degustáramos",
+    "2p": "degustáreis",
+    "3p": "degustaram"
+  },
+  "FutSI": {
+    "1s": "degustarei",
+    "2s": "degustarás",
+    "3s": "degustará",
+    "1p": "degustaremos",
+    "2p": "degustareis",
+    "3p": "degustarão"
+  },
+  "CondS": {
+    "1s": "degustaria",
+    "2s": "degustarias",
+    "3s": "degustaria",
+    "1p": "degustaríamos",
+    "2p": "degustaríeis",
+    "3p": "degustariam"
+  },
+  "PresC": {
+    "1s": "deguste",
+    "2s": "degustes",
+    "3s": "deguste",
+    "1p": "degustemos",
+    "2p": "degusteis",
+    "3p": "degustem"
+  },
+  "PImpC": {
+    "1s": "degustasse",
+    "2s": "degustasses",
+    "3s": "degustasse",
+    "1p": "degustássemos",
+    "2p": "degustásseis",
+    "3p": "degustassem"
+  },
+  "FutSC": {
+    "1s": "degustar",
+    "2s": "degustares",
+    "3s": "degustar",
+    "1p": "degustarmos",
+    "2p": "degustardes",
+    "3p": "degustarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "degusta",
+    "3s": "deguste",
+    "1p": "degustemos",
+    "2p": "degustai",
+    "3p": "degustem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não degustes",
+    "3s": "não deguste",
+    "1p": "não degustemos",
+    "2p": "não degusteis",
+    "3p": "não degustem"
+  },
+  "Part-ter": {
+    "": "degustado"
+  },
+  "Part-ser": {
+    "ms": "degustado",
+    "fs": "degustada",
+    "mp": "degustados",
+    "fp": "degustadas"
+  }
+}

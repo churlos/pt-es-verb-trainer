@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "dosificar"
+  },
+  "Ger": {
+    "": "dosificando"
+  },
+  "PresI": {
+    "1s": "dosifico",
+    "2s": "dosificas",
+    "3s": "dosifica",
+    "1p": "dosificamos",
+    "2p": "dosificáis",
+    "3p": "dosifican"
+  },
+  "PImpI": {
+    "1s": "dosificaba",
+    "2s": "dosificabas",
+    "3s": "dosificaba",
+    "1p": "dosificábamos",
+    "2p": "dosificabais",
+    "3p": "dosificaban"
+  },
+  "PPSI": {
+    "1s": "dosifiqué",
+    "2s": "dosificaste",
+    "3s": "dosificó",
+    "1p": "dosificamos",
+    "2p": "dosificasteis",
+    "3p": "dosificaron"
+  },
+  "FutSI": {
+    "1s": "dosificaré",
+    "2s": "dosificarás",
+    "3s": "dosificará",
+    "1p": "dosificaremos",
+    "2p": "dosificaréis",
+    "3p": "dosificarán"
+  },
+  "CondS": {
+    "1s": "dosificaría",
+    "2s": "dosificarías",
+    "3s": "dosificaría",
+    "1p": "dosificaríamos",
+    "2p": "dosificaríais",
+    "3p": "dosificarían"
+  },
+  "PresC": {
+    "1s": "dosifique",
+    "2s": "dosifiques",
+    "3s": "dosifique",
+    "1p": "dosifiquemos",
+    "2p": "dosifiquéis",
+    "3p": "dosifiquen"
+  },
+  "PMQPSI": {
+    "1s": "dosificara",
+    "2s": "dosificaras",
+    "3s": "dosificara",
+    "1p": "dosificáramos",
+    "2p": "dosificarais",
+    "3p": "dosificaran"
+  },
+  "PImpC": {
+    "1s": "dosificase",
+    "2s": "dosificases",
+    "3s": "dosificase",
+    "1p": "dosificásemos",
+    "2p": "dosificaseis",
+    "3p": "dosificasen"
+  },
+  "FutSC": {
+    "1s": "dosificare",
+    "2s": "dosificares",
+    "3s": "dosificare",
+    "1p": "dosificáremos",
+    "2p": "dosificareis",
+    "3p": "dosificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dosifica",
+    "3s": "dosifique",
+    "1p": "dosifiquemos",
+    "2p": "dosificad",
+    "3p": "dosifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dosifiques",
+    "3s": "no dosifique",
+    "1p": "no dosifiquemos",
+    "2p": "no dosifiquéis",
+    "3p": "no dosifiquen"
+  },
+  "Part-ter": {
+    "": "dosificado"
+  },
+  "Part-ser": {
+    "ms": "dosificado",
+    "fs": "dosificada",
+    "mp": "dosificados",
+    "fp": "dosificadas"
+  }
+}

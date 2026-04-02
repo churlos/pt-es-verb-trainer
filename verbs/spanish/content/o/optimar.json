@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "optimar"
+  },
+  "Ger": {
+    "": "optimando"
+  },
+  "PresI": {
+    "1s": "optimo",
+    "2s": "optimas",
+    "3s": "optima",
+    "1p": "optimamos",
+    "2p": "optimáis",
+    "3p": "optiman"
+  },
+  "PImpI": {
+    "1s": "optimaba",
+    "2s": "optimabas",
+    "3s": "optimaba",
+    "1p": "optimábamos",
+    "2p": "optimabais",
+    "3p": "optimaban"
+  },
+  "PPSI": {
+    "1s": "optimé",
+    "2s": "optimaste",
+    "3s": "optimó",
+    "1p": "optimamos",
+    "2p": "optimasteis",
+    "3p": "optimaron"
+  },
+  "FutSI": {
+    "1s": "optimaré",
+    "2s": "optimarás",
+    "3s": "optimará",
+    "1p": "optimaremos",
+    "2p": "optimaréis",
+    "3p": "optimarán"
+  },
+  "CondS": {
+    "1s": "optimaría",
+    "2s": "optimarías",
+    "3s": "optimaría",
+    "1p": "optimaríamos",
+    "2p": "optimaríais",
+    "3p": "optimarían"
+  },
+  "PresC": {
+    "1s": "optime",
+    "2s": "optimes",
+    "3s": "optime",
+    "1p": "optimemos",
+    "2p": "optiméis",
+    "3p": "optimen"
+  },
+  "PMQPSI": {
+    "1s": "optimara",
+    "2s": "optimaras",
+    "3s": "optimara",
+    "1p": "optimáramos",
+    "2p": "optimarais",
+    "3p": "optimaran"
+  },
+  "PImpC": {
+    "1s": "optimase",
+    "2s": "optimases",
+    "3s": "optimase",
+    "1p": "optimásemos",
+    "2p": "optimaseis",
+    "3p": "optimasen"
+  },
+  "FutSC": {
+    "1s": "optimare",
+    "2s": "optimares",
+    "3s": "optimare",
+    "1p": "optimáremos",
+    "2p": "optimareis",
+    "3p": "optimaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "optima",
+    "3s": "optime",
+    "1p": "optimemos",
+    "2p": "optimad",
+    "3p": "optimen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no optimes",
+    "3s": "no optime",
+    "1p": "no optimemos",
+    "2p": "no optiméis",
+    "3p": "no optimen"
+  },
+  "Part-ter": {
+    "": "optimado"
+  },
+  "Part-ser": {
+    "ms": "optimado",
+    "fs": "optimada",
+    "mp": "optimados",
+    "fp": "optimadas"
+  }
+}

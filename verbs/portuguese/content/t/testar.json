@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "testar"
+  },
+  "InfP": {
+    "1s": "testar",
+    "2s": "testares",
+    "3s": "testar",
+    "1p": "testarmos",
+    "2p": "testardes",
+    "3p": "testarem"
+  },
+  "Ger": {
+    "": "testando"
+  },
+  "PresI": {
+    "1s": "testo",
+    "2s": "testas",
+    "3s": "testa",
+    "1p": "testamos",
+    "2p": "testais",
+    "3p": "testam"
+  },
+  "PImpI": {
+    "1s": "testava",
+    "2s": "testavas",
+    "3s": "testava",
+    "1p": "testávamos",
+    "2p": "testáveis",
+    "3p": "testavam"
+  },
+  "PPSI": {
+    "1s": "testei",
+    "2s": "testaste",
+    "3s": "testou",
+    "1p": "testámos",
+    "2p": "testastes",
+    "3p": "testaram"
+  },
+  "PMQPSI": {
+    "1s": "testara",
+    "2s": "testaras",
+    "3s": "testara",
+    "1p": "testáramos",
+    "2p": "testáreis",
+    "3p": "testaram"
+  },
+  "FutSI": {
+    "1s": "testarei",
+    "2s": "testarás",
+    "3s": "testará",
+    "1p": "testaremos",
+    "2p": "testareis",
+    "3p": "testarão"
+  },
+  "CondS": {
+    "1s": "testaria",
+    "2s": "testarias",
+    "3s": "testaria",
+    "1p": "testaríamos",
+    "2p": "testaríeis",
+    "3p": "testariam"
+  },
+  "PresC": {
+    "1s": "teste",
+    "2s": "testes",
+    "3s": "teste",
+    "1p": "testemos",
+    "2p": "testeis",
+    "3p": "testem"
+  },
+  "PImpC": {
+    "1s": "testasse",
+    "2s": "testasses",
+    "3s": "testasse",
+    "1p": "testássemos",
+    "2p": "testásseis",
+    "3p": "testassem"
+  },
+  "FutSC": {
+    "1s": "testar",
+    "2s": "testares",
+    "3s": "testar",
+    "1p": "testarmos",
+    "2p": "testardes",
+    "3p": "testarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "testa",
+    "3s": "teste",
+    "1p": "testemos",
+    "2p": "testai",
+    "3p": "testem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não testes",
+    "3s": "não teste",
+    "1p": "não testemos",
+    "2p": "não testeis",
+    "3p": "não testem"
+  },
+  "Part-ter": {
+    "": "testado"
+  },
+  "Part-ser": {
+    "ms": "testado",
+    "fs": "testada",
+    "mp": "testados",
+    "fp": "testadas"
+  }
+}

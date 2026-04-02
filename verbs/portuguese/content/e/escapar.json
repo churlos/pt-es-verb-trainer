@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escapar"
+  },
+  "InfP": {
+    "1s": "escapar",
+    "2s": "escapares",
+    "3s": "escapar",
+    "1p": "escaparmos",
+    "2p": "escapardes",
+    "3p": "escaparem"
+  },
+  "Ger": {
+    "": "escapando"
+  },
+  "PresI": {
+    "1s": "escapo",
+    "2s": "escapas",
+    "3s": "escapa",
+    "1p": "escapamos",
+    "2p": "escapais",
+    "3p": "escapam"
+  },
+  "PImpI": {
+    "1s": "escapava",
+    "2s": "escapavas",
+    "3s": "escapava",
+    "1p": "escapávamos",
+    "2p": "escapáveis",
+    "3p": "escapavam"
+  },
+  "PPSI": {
+    "1s": "escapei",
+    "2s": "escapaste",
+    "3s": "escapou",
+    "1p": "escapámos",
+    "2p": "escapastes",
+    "3p": "escaparam"
+  },
+  "PMQPSI": {
+    "1s": "escapara",
+    "2s": "escaparas",
+    "3s": "escapara",
+    "1p": "escapáramos",
+    "2p": "escapáreis",
+    "3p": "escaparam"
+  },
+  "FutSI": {
+    "1s": "escaparei",
+    "2s": "escaparás",
+    "3s": "escapará",
+    "1p": "escaparemos",
+    "2p": "escapareis",
+    "3p": "escaparão"
+  },
+  "CondS": {
+    "1s": "escaparia",
+    "2s": "escaparias",
+    "3s": "escaparia",
+    "1p": "escaparíamos",
+    "2p": "escaparíeis",
+    "3p": "escapariam"
+  },
+  "PresC": {
+    "1s": "escape",
+    "2s": "escapes",
+    "3s": "escape",
+    "1p": "escapemos",
+    "2p": "escapeis",
+    "3p": "escapem"
+  },
+  "PImpC": {
+    "1s": "escapasse",
+    "2s": "escapasses",
+    "3s": "escapasse",
+    "1p": "escapássemos",
+    "2p": "escapásseis",
+    "3p": "escapassem"
+  },
+  "FutSC": {
+    "1s": "escapar",
+    "2s": "escapares",
+    "3s": "escapar",
+    "1p": "escaparmos",
+    "2p": "escapardes",
+    "3p": "escaparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escapa",
+    "3s": "escape",
+    "1p": "escapemos",
+    "2p": "escapai",
+    "3p": "escapem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escapes",
+    "3s": "não escape",
+    "1p": "não escapemos",
+    "2p": "não escapeis",
+    "3p": "não escapem"
+  },
+  "Part-ter": {
+    "": "escapado"
+  },
+  "Part-ser": {
+    "ms": "escapado",
+    "fs": "escapada",
+    "mp": "escapados",
+    "fp": "escapadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "colgar"
+  },
+  "Ger": {
+    "": "colgando"
+  },
+  "PresI": {
+    "1s": "cuelgo",
+    "2s": "cuelgas",
+    "3s": "cuelga",
+    "1p": "colgamos",
+    "2p": "colgáis",
+    "3p": "cuelgan"
+  },
+  "PImpI": {
+    "1s": "colgaba",
+    "2s": "colgabas",
+    "3s": "colgaba",
+    "1p": "colgábamos",
+    "2p": "colgabais",
+    "3p": "colgaban"
+  },
+  "PPSI": {
+    "1s": "colgué",
+    "2s": "colgaste",
+    "3s": "colgó",
+    "1p": "colgamos",
+    "2p": "colgasteis",
+    "3p": "colgaron"
+  },
+  "FutSI": {
+    "1s": "colgaré",
+    "2s": "colgarás",
+    "3s": "colgará",
+    "1p": "colgaremos",
+    "2p": "colgaréis",
+    "3p": "colgarán"
+  },
+  "CondS": {
+    "1s": "colgaría",
+    "2s": "colgarías",
+    "3s": "colgaría",
+    "1p": "colgaríamos",
+    "2p": "colgaríais",
+    "3p": "colgarían"
+  },
+  "PresC": {
+    "1s": "cuelgue",
+    "2s": "cuelgues",
+    "3s": "cuelgue",
+    "1p": "colguemos",
+    "2p": "colguéis",
+    "3p": "cuelguen"
+  },
+  "PMQPSI": {
+    "1s": "colgara",
+    "2s": "colgaras",
+    "3s": "colgara",
+    "1p": "colgáramos",
+    "2p": "colgarais",
+    "3p": "colgaran"
+  },
+  "PImpC": {
+    "1s": "colgase",
+    "2s": "colgases",
+    "3s": "colgase",
+    "1p": "colgásemos",
+    "2p": "colgaseis",
+    "3p": "colgasen"
+  },
+  "FutSC": {
+    "1s": "colgare",
+    "2s": "colgares",
+    "3s": "colgare",
+    "1p": "colgáremos",
+    "2p": "colgareis",
+    "3p": "colgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cuelga",
+    "3s": "cuelgue",
+    "1p": "colguemos",
+    "2p": "colgad",
+    "3p": "cuelguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cuelgues",
+    "3s": "no cuelgue",
+    "1p": "no colguemos",
+    "2p": "no colguéis",
+    "3p": "no cuelguen"
+  },
+  "Part-ter": {
+    "": "colgado"
+  },
+  "Part-ser": {
+    "ms": "colgado",
+    "fs": "colgada",
+    "mp": "colgados",
+    "fp": "colgadas"
+  }
+}

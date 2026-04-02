@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "calcinar"
+  },
+  "InfP": {
+    "1s": "calcinar",
+    "2s": "calcinares",
+    "3s": "calcinar",
+    "1p": "calcinarmos",
+    "2p": "calcinardes",
+    "3p": "calcinarem"
+  },
+  "Ger": {
+    "": "calcinando"
+  },
+  "PresI": {
+    "1s": "calcino",
+    "2s": "calcinas",
+    "3s": "calcina",
+    "1p": "calcinamos",
+    "2p": "calcinais",
+    "3p": "calcinam"
+  },
+  "PImpI": {
+    "1s": "calcinava",
+    "2s": "calcinavas",
+    "3s": "calcinava",
+    "1p": "calcinávamos",
+    "2p": "calcináveis",
+    "3p": "calcinavam"
+  },
+  "PPSI": {
+    "1s": "calcinei",
+    "2s": "calcinaste",
+    "3s": "calcinou",
+    "1p": "calcinámos",
+    "2p": "calcinastes",
+    "3p": "calcinaram"
+  },
+  "PMQPSI": {
+    "1s": "calcinara",
+    "2s": "calcinaras",
+    "3s": "calcinara",
+    "1p": "calcináramos",
+    "2p": "calcináreis",
+    "3p": "calcinaram"
+  },
+  "FutSI": {
+    "1s": "calcinarei",
+    "2s": "calcinarás",
+    "3s": "calcinará",
+    "1p": "calcinaremos",
+    "2p": "calcinareis",
+    "3p": "calcinarão"
+  },
+  "CondS": {
+    "1s": "calcinaria",
+    "2s": "calcinarias",
+    "3s": "calcinaria",
+    "1p": "calcinaríamos",
+    "2p": "calcinaríeis",
+    "3p": "calcinariam"
+  },
+  "PresC": {
+    "1s": "calcine",
+    "2s": "calcines",
+    "3s": "calcine",
+    "1p": "calcinemos",
+    "2p": "calcineis",
+    "3p": "calcinem"
+  },
+  "PImpC": {
+    "1s": "calcinasse",
+    "2s": "calcinasses",
+    "3s": "calcinasse",
+    "1p": "calcinássemos",
+    "2p": "calcinásseis",
+    "3p": "calcinassem"
+  },
+  "FutSC": {
+    "1s": "calcinar",
+    "2s": "calcinares",
+    "3s": "calcinar",
+    "1p": "calcinarmos",
+    "2p": "calcinardes",
+    "3p": "calcinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calcina",
+    "3s": "calcine",
+    "1p": "calcinemos",
+    "2p": "calcinai",
+    "3p": "calcinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não calcines",
+    "3s": "não calcine",
+    "1p": "não calcinemos",
+    "2p": "não calcineis",
+    "3p": "não calcinem"
+  },
+  "Part-ter": {
+    "": "calcinado"
+  },
+  "Part-ser": {
+    "ms": "calcinado",
+    "fs": "calcinada",
+    "mp": "calcinados",
+    "fp": "calcinadas"
+  }
+}

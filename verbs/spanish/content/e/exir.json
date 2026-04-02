@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "exir"
+  },
+  "Ger": {
+    "": "exiendo"
+  },
+  "PresI": {
+    "1s": "exo",
+    "2s": "exes",
+    "3s": "exe",
+    "1p": "eximos",
+    "2p": "exís",
+    "3p": "exen"
+  },
+  "PImpI": {
+    "1s": "exía",
+    "2s": "exías",
+    "3s": "exía",
+    "1p": "exíamos",
+    "2p": "exíais",
+    "3p": "exían"
+  },
+  "PPSI": {
+    "1s": "exí",
+    "2s": "existe",
+    "3s": "exió",
+    "1p": "eximos",
+    "2p": "existeis",
+    "3p": "exieron"
+  },
+  "FutSI": {
+    "1s": "exiré",
+    "2s": "exirás",
+    "3s": "exirá",
+    "1p": "exiremos",
+    "2p": "exiréis",
+    "3p": "exirán"
+  },
+  "CondS": {
+    "1s": "exiría",
+    "2s": "exirías",
+    "3s": "exiría",
+    "1p": "exiríamos",
+    "2p": "exiríais",
+    "3p": "exirían"
+  },
+  "PresC": {
+    "1s": "exa",
+    "2s": "exas",
+    "3s": "exa",
+    "1p": "examos",
+    "2p": "exáis",
+    "3p": "exan"
+  },
+  "PMQPSI": {
+    "1s": "exiera",
+    "2s": "exieras",
+    "3s": "exiera",
+    "1p": "exiéramos",
+    "2p": "exierais",
+    "3p": "exieran"
+  },
+  "PImpC": {
+    "1s": "exiese",
+    "2s": "exieses",
+    "3s": "exiese",
+    "1p": "exiésemos",
+    "2p": "exieseis",
+    "3p": "exiesen"
+  },
+  "FutSC": {
+    "1s": "exiere",
+    "2s": "exieres",
+    "3s": "exiere",
+    "1p": "exiéremos",
+    "2p": "exiereis",
+    "3p": "exieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exe",
+    "3s": "exa",
+    "1p": "examos",
+    "2p": "exid",
+    "3p": "exan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no exas",
+    "3s": "no exa",
+    "1p": "no examos",
+    "2p": "no exáis",
+    "3p": "no exan"
+  },
+  "Part-ter": {
+    "": "exido"
+  },
+  "Part-ser": {
+    "ms": "exido",
+    "fs": "exida",
+    "mp": "exidos",
+    "fp": "exidas"
+  }
+}

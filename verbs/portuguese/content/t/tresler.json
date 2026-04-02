@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tresler"
+  },
+  "InfP": {
+    "1s": "tresler",
+    "2s": "tresleres",
+    "3s": "tresler",
+    "1p": "treslermos",
+    "2p": "treslerdes",
+    "3p": "treslerem"
+  },
+  "Ger": {
+    "": "treslendo"
+  },
+  "PresI": {
+    "1s": "tresleio",
+    "2s": "treslês",
+    "3s": "treslê",
+    "1p": "treslemos",
+    "2p": "tresledes",
+    "3p": "tresleemObsolete:treslêem"
+  },
+  "PImpI": {
+    "1s": "treslia",
+    "2s": "treslias",
+    "3s": "treslia",
+    "1p": "treslíamos",
+    "2p": "treslíeis",
+    "3p": "tresliam"
+  },
+  "PPSI": {
+    "1s": "tresli",
+    "2s": "tresleste",
+    "3s": "tresleu",
+    "1p": "treslemos",
+    "2p": "treslestes",
+    "3p": "tresleram"
+  },
+  "PMQPSI": {
+    "1s": "treslera",
+    "2s": "tresleras",
+    "3s": "treslera",
+    "1p": "treslêramos",
+    "2p": "treslêreis",
+    "3p": "tresleram"
+  },
+  "FutSI": {
+    "1s": "treslerei",
+    "2s": "treslerás",
+    "3s": "treslerá",
+    "1p": "tresleremos",
+    "2p": "treslereis",
+    "3p": "treslerão"
+  },
+  "CondS": {
+    "1s": "tresleria",
+    "2s": "treslerias",
+    "3s": "tresleria",
+    "1p": "tresleríamos",
+    "2p": "tresleríeis",
+    "3p": "tresleriam"
+  },
+  "PresC": {
+    "1s": "tresleia",
+    "2s": "tresleias",
+    "3s": "tresleia",
+    "1p": "tresleiamos",
+    "2p": "tresleiais",
+    "3p": "tresleiam"
+  },
+  "PImpC": {
+    "1s": "treslesse",
+    "2s": "treslesses",
+    "3s": "treslesse",
+    "1p": "treslêssemos",
+    "2p": "treslêsseis",
+    "3p": "treslessem"
+  },
+  "FutSC": {
+    "1s": "tresler",
+    "2s": "tresleres",
+    "3s": "tresler",
+    "1p": "treslermos",
+    "2p": "treslerdes",
+    "3p": "treslerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "treslê",
+    "3s": "tresleia",
+    "1p": "tresleiamos",
+    "2p": "treslede",
+    "3p": "tresleiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tresleias",
+    "3s": "não tresleia",
+    "1p": "não tresleiamos",
+    "2p": "não tresleiais",
+    "3p": "não tresleiam"
+  },
+  "Part-ter": {
+    "": "treslido"
+  },
+  "Part-ser": {
+    "ms": "treslido",
+    "fs": "treslida",
+    "mp": "treslidos",
+    "fp": "treslidas"
+  }
+}

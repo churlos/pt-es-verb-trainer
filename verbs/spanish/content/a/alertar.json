@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alertar"
+  },
+  "Ger": {
+    "": "alertando"
+  },
+  "PresI": {
+    "1s": "alerto",
+    "2s": "alertas",
+    "3s": "alerta",
+    "1p": "alertamos",
+    "2p": "alertáis",
+    "3p": "alertan"
+  },
+  "PImpI": {
+    "1s": "alertaba",
+    "2s": "alertabas",
+    "3s": "alertaba",
+    "1p": "alertábamos",
+    "2p": "alertabais",
+    "3p": "alertaban"
+  },
+  "PPSI": {
+    "1s": "alerté",
+    "2s": "alertaste",
+    "3s": "alertó",
+    "1p": "alertamos",
+    "2p": "alertasteis",
+    "3p": "alertaron"
+  },
+  "FutSI": {
+    "1s": "alertaré",
+    "2s": "alertarás",
+    "3s": "alertará",
+    "1p": "alertaremos",
+    "2p": "alertaréis",
+    "3p": "alertarán"
+  },
+  "CondS": {
+    "1s": "alertaría",
+    "2s": "alertarías",
+    "3s": "alertaría",
+    "1p": "alertaríamos",
+    "2p": "alertaríais",
+    "3p": "alertarían"
+  },
+  "PresC": {
+    "1s": "alerte",
+    "2s": "alertes",
+    "3s": "alerte",
+    "1p": "alertemos",
+    "2p": "alertéis",
+    "3p": "alerten"
+  },
+  "PMQPSI": {
+    "1s": "alertara",
+    "2s": "alertaras",
+    "3s": "alertara",
+    "1p": "alertáramos",
+    "2p": "alertarais",
+    "3p": "alertaran"
+  },
+  "PImpC": {
+    "1s": "alertase",
+    "2s": "alertases",
+    "3s": "alertase",
+    "1p": "alertásemos",
+    "2p": "alertaseis",
+    "3p": "alertasen"
+  },
+  "FutSC": {
+    "1s": "alertare",
+    "2s": "alertares",
+    "3s": "alertare",
+    "1p": "alertáremos",
+    "2p": "alertareis",
+    "3p": "alertaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alerta",
+    "3s": "alerte",
+    "1p": "alertemos",
+    "2p": "alertad",
+    "3p": "alerten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alertes",
+    "3s": "no alerte",
+    "1p": "no alertemos",
+    "2p": "no alertéis",
+    "3p": "no alerten"
+  },
+  "Part-ter": {
+    "": "alertado"
+  },
+  "Part-ser": {
+    "ms": "alertado",
+    "fs": "alertada",
+    "mp": "alertados",
+    "fp": "alertadas"
+  }
+}

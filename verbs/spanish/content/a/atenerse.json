@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atenerse"
+  },
+  "Ger": {
+    "": "ateniéndose"
+  },
+  "PresI": {
+    "1s": "me atengo",
+    "2s": "te atienes",
+    "3s": "se atiene",
+    "1p": "nos atenemos",
+    "2p": "os atenéis",
+    "3p": "se atienen"
+  },
+  "PImpI": {
+    "1s": "me atenía",
+    "2s": "te atenías",
+    "3s": "se atenía",
+    "1p": "nos ateníamos",
+    "2p": "os ateníais",
+    "3p": "se atenían"
+  },
+  "PPSI": {
+    "1s": "me atuve",
+    "2s": "te atuviste",
+    "3s": "se atuvo",
+    "1p": "nos atuvimos",
+    "2p": "os atuvisteis",
+    "3p": "se atuvieron"
+  },
+  "FutSI": {
+    "1s": "me atendré",
+    "2s": "te atendrás",
+    "3s": "se atendrá",
+    "1p": "nos atendremos",
+    "2p": "os atendréis",
+    "3p": "se atendrán"
+  },
+  "CondS": {
+    "1s": "me atendría",
+    "2s": "te atendrías",
+    "3s": "se atendría",
+    "1p": "nos atendríamos",
+    "2p": "os atendríais",
+    "3p": "se atendrían"
+  },
+  "PresC": {
+    "1s": "me atenga",
+    "2s": "te atengas",
+    "3s": "se atenga",
+    "1p": "nos atengamos",
+    "2p": "os atengáis",
+    "3p": "se atengan"
+  },
+  "PMQPSI": {
+    "1s": "me atuviera",
+    "2s": "te atuvieras",
+    "3s": "se atuviera",
+    "1p": "nos atuviéramos",
+    "2p": "os atuvierais",
+    "3p": "se atuvieran"
+  },
+  "PImpC": {
+    "1s": "me atuviese",
+    "2s": "te atuvieses",
+    "3s": "se atuviese",
+    "1p": "nos atuviésemos",
+    "2p": "os atuvieseis",
+    "3p": "se atuviesen"
+  },
+  "FutSC": {
+    "1s": "me atuviere",
+    "2s": "te atuvieres",
+    "3s": "se atuviere",
+    "1p": "nos atuviéremos",
+    "2p": "os atuviereis",
+    "3p": "se atuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atente",
+    "3s": "aténgase",
+    "1p": "atengámonos",
+    "2p": "ateneos",
+    "3p": "aténganse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te atengas",
+    "3s": "no se atenga",
+    "1p": "no nos atengamos",
+    "2p": "no os atengáis",
+    "3p": "no se atengan"
+  },
+  "Part-ter": {
+    "": "atenido"
+  },
+  "Part-ser": {
+    "ms": "atenido",
+    "fs": "atenida",
+    "mp": "atenidos",
+    "fp": "atenidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "volver"
+  },
+  "Ger": {
+    "": "volviendo"
+  },
+  "PresI": {
+    "1s": "vuelvo",
+    "2s": "vuelves",
+    "3s": "vuelve",
+    "1p": "volvemos",
+    "2p": "volvéis",
+    "3p": "vuelven"
+  },
+  "PImpI": {
+    "1s": "volvía",
+    "2s": "volvías",
+    "3s": "volvía",
+    "1p": "volvíamos",
+    "2p": "volvíais",
+    "3p": "volvían"
+  },
+  "PPSI": {
+    "1s": "volví",
+    "2s": "volviste",
+    "3s": "volvió",
+    "1p": "volvimos",
+    "2p": "volvisteis",
+    "3p": "volvieron"
+  },
+  "FutSI": {
+    "1s": "volveré",
+    "2s": "volverás",
+    "3s": "volverá",
+    "1p": "volveremos",
+    "2p": "volveréis",
+    "3p": "volverán"
+  },
+  "CondS": {
+    "1s": "volvería",
+    "2s": "volverías",
+    "3s": "volvería",
+    "1p": "volveríamos",
+    "2p": "volveríais",
+    "3p": "volverían"
+  },
+  "PresC": {
+    "1s": "vuelva",
+    "2s": "vuelvas",
+    "3s": "vuelva",
+    "1p": "volvamos",
+    "2p": "volváis",
+    "3p": "vuelvan"
+  },
+  "PMQPSI": {
+    "1s": "volviera",
+    "2s": "volvieras",
+    "3s": "volviera",
+    "1p": "volviéramos",
+    "2p": "volvierais",
+    "3p": "volvieran"
+  },
+  "PImpC": {
+    "1s": "volviese",
+    "2s": "volvieses",
+    "3s": "volviese",
+    "1p": "volviésemos",
+    "2p": "volvieseis",
+    "3p": "volviesen"
+  },
+  "FutSC": {
+    "1s": "volviere",
+    "2s": "volvieres",
+    "3s": "volviere",
+    "1p": "volviéremos",
+    "2p": "volviereis",
+    "3p": "volvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vuelve",
+    "3s": "vuelva",
+    "1p": "volvamos",
+    "2p": "volved",
+    "3p": "vuelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vuelvas",
+    "3s": "no vuelva",
+    "1p": "no volvamos",
+    "2p": "no volváis",
+    "3p": "no vuelvan"
+  },
+  "Part-ter": {
+    "": "vuelto"
+  },
+  "Part-ser": {
+    "ms": "vuelto",
+    "fs": "vuelta",
+    "mp": "vueltos",
+    "fp": "vueltas"
+  }
+}

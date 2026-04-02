@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alegar"
+  },
+  "InfP": {
+    "1s": "alegar",
+    "2s": "alegares",
+    "3s": "alegar",
+    "1p": "alegarmos",
+    "2p": "alegardes",
+    "3p": "alegarem"
+  },
+  "Ger": {
+    "": "alegando"
+  },
+  "PresI": {
+    "1s": "alego",
+    "2s": "alegas",
+    "3s": "alega",
+    "1p": "alegamos",
+    "2p": "alegais",
+    "3p": "alegam"
+  },
+  "PImpI": {
+    "1s": "alegava",
+    "2s": "alegavas",
+    "3s": "alegava",
+    "1p": "alegávamos",
+    "2p": "alegáveis",
+    "3p": "alegavam"
+  },
+  "PPSI": {
+    "1s": "aleguei",
+    "2s": "alegaste",
+    "3s": "alegou",
+    "1p": "alegámos",
+    "2p": "alegastes",
+    "3p": "alegaram"
+  },
+  "PMQPSI": {
+    "1s": "alegara",
+    "2s": "alegaras",
+    "3s": "alegara",
+    "1p": "alegáramos",
+    "2p": "alegáreis",
+    "3p": "alegaram"
+  },
+  "FutSI": {
+    "1s": "alegarei",
+    "2s": "alegarás",
+    "3s": "alegará",
+    "1p": "alegaremos",
+    "2p": "alegareis",
+    "3p": "alegarão"
+  },
+  "CondS": {
+    "1s": "alegaria",
+    "2s": "alegarias",
+    "3s": "alegaria",
+    "1p": "alegaríamos",
+    "2p": "alegaríeis",
+    "3p": "alegariam"
+  },
+  "PresC": {
+    "1s": "alegue",
+    "2s": "alegues",
+    "3s": "alegue",
+    "1p": "aleguemos",
+    "2p": "alegueis",
+    "3p": "aleguem"
+  },
+  "PImpC": {
+    "1s": "alegasse",
+    "2s": "alegasses",
+    "3s": "alegasse",
+    "1p": "alegássemos",
+    "2p": "alegásseis",
+    "3p": "alegassem"
+  },
+  "FutSC": {
+    "1s": "alegar",
+    "2s": "alegares",
+    "3s": "alegar",
+    "1p": "alegarmos",
+    "2p": "alegardes",
+    "3p": "alegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alega",
+    "3s": "alegue",
+    "1p": "aleguemos",
+    "2p": "alegai",
+    "3p": "aleguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alegues",
+    "3s": "não alegue",
+    "1p": "não aleguemos",
+    "2p": "não alegueis",
+    "3p": "não aleguem"
+  },
+  "Part-ter": {
+    "": "alegado"
+  },
+  "Part-ser": {
+    "ms": "alegado",
+    "fs": "alegada",
+    "mp": "alegados",
+    "fp": "alegadas"
+  }
+}

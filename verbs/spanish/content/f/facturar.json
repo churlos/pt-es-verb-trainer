@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "facturar"
+  },
+  "Ger": {
+    "": "facturando"
+  },
+  "PresI": {
+    "1s": "facturo",
+    "2s": "facturas",
+    "3s": "factura",
+    "1p": "facturamos",
+    "2p": "facturáis",
+    "3p": "facturan"
+  },
+  "PImpI": {
+    "1s": "facturaba",
+    "2s": "facturabas",
+    "3s": "facturaba",
+    "1p": "facturábamos",
+    "2p": "facturabais",
+    "3p": "facturaban"
+  },
+  "PPSI": {
+    "1s": "facturé",
+    "2s": "facturaste",
+    "3s": "facturó",
+    "1p": "facturamos",
+    "2p": "facturasteis",
+    "3p": "facturaron"
+  },
+  "FutSI": {
+    "1s": "facturaré",
+    "2s": "facturarás",
+    "3s": "facturará",
+    "1p": "facturaremos",
+    "2p": "facturaréis",
+    "3p": "facturarán"
+  },
+  "CondS": {
+    "1s": "facturaría",
+    "2s": "facturarías",
+    "3s": "facturaría",
+    "1p": "facturaríamos",
+    "2p": "facturaríais",
+    "3p": "facturarían"
+  },
+  "PresC": {
+    "1s": "facture",
+    "2s": "factures",
+    "3s": "facture",
+    "1p": "facturemos",
+    "2p": "facturéis",
+    "3p": "facturen"
+  },
+  "PMQPSI": {
+    "1s": "facturara",
+    "2s": "facturaras",
+    "3s": "facturara",
+    "1p": "facturáramos",
+    "2p": "facturarais",
+    "3p": "facturaran"
+  },
+  "PImpC": {
+    "1s": "facturase",
+    "2s": "facturases",
+    "3s": "facturase",
+    "1p": "facturásemos",
+    "2p": "facturaseis",
+    "3p": "facturasen"
+  },
+  "FutSC": {
+    "1s": "facturare",
+    "2s": "facturares",
+    "3s": "facturare",
+    "1p": "facturáremos",
+    "2p": "facturareis",
+    "3p": "facturaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "factura",
+    "3s": "facture",
+    "1p": "facturemos",
+    "2p": "facturad",
+    "3p": "facturen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no factures",
+    "3s": "no facture",
+    "1p": "no facturemos",
+    "2p": "no facturéis",
+    "3p": "no facturen"
+  },
+  "Part-ter": {
+    "": "facturado"
+  },
+  "Part-ser": {
+    "ms": "facturado",
+    "fs": "facturada",
+    "mp": "facturados",
+    "fp": "facturadas"
+  }
+}

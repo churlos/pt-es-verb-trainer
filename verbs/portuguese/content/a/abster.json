@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abster"
+  },
+  "InfP": {
+    "1s": "abster",
+    "2s": "absteres",
+    "3s": "abster",
+    "1p": "abstermos",
+    "2p": "absterdes",
+    "3p": "absterem"
+  },
+  "Ger": {
+    "": "abstendo"
+  },
+  "PresI": {
+    "1s": "abstenho",
+    "2s": "absténs",
+    "3s": "abstém",
+    "1p": "abstemos",
+    "2p": "abstendes",
+    "3p": "abstêm"
+  },
+  "PImpI": {
+    "1s": "abstinha",
+    "2s": "abstinhas",
+    "3s": "abstinha",
+    "1p": "abstínhamos",
+    "2p": "abstínheis",
+    "3p": "abstinham"
+  },
+  "PPSI": {
+    "1s": "abstive",
+    "2s": "abstiveste",
+    "3s": "absteve",
+    "1p": "abstivemos",
+    "2p": "abstivestes",
+    "3p": "abstiveram"
+  },
+  "PMQPSI": {
+    "1s": "abstivera",
+    "2s": "abstiveras",
+    "3s": "abstivera",
+    "1p": "abstivéramos",
+    "2p": "abstivéreis",
+    "3p": "abstiveram"
+  },
+  "FutSI": {
+    "1s": "absterei",
+    "2s": "absterás",
+    "3s": "absterá",
+    "1p": "absteremos",
+    "2p": "abstereis",
+    "3p": "absterão"
+  },
+  "CondS": {
+    "1s": "absteria",
+    "2s": "absterias",
+    "3s": "absteria",
+    "1p": "absteríamos",
+    "2p": "absteríeis",
+    "3p": "absteriam"
+  },
+  "PresC": {
+    "1s": "abstenha",
+    "2s": "abstenhas",
+    "3s": "abstenha",
+    "1p": "abstenhamos",
+    "2p": "abstenhais",
+    "3p": "abstenham"
+  },
+  "PImpC": {
+    "1s": "abstivesse",
+    "2s": "abstivesses",
+    "3s": "abstivesse",
+    "1p": "abstivéssemos",
+    "2p": "abstivésseis",
+    "3p": "abstivessem"
+  },
+  "FutSC": {
+    "1s": "abstiver",
+    "2s": "abstiveres",
+    "3s": "abstiver",
+    "1p": "abstivermos",
+    "2p": "abstiverdes",
+    "3p": "abstiverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abstém",
+    "3s": "abstenha",
+    "1p": "abstenhamos",
+    "2p": "abstende",
+    "3p": "abstenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abstenhas",
+    "3s": "não abstenha",
+    "1p": "não abstenhamos",
+    "2p": "não abstenhais",
+    "3p": "não abstenham"
+  },
+  "Part-ter": {
+    "": "abstido"
+  },
+  "Part-ser": {
+    "ms": "abstido",
+    "fs": "abstida",
+    "mp": "abstidos",
+    "fp": "abstidas"
+  }
+}

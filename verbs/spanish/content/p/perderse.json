@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perderse"
+  },
+  "Ger": {
+    "": "perdiéndose"
+  },
+  "PresI": {
+    "1s": "me pierdo",
+    "2s": "te pierdes",
+    "3s": "se pierde",
+    "1p": "nos perdemos",
+    "2p": "os perdéis",
+    "3p": "se pierden"
+  },
+  "PImpI": {
+    "1s": "me perdía",
+    "2s": "te perdías",
+    "3s": "se perdía",
+    "1p": "nos perdíamos",
+    "2p": "os perdíais",
+    "3p": "se perdían"
+  },
+  "PPSI": {
+    "1s": "me perdí",
+    "2s": "te perdiste",
+    "3s": "se perdió",
+    "1p": "nos perdimos",
+    "2p": "os perdisteis",
+    "3p": "se perdieron"
+  },
+  "FutSI": {
+    "1s": "me perderé",
+    "2s": "te perderás",
+    "3s": "se perderá",
+    "1p": "nos perderemos",
+    "2p": "os perderéis",
+    "3p": "se perderán"
+  },
+  "CondS": {
+    "1s": "me perdería",
+    "2s": "te perderías",
+    "3s": "se perdería",
+    "1p": "nos perderíamos",
+    "2p": "os perderíais",
+    "3p": "se perderían"
+  },
+  "PresC": {
+    "1s": "me pierda",
+    "2s": "te pierdas",
+    "3s": "se pierda",
+    "1p": "nos perdamos",
+    "2p": "os perdáis",
+    "3p": "se pierdan"
+  },
+  "PMQPSI": {
+    "1s": "me perdiera",
+    "2s": "te perdieras",
+    "3s": "se perdiera",
+    "1p": "nos perdiéramos",
+    "2p": "os perdierais",
+    "3p": "se perdieran"
+  },
+  "PImpC": {
+    "1s": "me perdiese",
+    "2s": "te perdieses",
+    "3s": "se perdiese",
+    "1p": "nos perdiésemos",
+    "2p": "os perdieseis",
+    "3p": "se perdiesen"
+  },
+  "FutSC": {
+    "1s": "me perdiere",
+    "2s": "te perdieres",
+    "3s": "se perdiere",
+    "1p": "nos perdiéremos",
+    "2p": "os perdiereis",
+    "3p": "se perdieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "piérdete",
+    "3s": "piérdase",
+    "1p": "perdámonos",
+    "2p": "perdeos",
+    "3p": "piérdanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te pierdas",
+    "3s": "no se pierda",
+    "1p": "no nos perdamos",
+    "2p": "no os perdáis",
+    "3p": "no se pierdan"
+  },
+  "Part-ter": {
+    "": "perdido"
+  },
+  "Part-ser": {
+    "ms": "perdido",
+    "fs": "perdida",
+    "mp": "perdidos",
+    "fp": "perdidas"
+  }
+}

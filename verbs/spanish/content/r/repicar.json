@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "repicar"
+  },
+  "Ger": {
+    "": "repicando"
+  },
+  "PresI": {
+    "1s": "repico",
+    "2s": "repicas",
+    "3s": "repica",
+    "1p": "repicamos",
+    "2p": "repicáis",
+    "3p": "repican"
+  },
+  "PImpI": {
+    "1s": "repicaba",
+    "2s": "repicabas",
+    "3s": "repicaba",
+    "1p": "repicábamos",
+    "2p": "repicabais",
+    "3p": "repicaban"
+  },
+  "PPSI": {
+    "1s": "repiqué",
+    "2s": "repicaste",
+    "3s": "repicó",
+    "1p": "repicamos",
+    "2p": "repicasteis",
+    "3p": "repicaron"
+  },
+  "FutSI": {
+    "1s": "repicaré",
+    "2s": "repicarás",
+    "3s": "repicará",
+    "1p": "repicaremos",
+    "2p": "repicaréis",
+    "3p": "repicarán"
+  },
+  "CondS": {
+    "1s": "repicaría",
+    "2s": "repicarías",
+    "3s": "repicaría",
+    "1p": "repicaríamos",
+    "2p": "repicaríais",
+    "3p": "repicarían"
+  },
+  "PresC": {
+    "1s": "repique",
+    "2s": "repiques",
+    "3s": "repique",
+    "1p": "repiquemos",
+    "2p": "repiquéis",
+    "3p": "repiquen"
+  },
+  "PMQPSI": {
+    "1s": "repicara",
+    "2s": "repicaras",
+    "3s": "repicara",
+    "1p": "repicáramos",
+    "2p": "repicarais",
+    "3p": "repicaran"
+  },
+  "PImpC": {
+    "1s": "repicase",
+    "2s": "repicases",
+    "3s": "repicase",
+    "1p": "repicásemos",
+    "2p": "repicaseis",
+    "3p": "repicasen"
+  },
+  "FutSC": {
+    "1s": "repicare",
+    "2s": "repicares",
+    "3s": "repicare",
+    "1p": "repicáremos",
+    "2p": "repicareis",
+    "3p": "repicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "repica",
+    "3s": "repique",
+    "1p": "repiquemos",
+    "2p": "repicad",
+    "3p": "repiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no repiques",
+    "3s": "no repique",
+    "1p": "no repiquemos",
+    "2p": "no repiquéis",
+    "3p": "no repiquen"
+  },
+  "Part-ter": {
+    "": "repicado"
+  },
+  "Part-ser": {
+    "ms": "repicado",
+    "fs": "repicada",
+    "mp": "repicados",
+    "fp": "repicadas"
+  }
+}

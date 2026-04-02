@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "regenerar"
+  },
+  "Ger": {
+    "": "regenerando"
+  },
+  "PresI": {
+    "1s": "regenero",
+    "2s": "regeneras",
+    "3s": "regenera",
+    "1p": "regeneramos",
+    "2p": "regeneráis",
+    "3p": "regeneran"
+  },
+  "PImpI": {
+    "1s": "regeneraba",
+    "2s": "regenerabas",
+    "3s": "regeneraba",
+    "1p": "regenerábamos",
+    "2p": "regenerabais",
+    "3p": "regeneraban"
+  },
+  "PPSI": {
+    "1s": "regeneré",
+    "2s": "regeneraste",
+    "3s": "regeneró",
+    "1p": "regeneramos",
+    "2p": "regenerasteis",
+    "3p": "regeneraron"
+  },
+  "FutSI": {
+    "1s": "regeneraré",
+    "2s": "regenerarás",
+    "3s": "regenerará",
+    "1p": "regeneraremos",
+    "2p": "regeneraréis",
+    "3p": "regenerarán"
+  },
+  "CondS": {
+    "1s": "regeneraría",
+    "2s": "regenerarías",
+    "3s": "regeneraría",
+    "1p": "regeneraríamos",
+    "2p": "regeneraríais",
+    "3p": "regenerarían"
+  },
+  "PresC": {
+    "1s": "regenere",
+    "2s": "regeneres",
+    "3s": "regenere",
+    "1p": "regeneremos",
+    "2p": "regeneréis",
+    "3p": "regeneren"
+  },
+  "PMQPSI": {
+    "1s": "regenerara",
+    "2s": "regeneraras",
+    "3s": "regenerara",
+    "1p": "regeneráramos",
+    "2p": "regenerarais",
+    "3p": "regeneraran"
+  },
+  "PImpC": {
+    "1s": "regenerase",
+    "2s": "regenerases",
+    "3s": "regenerase",
+    "1p": "regenerásemos",
+    "2p": "regeneraseis",
+    "3p": "regenerasen"
+  },
+  "FutSC": {
+    "1s": "regenerare",
+    "2s": "regenerares",
+    "3s": "regenerare",
+    "1p": "regeneráremos",
+    "2p": "regenerareis",
+    "3p": "regeneraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regenera",
+    "3s": "regenere",
+    "1p": "regeneremos",
+    "2p": "regenerad",
+    "3p": "regeneren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no regeneres",
+    "3s": "no regenere",
+    "1p": "no regeneremos",
+    "2p": "no regeneréis",
+    "3p": "no regeneren"
+  },
+  "Part-ter": {
+    "": "regenerado"
+  },
+  "Part-ser": {
+    "ms": "regenerado",
+    "fs": "regenerada",
+    "mp": "regenerados",
+    "fp": "regeneradas"
+  }
+}

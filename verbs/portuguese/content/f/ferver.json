@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ferver"
+  },
+  "InfP": {
+    "1s": "ferver",
+    "2s": "ferveres",
+    "3s": "ferver",
+    "1p": "fervermos",
+    "2p": "ferverdes",
+    "3p": "ferverem"
+  },
+  "Ger": {
+    "": "fervendo"
+  },
+  "PresI": {
+    "1s": "fervo",
+    "2s": "ferves",
+    "3s": "ferve",
+    "1p": "fervemos",
+    "2p": "ferveis",
+    "3p": "fervem"
+  },
+  "PImpI": {
+    "1s": "fervia",
+    "2s": "fervias",
+    "3s": "fervia",
+    "1p": "fervíamos",
+    "2p": "fervíeis",
+    "3p": "ferviam"
+  },
+  "PPSI": {
+    "1s": "fervi",
+    "2s": "ferveste",
+    "3s": "ferveu",
+    "1p": "fervemos",
+    "2p": "fervestes",
+    "3p": "ferveram"
+  },
+  "PMQPSI": {
+    "1s": "fervera",
+    "2s": "ferveras",
+    "3s": "fervera",
+    "1p": "fervêramos",
+    "2p": "fervêreis",
+    "3p": "ferveram"
+  },
+  "FutSI": {
+    "1s": "ferverei",
+    "2s": "ferverás",
+    "3s": "ferverá",
+    "1p": "ferveremos",
+    "2p": "fervereis",
+    "3p": "ferverão"
+  },
+  "CondS": {
+    "1s": "ferveria",
+    "2s": "ferverias",
+    "3s": "ferveria",
+    "1p": "ferveríamos",
+    "2p": "ferveríeis",
+    "3p": "ferveriam"
+  },
+  "PresC": {
+    "1s": "ferva",
+    "2s": "fervas",
+    "3s": "ferva",
+    "1p": "fervamos",
+    "2p": "fervais",
+    "3p": "fervam"
+  },
+  "PImpC": {
+    "1s": "fervesse",
+    "2s": "fervesses",
+    "3s": "fervesse",
+    "1p": "fervêssemos",
+    "2p": "fervêsseis",
+    "3p": "fervessem"
+  },
+  "FutSC": {
+    "1s": "ferver",
+    "2s": "ferveres",
+    "3s": "ferver",
+    "1p": "fervermos",
+    "2p": "ferverdes",
+    "3p": "ferverem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ferve",
+    "3s": "ferva",
+    "1p": "fervamos",
+    "2p": "fervei",
+    "3p": "fervam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fervas",
+    "3s": "não ferva",
+    "1p": "não fervamos",
+    "2p": "não fervais",
+    "3p": "não fervam"
+  },
+  "Part-ter": {
+    "": "fervido"
+  },
+  "Part-ser": {
+    "ms": "fervido",
+    "fs": "fervida",
+    "mp": "fervidos",
+    "fp": "fervidas"
+  }
+}

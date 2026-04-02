@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "detener"
+  },
+  "Ger": {
+    "": "deteniendo"
+  },
+  "PresI": {
+    "1s": "detengo",
+    "2s": "detienes",
+    "3s": "detiene",
+    "1p": "detenemos",
+    "2p": "detenéis",
+    "3p": "detienen"
+  },
+  "PImpI": {
+    "1s": "detenía",
+    "2s": "detenías",
+    "3s": "detenía",
+    "1p": "deteníamos",
+    "2p": "deteníais",
+    "3p": "detenían"
+  },
+  "PPSI": {
+    "1s": "detuve",
+    "2s": "detuviste",
+    "3s": "detuvo",
+    "1p": "detuvimos",
+    "2p": "detuvisteis",
+    "3p": "detuvieron"
+  },
+  "FutSI": {
+    "1s": "detendré",
+    "2s": "detendrás",
+    "3s": "detendrá",
+    "1p": "detendremos",
+    "2p": "detendréis",
+    "3p": "detendrán"
+  },
+  "CondS": {
+    "1s": "detendría",
+    "2s": "detendrías",
+    "3s": "detendría",
+    "1p": "detendríamos",
+    "2p": "detendríais",
+    "3p": "detendrían"
+  },
+  "PresC": {
+    "1s": "detenga",
+    "2s": "detengas",
+    "3s": "detenga",
+    "1p": "detengamos",
+    "2p": "detengáis",
+    "3p": "detengan"
+  },
+  "PMQPSI": {
+    "1s": "detuviera",
+    "2s": "detuvieras",
+    "3s": "detuviera",
+    "1p": "detuviéramos",
+    "2p": "detuvierais",
+    "3p": "detuvieran"
+  },
+  "PImpC": {
+    "1s": "detuviese",
+    "2s": "detuvieses",
+    "3s": "detuviese",
+    "1p": "detuviésemos",
+    "2p": "detuvieseis",
+    "3p": "detuviesen"
+  },
+  "FutSC": {
+    "1s": "detuviere",
+    "2s": "detuvieres",
+    "3s": "detuviere",
+    "1p": "detuviéremos",
+    "2p": "detuviereis",
+    "3p": "detuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "detén",
+    "3s": "detenga",
+    "1p": "detengamos",
+    "2p": "detened",
+    "3p": "detengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no detengas",
+    "3s": "no detenga",
+    "1p": "no detengamos",
+    "2p": "no detengáis",
+    "3p": "no detengan"
+  },
+  "Part-ter": {
+    "": "detenido"
+  },
+  "Part-ser": {
+    "ms": "detenido",
+    "fs": "detenida",
+    "mp": "detenidos",
+    "fp": "detenidas"
+  }
+}

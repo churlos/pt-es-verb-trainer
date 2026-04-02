@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trivializar"
+  },
+  "Ger": {
+    "": "trivializando"
+  },
+  "PresI": {
+    "1s": "trivializo",
+    "2s": "trivializas",
+    "3s": "trivializa",
+    "1p": "trivializamos",
+    "2p": "trivializáis",
+    "3p": "trivializan"
+  },
+  "PImpI": {
+    "1s": "trivializaba",
+    "2s": "trivializabas",
+    "3s": "trivializaba",
+    "1p": "trivializábamos",
+    "2p": "trivializabais",
+    "3p": "trivializaban"
+  },
+  "PPSI": {
+    "1s": "trivialicé",
+    "2s": "trivializaste",
+    "3s": "trivializó",
+    "1p": "trivializamos",
+    "2p": "trivializasteis",
+    "3p": "trivializaron"
+  },
+  "FutSI": {
+    "1s": "trivializaré",
+    "2s": "trivializarás",
+    "3s": "trivializará",
+    "1p": "trivializaremos",
+    "2p": "trivializaréis",
+    "3p": "trivializarán"
+  },
+  "CondS": {
+    "1s": "trivializaría",
+    "2s": "trivializarías",
+    "3s": "trivializaría",
+    "1p": "trivializaríamos",
+    "2p": "trivializaríais",
+    "3p": "trivializarían"
+  },
+  "PresC": {
+    "1s": "trivialice",
+    "2s": "trivialices",
+    "3s": "trivialice",
+    "1p": "trivialicemos",
+    "2p": "trivialicéis",
+    "3p": "trivialicen"
+  },
+  "PMQPSI": {
+    "1s": "trivializara",
+    "2s": "trivializaras",
+    "3s": "trivializara",
+    "1p": "trivializáramos",
+    "2p": "trivializarais",
+    "3p": "trivializaran"
+  },
+  "PImpC": {
+    "1s": "trivializase",
+    "2s": "trivializases",
+    "3s": "trivializase",
+    "1p": "trivializásemos",
+    "2p": "trivializaseis",
+    "3p": "trivializasen"
+  },
+  "FutSC": {
+    "1s": "trivializare",
+    "2s": "trivializares",
+    "3s": "trivializare",
+    "1p": "trivializáremos",
+    "2p": "trivializareis",
+    "3p": "trivializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trivializa",
+    "3s": "trivialice",
+    "1p": "trivialicemos",
+    "2p": "trivializad",
+    "3p": "trivialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trivialices",
+    "3s": "no trivialice",
+    "1p": "no trivialicemos",
+    "2p": "no trivialicéis",
+    "3p": "no trivialicen"
+  },
+  "Part-ter": {
+    "": "trivializado"
+  },
+  "Part-ser": {
+    "ms": "trivializado",
+    "fs": "trivializada",
+    "mp": "trivializados",
+    "fp": "trivializadas"
+  }
+}

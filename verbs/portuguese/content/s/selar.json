@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "selar"
+  },
+  "InfP": {
+    "1s": "selar",
+    "2s": "selares",
+    "3s": "selar",
+    "1p": "selarmos",
+    "2p": "selardes",
+    "3p": "selarem"
+  },
+  "Ger": {
+    "": "selando"
+  },
+  "PresI": {
+    "1s": "selo",
+    "2s": "selas",
+    "3s": "sela",
+    "1p": "selamos",
+    "2p": "selais",
+    "3p": "selam"
+  },
+  "PImpI": {
+    "1s": "selava",
+    "2s": "selavas",
+    "3s": "selava",
+    "1p": "selávamos",
+    "2p": "seláveis",
+    "3p": "selavam"
+  },
+  "PPSI": {
+    "1s": "selei",
+    "2s": "selaste",
+    "3s": "selou",
+    "1p": "selámos",
+    "2p": "selastes",
+    "3p": "selaram"
+  },
+  "PMQPSI": {
+    "1s": "selara",
+    "2s": "selaras",
+    "3s": "selara",
+    "1p": "seláramos",
+    "2p": "seláreis",
+    "3p": "selaram"
+  },
+  "FutSI": {
+    "1s": "selarei",
+    "2s": "selarás",
+    "3s": "selará",
+    "1p": "selaremos",
+    "2p": "selareis",
+    "3p": "selarão"
+  },
+  "CondS": {
+    "1s": "selaria",
+    "2s": "selarias",
+    "3s": "selaria",
+    "1p": "selaríamos",
+    "2p": "selaríeis",
+    "3p": "selariam"
+  },
+  "PresC": {
+    "1s": "sele",
+    "2s": "seles",
+    "3s": "sele",
+    "1p": "selemos",
+    "2p": "seleis",
+    "3p": "selem"
+  },
+  "PImpC": {
+    "1s": "selasse",
+    "2s": "selasses",
+    "3s": "selasse",
+    "1p": "selássemos",
+    "2p": "selásseis",
+    "3p": "selassem"
+  },
+  "FutSC": {
+    "1s": "selar",
+    "2s": "selares",
+    "3s": "selar",
+    "1p": "selarmos",
+    "2p": "selardes",
+    "3p": "selarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sela",
+    "3s": "sele",
+    "1p": "selemos",
+    "2p": "selai",
+    "3p": "selem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não seles",
+    "3s": "não sele",
+    "1p": "não selemos",
+    "2p": "não seleis",
+    "3p": "não selem"
+  },
+  "Part-ter": {
+    "": "selado"
+  },
+  "Part-ser": {
+    "ms": "selado",
+    "fs": "selada",
+    "mp": "selados",
+    "fp": "seladas"
+  }
+}

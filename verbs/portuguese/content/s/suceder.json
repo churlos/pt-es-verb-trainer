@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suceder"
+  },
+  "InfP": {
+    "1s": "suceder",
+    "2s": "sucederes",
+    "3s": "suceder",
+    "1p": "sucedermos",
+    "2p": "sucederdes",
+    "3p": "sucederem"
+  },
+  "Ger": {
+    "": "sucedendo"
+  },
+  "PresI": {
+    "1s": "sucedo",
+    "2s": "sucedes",
+    "3s": "sucede",
+    "1p": "sucedemos",
+    "2p": "sucedeis",
+    "3p": "sucedem"
+  },
+  "PImpI": {
+    "1s": "sucedia",
+    "2s": "sucedias",
+    "3s": "sucedia",
+    "1p": "sucedíamos",
+    "2p": "sucedíeis",
+    "3p": "sucediam"
+  },
+  "PPSI": {
+    "1s": "sucedi",
+    "2s": "sucedeste",
+    "3s": "sucedeu",
+    "1p": "sucedemos",
+    "2p": "sucedestes",
+    "3p": "sucederam"
+  },
+  "PMQPSI": {
+    "1s": "sucedera",
+    "2s": "sucederas",
+    "3s": "sucedera",
+    "1p": "sucedêramos",
+    "2p": "sucedêreis",
+    "3p": "sucederam"
+  },
+  "FutSI": {
+    "1s": "sucederei",
+    "2s": "sucederás",
+    "3s": "sucederá",
+    "1p": "sucederemos",
+    "2p": "sucedereis",
+    "3p": "sucederão"
+  },
+  "CondS": {
+    "1s": "sucederia",
+    "2s": "sucederias",
+    "3s": "sucederia",
+    "1p": "sucederíamos",
+    "2p": "sucederíeis",
+    "3p": "sucederiam"
+  },
+  "PresC": {
+    "1s": "suceda",
+    "2s": "sucedas",
+    "3s": "suceda",
+    "1p": "sucedamos",
+    "2p": "sucedais",
+    "3p": "sucedam"
+  },
+  "PImpC": {
+    "1s": "sucedesse",
+    "2s": "sucedesses",
+    "3s": "sucedesse",
+    "1p": "sucedêssemos",
+    "2p": "sucedêsseis",
+    "3p": "sucedessem"
+  },
+  "FutSC": {
+    "1s": "suceder",
+    "2s": "sucederes",
+    "3s": "suceder",
+    "1p": "sucedermos",
+    "2p": "sucederdes",
+    "3p": "sucederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sucede",
+    "3s": "suceda",
+    "1p": "sucedamos",
+    "2p": "sucedei",
+    "3p": "sucedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sucedas",
+    "3s": "não suceda",
+    "1p": "não sucedamos",
+    "2p": "não sucedais",
+    "3p": "não sucedam"
+  },
+  "Part-ter": {
+    "": "sucedido"
+  },
+  "Part-ser": {
+    "ms": "sucedido",
+    "fs": "sucedida",
+    "mp": "sucedidos",
+    "fp": "sucedidas"
+  }
+}

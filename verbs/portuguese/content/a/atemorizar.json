@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atemorizar"
+  },
+  "InfP": {
+    "1s": "atemorizar",
+    "2s": "atemorizares",
+    "3s": "atemorizar",
+    "1p": "atemorizarmos",
+    "2p": "atemorizardes",
+    "3p": "atemorizarem"
+  },
+  "Ger": {
+    "": "atemorizando"
+  },
+  "PresI": {
+    "1s": "atemorizo",
+    "2s": "atemorizas",
+    "3s": "atemoriza",
+    "1p": "atemorizamos",
+    "2p": "atemorizais",
+    "3p": "atemorizam"
+  },
+  "PImpI": {
+    "1s": "atemorizava",
+    "2s": "atemorizavas",
+    "3s": "atemorizava",
+    "1p": "atemorizávamos",
+    "2p": "atemorizáveis",
+    "3p": "atemorizavam"
+  },
+  "PPSI": {
+    "1s": "atemorizei",
+    "2s": "atemorizaste",
+    "3s": "atemorizou",
+    "1p": "atemorizámos",
+    "2p": "atemorizastes",
+    "3p": "atemorizaram"
+  },
+  "PMQPSI": {
+    "1s": "atemorizara",
+    "2s": "atemorizaras",
+    "3s": "atemorizara",
+    "1p": "atemorizáramos",
+    "2p": "atemorizáreis",
+    "3p": "atemorizaram"
+  },
+  "FutSI": {
+    "1s": "atemorizarei",
+    "2s": "atemorizarás",
+    "3s": "atemorizará",
+    "1p": "atemorizaremos",
+    "2p": "atemorizareis",
+    "3p": "atemorizarão"
+  },
+  "CondS": {
+    "1s": "atemorizaria",
+    "2s": "atemorizarias",
+    "3s": "atemorizaria",
+    "1p": "atemorizaríamos",
+    "2p": "atemorizaríeis",
+    "3p": "atemorizariam"
+  },
+  "PresC": {
+    "1s": "atemorize",
+    "2s": "atemorizes",
+    "3s": "atemorize",
+    "1p": "atemorizemos",
+    "2p": "atemorizeis",
+    "3p": "atemorizem"
+  },
+  "PImpC": {
+    "1s": "atemorizasse",
+    "2s": "atemorizasses",
+    "3s": "atemorizasse",
+    "1p": "atemorizássemos",
+    "2p": "atemorizásseis",
+    "3p": "atemorizassem"
+  },
+  "FutSC": {
+    "1s": "atemorizar",
+    "2s": "atemorizares",
+    "3s": "atemorizar",
+    "1p": "atemorizarmos",
+    "2p": "atemorizardes",
+    "3p": "atemorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atemoriza",
+    "3s": "atemorize",
+    "1p": "atemorizemos",
+    "2p": "atemorizai",
+    "3p": "atemorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atemorizes",
+    "3s": "não atemorize",
+    "1p": "não atemorizemos",
+    "2p": "não atemorizeis",
+    "3p": "não atemorizem"
+  },
+  "Part-ter": {
+    "": "atemorizado"
+  },
+  "Part-ser": {
+    "ms": "atemorizado",
+    "fs": "atemorizada",
+    "mp": "atemorizados",
+    "fp": "atemorizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enrutar"
+  },
+  "Ger": {
+    "": "enrutando"
+  },
+  "PresI": {
+    "1s": "enruto",
+    "2s": "enrutas",
+    "3s": "enruta",
+    "1p": "enrutamos",
+    "2p": "enrutáis",
+    "3p": "enrutan"
+  },
+  "PImpI": {
+    "1s": "enrutaba",
+    "2s": "enrutabas",
+    "3s": "enrutaba",
+    "1p": "enrutábamos",
+    "2p": "enrutabais",
+    "3p": "enrutaban"
+  },
+  "PPSI": {
+    "1s": "enruté",
+    "2s": "enrutaste",
+    "3s": "enrutó",
+    "1p": "enrutamos",
+    "2p": "enrutasteis",
+    "3p": "enrutaron"
+  },
+  "FutSI": {
+    "1s": "enrutaré",
+    "2s": "enrutarás",
+    "3s": "enrutará",
+    "1p": "enrutaremos",
+    "2p": "enrutaréis",
+    "3p": "enrutarán"
+  },
+  "CondS": {
+    "1s": "enrutaría",
+    "2s": "enrutarías",
+    "3s": "enrutaría",
+    "1p": "enrutaríamos",
+    "2p": "enrutaríais",
+    "3p": "enrutarían"
+  },
+  "PresC": {
+    "1s": "enrute",
+    "2s": "enrutes",
+    "3s": "enrute",
+    "1p": "enrutemos",
+    "2p": "enrutéis",
+    "3p": "enruten"
+  },
+  "PMQPSI": {
+    "1s": "enrutara",
+    "2s": "enrutaras",
+    "3s": "enrutara",
+    "1p": "enrutáramos",
+    "2p": "enrutarais",
+    "3p": "enrutaran"
+  },
+  "PImpC": {
+    "1s": "enrutase",
+    "2s": "enrutases",
+    "3s": "enrutase",
+    "1p": "enrutásemos",
+    "2p": "enrutaseis",
+    "3p": "enrutasen"
+  },
+  "FutSC": {
+    "1s": "enrutare",
+    "2s": "enrutares",
+    "3s": "enrutare",
+    "1p": "enrutáremos",
+    "2p": "enrutareis",
+    "3p": "enrutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enruta",
+    "3s": "enrute",
+    "1p": "enrutemos",
+    "2p": "enrutad",
+    "3p": "enruten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no enrutes",
+    "3s": "no enrute",
+    "1p": "no enrutemos",
+    "2p": "no enrutéis",
+    "3p": "no enruten"
+  },
+  "Part-ter": {
+    "": "enrutado"
+  },
+  "Part-ser": {
+    "ms": "enrutado",
+    "fs": "enrutada",
+    "mp": "enrutados",
+    "fp": "enrutadas"
+  }
+}

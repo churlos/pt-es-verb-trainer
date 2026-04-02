@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "padecer"
+  },
+  "Ger": {
+    "": "padeciendo"
+  },
+  "PresI": {
+    "1s": "padezco",
+    "2s": "padeces",
+    "3s": "padece",
+    "1p": "padecemos",
+    "2p": "padecéis",
+    "3p": "padecen"
+  },
+  "PImpI": {
+    "1s": "padecía",
+    "2s": "padecías",
+    "3s": "padecía",
+    "1p": "padecíamos",
+    "2p": "padecíais",
+    "3p": "padecían"
+  },
+  "PPSI": {
+    "1s": "padecí",
+    "2s": "padeciste",
+    "3s": "padeció",
+    "1p": "padecimos",
+    "2p": "padecisteis",
+    "3p": "padecieron"
+  },
+  "FutSI": {
+    "1s": "padeceré",
+    "2s": "padecerás",
+    "3s": "padecerá",
+    "1p": "padeceremos",
+    "2p": "padeceréis",
+    "3p": "padecerán"
+  },
+  "CondS": {
+    "1s": "padecería",
+    "2s": "padecerías",
+    "3s": "padecería",
+    "1p": "padeceríamos",
+    "2p": "padeceríais",
+    "3p": "padecerían"
+  },
+  "PresC": {
+    "1s": "padezca",
+    "2s": "padezcas",
+    "3s": "padezca",
+    "1p": "padezcamos",
+    "2p": "padezcáis",
+    "3p": "padezcan"
+  },
+  "PMQPSI": {
+    "1s": "padeciera",
+    "2s": "padecieras",
+    "3s": "padeciera",
+    "1p": "padeciéramos",
+    "2p": "padecierais",
+    "3p": "padecieran"
+  },
+  "PImpC": {
+    "1s": "padeciese",
+    "2s": "padecieses",
+    "3s": "padeciese",
+    "1p": "padeciésemos",
+    "2p": "padecieseis",
+    "3p": "padeciesen"
+  },
+  "FutSC": {
+    "1s": "padeciere",
+    "2s": "padecieres",
+    "3s": "padeciere",
+    "1p": "padeciéremos",
+    "2p": "padeciereis",
+    "3p": "padecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "padece",
+    "3s": "padezca",
+    "1p": "padezcamos",
+    "2p": "padeced",
+    "3p": "padezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no padezcas",
+    "3s": "no padezca",
+    "1p": "no padezcamos",
+    "2p": "no padezcáis",
+    "3p": "no padezcan"
+  },
+  "Part-ter": {
+    "": "padecido"
+  },
+  "Part-ser": {
+    "ms": "padecido",
+    "fs": "padecida",
+    "mp": "padecidos",
+    "fp": "padecidas"
+  }
+}

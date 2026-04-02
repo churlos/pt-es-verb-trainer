@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "assertar"
+  },
+  "InfP": {
+    "1s": "assertar",
+    "2s": "assertares",
+    "3s": "assertar",
+    "1p": "assertarmos",
+    "2p": "assertardes",
+    "3p": "assertarem"
+  },
+  "Ger": {
+    "": "assertando"
+  },
+  "PresI": {
+    "1s": "asserto",
+    "2s": "assertas",
+    "3s": "asserta",
+    "1p": "assertamos",
+    "2p": "assertais",
+    "3p": "assertam"
+  },
+  "PImpI": {
+    "1s": "assertava",
+    "2s": "assertavas",
+    "3s": "assertava",
+    "1p": "assertávamos",
+    "2p": "assertáveis",
+    "3p": "assertavam"
+  },
+  "PPSI": {
+    "1s": "assertei",
+    "2s": "assertaste",
+    "3s": "assertou",
+    "1p": "assertámos",
+    "2p": "assertastes",
+    "3p": "assertaram"
+  },
+  "PMQPSI": {
+    "1s": "assertara",
+    "2s": "assertaras",
+    "3s": "assertara",
+    "1p": "assertáramos",
+    "2p": "assertáreis",
+    "3p": "assertaram"
+  },
+  "FutSI": {
+    "1s": "assertarei",
+    "2s": "assertarás",
+    "3s": "assertará",
+    "1p": "assertaremos",
+    "2p": "assertareis",
+    "3p": "assertarão"
+  },
+  "CondS": {
+    "1s": "assertaria",
+    "2s": "assertarias",
+    "3s": "assertaria",
+    "1p": "assertaríamos",
+    "2p": "assertaríeis",
+    "3p": "assertariam"
+  },
+  "PresC": {
+    "1s": "asserte",
+    "2s": "assertes",
+    "3s": "asserte",
+    "1p": "assertemos",
+    "2p": "asserteis",
+    "3p": "assertem"
+  },
+  "PImpC": {
+    "1s": "assertasse",
+    "2s": "assertasses",
+    "3s": "assertasse",
+    "1p": "assertássemos",
+    "2p": "assertásseis",
+    "3p": "assertassem"
+  },
+  "FutSC": {
+    "1s": "assertar",
+    "2s": "assertares",
+    "3s": "assertar",
+    "1p": "assertarmos",
+    "2p": "assertardes",
+    "3p": "assertarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "asserta",
+    "3s": "asserte",
+    "1p": "assertemos",
+    "2p": "assertai",
+    "3p": "assertem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não assertes",
+    "3s": "não asserte",
+    "1p": "não assertemos",
+    "2p": "não asserteis",
+    "3p": "não assertem"
+  },
+  "Part-ter": {
+    "": "assertado"
+  },
+  "Part-ser": {
+    "ms": "assertado",
+    "fs": "assertada",
+    "mp": "assertados",
+    "fp": "assertadas"
+  }
+}

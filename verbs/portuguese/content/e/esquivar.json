@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "esquivar"
+  },
+  "InfP": {
+    "1s": "esquivar",
+    "2s": "esquivares",
+    "3s": "esquivar",
+    "1p": "esquivarmos",
+    "2p": "esquivardes",
+    "3p": "esquivarem"
+  },
+  "Ger": {
+    "": "esquivando"
+  },
+  "PresI": {
+    "1s": "esquivo",
+    "2s": "esquivas",
+    "3s": "esquiva",
+    "1p": "esquivamos",
+    "2p": "esquivais",
+    "3p": "esquivam"
+  },
+  "PImpI": {
+    "1s": "esquivava",
+    "2s": "esquivavas",
+    "3s": "esquivava",
+    "1p": "esquivávamos",
+    "2p": "esquiváveis",
+    "3p": "esquivavam"
+  },
+  "PPSI": {
+    "1s": "esquivei",
+    "2s": "esquivaste",
+    "3s": "esquivou",
+    "1p": "esquivámos",
+    "2p": "esquivastes",
+    "3p": "esquivaram"
+  },
+  "PMQPSI": {
+    "1s": "esquivara",
+    "2s": "esquivaras",
+    "3s": "esquivara",
+    "1p": "esquiváramos",
+    "2p": "esquiváreis",
+    "3p": "esquivaram"
+  },
+  "FutSI": {
+    "1s": "esquivarei",
+    "2s": "esquivarás",
+    "3s": "esquivará",
+    "1p": "esquivaremos",
+    "2p": "esquivareis",
+    "3p": "esquivarão"
+  },
+  "CondS": {
+    "1s": "esquivaria",
+    "2s": "esquivarias",
+    "3s": "esquivaria",
+    "1p": "esquivaríamos",
+    "2p": "esquivaríeis",
+    "3p": "esquivariam"
+  },
+  "PresC": {
+    "1s": "esquive",
+    "2s": "esquives",
+    "3s": "esquive",
+    "1p": "esquivemos",
+    "2p": "esquiveis",
+    "3p": "esquivem"
+  },
+  "PImpC": {
+    "1s": "esquivasse",
+    "2s": "esquivasses",
+    "3s": "esquivasse",
+    "1p": "esquivássemos",
+    "2p": "esquivásseis",
+    "3p": "esquivassem"
+  },
+  "FutSC": {
+    "1s": "esquivar",
+    "2s": "esquivares",
+    "3s": "esquivar",
+    "1p": "esquivarmos",
+    "2p": "esquivardes",
+    "3p": "esquivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esquiva",
+    "3s": "esquive",
+    "1p": "esquivemos",
+    "2p": "esquivai",
+    "3p": "esquivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não esquives",
+    "3s": "não esquive",
+    "1p": "não esquivemos",
+    "2p": "não esquiveis",
+    "3p": "não esquivem"
+  },
+  "Part-ter": {
+    "": "esquivado"
+  },
+  "Part-ser": {
+    "ms": "esquivado",
+    "fs": "esquivada",
+    "mp": "esquivados",
+    "fp": "esquivadas"
+  }
+}

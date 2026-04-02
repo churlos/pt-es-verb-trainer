@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cegar"
+  },
+  "Ger": {
+    "": "cegando"
+  },
+  "PresI": {
+    "1s": "ciego",
+    "2s": "ciegas",
+    "3s": "ciega",
+    "1p": "cegamos",
+    "2p": "cegáis",
+    "3p": "ciegan"
+  },
+  "PImpI": {
+    "1s": "cegaba",
+    "2s": "cegabas",
+    "3s": "cegaba",
+    "1p": "cegábamos",
+    "2p": "cegabais",
+    "3p": "cegaban"
+  },
+  "PPSI": {
+    "1s": "cegué",
+    "2s": "cegaste",
+    "3s": "cegó",
+    "1p": "cegamos",
+    "2p": "cegasteis",
+    "3p": "cegaron"
+  },
+  "FutSI": {
+    "1s": "cegaré",
+    "2s": "cegarás",
+    "3s": "cegará",
+    "1p": "cegaremos",
+    "2p": "cegaréis",
+    "3p": "cegarán"
+  },
+  "CondS": {
+    "1s": "cegaría",
+    "2s": "cegarías",
+    "3s": "cegaría",
+    "1p": "cegaríamos",
+    "2p": "cegaríais",
+    "3p": "cegarían"
+  },
+  "PresC": {
+    "1s": "ciegue",
+    "2s": "ciegues",
+    "3s": "ciegue",
+    "1p": "ceguemos",
+    "2p": "ceguéis",
+    "3p": "cieguen"
+  },
+  "PMQPSI": {
+    "1s": "cegara",
+    "2s": "cegaras",
+    "3s": "cegara",
+    "1p": "cegáramos",
+    "2p": "cegarais",
+    "3p": "cegaran"
+  },
+  "PImpC": {
+    "1s": "cegase",
+    "2s": "cegases",
+    "3s": "cegase",
+    "1p": "cegásemos",
+    "2p": "cegaseis",
+    "3p": "cegasen"
+  },
+  "FutSC": {
+    "1s": "cegare",
+    "2s": "cegares",
+    "3s": "cegare",
+    "1p": "cegáremos",
+    "2p": "cegareis",
+    "3p": "cegaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ciega",
+    "3s": "ciegue",
+    "1p": "ceguemos",
+    "2p": "cegad",
+    "3p": "cieguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ciegues",
+    "3s": "no ciegue",
+    "1p": "no ceguemos",
+    "2p": "no ceguéis",
+    "3p": "no cieguen"
+  },
+  "Part-ter": {
+    "": "cegado"
+  },
+  "Part-ser": {
+    "ms": "cegado",
+    "fs": "cegada",
+    "mp": "cegados",
+    "fp": "cegadas"
+  }
+}

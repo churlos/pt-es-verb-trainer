@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indicar"
+  },
+  "InfP": {
+    "1s": "indicar",
+    "2s": "indicares",
+    "3s": "indicar",
+    "1p": "indicarmos",
+    "2p": "indicardes",
+    "3p": "indicarem"
+  },
+  "Ger": {
+    "": "indicando"
+  },
+  "PresI": {
+    "1s": "indico",
+    "2s": "indicas",
+    "3s": "indica",
+    "1p": "indicamos",
+    "2p": "indicais",
+    "3p": "indicam"
+  },
+  "PImpI": {
+    "1s": "indicava",
+    "2s": "indicavas",
+    "3s": "indicava",
+    "1p": "indicávamos",
+    "2p": "indicáveis",
+    "3p": "indicavam"
+  },
+  "PPSI": {
+    "1s": "indiquei",
+    "2s": "indicaste",
+    "3s": "indicou",
+    "1p": "indicámos",
+    "2p": "indicastes",
+    "3p": "indicaram"
+  },
+  "PMQPSI": {
+    "1s": "indicara",
+    "2s": "indicaras",
+    "3s": "indicara",
+    "1p": "indicáramos",
+    "2p": "indicáreis",
+    "3p": "indicaram"
+  },
+  "FutSI": {
+    "1s": "indicarei",
+    "2s": "indicarás",
+    "3s": "indicará",
+    "1p": "indicaremos",
+    "2p": "indicareis",
+    "3p": "indicarão"
+  },
+  "CondS": {
+    "1s": "indicaria",
+    "2s": "indicarias",
+    "3s": "indicaria",
+    "1p": "indicaríamos",
+    "2p": "indicaríeis",
+    "3p": "indicariam"
+  },
+  "PresC": {
+    "1s": "indique",
+    "2s": "indiques",
+    "3s": "indique",
+    "1p": "indiquemos",
+    "2p": "indiqueis",
+    "3p": "indiquem"
+  },
+  "PImpC": {
+    "1s": "indicasse",
+    "2s": "indicasses",
+    "3s": "indicasse",
+    "1p": "indicássemos",
+    "2p": "indicásseis",
+    "3p": "indicassem"
+  },
+  "FutSC": {
+    "1s": "indicar",
+    "2s": "indicares",
+    "3s": "indicar",
+    "1p": "indicarmos",
+    "2p": "indicardes",
+    "3p": "indicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indica",
+    "3s": "indique",
+    "1p": "indiquemos",
+    "2p": "indicai",
+    "3p": "indiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indiques",
+    "3s": "não indique",
+    "1p": "não indiquemos",
+    "2p": "não indiqueis",
+    "3p": "não indiquem"
+  },
+  "Part-ter": {
+    "": "indicado"
+  },
+  "Part-ser": {
+    "ms": "indicado",
+    "fs": "indicada",
+    "mp": "indicados",
+    "fp": "indicadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mascarar"
+  },
+  "InfP": {
+    "1s": "mascarar",
+    "2s": "mascarares",
+    "3s": "mascarar",
+    "1p": "mascararmos",
+    "2p": "mascarardes",
+    "3p": "mascararem"
+  },
+  "Ger": {
+    "": "mascarando"
+  },
+  "PresI": {
+    "1s": "mascaro",
+    "2s": "mascaras",
+    "3s": "mascara",
+    "1p": "mascaramos",
+    "2p": "mascarais",
+    "3p": "mascaram"
+  },
+  "PImpI": {
+    "1s": "mascarava",
+    "2s": "mascaravas",
+    "3s": "mascarava",
+    "1p": "mascarávamos",
+    "2p": "mascaráveis",
+    "3p": "mascaravam"
+  },
+  "PPSI": {
+    "1s": "mascarei",
+    "2s": "mascaraste",
+    "3s": "mascarou",
+    "1p": "mascarámos",
+    "2p": "mascarastes",
+    "3p": "mascararam"
+  },
+  "PMQPSI": {
+    "1s": "mascarara",
+    "2s": "mascararas",
+    "3s": "mascarara",
+    "1p": "mascaráramos",
+    "2p": "mascaráreis",
+    "3p": "mascararam"
+  },
+  "FutSI": {
+    "1s": "mascararei",
+    "2s": "mascararás",
+    "3s": "mascarará",
+    "1p": "mascararemos",
+    "2p": "mascarareis",
+    "3p": "mascararão"
+  },
+  "CondS": {
+    "1s": "mascararia",
+    "2s": "mascararias",
+    "3s": "mascararia",
+    "1p": "mascararíamos",
+    "2p": "mascararíeis",
+    "3p": "mascarariam"
+  },
+  "PresC": {
+    "1s": "mascare",
+    "2s": "mascares",
+    "3s": "mascare",
+    "1p": "mascaremos",
+    "2p": "mascareis",
+    "3p": "mascarem"
+  },
+  "PImpC": {
+    "1s": "mascarasse",
+    "2s": "mascarasses",
+    "3s": "mascarasse",
+    "1p": "mascarássemos",
+    "2p": "mascarásseis",
+    "3p": "mascarassem"
+  },
+  "FutSC": {
+    "1s": "mascarar",
+    "2s": "mascarares",
+    "3s": "mascarar",
+    "1p": "mascararmos",
+    "2p": "mascarardes",
+    "3p": "mascararem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mascara",
+    "3s": "mascare",
+    "1p": "mascaremos",
+    "2p": "mascarai",
+    "3p": "mascarem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mascares",
+    "3s": "não mascare",
+    "1p": "não mascaremos",
+    "2p": "não mascareis",
+    "3p": "não mascarem"
+  },
+  "Part-ter": {
+    "": "mascarado"
+  },
+  "Part-ser": {
+    "ms": "mascarado",
+    "fs": "mascarada",
+    "mp": "mascarados",
+    "fp": "mascaradas"
+  }
+}

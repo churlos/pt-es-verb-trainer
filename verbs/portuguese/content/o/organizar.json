@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "organizar"
+  },
+  "InfP": {
+    "1s": "organizar",
+    "2s": "organizares",
+    "3s": "organizar",
+    "1p": "organizarmos",
+    "2p": "organizardes",
+    "3p": "organizarem"
+  },
+  "Ger": {
+    "": "organizando"
+  },
+  "PresI": {
+    "1s": "organizo",
+    "2s": "organizas",
+    "3s": "organiza",
+    "1p": "organizamos",
+    "2p": "organizais",
+    "3p": "organizam"
+  },
+  "PImpI": {
+    "1s": "organizava",
+    "2s": "organizavas",
+    "3s": "organizava",
+    "1p": "organizávamos",
+    "2p": "organizáveis",
+    "3p": "organizavam"
+  },
+  "PPSI": {
+    "1s": "organizei",
+    "2s": "organizaste",
+    "3s": "organizou",
+    "1p": "organizámos",
+    "2p": "organizastes",
+    "3p": "organizaram"
+  },
+  "PMQPSI": {
+    "1s": "organizara",
+    "2s": "organizaras",
+    "3s": "organizara",
+    "1p": "organizáramos",
+    "2p": "organizáreis",
+    "3p": "organizaram"
+  },
+  "FutSI": {
+    "1s": "organizarei",
+    "2s": "organizarás",
+    "3s": "organizará",
+    "1p": "organizaremos",
+    "2p": "organizareis",
+    "3p": "organizarão"
+  },
+  "CondS": {
+    "1s": "organizaria",
+    "2s": "organizarias",
+    "3s": "organizaria",
+    "1p": "organizaríamos",
+    "2p": "organizaríeis",
+    "3p": "organizariam"
+  },
+  "PresC": {
+    "1s": "organize",
+    "2s": "organizes",
+    "3s": "organize",
+    "1p": "organizemos",
+    "2p": "organizeis",
+    "3p": "organizem"
+  },
+  "PImpC": {
+    "1s": "organizasse",
+    "2s": "organizasses",
+    "3s": "organizasse",
+    "1p": "organizássemos",
+    "2p": "organizásseis",
+    "3p": "organizassem"
+  },
+  "FutSC": {
+    "1s": "organizar",
+    "2s": "organizares",
+    "3s": "organizar",
+    "1p": "organizarmos",
+    "2p": "organizardes",
+    "3p": "organizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "organiza",
+    "3s": "organize",
+    "1p": "organizemos",
+    "2p": "organizai",
+    "3p": "organizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não organizes",
+    "3s": "não organize",
+    "1p": "não organizemos",
+    "2p": "não organizeis",
+    "3p": "não organizem"
+  },
+  "Part-ter": {
+    "": "organizado"
+  },
+  "Part-ser": {
+    "ms": "organizado",
+    "fs": "organizada",
+    "mp": "organizados",
+    "fp": "organizadas"
+  }
+}

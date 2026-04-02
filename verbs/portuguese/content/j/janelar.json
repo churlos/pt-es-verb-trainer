@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "janelar"
+  },
+  "InfP": {
+    "1s": "janelar",
+    "2s": "janelares",
+    "3s": "janelar",
+    "1p": "janelarmos",
+    "2p": "janelardes",
+    "3p": "janelarem"
+  },
+  "Ger": {
+    "": "janelando"
+  },
+  "PresI": {
+    "1s": "janelo",
+    "2s": "janelas",
+    "3s": "janela",
+    "1p": "janelamos",
+    "2p": "janelais",
+    "3p": "janelam"
+  },
+  "PImpI": {
+    "1s": "janelava",
+    "2s": "janelavas",
+    "3s": "janelava",
+    "1p": "janelávamos",
+    "2p": "janeláveis",
+    "3p": "janelavam"
+  },
+  "PPSI": {
+    "1s": "janelei",
+    "2s": "janelaste",
+    "3s": "janelou",
+    "1p": "janelámos",
+    "2p": "janelastes",
+    "3p": "janelaram"
+  },
+  "PMQPSI": {
+    "1s": "janelara",
+    "2s": "janelaras",
+    "3s": "janelara",
+    "1p": "janeláramos",
+    "2p": "janeláreis",
+    "3p": "janelaram"
+  },
+  "FutSI": {
+    "1s": "janelarei",
+    "2s": "janelarás",
+    "3s": "janelará",
+    "1p": "janelaremos",
+    "2p": "janelareis",
+    "3p": "janelarão"
+  },
+  "CondS": {
+    "1s": "janelaria",
+    "2s": "janelarias",
+    "3s": "janelaria",
+    "1p": "janelaríamos",
+    "2p": "janelaríeis",
+    "3p": "janelariam"
+  },
+  "PresC": {
+    "1s": "janele",
+    "2s": "janeles",
+    "3s": "janele",
+    "1p": "janelemos",
+    "2p": "janeleis",
+    "3p": "janelem"
+  },
+  "PImpC": {
+    "1s": "janelasse",
+    "2s": "janelasses",
+    "3s": "janelasse",
+    "1p": "janelássemos",
+    "2p": "janelásseis",
+    "3p": "janelassem"
+  },
+  "FutSC": {
+    "1s": "janelar",
+    "2s": "janelares",
+    "3s": "janelar",
+    "1p": "janelarmos",
+    "2p": "janelardes",
+    "3p": "janelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "janela",
+    "3s": "janele",
+    "1p": "janelemos",
+    "2p": "janelai",
+    "3p": "janelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não janeles",
+    "3s": "não janele",
+    "1p": "não janelemos",
+    "2p": "não janeleis",
+    "3p": "não janelem"
+  },
+  "Part-ter": {
+    "": "janelado"
+  },
+  "Part-ser": {
+    "ms": "janelado",
+    "fs": "janelada",
+    "mp": "janelados",
+    "fp": "janeladas"
+  }
+}

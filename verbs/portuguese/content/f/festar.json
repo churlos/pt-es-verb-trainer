@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "festar"
+  },
+  "InfP": {
+    "1s": "festar",
+    "2s": "festares",
+    "3s": "festar",
+    "1p": "festarmos",
+    "2p": "festardes",
+    "3p": "festarem"
+  },
+  "Ger": {
+    "": "festando"
+  },
+  "PresI": {
+    "1s": "festo",
+    "2s": "festas",
+    "3s": "festa",
+    "1p": "festamos",
+    "2p": "festais",
+    "3p": "festam"
+  },
+  "PImpI": {
+    "1s": "festava",
+    "2s": "festavas",
+    "3s": "festava",
+    "1p": "festávamos",
+    "2p": "festáveis",
+    "3p": "festavam"
+  },
+  "PPSI": {
+    "1s": "festei",
+    "2s": "festaste",
+    "3s": "festou",
+    "1p": "festámos",
+    "2p": "festastes",
+    "3p": "festaram"
+  },
+  "PMQPSI": {
+    "1s": "festara",
+    "2s": "festaras",
+    "3s": "festara",
+    "1p": "festáramos",
+    "2p": "festáreis",
+    "3p": "festaram"
+  },
+  "FutSI": {
+    "1s": "festarei",
+    "2s": "festarás",
+    "3s": "festará",
+    "1p": "festaremos",
+    "2p": "festareis",
+    "3p": "festarão"
+  },
+  "CondS": {
+    "1s": "festaria",
+    "2s": "festarias",
+    "3s": "festaria",
+    "1p": "festaríamos",
+    "2p": "festaríeis",
+    "3p": "festariam"
+  },
+  "PresC": {
+    "1s": "feste",
+    "2s": "festes",
+    "3s": "feste",
+    "1p": "festemos",
+    "2p": "festeis",
+    "3p": "festem"
+  },
+  "PImpC": {
+    "1s": "festasse",
+    "2s": "festasses",
+    "3s": "festasse",
+    "1p": "festássemos",
+    "2p": "festásseis",
+    "3p": "festassem"
+  },
+  "FutSC": {
+    "1s": "festar",
+    "2s": "festares",
+    "3s": "festar",
+    "1p": "festarmos",
+    "2p": "festardes",
+    "3p": "festarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "festa",
+    "3s": "feste",
+    "1p": "festemos",
+    "2p": "festai",
+    "3p": "festem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não festes",
+    "3s": "não feste",
+    "1p": "não festemos",
+    "2p": "não festeis",
+    "3p": "não festem"
+  },
+  "Part-ter": {
+    "": "festado"
+  },
+  "Part-ser": {
+    "ms": "festado",
+    "fs": "festada",
+    "mp": "festados",
+    "fp": "festadas"
+  }
+}

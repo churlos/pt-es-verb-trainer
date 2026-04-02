@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vidrar"
+  },
+  "InfP": {
+    "1s": "vidrar",
+    "2s": "vidrares",
+    "3s": "vidrar",
+    "1p": "vidrarmos",
+    "2p": "vidrardes",
+    "3p": "vidrarem"
+  },
+  "Ger": {
+    "": "vidrando"
+  },
+  "PresI": {
+    "1s": "vidro",
+    "2s": "vidras",
+    "3s": "vidra",
+    "1p": "vidramos",
+    "2p": "vidrais",
+    "3p": "vidram"
+  },
+  "PImpI": {
+    "1s": "vidrava",
+    "2s": "vidravas",
+    "3s": "vidrava",
+    "1p": "vidrávamos",
+    "2p": "vidráveis",
+    "3p": "vidravam"
+  },
+  "PPSI": {
+    "1s": "vidrei",
+    "2s": "vidraste",
+    "3s": "vidrou",
+    "1p": "vidrámos",
+    "2p": "vidrastes",
+    "3p": "vidraram"
+  },
+  "PMQPSI": {
+    "1s": "vidrara",
+    "2s": "vidraras",
+    "3s": "vidrara",
+    "1p": "vidráramos",
+    "2p": "vidráreis",
+    "3p": "vidraram"
+  },
+  "FutSI": {
+    "1s": "vidrarei",
+    "2s": "vidrarás",
+    "3s": "vidrará",
+    "1p": "vidraremos",
+    "2p": "vidrareis",
+    "3p": "vidrarão"
+  },
+  "CondS": {
+    "1s": "vidraria",
+    "2s": "vidrarias",
+    "3s": "vidraria",
+    "1p": "vidraríamos",
+    "2p": "vidraríeis",
+    "3p": "vidrariam"
+  },
+  "PresC": {
+    "1s": "vidre",
+    "2s": "vidres",
+    "3s": "vidre",
+    "1p": "vidremos",
+    "2p": "vidreis",
+    "3p": "vidrem"
+  },
+  "PImpC": {
+    "1s": "vidrasse",
+    "2s": "vidrasses",
+    "3s": "vidrasse",
+    "1p": "vidrássemos",
+    "2p": "vidrásseis",
+    "3p": "vidrassem"
+  },
+  "FutSC": {
+    "1s": "vidrar",
+    "2s": "vidrares",
+    "3s": "vidrar",
+    "1p": "vidrarmos",
+    "2p": "vidrardes",
+    "3p": "vidrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vidra",
+    "3s": "vidre",
+    "1p": "vidremos",
+    "2p": "vidrai",
+    "3p": "vidrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vidres",
+    "3s": "não vidre",
+    "1p": "não vidremos",
+    "2p": "não vidreis",
+    "3p": "não vidrem"
+  },
+  "Part-ter": {
+    "": "vidrado"
+  },
+  "Part-ser": {
+    "ms": "vidrado",
+    "fs": "vidrada",
+    "mp": "vidrados",
+    "fp": "vidradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "raspar"
+  },
+  "InfP": {
+    "1s": "raspar",
+    "2s": "raspares",
+    "3s": "raspar",
+    "1p": "rasparmos",
+    "2p": "raspardes",
+    "3p": "rasparem"
+  },
+  "Ger": {
+    "": "raspando"
+  },
+  "PresI": {
+    "1s": "raspo",
+    "2s": "raspas",
+    "3s": "raspa",
+    "1p": "raspamos",
+    "2p": "raspais",
+    "3p": "raspam"
+  },
+  "PImpI": {
+    "1s": "raspava",
+    "2s": "raspavas",
+    "3s": "raspava",
+    "1p": "raspávamos",
+    "2p": "raspáveis",
+    "3p": "raspavam"
+  },
+  "PPSI": {
+    "1s": "raspei",
+    "2s": "raspaste",
+    "3s": "raspou",
+    "1p": "raspámos",
+    "2p": "raspastes",
+    "3p": "rasparam"
+  },
+  "PMQPSI": {
+    "1s": "raspara",
+    "2s": "rasparas",
+    "3s": "raspara",
+    "1p": "raspáramos",
+    "2p": "raspáreis",
+    "3p": "rasparam"
+  },
+  "FutSI": {
+    "1s": "rasparei",
+    "2s": "rasparás",
+    "3s": "raspará",
+    "1p": "rasparemos",
+    "2p": "raspareis",
+    "3p": "rasparão"
+  },
+  "CondS": {
+    "1s": "rasparia",
+    "2s": "rasparias",
+    "3s": "rasparia",
+    "1p": "rasparíamos",
+    "2p": "rasparíeis",
+    "3p": "raspariam"
+  },
+  "PresC": {
+    "1s": "raspe",
+    "2s": "raspes",
+    "3s": "raspe",
+    "1p": "raspemos",
+    "2p": "raspeis",
+    "3p": "raspem"
+  },
+  "PImpC": {
+    "1s": "raspasse",
+    "2s": "raspasses",
+    "3s": "raspasse",
+    "1p": "raspássemos",
+    "2p": "raspásseis",
+    "3p": "raspassem"
+  },
+  "FutSC": {
+    "1s": "raspar",
+    "2s": "raspares",
+    "3s": "raspar",
+    "1p": "rasparmos",
+    "2p": "raspardes",
+    "3p": "rasparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "raspa",
+    "3s": "raspe",
+    "1p": "raspemos",
+    "2p": "raspai",
+    "3p": "raspem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não raspes",
+    "3s": "não raspe",
+    "1p": "não raspemos",
+    "2p": "não raspeis",
+    "3p": "não raspem"
+  },
+  "Part-ter": {
+    "": "raspado"
+  },
+  "Part-ser": {
+    "ms": "raspado",
+    "fs": "raspada",
+    "mp": "raspados",
+    "fp": "raspadas"
+  }
+}

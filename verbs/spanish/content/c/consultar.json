@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "consultar"
+  },
+  "Ger": {
+    "": "consultando"
+  },
+  "PresI": {
+    "1s": "consulto",
+    "2s": "consultas",
+    "3s": "consulta",
+    "1p": "consultamos",
+    "2p": "consultáis",
+    "3p": "consultan"
+  },
+  "PImpI": {
+    "1s": "consultaba",
+    "2s": "consultabas",
+    "3s": "consultaba",
+    "1p": "consultábamos",
+    "2p": "consultabais",
+    "3p": "consultaban"
+  },
+  "PPSI": {
+    "1s": "consulté",
+    "2s": "consultaste",
+    "3s": "consultó",
+    "1p": "consultamos",
+    "2p": "consultasteis",
+    "3p": "consultaron"
+  },
+  "FutSI": {
+    "1s": "consultaré",
+    "2s": "consultarás",
+    "3s": "consultará",
+    "1p": "consultaremos",
+    "2p": "consultaréis",
+    "3p": "consultarán"
+  },
+  "CondS": {
+    "1s": "consultaría",
+    "2s": "consultarías",
+    "3s": "consultaría",
+    "1p": "consultaríamos",
+    "2p": "consultaríais",
+    "3p": "consultarían"
+  },
+  "PresC": {
+    "1s": "consulte",
+    "2s": "consultes",
+    "3s": "consulte",
+    "1p": "consultemos",
+    "2p": "consultéis",
+    "3p": "consulten"
+  },
+  "PMQPSI": {
+    "1s": "consultara",
+    "2s": "consultaras",
+    "3s": "consultara",
+    "1p": "consultáramos",
+    "2p": "consultarais",
+    "3p": "consultaran"
+  },
+  "PImpC": {
+    "1s": "consultase",
+    "2s": "consultases",
+    "3s": "consultase",
+    "1p": "consultásemos",
+    "2p": "consultaseis",
+    "3p": "consultasen"
+  },
+  "FutSC": {
+    "1s": "consultare",
+    "2s": "consultares",
+    "3s": "consultare",
+    "1p": "consultáremos",
+    "2p": "consultareis",
+    "3p": "consultaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "consulta",
+    "3s": "consulte",
+    "1p": "consultemos",
+    "2p": "consultad",
+    "3p": "consulten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no consultes",
+    "3s": "no consulte",
+    "1p": "no consultemos",
+    "2p": "no consultéis",
+    "3p": "no consulten"
+  },
+  "Part-ter": {
+    "": "consultado"
+  },
+  "Part-ser": {
+    "ms": "consultado",
+    "fs": "consultada",
+    "mp": "consultados",
+    "fp": "consultadas"
+  }
+}

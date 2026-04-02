@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoidentificarse"
+  },
+  "Ger": {
+    "": "autoidentificándose"
+  },
+  "PresI": {
+    "1s": "me autoidentifico",
+    "2s": "te autoidentificas",
+    "3s": "se autoidentifica",
+    "1p": "nos autoidentificamos",
+    "2p": "os autoidentificáis",
+    "3p": "se autoidentifican"
+  },
+  "PImpI": {
+    "1s": "me autoidentificaba",
+    "2s": "te autoidentificabas",
+    "3s": "se autoidentificaba",
+    "1p": "nos autoidentificábamos",
+    "2p": "os autoidentificabais",
+    "3p": "se autoidentificaban"
+  },
+  "PPSI": {
+    "1s": "me autoidentifiqué",
+    "2s": "te autoidentificaste",
+    "3s": "se autoidentificó",
+    "1p": "nos autoidentificamos",
+    "2p": "os autoidentificasteis",
+    "3p": "se autoidentificaron"
+  },
+  "FutSI": {
+    "1s": "me autoidentificaré",
+    "2s": "te autoidentificarás",
+    "3s": "se autoidentificará",
+    "1p": "nos autoidentificaremos",
+    "2p": "os autoidentificaréis",
+    "3p": "se autoidentificarán"
+  },
+  "CondS": {
+    "1s": "me autoidentificaría",
+    "2s": "te autoidentificarías",
+    "3s": "se autoidentificaría",
+    "1p": "nos autoidentificaríamos",
+    "2p": "os autoidentificaríais",
+    "3p": "se autoidentificarían"
+  },
+  "PresC": {
+    "1s": "me autoidentifique",
+    "2s": "te autoidentifiques",
+    "3s": "se autoidentifique",
+    "1p": "nos autoidentifiquemos",
+    "2p": "os autoidentifiquéis",
+    "3p": "se autoidentifiquen"
+  },
+  "PMQPSI": {
+    "1s": "me autoidentificara",
+    "2s": "te autoidentificaras",
+    "3s": "se autoidentificara",
+    "1p": "nos autoidentificáramos",
+    "2p": "os autoidentificarais",
+    "3p": "se autoidentificaran"
+  },
+  "PImpC": {
+    "1s": "me autoidentificase",
+    "2s": "te autoidentificases",
+    "3s": "se autoidentificase",
+    "1p": "nos autoidentificásemos",
+    "2p": "os autoidentificaseis",
+    "3p": "se autoidentificasen"
+  },
+  "FutSC": {
+    "1s": "me autoidentificare",
+    "2s": "te autoidentificares",
+    "3s": "se autoidentificare",
+    "1p": "nos autoidentificáremos",
+    "2p": "os autoidentificareis",
+    "3p": "se autoidentificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoidentifícate",
+    "3s": "autoidentifíquese",
+    "1p": "autoidentifiquémonos",
+    "2p": "autoidentificaos",
+    "3p": "autoidentifíquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoidentifiques",
+    "3s": "no se autoidentifique",
+    "1p": "no nos autoidentifiquemos",
+    "2p": "no os autoidentifiquéis",
+    "3p": "no se autoidentifiquen"
+  },
+  "Part-ter": {
+    "": "autoidentificado"
+  },
+  "Part-ser": {
+    "ms": "autoidentificado",
+    "fs": "autoidentificada",
+    "mp": "autoidentificados",
+    "fp": "autoidentificadas"
+  }
+}

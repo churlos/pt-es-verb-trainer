@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "surrar"
+  },
+  "InfP": {
+    "1s": "surrar",
+    "2s": "surrares",
+    "3s": "surrar",
+    "1p": "surrarmos",
+    "2p": "surrardes",
+    "3p": "surrarem"
+  },
+  "Ger": {
+    "": "surrando"
+  },
+  "PresI": {
+    "1s": "surro",
+    "2s": "surras",
+    "3s": "surra",
+    "1p": "surramos",
+    "2p": "surrais",
+    "3p": "surram"
+  },
+  "PImpI": {
+    "1s": "surrava",
+    "2s": "surravas",
+    "3s": "surrava",
+    "1p": "surrávamos",
+    "2p": "surráveis",
+    "3p": "surravam"
+  },
+  "PPSI": {
+    "1s": "surrei",
+    "2s": "surraste",
+    "3s": "surrou",
+    "1p": "surrámos",
+    "2p": "surrastes",
+    "3p": "surraram"
+  },
+  "PMQPSI": {
+    "1s": "surrara",
+    "2s": "surraras",
+    "3s": "surrara",
+    "1p": "surráramos",
+    "2p": "surráreis",
+    "3p": "surraram"
+  },
+  "FutSI": {
+    "1s": "surrarei",
+    "2s": "surrarás",
+    "3s": "surrará",
+    "1p": "surraremos",
+    "2p": "surrareis",
+    "3p": "surrarão"
+  },
+  "CondS": {
+    "1s": "surraria",
+    "2s": "surrarias",
+    "3s": "surraria",
+    "1p": "surraríamos",
+    "2p": "surraríeis",
+    "3p": "surrariam"
+  },
+  "PresC": {
+    "1s": "surre",
+    "2s": "surres",
+    "3s": "surre",
+    "1p": "surremos",
+    "2p": "surreis",
+    "3p": "surrem"
+  },
+  "PImpC": {
+    "1s": "surrasse",
+    "2s": "surrasses",
+    "3s": "surrasse",
+    "1p": "surrássemos",
+    "2p": "surrásseis",
+    "3p": "surrassem"
+  },
+  "FutSC": {
+    "1s": "surrar",
+    "2s": "surrares",
+    "3s": "surrar",
+    "1p": "surrarmos",
+    "2p": "surrardes",
+    "3p": "surrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "surra",
+    "3s": "surre",
+    "1p": "surremos",
+    "2p": "surrai",
+    "3p": "surrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não surres",
+    "3s": "não surre",
+    "1p": "não surremos",
+    "2p": "não surreis",
+    "3p": "não surrem"
+  },
+  "Part-ter": {
+    "": "surrado"
+  },
+  "Part-ser": {
+    "ms": "surrado",
+    "fs": "surrada",
+    "mp": "surrados",
+    "fp": "surradas"
+  }
+}

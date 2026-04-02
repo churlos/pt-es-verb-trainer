@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alternar"
+  },
+  "InfP": {
+    "1s": "alternar",
+    "2s": "alternares",
+    "3s": "alternar",
+    "1p": "alternarmos",
+    "2p": "alternardes",
+    "3p": "alternarem"
+  },
+  "Ger": {
+    "": "alternando"
+  },
+  "PresI": {
+    "1s": "alterno",
+    "2s": "alternas",
+    "3s": "alterna",
+    "1p": "alternamos",
+    "2p": "alternais",
+    "3p": "alternam"
+  },
+  "PImpI": {
+    "1s": "alternava",
+    "2s": "alternavas",
+    "3s": "alternava",
+    "1p": "alternávamos",
+    "2p": "alternáveis",
+    "3p": "alternavam"
+  },
+  "PPSI": {
+    "1s": "alternei",
+    "2s": "alternaste",
+    "3s": "alternou",
+    "1p": "alternámos",
+    "2p": "alternastes",
+    "3p": "alternaram"
+  },
+  "PMQPSI": {
+    "1s": "alternara",
+    "2s": "alternaras",
+    "3s": "alternara",
+    "1p": "alternáramos",
+    "2p": "alternáreis",
+    "3p": "alternaram"
+  },
+  "FutSI": {
+    "1s": "alternarei",
+    "2s": "alternarás",
+    "3s": "alternará",
+    "1p": "alternaremos",
+    "2p": "alternareis",
+    "3p": "alternarão"
+  },
+  "CondS": {
+    "1s": "alternaria",
+    "2s": "alternarias",
+    "3s": "alternaria",
+    "1p": "alternaríamos",
+    "2p": "alternaríeis",
+    "3p": "alternariam"
+  },
+  "PresC": {
+    "1s": "alterne",
+    "2s": "alternes",
+    "3s": "alterne",
+    "1p": "alternemos",
+    "2p": "alterneis",
+    "3p": "alternem"
+  },
+  "PImpC": {
+    "1s": "alternasse",
+    "2s": "alternasses",
+    "3s": "alternasse",
+    "1p": "alternássemos",
+    "2p": "alternásseis",
+    "3p": "alternassem"
+  },
+  "FutSC": {
+    "1s": "alternar",
+    "2s": "alternares",
+    "3s": "alternar",
+    "1p": "alternarmos",
+    "2p": "alternardes",
+    "3p": "alternarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alterna",
+    "3s": "alterne",
+    "1p": "alternemos",
+    "2p": "alternai",
+    "3p": "alternem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alternes",
+    "3s": "não alterne",
+    "1p": "não alternemos",
+    "2p": "não alterneis",
+    "3p": "não alternem"
+  },
+  "Part-ter": {
+    "": "alternado"
+  },
+  "Part-ser": {
+    "ms": "alternado",
+    "fs": "alternada",
+    "mp": "alternados",
+    "fp": "alternadas"
+  }
+}

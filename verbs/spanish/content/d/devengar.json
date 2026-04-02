@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "devengar"
+  },
+  "Ger": {
+    "": "devengando"
+  },
+  "PresI": {
+    "1s": "devengo",
+    "2s": "devengas",
+    "3s": "devenga",
+    "1p": "devengamos",
+    "2p": "devengáis",
+    "3p": "devengan"
+  },
+  "PImpI": {
+    "1s": "devengaba",
+    "2s": "devengabas",
+    "3s": "devengaba",
+    "1p": "devengábamos",
+    "2p": "devengabais",
+    "3p": "devengaban"
+  },
+  "PPSI": {
+    "1s": "devengué",
+    "2s": "devengaste",
+    "3s": "devengó",
+    "1p": "devengamos",
+    "2p": "devengasteis",
+    "3p": "devengaron"
+  },
+  "FutSI": {
+    "1s": "devengaré",
+    "2s": "devengarás",
+    "3s": "devengará",
+    "1p": "devengaremos",
+    "2p": "devengaréis",
+    "3p": "devengarán"
+  },
+  "CondS": {
+    "1s": "devengaría",
+    "2s": "devengarías",
+    "3s": "devengaría",
+    "1p": "devengaríamos",
+    "2p": "devengaríais",
+    "3p": "devengarían"
+  },
+  "PresC": {
+    "1s": "devengue",
+    "2s": "devengues",
+    "3s": "devengue",
+    "1p": "devenguemos",
+    "2p": "devenguéis",
+    "3p": "devenguen"
+  },
+  "PMQPSI": {
+    "1s": "devengara",
+    "2s": "devengaras",
+    "3s": "devengara",
+    "1p": "devengáramos",
+    "2p": "devengarais",
+    "3p": "devengaran"
+  },
+  "PImpC": {
+    "1s": "devengase",
+    "2s": "devengases",
+    "3s": "devengase",
+    "1p": "devengásemos",
+    "2p": "devengaseis",
+    "3p": "devengasen"
+  },
+  "FutSC": {
+    "1s": "devengare",
+    "2s": "devengares",
+    "3s": "devengare",
+    "1p": "devengáremos",
+    "2p": "devengareis",
+    "3p": "devengaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devenga",
+    "3s": "devengue",
+    "1p": "devenguemos",
+    "2p": "devengad",
+    "3p": "devenguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no devengues",
+    "3s": "no devengue",
+    "1p": "no devenguemos",
+    "2p": "no devenguéis",
+    "3p": "no devenguen"
+  },
+  "Part-ter": {
+    "": "devengado"
+  },
+  "Part-ser": {
+    "ms": "devengado",
+    "fs": "devengada",
+    "mp": "devengados",
+    "fp": "devengadas"
+  }
+}

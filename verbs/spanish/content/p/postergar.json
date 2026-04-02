@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "postergar"
+  },
+  "Ger": {
+    "": "postergando"
+  },
+  "PresI": {
+    "1s": "postergo",
+    "2s": "postergas",
+    "3s": "posterga",
+    "1p": "postergamos",
+    "2p": "postergáis",
+    "3p": "postergan"
+  },
+  "PImpI": {
+    "1s": "postergaba",
+    "2s": "postergabas",
+    "3s": "postergaba",
+    "1p": "postergábamos",
+    "2p": "postergabais",
+    "3p": "postergaban"
+  },
+  "PPSI": {
+    "1s": "postergué",
+    "2s": "postergaste",
+    "3s": "postergó",
+    "1p": "postergamos",
+    "2p": "postergasteis",
+    "3p": "postergaron"
+  },
+  "FutSI": {
+    "1s": "postergaré",
+    "2s": "postergarás",
+    "3s": "postergará",
+    "1p": "postergaremos",
+    "2p": "postergaréis",
+    "3p": "postergarán"
+  },
+  "CondS": {
+    "1s": "postergaría",
+    "2s": "postergarías",
+    "3s": "postergaría",
+    "1p": "postergaríamos",
+    "2p": "postergaríais",
+    "3p": "postergarían"
+  },
+  "PresC": {
+    "1s": "postergue",
+    "2s": "postergues",
+    "3s": "postergue",
+    "1p": "posterguemos",
+    "2p": "posterguéis",
+    "3p": "posterguen"
+  },
+  "PMQPSI": {
+    "1s": "postergara",
+    "2s": "postergaras",
+    "3s": "postergara",
+    "1p": "postergáramos",
+    "2p": "postergarais",
+    "3p": "postergaran"
+  },
+  "PImpC": {
+    "1s": "postergase",
+    "2s": "postergases",
+    "3s": "postergase",
+    "1p": "postergásemos",
+    "2p": "postergaseis",
+    "3p": "postergasen"
+  },
+  "FutSC": {
+    "1s": "postergare",
+    "2s": "postergares",
+    "3s": "postergare",
+    "1p": "postergáremos",
+    "2p": "postergareis",
+    "3p": "postergaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "posterga",
+    "3s": "postergue",
+    "1p": "posterguemos",
+    "2p": "postergad",
+    "3p": "posterguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no postergues",
+    "3s": "no postergue",
+    "1p": "no posterguemos",
+    "2p": "no posterguéis",
+    "3p": "no posterguen"
+  },
+  "Part-ter": {
+    "": "postergado"
+  },
+  "Part-ser": {
+    "ms": "postergado",
+    "fs": "postergada",
+    "mp": "postergados",
+    "fp": "postergadas"
+  }
+}

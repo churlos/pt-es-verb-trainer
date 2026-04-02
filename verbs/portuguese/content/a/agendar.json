@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agendar"
+  },
+  "InfP": {
+    "1s": "agendar",
+    "2s": "agendares",
+    "3s": "agendar",
+    "1p": "agendarmos",
+    "2p": "agendardes",
+    "3p": "agendarem"
+  },
+  "Ger": {
+    "": "agendando"
+  },
+  "PresI": {
+    "1s": "agendo",
+    "2s": "agendas",
+    "3s": "agenda",
+    "1p": "agendamos",
+    "2p": "agendais",
+    "3p": "agendam"
+  },
+  "PImpI": {
+    "1s": "agendava",
+    "2s": "agendavas",
+    "3s": "agendava",
+    "1p": "agendávamos",
+    "2p": "agendáveis",
+    "3p": "agendavam"
+  },
+  "PPSI": {
+    "1s": "agendei",
+    "2s": "agendaste",
+    "3s": "agendou",
+    "1p": "agendámos",
+    "2p": "agendastes",
+    "3p": "agendaram"
+  },
+  "PMQPSI": {
+    "1s": "agendara",
+    "2s": "agendaras",
+    "3s": "agendara",
+    "1p": "agendáramos",
+    "2p": "agendáreis",
+    "3p": "agendaram"
+  },
+  "FutSI": {
+    "1s": "agendarei",
+    "2s": "agendarás",
+    "3s": "agendará",
+    "1p": "agendaremos",
+    "2p": "agendareis",
+    "3p": "agendarão"
+  },
+  "CondS": {
+    "1s": "agendaria",
+    "2s": "agendarias",
+    "3s": "agendaria",
+    "1p": "agendaríamos",
+    "2p": "agendaríeis",
+    "3p": "agendariam"
+  },
+  "PresC": {
+    "1s": "agende",
+    "2s": "agendes",
+    "3s": "agende",
+    "1p": "agendemos",
+    "2p": "agendeis",
+    "3p": "agendem"
+  },
+  "PImpC": {
+    "1s": "agendasse",
+    "2s": "agendasses",
+    "3s": "agendasse",
+    "1p": "agendássemos",
+    "2p": "agendásseis",
+    "3p": "agendassem"
+  },
+  "FutSC": {
+    "1s": "agendar",
+    "2s": "agendares",
+    "3s": "agendar",
+    "1p": "agendarmos",
+    "2p": "agendardes",
+    "3p": "agendarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agenda",
+    "3s": "agende",
+    "1p": "agendemos",
+    "2p": "agendai",
+    "3p": "agendem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agendes",
+    "3s": "não agende",
+    "1p": "não agendemos",
+    "2p": "não agendeis",
+    "3p": "não agendem"
+  },
+  "Part-ter": {
+    "": "agendado"
+  },
+  "Part-ser": {
+    "ms": "agendado",
+    "fs": "agendada",
+    "mp": "agendados",
+    "fp": "agendadas"
+  }
+}

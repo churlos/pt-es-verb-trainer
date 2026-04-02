@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "activar"
+  },
+  "Ger": {
+    "": "activando"
+  },
+  "PresI": {
+    "1s": "activo",
+    "2s": "activas",
+    "3s": "activa",
+    "1p": "activamos",
+    "2p": "activáis",
+    "3p": "activan"
+  },
+  "PImpI": {
+    "1s": "activaba",
+    "2s": "activabas",
+    "3s": "activaba",
+    "1p": "activábamos",
+    "2p": "activabais",
+    "3p": "activaban"
+  },
+  "PPSI": {
+    "1s": "activé",
+    "2s": "activaste",
+    "3s": "activó",
+    "1p": "activamos",
+    "2p": "activasteis",
+    "3p": "activaron"
+  },
+  "FutSI": {
+    "1s": "activaré",
+    "2s": "activarás",
+    "3s": "activará",
+    "1p": "activaremos",
+    "2p": "activaréis",
+    "3p": "activarán"
+  },
+  "CondS": {
+    "1s": "activaría",
+    "2s": "activarías",
+    "3s": "activaría",
+    "1p": "activaríamos",
+    "2p": "activaríais",
+    "3p": "activarían"
+  },
+  "PresC": {
+    "1s": "active",
+    "2s": "actives",
+    "3s": "active",
+    "1p": "activemos",
+    "2p": "activéis",
+    "3p": "activen"
+  },
+  "PMQPSI": {
+    "1s": "activara",
+    "2s": "activaras",
+    "3s": "activara",
+    "1p": "activáramos",
+    "2p": "activarais",
+    "3p": "activaran"
+  },
+  "PImpC": {
+    "1s": "activase",
+    "2s": "activases",
+    "3s": "activase",
+    "1p": "activásemos",
+    "2p": "activaseis",
+    "3p": "activasen"
+  },
+  "FutSC": {
+    "1s": "activare",
+    "2s": "activares",
+    "3s": "activare",
+    "1p": "activáremos",
+    "2p": "activareis",
+    "3p": "activaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "activa",
+    "3s": "active",
+    "1p": "activemos",
+    "2p": "activad",
+    "3p": "activen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no actives",
+    "3s": "no active",
+    "1p": "no activemos",
+    "2p": "no activéis",
+    "3p": "no activen"
+  },
+  "Part-ter": {
+    "": "activado"
+  },
+  "Part-ser": {
+    "ms": "activado",
+    "fs": "activada",
+    "mp": "activados",
+    "fp": "activadas"
+  }
+}

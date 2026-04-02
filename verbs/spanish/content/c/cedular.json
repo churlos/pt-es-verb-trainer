@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cedular"
+  },
+  "Ger": {
+    "": "cedulando"
+  },
+  "PresI": {
+    "1s": "cedulo",
+    "2s": "cedulas",
+    "3s": "cedula",
+    "1p": "cedulamos",
+    "2p": "ceduláis",
+    "3p": "cedulan"
+  },
+  "PImpI": {
+    "1s": "cedulaba",
+    "2s": "cedulabas",
+    "3s": "cedulaba",
+    "1p": "cedulábamos",
+    "2p": "cedulabais",
+    "3p": "cedulaban"
+  },
+  "PPSI": {
+    "1s": "cedulé",
+    "2s": "cedulaste",
+    "3s": "ceduló",
+    "1p": "cedulamos",
+    "2p": "cedulasteis",
+    "3p": "cedularon"
+  },
+  "FutSI": {
+    "1s": "cedularé",
+    "2s": "cedularás",
+    "3s": "cedulará",
+    "1p": "cedularemos",
+    "2p": "cedularéis",
+    "3p": "cedularán"
+  },
+  "CondS": {
+    "1s": "cedularía",
+    "2s": "cedularías",
+    "3s": "cedularía",
+    "1p": "cedularíamos",
+    "2p": "cedularíais",
+    "3p": "cedularían"
+  },
+  "PresC": {
+    "1s": "cedule",
+    "2s": "cedules",
+    "3s": "cedule",
+    "1p": "cedulemos",
+    "2p": "ceduléis",
+    "3p": "cedulen"
+  },
+  "PMQPSI": {
+    "1s": "cedulara",
+    "2s": "cedularas",
+    "3s": "cedulara",
+    "1p": "ceduláramos",
+    "2p": "cedularais",
+    "3p": "cedularan"
+  },
+  "PImpC": {
+    "1s": "cedulase",
+    "2s": "cedulases",
+    "3s": "cedulase",
+    "1p": "cedulásemos",
+    "2p": "cedulaseis",
+    "3p": "cedulasen"
+  },
+  "FutSC": {
+    "1s": "cedulare",
+    "2s": "cedulares",
+    "3s": "cedulare",
+    "1p": "ceduláremos",
+    "2p": "cedulareis",
+    "3p": "cedularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cedula",
+    "3s": "cedule",
+    "1p": "cedulemos",
+    "2p": "cedulad",
+    "3p": "cedulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cedules",
+    "3s": "no cedule",
+    "1p": "no cedulemos",
+    "2p": "no ceduléis",
+    "3p": "no cedulen"
+  },
+  "Part-ter": {
+    "": "cedulado"
+  },
+  "Part-ser": {
+    "ms": "cedulado",
+    "fs": "cedulada",
+    "mp": "cedulados",
+    "fp": "ceduladas"
+  }
+}

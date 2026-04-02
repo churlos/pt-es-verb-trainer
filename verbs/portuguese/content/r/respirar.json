@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "respirar"
+  },
+  "InfP": {
+    "1s": "respirar",
+    "2s": "respirares",
+    "3s": "respirar",
+    "1p": "respirarmos",
+    "2p": "respirardes",
+    "3p": "respirarem"
+  },
+  "Ger": {
+    "": "respirando"
+  },
+  "PresI": {
+    "1s": "respiro",
+    "2s": "respiras",
+    "3s": "respira",
+    "1p": "respiramos",
+    "2p": "respirais",
+    "3p": "respiram"
+  },
+  "PImpI": {
+    "1s": "respirava",
+    "2s": "respiravas",
+    "3s": "respirava",
+    "1p": "respirávamos",
+    "2p": "respiráveis",
+    "3p": "respiravam"
+  },
+  "PPSI": {
+    "1s": "respirei",
+    "2s": "respiraste",
+    "3s": "respirou",
+    "1p": "respirámos",
+    "2p": "respirastes",
+    "3p": "respiraram"
+  },
+  "PMQPSI": {
+    "1s": "respirara",
+    "2s": "respiraras",
+    "3s": "respirara",
+    "1p": "respiráramos",
+    "2p": "respiráreis",
+    "3p": "respiraram"
+  },
+  "FutSI": {
+    "1s": "respirarei",
+    "2s": "respirarás",
+    "3s": "respirará",
+    "1p": "respiraremos",
+    "2p": "respirareis",
+    "3p": "respirarão"
+  },
+  "CondS": {
+    "1s": "respiraria",
+    "2s": "respirarias",
+    "3s": "respiraria",
+    "1p": "respiraríamos",
+    "2p": "respiraríeis",
+    "3p": "respirariam"
+  },
+  "PresC": {
+    "1s": "respire",
+    "2s": "respires",
+    "3s": "respire",
+    "1p": "respiremos",
+    "2p": "respireis",
+    "3p": "respirem"
+  },
+  "PImpC": {
+    "1s": "respirasse",
+    "2s": "respirasses",
+    "3s": "respirasse",
+    "1p": "respirássemos",
+    "2p": "respirásseis",
+    "3p": "respirassem"
+  },
+  "FutSC": {
+    "1s": "respirar",
+    "2s": "respirares",
+    "3s": "respirar",
+    "1p": "respirarmos",
+    "2p": "respirardes",
+    "3p": "respirarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "respira",
+    "3s": "respire",
+    "1p": "respiremos",
+    "2p": "respirai",
+    "3p": "respirem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não respires",
+    "3s": "não respire",
+    "1p": "não respiremos",
+    "2p": "não respireis",
+    "3p": "não respirem"
+  },
+  "Part-ter": {
+    "": "respirado"
+  },
+  "Part-ser": {
+    "ms": "respirado",
+    "fs": "respirada",
+    "mp": "respirados",
+    "fp": "respiradas"
+  }
+}

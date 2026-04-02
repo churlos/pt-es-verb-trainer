@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "livrar"
+  },
+  "InfP": {
+    "1s": "livrar",
+    "2s": "livrares",
+    "3s": "livrar",
+    "1p": "livrarmos",
+    "2p": "livrardes",
+    "3p": "livrarem"
+  },
+  "Ger": {
+    "": "livrando"
+  },
+  "PresI": {
+    "1s": "livro",
+    "2s": "livras",
+    "3s": "livra",
+    "1p": "livramos",
+    "2p": "livrais",
+    "3p": "livram"
+  },
+  "PImpI": {
+    "1s": "livrava",
+    "2s": "livravas",
+    "3s": "livrava",
+    "1p": "livrávamos",
+    "2p": "livráveis",
+    "3p": "livravam"
+  },
+  "PPSI": {
+    "1s": "livrei",
+    "2s": "livraste",
+    "3s": "livrou",
+    "1p": "livrámos",
+    "2p": "livrastes",
+    "3p": "livraram"
+  },
+  "PMQPSI": {
+    "1s": "livrara",
+    "2s": "livraras",
+    "3s": "livrara",
+    "1p": "livráramos",
+    "2p": "livráreis",
+    "3p": "livraram"
+  },
+  "FutSI": {
+    "1s": "livrarei",
+    "2s": "livrarás",
+    "3s": "livrará",
+    "1p": "livraremos",
+    "2p": "livrareis",
+    "3p": "livrarão"
+  },
+  "CondS": {
+    "1s": "livraria",
+    "2s": "livrarias",
+    "3s": "livraria",
+    "1p": "livraríamos",
+    "2p": "livraríeis",
+    "3p": "livrariam"
+  },
+  "PresC": {
+    "1s": "livre",
+    "2s": "livres",
+    "3s": "livre",
+    "1p": "livremos",
+    "2p": "livreis",
+    "3p": "livrem"
+  },
+  "PImpC": {
+    "1s": "livrasse",
+    "2s": "livrasses",
+    "3s": "livrasse",
+    "1p": "livrássemos",
+    "2p": "livrásseis",
+    "3p": "livrassem"
+  },
+  "FutSC": {
+    "1s": "livrar",
+    "2s": "livrares",
+    "3s": "livrar",
+    "1p": "livrarmos",
+    "2p": "livrardes",
+    "3p": "livrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "livra",
+    "3s": "livre",
+    "1p": "livremos",
+    "2p": "livrai",
+    "3p": "livrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não livres",
+    "3s": "não livre",
+    "1p": "não livremos",
+    "2p": "não livreis",
+    "3p": "não livrem"
+  },
+  "Part-ter": {
+    "": "livrado"
+  },
+  "Part-ser": {
+    "ms": "livrado",
+    "fs": "livrada",
+    "mp": "livrados",
+    "fp": "livradas"
+  }
+}

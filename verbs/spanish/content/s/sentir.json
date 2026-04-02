@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sentir"
+  },
+  "Ger": {
+    "": "sintiendo"
+  },
+  "PresI": {
+    "1s": "siento",
+    "2s": "sientes",
+    "3s": "siente",
+    "1p": "sentimos",
+    "2p": "sentís",
+    "3p": "sienten"
+  },
+  "PImpI": {
+    "1s": "sentía",
+    "2s": "sentías",
+    "3s": "sentía",
+    "1p": "sentíamos",
+    "2p": "sentíais",
+    "3p": "sentían"
+  },
+  "PPSI": {
+    "1s": "sentí",
+    "2s": "sentiste",
+    "3s": "sintió",
+    "1p": "sentimos",
+    "2p": "sentisteis",
+    "3p": "sintieron"
+  },
+  "FutSI": {
+    "1s": "sentiré",
+    "2s": "sentirás",
+    "3s": "sentirá",
+    "1p": "sentiremos",
+    "2p": "sentiréis",
+    "3p": "sentirán"
+  },
+  "CondS": {
+    "1s": "sentiría",
+    "2s": "sentirías",
+    "3s": "sentiría",
+    "1p": "sentiríamos",
+    "2p": "sentiríais",
+    "3p": "sentirían"
+  },
+  "PresC": {
+    "1s": "sienta",
+    "2s": "sientas",
+    "3s": "sienta",
+    "1p": "sintamos",
+    "2p": "sintáis",
+    "3p": "sientan"
+  },
+  "PMQPSI": {
+    "1s": "sintiera",
+    "2s": "sintieras",
+    "3s": "sintiera",
+    "1p": "sintiéramos",
+    "2p": "sintierais",
+    "3p": "sintieran"
+  },
+  "PImpC": {
+    "1s": "sintiese",
+    "2s": "sintieses",
+    "3s": "sintiese",
+    "1p": "sintiésemos",
+    "2p": "sintieseis",
+    "3p": "sintiesen"
+  },
+  "FutSC": {
+    "1s": "sintiere",
+    "2s": "sintieres",
+    "3s": "sintiere",
+    "1p": "sintiéremos",
+    "2p": "sintiereis",
+    "3p": "sintieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "siente",
+    "3s": "sienta",
+    "1p": "sintamos",
+    "2p": "sentid",
+    "3p": "sientan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sientas",
+    "3s": "no sienta",
+    "1p": "no sintamos",
+    "2p": "no sintáis",
+    "3p": "no sientan"
+  },
+  "Part-ter": {
+    "": "sentido"
+  },
+  "Part-ser": {
+    "ms": "sentido",
+    "fs": "sentida",
+    "mp": "sentidos",
+    "fp": "sentidas"
+  }
+}

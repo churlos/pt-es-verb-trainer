@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "intermediar"
+  },
+  "Ger": {
+    "": "intermediando"
+  },
+  "PresI": {
+    "1s": "intermedio",
+    "2s": "intermedias",
+    "3s": "intermedia",
+    "1p": "intermediamos",
+    "2p": "intermediáis",
+    "3p": "intermedian"
+  },
+  "PImpI": {
+    "1s": "intermediaba",
+    "2s": "intermediabas",
+    "3s": "intermediaba",
+    "1p": "intermediábamos",
+    "2p": "intermediabais",
+    "3p": "intermediaban"
+  },
+  "PPSI": {
+    "1s": "intermedié",
+    "2s": "intermediaste",
+    "3s": "intermedió",
+    "1p": "intermediamos",
+    "2p": "intermediasteis",
+    "3p": "intermediaron"
+  },
+  "FutSI": {
+    "1s": "intermediaré",
+    "2s": "intermediarás",
+    "3s": "intermediará",
+    "1p": "intermediaremos",
+    "2p": "intermediaréis",
+    "3p": "intermediarán"
+  },
+  "CondS": {
+    "1s": "intermediaría",
+    "2s": "intermediarías",
+    "3s": "intermediaría",
+    "1p": "intermediaríamos",
+    "2p": "intermediaríais",
+    "3p": "intermediarían"
+  },
+  "PresC": {
+    "1s": "intermedie",
+    "2s": "intermedies",
+    "3s": "intermedie",
+    "1p": "intermediemos",
+    "2p": "intermediéis",
+    "3p": "intermedien"
+  },
+  "PMQPSI": {
+    "1s": "intermediara",
+    "2s": "intermediaras",
+    "3s": "intermediara",
+    "1p": "intermediáramos",
+    "2p": "intermediarais",
+    "3p": "intermediaran"
+  },
+  "PImpC": {
+    "1s": "intermediase",
+    "2s": "intermediases",
+    "3s": "intermediase",
+    "1p": "intermediásemos",
+    "2p": "intermediaseis",
+    "3p": "intermediasen"
+  },
+  "FutSC": {
+    "1s": "intermediare",
+    "2s": "intermediares",
+    "3s": "intermediare",
+    "1p": "intermediáremos",
+    "2p": "intermediareis",
+    "3p": "intermediaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intermedia",
+    "3s": "intermedie",
+    "1p": "intermediemos",
+    "2p": "intermediad",
+    "3p": "intermedien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no intermedies",
+    "3s": "no intermedie",
+    "1p": "no intermediemos",
+    "2p": "no intermediéis",
+    "3p": "no intermedien"
+  },
+  "Part-ter": {
+    "": "intermediado"
+  },
+  "Part-ser": {
+    "ms": "intermediado",
+    "fs": "intermediada",
+    "mp": "intermediados",
+    "fp": "intermediadas"
+  }
+}

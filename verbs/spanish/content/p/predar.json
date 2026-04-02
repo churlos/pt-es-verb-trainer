@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "predar"
+  },
+  "Ger": {
+    "": "predando"
+  },
+  "PresI": {
+    "1s": "predo",
+    "2s": "predas",
+    "3s": "preda",
+    "1p": "predamos",
+    "2p": "predáis",
+    "3p": "predan"
+  },
+  "PImpI": {
+    "1s": "predaba",
+    "2s": "predabas",
+    "3s": "predaba",
+    "1p": "predábamos",
+    "2p": "predabais",
+    "3p": "predaban"
+  },
+  "PPSI": {
+    "1s": "predé",
+    "2s": "predaste",
+    "3s": "predó",
+    "1p": "predamos",
+    "2p": "predasteis",
+    "3p": "predaron"
+  },
+  "FutSI": {
+    "1s": "predaré",
+    "2s": "predarás",
+    "3s": "predará",
+    "1p": "predaremos",
+    "2p": "predaréis",
+    "3p": "predarán"
+  },
+  "CondS": {
+    "1s": "predaría",
+    "2s": "predarías",
+    "3s": "predaría",
+    "1p": "predaríamos",
+    "2p": "predaríais",
+    "3p": "predarían"
+  },
+  "PresC": {
+    "1s": "prede",
+    "2s": "predes",
+    "3s": "prede",
+    "1p": "predemos",
+    "2p": "predéis",
+    "3p": "preden"
+  },
+  "PMQPSI": {
+    "1s": "predara",
+    "2s": "predaras",
+    "3s": "predara",
+    "1p": "predáramos",
+    "2p": "predarais",
+    "3p": "predaran"
+  },
+  "PImpC": {
+    "1s": "predase",
+    "2s": "predases",
+    "3s": "predase",
+    "1p": "predásemos",
+    "2p": "predaseis",
+    "3p": "predasen"
+  },
+  "FutSC": {
+    "1s": "predare",
+    "2s": "predares",
+    "3s": "predare",
+    "1p": "predáremos",
+    "2p": "predareis",
+    "3p": "predaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "preda",
+    "3s": "prede",
+    "1p": "predemos",
+    "2p": "predad",
+    "3p": "preden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no predes",
+    "3s": "no prede",
+    "1p": "no predemos",
+    "2p": "no predéis",
+    "3p": "no preden"
+  },
+  "Part-ter": {
+    "": "predado"
+  },
+  "Part-ser": {
+    "ms": "predado",
+    "fs": "predada",
+    "mp": "predados",
+    "fp": "predadas"
+  }
+}

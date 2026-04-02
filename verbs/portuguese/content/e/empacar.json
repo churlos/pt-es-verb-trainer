@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "empacar"
+  },
+  "InfP": {
+    "1s": "empacar",
+    "2s": "empacares",
+    "3s": "empacar",
+    "1p": "empacarmos",
+    "2p": "empacardes",
+    "3p": "empacarem"
+  },
+  "Ger": {
+    "": "empacando"
+  },
+  "PresI": {
+    "1s": "empaco",
+    "2s": "empacas",
+    "3s": "empaca",
+    "1p": "empacamos",
+    "2p": "empacais",
+    "3p": "empacam"
+  },
+  "PImpI": {
+    "1s": "empacava",
+    "2s": "empacavas",
+    "3s": "empacava",
+    "1p": "empacávamos",
+    "2p": "empacáveis",
+    "3p": "empacavam"
+  },
+  "PPSI": {
+    "1s": "empaquei",
+    "2s": "empacaste",
+    "3s": "empacou",
+    "1p": "empacámos",
+    "2p": "empacastes",
+    "3p": "empacaram"
+  },
+  "PMQPSI": {
+    "1s": "empacara",
+    "2s": "empacaras",
+    "3s": "empacara",
+    "1p": "empacáramos",
+    "2p": "empacáreis",
+    "3p": "empacaram"
+  },
+  "FutSI": {
+    "1s": "empacarei",
+    "2s": "empacarás",
+    "3s": "empacará",
+    "1p": "empacaremos",
+    "2p": "empacareis",
+    "3p": "empacarão"
+  },
+  "CondS": {
+    "1s": "empacaria",
+    "2s": "empacarias",
+    "3s": "empacaria",
+    "1p": "empacaríamos",
+    "2p": "empacaríeis",
+    "3p": "empacariam"
+  },
+  "PresC": {
+    "1s": "empaque",
+    "2s": "empaques",
+    "3s": "empaque",
+    "1p": "empaquemos",
+    "2p": "empaqueis",
+    "3p": "empaquem"
+  },
+  "PImpC": {
+    "1s": "empacasse",
+    "2s": "empacasses",
+    "3s": "empacasse",
+    "1p": "empacássemos",
+    "2p": "empacásseis",
+    "3p": "empacassem"
+  },
+  "FutSC": {
+    "1s": "empacar",
+    "2s": "empacares",
+    "3s": "empacar",
+    "1p": "empacarmos",
+    "2p": "empacardes",
+    "3p": "empacarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empaca",
+    "3s": "empaque",
+    "1p": "empaquemos",
+    "2p": "empacai",
+    "3p": "empaquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não empaques",
+    "3s": "não empaque",
+    "1p": "não empaquemos",
+    "2p": "não empaqueis",
+    "3p": "não empaquem"
+  },
+  "Part-ter": {
+    "": "empacado"
+  },
+  "Part-ser": {
+    "ms": "empacado",
+    "fs": "empacada",
+    "mp": "empacados",
+    "fp": "empacadas"
+  }
+}

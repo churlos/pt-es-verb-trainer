@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "solucionar"
+  },
+  "InfP": {
+    "1s": "solucionar",
+    "2s": "solucionares",
+    "3s": "solucionar",
+    "1p": "solucionarmos",
+    "2p": "solucionardes",
+    "3p": "solucionarem"
+  },
+  "Ger": {
+    "": "solucionando"
+  },
+  "PresI": {
+    "1s": "soluciono",
+    "2s": "solucionas",
+    "3s": "soluciona",
+    "1p": "solucionamos",
+    "2p": "solucionais",
+    "3p": "solucionam"
+  },
+  "PImpI": {
+    "1s": "solucionava",
+    "2s": "solucionavas",
+    "3s": "solucionava",
+    "1p": "solucionávamos",
+    "2p": "solucionáveis",
+    "3p": "solucionavam"
+  },
+  "PPSI": {
+    "1s": "solucionei",
+    "2s": "solucionaste",
+    "3s": "solucionou",
+    "1p": "solucionámos",
+    "2p": "solucionastes",
+    "3p": "solucionaram"
+  },
+  "PMQPSI": {
+    "1s": "solucionara",
+    "2s": "solucionaras",
+    "3s": "solucionara",
+    "1p": "solucionáramos",
+    "2p": "solucionáreis",
+    "3p": "solucionaram"
+  },
+  "FutSI": {
+    "1s": "solucionarei",
+    "2s": "solucionarás",
+    "3s": "solucionará",
+    "1p": "solucionaremos",
+    "2p": "solucionareis",
+    "3p": "solucionarão"
+  },
+  "CondS": {
+    "1s": "solucionaria",
+    "2s": "solucionarias",
+    "3s": "solucionaria",
+    "1p": "solucionaríamos",
+    "2p": "solucionaríeis",
+    "3p": "solucionariam"
+  },
+  "PresC": {
+    "1s": "solucione",
+    "2s": "soluciones",
+    "3s": "solucione",
+    "1p": "solucionemos",
+    "2p": "solucioneis",
+    "3p": "solucionem"
+  },
+  "PImpC": {
+    "1s": "solucionasse",
+    "2s": "solucionasses",
+    "3s": "solucionasse",
+    "1p": "solucionássemos",
+    "2p": "solucionásseis",
+    "3p": "solucionassem"
+  },
+  "FutSC": {
+    "1s": "solucionar",
+    "2s": "solucionares",
+    "3s": "solucionar",
+    "1p": "solucionarmos",
+    "2p": "solucionardes",
+    "3p": "solucionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "soluciona",
+    "3s": "solucione",
+    "1p": "solucionemos",
+    "2p": "solucionai",
+    "3p": "solucionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não soluciones",
+    "3s": "não solucione",
+    "1p": "não solucionemos",
+    "2p": "não solucioneis",
+    "3p": "não solucionem"
+  },
+  "Part-ter": {
+    "": "solucionado"
+  },
+  "Part-ser": {
+    "ms": "solucionado",
+    "fs": "solucionada",
+    "mp": "solucionados",
+    "fp": "solucionadas"
+  }
+}

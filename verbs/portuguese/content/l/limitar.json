@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "limitar"
+  },
+  "InfP": {
+    "1s": "limitar",
+    "2s": "limitares",
+    "3s": "limitar",
+    "1p": "limitarmos",
+    "2p": "limitardes",
+    "3p": "limitarem"
+  },
+  "Ger": {
+    "": "limitando"
+  },
+  "PresI": {
+    "1s": "limito",
+    "2s": "limitas",
+    "3s": "limita",
+    "1p": "limitamos",
+    "2p": "limitais",
+    "3p": "limitam"
+  },
+  "PImpI": {
+    "1s": "limitava",
+    "2s": "limitavas",
+    "3s": "limitava",
+    "1p": "limitávamos",
+    "2p": "limitáveis",
+    "3p": "limitavam"
+  },
+  "PPSI": {
+    "1s": "limitei",
+    "2s": "limitaste",
+    "3s": "limitou",
+    "1p": "limitámos",
+    "2p": "limitastes",
+    "3p": "limitaram"
+  },
+  "PMQPSI": {
+    "1s": "limitara",
+    "2s": "limitaras",
+    "3s": "limitara",
+    "1p": "limitáramos",
+    "2p": "limitáreis",
+    "3p": "limitaram"
+  },
+  "FutSI": {
+    "1s": "limitarei",
+    "2s": "limitarás",
+    "3s": "limitará",
+    "1p": "limitaremos",
+    "2p": "limitareis",
+    "3p": "limitarão"
+  },
+  "CondS": {
+    "1s": "limitaria",
+    "2s": "limitarias",
+    "3s": "limitaria",
+    "1p": "limitaríamos",
+    "2p": "limitaríeis",
+    "3p": "limitariam"
+  },
+  "PresC": {
+    "1s": "limite",
+    "2s": "limites",
+    "3s": "limite",
+    "1p": "limitemos",
+    "2p": "limiteis",
+    "3p": "limitem"
+  },
+  "PImpC": {
+    "1s": "limitasse",
+    "2s": "limitasses",
+    "3s": "limitasse",
+    "1p": "limitássemos",
+    "2p": "limitásseis",
+    "3p": "limitassem"
+  },
+  "FutSC": {
+    "1s": "limitar",
+    "2s": "limitares",
+    "3s": "limitar",
+    "1p": "limitarmos",
+    "2p": "limitardes",
+    "3p": "limitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "limita",
+    "3s": "limite",
+    "1p": "limitemos",
+    "2p": "limitai",
+    "3p": "limitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não limites",
+    "3s": "não limite",
+    "1p": "não limitemos",
+    "2p": "não limiteis",
+    "3p": "não limitem"
+  },
+  "Part-ter": {
+    "": "limitado"
+  },
+  "Part-ser": {
+    "ms": "limitado",
+    "fs": "limitada",
+    "mp": "limitados",
+    "fp": "limitadas"
+  }
+}

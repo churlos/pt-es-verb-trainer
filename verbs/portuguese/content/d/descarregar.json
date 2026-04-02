@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "descarregar"
+  },
+  "InfP": {
+    "1s": "descarregar",
+    "2s": "descarregares",
+    "3s": "descarregar",
+    "1p": "descarregarmos",
+    "2p": "descarregardes",
+    "3p": "descarregarem"
+  },
+  "Ger": {
+    "": "descarregando"
+  },
+  "PresI": {
+    "1s": "descarrego",
+    "2s": "descarregas",
+    "3s": "descarrega",
+    "1p": "descarregamos",
+    "2p": "descarregais",
+    "3p": "descarregam"
+  },
+  "PImpI": {
+    "1s": "descarregava",
+    "2s": "descarregavas",
+    "3s": "descarregava",
+    "1p": "descarregávamos",
+    "2p": "descarregáveis",
+    "3p": "descarregavam"
+  },
+  "PPSI": {
+    "1s": "descarreguei",
+    "2s": "descarregaste",
+    "3s": "descarregou",
+    "1p": "descarregámos",
+    "2p": "descarregastes",
+    "3p": "descarregaram"
+  },
+  "PMQPSI": {
+    "1s": "descarregara",
+    "2s": "descarregaras",
+    "3s": "descarregara",
+    "1p": "descarregáramos",
+    "2p": "descarregáreis",
+    "3p": "descarregaram"
+  },
+  "FutSI": {
+    "1s": "descarregarei",
+    "2s": "descarregarás",
+    "3s": "descarregará",
+    "1p": "descarregaremos",
+    "2p": "descarregareis",
+    "3p": "descarregarão"
+  },
+  "CondS": {
+    "1s": "descarregaria",
+    "2s": "descarregarias",
+    "3s": "descarregaria",
+    "1p": "descarregaríamos",
+    "2p": "descarregaríeis",
+    "3p": "descarregariam"
+  },
+  "PresC": {
+    "1s": "descarregue",
+    "2s": "descarregues",
+    "3s": "descarregue",
+    "1p": "descarreguemos",
+    "2p": "descarregueis",
+    "3p": "descarreguem"
+  },
+  "PImpC": {
+    "1s": "descarregasse",
+    "2s": "descarregasses",
+    "3s": "descarregasse",
+    "1p": "descarregássemos",
+    "2p": "descarregásseis",
+    "3p": "descarregassem"
+  },
+  "FutSC": {
+    "1s": "descarregar",
+    "2s": "descarregares",
+    "3s": "descarregar",
+    "1p": "descarregarmos",
+    "2p": "descarregardes",
+    "3p": "descarregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "descarrega",
+    "3s": "descarregue",
+    "1p": "descarreguemos",
+    "2p": "descarregai",
+    "3p": "descarreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não descarregues",
+    "3s": "não descarregue",
+    "1p": "não descarreguemos",
+    "2p": "não descarregueis",
+    "3p": "não descarreguem"
+  },
+  "Part-ter": {
+    "": "descarregado"
+  },
+  "Part-ser": {
+    "ms": "descarregado",
+    "fs": "descarregada",
+    "mp": "descarregados",
+    "fp": "descarregadas"
+  }
+}

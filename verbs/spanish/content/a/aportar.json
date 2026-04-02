@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aportar"
+  },
+  "Ger": {
+    "": "aportando"
+  },
+  "PresI": {
+    "1s": "aporto",
+    "2s": "aportas",
+    "3s": "aporta",
+    "1p": "aportamos",
+    "2p": "aportáis",
+    "3p": "aportan"
+  },
+  "PImpI": {
+    "1s": "aportaba",
+    "2s": "aportabas",
+    "3s": "aportaba",
+    "1p": "aportábamos",
+    "2p": "aportabais",
+    "3p": "aportaban"
+  },
+  "PPSI": {
+    "1s": "aporté",
+    "2s": "aportaste",
+    "3s": "aportó",
+    "1p": "aportamos",
+    "2p": "aportasteis",
+    "3p": "aportaron"
+  },
+  "FutSI": {
+    "1s": "aportaré",
+    "2s": "aportarás",
+    "3s": "aportará",
+    "1p": "aportaremos",
+    "2p": "aportaréis",
+    "3p": "aportarán"
+  },
+  "CondS": {
+    "1s": "aportaría",
+    "2s": "aportarías",
+    "3s": "aportaría",
+    "1p": "aportaríamos",
+    "2p": "aportaríais",
+    "3p": "aportarían"
+  },
+  "PresC": {
+    "1s": "aporte",
+    "2s": "aportes",
+    "3s": "aporte",
+    "1p": "aportemos",
+    "2p": "aportéis",
+    "3p": "aporten"
+  },
+  "PMQPSI": {
+    "1s": "aportara",
+    "2s": "aportaras",
+    "3s": "aportara",
+    "1p": "aportáramos",
+    "2p": "aportarais",
+    "3p": "aportaran"
+  },
+  "PImpC": {
+    "1s": "aportase",
+    "2s": "aportases",
+    "3s": "aportase",
+    "1p": "aportásemos",
+    "2p": "aportaseis",
+    "3p": "aportasen"
+  },
+  "FutSC": {
+    "1s": "aportare",
+    "2s": "aportares",
+    "3s": "aportare",
+    "1p": "aportáremos",
+    "2p": "aportareis",
+    "3p": "aportaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aporta",
+    "3s": "aporte",
+    "1p": "aportemos",
+    "2p": "aportad",
+    "3p": "aporten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aportes",
+    "3s": "no aporte",
+    "1p": "no aportemos",
+    "2p": "no aportéis",
+    "3p": "no aporten"
+  },
+  "Part-ter": {
+    "": "aportado"
+  },
+  "Part-ser": {
+    "ms": "aportado",
+    "fs": "aportada",
+    "mp": "aportados",
+    "fp": "aportadas"
+  }
+}

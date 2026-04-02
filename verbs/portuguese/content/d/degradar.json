@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "degradar"
+  },
+  "InfP": {
+    "1s": "degradar",
+    "2s": "degradares",
+    "3s": "degradar",
+    "1p": "degradarmos",
+    "2p": "degradardes",
+    "3p": "degradarem"
+  },
+  "Ger": {
+    "": "degradando"
+  },
+  "PresI": {
+    "1s": "degrado",
+    "2s": "degradas",
+    "3s": "degrada",
+    "1p": "degradamos",
+    "2p": "degradais",
+    "3p": "degradam"
+  },
+  "PImpI": {
+    "1s": "degradava",
+    "2s": "degradavas",
+    "3s": "degradava",
+    "1p": "degradávamos",
+    "2p": "degradáveis",
+    "3p": "degradavam"
+  },
+  "PPSI": {
+    "1s": "degradei",
+    "2s": "degradaste",
+    "3s": "degradou",
+    "1p": "degradámos",
+    "2p": "degradastes",
+    "3p": "degradaram"
+  },
+  "PMQPSI": {
+    "1s": "degradara",
+    "2s": "degradaras",
+    "3s": "degradara",
+    "1p": "degradáramos",
+    "2p": "degradáreis",
+    "3p": "degradaram"
+  },
+  "FutSI": {
+    "1s": "degradarei",
+    "2s": "degradarás",
+    "3s": "degradará",
+    "1p": "degradaremos",
+    "2p": "degradareis",
+    "3p": "degradarão"
+  },
+  "CondS": {
+    "1s": "degradaria",
+    "2s": "degradarias",
+    "3s": "degradaria",
+    "1p": "degradaríamos",
+    "2p": "degradaríeis",
+    "3p": "degradariam"
+  },
+  "PresC": {
+    "1s": "degrade",
+    "2s": "degrades",
+    "3s": "degrade",
+    "1p": "degrademos",
+    "2p": "degradeis",
+    "3p": "degradem"
+  },
+  "PImpC": {
+    "1s": "degradasse",
+    "2s": "degradasses",
+    "3s": "degradasse",
+    "1p": "degradássemos",
+    "2p": "degradásseis",
+    "3p": "degradassem"
+  },
+  "FutSC": {
+    "1s": "degradar",
+    "2s": "degradares",
+    "3s": "degradar",
+    "1p": "degradarmos",
+    "2p": "degradardes",
+    "3p": "degradarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "degrada",
+    "3s": "degrade",
+    "1p": "degrademos",
+    "2p": "degradai",
+    "3p": "degradem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não degrades",
+    "3s": "não degrade",
+    "1p": "não degrademos",
+    "2p": "não degradeis",
+    "3p": "não degradem"
+  },
+  "Part-ter": {
+    "": "degradado"
+  },
+  "Part-ser": {
+    "ms": "degradado",
+    "fs": "degradada",
+    "mp": "degradados",
+    "fp": "degradadas"
+  }
+}

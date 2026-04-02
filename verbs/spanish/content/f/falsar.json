@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "falsar"
+  },
+  "Ger": {
+    "": "falsando"
+  },
+  "PresI": {
+    "1s": "falso",
+    "2s": "falsas",
+    "3s": "falsa",
+    "1p": "falsamos",
+    "2p": "falsáis",
+    "3p": "falsan"
+  },
+  "PImpI": {
+    "1s": "falsaba",
+    "2s": "falsabas",
+    "3s": "falsaba",
+    "1p": "falsábamos",
+    "2p": "falsabais",
+    "3p": "falsaban"
+  },
+  "PPSI": {
+    "1s": "falsé",
+    "2s": "falsaste",
+    "3s": "falsó",
+    "1p": "falsamos",
+    "2p": "falsasteis",
+    "3p": "falsaron"
+  },
+  "FutSI": {
+    "1s": "falsaré",
+    "2s": "falsarás",
+    "3s": "falsará",
+    "1p": "falsaremos",
+    "2p": "falsaréis",
+    "3p": "falsarán"
+  },
+  "CondS": {
+    "1s": "falsaría",
+    "2s": "falsarías",
+    "3s": "falsaría",
+    "1p": "falsaríamos",
+    "2p": "falsaríais",
+    "3p": "falsarían"
+  },
+  "PresC": {
+    "1s": "false",
+    "2s": "falses",
+    "3s": "false",
+    "1p": "falsemos",
+    "2p": "falséis",
+    "3p": "falsen"
+  },
+  "PMQPSI": {
+    "1s": "falsara",
+    "2s": "falsaras",
+    "3s": "falsara",
+    "1p": "falsáramos",
+    "2p": "falsarais",
+    "3p": "falsaran"
+  },
+  "PImpC": {
+    "1s": "falsase",
+    "2s": "falsases",
+    "3s": "falsase",
+    "1p": "falsásemos",
+    "2p": "falsaseis",
+    "3p": "falsasen"
+  },
+  "FutSC": {
+    "1s": "falsare",
+    "2s": "falsares",
+    "3s": "falsare",
+    "1p": "falsáremos",
+    "2p": "falsareis",
+    "3p": "falsaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "falsa",
+    "3s": "false",
+    "1p": "falsemos",
+    "2p": "falsad",
+    "3p": "falsen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no falses",
+    "3s": "no false",
+    "1p": "no falsemos",
+    "2p": "no falséis",
+    "3p": "no falsen"
+  },
+  "Part-ter": {
+    "": "falsado"
+  },
+  "Part-ser": {
+    "ms": "falsado",
+    "fs": "falsada",
+    "mp": "falsados",
+    "fp": "falsadas"
+  }
+}

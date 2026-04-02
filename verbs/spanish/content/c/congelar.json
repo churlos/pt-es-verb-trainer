@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "congelar"
+  },
+  "Ger": {
+    "": "congelando"
+  },
+  "PresI": {
+    "1s": "congelo",
+    "2s": "congelas",
+    "3s": "congela",
+    "1p": "congelamos",
+    "2p": "congeláis",
+    "3p": "congelan"
+  },
+  "PImpI": {
+    "1s": "congelaba",
+    "2s": "congelabas",
+    "3s": "congelaba",
+    "1p": "congelábamos",
+    "2p": "congelabais",
+    "3p": "congelaban"
+  },
+  "PPSI": {
+    "1s": "congelé",
+    "2s": "congelaste",
+    "3s": "congeló",
+    "1p": "congelamos",
+    "2p": "congelasteis",
+    "3p": "congelaron"
+  },
+  "FutSI": {
+    "1s": "congelaré",
+    "2s": "congelarás",
+    "3s": "congelará",
+    "1p": "congelaremos",
+    "2p": "congelaréis",
+    "3p": "congelarán"
+  },
+  "CondS": {
+    "1s": "congelaría",
+    "2s": "congelarías",
+    "3s": "congelaría",
+    "1p": "congelaríamos",
+    "2p": "congelaríais",
+    "3p": "congelarían"
+  },
+  "PresC": {
+    "1s": "congele",
+    "2s": "congeles",
+    "3s": "congele",
+    "1p": "congelemos",
+    "2p": "congeléis",
+    "3p": "congelen"
+  },
+  "PMQPSI": {
+    "1s": "congelara",
+    "2s": "congelaras",
+    "3s": "congelara",
+    "1p": "congeláramos",
+    "2p": "congelarais",
+    "3p": "congelaran"
+  },
+  "PImpC": {
+    "1s": "congelase",
+    "2s": "congelases",
+    "3s": "congelase",
+    "1p": "congelásemos",
+    "2p": "congelaseis",
+    "3p": "congelasen"
+  },
+  "FutSC": {
+    "1s": "congelare",
+    "2s": "congelares",
+    "3s": "congelare",
+    "1p": "congeláremos",
+    "2p": "congelareis",
+    "3p": "congelaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "congela",
+    "3s": "congele",
+    "1p": "congelemos",
+    "2p": "congelad",
+    "3p": "congelen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no congeles",
+    "3s": "no congele",
+    "1p": "no congelemos",
+    "2p": "no congeléis",
+    "3p": "no congelen"
+  },
+  "Part-ter": {
+    "": "congelado"
+  },
+  "Part-ser": {
+    "ms": "congelado",
+    "fs": "congelada",
+    "mp": "congelados",
+    "fp": "congeladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "servir"
+  },
+  "InfP": {
+    "1s": "servir",
+    "2s": "servires",
+    "3s": "servir",
+    "1p": "servirmos",
+    "2p": "servirdes",
+    "3p": "servirem"
+  },
+  "Ger": {
+    "": "servindo"
+  },
+  "PresI": {
+    "1s": "sirvo",
+    "2s": "serves",
+    "3s": "serve",
+    "1p": "servimos",
+    "2p": "servis",
+    "3p": "servem"
+  },
+  "PImpI": {
+    "1s": "servia",
+    "2s": "servias",
+    "3s": "servia",
+    "1p": "servíamos",
+    "2p": "servíeis",
+    "3p": "serviam"
+  },
+  "PPSI": {
+    "1s": "servi",
+    "2s": "serviste",
+    "3s": "serviu",
+    "1p": "servimos",
+    "2p": "servistes",
+    "3p": "serviram"
+  },
+  "PMQPSI": {
+    "1s": "servira",
+    "2s": "serviras",
+    "3s": "servira",
+    "1p": "servíramos",
+    "2p": "servíreis",
+    "3p": "serviram"
+  },
+  "FutSI": {
+    "1s": "servirei",
+    "2s": "servirás",
+    "3s": "servirá",
+    "1p": "serviremos",
+    "2p": "servireis",
+    "3p": "servirão"
+  },
+  "CondS": {
+    "1s": "serviria",
+    "2s": "servirias",
+    "3s": "serviria",
+    "1p": "serviríamos",
+    "2p": "serviríeis",
+    "3p": "serviriam"
+  },
+  "PresC": {
+    "1s": "sirva",
+    "2s": "sirvas",
+    "3s": "sirva",
+    "1p": "sirvamos",
+    "2p": "sirvais",
+    "3p": "sirvam"
+  },
+  "PImpC": {
+    "1s": "servisse",
+    "2s": "servisses",
+    "3s": "servisse",
+    "1p": "servíssemos",
+    "2p": "servísseis",
+    "3p": "servissem"
+  },
+  "FutSC": {
+    "1s": "servir",
+    "2s": "servires",
+    "3s": "servir",
+    "1p": "servirmos",
+    "2p": "servirdes",
+    "3p": "servirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "serve",
+    "3s": "sirva",
+    "1p": "sirvamos",
+    "2p": "servi",
+    "3p": "sirvam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sirvas",
+    "3s": "não sirva",
+    "1p": "não sirvamos",
+    "2p": "não sirvais",
+    "3p": "não sirvam"
+  },
+  "Part-ter": {
+    "": "servido"
+  },
+  "Part-ser": {
+    "ms": "servido",
+    "fs": "servida",
+    "mp": "servidos",
+    "fp": "servidas"
+  }
+}

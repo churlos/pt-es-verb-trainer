@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "valefacer"
+  },
+  "Ger": {
+    "": "valefaciendo"
+  },
+  "PresI": {
+    "1s": "valefago",
+    "2s": "valefaces",
+    "3s": "valeface",
+    "1p": "valefacemos",
+    "2p": "valefacéis",
+    "3p": "valefacen"
+  },
+  "PImpI": {
+    "1s": "valefacía",
+    "2s": "valefacías",
+    "3s": "valefacía",
+    "1p": "valefacíamos",
+    "2p": "valefacíais",
+    "3p": "valefacían"
+  },
+  "PPSI": {
+    "1s": "valefice",
+    "2s": "valeficiste",
+    "3s": "valefizo",
+    "1p": "valeficimos",
+    "2p": "valeficisteis",
+    "3p": "valeficieron"
+  },
+  "FutSI": {
+    "1s": "valefaré",
+    "2s": "valefarás",
+    "3s": "valefará",
+    "1p": "valefaremos",
+    "2p": "valefaréis",
+    "3p": "valefarán"
+  },
+  "CondS": {
+    "1s": "valefaría",
+    "2s": "valefarías",
+    "3s": "valefaría",
+    "1p": "valefaríamos",
+    "2p": "valefaríais",
+    "3p": "valefarían"
+  },
+  "PresC": {
+    "1s": "valefaga",
+    "2s": "valefagas",
+    "3s": "valefaga",
+    "1p": "valefagamos",
+    "2p": "valefagáis",
+    "3p": "valefagan"
+  },
+  "PMQPSI": {
+    "1s": "valeficiera",
+    "2s": "valeficieras",
+    "3s": "valeficiera",
+    "1p": "valeficiéramos",
+    "2p": "valeficierais",
+    "3p": "valeficieran"
+  },
+  "PImpC": {
+    "1s": "valeficiese",
+    "2s": "valeficieses",
+    "3s": "valeficiese",
+    "1p": "valeficiésemos",
+    "2p": "valeficieseis",
+    "3p": "valeficiesen"
+  },
+  "FutSC": {
+    "1s": "valeficiere",
+    "2s": "valeficieres",
+    "3s": "valeficiere",
+    "1p": "valeficiéremos",
+    "2p": "valeficiereis",
+    "3p": "valeficieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "valeface",
+    "3s": "valefaga",
+    "1p": "valefagamos",
+    "2p": "valefaced",
+    "3p": "valefagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no valefagas",
+    "3s": "no valefaga",
+    "1p": "no valefagamos",
+    "2p": "no valefagáis",
+    "3p": "no valefagan"
+  },
+  "Part-ter": {
+    "": "valefecho"
+  },
+  "Part-ser": {
+    "ms": "valefecho",
+    "fs": "valefecha",
+    "mp": "valefechos",
+    "fp": "valefechas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desembargar"
+  },
+  "InfP": {
+    "1s": "desembargar",
+    "2s": "desembargares",
+    "3s": "desembargar",
+    "1p": "desembargarmos",
+    "2p": "desembargardes",
+    "3p": "desembargarem"
+  },
+  "Ger": {
+    "": "desembargando"
+  },
+  "PresI": {
+    "1s": "desembargo",
+    "2s": "desembargas",
+    "3s": "desembarga",
+    "1p": "desembargamos",
+    "2p": "desembargais",
+    "3p": "desembargam"
+  },
+  "PImpI": {
+    "1s": "desembargava",
+    "2s": "desembargavas",
+    "3s": "desembargava",
+    "1p": "desembargávamos",
+    "2p": "desembargáveis",
+    "3p": "desembargavam"
+  },
+  "PPSI": {
+    "1s": "desembargei",
+    "2s": "desembargaste",
+    "3s": "desembargou",
+    "1p": "desembargámos",
+    "2p": "desembargastes",
+    "3p": "desembargaram"
+  },
+  "PMQPSI": {
+    "1s": "desembargara",
+    "2s": "desembargaras",
+    "3s": "desembargara",
+    "1p": "desembargáramos",
+    "2p": "desembargáreis",
+    "3p": "desembargaram"
+  },
+  "FutSI": {
+    "1s": "desembargarei",
+    "2s": "desembargarás",
+    "3s": "desembargará",
+    "1p": "desembargaremos",
+    "2p": "desembargareis",
+    "3p": "desembargarão"
+  },
+  "CondS": {
+    "1s": "desembargaria",
+    "2s": "desembargarias",
+    "3s": "desembargaria",
+    "1p": "desembargaríamos",
+    "2p": "desembargaríeis",
+    "3p": "desembargariam"
+  },
+  "PresC": {
+    "1s": "desembarge",
+    "2s": "desembarges",
+    "3s": "desembarge",
+    "1p": "desembargemos",
+    "2p": "desembargeis",
+    "3p": "desembargem"
+  },
+  "PImpC": {
+    "1s": "desembargasse",
+    "2s": "desembargasses",
+    "3s": "desembargasse",
+    "1p": "desembargássemos",
+    "2p": "desembargásseis",
+    "3p": "desembargassem"
+  },
+  "FutSC": {
+    "1s": "desembargar",
+    "2s": "desembargares",
+    "3s": "desembargar",
+    "1p": "desembargarmos",
+    "2p": "desembargardes",
+    "3p": "desembargarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desembarga",
+    "3s": "desembarge",
+    "1p": "desembargemos",
+    "2p": "desembargai",
+    "3p": "desembargem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desembarges",
+    "3s": "não desembarge",
+    "1p": "não desembargemos",
+    "2p": "não desembargeis",
+    "3p": "não desembargem"
+  },
+  "Part-ter": {
+    "": "desembargado"
+  },
+  "Part-ser": {
+    "ms": "desembargado",
+    "fs": "desembargada",
+    "mp": "desembargados",
+    "fp": "desembargadas"
+  }
+}

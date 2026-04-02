@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "decantar"
+  },
+  "InfP": {
+    "1s": "decantar",
+    "2s": "decantares",
+    "3s": "decantar",
+    "1p": "decantarmos",
+    "2p": "decantardes",
+    "3p": "decantarem"
+  },
+  "Ger": {
+    "": "decantando"
+  },
+  "PresI": {
+    "1s": "decanto",
+    "2s": "decantas",
+    "3s": "decanta",
+    "1p": "decantamos",
+    "2p": "decantais",
+    "3p": "decantam"
+  },
+  "PImpI": {
+    "1s": "decantava",
+    "2s": "decantavas",
+    "3s": "decantava",
+    "1p": "decantávamos",
+    "2p": "decantáveis",
+    "3p": "decantavam"
+  },
+  "PPSI": {
+    "1s": "decantei",
+    "2s": "decantaste",
+    "3s": "decantou",
+    "1p": "decantámos",
+    "2p": "decantastes",
+    "3p": "decantaram"
+  },
+  "PMQPSI": {
+    "1s": "decantara",
+    "2s": "decantaras",
+    "3s": "decantara",
+    "1p": "decantáramos",
+    "2p": "decantáreis",
+    "3p": "decantaram"
+  },
+  "FutSI": {
+    "1s": "decantarei",
+    "2s": "decantarás",
+    "3s": "decantará",
+    "1p": "decantaremos",
+    "2p": "decantareis",
+    "3p": "decantarão"
+  },
+  "CondS": {
+    "1s": "decantaria",
+    "2s": "decantarias",
+    "3s": "decantaria",
+    "1p": "decantaríamos",
+    "2p": "decantaríeis",
+    "3p": "decantariam"
+  },
+  "PresC": {
+    "1s": "decante",
+    "2s": "decantes",
+    "3s": "decante",
+    "1p": "decantemos",
+    "2p": "decanteis",
+    "3p": "decantem"
+  },
+  "PImpC": {
+    "1s": "decantasse",
+    "2s": "decantasses",
+    "3s": "decantasse",
+    "1p": "decantássemos",
+    "2p": "decantásseis",
+    "3p": "decantassem"
+  },
+  "FutSC": {
+    "1s": "decantar",
+    "2s": "decantares",
+    "3s": "decantar",
+    "1p": "decantarmos",
+    "2p": "decantardes",
+    "3p": "decantarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decanta",
+    "3s": "decante",
+    "1p": "decantemos",
+    "2p": "decantai",
+    "3p": "decantem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não decantes",
+    "3s": "não decante",
+    "1p": "não decantemos",
+    "2p": "não decanteis",
+    "3p": "não decantem"
+  },
+  "Part-ter": {
+    "": "decantado"
+  },
+  "Part-ser": {
+    "ms": "decantado",
+    "fs": "decantada",
+    "mp": "decantados",
+    "fp": "decantadas"
+  }
+}

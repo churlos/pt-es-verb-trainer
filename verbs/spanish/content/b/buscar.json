@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "buscar"
+  },
+  "Ger": {
+    "": "buscando"
+  },
+  "PresI": {
+    "1s": "busco",
+    "2s": "buscas",
+    "3s": "busca",
+    "1p": "buscamos",
+    "2p": "buscáis",
+    "3p": "buscan"
+  },
+  "PImpI": {
+    "1s": "buscaba",
+    "2s": "buscabas",
+    "3s": "buscaba",
+    "1p": "buscábamos",
+    "2p": "buscabais",
+    "3p": "buscaban"
+  },
+  "PPSI": {
+    "1s": "busqué",
+    "2s": "buscaste",
+    "3s": "buscó",
+    "1p": "buscamos",
+    "2p": "buscasteis",
+    "3p": "buscaron"
+  },
+  "FutSI": {
+    "1s": "buscaré",
+    "2s": "buscarás",
+    "3s": "buscará",
+    "1p": "buscaremos",
+    "2p": "buscaréis",
+    "3p": "buscarán"
+  },
+  "CondS": {
+    "1s": "buscaría",
+    "2s": "buscarías",
+    "3s": "buscaría",
+    "1p": "buscaríamos",
+    "2p": "buscaríais",
+    "3p": "buscarían"
+  },
+  "PresC": {
+    "1s": "busque",
+    "2s": "busques",
+    "3s": "busque",
+    "1p": "busquemos",
+    "2p": "busquéis",
+    "3p": "busquen"
+  },
+  "PMQPSI": {
+    "1s": "buscara",
+    "2s": "buscaras",
+    "3s": "buscara",
+    "1p": "buscáramos",
+    "2p": "buscarais",
+    "3p": "buscaran"
+  },
+  "PImpC": {
+    "1s": "buscase",
+    "2s": "buscases",
+    "3s": "buscase",
+    "1p": "buscásemos",
+    "2p": "buscaseis",
+    "3p": "buscasen"
+  },
+  "FutSC": {
+    "1s": "buscare",
+    "2s": "buscares",
+    "3s": "buscare",
+    "1p": "buscáremos",
+    "2p": "buscareis",
+    "3p": "buscaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "busca",
+    "3s": "busque",
+    "1p": "busquemos",
+    "2p": "buscad",
+    "3p": "busquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no busques",
+    "3s": "no busque",
+    "1p": "no busquemos",
+    "2p": "no busquéis",
+    "3p": "no busquen"
+  },
+  "Part-ter": {
+    "": "buscado"
+  },
+  "Part-ser": {
+    "ms": "buscado",
+    "fs": "buscada",
+    "mp": "buscados",
+    "fp": "buscadas"
+  }
+}

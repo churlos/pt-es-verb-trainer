@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "saturar"
+  },
+  "Ger": {
+    "": "saturando"
+  },
+  "PresI": {
+    "1s": "saturo",
+    "2s": "saturas",
+    "3s": "satura",
+    "1p": "saturamos",
+    "2p": "saturáis",
+    "3p": "saturan"
+  },
+  "PImpI": {
+    "1s": "saturaba",
+    "2s": "saturabas",
+    "3s": "saturaba",
+    "1p": "saturábamos",
+    "2p": "saturabais",
+    "3p": "saturaban"
+  },
+  "PPSI": {
+    "1s": "saturé",
+    "2s": "saturaste",
+    "3s": "saturó",
+    "1p": "saturamos",
+    "2p": "saturasteis",
+    "3p": "saturaron"
+  },
+  "FutSI": {
+    "1s": "saturaré",
+    "2s": "saturarás",
+    "3s": "saturará",
+    "1p": "saturaremos",
+    "2p": "saturaréis",
+    "3p": "saturarán"
+  },
+  "CondS": {
+    "1s": "saturaría",
+    "2s": "saturarías",
+    "3s": "saturaría",
+    "1p": "saturaríamos",
+    "2p": "saturaríais",
+    "3p": "saturarían"
+  },
+  "PresC": {
+    "1s": "sature",
+    "2s": "satures",
+    "3s": "sature",
+    "1p": "saturemos",
+    "2p": "saturéis",
+    "3p": "saturen"
+  },
+  "PMQPSI": {
+    "1s": "saturara",
+    "2s": "saturaras",
+    "3s": "saturara",
+    "1p": "saturáramos",
+    "2p": "saturarais",
+    "3p": "saturaran"
+  },
+  "PImpC": {
+    "1s": "saturase",
+    "2s": "saturases",
+    "3s": "saturase",
+    "1p": "saturásemos",
+    "2p": "saturaseis",
+    "3p": "saturasen"
+  },
+  "FutSC": {
+    "1s": "saturare",
+    "2s": "saturares",
+    "3s": "saturare",
+    "1p": "saturáremos",
+    "2p": "saturareis",
+    "3p": "saturaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "satura",
+    "3s": "sature",
+    "1p": "saturemos",
+    "2p": "saturad",
+    "3p": "saturen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no satures",
+    "3s": "no sature",
+    "1p": "no saturemos",
+    "2p": "no saturéis",
+    "3p": "no saturen"
+  },
+  "Part-ter": {
+    "": "saturado"
+  },
+  "Part-ser": {
+    "ms": "saturado",
+    "fs": "saturada",
+    "mp": "saturados",
+    "fp": "saturadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "guillotinar"
+  },
+  "Ger": {
+    "": "guillotinando"
+  },
+  "PresI": {
+    "1s": "guillotino",
+    "2s": "guillotinas",
+    "3s": "guillotina",
+    "1p": "guillotinamos",
+    "2p": "guillotináis",
+    "3p": "guillotinan"
+  },
+  "PImpI": {
+    "1s": "guillotinaba",
+    "2s": "guillotinabas",
+    "3s": "guillotinaba",
+    "1p": "guillotinábamos",
+    "2p": "guillotinabais",
+    "3p": "guillotinaban"
+  },
+  "PPSI": {
+    "1s": "guillotiné",
+    "2s": "guillotinaste",
+    "3s": "guillotinó",
+    "1p": "guillotinamos",
+    "2p": "guillotinasteis",
+    "3p": "guillotinaron"
+  },
+  "FutSI": {
+    "1s": "guillotinaré",
+    "2s": "guillotinarás",
+    "3s": "guillotinará",
+    "1p": "guillotinaremos",
+    "2p": "guillotinaréis",
+    "3p": "guillotinarán"
+  },
+  "CondS": {
+    "1s": "guillotinaría",
+    "2s": "guillotinarías",
+    "3s": "guillotinaría",
+    "1p": "guillotinaríamos",
+    "2p": "guillotinaríais",
+    "3p": "guillotinarían"
+  },
+  "PresC": {
+    "1s": "guillotine",
+    "2s": "guillotines",
+    "3s": "guillotine",
+    "1p": "guillotinemos",
+    "2p": "guillotinéis",
+    "3p": "guillotinen"
+  },
+  "PMQPSI": {
+    "1s": "guillotinara",
+    "2s": "guillotinaras",
+    "3s": "guillotinara",
+    "1p": "guillotináramos",
+    "2p": "guillotinarais",
+    "3p": "guillotinaran"
+  },
+  "PImpC": {
+    "1s": "guillotinase",
+    "2s": "guillotinases",
+    "3s": "guillotinase",
+    "1p": "guillotinásemos",
+    "2p": "guillotinaseis",
+    "3p": "guillotinasen"
+  },
+  "FutSC": {
+    "1s": "guillotinare",
+    "2s": "guillotinares",
+    "3s": "guillotinare",
+    "1p": "guillotináremos",
+    "2p": "guillotinareis",
+    "3p": "guillotinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "guillotina",
+    "3s": "guillotine",
+    "1p": "guillotinemos",
+    "2p": "guillotinad",
+    "3p": "guillotinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no guillotines",
+    "3s": "no guillotine",
+    "1p": "no guillotinemos",
+    "2p": "no guillotinéis",
+    "3p": "no guillotinen"
+  },
+  "Part-ter": {
+    "": "guillotinado"
+  },
+  "Part-ser": {
+    "ms": "guillotinado",
+    "fs": "guillotinada",
+    "mp": "guillotinados",
+    "fp": "guillotinadas"
+  }
+}

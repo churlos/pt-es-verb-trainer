@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "agregar"
+  },
+  "InfP": {
+    "1s": "agregar",
+    "2s": "agregares",
+    "3s": "agregar",
+    "1p": "agregarmos",
+    "2p": "agregardes",
+    "3p": "agregarem"
+  },
+  "Ger": {
+    "": "agregando"
+  },
+  "PresI": {
+    "1s": "agrego",
+    "2s": "agregas",
+    "3s": "agrega",
+    "1p": "agregamos",
+    "2p": "agregais",
+    "3p": "agregam"
+  },
+  "PImpI": {
+    "1s": "agregava",
+    "2s": "agregavas",
+    "3s": "agregava",
+    "1p": "agregávamos",
+    "2p": "agregáveis",
+    "3p": "agregavam"
+  },
+  "PPSI": {
+    "1s": "agreguei",
+    "2s": "agregaste",
+    "3s": "agregou",
+    "1p": "agregámos",
+    "2p": "agregastes",
+    "3p": "agregaram"
+  },
+  "PMQPSI": {
+    "1s": "agregara",
+    "2s": "agregaras",
+    "3s": "agregara",
+    "1p": "agregáramos",
+    "2p": "agregáreis",
+    "3p": "agregaram"
+  },
+  "FutSI": {
+    "1s": "agregarei",
+    "2s": "agregarás",
+    "3s": "agregará",
+    "1p": "agregaremos",
+    "2p": "agregareis",
+    "3p": "agregarão"
+  },
+  "CondS": {
+    "1s": "agregaria",
+    "2s": "agregarias",
+    "3s": "agregaria",
+    "1p": "agregaríamos",
+    "2p": "agregaríeis",
+    "3p": "agregariam"
+  },
+  "PresC": {
+    "1s": "agregue",
+    "2s": "agregues",
+    "3s": "agregue",
+    "1p": "agreguemos",
+    "2p": "agregueis",
+    "3p": "agreguem"
+  },
+  "PImpC": {
+    "1s": "agregasse",
+    "2s": "agregasses",
+    "3s": "agregasse",
+    "1p": "agregássemos",
+    "2p": "agregásseis",
+    "3p": "agregassem"
+  },
+  "FutSC": {
+    "1s": "agregar",
+    "2s": "agregares",
+    "3s": "agregar",
+    "1p": "agregarmos",
+    "2p": "agregardes",
+    "3p": "agregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agrega",
+    "3s": "agregue",
+    "1p": "agreguemos",
+    "2p": "agregai",
+    "3p": "agreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não agregues",
+    "3s": "não agregue",
+    "1p": "não agreguemos",
+    "2p": "não agregueis",
+    "3p": "não agreguem"
+  },
+  "Part-ter": {
+    "": "agregado"
+  },
+  "Part-ser": {
+    "ms": "agregado",
+    "fs": "agregada",
+    "mp": "agregados",
+    "fp": "agregadas"
+  }
+}

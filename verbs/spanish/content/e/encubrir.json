@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encubrir"
+  },
+  "Ger": {
+    "": "encubriendo"
+  },
+  "PresI": {
+    "1s": "encubro",
+    "2s": "encubres",
+    "3s": "encubre",
+    "1p": "encubrimos",
+    "2p": "encubrís",
+    "3p": "encubren"
+  },
+  "PImpI": {
+    "1s": "encubría",
+    "2s": "encubrías",
+    "3s": "encubría",
+    "1p": "encubríamos",
+    "2p": "encubríais",
+    "3p": "encubrían"
+  },
+  "PPSI": {
+    "1s": "encubrí",
+    "2s": "encubriste",
+    "3s": "encubrió",
+    "1p": "encubrimos",
+    "2p": "encubristeis",
+    "3p": "encubrieron"
+  },
+  "FutSI": {
+    "1s": "encubriré",
+    "2s": "encubrirás",
+    "3s": "encubrirá",
+    "1p": "encubriremos",
+    "2p": "encubriréis",
+    "3p": "encubrirán"
+  },
+  "CondS": {
+    "1s": "encubriría",
+    "2s": "encubrirías",
+    "3s": "encubriría",
+    "1p": "encubriríamos",
+    "2p": "encubriríais",
+    "3p": "encubrirían"
+  },
+  "PresC": {
+    "1s": "encubra",
+    "2s": "encubras",
+    "3s": "encubra",
+    "1p": "encubramos",
+    "2p": "encubráis",
+    "3p": "encubran"
+  },
+  "PMQPSI": {
+    "1s": "encubriera",
+    "2s": "encubrieras",
+    "3s": "encubriera",
+    "1p": "encubriéramos",
+    "2p": "encubrierais",
+    "3p": "encubrieran"
+  },
+  "PImpC": {
+    "1s": "encubriese",
+    "2s": "encubrieses",
+    "3s": "encubriese",
+    "1p": "encubriésemos",
+    "2p": "encubrieseis",
+    "3p": "encubriesen"
+  },
+  "FutSC": {
+    "1s": "encubriere",
+    "2s": "encubrieres",
+    "3s": "encubriere",
+    "1p": "encubriéremos",
+    "2p": "encubriereis",
+    "3p": "encubrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encubre",
+    "3s": "encubra",
+    "1p": "encubramos",
+    "2p": "encubrid",
+    "3p": "encubran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encubras",
+    "3s": "no encubra",
+    "1p": "no encubramos",
+    "2p": "no encubráis",
+    "3p": "no encubran"
+  },
+  "Part-ter": {
+    "": "encubierto"
+  },
+  "Part-ser": {
+    "ms": "encubierto",
+    "fs": "encubierta",
+    "mp": "encubiertos",
+    "fp": "encubiertas"
+  }
+}

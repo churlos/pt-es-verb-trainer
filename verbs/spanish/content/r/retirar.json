@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retirar"
+  },
+  "Ger": {
+    "": "retirando"
+  },
+  "PresI": {
+    "1s": "retiro",
+    "2s": "retiras",
+    "3s": "retira",
+    "1p": "retiramos",
+    "2p": "retiráis",
+    "3p": "retiran"
+  },
+  "PImpI": {
+    "1s": "retiraba",
+    "2s": "retirabas",
+    "3s": "retiraba",
+    "1p": "retirábamos",
+    "2p": "retirabais",
+    "3p": "retiraban"
+  },
+  "PPSI": {
+    "1s": "retiré",
+    "2s": "retiraste",
+    "3s": "retiró",
+    "1p": "retiramos",
+    "2p": "retirasteis",
+    "3p": "retiraron"
+  },
+  "FutSI": {
+    "1s": "retiraré",
+    "2s": "retirarás",
+    "3s": "retirará",
+    "1p": "retiraremos",
+    "2p": "retiraréis",
+    "3p": "retirarán"
+  },
+  "CondS": {
+    "1s": "retiraría",
+    "2s": "retirarías",
+    "3s": "retiraría",
+    "1p": "retiraríamos",
+    "2p": "retiraríais",
+    "3p": "retirarían"
+  },
+  "PresC": {
+    "1s": "retire",
+    "2s": "retires",
+    "3s": "retire",
+    "1p": "retiremos",
+    "2p": "retiréis",
+    "3p": "retiren"
+  },
+  "PMQPSI": {
+    "1s": "retirara",
+    "2s": "retiraras",
+    "3s": "retirara",
+    "1p": "retiráramos",
+    "2p": "retirarais",
+    "3p": "retiraran"
+  },
+  "PImpC": {
+    "1s": "retirase",
+    "2s": "retirases",
+    "3s": "retirase",
+    "1p": "retirásemos",
+    "2p": "retiraseis",
+    "3p": "retirasen"
+  },
+  "FutSC": {
+    "1s": "retirare",
+    "2s": "retirares",
+    "3s": "retirare",
+    "1p": "retiráremos",
+    "2p": "retirareis",
+    "3p": "retiraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retira",
+    "3s": "retire",
+    "1p": "retiremos",
+    "2p": "retirad",
+    "3p": "retiren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retires",
+    "3s": "no retire",
+    "1p": "no retiremos",
+    "2p": "no retiréis",
+    "3p": "no retiren"
+  },
+  "Part-ter": {
+    "": "retirado"
+  },
+  "Part-ser": {
+    "ms": "retirado",
+    "fs": "retirada",
+    "mp": "retirados",
+    "fp": "retiradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "festejar"
+  },
+  "InfP": {
+    "1s": "festejar",
+    "2s": "festejares",
+    "3s": "festejar",
+    "1p": "festejarmos",
+    "2p": "festejardes",
+    "3p": "festejarem"
+  },
+  "Ger": {
+    "": "festejando"
+  },
+  "PresI": {
+    "1s": "festejo",
+    "2s": "festejas",
+    "3s": "festeja",
+    "1p": "festejamos",
+    "2p": "festejais",
+    "3p": "festejam"
+  },
+  "PImpI": {
+    "1s": "festejava",
+    "2s": "festejavas",
+    "3s": "festejava",
+    "1p": "festejávamos",
+    "2p": "festejáveis",
+    "3p": "festejavam"
+  },
+  "PPSI": {
+    "1s": "festejei",
+    "2s": "festejaste",
+    "3s": "festejou",
+    "1p": "festejámos",
+    "2p": "festejastes",
+    "3p": "festejaram"
+  },
+  "PMQPSI": {
+    "1s": "festejara",
+    "2s": "festejaras",
+    "3s": "festejara",
+    "1p": "festejáramos",
+    "2p": "festejáreis",
+    "3p": "festejaram"
+  },
+  "FutSI": {
+    "1s": "festejarei",
+    "2s": "festejarás",
+    "3s": "festejará",
+    "1p": "festejaremos",
+    "2p": "festejareis",
+    "3p": "festejarão"
+  },
+  "CondS": {
+    "1s": "festejaria",
+    "2s": "festejarias",
+    "3s": "festejaria",
+    "1p": "festejaríamos",
+    "2p": "festejaríeis",
+    "3p": "festejariam"
+  },
+  "PresC": {
+    "1s": "festeje",
+    "2s": "festejes",
+    "3s": "festeje",
+    "1p": "festejemos",
+    "2p": "festejeis",
+    "3p": "festejem"
+  },
+  "PImpC": {
+    "1s": "festejasse",
+    "2s": "festejasses",
+    "3s": "festejasse",
+    "1p": "festejássemos",
+    "2p": "festejásseis",
+    "3p": "festejassem"
+  },
+  "FutSC": {
+    "1s": "festejar",
+    "2s": "festejares",
+    "3s": "festejar",
+    "1p": "festejarmos",
+    "2p": "festejardes",
+    "3p": "festejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "festeja",
+    "3s": "festeje",
+    "1p": "festejemos",
+    "2p": "festejai",
+    "3p": "festejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não festejes",
+    "3s": "não festeje",
+    "1p": "não festejemos",
+    "2p": "não festejeis",
+    "3p": "não festejem"
+  },
+  "Part-ter": {
+    "": "festejado"
+  },
+  "Part-ser": {
+    "ms": "festejado",
+    "fs": "festejada",
+    "mp": "festejados",
+    "fp": "festejadas"
+  }
+}

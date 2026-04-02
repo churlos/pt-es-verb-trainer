@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "infeccionar"
+  },
+  "Ger": {
+    "": "infeccionando"
+  },
+  "PresI": {
+    "1s": "infecciono",
+    "2s": "infeccionas",
+    "3s": "infecciona",
+    "1p": "infeccionamos",
+    "2p": "infeccionáis",
+    "3p": "infeccionan"
+  },
+  "PImpI": {
+    "1s": "infeccionaba",
+    "2s": "infeccionabas",
+    "3s": "infeccionaba",
+    "1p": "infeccionábamos",
+    "2p": "infeccionabais",
+    "3p": "infeccionaban"
+  },
+  "PPSI": {
+    "1s": "infeccioné",
+    "2s": "infeccionaste",
+    "3s": "infeccionó",
+    "1p": "infeccionamos",
+    "2p": "infeccionasteis",
+    "3p": "infeccionaron"
+  },
+  "FutSI": {
+    "1s": "infeccionaré",
+    "2s": "infeccionarás",
+    "3s": "infeccionará",
+    "1p": "infeccionaremos",
+    "2p": "infeccionaréis",
+    "3p": "infeccionarán"
+  },
+  "CondS": {
+    "1s": "infeccionaría",
+    "2s": "infeccionarías",
+    "3s": "infeccionaría",
+    "1p": "infeccionaríamos",
+    "2p": "infeccionaríais",
+    "3p": "infeccionarían"
+  },
+  "PresC": {
+    "1s": "infeccione",
+    "2s": "infecciones",
+    "3s": "infeccione",
+    "1p": "infeccionemos",
+    "2p": "infeccionéis",
+    "3p": "infeccionen"
+  },
+  "PMQPSI": {
+    "1s": "infeccionara",
+    "2s": "infeccionaras",
+    "3s": "infeccionara",
+    "1p": "infeccionáramos",
+    "2p": "infeccionarais",
+    "3p": "infeccionaran"
+  },
+  "PImpC": {
+    "1s": "infeccionase",
+    "2s": "infeccionases",
+    "3s": "infeccionase",
+    "1p": "infeccionásemos",
+    "2p": "infeccionaseis",
+    "3p": "infeccionasen"
+  },
+  "FutSC": {
+    "1s": "infeccionare",
+    "2s": "infeccionares",
+    "3s": "infeccionare",
+    "1p": "infeccionáremos",
+    "2p": "infeccionareis",
+    "3p": "infeccionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infecciona",
+    "3s": "infeccione",
+    "1p": "infeccionemos",
+    "2p": "infeccionad",
+    "3p": "infeccionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no infecciones",
+    "3s": "no infeccione",
+    "1p": "no infeccionemos",
+    "2p": "no infeccionéis",
+    "3p": "no infeccionen"
+  },
+  "Part-ter": {
+    "": "infeccionado"
+  },
+  "Part-ser": {
+    "ms": "infeccionado",
+    "fs": "infeccionada",
+    "mp": "infeccionados",
+    "fp": "infeccionadas"
+  }
+}

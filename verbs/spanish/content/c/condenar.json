@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "condenar"
+  },
+  "Ger": {
+    "": "condenando"
+  },
+  "PresI": {
+    "1s": "condeno",
+    "2s": "condenas",
+    "3s": "condena",
+    "1p": "condenamos",
+    "2p": "condenáis",
+    "3p": "condenan"
+  },
+  "PImpI": {
+    "1s": "condenaba",
+    "2s": "condenabas",
+    "3s": "condenaba",
+    "1p": "condenábamos",
+    "2p": "condenabais",
+    "3p": "condenaban"
+  },
+  "PPSI": {
+    "1s": "condené",
+    "2s": "condenaste",
+    "3s": "condenó",
+    "1p": "condenamos",
+    "2p": "condenasteis",
+    "3p": "condenaron"
+  },
+  "FutSI": {
+    "1s": "condenaré",
+    "2s": "condenarás",
+    "3s": "condenará",
+    "1p": "condenaremos",
+    "2p": "condenaréis",
+    "3p": "condenarán"
+  },
+  "CondS": {
+    "1s": "condenaría",
+    "2s": "condenarías",
+    "3s": "condenaría",
+    "1p": "condenaríamos",
+    "2p": "condenaríais",
+    "3p": "condenarían"
+  },
+  "PresC": {
+    "1s": "condene",
+    "2s": "condenes",
+    "3s": "condene",
+    "1p": "condenemos",
+    "2p": "condenéis",
+    "3p": "condenen"
+  },
+  "PMQPSI": {
+    "1s": "condenara",
+    "2s": "condenaras",
+    "3s": "condenara",
+    "1p": "condenáramos",
+    "2p": "condenarais",
+    "3p": "condenaran"
+  },
+  "PImpC": {
+    "1s": "condenase",
+    "2s": "condenases",
+    "3s": "condenase",
+    "1p": "condenásemos",
+    "2p": "condenaseis",
+    "3p": "condenasen"
+  },
+  "FutSC": {
+    "1s": "condenare",
+    "2s": "condenares",
+    "3s": "condenare",
+    "1p": "condenáremos",
+    "2p": "condenareis",
+    "3p": "condenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "condena",
+    "3s": "condene",
+    "1p": "condenemos",
+    "2p": "condenad",
+    "3p": "condenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no condenes",
+    "3s": "no condene",
+    "1p": "no condenemos",
+    "2p": "no condenéis",
+    "3p": "no condenen"
+  },
+  "Part-ter": {
+    "": "condenado"
+  },
+  "Part-ser": {
+    "ms": "condenado",
+    "fs": "condenada",
+    "mp": "condenados",
+    "fp": "condenadas"
+  }
+}

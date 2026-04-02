@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "arreglar"
+  },
+  "Ger": {
+    "": "arreglando"
+  },
+  "PresI": {
+    "1s": "arreglo",
+    "2s": "arreglas",
+    "3s": "arregla",
+    "1p": "arreglamos",
+    "2p": "arregláis",
+    "3p": "arreglan"
+  },
+  "PImpI": {
+    "1s": "arreglaba",
+    "2s": "arreglabas",
+    "3s": "arreglaba",
+    "1p": "arreglábamos",
+    "2p": "arreglabais",
+    "3p": "arreglaban"
+  },
+  "PPSI": {
+    "1s": "arreglé",
+    "2s": "arreglaste",
+    "3s": "arregló",
+    "1p": "arreglamos",
+    "2p": "arreglasteis",
+    "3p": "arreglaron"
+  },
+  "FutSI": {
+    "1s": "arreglaré",
+    "2s": "arreglarás",
+    "3s": "arreglará",
+    "1p": "arreglaremos",
+    "2p": "arreglaréis",
+    "3p": "arreglarán"
+  },
+  "CondS": {
+    "1s": "arreglaría",
+    "2s": "arreglarías",
+    "3s": "arreglaría",
+    "1p": "arreglaríamos",
+    "2p": "arreglaríais",
+    "3p": "arreglarían"
+  },
+  "PresC": {
+    "1s": "arregle",
+    "2s": "arregles",
+    "3s": "arregle",
+    "1p": "arreglemos",
+    "2p": "arregléis",
+    "3p": "arreglen"
+  },
+  "PMQPSI": {
+    "1s": "arreglara",
+    "2s": "arreglaras",
+    "3s": "arreglara",
+    "1p": "arregláramos",
+    "2p": "arreglarais",
+    "3p": "arreglaran"
+  },
+  "PImpC": {
+    "1s": "arreglase",
+    "2s": "arreglases",
+    "3s": "arreglase",
+    "1p": "arreglásemos",
+    "2p": "arreglaseis",
+    "3p": "arreglasen"
+  },
+  "FutSC": {
+    "1s": "arreglare",
+    "2s": "arreglares",
+    "3s": "arreglare",
+    "1p": "arregláremos",
+    "2p": "arreglareis",
+    "3p": "arreglaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arregla",
+    "3s": "arregle",
+    "1p": "arreglemos",
+    "2p": "arreglad",
+    "3p": "arreglen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no arregles",
+    "3s": "no arregle",
+    "1p": "no arreglemos",
+    "2p": "no arregléis",
+    "3p": "no arreglen"
+  },
+  "Part-ter": {
+    "": "arreglado"
+  },
+  "Part-ser": {
+    "ms": "arreglado",
+    "fs": "arreglada",
+    "mp": "arreglados",
+    "fp": "arregladas"
+  }
+}

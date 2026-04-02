@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dedicar"
+  },
+  "InfP": {
+    "1s": "dedicar",
+    "2s": "dedicares",
+    "3s": "dedicar",
+    "1p": "dedicarmos",
+    "2p": "dedicardes",
+    "3p": "dedicarem"
+  },
+  "Ger": {
+    "": "dedicando"
+  },
+  "PresI": {
+    "1s": "dedico",
+    "2s": "dedicas",
+    "3s": "dedica",
+    "1p": "dedicamos",
+    "2p": "dedicais",
+    "3p": "dedicam"
+  },
+  "PImpI": {
+    "1s": "dedicava",
+    "2s": "dedicavas",
+    "3s": "dedicava",
+    "1p": "dedicávamos",
+    "2p": "dedicáveis",
+    "3p": "dedicavam"
+  },
+  "PPSI": {
+    "1s": "dediquei",
+    "2s": "dedicaste",
+    "3s": "dedicou",
+    "1p": "dedicámos",
+    "2p": "dedicastes",
+    "3p": "dedicaram"
+  },
+  "PMQPSI": {
+    "1s": "dedicara",
+    "2s": "dedicaras",
+    "3s": "dedicara",
+    "1p": "dedicáramos",
+    "2p": "dedicáreis",
+    "3p": "dedicaram"
+  },
+  "FutSI": {
+    "1s": "dedicarei",
+    "2s": "dedicarás",
+    "3s": "dedicará",
+    "1p": "dedicaremos",
+    "2p": "dedicareis",
+    "3p": "dedicarão"
+  },
+  "CondS": {
+    "1s": "dedicaria",
+    "2s": "dedicarias",
+    "3s": "dedicaria",
+    "1p": "dedicaríamos",
+    "2p": "dedicaríeis",
+    "3p": "dedicariam"
+  },
+  "PresC": {
+    "1s": "dedique",
+    "2s": "dediques",
+    "3s": "dedique",
+    "1p": "dediquemos",
+    "2p": "dediqueis",
+    "3p": "dediquem"
+  },
+  "PImpC": {
+    "1s": "dedicasse",
+    "2s": "dedicasses",
+    "3s": "dedicasse",
+    "1p": "dedicássemos",
+    "2p": "dedicásseis",
+    "3p": "dedicassem"
+  },
+  "FutSC": {
+    "1s": "dedicar",
+    "2s": "dedicares",
+    "3s": "dedicar",
+    "1p": "dedicarmos",
+    "2p": "dedicardes",
+    "3p": "dedicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dedica",
+    "3s": "dedique",
+    "1p": "dediquemos",
+    "2p": "dedicai",
+    "3p": "dediquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dediques",
+    "3s": "não dedique",
+    "1p": "não dediquemos",
+    "2p": "não dediqueis",
+    "3p": "não dediquem"
+  },
+  "Part-ter": {
+    "": "dedicado"
+  },
+  "Part-ser": {
+    "ms": "dedicado",
+    "fs": "dedicada",
+    "mp": "dedicados",
+    "fp": "dedicadas"
+  }
+}

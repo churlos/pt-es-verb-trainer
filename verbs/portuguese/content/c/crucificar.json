@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "crucificar"
+  },
+  "InfP": {
+    "1s": "crucificar",
+    "2s": "crucificares",
+    "3s": "crucificar",
+    "1p": "crucificarmos",
+    "2p": "crucificardes",
+    "3p": "crucificarem"
+  },
+  "Ger": {
+    "": "crucificando"
+  },
+  "PresI": {
+    "1s": "crucifico",
+    "2s": "crucificas",
+    "3s": "crucifica",
+    "1p": "crucificamos",
+    "2p": "crucificais",
+    "3p": "crucificam"
+  },
+  "PImpI": {
+    "1s": "crucificava",
+    "2s": "crucificavas",
+    "3s": "crucificava",
+    "1p": "crucificávamos",
+    "2p": "crucificáveis",
+    "3p": "crucificavam"
+  },
+  "PPSI": {
+    "1s": "crucifiquei",
+    "2s": "crucificaste",
+    "3s": "crucificou",
+    "1p": "crucificámos",
+    "2p": "crucificastes",
+    "3p": "crucificaram"
+  },
+  "PMQPSI": {
+    "1s": "crucificara",
+    "2s": "crucificaras",
+    "3s": "crucificara",
+    "1p": "crucificáramos",
+    "2p": "crucificáreis",
+    "3p": "crucificaram"
+  },
+  "FutSI": {
+    "1s": "crucificarei",
+    "2s": "crucificarás",
+    "3s": "crucificará",
+    "1p": "crucificaremos",
+    "2p": "crucificareis",
+    "3p": "crucificarão"
+  },
+  "CondS": {
+    "1s": "crucificaria",
+    "2s": "crucificarias",
+    "3s": "crucificaria",
+    "1p": "crucificaríamos",
+    "2p": "crucificaríeis",
+    "3p": "crucificariam"
+  },
+  "PresC": {
+    "1s": "crucifique",
+    "2s": "crucifiques",
+    "3s": "crucifique",
+    "1p": "crucifiquemos",
+    "2p": "crucifiqueis",
+    "3p": "crucifiquem"
+  },
+  "PImpC": {
+    "1s": "crucificasse",
+    "2s": "crucificasses",
+    "3s": "crucificasse",
+    "1p": "crucificássemos",
+    "2p": "crucificásseis",
+    "3p": "crucificassem"
+  },
+  "FutSC": {
+    "1s": "crucificar",
+    "2s": "crucificares",
+    "3s": "crucificar",
+    "1p": "crucificarmos",
+    "2p": "crucificardes",
+    "3p": "crucificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crucifica",
+    "3s": "crucifique",
+    "1p": "crucifiquemos",
+    "2p": "crucificai",
+    "3p": "crucifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não crucifiques",
+    "3s": "não crucifique",
+    "1p": "não crucifiquemos",
+    "2p": "não crucifiqueis",
+    "3p": "não crucifiquem"
+  },
+  "Part-ter": {
+    "": "crucificado"
+  },
+  "Part-ser": {
+    "ms": "crucificado",
+    "fs": "crucificada",
+    "mp": "crucificados",
+    "fp": "crucificadas"
+  }
+}

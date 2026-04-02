@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mestizar"
+  },
+  "Ger": {
+    "": "mestizando"
+  },
+  "PresI": {
+    "1s": "mestizo",
+    "2s": "mestizas",
+    "3s": "mestiza",
+    "1p": "mestizamos",
+    "2p": "mestizáis",
+    "3p": "mestizan"
+  },
+  "PImpI": {
+    "1s": "mestizaba",
+    "2s": "mestizabas",
+    "3s": "mestizaba",
+    "1p": "mestizábamos",
+    "2p": "mestizabais",
+    "3p": "mestizaban"
+  },
+  "PPSI": {
+    "1s": "mesticé",
+    "2s": "mestizaste",
+    "3s": "mestizó",
+    "1p": "mestizamos",
+    "2p": "mestizasteis",
+    "3p": "mestizaron"
+  },
+  "FutSI": {
+    "1s": "mestizaré",
+    "2s": "mestizarás",
+    "3s": "mestizará",
+    "1p": "mestizaremos",
+    "2p": "mestizaréis",
+    "3p": "mestizarán"
+  },
+  "CondS": {
+    "1s": "mestizaría",
+    "2s": "mestizarías",
+    "3s": "mestizaría",
+    "1p": "mestizaríamos",
+    "2p": "mestizaríais",
+    "3p": "mestizarían"
+  },
+  "PresC": {
+    "1s": "mestice",
+    "2s": "mestices",
+    "3s": "mestice",
+    "1p": "mesticemos",
+    "2p": "mesticéis",
+    "3p": "mesticen"
+  },
+  "PMQPSI": {
+    "1s": "mestizara",
+    "2s": "mestizaras",
+    "3s": "mestizara",
+    "1p": "mestizáramos",
+    "2p": "mestizarais",
+    "3p": "mestizaran"
+  },
+  "PImpC": {
+    "1s": "mestizase",
+    "2s": "mestizases",
+    "3s": "mestizase",
+    "1p": "mestizásemos",
+    "2p": "mestizaseis",
+    "3p": "mestizasen"
+  },
+  "FutSC": {
+    "1s": "mestizare",
+    "2s": "mestizares",
+    "3s": "mestizare",
+    "1p": "mestizáremos",
+    "2p": "mestizareis",
+    "3p": "mestizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mestiza",
+    "3s": "mestice",
+    "1p": "mesticemos",
+    "2p": "mestizad",
+    "3p": "mesticen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mestices",
+    "3s": "no mestice",
+    "1p": "no mesticemos",
+    "2p": "no mesticéis",
+    "3p": "no mesticen"
+  },
+  "Part-ter": {
+    "": "mestizado"
+  },
+  "Part-ser": {
+    "ms": "mestizado",
+    "fs": "mestizada",
+    "mp": "mestizados",
+    "fp": "mestizadas"
+  }
+}

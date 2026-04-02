@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inducir"
+  },
+  "Ger": {
+    "": "induciendo"
+  },
+  "PresI": {
+    "1s": "induzco",
+    "2s": "induces",
+    "3s": "induce",
+    "1p": "inducimos",
+    "2p": "inducís",
+    "3p": "inducen"
+  },
+  "PImpI": {
+    "1s": "inducía",
+    "2s": "inducías",
+    "3s": "inducía",
+    "1p": "inducíamos",
+    "2p": "inducíais",
+    "3p": "inducían"
+  },
+  "PPSI": {
+    "1s": "induje",
+    "2s": "indujiste",
+    "3s": "indujo",
+    "1p": "indujimos",
+    "2p": "indujisteis",
+    "3p": "indujeron"
+  },
+  "FutSI": {
+    "1s": "induciré",
+    "2s": "inducirás",
+    "3s": "inducirá",
+    "1p": "induciremos",
+    "2p": "induciréis",
+    "3p": "inducirán"
+  },
+  "CondS": {
+    "1s": "induciría",
+    "2s": "inducirías",
+    "3s": "induciría",
+    "1p": "induciríamos",
+    "2p": "induciríais",
+    "3p": "inducirían"
+  },
+  "PresC": {
+    "1s": "induzca",
+    "2s": "induzcas",
+    "3s": "induzca",
+    "1p": "induzcamos",
+    "2p": "induzcáis",
+    "3p": "induzcan"
+  },
+  "PMQPSI": {
+    "1s": "indujera",
+    "2s": "indujeras",
+    "3s": "indujera",
+    "1p": "indujéramos",
+    "2p": "indujerais",
+    "3p": "indujeran"
+  },
+  "PImpC": {
+    "1s": "indujese",
+    "2s": "indujeses",
+    "3s": "indujese",
+    "1p": "indujésemos",
+    "2p": "indujeseis",
+    "3p": "indujesen"
+  },
+  "FutSC": {
+    "1s": "indujere",
+    "2s": "indujeres",
+    "3s": "indujere",
+    "1p": "indujéremos",
+    "2p": "indujereis",
+    "3p": "indujeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "induce",
+    "3s": "induzca",
+    "1p": "induzcamos",
+    "2p": "inducid",
+    "3p": "induzcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no induzcas",
+    "3s": "no induzca",
+    "1p": "no induzcamos",
+    "2p": "no induzcáis",
+    "3p": "no induzcan"
+  },
+  "Part-ter": {
+    "": "inducido"
+  },
+  "Part-ser": {
+    "ms": "inducido",
+    "fs": "inducida",
+    "mp": "inducidos",
+    "fp": "inducidas"
+  }
+}

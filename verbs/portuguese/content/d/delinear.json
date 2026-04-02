@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "delinear"
+  },
+  "InfP": {
+    "1s": "delinear",
+    "2s": "delineares",
+    "3s": "delinear",
+    "1p": "delinearmos",
+    "2p": "delineardes",
+    "3p": "delinearem"
+  },
+  "Ger": {
+    "": "delineando"
+  },
+  "PresI": {
+    "1s": "delineio",
+    "2s": "delineias",
+    "3s": "delineia",
+    "1p": "delineamos",
+    "2p": "delineais",
+    "3p": "delineiam"
+  },
+  "PImpI": {
+    "1s": "delineava",
+    "2s": "delineavas",
+    "3s": "delineava",
+    "1p": "delineávamos",
+    "2p": "delineáveis",
+    "3p": "delineavam"
+  },
+  "PPSI": {
+    "1s": "delineei",
+    "2s": "delineaste",
+    "3s": "delineou",
+    "1p": "delineámos",
+    "2p": "delineastes",
+    "3p": "delinearam"
+  },
+  "PMQPSI": {
+    "1s": "delineara",
+    "2s": "delinearas",
+    "3s": "delineara",
+    "1p": "delineáramos",
+    "2p": "delineáreis",
+    "3p": "delinearam"
+  },
+  "FutSI": {
+    "1s": "delinearei",
+    "2s": "delinearás",
+    "3s": "delineará",
+    "1p": "delinearemos",
+    "2p": "delineareis",
+    "3p": "delinearão"
+  },
+  "CondS": {
+    "1s": "delinearia",
+    "2s": "delinearias",
+    "3s": "delinearia",
+    "1p": "delinearíamos",
+    "2p": "delinearíeis",
+    "3p": "delineariam"
+  },
+  "PresC": {
+    "1s": "delineie",
+    "2s": "delineies",
+    "3s": "delineie",
+    "1p": "delineemos",
+    "2p": "delineeis",
+    "3p": "delineiem"
+  },
+  "PImpC": {
+    "1s": "delineasse",
+    "2s": "delineasses",
+    "3s": "delineasse",
+    "1p": "delineássemos",
+    "2p": "delineásseis",
+    "3p": "delineassem"
+  },
+  "FutSC": {
+    "1s": "delinear",
+    "2s": "delineares",
+    "3s": "delinear",
+    "1p": "delinearmos",
+    "2p": "delineardes",
+    "3p": "delinearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "delineia",
+    "3s": "delineie",
+    "1p": "delineemos",
+    "2p": "delineai",
+    "3p": "delineiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não delineies",
+    "3s": "não delineie",
+    "1p": "não delineemos",
+    "2p": "não delineeis",
+    "3p": "não delineiem"
+  },
+  "Part-ter": {
+    "": "delineado"
+  },
+  "Part-ser": {
+    "ms": "delineado",
+    "fs": "delineada",
+    "mp": "delineados",
+    "fp": "delineadas"
+  }
+}

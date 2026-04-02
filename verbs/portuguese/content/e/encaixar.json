@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "encaixar"
+  },
+  "InfP": {
+    "1s": "encaixar",
+    "2s": "encaixares",
+    "3s": "encaixar",
+    "1p": "encaixarmos",
+    "2p": "encaixardes",
+    "3p": "encaixarem"
+  },
+  "Ger": {
+    "": "encaixando"
+  },
+  "PresI": {
+    "1s": "encaixo",
+    "2s": "encaixas",
+    "3s": "encaixa",
+    "1p": "encaixamos",
+    "2p": "encaixais",
+    "3p": "encaixam"
+  },
+  "PImpI": {
+    "1s": "encaixava",
+    "2s": "encaixavas",
+    "3s": "encaixava",
+    "1p": "encaixávamos",
+    "2p": "encaixáveis",
+    "3p": "encaixavam"
+  },
+  "PPSI": {
+    "1s": "encaixei",
+    "2s": "encaixaste",
+    "3s": "encaixou",
+    "1p": "encaixámos",
+    "2p": "encaixastes",
+    "3p": "encaixaram"
+  },
+  "PMQPSI": {
+    "1s": "encaixara",
+    "2s": "encaixaras",
+    "3s": "encaixara",
+    "1p": "encaixáramos",
+    "2p": "encaixáreis",
+    "3p": "encaixaram"
+  },
+  "FutSI": {
+    "1s": "encaixarei",
+    "2s": "encaixarás",
+    "3s": "encaixará",
+    "1p": "encaixaremos",
+    "2p": "encaixareis",
+    "3p": "encaixarão"
+  },
+  "CondS": {
+    "1s": "encaixaria",
+    "2s": "encaixarias",
+    "3s": "encaixaria",
+    "1p": "encaixaríamos",
+    "2p": "encaixaríeis",
+    "3p": "encaixariam"
+  },
+  "PresC": {
+    "1s": "encaixe",
+    "2s": "encaixes",
+    "3s": "encaixe",
+    "1p": "encaixemos",
+    "2p": "encaixeis",
+    "3p": "encaixem"
+  },
+  "PImpC": {
+    "1s": "encaixasse",
+    "2s": "encaixasses",
+    "3s": "encaixasse",
+    "1p": "encaixássemos",
+    "2p": "encaixásseis",
+    "3p": "encaixassem"
+  },
+  "FutSC": {
+    "1s": "encaixar",
+    "2s": "encaixares",
+    "3s": "encaixar",
+    "1p": "encaixarmos",
+    "2p": "encaixardes",
+    "3p": "encaixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encaixa",
+    "3s": "encaixe",
+    "1p": "encaixemos",
+    "2p": "encaixai",
+    "3p": "encaixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não encaixes",
+    "3s": "não encaixe",
+    "1p": "não encaixemos",
+    "2p": "não encaixeis",
+    "3p": "não encaixem"
+  },
+  "Part-ter": {
+    "": "encaixado"
+  },
+  "Part-ser": {
+    "ms": "encaixado",
+    "fs": "encaixada",
+    "mp": "encaixados",
+    "fp": "encaixadas"
+  }
+}

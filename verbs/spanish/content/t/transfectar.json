@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transfectar"
+  },
+  "Ger": {
+    "": "transfectando"
+  },
+  "PresI": {
+    "1s": "transfecto",
+    "2s": "transfectas",
+    "3s": "transfecta",
+    "1p": "transfectamos",
+    "2p": "transfectáis",
+    "3p": "transfectan"
+  },
+  "PImpI": {
+    "1s": "transfectaba",
+    "2s": "transfectabas",
+    "3s": "transfectaba",
+    "1p": "transfectábamos",
+    "2p": "transfectabais",
+    "3p": "transfectaban"
+  },
+  "PPSI": {
+    "1s": "transfecté",
+    "2s": "transfectaste",
+    "3s": "transfectó",
+    "1p": "transfectamos",
+    "2p": "transfectasteis",
+    "3p": "transfectaron"
+  },
+  "FutSI": {
+    "1s": "transfectaré",
+    "2s": "transfectarás",
+    "3s": "transfectará",
+    "1p": "transfectaremos",
+    "2p": "transfectaréis",
+    "3p": "transfectarán"
+  },
+  "CondS": {
+    "1s": "transfectaría",
+    "2s": "transfectarías",
+    "3s": "transfectaría",
+    "1p": "transfectaríamos",
+    "2p": "transfectaríais",
+    "3p": "transfectarían"
+  },
+  "PresC": {
+    "1s": "transfecte",
+    "2s": "transfectes",
+    "3s": "transfecte",
+    "1p": "transfectemos",
+    "2p": "transfectéis",
+    "3p": "transfecten"
+  },
+  "PMQPSI": {
+    "1s": "transfectara",
+    "2s": "transfectaras",
+    "3s": "transfectara",
+    "1p": "transfectáramos",
+    "2p": "transfectarais",
+    "3p": "transfectaran"
+  },
+  "PImpC": {
+    "1s": "transfectase",
+    "2s": "transfectases",
+    "3s": "transfectase",
+    "1p": "transfectásemos",
+    "2p": "transfectaseis",
+    "3p": "transfectasen"
+  },
+  "FutSC": {
+    "1s": "transfectare",
+    "2s": "transfectares",
+    "3s": "transfectare",
+    "1p": "transfectáremos",
+    "2p": "transfectareis",
+    "3p": "transfectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transfecta",
+    "3s": "transfecte",
+    "1p": "transfectemos",
+    "2p": "transfectad",
+    "3p": "transfecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transfectes",
+    "3s": "no transfecte",
+    "1p": "no transfectemos",
+    "2p": "no transfectéis",
+    "3p": "no transfecten"
+  },
+  "Part-ter": {
+    "": "transfectado"
+  },
+  "Part-ser": {
+    "ms": "transfectado",
+    "fs": "transfectada",
+    "mp": "transfectados",
+    "fp": "transfectadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gravitar"
+  },
+  "Ger": {
+    "": "gravitando"
+  },
+  "PresI": {
+    "1s": "gravito",
+    "2s": "gravitas",
+    "3s": "gravita",
+    "1p": "gravitamos",
+    "2p": "gravitáis",
+    "3p": "gravitan"
+  },
+  "PImpI": {
+    "1s": "gravitaba",
+    "2s": "gravitabas",
+    "3s": "gravitaba",
+    "1p": "gravitábamos",
+    "2p": "gravitabais",
+    "3p": "gravitaban"
+  },
+  "PPSI": {
+    "1s": "gravité",
+    "2s": "gravitaste",
+    "3s": "gravitó",
+    "1p": "gravitamos",
+    "2p": "gravitasteis",
+    "3p": "gravitaron"
+  },
+  "FutSI": {
+    "1s": "gravitaré",
+    "2s": "gravitarás",
+    "3s": "gravitará",
+    "1p": "gravitaremos",
+    "2p": "gravitaréis",
+    "3p": "gravitarán"
+  },
+  "CondS": {
+    "1s": "gravitaría",
+    "2s": "gravitarías",
+    "3s": "gravitaría",
+    "1p": "gravitaríamos",
+    "2p": "gravitaríais",
+    "3p": "gravitarían"
+  },
+  "PresC": {
+    "1s": "gravite",
+    "2s": "gravites",
+    "3s": "gravite",
+    "1p": "gravitemos",
+    "2p": "gravitéis",
+    "3p": "graviten"
+  },
+  "PMQPSI": {
+    "1s": "gravitara",
+    "2s": "gravitaras",
+    "3s": "gravitara",
+    "1p": "gravitáramos",
+    "2p": "gravitarais",
+    "3p": "gravitaran"
+  },
+  "PImpC": {
+    "1s": "gravitase",
+    "2s": "gravitases",
+    "3s": "gravitase",
+    "1p": "gravitásemos",
+    "2p": "gravitaseis",
+    "3p": "gravitasen"
+  },
+  "FutSC": {
+    "1s": "gravitare",
+    "2s": "gravitares",
+    "3s": "gravitare",
+    "1p": "gravitáremos",
+    "2p": "gravitareis",
+    "3p": "gravitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gravita",
+    "3s": "gravite",
+    "1p": "gravitemos",
+    "2p": "gravitad",
+    "3p": "graviten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gravites",
+    "3s": "no gravite",
+    "1p": "no gravitemos",
+    "2p": "no gravitéis",
+    "3p": "no graviten"
+  },
+  "Part-ter": {
+    "": "gravitado"
+  },
+  "Part-ser": {
+    "ms": "gravitado",
+    "fs": "gravitada",
+    "mp": "gravitados",
+    "fp": "gravitadas"
+  }
+}

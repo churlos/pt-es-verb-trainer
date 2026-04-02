@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "buzar"
+  },
+  "Ger": {
+    "": "buzando"
+  },
+  "PresI": {
+    "1s": "buzo",
+    "2s": "buzas",
+    "3s": "buza",
+    "1p": "buzamos",
+    "2p": "buzáis",
+    "3p": "buzan"
+  },
+  "PImpI": {
+    "1s": "buzaba",
+    "2s": "buzabas",
+    "3s": "buzaba",
+    "1p": "buzábamos",
+    "2p": "buzabais",
+    "3p": "buzaban"
+  },
+  "PPSI": {
+    "1s": "bucé",
+    "2s": "buzaste",
+    "3s": "buzó",
+    "1p": "buzamos",
+    "2p": "buzasteis",
+    "3p": "buzaron"
+  },
+  "FutSI": {
+    "1s": "buzaré",
+    "2s": "buzarás",
+    "3s": "buzará",
+    "1p": "buzaremos",
+    "2p": "buzaréis",
+    "3p": "buzarán"
+  },
+  "CondS": {
+    "1s": "buzaría",
+    "2s": "buzarías",
+    "3s": "buzaría",
+    "1p": "buzaríamos",
+    "2p": "buzaríais",
+    "3p": "buzarían"
+  },
+  "PresC": {
+    "1s": "buce",
+    "2s": "buces",
+    "3s": "buce",
+    "1p": "bucemos",
+    "2p": "bucéis",
+    "3p": "bucen"
+  },
+  "PMQPSI": {
+    "1s": "buzara",
+    "2s": "buzaras",
+    "3s": "buzara",
+    "1p": "buzáramos",
+    "2p": "buzarais",
+    "3p": "buzaran"
+  },
+  "PImpC": {
+    "1s": "buzase",
+    "2s": "buzases",
+    "3s": "buzase",
+    "1p": "buzásemos",
+    "2p": "buzaseis",
+    "3p": "buzasen"
+  },
+  "FutSC": {
+    "1s": "buzare",
+    "2s": "buzares",
+    "3s": "buzare",
+    "1p": "buzáremos",
+    "2p": "buzareis",
+    "3p": "buzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "buza",
+    "3s": "buce",
+    "1p": "bucemos",
+    "2p": "buzad",
+    "3p": "bucen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no buces",
+    "3s": "no buce",
+    "1p": "no bucemos",
+    "2p": "no bucéis",
+    "3p": "no bucen"
+  },
+  "Part-ter": {
+    "": "buzado"
+  },
+  "Part-ser": {
+    "ms": "buzado",
+    "fs": "buzada",
+    "mp": "buzados",
+    "fp": "buzadas"
+  }
+}

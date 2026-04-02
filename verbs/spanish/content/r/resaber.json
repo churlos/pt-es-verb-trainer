@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resaber"
+  },
+  "Ger": {
+    "": "resabiendo"
+  },
+  "PresI": {
+    "1s": "resé",
+    "2s": "resabes",
+    "3s": "resabe",
+    "1p": "resabemos",
+    "2p": "resabéis",
+    "3p": "resaben"
+  },
+  "PImpI": {
+    "1s": "resabía",
+    "2s": "resabías",
+    "3s": "resabía",
+    "1p": "resabíamos",
+    "2p": "resabíais",
+    "3p": "resabían"
+  },
+  "PPSI": {
+    "1s": "resupe",
+    "2s": "resupiste",
+    "3s": "resupo",
+    "1p": "resupimos",
+    "2p": "resupisteis",
+    "3p": "resupieron"
+  },
+  "FutSI": {
+    "1s": "resabré",
+    "2s": "resabrás",
+    "3s": "resabrá",
+    "1p": "resabremos",
+    "2p": "resabréis",
+    "3p": "resabrán"
+  },
+  "CondS": {
+    "1s": "resabría",
+    "2s": "resabrías",
+    "3s": "resabría",
+    "1p": "resabríamos",
+    "2p": "resabríais",
+    "3p": "resabrían"
+  },
+  "PresC": {
+    "1s": "resepa",
+    "2s": "resepas",
+    "3s": "resepa",
+    "1p": "resepamos",
+    "2p": "resepáis",
+    "3p": "resepan"
+  },
+  "PMQPSI": {
+    "1s": "resupiera",
+    "2s": "resupieras",
+    "3s": "resupiera",
+    "1p": "resupiéramos",
+    "2p": "resupierais",
+    "3p": "resupieran"
+  },
+  "PImpC": {
+    "1s": "resupiese",
+    "2s": "resupieses",
+    "3s": "resupiese",
+    "1p": "resupiésemos",
+    "2p": "resupieseis",
+    "3p": "resupiesen"
+  },
+  "FutSC": {
+    "1s": "resupiere",
+    "2s": "resupieres",
+    "3s": "resupiere",
+    "1p": "resupiéremos",
+    "2p": "resupiereis",
+    "3p": "resupieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resabe",
+    "3s": "resepa",
+    "1p": "resepamos",
+    "2p": "resabed",
+    "3p": "resepan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no resepas",
+    "3s": "no resepa",
+    "1p": "no resepamos",
+    "2p": "no resepáis",
+    "3p": "no resepan"
+  },
+  "Part-ter": {
+    "": "resabido"
+  },
+  "Part-ser": {
+    "ms": "resabido",
+    "fs": "resabida",
+    "mp": "resabidos",
+    "fp": "resabidas"
+  }
+}

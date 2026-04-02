@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "terçar"
+  },
+  "InfP": {
+    "1s": "terçar",
+    "2s": "terçares",
+    "3s": "terçar",
+    "1p": "terçarmos",
+    "2p": "terçardes",
+    "3p": "terçarem"
+  },
+  "Ger": {
+    "": "terçando"
+  },
+  "PresI": {
+    "1s": "terço",
+    "2s": "terças",
+    "3s": "terça",
+    "1p": "terçamos",
+    "2p": "terçais",
+    "3p": "terçam"
+  },
+  "PImpI": {
+    "1s": "terçava",
+    "2s": "terçavas",
+    "3s": "terçava",
+    "1p": "terçávamos",
+    "2p": "terçáveis",
+    "3p": "terçavam"
+  },
+  "PPSI": {
+    "1s": "terçei",
+    "2s": "terçaste",
+    "3s": "terçou",
+    "1p": "terçámos",
+    "2p": "terçastes",
+    "3p": "terçaram"
+  },
+  "PMQPSI": {
+    "1s": "terçara",
+    "2s": "terçaras",
+    "3s": "terçara",
+    "1p": "terçáramos",
+    "2p": "terçáreis",
+    "3p": "terçaram"
+  },
+  "FutSI": {
+    "1s": "terçarei",
+    "2s": "terçarás",
+    "3s": "terçará",
+    "1p": "terçaremos",
+    "2p": "terçareis",
+    "3p": "terçarão"
+  },
+  "CondS": {
+    "1s": "terçaria",
+    "2s": "terçarias",
+    "3s": "terçaria",
+    "1p": "terçaríamos",
+    "2p": "terçaríeis",
+    "3p": "terçariam"
+  },
+  "PresC": {
+    "1s": "terçe",
+    "2s": "terçes",
+    "3s": "terçe",
+    "1p": "terçemos",
+    "2p": "terçeis",
+    "3p": "terçem"
+  },
+  "PImpC": {
+    "1s": "terçasse",
+    "2s": "terçasses",
+    "3s": "terçasse",
+    "1p": "terçássemos",
+    "2p": "terçásseis",
+    "3p": "terçassem"
+  },
+  "FutSC": {
+    "1s": "terçar",
+    "2s": "terçares",
+    "3s": "terçar",
+    "1p": "terçarmos",
+    "2p": "terçardes",
+    "3p": "terçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "terça",
+    "3s": "terçe",
+    "1p": "terçemos",
+    "2p": "terçai",
+    "3p": "terçem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não terçes",
+    "3s": "não terçe",
+    "1p": "não terçemos",
+    "2p": "não terçeis",
+    "3p": "não terçem"
+  },
+  "Part-ter": {
+    "": "terçado"
+  },
+  "Part-ser": {
+    "ms": "terçado",
+    "fs": "terçada",
+    "mp": "terçados",
+    "fp": "terçadas"
+  }
+}

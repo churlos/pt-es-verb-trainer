@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inicializar"
+  },
+  "Ger": {
+    "": "inicializando"
+  },
+  "PresI": {
+    "1s": "inicializo",
+    "2s": "inicializas",
+    "3s": "inicializa",
+    "1p": "inicializamos",
+    "2p": "inicializáis",
+    "3p": "inicializan"
+  },
+  "PImpI": {
+    "1s": "inicializaba",
+    "2s": "inicializabas",
+    "3s": "inicializaba",
+    "1p": "inicializábamos",
+    "2p": "inicializabais",
+    "3p": "inicializaban"
+  },
+  "PPSI": {
+    "1s": "inicialicé",
+    "2s": "inicializaste",
+    "3s": "inicializó",
+    "1p": "inicializamos",
+    "2p": "inicializasteis",
+    "3p": "inicializaron"
+  },
+  "FutSI": {
+    "1s": "inicializaré",
+    "2s": "inicializarás",
+    "3s": "inicializará",
+    "1p": "inicializaremos",
+    "2p": "inicializaréis",
+    "3p": "inicializarán"
+  },
+  "CondS": {
+    "1s": "inicializaría",
+    "2s": "inicializarías",
+    "3s": "inicializaría",
+    "1p": "inicializaríamos",
+    "2p": "inicializaríais",
+    "3p": "inicializarían"
+  },
+  "PresC": {
+    "1s": "inicialice",
+    "2s": "inicialices",
+    "3s": "inicialice",
+    "1p": "inicialicemos",
+    "2p": "inicialicéis",
+    "3p": "inicialicen"
+  },
+  "PMQPSI": {
+    "1s": "inicializara",
+    "2s": "inicializaras",
+    "3s": "inicializara",
+    "1p": "inicializáramos",
+    "2p": "inicializarais",
+    "3p": "inicializaran"
+  },
+  "PImpC": {
+    "1s": "inicializase",
+    "2s": "inicializases",
+    "3s": "inicializase",
+    "1p": "inicializásemos",
+    "2p": "inicializaseis",
+    "3p": "inicializasen"
+  },
+  "FutSC": {
+    "1s": "inicializare",
+    "2s": "inicializares",
+    "3s": "inicializare",
+    "1p": "inicializáremos",
+    "2p": "inicializareis",
+    "3p": "inicializaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inicializa",
+    "3s": "inicialice",
+    "1p": "inicialicemos",
+    "2p": "inicializad",
+    "3p": "inicialicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inicialices",
+    "3s": "no inicialice",
+    "1p": "no inicialicemos",
+    "2p": "no inicialicéis",
+    "3p": "no inicialicen"
+  },
+  "Part-ter": {
+    "": "inicializado"
+  },
+  "Part-ser": {
+    "ms": "inicializado",
+    "fs": "inicializada",
+    "mp": "inicializados",
+    "fp": "inicializadas"
+  }
+}

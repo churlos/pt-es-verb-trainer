@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "toller"
+  },
+  "Ger": {
+    "": "tollendo"
+  },
+  "PresI": {
+    "1s": "tollo",
+    "2s": "tolles",
+    "3s": "tolle",
+    "1p": "tollemos",
+    "2p": "tolléis",
+    "3p": "tollen"
+  },
+  "PImpI": {
+    "1s": "tollía",
+    "2s": "tollías",
+    "3s": "tollía",
+    "1p": "tollíamos",
+    "2p": "tollíais",
+    "3p": "tollían"
+  },
+  "PPSI": {
+    "1s": "tollí",
+    "2s": "tolliste",
+    "3s": "tolló",
+    "1p": "tollimos",
+    "2p": "tollisteis",
+    "3p": "tolleron"
+  },
+  "FutSI": {
+    "1s": "tolleré",
+    "2s": "tollerás",
+    "3s": "tollerá",
+    "1p": "tolleremos",
+    "2p": "tolleréis",
+    "3p": "tollerán"
+  },
+  "CondS": {
+    "1s": "tollería",
+    "2s": "tollerías",
+    "3s": "tollería",
+    "1p": "tolleríamos",
+    "2p": "tolleríais",
+    "3p": "tollerían"
+  },
+  "PresC": {
+    "1s": "tolla",
+    "2s": "tollas",
+    "3s": "tolla",
+    "1p": "tollamos",
+    "2p": "tolláis",
+    "3p": "tollan"
+  },
+  "PMQPSI": {
+    "1s": "tollera",
+    "2s": "tolleras",
+    "3s": "tollera",
+    "1p": "tolléramos",
+    "2p": "tollerais",
+    "3p": "tolleran"
+  },
+  "PImpC": {
+    "1s": "tollese",
+    "2s": "tolleses",
+    "3s": "tollese",
+    "1p": "tollésemos",
+    "2p": "tolleseis",
+    "3p": "tollesen"
+  },
+  "FutSC": {
+    "1s": "tollere",
+    "2s": "tolleres",
+    "3s": "tollere",
+    "1p": "tolléremos",
+    "2p": "tollereis",
+    "3p": "tolleren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tolle",
+    "3s": "tolla",
+    "1p": "tollamos",
+    "2p": "tolled",
+    "3p": "tollan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tollas",
+    "3s": "no tolla",
+    "1p": "no tollamos",
+    "2p": "no tolláis",
+    "3p": "no tollan"
+  },
+  "Part-ter": {
+    "": "tollido"
+  },
+  "Part-ser": {
+    "ms": "tollido",
+    "fs": "tollida",
+    "mp": "tollidos",
+    "fp": "tollidas"
+  }
+}

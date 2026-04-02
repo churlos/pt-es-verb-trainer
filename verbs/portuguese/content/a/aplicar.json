@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aplicar"
+  },
+  "InfP": {
+    "1s": "aplicar",
+    "2s": "aplicares",
+    "3s": "aplicar",
+    "1p": "aplicarmos",
+    "2p": "aplicardes",
+    "3p": "aplicarem"
+  },
+  "Ger": {
+    "": "aplicando"
+  },
+  "PresI": {
+    "1s": "aplico",
+    "2s": "aplicas",
+    "3s": "aplica",
+    "1p": "aplicamos",
+    "2p": "aplicais",
+    "3p": "aplicam"
+  },
+  "PImpI": {
+    "1s": "aplicava",
+    "2s": "aplicavas",
+    "3s": "aplicava",
+    "1p": "aplicávamos",
+    "2p": "aplicáveis",
+    "3p": "aplicavam"
+  },
+  "PPSI": {
+    "1s": "apliquei",
+    "2s": "aplicaste",
+    "3s": "aplicou",
+    "1p": "aplicámos",
+    "2p": "aplicastes",
+    "3p": "aplicaram"
+  },
+  "PMQPSI": {
+    "1s": "aplicara",
+    "2s": "aplicaras",
+    "3s": "aplicara",
+    "1p": "aplicáramos",
+    "2p": "aplicáreis",
+    "3p": "aplicaram"
+  },
+  "FutSI": {
+    "1s": "aplicarei",
+    "2s": "aplicarás",
+    "3s": "aplicará",
+    "1p": "aplicaremos",
+    "2p": "aplicareis",
+    "3p": "aplicarão"
+  },
+  "CondS": {
+    "1s": "aplicaria",
+    "2s": "aplicarias",
+    "3s": "aplicaria",
+    "1p": "aplicaríamos",
+    "2p": "aplicaríeis",
+    "3p": "aplicariam"
+  },
+  "PresC": {
+    "1s": "aplique",
+    "2s": "apliques",
+    "3s": "aplique",
+    "1p": "apliquemos",
+    "2p": "apliqueis",
+    "3p": "apliquem"
+  },
+  "PImpC": {
+    "1s": "aplicasse",
+    "2s": "aplicasses",
+    "3s": "aplicasse",
+    "1p": "aplicássemos",
+    "2p": "aplicásseis",
+    "3p": "aplicassem"
+  },
+  "FutSC": {
+    "1s": "aplicar",
+    "2s": "aplicares",
+    "3s": "aplicar",
+    "1p": "aplicarmos",
+    "2p": "aplicardes",
+    "3p": "aplicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aplica",
+    "3s": "aplique",
+    "1p": "apliquemos",
+    "2p": "aplicai",
+    "3p": "apliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apliques",
+    "3s": "não aplique",
+    "1p": "não apliquemos",
+    "2p": "não apliqueis",
+    "3p": "não apliquem"
+  },
+  "Part-ter": {
+    "": "aplicado"
+  },
+  "Part-ser": {
+    "ms": "aplicado",
+    "fs": "aplicada",
+    "mp": "aplicados",
+    "fp": "aplicadas"
+  }
+}

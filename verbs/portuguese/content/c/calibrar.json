@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "calibrar"
+  },
+  "InfP": {
+    "1s": "calibrar",
+    "2s": "calibrares",
+    "3s": "calibrar",
+    "1p": "calibrarmos",
+    "2p": "calibrardes",
+    "3p": "calibrarem"
+  },
+  "Ger": {
+    "": "calibrando"
+  },
+  "PresI": {
+    "1s": "calibro",
+    "2s": "calibras",
+    "3s": "calibra",
+    "1p": "calibramos",
+    "2p": "calibrais",
+    "3p": "calibram"
+  },
+  "PImpI": {
+    "1s": "calibrava",
+    "2s": "calibravas",
+    "3s": "calibrava",
+    "1p": "calibrávamos",
+    "2p": "calibráveis",
+    "3p": "calibravam"
+  },
+  "PPSI": {
+    "1s": "calibrei",
+    "2s": "calibraste",
+    "3s": "calibrou",
+    "1p": "calibrámos",
+    "2p": "calibrastes",
+    "3p": "calibraram"
+  },
+  "PMQPSI": {
+    "1s": "calibrara",
+    "2s": "calibraras",
+    "3s": "calibrara",
+    "1p": "calibráramos",
+    "2p": "calibráreis",
+    "3p": "calibraram"
+  },
+  "FutSI": {
+    "1s": "calibrarei",
+    "2s": "calibrarás",
+    "3s": "calibrará",
+    "1p": "calibraremos",
+    "2p": "calibrareis",
+    "3p": "calibrarão"
+  },
+  "CondS": {
+    "1s": "calibraria",
+    "2s": "calibrarias",
+    "3s": "calibraria",
+    "1p": "calibraríamos",
+    "2p": "calibraríeis",
+    "3p": "calibrariam"
+  },
+  "PresC": {
+    "1s": "calibre",
+    "2s": "calibres",
+    "3s": "calibre",
+    "1p": "calibremos",
+    "2p": "calibreis",
+    "3p": "calibrem"
+  },
+  "PImpC": {
+    "1s": "calibrasse",
+    "2s": "calibrasses",
+    "3s": "calibrasse",
+    "1p": "calibrássemos",
+    "2p": "calibrásseis",
+    "3p": "calibrassem"
+  },
+  "FutSC": {
+    "1s": "calibrar",
+    "2s": "calibrares",
+    "3s": "calibrar",
+    "1p": "calibrarmos",
+    "2p": "calibrardes",
+    "3p": "calibrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calibra",
+    "3s": "calibre",
+    "1p": "calibremos",
+    "2p": "calibrai",
+    "3p": "calibrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não calibres",
+    "3s": "não calibre",
+    "1p": "não calibremos",
+    "2p": "não calibreis",
+    "3p": "não calibrem"
+  },
+  "Part-ter": {
+    "": "calibrado"
+  },
+  "Part-ser": {
+    "ms": "calibrado",
+    "fs": "calibrada",
+    "mp": "calibrados",
+    "fp": "calibradas"
+  }
+}

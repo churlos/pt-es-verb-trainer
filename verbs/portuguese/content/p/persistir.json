@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "persistir"
+  },
+  "InfP": {
+    "1s": "persistir",
+    "2s": "persistires",
+    "3s": "persistir",
+    "1p": "persistirmos",
+    "2p": "persistirdes",
+    "3p": "persistirem"
+  },
+  "Ger": {
+    "": "persistindo"
+  },
+  "PresI": {
+    "1s": "persisto",
+    "2s": "persistes",
+    "3s": "persiste",
+    "1p": "persistimos",
+    "2p": "persistis",
+    "3p": "persistem"
+  },
+  "PImpI": {
+    "1s": "persistia",
+    "2s": "persistias",
+    "3s": "persistia",
+    "1p": "persistíamos",
+    "2p": "persistíeis",
+    "3p": "persistiam"
+  },
+  "PPSI": {
+    "1s": "persisti",
+    "2s": "persististe",
+    "3s": "persistiu",
+    "1p": "persistimos",
+    "2p": "persististes",
+    "3p": "persistiram"
+  },
+  "PMQPSI": {
+    "1s": "persistira",
+    "2s": "persistiras",
+    "3s": "persistira",
+    "1p": "persistíramos",
+    "2p": "persistíreis",
+    "3p": "persistiram"
+  },
+  "FutSI": {
+    "1s": "persistirei",
+    "2s": "persistirás",
+    "3s": "persistirá",
+    "1p": "persistiremos",
+    "2p": "persistireis",
+    "3p": "persistirão"
+  },
+  "CondS": {
+    "1s": "persistiria",
+    "2s": "persistirias",
+    "3s": "persistiria",
+    "1p": "persistiríamos",
+    "2p": "persistiríeis",
+    "3p": "persistiriam"
+  },
+  "PresC": {
+    "1s": "persista",
+    "2s": "persistas",
+    "3s": "persista",
+    "1p": "persistamos",
+    "2p": "persistais",
+    "3p": "persistam"
+  },
+  "PImpC": {
+    "1s": "persistisse",
+    "2s": "persistisses",
+    "3s": "persistisse",
+    "1p": "persistíssemos",
+    "2p": "persistísseis",
+    "3p": "persistissem"
+  },
+  "FutSC": {
+    "1s": "persistir",
+    "2s": "persistires",
+    "3s": "persistir",
+    "1p": "persistirmos",
+    "2p": "persistirdes",
+    "3p": "persistirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "persiste",
+    "3s": "persista",
+    "1p": "persistamos",
+    "2p": "persisti",
+    "3p": "persistam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não persistas",
+    "3s": "não persista",
+    "1p": "não persistamos",
+    "2p": "não persistais",
+    "3p": "não persistam"
+  },
+  "Part-ter": {
+    "": "persistido"
+  },
+  "Part-ser": {
+    "ms": "persistido",
+    "fs": "persistida",
+    "mp": "persistidos",
+    "fp": "persistidas"
+  }
+}

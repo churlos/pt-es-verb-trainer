@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lavarse"
+  },
+  "Ger": {
+    "": "lavándose"
+  },
+  "PresI": {
+    "1s": "me lavo",
+    "2s": "te lavas",
+    "3s": "se lava",
+    "1p": "nos lavamos",
+    "2p": "os laváis",
+    "3p": "se lavan"
+  },
+  "PImpI": {
+    "1s": "me lavaba",
+    "2s": "te lavabas",
+    "3s": "se lavaba",
+    "1p": "nos lavábamos",
+    "2p": "os lavabais",
+    "3p": "se lavaban"
+  },
+  "PPSI": {
+    "1s": "me lavé",
+    "2s": "te lavaste",
+    "3s": "se lavó",
+    "1p": "nos lavamos",
+    "2p": "os lavasteis",
+    "3p": "se lavaron"
+  },
+  "FutSI": {
+    "1s": "me lavaré",
+    "2s": "te lavarás",
+    "3s": "se lavará",
+    "1p": "nos lavaremos",
+    "2p": "os lavaréis",
+    "3p": "se lavarán"
+  },
+  "CondS": {
+    "1s": "me lavaría",
+    "2s": "te lavarías",
+    "3s": "se lavaría",
+    "1p": "nos lavaríamos",
+    "2p": "os lavaríais",
+    "3p": "se lavarían"
+  },
+  "PresC": {
+    "1s": "me lave",
+    "2s": "te laves",
+    "3s": "se lave",
+    "1p": "nos lavemos",
+    "2p": "os lavéis",
+    "3p": "se laven"
+  },
+  "PMQPSI": {
+    "1s": "me lavara",
+    "2s": "te lavaras",
+    "3s": "se lavara",
+    "1p": "nos laváramos",
+    "2p": "os lavarais",
+    "3p": "se lavaran"
+  },
+  "PImpC": {
+    "1s": "me lavase",
+    "2s": "te lavases",
+    "3s": "se lavase",
+    "1p": "nos lavásemos",
+    "2p": "os lavaseis",
+    "3p": "se lavasen"
+  },
+  "FutSC": {
+    "1s": "me lavare",
+    "2s": "te lavares",
+    "3s": "se lavare",
+    "1p": "nos laváremos",
+    "2p": "os lavareis",
+    "3p": "se lavaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lávate",
+    "3s": "lávese",
+    "1p": "lavémonos",
+    "2p": "lavaos",
+    "3p": "lávense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te laves",
+    "3s": "no se lave",
+    "1p": "no nos lavemos",
+    "2p": "no os lavéis",
+    "3p": "no se laven"
+  },
+  "Part-ter": {
+    "": "lavado"
+  },
+  "Part-ser": {
+    "ms": "lavado",
+    "fs": "lavada",
+    "mp": "lavados",
+    "fp": "lavadas"
+  }
+}

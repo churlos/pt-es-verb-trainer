@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "incluir"
+  },
+  "Ger": {
+    "": "incluyendo"
+  },
+  "PresI": {
+    "1s": "incluyo",
+    "2s": "incluyes",
+    "3s": "incluye",
+    "1p": "incluimos",
+    "2p": "incluís",
+    "3p": "incluyen"
+  },
+  "PImpI": {
+    "1s": "incluía",
+    "2s": "incluías",
+    "3s": "incluía",
+    "1p": "incluíamos",
+    "2p": "incluíais",
+    "3p": "incluían"
+  },
+  "PPSI": {
+    "1s": "incluí",
+    "2s": "incluiste",
+    "3s": "incluyó",
+    "1p": "incluimos",
+    "2p": "incluisteis",
+    "3p": "incluyeron"
+  },
+  "FutSI": {
+    "1s": "incluiré",
+    "2s": "incluirás",
+    "3s": "incluirá",
+    "1p": "incluiremos",
+    "2p": "incluiréis",
+    "3p": "incluirán"
+  },
+  "CondS": {
+    "1s": "incluiría",
+    "2s": "incluirías",
+    "3s": "incluiría",
+    "1p": "incluiríamos",
+    "2p": "incluiríais",
+    "3p": "incluirían"
+  },
+  "PresC": {
+    "1s": "incluya",
+    "2s": "incluyas",
+    "3s": "incluya",
+    "1p": "incluyamos",
+    "2p": "incluyáis",
+    "3p": "incluyan"
+  },
+  "PMQPSI": {
+    "1s": "incluyera",
+    "2s": "incluyeras",
+    "3s": "incluyera",
+    "1p": "incluyéramos",
+    "2p": "incluyerais",
+    "3p": "incluyeran"
+  },
+  "PImpC": {
+    "1s": "incluyese",
+    "2s": "incluyeses",
+    "3s": "incluyese",
+    "1p": "incluyésemos",
+    "2p": "incluyeseis",
+    "3p": "incluyesen"
+  },
+  "FutSC": {
+    "1s": "incluyere",
+    "2s": "incluyeres",
+    "3s": "incluyere",
+    "1p": "incluyéremos",
+    "2p": "incluyereis",
+    "3p": "incluyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incluye",
+    "3s": "incluya",
+    "1p": "incluyamos",
+    "2p": "incluid",
+    "3p": "incluyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no incluyas",
+    "3s": "no incluya",
+    "1p": "no incluyamos",
+    "2p": "no incluyáis",
+    "3p": "no incluyan"
+  },
+  "Part-ter": {
+    "": "incluido"
+  },
+  "Part-ser": {
+    "ms": "incluido",
+    "fs": "incluida",
+    "mp": "incluidos",
+    "fp": "incluidas"
+  }
+}

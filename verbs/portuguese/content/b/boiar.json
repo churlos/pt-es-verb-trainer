@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "boiar"
+  },
+  "InfP": {
+    "1s": "boiar",
+    "2s": "boiares",
+    "3s": "boiar",
+    "1p": "boiarmos",
+    "2p": "boiardes",
+    "3p": "boiarem"
+  },
+  "Ger": {
+    "": "boiando"
+  },
+  "PresI": {
+    "1s": "bóio",
+    "2s": "bóias",
+    "3s": "bóia",
+    "1p": "boiamos",
+    "2p": "boiais",
+    "3p": "bóiam"
+  },
+  "PImpI": {
+    "1s": "boiava",
+    "2s": "boiavas",
+    "3s": "boiava",
+    "1p": "boiávamos",
+    "2p": "boiáveis",
+    "3p": "boiavam"
+  },
+  "PPSI": {
+    "1s": "boiei",
+    "2s": "boiaste",
+    "3s": "boiou",
+    "1p": "boiámos",
+    "2p": "boiastes",
+    "3p": "boiaram"
+  },
+  "PMQPSI": {
+    "1s": "boiara",
+    "2s": "boiaras",
+    "3s": "boiara",
+    "1p": "boiáramos",
+    "2p": "boiáreis",
+    "3p": "boiaram"
+  },
+  "FutSI": {
+    "1s": "boiarei",
+    "2s": "boiarás",
+    "3s": "boiará",
+    "1p": "boiaremos",
+    "2p": "boiareis",
+    "3p": "boiarão"
+  },
+  "CondS": {
+    "1s": "boiaria",
+    "2s": "boiarias",
+    "3s": "boiaria",
+    "1p": "boiaríamos",
+    "2p": "boiaríeis",
+    "3p": "boiariam"
+  },
+  "PresC": {
+    "1s": "boie",
+    "2s": "boies",
+    "3s": "boie",
+    "1p": "boiemos",
+    "2p": "boieis",
+    "3p": "boiem"
+  },
+  "PImpC": {
+    "1s": "boiasse",
+    "2s": "boiasses",
+    "3s": "boiasse",
+    "1p": "boiássemos",
+    "2p": "boiásseis",
+    "3p": "boiassem"
+  },
+  "FutSC": {
+    "1s": "boiar",
+    "2s": "boiares",
+    "3s": "boiar",
+    "1p": "boiarmos",
+    "2p": "boiardes",
+    "3p": "boiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bóia",
+    "3s": "boie",
+    "1p": "boiemos",
+    "2p": "boiai",
+    "3p": "boiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não boies",
+    "3s": "não boie",
+    "1p": "não boiemos",
+    "2p": "não boieis",
+    "3p": "não boiem"
+  },
+  "Part-ter": {
+    "": "boiado"
+  },
+  "Part-ser": {
+    "ms": "boiado",
+    "fs": "boiada",
+    "mp": "boiados",
+    "fp": "boiadas"
+  }
+}

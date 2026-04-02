@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "crecer"
+  },
+  "InfP": {
+    "1s": "crecer",
+    "2s": "creceres",
+    "3s": "crecer",
+    "1p": "crecermos",
+    "2p": "crecerdes",
+    "3p": "crecerem"
+  },
+  "Ger": {
+    "": "crecendo"
+  },
+  "PresI": {
+    "1s": "creço",
+    "2s": "creces",
+    "3s": "crece",
+    "1p": "crecemos",
+    "2p": "creceis",
+    "3p": "crecem"
+  },
+  "PImpI": {
+    "1s": "crecia",
+    "2s": "crecias",
+    "3s": "crecia",
+    "1p": "crecíamos",
+    "2p": "crecíeis",
+    "3p": "creciam"
+  },
+  "PPSI": {
+    "1s": "creci",
+    "2s": "creceste",
+    "3s": "creceu",
+    "1p": "crecemos",
+    "2p": "crecestes",
+    "3p": "creceram"
+  },
+  "PMQPSI": {
+    "1s": "crecera",
+    "2s": "creceras",
+    "3s": "crecera",
+    "1p": "crecêramos",
+    "2p": "crecêreis",
+    "3p": "creceram"
+  },
+  "FutSI": {
+    "1s": "crecerei",
+    "2s": "crecerás",
+    "3s": "crecerá",
+    "1p": "creceremos",
+    "2p": "crecereis",
+    "3p": "crecerão"
+  },
+  "CondS": {
+    "1s": "creceria",
+    "2s": "crecerias",
+    "3s": "creceria",
+    "1p": "creceríamos",
+    "2p": "creceríeis",
+    "3p": "creceriam"
+  },
+  "PresC": {
+    "1s": "creça",
+    "2s": "creças",
+    "3s": "creça",
+    "1p": "creçamos",
+    "2p": "creçais",
+    "3p": "creçam"
+  },
+  "PImpC": {
+    "1s": "crecesse",
+    "2s": "crecesses",
+    "3s": "crecesse",
+    "1p": "crecêssemos",
+    "2p": "crecêsseis",
+    "3p": "crecessem"
+  },
+  "FutSC": {
+    "1s": "crecer",
+    "2s": "creceres",
+    "3s": "crecer",
+    "1p": "crecermos",
+    "2p": "crecerdes",
+    "3p": "crecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "crece",
+    "3s": "creça",
+    "1p": "creçamos",
+    "2p": "crecei",
+    "3p": "creçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não creças",
+    "3s": "não creça",
+    "1p": "não creçamos",
+    "2p": "não creçais",
+    "3p": "não creçam"
+  },
+  "Part-ter": {
+    "": "crecido"
+  },
+  "Part-ser": {
+    "ms": "crecido",
+    "fs": "crecida",
+    "mp": "crecidos",
+    "fp": "crecidas"
+  }
+}

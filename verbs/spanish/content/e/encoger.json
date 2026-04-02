@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encoger"
+  },
+  "Ger": {
+    "": "encogiendo"
+  },
+  "PresI": {
+    "1s": "encojo",
+    "2s": "encoges",
+    "3s": "encoge",
+    "1p": "encogemos",
+    "2p": "encogéis",
+    "3p": "encogen"
+  },
+  "PImpI": {
+    "1s": "encogía",
+    "2s": "encogías",
+    "3s": "encogía",
+    "1p": "encogíamos",
+    "2p": "encogíais",
+    "3p": "encogían"
+  },
+  "PPSI": {
+    "1s": "encogí",
+    "2s": "encogiste",
+    "3s": "encogió",
+    "1p": "encogimos",
+    "2p": "encogisteis",
+    "3p": "encogieron"
+  },
+  "FutSI": {
+    "1s": "encogeré",
+    "2s": "encogerás",
+    "3s": "encogerá",
+    "1p": "encogeremos",
+    "2p": "encogeréis",
+    "3p": "encogerán"
+  },
+  "CondS": {
+    "1s": "encogería",
+    "2s": "encogerías",
+    "3s": "encogería",
+    "1p": "encogeríamos",
+    "2p": "encogeríais",
+    "3p": "encogerían"
+  },
+  "PresC": {
+    "1s": "encoja",
+    "2s": "encojas",
+    "3s": "encoja",
+    "1p": "encojamos",
+    "2p": "encojáis",
+    "3p": "encojan"
+  },
+  "PMQPSI": {
+    "1s": "encogiera",
+    "2s": "encogieras",
+    "3s": "encogiera",
+    "1p": "encogiéramos",
+    "2p": "encogierais",
+    "3p": "encogieran"
+  },
+  "PImpC": {
+    "1s": "encogiese",
+    "2s": "encogieses",
+    "3s": "encogiese",
+    "1p": "encogiésemos",
+    "2p": "encogieseis",
+    "3p": "encogiesen"
+  },
+  "FutSC": {
+    "1s": "encogiere",
+    "2s": "encogieres",
+    "3s": "encogiere",
+    "1p": "encogiéremos",
+    "2p": "encogiereis",
+    "3p": "encogieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encoge",
+    "3s": "encoja",
+    "1p": "encojamos",
+    "2p": "encoged",
+    "3p": "encojan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encojas",
+    "3s": "no encoja",
+    "1p": "no encojamos",
+    "2p": "no encojáis",
+    "3p": "no encojan"
+  },
+  "Part-ter": {
+    "": "encogido"
+  },
+  "Part-ser": {
+    "ms": "encogido",
+    "fs": "encogida",
+    "mp": "encogidos",
+    "fp": "encogidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "requerir"
+  },
+  "Ger": {
+    "": "requiriendo"
+  },
+  "PresI": {
+    "1s": "requiero",
+    "2s": "requieres",
+    "3s": "requiere",
+    "1p": "requerimos",
+    "2p": "requerís",
+    "3p": "requieren"
+  },
+  "PImpI": {
+    "1s": "requería",
+    "2s": "requerías",
+    "3s": "requería",
+    "1p": "requeríamos",
+    "2p": "requeríais",
+    "3p": "requerían"
+  },
+  "PPSI": {
+    "1s": "requerí",
+    "2s": "requeriste",
+    "3s": "requirió",
+    "1p": "requerimos",
+    "2p": "requeristeis",
+    "3p": "requirieron"
+  },
+  "FutSI": {
+    "1s": "requeriré",
+    "2s": "requerirás",
+    "3s": "requerirá",
+    "1p": "requeriremos",
+    "2p": "requeriréis",
+    "3p": "requerirán"
+  },
+  "CondS": {
+    "1s": "requeriría",
+    "2s": "requerirías",
+    "3s": "requeriría",
+    "1p": "requeriríamos",
+    "2p": "requeriríais",
+    "3p": "requerirían"
+  },
+  "PresC": {
+    "1s": "requiera",
+    "2s": "requieras",
+    "3s": "requiera",
+    "1p": "requiramos",
+    "2p": "requiráis",
+    "3p": "requieran"
+  },
+  "PMQPSI": {
+    "1s": "requiriera",
+    "2s": "requirieras",
+    "3s": "requiriera",
+    "1p": "requiriéramos",
+    "2p": "requirierais",
+    "3p": "requirieran"
+  },
+  "PImpC": {
+    "1s": "requiriese",
+    "2s": "requirieses",
+    "3s": "requiriese",
+    "1p": "requiriésemos",
+    "2p": "requirieseis",
+    "3p": "requiriesen"
+  },
+  "FutSC": {
+    "1s": "requiriere",
+    "2s": "requirieres",
+    "3s": "requiriere",
+    "1p": "requiriéremos",
+    "2p": "requiriereis",
+    "3p": "requirieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "requiere",
+    "3s": "requiera",
+    "1p": "requiramos",
+    "2p": "requerid",
+    "3p": "requieran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no requieras",
+    "3s": "no requiera",
+    "1p": "no requiramos",
+    "2p": "no requiráis",
+    "3p": "no requieran"
+  },
+  "Part-ter": {
+    "": "requerido"
+  },
+  "Part-ser": {
+    "ms": "requerido",
+    "fs": "requerida",
+    "mp": "requeridos",
+    "fp": "requeridas"
+  }
+}

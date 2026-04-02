@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "monitorar"
+  },
+  "InfP": {
+    "1s": "monitorar",
+    "2s": "monitorares",
+    "3s": "monitorar",
+    "1p": "monitorarmos",
+    "2p": "monitorardes",
+    "3p": "monitorarem"
+  },
+  "Ger": {
+    "": "monitorando"
+  },
+  "PresI": {
+    "1s": "monitoro",
+    "2s": "monitoras",
+    "3s": "monitora",
+    "1p": "monitoramos",
+    "2p": "monitorais",
+    "3p": "monitoram"
+  },
+  "PImpI": {
+    "1s": "monitorava",
+    "2s": "monitoravas",
+    "3s": "monitorava",
+    "1p": "monitorávamos",
+    "2p": "monitoráveis",
+    "3p": "monitoravam"
+  },
+  "PPSI": {
+    "1s": "monitorei",
+    "2s": "monitoraste",
+    "3s": "monitorou",
+    "1p": "monitorámos",
+    "2p": "monitorastes",
+    "3p": "monitoraram"
+  },
+  "PMQPSI": {
+    "1s": "monitorara",
+    "2s": "monitoraras",
+    "3s": "monitorara",
+    "1p": "monitoráramos",
+    "2p": "monitoráreis",
+    "3p": "monitoraram"
+  },
+  "FutSI": {
+    "1s": "monitorarei",
+    "2s": "monitorarás",
+    "3s": "monitorará",
+    "1p": "monitoraremos",
+    "2p": "monitorareis",
+    "3p": "monitorarão"
+  },
+  "CondS": {
+    "1s": "monitoraria",
+    "2s": "monitorarias",
+    "3s": "monitoraria",
+    "1p": "monitoraríamos",
+    "2p": "monitoraríeis",
+    "3p": "monitorariam"
+  },
+  "PresC": {
+    "1s": "monitore",
+    "2s": "monitores",
+    "3s": "monitore",
+    "1p": "monitoremos",
+    "2p": "monitoreis",
+    "3p": "monitorem"
+  },
+  "PImpC": {
+    "1s": "monitorasse",
+    "2s": "monitorasses",
+    "3s": "monitorasse",
+    "1p": "monitorássemos",
+    "2p": "monitorásseis",
+    "3p": "monitorassem"
+  },
+  "FutSC": {
+    "1s": "monitorar",
+    "2s": "monitorares",
+    "3s": "monitorar",
+    "1p": "monitorarmos",
+    "2p": "monitorardes",
+    "3p": "monitorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "monitora",
+    "3s": "monitore",
+    "1p": "monitoremos",
+    "2p": "monitorai",
+    "3p": "monitorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não monitores",
+    "3s": "não monitore",
+    "1p": "não monitoremos",
+    "2p": "não monitoreis",
+    "3p": "não monitorem"
+  },
+  "Part-ter": {
+    "": "monitorado"
+  },
+  "Part-ser": {
+    "ms": "monitorado",
+    "fs": "monitorada",
+    "mp": "monitorados",
+    "fp": "monitoradas"
+  }
+}

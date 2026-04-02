@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "saquear"
+  },
+  "Ger": {
+    "": "saqueando"
+  },
+  "PresI": {
+    "1s": "saqueo",
+    "2s": "saqueas",
+    "3s": "saquea",
+    "1p": "saqueamos",
+    "2p": "saqueáis",
+    "3p": "saquean"
+  },
+  "PImpI": {
+    "1s": "saqueaba",
+    "2s": "saqueabas",
+    "3s": "saqueaba",
+    "1p": "saqueábamos",
+    "2p": "saqueabais",
+    "3p": "saqueaban"
+  },
+  "PPSI": {
+    "1s": "saqueé",
+    "2s": "saqueaste",
+    "3s": "saqueó",
+    "1p": "saqueamos",
+    "2p": "saqueasteis",
+    "3p": "saquearon"
+  },
+  "FutSI": {
+    "1s": "saquearé",
+    "2s": "saquearás",
+    "3s": "saqueará",
+    "1p": "saquearemos",
+    "2p": "saquearéis",
+    "3p": "saquearán"
+  },
+  "CondS": {
+    "1s": "saquearía",
+    "2s": "saquearías",
+    "3s": "saquearía",
+    "1p": "saquearíamos",
+    "2p": "saquearíais",
+    "3p": "saquearían"
+  },
+  "PresC": {
+    "1s": "saquee",
+    "2s": "saquees",
+    "3s": "saquee",
+    "1p": "saqueemos",
+    "2p": "saqueéis",
+    "3p": "saqueen"
+  },
+  "PMQPSI": {
+    "1s": "saqueara",
+    "2s": "saquearas",
+    "3s": "saqueara",
+    "1p": "saqueáramos",
+    "2p": "saquearais",
+    "3p": "saquearan"
+  },
+  "PImpC": {
+    "1s": "saquease",
+    "2s": "saqueases",
+    "3s": "saquease",
+    "1p": "saqueásemos",
+    "2p": "saqueaseis",
+    "3p": "saqueasen"
+  },
+  "FutSC": {
+    "1s": "saqueare",
+    "2s": "saqueares",
+    "3s": "saqueare",
+    "1p": "saqueáremos",
+    "2p": "saqueareis",
+    "3p": "saquearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saquea",
+    "3s": "saquee",
+    "1p": "saqueemos",
+    "2p": "saquead",
+    "3p": "saqueen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no saquees",
+    "3s": "no saquee",
+    "1p": "no saqueemos",
+    "2p": "no saqueéis",
+    "3p": "no saqueen"
+  },
+  "Part-ter": {
+    "": "saqueado"
+  },
+  "Part-ser": {
+    "ms": "saqueado",
+    "fs": "saqueada",
+    "mp": "saqueados",
+    "fp": "saqueadas"
+  }
+}

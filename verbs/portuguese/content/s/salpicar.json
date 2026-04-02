@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "salpicar"
+  },
+  "InfP": {
+    "1s": "salpicar",
+    "2s": "salpicares",
+    "3s": "salpicar",
+    "1p": "salpicarmos",
+    "2p": "salpicardes",
+    "3p": "salpicarem"
+  },
+  "Ger": {
+    "": "salpicando"
+  },
+  "PresI": {
+    "1s": "salpico",
+    "2s": "salpicas",
+    "3s": "salpica",
+    "1p": "salpicamos",
+    "2p": "salpicais",
+    "3p": "salpicam"
+  },
+  "PImpI": {
+    "1s": "salpicava",
+    "2s": "salpicavas",
+    "3s": "salpicava",
+    "1p": "salpicávamos",
+    "2p": "salpicáveis",
+    "3p": "salpicavam"
+  },
+  "PPSI": {
+    "1s": "salpiquei",
+    "2s": "salpicaste",
+    "3s": "salpicou",
+    "1p": "salpicámos",
+    "2p": "salpicastes",
+    "3p": "salpicaram"
+  },
+  "PMQPSI": {
+    "1s": "salpicara",
+    "2s": "salpicaras",
+    "3s": "salpicara",
+    "1p": "salpicáramos",
+    "2p": "salpicáreis",
+    "3p": "salpicaram"
+  },
+  "FutSI": {
+    "1s": "salpicarei",
+    "2s": "salpicarás",
+    "3s": "salpicará",
+    "1p": "salpicaremos",
+    "2p": "salpicareis",
+    "3p": "salpicarão"
+  },
+  "CondS": {
+    "1s": "salpicaria",
+    "2s": "salpicarias",
+    "3s": "salpicaria",
+    "1p": "salpicaríamos",
+    "2p": "salpicaríeis",
+    "3p": "salpicariam"
+  },
+  "PresC": {
+    "1s": "salpique",
+    "2s": "salpiques",
+    "3s": "salpique",
+    "1p": "salpiquemos",
+    "2p": "salpiqueis",
+    "3p": "salpiquem"
+  },
+  "PImpC": {
+    "1s": "salpicasse",
+    "2s": "salpicasses",
+    "3s": "salpicasse",
+    "1p": "salpicássemos",
+    "2p": "salpicásseis",
+    "3p": "salpicassem"
+  },
+  "FutSC": {
+    "1s": "salpicar",
+    "2s": "salpicares",
+    "3s": "salpicar",
+    "1p": "salpicarmos",
+    "2p": "salpicardes",
+    "3p": "salpicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salpica",
+    "3s": "salpique",
+    "1p": "salpiquemos",
+    "2p": "salpicai",
+    "3p": "salpiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não salpiques",
+    "3s": "não salpique",
+    "1p": "não salpiquemos",
+    "2p": "não salpiqueis",
+    "3p": "não salpiquem"
+  },
+  "Part-ter": {
+    "": "salpicado"
+  },
+  "Part-ser": {
+    "ms": "salpicado",
+    "fs": "salpicada",
+    "mp": "salpicados",
+    "fp": "salpicadas"
+  }
+}

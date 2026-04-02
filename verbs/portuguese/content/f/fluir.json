@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fluir"
+  },
+  "InfP": {
+    "1s": "fluir",
+    "2s": "fluíres",
+    "3s": "fluir",
+    "1p": "fluirmos",
+    "2p": "fluirdes",
+    "3p": "fluírem"
+  },
+  "Ger": {
+    "": "fluindo"
+  },
+  "PresI": {
+    "1s": "fluo",
+    "2s": "fluis",
+    "3s": "flui",
+    "1p": "fluímos",
+    "2p": "fluís",
+    "3p": "fluem"
+  },
+  "PImpI": {
+    "1s": "fluía",
+    "2s": "fluías",
+    "3s": "fluía",
+    "1p": "fluíamos",
+    "2p": "fluíeis",
+    "3p": "fluíam"
+  },
+  "PPSI": {
+    "1s": "fluí",
+    "2s": "fluíste",
+    "3s": "fluiu",
+    "1p": "fluímos",
+    "2p": "fluístes",
+    "3p": "fluíram"
+  },
+  "PMQPSI": {
+    "1s": "fluíra",
+    "2s": "fluíras",
+    "3s": "fluíra",
+    "1p": "fluíramos",
+    "2p": "fluíreis",
+    "3p": "fluíram"
+  },
+  "FutSI": {
+    "1s": "fluirei",
+    "2s": "fluirás",
+    "3s": "fluirá",
+    "1p": "fluiremos",
+    "2p": "fluireis",
+    "3p": "fluirão"
+  },
+  "CondS": {
+    "1s": "fluiria",
+    "2s": "fluirias",
+    "3s": "fluiria",
+    "1p": "fluiríamos",
+    "2p": "fluiríeis",
+    "3p": "fluiriam"
+  },
+  "PresC": {
+    "1s": "flua",
+    "2s": "fluas",
+    "3s": "flua",
+    "1p": "fluamos",
+    "2p": "fluais",
+    "3p": "fluam"
+  },
+  "PImpC": {
+    "1s": "fluísse",
+    "2s": "fluísses",
+    "3s": "fluísse",
+    "1p": "fluíssemos",
+    "2p": "fluísseis",
+    "3p": "fluíssem"
+  },
+  "FutSC": {
+    "1s": "fluir",
+    "2s": "fluíres",
+    "3s": "fluir",
+    "1p": "fluirmos",
+    "2p": "fluirdes",
+    "3p": "fluírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "flui",
+    "3s": "flua",
+    "1p": "fluamos",
+    "2p": "fluí",
+    "3p": "fluam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fluas",
+    "3s": "não flua",
+    "1p": "não fluamos",
+    "2p": "não fluais",
+    "3p": "não fluam"
+  },
+  "Part-ter": {
+    "": "fluído"
+  },
+  "Part-ser": {
+    "ms": "fluído",
+    "fs": "fluída",
+    "mp": "fluídos",
+    "fp": "fluídas"
+  }
+}

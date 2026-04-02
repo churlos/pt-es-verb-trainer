@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "balir"
+  },
+  "InfP": {
+    "1s": "balir",
+    "2s": "balires",
+    "3s": "balir",
+    "1p": "balirmos",
+    "2p": "balirdes",
+    "3p": "balirem"
+  },
+  "Ger": {
+    "": "balindo"
+  },
+  "PresI": {
+    "1s": "balo",
+    "2s": "bales",
+    "3s": "bale",
+    "1p": "balimos",
+    "2p": "balis",
+    "3p": "balem"
+  },
+  "PImpI": {
+    "1s": "balia",
+    "2s": "balias",
+    "3s": "balia",
+    "1p": "balíamos",
+    "2p": "balíeis",
+    "3p": "baliam"
+  },
+  "PPSI": {
+    "1s": "bali",
+    "2s": "baliste",
+    "3s": "baliu",
+    "1p": "balimos",
+    "2p": "balistes",
+    "3p": "baliram"
+  },
+  "PMQPSI": {
+    "1s": "balira",
+    "2s": "baliras",
+    "3s": "balira",
+    "1p": "balíramos",
+    "2p": "balíreis",
+    "3p": "baliram"
+  },
+  "FutSI": {
+    "1s": "balirei",
+    "2s": "balirás",
+    "3s": "balirá",
+    "1p": "baliremos",
+    "2p": "balireis",
+    "3p": "balirão"
+  },
+  "CondS": {
+    "1s": "baliria",
+    "2s": "balirias",
+    "3s": "baliria",
+    "1p": "baliríamos",
+    "2p": "baliríeis",
+    "3p": "baliriam"
+  },
+  "PresC": {
+    "1s": "bala",
+    "2s": "balas",
+    "3s": "bala",
+    "1p": "balamos",
+    "2p": "balais",
+    "3p": "balam"
+  },
+  "PImpC": {
+    "1s": "balisse",
+    "2s": "balisses",
+    "3s": "balisse",
+    "1p": "balíssemos",
+    "2p": "balísseis",
+    "3p": "balissem"
+  },
+  "FutSC": {
+    "1s": "balir",
+    "2s": "balires",
+    "3s": "balir",
+    "1p": "balirmos",
+    "2p": "balirdes",
+    "3p": "balirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bale",
+    "3s": "bala",
+    "1p": "balamos",
+    "2p": "bali",
+    "3p": "balam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não balas",
+    "3s": "não bala",
+    "1p": "não balamos",
+    "2p": "não balais",
+    "3p": "não balam"
+  },
+  "Part-ter": {
+    "": "balido"
+  },
+  "Part-ser": {
+    "ms": "balido",
+    "fs": "balida",
+    "mp": "balidos",
+    "fp": "balidas"
+  }
+}

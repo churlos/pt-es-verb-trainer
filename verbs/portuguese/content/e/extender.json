@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "extender"
+  },
+  "InfP": {
+    "1s": "extender",
+    "2s": "extenderes",
+    "3s": "extender",
+    "1p": "extendermos",
+    "2p": "extenderdes",
+    "3p": "extenderem"
+  },
+  "Ger": {
+    "": "extendendo"
+  },
+  "PresI": {
+    "1s": "extendo",
+    "2s": "extendes",
+    "3s": "extende",
+    "1p": "extendemos",
+    "2p": "extendeis",
+    "3p": "extendem"
+  },
+  "PImpI": {
+    "1s": "extendia",
+    "2s": "extendias",
+    "3s": "extendia",
+    "1p": "extendíamos",
+    "2p": "extendíeis",
+    "3p": "extendiam"
+  },
+  "PPSI": {
+    "1s": "extendi",
+    "2s": "extendeste",
+    "3s": "extendeu",
+    "1p": "extendemos",
+    "2p": "extendestes",
+    "3p": "extenderam"
+  },
+  "PMQPSI": {
+    "1s": "extendera",
+    "2s": "extenderas",
+    "3s": "extendera",
+    "1p": "extendêramos",
+    "2p": "extendêreis",
+    "3p": "extenderam"
+  },
+  "FutSI": {
+    "1s": "extenderei",
+    "2s": "extenderás",
+    "3s": "extenderá",
+    "1p": "extenderemos",
+    "2p": "extendereis",
+    "3p": "extenderão"
+  },
+  "CondS": {
+    "1s": "extenderia",
+    "2s": "extenderias",
+    "3s": "extenderia",
+    "1p": "extenderíamos",
+    "2p": "extenderíeis",
+    "3p": "extenderiam"
+  },
+  "PresC": {
+    "1s": "extenda",
+    "2s": "extendas",
+    "3s": "extenda",
+    "1p": "extendamos",
+    "2p": "extendais",
+    "3p": "extendam"
+  },
+  "PImpC": {
+    "1s": "extendesse",
+    "2s": "extendesses",
+    "3s": "extendesse",
+    "1p": "extendêssemos",
+    "2p": "extendêsseis",
+    "3p": "extendessem"
+  },
+  "FutSC": {
+    "1s": "extender",
+    "2s": "extenderes",
+    "3s": "extender",
+    "1p": "extendermos",
+    "2p": "extenderdes",
+    "3p": "extenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extende",
+    "3s": "extenda",
+    "1p": "extendamos",
+    "2p": "extendei",
+    "3p": "extendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não extendas",
+    "3s": "não extenda",
+    "1p": "não extendamos",
+    "2p": "não extendais",
+    "3p": "não extendam"
+  },
+  "Part-ter": {
+    "": "extendido"
+  },
+  "Part-ser": {
+    "ms": "extendido",
+    "fs": "extendida",
+    "mp": "extendidos",
+    "fp": "extendidas"
+  }
+}

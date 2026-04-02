@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rilhar"
+  },
+  "InfP": {
+    "1s": "rilhar",
+    "2s": "rilhares",
+    "3s": "rilhar",
+    "1p": "rilharmos",
+    "2p": "rilhardes",
+    "3p": "rilharem"
+  },
+  "Ger": {
+    "": "rilhando"
+  },
+  "PresI": {
+    "1s": "rilho",
+    "2s": "rilhas",
+    "3s": "rilha",
+    "1p": "rilhamos",
+    "2p": "rilhais",
+    "3p": "rilham"
+  },
+  "PImpI": {
+    "1s": "rilhava",
+    "2s": "rilhavas",
+    "3s": "rilhava",
+    "1p": "rilhávamos",
+    "2p": "rilháveis",
+    "3p": "rilhavam"
+  },
+  "PPSI": {
+    "1s": "rilhei",
+    "2s": "rilhaste",
+    "3s": "rilhou",
+    "1p": "rilhámos",
+    "2p": "rilhastes",
+    "3p": "rilharam"
+  },
+  "PMQPSI": {
+    "1s": "rilhara",
+    "2s": "rilharas",
+    "3s": "rilhara",
+    "1p": "rilháramos",
+    "2p": "rilháreis",
+    "3p": "rilharam"
+  },
+  "FutSI": {
+    "1s": "rilharei",
+    "2s": "rilharás",
+    "3s": "rilhará",
+    "1p": "rilharemos",
+    "2p": "rilhareis",
+    "3p": "rilharão"
+  },
+  "CondS": {
+    "1s": "rilharia",
+    "2s": "rilharias",
+    "3s": "rilharia",
+    "1p": "rilharíamos",
+    "2p": "rilharíeis",
+    "3p": "rilhariam"
+  },
+  "PresC": {
+    "1s": "rilhe",
+    "2s": "rilhes",
+    "3s": "rilhe",
+    "1p": "rilhemos",
+    "2p": "rilheis",
+    "3p": "rilhem"
+  },
+  "PImpC": {
+    "1s": "rilhasse",
+    "2s": "rilhasses",
+    "3s": "rilhasse",
+    "1p": "rilhássemos",
+    "2p": "rilhásseis",
+    "3p": "rilhassem"
+  },
+  "FutSC": {
+    "1s": "rilhar",
+    "2s": "rilhares",
+    "3s": "rilhar",
+    "1p": "rilharmos",
+    "2p": "rilhardes",
+    "3p": "rilharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rilha",
+    "3s": "rilhe",
+    "1p": "rilhemos",
+    "2p": "rilhai",
+    "3p": "rilhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rilhes",
+    "3s": "não rilhe",
+    "1p": "não rilhemos",
+    "2p": "não rilheis",
+    "3p": "não rilhem"
+  },
+  "Part-ter": {
+    "": "rilhado"
+  },
+  "Part-ser": {
+    "ms": "rilhado",
+    "fs": "rilhada",
+    "mp": "rilhados",
+    "fp": "rilhadas"
+  }
+}

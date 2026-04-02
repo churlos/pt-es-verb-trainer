@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "entercarse"
+  },
+  "Ger": {
+    "": "entercándose"
+  },
+  "PresI": {
+    "1s": "me enterco",
+    "2s": "te entercas",
+    "3s": "se enterca",
+    "1p": "nos entercamos",
+    "2p": "os entercáis",
+    "3p": "se entercan"
+  },
+  "PImpI": {
+    "1s": "me entercaba",
+    "2s": "te entercabas",
+    "3s": "se entercaba",
+    "1p": "nos entercábamos",
+    "2p": "os entercabais",
+    "3p": "se entercaban"
+  },
+  "PPSI": {
+    "1s": "me enterqué",
+    "2s": "te entercaste",
+    "3s": "se entercó",
+    "1p": "nos entercamos",
+    "2p": "os entercasteis",
+    "3p": "se entercaron"
+  },
+  "FutSI": {
+    "1s": "me entercaré",
+    "2s": "te entercarás",
+    "3s": "se entercará",
+    "1p": "nos entercaremos",
+    "2p": "os entercaréis",
+    "3p": "se entercarán"
+  },
+  "CondS": {
+    "1s": "me entercaría",
+    "2s": "te entercarías",
+    "3s": "se entercaría",
+    "1p": "nos entercaríamos",
+    "2p": "os entercaríais",
+    "3p": "se entercarían"
+  },
+  "PresC": {
+    "1s": "me enterque",
+    "2s": "te enterques",
+    "3s": "se enterque",
+    "1p": "nos enterquemos",
+    "2p": "os enterquéis",
+    "3p": "se enterquen"
+  },
+  "PMQPSI": {
+    "1s": "me entercara",
+    "2s": "te entercaras",
+    "3s": "se entercara",
+    "1p": "nos entercáramos",
+    "2p": "os entercarais",
+    "3p": "se entercaran"
+  },
+  "PImpC": {
+    "1s": "me entercase",
+    "2s": "te entercases",
+    "3s": "se entercase",
+    "1p": "nos entercásemos",
+    "2p": "os entercaseis",
+    "3p": "se entercasen"
+  },
+  "FutSC": {
+    "1s": "me entercare",
+    "2s": "te entercares",
+    "3s": "se entercare",
+    "1p": "nos entercáremos",
+    "2p": "os entercareis",
+    "3p": "se entercaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entércate",
+    "3s": "entérquese",
+    "1p": "enterquémonos",
+    "2p": "entercaos",
+    "3p": "entérquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te enterques",
+    "3s": "no se enterque",
+    "1p": "no nos enterquemos",
+    "2p": "no os enterquéis",
+    "3p": "no se enterquen"
+  },
+  "Part-ter": {
+    "": "entercado"
+  },
+  "Part-ser": {
+    "ms": "entercado",
+    "fs": "entercada",
+    "mp": "entercados",
+    "fp": "entercadas"
+  }
+}

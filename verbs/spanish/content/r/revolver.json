@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "revolver"
+  },
+  "Ger": {
+    "": "revolviendo"
+  },
+  "PresI": {
+    "1s": "revuelvo",
+    "2s": "revuelves",
+    "3s": "revuelve",
+    "1p": "revolvemos",
+    "2p": "revolvéis",
+    "3p": "revuelven"
+  },
+  "PImpI": {
+    "1s": "revolvía",
+    "2s": "revolvías",
+    "3s": "revolvía",
+    "1p": "revolvíamos",
+    "2p": "revolvíais",
+    "3p": "revolvían"
+  },
+  "PPSI": {
+    "1s": "revolví",
+    "2s": "revolviste",
+    "3s": "revolvió",
+    "1p": "revolvimos",
+    "2p": "revolvisteis",
+    "3p": "revolvieron"
+  },
+  "FutSI": {
+    "1s": "revolveré",
+    "2s": "revolverás",
+    "3s": "revolverá",
+    "1p": "revolveremos",
+    "2p": "revolveréis",
+    "3p": "revolverán"
+  },
+  "CondS": {
+    "1s": "revolvería",
+    "2s": "revolverías",
+    "3s": "revolvería",
+    "1p": "revolveríamos",
+    "2p": "revolveríais",
+    "3p": "revolverían"
+  },
+  "PresC": {
+    "1s": "revuelva",
+    "2s": "revuelvas",
+    "3s": "revuelva",
+    "1p": "revolvamos",
+    "2p": "revolváis",
+    "3p": "revuelvan"
+  },
+  "PMQPSI": {
+    "1s": "revolviera",
+    "2s": "revolvieras",
+    "3s": "revolviera",
+    "1p": "revolviéramos",
+    "2p": "revolvierais",
+    "3p": "revolvieran"
+  },
+  "PImpC": {
+    "1s": "revolviese",
+    "2s": "revolvieses",
+    "3s": "revolviese",
+    "1p": "revolviésemos",
+    "2p": "revolvieseis",
+    "3p": "revolviesen"
+  },
+  "FutSC": {
+    "1s": "revolviere",
+    "2s": "revolvieres",
+    "3s": "revolviere",
+    "1p": "revolviéremos",
+    "2p": "revolviereis",
+    "3p": "revolvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "revuelve",
+    "3s": "revuelva",
+    "1p": "revolvamos",
+    "2p": "revolved",
+    "3p": "revuelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no revuelvas",
+    "3s": "no revuelva",
+    "1p": "no revolvamos",
+    "2p": "no revolváis",
+    "3p": "no revuelvan"
+  },
+  "Part-ter": {
+    "": "revuelto"
+  },
+  "Part-ser": {
+    "ms": "revuelto",
+    "fs": "revuelta",
+    "mp": "revueltos",
+    "fp": "revueltas"
+  }
+}

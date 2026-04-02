@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "barretear"
+  },
+  "Ger": {
+    "": "barreteando"
+  },
+  "PresI": {
+    "1s": "barreteo",
+    "2s": "barreteas",
+    "3s": "barretea",
+    "1p": "barreteamos",
+    "2p": "barreteáis",
+    "3p": "barretean"
+  },
+  "PImpI": {
+    "1s": "barreteaba",
+    "2s": "barreteabas",
+    "3s": "barreteaba",
+    "1p": "barreteábamos",
+    "2p": "barreteabais",
+    "3p": "barreteaban"
+  },
+  "PPSI": {
+    "1s": "barreteé",
+    "2s": "barreteaste",
+    "3s": "barreteó",
+    "1p": "barreteamos",
+    "2p": "barreteasteis",
+    "3p": "barretearon"
+  },
+  "FutSI": {
+    "1s": "barretearé",
+    "2s": "barretearás",
+    "3s": "barreteará",
+    "1p": "barretearemos",
+    "2p": "barretearéis",
+    "3p": "barretearán"
+  },
+  "CondS": {
+    "1s": "barretearía",
+    "2s": "barretearías",
+    "3s": "barretearía",
+    "1p": "barretearíamos",
+    "2p": "barretearíais",
+    "3p": "barretearían"
+  },
+  "PresC": {
+    "1s": "barretee",
+    "2s": "barretees",
+    "3s": "barretee",
+    "1p": "barreteemos",
+    "2p": "barreteéis",
+    "3p": "barreteen"
+  },
+  "PMQPSI": {
+    "1s": "barreteara",
+    "2s": "barretearas",
+    "3s": "barreteara",
+    "1p": "barreteáramos",
+    "2p": "barretearais",
+    "3p": "barretearan"
+  },
+  "PImpC": {
+    "1s": "barretease",
+    "2s": "barreteases",
+    "3s": "barretease",
+    "1p": "barreteásemos",
+    "2p": "barreteaseis",
+    "3p": "barreteasen"
+  },
+  "FutSC": {
+    "1s": "barreteare",
+    "2s": "barreteares",
+    "3s": "barreteare",
+    "1p": "barreteáremos",
+    "2p": "barreteareis",
+    "3p": "barretearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barretea",
+    "3s": "barretee",
+    "1p": "barreteemos",
+    "2p": "barretead",
+    "3p": "barreteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no barretees",
+    "3s": "no barretee",
+    "1p": "no barreteemos",
+    "2p": "no barreteéis",
+    "3p": "no barreteen"
+  },
+  "Part-ter": {
+    "": "barreteado"
+  },
+  "Part-ser": {
+    "ms": "barreteado",
+    "fs": "barreteada",
+    "mp": "barreteados",
+    "fp": "barreteadas"
+  }
+}

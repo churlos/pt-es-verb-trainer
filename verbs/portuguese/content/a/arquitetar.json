@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arquitetar"
+  },
+  "InfP": {
+    "1s": "arquitetar",
+    "2s": "arquitetares",
+    "3s": "arquitetar",
+    "1p": "arquitetarmos",
+    "2p": "arquitetardes",
+    "3p": "arquitetarem"
+  },
+  "Ger": {
+    "": "arquitetando"
+  },
+  "PresI": {
+    "1s": "arquiteto",
+    "2s": "arquitetas",
+    "3s": "arquiteta",
+    "1p": "arquitetamos",
+    "2p": "arquitetais",
+    "3p": "arquitetam"
+  },
+  "PImpI": {
+    "1s": "arquitetava",
+    "2s": "arquitetavas",
+    "3s": "arquitetava",
+    "1p": "arquitetávamos",
+    "2p": "arquitetáveis",
+    "3p": "arquitetavam"
+  },
+  "PPSI": {
+    "1s": "arquitetei",
+    "2s": "arquitetaste",
+    "3s": "arquitetou",
+    "1p": "arquitetámos",
+    "2p": "arquitetastes",
+    "3p": "arquitetaram"
+  },
+  "PMQPSI": {
+    "1s": "arquitetara",
+    "2s": "arquitetaras",
+    "3s": "arquitetara",
+    "1p": "arquitetáramos",
+    "2p": "arquitetáreis",
+    "3p": "arquitetaram"
+  },
+  "FutSI": {
+    "1s": "arquitetarei",
+    "2s": "arquitetarás",
+    "3s": "arquitetará",
+    "1p": "arquitetaremos",
+    "2p": "arquitetareis",
+    "3p": "arquitetarão"
+  },
+  "CondS": {
+    "1s": "arquitetaria",
+    "2s": "arquitetarias",
+    "3s": "arquitetaria",
+    "1p": "arquitetaríamos",
+    "2p": "arquitetaríeis",
+    "3p": "arquitetariam"
+  },
+  "PresC": {
+    "1s": "arquitete",
+    "2s": "arquitetes",
+    "3s": "arquitete",
+    "1p": "arquitetemos",
+    "2p": "arquiteteis",
+    "3p": "arquitetem"
+  },
+  "PImpC": {
+    "1s": "arquitetasse",
+    "2s": "arquitetasses",
+    "3s": "arquitetasse",
+    "1p": "arquitetássemos",
+    "2p": "arquitetásseis",
+    "3p": "arquitetassem"
+  },
+  "FutSC": {
+    "1s": "arquitetar",
+    "2s": "arquitetares",
+    "3s": "arquitetar",
+    "1p": "arquitetarmos",
+    "2p": "arquitetardes",
+    "3p": "arquitetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arquiteta",
+    "3s": "arquitete",
+    "1p": "arquitetemos",
+    "2p": "arquitetai",
+    "3p": "arquitetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arquitetes",
+    "3s": "não arquitete",
+    "1p": "não arquitetemos",
+    "2p": "não arquiteteis",
+    "3p": "não arquitetem"
+  },
+  "Part-ter": {
+    "": "arquitetado"
+  },
+  "Part-ser": {
+    "ms": "arquitetado",
+    "fs": "arquitetada",
+    "mp": "arquitetados",
+    "fp": "arquitetadas"
+  }
+}

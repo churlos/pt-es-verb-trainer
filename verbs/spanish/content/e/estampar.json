@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estampar"
+  },
+  "Ger": {
+    "": "estampando"
+  },
+  "PresI": {
+    "1s": "estampo",
+    "2s": "estampas",
+    "3s": "estampa",
+    "1p": "estampamos",
+    "2p": "estampáis",
+    "3p": "estampan"
+  },
+  "PImpI": {
+    "1s": "estampaba",
+    "2s": "estampabas",
+    "3s": "estampaba",
+    "1p": "estampábamos",
+    "2p": "estampabais",
+    "3p": "estampaban"
+  },
+  "PPSI": {
+    "1s": "estampé",
+    "2s": "estampaste",
+    "3s": "estampó",
+    "1p": "estampamos",
+    "2p": "estampasteis",
+    "3p": "estamparon"
+  },
+  "FutSI": {
+    "1s": "estamparé",
+    "2s": "estamparás",
+    "3s": "estampará",
+    "1p": "estamparemos",
+    "2p": "estamparéis",
+    "3p": "estamparán"
+  },
+  "CondS": {
+    "1s": "estamparía",
+    "2s": "estamparías",
+    "3s": "estamparía",
+    "1p": "estamparíamos",
+    "2p": "estamparíais",
+    "3p": "estamparían"
+  },
+  "PresC": {
+    "1s": "estampe",
+    "2s": "estampes",
+    "3s": "estampe",
+    "1p": "estampemos",
+    "2p": "estampéis",
+    "3p": "estampen"
+  },
+  "PMQPSI": {
+    "1s": "estampara",
+    "2s": "estamparas",
+    "3s": "estampara",
+    "1p": "estampáramos",
+    "2p": "estamparais",
+    "3p": "estamparan"
+  },
+  "PImpC": {
+    "1s": "estampase",
+    "2s": "estampases",
+    "3s": "estampase",
+    "1p": "estampásemos",
+    "2p": "estampaseis",
+    "3p": "estampasen"
+  },
+  "FutSC": {
+    "1s": "estampare",
+    "2s": "estampares",
+    "3s": "estampare",
+    "1p": "estampáremos",
+    "2p": "estampareis",
+    "3p": "estamparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estampa",
+    "3s": "estampe",
+    "1p": "estampemos",
+    "2p": "estampad",
+    "3p": "estampen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estampes",
+    "3s": "no estampe",
+    "1p": "no estampemos",
+    "2p": "no estampéis",
+    "3p": "no estampen"
+  },
+  "Part-ter": {
+    "": "estampado"
+  },
+  "Part-ser": {
+    "ms": "estampado",
+    "fs": "estampada",
+    "mp": "estampados",
+    "fp": "estampadas"
+  }
+}

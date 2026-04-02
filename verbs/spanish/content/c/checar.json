@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "checar"
+  },
+  "Ger": {
+    "": "checando"
+  },
+  "PresI": {
+    "1s": "checo",
+    "2s": "checas",
+    "3s": "checa",
+    "1p": "checamos",
+    "2p": "checáis",
+    "3p": "checan"
+  },
+  "PImpI": {
+    "1s": "checaba",
+    "2s": "checabas",
+    "3s": "checaba",
+    "1p": "checábamos",
+    "2p": "checabais",
+    "3p": "checaban"
+  },
+  "PPSI": {
+    "1s": "chequé",
+    "2s": "checaste",
+    "3s": "checó",
+    "1p": "checamos",
+    "2p": "checasteis",
+    "3p": "checaron"
+  },
+  "FutSI": {
+    "1s": "checaré",
+    "2s": "checarás",
+    "3s": "checará",
+    "1p": "checaremos",
+    "2p": "checaréis",
+    "3p": "checarán"
+  },
+  "CondS": {
+    "1s": "checaría",
+    "2s": "checarías",
+    "3s": "checaría",
+    "1p": "checaríamos",
+    "2p": "checaríais",
+    "3p": "checarían"
+  },
+  "PresC": {
+    "1s": "cheque",
+    "2s": "cheques",
+    "3s": "cheque",
+    "1p": "chequemos",
+    "2p": "chequéis",
+    "3p": "chequen"
+  },
+  "PMQPSI": {
+    "1s": "checara",
+    "2s": "checaras",
+    "3s": "checara",
+    "1p": "checáramos",
+    "2p": "checarais",
+    "3p": "checaran"
+  },
+  "PImpC": {
+    "1s": "checase",
+    "2s": "checases",
+    "3s": "checase",
+    "1p": "checásemos",
+    "2p": "checaseis",
+    "3p": "checasen"
+  },
+  "FutSC": {
+    "1s": "checare",
+    "2s": "checares",
+    "3s": "checare",
+    "1p": "checáremos",
+    "2p": "checareis",
+    "3p": "checaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "checa",
+    "3s": "cheque",
+    "1p": "chequemos",
+    "2p": "checad",
+    "3p": "chequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cheques",
+    "3s": "no cheque",
+    "1p": "no chequemos",
+    "2p": "no chequéis",
+    "3p": "no chequen"
+  },
+  "Part-ter": {
+    "": "checado"
+  },
+  "Part-ser": {
+    "ms": "checado",
+    "fs": "checada",
+    "mp": "checados",
+    "fp": "checadas"
+  }
+}

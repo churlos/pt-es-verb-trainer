@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suplicar"
+  },
+  "Ger": {
+    "": "suplicando"
+  },
+  "PresI": {
+    "1s": "suplico",
+    "2s": "suplicas",
+    "3s": "suplica",
+    "1p": "suplicamos",
+    "2p": "suplicáis",
+    "3p": "suplican"
+  },
+  "PImpI": {
+    "1s": "suplicaba",
+    "2s": "suplicabas",
+    "3s": "suplicaba",
+    "1p": "suplicábamos",
+    "2p": "suplicabais",
+    "3p": "suplicaban"
+  },
+  "PPSI": {
+    "1s": "supliqué",
+    "2s": "suplicaste",
+    "3s": "suplicó",
+    "1p": "suplicamos",
+    "2p": "suplicasteis",
+    "3p": "suplicaron"
+  },
+  "FutSI": {
+    "1s": "suplicaré",
+    "2s": "suplicarás",
+    "3s": "suplicará",
+    "1p": "suplicaremos",
+    "2p": "suplicaréis",
+    "3p": "suplicarán"
+  },
+  "CondS": {
+    "1s": "suplicaría",
+    "2s": "suplicarías",
+    "3s": "suplicaría",
+    "1p": "suplicaríamos",
+    "2p": "suplicaríais",
+    "3p": "suplicarían"
+  },
+  "PresC": {
+    "1s": "suplique",
+    "2s": "supliques",
+    "3s": "suplique",
+    "1p": "supliquemos",
+    "2p": "supliquéis",
+    "3p": "supliquen"
+  },
+  "PMQPSI": {
+    "1s": "suplicara",
+    "2s": "suplicaras",
+    "3s": "suplicara",
+    "1p": "suplicáramos",
+    "2p": "suplicarais",
+    "3p": "suplicaran"
+  },
+  "PImpC": {
+    "1s": "suplicase",
+    "2s": "suplicases",
+    "3s": "suplicase",
+    "1p": "suplicásemos",
+    "2p": "suplicaseis",
+    "3p": "suplicasen"
+  },
+  "FutSC": {
+    "1s": "suplicare",
+    "2s": "suplicares",
+    "3s": "suplicare",
+    "1p": "suplicáremos",
+    "2p": "suplicareis",
+    "3p": "suplicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suplica",
+    "3s": "suplique",
+    "1p": "supliquemos",
+    "2p": "suplicad",
+    "3p": "supliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no supliques",
+    "3s": "no suplique",
+    "1p": "no supliquemos",
+    "2p": "no supliquéis",
+    "3p": "no supliquen"
+  },
+  "Part-ter": {
+    "": "suplicado"
+  },
+  "Part-ser": {
+    "ms": "suplicado",
+    "fs": "suplicada",
+    "mp": "suplicados",
+    "fp": "suplicadas"
+  }
+}

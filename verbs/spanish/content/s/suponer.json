@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suponer"
+  },
+  "Ger": {
+    "": "suponiendo"
+  },
+  "PresI": {
+    "1s": "supongo",
+    "2s": "supones",
+    "3s": "supone",
+    "1p": "suponemos",
+    "2p": "suponéis",
+    "3p": "suponen"
+  },
+  "PImpI": {
+    "1s": "suponía",
+    "2s": "suponías",
+    "3s": "suponía",
+    "1p": "suponíamos",
+    "2p": "suponíais",
+    "3p": "suponían"
+  },
+  "PPSI": {
+    "1s": "supuse",
+    "2s": "supusiste",
+    "3s": "supuso",
+    "1p": "supusimos",
+    "2p": "supusisteis",
+    "3p": "supusieron"
+  },
+  "FutSI": {
+    "1s": "supondré",
+    "2s": "supondrás",
+    "3s": "supondrá",
+    "1p": "supondremos",
+    "2p": "supondréis",
+    "3p": "supondrán"
+  },
+  "CondS": {
+    "1s": "supondría",
+    "2s": "supondrías",
+    "3s": "supondría",
+    "1p": "supondríamos",
+    "2p": "supondríais",
+    "3p": "supondrían"
+  },
+  "PresC": {
+    "1s": "suponga",
+    "2s": "supongas",
+    "3s": "suponga",
+    "1p": "supongamos",
+    "2p": "supongáis",
+    "3p": "supongan"
+  },
+  "PMQPSI": {
+    "1s": "supusiera",
+    "2s": "supusieras",
+    "3s": "supusiera",
+    "1p": "supusiéramos",
+    "2p": "supusierais",
+    "3p": "supusieran"
+  },
+  "PImpC": {
+    "1s": "supusiese",
+    "2s": "supusieses",
+    "3s": "supusiese",
+    "1p": "supusiésemos",
+    "2p": "supusieseis",
+    "3p": "supusiesen"
+  },
+  "FutSC": {
+    "1s": "supusiere",
+    "2s": "supusieres",
+    "3s": "supusiere",
+    "1p": "supusiéremos",
+    "2p": "supusiereis",
+    "3p": "supusieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "supón",
+    "3s": "suponga",
+    "1p": "supongamos",
+    "2p": "suponed",
+    "3p": "supongan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no supongas",
+    "3s": "no suponga",
+    "1p": "no supongamos",
+    "2p": "no supongáis",
+    "3p": "no supongan"
+  },
+  "Part-ter": {
+    "": "supuesto"
+  },
+  "Part-ser": {
+    "ms": "supuesto",
+    "fs": "supuesta",
+    "mp": "supuestos",
+    "fp": "supuestas"
+  }
+}

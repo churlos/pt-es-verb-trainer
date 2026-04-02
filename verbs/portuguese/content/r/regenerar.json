@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "regenerar"
+  },
+  "InfP": {
+    "1s": "regenerar",
+    "2s": "regenerares",
+    "3s": "regenerar",
+    "1p": "regenerarmos",
+    "2p": "regenerardes",
+    "3p": "regenerarem"
+  },
+  "Ger": {
+    "": "regenerando"
+  },
+  "PresI": {
+    "1s": "regenero",
+    "2s": "regeneras",
+    "3s": "regenera",
+    "1p": "regeneramos",
+    "2p": "regenerais",
+    "3p": "regeneram"
+  },
+  "PImpI": {
+    "1s": "regenerava",
+    "2s": "regeneravas",
+    "3s": "regenerava",
+    "1p": "regenerávamos",
+    "2p": "regeneráveis",
+    "3p": "regeneravam"
+  },
+  "PPSI": {
+    "1s": "regenerei",
+    "2s": "regeneraste",
+    "3s": "regenerou",
+    "1p": "regenerámos",
+    "2p": "regenerastes",
+    "3p": "regeneraram"
+  },
+  "PMQPSI": {
+    "1s": "regenerara",
+    "2s": "regeneraras",
+    "3s": "regenerara",
+    "1p": "regeneráramos",
+    "2p": "regeneráreis",
+    "3p": "regeneraram"
+  },
+  "FutSI": {
+    "1s": "regenerarei",
+    "2s": "regenerarás",
+    "3s": "regenerará",
+    "1p": "regeneraremos",
+    "2p": "regenerareis",
+    "3p": "regenerarão"
+  },
+  "CondS": {
+    "1s": "regeneraria",
+    "2s": "regenerarias",
+    "3s": "regeneraria",
+    "1p": "regeneraríamos",
+    "2p": "regeneraríeis",
+    "3p": "regenerariam"
+  },
+  "PresC": {
+    "1s": "regenere",
+    "2s": "regeneres",
+    "3s": "regenere",
+    "1p": "regeneremos",
+    "2p": "regenereis",
+    "3p": "regenerem"
+  },
+  "PImpC": {
+    "1s": "regenerasse",
+    "2s": "regenerasses",
+    "3s": "regenerasse",
+    "1p": "regenerássemos",
+    "2p": "regenerásseis",
+    "3p": "regenerassem"
+  },
+  "FutSC": {
+    "1s": "regenerar",
+    "2s": "regenerares",
+    "3s": "regenerar",
+    "1p": "regenerarmos",
+    "2p": "regenerardes",
+    "3p": "regenerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regenera",
+    "3s": "regenere",
+    "1p": "regeneremos",
+    "2p": "regenerai",
+    "3p": "regenerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não regeneres",
+    "3s": "não regenere",
+    "1p": "não regeneremos",
+    "2p": "não regenereis",
+    "3p": "não regenerem"
+  },
+  "Part-ter": {
+    "": "regenerado"
+  },
+  "Part-ser": {
+    "ms": "regenerado",
+    "fs": "regenerada",
+    "mp": "regenerados",
+    "fp": "regeneradas"
+  }
+}

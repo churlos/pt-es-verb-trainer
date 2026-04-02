@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "receptar"
+  },
+  "Ger": {
+    "": "receptando"
+  },
+  "PresI": {
+    "1s": "recepto",
+    "2s": "receptas",
+    "3s": "recepta",
+    "1p": "receptamos",
+    "2p": "receptáis",
+    "3p": "receptan"
+  },
+  "PImpI": {
+    "1s": "receptaba",
+    "2s": "receptabas",
+    "3s": "receptaba",
+    "1p": "receptábamos",
+    "2p": "receptabais",
+    "3p": "receptaban"
+  },
+  "PPSI": {
+    "1s": "recepté",
+    "2s": "receptaste",
+    "3s": "receptó",
+    "1p": "receptamos",
+    "2p": "receptasteis",
+    "3p": "receptaron"
+  },
+  "FutSI": {
+    "1s": "receptaré",
+    "2s": "receptarás",
+    "3s": "receptará",
+    "1p": "receptaremos",
+    "2p": "receptaréis",
+    "3p": "receptarán"
+  },
+  "CondS": {
+    "1s": "receptaría",
+    "2s": "receptarías",
+    "3s": "receptaría",
+    "1p": "receptaríamos",
+    "2p": "receptaríais",
+    "3p": "receptarían"
+  },
+  "PresC": {
+    "1s": "recepte",
+    "2s": "receptes",
+    "3s": "recepte",
+    "1p": "receptemos",
+    "2p": "receptéis",
+    "3p": "recepten"
+  },
+  "PMQPSI": {
+    "1s": "receptara",
+    "2s": "receptaras",
+    "3s": "receptara",
+    "1p": "receptáramos",
+    "2p": "receptarais",
+    "3p": "receptaran"
+  },
+  "PImpC": {
+    "1s": "receptase",
+    "2s": "receptases",
+    "3s": "receptase",
+    "1p": "receptásemos",
+    "2p": "receptaseis",
+    "3p": "receptasen"
+  },
+  "FutSC": {
+    "1s": "receptare",
+    "2s": "receptares",
+    "3s": "receptare",
+    "1p": "receptáremos",
+    "2p": "receptareis",
+    "3p": "receptaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recepta",
+    "3s": "recepte",
+    "1p": "receptemos",
+    "2p": "receptad",
+    "3p": "recepten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no receptes",
+    "3s": "no recepte",
+    "1p": "no receptemos",
+    "2p": "no receptéis",
+    "3p": "no recepten"
+  },
+  "Part-ter": {
+    "": "receptado"
+  },
+  "Part-ser": {
+    "ms": "receptado",
+    "fs": "receptada",
+    "mp": "receptados",
+    "fp": "receptadas"
+  }
+}

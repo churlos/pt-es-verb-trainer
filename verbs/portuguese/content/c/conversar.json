@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conversar"
+  },
+  "InfP": {
+    "1s": "conversar",
+    "2s": "conversares",
+    "3s": "conversar",
+    "1p": "conversarmos",
+    "2p": "conversardes",
+    "3p": "conversarem"
+  },
+  "Ger": {
+    "": "conversando"
+  },
+  "PresI": {
+    "1s": "converso",
+    "2s": "conversas",
+    "3s": "conversa",
+    "1p": "conversamos",
+    "2p": "conversais",
+    "3p": "conversam"
+  },
+  "PImpI": {
+    "1s": "conversava",
+    "2s": "conversavas",
+    "3s": "conversava",
+    "1p": "conversávamos",
+    "2p": "conversáveis",
+    "3p": "conversavam"
+  },
+  "PPSI": {
+    "1s": "conversei",
+    "2s": "conversaste",
+    "3s": "conversou",
+    "1p": "conversámos",
+    "2p": "conversastes",
+    "3p": "conversaram"
+  },
+  "PMQPSI": {
+    "1s": "conversara",
+    "2s": "conversaras",
+    "3s": "conversara",
+    "1p": "conversáramos",
+    "2p": "conversáreis",
+    "3p": "conversaram"
+  },
+  "FutSI": {
+    "1s": "conversarei",
+    "2s": "conversarás",
+    "3s": "conversará",
+    "1p": "conversaremos",
+    "2p": "conversareis",
+    "3p": "conversarão"
+  },
+  "CondS": {
+    "1s": "conversaria",
+    "2s": "conversarias",
+    "3s": "conversaria",
+    "1p": "conversaríamos",
+    "2p": "conversaríeis",
+    "3p": "conversariam"
+  },
+  "PresC": {
+    "1s": "converse",
+    "2s": "converses",
+    "3s": "converse",
+    "1p": "conversemos",
+    "2p": "converseis",
+    "3p": "conversem"
+  },
+  "PImpC": {
+    "1s": "conversasse",
+    "2s": "conversasses",
+    "3s": "conversasse",
+    "1p": "conversássemos",
+    "2p": "conversásseis",
+    "3p": "conversassem"
+  },
+  "FutSC": {
+    "1s": "conversar",
+    "2s": "conversares",
+    "3s": "conversar",
+    "1p": "conversarmos",
+    "2p": "conversardes",
+    "3p": "conversarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conversa",
+    "3s": "converse",
+    "1p": "conversemos",
+    "2p": "conversai",
+    "3p": "conversem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não converses",
+    "3s": "não converse",
+    "1p": "não conversemos",
+    "2p": "não converseis",
+    "3p": "não conversem"
+  },
+  "Part-ter": {
+    "": "conversado"
+  },
+  "Part-ser": {
+    "ms": "conversado",
+    "fs": "conversada",
+    "mp": "conversados",
+    "fp": "conversadas"
+  }
+}

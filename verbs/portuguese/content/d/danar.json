@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "danar"
+  },
+  "InfP": {
+    "1s": "danar",
+    "2s": "danares",
+    "3s": "danar",
+    "1p": "danarmos",
+    "2p": "danardes",
+    "3p": "danarem"
+  },
+  "Ger": {
+    "": "danando"
+  },
+  "PresI": {
+    "1s": "dano",
+    "2s": "danas",
+    "3s": "dana",
+    "1p": "danamos",
+    "2p": "danais",
+    "3p": "danam"
+  },
+  "PImpI": {
+    "1s": "danava",
+    "2s": "danavas",
+    "3s": "danava",
+    "1p": "danávamos",
+    "2p": "danáveis",
+    "3p": "danavam"
+  },
+  "PPSI": {
+    "1s": "danei",
+    "2s": "danaste",
+    "3s": "danou",
+    "1p": "danámos",
+    "2p": "danastes",
+    "3p": "danaram"
+  },
+  "PMQPSI": {
+    "1s": "danara",
+    "2s": "danaras",
+    "3s": "danara",
+    "1p": "danáramos",
+    "2p": "danáreis",
+    "3p": "danaram"
+  },
+  "FutSI": {
+    "1s": "danarei",
+    "2s": "danarás",
+    "3s": "danará",
+    "1p": "danaremos",
+    "2p": "danareis",
+    "3p": "danarão"
+  },
+  "CondS": {
+    "1s": "danaria",
+    "2s": "danarias",
+    "3s": "danaria",
+    "1p": "danaríamos",
+    "2p": "danaríeis",
+    "3p": "danariam"
+  },
+  "PresC": {
+    "1s": "dane",
+    "2s": "danes",
+    "3s": "dane",
+    "1p": "danemos",
+    "2p": "daneis",
+    "3p": "danem"
+  },
+  "PImpC": {
+    "1s": "danasse",
+    "2s": "danasses",
+    "3s": "danasse",
+    "1p": "danássemos",
+    "2p": "danásseis",
+    "3p": "danassem"
+  },
+  "FutSC": {
+    "1s": "danar",
+    "2s": "danares",
+    "3s": "danar",
+    "1p": "danarmos",
+    "2p": "danardes",
+    "3p": "danarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dana",
+    "3s": "dane",
+    "1p": "danemos",
+    "2p": "danai",
+    "3p": "danem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não danes",
+    "3s": "não dane",
+    "1p": "não danemos",
+    "2p": "não daneis",
+    "3p": "não danem"
+  },
+  "Part-ter": {
+    "": "danado"
+  },
+  "Part-ser": {
+    "ms": "danado",
+    "fs": "danada",
+    "mp": "danados",
+    "fp": "danadas"
+  }
+}

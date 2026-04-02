@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gritar"
+  },
+  "Ger": {
+    "": "gritando"
+  },
+  "PresI": {
+    "1s": "grito",
+    "2s": "gritas",
+    "3s": "grita",
+    "1p": "gritamos",
+    "2p": "gritáis",
+    "3p": "gritan"
+  },
+  "PImpI": {
+    "1s": "gritaba",
+    "2s": "gritabas",
+    "3s": "gritaba",
+    "1p": "gritábamos",
+    "2p": "gritabais",
+    "3p": "gritaban"
+  },
+  "PPSI": {
+    "1s": "grité",
+    "2s": "gritaste",
+    "3s": "gritó",
+    "1p": "gritamos",
+    "2p": "gritasteis",
+    "3p": "gritaron"
+  },
+  "FutSI": {
+    "1s": "gritaré",
+    "2s": "gritarás",
+    "3s": "gritará",
+    "1p": "gritaremos",
+    "2p": "gritaréis",
+    "3p": "gritarán"
+  },
+  "CondS": {
+    "1s": "gritaría",
+    "2s": "gritarías",
+    "3s": "gritaría",
+    "1p": "gritaríamos",
+    "2p": "gritaríais",
+    "3p": "gritarían"
+  },
+  "PresC": {
+    "1s": "grite",
+    "2s": "grites",
+    "3s": "grite",
+    "1p": "gritemos",
+    "2p": "gritéis",
+    "3p": "griten"
+  },
+  "PMQPSI": {
+    "1s": "gritara",
+    "2s": "gritaras",
+    "3s": "gritara",
+    "1p": "gritáramos",
+    "2p": "gritarais",
+    "3p": "gritaran"
+  },
+  "PImpC": {
+    "1s": "gritase",
+    "2s": "gritases",
+    "3s": "gritase",
+    "1p": "gritásemos",
+    "2p": "gritaseis",
+    "3p": "gritasen"
+  },
+  "FutSC": {
+    "1s": "gritare",
+    "2s": "gritares",
+    "3s": "gritare",
+    "1p": "gritáremos",
+    "2p": "gritareis",
+    "3p": "gritaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grita",
+    "3s": "grite",
+    "1p": "gritemos",
+    "2p": "gritad",
+    "3p": "griten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no grites",
+    "3s": "no grite",
+    "1p": "no gritemos",
+    "2p": "no gritéis",
+    "3p": "no griten"
+  },
+  "Part-ter": {
+    "": "gritado"
+  },
+  "Part-ser": {
+    "ms": "gritado",
+    "fs": "gritada",
+    "mp": "gritados",
+    "fp": "gritadas"
+  }
+}

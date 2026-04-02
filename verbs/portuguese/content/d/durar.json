@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "durar"
+  },
+  "InfP": {
+    "1s": "durar",
+    "2s": "durares",
+    "3s": "durar",
+    "1p": "durarmos",
+    "2p": "durardes",
+    "3p": "durarem"
+  },
+  "Ger": {
+    "": "durando"
+  },
+  "PresI": {
+    "1s": "duro",
+    "2s": "duras",
+    "3s": "dura",
+    "1p": "duramos",
+    "2p": "durais",
+    "3p": "duram"
+  },
+  "PImpI": {
+    "1s": "durava",
+    "2s": "duravas",
+    "3s": "durava",
+    "1p": "durávamos",
+    "2p": "duráveis",
+    "3p": "duravam"
+  },
+  "PPSI": {
+    "1s": "durei",
+    "2s": "duraste",
+    "3s": "durou",
+    "1p": "durámos",
+    "2p": "durastes",
+    "3p": "duraram"
+  },
+  "PMQPSI": {
+    "1s": "durara",
+    "2s": "duraras",
+    "3s": "durara",
+    "1p": "duráramos",
+    "2p": "duráreis",
+    "3p": "duraram"
+  },
+  "FutSI": {
+    "1s": "durarei",
+    "2s": "durarás",
+    "3s": "durará",
+    "1p": "duraremos",
+    "2p": "durareis",
+    "3p": "durarão"
+  },
+  "CondS": {
+    "1s": "duraria",
+    "2s": "durarias",
+    "3s": "duraria",
+    "1p": "duraríamos",
+    "2p": "duraríeis",
+    "3p": "durariam"
+  },
+  "PresC": {
+    "1s": "dure",
+    "2s": "dures",
+    "3s": "dure",
+    "1p": "duremos",
+    "2p": "dureis",
+    "3p": "durem"
+  },
+  "PImpC": {
+    "1s": "durasse",
+    "2s": "durasses",
+    "3s": "durasse",
+    "1p": "durássemos",
+    "2p": "durásseis",
+    "3p": "durassem"
+  },
+  "FutSC": {
+    "1s": "durar",
+    "2s": "durares",
+    "3s": "durar",
+    "1p": "durarmos",
+    "2p": "durardes",
+    "3p": "durarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dura",
+    "3s": "dure",
+    "1p": "duremos",
+    "2p": "durai",
+    "3p": "durem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dures",
+    "3s": "não dure",
+    "1p": "não duremos",
+    "2p": "não dureis",
+    "3p": "não durem"
+  },
+  "Part-ter": {
+    "": "durado"
+  },
+  "Part-ser": {
+    "ms": "durado",
+    "fs": "durada",
+    "mp": "durados",
+    "fp": "duradas"
+  }
+}

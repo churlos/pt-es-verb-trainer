@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "treinar"
+  },
+  "InfP": {
+    "1s": "treinar",
+    "2s": "treinares",
+    "3s": "treinar",
+    "1p": "treinarmos",
+    "2p": "treinardes",
+    "3p": "treinarem"
+  },
+  "Ger": {
+    "": "treinando"
+  },
+  "PresI": {
+    "1s": "treino",
+    "2s": "treinas",
+    "3s": "treina",
+    "1p": "treinamos",
+    "2p": "treinais",
+    "3p": "treinam"
+  },
+  "PImpI": {
+    "1s": "treinava",
+    "2s": "treinavas",
+    "3s": "treinava",
+    "1p": "treinávamos",
+    "2p": "treináveis",
+    "3p": "treinavam"
+  },
+  "PPSI": {
+    "1s": "treinei",
+    "2s": "treinaste",
+    "3s": "treinou",
+    "1p": "treinámos",
+    "2p": "treinastes",
+    "3p": "treinaram"
+  },
+  "PMQPSI": {
+    "1s": "treinara",
+    "2s": "treinaras",
+    "3s": "treinara",
+    "1p": "treináramos",
+    "2p": "treináreis",
+    "3p": "treinaram"
+  },
+  "FutSI": {
+    "1s": "treinarei",
+    "2s": "treinarás",
+    "3s": "treinará",
+    "1p": "treinaremos",
+    "2p": "treinareis",
+    "3p": "treinarão"
+  },
+  "CondS": {
+    "1s": "treinaria",
+    "2s": "treinarias",
+    "3s": "treinaria",
+    "1p": "treinaríamos",
+    "2p": "treinaríeis",
+    "3p": "treinariam"
+  },
+  "PresC": {
+    "1s": "treine",
+    "2s": "treines",
+    "3s": "treine",
+    "1p": "treinemos",
+    "2p": "treineis",
+    "3p": "treinem"
+  },
+  "PImpC": {
+    "1s": "treinasse",
+    "2s": "treinasses",
+    "3s": "treinasse",
+    "1p": "treinássemos",
+    "2p": "treinásseis",
+    "3p": "treinassem"
+  },
+  "FutSC": {
+    "1s": "treinar",
+    "2s": "treinares",
+    "3s": "treinar",
+    "1p": "treinarmos",
+    "2p": "treinardes",
+    "3p": "treinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "treina",
+    "3s": "treine",
+    "1p": "treinemos",
+    "2p": "treinai",
+    "3p": "treinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não treines",
+    "3s": "não treine",
+    "1p": "não treinemos",
+    "2p": "não treineis",
+    "3p": "não treinem"
+  },
+  "Part-ter": {
+    "": "treinado"
+  },
+  "Part-ser": {
+    "ms": "treinado",
+    "fs": "treinada",
+    "mp": "treinados",
+    "fp": "treinadas"
+  }
+}

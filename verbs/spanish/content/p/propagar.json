@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "propagar"
+  },
+  "Ger": {
+    "": "propagando"
+  },
+  "PresI": {
+    "1s": "propago",
+    "2s": "propagas",
+    "3s": "propaga",
+    "1p": "propagamos",
+    "2p": "propagáis",
+    "3p": "propagan"
+  },
+  "PImpI": {
+    "1s": "propagaba",
+    "2s": "propagabas",
+    "3s": "propagaba",
+    "1p": "propagábamos",
+    "2p": "propagabais",
+    "3p": "propagaban"
+  },
+  "PPSI": {
+    "1s": "propagué",
+    "2s": "propagaste",
+    "3s": "propagó",
+    "1p": "propagamos",
+    "2p": "propagasteis",
+    "3p": "propagaron"
+  },
+  "FutSI": {
+    "1s": "propagaré",
+    "2s": "propagarás",
+    "3s": "propagará",
+    "1p": "propagaremos",
+    "2p": "propagaréis",
+    "3p": "propagarán"
+  },
+  "CondS": {
+    "1s": "propagaría",
+    "2s": "propagarías",
+    "3s": "propagaría",
+    "1p": "propagaríamos",
+    "2p": "propagaríais",
+    "3p": "propagarían"
+  },
+  "PresC": {
+    "1s": "propague",
+    "2s": "propagues",
+    "3s": "propague",
+    "1p": "propaguemos",
+    "2p": "propaguéis",
+    "3p": "propaguen"
+  },
+  "PMQPSI": {
+    "1s": "propagara",
+    "2s": "propagaras",
+    "3s": "propagara",
+    "1p": "propagáramos",
+    "2p": "propagarais",
+    "3p": "propagaran"
+  },
+  "PImpC": {
+    "1s": "propagase",
+    "2s": "propagases",
+    "3s": "propagase",
+    "1p": "propagásemos",
+    "2p": "propagaseis",
+    "3p": "propagasen"
+  },
+  "FutSC": {
+    "1s": "propagare",
+    "2s": "propagares",
+    "3s": "propagare",
+    "1p": "propagáremos",
+    "2p": "propagareis",
+    "3p": "propagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "propaga",
+    "3s": "propague",
+    "1p": "propaguemos",
+    "2p": "propagad",
+    "3p": "propaguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no propagues",
+    "3s": "no propague",
+    "1p": "no propaguemos",
+    "2p": "no propaguéis",
+    "3p": "no propaguen"
+  },
+  "Part-ter": {
+    "": "propagado"
+  },
+  "Part-ser": {
+    "ms": "propagado",
+    "fs": "propagada",
+    "mp": "propagados",
+    "fp": "propagadas"
+  }
+}

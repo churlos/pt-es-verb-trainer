@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "candidatar"
+  },
+  "InfP": {
+    "1s": "candidatar",
+    "2s": "candidatares",
+    "3s": "candidatar",
+    "1p": "candidatarmos",
+    "2p": "candidatardes",
+    "3p": "candidatarem"
+  },
+  "Ger": {
+    "": "candidatando"
+  },
+  "PresI": {
+    "1s": "candidato",
+    "2s": "candidatas",
+    "3s": "candidata",
+    "1p": "candidatamos",
+    "2p": "candidatais",
+    "3p": "candidatam"
+  },
+  "PImpI": {
+    "1s": "candidatava",
+    "2s": "candidatavas",
+    "3s": "candidatava",
+    "1p": "candidatávamos",
+    "2p": "candidatáveis",
+    "3p": "candidatavam"
+  },
+  "PPSI": {
+    "1s": "candidatei",
+    "2s": "candidataste",
+    "3s": "candidatou",
+    "1p": "candidatámos",
+    "2p": "candidatastes",
+    "3p": "candidataram"
+  },
+  "PMQPSI": {
+    "1s": "candidatara",
+    "2s": "candidataras",
+    "3s": "candidatara",
+    "1p": "candidatáramos",
+    "2p": "candidatáreis",
+    "3p": "candidataram"
+  },
+  "FutSI": {
+    "1s": "candidatarei",
+    "2s": "candidatarás",
+    "3s": "candidatará",
+    "1p": "candidataremos",
+    "2p": "candidatareis",
+    "3p": "candidatarão"
+  },
+  "CondS": {
+    "1s": "candidataria",
+    "2s": "candidatarias",
+    "3s": "candidataria",
+    "1p": "candidataríamos",
+    "2p": "candidataríeis",
+    "3p": "candidatariam"
+  },
+  "PresC": {
+    "1s": "candidate",
+    "2s": "candidates",
+    "3s": "candidate",
+    "1p": "candidatemos",
+    "2p": "candidateis",
+    "3p": "candidatem"
+  },
+  "PImpC": {
+    "1s": "candidatasse",
+    "2s": "candidatasses",
+    "3s": "candidatasse",
+    "1p": "candidatássemos",
+    "2p": "candidatásseis",
+    "3p": "candidatassem"
+  },
+  "FutSC": {
+    "1s": "candidatar",
+    "2s": "candidatares",
+    "3s": "candidatar",
+    "1p": "candidatarmos",
+    "2p": "candidatardes",
+    "3p": "candidatarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "candidata",
+    "3s": "candidate",
+    "1p": "candidatemos",
+    "2p": "candidatai",
+    "3p": "candidatem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não candidates",
+    "3s": "não candidate",
+    "1p": "não candidatemos",
+    "2p": "não candidateis",
+    "3p": "não candidatem"
+  },
+  "Part-ter": {
+    "": "candidatado"
+  },
+  "Part-ser": {
+    "ms": "candidatado",
+    "fs": "candidatada",
+    "mp": "candidatados",
+    "fp": "candidatadas"
+  }
+}

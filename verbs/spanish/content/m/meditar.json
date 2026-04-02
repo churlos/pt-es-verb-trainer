@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "meditar"
+  },
+  "Ger": {
+    "": "meditando"
+  },
+  "PresI": {
+    "1s": "medito",
+    "2s": "meditas",
+    "3s": "medita",
+    "1p": "meditamos",
+    "2p": "meditáis",
+    "3p": "meditan"
+  },
+  "PImpI": {
+    "1s": "meditaba",
+    "2s": "meditabas",
+    "3s": "meditaba",
+    "1p": "meditábamos",
+    "2p": "meditabais",
+    "3p": "meditaban"
+  },
+  "PPSI": {
+    "1s": "medité",
+    "2s": "meditaste",
+    "3s": "meditó",
+    "1p": "meditamos",
+    "2p": "meditasteis",
+    "3p": "meditaron"
+  },
+  "FutSI": {
+    "1s": "meditaré",
+    "2s": "meditarás",
+    "3s": "meditará",
+    "1p": "meditaremos",
+    "2p": "meditaréis",
+    "3p": "meditarán"
+  },
+  "CondS": {
+    "1s": "meditaría",
+    "2s": "meditarías",
+    "3s": "meditaría",
+    "1p": "meditaríamos",
+    "2p": "meditaríais",
+    "3p": "meditarían"
+  },
+  "PresC": {
+    "1s": "medite",
+    "2s": "medites",
+    "3s": "medite",
+    "1p": "meditemos",
+    "2p": "meditéis",
+    "3p": "mediten"
+  },
+  "PMQPSI": {
+    "1s": "meditara",
+    "2s": "meditaras",
+    "3s": "meditara",
+    "1p": "meditáramos",
+    "2p": "meditarais",
+    "3p": "meditaran"
+  },
+  "PImpC": {
+    "1s": "meditase",
+    "2s": "meditases",
+    "3s": "meditase",
+    "1p": "meditásemos",
+    "2p": "meditaseis",
+    "3p": "meditasen"
+  },
+  "FutSC": {
+    "1s": "meditare",
+    "2s": "meditares",
+    "3s": "meditare",
+    "1p": "meditáremos",
+    "2p": "meditareis",
+    "3p": "meditaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medita",
+    "3s": "medite",
+    "1p": "meditemos",
+    "2p": "meditad",
+    "3p": "mediten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no medites",
+    "3s": "no medite",
+    "1p": "no meditemos",
+    "2p": "no meditéis",
+    "3p": "no mediten"
+  },
+  "Part-ter": {
+    "": "meditado"
+  },
+  "Part-ser": {
+    "ms": "meditado",
+    "fs": "meditada",
+    "mp": "meditados",
+    "fp": "meditadas"
+  }
+}

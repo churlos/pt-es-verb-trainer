@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "translocar"
+  },
+  "Ger": {
+    "": "translocando"
+  },
+  "PresI": {
+    "1s": "transloco",
+    "2s": "translocas",
+    "3s": "transloca",
+    "1p": "translocamos",
+    "2p": "translocáis",
+    "3p": "translocan"
+  },
+  "PImpI": {
+    "1s": "translocaba",
+    "2s": "translocabas",
+    "3s": "translocaba",
+    "1p": "translocábamos",
+    "2p": "translocabais",
+    "3p": "translocaban"
+  },
+  "PPSI": {
+    "1s": "transloqué",
+    "2s": "translocaste",
+    "3s": "translocó",
+    "1p": "translocamos",
+    "2p": "translocasteis",
+    "3p": "translocaron"
+  },
+  "FutSI": {
+    "1s": "translocaré",
+    "2s": "translocarás",
+    "3s": "translocará",
+    "1p": "translocaremos",
+    "2p": "translocaréis",
+    "3p": "translocarán"
+  },
+  "CondS": {
+    "1s": "translocaría",
+    "2s": "translocarías",
+    "3s": "translocaría",
+    "1p": "translocaríamos",
+    "2p": "translocaríais",
+    "3p": "translocarían"
+  },
+  "PresC": {
+    "1s": "transloque",
+    "2s": "transloques",
+    "3s": "transloque",
+    "1p": "transloquemos",
+    "2p": "transloquéis",
+    "3p": "transloquen"
+  },
+  "PMQPSI": {
+    "1s": "translocara",
+    "2s": "translocaras",
+    "3s": "translocara",
+    "1p": "translocáramos",
+    "2p": "translocarais",
+    "3p": "translocaran"
+  },
+  "PImpC": {
+    "1s": "translocase",
+    "2s": "translocases",
+    "3s": "translocase",
+    "1p": "translocásemos",
+    "2p": "translocaseis",
+    "3p": "translocasen"
+  },
+  "FutSC": {
+    "1s": "translocare",
+    "2s": "translocares",
+    "3s": "translocare",
+    "1p": "translocáremos",
+    "2p": "translocareis",
+    "3p": "translocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transloca",
+    "3s": "transloque",
+    "1p": "transloquemos",
+    "2p": "translocad",
+    "3p": "transloquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transloques",
+    "3s": "no transloque",
+    "1p": "no transloquemos",
+    "2p": "no transloquéis",
+    "3p": "no transloquen"
+  },
+  "Part-ter": {
+    "": "translocado"
+  },
+  "Part-ser": {
+    "ms": "translocado",
+    "fs": "translocada",
+    "mp": "translocados",
+    "fp": "translocadas"
+  }
+}

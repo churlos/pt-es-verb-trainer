@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jugar"
+  },
+  "Ger": {
+    "": "jugando"
+  },
+  "PresI": {
+    "1s": "juego",
+    "2s": "juegas",
+    "3s": "juega",
+    "1p": "jugamos",
+    "2p": "jugáis",
+    "3p": "juegan"
+  },
+  "PImpI": {
+    "1s": "jugaba",
+    "2s": "jugabas",
+    "3s": "jugaba",
+    "1p": "jugábamos",
+    "2p": "jugabais",
+    "3p": "jugaban"
+  },
+  "PPSI": {
+    "1s": "jugué",
+    "2s": "jugaste",
+    "3s": "jugó",
+    "1p": "jugamos",
+    "2p": "jugasteis",
+    "3p": "jugaron"
+  },
+  "FutSI": {
+    "1s": "jugaré",
+    "2s": "jugarás",
+    "3s": "jugará",
+    "1p": "jugaremos",
+    "2p": "jugaréis",
+    "3p": "jugarán"
+  },
+  "CondS": {
+    "1s": "jugaría",
+    "2s": "jugarías",
+    "3s": "jugaría",
+    "1p": "jugaríamos",
+    "2p": "jugaríais",
+    "3p": "jugarían"
+  },
+  "PresC": {
+    "1s": "juegue",
+    "2s": "juegues",
+    "3s": "juegue",
+    "1p": "juguemos",
+    "2p": "juguéis",
+    "3p": "jueguen"
+  },
+  "PMQPSI": {
+    "1s": "jugara",
+    "2s": "jugaras",
+    "3s": "jugara",
+    "1p": "jugáramos",
+    "2p": "jugarais",
+    "3p": "jugaran"
+  },
+  "PImpC": {
+    "1s": "jugase",
+    "2s": "jugases",
+    "3s": "jugase",
+    "1p": "jugásemos",
+    "2p": "jugaseis",
+    "3p": "jugasen"
+  },
+  "FutSC": {
+    "1s": "jugare",
+    "2s": "jugares",
+    "3s": "jugare",
+    "1p": "jugáremos",
+    "2p": "jugareis",
+    "3p": "jugaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "juega",
+    "3s": "juegue",
+    "1p": "juguemos",
+    "2p": "jugad",
+    "3p": "jueguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no juegues",
+    "3s": "no juegue",
+    "1p": "no juguemos",
+    "2p": "no juguéis",
+    "3p": "no jueguen"
+  },
+  "Part-ter": {
+    "": "jugado"
+  },
+  "Part-ser": {
+    "ms": "jugado",
+    "fs": "jugada",
+    "mp": "jugados",
+    "fp": "jugadas"
+  }
+}

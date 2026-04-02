@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bordar"
+  },
+  "InfP": {
+    "1s": "bordar",
+    "2s": "bordares",
+    "3s": "bordar",
+    "1p": "bordarmos",
+    "2p": "bordardes",
+    "3p": "bordarem"
+  },
+  "Ger": {
+    "": "bordando"
+  },
+  "PresI": {
+    "1s": "bordo",
+    "2s": "bordas",
+    "3s": "borda",
+    "1p": "bordamos",
+    "2p": "bordais",
+    "3p": "bordam"
+  },
+  "PImpI": {
+    "1s": "bordava",
+    "2s": "bordavas",
+    "3s": "bordava",
+    "1p": "bordávamos",
+    "2p": "bordáveis",
+    "3p": "bordavam"
+  },
+  "PPSI": {
+    "1s": "bordei",
+    "2s": "bordaste",
+    "3s": "bordou",
+    "1p": "bordámos",
+    "2p": "bordastes",
+    "3p": "bordaram"
+  },
+  "PMQPSI": {
+    "1s": "bordara",
+    "2s": "bordaras",
+    "3s": "bordara",
+    "1p": "bordáramos",
+    "2p": "bordáreis",
+    "3p": "bordaram"
+  },
+  "FutSI": {
+    "1s": "bordarei",
+    "2s": "bordarás",
+    "3s": "bordará",
+    "1p": "bordaremos",
+    "2p": "bordareis",
+    "3p": "bordarão"
+  },
+  "CondS": {
+    "1s": "bordaria",
+    "2s": "bordarias",
+    "3s": "bordaria",
+    "1p": "bordaríamos",
+    "2p": "bordaríeis",
+    "3p": "bordariam"
+  },
+  "PresC": {
+    "1s": "borde",
+    "2s": "bordes",
+    "3s": "borde",
+    "1p": "bordemos",
+    "2p": "bordeis",
+    "3p": "bordem"
+  },
+  "PImpC": {
+    "1s": "bordasse",
+    "2s": "bordasses",
+    "3s": "bordasse",
+    "1p": "bordássemos",
+    "2p": "bordásseis",
+    "3p": "bordassem"
+  },
+  "FutSC": {
+    "1s": "bordar",
+    "2s": "bordares",
+    "3s": "bordar",
+    "1p": "bordarmos",
+    "2p": "bordardes",
+    "3p": "bordarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "borda",
+    "3s": "borde",
+    "1p": "bordemos",
+    "2p": "bordai",
+    "3p": "bordem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bordes",
+    "3s": "não borde",
+    "1p": "não bordemos",
+    "2p": "não bordeis",
+    "3p": "não bordem"
+  },
+  "Part-ter": {
+    "": "bordado"
+  },
+  "Part-ser": {
+    "ms": "bordado",
+    "fs": "bordada",
+    "mp": "bordados",
+    "fp": "bordadas"
+  }
+}

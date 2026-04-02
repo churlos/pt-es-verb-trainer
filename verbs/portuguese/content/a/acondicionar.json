@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "acondicionar"
+  },
+  "InfP": {
+    "1s": "acondicionar",
+    "2s": "acondicionares",
+    "3s": "acondicionar",
+    "1p": "acondicionarmos",
+    "2p": "acondicionardes",
+    "3p": "acondicionarem"
+  },
+  "Ger": {
+    "": "acondicionando"
+  },
+  "PresI": {
+    "1s": "acondiciono",
+    "2s": "acondicionas",
+    "3s": "acondiciona",
+    "1p": "acondicionamos",
+    "2p": "acondicionais",
+    "3p": "acondicionam"
+  },
+  "PImpI": {
+    "1s": "acondicionava",
+    "2s": "acondicionavas",
+    "3s": "acondicionava",
+    "1p": "acondicionávamos",
+    "2p": "acondicionáveis",
+    "3p": "acondicionavam"
+  },
+  "PPSI": {
+    "1s": "acondicionei",
+    "2s": "acondicionaste",
+    "3s": "acondicionou",
+    "1p": "acondicionámos",
+    "2p": "acondicionastes",
+    "3p": "acondicionaram"
+  },
+  "PMQPSI": {
+    "1s": "acondicionara",
+    "2s": "acondicionaras",
+    "3s": "acondicionara",
+    "1p": "acondicionáramos",
+    "2p": "acondicionáreis",
+    "3p": "acondicionaram"
+  },
+  "FutSI": {
+    "1s": "acondicionarei",
+    "2s": "acondicionarás",
+    "3s": "acondicionará",
+    "1p": "acondicionaremos",
+    "2p": "acondicionareis",
+    "3p": "acondicionarão"
+  },
+  "CondS": {
+    "1s": "acondicionaria",
+    "2s": "acondicionarias",
+    "3s": "acondicionaria",
+    "1p": "acondicionaríamos",
+    "2p": "acondicionaríeis",
+    "3p": "acondicionariam"
+  },
+  "PresC": {
+    "1s": "acondicione",
+    "2s": "acondiciones",
+    "3s": "acondicione",
+    "1p": "acondicionemos",
+    "2p": "acondicioneis",
+    "3p": "acondicionem"
+  },
+  "PImpC": {
+    "1s": "acondicionasse",
+    "2s": "acondicionasses",
+    "3s": "acondicionasse",
+    "1p": "acondicionássemos",
+    "2p": "acondicionásseis",
+    "3p": "acondicionassem"
+  },
+  "FutSC": {
+    "1s": "acondicionar",
+    "2s": "acondicionares",
+    "3s": "acondicionar",
+    "1p": "acondicionarmos",
+    "2p": "acondicionardes",
+    "3p": "acondicionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acondiciona",
+    "3s": "acondicione",
+    "1p": "acondicionemos",
+    "2p": "acondicionai",
+    "3p": "acondicionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não acondiciones",
+    "3s": "não acondicione",
+    "1p": "não acondicionemos",
+    "2p": "não acondicioneis",
+    "3p": "não acondicionem"
+  },
+  "Part-ter": {
+    "": "acondicionado"
+  },
+  "Part-ser": {
+    "ms": "acondicionado",
+    "fs": "acondicionada",
+    "mp": "acondicionados",
+    "fp": "acondicionadas"
+  }
+}

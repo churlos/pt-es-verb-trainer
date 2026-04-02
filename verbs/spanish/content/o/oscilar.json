@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "oscilar"
+  },
+  "Ger": {
+    "": "oscilando"
+  },
+  "PresI": {
+    "1s": "oscilo",
+    "2s": "oscilas",
+    "3s": "oscila",
+    "1p": "oscilamos",
+    "2p": "osciláis",
+    "3p": "oscilan"
+  },
+  "PImpI": {
+    "1s": "oscilaba",
+    "2s": "oscilabas",
+    "3s": "oscilaba",
+    "1p": "oscilábamos",
+    "2p": "oscilabais",
+    "3p": "oscilaban"
+  },
+  "PPSI": {
+    "1s": "oscilé",
+    "2s": "oscilaste",
+    "3s": "osciló",
+    "1p": "oscilamos",
+    "2p": "oscilasteis",
+    "3p": "oscilaron"
+  },
+  "FutSI": {
+    "1s": "oscilaré",
+    "2s": "oscilarás",
+    "3s": "oscilará",
+    "1p": "oscilaremos",
+    "2p": "oscilaréis",
+    "3p": "oscilarán"
+  },
+  "CondS": {
+    "1s": "oscilaría",
+    "2s": "oscilarías",
+    "3s": "oscilaría",
+    "1p": "oscilaríamos",
+    "2p": "oscilaríais",
+    "3p": "oscilarían"
+  },
+  "PresC": {
+    "1s": "oscile",
+    "2s": "osciles",
+    "3s": "oscile",
+    "1p": "oscilemos",
+    "2p": "osciléis",
+    "3p": "oscilen"
+  },
+  "PMQPSI": {
+    "1s": "oscilara",
+    "2s": "oscilaras",
+    "3s": "oscilara",
+    "1p": "osciláramos",
+    "2p": "oscilarais",
+    "3p": "oscilaran"
+  },
+  "PImpC": {
+    "1s": "oscilase",
+    "2s": "oscilases",
+    "3s": "oscilase",
+    "1p": "oscilásemos",
+    "2p": "oscilaseis",
+    "3p": "oscilasen"
+  },
+  "FutSC": {
+    "1s": "oscilare",
+    "2s": "oscilares",
+    "3s": "oscilare",
+    "1p": "osciláremos",
+    "2p": "oscilareis",
+    "3p": "oscilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "oscila",
+    "3s": "oscile",
+    "1p": "oscilemos",
+    "2p": "oscilad",
+    "3p": "oscilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no osciles",
+    "3s": "no oscile",
+    "1p": "no oscilemos",
+    "2p": "no osciléis",
+    "3p": "no oscilen"
+  },
+  "Part-ter": {
+    "": "oscilado"
+  },
+  "Part-ser": {
+    "ms": "oscilado",
+    "fs": "oscilada",
+    "mp": "oscilados",
+    "fp": "osciladas"
+  }
+}

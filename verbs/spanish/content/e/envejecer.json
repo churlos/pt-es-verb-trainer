@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "envejecer"
+  },
+  "Ger": {
+    "": "envejeciendo"
+  },
+  "PresI": {
+    "1s": "envejezco",
+    "2s": "envejeces",
+    "3s": "envejece",
+    "1p": "envejecemos",
+    "2p": "envejecéis",
+    "3p": "envejecen"
+  },
+  "PImpI": {
+    "1s": "envejecía",
+    "2s": "envejecías",
+    "3s": "envejecía",
+    "1p": "envejecíamos",
+    "2p": "envejecíais",
+    "3p": "envejecían"
+  },
+  "PPSI": {
+    "1s": "envejecí",
+    "2s": "envejeciste",
+    "3s": "envejeció",
+    "1p": "envejecimos",
+    "2p": "envejecisteis",
+    "3p": "envejecieron"
+  },
+  "FutSI": {
+    "1s": "envejeceré",
+    "2s": "envejecerás",
+    "3s": "envejecerá",
+    "1p": "envejeceremos",
+    "2p": "envejeceréis",
+    "3p": "envejecerán"
+  },
+  "CondS": {
+    "1s": "envejecería",
+    "2s": "envejecerías",
+    "3s": "envejecería",
+    "1p": "envejeceríamos",
+    "2p": "envejeceríais",
+    "3p": "envejecerían"
+  },
+  "PresC": {
+    "1s": "envejezca",
+    "2s": "envejezcas",
+    "3s": "envejezca",
+    "1p": "envejezcamos",
+    "2p": "envejezcáis",
+    "3p": "envejezcan"
+  },
+  "PMQPSI": {
+    "1s": "envejeciera",
+    "2s": "envejecieras",
+    "3s": "envejeciera",
+    "1p": "envejeciéramos",
+    "2p": "envejecierais",
+    "3p": "envejecieran"
+  },
+  "PImpC": {
+    "1s": "envejeciese",
+    "2s": "envejecieses",
+    "3s": "envejeciese",
+    "1p": "envejeciésemos",
+    "2p": "envejecieseis",
+    "3p": "envejeciesen"
+  },
+  "FutSC": {
+    "1s": "envejeciere",
+    "2s": "envejecieres",
+    "3s": "envejeciere",
+    "1p": "envejeciéremos",
+    "2p": "envejeciereis",
+    "3p": "envejecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envejece",
+    "3s": "envejezca",
+    "1p": "envejezcamos",
+    "2p": "envejeced",
+    "3p": "envejezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envejezcas",
+    "3s": "no envejezca",
+    "1p": "no envejezcamos",
+    "2p": "no envejezcáis",
+    "3p": "no envejezcan"
+  },
+  "Part-ter": {
+    "": "envejecido"
+  },
+  "Part-ser": {
+    "ms": "envejecido",
+    "fs": "envejecida",
+    "mp": "envejecidos",
+    "fp": "envejecidas"
+  }
+}

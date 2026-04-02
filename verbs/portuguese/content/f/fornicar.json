@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fornicar"
+  },
+  "InfP": {
+    "1s": "fornicar",
+    "2s": "fornicares",
+    "3s": "fornicar",
+    "1p": "fornicarmos",
+    "2p": "fornicardes",
+    "3p": "fornicarem"
+  },
+  "Ger": {
+    "": "fornicando"
+  },
+  "PresI": {
+    "1s": "fornico",
+    "2s": "fornicas",
+    "3s": "fornica",
+    "1p": "fornicamos",
+    "2p": "fornicais",
+    "3p": "fornicam"
+  },
+  "PImpI": {
+    "1s": "fornicava",
+    "2s": "fornicavas",
+    "3s": "fornicava",
+    "1p": "fornicávamos",
+    "2p": "fornicáveis",
+    "3p": "fornicavam"
+  },
+  "PPSI": {
+    "1s": "forniquei",
+    "2s": "fornicaste",
+    "3s": "fornicou",
+    "1p": "fornicámos",
+    "2p": "fornicastes",
+    "3p": "fornicaram"
+  },
+  "PMQPSI": {
+    "1s": "fornicara",
+    "2s": "fornicaras",
+    "3s": "fornicara",
+    "1p": "fornicáramos",
+    "2p": "fornicáreis",
+    "3p": "fornicaram"
+  },
+  "FutSI": {
+    "1s": "fornicarei",
+    "2s": "fornicarás",
+    "3s": "fornicará",
+    "1p": "fornicaremos",
+    "2p": "fornicareis",
+    "3p": "fornicarão"
+  },
+  "CondS": {
+    "1s": "fornicaria",
+    "2s": "fornicarias",
+    "3s": "fornicaria",
+    "1p": "fornicaríamos",
+    "2p": "fornicaríeis",
+    "3p": "fornicariam"
+  },
+  "PresC": {
+    "1s": "fornique",
+    "2s": "forniques",
+    "3s": "fornique",
+    "1p": "forniquemos",
+    "2p": "forniqueis",
+    "3p": "forniquem"
+  },
+  "PImpC": {
+    "1s": "fornicasse",
+    "2s": "fornicasses",
+    "3s": "fornicasse",
+    "1p": "fornicássemos",
+    "2p": "fornicásseis",
+    "3p": "fornicassem"
+  },
+  "FutSC": {
+    "1s": "fornicar",
+    "2s": "fornicares",
+    "3s": "fornicar",
+    "1p": "fornicarmos",
+    "2p": "fornicardes",
+    "3p": "fornicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fornica",
+    "3s": "fornique",
+    "1p": "forniquemos",
+    "2p": "fornicai",
+    "3p": "forniquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não forniques",
+    "3s": "não fornique",
+    "1p": "não forniquemos",
+    "2p": "não forniqueis",
+    "3p": "não forniquem"
+  },
+  "Part-ter": {
+    "": "fornicado"
+  },
+  "Part-ser": {
+    "ms": "fornicado",
+    "fs": "fornicada",
+    "mp": "fornicados",
+    "fp": "fornicadas"
+  }
+}

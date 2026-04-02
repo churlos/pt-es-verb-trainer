@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "maquinar"
+  },
+  "InfP": {
+    "1s": "maquinar",
+    "2s": "maquinares",
+    "3s": "maquinar",
+    "1p": "maquinarmos",
+    "2p": "maquinardes",
+    "3p": "maquinarem"
+  },
+  "Ger": {
+    "": "maquinando"
+  },
+  "PresI": {
+    "1s": "maquino",
+    "2s": "maquinas",
+    "3s": "maquina",
+    "1p": "maquinamos",
+    "2p": "maquinais",
+    "3p": "maquinam"
+  },
+  "PImpI": {
+    "1s": "maquinava",
+    "2s": "maquinavas",
+    "3s": "maquinava",
+    "1p": "maquinávamos",
+    "2p": "maquináveis",
+    "3p": "maquinavam"
+  },
+  "PPSI": {
+    "1s": "maquinei",
+    "2s": "maquinaste",
+    "3s": "maquinou",
+    "1p": "maquinámos",
+    "2p": "maquinastes",
+    "3p": "maquinaram"
+  },
+  "PMQPSI": {
+    "1s": "maquinara",
+    "2s": "maquinaras",
+    "3s": "maquinara",
+    "1p": "maquináramos",
+    "2p": "maquináreis",
+    "3p": "maquinaram"
+  },
+  "FutSI": {
+    "1s": "maquinarei",
+    "2s": "maquinarás",
+    "3s": "maquinará",
+    "1p": "maquinaremos",
+    "2p": "maquinareis",
+    "3p": "maquinarão"
+  },
+  "CondS": {
+    "1s": "maquinaria",
+    "2s": "maquinarias",
+    "3s": "maquinaria",
+    "1p": "maquinaríamos",
+    "2p": "maquinaríeis",
+    "3p": "maquinariam"
+  },
+  "PresC": {
+    "1s": "maquine",
+    "2s": "maquines",
+    "3s": "maquine",
+    "1p": "maquinemos",
+    "2p": "maquineis",
+    "3p": "maquinem"
+  },
+  "PImpC": {
+    "1s": "maquinasse",
+    "2s": "maquinasses",
+    "3s": "maquinasse",
+    "1p": "maquinássemos",
+    "2p": "maquinásseis",
+    "3p": "maquinassem"
+  },
+  "FutSC": {
+    "1s": "maquinar",
+    "2s": "maquinares",
+    "3s": "maquinar",
+    "1p": "maquinarmos",
+    "2p": "maquinardes",
+    "3p": "maquinarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maquina",
+    "3s": "maquine",
+    "1p": "maquinemos",
+    "2p": "maquinai",
+    "3p": "maquinem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não maquines",
+    "3s": "não maquine",
+    "1p": "não maquinemos",
+    "2p": "não maquineis",
+    "3p": "não maquinem"
+  },
+  "Part-ter": {
+    "": "maquinado"
+  },
+  "Part-ser": {
+    "ms": "maquinado",
+    "fs": "maquinada",
+    "mp": "maquinados",
+    "fp": "maquinadas"
+  }
+}

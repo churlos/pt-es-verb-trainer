@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "simular"
+  },
+  "InfP": {
+    "1s": "simular",
+    "2s": "simulares",
+    "3s": "simular",
+    "1p": "simularmos",
+    "2p": "simulardes",
+    "3p": "simularem"
+  },
+  "Ger": {
+    "": "simulando"
+  },
+  "PresI": {
+    "1s": "simulo",
+    "2s": "simulas",
+    "3s": "simula",
+    "1p": "simulamos",
+    "2p": "simulais",
+    "3p": "simulam"
+  },
+  "PImpI": {
+    "1s": "simulava",
+    "2s": "simulavas",
+    "3s": "simulava",
+    "1p": "simulávamos",
+    "2p": "simuláveis",
+    "3p": "simulavam"
+  },
+  "PPSI": {
+    "1s": "simulei",
+    "2s": "simulaste",
+    "3s": "simulou",
+    "1p": "simulámos",
+    "2p": "simulastes",
+    "3p": "simularam"
+  },
+  "PMQPSI": {
+    "1s": "simulara",
+    "2s": "simularas",
+    "3s": "simulara",
+    "1p": "simuláramos",
+    "2p": "simuláreis",
+    "3p": "simularam"
+  },
+  "FutSI": {
+    "1s": "simularei",
+    "2s": "simularás",
+    "3s": "simulará",
+    "1p": "simularemos",
+    "2p": "simulareis",
+    "3p": "simularão"
+  },
+  "CondS": {
+    "1s": "simularia",
+    "2s": "simularias",
+    "3s": "simularia",
+    "1p": "simularíamos",
+    "2p": "simularíeis",
+    "3p": "simulariam"
+  },
+  "PresC": {
+    "1s": "simule",
+    "2s": "simules",
+    "3s": "simule",
+    "1p": "simulemos",
+    "2p": "simuleis",
+    "3p": "simulem"
+  },
+  "PImpC": {
+    "1s": "simulasse",
+    "2s": "simulasses",
+    "3s": "simulasse",
+    "1p": "simulássemos",
+    "2p": "simulásseis",
+    "3p": "simulassem"
+  },
+  "FutSC": {
+    "1s": "simular",
+    "2s": "simulares",
+    "3s": "simular",
+    "1p": "simularmos",
+    "2p": "simulardes",
+    "3p": "simularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "simula",
+    "3s": "simule",
+    "1p": "simulemos",
+    "2p": "simulai",
+    "3p": "simulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não simules",
+    "3s": "não simule",
+    "1p": "não simulemos",
+    "2p": "não simuleis",
+    "3p": "não simulem"
+  },
+  "Part-ter": {
+    "": "simulado"
+  },
+  "Part-ser": {
+    "ms": "simulado",
+    "fs": "simulada",
+    "mp": "simulados",
+    "fp": "simuladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cumprir"
+  },
+  "InfP": {
+    "1s": "cumprir",
+    "2s": "cumprires",
+    "3s": "cumprir",
+    "1p": "cumprirmos",
+    "2p": "cumprirdes",
+    "3p": "cumprirem"
+  },
+  "Ger": {
+    "": "cumprindo"
+  },
+  "PresI": {
+    "1s": "cumpro",
+    "2s": "cumpres",
+    "3s": "cumpre",
+    "1p": "cumprimos",
+    "2p": "cumpris",
+    "3p": "cumprem"
+  },
+  "PImpI": {
+    "1s": "cumpria",
+    "2s": "cumprias",
+    "3s": "cumpria",
+    "1p": "cumpríamos",
+    "2p": "cumpríeis",
+    "3p": "cumpriam"
+  },
+  "PPSI": {
+    "1s": "cumpri",
+    "2s": "cumpriste",
+    "3s": "cumpriu",
+    "1p": "cumprimos",
+    "2p": "cumpristes",
+    "3p": "cumpriram"
+  },
+  "PMQPSI": {
+    "1s": "cumprira",
+    "2s": "cumpriras",
+    "3s": "cumprira",
+    "1p": "cumpríramos",
+    "2p": "cumpríreis",
+    "3p": "cumpriram"
+  },
+  "FutSI": {
+    "1s": "cumprirei",
+    "2s": "cumprirás",
+    "3s": "cumprirá",
+    "1p": "cumpriremos",
+    "2p": "cumprireis",
+    "3p": "cumprirão"
+  },
+  "CondS": {
+    "1s": "cumpriria",
+    "2s": "cumpririas",
+    "3s": "cumpriria",
+    "1p": "cumpriríamos",
+    "2p": "cumpriríeis",
+    "3p": "cumpririam"
+  },
+  "PresC": {
+    "1s": "cumpra",
+    "2s": "cumpras",
+    "3s": "cumpra",
+    "1p": "cumpramos",
+    "2p": "cumprais",
+    "3p": "cumpram"
+  },
+  "PImpC": {
+    "1s": "cumprisse",
+    "2s": "cumprisses",
+    "3s": "cumprisse",
+    "1p": "cumpríssemos",
+    "2p": "cumprísseis",
+    "3p": "cumprissem"
+  },
+  "FutSC": {
+    "1s": "cumprir",
+    "2s": "cumprires",
+    "3s": "cumprir",
+    "1p": "cumprirmos",
+    "2p": "cumprirdes",
+    "3p": "cumprirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cumpre",
+    "3s": "cumpra",
+    "1p": "cumpramos",
+    "2p": "cumpri",
+    "3p": "cumpram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cumpras",
+    "3s": "não cumpra",
+    "1p": "não cumpramos",
+    "2p": "não cumprais",
+    "3p": "não cumpram"
+  },
+  "Part-ter": {
+    "": "cumprido"
+  },
+  "Part-ser": {
+    "ms": "cumprido",
+    "fs": "cumprida",
+    "mp": "cumpridos",
+    "fp": "cumpridas"
+  }
+}

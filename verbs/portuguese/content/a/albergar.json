@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "albergar"
+  },
+  "InfP": {
+    "1s": "albergar",
+    "2s": "albergares",
+    "3s": "albergar",
+    "1p": "albergarmos",
+    "2p": "albergardes",
+    "3p": "albergarem"
+  },
+  "Ger": {
+    "": "albergando"
+  },
+  "PresI": {
+    "1s": "albergo",
+    "2s": "albergas",
+    "3s": "alberga",
+    "1p": "albergamos",
+    "2p": "albergais",
+    "3p": "albergam"
+  },
+  "PImpI": {
+    "1s": "albergava",
+    "2s": "albergavas",
+    "3s": "albergava",
+    "1p": "albergávamos",
+    "2p": "albergáveis",
+    "3p": "albergavam"
+  },
+  "PPSI": {
+    "1s": "alberguei",
+    "2s": "albergaste",
+    "3s": "albergou",
+    "1p": "albergámos",
+    "2p": "albergastes",
+    "3p": "albergaram"
+  },
+  "PMQPSI": {
+    "1s": "albergara",
+    "2s": "albergaras",
+    "3s": "albergara",
+    "1p": "albergáramos",
+    "2p": "albergáreis",
+    "3p": "albergaram"
+  },
+  "FutSI": {
+    "1s": "albergarei",
+    "2s": "albergarás",
+    "3s": "albergará",
+    "1p": "albergaremos",
+    "2p": "albergareis",
+    "3p": "albergarão"
+  },
+  "CondS": {
+    "1s": "albergaria",
+    "2s": "albergarias",
+    "3s": "albergaria",
+    "1p": "albergaríamos",
+    "2p": "albergaríeis",
+    "3p": "albergariam"
+  },
+  "PresC": {
+    "1s": "albergue",
+    "2s": "albergues",
+    "3s": "albergue",
+    "1p": "alberguemos",
+    "2p": "albergueis",
+    "3p": "alberguem"
+  },
+  "PImpC": {
+    "1s": "albergasse",
+    "2s": "albergasses",
+    "3s": "albergasse",
+    "1p": "albergássemos",
+    "2p": "albergásseis",
+    "3p": "albergassem"
+  },
+  "FutSC": {
+    "1s": "albergar",
+    "2s": "albergares",
+    "3s": "albergar",
+    "1p": "albergarmos",
+    "2p": "albergardes",
+    "3p": "albergarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alberga",
+    "3s": "albergue",
+    "1p": "alberguemos",
+    "2p": "albergai",
+    "3p": "alberguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não albergues",
+    "3s": "não albergue",
+    "1p": "não alberguemos",
+    "2p": "não albergueis",
+    "3p": "não alberguem"
+  },
+  "Part-ter": {
+    "": "albergado"
+  },
+  "Part-ser": {
+    "ms": "albergado",
+    "fs": "albergada",
+    "mp": "albergados",
+    "fp": "albergadas"
+  }
+}

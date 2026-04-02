@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rotar"
+  },
+  "Ger": {
+    "": "rotando"
+  },
+  "PresI": {
+    "1s": "roto",
+    "2s": "rotas",
+    "3s": "rota",
+    "1p": "rotamos",
+    "2p": "rotáis",
+    "3p": "rotan"
+  },
+  "PImpI": {
+    "1s": "rotaba",
+    "2s": "rotabas",
+    "3s": "rotaba",
+    "1p": "rotábamos",
+    "2p": "rotabais",
+    "3p": "rotaban"
+  },
+  "PPSI": {
+    "1s": "roté",
+    "2s": "rotaste",
+    "3s": "rotó",
+    "1p": "rotamos",
+    "2p": "rotasteis",
+    "3p": "rotaron"
+  },
+  "FutSI": {
+    "1s": "rotaré",
+    "2s": "rotarás",
+    "3s": "rotará",
+    "1p": "rotaremos",
+    "2p": "rotaréis",
+    "3p": "rotarán"
+  },
+  "CondS": {
+    "1s": "rotaría",
+    "2s": "rotarías",
+    "3s": "rotaría",
+    "1p": "rotaríamos",
+    "2p": "rotaríais",
+    "3p": "rotarían"
+  },
+  "PresC": {
+    "1s": "rote",
+    "2s": "rotes",
+    "3s": "rote",
+    "1p": "rotemos",
+    "2p": "rotéis",
+    "3p": "roten"
+  },
+  "PMQPSI": {
+    "1s": "rotara",
+    "2s": "rotaras",
+    "3s": "rotara",
+    "1p": "rotáramos",
+    "2p": "rotarais",
+    "3p": "rotaran"
+  },
+  "PImpC": {
+    "1s": "rotase",
+    "2s": "rotases",
+    "3s": "rotase",
+    "1p": "rotásemos",
+    "2p": "rotaseis",
+    "3p": "rotasen"
+  },
+  "FutSC": {
+    "1s": "rotare",
+    "2s": "rotares",
+    "3s": "rotare",
+    "1p": "rotáremos",
+    "2p": "rotareis",
+    "3p": "rotaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rota",
+    "3s": "rote",
+    "1p": "rotemos",
+    "2p": "rotad",
+    "3p": "roten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rotes",
+    "3s": "no rote",
+    "1p": "no rotemos",
+    "2p": "no rotéis",
+    "3p": "no roten"
+  },
+  "Part-ter": {
+    "": "rotado"
+  },
+  "Part-ser": {
+    "ms": "rotado",
+    "fs": "rotada",
+    "mp": "rotados",
+    "fp": "rotadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "falecer"
+  },
+  "InfP": {
+    "1s": "falecer",
+    "2s": "faleceres",
+    "3s": "falecer",
+    "1p": "falecermos",
+    "2p": "falecerdes",
+    "3p": "falecerem"
+  },
+  "Ger": {
+    "": "falecendo"
+  },
+  "PresI": {
+    "1s": "faleço",
+    "2s": "faleces",
+    "3s": "falece",
+    "1p": "falecemos",
+    "2p": "faleceis",
+    "3p": "falecem"
+  },
+  "PImpI": {
+    "1s": "falecia",
+    "2s": "falecias",
+    "3s": "falecia",
+    "1p": "falecíamos",
+    "2p": "falecíeis",
+    "3p": "faleciam"
+  },
+  "PPSI": {
+    "1s": "faleci",
+    "2s": "faleceste",
+    "3s": "faleceu",
+    "1p": "falecemos",
+    "2p": "falecestes",
+    "3p": "faleceram"
+  },
+  "PMQPSI": {
+    "1s": "falecera",
+    "2s": "faleceras",
+    "3s": "falecera",
+    "1p": "falecêramos",
+    "2p": "falecêreis",
+    "3p": "faleceram"
+  },
+  "FutSI": {
+    "1s": "falecerei",
+    "2s": "falecerás",
+    "3s": "falecerá",
+    "1p": "faleceremos",
+    "2p": "falecereis",
+    "3p": "falecerão"
+  },
+  "CondS": {
+    "1s": "faleceria",
+    "2s": "falecerias",
+    "3s": "faleceria",
+    "1p": "faleceríamos",
+    "2p": "faleceríeis",
+    "3p": "faleceriam"
+  },
+  "PresC": {
+    "1s": "faleça",
+    "2s": "faleças",
+    "3s": "faleça",
+    "1p": "faleçamos",
+    "2p": "faleçais",
+    "3p": "faleçam"
+  },
+  "PImpC": {
+    "1s": "falecesse",
+    "2s": "falecesses",
+    "3s": "falecesse",
+    "1p": "falecêssemos",
+    "2p": "falecêsseis",
+    "3p": "falecessem"
+  },
+  "FutSC": {
+    "1s": "falecer",
+    "2s": "faleceres",
+    "3s": "falecer",
+    "1p": "falecermos",
+    "2p": "falecerdes",
+    "3p": "falecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "falece",
+    "3s": "faleça",
+    "1p": "faleçamos",
+    "2p": "falecei",
+    "3p": "faleçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não faleças",
+    "3s": "não faleça",
+    "1p": "não faleçamos",
+    "2p": "não faleçais",
+    "3p": "não faleçam"
+  },
+  "Part-ter": {
+    "": "falecido"
+  },
+  "Part-ser": {
+    "ms": "falecido",
+    "fs": "falecida",
+    "mp": "falecidos",
+    "fp": "falecidas"
+  }
+}

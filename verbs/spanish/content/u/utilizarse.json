@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "utilizarse"
+  },
+  "Ger": {
+    "": "utilizándose"
+  },
+  "PresI": {
+    "1s": "me utilizo",
+    "2s": "te utilizas",
+    "3s": "se utiliza",
+    "1p": "nos utilizamos",
+    "2p": "os utilizáis",
+    "3p": "se utilizan"
+  },
+  "PImpI": {
+    "1s": "me utilizaba",
+    "2s": "te utilizabas",
+    "3s": "se utilizaba",
+    "1p": "nos utilizábamos",
+    "2p": "os utilizabais",
+    "3p": "se utilizaban"
+  },
+  "PPSI": {
+    "1s": "me utilicé",
+    "2s": "te utilizaste",
+    "3s": "se utilizó",
+    "1p": "nos utilizamos",
+    "2p": "os utilizasteis",
+    "3p": "se utilizaron"
+  },
+  "FutSI": {
+    "1s": "me utilizaré",
+    "2s": "te utilizarás",
+    "3s": "se utilizará",
+    "1p": "nos utilizaremos",
+    "2p": "os utilizaréis",
+    "3p": "se utilizarán"
+  },
+  "CondS": {
+    "1s": "me utilizaría",
+    "2s": "te utilizarías",
+    "3s": "se utilizaría",
+    "1p": "nos utilizaríamos",
+    "2p": "os utilizaríais",
+    "3p": "se utilizarían"
+  },
+  "PresC": {
+    "1s": "me utilice",
+    "2s": "te utilices",
+    "3s": "se utilice",
+    "1p": "nos utilicemos",
+    "2p": "os utilicéis",
+    "3p": "se utilicen"
+  },
+  "PMQPSI": {
+    "1s": "me utilizara",
+    "2s": "te utilizaras",
+    "3s": "se utilizara",
+    "1p": "nos utilizáramos",
+    "2p": "os utilizarais",
+    "3p": "se utilizaran"
+  },
+  "PImpC": {
+    "1s": "me utilizase",
+    "2s": "te utilizases",
+    "3s": "se utilizase",
+    "1p": "nos utilizásemos",
+    "2p": "os utilizaseis",
+    "3p": "se utilizasen"
+  },
+  "FutSC": {
+    "1s": "me utilizare",
+    "2s": "te utilizares",
+    "3s": "se utilizare",
+    "1p": "nos utilizáremos",
+    "2p": "os utilizareis",
+    "3p": "se utilizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "utilízate",
+    "3s": "utilícese",
+    "1p": "utilicémonos",
+    "2p": "utilizaos",
+    "3p": "utilícense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te utilices",
+    "3s": "no se utilice",
+    "1p": "no nos utilicemos",
+    "2p": "no os utilicéis",
+    "3p": "no se utilicen"
+  },
+  "Part-ter": {
+    "": "utilizado"
+  },
+  "Part-ser": {
+    "ms": "utilizado",
+    "fs": "utilizada",
+    "mp": "utilizados",
+    "fp": "utilizadas"
+  }
+}

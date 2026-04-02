@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "receitar"
+  },
+  "InfP": {
+    "1s": "receitar",
+    "2s": "receitares",
+    "3s": "receitar",
+    "1p": "receitarmos",
+    "2p": "receitardes",
+    "3p": "receitarem"
+  },
+  "Ger": {
+    "": "receitando"
+  },
+  "PresI": {
+    "1s": "receito",
+    "2s": "receitas",
+    "3s": "receita",
+    "1p": "receitamos",
+    "2p": "receitais",
+    "3p": "receitam"
+  },
+  "PImpI": {
+    "1s": "receitava",
+    "2s": "receitavas",
+    "3s": "receitava",
+    "1p": "receitávamos",
+    "2p": "receitáveis",
+    "3p": "receitavam"
+  },
+  "PPSI": {
+    "1s": "receitei",
+    "2s": "receitaste",
+    "3s": "receitou",
+    "1p": "receitámos",
+    "2p": "receitastes",
+    "3p": "receitaram"
+  },
+  "PMQPSI": {
+    "1s": "receitara",
+    "2s": "receitaras",
+    "3s": "receitara",
+    "1p": "receitáramos",
+    "2p": "receitáreis",
+    "3p": "receitaram"
+  },
+  "FutSI": {
+    "1s": "receitarei",
+    "2s": "receitarás",
+    "3s": "receitará",
+    "1p": "receitaremos",
+    "2p": "receitareis",
+    "3p": "receitarão"
+  },
+  "CondS": {
+    "1s": "receitaria",
+    "2s": "receitarias",
+    "3s": "receitaria",
+    "1p": "receitaríamos",
+    "2p": "receitaríeis",
+    "3p": "receitariam"
+  },
+  "PresC": {
+    "1s": "receite",
+    "2s": "receites",
+    "3s": "receite",
+    "1p": "receitemos",
+    "2p": "receiteis",
+    "3p": "receitem"
+  },
+  "PImpC": {
+    "1s": "receitasse",
+    "2s": "receitasses",
+    "3s": "receitasse",
+    "1p": "receitássemos",
+    "2p": "receitásseis",
+    "3p": "receitassem"
+  },
+  "FutSC": {
+    "1s": "receitar",
+    "2s": "receitares",
+    "3s": "receitar",
+    "1p": "receitarmos",
+    "2p": "receitardes",
+    "3p": "receitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "receita",
+    "3s": "receite",
+    "1p": "receitemos",
+    "2p": "receitai",
+    "3p": "receitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não receites",
+    "3s": "não receite",
+    "1p": "não receitemos",
+    "2p": "não receiteis",
+    "3p": "não receitem"
+  },
+  "Part-ter": {
+    "": "receitado"
+  },
+  "Part-ser": {
+    "ms": "receitado",
+    "fs": "receitada",
+    "mp": "receitados",
+    "fp": "receitadas"
+  }
+}

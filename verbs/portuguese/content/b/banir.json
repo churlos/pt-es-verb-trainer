@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "banir"
+  },
+  "InfP": {
+    "1s": "banir",
+    "2s": "banires",
+    "3s": "banir",
+    "1p": "banirmos",
+    "2p": "banirdes",
+    "3p": "banirem"
+  },
+  "Ger": {
+    "": "banindo"
+  },
+  "PresI": {
+    "1s": "bano",
+    "2s": "banes",
+    "3s": "bane",
+    "1p": "banimos",
+    "2p": "banis",
+    "3p": "banem"
+  },
+  "PImpI": {
+    "1s": "bania",
+    "2s": "banias",
+    "3s": "bania",
+    "1p": "baníamos",
+    "2p": "baníeis",
+    "3p": "baniam"
+  },
+  "PPSI": {
+    "1s": "bani",
+    "2s": "baniste",
+    "3s": "baniu",
+    "1p": "banimos",
+    "2p": "banistes",
+    "3p": "baniram"
+  },
+  "PMQPSI": {
+    "1s": "banira",
+    "2s": "baniras",
+    "3s": "banira",
+    "1p": "baníramos",
+    "2p": "baníreis",
+    "3p": "baniram"
+  },
+  "FutSI": {
+    "1s": "banirei",
+    "2s": "banirás",
+    "3s": "banirá",
+    "1p": "baniremos",
+    "2p": "banireis",
+    "3p": "banirão"
+  },
+  "CondS": {
+    "1s": "baniria",
+    "2s": "banirias",
+    "3s": "baniria",
+    "1p": "baniríamos",
+    "2p": "baniríeis",
+    "3p": "baniriam"
+  },
+  "PresC": {
+    "1s": "bana",
+    "2s": "banas",
+    "3s": "bana",
+    "1p": "banamos",
+    "2p": "banais",
+    "3p": "banam"
+  },
+  "PImpC": {
+    "1s": "banisse",
+    "2s": "banisses",
+    "3s": "banisse",
+    "1p": "baníssemos",
+    "2p": "banísseis",
+    "3p": "banissem"
+  },
+  "FutSC": {
+    "1s": "banir",
+    "2s": "banires",
+    "3s": "banir",
+    "1p": "banirmos",
+    "2p": "banirdes",
+    "3p": "banirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "bane",
+    "3s": "bana",
+    "1p": "banamos",
+    "2p": "bani",
+    "3p": "banam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não banas",
+    "3s": "não bana",
+    "1p": "não banamos",
+    "2p": "não banais",
+    "3p": "não banam"
+  },
+  "Part-ter": {
+    "": "banido"
+  },
+  "Part-ser": {
+    "ms": "banido",
+    "fs": "banida",
+    "mp": "banidos",
+    "fp": "banidas"
+  }
+}

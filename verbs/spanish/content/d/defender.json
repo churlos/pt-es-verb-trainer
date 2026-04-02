@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "defender"
+  },
+  "Ger": {
+    "": "defendiendo"
+  },
+  "PresI": {
+    "1s": "defiendo",
+    "2s": "defiendes",
+    "3s": "defiende",
+    "1p": "defendemos",
+    "2p": "defendéis",
+    "3p": "defienden"
+  },
+  "PImpI": {
+    "1s": "defendía",
+    "2s": "defendías",
+    "3s": "defendía",
+    "1p": "defendíamos",
+    "2p": "defendíais",
+    "3p": "defendían"
+  },
+  "PPSI": {
+    "1s": "defendí",
+    "2s": "defendiste",
+    "3s": "defendió",
+    "1p": "defendimos",
+    "2p": "defendisteis",
+    "3p": "defendieron"
+  },
+  "FutSI": {
+    "1s": "defenderé",
+    "2s": "defenderás",
+    "3s": "defenderá",
+    "1p": "defenderemos",
+    "2p": "defenderéis",
+    "3p": "defenderán"
+  },
+  "CondS": {
+    "1s": "defendería",
+    "2s": "defenderías",
+    "3s": "defendería",
+    "1p": "defenderíamos",
+    "2p": "defenderíais",
+    "3p": "defenderían"
+  },
+  "PresC": {
+    "1s": "defienda",
+    "2s": "defiendas",
+    "3s": "defienda",
+    "1p": "defendamos",
+    "2p": "defendáis",
+    "3p": "defiendan"
+  },
+  "PMQPSI": {
+    "1s": "defendiera",
+    "2s": "defendieras",
+    "3s": "defendiera",
+    "1p": "defendiéramos",
+    "2p": "defendierais",
+    "3p": "defendieran"
+  },
+  "PImpC": {
+    "1s": "defendiese",
+    "2s": "defendieses",
+    "3s": "defendiese",
+    "1p": "defendiésemos",
+    "2p": "defendieseis",
+    "3p": "defendiesen"
+  },
+  "FutSC": {
+    "1s": "defendiere",
+    "2s": "defendieres",
+    "3s": "defendiere",
+    "1p": "defendiéremos",
+    "2p": "defendiereis",
+    "3p": "defendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "defiende",
+    "3s": "defienda",
+    "1p": "defendamos",
+    "2p": "defended",
+    "3p": "defiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no defiendas",
+    "3s": "no defienda",
+    "1p": "no defendamos",
+    "2p": "no defendáis",
+    "3p": "no defiendan"
+  },
+  "Part-ter": {
+    "": "defendido"
+  },
+  "Part-ser": {
+    "ms": "defendido",
+    "fs": "defendida",
+    "mp": "defendidos",
+    "fp": "defendidas"
+  }
+}

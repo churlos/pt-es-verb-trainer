@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vallar"
+  },
+  "Ger": {
+    "": "vallando"
+  },
+  "PresI": {
+    "1s": "vallo",
+    "2s": "vallas",
+    "3s": "valla",
+    "1p": "vallamos",
+    "2p": "valláis",
+    "3p": "vallan"
+  },
+  "PImpI": {
+    "1s": "vallaba",
+    "2s": "vallabas",
+    "3s": "vallaba",
+    "1p": "vallábamos",
+    "2p": "vallabais",
+    "3p": "vallaban"
+  },
+  "PPSI": {
+    "1s": "vallé",
+    "2s": "vallaste",
+    "3s": "valló",
+    "1p": "vallamos",
+    "2p": "vallasteis",
+    "3p": "vallaron"
+  },
+  "FutSI": {
+    "1s": "vallaré",
+    "2s": "vallarás",
+    "3s": "vallará",
+    "1p": "vallaremos",
+    "2p": "vallaréis",
+    "3p": "vallarán"
+  },
+  "CondS": {
+    "1s": "vallaría",
+    "2s": "vallarías",
+    "3s": "vallaría",
+    "1p": "vallaríamos",
+    "2p": "vallaríais",
+    "3p": "vallarían"
+  },
+  "PresC": {
+    "1s": "valle",
+    "2s": "valles",
+    "3s": "valle",
+    "1p": "vallemos",
+    "2p": "valléis",
+    "3p": "vallen"
+  },
+  "PMQPSI": {
+    "1s": "vallara",
+    "2s": "vallaras",
+    "3s": "vallara",
+    "1p": "valláramos",
+    "2p": "vallarais",
+    "3p": "vallaran"
+  },
+  "PImpC": {
+    "1s": "vallase",
+    "2s": "vallases",
+    "3s": "vallase",
+    "1p": "vallásemos",
+    "2p": "vallaseis",
+    "3p": "vallasen"
+  },
+  "FutSC": {
+    "1s": "vallare",
+    "2s": "vallares",
+    "3s": "vallare",
+    "1p": "valláremos",
+    "2p": "vallareis",
+    "3p": "vallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "valla",
+    "3s": "valle",
+    "1p": "vallemos",
+    "2p": "vallad",
+    "3p": "vallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no valles",
+    "3s": "no valle",
+    "1p": "no vallemos",
+    "2p": "no valléis",
+    "3p": "no vallen"
+  },
+  "Part-ter": {
+    "": "vallado"
+  },
+  "Part-ser": {
+    "ms": "vallado",
+    "fs": "vallada",
+    "mp": "vallados",
+    "fp": "valladas"
+  }
+}

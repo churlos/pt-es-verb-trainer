@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "sentirse"
+  },
+  "Ger": {
+    "": "sintiéndose"
+  },
+  "PresI": {
+    "1s": "me siento",
+    "2s": "te sientes",
+    "3s": "se siente",
+    "1p": "nos sentimos",
+    "2p": "os sentís",
+    "3p": "se sienten"
+  },
+  "PImpI": {
+    "1s": "me sentía",
+    "2s": "te sentías",
+    "3s": "se sentía",
+    "1p": "nos sentíamos",
+    "2p": "os sentíais",
+    "3p": "se sentían"
+  },
+  "PPSI": {
+    "1s": "me sentí",
+    "2s": "te sentiste",
+    "3s": "se sintió",
+    "1p": "nos sentimos",
+    "2p": "os sentisteis",
+    "3p": "se sintieron"
+  },
+  "FutSI": {
+    "1s": "me sentiré",
+    "2s": "te sentirás",
+    "3s": "se sentirá",
+    "1p": "nos sentiremos",
+    "2p": "os sentiréis",
+    "3p": "se sentirán"
+  },
+  "CondS": {
+    "1s": "me sentiría",
+    "2s": "te sentirías",
+    "3s": "se sentiría",
+    "1p": "nos sentiríamos",
+    "2p": "os sentiríais",
+    "3p": "se sentirían"
+  },
+  "PresC": {
+    "1s": "me sienta",
+    "2s": "te sientas",
+    "3s": "se sienta",
+    "1p": "nos sintamos",
+    "2p": "os sintáis",
+    "3p": "se sientan"
+  },
+  "PMQPSI": {
+    "1s": "me sintiera",
+    "2s": "te sintieras",
+    "3s": "se sintiera",
+    "1p": "nos sintiéramos",
+    "2p": "os sintierais",
+    "3p": "se sintieran"
+  },
+  "PImpC": {
+    "1s": "me sintiese",
+    "2s": "te sintieses",
+    "3s": "se sintiese",
+    "1p": "nos sintiésemos",
+    "2p": "os sintieseis",
+    "3p": "se sintiesen"
+  },
+  "FutSC": {
+    "1s": "me sintiere",
+    "2s": "te sintieres",
+    "3s": "se sintiere",
+    "1p": "nos sintiéremos",
+    "2p": "os sintiereis",
+    "3p": "se sintieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "siéntete",
+    "3s": "siéntase",
+    "1p": "sintámonos",
+    "2p": "sentíos",
+    "3p": "siéntanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te sientas",
+    "3s": "no se sienta",
+    "1p": "no nos sintamos",
+    "2p": "no os sintáis",
+    "3p": "no se sientan"
+  },
+  "Part-ter": {
+    "": "sentido"
+  },
+  "Part-ser": {
+    "ms": "sentido",
+    "fs": "sentida",
+    "mp": "sentidos",
+    "fp": "sentidas"
+  }
+}

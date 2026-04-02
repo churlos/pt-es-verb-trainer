@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aguçar"
+  },
+  "InfP": {
+    "1s": "aguçar",
+    "2s": "aguçares",
+    "3s": "aguçar",
+    "1p": "aguçarmos",
+    "2p": "aguçardes",
+    "3p": "aguçarem"
+  },
+  "Ger": {
+    "": "aguçando"
+  },
+  "PresI": {
+    "1s": "aguço",
+    "2s": "aguças",
+    "3s": "aguça",
+    "1p": "aguçamos",
+    "2p": "aguçais",
+    "3p": "aguçam"
+  },
+  "PImpI": {
+    "1s": "aguçava",
+    "2s": "aguçavas",
+    "3s": "aguçava",
+    "1p": "aguçávamos",
+    "2p": "aguçáveis",
+    "3p": "aguçavam"
+  },
+  "PPSI": {
+    "1s": "agucei",
+    "2s": "aguçaste",
+    "3s": "aguçou",
+    "1p": "aguçámos",
+    "2p": "aguçastes",
+    "3p": "aguçaram"
+  },
+  "PMQPSI": {
+    "1s": "aguçara",
+    "2s": "aguçaras",
+    "3s": "aguçara",
+    "1p": "aguçáramos",
+    "2p": "aguçáreis",
+    "3p": "aguçaram"
+  },
+  "FutSI": {
+    "1s": "aguçarei",
+    "2s": "aguçarás",
+    "3s": "aguçará",
+    "1p": "aguçaremos",
+    "2p": "aguçareis",
+    "3p": "aguçarão"
+  },
+  "CondS": {
+    "1s": "aguçaria",
+    "2s": "aguçarias",
+    "3s": "aguçaria",
+    "1p": "aguçaríamos",
+    "2p": "aguçaríeis",
+    "3p": "aguçariam"
+  },
+  "PresC": {
+    "1s": "aguce",
+    "2s": "aguces",
+    "3s": "aguce",
+    "1p": "agucemos",
+    "2p": "aguceis",
+    "3p": "agucem"
+  },
+  "PImpC": {
+    "1s": "aguçasse",
+    "2s": "aguçasses",
+    "3s": "aguçasse",
+    "1p": "aguçássemos",
+    "2p": "aguçásseis",
+    "3p": "aguçassem"
+  },
+  "FutSC": {
+    "1s": "aguçar",
+    "2s": "aguçares",
+    "3s": "aguçar",
+    "1p": "aguçarmos",
+    "2p": "aguçardes",
+    "3p": "aguçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aguça",
+    "3s": "aguce",
+    "1p": "agucemos",
+    "2p": "aguçai",
+    "3p": "agucem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não aguces",
+    "3s": "não aguce",
+    "1p": "não agucemos",
+    "2p": "não aguceis",
+    "3p": "não agucem"
+  },
+  "Part-ter": {
+    "": "aguçado"
+  },
+  "Part-ser": {
+    "ms": "aguçado",
+    "fs": "aguçada",
+    "mp": "aguçados",
+    "fp": "aguçadas"
+  }
+}

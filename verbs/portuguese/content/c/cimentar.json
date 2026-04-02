@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cimentar"
+  },
+  "InfP": {
+    "1s": "cimentar",
+    "2s": "cimentares",
+    "3s": "cimentar",
+    "1p": "cimentarmos",
+    "2p": "cimentardes",
+    "3p": "cimentarem"
+  },
+  "Ger": {
+    "": "cimentando"
+  },
+  "PresI": {
+    "1s": "cimento",
+    "2s": "cimentas",
+    "3s": "cimenta",
+    "1p": "cimentamos",
+    "2p": "cimentais",
+    "3p": "cimentam"
+  },
+  "PImpI": {
+    "1s": "cimentava",
+    "2s": "cimentavas",
+    "3s": "cimentava",
+    "1p": "cimentávamos",
+    "2p": "cimentáveis",
+    "3p": "cimentavam"
+  },
+  "PPSI": {
+    "1s": "cimentei",
+    "2s": "cimentaste",
+    "3s": "cimentou",
+    "1p": "cimentámos",
+    "2p": "cimentastes",
+    "3p": "cimentaram"
+  },
+  "PMQPSI": {
+    "1s": "cimentara",
+    "2s": "cimentaras",
+    "3s": "cimentara",
+    "1p": "cimentáramos",
+    "2p": "cimentáreis",
+    "3p": "cimentaram"
+  },
+  "FutSI": {
+    "1s": "cimentarei",
+    "2s": "cimentarás",
+    "3s": "cimentará",
+    "1p": "cimentaremos",
+    "2p": "cimentareis",
+    "3p": "cimentarão"
+  },
+  "CondS": {
+    "1s": "cimentaria",
+    "2s": "cimentarias",
+    "3s": "cimentaria",
+    "1p": "cimentaríamos",
+    "2p": "cimentaríeis",
+    "3p": "cimentariam"
+  },
+  "PresC": {
+    "1s": "cimente",
+    "2s": "cimentes",
+    "3s": "cimente",
+    "1p": "cimentemos",
+    "2p": "cimenteis",
+    "3p": "cimentem"
+  },
+  "PImpC": {
+    "1s": "cimentasse",
+    "2s": "cimentasses",
+    "3s": "cimentasse",
+    "1p": "cimentássemos",
+    "2p": "cimentásseis",
+    "3p": "cimentassem"
+  },
+  "FutSC": {
+    "1s": "cimentar",
+    "2s": "cimentares",
+    "3s": "cimentar",
+    "1p": "cimentarmos",
+    "2p": "cimentardes",
+    "3p": "cimentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cimenta",
+    "3s": "cimente",
+    "1p": "cimentemos",
+    "2p": "cimentai",
+    "3p": "cimentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cimentes",
+    "3s": "não cimente",
+    "1p": "não cimentemos",
+    "2p": "não cimenteis",
+    "3p": "não cimentem"
+  },
+  "Part-ter": {
+    "": "cimentado"
+  },
+  "Part-ser": {
+    "ms": "cimentado",
+    "fs": "cimentada",
+    "mp": "cimentados",
+    "fp": "cimentadas"
+  }
+}

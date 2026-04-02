@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "minger"
+  },
+  "Ger": {
+    "": "mingiendo"
+  },
+  "PresI": {
+    "1s": "minjo",
+    "2s": "minges",
+    "3s": "minge",
+    "1p": "mingemos",
+    "2p": "mingéis",
+    "3p": "mingen"
+  },
+  "PImpI": {
+    "1s": "mingía",
+    "2s": "mingías",
+    "3s": "mingía",
+    "1p": "mingíamos",
+    "2p": "mingíais",
+    "3p": "mingían"
+  },
+  "PPSI": {
+    "1s": "mingí",
+    "2s": "mingiste",
+    "3s": "mingió",
+    "1p": "mingimos",
+    "2p": "mingisteis",
+    "3p": "mingieron"
+  },
+  "FutSI": {
+    "1s": "mingeré",
+    "2s": "mingerás",
+    "3s": "mingerá",
+    "1p": "mingeremos",
+    "2p": "mingeréis",
+    "3p": "mingerán"
+  },
+  "CondS": {
+    "1s": "mingería",
+    "2s": "mingerías",
+    "3s": "mingería",
+    "1p": "mingeríamos",
+    "2p": "mingeríais",
+    "3p": "mingerían"
+  },
+  "PresC": {
+    "1s": "minja",
+    "2s": "minjas",
+    "3s": "minja",
+    "1p": "minjamos",
+    "2p": "minjáis",
+    "3p": "minjan"
+  },
+  "PMQPSI": {
+    "1s": "mingiera",
+    "2s": "mingieras",
+    "3s": "mingiera",
+    "1p": "mingiéramos",
+    "2p": "mingierais",
+    "3p": "mingieran"
+  },
+  "PImpC": {
+    "1s": "mingiese",
+    "2s": "mingieses",
+    "3s": "mingiese",
+    "1p": "mingiésemos",
+    "2p": "mingieseis",
+    "3p": "mingiesen"
+  },
+  "FutSC": {
+    "1s": "mingiere",
+    "2s": "mingieres",
+    "3s": "mingiere",
+    "1p": "mingiéremos",
+    "2p": "mingiereis",
+    "3p": "mingieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "minge",
+    "3s": "minja",
+    "1p": "minjamos",
+    "2p": "minged",
+    "3p": "minjan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no minjas",
+    "3s": "no minja",
+    "1p": "no minjamos",
+    "2p": "no minjáis",
+    "3p": "no minjan"
+  },
+  "Part-ter": {
+    "": "mingido"
+  },
+  "Part-ser": {
+    "ms": "mingido",
+    "fs": "mingida",
+    "mp": "mingidos",
+    "fp": "mingidas"
+  }
+}

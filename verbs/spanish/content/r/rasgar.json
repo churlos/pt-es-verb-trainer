@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rasgar"
+  },
+  "Ger": {
+    "": "rasgando"
+  },
+  "PresI": {
+    "1s": "rasgo",
+    "2s": "rasgas",
+    "3s": "rasga",
+    "1p": "rasgamos",
+    "2p": "rasgáis",
+    "3p": "rasgan"
+  },
+  "PImpI": {
+    "1s": "rasgaba",
+    "2s": "rasgabas",
+    "3s": "rasgaba",
+    "1p": "rasgábamos",
+    "2p": "rasgabais",
+    "3p": "rasgaban"
+  },
+  "PPSI": {
+    "1s": "rasgué",
+    "2s": "rasgaste",
+    "3s": "rasgó",
+    "1p": "rasgamos",
+    "2p": "rasgasteis",
+    "3p": "rasgaron"
+  },
+  "FutSI": {
+    "1s": "rasgaré",
+    "2s": "rasgarás",
+    "3s": "rasgará",
+    "1p": "rasgaremos",
+    "2p": "rasgaréis",
+    "3p": "rasgarán"
+  },
+  "CondS": {
+    "1s": "rasgaría",
+    "2s": "rasgarías",
+    "3s": "rasgaría",
+    "1p": "rasgaríamos",
+    "2p": "rasgaríais",
+    "3p": "rasgarían"
+  },
+  "PresC": {
+    "1s": "rasgue",
+    "2s": "rasgues",
+    "3s": "rasgue",
+    "1p": "rasguemos",
+    "2p": "rasguéis",
+    "3p": "rasguen"
+  },
+  "PMQPSI": {
+    "1s": "rasgara",
+    "2s": "rasgaras",
+    "3s": "rasgara",
+    "1p": "rasgáramos",
+    "2p": "rasgarais",
+    "3p": "rasgaran"
+  },
+  "PImpC": {
+    "1s": "rasgase",
+    "2s": "rasgases",
+    "3s": "rasgase",
+    "1p": "rasgásemos",
+    "2p": "rasgaseis",
+    "3p": "rasgasen"
+  },
+  "FutSC": {
+    "1s": "rasgare",
+    "2s": "rasgares",
+    "3s": "rasgare",
+    "1p": "rasgáremos",
+    "2p": "rasgareis",
+    "3p": "rasgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rasga",
+    "3s": "rasgue",
+    "1p": "rasguemos",
+    "2p": "rasgad",
+    "3p": "rasguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no rasgues",
+    "3s": "no rasgue",
+    "1p": "no rasguemos",
+    "2p": "no rasguéis",
+    "3p": "no rasguen"
+  },
+  "Part-ter": {
+    "": "rasgado"
+  },
+  "Part-ser": {
+    "ms": "rasgado",
+    "fs": "rasgada",
+    "mp": "rasgados",
+    "fp": "rasgadas"
+  }
+}

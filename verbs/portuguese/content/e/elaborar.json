@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "elaborar"
+  },
+  "InfP": {
+    "1s": "elaborar",
+    "2s": "elaborares",
+    "3s": "elaborar",
+    "1p": "elaborarmos",
+    "2p": "elaborardes",
+    "3p": "elaborarem"
+  },
+  "Ger": {
+    "": "elaborando"
+  },
+  "PresI": {
+    "1s": "elaboro",
+    "2s": "elaboras",
+    "3s": "elabora",
+    "1p": "elaboramos",
+    "2p": "elaborais",
+    "3p": "elaboram"
+  },
+  "PImpI": {
+    "1s": "elaborava",
+    "2s": "elaboravas",
+    "3s": "elaborava",
+    "1p": "elaborávamos",
+    "2p": "elaboráveis",
+    "3p": "elaboravam"
+  },
+  "PPSI": {
+    "1s": "elaborei",
+    "2s": "elaboraste",
+    "3s": "elaborou",
+    "1p": "elaborámos",
+    "2p": "elaborastes",
+    "3p": "elaboraram"
+  },
+  "PMQPSI": {
+    "1s": "elaborara",
+    "2s": "elaboraras",
+    "3s": "elaborara",
+    "1p": "elaboráramos",
+    "2p": "elaboráreis",
+    "3p": "elaboraram"
+  },
+  "FutSI": {
+    "1s": "elaborarei",
+    "2s": "elaborarás",
+    "3s": "elaborará",
+    "1p": "elaboraremos",
+    "2p": "elaborareis",
+    "3p": "elaborarão"
+  },
+  "CondS": {
+    "1s": "elaboraria",
+    "2s": "elaborarias",
+    "3s": "elaboraria",
+    "1p": "elaboraríamos",
+    "2p": "elaboraríeis",
+    "3p": "elaborariam"
+  },
+  "PresC": {
+    "1s": "elabore",
+    "2s": "elabores",
+    "3s": "elabore",
+    "1p": "elaboremos",
+    "2p": "elaboreis",
+    "3p": "elaborem"
+  },
+  "PImpC": {
+    "1s": "elaborasse",
+    "2s": "elaborasses",
+    "3s": "elaborasse",
+    "1p": "elaborássemos",
+    "2p": "elaborásseis",
+    "3p": "elaborassem"
+  },
+  "FutSC": {
+    "1s": "elaborar",
+    "2s": "elaborares",
+    "3s": "elaborar",
+    "1p": "elaborarmos",
+    "2p": "elaborardes",
+    "3p": "elaborarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "elabora",
+    "3s": "elabore",
+    "1p": "elaboremos",
+    "2p": "elaborai",
+    "3p": "elaborem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não elabores",
+    "3s": "não elabore",
+    "1p": "não elaboremos",
+    "2p": "não elaboreis",
+    "3p": "não elaborem"
+  },
+  "Part-ter": {
+    "": "elaborado"
+  },
+  "Part-ser": {
+    "ms": "elaborado",
+    "fs": "elaborada",
+    "mp": "elaborados",
+    "fp": "elaboradas"
+  }
+}

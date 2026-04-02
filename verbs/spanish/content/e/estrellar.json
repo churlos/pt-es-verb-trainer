@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estrellar"
+  },
+  "Ger": {
+    "": "estrellando"
+  },
+  "PresI": {
+    "1s": "estrello",
+    "2s": "estrellas",
+    "3s": "estrella",
+    "1p": "estrellamos",
+    "2p": "estrelláis",
+    "3p": "estrellan"
+  },
+  "PImpI": {
+    "1s": "estrellaba",
+    "2s": "estrellabas",
+    "3s": "estrellaba",
+    "1p": "estrellábamos",
+    "2p": "estrellabais",
+    "3p": "estrellaban"
+  },
+  "PPSI": {
+    "1s": "estrellé",
+    "2s": "estrellaste",
+    "3s": "estrelló",
+    "1p": "estrellamos",
+    "2p": "estrellasteis",
+    "3p": "estrellaron"
+  },
+  "FutSI": {
+    "1s": "estrellaré",
+    "2s": "estrellarás",
+    "3s": "estrellará",
+    "1p": "estrellaremos",
+    "2p": "estrellaréis",
+    "3p": "estrellarán"
+  },
+  "CondS": {
+    "1s": "estrellaría",
+    "2s": "estrellarías",
+    "3s": "estrellaría",
+    "1p": "estrellaríamos",
+    "2p": "estrellaríais",
+    "3p": "estrellarían"
+  },
+  "PresC": {
+    "1s": "estrelle",
+    "2s": "estrelles",
+    "3s": "estrelle",
+    "1p": "estrellemos",
+    "2p": "estrelléis",
+    "3p": "estrellen"
+  },
+  "PMQPSI": {
+    "1s": "estrellara",
+    "2s": "estrellaras",
+    "3s": "estrellara",
+    "1p": "estrelláramos",
+    "2p": "estrellarais",
+    "3p": "estrellaran"
+  },
+  "PImpC": {
+    "1s": "estrellase",
+    "2s": "estrellases",
+    "3s": "estrellase",
+    "1p": "estrellásemos",
+    "2p": "estrellaseis",
+    "3p": "estrellasen"
+  },
+  "FutSC": {
+    "1s": "estrellare",
+    "2s": "estrellares",
+    "3s": "estrellare",
+    "1p": "estrelláremos",
+    "2p": "estrellareis",
+    "3p": "estrellaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estrella",
+    "3s": "estrelle",
+    "1p": "estrellemos",
+    "2p": "estrellad",
+    "3p": "estrellen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estrelles",
+    "3s": "no estrelle",
+    "1p": "no estrellemos",
+    "2p": "no estrelléis",
+    "3p": "no estrellen"
+  },
+  "Part-ter": {
+    "": "estrellado"
+  },
+  "Part-ser": {
+    "ms": "estrellado",
+    "fs": "estrellada",
+    "mp": "estrellados",
+    "fp": "estrelladas"
+  }
+}

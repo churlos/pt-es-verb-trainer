@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "clasificarse"
+  },
+  "Ger": {
+    "": "clasificándose"
+  },
+  "PresI": {
+    "1s": "me clasifico",
+    "2s": "te clasificas",
+    "3s": "se clasifica",
+    "1p": "nos clasificamos",
+    "2p": "os clasificáis",
+    "3p": "se clasifican"
+  },
+  "PImpI": {
+    "1s": "me clasificaba",
+    "2s": "te clasificabas",
+    "3s": "se clasificaba",
+    "1p": "nos clasificábamos",
+    "2p": "os clasificabais",
+    "3p": "se clasificaban"
+  },
+  "PPSI": {
+    "1s": "me clasifiqué",
+    "2s": "te clasificaste",
+    "3s": "se clasificó",
+    "1p": "nos clasificamos",
+    "2p": "os clasificasteis",
+    "3p": "se clasificaron"
+  },
+  "FutSI": {
+    "1s": "me clasificaré",
+    "2s": "te clasificarás",
+    "3s": "se clasificará",
+    "1p": "nos clasificaremos",
+    "2p": "os clasificaréis",
+    "3p": "se clasificarán"
+  },
+  "CondS": {
+    "1s": "me clasificaría",
+    "2s": "te clasificarías",
+    "3s": "se clasificaría",
+    "1p": "nos clasificaríamos",
+    "2p": "os clasificaríais",
+    "3p": "se clasificarían"
+  },
+  "PresC": {
+    "1s": "me clasifique",
+    "2s": "te clasifiques",
+    "3s": "se clasifique",
+    "1p": "nos clasifiquemos",
+    "2p": "os clasifiquéis",
+    "3p": "se clasifiquen"
+  },
+  "PMQPSI": {
+    "1s": "me clasificara",
+    "2s": "te clasificaras",
+    "3s": "se clasificara",
+    "1p": "nos clasificáramos",
+    "2p": "os clasificarais",
+    "3p": "se clasificaran"
+  },
+  "PImpC": {
+    "1s": "me clasificase",
+    "2s": "te clasificases",
+    "3s": "se clasificase",
+    "1p": "nos clasificásemos",
+    "2p": "os clasificaseis",
+    "3p": "se clasificasen"
+  },
+  "FutSC": {
+    "1s": "me clasificare",
+    "2s": "te clasificares",
+    "3s": "se clasificare",
+    "1p": "nos clasificáremos",
+    "2p": "os clasificareis",
+    "3p": "se clasificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clasifícate",
+    "3s": "clasifíquese",
+    "1p": "clasifiquémonos",
+    "2p": "clasificaos",
+    "3p": "clasifíquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te clasifiques",
+    "3s": "no se clasifique",
+    "1p": "no nos clasifiquemos",
+    "2p": "no os clasifiquéis",
+    "3p": "no se clasifiquen"
+  },
+  "Part-ter": {
+    "": "clasificado"
+  },
+  "Part-ser": {
+    "ms": "clasificado",
+    "fs": "clasificada",
+    "mp": "clasificados",
+    "fp": "clasificadas"
+  }
+}

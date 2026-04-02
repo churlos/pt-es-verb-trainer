@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "seguir"
+  },
+  "Ger": {
+    "": "siguiendo"
+  },
+  "PresI": {
+    "1s": "sigo",
+    "2s": "sigues",
+    "3s": "sigue",
+    "1p": "seguimos",
+    "2p": "seguís",
+    "3p": "siguen"
+  },
+  "PImpI": {
+    "1s": "seguía",
+    "2s": "seguías",
+    "3s": "seguía",
+    "1p": "seguíamos",
+    "2p": "seguíais",
+    "3p": "seguían"
+  },
+  "PPSI": {
+    "1s": "seguí",
+    "2s": "seguiste",
+    "3s": "siguió",
+    "1p": "seguimos",
+    "2p": "seguisteis",
+    "3p": "siguieron"
+  },
+  "FutSI": {
+    "1s": "seguiré",
+    "2s": "seguirás",
+    "3s": "seguirá",
+    "1p": "seguiremos",
+    "2p": "seguiréis",
+    "3p": "seguirán"
+  },
+  "CondS": {
+    "1s": "seguiría",
+    "2s": "seguirías",
+    "3s": "seguiría",
+    "1p": "seguiríamos",
+    "2p": "seguiríais",
+    "3p": "seguirían"
+  },
+  "PresC": {
+    "1s": "siga",
+    "2s": "sigas",
+    "3s": "siga",
+    "1p": "sigamos",
+    "2p": "sigáis",
+    "3p": "sigan"
+  },
+  "PMQPSI": {
+    "1s": "siguiera",
+    "2s": "siguieras",
+    "3s": "siguiera",
+    "1p": "siguiéramos",
+    "2p": "siguierais",
+    "3p": "siguieran"
+  },
+  "PImpC": {
+    "1s": "siguiese",
+    "2s": "siguieses",
+    "3s": "siguiese",
+    "1p": "siguiésemos",
+    "2p": "siguieseis",
+    "3p": "siguiesen"
+  },
+  "FutSC": {
+    "1s": "siguiere",
+    "2s": "siguieres",
+    "3s": "siguiere",
+    "1p": "siguiéremos",
+    "2p": "siguiereis",
+    "3p": "siguieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sigue",
+    "3s": "siga",
+    "1p": "sigamos",
+    "2p": "seguid",
+    "3p": "sigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sigas",
+    "3s": "no siga",
+    "1p": "no sigamos",
+    "2p": "no sigáis",
+    "3p": "no sigan"
+  },
+  "Part-ter": {
+    "": "seguido"
+  },
+  "Part-ser": {
+    "ms": "seguido",
+    "fs": "seguida",
+    "mp": "seguidos",
+    "fp": "seguidas"
+  }
+}

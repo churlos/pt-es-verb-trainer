@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cimblar"
+  },
+  "Ger": {
+    "": "cimblando"
+  },
+  "PresI": {
+    "1s": "cimblo",
+    "2s": "cimblas",
+    "3s": "cimbla",
+    "1p": "cimblamos",
+    "2p": "cimbláis",
+    "3p": "cimblan"
+  },
+  "PImpI": {
+    "1s": "cimblaba",
+    "2s": "cimblabas",
+    "3s": "cimblaba",
+    "1p": "cimblábamos",
+    "2p": "cimblabais",
+    "3p": "cimblaban"
+  },
+  "PPSI": {
+    "1s": "cimblé",
+    "2s": "cimblaste",
+    "3s": "cimbló",
+    "1p": "cimblamos",
+    "2p": "cimblasteis",
+    "3p": "cimblaron"
+  },
+  "FutSI": {
+    "1s": "cimblaré",
+    "2s": "cimblarás",
+    "3s": "cimblará",
+    "1p": "cimblaremos",
+    "2p": "cimblaréis",
+    "3p": "cimblarán"
+  },
+  "CondS": {
+    "1s": "cimblaría",
+    "2s": "cimblarías",
+    "3s": "cimblaría",
+    "1p": "cimblaríamos",
+    "2p": "cimblaríais",
+    "3p": "cimblarían"
+  },
+  "PresC": {
+    "1s": "cimble",
+    "2s": "cimbles",
+    "3s": "cimble",
+    "1p": "cimblemos",
+    "2p": "cimbléis",
+    "3p": "cimblen"
+  },
+  "PMQPSI": {
+    "1s": "cimblara",
+    "2s": "cimblaras",
+    "3s": "cimblara",
+    "1p": "cimbláramos",
+    "2p": "cimblarais",
+    "3p": "cimblaran"
+  },
+  "PImpC": {
+    "1s": "cimblase",
+    "2s": "cimblases",
+    "3s": "cimblase",
+    "1p": "cimblásemos",
+    "2p": "cimblaseis",
+    "3p": "cimblasen"
+  },
+  "FutSC": {
+    "1s": "cimblare",
+    "2s": "cimblares",
+    "3s": "cimblare",
+    "1p": "cimbláremos",
+    "2p": "cimblareis",
+    "3p": "cimblaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cimbla",
+    "3s": "cimble",
+    "1p": "cimblemos",
+    "2p": "cimblad",
+    "3p": "cimblen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cimbles",
+    "3s": "no cimble",
+    "1p": "no cimblemos",
+    "2p": "no cimbléis",
+    "3p": "no cimblen"
+  },
+  "Part-ter": {
+    "": "cimblado"
+  },
+  "Part-ser": {
+    "ms": "cimblado",
+    "fs": "cimblada",
+    "mp": "cimblados",
+    "fp": "cimbladas"
+  }
+}

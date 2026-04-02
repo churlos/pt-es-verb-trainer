@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "contender"
+  },
+  "Ger": {
+    "": "contendiendo"
+  },
+  "PresI": {
+    "1s": "contiendo",
+    "2s": "contiendes",
+    "3s": "contiende",
+    "1p": "contendemos",
+    "2p": "contendéis",
+    "3p": "contienden"
+  },
+  "PImpI": {
+    "1s": "contendía",
+    "2s": "contendías",
+    "3s": "contendía",
+    "1p": "contendíamos",
+    "2p": "contendíais",
+    "3p": "contendían"
+  },
+  "PPSI": {
+    "1s": "contendí",
+    "2s": "contendiste",
+    "3s": "contendió",
+    "1p": "contendimos",
+    "2p": "contendisteis",
+    "3p": "contendieron"
+  },
+  "FutSI": {
+    "1s": "contenderé",
+    "2s": "contenderás",
+    "3s": "contenderá",
+    "1p": "contenderemos",
+    "2p": "contenderéis",
+    "3p": "contenderán"
+  },
+  "CondS": {
+    "1s": "contendería",
+    "2s": "contenderías",
+    "3s": "contendería",
+    "1p": "contenderíamos",
+    "2p": "contenderíais",
+    "3p": "contenderían"
+  },
+  "PresC": {
+    "1s": "contienda",
+    "2s": "contiendas",
+    "3s": "contienda",
+    "1p": "contendamos",
+    "2p": "contendáis",
+    "3p": "contiendan"
+  },
+  "PMQPSI": {
+    "1s": "contendiera",
+    "2s": "contendieras",
+    "3s": "contendiera",
+    "1p": "contendiéramos",
+    "2p": "contendierais",
+    "3p": "contendieran"
+  },
+  "PImpC": {
+    "1s": "contendiese",
+    "2s": "contendieses",
+    "3s": "contendiese",
+    "1p": "contendiésemos",
+    "2p": "contendieseis",
+    "3p": "contendiesen"
+  },
+  "FutSC": {
+    "1s": "contendiere",
+    "2s": "contendieres",
+    "3s": "contendiere",
+    "1p": "contendiéremos",
+    "2p": "contendiereis",
+    "3p": "contendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contiende",
+    "3s": "contienda",
+    "1p": "contendamos",
+    "2p": "contended",
+    "3p": "contiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no contiendas",
+    "3s": "no contienda",
+    "1p": "no contendamos",
+    "2p": "no contendáis",
+    "3p": "no contiendan"
+  },
+  "Part-ter": {
+    "": "contendido"
+  },
+  "Part-ser": {
+    "ms": "contendido",
+    "fs": "contendida",
+    "mp": "contendidos",
+    "fp": "contendidas"
+  }
+}

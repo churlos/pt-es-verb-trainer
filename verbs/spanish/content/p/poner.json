@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "poner"
+  },
+  "Ger": {
+    "": "poniendo"
+  },
+  "PresI": {
+    "1s": "pongo",
+    "2s": "pones",
+    "3s": "pone",
+    "1p": "ponemos",
+    "2p": "ponéis",
+    "3p": "ponen"
+  },
+  "PImpI": {
+    "1s": "ponía",
+    "2s": "ponías",
+    "3s": "ponía",
+    "1p": "poníamos",
+    "2p": "poníais",
+    "3p": "ponían"
+  },
+  "PPSI": {
+    "1s": "puse",
+    "2s": "pusiste",
+    "3s": "puso",
+    "1p": "pusimos",
+    "2p": "pusisteis",
+    "3p": "pusieron"
+  },
+  "FutSI": {
+    "1s": "pondré",
+    "2s": "pondrás",
+    "3s": "pondrá",
+    "1p": "pondremos",
+    "2p": "pondréis",
+    "3p": "pondrán"
+  },
+  "CondS": {
+    "1s": "pondría",
+    "2s": "pondrías",
+    "3s": "pondría",
+    "1p": "pondríamos",
+    "2p": "pondríais",
+    "3p": "pondrían"
+  },
+  "PresC": {
+    "1s": "ponga",
+    "2s": "pongas",
+    "3s": "ponga",
+    "1p": "pongamos",
+    "2p": "pongáis",
+    "3p": "pongan"
+  },
+  "PMQPSI": {
+    "1s": "pusiera",
+    "2s": "pusieras",
+    "3s": "pusiera",
+    "1p": "pusiéramos",
+    "2p": "pusierais",
+    "3p": "pusieran"
+  },
+  "PImpC": {
+    "1s": "pusiese",
+    "2s": "pusieses",
+    "3s": "pusiese",
+    "1p": "pusiésemos",
+    "2p": "pusieseis",
+    "3p": "pusiesen"
+  },
+  "FutSC": {
+    "1s": "pusiere",
+    "2s": "pusieres",
+    "3s": "pusiere",
+    "1p": "pusiéremos",
+    "2p": "pusiereis",
+    "3p": "pusieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pon",
+    "3s": "ponga",
+    "1p": "pongamos",
+    "2p": "poned",
+    "3p": "pongan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pongas",
+    "3s": "no ponga",
+    "1p": "no pongamos",
+    "2p": "no pongáis",
+    "3p": "no pongan"
+  },
+  "Part-ter": {
+    "": "puesto"
+  },
+  "Part-ser": {
+    "ms": "puesto",
+    "fs": "puesta",
+    "mp": "puestos",
+    "fp": "puestas"
+  }
+}

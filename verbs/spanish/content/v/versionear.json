@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "versionear"
+  },
+  "Ger": {
+    "": "versioneando"
+  },
+  "PresI": {
+    "1s": "versioneo",
+    "2s": "versioneas",
+    "3s": "versionea",
+    "1p": "versioneamos",
+    "2p": "versioneáis",
+    "3p": "versionean"
+  },
+  "PImpI": {
+    "1s": "versioneaba",
+    "2s": "versioneabas",
+    "3s": "versioneaba",
+    "1p": "versioneábamos",
+    "2p": "versioneabais",
+    "3p": "versioneaban"
+  },
+  "PPSI": {
+    "1s": "versioneé",
+    "2s": "versioneaste",
+    "3s": "versioneó",
+    "1p": "versioneamos",
+    "2p": "versioneasteis",
+    "3p": "versionearon"
+  },
+  "FutSI": {
+    "1s": "versionearé",
+    "2s": "versionearás",
+    "3s": "versioneará",
+    "1p": "versionearemos",
+    "2p": "versionearéis",
+    "3p": "versionearán"
+  },
+  "CondS": {
+    "1s": "versionearía",
+    "2s": "versionearías",
+    "3s": "versionearía",
+    "1p": "versionearíamos",
+    "2p": "versionearíais",
+    "3p": "versionearían"
+  },
+  "PresC": {
+    "1s": "versionee",
+    "2s": "versionees",
+    "3s": "versionee",
+    "1p": "versioneemos",
+    "2p": "versioneéis",
+    "3p": "versioneen"
+  },
+  "PMQPSI": {
+    "1s": "versioneara",
+    "2s": "versionearas",
+    "3s": "versioneara",
+    "1p": "versioneáramos",
+    "2p": "versionearais",
+    "3p": "versionearan"
+  },
+  "PImpC": {
+    "1s": "versionease",
+    "2s": "versioneases",
+    "3s": "versionease",
+    "1p": "versioneásemos",
+    "2p": "versioneaseis",
+    "3p": "versioneasen"
+  },
+  "FutSC": {
+    "1s": "versioneare",
+    "2s": "versioneares",
+    "3s": "versioneare",
+    "1p": "versioneáremos",
+    "2p": "versioneareis",
+    "3p": "versionearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "versionea",
+    "3s": "versionee",
+    "1p": "versioneemos",
+    "2p": "versionead",
+    "3p": "versioneen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no versionees",
+    "3s": "no versionee",
+    "1p": "no versioneemos",
+    "2p": "no versioneéis",
+    "3p": "no versioneen"
+  },
+  "Part-ter": {
+    "": "versioneado"
+  },
+  "Part-ser": {
+    "ms": "versioneado",
+    "fs": "versioneada",
+    "mp": "versioneados",
+    "fp": "versioneadas"
+  }
+}

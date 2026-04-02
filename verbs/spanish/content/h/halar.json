@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "halar"
+  },
+  "Ger": {
+    "": "halando"
+  },
+  "PresI": {
+    "1s": "halo",
+    "2s": "halas",
+    "3s": "hala",
+    "1p": "halamos",
+    "2p": "haláis",
+    "3p": "halan"
+  },
+  "PImpI": {
+    "1s": "halaba",
+    "2s": "halabas",
+    "3s": "halaba",
+    "1p": "halábamos",
+    "2p": "halabais",
+    "3p": "halaban"
+  },
+  "PPSI": {
+    "1s": "halé",
+    "2s": "halaste",
+    "3s": "haló",
+    "1p": "halamos",
+    "2p": "halasteis",
+    "3p": "halaron"
+  },
+  "FutSI": {
+    "1s": "halaré",
+    "2s": "halarás",
+    "3s": "halará",
+    "1p": "halaremos",
+    "2p": "halaréis",
+    "3p": "halarán"
+  },
+  "CondS": {
+    "1s": "halaría",
+    "2s": "halarías",
+    "3s": "halaría",
+    "1p": "halaríamos",
+    "2p": "halaríais",
+    "3p": "halarían"
+  },
+  "PresC": {
+    "1s": "hale",
+    "2s": "hales",
+    "3s": "hale",
+    "1p": "halemos",
+    "2p": "haléis",
+    "3p": "halen"
+  },
+  "PMQPSI": {
+    "1s": "halara",
+    "2s": "halaras",
+    "3s": "halara",
+    "1p": "haláramos",
+    "2p": "halarais",
+    "3p": "halaran"
+  },
+  "PImpC": {
+    "1s": "halase",
+    "2s": "halases",
+    "3s": "halase",
+    "1p": "halásemos",
+    "2p": "halaseis",
+    "3p": "halasen"
+  },
+  "FutSC": {
+    "1s": "halare",
+    "2s": "halares",
+    "3s": "halare",
+    "1p": "haláremos",
+    "2p": "halareis",
+    "3p": "halaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hala",
+    "3s": "hale",
+    "1p": "halemos",
+    "2p": "halad",
+    "3p": "halen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hales",
+    "3s": "no hale",
+    "1p": "no halemos",
+    "2p": "no haléis",
+    "3p": "no halen"
+  },
+  "Part-ter": {
+    "": "halado"
+  },
+  "Part-ser": {
+    "ms": "halado",
+    "fs": "halada",
+    "mp": "halados",
+    "fp": "haladas"
+  }
+}

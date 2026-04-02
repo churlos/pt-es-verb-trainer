@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "necesitar"
+  },
+  "Ger": {
+    "": "necesitando"
+  },
+  "PresI": {
+    "1s": "necesito",
+    "2s": "necesitas",
+    "3s": "necesita",
+    "1p": "necesitamos",
+    "2p": "necesitáis",
+    "3p": "necesitan"
+  },
+  "PImpI": {
+    "1s": "necesitaba",
+    "2s": "necesitabas",
+    "3s": "necesitaba",
+    "1p": "necesitábamos",
+    "2p": "necesitabais",
+    "3p": "necesitaban"
+  },
+  "PPSI": {
+    "1s": "necesité",
+    "2s": "necesitaste",
+    "3s": "necesitó",
+    "1p": "necesitamos",
+    "2p": "necesitasteis",
+    "3p": "necesitaron"
+  },
+  "FutSI": {
+    "1s": "necesitaré",
+    "2s": "necesitarás",
+    "3s": "necesitará",
+    "1p": "necesitaremos",
+    "2p": "necesitaréis",
+    "3p": "necesitarán"
+  },
+  "CondS": {
+    "1s": "necesitaría",
+    "2s": "necesitarías",
+    "3s": "necesitaría",
+    "1p": "necesitaríamos",
+    "2p": "necesitaríais",
+    "3p": "necesitarían"
+  },
+  "PresC": {
+    "1s": "necesite",
+    "2s": "necesites",
+    "3s": "necesite",
+    "1p": "necesitemos",
+    "2p": "necesitéis",
+    "3p": "necesiten"
+  },
+  "PMQPSI": {
+    "1s": "necesitara",
+    "2s": "necesitaras",
+    "3s": "necesitara",
+    "1p": "necesitáramos",
+    "2p": "necesitarais",
+    "3p": "necesitaran"
+  },
+  "PImpC": {
+    "1s": "necesitase",
+    "2s": "necesitases",
+    "3s": "necesitase",
+    "1p": "necesitásemos",
+    "2p": "necesitaseis",
+    "3p": "necesitasen"
+  },
+  "FutSC": {
+    "1s": "necesitare",
+    "2s": "necesitares",
+    "3s": "necesitare",
+    "1p": "necesitáremos",
+    "2p": "necesitareis",
+    "3p": "necesitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "necesita",
+    "3s": "necesite",
+    "1p": "necesitemos",
+    "2p": "necesitad",
+    "3p": "necesiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no necesites",
+    "3s": "no necesite",
+    "1p": "no necesitemos",
+    "2p": "no necesitéis",
+    "3p": "no necesiten"
+  },
+  "Part-ter": {
+    "": "necesitado"
+  },
+  "Part-ser": {
+    "ms": "necesitado",
+    "fs": "necesitada",
+    "mp": "necesitados",
+    "fp": "necesitadas"
+  }
+}

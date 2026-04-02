@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "maximizar"
+  },
+  "InfP": {
+    "1s": "maximizar",
+    "2s": "maximizares",
+    "3s": "maximizar",
+    "1p": "maximizarmos",
+    "2p": "maximizardes",
+    "3p": "maximizarem"
+  },
+  "Ger": {
+    "": "maximizando"
+  },
+  "PresI": {
+    "1s": "maximizo",
+    "2s": "maximizas",
+    "3s": "maximiza",
+    "1p": "maximizamos",
+    "2p": "maximizais",
+    "3p": "maximizam"
+  },
+  "PImpI": {
+    "1s": "maximizava",
+    "2s": "maximizavas",
+    "3s": "maximizava",
+    "1p": "maximizávamos",
+    "2p": "maximizáveis",
+    "3p": "maximizavam"
+  },
+  "PPSI": {
+    "1s": "maximizei",
+    "2s": "maximizaste",
+    "3s": "maximizou",
+    "1p": "maximizámos",
+    "2p": "maximizastes",
+    "3p": "maximizaram"
+  },
+  "PMQPSI": {
+    "1s": "maximizara",
+    "2s": "maximizaras",
+    "3s": "maximizara",
+    "1p": "maximizáramos",
+    "2p": "maximizáreis",
+    "3p": "maximizaram"
+  },
+  "FutSI": {
+    "1s": "maximizarei",
+    "2s": "maximizarás",
+    "3s": "maximizará",
+    "1p": "maximizaremos",
+    "2p": "maximizareis",
+    "3p": "maximizarão"
+  },
+  "CondS": {
+    "1s": "maximizaria",
+    "2s": "maximizarias",
+    "3s": "maximizaria",
+    "1p": "maximizaríamos",
+    "2p": "maximizaríeis",
+    "3p": "maximizariam"
+  },
+  "PresC": {
+    "1s": "maximize",
+    "2s": "maximizes",
+    "3s": "maximize",
+    "1p": "maximizemos",
+    "2p": "maximizeis",
+    "3p": "maximizem"
+  },
+  "PImpC": {
+    "1s": "maximizasse",
+    "2s": "maximizasses",
+    "3s": "maximizasse",
+    "1p": "maximizássemos",
+    "2p": "maximizásseis",
+    "3p": "maximizassem"
+  },
+  "FutSC": {
+    "1s": "maximizar",
+    "2s": "maximizares",
+    "3s": "maximizar",
+    "1p": "maximizarmos",
+    "2p": "maximizardes",
+    "3p": "maximizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maximiza",
+    "3s": "maximize",
+    "1p": "maximizemos",
+    "2p": "maximizai",
+    "3p": "maximizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não maximizes",
+    "3s": "não maximize",
+    "1p": "não maximizemos",
+    "2p": "não maximizeis",
+    "3p": "não maximizem"
+  },
+  "Part-ter": {
+    "": "maximizado"
+  },
+  "Part-ser": {
+    "ms": "maximizado",
+    "fs": "maximizada",
+    "mp": "maximizados",
+    "fp": "maximizadas"
+  }
+}

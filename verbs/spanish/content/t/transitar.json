@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transitar"
+  },
+  "Ger": {
+    "": "transitando"
+  },
+  "PresI": {
+    "1s": "transito",
+    "2s": "transitas",
+    "3s": "transita",
+    "1p": "transitamos",
+    "2p": "transitáis",
+    "3p": "transitan"
+  },
+  "PImpI": {
+    "1s": "transitaba",
+    "2s": "transitabas",
+    "3s": "transitaba",
+    "1p": "transitábamos",
+    "2p": "transitabais",
+    "3p": "transitaban"
+  },
+  "PPSI": {
+    "1s": "transité",
+    "2s": "transitaste",
+    "3s": "transitó",
+    "1p": "transitamos",
+    "2p": "transitasteis",
+    "3p": "transitaron"
+  },
+  "FutSI": {
+    "1s": "transitaré",
+    "2s": "transitarás",
+    "3s": "transitará",
+    "1p": "transitaremos",
+    "2p": "transitaréis",
+    "3p": "transitarán"
+  },
+  "CondS": {
+    "1s": "transitaría",
+    "2s": "transitarías",
+    "3s": "transitaría",
+    "1p": "transitaríamos",
+    "2p": "transitaríais",
+    "3p": "transitarían"
+  },
+  "PresC": {
+    "1s": "transite",
+    "2s": "transites",
+    "3s": "transite",
+    "1p": "transitemos",
+    "2p": "transitéis",
+    "3p": "transiten"
+  },
+  "PMQPSI": {
+    "1s": "transitara",
+    "2s": "transitaras",
+    "3s": "transitara",
+    "1p": "transitáramos",
+    "2p": "transitarais",
+    "3p": "transitaran"
+  },
+  "PImpC": {
+    "1s": "transitase",
+    "2s": "transitases",
+    "3s": "transitase",
+    "1p": "transitásemos",
+    "2p": "transitaseis",
+    "3p": "transitasen"
+  },
+  "FutSC": {
+    "1s": "transitare",
+    "2s": "transitares",
+    "3s": "transitare",
+    "1p": "transitáremos",
+    "2p": "transitareis",
+    "3p": "transitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transita",
+    "3s": "transite",
+    "1p": "transitemos",
+    "2p": "transitad",
+    "3p": "transiten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transites",
+    "3s": "no transite",
+    "1p": "no transitemos",
+    "2p": "no transitéis",
+    "3p": "no transiten"
+  },
+  "Part-ter": {
+    "": "transitado"
+  },
+  "Part-ser": {
+    "ms": "transitado",
+    "fs": "transitada",
+    "mp": "transitados",
+    "fp": "transitadas"
+  }
+}

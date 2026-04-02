@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "indemnizar"
+  },
+  "InfP": {
+    "1s": "indemnizar",
+    "2s": "indemnizares",
+    "3s": "indemnizar",
+    "1p": "indemnizarmos",
+    "2p": "indemnizardes",
+    "3p": "indemnizarem"
+  },
+  "Ger": {
+    "": "indemnizando"
+  },
+  "PresI": {
+    "1s": "indemnizo",
+    "2s": "indemnizas",
+    "3s": "indemniza",
+    "1p": "indemnizamos",
+    "2p": "indemnizais",
+    "3p": "indemnizam"
+  },
+  "PImpI": {
+    "1s": "indemnizava",
+    "2s": "indemnizavas",
+    "3s": "indemnizava",
+    "1p": "indemnizávamos",
+    "2p": "indemnizáveis",
+    "3p": "indemnizavam"
+  },
+  "PPSI": {
+    "1s": "indemnizei",
+    "2s": "indemnizaste",
+    "3s": "indemnizou",
+    "1p": "indemnizámos",
+    "2p": "indemnizastes",
+    "3p": "indemnizaram"
+  },
+  "PMQPSI": {
+    "1s": "indemnizara",
+    "2s": "indemnizaras",
+    "3s": "indemnizara",
+    "1p": "indemnizáramos",
+    "2p": "indemnizáreis",
+    "3p": "indemnizaram"
+  },
+  "FutSI": {
+    "1s": "indemnizarei",
+    "2s": "indemnizarás",
+    "3s": "indemnizará",
+    "1p": "indemnizaremos",
+    "2p": "indemnizareis",
+    "3p": "indemnizarão"
+  },
+  "CondS": {
+    "1s": "indemnizaria",
+    "2s": "indemnizarias",
+    "3s": "indemnizaria",
+    "1p": "indemnizaríamos",
+    "2p": "indemnizaríeis",
+    "3p": "indemnizariam"
+  },
+  "PresC": {
+    "1s": "indemnize",
+    "2s": "indemnizes",
+    "3s": "indemnize",
+    "1p": "indemnizemos",
+    "2p": "indemnizeis",
+    "3p": "indemnizem"
+  },
+  "PImpC": {
+    "1s": "indemnizasse",
+    "2s": "indemnizasses",
+    "3s": "indemnizasse",
+    "1p": "indemnizássemos",
+    "2p": "indemnizásseis",
+    "3p": "indemnizassem"
+  },
+  "FutSC": {
+    "1s": "indemnizar",
+    "2s": "indemnizares",
+    "3s": "indemnizar",
+    "1p": "indemnizarmos",
+    "2p": "indemnizardes",
+    "3p": "indemnizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indemniza",
+    "3s": "indemnize",
+    "1p": "indemnizemos",
+    "2p": "indemnizai",
+    "3p": "indemnizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não indemnizes",
+    "3s": "não indemnize",
+    "1p": "não indemnizemos",
+    "2p": "não indemnizeis",
+    "3p": "não indemnizem"
+  },
+  "Part-ter": {
+    "": "indemnizado"
+  },
+  "Part-ser": {
+    "ms": "indemnizado",
+    "fs": "indemnizada",
+    "mp": "indemnizados",
+    "fp": "indemnizadas"
+  }
+}

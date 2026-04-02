@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "casar"
+  },
+  "InfP": {
+    "1s": "casar",
+    "2s": "casares",
+    "3s": "casar",
+    "1p": "casarmos",
+    "2p": "casardes",
+    "3p": "casarem"
+  },
+  "Ger": {
+    "": "casando"
+  },
+  "PresI": {
+    "1s": "caso",
+    "2s": "casas",
+    "3s": "casa",
+    "1p": "casamos",
+    "2p": "casais",
+    "3p": "casam"
+  },
+  "PImpI": {
+    "1s": "casava",
+    "2s": "casavas",
+    "3s": "casava",
+    "1p": "casávamos",
+    "2p": "casáveis",
+    "3p": "casavam"
+  },
+  "PPSI": {
+    "1s": "casei",
+    "2s": "casaste",
+    "3s": "casou",
+    "1p": "casámos",
+    "2p": "casastes",
+    "3p": "casaram"
+  },
+  "PMQPSI": {
+    "1s": "casara",
+    "2s": "casaras",
+    "3s": "casara",
+    "1p": "casáramos",
+    "2p": "casáreis",
+    "3p": "casaram"
+  },
+  "FutSI": {
+    "1s": "casarei",
+    "2s": "casarás",
+    "3s": "casará",
+    "1p": "casaremos",
+    "2p": "casareis",
+    "3p": "casarão"
+  },
+  "CondS": {
+    "1s": "casaria",
+    "2s": "casarias",
+    "3s": "casaria",
+    "1p": "casaríamos",
+    "2p": "casaríeis",
+    "3p": "casariam"
+  },
+  "PresC": {
+    "1s": "case",
+    "2s": "cases",
+    "3s": "case",
+    "1p": "casemos",
+    "2p": "caseis",
+    "3p": "casem"
+  },
+  "PImpC": {
+    "1s": "casasse",
+    "2s": "casasses",
+    "3s": "casasse",
+    "1p": "casássemos",
+    "2p": "casásseis",
+    "3p": "casassem"
+  },
+  "FutSC": {
+    "1s": "casar",
+    "2s": "casares",
+    "3s": "casar",
+    "1p": "casarmos",
+    "2p": "casardes",
+    "3p": "casarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "casa",
+    "3s": "case",
+    "1p": "casemos",
+    "2p": "casai",
+    "3p": "casem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cases",
+    "3s": "não case",
+    "1p": "não casemos",
+    "2p": "não caseis",
+    "3p": "não casem"
+  },
+  "Part-ter": {
+    "": "casado"
+  },
+  "Part-ser": {
+    "ms": "casado",
+    "fs": "casada",
+    "mp": "casados",
+    "fp": "casadas"
+  }
+}

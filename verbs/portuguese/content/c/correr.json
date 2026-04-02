@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "correr"
+  },
+  "InfP": {
+    "1s": "correr",
+    "2s": "correres",
+    "3s": "correr",
+    "1p": "corrermos",
+    "2p": "correrdes",
+    "3p": "correrem"
+  },
+  "Ger": {
+    "": "correndo"
+  },
+  "PresI": {
+    "1s": "corro",
+    "2s": "corres",
+    "3s": "corre",
+    "1p": "corremos",
+    "2p": "correis",
+    "3p": "correm"
+  },
+  "PImpI": {
+    "1s": "corria",
+    "2s": "corrias",
+    "3s": "corria",
+    "1p": "corríamos",
+    "2p": "corríeis",
+    "3p": "corriam"
+  },
+  "PPSI": {
+    "1s": "corri",
+    "2s": "correste",
+    "3s": "correu",
+    "1p": "corremos",
+    "2p": "correstes",
+    "3p": "correram"
+  },
+  "PMQPSI": {
+    "1s": "correra",
+    "2s": "correras",
+    "3s": "correra",
+    "1p": "corrêramos",
+    "2p": "corrêreis",
+    "3p": "correram"
+  },
+  "FutSI": {
+    "1s": "correrei",
+    "2s": "correrás",
+    "3s": "correrá",
+    "1p": "correremos",
+    "2p": "correreis",
+    "3p": "correrão"
+  },
+  "CondS": {
+    "1s": "correria",
+    "2s": "correrias",
+    "3s": "correria",
+    "1p": "correríamos",
+    "2p": "correríeis",
+    "3p": "correriam"
+  },
+  "PresC": {
+    "1s": "corra",
+    "2s": "corras",
+    "3s": "corra",
+    "1p": "corramos",
+    "2p": "corrais",
+    "3p": "corram"
+  },
+  "PImpC": {
+    "1s": "corresse",
+    "2s": "corresses",
+    "3s": "corresse",
+    "1p": "corrêssemos",
+    "2p": "corrêsseis",
+    "3p": "corressem"
+  },
+  "FutSC": {
+    "1s": "correr",
+    "2s": "correres",
+    "3s": "correr",
+    "1p": "corrermos",
+    "2p": "correrdes",
+    "3p": "correrem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corre",
+    "3s": "corra",
+    "1p": "corramos",
+    "2p": "correi",
+    "3p": "corram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não corras",
+    "3s": "não corra",
+    "1p": "não corramos",
+    "2p": "não corrais",
+    "3p": "não corram"
+  },
+  "Part-ter": {
+    "": "corrido"
+  },
+  "Part-ser": {
+    "ms": "corrido",
+    "fs": "corrida",
+    "mp": "corridos",
+    "fp": "corridas"
+  }
+}

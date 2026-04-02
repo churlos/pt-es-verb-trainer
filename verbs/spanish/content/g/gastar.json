@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gastar"
+  },
+  "Ger": {
+    "": "gastando"
+  },
+  "PresI": {
+    "1s": "gasto",
+    "2s": "gastas",
+    "3s": "gasta",
+    "1p": "gastamos",
+    "2p": "gastáis",
+    "3p": "gastan"
+  },
+  "PImpI": {
+    "1s": "gastaba",
+    "2s": "gastabas",
+    "3s": "gastaba",
+    "1p": "gastábamos",
+    "2p": "gastabais",
+    "3p": "gastaban"
+  },
+  "PPSI": {
+    "1s": "gasté",
+    "2s": "gastaste",
+    "3s": "gastó",
+    "1p": "gastamos",
+    "2p": "gastasteis",
+    "3p": "gastaron"
+  },
+  "FutSI": {
+    "1s": "gastaré",
+    "2s": "gastarás",
+    "3s": "gastará",
+    "1p": "gastaremos",
+    "2p": "gastaréis",
+    "3p": "gastarán"
+  },
+  "CondS": {
+    "1s": "gastaría",
+    "2s": "gastarías",
+    "3s": "gastaría",
+    "1p": "gastaríamos",
+    "2p": "gastaríais",
+    "3p": "gastarían"
+  },
+  "PresC": {
+    "1s": "gaste",
+    "2s": "gastes",
+    "3s": "gaste",
+    "1p": "gastemos",
+    "2p": "gastéis",
+    "3p": "gasten"
+  },
+  "PMQPSI": {
+    "1s": "gastara",
+    "2s": "gastaras",
+    "3s": "gastara",
+    "1p": "gastáramos",
+    "2p": "gastarais",
+    "3p": "gastaran"
+  },
+  "PImpC": {
+    "1s": "gastase",
+    "2s": "gastases",
+    "3s": "gastase",
+    "1p": "gastásemos",
+    "2p": "gastaseis",
+    "3p": "gastasen"
+  },
+  "FutSC": {
+    "1s": "gastare",
+    "2s": "gastares",
+    "3s": "gastare",
+    "1p": "gastáremos",
+    "2p": "gastareis",
+    "3p": "gastaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gasta",
+    "3s": "gaste",
+    "1p": "gastemos",
+    "2p": "gastad",
+    "3p": "gasten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gastes",
+    "3s": "no gaste",
+    "1p": "no gastemos",
+    "2p": "no gastéis",
+    "3p": "no gasten"
+  },
+  "Part-ter": {
+    "": "gastado"
+  },
+  "Part-ser": {
+    "ms": "gastado",
+    "fs": "gastada",
+    "mp": "gastados",
+    "fp": "gastadas"
+  }
+}

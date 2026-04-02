@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mamar"
+  },
+  "Ger": {
+    "": "mamando"
+  },
+  "PresI": {
+    "1s": "mamo",
+    "2s": "mamas",
+    "3s": "mama",
+    "1p": "mamamos",
+    "2p": "mamáis",
+    "3p": "maman"
+  },
+  "PImpI": {
+    "1s": "mamaba",
+    "2s": "mamabas",
+    "3s": "mamaba",
+    "1p": "mamábamos",
+    "2p": "mamabais",
+    "3p": "mamaban"
+  },
+  "PPSI": {
+    "1s": "mamé",
+    "2s": "mamaste",
+    "3s": "mamó",
+    "1p": "mamamos",
+    "2p": "mamasteis",
+    "3p": "mamaron"
+  },
+  "FutSI": {
+    "1s": "mamaré",
+    "2s": "mamarás",
+    "3s": "mamará",
+    "1p": "mamaremos",
+    "2p": "mamaréis",
+    "3p": "mamarán"
+  },
+  "CondS": {
+    "1s": "mamaría",
+    "2s": "mamarías",
+    "3s": "mamaría",
+    "1p": "mamaríamos",
+    "2p": "mamaríais",
+    "3p": "mamarían"
+  },
+  "PresC": {
+    "1s": "mame",
+    "2s": "mames",
+    "3s": "mame",
+    "1p": "mamemos",
+    "2p": "maméis",
+    "3p": "mamen"
+  },
+  "PMQPSI": {
+    "1s": "mamara",
+    "2s": "mamaras",
+    "3s": "mamara",
+    "1p": "mamáramos",
+    "2p": "mamarais",
+    "3p": "mamaran"
+  },
+  "PImpC": {
+    "1s": "mamase",
+    "2s": "mamases",
+    "3s": "mamase",
+    "1p": "mamásemos",
+    "2p": "mamaseis",
+    "3p": "mamasen"
+  },
+  "FutSC": {
+    "1s": "mamare",
+    "2s": "mamares",
+    "3s": "mamare",
+    "1p": "mamáremos",
+    "2p": "mamareis",
+    "3p": "mamaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mama",
+    "3s": "mame",
+    "1p": "mamemos",
+    "2p": "mamad",
+    "3p": "mamen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mames",
+    "3s": "no mame",
+    "1p": "no mamemos",
+    "2p": "no maméis",
+    "3p": "no mamen"
+  },
+  "Part-ter": {
+    "": "mamado"
+  },
+  "Part-ser": {
+    "ms": "mamado",
+    "fs": "mamada",
+    "mp": "mamados",
+    "fp": "mamadas"
+  }
+}

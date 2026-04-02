@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "documentar"
+  },
+  "InfP": {
+    "1s": "documentar",
+    "2s": "documentares",
+    "3s": "documentar",
+    "1p": "documentarmos",
+    "2p": "documentardes",
+    "3p": "documentarem"
+  },
+  "Ger": {
+    "": "documentando"
+  },
+  "PresI": {
+    "1s": "documento",
+    "2s": "documentas",
+    "3s": "documenta",
+    "1p": "documentamos",
+    "2p": "documentais",
+    "3p": "documentam"
+  },
+  "PImpI": {
+    "1s": "documentava",
+    "2s": "documentavas",
+    "3s": "documentava",
+    "1p": "documentávamos",
+    "2p": "documentáveis",
+    "3p": "documentavam"
+  },
+  "PPSI": {
+    "1s": "documentei",
+    "2s": "documentaste",
+    "3s": "documentou",
+    "1p": "documentámos",
+    "2p": "documentastes",
+    "3p": "documentaram"
+  },
+  "PMQPSI": {
+    "1s": "documentara",
+    "2s": "documentaras",
+    "3s": "documentara",
+    "1p": "documentáramos",
+    "2p": "documentáreis",
+    "3p": "documentaram"
+  },
+  "FutSI": {
+    "1s": "documentarei",
+    "2s": "documentarás",
+    "3s": "documentará",
+    "1p": "documentaremos",
+    "2p": "documentareis",
+    "3p": "documentarão"
+  },
+  "CondS": {
+    "1s": "documentaria",
+    "2s": "documentarias",
+    "3s": "documentaria",
+    "1p": "documentaríamos",
+    "2p": "documentaríeis",
+    "3p": "documentariam"
+  },
+  "PresC": {
+    "1s": "documente",
+    "2s": "documentes",
+    "3s": "documente",
+    "1p": "documentemos",
+    "2p": "documenteis",
+    "3p": "documentem"
+  },
+  "PImpC": {
+    "1s": "documentasse",
+    "2s": "documentasses",
+    "3s": "documentasse",
+    "1p": "documentássemos",
+    "2p": "documentásseis",
+    "3p": "documentassem"
+  },
+  "FutSC": {
+    "1s": "documentar",
+    "2s": "documentares",
+    "3s": "documentar",
+    "1p": "documentarmos",
+    "2p": "documentardes",
+    "3p": "documentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "documenta",
+    "3s": "documente",
+    "1p": "documentemos",
+    "2p": "documentai",
+    "3p": "documentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não documentes",
+    "3s": "não documente",
+    "1p": "não documentemos",
+    "2p": "não documenteis",
+    "3p": "não documentem"
+  },
+  "Part-ter": {
+    "": "documentado"
+  },
+  "Part-ser": {
+    "ms": "documentado",
+    "fs": "documentada",
+    "mp": "documentados",
+    "fp": "documentadas"
+  }
+}

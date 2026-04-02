@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "apegar"
+  },
+  "InfP": {
+    "1s": "apegar",
+    "2s": "apegares",
+    "3s": "apegar",
+    "1p": "apegarmos",
+    "2p": "apegardes",
+    "3p": "apegarem"
+  },
+  "Ger": {
+    "": "apegando"
+  },
+  "PresI": {
+    "1s": "apego",
+    "2s": "apegas",
+    "3s": "apega",
+    "1p": "apegamos",
+    "2p": "apegais",
+    "3p": "apegam"
+  },
+  "PImpI": {
+    "1s": "apegava",
+    "2s": "apegavas",
+    "3s": "apegava",
+    "1p": "apegávamos",
+    "2p": "apegáveis",
+    "3p": "apegavam"
+  },
+  "PPSI": {
+    "1s": "apeguei",
+    "2s": "apegaste",
+    "3s": "apegou",
+    "1p": "apegámos",
+    "2p": "apegastes",
+    "3p": "apegaram"
+  },
+  "PMQPSI": {
+    "1s": "apegara",
+    "2s": "apegaras",
+    "3s": "apegara",
+    "1p": "apegáramos",
+    "2p": "apegáreis",
+    "3p": "apegaram"
+  },
+  "FutSI": {
+    "1s": "apegarei",
+    "2s": "apegarás",
+    "3s": "apegará",
+    "1p": "apegaremos",
+    "2p": "apegareis",
+    "3p": "apegarão"
+  },
+  "CondS": {
+    "1s": "apegaria",
+    "2s": "apegarias",
+    "3s": "apegaria",
+    "1p": "apegaríamos",
+    "2p": "apegaríeis",
+    "3p": "apegariam"
+  },
+  "PresC": {
+    "1s": "apegue",
+    "2s": "apegues",
+    "3s": "apegue",
+    "1p": "apeguemos",
+    "2p": "apegueis",
+    "3p": "apeguem"
+  },
+  "PImpC": {
+    "1s": "apegasse",
+    "2s": "apegasses",
+    "3s": "apegasse",
+    "1p": "apegássemos",
+    "2p": "apegásseis",
+    "3p": "apegassem"
+  },
+  "FutSC": {
+    "1s": "apegar",
+    "2s": "apegares",
+    "3s": "apegar",
+    "1p": "apegarmos",
+    "2p": "apegardes",
+    "3p": "apegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apega",
+    "3s": "apegue",
+    "1p": "apeguemos",
+    "2p": "apegai",
+    "3p": "apeguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apegues",
+    "3s": "não apegue",
+    "1p": "não apeguemos",
+    "2p": "não apegueis",
+    "3p": "não apeguem"
+  },
+  "Part-ter": {
+    "": "apegado"
+  },
+  "Part-ser": {
+    "ms": "apegado",
+    "fs": "apegada",
+    "mp": "apegados",
+    "fp": "apegadas"
+  }
+}

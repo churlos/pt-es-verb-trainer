@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "hipnotizar"
+  },
+  "InfP": {
+    "1s": "hipnotizar",
+    "2s": "hipnotizares",
+    "3s": "hipnotizar",
+    "1p": "hipnotizarmos",
+    "2p": "hipnotizardes",
+    "3p": "hipnotizarem"
+  },
+  "Ger": {
+    "": "hipnotizando"
+  },
+  "PresI": {
+    "1s": "hipnotizo",
+    "2s": "hipnotizas",
+    "3s": "hipnotiza",
+    "1p": "hipnotizamos",
+    "2p": "hipnotizais",
+    "3p": "hipnotizam"
+  },
+  "PImpI": {
+    "1s": "hipnotizava",
+    "2s": "hipnotizavas",
+    "3s": "hipnotizava",
+    "1p": "hipnotizávamos",
+    "2p": "hipnotizáveis",
+    "3p": "hipnotizavam"
+  },
+  "PPSI": {
+    "1s": "hipnotizei",
+    "2s": "hipnotizaste",
+    "3s": "hipnotizou",
+    "1p": "hipnotizámos",
+    "2p": "hipnotizastes",
+    "3p": "hipnotizaram"
+  },
+  "PMQPSI": {
+    "1s": "hipnotizara",
+    "2s": "hipnotizaras",
+    "3s": "hipnotizara",
+    "1p": "hipnotizáramos",
+    "2p": "hipnotizáreis",
+    "3p": "hipnotizaram"
+  },
+  "FutSI": {
+    "1s": "hipnotizarei",
+    "2s": "hipnotizarás",
+    "3s": "hipnotizará",
+    "1p": "hipnotizaremos",
+    "2p": "hipnotizareis",
+    "3p": "hipnotizarão"
+  },
+  "CondS": {
+    "1s": "hipnotizaria",
+    "2s": "hipnotizarias",
+    "3s": "hipnotizaria",
+    "1p": "hipnotizaríamos",
+    "2p": "hipnotizaríeis",
+    "3p": "hipnotizariam"
+  },
+  "PresC": {
+    "1s": "hipnotize",
+    "2s": "hipnotizes",
+    "3s": "hipnotize",
+    "1p": "hipnotizemos",
+    "2p": "hipnotizeis",
+    "3p": "hipnotizem"
+  },
+  "PImpC": {
+    "1s": "hipnotizasse",
+    "2s": "hipnotizasses",
+    "3s": "hipnotizasse",
+    "1p": "hipnotizássemos",
+    "2p": "hipnotizásseis",
+    "3p": "hipnotizassem"
+  },
+  "FutSC": {
+    "1s": "hipnotizar",
+    "2s": "hipnotizares",
+    "3s": "hipnotizar",
+    "1p": "hipnotizarmos",
+    "2p": "hipnotizardes",
+    "3p": "hipnotizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hipnotiza",
+    "3s": "hipnotize",
+    "1p": "hipnotizemos",
+    "2p": "hipnotizai",
+    "3p": "hipnotizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não hipnotizes",
+    "3s": "não hipnotize",
+    "1p": "não hipnotizemos",
+    "2p": "não hipnotizeis",
+    "3p": "não hipnotizem"
+  },
+  "Part-ter": {
+    "": "hipnotizado"
+  },
+  "Part-ser": {
+    "ms": "hipnotizado",
+    "fs": "hipnotizada",
+    "mp": "hipnotizados",
+    "fp": "hipnotizadas"
+  }
+}

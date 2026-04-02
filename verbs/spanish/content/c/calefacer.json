@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calefacer"
+  },
+  "Ger": {
+    "": "calefaciendo"
+  },
+  "PresI": {
+    "1s": "calefago",
+    "2s": "calefaces",
+    "3s": "caleface",
+    "1p": "calefacemos",
+    "2p": "calefacéis",
+    "3p": "calefacen"
+  },
+  "PImpI": {
+    "1s": "calefacía",
+    "2s": "calefacías",
+    "3s": "calefacía",
+    "1p": "calefacíamos",
+    "2p": "calefacíais",
+    "3p": "calefacían"
+  },
+  "PPSI": {
+    "1s": "calefice",
+    "2s": "caleficiste",
+    "3s": "calefizo",
+    "1p": "caleficimos",
+    "2p": "caleficisteis",
+    "3p": "caleficieron"
+  },
+  "FutSI": {
+    "1s": "calefaré",
+    "2s": "calefarás",
+    "3s": "calefará",
+    "1p": "calefaremos",
+    "2p": "calefaréis",
+    "3p": "calefarán"
+  },
+  "CondS": {
+    "1s": "calefaría",
+    "2s": "calefarías",
+    "3s": "calefaría",
+    "1p": "calefaríamos",
+    "2p": "calefaríais",
+    "3p": "calefarían"
+  },
+  "PresC": {
+    "1s": "calefaga",
+    "2s": "calefagas",
+    "3s": "calefaga",
+    "1p": "calefagamos",
+    "2p": "calefagáis",
+    "3p": "calefagan"
+  },
+  "PMQPSI": {
+    "1s": "caleficiera",
+    "2s": "caleficieras",
+    "3s": "caleficiera",
+    "1p": "caleficiéramos",
+    "2p": "caleficierais",
+    "3p": "caleficieran"
+  },
+  "PImpC": {
+    "1s": "caleficiese",
+    "2s": "caleficieses",
+    "3s": "caleficiese",
+    "1p": "caleficiésemos",
+    "2p": "caleficieseis",
+    "3p": "caleficiesen"
+  },
+  "FutSC": {
+    "1s": "caleficiere",
+    "2s": "caleficieres",
+    "3s": "caleficiere",
+    "1p": "caleficiéremos",
+    "2p": "caleficiereis",
+    "3p": "caleficieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "caleface",
+    "3s": "calefaga",
+    "1p": "calefagamos",
+    "2p": "calefaced",
+    "3p": "calefagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no calefagas",
+    "3s": "no calefaga",
+    "1p": "no calefagamos",
+    "2p": "no calefagáis",
+    "3p": "no calefagan"
+  },
+  "Part-ter": {
+    "": "calefecho"
+  },
+  "Part-ser": {
+    "ms": "calefecho",
+    "fs": "calefecha",
+    "mp": "calefechos",
+    "fp": "calefechas"
+  }
+}

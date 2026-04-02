@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atrancar"
+  },
+  "Ger": {
+    "": "atrancando"
+  },
+  "PresI": {
+    "1s": "atranco",
+    "2s": "atrancas",
+    "3s": "atranca",
+    "1p": "atrancamos",
+    "2p": "atrancáis",
+    "3p": "atrancan"
+  },
+  "PImpI": {
+    "1s": "atrancaba",
+    "2s": "atrancabas",
+    "3s": "atrancaba",
+    "1p": "atrancábamos",
+    "2p": "atrancabais",
+    "3p": "atrancaban"
+  },
+  "PPSI": {
+    "1s": "atranqué",
+    "2s": "atrancaste",
+    "3s": "atrancó",
+    "1p": "atrancamos",
+    "2p": "atrancasteis",
+    "3p": "atrancaron"
+  },
+  "FutSI": {
+    "1s": "atrancaré",
+    "2s": "atrancarás",
+    "3s": "atrancará",
+    "1p": "atrancaremos",
+    "2p": "atrancaréis",
+    "3p": "atrancarán"
+  },
+  "CondS": {
+    "1s": "atrancaría",
+    "2s": "atrancarías",
+    "3s": "atrancaría",
+    "1p": "atrancaríamos",
+    "2p": "atrancaríais",
+    "3p": "atrancarían"
+  },
+  "PresC": {
+    "1s": "atranque",
+    "2s": "atranques",
+    "3s": "atranque",
+    "1p": "atranquemos",
+    "2p": "atranquéis",
+    "3p": "atranquen"
+  },
+  "PMQPSI": {
+    "1s": "atrancara",
+    "2s": "atrancaras",
+    "3s": "atrancara",
+    "1p": "atrancáramos",
+    "2p": "atrancarais",
+    "3p": "atrancaran"
+  },
+  "PImpC": {
+    "1s": "atrancase",
+    "2s": "atrancases",
+    "3s": "atrancase",
+    "1p": "atrancásemos",
+    "2p": "atrancaseis",
+    "3p": "atrancasen"
+  },
+  "FutSC": {
+    "1s": "atrancare",
+    "2s": "atrancares",
+    "3s": "atrancare",
+    "1p": "atrancáremos",
+    "2p": "atrancareis",
+    "3p": "atrancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atranca",
+    "3s": "atranque",
+    "1p": "atranquemos",
+    "2p": "atrancad",
+    "3p": "atranquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atranques",
+    "3s": "no atranque",
+    "1p": "no atranquemos",
+    "2p": "no atranquéis",
+    "3p": "no atranquen"
+  },
+  "Part-ter": {
+    "": "atrancado"
+  },
+  "Part-ser": {
+    "ms": "atrancado",
+    "fs": "atrancada",
+    "mp": "atrancados",
+    "fp": "atrancadas"
+  }
+}

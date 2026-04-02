@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anualizar"
+  },
+  "InfP": {
+    "1s": "anualizar",
+    "2s": "anualizares",
+    "3s": "anualizar",
+    "1p": "anualizarmos",
+    "2p": "anualizardes",
+    "3p": "anualizarem"
+  },
+  "Ger": {
+    "": "anualizando"
+  },
+  "PresI": {
+    "1s": "anualizo",
+    "2s": "anualizas",
+    "3s": "anualiza",
+    "1p": "anualizamos",
+    "2p": "anualizais",
+    "3p": "anualizam"
+  },
+  "PImpI": {
+    "1s": "anualizava",
+    "2s": "anualizavas",
+    "3s": "anualizava",
+    "1p": "anualizávamos",
+    "2p": "anualizáveis",
+    "3p": "anualizavam"
+  },
+  "PPSI": {
+    "1s": "anualizei",
+    "2s": "anualizaste",
+    "3s": "anualizou",
+    "1p": "anualizámos",
+    "2p": "anualizastes",
+    "3p": "anualizaram"
+  },
+  "PMQPSI": {
+    "1s": "anualizara",
+    "2s": "anualizaras",
+    "3s": "anualizara",
+    "1p": "anualizáramos",
+    "2p": "anualizáreis",
+    "3p": "anualizaram"
+  },
+  "FutSI": {
+    "1s": "anualizarei",
+    "2s": "anualizarás",
+    "3s": "anualizará",
+    "1p": "anualizaremos",
+    "2p": "anualizareis",
+    "3p": "anualizarão"
+  },
+  "CondS": {
+    "1s": "anualizaria",
+    "2s": "anualizarias",
+    "3s": "anualizaria",
+    "1p": "anualizaríamos",
+    "2p": "anualizaríeis",
+    "3p": "anualizariam"
+  },
+  "PresC": {
+    "1s": "anualize",
+    "2s": "anualizes",
+    "3s": "anualize",
+    "1p": "anualizemos",
+    "2p": "anualizeis",
+    "3p": "anualizem"
+  },
+  "PImpC": {
+    "1s": "anualizasse",
+    "2s": "anualizasses",
+    "3s": "anualizasse",
+    "1p": "anualizássemos",
+    "2p": "anualizásseis",
+    "3p": "anualizassem"
+  },
+  "FutSC": {
+    "1s": "anualizar",
+    "2s": "anualizares",
+    "3s": "anualizar",
+    "1p": "anualizarmos",
+    "2p": "anualizardes",
+    "3p": "anualizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anualiza",
+    "3s": "anualize",
+    "1p": "anualizemos",
+    "2p": "anualizai",
+    "3p": "anualizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anualizes",
+    "3s": "não anualize",
+    "1p": "não anualizemos",
+    "2p": "não anualizeis",
+    "3p": "não anualizem"
+  },
+  "Part-ter": {
+    "": "anualizado"
+  },
+  "Part-ser": {
+    "ms": "anualizado",
+    "fs": "anualizada",
+    "mp": "anualizados",
+    "fp": "anualizadas"
+  }
+}

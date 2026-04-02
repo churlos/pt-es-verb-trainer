@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estacionar"
+  },
+  "Ger": {
+    "": "estacionando"
+  },
+  "PresI": {
+    "1s": "estaciono",
+    "2s": "estacionas",
+    "3s": "estaciona",
+    "1p": "estacionamos",
+    "2p": "estacionáis",
+    "3p": "estacionan"
+  },
+  "PImpI": {
+    "1s": "estacionaba",
+    "2s": "estacionabas",
+    "3s": "estacionaba",
+    "1p": "estacionábamos",
+    "2p": "estacionabais",
+    "3p": "estacionaban"
+  },
+  "PPSI": {
+    "1s": "estacioné",
+    "2s": "estacionaste",
+    "3s": "estacionó",
+    "1p": "estacionamos",
+    "2p": "estacionasteis",
+    "3p": "estacionaron"
+  },
+  "FutSI": {
+    "1s": "estacionaré",
+    "2s": "estacionarás",
+    "3s": "estacionará",
+    "1p": "estacionaremos",
+    "2p": "estacionaréis",
+    "3p": "estacionarán"
+  },
+  "CondS": {
+    "1s": "estacionaría",
+    "2s": "estacionarías",
+    "3s": "estacionaría",
+    "1p": "estacionaríamos",
+    "2p": "estacionaríais",
+    "3p": "estacionarían"
+  },
+  "PresC": {
+    "1s": "estacione",
+    "2s": "estaciones",
+    "3s": "estacione",
+    "1p": "estacionemos",
+    "2p": "estacionéis",
+    "3p": "estacionen"
+  },
+  "PMQPSI": {
+    "1s": "estacionara",
+    "2s": "estacionaras",
+    "3s": "estacionara",
+    "1p": "estacionáramos",
+    "2p": "estacionarais",
+    "3p": "estacionaran"
+  },
+  "PImpC": {
+    "1s": "estacionase",
+    "2s": "estacionases",
+    "3s": "estacionase",
+    "1p": "estacionásemos",
+    "2p": "estacionaseis",
+    "3p": "estacionasen"
+  },
+  "FutSC": {
+    "1s": "estacionare",
+    "2s": "estacionares",
+    "3s": "estacionare",
+    "1p": "estacionáremos",
+    "2p": "estacionareis",
+    "3p": "estacionaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estaciona",
+    "3s": "estacione",
+    "1p": "estacionemos",
+    "2p": "estacionad",
+    "3p": "estacionen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estaciones",
+    "3s": "no estacione",
+    "1p": "no estacionemos",
+    "2p": "no estacionéis",
+    "3p": "no estacionen"
+  },
+  "Part-ter": {
+    "": "estacionado"
+  },
+  "Part-ser": {
+    "ms": "estacionado",
+    "fs": "estacionada",
+    "mp": "estacionados",
+    "fp": "estacionadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estremecer"
+  },
+  "InfP": {
+    "1s": "estremecer",
+    "2s": "estremeceres",
+    "3s": "estremecer",
+    "1p": "estremecermos",
+    "2p": "estremecerdes",
+    "3p": "estremecerem"
+  },
+  "Ger": {
+    "": "estremecendo"
+  },
+  "PresI": {
+    "1s": "estremeço",
+    "2s": "estremeces",
+    "3s": "estremece",
+    "1p": "estremecemos",
+    "2p": "estremeceis",
+    "3p": "estremecem"
+  },
+  "PImpI": {
+    "1s": "estremecia",
+    "2s": "estremecias",
+    "3s": "estremecia",
+    "1p": "estremecíamos",
+    "2p": "estremecíeis",
+    "3p": "estremeciam"
+  },
+  "PPSI": {
+    "1s": "estremeci",
+    "2s": "estremeceste",
+    "3s": "estremeceu",
+    "1p": "estremecemos",
+    "2p": "estremecestes",
+    "3p": "estremeceram"
+  },
+  "PMQPSI": {
+    "1s": "estremecera",
+    "2s": "estremeceras",
+    "3s": "estremecera",
+    "1p": "estremecêramos",
+    "2p": "estremecêreis",
+    "3p": "estremeceram"
+  },
+  "FutSI": {
+    "1s": "estremecerei",
+    "2s": "estremecerás",
+    "3s": "estremecerá",
+    "1p": "estremeceremos",
+    "2p": "estremecereis",
+    "3p": "estremecerão"
+  },
+  "CondS": {
+    "1s": "estremeceria",
+    "2s": "estremecerias",
+    "3s": "estremeceria",
+    "1p": "estremeceríamos",
+    "2p": "estremeceríeis",
+    "3p": "estremeceriam"
+  },
+  "PresC": {
+    "1s": "estremeça",
+    "2s": "estremeças",
+    "3s": "estremeça",
+    "1p": "estremeçamos",
+    "2p": "estremeçais",
+    "3p": "estremeçam"
+  },
+  "PImpC": {
+    "1s": "estremecesse",
+    "2s": "estremecesses",
+    "3s": "estremecesse",
+    "1p": "estremecêssemos",
+    "2p": "estremecêsseis",
+    "3p": "estremecessem"
+  },
+  "FutSC": {
+    "1s": "estremecer",
+    "2s": "estremeceres",
+    "3s": "estremecer",
+    "1p": "estremecermos",
+    "2p": "estremecerdes",
+    "3p": "estremecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estremece",
+    "3s": "estremeça",
+    "1p": "estremeçamos",
+    "2p": "estremecei",
+    "3p": "estremeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estremeças",
+    "3s": "não estremeça",
+    "1p": "não estremeçamos",
+    "2p": "não estremeçais",
+    "3p": "não estremeçam"
+  },
+  "Part-ter": {
+    "": "estremecido"
+  },
+  "Part-ser": {
+    "ms": "estremecido",
+    "fs": "estremecida",
+    "mp": "estremecidos",
+    "fp": "estremecidas"
+  }
+}

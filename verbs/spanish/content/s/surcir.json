@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "surcir"
+  },
+  "Ger": {
+    "": "surciendo"
+  },
+  "PresI": {
+    "1s": "surzo",
+    "2s": "surces",
+    "3s": "surce",
+    "1p": "surcimos",
+    "2p": "surcís",
+    "3p": "surcen"
+  },
+  "PImpI": {
+    "1s": "surcía",
+    "2s": "surcías",
+    "3s": "surcía",
+    "1p": "surcíamos",
+    "2p": "surcíais",
+    "3p": "surcían"
+  },
+  "PPSI": {
+    "1s": "surcí",
+    "2s": "surciste",
+    "3s": "surció",
+    "1p": "surcimos",
+    "2p": "surcisteis",
+    "3p": "surcieron"
+  },
+  "FutSI": {
+    "1s": "surciré",
+    "2s": "surcirás",
+    "3s": "surcirá",
+    "1p": "surciremos",
+    "2p": "surciréis",
+    "3p": "surcirán"
+  },
+  "CondS": {
+    "1s": "surciría",
+    "2s": "surcirías",
+    "3s": "surciría",
+    "1p": "surciríamos",
+    "2p": "surciríais",
+    "3p": "surcirían"
+  },
+  "PresC": {
+    "1s": "surza",
+    "2s": "surzas",
+    "3s": "surza",
+    "1p": "surzamos",
+    "2p": "surzáis",
+    "3p": "surzan"
+  },
+  "PMQPSI": {
+    "1s": "surciera",
+    "2s": "surcieras",
+    "3s": "surciera",
+    "1p": "surciéramos",
+    "2p": "surcierais",
+    "3p": "surcieran"
+  },
+  "PImpC": {
+    "1s": "surciese",
+    "2s": "surcieses",
+    "3s": "surciese",
+    "1p": "surciésemos",
+    "2p": "surcieseis",
+    "3p": "surciesen"
+  },
+  "FutSC": {
+    "1s": "surciere",
+    "2s": "surcieres",
+    "3s": "surciere",
+    "1p": "surciéremos",
+    "2p": "surciereis",
+    "3p": "surcieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "surce",
+    "3s": "surza",
+    "1p": "surzamos",
+    "2p": "surcid",
+    "3p": "surzan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no surzas",
+    "3s": "no surza",
+    "1p": "no surzamos",
+    "2p": "no surzáis",
+    "3p": "no surzan"
+  },
+  "Part-ter": {
+    "": "surcido"
+  },
+  "Part-ser": {
+    "ms": "surcido",
+    "fs": "surcida",
+    "mp": "surcidos",
+    "fp": "surcidas"
+  }
+}

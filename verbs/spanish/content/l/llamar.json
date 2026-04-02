@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "llamar"
+  },
+  "Ger": {
+    "": "llamando"
+  },
+  "PresI": {
+    "1s": "llamo",
+    "2s": "llamas",
+    "3s": "llama",
+    "1p": "llamamos",
+    "2p": "llamáis",
+    "3p": "llaman"
+  },
+  "PImpI": {
+    "1s": "llamaba",
+    "2s": "llamabas",
+    "3s": "llamaba",
+    "1p": "llamábamos",
+    "2p": "llamabais",
+    "3p": "llamaban"
+  },
+  "PPSI": {
+    "1s": "llamé",
+    "2s": "llamaste",
+    "3s": "llamó",
+    "1p": "llamamos",
+    "2p": "llamasteis",
+    "3p": "llamaron"
+  },
+  "FutSI": {
+    "1s": "llamaré",
+    "2s": "llamarás",
+    "3s": "llamará",
+    "1p": "llamaremos",
+    "2p": "llamaréis",
+    "3p": "llamarán"
+  },
+  "CondS": {
+    "1s": "llamaría",
+    "2s": "llamarías",
+    "3s": "llamaría",
+    "1p": "llamaríamos",
+    "2p": "llamaríais",
+    "3p": "llamarían"
+  },
+  "PresC": {
+    "1s": "llame",
+    "2s": "llames",
+    "3s": "llame",
+    "1p": "llamemos",
+    "2p": "llaméis",
+    "3p": "llamen"
+  },
+  "PMQPSI": {
+    "1s": "llamara",
+    "2s": "llamaras",
+    "3s": "llamara",
+    "1p": "llamáramos",
+    "2p": "llamarais",
+    "3p": "llamaran"
+  },
+  "PImpC": {
+    "1s": "llamase",
+    "2s": "llamases",
+    "3s": "llamase",
+    "1p": "llamásemos",
+    "2p": "llamaseis",
+    "3p": "llamasen"
+  },
+  "FutSC": {
+    "1s": "llamare",
+    "2s": "llamares",
+    "3s": "llamare",
+    "1p": "llamáremos",
+    "2p": "llamareis",
+    "3p": "llamaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "llama",
+    "3s": "llame",
+    "1p": "llamemos",
+    "2p": "llamad",
+    "3p": "llamen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no llames",
+    "3s": "no llame",
+    "1p": "no llamemos",
+    "2p": "no llaméis",
+    "3p": "no llamen"
+  },
+  "Part-ter": {
+    "": "llamado"
+  },
+  "Part-ser": {
+    "ms": "llamado",
+    "fs": "llamada",
+    "mp": "llamados",
+    "fp": "llamadas"
+  }
+}

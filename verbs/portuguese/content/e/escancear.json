@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "escancear"
+  },
+  "InfP": {
+    "1s": "escancear",
+    "2s": "escanceares",
+    "3s": "escancear",
+    "1p": "escancearmos",
+    "2p": "escanceardes",
+    "3p": "escancearem"
+  },
+  "Ger": {
+    "": "escanceando"
+  },
+  "PresI": {
+    "1s": "escanceio",
+    "2s": "escanceias",
+    "3s": "escanceia",
+    "1p": "escanceamos",
+    "2p": "escanceais",
+    "3p": "escanceiam"
+  },
+  "PImpI": {
+    "1s": "escanceava",
+    "2s": "escanceavas",
+    "3s": "escanceava",
+    "1p": "escanceávamos",
+    "2p": "escanceáveis",
+    "3p": "escanceavam"
+  },
+  "PPSI": {
+    "1s": "escanceei",
+    "2s": "escanceaste",
+    "3s": "escanceou",
+    "1p": "escanceámos",
+    "2p": "escanceastes",
+    "3p": "escancearam"
+  },
+  "PMQPSI": {
+    "1s": "escanceara",
+    "2s": "escancearas",
+    "3s": "escanceara",
+    "1p": "escanceáramos",
+    "2p": "escanceáreis",
+    "3p": "escancearam"
+  },
+  "FutSI": {
+    "1s": "escancearei",
+    "2s": "escancearás",
+    "3s": "escanceará",
+    "1p": "escancearemos",
+    "2p": "escanceareis",
+    "3p": "escancearão"
+  },
+  "CondS": {
+    "1s": "escancearia",
+    "2s": "escancearias",
+    "3s": "escancearia",
+    "1p": "escancearíamos",
+    "2p": "escancearíeis",
+    "3p": "escanceariam"
+  },
+  "PresC": {
+    "1s": "escanceie",
+    "2s": "escanceies",
+    "3s": "escanceie",
+    "1p": "escanceemos",
+    "2p": "escanceeis",
+    "3p": "escanceiem"
+  },
+  "PImpC": {
+    "1s": "escanceasse",
+    "2s": "escanceasses",
+    "3s": "escanceasse",
+    "1p": "escanceássemos",
+    "2p": "escanceásseis",
+    "3p": "escanceassem"
+  },
+  "FutSC": {
+    "1s": "escancear",
+    "2s": "escanceares",
+    "3s": "escancear",
+    "1p": "escancearmos",
+    "2p": "escanceardes",
+    "3p": "escancearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escanceia",
+    "3s": "escanceie",
+    "1p": "escanceemos",
+    "2p": "escanceai",
+    "3p": "escanceiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não escanceies",
+    "3s": "não escanceie",
+    "1p": "não escanceemos",
+    "2p": "não escanceeis",
+    "3p": "não escanceiem"
+  },
+  "Part-ter": {
+    "": "escanceado"
+  },
+  "Part-ser": {
+    "ms": "escanceado",
+    "fs": "escanceada",
+    "mp": "escanceados",
+    "fp": "escanceadas"
+  }
+}

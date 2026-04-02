@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "refinanciar"
+  },
+  "Ger": {
+    "": "refinanciando"
+  },
+  "PresI": {
+    "1s": "refinancio",
+    "2s": "refinancias",
+    "3s": "refinancia",
+    "1p": "refinanciamos",
+    "2p": "refinanciáis",
+    "3p": "refinancian"
+  },
+  "PImpI": {
+    "1s": "refinanciaba",
+    "2s": "refinanciabas",
+    "3s": "refinanciaba",
+    "1p": "refinanciábamos",
+    "2p": "refinanciabais",
+    "3p": "refinanciaban"
+  },
+  "PPSI": {
+    "1s": "refinancié",
+    "2s": "refinanciaste",
+    "3s": "refinanció",
+    "1p": "refinanciamos",
+    "2p": "refinanciasteis",
+    "3p": "refinanciaron"
+  },
+  "FutSI": {
+    "1s": "refinanciaré",
+    "2s": "refinanciarás",
+    "3s": "refinanciará",
+    "1p": "refinanciaremos",
+    "2p": "refinanciaréis",
+    "3p": "refinanciarán"
+  },
+  "CondS": {
+    "1s": "refinanciaría",
+    "2s": "refinanciarías",
+    "3s": "refinanciaría",
+    "1p": "refinanciaríamos",
+    "2p": "refinanciaríais",
+    "3p": "refinanciarían"
+  },
+  "PresC": {
+    "1s": "refinancie",
+    "2s": "refinancies",
+    "3s": "refinancie",
+    "1p": "refinanciemos",
+    "2p": "refinanciéis",
+    "3p": "refinancien"
+  },
+  "PMQPSI": {
+    "1s": "refinanciara",
+    "2s": "refinanciaras",
+    "3s": "refinanciara",
+    "1p": "refinanciáramos",
+    "2p": "refinanciarais",
+    "3p": "refinanciaran"
+  },
+  "PImpC": {
+    "1s": "refinanciase",
+    "2s": "refinanciases",
+    "3s": "refinanciase",
+    "1p": "refinanciásemos",
+    "2p": "refinanciaseis",
+    "3p": "refinanciasen"
+  },
+  "FutSC": {
+    "1s": "refinanciare",
+    "2s": "refinanciares",
+    "3s": "refinanciare",
+    "1p": "refinanciáremos",
+    "2p": "refinanciareis",
+    "3p": "refinanciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "refinancia",
+    "3s": "refinancie",
+    "1p": "refinanciemos",
+    "2p": "refinanciad",
+    "3p": "refinancien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no refinancies",
+    "3s": "no refinancie",
+    "1p": "no refinanciemos",
+    "2p": "no refinanciéis",
+    "3p": "no refinancien"
+  },
+  "Part-ter": {
+    "": "refinanciado"
+  },
+  "Part-ser": {
+    "ms": "refinanciado",
+    "fs": "refinanciada",
+    "mp": "refinanciados",
+    "fp": "refinanciadas"
+  }
+}

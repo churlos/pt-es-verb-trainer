@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "panar"
+  },
+  "InfP": {
+    "1s": "panar",
+    "2s": "panares",
+    "3s": "panar",
+    "1p": "panarmos",
+    "2p": "panardes",
+    "3p": "panarem"
+  },
+  "Ger": {
+    "": "panando"
+  },
+  "PresI": {
+    "1s": "pano",
+    "2s": "panas",
+    "3s": "pana",
+    "1p": "panamos",
+    "2p": "panais",
+    "3p": "panam"
+  },
+  "PImpI": {
+    "1s": "panava",
+    "2s": "panavas",
+    "3s": "panava",
+    "1p": "panávamos",
+    "2p": "panáveis",
+    "3p": "panavam"
+  },
+  "PPSI": {
+    "1s": "panei",
+    "2s": "panaste",
+    "3s": "panou",
+    "1p": "panámos",
+    "2p": "panastes",
+    "3p": "panaram"
+  },
+  "PMQPSI": {
+    "1s": "panara",
+    "2s": "panaras",
+    "3s": "panara",
+    "1p": "panáramos",
+    "2p": "panáreis",
+    "3p": "panaram"
+  },
+  "FutSI": {
+    "1s": "panarei",
+    "2s": "panarás",
+    "3s": "panará",
+    "1p": "panaremos",
+    "2p": "panareis",
+    "3p": "panarão"
+  },
+  "CondS": {
+    "1s": "panaria",
+    "2s": "panarias",
+    "3s": "panaria",
+    "1p": "panaríamos",
+    "2p": "panaríeis",
+    "3p": "panariam"
+  },
+  "PresC": {
+    "1s": "pane",
+    "2s": "panes",
+    "3s": "pane",
+    "1p": "panemos",
+    "2p": "paneis",
+    "3p": "panem"
+  },
+  "PImpC": {
+    "1s": "panasse",
+    "2s": "panasses",
+    "3s": "panasse",
+    "1p": "panássemos",
+    "2p": "panásseis",
+    "3p": "panassem"
+  },
+  "FutSC": {
+    "1s": "panar",
+    "2s": "panares",
+    "3s": "panar",
+    "1p": "panarmos",
+    "2p": "panardes",
+    "3p": "panarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pana",
+    "3s": "pane",
+    "1p": "panemos",
+    "2p": "panai",
+    "3p": "panem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não panes",
+    "3s": "não pane",
+    "1p": "não panemos",
+    "2p": "não paneis",
+    "3p": "não panem"
+  },
+  "Part-ter": {
+    "": "panado"
+  },
+  "Part-ser": {
+    "ms": "panado",
+    "fs": "panada",
+    "mp": "panados",
+    "fp": "panadas"
+  }
+}

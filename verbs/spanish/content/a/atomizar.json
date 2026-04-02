@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "atomizar"
+  },
+  "Ger": {
+    "": "atomizando"
+  },
+  "PresI": {
+    "1s": "atomizo",
+    "2s": "atomizas",
+    "3s": "atomiza",
+    "1p": "atomizamos",
+    "2p": "atomizáis",
+    "3p": "atomizan"
+  },
+  "PImpI": {
+    "1s": "atomizaba",
+    "2s": "atomizabas",
+    "3s": "atomizaba",
+    "1p": "atomizábamos",
+    "2p": "atomizabais",
+    "3p": "atomizaban"
+  },
+  "PPSI": {
+    "1s": "atomicé",
+    "2s": "atomizaste",
+    "3s": "atomizó",
+    "1p": "atomizamos",
+    "2p": "atomizasteis",
+    "3p": "atomizaron"
+  },
+  "FutSI": {
+    "1s": "atomizaré",
+    "2s": "atomizarás",
+    "3s": "atomizará",
+    "1p": "atomizaremos",
+    "2p": "atomizaréis",
+    "3p": "atomizarán"
+  },
+  "CondS": {
+    "1s": "atomizaría",
+    "2s": "atomizarías",
+    "3s": "atomizaría",
+    "1p": "atomizaríamos",
+    "2p": "atomizaríais",
+    "3p": "atomizarían"
+  },
+  "PresC": {
+    "1s": "atomice",
+    "2s": "atomices",
+    "3s": "atomice",
+    "1p": "atomicemos",
+    "2p": "atomicéis",
+    "3p": "atomicen"
+  },
+  "PMQPSI": {
+    "1s": "atomizara",
+    "2s": "atomizaras",
+    "3s": "atomizara",
+    "1p": "atomizáramos",
+    "2p": "atomizarais",
+    "3p": "atomizaran"
+  },
+  "PImpC": {
+    "1s": "atomizase",
+    "2s": "atomizases",
+    "3s": "atomizase",
+    "1p": "atomizásemos",
+    "2p": "atomizaseis",
+    "3p": "atomizasen"
+  },
+  "FutSC": {
+    "1s": "atomizare",
+    "2s": "atomizares",
+    "3s": "atomizare",
+    "1p": "atomizáremos",
+    "2p": "atomizareis",
+    "3p": "atomizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atomiza",
+    "3s": "atomice",
+    "1p": "atomicemos",
+    "2p": "atomizad",
+    "3p": "atomicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atomices",
+    "3s": "no atomice",
+    "1p": "no atomicemos",
+    "2p": "no atomicéis",
+    "3p": "no atomicen"
+  },
+  "Part-ter": {
+    "": "atomizado"
+  },
+  "Part-ser": {
+    "ms": "atomizado",
+    "fs": "atomizada",
+    "mp": "atomizados",
+    "fp": "atomizadas"
+  }
+}

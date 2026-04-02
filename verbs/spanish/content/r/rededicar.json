@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rededicar"
+  },
+  "Ger": {
+    "": "rededicando"
+  },
+  "PresI": {
+    "1s": "rededico",
+    "2s": "rededicas",
+    "3s": "rededica",
+    "1p": "rededicamos",
+    "2p": "rededicáis",
+    "3p": "rededican"
+  },
+  "PImpI": {
+    "1s": "rededicaba",
+    "2s": "rededicabas",
+    "3s": "rededicaba",
+    "1p": "rededicábamos",
+    "2p": "rededicabais",
+    "3p": "rededicaban"
+  },
+  "PPSI": {
+    "1s": "redediqué",
+    "2s": "rededicaste",
+    "3s": "rededicó",
+    "1p": "rededicamos",
+    "2p": "rededicasteis",
+    "3p": "rededicaron"
+  },
+  "FutSI": {
+    "1s": "rededicaré",
+    "2s": "rededicarás",
+    "3s": "rededicará",
+    "1p": "rededicaremos",
+    "2p": "rededicaréis",
+    "3p": "rededicarán"
+  },
+  "CondS": {
+    "1s": "rededicaría",
+    "2s": "rededicarías",
+    "3s": "rededicaría",
+    "1p": "rededicaríamos",
+    "2p": "rededicaríais",
+    "3p": "rededicarían"
+  },
+  "PresC": {
+    "1s": "rededique",
+    "2s": "redediques",
+    "3s": "rededique",
+    "1p": "redediquemos",
+    "2p": "redediquéis",
+    "3p": "redediquen"
+  },
+  "PMQPSI": {
+    "1s": "rededicara",
+    "2s": "rededicaras",
+    "3s": "rededicara",
+    "1p": "rededicáramos",
+    "2p": "rededicarais",
+    "3p": "rededicaran"
+  },
+  "PImpC": {
+    "1s": "rededicase",
+    "2s": "rededicases",
+    "3s": "rededicase",
+    "1p": "rededicásemos",
+    "2p": "rededicaseis",
+    "3p": "rededicasen"
+  },
+  "FutSC": {
+    "1s": "rededicare",
+    "2s": "rededicares",
+    "3s": "rededicare",
+    "1p": "rededicáremos",
+    "2p": "rededicareis",
+    "3p": "rededicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rededica",
+    "3s": "rededique",
+    "1p": "redediquemos",
+    "2p": "rededicad",
+    "3p": "redediquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no redediques",
+    "3s": "no rededique",
+    "1p": "no redediquemos",
+    "2p": "no redediquéis",
+    "3p": "no redediquen"
+  },
+  "Part-ter": {
+    "": "rededicado"
+  },
+  "Part-ser": {
+    "ms": "rededicado",
+    "fs": "rededicada",
+    "mp": "rededicados",
+    "fp": "rededicadas"
+  }
+}

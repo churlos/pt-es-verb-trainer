@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "empeller"
+  },
+  "Ger": {
+    "": "empellendo"
+  },
+  "PresI": {
+    "1s": "empello",
+    "2s": "empelles",
+    "3s": "empelle",
+    "1p": "empellemos",
+    "2p": "empelléis",
+    "3p": "empellen"
+  },
+  "PImpI": {
+    "1s": "empellía",
+    "2s": "empellías",
+    "3s": "empellía",
+    "1p": "empellíamos",
+    "2p": "empellíais",
+    "3p": "empellían"
+  },
+  "PPSI": {
+    "1s": "empellí",
+    "2s": "empelliste",
+    "3s": "empelló",
+    "1p": "empellimos",
+    "2p": "empellisteis",
+    "3p": "empelleron"
+  },
+  "FutSI": {
+    "1s": "empelleré",
+    "2s": "empellerás",
+    "3s": "empellerá",
+    "1p": "empelleremos",
+    "2p": "empelleréis",
+    "3p": "empellerán"
+  },
+  "CondS": {
+    "1s": "empellería",
+    "2s": "empellerías",
+    "3s": "empellería",
+    "1p": "empelleríamos",
+    "2p": "empelleríais",
+    "3p": "empellerían"
+  },
+  "PresC": {
+    "1s": "empella",
+    "2s": "empellas",
+    "3s": "empella",
+    "1p": "empellamos",
+    "2p": "empelláis",
+    "3p": "empellan"
+  },
+  "PMQPSI": {
+    "1s": "empellera",
+    "2s": "empelleras",
+    "3s": "empellera",
+    "1p": "empelléramos",
+    "2p": "empellerais",
+    "3p": "empelleran"
+  },
+  "PImpC": {
+    "1s": "empellese",
+    "2s": "empelleses",
+    "3s": "empellese",
+    "1p": "empellésemos",
+    "2p": "empelleseis",
+    "3p": "empellesen"
+  },
+  "FutSC": {
+    "1s": "empellere",
+    "2s": "empelleres",
+    "3s": "empellere",
+    "1p": "empelléremos",
+    "2p": "empellereis",
+    "3p": "empelleren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empelle",
+    "3s": "empella",
+    "1p": "empellamos",
+    "2p": "empelled",
+    "3p": "empellan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no empellas",
+    "3s": "no empella",
+    "1p": "no empellamos",
+    "2p": "no empelláis",
+    "3p": "no empellan"
+  },
+  "Part-ter": {
+    "": "empellido"
+  },
+  "Part-ser": {
+    "ms": "empellido",
+    "fs": "empellida",
+    "mp": "empellidos",
+    "fp": "empellidas"
+  }
+}

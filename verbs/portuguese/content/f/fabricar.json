@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fabricar"
+  },
+  "InfP": {
+    "1s": "fabricar",
+    "2s": "fabricares",
+    "3s": "fabricar",
+    "1p": "fabricarmos",
+    "2p": "fabricardes",
+    "3p": "fabricarem"
+  },
+  "Ger": {
+    "": "fabricando"
+  },
+  "PresI": {
+    "1s": "fabrico",
+    "2s": "fabricas",
+    "3s": "fabrica",
+    "1p": "fabricamos",
+    "2p": "fabricais",
+    "3p": "fabricam"
+  },
+  "PImpI": {
+    "1s": "fabricava",
+    "2s": "fabricavas",
+    "3s": "fabricava",
+    "1p": "fabricávamos",
+    "2p": "fabricáveis",
+    "3p": "fabricavam"
+  },
+  "PPSI": {
+    "1s": "fabriquei",
+    "2s": "fabricaste",
+    "3s": "fabricou",
+    "1p": "fabricámos",
+    "2p": "fabricastes",
+    "3p": "fabricaram"
+  },
+  "PMQPSI": {
+    "1s": "fabricara",
+    "2s": "fabricaras",
+    "3s": "fabricara",
+    "1p": "fabricáramos",
+    "2p": "fabricáreis",
+    "3p": "fabricaram"
+  },
+  "FutSI": {
+    "1s": "fabricarei",
+    "2s": "fabricarás",
+    "3s": "fabricará",
+    "1p": "fabricaremos",
+    "2p": "fabricareis",
+    "3p": "fabricarão"
+  },
+  "CondS": {
+    "1s": "fabricaria",
+    "2s": "fabricarias",
+    "3s": "fabricaria",
+    "1p": "fabricaríamos",
+    "2p": "fabricaríeis",
+    "3p": "fabricariam"
+  },
+  "PresC": {
+    "1s": "fabrique",
+    "2s": "fabriques",
+    "3s": "fabrique",
+    "1p": "fabriquemos",
+    "2p": "fabriqueis",
+    "3p": "fabriquem"
+  },
+  "PImpC": {
+    "1s": "fabricasse",
+    "2s": "fabricasses",
+    "3s": "fabricasse",
+    "1p": "fabricássemos",
+    "2p": "fabricásseis",
+    "3p": "fabricassem"
+  },
+  "FutSC": {
+    "1s": "fabricar",
+    "2s": "fabricares",
+    "3s": "fabricar",
+    "1p": "fabricarmos",
+    "2p": "fabricardes",
+    "3p": "fabricarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fabrica",
+    "3s": "fabrique",
+    "1p": "fabriquemos",
+    "2p": "fabricai",
+    "3p": "fabriquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fabriques",
+    "3s": "não fabrique",
+    "1p": "não fabriquemos",
+    "2p": "não fabriqueis",
+    "3p": "não fabriquem"
+  },
+  "Part-ter": {
+    "": "fabricado"
+  },
+  "Part-ser": {
+    "ms": "fabricado",
+    "fs": "fabricada",
+    "mp": "fabricados",
+    "fp": "fabricadas"
+  }
+}

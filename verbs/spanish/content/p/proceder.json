@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "proceder"
+  },
+  "Ger": {
+    "": "procediendo"
+  },
+  "PresI": {
+    "1s": "procedo",
+    "2s": "procedes",
+    "3s": "procede",
+    "1p": "procedemos",
+    "2p": "procedéis",
+    "3p": "proceden"
+  },
+  "PImpI": {
+    "1s": "procedía",
+    "2s": "procedías",
+    "3s": "procedía",
+    "1p": "procedíamos",
+    "2p": "procedíais",
+    "3p": "procedían"
+  },
+  "PPSI": {
+    "1s": "procedí",
+    "2s": "procediste",
+    "3s": "procedió",
+    "1p": "procedimos",
+    "2p": "procedisteis",
+    "3p": "procedieron"
+  },
+  "FutSI": {
+    "1s": "procederé",
+    "2s": "procederás",
+    "3s": "procederá",
+    "1p": "procederemos",
+    "2p": "procederéis",
+    "3p": "procederán"
+  },
+  "CondS": {
+    "1s": "procedería",
+    "2s": "procederías",
+    "3s": "procedería",
+    "1p": "procederíamos",
+    "2p": "procederíais",
+    "3p": "procederían"
+  },
+  "PresC": {
+    "1s": "proceda",
+    "2s": "procedas",
+    "3s": "proceda",
+    "1p": "procedamos",
+    "2p": "procedáis",
+    "3p": "procedan"
+  },
+  "PMQPSI": {
+    "1s": "procediera",
+    "2s": "procedieras",
+    "3s": "procediera",
+    "1p": "procediéramos",
+    "2p": "procedierais",
+    "3p": "procedieran"
+  },
+  "PImpC": {
+    "1s": "procediese",
+    "2s": "procedieses",
+    "3s": "procediese",
+    "1p": "procediésemos",
+    "2p": "procedieseis",
+    "3p": "procediesen"
+  },
+  "FutSC": {
+    "1s": "procediere",
+    "2s": "procedieres",
+    "3s": "procediere",
+    "1p": "procediéremos",
+    "2p": "procediereis",
+    "3p": "procedieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "procede",
+    "3s": "proceda",
+    "1p": "procedamos",
+    "2p": "proceded",
+    "3p": "procedan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no procedas",
+    "3s": "no proceda",
+    "1p": "no procedamos",
+    "2p": "no procedáis",
+    "3p": "no procedan"
+  },
+  "Part-ter": {
+    "": "procedido"
+  },
+  "Part-ser": {
+    "ms": "procedido",
+    "fs": "procedida",
+    "mp": "procedidos",
+    "fp": "procedidas"
+  }
+}

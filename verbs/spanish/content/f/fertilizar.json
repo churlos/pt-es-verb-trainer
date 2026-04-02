@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fertilizar"
+  },
+  "Ger": {
+    "": "fertilizando"
+  },
+  "PresI": {
+    "1s": "fertilizo",
+    "2s": "fertilizas",
+    "3s": "fertiliza",
+    "1p": "fertilizamos",
+    "2p": "fertilizáis",
+    "3p": "fertilizan"
+  },
+  "PImpI": {
+    "1s": "fertilizaba",
+    "2s": "fertilizabas",
+    "3s": "fertilizaba",
+    "1p": "fertilizábamos",
+    "2p": "fertilizabais",
+    "3p": "fertilizaban"
+  },
+  "PPSI": {
+    "1s": "fertilicé",
+    "2s": "fertilizaste",
+    "3s": "fertilizó",
+    "1p": "fertilizamos",
+    "2p": "fertilizasteis",
+    "3p": "fertilizaron"
+  },
+  "FutSI": {
+    "1s": "fertilizaré",
+    "2s": "fertilizarás",
+    "3s": "fertilizará",
+    "1p": "fertilizaremos",
+    "2p": "fertilizaréis",
+    "3p": "fertilizarán"
+  },
+  "CondS": {
+    "1s": "fertilizaría",
+    "2s": "fertilizarías",
+    "3s": "fertilizaría",
+    "1p": "fertilizaríamos",
+    "2p": "fertilizaríais",
+    "3p": "fertilizarían"
+  },
+  "PresC": {
+    "1s": "fertilice",
+    "2s": "fertilices",
+    "3s": "fertilice",
+    "1p": "fertilicemos",
+    "2p": "fertilicéis",
+    "3p": "fertilicen"
+  },
+  "PMQPSI": {
+    "1s": "fertilizara",
+    "2s": "fertilizaras",
+    "3s": "fertilizara",
+    "1p": "fertilizáramos",
+    "2p": "fertilizarais",
+    "3p": "fertilizaran"
+  },
+  "PImpC": {
+    "1s": "fertilizase",
+    "2s": "fertilizases",
+    "3s": "fertilizase",
+    "1p": "fertilizásemos",
+    "2p": "fertilizaseis",
+    "3p": "fertilizasen"
+  },
+  "FutSC": {
+    "1s": "fertilizare",
+    "2s": "fertilizares",
+    "3s": "fertilizare",
+    "1p": "fertilizáremos",
+    "2p": "fertilizareis",
+    "3p": "fertilizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fertiliza",
+    "3s": "fertilice",
+    "1p": "fertilicemos",
+    "2p": "fertilizad",
+    "3p": "fertilicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fertilices",
+    "3s": "no fertilice",
+    "1p": "no fertilicemos",
+    "2p": "no fertilicéis",
+    "3p": "no fertilicen"
+  },
+  "Part-ter": {
+    "": "fertilizado"
+  },
+  "Part-ser": {
+    "ms": "fertilizado",
+    "fs": "fertilizada",
+    "mp": "fertilizados",
+    "fp": "fertilizadas"
+  }
+}

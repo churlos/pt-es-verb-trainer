@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alcanzar"
+  },
+  "Ger": {
+    "": "alcanzando"
+  },
+  "PresI": {
+    "1s": "alcanzo",
+    "2s": "alcanzas",
+    "3s": "alcanza",
+    "1p": "alcanzamos",
+    "2p": "alcanzáis",
+    "3p": "alcanzan"
+  },
+  "PImpI": {
+    "1s": "alcanzaba",
+    "2s": "alcanzabas",
+    "3s": "alcanzaba",
+    "1p": "alcanzábamos",
+    "2p": "alcanzabais",
+    "3p": "alcanzaban"
+  },
+  "PPSI": {
+    "1s": "alcancé",
+    "2s": "alcanzaste",
+    "3s": "alcanzó",
+    "1p": "alcanzamos",
+    "2p": "alcanzasteis",
+    "3p": "alcanzaron"
+  },
+  "FutSI": {
+    "1s": "alcanzaré",
+    "2s": "alcanzarás",
+    "3s": "alcanzará",
+    "1p": "alcanzaremos",
+    "2p": "alcanzaréis",
+    "3p": "alcanzarán"
+  },
+  "CondS": {
+    "1s": "alcanzaría",
+    "2s": "alcanzarías",
+    "3s": "alcanzaría",
+    "1p": "alcanzaríamos",
+    "2p": "alcanzaríais",
+    "3p": "alcanzarían"
+  },
+  "PresC": {
+    "1s": "alcance",
+    "2s": "alcances",
+    "3s": "alcance",
+    "1p": "alcancemos",
+    "2p": "alcancéis",
+    "3p": "alcancen"
+  },
+  "PMQPSI": {
+    "1s": "alcanzara",
+    "2s": "alcanzaras",
+    "3s": "alcanzara",
+    "1p": "alcanzáramos",
+    "2p": "alcanzarais",
+    "3p": "alcanzaran"
+  },
+  "PImpC": {
+    "1s": "alcanzase",
+    "2s": "alcanzases",
+    "3s": "alcanzase",
+    "1p": "alcanzásemos",
+    "2p": "alcanzaseis",
+    "3p": "alcanzasen"
+  },
+  "FutSC": {
+    "1s": "alcanzare",
+    "2s": "alcanzares",
+    "3s": "alcanzare",
+    "1p": "alcanzáremos",
+    "2p": "alcanzareis",
+    "3p": "alcanzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alcanza",
+    "3s": "alcance",
+    "1p": "alcancemos",
+    "2p": "alcanzad",
+    "3p": "alcancen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alcances",
+    "3s": "no alcance",
+    "1p": "no alcancemos",
+    "2p": "no alcancéis",
+    "3p": "no alcancen"
+  },
+  "Part-ter": {
+    "": "alcanzado"
+  },
+  "Part-ser": {
+    "ms": "alcanzado",
+    "fs": "alcanzada",
+    "mp": "alcanzados",
+    "fp": "alcanzadas"
+  }
+}

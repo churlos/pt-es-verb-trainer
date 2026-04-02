@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "drogar"
+  },
+  "Ger": {
+    "": "drogando"
+  },
+  "PresI": {
+    "1s": "drogo",
+    "2s": "drogas",
+    "3s": "droga",
+    "1p": "drogamos",
+    "2p": "drogáis",
+    "3p": "drogan"
+  },
+  "PImpI": {
+    "1s": "drogaba",
+    "2s": "drogabas",
+    "3s": "drogaba",
+    "1p": "drogábamos",
+    "2p": "drogabais",
+    "3p": "drogaban"
+  },
+  "PPSI": {
+    "1s": "drogué",
+    "2s": "drogaste",
+    "3s": "drogó",
+    "1p": "drogamos",
+    "2p": "drogasteis",
+    "3p": "drogaron"
+  },
+  "FutSI": {
+    "1s": "drogaré",
+    "2s": "drogarás",
+    "3s": "drogará",
+    "1p": "drogaremos",
+    "2p": "drogaréis",
+    "3p": "drogarán"
+  },
+  "CondS": {
+    "1s": "drogaría",
+    "2s": "drogarías",
+    "3s": "drogaría",
+    "1p": "drogaríamos",
+    "2p": "drogaríais",
+    "3p": "drogarían"
+  },
+  "PresC": {
+    "1s": "drogue",
+    "2s": "drogues",
+    "3s": "drogue",
+    "1p": "droguemos",
+    "2p": "droguéis",
+    "3p": "droguen"
+  },
+  "PMQPSI": {
+    "1s": "drogara",
+    "2s": "drogaras",
+    "3s": "drogara",
+    "1p": "drogáramos",
+    "2p": "drogarais",
+    "3p": "drogaran"
+  },
+  "PImpC": {
+    "1s": "drogase",
+    "2s": "drogases",
+    "3s": "drogase",
+    "1p": "drogásemos",
+    "2p": "drogaseis",
+    "3p": "drogasen"
+  },
+  "FutSC": {
+    "1s": "drogare",
+    "2s": "drogares",
+    "3s": "drogare",
+    "1p": "drogáremos",
+    "2p": "drogareis",
+    "3p": "drogaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "droga",
+    "3s": "drogue",
+    "1p": "droguemos",
+    "2p": "drogad",
+    "3p": "droguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no drogues",
+    "3s": "no drogue",
+    "1p": "no droguemos",
+    "2p": "no droguéis",
+    "3p": "no droguen"
+  },
+  "Part-ter": {
+    "": "drogado"
+  },
+  "Part-ser": {
+    "ms": "drogado",
+    "fs": "drogada",
+    "mp": "drogados",
+    "fp": "drogadas"
+  }
+}

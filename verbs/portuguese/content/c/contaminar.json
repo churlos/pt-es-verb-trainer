@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "contaminar"
+  },
+  "InfP": {
+    "1s": "contaminar",
+    "2s": "contaminares",
+    "3s": "contaminar",
+    "1p": "contaminarmos",
+    "2p": "contaminardes",
+    "3p": "contaminarem"
+  },
+  "Ger": {
+    "": "contaminando"
+  },
+  "PresI": {
+    "1s": "contamino",
+    "2s": "contaminas",
+    "3s": "contamina",
+    "1p": "contaminamos",
+    "2p": "contaminais",
+    "3p": "contaminam"
+  },
+  "PImpI": {
+    "1s": "contaminava",
+    "2s": "contaminavas",
+    "3s": "contaminava",
+    "1p": "contaminávamos",
+    "2p": "contamináveis",
+    "3p": "contaminavam"
+  },
+  "PPSI": {
+    "1s": "contaminei",
+    "2s": "contaminaste",
+    "3s": "contaminou",
+    "1p": "contaminámos",
+    "2p": "contaminastes",
+    "3p": "contaminaram"
+  },
+  "PMQPSI": {
+    "1s": "contaminara",
+    "2s": "contaminaras",
+    "3s": "contaminara",
+    "1p": "contamináramos",
+    "2p": "contamináreis",
+    "3p": "contaminaram"
+  },
+  "FutSI": {
+    "1s": "contaminarei",
+    "2s": "contaminarás",
+    "3s": "contaminará",
+    "1p": "contaminaremos",
+    "2p": "contaminareis",
+    "3p": "contaminarão"
+  },
+  "CondS": {
+    "1s": "contaminaria",
+    "2s": "contaminarias",
+    "3s": "contaminaria",
+    "1p": "contaminaríamos",
+    "2p": "contaminaríeis",
+    "3p": "contaminariam"
+  },
+  "PresC": {
+    "1s": "contamine",
+    "2s": "contamines",
+    "3s": "contamine",
+    "1p": "contaminemos",
+    "2p": "contamineis",
+    "3p": "contaminem"
+  },
+  "PImpC": {
+    "1s": "contaminasse",
+    "2s": "contaminasses",
+    "3s": "contaminasse",
+    "1p": "contaminássemos",
+    "2p": "contaminásseis",
+    "3p": "contaminassem"
+  },
+  "FutSC": {
+    "1s": "contaminar",
+    "2s": "contaminares",
+    "3s": "contaminar",
+    "1p": "contaminarmos",
+    "2p": "contaminardes",
+    "3p": "contaminarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "contamina",
+    "3s": "contamine",
+    "1p": "contaminemos",
+    "2p": "contaminai",
+    "3p": "contaminem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não contamines",
+    "3s": "não contamine",
+    "1p": "não contaminemos",
+    "2p": "não contamineis",
+    "3p": "não contaminem"
+  },
+  "Part-ter": {
+    "": "contaminado"
+  },
+  "Part-ser": {
+    "ms": "contaminado",
+    "fs": "contaminada",
+    "mp": "contaminados",
+    "fp": "contaminadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desatender"
+  },
+  "Ger": {
+    "": "desatendiendo"
+  },
+  "PresI": {
+    "1s": "desatiendo",
+    "2s": "desatiendes",
+    "3s": "desatiende",
+    "1p": "desatendemos",
+    "2p": "desatendéis",
+    "3p": "desatienden"
+  },
+  "PImpI": {
+    "1s": "desatendía",
+    "2s": "desatendías",
+    "3s": "desatendía",
+    "1p": "desatendíamos",
+    "2p": "desatendíais",
+    "3p": "desatendían"
+  },
+  "PPSI": {
+    "1s": "desatendí",
+    "2s": "desatendiste",
+    "3s": "desatendió",
+    "1p": "desatendimos",
+    "2p": "desatendisteis",
+    "3p": "desatendieron"
+  },
+  "FutSI": {
+    "1s": "desatenderé",
+    "2s": "desatenderás",
+    "3s": "desatenderá",
+    "1p": "desatenderemos",
+    "2p": "desatenderéis",
+    "3p": "desatenderán"
+  },
+  "CondS": {
+    "1s": "desatendería",
+    "2s": "desatenderías",
+    "3s": "desatendería",
+    "1p": "desatenderíamos",
+    "2p": "desatenderíais",
+    "3p": "desatenderían"
+  },
+  "PresC": {
+    "1s": "desatienda",
+    "2s": "desatiendas",
+    "3s": "desatienda",
+    "1p": "desatendamos",
+    "2p": "desatendáis",
+    "3p": "desatiendan"
+  },
+  "PMQPSI": {
+    "1s": "desatendiera",
+    "2s": "desatendieras",
+    "3s": "desatendiera",
+    "1p": "desatendiéramos",
+    "2p": "desatendierais",
+    "3p": "desatendieran"
+  },
+  "PImpC": {
+    "1s": "desatendiese",
+    "2s": "desatendieses",
+    "3s": "desatendiese",
+    "1p": "desatendiésemos",
+    "2p": "desatendieseis",
+    "3p": "desatendiesen"
+  },
+  "FutSC": {
+    "1s": "desatendiere",
+    "2s": "desatendieres",
+    "3s": "desatendiere",
+    "1p": "desatendiéremos",
+    "2p": "desatendiereis",
+    "3p": "desatendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desatiende",
+    "3s": "desatienda",
+    "1p": "desatendamos",
+    "2p": "desatended",
+    "3p": "desatiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desatiendas",
+    "3s": "no desatienda",
+    "1p": "no desatendamos",
+    "2p": "no desatendáis",
+    "3p": "no desatiendan"
+  },
+  "Part-ter": {
+    "": "desatendido"
+  },
+  "Part-ser": {
+    "ms": "desatendido",
+    "fs": "desatendida",
+    "mp": "desatendidos",
+    "fp": "desatendidas"
+  }
+}

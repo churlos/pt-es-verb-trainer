@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "palestrar"
+  },
+  "InfP": {
+    "1s": "palestrar",
+    "2s": "palestrares",
+    "3s": "palestrar",
+    "1p": "palestrarmos",
+    "2p": "palestrardes",
+    "3p": "palestrarem"
+  },
+  "Ger": {
+    "": "palestrando"
+  },
+  "PresI": {
+    "1s": "palestro",
+    "2s": "palestras",
+    "3s": "palestra",
+    "1p": "palestramos",
+    "2p": "palestrais",
+    "3p": "palestram"
+  },
+  "PImpI": {
+    "1s": "palestrava",
+    "2s": "palestravas",
+    "3s": "palestrava",
+    "1p": "palestrávamos",
+    "2p": "palestráveis",
+    "3p": "palestravam"
+  },
+  "PPSI": {
+    "1s": "palestrei",
+    "2s": "palestraste",
+    "3s": "palestrou",
+    "1p": "palestrámos",
+    "2p": "palestrastes",
+    "3p": "palestraram"
+  },
+  "PMQPSI": {
+    "1s": "palestrara",
+    "2s": "palestraras",
+    "3s": "palestrara",
+    "1p": "palestráramos",
+    "2p": "palestráreis",
+    "3p": "palestraram"
+  },
+  "FutSI": {
+    "1s": "palestrarei",
+    "2s": "palestrarás",
+    "3s": "palestrará",
+    "1p": "palestraremos",
+    "2p": "palestrareis",
+    "3p": "palestrarão"
+  },
+  "CondS": {
+    "1s": "palestraria",
+    "2s": "palestrarias",
+    "3s": "palestraria",
+    "1p": "palestraríamos",
+    "2p": "palestraríeis",
+    "3p": "palestrariam"
+  },
+  "PresC": {
+    "1s": "palestre",
+    "2s": "palestres",
+    "3s": "palestre",
+    "1p": "palestremos",
+    "2p": "palestreis",
+    "3p": "palestrem"
+  },
+  "PImpC": {
+    "1s": "palestrasse",
+    "2s": "palestrasses",
+    "3s": "palestrasse",
+    "1p": "palestrássemos",
+    "2p": "palestrásseis",
+    "3p": "palestrassem"
+  },
+  "FutSC": {
+    "1s": "palestrar",
+    "2s": "palestrares",
+    "3s": "palestrar",
+    "1p": "palestrarmos",
+    "2p": "palestrardes",
+    "3p": "palestrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "palestra",
+    "3s": "palestre",
+    "1p": "palestremos",
+    "2p": "palestrai",
+    "3p": "palestrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não palestres",
+    "3s": "não palestre",
+    "1p": "não palestremos",
+    "2p": "não palestreis",
+    "3p": "não palestrem"
+  },
+  "Part-ter": {
+    "": "palestrado"
+  },
+  "Part-ser": {
+    "ms": "palestrado",
+    "fs": "palestrada",
+    "mp": "palestrados",
+    "fp": "palestradas"
+  }
+}

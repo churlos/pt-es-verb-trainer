@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abstrair"
+  },
+  "InfP": {
+    "1s": "abstrair",
+    "2s": "abstraíres",
+    "3s": "abstrair",
+    "1p": "abstrairmos",
+    "2p": "abstrairdes",
+    "3p": "abstraírem"
+  },
+  "Ger": {
+    "": "abstraindo"
+  },
+  "PresI": {
+    "1s": "abstraio",
+    "2s": "abstrais",
+    "3s": "abstrai",
+    "1p": "abstraímos",
+    "2p": "abstraís",
+    "3p": "abstraem"
+  },
+  "PImpI": {
+    "1s": "abstraía",
+    "2s": "abstraías",
+    "3s": "abstraía",
+    "1p": "abstraíamos",
+    "2p": "abstraíeis",
+    "3p": "abstraíam"
+  },
+  "PPSI": {
+    "1s": "abstraí",
+    "2s": "abstraíste",
+    "3s": "abstraiu",
+    "1p": "abstraímos",
+    "2p": "abstraístes",
+    "3p": "abstraíram"
+  },
+  "PMQPSI": {
+    "1s": "abstraíra",
+    "2s": "abstraíras",
+    "3s": "abstraíra",
+    "1p": "abstraíramos",
+    "2p": "abstraíreis",
+    "3p": "abstraíram"
+  },
+  "FutSI": {
+    "1s": "abstrairei",
+    "2s": "abstrairás",
+    "3s": "abstrairá",
+    "1p": "abstrairemos",
+    "2p": "abstraireis",
+    "3p": "abstrairão"
+  },
+  "CondS": {
+    "1s": "abstrairia",
+    "2s": "abstrairias",
+    "3s": "abstrairia",
+    "1p": "abstrairíamos",
+    "2p": "abstrairíeis",
+    "3p": "abstrairiam"
+  },
+  "PresC": {
+    "1s": "abstraia",
+    "2s": "abstraias",
+    "3s": "abstraia",
+    "1p": "abstraiamos",
+    "2p": "abstraiais",
+    "3p": "abstraiam"
+  },
+  "PImpC": {
+    "1s": "abstraísse",
+    "2s": "abstraísses",
+    "3s": "abstraísse",
+    "1p": "abstraíssemos",
+    "2p": "abstraísseis",
+    "3p": "abstraíssem"
+  },
+  "FutSC": {
+    "1s": "abstrair",
+    "2s": "abstraíres",
+    "3s": "abstrair",
+    "1p": "abstrairmos",
+    "2p": "abstrairdes",
+    "3p": "abstraírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abstrai",
+    "3s": "abstraia",
+    "1p": "abstraiamos",
+    "2p": "abstraí",
+    "3p": "abstraiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abstraias",
+    "3s": "não abstraia",
+    "1p": "não abstraiamos",
+    "2p": "não abstraiais",
+    "3p": "não abstraiam"
+  },
+  "Part-ter": {
+    "": "abstraído"
+  },
+  "Part-ser": {
+    "ms": "abstraído",
+    "fs": "abstraída",
+    "mp": "abstraídos",
+    "fp": "abstraídas"
+  }
+}

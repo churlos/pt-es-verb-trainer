@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "criar"
+  },
+  "InfP": {
+    "1s": "criar",
+    "2s": "criares",
+    "3s": "criar",
+    "1p": "criarmos",
+    "2p": "criardes",
+    "3p": "criarem"
+  },
+  "Ger": {
+    "": "criando"
+  },
+  "PresI": {
+    "1s": "crio",
+    "2s": "crias",
+    "3s": "cria",
+    "1p": "criamos",
+    "2p": "criais",
+    "3p": "criam"
+  },
+  "PImpI": {
+    "1s": "criava",
+    "2s": "criavas",
+    "3s": "criava",
+    "1p": "criávamos",
+    "2p": "criáveis",
+    "3p": "criavam"
+  },
+  "PPSI": {
+    "1s": "criei",
+    "2s": "criaste",
+    "3s": "criou",
+    "1p": "criámos",
+    "2p": "criastes",
+    "3p": "criaram"
+  },
+  "PMQPSI": {
+    "1s": "criara",
+    "2s": "criaras",
+    "3s": "criara",
+    "1p": "criáramos",
+    "2p": "criáreis",
+    "3p": "criaram"
+  },
+  "FutSI": {
+    "1s": "criarei",
+    "2s": "criarás",
+    "3s": "criará",
+    "1p": "criaremos",
+    "2p": "criareis",
+    "3p": "criarão"
+  },
+  "CondS": {
+    "1s": "criaria",
+    "2s": "criarias",
+    "3s": "criaria",
+    "1p": "criaríamos",
+    "2p": "criaríeis",
+    "3p": "criariam"
+  },
+  "PresC": {
+    "1s": "crie",
+    "2s": "cries",
+    "3s": "crie",
+    "1p": "criemos",
+    "2p": "crieis",
+    "3p": "criem"
+  },
+  "PImpC": {
+    "1s": "criasse",
+    "2s": "criasses",
+    "3s": "criasse",
+    "1p": "criássemos",
+    "2p": "criásseis",
+    "3p": "criassem"
+  },
+  "FutSC": {
+    "1s": "criar",
+    "2s": "criares",
+    "3s": "criar",
+    "1p": "criarmos",
+    "2p": "criardes",
+    "3p": "criarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cria",
+    "3s": "crie",
+    "1p": "criemos",
+    "2p": "criai",
+    "3p": "criem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cries",
+    "3s": "não crie",
+    "1p": "não criemos",
+    "2p": "não crieis",
+    "3p": "não criem"
+  },
+  "Part-ter": {
+    "": "criado"
+  },
+  "Part-ser": {
+    "ms": "criado",
+    "fs": "criada",
+    "mp": "criados",
+    "fp": "criadas"
+  }
+}

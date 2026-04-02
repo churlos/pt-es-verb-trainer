@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gestar"
+  },
+  "InfP": {
+    "1s": "gestar",
+    "2s": "gestares",
+    "3s": "gestar",
+    "1p": "gestarmos",
+    "2p": "gestardes",
+    "3p": "gestarem"
+  },
+  "Ger": {
+    "": "gestando"
+  },
+  "PresI": {
+    "1s": "gesto",
+    "2s": "gestas",
+    "3s": "gesta",
+    "1p": "gestamos",
+    "2p": "gestais",
+    "3p": "gestam"
+  },
+  "PImpI": {
+    "1s": "gestava",
+    "2s": "gestavas",
+    "3s": "gestava",
+    "1p": "gestávamos",
+    "2p": "gestáveis",
+    "3p": "gestavam"
+  },
+  "PPSI": {
+    "1s": "gestei",
+    "2s": "gestaste",
+    "3s": "gestou",
+    "1p": "gestámos",
+    "2p": "gestastes",
+    "3p": "gestaram"
+  },
+  "PMQPSI": {
+    "1s": "gestara",
+    "2s": "gestaras",
+    "3s": "gestara",
+    "1p": "gestáramos",
+    "2p": "gestáreis",
+    "3p": "gestaram"
+  },
+  "FutSI": {
+    "1s": "gestarei",
+    "2s": "gestarás",
+    "3s": "gestará",
+    "1p": "gestaremos",
+    "2p": "gestareis",
+    "3p": "gestarão"
+  },
+  "CondS": {
+    "1s": "gestaria",
+    "2s": "gestarias",
+    "3s": "gestaria",
+    "1p": "gestaríamos",
+    "2p": "gestaríeis",
+    "3p": "gestariam"
+  },
+  "PresC": {
+    "1s": "geste",
+    "2s": "gestes",
+    "3s": "geste",
+    "1p": "gestemos",
+    "2p": "gesteis",
+    "3p": "gestem"
+  },
+  "PImpC": {
+    "1s": "gestasse",
+    "2s": "gestasses",
+    "3s": "gestasse",
+    "1p": "gestássemos",
+    "2p": "gestásseis",
+    "3p": "gestassem"
+  },
+  "FutSC": {
+    "1s": "gestar",
+    "2s": "gestares",
+    "3s": "gestar",
+    "1p": "gestarmos",
+    "2p": "gestardes",
+    "3p": "gestarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gesta",
+    "3s": "geste",
+    "1p": "gestemos",
+    "2p": "gestai",
+    "3p": "gestem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gestes",
+    "3s": "não geste",
+    "1p": "não gestemos",
+    "2p": "não gesteis",
+    "3p": "não gestem"
+  },
+  "Part-ter": {
+    "": "gestado"
+  },
+  "Part-ser": {
+    "ms": "gestado",
+    "fs": "gestada",
+    "mp": "gestados",
+    "fp": "gestadas"
+  }
+}

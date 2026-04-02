@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desligar"
+  },
+  "InfP": {
+    "1s": "desligar",
+    "2s": "desligares",
+    "3s": "desligar",
+    "1p": "desligarmos",
+    "2p": "desligardes",
+    "3p": "desligarem"
+  },
+  "Ger": {
+    "": "desligando"
+  },
+  "PresI": {
+    "1s": "desligo",
+    "2s": "desligas",
+    "3s": "desliga",
+    "1p": "desligamos",
+    "2p": "desligais",
+    "3p": "desligam"
+  },
+  "PImpI": {
+    "1s": "desligava",
+    "2s": "desligavas",
+    "3s": "desligava",
+    "1p": "desligávamos",
+    "2p": "desligáveis",
+    "3p": "desligavam"
+  },
+  "PPSI": {
+    "1s": "desliguei",
+    "2s": "desligaste",
+    "3s": "desligou",
+    "1p": "desligámos",
+    "2p": "desligastes",
+    "3p": "desligaram"
+  },
+  "PMQPSI": {
+    "1s": "desligara",
+    "2s": "desligaras",
+    "3s": "desligara",
+    "1p": "desligáramos",
+    "2p": "desligáreis",
+    "3p": "desligaram"
+  },
+  "FutSI": {
+    "1s": "desligarei",
+    "2s": "desligarás",
+    "3s": "desligará",
+    "1p": "desligaremos",
+    "2p": "desligareis",
+    "3p": "desligarão"
+  },
+  "CondS": {
+    "1s": "desligaria",
+    "2s": "desligarias",
+    "3s": "desligaria",
+    "1p": "desligaríamos",
+    "2p": "desligaríeis",
+    "3p": "desligariam"
+  },
+  "PresC": {
+    "1s": "desligue",
+    "2s": "desligues",
+    "3s": "desligue",
+    "1p": "desliguemos",
+    "2p": "desligueis",
+    "3p": "desliguem"
+  },
+  "PImpC": {
+    "1s": "desligasse",
+    "2s": "desligasses",
+    "3s": "desligasse",
+    "1p": "desligássemos",
+    "2p": "desligásseis",
+    "3p": "desligassem"
+  },
+  "FutSC": {
+    "1s": "desligar",
+    "2s": "desligares",
+    "3s": "desligar",
+    "1p": "desligarmos",
+    "2p": "desligardes",
+    "3p": "desligarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desliga",
+    "3s": "desligue",
+    "1p": "desliguemos",
+    "2p": "desligai",
+    "3p": "desliguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desligues",
+    "3s": "não desligue",
+    "1p": "não desliguemos",
+    "2p": "não desligueis",
+    "3p": "não desliguem"
+  },
+  "Part-ter": {
+    "": "desligado"
+  },
+  "Part-ser": {
+    "ms": "desligado",
+    "fs": "desligada",
+    "mp": "desligados",
+    "fp": "desligadas"
+  }
+}

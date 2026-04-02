@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "maquiar"
+  },
+  "InfP": {
+    "1s": "maquiar",
+    "2s": "maquiares",
+    "3s": "maquiar",
+    "1p": "maquiarmos",
+    "2p": "maquiardes",
+    "3p": "maquiarem"
+  },
+  "Ger": {
+    "": "maquiando"
+  },
+  "PresI": {
+    "1s": "maquio",
+    "2s": "maquias",
+    "3s": "maquia",
+    "1p": "maquiamos",
+    "2p": "maquiais",
+    "3p": "maquiam"
+  },
+  "PImpI": {
+    "1s": "maquiava",
+    "2s": "maquiavas",
+    "3s": "maquiava",
+    "1p": "maquiávamos",
+    "2p": "maquiáveis",
+    "3p": "maquiavam"
+  },
+  "PPSI": {
+    "1s": "maquiei",
+    "2s": "maquiaste",
+    "3s": "maquiou",
+    "1p": "maquiámos",
+    "2p": "maquiastes",
+    "3p": "maquiaram"
+  },
+  "PMQPSI": {
+    "1s": "maquiara",
+    "2s": "maquiaras",
+    "3s": "maquiara",
+    "1p": "maquiáramos",
+    "2p": "maquiáreis",
+    "3p": "maquiaram"
+  },
+  "FutSI": {
+    "1s": "maquiarei",
+    "2s": "maquiarás",
+    "3s": "maquiará",
+    "1p": "maquiaremos",
+    "2p": "maquiareis",
+    "3p": "maquiarão"
+  },
+  "CondS": {
+    "1s": "maquiaria",
+    "2s": "maquiarias",
+    "3s": "maquiaria",
+    "1p": "maquiaríamos",
+    "2p": "maquiaríeis",
+    "3p": "maquiariam"
+  },
+  "PresC": {
+    "1s": "maquie",
+    "2s": "maquies",
+    "3s": "maquie",
+    "1p": "maquiemos",
+    "2p": "maquieis",
+    "3p": "maquiem"
+  },
+  "PImpC": {
+    "1s": "maquiasse",
+    "2s": "maquiasses",
+    "3s": "maquiasse",
+    "1p": "maquiássemos",
+    "2p": "maquiásseis",
+    "3p": "maquiassem"
+  },
+  "FutSC": {
+    "1s": "maquiar",
+    "2s": "maquiares",
+    "3s": "maquiar",
+    "1p": "maquiarmos",
+    "2p": "maquiardes",
+    "3p": "maquiarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maquia",
+    "3s": "maquie",
+    "1p": "maquiemos",
+    "2p": "maquiai",
+    "3p": "maquiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não maquies",
+    "3s": "não maquie",
+    "1p": "não maquiemos",
+    "2p": "não maquieis",
+    "3p": "não maquiem"
+  },
+  "Part-ter": {
+    "": "maquiado"
+  },
+  "Part-ser": {
+    "ms": "maquiado",
+    "fs": "maquiada",
+    "mp": "maquiados",
+    "fp": "maquiadas"
+  }
+}

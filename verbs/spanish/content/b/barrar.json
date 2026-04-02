@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "barrar"
+  },
+  "Ger": {
+    "": "barrando"
+  },
+  "PresI": {
+    "1s": "barro",
+    "2s": "barras",
+    "3s": "barra",
+    "1p": "barramos",
+    "2p": "barráis",
+    "3p": "barran"
+  },
+  "PImpI": {
+    "1s": "barraba",
+    "2s": "barrabas",
+    "3s": "barraba",
+    "1p": "barrábamos",
+    "2p": "barrabais",
+    "3p": "barraban"
+  },
+  "PPSI": {
+    "1s": "barré",
+    "2s": "barraste",
+    "3s": "barró",
+    "1p": "barramos",
+    "2p": "barrasteis",
+    "3p": "barraron"
+  },
+  "FutSI": {
+    "1s": "barraré",
+    "2s": "barrarás",
+    "3s": "barrará",
+    "1p": "barraremos",
+    "2p": "barraréis",
+    "3p": "barrarán"
+  },
+  "CondS": {
+    "1s": "barraría",
+    "2s": "barrarías",
+    "3s": "barraría",
+    "1p": "barraríamos",
+    "2p": "barraríais",
+    "3p": "barrarían"
+  },
+  "PresC": {
+    "1s": "barre",
+    "2s": "barres",
+    "3s": "barre",
+    "1p": "barremos",
+    "2p": "barréis",
+    "3p": "barren"
+  },
+  "PMQPSI": {
+    "1s": "barrara",
+    "2s": "barraras",
+    "3s": "barrara",
+    "1p": "barráramos",
+    "2p": "barrarais",
+    "3p": "barraran"
+  },
+  "PImpC": {
+    "1s": "barrase",
+    "2s": "barrases",
+    "3s": "barrase",
+    "1p": "barrásemos",
+    "2p": "barraseis",
+    "3p": "barrasen"
+  },
+  "FutSC": {
+    "1s": "barrare",
+    "2s": "barrares",
+    "3s": "barrare",
+    "1p": "barráremos",
+    "2p": "barrareis",
+    "3p": "barraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barra",
+    "3s": "barre",
+    "1p": "barremos",
+    "2p": "barrad",
+    "3p": "barren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no barres",
+    "3s": "no barre",
+    "1p": "no barremos",
+    "2p": "no barréis",
+    "3p": "no barren"
+  },
+  "Part-ter": {
+    "": "barrado"
+  },
+  "Part-ser": {
+    "ms": "barrado",
+    "fs": "barrada",
+    "mp": "barrados",
+    "fp": "barradas"
+  }
+}

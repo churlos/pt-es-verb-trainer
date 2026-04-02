@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lecionar"
+  },
+  "InfP": {
+    "1s": "lecionar",
+    "2s": "lecionares",
+    "3s": "lecionar",
+    "1p": "lecionarmos",
+    "2p": "lecionardes",
+    "3p": "lecionarem"
+  },
+  "Ger": {
+    "": "lecionando"
+  },
+  "PresI": {
+    "1s": "leciono",
+    "2s": "lecionas",
+    "3s": "leciona",
+    "1p": "lecionamos",
+    "2p": "lecionais",
+    "3p": "lecionam"
+  },
+  "PImpI": {
+    "1s": "lecionava",
+    "2s": "lecionavas",
+    "3s": "lecionava",
+    "1p": "lecionávamos",
+    "2p": "lecionáveis",
+    "3p": "lecionavam"
+  },
+  "PPSI": {
+    "1s": "lecionei",
+    "2s": "lecionaste",
+    "3s": "lecionou",
+    "1p": "lecionámos",
+    "2p": "lecionastes",
+    "3p": "lecionaram"
+  },
+  "PMQPSI": {
+    "1s": "lecionara",
+    "2s": "lecionaras",
+    "3s": "lecionara",
+    "1p": "lecionáramos",
+    "2p": "lecionáreis",
+    "3p": "lecionaram"
+  },
+  "FutSI": {
+    "1s": "lecionarei",
+    "2s": "lecionarás",
+    "3s": "lecionará",
+    "1p": "lecionaremos",
+    "2p": "lecionareis",
+    "3p": "lecionarão"
+  },
+  "CondS": {
+    "1s": "lecionaria",
+    "2s": "lecionarias",
+    "3s": "lecionaria",
+    "1p": "lecionaríamos",
+    "2p": "lecionaríeis",
+    "3p": "lecionariam"
+  },
+  "PresC": {
+    "1s": "lecione",
+    "2s": "leciones",
+    "3s": "lecione",
+    "1p": "lecionemos",
+    "2p": "lecioneis",
+    "3p": "lecionem"
+  },
+  "PImpC": {
+    "1s": "lecionasse",
+    "2s": "lecionasses",
+    "3s": "lecionasse",
+    "1p": "lecionássemos",
+    "2p": "lecionásseis",
+    "3p": "lecionassem"
+  },
+  "FutSC": {
+    "1s": "lecionar",
+    "2s": "lecionares",
+    "3s": "lecionar",
+    "1p": "lecionarmos",
+    "2p": "lecionardes",
+    "3p": "lecionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "leciona",
+    "3s": "lecione",
+    "1p": "lecionemos",
+    "2p": "lecionai",
+    "3p": "lecionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não leciones",
+    "3s": "não lecione",
+    "1p": "não lecionemos",
+    "2p": "não lecioneis",
+    "3p": "não lecionem"
+  },
+  "Part-ter": {
+    "": "lecionado"
+  },
+  "Part-ser": {
+    "ms": "lecionado",
+    "fs": "lecionada",
+    "mp": "lecionados",
+    "fp": "lecionadas"
+  }
+}

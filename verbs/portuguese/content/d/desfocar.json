@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desfocar"
+  },
+  "InfP": {
+    "1s": "desfocar",
+    "2s": "desfocares",
+    "3s": "desfocar",
+    "1p": "desfocarmos",
+    "2p": "desfocardes",
+    "3p": "desfocarem"
+  },
+  "Ger": {
+    "": "desfocando"
+  },
+  "PresI": {
+    "1s": "desfoco",
+    "2s": "desfocas",
+    "3s": "desfoca",
+    "1p": "desfocamos",
+    "2p": "desfocais",
+    "3p": "desfocam"
+  },
+  "PImpI": {
+    "1s": "desfocava",
+    "2s": "desfocavas",
+    "3s": "desfocava",
+    "1p": "desfocávamos",
+    "2p": "desfocáveis",
+    "3p": "desfocavam"
+  },
+  "PPSI": {
+    "1s": "desfoquei",
+    "2s": "desfocaste",
+    "3s": "desfocou",
+    "1p": "desfocámos",
+    "2p": "desfocastes",
+    "3p": "desfocaram"
+  },
+  "PMQPSI": {
+    "1s": "desfocara",
+    "2s": "desfocaras",
+    "3s": "desfocara",
+    "1p": "desfocáramos",
+    "2p": "desfocáreis",
+    "3p": "desfocaram"
+  },
+  "FutSI": {
+    "1s": "desfocarei",
+    "2s": "desfocarás",
+    "3s": "desfocará",
+    "1p": "desfocaremos",
+    "2p": "desfocareis",
+    "3p": "desfocarão"
+  },
+  "CondS": {
+    "1s": "desfocaria",
+    "2s": "desfocarias",
+    "3s": "desfocaria",
+    "1p": "desfocaríamos",
+    "2p": "desfocaríeis",
+    "3p": "desfocariam"
+  },
+  "PresC": {
+    "1s": "desfoque",
+    "2s": "desfoques",
+    "3s": "desfoque",
+    "1p": "desfoquemos",
+    "2p": "desfoqueis",
+    "3p": "desfoquem"
+  },
+  "PImpC": {
+    "1s": "desfocasse",
+    "2s": "desfocasses",
+    "3s": "desfocasse",
+    "1p": "desfocássemos",
+    "2p": "desfocásseis",
+    "3p": "desfocassem"
+  },
+  "FutSC": {
+    "1s": "desfocar",
+    "2s": "desfocares",
+    "3s": "desfocar",
+    "1p": "desfocarmos",
+    "2p": "desfocardes",
+    "3p": "desfocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desfoca",
+    "3s": "desfoque",
+    "1p": "desfoquemos",
+    "2p": "desfocai",
+    "3p": "desfoquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desfoques",
+    "3s": "não desfoque",
+    "1p": "não desfoquemos",
+    "2p": "não desfoqueis",
+    "3p": "não desfoquem"
+  },
+  "Part-ter": {
+    "": "desfocado"
+  },
+  "Part-ser": {
+    "ms": "desfocado",
+    "fs": "desfocada",
+    "mp": "desfocados",
+    "fp": "desfocadas"
+  }
+}

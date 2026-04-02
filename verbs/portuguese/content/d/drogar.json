@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "drogar"
+  },
+  "InfP": {
+    "1s": "drogar",
+    "2s": "drogares",
+    "3s": "drogar",
+    "1p": "drogarmos",
+    "2p": "drogardes",
+    "3p": "drogarem"
+  },
+  "Ger": {
+    "": "drogando"
+  },
+  "PresI": {
+    "1s": "drogo",
+    "2s": "drogas",
+    "3s": "droga",
+    "1p": "drogamos",
+    "2p": "drogais",
+    "3p": "drogam"
+  },
+  "PImpI": {
+    "1s": "drogava",
+    "2s": "drogavas",
+    "3s": "drogava",
+    "1p": "drogávamos",
+    "2p": "drogáveis",
+    "3p": "drogavam"
+  },
+  "PPSI": {
+    "1s": "droguei",
+    "2s": "drogaste",
+    "3s": "drogou",
+    "1p": "drogámos",
+    "2p": "drogastes",
+    "3p": "drogaram"
+  },
+  "PMQPSI": {
+    "1s": "drogara",
+    "2s": "drogaras",
+    "3s": "drogara",
+    "1p": "drogáramos",
+    "2p": "drogáreis",
+    "3p": "drogaram"
+  },
+  "FutSI": {
+    "1s": "drogarei",
+    "2s": "drogarás",
+    "3s": "drogará",
+    "1p": "drogaremos",
+    "2p": "drogareis",
+    "3p": "drogarão"
+  },
+  "CondS": {
+    "1s": "drogaria",
+    "2s": "drogarias",
+    "3s": "drogaria",
+    "1p": "drogaríamos",
+    "2p": "drogaríeis",
+    "3p": "drogariam"
+  },
+  "PresC": {
+    "1s": "drogue",
+    "2s": "drogues",
+    "3s": "drogue",
+    "1p": "droguemos",
+    "2p": "drogueis",
+    "3p": "droguem"
+  },
+  "PImpC": {
+    "1s": "drogasse",
+    "2s": "drogasses",
+    "3s": "drogasse",
+    "1p": "drogássemos",
+    "2p": "drogásseis",
+    "3p": "drogassem"
+  },
+  "FutSC": {
+    "1s": "drogar",
+    "2s": "drogares",
+    "3s": "drogar",
+    "1p": "drogarmos",
+    "2p": "drogardes",
+    "3p": "drogarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "droga",
+    "3s": "drogue",
+    "1p": "droguemos",
+    "2p": "drogai",
+    "3p": "droguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não drogues",
+    "3s": "não drogue",
+    "1p": "não droguemos",
+    "2p": "não drogueis",
+    "3p": "não droguem"
+  },
+  "Part-ter": {
+    "": "drogado"
+  },
+  "Part-ser": {
+    "ms": "drogado",
+    "fs": "drogada",
+    "mp": "drogados",
+    "fp": "drogadas"
+  }
+}

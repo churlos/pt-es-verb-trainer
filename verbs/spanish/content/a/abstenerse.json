@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "abstenerse"
+  },
+  "Ger": {
+    "": "absteniéndose"
+  },
+  "PresI": {
+    "1s": "me abstengo",
+    "2s": "te abstienes",
+    "3s": "se abstiene",
+    "1p": "nos abstenemos",
+    "2p": "os abstenéis",
+    "3p": "se abstienen"
+  },
+  "PImpI": {
+    "1s": "me abstenía",
+    "2s": "te abstenías",
+    "3s": "se abstenía",
+    "1p": "nos absteníamos",
+    "2p": "os absteníais",
+    "3p": "se abstenían"
+  },
+  "PPSI": {
+    "1s": "me abstuve",
+    "2s": "te abstuviste",
+    "3s": "se abstuvo",
+    "1p": "nos abstuvimos",
+    "2p": "os abstuvisteis",
+    "3p": "se abstuvieron"
+  },
+  "FutSI": {
+    "1s": "me abstendré",
+    "2s": "te abstendrás",
+    "3s": "se abstendrá",
+    "1p": "nos abstendremos",
+    "2p": "os abstendréis",
+    "3p": "se abstendrán"
+  },
+  "CondS": {
+    "1s": "me abstendría",
+    "2s": "te abstendrías",
+    "3s": "se abstendría",
+    "1p": "nos abstendríamos",
+    "2p": "os abstendríais",
+    "3p": "se abstendrían"
+  },
+  "PresC": {
+    "1s": "me abstenga",
+    "2s": "te abstengas",
+    "3s": "se abstenga",
+    "1p": "nos abstengamos",
+    "2p": "os abstengáis",
+    "3p": "se abstengan"
+  },
+  "PMQPSI": {
+    "1s": "me abstuviera",
+    "2s": "te abstuvieras",
+    "3s": "se abstuviera",
+    "1p": "nos abstuviéramos",
+    "2p": "os abstuvierais",
+    "3p": "se abstuvieran"
+  },
+  "PImpC": {
+    "1s": "me abstuviese",
+    "2s": "te abstuvieses",
+    "3s": "se abstuviese",
+    "1p": "nos abstuviésemos",
+    "2p": "os abstuvieseis",
+    "3p": "se abstuviesen"
+  },
+  "FutSC": {
+    "1s": "me abstuviere",
+    "2s": "te abstuvieres",
+    "3s": "se abstuviere",
+    "1p": "nos abstuviéremos",
+    "2p": "os abstuviereis",
+    "3p": "se abstuvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abstente",
+    "3s": "absténgase",
+    "1p": "abstengámonos",
+    "2p": "absteneos",
+    "3p": "absténganse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te abstengas",
+    "3s": "no se abstenga",
+    "1p": "no nos abstengamos",
+    "2p": "no os abstengáis",
+    "3p": "no se abstengan"
+  },
+  "Part-ter": {
+    "": "abstenido"
+  },
+  "Part-ser": {
+    "ms": "abstenido",
+    "fs": "abstenida",
+    "mp": "abstenidos",
+    "fp": "abstenidas"
+  }
+}

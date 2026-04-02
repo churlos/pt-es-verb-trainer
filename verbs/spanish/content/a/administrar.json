@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "administrar"
+  },
+  "Ger": {
+    "": "administrando"
+  },
+  "PresI": {
+    "1s": "administro",
+    "2s": "administras",
+    "3s": "administra",
+    "1p": "administramos",
+    "2p": "administráis",
+    "3p": "administran"
+  },
+  "PImpI": {
+    "1s": "administraba",
+    "2s": "administrabas",
+    "3s": "administraba",
+    "1p": "administrábamos",
+    "2p": "administrabais",
+    "3p": "administraban"
+  },
+  "PPSI": {
+    "1s": "administré",
+    "2s": "administraste",
+    "3s": "administró",
+    "1p": "administramos",
+    "2p": "administrasteis",
+    "3p": "administraron"
+  },
+  "FutSI": {
+    "1s": "administraré",
+    "2s": "administrarás",
+    "3s": "administrará",
+    "1p": "administraremos",
+    "2p": "administraréis",
+    "3p": "administrarán"
+  },
+  "CondS": {
+    "1s": "administraría",
+    "2s": "administrarías",
+    "3s": "administraría",
+    "1p": "administraríamos",
+    "2p": "administraríais",
+    "3p": "administrarían"
+  },
+  "PresC": {
+    "1s": "administre",
+    "2s": "administres",
+    "3s": "administre",
+    "1p": "administremos",
+    "2p": "administréis",
+    "3p": "administren"
+  },
+  "PMQPSI": {
+    "1s": "administrara",
+    "2s": "administraras",
+    "3s": "administrara",
+    "1p": "administráramos",
+    "2p": "administrarais",
+    "3p": "administraran"
+  },
+  "PImpC": {
+    "1s": "administrase",
+    "2s": "administrases",
+    "3s": "administrase",
+    "1p": "administrásemos",
+    "2p": "administraseis",
+    "3p": "administrasen"
+  },
+  "FutSC": {
+    "1s": "administrare",
+    "2s": "administrares",
+    "3s": "administrare",
+    "1p": "administráremos",
+    "2p": "administrareis",
+    "3p": "administraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "administra",
+    "3s": "administre",
+    "1p": "administremos",
+    "2p": "administrad",
+    "3p": "administren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no administres",
+    "3s": "no administre",
+    "1p": "no administremos",
+    "2p": "no administréis",
+    "3p": "no administren"
+  },
+  "Part-ter": {
+    "": "administrado"
+  },
+  "Part-ser": {
+    "ms": "administrado",
+    "fs": "administrada",
+    "mp": "administrados",
+    "fp": "administradas"
+  }
+}

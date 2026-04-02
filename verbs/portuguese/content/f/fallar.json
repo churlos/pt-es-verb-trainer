@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fallar"
+  },
+  "InfP": {
+    "1s": "fallar",
+    "2s": "fallares",
+    "3s": "fallar",
+    "1p": "fallarmos",
+    "2p": "fallardes",
+    "3p": "fallarem"
+  },
+  "Ger": {
+    "": "fallando"
+  },
+  "PresI": {
+    "1s": "fallo",
+    "2s": "fallas",
+    "3s": "falla",
+    "1p": "fallamos",
+    "2p": "fallais",
+    "3p": "fallam"
+  },
+  "PImpI": {
+    "1s": "fallava",
+    "2s": "fallavas",
+    "3s": "fallava",
+    "1p": "fallávamos",
+    "2p": "falláveis",
+    "3p": "fallavam"
+  },
+  "PPSI": {
+    "1s": "fallei",
+    "2s": "fallaste",
+    "3s": "fallou",
+    "1p": "fallámos",
+    "2p": "fallastes",
+    "3p": "fallaram"
+  },
+  "PMQPSI": {
+    "1s": "fallara",
+    "2s": "fallaras",
+    "3s": "fallara",
+    "1p": "falláramos",
+    "2p": "falláreis",
+    "3p": "fallaram"
+  },
+  "FutSI": {
+    "1s": "fallarei",
+    "2s": "fallarás",
+    "3s": "fallará",
+    "1p": "fallaremos",
+    "2p": "fallareis",
+    "3p": "fallarão"
+  },
+  "CondS": {
+    "1s": "fallaria",
+    "2s": "fallarias",
+    "3s": "fallaria",
+    "1p": "fallaríamos",
+    "2p": "fallaríeis",
+    "3p": "fallariam"
+  },
+  "PresC": {
+    "1s": "falle",
+    "2s": "falles",
+    "3s": "falle",
+    "1p": "fallemos",
+    "2p": "falleis",
+    "3p": "fallem"
+  },
+  "PImpC": {
+    "1s": "fallasse",
+    "2s": "fallasses",
+    "3s": "fallasse",
+    "1p": "fallássemos",
+    "2p": "fallásseis",
+    "3p": "fallassem"
+  },
+  "FutSC": {
+    "1s": "fallar",
+    "2s": "fallares",
+    "3s": "fallar",
+    "1p": "fallarmos",
+    "2p": "fallardes",
+    "3p": "fallarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "falla",
+    "3s": "falle",
+    "1p": "fallemos",
+    "2p": "fallai",
+    "3p": "fallem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não falles",
+    "3s": "não falle",
+    "1p": "não fallemos",
+    "2p": "não falleis",
+    "3p": "não fallem"
+  },
+  "Part-ter": {
+    "": "fallado"
+  },
+  "Part-ser": {
+    "ms": "fallado",
+    "fs": "fallada",
+    "mp": "fallados",
+    "fp": "falladas"
+  }
+}

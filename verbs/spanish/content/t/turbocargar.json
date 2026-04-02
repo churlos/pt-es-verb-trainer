@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "turbocargar"
+  },
+  "Ger": {
+    "": "turbocargando"
+  },
+  "PresI": {
+    "1s": "turbocargo",
+    "2s": "turbocargas",
+    "3s": "turbocarga",
+    "1p": "turbocargamos",
+    "2p": "turbocargáis",
+    "3p": "turbocargan"
+  },
+  "PImpI": {
+    "1s": "turbocargaba",
+    "2s": "turbocargabas",
+    "3s": "turbocargaba",
+    "1p": "turbocargábamos",
+    "2p": "turbocargabais",
+    "3p": "turbocargaban"
+  },
+  "PPSI": {
+    "1s": "turbocargué",
+    "2s": "turbocargaste",
+    "3s": "turbocargó",
+    "1p": "turbocargamos",
+    "2p": "turbocargasteis",
+    "3p": "turbocargaron"
+  },
+  "FutSI": {
+    "1s": "turbocargaré",
+    "2s": "turbocargarás",
+    "3s": "turbocargará",
+    "1p": "turbocargaremos",
+    "2p": "turbocargaréis",
+    "3p": "turbocargarán"
+  },
+  "CondS": {
+    "1s": "turbocargaría",
+    "2s": "turbocargarías",
+    "3s": "turbocargaría",
+    "1p": "turbocargaríamos",
+    "2p": "turbocargaríais",
+    "3p": "turbocargarían"
+  },
+  "PresC": {
+    "1s": "turbocargue",
+    "2s": "turbocargues",
+    "3s": "turbocargue",
+    "1p": "turbocarguemos",
+    "2p": "turbocarguéis",
+    "3p": "turbocarguen"
+  },
+  "PMQPSI": {
+    "1s": "turbocargara",
+    "2s": "turbocargaras",
+    "3s": "turbocargara",
+    "1p": "turbocargáramos",
+    "2p": "turbocargarais",
+    "3p": "turbocargaran"
+  },
+  "PImpC": {
+    "1s": "turbocargase",
+    "2s": "turbocargases",
+    "3s": "turbocargase",
+    "1p": "turbocargásemos",
+    "2p": "turbocargaseis",
+    "3p": "turbocargasen"
+  },
+  "FutSC": {
+    "1s": "turbocargare",
+    "2s": "turbocargares",
+    "3s": "turbocargare",
+    "1p": "turbocargáremos",
+    "2p": "turbocargareis",
+    "3p": "turbocargaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "turbocarga",
+    "3s": "turbocargue",
+    "1p": "turbocarguemos",
+    "2p": "turbocargad",
+    "3p": "turbocarguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no turbocargues",
+    "3s": "no turbocargue",
+    "1p": "no turbocarguemos",
+    "2p": "no turbocarguéis",
+    "3p": "no turbocarguen"
+  },
+  "Part-ter": {
+    "": "turbocargado"
+  },
+  "Part-ser": {
+    "ms": "turbocargado",
+    "fs": "turbocargada",
+    "mp": "turbocargados",
+    "fp": "turbocargadas"
+  }
+}

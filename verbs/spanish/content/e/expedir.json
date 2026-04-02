@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "expedir"
+  },
+  "Ger": {
+    "": "expidiendo"
+  },
+  "PresI": {
+    "1s": "expido",
+    "2s": "expides",
+    "3s": "expide",
+    "1p": "expedimos",
+    "2p": "expedís",
+    "3p": "expiden"
+  },
+  "PImpI": {
+    "1s": "expedía",
+    "2s": "expedías",
+    "3s": "expedía",
+    "1p": "expedíamos",
+    "2p": "expedíais",
+    "3p": "expedían"
+  },
+  "PPSI": {
+    "1s": "expedí",
+    "2s": "expediste",
+    "3s": "expidió",
+    "1p": "expedimos",
+    "2p": "expedisteis",
+    "3p": "expidieron"
+  },
+  "FutSI": {
+    "1s": "expediré",
+    "2s": "expedirás",
+    "3s": "expedirá",
+    "1p": "expediremos",
+    "2p": "expediréis",
+    "3p": "expedirán"
+  },
+  "CondS": {
+    "1s": "expediría",
+    "2s": "expedirías",
+    "3s": "expediría",
+    "1p": "expediríamos",
+    "2p": "expediríais",
+    "3p": "expedirían"
+  },
+  "PresC": {
+    "1s": "expida",
+    "2s": "expidas",
+    "3s": "expida",
+    "1p": "expidamos",
+    "2p": "expidáis",
+    "3p": "expidan"
+  },
+  "PMQPSI": {
+    "1s": "expidiera",
+    "2s": "expidieras",
+    "3s": "expidiera",
+    "1p": "expidiéramos",
+    "2p": "expidierais",
+    "3p": "expidieran"
+  },
+  "PImpC": {
+    "1s": "expidiese",
+    "2s": "expidieses",
+    "3s": "expidiese",
+    "1p": "expidiésemos",
+    "2p": "expidieseis",
+    "3p": "expidiesen"
+  },
+  "FutSC": {
+    "1s": "expidiere",
+    "2s": "expidieres",
+    "3s": "expidiere",
+    "1p": "expidiéremos",
+    "2p": "expidiereis",
+    "3p": "expidieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "expide",
+    "3s": "expida",
+    "1p": "expidamos",
+    "2p": "expedid",
+    "3p": "expidan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no expidas",
+    "3s": "no expida",
+    "1p": "no expidamos",
+    "2p": "no expidáis",
+    "3p": "no expidan"
+  },
+  "Part-ter": {
+    "": "expedido"
+  },
+  "Part-ser": {
+    "ms": "expedido",
+    "fs": "expedida",
+    "mp": "expedidos",
+    "fp": "expedidas"
+  }
+}

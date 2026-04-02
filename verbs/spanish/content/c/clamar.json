@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "clamar"
+  },
+  "Ger": {
+    "": "clamando"
+  },
+  "PresI": {
+    "1s": "clamo",
+    "2s": "clamas",
+    "3s": "clama",
+    "1p": "clamamos",
+    "2p": "clamáis",
+    "3p": "claman"
+  },
+  "PImpI": {
+    "1s": "clamaba",
+    "2s": "clamabas",
+    "3s": "clamaba",
+    "1p": "clamábamos",
+    "2p": "clamabais",
+    "3p": "clamaban"
+  },
+  "PPSI": {
+    "1s": "clamé",
+    "2s": "clamaste",
+    "3s": "clamó",
+    "1p": "clamamos",
+    "2p": "clamasteis",
+    "3p": "clamaron"
+  },
+  "FutSI": {
+    "1s": "clamaré",
+    "2s": "clamarás",
+    "3s": "clamará",
+    "1p": "clamaremos",
+    "2p": "clamaréis",
+    "3p": "clamarán"
+  },
+  "CondS": {
+    "1s": "clamaría",
+    "2s": "clamarías",
+    "3s": "clamaría",
+    "1p": "clamaríamos",
+    "2p": "clamaríais",
+    "3p": "clamarían"
+  },
+  "PresC": {
+    "1s": "clame",
+    "2s": "clames",
+    "3s": "clame",
+    "1p": "clamemos",
+    "2p": "claméis",
+    "3p": "clamen"
+  },
+  "PMQPSI": {
+    "1s": "clamara",
+    "2s": "clamaras",
+    "3s": "clamara",
+    "1p": "clamáramos",
+    "2p": "clamarais",
+    "3p": "clamaran"
+  },
+  "PImpC": {
+    "1s": "clamase",
+    "2s": "clamases",
+    "3s": "clamase",
+    "1p": "clamásemos",
+    "2p": "clamaseis",
+    "3p": "clamasen"
+  },
+  "FutSC": {
+    "1s": "clamare",
+    "2s": "clamares",
+    "3s": "clamare",
+    "1p": "clamáremos",
+    "2p": "clamareis",
+    "3p": "clamaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clama",
+    "3s": "clame",
+    "1p": "clamemos",
+    "2p": "clamad",
+    "3p": "clamen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no clames",
+    "3s": "no clame",
+    "1p": "no clamemos",
+    "2p": "no claméis",
+    "3p": "no clamen"
+  },
+  "Part-ter": {
+    "": "clamado"
+  },
+  "Part-ser": {
+    "ms": "clamado",
+    "fs": "clamada",
+    "mp": "clamados",
+    "fp": "clamadas"
+  }
+}

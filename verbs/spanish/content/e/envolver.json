@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "envolver"
+  },
+  "Ger": {
+    "": "envolviendo"
+  },
+  "PresI": {
+    "1s": "envuelvo",
+    "2s": "envuelves",
+    "3s": "envuelve",
+    "1p": "envolvemos",
+    "2p": "envolvéis",
+    "3p": "envuelven"
+  },
+  "PImpI": {
+    "1s": "envolvía",
+    "2s": "envolvías",
+    "3s": "envolvía",
+    "1p": "envolvíamos",
+    "2p": "envolvíais",
+    "3p": "envolvían"
+  },
+  "PPSI": {
+    "1s": "envolví",
+    "2s": "envolviste",
+    "3s": "envolvió",
+    "1p": "envolvimos",
+    "2p": "envolvisteis",
+    "3p": "envolvieron"
+  },
+  "FutSI": {
+    "1s": "envolveré",
+    "2s": "envolverás",
+    "3s": "envolverá",
+    "1p": "envolveremos",
+    "2p": "envolveréis",
+    "3p": "envolverán"
+  },
+  "CondS": {
+    "1s": "envolvería",
+    "2s": "envolverías",
+    "3s": "envolvería",
+    "1p": "envolveríamos",
+    "2p": "envolveríais",
+    "3p": "envolverían"
+  },
+  "PresC": {
+    "1s": "envuelva",
+    "2s": "envuelvas",
+    "3s": "envuelva",
+    "1p": "envolvamos",
+    "2p": "envolváis",
+    "3p": "envuelvan"
+  },
+  "PMQPSI": {
+    "1s": "envolviera",
+    "2s": "envolvieras",
+    "3s": "envolviera",
+    "1p": "envolviéramos",
+    "2p": "envolvierais",
+    "3p": "envolvieran"
+  },
+  "PImpC": {
+    "1s": "envolviese",
+    "2s": "envolvieses",
+    "3s": "envolviese",
+    "1p": "envolviésemos",
+    "2p": "envolvieseis",
+    "3p": "envolviesen"
+  },
+  "FutSC": {
+    "1s": "envolviere",
+    "2s": "envolvieres",
+    "3s": "envolviere",
+    "1p": "envolviéremos",
+    "2p": "envolviereis",
+    "3p": "envolvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envuelve",
+    "3s": "envuelva",
+    "1p": "envolvamos",
+    "2p": "envolved",
+    "3p": "envuelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envuelvas",
+    "3s": "no envuelva",
+    "1p": "no envolvamos",
+    "2p": "no envolváis",
+    "3p": "no envuelvan"
+  },
+  "Part-ter": {
+    "": "envuelto"
+  },
+  "Part-ser": {
+    "ms": "envuelto",
+    "fs": "envuelta",
+    "mp": "envueltos",
+    "fp": "envueltas"
+  }
+}

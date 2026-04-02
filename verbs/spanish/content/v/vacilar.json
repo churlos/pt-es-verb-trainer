@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vacilar"
+  },
+  "Ger": {
+    "": "vacilando"
+  },
+  "PresI": {
+    "1s": "vacilo",
+    "2s": "vacilas",
+    "3s": "vacila",
+    "1p": "vacilamos",
+    "2p": "vaciláis",
+    "3p": "vacilan"
+  },
+  "PImpI": {
+    "1s": "vacilaba",
+    "2s": "vacilabas",
+    "3s": "vacilaba",
+    "1p": "vacilábamos",
+    "2p": "vacilabais",
+    "3p": "vacilaban"
+  },
+  "PPSI": {
+    "1s": "vacilé",
+    "2s": "vacilaste",
+    "3s": "vaciló",
+    "1p": "vacilamos",
+    "2p": "vacilasteis",
+    "3p": "vacilaron"
+  },
+  "FutSI": {
+    "1s": "vacilaré",
+    "2s": "vacilarás",
+    "3s": "vacilará",
+    "1p": "vacilaremos",
+    "2p": "vacilaréis",
+    "3p": "vacilarán"
+  },
+  "CondS": {
+    "1s": "vacilaría",
+    "2s": "vacilarías",
+    "3s": "vacilaría",
+    "1p": "vacilaríamos",
+    "2p": "vacilaríais",
+    "3p": "vacilarían"
+  },
+  "PresC": {
+    "1s": "vacile",
+    "2s": "vaciles",
+    "3s": "vacile",
+    "1p": "vacilemos",
+    "2p": "vaciléis",
+    "3p": "vacilen"
+  },
+  "PMQPSI": {
+    "1s": "vacilara",
+    "2s": "vacilaras",
+    "3s": "vacilara",
+    "1p": "vaciláramos",
+    "2p": "vacilarais",
+    "3p": "vacilaran"
+  },
+  "PImpC": {
+    "1s": "vacilase",
+    "2s": "vacilases",
+    "3s": "vacilase",
+    "1p": "vacilásemos",
+    "2p": "vacilaseis",
+    "3p": "vacilasen"
+  },
+  "FutSC": {
+    "1s": "vacilare",
+    "2s": "vacilares",
+    "3s": "vacilare",
+    "1p": "vaciláremos",
+    "2p": "vacilareis",
+    "3p": "vacilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vacila",
+    "3s": "vacile",
+    "1p": "vacilemos",
+    "2p": "vacilad",
+    "3p": "vacilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vaciles",
+    "3s": "no vacile",
+    "1p": "no vacilemos",
+    "2p": "no vaciléis",
+    "3p": "no vacilen"
+  },
+  "Part-ter": {
+    "": "vacilado"
+  },
+  "Part-ser": {
+    "ms": "vacilado",
+    "fs": "vacilada",
+    "mp": "vacilados",
+    "fp": "vaciladas"
+  }
+}

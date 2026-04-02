@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "triplicar"
+  },
+  "InfP": {
+    "1s": "triplicar",
+    "2s": "triplicares",
+    "3s": "triplicar",
+    "1p": "triplicarmos",
+    "2p": "triplicardes",
+    "3p": "triplicarem"
+  },
+  "Ger": {
+    "": "triplicando"
+  },
+  "PresI": {
+    "1s": "triplico",
+    "2s": "triplicas",
+    "3s": "triplica",
+    "1p": "triplicamos",
+    "2p": "triplicais",
+    "3p": "triplicam"
+  },
+  "PImpI": {
+    "1s": "triplicava",
+    "2s": "triplicavas",
+    "3s": "triplicava",
+    "1p": "triplicávamos",
+    "2p": "triplicáveis",
+    "3p": "triplicavam"
+  },
+  "PPSI": {
+    "1s": "tripliquei",
+    "2s": "triplicaste",
+    "3s": "triplicou",
+    "1p": "triplicámos",
+    "2p": "triplicastes",
+    "3p": "triplicaram"
+  },
+  "PMQPSI": {
+    "1s": "triplicara",
+    "2s": "triplicaras",
+    "3s": "triplicara",
+    "1p": "triplicáramos",
+    "2p": "triplicáreis",
+    "3p": "triplicaram"
+  },
+  "FutSI": {
+    "1s": "triplicarei",
+    "2s": "triplicarás",
+    "3s": "triplicará",
+    "1p": "triplicaremos",
+    "2p": "triplicareis",
+    "3p": "triplicarão"
+  },
+  "CondS": {
+    "1s": "triplicaria",
+    "2s": "triplicarias",
+    "3s": "triplicaria",
+    "1p": "triplicaríamos",
+    "2p": "triplicaríeis",
+    "3p": "triplicariam"
+  },
+  "PresC": {
+    "1s": "triplique",
+    "2s": "tripliques",
+    "3s": "triplique",
+    "1p": "tripliquemos",
+    "2p": "tripliqueis",
+    "3p": "tripliquem"
+  },
+  "PImpC": {
+    "1s": "triplicasse",
+    "2s": "triplicasses",
+    "3s": "triplicasse",
+    "1p": "triplicássemos",
+    "2p": "triplicásseis",
+    "3p": "triplicassem"
+  },
+  "FutSC": {
+    "1s": "triplicar",
+    "2s": "triplicares",
+    "3s": "triplicar",
+    "1p": "triplicarmos",
+    "2p": "triplicardes",
+    "3p": "triplicarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "triplica",
+    "3s": "triplique",
+    "1p": "tripliquemos",
+    "2p": "triplicai",
+    "3p": "tripliquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tripliques",
+    "3s": "não triplique",
+    "1p": "não tripliquemos",
+    "2p": "não tripliqueis",
+    "3p": "não tripliquem"
+  },
+  "Part-ter": {
+    "": "triplicado"
+  },
+  "Part-ser": {
+    "ms": "triplicado",
+    "fs": "triplicada",
+    "mp": "triplicados",
+    "fp": "triplicadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dispersar"
+  },
+  "InfP": {
+    "1s": "dispersar",
+    "2s": "dispersares",
+    "3s": "dispersar",
+    "1p": "dispersarmos",
+    "2p": "dispersardes",
+    "3p": "dispersarem"
+  },
+  "Ger": {
+    "": "dispersando"
+  },
+  "PresI": {
+    "1s": "disperso",
+    "2s": "dispersas",
+    "3s": "dispersa",
+    "1p": "dispersamos",
+    "2p": "dispersais",
+    "3p": "dispersam"
+  },
+  "PImpI": {
+    "1s": "dispersava",
+    "2s": "dispersavas",
+    "3s": "dispersava",
+    "1p": "dispersávamos",
+    "2p": "dispersáveis",
+    "3p": "dispersavam"
+  },
+  "PPSI": {
+    "1s": "dispersei",
+    "2s": "dispersaste",
+    "3s": "dispersou",
+    "1p": "dispersámos",
+    "2p": "dispersastes",
+    "3p": "dispersaram"
+  },
+  "PMQPSI": {
+    "1s": "dispersara",
+    "2s": "dispersaras",
+    "3s": "dispersara",
+    "1p": "dispersáramos",
+    "2p": "dispersáreis",
+    "3p": "dispersaram"
+  },
+  "FutSI": {
+    "1s": "dispersarei",
+    "2s": "dispersarás",
+    "3s": "dispersará",
+    "1p": "dispersaremos",
+    "2p": "dispersareis",
+    "3p": "dispersarão"
+  },
+  "CondS": {
+    "1s": "dispersaria",
+    "2s": "dispersarias",
+    "3s": "dispersaria",
+    "1p": "dispersaríamos",
+    "2p": "dispersaríeis",
+    "3p": "dispersariam"
+  },
+  "PresC": {
+    "1s": "disperse",
+    "2s": "disperses",
+    "3s": "disperse",
+    "1p": "dispersemos",
+    "2p": "disperseis",
+    "3p": "dispersem"
+  },
+  "PImpC": {
+    "1s": "dispersasse",
+    "2s": "dispersasses",
+    "3s": "dispersasse",
+    "1p": "dispersássemos",
+    "2p": "dispersásseis",
+    "3p": "dispersassem"
+  },
+  "FutSC": {
+    "1s": "dispersar",
+    "2s": "dispersares",
+    "3s": "dispersar",
+    "1p": "dispersarmos",
+    "2p": "dispersardes",
+    "3p": "dispersarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dispersa",
+    "3s": "disperse",
+    "1p": "dispersemos",
+    "2p": "dispersai",
+    "3p": "dispersem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não disperses",
+    "3s": "não disperse",
+    "1p": "não dispersemos",
+    "2p": "não disperseis",
+    "3p": "não dispersem"
+  },
+  "Part-ter": {
+    "": "dispersado"
+  },
+  "Part-ser": {
+    "ms": "dispersado",
+    "fs": "dispersada",
+    "mp": "dispersados",
+    "fp": "dispersadas"
+  }
+}

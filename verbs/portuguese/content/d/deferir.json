@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deferir"
+  },
+  "InfP": {
+    "1s": "deferir",
+    "2s": "deferires",
+    "3s": "deferir",
+    "1p": "deferirmos",
+    "2p": "deferirdes",
+    "3p": "deferirem"
+  },
+  "Ger": {
+    "": "deferindo"
+  },
+  "PresI": {
+    "1s": "defiro",
+    "2s": "deferes",
+    "3s": "defere",
+    "1p": "deferimos",
+    "2p": "deferis",
+    "3p": "deferem"
+  },
+  "PImpI": {
+    "1s": "deferia",
+    "2s": "deferias",
+    "3s": "deferia",
+    "1p": "deferíamos",
+    "2p": "deferíeis",
+    "3p": "deferiam"
+  },
+  "PPSI": {
+    "1s": "deferi",
+    "2s": "deferiste",
+    "3s": "deferiu",
+    "1p": "deferimos",
+    "2p": "deferistes",
+    "3p": "deferiram"
+  },
+  "PMQPSI": {
+    "1s": "deferira",
+    "2s": "deferiras",
+    "3s": "deferira",
+    "1p": "deferíramos",
+    "2p": "deferíreis",
+    "3p": "deferiram"
+  },
+  "FutSI": {
+    "1s": "deferirei",
+    "2s": "deferirás",
+    "3s": "deferirá",
+    "1p": "deferiremos",
+    "2p": "deferireis",
+    "3p": "deferirão"
+  },
+  "CondS": {
+    "1s": "deferiria",
+    "2s": "deferirias",
+    "3s": "deferiria",
+    "1p": "deferiríamos",
+    "2p": "deferiríeis",
+    "3p": "defeririam"
+  },
+  "PresC": {
+    "1s": "defira",
+    "2s": "defiras",
+    "3s": "defira",
+    "1p": "defiramos",
+    "2p": "defirais",
+    "3p": "defiram"
+  },
+  "PImpC": {
+    "1s": "deferisse",
+    "2s": "deferisses",
+    "3s": "deferisse",
+    "1p": "deferíssemos",
+    "2p": "deferísseis",
+    "3p": "deferissem"
+  },
+  "FutSC": {
+    "1s": "deferir",
+    "2s": "deferires",
+    "3s": "deferir",
+    "1p": "deferirmos",
+    "2p": "deferirdes",
+    "3p": "deferirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "defere",
+    "3s": "defira",
+    "1p": "defiramos",
+    "2p": "deferi",
+    "3p": "defiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não defiras",
+    "3s": "não defira",
+    "1p": "não defiramos",
+    "2p": "não defirais",
+    "3p": "não defiram"
+  },
+  "Part-ter": {
+    "": "deferido"
+  },
+  "Part-ser": {
+    "ms": "deferido",
+    "fs": "deferida",
+    "mp": "deferidos",
+    "fp": "deferidas"
+  }
+}

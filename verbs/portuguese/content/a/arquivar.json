@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arquivar"
+  },
+  "InfP": {
+    "1s": "arquivar",
+    "2s": "arquivares",
+    "3s": "arquivar",
+    "1p": "arquivarmos",
+    "2p": "arquivardes",
+    "3p": "arquivarem"
+  },
+  "Ger": {
+    "": "arquivando"
+  },
+  "PresI": {
+    "1s": "arquivo",
+    "2s": "arquivas",
+    "3s": "arquiva",
+    "1p": "arquivamos",
+    "2p": "arquivais",
+    "3p": "arquivam"
+  },
+  "PImpI": {
+    "1s": "arquivava",
+    "2s": "arquivavas",
+    "3s": "arquivava",
+    "1p": "arquivávamos",
+    "2p": "arquiváveis",
+    "3p": "arquivavam"
+  },
+  "PPSI": {
+    "1s": "arquivei",
+    "2s": "arquivaste",
+    "3s": "arquivou",
+    "1p": "arquivámos",
+    "2p": "arquivastes",
+    "3p": "arquivaram"
+  },
+  "PMQPSI": {
+    "1s": "arquivara",
+    "2s": "arquivaras",
+    "3s": "arquivara",
+    "1p": "arquiváramos",
+    "2p": "arquiváreis",
+    "3p": "arquivaram"
+  },
+  "FutSI": {
+    "1s": "arquivarei",
+    "2s": "arquivarás",
+    "3s": "arquivará",
+    "1p": "arquivaremos",
+    "2p": "arquivareis",
+    "3p": "arquivarão"
+  },
+  "CondS": {
+    "1s": "arquivaria",
+    "2s": "arquivarias",
+    "3s": "arquivaria",
+    "1p": "arquivaríamos",
+    "2p": "arquivaríeis",
+    "3p": "arquivariam"
+  },
+  "PresC": {
+    "1s": "arquive",
+    "2s": "arquives",
+    "3s": "arquive",
+    "1p": "arquivemos",
+    "2p": "arquiveis",
+    "3p": "arquivem"
+  },
+  "PImpC": {
+    "1s": "arquivasse",
+    "2s": "arquivasses",
+    "3s": "arquivasse",
+    "1p": "arquivássemos",
+    "2p": "arquivásseis",
+    "3p": "arquivassem"
+  },
+  "FutSC": {
+    "1s": "arquivar",
+    "2s": "arquivares",
+    "3s": "arquivar",
+    "1p": "arquivarmos",
+    "2p": "arquivardes",
+    "3p": "arquivarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arquiva",
+    "3s": "arquive",
+    "1p": "arquivemos",
+    "2p": "arquivai",
+    "3p": "arquivem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arquives",
+    "3s": "não arquive",
+    "1p": "não arquivemos",
+    "2p": "não arquiveis",
+    "3p": "não arquivem"
+  },
+  "Part-ter": {
+    "": "arquivado"
+  },
+  "Part-ser": {
+    "ms": "arquivado",
+    "fs": "arquivada",
+    "mp": "arquivados",
+    "fp": "arquivadas"
+  }
+}

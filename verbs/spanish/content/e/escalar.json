@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escalar"
+  },
+  "Ger": {
+    "": "escalando"
+  },
+  "PresI": {
+    "1s": "escalo",
+    "2s": "escalas",
+    "3s": "escala",
+    "1p": "escalamos",
+    "2p": "escaláis",
+    "3p": "escalan"
+  },
+  "PImpI": {
+    "1s": "escalaba",
+    "2s": "escalabas",
+    "3s": "escalaba",
+    "1p": "escalábamos",
+    "2p": "escalabais",
+    "3p": "escalaban"
+  },
+  "PPSI": {
+    "1s": "escalé",
+    "2s": "escalaste",
+    "3s": "escaló",
+    "1p": "escalamos",
+    "2p": "escalasteis",
+    "3p": "escalaron"
+  },
+  "FutSI": {
+    "1s": "escalaré",
+    "2s": "escalarás",
+    "3s": "escalará",
+    "1p": "escalaremos",
+    "2p": "escalaréis",
+    "3p": "escalarán"
+  },
+  "CondS": {
+    "1s": "escalaría",
+    "2s": "escalarías",
+    "3s": "escalaría",
+    "1p": "escalaríamos",
+    "2p": "escalaríais",
+    "3p": "escalarían"
+  },
+  "PresC": {
+    "1s": "escale",
+    "2s": "escales",
+    "3s": "escale",
+    "1p": "escalemos",
+    "2p": "escaléis",
+    "3p": "escalen"
+  },
+  "PMQPSI": {
+    "1s": "escalara",
+    "2s": "escalaras",
+    "3s": "escalara",
+    "1p": "escaláramos",
+    "2p": "escalarais",
+    "3p": "escalaran"
+  },
+  "PImpC": {
+    "1s": "escalase",
+    "2s": "escalases",
+    "3s": "escalase",
+    "1p": "escalásemos",
+    "2p": "escalaseis",
+    "3p": "escalasen"
+  },
+  "FutSC": {
+    "1s": "escalare",
+    "2s": "escalares",
+    "3s": "escalare",
+    "1p": "escaláremos",
+    "2p": "escalareis",
+    "3p": "escalaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escala",
+    "3s": "escale",
+    "1p": "escalemos",
+    "2p": "escalad",
+    "3p": "escalen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escales",
+    "3s": "no escale",
+    "1p": "no escalemos",
+    "2p": "no escaléis",
+    "3p": "no escalen"
+  },
+  "Part-ter": {
+    "": "escalado"
+  },
+  "Part-ser": {
+    "ms": "escalado",
+    "fs": "escalada",
+    "mp": "escalados",
+    "fp": "escaladas"
+  }
+}

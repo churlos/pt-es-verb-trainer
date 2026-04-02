@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "decorar"
+  },
+  "InfP": {
+    "1s": "decorar",
+    "2s": "decorares",
+    "3s": "decorar",
+    "1p": "decorarmos",
+    "2p": "decorardes",
+    "3p": "decorarem"
+  },
+  "Ger": {
+    "": "decorando"
+  },
+  "PresI": {
+    "1s": "decoro",
+    "2s": "decoras",
+    "3s": "decora",
+    "1p": "decoramos",
+    "2p": "decorais",
+    "3p": "decoram"
+  },
+  "PImpI": {
+    "1s": "decorava",
+    "2s": "decoravas",
+    "3s": "decorava",
+    "1p": "decorávamos",
+    "2p": "decoráveis",
+    "3p": "decoravam"
+  },
+  "PPSI": {
+    "1s": "decorei",
+    "2s": "decoraste",
+    "3s": "decorou",
+    "1p": "decorámos",
+    "2p": "decorastes",
+    "3p": "decoraram"
+  },
+  "PMQPSI": {
+    "1s": "decorara",
+    "2s": "decoraras",
+    "3s": "decorara",
+    "1p": "decoráramos",
+    "2p": "decoráreis",
+    "3p": "decoraram"
+  },
+  "FutSI": {
+    "1s": "decorarei",
+    "2s": "decorarás",
+    "3s": "decorará",
+    "1p": "decoraremos",
+    "2p": "decorareis",
+    "3p": "decorarão"
+  },
+  "CondS": {
+    "1s": "decoraria",
+    "2s": "decorarias",
+    "3s": "decoraria",
+    "1p": "decoraríamos",
+    "2p": "decoraríeis",
+    "3p": "decorariam"
+  },
+  "PresC": {
+    "1s": "decore",
+    "2s": "decores",
+    "3s": "decore",
+    "1p": "decoremos",
+    "2p": "decoreis",
+    "3p": "decorem"
+  },
+  "PImpC": {
+    "1s": "decorasse",
+    "2s": "decorasses",
+    "3s": "decorasse",
+    "1p": "decorássemos",
+    "2p": "decorásseis",
+    "3p": "decorassem"
+  },
+  "FutSC": {
+    "1s": "decorar",
+    "2s": "decorares",
+    "3s": "decorar",
+    "1p": "decorarmos",
+    "2p": "decorardes",
+    "3p": "decorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decora",
+    "3s": "decore",
+    "1p": "decoremos",
+    "2p": "decorai",
+    "3p": "decorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não decores",
+    "3s": "não decore",
+    "1p": "não decoremos",
+    "2p": "não decoreis",
+    "3p": "não decorem"
+  },
+  "Part-ter": {
+    "": "decorado"
+  },
+  "Part-ser": {
+    "ms": "decorado",
+    "fs": "decorada",
+    "mp": "decorados",
+    "fp": "decoradas"
+  }
+}

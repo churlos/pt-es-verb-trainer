@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "implantar"
+  },
+  "Ger": {
+    "": "implantando"
+  },
+  "PresI": {
+    "1s": "implanto",
+    "2s": "implantas",
+    "3s": "implanta",
+    "1p": "implantamos",
+    "2p": "implantáis",
+    "3p": "implantan"
+  },
+  "PImpI": {
+    "1s": "implantaba",
+    "2s": "implantabas",
+    "3s": "implantaba",
+    "1p": "implantábamos",
+    "2p": "implantabais",
+    "3p": "implantaban"
+  },
+  "PPSI": {
+    "1s": "implanté",
+    "2s": "implantaste",
+    "3s": "implantó",
+    "1p": "implantamos",
+    "2p": "implantasteis",
+    "3p": "implantaron"
+  },
+  "FutSI": {
+    "1s": "implantaré",
+    "2s": "implantarás",
+    "3s": "implantará",
+    "1p": "implantaremos",
+    "2p": "implantaréis",
+    "3p": "implantarán"
+  },
+  "CondS": {
+    "1s": "implantaría",
+    "2s": "implantarías",
+    "3s": "implantaría",
+    "1p": "implantaríamos",
+    "2p": "implantaríais",
+    "3p": "implantarían"
+  },
+  "PresC": {
+    "1s": "implante",
+    "2s": "implantes",
+    "3s": "implante",
+    "1p": "implantemos",
+    "2p": "implantéis",
+    "3p": "implanten"
+  },
+  "PMQPSI": {
+    "1s": "implantara",
+    "2s": "implantaras",
+    "3s": "implantara",
+    "1p": "implantáramos",
+    "2p": "implantarais",
+    "3p": "implantaran"
+  },
+  "PImpC": {
+    "1s": "implantase",
+    "2s": "implantases",
+    "3s": "implantase",
+    "1p": "implantásemos",
+    "2p": "implantaseis",
+    "3p": "implantasen"
+  },
+  "FutSC": {
+    "1s": "implantare",
+    "2s": "implantares",
+    "3s": "implantare",
+    "1p": "implantáremos",
+    "2p": "implantareis",
+    "3p": "implantaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "implanta",
+    "3s": "implante",
+    "1p": "implantemos",
+    "2p": "implantad",
+    "3p": "implanten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no implantes",
+    "3s": "no implante",
+    "1p": "no implantemos",
+    "2p": "no implantéis",
+    "3p": "no implanten"
+  },
+  "Part-ter": {
+    "": "implantado"
+  },
+  "Part-ser": {
+    "ms": "implantado",
+    "fs": "implantada",
+    "mp": "implantados",
+    "fp": "implantadas"
+  }
+}

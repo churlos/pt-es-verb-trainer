@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "balizar"
+  },
+  "Ger": {
+    "": "balizando"
+  },
+  "PresI": {
+    "1s": "balizo",
+    "2s": "balizas",
+    "3s": "baliza",
+    "1p": "balizamos",
+    "2p": "balizáis",
+    "3p": "balizan"
+  },
+  "PImpI": {
+    "1s": "balizaba",
+    "2s": "balizabas",
+    "3s": "balizaba",
+    "1p": "balizábamos",
+    "2p": "balizabais",
+    "3p": "balizaban"
+  },
+  "PPSI": {
+    "1s": "balicé",
+    "2s": "balizaste",
+    "3s": "balizó",
+    "1p": "balizamos",
+    "2p": "balizasteis",
+    "3p": "balizaron"
+  },
+  "FutSI": {
+    "1s": "balizaré",
+    "2s": "balizarás",
+    "3s": "balizará",
+    "1p": "balizaremos",
+    "2p": "balizaréis",
+    "3p": "balizarán"
+  },
+  "CondS": {
+    "1s": "balizaría",
+    "2s": "balizarías",
+    "3s": "balizaría",
+    "1p": "balizaríamos",
+    "2p": "balizaríais",
+    "3p": "balizarían"
+  },
+  "PresC": {
+    "1s": "balice",
+    "2s": "balices",
+    "3s": "balice",
+    "1p": "balicemos",
+    "2p": "balicéis",
+    "3p": "balicen"
+  },
+  "PMQPSI": {
+    "1s": "balizara",
+    "2s": "balizaras",
+    "3s": "balizara",
+    "1p": "balizáramos",
+    "2p": "balizarais",
+    "3p": "balizaran"
+  },
+  "PImpC": {
+    "1s": "balizase",
+    "2s": "balizases",
+    "3s": "balizase",
+    "1p": "balizásemos",
+    "2p": "balizaseis",
+    "3p": "balizasen"
+  },
+  "FutSC": {
+    "1s": "balizare",
+    "2s": "balizares",
+    "3s": "balizare",
+    "1p": "balizáremos",
+    "2p": "balizareis",
+    "3p": "balizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baliza",
+    "3s": "balice",
+    "1p": "balicemos",
+    "2p": "balizad",
+    "3p": "balicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no balices",
+    "3s": "no balice",
+    "1p": "no balicemos",
+    "2p": "no balicéis",
+    "3p": "no balicen"
+  },
+  "Part-ter": {
+    "": "balizado"
+  },
+  "Part-ser": {
+    "ms": "balizado",
+    "fs": "balizada",
+    "mp": "balizados",
+    "fp": "balizadas"
+  }
+}

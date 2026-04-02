@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tender"
+  },
+  "Ger": {
+    "": "tendiendo"
+  },
+  "PresI": {
+    "1s": "tiendo",
+    "2s": "tiendes",
+    "3s": "tiende",
+    "1p": "tendemos",
+    "2p": "tendéis",
+    "3p": "tienden"
+  },
+  "PImpI": {
+    "1s": "tendía",
+    "2s": "tendías",
+    "3s": "tendía",
+    "1p": "tendíamos",
+    "2p": "tendíais",
+    "3p": "tendían"
+  },
+  "PPSI": {
+    "1s": "tendí",
+    "2s": "tendiste",
+    "3s": "tendió",
+    "1p": "tendimos",
+    "2p": "tendisteis",
+    "3p": "tendieron"
+  },
+  "FutSI": {
+    "1s": "tenderé",
+    "2s": "tenderás",
+    "3s": "tenderá",
+    "1p": "tenderemos",
+    "2p": "tenderéis",
+    "3p": "tenderán"
+  },
+  "CondS": {
+    "1s": "tendería",
+    "2s": "tenderías",
+    "3s": "tendería",
+    "1p": "tenderíamos",
+    "2p": "tenderíais",
+    "3p": "tenderían"
+  },
+  "PresC": {
+    "1s": "tienda",
+    "2s": "tiendas",
+    "3s": "tienda",
+    "1p": "tendamos",
+    "2p": "tendáis",
+    "3p": "tiendan"
+  },
+  "PMQPSI": {
+    "1s": "tendiera",
+    "2s": "tendieras",
+    "3s": "tendiera",
+    "1p": "tendiéramos",
+    "2p": "tendierais",
+    "3p": "tendieran"
+  },
+  "PImpC": {
+    "1s": "tendiese",
+    "2s": "tendieses",
+    "3s": "tendiese",
+    "1p": "tendiésemos",
+    "2p": "tendieseis",
+    "3p": "tendiesen"
+  },
+  "FutSC": {
+    "1s": "tendiere",
+    "2s": "tendieres",
+    "3s": "tendiere",
+    "1p": "tendiéremos",
+    "2p": "tendiereis",
+    "3p": "tendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tiende",
+    "3s": "tienda",
+    "1p": "tendamos",
+    "2p": "tended",
+    "3p": "tiendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tiendas",
+    "3s": "no tienda",
+    "1p": "no tendamos",
+    "2p": "no tendáis",
+    "3p": "no tiendan"
+  },
+  "Part-ter": {
+    "": "tendido"
+  },
+  "Part-ser": {
+    "ms": "tendido",
+    "fs": "tendida",
+    "mp": "tendidos",
+    "fp": "tendidas"
+  }
+}

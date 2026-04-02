@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "afectar"
+  },
+  "Ger": {
+    "": "afectando"
+  },
+  "PresI": {
+    "1s": "afecto",
+    "2s": "afectas",
+    "3s": "afecta",
+    "1p": "afectamos",
+    "2p": "afectáis",
+    "3p": "afectan"
+  },
+  "PImpI": {
+    "1s": "afectaba",
+    "2s": "afectabas",
+    "3s": "afectaba",
+    "1p": "afectábamos",
+    "2p": "afectabais",
+    "3p": "afectaban"
+  },
+  "PPSI": {
+    "1s": "afecté",
+    "2s": "afectaste",
+    "3s": "afectó",
+    "1p": "afectamos",
+    "2p": "afectasteis",
+    "3p": "afectaron"
+  },
+  "FutSI": {
+    "1s": "afectaré",
+    "2s": "afectarás",
+    "3s": "afectará",
+    "1p": "afectaremos",
+    "2p": "afectaréis",
+    "3p": "afectarán"
+  },
+  "CondS": {
+    "1s": "afectaría",
+    "2s": "afectarías",
+    "3s": "afectaría",
+    "1p": "afectaríamos",
+    "2p": "afectaríais",
+    "3p": "afectarían"
+  },
+  "PresC": {
+    "1s": "afecte",
+    "2s": "afectes",
+    "3s": "afecte",
+    "1p": "afectemos",
+    "2p": "afectéis",
+    "3p": "afecten"
+  },
+  "PMQPSI": {
+    "1s": "afectara",
+    "2s": "afectaras",
+    "3s": "afectara",
+    "1p": "afectáramos",
+    "2p": "afectarais",
+    "3p": "afectaran"
+  },
+  "PImpC": {
+    "1s": "afectase",
+    "2s": "afectases",
+    "3s": "afectase",
+    "1p": "afectásemos",
+    "2p": "afectaseis",
+    "3p": "afectasen"
+  },
+  "FutSC": {
+    "1s": "afectare",
+    "2s": "afectares",
+    "3s": "afectare",
+    "1p": "afectáremos",
+    "2p": "afectareis",
+    "3p": "afectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afecta",
+    "3s": "afecte",
+    "1p": "afectemos",
+    "2p": "afectad",
+    "3p": "afecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no afectes",
+    "3s": "no afecte",
+    "1p": "no afectemos",
+    "2p": "no afectéis",
+    "3p": "no afecten"
+  },
+  "Part-ter": {
+    "": "afectado"
+  },
+  "Part-ser": {
+    "ms": "afectado",
+    "fs": "afectada",
+    "mp": "afectados",
+    "fp": "afectadas"
+  }
+}

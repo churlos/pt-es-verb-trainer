@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cegar"
+  },
+  "InfP": {
+    "1s": "cegar",
+    "2s": "cegares",
+    "3s": "cegar",
+    "1p": "cegarmos",
+    "2p": "cegardes",
+    "3p": "cegarem"
+  },
+  "Ger": {
+    "": "cegando"
+  },
+  "PresI": {
+    "1s": "cego",
+    "2s": "cegas",
+    "3s": "cega",
+    "1p": "cegamos",
+    "2p": "cegais",
+    "3p": "cegam"
+  },
+  "PImpI": {
+    "1s": "cegava",
+    "2s": "cegavas",
+    "3s": "cegava",
+    "1p": "cegávamos",
+    "2p": "cegáveis",
+    "3p": "cegavam"
+  },
+  "PPSI": {
+    "1s": "ceguei",
+    "2s": "cegaste",
+    "3s": "cegou",
+    "1p": "cegámos",
+    "2p": "cegastes",
+    "3p": "cegaram"
+  },
+  "PMQPSI": {
+    "1s": "cegara",
+    "2s": "cegaras",
+    "3s": "cegara",
+    "1p": "cegáramos",
+    "2p": "cegáreis",
+    "3p": "cegaram"
+  },
+  "FutSI": {
+    "1s": "cegarei",
+    "2s": "cegarás",
+    "3s": "cegará",
+    "1p": "cegaremos",
+    "2p": "cegareis",
+    "3p": "cegarão"
+  },
+  "CondS": {
+    "1s": "cegaria",
+    "2s": "cegarias",
+    "3s": "cegaria",
+    "1p": "cegaríamos",
+    "2p": "cegaríeis",
+    "3p": "cegariam"
+  },
+  "PresC": {
+    "1s": "cegue",
+    "2s": "cegues",
+    "3s": "cegue",
+    "1p": "ceguemos",
+    "2p": "cegueis",
+    "3p": "ceguem"
+  },
+  "PImpC": {
+    "1s": "cegasse",
+    "2s": "cegasses",
+    "3s": "cegasse",
+    "1p": "cegássemos",
+    "2p": "cegásseis",
+    "3p": "cegassem"
+  },
+  "FutSC": {
+    "1s": "cegar",
+    "2s": "cegares",
+    "3s": "cegar",
+    "1p": "cegarmos",
+    "2p": "cegardes",
+    "3p": "cegarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cega",
+    "3s": "cegue",
+    "1p": "ceguemos",
+    "2p": "cegai",
+    "3p": "ceguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cegues",
+    "3s": "não cegue",
+    "1p": "não ceguemos",
+    "2p": "não cegueis",
+    "3p": "não ceguem"
+  },
+  "Part-ter": {
+    "": "cegado"
+  },
+  "Part-ser": {
+    "ms": "cegado",
+    "fs": "cegada",
+    "mp": "cegados",
+    "fp": "cegadas"
+  }
+}

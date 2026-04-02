@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gritar"
+  },
+  "InfP": {
+    "1s": "gritar",
+    "2s": "gritares",
+    "3s": "gritar",
+    "1p": "gritarmos",
+    "2p": "gritardes",
+    "3p": "gritarem"
+  },
+  "Ger": {
+    "": "gritando"
+  },
+  "PresI": {
+    "1s": "grito",
+    "2s": "gritas",
+    "3s": "grita",
+    "1p": "gritamos",
+    "2p": "gritais",
+    "3p": "gritam"
+  },
+  "PImpI": {
+    "1s": "gritava",
+    "2s": "gritavas",
+    "3s": "gritava",
+    "1p": "gritávamos",
+    "2p": "gritáveis",
+    "3p": "gritavam"
+  },
+  "PPSI": {
+    "1s": "gritei",
+    "2s": "gritaste",
+    "3s": "gritou",
+    "1p": "gritámos",
+    "2p": "gritastes",
+    "3p": "gritaram"
+  },
+  "PMQPSI": {
+    "1s": "gritara",
+    "2s": "gritaras",
+    "3s": "gritara",
+    "1p": "gritáramos",
+    "2p": "gritáreis",
+    "3p": "gritaram"
+  },
+  "FutSI": {
+    "1s": "gritarei",
+    "2s": "gritarás",
+    "3s": "gritará",
+    "1p": "gritaremos",
+    "2p": "gritareis",
+    "3p": "gritarão"
+  },
+  "CondS": {
+    "1s": "gritaria",
+    "2s": "gritarias",
+    "3s": "gritaria",
+    "1p": "gritaríamos",
+    "2p": "gritaríeis",
+    "3p": "gritariam"
+  },
+  "PresC": {
+    "1s": "grite",
+    "2s": "grites",
+    "3s": "grite",
+    "1p": "gritemos",
+    "2p": "griteis",
+    "3p": "gritem"
+  },
+  "PImpC": {
+    "1s": "gritasse",
+    "2s": "gritasses",
+    "3s": "gritasse",
+    "1p": "gritássemos",
+    "2p": "gritásseis",
+    "3p": "gritassem"
+  },
+  "FutSC": {
+    "1s": "gritar",
+    "2s": "gritares",
+    "3s": "gritar",
+    "1p": "gritarmos",
+    "2p": "gritardes",
+    "3p": "gritarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grita",
+    "3s": "grite",
+    "1p": "gritemos",
+    "2p": "gritai",
+    "3p": "gritem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não grites",
+    "3s": "não grite",
+    "1p": "não gritemos",
+    "2p": "não griteis",
+    "3p": "não gritem"
+  },
+  "Part-ter": {
+    "": "gritado"
+  },
+  "Part-ser": {
+    "ms": "gritado",
+    "fs": "gritada",
+    "mp": "gritados",
+    "fp": "gritadas"
+  }
+}

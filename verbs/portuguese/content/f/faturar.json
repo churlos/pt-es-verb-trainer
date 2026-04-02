@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "faturar"
+  },
+  "InfP": {
+    "1s": "faturar",
+    "2s": "faturares",
+    "3s": "faturar",
+    "1p": "faturarmos",
+    "2p": "faturardes",
+    "3p": "faturarem"
+  },
+  "Ger": {
+    "": "faturando"
+  },
+  "PresI": {
+    "1s": "faturo",
+    "2s": "faturas",
+    "3s": "fatura",
+    "1p": "faturamos",
+    "2p": "faturais",
+    "3p": "faturam"
+  },
+  "PImpI": {
+    "1s": "faturava",
+    "2s": "faturavas",
+    "3s": "faturava",
+    "1p": "faturávamos",
+    "2p": "faturáveis",
+    "3p": "faturavam"
+  },
+  "PPSI": {
+    "1s": "faturei",
+    "2s": "faturaste",
+    "3s": "faturou",
+    "1p": "faturámos",
+    "2p": "faturastes",
+    "3p": "faturaram"
+  },
+  "PMQPSI": {
+    "1s": "faturara",
+    "2s": "faturaras",
+    "3s": "faturara",
+    "1p": "faturáramos",
+    "2p": "faturáreis",
+    "3p": "faturaram"
+  },
+  "FutSI": {
+    "1s": "faturarei",
+    "2s": "faturarás",
+    "3s": "faturará",
+    "1p": "faturaremos",
+    "2p": "faturareis",
+    "3p": "faturarão"
+  },
+  "CondS": {
+    "1s": "faturaria",
+    "2s": "faturarias",
+    "3s": "faturaria",
+    "1p": "faturaríamos",
+    "2p": "faturaríeis",
+    "3p": "faturariam"
+  },
+  "PresC": {
+    "1s": "fature",
+    "2s": "fatures",
+    "3s": "fature",
+    "1p": "faturemos",
+    "2p": "fatureis",
+    "3p": "faturem"
+  },
+  "PImpC": {
+    "1s": "faturasse",
+    "2s": "faturasses",
+    "3s": "faturasse",
+    "1p": "faturássemos",
+    "2p": "faturásseis",
+    "3p": "faturassem"
+  },
+  "FutSC": {
+    "1s": "faturar",
+    "2s": "faturares",
+    "3s": "faturar",
+    "1p": "faturarmos",
+    "2p": "faturardes",
+    "3p": "faturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fatura",
+    "3s": "fature",
+    "1p": "faturemos",
+    "2p": "faturai",
+    "3p": "faturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fatures",
+    "3s": "não fature",
+    "1p": "não faturemos",
+    "2p": "não fatureis",
+    "3p": "não faturem"
+  },
+  "Part-ter": {
+    "": "faturado"
+  },
+  "Part-ser": {
+    "ms": "faturado",
+    "fs": "faturada",
+    "mp": "faturados",
+    "fp": "faturadas"
+  }
+}

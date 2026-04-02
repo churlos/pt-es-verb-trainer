@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "herrar"
+  },
+  "Ger": {
+    "": "herrando"
+  },
+  "PresI": {
+    "1s": "hierro",
+    "2s": "hierras",
+    "3s": "hierra",
+    "1p": "herramos",
+    "2p": "herráis",
+    "3p": "hierran"
+  },
+  "PImpI": {
+    "1s": "herraba",
+    "2s": "herrabas",
+    "3s": "herraba",
+    "1p": "herrábamos",
+    "2p": "herrabais",
+    "3p": "herraban"
+  },
+  "PPSI": {
+    "1s": "herré",
+    "2s": "herraste",
+    "3s": "herró",
+    "1p": "herramos",
+    "2p": "herrasteis",
+    "3p": "herraron"
+  },
+  "FutSI": {
+    "1s": "herraré",
+    "2s": "herrarás",
+    "3s": "herrará",
+    "1p": "herraremos",
+    "2p": "herraréis",
+    "3p": "herrarán"
+  },
+  "CondS": {
+    "1s": "herraría",
+    "2s": "herrarías",
+    "3s": "herraría",
+    "1p": "herraríamos",
+    "2p": "herraríais",
+    "3p": "herrarían"
+  },
+  "PresC": {
+    "1s": "hierre",
+    "2s": "hierres",
+    "3s": "hierre",
+    "1p": "herremos",
+    "2p": "herréis",
+    "3p": "hierren"
+  },
+  "PMQPSI": {
+    "1s": "herrara",
+    "2s": "herraras",
+    "3s": "herrara",
+    "1p": "herráramos",
+    "2p": "herrarais",
+    "3p": "herraran"
+  },
+  "PImpC": {
+    "1s": "herrase",
+    "2s": "herrases",
+    "3s": "herrase",
+    "1p": "herrásemos",
+    "2p": "herraseis",
+    "3p": "herrasen"
+  },
+  "FutSC": {
+    "1s": "herrare",
+    "2s": "herrares",
+    "3s": "herrare",
+    "1p": "herráremos",
+    "2p": "herrareis",
+    "3p": "herraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hierra",
+    "3s": "hierre",
+    "1p": "herremos",
+    "2p": "herrad",
+    "3p": "hierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hierres",
+    "3s": "no hierre",
+    "1p": "no herremos",
+    "2p": "no herréis",
+    "3p": "no hierren"
+  },
+  "Part-ter": {
+    "": "herrado"
+  },
+  "Part-ser": {
+    "ms": "herrado",
+    "fs": "herrada",
+    "mp": "herrados",
+    "fp": "herradas"
+  }
+}

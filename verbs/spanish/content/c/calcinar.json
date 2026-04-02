@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "calcinar"
+  },
+  "Ger": {
+    "": "calcinando"
+  },
+  "PresI": {
+    "1s": "calcino",
+    "2s": "calcinas",
+    "3s": "calcina",
+    "1p": "calcinamos",
+    "2p": "calcináis",
+    "3p": "calcinan"
+  },
+  "PImpI": {
+    "1s": "calcinaba",
+    "2s": "calcinabas",
+    "3s": "calcinaba",
+    "1p": "calcinábamos",
+    "2p": "calcinabais",
+    "3p": "calcinaban"
+  },
+  "PPSI": {
+    "1s": "calciné",
+    "2s": "calcinaste",
+    "3s": "calcinó",
+    "1p": "calcinamos",
+    "2p": "calcinasteis",
+    "3p": "calcinaron"
+  },
+  "FutSI": {
+    "1s": "calcinaré",
+    "2s": "calcinarás",
+    "3s": "calcinará",
+    "1p": "calcinaremos",
+    "2p": "calcinaréis",
+    "3p": "calcinarán"
+  },
+  "CondS": {
+    "1s": "calcinaría",
+    "2s": "calcinarías",
+    "3s": "calcinaría",
+    "1p": "calcinaríamos",
+    "2p": "calcinaríais",
+    "3p": "calcinarían"
+  },
+  "PresC": {
+    "1s": "calcine",
+    "2s": "calcines",
+    "3s": "calcine",
+    "1p": "calcinemos",
+    "2p": "calcinéis",
+    "3p": "calcinen"
+  },
+  "PMQPSI": {
+    "1s": "calcinara",
+    "2s": "calcinaras",
+    "3s": "calcinara",
+    "1p": "calcináramos",
+    "2p": "calcinarais",
+    "3p": "calcinaran"
+  },
+  "PImpC": {
+    "1s": "calcinase",
+    "2s": "calcinases",
+    "3s": "calcinase",
+    "1p": "calcinásemos",
+    "2p": "calcinaseis",
+    "3p": "calcinasen"
+  },
+  "FutSC": {
+    "1s": "calcinare",
+    "2s": "calcinares",
+    "3s": "calcinare",
+    "1p": "calcináremos",
+    "2p": "calcinareis",
+    "3p": "calcinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "calcina",
+    "3s": "calcine",
+    "1p": "calcinemos",
+    "2p": "calcinad",
+    "3p": "calcinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no calcines",
+    "3s": "no calcine",
+    "1p": "no calcinemos",
+    "2p": "no calcinéis",
+    "3p": "no calcinen"
+  },
+  "Part-ter": {
+    "": "calcinado"
+  },
+  "Part-ser": {
+    "ms": "calcinado",
+    "fs": "calcinada",
+    "mp": "calcinados",
+    "fp": "calcinadas"
+  }
+}

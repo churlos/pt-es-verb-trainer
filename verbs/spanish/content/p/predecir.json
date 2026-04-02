@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "predecir"
+  },
+  "Ger": {
+    "": "prediciendo"
+  },
+  "PresI": {
+    "1s": "predigo",
+    "2s": "predices",
+    "3s": "predice",
+    "1p": "predecimos",
+    "2p": "predecís",
+    "3p": "predicen"
+  },
+  "PImpI": {
+    "1s": "predecía",
+    "2s": "predecías",
+    "3s": "predecía",
+    "1p": "predecíamos",
+    "2p": "predecíais",
+    "3p": "predecían"
+  },
+  "PPSI": {
+    "1s": "predije",
+    "2s": "predijiste",
+    "3s": "predijo",
+    "1p": "predijimos",
+    "2p": "predijisteis",
+    "3p": "predijeron"
+  },
+  "FutSI": {
+    "1s": "predeciré, prediré",
+    "2s": "predecirás, predirás",
+    "3s": "predecirá, predirá",
+    "1p": "predeciremos, prediremos",
+    "2p": "predeciréis, prediréis",
+    "3p": "predecirán, predirán"
+  },
+  "CondS": {
+    "1s": "predeciría, prediría",
+    "2s": "predecirías, predirías",
+    "3s": "predeciría, prediría",
+    "1p": "predeciríamos, prediríamos",
+    "2p": "predeciríais, prediríais",
+    "3p": "predecirían, predirían"
+  },
+  "PresC": {
+    "1s": "prediga",
+    "2s": "predigas",
+    "3s": "prediga",
+    "1p": "predigamos",
+    "2p": "predigáis",
+    "3p": "predigan"
+  },
+  "PMQPSI": {
+    "1s": "predijera",
+    "2s": "predijeras",
+    "3s": "predijera",
+    "1p": "predijéramos",
+    "2p": "predijerais",
+    "3p": "predijeran"
+  },
+  "PImpC": {
+    "1s": "predijese",
+    "2s": "predijeses",
+    "3s": "predijese",
+    "1p": "predijésemos",
+    "2p": "predijeseis",
+    "3p": "predijesen"
+  },
+  "FutSC": {
+    "1s": "predijere",
+    "2s": "predijeres",
+    "3s": "predijere",
+    "1p": "predijéremos",
+    "2p": "predijereis",
+    "3p": "predijeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "predice",
+    "3s": "prediga",
+    "1p": "predigamos",
+    "2p": "predecid",
+    "3p": "predigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no predigas",
+    "3s": "no prediga",
+    "1p": "no predigamos",
+    "2p": "no predigáis",
+    "3p": "no predigan"
+  },
+  "Part-ter": {
+    "": "predicho"
+  },
+  "Part-ser": {
+    "ms": "predicho",
+    "fs": "predicha",
+    "mp": "predichos",
+    "fp": "predichas"
+  }
+}

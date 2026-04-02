@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "volatilizar"
+  },
+  "InfP": {
+    "1s": "volatilizar",
+    "2s": "volatilizares",
+    "3s": "volatilizar",
+    "1p": "volatilizarmos",
+    "2p": "volatilizardes",
+    "3p": "volatilizarem"
+  },
+  "Ger": {
+    "": "volatilizando"
+  },
+  "PresI": {
+    "1s": "volatilizo",
+    "2s": "volatilizas",
+    "3s": "volatiliza",
+    "1p": "volatilizamos",
+    "2p": "volatilizais",
+    "3p": "volatilizam"
+  },
+  "PImpI": {
+    "1s": "volatilizava",
+    "2s": "volatilizavas",
+    "3s": "volatilizava",
+    "1p": "volatilizávamos",
+    "2p": "volatilizáveis",
+    "3p": "volatilizavam"
+  },
+  "PPSI": {
+    "1s": "volatilizei",
+    "2s": "volatilizaste",
+    "3s": "volatilizou",
+    "1p": "volatilizámos",
+    "2p": "volatilizastes",
+    "3p": "volatilizaram"
+  },
+  "PMQPSI": {
+    "1s": "volatilizara",
+    "2s": "volatilizaras",
+    "3s": "volatilizara",
+    "1p": "volatilizáramos",
+    "2p": "volatilizáreis",
+    "3p": "volatilizaram"
+  },
+  "FutSI": {
+    "1s": "volatilizarei",
+    "2s": "volatilizarás",
+    "3s": "volatilizará",
+    "1p": "volatilizaremos",
+    "2p": "volatilizareis",
+    "3p": "volatilizarão"
+  },
+  "CondS": {
+    "1s": "volatilizaria",
+    "2s": "volatilizarias",
+    "3s": "volatilizaria",
+    "1p": "volatilizaríamos",
+    "2p": "volatilizaríeis",
+    "3p": "volatilizariam"
+  },
+  "PresC": {
+    "1s": "volatilize",
+    "2s": "volatilizes",
+    "3s": "volatilize",
+    "1p": "volatilizemos",
+    "2p": "volatilizeis",
+    "3p": "volatilizem"
+  },
+  "PImpC": {
+    "1s": "volatilizasse",
+    "2s": "volatilizasses",
+    "3s": "volatilizasse",
+    "1p": "volatilizássemos",
+    "2p": "volatilizásseis",
+    "3p": "volatilizassem"
+  },
+  "FutSC": {
+    "1s": "volatilizar",
+    "2s": "volatilizares",
+    "3s": "volatilizar",
+    "1p": "volatilizarmos",
+    "2p": "volatilizardes",
+    "3p": "volatilizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "volatiliza",
+    "3s": "volatilize",
+    "1p": "volatilizemos",
+    "2p": "volatilizai",
+    "3p": "volatilizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não volatilizes",
+    "3s": "não volatilize",
+    "1p": "não volatilizemos",
+    "2p": "não volatilizeis",
+    "3p": "não volatilizem"
+  },
+  "Part-ter": {
+    "": "volatilizado"
+  },
+  "Part-ser": {
+    "ms": "volatilizado",
+    "fs": "volatilizada",
+    "mp": "volatilizados",
+    "fp": "volatilizadas"
+  }
+}

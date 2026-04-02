@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "canonizar"
+  },
+  "Ger": {
+    "": "canonizando"
+  },
+  "PresI": {
+    "1s": "canonizo",
+    "2s": "canonizas",
+    "3s": "canoniza",
+    "1p": "canonizamos",
+    "2p": "canonizáis",
+    "3p": "canonizan"
+  },
+  "PImpI": {
+    "1s": "canonizaba",
+    "2s": "canonizabas",
+    "3s": "canonizaba",
+    "1p": "canonizábamos",
+    "2p": "canonizabais",
+    "3p": "canonizaban"
+  },
+  "PPSI": {
+    "1s": "canonicé",
+    "2s": "canonizaste",
+    "3s": "canonizó",
+    "1p": "canonizamos",
+    "2p": "canonizasteis",
+    "3p": "canonizaron"
+  },
+  "FutSI": {
+    "1s": "canonizaré",
+    "2s": "canonizarás",
+    "3s": "canonizará",
+    "1p": "canonizaremos",
+    "2p": "canonizaréis",
+    "3p": "canonizarán"
+  },
+  "CondS": {
+    "1s": "canonizaría",
+    "2s": "canonizarías",
+    "3s": "canonizaría",
+    "1p": "canonizaríamos",
+    "2p": "canonizaríais",
+    "3p": "canonizarían"
+  },
+  "PresC": {
+    "1s": "canonice",
+    "2s": "canonices",
+    "3s": "canonice",
+    "1p": "canonicemos",
+    "2p": "canonicéis",
+    "3p": "canonicen"
+  },
+  "PMQPSI": {
+    "1s": "canonizara",
+    "2s": "canonizaras",
+    "3s": "canonizara",
+    "1p": "canonizáramos",
+    "2p": "canonizarais",
+    "3p": "canonizaran"
+  },
+  "PImpC": {
+    "1s": "canonizase",
+    "2s": "canonizases",
+    "3s": "canonizase",
+    "1p": "canonizásemos",
+    "2p": "canonizaseis",
+    "3p": "canonizasen"
+  },
+  "FutSC": {
+    "1s": "canonizare",
+    "2s": "canonizares",
+    "3s": "canonizare",
+    "1p": "canonizáremos",
+    "2p": "canonizareis",
+    "3p": "canonizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "canoniza",
+    "3s": "canonice",
+    "1p": "canonicemos",
+    "2p": "canonizad",
+    "3p": "canonicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no canonices",
+    "3s": "no canonice",
+    "1p": "no canonicemos",
+    "2p": "no canonicéis",
+    "3p": "no canonicen"
+  },
+  "Part-ter": {
+    "": "canonizado"
+  },
+  "Part-ser": {
+    "ms": "canonizado",
+    "fs": "canonizada",
+    "mp": "canonizados",
+    "fp": "canonizadas"
+  }
+}

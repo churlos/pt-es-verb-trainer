@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "brincar"
+  },
+  "Ger": {
+    "": "brincando"
+  },
+  "PresI": {
+    "1s": "brinco",
+    "2s": "brincas",
+    "3s": "brinca",
+    "1p": "brincamos",
+    "2p": "brincáis",
+    "3p": "brincan"
+  },
+  "PImpI": {
+    "1s": "brincaba",
+    "2s": "brincabas",
+    "3s": "brincaba",
+    "1p": "brincábamos",
+    "2p": "brincabais",
+    "3p": "brincaban"
+  },
+  "PPSI": {
+    "1s": "brinqué",
+    "2s": "brincaste",
+    "3s": "brincó",
+    "1p": "brincamos",
+    "2p": "brincasteis",
+    "3p": "brincaron"
+  },
+  "FutSI": {
+    "1s": "brincaré",
+    "2s": "brincarás",
+    "3s": "brincará",
+    "1p": "brincaremos",
+    "2p": "brincaréis",
+    "3p": "brincarán"
+  },
+  "CondS": {
+    "1s": "brincaría",
+    "2s": "brincarías",
+    "3s": "brincaría",
+    "1p": "brincaríamos",
+    "2p": "brincaríais",
+    "3p": "brincarían"
+  },
+  "PresC": {
+    "1s": "brinque",
+    "2s": "brinques",
+    "3s": "brinque",
+    "1p": "brinquemos",
+    "2p": "brinquéis",
+    "3p": "brinquen"
+  },
+  "PMQPSI": {
+    "1s": "brincara",
+    "2s": "brincaras",
+    "3s": "brincara",
+    "1p": "brincáramos",
+    "2p": "brincarais",
+    "3p": "brincaran"
+  },
+  "PImpC": {
+    "1s": "brincase",
+    "2s": "brincases",
+    "3s": "brincase",
+    "1p": "brincásemos",
+    "2p": "brincaseis",
+    "3p": "brincasen"
+  },
+  "FutSC": {
+    "1s": "brincare",
+    "2s": "brincares",
+    "3s": "brincare",
+    "1p": "brincáremos",
+    "2p": "brincareis",
+    "3p": "brincaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "brinca",
+    "3s": "brinque",
+    "1p": "brinquemos",
+    "2p": "brincad",
+    "3p": "brinquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no brinques",
+    "3s": "no brinque",
+    "1p": "no brinquemos",
+    "2p": "no brinquéis",
+    "3p": "no brinquen"
+  },
+  "Part-ter": {
+    "": "brincado"
+  },
+  "Part-ser": {
+    "ms": "brincado",
+    "fs": "brincada",
+    "mp": "brincados",
+    "fp": "brincadas"
+  }
+}

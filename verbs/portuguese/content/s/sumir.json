@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sumir"
+  },
+  "InfP": {
+    "1s": "sumir",
+    "2s": "sumires",
+    "3s": "sumir",
+    "1p": "sumirmos",
+    "2p": "sumirdes",
+    "3p": "sumirem"
+  },
+  "Ger": {
+    "": "sumindo"
+  },
+  "PresI": {
+    "1s": "sumo",
+    "2s": "somes",
+    "3s": "some",
+    "1p": "sumimos",
+    "2p": "sumis",
+    "3p": "somem"
+  },
+  "PImpI": {
+    "1s": "sumia",
+    "2s": "sumias",
+    "3s": "sumia",
+    "1p": "sumíamos",
+    "2p": "sumíeis",
+    "3p": "sumiam"
+  },
+  "PPSI": {
+    "1s": "sumi",
+    "2s": "sumiste",
+    "3s": "sumiu",
+    "1p": "sumimos",
+    "2p": "sumistes",
+    "3p": "sumiram"
+  },
+  "PMQPSI": {
+    "1s": "sumira",
+    "2s": "sumiras",
+    "3s": "sumira",
+    "1p": "sumíramos",
+    "2p": "sumíreis",
+    "3p": "sumiram"
+  },
+  "FutSI": {
+    "1s": "sumirei",
+    "2s": "sumirás",
+    "3s": "sumirá",
+    "1p": "sumiremos",
+    "2p": "sumireis",
+    "3p": "sumirão"
+  },
+  "CondS": {
+    "1s": "sumiria",
+    "2s": "sumirias",
+    "3s": "sumiria",
+    "1p": "sumiríamos",
+    "2p": "sumiríeis",
+    "3p": "sumiriam"
+  },
+  "PresC": {
+    "1s": "suma",
+    "2s": "sumas",
+    "3s": "suma",
+    "1p": "sumamos",
+    "2p": "sumais",
+    "3p": "sumam"
+  },
+  "PImpC": {
+    "1s": "sumisse",
+    "2s": "sumisses",
+    "3s": "sumisse",
+    "1p": "sumíssemos",
+    "2p": "sumísseis",
+    "3p": "sumissem"
+  },
+  "FutSC": {
+    "1s": "sumir",
+    "2s": "sumires",
+    "3s": "sumir",
+    "1p": "sumirmos",
+    "2p": "sumirdes",
+    "3p": "sumirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "some",
+    "3s": "suma",
+    "1p": "sumamos",
+    "2p": "sumi",
+    "3p": "sumam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sumas",
+    "3s": "não suma",
+    "1p": "não sumamos",
+    "2p": "não sumais",
+    "3p": "não sumam"
+  },
+  "Part-ter": {
+    "": "sumido"
+  },
+  "Part-ser": {
+    "ms": "sumido",
+    "fs": "sumida",
+    "mp": "sumidos",
+    "fp": "sumidas"
+  }
+}

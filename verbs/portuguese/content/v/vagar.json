@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vagar"
+  },
+  "InfP": {
+    "1s": "vagar",
+    "2s": "vagares",
+    "3s": "vagar",
+    "1p": "vagarmos",
+    "2p": "vagardes",
+    "3p": "vagarem"
+  },
+  "Ger": {
+    "": "vagando"
+  },
+  "PresI": {
+    "1s": "vago",
+    "2s": "vagas",
+    "3s": "vaga",
+    "1p": "vagamos",
+    "2p": "vagais",
+    "3p": "vagam"
+  },
+  "PImpI": {
+    "1s": "vagava",
+    "2s": "vagavas",
+    "3s": "vagava",
+    "1p": "vagávamos",
+    "2p": "vagáveis",
+    "3p": "vagavam"
+  },
+  "PPSI": {
+    "1s": "vaguei",
+    "2s": "vagaste",
+    "3s": "vagou",
+    "1p": "vagámos",
+    "2p": "vagastes",
+    "3p": "vagaram"
+  },
+  "PMQPSI": {
+    "1s": "vagara",
+    "2s": "vagaras",
+    "3s": "vagara",
+    "1p": "vagáramos",
+    "2p": "vagáreis",
+    "3p": "vagaram"
+  },
+  "FutSI": {
+    "1s": "vagarei",
+    "2s": "vagarás",
+    "3s": "vagará",
+    "1p": "vagaremos",
+    "2p": "vagareis",
+    "3p": "vagarão"
+  },
+  "CondS": {
+    "1s": "vagaria",
+    "2s": "vagarias",
+    "3s": "vagaria",
+    "1p": "vagaríamos",
+    "2p": "vagaríeis",
+    "3p": "vagariam"
+  },
+  "PresC": {
+    "1s": "vague",
+    "2s": "vagues",
+    "3s": "vague",
+    "1p": "vaguemos",
+    "2p": "vagueis",
+    "3p": "vaguem"
+  },
+  "PImpC": {
+    "1s": "vagasse",
+    "2s": "vagasses",
+    "3s": "vagasse",
+    "1p": "vagássemos",
+    "2p": "vagásseis",
+    "3p": "vagassem"
+  },
+  "FutSC": {
+    "1s": "vagar",
+    "2s": "vagares",
+    "3s": "vagar",
+    "1p": "vagarmos",
+    "2p": "vagardes",
+    "3p": "vagarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vaga",
+    "3s": "vague",
+    "1p": "vaguemos",
+    "2p": "vagai",
+    "3p": "vaguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vagues",
+    "3s": "não vague",
+    "1p": "não vaguemos",
+    "2p": "não vagueis",
+    "3p": "não vaguem"
+  },
+  "Part-ter": {
+    "": "vagado"
+  },
+  "Part-ser": {
+    "ms": "vagado",
+    "fs": "vagada",
+    "mp": "vagados",
+    "fp": "vagadas"
+  }
+}

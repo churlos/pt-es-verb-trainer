@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "deber"
+  },
+  "Ger": {
+    "": "debiendo"
+  },
+  "PresI": {
+    "1s": "debo",
+    "2s": "debes",
+    "3s": "debe",
+    "1p": "debemos",
+    "2p": "debéis",
+    "3p": "deben"
+  },
+  "PImpI": {
+    "1s": "debía",
+    "2s": "debías",
+    "3s": "debía",
+    "1p": "debíamos",
+    "2p": "debíais",
+    "3p": "debían"
+  },
+  "PPSI": {
+    "1s": "debí",
+    "2s": "debiste",
+    "3s": "debió",
+    "1p": "debimos",
+    "2p": "debisteis",
+    "3p": "debieron"
+  },
+  "FutSI": {
+    "1s": "deberé",
+    "2s": "deberás",
+    "3s": "deberá",
+    "1p": "deberemos",
+    "2p": "deberéis",
+    "3p": "deberán"
+  },
+  "CondS": {
+    "1s": "debería",
+    "2s": "deberías",
+    "3s": "debería",
+    "1p": "deberíamos",
+    "2p": "deberíais",
+    "3p": "deberían"
+  },
+  "PresC": {
+    "1s": "deba",
+    "2s": "debas",
+    "3s": "deba",
+    "1p": "debamos",
+    "2p": "debáis",
+    "3p": "deban"
+  },
+  "PMQPSI": {
+    "1s": "debiera",
+    "2s": "debieras",
+    "3s": "debiera",
+    "1p": "debiéramos",
+    "2p": "debierais",
+    "3p": "debieran"
+  },
+  "PImpC": {
+    "1s": "debiese",
+    "2s": "debieses",
+    "3s": "debiese",
+    "1p": "debiésemos",
+    "2p": "debieseis",
+    "3p": "debiesen"
+  },
+  "FutSC": {
+    "1s": "debiere",
+    "2s": "debieres",
+    "3s": "debiere",
+    "1p": "debiéremos",
+    "2p": "debiereis",
+    "3p": "debieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "debe",
+    "3s": "deba",
+    "1p": "debamos",
+    "2p": "debed",
+    "3p": "deban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no debas",
+    "3s": "no deba",
+    "1p": "no debamos",
+    "2p": "no debáis",
+    "3p": "no deban"
+  },
+  "Part-ter": {
+    "": "debido"
+  },
+  "Part-ser": {
+    "ms": "debido",
+    "fs": "debida",
+    "mp": "debidos",
+    "fp": "debidas"
+  }
+}

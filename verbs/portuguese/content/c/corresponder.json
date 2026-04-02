@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "corresponder"
+  },
+  "InfP": {
+    "1s": "corresponder",
+    "2s": "corresponderes",
+    "3s": "corresponder",
+    "1p": "correspondermos",
+    "2p": "corresponderdes",
+    "3p": "corresponderem"
+  },
+  "Ger": {
+    "": "correspondendo"
+  },
+  "PresI": {
+    "1s": "correspondo",
+    "2s": "correspondes",
+    "3s": "corresponde",
+    "1p": "correspondemos",
+    "2p": "correspondeis",
+    "3p": "correspondem"
+  },
+  "PImpI": {
+    "1s": "correspondia",
+    "2s": "correspondias",
+    "3s": "correspondia",
+    "1p": "correspondíamos",
+    "2p": "correspondíeis",
+    "3p": "correspondiam"
+  },
+  "PPSI": {
+    "1s": "correspondi",
+    "2s": "correspondeste",
+    "3s": "correspondeu",
+    "1p": "correspondemos",
+    "2p": "correspondestes",
+    "3p": "corresponderam"
+  },
+  "PMQPSI": {
+    "1s": "correspondera",
+    "2s": "corresponderas",
+    "3s": "correspondera",
+    "1p": "correspondêramos",
+    "2p": "correspondêreis",
+    "3p": "corresponderam"
+  },
+  "FutSI": {
+    "1s": "corresponderei",
+    "2s": "corresponderás",
+    "3s": "corresponderá",
+    "1p": "corresponderemos",
+    "2p": "correspondereis",
+    "3p": "corresponderão"
+  },
+  "CondS": {
+    "1s": "corresponderia",
+    "2s": "corresponderias",
+    "3s": "corresponderia",
+    "1p": "corresponderíamos",
+    "2p": "corresponderíeis",
+    "3p": "corresponderiam"
+  },
+  "PresC": {
+    "1s": "corresponda",
+    "2s": "correspondas",
+    "3s": "corresponda",
+    "1p": "correspondamos",
+    "2p": "correspondais",
+    "3p": "correspondam"
+  },
+  "PImpC": {
+    "1s": "correspondesse",
+    "2s": "correspondesses",
+    "3s": "correspondesse",
+    "1p": "correspondêssemos",
+    "2p": "correspondêsseis",
+    "3p": "correspondessem"
+  },
+  "FutSC": {
+    "1s": "corresponder",
+    "2s": "corresponderes",
+    "3s": "corresponder",
+    "1p": "correspondermos",
+    "2p": "corresponderdes",
+    "3p": "corresponderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "corresponde",
+    "3s": "corresponda",
+    "1p": "correspondamos",
+    "2p": "correspondei",
+    "3p": "correspondam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não correspondas",
+    "3s": "não corresponda",
+    "1p": "não correspondamos",
+    "2p": "não correspondais",
+    "3p": "não correspondam"
+  },
+  "Part-ter": {
+    "": "correspondido"
+  },
+  "Part-ser": {
+    "ms": "correspondido",
+    "fs": "correspondida",
+    "mp": "correspondidos",
+    "fp": "correspondidas"
+  }
+}

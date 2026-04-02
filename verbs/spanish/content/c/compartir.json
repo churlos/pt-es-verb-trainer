@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "compartir"
+  },
+  "Ger": {
+    "": "compartiendo"
+  },
+  "PresI": {
+    "1s": "comparto",
+    "2s": "compartes",
+    "3s": "comparte",
+    "1p": "compartimos",
+    "2p": "compartís",
+    "3p": "comparten"
+  },
+  "PImpI": {
+    "1s": "compartía",
+    "2s": "compartías",
+    "3s": "compartía",
+    "1p": "compartíamos",
+    "2p": "compartíais",
+    "3p": "compartían"
+  },
+  "PPSI": {
+    "1s": "compartí",
+    "2s": "compartiste",
+    "3s": "compartió",
+    "1p": "compartimos",
+    "2p": "compartisteis",
+    "3p": "compartieron"
+  },
+  "FutSI": {
+    "1s": "compartiré",
+    "2s": "compartirás",
+    "3s": "compartirá",
+    "1p": "compartiremos",
+    "2p": "compartiréis",
+    "3p": "compartirán"
+  },
+  "CondS": {
+    "1s": "compartiría",
+    "2s": "compartirías",
+    "3s": "compartiría",
+    "1p": "compartiríamos",
+    "2p": "compartiríais",
+    "3p": "compartirían"
+  },
+  "PresC": {
+    "1s": "comparta",
+    "2s": "compartas",
+    "3s": "comparta",
+    "1p": "compartamos",
+    "2p": "compartáis",
+    "3p": "compartan"
+  },
+  "PMQPSI": {
+    "1s": "compartiera",
+    "2s": "compartieras",
+    "3s": "compartiera",
+    "1p": "compartiéramos",
+    "2p": "compartierais",
+    "3p": "compartieran"
+  },
+  "PImpC": {
+    "1s": "compartiese",
+    "2s": "compartieses",
+    "3s": "compartiese",
+    "1p": "compartiésemos",
+    "2p": "compartieseis",
+    "3p": "compartiesen"
+  },
+  "FutSC": {
+    "1s": "compartiere",
+    "2s": "compartieres",
+    "3s": "compartiere",
+    "1p": "compartiéremos",
+    "2p": "compartiereis",
+    "3p": "compartieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comparte",
+    "3s": "comparta",
+    "1p": "compartamos",
+    "2p": "compartid",
+    "3p": "compartan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no compartas",
+    "3s": "no comparta",
+    "1p": "no compartamos",
+    "2p": "no compartáis",
+    "3p": "no compartan"
+  },
+  "Part-ter": {
+    "": "compartido"
+  },
+  "Part-ser": {
+    "ms": "compartido",
+    "fs": "compartida",
+    "mp": "compartidos",
+    "fp": "compartidas"
+  }
+}

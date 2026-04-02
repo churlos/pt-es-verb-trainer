@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "detentar"
+  },
+  "Ger": {
+    "": "detentando"
+  },
+  "PresI": {
+    "1s": "detento",
+    "2s": "detentas",
+    "3s": "detenta",
+    "1p": "detentamos",
+    "2p": "detentáis",
+    "3p": "detentan"
+  },
+  "PImpI": {
+    "1s": "detentaba",
+    "2s": "detentabas",
+    "3s": "detentaba",
+    "1p": "detentábamos",
+    "2p": "detentabais",
+    "3p": "detentaban"
+  },
+  "PPSI": {
+    "1s": "detenté",
+    "2s": "detentaste",
+    "3s": "detentó",
+    "1p": "detentamos",
+    "2p": "detentasteis",
+    "3p": "detentaron"
+  },
+  "FutSI": {
+    "1s": "detentaré",
+    "2s": "detentarás",
+    "3s": "detentará",
+    "1p": "detentaremos",
+    "2p": "detentaréis",
+    "3p": "detentarán"
+  },
+  "CondS": {
+    "1s": "detentaría",
+    "2s": "detentarías",
+    "3s": "detentaría",
+    "1p": "detentaríamos",
+    "2p": "detentaríais",
+    "3p": "detentarían"
+  },
+  "PresC": {
+    "1s": "detente",
+    "2s": "detentes",
+    "3s": "detente",
+    "1p": "detentemos",
+    "2p": "detentéis",
+    "3p": "detenten"
+  },
+  "PMQPSI": {
+    "1s": "detentara",
+    "2s": "detentaras",
+    "3s": "detentara",
+    "1p": "detentáramos",
+    "2p": "detentarais",
+    "3p": "detentaran"
+  },
+  "PImpC": {
+    "1s": "detentase",
+    "2s": "detentases",
+    "3s": "detentase",
+    "1p": "detentásemos",
+    "2p": "detentaseis",
+    "3p": "detentasen"
+  },
+  "FutSC": {
+    "1s": "detentare",
+    "2s": "detentares",
+    "3s": "detentare",
+    "1p": "detentáremos",
+    "2p": "detentareis",
+    "3p": "detentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "detenta",
+    "3s": "detente",
+    "1p": "detentemos",
+    "2p": "detentad",
+    "3p": "detenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no detentes",
+    "3s": "no detente",
+    "1p": "no detentemos",
+    "2p": "no detentéis",
+    "3p": "no detenten"
+  },
+  "Part-ter": {
+    "": "detentado"
+  },
+  "Part-ser": {
+    "ms": "detentado",
+    "fs": "detentada",
+    "mp": "detentados",
+    "fp": "detentadas"
+  }
+}

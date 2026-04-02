@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "indexar"
+  },
+  "Ger": {
+    "": "indexando"
+  },
+  "PresI": {
+    "1s": "indexo",
+    "2s": "indexas",
+    "3s": "indexa",
+    "1p": "indexamos",
+    "2p": "indexáis",
+    "3p": "indexan"
+  },
+  "PImpI": {
+    "1s": "indexaba",
+    "2s": "indexabas",
+    "3s": "indexaba",
+    "1p": "indexábamos",
+    "2p": "indexabais",
+    "3p": "indexaban"
+  },
+  "PPSI": {
+    "1s": "indexé",
+    "2s": "indexaste",
+    "3s": "indexó",
+    "1p": "indexamos",
+    "2p": "indexasteis",
+    "3p": "indexaron"
+  },
+  "FutSI": {
+    "1s": "indexaré",
+    "2s": "indexarás",
+    "3s": "indexará",
+    "1p": "indexaremos",
+    "2p": "indexaréis",
+    "3p": "indexarán"
+  },
+  "CondS": {
+    "1s": "indexaría",
+    "2s": "indexarías",
+    "3s": "indexaría",
+    "1p": "indexaríamos",
+    "2p": "indexaríais",
+    "3p": "indexarían"
+  },
+  "PresC": {
+    "1s": "indexe",
+    "2s": "indexes",
+    "3s": "indexe",
+    "1p": "indexemos",
+    "2p": "indexéis",
+    "3p": "indexen"
+  },
+  "PMQPSI": {
+    "1s": "indexara",
+    "2s": "indexaras",
+    "3s": "indexara",
+    "1p": "indexáramos",
+    "2p": "indexarais",
+    "3p": "indexaran"
+  },
+  "PImpC": {
+    "1s": "indexase",
+    "2s": "indexases",
+    "3s": "indexase",
+    "1p": "indexásemos",
+    "2p": "indexaseis",
+    "3p": "indexasen"
+  },
+  "FutSC": {
+    "1s": "indexare",
+    "2s": "indexares",
+    "3s": "indexare",
+    "1p": "indexáremos",
+    "2p": "indexareis",
+    "3p": "indexaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "indexa",
+    "3s": "indexe",
+    "1p": "indexemos",
+    "2p": "indexad",
+    "3p": "indexen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no indexes",
+    "3s": "no indexe",
+    "1p": "no indexemos",
+    "2p": "no indexéis",
+    "3p": "no indexen"
+  },
+  "Part-ter": {
+    "": "indexado"
+  },
+  "Part-ser": {
+    "ms": "indexado",
+    "fs": "indexada",
+    "mp": "indexados",
+    "fp": "indexadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "electrificar"
+  },
+  "InfP": {
+    "1s": "electrificar",
+    "2s": "electrificares",
+    "3s": "electrificar",
+    "1p": "electrificarmos",
+    "2p": "electrificardes",
+    "3p": "electrificarem"
+  },
+  "Ger": {
+    "": "electrificando"
+  },
+  "PresI": {
+    "1s": "electrifico",
+    "2s": "electrificas",
+    "3s": "electrifica",
+    "1p": "electrificamos",
+    "2p": "electrificais",
+    "3p": "electrificam"
+  },
+  "PImpI": {
+    "1s": "electrificava",
+    "2s": "electrificavas",
+    "3s": "electrificava",
+    "1p": "electrificávamos",
+    "2p": "electrificáveis",
+    "3p": "electrificavam"
+  },
+  "PPSI": {
+    "1s": "electrificei",
+    "2s": "electrificaste",
+    "3s": "electrificou",
+    "1p": "electrificámos",
+    "2p": "electrificastes",
+    "3p": "electrificaram"
+  },
+  "PMQPSI": {
+    "1s": "electrificara",
+    "2s": "electrificaras",
+    "3s": "electrificara",
+    "1p": "electrificáramos",
+    "2p": "electrificáreis",
+    "3p": "electrificaram"
+  },
+  "FutSI": {
+    "1s": "electrificarei",
+    "2s": "electrificarás",
+    "3s": "electrificará",
+    "1p": "electrificaremos",
+    "2p": "electrificareis",
+    "3p": "electrificarão"
+  },
+  "CondS": {
+    "1s": "electrificaria",
+    "2s": "electrificarias",
+    "3s": "electrificaria",
+    "1p": "electrificaríamos",
+    "2p": "electrificaríeis",
+    "3p": "electrificariam"
+  },
+  "PresC": {
+    "1s": "electrifice",
+    "2s": "electrifices",
+    "3s": "electrifice",
+    "1p": "electrificemos",
+    "2p": "electrificeis",
+    "3p": "electrificem"
+  },
+  "PImpC": {
+    "1s": "electrificasse",
+    "2s": "electrificasses",
+    "3s": "electrificasse",
+    "1p": "electrificássemos",
+    "2p": "electrificásseis",
+    "3p": "electrificassem"
+  },
+  "FutSC": {
+    "1s": "electrificar",
+    "2s": "electrificares",
+    "3s": "electrificar",
+    "1p": "electrificarmos",
+    "2p": "electrificardes",
+    "3p": "electrificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "electrifica",
+    "3s": "electrifice",
+    "1p": "electrificemos",
+    "2p": "electrificai",
+    "3p": "electrificem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não electrifices",
+    "3s": "não electrifice",
+    "1p": "não electrificemos",
+    "2p": "não electrificeis",
+    "3p": "não electrificem"
+  },
+  "Part-ter": {
+    "": "electrificado"
+  },
+  "Part-ser": {
+    "ms": "electrificado",
+    "fs": "electrificada",
+    "mp": "electrificados",
+    "fp": "electrificadas"
+  }
+}

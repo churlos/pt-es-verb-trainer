@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "segmentar"
+  },
+  "InfP": {
+    "1s": "segmentar",
+    "2s": "segmentares",
+    "3s": "segmentar",
+    "1p": "segmentarmos",
+    "2p": "segmentardes",
+    "3p": "segmentarem"
+  },
+  "Ger": {
+    "": "segmentando"
+  },
+  "PresI": {
+    "1s": "segmento",
+    "2s": "segmentas",
+    "3s": "segmenta",
+    "1p": "segmentamos",
+    "2p": "segmentais",
+    "3p": "segmentam"
+  },
+  "PImpI": {
+    "1s": "segmentava",
+    "2s": "segmentavas",
+    "3s": "segmentava",
+    "1p": "segmentávamos",
+    "2p": "segmentáveis",
+    "3p": "segmentavam"
+  },
+  "PPSI": {
+    "1s": "segmentei",
+    "2s": "segmentaste",
+    "3s": "segmentou",
+    "1p": "segmentámos",
+    "2p": "segmentastes",
+    "3p": "segmentaram"
+  },
+  "PMQPSI": {
+    "1s": "segmentara",
+    "2s": "segmentaras",
+    "3s": "segmentara",
+    "1p": "segmentáramos",
+    "2p": "segmentáreis",
+    "3p": "segmentaram"
+  },
+  "FutSI": {
+    "1s": "segmentarei",
+    "2s": "segmentarás",
+    "3s": "segmentará",
+    "1p": "segmentaremos",
+    "2p": "segmentareis",
+    "3p": "segmentarão"
+  },
+  "CondS": {
+    "1s": "segmentaria",
+    "2s": "segmentarias",
+    "3s": "segmentaria",
+    "1p": "segmentaríamos",
+    "2p": "segmentaríeis",
+    "3p": "segmentariam"
+  },
+  "PresC": {
+    "1s": "segmente",
+    "2s": "segmentes",
+    "3s": "segmente",
+    "1p": "segmentemos",
+    "2p": "segmenteis",
+    "3p": "segmentem"
+  },
+  "PImpC": {
+    "1s": "segmentasse",
+    "2s": "segmentasses",
+    "3s": "segmentasse",
+    "1p": "segmentássemos",
+    "2p": "segmentásseis",
+    "3p": "segmentassem"
+  },
+  "FutSC": {
+    "1s": "segmentar",
+    "2s": "segmentares",
+    "3s": "segmentar",
+    "1p": "segmentarmos",
+    "2p": "segmentardes",
+    "3p": "segmentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "segmenta",
+    "3s": "segmente",
+    "1p": "segmentemos",
+    "2p": "segmentai",
+    "3p": "segmentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não segmentes",
+    "3s": "não segmente",
+    "1p": "não segmentemos",
+    "2p": "não segmenteis",
+    "3p": "não segmentem"
+  },
+  "Part-ter": {
+    "": "segmentado"
+  },
+  "Part-ser": {
+    "ms": "segmentado",
+    "fs": "segmentada",
+    "mp": "segmentados",
+    "fp": "segmentadas"
+  }
+}

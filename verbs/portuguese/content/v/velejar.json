@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "velejar"
+  },
+  "InfP": {
+    "1s": "velejar",
+    "2s": "velejares",
+    "3s": "velejar",
+    "1p": "velejarmos",
+    "2p": "velejardes",
+    "3p": "velejarem"
+  },
+  "Ger": {
+    "": "velejando"
+  },
+  "PresI": {
+    "1s": "velejo",
+    "2s": "velejas",
+    "3s": "veleja",
+    "1p": "velejamos",
+    "2p": "velejais",
+    "3p": "velejam"
+  },
+  "PImpI": {
+    "1s": "velejava",
+    "2s": "velejavas",
+    "3s": "velejava",
+    "1p": "velejávamos",
+    "2p": "velejáveis",
+    "3p": "velejavam"
+  },
+  "PPSI": {
+    "1s": "velejei",
+    "2s": "velejaste",
+    "3s": "velejou",
+    "1p": "velejámos",
+    "2p": "velejastes",
+    "3p": "velejaram"
+  },
+  "PMQPSI": {
+    "1s": "velejara",
+    "2s": "velejaras",
+    "3s": "velejara",
+    "1p": "velejáramos",
+    "2p": "velejáreis",
+    "3p": "velejaram"
+  },
+  "FutSI": {
+    "1s": "velejarei",
+    "2s": "velejarás",
+    "3s": "velejará",
+    "1p": "velejaremos",
+    "2p": "velejareis",
+    "3p": "velejarão"
+  },
+  "CondS": {
+    "1s": "velejaria",
+    "2s": "velejarias",
+    "3s": "velejaria",
+    "1p": "velejaríamos",
+    "2p": "velejaríeis",
+    "3p": "velejariam"
+  },
+  "PresC": {
+    "1s": "veleje",
+    "2s": "velejes",
+    "3s": "veleje",
+    "1p": "velejemos",
+    "2p": "velejeis",
+    "3p": "velejem"
+  },
+  "PImpC": {
+    "1s": "velejasse",
+    "2s": "velejasses",
+    "3s": "velejasse",
+    "1p": "velejássemos",
+    "2p": "velejásseis",
+    "3p": "velejassem"
+  },
+  "FutSC": {
+    "1s": "velejar",
+    "2s": "velejares",
+    "3s": "velejar",
+    "1p": "velejarmos",
+    "2p": "velejardes",
+    "3p": "velejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "veleja",
+    "3s": "veleje",
+    "1p": "velejemos",
+    "2p": "velejai",
+    "3p": "velejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não velejes",
+    "3s": "não veleje",
+    "1p": "não velejemos",
+    "2p": "não velejeis",
+    "3p": "não velejem"
+  },
+  "Part-ter": {
+    "": "velejado"
+  },
+  "Part-ser": {
+    "ms": "velejado",
+    "fs": "velejada",
+    "mp": "velejados",
+    "fp": "velejadas"
+  }
+}

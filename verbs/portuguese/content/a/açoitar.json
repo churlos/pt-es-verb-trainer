@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "açoitar"
+  },
+  "InfP": {
+    "1s": "açoitar",
+    "2s": "açoitares",
+    "3s": "açoitar",
+    "1p": "açoitarmos",
+    "2p": "açoitardes",
+    "3p": "açoitarem"
+  },
+  "Ger": {
+    "": "açoitando"
+  },
+  "PresI": {
+    "1s": "açoito",
+    "2s": "açoitas",
+    "3s": "açoita",
+    "1p": "açoitamos",
+    "2p": "açoitais",
+    "3p": "açoitam"
+  },
+  "PImpI": {
+    "1s": "açoitava",
+    "2s": "açoitavas",
+    "3s": "açoitava",
+    "1p": "açoitávamos",
+    "2p": "açoitáveis",
+    "3p": "açoitavam"
+  },
+  "PPSI": {
+    "1s": "açoitei",
+    "2s": "açoitaste",
+    "3s": "açoitou",
+    "1p": "açoitámos",
+    "2p": "açoitastes",
+    "3p": "açoitaram"
+  },
+  "PMQPSI": {
+    "1s": "açoitara",
+    "2s": "açoitaras",
+    "3s": "açoitara",
+    "1p": "açoitáramos",
+    "2p": "açoitáreis",
+    "3p": "açoitaram"
+  },
+  "FutSI": {
+    "1s": "açoitarei",
+    "2s": "açoitarás",
+    "3s": "açoitará",
+    "1p": "açoitaremos",
+    "2p": "açoitareis",
+    "3p": "açoitarão"
+  },
+  "CondS": {
+    "1s": "açoitaria",
+    "2s": "açoitarias",
+    "3s": "açoitaria",
+    "1p": "açoitaríamos",
+    "2p": "açoitaríeis",
+    "3p": "açoitariam"
+  },
+  "PresC": {
+    "1s": "açoite",
+    "2s": "açoites",
+    "3s": "açoite",
+    "1p": "açoitemos",
+    "2p": "açoiteis",
+    "3p": "açoitem"
+  },
+  "PImpC": {
+    "1s": "açoitasse",
+    "2s": "açoitasses",
+    "3s": "açoitasse",
+    "1p": "açoitássemos",
+    "2p": "açoitásseis",
+    "3p": "açoitassem"
+  },
+  "FutSC": {
+    "1s": "açoitar",
+    "2s": "açoitares",
+    "3s": "açoitar",
+    "1p": "açoitarmos",
+    "2p": "açoitardes",
+    "3p": "açoitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "açoita",
+    "3s": "açoite",
+    "1p": "açoitemos",
+    "2p": "açoitai",
+    "3p": "açoitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não açoites",
+    "3s": "não açoite",
+    "1p": "não açoitemos",
+    "2p": "não açoiteis",
+    "3p": "não açoitem"
+  },
+  "Part-ter": {
+    "": "açoitado"
+  },
+  "Part-ser": {
+    "ms": "açoitado",
+    "fs": "açoitada",
+    "mp": "açoitados",
+    "fp": "açoitadas"
+  }
+}

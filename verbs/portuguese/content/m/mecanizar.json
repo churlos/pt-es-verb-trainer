@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mecanizar"
+  },
+  "InfP": {
+    "1s": "mecanizar",
+    "2s": "mecanizares",
+    "3s": "mecanizar",
+    "1p": "mecanizarmos",
+    "2p": "mecanizardes",
+    "3p": "mecanizarem"
+  },
+  "Ger": {
+    "": "mecanizando"
+  },
+  "PresI": {
+    "1s": "mecanizo",
+    "2s": "mecanizas",
+    "3s": "mecaniza",
+    "1p": "mecanizamos",
+    "2p": "mecanizais",
+    "3p": "mecanizam"
+  },
+  "PImpI": {
+    "1s": "mecanizava",
+    "2s": "mecanizavas",
+    "3s": "mecanizava",
+    "1p": "mecanizávamos",
+    "2p": "mecanizáveis",
+    "3p": "mecanizavam"
+  },
+  "PPSI": {
+    "1s": "mecanizei",
+    "2s": "mecanizaste",
+    "3s": "mecanizou",
+    "1p": "mecanizámos",
+    "2p": "mecanizastes",
+    "3p": "mecanizaram"
+  },
+  "PMQPSI": {
+    "1s": "mecanizara",
+    "2s": "mecanizaras",
+    "3s": "mecanizara",
+    "1p": "mecanizáramos",
+    "2p": "mecanizáreis",
+    "3p": "mecanizaram"
+  },
+  "FutSI": {
+    "1s": "mecanizarei",
+    "2s": "mecanizarás",
+    "3s": "mecanizará",
+    "1p": "mecanizaremos",
+    "2p": "mecanizareis",
+    "3p": "mecanizarão"
+  },
+  "CondS": {
+    "1s": "mecanizaria",
+    "2s": "mecanizarias",
+    "3s": "mecanizaria",
+    "1p": "mecanizaríamos",
+    "2p": "mecanizaríeis",
+    "3p": "mecanizariam"
+  },
+  "PresC": {
+    "1s": "mecanize",
+    "2s": "mecanizes",
+    "3s": "mecanize",
+    "1p": "mecanizemos",
+    "2p": "mecanizeis",
+    "3p": "mecanizem"
+  },
+  "PImpC": {
+    "1s": "mecanizasse",
+    "2s": "mecanizasses",
+    "3s": "mecanizasse",
+    "1p": "mecanizássemos",
+    "2p": "mecanizásseis",
+    "3p": "mecanizassem"
+  },
+  "FutSC": {
+    "1s": "mecanizar",
+    "2s": "mecanizares",
+    "3s": "mecanizar",
+    "1p": "mecanizarmos",
+    "2p": "mecanizardes",
+    "3p": "mecanizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mecaniza",
+    "3s": "mecanize",
+    "1p": "mecanizemos",
+    "2p": "mecanizai",
+    "3p": "mecanizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mecanizes",
+    "3s": "não mecanize",
+    "1p": "não mecanizemos",
+    "2p": "não mecanizeis",
+    "3p": "não mecanizem"
+  },
+  "Part-ter": {
+    "": "mecanizado"
+  },
+  "Part-ser": {
+    "ms": "mecanizado",
+    "fs": "mecanizada",
+    "mp": "mecanizados",
+    "fp": "mecanizadas"
+  }
+}

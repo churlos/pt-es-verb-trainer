@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "soldar"
+  },
+  "Ger": {
+    "": "soldando"
+  },
+  "PresI": {
+    "1s": "sueldo",
+    "2s": "sueldas",
+    "3s": "suelda",
+    "1p": "soldamos",
+    "2p": "soldáis",
+    "3p": "sueldan"
+  },
+  "PImpI": {
+    "1s": "soldaba",
+    "2s": "soldabas",
+    "3s": "soldaba",
+    "1p": "soldábamos",
+    "2p": "soldabais",
+    "3p": "soldaban"
+  },
+  "PPSI": {
+    "1s": "soldé",
+    "2s": "soldaste",
+    "3s": "soldó",
+    "1p": "soldamos",
+    "2p": "soldasteis",
+    "3p": "soldaron"
+  },
+  "FutSI": {
+    "1s": "soldaré",
+    "2s": "soldarás",
+    "3s": "soldará",
+    "1p": "soldaremos",
+    "2p": "soldaréis",
+    "3p": "soldarán"
+  },
+  "CondS": {
+    "1s": "soldaría",
+    "2s": "soldarías",
+    "3s": "soldaría",
+    "1p": "soldaríamos",
+    "2p": "soldaríais",
+    "3p": "soldarían"
+  },
+  "PresC": {
+    "1s": "suelde",
+    "2s": "sueldes",
+    "3s": "suelde",
+    "1p": "soldemos",
+    "2p": "soldéis",
+    "3p": "suelden"
+  },
+  "PMQPSI": {
+    "1s": "soldara",
+    "2s": "soldaras",
+    "3s": "soldara",
+    "1p": "soldáramos",
+    "2p": "soldarais",
+    "3p": "soldaran"
+  },
+  "PImpC": {
+    "1s": "soldase",
+    "2s": "soldases",
+    "3s": "soldase",
+    "1p": "soldásemos",
+    "2p": "soldaseis",
+    "3p": "soldasen"
+  },
+  "FutSC": {
+    "1s": "soldare",
+    "2s": "soldares",
+    "3s": "soldare",
+    "1p": "soldáremos",
+    "2p": "soldareis",
+    "3p": "soldaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suelda",
+    "3s": "suelde",
+    "1p": "soldemos",
+    "2p": "soldad",
+    "3p": "suelden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no sueldes",
+    "3s": "no suelde",
+    "1p": "no soldemos",
+    "2p": "no soldéis",
+    "3p": "no suelden"
+  },
+  "Part-ter": {
+    "": "soldado"
+  },
+  "Part-ser": {
+    "ms": "soldado",
+    "fs": "soldada",
+    "mp": "soldados",
+    "fp": "soldadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "vacar"
+  },
+  "Ger": {
+    "": "vacando"
+  },
+  "PresI": {
+    "1s": "vaco",
+    "2s": "vacas",
+    "3s": "vaca",
+    "1p": "vacamos",
+    "2p": "vacáis",
+    "3p": "vacan"
+  },
+  "PImpI": {
+    "1s": "vacaba",
+    "2s": "vacabas",
+    "3s": "vacaba",
+    "1p": "vacábamos",
+    "2p": "vacabais",
+    "3p": "vacaban"
+  },
+  "PPSI": {
+    "1s": "vaqué",
+    "2s": "vacaste",
+    "3s": "vacó",
+    "1p": "vacamos",
+    "2p": "vacasteis",
+    "3p": "vacaron"
+  },
+  "FutSI": {
+    "1s": "vacaré",
+    "2s": "vacarás",
+    "3s": "vacará",
+    "1p": "vacaremos",
+    "2p": "vacaréis",
+    "3p": "vacarán"
+  },
+  "CondS": {
+    "1s": "vacaría",
+    "2s": "vacarías",
+    "3s": "vacaría",
+    "1p": "vacaríamos",
+    "2p": "vacaríais",
+    "3p": "vacarían"
+  },
+  "PresC": {
+    "1s": "vaque",
+    "2s": "vaques",
+    "3s": "vaque",
+    "1p": "vaquemos",
+    "2p": "vaquéis",
+    "3p": "vaquen"
+  },
+  "PMQPSI": {
+    "1s": "vacara",
+    "2s": "vacaras",
+    "3s": "vacara",
+    "1p": "vacáramos",
+    "2p": "vacarais",
+    "3p": "vacaran"
+  },
+  "PImpC": {
+    "1s": "vacase",
+    "2s": "vacases",
+    "3s": "vacase",
+    "1p": "vacásemos",
+    "2p": "vacaseis",
+    "3p": "vacasen"
+  },
+  "FutSC": {
+    "1s": "vacare",
+    "2s": "vacares",
+    "3s": "vacare",
+    "1p": "vacáremos",
+    "2p": "vacareis",
+    "3p": "vacaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vaca",
+    "3s": "vaque",
+    "1p": "vaquemos",
+    "2p": "vacad",
+    "3p": "vaquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vaques",
+    "3s": "no vaque",
+    "1p": "no vaquemos",
+    "2p": "no vaquéis",
+    "3p": "no vaquen"
+  },
+  "Part-ter": {
+    "": "vacado"
+  },
+  "Part-ser": {
+    "ms": "vacado",
+    "fs": "vacada",
+    "mp": "vacados",
+    "fp": "vacadas"
+  }
+}

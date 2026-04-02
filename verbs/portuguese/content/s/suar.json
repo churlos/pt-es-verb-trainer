@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "suar"
+  },
+  "InfP": {
+    "1s": "suar",
+    "2s": "suares",
+    "3s": "suar",
+    "1p": "suarmos",
+    "2p": "suardes",
+    "3p": "suarem"
+  },
+  "Ger": {
+    "": "suando"
+  },
+  "PresI": {
+    "1s": "suo",
+    "2s": "suas",
+    "3s": "sua",
+    "1p": "suamos",
+    "2p": "suais",
+    "3p": "suam"
+  },
+  "PImpI": {
+    "1s": "suava",
+    "2s": "suavas",
+    "3s": "suava",
+    "1p": "suávamos",
+    "2p": "suáveis",
+    "3p": "suavam"
+  },
+  "PPSI": {
+    "1s": "suei",
+    "2s": "suaste",
+    "3s": "suou",
+    "1p": "suámos",
+    "2p": "suastes",
+    "3p": "suaram"
+  },
+  "PMQPSI": {
+    "1s": "suara",
+    "2s": "suaras",
+    "3s": "suara",
+    "1p": "suáramos",
+    "2p": "suáreis",
+    "3p": "suaram"
+  },
+  "FutSI": {
+    "1s": "suarei",
+    "2s": "suarás",
+    "3s": "suará",
+    "1p": "suaremos",
+    "2p": "suareis",
+    "3p": "suarão"
+  },
+  "CondS": {
+    "1s": "suaria",
+    "2s": "suarias",
+    "3s": "suaria",
+    "1p": "suaríamos",
+    "2p": "suaríeis",
+    "3p": "suariam"
+  },
+  "PresC": {
+    "1s": "sue",
+    "2s": "sues",
+    "3s": "sue",
+    "1p": "suemos",
+    "2p": "sueis",
+    "3p": "suem"
+  },
+  "PImpC": {
+    "1s": "suasse",
+    "2s": "suasses",
+    "3s": "suasse",
+    "1p": "suássemos",
+    "2p": "suásseis",
+    "3p": "suassem"
+  },
+  "FutSC": {
+    "1s": "suar",
+    "2s": "suares",
+    "3s": "suar",
+    "1p": "suarmos",
+    "2p": "suardes",
+    "3p": "suarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sua",
+    "3s": "sue",
+    "1p": "suemos",
+    "2p": "suai",
+    "3p": "suem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sues",
+    "3s": "não sue",
+    "1p": "não suemos",
+    "2p": "não sueis",
+    "3p": "não suem"
+  },
+  "Part-ter": {
+    "": "suado"
+  },
+  "Part-ser": {
+    "ms": "suado",
+    "fs": "suada",
+    "mp": "suados",
+    "fp": "suadas"
+  }
+}

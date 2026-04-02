@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subvenir"
+  },
+  "Ger": {
+    "": "subviniendo"
+  },
+  "PresI": {
+    "1s": "subvengo",
+    "2s": "subvienes",
+    "3s": "subviene",
+    "1p": "subvenimos",
+    "2p": "subvenís",
+    "3p": "subvienen"
+  },
+  "PImpI": {
+    "1s": "subvenía",
+    "2s": "subvenías",
+    "3s": "subvenía",
+    "1p": "subveníamos",
+    "2p": "subveníais",
+    "3p": "subvenían"
+  },
+  "PPSI": {
+    "1s": "subvine",
+    "2s": "subviniste",
+    "3s": "subvino",
+    "1p": "subvinimos",
+    "2p": "subvinisteis",
+    "3p": "subvinieron"
+  },
+  "FutSI": {
+    "1s": "subvendré",
+    "2s": "subvendrás",
+    "3s": "subvendrá",
+    "1p": "subvendremos",
+    "2p": "subvendréis",
+    "3p": "subvendrán"
+  },
+  "CondS": {
+    "1s": "subvendría",
+    "2s": "subvendrías",
+    "3s": "subvendría",
+    "1p": "subvendríamos",
+    "2p": "subvendríais",
+    "3p": "subvendrían"
+  },
+  "PresC": {
+    "1s": "subvenga",
+    "2s": "subvengas",
+    "3s": "subvenga",
+    "1p": "subvengamos",
+    "2p": "subvengáis",
+    "3p": "subvengan"
+  },
+  "PMQPSI": {
+    "1s": "subviniera",
+    "2s": "subvinieras",
+    "3s": "subviniera",
+    "1p": "subviniéramos",
+    "2p": "subvinierais",
+    "3p": "subvinieran"
+  },
+  "PImpC": {
+    "1s": "subviniese",
+    "2s": "subvinieses",
+    "3s": "subviniese",
+    "1p": "subviniésemos",
+    "2p": "subvinieseis",
+    "3p": "subviniesen"
+  },
+  "FutSC": {
+    "1s": "subviniere",
+    "2s": "subvinieres",
+    "3s": "subviniere",
+    "1p": "subviniéremos",
+    "2p": "subviniereis",
+    "3p": "subvinieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "subvén",
+    "3s": "subvenga",
+    "1p": "subvengamos",
+    "2p": "subvenid",
+    "3p": "subvengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subvengas",
+    "3s": "no subvenga",
+    "1p": "no subvengamos",
+    "2p": "no subvengáis",
+    "3p": "no subvengan"
+  },
+  "Part-ter": {
+    "": "subvenido"
+  },
+  "Part-ser": {
+    "ms": "subvenido",
+    "fs": "subvenida",
+    "mp": "subvenidos",
+    "fp": "subvenidas"
+  }
+}

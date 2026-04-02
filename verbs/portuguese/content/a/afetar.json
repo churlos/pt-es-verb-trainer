@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "afetar"
+  },
+  "InfP": {
+    "1s": "afetar",
+    "2s": "afetares",
+    "3s": "afetar",
+    "1p": "afetarmos",
+    "2p": "afetardes",
+    "3p": "afetarem"
+  },
+  "Ger": {
+    "": "afetando"
+  },
+  "PresI": {
+    "1s": "afeto",
+    "2s": "afetas",
+    "3s": "afeta",
+    "1p": "afetamos",
+    "2p": "afetais",
+    "3p": "afetam"
+  },
+  "PImpI": {
+    "1s": "afetava",
+    "2s": "afetavas",
+    "3s": "afetava",
+    "1p": "afetávamos",
+    "2p": "afetáveis",
+    "3p": "afetavam"
+  },
+  "PPSI": {
+    "1s": "afetei",
+    "2s": "afetaste",
+    "3s": "afetou",
+    "1p": "afetámos",
+    "2p": "afetastes",
+    "3p": "afetaram"
+  },
+  "PMQPSI": {
+    "1s": "afetara",
+    "2s": "afetaras",
+    "3s": "afetara",
+    "1p": "afetáramos",
+    "2p": "afetáreis",
+    "3p": "afetaram"
+  },
+  "FutSI": {
+    "1s": "afetarei",
+    "2s": "afetarás",
+    "3s": "afetará",
+    "1p": "afetaremos",
+    "2p": "afetareis",
+    "3p": "afetarão"
+  },
+  "CondS": {
+    "1s": "afetaria",
+    "2s": "afetarias",
+    "3s": "afetaria",
+    "1p": "afetaríamos",
+    "2p": "afetaríeis",
+    "3p": "afetariam"
+  },
+  "PresC": {
+    "1s": "afete",
+    "2s": "afetes",
+    "3s": "afete",
+    "1p": "afetemos",
+    "2p": "afeteis",
+    "3p": "afetem"
+  },
+  "PImpC": {
+    "1s": "afetasse",
+    "2s": "afetasses",
+    "3s": "afetasse",
+    "1p": "afetássemos",
+    "2p": "afetásseis",
+    "3p": "afetassem"
+  },
+  "FutSC": {
+    "1s": "afetar",
+    "2s": "afetares",
+    "3s": "afetar",
+    "1p": "afetarmos",
+    "2p": "afetardes",
+    "3p": "afetarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "afeta",
+    "3s": "afete",
+    "1p": "afetemos",
+    "2p": "afetai",
+    "3p": "afetem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não afetes",
+    "3s": "não afete",
+    "1p": "não afetemos",
+    "2p": "não afeteis",
+    "3p": "não afetem"
+  },
+  "Part-ter": {
+    "": "afetado"
+  },
+  "Part-ser": {
+    "ms": "afetado",
+    "fs": "afetada",
+    "mp": "afetados",
+    "fp": "afetadas"
+  }
+}

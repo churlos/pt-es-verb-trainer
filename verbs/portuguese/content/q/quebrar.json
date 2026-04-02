@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "quebrar"
+  },
+  "InfP": {
+    "1s": "quebrar",
+    "2s": "quebrares",
+    "3s": "quebrar",
+    "1p": "quebrarmos",
+    "2p": "quebrardes",
+    "3p": "quebrarem"
+  },
+  "Ger": {
+    "": "quebrando"
+  },
+  "PresI": {
+    "1s": "quebro",
+    "2s": "quebras",
+    "3s": "quebra",
+    "1p": "quebramos",
+    "2p": "quebrais",
+    "3p": "quebram"
+  },
+  "PImpI": {
+    "1s": "quebrava",
+    "2s": "quebravas",
+    "3s": "quebrava",
+    "1p": "quebrávamos",
+    "2p": "quebráveis",
+    "3p": "quebravam"
+  },
+  "PPSI": {
+    "1s": "quebrei",
+    "2s": "quebraste",
+    "3s": "quebrou",
+    "1p": "quebrámos",
+    "2p": "quebrastes",
+    "3p": "quebraram"
+  },
+  "PMQPSI": {
+    "1s": "quebrara",
+    "2s": "quebraras",
+    "3s": "quebrara",
+    "1p": "quebráramos",
+    "2p": "quebráreis",
+    "3p": "quebraram"
+  },
+  "FutSI": {
+    "1s": "quebrarei",
+    "2s": "quebrarás",
+    "3s": "quebrará",
+    "1p": "quebraremos",
+    "2p": "quebrareis",
+    "3p": "quebrarão"
+  },
+  "CondS": {
+    "1s": "quebraria",
+    "2s": "quebrarias",
+    "3s": "quebraria",
+    "1p": "quebraríamos",
+    "2p": "quebraríeis",
+    "3p": "quebrariam"
+  },
+  "PresC": {
+    "1s": "quebre",
+    "2s": "quebres",
+    "3s": "quebre",
+    "1p": "quebremos",
+    "2p": "quebreis",
+    "3p": "quebrem"
+  },
+  "PImpC": {
+    "1s": "quebrasse",
+    "2s": "quebrasses",
+    "3s": "quebrasse",
+    "1p": "quebrássemos",
+    "2p": "quebrásseis",
+    "3p": "quebrassem"
+  },
+  "FutSC": {
+    "1s": "quebrar",
+    "2s": "quebrares",
+    "3s": "quebrar",
+    "1p": "quebrarmos",
+    "2p": "quebrardes",
+    "3p": "quebrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "quebra",
+    "3s": "quebre",
+    "1p": "quebremos",
+    "2p": "quebrai",
+    "3p": "quebrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não quebres",
+    "3s": "não quebre",
+    "1p": "não quebremos",
+    "2p": "não quebreis",
+    "3p": "não quebrem"
+  },
+  "Part-ter": {
+    "": "quebrado"
+  },
+  "Part-ser": {
+    "ms": "quebrado",
+    "fs": "quebrada",
+    "mp": "quebrados",
+    "fp": "quebradas"
+  }
+}

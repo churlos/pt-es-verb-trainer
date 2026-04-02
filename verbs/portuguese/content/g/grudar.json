@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "grudar"
+  },
+  "InfP": {
+    "1s": "grudar",
+    "2s": "grudares",
+    "3s": "grudar",
+    "1p": "grudarmos",
+    "2p": "grudardes",
+    "3p": "grudarem"
+  },
+  "Ger": {
+    "": "grudando"
+  },
+  "PresI": {
+    "1s": "grudo",
+    "2s": "grudas",
+    "3s": "gruda",
+    "1p": "grudamos",
+    "2p": "grudais",
+    "3p": "grudam"
+  },
+  "PImpI": {
+    "1s": "grudava",
+    "2s": "grudavas",
+    "3s": "grudava",
+    "1p": "grudávamos",
+    "2p": "grudáveis",
+    "3p": "grudavam"
+  },
+  "PPSI": {
+    "1s": "grudei",
+    "2s": "grudaste",
+    "3s": "grudou",
+    "1p": "grudámos",
+    "2p": "grudastes",
+    "3p": "grudaram"
+  },
+  "PMQPSI": {
+    "1s": "grudara",
+    "2s": "grudaras",
+    "3s": "grudara",
+    "1p": "grudáramos",
+    "2p": "grudáreis",
+    "3p": "grudaram"
+  },
+  "FutSI": {
+    "1s": "grudarei",
+    "2s": "grudarás",
+    "3s": "grudará",
+    "1p": "grudaremos",
+    "2p": "grudareis",
+    "3p": "grudarão"
+  },
+  "CondS": {
+    "1s": "grudaria",
+    "2s": "grudarias",
+    "3s": "grudaria",
+    "1p": "grudaríamos",
+    "2p": "grudaríeis",
+    "3p": "grudariam"
+  },
+  "PresC": {
+    "1s": "grude",
+    "2s": "grudes",
+    "3s": "grude",
+    "1p": "grudemos",
+    "2p": "grudeis",
+    "3p": "grudem"
+  },
+  "PImpC": {
+    "1s": "grudasse",
+    "2s": "grudasses",
+    "3s": "grudasse",
+    "1p": "grudássemos",
+    "2p": "grudásseis",
+    "3p": "grudassem"
+  },
+  "FutSC": {
+    "1s": "grudar",
+    "2s": "grudares",
+    "3s": "grudar",
+    "1p": "grudarmos",
+    "2p": "grudardes",
+    "3p": "grudarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gruda",
+    "3s": "grude",
+    "1p": "grudemos",
+    "2p": "grudai",
+    "3p": "grudem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não grudes",
+    "3s": "não grude",
+    "1p": "não grudemos",
+    "2p": "não grudeis",
+    "3p": "não grudem"
+  },
+  "Part-ter": {
+    "": "grudado"
+  },
+  "Part-ser": {
+    "ms": "grudado",
+    "fs": "grudada",
+    "mp": "grudados",
+    "fp": "grudadas"
+  }
+}

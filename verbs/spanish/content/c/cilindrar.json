@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cilindrar"
+  },
+  "Ger": {
+    "": "cilindrando"
+  },
+  "PresI": {
+    "1s": "cilindro",
+    "2s": "cilindras",
+    "3s": "cilindra",
+    "1p": "cilindramos",
+    "2p": "cilindráis",
+    "3p": "cilindran"
+  },
+  "PImpI": {
+    "1s": "cilindraba",
+    "2s": "cilindrabas",
+    "3s": "cilindraba",
+    "1p": "cilindrábamos",
+    "2p": "cilindrabais",
+    "3p": "cilindraban"
+  },
+  "PPSI": {
+    "1s": "cilindré",
+    "2s": "cilindraste",
+    "3s": "cilindró",
+    "1p": "cilindramos",
+    "2p": "cilindrasteis",
+    "3p": "cilindraron"
+  },
+  "FutSI": {
+    "1s": "cilindraré",
+    "2s": "cilindrarás",
+    "3s": "cilindrará",
+    "1p": "cilindraremos",
+    "2p": "cilindraréis",
+    "3p": "cilindrarán"
+  },
+  "CondS": {
+    "1s": "cilindraría",
+    "2s": "cilindrarías",
+    "3s": "cilindraría",
+    "1p": "cilindraríamos",
+    "2p": "cilindraríais",
+    "3p": "cilindrarían"
+  },
+  "PresC": {
+    "1s": "cilindre",
+    "2s": "cilindres",
+    "3s": "cilindre",
+    "1p": "cilindremos",
+    "2p": "cilindréis",
+    "3p": "cilindren"
+  },
+  "PMQPSI": {
+    "1s": "cilindrara",
+    "2s": "cilindraras",
+    "3s": "cilindrara",
+    "1p": "cilindráramos",
+    "2p": "cilindrarais",
+    "3p": "cilindraran"
+  },
+  "PImpC": {
+    "1s": "cilindrase",
+    "2s": "cilindrases",
+    "3s": "cilindrase",
+    "1p": "cilindrásemos",
+    "2p": "cilindraseis",
+    "3p": "cilindrasen"
+  },
+  "FutSC": {
+    "1s": "cilindrare",
+    "2s": "cilindrares",
+    "3s": "cilindrare",
+    "1p": "cilindráremos",
+    "2p": "cilindrareis",
+    "3p": "cilindraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cilindra",
+    "3s": "cilindre",
+    "1p": "cilindremos",
+    "2p": "cilindrad",
+    "3p": "cilindren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cilindres",
+    "3s": "no cilindre",
+    "1p": "no cilindremos",
+    "2p": "no cilindréis",
+    "3p": "no cilindren"
+  },
+  "Part-ter": {
+    "": "cilindrado"
+  },
+  "Part-ser": {
+    "ms": "cilindrado",
+    "fs": "cilindrada",
+    "mp": "cilindrados",
+    "fp": "cilindradas"
+  }
+}

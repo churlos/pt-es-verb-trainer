@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escrutar"
+  },
+  "Ger": {
+    "": "escrutando"
+  },
+  "PresI": {
+    "1s": "escruto",
+    "2s": "escrutas",
+    "3s": "escruta",
+    "1p": "escrutamos",
+    "2p": "escrutáis",
+    "3p": "escrutan"
+  },
+  "PImpI": {
+    "1s": "escrutaba",
+    "2s": "escrutabas",
+    "3s": "escrutaba",
+    "1p": "escrutábamos",
+    "2p": "escrutabais",
+    "3p": "escrutaban"
+  },
+  "PPSI": {
+    "1s": "escruté",
+    "2s": "escrutaste",
+    "3s": "escrutó",
+    "1p": "escrutamos",
+    "2p": "escrutasteis",
+    "3p": "escrutaron"
+  },
+  "FutSI": {
+    "1s": "escrutaré",
+    "2s": "escrutarás",
+    "3s": "escrutará",
+    "1p": "escrutaremos",
+    "2p": "escrutaréis",
+    "3p": "escrutarán"
+  },
+  "CondS": {
+    "1s": "escrutaría",
+    "2s": "escrutarías",
+    "3s": "escrutaría",
+    "1p": "escrutaríamos",
+    "2p": "escrutaríais",
+    "3p": "escrutarían"
+  },
+  "PresC": {
+    "1s": "escrute",
+    "2s": "escrutes",
+    "3s": "escrute",
+    "1p": "escrutemos",
+    "2p": "escrutéis",
+    "3p": "escruten"
+  },
+  "PMQPSI": {
+    "1s": "escrutara",
+    "2s": "escrutaras",
+    "3s": "escrutara",
+    "1p": "escrutáramos",
+    "2p": "escrutarais",
+    "3p": "escrutaran"
+  },
+  "PImpC": {
+    "1s": "escrutase",
+    "2s": "escrutases",
+    "3s": "escrutase",
+    "1p": "escrutásemos",
+    "2p": "escrutaseis",
+    "3p": "escrutasen"
+  },
+  "FutSC": {
+    "1s": "escrutare",
+    "2s": "escrutares",
+    "3s": "escrutare",
+    "1p": "escrutáremos",
+    "2p": "escrutareis",
+    "3p": "escrutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escruta",
+    "3s": "escrute",
+    "1p": "escrutemos",
+    "2p": "escrutad",
+    "3p": "escruten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escrutes",
+    "3s": "no escrute",
+    "1p": "no escrutemos",
+    "2p": "no escrutéis",
+    "3p": "no escruten"
+  },
+  "Part-ter": {
+    "": "escrutado"
+  },
+  "Part-ser": {
+    "ms": "escrutado",
+    "fs": "escrutada",
+    "mp": "escrutados",
+    "fp": "escrutadas"
+  }
+}

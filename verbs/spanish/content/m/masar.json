@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "masar"
+  },
+  "Ger": {
+    "": "masando"
+  },
+  "PresI": {
+    "1s": "maso",
+    "2s": "masas",
+    "3s": "masa",
+    "1p": "masamos",
+    "2p": "masáis",
+    "3p": "masan"
+  },
+  "PImpI": {
+    "1s": "masaba",
+    "2s": "masabas",
+    "3s": "masaba",
+    "1p": "masábamos",
+    "2p": "masabais",
+    "3p": "masaban"
+  },
+  "PPSI": {
+    "1s": "masé",
+    "2s": "masaste",
+    "3s": "masó",
+    "1p": "masamos",
+    "2p": "masasteis",
+    "3p": "masaron"
+  },
+  "FutSI": {
+    "1s": "masaré",
+    "2s": "masarás",
+    "3s": "masará",
+    "1p": "masaremos",
+    "2p": "masaréis",
+    "3p": "masarán"
+  },
+  "CondS": {
+    "1s": "masaría",
+    "2s": "masarías",
+    "3s": "masaría",
+    "1p": "masaríamos",
+    "2p": "masaríais",
+    "3p": "masarían"
+  },
+  "PresC": {
+    "1s": "mase",
+    "2s": "mases",
+    "3s": "mase",
+    "1p": "masemos",
+    "2p": "maséis",
+    "3p": "masen"
+  },
+  "PMQPSI": {
+    "1s": "masara",
+    "2s": "masaras",
+    "3s": "masara",
+    "1p": "masáramos",
+    "2p": "masarais",
+    "3p": "masaran"
+  },
+  "PImpC": {
+    "1s": "masase",
+    "2s": "masases",
+    "3s": "masase",
+    "1p": "masásemos",
+    "2p": "masaseis",
+    "3p": "masasen"
+  },
+  "FutSC": {
+    "1s": "masare",
+    "2s": "masares",
+    "3s": "masare",
+    "1p": "masáremos",
+    "2p": "masareis",
+    "3p": "masaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "masa",
+    "3s": "mase",
+    "1p": "masemos",
+    "2p": "masad",
+    "3p": "masen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mases",
+    "3s": "no mase",
+    "1p": "no masemos",
+    "2p": "no maséis",
+    "3p": "no masen"
+  },
+  "Part-ter": {
+    "": "masado"
+  },
+  "Part-ser": {
+    "ms": "masado",
+    "fs": "masada",
+    "mp": "masados",
+    "fp": "masadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desfazer"
+  },
+  "InfP": {
+    "1s": "desfazer",
+    "2s": "desfazeres",
+    "3s": "desfazer",
+    "1p": "desfazermos",
+    "2p": "desfazerdes",
+    "3p": "desfazerem"
+  },
+  "Ger": {
+    "": "desfazendo"
+  },
+  "PresI": {
+    "1s": "desfaço",
+    "2s": "desfazes",
+    "3s": "desfaz",
+    "1p": "desfazemos",
+    "2p": "desfazeis",
+    "3p": "desfazem"
+  },
+  "PImpI": {
+    "1s": "desfazia",
+    "2s": "desfazias",
+    "3s": "desfazia",
+    "1p": "desfazíamos",
+    "2p": "desfazíeis",
+    "3p": "desfaziam"
+  },
+  "PPSI": {
+    "1s": "desfiz",
+    "2s": "desfizeste",
+    "3s": "desfez",
+    "1p": "desfizemos",
+    "2p": "desfizestes",
+    "3p": "desfizeram"
+  },
+  "PMQPSI": {
+    "1s": "desfizera",
+    "2s": "desfizeras",
+    "3s": "desfizera",
+    "1p": "desfizéramos",
+    "2p": "desfizéreis",
+    "3p": "desfizeram"
+  },
+  "FutSI": {
+    "1s": "desfarei",
+    "2s": "desfarás",
+    "3s": "desfará",
+    "1p": "desfaremos",
+    "2p": "desfareis",
+    "3p": "desfarão"
+  },
+  "CondS": {
+    "1s": "desfaria",
+    "2s": "desfarias",
+    "3s": "desfaria",
+    "1p": "desfaríamos",
+    "2p": "desfaríeis",
+    "3p": "desfariam"
+  },
+  "PresC": {
+    "1s": "desfaça",
+    "2s": "desfaças",
+    "3s": "desfaça",
+    "1p": "desfaçamos",
+    "2p": "desfaçais",
+    "3p": "desfaçam"
+  },
+  "PImpC": {
+    "1s": "desfizesse",
+    "2s": "desfizesses",
+    "3s": "desfizesse",
+    "1p": "desfizéssemos",
+    "2p": "desfizésseis",
+    "3p": "desfizessem"
+  },
+  "FutSC": {
+    "1s": "desfizer",
+    "2s": "desfizeres",
+    "3s": "desfizer",
+    "1p": "desfizermos",
+    "2p": "desfizerdes",
+    "3p": "desfizerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desfazdesfaze",
+    "3s": "desfaça",
+    "1p": "desfaçamos",
+    "2p": "desfazei",
+    "3p": "desfaçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desfaças",
+    "3s": "não desfaça",
+    "1p": "não desfaçamos",
+    "2p": "não desfaçais",
+    "3p": "não desfaçam"
+  },
+  "Part-ter": {
+    "": "desfeito"
+  },
+  "Part-ser": {
+    "ms": "desfeito",
+    "fs": "desfeita",
+    "mp": "desfeitos",
+    "fp": "desfeitas"
+  }
+}

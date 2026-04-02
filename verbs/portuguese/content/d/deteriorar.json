@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deteriorar"
+  },
+  "InfP": {
+    "1s": "deteriorar",
+    "2s": "deteriorares",
+    "3s": "deteriorar",
+    "1p": "deteriorarmos",
+    "2p": "deteriorardes",
+    "3p": "deteriorarem"
+  },
+  "Ger": {
+    "": "deteriorando"
+  },
+  "PresI": {
+    "1s": "deterioro",
+    "2s": "deterioras",
+    "3s": "deteriora",
+    "1p": "deterioramos",
+    "2p": "deteriorais",
+    "3p": "deterioram"
+  },
+  "PImpI": {
+    "1s": "deteriorava",
+    "2s": "deterioravas",
+    "3s": "deteriorava",
+    "1p": "deteriorávamos",
+    "2p": "deterioráveis",
+    "3p": "deterioravam"
+  },
+  "PPSI": {
+    "1s": "deteriorei",
+    "2s": "deterioraste",
+    "3s": "deteriorou",
+    "1p": "deteriorámos",
+    "2p": "deteriorastes",
+    "3p": "deterioraram"
+  },
+  "PMQPSI": {
+    "1s": "deteriorara",
+    "2s": "deterioraras",
+    "3s": "deteriorara",
+    "1p": "deterioráramos",
+    "2p": "deterioráreis",
+    "3p": "deterioraram"
+  },
+  "FutSI": {
+    "1s": "deteriorarei",
+    "2s": "deteriorarás",
+    "3s": "deteriorará",
+    "1p": "deterioraremos",
+    "2p": "deteriorareis",
+    "3p": "deteriorarão"
+  },
+  "CondS": {
+    "1s": "deterioraria",
+    "2s": "deteriorarias",
+    "3s": "deterioraria",
+    "1p": "deterioraríamos",
+    "2p": "deterioraríeis",
+    "3p": "deteriorariam"
+  },
+  "PresC": {
+    "1s": "deteriore",
+    "2s": "deteriores",
+    "3s": "deteriore",
+    "1p": "deterioremos",
+    "2p": "deterioreis",
+    "3p": "deteriorem"
+  },
+  "PImpC": {
+    "1s": "deteriorasse",
+    "2s": "deteriorasses",
+    "3s": "deteriorasse",
+    "1p": "deteriorássemos",
+    "2p": "deteriorásseis",
+    "3p": "deteriorassem"
+  },
+  "FutSC": {
+    "1s": "deteriorar",
+    "2s": "deteriorares",
+    "3s": "deteriorar",
+    "1p": "deteriorarmos",
+    "2p": "deteriorardes",
+    "3p": "deteriorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deteriora",
+    "3s": "deteriore",
+    "1p": "deterioremos",
+    "2p": "deteriorai",
+    "3p": "deteriorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deteriores",
+    "3s": "não deteriore",
+    "1p": "não deterioremos",
+    "2p": "não deterioreis",
+    "3p": "não deteriorem"
+  },
+  "Part-ter": {
+    "": "deteriorado"
+  },
+  "Part-ser": {
+    "ms": "deteriorado",
+    "fs": "deteriorada",
+    "mp": "deteriorados",
+    "fp": "deterioradas"
+  }
+}

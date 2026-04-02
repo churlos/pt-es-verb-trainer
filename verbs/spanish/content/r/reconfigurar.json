@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reconfigurar"
+  },
+  "Ger": {
+    "": "reconfigurando"
+  },
+  "PresI": {
+    "1s": "reconfiguro",
+    "2s": "reconfiguras",
+    "3s": "reconfigura",
+    "1p": "reconfiguramos",
+    "2p": "reconfiguráis",
+    "3p": "reconfiguran"
+  },
+  "PImpI": {
+    "1s": "reconfiguraba",
+    "2s": "reconfigurabas",
+    "3s": "reconfiguraba",
+    "1p": "reconfigurábamos",
+    "2p": "reconfigurabais",
+    "3p": "reconfiguraban"
+  },
+  "PPSI": {
+    "1s": "reconfiguré",
+    "2s": "reconfiguraste",
+    "3s": "reconfiguró",
+    "1p": "reconfiguramos",
+    "2p": "reconfigurasteis",
+    "3p": "reconfiguraron"
+  },
+  "FutSI": {
+    "1s": "reconfiguraré",
+    "2s": "reconfigurarás",
+    "3s": "reconfigurará",
+    "1p": "reconfiguraremos",
+    "2p": "reconfiguraréis",
+    "3p": "reconfigurarán"
+  },
+  "CondS": {
+    "1s": "reconfiguraría",
+    "2s": "reconfigurarías",
+    "3s": "reconfiguraría",
+    "1p": "reconfiguraríamos",
+    "2p": "reconfiguraríais",
+    "3p": "reconfigurarían"
+  },
+  "PresC": {
+    "1s": "reconfigure",
+    "2s": "reconfigures",
+    "3s": "reconfigure",
+    "1p": "reconfiguremos",
+    "2p": "reconfiguréis",
+    "3p": "reconfiguren"
+  },
+  "PMQPSI": {
+    "1s": "reconfigurara",
+    "2s": "reconfiguraras",
+    "3s": "reconfigurara",
+    "1p": "reconfiguráramos",
+    "2p": "reconfigurarais",
+    "3p": "reconfiguraran"
+  },
+  "PImpC": {
+    "1s": "reconfigurase",
+    "2s": "reconfigurases",
+    "3s": "reconfigurase",
+    "1p": "reconfigurásemos",
+    "2p": "reconfiguraseis",
+    "3p": "reconfigurasen"
+  },
+  "FutSC": {
+    "1s": "reconfigurare",
+    "2s": "reconfigurares",
+    "3s": "reconfigurare",
+    "1p": "reconfiguráremos",
+    "2p": "reconfigurareis",
+    "3p": "reconfiguraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reconfigura",
+    "3s": "reconfigure",
+    "1p": "reconfiguremos",
+    "2p": "reconfigurad",
+    "3p": "reconfiguren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reconfigures",
+    "3s": "no reconfigure",
+    "1p": "no reconfiguremos",
+    "2p": "no reconfiguréis",
+    "3p": "no reconfiguren"
+  },
+  "Part-ter": {
+    "": "reconfigurado"
+  },
+  "Part-ser": {
+    "ms": "reconfigurado",
+    "fs": "reconfigurada",
+    "mp": "reconfigurados",
+    "fp": "reconfiguradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lustrar"
+  },
+  "InfP": {
+    "1s": "lustrar",
+    "2s": "lustrares",
+    "3s": "lustrar",
+    "1p": "lustrarmos",
+    "2p": "lustrardes",
+    "3p": "lustrarem"
+  },
+  "Ger": {
+    "": "lustrando"
+  },
+  "PresI": {
+    "1s": "lustro",
+    "2s": "lustras",
+    "3s": "lustra",
+    "1p": "lustramos",
+    "2p": "lustrais",
+    "3p": "lustram"
+  },
+  "PImpI": {
+    "1s": "lustrava",
+    "2s": "lustravas",
+    "3s": "lustrava",
+    "1p": "lustrávamos",
+    "2p": "lustráveis",
+    "3p": "lustravam"
+  },
+  "PPSI": {
+    "1s": "lustrei",
+    "2s": "lustraste",
+    "3s": "lustrou",
+    "1p": "lustrámos",
+    "2p": "lustrastes",
+    "3p": "lustraram"
+  },
+  "PMQPSI": {
+    "1s": "lustrara",
+    "2s": "lustraras",
+    "3s": "lustrara",
+    "1p": "lustráramos",
+    "2p": "lustráreis",
+    "3p": "lustraram"
+  },
+  "FutSI": {
+    "1s": "lustrarei",
+    "2s": "lustrarás",
+    "3s": "lustrará",
+    "1p": "lustraremos",
+    "2p": "lustrareis",
+    "3p": "lustrarão"
+  },
+  "CondS": {
+    "1s": "lustraria",
+    "2s": "lustrarias",
+    "3s": "lustraria",
+    "1p": "lustraríamos",
+    "2p": "lustraríeis",
+    "3p": "lustrariam"
+  },
+  "PresC": {
+    "1s": "lustre",
+    "2s": "lustres",
+    "3s": "lustre",
+    "1p": "lustremos",
+    "2p": "lustreis",
+    "3p": "lustrem"
+  },
+  "PImpC": {
+    "1s": "lustrasse",
+    "2s": "lustrasses",
+    "3s": "lustrasse",
+    "1p": "lustrássemos",
+    "2p": "lustrásseis",
+    "3p": "lustrassem"
+  },
+  "FutSC": {
+    "1s": "lustrar",
+    "2s": "lustrares",
+    "3s": "lustrar",
+    "1p": "lustrarmos",
+    "2p": "lustrardes",
+    "3p": "lustrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lustra",
+    "3s": "lustre",
+    "1p": "lustremos",
+    "2p": "lustrai",
+    "3p": "lustrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lustres",
+    "3s": "não lustre",
+    "1p": "não lustremos",
+    "2p": "não lustreis",
+    "3p": "não lustrem"
+  },
+  "Part-ter": {
+    "": "lustrado"
+  },
+  "Part-ser": {
+    "ms": "lustrado",
+    "fs": "lustrada",
+    "mp": "lustrados",
+    "fp": "lustradas"
+  }
+}

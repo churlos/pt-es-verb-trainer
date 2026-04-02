@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "clamar"
+  },
+  "InfP": {
+    "1s": "clamar",
+    "2s": "clamares",
+    "3s": "clamar",
+    "1p": "clamarmos",
+    "2p": "clamardes",
+    "3p": "clamarem"
+  },
+  "Ger": {
+    "": "clamando"
+  },
+  "PresI": {
+    "1s": "clamo",
+    "2s": "clamas",
+    "3s": "clama",
+    "1p": "clamamos",
+    "2p": "clamais",
+    "3p": "clamam"
+  },
+  "PImpI": {
+    "1s": "clamava",
+    "2s": "clamavas",
+    "3s": "clamava",
+    "1p": "clamávamos",
+    "2p": "clamáveis",
+    "3p": "clamavam"
+  },
+  "PPSI": {
+    "1s": "clamei",
+    "2s": "clamaste",
+    "3s": "clamou",
+    "1p": "clamámos",
+    "2p": "clamastes",
+    "3p": "clamaram"
+  },
+  "PMQPSI": {
+    "1s": "clamara",
+    "2s": "clamaras",
+    "3s": "clamara",
+    "1p": "clamáramos",
+    "2p": "clamáreis",
+    "3p": "clamaram"
+  },
+  "FutSI": {
+    "1s": "clamarei",
+    "2s": "clamarás",
+    "3s": "clamará",
+    "1p": "clamaremos",
+    "2p": "clamareis",
+    "3p": "clamarão"
+  },
+  "CondS": {
+    "1s": "clamaria",
+    "2s": "clamarias",
+    "3s": "clamaria",
+    "1p": "clamaríamos",
+    "2p": "clamaríeis",
+    "3p": "clamariam"
+  },
+  "PresC": {
+    "1s": "clame",
+    "2s": "clames",
+    "3s": "clame",
+    "1p": "clamemos",
+    "2p": "clameis",
+    "3p": "clamem"
+  },
+  "PImpC": {
+    "1s": "clamasse",
+    "2s": "clamasses",
+    "3s": "clamasse",
+    "1p": "clamássemos",
+    "2p": "clamásseis",
+    "3p": "clamassem"
+  },
+  "FutSC": {
+    "1s": "clamar",
+    "2s": "clamares",
+    "3s": "clamar",
+    "1p": "clamarmos",
+    "2p": "clamardes",
+    "3p": "clamarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "clama",
+    "3s": "clame",
+    "1p": "clamemos",
+    "2p": "clamai",
+    "3p": "clamem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não clames",
+    "3s": "não clame",
+    "1p": "não clamemos",
+    "2p": "não clameis",
+    "3p": "não clamem"
+  },
+  "Part-ter": {
+    "": "clamado"
+  },
+  "Part-ser": {
+    "ms": "clamado",
+    "fs": "clamada",
+    "mp": "clamados",
+    "fp": "clamadas"
+  }
+}

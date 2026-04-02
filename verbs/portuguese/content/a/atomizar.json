@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atomizar"
+  },
+  "InfP": {
+    "1s": "atomizar",
+    "2s": "atomizares",
+    "3s": "atomizar",
+    "1p": "atomizarmos",
+    "2p": "atomizardes",
+    "3p": "atomizarem"
+  },
+  "Ger": {
+    "": "atomizando"
+  },
+  "PresI": {
+    "1s": "atomizo",
+    "2s": "atomizas",
+    "3s": "atomiza",
+    "1p": "atomizamos",
+    "2p": "atomizais",
+    "3p": "atomizam"
+  },
+  "PImpI": {
+    "1s": "atomizava",
+    "2s": "atomizavas",
+    "3s": "atomizava",
+    "1p": "atomizávamos",
+    "2p": "atomizáveis",
+    "3p": "atomizavam"
+  },
+  "PPSI": {
+    "1s": "atomizei",
+    "2s": "atomizaste",
+    "3s": "atomizou",
+    "1p": "atomizámos",
+    "2p": "atomizastes",
+    "3p": "atomizaram"
+  },
+  "PMQPSI": {
+    "1s": "atomizara",
+    "2s": "atomizaras",
+    "3s": "atomizara",
+    "1p": "atomizáramos",
+    "2p": "atomizáreis",
+    "3p": "atomizaram"
+  },
+  "FutSI": {
+    "1s": "atomizarei",
+    "2s": "atomizarás",
+    "3s": "atomizará",
+    "1p": "atomizaremos",
+    "2p": "atomizareis",
+    "3p": "atomizarão"
+  },
+  "CondS": {
+    "1s": "atomizaria",
+    "2s": "atomizarias",
+    "3s": "atomizaria",
+    "1p": "atomizaríamos",
+    "2p": "atomizaríeis",
+    "3p": "atomizariam"
+  },
+  "PresC": {
+    "1s": "atomize",
+    "2s": "atomizes",
+    "3s": "atomize",
+    "1p": "atomizemos",
+    "2p": "atomizeis",
+    "3p": "atomizem"
+  },
+  "PImpC": {
+    "1s": "atomizasse",
+    "2s": "atomizasses",
+    "3s": "atomizasse",
+    "1p": "atomizássemos",
+    "2p": "atomizásseis",
+    "3p": "atomizassem"
+  },
+  "FutSC": {
+    "1s": "atomizar",
+    "2s": "atomizares",
+    "3s": "atomizar",
+    "1p": "atomizarmos",
+    "2p": "atomizardes",
+    "3p": "atomizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atomiza",
+    "3s": "atomize",
+    "1p": "atomizemos",
+    "2p": "atomizai",
+    "3p": "atomizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atomizes",
+    "3s": "não atomize",
+    "1p": "não atomizemos",
+    "2p": "não atomizeis",
+    "3p": "não atomizem"
+  },
+  "Part-ter": {
+    "": "atomizado"
+  },
+  "Part-ser": {
+    "ms": "atomizado",
+    "fs": "atomizada",
+    "mp": "atomizados",
+    "fp": "atomizadas"
+  }
+}

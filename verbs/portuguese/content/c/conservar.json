@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "conservar"
+  },
+  "InfP": {
+    "1s": "conservar",
+    "2s": "conservares",
+    "3s": "conservar",
+    "1p": "conservarmos",
+    "2p": "conservardes",
+    "3p": "conservarem"
+  },
+  "Ger": {
+    "": "conservando"
+  },
+  "PresI": {
+    "1s": "conservo",
+    "2s": "conservas",
+    "3s": "conserva",
+    "1p": "conservamos",
+    "2p": "conservais",
+    "3p": "conservam"
+  },
+  "PImpI": {
+    "1s": "conservava",
+    "2s": "conservavas",
+    "3s": "conservava",
+    "1p": "conservávamos",
+    "2p": "conserváveis",
+    "3p": "conservavam"
+  },
+  "PPSI": {
+    "1s": "conservei",
+    "2s": "conservaste",
+    "3s": "conservou",
+    "1p": "conservámos",
+    "2p": "conservastes",
+    "3p": "conservaram"
+  },
+  "PMQPSI": {
+    "1s": "conservara",
+    "2s": "conservaras",
+    "3s": "conservara",
+    "1p": "conserváramos",
+    "2p": "conserváreis",
+    "3p": "conservaram"
+  },
+  "FutSI": {
+    "1s": "conservarei",
+    "2s": "conservarás",
+    "3s": "conservará",
+    "1p": "conservaremos",
+    "2p": "conservareis",
+    "3p": "conservarão"
+  },
+  "CondS": {
+    "1s": "conservaria",
+    "2s": "conservarias",
+    "3s": "conservaria",
+    "1p": "conservaríamos",
+    "2p": "conservaríeis",
+    "3p": "conservariam"
+  },
+  "PresC": {
+    "1s": "conserve",
+    "2s": "conserves",
+    "3s": "conserve",
+    "1p": "conservemos",
+    "2p": "conserveis",
+    "3p": "conservem"
+  },
+  "PImpC": {
+    "1s": "conservasse",
+    "2s": "conservasses",
+    "3s": "conservasse",
+    "1p": "conservássemos",
+    "2p": "conservásseis",
+    "3p": "conservassem"
+  },
+  "FutSC": {
+    "1s": "conservar",
+    "2s": "conservares",
+    "3s": "conservar",
+    "1p": "conservarmos",
+    "2p": "conservardes",
+    "3p": "conservarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conserva",
+    "3s": "conserve",
+    "1p": "conservemos",
+    "2p": "conservai",
+    "3p": "conservem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não conserves",
+    "3s": "não conserve",
+    "1p": "não conservemos",
+    "2p": "não conserveis",
+    "3p": "não conservem"
+  },
+  "Part-ter": {
+    "": "conservado"
+  },
+  "Part-ser": {
+    "ms": "conservado",
+    "fs": "conservada",
+    "mp": "conservados",
+    "fp": "conservadas"
+  }
+}

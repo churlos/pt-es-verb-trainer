@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "lançar"
+  },
+  "InfP": {
+    "1s": "lançar",
+    "2s": "lançares",
+    "3s": "lançar",
+    "1p": "lançarmos",
+    "2p": "lançardes",
+    "3p": "lançarem"
+  },
+  "Ger": {
+    "": "lançando"
+  },
+  "PresI": {
+    "1s": "lanço",
+    "2s": "lanças",
+    "3s": "lança",
+    "1p": "lançamos",
+    "2p": "lançais",
+    "3p": "lançam"
+  },
+  "PImpI": {
+    "1s": "lançava",
+    "2s": "lançavas",
+    "3s": "lançava",
+    "1p": "lançávamos",
+    "2p": "lançáveis",
+    "3p": "lançavam"
+  },
+  "PPSI": {
+    "1s": "lancei",
+    "2s": "lançaste",
+    "3s": "lançou",
+    "1p": "lançámos",
+    "2p": "lançastes",
+    "3p": "lançaram"
+  },
+  "PMQPSI": {
+    "1s": "lançara",
+    "2s": "lançaras",
+    "3s": "lançara",
+    "1p": "lançáramos",
+    "2p": "lançáreis",
+    "3p": "lançaram"
+  },
+  "FutSI": {
+    "1s": "lançarei",
+    "2s": "lançarás",
+    "3s": "lançará",
+    "1p": "lançaremos",
+    "2p": "lançareis",
+    "3p": "lançarão"
+  },
+  "CondS": {
+    "1s": "lançaria",
+    "2s": "lançarias",
+    "3s": "lançaria",
+    "1p": "lançaríamos",
+    "2p": "lançaríeis",
+    "3p": "lançariam"
+  },
+  "PresC": {
+    "1s": "lance",
+    "2s": "lances",
+    "3s": "lance",
+    "1p": "lancemos",
+    "2p": "lanceis",
+    "3p": "lancem"
+  },
+  "PImpC": {
+    "1s": "lançasse",
+    "2s": "lançasses",
+    "3s": "lançasse",
+    "1p": "lançássemos",
+    "2p": "lançásseis",
+    "3p": "lançassem"
+  },
+  "FutSC": {
+    "1s": "lançar",
+    "2s": "lançares",
+    "3s": "lançar",
+    "1p": "lançarmos",
+    "2p": "lançardes",
+    "3p": "lançarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lança",
+    "3s": "lance",
+    "1p": "lancemos",
+    "2p": "lançai",
+    "3p": "lancem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não lances",
+    "3s": "não lance",
+    "1p": "não lancemos",
+    "2p": "não lanceis",
+    "3p": "não lancem"
+  },
+  "Part-ter": {
+    "": "lançado"
+  },
+  "Part-ser": {
+    "ms": "lançado",
+    "fs": "lançada",
+    "mp": "lançados",
+    "fp": "lançadas"
+  }
+}

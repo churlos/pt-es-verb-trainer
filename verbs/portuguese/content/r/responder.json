@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "responder"
+  },
+  "InfP": {
+    "1s": "responder",
+    "2s": "responderes",
+    "3s": "responder",
+    "1p": "respondermos",
+    "2p": "responderdes",
+    "3p": "responderem"
+  },
+  "Ger": {
+    "": "respondendo"
+  },
+  "PresI": {
+    "1s": "respondo",
+    "2s": "respondes",
+    "3s": "responde",
+    "1p": "respondemos",
+    "2p": "respondeis",
+    "3p": "respondem"
+  },
+  "PImpI": {
+    "1s": "respondia",
+    "2s": "respondias",
+    "3s": "respondia",
+    "1p": "respondíamos",
+    "2p": "respondíeis",
+    "3p": "respondiam"
+  },
+  "PPSI": {
+    "1s": "respondi",
+    "2s": "respondeste",
+    "3s": "respondeu",
+    "1p": "respondemos",
+    "2p": "respondestes",
+    "3p": "responderam"
+  },
+  "PMQPSI": {
+    "1s": "respondera",
+    "2s": "responderas",
+    "3s": "respondera",
+    "1p": "respondêramos",
+    "2p": "respondêreis",
+    "3p": "responderam"
+  },
+  "FutSI": {
+    "1s": "responderei",
+    "2s": "responderás",
+    "3s": "responderá",
+    "1p": "responderemos",
+    "2p": "respondereis",
+    "3p": "responderão"
+  },
+  "CondS": {
+    "1s": "responderia",
+    "2s": "responderias",
+    "3s": "responderia",
+    "1p": "responderíamos",
+    "2p": "responderíeis",
+    "3p": "responderiam"
+  },
+  "PresC": {
+    "1s": "responda",
+    "2s": "respondas",
+    "3s": "responda",
+    "1p": "respondamos",
+    "2p": "respondais",
+    "3p": "respondam"
+  },
+  "PImpC": {
+    "1s": "respondesse",
+    "2s": "respondesses",
+    "3s": "respondesse",
+    "1p": "respondêssemos",
+    "2p": "respondêsseis",
+    "3p": "respondessem"
+  },
+  "FutSC": {
+    "1s": "responder",
+    "2s": "responderes",
+    "3s": "responder",
+    "1p": "respondermos",
+    "2p": "responderdes",
+    "3p": "responderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "responde",
+    "3s": "responda",
+    "1p": "respondamos",
+    "2p": "respondei",
+    "3p": "respondam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não respondas",
+    "3s": "não responda",
+    "1p": "não respondamos",
+    "2p": "não respondais",
+    "3p": "não respondam"
+  },
+  "Part-ter": {
+    "": "respondido"
+  },
+  "Part-ser": {
+    "ms": "respondido",
+    "fs": "respondida",
+    "mp": "respondidos",
+    "fp": "respondidas"
+  }
+}

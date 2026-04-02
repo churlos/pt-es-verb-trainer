@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "extrair"
+  },
+  "InfP": {
+    "1s": "extrair",
+    "2s": "extraíres",
+    "3s": "extrair",
+    "1p": "extrairmos",
+    "2p": "extrairdes",
+    "3p": "extraírem"
+  },
+  "Ger": {
+    "": "extraindo"
+  },
+  "PresI": {
+    "1s": "extraio",
+    "2s": "extrais",
+    "3s": "extrai",
+    "1p": "extraímos",
+    "2p": "extraís",
+    "3p": "extraem"
+  },
+  "PImpI": {
+    "1s": "extraía",
+    "2s": "extraías",
+    "3s": "extraía",
+    "1p": "extraíamos",
+    "2p": "extraíeis",
+    "3p": "extraíam"
+  },
+  "PPSI": {
+    "1s": "extraí",
+    "2s": "extraíste",
+    "3s": "extraiu",
+    "1p": "extraímos",
+    "2p": "extraístes",
+    "3p": "extraíram"
+  },
+  "PMQPSI": {
+    "1s": "extraíra",
+    "2s": "extraíras",
+    "3s": "extraíra",
+    "1p": "extraíramos",
+    "2p": "extraíreis",
+    "3p": "extraíram"
+  },
+  "FutSI": {
+    "1s": "extrairei",
+    "2s": "extrairás",
+    "3s": "extrairá",
+    "1p": "extrairemos",
+    "2p": "extraireis",
+    "3p": "extrairão"
+  },
+  "CondS": {
+    "1s": "extrairia",
+    "2s": "extrairias",
+    "3s": "extrairia",
+    "1p": "extrairíamos",
+    "2p": "extrairíeis",
+    "3p": "extrairiam"
+  },
+  "PresC": {
+    "1s": "extraia",
+    "2s": "extraias",
+    "3s": "extraia",
+    "1p": "extraiamos",
+    "2p": "extraiais",
+    "3p": "extraiam"
+  },
+  "PImpC": {
+    "1s": "extraísse",
+    "2s": "extraísses",
+    "3s": "extraísse",
+    "1p": "extraíssemos",
+    "2p": "extraísseis",
+    "3p": "extraíssem"
+  },
+  "FutSC": {
+    "1s": "extrair",
+    "2s": "extraíres",
+    "3s": "extrair",
+    "1p": "extrairmos",
+    "2p": "extrairdes",
+    "3p": "extraírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "extrai",
+    "3s": "extraia",
+    "1p": "extraiamos",
+    "2p": "extraí",
+    "3p": "extraiam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não extraias",
+    "3s": "não extraia",
+    "1p": "não extraiamos",
+    "2p": "não extraiais",
+    "3p": "não extraiam"
+  },
+  "Part-ter": {
+    "": "extraído"
+  },
+  "Part-ser": {
+    "ms": "extraído",
+    "fs": "extraída",
+    "mp": "extraídos",
+    "fp": "extraídas"
+  }
+}

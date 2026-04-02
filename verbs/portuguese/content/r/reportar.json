@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reportar"
+  },
+  "InfP": {
+    "1s": "reportar",
+    "2s": "reportares",
+    "3s": "reportar",
+    "1p": "reportarmos",
+    "2p": "reportardes",
+    "3p": "reportarem"
+  },
+  "Ger": {
+    "": "reportando"
+  },
+  "PresI": {
+    "1s": "reporto",
+    "2s": "reportas",
+    "3s": "reporta",
+    "1p": "reportamos",
+    "2p": "reportais",
+    "3p": "reportam"
+  },
+  "PImpI": {
+    "1s": "reportava",
+    "2s": "reportavas",
+    "3s": "reportava",
+    "1p": "reportávamos",
+    "2p": "reportáveis",
+    "3p": "reportavam"
+  },
+  "PPSI": {
+    "1s": "reportei",
+    "2s": "reportaste",
+    "3s": "reportou",
+    "1p": "reportámos",
+    "2p": "reportastes",
+    "3p": "reportaram"
+  },
+  "PMQPSI": {
+    "1s": "reportara",
+    "2s": "reportaras",
+    "3s": "reportara",
+    "1p": "reportáramos",
+    "2p": "reportáreis",
+    "3p": "reportaram"
+  },
+  "FutSI": {
+    "1s": "reportarei",
+    "2s": "reportarás",
+    "3s": "reportará",
+    "1p": "reportaremos",
+    "2p": "reportareis",
+    "3p": "reportarão"
+  },
+  "CondS": {
+    "1s": "reportaria",
+    "2s": "reportarias",
+    "3s": "reportaria",
+    "1p": "reportaríamos",
+    "2p": "reportaríeis",
+    "3p": "reportariam"
+  },
+  "PresC": {
+    "1s": "reporte",
+    "2s": "reportes",
+    "3s": "reporte",
+    "1p": "reportemos",
+    "2p": "reporteis",
+    "3p": "reportem"
+  },
+  "PImpC": {
+    "1s": "reportasse",
+    "2s": "reportasses",
+    "3s": "reportasse",
+    "1p": "reportássemos",
+    "2p": "reportásseis",
+    "3p": "reportassem"
+  },
+  "FutSC": {
+    "1s": "reportar",
+    "2s": "reportares",
+    "3s": "reportar",
+    "1p": "reportarmos",
+    "2p": "reportardes",
+    "3p": "reportarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reporta",
+    "3s": "reporte",
+    "1p": "reportemos",
+    "2p": "reportai",
+    "3p": "reportem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reportes",
+    "3s": "não reporte",
+    "1p": "não reportemos",
+    "2p": "não reporteis",
+    "3p": "não reportem"
+  },
+  "Part-ter": {
+    "": "reportado"
+  },
+  "Part-ser": {
+    "ms": "reportado",
+    "fs": "reportada",
+    "mp": "reportados",
+    "fp": "reportadas"
+  }
+}

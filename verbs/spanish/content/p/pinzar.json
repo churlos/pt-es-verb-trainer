@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pinzar"
+  },
+  "Ger": {
+    "": "pinzando"
+  },
+  "PresI": {
+    "1s": "pinzo",
+    "2s": "pinzas",
+    "3s": "pinza",
+    "1p": "pinzamos",
+    "2p": "pinzáis",
+    "3p": "pinzan"
+  },
+  "PImpI": {
+    "1s": "pinzaba",
+    "2s": "pinzabas",
+    "3s": "pinzaba",
+    "1p": "pinzábamos",
+    "2p": "pinzabais",
+    "3p": "pinzaban"
+  },
+  "PPSI": {
+    "1s": "pincé",
+    "2s": "pinzaste",
+    "3s": "pinzó",
+    "1p": "pinzamos",
+    "2p": "pinzasteis",
+    "3p": "pinzaron"
+  },
+  "FutSI": {
+    "1s": "pinzaré",
+    "2s": "pinzarás",
+    "3s": "pinzará",
+    "1p": "pinzaremos",
+    "2p": "pinzaréis",
+    "3p": "pinzarán"
+  },
+  "CondS": {
+    "1s": "pinzaría",
+    "2s": "pinzarías",
+    "3s": "pinzaría",
+    "1p": "pinzaríamos",
+    "2p": "pinzaríais",
+    "3p": "pinzarían"
+  },
+  "PresC": {
+    "1s": "pince",
+    "2s": "pinces",
+    "3s": "pince",
+    "1p": "pincemos",
+    "2p": "pincéis",
+    "3p": "pincen"
+  },
+  "PMQPSI": {
+    "1s": "pinzara",
+    "2s": "pinzaras",
+    "3s": "pinzara",
+    "1p": "pinzáramos",
+    "2p": "pinzarais",
+    "3p": "pinzaran"
+  },
+  "PImpC": {
+    "1s": "pinzase",
+    "2s": "pinzases",
+    "3s": "pinzase",
+    "1p": "pinzásemos",
+    "2p": "pinzaseis",
+    "3p": "pinzasen"
+  },
+  "FutSC": {
+    "1s": "pinzare",
+    "2s": "pinzares",
+    "3s": "pinzare",
+    "1p": "pinzáremos",
+    "2p": "pinzareis",
+    "3p": "pinzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pinza",
+    "3s": "pince",
+    "1p": "pincemos",
+    "2p": "pinzad",
+    "3p": "pincen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pinces",
+    "3s": "no pince",
+    "1p": "no pincemos",
+    "2p": "no pincéis",
+    "3p": "no pincen"
+  },
+  "Part-ter": {
+    "": "pinzado"
+  },
+  "Part-ser": {
+    "ms": "pinzado",
+    "fs": "pinzada",
+    "mp": "pinzados",
+    "fp": "pinzadas"
+  }
+}

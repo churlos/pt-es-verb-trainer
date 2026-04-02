@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "kickar"
+  },
+  "InfP": {
+    "1s": "kickar",
+    "2s": "kickares",
+    "3s": "kickar",
+    "1p": "kickarmos",
+    "2p": "kickardes",
+    "3p": "kickarem"
+  },
+  "Ger": {
+    "": "kickando"
+  },
+  "PresI": {
+    "1s": "kicko",
+    "2s": "kickas",
+    "3s": "kicka",
+    "1p": "kickamos",
+    "2p": "kickais",
+    "3p": "kickam"
+  },
+  "PImpI": {
+    "1s": "kickava",
+    "2s": "kickavas",
+    "3s": "kickava",
+    "1p": "kickávamos",
+    "2p": "kickáveis",
+    "3p": "kickavam"
+  },
+  "PPSI": {
+    "1s": "kickei",
+    "2s": "kickaste",
+    "3s": "kickou",
+    "1p": "kickámos",
+    "2p": "kickastes",
+    "3p": "kickaram"
+  },
+  "PMQPSI": {
+    "1s": "kickara",
+    "2s": "kickaras",
+    "3s": "kickara",
+    "1p": "kickáramos",
+    "2p": "kickáreis",
+    "3p": "kickaram"
+  },
+  "FutSI": {
+    "1s": "kickarei",
+    "2s": "kickarás",
+    "3s": "kickará",
+    "1p": "kickaremos",
+    "2p": "kickareis",
+    "3p": "kickarão"
+  },
+  "CondS": {
+    "1s": "kickaria",
+    "2s": "kickarias",
+    "3s": "kickaria",
+    "1p": "kickaríamos",
+    "2p": "kickaríeis",
+    "3p": "kickariam"
+  },
+  "PresC": {
+    "1s": "kicke",
+    "2s": "kickes",
+    "3s": "kicke",
+    "1p": "kickemos",
+    "2p": "kickeis",
+    "3p": "kickem"
+  },
+  "PImpC": {
+    "1s": "kickasse",
+    "2s": "kickasses",
+    "3s": "kickasse",
+    "1p": "kickássemos",
+    "2p": "kickásseis",
+    "3p": "kickassem"
+  },
+  "FutSC": {
+    "1s": "kickar",
+    "2s": "kickares",
+    "3s": "kickar",
+    "1p": "kickarmos",
+    "2p": "kickardes",
+    "3p": "kickarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "kicka",
+    "3s": "kicke",
+    "1p": "kickemos",
+    "2p": "kickai",
+    "3p": "kickem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não kickes",
+    "3s": "não kicke",
+    "1p": "não kickemos",
+    "2p": "não kickeis",
+    "3p": "não kickem"
+  },
+  "Part-ter": {
+    "": "kickado"
+  },
+  "Part-ser": {
+    "ms": "kickado",
+    "fs": "kickada",
+    "mp": "kickados",
+    "fp": "kickadas"
+  }
+}

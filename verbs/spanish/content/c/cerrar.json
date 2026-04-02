@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cerrar"
+  },
+  "Ger": {
+    "": "cerrando"
+  },
+  "PresI": {
+    "1s": "cierro",
+    "2s": "cierras",
+    "3s": "cierra",
+    "1p": "cerramos",
+    "2p": "cerráis",
+    "3p": "cierran"
+  },
+  "PImpI": {
+    "1s": "cerraba",
+    "2s": "cerrabas",
+    "3s": "cerraba",
+    "1p": "cerrábamos",
+    "2p": "cerrabais",
+    "3p": "cerraban"
+  },
+  "PPSI": {
+    "1s": "cerré",
+    "2s": "cerraste",
+    "3s": "cerró",
+    "1p": "cerramos",
+    "2p": "cerrasteis",
+    "3p": "cerraron"
+  },
+  "FutSI": {
+    "1s": "cerraré",
+    "2s": "cerrarás",
+    "3s": "cerrará",
+    "1p": "cerraremos",
+    "2p": "cerraréis",
+    "3p": "cerrarán"
+  },
+  "CondS": {
+    "1s": "cerraría",
+    "2s": "cerrarías",
+    "3s": "cerraría",
+    "1p": "cerraríamos",
+    "2p": "cerraríais",
+    "3p": "cerrarían"
+  },
+  "PresC": {
+    "1s": "cierre",
+    "2s": "cierres",
+    "3s": "cierre",
+    "1p": "cerremos",
+    "2p": "cerréis",
+    "3p": "cierren"
+  },
+  "PMQPSI": {
+    "1s": "cerrara",
+    "2s": "cerraras",
+    "3s": "cerrara",
+    "1p": "cerráramos",
+    "2p": "cerrarais",
+    "3p": "cerraran"
+  },
+  "PImpC": {
+    "1s": "cerrase",
+    "2s": "cerrases",
+    "3s": "cerrase",
+    "1p": "cerrásemos",
+    "2p": "cerraseis",
+    "3p": "cerrasen"
+  },
+  "FutSC": {
+    "1s": "cerrare",
+    "2s": "cerrares",
+    "3s": "cerrare",
+    "1p": "cerráremos",
+    "2p": "cerrareis",
+    "3p": "cerraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cierra",
+    "3s": "cierre",
+    "1p": "cerremos",
+    "2p": "cerrad",
+    "3p": "cierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cierres",
+    "3s": "no cierre",
+    "1p": "no cerremos",
+    "2p": "no cerréis",
+    "3p": "no cierren"
+  },
+  "Part-ter": {
+    "": "cerrado"
+  },
+  "Part-ser": {
+    "ms": "cerrado",
+    "fs": "cerrada",
+    "mp": "cerrados",
+    "fp": "cerradas"
+  }
+}

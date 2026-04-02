@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pasar"
+  },
+  "Ger": {
+    "": "pasando"
+  },
+  "PresI": {
+    "1s": "paso",
+    "2s": "pasas",
+    "3s": "pasa",
+    "1p": "pasamos",
+    "2p": "pasáis",
+    "3p": "pasan"
+  },
+  "PImpI": {
+    "1s": "pasaba",
+    "2s": "pasabas",
+    "3s": "pasaba",
+    "1p": "pasábamos",
+    "2p": "pasabais",
+    "3p": "pasaban"
+  },
+  "PPSI": {
+    "1s": "pasé",
+    "2s": "pasaste",
+    "3s": "pasó",
+    "1p": "pasamos",
+    "2p": "pasasteis",
+    "3p": "pasaron"
+  },
+  "FutSI": {
+    "1s": "pasaré",
+    "2s": "pasarás",
+    "3s": "pasará",
+    "1p": "pasaremos",
+    "2p": "pasaréis",
+    "3p": "pasarán"
+  },
+  "CondS": {
+    "1s": "pasaría",
+    "2s": "pasarías",
+    "3s": "pasaría",
+    "1p": "pasaríamos",
+    "2p": "pasaríais",
+    "3p": "pasarían"
+  },
+  "PresC": {
+    "1s": "pase",
+    "2s": "pases",
+    "3s": "pase",
+    "1p": "pasemos",
+    "2p": "paséis",
+    "3p": "pasen"
+  },
+  "PMQPSI": {
+    "1s": "pasara",
+    "2s": "pasaras",
+    "3s": "pasara",
+    "1p": "pasáramos",
+    "2p": "pasarais",
+    "3p": "pasaran"
+  },
+  "PImpC": {
+    "1s": "pasase",
+    "2s": "pasases",
+    "3s": "pasase",
+    "1p": "pasásemos",
+    "2p": "pasaseis",
+    "3p": "pasasen"
+  },
+  "FutSC": {
+    "1s": "pasare",
+    "2s": "pasares",
+    "3s": "pasare",
+    "1p": "pasáremos",
+    "2p": "pasareis",
+    "3p": "pasaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pasa",
+    "3s": "pase",
+    "1p": "pasemos",
+    "2p": "pasad",
+    "3p": "pasen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pases",
+    "3s": "no pase",
+    "1p": "no pasemos",
+    "2p": "no paséis",
+    "3p": "no pasen"
+  },
+  "Part-ter": {
+    "": "pasado"
+  },
+  "Part-ser": {
+    "ms": "pasado",
+    "fs": "pasada",
+    "mp": "pasados",
+    "fp": "pasadas"
+  }
+}

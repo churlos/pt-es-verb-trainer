@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "depositar"
+  },
+  "Ger": {
+    "": "depositando"
+  },
+  "PresI": {
+    "1s": "deposito",
+    "2s": "depositas",
+    "3s": "deposita",
+    "1p": "depositamos",
+    "2p": "depositáis",
+    "3p": "depositan"
+  },
+  "PImpI": {
+    "1s": "depositaba",
+    "2s": "depositabas",
+    "3s": "depositaba",
+    "1p": "depositábamos",
+    "2p": "depositabais",
+    "3p": "depositaban"
+  },
+  "PPSI": {
+    "1s": "deposité",
+    "2s": "depositaste",
+    "3s": "depositó",
+    "1p": "depositamos",
+    "2p": "depositasteis",
+    "3p": "depositaron"
+  },
+  "FutSI": {
+    "1s": "depositaré",
+    "2s": "depositarás",
+    "3s": "depositará",
+    "1p": "depositaremos",
+    "2p": "depositaréis",
+    "3p": "depositarán"
+  },
+  "CondS": {
+    "1s": "depositaría",
+    "2s": "depositarías",
+    "3s": "depositaría",
+    "1p": "depositaríamos",
+    "2p": "depositaríais",
+    "3p": "depositarían"
+  },
+  "PresC": {
+    "1s": "deposite",
+    "2s": "deposites",
+    "3s": "deposite",
+    "1p": "depositemos",
+    "2p": "depositéis",
+    "3p": "depositen"
+  },
+  "PMQPSI": {
+    "1s": "depositara",
+    "2s": "depositaras",
+    "3s": "depositara",
+    "1p": "depositáramos",
+    "2p": "depositarais",
+    "3p": "depositaran"
+  },
+  "PImpC": {
+    "1s": "depositase",
+    "2s": "depositases",
+    "3s": "depositase",
+    "1p": "depositásemos",
+    "2p": "depositaseis",
+    "3p": "depositasen"
+  },
+  "FutSC": {
+    "1s": "depositare",
+    "2s": "depositares",
+    "3s": "depositare",
+    "1p": "depositáremos",
+    "2p": "depositareis",
+    "3p": "depositaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deposita",
+    "3s": "deposite",
+    "1p": "depositemos",
+    "2p": "depositad",
+    "3p": "depositen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no deposites",
+    "3s": "no deposite",
+    "1p": "no depositemos",
+    "2p": "no depositéis",
+    "3p": "no depositen"
+  },
+  "Part-ter": {
+    "": "depositado"
+  },
+  "Part-ser": {
+    "ms": "depositado",
+    "fs": "depositada",
+    "mp": "depositados",
+    "fp": "depositadas"
+  }
+}

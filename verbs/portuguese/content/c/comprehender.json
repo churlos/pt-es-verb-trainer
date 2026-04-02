@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "comprehender"
+  },
+  "InfP": {
+    "1s": "comprehender",
+    "2s": "comprehenderes",
+    "3s": "comprehender",
+    "1p": "comprehendermos",
+    "2p": "comprehenderdes",
+    "3p": "comprehenderem"
+  },
+  "Ger": {
+    "": "comprehendendo"
+  },
+  "PresI": {
+    "1s": "comprehendo",
+    "2s": "comprehendes",
+    "3s": "comprehende",
+    "1p": "comprehendemos",
+    "2p": "comprehendeis",
+    "3p": "comprehendem"
+  },
+  "PImpI": {
+    "1s": "comprehendia",
+    "2s": "comprehendias",
+    "3s": "comprehendia",
+    "1p": "comprehendíamos",
+    "2p": "comprehendíeis",
+    "3p": "comprehendiam"
+  },
+  "PPSI": {
+    "1s": "comprehendi",
+    "2s": "comprehendeste",
+    "3s": "comprehendeu",
+    "1p": "comprehendemos",
+    "2p": "comprehendestes",
+    "3p": "comprehenderam"
+  },
+  "PMQPSI": {
+    "1s": "comprehendera",
+    "2s": "comprehenderas",
+    "3s": "comprehendera",
+    "1p": "comprehendêramos",
+    "2p": "comprehendêreis",
+    "3p": "comprehenderam"
+  },
+  "FutSI": {
+    "1s": "comprehenderei",
+    "2s": "comprehenderás",
+    "3s": "comprehenderá",
+    "1p": "comprehenderemos",
+    "2p": "comprehendereis",
+    "3p": "comprehenderão"
+  },
+  "CondS": {
+    "1s": "comprehenderia",
+    "2s": "comprehenderias",
+    "3s": "comprehenderia",
+    "1p": "comprehenderíamos",
+    "2p": "comprehenderíeis",
+    "3p": "comprehenderiam"
+  },
+  "PresC": {
+    "1s": "comprehenda",
+    "2s": "comprehendas",
+    "3s": "comprehenda",
+    "1p": "comprehendamos",
+    "2p": "comprehendais",
+    "3p": "comprehendam"
+  },
+  "PImpC": {
+    "1s": "comprehendesse",
+    "2s": "comprehendesses",
+    "3s": "comprehendesse",
+    "1p": "comprehendêssemos",
+    "2p": "comprehendêsseis",
+    "3p": "comprehendessem"
+  },
+  "FutSC": {
+    "1s": "comprehender",
+    "2s": "comprehenderes",
+    "3s": "comprehender",
+    "1p": "comprehendermos",
+    "2p": "comprehenderdes",
+    "3p": "comprehenderem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comprehende",
+    "3s": "comprehenda",
+    "1p": "comprehendamos",
+    "2p": "comprehendei",
+    "3p": "comprehendam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não comprehendas",
+    "3s": "não comprehenda",
+    "1p": "não comprehendamos",
+    "2p": "não comprehendais",
+    "3p": "não comprehendam"
+  },
+  "Part-ter": {
+    "": "comprehendido"
+  },
+  "Part-ser": {
+    "ms": "comprehendido",
+    "fs": "comprehendida",
+    "mp": "comprehendidos",
+    "fp": "comprehendidas"
+  }
+}

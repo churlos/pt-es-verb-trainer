@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "singrar"
+  },
+  "InfP": {
+    "1s": "singrar",
+    "2s": "singrares",
+    "3s": "singrar",
+    "1p": "singrarmos",
+    "2p": "singrardes",
+    "3p": "singrarem"
+  },
+  "Ger": {
+    "": "singrando"
+  },
+  "PresI": {
+    "1s": "singro",
+    "2s": "singras",
+    "3s": "singra",
+    "1p": "singramos",
+    "2p": "singrais",
+    "3p": "singram"
+  },
+  "PImpI": {
+    "1s": "singrava",
+    "2s": "singravas",
+    "3s": "singrava",
+    "1p": "singrávamos",
+    "2p": "singráveis",
+    "3p": "singravam"
+  },
+  "PPSI": {
+    "1s": "singrei",
+    "2s": "singraste",
+    "3s": "singrou",
+    "1p": "singrámos",
+    "2p": "singrastes",
+    "3p": "singraram"
+  },
+  "PMQPSI": {
+    "1s": "singrara",
+    "2s": "singraras",
+    "3s": "singrara",
+    "1p": "singráramos",
+    "2p": "singráreis",
+    "3p": "singraram"
+  },
+  "FutSI": {
+    "1s": "singrarei",
+    "2s": "singrarás",
+    "3s": "singrará",
+    "1p": "singraremos",
+    "2p": "singrareis",
+    "3p": "singrarão"
+  },
+  "CondS": {
+    "1s": "singraria",
+    "2s": "singrarias",
+    "3s": "singraria",
+    "1p": "singraríamos",
+    "2p": "singraríeis",
+    "3p": "singrariam"
+  },
+  "PresC": {
+    "1s": "singre",
+    "2s": "singres",
+    "3s": "singre",
+    "1p": "singremos",
+    "2p": "singreis",
+    "3p": "singrem"
+  },
+  "PImpC": {
+    "1s": "singrasse",
+    "2s": "singrasses",
+    "3s": "singrasse",
+    "1p": "singrássemos",
+    "2p": "singrásseis",
+    "3p": "singrassem"
+  },
+  "FutSC": {
+    "1s": "singrar",
+    "2s": "singrares",
+    "3s": "singrar",
+    "1p": "singrarmos",
+    "2p": "singrardes",
+    "3p": "singrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "singra",
+    "3s": "singre",
+    "1p": "singremos",
+    "2p": "singrai",
+    "3p": "singrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não singres",
+    "3s": "não singre",
+    "1p": "não singremos",
+    "2p": "não singreis",
+    "3p": "não singrem"
+  },
+  "Part-ter": {
+    "": "singrado"
+  },
+  "Part-ser": {
+    "ms": "singrado",
+    "fs": "singrada",
+    "mp": "singrados",
+    "fp": "singradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "truncar"
+  },
+  "InfP": {
+    "1s": "truncar",
+    "2s": "truncares",
+    "3s": "truncar",
+    "1p": "truncarmos",
+    "2p": "truncardes",
+    "3p": "truncarem"
+  },
+  "Ger": {
+    "": "truncando"
+  },
+  "PresI": {
+    "1s": "trunco",
+    "2s": "truncas",
+    "3s": "trunca",
+    "1p": "truncamos",
+    "2p": "truncais",
+    "3p": "truncam"
+  },
+  "PImpI": {
+    "1s": "truncava",
+    "2s": "truncavas",
+    "3s": "truncava",
+    "1p": "truncávamos",
+    "2p": "truncáveis",
+    "3p": "truncavam"
+  },
+  "PPSI": {
+    "1s": "trunquei",
+    "2s": "truncaste",
+    "3s": "truncou",
+    "1p": "truncámos",
+    "2p": "truncastes",
+    "3p": "truncaram"
+  },
+  "PMQPSI": {
+    "1s": "truncara",
+    "2s": "truncaras",
+    "3s": "truncara",
+    "1p": "truncáramos",
+    "2p": "truncáreis",
+    "3p": "truncaram"
+  },
+  "FutSI": {
+    "1s": "truncarei",
+    "2s": "truncarás",
+    "3s": "truncará",
+    "1p": "truncaremos",
+    "2p": "truncareis",
+    "3p": "truncarão"
+  },
+  "CondS": {
+    "1s": "truncaria",
+    "2s": "truncarias",
+    "3s": "truncaria",
+    "1p": "truncaríamos",
+    "2p": "truncaríeis",
+    "3p": "truncariam"
+  },
+  "PresC": {
+    "1s": "trunque",
+    "2s": "trunques",
+    "3s": "trunque",
+    "1p": "trunquemos",
+    "2p": "trunqueis",
+    "3p": "trunquem"
+  },
+  "PImpC": {
+    "1s": "truncasse",
+    "2s": "truncasses",
+    "3s": "truncasse",
+    "1p": "truncássemos",
+    "2p": "truncásseis",
+    "3p": "truncassem"
+  },
+  "FutSC": {
+    "1s": "truncar",
+    "2s": "truncares",
+    "3s": "truncar",
+    "1p": "truncarmos",
+    "2p": "truncardes",
+    "3p": "truncarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trunca",
+    "3s": "trunque",
+    "1p": "trunquemos",
+    "2p": "truncai",
+    "3p": "trunquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não trunques",
+    "3s": "não trunque",
+    "1p": "não trunquemos",
+    "2p": "não trunqueis",
+    "3p": "não trunquem"
+  },
+  "Part-ter": {
+    "": "truncado"
+  },
+  "Part-ser": {
+    "ms": "truncado",
+    "fs": "truncada",
+    "mp": "truncados",
+    "fp": "truncadas"
+  }
+}

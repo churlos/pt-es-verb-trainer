@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "fermentar"
+  },
+  "Ger": {
+    "": "fermentando"
+  },
+  "PresI": {
+    "1s": "fermento",
+    "2s": "fermentas",
+    "3s": "fermenta",
+    "1p": "fermentamos",
+    "2p": "fermentáis",
+    "3p": "fermentan"
+  },
+  "PImpI": {
+    "1s": "fermentaba",
+    "2s": "fermentabas",
+    "3s": "fermentaba",
+    "1p": "fermentábamos",
+    "2p": "fermentabais",
+    "3p": "fermentaban"
+  },
+  "PPSI": {
+    "1s": "fermenté",
+    "2s": "fermentaste",
+    "3s": "fermentó",
+    "1p": "fermentamos",
+    "2p": "fermentasteis",
+    "3p": "fermentaron"
+  },
+  "FutSI": {
+    "1s": "fermentaré",
+    "2s": "fermentarás",
+    "3s": "fermentará",
+    "1p": "fermentaremos",
+    "2p": "fermentaréis",
+    "3p": "fermentarán"
+  },
+  "CondS": {
+    "1s": "fermentaría",
+    "2s": "fermentarías",
+    "3s": "fermentaría",
+    "1p": "fermentaríamos",
+    "2p": "fermentaríais",
+    "3p": "fermentarían"
+  },
+  "PresC": {
+    "1s": "fermente",
+    "2s": "fermentes",
+    "3s": "fermente",
+    "1p": "fermentemos",
+    "2p": "fermentéis",
+    "3p": "fermenten"
+  },
+  "PMQPSI": {
+    "1s": "fermentara",
+    "2s": "fermentaras",
+    "3s": "fermentara",
+    "1p": "fermentáramos",
+    "2p": "fermentarais",
+    "3p": "fermentaran"
+  },
+  "PImpC": {
+    "1s": "fermentase",
+    "2s": "fermentases",
+    "3s": "fermentase",
+    "1p": "fermentásemos",
+    "2p": "fermentaseis",
+    "3p": "fermentasen"
+  },
+  "FutSC": {
+    "1s": "fermentare",
+    "2s": "fermentares",
+    "3s": "fermentare",
+    "1p": "fermentáremos",
+    "2p": "fermentareis",
+    "3p": "fermentaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fermenta",
+    "3s": "fermente",
+    "1p": "fermentemos",
+    "2p": "fermentad",
+    "3p": "fermenten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no fermentes",
+    "3s": "no fermente",
+    "1p": "no fermentemos",
+    "2p": "no fermentéis",
+    "3p": "no fermenten"
+  },
+  "Part-ter": {
+    "": "fermentado"
+  },
+  "Part-ser": {
+    "ms": "fermentado",
+    "fs": "fermentada",
+    "mp": "fermentados",
+    "fp": "fermentadas"
+  }
+}

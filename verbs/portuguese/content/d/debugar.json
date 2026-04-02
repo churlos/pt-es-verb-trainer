@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "debugar"
+  },
+  "InfP": {
+    "1s": "debugar",
+    "2s": "debugares",
+    "3s": "debugar",
+    "1p": "debugarmos",
+    "2p": "debugardes",
+    "3p": "debugarem"
+  },
+  "Ger": {
+    "": "debugando"
+  },
+  "PresI": {
+    "1s": "debugo",
+    "2s": "debugas",
+    "3s": "debuga",
+    "1p": "debugamos",
+    "2p": "debugais",
+    "3p": "debugam"
+  },
+  "PImpI": {
+    "1s": "debugava",
+    "2s": "debugavas",
+    "3s": "debugava",
+    "1p": "debugávamos",
+    "2p": "debugáveis",
+    "3p": "debugavam"
+  },
+  "PPSI": {
+    "1s": "debuguei",
+    "2s": "debugaste",
+    "3s": "debugou",
+    "1p": "debugámos",
+    "2p": "debugastes",
+    "3p": "debugaram"
+  },
+  "PMQPSI": {
+    "1s": "debugara",
+    "2s": "debugaras",
+    "3s": "debugara",
+    "1p": "debugáramos",
+    "2p": "debugáreis",
+    "3p": "debugaram"
+  },
+  "FutSI": {
+    "1s": "debugarei",
+    "2s": "debugarás",
+    "3s": "debugará",
+    "1p": "debugaremos",
+    "2p": "debugareis",
+    "3p": "debugarão"
+  },
+  "CondS": {
+    "1s": "debugaria",
+    "2s": "debugarias",
+    "3s": "debugaria",
+    "1p": "debugaríamos",
+    "2p": "debugaríeis",
+    "3p": "debugariam"
+  },
+  "PresC": {
+    "1s": "debugue",
+    "2s": "debugues",
+    "3s": "debugue",
+    "1p": "debuguemos",
+    "2p": "debugueis",
+    "3p": "debuguem"
+  },
+  "PImpC": {
+    "1s": "debugasse",
+    "2s": "debugasses",
+    "3s": "debugasse",
+    "1p": "debugássemos",
+    "2p": "debugásseis",
+    "3p": "debugassem"
+  },
+  "FutSC": {
+    "1s": "debugar",
+    "2s": "debugares",
+    "3s": "debugar",
+    "1p": "debugarmos",
+    "2p": "debugardes",
+    "3p": "debugarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "debuga",
+    "3s": "debugue",
+    "1p": "debuguemos",
+    "2p": "debugai",
+    "3p": "debuguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não debugues",
+    "3s": "não debugue",
+    "1p": "não debuguemos",
+    "2p": "não debugueis",
+    "3p": "não debuguem"
+  },
+  "Part-ter": {
+    "": "debugado"
+  },
+  "Part-ser": {
+    "ms": "debugado",
+    "fs": "debugada",
+    "mp": "debugados",
+    "fp": "debugadas"
+  }
+}

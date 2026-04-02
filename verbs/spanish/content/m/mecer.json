@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "mecer"
+  },
+  "Ger": {
+    "": "meciendo"
+  },
+  "PresI": {
+    "1s": "mezo",
+    "2s": "meces",
+    "3s": "mece",
+    "1p": "mecemos",
+    "2p": "mecéis",
+    "3p": "mecen"
+  },
+  "PImpI": {
+    "1s": "mecía",
+    "2s": "mecías",
+    "3s": "mecía",
+    "1p": "mecíamos",
+    "2p": "mecíais",
+    "3p": "mecían"
+  },
+  "PPSI": {
+    "1s": "mecí",
+    "2s": "meciste",
+    "3s": "meció",
+    "1p": "mecimos",
+    "2p": "mecisteis",
+    "3p": "mecieron"
+  },
+  "FutSI": {
+    "1s": "meceré",
+    "2s": "mecerás",
+    "3s": "mecerá",
+    "1p": "meceremos",
+    "2p": "meceréis",
+    "3p": "mecerán"
+  },
+  "CondS": {
+    "1s": "mecería",
+    "2s": "mecerías",
+    "3s": "mecería",
+    "1p": "meceríamos",
+    "2p": "meceríais",
+    "3p": "mecerían"
+  },
+  "PresC": {
+    "1s": "meza",
+    "2s": "mezas",
+    "3s": "meza",
+    "1p": "mezamos",
+    "2p": "mezáis",
+    "3p": "mezan"
+  },
+  "PMQPSI": {
+    "1s": "meciera",
+    "2s": "mecieras",
+    "3s": "meciera",
+    "1p": "meciéramos",
+    "2p": "mecierais",
+    "3p": "mecieran"
+  },
+  "PImpC": {
+    "1s": "meciese",
+    "2s": "mecieses",
+    "3s": "meciese",
+    "1p": "meciésemos",
+    "2p": "mecieseis",
+    "3p": "meciesen"
+  },
+  "FutSC": {
+    "1s": "meciere",
+    "2s": "mecieres",
+    "3s": "meciere",
+    "1p": "meciéremos",
+    "2p": "meciereis",
+    "3p": "mecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mece",
+    "3s": "meza",
+    "1p": "mezamos",
+    "2p": "meced",
+    "3p": "mezan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mezas",
+    "3s": "no meza",
+    "1p": "no mezamos",
+    "2p": "no mezáis",
+    "3p": "no mezan"
+  },
+  "Part-ter": {
+    "": "mecido"
+  },
+  "Part-ser": {
+    "ms": "mecido",
+    "fs": "mecida",
+    "mp": "mecidos",
+    "fp": "mecidas"
+  }
+}

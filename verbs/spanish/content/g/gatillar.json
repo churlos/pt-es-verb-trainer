@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gatillar"
+  },
+  "Ger": {
+    "": "gatillando"
+  },
+  "PresI": {
+    "1s": "gatillo",
+    "2s": "gatillas",
+    "3s": "gatilla",
+    "1p": "gatillamos",
+    "2p": "gatilláis",
+    "3p": "gatillan"
+  },
+  "PImpI": {
+    "1s": "gatillaba",
+    "2s": "gatillabas",
+    "3s": "gatillaba",
+    "1p": "gatillábamos",
+    "2p": "gatillabais",
+    "3p": "gatillaban"
+  },
+  "PPSI": {
+    "1s": "gatillé",
+    "2s": "gatillaste",
+    "3s": "gatilló",
+    "1p": "gatillamos",
+    "2p": "gatillasteis",
+    "3p": "gatillaron"
+  },
+  "FutSI": {
+    "1s": "gatillaré",
+    "2s": "gatillarás",
+    "3s": "gatillará",
+    "1p": "gatillaremos",
+    "2p": "gatillaréis",
+    "3p": "gatillarán"
+  },
+  "CondS": {
+    "1s": "gatillaría",
+    "2s": "gatillarías",
+    "3s": "gatillaría",
+    "1p": "gatillaríamos",
+    "2p": "gatillaríais",
+    "3p": "gatillarían"
+  },
+  "PresC": {
+    "1s": "gatille",
+    "2s": "gatilles",
+    "3s": "gatille",
+    "1p": "gatillemos",
+    "2p": "gatilléis",
+    "3p": "gatillen"
+  },
+  "PMQPSI": {
+    "1s": "gatillara",
+    "2s": "gatillaras",
+    "3s": "gatillara",
+    "1p": "gatilláramos",
+    "2p": "gatillarais",
+    "3p": "gatillaran"
+  },
+  "PImpC": {
+    "1s": "gatillase",
+    "2s": "gatillases",
+    "3s": "gatillase",
+    "1p": "gatillásemos",
+    "2p": "gatillaseis",
+    "3p": "gatillasen"
+  },
+  "FutSC": {
+    "1s": "gatillare",
+    "2s": "gatillares",
+    "3s": "gatillare",
+    "1p": "gatilláremos",
+    "2p": "gatillareis",
+    "3p": "gatillaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gatilla",
+    "3s": "gatille",
+    "1p": "gatillemos",
+    "2p": "gatillad",
+    "3p": "gatillen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gatilles",
+    "3s": "no gatille",
+    "1p": "no gatillemos",
+    "2p": "no gatilléis",
+    "3p": "no gatillen"
+  },
+  "Part-ter": {
+    "": "gatillado"
+  },
+  "Part-ser": {
+    "ms": "gatillado",
+    "fs": "gatillada",
+    "mp": "gatillados",
+    "fp": "gatilladas"
+  }
+}

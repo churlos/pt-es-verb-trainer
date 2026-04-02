@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "signar"
+  },
+  "Ger": {
+    "": "signando"
+  },
+  "PresI": {
+    "1s": "signo",
+    "2s": "signas",
+    "3s": "signa",
+    "1p": "signamos",
+    "2p": "signáis",
+    "3p": "signan"
+  },
+  "PImpI": {
+    "1s": "signaba",
+    "2s": "signabas",
+    "3s": "signaba",
+    "1p": "signábamos",
+    "2p": "signabais",
+    "3p": "signaban"
+  },
+  "PPSI": {
+    "1s": "signé",
+    "2s": "signaste",
+    "3s": "signó",
+    "1p": "signamos",
+    "2p": "signasteis",
+    "3p": "signaron"
+  },
+  "FutSI": {
+    "1s": "signaré",
+    "2s": "signarás",
+    "3s": "signará",
+    "1p": "signaremos",
+    "2p": "signaréis",
+    "3p": "signarán"
+  },
+  "CondS": {
+    "1s": "signaría",
+    "2s": "signarías",
+    "3s": "signaría",
+    "1p": "signaríamos",
+    "2p": "signaríais",
+    "3p": "signarían"
+  },
+  "PresC": {
+    "1s": "signe",
+    "2s": "signes",
+    "3s": "signe",
+    "1p": "signemos",
+    "2p": "signéis",
+    "3p": "signen"
+  },
+  "PMQPSI": {
+    "1s": "signara",
+    "2s": "signaras",
+    "3s": "signara",
+    "1p": "signáramos",
+    "2p": "signarais",
+    "3p": "signaran"
+  },
+  "PImpC": {
+    "1s": "signase",
+    "2s": "signases",
+    "3s": "signase",
+    "1p": "signásemos",
+    "2p": "signaseis",
+    "3p": "signasen"
+  },
+  "FutSC": {
+    "1s": "signare",
+    "2s": "signares",
+    "3s": "signare",
+    "1p": "signáremos",
+    "2p": "signareis",
+    "3p": "signaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "signa",
+    "3s": "signe",
+    "1p": "signemos",
+    "2p": "signad",
+    "3p": "signen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no signes",
+    "3s": "no signe",
+    "1p": "no signemos",
+    "2p": "no signéis",
+    "3p": "no signen"
+  },
+  "Part-ter": {
+    "": "signado"
+  },
+  "Part-ser": {
+    "ms": "signado",
+    "fs": "signada",
+    "mp": "signados",
+    "fp": "signadas"
+  }
+}

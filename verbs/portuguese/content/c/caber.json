@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "caber"
+  },
+  "InfP": {
+    "1s": "caber",
+    "2s": "caberes",
+    "3s": "caber",
+    "1p": "cabermos",
+    "2p": "caberdes",
+    "3p": "caberem"
+  },
+  "Ger": {
+    "": "cabendo"
+  },
+  "PresI": {
+    "1s": "caibo",
+    "2s": "cabes",
+    "3s": "cabe",
+    "1p": "cabemos",
+    "2p": "cabeis",
+    "3p": "cabem"
+  },
+  "PImpI": {
+    "1s": "cabia",
+    "2s": "cabias",
+    "3s": "cabia",
+    "1p": "cabíamos",
+    "2p": "cabíeis",
+    "3p": "cabiam"
+  },
+  "PPSI": {
+    "1s": "coube",
+    "2s": "coubeste",
+    "3s": "coube",
+    "1p": "coubemos",
+    "2p": "coubestes",
+    "3p": "couberam"
+  },
+  "PMQPSI": {
+    "1s": "coubera",
+    "2s": "couberas",
+    "3s": "coubera",
+    "1p": "coubéramos",
+    "2p": "coubéreis",
+    "3p": "couberam"
+  },
+  "FutSI": {
+    "1s": "caberei",
+    "2s": "caberás",
+    "3s": "caberá",
+    "1p": "caberemos",
+    "2p": "cabereis",
+    "3p": "caberão"
+  },
+  "CondS": {
+    "1s": "caberia",
+    "2s": "caberias",
+    "3s": "caberia",
+    "1p": "caberíamos",
+    "2p": "caberíeis",
+    "3p": "caberiam"
+  },
+  "PresC": {
+    "1s": "caiba",
+    "2s": "caibas",
+    "3s": "caiba",
+    "1p": "caibamos",
+    "2p": "caibais",
+    "3p": "caibam"
+  },
+  "PImpC": {
+    "1s": "coubesse",
+    "2s": "coubesses",
+    "3s": "coubesse",
+    "1p": "coubéssemos",
+    "2p": "coubésseis",
+    "3p": "coubessem"
+  },
+  "FutSC": {
+    "1s": "couber",
+    "2s": "couberes",
+    "3s": "couber",
+    "1p": "coubermos",
+    "2p": "couberdes",
+    "3p": "couberem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cabe",
+    "3s": "caiba",
+    "1p": "caibamos",
+    "2p": "cabei",
+    "3p": "caibam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não caibas",
+    "3s": "não caiba",
+    "1p": "não caibamos",
+    "2p": "não caibais",
+    "3p": "não caibam"
+  },
+  "Part-ter": {
+    "": "cabido"
+  },
+  "Part-ser": {
+    "ms": "cabido",
+    "fs": "cabida",
+    "mp": "cabidos",
+    "fp": "cabidas"
+  }
+}

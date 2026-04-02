@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "evaluar"
+  },
+  "Ger": {
+    "": "evaluando"
+  },
+  "PresI": {
+    "1s": "evalúo",
+    "2s": "evalúas",
+    "3s": "evalúa",
+    "1p": "evaluamos",
+    "2p": "evaluáis",
+    "3p": "evalúan"
+  },
+  "PImpI": {
+    "1s": "evaluaba",
+    "2s": "evaluabas",
+    "3s": "evaluaba",
+    "1p": "evaluábamos",
+    "2p": "evaluabais",
+    "3p": "evaluaban"
+  },
+  "PPSI": {
+    "1s": "evalué",
+    "2s": "evaluaste",
+    "3s": "evaluó",
+    "1p": "evaluamos",
+    "2p": "evaluasteis",
+    "3p": "evaluaron"
+  },
+  "FutSI": {
+    "1s": "evaluaré",
+    "2s": "evaluarás",
+    "3s": "evaluará",
+    "1p": "evaluaremos",
+    "2p": "evaluaréis",
+    "3p": "evaluarán"
+  },
+  "CondS": {
+    "1s": "evaluaría",
+    "2s": "evaluarías",
+    "3s": "evaluaría",
+    "1p": "evaluaríamos",
+    "2p": "evaluaríais",
+    "3p": "evaluarían"
+  },
+  "PresC": {
+    "1s": "evalúe",
+    "2s": "evalúes",
+    "3s": "evalúe",
+    "1p": "evaluemos",
+    "2p": "evaluéis",
+    "3p": "evalúen"
+  },
+  "PMQPSI": {
+    "1s": "evaluara",
+    "2s": "evaluaras",
+    "3s": "evaluara",
+    "1p": "evaluáramos",
+    "2p": "evaluarais",
+    "3p": "evaluaran"
+  },
+  "PImpC": {
+    "1s": "evaluase",
+    "2s": "evaluases",
+    "3s": "evaluase",
+    "1p": "evaluásemos",
+    "2p": "evaluaseis",
+    "3p": "evaluasen"
+  },
+  "FutSC": {
+    "1s": "evaluare",
+    "2s": "evaluares",
+    "3s": "evaluare",
+    "1p": "evaluáremos",
+    "2p": "evaluareis",
+    "3p": "evaluaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evalúa",
+    "3s": "evalúe",
+    "1p": "evaluemos",
+    "2p": "evaluad",
+    "3p": "evalúen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no evalúes",
+    "3s": "no evalúe",
+    "1p": "no evaluemos",
+    "2p": "no evaluéis",
+    "3p": "no evalúen"
+  },
+  "Part-ter": {
+    "": "evaluado"
+  },
+  "Part-ser": {
+    "ms": "evaluado",
+    "fs": "evaluada",
+    "mp": "evaluados",
+    "fp": "evaluadas"
+  }
+}

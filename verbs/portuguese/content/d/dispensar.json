@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dispensar"
+  },
+  "InfP": {
+    "1s": "dispensar",
+    "2s": "dispensares",
+    "3s": "dispensar",
+    "1p": "dispensarmos",
+    "2p": "dispensardes",
+    "3p": "dispensarem"
+  },
+  "Ger": {
+    "": "dispensando"
+  },
+  "PresI": {
+    "1s": "dispenso",
+    "2s": "dispensas",
+    "3s": "dispensa",
+    "1p": "dispensamos",
+    "2p": "dispensais",
+    "3p": "dispensam"
+  },
+  "PImpI": {
+    "1s": "dispensava",
+    "2s": "dispensavas",
+    "3s": "dispensava",
+    "1p": "dispensávamos",
+    "2p": "dispensáveis",
+    "3p": "dispensavam"
+  },
+  "PPSI": {
+    "1s": "dispensei",
+    "2s": "dispensaste",
+    "3s": "dispensou",
+    "1p": "dispensámos",
+    "2p": "dispensastes",
+    "3p": "dispensaram"
+  },
+  "PMQPSI": {
+    "1s": "dispensara",
+    "2s": "dispensaras",
+    "3s": "dispensara",
+    "1p": "dispensáramos",
+    "2p": "dispensáreis",
+    "3p": "dispensaram"
+  },
+  "FutSI": {
+    "1s": "dispensarei",
+    "2s": "dispensarás",
+    "3s": "dispensará",
+    "1p": "dispensaremos",
+    "2p": "dispensareis",
+    "3p": "dispensarão"
+  },
+  "CondS": {
+    "1s": "dispensaria",
+    "2s": "dispensarias",
+    "3s": "dispensaria",
+    "1p": "dispensaríamos",
+    "2p": "dispensaríeis",
+    "3p": "dispensariam"
+  },
+  "PresC": {
+    "1s": "dispense",
+    "2s": "dispenses",
+    "3s": "dispense",
+    "1p": "dispensemos",
+    "2p": "dispenseis",
+    "3p": "dispensem"
+  },
+  "PImpC": {
+    "1s": "dispensasse",
+    "2s": "dispensasses",
+    "3s": "dispensasse",
+    "1p": "dispensássemos",
+    "2p": "dispensásseis",
+    "3p": "dispensassem"
+  },
+  "FutSC": {
+    "1s": "dispensar",
+    "2s": "dispensares",
+    "3s": "dispensar",
+    "1p": "dispensarmos",
+    "2p": "dispensardes",
+    "3p": "dispensarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dispensa",
+    "3s": "dispense",
+    "1p": "dispensemos",
+    "2p": "dispensai",
+    "3p": "dispensem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dispenses",
+    "3s": "não dispense",
+    "1p": "não dispensemos",
+    "2p": "não dispenseis",
+    "3p": "não dispensem"
+  },
+  "Part-ter": {
+    "": "dispensado"
+  },
+  "Part-ser": {
+    "ms": "dispensado",
+    "fs": "dispensada",
+    "mp": "dispensados",
+    "fp": "dispensadas"
+  }
+}

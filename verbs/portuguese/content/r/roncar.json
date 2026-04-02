@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "roncar"
+  },
+  "InfP": {
+    "1s": "roncar",
+    "2s": "roncares",
+    "3s": "roncar",
+    "1p": "roncarmos",
+    "2p": "roncardes",
+    "3p": "roncarem"
+  },
+  "Ger": {
+    "": "roncando"
+  },
+  "PresI": {
+    "1s": "ronco",
+    "2s": "roncas",
+    "3s": "ronca",
+    "1p": "roncamos",
+    "2p": "roncais",
+    "3p": "roncam"
+  },
+  "PImpI": {
+    "1s": "roncava",
+    "2s": "roncavas",
+    "3s": "roncava",
+    "1p": "roncávamos",
+    "2p": "roncáveis",
+    "3p": "roncavam"
+  },
+  "PPSI": {
+    "1s": "ronquei",
+    "2s": "roncaste",
+    "3s": "roncou",
+    "1p": "roncámos",
+    "2p": "roncastes",
+    "3p": "roncaram"
+  },
+  "PMQPSI": {
+    "1s": "roncara",
+    "2s": "roncaras",
+    "3s": "roncara",
+    "1p": "roncáramos",
+    "2p": "roncáreis",
+    "3p": "roncaram"
+  },
+  "FutSI": {
+    "1s": "roncarei",
+    "2s": "roncarás",
+    "3s": "roncará",
+    "1p": "roncaremos",
+    "2p": "roncareis",
+    "3p": "roncarão"
+  },
+  "CondS": {
+    "1s": "roncaria",
+    "2s": "roncarias",
+    "3s": "roncaria",
+    "1p": "roncaríamos",
+    "2p": "roncaríeis",
+    "3p": "roncariam"
+  },
+  "PresC": {
+    "1s": "ronque",
+    "2s": "ronques",
+    "3s": "ronque",
+    "1p": "ronquemos",
+    "2p": "ronqueis",
+    "3p": "ronquem"
+  },
+  "PImpC": {
+    "1s": "roncasse",
+    "2s": "roncasses",
+    "3s": "roncasse",
+    "1p": "roncássemos",
+    "2p": "roncásseis",
+    "3p": "roncassem"
+  },
+  "FutSC": {
+    "1s": "roncar",
+    "2s": "roncares",
+    "3s": "roncar",
+    "1p": "roncarmos",
+    "2p": "roncardes",
+    "3p": "roncarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ronca",
+    "3s": "ronque",
+    "1p": "ronquemos",
+    "2p": "roncai",
+    "3p": "ronquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ronques",
+    "3s": "não ronque",
+    "1p": "não ronquemos",
+    "2p": "não ronqueis",
+    "3p": "não ronquem"
+  },
+  "Part-ter": {
+    "": "roncado"
+  },
+  "Part-ser": {
+    "ms": "roncado",
+    "fs": "roncada",
+    "mp": "roncados",
+    "fp": "roncadas"
+  }
+}

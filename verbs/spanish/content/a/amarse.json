@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amarse"
+  },
+  "Ger": {
+    "": "amándose"
+  },
+  "PresI": {
+    "1s": "me amo",
+    "2s": "te amas",
+    "3s": "se ama",
+    "1p": "nos amamos",
+    "2p": "os amáis",
+    "3p": "se aman"
+  },
+  "PImpI": {
+    "1s": "me amaba",
+    "2s": "te amabas",
+    "3s": "se amaba",
+    "1p": "nos amábamos",
+    "2p": "os amabais",
+    "3p": "se amaban"
+  },
+  "PPSI": {
+    "1s": "me amé",
+    "2s": "te amaste",
+    "3s": "se amó",
+    "1p": "nos amamos",
+    "2p": "os amasteis",
+    "3p": "se amaron"
+  },
+  "FutSI": {
+    "1s": "me amaré",
+    "2s": "te amarás",
+    "3s": "se amará",
+    "1p": "nos amaremos",
+    "2p": "os amaréis",
+    "3p": "se amarán"
+  },
+  "CondS": {
+    "1s": "me amaría",
+    "2s": "te amarías",
+    "3s": "se amaría",
+    "1p": "nos amaríamos",
+    "2p": "os amaríais",
+    "3p": "se amarían"
+  },
+  "PresC": {
+    "1s": "me ame",
+    "2s": "te ames",
+    "3s": "se ame",
+    "1p": "nos amemos",
+    "2p": "os améis",
+    "3p": "se amen"
+  },
+  "PMQPSI": {
+    "1s": "me amara",
+    "2s": "te amaras",
+    "3s": "se amara",
+    "1p": "nos amáramos",
+    "2p": "os amarais",
+    "3p": "se amaran"
+  },
+  "PImpC": {
+    "1s": "me amase",
+    "2s": "te amases",
+    "3s": "se amase",
+    "1p": "nos amásemos",
+    "2p": "os amaseis",
+    "3p": "se amasen"
+  },
+  "FutSC": {
+    "1s": "me amare",
+    "2s": "te amares",
+    "3s": "se amare",
+    "1p": "nos amáremos",
+    "2p": "os amareis",
+    "3p": "se amaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ámate",
+    "3s": "ámese",
+    "1p": "amémonos",
+    "2p": "amaos",
+    "3p": "ámense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te ames",
+    "3s": "no se ame",
+    "1p": "no nos amemos",
+    "2p": "no os améis",
+    "3p": "no se amen"
+  },
+  "Part-ter": {
+    "": "amado"
+  },
+  "Part-ser": {
+    "ms": "amado",
+    "fs": "amada",
+    "mp": "amados",
+    "fp": "amadas"
+  }
+}

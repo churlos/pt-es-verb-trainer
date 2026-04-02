@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dosar"
+  },
+  "InfP": {
+    "1s": "dosar",
+    "2s": "dosares",
+    "3s": "dosar",
+    "1p": "dosarmos",
+    "2p": "dosardes",
+    "3p": "dosarem"
+  },
+  "Ger": {
+    "": "dosando"
+  },
+  "PresI": {
+    "1s": "doso",
+    "2s": "dosas",
+    "3s": "dosa",
+    "1p": "dosamos",
+    "2p": "dosais",
+    "3p": "dosam"
+  },
+  "PImpI": {
+    "1s": "dosava",
+    "2s": "dosavas",
+    "3s": "dosava",
+    "1p": "dosávamos",
+    "2p": "dosáveis",
+    "3p": "dosavam"
+  },
+  "PPSI": {
+    "1s": "dosei",
+    "2s": "dosaste",
+    "3s": "dosou",
+    "1p": "dosámos",
+    "2p": "dosastes",
+    "3p": "dosaram"
+  },
+  "PMQPSI": {
+    "1s": "dosara",
+    "2s": "dosaras",
+    "3s": "dosara",
+    "1p": "dosáramos",
+    "2p": "dosáreis",
+    "3p": "dosaram"
+  },
+  "FutSI": {
+    "1s": "dosarei",
+    "2s": "dosarás",
+    "3s": "dosará",
+    "1p": "dosaremos",
+    "2p": "dosareis",
+    "3p": "dosarão"
+  },
+  "CondS": {
+    "1s": "dosaria",
+    "2s": "dosarias",
+    "3s": "dosaria",
+    "1p": "dosaríamos",
+    "2p": "dosaríeis",
+    "3p": "dosariam"
+  },
+  "PresC": {
+    "1s": "dose",
+    "2s": "doses",
+    "3s": "dose",
+    "1p": "dosemos",
+    "2p": "doseis",
+    "3p": "dosem"
+  },
+  "PImpC": {
+    "1s": "dosasse",
+    "2s": "dosasses",
+    "3s": "dosasse",
+    "1p": "dosássemos",
+    "2p": "dosásseis",
+    "3p": "dosassem"
+  },
+  "FutSC": {
+    "1s": "dosar",
+    "2s": "dosares",
+    "3s": "dosar",
+    "1p": "dosarmos",
+    "2p": "dosardes",
+    "3p": "dosarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dosa",
+    "3s": "dose",
+    "1p": "dosemos",
+    "2p": "dosai",
+    "3p": "dosem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não doses",
+    "3s": "não dose",
+    "1p": "não dosemos",
+    "2p": "não doseis",
+    "3p": "não dosem"
+  },
+  "Part-ter": {
+    "": "dosado"
+  },
+  "Part-ser": {
+    "ms": "dosado",
+    "fs": "dosada",
+    "mp": "dosados",
+    "fp": "dosadas"
+  }
+}

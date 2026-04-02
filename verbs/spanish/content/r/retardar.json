@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retardar"
+  },
+  "Ger": {
+    "": "retardando"
+  },
+  "PresI": {
+    "1s": "retardo",
+    "2s": "retardas",
+    "3s": "retarda",
+    "1p": "retardamos",
+    "2p": "retardáis",
+    "3p": "retardan"
+  },
+  "PImpI": {
+    "1s": "retardaba",
+    "2s": "retardabas",
+    "3s": "retardaba",
+    "1p": "retardábamos",
+    "2p": "retardabais",
+    "3p": "retardaban"
+  },
+  "PPSI": {
+    "1s": "retardé",
+    "2s": "retardaste",
+    "3s": "retardó",
+    "1p": "retardamos",
+    "2p": "retardasteis",
+    "3p": "retardaron"
+  },
+  "FutSI": {
+    "1s": "retardaré",
+    "2s": "retardarás",
+    "3s": "retardará",
+    "1p": "retardaremos",
+    "2p": "retardaréis",
+    "3p": "retardarán"
+  },
+  "CondS": {
+    "1s": "retardaría",
+    "2s": "retardarías",
+    "3s": "retardaría",
+    "1p": "retardaríamos",
+    "2p": "retardaríais",
+    "3p": "retardarían"
+  },
+  "PresC": {
+    "1s": "retarde",
+    "2s": "retardes",
+    "3s": "retarde",
+    "1p": "retardemos",
+    "2p": "retardéis",
+    "3p": "retarden"
+  },
+  "PMQPSI": {
+    "1s": "retardara",
+    "2s": "retardaras",
+    "3s": "retardara",
+    "1p": "retardáramos",
+    "2p": "retardarais",
+    "3p": "retardaran"
+  },
+  "PImpC": {
+    "1s": "retardase",
+    "2s": "retardases",
+    "3s": "retardase",
+    "1p": "retardásemos",
+    "2p": "retardaseis",
+    "3p": "retardasen"
+  },
+  "FutSC": {
+    "1s": "retardare",
+    "2s": "retardares",
+    "3s": "retardare",
+    "1p": "retardáremos",
+    "2p": "retardareis",
+    "3p": "retardaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retarda",
+    "3s": "retarde",
+    "1p": "retardemos",
+    "2p": "retardad",
+    "3p": "retarden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retardes",
+    "3s": "no retarde",
+    "1p": "no retardemos",
+    "2p": "no retardéis",
+    "3p": "no retarden"
+  },
+  "Part-ter": {
+    "": "retardado"
+  },
+  "Part-ser": {
+    "ms": "retardado",
+    "fs": "retardada",
+    "mp": "retardados",
+    "fp": "retardadas"
+  }
+}

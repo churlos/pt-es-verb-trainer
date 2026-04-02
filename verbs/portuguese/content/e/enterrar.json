@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enterrar"
+  },
+  "InfP": {
+    "1s": "enterrar",
+    "2s": "enterrares",
+    "3s": "enterrar",
+    "1p": "enterrarmos",
+    "2p": "enterrardes",
+    "3p": "enterrarem"
+  },
+  "Ger": {
+    "": "enterrando"
+  },
+  "PresI": {
+    "1s": "enterro",
+    "2s": "enterras",
+    "3s": "enterra",
+    "1p": "enterramos",
+    "2p": "enterrais",
+    "3p": "enterram"
+  },
+  "PImpI": {
+    "1s": "enterrava",
+    "2s": "enterravas",
+    "3s": "enterrava",
+    "1p": "enterrávamos",
+    "2p": "enterráveis",
+    "3p": "enterravam"
+  },
+  "PPSI": {
+    "1s": "enterrei",
+    "2s": "enterraste",
+    "3s": "enterrou",
+    "1p": "enterrámos",
+    "2p": "enterrastes",
+    "3p": "enterraram"
+  },
+  "PMQPSI": {
+    "1s": "enterrara",
+    "2s": "enterraras",
+    "3s": "enterrara",
+    "1p": "enterráramos",
+    "2p": "enterráreis",
+    "3p": "enterraram"
+  },
+  "FutSI": {
+    "1s": "enterrarei",
+    "2s": "enterrarás",
+    "3s": "enterrará",
+    "1p": "enterraremos",
+    "2p": "enterrareis",
+    "3p": "enterrarão"
+  },
+  "CondS": {
+    "1s": "enterraria",
+    "2s": "enterrarias",
+    "3s": "enterraria",
+    "1p": "enterraríamos",
+    "2p": "enterraríeis",
+    "3p": "enterrariam"
+  },
+  "PresC": {
+    "1s": "enterre",
+    "2s": "enterres",
+    "3s": "enterre",
+    "1p": "enterremos",
+    "2p": "enterreis",
+    "3p": "enterrem"
+  },
+  "PImpC": {
+    "1s": "enterrasse",
+    "2s": "enterrasses",
+    "3s": "enterrasse",
+    "1p": "enterrássemos",
+    "2p": "enterrásseis",
+    "3p": "enterrassem"
+  },
+  "FutSC": {
+    "1s": "enterrar",
+    "2s": "enterrares",
+    "3s": "enterrar",
+    "1p": "enterrarmos",
+    "2p": "enterrardes",
+    "3p": "enterrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enterra",
+    "3s": "enterre",
+    "1p": "enterremos",
+    "2p": "enterrai",
+    "3p": "enterrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enterres",
+    "3s": "não enterre",
+    "1p": "não enterremos",
+    "2p": "não enterreis",
+    "3p": "não enterrem"
+  },
+  "Part-ter": {
+    "": "enterrado"
+  },
+  "Part-ser": {
+    "ms": "enterrado",
+    "fs": "enterrada",
+    "mp": "enterrados",
+    "fp": "enterradas"
+  }
+}

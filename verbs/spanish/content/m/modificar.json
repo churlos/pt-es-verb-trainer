@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "modificar"
+  },
+  "Ger": {
+    "": "modificando"
+  },
+  "PresI": {
+    "1s": "modifico",
+    "2s": "modificas",
+    "3s": "modifica",
+    "1p": "modificamos",
+    "2p": "modificáis",
+    "3p": "modifican"
+  },
+  "PImpI": {
+    "1s": "modificaba",
+    "2s": "modificabas",
+    "3s": "modificaba",
+    "1p": "modificábamos",
+    "2p": "modificabais",
+    "3p": "modificaban"
+  },
+  "PPSI": {
+    "1s": "modifiqué",
+    "2s": "modificaste",
+    "3s": "modificó",
+    "1p": "modificamos",
+    "2p": "modificasteis",
+    "3p": "modificaron"
+  },
+  "FutSI": {
+    "1s": "modificaré",
+    "2s": "modificarás",
+    "3s": "modificará",
+    "1p": "modificaremos",
+    "2p": "modificaréis",
+    "3p": "modificarán"
+  },
+  "CondS": {
+    "1s": "modificaría",
+    "2s": "modificarías",
+    "3s": "modificaría",
+    "1p": "modificaríamos",
+    "2p": "modificaríais",
+    "3p": "modificarían"
+  },
+  "PresC": {
+    "1s": "modifique",
+    "2s": "modifiques",
+    "3s": "modifique",
+    "1p": "modifiquemos",
+    "2p": "modifiquéis",
+    "3p": "modifiquen"
+  },
+  "PMQPSI": {
+    "1s": "modificara",
+    "2s": "modificaras",
+    "3s": "modificara",
+    "1p": "modificáramos",
+    "2p": "modificarais",
+    "3p": "modificaran"
+  },
+  "PImpC": {
+    "1s": "modificase",
+    "2s": "modificases",
+    "3s": "modificase",
+    "1p": "modificásemos",
+    "2p": "modificaseis",
+    "3p": "modificasen"
+  },
+  "FutSC": {
+    "1s": "modificare",
+    "2s": "modificares",
+    "3s": "modificare",
+    "1p": "modificáremos",
+    "2p": "modificareis",
+    "3p": "modificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modifica",
+    "3s": "modifique",
+    "1p": "modifiquemos",
+    "2p": "modificad",
+    "3p": "modifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no modifiques",
+    "3s": "no modifique",
+    "1p": "no modifiquemos",
+    "2p": "no modifiquéis",
+    "3p": "no modifiquen"
+  },
+  "Part-ter": {
+    "": "modificado"
+  },
+  "Part-ser": {
+    "ms": "modificado",
+    "fs": "modificada",
+    "mp": "modificados",
+    "fp": "modificadas"
+  }
+}

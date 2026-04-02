@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "secuestrar"
+  },
+  "Ger": {
+    "": "secuestrando"
+  },
+  "PresI": {
+    "1s": "secuestro",
+    "2s": "secuestras",
+    "3s": "secuestra",
+    "1p": "secuestramos",
+    "2p": "secuestráis",
+    "3p": "secuestran"
+  },
+  "PImpI": {
+    "1s": "secuestraba",
+    "2s": "secuestrabas",
+    "3s": "secuestraba",
+    "1p": "secuestrábamos",
+    "2p": "secuestrabais",
+    "3p": "secuestraban"
+  },
+  "PPSI": {
+    "1s": "secuestré",
+    "2s": "secuestraste",
+    "3s": "secuestró",
+    "1p": "secuestramos",
+    "2p": "secuestrasteis",
+    "3p": "secuestraron"
+  },
+  "FutSI": {
+    "1s": "secuestraré",
+    "2s": "secuestrarás",
+    "3s": "secuestrará",
+    "1p": "secuestraremos",
+    "2p": "secuestraréis",
+    "3p": "secuestrarán"
+  },
+  "CondS": {
+    "1s": "secuestraría",
+    "2s": "secuestrarías",
+    "3s": "secuestraría",
+    "1p": "secuestraríamos",
+    "2p": "secuestraríais",
+    "3p": "secuestrarían"
+  },
+  "PresC": {
+    "1s": "secuestre",
+    "2s": "secuestres",
+    "3s": "secuestre",
+    "1p": "secuestremos",
+    "2p": "secuestréis",
+    "3p": "secuestren"
+  },
+  "PMQPSI": {
+    "1s": "secuestrara",
+    "2s": "secuestraras",
+    "3s": "secuestrara",
+    "1p": "secuestráramos",
+    "2p": "secuestrarais",
+    "3p": "secuestraran"
+  },
+  "PImpC": {
+    "1s": "secuestrase",
+    "2s": "secuestrases",
+    "3s": "secuestrase",
+    "1p": "secuestrásemos",
+    "2p": "secuestraseis",
+    "3p": "secuestrasen"
+  },
+  "FutSC": {
+    "1s": "secuestrare",
+    "2s": "secuestrares",
+    "3s": "secuestrare",
+    "1p": "secuestráremos",
+    "2p": "secuestrareis",
+    "3p": "secuestraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "secuestra",
+    "3s": "secuestre",
+    "1p": "secuestremos",
+    "2p": "secuestrad",
+    "3p": "secuestren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no secuestres",
+    "3s": "no secuestre",
+    "1p": "no secuestremos",
+    "2p": "no secuestréis",
+    "3p": "no secuestren"
+  },
+  "Part-ter": {
+    "": "secuestrado"
+  },
+  "Part-ser": {
+    "ms": "secuestrado",
+    "fs": "secuestrada",
+    "mp": "secuestrados",
+    "fp": "secuestradas"
+  }
+}

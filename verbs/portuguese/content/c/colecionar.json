@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "colecionar"
+  },
+  "InfP": {
+    "1s": "colecionar",
+    "2s": "colecionares",
+    "3s": "colecionar",
+    "1p": "colecionarmos",
+    "2p": "colecionardes",
+    "3p": "colecionarem"
+  },
+  "Ger": {
+    "": "colecionando"
+  },
+  "PresI": {
+    "1s": "coleciono",
+    "2s": "colecionas",
+    "3s": "coleciona",
+    "1p": "colecionamos",
+    "2p": "colecionais",
+    "3p": "colecionam"
+  },
+  "PImpI": {
+    "1s": "colecionava",
+    "2s": "colecionavas",
+    "3s": "colecionava",
+    "1p": "colecionávamos",
+    "2p": "colecionáveis",
+    "3p": "colecionavam"
+  },
+  "PPSI": {
+    "1s": "colecionei",
+    "2s": "colecionaste",
+    "3s": "colecionou",
+    "1p": "colecionámos",
+    "2p": "colecionastes",
+    "3p": "colecionaram"
+  },
+  "PMQPSI": {
+    "1s": "colecionara",
+    "2s": "colecionaras",
+    "3s": "colecionara",
+    "1p": "colecionáramos",
+    "2p": "colecionáreis",
+    "3p": "colecionaram"
+  },
+  "FutSI": {
+    "1s": "colecionarei",
+    "2s": "colecionarás",
+    "3s": "colecionará",
+    "1p": "colecionaremos",
+    "2p": "colecionareis",
+    "3p": "colecionarão"
+  },
+  "CondS": {
+    "1s": "colecionaria",
+    "2s": "colecionarias",
+    "3s": "colecionaria",
+    "1p": "colecionaríamos",
+    "2p": "colecionaríeis",
+    "3p": "colecionariam"
+  },
+  "PresC": {
+    "1s": "colecione",
+    "2s": "coleciones",
+    "3s": "colecione",
+    "1p": "colecionemos",
+    "2p": "colecioneis",
+    "3p": "colecionem"
+  },
+  "PImpC": {
+    "1s": "colecionasse",
+    "2s": "colecionasses",
+    "3s": "colecionasse",
+    "1p": "colecionássemos",
+    "2p": "colecionásseis",
+    "3p": "colecionassem"
+  },
+  "FutSC": {
+    "1s": "colecionar",
+    "2s": "colecionares",
+    "3s": "colecionar",
+    "1p": "colecionarmos",
+    "2p": "colecionardes",
+    "3p": "colecionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coleciona",
+    "3s": "colecione",
+    "1p": "colecionemos",
+    "2p": "colecionai",
+    "3p": "colecionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coleciones",
+    "3s": "não colecione",
+    "1p": "não colecionemos",
+    "2p": "não colecioneis",
+    "3p": "não colecionem"
+  },
+  "Part-ter": {
+    "": "colecionado"
+  },
+  "Part-ser": {
+    "ms": "colecionado",
+    "fs": "colecionada",
+    "mp": "colecionados",
+    "fp": "colecionadas"
+  }
+}

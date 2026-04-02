@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pugnar"
+  },
+  "InfP": {
+    "1s": "pugnar",
+    "2s": "pugnares",
+    "3s": "pugnar",
+    "1p": "pugnarmos",
+    "2p": "pugnardes",
+    "3p": "pugnarem"
+  },
+  "Ger": {
+    "": "pugnando"
+  },
+  "PresI": {
+    "1s": "pugno",
+    "2s": "pugnas",
+    "3s": "pugna",
+    "1p": "pugnamos",
+    "2p": "pugnais",
+    "3p": "pugnam"
+  },
+  "PImpI": {
+    "1s": "pugnava",
+    "2s": "pugnavas",
+    "3s": "pugnava",
+    "1p": "pugnávamos",
+    "2p": "pugnáveis",
+    "3p": "pugnavam"
+  },
+  "PPSI": {
+    "1s": "pugnei",
+    "2s": "pugnaste",
+    "3s": "pugnou",
+    "1p": "pugnámos",
+    "2p": "pugnastes",
+    "3p": "pugnaram"
+  },
+  "PMQPSI": {
+    "1s": "pugnara",
+    "2s": "pugnaras",
+    "3s": "pugnara",
+    "1p": "pugnáramos",
+    "2p": "pugnáreis",
+    "3p": "pugnaram"
+  },
+  "FutSI": {
+    "1s": "pugnarei",
+    "2s": "pugnarás",
+    "3s": "pugnará",
+    "1p": "pugnaremos",
+    "2p": "pugnareis",
+    "3p": "pugnarão"
+  },
+  "CondS": {
+    "1s": "pugnaria",
+    "2s": "pugnarias",
+    "3s": "pugnaria",
+    "1p": "pugnaríamos",
+    "2p": "pugnaríeis",
+    "3p": "pugnariam"
+  },
+  "PresC": {
+    "1s": "pugne",
+    "2s": "pugnes",
+    "3s": "pugne",
+    "1p": "pugnemos",
+    "2p": "pugneis",
+    "3p": "pugnem"
+  },
+  "PImpC": {
+    "1s": "pugnasse",
+    "2s": "pugnasses",
+    "3s": "pugnasse",
+    "1p": "pugnássemos",
+    "2p": "pugnásseis",
+    "3p": "pugnassem"
+  },
+  "FutSC": {
+    "1s": "pugnar",
+    "2s": "pugnares",
+    "3s": "pugnar",
+    "1p": "pugnarmos",
+    "2p": "pugnardes",
+    "3p": "pugnarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pugna",
+    "3s": "pugne",
+    "1p": "pugnemos",
+    "2p": "pugnai",
+    "3p": "pugnem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pugnes",
+    "3s": "não pugne",
+    "1p": "não pugnemos",
+    "2p": "não pugneis",
+    "3p": "não pugnem"
+  },
+  "Part-ter": {
+    "": "pugnado"
+  },
+  "Part-ser": {
+    "ms": "pugnado",
+    "fs": "pugnada",
+    "mp": "pugnados",
+    "fp": "pugnadas"
+  }
+}

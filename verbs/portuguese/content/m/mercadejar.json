@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mercadejar"
+  },
+  "InfP": {
+    "1s": "mercadejar",
+    "2s": "mercadejares",
+    "3s": "mercadejar",
+    "1p": "mercadejarmos",
+    "2p": "mercadejardes",
+    "3p": "mercadejarem"
+  },
+  "Ger": {
+    "": "mercadejando"
+  },
+  "PresI": {
+    "1s": "mercadejo",
+    "2s": "mercadejas",
+    "3s": "mercadeja",
+    "1p": "mercadejamos",
+    "2p": "mercadejais",
+    "3p": "mercadejam"
+  },
+  "PImpI": {
+    "1s": "mercadejava",
+    "2s": "mercadejavas",
+    "3s": "mercadejava",
+    "1p": "mercadejávamos",
+    "2p": "mercadejáveis",
+    "3p": "mercadejavam"
+  },
+  "PPSI": {
+    "1s": "mercadejei",
+    "2s": "mercadejaste",
+    "3s": "mercadejou",
+    "1p": "mercadejámos",
+    "2p": "mercadejastes",
+    "3p": "mercadejaram"
+  },
+  "PMQPSI": {
+    "1s": "mercadejara",
+    "2s": "mercadejaras",
+    "3s": "mercadejara",
+    "1p": "mercadejáramos",
+    "2p": "mercadejáreis",
+    "3p": "mercadejaram"
+  },
+  "FutSI": {
+    "1s": "mercadejarei",
+    "2s": "mercadejarás",
+    "3s": "mercadejará",
+    "1p": "mercadejaremos",
+    "2p": "mercadejareis",
+    "3p": "mercadejarão"
+  },
+  "CondS": {
+    "1s": "mercadejaria",
+    "2s": "mercadejarias",
+    "3s": "mercadejaria",
+    "1p": "mercadejaríamos",
+    "2p": "mercadejaríeis",
+    "3p": "mercadejariam"
+  },
+  "PresC": {
+    "1s": "mercadeje",
+    "2s": "mercadejes",
+    "3s": "mercadeje",
+    "1p": "mercadejemos",
+    "2p": "mercadejeis",
+    "3p": "mercadejem"
+  },
+  "PImpC": {
+    "1s": "mercadejasse",
+    "2s": "mercadejasses",
+    "3s": "mercadejasse",
+    "1p": "mercadejássemos",
+    "2p": "mercadejásseis",
+    "3p": "mercadejassem"
+  },
+  "FutSC": {
+    "1s": "mercadejar",
+    "2s": "mercadejares",
+    "3s": "mercadejar",
+    "1p": "mercadejarmos",
+    "2p": "mercadejardes",
+    "3p": "mercadejarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mercadeja",
+    "3s": "mercadeje",
+    "1p": "mercadejemos",
+    "2p": "mercadejai",
+    "3p": "mercadejem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mercadejes",
+    "3s": "não mercadeje",
+    "1p": "não mercadejemos",
+    "2p": "não mercadejeis",
+    "3p": "não mercadejem"
+  },
+  "Part-ter": {
+    "": "mercadejado"
+  },
+  "Part-ser": {
+    "ms": "mercadejado",
+    "fs": "mercadejada",
+    "mp": "mercadejados",
+    "fp": "mercadejadas"
+  }
+}

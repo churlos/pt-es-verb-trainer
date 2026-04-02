@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "catalogar"
+  },
+  "InfP": {
+    "1s": "catalogar",
+    "2s": "catalogares",
+    "3s": "catalogar",
+    "1p": "catalogarmos",
+    "2p": "catalogardes",
+    "3p": "catalogarem"
+  },
+  "Ger": {
+    "": "catalogando"
+  },
+  "PresI": {
+    "1s": "catalogo",
+    "2s": "catalogas",
+    "3s": "cataloga",
+    "1p": "catalogamos",
+    "2p": "catalogais",
+    "3p": "catalogam"
+  },
+  "PImpI": {
+    "1s": "catalogava",
+    "2s": "catalogavas",
+    "3s": "catalogava",
+    "1p": "catalogávamos",
+    "2p": "catalogáveis",
+    "3p": "catalogavam"
+  },
+  "PPSI": {
+    "1s": "cataloguei",
+    "2s": "catalogaste",
+    "3s": "catalogou",
+    "1p": "catalogámos",
+    "2p": "catalogastes",
+    "3p": "catalogaram"
+  },
+  "PMQPSI": {
+    "1s": "catalogara",
+    "2s": "catalogaras",
+    "3s": "catalogara",
+    "1p": "catalogáramos",
+    "2p": "catalogáreis",
+    "3p": "catalogaram"
+  },
+  "FutSI": {
+    "1s": "catalogarei",
+    "2s": "catalogarás",
+    "3s": "catalogará",
+    "1p": "catalogaremos",
+    "2p": "catalogareis",
+    "3p": "catalogarão"
+  },
+  "CondS": {
+    "1s": "catalogaria",
+    "2s": "catalogarias",
+    "3s": "catalogaria",
+    "1p": "catalogaríamos",
+    "2p": "catalogaríeis",
+    "3p": "catalogariam"
+  },
+  "PresC": {
+    "1s": "catalogue",
+    "2s": "catalogues",
+    "3s": "catalogue",
+    "1p": "cataloguemos",
+    "2p": "catalogueis",
+    "3p": "cataloguem"
+  },
+  "PImpC": {
+    "1s": "catalogasse",
+    "2s": "catalogasses",
+    "3s": "catalogasse",
+    "1p": "catalogássemos",
+    "2p": "catalogásseis",
+    "3p": "catalogassem"
+  },
+  "FutSC": {
+    "1s": "catalogar",
+    "2s": "catalogares",
+    "3s": "catalogar",
+    "1p": "catalogarmos",
+    "2p": "catalogardes",
+    "3p": "catalogarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cataloga",
+    "3s": "catalogue",
+    "1p": "cataloguemos",
+    "2p": "catalogai",
+    "3p": "cataloguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não catalogues",
+    "3s": "não catalogue",
+    "1p": "não cataloguemos",
+    "2p": "não catalogueis",
+    "3p": "não cataloguem"
+  },
+  "Part-ter": {
+    "": "catalogado"
+  },
+  "Part-ser": {
+    "ms": "catalogado",
+    "fs": "catalogada",
+    "mp": "catalogados",
+    "fp": "catalogadas"
+  }
+}

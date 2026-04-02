@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "redondear"
+  },
+  "Ger": {
+    "": "redondeando"
+  },
+  "PresI": {
+    "1s": "redondeo",
+    "2s": "redondeas",
+    "3s": "redondea",
+    "1p": "redondeamos",
+    "2p": "redondeáis",
+    "3p": "redondean"
+  },
+  "PImpI": {
+    "1s": "redondeaba",
+    "2s": "redondeabas",
+    "3s": "redondeaba",
+    "1p": "redondeábamos",
+    "2p": "redondeabais",
+    "3p": "redondeaban"
+  },
+  "PPSI": {
+    "1s": "redondeé",
+    "2s": "redondeaste",
+    "3s": "redondeó",
+    "1p": "redondeamos",
+    "2p": "redondeasteis",
+    "3p": "redondearon"
+  },
+  "FutSI": {
+    "1s": "redondearé",
+    "2s": "redondearás",
+    "3s": "redondeará",
+    "1p": "redondearemos",
+    "2p": "redondearéis",
+    "3p": "redondearán"
+  },
+  "CondS": {
+    "1s": "redondearía",
+    "2s": "redondearías",
+    "3s": "redondearía",
+    "1p": "redondearíamos",
+    "2p": "redondearíais",
+    "3p": "redondearían"
+  },
+  "PresC": {
+    "1s": "redondee",
+    "2s": "redondees",
+    "3s": "redondee",
+    "1p": "redondeemos",
+    "2p": "redondeéis",
+    "3p": "redondeen"
+  },
+  "PMQPSI": {
+    "1s": "redondeara",
+    "2s": "redondearas",
+    "3s": "redondeara",
+    "1p": "redondeáramos",
+    "2p": "redondearais",
+    "3p": "redondearan"
+  },
+  "PImpC": {
+    "1s": "redondease",
+    "2s": "redondeases",
+    "3s": "redondease",
+    "1p": "redondeásemos",
+    "2p": "redondeaseis",
+    "3p": "redondeasen"
+  },
+  "FutSC": {
+    "1s": "redondeare",
+    "2s": "redondeares",
+    "3s": "redondeare",
+    "1p": "redondeáremos",
+    "2p": "redondeareis",
+    "3p": "redondearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "redondea",
+    "3s": "redondee",
+    "1p": "redondeemos",
+    "2p": "redondead",
+    "3p": "redondeen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no redondees",
+    "3s": "no redondee",
+    "1p": "no redondeemos",
+    "2p": "no redondeéis",
+    "3p": "no redondeen"
+  },
+  "Part-ter": {
+    "": "redondeado"
+  },
+  "Part-ser": {
+    "ms": "redondeado",
+    "fs": "redondeada",
+    "mp": "redondeados",
+    "fp": "redondeadas"
+  }
+}

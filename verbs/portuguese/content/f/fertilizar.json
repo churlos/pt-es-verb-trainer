@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fertilizar"
+  },
+  "InfP": {
+    "1s": "fertilizar",
+    "2s": "fertilizares",
+    "3s": "fertilizar",
+    "1p": "fertilizarmos",
+    "2p": "fertilizardes",
+    "3p": "fertilizarem"
+  },
+  "Ger": {
+    "": "fertilizando"
+  },
+  "PresI": {
+    "1s": "fertilizo",
+    "2s": "fertilizas",
+    "3s": "fertiliza",
+    "1p": "fertilizamos",
+    "2p": "fertilizais",
+    "3p": "fertilizam"
+  },
+  "PImpI": {
+    "1s": "fertilizava",
+    "2s": "fertilizavas",
+    "3s": "fertilizava",
+    "1p": "fertilizávamos",
+    "2p": "fertilizáveis",
+    "3p": "fertilizavam"
+  },
+  "PPSI": {
+    "1s": "fertilizei",
+    "2s": "fertilizaste",
+    "3s": "fertilizou",
+    "1p": "fertilizámos",
+    "2p": "fertilizastes",
+    "3p": "fertilizaram"
+  },
+  "PMQPSI": {
+    "1s": "fertilizara",
+    "2s": "fertilizaras",
+    "3s": "fertilizara",
+    "1p": "fertilizáramos",
+    "2p": "fertilizáreis",
+    "3p": "fertilizaram"
+  },
+  "FutSI": {
+    "1s": "fertilizarei",
+    "2s": "fertilizarás",
+    "3s": "fertilizará",
+    "1p": "fertilizaremos",
+    "2p": "fertilizareis",
+    "3p": "fertilizarão"
+  },
+  "CondS": {
+    "1s": "fertilizaria",
+    "2s": "fertilizarias",
+    "3s": "fertilizaria",
+    "1p": "fertilizaríamos",
+    "2p": "fertilizaríeis",
+    "3p": "fertilizariam"
+  },
+  "PresC": {
+    "1s": "fertilize",
+    "2s": "fertilizes",
+    "3s": "fertilize",
+    "1p": "fertilizemos",
+    "2p": "fertilizeis",
+    "3p": "fertilizem"
+  },
+  "PImpC": {
+    "1s": "fertilizasse",
+    "2s": "fertilizasses",
+    "3s": "fertilizasse",
+    "1p": "fertilizássemos",
+    "2p": "fertilizásseis",
+    "3p": "fertilizassem"
+  },
+  "FutSC": {
+    "1s": "fertilizar",
+    "2s": "fertilizares",
+    "3s": "fertilizar",
+    "1p": "fertilizarmos",
+    "2p": "fertilizardes",
+    "3p": "fertilizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fertiliza",
+    "3s": "fertilize",
+    "1p": "fertilizemos",
+    "2p": "fertilizai",
+    "3p": "fertilizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fertilizes",
+    "3s": "não fertilize",
+    "1p": "não fertilizemos",
+    "2p": "não fertilizeis",
+    "3p": "não fertilizem"
+  },
+  "Part-ter": {
+    "": "fertilizado"
+  },
+  "Part-ser": {
+    "ms": "fertilizado",
+    "fs": "fertilizada",
+    "mp": "fertilizados",
+    "fp": "fertilizadas"
+  }
+}

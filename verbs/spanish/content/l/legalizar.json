@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "legalizar"
+  },
+  "Ger": {
+    "": "legalizando"
+  },
+  "PresI": {
+    "1s": "legalizo",
+    "2s": "legalizas",
+    "3s": "legaliza",
+    "1p": "legalizamos",
+    "2p": "legalizáis",
+    "3p": "legalizan"
+  },
+  "PImpI": {
+    "1s": "legalizaba",
+    "2s": "legalizabas",
+    "3s": "legalizaba",
+    "1p": "legalizábamos",
+    "2p": "legalizabais",
+    "3p": "legalizaban"
+  },
+  "PPSI": {
+    "1s": "legalicé",
+    "2s": "legalizaste",
+    "3s": "legalizó",
+    "1p": "legalizamos",
+    "2p": "legalizasteis",
+    "3p": "legalizaron"
+  },
+  "FutSI": {
+    "1s": "legalizaré",
+    "2s": "legalizarás",
+    "3s": "legalizará",
+    "1p": "legalizaremos",
+    "2p": "legalizaréis",
+    "3p": "legalizarán"
+  },
+  "CondS": {
+    "1s": "legalizaría",
+    "2s": "legalizarías",
+    "3s": "legalizaría",
+    "1p": "legalizaríamos",
+    "2p": "legalizaríais",
+    "3p": "legalizarían"
+  },
+  "PresC": {
+    "1s": "legalice",
+    "2s": "legalices",
+    "3s": "legalice",
+    "1p": "legalicemos",
+    "2p": "legalicéis",
+    "3p": "legalicen"
+  },
+  "PMQPSI": {
+    "1s": "legalizara",
+    "2s": "legalizaras",
+    "3s": "legalizara",
+    "1p": "legalizáramos",
+    "2p": "legalizarais",
+    "3p": "legalizaran"
+  },
+  "PImpC": {
+    "1s": "legalizase",
+    "2s": "legalizases",
+    "3s": "legalizase",
+    "1p": "legalizásemos",
+    "2p": "legalizaseis",
+    "3p": "legalizasen"
+  },
+  "FutSC": {
+    "1s": "legalizare",
+    "2s": "legalizares",
+    "3s": "legalizare",
+    "1p": "legalizáremos",
+    "2p": "legalizareis",
+    "3p": "legalizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "legaliza",
+    "3s": "legalice",
+    "1p": "legalicemos",
+    "2p": "legalizad",
+    "3p": "legalicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no legalices",
+    "3s": "no legalice",
+    "1p": "no legalicemos",
+    "2p": "no legalicéis",
+    "3p": "no legalicen"
+  },
+  "Part-ter": {
+    "": "legalizado"
+  },
+  "Part-ser": {
+    "ms": "legalizado",
+    "fs": "legalizada",
+    "mp": "legalizados",
+    "fp": "legalizadas"
+  }
+}

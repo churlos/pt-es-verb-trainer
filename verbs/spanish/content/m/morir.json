@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "morir"
+  },
+  "Ger": {
+    "": "muriendo"
+  },
+  "PresI": {
+    "1s": "muero",
+    "2s": "mueres",
+    "3s": "muere",
+    "1p": "morimos",
+    "2p": "morís",
+    "3p": "mueren"
+  },
+  "PImpI": {
+    "1s": "moría",
+    "2s": "morías",
+    "3s": "moría",
+    "1p": "moríamos",
+    "2p": "moríais",
+    "3p": "morían"
+  },
+  "PPSI": {
+    "1s": "morí",
+    "2s": "moriste",
+    "3s": "murió",
+    "1p": "morimos",
+    "2p": "moristeis",
+    "3p": "murieron"
+  },
+  "FutSI": {
+    "1s": "moriré",
+    "2s": "morirás",
+    "3s": "morirá",
+    "1p": "moriremos",
+    "2p": "moriréis",
+    "3p": "morirán"
+  },
+  "CondS": {
+    "1s": "moriría",
+    "2s": "morirías",
+    "3s": "moriría",
+    "1p": "moriríamos",
+    "2p": "moriríais",
+    "3p": "morirían"
+  },
+  "PresC": {
+    "1s": "muera",
+    "2s": "mueras",
+    "3s": "muera",
+    "1p": "muramos",
+    "2p": "muráis",
+    "3p": "mueran"
+  },
+  "PMQPSI": {
+    "1s": "muriera",
+    "2s": "murieras",
+    "3s": "muriera",
+    "1p": "muriéramos",
+    "2p": "murierais",
+    "3p": "murieran"
+  },
+  "PImpC": {
+    "1s": "muriese",
+    "2s": "murieses",
+    "3s": "muriese",
+    "1p": "muriésemos",
+    "2p": "murieseis",
+    "3p": "muriesen"
+  },
+  "FutSC": {
+    "1s": "muriere",
+    "2s": "murieres",
+    "3s": "muriere",
+    "1p": "muriéremos",
+    "2p": "muriereis",
+    "3p": "murieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "muere",
+    "3s": "muera",
+    "1p": "muramos",
+    "2p": "morid",
+    "3p": "mueran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no mueras",
+    "3s": "no muera",
+    "1p": "no muramos",
+    "2p": "no muráis",
+    "3p": "no mueran"
+  },
+  "Part-ter": {
+    "": "muerto"
+  },
+  "Part-ser": {
+    "ms": "muerto",
+    "fs": "muerta",
+    "mp": "muertos",
+    "fp": "muertas"
+  }
+}

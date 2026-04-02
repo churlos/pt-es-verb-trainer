@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "colmar"
+  },
+  "InfP": {
+    "1s": "colmar",
+    "2s": "colmares",
+    "3s": "colmar",
+    "1p": "colmarmos",
+    "2p": "colmardes",
+    "3p": "colmarem"
+  },
+  "Ger": {
+    "": "colmando"
+  },
+  "PresI": {
+    "1s": "colmo",
+    "2s": "colmas",
+    "3s": "colma",
+    "1p": "colmamos",
+    "2p": "colmais",
+    "3p": "colmam"
+  },
+  "PImpI": {
+    "1s": "colmava",
+    "2s": "colmavas",
+    "3s": "colmava",
+    "1p": "colmávamos",
+    "2p": "colmáveis",
+    "3p": "colmavam"
+  },
+  "PPSI": {
+    "1s": "colmei",
+    "2s": "colmaste",
+    "3s": "colmou",
+    "1p": "colmámos",
+    "2p": "colmastes",
+    "3p": "colmaram"
+  },
+  "PMQPSI": {
+    "1s": "colmara",
+    "2s": "colmaras",
+    "3s": "colmara",
+    "1p": "colmáramos",
+    "2p": "colmáreis",
+    "3p": "colmaram"
+  },
+  "FutSI": {
+    "1s": "colmarei",
+    "2s": "colmarás",
+    "3s": "colmará",
+    "1p": "colmaremos",
+    "2p": "colmareis",
+    "3p": "colmarão"
+  },
+  "CondS": {
+    "1s": "colmaria",
+    "2s": "colmarias",
+    "3s": "colmaria",
+    "1p": "colmaríamos",
+    "2p": "colmaríeis",
+    "3p": "colmariam"
+  },
+  "PresC": {
+    "1s": "colme",
+    "2s": "colmes",
+    "3s": "colme",
+    "1p": "colmemos",
+    "2p": "colmeis",
+    "3p": "colmem"
+  },
+  "PImpC": {
+    "1s": "colmasse",
+    "2s": "colmasses",
+    "3s": "colmasse",
+    "1p": "colmássemos",
+    "2p": "colmásseis",
+    "3p": "colmassem"
+  },
+  "FutSC": {
+    "1s": "colmar",
+    "2s": "colmares",
+    "3s": "colmar",
+    "1p": "colmarmos",
+    "2p": "colmardes",
+    "3p": "colmarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "colma",
+    "3s": "colme",
+    "1p": "colmemos",
+    "2p": "colmai",
+    "3p": "colmem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não colmes",
+    "3s": "não colme",
+    "1p": "não colmemos",
+    "2p": "não colmeis",
+    "3p": "não colmem"
+  },
+  "Part-ter": {
+    "": "colmado"
+  },
+  "Part-ser": {
+    "ms": "colmado",
+    "fs": "colmada",
+    "mp": "colmados",
+    "fp": "colmadas"
+  }
+}

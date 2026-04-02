@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ungir"
+  },
+  "InfP": {
+    "1s": "ungir",
+    "2s": "ungires",
+    "3s": "ungir",
+    "1p": "ungirmos",
+    "2p": "ungirdes",
+    "3p": "ungirem"
+  },
+  "Ger": {
+    "": "ungindo"
+  },
+  "PresI": {
+    "1s": "unjo",
+    "2s": "unges",
+    "3s": "unge",
+    "1p": "ungimos",
+    "2p": "ungis",
+    "3p": "ungem"
+  },
+  "PImpI": {
+    "1s": "ungia",
+    "2s": "ungias",
+    "3s": "ungia",
+    "1p": "ungíamos",
+    "2p": "ungíeis",
+    "3p": "ungiam"
+  },
+  "PPSI": {
+    "1s": "ungi",
+    "2s": "ungiste",
+    "3s": "ungiu",
+    "1p": "ungimos",
+    "2p": "ungistes",
+    "3p": "ungiram"
+  },
+  "PMQPSI": {
+    "1s": "ungira",
+    "2s": "ungiras",
+    "3s": "ungira",
+    "1p": "ungíramos",
+    "2p": "ungíreis",
+    "3p": "ungiram"
+  },
+  "FutSI": {
+    "1s": "ungirei",
+    "2s": "ungirás",
+    "3s": "ungirá",
+    "1p": "ungiremos",
+    "2p": "ungireis",
+    "3p": "ungirão"
+  },
+  "CondS": {
+    "1s": "ungiria",
+    "2s": "ungirias",
+    "3s": "ungiria",
+    "1p": "ungiríamos",
+    "2p": "ungiríeis",
+    "3p": "ungiriam"
+  },
+  "PresC": {
+    "1s": "unja",
+    "2s": "unjas",
+    "3s": "unja",
+    "1p": "unjamos",
+    "2p": "unjais",
+    "3p": "unjam"
+  },
+  "PImpC": {
+    "1s": "ungisse",
+    "2s": "ungisses",
+    "3s": "ungisse",
+    "1p": "ungíssemos",
+    "2p": "ungísseis",
+    "3p": "ungissem"
+  },
+  "FutSC": {
+    "1s": "ungir",
+    "2s": "ungires",
+    "3s": "ungir",
+    "1p": "ungirmos",
+    "2p": "ungirdes",
+    "3p": "ungirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "unge",
+    "3s": "unja",
+    "1p": "unjamos",
+    "2p": "ungi",
+    "3p": "unjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não unjas",
+    "3s": "não unja",
+    "1p": "não unjamos",
+    "2p": "não unjais",
+    "3p": "não unjam"
+  },
+  "Part-ter": {
+    "": "ungido"
+  },
+  "Part-ser": {
+    "ms": "ungido",
+    "fs": "ungida",
+    "mp": "ungidos",
+    "fp": "ungidas"
+  }
+}

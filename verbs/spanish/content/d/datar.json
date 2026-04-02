@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "datar"
+  },
+  "Ger": {
+    "": "datando"
+  },
+  "PresI": {
+    "1s": "dato",
+    "2s": "datas",
+    "3s": "data",
+    "1p": "datamos",
+    "2p": "datáis",
+    "3p": "datan"
+  },
+  "PImpI": {
+    "1s": "databa",
+    "2s": "databas",
+    "3s": "databa",
+    "1p": "datábamos",
+    "2p": "databais",
+    "3p": "databan"
+  },
+  "PPSI": {
+    "1s": "daté",
+    "2s": "dataste",
+    "3s": "dató",
+    "1p": "datamos",
+    "2p": "datasteis",
+    "3p": "dataron"
+  },
+  "FutSI": {
+    "1s": "dataré",
+    "2s": "datarás",
+    "3s": "datará",
+    "1p": "dataremos",
+    "2p": "dataréis",
+    "3p": "datarán"
+  },
+  "CondS": {
+    "1s": "dataría",
+    "2s": "datarías",
+    "3s": "dataría",
+    "1p": "dataríamos",
+    "2p": "dataríais",
+    "3p": "datarían"
+  },
+  "PresC": {
+    "1s": "date",
+    "2s": "dates",
+    "3s": "date",
+    "1p": "datemos",
+    "2p": "datéis",
+    "3p": "daten"
+  },
+  "PMQPSI": {
+    "1s": "datara",
+    "2s": "dataras",
+    "3s": "datara",
+    "1p": "datáramos",
+    "2p": "datarais",
+    "3p": "dataran"
+  },
+  "PImpC": {
+    "1s": "datase",
+    "2s": "datases",
+    "3s": "datase",
+    "1p": "datásemos",
+    "2p": "dataseis",
+    "3p": "datasen"
+  },
+  "FutSC": {
+    "1s": "datare",
+    "2s": "datares",
+    "3s": "datare",
+    "1p": "datáremos",
+    "2p": "datareis",
+    "3p": "dataren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "data",
+    "3s": "date",
+    "1p": "datemos",
+    "2p": "datad",
+    "3p": "daten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no dates",
+    "3s": "no date",
+    "1p": "no datemos",
+    "2p": "no datéis",
+    "3p": "no daten"
+  },
+  "Part-ter": {
+    "": "datado"
+  },
+  "Part-ser": {
+    "ms": "datado",
+    "fs": "datada",
+    "mp": "datados",
+    "fp": "datadas"
+  }
+}

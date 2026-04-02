@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "parecerse"
+  },
+  "Ger": {
+    "": "pareciéndose"
+  },
+  "PresI": {
+    "1s": "me parezco",
+    "2s": "te pareces",
+    "3s": "se parece",
+    "1p": "nos parecemos",
+    "2p": "os parecéis",
+    "3p": "se parecen"
+  },
+  "PImpI": {
+    "1s": "me parecía",
+    "2s": "te parecías",
+    "3s": "se parecía",
+    "1p": "nos parecíamos",
+    "2p": "os parecíais",
+    "3p": "se parecían"
+  },
+  "PPSI": {
+    "1s": "me parecí",
+    "2s": "te pareciste",
+    "3s": "se pareció",
+    "1p": "nos parecimos",
+    "2p": "os parecisteis",
+    "3p": "se parecieron"
+  },
+  "FutSI": {
+    "1s": "me pareceré",
+    "2s": "te parecerás",
+    "3s": "se parecerá",
+    "1p": "nos pareceremos",
+    "2p": "os pareceréis",
+    "3p": "se parecerán"
+  },
+  "CondS": {
+    "1s": "me parecería",
+    "2s": "te parecerías",
+    "3s": "se parecería",
+    "1p": "nos pareceríamos",
+    "2p": "os pareceríais",
+    "3p": "se parecerían"
+  },
+  "PresC": {
+    "1s": "me parezca",
+    "2s": "te parezcas",
+    "3s": "se parezca",
+    "1p": "nos parezcamos",
+    "2p": "os parezcáis",
+    "3p": "se parezcan"
+  },
+  "PMQPSI": {
+    "1s": "me pareciera",
+    "2s": "te parecieras",
+    "3s": "se pareciera",
+    "1p": "nos pareciéramos",
+    "2p": "os parecierais",
+    "3p": "se parecieran"
+  },
+  "PImpC": {
+    "1s": "me pareciese",
+    "2s": "te parecieses",
+    "3s": "se pareciese",
+    "1p": "nos pareciésemos",
+    "2p": "os parecieseis",
+    "3p": "se pareciesen"
+  },
+  "FutSC": {
+    "1s": "me pareciere",
+    "2s": "te parecieres",
+    "3s": "se pareciere",
+    "1p": "nos pareciéremos",
+    "2p": "os pareciereis",
+    "3p": "se parecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "parécete",
+    "3s": "parézcase",
+    "1p": "parezcámonos",
+    "2p": "pareceos",
+    "3p": "parézcanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te parezcas",
+    "3s": "no se parezca",
+    "1p": "no nos parezcamos",
+    "2p": "no os parezcáis",
+    "3p": "no se parezcan"
+  },
+  "Part-ter": {
+    "": "parecido"
+  },
+  "Part-ser": {
+    "ms": "parecido",
+    "fs": "parecida",
+    "mp": "parecidos",
+    "fp": "parecidas"
+  }
+}

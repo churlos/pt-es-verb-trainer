@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "estragar"
+  },
+  "InfP": {
+    "1s": "estragar",
+    "2s": "estragares",
+    "3s": "estragar",
+    "1p": "estragarmos",
+    "2p": "estragardes",
+    "3p": "estragarem"
+  },
+  "Ger": {
+    "": "estragando"
+  },
+  "PresI": {
+    "1s": "estrago",
+    "2s": "estragas",
+    "3s": "estraga",
+    "1p": "estragamos",
+    "2p": "estragais",
+    "3p": "estragam"
+  },
+  "PImpI": {
+    "1s": "estragava",
+    "2s": "estragavas",
+    "3s": "estragava",
+    "1p": "estragávamos",
+    "2p": "estragáveis",
+    "3p": "estragavam"
+  },
+  "PPSI": {
+    "1s": "estraguei",
+    "2s": "estragaste",
+    "3s": "estragou",
+    "1p": "estragámos",
+    "2p": "estragastes",
+    "3p": "estragaram"
+  },
+  "PMQPSI": {
+    "1s": "estragara",
+    "2s": "estragaras",
+    "3s": "estragara",
+    "1p": "estragáramos",
+    "2p": "estragáreis",
+    "3p": "estragaram"
+  },
+  "FutSI": {
+    "1s": "estragarei",
+    "2s": "estragarás",
+    "3s": "estragará",
+    "1p": "estragaremos",
+    "2p": "estragareis",
+    "3p": "estragarão"
+  },
+  "CondS": {
+    "1s": "estragaria",
+    "2s": "estragarias",
+    "3s": "estragaria",
+    "1p": "estragaríamos",
+    "2p": "estragaríeis",
+    "3p": "estragariam"
+  },
+  "PresC": {
+    "1s": "estrague",
+    "2s": "estragues",
+    "3s": "estrague",
+    "1p": "estraguemos",
+    "2p": "estragueis",
+    "3p": "estraguem"
+  },
+  "PImpC": {
+    "1s": "estragasse",
+    "2s": "estragasses",
+    "3s": "estragasse",
+    "1p": "estragássemos",
+    "2p": "estragásseis",
+    "3p": "estragassem"
+  },
+  "FutSC": {
+    "1s": "estragar",
+    "2s": "estragares",
+    "3s": "estragar",
+    "1p": "estragarmos",
+    "2p": "estragardes",
+    "3p": "estragarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estraga",
+    "3s": "estrague",
+    "1p": "estraguemos",
+    "2p": "estragai",
+    "3p": "estraguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não estragues",
+    "3s": "não estrague",
+    "1p": "não estraguemos",
+    "2p": "não estragueis",
+    "3p": "não estraguem"
+  },
+  "Part-ter": {
+    "": "estragado"
+  },
+  "Part-ser": {
+    "ms": "estragado",
+    "fs": "estragada",
+    "mp": "estragados",
+    "fp": "estragadas"
+  }
+}

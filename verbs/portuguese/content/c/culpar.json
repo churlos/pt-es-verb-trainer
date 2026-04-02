@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "culpar"
+  },
+  "InfP": {
+    "1s": "culpar",
+    "2s": "culpares",
+    "3s": "culpar",
+    "1p": "culparmos",
+    "2p": "culpardes",
+    "3p": "culparem"
+  },
+  "Ger": {
+    "": "culpando"
+  },
+  "PresI": {
+    "1s": "culpo",
+    "2s": "culpas",
+    "3s": "culpa",
+    "1p": "culpamos",
+    "2p": "culpais",
+    "3p": "culpam"
+  },
+  "PImpI": {
+    "1s": "culpava",
+    "2s": "culpavas",
+    "3s": "culpava",
+    "1p": "culpávamos",
+    "2p": "culpáveis",
+    "3p": "culpavam"
+  },
+  "PPSI": {
+    "1s": "culpei",
+    "2s": "culpaste",
+    "3s": "culpou",
+    "1p": "culpámos",
+    "2p": "culpastes",
+    "3p": "culparam"
+  },
+  "PMQPSI": {
+    "1s": "culpara",
+    "2s": "culparas",
+    "3s": "culpara",
+    "1p": "culpáramos",
+    "2p": "culpáreis",
+    "3p": "culparam"
+  },
+  "FutSI": {
+    "1s": "culparei",
+    "2s": "culparás",
+    "3s": "culpará",
+    "1p": "culparemos",
+    "2p": "culpareis",
+    "3p": "culparão"
+  },
+  "CondS": {
+    "1s": "culparia",
+    "2s": "culparias",
+    "3s": "culparia",
+    "1p": "culparíamos",
+    "2p": "culparíeis",
+    "3p": "culpariam"
+  },
+  "PresC": {
+    "1s": "culpe",
+    "2s": "culpes",
+    "3s": "culpe",
+    "1p": "culpemos",
+    "2p": "culpeis",
+    "3p": "culpem"
+  },
+  "PImpC": {
+    "1s": "culpasse",
+    "2s": "culpasses",
+    "3s": "culpasse",
+    "1p": "culpássemos",
+    "2p": "culpásseis",
+    "3p": "culpassem"
+  },
+  "FutSC": {
+    "1s": "culpar",
+    "2s": "culpares",
+    "3s": "culpar",
+    "1p": "culparmos",
+    "2p": "culpardes",
+    "3p": "culparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "culpa",
+    "3s": "culpe",
+    "1p": "culpemos",
+    "2p": "culpai",
+    "3p": "culpem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não culpes",
+    "3s": "não culpe",
+    "1p": "não culpemos",
+    "2p": "não culpeis",
+    "3p": "não culpem"
+  },
+  "Part-ter": {
+    "": "culpado"
+  },
+  "Part-ser": {
+    "ms": "culpado",
+    "fs": "culpada",
+    "mp": "culpados",
+    "fp": "culpadas"
+  }
+}

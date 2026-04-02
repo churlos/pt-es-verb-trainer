@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "microscopiar"
+  },
+  "Ger": {
+    "": "microscopiando"
+  },
+  "PresI": {
+    "1s": "microscopio",
+    "2s": "microscopias",
+    "3s": "microscopia",
+    "1p": "microscopiamos",
+    "2p": "microscopiáis",
+    "3p": "microscopian"
+  },
+  "PImpI": {
+    "1s": "microscopiaba",
+    "2s": "microscopiabas",
+    "3s": "microscopiaba",
+    "1p": "microscopiábamos",
+    "2p": "microscopiabais",
+    "3p": "microscopiaban"
+  },
+  "PPSI": {
+    "1s": "microscopié",
+    "2s": "microscopiaste",
+    "3s": "microscopió",
+    "1p": "microscopiamos",
+    "2p": "microscopiasteis",
+    "3p": "microscopiaron"
+  },
+  "FutSI": {
+    "1s": "microscopiaré",
+    "2s": "microscopiarás",
+    "3s": "microscopiará",
+    "1p": "microscopiaremos",
+    "2p": "microscopiaréis",
+    "3p": "microscopiarán"
+  },
+  "CondS": {
+    "1s": "microscopiaría",
+    "2s": "microscopiarías",
+    "3s": "microscopiaría",
+    "1p": "microscopiaríamos",
+    "2p": "microscopiaríais",
+    "3p": "microscopiarían"
+  },
+  "PresC": {
+    "1s": "microscopie",
+    "2s": "microscopies",
+    "3s": "microscopie",
+    "1p": "microscopiemos",
+    "2p": "microscopiéis",
+    "3p": "microscopien"
+  },
+  "PMQPSI": {
+    "1s": "microscopiara",
+    "2s": "microscopiaras",
+    "3s": "microscopiara",
+    "1p": "microscopiáramos",
+    "2p": "microscopiarais",
+    "3p": "microscopiaran"
+  },
+  "PImpC": {
+    "1s": "microscopiase",
+    "2s": "microscopiases",
+    "3s": "microscopiase",
+    "1p": "microscopiásemos",
+    "2p": "microscopiaseis",
+    "3p": "microscopiasen"
+  },
+  "FutSC": {
+    "1s": "microscopiare",
+    "2s": "microscopiares",
+    "3s": "microscopiare",
+    "1p": "microscopiáremos",
+    "2p": "microscopiareis",
+    "3p": "microscopiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "microscopia",
+    "3s": "microscopie",
+    "1p": "microscopiemos",
+    "2p": "microscopiad",
+    "3p": "microscopien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no microscopies",
+    "3s": "no microscopie",
+    "1p": "no microscopiemos",
+    "2p": "no microscopiéis",
+    "3p": "no microscopien"
+  },
+  "Part-ter": {
+    "": "microscopiado"
+  },
+  "Part-ser": {
+    "ms": "microscopiado",
+    "fs": "microscopiada",
+    "mp": "microscopiados",
+    "fp": "microscopiadas"
+  }
+}

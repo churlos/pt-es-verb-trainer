@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "salivar"
+  },
+  "Ger": {
+    "": "salivando"
+  },
+  "PresI": {
+    "1s": "salivo",
+    "2s": "salivas",
+    "3s": "saliva",
+    "1p": "salivamos",
+    "2p": "saliváis",
+    "3p": "salivan"
+  },
+  "PImpI": {
+    "1s": "salivaba",
+    "2s": "salivabas",
+    "3s": "salivaba",
+    "1p": "salivábamos",
+    "2p": "salivabais",
+    "3p": "salivaban"
+  },
+  "PPSI": {
+    "1s": "salivé",
+    "2s": "salivaste",
+    "3s": "salivó",
+    "1p": "salivamos",
+    "2p": "salivasteis",
+    "3p": "salivaron"
+  },
+  "FutSI": {
+    "1s": "salivaré",
+    "2s": "salivarás",
+    "3s": "salivará",
+    "1p": "salivaremos",
+    "2p": "salivaréis",
+    "3p": "salivarán"
+  },
+  "CondS": {
+    "1s": "salivaría",
+    "2s": "salivarías",
+    "3s": "salivaría",
+    "1p": "salivaríamos",
+    "2p": "salivaríais",
+    "3p": "salivarían"
+  },
+  "PresC": {
+    "1s": "salive",
+    "2s": "salives",
+    "3s": "salive",
+    "1p": "salivemos",
+    "2p": "salivéis",
+    "3p": "saliven"
+  },
+  "PMQPSI": {
+    "1s": "salivara",
+    "2s": "salivaras",
+    "3s": "salivara",
+    "1p": "saliváramos",
+    "2p": "salivarais",
+    "3p": "salivaran"
+  },
+  "PImpC": {
+    "1s": "salivase",
+    "2s": "salivases",
+    "3s": "salivase",
+    "1p": "salivásemos",
+    "2p": "salivaseis",
+    "3p": "salivasen"
+  },
+  "FutSC": {
+    "1s": "salivare",
+    "2s": "salivares",
+    "3s": "salivare",
+    "1p": "saliváremos",
+    "2p": "salivareis",
+    "3p": "salivaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "saliva",
+    "3s": "salive",
+    "1p": "salivemos",
+    "2p": "salivad",
+    "3p": "saliven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salives",
+    "3s": "no salive",
+    "1p": "no salivemos",
+    "2p": "no salivéis",
+    "3p": "no saliven"
+  },
+  "Part-ter": {
+    "": "salivado"
+  },
+  "Part-ser": {
+    "ms": "salivado",
+    "fs": "salivada",
+    "mp": "salivados",
+    "fp": "salivadas"
+  }
+}

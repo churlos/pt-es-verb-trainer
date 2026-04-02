@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "realizar"
+  },
+  "Ger": {
+    "": "realizando"
+  },
+  "PresI": {
+    "1s": "realizo",
+    "2s": "realizas",
+    "3s": "realiza",
+    "1p": "realizamos",
+    "2p": "realizáis",
+    "3p": "realizan"
+  },
+  "PImpI": {
+    "1s": "realizaba",
+    "2s": "realizabas",
+    "3s": "realizaba",
+    "1p": "realizábamos",
+    "2p": "realizabais",
+    "3p": "realizaban"
+  },
+  "PPSI": {
+    "1s": "realicé",
+    "2s": "realizaste",
+    "3s": "realizó",
+    "1p": "realizamos",
+    "2p": "realizasteis",
+    "3p": "realizaron"
+  },
+  "FutSI": {
+    "1s": "realizaré",
+    "2s": "realizarás",
+    "3s": "realizará",
+    "1p": "realizaremos",
+    "2p": "realizaréis",
+    "3p": "realizarán"
+  },
+  "CondS": {
+    "1s": "realizaría",
+    "2s": "realizarías",
+    "3s": "realizaría",
+    "1p": "realizaríamos",
+    "2p": "realizaríais",
+    "3p": "realizarían"
+  },
+  "PresC": {
+    "1s": "realice",
+    "2s": "realices",
+    "3s": "realice",
+    "1p": "realicemos",
+    "2p": "realicéis",
+    "3p": "realicen"
+  },
+  "PMQPSI": {
+    "1s": "realizara",
+    "2s": "realizaras",
+    "3s": "realizara",
+    "1p": "realizáramos",
+    "2p": "realizarais",
+    "3p": "realizaran"
+  },
+  "PImpC": {
+    "1s": "realizase",
+    "2s": "realizases",
+    "3s": "realizase",
+    "1p": "realizásemos",
+    "2p": "realizaseis",
+    "3p": "realizasen"
+  },
+  "FutSC": {
+    "1s": "realizare",
+    "2s": "realizares",
+    "3s": "realizare",
+    "1p": "realizáremos",
+    "2p": "realizareis",
+    "3p": "realizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "realiza",
+    "3s": "realice",
+    "1p": "realicemos",
+    "2p": "realizad",
+    "3p": "realicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no realices",
+    "3s": "no realice",
+    "1p": "no realicemos",
+    "2p": "no realicéis",
+    "3p": "no realicen"
+  },
+  "Part-ter": {
+    "": "realizado"
+  },
+  "Part-ser": {
+    "ms": "realizado",
+    "fs": "realizada",
+    "mp": "realizados",
+    "fp": "realizadas"
+  }
+}

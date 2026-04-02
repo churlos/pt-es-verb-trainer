@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rufar"
+  },
+  "InfP": {
+    "1s": "rufar",
+    "2s": "rufares",
+    "3s": "rufar",
+    "1p": "rufarmos",
+    "2p": "rufardes",
+    "3p": "rufarem"
+  },
+  "Ger": {
+    "": "rufando"
+  },
+  "PresI": {
+    "1s": "rufo",
+    "2s": "rufas",
+    "3s": "rufa",
+    "1p": "rufamos",
+    "2p": "rufais",
+    "3p": "rufam"
+  },
+  "PImpI": {
+    "1s": "rufava",
+    "2s": "rufavas",
+    "3s": "rufava",
+    "1p": "rufávamos",
+    "2p": "rufáveis",
+    "3p": "rufavam"
+  },
+  "PPSI": {
+    "1s": "rufei",
+    "2s": "rufaste",
+    "3s": "rufou",
+    "1p": "rufámos",
+    "2p": "rufastes",
+    "3p": "rufaram"
+  },
+  "PMQPSI": {
+    "1s": "rufara",
+    "2s": "rufaras",
+    "3s": "rufara",
+    "1p": "rufáramos",
+    "2p": "rufáreis",
+    "3p": "rufaram"
+  },
+  "FutSI": {
+    "1s": "rufarei",
+    "2s": "rufarás",
+    "3s": "rufará",
+    "1p": "rufaremos",
+    "2p": "rufareis",
+    "3p": "rufarão"
+  },
+  "CondS": {
+    "1s": "rufaria",
+    "2s": "rufarias",
+    "3s": "rufaria",
+    "1p": "rufaríamos",
+    "2p": "rufaríeis",
+    "3p": "rufariam"
+  },
+  "PresC": {
+    "1s": "rufe",
+    "2s": "rufes",
+    "3s": "rufe",
+    "1p": "rufemos",
+    "2p": "rufeis",
+    "3p": "rufem"
+  },
+  "PImpC": {
+    "1s": "rufasse",
+    "2s": "rufasses",
+    "3s": "rufasse",
+    "1p": "rufássemos",
+    "2p": "rufásseis",
+    "3p": "rufassem"
+  },
+  "FutSC": {
+    "1s": "rufar",
+    "2s": "rufares",
+    "3s": "rufar",
+    "1p": "rufarmos",
+    "2p": "rufardes",
+    "3p": "rufarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rufa",
+    "3s": "rufe",
+    "1p": "rufemos",
+    "2p": "rufai",
+    "3p": "rufem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rufes",
+    "3s": "não rufe",
+    "1p": "não rufemos",
+    "2p": "não rufeis",
+    "3p": "não rufem"
+  },
+  "Part-ter": {
+    "": "rufado"
+  },
+  "Part-ser": {
+    "ms": "rufado",
+    "fs": "rufada",
+    "mp": "rufados",
+    "fp": "rufadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "demorar"
+  },
+  "InfP": {
+    "1s": "demorar",
+    "2s": "demorares",
+    "3s": "demorar",
+    "1p": "demorarmos",
+    "2p": "demorardes",
+    "3p": "demorarem"
+  },
+  "Ger": {
+    "": "demorando"
+  },
+  "PresI": {
+    "1s": "demoro",
+    "2s": "demoras",
+    "3s": "demora",
+    "1p": "demoramos",
+    "2p": "demorais",
+    "3p": "demoram"
+  },
+  "PImpI": {
+    "1s": "demorava",
+    "2s": "demoravas",
+    "3s": "demorava",
+    "1p": "demorávamos",
+    "2p": "demoráveis",
+    "3p": "demoravam"
+  },
+  "PPSI": {
+    "1s": "demorei",
+    "2s": "demoraste",
+    "3s": "demorou",
+    "1p": "demorámos",
+    "2p": "demorastes",
+    "3p": "demoraram"
+  },
+  "PMQPSI": {
+    "1s": "demorara",
+    "2s": "demoraras",
+    "3s": "demorara",
+    "1p": "demoráramos",
+    "2p": "demoráreis",
+    "3p": "demoraram"
+  },
+  "FutSI": {
+    "1s": "demorarei",
+    "2s": "demorarás",
+    "3s": "demorará",
+    "1p": "demoraremos",
+    "2p": "demorareis",
+    "3p": "demorarão"
+  },
+  "CondS": {
+    "1s": "demoraria",
+    "2s": "demorarias",
+    "3s": "demoraria",
+    "1p": "demoraríamos",
+    "2p": "demoraríeis",
+    "3p": "demorariam"
+  },
+  "PresC": {
+    "1s": "demore",
+    "2s": "demores",
+    "3s": "demore",
+    "1p": "demoremos",
+    "2p": "demoreis",
+    "3p": "demorem"
+  },
+  "PImpC": {
+    "1s": "demorasse",
+    "2s": "demorasses",
+    "3s": "demorasse",
+    "1p": "demorássemos",
+    "2p": "demorásseis",
+    "3p": "demorassem"
+  },
+  "FutSC": {
+    "1s": "demorar",
+    "2s": "demorares",
+    "3s": "demorar",
+    "1p": "demorarmos",
+    "2p": "demorardes",
+    "3p": "demorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "demora",
+    "3s": "demore",
+    "1p": "demoremos",
+    "2p": "demorai",
+    "3p": "demorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não demores",
+    "3s": "não demore",
+    "1p": "não demoremos",
+    "2p": "não demoreis",
+    "3p": "não demorem"
+  },
+  "Part-ter": {
+    "": "demorado"
+  },
+  "Part-ser": {
+    "ms": "demorado",
+    "fs": "demorada",
+    "mp": "demorados",
+    "fp": "demoradas"
+  }
+}

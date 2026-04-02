@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "registrar"
+  },
+  "Ger": {
+    "": "registrando"
+  },
+  "PresI": {
+    "1s": "registro",
+    "2s": "registras",
+    "3s": "registra",
+    "1p": "registramos",
+    "2p": "registráis",
+    "3p": "registran"
+  },
+  "PImpI": {
+    "1s": "registraba",
+    "2s": "registrabas",
+    "3s": "registraba",
+    "1p": "registrábamos",
+    "2p": "registrabais",
+    "3p": "registraban"
+  },
+  "PPSI": {
+    "1s": "registré",
+    "2s": "registraste",
+    "3s": "registró",
+    "1p": "registramos",
+    "2p": "registrasteis",
+    "3p": "registraron"
+  },
+  "FutSI": {
+    "1s": "registraré",
+    "2s": "registrarás",
+    "3s": "registrará",
+    "1p": "registraremos",
+    "2p": "registraréis",
+    "3p": "registrarán"
+  },
+  "CondS": {
+    "1s": "registraría",
+    "2s": "registrarías",
+    "3s": "registraría",
+    "1p": "registraríamos",
+    "2p": "registraríais",
+    "3p": "registrarían"
+  },
+  "PresC": {
+    "1s": "registre",
+    "2s": "registres",
+    "3s": "registre",
+    "1p": "registremos",
+    "2p": "registréis",
+    "3p": "registren"
+  },
+  "PMQPSI": {
+    "1s": "registrara",
+    "2s": "registraras",
+    "3s": "registrara",
+    "1p": "registráramos",
+    "2p": "registrarais",
+    "3p": "registraran"
+  },
+  "PImpC": {
+    "1s": "registrase",
+    "2s": "registrases",
+    "3s": "registrase",
+    "1p": "registrásemos",
+    "2p": "registraseis",
+    "3p": "registrasen"
+  },
+  "FutSC": {
+    "1s": "registrare",
+    "2s": "registrares",
+    "3s": "registrare",
+    "1p": "registráremos",
+    "2p": "registrareis",
+    "3p": "registraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "registra",
+    "3s": "registre",
+    "1p": "registremos",
+    "2p": "registrad",
+    "3p": "registren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no registres",
+    "3s": "no registre",
+    "1p": "no registremos",
+    "2p": "no registréis",
+    "3p": "no registren"
+  },
+  "Part-ter": {
+    "": "registrado"
+  },
+  "Part-ser": {
+    "ms": "registrado",
+    "fs": "registrada",
+    "mp": "registrados",
+    "fp": "registradas"
+  }
+}

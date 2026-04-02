@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tanger"
+  },
+  "InfP": {
+    "1s": "tanger",
+    "2s": "tangeres",
+    "3s": "tanger",
+    "1p": "tangermos",
+    "2p": "tangerdes",
+    "3p": "tangerem"
+  },
+  "Ger": {
+    "": "tangendo"
+  },
+  "PresI": {
+    "1s": "tanjo",
+    "2s": "tanges",
+    "3s": "tange",
+    "1p": "tangemos",
+    "2p": "tangeis",
+    "3p": "tangem"
+  },
+  "PImpI": {
+    "1s": "tangia",
+    "2s": "tangias",
+    "3s": "tangia",
+    "1p": "tangíamos",
+    "2p": "tangíeis",
+    "3p": "tangiam"
+  },
+  "PPSI": {
+    "1s": "tangi",
+    "2s": "tangeste",
+    "3s": "tangeu",
+    "1p": "tangemos",
+    "2p": "tangestes",
+    "3p": "tangeram"
+  },
+  "PMQPSI": {
+    "1s": "tangera",
+    "2s": "tangeras",
+    "3s": "tangera",
+    "1p": "tangêramos",
+    "2p": "tangêreis",
+    "3p": "tangeram"
+  },
+  "FutSI": {
+    "1s": "tangerei",
+    "2s": "tangerás",
+    "3s": "tangerá",
+    "1p": "tangeremos",
+    "2p": "tangereis",
+    "3p": "tangerão"
+  },
+  "CondS": {
+    "1s": "tangeria",
+    "2s": "tangerias",
+    "3s": "tangeria",
+    "1p": "tangeríamos",
+    "2p": "tangeríeis",
+    "3p": "tangeriam"
+  },
+  "PresC": {
+    "1s": "tanja",
+    "2s": "tanjas",
+    "3s": "tanja",
+    "1p": "tanjamos",
+    "2p": "tanjais",
+    "3p": "tanjam"
+  },
+  "PImpC": {
+    "1s": "tangesse",
+    "2s": "tangesses",
+    "3s": "tangesse",
+    "1p": "tangêssemos",
+    "2p": "tangêsseis",
+    "3p": "tangessem"
+  },
+  "FutSC": {
+    "1s": "tanger",
+    "2s": "tangeres",
+    "3s": "tanger",
+    "1p": "tangermos",
+    "2p": "tangerdes",
+    "3p": "tangerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tange",
+    "3s": "tanja",
+    "1p": "tanjamos",
+    "2p": "tangei",
+    "3p": "tanjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tanjas",
+    "3s": "não tanja",
+    "1p": "não tanjamos",
+    "2p": "não tanjais",
+    "3p": "não tanjam"
+  },
+  "Part-ter": {
+    "": "tangido"
+  },
+  "Part-ser": {
+    "ms": "tangido",
+    "fs": "tangida",
+    "mp": "tangidos",
+    "fp": "tangidas"
+  }
+}

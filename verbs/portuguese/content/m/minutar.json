@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "minutar"
+  },
+  "InfP": {
+    "1s": "minutar",
+    "2s": "minutares",
+    "3s": "minutar",
+    "1p": "minutarmos",
+    "2p": "minutardes",
+    "3p": "minutarem"
+  },
+  "Ger": {
+    "": "minutando"
+  },
+  "PresI": {
+    "1s": "minuto",
+    "2s": "minutas",
+    "3s": "minuta",
+    "1p": "minutamos",
+    "2p": "minutais",
+    "3p": "minutam"
+  },
+  "PImpI": {
+    "1s": "minutava",
+    "2s": "minutavas",
+    "3s": "minutava",
+    "1p": "minutávamos",
+    "2p": "minutáveis",
+    "3p": "minutavam"
+  },
+  "PPSI": {
+    "1s": "minutei",
+    "2s": "minutaste",
+    "3s": "minutou",
+    "1p": "minutámos",
+    "2p": "minutastes",
+    "3p": "minutaram"
+  },
+  "PMQPSI": {
+    "1s": "minutara",
+    "2s": "minutaras",
+    "3s": "minutara",
+    "1p": "minutáramos",
+    "2p": "minutáreis",
+    "3p": "minutaram"
+  },
+  "FutSI": {
+    "1s": "minutarei",
+    "2s": "minutarás",
+    "3s": "minutará",
+    "1p": "minutaremos",
+    "2p": "minutareis",
+    "3p": "minutarão"
+  },
+  "CondS": {
+    "1s": "minutaria",
+    "2s": "minutarias",
+    "3s": "minutaria",
+    "1p": "minutaríamos",
+    "2p": "minutaríeis",
+    "3p": "minutariam"
+  },
+  "PresC": {
+    "1s": "minute",
+    "2s": "minutes",
+    "3s": "minute",
+    "1p": "minutemos",
+    "2p": "minuteis",
+    "3p": "minutem"
+  },
+  "PImpC": {
+    "1s": "minutasse",
+    "2s": "minutasses",
+    "3s": "minutasse",
+    "1p": "minutássemos",
+    "2p": "minutásseis",
+    "3p": "minutassem"
+  },
+  "FutSC": {
+    "1s": "minutar",
+    "2s": "minutares",
+    "3s": "minutar",
+    "1p": "minutarmos",
+    "2p": "minutardes",
+    "3p": "minutarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "minuta",
+    "3s": "minute",
+    "1p": "minutemos",
+    "2p": "minutai",
+    "3p": "minutem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não minutes",
+    "3s": "não minute",
+    "1p": "não minutemos",
+    "2p": "não minuteis",
+    "3p": "não minutem"
+  },
+  "Part-ter": {
+    "": "minutado"
+  },
+  "Part-ser": {
+    "ms": "minutado",
+    "fs": "minutada",
+    "mp": "minutados",
+    "fp": "minutadas"
+  }
+}

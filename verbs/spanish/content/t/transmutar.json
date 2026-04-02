@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "transmutar"
+  },
+  "Ger": {
+    "": "transmutando"
+  },
+  "PresI": {
+    "1s": "transmuto",
+    "2s": "transmutas",
+    "3s": "transmuta",
+    "1p": "transmutamos",
+    "2p": "transmutáis",
+    "3p": "transmutan"
+  },
+  "PImpI": {
+    "1s": "transmutaba",
+    "2s": "transmutabas",
+    "3s": "transmutaba",
+    "1p": "transmutábamos",
+    "2p": "transmutabais",
+    "3p": "transmutaban"
+  },
+  "PPSI": {
+    "1s": "transmuté",
+    "2s": "transmutaste",
+    "3s": "transmutó",
+    "1p": "transmutamos",
+    "2p": "transmutasteis",
+    "3p": "transmutaron"
+  },
+  "FutSI": {
+    "1s": "transmutaré",
+    "2s": "transmutarás",
+    "3s": "transmutará",
+    "1p": "transmutaremos",
+    "2p": "transmutaréis",
+    "3p": "transmutarán"
+  },
+  "CondS": {
+    "1s": "transmutaría",
+    "2s": "transmutarías",
+    "3s": "transmutaría",
+    "1p": "transmutaríamos",
+    "2p": "transmutaríais",
+    "3p": "transmutarían"
+  },
+  "PresC": {
+    "1s": "transmute",
+    "2s": "transmutes",
+    "3s": "transmute",
+    "1p": "transmutemos",
+    "2p": "transmutéis",
+    "3p": "transmuten"
+  },
+  "PMQPSI": {
+    "1s": "transmutara",
+    "2s": "transmutaras",
+    "3s": "transmutara",
+    "1p": "transmutáramos",
+    "2p": "transmutarais",
+    "3p": "transmutaran"
+  },
+  "PImpC": {
+    "1s": "transmutase",
+    "2s": "transmutases",
+    "3s": "transmutase",
+    "1p": "transmutásemos",
+    "2p": "transmutaseis",
+    "3p": "transmutasen"
+  },
+  "FutSC": {
+    "1s": "transmutare",
+    "2s": "transmutares",
+    "3s": "transmutare",
+    "1p": "transmutáremos",
+    "2p": "transmutareis",
+    "3p": "transmutaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transmuta",
+    "3s": "transmute",
+    "1p": "transmutemos",
+    "2p": "transmutad",
+    "3p": "transmuten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no transmutes",
+    "3s": "no transmute",
+    "1p": "no transmutemos",
+    "2p": "no transmutéis",
+    "3p": "no transmuten"
+  },
+  "Part-ter": {
+    "": "transmutado"
+  },
+  "Part-ser": {
+    "ms": "transmutado",
+    "fs": "transmutada",
+    "mp": "transmutados",
+    "fp": "transmutadas"
+  }
+}

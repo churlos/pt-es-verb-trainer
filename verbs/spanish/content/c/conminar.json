@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conminar"
+  },
+  "Ger": {
+    "": "conminando"
+  },
+  "PresI": {
+    "1s": "conmino",
+    "2s": "conminas",
+    "3s": "conmina",
+    "1p": "conminamos",
+    "2p": "conmináis",
+    "3p": "conminan"
+  },
+  "PImpI": {
+    "1s": "conminaba",
+    "2s": "conminabas",
+    "3s": "conminaba",
+    "1p": "conminábamos",
+    "2p": "conminabais",
+    "3p": "conminaban"
+  },
+  "PPSI": {
+    "1s": "conminé",
+    "2s": "conminaste",
+    "3s": "conminó",
+    "1p": "conminamos",
+    "2p": "conminasteis",
+    "3p": "conminaron"
+  },
+  "FutSI": {
+    "1s": "conminaré",
+    "2s": "conminarás",
+    "3s": "conminará",
+    "1p": "conminaremos",
+    "2p": "conminaréis",
+    "3p": "conminarán"
+  },
+  "CondS": {
+    "1s": "conminaría",
+    "2s": "conminarías",
+    "3s": "conminaría",
+    "1p": "conminaríamos",
+    "2p": "conminaríais",
+    "3p": "conminarían"
+  },
+  "PresC": {
+    "1s": "conmine",
+    "2s": "conmines",
+    "3s": "conmine",
+    "1p": "conminemos",
+    "2p": "conminéis",
+    "3p": "conminen"
+  },
+  "PMQPSI": {
+    "1s": "conminara",
+    "2s": "conminaras",
+    "3s": "conminara",
+    "1p": "conmináramos",
+    "2p": "conminarais",
+    "3p": "conminaran"
+  },
+  "PImpC": {
+    "1s": "conminase",
+    "2s": "conminases",
+    "3s": "conminase",
+    "1p": "conminásemos",
+    "2p": "conminaseis",
+    "3p": "conminasen"
+  },
+  "FutSC": {
+    "1s": "conminare",
+    "2s": "conminares",
+    "3s": "conminare",
+    "1p": "conmináremos",
+    "2p": "conminareis",
+    "3p": "conminaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conmina",
+    "3s": "conmine",
+    "1p": "conminemos",
+    "2p": "conminad",
+    "3p": "conminen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no conmines",
+    "3s": "no conmine",
+    "1p": "no conminemos",
+    "2p": "no conminéis",
+    "3p": "no conminen"
+  },
+  "Part-ter": {
+    "": "conminado"
+  },
+  "Part-ser": {
+    "ms": "conminado",
+    "fs": "conminada",
+    "mp": "conminados",
+    "fp": "conminadas"
+  }
+}

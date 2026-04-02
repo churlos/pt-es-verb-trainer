@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "negar"
+  },
+  "InfP": {
+    "1s": "negar",
+    "2s": "negares",
+    "3s": "negar",
+    "1p": "negarmos",
+    "2p": "negardes",
+    "3p": "negarem"
+  },
+  "Ger": {
+    "": "negando"
+  },
+  "PresI": {
+    "1s": "nego",
+    "2s": "negas",
+    "3s": "nega",
+    "1p": "negamos",
+    "2p": "negais",
+    "3p": "negam"
+  },
+  "PImpI": {
+    "1s": "negava",
+    "2s": "negavas",
+    "3s": "negava",
+    "1p": "negávamos",
+    "2p": "negáveis",
+    "3p": "negavam"
+  },
+  "PPSI": {
+    "1s": "neguei",
+    "2s": "negaste",
+    "3s": "negou",
+    "1p": "negámos",
+    "2p": "negastes",
+    "3p": "negaram"
+  },
+  "PMQPSI": {
+    "1s": "negara",
+    "2s": "negaras",
+    "3s": "negara",
+    "1p": "negáramos",
+    "2p": "negáreis",
+    "3p": "negaram"
+  },
+  "FutSI": {
+    "1s": "negarei",
+    "2s": "negarás",
+    "3s": "negará",
+    "1p": "negaremos",
+    "2p": "negareis",
+    "3p": "negarão"
+  },
+  "CondS": {
+    "1s": "negaria",
+    "2s": "negarias",
+    "3s": "negaria",
+    "1p": "negaríamos",
+    "2p": "negaríeis",
+    "3p": "negariam"
+  },
+  "PresC": {
+    "1s": "negue",
+    "2s": "negues",
+    "3s": "negue",
+    "1p": "neguemos",
+    "2p": "negueis",
+    "3p": "neguem"
+  },
+  "PImpC": {
+    "1s": "negasse",
+    "2s": "negasses",
+    "3s": "negasse",
+    "1p": "negássemos",
+    "2p": "negásseis",
+    "3p": "negassem"
+  },
+  "FutSC": {
+    "1s": "negar",
+    "2s": "negares",
+    "3s": "negar",
+    "1p": "negarmos",
+    "2p": "negardes",
+    "3p": "negarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nega",
+    "3s": "negue",
+    "1p": "neguemos",
+    "2p": "negai",
+    "3p": "neguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não negues",
+    "3s": "não negue",
+    "1p": "não neguemos",
+    "2p": "não negueis",
+    "3p": "não neguem"
+  },
+  "Part-ter": {
+    "": "negado"
+  },
+  "Part-ser": {
+    "ms": "negado",
+    "fs": "negada",
+    "mp": "negados",
+    "fp": "negadas"
+  }
+}

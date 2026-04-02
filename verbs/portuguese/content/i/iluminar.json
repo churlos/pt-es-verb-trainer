@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "iluminar"
+  },
+  "InfP": {
+    "1s": "iluminar",
+    "2s": "iluminares",
+    "3s": "iluminar",
+    "1p": "iluminarmos",
+    "2p": "iluminardes",
+    "3p": "iluminarem"
+  },
+  "Ger": {
+    "": "iluminando"
+  },
+  "PresI": {
+    "1s": "ilumino",
+    "2s": "iluminas",
+    "3s": "ilumina",
+    "1p": "iluminamos",
+    "2p": "iluminais",
+    "3p": "iluminam"
+  },
+  "PImpI": {
+    "1s": "iluminava",
+    "2s": "iluminavas",
+    "3s": "iluminava",
+    "1p": "iluminávamos",
+    "2p": "ilumináveis",
+    "3p": "iluminavam"
+  },
+  "PPSI": {
+    "1s": "iluminei",
+    "2s": "iluminaste",
+    "3s": "iluminou",
+    "1p": "iluminámos",
+    "2p": "iluminastes",
+    "3p": "iluminaram"
+  },
+  "PMQPSI": {
+    "1s": "iluminara",
+    "2s": "iluminaras",
+    "3s": "iluminara",
+    "1p": "ilumináramos",
+    "2p": "ilumináreis",
+    "3p": "iluminaram"
+  },
+  "FutSI": {
+    "1s": "iluminarei",
+    "2s": "iluminarás",
+    "3s": "iluminará",
+    "1p": "iluminaremos",
+    "2p": "iluminareis",
+    "3p": "iluminarão"
+  },
+  "CondS": {
+    "1s": "iluminaria",
+    "2s": "iluminarias",
+    "3s": "iluminaria",
+    "1p": "iluminaríamos",
+    "2p": "iluminaríeis",
+    "3p": "iluminariam"
+  },
+  "PresC": {
+    "1s": "ilumine",
+    "2s": "ilumines",
+    "3s": "ilumine",
+    "1p": "iluminemos",
+    "2p": "ilumineis",
+    "3p": "iluminem"
+  },
+  "PImpC": {
+    "1s": "iluminasse",
+    "2s": "iluminasses",
+    "3s": "iluminasse",
+    "1p": "iluminássemos",
+    "2p": "iluminásseis",
+    "3p": "iluminassem"
+  },
+  "FutSC": {
+    "1s": "iluminar",
+    "2s": "iluminares",
+    "3s": "iluminar",
+    "1p": "iluminarmos",
+    "2p": "iluminardes",
+    "3p": "iluminarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ilumina",
+    "3s": "ilumine",
+    "1p": "iluminemos",
+    "2p": "iluminai",
+    "3p": "iluminem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ilumines",
+    "3s": "não ilumine",
+    "1p": "não iluminemos",
+    "2p": "não ilumineis",
+    "3p": "não iluminem"
+  },
+  "Part-ter": {
+    "": "iluminado"
+  },
+  "Part-ser": {
+    "ms": "iluminado",
+    "fs": "iluminada",
+    "mp": "iluminados",
+    "fp": "iluminadas"
+  }
+}

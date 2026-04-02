@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pincelar"
+  },
+  "InfP": {
+    "1s": "pincelar",
+    "2s": "pincelares",
+    "3s": "pincelar",
+    "1p": "pincelarmos",
+    "2p": "pincelardes",
+    "3p": "pincelarem"
+  },
+  "Ger": {
+    "": "pincelando"
+  },
+  "PresI": {
+    "1s": "pincelo",
+    "2s": "pincelas",
+    "3s": "pincela",
+    "1p": "pincelamos",
+    "2p": "pincelais",
+    "3p": "pincelam"
+  },
+  "PImpI": {
+    "1s": "pincelava",
+    "2s": "pincelavas",
+    "3s": "pincelava",
+    "1p": "pincelávamos",
+    "2p": "pinceláveis",
+    "3p": "pincelavam"
+  },
+  "PPSI": {
+    "1s": "pincelei",
+    "2s": "pincelaste",
+    "3s": "pincelou",
+    "1p": "pincelámos",
+    "2p": "pincelastes",
+    "3p": "pincelaram"
+  },
+  "PMQPSI": {
+    "1s": "pincelara",
+    "2s": "pincelaras",
+    "3s": "pincelara",
+    "1p": "pinceláramos",
+    "2p": "pinceláreis",
+    "3p": "pincelaram"
+  },
+  "FutSI": {
+    "1s": "pincelarei",
+    "2s": "pincelarás",
+    "3s": "pincelará",
+    "1p": "pincelaremos",
+    "2p": "pincelareis",
+    "3p": "pincelarão"
+  },
+  "CondS": {
+    "1s": "pincelaria",
+    "2s": "pincelarias",
+    "3s": "pincelaria",
+    "1p": "pincelaríamos",
+    "2p": "pincelaríeis",
+    "3p": "pincelariam"
+  },
+  "PresC": {
+    "1s": "pincele",
+    "2s": "pinceles",
+    "3s": "pincele",
+    "1p": "pincelemos",
+    "2p": "pinceleis",
+    "3p": "pincelem"
+  },
+  "PImpC": {
+    "1s": "pincelasse",
+    "2s": "pincelasses",
+    "3s": "pincelasse",
+    "1p": "pincelássemos",
+    "2p": "pincelásseis",
+    "3p": "pincelassem"
+  },
+  "FutSC": {
+    "1s": "pincelar",
+    "2s": "pincelares",
+    "3s": "pincelar",
+    "1p": "pincelarmos",
+    "2p": "pincelardes",
+    "3p": "pincelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pincela",
+    "3s": "pincele",
+    "1p": "pincelemos",
+    "2p": "pincelai",
+    "3p": "pincelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pinceles",
+    "3s": "não pincele",
+    "1p": "não pincelemos",
+    "2p": "não pinceleis",
+    "3p": "não pincelem"
+  },
+  "Part-ter": {
+    "": "pincelado"
+  },
+  "Part-ser": {
+    "ms": "pincelado",
+    "fs": "pincelada",
+    "mp": "pincelados",
+    "fp": "pinceladas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "borrar"
+  },
+  "Ger": {
+    "": "borrando"
+  },
+  "PresI": {
+    "1s": "borro",
+    "2s": "borras",
+    "3s": "borra",
+    "1p": "borramos",
+    "2p": "borráis",
+    "3p": "borran"
+  },
+  "PImpI": {
+    "1s": "borraba",
+    "2s": "borrabas",
+    "3s": "borraba",
+    "1p": "borrábamos",
+    "2p": "borrabais",
+    "3p": "borraban"
+  },
+  "PPSI": {
+    "1s": "borré",
+    "2s": "borraste",
+    "3s": "borró",
+    "1p": "borramos",
+    "2p": "borrasteis",
+    "3p": "borraron"
+  },
+  "FutSI": {
+    "1s": "borraré",
+    "2s": "borrarás",
+    "3s": "borrará",
+    "1p": "borraremos",
+    "2p": "borraréis",
+    "3p": "borrarán"
+  },
+  "CondS": {
+    "1s": "borraría",
+    "2s": "borrarías",
+    "3s": "borraría",
+    "1p": "borraríamos",
+    "2p": "borraríais",
+    "3p": "borrarían"
+  },
+  "PresC": {
+    "1s": "borre",
+    "2s": "borres",
+    "3s": "borre",
+    "1p": "borremos",
+    "2p": "borréis",
+    "3p": "borren"
+  },
+  "PMQPSI": {
+    "1s": "borrara",
+    "2s": "borraras",
+    "3s": "borrara",
+    "1p": "borráramos",
+    "2p": "borrarais",
+    "3p": "borraran"
+  },
+  "PImpC": {
+    "1s": "borrase",
+    "2s": "borrases",
+    "3s": "borrase",
+    "1p": "borrásemos",
+    "2p": "borraseis",
+    "3p": "borrasen"
+  },
+  "FutSC": {
+    "1s": "borrare",
+    "2s": "borrares",
+    "3s": "borrare",
+    "1p": "borráremos",
+    "2p": "borrareis",
+    "3p": "borraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "borra",
+    "3s": "borre",
+    "1p": "borremos",
+    "2p": "borrad",
+    "3p": "borren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no borres",
+    "3s": "no borre",
+    "1p": "no borremos",
+    "2p": "no borréis",
+    "3p": "no borren"
+  },
+  "Part-ter": {
+    "": "borrado"
+  },
+  "Part-ser": {
+    "ms": "borrado",
+    "fs": "borrada",
+    "mp": "borrados",
+    "fp": "borradas"
+  }
+}

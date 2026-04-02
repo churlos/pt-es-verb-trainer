@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ozonizar"
+  },
+  "InfP": {
+    "1s": "ozonizar",
+    "2s": "ozonizares",
+    "3s": "ozonizar",
+    "1p": "ozonizarmos",
+    "2p": "ozonizardes",
+    "3p": "ozonizarem"
+  },
+  "Ger": {
+    "": "ozonizando"
+  },
+  "PresI": {
+    "1s": "ozonizo",
+    "2s": "ozonizas",
+    "3s": "ozoniza",
+    "1p": "ozonizamos",
+    "2p": "ozonizais",
+    "3p": "ozonizam"
+  },
+  "PImpI": {
+    "1s": "ozonizava",
+    "2s": "ozonizavas",
+    "3s": "ozonizava",
+    "1p": "ozonizávamos",
+    "2p": "ozonizáveis",
+    "3p": "ozonizavam"
+  },
+  "PPSI": {
+    "1s": "ozonizei",
+    "2s": "ozonizaste",
+    "3s": "ozonizou",
+    "1p": "ozonizámos",
+    "2p": "ozonizastes",
+    "3p": "ozonizaram"
+  },
+  "PMQPSI": {
+    "1s": "ozonizara",
+    "2s": "ozonizaras",
+    "3s": "ozonizara",
+    "1p": "ozonizáramos",
+    "2p": "ozonizáreis",
+    "3p": "ozonizaram"
+  },
+  "FutSI": {
+    "1s": "ozonizarei",
+    "2s": "ozonizarás",
+    "3s": "ozonizará",
+    "1p": "ozonizaremos",
+    "2p": "ozonizareis",
+    "3p": "ozonizarão"
+  },
+  "CondS": {
+    "1s": "ozonizaria",
+    "2s": "ozonizarias",
+    "3s": "ozonizaria",
+    "1p": "ozonizaríamos",
+    "2p": "ozonizaríeis",
+    "3p": "ozonizariam"
+  },
+  "PresC": {
+    "1s": "ozonize",
+    "2s": "ozonizes",
+    "3s": "ozonize",
+    "1p": "ozonizemos",
+    "2p": "ozonizeis",
+    "3p": "ozonizem"
+  },
+  "PImpC": {
+    "1s": "ozonizasse",
+    "2s": "ozonizasses",
+    "3s": "ozonizasse",
+    "1p": "ozonizássemos",
+    "2p": "ozonizásseis",
+    "3p": "ozonizassem"
+  },
+  "FutSC": {
+    "1s": "ozonizar",
+    "2s": "ozonizares",
+    "3s": "ozonizar",
+    "1p": "ozonizarmos",
+    "2p": "ozonizardes",
+    "3p": "ozonizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ozoniza",
+    "3s": "ozonize",
+    "1p": "ozonizemos",
+    "2p": "ozonizai",
+    "3p": "ozonizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ozonizes",
+    "3s": "não ozonize",
+    "1p": "não ozonizemos",
+    "2p": "não ozonizeis",
+    "3p": "não ozonizem"
+  },
+  "Part-ter": {
+    "": "ozonizado"
+  },
+  "Part-ser": {
+    "ms": "ozonizado",
+    "fs": "ozonizada",
+    "mp": "ozonizados",
+    "fp": "ozonizadas"
+  }
+}

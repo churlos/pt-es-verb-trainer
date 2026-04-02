@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encerrar"
+  },
+  "Ger": {
+    "": "encerrando"
+  },
+  "PresI": {
+    "1s": "encierro",
+    "2s": "encierras",
+    "3s": "encierra",
+    "1p": "encerramos",
+    "2p": "encerráis",
+    "3p": "encierran"
+  },
+  "PImpI": {
+    "1s": "encerraba",
+    "2s": "encerrabas",
+    "3s": "encerraba",
+    "1p": "encerrábamos",
+    "2p": "encerrabais",
+    "3p": "encerraban"
+  },
+  "PPSI": {
+    "1s": "encerré",
+    "2s": "encerraste",
+    "3s": "encerró",
+    "1p": "encerramos",
+    "2p": "encerrasteis",
+    "3p": "encerraron"
+  },
+  "FutSI": {
+    "1s": "encerraré",
+    "2s": "encerrarás",
+    "3s": "encerrará",
+    "1p": "encerraremos",
+    "2p": "encerraréis",
+    "3p": "encerrarán"
+  },
+  "CondS": {
+    "1s": "encerraría",
+    "2s": "encerrarías",
+    "3s": "encerraría",
+    "1p": "encerraríamos",
+    "2p": "encerraríais",
+    "3p": "encerrarían"
+  },
+  "PresC": {
+    "1s": "encierre",
+    "2s": "encierres",
+    "3s": "encierre",
+    "1p": "encerremos",
+    "2p": "encerréis",
+    "3p": "encierren"
+  },
+  "PMQPSI": {
+    "1s": "encerrara",
+    "2s": "encerraras",
+    "3s": "encerrara",
+    "1p": "encerráramos",
+    "2p": "encerrarais",
+    "3p": "encerraran"
+  },
+  "PImpC": {
+    "1s": "encerrase",
+    "2s": "encerrases",
+    "3s": "encerrase",
+    "1p": "encerrásemos",
+    "2p": "encerraseis",
+    "3p": "encerrasen"
+  },
+  "FutSC": {
+    "1s": "encerrare",
+    "2s": "encerrares",
+    "3s": "encerrare",
+    "1p": "encerráremos",
+    "2p": "encerrareis",
+    "3p": "encerraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encierra",
+    "3s": "encierre",
+    "1p": "encerremos",
+    "2p": "encerrad",
+    "3p": "encierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encierres",
+    "3s": "no encierre",
+    "1p": "no encerremos",
+    "2p": "no encerréis",
+    "3p": "no encierren"
+  },
+  "Part-ter": {
+    "": "encerrado"
+  },
+  "Part-ser": {
+    "ms": "encerrado",
+    "fs": "encerrada",
+    "mp": "encerrados",
+    "fp": "encerradas"
+  }
+}

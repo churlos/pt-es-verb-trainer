@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "rodar"
+  },
+  "Ger": {
+    "": "rodando"
+  },
+  "PresI": {
+    "1s": "ruedo",
+    "2s": "ruedas",
+    "3s": "rueda",
+    "1p": "rodamos",
+    "2p": "rodáis",
+    "3p": "ruedan"
+  },
+  "PImpI": {
+    "1s": "rodaba",
+    "2s": "rodabas",
+    "3s": "rodaba",
+    "1p": "rodábamos",
+    "2p": "rodabais",
+    "3p": "rodaban"
+  },
+  "PPSI": {
+    "1s": "rodé",
+    "2s": "rodaste",
+    "3s": "rodó",
+    "1p": "rodamos",
+    "2p": "rodasteis",
+    "3p": "rodaron"
+  },
+  "FutSI": {
+    "1s": "rodaré",
+    "2s": "rodarás",
+    "3s": "rodará",
+    "1p": "rodaremos",
+    "2p": "rodaréis",
+    "3p": "rodarán"
+  },
+  "CondS": {
+    "1s": "rodaría",
+    "2s": "rodarías",
+    "3s": "rodaría",
+    "1p": "rodaríamos",
+    "2p": "rodaríais",
+    "3p": "rodarían"
+  },
+  "PresC": {
+    "1s": "ruede",
+    "2s": "ruedes",
+    "3s": "ruede",
+    "1p": "rodemos",
+    "2p": "rodéis",
+    "3p": "rueden"
+  },
+  "PMQPSI": {
+    "1s": "rodara",
+    "2s": "rodaras",
+    "3s": "rodara",
+    "1p": "rodáramos",
+    "2p": "rodarais",
+    "3p": "rodaran"
+  },
+  "PImpC": {
+    "1s": "rodase",
+    "2s": "rodases",
+    "3s": "rodase",
+    "1p": "rodásemos",
+    "2p": "rodaseis",
+    "3p": "rodasen"
+  },
+  "FutSC": {
+    "1s": "rodare",
+    "2s": "rodares",
+    "3s": "rodare",
+    "1p": "rodáremos",
+    "2p": "rodareis",
+    "3p": "rodaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rueda",
+    "3s": "ruede",
+    "1p": "rodemos",
+    "2p": "rodad",
+    "3p": "rueden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ruedes",
+    "3s": "no ruede",
+    "1p": "no rodemos",
+    "2p": "no rodéis",
+    "3p": "no rueden"
+  },
+  "Part-ter": {
+    "": "rodado"
+  },
+  "Part-ser": {
+    "ms": "rodado",
+    "fs": "rodada",
+    "mp": "rodados",
+    "fp": "rodadas"
+  }
+}

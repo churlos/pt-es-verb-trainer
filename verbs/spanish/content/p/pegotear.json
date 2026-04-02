@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pegotear"
+  },
+  "Ger": {
+    "": "pegoteando"
+  },
+  "PresI": {
+    "1s": "pegoteo",
+    "2s": "pegoteas",
+    "3s": "pegotea",
+    "1p": "pegoteamos",
+    "2p": "pegoteáis",
+    "3p": "pegotean"
+  },
+  "PImpI": {
+    "1s": "pegoteaba",
+    "2s": "pegoteabas",
+    "3s": "pegoteaba",
+    "1p": "pegoteábamos",
+    "2p": "pegoteabais",
+    "3p": "pegoteaban"
+  },
+  "PPSI": {
+    "1s": "pegoteé",
+    "2s": "pegoteaste",
+    "3s": "pegoteó",
+    "1p": "pegoteamos",
+    "2p": "pegoteasteis",
+    "3p": "pegotearon"
+  },
+  "FutSI": {
+    "1s": "pegotearé",
+    "2s": "pegotearás",
+    "3s": "pegoteará",
+    "1p": "pegotearemos",
+    "2p": "pegotearéis",
+    "3p": "pegotearán"
+  },
+  "CondS": {
+    "1s": "pegotearía",
+    "2s": "pegotearías",
+    "3s": "pegotearía",
+    "1p": "pegotearíamos",
+    "2p": "pegotearíais",
+    "3p": "pegotearían"
+  },
+  "PresC": {
+    "1s": "pegotee",
+    "2s": "pegotees",
+    "3s": "pegotee",
+    "1p": "pegoteemos",
+    "2p": "pegoteéis",
+    "3p": "pegoteen"
+  },
+  "PMQPSI": {
+    "1s": "pegoteara",
+    "2s": "pegotearas",
+    "3s": "pegoteara",
+    "1p": "pegoteáramos",
+    "2p": "pegotearais",
+    "3p": "pegotearan"
+  },
+  "PImpC": {
+    "1s": "pegotease",
+    "2s": "pegoteases",
+    "3s": "pegotease",
+    "1p": "pegoteásemos",
+    "2p": "pegoteaseis",
+    "3p": "pegoteasen"
+  },
+  "FutSC": {
+    "1s": "pegoteare",
+    "2s": "pegoteares",
+    "3s": "pegoteare",
+    "1p": "pegoteáremos",
+    "2p": "pegoteareis",
+    "3p": "pegotearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pegotea",
+    "3s": "pegotee",
+    "1p": "pegoteemos",
+    "2p": "pegotead",
+    "3p": "pegoteen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pegotees",
+    "3s": "no pegotee",
+    "1p": "no pegoteemos",
+    "2p": "no pegoteéis",
+    "3p": "no pegoteen"
+  },
+  "Part-ter": {
+    "": "pegoteado"
+  },
+  "Part-ser": {
+    "ms": "pegoteado",
+    "fs": "pegoteada",
+    "mp": "pegoteados",
+    "fp": "pegoteadas"
+  }
+}

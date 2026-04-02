@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reabsorber"
+  },
+  "Ger": {
+    "": "reabsorbiendo"
+  },
+  "PresI": {
+    "1s": "reabsorbo",
+    "2s": "reabsorbes",
+    "3s": "reabsorbe",
+    "1p": "reabsorbemos",
+    "2p": "reabsorbéis",
+    "3p": "reabsorben"
+  },
+  "PImpI": {
+    "1s": "reabsorbía",
+    "2s": "reabsorbías",
+    "3s": "reabsorbía",
+    "1p": "reabsorbíamos",
+    "2p": "reabsorbíais",
+    "3p": "reabsorbían"
+  },
+  "PPSI": {
+    "1s": "reabsorbí",
+    "2s": "reabsorbiste",
+    "3s": "reabsorbió",
+    "1p": "reabsorbimos",
+    "2p": "reabsorbisteis",
+    "3p": "reabsorbieron"
+  },
+  "FutSI": {
+    "1s": "reabsorberé",
+    "2s": "reabsorberás",
+    "3s": "reabsorberá",
+    "1p": "reabsorberemos",
+    "2p": "reabsorberéis",
+    "3p": "reabsorberán"
+  },
+  "CondS": {
+    "1s": "reabsorbería",
+    "2s": "reabsorberías",
+    "3s": "reabsorbería",
+    "1p": "reabsorberíamos",
+    "2p": "reabsorberíais",
+    "3p": "reabsorberían"
+  },
+  "PresC": {
+    "1s": "reabsorba",
+    "2s": "reabsorbas",
+    "3s": "reabsorba",
+    "1p": "reabsorbamos",
+    "2p": "reabsorbáis",
+    "3p": "reabsorban"
+  },
+  "PMQPSI": {
+    "1s": "reabsorbiera",
+    "2s": "reabsorbieras",
+    "3s": "reabsorbiera",
+    "1p": "reabsorbiéramos",
+    "2p": "reabsorbierais",
+    "3p": "reabsorbieran"
+  },
+  "PImpC": {
+    "1s": "reabsorbiese",
+    "2s": "reabsorbieses",
+    "3s": "reabsorbiese",
+    "1p": "reabsorbiésemos",
+    "2p": "reabsorbieseis",
+    "3p": "reabsorbiesen"
+  },
+  "FutSC": {
+    "1s": "reabsorbiere",
+    "2s": "reabsorbieres",
+    "3s": "reabsorbiere",
+    "1p": "reabsorbiéremos",
+    "2p": "reabsorbiereis",
+    "3p": "reabsorbieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reabsorbe",
+    "3s": "reabsorba",
+    "1p": "reabsorbamos",
+    "2p": "reabsorbed",
+    "3p": "reabsorban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reabsorbas",
+    "3s": "no reabsorba",
+    "1p": "no reabsorbamos",
+    "2p": "no reabsorbáis",
+    "3p": "no reabsorban"
+  },
+  "Part-ter": {
+    "": "reabsorbido"
+  },
+  "Part-ser": {
+    "ms": "reabsorbido",
+    "fs": "reabsorbida",
+    "mp": "reabsorbidos",
+    "fp": "reabsorbidas"
+  }
+}

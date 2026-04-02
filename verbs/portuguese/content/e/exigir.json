@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exigir"
+  },
+  "InfP": {
+    "1s": "exigir",
+    "2s": "exigires",
+    "3s": "exigir",
+    "1p": "exigirmos",
+    "2p": "exigirdes",
+    "3p": "exigirem"
+  },
+  "Ger": {
+    "": "exigindo"
+  },
+  "PresI": {
+    "1s": "exijo",
+    "2s": "exiges",
+    "3s": "exige",
+    "1p": "exigimos",
+    "2p": "exigis",
+    "3p": "exigem"
+  },
+  "PImpI": {
+    "1s": "exigia",
+    "2s": "exigias",
+    "3s": "exigia",
+    "1p": "exigíamos",
+    "2p": "exigíeis",
+    "3p": "exigiam"
+  },
+  "PPSI": {
+    "1s": "exigi",
+    "2s": "exigiste",
+    "3s": "exigiu",
+    "1p": "exigimos",
+    "2p": "exigistes",
+    "3p": "exigiram"
+  },
+  "PMQPSI": {
+    "1s": "exigira",
+    "2s": "exigiras",
+    "3s": "exigira",
+    "1p": "exigíramos",
+    "2p": "exigíreis",
+    "3p": "exigiram"
+  },
+  "FutSI": {
+    "1s": "exigirei",
+    "2s": "exigirás",
+    "3s": "exigirá",
+    "1p": "exigiremos",
+    "2p": "exigireis",
+    "3p": "exigirão"
+  },
+  "CondS": {
+    "1s": "exigiria",
+    "2s": "exigirias",
+    "3s": "exigiria",
+    "1p": "exigiríamos",
+    "2p": "exigiríeis",
+    "3p": "exigiriam"
+  },
+  "PresC": {
+    "1s": "exija",
+    "2s": "exijas",
+    "3s": "exija",
+    "1p": "exijamos",
+    "2p": "exijais",
+    "3p": "exijam"
+  },
+  "PImpC": {
+    "1s": "exigisse",
+    "2s": "exigisses",
+    "3s": "exigisse",
+    "1p": "exigíssemos",
+    "2p": "exigísseis",
+    "3p": "exigissem"
+  },
+  "FutSC": {
+    "1s": "exigir",
+    "2s": "exigires",
+    "3s": "exigir",
+    "1p": "exigirmos",
+    "2p": "exigirdes",
+    "3p": "exigirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exige",
+    "3s": "exija",
+    "1p": "exijamos",
+    "2p": "exigi",
+    "3p": "exijam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exijas",
+    "3s": "não exija",
+    "1p": "não exijamos",
+    "2p": "não exijais",
+    "3p": "não exijam"
+  },
+  "Part-ter": {
+    "": "exigido"
+  },
+  "Part-ser": {
+    "ms": "exigido",
+    "fs": "exigida",
+    "mp": "exigidos",
+    "fp": "exigidas"
+  }
+}

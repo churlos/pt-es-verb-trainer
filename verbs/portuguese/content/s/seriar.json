@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "seriar"
+  },
+  "InfP": {
+    "1s": "seriar",
+    "2s": "seriares",
+    "3s": "seriar",
+    "1p": "seriarmos",
+    "2p": "seriardes",
+    "3p": "seriarem"
+  },
+  "Ger": {
+    "": "seriando"
+  },
+  "PresI": {
+    "1s": "serio",
+    "2s": "serias",
+    "3s": "seria",
+    "1p": "seriamos",
+    "2p": "seriais",
+    "3p": "seriam"
+  },
+  "PImpI": {
+    "1s": "seriava",
+    "2s": "seriavas",
+    "3s": "seriava",
+    "1p": "seriávamos",
+    "2p": "seriáveis",
+    "3p": "seriavam"
+  },
+  "PPSI": {
+    "1s": "seriei",
+    "2s": "seriaste",
+    "3s": "seriou",
+    "1p": "seriámos",
+    "2p": "seriastes",
+    "3p": "seriaram"
+  },
+  "PMQPSI": {
+    "1s": "seriara",
+    "2s": "seriaras",
+    "3s": "seriara",
+    "1p": "seriáramos",
+    "2p": "seriáreis",
+    "3p": "seriaram"
+  },
+  "FutSI": {
+    "1s": "seriarei",
+    "2s": "seriarás",
+    "3s": "seriará",
+    "1p": "seriaremos",
+    "2p": "seriareis",
+    "3p": "seriarão"
+  },
+  "CondS": {
+    "1s": "seriaria",
+    "2s": "seriarias",
+    "3s": "seriaria",
+    "1p": "seriaríamos",
+    "2p": "seriaríeis",
+    "3p": "seriariam"
+  },
+  "PresC": {
+    "1s": "serie",
+    "2s": "series",
+    "3s": "serie",
+    "1p": "seriemos",
+    "2p": "serieis",
+    "3p": "seriem"
+  },
+  "PImpC": {
+    "1s": "seriasse",
+    "2s": "seriasses",
+    "3s": "seriasse",
+    "1p": "seriássemos",
+    "2p": "seriásseis",
+    "3p": "seriassem"
+  },
+  "FutSC": {
+    "1s": "seriar",
+    "2s": "seriares",
+    "3s": "seriar",
+    "1p": "seriarmos",
+    "2p": "seriardes",
+    "3p": "seriarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "seria",
+    "3s": "serie",
+    "1p": "seriemos",
+    "2p": "seriai",
+    "3p": "seriem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não series",
+    "3s": "não serie",
+    "1p": "não seriemos",
+    "2p": "não serieis",
+    "3p": "não seriem"
+  },
+  "Part-ter": {
+    "": "seriado"
+  },
+  "Part-ser": {
+    "ms": "seriado",
+    "fs": "seriada",
+    "mp": "seriados",
+    "fp": "seriadas"
+  }
+}

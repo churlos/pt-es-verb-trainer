@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "doctorar"
+  },
+  "Ger": {
+    "": "doctorando"
+  },
+  "PresI": {
+    "1s": "doctoro",
+    "2s": "doctoras",
+    "3s": "doctora",
+    "1p": "doctoramos",
+    "2p": "doctoráis",
+    "3p": "doctoran"
+  },
+  "PImpI": {
+    "1s": "doctoraba",
+    "2s": "doctorabas",
+    "3s": "doctoraba",
+    "1p": "doctorábamos",
+    "2p": "doctorabais",
+    "3p": "doctoraban"
+  },
+  "PPSI": {
+    "1s": "doctoré",
+    "2s": "doctoraste",
+    "3s": "doctoró",
+    "1p": "doctoramos",
+    "2p": "doctorasteis",
+    "3p": "doctoraron"
+  },
+  "FutSI": {
+    "1s": "doctoraré",
+    "2s": "doctorarás",
+    "3s": "doctorará",
+    "1p": "doctoraremos",
+    "2p": "doctoraréis",
+    "3p": "doctorarán"
+  },
+  "CondS": {
+    "1s": "doctoraría",
+    "2s": "doctorarías",
+    "3s": "doctoraría",
+    "1p": "doctoraríamos",
+    "2p": "doctoraríais",
+    "3p": "doctorarían"
+  },
+  "PresC": {
+    "1s": "doctore",
+    "2s": "doctores",
+    "3s": "doctore",
+    "1p": "doctoremos",
+    "2p": "doctoréis",
+    "3p": "doctoren"
+  },
+  "PMQPSI": {
+    "1s": "doctorara",
+    "2s": "doctoraras",
+    "3s": "doctorara",
+    "1p": "doctoráramos",
+    "2p": "doctorarais",
+    "3p": "doctoraran"
+  },
+  "PImpC": {
+    "1s": "doctorase",
+    "2s": "doctorases",
+    "3s": "doctorase",
+    "1p": "doctorásemos",
+    "2p": "doctoraseis",
+    "3p": "doctorasen"
+  },
+  "FutSC": {
+    "1s": "doctorare",
+    "2s": "doctorares",
+    "3s": "doctorare",
+    "1p": "doctoráremos",
+    "2p": "doctorareis",
+    "3p": "doctoraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "doctora",
+    "3s": "doctore",
+    "1p": "doctoremos",
+    "2p": "doctorad",
+    "3p": "doctoren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no doctores",
+    "3s": "no doctore",
+    "1p": "no doctoremos",
+    "2p": "no doctoréis",
+    "3p": "no doctoren"
+  },
+  "Part-ter": {
+    "": "doctorado"
+  },
+  "Part-ser": {
+    "ms": "doctorado",
+    "fs": "doctorada",
+    "mp": "doctorados",
+    "fp": "doctoradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vergar"
+  },
+  "InfP": {
+    "1s": "vergar",
+    "2s": "vergares",
+    "3s": "vergar",
+    "1p": "vergarmos",
+    "2p": "vergardes",
+    "3p": "vergarem"
+  },
+  "Ger": {
+    "": "vergando"
+  },
+  "PresI": {
+    "1s": "vergo",
+    "2s": "vergas",
+    "3s": "verga",
+    "1p": "vergamos",
+    "2p": "vergais",
+    "3p": "vergam"
+  },
+  "PImpI": {
+    "1s": "vergava",
+    "2s": "vergavas",
+    "3s": "vergava",
+    "1p": "vergávamos",
+    "2p": "vergáveis",
+    "3p": "vergavam"
+  },
+  "PPSI": {
+    "1s": "verguei",
+    "2s": "vergaste",
+    "3s": "vergou",
+    "1p": "vergámos",
+    "2p": "vergastes",
+    "3p": "vergaram"
+  },
+  "PMQPSI": {
+    "1s": "vergara",
+    "2s": "vergaras",
+    "3s": "vergara",
+    "1p": "vergáramos",
+    "2p": "vergáreis",
+    "3p": "vergaram"
+  },
+  "FutSI": {
+    "1s": "vergarei",
+    "2s": "vergarás",
+    "3s": "vergará",
+    "1p": "vergaremos",
+    "2p": "vergareis",
+    "3p": "vergarão"
+  },
+  "CondS": {
+    "1s": "vergaria",
+    "2s": "vergarias",
+    "3s": "vergaria",
+    "1p": "vergaríamos",
+    "2p": "vergaríeis",
+    "3p": "vergariam"
+  },
+  "PresC": {
+    "1s": "vergue",
+    "2s": "vergues",
+    "3s": "vergue",
+    "1p": "verguemos",
+    "2p": "vergueis",
+    "3p": "verguem"
+  },
+  "PImpC": {
+    "1s": "vergasse",
+    "2s": "vergasses",
+    "3s": "vergasse",
+    "1p": "vergássemos",
+    "2p": "vergásseis",
+    "3p": "vergassem"
+  },
+  "FutSC": {
+    "1s": "vergar",
+    "2s": "vergares",
+    "3s": "vergar",
+    "1p": "vergarmos",
+    "2p": "vergardes",
+    "3p": "vergarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "verga",
+    "3s": "vergue",
+    "1p": "verguemos",
+    "2p": "vergai",
+    "3p": "verguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vergues",
+    "3s": "não vergue",
+    "1p": "não verguemos",
+    "2p": "não vergueis",
+    "3p": "não verguem"
+  },
+  "Part-ter": {
+    "": "vergado"
+  },
+  "Part-ser": {
+    "ms": "vergado",
+    "fs": "vergada",
+    "mp": "vergados",
+    "fp": "vergadas"
+  }
+}

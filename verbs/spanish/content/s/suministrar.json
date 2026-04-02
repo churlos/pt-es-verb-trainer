@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "suministrar"
+  },
+  "Ger": {
+    "": "suministrando"
+  },
+  "PresI": {
+    "1s": "suministro",
+    "2s": "suministras",
+    "3s": "suministra",
+    "1p": "suministramos",
+    "2p": "suministráis",
+    "3p": "suministran"
+  },
+  "PImpI": {
+    "1s": "suministraba",
+    "2s": "suministrabas",
+    "3s": "suministraba",
+    "1p": "suministrábamos",
+    "2p": "suministrabais",
+    "3p": "suministraban"
+  },
+  "PPSI": {
+    "1s": "suministré",
+    "2s": "suministraste",
+    "3s": "suministró",
+    "1p": "suministramos",
+    "2p": "suministrasteis",
+    "3p": "suministraron"
+  },
+  "FutSI": {
+    "1s": "suministraré",
+    "2s": "suministrarás",
+    "3s": "suministrará",
+    "1p": "suministraremos",
+    "2p": "suministraréis",
+    "3p": "suministrarán"
+  },
+  "CondS": {
+    "1s": "suministraría",
+    "2s": "suministrarías",
+    "3s": "suministraría",
+    "1p": "suministraríamos",
+    "2p": "suministraríais",
+    "3p": "suministrarían"
+  },
+  "PresC": {
+    "1s": "suministre",
+    "2s": "suministres",
+    "3s": "suministre",
+    "1p": "suministremos",
+    "2p": "suministréis",
+    "3p": "suministren"
+  },
+  "PMQPSI": {
+    "1s": "suministrara",
+    "2s": "suministraras",
+    "3s": "suministrara",
+    "1p": "suministráramos",
+    "2p": "suministrarais",
+    "3p": "suministraran"
+  },
+  "PImpC": {
+    "1s": "suministrase",
+    "2s": "suministrases",
+    "3s": "suministrase",
+    "1p": "suministrásemos",
+    "2p": "suministraseis",
+    "3p": "suministrasen"
+  },
+  "FutSC": {
+    "1s": "suministrare",
+    "2s": "suministrares",
+    "3s": "suministrare",
+    "1p": "suministráremos",
+    "2p": "suministrareis",
+    "3p": "suministraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "suministra",
+    "3s": "suministre",
+    "1p": "suministremos",
+    "2p": "suministrad",
+    "3p": "suministren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no suministres",
+    "3s": "no suministre",
+    "1p": "no suministremos",
+    "2p": "no suministréis",
+    "3p": "no suministren"
+  },
+  "Part-ter": {
+    "": "suministrado"
+  },
+  "Part-ser": {
+    "ms": "suministrado",
+    "fs": "suministrada",
+    "mp": "suministrados",
+    "fp": "suministradas"
+  }
+}

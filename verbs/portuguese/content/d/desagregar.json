@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desagregar"
+  },
+  "InfP": {
+    "1s": "desagregar",
+    "2s": "desagregares",
+    "3s": "desagregar",
+    "1p": "desagregarmos",
+    "2p": "desagregardes",
+    "3p": "desagregarem"
+  },
+  "Ger": {
+    "": "desagregando"
+  },
+  "PresI": {
+    "1s": "desagrego",
+    "2s": "desagregas",
+    "3s": "desagrega",
+    "1p": "desagregamos",
+    "2p": "desagregais",
+    "3p": "desagregam"
+  },
+  "PImpI": {
+    "1s": "desagregava",
+    "2s": "desagregavas",
+    "3s": "desagregava",
+    "1p": "desagregávamos",
+    "2p": "desagregáveis",
+    "3p": "desagregavam"
+  },
+  "PPSI": {
+    "1s": "desagreguei",
+    "2s": "desagregaste",
+    "3s": "desagregou",
+    "1p": "desagregámos",
+    "2p": "desagregastes",
+    "3p": "desagregaram"
+  },
+  "PMQPSI": {
+    "1s": "desagregara",
+    "2s": "desagregaras",
+    "3s": "desagregara",
+    "1p": "desagregáramos",
+    "2p": "desagregáreis",
+    "3p": "desagregaram"
+  },
+  "FutSI": {
+    "1s": "desagregarei",
+    "2s": "desagregarás",
+    "3s": "desagregará",
+    "1p": "desagregaremos",
+    "2p": "desagregareis",
+    "3p": "desagregarão"
+  },
+  "CondS": {
+    "1s": "desagregaria",
+    "2s": "desagregarias",
+    "3s": "desagregaria",
+    "1p": "desagregaríamos",
+    "2p": "desagregaríeis",
+    "3p": "desagregariam"
+  },
+  "PresC": {
+    "1s": "desagregue",
+    "2s": "desagregues",
+    "3s": "desagregue",
+    "1p": "desagreguemos",
+    "2p": "desagregueis",
+    "3p": "desagreguem"
+  },
+  "PImpC": {
+    "1s": "desagregasse",
+    "2s": "desagregasses",
+    "3s": "desagregasse",
+    "1p": "desagregássemos",
+    "2p": "desagregásseis",
+    "3p": "desagregassem"
+  },
+  "FutSC": {
+    "1s": "desagregar",
+    "2s": "desagregares",
+    "3s": "desagregar",
+    "1p": "desagregarmos",
+    "2p": "desagregardes",
+    "3p": "desagregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desagrega",
+    "3s": "desagregue",
+    "1p": "desagreguemos",
+    "2p": "desagregai",
+    "3p": "desagreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desagregues",
+    "3s": "não desagregue",
+    "1p": "não desagreguemos",
+    "2p": "não desagregueis",
+    "3p": "não desagreguem"
+  },
+  "Part-ter": {
+    "": "desagregado"
+  },
+  "Part-ser": {
+    "ms": "desagregado",
+    "fs": "desagregada",
+    "mp": "desagregados",
+    "fp": "desagregadas"
+  }
+}

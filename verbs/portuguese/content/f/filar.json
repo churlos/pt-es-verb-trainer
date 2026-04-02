@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "filar"
+  },
+  "InfP": {
+    "1s": "filar",
+    "2s": "filares",
+    "3s": "filar",
+    "1p": "filarmos",
+    "2p": "filardes",
+    "3p": "filarem"
+  },
+  "Ger": {
+    "": "filando"
+  },
+  "PresI": {
+    "1s": "filo",
+    "2s": "filas",
+    "3s": "fila",
+    "1p": "filamos",
+    "2p": "filais",
+    "3p": "filam"
+  },
+  "PImpI": {
+    "1s": "filava",
+    "2s": "filavas",
+    "3s": "filava",
+    "1p": "filávamos",
+    "2p": "filáveis",
+    "3p": "filavam"
+  },
+  "PPSI": {
+    "1s": "filei",
+    "2s": "filaste",
+    "3s": "filou",
+    "1p": "filámos",
+    "2p": "filastes",
+    "3p": "filaram"
+  },
+  "PMQPSI": {
+    "1s": "filara",
+    "2s": "filaras",
+    "3s": "filara",
+    "1p": "filáramos",
+    "2p": "filáreis",
+    "3p": "filaram"
+  },
+  "FutSI": {
+    "1s": "filarei",
+    "2s": "filarás",
+    "3s": "filará",
+    "1p": "filaremos",
+    "2p": "filareis",
+    "3p": "filarão"
+  },
+  "CondS": {
+    "1s": "filaria",
+    "2s": "filarias",
+    "3s": "filaria",
+    "1p": "filaríamos",
+    "2p": "filaríeis",
+    "3p": "filariam"
+  },
+  "PresC": {
+    "1s": "file",
+    "2s": "files",
+    "3s": "file",
+    "1p": "filemos",
+    "2p": "fileis",
+    "3p": "filem"
+  },
+  "PImpC": {
+    "1s": "filasse",
+    "2s": "filasses",
+    "3s": "filasse",
+    "1p": "filássemos",
+    "2p": "filásseis",
+    "3p": "filassem"
+  },
+  "FutSC": {
+    "1s": "filar",
+    "2s": "filares",
+    "3s": "filar",
+    "1p": "filarmos",
+    "2p": "filardes",
+    "3p": "filarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fila",
+    "3s": "file",
+    "1p": "filemos",
+    "2p": "filai",
+    "3p": "filem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não files",
+    "3s": "não file",
+    "1p": "não filemos",
+    "2p": "não fileis",
+    "3p": "não filem"
+  },
+  "Part-ter": {
+    "": "filado"
+  },
+  "Part-ser": {
+    "ms": "filado",
+    "fs": "filada",
+    "mp": "filados",
+    "fp": "filadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ressecar"
+  },
+  "InfP": {
+    "1s": "ressecar",
+    "2s": "ressecares",
+    "3s": "ressecar",
+    "1p": "ressecarmos",
+    "2p": "ressecardes",
+    "3p": "ressecarem"
+  },
+  "Ger": {
+    "": "ressecando"
+  },
+  "PresI": {
+    "1s": "resseco",
+    "2s": "ressecas",
+    "3s": "resseca",
+    "1p": "ressecamos",
+    "2p": "ressecais",
+    "3p": "ressecam"
+  },
+  "PImpI": {
+    "1s": "ressecava",
+    "2s": "ressecavas",
+    "3s": "ressecava",
+    "1p": "ressecávamos",
+    "2p": "ressecáveis",
+    "3p": "ressecavam"
+  },
+  "PPSI": {
+    "1s": "ressequei",
+    "2s": "ressecaste",
+    "3s": "ressecou",
+    "1p": "ressecámos",
+    "2p": "ressecastes",
+    "3p": "ressecaram"
+  },
+  "PMQPSI": {
+    "1s": "ressecara",
+    "2s": "ressecaras",
+    "3s": "ressecara",
+    "1p": "ressecáramos",
+    "2p": "ressecáreis",
+    "3p": "ressecaram"
+  },
+  "FutSI": {
+    "1s": "ressecarei",
+    "2s": "ressecarás",
+    "3s": "ressecará",
+    "1p": "ressecaremos",
+    "2p": "ressecareis",
+    "3p": "ressecarão"
+  },
+  "CondS": {
+    "1s": "ressecaria",
+    "2s": "ressecarias",
+    "3s": "ressecaria",
+    "1p": "ressecaríamos",
+    "2p": "ressecaríeis",
+    "3p": "ressecariam"
+  },
+  "PresC": {
+    "1s": "resseque",
+    "2s": "resseques",
+    "3s": "resseque",
+    "1p": "ressequemos",
+    "2p": "ressequeis",
+    "3p": "ressequem"
+  },
+  "PImpC": {
+    "1s": "ressecasse",
+    "2s": "ressecasses",
+    "3s": "ressecasse",
+    "1p": "ressecássemos",
+    "2p": "ressecásseis",
+    "3p": "ressecassem"
+  },
+  "FutSC": {
+    "1s": "ressecar",
+    "2s": "ressecares",
+    "3s": "ressecar",
+    "1p": "ressecarmos",
+    "2p": "ressecardes",
+    "3p": "ressecarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "resseca",
+    "3s": "resseque",
+    "1p": "ressequemos",
+    "2p": "ressecai",
+    "3p": "ressequem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não resseques",
+    "3s": "não resseque",
+    "1p": "não ressequemos",
+    "2p": "não ressequeis",
+    "3p": "não ressequem"
+  },
+  "Part-ter": {
+    "": "ressecado"
+  },
+  "Part-ser": {
+    "ms": "ressecado",
+    "fs": "ressecada",
+    "mp": "ressecados",
+    "fp": "ressecadas"
+  }
+}

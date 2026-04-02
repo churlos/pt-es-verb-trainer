@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "discriminar"
+  },
+  "InfP": {
+    "1s": "discriminar",
+    "2s": "discriminares",
+    "3s": "discriminar",
+    "1p": "discriminarmos",
+    "2p": "discriminardes",
+    "3p": "discriminarem"
+  },
+  "Ger": {
+    "": "discriminando"
+  },
+  "PresI": {
+    "1s": "discrimino",
+    "2s": "discriminas",
+    "3s": "discrimina",
+    "1p": "discriminamos",
+    "2p": "discriminais",
+    "3p": "discriminam"
+  },
+  "PImpI": {
+    "1s": "discriminava",
+    "2s": "discriminavas",
+    "3s": "discriminava",
+    "1p": "discriminávamos",
+    "2p": "discrimináveis",
+    "3p": "discriminavam"
+  },
+  "PPSI": {
+    "1s": "discriminei",
+    "2s": "discriminaste",
+    "3s": "discriminou",
+    "1p": "discriminámos",
+    "2p": "discriminastes",
+    "3p": "discriminaram"
+  },
+  "PMQPSI": {
+    "1s": "discriminara",
+    "2s": "discriminaras",
+    "3s": "discriminara",
+    "1p": "discrimináramos",
+    "2p": "discrimináreis",
+    "3p": "discriminaram"
+  },
+  "FutSI": {
+    "1s": "discriminarei",
+    "2s": "discriminarás",
+    "3s": "discriminará",
+    "1p": "discriminaremos",
+    "2p": "discriminareis",
+    "3p": "discriminarão"
+  },
+  "CondS": {
+    "1s": "discriminaria",
+    "2s": "discriminarias",
+    "3s": "discriminaria",
+    "1p": "discriminaríamos",
+    "2p": "discriminaríeis",
+    "3p": "discriminariam"
+  },
+  "PresC": {
+    "1s": "discrimine",
+    "2s": "discrimines",
+    "3s": "discrimine",
+    "1p": "discriminemos",
+    "2p": "discrimineis",
+    "3p": "discriminem"
+  },
+  "PImpC": {
+    "1s": "discriminasse",
+    "2s": "discriminasses",
+    "3s": "discriminasse",
+    "1p": "discriminássemos",
+    "2p": "discriminásseis",
+    "3p": "discriminassem"
+  },
+  "FutSC": {
+    "1s": "discriminar",
+    "2s": "discriminares",
+    "3s": "discriminar",
+    "1p": "discriminarmos",
+    "2p": "discriminardes",
+    "3p": "discriminarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "discrimina",
+    "3s": "discrimine",
+    "1p": "discriminemos",
+    "2p": "discriminai",
+    "3p": "discriminem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não discrimines",
+    "3s": "não discrimine",
+    "1p": "não discriminemos",
+    "2p": "não discrimineis",
+    "3p": "não discriminem"
+  },
+  "Part-ter": {
+    "": "discriminado"
+  },
+  "Part-ser": {
+    "ms": "discriminado",
+    "fs": "discriminada",
+    "mp": "discriminados",
+    "fp": "discriminadas"
+  }
+}

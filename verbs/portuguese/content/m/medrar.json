@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "medrar"
+  },
+  "InfP": {
+    "1s": "medrar",
+    "2s": "medrares",
+    "3s": "medrar",
+    "1p": "medrarmos",
+    "2p": "medrardes",
+    "3p": "medrarem"
+  },
+  "Ger": {
+    "": "medrando"
+  },
+  "PresI": {
+    "1s": "medro",
+    "2s": "medras",
+    "3s": "medra",
+    "1p": "medramos",
+    "2p": "medrais",
+    "3p": "medram"
+  },
+  "PImpI": {
+    "1s": "medrava",
+    "2s": "medravas",
+    "3s": "medrava",
+    "1p": "medrávamos",
+    "2p": "medráveis",
+    "3p": "medravam"
+  },
+  "PPSI": {
+    "1s": "medrei",
+    "2s": "medraste",
+    "3s": "medrou",
+    "1p": "medrámos",
+    "2p": "medrastes",
+    "3p": "medraram"
+  },
+  "PMQPSI": {
+    "1s": "medrara",
+    "2s": "medraras",
+    "3s": "medrara",
+    "1p": "medráramos",
+    "2p": "medráreis",
+    "3p": "medraram"
+  },
+  "FutSI": {
+    "1s": "medrarei",
+    "2s": "medrarás",
+    "3s": "medrará",
+    "1p": "medraremos",
+    "2p": "medrareis",
+    "3p": "medrarão"
+  },
+  "CondS": {
+    "1s": "medraria",
+    "2s": "medrarias",
+    "3s": "medraria",
+    "1p": "medraríamos",
+    "2p": "medraríeis",
+    "3p": "medrariam"
+  },
+  "PresC": {
+    "1s": "medre",
+    "2s": "medres",
+    "3s": "medre",
+    "1p": "medremos",
+    "2p": "medreis",
+    "3p": "medrem"
+  },
+  "PImpC": {
+    "1s": "medrasse",
+    "2s": "medrasses",
+    "3s": "medrasse",
+    "1p": "medrássemos",
+    "2p": "medrásseis",
+    "3p": "medrassem"
+  },
+  "FutSC": {
+    "1s": "medrar",
+    "2s": "medrares",
+    "3s": "medrar",
+    "1p": "medrarmos",
+    "2p": "medrardes",
+    "3p": "medrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medra",
+    "3s": "medre",
+    "1p": "medremos",
+    "2p": "medrai",
+    "3p": "medrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não medres",
+    "3s": "não medre",
+    "1p": "não medremos",
+    "2p": "não medreis",
+    "3p": "não medrem"
+  },
+  "Part-ter": {
+    "": "medrado"
+  },
+  "Part-ser": {
+    "ms": "medrado",
+    "fs": "medrada",
+    "mp": "medrados",
+    "fp": "medradas"
+  }
+}

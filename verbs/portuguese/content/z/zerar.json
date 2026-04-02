@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "zerar"
+  },
+  "InfP": {
+    "1s": "zerar",
+    "2s": "zerares",
+    "3s": "zerar",
+    "1p": "zerarmos",
+    "2p": "zerardes",
+    "3p": "zerarem"
+  },
+  "Ger": {
+    "": "zerando"
+  },
+  "PresI": {
+    "1s": "zero",
+    "2s": "zeras",
+    "3s": "zera",
+    "1p": "zeramos",
+    "2p": "zerais",
+    "3p": "zeram"
+  },
+  "PImpI": {
+    "1s": "zerava",
+    "2s": "zeravas",
+    "3s": "zerava",
+    "1p": "zerávamos",
+    "2p": "zeráveis",
+    "3p": "zeravam"
+  },
+  "PPSI": {
+    "1s": "zerei",
+    "2s": "zeraste",
+    "3s": "zerou",
+    "1p": "zerámos",
+    "2p": "zerastes",
+    "3p": "zeraram"
+  },
+  "PMQPSI": {
+    "1s": "zerara",
+    "2s": "zeraras",
+    "3s": "zerara",
+    "1p": "zeráramos",
+    "2p": "zeráreis",
+    "3p": "zeraram"
+  },
+  "FutSI": {
+    "1s": "zerarei",
+    "2s": "zerarás",
+    "3s": "zerará",
+    "1p": "zeraremos",
+    "2p": "zerareis",
+    "3p": "zerarão"
+  },
+  "CondS": {
+    "1s": "zeraria",
+    "2s": "zerarias",
+    "3s": "zeraria",
+    "1p": "zeraríamos",
+    "2p": "zeraríeis",
+    "3p": "zerariam"
+  },
+  "PresC": {
+    "1s": "zere",
+    "2s": "zeres",
+    "3s": "zere",
+    "1p": "zeremos",
+    "2p": "zereis",
+    "3p": "zerem"
+  },
+  "PImpC": {
+    "1s": "zerasse",
+    "2s": "zerasses",
+    "3s": "zerasse",
+    "1p": "zerássemos",
+    "2p": "zerásseis",
+    "3p": "zerassem"
+  },
+  "FutSC": {
+    "1s": "zerar",
+    "2s": "zerares",
+    "3s": "zerar",
+    "1p": "zerarmos",
+    "2p": "zerardes",
+    "3p": "zerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "zera",
+    "3s": "zere",
+    "1p": "zeremos",
+    "2p": "zerai",
+    "3p": "zerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não zeres",
+    "3s": "não zere",
+    "1p": "não zeremos",
+    "2p": "não zereis",
+    "3p": "não zerem"
+  },
+  "Part-ter": {
+    "": "zerado"
+  },
+  "Part-ser": {
+    "ms": "zerado",
+    "fs": "zerada",
+    "mp": "zerados",
+    "fp": "zeradas"
+  }
+}

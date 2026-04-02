@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fincar"
+  },
+  "InfP": {
+    "1s": "fincar",
+    "2s": "fincares",
+    "3s": "fincar",
+    "1p": "fincarmos",
+    "2p": "fincardes",
+    "3p": "fincarem"
+  },
+  "Ger": {
+    "": "fincando"
+  },
+  "PresI": {
+    "1s": "finco",
+    "2s": "fincas",
+    "3s": "finca",
+    "1p": "fincamos",
+    "2p": "fincais",
+    "3p": "fincam"
+  },
+  "PImpI": {
+    "1s": "fincava",
+    "2s": "fincavas",
+    "3s": "fincava",
+    "1p": "fincávamos",
+    "2p": "fincáveis",
+    "3p": "fincavam"
+  },
+  "PPSI": {
+    "1s": "finquei",
+    "2s": "fincaste",
+    "3s": "fincou",
+    "1p": "fincámos",
+    "2p": "fincastes",
+    "3p": "fincaram"
+  },
+  "PMQPSI": {
+    "1s": "fincara",
+    "2s": "fincaras",
+    "3s": "fincara",
+    "1p": "fincáramos",
+    "2p": "fincáreis",
+    "3p": "fincaram"
+  },
+  "FutSI": {
+    "1s": "fincarei",
+    "2s": "fincarás",
+    "3s": "fincará",
+    "1p": "fincaremos",
+    "2p": "fincareis",
+    "3p": "fincarão"
+  },
+  "CondS": {
+    "1s": "fincaria",
+    "2s": "fincarias",
+    "3s": "fincaria",
+    "1p": "fincaríamos",
+    "2p": "fincaríeis",
+    "3p": "fincariam"
+  },
+  "PresC": {
+    "1s": "finque",
+    "2s": "finques",
+    "3s": "finque",
+    "1p": "finquemos",
+    "2p": "finqueis",
+    "3p": "finquem"
+  },
+  "PImpC": {
+    "1s": "fincasse",
+    "2s": "fincasses",
+    "3s": "fincasse",
+    "1p": "fincássemos",
+    "2p": "fincásseis",
+    "3p": "fincassem"
+  },
+  "FutSC": {
+    "1s": "fincar",
+    "2s": "fincares",
+    "3s": "fincar",
+    "1p": "fincarmos",
+    "2p": "fincardes",
+    "3p": "fincarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "finca",
+    "3s": "finque",
+    "1p": "finquemos",
+    "2p": "fincai",
+    "3p": "finquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não finques",
+    "3s": "não finque",
+    "1p": "não finquemos",
+    "2p": "não finqueis",
+    "3p": "não finquem"
+  },
+  "Part-ter": {
+    "": "fincado"
+  },
+  "Part-ser": {
+    "ms": "fincado",
+    "fs": "fincada",
+    "mp": "fincados",
+    "fp": "fincadas"
+  }
+}

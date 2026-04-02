@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "aturar"
+  },
+  "InfP": {
+    "1s": "aturar",
+    "2s": "aturares",
+    "3s": "aturar",
+    "1p": "aturarmos",
+    "2p": "aturardes",
+    "3p": "aturarem"
+  },
+  "Ger": {
+    "": "aturando"
+  },
+  "PresI": {
+    "1s": "aturo",
+    "2s": "aturas",
+    "3s": "atura",
+    "1p": "aturamos",
+    "2p": "aturais",
+    "3p": "aturam"
+  },
+  "PImpI": {
+    "1s": "aturava",
+    "2s": "aturavas",
+    "3s": "aturava",
+    "1p": "aturávamos",
+    "2p": "aturáveis",
+    "3p": "aturavam"
+  },
+  "PPSI": {
+    "1s": "aturei",
+    "2s": "aturaste",
+    "3s": "aturou",
+    "1p": "aturámos",
+    "2p": "aturastes",
+    "3p": "aturaram"
+  },
+  "PMQPSI": {
+    "1s": "aturara",
+    "2s": "aturaras",
+    "3s": "aturara",
+    "1p": "aturáramos",
+    "2p": "aturáreis",
+    "3p": "aturaram"
+  },
+  "FutSI": {
+    "1s": "aturarei",
+    "2s": "aturarás",
+    "3s": "aturará",
+    "1p": "aturaremos",
+    "2p": "aturareis",
+    "3p": "aturarão"
+  },
+  "CondS": {
+    "1s": "aturaria",
+    "2s": "aturarias",
+    "3s": "aturaria",
+    "1p": "aturaríamos",
+    "2p": "aturaríeis",
+    "3p": "aturariam"
+  },
+  "PresC": {
+    "1s": "ature",
+    "2s": "atures",
+    "3s": "ature",
+    "1p": "aturemos",
+    "2p": "atureis",
+    "3p": "aturem"
+  },
+  "PImpC": {
+    "1s": "aturasse",
+    "2s": "aturasses",
+    "3s": "aturasse",
+    "1p": "aturássemos",
+    "2p": "aturásseis",
+    "3p": "aturassem"
+  },
+  "FutSC": {
+    "1s": "aturar",
+    "2s": "aturares",
+    "3s": "aturar",
+    "1p": "aturarmos",
+    "2p": "aturardes",
+    "3p": "aturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atura",
+    "3s": "ature",
+    "1p": "aturemos",
+    "2p": "aturai",
+    "3p": "aturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atures",
+    "3s": "não ature",
+    "1p": "não aturemos",
+    "2p": "não atureis",
+    "3p": "não aturem"
+  },
+  "Part-ter": {
+    "": "aturado"
+  },
+  "Part-ser": {
+    "ms": "aturado",
+    "fs": "aturada",
+    "mp": "aturados",
+    "fp": "aturadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "taixar"
+  },
+  "InfP": {
+    "1s": "taixar",
+    "2s": "taixares",
+    "3s": "taixar",
+    "1p": "taixarmos",
+    "2p": "taixardes",
+    "3p": "taixarem"
+  },
+  "Ger": {
+    "": "taixando"
+  },
+  "PresI": {
+    "1s": "taixo",
+    "2s": "taixas",
+    "3s": "taixa",
+    "1p": "taixamos",
+    "2p": "taixais",
+    "3p": "taixam"
+  },
+  "PImpI": {
+    "1s": "taixava",
+    "2s": "taixavas",
+    "3s": "taixava",
+    "1p": "taixávamos",
+    "2p": "taixáveis",
+    "3p": "taixavam"
+  },
+  "PPSI": {
+    "1s": "taixei",
+    "2s": "taixaste",
+    "3s": "taixou",
+    "1p": "taixámos",
+    "2p": "taixastes",
+    "3p": "taixaram"
+  },
+  "PMQPSI": {
+    "1s": "taixara",
+    "2s": "taixaras",
+    "3s": "taixara",
+    "1p": "taixáramos",
+    "2p": "taixáreis",
+    "3p": "taixaram"
+  },
+  "FutSI": {
+    "1s": "taixarei",
+    "2s": "taixarás",
+    "3s": "taixará",
+    "1p": "taixaremos",
+    "2p": "taixareis",
+    "3p": "taixarão"
+  },
+  "CondS": {
+    "1s": "taixaria",
+    "2s": "taixarias",
+    "3s": "taixaria",
+    "1p": "taixaríamos",
+    "2p": "taixaríeis",
+    "3p": "taixariam"
+  },
+  "PresC": {
+    "1s": "taixe",
+    "2s": "taixes",
+    "3s": "taixe",
+    "1p": "taixemos",
+    "2p": "taixeis",
+    "3p": "taixem"
+  },
+  "PImpC": {
+    "1s": "taixasse",
+    "2s": "taixasses",
+    "3s": "taixasse",
+    "1p": "taixássemos",
+    "2p": "taixásseis",
+    "3p": "taixassem"
+  },
+  "FutSC": {
+    "1s": "taixar",
+    "2s": "taixares",
+    "3s": "taixar",
+    "1p": "taixarmos",
+    "2p": "taixardes",
+    "3p": "taixarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "taixa",
+    "3s": "taixe",
+    "1p": "taixemos",
+    "2p": "taixai",
+    "3p": "taixem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não taixes",
+    "3s": "não taixe",
+    "1p": "não taixemos",
+    "2p": "não taixeis",
+    "3p": "não taixem"
+  },
+  "Part-ter": {
+    "": "taixado"
+  },
+  "Part-ser": {
+    "ms": "taixado",
+    "fs": "taixada",
+    "mp": "taixados",
+    "fp": "taixadas"
+  }
+}

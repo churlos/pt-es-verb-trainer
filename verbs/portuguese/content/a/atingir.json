@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "atingir"
+  },
+  "InfP": {
+    "1s": "atingir",
+    "2s": "atingires",
+    "3s": "atingir",
+    "1p": "atingirmos",
+    "2p": "atingirdes",
+    "3p": "atingirem"
+  },
+  "Ger": {
+    "": "atingindo"
+  },
+  "PresI": {
+    "1s": "atinjo",
+    "2s": "atinges",
+    "3s": "atinge",
+    "1p": "atingimos",
+    "2p": "atingis",
+    "3p": "atingem"
+  },
+  "PImpI": {
+    "1s": "atingia",
+    "2s": "atingias",
+    "3s": "atingia",
+    "1p": "atingíamos",
+    "2p": "atingíeis",
+    "3p": "atingiam"
+  },
+  "PPSI": {
+    "1s": "atingi",
+    "2s": "atingiste",
+    "3s": "atingiu",
+    "1p": "atingimos",
+    "2p": "atingistes",
+    "3p": "atingiram"
+  },
+  "PMQPSI": {
+    "1s": "atingira",
+    "2s": "atingiras",
+    "3s": "atingira",
+    "1p": "atingíramos",
+    "2p": "atingíreis",
+    "3p": "atingiram"
+  },
+  "FutSI": {
+    "1s": "atingirei",
+    "2s": "atingirás",
+    "3s": "atingirá",
+    "1p": "atingiremos",
+    "2p": "atingireis",
+    "3p": "atingirão"
+  },
+  "CondS": {
+    "1s": "atingiria",
+    "2s": "atingirias",
+    "3s": "atingiria",
+    "1p": "atingiríamos",
+    "2p": "atingiríeis",
+    "3p": "atingiriam"
+  },
+  "PresC": {
+    "1s": "atinja",
+    "2s": "atinjas",
+    "3s": "atinja",
+    "1p": "atinjamos",
+    "2p": "atinjais",
+    "3p": "atinjam"
+  },
+  "PImpC": {
+    "1s": "atingisse",
+    "2s": "atingisses",
+    "3s": "atingisse",
+    "1p": "atingíssemos",
+    "2p": "atingísseis",
+    "3p": "atingissem"
+  },
+  "FutSC": {
+    "1s": "atingir",
+    "2s": "atingires",
+    "3s": "atingir",
+    "1p": "atingirmos",
+    "2p": "atingirdes",
+    "3p": "atingirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atinge",
+    "3s": "atinja",
+    "1p": "atinjamos",
+    "2p": "atingi",
+    "3p": "atinjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atinjas",
+    "3s": "não atinja",
+    "1p": "não atinjamos",
+    "2p": "não atinjais",
+    "3p": "não atinjam"
+  },
+  "Part-ter": {
+    "": "atingido"
+  },
+  "Part-ser": {
+    "ms": "atingido",
+    "fs": "atingida",
+    "mp": "atingidos",
+    "fp": "atingidas"
+  }
+}

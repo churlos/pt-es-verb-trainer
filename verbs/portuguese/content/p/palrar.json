@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "palrar"
+  },
+  "InfP": {
+    "1s": "palrar",
+    "2s": "palrares",
+    "3s": "palrar",
+    "1p": "palrarmos",
+    "2p": "palrardes",
+    "3p": "palrarem"
+  },
+  "Ger": {
+    "": "palrando"
+  },
+  "PresI": {
+    "1s": "palro",
+    "2s": "palras",
+    "3s": "palra",
+    "1p": "palramos",
+    "2p": "palrais",
+    "3p": "palram"
+  },
+  "PImpI": {
+    "1s": "palrava",
+    "2s": "palravas",
+    "3s": "palrava",
+    "1p": "palrávamos",
+    "2p": "palráveis",
+    "3p": "palravam"
+  },
+  "PPSI": {
+    "1s": "palrei",
+    "2s": "palraste",
+    "3s": "palrou",
+    "1p": "palrámos",
+    "2p": "palrastes",
+    "3p": "palraram"
+  },
+  "PMQPSI": {
+    "1s": "palrara",
+    "2s": "palraras",
+    "3s": "palrara",
+    "1p": "palráramos",
+    "2p": "palráreis",
+    "3p": "palraram"
+  },
+  "FutSI": {
+    "1s": "palrarei",
+    "2s": "palrarás",
+    "3s": "palrará",
+    "1p": "palraremos",
+    "2p": "palrareis",
+    "3p": "palrarão"
+  },
+  "CondS": {
+    "1s": "palraria",
+    "2s": "palrarias",
+    "3s": "palraria",
+    "1p": "palraríamos",
+    "2p": "palraríeis",
+    "3p": "palrariam"
+  },
+  "PresC": {
+    "1s": "palre",
+    "2s": "palres",
+    "3s": "palre",
+    "1p": "palremos",
+    "2p": "palreis",
+    "3p": "palrem"
+  },
+  "PImpC": {
+    "1s": "palrasse",
+    "2s": "palrasses",
+    "3s": "palrasse",
+    "1p": "palrássemos",
+    "2p": "palrásseis",
+    "3p": "palrassem"
+  },
+  "FutSC": {
+    "1s": "palrar",
+    "2s": "palrares",
+    "3s": "palrar",
+    "1p": "palrarmos",
+    "2p": "palrardes",
+    "3p": "palrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "palra",
+    "3s": "palre",
+    "1p": "palremos",
+    "2p": "palrai",
+    "3p": "palrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não palres",
+    "3s": "não palre",
+    "1p": "não palremos",
+    "2p": "não palreis",
+    "3p": "não palrem"
+  },
+  "Part-ter": {
+    "": "palrado"
+  },
+  "Part-ser": {
+    "ms": "palrado",
+    "fs": "palrada",
+    "mp": "palrados",
+    "fp": "palradas"
+  }
+}

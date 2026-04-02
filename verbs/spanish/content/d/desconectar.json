@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desconectar"
+  },
+  "Ger": {
+    "": "desconectando"
+  },
+  "PresI": {
+    "1s": "desconecto",
+    "2s": "desconectas",
+    "3s": "desconecta",
+    "1p": "desconectamos",
+    "2p": "desconectáis",
+    "3p": "desconectan"
+  },
+  "PImpI": {
+    "1s": "desconectaba",
+    "2s": "desconectabas",
+    "3s": "desconectaba",
+    "1p": "desconectábamos",
+    "2p": "desconectabais",
+    "3p": "desconectaban"
+  },
+  "PPSI": {
+    "1s": "desconecté",
+    "2s": "desconectaste",
+    "3s": "desconectó",
+    "1p": "desconectamos",
+    "2p": "desconectasteis",
+    "3p": "desconectaron"
+  },
+  "FutSI": {
+    "1s": "desconectaré",
+    "2s": "desconectarás",
+    "3s": "desconectará",
+    "1p": "desconectaremos",
+    "2p": "desconectaréis",
+    "3p": "desconectarán"
+  },
+  "CondS": {
+    "1s": "desconectaría",
+    "2s": "desconectarías",
+    "3s": "desconectaría",
+    "1p": "desconectaríamos",
+    "2p": "desconectaríais",
+    "3p": "desconectarían"
+  },
+  "PresC": {
+    "1s": "desconecte",
+    "2s": "desconectes",
+    "3s": "desconecte",
+    "1p": "desconectemos",
+    "2p": "desconectéis",
+    "3p": "desconecten"
+  },
+  "PMQPSI": {
+    "1s": "desconectara",
+    "2s": "desconectaras",
+    "3s": "desconectara",
+    "1p": "desconectáramos",
+    "2p": "desconectarais",
+    "3p": "desconectaran"
+  },
+  "PImpC": {
+    "1s": "desconectase",
+    "2s": "desconectases",
+    "3s": "desconectase",
+    "1p": "desconectásemos",
+    "2p": "desconectaseis",
+    "3p": "desconectasen"
+  },
+  "FutSC": {
+    "1s": "desconectare",
+    "2s": "desconectares",
+    "3s": "desconectare",
+    "1p": "desconectáremos",
+    "2p": "desconectareis",
+    "3p": "desconectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desconecta",
+    "3s": "desconecte",
+    "1p": "desconectemos",
+    "2p": "desconectad",
+    "3p": "desconecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desconectes",
+    "3s": "no desconecte",
+    "1p": "no desconectemos",
+    "2p": "no desconectéis",
+    "3p": "no desconecten"
+  },
+  "Part-ter": {
+    "": "desconectado"
+  },
+  "Part-ser": {
+    "ms": "desconectado",
+    "fs": "desconectada",
+    "mp": "desconectados",
+    "fp": "desconectadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "usarse"
+  },
+  "Ger": {
+    "": "usándose"
+  },
+  "PresI": {
+    "1s": "me uso",
+    "2s": "te usas",
+    "3s": "se usa",
+    "1p": "nos usamos",
+    "2p": "os usáis",
+    "3p": "se usan"
+  },
+  "PImpI": {
+    "1s": "me usaba",
+    "2s": "te usabas",
+    "3s": "se usaba",
+    "1p": "nos usábamos",
+    "2p": "os usabais",
+    "3p": "se usaban"
+  },
+  "PPSI": {
+    "1s": "me usé",
+    "2s": "te usaste",
+    "3s": "se usó",
+    "1p": "nos usamos",
+    "2p": "os usasteis",
+    "3p": "se usaron"
+  },
+  "FutSI": {
+    "1s": "me usaré",
+    "2s": "te usarás",
+    "3s": "se usará",
+    "1p": "nos usaremos",
+    "2p": "os usaréis",
+    "3p": "se usarán"
+  },
+  "CondS": {
+    "1s": "me usaría",
+    "2s": "te usarías",
+    "3s": "se usaría",
+    "1p": "nos usaríamos",
+    "2p": "os usaríais",
+    "3p": "se usarían"
+  },
+  "PresC": {
+    "1s": "me use",
+    "2s": "te uses",
+    "3s": "se use",
+    "1p": "nos usemos",
+    "2p": "os uséis",
+    "3p": "se usen"
+  },
+  "PMQPSI": {
+    "1s": "me usara",
+    "2s": "te usaras",
+    "3s": "se usara",
+    "1p": "nos usáramos",
+    "2p": "os usarais",
+    "3p": "se usaran"
+  },
+  "PImpC": {
+    "1s": "me usase",
+    "2s": "te usases",
+    "3s": "se usase",
+    "1p": "nos usásemos",
+    "2p": "os usaseis",
+    "3p": "se usasen"
+  },
+  "FutSC": {
+    "1s": "me usare",
+    "2s": "te usares",
+    "3s": "se usare",
+    "1p": "nos usáremos",
+    "2p": "os usareis",
+    "3p": "se usaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "úsate",
+    "3s": "úsese",
+    "1p": "usémonos",
+    "2p": "usaos",
+    "3p": "úsense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te uses",
+    "3s": "no se use",
+    "1p": "no nos usemos",
+    "2p": "no os uséis",
+    "3p": "no se usen"
+  },
+  "Part-ter": {
+    "": "usado"
+  },
+  "Part-ser": {
+    "ms": "usado",
+    "fs": "usada",
+    "mp": "usados",
+    "fp": "usadas"
+  }
+}

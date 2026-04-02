@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "trabajar"
+  },
+  "Ger": {
+    "": "trabajando"
+  },
+  "PresI": {
+    "1s": "trabajo",
+    "2s": "trabajas",
+    "3s": "trabaja",
+    "1p": "trabajamos",
+    "2p": "trabajáis",
+    "3p": "trabajan"
+  },
+  "PImpI": {
+    "1s": "trabajaba",
+    "2s": "trabajabas",
+    "3s": "trabajaba",
+    "1p": "trabajábamos",
+    "2p": "trabajabais",
+    "3p": "trabajaban"
+  },
+  "PPSI": {
+    "1s": "trabajé",
+    "2s": "trabajaste",
+    "3s": "trabajó",
+    "1p": "trabajamos",
+    "2p": "trabajasteis",
+    "3p": "trabajaron"
+  },
+  "FutSI": {
+    "1s": "trabajaré",
+    "2s": "trabajarás",
+    "3s": "trabajará",
+    "1p": "trabajaremos",
+    "2p": "trabajaréis",
+    "3p": "trabajarán"
+  },
+  "CondS": {
+    "1s": "trabajaría",
+    "2s": "trabajarías",
+    "3s": "trabajaría",
+    "1p": "trabajaríamos",
+    "2p": "trabajaríais",
+    "3p": "trabajarían"
+  },
+  "PresC": {
+    "1s": "trabaje",
+    "2s": "trabajes",
+    "3s": "trabaje",
+    "1p": "trabajemos",
+    "2p": "trabajéis",
+    "3p": "trabajen"
+  },
+  "PMQPSI": {
+    "1s": "trabajara",
+    "2s": "trabajaras",
+    "3s": "trabajara",
+    "1p": "trabajáramos",
+    "2p": "trabajarais",
+    "3p": "trabajaran"
+  },
+  "PImpC": {
+    "1s": "trabajase",
+    "2s": "trabajases",
+    "3s": "trabajase",
+    "1p": "trabajásemos",
+    "2p": "trabajaseis",
+    "3p": "trabajasen"
+  },
+  "FutSC": {
+    "1s": "trabajare",
+    "2s": "trabajares",
+    "3s": "trabajare",
+    "1p": "trabajáremos",
+    "2p": "trabajareis",
+    "3p": "trabajaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trabaja",
+    "3s": "trabaje",
+    "1p": "trabajemos",
+    "2p": "trabajad",
+    "3p": "trabajen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no trabajes",
+    "3s": "no trabaje",
+    "1p": "no trabajemos",
+    "2p": "no trabajéis",
+    "3p": "no trabajen"
+  },
+  "Part-ter": {
+    "": "trabajado"
+  },
+  "Part-ser": {
+    "ms": "trabajado",
+    "fs": "trabajada",
+    "mp": "trabajados",
+    "fp": "trabajadas"
+  }
+}

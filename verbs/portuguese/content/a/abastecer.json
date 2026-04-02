@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abastecer"
+  },
+  "InfP": {
+    "1s": "abastecer",
+    "2s": "abasteceres",
+    "3s": "abastecer",
+    "1p": "abastecermos",
+    "2p": "abastecerdes",
+    "3p": "abastecerem"
+  },
+  "Ger": {
+    "": "abastecendo"
+  },
+  "PresI": {
+    "1s": "abasteço",
+    "2s": "abasteces",
+    "3s": "abastece",
+    "1p": "abastecemos",
+    "2p": "abasteceis",
+    "3p": "abastecem"
+  },
+  "PImpI": {
+    "1s": "abastecia",
+    "2s": "abastecias",
+    "3s": "abastecia",
+    "1p": "abastecíamos",
+    "2p": "abastecíeis",
+    "3p": "abasteciam"
+  },
+  "PPSI": {
+    "1s": "abasteci",
+    "2s": "abasteceste",
+    "3s": "abasteceu",
+    "1p": "abastecemos",
+    "2p": "abastecestes",
+    "3p": "abasteceram"
+  },
+  "PMQPSI": {
+    "1s": "abastecera",
+    "2s": "abasteceras",
+    "3s": "abastecera",
+    "1p": "abastecêramos",
+    "2p": "abastecêreis",
+    "3p": "abasteceram"
+  },
+  "FutSI": {
+    "1s": "abastecerei",
+    "2s": "abastecerás",
+    "3s": "abastecerá",
+    "1p": "abasteceremos",
+    "2p": "abastecereis",
+    "3p": "abastecerão"
+  },
+  "CondS": {
+    "1s": "abasteceria",
+    "2s": "abastecerias",
+    "3s": "abasteceria",
+    "1p": "abasteceríamos",
+    "2p": "abasteceríeis",
+    "3p": "abasteceriam"
+  },
+  "PresC": {
+    "1s": "abasteça",
+    "2s": "abasteças",
+    "3s": "abasteça",
+    "1p": "abasteçamos",
+    "2p": "abasteçais",
+    "3p": "abasteçam"
+  },
+  "PImpC": {
+    "1s": "abastecesse",
+    "2s": "abastecesses",
+    "3s": "abastecesse",
+    "1p": "abastecêssemos",
+    "2p": "abastecêsseis",
+    "3p": "abastecessem"
+  },
+  "FutSC": {
+    "1s": "abastecer",
+    "2s": "abasteceres",
+    "3s": "abastecer",
+    "1p": "abastecermos",
+    "2p": "abastecerdes",
+    "3p": "abastecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abastece",
+    "3s": "abasteça",
+    "1p": "abasteçamos",
+    "2p": "abastecei",
+    "3p": "abasteçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abasteças",
+    "3s": "não abasteça",
+    "1p": "não abasteçamos",
+    "2p": "não abasteçais",
+    "3p": "não abasteçam"
+  },
+  "Part-ter": {
+    "": "abastecido"
+  },
+  "Part-ser": {
+    "ms": "abastecido",
+    "fs": "abastecida",
+    "mp": "abastecidos",
+    "fp": "abastecidas"
+  }
+}

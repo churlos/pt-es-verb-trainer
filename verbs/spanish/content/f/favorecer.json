@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "favorecer"
+  },
+  "Ger": {
+    "": "favoreciendo"
+  },
+  "PresI": {
+    "1s": "favorezco",
+    "2s": "favoreces",
+    "3s": "favorece",
+    "1p": "favorecemos",
+    "2p": "favorecéis",
+    "3p": "favorecen"
+  },
+  "PImpI": {
+    "1s": "favorecía",
+    "2s": "favorecías",
+    "3s": "favorecía",
+    "1p": "favorecíamos",
+    "2p": "favorecíais",
+    "3p": "favorecían"
+  },
+  "PPSI": {
+    "1s": "favorecí",
+    "2s": "favoreciste",
+    "3s": "favoreció",
+    "1p": "favorecimos",
+    "2p": "favorecisteis",
+    "3p": "favorecieron"
+  },
+  "FutSI": {
+    "1s": "favoreceré",
+    "2s": "favorecerás",
+    "3s": "favorecerá",
+    "1p": "favoreceremos",
+    "2p": "favoreceréis",
+    "3p": "favorecerán"
+  },
+  "CondS": {
+    "1s": "favorecería",
+    "2s": "favorecerías",
+    "3s": "favorecería",
+    "1p": "favoreceríamos",
+    "2p": "favoreceríais",
+    "3p": "favorecerían"
+  },
+  "PresC": {
+    "1s": "favorezca",
+    "2s": "favorezcas",
+    "3s": "favorezca",
+    "1p": "favorezcamos",
+    "2p": "favorezcáis",
+    "3p": "favorezcan"
+  },
+  "PMQPSI": {
+    "1s": "favoreciera",
+    "2s": "favorecieras",
+    "3s": "favoreciera",
+    "1p": "favoreciéramos",
+    "2p": "favorecierais",
+    "3p": "favorecieran"
+  },
+  "PImpC": {
+    "1s": "favoreciese",
+    "2s": "favorecieses",
+    "3s": "favoreciese",
+    "1p": "favoreciésemos",
+    "2p": "favorecieseis",
+    "3p": "favoreciesen"
+  },
+  "FutSC": {
+    "1s": "favoreciere",
+    "2s": "favorecieres",
+    "3s": "favoreciere",
+    "1p": "favoreciéremos",
+    "2p": "favoreciereis",
+    "3p": "favorecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "favorece",
+    "3s": "favorezca",
+    "1p": "favorezcamos",
+    "2p": "favoreced",
+    "3p": "favorezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no favorezcas",
+    "3s": "no favorezca",
+    "1p": "no favorezcamos",
+    "2p": "no favorezcáis",
+    "3p": "no favorezcan"
+  },
+  "Part-ter": {
+    "": "favorecido"
+  },
+  "Part-ser": {
+    "ms": "favorecido",
+    "fs": "favorecida",
+    "mp": "favorecidos",
+    "fp": "favorecidas"
+  }
+}

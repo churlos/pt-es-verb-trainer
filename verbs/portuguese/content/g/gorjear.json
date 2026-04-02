@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gorjear"
+  },
+  "InfP": {
+    "1s": "gorjear",
+    "2s": "gorjeares",
+    "3s": "gorjear",
+    "1p": "gorjearmos",
+    "2p": "gorjeardes",
+    "3p": "gorjearem"
+  },
+  "Ger": {
+    "": "gorjeando"
+  },
+  "PresI": {
+    "1s": "gorjeio",
+    "2s": "gorjeias",
+    "3s": "gorjeia",
+    "1p": "gorjeamos",
+    "2p": "gorjeais",
+    "3p": "gorjeiam"
+  },
+  "PImpI": {
+    "1s": "gorjeava",
+    "2s": "gorjeavas",
+    "3s": "gorjeava",
+    "1p": "gorjeávamos",
+    "2p": "gorjeáveis",
+    "3p": "gorjeavam"
+  },
+  "PPSI": {
+    "1s": "gorjeei",
+    "2s": "gorjeaste",
+    "3s": "gorjeou",
+    "1p": "gorjeámos",
+    "2p": "gorjeastes",
+    "3p": "gorjearam"
+  },
+  "PMQPSI": {
+    "1s": "gorjeara",
+    "2s": "gorjearas",
+    "3s": "gorjeara",
+    "1p": "gorjeáramos",
+    "2p": "gorjeáreis",
+    "3p": "gorjearam"
+  },
+  "FutSI": {
+    "1s": "gorjearei",
+    "2s": "gorjearás",
+    "3s": "gorjeará",
+    "1p": "gorjearemos",
+    "2p": "gorjeareis",
+    "3p": "gorjearão"
+  },
+  "CondS": {
+    "1s": "gorjearia",
+    "2s": "gorjearias",
+    "3s": "gorjearia",
+    "1p": "gorjearíamos",
+    "2p": "gorjearíeis",
+    "3p": "gorjeariam"
+  },
+  "PresC": {
+    "1s": "gorjeie",
+    "2s": "gorjeies",
+    "3s": "gorjeie",
+    "1p": "gorjeemos",
+    "2p": "gorjeeis",
+    "3p": "gorjeiem"
+  },
+  "PImpC": {
+    "1s": "gorjeasse",
+    "2s": "gorjeasses",
+    "3s": "gorjeasse",
+    "1p": "gorjeássemos",
+    "2p": "gorjeásseis",
+    "3p": "gorjeassem"
+  },
+  "FutSC": {
+    "1s": "gorjear",
+    "2s": "gorjeares",
+    "3s": "gorjear",
+    "1p": "gorjearmos",
+    "2p": "gorjeardes",
+    "3p": "gorjearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gorjeia",
+    "3s": "gorjeie",
+    "1p": "gorjeemos",
+    "2p": "gorjeai",
+    "3p": "gorjeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gorjeies",
+    "3s": "não gorjeie",
+    "1p": "não gorjeemos",
+    "2p": "não gorjeeis",
+    "3p": "não gorjeiem"
+  },
+  "Part-ter": {
+    "": "gorjeado"
+  },
+  "Part-ser": {
+    "ms": "gorjeado",
+    "fs": "gorjeada",
+    "mp": "gorjeados",
+    "fp": "gorjeadas"
+  }
+}

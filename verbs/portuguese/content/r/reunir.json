@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reunir"
+  },
+  "InfP": {
+    "1s": "reunir",
+    "2s": "reunires",
+    "3s": "reunir",
+    "1p": "reunirmos",
+    "2p": "reunirdes",
+    "3p": "reunirem"
+  },
+  "Ger": {
+    "": "reunindo"
+  },
+  "PresI": {
+    "1s": "reúno",
+    "2s": "reúnes",
+    "3s": "reúne",
+    "1p": "reunimos",
+    "2p": "reunis",
+    "3p": "reúnem"
+  },
+  "PImpI": {
+    "1s": "reunia",
+    "2s": "reunias",
+    "3s": "reunia",
+    "1p": "reuníamos",
+    "2p": "reuníeis",
+    "3p": "reuniam"
+  },
+  "PPSI": {
+    "1s": "reuni",
+    "2s": "reuniste",
+    "3s": "reuniu",
+    "1p": "reunimos",
+    "2p": "reunistes",
+    "3p": "reuniram"
+  },
+  "PMQPSI": {
+    "1s": "reunira",
+    "2s": "reuniras",
+    "3s": "reunira",
+    "1p": "reuníramos",
+    "2p": "reuníreis",
+    "3p": "reuniram"
+  },
+  "FutSI": {
+    "1s": "reunirei",
+    "2s": "reunirás",
+    "3s": "reunirá",
+    "1p": "reuniremos",
+    "2p": "reunireis",
+    "3p": "reunirão"
+  },
+  "CondS": {
+    "1s": "reuniria",
+    "2s": "reunirias",
+    "3s": "reuniria",
+    "1p": "reuniríamos",
+    "2p": "reuniríeis",
+    "3p": "reuniriam"
+  },
+  "PresC": {
+    "1s": "reúna",
+    "2s": "reúnas",
+    "3s": "reúna",
+    "1p": "reúnamos",
+    "2p": "reúnais",
+    "3p": "reúnam"
+  },
+  "PImpC": {
+    "1s": "reunisse",
+    "2s": "reunisses",
+    "3s": "reunisse",
+    "1p": "reuníssemos",
+    "2p": "reunísseis",
+    "3p": "reunissem"
+  },
+  "FutSC": {
+    "1s": "reunir",
+    "2s": "reunires",
+    "3s": "reunir",
+    "1p": "reunirmos",
+    "2p": "reunirdes",
+    "3p": "reunirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reúne",
+    "3s": "reúna",
+    "1p": "reúnamos",
+    "2p": "reuni",
+    "3p": "reúnam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reúnas",
+    "3s": "não reúna",
+    "1p": "não reúnamos",
+    "2p": "não reúnais",
+    "3p": "não reúnam"
+  },
+  "Part-ter": {
+    "": "reunido"
+  },
+  "Part-ser": {
+    "ms": "reunido",
+    "fs": "reunida",
+    "mp": "reunidos",
+    "fp": "reunidas"
+  }
+}

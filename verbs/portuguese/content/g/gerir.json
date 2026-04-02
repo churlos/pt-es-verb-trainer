@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gerir"
+  },
+  "InfP": {
+    "1s": "gerir",
+    "2s": "gerires",
+    "3s": "gerir",
+    "1p": "gerirmos",
+    "2p": "gerirdes",
+    "3p": "gerirem"
+  },
+  "Ger": {
+    "": "gerindo"
+  },
+  "PresI": {
+    "1s": "giro",
+    "2s": "geres",
+    "3s": "gere",
+    "1p": "gerimos",
+    "2p": "geris",
+    "3p": "gerem"
+  },
+  "PImpI": {
+    "1s": "geria",
+    "2s": "gerias",
+    "3s": "geria",
+    "1p": "geríamos",
+    "2p": "geríeis",
+    "3p": "geriam"
+  },
+  "PPSI": {
+    "1s": "geri",
+    "2s": "geriste",
+    "3s": "geriu",
+    "1p": "gerimos",
+    "2p": "geristes",
+    "3p": "geriram"
+  },
+  "PMQPSI": {
+    "1s": "gerira",
+    "2s": "geriras",
+    "3s": "gerira",
+    "1p": "geríramos",
+    "2p": "geríreis",
+    "3p": "geriram"
+  },
+  "FutSI": {
+    "1s": "gerirei",
+    "2s": "gerirás",
+    "3s": "gerirá",
+    "1p": "geriremos",
+    "2p": "gerireis",
+    "3p": "gerirão"
+  },
+  "CondS": {
+    "1s": "geriria",
+    "2s": "geririas",
+    "3s": "geriria",
+    "1p": "geriríamos",
+    "2p": "geriríeis",
+    "3p": "geririam"
+  },
+  "PresC": {
+    "1s": "gira",
+    "2s": "giras",
+    "3s": "gira",
+    "1p": "giramos",
+    "2p": "girais",
+    "3p": "giram"
+  },
+  "PImpC": {
+    "1s": "gerisse",
+    "2s": "gerisses",
+    "3s": "gerisse",
+    "1p": "geríssemos",
+    "2p": "gerísseis",
+    "3p": "gerissem"
+  },
+  "FutSC": {
+    "1s": "gerir",
+    "2s": "gerires",
+    "3s": "gerir",
+    "1p": "gerirmos",
+    "2p": "gerirdes",
+    "3p": "gerirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gere",
+    "3s": "gira",
+    "1p": "giramos",
+    "2p": "geri",
+    "3p": "giram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não giras",
+    "3s": "não gira",
+    "1p": "não giramos",
+    "2p": "não girais",
+    "3p": "não giram"
+  },
+  "Part-ter": {
+    "": "gerido"
+  },
+  "Part-ser": {
+    "ms": "gerido",
+    "fs": "gerida",
+    "mp": "geridos",
+    "fp": "geridas"
+  }
+}

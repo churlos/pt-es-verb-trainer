@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "subir"
+  },
+  "Ger": {
+    "": "subiendo"
+  },
+  "PresI": {
+    "1s": "subo",
+    "2s": "subes",
+    "3s": "sube",
+    "1p": "subimos",
+    "2p": "subís",
+    "3p": "suben"
+  },
+  "PImpI": {
+    "1s": "subía",
+    "2s": "subías",
+    "3s": "subía",
+    "1p": "subíamos",
+    "2p": "subíais",
+    "3p": "subían"
+  },
+  "PPSI": {
+    "1s": "subí",
+    "2s": "subiste",
+    "3s": "subió",
+    "1p": "subimos",
+    "2p": "subisteis",
+    "3p": "subieron"
+  },
+  "FutSI": {
+    "1s": "subiré",
+    "2s": "subirás",
+    "3s": "subirá",
+    "1p": "subiremos",
+    "2p": "subiréis",
+    "3p": "subirán"
+  },
+  "CondS": {
+    "1s": "subiría",
+    "2s": "subirías",
+    "3s": "subiría",
+    "1p": "subiríamos",
+    "2p": "subiríais",
+    "3p": "subirían"
+  },
+  "PresC": {
+    "1s": "suba",
+    "2s": "subas",
+    "3s": "suba",
+    "1p": "subamos",
+    "2p": "subáis",
+    "3p": "suban"
+  },
+  "PMQPSI": {
+    "1s": "subiera",
+    "2s": "subieras",
+    "3s": "subiera",
+    "1p": "subiéramos",
+    "2p": "subierais",
+    "3p": "subieran"
+  },
+  "PImpC": {
+    "1s": "subiese",
+    "2s": "subieses",
+    "3s": "subiese",
+    "1p": "subiésemos",
+    "2p": "subieseis",
+    "3p": "subiesen"
+  },
+  "FutSC": {
+    "1s": "subiere",
+    "2s": "subieres",
+    "3s": "subiere",
+    "1p": "subiéremos",
+    "2p": "subiereis",
+    "3p": "subieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sube",
+    "3s": "suba",
+    "1p": "subamos",
+    "2p": "subid",
+    "3p": "suban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no subas",
+    "3s": "no suba",
+    "1p": "no subamos",
+    "2p": "no subáis",
+    "3p": "no suban"
+  },
+  "Part-ter": {
+    "": "subido"
+  },
+  "Part-ser": {
+    "ms": "subido",
+    "fs": "subida",
+    "mp": "subidos",
+    "fp": "subidas"
+  }
+}

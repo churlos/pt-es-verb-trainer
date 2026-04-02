@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estancarse"
+  },
+  "Ger": {
+    "": "estancándose"
+  },
+  "PresI": {
+    "1s": "me estanco",
+    "2s": "te estancas",
+    "3s": "se estanca",
+    "1p": "nos estancamos",
+    "2p": "os estancáis",
+    "3p": "se estancan"
+  },
+  "PImpI": {
+    "1s": "me estancaba",
+    "2s": "te estancabas",
+    "3s": "se estancaba",
+    "1p": "nos estancábamos",
+    "2p": "os estancabais",
+    "3p": "se estancaban"
+  },
+  "PPSI": {
+    "1s": "me estanqué",
+    "2s": "te estancaste",
+    "3s": "se estancó",
+    "1p": "nos estancamos",
+    "2p": "os estancasteis",
+    "3p": "se estancaron"
+  },
+  "FutSI": {
+    "1s": "me estancaré",
+    "2s": "te estancarás",
+    "3s": "se estancará",
+    "1p": "nos estancaremos",
+    "2p": "os estancaréis",
+    "3p": "se estancarán"
+  },
+  "CondS": {
+    "1s": "me estancaría",
+    "2s": "te estancarías",
+    "3s": "se estancaría",
+    "1p": "nos estancaríamos",
+    "2p": "os estancaríais",
+    "3p": "se estancarían"
+  },
+  "PresC": {
+    "1s": "me estanque",
+    "2s": "te estanques",
+    "3s": "se estanque",
+    "1p": "nos estanquemos",
+    "2p": "os estanquéis",
+    "3p": "se estanquen"
+  },
+  "PMQPSI": {
+    "1s": "me estancara",
+    "2s": "te estancaras",
+    "3s": "se estancara",
+    "1p": "nos estancáramos",
+    "2p": "os estancarais",
+    "3p": "se estancaran"
+  },
+  "PImpC": {
+    "1s": "me estancase",
+    "2s": "te estancases",
+    "3s": "se estancase",
+    "1p": "nos estancásemos",
+    "2p": "os estancaseis",
+    "3p": "se estancasen"
+  },
+  "FutSC": {
+    "1s": "me estancare",
+    "2s": "te estancares",
+    "3s": "se estancare",
+    "1p": "nos estancáremos",
+    "2p": "os estancareis",
+    "3p": "se estancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estáncate",
+    "3s": "estánquese",
+    "1p": "estanquémonos",
+    "2p": "estancaos",
+    "3p": "estánquense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te estanques",
+    "3s": "no se estanque",
+    "1p": "no nos estanquemos",
+    "2p": "no os estanquéis",
+    "3p": "no se estanquen"
+  },
+  "Part-ter": {
+    "": "estancado"
+  },
+  "Part-ser": {
+    "ms": "estancado",
+    "fs": "estancada",
+    "mp": "estancados",
+    "fp": "estancadas"
+  }
+}

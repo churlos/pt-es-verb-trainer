@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pivotar"
+  },
+  "Ger": {
+    "": "pivotando"
+  },
+  "PresI": {
+    "1s": "pivoto",
+    "2s": "pivotas",
+    "3s": "pivota",
+    "1p": "pivotamos",
+    "2p": "pivotáis",
+    "3p": "pivotan"
+  },
+  "PImpI": {
+    "1s": "pivotaba",
+    "2s": "pivotabas",
+    "3s": "pivotaba",
+    "1p": "pivotábamos",
+    "2p": "pivotabais",
+    "3p": "pivotaban"
+  },
+  "PPSI": {
+    "1s": "pivoté",
+    "2s": "pivotaste",
+    "3s": "pivotó",
+    "1p": "pivotamos",
+    "2p": "pivotasteis",
+    "3p": "pivotaron"
+  },
+  "FutSI": {
+    "1s": "pivotaré",
+    "2s": "pivotarás",
+    "3s": "pivotará",
+    "1p": "pivotaremos",
+    "2p": "pivotaréis",
+    "3p": "pivotarán"
+  },
+  "CondS": {
+    "1s": "pivotaría",
+    "2s": "pivotarías",
+    "3s": "pivotaría",
+    "1p": "pivotaríamos",
+    "2p": "pivotaríais",
+    "3p": "pivotarían"
+  },
+  "PresC": {
+    "1s": "pivote",
+    "2s": "pivotes",
+    "3s": "pivote",
+    "1p": "pivotemos",
+    "2p": "pivotéis",
+    "3p": "pivoten"
+  },
+  "PMQPSI": {
+    "1s": "pivotara",
+    "2s": "pivotaras",
+    "3s": "pivotara",
+    "1p": "pivotáramos",
+    "2p": "pivotarais",
+    "3p": "pivotaran"
+  },
+  "PImpC": {
+    "1s": "pivotase",
+    "2s": "pivotases",
+    "3s": "pivotase",
+    "1p": "pivotásemos",
+    "2p": "pivotaseis",
+    "3p": "pivotasen"
+  },
+  "FutSC": {
+    "1s": "pivotare",
+    "2s": "pivotares",
+    "3s": "pivotare",
+    "1p": "pivotáremos",
+    "2p": "pivotareis",
+    "3p": "pivotaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pivota",
+    "3s": "pivote",
+    "1p": "pivotemos",
+    "2p": "pivotad",
+    "3p": "pivoten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pivotes",
+    "3s": "no pivote",
+    "1p": "no pivotemos",
+    "2p": "no pivotéis",
+    "3p": "no pivoten"
+  },
+  "Part-ter": {
+    "": "pivotado"
+  },
+  "Part-ser": {
+    "ms": "pivotado",
+    "fs": "pivotada",
+    "mp": "pivotados",
+    "fp": "pivotadas"
+  }
+}

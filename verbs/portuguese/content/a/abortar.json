@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "abortar"
+  },
+  "InfP": {
+    "1s": "abortar",
+    "2s": "abortares",
+    "3s": "abortar",
+    "1p": "abortarmos",
+    "2p": "abortardes",
+    "3p": "abortarem"
+  },
+  "Ger": {
+    "": "abortando"
+  },
+  "PresI": {
+    "1s": "aborto",
+    "2s": "abortas",
+    "3s": "aborta",
+    "1p": "abortamos",
+    "2p": "abortais",
+    "3p": "abortam"
+  },
+  "PImpI": {
+    "1s": "abortava",
+    "2s": "abortavas",
+    "3s": "abortava",
+    "1p": "abortávamos",
+    "2p": "abortáveis",
+    "3p": "abortavam"
+  },
+  "PPSI": {
+    "1s": "abortei",
+    "2s": "abortaste",
+    "3s": "abortou",
+    "1p": "abortámos",
+    "2p": "abortastes",
+    "3p": "abortaram"
+  },
+  "PMQPSI": {
+    "1s": "abortara",
+    "2s": "abortaras",
+    "3s": "abortara",
+    "1p": "abortáramos",
+    "2p": "abortáreis",
+    "3p": "abortaram"
+  },
+  "FutSI": {
+    "1s": "abortarei",
+    "2s": "abortarás",
+    "3s": "abortará",
+    "1p": "abortaremos",
+    "2p": "abortareis",
+    "3p": "abortarão"
+  },
+  "CondS": {
+    "1s": "abortaria",
+    "2s": "abortarias",
+    "3s": "abortaria",
+    "1p": "abortaríamos",
+    "2p": "abortaríeis",
+    "3p": "abortariam"
+  },
+  "PresC": {
+    "1s": "aborte",
+    "2s": "abortes",
+    "3s": "aborte",
+    "1p": "abortemos",
+    "2p": "aborteis",
+    "3p": "abortem"
+  },
+  "PImpC": {
+    "1s": "abortasse",
+    "2s": "abortasses",
+    "3s": "abortasse",
+    "1p": "abortássemos",
+    "2p": "abortásseis",
+    "3p": "abortassem"
+  },
+  "FutSC": {
+    "1s": "abortar",
+    "2s": "abortares",
+    "3s": "abortar",
+    "1p": "abortarmos",
+    "2p": "abortardes",
+    "3p": "abortarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aborta",
+    "3s": "aborte",
+    "1p": "abortemos",
+    "2p": "abortai",
+    "3p": "abortem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abortes",
+    "3s": "não aborte",
+    "1p": "não abortemos",
+    "2p": "não aborteis",
+    "3p": "não abortem"
+  },
+  "Part-ter": {
+    "": "abortado"
+  },
+  "Part-ser": {
+    "ms": "abortado",
+    "fs": "abortada",
+    "mp": "abortados",
+    "fp": "abortadas"
+  }
+}

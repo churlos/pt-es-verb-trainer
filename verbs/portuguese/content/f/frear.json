@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "frear"
+  },
+  "InfP": {
+    "1s": "frear",
+    "2s": "freares",
+    "3s": "frear",
+    "1p": "frearmos",
+    "2p": "freardes",
+    "3p": "frearem"
+  },
+  "Ger": {
+    "": "freando"
+  },
+  "PresI": {
+    "1s": "freio",
+    "2s": "freias",
+    "3s": "freia",
+    "1p": "freamos",
+    "2p": "freais",
+    "3p": "freiam"
+  },
+  "PImpI": {
+    "1s": "freava",
+    "2s": "freavas",
+    "3s": "freava",
+    "1p": "freávamos",
+    "2p": "freáveis",
+    "3p": "freavam"
+  },
+  "PPSI": {
+    "1s": "freei",
+    "2s": "freaste",
+    "3s": "freou",
+    "1p": "freámos",
+    "2p": "freastes",
+    "3p": "frearam"
+  },
+  "PMQPSI": {
+    "1s": "freara",
+    "2s": "frearas",
+    "3s": "freara",
+    "1p": "freáramos",
+    "2p": "freáreis",
+    "3p": "frearam"
+  },
+  "FutSI": {
+    "1s": "frearei",
+    "2s": "frearás",
+    "3s": "freará",
+    "1p": "frearemos",
+    "2p": "freareis",
+    "3p": "frearão"
+  },
+  "CondS": {
+    "1s": "frearia",
+    "2s": "frearias",
+    "3s": "frearia",
+    "1p": "frearíamos",
+    "2p": "frearíeis",
+    "3p": "freariam"
+  },
+  "PresC": {
+    "1s": "freie",
+    "2s": "freies",
+    "3s": "freie",
+    "1p": "freemos",
+    "2p": "freeis",
+    "3p": "freiem"
+  },
+  "PImpC": {
+    "1s": "freasse",
+    "2s": "freasses",
+    "3s": "freasse",
+    "1p": "freássemos",
+    "2p": "freásseis",
+    "3p": "freassem"
+  },
+  "FutSC": {
+    "1s": "frear",
+    "2s": "freares",
+    "3s": "frear",
+    "1p": "frearmos",
+    "2p": "freardes",
+    "3p": "frearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "freia",
+    "3s": "freie",
+    "1p": "freemos",
+    "2p": "freai",
+    "3p": "freiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não freies",
+    "3s": "não freie",
+    "1p": "não freemos",
+    "2p": "não freeis",
+    "3p": "não freiem"
+  },
+  "Part-ter": {
+    "": "freado"
+  },
+  "Part-ser": {
+    "ms": "freado",
+    "fs": "freada",
+    "mp": "freados",
+    "fp": "freadas"
+  }
+}

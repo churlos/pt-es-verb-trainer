@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "concatenar"
+  },
+  "InfP": {
+    "1s": "concatenar",
+    "2s": "concatenares",
+    "3s": "concatenar",
+    "1p": "concatenarmos",
+    "2p": "concatenardes",
+    "3p": "concatenarem"
+  },
+  "Ger": {
+    "": "concatenando"
+  },
+  "PresI": {
+    "1s": "concateno",
+    "2s": "concatenas",
+    "3s": "concatena",
+    "1p": "concatenamos",
+    "2p": "concatenais",
+    "3p": "concatenam"
+  },
+  "PImpI": {
+    "1s": "concatenava",
+    "2s": "concatenavas",
+    "3s": "concatenava",
+    "1p": "concatenávamos",
+    "2p": "concatenáveis",
+    "3p": "concatenavam"
+  },
+  "PPSI": {
+    "1s": "concatenei",
+    "2s": "concatenaste",
+    "3s": "concatenou",
+    "1p": "concatenámos",
+    "2p": "concatenastes",
+    "3p": "concatenaram"
+  },
+  "PMQPSI": {
+    "1s": "concatenara",
+    "2s": "concatenaras",
+    "3s": "concatenara",
+    "1p": "concatenáramos",
+    "2p": "concatenáreis",
+    "3p": "concatenaram"
+  },
+  "FutSI": {
+    "1s": "concatenarei",
+    "2s": "concatenarás",
+    "3s": "concatenará",
+    "1p": "concatenaremos",
+    "2p": "concatenareis",
+    "3p": "concatenarão"
+  },
+  "CondS": {
+    "1s": "concatenaria",
+    "2s": "concatenarias",
+    "3s": "concatenaria",
+    "1p": "concatenaríamos",
+    "2p": "concatenaríeis",
+    "3p": "concatenariam"
+  },
+  "PresC": {
+    "1s": "concatene",
+    "2s": "concatenes",
+    "3s": "concatene",
+    "1p": "concatenemos",
+    "2p": "concateneis",
+    "3p": "concatenem"
+  },
+  "PImpC": {
+    "1s": "concatenasse",
+    "2s": "concatenasses",
+    "3s": "concatenasse",
+    "1p": "concatenássemos",
+    "2p": "concatenásseis",
+    "3p": "concatenassem"
+  },
+  "FutSC": {
+    "1s": "concatenar",
+    "2s": "concatenares",
+    "3s": "concatenar",
+    "1p": "concatenarmos",
+    "2p": "concatenardes",
+    "3p": "concatenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "concatena",
+    "3s": "concatene",
+    "1p": "concatenemos",
+    "2p": "concatenai",
+    "3p": "concatenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não concatenes",
+    "3s": "não concatene",
+    "1p": "não concatenemos",
+    "2p": "não concateneis",
+    "3p": "não concatenem"
+  },
+  "Part-ter": {
+    "": "concatenado"
+  },
+  "Part-ser": {
+    "ms": "concatenado",
+    "fs": "concatenada",
+    "mp": "concatenados",
+    "fp": "concatenadas"
+  }
+}

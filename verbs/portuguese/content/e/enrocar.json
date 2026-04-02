@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "enrocar"
+  },
+  "InfP": {
+    "1s": "enrocar",
+    "2s": "enrocares",
+    "3s": "enrocar",
+    "1p": "enrocarmos",
+    "2p": "enrocardes",
+    "3p": "enrocarem"
+  },
+  "Ger": {
+    "": "enrocando"
+  },
+  "PresI": {
+    "1s": "enroco",
+    "2s": "enrocas",
+    "3s": "enroca",
+    "1p": "enrocamos",
+    "2p": "enrocais",
+    "3p": "enrocam"
+  },
+  "PImpI": {
+    "1s": "enrocava",
+    "2s": "enrocavas",
+    "3s": "enrocava",
+    "1p": "enrocávamos",
+    "2p": "enrocáveis",
+    "3p": "enrocavam"
+  },
+  "PPSI": {
+    "1s": "enroquei",
+    "2s": "enrocaste",
+    "3s": "enrocou",
+    "1p": "enrocámos",
+    "2p": "enrocastes",
+    "3p": "enrocaram"
+  },
+  "PMQPSI": {
+    "1s": "enrocara",
+    "2s": "enrocaras",
+    "3s": "enrocara",
+    "1p": "enrocáramos",
+    "2p": "enrocáreis",
+    "3p": "enrocaram"
+  },
+  "FutSI": {
+    "1s": "enrocarei",
+    "2s": "enrocarás",
+    "3s": "enrocará",
+    "1p": "enrocaremos",
+    "2p": "enrocareis",
+    "3p": "enrocarão"
+  },
+  "CondS": {
+    "1s": "enrocaria",
+    "2s": "enrocarias",
+    "3s": "enrocaria",
+    "1p": "enrocaríamos",
+    "2p": "enrocaríeis",
+    "3p": "enrocariam"
+  },
+  "PresC": {
+    "1s": "enroque",
+    "2s": "enroques",
+    "3s": "enroque",
+    "1p": "enroquemos",
+    "2p": "enroqueis",
+    "3p": "enroquem"
+  },
+  "PImpC": {
+    "1s": "enrocasse",
+    "2s": "enrocasses",
+    "3s": "enrocasse",
+    "1p": "enrocássemos",
+    "2p": "enrocásseis",
+    "3p": "enrocassem"
+  },
+  "FutSC": {
+    "1s": "enrocar",
+    "2s": "enrocares",
+    "3s": "enrocar",
+    "1p": "enrocarmos",
+    "2p": "enrocardes",
+    "3p": "enrocarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "enroca",
+    "3s": "enroque",
+    "1p": "enroquemos",
+    "2p": "enrocai",
+    "3p": "enroquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não enroques",
+    "3s": "não enroque",
+    "1p": "não enroquemos",
+    "2p": "não enroqueis",
+    "3p": "não enroquem"
+  },
+  "Part-ter": {
+    "": "enrocado"
+  },
+  "Part-ser": {
+    "ms": "enrocado",
+    "fs": "enrocada",
+    "mp": "enrocados",
+    "fp": "enrocadas"
+  }
+}

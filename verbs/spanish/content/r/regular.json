@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "regular"
+  },
+  "Ger": {
+    "": "regulando"
+  },
+  "PresI": {
+    "1s": "regulo",
+    "2s": "regulas",
+    "3s": "regula",
+    "1p": "regulamos",
+    "2p": "reguláis",
+    "3p": "regulan"
+  },
+  "PImpI": {
+    "1s": "regulaba",
+    "2s": "regulabas",
+    "3s": "regulaba",
+    "1p": "regulábamos",
+    "2p": "regulabais",
+    "3p": "regulaban"
+  },
+  "PPSI": {
+    "1s": "regulé",
+    "2s": "regulaste",
+    "3s": "reguló",
+    "1p": "regulamos",
+    "2p": "regulasteis",
+    "3p": "regularon"
+  },
+  "FutSI": {
+    "1s": "regularé",
+    "2s": "regularás",
+    "3s": "regulará",
+    "1p": "regularemos",
+    "2p": "regularéis",
+    "3p": "regularán"
+  },
+  "CondS": {
+    "1s": "regularía",
+    "2s": "regularías",
+    "3s": "regularía",
+    "1p": "regularíamos",
+    "2p": "regularíais",
+    "3p": "regularían"
+  },
+  "PresC": {
+    "1s": "regule",
+    "2s": "regules",
+    "3s": "regule",
+    "1p": "regulemos",
+    "2p": "reguléis",
+    "3p": "regulen"
+  },
+  "PMQPSI": {
+    "1s": "regulara",
+    "2s": "regularas",
+    "3s": "regulara",
+    "1p": "reguláramos",
+    "2p": "regularais",
+    "3p": "regularan"
+  },
+  "PImpC": {
+    "1s": "regulase",
+    "2s": "regulases",
+    "3s": "regulase",
+    "1p": "regulásemos",
+    "2p": "regulaseis",
+    "3p": "regulasen"
+  },
+  "FutSC": {
+    "1s": "regulare",
+    "2s": "regulares",
+    "3s": "regulare",
+    "1p": "reguláremos",
+    "2p": "regulareis",
+    "3p": "regularen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "regula",
+    "3s": "regule",
+    "1p": "regulemos",
+    "2p": "regulad",
+    "3p": "regulen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no regules",
+    "3s": "no regule",
+    "1p": "no regulemos",
+    "2p": "no reguléis",
+    "3p": "no regulen"
+  },
+  "Part-ter": {
+    "": "regulado"
+  },
+  "Part-ser": {
+    "ms": "regulado",
+    "fs": "regulada",
+    "mp": "regulados",
+    "fp": "reguladas"
+  }
+}

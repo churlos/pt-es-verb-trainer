@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anteceder"
+  },
+  "InfP": {
+    "1s": "anteceder",
+    "2s": "antecederes",
+    "3s": "anteceder",
+    "1p": "antecedermos",
+    "2p": "antecederdes",
+    "3p": "antecederem"
+  },
+  "Ger": {
+    "": "antecedendo"
+  },
+  "PresI": {
+    "1s": "antecedo",
+    "2s": "antecedes",
+    "3s": "antecede",
+    "1p": "antecedemos",
+    "2p": "antecedeis",
+    "3p": "antecedem"
+  },
+  "PImpI": {
+    "1s": "antecedia",
+    "2s": "antecedias",
+    "3s": "antecedia",
+    "1p": "antecedíamos",
+    "2p": "antecedíeis",
+    "3p": "antecediam"
+  },
+  "PPSI": {
+    "1s": "antecedi",
+    "2s": "antecedeste",
+    "3s": "antecedeu",
+    "1p": "antecedemos",
+    "2p": "antecedestes",
+    "3p": "antecederam"
+  },
+  "PMQPSI": {
+    "1s": "antecedera",
+    "2s": "antecederas",
+    "3s": "antecedera",
+    "1p": "antecedêramos",
+    "2p": "antecedêreis",
+    "3p": "antecederam"
+  },
+  "FutSI": {
+    "1s": "antecederei",
+    "2s": "antecederás",
+    "3s": "antecederá",
+    "1p": "antecederemos",
+    "2p": "antecedereis",
+    "3p": "antecederão"
+  },
+  "CondS": {
+    "1s": "antecederia",
+    "2s": "antecederias",
+    "3s": "antecederia",
+    "1p": "antecederíamos",
+    "2p": "antecederíeis",
+    "3p": "antecederiam"
+  },
+  "PresC": {
+    "1s": "anteceda",
+    "2s": "antecedas",
+    "3s": "anteceda",
+    "1p": "antecedamos",
+    "2p": "antecedais",
+    "3p": "antecedam"
+  },
+  "PImpC": {
+    "1s": "antecedesse",
+    "2s": "antecedesses",
+    "3s": "antecedesse",
+    "1p": "antecedêssemos",
+    "2p": "antecedêsseis",
+    "3p": "antecedessem"
+  },
+  "FutSC": {
+    "1s": "anteceder",
+    "2s": "antecederes",
+    "3s": "anteceder",
+    "1p": "antecedermos",
+    "2p": "antecederdes",
+    "3p": "antecederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "antecede",
+    "3s": "anteceda",
+    "1p": "antecedamos",
+    "2p": "antecedei",
+    "3p": "antecedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não antecedas",
+    "3s": "não anteceda",
+    "1p": "não antecedamos",
+    "2p": "não antecedais",
+    "3p": "não antecedam"
+  },
+  "Part-ter": {
+    "": "antecedido"
+  },
+  "Part-ser": {
+    "ms": "antecedido",
+    "fs": "antecedida",
+    "mp": "antecedidos",
+    "fp": "antecedidas"
+  }
+}

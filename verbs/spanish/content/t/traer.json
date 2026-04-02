@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "traer"
+  },
+  "Ger": {
+    "": "trayendo"
+  },
+  "PresI": {
+    "1s": "traigo",
+    "2s": "traes",
+    "3s": "trae",
+    "1p": "traemos",
+    "2p": "traéis",
+    "3p": "traen"
+  },
+  "PImpI": {
+    "1s": "traía",
+    "2s": "traías",
+    "3s": "traía",
+    "1p": "traíamos",
+    "2p": "traíais",
+    "3p": "traían"
+  },
+  "PPSI": {
+    "1s": "traje",
+    "2s": "trajiste",
+    "3s": "trajo",
+    "1p": "trajimos",
+    "2p": "trajisteis",
+    "3p": "trajeron"
+  },
+  "FutSI": {
+    "1s": "traeré",
+    "2s": "traerás",
+    "3s": "traerá",
+    "1p": "traeremos",
+    "2p": "traeréis",
+    "3p": "traerán"
+  },
+  "CondS": {
+    "1s": "traería",
+    "2s": "traerías",
+    "3s": "traería",
+    "1p": "traeríamos",
+    "2p": "traeríais",
+    "3p": "traerían"
+  },
+  "PresC": {
+    "1s": "traiga",
+    "2s": "traigas",
+    "3s": "traiga",
+    "1p": "traigamos",
+    "2p": "traigáis",
+    "3p": "traigan"
+  },
+  "PMQPSI": {
+    "1s": "trajera",
+    "2s": "trajeras",
+    "3s": "trajera",
+    "1p": "trajéramos",
+    "2p": "trajerais",
+    "3p": "trajeran"
+  },
+  "PImpC": {
+    "1s": "trajese",
+    "2s": "trajeses",
+    "3s": "trajese",
+    "1p": "trajésemos",
+    "2p": "trajeseis",
+    "3p": "trajesen"
+  },
+  "FutSC": {
+    "1s": "trajere",
+    "2s": "trajeres",
+    "3s": "trajere",
+    "1p": "trajéremos",
+    "2p": "trajereis",
+    "3p": "trajeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "trae",
+    "3s": "traiga",
+    "1p": "traigamos",
+    "2p": "traed",
+    "3p": "traigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no traigas",
+    "3s": "no traiga",
+    "1p": "no traigamos",
+    "2p": "no traigáis",
+    "3p": "no traigan"
+  },
+  "Part-ter": {
+    "": "traído"
+  },
+  "Part-ser": {
+    "ms": "traído",
+    "fs": "traída",
+    "mp": "traídos",
+    "fp": "traídas"
+  }
+}

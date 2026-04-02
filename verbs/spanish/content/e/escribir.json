@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "escribir"
+  },
+  "Ger": {
+    "": "escribiendo"
+  },
+  "PresI": {
+    "1s": "escribo",
+    "2s": "escribes",
+    "3s": "escribe",
+    "1p": "escribimos",
+    "2p": "escribís",
+    "3p": "escriben"
+  },
+  "PImpI": {
+    "1s": "escribía",
+    "2s": "escribías",
+    "3s": "escribía",
+    "1p": "escribíamos",
+    "2p": "escribíais",
+    "3p": "escribían"
+  },
+  "PPSI": {
+    "1s": "escribí",
+    "2s": "escribiste",
+    "3s": "escribió",
+    "1p": "escribimos",
+    "2p": "escribisteis",
+    "3p": "escribieron"
+  },
+  "FutSI": {
+    "1s": "escribiré",
+    "2s": "escribirás",
+    "3s": "escribirá",
+    "1p": "escribiremos",
+    "2p": "escribiréis",
+    "3p": "escribirán"
+  },
+  "CondS": {
+    "1s": "escribiría",
+    "2s": "escribirías",
+    "3s": "escribiría",
+    "1p": "escribiríamos",
+    "2p": "escribiríais",
+    "3p": "escribirían"
+  },
+  "PresC": {
+    "1s": "escriba",
+    "2s": "escribas",
+    "3s": "escriba",
+    "1p": "escribamos",
+    "2p": "escribáis",
+    "3p": "escriban"
+  },
+  "PMQPSI": {
+    "1s": "escribiera",
+    "2s": "escribieras",
+    "3s": "escribiera",
+    "1p": "escribiéramos",
+    "2p": "escribierais",
+    "3p": "escribieran"
+  },
+  "PImpC": {
+    "1s": "escribiese",
+    "2s": "escribieses",
+    "3s": "escribiese",
+    "1p": "escribiésemos",
+    "2p": "escribieseis",
+    "3p": "escribiesen"
+  },
+  "FutSC": {
+    "1s": "escribiere",
+    "2s": "escribieres",
+    "3s": "escribiere",
+    "1p": "escribiéremos",
+    "2p": "escribiereis",
+    "3p": "escribieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "escribe",
+    "3s": "escriba",
+    "1p": "escribamos",
+    "2p": "escribid",
+    "3p": "escriban"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no escribas",
+    "3s": "no escriba",
+    "1p": "no escribamos",
+    "2p": "no escribáis",
+    "3p": "no escriban"
+  },
+  "Part-ter": {
+    "": "escrito, escripto"
+  },
+  "Part-ser": {
+    "ms": "escrito, escripto",
+    "fs": "escrita, escripta",
+    "mp": "escritos, escriptos",
+    "fp": "escritas, escriptas"
+  }
+}

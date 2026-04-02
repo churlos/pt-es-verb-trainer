@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dominar"
+  },
+  "InfP": {
+    "1s": "dominar",
+    "2s": "dominares",
+    "3s": "dominar",
+    "1p": "dominarmos",
+    "2p": "dominardes",
+    "3p": "dominarem"
+  },
+  "Ger": {
+    "": "dominando"
+  },
+  "PresI": {
+    "1s": "domino",
+    "2s": "dominas",
+    "3s": "domina",
+    "1p": "dominamos",
+    "2p": "dominais",
+    "3p": "dominam"
+  },
+  "PImpI": {
+    "1s": "dominava",
+    "2s": "dominavas",
+    "3s": "dominava",
+    "1p": "dominávamos",
+    "2p": "domináveis",
+    "3p": "dominavam"
+  },
+  "PPSI": {
+    "1s": "dominei",
+    "2s": "dominaste",
+    "3s": "dominou",
+    "1p": "dominámos",
+    "2p": "dominastes",
+    "3p": "dominaram"
+  },
+  "PMQPSI": {
+    "1s": "dominara",
+    "2s": "dominaras",
+    "3s": "dominara",
+    "1p": "domináramos",
+    "2p": "domináreis",
+    "3p": "dominaram"
+  },
+  "FutSI": {
+    "1s": "dominarei",
+    "2s": "dominarás",
+    "3s": "dominará",
+    "1p": "dominaremos",
+    "2p": "dominareis",
+    "3p": "dominarão"
+  },
+  "CondS": {
+    "1s": "dominaria",
+    "2s": "dominarias",
+    "3s": "dominaria",
+    "1p": "dominaríamos",
+    "2p": "dominaríeis",
+    "3p": "dominariam"
+  },
+  "PresC": {
+    "1s": "domine",
+    "2s": "domines",
+    "3s": "domine",
+    "1p": "dominemos",
+    "2p": "domineis",
+    "3p": "dominem"
+  },
+  "PImpC": {
+    "1s": "dominasse",
+    "2s": "dominasses",
+    "3s": "dominasse",
+    "1p": "dominássemos",
+    "2p": "dominásseis",
+    "3p": "dominassem"
+  },
+  "FutSC": {
+    "1s": "dominar",
+    "2s": "dominares",
+    "3s": "dominar",
+    "1p": "dominarmos",
+    "2p": "dominardes",
+    "3p": "dominarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "domina",
+    "3s": "domine",
+    "1p": "dominemos",
+    "2p": "dominai",
+    "3p": "dominem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não domines",
+    "3s": "não domine",
+    "1p": "não dominemos",
+    "2p": "não domineis",
+    "3p": "não dominem"
+  },
+  "Part-ter": {
+    "": "dominado"
+  },
+  "Part-ser": {
+    "ms": "dominado",
+    "fs": "dominada",
+    "mp": "dominados",
+    "fp": "dominadas"
+  }
+}

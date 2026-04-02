@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "acuciar"
+  },
+  "Ger": {
+    "": "acuciando"
+  },
+  "PresI": {
+    "1s": "acucio",
+    "2s": "acucias",
+    "3s": "acucia",
+    "1p": "acuciamos",
+    "2p": "acuciáis",
+    "3p": "acucian"
+  },
+  "PImpI": {
+    "1s": "acuciaba",
+    "2s": "acuciabas",
+    "3s": "acuciaba",
+    "1p": "acuciábamos",
+    "2p": "acuciabais",
+    "3p": "acuciaban"
+  },
+  "PPSI": {
+    "1s": "acucié",
+    "2s": "acuciaste",
+    "3s": "acució",
+    "1p": "acuciamos",
+    "2p": "acuciasteis",
+    "3p": "acuciaron"
+  },
+  "FutSI": {
+    "1s": "acuciaré",
+    "2s": "acuciarás",
+    "3s": "acuciará",
+    "1p": "acuciaremos",
+    "2p": "acuciaréis",
+    "3p": "acuciarán"
+  },
+  "CondS": {
+    "1s": "acuciaría",
+    "2s": "acuciarías",
+    "3s": "acuciaría",
+    "1p": "acuciaríamos",
+    "2p": "acuciaríais",
+    "3p": "acuciarían"
+  },
+  "PresC": {
+    "1s": "acucie",
+    "2s": "acucies",
+    "3s": "acucie",
+    "1p": "acuciemos",
+    "2p": "acuciéis",
+    "3p": "acucien"
+  },
+  "PMQPSI": {
+    "1s": "acuciara",
+    "2s": "acuciaras",
+    "3s": "acuciara",
+    "1p": "acuciáramos",
+    "2p": "acuciarais",
+    "3p": "acuciaran"
+  },
+  "PImpC": {
+    "1s": "acuciase",
+    "2s": "acuciases",
+    "3s": "acuciase",
+    "1p": "acuciásemos",
+    "2p": "acuciaseis",
+    "3p": "acuciasen"
+  },
+  "FutSC": {
+    "1s": "acuciare",
+    "2s": "acuciares",
+    "3s": "acuciare",
+    "1p": "acuciáremos",
+    "2p": "acuciareis",
+    "3p": "acuciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acucia",
+    "3s": "acucie",
+    "1p": "acuciemos",
+    "2p": "acuciad",
+    "3p": "acucien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no acucies",
+    "3s": "no acucie",
+    "1p": "no acuciemos",
+    "2p": "no acuciéis",
+    "3p": "no acucien"
+  },
+  "Part-ter": {
+    "": "acuciado"
+  },
+  "Part-ser": {
+    "ms": "acuciado",
+    "fs": "acuciada",
+    "mp": "acuciados",
+    "fp": "acuciadas"
+  }
+}

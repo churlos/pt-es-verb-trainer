@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "substanciar"
+  },
+  "InfP": {
+    "1s": "substanciar",
+    "2s": "substanciares",
+    "3s": "substanciar",
+    "1p": "substanciarmos",
+    "2p": "substanciardes",
+    "3p": "substanciarem"
+  },
+  "Ger": {
+    "": "substanciando"
+  },
+  "PresI": {
+    "1s": "substancio",
+    "2s": "substancias",
+    "3s": "substancia",
+    "1p": "substanciamos",
+    "2p": "substanciais",
+    "3p": "substanciam"
+  },
+  "PImpI": {
+    "1s": "substanciava",
+    "2s": "substanciavas",
+    "3s": "substanciava",
+    "1p": "substanciávamos",
+    "2p": "substanciáveis",
+    "3p": "substanciavam"
+  },
+  "PPSI": {
+    "1s": "substanciei",
+    "2s": "substanciaste",
+    "3s": "substanciou",
+    "1p": "substanciámos",
+    "2p": "substanciastes",
+    "3p": "substanciaram"
+  },
+  "PMQPSI": {
+    "1s": "substanciara",
+    "2s": "substanciaras",
+    "3s": "substanciara",
+    "1p": "substanciáramos",
+    "2p": "substanciáreis",
+    "3p": "substanciaram"
+  },
+  "FutSI": {
+    "1s": "substanciarei",
+    "2s": "substanciarás",
+    "3s": "substanciará",
+    "1p": "substanciaremos",
+    "2p": "substanciareis",
+    "3p": "substanciarão"
+  },
+  "CondS": {
+    "1s": "substanciaria",
+    "2s": "substanciarias",
+    "3s": "substanciaria",
+    "1p": "substanciaríamos",
+    "2p": "substanciaríeis",
+    "3p": "substanciariam"
+  },
+  "PresC": {
+    "1s": "substancie",
+    "2s": "substancies",
+    "3s": "substancie",
+    "1p": "substanciemos",
+    "2p": "substancieis",
+    "3p": "substanciem"
+  },
+  "PImpC": {
+    "1s": "substanciasse",
+    "2s": "substanciasses",
+    "3s": "substanciasse",
+    "1p": "substanciássemos",
+    "2p": "substanciásseis",
+    "3p": "substanciassem"
+  },
+  "FutSC": {
+    "1s": "substanciar",
+    "2s": "substanciares",
+    "3s": "substanciar",
+    "1p": "substanciarmos",
+    "2p": "substanciardes",
+    "3p": "substanciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "substancia",
+    "3s": "substancie",
+    "1p": "substanciemos",
+    "2p": "substanciai",
+    "3p": "substanciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não substancies",
+    "3s": "não substancie",
+    "1p": "não substanciemos",
+    "2p": "não substancieis",
+    "3p": "não substanciem"
+  },
+  "Part-ter": {
+    "": "substanciado"
+  },
+  "Part-ser": {
+    "ms": "substanciado",
+    "fs": "substanciada",
+    "mp": "substanciados",
+    "fp": "substanciadas"
+  }
+}

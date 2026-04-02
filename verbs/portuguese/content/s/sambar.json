@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sambar"
+  },
+  "InfP": {
+    "1s": "sambar",
+    "2s": "sambares",
+    "3s": "sambar",
+    "1p": "sambarmos",
+    "2p": "sambardes",
+    "3p": "sambarem"
+  },
+  "Ger": {
+    "": "sambando"
+  },
+  "PresI": {
+    "1s": "sambo",
+    "2s": "sambas",
+    "3s": "samba",
+    "1p": "sambamos",
+    "2p": "sambais",
+    "3p": "sambam"
+  },
+  "PImpI": {
+    "1s": "sambava",
+    "2s": "sambavas",
+    "3s": "sambava",
+    "1p": "sambávamos",
+    "2p": "sambáveis",
+    "3p": "sambavam"
+  },
+  "PPSI": {
+    "1s": "sambei",
+    "2s": "sambaste",
+    "3s": "sambou",
+    "1p": "sambámos",
+    "2p": "sambastes",
+    "3p": "sambaram"
+  },
+  "PMQPSI": {
+    "1s": "sambara",
+    "2s": "sambaras",
+    "3s": "sambara",
+    "1p": "sambáramos",
+    "2p": "sambáreis",
+    "3p": "sambaram"
+  },
+  "FutSI": {
+    "1s": "sambarei",
+    "2s": "sambarás",
+    "3s": "sambará",
+    "1p": "sambaremos",
+    "2p": "sambareis",
+    "3p": "sambarão"
+  },
+  "CondS": {
+    "1s": "sambaria",
+    "2s": "sambarias",
+    "3s": "sambaria",
+    "1p": "sambaríamos",
+    "2p": "sambaríeis",
+    "3p": "sambariam"
+  },
+  "PresC": {
+    "1s": "sambe",
+    "2s": "sambes",
+    "3s": "sambe",
+    "1p": "sambemos",
+    "2p": "sambeis",
+    "3p": "sambem"
+  },
+  "PImpC": {
+    "1s": "sambasse",
+    "2s": "sambasses",
+    "3s": "sambasse",
+    "1p": "sambássemos",
+    "2p": "sambásseis",
+    "3p": "sambassem"
+  },
+  "FutSC": {
+    "1s": "sambar",
+    "2s": "sambares",
+    "3s": "sambar",
+    "1p": "sambarmos",
+    "2p": "sambardes",
+    "3p": "sambarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "samba",
+    "3s": "sambe",
+    "1p": "sambemos",
+    "2p": "sambai",
+    "3p": "sambem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sambes",
+    "3s": "não sambe",
+    "1p": "não sambemos",
+    "2p": "não sambeis",
+    "3p": "não sambem"
+  },
+  "Part-ter": {
+    "": "sambado"
+  },
+  "Part-ser": {
+    "ms": "sambado",
+    "fs": "sambada",
+    "mp": "sambados",
+    "fp": "sambadas"
+  }
+}

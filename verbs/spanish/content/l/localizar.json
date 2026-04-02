@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "localizar"
+  },
+  "Ger": {
+    "": "localizando"
+  },
+  "PresI": {
+    "1s": "localizo",
+    "2s": "localizas",
+    "3s": "localiza",
+    "1p": "localizamos",
+    "2p": "localizáis",
+    "3p": "localizan"
+  },
+  "PImpI": {
+    "1s": "localizaba",
+    "2s": "localizabas",
+    "3s": "localizaba",
+    "1p": "localizábamos",
+    "2p": "localizabais",
+    "3p": "localizaban"
+  },
+  "PPSI": {
+    "1s": "localicé",
+    "2s": "localizaste",
+    "3s": "localizó",
+    "1p": "localizamos",
+    "2p": "localizasteis",
+    "3p": "localizaron"
+  },
+  "FutSI": {
+    "1s": "localizaré",
+    "2s": "localizarás",
+    "3s": "localizará",
+    "1p": "localizaremos",
+    "2p": "localizaréis",
+    "3p": "localizarán"
+  },
+  "CondS": {
+    "1s": "localizaría",
+    "2s": "localizarías",
+    "3s": "localizaría",
+    "1p": "localizaríamos",
+    "2p": "localizaríais",
+    "3p": "localizarían"
+  },
+  "PresC": {
+    "1s": "localice",
+    "2s": "localices",
+    "3s": "localice",
+    "1p": "localicemos",
+    "2p": "localicéis",
+    "3p": "localicen"
+  },
+  "PMQPSI": {
+    "1s": "localizara",
+    "2s": "localizaras",
+    "3s": "localizara",
+    "1p": "localizáramos",
+    "2p": "localizarais",
+    "3p": "localizaran"
+  },
+  "PImpC": {
+    "1s": "localizase",
+    "2s": "localizases",
+    "3s": "localizase",
+    "1p": "localizásemos",
+    "2p": "localizaseis",
+    "3p": "localizasen"
+  },
+  "FutSC": {
+    "1s": "localizare",
+    "2s": "localizares",
+    "3s": "localizare",
+    "1p": "localizáremos",
+    "2p": "localizareis",
+    "3p": "localizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "localiza",
+    "3s": "localice",
+    "1p": "localicemos",
+    "2p": "localizad",
+    "3p": "localicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no localices",
+    "3s": "no localice",
+    "1p": "no localicemos",
+    "2p": "no localicéis",
+    "3p": "no localicen"
+  },
+  "Part-ter": {
+    "": "localizado"
+  },
+  "Part-ser": {
+    "ms": "localizado",
+    "fs": "localizada",
+    "mp": "localizados",
+    "fp": "localizadas"
+  }
+}

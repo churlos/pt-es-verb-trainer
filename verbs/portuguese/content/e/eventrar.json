@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "eventrar"
+  },
+  "InfP": {
+    "1s": "eventrar",
+    "2s": "eventrares",
+    "3s": "eventrar",
+    "1p": "eventrarmos",
+    "2p": "eventrardes",
+    "3p": "eventrarem"
+  },
+  "Ger": {
+    "": "eventrando"
+  },
+  "PresI": {
+    "1s": "eventro",
+    "2s": "eventras",
+    "3s": "eventra",
+    "1p": "eventramos",
+    "2p": "eventrais",
+    "3p": "eventram"
+  },
+  "PImpI": {
+    "1s": "eventrava",
+    "2s": "eventravas",
+    "3s": "eventrava",
+    "1p": "eventrávamos",
+    "2p": "eventráveis",
+    "3p": "eventravam"
+  },
+  "PPSI": {
+    "1s": "eventrei",
+    "2s": "eventraste",
+    "3s": "eventrou",
+    "1p": "eventrámos",
+    "2p": "eventrastes",
+    "3p": "eventraram"
+  },
+  "PMQPSI": {
+    "1s": "eventrara",
+    "2s": "eventraras",
+    "3s": "eventrara",
+    "1p": "eventráramos",
+    "2p": "eventráreis",
+    "3p": "eventraram"
+  },
+  "FutSI": {
+    "1s": "eventrarei",
+    "2s": "eventrarás",
+    "3s": "eventrará",
+    "1p": "eventraremos",
+    "2p": "eventrareis",
+    "3p": "eventrarão"
+  },
+  "CondS": {
+    "1s": "eventraria",
+    "2s": "eventrarias",
+    "3s": "eventraria",
+    "1p": "eventraríamos",
+    "2p": "eventraríeis",
+    "3p": "eventrariam"
+  },
+  "PresC": {
+    "1s": "eventre",
+    "2s": "eventres",
+    "3s": "eventre",
+    "1p": "eventremos",
+    "2p": "eventreis",
+    "3p": "eventrem"
+  },
+  "PImpC": {
+    "1s": "eventrasse",
+    "2s": "eventrasses",
+    "3s": "eventrasse",
+    "1p": "eventrássemos",
+    "2p": "eventrásseis",
+    "3p": "eventrassem"
+  },
+  "FutSC": {
+    "1s": "eventrar",
+    "2s": "eventrares",
+    "3s": "eventrar",
+    "1p": "eventrarmos",
+    "2p": "eventrardes",
+    "3p": "eventrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "eventra",
+    "3s": "eventre",
+    "1p": "eventremos",
+    "2p": "eventrai",
+    "3p": "eventrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não eventres",
+    "3s": "não eventre",
+    "1p": "não eventremos",
+    "2p": "não eventreis",
+    "3p": "não eventrem"
+  },
+  "Part-ter": {
+    "": "eventrado"
+  },
+  "Part-ser": {
+    "ms": "eventrado",
+    "fs": "eventrada",
+    "mp": "eventrados",
+    "fp": "eventradas"
+  }
+}

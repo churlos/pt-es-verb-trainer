@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "incorporar"
+  },
+  "InfP": {
+    "1s": "incorporar",
+    "2s": "incorporares",
+    "3s": "incorporar",
+    "1p": "incorporarmos",
+    "2p": "incorporardes",
+    "3p": "incorporarem"
+  },
+  "Ger": {
+    "": "incorporando"
+  },
+  "PresI": {
+    "1s": "incorporo",
+    "2s": "incorporas",
+    "3s": "incorpora",
+    "1p": "incorporamos",
+    "2p": "incorporais",
+    "3p": "incorporam"
+  },
+  "PImpI": {
+    "1s": "incorporava",
+    "2s": "incorporavas",
+    "3s": "incorporava",
+    "1p": "incorporávamos",
+    "2p": "incorporáveis",
+    "3p": "incorporavam"
+  },
+  "PPSI": {
+    "1s": "incorporei",
+    "2s": "incorporaste",
+    "3s": "incorporou",
+    "1p": "incorporámos",
+    "2p": "incorporastes",
+    "3p": "incorporaram"
+  },
+  "PMQPSI": {
+    "1s": "incorporara",
+    "2s": "incorporaras",
+    "3s": "incorporara",
+    "1p": "incorporáramos",
+    "2p": "incorporáreis",
+    "3p": "incorporaram"
+  },
+  "FutSI": {
+    "1s": "incorporarei",
+    "2s": "incorporarás",
+    "3s": "incorporará",
+    "1p": "incorporaremos",
+    "2p": "incorporareis",
+    "3p": "incorporarão"
+  },
+  "CondS": {
+    "1s": "incorporaria",
+    "2s": "incorporarias",
+    "3s": "incorporaria",
+    "1p": "incorporaríamos",
+    "2p": "incorporaríeis",
+    "3p": "incorporariam"
+  },
+  "PresC": {
+    "1s": "incorpore",
+    "2s": "incorpores",
+    "3s": "incorpore",
+    "1p": "incorporemos",
+    "2p": "incorporeis",
+    "3p": "incorporem"
+  },
+  "PImpC": {
+    "1s": "incorporasse",
+    "2s": "incorporasses",
+    "3s": "incorporasse",
+    "1p": "incorporássemos",
+    "2p": "incorporásseis",
+    "3p": "incorporassem"
+  },
+  "FutSC": {
+    "1s": "incorporar",
+    "2s": "incorporares",
+    "3s": "incorporar",
+    "1p": "incorporarmos",
+    "2p": "incorporardes",
+    "3p": "incorporarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "incorpora",
+    "3s": "incorpore",
+    "1p": "incorporemos",
+    "2p": "incorporai",
+    "3p": "incorporem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não incorpores",
+    "3s": "não incorpore",
+    "1p": "não incorporemos",
+    "2p": "não incorporeis",
+    "3p": "não incorporem"
+  },
+  "Part-ter": {
+    "": "incorporado"
+  },
+  "Part-ser": {
+    "ms": "incorporado",
+    "fs": "incorporada",
+    "mp": "incorporados",
+    "fp": "incorporadas"
+  }
+}

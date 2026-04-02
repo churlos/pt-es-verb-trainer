@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "progredir"
+  },
+  "InfP": {
+    "1s": "progredir",
+    "2s": "progredires",
+    "3s": "progredir",
+    "1p": "progredirmos",
+    "2p": "progredirdes",
+    "3p": "progredirem"
+  },
+  "Ger": {
+    "": "progredindo"
+  },
+  "PresI": {
+    "1s": "progrido",
+    "2s": "progrides",
+    "3s": "progride",
+    "1p": "progredimos",
+    "2p": "progredis",
+    "3p": "progridem"
+  },
+  "PImpI": {
+    "1s": "progredia",
+    "2s": "progredias",
+    "3s": "progredia",
+    "1p": "progredíamos",
+    "2p": "progredíeis",
+    "3p": "progrediam"
+  },
+  "PPSI": {
+    "1s": "progredi",
+    "2s": "progrediste",
+    "3s": "progrediu",
+    "1p": "progredimos",
+    "2p": "progredistes",
+    "3p": "progrediram"
+  },
+  "PMQPSI": {
+    "1s": "progredira",
+    "2s": "progrediras",
+    "3s": "progredira",
+    "1p": "progredíramos",
+    "2p": "progredíreis",
+    "3p": "progrediram"
+  },
+  "FutSI": {
+    "1s": "progredirei",
+    "2s": "progredirás",
+    "3s": "progredirá",
+    "1p": "progrediremos",
+    "2p": "progredireis",
+    "3p": "progredirão"
+  },
+  "CondS": {
+    "1s": "progrediria",
+    "2s": "progredirias",
+    "3s": "progrediria",
+    "1p": "progrediríamos",
+    "2p": "progrediríeis",
+    "3p": "progrediriam"
+  },
+  "PresC": {
+    "1s": "progrida",
+    "2s": "progridas",
+    "3s": "progrida",
+    "1p": "progridamos",
+    "2p": "progridais",
+    "3p": "progridam"
+  },
+  "PImpC": {
+    "1s": "progredisse",
+    "2s": "progredisses",
+    "3s": "progredisse",
+    "1p": "progredíssemos",
+    "2p": "progredísseis",
+    "3p": "progredissem"
+  },
+  "FutSC": {
+    "1s": "progredir",
+    "2s": "progredires",
+    "3s": "progredir",
+    "1p": "progredirmos",
+    "2p": "progredirdes",
+    "3p": "progredirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "progride",
+    "3s": "progrida",
+    "1p": "progridamos",
+    "2p": "progredi",
+    "3p": "progridam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não progridas",
+    "3s": "não progrida",
+    "1p": "não progridamos",
+    "2p": "não progridais",
+    "3p": "não progridam"
+  },
+  "Part-ter": {
+    "": "progredido"
+  },
+  "Part-ser": {
+    "ms": "progredido",
+    "fs": "progredida",
+    "mp": "progredidos",
+    "fp": "progredidas"
+  }
+}

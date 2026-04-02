@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "ventilar"
+  },
+  "Ger": {
+    "": "ventilando"
+  },
+  "PresI": {
+    "1s": "ventilo",
+    "2s": "ventilas",
+    "3s": "ventila",
+    "1p": "ventilamos",
+    "2p": "ventiláis",
+    "3p": "ventilan"
+  },
+  "PImpI": {
+    "1s": "ventilaba",
+    "2s": "ventilabas",
+    "3s": "ventilaba",
+    "1p": "ventilábamos",
+    "2p": "ventilabais",
+    "3p": "ventilaban"
+  },
+  "PPSI": {
+    "1s": "ventilé",
+    "2s": "ventilaste",
+    "3s": "ventiló",
+    "1p": "ventilamos",
+    "2p": "ventilasteis",
+    "3p": "ventilaron"
+  },
+  "FutSI": {
+    "1s": "ventilaré",
+    "2s": "ventilarás",
+    "3s": "ventilará",
+    "1p": "ventilaremos",
+    "2p": "ventilaréis",
+    "3p": "ventilarán"
+  },
+  "CondS": {
+    "1s": "ventilaría",
+    "2s": "ventilarías",
+    "3s": "ventilaría",
+    "1p": "ventilaríamos",
+    "2p": "ventilaríais",
+    "3p": "ventilarían"
+  },
+  "PresC": {
+    "1s": "ventile",
+    "2s": "ventiles",
+    "3s": "ventile",
+    "1p": "ventilemos",
+    "2p": "ventiléis",
+    "3p": "ventilen"
+  },
+  "PMQPSI": {
+    "1s": "ventilara",
+    "2s": "ventilaras",
+    "3s": "ventilara",
+    "1p": "ventiláramos",
+    "2p": "ventilarais",
+    "3p": "ventilaran"
+  },
+  "PImpC": {
+    "1s": "ventilase",
+    "2s": "ventilases",
+    "3s": "ventilase",
+    "1p": "ventilásemos",
+    "2p": "ventilaseis",
+    "3p": "ventilasen"
+  },
+  "FutSC": {
+    "1s": "ventilare",
+    "2s": "ventilares",
+    "3s": "ventilare",
+    "1p": "ventiláremos",
+    "2p": "ventilareis",
+    "3p": "ventilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ventila",
+    "3s": "ventile",
+    "1p": "ventilemos",
+    "2p": "ventilad",
+    "3p": "ventilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ventiles",
+    "3s": "no ventile",
+    "1p": "no ventilemos",
+    "2p": "no ventiléis",
+    "3p": "no ventilen"
+  },
+  "Part-ter": {
+    "": "ventilado"
+  },
+  "Part-ser": {
+    "ms": "ventilado",
+    "fs": "ventilada",
+    "mp": "ventilados",
+    "fp": "ventiladas"
+  }
+}

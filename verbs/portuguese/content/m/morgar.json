@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "morgar"
+  },
+  "InfP": {
+    "1s": "morgar",
+    "2s": "morgares",
+    "3s": "morgar",
+    "1p": "morgarmos",
+    "2p": "morgardes",
+    "3p": "morgarem"
+  },
+  "Ger": {
+    "": "morgando"
+  },
+  "PresI": {
+    "1s": "morgo",
+    "2s": "morgas",
+    "3s": "morga",
+    "1p": "morgamos",
+    "2p": "morgais",
+    "3p": "morgam"
+  },
+  "PImpI": {
+    "1s": "morgava",
+    "2s": "morgavas",
+    "3s": "morgava",
+    "1p": "morgávamos",
+    "2p": "morgáveis",
+    "3p": "morgavam"
+  },
+  "PPSI": {
+    "1s": "morguei",
+    "2s": "morgaste",
+    "3s": "morgou",
+    "1p": "morgámos",
+    "2p": "morgastes",
+    "3p": "morgaram"
+  },
+  "PMQPSI": {
+    "1s": "morgara",
+    "2s": "morgaras",
+    "3s": "morgara",
+    "1p": "morgáramos",
+    "2p": "morgáreis",
+    "3p": "morgaram"
+  },
+  "FutSI": {
+    "1s": "morgarei",
+    "2s": "morgarás",
+    "3s": "morgará",
+    "1p": "morgaremos",
+    "2p": "morgareis",
+    "3p": "morgarão"
+  },
+  "CondS": {
+    "1s": "morgaria",
+    "2s": "morgarias",
+    "3s": "morgaria",
+    "1p": "morgaríamos",
+    "2p": "morgaríeis",
+    "3p": "morgariam"
+  },
+  "PresC": {
+    "1s": "morgue",
+    "2s": "morgues",
+    "3s": "morgue",
+    "1p": "morguemos",
+    "2p": "morgueis",
+    "3p": "morguem"
+  },
+  "PImpC": {
+    "1s": "morgasse",
+    "2s": "morgasses",
+    "3s": "morgasse",
+    "1p": "morgássemos",
+    "2p": "morgásseis",
+    "3p": "morgassem"
+  },
+  "FutSC": {
+    "1s": "morgar",
+    "2s": "morgares",
+    "3s": "morgar",
+    "1p": "morgarmos",
+    "2p": "morgardes",
+    "3p": "morgarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "morga",
+    "3s": "morgue",
+    "1p": "morguemos",
+    "2p": "morgai",
+    "3p": "morguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não morgues",
+    "3s": "não morgue",
+    "1p": "não morguemos",
+    "2p": "não morgueis",
+    "3p": "não morguem"
+  },
+  "Part-ter": {
+    "": "morgado"
+  },
+  "Part-ser": {
+    "ms": "morgado",
+    "fs": "morgada",
+    "mp": "morgados",
+    "fp": "morgadas"
+  }
+}

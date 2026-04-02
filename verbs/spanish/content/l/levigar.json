@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "levigar"
+  },
+  "Ger": {
+    "": "levigando"
+  },
+  "PresI": {
+    "1s": "levigo",
+    "2s": "levigas",
+    "3s": "leviga",
+    "1p": "levigamos",
+    "2p": "levigáis",
+    "3p": "levigan"
+  },
+  "PImpI": {
+    "1s": "levigaba",
+    "2s": "levigabas",
+    "3s": "levigaba",
+    "1p": "levigábamos",
+    "2p": "levigabais",
+    "3p": "levigaban"
+  },
+  "PPSI": {
+    "1s": "levigué",
+    "2s": "levigaste",
+    "3s": "levigó",
+    "1p": "levigamos",
+    "2p": "levigasteis",
+    "3p": "levigaron"
+  },
+  "FutSI": {
+    "1s": "levigaré",
+    "2s": "levigarás",
+    "3s": "levigará",
+    "1p": "levigaremos",
+    "2p": "levigaréis",
+    "3p": "levigarán"
+  },
+  "CondS": {
+    "1s": "levigaría",
+    "2s": "levigarías",
+    "3s": "levigaría",
+    "1p": "levigaríamos",
+    "2p": "levigaríais",
+    "3p": "levigarían"
+  },
+  "PresC": {
+    "1s": "levigue",
+    "2s": "levigues",
+    "3s": "levigue",
+    "1p": "leviguemos",
+    "2p": "leviguéis",
+    "3p": "leviguen"
+  },
+  "PMQPSI": {
+    "1s": "levigara",
+    "2s": "levigaras",
+    "3s": "levigara",
+    "1p": "levigáramos",
+    "2p": "levigarais",
+    "3p": "levigaran"
+  },
+  "PImpC": {
+    "1s": "levigase",
+    "2s": "levigases",
+    "3s": "levigase",
+    "1p": "levigásemos",
+    "2p": "levigaseis",
+    "3p": "levigasen"
+  },
+  "FutSC": {
+    "1s": "levigare",
+    "2s": "levigares",
+    "3s": "levigare",
+    "1p": "levigáremos",
+    "2p": "levigareis",
+    "3p": "levigaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "leviga",
+    "3s": "levigue",
+    "1p": "leviguemos",
+    "2p": "levigad",
+    "3p": "leviguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no levigues",
+    "3s": "no levigue",
+    "1p": "no leviguemos",
+    "2p": "no leviguéis",
+    "3p": "no leviguen"
+  },
+  "Part-ter": {
+    "": "levigado"
+  },
+  "Part-ser": {
+    "ms": "levigado",
+    "fs": "levigada",
+    "mp": "levigados",
+    "fp": "levigadas"
+  }
+}

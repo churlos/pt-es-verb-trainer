@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "venir"
+  },
+  "Ger": {
+    "": "viniendo"
+  },
+  "PresI": {
+    "1s": "vengo",
+    "2s": "vienes",
+    "3s": "viene",
+    "1p": "venimos",
+    "2p": "venís",
+    "3p": "vienen"
+  },
+  "PImpI": {
+    "1s": "venía",
+    "2s": "venías",
+    "3s": "venía",
+    "1p": "veníamos",
+    "2p": "veníais",
+    "3p": "venían"
+  },
+  "PPSI": {
+    "1s": "vine",
+    "2s": "viniste",
+    "3s": "vino",
+    "1p": "vinimos",
+    "2p": "vinisteis",
+    "3p": "vinieron"
+  },
+  "FutSI": {
+    "1s": "vendré",
+    "2s": "vendrás",
+    "3s": "vendrá",
+    "1p": "vendremos",
+    "2p": "vendréis",
+    "3p": "vendrán"
+  },
+  "CondS": {
+    "1s": "vendría",
+    "2s": "vendrías",
+    "3s": "vendría",
+    "1p": "vendríamos",
+    "2p": "vendríais",
+    "3p": "vendrían"
+  },
+  "PresC": {
+    "1s": "venga",
+    "2s": "vengas",
+    "3s": "venga",
+    "1p": "vengamos",
+    "2p": "vengáis",
+    "3p": "vengan"
+  },
+  "PMQPSI": {
+    "1s": "viniera",
+    "2s": "vinieras",
+    "3s": "viniera",
+    "1p": "viniéramos",
+    "2p": "vinierais",
+    "3p": "vinieran"
+  },
+  "PImpC": {
+    "1s": "viniese",
+    "2s": "vinieses",
+    "3s": "viniese",
+    "1p": "viniésemos",
+    "2p": "vinieseis",
+    "3p": "viniesen"
+  },
+  "FutSC": {
+    "1s": "viniere",
+    "2s": "vinieres",
+    "3s": "viniere",
+    "1p": "viniéremos",
+    "2p": "viniereis",
+    "3p": "vinieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ven",
+    "3s": "venga",
+    "1p": "vengamos",
+    "2p": "venid",
+    "3p": "vengan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no vengas",
+    "3s": "no venga",
+    "1p": "no vengamos",
+    "2p": "no vengáis",
+    "3p": "no vengan"
+  },
+  "Part-ter": {
+    "": "venido"
+  },
+  "Part-ser": {
+    "ms": "venido",
+    "fs": "venida",
+    "mp": "venidos",
+    "fp": "venidas"
+  }
+}

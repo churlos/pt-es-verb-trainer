@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "maquinar"
+  },
+  "Ger": {
+    "": "maquinando"
+  },
+  "PresI": {
+    "1s": "maquino",
+    "2s": "maquinas",
+    "3s": "maquina",
+    "1p": "maquinamos",
+    "2p": "maquináis",
+    "3p": "maquinan"
+  },
+  "PImpI": {
+    "1s": "maquinaba",
+    "2s": "maquinabas",
+    "3s": "maquinaba",
+    "1p": "maquinábamos",
+    "2p": "maquinabais",
+    "3p": "maquinaban"
+  },
+  "PPSI": {
+    "1s": "maquiné",
+    "2s": "maquinaste",
+    "3s": "maquinó",
+    "1p": "maquinamos",
+    "2p": "maquinasteis",
+    "3p": "maquinaron"
+  },
+  "FutSI": {
+    "1s": "maquinaré",
+    "2s": "maquinarás",
+    "3s": "maquinará",
+    "1p": "maquinaremos",
+    "2p": "maquinaréis",
+    "3p": "maquinarán"
+  },
+  "CondS": {
+    "1s": "maquinaría",
+    "2s": "maquinarías",
+    "3s": "maquinaría",
+    "1p": "maquinaríamos",
+    "2p": "maquinaríais",
+    "3p": "maquinarían"
+  },
+  "PresC": {
+    "1s": "maquine",
+    "2s": "maquines",
+    "3s": "maquine",
+    "1p": "maquinemos",
+    "2p": "maquinéis",
+    "3p": "maquinen"
+  },
+  "PMQPSI": {
+    "1s": "maquinara",
+    "2s": "maquinaras",
+    "3s": "maquinara",
+    "1p": "maquináramos",
+    "2p": "maquinarais",
+    "3p": "maquinaran"
+  },
+  "PImpC": {
+    "1s": "maquinase",
+    "2s": "maquinases",
+    "3s": "maquinase",
+    "1p": "maquinásemos",
+    "2p": "maquinaseis",
+    "3p": "maquinasen"
+  },
+  "FutSC": {
+    "1s": "maquinare",
+    "2s": "maquinares",
+    "3s": "maquinare",
+    "1p": "maquináremos",
+    "2p": "maquinareis",
+    "3p": "maquinaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maquina",
+    "3s": "maquine",
+    "1p": "maquinemos",
+    "2p": "maquinad",
+    "3p": "maquinen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no maquines",
+    "3s": "no maquine",
+    "1p": "no maquinemos",
+    "2p": "no maquinéis",
+    "3p": "no maquinen"
+  },
+  "Part-ter": {
+    "": "maquinado"
+  },
+  "Part-ser": {
+    "ms": "maquinado",
+    "fs": "maquinada",
+    "mp": "maquinados",
+    "fp": "maquinadas"
+  }
+}

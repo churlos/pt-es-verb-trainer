@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pintar"
+  },
+  "InfP": {
+    "1s": "pintar",
+    "2s": "pintares",
+    "3s": "pintar",
+    "1p": "pintarmos",
+    "2p": "pintardes",
+    "3p": "pintarem"
+  },
+  "Ger": {
+    "": "pintando"
+  },
+  "PresI": {
+    "1s": "pinto",
+    "2s": "pintas",
+    "3s": "pinta",
+    "1p": "pintamos",
+    "2p": "pintais",
+    "3p": "pintam"
+  },
+  "PImpI": {
+    "1s": "pintava",
+    "2s": "pintavas",
+    "3s": "pintava",
+    "1p": "pintávamos",
+    "2p": "pintáveis",
+    "3p": "pintavam"
+  },
+  "PPSI": {
+    "1s": "pintei",
+    "2s": "pintaste",
+    "3s": "pintou",
+    "1p": "pintámos",
+    "2p": "pintastes",
+    "3p": "pintaram"
+  },
+  "PMQPSI": {
+    "1s": "pintara",
+    "2s": "pintaras",
+    "3s": "pintara",
+    "1p": "pintáramos",
+    "2p": "pintáreis",
+    "3p": "pintaram"
+  },
+  "FutSI": {
+    "1s": "pintarei",
+    "2s": "pintarás",
+    "3s": "pintará",
+    "1p": "pintaremos",
+    "2p": "pintareis",
+    "3p": "pintarão"
+  },
+  "CondS": {
+    "1s": "pintaria",
+    "2s": "pintarias",
+    "3s": "pintaria",
+    "1p": "pintaríamos",
+    "2p": "pintaríeis",
+    "3p": "pintariam"
+  },
+  "PresC": {
+    "1s": "pinte",
+    "2s": "pintes",
+    "3s": "pinte",
+    "1p": "pintemos",
+    "2p": "pinteis",
+    "3p": "pintem"
+  },
+  "PImpC": {
+    "1s": "pintasse",
+    "2s": "pintasses",
+    "3s": "pintasse",
+    "1p": "pintássemos",
+    "2p": "pintásseis",
+    "3p": "pintassem"
+  },
+  "FutSC": {
+    "1s": "pintar",
+    "2s": "pintares",
+    "3s": "pintar",
+    "1p": "pintarmos",
+    "2p": "pintardes",
+    "3p": "pintarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pinta",
+    "3s": "pinte",
+    "1p": "pintemos",
+    "2p": "pintai",
+    "3p": "pintem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pintes",
+    "3s": "não pinte",
+    "1p": "não pintemos",
+    "2p": "não pinteis",
+    "3p": "não pintem"
+  },
+  "Part-ter": {
+    "": "pintado"
+  },
+  "Part-ser": {
+    "ms": "pintado",
+    "fs": "pintada",
+    "mp": "pintados",
+    "fp": "pintadas"
+  }
+}

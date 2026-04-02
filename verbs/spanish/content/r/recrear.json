@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recrear"
+  },
+  "Ger": {
+    "": "recreando"
+  },
+  "PresI": {
+    "1s": "recreo",
+    "2s": "recreas",
+    "3s": "recrea",
+    "1p": "recreamos",
+    "2p": "recreáis",
+    "3p": "recrean"
+  },
+  "PImpI": {
+    "1s": "recreaba",
+    "2s": "recreabas",
+    "3s": "recreaba",
+    "1p": "recreábamos",
+    "2p": "recreabais",
+    "3p": "recreaban"
+  },
+  "PPSI": {
+    "1s": "recreé",
+    "2s": "recreaste",
+    "3s": "recreó",
+    "1p": "recreamos",
+    "2p": "recreasteis",
+    "3p": "recrearon"
+  },
+  "FutSI": {
+    "1s": "recrearé",
+    "2s": "recrearás",
+    "3s": "recreará",
+    "1p": "recrearemos",
+    "2p": "recrearéis",
+    "3p": "recrearán"
+  },
+  "CondS": {
+    "1s": "recrearía",
+    "2s": "recrearías",
+    "3s": "recrearía",
+    "1p": "recrearíamos",
+    "2p": "recrearíais",
+    "3p": "recrearían"
+  },
+  "PresC": {
+    "1s": "recree",
+    "2s": "recrees",
+    "3s": "recree",
+    "1p": "recreemos",
+    "2p": "recreéis",
+    "3p": "recreen"
+  },
+  "PMQPSI": {
+    "1s": "recreara",
+    "2s": "recrearas",
+    "3s": "recreara",
+    "1p": "recreáramos",
+    "2p": "recrearais",
+    "3p": "recrearan"
+  },
+  "PImpC": {
+    "1s": "recrease",
+    "2s": "recreases",
+    "3s": "recrease",
+    "1p": "recreásemos",
+    "2p": "recreaseis",
+    "3p": "recreasen"
+  },
+  "FutSC": {
+    "1s": "recreare",
+    "2s": "recreares",
+    "3s": "recreare",
+    "1p": "recreáremos",
+    "2p": "recreareis",
+    "3p": "recrearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recrea",
+    "3s": "recree",
+    "1p": "recreemos",
+    "2p": "recread",
+    "3p": "recreen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recrees",
+    "3s": "no recree",
+    "1p": "no recreemos",
+    "2p": "no recreéis",
+    "3p": "no recreen"
+  },
+  "Part-ter": {
+    "": "recreado"
+  },
+  "Part-ser": {
+    "ms": "recreado",
+    "fs": "recreada",
+    "mp": "recreados",
+    "fp": "recreadas"
+  }
+}

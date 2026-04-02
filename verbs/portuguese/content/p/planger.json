@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "planger"
+  },
+  "InfP": {
+    "1s": "planger",
+    "2s": "plangeres",
+    "3s": "planger",
+    "1p": "plangermos",
+    "2p": "plangerdes",
+    "3p": "plangerem"
+  },
+  "Ger": {
+    "": "plangendo"
+  },
+  "PresI": {
+    "1s": "planjo",
+    "2s": "planges",
+    "3s": "plange",
+    "1p": "plangemos",
+    "2p": "plangeis",
+    "3p": "plangem"
+  },
+  "PImpI": {
+    "1s": "plangia",
+    "2s": "plangias",
+    "3s": "plangia",
+    "1p": "plangíamos",
+    "2p": "plangíeis",
+    "3p": "plangiam"
+  },
+  "PPSI": {
+    "1s": "plangi",
+    "2s": "plangeste",
+    "3s": "plangeu",
+    "1p": "plangemos",
+    "2p": "plangestes",
+    "3p": "plangeram"
+  },
+  "PMQPSI": {
+    "1s": "plangera",
+    "2s": "plangeras",
+    "3s": "plangera",
+    "1p": "plangêramos",
+    "2p": "plangêreis",
+    "3p": "plangeram"
+  },
+  "FutSI": {
+    "1s": "plangerei",
+    "2s": "plangerás",
+    "3s": "plangerá",
+    "1p": "plangeremos",
+    "2p": "plangereis",
+    "3p": "plangerão"
+  },
+  "CondS": {
+    "1s": "plangeria",
+    "2s": "plangerias",
+    "3s": "plangeria",
+    "1p": "plangeríamos",
+    "2p": "plangeríeis",
+    "3p": "plangeriam"
+  },
+  "PresC": {
+    "1s": "planja",
+    "2s": "planjas",
+    "3s": "planja",
+    "1p": "planjamos",
+    "2p": "planjais",
+    "3p": "planjam"
+  },
+  "PImpC": {
+    "1s": "plangesse",
+    "2s": "plangesses",
+    "3s": "plangesse",
+    "1p": "plangêssemos",
+    "2p": "plangêsseis",
+    "3p": "plangessem"
+  },
+  "FutSC": {
+    "1s": "planger",
+    "2s": "plangeres",
+    "3s": "planger",
+    "1p": "plangermos",
+    "2p": "plangerdes",
+    "3p": "plangerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "plange",
+    "3s": "planja",
+    "1p": "planjamos",
+    "2p": "plangei",
+    "3p": "planjam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não planjas",
+    "3s": "não planja",
+    "1p": "não planjamos",
+    "2p": "não planjais",
+    "3p": "não planjam"
+  },
+  "Part-ter": {
+    "": "plangido"
+  },
+  "Part-ser": {
+    "ms": "plangido",
+    "fs": "plangida",
+    "mp": "plangidos",
+    "fp": "plangidas"
+  }
+}

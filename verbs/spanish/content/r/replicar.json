@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "replicar"
+  },
+  "Ger": {
+    "": "replicando"
+  },
+  "PresI": {
+    "1s": "replico",
+    "2s": "replicas",
+    "3s": "replica",
+    "1p": "replicamos",
+    "2p": "replicáis",
+    "3p": "replican"
+  },
+  "PImpI": {
+    "1s": "replicaba",
+    "2s": "replicabas",
+    "3s": "replicaba",
+    "1p": "replicábamos",
+    "2p": "replicabais",
+    "3p": "replicaban"
+  },
+  "PPSI": {
+    "1s": "repliqué",
+    "2s": "replicaste",
+    "3s": "replicó",
+    "1p": "replicamos",
+    "2p": "replicasteis",
+    "3p": "replicaron"
+  },
+  "FutSI": {
+    "1s": "replicaré",
+    "2s": "replicarás",
+    "3s": "replicará",
+    "1p": "replicaremos",
+    "2p": "replicaréis",
+    "3p": "replicarán"
+  },
+  "CondS": {
+    "1s": "replicaría",
+    "2s": "replicarías",
+    "3s": "replicaría",
+    "1p": "replicaríamos",
+    "2p": "replicaríais",
+    "3p": "replicarían"
+  },
+  "PresC": {
+    "1s": "replique",
+    "2s": "repliques",
+    "3s": "replique",
+    "1p": "repliquemos",
+    "2p": "repliquéis",
+    "3p": "repliquen"
+  },
+  "PMQPSI": {
+    "1s": "replicara",
+    "2s": "replicaras",
+    "3s": "replicara",
+    "1p": "replicáramos",
+    "2p": "replicarais",
+    "3p": "replicaran"
+  },
+  "PImpC": {
+    "1s": "replicase",
+    "2s": "replicases",
+    "3s": "replicase",
+    "1p": "replicásemos",
+    "2p": "replicaseis",
+    "3p": "replicasen"
+  },
+  "FutSC": {
+    "1s": "replicare",
+    "2s": "replicares",
+    "3s": "replicare",
+    "1p": "replicáremos",
+    "2p": "replicareis",
+    "3p": "replicaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "replica",
+    "3s": "replique",
+    "1p": "repliquemos",
+    "2p": "replicad",
+    "3p": "repliquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no repliques",
+    "3s": "no replique",
+    "1p": "no repliquemos",
+    "2p": "no repliquéis",
+    "3p": "no repliquen"
+  },
+  "Part-ter": {
+    "": "replicado"
+  },
+  "Part-ser": {
+    "ms": "replicado",
+    "fs": "replicada",
+    "mp": "replicados",
+    "fp": "replicadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "apiparse"
+  },
+  "Ger": {
+    "": "apipándose"
+  },
+  "PresI": {
+    "1s": "me apipo",
+    "2s": "te apipas",
+    "3s": "se apipa",
+    "1p": "nos apipamos",
+    "2p": "os apipáis",
+    "3p": "se apipan"
+  },
+  "PImpI": {
+    "1s": "me apipaba",
+    "2s": "te apipabas",
+    "3s": "se apipaba",
+    "1p": "nos apipábamos",
+    "2p": "os apipabais",
+    "3p": "se apipaban"
+  },
+  "PPSI": {
+    "1s": "me apipé",
+    "2s": "te apipaste",
+    "3s": "se apipó",
+    "1p": "nos apipamos",
+    "2p": "os apipasteis",
+    "3p": "se apiparon"
+  },
+  "FutSI": {
+    "1s": "me apiparé",
+    "2s": "te apiparás",
+    "3s": "se apipará",
+    "1p": "nos apiparemos",
+    "2p": "os apiparéis",
+    "3p": "se apiparán"
+  },
+  "CondS": {
+    "1s": "me apiparía",
+    "2s": "te apiparías",
+    "3s": "se apiparía",
+    "1p": "nos apiparíamos",
+    "2p": "os apiparíais",
+    "3p": "se apiparían"
+  },
+  "PresC": {
+    "1s": "me apipe",
+    "2s": "te apipes",
+    "3s": "se apipe",
+    "1p": "nos apipemos",
+    "2p": "os apipéis",
+    "3p": "se apipen"
+  },
+  "PMQPSI": {
+    "1s": "me apipara",
+    "2s": "te apiparas",
+    "3s": "se apipara",
+    "1p": "nos apipáramos",
+    "2p": "os apiparais",
+    "3p": "se apiparan"
+  },
+  "PImpC": {
+    "1s": "me apipase",
+    "2s": "te apipases",
+    "3s": "se apipase",
+    "1p": "nos apipásemos",
+    "2p": "os apipaseis",
+    "3p": "se apipasen"
+  },
+  "FutSC": {
+    "1s": "me apipare",
+    "2s": "te apipares",
+    "3s": "se apipare",
+    "1p": "nos apipáremos",
+    "2p": "os apipareis",
+    "3p": "se apiparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apípate",
+    "3s": "apípese",
+    "1p": "apipémonos",
+    "2p": "apipaos",
+    "3p": "apípense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te apipes",
+    "3s": "no se apipe",
+    "1p": "no nos apipemos",
+    "2p": "no os apipéis",
+    "3p": "no se apipen"
+  },
+  "Part-ter": {
+    "": "apipado"
+  },
+  "Part-ser": {
+    "ms": "apipado",
+    "fs": "apipada",
+    "mp": "apipados",
+    "fp": "apipadas"
+  }
+}

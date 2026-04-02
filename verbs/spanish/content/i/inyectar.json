@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "inyectar"
+  },
+  "Ger": {
+    "": "inyectando"
+  },
+  "PresI": {
+    "1s": "inyecto",
+    "2s": "inyectas",
+    "3s": "inyecta",
+    "1p": "inyectamos",
+    "2p": "inyectáis",
+    "3p": "inyectan"
+  },
+  "PImpI": {
+    "1s": "inyectaba",
+    "2s": "inyectabas",
+    "3s": "inyectaba",
+    "1p": "inyectábamos",
+    "2p": "inyectabais",
+    "3p": "inyectaban"
+  },
+  "PPSI": {
+    "1s": "inyecté",
+    "2s": "inyectaste",
+    "3s": "inyectó",
+    "1p": "inyectamos",
+    "2p": "inyectasteis",
+    "3p": "inyectaron"
+  },
+  "FutSI": {
+    "1s": "inyectaré",
+    "2s": "inyectarás",
+    "3s": "inyectará",
+    "1p": "inyectaremos",
+    "2p": "inyectaréis",
+    "3p": "inyectarán"
+  },
+  "CondS": {
+    "1s": "inyectaría",
+    "2s": "inyectarías",
+    "3s": "inyectaría",
+    "1p": "inyectaríamos",
+    "2p": "inyectaríais",
+    "3p": "inyectarían"
+  },
+  "PresC": {
+    "1s": "inyecte",
+    "2s": "inyectes",
+    "3s": "inyecte",
+    "1p": "inyectemos",
+    "2p": "inyectéis",
+    "3p": "inyecten"
+  },
+  "PMQPSI": {
+    "1s": "inyectara",
+    "2s": "inyectaras",
+    "3s": "inyectara",
+    "1p": "inyectáramos",
+    "2p": "inyectarais",
+    "3p": "inyectaran"
+  },
+  "PImpC": {
+    "1s": "inyectase",
+    "2s": "inyectases",
+    "3s": "inyectase",
+    "1p": "inyectásemos",
+    "2p": "inyectaseis",
+    "3p": "inyectasen"
+  },
+  "FutSC": {
+    "1s": "inyectare",
+    "2s": "inyectares",
+    "3s": "inyectare",
+    "1p": "inyectáremos",
+    "2p": "inyectareis",
+    "3p": "inyectaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "inyecta",
+    "3s": "inyecte",
+    "1p": "inyectemos",
+    "2p": "inyectad",
+    "3p": "inyecten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no inyectes",
+    "3s": "no inyecte",
+    "1p": "no inyectemos",
+    "2p": "no inyectéis",
+    "3p": "no inyecten"
+  },
+  "Part-ter": {
+    "": "inyectado"
+  },
+  "Part-ser": {
+    "ms": "inyectado",
+    "fs": "inyectada",
+    "mp": "inyectados",
+    "fp": "inyectadas"
+  }
+}

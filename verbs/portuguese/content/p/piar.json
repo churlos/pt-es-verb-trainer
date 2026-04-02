@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "piar"
+  },
+  "InfP": {
+    "1s": "piar",
+    "2s": "piares",
+    "3s": "piar",
+    "1p": "piarmos",
+    "2p": "piardes",
+    "3p": "piarem"
+  },
+  "Ger": {
+    "": "piando"
+  },
+  "PresI": {
+    "1s": "pio",
+    "2s": "pias",
+    "3s": "pia",
+    "1p": "piamos",
+    "2p": "piais",
+    "3p": "piam"
+  },
+  "PImpI": {
+    "1s": "piava",
+    "2s": "piavas",
+    "3s": "piava",
+    "1p": "piávamos",
+    "2p": "piáveis",
+    "3p": "piavam"
+  },
+  "PPSI": {
+    "1s": "piei",
+    "2s": "piaste",
+    "3s": "piou",
+    "1p": "piámos",
+    "2p": "piastes",
+    "3p": "piaram"
+  },
+  "PMQPSI": {
+    "1s": "piara",
+    "2s": "piaras",
+    "3s": "piara",
+    "1p": "piáramos",
+    "2p": "piáreis",
+    "3p": "piaram"
+  },
+  "FutSI": {
+    "1s": "piarei",
+    "2s": "piarás",
+    "3s": "piará",
+    "1p": "piaremos",
+    "2p": "piareis",
+    "3p": "piarão"
+  },
+  "CondS": {
+    "1s": "piaria",
+    "2s": "piarias",
+    "3s": "piaria",
+    "1p": "piaríamos",
+    "2p": "piaríeis",
+    "3p": "piariam"
+  },
+  "PresC": {
+    "1s": "pie",
+    "2s": "pies",
+    "3s": "pie",
+    "1p": "piemos",
+    "2p": "pieis",
+    "3p": "piem"
+  },
+  "PImpC": {
+    "1s": "piasse",
+    "2s": "piasses",
+    "3s": "piasse",
+    "1p": "piássemos",
+    "2p": "piásseis",
+    "3p": "piassem"
+  },
+  "FutSC": {
+    "1s": "piar",
+    "2s": "piares",
+    "3s": "piar",
+    "1p": "piarmos",
+    "2p": "piardes",
+    "3p": "piarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pia",
+    "3s": "pie",
+    "1p": "piemos",
+    "2p": "piai",
+    "3p": "piem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pies",
+    "3s": "não pie",
+    "1p": "não piemos",
+    "2p": "não pieis",
+    "3p": "não piem"
+  },
+  "Part-ter": {
+    "": "piado"
+  },
+  "Part-ser": {
+    "ms": "piado",
+    "fs": "piada",
+    "mp": "piados",
+    "fp": "piadas"
+  }
+}

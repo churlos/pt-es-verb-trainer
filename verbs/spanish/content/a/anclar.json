@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "anclar"
+  },
+  "Ger": {
+    "": "anclando"
+  },
+  "PresI": {
+    "1s": "anclo",
+    "2s": "anclas",
+    "3s": "ancla",
+    "1p": "anclamos",
+    "2p": "ancláis",
+    "3p": "anclan"
+  },
+  "PImpI": {
+    "1s": "anclaba",
+    "2s": "anclabas",
+    "3s": "anclaba",
+    "1p": "anclábamos",
+    "2p": "anclabais",
+    "3p": "anclaban"
+  },
+  "PPSI": {
+    "1s": "anclé",
+    "2s": "anclaste",
+    "3s": "ancló",
+    "1p": "anclamos",
+    "2p": "anclasteis",
+    "3p": "anclaron"
+  },
+  "FutSI": {
+    "1s": "anclaré",
+    "2s": "anclarás",
+    "3s": "anclará",
+    "1p": "anclaremos",
+    "2p": "anclaréis",
+    "3p": "anclarán"
+  },
+  "CondS": {
+    "1s": "anclaría",
+    "2s": "anclarías",
+    "3s": "anclaría",
+    "1p": "anclaríamos",
+    "2p": "anclaríais",
+    "3p": "anclarían"
+  },
+  "PresC": {
+    "1s": "ancle",
+    "2s": "ancles",
+    "3s": "ancle",
+    "1p": "anclemos",
+    "2p": "ancléis",
+    "3p": "anclen"
+  },
+  "PMQPSI": {
+    "1s": "anclara",
+    "2s": "anclaras",
+    "3s": "anclara",
+    "1p": "ancláramos",
+    "2p": "anclarais",
+    "3p": "anclaran"
+  },
+  "PImpC": {
+    "1s": "anclase",
+    "2s": "anclases",
+    "3s": "anclase",
+    "1p": "anclásemos",
+    "2p": "anclaseis",
+    "3p": "anclasen"
+  },
+  "FutSC": {
+    "1s": "anclare",
+    "2s": "anclares",
+    "3s": "anclare",
+    "1p": "ancláremos",
+    "2p": "anclareis",
+    "3p": "anclaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ancla",
+    "3s": "ancle",
+    "1p": "anclemos",
+    "2p": "anclad",
+    "3p": "anclen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ancles",
+    "3s": "no ancle",
+    "1p": "no anclemos",
+    "2p": "no ancléis",
+    "3p": "no anclen"
+  },
+  "Part-ter": {
+    "": "anclado"
+  },
+  "Part-ser": {
+    "ms": "anclado",
+    "fs": "anclada",
+    "mp": "anclados",
+    "fp": "ancladas"
+  }
+}

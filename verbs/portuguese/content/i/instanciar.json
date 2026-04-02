@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "instanciar"
+  },
+  "InfP": {
+    "1s": "instanciar",
+    "2s": "instanciares",
+    "3s": "instanciar",
+    "1p": "instanciarmos",
+    "2p": "instanciardes",
+    "3p": "instanciarem"
+  },
+  "Ger": {
+    "": "instanciando"
+  },
+  "PresI": {
+    "1s": "instancio",
+    "2s": "instancias",
+    "3s": "instancia",
+    "1p": "instanciamos",
+    "2p": "instanciais",
+    "3p": "instanciam"
+  },
+  "PImpI": {
+    "1s": "instanciava",
+    "2s": "instanciavas",
+    "3s": "instanciava",
+    "1p": "instanciávamos",
+    "2p": "instanciáveis",
+    "3p": "instanciavam"
+  },
+  "PPSI": {
+    "1s": "instanciei",
+    "2s": "instanciaste",
+    "3s": "instanciou",
+    "1p": "instanciámos",
+    "2p": "instanciastes",
+    "3p": "instanciaram"
+  },
+  "PMQPSI": {
+    "1s": "instanciara",
+    "2s": "instanciaras",
+    "3s": "instanciara",
+    "1p": "instanciáramos",
+    "2p": "instanciáreis",
+    "3p": "instanciaram"
+  },
+  "FutSI": {
+    "1s": "instanciarei",
+    "2s": "instanciarás",
+    "3s": "instanciará",
+    "1p": "instanciaremos",
+    "2p": "instanciareis",
+    "3p": "instanciarão"
+  },
+  "CondS": {
+    "1s": "instanciaria",
+    "2s": "instanciarias",
+    "3s": "instanciaria",
+    "1p": "instanciaríamos",
+    "2p": "instanciaríeis",
+    "3p": "instanciariam"
+  },
+  "PresC": {
+    "1s": "instancie",
+    "2s": "instancies",
+    "3s": "instancie",
+    "1p": "instanciemos",
+    "2p": "instancieis",
+    "3p": "instanciem"
+  },
+  "PImpC": {
+    "1s": "instanciasse",
+    "2s": "instanciasses",
+    "3s": "instanciasse",
+    "1p": "instanciássemos",
+    "2p": "instanciásseis",
+    "3p": "instanciassem"
+  },
+  "FutSC": {
+    "1s": "instanciar",
+    "2s": "instanciares",
+    "3s": "instanciar",
+    "1p": "instanciarmos",
+    "2p": "instanciardes",
+    "3p": "instanciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "instancia",
+    "3s": "instancie",
+    "1p": "instanciemos",
+    "2p": "instanciai",
+    "3p": "instanciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não instancies",
+    "3s": "não instancie",
+    "1p": "não instanciemos",
+    "2p": "não instancieis",
+    "3p": "não instanciem"
+  },
+  "Part-ter": {
+    "": "instanciado"
+  },
+  "Part-ser": {
+    "ms": "instanciado",
+    "fs": "instanciada",
+    "mp": "instanciados",
+    "fp": "instanciadas"
+  }
+}

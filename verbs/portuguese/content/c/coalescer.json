@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "coalescer"
+  },
+  "InfP": {
+    "1s": "coalescer",
+    "2s": "coalesceres",
+    "3s": "coalescer",
+    "1p": "coalescermos",
+    "2p": "coalescerdes",
+    "3p": "coalescerem"
+  },
+  "Ger": {
+    "": "coalescendo"
+  },
+  "PresI": {
+    "1s": "coalesço",
+    "2s": "coalesces",
+    "3s": "coalesce",
+    "1p": "coalescemos",
+    "2p": "coalesceis",
+    "3p": "coalescem"
+  },
+  "PImpI": {
+    "1s": "coalescia",
+    "2s": "coalescias",
+    "3s": "coalescia",
+    "1p": "coalescíamos",
+    "2p": "coalescíeis",
+    "3p": "coalesciam"
+  },
+  "PPSI": {
+    "1s": "coalesci",
+    "2s": "coalesceste",
+    "3s": "coalesceu",
+    "1p": "coalescemos",
+    "2p": "coalescestes",
+    "3p": "coalesceram"
+  },
+  "PMQPSI": {
+    "1s": "coalescera",
+    "2s": "coalesceras",
+    "3s": "coalescera",
+    "1p": "coalescêramos",
+    "2p": "coalescêreis",
+    "3p": "coalesceram"
+  },
+  "FutSI": {
+    "1s": "coalescerei",
+    "2s": "coalescerás",
+    "3s": "coalescerá",
+    "1p": "coalesceremos",
+    "2p": "coalescereis",
+    "3p": "coalescerão"
+  },
+  "CondS": {
+    "1s": "coalesceria",
+    "2s": "coalescerias",
+    "3s": "coalesceria",
+    "1p": "coalesceríamos",
+    "2p": "coalesceríeis",
+    "3p": "coalesceriam"
+  },
+  "PresC": {
+    "1s": "coalesça",
+    "2s": "coalesças",
+    "3s": "coalesça",
+    "1p": "coalesçamos",
+    "2p": "coalesçais",
+    "3p": "coalesçam"
+  },
+  "PImpC": {
+    "1s": "coalescesse",
+    "2s": "coalescesses",
+    "3s": "coalescesse",
+    "1p": "coalescêssemos",
+    "2p": "coalescêsseis",
+    "3p": "coalescessem"
+  },
+  "FutSC": {
+    "1s": "coalescer",
+    "2s": "coalesceres",
+    "3s": "coalescer",
+    "1p": "coalescermos",
+    "2p": "coalescerdes",
+    "3p": "coalescerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "coalesce",
+    "3s": "coalesça",
+    "1p": "coalesçamos",
+    "2p": "coalescei",
+    "3p": "coalesçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não coalesças",
+    "3s": "não coalesça",
+    "1p": "não coalesçamos",
+    "2p": "não coalesçais",
+    "3p": "não coalesçam"
+  },
+  "Part-ter": {
+    "": "coalescido"
+  },
+  "Part-ser": {
+    "ms": "coalescido",
+    "fs": "coalescida",
+    "mp": "coalescidos",
+    "fp": "coalescidas"
+  }
+}

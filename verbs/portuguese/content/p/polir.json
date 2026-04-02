@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "polir"
+  },
+  "InfP": {
+    "1s": "polir",
+    "2s": "polires",
+    "3s": "polir",
+    "1p": "polirmos",
+    "2p": "polirdes",
+    "3p": "polirem"
+  },
+  "Ger": {
+    "": "polindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "polimos",
+    "2p": "polis",
+    "3p": ""
+  },
+  "PImpI": {
+    "1s": "polia",
+    "2s": "polias",
+    "3s": "polia",
+    "1p": "políamos",
+    "2p": "políeis",
+    "3p": "poliam"
+  },
+  "PPSI": {
+    "1s": "poli",
+    "2s": "poliste",
+    "3s": "poliu",
+    "1p": "polimos",
+    "2p": "polistes",
+    "3p": "poliram"
+  },
+  "PMQPSI": {
+    "1s": "polira",
+    "2s": "poliras",
+    "3s": "polira",
+    "1p": "políramos",
+    "2p": "políreis",
+    "3p": "poliram"
+  },
+  "FutSI": {
+    "1s": "polirei",
+    "2s": "polirás",
+    "3s": "polirá",
+    "1p": "poliremos",
+    "2p": "polireis",
+    "3p": "polirão"
+  },
+  "CondS": {
+    "1s": "poliria",
+    "2s": "polirias",
+    "3s": "poliria",
+    "1p": "poliríamos",
+    "2p": "poliríeis",
+    "3p": "poliriam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "polisse",
+    "2s": "polisses",
+    "3s": "polisse",
+    "1p": "políssemos",
+    "2p": "polísseis",
+    "3p": "polissem"
+  },
+  "FutSC": {
+    "1s": "polir",
+    "2s": "polires",
+    "3s": "polir",
+    "1p": "polirmos",
+    "2p": "polirdes",
+    "3p": "polirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "poli",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "polido"
+  },
+  "Part-ser": {
+    "ms": "polido",
+    "fs": "polida",
+    "mp": "polidos",
+    "fp": "polidas"
+  }
+}

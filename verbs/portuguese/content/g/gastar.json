@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "gastar"
+  },
+  "InfP": {
+    "1s": "gastar",
+    "2s": "gastares",
+    "3s": "gastar",
+    "1p": "gastarmos",
+    "2p": "gastardes",
+    "3p": "gastarem"
+  },
+  "Ger": {
+    "": "gastando"
+  },
+  "PresI": {
+    "1s": "gasto",
+    "2s": "gastas",
+    "3s": "gasta",
+    "1p": "gastamos",
+    "2p": "gastais",
+    "3p": "gastam"
+  },
+  "PImpI": {
+    "1s": "gastava",
+    "2s": "gastavas",
+    "3s": "gastava",
+    "1p": "gastávamos",
+    "2p": "gastáveis",
+    "3p": "gastavam"
+  },
+  "PPSI": {
+    "1s": "gastei",
+    "2s": "gastaste",
+    "3s": "gastou",
+    "1p": "gastámos",
+    "2p": "gastastes",
+    "3p": "gastaram"
+  },
+  "PMQPSI": {
+    "1s": "gastara",
+    "2s": "gastaras",
+    "3s": "gastara",
+    "1p": "gastáramos",
+    "2p": "gastáreis",
+    "3p": "gastaram"
+  },
+  "FutSI": {
+    "1s": "gastarei",
+    "2s": "gastarás",
+    "3s": "gastará",
+    "1p": "gastaremos",
+    "2p": "gastareis",
+    "3p": "gastarão"
+  },
+  "CondS": {
+    "1s": "gastaria",
+    "2s": "gastarias",
+    "3s": "gastaria",
+    "1p": "gastaríamos",
+    "2p": "gastaríeis",
+    "3p": "gastariam"
+  },
+  "PresC": {
+    "1s": "gaste",
+    "2s": "gastes",
+    "3s": "gaste",
+    "1p": "gastemos",
+    "2p": "gasteis",
+    "3p": "gastem"
+  },
+  "PImpC": {
+    "1s": "gastasse",
+    "2s": "gastasses",
+    "3s": "gastasse",
+    "1p": "gastássemos",
+    "2p": "gastásseis",
+    "3p": "gastassem"
+  },
+  "FutSC": {
+    "1s": "gastar",
+    "2s": "gastares",
+    "3s": "gastar",
+    "1p": "gastarmos",
+    "2p": "gastardes",
+    "3p": "gastarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gasta",
+    "3s": "gaste",
+    "1p": "gastemos",
+    "2p": "gastai",
+    "3p": "gastem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não gastes",
+    "3s": "não gaste",
+    "1p": "não gastemos",
+    "2p": "não gasteis",
+    "3p": "não gastem"
+  },
+  "Part-ter": {
+    "": "gastado"
+  },
+  "Part-ser": {
+    "ms": "gasto",
+    "fs": "gasta",
+    "mp": "gastos",
+    "fp": "gastas"
+  }
+}

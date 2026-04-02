@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "terciar"
+  },
+  "Ger": {
+    "": "terciando"
+  },
+  "PresI": {
+    "1s": "tercio",
+    "2s": "tercias",
+    "3s": "tercia",
+    "1p": "terciamos",
+    "2p": "terciáis",
+    "3p": "tercian"
+  },
+  "PImpI": {
+    "1s": "terciaba",
+    "2s": "terciabas",
+    "3s": "terciaba",
+    "1p": "terciábamos",
+    "2p": "terciabais",
+    "3p": "terciaban"
+  },
+  "PPSI": {
+    "1s": "tercié",
+    "2s": "terciaste",
+    "3s": "terció",
+    "1p": "terciamos",
+    "2p": "terciasteis",
+    "3p": "terciaron"
+  },
+  "FutSI": {
+    "1s": "terciaré",
+    "2s": "terciarás",
+    "3s": "terciará",
+    "1p": "terciaremos",
+    "2p": "terciaréis",
+    "3p": "terciarán"
+  },
+  "CondS": {
+    "1s": "terciaría",
+    "2s": "terciarías",
+    "3s": "terciaría",
+    "1p": "terciaríamos",
+    "2p": "terciaríais",
+    "3p": "terciarían"
+  },
+  "PresC": {
+    "1s": "tercie",
+    "2s": "tercies",
+    "3s": "tercie",
+    "1p": "terciemos",
+    "2p": "terciéis",
+    "3p": "tercien"
+  },
+  "PMQPSI": {
+    "1s": "terciara",
+    "2s": "terciaras",
+    "3s": "terciara",
+    "1p": "terciáramos",
+    "2p": "terciarais",
+    "3p": "terciaran"
+  },
+  "PImpC": {
+    "1s": "terciase",
+    "2s": "terciases",
+    "3s": "terciase",
+    "1p": "terciásemos",
+    "2p": "terciaseis",
+    "3p": "terciasen"
+  },
+  "FutSC": {
+    "1s": "terciare",
+    "2s": "terciares",
+    "3s": "terciare",
+    "1p": "terciáremos",
+    "2p": "terciareis",
+    "3p": "terciaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tercia",
+    "3s": "tercie",
+    "1p": "terciemos",
+    "2p": "terciad",
+    "3p": "tercien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tercies",
+    "3s": "no tercie",
+    "1p": "no terciemos",
+    "2p": "no terciéis",
+    "3p": "no tercien"
+  },
+  "Part-ter": {
+    "": "terciado"
+  },
+  "Part-ser": {
+    "ms": "terciado",
+    "fs": "terciada",
+    "mp": "terciados",
+    "fp": "terciadas"
+  }
+}

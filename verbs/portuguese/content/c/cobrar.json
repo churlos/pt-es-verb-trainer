@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "cobrar"
+  },
+  "InfP": {
+    "1s": "cobrar",
+    "2s": "cobrares",
+    "3s": "cobrar",
+    "1p": "cobrarmos",
+    "2p": "cobrardes",
+    "3p": "cobrarem"
+  },
+  "Ger": {
+    "": "cobrando"
+  },
+  "PresI": {
+    "1s": "cobro",
+    "2s": "cobras",
+    "3s": "cobra",
+    "1p": "cobramos",
+    "2p": "cobrais",
+    "3p": "cobram"
+  },
+  "PImpI": {
+    "1s": "cobrava",
+    "2s": "cobravas",
+    "3s": "cobrava",
+    "1p": "cobrávamos",
+    "2p": "cobráveis",
+    "3p": "cobravam"
+  },
+  "PPSI": {
+    "1s": "cobrei",
+    "2s": "cobraste",
+    "3s": "cobrou",
+    "1p": "cobrámos",
+    "2p": "cobrastes",
+    "3p": "cobraram"
+  },
+  "PMQPSI": {
+    "1s": "cobrara",
+    "2s": "cobraras",
+    "3s": "cobrara",
+    "1p": "cobráramos",
+    "2p": "cobráreis",
+    "3p": "cobraram"
+  },
+  "FutSI": {
+    "1s": "cobrarei",
+    "2s": "cobrarás",
+    "3s": "cobrará",
+    "1p": "cobraremos",
+    "2p": "cobrareis",
+    "3p": "cobrarão"
+  },
+  "CondS": {
+    "1s": "cobraria",
+    "2s": "cobrarias",
+    "3s": "cobraria",
+    "1p": "cobraríamos",
+    "2p": "cobraríeis",
+    "3p": "cobrariam"
+  },
+  "PresC": {
+    "1s": "cobre",
+    "2s": "cobres",
+    "3s": "cobre",
+    "1p": "cobremos",
+    "2p": "cobreis",
+    "3p": "cobrem"
+  },
+  "PImpC": {
+    "1s": "cobrasse",
+    "2s": "cobrasses",
+    "3s": "cobrasse",
+    "1p": "cobrássemos",
+    "2p": "cobrásseis",
+    "3p": "cobrassem"
+  },
+  "FutSC": {
+    "1s": "cobrar",
+    "2s": "cobrares",
+    "3s": "cobrar",
+    "1p": "cobrarmos",
+    "2p": "cobrardes",
+    "3p": "cobrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cobra",
+    "3s": "cobre",
+    "1p": "cobremos",
+    "2p": "cobrai",
+    "3p": "cobrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não cobres",
+    "3s": "não cobre",
+    "1p": "não cobremos",
+    "2p": "não cobreis",
+    "3p": "não cobrem"
+  },
+  "Part-ter": {
+    "": "cobrado"
+  },
+  "Part-ser": {
+    "ms": "cobrado",
+    "fs": "cobrada",
+    "mp": "cobrados",
+    "fp": "cobradas"
+  }
+}

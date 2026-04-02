@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "destapar"
+  },
+  "Ger": {
+    "": "destapando"
+  },
+  "PresI": {
+    "1s": "destapo",
+    "2s": "destapas",
+    "3s": "destapa",
+    "1p": "destapamos",
+    "2p": "destapáis",
+    "3p": "destapan"
+  },
+  "PImpI": {
+    "1s": "destapaba",
+    "2s": "destapabas",
+    "3s": "destapaba",
+    "1p": "destapábamos",
+    "2p": "destapabais",
+    "3p": "destapaban"
+  },
+  "PPSI": {
+    "1s": "destapé",
+    "2s": "destapaste",
+    "3s": "destapó",
+    "1p": "destapamos",
+    "2p": "destapasteis",
+    "3p": "destaparon"
+  },
+  "FutSI": {
+    "1s": "destaparé",
+    "2s": "destaparás",
+    "3s": "destapará",
+    "1p": "destaparemos",
+    "2p": "destaparéis",
+    "3p": "destaparán"
+  },
+  "CondS": {
+    "1s": "destaparía",
+    "2s": "destaparías",
+    "3s": "destaparía",
+    "1p": "destaparíamos",
+    "2p": "destaparíais",
+    "3p": "destaparían"
+  },
+  "PresC": {
+    "1s": "destape",
+    "2s": "destapes",
+    "3s": "destape",
+    "1p": "destapemos",
+    "2p": "destapéis",
+    "3p": "destapen"
+  },
+  "PMQPSI": {
+    "1s": "destapara",
+    "2s": "destaparas",
+    "3s": "destapara",
+    "1p": "destapáramos",
+    "2p": "destaparais",
+    "3p": "destaparan"
+  },
+  "PImpC": {
+    "1s": "destapase",
+    "2s": "destapases",
+    "3s": "destapase",
+    "1p": "destapásemos",
+    "2p": "destapaseis",
+    "3p": "destapasen"
+  },
+  "FutSC": {
+    "1s": "destapare",
+    "2s": "destapares",
+    "3s": "destapare",
+    "1p": "destapáremos",
+    "2p": "destapareis",
+    "3p": "destaparen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "destapa",
+    "3s": "destape",
+    "1p": "destapemos",
+    "2p": "destapad",
+    "3p": "destapen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no destapes",
+    "3s": "no destape",
+    "1p": "no destapemos",
+    "2p": "no destapéis",
+    "3p": "no destapen"
+  },
+  "Part-ter": {
+    "": "destapado"
+  },
+  "Part-ser": {
+    "ms": "destapado",
+    "fs": "destapada",
+    "mp": "destapados",
+    "fp": "destapadas"
+  }
+}

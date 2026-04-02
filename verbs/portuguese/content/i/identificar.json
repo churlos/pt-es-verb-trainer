@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "identificar"
+  },
+  "InfP": {
+    "1s": "identificar",
+    "2s": "identificares",
+    "3s": "identificar",
+    "1p": "identificarmos",
+    "2p": "identificardes",
+    "3p": "identificarem"
+  },
+  "Ger": {
+    "": "identificando"
+  },
+  "PresI": {
+    "1s": "identifico",
+    "2s": "identificas",
+    "3s": "identifica",
+    "1p": "identificamos",
+    "2p": "identificais",
+    "3p": "identificam"
+  },
+  "PImpI": {
+    "1s": "identificava",
+    "2s": "identificavas",
+    "3s": "identificava",
+    "1p": "identificávamos",
+    "2p": "identificáveis",
+    "3p": "identificavam"
+  },
+  "PPSI": {
+    "1s": "identifiquei",
+    "2s": "identificaste",
+    "3s": "identificou",
+    "1p": "identificámos",
+    "2p": "identificastes",
+    "3p": "identificaram"
+  },
+  "PMQPSI": {
+    "1s": "identificara",
+    "2s": "identificaras",
+    "3s": "identificara",
+    "1p": "identificáramos",
+    "2p": "identificáreis",
+    "3p": "identificaram"
+  },
+  "FutSI": {
+    "1s": "identificarei",
+    "2s": "identificarás",
+    "3s": "identificará",
+    "1p": "identificaremos",
+    "2p": "identificareis",
+    "3p": "identificarão"
+  },
+  "CondS": {
+    "1s": "identificaria",
+    "2s": "identificarias",
+    "3s": "identificaria",
+    "1p": "identificaríamos",
+    "2p": "identificaríeis",
+    "3p": "identificariam"
+  },
+  "PresC": {
+    "1s": "identifique",
+    "2s": "identifiques",
+    "3s": "identifique",
+    "1p": "identifiquemos",
+    "2p": "identifiqueis",
+    "3p": "identifiquem"
+  },
+  "PImpC": {
+    "1s": "identificasse",
+    "2s": "identificasses",
+    "3s": "identificasse",
+    "1p": "identificássemos",
+    "2p": "identificásseis",
+    "3p": "identificassem"
+  },
+  "FutSC": {
+    "1s": "identificar",
+    "2s": "identificares",
+    "3s": "identificar",
+    "1p": "identificarmos",
+    "2p": "identificardes",
+    "3p": "identificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "identifica",
+    "3s": "identifique",
+    "1p": "identifiquemos",
+    "2p": "identificai",
+    "3p": "identifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não identifiques",
+    "3s": "não identifique",
+    "1p": "não identifiquemos",
+    "2p": "não identifiqueis",
+    "3p": "não identifiquem"
+  },
+  "Part-ter": {
+    "": "identificado"
+  },
+  "Part-ser": {
+    "ms": "identificado",
+    "fs": "identificada",
+    "mp": "identificados",
+    "fp": "identificadas"
+  }
+}

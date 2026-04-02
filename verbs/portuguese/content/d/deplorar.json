@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deplorar"
+  },
+  "InfP": {
+    "1s": "deplorar",
+    "2s": "deplorares",
+    "3s": "deplorar",
+    "1p": "deplorarmos",
+    "2p": "deplorardes",
+    "3p": "deplorarem"
+  },
+  "Ger": {
+    "": "deplorando"
+  },
+  "PresI": {
+    "1s": "deploro",
+    "2s": "deploras",
+    "3s": "deplora",
+    "1p": "deploramos",
+    "2p": "deplorais",
+    "3p": "deploram"
+  },
+  "PImpI": {
+    "1s": "deplorava",
+    "2s": "deploravas",
+    "3s": "deplorava",
+    "1p": "deplorávamos",
+    "2p": "deploráveis",
+    "3p": "deploravam"
+  },
+  "PPSI": {
+    "1s": "deplorei",
+    "2s": "deploraste",
+    "3s": "deplorou",
+    "1p": "deplorámos",
+    "2p": "deplorastes",
+    "3p": "deploraram"
+  },
+  "PMQPSI": {
+    "1s": "deplorara",
+    "2s": "deploraras",
+    "3s": "deplorara",
+    "1p": "deploráramos",
+    "2p": "deploráreis",
+    "3p": "deploraram"
+  },
+  "FutSI": {
+    "1s": "deplorarei",
+    "2s": "deplorarás",
+    "3s": "deplorará",
+    "1p": "deploraremos",
+    "2p": "deplorareis",
+    "3p": "deplorarão"
+  },
+  "CondS": {
+    "1s": "deploraria",
+    "2s": "deplorarias",
+    "3s": "deploraria",
+    "1p": "deploraríamos",
+    "2p": "deploraríeis",
+    "3p": "deplorariam"
+  },
+  "PresC": {
+    "1s": "deplore",
+    "2s": "deplores",
+    "3s": "deplore",
+    "1p": "deploremos",
+    "2p": "deploreis",
+    "3p": "deplorem"
+  },
+  "PImpC": {
+    "1s": "deplorasse",
+    "2s": "deplorasses",
+    "3s": "deplorasse",
+    "1p": "deplorássemos",
+    "2p": "deplorásseis",
+    "3p": "deplorassem"
+  },
+  "FutSC": {
+    "1s": "deplorar",
+    "2s": "deplorares",
+    "3s": "deplorar",
+    "1p": "deplorarmos",
+    "2p": "deplorardes",
+    "3p": "deplorarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deplora",
+    "3s": "deplore",
+    "1p": "deploremos",
+    "2p": "deplorai",
+    "3p": "deplorem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deplores",
+    "3s": "não deplore",
+    "1p": "não deploremos",
+    "2p": "não deploreis",
+    "3p": "não deplorem"
+  },
+  "Part-ter": {
+    "": "deplorado"
+  },
+  "Part-ser": {
+    "ms": "deplorado",
+    "fs": "deplorada",
+    "mp": "deplorados",
+    "fp": "deploradas"
+  }
+}

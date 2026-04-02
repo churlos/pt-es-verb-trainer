@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "isolar"
+  },
+  "InfP": {
+    "1s": "isolar",
+    "2s": "isolares",
+    "3s": "isolar",
+    "1p": "isolarmos",
+    "2p": "isolardes",
+    "3p": "isolarem"
+  },
+  "Ger": {
+    "": "isolando"
+  },
+  "PresI": {
+    "1s": "isolo",
+    "2s": "isolas",
+    "3s": "isola",
+    "1p": "isolamos",
+    "2p": "isolais",
+    "3p": "isolam"
+  },
+  "PImpI": {
+    "1s": "isolava",
+    "2s": "isolavas",
+    "3s": "isolava",
+    "1p": "isolávamos",
+    "2p": "isoláveis",
+    "3p": "isolavam"
+  },
+  "PPSI": {
+    "1s": "isolei",
+    "2s": "isolaste",
+    "3s": "isolou",
+    "1p": "isolámos",
+    "2p": "isolastes",
+    "3p": "isolaram"
+  },
+  "PMQPSI": {
+    "1s": "isolara",
+    "2s": "isolaras",
+    "3s": "isolara",
+    "1p": "isoláramos",
+    "2p": "isoláreis",
+    "3p": "isolaram"
+  },
+  "FutSI": {
+    "1s": "isolarei",
+    "2s": "isolarás",
+    "3s": "isolará",
+    "1p": "isolaremos",
+    "2p": "isolareis",
+    "3p": "isolarão"
+  },
+  "CondS": {
+    "1s": "isolaria",
+    "2s": "isolarias",
+    "3s": "isolaria",
+    "1p": "isolaríamos",
+    "2p": "isolaríeis",
+    "3p": "isolariam"
+  },
+  "PresC": {
+    "1s": "isole",
+    "2s": "isoles",
+    "3s": "isole",
+    "1p": "isolemos",
+    "2p": "isoleis",
+    "3p": "isolem"
+  },
+  "PImpC": {
+    "1s": "isolasse",
+    "2s": "isolasses",
+    "3s": "isolasse",
+    "1p": "isolássemos",
+    "2p": "isolásseis",
+    "3p": "isolassem"
+  },
+  "FutSC": {
+    "1s": "isolar",
+    "2s": "isolares",
+    "3s": "isolar",
+    "1p": "isolarmos",
+    "2p": "isolardes",
+    "3p": "isolarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "isola",
+    "3s": "isole",
+    "1p": "isolemos",
+    "2p": "isolai",
+    "3p": "isolem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não isoles",
+    "3s": "não isole",
+    "1p": "não isolemos",
+    "2p": "não isoleis",
+    "3p": "não isolem"
+  },
+  "Part-ter": {
+    "": "isolado"
+  },
+  "Part-ser": {
+    "ms": "isolado",
+    "fs": "isolada",
+    "mp": "isolados",
+    "fp": "isoladas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lactar"
+  },
+  "Ger": {
+    "": "lactando"
+  },
+  "PresI": {
+    "1s": "lacto",
+    "2s": "lactas",
+    "3s": "lacta",
+    "1p": "lactamos",
+    "2p": "lactáis",
+    "3p": "lactan"
+  },
+  "PImpI": {
+    "1s": "lactaba",
+    "2s": "lactabas",
+    "3s": "lactaba",
+    "1p": "lactábamos",
+    "2p": "lactabais",
+    "3p": "lactaban"
+  },
+  "PPSI": {
+    "1s": "lacté",
+    "2s": "lactaste",
+    "3s": "lactó",
+    "1p": "lactamos",
+    "2p": "lactasteis",
+    "3p": "lactaron"
+  },
+  "FutSI": {
+    "1s": "lactaré",
+    "2s": "lactarás",
+    "3s": "lactará",
+    "1p": "lactaremos",
+    "2p": "lactaréis",
+    "3p": "lactarán"
+  },
+  "CondS": {
+    "1s": "lactaría",
+    "2s": "lactarías",
+    "3s": "lactaría",
+    "1p": "lactaríamos",
+    "2p": "lactaríais",
+    "3p": "lactarían"
+  },
+  "PresC": {
+    "1s": "lacte",
+    "2s": "lactes",
+    "3s": "lacte",
+    "1p": "lactemos",
+    "2p": "lactéis",
+    "3p": "lacten"
+  },
+  "PMQPSI": {
+    "1s": "lactara",
+    "2s": "lactaras",
+    "3s": "lactara",
+    "1p": "lactáramos",
+    "2p": "lactarais",
+    "3p": "lactaran"
+  },
+  "PImpC": {
+    "1s": "lactase",
+    "2s": "lactases",
+    "3s": "lactase",
+    "1p": "lactásemos",
+    "2p": "lactaseis",
+    "3p": "lactasen"
+  },
+  "FutSC": {
+    "1s": "lactare",
+    "2s": "lactares",
+    "3s": "lactare",
+    "1p": "lactáremos",
+    "2p": "lactareis",
+    "3p": "lactaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lacta",
+    "3s": "lacte",
+    "1p": "lactemos",
+    "2p": "lactad",
+    "3p": "lacten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lactes",
+    "3s": "no lacte",
+    "1p": "no lactemos",
+    "2p": "no lactéis",
+    "3p": "no lacten"
+  },
+  "Part-ter": {
+    "": "lactado"
+  },
+  "Part-ser": {
+    "ms": "lactado",
+    "fs": "lactada",
+    "mp": "lactados",
+    "fp": "lactadas"
+  }
+}

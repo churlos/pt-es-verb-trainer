@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "memorizar"
+  },
+  "InfP": {
+    "1s": "memorizar",
+    "2s": "memorizares",
+    "3s": "memorizar",
+    "1p": "memorizarmos",
+    "2p": "memorizardes",
+    "3p": "memorizarem"
+  },
+  "Ger": {
+    "": "memorizando"
+  },
+  "PresI": {
+    "1s": "memorizo",
+    "2s": "memorizas",
+    "3s": "memoriza",
+    "1p": "memorizamos",
+    "2p": "memorizais",
+    "3p": "memorizam"
+  },
+  "PImpI": {
+    "1s": "memorizava",
+    "2s": "memorizavas",
+    "3s": "memorizava",
+    "1p": "memorizávamos",
+    "2p": "memorizáveis",
+    "3p": "memorizavam"
+  },
+  "PPSI": {
+    "1s": "memorizei",
+    "2s": "memorizaste",
+    "3s": "memorizou",
+    "1p": "memorizámos",
+    "2p": "memorizastes",
+    "3p": "memorizaram"
+  },
+  "PMQPSI": {
+    "1s": "memorizara",
+    "2s": "memorizaras",
+    "3s": "memorizara",
+    "1p": "memorizáramos",
+    "2p": "memorizáreis",
+    "3p": "memorizaram"
+  },
+  "FutSI": {
+    "1s": "memorizarei",
+    "2s": "memorizarás",
+    "3s": "memorizará",
+    "1p": "memorizaremos",
+    "2p": "memorizareis",
+    "3p": "memorizarão"
+  },
+  "CondS": {
+    "1s": "memorizaria",
+    "2s": "memorizarias",
+    "3s": "memorizaria",
+    "1p": "memorizaríamos",
+    "2p": "memorizaríeis",
+    "3p": "memorizariam"
+  },
+  "PresC": {
+    "1s": "memorize",
+    "2s": "memorizes",
+    "3s": "memorize",
+    "1p": "memorizemos",
+    "2p": "memorizeis",
+    "3p": "memorizem"
+  },
+  "PImpC": {
+    "1s": "memorizasse",
+    "2s": "memorizasses",
+    "3s": "memorizasse",
+    "1p": "memorizássemos",
+    "2p": "memorizásseis",
+    "3p": "memorizassem"
+  },
+  "FutSC": {
+    "1s": "memorizar",
+    "2s": "memorizares",
+    "3s": "memorizar",
+    "1p": "memorizarmos",
+    "2p": "memorizardes",
+    "3p": "memorizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "memoriza",
+    "3s": "memorize",
+    "1p": "memorizemos",
+    "2p": "memorizai",
+    "3p": "memorizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não memorizes",
+    "3s": "não memorize",
+    "1p": "não memorizemos",
+    "2p": "não memorizeis",
+    "3p": "não memorizem"
+  },
+  "Part-ter": {
+    "": "memorizado"
+  },
+  "Part-ser": {
+    "ms": "memorizado",
+    "fs": "memorizada",
+    "mp": "memorizados",
+    "fp": "memorizadas"
+  }
+}

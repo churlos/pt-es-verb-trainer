@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "decidir"
+  },
+  "InfP": {
+    "1s": "decidir",
+    "2s": "decidires",
+    "3s": "decidir",
+    "1p": "decidirmos",
+    "2p": "decidirdes",
+    "3p": "decidirem"
+  },
+  "Ger": {
+    "": "decidindo"
+  },
+  "PresI": {
+    "1s": "decido",
+    "2s": "decides",
+    "3s": "decide",
+    "1p": "decidimos",
+    "2p": "decidis",
+    "3p": "decidem"
+  },
+  "PImpI": {
+    "1s": "decidia",
+    "2s": "decidias",
+    "3s": "decidia",
+    "1p": "decidíamos",
+    "2p": "decidíeis",
+    "3p": "decidiam"
+  },
+  "PPSI": {
+    "1s": "decidi",
+    "2s": "decidiste",
+    "3s": "decidiu",
+    "1p": "decidimos",
+    "2p": "decidistes",
+    "3p": "decidiram"
+  },
+  "PMQPSI": {
+    "1s": "decidira",
+    "2s": "decidiras",
+    "3s": "decidira",
+    "1p": "decidíramos",
+    "2p": "decidíreis",
+    "3p": "decidiram"
+  },
+  "FutSI": {
+    "1s": "decidirei",
+    "2s": "decidirás",
+    "3s": "decidirá",
+    "1p": "decidiremos",
+    "2p": "decidireis",
+    "3p": "decidirão"
+  },
+  "CondS": {
+    "1s": "decidiria",
+    "2s": "decidirias",
+    "3s": "decidiria",
+    "1p": "decidiríamos",
+    "2p": "decidiríeis",
+    "3p": "decidiriam"
+  },
+  "PresC": {
+    "1s": "decida",
+    "2s": "decidas",
+    "3s": "decida",
+    "1p": "decidamos",
+    "2p": "decidais",
+    "3p": "decidam"
+  },
+  "PImpC": {
+    "1s": "decidisse",
+    "2s": "decidisses",
+    "3s": "decidisse",
+    "1p": "decidíssemos",
+    "2p": "decidísseis",
+    "3p": "decidissem"
+  },
+  "FutSC": {
+    "1s": "decidir",
+    "2s": "decidires",
+    "3s": "decidir",
+    "1p": "decidirmos",
+    "2p": "decidirdes",
+    "3p": "decidirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "decide",
+    "3s": "decida",
+    "1p": "decidamos",
+    "2p": "decidi",
+    "3p": "decidam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não decidas",
+    "3s": "não decida",
+    "1p": "não decidamos",
+    "2p": "não decidais",
+    "3p": "não decidam"
+  },
+  "Part-ter": {
+    "": "decidido"
+  },
+  "Part-ser": {
+    "ms": "decidido",
+    "fs": "decidida",
+    "mp": "decididos",
+    "fp": "decididas"
+  }
+}

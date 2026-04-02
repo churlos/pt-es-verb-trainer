@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "jambarse"
+  },
+  "Ger": {
+    "": "jambándose"
+  },
+  "PresI": {
+    "1s": "me jambo",
+    "2s": "te jambas",
+    "3s": "se jamba",
+    "1p": "nos jambamos",
+    "2p": "os jambáis",
+    "3p": "se jamban"
+  },
+  "PImpI": {
+    "1s": "me jambaba",
+    "2s": "te jambabas",
+    "3s": "se jambaba",
+    "1p": "nos jambábamos",
+    "2p": "os jambabais",
+    "3p": "se jambaban"
+  },
+  "PPSI": {
+    "1s": "me jambé",
+    "2s": "te jambaste",
+    "3s": "se jambó",
+    "1p": "nos jambamos",
+    "2p": "os jambasteis",
+    "3p": "se jambaron"
+  },
+  "FutSI": {
+    "1s": "me jambaré",
+    "2s": "te jambarás",
+    "3s": "se jambará",
+    "1p": "nos jambaremos",
+    "2p": "os jambaréis",
+    "3p": "se jambarán"
+  },
+  "CondS": {
+    "1s": "me jambaría",
+    "2s": "te jambarías",
+    "3s": "se jambaría",
+    "1p": "nos jambaríamos",
+    "2p": "os jambaríais",
+    "3p": "se jambarían"
+  },
+  "PresC": {
+    "1s": "me jambe",
+    "2s": "te jambes",
+    "3s": "se jambe",
+    "1p": "nos jambemos",
+    "2p": "os jambéis",
+    "3p": "se jamben"
+  },
+  "PMQPSI": {
+    "1s": "me jambara",
+    "2s": "te jambaras",
+    "3s": "se jambara",
+    "1p": "nos jambáramos",
+    "2p": "os jambarais",
+    "3p": "se jambaran"
+  },
+  "PImpC": {
+    "1s": "me jambase",
+    "2s": "te jambases",
+    "3s": "se jambase",
+    "1p": "nos jambásemos",
+    "2p": "os jambaseis",
+    "3p": "se jambasen"
+  },
+  "FutSC": {
+    "1s": "me jambare",
+    "2s": "te jambares",
+    "3s": "se jambare",
+    "1p": "nos jambáremos",
+    "2p": "os jambareis",
+    "3p": "se jambaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "jámbate",
+    "3s": "jámbese",
+    "1p": "jambémonos",
+    "2p": "jambaos",
+    "3p": "jámbense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te jambes",
+    "3s": "no se jambe",
+    "1p": "no nos jambemos",
+    "2p": "no os jambéis",
+    "3p": "no se jamben"
+  },
+  "Part-ter": {
+    "": "jambado"
+  },
+  "Part-ser": {
+    "ms": "jambado",
+    "fs": "jambada",
+    "mp": "jambados",
+    "fp": "jambadas"
+  }
+}

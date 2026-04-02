@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "engrillar"
+  },
+  "Ger": {
+    "": "engrillando"
+  },
+  "PresI": {
+    "1s": "engrillo",
+    "2s": "engrillas",
+    "3s": "engrilla",
+    "1p": "engrillamos",
+    "2p": "engrilláis",
+    "3p": "engrillan"
+  },
+  "PImpI": {
+    "1s": "engrillaba",
+    "2s": "engrillabas",
+    "3s": "engrillaba",
+    "1p": "engrillábamos",
+    "2p": "engrillabais",
+    "3p": "engrillaban"
+  },
+  "PPSI": {
+    "1s": "engrillé",
+    "2s": "engrillaste",
+    "3s": "engrilló",
+    "1p": "engrillamos",
+    "2p": "engrillasteis",
+    "3p": "engrillaron"
+  },
+  "FutSI": {
+    "1s": "engrillaré",
+    "2s": "engrillarás",
+    "3s": "engrillará",
+    "1p": "engrillaremos",
+    "2p": "engrillaréis",
+    "3p": "engrillarán"
+  },
+  "CondS": {
+    "1s": "engrillaría",
+    "2s": "engrillarías",
+    "3s": "engrillaría",
+    "1p": "engrillaríamos",
+    "2p": "engrillaríais",
+    "3p": "engrillarían"
+  },
+  "PresC": {
+    "1s": "engrille",
+    "2s": "engrilles",
+    "3s": "engrille",
+    "1p": "engrillemos",
+    "2p": "engrilléis",
+    "3p": "engrillen"
+  },
+  "PMQPSI": {
+    "1s": "engrillara",
+    "2s": "engrillaras",
+    "3s": "engrillara",
+    "1p": "engrilláramos",
+    "2p": "engrillarais",
+    "3p": "engrillaran"
+  },
+  "PImpC": {
+    "1s": "engrillase",
+    "2s": "engrillases",
+    "3s": "engrillase",
+    "1p": "engrillásemos",
+    "2p": "engrillaseis",
+    "3p": "engrillasen"
+  },
+  "FutSC": {
+    "1s": "engrillare",
+    "2s": "engrillares",
+    "3s": "engrillare",
+    "1p": "engrilláremos",
+    "2p": "engrillareis",
+    "3p": "engrillaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "engrilla",
+    "3s": "engrille",
+    "1p": "engrillemos",
+    "2p": "engrillad",
+    "3p": "engrillen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no engrilles",
+    "3s": "no engrille",
+    "1p": "no engrillemos",
+    "2p": "no engrilléis",
+    "3p": "no engrillen"
+  },
+  "Part-ter": {
+    "": "engrillado"
+  },
+  "Part-ser": {
+    "ms": "engrillado",
+    "fs": "engrillada",
+    "mp": "engrillados",
+    "fp": "engrilladas"
+  }
+}

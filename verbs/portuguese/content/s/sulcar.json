@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sulcar"
+  },
+  "InfP": {
+    "1s": "sulcar",
+    "2s": "sulcares",
+    "3s": "sulcar",
+    "1p": "sulcarmos",
+    "2p": "sulcardes",
+    "3p": "sulcarem"
+  },
+  "Ger": {
+    "": "sulcando"
+  },
+  "PresI": {
+    "1s": "sulco",
+    "2s": "sulcas",
+    "3s": "sulca",
+    "1p": "sulcamos",
+    "2p": "sulcais",
+    "3p": "sulcam"
+  },
+  "PImpI": {
+    "1s": "sulcava",
+    "2s": "sulcavas",
+    "3s": "sulcava",
+    "1p": "sulcávamos",
+    "2p": "sulcáveis",
+    "3p": "sulcavam"
+  },
+  "PPSI": {
+    "1s": "sulquei",
+    "2s": "sulcaste",
+    "3s": "sulcou",
+    "1p": "sulcámos",
+    "2p": "sulcastes",
+    "3p": "sulcaram"
+  },
+  "PMQPSI": {
+    "1s": "sulcara",
+    "2s": "sulcaras",
+    "3s": "sulcara",
+    "1p": "sulcáramos",
+    "2p": "sulcáreis",
+    "3p": "sulcaram"
+  },
+  "FutSI": {
+    "1s": "sulcarei",
+    "2s": "sulcarás",
+    "3s": "sulcará",
+    "1p": "sulcaremos",
+    "2p": "sulcareis",
+    "3p": "sulcarão"
+  },
+  "CondS": {
+    "1s": "sulcaria",
+    "2s": "sulcarias",
+    "3s": "sulcaria",
+    "1p": "sulcaríamos",
+    "2p": "sulcaríeis",
+    "3p": "sulcariam"
+  },
+  "PresC": {
+    "1s": "sulque",
+    "2s": "sulques",
+    "3s": "sulque",
+    "1p": "sulquemos",
+    "2p": "sulqueis",
+    "3p": "sulquem"
+  },
+  "PImpC": {
+    "1s": "sulcasse",
+    "2s": "sulcasses",
+    "3s": "sulcasse",
+    "1p": "sulcássemos",
+    "2p": "sulcásseis",
+    "3p": "sulcassem"
+  },
+  "FutSC": {
+    "1s": "sulcar",
+    "2s": "sulcares",
+    "3s": "sulcar",
+    "1p": "sulcarmos",
+    "2p": "sulcardes",
+    "3p": "sulcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "sulca",
+    "3s": "sulque",
+    "1p": "sulquemos",
+    "2p": "sulcai",
+    "3p": "sulquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sulques",
+    "3s": "não sulque",
+    "1p": "não sulquemos",
+    "2p": "não sulqueis",
+    "3p": "não sulquem"
+  },
+  "Part-ter": {
+    "": "sulcado"
+  },
+  "Part-ser": {
+    "ms": "sulcado",
+    "fs": "sulcada",
+    "mp": "sulcados",
+    "fp": "sulcadas"
+  }
+}

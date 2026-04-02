@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "tensionar"
+  },
+  "InfP": {
+    "1s": "tensionar",
+    "2s": "tensionares",
+    "3s": "tensionar",
+    "1p": "tensionarmos",
+    "2p": "tensionardes",
+    "3p": "tensionarem"
+  },
+  "Ger": {
+    "": "tensionando"
+  },
+  "PresI": {
+    "1s": "tensiono",
+    "2s": "tensionas",
+    "3s": "tensiona",
+    "1p": "tensionamos",
+    "2p": "tensionais",
+    "3p": "tensionam"
+  },
+  "PImpI": {
+    "1s": "tensionava",
+    "2s": "tensionavas",
+    "3s": "tensionava",
+    "1p": "tensionávamos",
+    "2p": "tensionáveis",
+    "3p": "tensionavam"
+  },
+  "PPSI": {
+    "1s": "tensionei",
+    "2s": "tensionaste",
+    "3s": "tensionou",
+    "1p": "tensionámos",
+    "2p": "tensionastes",
+    "3p": "tensionaram"
+  },
+  "PMQPSI": {
+    "1s": "tensionara",
+    "2s": "tensionaras",
+    "3s": "tensionara",
+    "1p": "tensionáramos",
+    "2p": "tensionáreis",
+    "3p": "tensionaram"
+  },
+  "FutSI": {
+    "1s": "tensionarei",
+    "2s": "tensionarás",
+    "3s": "tensionará",
+    "1p": "tensionaremos",
+    "2p": "tensionareis",
+    "3p": "tensionarão"
+  },
+  "CondS": {
+    "1s": "tensionaria",
+    "2s": "tensionarias",
+    "3s": "tensionaria",
+    "1p": "tensionaríamos",
+    "2p": "tensionaríeis",
+    "3p": "tensionariam"
+  },
+  "PresC": {
+    "1s": "tensione",
+    "2s": "tensiones",
+    "3s": "tensione",
+    "1p": "tensionemos",
+    "2p": "tensioneis",
+    "3p": "tensionem"
+  },
+  "PImpC": {
+    "1s": "tensionasse",
+    "2s": "tensionasses",
+    "3s": "tensionasse",
+    "1p": "tensionássemos",
+    "2p": "tensionásseis",
+    "3p": "tensionassem"
+  },
+  "FutSC": {
+    "1s": "tensionar",
+    "2s": "tensionares",
+    "3s": "tensionar",
+    "1p": "tensionarmos",
+    "2p": "tensionardes",
+    "3p": "tensionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tensiona",
+    "3s": "tensione",
+    "1p": "tensionemos",
+    "2p": "tensionai",
+    "3p": "tensionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não tensiones",
+    "3s": "não tensione",
+    "1p": "não tensionemos",
+    "2p": "não tensioneis",
+    "3p": "não tensionem"
+  },
+  "Part-ter": {
+    "": "tensionado"
+  },
+  "Part-ser": {
+    "ms": "tensionado",
+    "fs": "tensionada",
+    "mp": "tensionados",
+    "fp": "tensionadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "confesar"
+  },
+  "Ger": {
+    "": "confesando"
+  },
+  "PresI": {
+    "1s": "confieso",
+    "2s": "confiesas",
+    "3s": "confiesa",
+    "1p": "confesamos",
+    "2p": "confesáis",
+    "3p": "confiesan"
+  },
+  "PImpI": {
+    "1s": "confesaba",
+    "2s": "confesabas",
+    "3s": "confesaba",
+    "1p": "confesábamos",
+    "2p": "confesabais",
+    "3p": "confesaban"
+  },
+  "PPSI": {
+    "1s": "confesé",
+    "2s": "confesaste",
+    "3s": "confesó",
+    "1p": "confesamos",
+    "2p": "confesasteis",
+    "3p": "confesaron"
+  },
+  "FutSI": {
+    "1s": "confesaré",
+    "2s": "confesarás",
+    "3s": "confesará",
+    "1p": "confesaremos",
+    "2p": "confesaréis",
+    "3p": "confesarán"
+  },
+  "CondS": {
+    "1s": "confesaría",
+    "2s": "confesarías",
+    "3s": "confesaría",
+    "1p": "confesaríamos",
+    "2p": "confesaríais",
+    "3p": "confesarían"
+  },
+  "PresC": {
+    "1s": "confiese",
+    "2s": "confieses",
+    "3s": "confiese",
+    "1p": "confesemos",
+    "2p": "confeséis",
+    "3p": "confiesen"
+  },
+  "PMQPSI": {
+    "1s": "confesara",
+    "2s": "confesaras",
+    "3s": "confesara",
+    "1p": "confesáramos",
+    "2p": "confesarais",
+    "3p": "confesaran"
+  },
+  "PImpC": {
+    "1s": "confesase",
+    "2s": "confesases",
+    "3s": "confesase",
+    "1p": "confesásemos",
+    "2p": "confesaseis",
+    "3p": "confesasen"
+  },
+  "FutSC": {
+    "1s": "confesare",
+    "2s": "confesares",
+    "3s": "confesare",
+    "1p": "confesáremos",
+    "2p": "confesareis",
+    "3p": "confesaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "confiesa",
+    "3s": "confiese",
+    "1p": "confesemos",
+    "2p": "confesad",
+    "3p": "confiesen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no confieses",
+    "3s": "no confiese",
+    "1p": "no confesemos",
+    "2p": "no confeséis",
+    "3p": "no confiesen"
+  },
+  "Part-ter": {
+    "": "confesado"
+  },
+  "Part-ser": {
+    "ms": "confesado",
+    "fs": "confesada",
+    "mp": "confesados",
+    "fp": "confesadas"
+  }
+}

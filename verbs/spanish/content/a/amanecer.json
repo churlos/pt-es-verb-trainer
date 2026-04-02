@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "amanecer"
+  },
+  "Ger": {
+    "": "amaneciendo"
+  },
+  "PresI": {
+    "1s": "amanezco",
+    "2s": "amaneces",
+    "3s": "amanece",
+    "1p": "amanecemos",
+    "2p": "amanecéis",
+    "3p": "amanecen"
+  },
+  "PImpI": {
+    "1s": "amanecía",
+    "2s": "amanecías",
+    "3s": "amanecía",
+    "1p": "amanecíamos",
+    "2p": "amanecíais",
+    "3p": "amanecían"
+  },
+  "PPSI": {
+    "1s": "amanecí",
+    "2s": "amaneciste",
+    "3s": "amaneció",
+    "1p": "amanecimos",
+    "2p": "amanecisteis",
+    "3p": "amanecieron"
+  },
+  "FutSI": {
+    "1s": "amaneceré",
+    "2s": "amanecerás",
+    "3s": "amanecerá",
+    "1p": "amaneceremos",
+    "2p": "amaneceréis",
+    "3p": "amanecerán"
+  },
+  "CondS": {
+    "1s": "amanecería",
+    "2s": "amanecerías",
+    "3s": "amanecería",
+    "1p": "amaneceríamos",
+    "2p": "amaneceríais",
+    "3p": "amanecerían"
+  },
+  "PresC": {
+    "1s": "amanezca",
+    "2s": "amanezcas",
+    "3s": "amanezca",
+    "1p": "amanezcamos",
+    "2p": "amanezcáis",
+    "3p": "amanezcan"
+  },
+  "PMQPSI": {
+    "1s": "amaneciera",
+    "2s": "amanecieras",
+    "3s": "amaneciera",
+    "1p": "amaneciéramos",
+    "2p": "amanecierais",
+    "3p": "amanecieran"
+  },
+  "PImpC": {
+    "1s": "amaneciese",
+    "2s": "amanecieses",
+    "3s": "amaneciese",
+    "1p": "amaneciésemos",
+    "2p": "amanecieseis",
+    "3p": "amaneciesen"
+  },
+  "FutSC": {
+    "1s": "amaneciere",
+    "2s": "amanecieres",
+    "3s": "amaneciere",
+    "1p": "amaneciéremos",
+    "2p": "amaneciereis",
+    "3p": "amanecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amanece",
+    "3s": "amanezca",
+    "1p": "amanezcamos",
+    "2p": "amaneced",
+    "3p": "amanezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no amanezcas",
+    "3s": "no amanezca",
+    "1p": "no amanezcamos",
+    "2p": "no amanezcáis",
+    "3p": "no amanezcan"
+  },
+  "Part-ter": {
+    "": "amanecido"
+  },
+  "Part-ser": {
+    "ms": "amanecido",
+    "fs": "amanecida",
+    "mp": "amanecidos",
+    "fp": "amanecidas"
+  }
+}

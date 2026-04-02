@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "botanizar"
+  },
+  "InfP": {
+    "1s": "botanizar",
+    "2s": "botanizares",
+    "3s": "botanizar",
+    "1p": "botanizarmos",
+    "2p": "botanizardes",
+    "3p": "botanizarem"
+  },
+  "Ger": {
+    "": "botanizando"
+  },
+  "PresI": {
+    "1s": "botanizo",
+    "2s": "botanizas",
+    "3s": "botaniza",
+    "1p": "botanizamos",
+    "2p": "botanizais",
+    "3p": "botanizam"
+  },
+  "PImpI": {
+    "1s": "botanizava",
+    "2s": "botanizavas",
+    "3s": "botanizava",
+    "1p": "botanizávamos",
+    "2p": "botanizáveis",
+    "3p": "botanizavam"
+  },
+  "PPSI": {
+    "1s": "botanizei",
+    "2s": "botanizaste",
+    "3s": "botanizou",
+    "1p": "botanizámos",
+    "2p": "botanizastes",
+    "3p": "botanizaram"
+  },
+  "PMQPSI": {
+    "1s": "botanizara",
+    "2s": "botanizaras",
+    "3s": "botanizara",
+    "1p": "botanizáramos",
+    "2p": "botanizáreis",
+    "3p": "botanizaram"
+  },
+  "FutSI": {
+    "1s": "botanizarei",
+    "2s": "botanizarás",
+    "3s": "botanizará",
+    "1p": "botanizaremos",
+    "2p": "botanizareis",
+    "3p": "botanizarão"
+  },
+  "CondS": {
+    "1s": "botanizaria",
+    "2s": "botanizarias",
+    "3s": "botanizaria",
+    "1p": "botanizaríamos",
+    "2p": "botanizaríeis",
+    "3p": "botanizariam"
+  },
+  "PresC": {
+    "1s": "botanize",
+    "2s": "botanizes",
+    "3s": "botanize",
+    "1p": "botanizemos",
+    "2p": "botanizeis",
+    "3p": "botanizem"
+  },
+  "PImpC": {
+    "1s": "botanizasse",
+    "2s": "botanizasses",
+    "3s": "botanizasse",
+    "1p": "botanizássemos",
+    "2p": "botanizásseis",
+    "3p": "botanizassem"
+  },
+  "FutSC": {
+    "1s": "botanizar",
+    "2s": "botanizares",
+    "3s": "botanizar",
+    "1p": "botanizarmos",
+    "2p": "botanizardes",
+    "3p": "botanizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "botaniza",
+    "3s": "botanize",
+    "1p": "botanizemos",
+    "2p": "botanizai",
+    "3p": "botanizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não botanizes",
+    "3s": "não botanize",
+    "1p": "não botanizemos",
+    "2p": "não botanizeis",
+    "3p": "não botanizem"
+  },
+  "Part-ter": {
+    "": "botanizado"
+  },
+  "Part-ser": {
+    "ms": "botanizado",
+    "fs": "botanizada",
+    "mp": "botanizados",
+    "fp": "botanizadas"
+  }
+}

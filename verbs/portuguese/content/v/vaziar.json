@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vaziar"
+  },
+  "InfP": {
+    "1s": "vaziar",
+    "2s": "vaziares",
+    "3s": "vaziar",
+    "1p": "vaziarmos",
+    "2p": "vaziardes",
+    "3p": "vaziarem"
+  },
+  "Ger": {
+    "": "vaziando"
+  },
+  "PresI": {
+    "1s": "vazio",
+    "2s": "vazias",
+    "3s": "vazia",
+    "1p": "vaziamos",
+    "2p": "vaziais",
+    "3p": "vaziam"
+  },
+  "PImpI": {
+    "1s": "vaziava",
+    "2s": "vaziavas",
+    "3s": "vaziava",
+    "1p": "vaziávamos",
+    "2p": "vaziáveis",
+    "3p": "vaziavam"
+  },
+  "PPSI": {
+    "1s": "vaziei",
+    "2s": "vaziaste",
+    "3s": "vaziou",
+    "1p": "vaziámos",
+    "2p": "vaziastes",
+    "3p": "vaziaram"
+  },
+  "PMQPSI": {
+    "1s": "vaziara",
+    "2s": "vaziaras",
+    "3s": "vaziara",
+    "1p": "vaziáramos",
+    "2p": "vaziáreis",
+    "3p": "vaziaram"
+  },
+  "FutSI": {
+    "1s": "vaziarei",
+    "2s": "vaziarás",
+    "3s": "vaziará",
+    "1p": "vaziaremos",
+    "2p": "vaziareis",
+    "3p": "vaziarão"
+  },
+  "CondS": {
+    "1s": "vaziaria",
+    "2s": "vaziarias",
+    "3s": "vaziaria",
+    "1p": "vaziaríamos",
+    "2p": "vaziaríeis",
+    "3p": "vaziariam"
+  },
+  "PresC": {
+    "1s": "vazie",
+    "2s": "vazies",
+    "3s": "vazie",
+    "1p": "vaziemos",
+    "2p": "vazieis",
+    "3p": "vaziem"
+  },
+  "PImpC": {
+    "1s": "vaziasse",
+    "2s": "vaziasses",
+    "3s": "vaziasse",
+    "1p": "vaziássemos",
+    "2p": "vaziásseis",
+    "3p": "vaziassem"
+  },
+  "FutSC": {
+    "1s": "vaziar",
+    "2s": "vaziares",
+    "3s": "vaziar",
+    "1p": "vaziarmos",
+    "2p": "vaziardes",
+    "3p": "vaziarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vazia",
+    "3s": "vazie",
+    "1p": "vaziemos",
+    "2p": "vaziai",
+    "3p": "vaziem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vazies",
+    "3s": "não vazie",
+    "1p": "não vaziemos",
+    "2p": "não vazieis",
+    "3p": "não vaziem"
+  },
+  "Part-ter": {
+    "": "vaziado"
+  },
+  "Part-ser": {
+    "ms": "vaziado",
+    "fs": "vaziada",
+    "mp": "vaziados",
+    "fp": "vaziadas"
+  }
+}

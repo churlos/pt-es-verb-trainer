@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "advir"
+  },
+  "InfP": {
+    "1s": "advir",
+    "2s": "advires",
+    "3s": "advir",
+    "1p": "advirmos",
+    "2p": "advirdes",
+    "3p": "advirem"
+  },
+  "Ger": {
+    "": "advindo"
+  },
+  "PresI": {
+    "1s": "advenho",
+    "2s": "advéns",
+    "3s": "advém",
+    "1p": "advimos",
+    "2p": "advindes",
+    "3p": "advêm"
+  },
+  "PImpI": {
+    "1s": "advinha",
+    "2s": "advinhas",
+    "3s": "advinha",
+    "1p": "advínhamos",
+    "2p": "advínheis",
+    "3p": "advinham"
+  },
+  "PPSI": {
+    "1s": "advim",
+    "2s": "advieste",
+    "3s": "adveio",
+    "1p": "adviemos",
+    "2p": "adviestes",
+    "3p": "advieram"
+  },
+  "PMQPSI": {
+    "1s": "adviera",
+    "2s": "advieras",
+    "3s": "adviera",
+    "1p": "adviéramos",
+    "2p": "adviéreis",
+    "3p": "advieram"
+  },
+  "FutSI": {
+    "1s": "advirei",
+    "2s": "advirás",
+    "3s": "advirá",
+    "1p": "adviremos",
+    "2p": "advireis",
+    "3p": "advirão"
+  },
+  "CondS": {
+    "1s": "adviria",
+    "2s": "advirias",
+    "3s": "adviria",
+    "1p": "adviríamos",
+    "2p": "adviríeis",
+    "3p": "adviriam"
+  },
+  "PresC": {
+    "1s": "advenha",
+    "2s": "advenhas",
+    "3s": "advenha",
+    "1p": "advenhamos",
+    "2p": "advenhais",
+    "3p": "advenham"
+  },
+  "PImpC": {
+    "1s": "adviesse",
+    "2s": "adviesses",
+    "3s": "adviesse",
+    "1p": "adviéssemos",
+    "2p": "adviésseis",
+    "3p": "adviessem"
+  },
+  "FutSC": {
+    "1s": "advier",
+    "2s": "advieres",
+    "3s": "advier",
+    "1p": "adviermos",
+    "2p": "advierdes",
+    "3p": "advierem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "advém",
+    "3s": "advenha",
+    "1p": "advenhamos",
+    "2p": "advinde",
+    "3p": "advenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não advenhas",
+    "3s": "não advenha",
+    "1p": "não advenhamos",
+    "2p": "não advenhais",
+    "3p": "não advenham"
+  },
+  "Part-ter": {
+    "": "advindo"
+  },
+  "Part-ser": {
+    "ms": "advindo",
+    "fs": "advinda",
+    "mp": "advindos",
+    "fp": "advindas"
+  }
+}

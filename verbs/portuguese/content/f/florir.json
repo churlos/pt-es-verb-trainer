@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "florir"
+  },
+  "InfP": {
+    "1s": "florir",
+    "2s": "florires",
+    "3s": "florir",
+    "1p": "florirmos",
+    "2p": "florirdes",
+    "3p": "florirem"
+  },
+  "Ger": {
+    "": "florindo"
+  },
+  "PresI": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "florimos",
+    "2p": "floris",
+    "3p": ""
+  },
+  "PImpI": {
+    "1s": "floria",
+    "2s": "florias",
+    "3s": "floria",
+    "1p": "floríamos",
+    "2p": "floríeis",
+    "3p": "floriam"
+  },
+  "PPSI": {
+    "1s": "flori",
+    "2s": "floriste",
+    "3s": "floriu",
+    "1p": "florimos",
+    "2p": "floristes",
+    "3p": "floriram"
+  },
+  "PMQPSI": {
+    "1s": "florira",
+    "2s": "floriras",
+    "3s": "florira",
+    "1p": "floríramos",
+    "2p": "floríreis",
+    "3p": "floriram"
+  },
+  "FutSI": {
+    "1s": "florirei",
+    "2s": "florirás",
+    "3s": "florirá",
+    "1p": "floriremos",
+    "2p": "florireis",
+    "3p": "florirão"
+  },
+  "CondS": {
+    "1s": "floriria",
+    "2s": "floririas",
+    "3s": "floriria",
+    "1p": "floriríamos",
+    "2p": "floriríeis",
+    "3p": "floririam"
+  },
+  "PresC": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "PImpC": {
+    "1s": "florisse",
+    "2s": "florisses",
+    "3s": "florisse",
+    "1p": "floríssemos",
+    "2p": "florísseis",
+    "3p": "florissem"
+  },
+  "FutSC": {
+    "1s": "florir",
+    "2s": "florires",
+    "3s": "florir",
+    "1p": "florirmos",
+    "2p": "florirdes",
+    "3p": "florirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "flori",
+    "3p": ""
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "",
+    "3s": "",
+    "1p": "",
+    "2p": "",
+    "3p": ""
+  },
+  "Part-ter": {
+    "": "florido"
+  },
+  "Part-ser": {
+    "ms": "florido",
+    "fs": "florida",
+    "mp": "floridos",
+    "fp": "floridas"
+  }
+}

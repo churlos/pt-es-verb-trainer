@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "salmodiar"
+  },
+  "Ger": {
+    "": "salmodiando"
+  },
+  "PresI": {
+    "1s": "salmodio",
+    "2s": "salmodias",
+    "3s": "salmodia",
+    "1p": "salmodiamos",
+    "2p": "salmodiáis",
+    "3p": "salmodian"
+  },
+  "PImpI": {
+    "1s": "salmodiaba",
+    "2s": "salmodiabas",
+    "3s": "salmodiaba",
+    "1p": "salmodiábamos",
+    "2p": "salmodiabais",
+    "3p": "salmodiaban"
+  },
+  "PPSI": {
+    "1s": "salmodié",
+    "2s": "salmodiaste",
+    "3s": "salmodió",
+    "1p": "salmodiamos",
+    "2p": "salmodiasteis",
+    "3p": "salmodiaron"
+  },
+  "FutSI": {
+    "1s": "salmodiaré",
+    "2s": "salmodiarás",
+    "3s": "salmodiará",
+    "1p": "salmodiaremos",
+    "2p": "salmodiaréis",
+    "3p": "salmodiarán"
+  },
+  "CondS": {
+    "1s": "salmodiaría",
+    "2s": "salmodiarías",
+    "3s": "salmodiaría",
+    "1p": "salmodiaríamos",
+    "2p": "salmodiaríais",
+    "3p": "salmodiarían"
+  },
+  "PresC": {
+    "1s": "salmodie",
+    "2s": "salmodies",
+    "3s": "salmodie",
+    "1p": "salmodiemos",
+    "2p": "salmodiéis",
+    "3p": "salmodien"
+  },
+  "PMQPSI": {
+    "1s": "salmodiara",
+    "2s": "salmodiaras",
+    "3s": "salmodiara",
+    "1p": "salmodiáramos",
+    "2p": "salmodiarais",
+    "3p": "salmodiaran"
+  },
+  "PImpC": {
+    "1s": "salmodiase",
+    "2s": "salmodiases",
+    "3s": "salmodiase",
+    "1p": "salmodiásemos",
+    "2p": "salmodiaseis",
+    "3p": "salmodiasen"
+  },
+  "FutSC": {
+    "1s": "salmodiare",
+    "2s": "salmodiares",
+    "3s": "salmodiare",
+    "1p": "salmodiáremos",
+    "2p": "salmodiareis",
+    "3p": "salmodiaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "salmodia",
+    "3s": "salmodie",
+    "1p": "salmodiemos",
+    "2p": "salmodiad",
+    "3p": "salmodien"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no salmodies",
+    "3s": "no salmodie",
+    "1p": "no salmodiemos",
+    "2p": "no salmodiéis",
+    "3p": "no salmodien"
+  },
+  "Part-ter": {
+    "": "salmodiado"
+  },
+  "Part-ser": {
+    "ms": "salmodiado",
+    "fs": "salmodiada",
+    "mp": "salmodiados",
+    "fp": "salmodiadas"
+  }
+}

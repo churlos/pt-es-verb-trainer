@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "despachar"
+  },
+  "InfP": {
+    "1s": "despachar",
+    "2s": "despachares",
+    "3s": "despachar",
+    "1p": "despacharmos",
+    "2p": "despachardes",
+    "3p": "despacharem"
+  },
+  "Ger": {
+    "": "despachando"
+  },
+  "PresI": {
+    "1s": "despacho",
+    "2s": "despachas",
+    "3s": "despacha",
+    "1p": "despachamos",
+    "2p": "despachais",
+    "3p": "despacham"
+  },
+  "PImpI": {
+    "1s": "despachava",
+    "2s": "despachavas",
+    "3s": "despachava",
+    "1p": "despachávamos",
+    "2p": "despacháveis",
+    "3p": "despachavam"
+  },
+  "PPSI": {
+    "1s": "despachei",
+    "2s": "despachaste",
+    "3s": "despachou",
+    "1p": "despachámos",
+    "2p": "despachastes",
+    "3p": "despacharam"
+  },
+  "PMQPSI": {
+    "1s": "despachara",
+    "2s": "despacharas",
+    "3s": "despachara",
+    "1p": "despacháramos",
+    "2p": "despacháreis",
+    "3p": "despacharam"
+  },
+  "FutSI": {
+    "1s": "despacharei",
+    "2s": "despacharás",
+    "3s": "despachará",
+    "1p": "despacharemos",
+    "2p": "despachareis",
+    "3p": "despacharão"
+  },
+  "CondS": {
+    "1s": "despacharia",
+    "2s": "despacharias",
+    "3s": "despacharia",
+    "1p": "despacharíamos",
+    "2p": "despacharíeis",
+    "3p": "despachariam"
+  },
+  "PresC": {
+    "1s": "despache",
+    "2s": "despaches",
+    "3s": "despache",
+    "1p": "despachemos",
+    "2p": "despacheis",
+    "3p": "despachem"
+  },
+  "PImpC": {
+    "1s": "despachasse",
+    "2s": "despachasses",
+    "3s": "despachasse",
+    "1p": "despachássemos",
+    "2p": "despachásseis",
+    "3p": "despachassem"
+  },
+  "FutSC": {
+    "1s": "despachar",
+    "2s": "despachares",
+    "3s": "despachar",
+    "1p": "despacharmos",
+    "2p": "despachardes",
+    "3p": "despacharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "despacha",
+    "3s": "despache",
+    "1p": "despachemos",
+    "2p": "despachai",
+    "3p": "despachem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não despaches",
+    "3s": "não despache",
+    "1p": "não despachemos",
+    "2p": "não despacheis",
+    "3p": "não despachem"
+  },
+  "Part-ter": {
+    "": "despachado"
+  },
+  "Part-ser": {
+    "ms": "despachado",
+    "fs": "despachada",
+    "mp": "despachados",
+    "fp": "despachadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "inferir"
+  },
+  "InfP": {
+    "1s": "inferir",
+    "2s": "inferires",
+    "3s": "inferir",
+    "1p": "inferirmos",
+    "2p": "inferirdes",
+    "3p": "inferirem"
+  },
+  "Ger": {
+    "": "inferindo"
+  },
+  "PresI": {
+    "1s": "infiro",
+    "2s": "inferes",
+    "3s": "infere",
+    "1p": "inferimos",
+    "2p": "inferis",
+    "3p": "inferem"
+  },
+  "PImpI": {
+    "1s": "inferia",
+    "2s": "inferias",
+    "3s": "inferia",
+    "1p": "inferíamos",
+    "2p": "inferíeis",
+    "3p": "inferiam"
+  },
+  "PPSI": {
+    "1s": "inferi",
+    "2s": "inferiste",
+    "3s": "inferiu",
+    "1p": "inferimos",
+    "2p": "inferistes",
+    "3p": "inferiram"
+  },
+  "PMQPSI": {
+    "1s": "inferira",
+    "2s": "inferiras",
+    "3s": "inferira",
+    "1p": "inferíramos",
+    "2p": "inferíreis",
+    "3p": "inferiram"
+  },
+  "FutSI": {
+    "1s": "inferirei",
+    "2s": "inferirás",
+    "3s": "inferirá",
+    "1p": "inferiremos",
+    "2p": "inferireis",
+    "3p": "inferirão"
+  },
+  "CondS": {
+    "1s": "inferiria",
+    "2s": "inferirias",
+    "3s": "inferiria",
+    "1p": "inferiríamos",
+    "2p": "inferiríeis",
+    "3p": "infeririam"
+  },
+  "PresC": {
+    "1s": "infira",
+    "2s": "infiras",
+    "3s": "infira",
+    "1p": "infiramos",
+    "2p": "infirais",
+    "3p": "infiram"
+  },
+  "PImpC": {
+    "1s": "inferisse",
+    "2s": "inferisses",
+    "3s": "inferisse",
+    "1p": "inferíssemos",
+    "2p": "inferísseis",
+    "3p": "inferissem"
+  },
+  "FutSC": {
+    "1s": "inferir",
+    "2s": "inferires",
+    "3s": "inferir",
+    "1p": "inferirmos",
+    "2p": "inferirdes",
+    "3p": "inferirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "infere",
+    "3s": "infira",
+    "1p": "infiramos",
+    "2p": "inferi",
+    "3p": "infiram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não infiras",
+    "3s": "não infira",
+    "1p": "não infiramos",
+    "2p": "não infirais",
+    "3p": "não infiram"
+  },
+  "Part-ter": {
+    "": "inferido"
+  },
+  "Part-ser": {
+    "ms": "inferido",
+    "fs": "inferida",
+    "mp": "inferidos",
+    "fp": "inferidas"
+  }
+}

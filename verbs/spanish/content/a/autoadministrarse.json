@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autoadministrarse"
+  },
+  "Ger": {
+    "": "autoadministrándose"
+  },
+  "PresI": {
+    "1s": "me autoadministro",
+    "2s": "te autoadministras",
+    "3s": "se autoadministra",
+    "1p": "nos autoadministramos",
+    "2p": "os autoadministráis",
+    "3p": "se autoadministran"
+  },
+  "PImpI": {
+    "1s": "me autoadministraba",
+    "2s": "te autoadministrabas",
+    "3s": "se autoadministraba",
+    "1p": "nos autoadministrábamos",
+    "2p": "os autoadministrabais",
+    "3p": "se autoadministraban"
+  },
+  "PPSI": {
+    "1s": "me autoadministré",
+    "2s": "te autoadministraste",
+    "3s": "se autoadministró",
+    "1p": "nos autoadministramos",
+    "2p": "os autoadministrasteis",
+    "3p": "se autoadministraron"
+  },
+  "FutSI": {
+    "1s": "me autoadministraré",
+    "2s": "te autoadministrarás",
+    "3s": "se autoadministrará",
+    "1p": "nos autoadministraremos",
+    "2p": "os autoadministraréis",
+    "3p": "se autoadministrarán"
+  },
+  "CondS": {
+    "1s": "me autoadministraría",
+    "2s": "te autoadministrarías",
+    "3s": "se autoadministraría",
+    "1p": "nos autoadministraríamos",
+    "2p": "os autoadministraríais",
+    "3p": "se autoadministrarían"
+  },
+  "PresC": {
+    "1s": "me autoadministre",
+    "2s": "te autoadministres",
+    "3s": "se autoadministre",
+    "1p": "nos autoadministremos",
+    "2p": "os autoadministréis",
+    "3p": "se autoadministren"
+  },
+  "PMQPSI": {
+    "1s": "me autoadministrara",
+    "2s": "te autoadministraras",
+    "3s": "se autoadministrara",
+    "1p": "nos autoadministráramos",
+    "2p": "os autoadministrarais",
+    "3p": "se autoadministraran"
+  },
+  "PImpC": {
+    "1s": "me autoadministrase",
+    "2s": "te autoadministrases",
+    "3s": "se autoadministrase",
+    "1p": "nos autoadministrásemos",
+    "2p": "os autoadministraseis",
+    "3p": "se autoadministrasen"
+  },
+  "FutSC": {
+    "1s": "me autoadministrare",
+    "2s": "te autoadministrares",
+    "3s": "se autoadministrare",
+    "1p": "nos autoadministráremos",
+    "2p": "os autoadministrareis",
+    "3p": "se autoadministraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autoadminístrate",
+    "3s": "autoadminístrese",
+    "1p": "autoadministrémonos",
+    "2p": "autoadministraos",
+    "3p": "autoadminístrense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autoadministres",
+    "3s": "no se autoadministre",
+    "1p": "no nos autoadministremos",
+    "2p": "no os autoadministréis",
+    "3p": "no se autoadministren"
+  },
+  "Part-ter": {
+    "": "autoadministrado"
+  },
+  "Part-ser": {
+    "ms": "autoadministrado",
+    "fs": "autoadministrada",
+    "mp": "autoadministrados",
+    "fp": "autoadministradas"
+  }
+}

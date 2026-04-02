@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "enviar"
+  },
+  "Ger": {
+    "": "enviando"
+  },
+  "PresI": {
+    "1s": "envío",
+    "2s": "envías",
+    "3s": "envía",
+    "1p": "enviamos",
+    "2p": "enviáis",
+    "3p": "envían"
+  },
+  "PImpI": {
+    "1s": "enviaba",
+    "2s": "enviabas",
+    "3s": "enviaba",
+    "1p": "enviábamos",
+    "2p": "enviabais",
+    "3p": "enviaban"
+  },
+  "PPSI": {
+    "1s": "envié",
+    "2s": "enviaste",
+    "3s": "envió",
+    "1p": "enviamos",
+    "2p": "enviasteis",
+    "3p": "enviaron"
+  },
+  "FutSI": {
+    "1s": "enviaré",
+    "2s": "enviarás",
+    "3s": "enviará",
+    "1p": "enviaremos",
+    "2p": "enviaréis",
+    "3p": "enviarán"
+  },
+  "CondS": {
+    "1s": "enviaría",
+    "2s": "enviarías",
+    "3s": "enviaría",
+    "1p": "enviaríamos",
+    "2p": "enviaríais",
+    "3p": "enviarían"
+  },
+  "PresC": {
+    "1s": "envíe",
+    "2s": "envíes",
+    "3s": "envíe",
+    "1p": "enviemos",
+    "2p": "enviéis",
+    "3p": "envíen"
+  },
+  "PMQPSI": {
+    "1s": "enviara",
+    "2s": "enviaras",
+    "3s": "enviara",
+    "1p": "enviáramos",
+    "2p": "enviarais",
+    "3p": "enviaran"
+  },
+  "PImpC": {
+    "1s": "enviase",
+    "2s": "enviases",
+    "3s": "enviase",
+    "1p": "enviásemos",
+    "2p": "enviaseis",
+    "3p": "enviasen"
+  },
+  "FutSC": {
+    "1s": "enviare",
+    "2s": "enviares",
+    "3s": "enviare",
+    "1p": "enviáremos",
+    "2p": "enviareis",
+    "3p": "enviaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envía",
+    "3s": "envíe",
+    "1p": "enviemos",
+    "2p": "enviad",
+    "3p": "envíen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no envíes",
+    "3s": "no envíe",
+    "1p": "no enviemos",
+    "2p": "no enviéis",
+    "3p": "no envíen"
+  },
+  "Part-ter": {
+    "": "enviado"
+  },
+  "Part-ser": {
+    "ms": "enviado",
+    "fs": "enviada",
+    "mp": "enviados",
+    "fp": "enviadas"
+  }
+}

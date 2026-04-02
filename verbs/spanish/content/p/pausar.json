@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pausar"
+  },
+  "Ger": {
+    "": "pausando"
+  },
+  "PresI": {
+    "1s": "pauso",
+    "2s": "pausas",
+    "3s": "pausa",
+    "1p": "pausamos",
+    "2p": "pausáis",
+    "3p": "pausan"
+  },
+  "PImpI": {
+    "1s": "pausaba",
+    "2s": "pausabas",
+    "3s": "pausaba",
+    "1p": "pausábamos",
+    "2p": "pausabais",
+    "3p": "pausaban"
+  },
+  "PPSI": {
+    "1s": "pausé",
+    "2s": "pausaste",
+    "3s": "pausó",
+    "1p": "pausamos",
+    "2p": "pausasteis",
+    "3p": "pausaron"
+  },
+  "FutSI": {
+    "1s": "pausaré",
+    "2s": "pausarás",
+    "3s": "pausará",
+    "1p": "pausaremos",
+    "2p": "pausaréis",
+    "3p": "pausarán"
+  },
+  "CondS": {
+    "1s": "pausaría",
+    "2s": "pausarías",
+    "3s": "pausaría",
+    "1p": "pausaríamos",
+    "2p": "pausaríais",
+    "3p": "pausarían"
+  },
+  "PresC": {
+    "1s": "pause",
+    "2s": "pauses",
+    "3s": "pause",
+    "1p": "pausemos",
+    "2p": "pauséis",
+    "3p": "pausen"
+  },
+  "PMQPSI": {
+    "1s": "pausara",
+    "2s": "pausaras",
+    "3s": "pausara",
+    "1p": "pausáramos",
+    "2p": "pausarais",
+    "3p": "pausaran"
+  },
+  "PImpC": {
+    "1s": "pausase",
+    "2s": "pausases",
+    "3s": "pausase",
+    "1p": "pausásemos",
+    "2p": "pausaseis",
+    "3p": "pausasen"
+  },
+  "FutSC": {
+    "1s": "pausare",
+    "2s": "pausares",
+    "3s": "pausare",
+    "1p": "pausáremos",
+    "2p": "pausareis",
+    "3p": "pausaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pausa",
+    "3s": "pause",
+    "1p": "pausemos",
+    "2p": "pausad",
+    "3p": "pausen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no pauses",
+    "3s": "no pause",
+    "1p": "no pausemos",
+    "2p": "no pauséis",
+    "3p": "no pausen"
+  },
+  "Part-ter": {
+    "": "pausado"
+  },
+  "Part-ser": {
+    "ms": "pausado",
+    "fs": "pausada",
+    "mp": "pausados",
+    "fp": "pausadas"
+  }
+}

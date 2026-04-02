@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "violar"
+  },
+  "Ger": {
+    "": "violando"
+  },
+  "PresI": {
+    "1s": "violo",
+    "2s": "violas",
+    "3s": "viola",
+    "1p": "violamos",
+    "2p": "violáis",
+    "3p": "violan"
+  },
+  "PImpI": {
+    "1s": "violaba",
+    "2s": "violabas",
+    "3s": "violaba",
+    "1p": "violábamos",
+    "2p": "violabais",
+    "3p": "violaban"
+  },
+  "PPSI": {
+    "1s": "violé",
+    "2s": "violaste",
+    "3s": "violó",
+    "1p": "violamos",
+    "2p": "violasteis",
+    "3p": "violaron"
+  },
+  "FutSI": {
+    "1s": "violaré",
+    "2s": "violarás",
+    "3s": "violará",
+    "1p": "violaremos",
+    "2p": "violaréis",
+    "3p": "violarán"
+  },
+  "CondS": {
+    "1s": "violaría",
+    "2s": "violarías",
+    "3s": "violaría",
+    "1p": "violaríamos",
+    "2p": "violaríais",
+    "3p": "violarían"
+  },
+  "PresC": {
+    "1s": "viole",
+    "2s": "violes",
+    "3s": "viole",
+    "1p": "violemos",
+    "2p": "violéis",
+    "3p": "violen"
+  },
+  "PMQPSI": {
+    "1s": "violara",
+    "2s": "violaras",
+    "3s": "violara",
+    "1p": "violáramos",
+    "2p": "violarais",
+    "3p": "violaran"
+  },
+  "PImpC": {
+    "1s": "violase",
+    "2s": "violases",
+    "3s": "violase",
+    "1p": "violásemos",
+    "2p": "violaseis",
+    "3p": "violasen"
+  },
+  "FutSC": {
+    "1s": "violare",
+    "2s": "violares",
+    "3s": "violare",
+    "1p": "violáremos",
+    "2p": "violareis",
+    "3p": "violaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "viola",
+    "3s": "viole",
+    "1p": "violemos",
+    "2p": "violad",
+    "3p": "violen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no violes",
+    "3s": "no viole",
+    "1p": "no violemos",
+    "2p": "no violéis",
+    "3p": "no violen"
+  },
+  "Part-ter": {
+    "": "violado"
+  },
+  "Part-ser": {
+    "ms": "violado",
+    "fs": "violada",
+    "mp": "violados",
+    "fp": "violadas"
+  }
+}

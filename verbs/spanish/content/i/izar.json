@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "izar"
+  },
+  "Ger": {
+    "": "izando"
+  },
+  "PresI": {
+    "1s": "izo",
+    "2s": "izas",
+    "3s": "iza",
+    "1p": "izamos",
+    "2p": "izáis",
+    "3p": "izan"
+  },
+  "PImpI": {
+    "1s": "izaba",
+    "2s": "izabas",
+    "3s": "izaba",
+    "1p": "izábamos",
+    "2p": "izabais",
+    "3p": "izaban"
+  },
+  "PPSI": {
+    "1s": "icé",
+    "2s": "izaste",
+    "3s": "izó",
+    "1p": "izamos",
+    "2p": "izasteis",
+    "3p": "izaron"
+  },
+  "FutSI": {
+    "1s": "izaré",
+    "2s": "izarás",
+    "3s": "izará",
+    "1p": "izaremos",
+    "2p": "izaréis",
+    "3p": "izarán"
+  },
+  "CondS": {
+    "1s": "izaría",
+    "2s": "izarías",
+    "3s": "izaría",
+    "1p": "izaríamos",
+    "2p": "izaríais",
+    "3p": "izarían"
+  },
+  "PresC": {
+    "1s": "ice",
+    "2s": "ices",
+    "3s": "ice",
+    "1p": "icemos",
+    "2p": "icéis",
+    "3p": "icen"
+  },
+  "PMQPSI": {
+    "1s": "izara",
+    "2s": "izaras",
+    "3s": "izara",
+    "1p": "izáramos",
+    "2p": "izarais",
+    "3p": "izaran"
+  },
+  "PImpC": {
+    "1s": "izase",
+    "2s": "izases",
+    "3s": "izase",
+    "1p": "izásemos",
+    "2p": "izaseis",
+    "3p": "izasen"
+  },
+  "FutSC": {
+    "1s": "izare",
+    "2s": "izares",
+    "3s": "izare",
+    "1p": "izáremos",
+    "2p": "izareis",
+    "3p": "izaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "iza",
+    "3s": "ice",
+    "1p": "icemos",
+    "2p": "izad",
+    "3p": "icen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no ices",
+    "3s": "no ice",
+    "1p": "no icemos",
+    "2p": "no icéis",
+    "3p": "no icen"
+  },
+  "Part-ter": {
+    "": "izado"
+  },
+  "Part-ser": {
+    "ms": "izado",
+    "fs": "izada",
+    "mp": "izados",
+    "fp": "izadas"
+  }
+}

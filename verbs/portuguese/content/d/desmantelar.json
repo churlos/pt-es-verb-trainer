@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desmantelar"
+  },
+  "InfP": {
+    "1s": "desmantelar",
+    "2s": "desmantelares",
+    "3s": "desmantelar",
+    "1p": "desmantelarmos",
+    "2p": "desmantelardes",
+    "3p": "desmantelarem"
+  },
+  "Ger": {
+    "": "desmantelando"
+  },
+  "PresI": {
+    "1s": "desmantelo",
+    "2s": "desmantelas",
+    "3s": "desmantela",
+    "1p": "desmantelamos",
+    "2p": "desmantelais",
+    "3p": "desmantelam"
+  },
+  "PImpI": {
+    "1s": "desmantelava",
+    "2s": "desmantelavas",
+    "3s": "desmantelava",
+    "1p": "desmantelávamos",
+    "2p": "desmanteláveis",
+    "3p": "desmantelavam"
+  },
+  "PPSI": {
+    "1s": "desmantelei",
+    "2s": "desmantelaste",
+    "3s": "desmantelou",
+    "1p": "desmantelámos",
+    "2p": "desmantelastes",
+    "3p": "desmantelaram"
+  },
+  "PMQPSI": {
+    "1s": "desmantelara",
+    "2s": "desmantelaras",
+    "3s": "desmantelara",
+    "1p": "desmanteláramos",
+    "2p": "desmanteláreis",
+    "3p": "desmantelaram"
+  },
+  "FutSI": {
+    "1s": "desmantelarei",
+    "2s": "desmantelarás",
+    "3s": "desmantelará",
+    "1p": "desmantelaremos",
+    "2p": "desmantelareis",
+    "3p": "desmantelarão"
+  },
+  "CondS": {
+    "1s": "desmantelaria",
+    "2s": "desmantelarias",
+    "3s": "desmantelaria",
+    "1p": "desmantelaríamos",
+    "2p": "desmantelaríeis",
+    "3p": "desmantelariam"
+  },
+  "PresC": {
+    "1s": "desmantele",
+    "2s": "desmanteles",
+    "3s": "desmantele",
+    "1p": "desmantelemos",
+    "2p": "desmanteleis",
+    "3p": "desmantelem"
+  },
+  "PImpC": {
+    "1s": "desmantelasse",
+    "2s": "desmantelasses",
+    "3s": "desmantelasse",
+    "1p": "desmantelássemos",
+    "2p": "desmantelásseis",
+    "3p": "desmantelassem"
+  },
+  "FutSC": {
+    "1s": "desmantelar",
+    "2s": "desmantelares",
+    "3s": "desmantelar",
+    "1p": "desmantelarmos",
+    "2p": "desmantelardes",
+    "3p": "desmantelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desmantela",
+    "3s": "desmantele",
+    "1p": "desmantelemos",
+    "2p": "desmantelai",
+    "3p": "desmantelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desmanteles",
+    "3s": "não desmantele",
+    "1p": "não desmantelemos",
+    "2p": "não desmanteleis",
+    "3p": "não desmantelem"
+  },
+  "Part-ter": {
+    "": "desmantelado"
+  },
+  "Part-ser": {
+    "ms": "desmantelado",
+    "fs": "desmantelada",
+    "mp": "desmantelados",
+    "fp": "desmanteladas"
+  }
+}

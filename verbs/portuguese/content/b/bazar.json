@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "bazar"
+  },
+  "InfP": {
+    "1s": "bazar",
+    "2s": "bazares",
+    "3s": "bazar",
+    "1p": "bazarmos",
+    "2p": "bazardes",
+    "3p": "bazarem"
+  },
+  "Ger": {
+    "": "bazando"
+  },
+  "PresI": {
+    "1s": "bazo",
+    "2s": "bazas",
+    "3s": "baza",
+    "1p": "bazamos",
+    "2p": "bazais",
+    "3p": "bazam"
+  },
+  "PImpI": {
+    "1s": "bazava",
+    "2s": "bazavas",
+    "3s": "bazava",
+    "1p": "bazávamos",
+    "2p": "bazáveis",
+    "3p": "bazavam"
+  },
+  "PPSI": {
+    "1s": "bazei",
+    "2s": "bazaste",
+    "3s": "bazou",
+    "1p": "bazámos",
+    "2p": "bazastes",
+    "3p": "bazaram"
+  },
+  "PMQPSI": {
+    "1s": "bazara",
+    "2s": "bazaras",
+    "3s": "bazara",
+    "1p": "bazáramos",
+    "2p": "bazáreis",
+    "3p": "bazaram"
+  },
+  "FutSI": {
+    "1s": "bazarei",
+    "2s": "bazarás",
+    "3s": "bazará",
+    "1p": "bazaremos",
+    "2p": "bazareis",
+    "3p": "bazarão"
+  },
+  "CondS": {
+    "1s": "bazaria",
+    "2s": "bazarias",
+    "3s": "bazaria",
+    "1p": "bazaríamos",
+    "2p": "bazaríeis",
+    "3p": "bazariam"
+  },
+  "PresC": {
+    "1s": "baze",
+    "2s": "bazes",
+    "3s": "baze",
+    "1p": "bazemos",
+    "2p": "bazeis",
+    "3p": "bazem"
+  },
+  "PImpC": {
+    "1s": "bazasse",
+    "2s": "bazasses",
+    "3s": "bazasse",
+    "1p": "bazássemos",
+    "2p": "bazásseis",
+    "3p": "bazassem"
+  },
+  "FutSC": {
+    "1s": "bazar",
+    "2s": "bazares",
+    "3s": "bazar",
+    "1p": "bazarmos",
+    "2p": "bazardes",
+    "3p": "bazarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baza",
+    "3s": "baze",
+    "1p": "bazemos",
+    "2p": "bazai",
+    "3p": "bazem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não bazes",
+    "3s": "não baze",
+    "1p": "não bazemos",
+    "2p": "não bazeis",
+    "3p": "não bazem"
+  },
+  "Part-ter": {
+    "": "bazado"
+  },
+  "Part-ser": {
+    "ms": "bazado",
+    "fs": "bazada",
+    "mp": "bazados",
+    "fp": "bazadas"
+  }
+}

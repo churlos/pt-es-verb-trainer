@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desalmacenar"
+  },
+  "Ger": {
+    "": "desalmacenando"
+  },
+  "PresI": {
+    "1s": "desalmaceno",
+    "2s": "desalmacenas",
+    "3s": "desalmacena",
+    "1p": "desalmacenamos",
+    "2p": "desalmacenáis",
+    "3p": "desalmacenan"
+  },
+  "PImpI": {
+    "1s": "desalmacenaba",
+    "2s": "desalmacenabas",
+    "3s": "desalmacenaba",
+    "1p": "desalmacenábamos",
+    "2p": "desalmacenabais",
+    "3p": "desalmacenaban"
+  },
+  "PPSI": {
+    "1s": "desalmacené",
+    "2s": "desalmacenaste",
+    "3s": "desalmacenó",
+    "1p": "desalmacenamos",
+    "2p": "desalmacenasteis",
+    "3p": "desalmacenaron"
+  },
+  "FutSI": {
+    "1s": "desalmacenaré",
+    "2s": "desalmacenarás",
+    "3s": "desalmacenará",
+    "1p": "desalmacenaremos",
+    "2p": "desalmacenaréis",
+    "3p": "desalmacenarán"
+  },
+  "CondS": {
+    "1s": "desalmacenaría",
+    "2s": "desalmacenarías",
+    "3s": "desalmacenaría",
+    "1p": "desalmacenaríamos",
+    "2p": "desalmacenaríais",
+    "3p": "desalmacenarían"
+  },
+  "PresC": {
+    "1s": "desalmacene",
+    "2s": "desalmacenes",
+    "3s": "desalmacene",
+    "1p": "desalmacenemos",
+    "2p": "desalmacenéis",
+    "3p": "desalmacenen"
+  },
+  "PMQPSI": {
+    "1s": "desalmacenara",
+    "2s": "desalmacenaras",
+    "3s": "desalmacenara",
+    "1p": "desalmacenáramos",
+    "2p": "desalmacenarais",
+    "3p": "desalmacenaran"
+  },
+  "PImpC": {
+    "1s": "desalmacenase",
+    "2s": "desalmacenases",
+    "3s": "desalmacenase",
+    "1p": "desalmacenásemos",
+    "2p": "desalmacenaseis",
+    "3p": "desalmacenasen"
+  },
+  "FutSC": {
+    "1s": "desalmacenare",
+    "2s": "desalmacenares",
+    "3s": "desalmacenare",
+    "1p": "desalmacenáremos",
+    "2p": "desalmacenareis",
+    "3p": "desalmacenaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desalmacena",
+    "3s": "desalmacene",
+    "1p": "desalmacenemos",
+    "2p": "desalmacenad",
+    "3p": "desalmacenen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desalmacenes",
+    "3s": "no desalmacene",
+    "1p": "no desalmacenemos",
+    "2p": "no desalmacenéis",
+    "3p": "no desalmacenen"
+  },
+  "Part-ter": {
+    "": "desalmacenado"
+  },
+  "Part-ser": {
+    "ms": "desalmacenado",
+    "fs": "desalmacenada",
+    "mp": "desalmacenados",
+    "fp": "desalmacenadas"
+  }
+}

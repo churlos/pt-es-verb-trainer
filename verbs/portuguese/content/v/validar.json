@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "validar"
+  },
+  "InfP": {
+    "1s": "validar",
+    "2s": "validares",
+    "3s": "validar",
+    "1p": "validarmos",
+    "2p": "validardes",
+    "3p": "validarem"
+  },
+  "Ger": {
+    "": "validando"
+  },
+  "PresI": {
+    "1s": "valido",
+    "2s": "validas",
+    "3s": "valida",
+    "1p": "validamos",
+    "2p": "validais",
+    "3p": "validam"
+  },
+  "PImpI": {
+    "1s": "validava",
+    "2s": "validavas",
+    "3s": "validava",
+    "1p": "validávamos",
+    "2p": "validáveis",
+    "3p": "validavam"
+  },
+  "PPSI": {
+    "1s": "validei",
+    "2s": "validaste",
+    "3s": "validou",
+    "1p": "validámos",
+    "2p": "validastes",
+    "3p": "validaram"
+  },
+  "PMQPSI": {
+    "1s": "validara",
+    "2s": "validaras",
+    "3s": "validara",
+    "1p": "validáramos",
+    "2p": "validáreis",
+    "3p": "validaram"
+  },
+  "FutSI": {
+    "1s": "validarei",
+    "2s": "validarás",
+    "3s": "validará",
+    "1p": "validaremos",
+    "2p": "validareis",
+    "3p": "validarão"
+  },
+  "CondS": {
+    "1s": "validaria",
+    "2s": "validarias",
+    "3s": "validaria",
+    "1p": "validaríamos",
+    "2p": "validaríeis",
+    "3p": "validariam"
+  },
+  "PresC": {
+    "1s": "valide",
+    "2s": "valides",
+    "3s": "valide",
+    "1p": "validemos",
+    "2p": "valideis",
+    "3p": "validem"
+  },
+  "PImpC": {
+    "1s": "validasse",
+    "2s": "validasses",
+    "3s": "validasse",
+    "1p": "validássemos",
+    "2p": "validásseis",
+    "3p": "validassem"
+  },
+  "FutSC": {
+    "1s": "validar",
+    "2s": "validares",
+    "3s": "validar",
+    "1p": "validarmos",
+    "2p": "validardes",
+    "3p": "validarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "valida",
+    "3s": "valide",
+    "1p": "validemos",
+    "2p": "validai",
+    "3p": "validem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não valides",
+    "3s": "não valide",
+    "1p": "não validemos",
+    "2p": "não valideis",
+    "3p": "não validem"
+  },
+  "Part-ter": {
+    "": "validado"
+  },
+  "Part-ser": {
+    "ms": "validado",
+    "fs": "validada",
+    "mp": "validados",
+    "fp": "validadas"
+  }
+}

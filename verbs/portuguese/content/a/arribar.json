@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arribar"
+  },
+  "InfP": {
+    "1s": "arribar",
+    "2s": "arribares",
+    "3s": "arribar",
+    "1p": "arribarmos",
+    "2p": "arribardes",
+    "3p": "arribarem"
+  },
+  "Ger": {
+    "": "arribando"
+  },
+  "PresI": {
+    "1s": "arribo",
+    "2s": "arribas",
+    "3s": "arriba",
+    "1p": "arribamos",
+    "2p": "arribais",
+    "3p": "arribam"
+  },
+  "PImpI": {
+    "1s": "arribava",
+    "2s": "arribavas",
+    "3s": "arribava",
+    "1p": "arribávamos",
+    "2p": "arribáveis",
+    "3p": "arribavam"
+  },
+  "PPSI": {
+    "1s": "arribei",
+    "2s": "arribaste",
+    "3s": "arribou",
+    "1p": "arribámos",
+    "2p": "arribastes",
+    "3p": "arribaram"
+  },
+  "PMQPSI": {
+    "1s": "arribara",
+    "2s": "arribaras",
+    "3s": "arribara",
+    "1p": "arribáramos",
+    "2p": "arribáreis",
+    "3p": "arribaram"
+  },
+  "FutSI": {
+    "1s": "arribarei",
+    "2s": "arribarás",
+    "3s": "arribará",
+    "1p": "arribaremos",
+    "2p": "arribareis",
+    "3p": "arribarão"
+  },
+  "CondS": {
+    "1s": "arribaria",
+    "2s": "arribarias",
+    "3s": "arribaria",
+    "1p": "arribaríamos",
+    "2p": "arribaríeis",
+    "3p": "arribariam"
+  },
+  "PresC": {
+    "1s": "arribe",
+    "2s": "arribes",
+    "3s": "arribe",
+    "1p": "arribemos",
+    "2p": "arribeis",
+    "3p": "arribem"
+  },
+  "PImpC": {
+    "1s": "arribasse",
+    "2s": "arribasses",
+    "3s": "arribasse",
+    "1p": "arribássemos",
+    "2p": "arribásseis",
+    "3p": "arribassem"
+  },
+  "FutSC": {
+    "1s": "arribar",
+    "2s": "arribares",
+    "3s": "arribar",
+    "1p": "arribarmos",
+    "2p": "arribardes",
+    "3p": "arribarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arriba",
+    "3s": "arribe",
+    "1p": "arribemos",
+    "2p": "arribai",
+    "3p": "arribem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arribes",
+    "3s": "não arribe",
+    "1p": "não arribemos",
+    "2p": "não arribeis",
+    "3p": "não arribem"
+  },
+  "Part-ter": {
+    "": "arribado"
+  },
+  "Part-ser": {
+    "ms": "arribado",
+    "fs": "arribada",
+    "mp": "arribados",
+    "fp": "arribadas"
+  }
+}

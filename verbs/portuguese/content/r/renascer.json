@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "renascer"
+  },
+  "InfP": {
+    "1s": "renascer",
+    "2s": "renasceres",
+    "3s": "renascer",
+    "1p": "renascermos",
+    "2p": "renascerdes",
+    "3p": "renascerem"
+  },
+  "Ger": {
+    "": "renascendo"
+  },
+  "PresI": {
+    "1s": "renasço",
+    "2s": "renasces",
+    "3s": "renasce",
+    "1p": "renascemos",
+    "2p": "renasceis",
+    "3p": "renascem"
+  },
+  "PImpI": {
+    "1s": "renascia",
+    "2s": "renascias",
+    "3s": "renascia",
+    "1p": "renascíamos",
+    "2p": "renascíeis",
+    "3p": "renasciam"
+  },
+  "PPSI": {
+    "1s": "renasci",
+    "2s": "renasceste",
+    "3s": "renasceu",
+    "1p": "renascemos",
+    "2p": "renascestes",
+    "3p": "renasceram"
+  },
+  "PMQPSI": {
+    "1s": "renascera",
+    "2s": "renasceras",
+    "3s": "renascera",
+    "1p": "renascêramos",
+    "2p": "renascêreis",
+    "3p": "renasceram"
+  },
+  "FutSI": {
+    "1s": "renascerei",
+    "2s": "renascerás",
+    "3s": "renascerá",
+    "1p": "renasceremos",
+    "2p": "renascereis",
+    "3p": "renascerão"
+  },
+  "CondS": {
+    "1s": "renasceria",
+    "2s": "renascerias",
+    "3s": "renasceria",
+    "1p": "renasceríamos",
+    "2p": "renasceríeis",
+    "3p": "renasceriam"
+  },
+  "PresC": {
+    "1s": "renasça",
+    "2s": "renasças",
+    "3s": "renasça",
+    "1p": "renasçamos",
+    "2p": "renasçais",
+    "3p": "renasçam"
+  },
+  "PImpC": {
+    "1s": "renascesse",
+    "2s": "renascesses",
+    "3s": "renascesse",
+    "1p": "renascêssemos",
+    "2p": "renascêsseis",
+    "3p": "renascessem"
+  },
+  "FutSC": {
+    "1s": "renascer",
+    "2s": "renasceres",
+    "3s": "renascer",
+    "1p": "renascermos",
+    "2p": "renascerdes",
+    "3p": "renascerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "renasce",
+    "3s": "renasça",
+    "1p": "renasçamos",
+    "2p": "renascei",
+    "3p": "renasçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não renasças",
+    "3s": "não renasça",
+    "1p": "não renasçamos",
+    "2p": "não renasçais",
+    "3p": "não renasçam"
+  },
+  "Part-ter": {
+    "": "renascido"
+  },
+  "Part-ser": {
+    "ms": "renascido",
+    "fs": "renascida",
+    "mp": "renascidos",
+    "fp": "renascidas"
+  }
+}

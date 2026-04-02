@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "absceder"
+  },
+  "InfP": {
+    "1s": "absceder",
+    "2s": "abscederes",
+    "3s": "absceder",
+    "1p": "abscedermos",
+    "2p": "abscederdes",
+    "3p": "abscederem"
+  },
+  "Ger": {
+    "": "abscedendo"
+  },
+  "PresI": {
+    "1s": "abscedo",
+    "2s": "abscedes",
+    "3s": "abscede",
+    "1p": "abscedemos",
+    "2p": "abscedeis",
+    "3p": "abscedem"
+  },
+  "PImpI": {
+    "1s": "abscedia",
+    "2s": "abscedias",
+    "3s": "abscedia",
+    "1p": "abscedíamos",
+    "2p": "abscedíeis",
+    "3p": "abscediam"
+  },
+  "PPSI": {
+    "1s": "abscedi",
+    "2s": "abscedeste",
+    "3s": "abscedeu",
+    "1p": "abscedemos",
+    "2p": "abscedestes",
+    "3p": "abscederam"
+  },
+  "PMQPSI": {
+    "1s": "abscedera",
+    "2s": "abscederas",
+    "3s": "abscedera",
+    "1p": "abscedêramos",
+    "2p": "abscedêreis",
+    "3p": "abscederam"
+  },
+  "FutSI": {
+    "1s": "abscederei",
+    "2s": "abscederás",
+    "3s": "abscederá",
+    "1p": "abscederemos",
+    "2p": "abscedereis",
+    "3p": "abscederão"
+  },
+  "CondS": {
+    "1s": "abscederia",
+    "2s": "abscederias",
+    "3s": "abscederia",
+    "1p": "abscederíamos",
+    "2p": "abscederíeis",
+    "3p": "abscederiam"
+  },
+  "PresC": {
+    "1s": "absceda",
+    "2s": "abscedas",
+    "3s": "absceda",
+    "1p": "abscedamos",
+    "2p": "abscedais",
+    "3p": "abscedam"
+  },
+  "PImpC": {
+    "1s": "abscedesse",
+    "2s": "abscedesses",
+    "3s": "abscedesse",
+    "1p": "abscedêssemos",
+    "2p": "abscedêsseis",
+    "3p": "abscedessem"
+  },
+  "FutSC": {
+    "1s": "absceder",
+    "2s": "abscederes",
+    "3s": "absceder",
+    "1p": "abscedermos",
+    "2p": "abscederdes",
+    "3p": "abscederem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "abscede",
+    "3s": "absceda",
+    "1p": "abscedamos",
+    "2p": "abscedei",
+    "3p": "abscedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não abscedas",
+    "3s": "não absceda",
+    "1p": "não abscedamos",
+    "2p": "não abscedais",
+    "3p": "não abscedam"
+  },
+  "Part-ter": {
+    "": "abscedido"
+  },
+  "Part-ser": {
+    "ms": "abscedido",
+    "fs": "abscedida",
+    "mp": "abscedidos",
+    "fp": "abscedidas"
+  }
+}

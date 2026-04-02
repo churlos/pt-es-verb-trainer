@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "retrocar"
+  },
+  "Ger": {
+    "": "retrocando"
+  },
+  "PresI": {
+    "1s": "retrueco",
+    "2s": "retruecas",
+    "3s": "retrueca",
+    "1p": "retrocamos",
+    "2p": "retrocáis",
+    "3p": "retruecan"
+  },
+  "PImpI": {
+    "1s": "retrocaba",
+    "2s": "retrocabas",
+    "3s": "retrocaba",
+    "1p": "retrocábamos",
+    "2p": "retrocabais",
+    "3p": "retrocaban"
+  },
+  "PPSI": {
+    "1s": "retroqué",
+    "2s": "retrocaste",
+    "3s": "retrocó",
+    "1p": "retrocamos",
+    "2p": "retrocasteis",
+    "3p": "retrocaron"
+  },
+  "FutSI": {
+    "1s": "retrocaré",
+    "2s": "retrocarás",
+    "3s": "retrocará",
+    "1p": "retrocaremos",
+    "2p": "retrocaréis",
+    "3p": "retrocarán"
+  },
+  "CondS": {
+    "1s": "retrocaría",
+    "2s": "retrocarías",
+    "3s": "retrocaría",
+    "1p": "retrocaríamos",
+    "2p": "retrocaríais",
+    "3p": "retrocarían"
+  },
+  "PresC": {
+    "1s": "retrueque",
+    "2s": "retrueques",
+    "3s": "retrueque",
+    "1p": "retroquemos",
+    "2p": "retroquéis",
+    "3p": "retruequen"
+  },
+  "PMQPSI": {
+    "1s": "retrocara",
+    "2s": "retrocaras",
+    "3s": "retrocara",
+    "1p": "retrocáramos",
+    "2p": "retrocarais",
+    "3p": "retrocaran"
+  },
+  "PImpC": {
+    "1s": "retrocase",
+    "2s": "retrocases",
+    "3s": "retrocase",
+    "1p": "retrocásemos",
+    "2p": "retrocaseis",
+    "3p": "retrocasen"
+  },
+  "FutSC": {
+    "1s": "retrocare",
+    "2s": "retrocares",
+    "3s": "retrocare",
+    "1p": "retrocáremos",
+    "2p": "retrocareis",
+    "3p": "retrocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "retrueca",
+    "3s": "retrueque",
+    "1p": "retroquemos",
+    "2p": "retrocad",
+    "3p": "retruequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no retrueques",
+    "3s": "no retrueque",
+    "1p": "no retroquemos",
+    "2p": "no retroquéis",
+    "3p": "no retruequen"
+  },
+  "Part-ter": {
+    "": "retrocado"
+  },
+  "Part-ser": {
+    "ms": "retrocado",
+    "fs": "retrocada",
+    "mp": "retrocados",
+    "fp": "retrocadas"
+  }
+}

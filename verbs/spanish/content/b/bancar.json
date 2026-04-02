@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "bancar"
+  },
+  "Ger": {
+    "": "bancando"
+  },
+  "PresI": {
+    "1s": "banco",
+    "2s": "bancas",
+    "3s": "banca",
+    "1p": "bancamos",
+    "2p": "bancáis",
+    "3p": "bancan"
+  },
+  "PImpI": {
+    "1s": "bancaba",
+    "2s": "bancabas",
+    "3s": "bancaba",
+    "1p": "bancábamos",
+    "2p": "bancabais",
+    "3p": "bancaban"
+  },
+  "PPSI": {
+    "1s": "banqué",
+    "2s": "bancaste",
+    "3s": "bancó",
+    "1p": "bancamos",
+    "2p": "bancasteis",
+    "3p": "bancaron"
+  },
+  "FutSI": {
+    "1s": "bancaré",
+    "2s": "bancarás",
+    "3s": "bancará",
+    "1p": "bancaremos",
+    "2p": "bancaréis",
+    "3p": "bancarán"
+  },
+  "CondS": {
+    "1s": "bancaría",
+    "2s": "bancarías",
+    "3s": "bancaría",
+    "1p": "bancaríamos",
+    "2p": "bancaríais",
+    "3p": "bancarían"
+  },
+  "PresC": {
+    "1s": "banque",
+    "2s": "banques",
+    "3s": "banque",
+    "1p": "banquemos",
+    "2p": "banquéis",
+    "3p": "banquen"
+  },
+  "PMQPSI": {
+    "1s": "bancara",
+    "2s": "bancaras",
+    "3s": "bancara",
+    "1p": "bancáramos",
+    "2p": "bancarais",
+    "3p": "bancaran"
+  },
+  "PImpC": {
+    "1s": "bancase",
+    "2s": "bancases",
+    "3s": "bancase",
+    "1p": "bancásemos",
+    "2p": "bancaseis",
+    "3p": "bancasen"
+  },
+  "FutSC": {
+    "1s": "bancare",
+    "2s": "bancares",
+    "3s": "bancare",
+    "1p": "bancáremos",
+    "2p": "bancareis",
+    "3p": "bancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "banca",
+    "3s": "banque",
+    "1p": "banquemos",
+    "2p": "bancad",
+    "3p": "banquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no banques",
+    "3s": "no banque",
+    "1p": "no banquemos",
+    "2p": "no banquéis",
+    "3p": "no banquen"
+  },
+  "Part-ter": {
+    "": "bancado"
+  },
+  "Part-ser": {
+    "ms": "bancado",
+    "fs": "bancada",
+    "mp": "bancados",
+    "fp": "bancadas"
+  }
+}

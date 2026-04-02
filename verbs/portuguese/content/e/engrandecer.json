@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "engrandecer"
+  },
+  "InfP": {
+    "1s": "engrandecer",
+    "2s": "engrandeceres",
+    "3s": "engrandecer",
+    "1p": "engrandecermos",
+    "2p": "engrandecerdes",
+    "3p": "engrandecerem"
+  },
+  "Ger": {
+    "": "engrandecendo"
+  },
+  "PresI": {
+    "1s": "engrandeço",
+    "2s": "engrandeces",
+    "3s": "engrandece",
+    "1p": "engrandecemos",
+    "2p": "engrandeceis",
+    "3p": "engrandecem"
+  },
+  "PImpI": {
+    "1s": "engrandecia",
+    "2s": "engrandecias",
+    "3s": "engrandecia",
+    "1p": "engrandecíamos",
+    "2p": "engrandecíeis",
+    "3p": "engrandeciam"
+  },
+  "PPSI": {
+    "1s": "engrandeci",
+    "2s": "engrandeceste",
+    "3s": "engrandeceu",
+    "1p": "engrandecemos",
+    "2p": "engrandecestes",
+    "3p": "engrandeceram"
+  },
+  "PMQPSI": {
+    "1s": "engrandecera",
+    "2s": "engrandeceras",
+    "3s": "engrandecera",
+    "1p": "engrandecêramos",
+    "2p": "engrandecêreis",
+    "3p": "engrandeceram"
+  },
+  "FutSI": {
+    "1s": "engrandecerei",
+    "2s": "engrandecerás",
+    "3s": "engrandecerá",
+    "1p": "engrandeceremos",
+    "2p": "engrandecereis",
+    "3p": "engrandecerão"
+  },
+  "CondS": {
+    "1s": "engrandeceria",
+    "2s": "engrandecerias",
+    "3s": "engrandeceria",
+    "1p": "engrandeceríamos",
+    "2p": "engrandeceríeis",
+    "3p": "engrandeceriam"
+  },
+  "PresC": {
+    "1s": "engrandeça",
+    "2s": "engrandeças",
+    "3s": "engrandeça",
+    "1p": "engrandeçamos",
+    "2p": "engrandeçais",
+    "3p": "engrandeçam"
+  },
+  "PImpC": {
+    "1s": "engrandecesse",
+    "2s": "engrandecesses",
+    "3s": "engrandecesse",
+    "1p": "engrandecêssemos",
+    "2p": "engrandecêsseis",
+    "3p": "engrandecessem"
+  },
+  "FutSC": {
+    "1s": "engrandecer",
+    "2s": "engrandeceres",
+    "3s": "engrandecer",
+    "1p": "engrandecermos",
+    "2p": "engrandecerdes",
+    "3p": "engrandecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "engrandece",
+    "3s": "engrandeça",
+    "1p": "engrandeçamos",
+    "2p": "engrandecei",
+    "3p": "engrandeçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não engrandeças",
+    "3s": "não engrandeça",
+    "1p": "não engrandeçamos",
+    "2p": "não engrandeçais",
+    "3p": "não engrandeçam"
+  },
+  "Part-ter": {
+    "": "engrandecido"
+  },
+  "Part-ser": {
+    "ms": "engrandecido",
+    "fs": "engrandecida",
+    "mp": "engrandecidos",
+    "fp": "engrandecidas"
+  }
+}

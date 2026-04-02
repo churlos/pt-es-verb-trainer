@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "vomitar"
+  },
+  "InfP": {
+    "1s": "vomitar",
+    "2s": "vomitares",
+    "3s": "vomitar",
+    "1p": "vomitarmos",
+    "2p": "vomitardes",
+    "3p": "vomitarem"
+  },
+  "Ger": {
+    "": "vomitando"
+  },
+  "PresI": {
+    "1s": "vomito",
+    "2s": "vomitas",
+    "3s": "vomita",
+    "1p": "vomitamos",
+    "2p": "vomitais",
+    "3p": "vomitam"
+  },
+  "PImpI": {
+    "1s": "vomitava",
+    "2s": "vomitavas",
+    "3s": "vomitava",
+    "1p": "vomitávamos",
+    "2p": "vomitáveis",
+    "3p": "vomitavam"
+  },
+  "PPSI": {
+    "1s": "vomitei",
+    "2s": "vomitaste",
+    "3s": "vomitou",
+    "1p": "vomitámos",
+    "2p": "vomitastes",
+    "3p": "vomitaram"
+  },
+  "PMQPSI": {
+    "1s": "vomitara",
+    "2s": "vomitaras",
+    "3s": "vomitara",
+    "1p": "vomitáramos",
+    "2p": "vomitáreis",
+    "3p": "vomitaram"
+  },
+  "FutSI": {
+    "1s": "vomitarei",
+    "2s": "vomitarás",
+    "3s": "vomitará",
+    "1p": "vomitaremos",
+    "2p": "vomitareis",
+    "3p": "vomitarão"
+  },
+  "CondS": {
+    "1s": "vomitaria",
+    "2s": "vomitarias",
+    "3s": "vomitaria",
+    "1p": "vomitaríamos",
+    "2p": "vomitaríeis",
+    "3p": "vomitariam"
+  },
+  "PresC": {
+    "1s": "vomite",
+    "2s": "vomites",
+    "3s": "vomite",
+    "1p": "vomitemos",
+    "2p": "vomiteis",
+    "3p": "vomitem"
+  },
+  "PImpC": {
+    "1s": "vomitasse",
+    "2s": "vomitasses",
+    "3s": "vomitasse",
+    "1p": "vomitássemos",
+    "2p": "vomitásseis",
+    "3p": "vomitassem"
+  },
+  "FutSC": {
+    "1s": "vomitar",
+    "2s": "vomitares",
+    "3s": "vomitar",
+    "1p": "vomitarmos",
+    "2p": "vomitardes",
+    "3p": "vomitarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "vomita",
+    "3s": "vomite",
+    "1p": "vomitemos",
+    "2p": "vomitai",
+    "3p": "vomitem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não vomites",
+    "3s": "não vomite",
+    "1p": "não vomitemos",
+    "2p": "não vomiteis",
+    "3p": "não vomitem"
+  },
+  "Part-ter": {
+    "": "vomitado"
+  },
+  "Part-ser": {
+    "ms": "vomitado",
+    "fs": "vomitada",
+    "mp": "vomitados",
+    "fp": "vomitadas"
+  }
+}

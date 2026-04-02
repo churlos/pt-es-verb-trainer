@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "purificar"
+  },
+  "InfP": {
+    "1s": "purificar",
+    "2s": "purificares",
+    "3s": "purificar",
+    "1p": "purificarmos",
+    "2p": "purificardes",
+    "3p": "purificarem"
+  },
+  "Ger": {
+    "": "purificando"
+  },
+  "PresI": {
+    "1s": "purifico",
+    "2s": "purificas",
+    "3s": "purifica",
+    "1p": "purificamos",
+    "2p": "purificais",
+    "3p": "purificam"
+  },
+  "PImpI": {
+    "1s": "purificava",
+    "2s": "purificavas",
+    "3s": "purificava",
+    "1p": "purificávamos",
+    "2p": "purificáveis",
+    "3p": "purificavam"
+  },
+  "PPSI": {
+    "1s": "purifiquei",
+    "2s": "purificaste",
+    "3s": "purificou",
+    "1p": "purificámos",
+    "2p": "purificastes",
+    "3p": "purificaram"
+  },
+  "PMQPSI": {
+    "1s": "purificara",
+    "2s": "purificaras",
+    "3s": "purificara",
+    "1p": "purificáramos",
+    "2p": "purificáreis",
+    "3p": "purificaram"
+  },
+  "FutSI": {
+    "1s": "purificarei",
+    "2s": "purificarás",
+    "3s": "purificará",
+    "1p": "purificaremos",
+    "2p": "purificareis",
+    "3p": "purificarão"
+  },
+  "CondS": {
+    "1s": "purificaria",
+    "2s": "purificarias",
+    "3s": "purificaria",
+    "1p": "purificaríamos",
+    "2p": "purificaríeis",
+    "3p": "purificariam"
+  },
+  "PresC": {
+    "1s": "purifique",
+    "2s": "purifiques",
+    "3s": "purifique",
+    "1p": "purifiquemos",
+    "2p": "purifiqueis",
+    "3p": "purifiquem"
+  },
+  "PImpC": {
+    "1s": "purificasse",
+    "2s": "purificasses",
+    "3s": "purificasse",
+    "1p": "purificássemos",
+    "2p": "purificásseis",
+    "3p": "purificassem"
+  },
+  "FutSC": {
+    "1s": "purificar",
+    "2s": "purificares",
+    "3s": "purificar",
+    "1p": "purificarmos",
+    "2p": "purificardes",
+    "3p": "purificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "purifica",
+    "3s": "purifique",
+    "1p": "purifiquemos",
+    "2p": "purificai",
+    "3p": "purifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não purifiques",
+    "3s": "não purifique",
+    "1p": "não purifiquemos",
+    "2p": "não purifiqueis",
+    "3p": "não purifiquem"
+  },
+  "Part-ter": {
+    "": "purificado"
+  },
+  "Part-ser": {
+    "ms": "purificado",
+    "fs": "purificada",
+    "mp": "purificados",
+    "fp": "purificadas"
+  }
+}

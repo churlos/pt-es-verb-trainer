@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lancear"
+  },
+  "Ger": {
+    "": "lanceando"
+  },
+  "PresI": {
+    "1s": "lanceo",
+    "2s": "lanceas",
+    "3s": "lancea",
+    "1p": "lanceamos",
+    "2p": "lanceáis",
+    "3p": "lancean"
+  },
+  "PImpI": {
+    "1s": "lanceaba",
+    "2s": "lanceabas",
+    "3s": "lanceaba",
+    "1p": "lanceábamos",
+    "2p": "lanceabais",
+    "3p": "lanceaban"
+  },
+  "PPSI": {
+    "1s": "lanceé",
+    "2s": "lanceaste",
+    "3s": "lanceó",
+    "1p": "lanceamos",
+    "2p": "lanceasteis",
+    "3p": "lancearon"
+  },
+  "FutSI": {
+    "1s": "lancearé",
+    "2s": "lancearás",
+    "3s": "lanceará",
+    "1p": "lancearemos",
+    "2p": "lancearéis",
+    "3p": "lancearán"
+  },
+  "CondS": {
+    "1s": "lancearía",
+    "2s": "lancearías",
+    "3s": "lancearía",
+    "1p": "lancearíamos",
+    "2p": "lancearíais",
+    "3p": "lancearían"
+  },
+  "PresC": {
+    "1s": "lancee",
+    "2s": "lancees",
+    "3s": "lancee",
+    "1p": "lanceemos",
+    "2p": "lanceéis",
+    "3p": "lanceen"
+  },
+  "PMQPSI": {
+    "1s": "lanceara",
+    "2s": "lancearas",
+    "3s": "lanceara",
+    "1p": "lanceáramos",
+    "2p": "lancearais",
+    "3p": "lancearan"
+  },
+  "PImpC": {
+    "1s": "lancease",
+    "2s": "lanceases",
+    "3s": "lancease",
+    "1p": "lanceásemos",
+    "2p": "lanceaseis",
+    "3p": "lanceasen"
+  },
+  "FutSC": {
+    "1s": "lanceare",
+    "2s": "lanceares",
+    "3s": "lanceare",
+    "1p": "lanceáremos",
+    "2p": "lanceareis",
+    "3p": "lancearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lancea",
+    "3s": "lancee",
+    "1p": "lanceemos",
+    "2p": "lancead",
+    "3p": "lanceen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lancees",
+    "3s": "no lancee",
+    "1p": "no lanceemos",
+    "2p": "no lanceéis",
+    "3p": "no lanceen"
+  },
+  "Part-ter": {
+    "": "lanceado"
+  },
+  "Part-ser": {
+    "ms": "lanceado",
+    "fs": "lanceada",
+    "mp": "lanceados",
+    "fp": "lanceadas"
+  }
+}

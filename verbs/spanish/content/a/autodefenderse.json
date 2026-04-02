@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autodefenderse"
+  },
+  "Ger": {
+    "": "autodefendiéndose"
+  },
+  "PresI": {
+    "1s": "me autodefiendo",
+    "2s": "te autodefiendes",
+    "3s": "se autodefiende",
+    "1p": "nos autodefendemos",
+    "2p": "os autodefendéis",
+    "3p": "se autodefienden"
+  },
+  "PImpI": {
+    "1s": "me autodefendía",
+    "2s": "te autodefendías",
+    "3s": "se autodefendía",
+    "1p": "nos autodefendíamos",
+    "2p": "os autodefendíais",
+    "3p": "se autodefendían"
+  },
+  "PPSI": {
+    "1s": "me autodefendí",
+    "2s": "te autodefendiste",
+    "3s": "se autodefendió",
+    "1p": "nos autodefendimos",
+    "2p": "os autodefendisteis",
+    "3p": "se autodefendieron"
+  },
+  "FutSI": {
+    "1s": "me autodefenderé",
+    "2s": "te autodefenderás",
+    "3s": "se autodefenderá",
+    "1p": "nos autodefenderemos",
+    "2p": "os autodefenderéis",
+    "3p": "se autodefenderán"
+  },
+  "CondS": {
+    "1s": "me autodefendería",
+    "2s": "te autodefenderías",
+    "3s": "se autodefendería",
+    "1p": "nos autodefenderíamos",
+    "2p": "os autodefenderíais",
+    "3p": "se autodefenderían"
+  },
+  "PresC": {
+    "1s": "me autodefienda",
+    "2s": "te autodefiendas",
+    "3s": "se autodefienda",
+    "1p": "nos autodefendamos",
+    "2p": "os autodefendáis",
+    "3p": "se autodefiendan"
+  },
+  "PMQPSI": {
+    "1s": "me autodefendiera",
+    "2s": "te autodefendieras",
+    "3s": "se autodefendiera",
+    "1p": "nos autodefendiéramos",
+    "2p": "os autodefendierais",
+    "3p": "se autodefendieran"
+  },
+  "PImpC": {
+    "1s": "me autodefendiese",
+    "2s": "te autodefendieses",
+    "3s": "se autodefendiese",
+    "1p": "nos autodefendiésemos",
+    "2p": "os autodefendieseis",
+    "3p": "se autodefendiesen"
+  },
+  "FutSC": {
+    "1s": "me autodefendiere",
+    "2s": "te autodefendieres",
+    "3s": "se autodefendiere",
+    "1p": "nos autodefendiéremos",
+    "2p": "os autodefendiereis",
+    "3p": "se autodefendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autodefiéndete",
+    "3s": "autodefiéndase",
+    "1p": "autodefendámonos",
+    "2p": "autodefendeos",
+    "3p": "autodefiéndanse"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autodefiendas",
+    "3s": "no se autodefienda",
+    "1p": "no nos autodefendamos",
+    "2p": "no os autodefendáis",
+    "3p": "no se autodefiendan"
+  },
+  "Part-ter": {
+    "": "autodefendido"
+  },
+  "Part-ser": {
+    "ms": "autodefendido",
+    "fs": "autodefendida",
+    "mp": "autodefendidos",
+    "fp": "autodefendidas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reaquecer"
+  },
+  "InfP": {
+    "1s": "reaquecer",
+    "2s": "reaqueceres",
+    "3s": "reaquecer",
+    "1p": "reaquecermos",
+    "2p": "reaquecerdes",
+    "3p": "reaquecerem"
+  },
+  "Ger": {
+    "": "reaquecendo"
+  },
+  "PresI": {
+    "1s": "reaqueço",
+    "2s": "reaqueces",
+    "3s": "reaquece",
+    "1p": "reaquecemos",
+    "2p": "reaqueceis",
+    "3p": "reaquecem"
+  },
+  "PImpI": {
+    "1s": "reaquecia",
+    "2s": "reaquecias",
+    "3s": "reaquecia",
+    "1p": "reaquecíamos",
+    "2p": "reaquecíeis",
+    "3p": "reaqueciam"
+  },
+  "PPSI": {
+    "1s": "reaqueci",
+    "2s": "reaqueceste",
+    "3s": "reaqueceu",
+    "1p": "reaquecemos",
+    "2p": "reaquecestes",
+    "3p": "reaqueceram"
+  },
+  "PMQPSI": {
+    "1s": "reaquecera",
+    "2s": "reaqueceras",
+    "3s": "reaquecera",
+    "1p": "reaquecêramos",
+    "2p": "reaquecêreis",
+    "3p": "reaqueceram"
+  },
+  "FutSI": {
+    "1s": "reaquecerei",
+    "2s": "reaquecerás",
+    "3s": "reaquecerá",
+    "1p": "reaqueceremos",
+    "2p": "reaquecereis",
+    "3p": "reaquecerão"
+  },
+  "CondS": {
+    "1s": "reaqueceria",
+    "2s": "reaquecerias",
+    "3s": "reaqueceria",
+    "1p": "reaqueceríamos",
+    "2p": "reaqueceríeis",
+    "3p": "reaqueceriam"
+  },
+  "PresC": {
+    "1s": "reaqueça",
+    "2s": "reaqueças",
+    "3s": "reaqueça",
+    "1p": "reaqueçamos",
+    "2p": "reaqueçais",
+    "3p": "reaqueçam"
+  },
+  "PImpC": {
+    "1s": "reaquecesse",
+    "2s": "reaquecesses",
+    "3s": "reaquecesse",
+    "1p": "reaquecêssemos",
+    "2p": "reaquecêsseis",
+    "3p": "reaquecessem"
+  },
+  "FutSC": {
+    "1s": "reaquecer",
+    "2s": "reaqueceres",
+    "3s": "reaquecer",
+    "1p": "reaquecermos",
+    "2p": "reaquecerdes",
+    "3p": "reaquecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reaquece",
+    "3s": "reaqueça",
+    "1p": "reaqueçamos",
+    "2p": "reaquecei",
+    "3p": "reaqueçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reaqueças",
+    "3s": "não reaqueça",
+    "1p": "não reaqueçamos",
+    "2p": "não reaqueçais",
+    "3p": "não reaqueçam"
+  },
+  "Part-ter": {
+    "": "reaquecido"
+  },
+  "Part-ser": {
+    "ms": "reaquecido",
+    "fs": "reaquecida",
+    "mp": "reaquecidos",
+    "fp": "reaquecidas"
+  }
+}

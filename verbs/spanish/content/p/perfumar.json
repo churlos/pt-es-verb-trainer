@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "perfumar"
+  },
+  "Ger": {
+    "": "perfumando"
+  },
+  "PresI": {
+    "1s": "perfumo",
+    "2s": "perfumas",
+    "3s": "perfuma",
+    "1p": "perfumamos",
+    "2p": "perfumáis",
+    "3p": "perfuman"
+  },
+  "PImpI": {
+    "1s": "perfumaba",
+    "2s": "perfumabas",
+    "3s": "perfumaba",
+    "1p": "perfumábamos",
+    "2p": "perfumabais",
+    "3p": "perfumaban"
+  },
+  "PPSI": {
+    "1s": "perfumé",
+    "2s": "perfumaste",
+    "3s": "perfumó",
+    "1p": "perfumamos",
+    "2p": "perfumasteis",
+    "3p": "perfumaron"
+  },
+  "FutSI": {
+    "1s": "perfumaré",
+    "2s": "perfumarás",
+    "3s": "perfumará",
+    "1p": "perfumaremos",
+    "2p": "perfumaréis",
+    "3p": "perfumarán"
+  },
+  "CondS": {
+    "1s": "perfumaría",
+    "2s": "perfumarías",
+    "3s": "perfumaría",
+    "1p": "perfumaríamos",
+    "2p": "perfumaríais",
+    "3p": "perfumarían"
+  },
+  "PresC": {
+    "1s": "perfume",
+    "2s": "perfumes",
+    "3s": "perfume",
+    "1p": "perfumemos",
+    "2p": "perfuméis",
+    "3p": "perfumen"
+  },
+  "PMQPSI": {
+    "1s": "perfumara",
+    "2s": "perfumaras",
+    "3s": "perfumara",
+    "1p": "perfumáramos",
+    "2p": "perfumarais",
+    "3p": "perfumaran"
+  },
+  "PImpC": {
+    "1s": "perfumase",
+    "2s": "perfumases",
+    "3s": "perfumase",
+    "1p": "perfumásemos",
+    "2p": "perfumaseis",
+    "3p": "perfumasen"
+  },
+  "FutSC": {
+    "1s": "perfumare",
+    "2s": "perfumares",
+    "3s": "perfumare",
+    "1p": "perfumáremos",
+    "2p": "perfumareis",
+    "3p": "perfumaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "perfuma",
+    "3s": "perfume",
+    "1p": "perfumemos",
+    "2p": "perfumad",
+    "3p": "perfumen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no perfumes",
+    "3s": "no perfume",
+    "1p": "no perfumemos",
+    "2p": "no perfuméis",
+    "3p": "no perfumen"
+  },
+  "Part-ter": {
+    "": "perfumado"
+  },
+  "Part-ser": {
+    "ms": "perfumado",
+    "fs": "perfumada",
+    "mp": "perfumados",
+    "fp": "perfumadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "apelar"
+  },
+  "InfP": {
+    "1s": "apelar",
+    "2s": "apelares",
+    "3s": "apelar",
+    "1p": "apelarmos",
+    "2p": "apelardes",
+    "3p": "apelarem"
+  },
+  "Ger": {
+    "": "apelando"
+  },
+  "PresI": {
+    "1s": "apelo",
+    "2s": "apelas",
+    "3s": "apela",
+    "1p": "apelamos",
+    "2p": "apelais",
+    "3p": "apelam"
+  },
+  "PImpI": {
+    "1s": "apelava",
+    "2s": "apelavas",
+    "3s": "apelava",
+    "1p": "apelávamos",
+    "2p": "apeláveis",
+    "3p": "apelavam"
+  },
+  "PPSI": {
+    "1s": "apelei",
+    "2s": "apelaste",
+    "3s": "apelou",
+    "1p": "apelámos",
+    "2p": "apelastes",
+    "3p": "apelaram"
+  },
+  "PMQPSI": {
+    "1s": "apelara",
+    "2s": "apelaras",
+    "3s": "apelara",
+    "1p": "apeláramos",
+    "2p": "apeláreis",
+    "3p": "apelaram"
+  },
+  "FutSI": {
+    "1s": "apelarei",
+    "2s": "apelarás",
+    "3s": "apelará",
+    "1p": "apelaremos",
+    "2p": "apelareis",
+    "3p": "apelarão"
+  },
+  "CondS": {
+    "1s": "apelaria",
+    "2s": "apelarias",
+    "3s": "apelaria",
+    "1p": "apelaríamos",
+    "2p": "apelaríeis",
+    "3p": "apelariam"
+  },
+  "PresC": {
+    "1s": "apele",
+    "2s": "apeles",
+    "3s": "apele",
+    "1p": "apelemos",
+    "2p": "apeleis",
+    "3p": "apelem"
+  },
+  "PImpC": {
+    "1s": "apelasse",
+    "2s": "apelasses",
+    "3s": "apelasse",
+    "1p": "apelássemos",
+    "2p": "apelásseis",
+    "3p": "apelassem"
+  },
+  "FutSC": {
+    "1s": "apelar",
+    "2s": "apelares",
+    "3s": "apelar",
+    "1p": "apelarmos",
+    "2p": "apelardes",
+    "3p": "apelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "apela",
+    "3s": "apele",
+    "1p": "apelemos",
+    "2p": "apelai",
+    "3p": "apelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não apeles",
+    "3s": "não apele",
+    "1p": "não apelemos",
+    "2p": "não apeleis",
+    "3p": "não apelem"
+  },
+  "Part-ter": {
+    "": "apelado"
+  },
+  "Part-ser": {
+    "ms": "apelado",
+    "fs": "apelada",
+    "mp": "apelados",
+    "fp": "apeladas"
+  }
+}

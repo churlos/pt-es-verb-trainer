@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tensar"
+  },
+  "Ger": {
+    "": "tensando"
+  },
+  "PresI": {
+    "1s": "tenso",
+    "2s": "tensas",
+    "3s": "tensa",
+    "1p": "tensamos",
+    "2p": "tensáis",
+    "3p": "tensan"
+  },
+  "PImpI": {
+    "1s": "tensaba",
+    "2s": "tensabas",
+    "3s": "tensaba",
+    "1p": "tensábamos",
+    "2p": "tensabais",
+    "3p": "tensaban"
+  },
+  "PPSI": {
+    "1s": "tensé",
+    "2s": "tensaste",
+    "3s": "tensó",
+    "1p": "tensamos",
+    "2p": "tensasteis",
+    "3p": "tensaron"
+  },
+  "FutSI": {
+    "1s": "tensaré",
+    "2s": "tensarás",
+    "3s": "tensará",
+    "1p": "tensaremos",
+    "2p": "tensaréis",
+    "3p": "tensarán"
+  },
+  "CondS": {
+    "1s": "tensaría",
+    "2s": "tensarías",
+    "3s": "tensaría",
+    "1p": "tensaríamos",
+    "2p": "tensaríais",
+    "3p": "tensarían"
+  },
+  "PresC": {
+    "1s": "tense",
+    "2s": "tenses",
+    "3s": "tense",
+    "1p": "tensemos",
+    "2p": "tenséis",
+    "3p": "tensen"
+  },
+  "PMQPSI": {
+    "1s": "tensara",
+    "2s": "tensaras",
+    "3s": "tensara",
+    "1p": "tensáramos",
+    "2p": "tensarais",
+    "3p": "tensaran"
+  },
+  "PImpC": {
+    "1s": "tensase",
+    "2s": "tensases",
+    "3s": "tensase",
+    "1p": "tensásemos",
+    "2p": "tensaseis",
+    "3p": "tensasen"
+  },
+  "FutSC": {
+    "1s": "tensare",
+    "2s": "tensares",
+    "3s": "tensare",
+    "1p": "tensáremos",
+    "2p": "tensareis",
+    "3p": "tensaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tensa",
+    "3s": "tense",
+    "1p": "tensemos",
+    "2p": "tensad",
+    "3p": "tensen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tenses",
+    "3s": "no tense",
+    "1p": "no tensemos",
+    "2p": "no tenséis",
+    "3p": "no tensen"
+  },
+  "Part-ter": {
+    "": "tensado"
+  },
+  "Part-ser": {
+    "ms": "tensado",
+    "fs": "tensada",
+    "mp": "tensados",
+    "fp": "tensadas"
+  }
+}

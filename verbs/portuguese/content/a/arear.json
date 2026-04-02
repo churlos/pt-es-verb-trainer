@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arear"
+  },
+  "InfP": {
+    "1s": "arear",
+    "2s": "areares",
+    "3s": "arear",
+    "1p": "arearmos",
+    "2p": "areardes",
+    "3p": "arearem"
+  },
+  "Ger": {
+    "": "areando"
+  },
+  "PresI": {
+    "1s": "areio",
+    "2s": "areias",
+    "3s": "areia",
+    "1p": "areamos",
+    "2p": "areais",
+    "3p": "areiam"
+  },
+  "PImpI": {
+    "1s": "areava",
+    "2s": "areavas",
+    "3s": "areava",
+    "1p": "areávamos",
+    "2p": "areáveis",
+    "3p": "areavam"
+  },
+  "PPSI": {
+    "1s": "areei",
+    "2s": "areaste",
+    "3s": "areou",
+    "1p": "areámos",
+    "2p": "areastes",
+    "3p": "arearam"
+  },
+  "PMQPSI": {
+    "1s": "areara",
+    "2s": "arearas",
+    "3s": "areara",
+    "1p": "areáramos",
+    "2p": "areáreis",
+    "3p": "arearam"
+  },
+  "FutSI": {
+    "1s": "arearei",
+    "2s": "arearás",
+    "3s": "areará",
+    "1p": "arearemos",
+    "2p": "areareis",
+    "3p": "arearão"
+  },
+  "CondS": {
+    "1s": "arearia",
+    "2s": "arearias",
+    "3s": "arearia",
+    "1p": "arearíamos",
+    "2p": "arearíeis",
+    "3p": "areariam"
+  },
+  "PresC": {
+    "1s": "areie",
+    "2s": "areies",
+    "3s": "areie",
+    "1p": "areemos",
+    "2p": "areeis",
+    "3p": "areiem"
+  },
+  "PImpC": {
+    "1s": "areasse",
+    "2s": "areasses",
+    "3s": "areasse",
+    "1p": "areássemos",
+    "2p": "areásseis",
+    "3p": "areassem"
+  },
+  "FutSC": {
+    "1s": "arear",
+    "2s": "areares",
+    "3s": "arear",
+    "1p": "arearmos",
+    "2p": "areardes",
+    "3p": "arearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "areia",
+    "3s": "areie",
+    "1p": "areemos",
+    "2p": "areai",
+    "3p": "areiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não areies",
+    "3s": "não areie",
+    "1p": "não areemos",
+    "2p": "não areeis",
+    "3p": "não areiem"
+  },
+  "Part-ter": {
+    "": "areado"
+  },
+  "Part-ser": {
+    "ms": "areado",
+    "fs": "areada",
+    "mp": "areados",
+    "fp": "areadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "gustar"
+  },
+  "Ger": {
+    "": "gustando"
+  },
+  "PresI": {
+    "1s": "gusto",
+    "2s": "gustas",
+    "3s": "gusta",
+    "1p": "gustamos",
+    "2p": "gustáis",
+    "3p": "gustan"
+  },
+  "PImpI": {
+    "1s": "gustaba",
+    "2s": "gustabas",
+    "3s": "gustaba",
+    "1p": "gustábamos",
+    "2p": "gustabais",
+    "3p": "gustaban"
+  },
+  "PPSI": {
+    "1s": "gusté",
+    "2s": "gustaste",
+    "3s": "gustó",
+    "1p": "gustamos",
+    "2p": "gustasteis",
+    "3p": "gustaron"
+  },
+  "FutSI": {
+    "1s": "gustaré",
+    "2s": "gustarás",
+    "3s": "gustará",
+    "1p": "gustaremos",
+    "2p": "gustaréis",
+    "3p": "gustarán"
+  },
+  "CondS": {
+    "1s": "gustaría",
+    "2s": "gustarías",
+    "3s": "gustaría",
+    "1p": "gustaríamos",
+    "2p": "gustaríais",
+    "3p": "gustarían"
+  },
+  "PresC": {
+    "1s": "guste",
+    "2s": "gustes",
+    "3s": "guste",
+    "1p": "gustemos",
+    "2p": "gustéis",
+    "3p": "gusten"
+  },
+  "PMQPSI": {
+    "1s": "gustara",
+    "2s": "gustaras",
+    "3s": "gustara",
+    "1p": "gustáramos",
+    "2p": "gustarais",
+    "3p": "gustaran"
+  },
+  "PImpC": {
+    "1s": "gustase",
+    "2s": "gustases",
+    "3s": "gustase",
+    "1p": "gustásemos",
+    "2p": "gustaseis",
+    "3p": "gustasen"
+  },
+  "FutSC": {
+    "1s": "gustare",
+    "2s": "gustares",
+    "3s": "gustare",
+    "1p": "gustáremos",
+    "2p": "gustareis",
+    "3p": "gustaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "gusta",
+    "3s": "guste",
+    "1p": "gustemos",
+    "2p": "gustad",
+    "3p": "gusten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no gustes",
+    "3s": "no guste",
+    "1p": "no gustemos",
+    "2p": "no gustéis",
+    "3p": "no gusten"
+  },
+  "Part-ter": {
+    "": "gustado"
+  },
+  "Part-ser": {
+    "ms": "gustado",
+    "fs": "gustada",
+    "mp": "gustados",
+    "fp": "gustadas"
+  }
+}

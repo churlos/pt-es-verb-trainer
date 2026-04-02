@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "entregar"
+  },
+  "InfP": {
+    "1s": "entregar",
+    "2s": "entregares",
+    "3s": "entregar",
+    "1p": "entregarmos",
+    "2p": "entregardes",
+    "3p": "entregarem"
+  },
+  "Ger": {
+    "": "entregando"
+  },
+  "PresI": {
+    "1s": "entrego",
+    "2s": "entregas",
+    "3s": "entrega",
+    "1p": "entregamos",
+    "2p": "entregais",
+    "3p": "entregam"
+  },
+  "PImpI": {
+    "1s": "entregava",
+    "2s": "entregavas",
+    "3s": "entregava",
+    "1p": "entregávamos",
+    "2p": "entregáveis",
+    "3p": "entregavam"
+  },
+  "PPSI": {
+    "1s": "entreguei",
+    "2s": "entregaste",
+    "3s": "entregou",
+    "1p": "entregámos",
+    "2p": "entregastes",
+    "3p": "entregaram"
+  },
+  "PMQPSI": {
+    "1s": "entregara",
+    "2s": "entregaras",
+    "3s": "entregara",
+    "1p": "entregáramos",
+    "2p": "entregáreis",
+    "3p": "entregaram"
+  },
+  "FutSI": {
+    "1s": "entregarei",
+    "2s": "entregarás",
+    "3s": "entregará",
+    "1p": "entregaremos",
+    "2p": "entregareis",
+    "3p": "entregarão"
+  },
+  "CondS": {
+    "1s": "entregaria",
+    "2s": "entregarias",
+    "3s": "entregaria",
+    "1p": "entregaríamos",
+    "2p": "entregaríeis",
+    "3p": "entregariam"
+  },
+  "PresC": {
+    "1s": "entregue",
+    "2s": "entregues",
+    "3s": "entregue",
+    "1p": "entreguemos",
+    "2p": "entregueis",
+    "3p": "entreguem"
+  },
+  "PImpC": {
+    "1s": "entregasse",
+    "2s": "entregasses",
+    "3s": "entregasse",
+    "1p": "entregássemos",
+    "2p": "entregásseis",
+    "3p": "entregassem"
+  },
+  "FutSC": {
+    "1s": "entregar",
+    "2s": "entregares",
+    "3s": "entregar",
+    "1p": "entregarmos",
+    "2p": "entregardes",
+    "3p": "entregarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "entrega",
+    "3s": "entregue",
+    "1p": "entreguemos",
+    "2p": "entregai",
+    "3p": "entreguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não entregues",
+    "3s": "não entregue",
+    "1p": "não entreguemos",
+    "2p": "não entregueis",
+    "3p": "não entreguem"
+  },
+  "Part-ter": {
+    "": "entregado"
+  },
+  "Part-ser": {
+    "ms": "entregue",
+    "fs": "entregue",
+    "mp": "entregues",
+    "fp": "entregues"
+  }
+}

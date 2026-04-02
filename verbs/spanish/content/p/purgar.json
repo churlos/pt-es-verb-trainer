@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "purgar"
+  },
+  "Ger": {
+    "": "purgando"
+  },
+  "PresI": {
+    "1s": "purgo",
+    "2s": "purgas",
+    "3s": "purga",
+    "1p": "purgamos",
+    "2p": "purgáis",
+    "3p": "purgan"
+  },
+  "PImpI": {
+    "1s": "purgaba",
+    "2s": "purgabas",
+    "3s": "purgaba",
+    "1p": "purgábamos",
+    "2p": "purgabais",
+    "3p": "purgaban"
+  },
+  "PPSI": {
+    "1s": "purgué",
+    "2s": "purgaste",
+    "3s": "purgó",
+    "1p": "purgamos",
+    "2p": "purgasteis",
+    "3p": "purgaron"
+  },
+  "FutSI": {
+    "1s": "purgaré",
+    "2s": "purgarás",
+    "3s": "purgará",
+    "1p": "purgaremos",
+    "2p": "purgaréis",
+    "3p": "purgarán"
+  },
+  "CondS": {
+    "1s": "purgaría",
+    "2s": "purgarías",
+    "3s": "purgaría",
+    "1p": "purgaríamos",
+    "2p": "purgaríais",
+    "3p": "purgarían"
+  },
+  "PresC": {
+    "1s": "purgue",
+    "2s": "purgues",
+    "3s": "purgue",
+    "1p": "purguemos",
+    "2p": "purguéis",
+    "3p": "purguen"
+  },
+  "PMQPSI": {
+    "1s": "purgara",
+    "2s": "purgaras",
+    "3s": "purgara",
+    "1p": "purgáramos",
+    "2p": "purgarais",
+    "3p": "purgaran"
+  },
+  "PImpC": {
+    "1s": "purgase",
+    "2s": "purgases",
+    "3s": "purgase",
+    "1p": "purgásemos",
+    "2p": "purgaseis",
+    "3p": "purgasen"
+  },
+  "FutSC": {
+    "1s": "purgare",
+    "2s": "purgares",
+    "3s": "purgare",
+    "1p": "purgáremos",
+    "2p": "purgareis",
+    "3p": "purgaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "purga",
+    "3s": "purgue",
+    "1p": "purguemos",
+    "2p": "purgad",
+    "3p": "purguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no purgues",
+    "3s": "no purgue",
+    "1p": "no purguemos",
+    "2p": "no purguéis",
+    "3p": "no purguen"
+  },
+  "Part-ter": {
+    "": "purgado"
+  },
+  "Part-ser": {
+    "ms": "purgado",
+    "fs": "purgada",
+    "mp": "purgados",
+    "fp": "purgadas"
+  }
+}

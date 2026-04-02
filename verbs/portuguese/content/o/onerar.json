@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "onerar"
+  },
+  "InfP": {
+    "1s": "onerar",
+    "2s": "onerares",
+    "3s": "onerar",
+    "1p": "onerarmos",
+    "2p": "onerardes",
+    "3p": "onerarem"
+  },
+  "Ger": {
+    "": "onerando"
+  },
+  "PresI": {
+    "1s": "onero",
+    "2s": "oneras",
+    "3s": "onera",
+    "1p": "oneramos",
+    "2p": "onerais",
+    "3p": "oneram"
+  },
+  "PImpI": {
+    "1s": "onerava",
+    "2s": "oneravas",
+    "3s": "onerava",
+    "1p": "onerávamos",
+    "2p": "oneráveis",
+    "3p": "oneravam"
+  },
+  "PPSI": {
+    "1s": "onerei",
+    "2s": "oneraste",
+    "3s": "onerou",
+    "1p": "onerámos",
+    "2p": "onerastes",
+    "3p": "oneraram"
+  },
+  "PMQPSI": {
+    "1s": "onerara",
+    "2s": "oneraras",
+    "3s": "onerara",
+    "1p": "oneráramos",
+    "2p": "oneráreis",
+    "3p": "oneraram"
+  },
+  "FutSI": {
+    "1s": "onerarei",
+    "2s": "onerarás",
+    "3s": "onerará",
+    "1p": "oneraremos",
+    "2p": "onerareis",
+    "3p": "onerarão"
+  },
+  "CondS": {
+    "1s": "oneraria",
+    "2s": "onerarias",
+    "3s": "oneraria",
+    "1p": "oneraríamos",
+    "2p": "oneraríeis",
+    "3p": "onerariam"
+  },
+  "PresC": {
+    "1s": "onere",
+    "2s": "oneres",
+    "3s": "onere",
+    "1p": "oneremos",
+    "2p": "onereis",
+    "3p": "onerem"
+  },
+  "PImpC": {
+    "1s": "onerasse",
+    "2s": "onerasses",
+    "3s": "onerasse",
+    "1p": "onerássemos",
+    "2p": "onerásseis",
+    "3p": "onerassem"
+  },
+  "FutSC": {
+    "1s": "onerar",
+    "2s": "onerares",
+    "3s": "onerar",
+    "1p": "onerarmos",
+    "2p": "onerardes",
+    "3p": "onerarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "onera",
+    "3s": "onere",
+    "1p": "oneremos",
+    "2p": "onerai",
+    "3p": "onerem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não oneres",
+    "3s": "não onere",
+    "1p": "não oneremos",
+    "2p": "não onereis",
+    "3p": "não onerem"
+  },
+  "Part-ter": {
+    "": "onerado"
+  },
+  "Part-ser": {
+    "ms": "onerado",
+    "fs": "onerada",
+    "mp": "onerados",
+    "fp": "oneradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "meditar"
+  },
+  "InfP": {
+    "1s": "meditar",
+    "2s": "meditares",
+    "3s": "meditar",
+    "1p": "meditarmos",
+    "2p": "meditardes",
+    "3p": "meditarem"
+  },
+  "Ger": {
+    "": "meditando"
+  },
+  "PresI": {
+    "1s": "medito",
+    "2s": "meditas",
+    "3s": "medita",
+    "1p": "meditamos",
+    "2p": "meditais",
+    "3p": "meditam"
+  },
+  "PImpI": {
+    "1s": "meditava",
+    "2s": "meditavas",
+    "3s": "meditava",
+    "1p": "meditávamos",
+    "2p": "meditáveis",
+    "3p": "meditavam"
+  },
+  "PPSI": {
+    "1s": "meditei",
+    "2s": "meditaste",
+    "3s": "meditou",
+    "1p": "meditámos",
+    "2p": "meditastes",
+    "3p": "meditaram"
+  },
+  "PMQPSI": {
+    "1s": "meditara",
+    "2s": "meditaras",
+    "3s": "meditara",
+    "1p": "meditáramos",
+    "2p": "meditáreis",
+    "3p": "meditaram"
+  },
+  "FutSI": {
+    "1s": "meditarei",
+    "2s": "meditarás",
+    "3s": "meditará",
+    "1p": "meditaremos",
+    "2p": "meditareis",
+    "3p": "meditarão"
+  },
+  "CondS": {
+    "1s": "meditaria",
+    "2s": "meditarias",
+    "3s": "meditaria",
+    "1p": "meditaríamos",
+    "2p": "meditaríeis",
+    "3p": "meditariam"
+  },
+  "PresC": {
+    "1s": "medite",
+    "2s": "medites",
+    "3s": "medite",
+    "1p": "meditemos",
+    "2p": "mediteis",
+    "3p": "meditem"
+  },
+  "PImpC": {
+    "1s": "meditasse",
+    "2s": "meditasses",
+    "3s": "meditasse",
+    "1p": "meditássemos",
+    "2p": "meditásseis",
+    "3p": "meditassem"
+  },
+  "FutSC": {
+    "1s": "meditar",
+    "2s": "meditares",
+    "3s": "meditar",
+    "1p": "meditarmos",
+    "2p": "meditardes",
+    "3p": "meditarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "medita",
+    "3s": "medite",
+    "1p": "meditemos",
+    "2p": "meditai",
+    "3p": "meditem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não medites",
+    "3s": "não medite",
+    "1p": "não meditemos",
+    "2p": "não mediteis",
+    "3p": "não meditem"
+  },
+  "Part-ter": {
+    "": "meditado"
+  },
+  "Part-ser": {
+    "ms": "meditado",
+    "fs": "meditada",
+    "mp": "meditados",
+    "fp": "meditadas"
+  }
+}

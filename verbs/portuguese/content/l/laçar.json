@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "laçar"
+  },
+  "InfP": {
+    "1s": "laçar",
+    "2s": "laçares",
+    "3s": "laçar",
+    "1p": "laçarmos",
+    "2p": "laçardes",
+    "3p": "laçarem"
+  },
+  "Ger": {
+    "": "laçando"
+  },
+  "PresI": {
+    "1s": "laço",
+    "2s": "laças",
+    "3s": "laça",
+    "1p": "laçamos",
+    "2p": "laçais",
+    "3p": "laçam"
+  },
+  "PImpI": {
+    "1s": "laçava",
+    "2s": "laçavas",
+    "3s": "laçava",
+    "1p": "laçávamos",
+    "2p": "laçáveis",
+    "3p": "laçavam"
+  },
+  "PPSI": {
+    "1s": "lacei",
+    "2s": "laçaste",
+    "3s": "laçou",
+    "1p": "laçámos",
+    "2p": "laçastes",
+    "3p": "laçaram"
+  },
+  "PMQPSI": {
+    "1s": "laçara",
+    "2s": "laçaras",
+    "3s": "laçara",
+    "1p": "laçáramos",
+    "2p": "laçáreis",
+    "3p": "laçaram"
+  },
+  "FutSI": {
+    "1s": "laçarei",
+    "2s": "laçarás",
+    "3s": "laçará",
+    "1p": "laçaremos",
+    "2p": "laçareis",
+    "3p": "laçarão"
+  },
+  "CondS": {
+    "1s": "laçaria",
+    "2s": "laçarias",
+    "3s": "laçaria",
+    "1p": "laçaríamos",
+    "2p": "laçaríeis",
+    "3p": "laçariam"
+  },
+  "PresC": {
+    "1s": "lace",
+    "2s": "laces",
+    "3s": "lace",
+    "1p": "lacemos",
+    "2p": "laceis",
+    "3p": "lacem"
+  },
+  "PImpC": {
+    "1s": "laçasse",
+    "2s": "laçasses",
+    "3s": "laçasse",
+    "1p": "laçássemos",
+    "2p": "laçásseis",
+    "3p": "laçassem"
+  },
+  "FutSC": {
+    "1s": "laçar",
+    "2s": "laçares",
+    "3s": "laçar",
+    "1p": "laçarmos",
+    "2p": "laçardes",
+    "3p": "laçarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "laça",
+    "3s": "lace",
+    "1p": "lacemos",
+    "2p": "laçai",
+    "3p": "lacem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não laces",
+    "3s": "não lace",
+    "1p": "não lacemos",
+    "2p": "não laceis",
+    "3p": "não lacem"
+  },
+  "Part-ter": {
+    "": "laçado"
+  },
+  "Part-ser": {
+    "ms": "laçado",
+    "fs": "laçada",
+    "mp": "laçados",
+    "fp": "laçadas"
+  }
+}

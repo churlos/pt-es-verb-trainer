@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ripar"
+  },
+  "InfP": {
+    "1s": "ripar",
+    "2s": "ripares",
+    "3s": "ripar",
+    "1p": "riparmos",
+    "2p": "ripardes",
+    "3p": "riparem"
+  },
+  "Ger": {
+    "": "ripando"
+  },
+  "PresI": {
+    "1s": "ripo",
+    "2s": "ripas",
+    "3s": "ripa",
+    "1p": "ripamos",
+    "2p": "ripais",
+    "3p": "ripam"
+  },
+  "PImpI": {
+    "1s": "ripava",
+    "2s": "ripavas",
+    "3s": "ripava",
+    "1p": "ripávamos",
+    "2p": "ripáveis",
+    "3p": "ripavam"
+  },
+  "PPSI": {
+    "1s": "ripei",
+    "2s": "ripaste",
+    "3s": "ripou",
+    "1p": "ripámos",
+    "2p": "ripastes",
+    "3p": "riparam"
+  },
+  "PMQPSI": {
+    "1s": "ripara",
+    "2s": "riparas",
+    "3s": "ripara",
+    "1p": "ripáramos",
+    "2p": "ripáreis",
+    "3p": "riparam"
+  },
+  "FutSI": {
+    "1s": "riparei",
+    "2s": "riparás",
+    "3s": "ripará",
+    "1p": "riparemos",
+    "2p": "ripareis",
+    "3p": "riparão"
+  },
+  "CondS": {
+    "1s": "riparia",
+    "2s": "riparias",
+    "3s": "riparia",
+    "1p": "riparíamos",
+    "2p": "riparíeis",
+    "3p": "ripariam"
+  },
+  "PresC": {
+    "1s": "ripe",
+    "2s": "ripes",
+    "3s": "ripe",
+    "1p": "ripemos",
+    "2p": "ripeis",
+    "3p": "ripem"
+  },
+  "PImpC": {
+    "1s": "ripasse",
+    "2s": "ripasses",
+    "3s": "ripasse",
+    "1p": "ripássemos",
+    "2p": "ripásseis",
+    "3p": "ripassem"
+  },
+  "FutSC": {
+    "1s": "ripar",
+    "2s": "ripares",
+    "3s": "ripar",
+    "1p": "riparmos",
+    "2p": "ripardes",
+    "3p": "riparem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ripa",
+    "3s": "ripe",
+    "1p": "ripemos",
+    "2p": "ripai",
+    "3p": "ripem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ripes",
+    "3s": "não ripe",
+    "1p": "não ripemos",
+    "2p": "não ripeis",
+    "3p": "não ripem"
+  },
+  "Part-ter": {
+    "": "ripado"
+  },
+  "Part-ser": {
+    "ms": "ripado",
+    "fs": "ripada",
+    "mp": "ripados",
+    "fp": "ripadas"
+  }
+}

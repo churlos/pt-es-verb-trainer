@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "refrescar"
+  },
+  "InfP": {
+    "1s": "refrescar",
+    "2s": "refrescares",
+    "3s": "refrescar",
+    "1p": "refrescarmos",
+    "2p": "refrescardes",
+    "3p": "refrescarem"
+  },
+  "Ger": {
+    "": "refrescando"
+  },
+  "PresI": {
+    "1s": "refresco",
+    "2s": "refrescas",
+    "3s": "refresca",
+    "1p": "refrescamos",
+    "2p": "refrescais",
+    "3p": "refrescam"
+  },
+  "PImpI": {
+    "1s": "refrescava",
+    "2s": "refrescavas",
+    "3s": "refrescava",
+    "1p": "refrescávamos",
+    "2p": "refrescáveis",
+    "3p": "refrescavam"
+  },
+  "PPSI": {
+    "1s": "refresquei",
+    "2s": "refrescaste",
+    "3s": "refrescou",
+    "1p": "refrescámos",
+    "2p": "refrescastes",
+    "3p": "refrescaram"
+  },
+  "PMQPSI": {
+    "1s": "refrescara",
+    "2s": "refrescaras",
+    "3s": "refrescara",
+    "1p": "refrescáramos",
+    "2p": "refrescáreis",
+    "3p": "refrescaram"
+  },
+  "FutSI": {
+    "1s": "refrescarei",
+    "2s": "refrescarás",
+    "3s": "refrescará",
+    "1p": "refrescaremos",
+    "2p": "refrescareis",
+    "3p": "refrescarão"
+  },
+  "CondS": {
+    "1s": "refrescaria",
+    "2s": "refrescarias",
+    "3s": "refrescaria",
+    "1p": "refrescaríamos",
+    "2p": "refrescaríeis",
+    "3p": "refrescariam"
+  },
+  "PresC": {
+    "1s": "refresque",
+    "2s": "refresques",
+    "3s": "refresque",
+    "1p": "refresquemos",
+    "2p": "refresqueis",
+    "3p": "refresquem"
+  },
+  "PImpC": {
+    "1s": "refrescasse",
+    "2s": "refrescasses",
+    "3s": "refrescasse",
+    "1p": "refrescássemos",
+    "2p": "refrescásseis",
+    "3p": "refrescassem"
+  },
+  "FutSC": {
+    "1s": "refrescar",
+    "2s": "refrescares",
+    "3s": "refrescar",
+    "1p": "refrescarmos",
+    "2p": "refrescardes",
+    "3p": "refrescarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "refresca",
+    "3s": "refresque",
+    "1p": "refresquemos",
+    "2p": "refrescai",
+    "3p": "refresquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não refresques",
+    "3s": "não refresque",
+    "1p": "não refresquemos",
+    "2p": "não refresqueis",
+    "3p": "não refresquem"
+  },
+  "Part-ter": {
+    "": "refrescado"
+  },
+  "Part-ser": {
+    "ms": "refrescado",
+    "fs": "refrescada",
+    "mp": "refrescados",
+    "fp": "refrescadas"
+  }
+}

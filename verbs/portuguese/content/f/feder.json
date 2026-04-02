@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "feder"
+  },
+  "InfP": {
+    "1s": "feder",
+    "2s": "federes",
+    "3s": "feder",
+    "1p": "federmos",
+    "2p": "federdes",
+    "3p": "federem"
+  },
+  "Ger": {
+    "": "fedendo"
+  },
+  "PresI": {
+    "1s": "fedo",
+    "2s": "fedes",
+    "3s": "fede",
+    "1p": "fedemos",
+    "2p": "fedeis",
+    "3p": "fedem"
+  },
+  "PImpI": {
+    "1s": "fedia",
+    "2s": "fedias",
+    "3s": "fedia",
+    "1p": "fedíamos",
+    "2p": "fedíeis",
+    "3p": "fediam"
+  },
+  "PPSI": {
+    "1s": "fedi",
+    "2s": "fedeste",
+    "3s": "fedeu",
+    "1p": "fedemos",
+    "2p": "fedestes",
+    "3p": "federam"
+  },
+  "PMQPSI": {
+    "1s": "federa",
+    "2s": "federas",
+    "3s": "federa",
+    "1p": "fedêramos",
+    "2p": "fedêreis",
+    "3p": "federam"
+  },
+  "FutSI": {
+    "1s": "federei",
+    "2s": "federás",
+    "3s": "federá",
+    "1p": "federemos",
+    "2p": "federeis",
+    "3p": "federão"
+  },
+  "CondS": {
+    "1s": "federia",
+    "2s": "federias",
+    "3s": "federia",
+    "1p": "federíamos",
+    "2p": "federíeis",
+    "3p": "federiam"
+  },
+  "PresC": {
+    "1s": "feda",
+    "2s": "fedas",
+    "3s": "feda",
+    "1p": "fedamos",
+    "2p": "fedais",
+    "3p": "fedam"
+  },
+  "PImpC": {
+    "1s": "fedesse",
+    "2s": "fedesses",
+    "3s": "fedesse",
+    "1p": "fedêssemos",
+    "2p": "fedêsseis",
+    "3p": "fedessem"
+  },
+  "FutSC": {
+    "1s": "feder",
+    "2s": "federes",
+    "3s": "feder",
+    "1p": "federmos",
+    "2p": "federdes",
+    "3p": "federem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fede",
+    "3s": "feda",
+    "1p": "fedamos",
+    "2p": "fedei",
+    "3p": "fedam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fedas",
+    "3s": "não feda",
+    "1p": "não fedamos",
+    "2p": "não fedais",
+    "3p": "não fedam"
+  },
+  "Part-ter": {
+    "": "fedido"
+  },
+  "Part-ser": {
+    "ms": "fedido",
+    "fs": "fedida",
+    "mp": "fedidos",
+    "fp": "fedidas"
+  }
+}

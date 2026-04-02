@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "empalmar"
+  },
+  "Ger": {
+    "": "empalmando"
+  },
+  "PresI": {
+    "1s": "empalmo",
+    "2s": "empalmas",
+    "3s": "empalma",
+    "1p": "empalmamos",
+    "2p": "empalmáis",
+    "3p": "empalman"
+  },
+  "PImpI": {
+    "1s": "empalmaba",
+    "2s": "empalmabas",
+    "3s": "empalmaba",
+    "1p": "empalmábamos",
+    "2p": "empalmabais",
+    "3p": "empalmaban"
+  },
+  "PPSI": {
+    "1s": "empalmé",
+    "2s": "empalmaste",
+    "3s": "empalmó",
+    "1p": "empalmamos",
+    "2p": "empalmasteis",
+    "3p": "empalmaron"
+  },
+  "FutSI": {
+    "1s": "empalmaré",
+    "2s": "empalmarás",
+    "3s": "empalmará",
+    "1p": "empalmaremos",
+    "2p": "empalmaréis",
+    "3p": "empalmarán"
+  },
+  "CondS": {
+    "1s": "empalmaría",
+    "2s": "empalmarías",
+    "3s": "empalmaría",
+    "1p": "empalmaríamos",
+    "2p": "empalmaríais",
+    "3p": "empalmarían"
+  },
+  "PresC": {
+    "1s": "empalme",
+    "2s": "empalmes",
+    "3s": "empalme",
+    "1p": "empalmemos",
+    "2p": "empalméis",
+    "3p": "empalmen"
+  },
+  "PMQPSI": {
+    "1s": "empalmara",
+    "2s": "empalmaras",
+    "3s": "empalmara",
+    "1p": "empalmáramos",
+    "2p": "empalmarais",
+    "3p": "empalmaran"
+  },
+  "PImpC": {
+    "1s": "empalmase",
+    "2s": "empalmases",
+    "3s": "empalmase",
+    "1p": "empalmásemos",
+    "2p": "empalmaseis",
+    "3p": "empalmasen"
+  },
+  "FutSC": {
+    "1s": "empalmare",
+    "2s": "empalmares",
+    "3s": "empalmare",
+    "1p": "empalmáremos",
+    "2p": "empalmareis",
+    "3p": "empalmaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empalma",
+    "3s": "empalme",
+    "1p": "empalmemos",
+    "2p": "empalmad",
+    "3p": "empalmen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no empalmes",
+    "3s": "no empalme",
+    "1p": "no empalmemos",
+    "2p": "no empalméis",
+    "3p": "no empalmen"
+  },
+  "Part-ter": {
+    "": "empalmado"
+  },
+  "Part-ser": {
+    "ms": "empalmado",
+    "fs": "empalmada",
+    "mp": "empalmados",
+    "fp": "empalmadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ater"
+  },
+  "InfP": {
+    "1s": "ater",
+    "2s": "ateres",
+    "3s": "ater",
+    "1p": "atermos",
+    "2p": "aterdes",
+    "3p": "aterem"
+  },
+  "Ger": {
+    "": "atendo"
+  },
+  "PresI": {
+    "1s": "atenho",
+    "2s": "aténs",
+    "3s": "atém",
+    "1p": "atemos",
+    "2p": "atendes",
+    "3p": "atêm"
+  },
+  "PImpI": {
+    "1s": "atinha",
+    "2s": "atinhas",
+    "3s": "atinha",
+    "1p": "atínhamos",
+    "2p": "atínheis",
+    "3p": "atinham"
+  },
+  "PPSI": {
+    "1s": "ative",
+    "2s": "ativeste",
+    "3s": "ateve",
+    "1p": "ativemos",
+    "2p": "ativestes",
+    "3p": "ativeram"
+  },
+  "PMQPSI": {
+    "1s": "ativera",
+    "2s": "ativeras",
+    "3s": "ativera",
+    "1p": "ativéramos",
+    "2p": "ativéreis",
+    "3p": "ativeram"
+  },
+  "FutSI": {
+    "1s": "aterei",
+    "2s": "aterás",
+    "3s": "aterá",
+    "1p": "ateremos",
+    "2p": "atereis",
+    "3p": "aterão"
+  },
+  "CondS": {
+    "1s": "ateria",
+    "2s": "aterias",
+    "3s": "ateria",
+    "1p": "ateríamos",
+    "2p": "ateríeis",
+    "3p": "ateriam"
+  },
+  "PresC": {
+    "1s": "atenha",
+    "2s": "atenhas",
+    "3s": "atenha",
+    "1p": "atenhamos",
+    "2p": "atenhais",
+    "3p": "atenham"
+  },
+  "PImpC": {
+    "1s": "ativesse",
+    "2s": "ativesses",
+    "3s": "ativesse",
+    "1p": "ativéssemos",
+    "2p": "ativésseis",
+    "3p": "ativessem"
+  },
+  "FutSC": {
+    "1s": "ativer",
+    "2s": "ativeres",
+    "3s": "ativer",
+    "1p": "ativermos",
+    "2p": "ativerdes",
+    "3p": "ativerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atém",
+    "3s": "atenha",
+    "1p": "atenhamos",
+    "2p": "atende",
+    "3p": "atenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não atenhas",
+    "3s": "não atenha",
+    "1p": "não atenhamos",
+    "2p": "não atenhais",
+    "3p": "não atenham"
+  },
+  "Part-ter": {
+    "": "atido"
+  },
+  "Part-ser": {
+    "ms": "atido",
+    "fs": "atida",
+    "mp": "atidos",
+    "fp": "atidas"
+  }
+}

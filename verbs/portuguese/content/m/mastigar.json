@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mastigar"
+  },
+  "InfP": {
+    "1s": "mastigar",
+    "2s": "mastigares",
+    "3s": "mastigar",
+    "1p": "mastigarmos",
+    "2p": "mastigardes",
+    "3p": "mastigarem"
+  },
+  "Ger": {
+    "": "mastigando"
+  },
+  "PresI": {
+    "1s": "mastigo",
+    "2s": "mastigas",
+    "3s": "mastiga",
+    "1p": "mastigamos",
+    "2p": "mastigais",
+    "3p": "mastigam"
+  },
+  "PImpI": {
+    "1s": "mastigava",
+    "2s": "mastigavas",
+    "3s": "mastigava",
+    "1p": "mastigávamos",
+    "2p": "mastigáveis",
+    "3p": "mastigavam"
+  },
+  "PPSI": {
+    "1s": "mastiguei",
+    "2s": "mastigaste",
+    "3s": "mastigou",
+    "1p": "mastigámos",
+    "2p": "mastigastes",
+    "3p": "mastigaram"
+  },
+  "PMQPSI": {
+    "1s": "mastigara",
+    "2s": "mastigaras",
+    "3s": "mastigara",
+    "1p": "mastigáramos",
+    "2p": "mastigáreis",
+    "3p": "mastigaram"
+  },
+  "FutSI": {
+    "1s": "mastigarei",
+    "2s": "mastigarás",
+    "3s": "mastigará",
+    "1p": "mastigaremos",
+    "2p": "mastigareis",
+    "3p": "mastigarão"
+  },
+  "CondS": {
+    "1s": "mastigaria",
+    "2s": "mastigarias",
+    "3s": "mastigaria",
+    "1p": "mastigaríamos",
+    "2p": "mastigaríeis",
+    "3p": "mastigariam"
+  },
+  "PresC": {
+    "1s": "mastigue",
+    "2s": "mastigues",
+    "3s": "mastigue",
+    "1p": "mastiguemos",
+    "2p": "mastigueis",
+    "3p": "mastiguem"
+  },
+  "PImpC": {
+    "1s": "mastigasse",
+    "2s": "mastigasses",
+    "3s": "mastigasse",
+    "1p": "mastigássemos",
+    "2p": "mastigásseis",
+    "3p": "mastigassem"
+  },
+  "FutSC": {
+    "1s": "mastigar",
+    "2s": "mastigares",
+    "3s": "mastigar",
+    "1p": "mastigarmos",
+    "2p": "mastigardes",
+    "3p": "mastigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mastiga",
+    "3s": "mastigue",
+    "1p": "mastiguemos",
+    "2p": "mastigai",
+    "3p": "mastiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mastigues",
+    "3s": "não mastigue",
+    "1p": "não mastiguemos",
+    "2p": "não mastigueis",
+    "3p": "não mastiguem"
+  },
+  "Part-ter": {
+    "": "mastigado"
+  },
+  "Part-ser": {
+    "ms": "mastigado",
+    "fs": "mastigada",
+    "mp": "mastigados",
+    "fp": "mastigadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "filtrar"
+  },
+  "InfP": {
+    "1s": "filtrar",
+    "2s": "filtrares",
+    "3s": "filtrar",
+    "1p": "filtrarmos",
+    "2p": "filtrardes",
+    "3p": "filtrarem"
+  },
+  "Ger": {
+    "": "filtrando"
+  },
+  "PresI": {
+    "1s": "filtro",
+    "2s": "filtras",
+    "3s": "filtra",
+    "1p": "filtramos",
+    "2p": "filtrais",
+    "3p": "filtram"
+  },
+  "PImpI": {
+    "1s": "filtrava",
+    "2s": "filtravas",
+    "3s": "filtrava",
+    "1p": "filtrávamos",
+    "2p": "filtráveis",
+    "3p": "filtravam"
+  },
+  "PPSI": {
+    "1s": "filtrei",
+    "2s": "filtraste",
+    "3s": "filtrou",
+    "1p": "filtrámos",
+    "2p": "filtrastes",
+    "3p": "filtraram"
+  },
+  "PMQPSI": {
+    "1s": "filtrara",
+    "2s": "filtraras",
+    "3s": "filtrara",
+    "1p": "filtráramos",
+    "2p": "filtráreis",
+    "3p": "filtraram"
+  },
+  "FutSI": {
+    "1s": "filtrarei",
+    "2s": "filtrarás",
+    "3s": "filtrará",
+    "1p": "filtraremos",
+    "2p": "filtrareis",
+    "3p": "filtrarão"
+  },
+  "CondS": {
+    "1s": "filtraria",
+    "2s": "filtrarias",
+    "3s": "filtraria",
+    "1p": "filtraríamos",
+    "2p": "filtraríeis",
+    "3p": "filtrariam"
+  },
+  "PresC": {
+    "1s": "filtre",
+    "2s": "filtres",
+    "3s": "filtre",
+    "1p": "filtremos",
+    "2p": "filtreis",
+    "3p": "filtrem"
+  },
+  "PImpC": {
+    "1s": "filtrasse",
+    "2s": "filtrasses",
+    "3s": "filtrasse",
+    "1p": "filtrássemos",
+    "2p": "filtrásseis",
+    "3p": "filtrassem"
+  },
+  "FutSC": {
+    "1s": "filtrar",
+    "2s": "filtrares",
+    "3s": "filtrar",
+    "1p": "filtrarmos",
+    "2p": "filtrardes",
+    "3p": "filtrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "filtra",
+    "3s": "filtre",
+    "1p": "filtremos",
+    "2p": "filtrai",
+    "3p": "filtrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não filtres",
+    "3s": "não filtre",
+    "1p": "não filtremos",
+    "2p": "não filtreis",
+    "3p": "não filtrem"
+  },
+  "Part-ter": {
+    "": "filtrado"
+  },
+  "Part-ser": {
+    "ms": "filtrado",
+    "fs": "filtrada",
+    "mp": "filtrados",
+    "fp": "filtradas"
+  }
+}

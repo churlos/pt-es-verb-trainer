@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pelar"
+  },
+  "InfP": {
+    "1s": "pelar",
+    "2s": "pelares",
+    "3s": "pelar",
+    "1p": "pelarmos",
+    "2p": "pelardes",
+    "3p": "pelarem"
+  },
+  "Ger": {
+    "": "pelando"
+  },
+  "PresI": {
+    "1s": "pelo",
+    "2s": "pelas",
+    "3s": "pela",
+    "1p": "pelamos",
+    "2p": "pelais",
+    "3p": "pelam"
+  },
+  "PImpI": {
+    "1s": "pelava",
+    "2s": "pelavas",
+    "3s": "pelava",
+    "1p": "pelávamos",
+    "2p": "peláveis",
+    "3p": "pelavam"
+  },
+  "PPSI": {
+    "1s": "pelei",
+    "2s": "pelaste",
+    "3s": "pelou",
+    "1p": "pelámos",
+    "2p": "pelastes",
+    "3p": "pelaram"
+  },
+  "PMQPSI": {
+    "1s": "pelara",
+    "2s": "pelaras",
+    "3s": "pelara",
+    "1p": "peláramos",
+    "2p": "peláreis",
+    "3p": "pelaram"
+  },
+  "FutSI": {
+    "1s": "pelarei",
+    "2s": "pelarás",
+    "3s": "pelará",
+    "1p": "pelaremos",
+    "2p": "pelareis",
+    "3p": "pelarão"
+  },
+  "CondS": {
+    "1s": "pelaria",
+    "2s": "pelarias",
+    "3s": "pelaria",
+    "1p": "pelaríamos",
+    "2p": "pelaríeis",
+    "3p": "pelariam"
+  },
+  "PresC": {
+    "1s": "pele",
+    "2s": "peles",
+    "3s": "pele",
+    "1p": "pelemos",
+    "2p": "peleis",
+    "3p": "pelem"
+  },
+  "PImpC": {
+    "1s": "pelasse",
+    "2s": "pelasses",
+    "3s": "pelasse",
+    "1p": "pelássemos",
+    "2p": "pelásseis",
+    "3p": "pelassem"
+  },
+  "FutSC": {
+    "1s": "pelar",
+    "2s": "pelares",
+    "3s": "pelar",
+    "1p": "pelarmos",
+    "2p": "pelardes",
+    "3p": "pelarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pela",
+    "3s": "pele",
+    "1p": "pelemos",
+    "2p": "pelai",
+    "3p": "pelem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não peles",
+    "3s": "não pele",
+    "1p": "não pelemos",
+    "2p": "não peleis",
+    "3p": "não pelem"
+  },
+  "Part-ter": {
+    "": "pelado"
+  },
+  "Part-ser": {
+    "ms": "pelado",
+    "fs": "pelada",
+    "mp": "pelados",
+    "fp": "peladas"
+  }
+}

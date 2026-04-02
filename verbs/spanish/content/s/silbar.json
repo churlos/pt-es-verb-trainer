@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "silbar"
+  },
+  "Ger": {
+    "": "silbando"
+  },
+  "PresI": {
+    "1s": "silbo",
+    "2s": "silbas",
+    "3s": "silba",
+    "1p": "silbamos",
+    "2p": "silbáis",
+    "3p": "silban"
+  },
+  "PImpI": {
+    "1s": "silbaba",
+    "2s": "silbabas",
+    "3s": "silbaba",
+    "1p": "silbábamos",
+    "2p": "silbabais",
+    "3p": "silbaban"
+  },
+  "PPSI": {
+    "1s": "silbé",
+    "2s": "silbaste",
+    "3s": "silbó",
+    "1p": "silbamos",
+    "2p": "silbasteis",
+    "3p": "silbaron"
+  },
+  "FutSI": {
+    "1s": "silbaré",
+    "2s": "silbarás",
+    "3s": "silbará",
+    "1p": "silbaremos",
+    "2p": "silbaréis",
+    "3p": "silbarán"
+  },
+  "CondS": {
+    "1s": "silbaría",
+    "2s": "silbarías",
+    "3s": "silbaría",
+    "1p": "silbaríamos",
+    "2p": "silbaríais",
+    "3p": "silbarían"
+  },
+  "PresC": {
+    "1s": "silbe",
+    "2s": "silbes",
+    "3s": "silbe",
+    "1p": "silbemos",
+    "2p": "silbéis",
+    "3p": "silben"
+  },
+  "PMQPSI": {
+    "1s": "silbara",
+    "2s": "silbaras",
+    "3s": "silbara",
+    "1p": "silbáramos",
+    "2p": "silbarais",
+    "3p": "silbaran"
+  },
+  "PImpC": {
+    "1s": "silbase",
+    "2s": "silbases",
+    "3s": "silbase",
+    "1p": "silbásemos",
+    "2p": "silbaseis",
+    "3p": "silbasen"
+  },
+  "FutSC": {
+    "1s": "silbare",
+    "2s": "silbares",
+    "3s": "silbare",
+    "1p": "silbáremos",
+    "2p": "silbareis",
+    "3p": "silbaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "silba",
+    "3s": "silbe",
+    "1p": "silbemos",
+    "2p": "silbad",
+    "3p": "silben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no silbes",
+    "3s": "no silbe",
+    "1p": "no silbemos",
+    "2p": "no silbéis",
+    "3p": "no silben"
+  },
+  "Part-ter": {
+    "": "silbado"
+  },
+  "Part-ser": {
+    "ms": "silbado",
+    "fs": "silbada",
+    "mp": "silbados",
+    "fp": "silbadas"
+  }
+}

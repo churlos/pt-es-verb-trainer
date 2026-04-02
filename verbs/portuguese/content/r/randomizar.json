@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "randomizar"
+  },
+  "InfP": {
+    "1s": "randomizar",
+    "2s": "randomizares",
+    "3s": "randomizar",
+    "1p": "randomizarmos",
+    "2p": "randomizardes",
+    "3p": "randomizarem"
+  },
+  "Ger": {
+    "": "randomizando"
+  },
+  "PresI": {
+    "1s": "randomizo",
+    "2s": "randomizas",
+    "3s": "randomiza",
+    "1p": "randomizamos",
+    "2p": "randomizais",
+    "3p": "randomizam"
+  },
+  "PImpI": {
+    "1s": "randomizava",
+    "2s": "randomizavas",
+    "3s": "randomizava",
+    "1p": "randomizávamos",
+    "2p": "randomizáveis",
+    "3p": "randomizavam"
+  },
+  "PPSI": {
+    "1s": "randomizei",
+    "2s": "randomizaste",
+    "3s": "randomizou",
+    "1p": "randomizámos",
+    "2p": "randomizastes",
+    "3p": "randomizaram"
+  },
+  "PMQPSI": {
+    "1s": "randomizara",
+    "2s": "randomizaras",
+    "3s": "randomizara",
+    "1p": "randomizáramos",
+    "2p": "randomizáreis",
+    "3p": "randomizaram"
+  },
+  "FutSI": {
+    "1s": "randomizarei",
+    "2s": "randomizarás",
+    "3s": "randomizará",
+    "1p": "randomizaremos",
+    "2p": "randomizareis",
+    "3p": "randomizarão"
+  },
+  "CondS": {
+    "1s": "randomizaria",
+    "2s": "randomizarias",
+    "3s": "randomizaria",
+    "1p": "randomizaríamos",
+    "2p": "randomizaríeis",
+    "3p": "randomizariam"
+  },
+  "PresC": {
+    "1s": "randomize",
+    "2s": "randomizes",
+    "3s": "randomize",
+    "1p": "randomizemos",
+    "2p": "randomizeis",
+    "3p": "randomizem"
+  },
+  "PImpC": {
+    "1s": "randomizasse",
+    "2s": "randomizasses",
+    "3s": "randomizasse",
+    "1p": "randomizássemos",
+    "2p": "randomizásseis",
+    "3p": "randomizassem"
+  },
+  "FutSC": {
+    "1s": "randomizar",
+    "2s": "randomizares",
+    "3s": "randomizar",
+    "1p": "randomizarmos",
+    "2p": "randomizardes",
+    "3p": "randomizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "randomiza",
+    "3s": "randomize",
+    "1p": "randomizemos",
+    "2p": "randomizai",
+    "3p": "randomizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não randomizes",
+    "3s": "não randomize",
+    "1p": "não randomizemos",
+    "2p": "não randomizeis",
+    "3p": "não randomizem"
+  },
+  "Part-ter": {
+    "": "randomizado"
+  },
+  "Part-ser": {
+    "ms": "randomizado",
+    "fs": "randomizada",
+    "mp": "randomizados",
+    "fp": "randomizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "tamizar"
+  },
+  "Ger": {
+    "": "tamizando"
+  },
+  "PresI": {
+    "1s": "tamizo",
+    "2s": "tamizas",
+    "3s": "tamiza",
+    "1p": "tamizamos",
+    "2p": "tamizáis",
+    "3p": "tamizan"
+  },
+  "PImpI": {
+    "1s": "tamizaba",
+    "2s": "tamizabas",
+    "3s": "tamizaba",
+    "1p": "tamizábamos",
+    "2p": "tamizabais",
+    "3p": "tamizaban"
+  },
+  "PPSI": {
+    "1s": "tamicé",
+    "2s": "tamizaste",
+    "3s": "tamizó",
+    "1p": "tamizamos",
+    "2p": "tamizasteis",
+    "3p": "tamizaron"
+  },
+  "FutSI": {
+    "1s": "tamizaré",
+    "2s": "tamizarás",
+    "3s": "tamizará",
+    "1p": "tamizaremos",
+    "2p": "tamizaréis",
+    "3p": "tamizarán"
+  },
+  "CondS": {
+    "1s": "tamizaría",
+    "2s": "tamizarías",
+    "3s": "tamizaría",
+    "1p": "tamizaríamos",
+    "2p": "tamizaríais",
+    "3p": "tamizarían"
+  },
+  "PresC": {
+    "1s": "tamice",
+    "2s": "tamices",
+    "3s": "tamice",
+    "1p": "tamicemos",
+    "2p": "tamicéis",
+    "3p": "tamicen"
+  },
+  "PMQPSI": {
+    "1s": "tamizara",
+    "2s": "tamizaras",
+    "3s": "tamizara",
+    "1p": "tamizáramos",
+    "2p": "tamizarais",
+    "3p": "tamizaran"
+  },
+  "PImpC": {
+    "1s": "tamizase",
+    "2s": "tamizases",
+    "3s": "tamizase",
+    "1p": "tamizásemos",
+    "2p": "tamizaseis",
+    "3p": "tamizasen"
+  },
+  "FutSC": {
+    "1s": "tamizare",
+    "2s": "tamizares",
+    "3s": "tamizare",
+    "1p": "tamizáremos",
+    "2p": "tamizareis",
+    "3p": "tamizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "tamiza",
+    "3s": "tamice",
+    "1p": "tamicemos",
+    "2p": "tamizad",
+    "3p": "tamicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no tamices",
+    "3s": "no tamice",
+    "1p": "no tamicemos",
+    "2p": "no tamicéis",
+    "3p": "no tamicen"
+  },
+  "Part-ter": {
+    "": "tamizado"
+  },
+  "Part-ser": {
+    "ms": "tamizado",
+    "fs": "tamizada",
+    "mp": "tamizados",
+    "fp": "tamizadas"
+  }
+}

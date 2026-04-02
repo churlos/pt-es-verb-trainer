@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "reiniciar"
+  },
+  "InfP": {
+    "1s": "reiniciar",
+    "2s": "reiniciares",
+    "3s": "reiniciar",
+    "1p": "reiniciarmos",
+    "2p": "reiniciardes",
+    "3p": "reiniciarem"
+  },
+  "Ger": {
+    "": "reiniciando"
+  },
+  "PresI": {
+    "1s": "reinicio",
+    "2s": "reinicias",
+    "3s": "reinicia",
+    "1p": "reiniciamos",
+    "2p": "reiniciais",
+    "3p": "reiniciam"
+  },
+  "PImpI": {
+    "1s": "reiniciava",
+    "2s": "reiniciavas",
+    "3s": "reiniciava",
+    "1p": "reiniciávamos",
+    "2p": "reiniciáveis",
+    "3p": "reiniciavam"
+  },
+  "PPSI": {
+    "1s": "reiniciei",
+    "2s": "reiniciaste",
+    "3s": "reiniciou",
+    "1p": "reiniciámos",
+    "2p": "reiniciastes",
+    "3p": "reiniciaram"
+  },
+  "PMQPSI": {
+    "1s": "reiniciara",
+    "2s": "reiniciaras",
+    "3s": "reiniciara",
+    "1p": "reiniciáramos",
+    "2p": "reiniciáreis",
+    "3p": "reiniciaram"
+  },
+  "FutSI": {
+    "1s": "reiniciarei",
+    "2s": "reiniciarás",
+    "3s": "reiniciará",
+    "1p": "reiniciaremos",
+    "2p": "reiniciareis",
+    "3p": "reiniciarão"
+  },
+  "CondS": {
+    "1s": "reiniciaria",
+    "2s": "reiniciarias",
+    "3s": "reiniciaria",
+    "1p": "reiniciaríamos",
+    "2p": "reiniciaríeis",
+    "3p": "reiniciariam"
+  },
+  "PresC": {
+    "1s": "reinicie",
+    "2s": "reinicies",
+    "3s": "reinicie",
+    "1p": "reiniciemos",
+    "2p": "reinicieis",
+    "3p": "reiniciem"
+  },
+  "PImpC": {
+    "1s": "reiniciasse",
+    "2s": "reiniciasses",
+    "3s": "reiniciasse",
+    "1p": "reiniciássemos",
+    "2p": "reiniciásseis",
+    "3p": "reiniciassem"
+  },
+  "FutSC": {
+    "1s": "reiniciar",
+    "2s": "reiniciares",
+    "3s": "reiniciar",
+    "1p": "reiniciarmos",
+    "2p": "reiniciardes",
+    "3p": "reiniciarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reinicia",
+    "3s": "reinicie",
+    "1p": "reiniciemos",
+    "2p": "reiniciai",
+    "3p": "reiniciem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não reinicies",
+    "3s": "não reinicie",
+    "1p": "não reiniciemos",
+    "2p": "não reinicieis",
+    "3p": "não reiniciem"
+  },
+  "Part-ter": {
+    "": "reiniciado"
+  },
+  "Part-ser": {
+    "ms": "reiniciado",
+    "fs": "reiniciada",
+    "mp": "reiniciados",
+    "fp": "reiniciadas"
+  }
+}

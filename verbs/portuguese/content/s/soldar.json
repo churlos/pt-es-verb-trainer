@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "soldar"
+  },
+  "InfP": {
+    "1s": "soldar",
+    "2s": "soldares",
+    "3s": "soldar",
+    "1p": "soldarmos",
+    "2p": "soldardes",
+    "3p": "soldarem"
+  },
+  "Ger": {
+    "": "soldando"
+  },
+  "PresI": {
+    "1s": "soldo",
+    "2s": "soldas",
+    "3s": "solda",
+    "1p": "soldamos",
+    "2p": "soldais",
+    "3p": "soldam"
+  },
+  "PImpI": {
+    "1s": "soldava",
+    "2s": "soldavas",
+    "3s": "soldava",
+    "1p": "soldávamos",
+    "2p": "soldáveis",
+    "3p": "soldavam"
+  },
+  "PPSI": {
+    "1s": "soldei",
+    "2s": "soldaste",
+    "3s": "soldou",
+    "1p": "soldámos",
+    "2p": "soldastes",
+    "3p": "soldaram"
+  },
+  "PMQPSI": {
+    "1s": "soldara",
+    "2s": "soldaras",
+    "3s": "soldara",
+    "1p": "soldáramos",
+    "2p": "soldáreis",
+    "3p": "soldaram"
+  },
+  "FutSI": {
+    "1s": "soldarei",
+    "2s": "soldarás",
+    "3s": "soldará",
+    "1p": "soldaremos",
+    "2p": "soldareis",
+    "3p": "soldarão"
+  },
+  "CondS": {
+    "1s": "soldaria",
+    "2s": "soldarias",
+    "3s": "soldaria",
+    "1p": "soldaríamos",
+    "2p": "soldaríeis",
+    "3p": "soldariam"
+  },
+  "PresC": {
+    "1s": "solde",
+    "2s": "soldes",
+    "3s": "solde",
+    "1p": "soldemos",
+    "2p": "soldeis",
+    "3p": "soldem"
+  },
+  "PImpC": {
+    "1s": "soldasse",
+    "2s": "soldasses",
+    "3s": "soldasse",
+    "1p": "soldássemos",
+    "2p": "soldásseis",
+    "3p": "soldassem"
+  },
+  "FutSC": {
+    "1s": "soldar",
+    "2s": "soldares",
+    "3s": "soldar",
+    "1p": "soldarmos",
+    "2p": "soldardes",
+    "3p": "soldarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "solda",
+    "3s": "solde",
+    "1p": "soldemos",
+    "2p": "soldai",
+    "3p": "soldem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não soldes",
+    "3s": "não solde",
+    "1p": "não soldemos",
+    "2p": "não soldeis",
+    "3p": "não soldem"
+  },
+  "Part-ter": {
+    "": "soldado"
+  },
+  "Part-ser": {
+    "ms": "soldado",
+    "fs": "soldada",
+    "mp": "soldados",
+    "fp": "soldadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "barrer"
+  },
+  "Ger": {
+    "": "barriendo"
+  },
+  "PresI": {
+    "1s": "barro",
+    "2s": "barres",
+    "3s": "barre",
+    "1p": "barremos",
+    "2p": "barréis",
+    "3p": "barren"
+  },
+  "PImpI": {
+    "1s": "barría",
+    "2s": "barrías",
+    "3s": "barría",
+    "1p": "barríamos",
+    "2p": "barríais",
+    "3p": "barrían"
+  },
+  "PPSI": {
+    "1s": "barrí",
+    "2s": "barriste",
+    "3s": "barrió",
+    "1p": "barrimos",
+    "2p": "barristeis",
+    "3p": "barrieron"
+  },
+  "FutSI": {
+    "1s": "barreré",
+    "2s": "barrerás",
+    "3s": "barrerá",
+    "1p": "barreremos",
+    "2p": "barreréis",
+    "3p": "barrerán"
+  },
+  "CondS": {
+    "1s": "barrería",
+    "2s": "barrerías",
+    "3s": "barrería",
+    "1p": "barreríamos",
+    "2p": "barreríais",
+    "3p": "barrerían"
+  },
+  "PresC": {
+    "1s": "barra",
+    "2s": "barras",
+    "3s": "barra",
+    "1p": "barramos",
+    "2p": "barráis",
+    "3p": "barran"
+  },
+  "PMQPSI": {
+    "1s": "barriera",
+    "2s": "barrieras",
+    "3s": "barriera",
+    "1p": "barriéramos",
+    "2p": "barrierais",
+    "3p": "barrieran"
+  },
+  "PImpC": {
+    "1s": "barriese",
+    "2s": "barrieses",
+    "3s": "barriese",
+    "1p": "barriésemos",
+    "2p": "barrieseis",
+    "3p": "barriesen"
+  },
+  "FutSC": {
+    "1s": "barriere",
+    "2s": "barrieres",
+    "3s": "barriere",
+    "1p": "barriéremos",
+    "2p": "barriereis",
+    "3p": "barrieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "barre",
+    "3s": "barra",
+    "1p": "barramos",
+    "2p": "barred",
+    "3p": "barran"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no barras",
+    "3s": "no barra",
+    "1p": "no barramos",
+    "2p": "no barráis",
+    "3p": "no barran"
+  },
+  "Part-ter": {
+    "": "barrido"
+  },
+  "Part-ser": {
+    "ms": "barrido",
+    "fs": "barrida",
+    "mp": "barridos",
+    "fp": "barridas"
+  }
+}

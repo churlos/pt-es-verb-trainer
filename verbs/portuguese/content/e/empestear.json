@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "empestear"
+  },
+  "InfP": {
+    "1s": "empestear",
+    "2s": "empesteares",
+    "3s": "empestear",
+    "1p": "empestearmos",
+    "2p": "empesteardes",
+    "3p": "empestearem"
+  },
+  "Ger": {
+    "": "empesteando"
+  },
+  "PresI": {
+    "1s": "empesteio",
+    "2s": "empesteias",
+    "3s": "empesteia",
+    "1p": "empesteamos",
+    "2p": "empesteais",
+    "3p": "empesteiam"
+  },
+  "PImpI": {
+    "1s": "empesteava",
+    "2s": "empesteavas",
+    "3s": "empesteava",
+    "1p": "empesteávamos",
+    "2p": "empesteáveis",
+    "3p": "empesteavam"
+  },
+  "PPSI": {
+    "1s": "empesteei",
+    "2s": "empesteaste",
+    "3s": "empesteou",
+    "1p": "empesteámos",
+    "2p": "empesteastes",
+    "3p": "empestearam"
+  },
+  "PMQPSI": {
+    "1s": "empesteara",
+    "2s": "empestearas",
+    "3s": "empesteara",
+    "1p": "empesteáramos",
+    "2p": "empesteáreis",
+    "3p": "empestearam"
+  },
+  "FutSI": {
+    "1s": "empestearei",
+    "2s": "empestearás",
+    "3s": "empesteará",
+    "1p": "empestearemos",
+    "2p": "empesteareis",
+    "3p": "empestearão"
+  },
+  "CondS": {
+    "1s": "empestearia",
+    "2s": "empestearias",
+    "3s": "empestearia",
+    "1p": "empestearíamos",
+    "2p": "empestearíeis",
+    "3p": "empesteariam"
+  },
+  "PresC": {
+    "1s": "empesteie",
+    "2s": "empesteies",
+    "3s": "empesteie",
+    "1p": "empesteemos",
+    "2p": "empesteeis",
+    "3p": "empesteiem"
+  },
+  "PImpC": {
+    "1s": "empesteasse",
+    "2s": "empesteasses",
+    "3s": "empesteasse",
+    "1p": "empesteássemos",
+    "2p": "empesteásseis",
+    "3p": "empesteassem"
+  },
+  "FutSC": {
+    "1s": "empestear",
+    "2s": "empesteares",
+    "3s": "empestear",
+    "1p": "empestearmos",
+    "2p": "empesteardes",
+    "3p": "empestearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "empesteia",
+    "3s": "empesteie",
+    "1p": "empesteemos",
+    "2p": "empesteai",
+    "3p": "empesteiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não empesteies",
+    "3s": "não empesteie",
+    "1p": "não empesteemos",
+    "2p": "não empesteeis",
+    "3p": "não empesteiem"
+  },
+  "Part-ter": {
+    "": "empesteado"
+  },
+  "Part-ser": {
+    "ms": "empesteado",
+    "fs": "empesteada",
+    "mp": "empesteados",
+    "fp": "empesteadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "liquidar"
+  },
+  "InfP": {
+    "1s": "liquidar",
+    "2s": "liquidares",
+    "3s": "liquidar",
+    "1p": "liquidarmos",
+    "2p": "liquidardes",
+    "3p": "liquidarem"
+  },
+  "Ger": {
+    "": "liquidando"
+  },
+  "PresI": {
+    "1s": "liquido",
+    "2s": "liquidas",
+    "3s": "liquida",
+    "1p": "liquidamos",
+    "2p": "liquidais",
+    "3p": "liquidam"
+  },
+  "PImpI": {
+    "1s": "liquidava",
+    "2s": "liquidavas",
+    "3s": "liquidava",
+    "1p": "liquidávamos",
+    "2p": "liquidáveis",
+    "3p": "liquidavam"
+  },
+  "PPSI": {
+    "1s": "liquidei",
+    "2s": "liquidaste",
+    "3s": "liquidou",
+    "1p": "liquidámos",
+    "2p": "liquidastes",
+    "3p": "liquidaram"
+  },
+  "PMQPSI": {
+    "1s": "liquidara",
+    "2s": "liquidaras",
+    "3s": "liquidara",
+    "1p": "liquidáramos",
+    "2p": "liquidáreis",
+    "3p": "liquidaram"
+  },
+  "FutSI": {
+    "1s": "liquidarei",
+    "2s": "liquidarás",
+    "3s": "liquidará",
+    "1p": "liquidaremos",
+    "2p": "liquidareis",
+    "3p": "liquidarão"
+  },
+  "CondS": {
+    "1s": "liquidaria",
+    "2s": "liquidarias",
+    "3s": "liquidaria",
+    "1p": "liquidaríamos",
+    "2p": "liquidaríeis",
+    "3p": "liquidariam"
+  },
+  "PresC": {
+    "1s": "liquide",
+    "2s": "liquides",
+    "3s": "liquide",
+    "1p": "liquidemos",
+    "2p": "liquideis",
+    "3p": "liquidem"
+  },
+  "PImpC": {
+    "1s": "liquidasse",
+    "2s": "liquidasses",
+    "3s": "liquidasse",
+    "1p": "liquidássemos",
+    "2p": "liquidásseis",
+    "3p": "liquidassem"
+  },
+  "FutSC": {
+    "1s": "liquidar",
+    "2s": "liquidares",
+    "3s": "liquidar",
+    "1p": "liquidarmos",
+    "2p": "liquidardes",
+    "3p": "liquidarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "liquida",
+    "3s": "liquide",
+    "1p": "liquidemos",
+    "2p": "liquidai",
+    "3p": "liquidem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não liquides",
+    "3s": "não liquide",
+    "1p": "não liquidemos",
+    "2p": "não liquideis",
+    "3p": "não liquidem"
+  },
+  "Part-ter": {
+    "": "liquidado"
+  },
+  "Part-ser": {
+    "ms": "liquidado",
+    "fs": "liquidada",
+    "mp": "liquidados",
+    "fp": "liquidadas"
+  }
+}

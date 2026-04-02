@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "avanzar"
+  },
+  "Ger": {
+    "": "avanzando"
+  },
+  "PresI": {
+    "1s": "avanzo",
+    "2s": "avanzas",
+    "3s": "avanza",
+    "1p": "avanzamos",
+    "2p": "avanzáis",
+    "3p": "avanzan"
+  },
+  "PImpI": {
+    "1s": "avanzaba",
+    "2s": "avanzabas",
+    "3s": "avanzaba",
+    "1p": "avanzábamos",
+    "2p": "avanzabais",
+    "3p": "avanzaban"
+  },
+  "PPSI": {
+    "1s": "avancé",
+    "2s": "avanzaste",
+    "3s": "avanzó",
+    "1p": "avanzamos",
+    "2p": "avanzasteis",
+    "3p": "avanzaron"
+  },
+  "FutSI": {
+    "1s": "avanzaré",
+    "2s": "avanzarás",
+    "3s": "avanzará",
+    "1p": "avanzaremos",
+    "2p": "avanzaréis",
+    "3p": "avanzarán"
+  },
+  "CondS": {
+    "1s": "avanzaría",
+    "2s": "avanzarías",
+    "3s": "avanzaría",
+    "1p": "avanzaríamos",
+    "2p": "avanzaríais",
+    "3p": "avanzarían"
+  },
+  "PresC": {
+    "1s": "avance",
+    "2s": "avances",
+    "3s": "avance",
+    "1p": "avancemos",
+    "2p": "avancéis",
+    "3p": "avancen"
+  },
+  "PMQPSI": {
+    "1s": "avanzara",
+    "2s": "avanzaras",
+    "3s": "avanzara",
+    "1p": "avanzáramos",
+    "2p": "avanzarais",
+    "3p": "avanzaran"
+  },
+  "PImpC": {
+    "1s": "avanzase",
+    "2s": "avanzases",
+    "3s": "avanzase",
+    "1p": "avanzásemos",
+    "2p": "avanzaseis",
+    "3p": "avanzasen"
+  },
+  "FutSC": {
+    "1s": "avanzare",
+    "2s": "avanzares",
+    "3s": "avanzare",
+    "1p": "avanzáremos",
+    "2p": "avanzareis",
+    "3p": "avanzaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "avanza",
+    "3s": "avance",
+    "1p": "avancemos",
+    "2p": "avanzad",
+    "3p": "avancen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no avances",
+    "3s": "no avance",
+    "1p": "no avancemos",
+    "2p": "no avancéis",
+    "3p": "no avancen"
+  },
+  "Part-ter": {
+    "": "avanzado"
+  },
+  "Part-ser": {
+    "ms": "avanzado",
+    "fs": "avanzada",
+    "mp": "avanzados",
+    "fp": "avanzadas"
+  }
+}

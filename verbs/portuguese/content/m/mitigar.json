@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mitigar"
+  },
+  "InfP": {
+    "1s": "mitigar",
+    "2s": "mitigares",
+    "3s": "mitigar",
+    "1p": "mitigarmos",
+    "2p": "mitigardes",
+    "3p": "mitigarem"
+  },
+  "Ger": {
+    "": "mitigando"
+  },
+  "PresI": {
+    "1s": "mitigo",
+    "2s": "mitigas",
+    "3s": "mitiga",
+    "1p": "mitigamos",
+    "2p": "mitigais",
+    "3p": "mitigam"
+  },
+  "PImpI": {
+    "1s": "mitigava",
+    "2s": "mitigavas",
+    "3s": "mitigava",
+    "1p": "mitigávamos",
+    "2p": "mitigáveis",
+    "3p": "mitigavam"
+  },
+  "PPSI": {
+    "1s": "mitiguei",
+    "2s": "mitigaste",
+    "3s": "mitigou",
+    "1p": "mitigámos",
+    "2p": "mitigastes",
+    "3p": "mitigaram"
+  },
+  "PMQPSI": {
+    "1s": "mitigara",
+    "2s": "mitigaras",
+    "3s": "mitigara",
+    "1p": "mitigáramos",
+    "2p": "mitigáreis",
+    "3p": "mitigaram"
+  },
+  "FutSI": {
+    "1s": "mitigarei",
+    "2s": "mitigarás",
+    "3s": "mitigará",
+    "1p": "mitigaremos",
+    "2p": "mitigareis",
+    "3p": "mitigarão"
+  },
+  "CondS": {
+    "1s": "mitigaria",
+    "2s": "mitigarias",
+    "3s": "mitigaria",
+    "1p": "mitigaríamos",
+    "2p": "mitigaríeis",
+    "3p": "mitigariam"
+  },
+  "PresC": {
+    "1s": "mitigue",
+    "2s": "mitigues",
+    "3s": "mitigue",
+    "1p": "mitiguemos",
+    "2p": "mitigueis",
+    "3p": "mitiguem"
+  },
+  "PImpC": {
+    "1s": "mitigasse",
+    "2s": "mitigasses",
+    "3s": "mitigasse",
+    "1p": "mitigássemos",
+    "2p": "mitigásseis",
+    "3p": "mitigassem"
+  },
+  "FutSC": {
+    "1s": "mitigar",
+    "2s": "mitigares",
+    "3s": "mitigar",
+    "1p": "mitigarmos",
+    "2p": "mitigardes",
+    "3p": "mitigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mitiga",
+    "3s": "mitigue",
+    "1p": "mitiguemos",
+    "2p": "mitigai",
+    "3p": "mitiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mitigues",
+    "3s": "não mitigue",
+    "1p": "não mitiguemos",
+    "2p": "não mitigueis",
+    "3p": "não mitiguem"
+  },
+  "Part-ter": {
+    "": "mitigado"
+  },
+  "Part-ser": {
+    "ms": "mitigado",
+    "fs": "mitigada",
+    "mp": "mitigados",
+    "fp": "mitigadas"
+  }
+}

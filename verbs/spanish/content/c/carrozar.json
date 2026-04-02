@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "carrozar"
+  },
+  "Ger": {
+    "": "carrozando"
+  },
+  "PresI": {
+    "1s": "carrozo",
+    "2s": "carrozas",
+    "3s": "carroza",
+    "1p": "carrozamos",
+    "2p": "carrozáis",
+    "3p": "carrozan"
+  },
+  "PImpI": {
+    "1s": "carrozaba",
+    "2s": "carrozabas",
+    "3s": "carrozaba",
+    "1p": "carrozábamos",
+    "2p": "carrozabais",
+    "3p": "carrozaban"
+  },
+  "PPSI": {
+    "1s": "carrocé",
+    "2s": "carrozaste",
+    "3s": "carrozó",
+    "1p": "carrozamos",
+    "2p": "carrozasteis",
+    "3p": "carrozaron"
+  },
+  "FutSI": {
+    "1s": "carrozaré",
+    "2s": "carrozarás",
+    "3s": "carrozará",
+    "1p": "carrozaremos",
+    "2p": "carrozaréis",
+    "3p": "carrozarán"
+  },
+  "CondS": {
+    "1s": "carrozaría",
+    "2s": "carrozarías",
+    "3s": "carrozaría",
+    "1p": "carrozaríamos",
+    "2p": "carrozaríais",
+    "3p": "carrozarían"
+  },
+  "PresC": {
+    "1s": "carroce",
+    "2s": "carroces",
+    "3s": "carroce",
+    "1p": "carrocemos",
+    "2p": "carrocéis",
+    "3p": "carrocen"
+  },
+  "PMQPSI": {
+    "1s": "carrozara",
+    "2s": "carrozaras",
+    "3s": "carrozara",
+    "1p": "carrozáramos",
+    "2p": "carrozarais",
+    "3p": "carrozaran"
+  },
+  "PImpC": {
+    "1s": "carrozase",
+    "2s": "carrozases",
+    "3s": "carrozase",
+    "1p": "carrozásemos",
+    "2p": "carrozaseis",
+    "3p": "carrozasen"
+  },
+  "FutSC": {
+    "1s": "carrozare",
+    "2s": "carrozares",
+    "3s": "carrozare",
+    "1p": "carrozáremos",
+    "2p": "carrozareis",
+    "3p": "carrozaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "carroza",
+    "3s": "carroce",
+    "1p": "carrocemos",
+    "2p": "carrozad",
+    "3p": "carrocen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no carroces",
+    "3s": "no carroce",
+    "1p": "no carrocemos",
+    "2p": "no carrocéis",
+    "3p": "no carrocen"
+  },
+  "Part-ter": {
+    "": "carrozado"
+  },
+  "Part-ser": {
+    "ms": "carrozado",
+    "fs": "carrozada",
+    "mp": "carrozados",
+    "fp": "carrozadas"
+  }
+}

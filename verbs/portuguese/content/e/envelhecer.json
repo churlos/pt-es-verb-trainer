@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "envelhecer"
+  },
+  "InfP": {
+    "1s": "envelhecer",
+    "2s": "envelheceres",
+    "3s": "envelhecer",
+    "1p": "envelhecermos",
+    "2p": "envelhecerdes",
+    "3p": "envelhecerem"
+  },
+  "Ger": {
+    "": "envelhecendo"
+  },
+  "PresI": {
+    "1s": "envelheço",
+    "2s": "envelheces",
+    "3s": "envelhece",
+    "1p": "envelhecemos",
+    "2p": "envelheceis",
+    "3p": "envelhecem"
+  },
+  "PImpI": {
+    "1s": "envelhecia",
+    "2s": "envelhecias",
+    "3s": "envelhecia",
+    "1p": "envelhecíamos",
+    "2p": "envelhecíeis",
+    "3p": "envelheciam"
+  },
+  "PPSI": {
+    "1s": "envelheci",
+    "2s": "envelheceste",
+    "3s": "envelheceu",
+    "1p": "envelhecemos",
+    "2p": "envelhecestes",
+    "3p": "envelheceram"
+  },
+  "PMQPSI": {
+    "1s": "envelhecera",
+    "2s": "envelheceras",
+    "3s": "envelhecera",
+    "1p": "envelhecêramos",
+    "2p": "envelhecêreis",
+    "3p": "envelheceram"
+  },
+  "FutSI": {
+    "1s": "envelhecerei",
+    "2s": "envelhecerás",
+    "3s": "envelhecerá",
+    "1p": "envelheceremos",
+    "2p": "envelhecereis",
+    "3p": "envelhecerão"
+  },
+  "CondS": {
+    "1s": "envelheceria",
+    "2s": "envelhecerias",
+    "3s": "envelheceria",
+    "1p": "envelheceríamos",
+    "2p": "envelheceríeis",
+    "3p": "envelheceriam"
+  },
+  "PresC": {
+    "1s": "envelheça",
+    "2s": "envelheças",
+    "3s": "envelheça",
+    "1p": "envelheçamos",
+    "2p": "envelheçais",
+    "3p": "envelheçam"
+  },
+  "PImpC": {
+    "1s": "envelhecesse",
+    "2s": "envelhecesses",
+    "3s": "envelhecesse",
+    "1p": "envelhecêssemos",
+    "2p": "envelhecêsseis",
+    "3p": "envelhecessem"
+  },
+  "FutSC": {
+    "1s": "envelhecer",
+    "2s": "envelheceres",
+    "3s": "envelhecer",
+    "1p": "envelhecermos",
+    "2p": "envelhecerdes",
+    "3p": "envelhecerem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "envelhece",
+    "3s": "envelheça",
+    "1p": "envelheçamos",
+    "2p": "envelhecei",
+    "3p": "envelheçam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não envelheças",
+    "3s": "não envelheça",
+    "1p": "não envelheçamos",
+    "2p": "não envelheçais",
+    "3p": "não envelheçam"
+  },
+  "Part-ter": {
+    "": "envelhecido"
+  },
+  "Part-ser": {
+    "ms": "envelhecido",
+    "fs": "envelhecida",
+    "mp": "envelhecidos",
+    "fp": "envelhecidas"
+  }
+}

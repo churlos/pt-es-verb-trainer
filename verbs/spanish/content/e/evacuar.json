@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "evacuar"
+  },
+  "Ger": {
+    "": "evacuando"
+  },
+  "PresI": {
+    "1s": "evacúo",
+    "2s": "evacúas",
+    "3s": "evacúa",
+    "1p": "evacuamos",
+    "2p": "evacuáis",
+    "3p": "evacúan"
+  },
+  "PImpI": {
+    "1s": "evacuaba",
+    "2s": "evacuabas",
+    "3s": "evacuaba",
+    "1p": "evacuábamos",
+    "2p": "evacuabais",
+    "3p": "evacuaban"
+  },
+  "PPSI": {
+    "1s": "evacué",
+    "2s": "evacuaste",
+    "3s": "evacuó",
+    "1p": "evacuamos",
+    "2p": "evacuasteis",
+    "3p": "evacuaron"
+  },
+  "FutSI": {
+    "1s": "evacuaré",
+    "2s": "evacuarás",
+    "3s": "evacuará",
+    "1p": "evacuaremos",
+    "2p": "evacuaréis",
+    "3p": "evacuarán"
+  },
+  "CondS": {
+    "1s": "evacuaría",
+    "2s": "evacuarías",
+    "3s": "evacuaría",
+    "1p": "evacuaríamos",
+    "2p": "evacuaríais",
+    "3p": "evacuarían"
+  },
+  "PresC": {
+    "1s": "evacúe",
+    "2s": "evacúes",
+    "3s": "evacúe",
+    "1p": "evacuemos",
+    "2p": "evacuéis",
+    "3p": "evacúen"
+  },
+  "PMQPSI": {
+    "1s": "evacuara",
+    "2s": "evacuaras",
+    "3s": "evacuara",
+    "1p": "evacuáramos",
+    "2p": "evacuarais",
+    "3p": "evacuaran"
+  },
+  "PImpC": {
+    "1s": "evacuase",
+    "2s": "evacuases",
+    "3s": "evacuase",
+    "1p": "evacuásemos",
+    "2p": "evacuaseis",
+    "3p": "evacuasen"
+  },
+  "FutSC": {
+    "1s": "evacuare",
+    "2s": "evacuares",
+    "3s": "evacuare",
+    "1p": "evacuáremos",
+    "2p": "evacuareis",
+    "3p": "evacuaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evacúa",
+    "3s": "evacúe",
+    "1p": "evacuemos",
+    "2p": "evacuad",
+    "3p": "evacúen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no evacúes",
+    "3s": "no evacúe",
+    "1p": "no evacuemos",
+    "2p": "no evacuéis",
+    "3p": "no evacúen"
+  },
+  "Part-ter": {
+    "": "evacuado"
+  },
+  "Part-ser": {
+    "ms": "evacuado",
+    "fs": "evacuada",
+    "mp": "evacuados",
+    "fp": "evacuadas"
+  }
+}

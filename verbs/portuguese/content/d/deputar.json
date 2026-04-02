@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "deputar"
+  },
+  "InfP": {
+    "1s": "deputar",
+    "2s": "deputares",
+    "3s": "deputar",
+    "1p": "deputarmos",
+    "2p": "deputardes",
+    "3p": "deputarem"
+  },
+  "Ger": {
+    "": "deputando"
+  },
+  "PresI": {
+    "1s": "deputo",
+    "2s": "deputas",
+    "3s": "deputa",
+    "1p": "deputamos",
+    "2p": "deputais",
+    "3p": "deputam"
+  },
+  "PImpI": {
+    "1s": "deputava",
+    "2s": "deputavas",
+    "3s": "deputava",
+    "1p": "deputávamos",
+    "2p": "deputáveis",
+    "3p": "deputavam"
+  },
+  "PPSI": {
+    "1s": "deputei",
+    "2s": "deputaste",
+    "3s": "deputou",
+    "1p": "deputámos",
+    "2p": "deputastes",
+    "3p": "deputaram"
+  },
+  "PMQPSI": {
+    "1s": "deputara",
+    "2s": "deputaras",
+    "3s": "deputara",
+    "1p": "deputáramos",
+    "2p": "deputáreis",
+    "3p": "deputaram"
+  },
+  "FutSI": {
+    "1s": "deputarei",
+    "2s": "deputarás",
+    "3s": "deputará",
+    "1p": "deputaremos",
+    "2p": "deputareis",
+    "3p": "deputarão"
+  },
+  "CondS": {
+    "1s": "deputaria",
+    "2s": "deputarias",
+    "3s": "deputaria",
+    "1p": "deputaríamos",
+    "2p": "deputaríeis",
+    "3p": "deputariam"
+  },
+  "PresC": {
+    "1s": "depute",
+    "2s": "deputes",
+    "3s": "depute",
+    "1p": "deputemos",
+    "2p": "deputeis",
+    "3p": "deputem"
+  },
+  "PImpC": {
+    "1s": "deputasse",
+    "2s": "deputasses",
+    "3s": "deputasse",
+    "1p": "deputássemos",
+    "2p": "deputásseis",
+    "3p": "deputassem"
+  },
+  "FutSC": {
+    "1s": "deputar",
+    "2s": "deputares",
+    "3s": "deputar",
+    "1p": "deputarmos",
+    "2p": "deputardes",
+    "3p": "deputarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "deputa",
+    "3s": "depute",
+    "1p": "deputemos",
+    "2p": "deputai",
+    "3p": "deputem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não deputes",
+    "3s": "não depute",
+    "1p": "não deputemos",
+    "2p": "não deputeis",
+    "3p": "não deputem"
+  },
+  "Part-ter": {
+    "": "deputado"
+  },
+  "Part-ser": {
+    "ms": "deputado",
+    "fs": "deputada",
+    "mp": "deputados",
+    "fp": "deputadas"
+  }
+}

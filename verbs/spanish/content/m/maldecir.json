@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "maldecir"
+  },
+  "Ger": {
+    "": "maldiciendo"
+  },
+  "PresI": {
+    "1s": "maldigo",
+    "2s": "maldices",
+    "3s": "maldice",
+    "1p": "maldecimos",
+    "2p": "maldecís",
+    "3p": "maldicen"
+  },
+  "PImpI": {
+    "1s": "maldecía",
+    "2s": "maldecías",
+    "3s": "maldecía",
+    "1p": "maldecíamos",
+    "2p": "maldecíais",
+    "3p": "maldecían"
+  },
+  "PPSI": {
+    "1s": "maldije",
+    "2s": "maldijiste",
+    "3s": "maldijo",
+    "1p": "maldijimos",
+    "2p": "maldijisteis",
+    "3p": "maldijeron"
+  },
+  "FutSI": {
+    "1s": "maldeciré",
+    "2s": "maldecirás",
+    "3s": "maldecirá",
+    "1p": "maldeciremos",
+    "2p": "maldeciréis",
+    "3p": "maldecirán"
+  },
+  "CondS": {
+    "1s": "maldeciría",
+    "2s": "maldecirías",
+    "3s": "maldeciría",
+    "1p": "maldeciríamos",
+    "2p": "maldeciríais",
+    "3p": "maldecirían"
+  },
+  "PresC": {
+    "1s": "maldiga",
+    "2s": "maldigas",
+    "3s": "maldiga",
+    "1p": "maldigamos",
+    "2p": "maldigáis",
+    "3p": "maldigan"
+  },
+  "PMQPSI": {
+    "1s": "maldijera",
+    "2s": "maldijeras",
+    "3s": "maldijera",
+    "1p": "maldijéramos",
+    "2p": "maldijerais",
+    "3p": "maldijeran"
+  },
+  "PImpC": {
+    "1s": "maldijese",
+    "2s": "maldijeses",
+    "3s": "maldijese",
+    "1p": "maldijésemos",
+    "2p": "maldijeseis",
+    "3p": "maldijesen"
+  },
+  "FutSC": {
+    "1s": "maldijere",
+    "2s": "maldijeres",
+    "3s": "maldijere",
+    "1p": "maldijéremos",
+    "2p": "maldijereis",
+    "3p": "maldijeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "maldice",
+    "3s": "maldiga",
+    "1p": "maldigamos",
+    "2p": "maldecid",
+    "3p": "maldigan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no maldigas",
+    "3s": "no maldiga",
+    "1p": "no maldigamos",
+    "2p": "no maldigáis",
+    "3p": "no maldigan"
+  },
+  "Part-ter": {
+    "": "maldecido, maldito"
+  },
+  "Part-ser": {
+    "ms": "maldecido, maldito",
+    "fs": "maldecida, maldita",
+    "mp": "maldecidos, malditos",
+    "fp": "maldecidas, malditas"
+  }
+}

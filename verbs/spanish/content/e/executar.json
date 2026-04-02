@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "executar"
+  },
+  "Ger": {
+    "": "executando"
+  },
+  "PresI": {
+    "1s": "executo",
+    "2s": "executas",
+    "3s": "executa",
+    "1p": "executamos",
+    "2p": "executáis",
+    "3p": "executan"
+  },
+  "PImpI": {
+    "1s": "executaba",
+    "2s": "executabas",
+    "3s": "executaba",
+    "1p": "executábamos",
+    "2p": "executabais",
+    "3p": "executaban"
+  },
+  "PPSI": {
+    "1s": "executé",
+    "2s": "executaste",
+    "3s": "executó",
+    "1p": "executamos",
+    "2p": "executasteis",
+    "3p": "executaron"
+  },
+  "FutSI": {
+    "1s": "executaré",
+    "2s": "executarás",
+    "3s": "executará",
+    "1p": "executaremos",
+    "2p": "executaréis",
+    "3p": "executarán"
+  },
+  "CondS": {
+    "1s": "executaría",
+    "2s": "executarías",
+    "3s": "executaría",
+    "1p": "executaríamos",
+    "2p": "executaríais",
+    "3p": "executarían"
+  },
+  "PresC": {
+    "1s": "execute",
+    "2s": "executes",
+    "3s": "execute",
+    "1p": "executemos",
+    "2p": "executéis",
+    "3p": "executen"
+  },
+  "PMQPSI": {
+    "1s": "executara",
+    "2s": "executaras",
+    "3s": "executara",
+    "1p": "executáramos",
+    "2p": "executarais",
+    "3p": "executaran"
+  },
+  "PImpC": {
+    "1s": "executase",
+    "2s": "executases",
+    "3s": "executase",
+    "1p": "executásemos",
+    "2p": "executaseis",
+    "3p": "executasen"
+  },
+  "FutSC": {
+    "1s": "executare",
+    "2s": "executares",
+    "3s": "executare",
+    "1p": "executáremos",
+    "2p": "executareis",
+    "3p": "executaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "executa",
+    "3s": "execute",
+    "1p": "executemos",
+    "2p": "executad",
+    "3p": "executen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no executes",
+    "3s": "no execute",
+    "1p": "no executemos",
+    "2p": "no executéis",
+    "3p": "no executen"
+  },
+  "Part-ter": {
+    "": "executado"
+  },
+  "Part-ser": {
+    "ms": "executado",
+    "fs": "executada",
+    "mp": "executados",
+    "fp": "executadas"
+  }
+}

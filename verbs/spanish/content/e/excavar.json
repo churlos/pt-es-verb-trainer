@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "excavar"
+  },
+  "Ger": {
+    "": "excavando"
+  },
+  "PresI": {
+    "1s": "excavo",
+    "2s": "excavas",
+    "3s": "excava",
+    "1p": "excavamos",
+    "2p": "excaváis",
+    "3p": "excavan"
+  },
+  "PImpI": {
+    "1s": "excavaba",
+    "2s": "excavabas",
+    "3s": "excavaba",
+    "1p": "excavábamos",
+    "2p": "excavabais",
+    "3p": "excavaban"
+  },
+  "PPSI": {
+    "1s": "excavé",
+    "2s": "excavaste",
+    "3s": "excavó",
+    "1p": "excavamos",
+    "2p": "excavasteis",
+    "3p": "excavaron"
+  },
+  "FutSI": {
+    "1s": "excavaré",
+    "2s": "excavarás",
+    "3s": "excavará",
+    "1p": "excavaremos",
+    "2p": "excavaréis",
+    "3p": "excavarán"
+  },
+  "CondS": {
+    "1s": "excavaría",
+    "2s": "excavarías",
+    "3s": "excavaría",
+    "1p": "excavaríamos",
+    "2p": "excavaríais",
+    "3p": "excavarían"
+  },
+  "PresC": {
+    "1s": "excave",
+    "2s": "excaves",
+    "3s": "excave",
+    "1p": "excavemos",
+    "2p": "excavéis",
+    "3p": "excaven"
+  },
+  "PMQPSI": {
+    "1s": "excavara",
+    "2s": "excavaras",
+    "3s": "excavara",
+    "1p": "excaváramos",
+    "2p": "excavarais",
+    "3p": "excavaran"
+  },
+  "PImpC": {
+    "1s": "excavase",
+    "2s": "excavases",
+    "3s": "excavase",
+    "1p": "excavásemos",
+    "2p": "excavaseis",
+    "3p": "excavasen"
+  },
+  "FutSC": {
+    "1s": "excavare",
+    "2s": "excavares",
+    "3s": "excavare",
+    "1p": "excaváremos",
+    "2p": "excavareis",
+    "3p": "excavaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "excava",
+    "3s": "excave",
+    "1p": "excavemos",
+    "2p": "excavad",
+    "3p": "excaven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no excaves",
+    "3s": "no excave",
+    "1p": "no excavemos",
+    "2p": "no excavéis",
+    "3p": "no excaven"
+  },
+  "Part-ter": {
+    "": "excavado"
+  },
+  "Part-ser": {
+    "ms": "excavado",
+    "fs": "excavada",
+    "mp": "excavados",
+    "fp": "excavadas"
+  }
+}

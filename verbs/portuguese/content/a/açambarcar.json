@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "açambarcar"
+  },
+  "InfP": {
+    "1s": "açambarcar",
+    "2s": "açambarcares",
+    "3s": "açambarcar",
+    "1p": "açambarcarmos",
+    "2p": "açambarcardes",
+    "3p": "açambarcarem"
+  },
+  "Ger": {
+    "": "açambarcando"
+  },
+  "PresI": {
+    "1s": "açambarco",
+    "2s": "açambarcas",
+    "3s": "açambarca",
+    "1p": "açambarcamos",
+    "2p": "açambarcais",
+    "3p": "açambarcam"
+  },
+  "PImpI": {
+    "1s": "açambarcava",
+    "2s": "açambarcavas",
+    "3s": "açambarcava",
+    "1p": "açambarcávamos",
+    "2p": "açambarcáveis",
+    "3p": "açambarcavam"
+  },
+  "PPSI": {
+    "1s": "açambarquei",
+    "2s": "açambarcaste",
+    "3s": "açambarcou",
+    "1p": "açambarcámos",
+    "2p": "açambarcastes",
+    "3p": "açambarcaram"
+  },
+  "PMQPSI": {
+    "1s": "açambarcara",
+    "2s": "açambarcaras",
+    "3s": "açambarcara",
+    "1p": "açambarcáramos",
+    "2p": "açambarcáreis",
+    "3p": "açambarcaram"
+  },
+  "FutSI": {
+    "1s": "açambarcarei",
+    "2s": "açambarcarás",
+    "3s": "açambarcará",
+    "1p": "açambarcaremos",
+    "2p": "açambarcareis",
+    "3p": "açambarcarão"
+  },
+  "CondS": {
+    "1s": "açambarcaria",
+    "2s": "açambarcarias",
+    "3s": "açambarcaria",
+    "1p": "açambarcaríamos",
+    "2p": "açambarcaríeis",
+    "3p": "açambarcariam"
+  },
+  "PresC": {
+    "1s": "açambarque",
+    "2s": "açambarques",
+    "3s": "açambarque",
+    "1p": "açambarquemos",
+    "2p": "açambarqueis",
+    "3p": "açambarquem"
+  },
+  "PImpC": {
+    "1s": "açambarcasse",
+    "2s": "açambarcasses",
+    "3s": "açambarcasse",
+    "1p": "açambarcássemos",
+    "2p": "açambarcásseis",
+    "3p": "açambarcassem"
+  },
+  "FutSC": {
+    "1s": "açambarcar",
+    "2s": "açambarcares",
+    "3s": "açambarcar",
+    "1p": "açambarcarmos",
+    "2p": "açambarcardes",
+    "3p": "açambarcarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "açambarca",
+    "3s": "açambarque",
+    "1p": "açambarquemos",
+    "2p": "açambarcai",
+    "3p": "açambarquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não açambarques",
+    "3s": "não açambarque",
+    "1p": "não açambarquemos",
+    "2p": "não açambarqueis",
+    "3p": "não açambarquem"
+  },
+  "Part-ter": {
+    "": "açambarcado"
+  },
+  "Part-ser": {
+    "ms": "açambarcado",
+    "fs": "açambarcada",
+    "mp": "açambarcados",
+    "fp": "açambarcadas"
+  }
+}

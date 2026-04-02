@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "condenar"
+  },
+  "InfP": {
+    "1s": "condenar",
+    "2s": "condenares",
+    "3s": "condenar",
+    "1p": "condenarmos",
+    "2p": "condenardes",
+    "3p": "condenarem"
+  },
+  "Ger": {
+    "": "condenando"
+  },
+  "PresI": {
+    "1s": "condeno",
+    "2s": "condenas",
+    "3s": "condena",
+    "1p": "condenamos",
+    "2p": "condenais",
+    "3p": "condenam"
+  },
+  "PImpI": {
+    "1s": "condenava",
+    "2s": "condenavas",
+    "3s": "condenava",
+    "1p": "condenávamos",
+    "2p": "condenáveis",
+    "3p": "condenavam"
+  },
+  "PPSI": {
+    "1s": "condenei",
+    "2s": "condenaste",
+    "3s": "condenou",
+    "1p": "condenámos",
+    "2p": "condenastes",
+    "3p": "condenaram"
+  },
+  "PMQPSI": {
+    "1s": "condenara",
+    "2s": "condenaras",
+    "3s": "condenara",
+    "1p": "condenáramos",
+    "2p": "condenáreis",
+    "3p": "condenaram"
+  },
+  "FutSI": {
+    "1s": "condenarei",
+    "2s": "condenarás",
+    "3s": "condenará",
+    "1p": "condenaremos",
+    "2p": "condenareis",
+    "3p": "condenarão"
+  },
+  "CondS": {
+    "1s": "condenaria",
+    "2s": "condenarias",
+    "3s": "condenaria",
+    "1p": "condenaríamos",
+    "2p": "condenaríeis",
+    "3p": "condenariam"
+  },
+  "PresC": {
+    "1s": "condene",
+    "2s": "condenes",
+    "3s": "condene",
+    "1p": "condenemos",
+    "2p": "condeneis",
+    "3p": "condenem"
+  },
+  "PImpC": {
+    "1s": "condenasse",
+    "2s": "condenasses",
+    "3s": "condenasse",
+    "1p": "condenássemos",
+    "2p": "condenásseis",
+    "3p": "condenassem"
+  },
+  "FutSC": {
+    "1s": "condenar",
+    "2s": "condenares",
+    "3s": "condenar",
+    "1p": "condenarmos",
+    "2p": "condenardes",
+    "3p": "condenarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "condena",
+    "3s": "condene",
+    "1p": "condenemos",
+    "2p": "condenai",
+    "3p": "condenem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não condenes",
+    "3s": "não condene",
+    "1p": "não condenemos",
+    "2p": "não condeneis",
+    "3p": "não condenem"
+  },
+  "Part-ter": {
+    "": "condenado"
+  },
+  "Part-ser": {
+    "ms": "condenado",
+    "fs": "condenada",
+    "mp": "condenados",
+    "fp": "condenadas"
+  }
+}

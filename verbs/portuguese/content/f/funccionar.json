@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "funccionar"
+  },
+  "InfP": {
+    "1s": "funccionar",
+    "2s": "funccionares",
+    "3s": "funccionar",
+    "1p": "funccionarmos",
+    "2p": "funccionardes",
+    "3p": "funccionarem"
+  },
+  "Ger": {
+    "": "funccionando"
+  },
+  "PresI": {
+    "1s": "funcciono",
+    "2s": "funccionas",
+    "3s": "funcciona",
+    "1p": "funccionamos",
+    "2p": "funccionais",
+    "3p": "funccionam"
+  },
+  "PImpI": {
+    "1s": "funccionava",
+    "2s": "funccionavas",
+    "3s": "funccionava",
+    "1p": "funccionávamos",
+    "2p": "funccionáveis",
+    "3p": "funccionavam"
+  },
+  "PPSI": {
+    "1s": "funccionei",
+    "2s": "funccionaste",
+    "3s": "funccionou",
+    "1p": "funccionámos",
+    "2p": "funccionastes",
+    "3p": "funccionaram"
+  },
+  "PMQPSI": {
+    "1s": "funccionara",
+    "2s": "funccionaras",
+    "3s": "funccionara",
+    "1p": "funccionáramos",
+    "2p": "funccionáreis",
+    "3p": "funccionaram"
+  },
+  "FutSI": {
+    "1s": "funccionarei",
+    "2s": "funccionarás",
+    "3s": "funccionará",
+    "1p": "funccionaremos",
+    "2p": "funccionareis",
+    "3p": "funccionarão"
+  },
+  "CondS": {
+    "1s": "funccionaria",
+    "2s": "funccionarias",
+    "3s": "funccionaria",
+    "1p": "funccionaríamos",
+    "2p": "funccionaríeis",
+    "3p": "funccionariam"
+  },
+  "PresC": {
+    "1s": "funccione",
+    "2s": "funcciones",
+    "3s": "funccione",
+    "1p": "funccionemos",
+    "2p": "funccioneis",
+    "3p": "funccionem"
+  },
+  "PImpC": {
+    "1s": "funccionasse",
+    "2s": "funccionasses",
+    "3s": "funccionasse",
+    "1p": "funccionássemos",
+    "2p": "funccionásseis",
+    "3p": "funccionassem"
+  },
+  "FutSC": {
+    "1s": "funccionar",
+    "2s": "funccionares",
+    "3s": "funccionar",
+    "1p": "funccionarmos",
+    "2p": "funccionardes",
+    "3p": "funccionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "funcciona",
+    "3s": "funccione",
+    "1p": "funccionemos",
+    "2p": "funccionai",
+    "3p": "funccionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não funcciones",
+    "3s": "não funccione",
+    "1p": "não funccionemos",
+    "2p": "não funccioneis",
+    "3p": "não funccionem"
+  },
+  "Part-ter": {
+    "": "funccionado"
+  },
+  "Part-ser": {
+    "ms": "funccionado",
+    "fs": "funccionada",
+    "mp": "funccionados",
+    "fp": "funccionadas"
+  }
+}

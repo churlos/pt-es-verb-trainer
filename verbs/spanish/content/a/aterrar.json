@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "aterrar"
+  },
+  "Ger": {
+    "": "aterrando"
+  },
+  "PresI": {
+    "1s": "atierro",
+    "2s": "atierras",
+    "3s": "atierra",
+    "1p": "aterramos",
+    "2p": "aterráis",
+    "3p": "atierran"
+  },
+  "PImpI": {
+    "1s": "aterraba",
+    "2s": "aterrabas",
+    "3s": "aterraba",
+    "1p": "aterrábamos",
+    "2p": "aterrabais",
+    "3p": "aterraban"
+  },
+  "PPSI": {
+    "1s": "aterré",
+    "2s": "aterraste",
+    "3s": "aterró",
+    "1p": "aterramos",
+    "2p": "aterrasteis",
+    "3p": "aterraron"
+  },
+  "FutSI": {
+    "1s": "aterraré",
+    "2s": "aterrarás",
+    "3s": "aterrará",
+    "1p": "aterraremos",
+    "2p": "aterraréis",
+    "3p": "aterrarán"
+  },
+  "CondS": {
+    "1s": "aterraría",
+    "2s": "aterrarías",
+    "3s": "aterraría",
+    "1p": "aterraríamos",
+    "2p": "aterraríais",
+    "3p": "aterrarían"
+  },
+  "PresC": {
+    "1s": "atierre",
+    "2s": "atierres",
+    "3s": "atierre",
+    "1p": "aterremos",
+    "2p": "aterréis",
+    "3p": "atierren"
+  },
+  "PMQPSI": {
+    "1s": "aterrara",
+    "2s": "aterraras",
+    "3s": "aterrara",
+    "1p": "aterráramos",
+    "2p": "aterrarais",
+    "3p": "aterraran"
+  },
+  "PImpC": {
+    "1s": "aterrase",
+    "2s": "aterrases",
+    "3s": "aterrase",
+    "1p": "aterrásemos",
+    "2p": "aterraseis",
+    "3p": "aterrasen"
+  },
+  "FutSC": {
+    "1s": "aterrare",
+    "2s": "aterrares",
+    "3s": "aterrare",
+    "1p": "aterráremos",
+    "2p": "aterrareis",
+    "3p": "aterraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "atierra",
+    "3s": "atierre",
+    "1p": "aterremos",
+    "2p": "aterrad",
+    "3p": "atierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no atierres",
+    "3s": "no atierre",
+    "1p": "no aterremos",
+    "2p": "no aterréis",
+    "3p": "no atierren"
+  },
+  "Part-ter": {
+    "": "aterrado"
+  },
+  "Part-ser": {
+    "ms": "aterrado",
+    "fs": "aterrada",
+    "mp": "aterrados",
+    "fp": "aterradas"
+  }
+}

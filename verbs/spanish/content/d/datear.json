@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "datear"
+  },
+  "Ger": {
+    "": "dateando"
+  },
+  "PresI": {
+    "1s": "dateo",
+    "2s": "dateas",
+    "3s": "datea",
+    "1p": "dateamos",
+    "2p": "dateáis",
+    "3p": "datean"
+  },
+  "PImpI": {
+    "1s": "dateaba",
+    "2s": "dateabas",
+    "3s": "dateaba",
+    "1p": "dateábamos",
+    "2p": "dateabais",
+    "3p": "dateaban"
+  },
+  "PPSI": {
+    "1s": "dateé",
+    "2s": "dateaste",
+    "3s": "dateó",
+    "1p": "dateamos",
+    "2p": "dateasteis",
+    "3p": "datearon"
+  },
+  "FutSI": {
+    "1s": "datearé",
+    "2s": "datearás",
+    "3s": "dateará",
+    "1p": "datearemos",
+    "2p": "datearéis",
+    "3p": "datearán"
+  },
+  "CondS": {
+    "1s": "datearía",
+    "2s": "datearías",
+    "3s": "datearía",
+    "1p": "datearíamos",
+    "2p": "datearíais",
+    "3p": "datearían"
+  },
+  "PresC": {
+    "1s": "datee",
+    "2s": "datees",
+    "3s": "datee",
+    "1p": "dateemos",
+    "2p": "dateéis",
+    "3p": "dateen"
+  },
+  "PMQPSI": {
+    "1s": "dateara",
+    "2s": "datearas",
+    "3s": "dateara",
+    "1p": "dateáramos",
+    "2p": "datearais",
+    "3p": "datearan"
+  },
+  "PImpC": {
+    "1s": "datease",
+    "2s": "dateases",
+    "3s": "datease",
+    "1p": "dateásemos",
+    "2p": "dateaseis",
+    "3p": "dateasen"
+  },
+  "FutSC": {
+    "1s": "dateare",
+    "2s": "dateares",
+    "3s": "dateare",
+    "1p": "dateáremos",
+    "2p": "dateareis",
+    "3p": "datearen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "datea",
+    "3s": "datee",
+    "1p": "dateemos",
+    "2p": "datead",
+    "3p": "dateen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no datees",
+    "3s": "no datee",
+    "1p": "no dateemos",
+    "2p": "no dateéis",
+    "3p": "no dateen"
+  },
+  "Part-ter": {
+    "": "dateado"
+  },
+  "Part-ser": {
+    "ms": "dateado",
+    "fs": "dateada",
+    "mp": "dateados",
+    "fp": "dateadas"
+  }
+}

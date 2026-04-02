@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encontrar"
+  },
+  "Ger": {
+    "": "encontrando"
+  },
+  "PresI": {
+    "1s": "encuentro",
+    "2s": "encuentras",
+    "3s": "encuentra",
+    "1p": "encontramos",
+    "2p": "encontráis",
+    "3p": "encuentran"
+  },
+  "PImpI": {
+    "1s": "encontraba",
+    "2s": "encontrabas",
+    "3s": "encontraba",
+    "1p": "encontrábamos",
+    "2p": "encontrabais",
+    "3p": "encontraban"
+  },
+  "PPSI": {
+    "1s": "encontré",
+    "2s": "encontraste",
+    "3s": "encontró",
+    "1p": "encontramos",
+    "2p": "encontrasteis",
+    "3p": "encontraron"
+  },
+  "FutSI": {
+    "1s": "encontraré",
+    "2s": "encontrarás",
+    "3s": "encontrará",
+    "1p": "encontraremos",
+    "2p": "encontraréis",
+    "3p": "encontrarán"
+  },
+  "CondS": {
+    "1s": "encontraría",
+    "2s": "encontrarías",
+    "3s": "encontraría",
+    "1p": "encontraríamos",
+    "2p": "encontraríais",
+    "3p": "encontrarían"
+  },
+  "PresC": {
+    "1s": "encuentre",
+    "2s": "encuentres",
+    "3s": "encuentre",
+    "1p": "encontremos",
+    "2p": "encontréis",
+    "3p": "encuentren"
+  },
+  "PMQPSI": {
+    "1s": "encontrara",
+    "2s": "encontraras",
+    "3s": "encontrara",
+    "1p": "encontráramos",
+    "2p": "encontrarais",
+    "3p": "encontraran"
+  },
+  "PImpC": {
+    "1s": "encontrase",
+    "2s": "encontrases",
+    "3s": "encontrase",
+    "1p": "encontrásemos",
+    "2p": "encontraseis",
+    "3p": "encontrasen"
+  },
+  "FutSC": {
+    "1s": "encontrare",
+    "2s": "encontrares",
+    "3s": "encontrare",
+    "1p": "encontráremos",
+    "2p": "encontrareis",
+    "3p": "encontraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encuentra",
+    "3s": "encuentre",
+    "1p": "encontremos",
+    "2p": "encontrad",
+    "3p": "encuentren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encuentres",
+    "3s": "no encuentre",
+    "1p": "no encontremos",
+    "2p": "no encontréis",
+    "3p": "no encuentren"
+  },
+  "Part-ter": {
+    "": "encontrado"
+  },
+  "Part-ser": {
+    "ms": "encontrado",
+    "fs": "encontrada",
+    "mp": "encontrados",
+    "fp": "encontradas"
+  }
+}

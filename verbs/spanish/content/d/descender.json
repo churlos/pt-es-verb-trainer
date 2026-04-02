@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "descender"
+  },
+  "Ger": {
+    "": "descendiendo"
+  },
+  "PresI": {
+    "1s": "desciendo",
+    "2s": "desciendes",
+    "3s": "desciende",
+    "1p": "descendemos",
+    "2p": "descendéis",
+    "3p": "descienden"
+  },
+  "PImpI": {
+    "1s": "descendía",
+    "2s": "descendías",
+    "3s": "descendía",
+    "1p": "descendíamos",
+    "2p": "descendíais",
+    "3p": "descendían"
+  },
+  "PPSI": {
+    "1s": "descendí",
+    "2s": "descendiste",
+    "3s": "descendió",
+    "1p": "descendimos",
+    "2p": "descendisteis",
+    "3p": "descendieron"
+  },
+  "FutSI": {
+    "1s": "descenderé",
+    "2s": "descenderás",
+    "3s": "descenderá",
+    "1p": "descenderemos",
+    "2p": "descenderéis",
+    "3p": "descenderán"
+  },
+  "CondS": {
+    "1s": "descendería",
+    "2s": "descenderías",
+    "3s": "descendería",
+    "1p": "descenderíamos",
+    "2p": "descenderíais",
+    "3p": "descenderían"
+  },
+  "PresC": {
+    "1s": "descienda",
+    "2s": "desciendas",
+    "3s": "descienda",
+    "1p": "descendamos",
+    "2p": "descendáis",
+    "3p": "desciendan"
+  },
+  "PMQPSI": {
+    "1s": "descendiera",
+    "2s": "descendieras",
+    "3s": "descendiera",
+    "1p": "descendiéramos",
+    "2p": "descendierais",
+    "3p": "descendieran"
+  },
+  "PImpC": {
+    "1s": "descendiese",
+    "2s": "descendieses",
+    "3s": "descendiese",
+    "1p": "descendiésemos",
+    "2p": "descendieseis",
+    "3p": "descendiesen"
+  },
+  "FutSC": {
+    "1s": "descendiere",
+    "2s": "descendieres",
+    "3s": "descendiere",
+    "1p": "descendiéremos",
+    "2p": "descendiereis",
+    "3p": "descendieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desciende",
+    "3s": "descienda",
+    "1p": "descendamos",
+    "2p": "descended",
+    "3p": "desciendan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desciendas",
+    "3s": "no descienda",
+    "1p": "no descendamos",
+    "2p": "no descendáis",
+    "3p": "no desciendan"
+  },
+  "Part-ter": {
+    "": "descendido"
+  },
+  "Part-ser": {
+    "ms": "descendido",
+    "fs": "descendida",
+    "mp": "descendidos",
+    "fp": "descendidas"
+  }
+}

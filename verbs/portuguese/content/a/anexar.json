@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "anexar"
+  },
+  "InfP": {
+    "1s": "anexar",
+    "2s": "anexares",
+    "3s": "anexar",
+    "1p": "anexarmos",
+    "2p": "anexardes",
+    "3p": "anexarem"
+  },
+  "Ger": {
+    "": "anexando"
+  },
+  "PresI": {
+    "1s": "anexo",
+    "2s": "anexas",
+    "3s": "anexa",
+    "1p": "anexamos",
+    "2p": "anexais",
+    "3p": "anexam"
+  },
+  "PImpI": {
+    "1s": "anexava",
+    "2s": "anexavas",
+    "3s": "anexava",
+    "1p": "anexávamos",
+    "2p": "anexáveis",
+    "3p": "anexavam"
+  },
+  "PPSI": {
+    "1s": "anexei",
+    "2s": "anexaste",
+    "3s": "anexou",
+    "1p": "anexámos",
+    "2p": "anexastes",
+    "3p": "anexaram"
+  },
+  "PMQPSI": {
+    "1s": "anexara",
+    "2s": "anexaras",
+    "3s": "anexara",
+    "1p": "anexáramos",
+    "2p": "anexáreis",
+    "3p": "anexaram"
+  },
+  "FutSI": {
+    "1s": "anexarei",
+    "2s": "anexarás",
+    "3s": "anexará",
+    "1p": "anexaremos",
+    "2p": "anexareis",
+    "3p": "anexarão"
+  },
+  "CondS": {
+    "1s": "anexaria",
+    "2s": "anexarias",
+    "3s": "anexaria",
+    "1p": "anexaríamos",
+    "2p": "anexaríeis",
+    "3p": "anexariam"
+  },
+  "PresC": {
+    "1s": "anexe",
+    "2s": "anexes",
+    "3s": "anexe",
+    "1p": "anexemos",
+    "2p": "anexeis",
+    "3p": "anexem"
+  },
+  "PImpC": {
+    "1s": "anexasse",
+    "2s": "anexasses",
+    "3s": "anexasse",
+    "1p": "anexássemos",
+    "2p": "anexásseis",
+    "3p": "anexassem"
+  },
+  "FutSC": {
+    "1s": "anexar",
+    "2s": "anexares",
+    "3s": "anexar",
+    "1p": "anexarmos",
+    "2p": "anexardes",
+    "3p": "anexarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "anexa",
+    "3s": "anexe",
+    "1p": "anexemos",
+    "2p": "anexai",
+    "3p": "anexem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não anexes",
+    "3s": "não anexe",
+    "1p": "não anexemos",
+    "2p": "não anexeis",
+    "3p": "não anexem"
+  },
+  "Part-ter": {
+    "": "anexado"
+  },
+  "Part-ser": {
+    "ms": "anexado",
+    "fs": "anexada",
+    "mp": "anexados",
+    "fp": "anexadas"
+  }
+}

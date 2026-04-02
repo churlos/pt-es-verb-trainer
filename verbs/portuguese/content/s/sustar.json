@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "sustar"
+  },
+  "InfP": {
+    "1s": "sustar",
+    "2s": "sustares",
+    "3s": "sustar",
+    "1p": "sustarmos",
+    "2p": "sustardes",
+    "3p": "sustarem"
+  },
+  "Ger": {
+    "": "sustando"
+  },
+  "PresI": {
+    "1s": "susto",
+    "2s": "sustas",
+    "3s": "susta",
+    "1p": "sustamos",
+    "2p": "sustais",
+    "3p": "sustam"
+  },
+  "PImpI": {
+    "1s": "sustava",
+    "2s": "sustavas",
+    "3s": "sustava",
+    "1p": "sustávamos",
+    "2p": "sustáveis",
+    "3p": "sustavam"
+  },
+  "PPSI": {
+    "1s": "sustei",
+    "2s": "sustaste",
+    "3s": "sustou",
+    "1p": "sustámos",
+    "2p": "sustastes",
+    "3p": "sustaram"
+  },
+  "PMQPSI": {
+    "1s": "sustara",
+    "2s": "sustaras",
+    "3s": "sustara",
+    "1p": "sustáramos",
+    "2p": "sustáreis",
+    "3p": "sustaram"
+  },
+  "FutSI": {
+    "1s": "sustarei",
+    "2s": "sustarás",
+    "3s": "sustará",
+    "1p": "sustaremos",
+    "2p": "sustareis",
+    "3p": "sustarão"
+  },
+  "CondS": {
+    "1s": "sustaria",
+    "2s": "sustarias",
+    "3s": "sustaria",
+    "1p": "sustaríamos",
+    "2p": "sustaríeis",
+    "3p": "sustariam"
+  },
+  "PresC": {
+    "1s": "suste",
+    "2s": "sustes",
+    "3s": "suste",
+    "1p": "sustemos",
+    "2p": "susteis",
+    "3p": "sustem"
+  },
+  "PImpC": {
+    "1s": "sustasse",
+    "2s": "sustasses",
+    "3s": "sustasse",
+    "1p": "sustássemos",
+    "2p": "sustásseis",
+    "3p": "sustassem"
+  },
+  "FutSC": {
+    "1s": "sustar",
+    "2s": "sustares",
+    "3s": "sustar",
+    "1p": "sustarmos",
+    "2p": "sustardes",
+    "3p": "sustarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "susta",
+    "3s": "suste",
+    "1p": "sustemos",
+    "2p": "sustai",
+    "3p": "sustem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não sustes",
+    "3s": "não suste",
+    "1p": "não sustemos",
+    "2p": "não susteis",
+    "3p": "não sustem"
+  },
+  "Part-ter": {
+    "": "sustado"
+  },
+  "Part-ser": {
+    "ms": "sustado",
+    "fs": "sustada",
+    "mp": "sustados",
+    "fp": "sustadas"
+  }
+}

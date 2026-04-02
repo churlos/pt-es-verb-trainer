@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "emperrar"
+  },
+  "InfP": {
+    "1s": "emperrar",
+    "2s": "emperrares",
+    "3s": "emperrar",
+    "1p": "emperrarmos",
+    "2p": "emperrardes",
+    "3p": "emperrarem"
+  },
+  "Ger": {
+    "": "emperrando"
+  },
+  "PresI": {
+    "1s": "emperro",
+    "2s": "emperras",
+    "3s": "emperra",
+    "1p": "emperramos",
+    "2p": "emperrais",
+    "3p": "emperram"
+  },
+  "PImpI": {
+    "1s": "emperrava",
+    "2s": "emperravas",
+    "3s": "emperrava",
+    "1p": "emperrávamos",
+    "2p": "emperráveis",
+    "3p": "emperravam"
+  },
+  "PPSI": {
+    "1s": "emperrei",
+    "2s": "emperraste",
+    "3s": "emperrou",
+    "1p": "emperrámos",
+    "2p": "emperrastes",
+    "3p": "emperraram"
+  },
+  "PMQPSI": {
+    "1s": "emperrara",
+    "2s": "emperraras",
+    "3s": "emperrara",
+    "1p": "emperráramos",
+    "2p": "emperráreis",
+    "3p": "emperraram"
+  },
+  "FutSI": {
+    "1s": "emperrarei",
+    "2s": "emperrarás",
+    "3s": "emperrará",
+    "1p": "emperraremos",
+    "2p": "emperrareis",
+    "3p": "emperrarão"
+  },
+  "CondS": {
+    "1s": "emperraria",
+    "2s": "emperrarias",
+    "3s": "emperraria",
+    "1p": "emperraríamos",
+    "2p": "emperraríeis",
+    "3p": "emperrariam"
+  },
+  "PresC": {
+    "1s": "emperre",
+    "2s": "emperres",
+    "3s": "emperre",
+    "1p": "emperremos",
+    "2p": "emperreis",
+    "3p": "emperrem"
+  },
+  "PImpC": {
+    "1s": "emperrasse",
+    "2s": "emperrasses",
+    "3s": "emperrasse",
+    "1p": "emperrássemos",
+    "2p": "emperrásseis",
+    "3p": "emperrassem"
+  },
+  "FutSC": {
+    "1s": "emperrar",
+    "2s": "emperrares",
+    "3s": "emperrar",
+    "1p": "emperrarmos",
+    "2p": "emperrardes",
+    "3p": "emperrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "emperra",
+    "3s": "emperre",
+    "1p": "emperremos",
+    "2p": "emperrai",
+    "3p": "emperrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não emperres",
+    "3s": "não emperre",
+    "1p": "não emperremos",
+    "2p": "não emperreis",
+    "3p": "não emperrem"
+  },
+  "Part-ter": {
+    "": "emperrado"
+  },
+  "Part-ser": {
+    "ms": "emperrado",
+    "fs": "emperrada",
+    "mp": "emperrados",
+    "fp": "emperradas"
+  }
+}

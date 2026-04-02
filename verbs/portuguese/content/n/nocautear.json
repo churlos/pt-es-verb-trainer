@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "nocautear"
+  },
+  "InfP": {
+    "1s": "nocautear",
+    "2s": "nocauteares",
+    "3s": "nocautear",
+    "1p": "nocautearmos",
+    "2p": "nocauteardes",
+    "3p": "nocautearem"
+  },
+  "Ger": {
+    "": "nocauteando"
+  },
+  "PresI": {
+    "1s": "nocauteio",
+    "2s": "nocauteias",
+    "3s": "nocauteia",
+    "1p": "nocauteamos",
+    "2p": "nocauteais",
+    "3p": "nocauteiam"
+  },
+  "PImpI": {
+    "1s": "nocauteava",
+    "2s": "nocauteavas",
+    "3s": "nocauteava",
+    "1p": "nocauteávamos",
+    "2p": "nocauteáveis",
+    "3p": "nocauteavam"
+  },
+  "PPSI": {
+    "1s": "nocauteei",
+    "2s": "nocauteaste",
+    "3s": "nocauteou",
+    "1p": "nocauteámos",
+    "2p": "nocauteastes",
+    "3p": "nocautearam"
+  },
+  "PMQPSI": {
+    "1s": "nocauteara",
+    "2s": "nocautearas",
+    "3s": "nocauteara",
+    "1p": "nocauteáramos",
+    "2p": "nocauteáreis",
+    "3p": "nocautearam"
+  },
+  "FutSI": {
+    "1s": "nocautearei",
+    "2s": "nocautearás",
+    "3s": "nocauteará",
+    "1p": "nocautearemos",
+    "2p": "nocauteareis",
+    "3p": "nocautearão"
+  },
+  "CondS": {
+    "1s": "nocautearia",
+    "2s": "nocautearias",
+    "3s": "nocautearia",
+    "1p": "nocautearíamos",
+    "2p": "nocautearíeis",
+    "3p": "nocauteariam"
+  },
+  "PresC": {
+    "1s": "nocauteie",
+    "2s": "nocauteies",
+    "3s": "nocauteie",
+    "1p": "nocauteemos",
+    "2p": "nocauteeis",
+    "3p": "nocauteiem"
+  },
+  "PImpC": {
+    "1s": "nocauteasse",
+    "2s": "nocauteasses",
+    "3s": "nocauteasse",
+    "1p": "nocauteássemos",
+    "2p": "nocauteásseis",
+    "3p": "nocauteassem"
+  },
+  "FutSC": {
+    "1s": "nocautear",
+    "2s": "nocauteares",
+    "3s": "nocautear",
+    "1p": "nocautearmos",
+    "2p": "nocauteardes",
+    "3p": "nocautearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nocauteia",
+    "3s": "nocauteie",
+    "1p": "nocauteemos",
+    "2p": "nocauteai",
+    "3p": "nocauteiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não nocauteies",
+    "3s": "não nocauteie",
+    "1p": "não nocauteemos",
+    "2p": "não nocauteeis",
+    "3p": "não nocauteiem"
+  },
+  "Part-ter": {
+    "": "nocauteado"
+  },
+  "Part-ser": {
+    "ms": "nocauteado",
+    "fs": "nocauteada",
+    "mp": "nocauteados",
+    "fp": "nocauteadas"
+  }
+}

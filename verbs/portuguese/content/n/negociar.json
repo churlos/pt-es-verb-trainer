@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "negociar"
+  },
+  "InfP": {
+    "1s": "negociar",
+    "2s": "negociares",
+    "3s": "negociar",
+    "1p": "negociarmos",
+    "2p": "negociardes",
+    "3p": "negociarem"
+  },
+  "Ger": {
+    "": "negociando"
+  },
+  "PresI": {
+    "1s": "negoceio",
+    "2s": "negoceias",
+    "3s": "negoceia",
+    "1p": "negociamos",
+    "2p": "negociais",
+    "3p": "negoceiam"
+  },
+  "PImpI": {
+    "1s": "negociava",
+    "2s": "negociavas",
+    "3s": "negociava",
+    "1p": "negociávamos",
+    "2p": "negociáveis",
+    "3p": "negociavam"
+  },
+  "PPSI": {
+    "1s": "negociei",
+    "2s": "negociaste",
+    "3s": "negociou",
+    "1p": "negociámos",
+    "2p": "negociastes",
+    "3p": "negociaram"
+  },
+  "PMQPSI": {
+    "1s": "negociara",
+    "2s": "negociaras",
+    "3s": "negociara",
+    "1p": "negociáramos",
+    "2p": "negociáreis",
+    "3p": "negociaram"
+  },
+  "FutSI": {
+    "1s": "negociarei",
+    "2s": "negociarás",
+    "3s": "negociará",
+    "1p": "negociaremos",
+    "2p": "negociareis",
+    "3p": "negociarão"
+  },
+  "CondS": {
+    "1s": "negociaria",
+    "2s": "negociarias",
+    "3s": "negociaria",
+    "1p": "negociaríamos",
+    "2p": "negociaríeis",
+    "3p": "negociariam"
+  },
+  "PresC": {
+    "1s": "negoceie",
+    "2s": "negoceies",
+    "3s": "negoceie",
+    "1p": "negociemos",
+    "2p": "negocieis",
+    "3p": "negoceiem"
+  },
+  "PImpC": {
+    "1s": "negociasse",
+    "2s": "negociasses",
+    "3s": "negociasse",
+    "1p": "negociássemos",
+    "2p": "negociásseis",
+    "3p": "negociassem"
+  },
+  "FutSC": {
+    "1s": "negociar",
+    "2s": "negociares",
+    "3s": "negociar",
+    "1p": "negociarmos",
+    "2p": "negociardes",
+    "3p": "negociarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "negoceia",
+    "3s": "negoceie",
+    "1p": "negociemos",
+    "2p": "negociai",
+    "3p": "negoceiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não negoceies",
+    "3s": "não negoceie",
+    "1p": "não negociemos",
+    "2p": "não negocieis",
+    "3p": "não negoceiem"
+  },
+  "Part-ter": {
+    "": "negociado"
+  },
+  "Part-ser": {
+    "ms": "negociado",
+    "fs": "negociada",
+    "mp": "negociados",
+    "fp": "negociadas"
+  }
+}

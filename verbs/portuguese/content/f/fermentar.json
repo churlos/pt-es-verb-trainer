@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fermentar"
+  },
+  "InfP": {
+    "1s": "fermentar",
+    "2s": "fermentares",
+    "3s": "fermentar",
+    "1p": "fermentarmos",
+    "2p": "fermentardes",
+    "3p": "fermentarem"
+  },
+  "Ger": {
+    "": "fermentando"
+  },
+  "PresI": {
+    "1s": "fermento",
+    "2s": "fermentas",
+    "3s": "fermenta",
+    "1p": "fermentamos",
+    "2p": "fermentais",
+    "3p": "fermentam"
+  },
+  "PImpI": {
+    "1s": "fermentava",
+    "2s": "fermentavas",
+    "3s": "fermentava",
+    "1p": "fermentávamos",
+    "2p": "fermentáveis",
+    "3p": "fermentavam"
+  },
+  "PPSI": {
+    "1s": "fermentei",
+    "2s": "fermentaste",
+    "3s": "fermentou",
+    "1p": "fermentámos",
+    "2p": "fermentastes",
+    "3p": "fermentaram"
+  },
+  "PMQPSI": {
+    "1s": "fermentara",
+    "2s": "fermentaras",
+    "3s": "fermentara",
+    "1p": "fermentáramos",
+    "2p": "fermentáreis",
+    "3p": "fermentaram"
+  },
+  "FutSI": {
+    "1s": "fermentarei",
+    "2s": "fermentarás",
+    "3s": "fermentará",
+    "1p": "fermentaremos",
+    "2p": "fermentareis",
+    "3p": "fermentarão"
+  },
+  "CondS": {
+    "1s": "fermentaria",
+    "2s": "fermentarias",
+    "3s": "fermentaria",
+    "1p": "fermentaríamos",
+    "2p": "fermentaríeis",
+    "3p": "fermentariam"
+  },
+  "PresC": {
+    "1s": "fermente",
+    "2s": "fermentes",
+    "3s": "fermente",
+    "1p": "fermentemos",
+    "2p": "fermenteis",
+    "3p": "fermentem"
+  },
+  "PImpC": {
+    "1s": "fermentasse",
+    "2s": "fermentasses",
+    "3s": "fermentasse",
+    "1p": "fermentássemos",
+    "2p": "fermentásseis",
+    "3p": "fermentassem"
+  },
+  "FutSC": {
+    "1s": "fermentar",
+    "2s": "fermentares",
+    "3s": "fermentar",
+    "1p": "fermentarmos",
+    "2p": "fermentardes",
+    "3p": "fermentarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "fermenta",
+    "3s": "fermente",
+    "1p": "fermentemos",
+    "2p": "fermentai",
+    "3p": "fermentem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fermentes",
+    "3s": "não fermente",
+    "1p": "não fermentemos",
+    "2p": "não fermenteis",
+    "3p": "não fermentem"
+  },
+  "Part-ter": {
+    "": "fermentado"
+  },
+  "Part-ser": {
+    "ms": "fermentado",
+    "fs": "fermentada",
+    "mp": "fermentados",
+    "fp": "fermentadas"
+  }
+}

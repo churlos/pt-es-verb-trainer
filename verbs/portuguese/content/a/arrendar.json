@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arrendar"
+  },
+  "InfP": {
+    "1s": "arrendar",
+    "2s": "arrendares",
+    "3s": "arrendar",
+    "1p": "arrendarmos",
+    "2p": "arrendardes",
+    "3p": "arrendarem"
+  },
+  "Ger": {
+    "": "arrendando"
+  },
+  "PresI": {
+    "1s": "arrendo",
+    "2s": "arrendas",
+    "3s": "arrenda",
+    "1p": "arrendamos",
+    "2p": "arrendais",
+    "3p": "arrendam"
+  },
+  "PImpI": {
+    "1s": "arrendava",
+    "2s": "arrendavas",
+    "3s": "arrendava",
+    "1p": "arrendávamos",
+    "2p": "arrendáveis",
+    "3p": "arrendavam"
+  },
+  "PPSI": {
+    "1s": "arrendei",
+    "2s": "arrendaste",
+    "3s": "arrendou",
+    "1p": "arrendámos",
+    "2p": "arrendastes",
+    "3p": "arrendaram"
+  },
+  "PMQPSI": {
+    "1s": "arrendara",
+    "2s": "arrendaras",
+    "3s": "arrendara",
+    "1p": "arrendáramos",
+    "2p": "arrendáreis",
+    "3p": "arrendaram"
+  },
+  "FutSI": {
+    "1s": "arrendarei",
+    "2s": "arrendarás",
+    "3s": "arrendará",
+    "1p": "arrendaremos",
+    "2p": "arrendareis",
+    "3p": "arrendarão"
+  },
+  "CondS": {
+    "1s": "arrendaria",
+    "2s": "arrendarias",
+    "3s": "arrendaria",
+    "1p": "arrendaríamos",
+    "2p": "arrendaríeis",
+    "3p": "arrendariam"
+  },
+  "PresC": {
+    "1s": "arrende",
+    "2s": "arrendes",
+    "3s": "arrende",
+    "1p": "arrendemos",
+    "2p": "arrendeis",
+    "3p": "arrendem"
+  },
+  "PImpC": {
+    "1s": "arrendasse",
+    "2s": "arrendasses",
+    "3s": "arrendasse",
+    "1p": "arrendássemos",
+    "2p": "arrendásseis",
+    "3p": "arrendassem"
+  },
+  "FutSC": {
+    "1s": "arrendar",
+    "2s": "arrendares",
+    "3s": "arrendar",
+    "1p": "arrendarmos",
+    "2p": "arrendardes",
+    "3p": "arrendarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arrenda",
+    "3s": "arrende",
+    "1p": "arrendemos",
+    "2p": "arrendai",
+    "3p": "arrendem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arrendes",
+    "3s": "não arrende",
+    "1p": "não arrendemos",
+    "2p": "não arrendeis",
+    "3p": "não arrendem"
+  },
+  "Part-ter": {
+    "": "arrendado"
+  },
+  "Part-ser": {
+    "ms": "arrendado",
+    "fs": "arrendada",
+    "mp": "arrendados",
+    "fp": "arrendadas"
+  }
+}

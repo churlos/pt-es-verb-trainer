@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "petrificar"
+  },
+  "InfP": {
+    "1s": "petrificar",
+    "2s": "petrificares",
+    "3s": "petrificar",
+    "1p": "petrificarmos",
+    "2p": "petrificardes",
+    "3p": "petrificarem"
+  },
+  "Ger": {
+    "": "petrificando"
+  },
+  "PresI": {
+    "1s": "petrifico",
+    "2s": "petrificas",
+    "3s": "petrifica",
+    "1p": "petrificamos",
+    "2p": "petrificais",
+    "3p": "petrificam"
+  },
+  "PImpI": {
+    "1s": "petrificava",
+    "2s": "petrificavas",
+    "3s": "petrificava",
+    "1p": "petrificávamos",
+    "2p": "petrificáveis",
+    "3p": "petrificavam"
+  },
+  "PPSI": {
+    "1s": "petrifiquei",
+    "2s": "petrificaste",
+    "3s": "petrificou",
+    "1p": "petrificámos",
+    "2p": "petrificastes",
+    "3p": "petrificaram"
+  },
+  "PMQPSI": {
+    "1s": "petrificara",
+    "2s": "petrificaras",
+    "3s": "petrificara",
+    "1p": "petrificáramos",
+    "2p": "petrificáreis",
+    "3p": "petrificaram"
+  },
+  "FutSI": {
+    "1s": "petrificarei",
+    "2s": "petrificarás",
+    "3s": "petrificará",
+    "1p": "petrificaremos",
+    "2p": "petrificareis",
+    "3p": "petrificarão"
+  },
+  "CondS": {
+    "1s": "petrificaria",
+    "2s": "petrificarias",
+    "3s": "petrificaria",
+    "1p": "petrificaríamos",
+    "2p": "petrificaríeis",
+    "3p": "petrificariam"
+  },
+  "PresC": {
+    "1s": "petrifique",
+    "2s": "petrifiques",
+    "3s": "petrifique",
+    "1p": "petrifiquemos",
+    "2p": "petrifiqueis",
+    "3p": "petrifiquem"
+  },
+  "PImpC": {
+    "1s": "petrificasse",
+    "2s": "petrificasses",
+    "3s": "petrificasse",
+    "1p": "petrificássemos",
+    "2p": "petrificásseis",
+    "3p": "petrificassem"
+  },
+  "FutSC": {
+    "1s": "petrificar",
+    "2s": "petrificares",
+    "3s": "petrificar",
+    "1p": "petrificarmos",
+    "2p": "petrificardes",
+    "3p": "petrificarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "petrifica",
+    "3s": "petrifique",
+    "1p": "petrifiquemos",
+    "2p": "petrificai",
+    "3p": "petrifiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não petrifiques",
+    "3s": "não petrifique",
+    "1p": "não petrifiquemos",
+    "2p": "não petrifiqueis",
+    "3p": "não petrifiquem"
+  },
+  "Part-ter": {
+    "": "petrificado"
+  },
+  "Part-ser": {
+    "ms": "petrificado",
+    "fs": "petrificada",
+    "mp": "petrificados",
+    "fp": "petrificadas"
+  }
+}

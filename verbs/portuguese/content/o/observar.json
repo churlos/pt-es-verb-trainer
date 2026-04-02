@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "observar"
+  },
+  "InfP": {
+    "1s": "observar",
+    "2s": "observares",
+    "3s": "observar",
+    "1p": "observarmos",
+    "2p": "observardes",
+    "3p": "observarem"
+  },
+  "Ger": {
+    "": "observando"
+  },
+  "PresI": {
+    "1s": "observo",
+    "2s": "observas",
+    "3s": "observa",
+    "1p": "observamos",
+    "2p": "observais",
+    "3p": "observam"
+  },
+  "PImpI": {
+    "1s": "observava",
+    "2s": "observavas",
+    "3s": "observava",
+    "1p": "observávamos",
+    "2p": "observáveis",
+    "3p": "observavam"
+  },
+  "PPSI": {
+    "1s": "observei",
+    "2s": "observaste",
+    "3s": "observou",
+    "1p": "observámos",
+    "2p": "observastes",
+    "3p": "observaram"
+  },
+  "PMQPSI": {
+    "1s": "observara",
+    "2s": "observaras",
+    "3s": "observara",
+    "1p": "observáramos",
+    "2p": "observáreis",
+    "3p": "observaram"
+  },
+  "FutSI": {
+    "1s": "observarei",
+    "2s": "observarás",
+    "3s": "observará",
+    "1p": "observaremos",
+    "2p": "observareis",
+    "3p": "observarão"
+  },
+  "CondS": {
+    "1s": "observaria",
+    "2s": "observarias",
+    "3s": "observaria",
+    "1p": "observaríamos",
+    "2p": "observaríeis",
+    "3p": "observariam"
+  },
+  "PresC": {
+    "1s": "observe",
+    "2s": "observes",
+    "3s": "observe",
+    "1p": "observemos",
+    "2p": "observeis",
+    "3p": "observem"
+  },
+  "PImpC": {
+    "1s": "observasse",
+    "2s": "observasses",
+    "3s": "observasse",
+    "1p": "observássemos",
+    "2p": "observásseis",
+    "3p": "observassem"
+  },
+  "FutSC": {
+    "1s": "observar",
+    "2s": "observares",
+    "3s": "observar",
+    "1p": "observarmos",
+    "2p": "observardes",
+    "3p": "observarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "observa",
+    "3s": "observe",
+    "1p": "observemos",
+    "2p": "observai",
+    "3p": "observem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não observes",
+    "3s": "não observe",
+    "1p": "não observemos",
+    "2p": "não observeis",
+    "3p": "não observem"
+  },
+  "Part-ter": {
+    "": "observado"
+  },
+  "Part-ser": {
+    "ms": "observado",
+    "fs": "observada",
+    "mp": "observados",
+    "fp": "observadas"
+  }
+}

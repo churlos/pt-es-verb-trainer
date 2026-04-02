@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "orar"
+  },
+  "InfP": {
+    "1s": "orar",
+    "2s": "orares",
+    "3s": "orar",
+    "1p": "orarmos",
+    "2p": "orardes",
+    "3p": "orarem"
+  },
+  "Ger": {
+    "": "orando"
+  },
+  "PresI": {
+    "1s": "oro",
+    "2s": "oras",
+    "3s": "ora",
+    "1p": "oramos",
+    "2p": "orais",
+    "3p": "oram"
+  },
+  "PImpI": {
+    "1s": "orava",
+    "2s": "oravas",
+    "3s": "orava",
+    "1p": "orávamos",
+    "2p": "oráveis",
+    "3p": "oravam"
+  },
+  "PPSI": {
+    "1s": "orei",
+    "2s": "oraste",
+    "3s": "orou",
+    "1p": "orámos",
+    "2p": "orastes",
+    "3p": "oraram"
+  },
+  "PMQPSI": {
+    "1s": "orara",
+    "2s": "oraras",
+    "3s": "orara",
+    "1p": "oráramos",
+    "2p": "oráreis",
+    "3p": "oraram"
+  },
+  "FutSI": {
+    "1s": "orarei",
+    "2s": "orarás",
+    "3s": "orará",
+    "1p": "oraremos",
+    "2p": "orareis",
+    "3p": "orarão"
+  },
+  "CondS": {
+    "1s": "oraria",
+    "2s": "orarias",
+    "3s": "oraria",
+    "1p": "oraríamos",
+    "2p": "oraríeis",
+    "3p": "orariam"
+  },
+  "PresC": {
+    "1s": "ore",
+    "2s": "ores",
+    "3s": "ore",
+    "1p": "oremos",
+    "2p": "oreis",
+    "3p": "orem"
+  },
+  "PImpC": {
+    "1s": "orasse",
+    "2s": "orasses",
+    "3s": "orasse",
+    "1p": "orássemos",
+    "2p": "orásseis",
+    "3p": "orassem"
+  },
+  "FutSC": {
+    "1s": "orar",
+    "2s": "orares",
+    "3s": "orar",
+    "1p": "orarmos",
+    "2p": "orardes",
+    "3p": "orarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ora",
+    "3s": "ore",
+    "1p": "oremos",
+    "2p": "orai",
+    "3p": "orem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ores",
+    "3s": "não ore",
+    "1p": "não oremos",
+    "2p": "não oreis",
+    "3p": "não orem"
+  },
+  "Part-ter": {
+    "": "orado"
+  },
+  "Part-ser": {
+    "ms": "orado",
+    "fs": "orada",
+    "mp": "orados",
+    "fp": "oradas"
+  }
+}

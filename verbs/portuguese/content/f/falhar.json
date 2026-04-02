@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "falhar"
+  },
+  "InfP": {
+    "1s": "falhar",
+    "2s": "falhares",
+    "3s": "falhar",
+    "1p": "falharmos",
+    "2p": "falhardes",
+    "3p": "falharem"
+  },
+  "Ger": {
+    "": "falhando"
+  },
+  "PresI": {
+    "1s": "falho",
+    "2s": "falhas",
+    "3s": "falha",
+    "1p": "falhamos",
+    "2p": "falhais",
+    "3p": "falham"
+  },
+  "PImpI": {
+    "1s": "falhava",
+    "2s": "falhavas",
+    "3s": "falhava",
+    "1p": "falhávamos",
+    "2p": "falháveis",
+    "3p": "falhavam"
+  },
+  "PPSI": {
+    "1s": "falhei",
+    "2s": "falhaste",
+    "3s": "falhou",
+    "1p": "falhámos",
+    "2p": "falhastes",
+    "3p": "falharam"
+  },
+  "PMQPSI": {
+    "1s": "falhara",
+    "2s": "falharas",
+    "3s": "falhara",
+    "1p": "falháramos",
+    "2p": "falháreis",
+    "3p": "falharam"
+  },
+  "FutSI": {
+    "1s": "falharei",
+    "2s": "falharás",
+    "3s": "falhará",
+    "1p": "falharemos",
+    "2p": "falhareis",
+    "3p": "falharão"
+  },
+  "CondS": {
+    "1s": "falharia",
+    "2s": "falharias",
+    "3s": "falharia",
+    "1p": "falharíamos",
+    "2p": "falharíeis",
+    "3p": "falhariam"
+  },
+  "PresC": {
+    "1s": "falhe",
+    "2s": "falhes",
+    "3s": "falhe",
+    "1p": "falhemos",
+    "2p": "falheis",
+    "3p": "falhem"
+  },
+  "PImpC": {
+    "1s": "falhasse",
+    "2s": "falhasses",
+    "3s": "falhasse",
+    "1p": "falhássemos",
+    "2p": "falhásseis",
+    "3p": "falhassem"
+  },
+  "FutSC": {
+    "1s": "falhar",
+    "2s": "falhares",
+    "3s": "falhar",
+    "1p": "falharmos",
+    "2p": "falhardes",
+    "3p": "falharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "falha",
+    "3s": "falhe",
+    "1p": "falhemos",
+    "2p": "falhai",
+    "3p": "falhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não falhes",
+    "3s": "não falhe",
+    "1p": "não falhemos",
+    "2p": "não falheis",
+    "3p": "não falhem"
+  },
+  "Part-ter": {
+    "": "falhado"
+  },
+  "Part-ser": {
+    "ms": "falhado",
+    "fs": "falhada",
+    "mp": "falhados",
+    "fp": "falhadas"
+  }
+}

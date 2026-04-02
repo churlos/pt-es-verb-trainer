@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "exaurir"
+  },
+  "InfP": {
+    "1s": "exaurir",
+    "2s": "exaurires",
+    "3s": "exaurir",
+    "1p": "exaurirmos",
+    "2p": "exaurirdes",
+    "3p": "exaurirem"
+  },
+  "Ger": {
+    "": "exaurindo"
+  },
+  "PresI": {
+    "1s": "exauro",
+    "2s": "exaures",
+    "3s": "exaure",
+    "1p": "exaurimos",
+    "2p": "exauris",
+    "3p": "exaurem"
+  },
+  "PImpI": {
+    "1s": "exauria",
+    "2s": "exaurias",
+    "3s": "exauria",
+    "1p": "exauríamos",
+    "2p": "exauríeis",
+    "3p": "exauriam"
+  },
+  "PPSI": {
+    "1s": "exauri",
+    "2s": "exauriste",
+    "3s": "exauriu",
+    "1p": "exaurimos",
+    "2p": "exauristes",
+    "3p": "exauriram"
+  },
+  "PMQPSI": {
+    "1s": "exaurira",
+    "2s": "exauriras",
+    "3s": "exaurira",
+    "1p": "exauríramos",
+    "2p": "exauríreis",
+    "3p": "exauriram"
+  },
+  "FutSI": {
+    "1s": "exaurirei",
+    "2s": "exaurirás",
+    "3s": "exaurirá",
+    "1p": "exauriremos",
+    "2p": "exaurireis",
+    "3p": "exaurirão"
+  },
+  "CondS": {
+    "1s": "exauriria",
+    "2s": "exauririas",
+    "3s": "exauriria",
+    "1p": "exauriríamos",
+    "2p": "exauriríeis",
+    "3p": "exauririam"
+  },
+  "PresC": {
+    "1s": "exaura",
+    "2s": "exauras",
+    "3s": "exaura",
+    "1p": "exauramos",
+    "2p": "exaurais",
+    "3p": "exauram"
+  },
+  "PImpC": {
+    "1s": "exaurisse",
+    "2s": "exaurisses",
+    "3s": "exaurisse",
+    "1p": "exauríssemos",
+    "2p": "exaurísseis",
+    "3p": "exaurissem"
+  },
+  "FutSC": {
+    "1s": "exaurir",
+    "2s": "exaurires",
+    "3s": "exaurir",
+    "1p": "exaurirmos",
+    "2p": "exaurirdes",
+    "3p": "exaurirem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "exaure",
+    "3s": "exaura",
+    "1p": "exauramos",
+    "2p": "exauri",
+    "3p": "exauram"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não exauras",
+    "3s": "não exaura",
+    "1p": "não exauramos",
+    "2p": "não exaurais",
+    "3p": "não exauram"
+  },
+  "Part-ter": {
+    "": "exaurido"
+  },
+  "Part-ser": {
+    "ms": "exaurido",
+    "fs": "exaurida",
+    "mp": "exauridos",
+    "fp": "exauridas"
+  }
+}

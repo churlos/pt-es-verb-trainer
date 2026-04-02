@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "intervir"
+  },
+  "InfP": {
+    "1s": "intervir",
+    "2s": "intervires",
+    "3s": "intervir",
+    "1p": "intervirmos",
+    "2p": "intervirdes",
+    "3p": "intervirem"
+  },
+  "Ger": {
+    "": "intervindo"
+  },
+  "PresI": {
+    "1s": "intervenho",
+    "2s": "intervéns",
+    "3s": "intervém",
+    "1p": "intervimos",
+    "2p": "intervindes",
+    "3p": "intervêm"
+  },
+  "PImpI": {
+    "1s": "intervinha",
+    "2s": "intervinhas",
+    "3s": "intervinha",
+    "1p": "intervínhamos",
+    "2p": "intervínheis",
+    "3p": "intervinham"
+  },
+  "PPSI": {
+    "1s": "intervim",
+    "2s": "intervieste",
+    "3s": "interveio",
+    "1p": "interviemos",
+    "2p": "interviestes",
+    "3p": "intervieram"
+  },
+  "PMQPSI": {
+    "1s": "interviera",
+    "2s": "intervieras",
+    "3s": "interviera",
+    "1p": "interviéramos",
+    "2p": "interviéreis",
+    "3p": "intervieram"
+  },
+  "FutSI": {
+    "1s": "intervirei",
+    "2s": "intervirás",
+    "3s": "intervirá",
+    "1p": "interviremos",
+    "2p": "intervireis",
+    "3p": "intervirão"
+  },
+  "CondS": {
+    "1s": "interviria",
+    "2s": "intervirias",
+    "3s": "interviria",
+    "1p": "interviríamos",
+    "2p": "interviríeis",
+    "3p": "interviriam"
+  },
+  "PresC": {
+    "1s": "intervenha",
+    "2s": "intervenhas",
+    "3s": "intervenha",
+    "1p": "intervenhamos",
+    "2p": "intervenhais",
+    "3p": "intervenham"
+  },
+  "PImpC": {
+    "1s": "interviesse",
+    "2s": "interviesses",
+    "3s": "interviesse",
+    "1p": "interviéssemos",
+    "2p": "interviésseis",
+    "3p": "interviessem"
+  },
+  "FutSC": {
+    "1s": "intervier",
+    "2s": "intervieres",
+    "3s": "intervier",
+    "1p": "interviermos",
+    "2p": "intervierdes",
+    "3p": "intervierem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "intervém",
+    "3s": "intervenha",
+    "1p": "intervenhamos",
+    "2p": "intervinde",
+    "3p": "intervenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não intervenhas",
+    "3s": "não intervenha",
+    "1p": "não intervenhamos",
+    "2p": "não intervenhais",
+    "3p": "não intervenham"
+  },
+  "Part-ter": {
+    "": "intervindo"
+  },
+  "Part-ser": {
+    "ms": "intervindo",
+    "fs": "intervinda",
+    "mp": "intervindos",
+    "fp": "intervindas"
+  }
+}

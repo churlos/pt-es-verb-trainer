@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "mimar"
+  },
+  "InfP": {
+    "1s": "mimar",
+    "2s": "mimares",
+    "3s": "mimar",
+    "1p": "mimarmos",
+    "2p": "mimardes",
+    "3p": "mimarem"
+  },
+  "Ger": {
+    "": "mimando"
+  },
+  "PresI": {
+    "1s": "mimo",
+    "2s": "mimas",
+    "3s": "mima",
+    "1p": "mimamos",
+    "2p": "mimais",
+    "3p": "mimam"
+  },
+  "PImpI": {
+    "1s": "mimava",
+    "2s": "mimavas",
+    "3s": "mimava",
+    "1p": "mimávamos",
+    "2p": "mimáveis",
+    "3p": "mimavam"
+  },
+  "PPSI": {
+    "1s": "mimei",
+    "2s": "mimaste",
+    "3s": "mimou",
+    "1p": "mimámos",
+    "2p": "mimastes",
+    "3p": "mimaram"
+  },
+  "PMQPSI": {
+    "1s": "mimara",
+    "2s": "mimaras",
+    "3s": "mimara",
+    "1p": "mimáramos",
+    "2p": "mimáreis",
+    "3p": "mimaram"
+  },
+  "FutSI": {
+    "1s": "mimarei",
+    "2s": "mimarás",
+    "3s": "mimará",
+    "1p": "mimaremos",
+    "2p": "mimareis",
+    "3p": "mimarão"
+  },
+  "CondS": {
+    "1s": "mimaria",
+    "2s": "mimarias",
+    "3s": "mimaria",
+    "1p": "mimaríamos",
+    "2p": "mimaríeis",
+    "3p": "mimariam"
+  },
+  "PresC": {
+    "1s": "mime",
+    "2s": "mimes",
+    "3s": "mime",
+    "1p": "mimemos",
+    "2p": "mimeis",
+    "3p": "mimem"
+  },
+  "PImpC": {
+    "1s": "mimasse",
+    "2s": "mimasses",
+    "3s": "mimasse",
+    "1p": "mimássemos",
+    "2p": "mimásseis",
+    "3p": "mimassem"
+  },
+  "FutSC": {
+    "1s": "mimar",
+    "2s": "mimares",
+    "3s": "mimar",
+    "1p": "mimarmos",
+    "2p": "mimardes",
+    "3p": "mimarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "mima",
+    "3s": "mime",
+    "1p": "mimemos",
+    "2p": "mimai",
+    "3p": "mimem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não mimes",
+    "3s": "não mime",
+    "1p": "não mimemos",
+    "2p": "não mimeis",
+    "3p": "não mimem"
+  },
+  "Part-ter": {
+    "": "mimado"
+  },
+  "Part-ser": {
+    "ms": "mimado",
+    "fs": "mimada",
+    "mp": "mimados",
+    "fp": "mimadas"
+  }
+}

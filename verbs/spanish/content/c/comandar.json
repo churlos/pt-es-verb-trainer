@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "comandar"
+  },
+  "Ger": {
+    "": "comandando"
+  },
+  "PresI": {
+    "1s": "comando",
+    "2s": "comandas",
+    "3s": "comanda",
+    "1p": "comandamos",
+    "2p": "comandáis",
+    "3p": "comandan"
+  },
+  "PImpI": {
+    "1s": "comandaba",
+    "2s": "comandabas",
+    "3s": "comandaba",
+    "1p": "comandábamos",
+    "2p": "comandabais",
+    "3p": "comandaban"
+  },
+  "PPSI": {
+    "1s": "comandé",
+    "2s": "comandaste",
+    "3s": "comandó",
+    "1p": "comandamos",
+    "2p": "comandasteis",
+    "3p": "comandaron"
+  },
+  "FutSI": {
+    "1s": "comandaré",
+    "2s": "comandarás",
+    "3s": "comandará",
+    "1p": "comandaremos",
+    "2p": "comandaréis",
+    "3p": "comandarán"
+  },
+  "CondS": {
+    "1s": "comandaría",
+    "2s": "comandarías",
+    "3s": "comandaría",
+    "1p": "comandaríamos",
+    "2p": "comandaríais",
+    "3p": "comandarían"
+  },
+  "PresC": {
+    "1s": "comande",
+    "2s": "comandes",
+    "3s": "comande",
+    "1p": "comandemos",
+    "2p": "comandéis",
+    "3p": "comanden"
+  },
+  "PMQPSI": {
+    "1s": "comandara",
+    "2s": "comandaras",
+    "3s": "comandara",
+    "1p": "comandáramos",
+    "2p": "comandarais",
+    "3p": "comandaran"
+  },
+  "PImpC": {
+    "1s": "comandase",
+    "2s": "comandases",
+    "3s": "comandase",
+    "1p": "comandásemos",
+    "2p": "comandaseis",
+    "3p": "comandasen"
+  },
+  "FutSC": {
+    "1s": "comandare",
+    "2s": "comandares",
+    "3s": "comandare",
+    "1p": "comandáremos",
+    "2p": "comandareis",
+    "3p": "comandaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "comanda",
+    "3s": "comande",
+    "1p": "comandemos",
+    "2p": "comandad",
+    "3p": "comanden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no comandes",
+    "3s": "no comande",
+    "1p": "no comandemos",
+    "2p": "no comandéis",
+    "3p": "no comanden"
+  },
+  "Part-ter": {
+    "": "comandado"
+  },
+  "Part-ser": {
+    "ms": "comandado",
+    "fs": "comandada",
+    "mp": "comandados",
+    "fp": "comandadas"
+  }
+}

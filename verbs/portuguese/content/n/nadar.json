@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "nadar"
+  },
+  "InfP": {
+    "1s": "nadar",
+    "2s": "nadares",
+    "3s": "nadar",
+    "1p": "nadarmos",
+    "2p": "nadardes",
+    "3p": "nadarem"
+  },
+  "Ger": {
+    "": "nadando"
+  },
+  "PresI": {
+    "1s": "nado",
+    "2s": "nadas",
+    "3s": "nada",
+    "1p": "nadamos",
+    "2p": "nadais",
+    "3p": "nadam"
+  },
+  "PImpI": {
+    "1s": "nadava",
+    "2s": "nadavas",
+    "3s": "nadava",
+    "1p": "nadávamos",
+    "2p": "nadáveis",
+    "3p": "nadavam"
+  },
+  "PPSI": {
+    "1s": "nadei",
+    "2s": "nadaste",
+    "3s": "nadou",
+    "1p": "nadámos",
+    "2p": "nadastes",
+    "3p": "nadaram"
+  },
+  "PMQPSI": {
+    "1s": "nadara",
+    "2s": "nadaras",
+    "3s": "nadara",
+    "1p": "nadáramos",
+    "2p": "nadáreis",
+    "3p": "nadaram"
+  },
+  "FutSI": {
+    "1s": "nadarei",
+    "2s": "nadarás",
+    "3s": "nadará",
+    "1p": "nadaremos",
+    "2p": "nadareis",
+    "3p": "nadarão"
+  },
+  "CondS": {
+    "1s": "nadaria",
+    "2s": "nadarias",
+    "3s": "nadaria",
+    "1p": "nadaríamos",
+    "2p": "nadaríeis",
+    "3p": "nadariam"
+  },
+  "PresC": {
+    "1s": "nade",
+    "2s": "nades",
+    "3s": "nade",
+    "1p": "nademos",
+    "2p": "nadeis",
+    "3p": "nadem"
+  },
+  "PImpC": {
+    "1s": "nadasse",
+    "2s": "nadasses",
+    "3s": "nadasse",
+    "1p": "nadássemos",
+    "2p": "nadásseis",
+    "3p": "nadassem"
+  },
+  "FutSC": {
+    "1s": "nadar",
+    "2s": "nadares",
+    "3s": "nadar",
+    "1p": "nadarmos",
+    "2p": "nadardes",
+    "3p": "nadarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "nada",
+    "3s": "nade",
+    "1p": "nademos",
+    "2p": "nadai",
+    "3p": "nadem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não nades",
+    "3s": "não nade",
+    "1p": "não nademos",
+    "2p": "não nadeis",
+    "3p": "não nadem"
+  },
+  "Part-ter": {
+    "": "nadado"
+  },
+  "Part-ser": {
+    "ms": "nadado",
+    "fs": "nadada",
+    "mp": "nadados",
+    "fp": "nadadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "hacer"
+  },
+  "Ger": {
+    "": "haciendo"
+  },
+  "PresI": {
+    "1s": "hago",
+    "2s": "haces",
+    "3s": "hace",
+    "1p": "hacemos",
+    "2p": "hacéis",
+    "3p": "hacen"
+  },
+  "PImpI": {
+    "1s": "hacía",
+    "2s": "hacías",
+    "3s": "hacía",
+    "1p": "hacíamos",
+    "2p": "hacíais",
+    "3p": "hacían"
+  },
+  "PPSI": {
+    "1s": "hice",
+    "2s": "hiciste",
+    "3s": "hizo",
+    "1p": "hicimos",
+    "2p": "hicisteis",
+    "3p": "hicieron"
+  },
+  "FutSI": {
+    "1s": "haré",
+    "2s": "harás",
+    "3s": "hará",
+    "1p": "haremos",
+    "2p": "haréis",
+    "3p": "harán"
+  },
+  "CondS": {
+    "1s": "haría",
+    "2s": "harías",
+    "3s": "haría",
+    "1p": "haríamos",
+    "2p": "haríais",
+    "3p": "harían"
+  },
+  "PresC": {
+    "1s": "haga",
+    "2s": "hagas",
+    "3s": "haga",
+    "1p": "hagamos",
+    "2p": "hagáis",
+    "3p": "hagan"
+  },
+  "PMQPSI": {
+    "1s": "hiciera",
+    "2s": "hicieras",
+    "3s": "hiciera",
+    "1p": "hiciéramos",
+    "2p": "hicierais",
+    "3p": "hicieran"
+  },
+  "PImpC": {
+    "1s": "hiciese",
+    "2s": "hicieses",
+    "3s": "hiciese",
+    "1p": "hiciésemos",
+    "2p": "hicieseis",
+    "3p": "hiciesen"
+  },
+  "FutSC": {
+    "1s": "hiciere",
+    "2s": "hicieres",
+    "3s": "hiciere",
+    "1p": "hiciéremos",
+    "2p": "hiciereis",
+    "3p": "hicieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "hace",
+    "3s": "haga",
+    "1p": "hagamos",
+    "2p": "haced",
+    "3p": "hagan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no hagas",
+    "3s": "no haga",
+    "1p": "no hagamos",
+    "2p": "no hagáis",
+    "3p": "no hagan"
+  },
+  "Part-ter": {
+    "": "hecho"
+  },
+  "Part-ser": {
+    "ms": "hecho",
+    "fs": "hecha",
+    "mp": "hechos",
+    "fp": "hechas"
+  }
+}

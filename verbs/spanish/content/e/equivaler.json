@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "equivaler"
+  },
+  "Ger": {
+    "": "equivaliendo"
+  },
+  "PresI": {
+    "1s": "equivalgo",
+    "2s": "equivales",
+    "3s": "equivale",
+    "1p": "equivalemos",
+    "2p": "equivaléis",
+    "3p": "equivalen"
+  },
+  "PImpI": {
+    "1s": "equivalía",
+    "2s": "equivalías",
+    "3s": "equivalía",
+    "1p": "equivalíamos",
+    "2p": "equivalíais",
+    "3p": "equivalían"
+  },
+  "PPSI": {
+    "1s": "equivalí",
+    "2s": "equivaliste",
+    "3s": "equivalió",
+    "1p": "equivalimos",
+    "2p": "equivalisteis",
+    "3p": "equivalieron"
+  },
+  "FutSI": {
+    "1s": "equivaldré",
+    "2s": "equivaldrás",
+    "3s": "equivaldrá",
+    "1p": "equivaldremos",
+    "2p": "equivaldréis",
+    "3p": "equivaldrán"
+  },
+  "CondS": {
+    "1s": "equivaldría",
+    "2s": "equivaldrías",
+    "3s": "equivaldría",
+    "1p": "equivaldríamos",
+    "2p": "equivaldríais",
+    "3p": "equivaldrían"
+  },
+  "PresC": {
+    "1s": "equivalga",
+    "2s": "equivalgas",
+    "3s": "equivalga",
+    "1p": "equivalgamos",
+    "2p": "equivalgáis",
+    "3p": "equivalgan"
+  },
+  "PMQPSI": {
+    "1s": "equivaliera",
+    "2s": "equivalieras",
+    "3s": "equivaliera",
+    "1p": "equivaliéramos",
+    "2p": "equivalierais",
+    "3p": "equivalieran"
+  },
+  "PImpC": {
+    "1s": "equivaliese",
+    "2s": "equivalieses",
+    "3s": "equivaliese",
+    "1p": "equivaliésemos",
+    "2p": "equivalieseis",
+    "3p": "equivaliesen"
+  },
+  "FutSC": {
+    "1s": "equivaliere",
+    "2s": "equivalieres",
+    "3s": "equivaliere",
+    "1p": "equivaliéremos",
+    "2p": "equivaliereis",
+    "3p": "equivalieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "equivale",
+    "3s": "equivalga",
+    "1p": "equivalgamos",
+    "2p": "equivaled",
+    "3p": "equivalgan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no equivalgas",
+    "3s": "no equivalga",
+    "1p": "no equivalgamos",
+    "2p": "no equivalgáis",
+    "3p": "no equivalgan"
+  },
+  "Part-ter": {
+    "": "equivalido"
+  },
+  "Part-ser": {
+    "ms": "equivalido",
+    "fs": "equivalida",
+    "mp": "equivalidos",
+    "fp": "equivalidas"
+  }
+}

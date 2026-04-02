@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "distribuir"
+  },
+  "Ger": {
+    "": "distribuyendo"
+  },
+  "PresI": {
+    "1s": "distribuyo",
+    "2s": "distribuyes",
+    "3s": "distribuye",
+    "1p": "distribuimos",
+    "2p": "distribuís",
+    "3p": "distribuyen"
+  },
+  "PImpI": {
+    "1s": "distribuía",
+    "2s": "distribuías",
+    "3s": "distribuía",
+    "1p": "distribuíamos",
+    "2p": "distribuíais",
+    "3p": "distribuían"
+  },
+  "PPSI": {
+    "1s": "distribuí",
+    "2s": "distribuiste",
+    "3s": "distribuyó",
+    "1p": "distribuimos",
+    "2p": "distribuisteis",
+    "3p": "distribuyeron"
+  },
+  "FutSI": {
+    "1s": "distribuiré",
+    "2s": "distribuirás",
+    "3s": "distribuirá",
+    "1p": "distribuiremos",
+    "2p": "distribuiréis",
+    "3p": "distribuirán"
+  },
+  "CondS": {
+    "1s": "distribuiría",
+    "2s": "distribuirías",
+    "3s": "distribuiría",
+    "1p": "distribuiríamos",
+    "2p": "distribuiríais",
+    "3p": "distribuirían"
+  },
+  "PresC": {
+    "1s": "distribuya",
+    "2s": "distribuyas",
+    "3s": "distribuya",
+    "1p": "distribuyamos",
+    "2p": "distribuyáis",
+    "3p": "distribuyan"
+  },
+  "PMQPSI": {
+    "1s": "distribuyera",
+    "2s": "distribuyeras",
+    "3s": "distribuyera",
+    "1p": "distribuyéramos",
+    "2p": "distribuyerais",
+    "3p": "distribuyeran"
+  },
+  "PImpC": {
+    "1s": "distribuyese",
+    "2s": "distribuyeses",
+    "3s": "distribuyese",
+    "1p": "distribuyésemos",
+    "2p": "distribuyeseis",
+    "3p": "distribuyesen"
+  },
+  "FutSC": {
+    "1s": "distribuyere",
+    "2s": "distribuyeres",
+    "3s": "distribuyere",
+    "1p": "distribuyéremos",
+    "2p": "distribuyereis",
+    "3p": "distribuyeren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "distribuye",
+    "3s": "distribuya",
+    "1p": "distribuyamos",
+    "2p": "distribuid",
+    "3p": "distribuyan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no distribuyas",
+    "3s": "no distribuya",
+    "1p": "no distribuyamos",
+    "2p": "no distribuyáis",
+    "3p": "no distribuyan"
+  },
+  "Part-ter": {
+    "": "distribuido"
+  },
+  "Part-ser": {
+    "ms": "distribuido",
+    "fs": "distribuida",
+    "mp": "distribuidos",
+    "fp": "distribuidas"
+  }
+}

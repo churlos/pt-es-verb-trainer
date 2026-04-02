@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "dublar"
+  },
+  "InfP": {
+    "1s": "dublar",
+    "2s": "dublares",
+    "3s": "dublar",
+    "1p": "dublarmos",
+    "2p": "dublardes",
+    "3p": "dublarem"
+  },
+  "Ger": {
+    "": "dublando"
+  },
+  "PresI": {
+    "1s": "dublo",
+    "2s": "dublas",
+    "3s": "dubla",
+    "1p": "dublamos",
+    "2p": "dublais",
+    "3p": "dublam"
+  },
+  "PImpI": {
+    "1s": "dublava",
+    "2s": "dublavas",
+    "3s": "dublava",
+    "1p": "dublávamos",
+    "2p": "dubláveis",
+    "3p": "dublavam"
+  },
+  "PPSI": {
+    "1s": "dublei",
+    "2s": "dublaste",
+    "3s": "dublou",
+    "1p": "dublámos",
+    "2p": "dublastes",
+    "3p": "dublaram"
+  },
+  "PMQPSI": {
+    "1s": "dublara",
+    "2s": "dublaras",
+    "3s": "dublara",
+    "1p": "dubláramos",
+    "2p": "dubláreis",
+    "3p": "dublaram"
+  },
+  "FutSI": {
+    "1s": "dublarei",
+    "2s": "dublarás",
+    "3s": "dublará",
+    "1p": "dublaremos",
+    "2p": "dublareis",
+    "3p": "dublarão"
+  },
+  "CondS": {
+    "1s": "dublaria",
+    "2s": "dublarias",
+    "3s": "dublaria",
+    "1p": "dublaríamos",
+    "2p": "dublaríeis",
+    "3p": "dublariam"
+  },
+  "PresC": {
+    "1s": "duble",
+    "2s": "dubles",
+    "3s": "duble",
+    "1p": "dublemos",
+    "2p": "dubleis",
+    "3p": "dublem"
+  },
+  "PImpC": {
+    "1s": "dublasse",
+    "2s": "dublasses",
+    "3s": "dublasse",
+    "1p": "dublássemos",
+    "2p": "dublásseis",
+    "3p": "dublassem"
+  },
+  "FutSC": {
+    "1s": "dublar",
+    "2s": "dublares",
+    "3s": "dublar",
+    "1p": "dublarmos",
+    "2p": "dublardes",
+    "3p": "dublarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "dubla",
+    "3s": "duble",
+    "1p": "dublemos",
+    "2p": "dublai",
+    "3p": "dublem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não dubles",
+    "3s": "não duble",
+    "1p": "não dublemos",
+    "2p": "não dubleis",
+    "3p": "não dublem"
+  },
+  "Part-ter": {
+    "": "dublado"
+  },
+  "Part-ser": {
+    "ms": "dublado",
+    "fs": "dublada",
+    "mp": "dublados",
+    "fp": "dubladas"
+  }
+}

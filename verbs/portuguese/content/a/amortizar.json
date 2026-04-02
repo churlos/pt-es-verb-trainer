@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amortizar"
+  },
+  "InfP": {
+    "1s": "amortizar",
+    "2s": "amortizares",
+    "3s": "amortizar",
+    "1p": "amortizarmos",
+    "2p": "amortizardes",
+    "3p": "amortizarem"
+  },
+  "Ger": {
+    "": "amortizando"
+  },
+  "PresI": {
+    "1s": "amortizo",
+    "2s": "amortizas",
+    "3s": "amortiza",
+    "1p": "amortizamos",
+    "2p": "amortizais",
+    "3p": "amortizam"
+  },
+  "PImpI": {
+    "1s": "amortizava",
+    "2s": "amortizavas",
+    "3s": "amortizava",
+    "1p": "amortizávamos",
+    "2p": "amortizáveis",
+    "3p": "amortizavam"
+  },
+  "PPSI": {
+    "1s": "amortizei",
+    "2s": "amortizaste",
+    "3s": "amortizou",
+    "1p": "amortizámos",
+    "2p": "amortizastes",
+    "3p": "amortizaram"
+  },
+  "PMQPSI": {
+    "1s": "amortizara",
+    "2s": "amortizaras",
+    "3s": "amortizara",
+    "1p": "amortizáramos",
+    "2p": "amortizáreis",
+    "3p": "amortizaram"
+  },
+  "FutSI": {
+    "1s": "amortizarei",
+    "2s": "amortizarás",
+    "3s": "amortizará",
+    "1p": "amortizaremos",
+    "2p": "amortizareis",
+    "3p": "amortizarão"
+  },
+  "CondS": {
+    "1s": "amortizaria",
+    "2s": "amortizarias",
+    "3s": "amortizaria",
+    "1p": "amortizaríamos",
+    "2p": "amortizaríeis",
+    "3p": "amortizariam"
+  },
+  "PresC": {
+    "1s": "amortize",
+    "2s": "amortizes",
+    "3s": "amortize",
+    "1p": "amortizemos",
+    "2p": "amortizeis",
+    "3p": "amortizem"
+  },
+  "PImpC": {
+    "1s": "amortizasse",
+    "2s": "amortizasses",
+    "3s": "amortizasse",
+    "1p": "amortizássemos",
+    "2p": "amortizásseis",
+    "3p": "amortizassem"
+  },
+  "FutSC": {
+    "1s": "amortizar",
+    "2s": "amortizares",
+    "3s": "amortizar",
+    "1p": "amortizarmos",
+    "2p": "amortizardes",
+    "3p": "amortizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amortiza",
+    "3s": "amortize",
+    "1p": "amortizemos",
+    "2p": "amortizai",
+    "3p": "amortizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amortizes",
+    "3s": "não amortize",
+    "1p": "não amortizemos",
+    "2p": "não amortizeis",
+    "3p": "não amortizem"
+  },
+  "Part-ter": {
+    "": "amortizado"
+  },
+  "Part-ser": {
+    "ms": "amortizado",
+    "fs": "amortizada",
+    "mp": "amortizados",
+    "fp": "amortizadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alocar"
+  },
+  "Ger": {
+    "": "alocando"
+  },
+  "PresI": {
+    "1s": "aloco",
+    "2s": "alocas",
+    "3s": "aloca",
+    "1p": "alocamos",
+    "2p": "alocáis",
+    "3p": "alocan"
+  },
+  "PImpI": {
+    "1s": "alocaba",
+    "2s": "alocabas",
+    "3s": "alocaba",
+    "1p": "alocábamos",
+    "2p": "alocabais",
+    "3p": "alocaban"
+  },
+  "PPSI": {
+    "1s": "aloqué",
+    "2s": "alocaste",
+    "3s": "alocó",
+    "1p": "alocamos",
+    "2p": "alocasteis",
+    "3p": "alocaron"
+  },
+  "FutSI": {
+    "1s": "alocaré",
+    "2s": "alocarás",
+    "3s": "alocará",
+    "1p": "alocaremos",
+    "2p": "alocaréis",
+    "3p": "alocarán"
+  },
+  "CondS": {
+    "1s": "alocaría",
+    "2s": "alocarías",
+    "3s": "alocaría",
+    "1p": "alocaríamos",
+    "2p": "alocaríais",
+    "3p": "alocarían"
+  },
+  "PresC": {
+    "1s": "aloque",
+    "2s": "aloques",
+    "3s": "aloque",
+    "1p": "aloquemos",
+    "2p": "aloquéis",
+    "3p": "aloquen"
+  },
+  "PMQPSI": {
+    "1s": "alocara",
+    "2s": "alocaras",
+    "3s": "alocara",
+    "1p": "alocáramos",
+    "2p": "alocarais",
+    "3p": "alocaran"
+  },
+  "PImpC": {
+    "1s": "alocase",
+    "2s": "alocases",
+    "3s": "alocase",
+    "1p": "alocásemos",
+    "2p": "alocaseis",
+    "3p": "alocasen"
+  },
+  "FutSC": {
+    "1s": "alocare",
+    "2s": "alocares",
+    "3s": "alocare",
+    "1p": "alocáremos",
+    "2p": "alocareis",
+    "3p": "alocaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "aloca",
+    "3s": "aloque",
+    "1p": "aloquemos",
+    "2p": "alocad",
+    "3p": "aloquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no aloques",
+    "3s": "no aloque",
+    "1p": "no aloquemos",
+    "2p": "no aloquéis",
+    "3p": "no aloquen"
+  },
+  "Part-ter": {
+    "": "alocado"
+  },
+  "Part-ser": {
+    "ms": "alocado",
+    "fs": "alocada",
+    "mp": "alocados",
+    "fp": "alocadas"
+  }
+}

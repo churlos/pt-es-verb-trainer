@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "caber"
+  },
+  "Ger": {
+    "": "cabiendo"
+  },
+  "PresI": {
+    "1s": "quepo",
+    "2s": "cabes",
+    "3s": "cabe",
+    "1p": "cabemos",
+    "2p": "cabéis",
+    "3p": "caben"
+  },
+  "PImpI": {
+    "1s": "cabía",
+    "2s": "cabías",
+    "3s": "cabía",
+    "1p": "cabíamos",
+    "2p": "cabíais",
+    "3p": "cabían"
+  },
+  "PPSI": {
+    "1s": "cupe",
+    "2s": "cupiste",
+    "3s": "cupo",
+    "1p": "cupimos",
+    "2p": "cupisteis",
+    "3p": "cupieron"
+  },
+  "FutSI": {
+    "1s": "cabré",
+    "2s": "cabrás",
+    "3s": "cabrá",
+    "1p": "cabremos",
+    "2p": "cabréis",
+    "3p": "cabrán"
+  },
+  "CondS": {
+    "1s": "cabría",
+    "2s": "cabrías",
+    "3s": "cabría",
+    "1p": "cabríamos",
+    "2p": "cabríais",
+    "3p": "cabrían"
+  },
+  "PresC": {
+    "1s": "quepa",
+    "2s": "quepas",
+    "3s": "quepa",
+    "1p": "quepamos",
+    "2p": "quepáis",
+    "3p": "quepan"
+  },
+  "PMQPSI": {
+    "1s": "cupiera",
+    "2s": "cupieras",
+    "3s": "cupiera",
+    "1p": "cupiéramos",
+    "2p": "cupierais",
+    "3p": "cupieran"
+  },
+  "PImpC": {
+    "1s": "cupiese",
+    "2s": "cupieses",
+    "3s": "cupiese",
+    "1p": "cupiésemos",
+    "2p": "cupieseis",
+    "3p": "cupiesen"
+  },
+  "FutSC": {
+    "1s": "cupiere",
+    "2s": "cupieres",
+    "3s": "cupiere",
+    "1p": "cupiéremos",
+    "2p": "cupiereis",
+    "3p": "cupieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cabe",
+    "3s": "quepa",
+    "1p": "quepamos",
+    "2p": "cabed",
+    "3p": "quepan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no quepas",
+    "3s": "no quepa",
+    "1p": "no quepamos",
+    "2p": "no quepáis",
+    "3p": "no quepan"
+  },
+  "Part-ter": {
+    "": "cabido"
+  },
+  "Part-ser": {
+    "ms": "cabido",
+    "fs": "cabida",
+    "mp": "cabidos",
+    "fp": "cabidas"
+  }
+}

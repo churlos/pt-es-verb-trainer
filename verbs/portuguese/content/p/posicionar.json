@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "posicionar"
+  },
+  "InfP": {
+    "1s": "posicionar",
+    "2s": "posicionares",
+    "3s": "posicionar",
+    "1p": "posicionarmos",
+    "2p": "posicionardes",
+    "3p": "posicionarem"
+  },
+  "Ger": {
+    "": "posicionando"
+  },
+  "PresI": {
+    "1s": "posiciono",
+    "2s": "posicionas",
+    "3s": "posiciona",
+    "1p": "posicionamos",
+    "2p": "posicionais",
+    "3p": "posicionam"
+  },
+  "PImpI": {
+    "1s": "posicionava",
+    "2s": "posicionavas",
+    "3s": "posicionava",
+    "1p": "posicionávamos",
+    "2p": "posicionáveis",
+    "3p": "posicionavam"
+  },
+  "PPSI": {
+    "1s": "posicionei",
+    "2s": "posicionaste",
+    "3s": "posicionou",
+    "1p": "posicionámos",
+    "2p": "posicionastes",
+    "3p": "posicionaram"
+  },
+  "PMQPSI": {
+    "1s": "posicionara",
+    "2s": "posicionaras",
+    "3s": "posicionara",
+    "1p": "posicionáramos",
+    "2p": "posicionáreis",
+    "3p": "posicionaram"
+  },
+  "FutSI": {
+    "1s": "posicionarei",
+    "2s": "posicionarás",
+    "3s": "posicionará",
+    "1p": "posicionaremos",
+    "2p": "posicionareis",
+    "3p": "posicionarão"
+  },
+  "CondS": {
+    "1s": "posicionaria",
+    "2s": "posicionarias",
+    "3s": "posicionaria",
+    "1p": "posicionaríamos",
+    "2p": "posicionaríeis",
+    "3p": "posicionariam"
+  },
+  "PresC": {
+    "1s": "posicione",
+    "2s": "posiciones",
+    "3s": "posicione",
+    "1p": "posicionemos",
+    "2p": "posicioneis",
+    "3p": "posicionem"
+  },
+  "PImpC": {
+    "1s": "posicionasse",
+    "2s": "posicionasses",
+    "3s": "posicionasse",
+    "1p": "posicionássemos",
+    "2p": "posicionásseis",
+    "3p": "posicionassem"
+  },
+  "FutSC": {
+    "1s": "posicionar",
+    "2s": "posicionares",
+    "3s": "posicionar",
+    "1p": "posicionarmos",
+    "2p": "posicionardes",
+    "3p": "posicionarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "posiciona",
+    "3s": "posicione",
+    "1p": "posicionemos",
+    "2p": "posicionai",
+    "3p": "posicionem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não posiciones",
+    "3s": "não posicione",
+    "1p": "não posicionemos",
+    "2p": "não posicioneis",
+    "3p": "não posicionem"
+  },
+  "Part-ter": {
+    "": "posicionado"
+  },
+  "Part-ser": {
+    "ms": "posicionado",
+    "fs": "posicionada",
+    "mp": "posicionados",
+    "fp": "posicionadas"
+  }
+}

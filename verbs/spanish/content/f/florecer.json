@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "florecer"
+  },
+  "Ger": {
+    "": "floreciendo"
+  },
+  "PresI": {
+    "1s": "florezco",
+    "2s": "floreces",
+    "3s": "florece",
+    "1p": "florecemos",
+    "2p": "florecéis",
+    "3p": "florecen"
+  },
+  "PImpI": {
+    "1s": "florecía",
+    "2s": "florecías",
+    "3s": "florecía",
+    "1p": "florecíamos",
+    "2p": "florecíais",
+    "3p": "florecían"
+  },
+  "PPSI": {
+    "1s": "florecí",
+    "2s": "floreciste",
+    "3s": "floreció",
+    "1p": "florecimos",
+    "2p": "florecisteis",
+    "3p": "florecieron"
+  },
+  "FutSI": {
+    "1s": "floreceré",
+    "2s": "florecerás",
+    "3s": "florecerá",
+    "1p": "floreceremos",
+    "2p": "floreceréis",
+    "3p": "florecerán"
+  },
+  "CondS": {
+    "1s": "florecería",
+    "2s": "florecerías",
+    "3s": "florecería",
+    "1p": "floreceríamos",
+    "2p": "floreceríais",
+    "3p": "florecerían"
+  },
+  "PresC": {
+    "1s": "florezca",
+    "2s": "florezcas",
+    "3s": "florezca",
+    "1p": "florezcamos",
+    "2p": "florezcáis",
+    "3p": "florezcan"
+  },
+  "PMQPSI": {
+    "1s": "floreciera",
+    "2s": "florecieras",
+    "3s": "floreciera",
+    "1p": "floreciéramos",
+    "2p": "florecierais",
+    "3p": "florecieran"
+  },
+  "PImpC": {
+    "1s": "floreciese",
+    "2s": "florecieses",
+    "3s": "floreciese",
+    "1p": "floreciésemos",
+    "2p": "florecieseis",
+    "3p": "floreciesen"
+  },
+  "FutSC": {
+    "1s": "floreciere",
+    "2s": "florecieres",
+    "3s": "floreciere",
+    "1p": "floreciéremos",
+    "2p": "floreciereis",
+    "3p": "florecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "florece",
+    "3s": "florezca",
+    "1p": "florezcamos",
+    "2p": "floreced",
+    "3p": "florezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no florezcas",
+    "3s": "no florezca",
+    "1p": "no florezcamos",
+    "2p": "no florezcáis",
+    "3p": "no florezcan"
+  },
+  "Part-ter": {
+    "": "florecido"
+  },
+  "Part-ser": {
+    "ms": "florecido",
+    "fs": "florecida",
+    "mp": "florecidos",
+    "fp": "florecidas"
+  }
+}

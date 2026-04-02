@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "levitar"
+  },
+  "Ger": {
+    "": "levitando"
+  },
+  "PresI": {
+    "1s": "levito",
+    "2s": "levitas",
+    "3s": "levita",
+    "1p": "levitamos",
+    "2p": "levitáis",
+    "3p": "levitan"
+  },
+  "PImpI": {
+    "1s": "levitaba",
+    "2s": "levitabas",
+    "3s": "levitaba",
+    "1p": "levitábamos",
+    "2p": "levitabais",
+    "3p": "levitaban"
+  },
+  "PPSI": {
+    "1s": "levité",
+    "2s": "levitaste",
+    "3s": "levitó",
+    "1p": "levitamos",
+    "2p": "levitasteis",
+    "3p": "levitaron"
+  },
+  "FutSI": {
+    "1s": "levitaré",
+    "2s": "levitarás",
+    "3s": "levitará",
+    "1p": "levitaremos",
+    "2p": "levitaréis",
+    "3p": "levitarán"
+  },
+  "CondS": {
+    "1s": "levitaría",
+    "2s": "levitarías",
+    "3s": "levitaría",
+    "1p": "levitaríamos",
+    "2p": "levitaríais",
+    "3p": "levitarían"
+  },
+  "PresC": {
+    "1s": "levite",
+    "2s": "levites",
+    "3s": "levite",
+    "1p": "levitemos",
+    "2p": "levitéis",
+    "3p": "leviten"
+  },
+  "PMQPSI": {
+    "1s": "levitara",
+    "2s": "levitaras",
+    "3s": "levitara",
+    "1p": "levitáramos",
+    "2p": "levitarais",
+    "3p": "levitaran"
+  },
+  "PImpC": {
+    "1s": "levitase",
+    "2s": "levitases",
+    "3s": "levitase",
+    "1p": "levitásemos",
+    "2p": "levitaseis",
+    "3p": "levitasen"
+  },
+  "FutSC": {
+    "1s": "levitare",
+    "2s": "levitares",
+    "3s": "levitare",
+    "1p": "levitáremos",
+    "2p": "levitareis",
+    "3p": "levitaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "levita",
+    "3s": "levite",
+    "1p": "levitemos",
+    "2p": "levitad",
+    "3p": "leviten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no levites",
+    "3s": "no levite",
+    "1p": "no levitemos",
+    "2p": "no levitéis",
+    "3p": "no leviten"
+  },
+  "Part-ter": {
+    "": "levitado"
+  },
+  "Part-ser": {
+    "ms": "levitado",
+    "fs": "levitada",
+    "mp": "levitados",
+    "fp": "levitadas"
+  }
+}

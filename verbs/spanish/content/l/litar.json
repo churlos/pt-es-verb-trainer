@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "litar"
+  },
+  "Ger": {
+    "": "litando"
+  },
+  "PresI": {
+    "1s": "lito",
+    "2s": "litas",
+    "3s": "lita",
+    "1p": "litamos",
+    "2p": "litáis",
+    "3p": "litan"
+  },
+  "PImpI": {
+    "1s": "litaba",
+    "2s": "litabas",
+    "3s": "litaba",
+    "1p": "litábamos",
+    "2p": "litabais",
+    "3p": "litaban"
+  },
+  "PPSI": {
+    "1s": "lité",
+    "2s": "litaste",
+    "3s": "litó",
+    "1p": "litamos",
+    "2p": "litasteis",
+    "3p": "litaron"
+  },
+  "FutSI": {
+    "1s": "litaré",
+    "2s": "litarás",
+    "3s": "litará",
+    "1p": "litaremos",
+    "2p": "litaréis",
+    "3p": "litarán"
+  },
+  "CondS": {
+    "1s": "litaría",
+    "2s": "litarías",
+    "3s": "litaría",
+    "1p": "litaríamos",
+    "2p": "litaríais",
+    "3p": "litarían"
+  },
+  "PresC": {
+    "1s": "lite",
+    "2s": "lites",
+    "3s": "lite",
+    "1p": "litemos",
+    "2p": "litéis",
+    "3p": "liten"
+  },
+  "PMQPSI": {
+    "1s": "litara",
+    "2s": "litaras",
+    "3s": "litara",
+    "1p": "litáramos",
+    "2p": "litarais",
+    "3p": "litaran"
+  },
+  "PImpC": {
+    "1s": "litase",
+    "2s": "litases",
+    "3s": "litase",
+    "1p": "litásemos",
+    "2p": "litaseis",
+    "3p": "litasen"
+  },
+  "FutSC": {
+    "1s": "litare",
+    "2s": "litares",
+    "3s": "litare",
+    "1p": "litáremos",
+    "2p": "litareis",
+    "3p": "litaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lita",
+    "3s": "lite",
+    "1p": "litemos",
+    "2p": "litad",
+    "3p": "liten"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no lites",
+    "3s": "no lite",
+    "1p": "no litemos",
+    "2p": "no litéis",
+    "3p": "no liten"
+  },
+  "Part-ter": {
+    "": "litado"
+  },
+  "Part-ser": {
+    "ms": "litado",
+    "fs": "litada",
+    "mp": "litados",
+    "fp": "litadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "acallar"
+  },
+  "Ger": {
+    "": "acallando"
+  },
+  "PresI": {
+    "1s": "acallo",
+    "2s": "acallas",
+    "3s": "acalla",
+    "1p": "acallamos",
+    "2p": "acalláis",
+    "3p": "acallan"
+  },
+  "PImpI": {
+    "1s": "acallaba",
+    "2s": "acallabas",
+    "3s": "acallaba",
+    "1p": "acallábamos",
+    "2p": "acallabais",
+    "3p": "acallaban"
+  },
+  "PPSI": {
+    "1s": "acallé",
+    "2s": "acallaste",
+    "3s": "acalló",
+    "1p": "acallamos",
+    "2p": "acallasteis",
+    "3p": "acallaron"
+  },
+  "FutSI": {
+    "1s": "acallaré",
+    "2s": "acallarás",
+    "3s": "acallará",
+    "1p": "acallaremos",
+    "2p": "acallaréis",
+    "3p": "acallarán"
+  },
+  "CondS": {
+    "1s": "acallaría",
+    "2s": "acallarías",
+    "3s": "acallaría",
+    "1p": "acallaríamos",
+    "2p": "acallaríais",
+    "3p": "acallarían"
+  },
+  "PresC": {
+    "1s": "acalle",
+    "2s": "acalles",
+    "3s": "acalle",
+    "1p": "acallemos",
+    "2p": "acalléis",
+    "3p": "acallen"
+  },
+  "PMQPSI": {
+    "1s": "acallara",
+    "2s": "acallaras",
+    "3s": "acallara",
+    "1p": "acalláramos",
+    "2p": "acallarais",
+    "3p": "acallaran"
+  },
+  "PImpC": {
+    "1s": "acallase",
+    "2s": "acallases",
+    "3s": "acallase",
+    "1p": "acallásemos",
+    "2p": "acallaseis",
+    "3p": "acallasen"
+  },
+  "FutSC": {
+    "1s": "acallare",
+    "2s": "acallares",
+    "3s": "acallare",
+    "1p": "acalláremos",
+    "2p": "acallareis",
+    "3p": "acallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acalla",
+    "3s": "acalle",
+    "1p": "acallemos",
+    "2p": "acallad",
+    "3p": "acallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no acalles",
+    "3s": "no acalle",
+    "1p": "no acallemos",
+    "2p": "no acalléis",
+    "3p": "no acallen"
+  },
+  "Part-ter": {
+    "": "acallado"
+  },
+  "Part-ser": {
+    "ms": "acallado",
+    "fs": "acallada",
+    "mp": "acallados",
+    "fp": "acalladas"
+  }
+}

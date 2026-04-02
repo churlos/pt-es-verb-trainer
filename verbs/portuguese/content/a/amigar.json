@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amigar"
+  },
+  "InfP": {
+    "1s": "amigar",
+    "2s": "amigares",
+    "3s": "amigar",
+    "1p": "amigarmos",
+    "2p": "amigardes",
+    "3p": "amigarem"
+  },
+  "Ger": {
+    "": "amigando"
+  },
+  "PresI": {
+    "1s": "amigo",
+    "2s": "amigas",
+    "3s": "amiga",
+    "1p": "amigamos",
+    "2p": "amigais",
+    "3p": "amigam"
+  },
+  "PImpI": {
+    "1s": "amigava",
+    "2s": "amigavas",
+    "3s": "amigava",
+    "1p": "amigávamos",
+    "2p": "amigáveis",
+    "3p": "amigavam"
+  },
+  "PPSI": {
+    "1s": "amiguei",
+    "2s": "amigaste",
+    "3s": "amigou",
+    "1p": "amigámos",
+    "2p": "amigastes",
+    "3p": "amigaram"
+  },
+  "PMQPSI": {
+    "1s": "amigara",
+    "2s": "amigaras",
+    "3s": "amigara",
+    "1p": "amigáramos",
+    "2p": "amigáreis",
+    "3p": "amigaram"
+  },
+  "FutSI": {
+    "1s": "amigarei",
+    "2s": "amigarás",
+    "3s": "amigará",
+    "1p": "amigaremos",
+    "2p": "amigareis",
+    "3p": "amigarão"
+  },
+  "CondS": {
+    "1s": "amigaria",
+    "2s": "amigarias",
+    "3s": "amigaria",
+    "1p": "amigaríamos",
+    "2p": "amigaríeis",
+    "3p": "amigariam"
+  },
+  "PresC": {
+    "1s": "amigue",
+    "2s": "amigues",
+    "3s": "amigue",
+    "1p": "amiguemos",
+    "2p": "amigueis",
+    "3p": "amiguem"
+  },
+  "PImpC": {
+    "1s": "amigasse",
+    "2s": "amigasses",
+    "3s": "amigasse",
+    "1p": "amigássemos",
+    "2p": "amigásseis",
+    "3p": "amigassem"
+  },
+  "FutSC": {
+    "1s": "amigar",
+    "2s": "amigares",
+    "3s": "amigar",
+    "1p": "amigarmos",
+    "2p": "amigardes",
+    "3p": "amigarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amiga",
+    "3s": "amigue",
+    "1p": "amiguemos",
+    "2p": "amigai",
+    "3p": "amiguem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amigues",
+    "3s": "não amigue",
+    "1p": "não amiguemos",
+    "2p": "não amigueis",
+    "3p": "não amiguem"
+  },
+  "Part-ter": {
+    "": "amigado"
+  },
+  "Part-ser": {
+    "ms": "amigado",
+    "fs": "amigada",
+    "mp": "amigados",
+    "fp": "amigadas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "desencriptar"
+  },
+  "InfP": {
+    "1s": "desencriptar",
+    "2s": "desencriptares",
+    "3s": "desencriptar",
+    "1p": "desencriptarmos",
+    "2p": "desencriptardes",
+    "3p": "desencriptarem"
+  },
+  "Ger": {
+    "": "desencriptando"
+  },
+  "PresI": {
+    "1s": "desencripto",
+    "2s": "desencriptas",
+    "3s": "desencripta",
+    "1p": "desencriptamos",
+    "2p": "desencriptais",
+    "3p": "desencriptam"
+  },
+  "PImpI": {
+    "1s": "desencriptava",
+    "2s": "desencriptavas",
+    "3s": "desencriptava",
+    "1p": "desencriptávamos",
+    "2p": "desencriptáveis",
+    "3p": "desencriptavam"
+  },
+  "PPSI": {
+    "1s": "desencriptei",
+    "2s": "desencriptaste",
+    "3s": "desencriptou",
+    "1p": "desencriptámos",
+    "2p": "desencriptastes",
+    "3p": "desencriptaram"
+  },
+  "PMQPSI": {
+    "1s": "desencriptara",
+    "2s": "desencriptaras",
+    "3s": "desencriptara",
+    "1p": "desencriptáramos",
+    "2p": "desencriptáreis",
+    "3p": "desencriptaram"
+  },
+  "FutSI": {
+    "1s": "desencriptarei",
+    "2s": "desencriptarás",
+    "3s": "desencriptará",
+    "1p": "desencriptaremos",
+    "2p": "desencriptareis",
+    "3p": "desencriptarão"
+  },
+  "CondS": {
+    "1s": "desencriptaria",
+    "2s": "desencriptarias",
+    "3s": "desencriptaria",
+    "1p": "desencriptaríamos",
+    "2p": "desencriptaríeis",
+    "3p": "desencriptariam"
+  },
+  "PresC": {
+    "1s": "desencripte",
+    "2s": "desencriptes",
+    "3s": "desencripte",
+    "1p": "desencriptemos",
+    "2p": "desencripteis",
+    "3p": "desencriptem"
+  },
+  "PImpC": {
+    "1s": "desencriptasse",
+    "2s": "desencriptasses",
+    "3s": "desencriptasse",
+    "1p": "desencriptássemos",
+    "2p": "desencriptásseis",
+    "3p": "desencriptassem"
+  },
+  "FutSC": {
+    "1s": "desencriptar",
+    "2s": "desencriptares",
+    "3s": "desencriptar",
+    "1p": "desencriptarmos",
+    "2p": "desencriptardes",
+    "3p": "desencriptarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desencripta",
+    "3s": "desencripte",
+    "1p": "desencriptemos",
+    "2p": "desencriptai",
+    "3p": "desencriptem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não desencriptes",
+    "3s": "não desencripte",
+    "1p": "não desencriptemos",
+    "2p": "não desencripteis",
+    "3p": "não desencriptem"
+  },
+  "Part-ter": {
+    "": "desencriptado"
+  },
+  "Part-ser": {
+    "ms": "desencriptado",
+    "fs": "desencriptada",
+    "mp": "desencriptados",
+    "fp": "desencriptadas"
+  }
+}

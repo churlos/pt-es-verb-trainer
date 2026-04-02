@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "autopagarse"
+  },
+  "Ger": {
+    "": "autopagándose"
+  },
+  "PresI": {
+    "1s": "me autopago",
+    "2s": "te autopagas",
+    "3s": "se autopaga",
+    "1p": "nos autopagamos",
+    "2p": "os autopagáis",
+    "3p": "se autopagan"
+  },
+  "PImpI": {
+    "1s": "me autopagaba",
+    "2s": "te autopagabas",
+    "3s": "se autopagaba",
+    "1p": "nos autopagábamos",
+    "2p": "os autopagabais",
+    "3p": "se autopagaban"
+  },
+  "PPSI": {
+    "1s": "me autopagué",
+    "2s": "te autopagaste",
+    "3s": "se autopagó",
+    "1p": "nos autopagamos",
+    "2p": "os autopagasteis",
+    "3p": "se autopagaron"
+  },
+  "FutSI": {
+    "1s": "me autopagaré",
+    "2s": "te autopagarás",
+    "3s": "se autopagará",
+    "1p": "nos autopagaremos",
+    "2p": "os autopagaréis",
+    "3p": "se autopagarán"
+  },
+  "CondS": {
+    "1s": "me autopagaría",
+    "2s": "te autopagarías",
+    "3s": "se autopagaría",
+    "1p": "nos autopagaríamos",
+    "2p": "os autopagaríais",
+    "3p": "se autopagarían"
+  },
+  "PresC": {
+    "1s": "me autopague",
+    "2s": "te autopagues",
+    "3s": "se autopague",
+    "1p": "nos autopaguemos",
+    "2p": "os autopaguéis",
+    "3p": "se autopaguen"
+  },
+  "PMQPSI": {
+    "1s": "me autopagara",
+    "2s": "te autopagaras",
+    "3s": "se autopagara",
+    "1p": "nos autopagáramos",
+    "2p": "os autopagarais",
+    "3p": "se autopagaran"
+  },
+  "PImpC": {
+    "1s": "me autopagase",
+    "2s": "te autopagases",
+    "3s": "se autopagase",
+    "1p": "nos autopagásemos",
+    "2p": "os autopagaseis",
+    "3p": "se autopagasen"
+  },
+  "FutSC": {
+    "1s": "me autopagare",
+    "2s": "te autopagares",
+    "3s": "se autopagare",
+    "1p": "nos autopagáremos",
+    "2p": "os autopagareis",
+    "3p": "se autopagaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "autopágate",
+    "3s": "autopáguese",
+    "1p": "autopaguémonos",
+    "2p": "autopagaos",
+    "3p": "autopáguense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te autopagues",
+    "3s": "no se autopague",
+    "1p": "no nos autopaguemos",
+    "2p": "no os autopaguéis",
+    "3p": "no se autopaguen"
+  },
+  "Part-ter": {
+    "": "autopagado"
+  },
+  "Part-ser": {
+    "ms": "autopagado",
+    "fs": "autopagada",
+    "mp": "autopagados",
+    "fp": "autopagadas"
+  }
+}

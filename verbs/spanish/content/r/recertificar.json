@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "recertificar"
+  },
+  "Ger": {
+    "": "recertificando"
+  },
+  "PresI": {
+    "1s": "recertifico",
+    "2s": "recertificas",
+    "3s": "recertifica",
+    "1p": "recertificamos",
+    "2p": "recertificáis",
+    "3p": "recertifican"
+  },
+  "PImpI": {
+    "1s": "recertificaba",
+    "2s": "recertificabas",
+    "3s": "recertificaba",
+    "1p": "recertificábamos",
+    "2p": "recertificabais",
+    "3p": "recertificaban"
+  },
+  "PPSI": {
+    "1s": "recertifiqué",
+    "2s": "recertificaste",
+    "3s": "recertificó",
+    "1p": "recertificamos",
+    "2p": "recertificasteis",
+    "3p": "recertificaron"
+  },
+  "FutSI": {
+    "1s": "recertificaré",
+    "2s": "recertificarás",
+    "3s": "recertificará",
+    "1p": "recertificaremos",
+    "2p": "recertificaréis",
+    "3p": "recertificarán"
+  },
+  "CondS": {
+    "1s": "recertificaría",
+    "2s": "recertificarías",
+    "3s": "recertificaría",
+    "1p": "recertificaríamos",
+    "2p": "recertificaríais",
+    "3p": "recertificarían"
+  },
+  "PresC": {
+    "1s": "recertifique",
+    "2s": "recertifiques",
+    "3s": "recertifique",
+    "1p": "recertifiquemos",
+    "2p": "recertifiquéis",
+    "3p": "recertifiquen"
+  },
+  "PMQPSI": {
+    "1s": "recertificara",
+    "2s": "recertificaras",
+    "3s": "recertificara",
+    "1p": "recertificáramos",
+    "2p": "recertificarais",
+    "3p": "recertificaran"
+  },
+  "PImpC": {
+    "1s": "recertificase",
+    "2s": "recertificases",
+    "3s": "recertificase",
+    "1p": "recertificásemos",
+    "2p": "recertificaseis",
+    "3p": "recertificasen"
+  },
+  "FutSC": {
+    "1s": "recertificare",
+    "2s": "recertificares",
+    "3s": "recertificare",
+    "1p": "recertificáremos",
+    "2p": "recertificareis",
+    "3p": "recertificaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "recertifica",
+    "3s": "recertifique",
+    "1p": "recertifiquemos",
+    "2p": "recertificad",
+    "3p": "recertifiquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no recertifiques",
+    "3s": "no recertifique",
+    "1p": "no recertifiquemos",
+    "2p": "no recertifiquéis",
+    "3p": "no recertifiquen"
+  },
+  "Part-ter": {
+    "": "recertificado"
+  },
+  "Part-ser": {
+    "ms": "recertificado",
+    "fs": "recertificada",
+    "mp": "recertificados",
+    "fp": "recertificadas"
+  }
+}

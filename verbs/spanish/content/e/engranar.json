@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "engranar"
+  },
+  "Ger": {
+    "": "engranando"
+  },
+  "PresI": {
+    "1s": "engrano",
+    "2s": "engranas",
+    "3s": "engrana",
+    "1p": "engranamos",
+    "2p": "engranáis",
+    "3p": "engranan"
+  },
+  "PImpI": {
+    "1s": "engranaba",
+    "2s": "engranabas",
+    "3s": "engranaba",
+    "1p": "engranábamos",
+    "2p": "engranabais",
+    "3p": "engranaban"
+  },
+  "PPSI": {
+    "1s": "engrané",
+    "2s": "engranaste",
+    "3s": "engranó",
+    "1p": "engranamos",
+    "2p": "engranasteis",
+    "3p": "engranaron"
+  },
+  "FutSI": {
+    "1s": "engranaré",
+    "2s": "engranarás",
+    "3s": "engranará",
+    "1p": "engranaremos",
+    "2p": "engranaréis",
+    "3p": "engranarán"
+  },
+  "CondS": {
+    "1s": "engranaría",
+    "2s": "engranarías",
+    "3s": "engranaría",
+    "1p": "engranaríamos",
+    "2p": "engranaríais",
+    "3p": "engranarían"
+  },
+  "PresC": {
+    "1s": "engrane",
+    "2s": "engranes",
+    "3s": "engrane",
+    "1p": "engranemos",
+    "2p": "engranéis",
+    "3p": "engranen"
+  },
+  "PMQPSI": {
+    "1s": "engranara",
+    "2s": "engranaras",
+    "3s": "engranara",
+    "1p": "engranáramos",
+    "2p": "engranarais",
+    "3p": "engranaran"
+  },
+  "PImpC": {
+    "1s": "engranase",
+    "2s": "engranases",
+    "3s": "engranase",
+    "1p": "engranásemos",
+    "2p": "engranaseis",
+    "3p": "engranasen"
+  },
+  "FutSC": {
+    "1s": "engranare",
+    "2s": "engranares",
+    "3s": "engranare",
+    "1p": "engranáremos",
+    "2p": "engranareis",
+    "3p": "engranaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "engrana",
+    "3s": "engrane",
+    "1p": "engranemos",
+    "2p": "engranad",
+    "3p": "engranen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no engranes",
+    "3s": "no engrane",
+    "1p": "no engranemos",
+    "2p": "no engranéis",
+    "3p": "no engranen"
+  },
+  "Part-ter": {
+    "": "engranado"
+  },
+  "Part-ser": {
+    "ms": "engranado",
+    "fs": "engranada",
+    "mp": "engranados",
+    "fp": "engranadas"
+  }
+}

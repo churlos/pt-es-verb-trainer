@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "agregar"
+  },
+  "Ger": {
+    "": "agregando"
+  },
+  "PresI": {
+    "1s": "agrego",
+    "2s": "agregas",
+    "3s": "agrega",
+    "1p": "agregamos",
+    "2p": "agregáis",
+    "3p": "agregan"
+  },
+  "PImpI": {
+    "1s": "agregaba",
+    "2s": "agregabas",
+    "3s": "agregaba",
+    "1p": "agregábamos",
+    "2p": "agregabais",
+    "3p": "agregaban"
+  },
+  "PPSI": {
+    "1s": "agregué",
+    "2s": "agregaste",
+    "3s": "agregó",
+    "1p": "agregamos",
+    "2p": "agregasteis",
+    "3p": "agregaron"
+  },
+  "FutSI": {
+    "1s": "agregaré",
+    "2s": "agregarás",
+    "3s": "agregará",
+    "1p": "agregaremos",
+    "2p": "agregaréis",
+    "3p": "agregarán"
+  },
+  "CondS": {
+    "1s": "agregaría",
+    "2s": "agregarías",
+    "3s": "agregaría",
+    "1p": "agregaríamos",
+    "2p": "agregaríais",
+    "3p": "agregarían"
+  },
+  "PresC": {
+    "1s": "agregue",
+    "2s": "agregues",
+    "3s": "agregue",
+    "1p": "agreguemos",
+    "2p": "agreguéis",
+    "3p": "agreguen"
+  },
+  "PMQPSI": {
+    "1s": "agregara",
+    "2s": "agregaras",
+    "3s": "agregara",
+    "1p": "agregáramos",
+    "2p": "agregarais",
+    "3p": "agregaran"
+  },
+  "PImpC": {
+    "1s": "agregase",
+    "2s": "agregases",
+    "3s": "agregase",
+    "1p": "agregásemos",
+    "2p": "agregaseis",
+    "3p": "agregasen"
+  },
+  "FutSC": {
+    "1s": "agregare",
+    "2s": "agregares",
+    "3s": "agregare",
+    "1p": "agregáremos",
+    "2p": "agregareis",
+    "3p": "agregaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "agrega",
+    "3s": "agregue",
+    "1p": "agreguemos",
+    "2p": "agregad",
+    "3p": "agreguen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no agregues",
+    "3s": "no agregue",
+    "1p": "no agreguemos",
+    "2p": "no agreguéis",
+    "3p": "no agreguen"
+  },
+  "Part-ter": {
+    "": "agregado"
+  },
+  "Part-ser": {
+    "ms": "agregado",
+    "fs": "agregada",
+    "mp": "agregados",
+    "fp": "agregadas"
+  }
+}

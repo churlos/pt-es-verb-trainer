@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "alumbrar"
+  },
+  "Ger": {
+    "": "alumbrando"
+  },
+  "PresI": {
+    "1s": "alumbro",
+    "2s": "alumbras",
+    "3s": "alumbra",
+    "1p": "alumbramos",
+    "2p": "alumbráis",
+    "3p": "alumbran"
+  },
+  "PImpI": {
+    "1s": "alumbraba",
+    "2s": "alumbrabas",
+    "3s": "alumbraba",
+    "1p": "alumbrábamos",
+    "2p": "alumbrabais",
+    "3p": "alumbraban"
+  },
+  "PPSI": {
+    "1s": "alumbré",
+    "2s": "alumbraste",
+    "3s": "alumbró",
+    "1p": "alumbramos",
+    "2p": "alumbrasteis",
+    "3p": "alumbraron"
+  },
+  "FutSI": {
+    "1s": "alumbraré",
+    "2s": "alumbrarás",
+    "3s": "alumbrará",
+    "1p": "alumbraremos",
+    "2p": "alumbraréis",
+    "3p": "alumbrarán"
+  },
+  "CondS": {
+    "1s": "alumbraría",
+    "2s": "alumbrarías",
+    "3s": "alumbraría",
+    "1p": "alumbraríamos",
+    "2p": "alumbraríais",
+    "3p": "alumbrarían"
+  },
+  "PresC": {
+    "1s": "alumbre",
+    "2s": "alumbres",
+    "3s": "alumbre",
+    "1p": "alumbremos",
+    "2p": "alumbréis",
+    "3p": "alumbren"
+  },
+  "PMQPSI": {
+    "1s": "alumbrara",
+    "2s": "alumbraras",
+    "3s": "alumbrara",
+    "1p": "alumbráramos",
+    "2p": "alumbrarais",
+    "3p": "alumbraran"
+  },
+  "PImpC": {
+    "1s": "alumbrase",
+    "2s": "alumbrases",
+    "3s": "alumbrase",
+    "1p": "alumbrásemos",
+    "2p": "alumbraseis",
+    "3p": "alumbrasen"
+  },
+  "FutSC": {
+    "1s": "alumbrare",
+    "2s": "alumbrares",
+    "3s": "alumbrare",
+    "1p": "alumbráremos",
+    "2p": "alumbrareis",
+    "3p": "alumbraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alumbra",
+    "3s": "alumbre",
+    "1p": "alumbremos",
+    "2p": "alumbrad",
+    "3p": "alumbren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no alumbres",
+    "3s": "no alumbre",
+    "1p": "no alumbremos",
+    "2p": "no alumbréis",
+    "3p": "no alumbren"
+  },
+  "Part-ter": {
+    "": "alumbrado"
+  },
+  "Part-ser": {
+    "ms": "alumbrado",
+    "fs": "alumbrada",
+    "mp": "alumbrados",
+    "fp": "alumbradas"
+  }
+}

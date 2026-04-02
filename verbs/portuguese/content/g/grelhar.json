@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "grelhar"
+  },
+  "InfP": {
+    "1s": "grelhar",
+    "2s": "grelhares",
+    "3s": "grelhar",
+    "1p": "grelharmos",
+    "2p": "grelhardes",
+    "3p": "grelharem"
+  },
+  "Ger": {
+    "": "grelhando"
+  },
+  "PresI": {
+    "1s": "grelho",
+    "2s": "grelhas",
+    "3s": "grelha",
+    "1p": "grelhamos",
+    "2p": "grelhais",
+    "3p": "grelham"
+  },
+  "PImpI": {
+    "1s": "grelhava",
+    "2s": "grelhavas",
+    "3s": "grelhava",
+    "1p": "grelhávamos",
+    "2p": "grelháveis",
+    "3p": "grelhavam"
+  },
+  "PPSI": {
+    "1s": "grelhei",
+    "2s": "grelhaste",
+    "3s": "grelhou",
+    "1p": "grelhámos",
+    "2p": "grelhastes",
+    "3p": "grelharam"
+  },
+  "PMQPSI": {
+    "1s": "grelhara",
+    "2s": "grelharas",
+    "3s": "grelhara",
+    "1p": "grelháramos",
+    "2p": "grelháreis",
+    "3p": "grelharam"
+  },
+  "FutSI": {
+    "1s": "grelharei",
+    "2s": "grelharás",
+    "3s": "grelhará",
+    "1p": "grelharemos",
+    "2p": "grelhareis",
+    "3p": "grelharão"
+  },
+  "CondS": {
+    "1s": "grelharia",
+    "2s": "grelharias",
+    "3s": "grelharia",
+    "1p": "grelharíamos",
+    "2p": "grelharíeis",
+    "3p": "grelhariam"
+  },
+  "PresC": {
+    "1s": "grelhe",
+    "2s": "grelhes",
+    "3s": "grelhe",
+    "1p": "grelhemos",
+    "2p": "grelheis",
+    "3p": "grelhem"
+  },
+  "PImpC": {
+    "1s": "grelhasse",
+    "2s": "grelhasses",
+    "3s": "grelhasse",
+    "1p": "grelhássemos",
+    "2p": "grelhásseis",
+    "3p": "grelhassem"
+  },
+  "FutSC": {
+    "1s": "grelhar",
+    "2s": "grelhares",
+    "3s": "grelhar",
+    "1p": "grelharmos",
+    "2p": "grelhardes",
+    "3p": "grelharem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "grelha",
+    "3s": "grelhe",
+    "1p": "grelhemos",
+    "2p": "grelhai",
+    "3p": "grelhem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não grelhes",
+    "3s": "não grelhe",
+    "1p": "não grelhemos",
+    "2p": "não grelheis",
+    "3p": "não grelhem"
+  },
+  "Part-ter": {
+    "": "grelhado"
+  },
+  "Part-ser": {
+    "ms": "grelhado",
+    "fs": "grelhada",
+    "mp": "grelhados",
+    "fp": "grelhadas"
+  }
+}

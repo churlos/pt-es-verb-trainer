@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "defumar"
+  },
+  "InfP": {
+    "1s": "defumar",
+    "2s": "defumares",
+    "3s": "defumar",
+    "1p": "defumarmos",
+    "2p": "defumardes",
+    "3p": "defumarem"
+  },
+  "Ger": {
+    "": "defumando"
+  },
+  "PresI": {
+    "1s": "defumo",
+    "2s": "defumas",
+    "3s": "defuma",
+    "1p": "defumamos",
+    "2p": "defumais",
+    "3p": "defumam"
+  },
+  "PImpI": {
+    "1s": "defumava",
+    "2s": "defumavas",
+    "3s": "defumava",
+    "1p": "defumávamos",
+    "2p": "defumáveis",
+    "3p": "defumavam"
+  },
+  "PPSI": {
+    "1s": "defumei",
+    "2s": "defumaste",
+    "3s": "defumou",
+    "1p": "defumámos",
+    "2p": "defumastes",
+    "3p": "defumaram"
+  },
+  "PMQPSI": {
+    "1s": "defumara",
+    "2s": "defumaras",
+    "3s": "defumara",
+    "1p": "defumáramos",
+    "2p": "defumáreis",
+    "3p": "defumaram"
+  },
+  "FutSI": {
+    "1s": "defumarei",
+    "2s": "defumarás",
+    "3s": "defumará",
+    "1p": "defumaremos",
+    "2p": "defumareis",
+    "3p": "defumarão"
+  },
+  "CondS": {
+    "1s": "defumaria",
+    "2s": "defumarias",
+    "3s": "defumaria",
+    "1p": "defumaríamos",
+    "2p": "defumaríeis",
+    "3p": "defumariam"
+  },
+  "PresC": {
+    "1s": "defume",
+    "2s": "defumes",
+    "3s": "defume",
+    "1p": "defumemos",
+    "2p": "defumeis",
+    "3p": "defumem"
+  },
+  "PImpC": {
+    "1s": "defumasse",
+    "2s": "defumasses",
+    "3s": "defumasse",
+    "1p": "defumássemos",
+    "2p": "defumásseis",
+    "3p": "defumassem"
+  },
+  "FutSC": {
+    "1s": "defumar",
+    "2s": "defumares",
+    "3s": "defumar",
+    "1p": "defumarmos",
+    "2p": "defumardes",
+    "3p": "defumarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "defuma",
+    "3s": "defume",
+    "1p": "defumemos",
+    "2p": "defumai",
+    "3p": "defumem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não defumes",
+    "3s": "não defume",
+    "1p": "não defumemos",
+    "2p": "não defumeis",
+    "3p": "não defumem"
+  },
+  "Part-ter": {
+    "": "defumado"
+  },
+  "Part-ser": {
+    "ms": "defumado",
+    "fs": "defumada",
+    "mp": "defumados",
+    "fp": "defumadas"
+  }
+}

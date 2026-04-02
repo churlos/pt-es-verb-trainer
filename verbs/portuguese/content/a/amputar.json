@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "amputar"
+  },
+  "InfP": {
+    "1s": "amputar",
+    "2s": "amputares",
+    "3s": "amputar",
+    "1p": "amputarmos",
+    "2p": "amputardes",
+    "3p": "amputarem"
+  },
+  "Ger": {
+    "": "amputando"
+  },
+  "PresI": {
+    "1s": "amputo",
+    "2s": "amputas",
+    "3s": "amputa",
+    "1p": "amputamos",
+    "2p": "amputais",
+    "3p": "amputam"
+  },
+  "PImpI": {
+    "1s": "amputava",
+    "2s": "amputavas",
+    "3s": "amputava",
+    "1p": "amputávamos",
+    "2p": "amputáveis",
+    "3p": "amputavam"
+  },
+  "PPSI": {
+    "1s": "amputei",
+    "2s": "amputaste",
+    "3s": "amputou",
+    "1p": "amputámos",
+    "2p": "amputastes",
+    "3p": "amputaram"
+  },
+  "PMQPSI": {
+    "1s": "amputara",
+    "2s": "amputaras",
+    "3s": "amputara",
+    "1p": "amputáramos",
+    "2p": "amputáreis",
+    "3p": "amputaram"
+  },
+  "FutSI": {
+    "1s": "amputarei",
+    "2s": "amputarás",
+    "3s": "amputará",
+    "1p": "amputaremos",
+    "2p": "amputareis",
+    "3p": "amputarão"
+  },
+  "CondS": {
+    "1s": "amputaria",
+    "2s": "amputarias",
+    "3s": "amputaria",
+    "1p": "amputaríamos",
+    "2p": "amputaríeis",
+    "3p": "amputariam"
+  },
+  "PresC": {
+    "1s": "ampute",
+    "2s": "amputes",
+    "3s": "ampute",
+    "1p": "amputemos",
+    "2p": "amputeis",
+    "3p": "amputem"
+  },
+  "PImpC": {
+    "1s": "amputasse",
+    "2s": "amputasses",
+    "3s": "amputasse",
+    "1p": "amputássemos",
+    "2p": "amputásseis",
+    "3p": "amputassem"
+  },
+  "FutSC": {
+    "1s": "amputar",
+    "2s": "amputares",
+    "3s": "amputar",
+    "1p": "amputarmos",
+    "2p": "amputardes",
+    "3p": "amputarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "amputa",
+    "3s": "ampute",
+    "1p": "amputemos",
+    "2p": "amputai",
+    "3p": "amputem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não amputes",
+    "3s": "não ampute",
+    "1p": "não amputemos",
+    "2p": "não amputeis",
+    "3p": "não amputem"
+  },
+  "Part-ter": {
+    "": "amputado"
+  },
+  "Part-ser": {
+    "ms": "amputado",
+    "fs": "amputada",
+    "mp": "amputados",
+    "fp": "amputadas"
+  }
+}

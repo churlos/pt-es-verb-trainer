@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desenterrar"
+  },
+  "Ger": {
+    "": "desenterrando"
+  },
+  "PresI": {
+    "1s": "desentierro",
+    "2s": "desentierras",
+    "3s": "desentierra",
+    "1p": "desenterramos",
+    "2p": "desenterráis",
+    "3p": "desentierran"
+  },
+  "PImpI": {
+    "1s": "desenterraba",
+    "2s": "desenterrabas",
+    "3s": "desenterraba",
+    "1p": "desenterrábamos",
+    "2p": "desenterrabais",
+    "3p": "desenterraban"
+  },
+  "PPSI": {
+    "1s": "desenterré",
+    "2s": "desenterraste",
+    "3s": "desenterró",
+    "1p": "desenterramos",
+    "2p": "desenterrasteis",
+    "3p": "desenterraron"
+  },
+  "FutSI": {
+    "1s": "desenterraré",
+    "2s": "desenterrarás",
+    "3s": "desenterrará",
+    "1p": "desenterraremos",
+    "2p": "desenterraréis",
+    "3p": "desenterrarán"
+  },
+  "CondS": {
+    "1s": "desenterraría",
+    "2s": "desenterrarías",
+    "3s": "desenterraría",
+    "1p": "desenterraríamos",
+    "2p": "desenterraríais",
+    "3p": "desenterrarían"
+  },
+  "PresC": {
+    "1s": "desentierre",
+    "2s": "desentierres",
+    "3s": "desentierre",
+    "1p": "desenterremos",
+    "2p": "desenterréis",
+    "3p": "desentierren"
+  },
+  "PMQPSI": {
+    "1s": "desenterrara",
+    "2s": "desenterraras",
+    "3s": "desenterrara",
+    "1p": "desenterráramos",
+    "2p": "desenterrarais",
+    "3p": "desenterraran"
+  },
+  "PImpC": {
+    "1s": "desenterrase",
+    "2s": "desenterrases",
+    "3s": "desenterrase",
+    "1p": "desenterrásemos",
+    "2p": "desenterraseis",
+    "3p": "desenterrasen"
+  },
+  "FutSC": {
+    "1s": "desenterrare",
+    "2s": "desenterrares",
+    "3s": "desenterrare",
+    "1p": "desenterráremos",
+    "2p": "desenterrareis",
+    "3p": "desenterraren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desentierra",
+    "3s": "desentierre",
+    "1p": "desenterremos",
+    "2p": "desenterrad",
+    "3p": "desentierren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desentierres",
+    "3s": "no desentierre",
+    "1p": "no desenterremos",
+    "2p": "no desenterréis",
+    "3p": "no desentierren"
+  },
+  "Part-ter": {
+    "": "desenterrado"
+  },
+  "Part-ser": {
+    "ms": "desenterrado",
+    "fs": "desenterrada",
+    "mp": "desenterrados",
+    "fp": "desenterradas"
+  }
+}

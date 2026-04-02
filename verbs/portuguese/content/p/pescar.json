@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "pescar"
+  },
+  "InfP": {
+    "1s": "pescar",
+    "2s": "pescares",
+    "3s": "pescar",
+    "1p": "pescarmos",
+    "2p": "pescardes",
+    "3p": "pescarem"
+  },
+  "Ger": {
+    "": "pescando"
+  },
+  "PresI": {
+    "1s": "pesco",
+    "2s": "pescas",
+    "3s": "pesca",
+    "1p": "pescamos",
+    "2p": "pescais",
+    "3p": "pescam"
+  },
+  "PImpI": {
+    "1s": "pescava",
+    "2s": "pescavas",
+    "3s": "pescava",
+    "1p": "pescávamos",
+    "2p": "pescáveis",
+    "3p": "pescavam"
+  },
+  "PPSI": {
+    "1s": "pesquei",
+    "2s": "pescaste",
+    "3s": "pescou",
+    "1p": "pescámos",
+    "2p": "pescastes",
+    "3p": "pescaram"
+  },
+  "PMQPSI": {
+    "1s": "pescara",
+    "2s": "pescaras",
+    "3s": "pescara",
+    "1p": "pescáramos",
+    "2p": "pescáreis",
+    "3p": "pescaram"
+  },
+  "FutSI": {
+    "1s": "pescarei",
+    "2s": "pescarás",
+    "3s": "pescará",
+    "1p": "pescaremos",
+    "2p": "pescareis",
+    "3p": "pescarão"
+  },
+  "CondS": {
+    "1s": "pescaria",
+    "2s": "pescarias",
+    "3s": "pescaria",
+    "1p": "pescaríamos",
+    "2p": "pescaríeis",
+    "3p": "pescariam"
+  },
+  "PresC": {
+    "1s": "pesque",
+    "2s": "pesques",
+    "3s": "pesque",
+    "1p": "pesquemos",
+    "2p": "pesqueis",
+    "3p": "pesquem"
+  },
+  "PImpC": {
+    "1s": "pescasse",
+    "2s": "pescasses",
+    "3s": "pescasse",
+    "1p": "pescássemos",
+    "2p": "pescásseis",
+    "3p": "pescassem"
+  },
+  "FutSC": {
+    "1s": "pescar",
+    "2s": "pescares",
+    "3s": "pescar",
+    "1p": "pescarmos",
+    "2p": "pescardes",
+    "3p": "pescarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "pesca",
+    "3s": "pesque",
+    "1p": "pesquemos",
+    "2p": "pescai",
+    "3p": "pesquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não pesques",
+    "3s": "não pesque",
+    "1p": "não pesquemos",
+    "2p": "não pesqueis",
+    "3p": "não pesquem"
+  },
+  "Part-ter": {
+    "": "pescado"
+  },
+  "Part-ser": {
+    "ms": "pescado",
+    "fs": "pescada",
+    "mp": "pescados",
+    "fp": "pescadas"
+  }
+}

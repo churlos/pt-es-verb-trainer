@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "instruir"
+  },
+  "InfP": {
+    "1s": "instruir",
+    "2s": "instruíres",
+    "3s": "instruir",
+    "1p": "instruirmos",
+    "2p": "instruirdes",
+    "3p": "instruírem"
+  },
+  "Ger": {
+    "": "instruindo"
+  },
+  "PresI": {
+    "1s": "instruo",
+    "2s": "instruis",
+    "3s": "instrui",
+    "1p": "instruímos",
+    "2p": "instruís",
+    "3p": "instruem"
+  },
+  "PImpI": {
+    "1s": "instruía",
+    "2s": "instruías",
+    "3s": "instruía",
+    "1p": "instruíamos",
+    "2p": "instruíeis",
+    "3p": "instruíam"
+  },
+  "PPSI": {
+    "1s": "instruí",
+    "2s": "instruíste",
+    "3s": "instruiu",
+    "1p": "instruímos",
+    "2p": "instruístes",
+    "3p": "instruíram"
+  },
+  "PMQPSI": {
+    "1s": "instruíra",
+    "2s": "instruíras",
+    "3s": "instruíra",
+    "1p": "instruíramos",
+    "2p": "instruíreis",
+    "3p": "instruíram"
+  },
+  "FutSI": {
+    "1s": "instruirei",
+    "2s": "instruirás",
+    "3s": "instruirá",
+    "1p": "instruiremos",
+    "2p": "instruireis",
+    "3p": "instruirão"
+  },
+  "CondS": {
+    "1s": "instruiria",
+    "2s": "instruirias",
+    "3s": "instruiria",
+    "1p": "instruiríamos",
+    "2p": "instruiríeis",
+    "3p": "instruiriam"
+  },
+  "PresC": {
+    "1s": "instrua",
+    "2s": "instruas",
+    "3s": "instrua",
+    "1p": "instruamos",
+    "2p": "instruais",
+    "3p": "instruam"
+  },
+  "PImpC": {
+    "1s": "instruísse",
+    "2s": "instruísses",
+    "3s": "instruísse",
+    "1p": "instruíssemos",
+    "2p": "instruísseis",
+    "3p": "instruíssem"
+  },
+  "FutSC": {
+    "1s": "instruir",
+    "2s": "instruíres",
+    "3s": "instruir",
+    "1p": "instruirmos",
+    "2p": "instruirdes",
+    "3p": "instruírem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "instrui",
+    "3s": "instrua",
+    "1p": "instruamos",
+    "2p": "instruí",
+    "3p": "instruam"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não instruas",
+    "3s": "não instrua",
+    "1p": "não instruamos",
+    "2p": "não instruais",
+    "3p": "não instruam"
+  },
+  "Part-ter": {
+    "": "instruído"
+  },
+  "Part-ser": {
+    "ms": "instruído",
+    "fs": "instruída",
+    "mp": "instruídos",
+    "fp": "instruídas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "devolver"
+  },
+  "Ger": {
+    "": "devolviendo"
+  },
+  "PresI": {
+    "1s": "devuelvo",
+    "2s": "devuelves",
+    "3s": "devuelve",
+    "1p": "devolvemos",
+    "2p": "devolvéis",
+    "3p": "devuelven"
+  },
+  "PImpI": {
+    "1s": "devolvía",
+    "2s": "devolvías",
+    "3s": "devolvía",
+    "1p": "devolvíamos",
+    "2p": "devolvíais",
+    "3p": "devolvían"
+  },
+  "PPSI": {
+    "1s": "devolví",
+    "2s": "devolviste",
+    "3s": "devolvió",
+    "1p": "devolvimos",
+    "2p": "devolvisteis",
+    "3p": "devolvieron"
+  },
+  "FutSI": {
+    "1s": "devolveré",
+    "2s": "devolverás",
+    "3s": "devolverá",
+    "1p": "devolveremos",
+    "2p": "devolveréis",
+    "3p": "devolverán"
+  },
+  "CondS": {
+    "1s": "devolvería",
+    "2s": "devolverías",
+    "3s": "devolvería",
+    "1p": "devolveríamos",
+    "2p": "devolveríais",
+    "3p": "devolverían"
+  },
+  "PresC": {
+    "1s": "devuelva",
+    "2s": "devuelvas",
+    "3s": "devuelva",
+    "1p": "devolvamos",
+    "2p": "devolváis",
+    "3p": "devuelvan"
+  },
+  "PMQPSI": {
+    "1s": "devolviera",
+    "2s": "devolvieras",
+    "3s": "devolviera",
+    "1p": "devolviéramos",
+    "2p": "devolvierais",
+    "3p": "devolvieran"
+  },
+  "PImpC": {
+    "1s": "devolviese",
+    "2s": "devolvieses",
+    "3s": "devolviese",
+    "1p": "devolviésemos",
+    "2p": "devolvieseis",
+    "3p": "devolviesen"
+  },
+  "FutSC": {
+    "1s": "devolviere",
+    "2s": "devolvieres",
+    "3s": "devolviere",
+    "1p": "devolviéremos",
+    "2p": "devolviereis",
+    "3p": "devolvieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "devuelve",
+    "3s": "devuelva",
+    "1p": "devolvamos",
+    "2p": "devolved",
+    "3p": "devuelvan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no devuelvas",
+    "3s": "no devuelva",
+    "1p": "no devolvamos",
+    "2p": "no devolváis",
+    "3p": "no devuelvan"
+  },
+  "Part-ter": {
+    "": "devuelto"
+  },
+  "Part-ser": {
+    "ms": "devuelto",
+    "fs": "devuelta",
+    "mp": "devueltos",
+    "fp": "devueltas"
+  }
+}

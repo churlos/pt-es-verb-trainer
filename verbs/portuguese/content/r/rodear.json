@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "rodear"
+  },
+  "InfP": {
+    "1s": "rodear",
+    "2s": "rodeares",
+    "3s": "rodear",
+    "1p": "rodearmos",
+    "2p": "rodeardes",
+    "3p": "rodearem"
+  },
+  "Ger": {
+    "": "rodeando"
+  },
+  "PresI": {
+    "1s": "rodeio",
+    "2s": "rodeias",
+    "3s": "rodeia",
+    "1p": "rodeamos",
+    "2p": "rodeais",
+    "3p": "rodeiam"
+  },
+  "PImpI": {
+    "1s": "rodeava",
+    "2s": "rodeavas",
+    "3s": "rodeava",
+    "1p": "rodeávamos",
+    "2p": "rodeáveis",
+    "3p": "rodeavam"
+  },
+  "PPSI": {
+    "1s": "rodeei",
+    "2s": "rodeaste",
+    "3s": "rodeou",
+    "1p": "rodeámos",
+    "2p": "rodeastes",
+    "3p": "rodearam"
+  },
+  "PMQPSI": {
+    "1s": "rodeara",
+    "2s": "rodearas",
+    "3s": "rodeara",
+    "1p": "rodeáramos",
+    "2p": "rodeáreis",
+    "3p": "rodearam"
+  },
+  "FutSI": {
+    "1s": "rodearei",
+    "2s": "rodearás",
+    "3s": "rodeará",
+    "1p": "rodearemos",
+    "2p": "rodeareis",
+    "3p": "rodearão"
+  },
+  "CondS": {
+    "1s": "rodearia",
+    "2s": "rodearias",
+    "3s": "rodearia",
+    "1p": "rodearíamos",
+    "2p": "rodearíeis",
+    "3p": "rodeariam"
+  },
+  "PresC": {
+    "1s": "rodeie",
+    "2s": "rodeies",
+    "3s": "rodeie",
+    "1p": "rodeemos",
+    "2p": "rodeeis",
+    "3p": "rodeiem"
+  },
+  "PImpC": {
+    "1s": "rodeasse",
+    "2s": "rodeasses",
+    "3s": "rodeasse",
+    "1p": "rodeássemos",
+    "2p": "rodeásseis",
+    "3p": "rodeassem"
+  },
+  "FutSC": {
+    "1s": "rodear",
+    "2s": "rodeares",
+    "3s": "rodear",
+    "1p": "rodearmos",
+    "2p": "rodeardes",
+    "3p": "rodearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "rodeia",
+    "3s": "rodeie",
+    "1p": "rodeemos",
+    "2p": "rodeai",
+    "3p": "rodeiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não rodeies",
+    "3s": "não rodeie",
+    "1p": "não rodeemos",
+    "2p": "não rodeeis",
+    "3p": "não rodeiem"
+  },
+  "Part-ter": {
+    "": "rodeado"
+  },
+  "Part-ser": {
+    "ms": "rodeado",
+    "fs": "rodeada",
+    "mp": "rodeados",
+    "fp": "rodeadas"
+  }
+}

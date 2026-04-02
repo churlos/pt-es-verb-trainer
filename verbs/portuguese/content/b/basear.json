@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "basear"
+  },
+  "InfP": {
+    "1s": "basear",
+    "2s": "baseares",
+    "3s": "basear",
+    "1p": "basearmos",
+    "2p": "baseardes",
+    "3p": "basearem"
+  },
+  "Ger": {
+    "": "baseando"
+  },
+  "PresI": {
+    "1s": "baseio",
+    "2s": "baseias",
+    "3s": "baseia",
+    "1p": "baseamos",
+    "2p": "baseais",
+    "3p": "baseiam"
+  },
+  "PImpI": {
+    "1s": "baseava",
+    "2s": "baseavas",
+    "3s": "baseava",
+    "1p": "baseávamos",
+    "2p": "baseáveis",
+    "3p": "baseavam"
+  },
+  "PPSI": {
+    "1s": "baseei",
+    "2s": "baseaste",
+    "3s": "baseou",
+    "1p": "baseámos",
+    "2p": "baseastes",
+    "3p": "basearam"
+  },
+  "PMQPSI": {
+    "1s": "baseara",
+    "2s": "basearas",
+    "3s": "baseara",
+    "1p": "baseáramos",
+    "2p": "baseáreis",
+    "3p": "basearam"
+  },
+  "FutSI": {
+    "1s": "basearei",
+    "2s": "basearás",
+    "3s": "baseará",
+    "1p": "basearemos",
+    "2p": "baseareis",
+    "3p": "basearão"
+  },
+  "CondS": {
+    "1s": "basearia",
+    "2s": "basearias",
+    "3s": "basearia",
+    "1p": "basearíamos",
+    "2p": "basearíeis",
+    "3p": "baseariam"
+  },
+  "PresC": {
+    "1s": "baseie",
+    "2s": "baseies",
+    "3s": "baseie",
+    "1p": "baseemos",
+    "2p": "baseeis",
+    "3p": "baseiem"
+  },
+  "PImpC": {
+    "1s": "baseasse",
+    "2s": "baseasses",
+    "3s": "baseasse",
+    "1p": "baseássemos",
+    "2p": "baseásseis",
+    "3p": "baseassem"
+  },
+  "FutSC": {
+    "1s": "basear",
+    "2s": "baseares",
+    "3s": "basear",
+    "1p": "basearmos",
+    "2p": "baseardes",
+    "3p": "basearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "baseia",
+    "3s": "baseie",
+    "1p": "baseemos",
+    "2p": "baseai",
+    "3p": "baseiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não baseies",
+    "3s": "não baseie",
+    "1p": "não baseemos",
+    "2p": "não baseeis",
+    "3p": "não baseiem"
+  },
+  "Part-ter": {
+    "": "baseado"
+  },
+  "Part-ser": {
+    "ms": "baseado",
+    "fs": "baseada",
+    "mp": "baseados",
+    "fp": "baseadas"
+  }
+}

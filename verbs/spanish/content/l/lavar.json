@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "lavar"
+  },
+  "Ger": {
+    "": "lavando"
+  },
+  "PresI": {
+    "1s": "lavo",
+    "2s": "lavas",
+    "3s": "lava",
+    "1p": "lavamos",
+    "2p": "laváis",
+    "3p": "lavan"
+  },
+  "PImpI": {
+    "1s": "lavaba",
+    "2s": "lavabas",
+    "3s": "lavaba",
+    "1p": "lavábamos",
+    "2p": "lavabais",
+    "3p": "lavaban"
+  },
+  "PPSI": {
+    "1s": "lavé",
+    "2s": "lavaste",
+    "3s": "lavó",
+    "1p": "lavamos",
+    "2p": "lavasteis",
+    "3p": "lavaron"
+  },
+  "FutSI": {
+    "1s": "lavaré",
+    "2s": "lavarás",
+    "3s": "lavará",
+    "1p": "lavaremos",
+    "2p": "lavaréis",
+    "3p": "lavarán"
+  },
+  "CondS": {
+    "1s": "lavaría",
+    "2s": "lavarías",
+    "3s": "lavaría",
+    "1p": "lavaríamos",
+    "2p": "lavaríais",
+    "3p": "lavarían"
+  },
+  "PresC": {
+    "1s": "lave",
+    "2s": "laves",
+    "3s": "lave",
+    "1p": "lavemos",
+    "2p": "lavéis",
+    "3p": "laven"
+  },
+  "PMQPSI": {
+    "1s": "lavara",
+    "2s": "lavaras",
+    "3s": "lavara",
+    "1p": "laváramos",
+    "2p": "lavarais",
+    "3p": "lavaran"
+  },
+  "PImpC": {
+    "1s": "lavase",
+    "2s": "lavases",
+    "3s": "lavase",
+    "1p": "lavásemos",
+    "2p": "lavaseis",
+    "3p": "lavasen"
+  },
+  "FutSC": {
+    "1s": "lavare",
+    "2s": "lavares",
+    "3s": "lavare",
+    "1p": "laváremos",
+    "2p": "lavareis",
+    "3p": "lavaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "lava",
+    "3s": "lave",
+    "1p": "lavemos",
+    "2p": "lavad",
+    "3p": "laven"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no laves",
+    "3s": "no lave",
+    "1p": "no lavemos",
+    "2p": "no lavéis",
+    "3p": "no laven"
+  },
+  "Part-ter": {
+    "": "lavado"
+  },
+  "Part-ser": {
+    "ms": "lavado",
+    "fs": "lavada",
+    "mp": "lavados",
+    "fp": "lavadas"
+  }
+}

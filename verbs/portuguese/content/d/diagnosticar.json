@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "diagnosticar"
+  },
+  "InfP": {
+    "1s": "diagnosticar",
+    "2s": "diagnosticares",
+    "3s": "diagnosticar",
+    "1p": "diagnosticarmos",
+    "2p": "diagnosticardes",
+    "3p": "diagnosticarem"
+  },
+  "Ger": {
+    "": "diagnosticando"
+  },
+  "PresI": {
+    "1s": "diagnostico",
+    "2s": "diagnosticas",
+    "3s": "diagnostica",
+    "1p": "diagnosticamos",
+    "2p": "diagnosticais",
+    "3p": "diagnosticam"
+  },
+  "PImpI": {
+    "1s": "diagnosticava",
+    "2s": "diagnosticavas",
+    "3s": "diagnosticava",
+    "1p": "diagnosticávamos",
+    "2p": "diagnosticáveis",
+    "3p": "diagnosticavam"
+  },
+  "PPSI": {
+    "1s": "diagnostiquei",
+    "2s": "diagnosticaste",
+    "3s": "diagnosticou",
+    "1p": "diagnosticámos",
+    "2p": "diagnosticastes",
+    "3p": "diagnosticaram"
+  },
+  "PMQPSI": {
+    "1s": "diagnosticara",
+    "2s": "diagnosticaras",
+    "3s": "diagnosticara",
+    "1p": "diagnosticáramos",
+    "2p": "diagnosticáreis",
+    "3p": "diagnosticaram"
+  },
+  "FutSI": {
+    "1s": "diagnosticarei",
+    "2s": "diagnosticarás",
+    "3s": "diagnosticará",
+    "1p": "diagnosticaremos",
+    "2p": "diagnosticareis",
+    "3p": "diagnosticarão"
+  },
+  "CondS": {
+    "1s": "diagnosticaria",
+    "2s": "diagnosticarias",
+    "3s": "diagnosticaria",
+    "1p": "diagnosticaríamos",
+    "2p": "diagnosticaríeis",
+    "3p": "diagnosticariam"
+  },
+  "PresC": {
+    "1s": "diagnostique",
+    "2s": "diagnostiques",
+    "3s": "diagnostique",
+    "1p": "diagnostiquemos",
+    "2p": "diagnostiqueis",
+    "3p": "diagnostiquem"
+  },
+  "PImpC": {
+    "1s": "diagnosticasse",
+    "2s": "diagnosticasses",
+    "3s": "diagnosticasse",
+    "1p": "diagnosticássemos",
+    "2p": "diagnosticásseis",
+    "3p": "diagnosticassem"
+  },
+  "FutSC": {
+    "1s": "diagnosticar",
+    "2s": "diagnosticares",
+    "3s": "diagnosticar",
+    "1p": "diagnosticarmos",
+    "2p": "diagnosticardes",
+    "3p": "diagnosticarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "diagnostica",
+    "3s": "diagnostique",
+    "1p": "diagnostiquemos",
+    "2p": "diagnosticai",
+    "3p": "diagnostiquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não diagnostiques",
+    "3s": "não diagnostique",
+    "1p": "não diagnostiquemos",
+    "2p": "não diagnostiqueis",
+    "3p": "não diagnostiquem"
+  },
+  "Part-ter": {
+    "": "diagnosticado"
+  },
+  "Part-ser": {
+    "ms": "diagnosticado",
+    "fs": "diagnosticada",
+    "mp": "diagnosticados",
+    "fp": "diagnosticadas"
+  }
+}

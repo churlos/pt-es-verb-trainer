@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "esquilar"
+  },
+  "Ger": {
+    "": "esquilando"
+  },
+  "PresI": {
+    "1s": "esquilo",
+    "2s": "esquilas",
+    "3s": "esquila",
+    "1p": "esquilamos",
+    "2p": "esquiláis",
+    "3p": "esquilan"
+  },
+  "PImpI": {
+    "1s": "esquilaba",
+    "2s": "esquilabas",
+    "3s": "esquilaba",
+    "1p": "esquilábamos",
+    "2p": "esquilabais",
+    "3p": "esquilaban"
+  },
+  "PPSI": {
+    "1s": "esquilé",
+    "2s": "esquilaste",
+    "3s": "esquiló",
+    "1p": "esquilamos",
+    "2p": "esquilasteis",
+    "3p": "esquilaron"
+  },
+  "FutSI": {
+    "1s": "esquilaré",
+    "2s": "esquilarás",
+    "3s": "esquilará",
+    "1p": "esquilaremos",
+    "2p": "esquilaréis",
+    "3p": "esquilarán"
+  },
+  "CondS": {
+    "1s": "esquilaría",
+    "2s": "esquilarías",
+    "3s": "esquilaría",
+    "1p": "esquilaríamos",
+    "2p": "esquilaríais",
+    "3p": "esquilarían"
+  },
+  "PresC": {
+    "1s": "esquile",
+    "2s": "esquiles",
+    "3s": "esquile",
+    "1p": "esquilemos",
+    "2p": "esquiléis",
+    "3p": "esquilen"
+  },
+  "PMQPSI": {
+    "1s": "esquilara",
+    "2s": "esquilaras",
+    "3s": "esquilara",
+    "1p": "esquiláramos",
+    "2p": "esquilarais",
+    "3p": "esquilaran"
+  },
+  "PImpC": {
+    "1s": "esquilase",
+    "2s": "esquilases",
+    "3s": "esquilase",
+    "1p": "esquilásemos",
+    "2p": "esquilaseis",
+    "3p": "esquilasen"
+  },
+  "FutSC": {
+    "1s": "esquilare",
+    "2s": "esquilares",
+    "3s": "esquilare",
+    "1p": "esquiláremos",
+    "2p": "esquilareis",
+    "3p": "esquilaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "esquila",
+    "3s": "esquile",
+    "1p": "esquilemos",
+    "2p": "esquilad",
+    "3p": "esquilen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no esquiles",
+    "3s": "no esquile",
+    "1p": "no esquilemos",
+    "2p": "no esquiléis",
+    "3p": "no esquilen"
+  },
+  "Part-ter": {
+    "": "esquilado"
+  },
+  "Part-ser": {
+    "ms": "esquilado",
+    "fs": "esquilada",
+    "mp": "esquilados",
+    "fp": "esquiladas"
+  }
+}

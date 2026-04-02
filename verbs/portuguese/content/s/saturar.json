@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "saturar"
+  },
+  "InfP": {
+    "1s": "saturar",
+    "2s": "saturares",
+    "3s": "saturar",
+    "1p": "saturarmos",
+    "2p": "saturardes",
+    "3p": "saturarem"
+  },
+  "Ger": {
+    "": "saturando"
+  },
+  "PresI": {
+    "1s": "saturo",
+    "2s": "saturas",
+    "3s": "satura",
+    "1p": "saturamos",
+    "2p": "saturais",
+    "3p": "saturam"
+  },
+  "PImpI": {
+    "1s": "saturava",
+    "2s": "saturavas",
+    "3s": "saturava",
+    "1p": "saturávamos",
+    "2p": "saturáveis",
+    "3p": "saturavam"
+  },
+  "PPSI": {
+    "1s": "saturei",
+    "2s": "saturaste",
+    "3s": "saturou",
+    "1p": "saturámos",
+    "2p": "saturastes",
+    "3p": "saturaram"
+  },
+  "PMQPSI": {
+    "1s": "saturara",
+    "2s": "saturaras",
+    "3s": "saturara",
+    "1p": "saturáramos",
+    "2p": "saturáreis",
+    "3p": "saturaram"
+  },
+  "FutSI": {
+    "1s": "saturarei",
+    "2s": "saturarás",
+    "3s": "saturará",
+    "1p": "saturaremos",
+    "2p": "saturareis",
+    "3p": "saturarão"
+  },
+  "CondS": {
+    "1s": "saturaria",
+    "2s": "saturarias",
+    "3s": "saturaria",
+    "1p": "saturaríamos",
+    "2p": "saturaríeis",
+    "3p": "saturariam"
+  },
+  "PresC": {
+    "1s": "sature",
+    "2s": "satures",
+    "3s": "sature",
+    "1p": "saturemos",
+    "2p": "satureis",
+    "3p": "saturem"
+  },
+  "PImpC": {
+    "1s": "saturasse",
+    "2s": "saturasses",
+    "3s": "saturasse",
+    "1p": "saturássemos",
+    "2p": "saturásseis",
+    "3p": "saturassem"
+  },
+  "FutSC": {
+    "1s": "saturar",
+    "2s": "saturares",
+    "3s": "saturar",
+    "1p": "saturarmos",
+    "2p": "saturardes",
+    "3p": "saturarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "satura",
+    "3s": "sature",
+    "1p": "saturemos",
+    "2p": "saturai",
+    "3p": "saturem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não satures",
+    "3s": "não sature",
+    "1p": "não saturemos",
+    "2p": "não satureis",
+    "3p": "não saturem"
+  },
+  "Part-ter": {
+    "": "saturado"
+  },
+  "Part-ser": {
+    "ms": "saturado",
+    "fs": "saturada",
+    "mp": "saturados",
+    "fp": "saturadas"
+  }
+}

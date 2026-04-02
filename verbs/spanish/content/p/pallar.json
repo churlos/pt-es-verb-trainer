@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "pallar"
+  },
+  "Ger": {
+    "": "pallando"
+  },
+  "PresI": {
+    "1s": "pallo",
+    "2s": "pallas",
+    "3s": "palla",
+    "1p": "pallamos",
+    "2p": "palláis",
+    "3p": "pallan"
+  },
+  "PImpI": {
+    "1s": "pallaba",
+    "2s": "pallabas",
+    "3s": "pallaba",
+    "1p": "pallábamos",
+    "2p": "pallabais",
+    "3p": "pallaban"
+  },
+  "PPSI": {
+    "1s": "pallé",
+    "2s": "pallaste",
+    "3s": "palló",
+    "1p": "pallamos",
+    "2p": "pallasteis",
+    "3p": "pallaron"
+  },
+  "FutSI": {
+    "1s": "pallaré",
+    "2s": "pallarás",
+    "3s": "pallará",
+    "1p": "pallaremos",
+    "2p": "pallaréis",
+    "3p": "pallarán"
+  },
+  "CondS": {
+    "1s": "pallaría",
+    "2s": "pallarías",
+    "3s": "pallaría",
+    "1p": "pallaríamos",
+    "2p": "pallaríais",
+    "3p": "pallarían"
+  },
+  "PresC": {
+    "1s": "palle",
+    "2s": "palles",
+    "3s": "palle",
+    "1p": "pallemos",
+    "2p": "palléis",
+    "3p": "pallen"
+  },
+  "PMQPSI": {
+    "1s": "pallara",
+    "2s": "pallaras",
+    "3s": "pallara",
+    "1p": "palláramos",
+    "2p": "pallarais",
+    "3p": "pallaran"
+  },
+  "PImpC": {
+    "1s": "pallase",
+    "2s": "pallases",
+    "3s": "pallase",
+    "1p": "pallásemos",
+    "2p": "pallaseis",
+    "3p": "pallasen"
+  },
+  "FutSC": {
+    "1s": "pallare",
+    "2s": "pallares",
+    "3s": "pallare",
+    "1p": "palláremos",
+    "2p": "pallareis",
+    "3p": "pallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "palla",
+    "3s": "palle",
+    "1p": "pallemos",
+    "2p": "pallad",
+    "3p": "pallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no palles",
+    "3s": "no palle",
+    "1p": "no pallemos",
+    "2p": "no palléis",
+    "3p": "no pallen"
+  },
+  "Part-ter": {
+    "": "pallado"
+  },
+  "Part-ser": {
+    "ms": "pallado",
+    "fs": "pallada",
+    "mp": "pallados",
+    "fp": "palladas"
+  }
+}

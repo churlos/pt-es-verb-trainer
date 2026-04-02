@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "governar"
+  },
+  "InfP": {
+    "1s": "governar",
+    "2s": "governares",
+    "3s": "governar",
+    "1p": "governarmos",
+    "2p": "governardes",
+    "3p": "governarem"
+  },
+  "Ger": {
+    "": "governando"
+  },
+  "PresI": {
+    "1s": "governo",
+    "2s": "governas",
+    "3s": "governa",
+    "1p": "governamos",
+    "2p": "governais",
+    "3p": "governam"
+  },
+  "PImpI": {
+    "1s": "governava",
+    "2s": "governavas",
+    "3s": "governava",
+    "1p": "governávamos",
+    "2p": "governáveis",
+    "3p": "governavam"
+  },
+  "PPSI": {
+    "1s": "governei",
+    "2s": "governaste",
+    "3s": "governou",
+    "1p": "governámos",
+    "2p": "governastes",
+    "3p": "governaram"
+  },
+  "PMQPSI": {
+    "1s": "governara",
+    "2s": "governaras",
+    "3s": "governara",
+    "1p": "governáramos",
+    "2p": "governáreis",
+    "3p": "governaram"
+  },
+  "FutSI": {
+    "1s": "governarei",
+    "2s": "governarás",
+    "3s": "governará",
+    "1p": "governaremos",
+    "2p": "governareis",
+    "3p": "governarão"
+  },
+  "CondS": {
+    "1s": "governaria",
+    "2s": "governarias",
+    "3s": "governaria",
+    "1p": "governaríamos",
+    "2p": "governaríeis",
+    "3p": "governariam"
+  },
+  "PresC": {
+    "1s": "governe",
+    "2s": "governes",
+    "3s": "governe",
+    "1p": "governemos",
+    "2p": "governeis",
+    "3p": "governem"
+  },
+  "PImpC": {
+    "1s": "governasse",
+    "2s": "governasses",
+    "3s": "governasse",
+    "1p": "governássemos",
+    "2p": "governásseis",
+    "3p": "governassem"
+  },
+  "FutSC": {
+    "1s": "governar",
+    "2s": "governares",
+    "3s": "governar",
+    "1p": "governarmos",
+    "2p": "governardes",
+    "3p": "governarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "governa",
+    "3s": "governe",
+    "1p": "governemos",
+    "2p": "governai",
+    "3p": "governem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não governes",
+    "3s": "não governe",
+    "1p": "não governemos",
+    "2p": "não governeis",
+    "3p": "não governem"
+  },
+  "Part-ter": {
+    "": "governado"
+  },
+  "Part-ser": {
+    "ms": "governado",
+    "fs": "governada",
+    "mp": "governados",
+    "fp": "governadas"
+  }
+}

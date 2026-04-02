@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "estancar"
+  },
+  "Ger": {
+    "": "estancando"
+  },
+  "PresI": {
+    "1s": "estanco",
+    "2s": "estancas",
+    "3s": "estanca",
+    "1p": "estancamos",
+    "2p": "estancáis",
+    "3p": "estancan"
+  },
+  "PImpI": {
+    "1s": "estancaba",
+    "2s": "estancabas",
+    "3s": "estancaba",
+    "1p": "estancábamos",
+    "2p": "estancabais",
+    "3p": "estancaban"
+  },
+  "PPSI": {
+    "1s": "estanqué",
+    "2s": "estancaste",
+    "3s": "estancó",
+    "1p": "estancamos",
+    "2p": "estancasteis",
+    "3p": "estancaron"
+  },
+  "FutSI": {
+    "1s": "estancaré",
+    "2s": "estancarás",
+    "3s": "estancará",
+    "1p": "estancaremos",
+    "2p": "estancaréis",
+    "3p": "estancarán"
+  },
+  "CondS": {
+    "1s": "estancaría",
+    "2s": "estancarías",
+    "3s": "estancaría",
+    "1p": "estancaríamos",
+    "2p": "estancaríais",
+    "3p": "estancarían"
+  },
+  "PresC": {
+    "1s": "estanque",
+    "2s": "estanques",
+    "3s": "estanque",
+    "1p": "estanquemos",
+    "2p": "estanquéis",
+    "3p": "estanquen"
+  },
+  "PMQPSI": {
+    "1s": "estancara",
+    "2s": "estancaras",
+    "3s": "estancara",
+    "1p": "estancáramos",
+    "2p": "estancarais",
+    "3p": "estancaran"
+  },
+  "PImpC": {
+    "1s": "estancase",
+    "2s": "estancases",
+    "3s": "estancase",
+    "1p": "estancásemos",
+    "2p": "estancaseis",
+    "3p": "estancasen"
+  },
+  "FutSC": {
+    "1s": "estancare",
+    "2s": "estancares",
+    "3s": "estancare",
+    "1p": "estancáremos",
+    "2p": "estancareis",
+    "3p": "estancaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "estanca",
+    "3s": "estanque",
+    "1p": "estanquemos",
+    "2p": "estancad",
+    "3p": "estanquen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no estanques",
+    "3s": "no estanque",
+    "1p": "no estanquemos",
+    "2p": "no estanquéis",
+    "3p": "no estanquen"
+  },
+  "Part-ter": {
+    "": "estancado"
+  },
+  "Part-ser": {
+    "ms": "estancado",
+    "fs": "estancada",
+    "mp": "estancados",
+    "fp": "estancadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "libar"
+  },
+  "Ger": {
+    "": "libando"
+  },
+  "PresI": {
+    "1s": "libo",
+    "2s": "libas",
+    "3s": "liba",
+    "1p": "libamos",
+    "2p": "libáis",
+    "3p": "liban"
+  },
+  "PImpI": {
+    "1s": "libaba",
+    "2s": "libabas",
+    "3s": "libaba",
+    "1p": "libábamos",
+    "2p": "libabais",
+    "3p": "libaban"
+  },
+  "PPSI": {
+    "1s": "libé",
+    "2s": "libaste",
+    "3s": "libó",
+    "1p": "libamos",
+    "2p": "libasteis",
+    "3p": "libaron"
+  },
+  "FutSI": {
+    "1s": "libaré",
+    "2s": "libarás",
+    "3s": "libará",
+    "1p": "libaremos",
+    "2p": "libaréis",
+    "3p": "libarán"
+  },
+  "CondS": {
+    "1s": "libaría",
+    "2s": "libarías",
+    "3s": "libaría",
+    "1p": "libaríamos",
+    "2p": "libaríais",
+    "3p": "libarían"
+  },
+  "PresC": {
+    "1s": "libe",
+    "2s": "libes",
+    "3s": "libe",
+    "1p": "libemos",
+    "2p": "libéis",
+    "3p": "liben"
+  },
+  "PMQPSI": {
+    "1s": "libara",
+    "2s": "libaras",
+    "3s": "libara",
+    "1p": "libáramos",
+    "2p": "libarais",
+    "3p": "libaran"
+  },
+  "PImpC": {
+    "1s": "libase",
+    "2s": "libases",
+    "3s": "libase",
+    "1p": "libásemos",
+    "2p": "libaseis",
+    "3p": "libasen"
+  },
+  "FutSC": {
+    "1s": "libare",
+    "2s": "libares",
+    "3s": "libare",
+    "1p": "libáremos",
+    "2p": "libareis",
+    "3p": "libaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "liba",
+    "3s": "libe",
+    "1p": "libemos",
+    "2p": "libad",
+    "3p": "liben"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no libes",
+    "3s": "no libe",
+    "1p": "no libemos",
+    "2p": "no libéis",
+    "3p": "no liben"
+  },
+  "Part-ter": {
+    "": "libado"
+  },
+  "Part-ser": {
+    "ms": "libado",
+    "fs": "libada",
+    "mp": "libados",
+    "fp": "libadas"
+  }
+}

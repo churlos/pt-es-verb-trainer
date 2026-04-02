@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "acontecer"
+  },
+  "Ger": {
+    "": "aconteciendo"
+  },
+  "PresI": {
+    "1s": "acontezco",
+    "2s": "aconteces",
+    "3s": "acontece",
+    "1p": "acontecemos",
+    "2p": "acontecéis",
+    "3p": "acontecen"
+  },
+  "PImpI": {
+    "1s": "acontecía",
+    "2s": "acontecías",
+    "3s": "acontecía",
+    "1p": "acontecíamos",
+    "2p": "acontecíais",
+    "3p": "acontecían"
+  },
+  "PPSI": {
+    "1s": "acontecí",
+    "2s": "aconteciste",
+    "3s": "aconteció",
+    "1p": "acontecimos",
+    "2p": "acontecisteis",
+    "3p": "acontecieron"
+  },
+  "FutSI": {
+    "1s": "aconteceré",
+    "2s": "acontecerás",
+    "3s": "acontecerá",
+    "1p": "aconteceremos",
+    "2p": "aconteceréis",
+    "3p": "acontecerán"
+  },
+  "CondS": {
+    "1s": "acontecería",
+    "2s": "acontecerías",
+    "3s": "acontecería",
+    "1p": "aconteceríamos",
+    "2p": "aconteceríais",
+    "3p": "acontecerían"
+  },
+  "PresC": {
+    "1s": "acontezca",
+    "2s": "acontezcas",
+    "3s": "acontezca",
+    "1p": "acontezcamos",
+    "2p": "acontezcáis",
+    "3p": "acontezcan"
+  },
+  "PMQPSI": {
+    "1s": "aconteciera",
+    "2s": "acontecieras",
+    "3s": "aconteciera",
+    "1p": "aconteciéramos",
+    "2p": "acontecierais",
+    "3p": "acontecieran"
+  },
+  "PImpC": {
+    "1s": "aconteciese",
+    "2s": "acontecieses",
+    "3s": "aconteciese",
+    "1p": "aconteciésemos",
+    "2p": "acontecieseis",
+    "3p": "aconteciesen"
+  },
+  "FutSC": {
+    "1s": "aconteciere",
+    "2s": "acontecieres",
+    "3s": "aconteciere",
+    "1p": "aconteciéremos",
+    "2p": "aconteciereis",
+    "3p": "acontecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "acontece",
+    "3s": "acontezca",
+    "1p": "acontezcamos",
+    "2p": "aconteced",
+    "3p": "acontezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no acontezcas",
+    "3s": "no acontezca",
+    "1p": "no acontezcamos",
+    "2p": "no acontezcáis",
+    "3p": "no acontezcan"
+  },
+  "Part-ter": {
+    "": "acontecido"
+  },
+  "Part-ser": {
+    "ms": "acontecido",
+    "fs": "acontecida",
+    "mp": "acontecidos",
+    "fp": "acontecidas"
+  }
+}

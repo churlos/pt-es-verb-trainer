@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desobedecer"
+  },
+  "Ger": {
+    "": "desobedeciendo"
+  },
+  "PresI": {
+    "1s": "desobedezco",
+    "2s": "desobedeces",
+    "3s": "desobedece",
+    "1p": "desobedecemos",
+    "2p": "desobedecéis",
+    "3p": "desobedecen"
+  },
+  "PImpI": {
+    "1s": "desobedecía",
+    "2s": "desobedecías",
+    "3s": "desobedecía",
+    "1p": "desobedecíamos",
+    "2p": "desobedecíais",
+    "3p": "desobedecían"
+  },
+  "PPSI": {
+    "1s": "desobedecí",
+    "2s": "desobedeciste",
+    "3s": "desobedeció",
+    "1p": "desobedecimos",
+    "2p": "desobedecisteis",
+    "3p": "desobedecieron"
+  },
+  "FutSI": {
+    "1s": "desobedeceré",
+    "2s": "desobedecerás",
+    "3s": "desobedecerá",
+    "1p": "desobedeceremos",
+    "2p": "desobedeceréis",
+    "3p": "desobedecerán"
+  },
+  "CondS": {
+    "1s": "desobedecería",
+    "2s": "desobedecerías",
+    "3s": "desobedecería",
+    "1p": "desobedeceríamos",
+    "2p": "desobedeceríais",
+    "3p": "desobedecerían"
+  },
+  "PresC": {
+    "1s": "desobedezca",
+    "2s": "desobedezcas",
+    "3s": "desobedezca",
+    "1p": "desobedezcamos",
+    "2p": "desobedezcáis",
+    "3p": "desobedezcan"
+  },
+  "PMQPSI": {
+    "1s": "desobedeciera",
+    "2s": "desobedecieras",
+    "3s": "desobedeciera",
+    "1p": "desobedeciéramos",
+    "2p": "desobedecierais",
+    "3p": "desobedecieran"
+  },
+  "PImpC": {
+    "1s": "desobedeciese",
+    "2s": "desobedecieses",
+    "3s": "desobedeciese",
+    "1p": "desobedeciésemos",
+    "2p": "desobedecieseis",
+    "3p": "desobedeciesen"
+  },
+  "FutSC": {
+    "1s": "desobedeciere",
+    "2s": "desobedecieres",
+    "3s": "desobedeciere",
+    "1p": "desobedeciéremos",
+    "2p": "desobedeciereis",
+    "3p": "desobedecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desobedece",
+    "3s": "desobedezca",
+    "1p": "desobedezcamos",
+    "2p": "desobedeced",
+    "3p": "desobedezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desobedezcas",
+    "3s": "no desobedezca",
+    "1p": "no desobedezcamos",
+    "2p": "no desobedezcáis",
+    "3p": "no desobedezcan"
+  },
+  "Part-ter": {
+    "": "desobedecido"
+  },
+  "Part-ser": {
+    "ms": "desobedecido",
+    "fs": "desobedecida",
+    "mp": "desobedecidos",
+    "fp": "desobedecidas"
+  }
+}

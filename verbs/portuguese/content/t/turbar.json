@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "turbar"
+  },
+  "InfP": {
+    "1s": "turbar",
+    "2s": "turbares",
+    "3s": "turbar",
+    "1p": "turbarmos",
+    "2p": "turbardes",
+    "3p": "turbarem"
+  },
+  "Ger": {
+    "": "turbando"
+  },
+  "PresI": {
+    "1s": "turbo",
+    "2s": "turbas",
+    "3s": "turba",
+    "1p": "turbamos",
+    "2p": "turbais",
+    "3p": "turbam"
+  },
+  "PImpI": {
+    "1s": "turbava",
+    "2s": "turbavas",
+    "3s": "turbava",
+    "1p": "turbávamos",
+    "2p": "turbáveis",
+    "3p": "turbavam"
+  },
+  "PPSI": {
+    "1s": "turbei",
+    "2s": "turbaste",
+    "3s": "turbou",
+    "1p": "turbámos",
+    "2p": "turbastes",
+    "3p": "turbaram"
+  },
+  "PMQPSI": {
+    "1s": "turbara",
+    "2s": "turbaras",
+    "3s": "turbara",
+    "1p": "turbáramos",
+    "2p": "turbáreis",
+    "3p": "turbaram"
+  },
+  "FutSI": {
+    "1s": "turbarei",
+    "2s": "turbarás",
+    "3s": "turbará",
+    "1p": "turbaremos",
+    "2p": "turbareis",
+    "3p": "turbarão"
+  },
+  "CondS": {
+    "1s": "turbaria",
+    "2s": "turbarias",
+    "3s": "turbaria",
+    "1p": "turbaríamos",
+    "2p": "turbaríeis",
+    "3p": "turbariam"
+  },
+  "PresC": {
+    "1s": "turbe",
+    "2s": "turbes",
+    "3s": "turbe",
+    "1p": "turbemos",
+    "2p": "turbeis",
+    "3p": "turbem"
+  },
+  "PImpC": {
+    "1s": "turbasse",
+    "2s": "turbasses",
+    "3s": "turbasse",
+    "1p": "turbássemos",
+    "2p": "turbásseis",
+    "3p": "turbassem"
+  },
+  "FutSC": {
+    "1s": "turbar",
+    "2s": "turbares",
+    "3s": "turbar",
+    "1p": "turbarmos",
+    "2p": "turbardes",
+    "3p": "turbarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "turba",
+    "3s": "turbe",
+    "1p": "turbemos",
+    "2p": "turbai",
+    "3p": "turbem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não turbes",
+    "3s": "não turbe",
+    "1p": "não turbemos",
+    "2p": "não turbeis",
+    "3p": "não turbem"
+  },
+  "Part-ter": {
+    "": "turbado"
+  },
+  "Part-ser": {
+    "ms": "turbado",
+    "fs": "turbada",
+    "mp": "turbados",
+    "fp": "turbadas"
+  }
+}

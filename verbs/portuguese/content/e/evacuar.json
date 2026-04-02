@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "evacuar"
+  },
+  "InfP": {
+    "1s": "evacuar",
+    "2s": "evacuares",
+    "3s": "evacuar",
+    "1p": "evacuarmos",
+    "2p": "evacuardes",
+    "3p": "evacuarem"
+  },
+  "Ger": {
+    "": "evacuando"
+  },
+  "PresI": {
+    "1s": "evacuo",
+    "2s": "evacuas",
+    "3s": "evacua",
+    "1p": "evacuamos",
+    "2p": "evacuais",
+    "3p": "evacuam"
+  },
+  "PImpI": {
+    "1s": "evacuava",
+    "2s": "evacuavas",
+    "3s": "evacuava",
+    "1p": "evacuávamos",
+    "2p": "evacuáveis",
+    "3p": "evacuavam"
+  },
+  "PPSI": {
+    "1s": "evacuei",
+    "2s": "evacuaste",
+    "3s": "evacuou",
+    "1p": "evacuámos",
+    "2p": "evacuastes",
+    "3p": "evacuaram"
+  },
+  "PMQPSI": {
+    "1s": "evacuara",
+    "2s": "evacuaras",
+    "3s": "evacuara",
+    "1p": "evacuáramos",
+    "2p": "evacuáreis",
+    "3p": "evacuaram"
+  },
+  "FutSI": {
+    "1s": "evacuarei",
+    "2s": "evacuarás",
+    "3s": "evacuará",
+    "1p": "evacuaremos",
+    "2p": "evacuareis",
+    "3p": "evacuarão"
+  },
+  "CondS": {
+    "1s": "evacuaria",
+    "2s": "evacuarias",
+    "3s": "evacuaria",
+    "1p": "evacuaríamos",
+    "2p": "evacuaríeis",
+    "3p": "evacuariam"
+  },
+  "PresC": {
+    "1s": "evacue",
+    "2s": "evacues",
+    "3s": "evacue",
+    "1p": "evacuemos",
+    "2p": "evacueis",
+    "3p": "evacuem"
+  },
+  "PImpC": {
+    "1s": "evacuasse",
+    "2s": "evacuasses",
+    "3s": "evacuasse",
+    "1p": "evacuássemos",
+    "2p": "evacuásseis",
+    "3p": "evacuassem"
+  },
+  "FutSC": {
+    "1s": "evacuar",
+    "2s": "evacuares",
+    "3s": "evacuar",
+    "1p": "evacuarmos",
+    "2p": "evacuardes",
+    "3p": "evacuarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "evacua",
+    "3s": "evacue",
+    "1p": "evacuemos",
+    "2p": "evacuai",
+    "3p": "evacuem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não evacues",
+    "3s": "não evacue",
+    "1p": "não evacuemos",
+    "2p": "não evacueis",
+    "3p": "não evacuem"
+  },
+  "Part-ter": {
+    "": "evacuado"
+  },
+  "Part-ser": {
+    "ms": "evacuado",
+    "fs": "evacuada",
+    "mp": "evacuados",
+    "fp": "evacuadas"
+  }
+}

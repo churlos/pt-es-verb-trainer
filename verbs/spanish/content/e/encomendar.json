@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encomendar"
+  },
+  "Ger": {
+    "": "encomendando"
+  },
+  "PresI": {
+    "1s": "encomiendo",
+    "2s": "encomiendas",
+    "3s": "encomienda",
+    "1p": "encomendamos",
+    "2p": "encomendáis",
+    "3p": "encomiendan"
+  },
+  "PImpI": {
+    "1s": "encomendaba",
+    "2s": "encomendabas",
+    "3s": "encomendaba",
+    "1p": "encomendábamos",
+    "2p": "encomendabais",
+    "3p": "encomendaban"
+  },
+  "PPSI": {
+    "1s": "encomendé",
+    "2s": "encomendaste",
+    "3s": "encomendó",
+    "1p": "encomendamos",
+    "2p": "encomendasteis",
+    "3p": "encomendaron"
+  },
+  "FutSI": {
+    "1s": "encomendaré",
+    "2s": "encomendarás",
+    "3s": "encomendará",
+    "1p": "encomendaremos",
+    "2p": "encomendaréis",
+    "3p": "encomendarán"
+  },
+  "CondS": {
+    "1s": "encomendaría",
+    "2s": "encomendarías",
+    "3s": "encomendaría",
+    "1p": "encomendaríamos",
+    "2p": "encomendaríais",
+    "3p": "encomendarían"
+  },
+  "PresC": {
+    "1s": "encomiende",
+    "2s": "encomiendes",
+    "3s": "encomiende",
+    "1p": "encomendemos",
+    "2p": "encomendéis",
+    "3p": "encomienden"
+  },
+  "PMQPSI": {
+    "1s": "encomendara",
+    "2s": "encomendaras",
+    "3s": "encomendara",
+    "1p": "encomendáramos",
+    "2p": "encomendarais",
+    "3p": "encomendaran"
+  },
+  "PImpC": {
+    "1s": "encomendase",
+    "2s": "encomendases",
+    "3s": "encomendase",
+    "1p": "encomendásemos",
+    "2p": "encomendaseis",
+    "3p": "encomendasen"
+  },
+  "FutSC": {
+    "1s": "encomendare",
+    "2s": "encomendares",
+    "3s": "encomendare",
+    "1p": "encomendáremos",
+    "2p": "encomendareis",
+    "3p": "encomendaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encomienda",
+    "3s": "encomiende",
+    "1p": "encomendemos",
+    "2p": "encomendad",
+    "3p": "encomienden"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encomiendes",
+    "3s": "no encomiende",
+    "1p": "no encomendemos",
+    "2p": "no encomendéis",
+    "3p": "no encomienden"
+  },
+  "Part-ter": {
+    "": "encomendado"
+  },
+  "Part-ser": {
+    "ms": "encomendado",
+    "fs": "encomendada",
+    "mp": "encomendados",
+    "fp": "encomendadas"
+  }
+}

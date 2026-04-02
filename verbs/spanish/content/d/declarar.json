@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "declarar"
+  },
+  "Ger": {
+    "": "declarando"
+  },
+  "PresI": {
+    "1s": "declaro",
+    "2s": "declaras",
+    "3s": "declara",
+    "1p": "declaramos",
+    "2p": "declaráis",
+    "3p": "declaran"
+  },
+  "PImpI": {
+    "1s": "declaraba",
+    "2s": "declarabas",
+    "3s": "declaraba",
+    "1p": "declarábamos",
+    "2p": "declarabais",
+    "3p": "declaraban"
+  },
+  "PPSI": {
+    "1s": "declaré",
+    "2s": "declaraste",
+    "3s": "declaró",
+    "1p": "declaramos",
+    "2p": "declarasteis",
+    "3p": "declararon"
+  },
+  "FutSI": {
+    "1s": "declararé",
+    "2s": "declararás",
+    "3s": "declarará",
+    "1p": "declararemos",
+    "2p": "declararéis",
+    "3p": "declararán"
+  },
+  "CondS": {
+    "1s": "declararía",
+    "2s": "declararías",
+    "3s": "declararía",
+    "1p": "declararíamos",
+    "2p": "declararíais",
+    "3p": "declararían"
+  },
+  "PresC": {
+    "1s": "declare",
+    "2s": "declares",
+    "3s": "declare",
+    "1p": "declaremos",
+    "2p": "declaréis",
+    "3p": "declaren"
+  },
+  "PMQPSI": {
+    "1s": "declarara",
+    "2s": "declararas",
+    "3s": "declarara",
+    "1p": "declaráramos",
+    "2p": "declararais",
+    "3p": "declararan"
+  },
+  "PImpC": {
+    "1s": "declarase",
+    "2s": "declarases",
+    "3s": "declarase",
+    "1p": "declarásemos",
+    "2p": "declaraseis",
+    "3p": "declarasen"
+  },
+  "FutSC": {
+    "1s": "declarare",
+    "2s": "declarares",
+    "3s": "declarare",
+    "1p": "declaráremos",
+    "2p": "declarareis",
+    "3p": "declararen"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "declara",
+    "3s": "declare",
+    "1p": "declaremos",
+    "2p": "declarad",
+    "3p": "declaren"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no declares",
+    "3s": "no declare",
+    "1p": "no declaremos",
+    "2p": "no declaréis",
+    "3p": "no declaren"
+  },
+  "Part-ter": {
+    "": "declarado"
+  },
+  "Part-ser": {
+    "ms": "declarado",
+    "fs": "declarada",
+    "mp": "declarados",
+    "fp": "declaradas"
+  }
+}

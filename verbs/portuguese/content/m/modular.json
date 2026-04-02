@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "modular"
+  },
+  "InfP": {
+    "1s": "modular",
+    "2s": "modulares",
+    "3s": "modular",
+    "1p": "modularmos",
+    "2p": "modulardes",
+    "3p": "modularem"
+  },
+  "Ger": {
+    "": "modulando"
+  },
+  "PresI": {
+    "1s": "modulo",
+    "2s": "modulas",
+    "3s": "modula",
+    "1p": "modulamos",
+    "2p": "modulais",
+    "3p": "modulam"
+  },
+  "PImpI": {
+    "1s": "modulava",
+    "2s": "modulavas",
+    "3s": "modulava",
+    "1p": "modulávamos",
+    "2p": "moduláveis",
+    "3p": "modulavam"
+  },
+  "PPSI": {
+    "1s": "modulei",
+    "2s": "modulaste",
+    "3s": "modulou",
+    "1p": "modulámos",
+    "2p": "modulastes",
+    "3p": "modularam"
+  },
+  "PMQPSI": {
+    "1s": "modulara",
+    "2s": "modularas",
+    "3s": "modulara",
+    "1p": "moduláramos",
+    "2p": "moduláreis",
+    "3p": "modularam"
+  },
+  "FutSI": {
+    "1s": "modularei",
+    "2s": "modularás",
+    "3s": "modulará",
+    "1p": "modularemos",
+    "2p": "modulareis",
+    "3p": "modularão"
+  },
+  "CondS": {
+    "1s": "modularia",
+    "2s": "modularias",
+    "3s": "modularia",
+    "1p": "modularíamos",
+    "2p": "modularíeis",
+    "3p": "modulariam"
+  },
+  "PresC": {
+    "1s": "module",
+    "2s": "modules",
+    "3s": "module",
+    "1p": "modulemos",
+    "2p": "moduleis",
+    "3p": "modulem"
+  },
+  "PImpC": {
+    "1s": "modulasse",
+    "2s": "modulasses",
+    "3s": "modulasse",
+    "1p": "modulássemos",
+    "2p": "modulásseis",
+    "3p": "modulassem"
+  },
+  "FutSC": {
+    "1s": "modular",
+    "2s": "modulares",
+    "3s": "modular",
+    "1p": "modularmos",
+    "2p": "modulardes",
+    "3p": "modularem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "modula",
+    "3s": "module",
+    "1p": "modulemos",
+    "2p": "modulai",
+    "3p": "modulem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não modules",
+    "3s": "não module",
+    "1p": "não modulemos",
+    "2p": "não moduleis",
+    "3p": "não modulem"
+  },
+  "Part-ter": {
+    "": "modulado"
+  },
+  "Part-ser": {
+    "ms": "modulado",
+    "fs": "modulada",
+    "mp": "modulados",
+    "fp": "moduladas"
+  }
+}

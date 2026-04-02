@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "googlear"
+  },
+  "InfP": {
+    "1s": "googlear",
+    "2s": "googleares",
+    "3s": "googlear",
+    "1p": "googlearmos",
+    "2p": "googleardes",
+    "3p": "googlearem"
+  },
+  "Ger": {
+    "": "googleando"
+  },
+  "PresI": {
+    "1s": "googleio",
+    "2s": "googleias",
+    "3s": "googleia",
+    "1p": "googleamos",
+    "2p": "googleais",
+    "3p": "googleiam"
+  },
+  "PImpI": {
+    "1s": "googleava",
+    "2s": "googleavas",
+    "3s": "googleava",
+    "1p": "googleávamos",
+    "2p": "googleáveis",
+    "3p": "googleavam"
+  },
+  "PPSI": {
+    "1s": "googleei",
+    "2s": "googleaste",
+    "3s": "googleou",
+    "1p": "googleámos",
+    "2p": "googleastes",
+    "3p": "googlearam"
+  },
+  "PMQPSI": {
+    "1s": "googleara",
+    "2s": "googlearas",
+    "3s": "googleara",
+    "1p": "googleáramos",
+    "2p": "googleáreis",
+    "3p": "googlearam"
+  },
+  "FutSI": {
+    "1s": "googlearei",
+    "2s": "googlearás",
+    "3s": "googleará",
+    "1p": "googlearemos",
+    "2p": "googleareis",
+    "3p": "googlearão"
+  },
+  "CondS": {
+    "1s": "googlearia",
+    "2s": "googlearias",
+    "3s": "googlearia",
+    "1p": "googlearíamos",
+    "2p": "googlearíeis",
+    "3p": "googleariam"
+  },
+  "PresC": {
+    "1s": "googleie",
+    "2s": "googleies",
+    "3s": "googleie",
+    "1p": "googleemos",
+    "2p": "googleeis",
+    "3p": "googleiem"
+  },
+  "PImpC": {
+    "1s": "googleasse",
+    "2s": "googleasses",
+    "3s": "googleasse",
+    "1p": "googleássemos",
+    "2p": "googleásseis",
+    "3p": "googleassem"
+  },
+  "FutSC": {
+    "1s": "googlear",
+    "2s": "googleares",
+    "3s": "googlear",
+    "1p": "googlearmos",
+    "2p": "googleardes",
+    "3p": "googlearem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "googleia",
+    "3s": "googleie",
+    "1p": "googleemos",
+    "2p": "googleai",
+    "3p": "googleiem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não googleies",
+    "3s": "não googleie",
+    "1p": "não googleemos",
+    "2p": "não googleeis",
+    "3p": "não googleiem"
+  },
+  "Part-ter": {
+    "": "googleado"
+  },
+  "Part-ser": {
+    "ms": "googleado",
+    "fs": "googleada",
+    "mp": "googleados",
+    "fp": "googleadas"
+  }
+}

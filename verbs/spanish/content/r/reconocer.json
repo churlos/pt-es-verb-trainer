@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "reconocer"
+  },
+  "Ger": {
+    "": "reconociendo"
+  },
+  "PresI": {
+    "1s": "reconozco",
+    "2s": "reconoces",
+    "3s": "reconoce",
+    "1p": "reconocemos",
+    "2p": "reconocéis",
+    "3p": "reconocen"
+  },
+  "PImpI": {
+    "1s": "reconocía",
+    "2s": "reconocías",
+    "3s": "reconocía",
+    "1p": "reconocíamos",
+    "2p": "reconocíais",
+    "3p": "reconocían"
+  },
+  "PPSI": {
+    "1s": "reconocí",
+    "2s": "reconociste",
+    "3s": "reconoció",
+    "1p": "reconocimos",
+    "2p": "reconocisteis",
+    "3p": "reconocieron"
+  },
+  "FutSI": {
+    "1s": "reconoceré",
+    "2s": "reconocerás",
+    "3s": "reconocerá",
+    "1p": "reconoceremos",
+    "2p": "reconoceréis",
+    "3p": "reconocerán"
+  },
+  "CondS": {
+    "1s": "reconocería",
+    "2s": "reconocerías",
+    "3s": "reconocería",
+    "1p": "reconoceríamos",
+    "2p": "reconoceríais",
+    "3p": "reconocerían"
+  },
+  "PresC": {
+    "1s": "reconozca",
+    "2s": "reconozcas",
+    "3s": "reconozca",
+    "1p": "reconozcamos",
+    "2p": "reconozcáis",
+    "3p": "reconozcan"
+  },
+  "PMQPSI": {
+    "1s": "reconociera",
+    "2s": "reconocieras",
+    "3s": "reconociera",
+    "1p": "reconociéramos",
+    "2p": "reconocierais",
+    "3p": "reconocieran"
+  },
+  "PImpC": {
+    "1s": "reconociese",
+    "2s": "reconocieses",
+    "3s": "reconociese",
+    "1p": "reconociésemos",
+    "2p": "reconocieseis",
+    "3p": "reconociesen"
+  },
+  "FutSC": {
+    "1s": "reconociere",
+    "2s": "reconocieres",
+    "3s": "reconociere",
+    "1p": "reconociéremos",
+    "2p": "reconociereis",
+    "3p": "reconocieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reconoce",
+    "3s": "reconozca",
+    "1p": "reconozcamos",
+    "2p": "reconoced",
+    "3p": "reconozcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reconozcas",
+    "3s": "no reconozca",
+    "1p": "no reconozcamos",
+    "2p": "no reconozcáis",
+    "3p": "no reconozcan"
+  },
+  "Part-ter": {
+    "": "reconocido"
+  },
+  "Part-ser": {
+    "ms": "reconocido",
+    "fs": "reconocida",
+    "mp": "reconocidos",
+    "fp": "reconocidas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "encallar"
+  },
+  "Ger": {
+    "": "encallando"
+  },
+  "PresI": {
+    "1s": "encallo",
+    "2s": "encallas",
+    "3s": "encalla",
+    "1p": "encallamos",
+    "2p": "encalláis",
+    "3p": "encallan"
+  },
+  "PImpI": {
+    "1s": "encallaba",
+    "2s": "encallabas",
+    "3s": "encallaba",
+    "1p": "encallábamos",
+    "2p": "encallabais",
+    "3p": "encallaban"
+  },
+  "PPSI": {
+    "1s": "encallé",
+    "2s": "encallaste",
+    "3s": "encalló",
+    "1p": "encallamos",
+    "2p": "encallasteis",
+    "3p": "encallaron"
+  },
+  "FutSI": {
+    "1s": "encallaré",
+    "2s": "encallarás",
+    "3s": "encallará",
+    "1p": "encallaremos",
+    "2p": "encallaréis",
+    "3p": "encallarán"
+  },
+  "CondS": {
+    "1s": "encallaría",
+    "2s": "encallarías",
+    "3s": "encallaría",
+    "1p": "encallaríamos",
+    "2p": "encallaríais",
+    "3p": "encallarían"
+  },
+  "PresC": {
+    "1s": "encalle",
+    "2s": "encalles",
+    "3s": "encalle",
+    "1p": "encallemos",
+    "2p": "encalléis",
+    "3p": "encallen"
+  },
+  "PMQPSI": {
+    "1s": "encallara",
+    "2s": "encallaras",
+    "3s": "encallara",
+    "1p": "encalláramos",
+    "2p": "encallarais",
+    "3p": "encallaran"
+  },
+  "PImpC": {
+    "1s": "encallase",
+    "2s": "encallases",
+    "3s": "encallase",
+    "1p": "encallásemos",
+    "2p": "encallaseis",
+    "3p": "encallasen"
+  },
+  "FutSC": {
+    "1s": "encallare",
+    "2s": "encallares",
+    "3s": "encallare",
+    "1p": "encalláremos",
+    "2p": "encallareis",
+    "3p": "encallaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "encalla",
+    "3s": "encalle",
+    "1p": "encallemos",
+    "2p": "encallad",
+    "3p": "encallen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no encalles",
+    "3s": "no encalle",
+    "1p": "no encallemos",
+    "2p": "no encalléis",
+    "3p": "no encallen"
+  },
+  "Part-ter": {
+    "": "encallado"
+  },
+  "Part-ser": {
+    "ms": "encallado",
+    "fs": "encallada",
+    "mp": "encallados",
+    "fp": "encalladas"
+  }
+}

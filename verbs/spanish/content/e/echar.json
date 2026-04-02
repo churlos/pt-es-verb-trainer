@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "echar"
+  },
+  "Ger": {
+    "": "echando"
+  },
+  "PresI": {
+    "1s": "echo",
+    "2s": "echas",
+    "3s": "echa",
+    "1p": "echamos",
+    "2p": "echáis",
+    "3p": "echan"
+  },
+  "PImpI": {
+    "1s": "echaba",
+    "2s": "echabas",
+    "3s": "echaba",
+    "1p": "echábamos",
+    "2p": "echabais",
+    "3p": "echaban"
+  },
+  "PPSI": {
+    "1s": "eché",
+    "2s": "echaste",
+    "3s": "echó",
+    "1p": "echamos",
+    "2p": "echasteis",
+    "3p": "echaron"
+  },
+  "FutSI": {
+    "1s": "echaré",
+    "2s": "echarás",
+    "3s": "echará",
+    "1p": "echaremos",
+    "2p": "echaréis",
+    "3p": "echarán"
+  },
+  "CondS": {
+    "1s": "echaría",
+    "2s": "echarías",
+    "3s": "echaría",
+    "1p": "echaríamos",
+    "2p": "echaríais",
+    "3p": "echarían"
+  },
+  "PresC": {
+    "1s": "eche",
+    "2s": "eches",
+    "3s": "eche",
+    "1p": "echemos",
+    "2p": "echéis",
+    "3p": "echen"
+  },
+  "PMQPSI": {
+    "1s": "echara",
+    "2s": "echaras",
+    "3s": "echara",
+    "1p": "echáramos",
+    "2p": "echarais",
+    "3p": "echaran"
+  },
+  "PImpC": {
+    "1s": "echase",
+    "2s": "echases",
+    "3s": "echase",
+    "1p": "echásemos",
+    "2p": "echaseis",
+    "3p": "echasen"
+  },
+  "FutSC": {
+    "1s": "echare",
+    "2s": "echares",
+    "3s": "echare",
+    "1p": "echáremos",
+    "2p": "echareis",
+    "3p": "echaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "echa",
+    "3s": "eche",
+    "1p": "echemos",
+    "2p": "echad",
+    "3p": "echen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no eches",
+    "3s": "no eche",
+    "1p": "no echemos",
+    "2p": "no echéis",
+    "3p": "no echen"
+  },
+  "Part-ter": {
+    "": "echado"
+  },
+  "Part-ser": {
+    "ms": "echado",
+    "fs": "echada",
+    "mp": "echados",
+    "fp": "echadas"
+  }
+}

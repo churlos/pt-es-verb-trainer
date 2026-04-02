@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "restablecer"
+  },
+  "Ger": {
+    "": "restableciendo"
+  },
+  "PresI": {
+    "1s": "restablezco",
+    "2s": "restableces",
+    "3s": "restablece",
+    "1p": "restablecemos",
+    "2p": "restablecéis",
+    "3p": "restablecen"
+  },
+  "PImpI": {
+    "1s": "restablecía",
+    "2s": "restablecías",
+    "3s": "restablecía",
+    "1p": "restablecíamos",
+    "2p": "restablecíais",
+    "3p": "restablecían"
+  },
+  "PPSI": {
+    "1s": "restablecí",
+    "2s": "restableciste",
+    "3s": "restableció",
+    "1p": "restablecimos",
+    "2p": "restablecisteis",
+    "3p": "restablecieron"
+  },
+  "FutSI": {
+    "1s": "restableceré",
+    "2s": "restablecerás",
+    "3s": "restablecerá",
+    "1p": "restableceremos",
+    "2p": "restableceréis",
+    "3p": "restablecerán"
+  },
+  "CondS": {
+    "1s": "restablecería",
+    "2s": "restablecerías",
+    "3s": "restablecería",
+    "1p": "restableceríamos",
+    "2p": "restableceríais",
+    "3p": "restablecerían"
+  },
+  "PresC": {
+    "1s": "restablezca",
+    "2s": "restablezcas",
+    "3s": "restablezca",
+    "1p": "restablezcamos",
+    "2p": "restablezcáis",
+    "3p": "restablezcan"
+  },
+  "PMQPSI": {
+    "1s": "restableciera",
+    "2s": "restablecieras",
+    "3s": "restableciera",
+    "1p": "restableciéramos",
+    "2p": "restablecierais",
+    "3p": "restablecieran"
+  },
+  "PImpC": {
+    "1s": "restableciese",
+    "2s": "restablecieses",
+    "3s": "restableciese",
+    "1p": "restableciésemos",
+    "2p": "restablecieseis",
+    "3p": "restableciesen"
+  },
+  "FutSC": {
+    "1s": "restableciere",
+    "2s": "restablecieres",
+    "3s": "restableciere",
+    "1p": "restableciéremos",
+    "2p": "restableciereis",
+    "3p": "restablecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "restablece",
+    "3s": "restablezca",
+    "1p": "restablezcamos",
+    "2p": "restableced",
+    "3p": "restablezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no restablezcas",
+    "3s": "no restablezca",
+    "1p": "no restablezcamos",
+    "2p": "no restablezcáis",
+    "3p": "no restablezcan"
+  },
+  "Part-ter": {
+    "": "restablecido"
+  },
+  "Part-ser": {
+    "ms": "restablecido",
+    "fs": "restablecida",
+    "mp": "restablecidos",
+    "fp": "restablecidas"
+  }
+}

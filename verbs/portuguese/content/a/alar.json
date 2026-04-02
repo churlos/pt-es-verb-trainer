@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alar"
+  },
+  "InfP": {
+    "1s": "alar",
+    "2s": "alares",
+    "3s": "alar",
+    "1p": "alarmos",
+    "2p": "alardes",
+    "3p": "alarem"
+  },
+  "Ger": {
+    "": "alando"
+  },
+  "PresI": {
+    "1s": "alo",
+    "2s": "alas",
+    "3s": "ala",
+    "1p": "alamos",
+    "2p": "alais",
+    "3p": "alam"
+  },
+  "PImpI": {
+    "1s": "alava",
+    "2s": "alavas",
+    "3s": "alava",
+    "1p": "alávamos",
+    "2p": "aláveis",
+    "3p": "alavam"
+  },
+  "PPSI": {
+    "1s": "alei",
+    "2s": "alaste",
+    "3s": "alou",
+    "1p": "alámos",
+    "2p": "alastes",
+    "3p": "alaram"
+  },
+  "PMQPSI": {
+    "1s": "alara",
+    "2s": "alaras",
+    "3s": "alara",
+    "1p": "aláramos",
+    "2p": "aláreis",
+    "3p": "alaram"
+  },
+  "FutSI": {
+    "1s": "alarei",
+    "2s": "alarás",
+    "3s": "alará",
+    "1p": "alaremos",
+    "2p": "alareis",
+    "3p": "alarão"
+  },
+  "CondS": {
+    "1s": "alaria",
+    "2s": "alarias",
+    "3s": "alaria",
+    "1p": "alaríamos",
+    "2p": "alaríeis",
+    "3p": "alariam"
+  },
+  "PresC": {
+    "1s": "ale",
+    "2s": "ales",
+    "3s": "ale",
+    "1p": "alemos",
+    "2p": "aleis",
+    "3p": "alem"
+  },
+  "PImpC": {
+    "1s": "alasse",
+    "2s": "alasses",
+    "3s": "alasse",
+    "1p": "alássemos",
+    "2p": "alásseis",
+    "3p": "alassem"
+  },
+  "FutSC": {
+    "1s": "alar",
+    "2s": "alares",
+    "3s": "alar",
+    "1p": "alarmos",
+    "2p": "alardes",
+    "3p": "alarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ala",
+    "3s": "ale",
+    "1p": "alemos",
+    "2p": "alai",
+    "3p": "alem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ales",
+    "3s": "não ale",
+    "1p": "não alemos",
+    "2p": "não aleis",
+    "3p": "não alem"
+  },
+  "Part-ter": {
+    "": "alado"
+  },
+  "Part-ser": {
+    "ms": "alado",
+    "fs": "alada",
+    "mp": "alados",
+    "fp": "aladas"
+  }
+}

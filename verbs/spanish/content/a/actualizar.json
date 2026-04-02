@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "actualizar"
+  },
+  "Ger": {
+    "": "actualizando"
+  },
+  "PresI": {
+    "1s": "actualizo",
+    "2s": "actualizas",
+    "3s": "actualiza",
+    "1p": "actualizamos",
+    "2p": "actualizáis",
+    "3p": "actualizan"
+  },
+  "PImpI": {
+    "1s": "actualizaba",
+    "2s": "actualizabas",
+    "3s": "actualizaba",
+    "1p": "actualizábamos",
+    "2p": "actualizabais",
+    "3p": "actualizaban"
+  },
+  "PPSI": {
+    "1s": "actualicé",
+    "2s": "actualizaste",
+    "3s": "actualizó",
+    "1p": "actualizamos",
+    "2p": "actualizasteis",
+    "3p": "actualizaron"
+  },
+  "FutSI": {
+    "1s": "actualizaré",
+    "2s": "actualizarás",
+    "3s": "actualizará",
+    "1p": "actualizaremos",
+    "2p": "actualizaréis",
+    "3p": "actualizarán"
+  },
+  "CondS": {
+    "1s": "actualizaría",
+    "2s": "actualizarías",
+    "3s": "actualizaría",
+    "1p": "actualizaríamos",
+    "2p": "actualizaríais",
+    "3p": "actualizarían"
+  },
+  "PresC": {
+    "1s": "actualice",
+    "2s": "actualices",
+    "3s": "actualice",
+    "1p": "actualicemos",
+    "2p": "actualicéis",
+    "3p": "actualicen"
+  },
+  "PMQPSI": {
+    "1s": "actualizara",
+    "2s": "actualizaras",
+    "3s": "actualizara",
+    "1p": "actualizáramos",
+    "2p": "actualizarais",
+    "3p": "actualizaran"
+  },
+  "PImpC": {
+    "1s": "actualizase",
+    "2s": "actualizases",
+    "3s": "actualizase",
+    "1p": "actualizásemos",
+    "2p": "actualizaseis",
+    "3p": "actualizasen"
+  },
+  "FutSC": {
+    "1s": "actualizare",
+    "2s": "actualizares",
+    "3s": "actualizare",
+    "1p": "actualizáremos",
+    "2p": "actualizareis",
+    "3p": "actualizaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "actualiza",
+    "3s": "actualice",
+    "1p": "actualicemos",
+    "2p": "actualizad",
+    "3p": "actualicen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no actualices",
+    "3s": "no actualice",
+    "1p": "no actualicemos",
+    "2p": "no actualicéis",
+    "3p": "no actualicen"
+  },
+  "Part-ter": {
+    "": "actualizado"
+  },
+  "Part-ser": {
+    "ms": "actualizado",
+    "fs": "actualizada",
+    "mp": "actualizados",
+    "fp": "actualizadas"
+  }
+}

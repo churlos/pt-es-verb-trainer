@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "realizar"
+  },
+  "InfP": {
+    "1s": "realizar",
+    "2s": "realizares",
+    "3s": "realizar",
+    "1p": "realizarmos",
+    "2p": "realizardes",
+    "3p": "realizarem"
+  },
+  "Ger": {
+    "": "realizando"
+  },
+  "PresI": {
+    "1s": "realizo",
+    "2s": "realizas",
+    "3s": "realiza",
+    "1p": "realizamos",
+    "2p": "realizais",
+    "3p": "realizam"
+  },
+  "PImpI": {
+    "1s": "realizava",
+    "2s": "realizavas",
+    "3s": "realizava",
+    "1p": "realizávamos",
+    "2p": "realizáveis",
+    "3p": "realizavam"
+  },
+  "PPSI": {
+    "1s": "realizei",
+    "2s": "realizaste",
+    "3s": "realizou",
+    "1p": "realizámos",
+    "2p": "realizastes",
+    "3p": "realizaram"
+  },
+  "PMQPSI": {
+    "1s": "realizara",
+    "2s": "realizaras",
+    "3s": "realizara",
+    "1p": "realizáramos",
+    "2p": "realizáreis",
+    "3p": "realizaram"
+  },
+  "FutSI": {
+    "1s": "realizarei",
+    "2s": "realizarás",
+    "3s": "realizará",
+    "1p": "realizaremos",
+    "2p": "realizareis",
+    "3p": "realizarão"
+  },
+  "CondS": {
+    "1s": "realizaria",
+    "2s": "realizarias",
+    "3s": "realizaria",
+    "1p": "realizaríamos",
+    "2p": "realizaríeis",
+    "3p": "realizariam"
+  },
+  "PresC": {
+    "1s": "realize",
+    "2s": "realizes",
+    "3s": "realize",
+    "1p": "realizemos",
+    "2p": "realizeis",
+    "3p": "realizem"
+  },
+  "PImpC": {
+    "1s": "realizasse",
+    "2s": "realizasses",
+    "3s": "realizasse",
+    "1p": "realizássemos",
+    "2p": "realizásseis",
+    "3p": "realizassem"
+  },
+  "FutSC": {
+    "1s": "realizar",
+    "2s": "realizares",
+    "3s": "realizar",
+    "1p": "realizarmos",
+    "2p": "realizardes",
+    "3p": "realizarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "realiza",
+    "3s": "realize",
+    "1p": "realizemos",
+    "2p": "realizai",
+    "3p": "realizem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não realizes",
+    "3s": "não realize",
+    "1p": "não realizemos",
+    "2p": "não realizeis",
+    "3p": "não realizem"
+  },
+  "Part-ter": {
+    "": "realizado"
+  },
+  "Part-ser": {
+    "ms": "realizado",
+    "fs": "realizada",
+    "mp": "realizados",
+    "fp": "realizadas"
+  }
+}

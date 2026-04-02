@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "embarazar"
+  },
+  "Ger": {
+    "": "embarazando"
+  },
+  "PresI": {
+    "1s": "embarazo",
+    "2s": "embarazas",
+    "3s": "embaraza",
+    "1p": "embarazamos",
+    "2p": "embarazáis",
+    "3p": "embarazan"
+  },
+  "PImpI": {
+    "1s": "embarazaba",
+    "2s": "embarazabas",
+    "3s": "embarazaba",
+    "1p": "embarazábamos",
+    "2p": "embarazabais",
+    "3p": "embarazaban"
+  },
+  "PPSI": {
+    "1s": "embaracé",
+    "2s": "embarazaste",
+    "3s": "embarazó",
+    "1p": "embarazamos",
+    "2p": "embarazasteis",
+    "3p": "embarazaron"
+  },
+  "FutSI": {
+    "1s": "embarazaré",
+    "2s": "embarazarás",
+    "3s": "embarazará",
+    "1p": "embarazaremos",
+    "2p": "embarazaréis",
+    "3p": "embarazarán"
+  },
+  "CondS": {
+    "1s": "embarazaría",
+    "2s": "embarazarías",
+    "3s": "embarazaría",
+    "1p": "embarazaríamos",
+    "2p": "embarazaríais",
+    "3p": "embarazarían"
+  },
+  "PresC": {
+    "1s": "embarace",
+    "2s": "embaraces",
+    "3s": "embarace",
+    "1p": "embaracemos",
+    "2p": "embaracéis",
+    "3p": "embaracen"
+  },
+  "PMQPSI": {
+    "1s": "embarazara",
+    "2s": "embarazaras",
+    "3s": "embarazara",
+    "1p": "embarazáramos",
+    "2p": "embarazarais",
+    "3p": "embarazaran"
+  },
+  "PImpC": {
+    "1s": "embarazase",
+    "2s": "embarazases",
+    "3s": "embarazase",
+    "1p": "embarazásemos",
+    "2p": "embarazaseis",
+    "3p": "embarazasen"
+  },
+  "FutSC": {
+    "1s": "embarazare",
+    "2s": "embarazares",
+    "3s": "embarazare",
+    "1p": "embarazáremos",
+    "2p": "embarazareis",
+    "3p": "embarazaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "embaraza",
+    "3s": "embarace",
+    "1p": "embaracemos",
+    "2p": "embarazad",
+    "3p": "embaracen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no embaraces",
+    "3s": "no embarace",
+    "1p": "no embaracemos",
+    "2p": "no embaracéis",
+    "3p": "no embaracen"
+  },
+  "Part-ter": {
+    "": "embarazado"
+  },
+  "Part-ser": {
+    "ms": "embarazado",
+    "fs": "embarazada",
+    "mp": "embarazados",
+    "fp": "embarazadas"
+  }
+}

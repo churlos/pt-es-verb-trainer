@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "interpolar"
+  },
+  "Ger": {
+    "": "interpolando"
+  },
+  "PresI": {
+    "1s": "interpolo",
+    "2s": "interpolas",
+    "3s": "interpola",
+    "1p": "interpolamos",
+    "2p": "interpoláis",
+    "3p": "interpolan"
+  },
+  "PImpI": {
+    "1s": "interpolaba",
+    "2s": "interpolabas",
+    "3s": "interpolaba",
+    "1p": "interpolábamos",
+    "2p": "interpolabais",
+    "3p": "interpolaban"
+  },
+  "PPSI": {
+    "1s": "interpolé",
+    "2s": "interpolaste",
+    "3s": "interpoló",
+    "1p": "interpolamos",
+    "2p": "interpolasteis",
+    "3p": "interpolaron"
+  },
+  "FutSI": {
+    "1s": "interpolaré",
+    "2s": "interpolarás",
+    "3s": "interpolará",
+    "1p": "interpolaremos",
+    "2p": "interpolaréis",
+    "3p": "interpolarán"
+  },
+  "CondS": {
+    "1s": "interpolaría",
+    "2s": "interpolarías",
+    "3s": "interpolaría",
+    "1p": "interpolaríamos",
+    "2p": "interpolaríais",
+    "3p": "interpolarían"
+  },
+  "PresC": {
+    "1s": "interpole",
+    "2s": "interpoles",
+    "3s": "interpole",
+    "1p": "interpolemos",
+    "2p": "interpoléis",
+    "3p": "interpolen"
+  },
+  "PMQPSI": {
+    "1s": "interpolara",
+    "2s": "interpolaras",
+    "3s": "interpolara",
+    "1p": "interpoláramos",
+    "2p": "interpolarais",
+    "3p": "interpolaran"
+  },
+  "PImpC": {
+    "1s": "interpolase",
+    "2s": "interpolases",
+    "3s": "interpolase",
+    "1p": "interpolásemos",
+    "2p": "interpolaseis",
+    "3p": "interpolasen"
+  },
+  "FutSC": {
+    "1s": "interpolare",
+    "2s": "interpolares",
+    "3s": "interpolare",
+    "1p": "interpoláremos",
+    "2p": "interpolareis",
+    "3p": "interpolaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "interpola",
+    "3s": "interpole",
+    "1p": "interpolemos",
+    "2p": "interpolad",
+    "3p": "interpolen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no interpoles",
+    "3s": "no interpole",
+    "1p": "no interpolemos",
+    "2p": "no interpoléis",
+    "3p": "no interpolen"
+  },
+  "Part-ter": {
+    "": "interpolado"
+  },
+  "Part-ser": {
+    "ms": "interpolado",
+    "fs": "interpolada",
+    "mp": "interpolados",
+    "fp": "interpoladas"
+  }
+}

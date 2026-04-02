@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "ladrar"
+  },
+  "InfP": {
+    "1s": "ladrar",
+    "2s": "ladrares",
+    "3s": "ladrar",
+    "1p": "ladrarmos",
+    "2p": "ladrardes",
+    "3p": "ladrarem"
+  },
+  "Ger": {
+    "": "ladrando"
+  },
+  "PresI": {
+    "1s": "ladro",
+    "2s": "ladras",
+    "3s": "ladra",
+    "1p": "ladramos",
+    "2p": "ladrais",
+    "3p": "ladram"
+  },
+  "PImpI": {
+    "1s": "ladrava",
+    "2s": "ladravas",
+    "3s": "ladrava",
+    "1p": "ladrávamos",
+    "2p": "ladráveis",
+    "3p": "ladravam"
+  },
+  "PPSI": {
+    "1s": "ladrei",
+    "2s": "ladraste",
+    "3s": "ladrou",
+    "1p": "ladrámos",
+    "2p": "ladrastes",
+    "3p": "ladraram"
+  },
+  "PMQPSI": {
+    "1s": "ladrara",
+    "2s": "ladraras",
+    "3s": "ladrara",
+    "1p": "ladráramos",
+    "2p": "ladráreis",
+    "3p": "ladraram"
+  },
+  "FutSI": {
+    "1s": "ladrarei",
+    "2s": "ladrarás",
+    "3s": "ladrará",
+    "1p": "ladraremos",
+    "2p": "ladrareis",
+    "3p": "ladrarão"
+  },
+  "CondS": {
+    "1s": "ladraria",
+    "2s": "ladrarias",
+    "3s": "ladraria",
+    "1p": "ladraríamos",
+    "2p": "ladraríeis",
+    "3p": "ladrariam"
+  },
+  "PresC": {
+    "1s": "ladre",
+    "2s": "ladres",
+    "3s": "ladre",
+    "1p": "ladremos",
+    "2p": "ladreis",
+    "3p": "ladrem"
+  },
+  "PImpC": {
+    "1s": "ladrasse",
+    "2s": "ladrasses",
+    "3s": "ladrasse",
+    "1p": "ladrássemos",
+    "2p": "ladrásseis",
+    "3p": "ladrassem"
+  },
+  "FutSC": {
+    "1s": "ladrar",
+    "2s": "ladrares",
+    "3s": "ladrar",
+    "1p": "ladrarmos",
+    "2p": "ladrardes",
+    "3p": "ladrarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "ladra",
+    "3s": "ladre",
+    "1p": "ladremos",
+    "2p": "ladrai",
+    "3p": "ladrem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não ladres",
+    "3s": "não ladre",
+    "1p": "não ladremos",
+    "2p": "não ladreis",
+    "3p": "não ladrem"
+  },
+  "Part-ter": {
+    "": "ladrado"
+  },
+  "Part-ser": {
+    "ms": "ladrado",
+    "fs": "ladrada",
+    "mp": "ladrados",
+    "fp": "ladradas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "fraudar"
+  },
+  "InfP": {
+    "1s": "fraudar",
+    "2s": "fraudares",
+    "3s": "fraudar",
+    "1p": "fraudarmos",
+    "2p": "fraudardes",
+    "3p": "fraudarem"
+  },
+  "Ger": {
+    "": "fraudando"
+  },
+  "PresI": {
+    "1s": "fraudo",
+    "2s": "fraudas",
+    "3s": "frauda",
+    "1p": "fraudamos",
+    "2p": "fraudais",
+    "3p": "fraudam"
+  },
+  "PImpI": {
+    "1s": "fraudava",
+    "2s": "fraudavas",
+    "3s": "fraudava",
+    "1p": "fraudávamos",
+    "2p": "fraudáveis",
+    "3p": "fraudavam"
+  },
+  "PPSI": {
+    "1s": "fraudei",
+    "2s": "fraudaste",
+    "3s": "fraudou",
+    "1p": "fraudámos",
+    "2p": "fraudastes",
+    "3p": "fraudaram"
+  },
+  "PMQPSI": {
+    "1s": "fraudara",
+    "2s": "fraudaras",
+    "3s": "fraudara",
+    "1p": "fraudáramos",
+    "2p": "fraudáreis",
+    "3p": "fraudaram"
+  },
+  "FutSI": {
+    "1s": "fraudarei",
+    "2s": "fraudarás",
+    "3s": "fraudará",
+    "1p": "fraudaremos",
+    "2p": "fraudareis",
+    "3p": "fraudarão"
+  },
+  "CondS": {
+    "1s": "fraudaria",
+    "2s": "fraudarias",
+    "3s": "fraudaria",
+    "1p": "fraudaríamos",
+    "2p": "fraudaríeis",
+    "3p": "fraudariam"
+  },
+  "PresC": {
+    "1s": "fraude",
+    "2s": "fraudes",
+    "3s": "fraude",
+    "1p": "fraudemos",
+    "2p": "fraudeis",
+    "3p": "fraudem"
+  },
+  "PImpC": {
+    "1s": "fraudasse",
+    "2s": "fraudasses",
+    "3s": "fraudasse",
+    "1p": "fraudássemos",
+    "2p": "fraudásseis",
+    "3p": "fraudassem"
+  },
+  "FutSC": {
+    "1s": "fraudar",
+    "2s": "fraudares",
+    "3s": "fraudar",
+    "1p": "fraudarmos",
+    "2p": "fraudardes",
+    "3p": "fraudarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "frauda",
+    "3s": "fraude",
+    "1p": "fraudemos",
+    "2p": "fraudai",
+    "3p": "fraudem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não fraudes",
+    "3s": "não fraude",
+    "1p": "não fraudemos",
+    "2p": "não fraudeis",
+    "3p": "não fraudem"
+  },
+  "Part-ter": {
+    "": "fraudado"
+  },
+  "Part-ser": {
+    "ms": "fraudado",
+    "fs": "fraudada",
+    "mp": "fraudados",
+    "fp": "fraudadas"
+  }
+}

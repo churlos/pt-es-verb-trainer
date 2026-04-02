@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "resecar"
+  },
+  "Ger": {
+    "": "resecando"
+  },
+  "PresI": {
+    "1s": "reseco",
+    "2s": "resecas",
+    "3s": "reseca",
+    "1p": "resecamos",
+    "2p": "resecáis",
+    "3p": "resecan"
+  },
+  "PImpI": {
+    "1s": "resecaba",
+    "2s": "resecabas",
+    "3s": "resecaba",
+    "1p": "resecábamos",
+    "2p": "resecabais",
+    "3p": "resecaban"
+  },
+  "PPSI": {
+    "1s": "resequé",
+    "2s": "resecaste",
+    "3s": "resecó",
+    "1p": "resecamos",
+    "2p": "resecasteis",
+    "3p": "resecaron"
+  },
+  "FutSI": {
+    "1s": "resecaré",
+    "2s": "resecarás",
+    "3s": "resecará",
+    "1p": "resecaremos",
+    "2p": "resecaréis",
+    "3p": "resecarán"
+  },
+  "CondS": {
+    "1s": "resecaría",
+    "2s": "resecarías",
+    "3s": "resecaría",
+    "1p": "resecaríamos",
+    "2p": "resecaríais",
+    "3p": "resecarían"
+  },
+  "PresC": {
+    "1s": "reseque",
+    "2s": "reseques",
+    "3s": "reseque",
+    "1p": "resequemos",
+    "2p": "resequéis",
+    "3p": "resequen"
+  },
+  "PMQPSI": {
+    "1s": "resecara",
+    "2s": "resecaras",
+    "3s": "resecara",
+    "1p": "resecáramos",
+    "2p": "resecarais",
+    "3p": "resecaran"
+  },
+  "PImpC": {
+    "1s": "resecase",
+    "2s": "resecases",
+    "3s": "resecase",
+    "1p": "resecásemos",
+    "2p": "resecaseis",
+    "3p": "resecasen"
+  },
+  "FutSC": {
+    "1s": "resecare",
+    "2s": "resecares",
+    "3s": "resecare",
+    "1p": "resecáremos",
+    "2p": "resecareis",
+    "3p": "resecaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "reseca",
+    "3s": "reseque",
+    "1p": "resequemos",
+    "2p": "resecad",
+    "3p": "resequen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no reseques",
+    "3s": "no reseque",
+    "1p": "no resequemos",
+    "2p": "no resequéis",
+    "3p": "no resequen"
+  },
+  "Part-ter": {
+    "": "resecado"
+  },
+  "Part-ser": {
+    "ms": "resecado",
+    "fs": "resecada",
+    "mp": "resecados",
+    "fp": "resecadas"
+  }
+}

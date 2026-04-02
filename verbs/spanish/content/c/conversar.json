@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "conversar"
+  },
+  "Ger": {
+    "": "conversando"
+  },
+  "PresI": {
+    "1s": "converso",
+    "2s": "conversas",
+    "3s": "conversa",
+    "1p": "conversamos",
+    "2p": "conversáis",
+    "3p": "conversan"
+  },
+  "PImpI": {
+    "1s": "conversaba",
+    "2s": "conversabas",
+    "3s": "conversaba",
+    "1p": "conversábamos",
+    "2p": "conversabais",
+    "3p": "conversaban"
+  },
+  "PPSI": {
+    "1s": "conversé",
+    "2s": "conversaste",
+    "3s": "conversó",
+    "1p": "conversamos",
+    "2p": "conversasteis",
+    "3p": "conversaron"
+  },
+  "FutSI": {
+    "1s": "conversaré",
+    "2s": "conversarás",
+    "3s": "conversará",
+    "1p": "conversaremos",
+    "2p": "conversaréis",
+    "3p": "conversarán"
+  },
+  "CondS": {
+    "1s": "conversaría",
+    "2s": "conversarías",
+    "3s": "conversaría",
+    "1p": "conversaríamos",
+    "2p": "conversaríais",
+    "3p": "conversarían"
+  },
+  "PresC": {
+    "1s": "converse",
+    "2s": "converses",
+    "3s": "converse",
+    "1p": "conversemos",
+    "2p": "converséis",
+    "3p": "conversen"
+  },
+  "PMQPSI": {
+    "1s": "conversara",
+    "2s": "conversaras",
+    "3s": "conversara",
+    "1p": "conversáramos",
+    "2p": "conversarais",
+    "3p": "conversaran"
+  },
+  "PImpC": {
+    "1s": "conversase",
+    "2s": "conversases",
+    "3s": "conversase",
+    "1p": "conversásemos",
+    "2p": "conversaseis",
+    "3p": "conversasen"
+  },
+  "FutSC": {
+    "1s": "conversare",
+    "2s": "conversares",
+    "3s": "conversare",
+    "1p": "conversáremos",
+    "2p": "conversareis",
+    "3p": "conversaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "conversa",
+    "3s": "converse",
+    "1p": "conversemos",
+    "2p": "conversad",
+    "3p": "conversen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no converses",
+    "3s": "no converse",
+    "1p": "no conversemos",
+    "2p": "no converséis",
+    "3p": "no conversen"
+  },
+  "Part-ter": {
+    "": "conversado"
+  },
+  "Part-ser": {
+    "ms": "conversado",
+    "fs": "conversada",
+    "mp": "conversados",
+    "fp": "conversadas"
+  }
+}

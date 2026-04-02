@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "transformar"
+  },
+  "InfP": {
+    "1s": "transformar",
+    "2s": "transformares",
+    "3s": "transformar",
+    "1p": "transformarmos",
+    "2p": "transformardes",
+    "3p": "transformarem"
+  },
+  "Ger": {
+    "": "transformando"
+  },
+  "PresI": {
+    "1s": "transformo",
+    "2s": "transformas",
+    "3s": "transforma",
+    "1p": "transformamos",
+    "2p": "transformais",
+    "3p": "transformam"
+  },
+  "PImpI": {
+    "1s": "transformava",
+    "2s": "transformavas",
+    "3s": "transformava",
+    "1p": "transformávamos",
+    "2p": "transformáveis",
+    "3p": "transformavam"
+  },
+  "PPSI": {
+    "1s": "transformei",
+    "2s": "transformaste",
+    "3s": "transformou",
+    "1p": "transformámos",
+    "2p": "transformastes",
+    "3p": "transformaram"
+  },
+  "PMQPSI": {
+    "1s": "transformara",
+    "2s": "transformaras",
+    "3s": "transformara",
+    "1p": "transformáramos",
+    "2p": "transformáreis",
+    "3p": "transformaram"
+  },
+  "FutSI": {
+    "1s": "transformarei",
+    "2s": "transformarás",
+    "3s": "transformará",
+    "1p": "transformaremos",
+    "2p": "transformareis",
+    "3p": "transformarão"
+  },
+  "CondS": {
+    "1s": "transformaria",
+    "2s": "transformarias",
+    "3s": "transformaria",
+    "1p": "transformaríamos",
+    "2p": "transformaríeis",
+    "3p": "transformariam"
+  },
+  "PresC": {
+    "1s": "transforme",
+    "2s": "transformes",
+    "3s": "transforme",
+    "1p": "transformemos",
+    "2p": "transformeis",
+    "3p": "transformem"
+  },
+  "PImpC": {
+    "1s": "transformasse",
+    "2s": "transformasses",
+    "3s": "transformasse",
+    "1p": "transformássemos",
+    "2p": "transformásseis",
+    "3p": "transformassem"
+  },
+  "FutSC": {
+    "1s": "transformar",
+    "2s": "transformares",
+    "3s": "transformar",
+    "1p": "transformarmos",
+    "2p": "transformardes",
+    "3p": "transformarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "transforma",
+    "3s": "transforme",
+    "1p": "transformemos",
+    "2p": "transformai",
+    "3p": "transformem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não transformes",
+    "3s": "não transforme",
+    "1p": "não transformemos",
+    "2p": "não transformeis",
+    "3p": "não transformem"
+  },
+  "Part-ter": {
+    "": "transformado"
+  },
+  "Part-ser": {
+    "ms": "transformado",
+    "fs": "transformada",
+    "mp": "transformados",
+    "fp": "transformadas"
+  }
+}

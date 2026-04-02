@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "echarse"
+  },
+  "Ger": {
+    "": "echándose"
+  },
+  "PresI": {
+    "1s": "me echo",
+    "2s": "te echas",
+    "3s": "se echa",
+    "1p": "nos echamos",
+    "2p": "os echáis",
+    "3p": "se echan"
+  },
+  "PImpI": {
+    "1s": "me echaba",
+    "2s": "te echabas",
+    "3s": "se echaba",
+    "1p": "nos echábamos",
+    "2p": "os echabais",
+    "3p": "se echaban"
+  },
+  "PPSI": {
+    "1s": "me eché",
+    "2s": "te echaste",
+    "3s": "se echó",
+    "1p": "nos echamos",
+    "2p": "os echasteis",
+    "3p": "se echaron"
+  },
+  "FutSI": {
+    "1s": "me echaré",
+    "2s": "te echarás",
+    "3s": "se echará",
+    "1p": "nos echaremos",
+    "2p": "os echaréis",
+    "3p": "se echarán"
+  },
+  "CondS": {
+    "1s": "me echaría",
+    "2s": "te echarías",
+    "3s": "se echaría",
+    "1p": "nos echaríamos",
+    "2p": "os echaríais",
+    "3p": "se echarían"
+  },
+  "PresC": {
+    "1s": "me eche",
+    "2s": "te eches",
+    "3s": "se eche",
+    "1p": "nos echemos",
+    "2p": "os echéis",
+    "3p": "se echen"
+  },
+  "PMQPSI": {
+    "1s": "me echara",
+    "2s": "te echaras",
+    "3s": "se echara",
+    "1p": "nos echáramos",
+    "2p": "os echarais",
+    "3p": "se echaran"
+  },
+  "PImpC": {
+    "1s": "me echase",
+    "2s": "te echases",
+    "3s": "se echase",
+    "1p": "nos echásemos",
+    "2p": "os echaseis",
+    "3p": "se echasen"
+  },
+  "FutSC": {
+    "1s": "me echare",
+    "2s": "te echares",
+    "3s": "se echare",
+    "1p": "nos echáremos",
+    "2p": "os echareis",
+    "3p": "se echaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "échate",
+    "3s": "échese",
+    "1p": "echémonos",
+    "2p": "echaos",
+    "3p": "échense"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no te eches",
+    "3s": "no se eche",
+    "1p": "no nos echemos",
+    "2p": "no os echéis",
+    "3p": "no se echen"
+  },
+  "Part-ter": {
+    "": "echado"
+  },
+  "Part-ser": {
+    "ms": "echado",
+    "fs": "echada",
+    "mp": "echados",
+    "fp": "echadas"
+  }
+}

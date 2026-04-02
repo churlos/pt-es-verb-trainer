@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "desfallecer"
+  },
+  "Ger": {
+    "": "desfalleciendo"
+  },
+  "PresI": {
+    "1s": "desfallezco",
+    "2s": "desfalleces",
+    "3s": "desfallece",
+    "1p": "desfallecemos",
+    "2p": "desfallecéis",
+    "3p": "desfallecen"
+  },
+  "PImpI": {
+    "1s": "desfallecía",
+    "2s": "desfallecías",
+    "3s": "desfallecía",
+    "1p": "desfallecíamos",
+    "2p": "desfallecíais",
+    "3p": "desfallecían"
+  },
+  "PPSI": {
+    "1s": "desfallecí",
+    "2s": "desfalleciste",
+    "3s": "desfalleció",
+    "1p": "desfallecimos",
+    "2p": "desfallecisteis",
+    "3p": "desfallecieron"
+  },
+  "FutSI": {
+    "1s": "desfalleceré",
+    "2s": "desfallecerás",
+    "3s": "desfallecerá",
+    "1p": "desfalleceremos",
+    "2p": "desfalleceréis",
+    "3p": "desfallecerán"
+  },
+  "CondS": {
+    "1s": "desfallecería",
+    "2s": "desfallecerías",
+    "3s": "desfallecería",
+    "1p": "desfalleceríamos",
+    "2p": "desfalleceríais",
+    "3p": "desfallecerían"
+  },
+  "PresC": {
+    "1s": "desfallezca",
+    "2s": "desfallezcas",
+    "3s": "desfallezca",
+    "1p": "desfallezcamos",
+    "2p": "desfallezcáis",
+    "3p": "desfallezcan"
+  },
+  "PMQPSI": {
+    "1s": "desfalleciera",
+    "2s": "desfallecieras",
+    "3s": "desfalleciera",
+    "1p": "desfalleciéramos",
+    "2p": "desfallecierais",
+    "3p": "desfallecieran"
+  },
+  "PImpC": {
+    "1s": "desfalleciese",
+    "2s": "desfallecieses",
+    "3s": "desfalleciese",
+    "1p": "desfalleciésemos",
+    "2p": "desfallecieseis",
+    "3p": "desfalleciesen"
+  },
+  "FutSC": {
+    "1s": "desfalleciere",
+    "2s": "desfallecieres",
+    "3s": "desfalleciere",
+    "1p": "desfalleciéremos",
+    "2p": "desfalleciereis",
+    "3p": "desfallecieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "desfallece",
+    "3s": "desfallezca",
+    "1p": "desfallezcamos",
+    "2p": "desfalleced",
+    "3p": "desfallezcan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no desfallezcas",
+    "3s": "no desfallezca",
+    "1p": "no desfallezcamos",
+    "2p": "no desfallezcáis",
+    "3p": "no desfallezcan"
+  },
+  "Part-ter": {
+    "": "desfallecido"
+  },
+  "Part-ser": {
+    "ms": "desfallecido",
+    "fs": "desfallecida",
+    "mp": "desfallecidos",
+    "fp": "desfallecidas"
+  }
+}

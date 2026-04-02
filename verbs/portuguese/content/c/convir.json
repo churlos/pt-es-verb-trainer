@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "convir"
+  },
+  "InfP": {
+    "1s": "convir",
+    "2s": "convires",
+    "3s": "convir",
+    "1p": "convirmos",
+    "2p": "convirdes",
+    "3p": "convirem"
+  },
+  "Ger": {
+    "": "convindo"
+  },
+  "PresI": {
+    "1s": "convenho",
+    "2s": "convéns",
+    "3s": "convém",
+    "1p": "convimos",
+    "2p": "convindes",
+    "3p": "convêm"
+  },
+  "PImpI": {
+    "1s": "convinha",
+    "2s": "convinhas",
+    "3s": "convinha",
+    "1p": "convínhamos",
+    "2p": "convínheis",
+    "3p": "convinham"
+  },
+  "PPSI": {
+    "1s": "convim",
+    "2s": "convieste",
+    "3s": "conveio",
+    "1p": "conviemos",
+    "2p": "conviestes",
+    "3p": "convieram"
+  },
+  "PMQPSI": {
+    "1s": "conviera",
+    "2s": "convieras",
+    "3s": "conviera",
+    "1p": "conviéramos",
+    "2p": "conviéreis",
+    "3p": "convieram"
+  },
+  "FutSI": {
+    "1s": "convirei",
+    "2s": "convirás",
+    "3s": "convirá",
+    "1p": "conviremos",
+    "2p": "convireis",
+    "3p": "convirão"
+  },
+  "CondS": {
+    "1s": "conviria",
+    "2s": "convirias",
+    "3s": "conviria",
+    "1p": "conviríamos",
+    "2p": "conviríeis",
+    "3p": "conviriam"
+  },
+  "PresC": {
+    "1s": "convenha",
+    "2s": "convenhas",
+    "3s": "convenha",
+    "1p": "convenhamos",
+    "2p": "convenhais",
+    "3p": "convenham"
+  },
+  "PImpC": {
+    "1s": "conviesse",
+    "2s": "conviesses",
+    "3s": "conviesse",
+    "1p": "conviéssemos",
+    "2p": "conviésseis",
+    "3p": "conviessem"
+  },
+  "FutSC": {
+    "1s": "convier",
+    "2s": "convieres",
+    "3s": "convier",
+    "1p": "conviermos",
+    "2p": "convierdes",
+    "3p": "convierem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "convém",
+    "3s": "convenha",
+    "1p": "convenhamos",
+    "2p": "convinde",
+    "3p": "convenham"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não convenhas",
+    "3s": "não convenha",
+    "1p": "não convenhamos",
+    "2p": "não convenhais",
+    "3p": "não convenham"
+  },
+  "Part-ter": {
+    "": "convindo"
+  },
+  "Part-ser": {
+    "ms": "convindo",
+    "fs": "convinda",
+    "mp": "convindos",
+    "fp": "convindas"
+  }
+}

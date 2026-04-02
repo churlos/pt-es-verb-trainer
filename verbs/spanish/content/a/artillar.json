@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "artillar"
+  },
+  "Ger": {
+    "": "artillando"
+  },
+  "PresI": {
+    "1s": "artillo",
+    "2s": "artillas",
+    "3s": "artilla",
+    "1p": "artillamos",
+    "2p": "artilláis",
+    "3p": "artillan"
+  },
+  "PImpI": {
+    "1s": "artillaba",
+    "2s": "artillabas",
+    "3s": "artillaba",
+    "1p": "artillábamos",
+    "2p": "artillabais",
+    "3p": "artillaban"
+  },
+  "PPSI": {
+    "1s": "artillé",
+    "2s": "artillaste",
+    "3s": "artilló",
+    "1p": "artillamos",
+    "2p": "artillasteis",
+    "3p": "artillaron"
+  },
+  "FutSI": {
+    "1s": "artillaré",
+    "2s": "artillarás",
+    "3s": "artillará",
+    "1p": "artillaremos",
+    "2p": "artillaréis",
+    "3p": "artillarán"
+  },
+  "CondS": {
+    "1s": "artillaría",
+    "2s": "artillarías",
+    "3s": "artillaría",
+    "1p": "artillaríamos",
+    "2p": "artillaríais",
+    "3p": "artillarían"
+  },
+  "PresC": {
+    "1s": "artille",
+    "2s": "artilles",
+    "3s": "artille",
+    "1p": "artillemos",
+    "2p": "artilléis",
+    "3p": "artillen"
+  },
+  "PMQPSI": {
+    "1s": "artillara",
+    "2s": "artillaras",
+    "3s": "artillara",
+    "1p": "artilláramos",
+    "2p": "artillarais",
+    "3p": "artillaran"
+  },
+  "PImpC": {
+    "1s": "artillase",
+    "2s": "artillases",
+    "3s": "artillase",
+    "1p": "artillásemos",
+    "2p": "artillaseis",
+    "3p": "artillasen"
+  },
+  "FutSC": {
+    "1s": "artillare",
+    "2s": "artillares",
+    "3s": "artillare",
+    "1p": "artilláremos",
+    "2p": "artillareis",
+    "3p": "artillaren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "artilla",
+    "3s": "artille",
+    "1p": "artillemos",
+    "2p": "artillad",
+    "3p": "artillen"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no artilles",
+    "3s": "no artille",
+    "1p": "no artillemos",
+    "2p": "no artilléis",
+    "3p": "no artillen"
+  },
+  "Part-ter": {
+    "": "artillado"
+  },
+  "Part-ser": {
+    "ms": "artillado",
+    "fs": "artillada",
+    "mp": "artillados",
+    "fp": "artilladas"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "arrancar"
+  },
+  "InfP": {
+    "1s": "arrancar",
+    "2s": "arrancares",
+    "3s": "arrancar",
+    "1p": "arrancarmos",
+    "2p": "arrancardes",
+    "3p": "arrancarem"
+  },
+  "Ger": {
+    "": "arrancando"
+  },
+  "PresI": {
+    "1s": "arranco",
+    "2s": "arrancas",
+    "3s": "arranca",
+    "1p": "arrancamos",
+    "2p": "arrancais",
+    "3p": "arrancam"
+  },
+  "PImpI": {
+    "1s": "arrancava",
+    "2s": "arrancavas",
+    "3s": "arrancava",
+    "1p": "arrancávamos",
+    "2p": "arrancáveis",
+    "3p": "arrancavam"
+  },
+  "PPSI": {
+    "1s": "arranquei",
+    "2s": "arrancaste",
+    "3s": "arrancou",
+    "1p": "arrancámos",
+    "2p": "arrancastes",
+    "3p": "arrancaram"
+  },
+  "PMQPSI": {
+    "1s": "arrancara",
+    "2s": "arrancaras",
+    "3s": "arrancara",
+    "1p": "arrancáramos",
+    "2p": "arrancáreis",
+    "3p": "arrancaram"
+  },
+  "FutSI": {
+    "1s": "arrancarei",
+    "2s": "arrancarás",
+    "3s": "arrancará",
+    "1p": "arrancaremos",
+    "2p": "arrancareis",
+    "3p": "arrancarão"
+  },
+  "CondS": {
+    "1s": "arrancaria",
+    "2s": "arrancarias",
+    "3s": "arrancaria",
+    "1p": "arrancaríamos",
+    "2p": "arrancaríeis",
+    "3p": "arrancariam"
+  },
+  "PresC": {
+    "1s": "arranque",
+    "2s": "arranques",
+    "3s": "arranque",
+    "1p": "arranquemos",
+    "2p": "arranqueis",
+    "3p": "arranquem"
+  },
+  "PImpC": {
+    "1s": "arrancasse",
+    "2s": "arrancasses",
+    "3s": "arrancasse",
+    "1p": "arrancássemos",
+    "2p": "arrancásseis",
+    "3p": "arrancassem"
+  },
+  "FutSC": {
+    "1s": "arrancar",
+    "2s": "arrancares",
+    "3s": "arrancar",
+    "1p": "arrancarmos",
+    "2p": "arrancardes",
+    "3p": "arrancarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "arranca",
+    "3s": "arranque",
+    "1p": "arranquemos",
+    "2p": "arrancai",
+    "3p": "arranquem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não arranques",
+    "3s": "não arranque",
+    "1p": "não arranquemos",
+    "2p": "não arranqueis",
+    "3p": "não arranquem"
+  },
+  "Part-ter": {
+    "": "arrancado"
+  },
+  "Part-ser": {
+    "ms": "arrancado",
+    "fs": "arrancada",
+    "mp": "arrancados",
+    "fp": "arrancadas"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "InfI": {
+    "": "cocer"
+  },
+  "Ger": {
+    "": "cociendo"
+  },
+  "PresI": {
+    "1s": "cuezo",
+    "2s": "cueces",
+    "3s": "cuece",
+    "1p": "cocemos",
+    "2p": "cocéis",
+    "3p": "cuecen"
+  },
+  "PImpI": {
+    "1s": "cocía",
+    "2s": "cocías",
+    "3s": "cocía",
+    "1p": "cocíamos",
+    "2p": "cocíais",
+    "3p": "cocían"
+  },
+  "PPSI": {
+    "1s": "cocí",
+    "2s": "cociste",
+    "3s": "coció",
+    "1p": "cocimos",
+    "2p": "cocisteis",
+    "3p": "cocieron"
+  },
+  "FutSI": {
+    "1s": "coceré",
+    "2s": "cocerás",
+    "3s": "cocerá",
+    "1p": "coceremos",
+    "2p": "coceréis",
+    "3p": "cocerán"
+  },
+  "CondS": {
+    "1s": "cocería",
+    "2s": "cocerías",
+    "3s": "cocería",
+    "1p": "coceríamos",
+    "2p": "coceríais",
+    "3p": "cocerían"
+  },
+  "PresC": {
+    "1s": "cueza",
+    "2s": "cuezas",
+    "3s": "cueza",
+    "1p": "cozamos",
+    "2p": "cozáis",
+    "3p": "cuezan"
+  },
+  "PMQPSI": {
+    "1s": "cociera",
+    "2s": "cocieras",
+    "3s": "cociera",
+    "1p": "cociéramos",
+    "2p": "cocierais",
+    "3p": "cocieran"
+  },
+  "PImpC": {
+    "1s": "cociese",
+    "2s": "cocieses",
+    "3s": "cociese",
+    "1p": "cociésemos",
+    "2p": "cocieseis",
+    "3p": "cociesen"
+  },
+  "FutSC": {
+    "1s": "cociere",
+    "2s": "cocieres",
+    "3s": "cociere",
+    "1p": "cociéremos",
+    "2p": "cociereis",
+    "3p": "cocieren"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "cuece",
+    "3s": "cueza",
+    "1p": "cozamos",
+    "2p": "coced",
+    "3p": "cuezan"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "no cuezas",
+    "3s": "no cueza",
+    "1p": "no cozamos",
+    "2p": "no cozáis",
+    "3p": "no cuezan"
+  },
+  "Part-ter": {
+    "": "cocido"
+  },
+  "Part-ser": {
+    "ms": "cocido",
+    "fs": "cocida",
+    "mp": "cocidos",
+    "fp": "cocidas"
+  }
+}

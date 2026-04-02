@@ -1,0 +1,113 @@
+{
+  "InfI": {
+    "": "alcançar"
+  },
+  "InfP": {
+    "1s": "alcançar",
+    "2s": "alcançares",
+    "3s": "alcançar",
+    "1p": "alcançarmos",
+    "2p": "alcançardes",
+    "3p": "alcançarem"
+  },
+  "Ger": {
+    "": "alcançando"
+  },
+  "PresI": {
+    "1s": "alcanço",
+    "2s": "alcanças",
+    "3s": "alcança",
+    "1p": "alcançamos",
+    "2p": "alcançais",
+    "3p": "alcançam"
+  },
+  "PImpI": {
+    "1s": "alcançava",
+    "2s": "alcançavas",
+    "3s": "alcançava",
+    "1p": "alcançávamos",
+    "2p": "alcançáveis",
+    "3p": "alcançavam"
+  },
+  "PPSI": {
+    "1s": "alcancei",
+    "2s": "alcançaste",
+    "3s": "alcançou",
+    "1p": "alcançámos",
+    "2p": "alcançastes",
+    "3p": "alcançaram"
+  },
+  "PMQPSI": {
+    "1s": "alcançara",
+    "2s": "alcançaras",
+    "3s": "alcançara",
+    "1p": "alcançáramos",
+    "2p": "alcançáreis",
+    "3p": "alcançaram"
+  },
+  "FutSI": {
+    "1s": "alcançarei",
+    "2s": "alcançarás",
+    "3s": "alcançará",
+    "1p": "alcançaremos",
+    "2p": "alcançareis",
+    "3p": "alcançarão"
+  },
+  "CondS": {
+    "1s": "alcançaria",
+    "2s": "alcançarias",
+    "3s": "alcançaria",
+    "1p": "alcançaríamos",
+    "2p": "alcançaríeis",
+    "3p": "alcançariam"
+  },
+  "PresC": {
+    "1s": "alcance",
+    "2s": "alcances",
+    "3s": "alcance",
+    "1p": "alcancemos",
+    "2p": "alcanceis",
+    "3p": "alcancem"
+  },
+  "PImpC": {
+    "1s": "alcançasse",
+    "2s": "alcançasses",
+    "3s": "alcançasse",
+    "1p": "alcançássemos",
+    "2p": "alcançásseis",
+    "3p": "alcançassem"
+  },
+  "FutSC": {
+    "1s": "alcançar",
+    "2s": "alcançares",
+    "3s": "alcançar",
+    "1p": "alcançarmos",
+    "2p": "alcançardes",
+    "3p": "alcançarem"
+  },
+  "ImpA": {
+    "1s": "",
+    "2s": "alcança",
+    "3s": "alcance",
+    "1p": "alcancemos",
+    "2p": "alcançai",
+    "3p": "alcancem"
+  },
+  "ImpN": {
+    "1s": "",
+    "2s": "não alcances",
+    "3s": "não alcance",
+    "1p": "não alcancemos",
+    "2p": "não alcanceis",
+    "3p": "não alcancem"
+  },
+  "Part-ter": {
+    "": "alcançado"
+  },
+  "Part-ser": {
+    "ms": "alcançado",
+    "fs": "alcançada",
+    "mp": "alcançados",
+    "fp": "alcançadas"
+  }
+}
